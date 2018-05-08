@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Commodore C128 - Games - [D81]"
+	description "Commodore C128 - Games - [D81] (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Games - [D81]"
+	version 2011-10-06
+	author "DesertWolf"
+)
+
+game (
+	name "Adventure Games 128 (19xx)(-)"
+	description "Adventure Games 128 (19xx)(-)"
+	rom ( name "Adventure Games 128 (19xx)(-).d81" size 819200 crc 4286899e md5 9b4741c89676005d581c5f4568d1b021 sha1 469e6cc4641750f1cd314e8afdd0dd7eeff64cf1 )
+)
+
+game (
+	name "Brett-Games 128 (19xx)(-)"
+	description "Brett-Games 128 (19xx)(-)"
+	rom ( name "Brett-Games 128 (19xx)(-).d81" size 819200 crc 047e86c7 md5 d4f0e2b1254f13bbe12a790350720a4c sha1 ae952420286df620a056153a9ba516baf945da4c )
+)
+

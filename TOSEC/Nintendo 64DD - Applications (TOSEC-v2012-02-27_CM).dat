@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo 64DD - Applications"
+	description "Nintendo 64DD - Applications (TOSEC-v2012-02-27)"
+	category "Nintendo 64DD - Applications"
+	version 2012-02-27
+	author "Cassiel"
+)
+
+game (
+	name "Dezaemon DD Rev 199802 (1998)(Athena)(JP)(en-ja)(proto)[Req Dezaemon 3D]"
+	description "Dezaemon DD Rev 199802 (1998)(Athena)(JP)(en-ja)(proto)[Req Dezaemon 3D]"
+	rom ( name "Dezaemon DD Rev 199802 (1998)(Athena)(JP)(en-ja)(proto)[Req Dezaemon 3D].bin" size 64458560 crc ccb84a39 md5 99a67674130f271f150db75c02d14f0a sha1 d5cc4ab1fc79e27e54a9ad08c4dee47256352006 )
+)
+

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Kaypro II - Compilations"
+	description "Kaypro II - Compilations (TOSEC-v2012-02-27)"
+	category "Kaypro II - Compilations"
+	version 2012-02-27
+	author "TKaos"
+)
+
+game (
+	name "Perfect Writer - Docs and Utilities (198x)(-)"
+	description "Perfect Writer - Docs and Utilities (198x)(-)"
+	rom ( name "Perfect Writer - Docs and Utilities (198x)(-).imd" size 151202 crc 94cda75d md5 659014132daa00508b28b90add7c0cde sha1 46348510ff682ef3a8a1e5a27f1625beae21980e )
+)
+

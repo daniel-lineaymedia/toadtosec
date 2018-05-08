@@ -1,0 +1,121 @@
+clrmamepro (
+	name "Acorn Electron - Applications - [UEF]"
+	description "Acorn Electron - Applications - [UEF] (TOSEC-v2008-10-11)"
+	category "Acorn Electron - Applications - [UEF]"
+	version 2008-10-11
+	author "Grendel - Tankgirl - CRSV - Cassiel"
+)
+
+game (
+	name "Acornsoft Desk Diary (198x)(Acornsoft)"
+	description "Acornsoft Desk Diary (198x)(Acornsoft)"
+	rom ( name "Acornsoft Desk Diary (198x)(Acornsoft).uef" size 10631 crc e0a376f4 md5 34cbfef54c5ed32a9b3246792d746a19 )
+)
+
+game (
+	name "Acornsoft Forth (1983)(Acornsoft)"
+	description "Acornsoft Forth (1983)(Acornsoft)"
+	rom ( name "Acornsoft Forth (1983)(Acornsoft).uef" size 17677 crc e34b79a8 md5 7f08ff15fad01aa2b556cafd93fb2e56 )
+)
+
+game (
+	name "Acornsoft Forth (1983)(Acornsoft)[a]"
+	description "Acornsoft Forth (1983)(Acornsoft)[a]"
+	rom ( name "Acornsoft Forth (1983)(Acornsoft)[a].uef" size 17704 crc a86e46bd md5 d0f4a1ff6ac9a2147af0dfea726ea818 )
+)
+
+game (
+	name "Acornsoft Zeichenbrett (198x)(Acornsoft)"
+	description "Acornsoft Zeichenbrett (198x)(Acornsoft)"
+	rom ( name "Acornsoft Zeichenbrett (198x)(Acornsoft).uef" size 18354 crc e158301b md5 f01940b8c9d1d7e5632269a4fbf1a1de )
+)
+
+game (
+	name "Arcade Games Creator (198x)(-)"
+	description "Arcade Games Creator (198x)(-)"
+	rom ( name "Arcade Games Creator (198x)(-).uef" size 12465 crc 40495057 md5 080de57d9981921b71fe65b6999e664a )
+)
+
+game (
+	name "First Byte Electron S-J Interface Game Conversion Program - Setup (1984)(First Byte)"
+	description "First Byte Electron S-J Interface Game Conversion Program - Setup (1984)(First Byte)"
+	rom ( name "First Byte Electron S-J Interface Game Conversion Program - Setup (1984)(First Byte).uef" size 3103 crc a14bbd09 md5 5ec9fafc5a6623d082888717a312f9d3 )
+)
+
+game (
+	name "Graphito (19xx)(Addison Wesley)(Side A)[b]"
+	description "Graphito (19xx)(Addison Wesley)(Side A)[b]"
+	rom ( name "Graphito (19xx)(Addison Wesley)(Side A)[b].uef" size 22943 crc 8dc66cc7 md5 7f6d09212d9c2e56e3c3754119015c6c )
+)
+
+game (
+	name "Graphito (19xx)(Addison Wesley)(Side B)[b]"
+	description "Graphito (19xx)(Addison Wesley)(Side B)[b]"
+	rom ( name "Graphito (19xx)(Addison Wesley)(Side B)[b].uef" size 24492 crc 5116e227 md5 cbc485a60e1a6949e20764cf0311f98c )
+)
+
+game (
+	name "Honey LOGO (1985)(Glentop Publishers)"
+	description "Honey LOGO (1985)(Glentop Publishers)"
+	rom ( name "Honey LOGO (1985)(Glentop Publishers).uef" size 9301 crc 89897c5e md5 77d9eebeb6c3e97dff644d84b3205fc2 )
+)
+
+game (
+	name "Image Tape Back-up Copier (1984)(Donn, Peter)"
+	description "Image Tape Back-up Copier (1984)(Donn, Peter)"
+	rom ( name "Image Tape Back-up Copier (1984)(Donn, Peter).uef" size 1308 crc bd4d5fa9 md5 f777c5963bfb309d70862e543f7028a3 )
+)
+
+game (
+	name "Joystick Adval Utility v0.2 (1984)(Bud Software)"
+	description "Joystick Adval Utility v0.2 (1984)(Bud Software)"
+	rom ( name "Joystick Adval Utility v0.2 (1984)(Bud Software).uef" size 1171 crc b6dedba4 md5 fda7fc2dd838e3d51e9dc1999de36818 )
+)
+
+game (
+	name "Joystick Programming Utility v0.2 (1984)(Bud Software)"
+	description "Joystick Programming Utility v0.2 (1984)(Bud Software)"
+	rom ( name "Joystick Programming Utility v0.2 (1984)(Bud Software).uef" size 1724 crc b97875fb md5 270414686f9d0316d770acc26792c0a7 )
+)
+
+game (
+	name "Mini Office - Database (198x)(-)"
+	description "Mini Office - Database (198x)(-)"
+	rom ( name "Mini Office - Database (198x)(-).uef" size 13599 crc 9792cb4c md5 8c657222c2777f95b4cd1a7cb53fe77c )
+)
+
+game (
+	name "Mini Office - Graphics (198x)(-)"
+	description "Mini Office - Graphics (198x)(-)"
+	rom ( name "Mini Office - Graphics (198x)(-).uef" size 10151 crc 6651846c md5 76833af379355f1aabf5af777e241b8a )
+)
+
+game (
+	name "Mini Office - Spreadsheet (198x)(Superior Software)"
+	description "Mini Office - Spreadsheet (198x)(Superior Software)"
+	rom ( name "Mini Office - Spreadsheet (198x)(Superior Software).uef" size 16020 crc 322d5074 md5 cfd6edb4ad322edeae557cb2a12733a3 )
+)
+
+game (
+	name "Mini Office - Word Processor (198x)(-)"
+	description "Mini Office - Word Processor (198x)(-)"
+	rom ( name "Mini Office - Word Processor (198x)(-).uef" size 13220 crc f6d6ce7b md5 8e3d2b4ecc094cf4e88b1359f60bb6f7 )
+)
+
+game (
+	name "Plus One Joystick Utility (198x)(Micro Power)"
+	description "Plus One Joystick Utility (198x)(Micro Power)"
+	rom ( name "Plus One Joystick Utility (198x)(Micro Power).uef" size 2000 crc 43f44d49 md5 386ec7b39b6ea0df12a47361a250ec3b )
+)
+
+game (
+	name "Repton 3 Series Passwords and Editcodes (198x)(-)[h]"
+	description "Repton 3 Series Passwords and Editcodes (198x)(-)[h]"
+	rom ( name "Repton 3 Series Passwords and Editcodes (198x)(-)[h].uef" size 91312 crc e8b8a891 md5 879feb46b42be3c6c00ed5c611994559 )
+)
+
+game (
+	name "Turtle Graphics v1.0 (198x)(Acornsoft)"
+	description "Turtle Graphics v1.0 (198x)(Acornsoft)"
+	rom ( name "Turtle Graphics v1.0 (198x)(Acornsoft).uef" size 8382 crc da057171 md5 afdb01d6e1fd46752d5d068b72186a86 )
+)

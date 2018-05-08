@@ -1,0 +1,133 @@
+clrmamepro (
+	name "Atari ST - Diskmags - [STX]"
+	description "Atari ST - Diskmags - [STX] (TOSEC-v2009-09-01)"
+	category "Atari ST - Diskmags - [STX]"
+	version 2009-09-01
+	author "jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph"
+)
+
+game (
+	name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1878602 crc 344488ca md5 85723f6cac4e513b1def176275586234 )
+)
+
+game (
+	name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	description "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	rom ( name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 1 of 2)[a].stx" size 1874356 crc 064dd29c md5 f578bda40f5020ff3da6c54cdd5a4a93 )
+)
+
+game (
+	name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1875608 crc 9b0ef1be md5 d0b32108ba3ecd0f2f50981c484084f1 )
+)
+
+game (
+	name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	description "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	rom ( name "Stampede - Issue 1 (1990-05)(Jenqrove Ent.)(Disk 2 of 2)[a].stx" size 1869950 crc 824c4b24 md5 7415c95ca457318616cad17ef7fcae53 )
+)
+
+game (
+	name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1874978 crc 409d0f07 md5 84fd78bd365ab1859e8ea91f4c053042 )
+)
+
+game (
+	name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	description "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	rom ( name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 1 of 2)[a].stx" size 1873862 crc f4333c89 md5 4241252f96995e09cca29aebc6390a86 )
+)
+
+game (
+	name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1872612 crc 80971f14 md5 4d2e89979988331483117e6988accc82 )
+)
+
+game (
+	name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	description "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	rom ( name "Stampede - Issue 2 (1990-06)(Jenqrove Ent.)(Disk 2 of 2)[a].stx" size 1880670 crc 6bf3f98b md5 0806a7fc21eeb1b63def679b88bce65a )
+)
+
+game (
+	name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1853876 crc 37f56765 md5 85578ac29f78f08acd51103568661877 )
+)
+
+game (
+	name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	description "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	rom ( name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 1 of 2)[a].stx" size 1852322 crc ab4f6eac md5 1d26f548b81a000593915be2d120b398 )
+)
+
+game (
+	name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1860258 crc 2ff9db45 md5 971e891e0e1dee62160007bf30e9945a )
+)
+
+game (
+	name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	description "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2)[a]"
+	rom ( name "Stampede - Issue 3 (1990-07)(Jenqrove Ent.)(Disk 2 of 2)[a].stx" size 1864910 crc 32b51430 md5 4d0480af562afa428456c7df03890c46 )
+)
+
+game (
+	name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1851792 crc 2b81a54d md5 3434572f08bb36d905040f6441ac5812 )
+)
+
+game (
+	name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	description "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2)[a]"
+	rom ( name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 1 of 2)[a].stx" size 1854268 crc 7288dc1f md5 d3cb78b544f781cc18255f698a4ac3b3 )
+)
+
+game (
+	name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 4 (1990-08)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1860774 crc c1760b0d md5 9fcd1373b82a2ecae2526a68663477f1 )
+)
+
+game (
+	name "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1853344 crc 843f376c md5 b0bded0c682b564f5fe5fb50a6f74c13 )
+)
+
+game (
+	name "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 5 (1990-09)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1872498 crc 210c2d84 md5 31ffbce03efc1d6814de6e3f005071e9 )
+)
+
+game (
+	name "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1854612 crc 497a468a md5 e6b1d9c3d473360775185854c6ecbe82 )
+)
+
+game (
+	name "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 6 (1990-10)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1852282 crc ea04a574 md5 8362efd880c847d1911208c8bdec5f1a )
+)
+
+game (
+	name "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 1 of 2)"
+	description "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 1 of 2)"
+	rom ( name "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 1 of 2).stx" size 1859980 crc 6fe9aed5 md5 f7641aeb3f6e84eb484d0f3481f9e80e )
+)
+
+game (
+	name "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 2 of 2)"
+	description "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 2 of 2)"
+	rom ( name "Stampede - Issue 7 (1990-11)(Jenqrove Ent.)(Disk 2 of 2).stx" size 1858274 crc a0e11f26 md5 68baf9875d12f66929b8c1cec33de145 )
+)

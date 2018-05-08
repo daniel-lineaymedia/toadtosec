@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Atari 8bit - Compilations - Educational - [ATR]"
+	description "Atari 8bit - Compilations - Educational - [ATR] (TOSEC-v2010-11-14)"
+	category "Atari 8bit - Compilations - Educational - [ATR]"
+	version 2010-11-14
+	author "TKaos"
+)
+
+game (
+	name "Battling Bugs + Concentraction (1982)(Milliken)(US)[BASIC]"
+	description "Battling Bugs + Concentraction (1982)(Milliken)(US)[BASIC]"
+	rom ( name "Battling Bugs + Concentraction (1982)(Milliken)(US)[BASIC].atr" size 92176 crc c8d04a94 md5 8dff61da2ad1a5f22d18b6f31584b8bf )
+)
+
+game (
+	name "Crocodile + Flip Flop (19xx)(Atari)(FR)[BASIC]"
+	description "Crocodile + Flip Flop (19xx)(Atari)(FR)[BASIC]"
+	rom ( name "Crocodile + Flip Flop (19xx)(Atari)(FR)[BASIC].atr" size 92176 crc 53968582 md5 f902f9a55e086f869bc342e83c42d510 )
+)

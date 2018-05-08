@@ -1,0 +1,133 @@
+clrmamepro (
+	name "Acorn BBC - Coverdisks - [SSD]"
+	description "Acorn BBC - Coverdisks - [SSD] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Coverdisks - [SSD]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Acorn User Education Disk (19xx)(Redwood Publishing)"
+	description "Acorn User Education Disk (19xx)(Redwood Publishing)"
+	rom ( name "Acorn User Education Disk (19xx)(Redwood Publishing).ssd" size 204800 crc 8e3b61aa md5 4637252910aafa905a6a9902975b90a6 )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery).ssd" size 99072 crc 96410443 md5 5db666484142ecf15b80fd1048d49a9f )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a]"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a]"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a].ssd" size 99072 crc bcc50d65 md5 8d45d791491614db9fe3545f8282f353 )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a2]"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a2]"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a2].ssd" size 100352 crc fdc7eead md5 aafa6ce9d14613e9e3119877b2744b51 )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a3]"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a3]"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 1 of 2)(Gallery)[a3].ssd" size 100352 crc 805e23e9 md5 88f529f37270469a40f32b820845bdf2 )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures).ssd" size 161792 crc 63dee959 md5 1c2fd6278d077655055bc522e3eda5cb )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a]"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a]"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a].ssd" size 204800 crc 7eefe30d md5 362f638914fa6253767838fcfbfbcf3b )
+)
+
+game (
+	name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a2]"
+	description "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a2]"
+	rom ( name "Acorn User Gallery (1985)(Redwood Publishing)(Disk 2 of 2)(Pictures)[a2].ssd" size 204800 crc cd69b8ad md5 3f0da4e78f2f2011282a537ced88253f )
+)
+
+game (
+	name "Acorn User Games Disc (1988)(Redwood Publishing)[h TSTH]"
+	description "Acorn User Games Disc (1988)(Redwood Publishing)[h TSTH]"
+	rom ( name "Acorn User Games Disc (1988)(Redwood Publishing)[h TSTH].ssd" size 158720 crc fec427b4 md5 3d68c4dcb892bcc68078b5de4f0c7132 )
+)
+
+game (
+	name "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 0)"
+	description "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 0)"
+	rom ( name "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 0).ssd" size 204800 crc 303f87fc md5 413191db0477f4b377c367e54222b4d4 )
+)
+
+game (
+	name "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 1)"
+	description "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 1)"
+	rom ( name "Acorn User Graphics Bonus (19xx)(Redwood Publishing)(Side 1).ssd" size 204800 crc 5a37fd5a md5 b6c89b7ec421ded733eb16c605089e6b )
+)
+
+game (
+	name "Acorn User Graphics Bonus (19xx)(Redwood Publishing)"
+	description "Acorn User Graphics Bonus (19xx)(Redwood Publishing)"
+	rom ( name "Acorn User Graphics Bonus (19xx)(Redwood Publishing).ssd" size 203264 crc fe5fe69d md5 179141afe1264522ea992271e1dd5f57 )
+)
+
+game (
+	name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a][RUN !BOOT]"
+	description "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a][RUN !BOOT]"
+	rom ( name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a][RUN !BOOT].ssd" size 93440 crc 3788fc20 md5 c1c1895dcffb2f962fbe0a3d7511fedd )
+)
+
+game (
+	name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a2][RUN !BOOT]"
+	description "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a2][RUN !BOOT]"
+	rom ( name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a2][RUN !BOOT].ssd" size 93440 crc de05df11 md5 1f55605f318f25d418b9464d8d08ee40 )
+)
+
+game (
+	name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a3][RUN !BOOT]"
+	description "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a3][RUN !BOOT]"
+	rom ( name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[a3][RUN !BOOT].ssd" size 204800 crc ac4f8b36 md5 f39d9887ff385d6309d7f2769bf194c4 )
+)
+
+game (
+	name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[RUN !BOOT]"
+	description "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[RUN !BOOT]"
+	rom ( name "Acorn User Graphics Utilities Disk (19xx)(Redwood Publishing)[RUN !BOOT].ssd" size 93440 crc 0ed8032a md5 23a7c8f8d319a15baac0a67860e5bcb7 )
+)
+
+game (
+	name "Acorn User Network Utility Disk (1986)(Redwood Publishing)"
+	description "Acorn User Network Utility Disk (1986)(Redwood Publishing)"
+	rom ( name "Acorn User Network Utility Disk (1986)(Redwood Publishing).ssd" size 204800 crc 0d075447 md5 b9e116639bc5ea8c4d80edcf85155638 )
+)
+
+game (
+	name "Acorn User Portfolio Disk (1987)(Redwood Publishing)"
+	description "Acorn User Portfolio Disk (1987)(Redwood Publishing)"
+	rom ( name "Acorn User Portfolio Disk (1987)(Redwood Publishing).ssd" size 204800 crc cdfffb12 md5 0abfd0bf2ee59b472ec6a3558b7c53ad )
+)
+
+game (
+	name "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 0)"
+	description "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 0)"
+	rom ( name "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 0).ssd" size 204800 crc 10330471 md5 f2d103b7e1948565b39ec3b56dc6eecd )
+)
+
+game (
+	name "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 1)"
+	description "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 1)"
+	rom ( name "Acorn User Swr Utilities (1986)(Redwood Publishing)(Side 1).ssd" size 204800 crc d3789f26 md5 0038a10c12da20efeb251d876a2b61f3 )
+)
+
+game (
+	name "Acorn User Swr Utilities (1986)(Redwood Publishing)"
+	description "Acorn User Swr Utilities (1986)(Redwood Publishing)"
+	rom ( name "Acorn User Swr Utilities (1986)(Redwood Publishing).ssd" size 204800 crc 8aadd43c md5 5aa806733cc2d38852721a50950bf602 )
+)

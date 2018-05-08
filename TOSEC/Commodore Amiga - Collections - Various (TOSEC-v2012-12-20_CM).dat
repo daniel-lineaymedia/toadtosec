@@ -1,0 +1,188 @@
+clrmamepro (
+	name "Commodore Amiga - Collections - Various"
+	description "Commodore Amiga - Collections - Various (TOSEC-v2012-12-20)"
+	category "Commodore Amiga - Collections - Various"
+	version 2012-12-20
+	author "idoru - Crashdisk"
+)
+
+game (
+	name "AMICUS Network 16 (19xx)(PIM Publications)(PD)"
+	description "AMICUS Network 16 (19xx)(PIM Publications)(PD)"
+	rom ( name "AMICUS Network 16 (19xx)(PIM Publications)(PD).adf" size 901120 crc fea6bdce md5 7b0425e6860615addbb5144aeea3c317 sha1 f4d8656ff8fed00000ae51e37546634efb39866c )
+)
+
+game (
+	name "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD)"
+	description "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD)"
+	rom ( name "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD).adf" size 901120 crc eea9a718 md5 a9fa904207db64acba9f58534823a7f5 sha1 6ae5b5a2e6060c5c757276e8d1ccfef14f68abd4 )
+)
+
+game (
+	name "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD)[a]"
+	description "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD)[a]"
+	rom ( name "Amiga Amateur Radio User Group-UK Disk 01 (1989-10-05)(U.K. Group)(PD)[a].adf" size 901120 crc 09b40ba8 md5 86db8ecf1b82c6b179dab72cc52d236c sha1 7376308afc51577b1a59788b911a82e860e4a48c )
+)
+
+game (
+	name "Amiga Library Disk 0015 (1987)(Fred Fish)[b virus damage][WB]"
+	description "Amiga Library Disk 0015 (1987)(Fred Fish)[b virus damage][WB]"
+	rom ( name "Amiga Library Disk 0015 (1987)(Fred Fish)[b virus damage][WB].adf" size 901120 crc 6363663a md5 4459b4368d2408a48c94b2ff765e0c31 sha1 a42bfb1f19184a1a7797690b4ab9a1028b3d7ef3 )
+)
+
+game (
+	name "Amiga Library Disk 0028 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0028 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0028 (1987)(Fred Fish)[WB].adf" size 901120 crc 516b9055 md5 2db8b808d971c975516abcffef3b609b sha1 cfd14bbf12c1c28c3cbd465b4b20bde27335d0b0 )
+)
+
+game (
+	name "Amiga Library Disk 0076 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0076 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0076 (1987)(Fred Fish)[WB].adf" size 901120 crc 44278007 md5 1cbef1dde86598e58c9d52fa5f562c30 sha1 c53b22f48c86cbc0d07b720ec90cae0390c3fcb0 )
+)
+
+game (
+	name "Amiga Library Disk 0077 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0077 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0077 (1987)(Fred Fish)[WB].adf" size 901120 crc 477b0631 md5 88360ddfcc7427b9c0db1fa77bd53771 sha1 a4dc7790954be6d6c856e0b3151778a9301290ae )
+)
+
+game (
+	name "Amiga Library Disk 0116 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0116 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0116 (1987)(Fred Fish)[WB].adf" size 901120 crc b20210ca md5 5894d5fc4065e39614ecdfcf91ab9a2b sha1 11cec8500ccfe1d73bb21222d8a33cf4569cf568 )
+)
+
+game (
+	name "Amiga Library Disk 0167 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0167 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0167 (1987)(Fred Fish)[WB].adf" size 901120 crc e958cb05 md5 a5706a8cc525870879581193f960f51c sha1 0b68d851299f1402ca1abe5d170d36138037246d )
+)
+
+game (
+	name "Amiga Library Disk 0170 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0170 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0170 (1987)(Fred Fish)[WB].adf" size 901120 crc f2274a91 md5 d991f8e0010acaeaa5869f228d7ec74b sha1 cc3b29c90b39d4b3b407fbe65832814c08decbf8 )
+)
+
+game (
+	name "Amiga Library Disk 0180 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0180 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0180 (1987)(Fred Fish)[WB].adf" size 901120 crc a7c7c2e9 md5 8b0734343d0c65a18bfc7b850c7bfb4a sha1 b519ab26963cb8a5b2cbf0cc952c377148a58fd7 )
+)
+
+game (
+	name "Amiga Library Disk 0196 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0196 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0196 (1987)(Fred Fish)[WB].adf" size 901120 crc 76d338da md5 29e37364bc0fdba8eb0c4207318b3dfe sha1 60df887465ef5558d77c74112da931a5fd0a9826 )
+)
+
+game (
+	name "Amiga Library Disk 0206 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0206 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0206 (1987)(Fred Fish)[WB].adf" size 901120 crc 8437594d md5 2e8b567a70551070e7889ca5cd91c940 sha1 4fc0310b455e712b42bff5a03fc35b871dda6618 )
+)
+
+game (
+	name "Amiga Library Disk 0241 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0241 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0241 (1987)(Fred Fish)[WB].adf" size 901120 crc a284324f md5 5017b8b60205e6010d1fab4be65c76c5 sha1 978c8f5e99809cba0166ad5f86ba63756b5e7a0a )
+)
+
+game (
+	name "Amiga Library Disk 0251 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0251 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0251 (1987)(Fred Fish)[WB].adf" size 901120 crc b585d5e8 md5 3763e6385c0727990714b43b6c4fddd9 sha1 82220fa30b2a1d005376ec01103d62af65614f9e )
+)
+
+game (
+	name "Amiga Library Disk 0300 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0300 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0300 (1987)(Fred Fish)[WB].adf" size 901120 crc e1b341dd md5 963f109e09d1d3c53b7cbf740d19f425 sha1 8c69de9878f9786c3463980f7890d5c946933d42 )
+)
+
+game (
+	name "Amiga Library Disk 0448 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0448 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0448 (1987)(Fred Fish)[WB].adf" size 901120 crc 63bb78bc md5 abbd6c597e2f6290baf9e1332a6e84a4 sha1 500c3fd58898cc95080ce8362f21f01360880716 )
+)
+
+game (
+	name "Amiga Library Disk 0456 (1987)(Fred Fish)[WB]"
+	description "Amiga Library Disk 0456 (1987)(Fred Fish)[WB]"
+	rom ( name "Amiga Library Disk 0456 (1987)(Fred Fish)[WB].adf" size 901120 crc a188e345 md5 631ed70368f19e7cb9afd21a1046213c sha1 b24c13a1237bc64a71cb1aac59c3353f86a53b6f )
+)
+
+game (
+	name "AMIGA-VICE Nr. 100 - Grafik PD Serie (1991)(AMIGA-VICE-PD Software)(DE)(PD)"
+	description "AMIGA-VICE Nr. 100 - Grafik PD Serie (1991)(AMIGA-VICE-PD Software)(DE)(PD)"
+	rom ( name "AMIGA-VICE Nr. 100 - Grafik PD Serie (1991)(AMIGA-VICE-PD Software)(DE)(PD).adf" size 901120 crc 5a185f90 md5 3ba379f42ba8d5a1ed4109dba36da325 sha1 11c8dbc775520bb94733f17a272995b3b2e46217 )
+)
+
+game (
+	name "Miami Amigos (1990-01)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-01)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-01)(Miami Amigos)(PD)[WB].adf" size 901120 crc bdd95490 md5 70cff178979365f69132d5633e89c33f sha1 3c9d2da41c144c0c51f30d9b0ddb68f228b19c9a )
+)
+
+game (
+	name "Miami Amigos (1990-03)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-03)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-03)(Miami Amigos)(PD)[WB].adf" size 901120 crc 8b79956a md5 1af98744cd699da93b2bc0c4261e93c0 sha1 58a51469344eefd3c6d29e7bc3bb65e20d55b24e )
+)
+
+game (
+	name "Miami Amigos (1990-04)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-04)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-04)(Miami Amigos)(PD)[WB].adf" size 901120 crc 851cd4bc md5 c61a99da413d4722b3225c3901d90713 sha1 a20b0a434788ea421a821a727a36a3d8f6068c0a )
+)
+
+game (
+	name "Miami Amigos (1990-07)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-07)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-07)(Miami Amigos)(PD)[WB].adf" size 901120 crc 3df3cb8f md5 c3699de5caee883cc88a12d159ded039 sha1 484bb79001eba931a5947aeece6ff32f668d7c85 )
+)
+
+game (
+	name "Miami Amigos (1990-08)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-08)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-08)(Miami Amigos)(PD)[WB].adf" size 901120 crc 5c138005 md5 13da66da0ff48d3b492af0f84e847862 sha1 37efb3859d4ba5a2b8151660a983c24306daa256 )
+)
+
+game (
+	name "Miami Amigos (1990-09)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-09)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-09)(Miami Amigos)(PD)[WB].adf" size 901120 crc eb61130f md5 3d93a6455fee6e8ed3b35d74f3a5b124 sha1 23710cc6f3d5aa4dbce10cecebd5c582a8633458 )
+)
+
+game (
+	name "Miami Amigos (1990-10)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-10)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-10)(Miami Amigos)(PD)[WB].adf" size 901120 crc f1981caf md5 3bda46709e658f2956c9408222bb893b sha1 5345b221dea13316b87bbe2e6f98c383dc6eb4d2 )
+)
+
+game (
+	name "Miami Amigos (1990-11)(Miami Amigos)(PD)[WB]"
+	description "Miami Amigos (1990-11)(Miami Amigos)(PD)[WB]"
+	rom ( name "Miami Amigos (1990-11)(Miami Amigos)(PD)[WB].adf" size 901120 crc ff2cf7e2 md5 8fd715707fab5542287b1749e7f5b10f sha1 56773aff24e5d58f392a5b54c480633966335b18 )
+)
+
+game (
+	name "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 1 of 2)[WB]"
+	description "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 1 of 2)[WB]"
+	rom ( name "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 1 of 2)[WB].adf" size 901120 crc 519a4725 md5 9d2ad3d4e3de8ddf8d19705317c55ad8 sha1 5cf49ca91b3421ab62511a93a7e42f50050d7540 )
+)
+
+game (
+	name "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 2 of 2)[WB]"
+	description "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 2 of 2)[WB]"
+	rom ( name "Miami Amigos (1990-12)(Miami Amigos)(PD)(Disk 2 of 2)[WB].adf" size 901120 crc 88e5e18b md5 1a2e93756ffb3e49aad41fa55fece011 sha1 3b4db78efb229cbbd670697137002d067e9ae913 )
+)
+
+game (
+	name "S.N.A.G. Disk of the Month (1990-05)(Southern Nevada Amiga Group)(PD)"
+	description "S.N.A.G. Disk of the Month (1990-05)(Southern Nevada Amiga Group)(PD)"
+	rom ( name "S.N.A.G. Disk of the Month (1990-05)(Southern Nevada Amiga Group)(PD).adf" size 901120 crc 2107af5e md5 0b9f8947f6b187b8ac5eb6f6ee6a459a sha1 6f1b2148bd372a90dacfd81d0d654f65f9ac11de )
+)
+

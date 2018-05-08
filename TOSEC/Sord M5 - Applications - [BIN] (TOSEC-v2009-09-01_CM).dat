@@ -1,0 +1,55 @@
+clrmamepro (
+	name "Sord M5 - Applications - [BIN]"
+	description "Sord M5 - Applications - [BIN] (TOSEC-v2009-09-01)"
+	category "Sord M5 - Applications - [BIN]"
+	version 2009-09-01
+	author "Cid - Cassiel - mek1"
+)
+
+game (
+	name "BASIC-F (198x)(Sord)(JP)"
+	description "BASIC-F (198x)(Sord)(JP)"
+	rom ( name "BASIC-F (198x)(Sord)(JP).bin" size 20480 crc 47be051f md5 e2bd7bd8bb10527f045b33c6e40fa6ed )
+)
+
+game (
+	name "BASIC-G (198x)(Sord)(JP)"
+	description "BASIC-G (198x)(Sord)(JP)"
+	rom ( name "BASIC-G (198x)(Sord)(JP).bin" size 16384 crc 107b5ddc md5 46a2209632f97d882e07af0dbccdefff )
+)
+
+game (
+	name "BASIC-I (198x)(Sord)(JP)"
+	description "BASIC-I (198x)(Sord)(JP)"
+	rom ( name "BASIC-I (198x)(Sord)(JP).bin" size 8192 crc 9a98e6ce md5 ddf86db942a3c19fbe46f71d4e5b3ffa )
+)
+
+game (
+	name "BASIC-W (198x)(Sord)(JP)"
+	description "BASIC-W (198x)(Sord)(JP)"
+	rom ( name "BASIC-W (198x)(Sord)(JP).bin" size 20480 crc 2b1087cf md5 41dc3b371d9a88d99fc1c2e16777bc56 )
+)
+
+game (
+	name "FALC (198x)(Sord)(JP)"
+	description "FALC (198x)(Sord)(JP)"
+	rom ( name "FALC (198x)(Sord)(JP).bin" size 16384 crc 78037f97 md5 7a0e4ac13d76c4c9412713eb00bca6ea )
+)
+
+game (
+	name "M5 Terminal (19xx)(-)"
+	description "M5 Terminal (19xx)(-)"
+	rom ( name "M5 Terminal (19xx)(-).bin" size 7168 crc 2b73c483 md5 3124fc3186fbf5f24b960b970bda441f )
+)
+
+game (
+	name "ZZZ-UNK-DEMOWIND"
+	description "ZZZ-UNK-DEMOWIND"
+	rom ( name "ZZZ-UNK-DEMOWIND.bin" size 4352 crc eadb1ed0 md5 6376fdd73e5c2d6c532c02da4d413dbf )
+)
+
+game (
+	name "ZZZ-UNK-PDESIGNE"
+	description "ZZZ-UNK-PDESIGNE"
+	rom ( name "ZZZ-UNK-PDESIGNE.bin" size 16384 crc af987f7b md5 571c680a7f6e640fc520aff0b346dc5f )
+)

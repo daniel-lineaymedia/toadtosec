@@ -1,0 +1,91 @@
+clrmamepro (
+	name "Commodore C64 - Compilations - Games - [D81]"
+	description "Commodore C64 - Compilations - Games - [D81] (TOSEC-v2005-08-02)"
+	category "Commodore C64 - Compilations - Games - [D81]"
+	version 2005-08-02
+	author "DesertWolf"
+)
+
+game (
+	name "Adventure Games #01 (19xx)(-)"
+	description "Adventure Games #01 (19xx)(-)"
+	rom ( name "Adventure Games #01 (19xx)(-).d81" size 819200 crc 8d4726e9 md5 defdaa1838cb1215d70a4975c072e717 )
+)
+
+game (
+	name "Adventure Games #02 (19xx)(-)"
+	description "Adventure Games #02 (19xx)(-)"
+	rom ( name "Adventure Games #02 (19xx)(-).d81" size 819200 crc 25e1216c md5 6b974d78e17b9d050aa83786b90f92a1 )
+)
+
+game (
+	name "Adventure Games #03 (19xx)(-)"
+	description "Adventure Games #03 (19xx)(-)"
+	rom ( name "Adventure Games #03 (19xx)(-).d81" size 819200 crc 24c72dd6 md5 b526417357f7d0106eac03e98e3642f6 )
+)
+
+game (
+	name "Ballergames #01 (19xx)(-)"
+	description "Ballergames #01 (19xx)(-)"
+	rom ( name "Ballergames #01 (19xx)(-).d81" size 819200 crc 039dbd41 md5 3c0fd11bb0cc9d2cc836f9d5457d466c )
+)
+
+game (
+	name "Ballergames #02 (19xx)(-)"
+	description "Ballergames #02 (19xx)(-)"
+	rom ( name "Ballergames #02 (19xx)(-).d81" size 819200 crc 1b9e9f41 md5 e7651465e9b419f6fbcee59fe9d909ca )
+)
+
+game (
+	name "Brett-Games #01 (19xx)(-)"
+	description "Brett-Games #01 (19xx)(-)"
+	rom ( name "Brett-Games #01 (19xx)(-).d81" size 819200 crc 9c69a10b md5 4ee2d3c2c3d72a01dcd9c8d48f29719c )
+)
+
+game (
+	name "G.K.W.-Games (19xx)(-)"
+	description "G.K.W.-Games (19xx)(-)"
+	rom ( name "G.K.W.-Games (19xx)(-).d81" size 819200 crc 7b0c969c md5 2e991e9a631b3ad3679d0ef670bc413e )
+)
+
+game (
+	name "Strategiegames #01 (19xx)(-)"
+	description "Strategiegames #01 (19xx)(-)"
+	rom ( name "Strategiegames #01 (19xx)(-).d81" size 819200 crc 86648f74 md5 e84d86b63e798747c42b27b58ab88665 )
+)
+
+game (
+	name "Strategiegames #02 (19xx)(-)"
+	description "Strategiegames #02 (19xx)(-)"
+	rom ( name "Strategiegames #02 (19xx)(-).d81" size 819200 crc d66e0d59 md5 c8b25e84412c650f1b927a69fcbae5af )
+)
+
+game (
+	name "Strategiegames #03 (19xx)(-)"
+	description "Strategiegames #03 (19xx)(-)"
+	rom ( name "Strategiegames #03 (19xx)(-).d81" size 819200 crc bcde6a7f md5 3404064655bce1aed630ec9a914f9119 )
+)
+
+game (
+	name "Video-Games #01 (19xx)(-)"
+	description "Video-Games #01 (19xx)(-)"
+	rom ( name "Video-Games #01 (19xx)(-).d81" size 819200 crc b1cd10d2 md5 9c3a6b4c46cb2cc69100bb96006ff6c8 )
+)
+
+game (
+	name "Video-Games #02 (19xx)(-)"
+	description "Video-Games #02 (19xx)(-)"
+	rom ( name "Video-Games #02 (19xx)(-).d81" size 819200 crc 348e2b1b md5 39043eeea40a642b9751ba48cbbcc8f8 )
+)
+
+game (
+	name "Video-Games #03 (19xx)(-)"
+	description "Video-Games #03 (19xx)(-)"
+	rom ( name "Video-Games #03 (19xx)(-).d81" size 819200 crc 69eebb3b md5 ea0ad72f227abaebf09f33dad33aa3a9 )
+)
+
+game (
+	name "Video-Games #04 (19xx)(-)"
+	description "Video-Games #04 (19xx)(-)"
+	rom ( name "Video-Games #04 (19xx)(-).d81" size 819200 crc 0d403251 md5 6219d4f32168f054911de5db9c168fa2 )
+)

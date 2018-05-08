@@ -1,0 +1,1093 @@
+clrmamepro (
+	name "Atari Lynx - Demos"
+	description "Atari Lynx - Demos (TOSEC-v2006-10-26)"
+	category "Atari Lynx - Demos"
+	version 2006-10-26
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "Bouncing Balls & Input Test (199x)(-)(PD)"
+	description "Bouncing Balls & Input Test (199x)(-)(PD)"
+	rom ( name "Bouncing Balls & Input Test (199x)(-)(PD).lnx" size 3490 crc a4eb2f3c md5 e2254f62e81b759d06e34f0a6a487388 )
+)
+
+game (
+	name "Break Point Test (199x)(-)(PD)"
+	description "Break Point Test (199x)(-)(PD)"
+	rom ( name "Break Point Test (199x)(-)(PD).lnx" size 480 crc 7b6d81fd md5 c71bc1fc599311acd80cf28428c7d6ca )
+)
+
+game (
+	name "Bubble Bobble Demo v0.2 (199x)(-)[p]"
+	description "Bubble Bobble Demo v0.2 (199x)(-)[p]"
+	rom ( name "Bubble Bobble Demo v0.2 (199x)(-)[p].lnx" size 10791 crc 44c347a5 md5 93c0a39fdaa75977030e62d6b60a5e07 )
+)
+
+game (
+	name "Cartshow (1998)(Domin, Matthias)(PD)"
+	description "Cartshow (1998)(Domin, Matthias)(PD)"
+	rom ( name "Cartshow (1998)(Domin, Matthias)(PD).lnx" size 7156 crc 15088d30 md5 b21e40aad8aa53d00ea49ad416d2f8b9 )
+)
+
+game (
+	name "Circle Draw Routine 1 (199x)(-)(PD)"
+	description "Circle Draw Routine 1 (199x)(-)(PD)"
+	rom ( name "Circle Draw Routine 1 (199x)(-)(PD).lnx" size 9339 crc be9578da md5 56563fc7a96c74e08baa13ec82ba0d10 )
+)
+
+game (
+	name "Circle Draw Routine 2 (199x)(-)(PD)"
+	description "Circle Draw Routine 2 (199x)(-)(PD)"
+	rom ( name "Circle Draw Routine 2 (199x)(-)(PD).lnx" size 7924 crc 1d2409d7 md5 5350ac530f3bbb6122f7b2dbbcca3d4f )
+)
+
+game (
+	name "Clicks Demo 6 (2001)(Domin, Matthias)(PD)"
+	description "Clicks Demo 6 (2001)(Domin, Matthias)(PD)"
+	rom ( name "Clicks Demo 6 (2001)(Domin, Matthias)(PD).lnx" size 262208 crc c99de075 md5 29676018d09b5ceb60aa12db8ff2ace4 )
+)
+
+game (
+	name "Conquest of Zow (1996)(Dodgson, Harry)(PD)"
+	description "Conquest of Zow (1996)(Dodgson, Harry)(PD)"
+	rom ( name "Conquest of Zow (1996)(Dodgson, Harry)(PD).lnx" size 262208 crc 625d44db md5 3922af7ccb3c3726993e5df0e416f44d )
+)
+
+game (
+	name "Conquest of Zow (1996)(Dodgson, Harry)(PD)[a]"
+	description "Conquest of Zow (1996)(Dodgson, Harry)(PD)[a]"
+	rom ( name "Conquest of Zow (1996)(Dodgson, Harry)(PD)[a].lnx" size 262208 crc 9ccfdcd0 md5 07bd684759d0defaa68aa817fbeaa2dc )
+)
+
+game (
+	name "Corridor Routine (1998)(Domin, Matthias)(PD)"
+	description "Corridor Routine (1998)(Domin, Matthias)(PD)"
+	rom ( name "Corridor Routine (1998)(Domin, Matthias)(PD).lnx" size 8527 crc 14631a57 md5 0051bca41eb545997e3d4f4c90933707 )
+)
+
+game (
+	name "Digidemo 1 (1994)(Schick, Bastian)(PD)"
+	description "Digidemo 1 (1994)(Schick, Bastian)(PD)"
+	rom ( name "Digidemo 1 (1994)(Schick, Bastian)(PD).lnx" size 262208 crc 43e6f249 md5 c2e074c4a84967dcb4c8e3001720f44f )
+)
+
+game (
+	name "Digidemo 2 (1994)(Schick, Bastian)(PD)"
+	description "Digidemo 2 (1994)(Schick, Bastian)(PD)"
+	rom ( name "Digidemo 2 (1994)(Schick, Bastian)(PD).lnx" size 262208 crc 4525db06 md5 2dd0b28be52a9e1ca2cdaaf440aad055 )
+)
+
+game (
+	name "Dragnet Music (1994)(Schick, Bastian)[p]"
+	description "Dragnet Music (1994)(Schick, Bastian)[p]"
+	rom ( name "Dragnet Music (1994)(Schick, Bastian)[p].lnx" size 262208 crc 2043d783 md5 ffdf546d72327ff912eded176ab3306e )
+)
+
+game (
+	name "Dragnet Music (1994)(Schick, Bastian)[p][a]"
+	description "Dragnet Music (1994)(Schick, Bastian)[p][a]"
+	rom ( name "Dragnet Music (1994)(Schick, Bastian)[p][a].lnx" size 262208 crc 7cdc4f1b md5 4998f68538f8107774460cdc3e834f87 )
+)
+
+game (
+	name "Dungeon Routine 1 (1997)(Domin, Matthias)(PD)"
+	description "Dungeon Routine 1 (1997)(Domin, Matthias)(PD)"
+	rom ( name "Dungeon Routine 1 (1997)(Domin, Matthias)(PD).lnx" size 39029 crc e30f07de md5 3f795d8ab20a20939fb376da1a9375a2 )
+)
+
+game (
+	name "Dungeon Routine 2 (1998)(Domin, Matthias)(PD)"
+	description "Dungeon Routine 2 (1998)(Domin, Matthias)(PD)"
+	rom ( name "Dungeon Routine 2 (1998)(Domin, Matthias)(PD).lnx" size 41582 crc b5590fb2 md5 25ab9fe41f048b8f83e9b9dd099d3c03 )
+)
+
+game (
+	name "Dungeon Routine 3 (1998)(Domin, Matthias)(PD)"
+	description "Dungeon Routine 3 (1998)(Domin, Matthias)(PD)"
+	rom ( name "Dungeon Routine 3 (1998)(Domin, Matthias)(PD).lnx" size 41576 crc 5b500d7c md5 65b8acaf18251ab3225996556ef18f97 )
+)
+
+game (
+	name "EEPROM Routine 1 (199x)(-)(PD)"
+	description "EEPROM Routine 1 (199x)(-)(PD)"
+	rom ( name "EEPROM Routine 1 (199x)(-)(PD).lnx" size 4212 crc 81547c50 md5 be51f71a14169da1077348b16827f5ba )
+)
+
+game (
+	name "EEPROM Routine 2 (199x)(-)(PD)"
+	description "EEPROM Routine 2 (199x)(-)(PD)"
+	rom ( name "EEPROM Routine 2 (199x)(-)(PD).lnx" size 4043 crc fd057217 md5 eedd71039918f2deee2c0483d50805aa )
+)
+
+game (
+	name "Fighter Demo v0.2 (2000)(Vick)(PD)"
+	description "Fighter Demo v0.2 (2000)(Vick)(PD)"
+	rom ( name "Fighter Demo v0.2 (2000)(Vick)(PD).lnx" size 37790 crc a1ff5cd5 md5 e3dc4fbb020783f843519c58f73b83de )
+)
+
+game (
+	name "Font Routine (199x)(Schick, Bastian)(PD)"
+	description "Font Routine (199x)(Schick, Bastian)(PD)"
+	rom ( name "Font Routine (199x)(Schick, Bastian)(PD).lnx" size 1939 crc 9fb5ff3a md5 a50eed98c3ef04ebf376a77d1ed8c94a )
+)
+
+game (
+	name "Ghouls & Ghosts Demo v0.2 (199x)(-)"
+	description "Ghouls & Ghosts Demo v0.2 (199x)(-)"
+	rom ( name "Ghouls & Ghosts Demo v0.2 (199x)(-).lnx" size 17622 crc 23930cd6 md5 c8dd02d14cef3589d3a60086f9f40eed )
+)
+
+game (
+	name "Interrupt Query Test (199x)(-)(PD)"
+	description "Interrupt Query Test (199x)(-)(PD)"
+	rom ( name "Interrupt Query Test (199x)(-)(PD).lnx" size 467 crc 5bf248e6 md5 c7efc9e4a9162cdfecb1e4c939c186f1 )
+)
+
+game (
+	name "Mandelbrot Demo (1993)(Schick, Bastian)(PD)"
+	description "Mandelbrot Demo (1993)(Schick, Bastian)(PD)"
+	rom ( name "Mandelbrot Demo (1993)(Schick, Bastian)(PD).lnx" size 4952 crc a6491136 md5 afcc19934e16b261b8885cdb7114b7eb )
+)
+
+game (
+	name "Mario Plus Demo (199x)(-)[p]"
+	description "Mario Plus Demo (199x)(-)[p]"
+	rom ( name "Mario Plus Demo (199x)(-)[p].lnx" size 15965 crc d7740530 md5 b8ff19c8a2d0e75d724e7fc033b6abec )
+)
+
+game (
+	name "Mega Man Plus Demo (199x)(-)[p]"
+	description "Mega Man Plus Demo (199x)(-)[p]"
+	rom ( name "Mega Man Plus Demo (199x)(-)[p].lnx" size 12833 crc 678499a4 md5 e839eb5e828e7c4d6dac880591e3398e )
+)
+
+game (
+	name "Mini Demo 1 (1998)(-)(PD)"
+	description "Mini Demo 1 (1998)(-)(PD)"
+	rom ( name "Mini Demo 1 (1998)(-)(PD).lnx" size 601 crc bfc0b689 md5 1938571ef8fd81d90e35794356b0a2c8 )
+)
+
+game (
+	name "Mini Demo 2 (1998)(-)(PD)"
+	description "Mini Demo 2 (1998)(-)(PD)"
+	rom ( name "Mini Demo 2 (1998)(-)(PD).lnx" size 2560 crc 56730ffe md5 6e37872bb53cb584c6c7760cb9e6ea7e )
+)
+
+game (
+	name "Mini Demo 3 (1998)(-)(PD)"
+	description "Mini Demo 3 (1998)(-)(PD)"
+	rom ( name "Mini Demo 3 (1998)(-)(PD).lnx" size 3154 crc 2cc11fc7 md5 f75790f1d300696df6cd91afdbce42d1 )
+)
+
+game (
+	name "Mini Demo 4 (1998)(-)(PD)"
+	description "Mini Demo 4 (1998)(-)(PD)"
+	rom ( name "Mini Demo 4 (1998)(-)(PD).lnx" size 3362 crc b29079dc md5 5656ff8ebd5386093aad8126f2d46f42 )
+)
+
+game (
+	name "Mini Demo 5 (1998)(-)(PD)"
+	description "Mini Demo 5 (1998)(-)(PD)"
+	rom ( name "Mini Demo 5 (1998)(-)(PD).lnx" size 4432 crc c9b906bb md5 5da41a69d5d2f67896063f6032ec1968 )
+)
+
+game (
+	name "Mini Demo 6 (1998)(-)(PD)"
+	description "Mini Demo 6 (1998)(-)(PD)"
+	rom ( name "Mini Demo 6 (1998)(-)(PD).lnx" size 18022 crc ef71c010 md5 c7b970a8376e8bf5bd18848b71b9b532 )
+)
+
+game (
+	name "Para Lemi! v001 (1997)(-)(PD)"
+	description "Para Lemi! v001 (1997)(-)(PD)"
+	rom ( name "Para Lemi! v001 (1997)(-)(PD).lnx" size 26247 crc 181056e5 md5 9cacf07f6a71ea7b6c6807d7ee4faadf )
+)
+
+game (
+	name "Para Lemi! v002 (1997)(-)(PD)"
+	description "Para Lemi! v002 (1997)(-)(PD)"
+	rom ( name "Para Lemi! v002 (1997)(-)(PD).lnx" size 13064 crc 73d7921e md5 a1b9dd29339d57f774ccebee0119278e )
+)
+
+game (
+	name "Para Lemi! v003 (1997)(-)(PD)"
+	description "Para Lemi! v003 (1997)(-)(PD)"
+	rom ( name "Para Lemi! v003 (1997)(-)(PD).lnx" size 13521 crc a2ecbd6f md5 73b97f6bb4264dfdbeb86265c5c14b90 )
+)
+
+game (
+	name "Para Lemi! v004 (1997)(-)(PD)"
+	description "Para Lemi! v004 (1997)(-)(PD)"
+	rom ( name "Para Lemi! v004 (1997)(-)(PD).lnx" size 17930 crc 2a0c893c md5 2d08e466df75ee55afc5141b8e316f82 )
+)
+
+game (
+	name "Para Lemi! v005 (1997)(-)(PD)"
+	description "Para Lemi! v005 (1997)(-)(PD)"
+	rom ( name "Para Lemi! v005 (1997)(-)(PD).lnx" size 27560 crc cc96df68 md5 f0e2acb600b85a4ad8fb36205b6215b9 )
+)
+
+game (
+	name "Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Air Music (1998)(Wuhl, Markus)(PD).lnx" size 10254 crc d368c95c md5 3d8d62816d5666a3040390f5494fe0e4 )
+)
+
+game (
+	name "Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Early Demo v0.2 (1998)(Wuhl, Markus)(PD).lnx" size 4789 crc 129242de md5 40ca7b73dac7cd49274cbfd4e3c3e425 )
+)
+
+game (
+	name "Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Entertainer Music (1998)(Wuhl, Markus)(PD).lnx" size 10299 crc 96cc146f md5 01ba48dbf13618960208f16306cd3602 )
+)
+
+game (
+	name "Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Invent 13 Music (1998)(Wuhl, Markus)(PD).lnx" size 10626 crc 4c8f2d8d md5 729f9f15ff0e64222d9f566115d3a5ac )
+)
+
+game (
+	name "Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Playable v0.43 (1998)(Wuhl, Markus)(PD).lnx" size 262208 crc d7241881 md5 8de649611b61934b67b2ee8dde47e603 )
+)
+
+game (
+	name "Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD)"
+	description "Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD)"
+	rom ( name "Puzzler 2000 - Playable v0.4x (1998)(Wuhl, Markus)(PD).lnx" size 4761 crc 881c7068 md5 59c48f19223932cb853cc68d8f514a2c )
+)
+
+game (
+	name "Raw Draw Test (199x)(-)(PD)"
+	description "Raw Draw Test (199x)(-)(PD)"
+	rom ( name "Raw Draw Test (199x)(-)(PD).lnx" size 3746 crc 0a0dfb06 md5 c189224ca6117c39adcdd48b84fe33ab )
+)
+
+game (
+	name "Remnant Planar Wars 3D (2000)(Songbird)(PD)"
+	description "Remnant Planar Wars 3D (2000)(Songbird)(PD)"
+	rom ( name "Remnant Planar Wars 3D (2000)(Songbird)(PD).lnx" size 38599 crc cfd1fd9c md5 efede4b2ebb1c98a1cebdbeb4f11ddd3 )
+)
+
+game (
+	name "Snakebyte (199x)(Domin, Matthias)(PD)"
+	description "Snakebyte (199x)(Domin, Matthias)(PD)"
+	rom ( name "Snakebyte (199x)(Domin, Matthias)(PD).lnx" size 19830 crc 8350df4d md5 03429ff89b8f037ea2c447048dd3ef22 )
+)
+
+game (
+	name "Sprite Demo 1 (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 1 (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 1 (2000)(Domin, Matthias)(PD).lnx" size 5097 crc 244164f4 md5 f68e1353178685cf5a8abfb57769d7f9 )
+)
+
+game (
+	name "Sprite Demo 2 (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 2 (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 2 (2000)(Domin, Matthias)(PD).lnx" size 4962 crc 1b4669be md5 c3698556004f2ea4e986542760d3ad29 )
+)
+
+game (
+	name "Sprite Demo 3 (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 3 (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 3 (2000)(Domin, Matthias)(PD).lnx" size 5378 crc 8ef1c510 md5 7fe5568e18d838bd266b14eb68c86b94 )
+)
+
+game (
+	name "Sprite Demo 4 (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 4 (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 4 (2000)(Domin, Matthias)(PD).lnx" size 4877 crc c322b0fe md5 a5c3a38b1d8441cea089299a94ce0a60 )
+)
+
+game (
+	name "Sprite Demo 4b (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 4b (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 4b (2000)(Domin, Matthias)(PD).lnx" size 7099 crc c49c3765 md5 19d708e97dfcbb9b8e5c8c9f5dfa1ef3 )
+)
+
+game (
+	name "Sprite Demo 5 (2000)(Domin, Matthias)(PD)"
+	description "Sprite Demo 5 (2000)(Domin, Matthias)(PD)"
+	rom ( name "Sprite Demo 5 (2000)(Domin, Matthias)(PD).lnx" size 5009 crc b6267f9b md5 b431bd8480cd073c575e2b1f0b4232f9 )
+)
+
+game (
+	name "Stardreamer 2000 (2000)(-)(PD)"
+	description "Stardreamer 2000 (2000)(-)(PD)"
+	rom ( name "Stardreamer 2000 (2000)(-)(PD).lnx" size 46435 crc eb2ab9af md5 f932f2fc92501e51ec87744253fb2279 )
+)
+
+game (
+	name "Super Sprint Title Screen Demo (2000)(-)(PD)"
+	description "Super Sprint Title Screen Demo (2000)(-)(PD)"
+	rom ( name "Super Sprint Title Screen Demo (2000)(-)(PD).lnx" size 10649 crc 8c7fbd9c md5 bee7dedb200690122f76745fc4d2a0dd )
+)
+
+game (
+	name "Text Output Test 1 (1997)(Domin, Matthias)(PD)"
+	description "Text Output Test 1 (1997)(Domin, Matthias)(PD)"
+	rom ( name "Text Output Test 1 (1997)(Domin, Matthias)(PD).lnx" size 4118 crc be97d96d md5 9a6c951b0b6329138f8dba469989a08d )
+)
+
+game (
+	name "Text Output Test 2 (1998)(Domin, Matthias)(PD)"
+	description "Text Output Test 2 (1998)(Domin, Matthias)(PD)"
+	rom ( name "Text Output Test 2 (1998)(Domin, Matthias)(PD).lnx" size 4350 crc c7629765 md5 eafddf1a46da168c0090b3b71a8d7a75 )
+)
+
+game (
+	name "Wuerfel 3 Demo (199x)(-)(PD)"
+	description "Wuerfel 3 Demo (199x)(-)(PD)"
+	rom ( name "Wuerfel 3 Demo (199x)(-)(PD).lnx" size 9250 crc d1adcfa3 md5 71ba66f264e364bce23bf28be3b51c4e )
+)
+
+game (
+	name "256 Color Demo (1997)(Schick, Bastian)(PD)"
+	description "256 Color Demo (1997)(Schick, Bastian)(PD)"
+	rom ( name "256 Color Demo (1997)(Schick, Bastian)(PD).lnx" size 12261 crc 17ea4ab0 md5 82863a346c385777cc8d58959c866799 )
+)
+
+game (
+	name "256 Color Demo (1997)(Schick, Bastian)(PD)[a]"
+	description "256 Color Demo (1997)(Schick, Bastian)(PD)[a]"
+	rom ( name "256 Color Demo (1997)(Schick, Bastian)(PD)[a].lnx" size 12237 crc d21bf0af md5 b8332b1e561b454a9d7007f6707c76c4 )
+)
+
+game (
+	name "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)"
+	description "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)"
+	rom ( name "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD).lnx" size 5551 crc 40780ffe md5 199b51c3207727d3401f4f47b6b673a1 )
+)
+
+game (
+	name "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a]"
+	description "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a]"
+	rom ( name "256 Color Mandelbrot Demo (1998)(Schick, Bastian)(PD)[a].lnx" size 5524 crc 92cd034f md5 f34965577d30ec33b7792c22a62c62ce )
+)
+
+game (
+	name "3D Demo (19xx)(-)(PD)"
+	description "3D Demo (19xx)(-)(PD)"
+	rom ( name "3D Demo (19xx)(-)(PD).lnx" size 21905 crc 986c6034 md5 e27526793d0af4df230343dac116a4cb )
+)
+
+game (
+	name "3D Demo (19xx)(-)(PD)[a]"
+	description "3D Demo (19xx)(-)(PD)[a]"
+	rom ( name "3D Demo (19xx)(-)(PD)[a].lnx" size 262208 crc d769115f md5 537766d9225add6cf2c9a1081211a1f3 )
+)
+
+game (
+	name "Befok (19xx)(High, Jum)(PD)"
+	description "Befok (19xx)(High, Jum)(PD)"
+	rom ( name "Befok (19xx)(High, Jum)(PD).lnx" size 30972 crc 9c1c70d2 md5 6f1f15fc0b4849987c0343036a11db32 )
+)
+
+game (
+	name "Boing Demo (19xx)(-)(PD)"
+	description "Boing Demo (19xx)(-)(PD)"
+	rom ( name "Boing Demo (19xx)(-)(PD).lnx" size 3904 crc b8965e6e md5 ea123cfb60e8c33272db4bfa066f99ed )
+)
+
+game (
+	name "Boing Demo (19xx)(-)(PD)[a]"
+	description "Boing Demo (19xx)(-)(PD)[a]"
+	rom ( name "Boing Demo (19xx)(-)(PD)[a].lnx" size 4352 crc 3e713a77 md5 a2bc3ddac1d4b382269915eb0b2a40eb )
+)
+
+game (
+	name "Boing Demo (19xx)(-)(PD)[a2]"
+	description "Boing Demo (19xx)(-)(PD)[a2]"
+	rom ( name "Boing Demo (19xx)(-)(PD)[a2].lnx" size 4446 crc 07a759c0 md5 6befa8796a5f06c7f90e9001b1638ea7 )
+)
+
+game (
+	name "C65 - Demo0 (1998)(-)(PD)"
+	description "C65 - Demo0 (1998)(-)(PD)"
+	rom ( name "C65 - Demo0 (1998)(-)(PD).lnx" size 16969 crc 59d96e27 md5 c050363fa2ee06a5a86ba9f1bc9cbc03 )
+)
+
+game (
+	name "C65 - Demo0 (1998)(-)(PD)[a]"
+	description "C65 - Demo0 (1998)(-)(PD)[a]"
+	rom ( name "C65 - Demo0 (1998)(-)(PD)[a].lnx" size 16926 crc ba786c13 md5 7d0b2c06d2b36d20ea319ea5a04b7ba3 )
+)
+
+game (
+	name "C65 - Demo1 (1998)(-)(PD)"
+	description "C65 - Demo1 (1998)(-)(PD)"
+	rom ( name "C65 - Demo1 (1998)(-)(PD).lnx" size 2599 crc 8515b16b md5 3c6a2f6cff115adc391c6c8b6682f1f8 )
+)
+
+game (
+	name "C65 - Demo1 (1998)(-)(PD)[a]"
+	description "C65 - Demo1 (1998)(-)(PD)[a]"
+	rom ( name "C65 - Demo1 (1998)(-)(PD)[a].lnx" size 2568 crc 30668c3e md5 f57f6923f7ea736fbaf6ceb337871bde )
+)
+
+game (
+	name "C65 - Demo2 (1998)(-)(PD)"
+	description "C65 - Demo2 (1998)(-)(PD)"
+	rom ( name "C65 - Demo2 (1998)(-)(PD).lnx" size 2888 crc cc105fb5 md5 b6ab41c5edbf74eaec15cf704f03fe9a )
+)
+
+game (
+	name "C65 - Demo2 (1998)(-)(PD)[a]"
+	description "C65 - Demo2 (1998)(-)(PD)[a]"
+	rom ( name "C65 - Demo2 (1998)(-)(PD)[a].lnx" size 2857 crc c792d523 md5 5acb049f142a5f615241c2b454f5b4ff )
+)
+
+game (
+	name "C65 - Demo3 (1998)(-)(PD)"
+	description "C65 - Demo3 (1998)(-)(PD)"
+	rom ( name "C65 - Demo3 (1998)(-)(PD).lnx" size 4093 crc 504f77c0 md5 07077f05131ac980e707e24b9616dc01 )
+)
+
+game (
+	name "C65 - Demo3 (1998)(-)(PD)[a]"
+	description "C65 - Demo3 (1998)(-)(PD)[a]"
+	rom ( name "C65 - Demo3 (1998)(-)(PD)[a].lnx" size 4048 crc bbba65af md5 fc634c8d8b004b46c8916bd0f5d3e429 )
+)
+
+game (
+	name "C65 - GFXTest (1998)(-)(PD)"
+	description "C65 - GFXTest (1998)(-)(PD)"
+	rom ( name "C65 - GFXTest (1998)(-)(PD).lnx" size 3180 crc 9ab066b0 md5 dd32f06433c3da254f20a65e2c4d0ba7 )
+)
+
+game (
+	name "C65 - GFXTest (1998)(-)(PD)[a]"
+	description "C65 - GFXTest (1998)(-)(PD)[a]"
+	rom ( name "C65 - GFXTest (1998)(-)(PD)[a].lnx" size 3159 crc afc27c28 md5 25f0e73f9984e29452ea605784b6f73a )
+)
+
+game (
+	name "C65 - Mandelbrot (1998)(-)(PD)"
+	description "C65 - Mandelbrot (1998)(-)(PD)"
+	rom ( name "C65 - Mandelbrot (1998)(-)(PD).lnx" size 2670 crc 0762eed4 md5 ee0d9ce968d26e73b0c9759e60ba7f1f )
+)
+
+game (
+	name "C65 - Mandelbrot (1998)(-)(PD)[a]"
+	description "C65 - Mandelbrot (1998)(-)(PD)[a]"
+	rom ( name "C65 - Mandelbrot (1998)(-)(PD)[a].lnx" size 2666 crc dfe7890f md5 0b24c5fca67cecf480b97c7fb8781474 )
+)
+
+game (
+	name "C65 - Mazedemo (1998)(-)(PD)"
+	description "C65 - Mazedemo (1998)(-)(PD)"
+	rom ( name "C65 - Mazedemo (1998)(-)(PD).lnx" size 3022 crc 71f93c64 md5 368bdbd25be127869ec2ba91d741d4be )
+)
+
+game (
+	name "C65 - Mazedemo (1998)(-)(PD)[a]"
+	description "C65 - Mazedemo (1998)(-)(PD)[a]"
+	rom ( name "C65 - Mazedemo (1998)(-)(PD)[a].lnx" size 3030 crc baffb021 md5 c817790e3118fce2a453ebc2490c9868 )
+)
+
+game (
+	name "C65 - Minimal (1998)(-)(PD)"
+	description "C65 - Minimal (1998)(-)(PD)"
+	rom ( name "C65 - Minimal (1998)(-)(PD).lnx" size 5086 crc 0db6af52 md5 e57369d6bf746fb85672b7eeffc75106 )
+)
+
+game (
+	name "C65 - Minimal (1998)(-)(PD)[a]"
+	description "C65 - Minimal (1998)(-)(PD)[a]"
+	rom ( name "C65 - Minimal (1998)(-)(PD)[a].lnx" size 4817 crc 6fdfcc7b md5 b4b90fa1da835e62a307a56c77c6b96d )
+)
+
+game (
+	name "C65 - Sprite (1998)(-)(PD)"
+	description "C65 - Sprite (1998)(-)(PD)"
+	rom ( name "C65 - Sprite (1998)(-)(PD).lnx" size 3974 crc 1d00c38f md5 5bcb0729ef37d0ee2e877fedc2a6b518 )
+)
+
+game (
+	name "C65 - Sprite (1998)(-)(PD)[a]"
+	description "C65 - Sprite (1998)(-)(PD)[a]"
+	rom ( name "C65 - Sprite (1998)(-)(PD)[a].lnx" size 3984 crc d80d99c3 md5 e7f86e86c68403924068bc2228a7310e )
+)
+
+game (
+	name "ZZZ-UNK-CARDHEAD"
+	description "ZZZ-UNK-CARDHEAD"
+	rom ( name "ZZZ-UNK-CARDHEAD.lnx" size 1536 crc b49833e7 md5 503dd8d220e912bb996a90a6fc55f669 )
+)
+
+game (
+	name "ZZZ-UNK-Charge Field 2 - charges animated"
+	description "ZZZ-UNK-Charge Field 2 - charges animated"
+	rom ( name "ZZZ-UNK-Charge Field 2 - charges animated.lnx" size 2618 crc afbfb157 md5 a4234e4672780a32144731d2cfcf6086 )
+)
+
+game (
+	name "ZZZ-UNK-Charge Field 2 - meters"
+	description "ZZZ-UNK-Charge Field 2 - meters"
+	rom ( name "ZZZ-UNK-Charge Field 2 - meters.lnx" size 2892 crc 23df0434 md5 152e9466545685bc418fa920b7023b74 )
+)
+
+game (
+	name "EEPROM Check (1996)(Schick, Bastian)(PD)"
+	description "EEPROM Check (1996)(Schick, Bastian)(PD)"
+	rom ( name "EEPROM Check (1996)(Schick, Bastian)(PD).lnx" size 4232 crc 8d29fbf3 md5 e415815445136eb5ff93bdcde09e9d84 )
+)
+
+game (
+	name "ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Circle Tunnel by Schick, Bastian (1996) (PD).lnx" size 7539 crc 5e08258b md5 72fbedab44013c64508fa09cc067ce53 )
+)
+
+game (
+	name "ZZZ-UNK-Clicks! Version 6"
+	description "ZZZ-UNK-Clicks! Version 6"
+	rom ( name "ZZZ-UNK-Clicks! Version 6.lnx" size 39280 crc 1a86810c md5 aedf9a938aae5bd7c7a208ef4ad46224 )
+)
+
+game (
+	name "ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD)"
+	description "ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD)"
+	rom ( name "ZZZ-UNK-Clicks! by Domin, Matthias (2001) (PD).lnx" size 35183 crc 0ecbfe53 md5 6ac055224917fba6b39769f01bddc35e )
+)
+
+game (
+	name "ZZZ-UNK-Conquistador"
+	description "ZZZ-UNK-Conquistador"
+	rom ( name "ZZZ-UNK-Conquistador.lnx" size 46414 crc 8ceac7dd md5 85f74ec751bdce0ada934c7502d2f3ee )
+)
+
+game (
+	name "ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 1 by Schick, Bastian (1996) (PD).lnx" size 601 crc 947a6eb1 md5 f8bb5d627f02262eae63a5180230ada1 )
+)
+
+game (
+	name "ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 2 by Schick, Bastian (1996) (PD).lnx" size 2562 crc 4b2000fb md5 af590ec26dfefd594c0840e9e82b027f )
+)
+
+game (
+	name "ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 3 by Schick, Bastian (1996) (PD).lnx" size 3148 crc 0c7ffa45 md5 1312fbc103a244ad4a38a0743f242bb0 )
+)
+
+game (
+	name "ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 4 by Schick, Bastian (1996) (PD).lnx" size 3354 crc 517bb04b md5 30ab8e15a0a0630282329fe117aca87b )
+)
+
+game (
+	name "ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 5 by Schick, Bastian (1996) (PD).lnx" size 4438 crc a42dd493 md5 c7ecd303ef43ae56696027792600ef6e )
+)
+
+game (
+	name "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD).lnx" size 15414 crc 87c75dff md5 f8abed0d7f31aa2569cfdd9760f4dbdd )
+)
+
+game (
+	name "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a]"
+	description "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a]"
+	rom ( name "ZZZ-UNK-Demo 6 by Schick, Bastian (1996) (PD) [a].lnx" size 15406 crc 93d96d79 md5 c1a279e00c00c89ca5489ae851e33fb9 )
+)
+
+game (
+	name "ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD)"
+	description "ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD)"
+	rom ( name "ZZZ-UNK-Drawtest by Schick, Bastian (199x) (PD).lnx" size 14623 crc 5de8364c md5 372b28820e8fa1ba2f146db98c1e02df )
+)
+
+game (
+	name "ZZZ-UNK-Dynalynx v0.4"
+	description "ZZZ-UNK-Dynalynx v0.4"
+	rom ( name "ZZZ-UNK-Dynalynx v0.4.lnx" size 262208 crc d7b11f79 md5 ffa4abab925d3981b777746e919d6e33 )
+)
+
+game (
+	name "ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD)"
+	description "ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD)"
+	rom ( name "ZZZ-UNK-Fire (Fever) Demo by Schick, Bastian (1997) (PD).lnx" size 5878 crc d96877d9 md5 2375b91a6675f7ef3a7daf6bcf59a5a1 )
+)
+
+game (
+	name "ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a]"
+	description "ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a]"
+	rom ( name "ZZZ-UNK-Font Test 2 by Schick, Bastian (199x) (PD) [a].lnx" size 1929 crc 52c9e5a3 md5 b7c114f26f559c2ada474ac6d3a5d9d3 )
+)
+
+game (
+	name "ZZZ-UNK-GOTBALLS"
+	description "ZZZ-UNK-GOTBALLS"
+	rom ( name "ZZZ-UNK-GOTBALLS.lnx" size 262208 crc 150de159 md5 0fbe259f695f630753c6f0fbaf3c73ab )
+)
+
+game (
+	name "ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-I2C EEPROM Test by Schick, Bastian (1996) (PD).lnx" size 3966 crc 0a6c3580 md5 5c33dce9ba2d4681aaec8efe7811e8d7 )
+)
+
+game (
+	name "ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a]"
+	description "ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a]"
+	rom ( name "ZZZ-UNK-IRQ Test by Schick, Bastian (1998) (PD) [a].lnx" size 480 crc 321e3ccd md5 edf407a03b04085e139316e9e9a78bc0 )
+)
+
+game (
+	name "ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD)"
+	description "ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD)"
+	rom ( name "ZZZ-UNK-Insert Game Screen by Schick, Bastian (199x) (PD).lnx" size 890 crc d000f7ba md5 f2caf9c3b741d5da5bd931d5279d2bba )
+)
+
+game (
+	name "ZZZ-UNK-JumTro #1 by Jum High '98 (PD)"
+	description "ZZZ-UNK-JumTro #1 by Jum High '98 (PD)"
+	rom ( name "ZZZ-UNK-JumTro #1 by Jum High '98 (PD).lnx" size 18716 crc ed507061 md5 977760ecce5d1ac6b8c04433568c2ab7 )
+)
+
+game (
+	name "ZZZ-UNK-Kistenschieben v0.2"
+	description "ZZZ-UNK-Kistenschieben v0.2"
+	rom ( name "ZZZ-UNK-Kistenschieben v0.2.lnx" size 262208 crc 8fa3f79f md5 f89a607ff520628ceb4787a23540af5a )
+)
+
+game (
+	name "ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD)"
+	description "ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD)"
+	rom ( name "ZZZ-UNK-Lite (Fever) by Schick, Bastian (1997) (PD).lnx" size 10229 crc 1ce9b4ad md5 90d6f4373a0b5249ad0036712e09ac98 )
+)
+
+game (
+	name "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD).lnx" size 4890 crc 88a0a9c8 md5 ae138ded921f36a935b2bff9fb0e563f )
+)
+
+game (
+	name "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a]"
+	description "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a]"
+	rom ( name "ZZZ-UNK-Logon by Schick, Bastian (1996) (PD) [a].lnx" size 4897 crc f215c0d4 md5 987c9fe3791f8976cebda61a67bd292b )
+)
+
+game (
+	name "ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003"
+	description "ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003"
+	rom ( name "ZZZ-UNK-Lynx Reloaded - Bjorn Spruck 2003.lnx" size 262208 crc 4411b373 md5 b4fcfea53cd2e3accff00d838b708472 )
+)
+
+game (
+	name "ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-MandelBrot Demo by Schick, Bastian (1996) (PD).lnx" size 4974 crc fb92992d md5 e5be63492443a109a27bdf981ded9acd )
+)
+
+game (
+	name "ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD)"
+	description "ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD)"
+	rom ( name "ZZZ-UNK-Micro Font Data by Schick, Bastian (1999) (PD).lnx" size 854 crc 21df9d29 md5 665b4a3a937ddf36d22bdb2652de52fc )
+)
+
+game (
+	name "ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD)"
+	description "ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD)"
+	rom ( name "ZZZ-UNK-Micro Font Dumper by Schick, Bastian (199x) (PD).lnx" size 4199 crc 7819be94 md5 fb08ba457a8d9088afbdbd0e1f95a60d )
+)
+
+game (
+	name "ZZZ-UNK-Moon Runner by Jum High (PD)"
+	description "ZZZ-UNK-Moon Runner by Jum High (PD)"
+	rom ( name "ZZZ-UNK-Moon Runner by Jum High (PD).lnx" size 19277 crc 554f8b2d md5 8bcc16c4cebd604aa5ee1506b2d1a71a )
+)
+
+game (
+	name "ZZZ-UNK-Multi Pong 1k by Bjoern Spruck"
+	description "ZZZ-UNK-Multi Pong 1k by Bjoern Spruck"
+	rom ( name "ZZZ-UNK-Multi Pong 1k by Bjoern Spruck.lnx" size 1022 crc 411f67fb md5 0454be32769dc9f5269211eb0c781da4 )
+)
+
+game (
+	name "ZZZ-UNK-PONR_II"
+	description "ZZZ-UNK-PONR_II"
+	rom ( name "ZZZ-UNK-PONR_II.lnx" size 19745 crc 80e6358e md5 42b907539ff2c1c81d335ba2d24a4026 )
+)
+
+game (
+	name "ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Play Sound Sample by Schick, Bastian (1996) (PD).lnx" size 1960 crc 6a92e2d5 md5 1694a443b68eb19cd763b647bfe08ee3 )
+)
+
+game (
+	name "ZZZ-UNK-Poker Game"
+	description "ZZZ-UNK-Poker Game"
+	rom ( name "ZZZ-UNK-Poker Game.lnx" size 262208 crc 01cc59d5 md5 9334e4a8c59c0757eaa6662b1a9d8788 )
+)
+
+game (
+	name "ZZZ-UNK-Poker Game 256 (2005-06-20)"
+	description "ZZZ-UNK-Poker Game 256 (2005-06-20)"
+	rom ( name "ZZZ-UNK-Poker Game 256 (2005-06-20).lnx" size 262208 crc 0b081143 md5 e1bb5ab98fc7102db4b657312af27a1e )
+)
+
+game (
+	name "ZZZ-UNK-Poker Game 512 (2005-06-20)"
+	description "ZZZ-UNK-Poker Game 512 (2005-06-20)"
+	rom ( name "ZZZ-UNK-Poker Game 512 (2005-06-20).lnx" size 524352 crc 2d446017 md5 e33c3b93b7f88196189d33fe762776e7 )
+)
+
+game (
+	name "ZZZ-UNK-Pong 4 Fun v0.20"
+	description "ZZZ-UNK-Pong 4 Fun v0.20"
+	rom ( name "ZZZ-UNK-Pong 4 Fun v0.20.lnx" size 7905 crc 80727630 md5 d9897fcc4f0b092c70312b1e856c1d0b )
+)
+
+game (
+	name "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD)"
+	description "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD)"
+	rom ( name "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD).lnx" size 3773 crc 1527d20c md5 1068527a6f6e61dc391a441545eaf325 )
+)
+
+game (
+	name "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2]"
+	description "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2]"
+	rom ( name "ZZZ-UNK-Raw by Schick, Bastian (1997) (PD) [a2].lnx" size 3765 crc b43dfcac md5 9681193d59ba4d5191dbcbba23ad596b )
+)
+
+game (
+	name "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD).lnx" size 7940 crc 7fd4e0b0 md5 b643cbea96c0d3c4caf493051aae7b05 )
+)
+
+game (
+	name "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a]"
+	description "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a]"
+	rom ( name "ZZZ-UNK-Show King Tut by Schick, Bastian (1996) (PD) [a].lnx" size 4423 crc 246135d2 md5 de8d062956ab59c0f18d6b58d3427890 )
+)
+
+game (
+	name "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD)"
+	description "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD)"
+	rom ( name "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD).lnx" size 4642 crc 2709a80c md5 3b9b04f2a8b9ef5b073852ca0bc34e37 )
+)
+
+game (
+	name "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a]"
+	description "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a]"
+	rom ( name "ZZZ-UNK-Sound Demo by Schick, Bastian (1997) (PD) [a].lnx" size 4623 crc ddcc9f71 md5 fe8e03f306ba2f7b6d0d44c172ff0e57 )
+)
+
+game (
+	name "ZZZ-UNK-Space Lock (Rev 20040529)(Beta)"
+	description "ZZZ-UNK-Space Lock (Rev 20040529)(Beta)"
+	rom ( name "ZZZ-UNK-Space Lock (Rev 20040529)(Beta).lnx" size 262208 crc 10482065 md5 9c38a99618642d7a5bda724ce6c40fb2 )
+)
+
+game (
+	name "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD)"
+	description "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD)"
+	rom ( name "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD).lnx" size 5787 crc 86946f2e md5 8b78fcbe75163d37041eaef6ac306266 )
+)
+
+game (
+	name "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a]"
+	description "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a]"
+	rom ( name "ZZZ-UNK-Sprite Ed by Schick, Bastian (1996) (PD) [a].lnx" size 5764 crc 8db7d177 md5 bfda0789af531892a66b03ac806ca5de )
+)
+
+game (
+	name "ZZZ-UNK-StarDreamer - Cutscene (2002) (PD)"
+	description "ZZZ-UNK-StarDreamer - Cutscene (2002) (PD)"
+	rom ( name "ZZZ-UNK-StarDreamer - Cutscene (2002) (PD).lnx" size 6401 crc 0f79604e md5 056677aac597908c5cf729057361a2ec )
+)
+
+game (
+	name "ZZZ-UNK-StarDreamer - Docked (2002) (PD)"
+	description "ZZZ-UNK-StarDreamer - Docked (2002) (PD)"
+	rom ( name "ZZZ-UNK-StarDreamer - Docked (2002) (PD).lnx" size 21838 crc 47210739 md5 f0a798f772176d8b8647a206f193482b )
+)
+
+game (
+	name "ZZZ-UNK-StarDreamer - Flying (2002) (PD)"
+	description "ZZZ-UNK-StarDreamer - Flying (2002) (PD)"
+	rom ( name "ZZZ-UNK-StarDreamer - Flying (2002) (PD).lnx" size 29145 crc fc19e3c1 md5 b5a27a8578184294db80dea0a9fdde42 )
+)
+
+game (
+	name "ZZZ-UNK-StarDreamer - Full Game (2002) (PD)"
+	description "ZZZ-UNK-StarDreamer - Full Game (2002) (PD)"
+	rom ( name "ZZZ-UNK-StarDreamer - Full Game (2002) (PD).lnx" size 262208 crc 4b660f47 md5 7b5df89d2f7bfa45eeffbf19a7d3e56d )
+)
+
+game (
+	name "ZZZ-UNK-StarDreamer - Intro (2002) (PD)"
+	description "ZZZ-UNK-StarDreamer - Intro (2002) (PD)"
+	rom ( name "ZZZ-UNK-StarDreamer - Intro (2002) (PD).lnx" size 16486 crc fbc2b4d1 md5 935774bc9175c411bca2c2dfa870e814 )
+)
+
+game (
+	name "ZZZ-UNK-Teen Dance"
+	description "ZZZ-UNK-Teen Dance"
+	rom ( name "ZZZ-UNK-Teen Dance.lnx" size 262208 crc b1cccfb8 md5 878e1666442723ae9cf7ad89656d0bef )
+)
+
+game (
+	name "ZZZ-UNK-Teen Dance [o]"
+	description "ZZZ-UNK-Teen Dance [o]"
+	rom ( name "ZZZ-UNK-Teen Dance [o].lnx" size 40195 crc 0e65c881 md5 3285a3d7c541d750a3b4e99940ad6ddf )
+)
+
+game (
+	name "ZZZ-UNK-Tron 6 fun v0.15"
+	description "ZZZ-UNK-Tron 6 fun v0.15"
+	rom ( name "ZZZ-UNK-Tron 6 fun v0.15.lnx" size 30173 crc 0d44bf68 md5 50606b4412d934732fa8d218b121e0cd )
+)
+
+game (
+	name "ZZZ-UNK-abc music creator"
+	description "ZZZ-UNK-abc music creator"
+	rom ( name "ZZZ-UNK-abc music creator.lnx" size 13179 crc 2116e42f md5 8b6c16f1911941bee151479b2558da9b )
+)
+
+game (
+	name "ZZZ-UNK-bali2_pal_8_83"
+	description "ZZZ-UNK-bali2_pal_8_83"
+	rom ( name "ZZZ-UNK-bali2_pal_8_83.lnx" size 27301 crc 3e628845 md5 f0dc4b99fbe81f280876ddfcd0c775aa )
+)
+
+game (
+	name "ZZZ-UNK-blob"
+	description "ZZZ-UNK-blob"
+	rom ( name "ZZZ-UNK-blob.lnx" size 4700 crc e89a03c5 md5 1d820375c65e1b5fd9ab3847425da29e )
+)
+
+game (
+	name "ZZZ-UNK-cape4_pal_8_83"
+	description "ZZZ-UNK-cape4_pal_8_83"
+	rom ( name "ZZZ-UNK-cape4_pal_8_83.lnx" size 21204 crc cc9d4ed6 md5 8c6f449f3fda4fced6bd6fca1d906ca2 )
+)
+
+game (
+	name "ZZZ-UNK-cf - Oooh, what is it going to be"
+	description "ZZZ-UNK-cf - Oooh, what is it going to be"
+	rom ( name "ZZZ-UNK-cf - Oooh, what is it going to be.lnx" size 2091 crc 402b5d6c md5 76c1d81d0da58be3ef723bba5b9d0ea6 )
+)
+
+game (
+	name "ZZZ-UNK-devoecosmostea_pal_8_83"
+	description "ZZZ-UNK-devoecosmostea_pal_8_83"
+	rom ( name "ZZZ-UNK-devoecosmostea_pal_8_83.lnx" size 20748 crc 3ce6ef94 md5 e14efebe26ab8538e5fef83bed47ba7b )
+)
+
+game (
+	name "ZZZ-UNK-diaporama"
+	description "ZZZ-UNK-diaporama"
+	rom ( name "ZZZ-UNK-diaporama.lnx" size 262208 crc 4fa19868 md5 0b85db6fe5d6d5b989407ee81c51fd4f )
+)
+
+game (
+	name "ZZZ-UNK-disney_pal_8_83"
+	description "ZZZ-UNK-disney_pal_8_83"
+	rom ( name "ZZZ-UNK-disney_pal_8_83.lnx" size 18371 crc f0249af7 md5 6210e9f649c228b7bc9f986f3440a5b0 )
+)
+
+game (
+	name "ZZZ-UNK-dolphin_pal_8_83"
+	description "ZZZ-UNK-dolphin_pal_8_83"
+	rom ( name "ZZZ-UNK-dolphin_pal_8_83.lnx" size 26487 crc 4b2d4e72 md5 7502273f7f0047bc419a27dfdfbfc173 )
+)
+
+game (
+	name "ZZZ-UNK-fighter2"
+	description "ZZZ-UNK-fighter2"
+	rom ( name "ZZZ-UNK-fighter2.lnx" size 37730 crc 8ad287ce md5 f28dfbdcce9ec815919185cbe51c4f20 )
+)
+
+game (
+	name "ZZZ-UNK-fruitbasket_pal_8_83"
+	description "ZZZ-UNK-fruitbasket_pal_8_83"
+	rom ( name "ZZZ-UNK-fruitbasket_pal_8_83.lnx" size 20078 crc 27445728 md5 bf15057649db9597cdfb8282a201c8f1 )
+)
+
+game (
+	name "ZZZ-UNK-gnop 0.4SE"
+	description "ZZZ-UNK-gnop 0.4SE"
+	rom ( name "ZZZ-UNK-gnop 0.4SE.lnx" size 17643 crc 71c7087d md5 d54ff8e1150cb60e54d79d534fae458d )
+)
+
+game (
+	name "ZZZ-UNK-gnop 0.6"
+	description "ZZZ-UNK-gnop 0.6"
+	rom ( name "ZZZ-UNK-gnop 0.6.lnx" size 24424 crc 0087fe65 md5 623354ec6da68ce483feb46063a98022 )
+)
+
+game (
+	name "ZZZ-UNK-insert"
+	description "ZZZ-UNK-insert"
+	rom ( name "ZZZ-UNK-insert.lnx" size 5729 crc cd4c092f md5 8382c88e0cf73190234f6ab3d6786c27 )
+)
+
+game (
+	name "ZZZ-UNK-jellybeans (2005-08-24)"
+	description "ZZZ-UNK-jellybeans (2005-08-24)"
+	rom ( name "ZZZ-UNK-jellybeans (2005-08-24).lnx" size 31122 crc 0d4c83dd md5 db958b386e9b3383bf2dd49e0ae496c8 )
+)
+
+game (
+	name "ZZZ-UNK-kimura_pal_8_83"
+	description "ZZZ-UNK-kimura_pal_8_83"
+	rom ( name "ZZZ-UNK-kimura_pal_8_83.lnx" size 23641 crc 85b8072c md5 46d9daf9ee9e51f7a6636dc83f9578de )
+)
+
+game (
+	name "ZZZ-UNK-multcart"
+	description "ZZZ-UNK-multcart"
+	rom ( name "ZZZ-UNK-multcart.lnx" size 2703 crc 60e2f320 md5 04d9c262c9dadf08416e680a902912d6 )
+)
+
+game (
+	name "ZZZ-UNK-multipong1k_1player"
+	description "ZZZ-UNK-multipong1k_1player"
+	rom ( name "ZZZ-UNK-multipong1k_1player.lnx" size 1014 crc 88bf1cc9 md5 c451cea23290601d7f93cbc2225acdc9 )
+)
+
+game (
+	name "ZZZ-UNK-multipong1k_2player"
+	description "ZZZ-UNK-multipong1k_2player"
+	rom ( name "ZZZ-UNK-multipong1k_2player.lnx" size 1014 crc 81f0f2ee md5 f46b77e94226b55007d27235937c7e86 )
+)
+
+game (
+	name "ZZZ-UNK-orgna012"
+	description "ZZZ-UNK-orgna012"
+	rom ( name "ZZZ-UNK-orgna012.lnx" size 262208 crc e37f9dab md5 bf86f2e1b287907db6bb94906ce87d72 )
+)
+
+game (
+	name "ZZZ-UNK-othello"
+	description "ZZZ-UNK-othello"
+	rom ( name "ZZZ-UNK-othello.lnx" size 262208 crc 4001fe9d md5 917f10900a1b06ec0f3a284761af34f6 )
+)
+
+game (
+	name "ZZZ-UNK-othello [lyx]"
+	description "ZZZ-UNK-othello [lyx]"
+	rom ( name "ZZZ-UNK-othello [lyx].lnx" size 25180 crc 29f8806d md5 b8fc04127e69bc4b077bb1956e9eb79a )
+)
+
+game (
+	name "ZZZ-UNK-ottelo"
+	description "ZZZ-UNK-ottelo"
+	rom ( name "ZZZ-UNK-ottelo.lnx" size 1024 crc e90a66d9 md5 e029f0a95dcfe38ec0314b71b8ec004b )
+)
+
+game (
+	name "ZZZ-UNK-palette"
+	description "ZZZ-UNK-palette"
+	rom ( name "ZZZ-UNK-palette.lnx" size 262208 crc 4e5d05fb md5 1b467d6b53675c33452a6c43d2ef978e )
+)
+
+game (
+	name "ZZZ-UNK-peugeot"
+	description "ZZZ-UNK-peugeot"
+	rom ( name "ZZZ-UNK-peugeot.lnx" size 524352 crc 27d932dd md5 facdf50d1bda1acf0800c46652a4414a )
+)
+
+game (
+	name "ZZZ-UNK-puyo"
+	description "ZZZ-UNK-puyo"
+	rom ( name "ZZZ-UNK-puyo.lnx" size 10282 crc 937fca1e md5 00d3ecea7d8ee4c14078d8309b9bb587 )
+)
+
+game (
+	name "ZZZ-UNK-rapide_racer"
+	description "ZZZ-UNK-rapide_racer"
+	rom ( name "ZZZ-UNK-rapide_racer.lnx" size 262208 crc cd237884 md5 ab5efd600313da42fa079207bb6be8ba )
+)
+
+game (
+	name "ZZZ-UNK-rapide_racer [lyx]"
+	description "ZZZ-UNK-rapide_racer [lyx]"
+	rom ( name "ZZZ-UNK-rapide_racer [lyx].lnx" size 37092 crc 02a7c593 md5 981ffd7a09c1c32e3013fbbe2ec30764 )
+)
+
+game (
+	name "ZZZ-UNK-seastars_pal_8_83"
+	description "ZZZ-UNK-seastars_pal_8_83"
+	rom ( name "ZZZ-UNK-seastars_pal_8_83.lnx" size 27216 crc 604bd0e9 md5 e05aa29ca9fc4a281862e374dbe51681 )
+)
+
+game (
+	name "ZZZ-UNK-shore_pal_8_83"
+	description "ZZZ-UNK-shore_pal_8_83"
+	rom ( name "ZZZ-UNK-shore_pal_8_83.lnx" size 25853 crc 3b1bdbdc md5 bcf8c728672925a0082d7127bd679e3f )
+)
+
+game (
+	name "ZZZ-UNK-shuttle_pal_8_83"
+	description "ZZZ-UNK-shuttle_pal_8_83"
+	rom ( name "ZZZ-UNK-shuttle_pal_8_83.lnx" size 20601 crc 36837a21 md5 66b43ec9fc0cb9843d7f2e58c83aac3c )
+)
+
+game (
+	name "ZZZ-UNK-sinscrol"
+	description "ZZZ-UNK-sinscrol"
+	rom ( name "ZZZ-UNK-sinscrol.lnx" size 5750 crc c96d8d50 md5 122d63d864a49a80490d1823351c816c )
+)
+
+game (
+	name "ZZZ-UNK-space lock Demo (o)"
+	description "ZZZ-UNK-space lock Demo (o)"
+	rom ( name "ZZZ-UNK-space lock Demo (o).lnx" size 32729 crc 923b5e56 md5 d48af7ea8087eb0bd3c331dc0c8ceb98 )
+)
+
+game (
+	name "ZZZ-UNK-space lock [2005-04-25]"
+	description "ZZZ-UNK-space lock [2005-04-25]"
+	rom ( name "ZZZ-UNK-space lock [2005-04-25].lnx" size 262208 crc ad990f77 md5 75a1c2a88b7aebf60f4b1e86e6d8057a )
+)
+
+game (
+	name "ZZZ-UNK-space lock [2005-05-16]"
+	description "ZZZ-UNK-space lock [2005-05-16]"
+	rom ( name "ZZZ-UNK-space lock [2005-05-16].lnx" size 262208 crc d2e22edc md5 e3302bd244f4c3f5627c31aebac83bbd )
+)
+
+game (
+	name "ZZZ-UNK-tempest"
+	description "ZZZ-UNK-tempest"
+	rom ( name "ZZZ-UNK-tempest.lnx" size 262208 crc 88793c75 md5 32236b95887515b6c0344a36ce0cebde )
+)
+
+game (
+	name "ZZZ-UNK-the_end_pal_8_83"
+	description "ZZZ-UNK-the_end_pal_8_83"
+	rom ( name "ZZZ-UNK-the_end_pal_8_83.lnx" size 19867 crc 67718358 md5 727caa923fcbd6d81a7b007d1a5c0f17 )
+)
+
+game (
+	name "ZZZ-UNK-v6SE"
+	description "ZZZ-UNK-v6SE"
+	rom ( name "ZZZ-UNK-v6SE.lnx" size 262208 crc f3bfc637 md5 ff01dd789940658c4f34ad54d3aac0fd )
+)
+
+game (
+	name "ZZZ-UNK-v7SE"
+	description "ZZZ-UNK-v7SE"
+	rom ( name "ZZZ-UNK-v7SE.lnx" size 262208 crc 9a31a27d md5 5eb0bf9eae6f979325198358fc5332e1 )
+)

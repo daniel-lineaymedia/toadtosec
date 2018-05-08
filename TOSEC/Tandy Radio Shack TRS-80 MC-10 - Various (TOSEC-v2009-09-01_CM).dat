@@ -1,0 +1,415 @@
+clrmamepro (
+	name "Tandy Radio Shack TRS-80 MC-10 - Various"
+	description "Tandy Radio Shack TRS-80 MC-10 - Various (TOSEC-v2009-09-01)"
+	category "Tandy Radio Shack TRS-80 MC-10 - Various"
+	version 2009-09-01
+	author "Cid - Cassiel - Grendel - Ira"
+)
+
+game (
+	name "Argo (19xx)(-)"
+	description "Argo (19xx)(-)"
+	rom ( name "Argo (19xx)(-).c10" size 1622 crc 2e38b910 md5 012edcfa0d53ef70040c71f50f669be6 )
+)
+
+game (
+	name "Assemble (19xx)(-)"
+	description "Assemble (19xx)(-)"
+	rom ( name "Assemble (19xx)(-).c10" size 2833 crc 13c01e4d md5 5905caeb957bb91e2870363b0c068228 )
+)
+
+game (
+	name "Aster64 (19xx)(Rogelio Perea)[h Charles Perosi]"
+	description "Aster64 (19xx)(Rogelio Perea)[h Charles Perosi]"
+	rom ( name "Aster64 (19xx)(Rogelio Perea)[h Charles Perosi].c10" size 1376 crc 6733afae md5 24031592821dd3b0c8447a1c2881dc4c )
+)
+
+game (
+	name "Backup (1987)(Gary Furr)"
+	description "Backup (1987)(Gary Furr)"
+	rom ( name "Backup (1987)(Gary Furr).c10" size 365 crc 2613359e md5 a4c0e32802bb950354f3cffd3ff2caad )
+)
+
+game (
+	name "Basketballer (19xx)(-)"
+	description "Basketballer (19xx)(-)"
+	rom ( name "Basketballer (19xx)(-).c10" size 1390 crc a539dc68 md5 2bd14707a2d763a449a2eee8c9722f09 )
+)
+
+game (
+	name "Block Drop (2004)(Charles Perosi)"
+	description "Block Drop (2004)(Charles Perosi)"
+	rom ( name "Block Drop (2004)(Charles Perosi).c10" size 2411 crc 7b7a593f md5 a4950476579b550a73b055988fec3f6a )
+)
+
+game (
+	name "Breakout (19xx)(-)"
+	description "Breakout (19xx)(-)"
+	rom ( name "Breakout (19xx)(-).c10" size 2041 crc 9393718b md5 20024721572f97258388ff461ee56b04 )
+)
+
+game (
+	name "Catch (19xx)(-)"
+	description "Catch (19xx)(-)"
+	rom ( name "Catch (19xx)(-).c10" size 1422 crc bc663362 md5 7efec39e66439813f12a657c310a195c )
+)
+
+game (
+	name "Clock (19xx)(-)"
+	description "Clock (19xx)(-)"
+	rom ( name "Clock (19xx)(-).c10" size 446 crc 9e5f8577 md5 57f274d3f7bcefe776a4ca56c1afc7a6 )
+)
+
+game (
+	name "Compac (19xx)(Mr Wizard)"
+	description "Compac (19xx)(Mr Wizard)"
+	rom ( name "Compac (19xx)(Mr Wizard).c10" size 2545 crc da077a32 md5 64e3d9892657487acc4eeeb261a2de25 )
+)
+
+game (
+	name "Decode (19xx)(-)"
+	description "Decode (19xx)(-)"
+	rom ( name "Decode (19xx)(-).c10" size 1960 crc 4953364f md5 cf2e25dd5f436b618b191c6abf9512cb )
+)
+
+game (
+	name "Defend (2004)(Charles Perosi)"
+	description "Defend (2004)(Charles Perosi)"
+	rom ( name "Defend (2004)(Charles Perosi).c10" size 1641 crc 8b0decfd md5 22d6cf996469eb9c8f0741f12827f9b1 )
+)
+
+game (
+	name "Demon Attack (2004)(Charles Perosi)"
+	description "Demon Attack (2004)(Charles Perosi)"
+	rom ( name "Demon Attack (2004)(Charles Perosi).c10" size 2977 crc 2bfd81ca md5 709fa330d192b152fadf81e9bbc0a29b )
+)
+
+game (
+	name "Dragon Castles (2004)(Charles Pelosi)"
+	description "Dragon Castles (2004)(Charles Pelosi)"
+	rom ( name "Dragon Castles (2004)(Charles Pelosi).c10" size 5808 crc 0e21792f md5 675e463fd9bcdd2cd884c0714e2061ba )
+)
+
+game (
+	name "Ducshoot (19xx)(-)"
+	description "Ducshoot (19xx)(-)"
+	rom ( name "Ducshoot (19xx)(-).c10" size 2254 crc 3eec7905 md5 5117a3ceeccd40cc3ff61c76097f0545 )
+)
+
+game (
+	name "Eggs (19xx)(-)"
+	description "Eggs (19xx)(-)"
+	rom ( name "Eggs (19xx)(-).c10" size 2265 crc 39bd94fa md5 930b521170f79ed9c0ecd6883c9b36c2 )
+)
+
+game (
+	name "Eggs (19xx)(James)"
+	description "Eggs (19xx)(James)"
+	rom ( name "Eggs (19xx)(James).c10" size 2265 crc f85765cb md5 41e991c63fded2972d0d8391b1839d8d )
+)
+
+game (
+	name "Extended BASIC v1.0 (1986)(Furr)"
+	description "Extended BASIC v1.0 (1986)(Furr)"
+	rom ( name "Extended BASIC v1.0 (1986)(Furr).c10" size 2844 crc b9069763 md5 7ece1d50e1c3f3e55e132a8d5b3e32b7 )
+)
+
+game (
+	name "Freeway (2004)(Charles Pelosi)"
+	description "Freeway (2004)(Charles Pelosi)"
+	rom ( name "Freeway (2004)(Charles Pelosi).c10" size 2186 crc 0612513e md5 3074edeaaf247ca00eb65a05f15ad509 )
+)
+
+game (
+	name "Frogger (19xx)(-)"
+	description "Frogger (19xx)(-)"
+	rom ( name "Frogger (19xx)(-).c10" size 3125 crc 37859ba5 md5 67caf1f41d89342057c32a05a3b78e3d )
+)
+
+game (
+	name "Gap (19xx)(-)"
+	description "Gap (19xx)(-)"
+	rom ( name "Gap (19xx)(-).c10" size 3154 crc c6f5203c md5 31fbdc17b17c451b24493c059bdfcb03 )
+)
+
+game (
+	name "Graphics Loop Demo (19xx)(-)"
+	description "Graphics Loop Demo (19xx)(-)"
+	rom ( name "Graphics Loop Demo (19xx)(-).c10" size 786 crc bf0d402a md5 7396832ef8406b044077d5e28fabbedd )
+)
+
+game (
+	name "Groan (19xx)(-)"
+	description "Groan (19xx)(-)"
+	rom ( name "Groan (19xx)(-).c10" size 3794 crc 669e2cc8 md5 e7f73a45c1bde264d14f12de9a3e7efb )
+)
+
+game (
+	name "Hangman (19xx)(-)"
+	description "Hangman (19xx)(-)"
+	rom ( name "Hangman (19xx)(-).c10" size 2795 crc 56351ca8 md5 2bb4958003a3996e401d5b86d6ed07d7 )
+)
+
+game (
+	name "Hires Bomber (1985)(G. Pollock)"
+	description "Hires Bomber (1985)(G. Pollock)"
+	rom ( name "Hires Bomber (1985)(G. Pollock).c10" size 3676 crc 3c4fcbf9 md5 f026a542c73b49210148f20a322de35a )
+)
+
+game (
+	name "Hires Drawing (19xx)(G.Pollock)"
+	description "Hires Drawing (19xx)(G.Pollock)"
+	rom ( name "Hires Drawing (19xx)(G.Pollock).c10" size 1663 crc be70719d md5 e678b49ab418dd23a352386518e1bc40 )
+)
+
+game (
+	name "Horse (19xx)(James)"
+	description "Horse (19xx)(James)"
+	rom ( name "Horse (19xx)(James).c10" size 1685 crc d326d8f1 md5 9f7273434648252dd74e177a9cfce1d7 )
+)
+
+game (
+	name "Kaleido (19xx)(-)"
+	description "Kaleido (19xx)(-)"
+	rom ( name "Kaleido (19xx)(-).c10" size 894 crc 7ce66d5b md5 3580aeff3222230937d4cafa2064cca0 )
+)
+
+game (
+	name "Lander (19xx)(-)"
+	description "Lander (19xx)(-)"
+	rom ( name "Lander (19xx)(-).c10" size 1190 crc e557ff52 md5 457a2a5a69ad0885811842e43e9fb947 )
+)
+
+game (
+	name "Lander (19xx)(James)"
+	description "Lander (19xx)(James)"
+	rom ( name "Lander (19xx)(James).c10" size 1190 crc 8aab62bd md5 4934c5b3379a72e57f2459f3bdc3d738 )
+)
+
+game (
+	name "MC-10 Duelling Cannons Game (19xx)(-)"
+	description "MC-10 Duelling Cannons Game (19xx)(-)"
+	rom ( name "MC-10 Duelling Cannons Game (19xx)(-).bas" size 4131 crc ddd3651e md5 d24548a0e921a622b6107bd4432d733c )
+)
+
+game (
+	name "MC-10 Graphics Routines (19xx)(-)"
+	description "MC-10 Graphics Routines (19xx)(-)"
+	rom ( name "MC-10 Graphics Routines (19xx)(-).bas" size 1236 crc 08aa0881 md5 605cf2dbf701bc9944295456cce58eb8 )
+)
+
+game (
+	name "MC-10 Mini Calculator (19xx)(-)"
+	description "MC-10 Mini Calculator (19xx)(-)"
+	rom ( name "MC-10 Mini Calculator (19xx)(-).bas" size 2117 crc b342d165 md5 dbea9892c3e4b791e5b2e22d36794761 )
+)
+
+game (
+	name "MC-10 Space Invaders Game (19xx)(-)"
+	description "MC-10 Space Invaders Game (19xx)(-)"
+	rom ( name "MC-10 Space Invaders Game (19xx)(-).bas" size 1109 crc 6e085588 md5 9d4bc8b5bb576be1c0374cfc06055979 )
+)
+
+game (
+	name "MC-10 Word Processor (19xx)(-)"
+	description "MC-10 Word Processor (19xx)(-)"
+	rom ( name "MC-10 Word Processor (19xx)(-).bas" size 5225 crc 85d1f036 md5 8f3888a80ad3f41be219f58d1b4122bf )
+)
+
+game (
+	name "ML Mini Monitor (19xx)(-)"
+	description "ML Mini Monitor (19xx)(-)"
+	rom ( name "ML Mini Monitor (19xx)(-).c10" size 2723 crc d5cddf7e md5 dd5864bcef611d5ae684e361c6bb0648 )
+)
+
+game (
+	name "Mastermind (19xx)(-)"
+	description "Mastermind (19xx)(-)"
+	rom ( name "Mastermind (19xx)(-).c10" size 3189 crc bd3b091f md5 6bf0247a9d1d59b803cbe52c51cb38f9 )
+)
+
+game (
+	name "Micro Checkers (1983)(Tandy Corporation)"
+	description "Micro Checkers (1983)(Tandy Corporation)"
+	rom ( name "Micro Checkers (1983)(Tandy Corporation).bas" size 2909 crc 62870276 md5 400425b3ab3ba2160ac20287ffd008c4 )
+)
+
+game (
+	name "MicroCheckers (19xx)(James)"
+	description "MicroCheckers (19xx)(James)"
+	rom ( name "MicroCheckers (19xx)(James).c10" size 2602 crc a1e1e749 md5 ac45186d76e2f8ec384a81eab43fe0ff )
+)
+
+game (
+	name "MicroColor Checkers (1984)(-)"
+	description "MicroColor Checkers (1984)(-)"
+	rom ( name "MicroColor Checkers (1984)(-).c10" size 2602 crc 6faa1922 md5 efb5af51f0e3d77909b51a7d41b54c36 )
+)
+
+game (
+	name "MicroColor Compac (1983)(-)"
+	description "MicroColor Compac (1983)(-)"
+	rom ( name "MicroColor Compac (1983)(-).bin" size 2218 crc 215179cb md5 4455da2053e729e055ec0ff4c035ad66 )
+)
+
+game (
+	name "MicroColor Lostworld Pinball (1983)(-)"
+	description "MicroColor Lostworld Pinball (1983)(-)"
+	rom ( name "MicroColor Lostworld Pinball (1983)(-).c10" size 12341 crc 96f8c02f md5 05da2044f49703976692d028c18ac79b )
+)
+
+game (
+	name "Milo, Maths For Kids (19xx)(-)"
+	description "Milo, Maths For Kids (19xx)(-)"
+	rom ( name "Milo, Maths For Kids (19xx)(-).c10" size 3030 crc c827fab0 md5 806572aceecaf638a35103c19e9242e8 )
+)
+
+game (
+	name "Mini-Calculator (19xx)(James)"
+	description "Mini-Calculator (19xx)(James)"
+	rom ( name "Mini-Calculator (19xx)(James).c10" size 1812 crc fe734c0f md5 a28ebd74d71538811f552659aa69a31c )
+)
+
+game (
+	name "Morse (19xx)(-)"
+	description "Morse (19xx)(-)"
+	rom ( name "Morse (19xx)(-).c10" size 1776 crc 6c5ce81b md5 6b784c930a05398fd230276b617df2d8 )
+)
+
+game (
+	name "Pagelist (19xx)(G. Pollock)"
+	description "Pagelist (19xx)(G. Pollock)"
+	rom ( name "Pagelist (19xx)(G. Pollock).c10" size 1034 crc 3e4b59bb md5 38fc331ff9b2aab26f0b11fd0026da11 )
+)
+
+game (
+	name "Pinball (19xx)(James)"
+	description "Pinball (19xx)(James)"
+	rom ( name "Pinball (19xx)(James).c10" size 12342 crc 96ae8400 md5 daff77bc192fe78cfa139d54f2c7884e )
+)
+
+game (
+	name "Polygonal Spirals (1983)(Tandy Corp.)"
+	description "Polygonal Spirals (1983)(Tandy Corp.)"
+	rom ( name "Polygonal Spirals (1983)(Tandy Corp.).c10" size 1677 crc 67493988 md5 dfffd2c17b9db1fba05e0a1ffc6538f8 )
+)
+
+game (
+	name "Pong (19xx)(-)"
+	description "Pong (19xx)(-)"
+	rom ( name "Pong (19xx)(-).c10" size 1570 crc 05f0afd6 md5 411bb30bbe5f1eef7e0cffe31d5daa11 )
+)
+
+game (
+	name "Pong (19xx)(James)"
+	description "Pong (19xx)(James)"
+	rom ( name "Pong (19xx)(James).c10" size 1570 crc 13844b44 md5 e499106d746082de448dbf25e8075e03 )
+)
+
+game (
+	name "Pontoon (19xx)(-)"
+	description "Pontoon (19xx)(-)"
+	rom ( name "Pontoon (19xx)(-).c10" size 2494 crc 1ed48b5e md5 52e525d20abf6f08fae9c6b9bf71187d )
+)
+
+game (
+	name "Quarter Horse Race (19xx)(-)"
+	description "Quarter Horse Race (19xx)(-)"
+	rom ( name "Quarter Horse Race (19xx)(-).c10" size 1685 crc 3f779cb7 md5 ab042a90bcbf600ecb3ebfcdc7fa8f55 )
+)
+
+game (
+	name "Road Race (19xx)(William Barden Jr)"
+	description "Road Race (19xx)(William Barden Jr)"
+	rom ( name "Road Race (19xx)(William Barden Jr).c10" size 2696 crc c74def7a md5 1de895f16915433c7d710eb9959ed647 )
+)
+
+game (
+	name "Sound Demostration (1985)(Gary Furr)"
+	description "Sound Demostration (1985)(Gary Furr)"
+	rom ( name "Sound Demostration (1985)(Gary Furr).c10" size 2998 crc be748939 md5 d8f17bb73e63190de32848c547af1bc1 )
+)
+
+game (
+	name "Speech (198x)(G. Furr)"
+	description "Speech (198x)(G. Furr)"
+	rom ( name "Speech (198x)(G. Furr).c10" size 15320 crc 8f6865a1 md5 801bba01ab80709c54ba52f350cb95a8 )
+)
+
+game (
+	name "Speed (1986)(G. Pollock)"
+	description "Speed (1986)(G. Pollock)"
+	rom ( name "Speed (1986)(G. Pollock).c10" size 916 crc 13bf0d2d md5 8aa25e548015cb5dd5304f73cefc385c )
+)
+
+game (
+	name "Squares (1981)(Tom Rugg - Phil Feldman)"
+	description "Squares (1981)(Tom Rugg - Phil Feldman)"
+	rom ( name "Squares (1981)(Tom Rugg - Phil Feldman).c10" size 849 crc 82e1adb1 md5 696e2d664e4dd2f857849bf5a575e01b )
+)
+
+game (
+	name "Sysdata Eletronica MicroColor BASIC (19xx)(-)(BR)"
+	description "Sysdata Eletronica MicroColor BASIC (19xx)(-)(BR)"
+	rom ( name "Sysdata Eletronica MicroColor BASIC (19xx)(-)(BR).bin" size 8192 crc dd900323 md5 2f44b0f84c2d8e81a0f9b6646b86305a )
+)
+
+game (
+	name "Tandy Radio Shack TRS-80 MC-10 BASIC (19xx)(Tandy)"
+	description "Tandy Radio Shack TRS-80 MC-10 BASIC (19xx)(Tandy)"
+	rom ( name "Tandy Radio Shack TRS-80 MC-10 BASIC (19xx)(Tandy).bin" size 8192 crc 11fda97e md5 f29e94ff36577ffb6a787959e45bfe85 )
+)
+
+game (
+	name "Tandy Radio Shack TRS-80 MC-10 Character ROM (19xx)(-)"
+	description "Tandy Radio Shack TRS-80 MC-10 Character ROM (19xx)(-)"
+	rom ( name "Tandy Radio Shack TRS-80 MC-10 Character ROM (19xx)(-).bin" size 768 crc e38821f1 md5 58439ba882c992bbde13a0531447d87b )
+)
+
+game (
+	name "Tandy Radio Shack TRS-80 MC-10 External Character ROM 4k (19xx)(-)"
+	description "Tandy Radio Shack TRS-80 MC-10 External Character ROM 4k (19xx)(-)"
+	rom ( name "Tandy Radio Shack TRS-80 MC-10 External Character ROM 4k (19xx)(-).bin" size 2048 crc efa81124 md5 e94514243bda258e681bf78ec68a993e )
+)
+
+game (
+	name "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Round]"
+	description "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Round]"
+	rom ( name "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Round].bin" size 768 crc 548f5f8e md5 88acfb6979b461252a6b32cc9f064e5b )
+)
+
+game (
+	name "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Square]"
+	description "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Square]"
+	rom ( name "Tandy Radio Shack TRS-80 MC-10 Simulated Character ROM (19xx)(-)[Square].bin" size 768 crc dd5b49ad md5 8784a9ef978efe956b16df6a3fba6e31 )
+)
+
+game (
+	name "Tape Index (19xx)(G. Pollock)"
+	description "Tape Index (19xx)(G. Pollock)"
+	rom ( name "Tape Index (19xx)(G. Pollock).c10" size 780 crc 7ec3d9d4 md5 d9b1ee958237457d9613ee5d96a40ed9 )
+)
+
+game (
+	name "ZZZ-UNK-ROM1_3"
+	description "ZZZ-UNK-ROM1_3"
+	rom ( name "ZZZ-UNK-ROM1_3.c10" size 8817 crc 0732ca8e md5 0f739319b78a0ce2ec1d1b8d089197fb )
+)
+
+game (
+	name "ZZZ-UNK-hb4400"
+	description "ZZZ-UNK-hb4400"
+	rom ( name "ZZZ-UNK-hb4400.c10" size 2632 crc 94e384cc md5 077e23cdc3c3bb293705abab58a33c76 )
+)
+
+game (
+	name "ZZZ-UNK-hb4500"
+	description "ZZZ-UNK-hb4500"
+	rom ( name "ZZZ-UNK-hb4500.c10" size 3022 crc cc45db75 md5 360a189d7f37aa85323b4bbdd621bc58 )
+)
+
+game (
+	name "ZZZ-UNK-hb7500"
+	description "ZZZ-UNK-hb7500"
+	rom ( name "ZZZ-UNK-hb7500.c10" size 3026 crc 6f224e73 md5 696c013b430e22b67b5973d0da21223b )
+)

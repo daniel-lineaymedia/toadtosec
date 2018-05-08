@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair QL - Games"
+	description "Sinclair QL - Games (TOSEC-v2011-09-24)"
+	category "Sinclair QL - Games"
+	version 2011-09-24
+	author "Xtale - Grendel - Cassiel"
+)
+
+game (
+	name "Linegame (1986)(Salmi, Timo)"
+	description "Linegame (1986)(Salmi, Timo)"
+	rom ( name "Linegame (1986)(Salmi, Timo).bas" size 10220 crc a4c1f203 md5 3ed41b15dac31ebd5f7bd59a341eff45 sha1 29b5ba2c22ef873e5d9301fa1422ad033ba3b80d )
+)
+

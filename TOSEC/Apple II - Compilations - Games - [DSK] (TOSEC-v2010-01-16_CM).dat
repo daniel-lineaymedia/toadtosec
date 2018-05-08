@@ -1,0 +1,373 @@
+clrmamepro (
+	name "Apple II - Compilations - Games - [DSK]"
+	description "Apple II - Compilations - Games - [DSK] (TOSEC-v2010-01-16)"
+	category "Apple II - Compilations - Games - [DSK]"
+	version 2010-01-16
+	author "TKaos - Cassiel - jjs"
+)
+
+game (
+	name "Ali Baba & The Forty Thieves (1982)(Stuart Smith)[cr]"
+	description "Ali Baba & The Forty Thieves (1982)(Stuart Smith)[cr]"
+	rom ( name "Ali Baba & The Forty Thieves (1982)(Stuart Smith)[cr].dsk" size 143360 crc 536d3462 md5 02f41716a8ebbb68b54315db29bbc214 )
+)
+
+game (
+	name "Alien Typhoon (19xx)(-)[b] & Burgertime (19xx)(-) & Cubit (19xx)(-)[b]"
+	description "Alien Typhoon (19xx)(-)[b] & Burgertime (19xx)(-) & Cubit (19xx)(-)[b]"
+	rom ( name "Alien Typhoon (19xx)(-)[b] & Burgertime (19xx)(-) & Cubit (19xx)(-)[b].dsk" size 143363 crc 28e8a7e3 md5 e62a47447a903b303e8a55f4aac9daf9 )
+)
+
+game (
+	name "Apple II Compilation #001 (19xx)(-)"
+	description "Apple II Compilation #001 (19xx)(-)"
+	rom ( name "Apple II Compilation #001 (19xx)(-).dsk" size 143360 crc 0c95a13f md5 c3d4598a3745a0547270f9461533dd09 )
+)
+
+game (
+	name "Apple II Compilation #002 (19xx)(-)"
+	description "Apple II Compilation #002 (19xx)(-)"
+	rom ( name "Apple II Compilation #002 (19xx)(-).dsk" size 143360 crc 28da3225 md5 c8ce1aaef00f2dd9db61183fd617fddc )
+)
+
+game (
+	name "Apple II Compilation #010 (19xx)(-)"
+	description "Apple II Compilation #010 (19xx)(-)"
+	rom ( name "Apple II Compilation #010 (19xx)(-).dsk" size 143360 crc 30166746 md5 6dfeb02dc5520c959b6221d4b8b08359 )
+)
+
+game (
+	name "Aquatron (1983)(Sierra) & Neptune (19xx)(Gebelli Software) & Plasmania (1983)(Sirius Software)[cr]"
+	description "Aquatron (1983)(Sierra) & Neptune (19xx)(Gebelli Software) & Plasmania (1983)(Sirius Software)[cr]"
+	rom ( name "Aquatron (1983)(Sierra) & Neptune (19xx)(Gebelli Software) & Plasmania (1983)(Sirius Software)[cr].dsk" size 143360 crc 0533479e md5 4dac7147275000bc1c0a84df578c4829 )
+)
+
+game (
+	name "Cannonball Blitz (19xx)(On-Line Systems) & Mario Bros (19xx)(Atari)[cr] & Montezuma's Revenge (19xx)(-)[cr]"
+	description "Cannonball Blitz (19xx)(On-Line Systems) & Mario Bros (19xx)(Atari)[cr] & Montezuma's Revenge (19xx)(-)[cr]"
+	rom ( name "Cannonball Blitz (19xx)(On-Line Systems) & Mario Bros (19xx)(Atari)[cr] & Montezuma's Revenge (19xx)(-)[cr].dsk" size 143360 crc 537e3290 md5 37696e602bcf53d7643d00ba8893ca17 )
+)
+
+game (
+	name "Dung Beetles (1982)(Datasoft) & Moon Patrol (19xx)(-)-[b][stop the madness]"
+	description "Dung Beetles (1982)(Datasoft) & Moon Patrol (19xx)(-)-[b][stop the madness]"
+	rom ( name "Dung Beetles (1982)(Datasoft) & Moon Patrol (19xx)(-)-[b][stop the madness].dsk" size 143363 crc e6f26a14 md5 4f40be96b8e522a9fbc03c01169f58f6 )
+)
+
+game (
+	name "Dungeon Master Assistant Vol. II - Characters & Treasures (1989)(SSI)[RDOS]"
+	description "Dungeon Master Assistant Vol. II - Characters & Treasures (1989)(SSI)[RDOS]"
+	rom ( name "Dungeon Master Assistant Vol. II - Characters & Treasures (1989)(SSI)[RDOS].dsk" size 143360 crc 76a50126 md5 579bbebd6abd27aecb23412707102ee4 )
+)
+
+game (
+	name "Fire and Ice (1984)(Datasoft)[cr] & HERO (19xx)(Activision)[cr][t] & Night Stalker (19xx)(-)[b]"
+	description "Fire and Ice (1984)(Datasoft)[cr] & HERO (19xx)(Activision)[cr][t] & Night Stalker (19xx)(-)[b]"
+	rom ( name "Fire and Ice (1984)(Datasoft)[cr] & HERO (19xx)(Activision)[cr][t] & Night Stalker (19xx)(-)[b].dsk" size 143360 crc 16f1f7bd md5 a0ebb09fe937e4926306772243c1e3f2 )
+)
+
+game (
+	name "Frogger (19xx)(Sega)[cr] & Ribbit (19xx)(-) & Road Pizza (19xx)(Clay Harrell)"
+	description "Frogger (19xx)(Sega)[cr] & Ribbit (19xx)(-) & Road Pizza (19xx)(Clay Harrell)"
+	rom ( name "Frogger (19xx)(Sega)[cr] & Ribbit (19xx)(-) & Road Pizza (19xx)(Clay Harrell).dsk" size 143360 crc 3350b82d md5 f58306eafc0d6f785a57698ed47bbe7b )
+)
+
+game (
+	name "Interlude (1980)(Syntonnic) & Triad (1982)(-)[cr] & Type Attack (1982)(Sirius Software)[cr]"
+	description "Interlude (1980)(Syntonnic) & Triad (1982)(-)[cr] & Type Attack (1982)(Sirius Software)[cr]"
+	rom ( name "Interlude (1980)(Syntonnic) & Triad (1982)(-)[cr] & Type Attack (1982)(Sirius Software)[cr].dsk" size 143360 crc 513871ab md5 12fc86fe4fac2cb8e26f47a1d66450e7 )
+)
+
+game (
+	name "Jawbreaker II (19xx)(-) & Snack Attack (19xx)(Dan Illowsky) & Snoggle (19xx)(-)"
+	description "Jawbreaker II (19xx)(-) & Snack Attack (19xx)(Dan Illowsky) & Snoggle (19xx)(-)"
+	rom ( name "Jawbreaker II (19xx)(-) & Snack Attack (19xx)(Dan Illowsky) & Snoggle (19xx)(-).dsk" size 143360 crc 0fd31f50 md5 6d9056e2c7e2847df0f3a45b8ca76b9d )
+)
+
+game (
+	name "Spy Strikes Back (1983)(Penguin Software) & Spy's Demise (1982)(Penguin Software)"
+	description "Spy Strikes Back (1983)(Penguin Software) & Spy's Demise (1982)(Penguin Software)"
+	rom ( name "Spy Strikes Back (1983)(Penguin Software) & Spy's Demise (1982)(Penguin Software).dsk" size 143360 crc 9c6f65e1 md5 54294f0c2e8fd4daf3f3d344268ef077 )
+)
+
+game (
+	name "Spy vs. Spy (1984)(First Star Software) & Spy vs. Spy II - The Island Caper (1984)(First Star Software)"
+	description "Spy vs. Spy (1984)(First Star Software) & Spy vs. Spy II - The Island Caper (1984)(First Star Software)"
+	rom ( name "Spy vs. Spy (1984)(First Star Software) & Spy vs. Spy II - The Island Caper (1984)(First Star Software).dsk" size 143360 crc 9341b986 md5 92dc6cd2317e5d12f4e203a2fd0beddf )
+)
+
+game (
+	name "Starblaster (19xx)(C & G)[cr] & Star Trek (1983)(Sega)[cr] & Shuttle Intercept (19xx)(-)[cr]"
+	description "Starblaster (19xx)(C & G)[cr] & Star Trek (1983)(Sega)[cr] & Shuttle Intercept (19xx)(-)[cr]"
+	rom ( name "Starblaster (19xx)(C & G)[cr] & Star Trek (1983)(Sega)[cr] & Shuttle Intercept (19xx)(-)[cr].dsk" size 143360 crc 95f166f7 md5 5aedc76bad99dd553b244e1ead388987 )
+)
+
+game (
+	name "ZZZ-UNK-[compil] Sneakers+ -[o]"
+	description "ZZZ-UNK-[compil] Sneakers+ -[o]"
+	rom ( name "ZZZ-UNK-[compil] Sneakers+ -[o].dsk" size 143363 crc 63e7852a md5 ef6a71b1c9d39756b8d0fb50460e5121 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Mcs Pinball (1&3) (disk 1 Of 2)"
+	description "ZZZ-UNK-[compil3] Mcs Pinball (1&3) (disk 1 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Mcs Pinball (1&3) (disk 1 Of 2).dsk" size 143360 crc c04b6d73 md5 136ca5b2d98c2cc7f5ae912bec31da93 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Mcs Pinball (4&6) (disk 2 Of 2)"
+	description "ZZZ-UNK-[compil3] Mcs Pinball (4&6) (disk 2 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Mcs Pinball (4&6) (disk 2 Of 2).dsk" size 143360 crc 75cb3bb7 md5 5bfb322663d083471f6ced9ff352c8a7 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Night & Stalker+ [o]"
+	description "ZZZ-UNK-[compil3] Night & Stalker+ [o]"
+	rom ( name "ZZZ-UNK-[compil3] Night & Stalker+ [o].dsk" size 143363 crc f2686cea md5 d9a722ab085044ccb760d587a4745300 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Angel-1 - Choplifter - Minit Man - Phaser Fire"
+	description "ZZZ-UNK-[compil4] Angel-1 - Choplifter - Minit Man - Phaser Fire"
+	rom ( name "ZZZ-UNK-[compil4] Angel-1 - Choplifter - Minit Man - Phaser Fire.dsk" size 143360 crc 47467779 md5 0269a2f3511f223ca9d32c07842ed1f5 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ankh - Crimewave - Deathmaze 5000 - Starmaze"
+	description "ZZZ-UNK-[compil4] Ankh - Crimewave - Deathmaze 5000 - Starmaze"
+	rom ( name "ZZZ-UNK-[compil4] Ankh - Crimewave - Deathmaze 5000 - Starmaze.dsk" size 143360 crc 303be082 md5 52167a8e40c509ff7cf1842288f95289 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple - Panic+[o]"
+	description "ZZZ-UNK-[compil4] Apple - Panic+[o]"
+	rom ( name "ZZZ-UNK-[compil4] Apple - Panic+[o].dsk" size 143488 crc b7177d2d md5 9886632b2aaa68321af2f6137bdb3030 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple-oids - Asteroids - Frazzle - Star Thief"
+	description "ZZZ-UNK-[compil4] Apple-oids - Asteroids - Frazzle - Star Thief"
+	rom ( name "ZZZ-UNK-[compil4] Apple-oids - Asteroids - Frazzle - Star Thief.dsk" size 143360 crc 77e9a333 md5 d4933068e2a73b52bdd15bcf54ab854d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Asteroids - Nm - H5 [o]"
+	description "ZZZ-UNK-[compil4] Asteroids - Nm - H5 [o]"
+	rom ( name "ZZZ-UNK-[compil4] Asteroids - Nm - H5 [o].dsk" size 143363 crc a925217c md5 f30fe152622785ba42eb5b14035ee34d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Autobahn - Burnout - Formula 1racer - Gran Prix - Night Driver - Spy Hunter"
+	description "ZZZ-UNK-[compil4] Autobahn - Burnout - Formula 1racer - Gran Prix - Night Driver - Spy Hunter"
+	rom ( name "ZZZ-UNK-[compil4] Autobahn - Burnout - Formula 1racer - Gran Prix - Night Driver - Spy Hunter.dsk" size 143360 crc 05fa047f md5 7f31bbe19313887e0f3159568fb5fae3 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ballblazer_horizonv_lasersilk_zenith"
+	description "ZZZ-UNK-[compil4] Ballblazer_horizonv_lasersilk_zenith"
+	rom ( name "ZZZ-UNK-[compil4] Ballblazer_horizonv_lasersilk_zenith.dsk" size 143360 crc 26ebef26 md5 94775f197f26821caaa563b4e0e1239a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bolo_crazymazy_drelbs_labyrinth"
+	description "ZZZ-UNK-[compil4] Bolo_crazymazy_drelbs_labyrinth"
+	rom ( name "ZZZ-UNK-[compil4] Bolo_crazymazy_drelbs_labyrinth.dsk" size 143360 crc d174c985 md5 429e262df7548c9bbf3ed37f95f91372 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bugattack_centipede_millipede_nightmaregallery"
+	description "ZZZ-UNK-[compil4] Bugattack_centipede_millipede_nightmaregallery"
+	rom ( name "ZZZ-UNK-[compil4] Bugattack_centipede_millipede_nightmaregallery.dsk" size 143360 crc fc43a701 md5 a9fe84bcbd6c1f54aebcf2337c216afb )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bugattack_millipede_nightmaregallery_pestpatrol"
+	description "ZZZ-UNK-[compil4] Bugattack_millipede_nightmaregallery_pestpatrol"
+	rom ( name "ZZZ-UNK-[compil4] Bugattack_millipede_nightmaregallery_pestpatrol.dsk" size 143360 crc fb250f50 md5 df47db432c25b1de4739a5e31716b990 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Canyon Climber - Dino Eggs - Free Fall - Handy Dandy"
+	description "ZZZ-UNK-[compil4] Canyon Climber - Dino Eggs - Free Fall - Handy Dandy"
+	rom ( name "ZZZ-UNK-[compil4] Canyon Climber - Dino Eggs - Free Fall - Handy Dandy.dsk" size 143360 crc c7c6fc18 md5 fc789b5cb70da149e17c7c80a3d861d7 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ceiling Zero - Sneakers - Space Eggs - Space Quarks"
+	description "ZZZ-UNK-[compil4] Ceiling Zero - Sneakers - Space Eggs - Space Quarks"
+	rom ( name "ZZZ-UNK-[compil4] Ceiling Zero - Sneakers - Space Eggs - Space Quarks.dsk" size 143360 crc 13925317 md5 96342ed22295c5633ff975f31410a68d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Congo - Epoch - Gold Rush - Mating Zone"
+	description "ZZZ-UNK-[compil4] Congo - Epoch - Gold Rush - Mating Zone"
+	rom ( name "ZZZ-UNK-[compil4] Congo - Epoch - Gold Rush - Mating Zone.dsk" size 143360 crc 90bfede5 md5 5a11a2c55c0880ba51aa1dacb2d0090e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Congo_cyclod_goldrush_matingzone"
+	description "ZZZ-UNK-[compil4] Congo_cyclod_goldrush_matingzone"
+	rom ( name "ZZZ-UNK-[compil4] Congo_cyclod_goldrush_matingzone.dsk" size 143360 crc 69dcecce md5 3c0c51ec6839ce62bb3840acbf050b3b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] County Carnival - Hardhat - Lemmings - People Pong - Suicide"
+	description "ZZZ-UNK-[compil4] County Carnival - Hardhat - Lemmings - People Pong - Suicide"
+	rom ( name "ZZZ-UNK-[compil4] County Carnival - Hardhat - Lemmings - People Pong - Suicide.dsk" size 143360 crc 8f8f4521 md5 384fd7b511dd8f68214dae80fd525162 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Crossfire - Cyclotron - Genetic Drift - Outpost"
+	description "ZZZ-UNK-[compil4] Crossfire - Cyclotron - Genetic Drift - Outpost"
+	rom ( name "ZZZ-UNK-[compil4] Crossfire - Cyclotron - Genetic Drift - Outpost.dsk" size 143360 crc 68d0d742 md5 714a8c60beed7858aee724c37ceb96df )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Crystal Castles - Crystal Castles - Cheat Version - Lost Tomb - Night Flight"
+	description "ZZZ-UNK-[compil4] Crystal Castles - Crystal Castles - Cheat Version - Lost Tomb - Night Flight"
+	rom ( name "ZZZ-UNK-[compil4] Crystal Castles - Crystal Castles - Cheat Version - Lost Tomb - Night Flight.dsk" size 143360 crc 48478b42 md5 09ac68c4a3b71207902f6fb32dadd368 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Crystal Castles - Lost Tomb - Night Flight - Pengo"
+	description "ZZZ-UNK-[compil4] Crystal Castles - Lost Tomb - Night Flight - Pengo"
+	rom ( name "ZZZ-UNK-[compil4] Crystal Castles - Lost Tomb - Night Flight - Pengo.dsk" size 143360 crc f5afac80 md5 ea5e2842b20ce1a5807a812ed3585dc7 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cubit - Mr. Cool - Q-bert - Q-bert (original)"
+	description "ZZZ-UNK-[compil4] Cubit - Mr. Cool - Q-bert - Q-bert (original)"
+	rom ( name "ZZZ-UNK-[compil4] Cubit - Mr. Cool - Q-bert - Q-bert (original).dsk" size 143360 crc d39d2438 md5 2a58381d5c3699e66200f00e83029dfe )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cyber Strike - High Orbit - Starmines - Star Trek+"
+	description "ZZZ-UNK-[compil4] Cyber Strike - High Orbit - Starmines - Star Trek+"
+	rom ( name "ZZZ-UNK-[compil4] Cyber Strike - High Orbit - Starmines - Star Trek+.dsk" size 143360 crc 4e8b890a md5 0bc6e81f5267f7547b68d3cbdaaa084c )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Defender - Rearguard - Repton - Stargate"
+	description "ZZZ-UNK-[compil4] Defender - Rearguard - Repton - Stargate"
+	rom ( name "ZZZ-UNK-[compil4] Defender - Rearguard - Repton - Stargate.dsk" size 143360 crc 2f315198 md5 73b312902636f976566110a67b39e8c8 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Diamond Mine - Dung Beetles - Lady Tut - Minotaur"
+	description "ZZZ-UNK-[compil4] Diamond Mine - Dung Beetles - Lady Tut - Minotaur"
+	rom ( name "ZZZ-UNK-[compil4] Diamond Mine - Dung Beetles - Lady Tut - Minotaur.dsk" size 143360 crc 1f8f1ca8 md5 f25ceaebaa365c9b7f22a326895c31b9 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Diamond Mine - Picnic Paranoia - Worm Wall - Zargs"
+	description "ZZZ-UNK-[compil4] Diamond Mine - Picnic Paranoia - Worm Wall - Zargs"
+	rom ( name "ZZZ-UNK-[compil4] Diamond Mine - Picnic Paranoia - Worm Wall - Zargs.dsk" size 143360 crc 4f08ba63 md5 18fa217d7b502d174233cba6b9aed046 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Fire And Ice - Genetic Drift - Laser Silk - Road Pizza - Suicide"
+	description "ZZZ-UNK-[compil4] Fire And Ice - Genetic Drift - Laser Silk - Road Pizza - Suicide"
+	rom ( name "ZZZ-UNK-[compil4] Fire And Ice - Genetic Drift - Laser Silk - Road Pizza - Suicide.dsk" size 143360 crc 389ad3fd md5 71b8e27058e530c4d5a9b7858d8d85aa )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Flipout - Highrise - Jigsaw - Webster"
+	description "ZZZ-UNK-[compil4] Flipout - Highrise - Jigsaw - Webster"
+	rom ( name "ZZZ-UNK-[compil4] Flipout - Highrise - Jigsaw - Webster.dsk" size 143360 crc 1baac469 md5 95df9cfeef8bd921c71b83d4c0cdf368 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Freefall [o]"
+	description "ZZZ-UNK-[compil4] Freefall [o]"
+	rom ( name "ZZZ-UNK-[compil4] Freefall [o].dsk" size 143363 crc 50542327 md5 a483746726fa7737da1c43c5438f8015 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Frogger - Vindicator - One On One (disk 2 Of 2)"
+	description "ZZZ-UNK-[compil4] Frogger - Vindicator - One On One (disk 2 Of 2)"
+	rom ( name "ZZZ-UNK-[compil4] Frogger - Vindicator - One On One (disk 2 Of 2).dsk" size 143360 crc b781cb7c md5 1d91f68eb7493bd4f43fe3b5f78f2df7 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gadgetz - Pipe Dream - Tetris - Vopper"
+	description "ZZZ-UNK-[compil4] Gadgetz - Pipe Dream - Tetris - Vopper"
+	rom ( name "ZZZ-UNK-[compil4] Gadgetz - Pipe Dream - Tetris - Vopper.dsk" size 143360 crc 9edd2b13 md5 355b4be41a9a4d5ce657dae4eae494ab )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Game_01a [o]"
+	description "ZZZ-UNK-[compil4] Game_01a [o]"
+	rom ( name "ZZZ-UNK-[compil4] Game_01a [o].dsk" size 143361 crc 26244cfd md5 24fa382ab7821583a2b62e253c290bf1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hungry Boy - Jawbreaker - Pac-man - Ms. Pac-man - Taxman"
+	description "ZZZ-UNK-[compil4] Hungry Boy - Jawbreaker - Pac-man - Ms. Pac-man - Taxman"
+	rom ( name "ZZZ-UNK-[compil4] Hungry Boy - Jawbreaker - Pac-man - Ms. Pac-man - Taxman.dsk" size 143360 crc 316f527a md5 7ae4a011aeb959422d16d6f5ec880bd9 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Lock_n_chase+"
+	description "ZZZ-UNK-[compil4] Lock_n_chase+"
+	rom ( name "ZZZ-UNK-[compil4] Lock_n_chase+.dsk" size 143360 crc 8a091df5 md5 5d06af76a6ffcc401b138f856646a9da )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Mouseattack - Serpentine [o]"
+	description "ZZZ-UNK-[compil4] Mouseattack - Serpentine [o]"
+	rom ( name "ZZZ-UNK-[compil4] Mouseattack - Serpentine [o].dsk" size 143363 crc 1844fdf0 md5 1bf3d012dcac8aa27e0715967176ad6b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] People - Pong+ [o]"
+	description "ZZZ-UNK-[compil4] People - Pong+ [o]"
+	rom ( name "ZZZ-UNK-[compil4] People - Pong+ [o].dsk" size 143363 crc 417a0dda md5 620c95bd02e5ca804994fb6203f7f332 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Return Of The Galaxians - Star Cruiser - Thunderbirds - Thunderbird-gx"
+	description "ZZZ-UNK-[compil4] Return Of The Galaxians - Star Cruiser - Thunderbirds - Thunderbird-gx"
+	rom ( name "ZZZ-UNK-[compil4] Return Of The Galaxians - Star Cruiser - Thunderbirds - Thunderbird-gx.dsk" size 143360 crc f929d9be md5 17213d3b9e91fae723ff96f06202d436 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Swashbuckler+ [o]"
+	description "ZZZ-UNK-[compil4] Swashbuckler+ [o]"
+	rom ( name "ZZZ-UNK-[compil4] Swashbuckler+ [o].dsk" size 143363 crc 2aec2c4a md5 d3631cbf223691866542d2f6e15dbe59 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] White Disk 4b - Ultradisk Hi-speed Toolkit"
+	description "ZZZ-UNK-[compil4] White Disk 4b - Ultradisk Hi-speed Toolkit"
+	rom ( name "ZZZ-UNK-[compil4] White Disk 4b - Ultradisk Hi-speed Toolkit.dsk" size 143360 crc 3dce4caf md5 62a895ba1922cd3d3ca81f0211ca0840 )
+)
+
+game (
+	name "ZZZ-UNK-Crystal Quest"
+	description "ZZZ-UNK-Crystal Quest"
+	rom ( name "ZZZ-UNK-Crystal Quest.dsk" size 143358 crc ed4baf7c md5 22e865020fff9ef5f123b18d453db991 )
+)
+
+game (
+	name "ZZZ-UNK-Gm_pack1 (19xx)(-)"
+	description "ZZZ-UNK-Gm_pack1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Gm_pack1 (19xx)(-).dsk" size 143360 crc 81df35ba md5 c2cafefba22f59815fbaa71cfd5d3dfa )
+)
+
+game (
+	name "ZZZ-UNK-Jawbreaker Ii-snack Attack-snoggle-snoggle Title"
+	description "ZZZ-UNK-Jawbreaker Ii-snack Attack-snoggle-snoggle Title"
+	rom ( name "ZZZ-UNK-Jawbreaker Ii-snack Attack-snoggle-snoggle Title.dsk" size 143360 crc 32eb6fe0 md5 842d971e20075e97f16c1da287329a30 )
+)
+
+game (
+	name "ZZZ-UNK-scott adams adventures. 1-5 (19xx)(-)"
+	description "ZZZ-UNK-scott adams adventures. 1-5 (19xx)(-)"
+	rom ( name "ZZZ-UNK-scott adams adventures. 1-5 (19xx)(-).dsk" size 143363 crc 37407848 md5 ebd3a2e4b599c354e7aae9fb4be062af )
+)
+
+game (
+	name "ZZZ-UNK-Spy Vs Spy 1 & 2 (19xx)(-)"
+	description "ZZZ-UNK-Spy Vs Spy 1 & 2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Spy Vs Spy 1 & 2 (19xx)(-).dsk" size 143360 crc 2646ad11 md5 98ed0f09c4a1baa6b6beca49e6fa700b )
+)

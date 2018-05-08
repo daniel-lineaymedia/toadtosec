@@ -1,0 +1,229 @@
+clrmamepro (
+	name "MGT Sam Coupe - Games - [SAD]"
+	description "MGT Sam Coupe - Games - [SAD] (TOSEC-v2008-12-21)"
+	category "MGT Sam Coupe - Games - [SAD]"
+	version 2008-12-21
+	author "dirkpitt - Grendel - Cowering - Cassiel"
+)
+
+game (
+	name "Basic Scrolly Pokers (19xx)(-)"
+	description "Basic Scrolly Pokers (19xx)(-)"
+	rom ( name "Basic Scrolly Pokers (19xx)(-).sad" size 819222 crc 90912202 md5 461bda3b4ae23f1a070646e3cf038b34 )
+)
+
+game (
+	name "Batz'n'Ball (1992)(Revelation)"
+	description "Batz'n'Ball (1992)(Revelation)"
+	rom ( name "Batz'n'Ball (1992)(Revelation).sad" size 819222 crc 419d7930 md5 98781186e8881d717c856b164d62aacd )
+)
+
+game (
+	name "Boing! & Sphera (1992)(Noesis Software)"
+	description "Boing! & Sphera (1992)(Noesis Software)"
+	rom ( name "Boing! & Sphera (1992)(Noesis Software).sad" size 819222 crc 131f4d6a md5 cf7020f6f21e695009e93daaa7797b6c )
+)
+
+game (
+	name "Bombed Out , Nuclear Waste , Magic Caves , Blockade - Compilation (1990)(Enigma Variations)"
+	description "Bombed Out , Nuclear Waste , Magic Caves , Blockade - Compilation (1990)(Enigma Variations)"
+	rom ( name "Bombed Out , Nuclear Waste , Magic Caves , Blockade - Compilation (1990)(Enigma Variations).sad" size 819222 crc 0d93eb0e md5 f46e45d44bcf15faf9195fb088e1e98d )
+)
+
+game (
+	name "Bowin and The Count Dracula (19xx)(Lucosoft - Revelation)"
+	description "Bowin and The Count Dracula (19xx)(Lucosoft - Revelation)"
+	rom ( name "Bowin and The Count Dracula (19xx)(Lucosoft - Revelation).sad" size 819222 crc 13649c4e md5 4ea6d4b14afa2571f50a1a8cda093a54 )
+)
+
+game (
+	name "Dyzonium , WaterWorks , WopGamma & Bugulators Compilation (19xx)(-)"
+	description "Dyzonium , WaterWorks , WopGamma & Bugulators Compilation (19xx)(-)"
+	rom ( name "Dyzonium , WaterWorks , WopGamma & Bugulators Compilation (19xx)(-).sad" size 819222 crc d4ecb371 md5 1da3267a1127692b1d068a4cfc737942 )
+)
+
+game (
+	name "Fredatives III (19xx)(Hipposoft)"
+	description "Fredatives III (19xx)(Hipposoft)"
+	rom ( name "Fredatives III (19xx)(Hipposoft).sad" size 819200 crc 52bba488 md5 dd915eddc294bc3e320ad51d8490728f )
+)
+
+game (
+	name "Fredatives IV (19xx)(Hipposoft)"
+	description "Fredatives IV (19xx)(Hipposoft)"
+	rom ( name "Fredatives IV (19xx)(Hipposoft).sad" size 819200 crc 8b7ac899 md5 bf3911696041740dbed67891c0fb5f12 )
+)
+
+game (
+	name "Game Dos - DVar 8.92n3 (19xx)(-)"
+	description "Game Dos - DVar 8.92n3 (19xx)(-)"
+	rom ( name "Game Dos - DVar 8.92n3 (19xx)(-).sad" size 819222 crc bb823216 md5 ab2bb298fd60c67e41ec71cc29e34c57 )
+)
+
+game (
+	name "GamesMaster 1.52 (19xx)(Betasoft)"
+	description "GamesMaster 1.52 (19xx)(Betasoft)"
+	rom ( name "GamesMaster 1.52 (19xx)(Betasoft).sad" size 819200 crc 689627bf md5 785fe1c8c45adda114da608fa9297578 )
+)
+
+game (
+	name "Happy Birthday - Games and Utilities Disk (19xx)(SamCo)"
+	description "Happy Birthday - Games and Utilities Disk (19xx)(SamCo)"
+	rom ( name "Happy Birthday - Games and Utilities Disk (19xx)(SamCo).sad" size 819222 crc 88adce4a md5 b4cd0e4c3ab0b502ff5c4037dd0a6ab8 )
+)
+
+game (
+	name "Hexagonia & Witching Hour (19xx)(-)"
+	description "Hexagonia & Witching Hour (19xx)(-)"
+	rom ( name "Hexagonia & Witching Hour (19xx)(-).sad" size 819222 crc bbb0b704 md5 a134f4fff87ce7c287d295a65b91f143 )
+)
+
+game (
+	name "Highway code, Quizball & Quizball Question Editor (1991)(Revelation)"
+	description "Highway code, Quizball & Quizball Question Editor (1991)(Revelation)"
+	rom ( name "Highway code, Quizball & Quizball Question Editor (1991)(Revelation).sad" size 819222 crc c9663d34 md5 82f941685f71e98f56330333767c90c9 )
+)
+
+game (
+	name "Impatience! - Triltex and Viking (1991)(FRED)"
+	description "Impatience! - Triltex and Viking (1991)(FRED)"
+	rom ( name "Impatience! - Triltex and Viking (1991)(FRED).sad" size 839702 crc dbd0189e md5 4e5d88f159d8791d1d159ab25ef22e73 )
+)
+
+game (
+	name "Manic Miner, Splat, Mr Pac, Snake Mania, Craft Compilation (19xx)(-)"
+	description "Manic Miner, Splat, Mr Pac, Snake Mania, Craft Compilation (19xx)(-)"
+	rom ( name "Manic Miner, Splat, Mr Pac, Snake Mania, Craft Compilation (19xx)(-).sad" size 819222 crc 6f7ac66f md5 33a05df276fee3d3d1f7393692d34cda )
+)
+
+game (
+	name "Map Print Rouines (19xx)(-)"
+	description "Map Print Rouines (19xx)(-)"
+	rom ( name "Map Print Rouines (19xx)(-).sad" size 819222 crc 7f6110ff md5 ea4a8d3ddee3190b8ad58d0f04f85cfc )
+)
+
+game (
+	name "Mega #1 (19xx)(-)"
+	description "Mega #1 (19xx)(-)"
+	rom ( name "Mega #1 (19xx)(-).sad" size 819200 crc d3077915 md5 aa72fbd3191ee2cb5177b5dde0d60a7d )
+)
+
+game (
+	name "Mind Games II (19xx)(Enigma Variations)"
+	description "Mind Games II (19xx)(Enigma Variations)"
+	rom ( name "Mind Games II (19xx)(Enigma Variations).sad" size 819222 crc 77d9c36e md5 de27057da2c920f13e43fed7e8e2ceda )
+)
+
+game (
+	name "Pipe Mania, EFPOTRM, Klax, Tetris, Defenders of the Earth (19xx)(-)"
+	description "Pipe Mania, EFPOTRM, Klax, Tetris, Defenders of the Earth (19xx)(-)"
+	rom ( name "Pipe Mania, EFPOTRM, Klax, Tetris, Defenders of the Earth (19xx)(-).sad" size 819222 crc fd037ab6 md5 b04c2dfd1e8db7b9b4a260446e5dce66 )
+)
+
+game (
+	name "Spectrum Games Disk 01 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 01 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 01 (19xx)(-)[Req 128k].sad" size 819222 crc fb2e5701 md5 ebf04297f1a461370b8fa515731dac9b )
+)
+
+game (
+	name "Spectrum Games Disk 02 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 02 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 02 (19xx)(-)[Req 128k].sad" size 819222 crc 86cb5dbe md5 a38de96fb8268d75d93451e3c0b6217f )
+)
+
+game (
+	name "Spectrum Games Disk 03 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 03 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 03 (19xx)(-)[Req 128k].sad" size 819222 crc c0f94eb7 md5 085ecf3f02e4bd8be9e3a977aebb9ae5 )
+)
+
+game (
+	name "Spectrum Games Disk 04 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 04 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 04 (19xx)(-)[Req 128k].sad" size 819222 crc 113c0b63 md5 0e7ba661190ab87411e0b2cb8ed52b62 )
+)
+
+game (
+	name "Spectrum Games Disk 05 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 05 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 05 (19xx)(-)[Req 128k].sad" size 819222 crc 29ee298b md5 dc623635058734b78d7943e99d087892 )
+)
+
+game (
+	name "Spectrum Games Disk 06 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 06 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 06 (19xx)(-)[Req 128k].sad" size 819222 crc e95f13dd md5 90daf29adf1b4b1f12bf6280048dfd26 )
+)
+
+game (
+	name "Spectrum Games Disk 07 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 07 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 07 (19xx)(-)[Req 128k].sad" size 819222 crc 34967a3c md5 37a6bf5ee985a7fdef7c5919ecd8a45d )
+)
+
+game (
+	name "Spectrum Games Disk 08 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 08 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 08 (19xx)(-)[Req 128k].sad" size 819222 crc 044f1c4d md5 4dfc10b0c5fbaacfced3760ba3dec6f2 )
+)
+
+game (
+	name "Spectrum Games Disk 09 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 09 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 09 (19xx)(-)[Req 128k].sad" size 819222 crc 37e1db12 md5 23015553b4df01b32a40bef3d8d00731 )
+)
+
+game (
+	name "Spectrum Games Disk 1 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 1 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 1 (19xx)(-)[Req 48k].sad" size 819222 crc 862b0448 md5 a299e063604b9b53ae7e1e37b6891237 )
+)
+
+game (
+	name "Spectrum Games Disk 10 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 10 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 10 (19xx)(-)[Req 128k].sad" size 819222 crc bd582d45 md5 2452cdfd76a3388e6ce2e95121966e96 )
+)
+
+game (
+	name "Spectrum Games Disk 11 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 11 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 11 (19xx)(-)[Req 128k].sad" size 819222 crc ace9d4f6 md5 62e707fb0673df57e6ae456c70e8a912 )
+)
+
+game (
+	name "Spectrum Games Disk 12 (19xx)(-)[Req 128k]"
+	description "Spectrum Games Disk 12 (19xx)(-)[Req 128k]"
+	rom ( name "Spectrum Games Disk 12 (19xx)(-)[Req 128k].sad" size 819222 crc 4475137e md5 ece119127a281b0796719b3d5ce2c760 )
+)
+
+game (
+	name "Spectrum Games Disk 2 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 2 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 2 (19xx)(-)[Req 48k].sad" size 819222 crc c55dcaff md5 85509077fc99b2cde6694fb1915b6b40 )
+)
+
+game (
+	name "Spectrum Games Disk 3 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 3 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 3 (19xx)(-)[Req 48k].sad" size 819222 crc 0bafa94a md5 1c6d892328ed73c0a2e8076464710185 )
+)
+
+game (
+	name "Spectrum Games Disk 4 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 4 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 4 (19xx)(-)[Req 48k].sad" size 819222 crc dd9a4ef5 md5 a43accf7a84690c15c3fc9f53141c473 )
+)
+
+game (
+	name "Spectrum Games Disk 5 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 5 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 5 (19xx)(-)[Req 48k].sad" size 819222 crc 9fdde91e md5 a332bdc9ec9d725ede7c62ff635ef134 )
+)
+
+game (
+	name "Spectrum Games Disk 6 (19xx)(-)[Req 48k]"
+	description "Spectrum Games Disk 6 (19xx)(-)[Req 48k]"
+	rom ( name "Spectrum Games Disk 6 (19xx)(-)[Req 48k].sad" size 819222 crc d1cda943 md5 c706bc84abbe1e530290aca804608573 )
+)

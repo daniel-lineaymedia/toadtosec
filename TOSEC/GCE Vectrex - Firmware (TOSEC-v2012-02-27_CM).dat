@@ -1,0 +1,14 @@
+clrmamepro (
+	name "GCE Vectrex - Firmware"
+	description "GCE Vectrex - Firmware (TOSEC-v2012-02-27)"
+	category "GCE Vectrex - Firmware"
+	version 2012-02-27
+	author "TKaos - BuckyB - borta - Grendel - Cassiel"
+)
+
+game (
+	name "Vectrex BIOS (1982)(GCE)"
+	description "Vectrex BIOS (1982)(GCE)"
+	rom ( name "Vectrex BIOS (1982)(GCE).bin" size 4096 crc f27d4371 md5 ba9260bb961d60e718378cc16a8051d7 sha1 b9bbf5bb0eac52d039a4a993a2d8064b862c9e28 )
+)
+

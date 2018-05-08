@@ -1,0 +1,187 @@
+clrmamepro (
+	name "Acorn Archimedes - Compilations"
+	description "Acorn Archimedes - Compilations (TOSEC-v2008-10-11)"
+	category "Acorn Archimedes - Compilations"
+	version 2008-10-11
+	author "C0llector - Cassiel"
+)
+
+game (
+	name "Multi-Program 01 (19xx)(-)"
+	description "Multi-Program 01 (19xx)(-)"
+	rom ( name "Multi-Program 01 (19xx)(-).adf" size 808960 crc 41ac9ba8 md5 c957512a55e4b9445b34b2b4b176bd83 )
+)
+
+game (
+	name "Multi-Program 01 (19xx)(-)[a]"
+	description "Multi-Program 01 (19xx)(-)[a]"
+	rom ( name "Multi-Program 01 (19xx)(-)[a].adf" size 808960 crc 64d7b15b md5 44f7d6029f7b471fc08d67c103046270 )
+)
+
+game (
+	name "Multi-Program 02 (19xx)(-)"
+	description "Multi-Program 02 (19xx)(-)"
+	rom ( name "Multi-Program 02 (19xx)(-).adf" size 819200 crc 6d8c06b9 md5 1f931d5a30d348905f96552a91008178 )
+)
+
+game (
+	name "Multi-Program 02 (19xx)(-)[a]"
+	description "Multi-Program 02 (19xx)(-)[a]"
+	rom ( name "Multi-Program 02 (19xx)(-)[a].adf" size 819200 crc 614b88f0 md5 eb1c2a68be5d5ab20956f99a2b1f4237 )
+)
+
+game (
+	name "Multi-Program 03 (19xx)(-)"
+	description "Multi-Program 03 (19xx)(-)"
+	rom ( name "Multi-Program 03 (19xx)(-).adf" size 819200 crc 280a3c44 md5 929ba63a8d8bf04575b236c4a343d993 )
+)
+
+game (
+	name "Multi-Program 04 (19xx)(-)"
+	description "Multi-Program 04 (19xx)(-)"
+	rom ( name "Multi-Program 04 (19xx)(-).adf" size 819200 crc ae8cfcc4 md5 17ded77c5075f55e4c7336dd599f67be )
+)
+
+game (
+	name "Multi-Program 05 (19xx)(-)"
+	description "Multi-Program 05 (19xx)(-)"
+	rom ( name "Multi-Program 05 (19xx)(-).adf" size 819200 crc b59648ed md5 dfec50b587c1338dfb667ca30799df20 )
+)
+
+game (
+	name "Multi-Program 06 (19xx)(-)"
+	description "Multi-Program 06 (19xx)(-)"
+	rom ( name "Multi-Program 06 (19xx)(-).adf" size 819200 crc cd3cf965 md5 38319150149ac52367a379b6073fea3c )
+)
+
+game (
+	name "Multi-Program 07 (19xx)(-)"
+	description "Multi-Program 07 (19xx)(-)"
+	rom ( name "Multi-Program 07 (19xx)(-).adf" size 819200 crc f9a7a2db md5 73e681bbfcf5a057f74df65c5492a19f )
+)
+
+game (
+	name "Multi-Program 08 (19xx)(-)"
+	description "Multi-Program 08 (19xx)(-)"
+	rom ( name "Multi-Program 08 (19xx)(-).adf" size 508928 crc f1be2c1a md5 92c826e5559faa6b63783c188a41394c )
+)
+
+game (
+	name "Multi-Program 09 (19xx)(-)"
+	description "Multi-Program 09 (19xx)(-)"
+	rom ( name "Multi-Program 09 (19xx)(-).adf" size 819200 crc db0b0eae md5 35e444077047a6c80045e264b3c23690 )
+)
+
+game (
+	name "Multi-Program 10 (19xx)(-)"
+	description "Multi-Program 10 (19xx)(-)"
+	rom ( name "Multi-Program 10 (19xx)(-).adf" size 819200 crc 6697560e md5 f996de2c1d46c8c823183354f55c4a57 )
+)
+
+game (
+	name "Multi-Program 11 (19xx)(-)"
+	description "Multi-Program 11 (19xx)(-)"
+	rom ( name "Multi-Program 11 (19xx)(-).adf" size 819200 crc c3da92eb md5 24b32939ae1879cb5353ca99d8b3c2d7 )
+)
+
+game (
+	name "Multi-Program 12 (19xx)(-)"
+	description "Multi-Program 12 (19xx)(-)"
+	rom ( name "Multi-Program 12 (19xx)(-).adf" size 819200 crc 87041ee2 md5 95effe8366aa67b6c55e6cae0a245690 )
+)
+
+game (
+	name "Multi-Program 13 (19xx)(-)"
+	description "Multi-Program 13 (19xx)(-)"
+	rom ( name "Multi-Program 13 (19xx)(-).adf" size 819200 crc 1389c485 md5 36c17114386fc72009286d3460021948 )
+)
+
+game (
+	name "Multi-Program 13 (19xx)(-)[a]"
+	description "Multi-Program 13 (19xx)(-)[a]"
+	rom ( name "Multi-Program 13 (19xx)(-)[a].adf" size 819200 crc 4099b2ef md5 9f6e951a2936bb2f15040aba889ff8c6 )
+)
+
+game (
+	name "Multi-Program 14 (19xx)(-)"
+	description "Multi-Program 14 (19xx)(-)"
+	rom ( name "Multi-Program 14 (19xx)(-).adf" size 819200 crc d652e748 md5 45417ff6f65fe651f4bd53aafe8f7c82 )
+)
+
+game (
+	name "Multi-Program 15 (19xx)(-)"
+	description "Multi-Program 15 (19xx)(-)"
+	rom ( name "Multi-Program 15 (19xx)(-).adf" size 819200 crc 09bbd024 md5 36c3d5a0a9ff4bc83bee9b01009122fa )
+)
+
+game (
+	name "Multi-Program 16 (19xx)(-)"
+	description "Multi-Program 16 (19xx)(-)"
+	rom ( name "Multi-Program 16 (19xx)(-).adf" size 819200 crc 7bb89c45 md5 99f647859a618f6cc7442a1774a54c88 )
+)
+
+game (
+	name "Multi-Program 17 (19xx)(-)"
+	description "Multi-Program 17 (19xx)(-)"
+	rom ( name "Multi-Program 17 (19xx)(-).adf" size 812032 crc c62eac47 md5 3e28e9dbe768a8e5977f07bebaca2fd2 )
+)
+
+game (
+	name "Multi-Program 18 (19xx)(-)"
+	description "Multi-Program 18 (19xx)(-)"
+	rom ( name "Multi-Program 18 (19xx)(-).adf" size 819200 crc 98417f06 md5 b00b151df33027c711fd77f5690e08db )
+)
+
+game (
+	name "Multi-Program 19 (19xx)(-)"
+	description "Multi-Program 19 (19xx)(-)"
+	rom ( name "Multi-Program 19 (19xx)(-).adf" size 809984 crc 64af6f08 md5 07567a9b535b8b8bf9dc506c72a30018 )
+)
+
+game (
+	name "Multi-Program 20 (19xx)(-)"
+	description "Multi-Program 20 (19xx)(-)"
+	rom ( name "Multi-Program 20 (19xx)(-).adf" size 819200 crc 6eb22d70 md5 584c041d427e91e7a3c6de220d6107cd )
+)
+
+game (
+	name "Multi-Program 21 (19xx)(-)"
+	description "Multi-Program 21 (19xx)(-)"
+	rom ( name "Multi-Program 21 (19xx)(-).adf" size 819200 crc aaeb778a md5 39394edf754b4f527b31d9739579e625 )
+)
+
+game (
+	name "Multi-Program 22 (19xx)(-)"
+	description "Multi-Program 22 (19xx)(-)"
+	rom ( name "Multi-Program 22 (19xx)(-).adf" size 819200 crc 0e29dead md5 94f2e311b10991995572cccb65c9ccdb )
+)
+
+game (
+	name "Multi-Program 23 (19xx)(-)"
+	description "Multi-Program 23 (19xx)(-)"
+	rom ( name "Multi-Program 23 (19xx)(-).adf" size 819200 crc 9833c250 md5 eff3349fbc30bc223b5e8975234cdd1c )
+)
+
+game (
+	name "Multi-Program 24 (19xx)(-)"
+	description "Multi-Program 24 (19xx)(-)"
+	rom ( name "Multi-Program 24 (19xx)(-).adf" size 819200 crc 712869b5 md5 3548851865cc47a729b2bd062f3c9b20 )
+)
+
+game (
+	name "Multi-Program 25 (19xx)(-)"
+	description "Multi-Program 25 (19xx)(-)"
+	rom ( name "Multi-Program 25 (19xx)(-).adf" size 819200 crc dd17ac0a md5 441a627042a3ad2cba5f77d05c1d5cdd )
+)
+
+game (
+	name "Multi-Program 26 (19xx)(-)"
+	description "Multi-Program 26 (19xx)(-)"
+	rom ( name "Multi-Program 26 (19xx)(-).adf" size 819200 crc ed67c810 md5 2b957f997f4ce965dc1c88e09fe7a20e )
+)
+
+game (
+	name "Virus Scanner Compilation (199x)(-)"
+	description "Virus Scanner Compilation (199x)(-)"
+	rom ( name "Virus Scanner Compilation (199x)(-).adf" size 814080 crc 9ff9c3d9 md5 931d231d7ea58047dceb085d5054eed1 )
+)

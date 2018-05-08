@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Coleco ColecoVision ADAM - Educational - [DSK]"
+	description "Coleco ColecoVision ADAM - Educational - [DSK] (TOSEC-v2011-08-31)"
+	category "Coleco ColecoVision ADAM - Educational - [DSK]"
+	version 2011-08-31
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco)"
+	description "Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco)"
+	rom ( name "Richard Scarry's Best Electronic Word Book Ever! (1984)(Coleco).dsk" size 163840 crc 2a24d3c0 md5 5ced4ef84b24fb0d3843468ca4eb5f2e sha1 77fdaae2cf28bd398101dc2ca1fb569a3fe0d206 )
+)
+

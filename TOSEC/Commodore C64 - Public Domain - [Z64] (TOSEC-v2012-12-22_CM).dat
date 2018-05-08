@@ -1,0 +1,71 @@
+clrmamepro (
+	name "Commodore C64 - Public Domain - [Z64]"
+	description "Commodore C64 - Public Domain - [Z64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Public Domain - [Z64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)"
+	description "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)"
+	rom ( name "1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 34098 crc d5dce706 md5 71754e1ba4ca3166064639ff993c16ce sha1 bb2478b1e09902303d9afa2000858548df0e997b )
+	rom ( name "2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 42595 crc b68ceaa1 md5 f62d4784db422be6b0f8d943a76eb733 sha1 e0547d6853d57e1718ef83d97f2b19238a6afed1 )
+	rom ( name "3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 38560 crc f1944eb2 md5 18c5e0893cf37229dfa3fc34b26b6c49 sha1 6be1e188362d9924627c5551915cbe15d26b0850 )
+	rom ( name "4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 33510 crc f7d7c97c md5 267881228efa7ae21c0ac83faca45b04 sha1 c4229115424f6c984f576c19625681c4f3ec1b61 )
+)
+
+game (
+	name "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a]"
+	description "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A)[a]"
+	rom ( name "1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 34101 crc b0edf2a4 md5 81449ccd053f86f3c127e9bbff97fee6 sha1 b24a63e12365e23ba32f0ad7c9b1392bb0c41444 )
+	rom ( name "2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 42600 crc 06d71f8e md5 e4ac6903410d3a071b423980436d3e25 sha1 344306ec25641e6129a85243cbbf6c5097962ef5 )
+	rom ( name "3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 38567 crc 77b796da md5 e2546707c76a1193f6452e5600082821 sha1 14fac53b61cd520cc2955391bdeeadb87a101191 )
+	rom ( name "4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side A).z64" size 33514 crc 286c95f9 md5 e687701a732426a6cda84be847bf9d95 sha1 758e563efd3c82a23c67b84e252eb5c03dc7820b )
+)
+
+game (
+	name "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B)"
+	description "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B)"
+	rom ( name "1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 36545 crc e0720b1a md5 36d92df663956e01cdd78c64bda6d749 sha1 9a172ac83f8a5d470379e6d85a48d8a6c9ee7138 )
+	rom ( name "2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 42580 crc 562c91c0 md5 57c4880e68bccc8659032e737232a083 sha1 ebdc2c6d2a5ca62602d2520abc49b87eb114111b )
+	rom ( name "3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 38728 crc eef164bb md5 c68f6f3b64991127f3fc4654cbaeab98 sha1 60ee2b41de13aeb649a5e3525d4f631acb6d5c0b )
+	rom ( name "4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 42752 crc 617c5876 md5 4f59dc3a6cc0b58a574b9aebc8790541 sha1 fb0385fbce8dfaa67fefd8d3e02257d7e38b1ffa )
+)
+
+game (
+	name "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B)[a]"
+	description "Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B)[a]"
+	rom ( name "1!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 36549 crc bf09fc5e md5 73b278866c027ae20be1c52cd720f6fa sha1 d1bd74dde15c45963f1d594cf077fc45fdfe3b16 )
+	rom ( name "2!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 42583 crc fcb7fd4c md5 e062409738a018b3fe2e376c94c98cea sha1 3235a098909e1d35bc63cb97111cb92a6468b77d )
+	rom ( name "3!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 38733 crc 2e90453b md5 c095b4573efd419831417de32703ef00 sha1 d5e01cef03136b3daf72e1d8940828a6efcd13c1 )
+	rom ( name "4!Binary Zone Disk #400 (2006)(Binary Zone)(PD)(Side B).z64" size 42755 crc 6ca269d8 md5 42fa522ca66c4f10242070fa084322cb sha1 af137001b4569ee6f8f3d3e1475ee476597e368c )
+)
+
+game (
+	name "Public Domain Disketten #048 (19xx)(-)(de)"
+	description "Public Domain Disketten #048 (19xx)(-)(de)"
+	rom ( name "1!Public Domain Disketten #048 (19xx)(-)(de).z64" size 41377 crc 7e0b7343 md5 e1428d2c21d4216b6840db34b8065551 sha1 31a3c2f0eb6bfdb8a2f3b05638d6a0551ef5a334 )
+	rom ( name "2!Public Domain Disketten #048 (19xx)(-)(de).z64" size 42427 crc 5be854f0 md5 df4b81c225809c52fd2e9ccf71337734 sha1 f68ed52434f6847a38f4077f8c75ceeb9971865c )
+	rom ( name "3!Public Domain Disketten #048 (19xx)(-)(de).z64" size 37847 crc e1228d65 md5 6b2840f8f10b5bd9a19a36be51d0c129 sha1 c32b7f10fcff5183e2f9471c9914cb5f1033e9eb )
+	rom ( name "4!Public Domain Disketten #048 (19xx)(-)(de).z64" size 38375 crc 11a486b0 md5 02a3602ed37471853b5aaf98398b3a4a sha1 320ae31796e18a61a89def1f6379521d49bdc369 )
+)
+
+game (
+	name "SYS Diskett #01 (199x)(SYS PD)"
+	description "SYS Diskett #01 (199x)(SYS PD)"
+	rom ( name "1!SYS Diskett #01 (199x)(SYS PD).z64" size 42507 crc 866fa9b1 md5 2726a135d3f5a2cf1d15c193db4142e6 sha1 92f8e0c9787507de5e1f9fbfe5ab1b596a602628 )
+	rom ( name "2!SYS Diskett #01 (199x)(SYS PD).z64" size 39193 crc 8d0f2fcd md5 4dfe6ba088cbc25ac2f28f1af009da3f sha1 d491fdfb8bc560297ce585820f3b4b6fc106a7f5 )
+	rom ( name "3!SYS Diskett #01 (199x)(SYS PD).z64" size 39182 crc 40760c87 md5 1d5e2fcc2c3f9beed12007c5c9f120fb sha1 eb398ef44b19ac0069a6aab1bf08d6290e6b9926 )
+	rom ( name "4!SYS Diskett #01 (199x)(SYS PD).z64" size 43687 crc a65d7e22 md5 bec717b6056f799919a7ca0833e71005 sha1 fa9f70f8d7ad498c94fee6ca5c7bb58542ba246b )
+)
+
+game (
+	name "SYS Diskett #10 (199x)(SYS PD)"
+	description "SYS Diskett #10 (199x)(SYS PD)"
+	rom ( name "1!SYS Diskett #10 (199x)(SYS PD).z64" size 36779 crc e9ba7735 md5 1dd4d5befebbd32104728da216f63e27 sha1 5a9e34513938fbc1dcfb3c29d107816125053be1 )
+	rom ( name "2!SYS Diskett #10 (199x)(SYS PD).z64" size 36413 crc 5a4fde27 md5 4a267680b618adc082ed7a66f1d05d5b sha1 6edf4c492f25b552d6bdb3dfcc4e9638982b4565 )
+	rom ( name "3!SYS Diskett #10 (199x)(SYS PD).z64" size 36062 crc 49ad0e32 md5 540a623a98cd138f71a3ce8e18868b03 sha1 eddca78797824f89269ecedd69e5d500380b12c9 )
+	rom ( name "4!SYS Diskett #10 (199x)(SYS PD).z64" size 35339 crc ce7eaa16 md5 9cbbd078a80703d9c66238ec8f4753a6 sha1 9901bbc117c584526a0b1c94de64351efea1637c )
+)
+

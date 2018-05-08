@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Atari 8bit - Compilations - Games - [ATX]"
+	description "Atari 8bit - Compilations - Games - [ATX] (TOSEC-v2011-03-13)"
+	category "Atari 8bit - Compilations - Games - [ATX]"
+	version 2011-03-13
+	author "TKaos"
+)
+
+game (
+	name "Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)"
+	description "Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US)"
+	rom ( name "Arcade Classics - Seawolf II and Gun Fight (1983)(Epyx)(US).atx" size 87840 crc 43c79ce3 md5 646808be2651805244362672116d5ed4 )
+)
+
+game (
+	name "Atari Smash Hits - Volume 1 (1985)(English Software)(GB)"
+	description "Atari Smash Hits - Volume 1 (1985)(English Software)(GB)"
+	rom ( name "Atari Smash Hits - Volume 1 (1985)(English Software)(GB).atx" size 100256 crc 86f80949 md5 315535e617deea0c2c4c3aa21c3d3416 )
+)
+
+game (
+	name "Deluxe Space Games (1982)(Alpha Systems)(US)"
+	description "Deluxe Space Games (1982)(Alpha Systems)(US)"
+	rom ( name "Deluxe Space Games (1982)(Alpha Systems)(US).atx" size 97808 crc fbf1d67c md5 49ce63c74c8ce21407aeb3917e058010 )
+)
+
+game (
+	name "Temple of Apshai Trilogy (1985)(Epyx)(US)"
+	description "Temple of Apshai Trilogy (1985)(Epyx)(US)"
+	rom ( name "Temple of Apshai Trilogy (1985)(Epyx)(US).atx" size 100616 crc 97bc6b20 md5 a8353de1ed48553181f4dfe5c6dac29e )
+)

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Acorn Electron - Multimedia"
+	description "Acorn Electron - Multimedia (TOSEC-v2008-10-11)"
+	category "Acorn Electron - Multimedia"
+	version 2008-10-11
+	author "Grendel - Tankgirl - CRSV - Cassiel"
+)
+
+game (
+	name "Acorn User Graphics (1985)(Acorn User)"
+	description "Acorn User Graphics (1985)(Acorn User)"
+	rom ( name "Acorn User Graphics (1985)(Acorn User).uef" size 22647 crc ef182dc2 md5 fc24dc4028ac23db5ce8d59776306250 )
+)
+
+game (
+	name "Creative Graphics (198x)(-)(Side A)"
+	description "Creative Graphics (198x)(-)(Side A)"
+	rom ( name "Creative Graphics (198x)(-)(Side A).uef" size 3687 crc d684b248 md5 7e1307a124937ab2430a0f8b000d0f01 )
+)
+
+game (
+	name "Creative Graphics (198x)(-)(Side B)"
+	description "Creative Graphics (198x)(-)(Side B)"
+	rom ( name "Creative Graphics (198x)(-)(Side B).uef" size 7486 crc 203b2441 md5 b7203d7ead6b82f913c69e38cab87a53 )
+)

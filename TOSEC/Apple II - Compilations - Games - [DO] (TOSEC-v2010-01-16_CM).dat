@@ -1,0 +1,1435 @@
+clrmamepro (
+	name "Apple II - Compilations - Games - [DO]"
+	description "Apple II - Compilations - Games - [DO] (TOSEC-v2010-01-16)"
+	category "Apple II - Compilations - Games - [DO]"
+	version 2010-01-16
+	author "TKaos - Cassiel - jjs"
+)
+
+game (
+	name "ABM (1980)(Muse) & Invasion Force (19xx)(Gordon Lurie) & Missile Defense (1981)(On-Line Systems) & Norad (19xx)(-) & Planet Protector (19xx)(-)[cr] & Rocket Command (1980)(Bozo NYC)"
+	description "ABM (1980)(Muse) & Invasion Force (19xx)(Gordon Lurie) & Missile Defense (1981)(On-Line Systems) & Norad (19xx)(-) & Planet Protector (19xx)(-)[cr] & Rocket Command (1980)(Bozo NYC)"
+	rom ( name "ABM (1980)(Muse) & Invasion Force (19xx)(Gordon Lurie) & Missile Defense (1981)(On-Line Systems) & Norad (19xx)(-) & Planet Protector (19xx)(-)[cr] & Rocket Command (1980)(Bozo NYC).do" size 143360 crc f0760736 md5 cbc6dd038436029aaaab86e02be0a46a )
+)
+
+game (
+	name "Alcazar - The Forgotten Fortress (1985)(Activision) & Spider Raid (1982)(James Marsh)[cr] & Whomper Stomper (19xx)(Adventure international)"
+	description "Alcazar - The Forgotten Fortress (1985)(Activision) & Spider Raid (1982)(James Marsh)[cr] & Whomper Stomper (19xx)(Adventure international)"
+	rom ( name "Alcazar - The Forgotten Fortress (1985)(Activision) & Spider Raid (1982)(James Marsh)[cr] & Whomper Stomper (19xx)(Adventure international).do" size 143360 crc 48b2d7c7 md5 8af573648b624a0f94206beca39adb5d )
+)
+
+game (
+	name "Alien (1982)(Avalon Hill) & Bilestoad, The (19xx)(-) & Voyage Of The Valkyrie (1980)(Leo Christopherson)[b]"
+	description "Alien (1982)(Avalon Hill) & Bilestoad, The (19xx)(-) & Voyage Of The Valkyrie (1980)(Leo Christopherson)[b]"
+	rom ( name "Alien (1982)(Avalon Hill) & Bilestoad, The (19xx)(-) & Voyage Of The Valkyrie (1980)(Leo Christopherson)[b].do" size 143360 crc 3c291b83 md5 b2f79d8edc315f9ed0cf11527322ba6e )
+)
+
+game (
+	name "Alien Munchies (19xx)(-)[cr] & Eliminator (1981)(John Anderson) & Jupiter Express (1979)(Softape)"
+	description "Alien Munchies (19xx)(-)[cr] & Eliminator (1981)(John Anderson) & Jupiter Express (1979)(Softape)"
+	rom ( name "Alien Munchies (19xx)(-)[cr] & Eliminator (1981)(John Anderson) & Jupiter Express (1979)(Softape).do" size 143360 crc 8fc90b7a md5 df479943d1e7465368a20676eccf18a3 )
+)
+
+game (
+	name "Alivader (19xx)(-)[cr] & Eyeballs (19xx)(-)[cr] & Procyon Warrior (19xx)(-)"
+	description "Alivader (19xx)(-)[cr] & Eyeballs (19xx)(-)[cr] & Procyon Warrior (19xx)(-)"
+	rom ( name "Alivader (19xx)(-)[cr] & Eyeballs (19xx)(-)[cr] & Procyon Warrior (19xx)(-).do" size 143360 crc 8508c959 md5 4f7c9ed1373ff754046670b81e6e9e1b )
+)
+
+game (
+	name "Ape Escape (19xx)(-)[cr] & Crazy Climber (19xx)(-)[cr] & Human Fly (1982)(CPU Software)"
+	description "Ape Escape (19xx)(-)[cr] & Crazy Climber (19xx)(-)[cr] & Human Fly (1982)(CPU Software)"
+	rom ( name "Ape Escape (19xx)(-)[cr] & Crazy Climber (19xx)(-)[cr] & Human Fly (1982)(CPU Software).do" size 143360 crc 03dbe4b2 md5 9ad6ef09279dbc0f5851e858d7289db8 )
+)
+
+game (
+	name "Apple II Compilation #003 (19xx)(-)"
+	description "Apple II Compilation #003 (19xx)(-)"
+	rom ( name "Apple II Compilation #003 (19xx)(-).do" size 143360 crc 16bfd333 md5 e23915bd099e9fe89d426affe96098f2 )
+)
+
+game (
+	name "Apple II Compilation #004 (19xx)(-)"
+	description "Apple II Compilation #004 (19xx)(-)"
+	rom ( name "Apple II Compilation #004 (19xx)(-).do" size 143360 crc e5ad398d md5 1160c0d7fef7287419160f6d0ea003d9 )
+)
+
+game (
+	name "Apple II Compilation #005 (19xx)(-)"
+	description "Apple II Compilation #005 (19xx)(-)"
+	rom ( name "Apple II Compilation #005 (19xx)(-).do" size 143360 crc 282a876d md5 8081b199f8c1aaabcfc77f957c9c7a5d )
+)
+
+game (
+	name "Apple II Compilation #006 (19xx)(-)"
+	description "Apple II Compilation #006 (19xx)(-)"
+	rom ( name "Apple II Compilation #006 (19xx)(-).do" size 143360 crc 9df3d5db md5 b47d93254f2c8caa6446f0f329fc3ac8 )
+)
+
+game (
+	name "Apple II Compilation #007 (19xx)(-)"
+	description "Apple II Compilation #007 (19xx)(-)"
+	rom ( name "Apple II Compilation #007 (19xx)(-).do" size 143360 crc b1fbcd0b md5 d610f59a655c9bb4f1a432036b4390f4 )
+)
+
+game (
+	name "Apple II Compilation #008 (19xx)(-)"
+	description "Apple II Compilation #008 (19xx)(-)"
+	rom ( name "Apple II Compilation #008 (19xx)(-).do" size 143360 crc aa78f0f7 md5 ec7258b09e41f84ec17d03da49973f39 )
+)
+
+game (
+	name "Apple II Compilation #009 (19xx)(-)"
+	description "Apple II Compilation #009 (19xx)(-)"
+	rom ( name "Apple II Compilation #009 (19xx)(-).do" size 143360 crc bfbfbff3 md5 b138d60e9666e161d95d3e65acc5101e )
+)
+
+game (
+	name "Apple II Compilation #011 (19xx)(-)"
+	description "Apple II Compilation #011 (19xx)(-)"
+	rom ( name "Apple II Compilation #011 (19xx)(-).do" size 143360 crc a14a3cd5 md5 c8a16f1a1f626feac7a3b99d6369411c )
+)
+
+game (
+	name "Apple II Compilation #012 (19xx)(-)"
+	description "Apple II Compilation #012 (19xx)(-)"
+	rom ( name "Apple II Compilation #012 (19xx)(-).do" size 143360 crc 34634e16 md5 a1f79e753922180bb15879ae7a0b5a45 )
+)
+
+game (
+	name "Apple II Compilation #013 (19xx)(-)"
+	description "Apple II Compilation #013 (19xx)(-)"
+	rom ( name "Apple II Compilation #013 (19xx)(-).do" size 143360 crc f8655e5e md5 f7fdd4554fe1e571e55e3f1159234b67 )
+)
+
+game (
+	name "Arcade Mode (19xx)(-) & Dragonfire (1984)(Imagic) & Paipec (1984)(Doug Wall)[cr]"
+	description "Arcade Mode (19xx)(-) & Dragonfire (1984)(Imagic) & Paipec (1984)(Doug Wall)[cr]"
+	rom ( name "Arcade Mode (19xx)(-) & Dragonfire (1984)(Imagic) & Paipec (1984)(Doug Wall)[cr].do" size 143360 crc e8b6339b md5 93a42b070760955aba4b3bf6877bb8e7 )
+)
+
+game (
+	name "Asteroyder (19xx)(T. Akiyama)[b] & Human Fly (1982)(CPU) & Pool v1.5 (19xx)(-)"
+	description "Asteroyder (19xx)(T. Akiyama)[b] & Human Fly (1982)(CPU) & Pool v1.5 (19xx)(-)"
+	rom ( name "Asteroyder (19xx)(T. Akiyama)[b] & Human Fly (1982)(CPU) & Pool v1.5 (19xx)(-).do" size 143360 crc 7d80b242 md5 7feb2269da18156d03a59f41acf996be )
+)
+
+game (
+	name "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr]"
+	description "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr]"
+	rom ( name "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr].do" size 143360 crc cd81f3e0 md5 5a0dc4414be1dd74023da8e31de6267f )
+)
+
+game (
+	name "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr]-[a]"
+	description "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr]-[a]"
+	rom ( name "Axis assassin (19xx)(Electronic Arts)[cr] & Genesis (1983)(Datasoft)[cr] & Tubeway (19xx)(Datamost)[cr]-[a].do" size 143360 crc 53e69cac md5 ca04889fd8f020719cc8aad0f49bd304 )
+)
+
+game (
+	name "Ball Blaster (19xx)(-) & Bic-Mac Attack (19xx)(-) & King Tuts' Revenge (19xx)(-)"
+	description "Ball Blaster (19xx)(-) & Bic-Mac Attack (19xx)(-) & King Tuts' Revenge (19xx)(-)"
+	rom ( name "Ball Blaster (19xx)(-) & Bic-Mac Attack (19xx)(-) & King Tuts' Revenge (19xx)(-).do" size 143360 crc c8b0b48b md5 1c146d32d95e3bfd9654a5704bdce88a )
+)
+
+game (
+	name "Bats In The Belfry (19xx)(Samuel Moore)[cr] & Jumjet (1982)(AGC)[cr] & Klan Cookout (19xx)(-)"
+	description "Bats In The Belfry (19xx)(Samuel Moore)[cr] & Jumjet (1982)(AGC)[cr] & Klan Cookout (19xx)(-)"
+	rom ( name "Bats In The Belfry (19xx)(Samuel Moore)[cr] & Jumjet (1982)(AGC)[cr] & Klan Cookout (19xx)(-).do" size 143360 crc 1ddc7d31 md5 f62555ebb40449af66165078323daff6 )
+)
+
+game (
+	name "BC's Quest For Tires (19xx)(Sierra)[t] & Grapple (19xx)(-) & Tron (19xx)(Ivan)"
+	description "BC's Quest For Tires (19xx)(Sierra)[t] & Grapple (19xx)(-) & Tron (19xx)(Ivan)"
+	rom ( name "BC's Quest For Tires (19xx)(Sierra)[t] & Grapple (19xx)(-) & Tron (19xx)(Ivan).do" size 143360 crc 56fea12c md5 cccf27b1119953fe646549fae12cd023 )
+)
+
+game (
+	name "Beagle Bag (19xx)(Beagle Bros)"
+	description "Beagle Bag (19xx)(Beagle Bros)"
+	rom ( name "Beagle Bag (19xx)(Beagle Bros).do" size 143360 crc 5078ff31 md5 0f9c01789aaba25d9ec6f51a98069a9e )
+)
+
+game (
+	name "Bee Crunch (19xx)(-) & Revengeful Rabbit (19xx)(-) & Tomb of Doom (19xx)(-)"
+	description "Bee Crunch (19xx)(-) & Revengeful Rabbit (19xx)(-) & Tomb of Doom (19xx)(-)"
+	rom ( name "Bee Crunch (19xx)(-) & Revengeful Rabbit (19xx)(-) & Tomb of Doom (19xx)(-).do" size 143360 crc b6c9b8f9 md5 eb86200feb9fd50283fcd6b6c8ef93cf )
+)
+
+game (
+	name "Beer Run (1981)(Sirius Software) & Choplifter (1982)(Broderbund)[cr] & Falcons (1981)(Eric Varsanyi - Thomas Ball)"
+	description "Beer Run (1981)(Sirius Software) & Choplifter (1982)(Broderbund)[cr] & Falcons (1981)(Eric Varsanyi - Thomas Ball)"
+	rom ( name "Beer Run (1981)(Sirius Software) & Choplifter (1982)(Broderbund)[cr] & Falcons (1981)(Eric Varsanyi - Thomas Ball).do" size 143360 crc 69b88702 md5 5c6cc1677aa2751b1b7922298792f498 )
+)
+
+game (
+	name "Beer Run (1981)(Sirius Software)[cr] & Millenium Leaper (19xx)(-)"
+	description "Beer Run (1981)(Sirius Software)[cr] & Millenium Leaper (19xx)(-)"
+	rom ( name "Beer Run (1981)(Sirius Software)[cr] & Millenium Leaper (19xx)(-).do" size 143360 crc 801a9869 md5 8ffd7ce9b0052afeefc331270845aa76 )
+)
+
+game (
+	name "Bellhop (19xx)(Imaginative Systems Software)[cr] & Mutant (1982)(Renaissance Technology Corp.) & Neutrons (19xx)(-)"
+	description "Bellhop (19xx)(Imaginative Systems Software)[cr] & Mutant (1982)(Renaissance Technology Corp.) & Neutrons (19xx)(-)"
+	rom ( name "Bellhop (19xx)(Imaginative Systems Software)[cr] & Mutant (1982)(Renaissance Technology Corp.) & Neutrons (19xx)(-).do" size 143360 crc 1b545235 md5 4c220ebf04f4921e0e6739db124cb303 )
+)
+
+game (
+	name "Beneath Apple Manor (19xx)(-)[cr] & Brainsteaser Blvd (19xx)(-)[cr] & Roadblock (19xx)(Under Stupidity)[cr]"
+	description "Beneath Apple Manor (19xx)(-)[cr] & Brainsteaser Blvd (19xx)(-)[cr] & Roadblock (19xx)(Under Stupidity)[cr]"
+	rom ( name "Beneath Apple Manor (19xx)(-)[cr] & Brainsteaser Blvd (19xx)(-)[cr] & Roadblock (19xx)(Under Stupidity)[cr].do" size 143360 crc b051345b md5 4c18730f159d08ab746c17d567db2f3d )
+)
+
+game (
+	name "Best of Hardcore Computing (19xx)(-)"
+	description "Best of Hardcore Computing (19xx)(-)"
+	rom ( name "Best of Hardcore Computing (19xx)(-).do" size 143360 crc 616d1668 md5 7c56ba73a84957bbb88d079e30e3d43e )
+)
+
+game (
+	name "Bez MX (1981)(Bez)[cr] & Jury Trial II (19xx)(-)[cr]"
+	description "Bez MX (1981)(Bez)[cr] & Jury Trial II (19xx)(-)[cr]"
+	rom ( name "Bez MX (1981)(Bez)[cr] & Jury Trial II (19xx)(-)[cr].do" size 143360 crc bdbacde0 md5 10f284a0fae939f9e6546b9749602dea )
+)
+
+game (
+	name "Birth Of The Phoenix (1981)(Phoenix Software) & Global Thermonuclear War (19xx)(-)[b] & Hitchhiker's Guide To The Galaxy, The (1984)(Infocom)"
+	description "Birth Of The Phoenix (1981)(Phoenix Software) & Global Thermonuclear War (19xx)(-)[b] & Hitchhiker's Guide To The Galaxy, The (1984)(Infocom)"
+	rom ( name "Birth Of The Phoenix (1981)(Phoenix Software) & Global Thermonuclear War (19xx)(-)[b] & Hitchhiker's Guide To The Galaxy, The (1984)(Infocom).do" size 143360 crc f1d0968a md5 526366c3f796827ae39c989422b2c549 )
+)
+
+game (
+	name "Black Hole Horror (19xx)(-) & Elite (1986)(Firebird) & Moon Patrol (19xx)(-)[cr]"
+	description "Black Hole Horror (19xx)(-) & Elite (1986)(Firebird) & Moon Patrol (19xx)(-)[cr]"
+	rom ( name "Black Hole Horror (19xx)(-) & Elite (1986)(Firebird) & Moon Patrol (19xx)(-)[cr].do" size 143360 crc 47f861f9 md5 34467091bfe007077812acf2b9775dcb )
+)
+
+game (
+	name "Bloodsuckers (1984)(Brian Greenstone) & Sanitron (19xx)(-)[cr] & Vorpal (1984)(-)[cr]"
+	description "Bloodsuckers (1984)(Brian Greenstone) & Sanitron (19xx)(-)[cr] & Vorpal (1984)(-)[cr]"
+	rom ( name "Bloodsuckers (1984)(Brian Greenstone) & Sanitron (19xx)(-)[cr] & Vorpal (1984)(-)[cr].do" size 143360 crc acbb5bfc md5 030e05fd0860cee6405bb5e5e118d3aa )
+)
+
+game (
+	name "Breakout (19xx)(-) & Breakout (19xx)(-)[Hires] & Chipout (19xx)(Twilight Software)"
+	description "Breakout (19xx)(-) & Breakout (19xx)(-)[Hires] & Chipout (19xx)(Twilight Software)"
+	rom ( name "Breakout (19xx)(-) & Breakout (19xx)(-)[Hires] & Chipout (19xx)(Twilight Software).do" size 143360 crc b94aabb2 md5 dfb745c9e6f6fb0ecd0aa01ce70600ff )
+)
+
+game (
+	name "Bubble-Head (1984)(Tellus Systems)[cr][t] & Jericho (1982)(Davka Corporation)"
+	description "Bubble-Head (1984)(Tellus Systems)[cr][t] & Jericho (1982)(Davka Corporation)"
+	rom ( name "Bubble-Head (1984)(Tellus Systems)[cr][t] & Jericho (1982)(Davka Corporation).do" size 143360 crc 91ea82ae md5 5024617e4d78f6962daef1fe8e4ccb19 )
+)
+
+game (
+	name "Bug Attack (1981)(Cavalier Computer) & Seafox (1982)(Broderbund) & Sneakers (1981)(Sirius Software)"
+	description "Bug Attack (1981)(Cavalier Computer) & Seafox (1982)(Broderbund) & Sneakers (1981)(Sirius Software)"
+	rom ( name "Bug Attack (1981)(Cavalier Computer) & Seafox (1982)(Broderbund) & Sneakers (1981)(Sirius Software).do" size 143360 crc 0a541bef md5 8d07a55544ab758bf4961311197c00b4 )
+)
+
+game (
+	name "Burgertime (19xx)(-)[cr] & Canyon Climber (19xx)(-) & Eliminator (1981)(John Anderson)"
+	description "Burgertime (19xx)(-)[cr] & Canyon Climber (19xx)(-) & Eliminator (1981)(John Anderson)"
+	rom ( name "Burgertime (19xx)(-)[cr] & Canyon Climber (19xx)(-) & Eliminator (1981)(John Anderson).do" size 143360 crc 49255675 md5 a45e38260a4629cde058231fa11b8c98 )
+)
+
+game (
+	name "Burgertime (19xx)(-)[cr][t] & Burgertime (19xx)(-)[cr][t][Joystick] & Hard Hat Mack (1983)(Electronic Arts)[cr]"
+	description "Burgertime (19xx)(-)[cr][t] & Burgertime (19xx)(-)[cr][t][Joystick] & Hard Hat Mack (1983)(Electronic Arts)[cr]"
+	rom ( name "Burgertime (19xx)(-)[cr][t] & Burgertime (19xx)(-)[cr][t][Joystick] & Hard Hat Mack (1983)(Electronic Arts)[cr].do" size 143360 crc dfa9b974 md5 2b70cc7ac34abc24a186842e98fcf65f )
+)
+
+game (
+	name "C'est La Vie (1983)(Adventure International)[cr] & Jigsaw (1982)(Microlab) & Wavy Navy (1982)(Sirius Software)"
+	description "C'est La Vie (1983)(Adventure International)[cr] & Jigsaw (1982)(Microlab) & Wavy Navy (1982)(Sirius Software)"
+	rom ( name "C'est La Vie (1983)(Adventure International)[cr] & Jigsaw (1982)(Microlab) & Wavy Navy (1982)(Sirius Software).do" size 143360 crc 5d7e65db md5 5476b8dfb02fb2e544a0bbc0e530a8d1 )
+)
+
+game (
+	name "Checker King (1979)(Personal Software) & Checkers v2.1 (19xx)(David Slate) & Ultracheckers (19xx)(Malibu Microcomputing.)"
+	description "Checker King (1979)(Personal Software) & Checkers v2.1 (19xx)(David Slate) & Ultracheckers (19xx)(Malibu Microcomputing.)"
+	rom ( name "Checker King (1979)(Personal Software) & Checkers v2.1 (19xx)(David Slate) & Ultracheckers (19xx)(Malibu Microcomputing.).do" size 143360 crc b9cbf45a md5 9201e116c0b672a102fae89f306872dd )
+)
+
+game (
+	name "Copts And Robbers (1981)(Sirius Software)[cr][b] & Lemmings (19xx)(-)"
+	description "Copts And Robbers (1981)(Sirius Software)[cr][b] & Lemmings (19xx)(-)"
+	rom ( name "Copts And Robbers (1981)(Sirius Software)[cr][b] & Lemmings (19xx)(-).do" size 143360 crc a2bf261b md5 fbf286846d0adccd57e967d940973b95 )
+)
+
+game (
+	name "Crown Of Arthain (1980)(Micro Lab) & Softporn Adventure (1981)(Blue Sky Software)"
+	description "Crown Of Arthain (1980)(Micro Lab) & Softporn Adventure (1981)(Blue Sky Software)"
+	rom ( name "Crown Of Arthain (1980)(Micro Lab) & Softporn Adventure (1981)(Blue Sky Software).do" size 143360 crc ede3ea0f md5 758212c67921b1d8e5182fe9a89c48f4 )
+)
+
+game (
+	name "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side A)"
+	description "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side A)"
+	rom ( name "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side A).do" size 143360 crc 66d934bd md5 729ceb37096c452fdc9ee31402604ca5 )
+)
+
+game (
+	name "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side B)[unk filesys]"
+	description "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side B)[unk filesys]"
+	rom ( name "Crush, Crumble And Chomp! (1983)(Epyx) & Gruds In Space (1983)(Sirius Software)-(Side B)[unk filesys].do" size 143360 crc 48e94983 md5 18bcbb692e197ab9fe3734803a26ca30 )
+)
+
+game (
+	name "Crystal Castles (1983)(Atarisoft)[cr] & Pitfall II - Lost Cavern (1984)(Activision)[cr]"
+	description "Crystal Castles (1983)(Atarisoft)[cr] & Pitfall II - Lost Cavern (1984)(Activision)[cr]"
+	rom ( name "Crystal Castles (1983)(Atarisoft)[cr] & Pitfall II - Lost Cavern (1984)(Activision)[cr].do" size 143360 crc 865fbeda md5 80c702d74d473d96a5ac5b72f9ed0159 )
+)
+
+game (
+	name "David's Midnight Magic (19xx)(-)[cr] & Night Mission (19xx)(-) & Raster Blaster (1981)(Budgeco)"
+	description "David's Midnight Magic (19xx)(-)[cr] & Night Mission (19xx)(-) & Raster Blaster (1981)(Budgeco)"
+	rom ( name "David's Midnight Magic (19xx)(-)[cr] & Night Mission (19xx)(-) & Raster Blaster (1981)(Budgeco).do" size 143360 crc c510f6fd md5 05f617a297e9ea614df4509775cf182b )
+)
+
+game (
+	name "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[b][Screen Fix]"
+	description "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[b][Screen Fix]"
+	rom ( name "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[b][Screen Fix].do" size 143360 crc 74ea7ba8 md5 de5423b2d303474c7bffdcb768a55fab )
+)
+
+game (
+	name "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[Screen Fix]"
+	description "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[Screen Fix]"
+	rom ( name "Dig'em (1982)(High Powered Games)[cr] & Dig Dug (19xx)(-) & Serpentine (19xx)(-)[Screen Fix].do" size 143360 crc 2be1f8e5 md5 63a7564b68e1d0f75052fa2ab85886a6 )
+)
+
+game (
+	name "Dino Eggs (1983)(D. Schroeder)[cr] & Epoch (1981)(Sirius Software) & Sab's Photar (1981)(Softape)"
+	description "Dino Eggs (1983)(D. Schroeder)[cr] & Epoch (1981)(Sirius Software) & Sab's Photar (1981)(Softape)"
+	rom ( name "Dino Eggs (1983)(D. Schroeder)[cr] & Epoch (1981)(Sirius Software) & Sab's Photar (1981)(Softape).do" size 143360 crc 4af857af md5 df4e6c7259ae1ebe7d1c643b2ac1c365 )
+)
+
+game (
+	name "Dogfight (1980)(Micro Lab) & Dogfight (1980)(Micro Lab)[cr] & Warlord (19xx)(-)"
+	description "Dogfight (1980)(Micro Lab) & Dogfight (1980)(Micro Lab)[cr] & Warlord (19xx)(-)"
+	rom ( name "Dogfight (1980)(Micro Lab) & Dogfight (1980)(Micro Lab)[cr] & Warlord (19xx)(-).do" size 143360 crc 5d570939 md5 8b09dcd4ac47c0e725b15e0e05888c4d )
+)
+
+game (
+	name "Dogfight (1980)(Micro Lab) & Dogfight II (1983)(Micro Lab)"
+	description "Dogfight (1980)(Micro Lab) & Dogfight II (1983)(Micro Lab)"
+	rom ( name "Dogfight (1980)(Micro Lab) & Dogfight II (1983)(Micro Lab).do" size 143360 crc b57be5ed md5 044f41dc3f9752dea5565934efa5ce9f )
+)
+
+game (
+	name "Dragonfire (1984)(Imagic) & Montezuma's Revenge (1984)(Parker Brothers) & Star League Baseball (1984)(Gamestar)[cr]"
+	description "Dragonfire (1984)(Imagic) & Montezuma's Revenge (1984)(Parker Brothers) & Star League Baseball (1984)(Gamestar)[cr]"
+	rom ( name "Dragonfire (1984)(Imagic) & Montezuma's Revenge (1984)(Parker Brothers) & Star League Baseball (1984)(Gamestar)[cr].do" size 143360 crc 03a5844a md5 a93b448d051dc231374950bd595f1d84 )
+)
+
+game (
+	name "Earth Defender (19xx)(-)[b] & Torpedo Terror (19xx)(Larry Grodin)[cr][b]"
+	description "Earth Defender (19xx)(-)[b] & Torpedo Terror (19xx)(Larry Grodin)[cr][b]"
+	rom ( name "Earth Defender (19xx)(-)[b] & Torpedo Terror (19xx)(Larry Grodin)[cr][b].do" size 143360 crc 77597776 md5 027ba85c894241c113f88509d342ddc2 )
+)
+
+game (
+	name "Eggs-It (19xx)(-)[cr] & Fantom Attack (19xx)(-) & Pentapuss (19xx)(-)"
+	description "Eggs-It (19xx)(-)[cr] & Fantom Attack (19xx)(-) & Pentapuss (19xx)(-)"
+	rom ( name "Eggs-It (19xx)(-)[cr] & Fantom Attack (19xx)(-) & Pentapuss (19xx)(-).do" size 143360 crc f85eedfa md5 f667939bf0a2ed28e86cde685d36def2 )
+)
+
+game (
+	name "Epoch (1981)(Sirius Software) & Hadron (1981)(Sirius Software) & Star Dance (1981)(Gustavo Fernandez)[cr]"
+	description "Epoch (1981)(Sirius Software) & Hadron (1981)(Sirius Software) & Star Dance (1981)(Gustavo Fernandez)[cr]"
+	rom ( name "Epoch (1981)(Sirius Software) & Hadron (1981)(Sirius Software) & Star Dance (1981)(Gustavo Fernandez)[cr].do" size 143360 crc 9df73d4a md5 0f3013d173033f0eaa612fb995d10a26 )
+)
+
+game (
+	name "Falcons (1981)(Eric Varsanyi - Thomas Ball) & Falcons Dealer Demo (1981)(Eric Varsanyi - Thomas Ball) & Superfalcons (1981)(Eric Varsanyi - Thomas Ball)"
+	description "Falcons (1981)(Eric Varsanyi - Thomas Ball) & Falcons Dealer Demo (1981)(Eric Varsanyi - Thomas Ball) & Superfalcons (1981)(Eric Varsanyi - Thomas Ball)"
+	rom ( name "Falcons (1981)(Eric Varsanyi - Thomas Ball) & Falcons Dealer Demo (1981)(Eric Varsanyi - Thomas Ball) & Superfalcons (1981)(Eric Varsanyi - Thomas Ball).do" size 143360 crc 2abc08cf md5 917c3b546941ef0141ef954490e86652 )
+)
+
+game (
+	name "Federation (19xx)(-) & Torax (1981)(Creative Computing)[cr] & Zargs (19xx)(-)"
+	description "Federation (19xx)(-) & Torax (1981)(Creative Computing)[cr] & Zargs (19xx)(-)"
+	rom ( name "Federation (19xx)(-) & Torax (1981)(Creative Computing)[cr] & Zargs (19xx)(-).do" size 143360 crc 3e6f85ba md5 c116a4f5a17abaa2b3e1c8d52dbfec45 )
+)
+
+game (
+	name "Final Conflict, The (1982)(Hayden Book) & Rebel Force (19xx)(SSI) & Submarine Commander (1983)(-)[cr]"
+	description "Final Conflict, The (1982)(Hayden Book) & Rebel Force (19xx)(SSI) & Submarine Commander (1983)(-)[cr]"
+	rom ( name "Final Conflict, The (1982)(Hayden Book) & Rebel Force (19xx)(SSI) & Submarine Commander (1983)(-)[cr].do" size 143360 crc e046d156 md5 ea32b2cad2ec39a1f7aba9e1f3e35f8c )
+)
+
+game (
+	name "Flak (19xx)(-)[cr] & Skimmars (19xx)(-)"
+	description "Flak (19xx)(-)[cr] & Skimmars (19xx)(-)"
+	rom ( name "Flak (19xx)(-)[cr] & Skimmars (19xx)(-).do" size 143360 crc 99ea3f5f md5 b097dd27f3792281ba37179ef7a6c6ed )
+)
+
+game (
+	name "Frenzy (19xx)(-) & Grapple (19xx)(-) & Wavy Navy (1982)(Sirius Software)[cr]"
+	description "Frenzy (19xx)(-) & Grapple (19xx)(-) & Wavy Navy (1982)(Sirius Software)[cr]"
+	rom ( name "Frenzy (19xx)(-) & Grapple (19xx)(-) & Wavy Navy (1982)(Sirius Software)[cr].do" size 143360 crc b4d825b8 md5 988180335e59fcfd335d555a9639a0c5 )
+)
+
+game (
+	name "Frogger (19xx)(Sega) & Vindicators (19xx)(Hal Labs)[t] & One On One (1983)(Electronic Arts)"
+	description "Frogger (19xx)(Sega) & Vindicators (19xx)(Hal Labs)[t] & One On One (1983)(Electronic Arts)"
+	rom ( name "Frogger (19xx)(Sega) & Vindicators (19xx)(Hal Labs)[t] & One On One (1983)(Electronic Arts).do" size 143360 crc df5cdfab md5 5414f2e2fbd32f7b121d5f935db1bbe4 )
+)
+
+game (
+	name "Galaxy Gates (19xx)(Magna Soft)[cr] & Raiders of the Lost Ring (1981)(Cavalier) & Space Warrior (19xx)(Marc Goodman)"
+	description "Galaxy Gates (19xx)(Magna Soft)[cr] & Raiders of the Lost Ring (1981)(Cavalier) & Space Warrior (19xx)(Marc Goodman)"
+	rom ( name "Galaxy Gates (19xx)(Magna Soft)[cr] & Raiders of the Lost Ring (1981)(Cavalier) & Space Warrior (19xx)(Marc Goodman).do" size 143360 crc 590df483 md5 7a0052c4d5341080cfa98eef12b93d03 )
+)
+
+game (
+	name "Galaxy Travel (1980)(Tukomo)(JP) & Rainbow Zone (19xx)(High Powered Games)[cr] & Space Rescue (19xx)(-)[cr]"
+	description "Galaxy Travel (1980)(Tukomo)(JP) & Rainbow Zone (19xx)(High Powered Games)[cr] & Space Rescue (19xx)(-)[cr]"
+	rom ( name "Galaxy Travel (1980)(Tukomo)(JP) & Rainbow Zone (19xx)(High Powered Games)[cr] & Space Rescue (19xx)(-)[cr].do" size 143360 crc 02dcc49c md5 79eadcaa5bf193412d23a6796b7333d4 )
+)
+
+game (
+	name "Gamma Goblins (1981)(Sirius Software) & Gremlins (19xx)(-) & Jellyfish (19xx)(-)[b]"
+	description "Gamma Goblins (1981)(Sirius Software) & Gremlins (19xx)(-) & Jellyfish (19xx)(-)[b]"
+	rom ( name "Gamma Goblins (1981)(Sirius Software) & Gremlins (19xx)(-) & Jellyfish (19xx)(-)[b].do" size 143360 crc e1fd78ef md5 302b4f093b9da0db9d96da7595ed7ef7 )
+)
+
+game (
+	name "Gin Rummy (1984)(Datasoft) & Stardust Casino, The (1984)(R. Rosen)"
+	description "Gin Rummy (1984)(Datasoft) & Stardust Casino, The (1984)(R. Rosen)"
+	rom ( name "Gin Rummy (1984)(Datasoft) & Stardust Casino, The (1984)(R. Rosen).do" size 143360 crc 51c7eca6 md5 a1deda55445f1974d2b0b52dd61fef49 )
+)
+
+game (
+	name "Gladiator (19xx)(David Calaprice) & Joust (19xx)(-)[cr] & Jouster (1983)(Brian Dunn)"
+	description "Gladiator (19xx)(David Calaprice) & Joust (19xx)(-)[cr] & Jouster (1983)(Brian Dunn)"
+	rom ( name "Gladiator (19xx)(David Calaprice) & Joust (19xx)(-)[cr] & Jouster (1983)(Brian Dunn).do" size 143360 crc bd5b73f5 md5 5d32f81c4a5489625ac3afdc3f2c70d7 )
+)
+
+game (
+	name "Golden Apple Casino (1981)(Rosen, R.)"
+	description "Golden Apple Casino (1981)(Rosen, R.)"
+	rom ( name "Golden Apple Casino (1981)(Rosen, R.).do" size 143360 crc 544d8ae2 md5 f38f3d2e4922400b973a44fb352ab342 )
+)
+
+game (
+	name "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade]"
+	description "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade]"
+	rom ( name "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Blade].do" size 143360 crc 5c1723b7 md5 f31c13f759e800de81efdc38e9213518 )
+)
+
+game (
+	name "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats]"
+	description "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats]"
+	rom ( name "Golden Oldies Vol. 1 (1985)(Software Country)(Side A)[cr Thundercats].do" size 143360 crc d2ca7d58 md5 79023a7c3fba02439bd31a02f7c3653c )
+)
+
+game (
+	name "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade]"
+	description "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade]"
+	rom ( name "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Blade].do" size 143360 crc 5d2a819e md5 23c69ce838854954cde6bdab4771df50 )
+)
+
+game (
+	name "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats]"
+	description "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats]"
+	rom ( name "Golden Oldies Vol. 1 (1985)(Software Country)(Side B)[cr Thundercats].do" size 143360 crc dbf20c3f md5 78f660e19114dd33f50f61d30357836b )
+)
+
+game (
+	name "Hell Storm (19xx)(-) & Lazer Silk (1982)(Gebelli Software) & Tunnel Terror (1982)(Magna Soft)"
+	description "Hell Storm (19xx)(-) & Lazer Silk (1982)(Gebelli Software) & Tunnel Terror (1982)(Magna Soft)"
+	rom ( name "Hell Storm (19xx)(-) & Lazer Silk (1982)(Gebelli Software) & Tunnel Terror (1982)(Magna Soft).do" size 143360 crc 6bc4c793 md5 548965243f931ab62d4bb5a207ac49b4 )
+)
+
+game (
+	name "ICBM Strike (1981)(John Field) & Missile Challenger (1981)(Philip Koopman Jr) & Red Alert (19xx)(-)"
+	description "ICBM Strike (1981)(John Field) & Missile Challenger (1981)(Philip Koopman Jr) & Red Alert (19xx)(-)"
+	rom ( name "ICBM Strike (1981)(John Field) & Missile Challenger (1981)(Philip Koopman Jr) & Red Alert (19xx)(-).do" size 143360 crc 2839f5a3 md5 939dbae91c9b8fbe8d33bff27c7382e6 )
+)
+
+game (
+	name "Ice Caves, The (19xx)(-)[cr][b] & Lunar Leeper (19xx)(-)[b] & Syzygy (1983)(Ed Hobbs)"
+	description "Ice Caves, The (19xx)(-)[cr][b] & Lunar Leeper (19xx)(-)[b] & Syzygy (1983)(Ed Hobbs)"
+	rom ( name "Ice Caves, The (19xx)(-)[cr][b] & Lunar Leeper (19xx)(-)[b] & Syzygy (1983)(Ed Hobbs).do" size 143360 crc 49c87d28 md5 ccd5beb50c3b8990392b060bcaca2234 )
+)
+
+game (
+	name "Jawbreaker (19xx)(-) & Jawbreaker II (19xx)(-)-[b]"
+	description "Jawbreaker (19xx)(-) & Jawbreaker II (19xx)(-)-[b]"
+	rom ( name "Jawbreaker (19xx)(-) & Jawbreaker II (19xx)(-)-[b].do" size 143360 crc 3ba3009e md5 7adcaec93026c5ada6ec4544ab0d3e52 )
+)
+
+game (
+	name "Juggler (19xx)(-)[cr] & Retro-Ball (19xx)(-) & Skeet Skoot (1980)(On-Line Systems)[cr]"
+	description "Juggler (19xx)(-)[cr] & Retro-Ball (19xx)(-) & Skeet Skoot (1980)(On-Line Systems)[cr]"
+	rom ( name "Juggler (19xx)(-)[cr] & Retro-Ball (19xx)(-) & Skeet Skoot (1980)(On-Line Systems)[cr].do" size 143360 crc 359a59d6 md5 9de1ec01b98b158e7c4200ce02df7afa )
+)
+
+game (
+	name "Killer Klams (19xx)(Rod Nelsen)[cr] & Picnic Paranoia (19xx)(-)[cr] & Zytrowar (19xx)(-)"
+	description "Killer Klams (19xx)(Rod Nelsen)[cr] & Picnic Paranoia (19xx)(-)[cr] & Zytrowar (19xx)(-)"
+	rom ( name "Killer Klams (19xx)(Rod Nelsen)[cr] & Picnic Paranoia (19xx)(-)[cr] & Zytrowar (19xx)(-).do" size 143360 crc f1d5dc91 md5 40fb2a95ca5e35594175869390b9dcfd )
+)
+
+game (
+	name "Lunar Explorer (19xx)(-)[cr] & Maze Craze Construction Set (19xx)(-)[b]"
+	description "Lunar Explorer (19xx)(-)[cr] & Maze Craze Construction Set (19xx)(-)[b]"
+	rom ( name "Lunar Explorer (19xx)(-)[cr] & Maze Craze Construction Set (19xx)(-)[b].do" size 143360 crc 0c9d248a md5 c232f583620429537817bd844aa1881b )
+)
+
+game (
+	name "Master of the Lamps (1985)(Activision)[cr] & Super Hey (19xx)(Cosmi)[cr]"
+	description "Master of the Lamps (1985)(Activision)[cr] & Super Hey (19xx)(Cosmi)[cr]"
+	rom ( name "Master of the Lamps (1985)(Activision)[cr] & Super Hey (19xx)(Cosmi)[cr].do" size 143360 crc aa30ca69 md5 447c470d59ae3c2fc09769c9a8f2135d )
+)
+
+game (
+	name "Microzone & Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club]"
+	description "Microzone & Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club]"
+	rom ( name "Microzone & Northwoods Adventure (1984)(Scholastic)(Side A)[cr Black Bag - Club].do" size 143360 crc f3d45077 md5 e0d2eb8a02b84e602bf316f2c55d5945 )
+)
+
+game (
+	name "Microzone & Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club]"
+	description "Microzone & Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club]"
+	rom ( name "Microzone & Northwoods Adventure (1984)(Scholastic)(Side B)[cr Black Bag - Club].do" size 143360 crc e5121089 md5 210cb88ea11ddb83358de5e64492818b )
+)
+
+game (
+	name "Monty Plays Monopoly (1980)(Ritam) & Pornopoly! (19xx)(-)"
+	description "Monty Plays Monopoly (1980)(Ritam) & Pornopoly! (19xx)(-)"
+	rom ( name "Monty Plays Monopoly (1980)(Ritam) & Pornopoly! (19xx)(-).do" size 143360 crc 97a67a89 md5 08f29b64de8f838e7758d3a4faaf6706 )
+)
+
+game (
+	name "Nibble Apple II Classics (1990)(MindCraft)(Side A)"
+	description "Nibble Apple II Classics (1990)(MindCraft)(Side A)"
+	rom ( name "Nibble Apple II Classics (1990)(MindCraft)(Side A).do" size 143360 crc c63b0355 md5 e6e0f65e89b75f52d8ca06294001c30b )
+)
+
+game (
+	name "Nibble Apple II Classics (1990)(MindCraft)(Side B)"
+	description "Nibble Apple II Classics (1990)(MindCraft)(Side B)"
+	rom ( name "Nibble Apple II Classics (1990)(MindCraft)(Side B).do" size 143360 crc be85f3ce md5 c56f010708d231ab7c1d3c16a1b0cd67 )
+)
+
+game (
+	name "Nibble Apple II Classics (19xx)(Mindcraft)(Side A)"
+	description "Nibble Apple II Classics (19xx)(Mindcraft)(Side A)"
+	rom ( name "Nibble Apple II Classics (19xx)(Mindcraft)(Side A).do" size 143360 crc 4eddd35f md5 6d384d0ba45bb175abbf0186e2e18cf7 )
+)
+
+game (
+	name "Nibble Apple II Classics (19xx)(Mindcraft)(Side B)"
+	description "Nibble Apple II Classics (19xx)(Mindcraft)(Side B)"
+	rom ( name "Nibble Apple II Classics (19xx)(Mindcraft)(Side B).do" size 143360 crc 6fb2d337 md5 a1c6347b6523a5e81c63f6ea18cd23df )
+)
+
+game (
+	name "Night Falls (1982)(Omega Microware) & Pollywog (1983)(Alan Wooton)[cr]"
+	description "Night Falls (1982)(Omega Microware) & Pollywog (1983)(Alan Wooton)[cr]"
+	rom ( name "Night Falls (1982)(Omega Microware) & Pollywog (1983)(Alan Wooton)[cr].do" size 143360 crc 15ff82f6 md5 aae4f88eedf73413891bdc47b1241231 )
+)
+
+game (
+	name "Nonads (19xx)(-)[cr][b] & Phantoms Five (19xx)(-) & Storm Warning (1984)(Microsparc)[cr]"
+	description "Nonads (19xx)(-)[cr][b] & Phantoms Five (19xx)(-) & Storm Warning (1984)(Microsparc)[cr]"
+	rom ( name "Nonads (19xx)(-)[cr][b] & Phantoms Five (19xx)(-) & Storm Warning (1984)(Microsparc)[cr].do" size 143360 crc 47da6d72 md5 bc0dc33f7a2d2bfebeded0c19ef23097 )
+)
+
+game (
+	name "Ocean Night (19xx)(-)[cr] & Shamus (19xx)(Synapse Software)[cr][t] & Teritory (19xx)(Softhouse)[cr]"
+	description "Ocean Night (19xx)(-)[cr] & Shamus (19xx)(Synapse Software)[cr][t] & Teritory (19xx)(Softhouse)[cr]"
+	rom ( name "Ocean Night (19xx)(-)[cr] & Shamus (19xx)(Synapse Software)[cr][t] & Teritory (19xx)(Softhouse)[cr].do" size 143360 crc caa08a28 md5 d71c6afb731808758321213313c6399e )
+)
+
+game (
+	name "Pitstop II (19xx)(Epyx)[cr] & Techno Car Racing (19xx)(-)[cr]"
+	description "Pitstop II (19xx)(Epyx)[cr] & Techno Car Racing (19xx)(-)[cr]"
+	rom ( name "Pitstop II (19xx)(Epyx)[cr] & Techno Car Racing (19xx)(-)[cr].do" size 143360 crc 923c31c5 md5 706c72fc1fb98088e080bed7c4162d65 )
+)
+
+game (
+	name "Pool v1.5 (19xx)(-) & Trickshot (19xx)(-)[cr]"
+	description "Pool v1.5 (19xx)(-) & Trickshot (19xx)(-)[cr]"
+	rom ( name "Pool v1.5 (19xx)(-) & Trickshot (19xx)(-)[cr].do" size 143360 crc 667f18cd md5 c95ef982e47d20e19fab206da870d804 )
+)
+
+game (
+	name "Round About (1983)(Datamost)[cr] & Time Tunnels (19xx)(Black eye)[cr] & Wormwall (19xx)(-)"
+	description "Round About (1983)(Datamost)[cr] & Time Tunnels (19xx)(Black eye)[cr] & Wormwall (19xx)(-)"
+	rom ( name "Round About (1983)(Datamost)[cr] & Time Tunnels (19xx)(Black eye)[cr] & Wormwall (19xx)(-).do" size 143360 crc 2f198649 md5 890748da7bf87bf57dcfc390985a9a44 )
+)
+
+game (
+	name "Sea Wolf (1980)(Programma Software) & Seafox (1982)(Broderbund) & Star Blazer (19xx)(Tony Suzuky)[cr]"
+	description "Sea Wolf (1980)(Programma Software) & Seafox (1982)(Broderbund) & Star Blazer (19xx)(Tony Suzuky)[cr]"
+	rom ( name "Sea Wolf (1980)(Programma Software) & Seafox (1982)(Broderbund) & Star Blazer (19xx)(Tony Suzuky)[cr].do" size 143360 crc eda8fa4d md5 a2394c6f015729df8629d16f39e82015 )
+)
+
+game (
+	name "Snake Byte (19xx)(-)[t] & Viper (19xx)(Computer Game)"
+	description "Snake Byte (19xx)(-)[t] & Viper (19xx)(Computer Game)"
+	rom ( name "Snake Byte (19xx)(-)[t] & Viper (19xx)(Computer Game).do" size 143360 crc 8e69bc41 md5 48c4b3c1f2a98951b76bf58aefdbf20c )
+)
+
+game (
+	name "Spy Hunter (19xx)(-)[b] & Swashbucker (19xx)(-)[b] & Taipan (1982)(Avalanche)"
+	description "Spy Hunter (19xx)(-)[b] & Swashbucker (19xx)(-)[b] & Taipan (1982)(Avalanche)"
+	rom ( name "Spy Hunter (19xx)(-)[b] & Swashbucker (19xx)(-)[b] & Taipan (1982)(Avalanche).do" size 143360 crc 23851b29 md5 2330c7746b94025a73546206ea973603 )
+)
+
+game (
+	name "Thief (1981)(Flanagan, Bob) & Threshold (19xx)(-) & Thunderbombs (1982)(Penguin Software)[cr Disk Jockey]"
+	description "Thief (1981)(Flanagan, Bob) & Threshold (19xx)(-) & Thunderbombs (1982)(Penguin Software)[cr Disk Jockey]"
+	rom ( name "Thief (1981)(Flanagan, Bob) & Threshold (19xx)(-) & Thunderbombs (1982)(Penguin Software)[cr Disk Jockey].do" size 143360 crc 3a5b57f6 md5 2c84a039f7bf356c4059f6828a490c00 )
+)
+
+game (
+	name "Unreleased Wares of 1985 (19xx)(Surfer Bill)"
+	description "Unreleased Wares of 1985 (19xx)(Surfer Bill)"
+	rom ( name "Unreleased Wares of 1985 (19xx)(Surfer Bill).do" size 143360 crc 6bb4bf7c md5 abd165e036c95b1711e51f948137d997 )
+)
+
+game (
+	name "ZZZ-UNK-[compil] Space"
+	description "ZZZ-UNK-[compil] Space"
+	rom ( name "ZZZ-UNK-[compil] Space.do" size 143360 crc 35d840e3 md5 98631f63ecc8a7d15267e7c31a38ca3b )
+)
+
+game (
+	name "ZZZ-UNK-[compil] Suicide_etc"
+	description "ZZZ-UNK-[compil] Suicide_etc"
+	rom ( name "ZZZ-UNK-[compil] Suicide_etc.do" size 143360 crc 52b4db4e md5 39d18915ee9bff7bf0f614b7ec3eadc8 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] David's Midnight Magic & Retroball & Bball"
+	description "ZZZ-UNK-[compil3] David's Midnight Magic & Retroball & Bball"
+	rom ( name "ZZZ-UNK-[compil3] David's Midnight Magic & Retroball & Bball.do" size 143360 crc bb04b4ee md5 7943114661060460a3abd78ab5201d2f )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Draw Poker & Space Quarks & Viper"
+	description "ZZZ-UNK-[compil3] Draw Poker & Space Quarks & Viper"
+	rom ( name "ZZZ-UNK-[compil3] Draw Poker & Space Quarks & Viper.do" size 143360 crc d6832337 md5 136b84f9342a348b71f03d3ec4094fcc )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Firebird & Horizon V & Russki Duck"
+	description "ZZZ-UNK-[compil3] Firebird & Horizon V & Russki Duck"
+	rom ( name "ZZZ-UNK-[compil3] Firebird & Horizon V & Russki Duck.do" size 143360 crc 12f36149 md5 aa808ed15e166373089dc19ad24ca00a )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Hard Hat Mack & Repton & Starmaze"
+	description "ZZZ-UNK-[compil3] Hard Hat Mack & Repton & Starmaze"
+	rom ( name "ZZZ-UNK-[compil3] Hard Hat Mack & Repton & Starmaze.do" size 143360 crc 96c7c91a md5 561d3117e9852cb9776c89c39bc0889d )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Joust & Q&bert & Q&bert (original) & Star Blazer"
+	description "ZZZ-UNK-[compil3] Joust & Q&bert & Q&bert (original) & Star Blazer"
+	rom ( name "ZZZ-UNK-[compil3] Joust & Q&bert & Q&bert (original) & Star Blazer.do" size 143360 crc fa7a8fd9 md5 c28856f1097f251b05535d68af66dadb )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Master"
+	description "ZZZ-UNK-[compil3] Master"
+	rom ( name "ZZZ-UNK-[compil3] Master.do" size 143360 crc 85f129f9 md5 6420a591fccf1f953781c9b34be43f73 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 1 Of 2)"
+	description "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 1 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 1 Of 2).do" size 143360 crc b986f15a md5 bce6b235280625c0ee24e32045696667 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 2 Of 2)[unk filesys]"
+	description "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 2 Of 2)[unk filesys]"
+	rom ( name "ZZZ-UNK-[compil3] Mr. Robot And His Factory (disk 2 Of 2)[unk filesys].do" size 143360 crc 4dcfd631 md5 0c24fecc85106661a17e0a00080498e9 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Olde Gin Parlour & Singles Night At Mollie's"
+	description "ZZZ-UNK-[compil3] Olde Gin Parlour & Singles Night At Mollie's"
+	rom ( name "ZZZ-UNK-[compil3] Olde Gin Parlour & Singles Night At Mollie's.do" size 143360 crc a49499b9 md5 1ac82d8e4f3e8bca1b5a68a4ebfe7f59 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 1 Of 2)"
+	description "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 1 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 1 Of 2).do" size 143360 crc 11728ff1 md5 16d71aa65cd8e358354e98ff78592a77 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 2 Of 2)"
+	description "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 2 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Scott Adams & Saga 1 & Adventureland (disk 2 Of 2).do" size 143360 crc 31809953 md5 6165729b7216a61a0debefa8010edbda )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 1 Of 2)"
+	description "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 1 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 1 Of 2).do" size 143360 crc 81838532 md5 690f61ae14bef3e36da346fad630d280 )
+)
+
+game (
+	name "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 2 Of 2)"
+	description "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 2 Of 2)"
+	rom ( name "ZZZ-UNK-[compil3] Scott Adams & Saga 2 & Pirate Adventure (disk 2 Of 2).do" size 143360 crc 5f9d98ec md5 ce79edc5a50c58da2bc405bb5fa07f2a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Alley Cat - Ceiling Zero - Country Carnival - Flight Simulator - Gobbler - Night Driver - Snake Byte"
+	description "ZZZ-UNK-[compil4] Alley Cat - Ceiling Zero - Country Carnival - Flight Simulator - Gobbler - Night Driver - Snake Byte"
+	rom ( name "ZZZ-UNK-[compil4] Alley Cat - Ceiling Zero - Country Carnival - Flight Simulator - Gobbler - Night Driver - Snake Byte.do" size 143360 crc 2ffd472f md5 1740b6698620b14887e78fd5d14b7924 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] All-starbaseball_brickout_checkers_connect4_eliza_killsammy_lemonadestand_life_madlib_progolf_reversi_tetrad_tuesdayn"
+	description "ZZZ-UNK-[compil4] All-starbaseball_brickout_checkers_connect4_eliza_killsammy_lemonadestand_life_madlib_progolf_reversi_tetrad_tuesdayn"
+	rom ( name "ZZZ-UNK-[compil4] All-starbaseball_brickout_checkers_connect4_eliza_killsammy_lemonadestand_life_madlib_progolf_reversi_tetrad_tuesdayn.do" size 143360 crc 4c5f02da md5 87b5b800721d58003e7005ced44e9c4d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Alpha1 - Appletrek - Cyclejump - Depthcharge - Dockingmission - Fighterpilot - Insectrepellent - Moto-cross - Parachute - Phasorzap"
+	description "ZZZ-UNK-[compil4] Alpha1 - Appletrek - Cyclejump - Depthcharge - Dockingmission - Fighterpilot - Insectrepellent - Moto-cross - Parachute - Phasorzap"
+	rom ( name "ZZZ-UNK-[compil4] Alpha1 - Appletrek - Cyclejump - Depthcharge - Dockingmission - Fighterpilot - Insectrepellent - Moto-cross - Parachute - Phasorzap.do" size 143360 crc d153769d md5 c8e229059d5116c4d1078664437b7d05 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Animals - Animations - Biorhythm - Bit Bucket - Echo - 6502 Simulator - Sleepy Time - Star Wars"
+	description "ZZZ-UNK-[compil4] Animals - Animations - Biorhythm - Bit Bucket - Echo - 6502 Simulator - Sleepy Time - Star Wars"
+	rom ( name "ZZZ-UNK-[compil4] Animals - Animations - Biorhythm - Bit Bucket - Echo - 6502 Simulator - Sleepy Time - Star Wars.do" size 143360 crc d647b174 md5 20d61d4d4ae99cf86eecc0da44e0cf17 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ankh, Buzzard Bait, Sythesizer"
+	description "ZZZ-UNK-[compil4] Ankh, Buzzard Bait, Sythesizer"
+	rom ( name "ZZZ-UNK-[compil4] Ankh, Buzzard Bait, Sythesizer.do" size 143360 crc 976c4971 md5 d7177cf95d50b3792f5986166659b405 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple 21 - Craps - Crazy Eights - Five Card Stud - Gomoku - Othello - Roulette - Solitaire - Yahtzee"
+	description "ZZZ-UNK-[compil4] Apple 21 - Craps - Crazy Eights - Five Card Stud - Gomoku - Othello - Roulette - Solitaire - Yahtzee"
+	rom ( name "ZZZ-UNK-[compil4] Apple 21 - Craps - Crazy Eights - Five Card Stud - Gomoku - Othello - Roulette - Solitaire - Yahtzee.do" size 143360 crc d1e00be8 md5 cf85bcae4dffe5114f76580b6f6b4d82 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple Bowl - Budge Trilogy - Dart Room - Star Wars - William Tell"
+	description "ZZZ-UNK-[compil4] Apple Bowl - Budge Trilogy - Dart Room - Star Wars - William Tell"
+	rom ( name "ZZZ-UNK-[compil4] Apple Bowl - Budge Trilogy - Dart Room - Star Wars - William Tell.do" size 143360 crc 8c400306 md5 c40aa7aeaaaafadec834b4eaaa87c08d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader (alt)"
+	description "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader (alt)"
+	rom ( name "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader (alt).do" size 143360 crc e8e4b9e1 md5 7e1b3e5deee415398f84f863e58e1aed )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader"
+	description "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader"
+	rom ( name "ZZZ-UNK-[compil4] Apple Invaders - Galaxy Wars - Invasion Force - Keyboard Apple Invaders - Stellar Invaders - Super Invader.do" size 143360 crc a35a6f16 md5 89b98ebf2002ef750fe693b407aee678 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple Kong - Mad Rat - Laser Bounce - Space Fungus"
+	description "ZZZ-UNK-[compil4] Apple Kong - Mad Rat - Laser Bounce - Space Fungus"
+	rom ( name "ZZZ-UNK-[compil4] Apple Kong - Mad Rat - Laser Bounce - Space Fungus.do" size 143360 crc af5bb3a2 md5 78f9b474a805e59dba3e09e3f1a76201 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple Zap - Bc's Quest For Tires - Creepy Corridors - Laf Pak - Mine Sweep - Space Race"
+	description "ZZZ-UNK-[compil4] Apple Zap - Bc's Quest For Tires - Creepy Corridors - Laf Pak - Mine Sweep - Space Race"
+	rom ( name "ZZZ-UNK-[compil4] Apple Zap - Bc's Quest For Tires - Creepy Corridors - Laf Pak - Mine Sweep - Space Race.do" size 143360 crc d9af384f md5 c5c228b5676e1454e9c16524995c069d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Apple-oids - Outpost - Star Blaster - Star Wars - Taxman"
+	description "ZZZ-UNK-[compil4] Apple-oids - Outpost - Star Blaster - Star Wars - Taxman"
+	rom ( name "ZZZ-UNK-[compil4] Apple-oids - Outpost - Star Blaster - Star Wars - Taxman.do" size 143360 crc 29960bb0 md5 63a5b68213e7a30df4e36cc7a2b78d79 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Applesofthiresarcadegames"
+	description "ZZZ-UNK-[compil4] Applesofthiresarcadegames"
+	rom ( name "ZZZ-UNK-[compil4] Applesofthiresarcadegames.do" size 143360 crc a9a8c1d6 md5 95868a5674d0d206372ed8692174ee3b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Applesofttextadventuregames"
+	description "ZZZ-UNK-[compil4] Applesofttextadventuregames"
+	rom ( name "ZZZ-UNK-[compil4] Applesofttextadventuregames.do" size 143360 crc 5a15c123 md5 3cb6e71357c20dc45e469e3b332d004b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Arena Of Octos - B1 Bomber - City Of Sumer - Galactic Empires - Galaxy! - House Of Usher - Midway - Nukewar - Santa Paravia"
+	description "ZZZ-UNK-[compil4] Arena Of Octos - B1 Bomber - City Of Sumer - Galactic Empires - Galaxy! - House Of Usher - Midway - Nukewar - Santa Paravia"
+	rom ( name "ZZZ-UNK-[compil4] Arena Of Octos - B1 Bomber - City Of Sumer - Galactic Empires - Galaxy! - House Of Usher - Midway - Nukewar - Santa Paravia.do" size 143360 crc c471a07d md5 0649f519a15f54ff24d044f56953ed21 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Asteroid Field - Monopoly - Orbitron - Planet Miners - Text Train-a [no boot]"
+	description "ZZZ-UNK-[compil4] Asteroid Field - Monopoly - Orbitron - Planet Miners - Text Train-a [no boot]"
+	rom ( name "ZZZ-UNK-[compil4] Asteroid Field - Monopoly - Orbitron - Planet Miners - Text Train-a [no boot].do" size 143360 crc 7d677c2a md5 bce9fd2e8edfae67676a9acf103b5814 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Asteron - Asteroid - Appleoids - Asteroid Field - Asteroids In Space - Bubbles - Planetoids"
+	description "ZZZ-UNK-[compil4] Asteron - Asteroid - Appleoids - Asteroid Field - Asteroids In Space - Bubbles - Planetoids"
+	rom ( name "ZZZ-UNK-[compil4] Asteron - Asteroid - Appleoids - Asteroid Field - Asteroids In Space - Bubbles - Planetoids.do" size 143360 crc d8583a71 md5 75e8105f606e2689c11b2896d758444a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Atarisoft Ms. Pac-man - Chess - Joust - Robotron"
+	description "ZZZ-UNK-[compil4] Atarisoft Ms. Pac-man - Chess - Joust - Robotron"
+	rom ( name "ZZZ-UNK-[compil4] Atarisoft Ms. Pac-man - Chess - Joust - Robotron.do" size 143360 crc 6de1f6cc md5 65546ec89d9dc9d36ace303b0f7ded7d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Atc - B1 Bomber - Midway - Nukewar"
+	description "ZZZ-UNK-[compil4] Atc - B1 Bomber - Midway - Nukewar"
+	rom ( name "ZZZ-UNK-[compil4] Atc - B1 Bomber - Midway - Nukewar.do" size 143360 crc 84868e79 md5 7de5be7cfe19f7f22dda17effad95091 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Awacs - Battle At Sea - Journey To The Center Of Earth - Palace In Thunderland - Adam's Sampler"
+	description "ZZZ-UNK-[compil4] Awacs - Battle At Sea - Journey To The Center Of Earth - Palace In Thunderland - Adam's Sampler"
+	rom ( name "ZZZ-UNK-[compil4] Awacs - Battle At Sea - Journey To The Center Of Earth - Palace In Thunderland - Adam's Sampler.do" size 143360 crc 9abe9796 md5 d76a2fa47744d026f6f645bd4283c523 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bats In The Belfry - Jumpjet - Klan Cookout - Trompers"
+	description "ZZZ-UNK-[compil4] Bats In The Belfry - Jumpjet - Klan Cookout - Trompers"
+	rom ( name "ZZZ-UNK-[compil4] Bats In The Belfry - Jumpjet - Klan Cookout - Trompers.do" size 143360 crc 18df0773 md5 1b404728d705f0fb92512e57e6b92805 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Battle Cruiser - Dogfight - Dogfight ][ - Warlord"
+	description "ZZZ-UNK-[compil4] Battle Cruiser - Dogfight - Dogfight ][ - Warlord"
+	rom ( name "ZZZ-UNK-[compil4] Battle Cruiser - Dogfight - Dogfight ][ - Warlord.do" size 143360 crc 9667ef99 md5 a9e3c3381527bf7df03488bd3824c1af )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Battlezone - Blitzkrieg - Bomber - Pill Box - Robot Tank - Tank Wars"
+	description "ZZZ-UNK-[compil4] Battlezone - Blitzkrieg - Bomber - Pill Box - Robot Tank - Tank Wars"
+	rom ( name "ZZZ-UNK-[compil4] Battlezone - Blitzkrieg - Bomber - Pill Box - Robot Tank - Tank Wars.do" size 143360 crc 9cbbb5e5 md5 98ec259dc17f4a176ef5ca2386924897 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Beach Head - Mines Of Malzeb - Precinct Patrol - Trompers - War Head"
+	description "ZZZ-UNK-[compil4] Beach Head - Mines Of Malzeb - Precinct Patrol - Trompers - War Head"
+	rom ( name "ZZZ-UNK-[compil4] Beach Head - Mines Of Malzeb - Precinct Patrol - Trompers - War Head.do" size 143360 crc dd55baa6 md5 fc705bab159a930308259241f393b1de )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Beach Head - Spindizzy - Spindizzy - Cheat Version - Serpentine"
+	description "ZZZ-UNK-[compil4] Beach Head - Spindizzy - Spindizzy - Cheat Version - Serpentine"
+	rom ( name "ZZZ-UNK-[compil4] Beach Head - Spindizzy - Spindizzy - Cheat Version - Serpentine.do" size 143360 crc 9770738d md5 dea9b56e8bca2b3d43911d64f71fd19e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Best Of Muse"
+	description "ZZZ-UNK-[compil4] Best Of Muse"
+	rom ( name "ZZZ-UNK-[compil4] Best Of Muse.do" size 143360 crc d000d19a md5 2a4a3d8c95843966a43879cb130c6f25 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bezman - Gobbler - Puckman - Super Puckman (alt)"
+	description "ZZZ-UNK-[compil4] Bezman - Gobbler - Puckman - Super Puckman (alt)"
+	rom ( name "ZZZ-UNK-[compil4] Bezman - Gobbler - Puckman - Super Puckman (alt).do" size 143360 crc 90f36f4c md5 8519371431892ef172223915415372c5 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bezoff_bezwars_marscars_quadrant6112"
+	description "ZZZ-UNK-[compil4] Bezoff_bezwars_marscars_quadrant6112"
+	rom ( name "ZZZ-UNK-[compil4] Bezoff_bezwars_marscars_quadrant6112.do" size 143360 crc f6e64b14 md5 881b5f4f63c44041c01d2092320a4d06 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bill Budge - Penny Arcade - Raster Blaster - Space Album - Trilogy Of Games"
+	description "ZZZ-UNK-[compil4] Bill Budge - Penny Arcade - Raster Blaster - Space Album - Trilogy Of Games"
+	rom ( name "ZZZ-UNK-[compil4] Bill Budge - Penny Arcade - Raster Blaster - Space Album - Trilogy Of Games.do" size 143360 crc 76239f52 md5 58072debea5b0a55494ed4d902553ad0 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Black Flame Pinball - Blackout - Livewire Pinball - The Pirate's Ball (alt)"
+	description "ZZZ-UNK-[compil4] Black Flame Pinball - Blackout - Livewire Pinball - The Pirate's Ball (alt)"
+	rom ( name "ZZZ-UNK-[compil4] Black Flame Pinball - Blackout - Livewire Pinball - The Pirate's Ball (alt).do" size 143360 crc 6d1b8aae md5 f5037bf8690c3062bfc1fb2b0f7b54fe )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Blackflamepinball_blackoutpinball_livewirepinball_thepiratesball"
+	description "ZZZ-UNK-[compil4] Blackflamepinball_blackoutpinball_livewirepinball_thepiratesball"
+	rom ( name "ZZZ-UNK-[compil4] Blackflamepinball_blackoutpinball_livewirepinball_thepiratesball.do" size 143360 crc 30ad5ea8 md5 40a7aa6a46adece44d0e05edb52a0427 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Blister Ball - Bouncing Kamungas! - Mad Bomber - Tsunami"
+	description "ZZZ-UNK-[compil4] Blister Ball - Bouncing Kamungas! - Mad Bomber - Tsunami"
+	rom ( name "ZZZ-UNK-[compil4] Blister Ball - Bouncing Kamungas! - Mad Bomber - Tsunami.do" size 143360 crc 2425a929 md5 e6a2a79fa36ca476128a1d4373bcc58a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze (alt)"
+	description "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze (alt)"
+	rom ( name "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze (alt).do" size 143360 crc 9a2f432b md5 1a182aef6b68eedec837dd5402343d86 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze"
+	description "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze"
+	rom ( name "ZZZ-UNK-[compil4] Bloody Murder - Dragon Maze - Dungeon - Escape - Gamepack Iv - Hangman - Haunted House - Interna-maze.do" size 143360 crc 24a99cd0 md5 b7191e0dbf3fb07acbe2fa4393844776 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bolo - Dig Dug - Drelbs - Guardian - Robotron 2084"
+	description "ZZZ-UNK-[compil4] Bolo - Dig Dug - Drelbs - Guardian - Robotron 2084"
+	rom ( name "ZZZ-UNK-[compil4] Bolo - Dig Dug - Drelbs - Guardian - Robotron 2084.do" size 143360 crc 05b2269d md5 9b460499307bf2dee3d99cebf18a0241 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bug Battle - Centipede - Geopede - Night Crawler - Photar"
+	description "ZZZ-UNK-[compil4] Bug Battle - Centipede - Geopede - Night Crawler - Photar"
+	rom ( name "ZZZ-UNK-[compil4] Bug Battle - Centipede - Geopede - Night Crawler - Photar.do" size 143360 crc 8b6bfbb2 md5 7cfdd7848c1bf5d79bda4f56199f386d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Bugbattle_geopede_nightcrawler_photar"
+	description "ZZZ-UNK-[compil4] Bugbattle_geopede_nightcrawler_photar"
+	rom ( name "ZZZ-UNK-[compil4] Bugbattle_geopede_nightcrawler_photar.do" size 143360 crc 7672cba1 md5 591cfceac6e34faf9655f8edfbdc278a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Burgertron_frontline_nibbleinferno_roachhotel"
+	description "ZZZ-UNK-[compil4] Burgertron_frontline_nibbleinferno_roachhotel"
+	rom ( name "ZZZ-UNK-[compil4] Burgertron_frontline_nibbleinferno_roachhotel.do" size 143360 crc bfd46ea1 md5 cf562da380e37e384f0eb4a452378083 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cannonball Blitz - Night Crawler - Snack Attack - Sn0ggle - Tranquility Base"
+	description "ZZZ-UNK-[compil4] Cannonball Blitz - Night Crawler - Snack Attack - Sn0ggle - Tranquility Base"
+	rom ( name "ZZZ-UNK-[compil4] Cannonball Blitz - Night Crawler - Snack Attack - Sn0ggle - Tranquility Base.do" size 143360 crc e903a945 md5 8dafe2d75292c5bc9fa9f81ce0ce218f )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Chess Colossus v4.0 - Microchess v2.0 - Sargon I - Sargon II"
+	description "ZZZ-UNK-[compil4] Chess Colossus v4.0 - Microchess v2.0 - Sargon I - Sargon II"
+	rom ( name "ZZZ-UNK-[compil4] Chess Colossus v4.0 - Microchess v2.0 - Sargon I - Sargon II.do" size 143360 crc 8c08b4b2 md5 c315b538e84b2d58e39ac437b3e09446 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Chess"
+	description "ZZZ-UNK-[compil4] Chess"
+	rom ( name "ZZZ-UNK-[compil4] Chess.do" size 143360 crc 025978d7 md5 55ff0d2f249396e3221ea4c27534cf5e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Chinese Chess - Chinese Dragon - Mahjong - Speedy Mahjong"
+	description "ZZZ-UNK-[compil4] Chinese Chess - Chinese Dragon - Mahjong - Speedy Mahjong"
+	rom ( name "ZZZ-UNK-[compil4] Chinese Chess - Chinese Dragon - Mahjong - Speedy Mahjong.do" size 143360 crc 5267396d md5 96ae9e9b6b398e86c7f2ec928566aa84 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Choplifter - Guardian - Sabotage - Space Raiders - Star Avenger"
+	description "ZZZ-UNK-[compil4] Choplifter - Guardian - Sabotage - Space Raiders - Star Avenger"
+	rom ( name "ZZZ-UNK-[compil4] Choplifter - Guardian - Sabotage - Space Raiders - Star Avenger.do" size 143360 crc d2d673a3 md5 9de3c7cfe7eee0d10a33fbcccc8f09b1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Choplifter+"
+	description "ZZZ-UNK-[compil4] Choplifter+"
+	rom ( name "ZZZ-UNK-[compil4] Choplifter+.do" size 143360 crc 23675a54 md5 bb35221e42469ecd68b706e985986ce1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Collect - Money Munchers - Pieman - Space Cadet"
+	description "ZZZ-UNK-[compil4] Collect - Money Munchers - Pieman - Space Cadet"
+	rom ( name "ZZZ-UNK-[compil4] Collect - Money Munchers - Pieman - Space Cadet.do" size 143360 crc 1ebfbcf6 md5 50eb6716ca20e1a3d79ee9e88bfa786e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cosmic Combat - Cosmic Juggler - Golden Mountain - Hive Keepers"
+	description "ZZZ-UNK-[compil4] Cosmic Combat - Cosmic Juggler - Golden Mountain - Hive Keepers"
+	rom ( name "ZZZ-UNK-[compil4] Cosmic Combat - Cosmic Juggler - Golden Mountain - Hive Keepers.do" size 143360 crc 9e083834 md5 fe79335b6966686a9a76e01bdeb380b6 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Crazey Mazey - Double Trouble - Scorpion Attack - Vortex"
+	description "ZZZ-UNK-[compil4] Crazey Mazey - Double Trouble - Scorpion Attack - Vortex"
+	rom ( name "ZZZ-UNK-[compil4] Crazey Mazey - Double Trouble - Scorpion Attack - Vortex.do" size 143360 crc a3843784 md5 06c7a96500b416004c4c037a94c53e13 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cross Country Rallye - Mouskattack - Pig Pen - Succession"
+	description "ZZZ-UNK-[compil4] Cross Country Rallye - Mouskattack - Pig Pen - Succession"
+	rom ( name "ZZZ-UNK-[compil4] Cross Country Rallye - Mouskattack - Pig Pen - Succession.do" size 143360 crc f7a687cc md5 9e12ce0dd5af27df3439214d38989e42 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Crown Of Arthain - Ruski Duck - Pillbox - Checker King"
+	description "ZZZ-UNK-[compil4] Crown Of Arthain - Ruski Duck - Pillbox - Checker King"
+	rom ( name "ZZZ-UNK-[compil4] Crown Of Arthain - Ruski Duck - Pillbox - Checker King.do" size 143360 crc 572984f0 md5 80d899588ec9ff3ebc8c2aeef0ce0004 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Cyber Strike - Dogfight - Space Eggs - Twerps"
+	description "ZZZ-UNK-[compil4] Cyber Strike - Dogfight - Space Eggs - Twerps"
+	rom ( name "ZZZ-UNK-[compil4] Cyber Strike - Dogfight - Space Eggs - Twerps.do" size 143360 crc 47649943 md5 c8d72eea19a7239fad2ba9c28650cf64 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Dartroom"
+	description "ZZZ-UNK-[compil4] Dartroom"
+	rom ( name "ZZZ-UNK-[compil4] Dartroom.do" size 143360 crc b49f288e md5 5ead8f143b55ffa3fc1eb86a64236a8e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] David's Midnight Magic - Pest Patrol - Pest Patrol - Cheat Version - Remote Control Flight Simulator Ii"
+	description "ZZZ-UNK-[compil4] David's Midnight Magic - Pest Patrol - Pest Patrol - Cheat Version - Remote Control Flight Simulator Ii"
+	rom ( name "ZZZ-UNK-[compil4] David's Midnight Magic - Pest Patrol - Pest Patrol - Cheat Version - Remote Control Flight Simulator Ii.do" size 143360 crc 16275de2 md5 2b6b66aa192bf75643d23ac8eb2f035e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Dawn Treader - Hoe Hopper's Frustration - Sabotage Ii - Revenge! - Superhuey"
+	description "ZZZ-UNK-[compil4] Dawn Treader - Hoe Hopper's Frustration - Sabotage Ii - Revenge! - Superhuey"
+	rom ( name "ZZZ-UNK-[compil4] Dawn Treader - Hoe Hopper's Frustration - Sabotage Ii - Revenge! - Superhuey.do" size 143360 crc b4094ff8 md5 fa0fd9b7fecb211f3c05a2d998ffa604 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Deep Water Danger - Eagle Eggs - Flap & Smack - Quibbles' Revenge"
+	description "ZZZ-UNK-[compil4] Deep Water Danger - Eagle Eggs - Flap & Smack - Quibbles' Revenge"
+	rom ( name "ZZZ-UNK-[compil4] Deep Water Danger - Eagle Eggs - Flap & Smack - Quibbles' Revenge.do" size 143360 crc 08120cdf md5 0db12a882da6e5df57b44888bf2a4a20 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Doomcavern+sorcerer'schallenge(int)"
+	description "ZZZ-UNK-[compil4] Doomcavern+sorcerer'schallenge(int)"
+	rom ( name "ZZZ-UNK-[compil4] Doomcavern+sorcerer'schallenge(int).do" size 143360 crc ed749cbb md5 45b792114aec7e159a3c9275c74e365d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Draw Poker - Fastgammon - Gammon Gambler - King Cribbage - Microchess v2.0 - Sargon II - Super Othello"
+	description "ZZZ-UNK-[compil4] Draw Poker - Fastgammon - Gammon Gambler - King Cribbage - Microchess v2.0 - Sargon II - Super Othello"
+	rom ( name "ZZZ-UNK-[compil4] Draw Poker - Fastgammon - Gammon Gambler - King Cribbage - Microchess v2.0 - Sargon II - Super Othello.do" size 143360 crc 5d7af99a md5 39aac750f840d8a55aa25d37f0d3279a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Dueling Digits - Firebug - Ski Slalom Competition - Track Attack"
+	description "ZZZ-UNK-[compil4] Dueling Digits - Firebug - Ski Slalom Competition - Track Attack"
+	rom ( name "ZZZ-UNK-[compil4] Dueling Digits - Firebug - Ski Slalom Competition - Track Attack.do" size 143360 crc 1a0225b2 md5 62cbc7c94b388b72cbcb795524a80f0b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Dung Beetles - Invasion Force - Ms. Pac-man - Pooyan - Star Cruiser - Star Thief"
+	description "ZZZ-UNK-[compil4] Dung Beetles - Invasion Force - Ms. Pac-man - Pooyan - Star Cruiser - Star Thief"
+	rom ( name "ZZZ-UNK-[compil4] Dung Beetles - Invasion Force - Ms. Pac-man - Pooyan - Star Cruiser - Star Thief.do" size 143360 crc 6fc7ff77 md5 7a06086a9995ca7d02c80d6df2784708 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Escape! - Taipan - U-boat Command"
+	description "ZZZ-UNK-[compil4] Escape! - Taipan - U-boat Command"
+	rom ( name "ZZZ-UNK-[compil4] Escape! - Taipan - U-boat Command.do" size 143360 crc f9545433 md5 db32e984928e0819687e3586637da1b8 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Exterminator - Guardian - Robot Battle - Robotron - Vindicator"
+	description "ZZZ-UNK-[compil4] Exterminator - Guardian - Robot Battle - Robotron - Vindicator"
+	rom ( name "ZZZ-UNK-[compil4] Exterminator - Guardian - Robot Battle - Robotron - Vindicator.do" size 143360 crc 74203550 md5 c2b8637d6d68eb34ebf07f95b28830b4 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Exterminator+"
+	description "ZZZ-UNK-[compil4] Exterminator+"
+	rom ( name "ZZZ-UNK-[compil4] Exterminator+.do" size 143360 crc fa48c1f8 md5 639f0afafa38174cff0424990f4c1480 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Fastgammon - Gammon Gambler - Hi-res Cribbage - King Cribbage - Microgammon (v2.0)"
+	description "ZZZ-UNK-[compil4] Fastgammon - Gammon Gambler - Hi-res Cribbage - King Cribbage - Microgammon (v2.0)"
+	rom ( name "ZZZ-UNK-[compil4] Fastgammon - Gammon Gambler - Hi-res Cribbage - King Cribbage - Microgammon (v2.0).do" size 143360 crc ff8dc322 md5 715a8a6995827fe67119dea1f7be803c )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Fastgammon, Gomoku, Japanese Breakout, Microchess, Sargon I, Sargon Ii, Type Attack"
+	description "ZZZ-UNK-[compil4] Fastgammon, Gomoku, Japanese Breakout, Microchess, Sargon I, Sargon Ii, Type Attack"
+	rom ( name "ZZZ-UNK-[compil4] Fastgammon, Gomoku, Japanese Breakout, Microchess, Sargon I, Sargon Ii, Type Attack.do" size 143360 crc c1612a92 md5 8f35ad44d95fca30b119b7737cfd5707 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Firebug_etc"
+	description "ZZZ-UNK-[compil4] Firebug_etc"
+	rom ( name "ZZZ-UNK-[compil4] Firebug_etc.do" size 143360 crc 1d39fd63 md5 c2427faf96ac1fb49ee2abb1f99c6d8d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Flight Simulator - Lunar Explorer - Rc-fs2 - Tranquility Base"
+	description "ZZZ-UNK-[compil4] Flight Simulator - Lunar Explorer - Rc-fs2 - Tranquility Base"
+	rom ( name "ZZZ-UNK-[compil4] Flight Simulator - Lunar Explorer - Rc-fs2 - Tranquility Base.do" size 143360 crc ddc99410 md5 5e0183f70258dbbb44a8dc49fb896ea1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Flockland Island Crisis - Laser Wars - Lazer Blaster - Telenguard"
+	description "ZZZ-UNK-[compil4] Flockland Island Crisis - Laser Wars - Lazer Blaster - Telenguard"
+	rom ( name "ZZZ-UNK-[compil4] Flockland Island Crisis - Laser Wars - Lazer Blaster - Telenguard.do" size 143360 crc 384ebbd1 md5 c762bae891cfe672796089b8cab975e1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Frazzle - High Orbit - Rearguard - Spy's Demise"
+	description "ZZZ-UNK-[compil4] Frazzle - High Orbit - Rearguard - Spy's Demise"
+	rom ( name "ZZZ-UNK-[compil4] Frazzle - High Orbit - Rearguard - Spy's Demise.do" size 143360 crc 87831f53 md5 2ffbe0a922a698dc819e2bfa44c0f4c1 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_04a"
+	description "ZZZ-UNK-[compil4] Gam_04a"
+	rom ( name "ZZZ-UNK-[compil4] Gam_04a.do" size 143360 crc 7059d2d3 md5 8694ee8cb38a2eac38b83bf942ab029c )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_04b"
+	description "ZZZ-UNK-[compil4] Gam_04b"
+	rom ( name "ZZZ-UNK-[compil4] Gam_04b.do" size 143360 crc b88bd993 md5 84fcbf16c443ba31dfd226a98078e585 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_05a"
+	description "ZZZ-UNK-[compil4] Gam_05a"
+	rom ( name "ZZZ-UNK-[compil4] Gam_05a.do" size 143360 crc 94cdb57d md5 8b90e97ec7c52cb0ec75e5d39789d26b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_06a"
+	description "ZZZ-UNK-[compil4] Gam_06a"
+	rom ( name "ZZZ-UNK-[compil4] Gam_06a.do" size 143360 crc f6b622a1 md5 06879fa650badac3c2665f80536834f5 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_06b"
+	description "ZZZ-UNK-[compil4] Gam_06b"
+	rom ( name "ZZZ-UNK-[compil4] Gam_06b.do" size 143360 crc d952f92a md5 b19966fe5c9ed74eb7869b4501b308b7 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_08a"
+	description "ZZZ-UNK-[compil4] Gam_08a"
+	rom ( name "ZZZ-UNK-[compil4] Gam_08a.do" size 143360 crc a5fd9932 md5 b69fb846d6a4e37ca0353e6959e3f52f )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gam_08b"
+	description "ZZZ-UNK-[compil4] Gam_08b"
+	rom ( name "ZZZ-UNK-[compil4] Gam_08b.do" size 143360 crc e65844e7 md5 c63be56217cadebe62c8e6a7d033f08b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Game_01b"
+	description "ZZZ-UNK-[compil4] Game_01b"
+	rom ( name "ZZZ-UNK-[compil4] Game_01b.do" size 143360 crc 58b7e134 md5 7bf096486cfd596c9d6c3793b7aa15ad )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Game_02a"
+	description "ZZZ-UNK-[compil4] Game_02a"
+	rom ( name "ZZZ-UNK-[compil4] Game_02a.do" size 143360 crc 14c34ae5 md5 f375339d21ceac39beedc8a3f548e55d )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Game_02b"
+	description "ZZZ-UNK-[compil4] Game_02b"
+	rom ( name "ZZZ-UNK-[compil4] Game_02b.do" size 143360 crc d942baa3 md5 bf79ac00a271effc73ec79f0fbbbc7b3 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Game_03b"
+	description "ZZZ-UNK-[compil4] Game_03b"
+	rom ( name "ZZZ-UNK-[compil4] Game_03b.do" size 143360 crc 8c0d1a56 md5 f82c8570113332faf12db2c8e7a7a1fe )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Games1"
+	description "ZZZ-UNK-[compil4] Games1"
+	rom ( name "ZZZ-UNK-[compil4] Games1.do" size 143360 crc 433b09fa md5 1aad76490a36150fb382a8896d1e107e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Games5"
+	description "ZZZ-UNK-[compil4] Games5"
+	rom ( name "ZZZ-UNK-[compil4] Games5.do" size 143360 crc 86e40e8f md5 dcf9231e2acc513b4d825685aa6d336b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Games6"
+	description "ZZZ-UNK-[compil4] Games6"
+	rom ( name "ZZZ-UNK-[compil4] Games6.do" size 143360 crc 80585863 md5 e5baa63f718c799c318c89a69773cb76 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gamma Goblins - Pulsar Ii - Starmines - Tranquility Base"
+	description "ZZZ-UNK-[compil4] Gamma Goblins - Pulsar Ii - Starmines - Tranquility Base"
+	rom ( name "ZZZ-UNK-[compil4] Gamma Goblins - Pulsar Ii - Starmines - Tranquility Base.do" size 143360 crc 73176669 md5 8c79a315e633ddcc13652988040ee79b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Go - Odesta Odin - Pensate - Reversal - Super Othello"
+	description "ZZZ-UNK-[compil4] Go - Odesta Odin - Pensate - Reversal - Super Othello"
+	rom ( name "ZZZ-UNK-[compil4] Go - Odesta Odin - Pensate - Reversal - Super Othello.do" size 143360 crc 2d97fd9b md5 5ba480148bc0661dc278faa306c3d043 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Gobblergood - Puckman - Superpuckman - Bezman"
+	description "ZZZ-UNK-[compil4] Gobblergood - Puckman - Superpuckman - Bezman"
+	rom ( name "ZZZ-UNK-[compil4] Gobblergood - Puckman - Superpuckman - Bezman.do" size 143360 crc 43d46f84 md5 f31e6adfc42ebe3fd21f9df5ca271082 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] H.e.r.o. - Mario Bros - Montezuma's Revenge - Pitfall"
+	description "ZZZ-UNK-[compil4] H.e.r.o. - Mario Bros - Montezuma's Revenge - Pitfall"
+	rom ( name "ZZZ-UNK-[compil4] H.e.r.o. - Mario Bros - Montezuma's Revenge - Pitfall.do" size 143360 crc 57ac80bc md5 4a3737c12ba61446394b6860b35dcc60 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hard Hat Mack - One On One - Montezuma's Revenge"
+	description "ZZZ-UNK-[compil4] Hard Hat Mack - One On One - Montezuma's Revenge"
+	rom ( name "ZZZ-UNK-[compil4] Hard Hat Mack - One On One - Montezuma's Revenge.do" size 143360 crc fc059a38 md5 fd613f48c90b41ba9121f1030c28674e )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hearts - Midnight Madness - Pinball Panic - Totally Tubular"
+	description "ZZZ-UNK-[compil4] Hearts - Midnight Madness - Pinball Panic - Totally Tubular"
+	rom ( name "ZZZ-UNK-[compil4] Hearts - Midnight Madness - Pinball Panic - Totally Tubular.do" size 143360 crc 22ef35d0 md5 84912a2acf773f36c374dac7c605d8b5 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hearts - Midnight Magic - Pinball Panic - Totally Tubular"
+	description "ZZZ-UNK-[compil4] Hearts - Midnight Magic - Pinball Panic - Totally Tubular"
+	rom ( name "ZZZ-UNK-[compil4] Hearts - Midnight Magic - Pinball Panic - Totally Tubular.do" size 143360 crc 131292dd md5 26b7370e9e6e5e50e7a20a02cf64d4af )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hi-resbaseball - Hi-resfootball - Hi-ressoccer - Foosball"
+	description "ZZZ-UNK-[compil4] Hi-resbaseball - Hi-resfootball - Hi-ressoccer - Foosball"
+	rom ( name "ZZZ-UNK-[compil4] Hi-resbaseball - Hi-resfootball - Hi-ressoccer - Foosball.do" size 143360 crc 9da44fa6 md5 10bf5a3c5b486aa97f04375ff08f4dad )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Hunter's Forest - Rapid Fire Pinball - Super Blast - Twilight Ii Pinball"
+	description "ZZZ-UNK-[compil4] Hunter's Forest - Rapid Fire Pinball - Super Blast - Twilight Ii Pinball"
+	rom ( name "ZZZ-UNK-[compil4] Hunter's Forest - Rapid Fire Pinball - Super Blast - Twilight Ii Pinball.do" size 143360 crc 8272c071 md5 67b1914c6daac5c9745f1836a27b2e1b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Icbmstrike - Nonads - Norad - Redalert"
+	description "ZZZ-UNK-[compil4] Icbmstrike - Nonads - Norad - Redalert"
+	rom ( name "ZZZ-UNK-[compil4] Icbmstrike - Nonads - Norad - Redalert.do" size 143360 crc cc0476d4 md5 fc7272917976d4ee61023a5b60a98a9b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Integerhirescardgames"
+	description "ZZZ-UNK-[compil4] Integerhirescardgames"
+	rom ( name "ZZZ-UNK-[compil4] Integerhirescardgames.do" size 143360 crc c438bc56 md5 98c157cea90d384e9e779c74667277f5 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Kamikaze - The Snapper - Spindizzy - Star Clones"
+	description "ZZZ-UNK-[compil4] Kamikaze - The Snapper - Spindizzy - Star Clones"
+	rom ( name "ZZZ-UNK-[compil4] Kamikaze - The Snapper - Spindizzy - Star Clones.do" size 143360 crc c62b1d8c md5 1346e1e8f3f12a5fb344d0baa77a9994 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Kidnapped"
+	description "ZZZ-UNK-[compil4] Kidnapped"
+	rom ( name "ZZZ-UNK-[compil4] Kidnapped.do" size 143360 crc d06087a5 md5 fd863b2035f703210e198d3cad94303a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Mad Venture"
+	description "ZZZ-UNK-[compil4] Mad Venture"
+	rom ( name "ZZZ-UNK-[compil4] Mad Venture.do" size 143360 crc 50c61bc1 md5 43bb377d3237f1a394d3d13e0f3f7369 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Mapple - Pandora's Box - Pooyan - Pooyan - Cheat Version - Spectre"
+	description "ZZZ-UNK-[compil4] Mapple - Pandora's Box - Pooyan - Pooyan - Cheat Version - Spectre"
+	rom ( name "ZZZ-UNK-[compil4] Mapple - Pandora's Box - Pooyan - Pooyan - Cheat Version - Spectre.do" size 143360 crc 4be127cb md5 8a36702ad068bef0c301c975d7cc4158 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Mario Bros - Pac-man - Robotron - Star Trek"
+	description "ZZZ-UNK-[compil4] Mario Bros - Pac-man - Robotron - Star Trek"
+	rom ( name "ZZZ-UNK-[compil4] Mario Bros - Pac-man - Robotron - Star Trek.do" size 143360 crc eff10e22 md5 f73d7fdd52b0c01ec44b0de2460126a0 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Micro Golf - One On One - Shuffleboard - Stunt Cycle"
+	description "ZZZ-UNK-[compil4] Micro Golf - One On One - Shuffleboard - Stunt Cycle"
+	rom ( name "ZZZ-UNK-[compil4] Micro Golf - One On One - Shuffleboard - Stunt Cycle.do" size 143360 crc 741a3f4a md5 053ec34b2865febb73f563fa2e4a1c61 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Minotaur"
+	description "ZZZ-UNK-[compil4] Minotaur"
+	rom ( name "ZZZ-UNK-[compil4] Minotaur.do" size 143360 crc 379934d7 md5 62f4866ea6d4aa53df5041363aecc3ec )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Monster Mash - Pengo - Pest Patrol - Pest Patrol - Cheat Version - Wargle"
+	description "ZZZ-UNK-[compil4] Monster Mash - Pengo - Pest Patrol - Pest Patrol - Cheat Version - Wargle"
+	rom ( name "ZZZ-UNK-[compil4] Monster Mash - Pengo - Pest Patrol - Pest Patrol - Cheat Version - Wargle.do" size 143360 crc 50bb705f md5 76723cd53c249cfcfa68316f2d311294 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ms. Pac-man - Ms. Pac-man - Cheat Version - Ms. Pac-man Deluxe - Nibbler - Super Pac-gal - Super Puckman"
+	description "ZZZ-UNK-[compil4] Ms. Pac-man - Ms. Pac-man - Cheat Version - Ms. Pac-man Deluxe - Nibbler - Super Pac-gal - Super Puckman"
+	rom ( name "ZZZ-UNK-[compil4] Ms. Pac-man - Ms. Pac-man - Cheat Version - Ms. Pac-man Deluxe - Nibbler - Super Pac-gal - Super Puckman.do" size 143360 crc 954cc579 md5 611214799c281e943ef5b3cdbf783a0b )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Ms. Pac-man - Picprint"
+	description "ZZZ-UNK-[compil4] Ms. Pac-man - Picprint"
+	rom ( name "ZZZ-UNK-[compil4] Ms. Pac-man - Picprint.do" size 143360 crc 960162e4 md5 87a8e3563e8ae6975fd560cf9134352c )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Munch-a-bug - Soft Step - Symbol Symon"
+	description "ZZZ-UNK-[compil4] Munch-a-bug - Soft Step - Symbol Symon"
+	rom ( name "ZZZ-UNK-[compil4] Munch-a-bug - Soft Step - Symbol Symon.do" size 143360 crc 5bf689a6 md5 f5df444cc2be1be8dd67fbcbdff13dfb )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Narnia - O'riley's Mine - Pitfall - Pitfall Ii"
+	description "ZZZ-UNK-[compil4] Narnia - O'riley's Mine - Pitfall - Pitfall Ii"
+	rom ( name "ZZZ-UNK-[compil4] Narnia - O'riley's Mine - Pitfall - Pitfall Ii.do" size 143360 crc 8f88b5a4 md5 a53079a1fef4c7d135c164b8ffe874ff )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Night Mission Pinball - Taxman- Cheat Version - Choplifter - Asteroid Field"
+	description "ZZZ-UNK-[compil4] Night Mission Pinball - Taxman- Cheat Version - Choplifter - Asteroid Field"
+	rom ( name "ZZZ-UNK-[compil4] Night Mission Pinball - Taxman- Cheat Version - Choplifter - Asteroid Field.do" size 143360 crc 153a3dea md5 79773c82cc725549fb9be20c14c95249 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Orbitron - Pulsar ][ - Rings Of Saturn - Starmines"
+	description "ZZZ-UNK-[compil4] Orbitron - Pulsar ][ - Rings Of Saturn - Starmines"
+	rom ( name "ZZZ-UNK-[compil4] Orbitron - Pulsar ][ - Rings Of Saturn - Starmines.do" size 143360 crc 2eed221f md5 5b9ef616a12e59c8ee241b2d7fa30146 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Q-bit"
+	description "ZZZ-UNK-[compil4] Q-bit"
+	rom ( name "ZZZ-UNK-[compil4] Q-bit.do" size 143360 crc 1ee4172f md5 b4a4a8087ce6c6e34df6f30564fa777a )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Rubikscube - Lotteryboss - Selfevaluation"
+	description "ZZZ-UNK-[compil4] Rubikscube - Lotteryboss - Selfevaluation"
+	rom ( name "ZZZ-UNK-[compil4] Rubikscube - Lotteryboss - Selfevaluation.do" size 143360 crc f9a04338 md5 593d64fcf034f5c708e5bcd628ddf903 )
+)
+
+game (
+	name "ZZZ-UNK-[compil4] Scott Adams 1-5 - Adventureland - Pirate Adventure - Mission Impossible - Voodoo Castle - The Count"
+	description "ZZZ-UNK-[compil4] Scott Adams 1-5 - Adventureland - Pirate Adventure - Mission Impossible - Voodoo Castle - The Count"
+	rom ( name "ZZZ-UNK-[compil4] Scott Adams 1-5 - Adventureland - Pirate Adventure - Mission Impossible - Voodoo Castle - The Count.do" size 143360 crc bdfa08f8 md5 01ad2c22b7d631cbacfd03b0a9676c07 )
+)
+
+game (
+	name "ZZZ-UNK-Arcade1 (19xx)(-)"
+	description "ZZZ-UNK-Arcade1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Arcade1 (19xx)(-).do" size 143360 crc a3fd1533 md5 38d85699a686069f56830cd8c1abe9fd )
+)
+
+game (
+	name "ZZZ-UNK-Arcade2 (19xx)(-)"
+	description "ZZZ-UNK-Arcade2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Arcade2 (19xx)(-).do" size 143360 crc 2f9a0b2b md5 f416e78379eb87c01e49abbc217d8b70 )
+)
+
+game (
+	name "ZZZ-UNK-Atari1 (19xx)(-)"
+	description "ZZZ-UNK-Atari1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Atari1 (19xx)(-).do" size 143360 crc d1394bd4 md5 5fba596ffc1354a09cd0e356115fe2ba )
+)
+
+game (
+	name "ZZZ-UNK-Basic Games_hangman_jigsaw Puzzle_reverse_followme_yahtzee (19xx)(-)"
+	description "ZZZ-UNK-Basic Games_hangman_jigsaw Puzzle_reverse_followme_yahtzee (19xx)(-)"
+	rom ( name "ZZZ-UNK-Basic Games_hangman_jigsaw Puzzle_reverse_followme_yahtzee (19xx)(-).do" size 143360 crc d2ea518c md5 248faa8d9ca26da19a3c9b5cf1ae93ed )
+)
+
+game (
+	name "ZZZ-UNK-Bbshow Deltadrawii Ezdraw Graphicstoolbox Jln"
+	description "ZZZ-UNK-Bbshow Deltadrawii Ezdraw Graphicstoolbox Jln"
+	rom ( name "ZZZ-UNK-Bbshow Deltadrawii Ezdraw Graphicstoolbox Jln.do" size 143360 crc 7bd670b7 md5 0ced2ee4b93ff97971baf0704d97f47e )
+)
+
+game (
+	name "ZZZ-UNK-Bolo - Cheat Version, Pest Patrol, Serpentine"
+	description "ZZZ-UNK-Bolo - Cheat Version, Pest Patrol, Serpentine"
+	rom ( name "ZZZ-UNK-Bolo - Cheat Version, Pest Patrol, Serpentine.do" size 143360 crc 21d88159 md5 392821e4f549e72faf915c0447adb635 )
+)
+
+game (
+	name "ZZZ-UNK-Dosbossi&ii_diskquik_pronto-dos (19xx)(-)"
+	description "ZZZ-UNK-Dosbossi&ii_diskquik_pronto-dos (19xx)(-)"
+	rom ( name "ZZZ-UNK-Dosbossi&ii_diskquik_pronto-dos (19xx)(-).do" size 143360 crc 16b12c75 md5 eb7ef087b428e737409648b2ec8582f5 )
+)
+
+game (
+	name "ZZZ-UNK-games3"
+	description "ZZZ-UNK-games3"
+	rom ( name "ZZZ-UNK-games3.do" size 143360 crc d94e6ea0 md5 70df75e969a65b9aba292673fb331354 )
+)
+
+game (
+	name "ZZZ-UNK-Mario [compil]"
+	description "ZZZ-UNK-Mario [compil]"
+	rom ( name "ZZZ-UNK-Mario [compil].do" size 143360 crc 1efc9e36 md5 46133621bf3f6ac95c638715303187db )
+)
+
+game (
+	name "ZZZ-UNK-Pest (19xx)(-)"
+	description "ZZZ-UNK-Pest (19xx)(-)"
+	rom ( name "ZZZ-UNK-Pest (19xx)(-).do" size 143360 crc bac2dcb4 md5 b4070e6b657659997238f6724e88936f )
+)
+
+game (
+	name "ZZZ-UNK-scott adams 1-4, 6-7, 9 - adventureland, pirate adventure, mission impossible, voodoo castle, strange odyssey, mystery fun house, ghost town"
+	description "ZZZ-UNK-scott adams 1-4, 6-7, 9 - adventureland, pirate adventure, mission impossible, voodoo castle, strange odyssey, mystery fun house, ghost town"
+	rom ( name "ZZZ-UNK-scott adams 1-4, 6-7, 9 - adventureland, pirate adventure, mission impossible, voodoo castle, strange odyssey, mystery fun house, ghost town.do" size 143360 crc df5a8ba1 md5 b51d50858d5daffccb66f6cee2480967 )
+)
+
+game (
+	name "ZZZ-UNK-scott adams adventures. 6-12 (19xx)(-)"
+	description "ZZZ-UNK-scott adams adventures. 6-12 (19xx)(-)"
+	rom ( name "ZZZ-UNK-scott adams adventures. 6-12 (19xx)(-).do" size 143360 crc 9cd2d8db md5 5e0605ab7fc8f3028f713ad16dffe557 )
+)
+
+game (
+	name "ZZZ-UNK-scottadamstextadventuresl7-12"
+	description "ZZZ-UNK-scottadamstextadventuresl7-12"
+	rom ( name "ZZZ-UNK-scottadamstextadventuresl7-12.do" size 143360 crc 785badae md5 e846eeb2aeba11c5a7b6af569224aae7 )
+)
+
+game (
+	name "ZZZ-UNK-Shootem (19xx)(-)"
+	description "ZZZ-UNK-Shootem (19xx)(-)"
+	rom ( name "ZZZ-UNK-Shootem (19xx)(-).do" size 143360 crc 76adec6a md5 e0126cfc262173bce1f987e7204c8ba9 )
+)
+
+game (
+	name "ZZZ-UNK-Sports Games (19xx)(-)"
+	description "ZZZ-UNK-Sports Games (19xx)(-)"
+	rom ( name "ZZZ-UNK-Sports Games (19xx)(-).do" size 143360 crc d47d2ff1 md5 c1df5c4c86cc9fef69671fe63dd0600c )
+)
+
+game (
+	name "ZZZ-UNK-Spyhunter_&_mario (19xx)(-)"
+	description "ZZZ-UNK-Spyhunter_&_mario (19xx)(-)"
+	rom ( name "ZZZ-UNK-Spyhunter_&_mario (19xx)(-).do" size 143360 crc b7930315 md5 392c93a49d4c72327a60c6c645e07c66 )
+)

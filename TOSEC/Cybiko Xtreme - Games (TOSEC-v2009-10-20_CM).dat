@@ -1,0 +1,38 @@
+clrmamepro (
+	name "Cybiko Xtreme - Games"
+	description "Cybiko Xtreme - Games (TOSEC-v2009-10-20)"
+	category "Cybiko Xtreme - Games"
+	version 2009-10-20
+	author "Apache - Cassiel"
+)
+
+game (
+	name "Battle Tower Xtreme (200x)(Jace D.)(PD)"
+	description "Battle Tower Xtreme (200x)(Jace D.)(PD)"
+	rom ( name "Battle Tower Xtreme (200x)(Jace D.)(PD).app" size 22240 crc 7d834eca md5 22905a4a322c91fb1b417ec561eca074 )
+)
+
+game (
+	name "Boom! Xtreme (200x)(Perry, Andrew)(PD)"
+	description "Boom! Xtreme (200x)(Perry, Andrew)(PD)"
+	rom ( name "Boom! Xtreme (200x)(Perry, Andrew)(PD).app" size 28642 crc b5ad36b7 md5 ffd7252b59067b751b3791b08116c12b )
+)
+
+game (
+	name "Dice Extreme v1.1.37 (200x)(Cybiko)"
+	description "Dice Extreme v1.1.37 (200x)(Cybiko)"
+	rom ( name "Dice Extreme v1.1.37 (200x)(Cybiko).app" size 50337 crc 57c7bd53 md5 5a0a2be067b2cf45bbd609ac0a1aca81 )
+)
+
+game (
+	name "Homerun Derby Xtreme (200x)(Jace D.)(PD)"
+	description "Homerun Derby Xtreme (200x)(Jace D.)(PD)"
+	rom ( name "Homerun Derby Xtreme (200x)(Jace D.)(PD).app" size 14478 crc d0d222fe md5 db3f361ab076fc3d045e0c1d2fad4450 )
+)
+
+game (
+	name "Mages Adventure Extreme (200x)(Jace D.)(PD)"
+	description "Mages Adventure Extreme (200x)(Jace D.)(PD)"
+	rom ( name "Mages Adventure Extreme (200x)(Jace D.)(PD).app" size 17094 crc de6fb47b md5 1ce7e8deef95724861d487bcb6b6978a )
+)
+

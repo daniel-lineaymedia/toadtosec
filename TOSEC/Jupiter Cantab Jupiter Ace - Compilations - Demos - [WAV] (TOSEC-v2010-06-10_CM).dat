@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Demos - [WAV]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Demos - [WAV] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Demos - [WAV]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)[3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)[3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)[3K].wav" size 1481846 crc 1ac56a45 md5 352423b2a2021d5454d63da360943af4 )
+)

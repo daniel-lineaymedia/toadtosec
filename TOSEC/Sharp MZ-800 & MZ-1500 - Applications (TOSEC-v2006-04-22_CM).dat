@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Sharp MZ-800 & MZ-1500 - Applications"
+	description "Sharp MZ-800 & MZ-1500 - Applications (TOSEC-v2006-04-22)"
+	category "Sharp MZ-800 & MZ-1500 - Applications"
+	version 2006-04-22
+	author "Cassiel"
+)
+
+game (
+	name "Adress Data (19xx)(BBG Software)"
+	description "Adress Data (19xx)(BBG Software)"
+	rom ( name "Adress Data (19xx)(BBG Software).mzf" size 4907 crc 0c6693c7 md5 d27a22a9fbbe63d5b9c42c9edf2e0795 )
+)

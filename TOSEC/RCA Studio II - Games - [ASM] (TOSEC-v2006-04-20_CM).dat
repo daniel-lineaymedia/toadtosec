@@ -1,0 +1,25 @@
+clrmamepro (
+	name "RCA Studio II - Games - [ASM]"
+	description "RCA Studio II - Games - [ASM] (TOSEC-v2006-04-20)"
+	category "RCA Studio II - Games - [ASM]"
+	version 2006-04-20
+	author "Gnomula - Grendel"
+)
+
+game (
+	name "Combat (2000)(Paul Robson)"
+	description "Combat (2000)(Paul Robson)"
+	rom ( name "Combat (2000)(Paul Robson).asm" size 31195 crc 92508ec6 md5 eccfdf8439b2188f63107f412da733ce )
+)
+
+game (
+	name "Hockey (2000)(Paul Robson)"
+	description "Hockey (2000)(Paul Robson)"
+	rom ( name "Hockey (2000)(Paul Robson).asm" size 24578 crc 75428ea6 md5 1c916bfbca1d9dc5a89d189d38902db7 )
+)
+
+game (
+	name "Space Invaders (2000)(Paul Robson)"
+	description "Space Invaders (2000)(Paul Robson)"
+	rom ( name "Space Invaders (2000)(Paul Robson).asm" size 33490 crc 33c74b00 md5 78ebe6f5333e25738b606121bb9d835e )
+)

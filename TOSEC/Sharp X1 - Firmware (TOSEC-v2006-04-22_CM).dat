@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Sharp X1 - Firmware"
+	description "Sharp X1 - Firmware (TOSEC-v2006-04-22)"
+	category "Sharp X1 - Firmware"
+	version 2006-04-22
+	author "Cassiel"
+)
+
+game (
+	name "Sharp X1 8x8 Font ROM (19xx)(-)"
+	description "Sharp X1 8x8 Font ROM (19xx)(-)"
+	rom ( name "Sharp X1 8x8 Font ROM (19xx)(-).bin" size 2048 crc e3995a57 md5 851e4a5936f17d13f8c39a980cf00d77 )
+)
+
+game (
+	name "Sharp X1 IPL ROM (19xx)(-)"
+	description "Sharp X1 IPL ROM (19xx)(-)"
+	rom ( name "Sharp X1 IPL ROM (19xx)(-).bin" size 4096 crc e70011d3 md5 eeeea1cd29c6e0e8b094790ae969bfa7 )
+)

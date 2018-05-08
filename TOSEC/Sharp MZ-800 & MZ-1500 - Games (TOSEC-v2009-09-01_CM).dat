@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Sharp MZ-800 & MZ-1500 - Games"
+	description "Sharp MZ-800 & MZ-1500 - Games (TOSEC-v2009-09-01)"
+	category "Sharp MZ-800 & MZ-1500 - Games"
+	version 2009-09-01
+	author "Cassiel"
+)
+
+game (
+	name "Highway (19xx)(Vortex - Ladinek)"
+	description "Highway (19xx)(Vortex - Ladinek)"
+	rom ( name "Highway (19xx)(Vortex - Ladinek).mzf" size 32934 crc 1a874748 md5 5e87f4b86d6001582e18c8acf511d590 )
+)
+
+game (
+	name "James v1.0c (19xx)(Pilsoft)(cs)"
+	description "James v1.0c (19xx)(Pilsoft)(cs)"
+	rom ( name "James v1.0c (19xx)(Pilsoft)(cs).mzf" size 20096 crc c1d09b07 md5 bcd51d2c108ee2733b9da026266ed8ae )
+)
+
+game (
+	name "Uridium (1990)(Hewson - Petr Patik)"
+	description "Uridium (1990)(Hewson - Petr Patik)"
+	rom ( name "Uridium (1990)(Hewson - Petr Patik).mzf" size 44672 crc 1664e09b md5 b03c6506fcec038a513559bee616cf1a )
+)

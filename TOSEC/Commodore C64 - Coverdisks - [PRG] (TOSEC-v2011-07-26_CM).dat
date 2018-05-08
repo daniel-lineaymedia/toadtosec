@@ -1,0 +1,409 @@
+clrmamepro (
+	name "Commodore C64 - Coverdisks - [PRG]"
+	description "Commodore C64 - Coverdisks - [PRG] (TOSEC-v2011-07-26)"
+	category "Commodore C64 - Coverdisks - [PRG]"
+	version 2011-07-26
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Commodore Magazine Example Scroll (19xx)(Commodore Magazine)"
+	description "Commodore Magazine Example Scroll (19xx)(Commodore Magazine)"
+	rom ( name "Commodore Magazine Example Scroll (19xx)(Commodore Magazine).prg" size 1439 crc 0cfd1b05 md5 8b06cd4f0b3ce56c4a641f564cab5bbe sha1 5ad407480674cbfd1416db6e7e61170945b252bc )
+)
+
+game (
+	name "Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a]"
+	description "Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a]"
+	rom ( name "Commodore Magazine Example Scroll (19xx)(Commodore Magazine)[a].prg" size 1444 crc b59d5915 md5 2f19e6dac2a3f47864d0763435a03195 sha1 49adb3c9db545f9b13a7e2dd95b6019790c3a058 )
+)
+
+game (
+	name "Lenguaje Maquina # - Bolera (19xx)(-)(es)"
+	description "Lenguaje Maquina # - Bolera (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - Bolera (19xx)(-)(es).prg" size 57257 crc 76a506d8 md5 bff84ac44301958ecf698a534559419b sha1 f2097c134af60610cce711e72cdc6458ba3b481d )
+)
+
+game (
+	name "Lenguaje Maquina # - Ciclismo (19xx)(-)(es)"
+	description "Lenguaje Maquina # - Ciclismo (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - Ciclismo (19xx)(-)(es).prg" size 59381 crc ac6e613d md5 be932067f2a50282088dc28b00b19ee8 sha1 613a23148aab789fd9bb9798b8aff19714a5e1f9 )
+)
+
+game (
+	name "Lenguaje Maquina # - City Express (19xx)(-)(es)"
+	description "Lenguaje Maquina # - City Express (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - City Express (19xx)(-)(es).prg" size 54879 crc bb812095 md5 8f1a1242babd2cd99f7a90044bb07bdc sha1 ee13cc53209f46f21385193677da4abbf8279d43 )
+)
+
+game (
+	name "Lenguaje Maquina # - El Sueno (19xx)(-)(es)"
+	description "Lenguaje Maquina # - El Sueno (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - El Sueno (19xx)(-)(es).prg" size 48184 crc 847c7781 md5 6458c2dfd3204babc8e281d09f59858a sha1 5eb453702e80b15916711d37cdab3dc8b3ea5c4a )
+)
+
+game (
+	name "Lenguaje Maquina # - M-A-N-I-A (19xx)(-)(es)"
+	description "Lenguaje Maquina # - M-A-N-I-A (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - M-A-N-I-A (19xx)(-)(es).prg" size 27137 crc 66bb8a5c md5 c29a73d388d64e9272cf985c9abd87f9 sha1 ea4591b096bcd3cd225d18ce58c993862e94c6f9 )
+)
+
+game (
+	name "Lenguaje Maquina # - Mision X (19xx)(-)(es)"
+	description "Lenguaje Maquina # - Mision X (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - Mision X (19xx)(-)(es).prg" size 50285 crc e79ff2e6 md5 66be555bfc6846725e9fd58bba1f73f4 sha1 be0a482061719e30c4c2e07bc2f9ad798c3ebd20 )
+)
+
+game (
+	name "Lenguaje Maquina # - Sonar (19xx)(-)(es)"
+	description "Lenguaje Maquina # - Sonar (19xx)(-)(es)"
+	rom ( name "Lenguaje Maquina # - Sonar (19xx)(-)(es).prg" size 37029 crc 2e473e75 md5 c50591abc32b768f4c733b537f727072 sha1 eb605f11c5cadf28953a2467e974260e23d504f0 )
+)
+
+game (
+	name "Load'n'Run # - Aliens (1985)(-)(es)"
+	description "Load'n'Run # - Aliens (1985)(-)(es)"
+	rom ( name "Load'n'Run # - Aliens (1985)(-)(es).prg" size 11361 crc 99cc18e5 md5 1de3c6ae583203dc82a945f9c95587ee sha1 6ec38b7c0c88f20d26cf07aa3039474b604ce32a )
+)
+
+game (
+	name "Load'n'Run # - Asteroide (19xx)(-)(es)"
+	description "Load'n'Run # - Asteroide (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Asteroide (19xx)(-)(es).prg" size 15105 crc fd0caf98 md5 093d75805176229645f5ada782f2547e sha1 464938f17d9e3ff1b9c2b740fb1b2eb52e39498f )
+)
+
+game (
+	name "Load'n'Run # - Astro Joe (19xx)(-)(es)"
+	description "Load'n'Run # - Astro Joe (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Astro Joe (19xx)(-)(es).prg" size 47600 crc 87bd2a83 md5 3a9beb1c33b440aed4dcec90ba55c1d5 sha1 eb2c8fe4765cdbd14d6b67069a443469a298423d )
+)
+
+game (
+	name "Load'n'Run # - Astroman (19xx)(-)(es)"
+	description "Load'n'Run # - Astroman (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Astroman (19xx)(-)(es).prg" size 24580 crc 7314c190 md5 7bded7716d1757f0fd5606fe7f0c3439 sha1 65309975d0d3103b54ba018b17898b79ad580725 )
+)
+
+game (
+	name "Load'n'Run # - Bagdad (19xx)(-)(es)"
+	description "Load'n'Run # - Bagdad (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Bagdad (19xx)(-)(es).prg" size 3974 crc b9adc77a md5 b87e5b61741f02f2509ce994a08a6fe8 sha1 8f9ed3d7cad8d824468c3c00212ce8f66cedf5be )
+)
+
+game (
+	name "Load'n'Run # - El Baloncesto (19xx)(-)(es)"
+	description "Load'n'Run # - El Baloncesto (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - El Baloncesto (19xx)(-)(es).prg" size 36521 crc 6851eccb md5 16935e3e1cea1997547af8e9ee4e3ee0 sha1 2817faf2f6ecab822c060afea52335958a438c19 )
+)
+
+game (
+	name "Load'n'Run # - En Pista (19xx)(-)(es)"
+	description "Load'n'Run # - En Pista (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - En Pista (19xx)(-)(es).prg" size 56211 crc 49cb7f55 md5 a8afb3b5d74e64fd184d86d8b16cad47 sha1 01eed03aa28f45be8bcb0c07b262470c60d638d5 )
+)
+
+game (
+	name "Load'n'Run # - Falco (19xx)(-)(es)"
+	description "Load'n'Run # - Falco (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Falco (19xx)(-)(es).prg" size 45340 crc df4bfa38 md5 961cbd3dd9eecee071c3dda5e7f9e1e8 sha1 842ec002f088ad9a97569fdbaaa8d4e5d4fa8e42 )
+)
+
+game (
+	name "Load'n'Run # - Guerra Spacial (19xx)(-)(es)"
+	description "Load'n'Run # - Guerra Spacial (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Guerra Spacial (19xx)(-)(es).prg" size 28321 crc 92b2354c md5 537d4600d55b38c91f2f4bf13d96c8f3 sha1 23f4ea6cd88bae4a1d6cb7198014095df41f088e )
+)
+
+game (
+	name "Load'n'Run # - La Peonza (19xx)(-)(es)"
+	description "Load'n'Run # - La Peonza (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - La Peonza (19xx)(-)(es).prg" size 56842 crc 38ad5eca md5 e3051a6fe26b40910a73df0432967b82 sha1 ac363bd3b7bb05a2b915ea2f33f83ed7749e93be )
+)
+
+game (
+	name "Load'n'Run # - Las Aguilas (1985)(-)(es)"
+	description "Load'n'Run # - Las Aguilas (1985)(-)(es)"
+	rom ( name "Load'n'Run # - Las Aguilas (1985)(-)(es).prg" size 7440 crc 024c8a07 md5 ec6a33f264e6978ae425fcc09cf96a1d sha1 1f2be275cc85deef0152214e809d3ec7d9d280a8 )
+)
+
+game (
+	name "Load'n'Run # - Meteoro (19xx)(-)(es)"
+	description "Load'n'Run # - Meteoro (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Meteoro (19xx)(-)(es).prg" size 59157 crc 8f30fc54 md5 c7f92071a3e986ae8a9c0aefb4a12932 sha1 e67657bb0815755ad3f738e17d0826b9226ce776 )
+)
+
+game (
+	name "Load'n'Run # - Piramide (19xx)(-)(es)"
+	description "Load'n'Run # - Piramide (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Piramide (19xx)(-)(es).prg" size 14337 crc 98db6fe2 md5 18c188154411adc562b049bb1640f7c7 sha1 9d8b7b461c96b7115fe14d97f9bc096d49132683 )
+)
+
+game (
+	name "Load'n'Run # - Rescate en la Montana (19xx)(-)(es)"
+	description "Load'n'Run # - Rescate en la Montana (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Rescate en la Montana (19xx)(-)(es).prg" size 5729 crc 34a0df65 md5 37252ce2132299b85935c8367034b069 sha1 12b019aa70bd8bbba16d2e7ac9afb227fd6181f5 )
+)
+
+game (
+	name "Load'n'Run # - Sky Nautico (19xx)(-)(es)"
+	description "Load'n'Run # - Sky Nautico (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Sky Nautico (19xx)(-)(es).prg" size 11825 crc bbe87ef0 md5 2a994f51f00d4443265d73d0f1276722 sha1 39a402686d5d836dc92a74f3d7c8e7a1d7447b0b )
+)
+
+game (
+	name "Load'n'Run # - Super Cheff (1986)(-)(es)"
+	description "Load'n'Run # - Super Cheff (1986)(-)(es)"
+	rom ( name "Load'n'Run # - Super Cheff (1986)(-)(es).prg" size 15616 crc f7f94a20 md5 e5d507370b004d089282b58bf0adb666 sha1 09c172ba73b79c4ba58df5a696bcc76fe9e9000a )
+)
+
+game (
+	name "Load'n'Run # - Supercar (19xx)(-)(es)"
+	description "Load'n'Run # - Supercar (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Supercar (19xx)(-)(es).prg" size 8449 crc d185ef37 md5 3c6c277e7f42a3ceac9d8e769bf1ec30 sha1 3aba6b9d98faad18b433254325135ca34874e2d7 )
+)
+
+game (
+	name "Load'n'Run # - Tumba Egipcia (19xx)(-)(es)"
+	description "Load'n'Run # - Tumba Egipcia (19xx)(-)(es)"
+	rom ( name "Load'n'Run # - Tumba Egipcia (19xx)(-)(es).prg" size 62450 crc 034cdc1d md5 c111da964df7a6babdfeb9399a47a126 sha1 77379b37c30cdf534f06bc2b36c44769b2459eba )
+)
+
+game (
+	name "Load'n'Run #1 85-03 - Disk Copia (1985)(-)(es)(Side A)"
+	description "Load'n'Run #1 85-03 - Disk Copia (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #1 85-03 - Disk Copia (1985)(-)(es)(Side A).prg" size 2609 crc 9f6e3215 md5 82e089bcbd48935eb048cf4f3cfc9f8a sha1 bac0d2ab3134ba9bf5b023bba376009d31bead1c )
+)
+
+game (
+	name "Load'n'Run #1 85-03 - Fonambulo (1985)(-)(es)(Side A)"
+	description "Load'n'Run #1 85-03 - Fonambulo (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #1 85-03 - Fonambulo (1985)(-)(es)(Side A).prg" size 16675 crc 2dc7ec07 md5 8a514992028850c6e3328d36c3e4f410 sha1 de0e5d8396b0360b11956bdefd8d84bbfe8c7451 )
+)
+
+game (
+	name "Load'n'Run #1 85-03 - Magic Flipper (1985)(-)(es)(Side B)"
+	description "Load'n'Run #1 85-03 - Magic Flipper (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #1 85-03 - Magic Flipper (1985)(-)(es)(Side B).prg" size 38481 crc e6b281af md5 80dce126f13ebfef5029953085fa3bd9 sha1 b06c0925584ebd8894a782c9ec5a66400eea0fb7 )
+)
+
+game (
+	name "Load'n'Run #1 85-03 - Tornado (1985)(-)(es)(Side A)"
+	description "Load'n'Run #1 85-03 - Tornado (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #1 85-03 - Tornado (1985)(-)(es)(Side A).prg" size 22433 crc a3a88296 md5 99bf28000e54ad3a8c32e32f3a72b72d sha1 5a7bbc41a199fed4f75616c590c978759c22c42b )
+)
+
+game (
+	name "Load'n'Run #1 85-03 - Turbo Tape (1985)(-)(es)(Side A)"
+	description "Load'n'Run #1 85-03 - Turbo Tape (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #1 85-03 - Turbo Tape (1985)(-)(es)(Side A).prg" size 2049 crc 3acd961f md5 d0036f9623664e8e237a60c810798f8b sha1 d8458dff95442a451bd4c95c96ad8eb26e683008 )
+)
+
+game (
+	name "Load'n'Run #4 85-06 - Puzzle (1985)(-)(es)(Side A)"
+	description "Load'n'Run #4 85-06 - Puzzle (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #4 85-06 - Puzzle (1985)(-)(es)(Side A).prg" size 10244 crc 0b7c777c md5 c2a5fd70f0716824ed9156364021782c sha1 e08fccde0acda19b49e031160672435f90aef18c )
+)
+
+game (
+	name "Load'n'Run #4 85-06 - Red (1985)(-)(es)(Side B)"
+	description "Load'n'Run #4 85-06 - Red (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #4 85-06 - Red (1985)(-)(es)(Side B).prg" size 10241 crc 613cb10b md5 37f7f2a803e75ea0c26c425863724b46 sha1 5dbbccb7358330a6568851b93bd22c0f8afd8ce3 )
+)
+
+game (
+	name "Load'n'Run #4 85-06 - Smolly (1985)(-)(es)(Side B)"
+	description "Load'n'Run #4 85-06 - Smolly (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #4 85-06 - Smolly (1985)(-)(es)(Side B).prg" size 28666 crc def7ccff md5 38745c883bb0aa659c37addcefc7dd81 sha1 5a0e87f449983f193fc14def20a8f567e48cd10b )
+)
+
+game (
+	name "Load'n'Run #4 85-06 - Sub (1985)(-)(es)(Side B)"
+	description "Load'n'Run #4 85-06 - Sub (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #4 85-06 - Sub (1985)(-)(es)(Side B).prg" size 31560 crc 52a3dd86 md5 8f80f85347c0202c193aad0a2c9c2d39 sha1 112913b6013882ff16c3f29d78528d3d513c5b2a )
+)
+
+game (
+	name "Load'n'Run #5 85-08 - Helimision (1985)(-)(es)(Side A)"
+	description "Load'n'Run #5 85-08 - Helimision (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #5 85-08 - Helimision (1985)(-)(es)(Side A).prg" size 16643 crc 924d5735 md5 f831f1ef0074a6b3af4f961ac6075bde sha1 0738f3ca85a62cd6dac61ac52fb6a09c0889a605 )
+)
+
+game (
+	name "Load'n'Run #5 85-08 - Rescate (1985)(-)(es)(Side A)"
+	description "Load'n'Run #5 85-08 - Rescate (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #5 85-08 - Rescate (1985)(-)(es)(Side A).prg" size 22534 crc 802836a8 md5 fce0b5ce341c10275d9bf60e47a3bbb6 sha1 8d15f3b7b6fa6a7c5bdb6dfced82abd892fbd506 )
+)
+
+game (
+	name "Load'n'Run #5 85-08 - Saltimbanquis (1985)(-)(es)(Side A)"
+	description "Load'n'Run #5 85-08 - Saltimbanquis (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #5 85-08 - Saltimbanquis (1985)(-)(es)(Side A).prg" size 8450 crc cba4bb65 md5 d57a0454443631186cf33cbd7f41318b sha1 d24d9d1d865ad03964474a354fca1cba31b5f348 )
+)
+
+game (
+	name "Load'n'Run #6 85-09 - Gran Bolea (1985)(-)(es)(Side B)"
+	description "Load'n'Run #6 85-09 - Gran Bolea (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #6 85-09 - Gran Bolea (1985)(-)(es)(Side B).prg" size 35953 crc a7e9d75c md5 a3e70deb8822e855bcd3e6852763ae36 sha1 d4f1cae843e239fa48e60863b1d898477b17bc88 )
+)
+
+game (
+	name "Load'n'Run #6 85-09 - Piramidal (1985)(-)(es)(Side A)"
+	description "Load'n'Run #6 85-09 - Piramidal (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #6 85-09 - Piramidal (1985)(-)(es)(Side A).prg" size 47324 crc e323608a md5 262f40a7d8c580fc82fba778c2fd048f sha1 be88e797747c0a4f6f93bf5dfc0bd06a5b498a60 )
+)
+
+game (
+	name "Load'n'Run #6 85-09 - Rocky (1985)(-)(es)(Side A)"
+	description "Load'n'Run #6 85-09 - Rocky (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #6 85-09 - Rocky (1985)(-)(es)(Side A).prg" size 16257 crc 6e0bc363 md5 60caabc8e6e7bc8e1302b260578f3123 sha1 9862302108fbf23e6f7bf03a1ce60ff94e16d7be )
+)
+
+game (
+	name "Load'n'Run #7 85-10 - El Cazador (1985)(-)(es)(Side B)"
+	description "Load'n'Run #7 85-10 - El Cazador (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #7 85-10 - El Cazador (1985)(-)(es)(Side B).prg" size 8961 crc d9a809f2 md5 96183c09bfb07b78fd87c93811c8bd7f sha1 71ae719095553df09e165aae07927a2e28bf5bde )
+)
+
+game (
+	name "Load'n'Run #7 85-10 - Slalom (1985)(-)(es)(Side B)"
+	description "Load'n'Run #7 85-10 - Slalom (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #7 85-10 - Slalom (1985)(-)(es)(Side B).prg" size 29959 crc 04e4752c md5 37cef8cb8b38580df1d05ef54c99aa00 sha1 52704dfe5e31ce50a8ac905c852c0df44f0eb044 )
+)
+
+game (
+	name "Load'n'Run #8 85-11 - Draculon (1985)(-)(es)(Side A)"
+	description "Load'n'Run #8 85-11 - Draculon (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #8 85-11 - Draculon (1985)(-)(es)(Side A).prg" size 51049 crc b135c95c md5 042961291706efe442e8a4c1ba7cfb0b sha1 c3eda439655c8decd5e7e16b0fec66a6cdc2ae43 )
+)
+
+game (
+	name "Load'n'Run #8 85-11 - Galactica (1985)(-)(es)(Side A)"
+	description "Load'n'Run #8 85-11 - Galactica (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #8 85-11 - Galactica (1985)(-)(es)(Side A).prg" size 18180 crc 260f8da0 md5 e8b12fc461158d4287072b85bef72b63 sha1 0a226bb7d90db02167cd530983a1956e7fdc30d1 )
+)
+
+game (
+	name "Load'n'Run #8 85-11 - Goldi Gold (1985)(-)(es)(Side B)"
+	description "Load'n'Run #8 85-11 - Goldi Gold (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #8 85-11 - Goldi Gold (1985)(-)(es)(Side B).prg" size 38785 crc 9d9dd551 md5 98cd12be25dfcf1b061b7b3fbedde26b sha1 0b590d7f971e4877bae68a46fedb751973bf3339 )
+)
+
+game (
+	name "Load'n'Run #8 85-11 - Runner (1985)(-)(es)(Side B)"
+	description "Load'n'Run #8 85-11 - Runner (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #8 85-11 - Runner (1985)(-)(es)(Side B).prg" size 12801 crc 0409afef md5 d0de163f9fe8534458a8aefa5f44413b sha1 cd7a471c6721391df47b316d2ca9220fb5521a4a )
+)
+
+game (
+	name "Load'n'Run #9 85-12 - Olympia (1985)(-)(es)(Side B)"
+	description "Load'n'Run #9 85-12 - Olympia (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #9 85-12 - Olympia (1985)(-)(es)(Side B).prg" size 47022 crc 8e18f504 md5 e68be189191c53e8fdb6d757adeb76e2 sha1 3a4c4d18d7de1608a290e01a976e1c35e1edb517 )
+)
+
+game (
+	name "Load'n'Run #9 85-12 - Robert Rober (1985)(-)(es)(Side A)"
+	description "Load'n'Run #9 85-12 - Robert Rober (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run #9 85-12 - Robert Rober (1985)(-)(es)(Side A).prg" size 47105 crc 56c38760 md5 cd8162fbdf48966993cfb3ed3f115bd1 sha1 97be849b898bc7d7ef5921719cd65bc88af59c4b )
+)
+
+game (
+	name "Load'n'Run #9 85-12 - Robin II (1985)(-)(es)(Side B)"
+	description "Load'n'Run #9 85-12 - Robin II (1985)(-)(es)(Side B)"
+	rom ( name "Load'n'Run #9 85-12 - Robin II (1985)(-)(es)(Side B).prg" size 24690 crc e3d71fe6 md5 2df0dc5c2fb3c78a0b717fe7f7aa9e9a sha1 6e2fb7ae4d9758f27bd19b461230300d11d58213 )
+)
+
+game (
+	name "Load'n'Run Extra 85-12 - Ciudad Perdida (1985)(-)(es)(Side A)"
+	description "Load'n'Run Extra 85-12 - Ciudad Perdida (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run Extra 85-12 - Ciudad Perdida (1985)(-)(es)(Side A).prg" size 47105 crc 6e72f952 md5 7c55fa6cf02d702ec0499d725e718eb0 sha1 a9d5180734e84f0849ca2c2ee4e87795466474ae )
+)
+
+game (
+	name "Load'n'Run Extra 85-12 - Dia X Hora H (1985)(-)(es)(Side A)"
+	description "Load'n'Run Extra 85-12 - Dia X Hora H (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run Extra 85-12 - Dia X Hora H (1985)(-)(es)(Side A).prg" size 49665 crc e89112e1 md5 fc0df2ddfe905a9cc93ebc32b810c846 sha1 36ee6dbe175b0b414e541c24ed702de3bc4133ea )
+)
+
+game (
+	name "Load'n'Run Extra 85-12 - Guerra Galaxia (1985)(-)(es)(Side A)"
+	description "Load'n'Run Extra 85-12 - Guerra Galaxia (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run Extra 85-12 - Guerra Galaxia (1985)(-)(es)(Side A).prg" size 22530 crc ea650c83 md5 09847ec19c1148c02382c83fdf7d26ba sha1 c0e258cc3df9448d5d749ea100f0f0d01309e0ab )
+)
+
+game (
+	name "Load'n'Run Extra 85-12 - Serpentin (1985)(-)(es)(Side A)"
+	description "Load'n'Run Extra 85-12 - Serpentin (1985)(-)(es)(Side A)"
+	rom ( name "Load'n'Run Extra 85-12 - Serpentin (1985)(-)(es)(Side A).prg" size 17169 crc 9d81b8fc md5 254e668757fa8d4c5f98f11725dae106 sha1 c745300a3000eec96eaa4347ff7ca71f2fb01865 )
+)
+
+game (
+	name "Stars Commodore # - Bingo Bongo (19xx)(-)(es)"
+	description "Stars Commodore # - Bingo Bongo (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - Bingo Bongo (19xx)(-)(es).prg" size 23316 crc deae72c0 md5 a08c19b754376d66a03e2c21acc29abf sha1 cf17f34e2aa7cf6b7404aa8a2080c88490bf9737 )
+)
+
+game (
+	name "Stars Commodore # - Cavernicola (19xx)(-)(es)"
+	description "Stars Commodore # - Cavernicola (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - Cavernicola (19xx)(-)(es).prg" size 35073 crc 10f6f1cf md5 b6cdf0d3da869f41021de131f333edce sha1 c73612b3bd978306414b8f554e91bd34634f966a )
+)
+
+game (
+	name "Stars Commodore # - El Muro (19xx)(-)(es)"
+	description "Stars Commodore # - El Muro (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - El Muro (19xx)(-)(es).prg" size 30553 crc 16739c83 md5 07a06acdf8c1c5d8fd98e99002787363 sha1 0760cf9c43640269ff970fb1d788aac4e4b2d8b3 )
+)
+
+game (
+	name "Stars Commodore # - Enterrador (19xx)(-)(es)"
+	description "Stars Commodore # - Enterrador (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - Enterrador (19xx)(-)(es).prg" size 12356 crc ab0ece57 md5 67417171d5ded733339fe99a566a6a3c sha1 93a8b2af0ba112168ab043a6e8a10a65664f3c49 )
+)
+
+game (
+	name "Stars Commodore # - La Rana (19xx)(-)(es)"
+	description "Stars Commodore # - La Rana (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - La Rana (19xx)(-)(es).prg" size 16417 crc 5f9ada21 md5 f2b3ec70a9300d876c713e64b07a743b sha1 a27ba7826958615f0dcef34cba084fca4fb47c5a )
+)
+
+game (
+	name "Stars Commodore # - Pajaro Loco (19xx)(-)(es)"
+	description "Stars Commodore # - Pajaro Loco (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - Pajaro Loco (19xx)(-)(es).prg" size 33884 crc e1f9da8f md5 e54cbe66e65b6c4fe2875efe5fdbcd4c sha1 ad2672f628bffe9d2e92c6b58c52be00f9060004 )
+)
+
+game (
+	name "Stars Commodore # - Submarinista (19xx)(-)(es)"
+	description "Stars Commodore # - Submarinista (19xx)(-)(es)"
+	rom ( name "Stars Commodore # - Submarinista (19xx)(-)(es).prg" size 32513 crc 5f8d1574 md5 4bfd40b7817803efb9defcc1527fb2ff sha1 4ef9742717eacda5f4f1272d3cede7103900630d )
+)
+
+game (
+	name "Stars Commodore #1 85-09 - El Lampista (1985)(-)(es)"
+	description "Stars Commodore #1 85-09 - El Lampista (1985)(-)(es)"
+	rom ( name "Stars Commodore #1 85-09 - El Lampista (1985)(-)(es).prg" size 28945 crc 6213d4aa md5 b49dd696473fcbd55e95aa6cbed97046 sha1 65d90e9cbf73cfe399fad98ae48b12d22c8bfc7c )
+)
+
+game (
+	name "Stars Commodore #2 85-10 - Crack! (1985)(-)(es)"
+	description "Stars Commodore #2 85-10 - Crack! (1985)(-)(es)"
+	rom ( name "Stars Commodore #2 85-10 - Crack! (1985)(-)(es).prg" size 41985 crc 8ac57b71 md5 7d38f4b7d116794c30bb366c789250da sha1 0111c93b758ff332bf5efa596bc2146124d37979 )
+)
+
+game (
+	name "Stars Commodore #2 85-10 - La Feria (1985)(-)(es)"
+	description "Stars Commodore #2 85-10 - La Feria (1985)(-)(es)"
+	rom ( name "Stars Commodore #2 85-10 - La Feria (1985)(-)(es).prg" size 36865 crc 5d66b8de md5 5b72f5f4d8b853467dba9fb20a8c1d26 sha1 d43a93e354deeae72dfac97b72ee558d829a8165 )
+)
+
+game (
+	name "Stars Commodore #2 85-10 - La Profecia (1985)(-)(es)"
+	description "Stars Commodore #2 85-10 - La Profecia (1985)(-)(es)"
+	rom ( name "Stars Commodore #2 85-10 - La Profecia (1985)(-)(es).prg" size 25217 crc 52bd3f80 md5 b7cc49067caa494be7be2d20c3f2259c sha1 db18d6e30eb11e5e0f1178ef7d315e4e5c929e85 )
+)
+
+game (
+	name "Stars Commodore #2 85-10 - Noctambulo (1985)(-)(es)"
+	description "Stars Commodore #2 85-10 - Noctambulo (1985)(-)(es)"
+	rom ( name "Stars Commodore #2 85-10 - Noctambulo (1985)(-)(es).prg" size 38897 crc 2d486efa md5 116873033d4f929ec61fd66146645eed sha1 a72ddc7bc93d67c9e22d2f2964d1a00c66345eb5 )
+)

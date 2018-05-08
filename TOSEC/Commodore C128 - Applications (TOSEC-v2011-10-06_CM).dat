@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Commodore C128 - Applications"
+	description "Commodore C128 - Applications (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Applications"
+	version 2011-10-06
+	author "DesertWolf - Cassiel"
+)
+
+game (
+	name "Commodore 1571 Test & Demos Diskette with C128 DOS Shell (19xx)(Commodore)[b]"
+	description "Commodore 1571 Test & Demos Diskette with C128 DOS Shell (19xx)(Commodore)[b]"
+	rom ( name "Commodore 1571 Test & Demos Diskette with C128 DOS Shell (19xx)(Commodore)[b].d64" size 174848 crc 72d7d809 md5 11334ca4cacf4bde7a74ee9582f0033e sha1 8e452d7bccb36c3b72210092b50b516af806f704 )
+)
+
+game (
+	name "gateWay 128 (1996)(Creative Micro Designs)[Req GEOS]"
+	description "gateWay 128 (1996)(Creative Micro Designs)[Req GEOS]"
+	rom ( name "gateWay 128 (1996)(Creative Micro Designs)[Req GEOS].d64" size 174848 crc 7c68532a md5 ed635dbdfc85be0a4baaff5485deccdf sha1 ddb7f4fc9bed354819aafa84be4e7e6324fafdae )
+)
+

@@ -1,0 +1,157 @@
+clrmamepro (
+	name "Elektronika BK-0010-0011M - Compilations"
+	description "Elektronika BK-0010-0011M - Compilations (TOSEC-v2005-04-11)"
+	category "Elektronika BK-0010-0011M - Compilations"
+	version 2005-04-11
+	author "Grendel - Cid - Xtale"
+)
+
+game (
+	name "AO-Dos (19xx)(-)"
+	description "AO-Dos (19xx)(-)"
+	rom ( name "AO-Dos (19xx)(-).img" size 819200 crc fa85ab1e md5 cd80cc45639c43ab29b931fe9e47b2c0 )
+)
+
+game (
+	name "AO-Dos Best #1 (19xx)(-)"
+	description "AO-Dos Best #1 (19xx)(-)"
+	rom ( name "AO-Dos Best #1 (19xx)(-).img" size 819200 crc 1debf542 md5 f5efa13cd4c07a2f0eb081cbae0cd9d3 )
+)
+
+game (
+	name "AO-Dos Best #2 (19xx)(-)"
+	description "AO-Dos Best #2 (19xx)(-)"
+	rom ( name "AO-Dos Best #2 (19xx)(-).img" size 819200 crc 63e1593c md5 dc382755e06f6aa1c927ad62dfd5f5eb )
+)
+
+game (
+	name "AO-Dos Best #3 (19xx)(-)"
+	description "AO-Dos Best #3 (19xx)(-)"
+	rom ( name "AO-Dos Best #3 (19xx)(-).img" size 819200 crc 739de102 md5 2bea08d0b90127a90a192cd4252d7497 )
+)
+
+game (
+	name "AO-Dos Best #4 (19xx)(-)"
+	description "AO-Dos Best #4 (19xx)(-)"
+	rom ( name "AO-Dos Best #4 (19xx)(-).img" size 819200 crc 79bc5b21 md5 712e87b15eabaf8853a1661c8efbcf4b )
+)
+
+game (
+	name "AO-Dos Best #5 (19xx)(-)"
+	description "AO-Dos Best #5 (19xx)(-)"
+	rom ( name "AO-Dos Best #5 (19xx)(-).img" size 819200 crc 9315f51b md5 0d1858d516d40f8a4b4d30e6faf12fcb )
+)
+
+game (
+	name "AO-Dos Collection - Disk 01 (199x)(-)"
+	description "AO-Dos Collection - Disk 01 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 01 (199x)(-).img" size 819200 crc 9e9df4d0 md5 ae3517c4813297f4ba2c4bae26186e53 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 02 (199x)(-)"
+	description "AO-Dos Collection - Disk 02 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 02 (199x)(-).img" size 819200 crc 6ae9a414 md5 156c6044145a3e3dd0fc439820a7c8f9 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 03 (199x)(-)"
+	description "AO-Dos Collection - Disk 03 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 03 (199x)(-).img" size 819200 crc 1b861549 md5 5f0b1dfdb806c1d9f2991b8ca3be3780 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 04 (199x)(-)"
+	description "AO-Dos Collection - Disk 04 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 04 (199x)(-).img" size 819200 crc 00e92104 md5 f3d3525e8e9a97368a05c0b4ad61195f )
+)
+
+game (
+	name "AO-Dos Collection - Disk 05 (199x)(-)"
+	description "AO-Dos Collection - Disk 05 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 05 (199x)(-).img" size 819200 crc f22deab9 md5 984893d80e13bca26cd1a8905e11c698 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 06 (199x)(-)"
+	description "AO-Dos Collection - Disk 06 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 06 (199x)(-).img" size 819200 crc 59b5d44a md5 18dd640feffa5a6f0287ffc6965bbf7e )
+)
+
+game (
+	name "AO-Dos Collection - Disk 07 (199x)(-)"
+	description "AO-Dos Collection - Disk 07 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 07 (199x)(-).img" size 819200 crc f8cdef42 md5 91d37bd4e2fddffce6d2899ae6d7d0aa )
+)
+
+game (
+	name "AO-Dos Collection - Disk 08 (199x)(-)"
+	description "AO-Dos Collection - Disk 08 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 08 (199x)(-).img" size 819200 crc ef01f620 md5 8ddc7fd1249937b8f1d3759bdd306555 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 09 (199x)(-)"
+	description "AO-Dos Collection - Disk 09 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 09 (199x)(-).img" size 819200 crc 08dff14b md5 a91c224c167e348b5ed74c33d2702d2e )
+)
+
+game (
+	name "AO-Dos Collection - Disk 10 (199x)(-)"
+	description "AO-Dos Collection - Disk 10 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 10 (199x)(-).img" size 819200 crc bbca7b8c md5 d852fd840bdd8a1c0e00e36c764e6bf7 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 11 (199x)(-)"
+	description "AO-Dos Collection - Disk 11 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 11 (199x)(-).img" size 819200 crc 967a7ce3 md5 3abe0ce14d55d1295a1cd57e0bb8ab48 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 12 (199x)(-)"
+	description "AO-Dos Collection - Disk 12 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 12 (199x)(-).img" size 819200 crc d35ee09e md5 402e113dbaad4c9b0fcd92b327cdae5b )
+)
+
+game (
+	name "AO-Dos Collection - Disk 14 (199x)(-)"
+	description "AO-Dos Collection - Disk 14 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 14 (199x)(-).img" size 819200 crc ba5b1fe0 md5 b9d2edf29591f442c1e2fe62af41510b )
+)
+
+game (
+	name "AO-Dos Collection - Disk 15 (199x)(-)"
+	description "AO-Dos Collection - Disk 15 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 15 (199x)(-).img" size 409600 crc 56c39880 md5 43b0353693a2e4fb01f9b901be282d23 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 16 (199x)(-)"
+	description "AO-Dos Collection - Disk 16 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 16 (199x)(-).img" size 819200 crc 665d61ee md5 dc61a719f2896a31befc710b7cb48918 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 17 (199x)(-)"
+	description "AO-Dos Collection - Disk 17 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 17 (199x)(-).img" size 819200 crc 74e8cce8 md5 a52dd63ebde85a73033dcb0ce7853fb6 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 18 (199x)(-)"
+	description "AO-Dos Collection - Disk 18 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 18 (199x)(-).img" size 819200 crc 3eb2a876 md5 ca8ae300ef529b7db4e97edb03941167 )
+)
+
+game (
+	name "AO-Dos Collection - Disk 19 (199x)(-)"
+	description "AO-Dos Collection - Disk 19 (199x)(-)"
+	rom ( name "AO-Dos Collection - Disk 19 (199x)(-).img" size 819200 crc 731bbe0a md5 675f2805ca0fdb4d580753a8598bb2d9 )
+)
+
+game (
+	name "Games Compilation (19xx)(-)"
+	description "Games Compilation (19xx)(-)"
+	rom ( name "Games Compilation (19xx)(-).img" size 819200 crc 47391304 md5 e7461bf0c3751f413310111ad8f263a0 )
+)

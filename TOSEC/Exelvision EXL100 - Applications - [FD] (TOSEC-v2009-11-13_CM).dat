@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Exelvision EXL100 - Applications - [FD]"
+	description "Exelvision EXL100 - Applications - [FD] (TOSEC-v2009-11-13)"
+	category "Exelvision EXL100 - Applications - [FD]"
+	version 2009-11-13
+	author "TKaos"
+)
+
+game (
+	name "ExelDOS v1.4 (1986)(Exelvision)(FR)"
+	description "ExelDOS v1.4 (1986)(Exelvision)(FR)"
+	rom ( name "ExelDOS v1.4 (1986)(Exelvision)(FR).fd" size 655360 crc c5ac08c4 md5 16ea99a85c82e55ffcf5ed6c3770f0e9 )
+)

@@ -1,0 +1,1862 @@
+clrmamepro (
+	name "Commodore C64 - Diskmags - Commercial - [Z64]"
+	description "Commodore C64 - Diskmags - Commercial - [Z64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Diskmags - Commercial - [Z64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Ahoy Best of 1985 (1986)(Double L)"
+	description "Ahoy Best of 1985 (1986)(Double L)"
+	rom ( name "1!Ahoy Best of 1985 (1986)(Double L).z64" size 1243 crc f1fa477a md5 2ef331fbcc767de743e1bb4e3b7101c4 sha1 635dfc86429f55cb0ad33ac2022ab4cefbeea4ef )
+	rom ( name "2!Ahoy Best of 1985 (1986)(Double L).z64" size 37804 crc 721dee25 md5 bf08eb551e36654195926e95b41c39f7 sha1 afbf48c14550dc469d83512c26ea7e8d2a08123a )
+	rom ( name "3!Ahoy Best of 1985 (1986)(Double L).z64" size 37894 crc af1f4c91 md5 547ec3b3b1eeae9704c7a77641819324 sha1 0683ce652f475d566a7caf0a83b000e92ed4c7a5 )
+	rom ( name "4!Ahoy Best of 1985 (1986)(Double L).z64" size 9945 crc c0e15d63 md5 95c80d98f857e46674c485e953b71682 sha1 3131432dfde1480daabc221480d5504389dd0050 )
+)
+
+game (
+	name "Ahoy Magazine '86-01 (1986)(Double L)"
+	description "Ahoy Magazine '86-01 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-01 (1986)(Double L).z64" size 1348 crc 3abd7761 md5 4abb6a0ec5bb2ebf72a7a81271821c00 sha1 60d3d9072b8fdaa876d7499f4c66bace35e3db19 )
+	rom ( name "2!Ahoy Magazine '86-01 (1986)(Double L).z64" size 38825 crc eee00fdd md5 c7c7c2866ccc246f5b8833f97b6a4897 sha1 b28f24c13ba560b6d66d1b3c2d2ed68eed20e8ee )
+	rom ( name "3!Ahoy Magazine '86-01 (1986)(Double L).z64" size 38724 crc d4adb8cf md5 4ed82bc9f2980d3ae7bfd0123b3e0625 sha1 9e1542c88aa5b4c5b146a2fbdaf2400669961559 )
+	rom ( name "4!Ahoy Magazine '86-01 (1986)(Double L).z64" size 3093 crc 3bee1f5e md5 f38ab5c68822dcfdc6f75d29e8fef452 sha1 c1c17b3811b1797b4ee4f12542debe395d4da89b )
+)
+
+game (
+	name "Ahoy Magazine '86-03 (1986)(Double L)"
+	description "Ahoy Magazine '86-03 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-03 (1986)(Double L).z64" size 21429 crc f3055228 md5 d20283e1da2aaeb00c3b55f517299339 sha1 e3e24b8c1e0bea86986d3b4f1ee21afabac4cc2f )
+	rom ( name "2!Ahoy Magazine '86-03 (1986)(Double L).z64" size 37835 crc f8144f2f md5 ee46889425aa17c3943005a741f228c0 sha1 48678db5cebfa1ded50dd51b46caf0f3eac6da63 )
+	rom ( name "3!Ahoy Magazine '86-03 (1986)(Double L).z64" size 36934 crc 62cc27f2 md5 58ad1c0762eda7065fa7bef3a0a0ac47 sha1 6419b4daffa42ade54b4bf86d6d013d3bb02471c )
+	rom ( name "4!Ahoy Magazine '86-03 (1986)(Double L).z64" size 22356 crc 81a69b0a md5 9ea423e011acdb954a01288c22930d73 sha1 266674d6a9dd249ac1f31b55a17044bb47b151f6 )
+)
+
+game (
+	name "Ahoy Magazine '86-04 (1986)(Double L)"
+	description "Ahoy Magazine '86-04 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-04 (1986)(Double L).z64" size 5627 crc 9b57533d md5 45a5a5e1c57c50d2e53fef72f7c6abf0 sha1 a7f8679b951a73b14d10b5adae129d063d0fb503 )
+	rom ( name "2!Ahoy Magazine '86-04 (1986)(Double L).z64" size 39847 crc 3c442862 md5 0593a18560a6382e61f2867450bb5469 sha1 d954ee702b4cdf45cf6cdf0d3f99e20f6bff1ded )
+	rom ( name "3!Ahoy Magazine '86-04 (1986)(Double L).z64" size 37096 crc acf159a7 md5 7c9548cf12c81f485439c73a3e0ed561 sha1 c9f356f0706e2980fd0e673d6692caeb5851c8a0 )
+	rom ( name "4!Ahoy Magazine '86-04 (1986)(Double L).z64" size 35094 crc d3f6c1cd md5 9d8430ec68d94dd052e96d40ea2a3b41 sha1 3641b0a71c9d30b51378d4a9202fc0937052e6c5 )
+)
+
+game (
+	name "Ahoy Magazine '86-09 (1986)(Double L)"
+	description "Ahoy Magazine '86-09 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-09 (1986)(Double L).z64" size 36685 crc 6d999a55 md5 3d422a4c98c8649ab7229882673d01bc sha1 dcdae2c89d2ae596f5761d62e51d5428a52c1546 )
+	rom ( name "2!Ahoy Magazine '86-09 (1986)(Double L).z64" size 42397 crc 6b885346 md5 e1ab3205899d07a1ce1015624ee8a9f2 sha1 c886377dc315ba5696ea88c3bdd57e6f57e781f9 )
+	rom ( name "3!Ahoy Magazine '86-09 (1986)(Double L).z64" size 38411 crc 8dd49a61 md5 4455a991d912d4c7d50e7e35c02724d3 sha1 7924af00426db30508b954acc2148f182411e31f )
+	rom ( name "4!Ahoy Magazine '86-09 (1986)(Double L).z64" size 39625 crc bd601c1b md5 0ab5ae139d04d4b1f4f865b60d5e927e sha1 a41d73c0a6a9553d700b2849ba057d5102afb767 )
+)
+
+game (
+	name "Ahoy Magazine '86-10 (1986)(Double L)"
+	description "Ahoy Magazine '86-10 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-10 (1986)(Double L).z64" size 1243 crc cce66165 md5 a5be864d766f3e0d425398e378c41b7a sha1 2b5c61b347ba08f176cb4daae170195aa774b441 )
+	rom ( name "2!Ahoy Magazine '86-10 (1986)(Double L).z64" size 36120 crc e9053c80 md5 8ae5be370f195ba93ef7690833c118ab sha1 02fc8a75b2916534d3c3d769c2be38dfb955fcf7 )
+	rom ( name "3!Ahoy Magazine '86-10 (1986)(Double L).z64" size 33946 crc 20f18b69 md5 2dce1fb6120399c3631696efa92fb839 sha1 c9c5a6122c07b2433e2345c77d5d7630f8add65f )
+	rom ( name "4!Ahoy Magazine '86-10 (1986)(Double L).z64" size 2881 crc 5a2a3524 md5 42b8c18108eb54347060f98da7973986 sha1 76768e0e9c2d78b60a40d6c7a15f49351f906fbb )
+)
+
+game (
+	name "Ahoy Magazine '86-11 (1986)(Double L)"
+	description "Ahoy Magazine '86-11 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-11 (1986)(Double L).z64" size 41102 crc 7bf05000 md5 d1caa9499bd5f56cc96daf93ac81d55b sha1 458e242442b3f6cd27907de3a60e60c30f3a429c )
+	rom ( name "2!Ahoy Magazine '86-11 (1986)(Double L).z64" size 42104 crc 69375bd8 md5 d6004e254e1c51e34d52cc1e8204ed47 sha1 779b4a823435ea17ec5997c4079065e7fc3c6e91 )
+	rom ( name "3!Ahoy Magazine '86-11 (1986)(Double L).z64" size 38706 crc e460a509 md5 8aba0ba26230c196240b6119ef863dbc sha1 444116f9291d1a7b1b57eebe9f4f1802797ddce8 )
+	rom ( name "4!Ahoy Magazine '86-11 (1986)(Double L).z64" size 34843 crc 5afac2ba md5 ea0bbf7c9af6920ced101a5444d2c64a sha1 c14f90a7eddda334442733294194c3e2126cdc2b )
+)
+
+game (
+	name "Ahoy Magazine '86-12 (1986)(Double L)"
+	description "Ahoy Magazine '86-12 (1986)(Double L)"
+	rom ( name "1!Ahoy Magazine '86-12 (1986)(Double L).z64" size 36969 crc 7d6f04d1 md5 a0d97dba129db4155ff5eb077193733c sha1 5d0706198007a43b8a24c67a7c8997cbd29bfc87 )
+	rom ( name "2!Ahoy Magazine '86-12 (1986)(Double L).z64" size 41238 crc 81f64488 md5 9aadc931d0c9387fb5ae6808f62f3e67 sha1 ce9aaa100d7a9c3b1f9839800b4f9936db629b21 )
+	rom ( name "3!Ahoy Magazine '86-12 (1986)(Double L).z64" size 38791 crc 5d20c6c7 md5 08a252ce8869cd2cfb0cc82304908c48 sha1 175a2a45dcfb20f0aa830ea9410b1208eff4bcc0 )
+	rom ( name "4!Ahoy Magazine '86-12 (1986)(Double L).z64" size 40603 crc 10916d6d md5 d1d70ece7ef0e711958ae1374391e589 sha1 7842176dbb4024dace1efecf8086ce98772ba150 )
+)
+
+game (
+	name "Ahoy Magazine '87-01 (1987)(Double L)"
+	description "Ahoy Magazine '87-01 (1987)(Double L)"
+	rom ( name "1!Ahoy Magazine '87-01 (1987)(Double L).z64" size 34860 crc eecd849e md5 8b5777ffada5a02f72c6d92a09f058ae sha1 810fe38caea098a2b58fafd7f876cc25f8573e9e )
+	rom ( name "2!Ahoy Magazine '87-01 (1987)(Double L).z64" size 42061 crc 2d730def md5 adb5798a80b7e9cbd6620745a22e1f5c sha1 cc16083dcbe96e7d08c6512fa31417fcbc1d953f )
+	rom ( name "3!Ahoy Magazine '87-01 (1987)(Double L).z64" size 39820 crc ff1148be md5 e6682620a51f679ccb8f9c1226de4a40 sha1 fb84de60fe943b522985fdea7cea378d54a3015c )
+	rom ( name "4!Ahoy Magazine '87-01 (1987)(Double L).z64" size 39760 crc 87e1c0af md5 35860dff505df4bc392324bba6364bba sha1 80b20b98261cb61272eaf288718f207b5d2586b7 )
+)
+
+game (
+	name "Ahoy Magazine '87-02 (1987)(Double L)"
+	description "Ahoy Magazine '87-02 (1987)(Double L)"
+	rom ( name "1!Ahoy Magazine '87-02 (1987)(Double L).z64" size 6843 crc 0fb91dc5 md5 fa8cbf1b1a244289cab7a6d0d29e56de sha1 eee279e6224fba6c42a783430c09c14a3e893a8d )
+	rom ( name "2!Ahoy Magazine '87-02 (1987)(Double L).z64" size 41186 crc 777d493f md5 54d022543fd1ffcfb96fd93f25f8950f sha1 d8471555345f5a68b690724f3c91a08d3578ff2b )
+	rom ( name "3!Ahoy Magazine '87-02 (1987)(Double L).z64" size 30671 crc f02d5777 md5 98299439eda73d25ca65f19e3d9a10d6 sha1 45cc24b1f0d998cb133580f94857e923de9ddcf1 )
+	rom ( name "4!Ahoy Magazine '87-02 (1987)(Double L).z64" size 7579 crc 47f6636d md5 b1d4c9637941b695e5419d5ebe0064a6 sha1 a6d2b9aec06135a887e75e4c3cfe84abbdece075 )
+)
+
+game (
+	name "Compute!'s Gazette 84-05 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-05 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-05 (1984)(Compute!).z64" size 35778 crc 415a40a6 md5 3135c1bd8fa8d2fb83806b6122739577 sha1 57017805cb005a086778cb2ddccaed0bdbc3dcd2 )
+	rom ( name "2!Compute!'s Gazette 84-05 (1984)(Compute!).z64" size 37468 crc 0b42f84c md5 3160ec568051878fcb9aad62dd57ffab sha1 83a2ae795c5bddeb59ef78eeb88f2b54eb13a56c )
+	rom ( name "3!Compute!'s Gazette 84-05 (1984)(Compute!).z64" size 38992 crc e5c98546 md5 14a1123b2908883afcdbd81957b59203 sha1 d981b20c049977ab808d7ec8f9f33c12c8f443fd )
+	rom ( name "4!Compute!'s Gazette 84-05 (1984)(Compute!).z64" size 35430 crc 0f81501c md5 13c72f2714918d41bb9cbc6c4918e1f0 sha1 116083ac8886f20f5c179a4d01e271548b89d032 )
+)
+
+game (
+	name "Compute!'s Gazette 84-06 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-06 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-06 (1984)(Compute!).z64" size 24208 crc aef9f873 md5 7ff4b7460a5d7710db2c99fd6a19cea7 sha1 5ec243532bd2b9b86c964dbf9913c1d78cbccaa3 )
+	rom ( name "2!Compute!'s Gazette 84-06 (1984)(Compute!).z64" size 42387 crc 7a9b8942 md5 cb1a9591a764e7c52c8efb860cb2c631 sha1 49ebad34df2e78f71f0cee224c92bf3ec54f07ef )
+	rom ( name "3!Compute!'s Gazette 84-06 (1984)(Compute!).z64" size 39639 crc f2c6dc3f md5 ab49de3ab4c4dc290538f0c29e4f293e sha1 7abeb3053e943986b3f2976de1ceee383ee5d3a3 )
+	rom ( name "4!Compute!'s Gazette 84-06 (1984)(Compute!).z64" size 18998 crc 6c783707 md5 dbd82afa35835d6ce4a3a21713757c2f sha1 496bda45707f17b07df32033f96646e096757548 )
+)
+
+game (
+	name "Compute!'s Gazette 84-07 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-07 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-07 (1984)(Compute!).z64" size 2235 crc ca74539f md5 e810db029b3307ad08a06f66b7020588 sha1 8ab785c3ec82ded4aad0c76e2df004c0baa1cc18 )
+	rom ( name "2!Compute!'s Gazette 84-07 (1984)(Compute!).z64" size 41892 crc 110b4973 md5 9240d2b395884877280a45b45b12235b sha1 cac4bdc59b3eb03fbcf15d8531e0970d136ff330 )
+	rom ( name "3!Compute!'s Gazette 84-07 (1984)(Compute!).z64" size 38557 crc 797edaa2 md5 4f96ebdbdc99d7dc7a43c4aeaaff67c6 sha1 9a5125619f11120c43314739f26f8ba0b1fa81e0 )
+	rom ( name "4!Compute!'s Gazette 84-07 (1984)(Compute!).z64" size 10118 crc d89e7dd8 md5 ea1506509188a21319ad4f54b03f756a sha1 2d86c650d8ed0d1f89a261eaa0594eb4caa4fd14 )
+)
+
+game (
+	name "Compute!'s Gazette 84-09 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-09 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-09 (1984)(Compute!).z64" size 10055 crc ab73caf8 md5 b49cd412e4b3739521db7e5c45337641 sha1 a52b0af7e151adfb5c1bf11d37c3d63d5bb33e19 )
+	rom ( name "2!Compute!'s Gazette 84-09 (1984)(Compute!).z64" size 41178 crc c33f95bf md5 e705c5daaee02725eb0b98d047996d1b sha1 9f7d643442dbd8b40d9b84f85dbe648068f651d5 )
+	rom ( name "3!Compute!'s Gazette 84-09 (1984)(Compute!).z64" size 39155 crc 5ea1e552 md5 ea3291f8f1b3db15b4120dbdef24fec9 sha1 d38c9d84c498880e9560f50f350266d46767ef1f )
+	rom ( name "4!Compute!'s Gazette 84-09 (1984)(Compute!).z64" size 14816 crc 5b73503c md5 90864842700e1ebf881d4a9df68c41d6 sha1 74540894ba5b74a75dd556d55d1c7619e62bd545 )
+)
+
+game (
+	name "Compute!'s Gazette 84-10 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-10 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-10 (1984)(Compute!).z64" size 11848 crc 5367c902 md5 369032c91a1027375ce502ad4134c586 sha1 e082532d09c61ce609dd8cc98317a72aecc4e13a )
+	rom ( name "2!Compute!'s Gazette 84-10 (1984)(Compute!).z64" size 41755 crc 71c7dff4 md5 f6c23872cc6eaf3b3c3c8373ce5633e2 sha1 7a29bec439b356db4df3e68464b836788c103542 )
+	rom ( name "3!Compute!'s Gazette 84-10 (1984)(Compute!).z64" size 39250 crc ce75b3d1 md5 1723c53d487738c135af98ce7110fc47 sha1 d21d976b22f7f6af5b3887794216d1358ffe42f9 )
+	rom ( name "4!Compute!'s Gazette 84-10 (1984)(Compute!).z64" size 25691 crc d46e38c7 md5 7dac4cbd0b3001d714e1807b18039de1 sha1 eb0eb90964796c52edbd1592255295f5e319fd83 )
+)
+
+game (
+	name "Compute!'s Gazette 84-12 (1984)(Compute!)"
+	description "Compute!'s Gazette 84-12 (1984)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 84-12 (1984)(Compute!).z64" size 2692 crc 07a72cca md5 d9294cbfb3bf4b6aa9ce192b1021ea81 sha1 aecc01fa084feb594fd9d2fef921ccb77c016a40 )
+	rom ( name "2!Compute!'s Gazette 84-12 (1984)(Compute!).z64" size 41512 crc 5ec7ffee md5 bd1c53cf38a8243fc1cad8dd0bf19867 sha1 0d9c715dbf18b882f7928343d0c8df1ff9491950 )
+	rom ( name "3!Compute!'s Gazette 84-12 (1984)(Compute!).z64" size 39450 crc 5b970d93 md5 4e0f7d678ec3c9a90ac4defac25e7c5b sha1 5f7e6a59b3059fe18df240942eb9e788924933bd )
+	rom ( name "4!Compute!'s Gazette 84-12 (1984)(Compute!).z64" size 14353 crc 7b8edf4a md5 544aab0c79b23c7010128a0288765fc3 sha1 e608daca687302ff013501a1f9f92884b99f7de1 )
+)
+
+game (
+	name "Compute!'s Gazette 85-01 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-01 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-01 (1985)(Compute!).z64" size 15812 crc 2975ca37 md5 8ebed09a7ca78f0da8af55c7c10b2f63 sha1 620f90bb42166c8cd9dbd359e1b8799e697353a4 )
+	rom ( name "2!Compute!'s Gazette 85-01 (1985)(Compute!).z64" size 42102 crc bafdba27 md5 79837ce1a9483a1f9cf96c2e92eb87f2 sha1 21f6c83cd2080ac4223bd695ba4edb8f29d2c09e )
+	rom ( name "3!Compute!'s Gazette 85-01 (1985)(Compute!).z64" size 39501 crc c1cad5d6 md5 b3682b0c8ce158b9c779f8c99f76d5e9 sha1 e47033a95151f9c8999054468a2cb0360f0b821f )
+	rom ( name "4!Compute!'s Gazette 85-01 (1985)(Compute!).z64" size 21116 crc d758c76a md5 d48513977940fe44289292e79f247b7f sha1 fa12351984b9f5967a6f6b898536ccd2b9d7cb42 )
+)
+
+game (
+	name "Compute!'s Gazette 85-02 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-02 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-02 (1985)(Compute!).z64" size 9043 crc 4466c59e md5 fa64a192d813aa7f45ba5c7e013c08c7 sha1 9ede56f0dd3ddfe4a4b4436adf2a8cb155e483b9 )
+	rom ( name "2!Compute!'s Gazette 85-02 (1985)(Compute!).z64" size 41857 crc f2d30cb2 md5 da3c199ce641c2481ca9ad9b74dcd90a sha1 8e82e84b35f0f7716d5d52d44baba24b7ff476e8 )
+	rom ( name "3!Compute!'s Gazette 85-02 (1985)(Compute!).z64" size 39106 crc c283ed02 md5 a99a77824044156228c61116d3fecc42 sha1 72be2d13e34e49cbc8f313229300ae702abb2deb )
+	rom ( name "4!Compute!'s Gazette 85-02 (1985)(Compute!).z64" size 12178 crc 15fc5a99 md5 ed0e6e3f99de1506d457d51b25de6cd1 sha1 21b68addaa329ff63d250c925086a2e3668511db )
+)
+
+game (
+	name "Compute!'s Gazette 85-03 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-03 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-03 (1985)(Compute!).z64" size 1348 crc 76be937c md5 7ea40147f8297434bd9488d891ed17ac sha1 bc74af599f4feadf57082ce494ab8860beac28ac )
+	rom ( name "2!Compute!'s Gazette 85-03 (1985)(Compute!).z64" size 31270 crc c4cc4529 md5 d794354c1af516f40e08148e308c4d4c sha1 0c5ba38bc0f5b1da399475f03afa898b28badd58 )
+	rom ( name "3!Compute!'s Gazette 85-03 (1985)(Compute!).z64" size 39519 crc 1a01cab5 md5 0c3d10f46730a65d946c25b8a9ea6264 sha1 cecb8f5e9cb61df647c4b250d770e0b88727cd3a )
+	rom ( name "4!Compute!'s Gazette 85-03 (1985)(Compute!).z64" size 4625 crc 4d46d85b md5 3825384471af843c19ba4ed45978b27b sha1 6c1c71f4c5d86c4ea7b79470a0647e1370686bde )
+)
+
+game (
+	name "Compute!'s Gazette 85-04 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-04 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-04 (1985)(Compute!).z64" size 10814 crc 7b86ccac md5 e0fe5e05b2e9e1bafc88c37371dda86d sha1 40a35ee4cff163c0151c3f76fe40f3255947d88a )
+	rom ( name "2!Compute!'s Gazette 85-04 (1985)(Compute!).z64" size 41702 crc 39af0f88 md5 25016bb5ffdcfa736eab4a390b2a3321 sha1 db75aabf3101abf0cf63081da62e0e3af3a7d091 )
+	rom ( name "3!Compute!'s Gazette 85-04 (1985)(Compute!).z64" size 39353 crc e040d77f md5 37ef7b6e87505c8c3208c597cc689e77 sha1 0cac6a1f88613c9b5332823939e42ba4fea08182 )
+	rom ( name "4!Compute!'s Gazette 85-04 (1985)(Compute!).z64" size 24960 crc e965eaa9 md5 96d16c542f8a95fabae23362021b8942 sha1 b466078f8e606b96dcaf7e12fab57f64131d6a9d )
+)
+
+game (
+	name "Compute!'s Gazette 85-05 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-05 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-05 (1985)(Compute!).z64" size 11319 crc 4a937316 md5 cb2b9387ed79c5fc5e0951131809ba58 sha1 f630e76920354a6186ddab9d31c07be4f3268ab2 )
+	rom ( name "2!Compute!'s Gazette 85-05 (1985)(Compute!).z64" size 41711 crc b24fbb11 md5 17b24928ecd3485f08ebdd00b079fcfb sha1 d2f63d59505d7f1659ae21dcc4184daf12b25ff3 )
+	rom ( name "3!Compute!'s Gazette 85-05 (1985)(Compute!).z64" size 39179 crc dc0fe29d md5 6222c2eeb7339122d2381635bde412be sha1 a0ec4d765bb77ce2011f2f9e4b5e8da53330b489 )
+	rom ( name "4!Compute!'s Gazette 85-05 (1985)(Compute!).z64" size 16163 crc 150beba3 md5 4f8a8df3b40c4c71443ada0315dc093c sha1 9aef8e21ac8e83d4d5857aa969c04125fb53092e )
+)
+
+game (
+	name "Compute!'s Gazette 85-06 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-06 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-06 (1985)(Compute!).z64" size 1348 crc 311b9096 md5 a7dd8963df5bb4f8c66f99a074321089 sha1 595b0eed0e54584b0e6c481c9bb2cd58e81fe227 )
+	rom ( name "2!Compute!'s Gazette 85-06 (1985)(Compute!).z64" size 36292 crc 807e05b1 md5 6a84544028932b203142bffa76b2c8bd sha1 f81c8984773ee5e17eabca65640705dfbca9a87d )
+	rom ( name "3!Compute!'s Gazette 85-06 (1985)(Compute!).z64" size 38701 crc 23c659e5 md5 d4382c1a558291c9f3ecdfa7dfbd1936 sha1 e898046b51a0a162f18e76565b2b8ce4da41aed5 )
+	rom ( name "4!Compute!'s Gazette 85-06 (1985)(Compute!).z64" size 2861 crc 51df8b2a md5 255731a48aa07f03bff3e605cbe9aa06 sha1 59922c95b0de3662ec92cbc1ce8d10c0772d5595 )
+)
+
+game (
+	name "Compute!'s Gazette 85-07 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-07 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-07 (1985)(Compute!).z64" size 15490 crc a5639d65 md5 25642a2a4729499fa0e6665afa344c5d sha1 61cee2d84581a1364311da966995ddcb79e69e97 )
+	rom ( name "2!Compute!'s Gazette 85-07 (1985)(Compute!).z64" size 41752 crc 7331f7ca md5 4530823e88b8bc8f69696842401c3ef7 sha1 7b141beec534c04d8712941adfe6e9cfbf808fd8 )
+	rom ( name "3!Compute!'s Gazette 85-07 (1985)(Compute!).z64" size 39089 crc eb6ac4cc md5 9304afddc6f1ea1591237f2b22d5cea7 sha1 55d1f622ddf1e673aecad4784007d911d3364221 )
+	rom ( name "4!Compute!'s Gazette 85-07 (1985)(Compute!).z64" size 11969 crc 834c3801 md5 73249b76c9256f95551cdc38147379e4 sha1 21982a3b55c57111424f82b4b42bbf7d20932315 )
+)
+
+game (
+	name "Compute!'s Gazette 85-08 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-08 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-08 (1985)(Compute!).z64" size 9628 crc 50401c68 md5 66ba1c4030937d6014decdda8f173236 sha1 ca6a2e80dfa4b7cbfa054105918d522511a291d4 )
+	rom ( name "2!Compute!'s Gazette 85-08 (1985)(Compute!).z64" size 41556 crc 3788cca7 md5 d8c8479f4074e3596a1971ce60a6b77d sha1 0aa35f9d53c16b2294e44a4c61b3843cc5a36ee4 )
+	rom ( name "3!Compute!'s Gazette 85-08 (1985)(Compute!).z64" size 39600 crc f988cf85 md5 0c134bed809e7f604724f979b308ca6d sha1 031c7f9fdad04011d3be5fa91e29e1e09ab23842 )
+	rom ( name "4!Compute!'s Gazette 85-08 (1985)(Compute!).z64" size 2845 crc beb61a7d md5 aaed7694af96de41fa5567106a59394f sha1 24009a41981f53bd9888badc787d4d156e2e5483 )
+)
+
+game (
+	name "Compute!'s Gazette 85-09 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-09 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-09 (1985)(Compute!).z64" size 6177 crc f3363444 md5 8ba71a76a7e5307a0722e4c7ba6192c5 sha1 065d9a479cc534ad9faf5629ba9f9c649dfcc598 )
+	rom ( name "2!Compute!'s Gazette 85-09 (1985)(Compute!).z64" size 41860 crc 3a1b738b md5 49043b23d1619c1a3d70d0b2fef8e641 sha1 ef9dc8f7af6c3d89af48fc92204322cb355e7dbe )
+	rom ( name "3!Compute!'s Gazette 85-09 (1985)(Compute!).z64" size 39128 crc bf6cece6 md5 fd2129e478095bac08d350c7b329c07a sha1 205749e6a47802b3736d0e982e0fa826af8e6154 )
+	rom ( name "4!Compute!'s Gazette 85-09 (1985)(Compute!).z64" size 30520 crc 818a7200 md5 bec7eb556eecfffc85f81c734e5280fd sha1 465507539603b08fda1c3050807235fb27f9f6c4 )
+)
+
+game (
+	name "Compute!'s Gazette 85-10 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-10 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-10 (1985)(Compute!).z64" size 1348 crc f8a1010a md5 4090036bede201625238755c12c0050b sha1 0a1174edcc3f0688e4723cb179385ac7c9503578 )
+	rom ( name "2!Compute!'s Gazette 85-10 (1985)(Compute!).z64" size 37852 crc 8bdb6453 md5 654686c1ccb7fda075f0a29bb9478f06 sha1 27660dfc7f3fa5efffb827164c07a0c8bdc1b7f4 )
+	rom ( name "3!Compute!'s Gazette 85-10 (1985)(Compute!).z64" size 39262 crc 8ccfd693 md5 ef48b23d9408a629a08bd36053e707ac sha1 2edc3d1ba7d0980a49ced118bd357a8371873f2b )
+	rom ( name "4!Compute!'s Gazette 85-10 (1985)(Compute!).z64" size 5747 crc 2456fee6 md5 08fd4fc20bb3fb8ffb477e363ccd465f sha1 022965c526bd688b068d61bb19d047aecda5fa33 )
+)
+
+game (
+	name "Compute!'s Gazette 85-11 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-11 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-11 (1985)(Compute!).z64" size 2098 crc 7a603b41 md5 d78509a2f209867490b4b40ce392da2f sha1 e8c7a0d8762e009fb71c8d83e882fff3ed8978b6 )
+	rom ( name "2!Compute!'s Gazette 85-11 (1985)(Compute!).z64" size 41580 crc 21c67b64 md5 ee86eb78389c2466bad6d6a9430c01d0 sha1 a5fb5ae5f8a4d73ca0123914c40a0df4023e273c )
+	rom ( name "3!Compute!'s Gazette 85-11 (1985)(Compute!).z64" size 39516 crc 44b863eb md5 0033d52e34d5691746d58629e4aef0a7 sha1 8bbc89ebbc60f7a4cb3a9f4d648c4f7995c38b68 )
+	rom ( name "4!Compute!'s Gazette 85-11 (1985)(Compute!).z64" size 11566 crc 1e397955 md5 30f8c46fedbc480586d36bf2689d02df sha1 cf4e99b38e80bff3f2e45a427e14107a802eab08 )
+)
+
+game (
+	name "Compute!'s Gazette 85-12 (1985)(Compute!)"
+	description "Compute!'s Gazette 85-12 (1985)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 85-12 (1985)(Compute!).z64" size 28834 crc 16e9e5a1 md5 dfdc3f5a92c56320f96e6da70da991a0 sha1 57484f6fdad10847df2227b454bb4eba3110176e )
+	rom ( name "2!Compute!'s Gazette 85-12 (1985)(Compute!).z64" size 39973 crc a3343728 md5 7f9e6fdcd0a22094a94b26d71e2483ca sha1 ec27d96b294bada382d38e3c0c755aa043c57a27 )
+	rom ( name "3!Compute!'s Gazette 85-12 (1985)(Compute!).z64" size 39447 crc 8a865012 md5 d4effd725303eafd6907b913cc26809d sha1 30c7627b651518820870f177efb43df530764a8b )
+	rom ( name "4!Compute!'s Gazette 85-12 (1985)(Compute!).z64" size 26894 crc 356a9b9d md5 f6a16a157283b1560490e9f493188d1b sha1 f5a34853888c39fef068dc40b817c4987c3f2962 )
+)
+
+game (
+	name "Compute!'s Gazette 86-06 (1986)(Compute!)"
+	description "Compute!'s Gazette 86-06 (1986)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 86-06 (1986)(Compute!).z64" size 18828 crc d6e8aa93 md5 2714f6a7bf50687971f7ef84f0049b42 sha1 ae54ba3ba754acacf920966d84408f97c7f51c95 )
+	rom ( name "2!Compute!'s Gazette 86-06 (1986)(Compute!).z64" size 41162 crc 05306219 md5 a657a6724459dd6a5a47768c93a518d6 sha1 1f7114e55a3d61cdb59f57fcdecc0a0c32911300 )
+	rom ( name "3!Compute!'s Gazette 86-06 (1986)(Compute!).z64" size 39454 crc 235caf55 md5 c323878276d38d57f30292d39a167016 sha1 eb9275613fa834efbc819097df2e002af7f98e62 )
+	rom ( name "4!Compute!'s Gazette 86-06 (1986)(Compute!).z64" size 19105 crc b36ab27b md5 b404836b0c443d49981b61026b4fb044 sha1 3f95bfd847f82646db78c8bbc34cfed6e4adfae9 )
+)
+
+game (
+	name "Compute!'s Gazette 86-09 (1986)(Compute!)"
+	description "Compute!'s Gazette 86-09 (1986)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 86-09 (1986)(Compute!).z64" size 13313 crc dcf8e714 md5 f1eacfe42d1c99d8e7cd6ee5f489f785 sha1 d55d53301c9ed35953baafd358d061d5a3af36de )
+	rom ( name "2!Compute!'s Gazette 86-09 (1986)(Compute!).z64" size 41570 crc d607846d md5 3a15d0ec242b463a8f16bf236adc1e78 sha1 6d96b9748f116096f9c8ba11f4bfcf4f3544aa04 )
+	rom ( name "3!Compute!'s Gazette 86-09 (1986)(Compute!).z64" size 39616 crc d2ca736c md5 4954db62086aa471a88feca1d8c04af9 sha1 abd9c82d0f341bddb101904961b17c493980b55c )
+	rom ( name "4!Compute!'s Gazette 86-09 (1986)(Compute!).z64" size 17780 crc 22fa29b1 md5 1e3cd6f14e56d6739fd3434864d88d66 sha1 a62a30cff1c6bdafa43a7b784913ad55ab6959a4 )
+)
+
+game (
+	name "Compute!'s Gazette 86-10 (1986)(Compute!)"
+	description "Compute!'s Gazette 86-10 (1986)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 86-10 (1986)(Compute!).z64" size 4857 crc 94cdd79a md5 5a9e9dcb31da638ff09541f7a5c80a0b sha1 78841430f472e3fb0f52bd67fda428e34766e1ce )
+	rom ( name "2!Compute!'s Gazette 86-10 (1986)(Compute!).z64" size 39873 crc 80ce19f7 md5 8e1c3aace6bcbf83d8b7a4fef4967556 sha1 e443f889d5b4399e64de5d69559d8198a3a55a82 )
+	rom ( name "3!Compute!'s Gazette 86-10 (1986)(Compute!).z64" size 37834 crc 13b47d40 md5 241b731730fc775be889525c2dae0b75 sha1 bbb7b7d8b7ceaa684d63a2e787da3d6dca0b4ab1 )
+	rom ( name "4!Compute!'s Gazette 86-10 (1986)(Compute!).z64" size 12800 crc 984433e9 md5 19cdc97a128455a28dbaf5418fa642bf sha1 57ad3f20e870b8de77188387edd7215f111ac614 )
+)
+
+game (
+	name "Compute!'s Gazette 86-11 (1986)(Compute!)"
+	description "Compute!'s Gazette 86-11 (1986)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 86-11 (1986)(Compute!).z64" size 1384 crc 1d2c1dcb md5 b8698bbd0e3e1b08e5c65b05f3cdc95b sha1 193e947c2e86c9615d0de1649283e512ab4a5094 )
+	rom ( name "2!Compute!'s Gazette 86-11 (1986)(Compute!).z64" size 39714 crc 47d3f53d md5 69e78554ec1418fdac8e4986706c14b9 sha1 5f752ef3ea178f00e6808e944b1186c835041ed3 )
+	rom ( name "3!Compute!'s Gazette 86-11 (1986)(Compute!).z64" size 39878 crc 46bf2270 md5 c897791af01bde31df4af6e3ed5ce8ef sha1 d82a895712ec14bd513dce66d004a657b0157406 )
+	rom ( name "4!Compute!'s Gazette 86-11 (1986)(Compute!).z64" size 2402 crc b0902ea3 md5 2e379120707d8966553786c8e2eabc40 sha1 2b9a6dbed973e54449af682d3c61ac7c0d9de8bd )
+)
+
+game (
+	name "Compute!'s Gazette 86-12 (1986)(Compute!)"
+	description "Compute!'s Gazette 86-12 (1986)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 86-12 (1986)(Compute!).z64" size 1348 crc bf8b2f4c md5 b125beb13bd1f001aae6634621336f14 sha1 fdb2a1d7ffb7c591475d28ad8c76a8cdc65625d7 )
+	rom ( name "2!Compute!'s Gazette 86-12 (1986)(Compute!).z64" size 39663 crc 9e5081b2 md5 1233341f668a30f7b14b5b1e23ac56d6 sha1 d17fbd8334a847aa1c5246a1ecc46647773668e9 )
+	rom ( name "3!Compute!'s Gazette 86-12 (1986)(Compute!).z64" size 38201 crc 2b55315c md5 37f3d885c1653837d73ea4f50535d625 sha1 c841183dffd2df20ee11be7cc33394f1054a22cb )
+	rom ( name "4!Compute!'s Gazette 86-12 (1986)(Compute!).z64" size 7711 crc 41eef680 md5 1856d18c504538e75bb83e401209c40e sha1 b10beae8e80bc194438837f1a09d7da79835c6a9 )
+)
+
+game (
+	name "Compute!'s Gazette 87-01 (1987)(Compute!)"
+	description "Compute!'s Gazette 87-01 (1987)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 87-01 (1987)(Compute!).z64" size 1384 crc d9b3f1f9 md5 41fa8aa02281564350665162d41b8930 sha1 a4190d572b4aa7ab6888f42944b3ee44d6be807e )
+	rom ( name "2!Compute!'s Gazette 87-01 (1987)(Compute!).z64" size 33977 crc 74919fd2 md5 32d4ba0ddcd87d6f05bff2eec168f898 sha1 e31796c3f59618a80ea5371d4d8f0102dbf30382 )
+	rom ( name "3!Compute!'s Gazette 87-01 (1987)(Compute!).z64" size 39580 crc 83e28bba md5 7d2e2f135e39cd77371c022960d2b493 sha1 f13c292a2449f658c86de1f6eea57f8804ead2ef )
+	rom ( name "4!Compute!'s Gazette 87-01 (1987)(Compute!).z64" size 4902 crc 691c2f64 md5 41bed3c43aeb5ebac165bbdcfe988629 sha1 19c83a129580ec0532c174153c34e0645fd8a573 )
+)
+
+game (
+	name "Compute!'s Gazette 87-02 (1987)(Compute!)"
+	description "Compute!'s Gazette 87-02 (1987)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 87-02 (1987)(Compute!).z64" size 12308 crc fceff55b md5 5b46600f730d53dc7764dee76449aa2e sha1 735d28a627c60015ed4c1bf9569372ce412546b7 )
+	rom ( name "2!Compute!'s Gazette 87-02 (1987)(Compute!).z64" size 41361 crc 35a46d60 md5 1c461a0b1f030d47a535e05c819db3a3 sha1 b8e78114250dc0a59d60991d67c64c5b5d7d0957 )
+	rom ( name "3!Compute!'s Gazette 87-02 (1987)(Compute!).z64" size 39844 crc bd328b4e md5 14656e9520f4c7a416ad79bf00239dd1 sha1 a91c9acc2da1fb957a5768492a06c1c99a09bae8 )
+	rom ( name "4!Compute!'s Gazette 87-02 (1987)(Compute!).z64" size 10342 crc f57eb697 md5 b8925fb086cddeb7ee1af2bc50b83c78 sha1 31fdb6a8f3dbb4cc259a221d7c12dd73a063022e )
+)
+
+game (
+	name "Compute!'s Gazette 87-03 (1987)(Compute!)"
+	description "Compute!'s Gazette 87-03 (1987)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 87-03 (1987)(Compute!).z64" size 1384 crc 5fd28b00 md5 3b33b82ce6a15cd3ba539e2f4a3810f7 sha1 d458ed361b569d7cab49781288b26c291b206b30 )
+	rom ( name "2!Compute!'s Gazette 87-03 (1987)(Compute!).z64" size 31001 crc 63d55bca md5 df37a5193bbc96f5a688cb47c39ca41e sha1 0370f9f3521473588b08b0b6307aa4628fff98e5 )
+	rom ( name "3!Compute!'s Gazette 87-03 (1987)(Compute!).z64" size 39125 crc 5ed9bcc6 md5 14944f464d4afa883d956466f9c0cf68 sha1 80443b116a66109f61f096d9bc73c7788997af4f )
+	rom ( name "4!Compute!'s Gazette 87-03 (1987)(Compute!).z64" size 3100 crc bc692108 md5 33f58cacc7ce3ef28286d1afbe184a10 sha1 5717c608332541981de1e17fc0168d323cb11b83 )
+)
+
+game (
+	name "Compute!'s Gazette 87-04 (1987)(Compute!)"
+	description "Compute!'s Gazette 87-04 (1987)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 87-04 (1987)(Compute!).z64" size 11884 crc e469e0b9 md5 c506a923fb142e65f9e9a077f7b790d3 sha1 e57f77a546be91ac0f45e5af1c935133c3315d9f )
+	rom ( name "2!Compute!'s Gazette 87-04 (1987)(Compute!).z64" size 40736 crc 2f1127cd md5 dd3ce912f98881a18495e00c397d65e8 sha1 76b2dc118f857eb98c6f70fd8aaeb58017ee96e3 )
+	rom ( name "3!Compute!'s Gazette 87-04 (1987)(Compute!).z64" size 38369 crc 3fe8c671 md5 6ad594217f4157dcd31e32e2666b8cca sha1 764000ee7a77514ba87dc3c09bbcd7850b85a390 )
+	rom ( name "4!Compute!'s Gazette 87-04 (1987)(Compute!).z64" size 7170 crc 07f3b6e8 md5 4d40563fc7183974f4f0a8d8cd560c31 sha1 97a2bff35cefee9bd8c1542c8dbf5392e439ea93 )
+)
+
+game (
+	name "Compute!'s Gazette 87-07 (1987)(Compute!)"
+	description "Compute!'s Gazette 87-07 (1987)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 87-07 (1987)(Compute!).z64" size 1384 crc e317c4fb md5 a95d1580294ba5e54e6c680b576181ee sha1 4fbdc49fcc6203b2bcc1b1658844a7e31dc3633e )
+	rom ( name "2!Compute!'s Gazette 87-07 (1987)(Compute!).z64" size 32898 crc 3534ed66 md5 fd1f998b3fcabf4f3f5cbe1945575804 sha1 975c238f1e5f298a6c624afa4bf4f649775ba53c )
+	rom ( name "3!Compute!'s Gazette 87-07 (1987)(Compute!).z64" size 39466 crc eaad14af md5 26309f8215682fe625c3d3d983241572 sha1 f1f097185a4c3f126976bb93938660f5dab835f9 )
+	rom ( name "4!Compute!'s Gazette 87-07 (1987)(Compute!).z64" size 3617 crc c39f5c6a md5 13202b1f8058d0cc1ccbec8c92b5404f sha1 65f5141c9e83e1603b676229d6c9ab00e44a67fd )
+)
+
+game (
+	name "Compute!'s Gazette 88-06 (1988)(Compute!)"
+	description "Compute!'s Gazette 88-06 (1988)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 88-06 (1988)(Compute!).z64" size 5117 crc 4137e930 md5 edf5ca7f2c3a1c83a431a0e777d998b1 sha1 e18c7e620c33e35dcb0eb5ae1a3d88106dba9f26 )
+	rom ( name "2!Compute!'s Gazette 88-06 (1988)(Compute!).z64" size 42410 crc ee5eaa00 md5 be1bb80101cf2c009f5e160c7e34a45b sha1 5508091abd9000e0a16f4bcfdcfe06460cb20e6b )
+	rom ( name "3!Compute!'s Gazette 88-06 (1988)(Compute!).z64" size 39897 crc 3285988c md5 43ec78fbb9eca776dd80163bb6d73b52 sha1 243ace2f52bb4522041819e89ee1709c8fd067ef )
+	rom ( name "4!Compute!'s Gazette 88-06 (1988)(Compute!).z64" size 10253 crc bd2841b6 md5 401148b5351c93415ef3cc0958f8f954 sha1 ca1a41c928567231bfb6a6f66e59cfddcaf1187d )
+)
+
+game (
+	name "Compute!'s Gazette 88-07 (1988)(Compute!)"
+	description "Compute!'s Gazette 88-07 (1988)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 88-07 (1988)(Compute!).z64" size 1884 crc 196e7363 md5 8bbcbbf1a9f6ce19f79b4d039ee57d38 sha1 6a44109425f30a939b8b61eb4e9ed2219d751c26 )
+	rom ( name "2!Compute!'s Gazette 88-07 (1988)(Compute!).z64" size 42652 crc 3a00f399 md5 77dd837aab5e677255f107a03d4f5a6e sha1 3a97766dd76736bd5148e04d572db20d3df2eaa7 )
+	rom ( name "3!Compute!'s Gazette 88-07 (1988)(Compute!).z64" size 39721 crc bd98d076 md5 638968a619fc5de42e08ca4a8d989e5d sha1 445b6bfebab5cce35ec90bd13fb434694c9a2a73 )
+	rom ( name "4!Compute!'s Gazette 88-07 (1988)(Compute!).z64" size 6107 crc 6da74975 md5 cc72298207940d0a10967e4dc0ea7c26 sha1 802b1f411f42944fa1a44c100091242c713e6f51 )
+)
+
+game (
+	name "Compute!'s Gazette 89-10 (1989)(Compute!)"
+	description "Compute!'s Gazette 89-10 (1989)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 89-10 (1989)(Compute!).z64" size 8775 crc fb8267b2 md5 9714b74e2f86fd401df44b61aa67bef9 sha1 b7eea45ecbfa66fc687eb97c22a7a37c5a8b8866 )
+	rom ( name "2!Compute!'s Gazette 89-10 (1989)(Compute!).z64" size 22098 crc b0f57c09 md5 8955a5a688c8d56652a0426e3687803c sha1 f090ff1852cf60cff840b53dc3ee6b7bf1b975cd )
+	rom ( name "3!Compute!'s Gazette 89-10 (1989)(Compute!).z64" size 39180 crc c10e4710 md5 b1b728567258f01e6b218b1aa9eecc71 sha1 cc2768688804abc07220b27de682e8f5e62143ac )
+	rom ( name "4!Compute!'s Gazette 89-10 (1989)(Compute!).z64" size 14652 crc 75c9f3f9 md5 177fda18957848fff13d1bab22e18264 sha1 53644e8bb760aa4a417ff3741d5b305941dd31f0 )
+)
+
+game (
+	name "Compute!'s Gazette 90-03 (1990)(Compute!)"
+	description "Compute!'s Gazette 90-03 (1990)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 90-03 (1990)(Compute!).z64" size 1384 crc 6c9a9c3a md5 3137851a07d56b442d3ac6cd35142fca sha1 c041f74f8aee1b2cf82248a0c1a9d1518206f1a6 )
+	rom ( name "2!Compute!'s Gazette 90-03 (1990)(Compute!).z64" size 40276 crc 2a8f8485 md5 ae1162e8be1b7786e239bcd9cf0f8a1b sha1 ddefe2588dc02c4627644891aa16b8ccdfe1442f )
+	rom ( name "3!Compute!'s Gazette 90-03 (1990)(Compute!).z64" size 33472 crc 88d6f7b3 md5 24a9ddac6be2b8999646be45228146f5 sha1 833bce99f6df617129b33cd0fe00e3661263bac9 )
+	rom ( name "4!Compute!'s Gazette 90-03 (1990)(Compute!).z64" size 7646 crc 116e3032 md5 c2823b4db142c7c13be18998a41eac9b sha1 b7763d19dba405d57d2d1c74a4b1bad653315a7a )
+)
+
+game (
+	name "Compute!'s Gazette 90-11 (1990)(Compute!)"
+	description "Compute!'s Gazette 90-11 (1990)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 90-11 (1990)(Compute!).z64" size 29884 crc e394773a md5 1f4844b69c5736402de32218f48eb146 sha1 9db97c514bfce006528b9c023ee83f73d38836b6 )
+	rom ( name "2!Compute!'s Gazette 90-11 (1990)(Compute!).z64" size 40962 crc 5bdaf8f5 md5 21dd991b1fc8d78fe56486e129b7fab1 sha1 2b39850355c2d53f2e73a79ce33a6d50691a3c42 )
+	rom ( name "3!Compute!'s Gazette 90-11 (1990)(Compute!).z64" size 38149 crc 49bcb774 md5 36b7327fada9a7ee7ed501085a337f27 sha1 28afeea031cf27444e7fea53a0009a924941ae56 )
+	rom ( name "4!Compute!'s Gazette 90-11 (1990)(Compute!).z64" size 17464 crc c98c899c md5 da097c38a74e2cf4bc04390ea2831f70 sha1 ccd43275f3ebbcf588b4498c5ef913e0a43e3688 )
+)
+
+game (
+	name "Compute!'s Gazette 90-12 (1990)(Compute!)"
+	description "Compute!'s Gazette 90-12 (1990)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 90-12 (1990)(Compute!).z64" size 36188 crc 68c87b6b md5 575d4850cd64fda2f25682f38f9fa002 sha1 d6417a85f799dd490148af6eb5fab2a750c1ef6b )
+	rom ( name "2!Compute!'s Gazette 90-12 (1990)(Compute!).z64" size 41663 crc 3d538d0e md5 43a0e94ebc41531952f91a44d9185ca2 sha1 2d769c5144e199dd90f721ba75bbcb908a02b969 )
+	rom ( name "3!Compute!'s Gazette 90-12 (1990)(Compute!).z64" size 23210 crc 836e42e9 md5 ecfa2892e53c260a954bdbe3f1a216fb sha1 e193ca288126f1f09b21e0d918f348d1d2229d71 )
+	rom ( name "4!Compute!'s Gazette 90-12 (1990)(Compute!).z64" size 37840 crc 1ab52a7f md5 a3833708cb4f4a55e8f1663b7cdadadb sha1 cf23ff6966c2b801661481c4eafd276786da5aa6 )
+)
+
+game (
+	name "Compute!'s Gazette 91-01 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-01 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-01 (1991)(Compute!).z64" size 30593 crc e3be9521 md5 63374e7081b19e34270f02ef47fc275b sha1 aaf9b2598603da5472296c6aa030c2a0c16f63b9 )
+	rom ( name "2!Compute!'s Gazette 91-01 (1991)(Compute!).z64" size 40296 crc 83dc705c md5 a9d9a6a55b89656459391ebd5ec1ddd9 sha1 73fcb915c8394b494c0a88d30c5661997dcb0173 )
+	rom ( name "3!Compute!'s Gazette 91-01 (1991)(Compute!).z64" size 35829 crc 879bd9e0 md5 95f5f0197ffd10ad709816aed7a9f655 sha1 b433b2c40245cdde89575bf8110884d7fe8bf8eb )
+	rom ( name "4!Compute!'s Gazette 91-01 (1991)(Compute!).z64" size 19704 crc 5e00f7df md5 57d4c533278fcbb29be3be61d135b690 sha1 4cab970d9f7c90768ba2b54cee0b882df52552a1 )
+)
+
+game (
+	name "Compute!'s Gazette 91-02 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-02 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-02 (1991)(Compute!).z64" size 30321 crc ea9bd387 md5 6642ac970042bd30c44fcdc23e49dee4 sha1 ecc56a814221c35e1d829a5247def5ca564cc263 )
+	rom ( name "2!Compute!'s Gazette 91-02 (1991)(Compute!).z64" size 41633 crc 17636015 md5 ade1f0f84b213d752f692d2de2169e7a sha1 8122a450d1c2ff3fcf3e1448d31d7fb6e8743be6 )
+	rom ( name "3!Compute!'s Gazette 91-02 (1991)(Compute!).z64" size 34960 crc f9651a06 md5 ef2548ec807bdcfced05ee1e64f87fe3 sha1 2b09368a10c5b758da2c6a5ee102e1dff0557a6f )
+	rom ( name "4!Compute!'s Gazette 91-02 (1991)(Compute!).z64" size 25275 crc b9801a82 md5 0ed6ca04ba4a045579a8bfed735db315 sha1 3969c832dc48c17bf68371f07a26dc3e13a53e98 )
+)
+
+game (
+	name "Compute!'s Gazette 91-03 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-03 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-03 (1991)(Compute!).z64" size 25234 crc 3b77240c md5 f95f43ad70586e2794aef0449c522922 sha1 a9080262d234fdcfdfe9c233785c73f99ba517c5 )
+	rom ( name "2!Compute!'s Gazette 91-03 (1991)(Compute!).z64" size 41894 crc 1d026c5d md5 2eb74f1e8cc52c8a85fb3423b47cbc51 sha1 eeb1b24c8e57bdfec3db0898f20d725e20b641a0 )
+	rom ( name "3!Compute!'s Gazette 91-03 (1991)(Compute!).z64" size 32236 crc 8b544106 md5 5589c3f5f17aeb6a37e9b3df56d7649f sha1 e266a766252f8a3c707b0498b341fcb705cac311 )
+	rom ( name "4!Compute!'s Gazette 91-03 (1991)(Compute!).z64" size 27834 crc 84644e2d md5 ac7d52ef6330b4a54f8d91171090a274 sha1 de2d4934f298929c1a2484ffa812d993ee1e17ed )
+)
+
+game (
+	name "Compute!'s Gazette 91-04 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-04 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-04 (1991)(Compute!).z64" size 23880 crc 4afc75aa md5 1f33a4b7c5ac7b7fef6991319d5a6ed5 sha1 8ed38bf7c8b6efb1fafd5d5c02d2a82c705431c7 )
+	rom ( name "2!Compute!'s Gazette 91-04 (1991)(Compute!).z64" size 41894 crc 66d3c9a5 md5 63d040405c13096c5c52196019152999 sha1 2c0f0d0e28b1d6259d249b18402a67e2fb85db60 )
+	rom ( name "3!Compute!'s Gazette 91-04 (1991)(Compute!).z64" size 31244 crc 6391dd1d md5 eb22cfcea276b382e17c77bbdac5922e sha1 4850c2f938fb7bb0aafd0adcfbeed4ff50df7c9c )
+	rom ( name "4!Compute!'s Gazette 91-04 (1991)(Compute!).z64" size 14306 crc 6fef1795 md5 977eace547aa89461b5046f2f4e178bc sha1 a7e17918caff15cc150dfb09e7fbbed4d76b7e0e )
+)
+
+game (
+	name "Compute!'s Gazette 91-05 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-05 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-05 (1991)(Compute!).z64" size 23324 crc 002760b9 md5 1c316ee296b56e4a2bc9c770995136c1 sha1 604264c2e22a166d7dc7b49254f038f6c4ba081f )
+	rom ( name "2!Compute!'s Gazette 91-05 (1991)(Compute!).z64" size 41581 crc 2ea6a75e md5 7e043cc8e94297325e0cef27f79eb730 sha1 6f6c1ed04353900fc12654561e801d212accb6c7 )
+	rom ( name "3!Compute!'s Gazette 91-05 (1991)(Compute!).z64" size 35263 crc 2cab7952 md5 69e608f705a1a8330b28e79273442632 sha1 f04ca0ad05f077cd6c64877e1f73bb95e0ef951a )
+	rom ( name "4!Compute!'s Gazette 91-05 (1991)(Compute!).z64" size 23734 crc 2e39192d md5 74f42f98d44f60168296cf2a5a55aef2 sha1 6c81f055341e8daf199e61e3173c50a71c08a887 )
+)
+
+game (
+	name "Compute!'s Gazette 91-06 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-06 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-06 (1991)(Compute!).z64" size 34100 crc b401014e md5 fb9af051a8805c6a320b8cbebca2788e sha1 d9411183a183e8060dff22a717e9a82b5c521de3 )
+	rom ( name "2!Compute!'s Gazette 91-06 (1991)(Compute!).z64" size 42068 crc 4bc5249d md5 7b0b582d603959e1a475dd66304a72d4 sha1 f10955128049eb1f44e0acb9a43f610ecbe00473 )
+	rom ( name "3!Compute!'s Gazette 91-06 (1991)(Compute!).z64" size 34952 crc 70b713f8 md5 74239b7377aad78789256189506aba2e sha1 65ac3c97207da7306b2f09e062b16c2235ff1f65 )
+	rom ( name "4!Compute!'s Gazette 91-06 (1991)(Compute!).z64" size 40170 crc 33314273 md5 feab614e52758e880a5d50f22f551f3f sha1 b72485500d08a70953e2f503cf42bf9afaf412c3 )
+)
+
+game (
+	name "Compute!'s Gazette 91-07 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-07 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-07 (1991)(Compute!).z64" size 31484 crc a235728d md5 9c84a1f3583996637fadf7db259885f8 sha1 55e2023a3c5f49b21877b3248e9656d2e81f84d4 )
+	rom ( name "2!Compute!'s Gazette 91-07 (1991)(Compute!).z64" size 42068 crc 75698125 md5 2214375f45a7cc7e4d4b6a0adcd02d27 sha1 ca692e0bfc93a0ac6c91e09600cd77076c9fff43 )
+	rom ( name "3!Compute!'s Gazette 91-07 (1991)(Compute!).z64" size 34348 crc 568792b1 md5 00dba12e398f24519c711d3c790ff610 sha1 0229047b1cf5f4569e41f3b36f094d0a54be7353 )
+	rom ( name "4!Compute!'s Gazette 91-07 (1991)(Compute!).z64" size 15113 crc 6c9f9e96 md5 b0641a24c2292b7541d01936f8970f95 sha1 14cd8f3a6109e4a155c1cc247be7324cdaa191a1 )
+)
+
+game (
+	name "Compute!'s Gazette 91-08 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-08 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-08 (1991)(Compute!).z64" size 26444 crc 70f65c88 md5 8a2e94cc3b1962da7171143d098c8746 sha1 313e7ebb33ecd579b7c1c6c1b96898b660ba9ba7 )
+	rom ( name "2!Compute!'s Gazette 91-08 (1991)(Compute!).z64" size 42067 crc 11424bca md5 d79dcb7978c5615181332a1edde7a011 sha1 a6508bcbc1c9022dc3cb9982258879d560661a47 )
+	rom ( name "3!Compute!'s Gazette 91-08 (1991)(Compute!).z64" size 37969 crc 0901122e md5 0cefb9a2c43b1789ea1f54d65c7e789c sha1 95d33e823c5aac9c6b3f538df2435b07acad4e1e )
+	rom ( name "4!Compute!'s Gazette 91-08 (1991)(Compute!).z64" size 35189 crc 6cd35f31 md5 144417777742a46683a2c482249d0a35 sha1 36a12aa1c348e12cd10fc1887f1f0868d34c63f2 )
+)
+
+game (
+	name "Compute!'s Gazette 91-09 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-09 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-09 (1991)(Compute!).z64" size 30345 crc 1cb53008 md5 5bcb9990dbe066e6fdf7c8199df055a9 sha1 eb4d5697b01b93a1e2dd6fefae3a8bb0bfd91cad )
+	rom ( name "2!Compute!'s Gazette 91-09 (1991)(Compute!).z64" size 42123 crc fd2ab273 md5 4c41b5ce965bcf15314528481805d796 sha1 e3e2eea2caaa7bca19f5b5726d40f1cdceac3c06 )
+	rom ( name "3!Compute!'s Gazette 91-09 (1991)(Compute!).z64" size 39519 crc 448e3298 md5 bbb78434e20a9d1186a67e226fb0a4e8 sha1 2bda55d159aa20857d6de16e2bb58730fa06462d )
+	rom ( name "4!Compute!'s Gazette 91-09 (1991)(Compute!).z64" size 20873 crc 93943b25 md5 72283c6aa65b00c777741c57a5f0115f sha1 e7659527bcc12b71a6675d466304d0428fbfbecb )
+)
+
+game (
+	name "Compute!'s Gazette 91-10 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-10 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-10 (1991)(Compute!).z64" size 30644 crc 2b8aecdb md5 8beef6a57b5eb82ede07210289f84f56 sha1 42c81d1f26fd466e7376ceafe102d5212001bb5f )
+	rom ( name "2!Compute!'s Gazette 91-10 (1991)(Compute!).z64" size 42121 crc da5e296e md5 0a24e02df239516925e29a7898b4b911 sha1 d822bd68fd1a166e924b10ea2cdaebffc31f44fa )
+	rom ( name "3!Compute!'s Gazette 91-10 (1991)(Compute!).z64" size 38756 crc 0fbecd0a md5 ca2daf08237d7a49ab4e2894ed94e868 sha1 8a38dd518e7238d5e240085f214706dd43b53cd5 )
+	rom ( name "4!Compute!'s Gazette 91-10 (1991)(Compute!).z64" size 11652 crc 55ab020e md5 8e8d891c86f14c37b1814911c404b807 sha1 28f9bef7683e7f2adde3e1ad4e856c135fb7b503 )
+)
+
+game (
+	name "Compute!'s Gazette 91-12 (1991)(Compute!)"
+	description "Compute!'s Gazette 91-12 (1991)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 91-12 (1991)(Compute!).z64" size 37783 crc ab41313d md5 e8d856c3952a734c8545f2158bca785a sha1 3627f805056305fea75c172ccb852d4175f7fca3 )
+	rom ( name "2!Compute!'s Gazette 91-12 (1991)(Compute!).z64" size 42120 crc 0104f3ed md5 864cc377cfd52276eda014dbefc04fa2 sha1 b5ed59154cd020fd14e50b3f75601d95766d4049 )
+	rom ( name "3!Compute!'s Gazette 91-12 (1991)(Compute!).z64" size 39895 crc 417ea0ab md5 c1b572864097207a6d46f45894ea9836 sha1 22f6abadbcf497d6b61c7876ad6487fd7a289b87 )
+	rom ( name "4!Compute!'s Gazette 91-12 (1991)(Compute!).z64" size 41377 crc 701a6b14 md5 05f0d479afdd3c47c2dea856ccac1292 sha1 b11c4dbd9f00c1180b97adebd6635420b36351be )
+)
+
+game (
+	name "Compute!'s Gazette 92-01 (1992)(Compute!)"
+	description "Compute!'s Gazette 92-01 (1992)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 92-01 (1992)(Compute!).z64" size 27807 crc 0022efd4 md5 38d6686ceae710a378981b1101472f05 sha1 00786fc59310628cccff8af207b3e0973907a9c1 )
+	rom ( name "2!Compute!'s Gazette 92-01 (1992)(Compute!).z64" size 42122 crc 7ec7272a md5 89f5c596e000022c8a155658cd54d3cb sha1 db9096144ba3722da8c37e85eadbfa419fb19f5a )
+	rom ( name "3!Compute!'s Gazette 92-01 (1992)(Compute!).z64" size 38316 crc e42b348f md5 350e5cbdab95848fcbf0a710cfd5c34b sha1 4e6b8b876383e9c4a29666efc705a4db3472d994 )
+	rom ( name "4!Compute!'s Gazette 92-01 (1992)(Compute!).z64" size 13162 crc 6752cd79 md5 f34161b574220ffa8b7dab3449bb2646 sha1 1aeec4bca1a1d022db99562e2fe80a92254a357e )
+)
+
+game (
+	name "Compute!'s Gazette 92-02 (1992)(Compute!)"
+	description "Compute!'s Gazette 92-02 (1992)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 92-02 (1992)(Compute!).z64" size 34196 crc a5aad2d3 md5 e73a90d8b1486b28aa59d82fe353f139 sha1 56e06e56e2adb6e6c2d8c3b54b5cb3af6385f530 )
+	rom ( name "2!Compute!'s Gazette 92-02 (1992)(Compute!).z64" size 42121 crc 51901d74 md5 746b8b44adbbc082022a167f8188eb16 sha1 7d24346796bdee5bfc91c05b57e71c7464460b43 )
+	rom ( name "3!Compute!'s Gazette 92-02 (1992)(Compute!).z64" size 38687 crc 9d3186ee md5 06130ab2f32f4711b7228f5be6ca6a95 sha1 ff5fe992f0034d915089d764bbef80a59db96f68 )
+	rom ( name "4!Compute!'s Gazette 92-02 (1992)(Compute!).z64" size 8639 crc f8971798 md5 ed655d8a2524ba995f91c34f7c407e9f sha1 ecdfd7093fd0b1c37a5f2c40588451d91e296a7d )
+)
+
+game (
+	name "Compute!'s Gazette 92-04 (1992)(Compute!)"
+	description "Compute!'s Gazette 92-04 (1992)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 92-04 (1992)(Compute!).z64" size 25419 crc 35bb0194 md5 1725d0c66ba0340e6560b290b90d81c9 sha1 ca764b272939f50919e2c503598cd9de4e369924 )
+	rom ( name "2!Compute!'s Gazette 92-04 (1992)(Compute!).z64" size 42121 crc ad761f08 md5 77068de18640c1b0f143b10c4ddfff4e sha1 b5af8573a21b9e0a7a98784732f850798e26b19d )
+	rom ( name "3!Compute!'s Gazette 92-04 (1992)(Compute!).z64" size 37569 crc 70a92f34 md5 2a5120f50f6d92a756423ad7391c7d6e sha1 d9b6d6d9658fcd8946bf5ad73634864bbd8b5167 )
+	rom ( name "4!Compute!'s Gazette 92-04 (1992)(Compute!).z64" size 43471 crc b42c19ce md5 664fa6894afea564b92bbe2c39334320 sha1 a8257205bd5a55618aa9c0a70f60e8ca1d84f86f )
+)
+
+game (
+	name "Compute!'s Gazette 92-05 (1992)(Compute!)"
+	description "Compute!'s Gazette 92-05 (1992)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 92-05 (1992)(Compute!).z64" size 34495 crc 9360c9e0 md5 e465b10d70474f97fcfdb1cb0f5a4267 sha1 d2c60578858f328ad4885bdb51337ab3930fa9b1 )
+	rom ( name "2!Compute!'s Gazette 92-05 (1992)(Compute!).z64" size 42124 crc 8377d520 md5 3e201e4ecae731d29572ac4a173cecfa sha1 dcc67b5595608a4e1905cb956fda6567cc2d7f71 )
+	rom ( name "3!Compute!'s Gazette 92-05 (1992)(Compute!).z64" size 38091 crc c375d8e9 md5 ecf18b750c42ad7bfea7c41d6b93a5d6 sha1 1f229125e62242ef49589520ba7697b7ed02a580 )
+	rom ( name "4!Compute!'s Gazette 92-05 (1992)(Compute!).z64" size 4860 crc 9f1c603f md5 b70ce11283b001415a98756698a0f14a sha1 8e3ec18402dfed344777c72c1bf164bede60d658 )
+)
+
+game (
+	name "Compute!'s Gazette 92-12 (1992)(Compute!)"
+	description "Compute!'s Gazette 92-12 (1992)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 92-12 (1992)(Compute!).z64" size 41869 crc 066c1bb2 md5 992fed3d809474ab871648c81c384458 sha1 2222b5eb01807e47d29f0db86434db7ef07d5b52 )
+	rom ( name "2!Compute!'s Gazette 92-12 (1992)(Compute!).z64" size 42573 crc 97a7ccd5 md5 8a932a77d0803238f58baed8fc6f88b6 sha1 107a0c8fc667c6d092e398b7b63c69e76602d43f )
+	rom ( name "3!Compute!'s Gazette 92-12 (1992)(Compute!).z64" size 39543 crc def6a276 md5 195c4fe5c60f125dacc6445b29eeaf15 sha1 3f20540c6639131d4f44c415a8c3607ee8c9d840 )
+	rom ( name "4!Compute!'s Gazette 92-12 (1992)(Compute!).z64" size 20006 crc 8ed53de7 md5 6a1d977176da548186137d013e9fdbe1 sha1 09afd31b446a4a9363b3ab237e6a1eac10a37546 )
+)
+
+game (
+	name "Compute!'s Gazette 93-09 (1993)(Compute!)"
+	description "Compute!'s Gazette 93-09 (1993)(Compute!)"
+	rom ( name "1!Compute!'s Gazette 93-09 (1993)(Compute!).z64" size 42708 crc 82aefac8 md5 2f9a99764631d828e8005d9ad74545d4 sha1 e850f6099dbee992afc651d8c4fd8d54f0d4f71c )
+	rom ( name "2!Compute!'s Gazette 93-09 (1993)(Compute!).z64" size 42100 crc 70845007 md5 720864f3357490439412bf1b51a12e63 sha1 991f0182dcfb26d76b6704ccaf9e9b7e425b0792 )
+	rom ( name "3!Compute!'s Gazette 93-09 (1993)(Compute!).z64" size 39339 crc fcab1acf md5 1c4e3f5aef75e318bfae6c0b7060a621 sha1 0b7d9321a53bfaa2bd9ee293d5d9fea178cbe070 )
+	rom ( name "4!Compute!'s Gazette 93-09 (1993)(Compute!).z64" size 22755 crc feac4616 md5 22da761696663bc42a1d5503f527457d sha1 8365ad21b84931e9f2297ed7311cef0eacdcf0bc )
+)
+
+game (
+	name "Input 64 (1988)(Verlag Heinz Weise)(de)(Side B)"
+	description "Input 64 (1988)(Verlag Heinz Weise)(de)(Side B)"
+	rom ( name "1!Input 64 (1988-09)(-)(de)(Side B).z64" size 24734 crc a4df6f08 md5 f92462e371805f27ddabae4272662d4e sha1 65a28b6f32704410e836ebc993a9d5996524c46e )
+	rom ( name "2!Input 64 (1988-09)(-)(de)(Side B).z64" size 26785 crc e19c05c3 md5 f1297aefd13d4ad6686e44d8c4eed189 sha1 2e389fa000bdb4e27b988982793300f5ab9e9830 )
+	rom ( name "3!Input 64 (1988-09)(-)(de)(Side B).z64" size 39415 crc 64dc3708 md5 fe4a102bf6fd3186524f8c1cb0c0d782 sha1 de8515acdeaddaf97ffa23e21be62fb40e6d02a1 )
+	rom ( name "4!Input 64 (1988-09)(-)(de)(Side B).z64" size 33906 crc c58d322d md5 0a3470d53a0a738b572df47f5cf048d9 sha1 7bceaeffe2855362a907915b9649dfcd48e72a2a )
+)
+
+game (
+	name "Input 64 85-01 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-01 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-01 (1985)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-01 (1985)(Verlag Heinz Weise)(de).z64" size 33000 crc 5e8b7810 md5 f756dc74723e5fecb6e16e11d7d9f313 sha1 17c41a4d4907ac155d911699fd54191af680f779 )
+	rom ( name "3!Input 64 85-01 (1985)(Verlag Heinz Weise)(de).z64" size 36452 crc 852392a1 md5 588ddc06bfe58208af14491874f5e75a sha1 b149069407286e7a705848702acdb741e0c75b70 )
+	rom ( name "4!Input 64 85-01 (1985)(Verlag Heinz Weise)(de).z64" size 1821 crc b7f9b5b5 md5 3e78f3411dcd1bf18490098510be7dcf sha1 6d4890e642992028e8286fc376c1934e38d06b5a )
+)
+
+game (
+	name "Input 64 85-02 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-02 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-02 (1985)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-02 (1985)(-)(de).z64" size 23085 crc 2e05d398 md5 f35194992c48e68046a75160ee06a6aa sha1 fe421eaebdb82e64134303abb260a26056924d18 )
+	rom ( name "3!Input 64 85-02 (1985)(-)(de).z64" size 30895 crc d79ea4e6 md5 b5f4cd55c3777fd0e9ec7672eebbdbd2 sha1 00df4832bac9798408717aab303bfa5a68c6177f )
+	rom ( name "4!Input 64 85-02 (1985)(-)(de).z64" size 6730 crc dda2f2a4 md5 38dde08683b5b050bfae2282cb06bc50 sha1 394b0297cf290938359035e04fbdcec87f241d3e )
+)
+
+game (
+	name "Input 64 85-03 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-03 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-03 (1985)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-03 (1985)(Verlag Heinz Weise)(de).z64" size 25747 crc 1fe14ccc md5 d3d300b2fd18a6a15e80f55ad18dd243 sha1 3c0e9a268e6768252c4f77c3e815479df3002f73 )
+	rom ( name "3!Input 64 85-03 (1985)(Verlag Heinz Weise)(de).z64" size 32811 crc 1b98d516 md5 247e7faef4405b7866aa9e9345757b9c sha1 dd44017e6c0c4efdc1ce40acd8e17b2b44f4d98f )
+	rom ( name "4!Input 64 85-03 (1985)(Verlag Heinz Weise)(de).z64" size 1650 crc 37822d1b md5 a2ccfd62d27e9e4600c19101109d787e sha1 fa67cdf06d12f39229dd972692ef744e2323764e )
+)
+
+game (
+	name "Input 64 85-04 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-04 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-04 (1985)(-)(de).z64" size 1348 crc 5e04a49c md5 d9b91a5d6f42c5f5ce692f613bc6f8b4 sha1 c0f4cb54d905bd206fce7cd5ad4d22528fc45f20 )
+	rom ( name "2!Input 64 85-04 (1985)(-)(de).z64" size 28934 crc 84170841 md5 6a833ea7899d99d309f5c9fa4384ebb9 sha1 d0b6fae8cf7020f6ae6c9d4721bd625a04dc00af )
+	rom ( name "3!Input 64 85-04 (1985)(-)(de).z64" size 34768 crc 6f4fbb61 md5 97c77511621a607a6b501bb6daf7e18f sha1 10052f555da17ac80b25ead71a9f40d2e987f947 )
+	rom ( name "4!Input 64 85-04 (1985)(-)(de).z64" size 1696 crc 8ae116aa md5 3e811b9b05026beb414c79e4c978cca3 sha1 bb3d3928c04463b4b083d5809f8279b08824de31 )
+)
+
+game (
+	name "Input 64 85-05 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-05 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-05 (1985)(-)(de).z64" size 23396 crc b69ac86b md5 67dc693a000885623e53e04312f07c63 sha1 7d64fb7dc90104e59b8fc020e7e4971a46e9c2f5 )
+	rom ( name "2!Input 64 85-05 (1985)(-)(de).z64" size 39999 crc c0408ac2 md5 4fc0e5a7537493cc1a276a5b3c8f7dc6 sha1 312a23cacbd4511dced7ddd5ed4dd8450dc4dba8 )
+	rom ( name "3!Input 64 85-05 (1985)(-)(de).z64" size 30069 crc 9969f4a6 md5 43bddc4654e6ed4e3d5857fcd854bd49 sha1 61dd9399f7287c4b3c92307049e2d344016d6f91 )
+	rom ( name "4!Input 64 85-05 (1985)(-)(de).z64" size 2099 crc c81768bf md5 693b08b9d375bb5276fc21afdaed7e4b sha1 c4e6acc2fa394902bdfffcec82356a65e8f469db )
+)
+
+game (
+	name "Input 64 85-06 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-06 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-06 (1985)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-06 (1985)(Verlag Heinz Weise)(de).z64" size 39443 crc cd962a6d md5 3ddacfeebe5f71991fbfab6606814d3c sha1 a0946165ca36a86acc0013ea936e6b211a4ba914 )
+	rom ( name "3!Input 64 85-06 (1985)(Verlag Heinz Weise)(de).z64" size 25148 crc 2e8d6e60 md5 854083599c3b529fb83e4b61d742698a sha1 41d79320f08cef41c0767ab6f2e1a1353bc7aea4 )
+	rom ( name "4!Input 64 85-06 (1985)(Verlag Heinz Weise)(de).z64" size 1538 crc 5fb49ceb md5 4c2a3d226bcc8ea2117f1008652d73a1 sha1 d068727e7d44c27d4db3b40e9195d4c6c57cbf4d )
+)
+
+game (
+	name "Input 64 85-07 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-07 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-07 (1985)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-07 (1985)(-)(de).z64" size 20452 crc a41731c1 md5 15c88a1c08358ac66bc840e0fadae4a8 sha1 6ecd6f4620826525021c896f8e85471c250dbdbe )
+	rom ( name "3!Input 64 85-07 (1985)(-)(de).z64" size 29133 crc e46f05c6 md5 3ec8b076dd175768b5503a460f6c25fa sha1 950f25e83dce2b4305962d4e5728a599fb259713 )
+	rom ( name "4!Input 64 85-07 (1985)(-)(de).z64" size 1512 crc cd3e7b0b md5 7e0aa1d0656e1cdfaa1dde0db4a7fae2 sha1 1c917438b2a618266da718a7be38bfa0b419f538 )
+)
+
+game (
+	name "Input 64 85-08 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-08 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-08 (1985)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-08 (1985)(Verlag Heinz Weise)(de).z64" size 20214 crc a54f8161 md5 8b4c52182ce2bc10b9468fe7ef7d330b sha1 eaa8249f69ee480d9cce80449c1099783a6546e0 )
+	rom ( name "3!Input 64 85-08 (1985)(Verlag Heinz Weise)(de).z64" size 35932 crc 4310af47 md5 e66e5813b455c560c803552405dc6b72 sha1 b87b67333a70aa70cac211ecee060ebb8f032ebf )
+	rom ( name "4!Input 64 85-08 (1985)(Verlag Heinz Weise)(de).z64" size 1482 crc 110f9019 md5 203feec8df6bbf115cded14ad7553893 sha1 2d32c6bcd66ce705c9d3e57548f1e9005c3ab4a8 )
+)
+
+game (
+	name "Input 64 85-09 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-09 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-09 (1985)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-09 (1985)(-)(de).z64" size 40046 crc 2c533124 md5 01f9a20465176b5df69689622505efc9 sha1 0961a5dfcd15016a0aa03cae3b98d0d185e276d9 )
+	rom ( name "3!Input 64 85-09 (1985)(-)(de).z64" size 32119 crc af8e33a0 md5 eedf2074a9539acf4a286c2db2d10be4 sha1 7de312098bcc7bcc488a9ed04d743de410f17c78 )
+	rom ( name "4!Input 64 85-09 (1985)(-)(de).z64" size 1466 crc a989f94f md5 cd1b318769cafe6c3926611211901052 sha1 884dad4c13678b4c7d2cf38766d7890cb91b11c1 )
+)
+
+game (
+	name "Input 64 85-10 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-10 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-10 (1985)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-10 (1985)(Verlag Heinz Weise)(de).z64" size 26650 crc cba7910f md5 6453b835163240095e6099e184b5aadf sha1 d55c5487b6c9ad73095451762545dac8de51e8f7 )
+	rom ( name "3!Input 64 85-10 (1985)(Verlag Heinz Weise)(de).z64" size 24060 crc 2e08f7d5 md5 15539deb33e86c91c3e330e0e4b9cd7c sha1 131300d306409a6890c7bd3e0680912f6f249e86 )
+	rom ( name "4!Input 64 85-10 (1985)(Verlag Heinz Weise)(de).z64" size 1496 crc 890c3884 md5 06e752d63f6fef7c5c2e87f035736701 sha1 636f2b6e53c55055c35e492e0a018297f6ef2573 )
+)
+
+game (
+	name "Input 64 85-11 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-11 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-11 (1985)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-11 (1985)(-)(de).z64" size 33464 crc c80088f9 md5 c00229e617d6ecfe8a582f67bb8e8d02 sha1 9907e8c990b074ce09a325b4edce438663e5f757 )
+	rom ( name "3!Input 64 85-11 (1985)(-)(de).z64" size 36684 crc 975d04e2 md5 30a569d1ad3b58b7df3cdafc7d0099a5 sha1 655e67903cd3f588e2f4483dc804b80e5af440b0 )
+	rom ( name "4!Input 64 85-11 (1985)(-)(de).z64" size 5650 crc 58ffd75d md5 e739e072daefbde35dffb9ef4d46af0c sha1 aad47eca6558a67ed511aab1fedeacdad2b6161c )
+)
+
+game (
+	name "Input 64 85-12 (1985)(Verlag Heinz Weise)(de)"
+	description "Input 64 85-12 (1985)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 85-12 (1985)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 85-12 (1985)(-)(de).z64" size 27658 crc 2f3b0a6b md5 892a44e3297f2f70efaff40e5e5c858e sha1 bdff0cb291b8dd98a9e17e883b49558f980201d3 )
+	rom ( name "3!Input 64 85-12 (1985)(-)(de).z64" size 36085 crc f0f85f5a md5 2fc12c59ae24b5262401a95490582fd0 sha1 6af0663b9e89fcb0f345d9ba83f504c358e33629 )
+	rom ( name "4!Input 64 85-12 (1985)(-)(de).z64" size 8852 crc 0dfbac37 md5 6c276f56035a240c05ac82e8d3d39614 sha1 065ef3fd109712e9886e9617dda4927b9f210042 )
+)
+
+game (
+	name "Input 64 86-01 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-01 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-01 (1986)(Verlag Heinz Weise)(de).z64" size 1243 crc 0a38a6d9 md5 655d63f5f8b0fc43337911fcc76e4662 sha1 a7d25871a9deb6c9fbc4cde69ceaa131d984ef91 )
+	rom ( name "2!Input 64 86-01 (1986)(Verlag Heinz Weise)(de).z64" size 21750 crc 3fe17653 md5 e28e8cb335ee0ad45a5b5ee22519b761 sha1 d22676c2a07ba4e8de9a580b00a974fa403e0a1e )
+	rom ( name "3!Input 64 86-01 (1986)(Verlag Heinz Weise)(de).z64" size 35850 crc 26561def md5 0f0334c004a7078a9e8c3b008267cb53 sha1 a1e8c2b87551b3e3b9c269472deee6f0ed364297 )
+	rom ( name "4!Input 64 86-01 (1986)(Verlag Heinz Weise)(de).z64" size 2216 crc cf66fbfa md5 5708a9af32c15970bd8d5d1322eb2070 sha1 e8969dd3923b621a1c447ccf487d712b1ef369bc )
+)
+
+game (
+	name "Input 64 86-02 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-02 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-02 (1986)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-02 (1986)(-)(de).z64" size 33534 crc 20228774 md5 f5e64dc31bcbfbb27ab5b8c0c57bc506 sha1 87cf8852c151cf7ba34583df13c05017f7e07e94 )
+	rom ( name "3!Input 64 86-02 (1986)(-)(de).z64" size 36558 crc e1d8e4e8 md5 82e7f1de3b375b9d57e10a4f4232feb4 sha1 7a343bbd5af7f685232d07449f23d739cb268104 )
+	rom ( name "4!Input 64 86-02 (1986)(-)(de).z64" size 9868 crc 7d19d9a1 md5 55c58d90dceaf1daad6edbaeac9bc2e7 sha1 2adeca12d83028bf07b58a3ab53042847519d6a7 )
+)
+
+game (
+	name "Input 64 86-03 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-03 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-03 (1986)(Verlag Heinz Weise)(de).z64" size 22044 crc 2ba26db0 md5 4a8559a0c03bf35899aad98546eb3aaf sha1 8de4a18fb5dd6ddc8148490aacb2dc999e0c1ade )
+	rom ( name "2!Input 64 86-03 (1986)(Verlag Heinz Weise)(de).z64" size 28706 crc 0b74cdc9 md5 4963242b8299c4041afc1d3267a38e8c sha1 2d67694fde5c7fe4e55679b57bad4500ef66a90c )
+	rom ( name "3!Input 64 86-03 (1986)(Verlag Heinz Weise)(de).z64" size 36095 crc d4cd71fc md5 4dacb1e54a26240f1529255cabac71dd sha1 0200c20075fecfa22ff7933d111786a678259678 )
+	rom ( name "4!Input 64 86-03 (1986)(Verlag Heinz Weise)(de).z64" size 5161 crc 7c6349cd md5 4043fd9318ecc5fea3c57efedef4ce1f sha1 530bd41a454ce31a3e18ea02436ab0d7bb52163e )
+)
+
+game (
+	name "Input 64 86-04 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-04 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-04 (1986)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-04 (1986)(Verlag Heinz Weise)(de).z64" size 35718 crc f6f39f4a md5 431db6bde2805d240f31bee20e05da4d sha1 d6b9aa6161cb9bf0a327715d135a8ec7afb6fc44 )
+	rom ( name "3!Input 64 86-04 (1986)(Verlag Heinz Weise)(de).z64" size 20974 crc f60d697a md5 fdeab6197587335f69f07562690a9e41 sha1 6050b8d1dc3552fbaede0ef3e7174174d8978d85 )
+	rom ( name "4!Input 64 86-04 (1986)(Verlag Heinz Weise)(de).z64" size 2105 crc bd413fae md5 26d508e444b2d7dd6fa9c49ea6894e28 sha1 bff43fdaac4708950e3209b445d71a8c2b50af51 )
+)
+
+game (
+	name "Input 64 86-05 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-05 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-05 (1986)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-05 (1986)(Verlag Heinz Weise)(de).z64" size 36846 crc 276e575a md5 d52b3470816eb135c6d9dcf352f2434b sha1 7833e7b085e54e152ff4d96894d627a96dd147df )
+	rom ( name "3!Input 64 86-05 (1986)(Verlag Heinz Weise)(de).z64" size 36745 crc 055aa043 md5 c758a4c4353bb077ccbf781b04a3363a sha1 f82cf7846585b3e921e9625639cf80e44c8ac576 )
+	rom ( name "4!Input 64 86-05 (1986)(Verlag Heinz Weise)(de).z64" size 13746 crc 5c997d08 md5 f2e48909792e4085ecd42867123043ec sha1 76de937561cafd2c3cbfea0da6d0e451e5a72bda )
+)
+
+game (
+	name "Input 64 86-06 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-06 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-06 (1986)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-06 (1986)(-)(de).z64" size 27697 crc 35d75970 md5 321a7117ad4744230a9bf5efa2641048 sha1 0addf261934e3de7f5237f6ed88ec28f2e416c86 )
+	rom ( name "3!Input 64 86-06 (1986)(-)(de).z64" size 34343 crc 792e6048 md5 623e54e0d0dd5f4ea72758d836d177c9 sha1 525612148fd9677dba5e8e8dcfcf597839061a72 )
+	rom ( name "4!Input 64 86-06 (1986)(-)(de).z64" size 1946 crc 9ce9a7e0 md5 73ff0ca16fb7201accb60bea95d05287 sha1 7ee28e2ab8994f290129308e5dac4332a3bb3594 )
+)
+
+game (
+	name "Input 64 86-07 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-07 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-07 (1986)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-07 (1986)(Verlag Heinz Weise)(de).z64" size 40373 crc 1374a233 md5 d5e000c91ca7d09ccc6ff308d7a6f5f8 sha1 a7aafd3f472572d99705c7dae1a842788b3ae634 )
+	rom ( name "3!Input 64 86-07 (1986)(Verlag Heinz Weise)(de).z64" size 36646 crc 19bc91f2 md5 fd4dc077f0eec8d17571cf908f862434 sha1 c181b5ad02236fb1f5f37fa7a7b1054ef2aee2ce )
+	rom ( name "4!Input 64 86-07 (1986)(Verlag Heinz Weise)(de).z64" size 15544 crc cf79c5e4 md5 c39d42315c851de25e26788960139517 sha1 5237b9a1d656bcfe020a74ea6632e6e7bde8acdc )
+)
+
+game (
+	name "Input 64 86-08 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-08 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-08 (1986)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 86-08 (1986)(Verlag Heinz Weise)(de).z64" size 39173 crc 4abfd262 md5 e1326c1571408bc573b63e1f806d3b1a sha1 f1c298738d8132330b2f5d9cd6c5718b7b623a3f )
+	rom ( name "3!Input 64 86-08 (1986)(Verlag Heinz Weise)(de).z64" size 36992 crc b40ccb38 md5 cbe3974cd50e645db6c760caa7085550 sha1 07f79fac4f33caf1d2625ebf5056de37c2ed4979 )
+	rom ( name "4!Input 64 86-08 (1986)(Verlag Heinz Weise)(de).z64" size 14206 crc 2e6c5593 md5 88c424ed091a24ec76c4eda4653599e0 sha1 820acaaf2ca99d6f988b8665873abb7b59274190 )
+)
+
+game (
+	name "Input 64 86-09 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-09 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-09 (1986)(-)(de).z64" size 2848 crc 507763df md5 bd69372767afa07daf06bcec4cac1724 sha1 8de79bc4b9f874b2a72e5da5ff6e4929840cdf10 )
+	rom ( name "2!Input 64 86-09 (1986)(-)(de).z64" size 40839 crc 922f133d md5 6390c23c9d686da55f165d3d95265bef sha1 8b3083ba038cd98bf184f4b87d777c1992338193 )
+	rom ( name "3!Input 64 86-09 (1986)(-)(de).z64" size 32884 crc cb41c9f2 md5 2f5c1b807b69ccbe1a370d4385da43af sha1 87c60ccdffe5d267009e5d20b57f3898f2521a9b )
+	rom ( name "4!Input 64 86-09 (1986)(-)(de).z64" size 4846 crc 3b4f1f95 md5 dda44f88da621309faee1f4c193a7027 sha1 478975a0029972416a74e655bd22aeafc1488c36 )
+)
+
+game (
+	name "Input 64 86-10 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-10 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-10 (1986)(Verlag Heinz Weise)(de).z64" size 4719 crc b91aae04 md5 27b15daec5ef3ad4fbe5ced708afc1bb sha1 467f6310002e45e05d99bebba727032315b9f320 )
+	rom ( name "2!Input 64 86-10 (1986)(Verlag Heinz Weise)(de).z64" size 38905 crc 63d7e6fc md5 a919a682dda822fff7c5745ba8225d22 sha1 a2e987aa3d6751011311c01f6b0f2a73bd6159ed )
+	rom ( name "3!Input 64 86-10 (1986)(Verlag Heinz Weise)(de).z64" size 32294 crc b813e783 md5 e9050bcb49b8fc6d11d3f914ae73e542 sha1 92a3a99d8b9e79831695dcb6629a624e516f488a )
+	rom ( name "4!Input 64 86-10 (1986)(Verlag Heinz Weise)(de).z64" size 4722 crc 878d061b md5 84988fc12d90e748d7b55095a8e3369d sha1 28c07a64dd52bb5a73465687bf8b3ccc96340d46 )
+)
+
+game (
+	name "Input 64 86-11 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-11 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-11 (1986)(-)(de).z64" size 9569 crc 4384c89e md5 4441b80a1a09f8272980a08116c57c4b sha1 e2369f4d6b80f19d90345a628016e393ad89a626 )
+	rom ( name "2!Input 64 86-11 (1986)(-)(de).z64" size 38281 crc f928fe18 md5 513391a779c74551662342202cee9f48 sha1 116d76f67befe3d6ac496954e44429e10a158bfb )
+	rom ( name "3!Input 64 86-11 (1986)(-)(de).z64" size 32863 crc 041dabfd md5 a0dabd7c5a798a5e063dab3f90d9a5b8 sha1 92f7d7def0f2c25ce73f93f78074dc83c0a13284 )
+	rom ( name "4!Input 64 86-11 (1986)(-)(de).z64" size 4822 crc 039effe9 md5 1c213b4b9d31fa82a656067f68385bdf sha1 98cc575da0ccb5516e11ccb386bc217b2476f78d )
+)
+
+game (
+	name "Input 64 86-12 (1986)(Verlag Heinz Weise)(de)"
+	description "Input 64 86-12 (1986)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 86-12 (1986)(Verlag Heinz Weise)(de).z64" size 15919 crc 6a5c570a md5 fce2dcc558610deb26a6e10adaca5b29 sha1 4ad3bd0674b28cd550f2c45a90c2cd2a2d42a24a )
+	rom ( name "2!Input 64 86-12 (1986)(Verlag Heinz Weise)(de).z64" size 30266 crc d24925d1 md5 4d9866fdcfc7419f19260bcd5181a755 sha1 d925f3872f4b24f1778898d1af89fc1ea8e99d08 )
+	rom ( name "3!Input 64 86-12 (1986)(Verlag Heinz Weise)(de).z64" size 35892 crc 82fef403 md5 f267f336d0fcd84e239060a93eb33b1c sha1 776c703e30e8c1573e95c507810f5ad9928d5057 )
+	rom ( name "4!Input 64 86-12 (1986)(Verlag Heinz Weise)(de).z64" size 6353 crc 5a734a82 md5 403729cd39e75bc085d5b08a36a02530 sha1 43ec7294bdddf7eb2d70e3d4f2a9d4c6dda66f6e )
+)
+
+game (
+	name "Input 64 87-01 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-01 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-01 (1987)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 87-01 (1987)(Verlag Heinz Weise)(de).z64" size 20173 crc b9bb4a08 md5 2a53ed141998396ab3a44929b4ad3324 sha1 bb7646db71200a9cc9f31e56e59909baf1a62ca7 )
+	rom ( name "3!Input 64 87-01 (1987)(Verlag Heinz Weise)(de).z64" size 37939 crc 80fbfe0a md5 cac4a74fbf725055534f6eb94736f36e sha1 f24093f629807442ddf6ba6952b8aa910eb96a53 )
+	rom ( name "4!Input 64 87-01 (1987)(Verlag Heinz Weise)(de).z64" size 5123 crc 888c863b md5 75a137c8565fd3bdc28263646e18811d sha1 02b20c0fa702b15b094b2b388dfe34e6675c1f36 )
+)
+
+game (
+	name "Input 64 87-02 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-02 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-02 (1987)(-)(de).z64" size 3917 crc 663a84ed md5 01b5a474438f145c26774f834281f72c sha1 42464ce69c6ff768f16a968f7b7e0f9cb0f525b7 )
+	rom ( name "2!Input 64 87-02 (1987)(-)(de).z64" size 38801 crc f509282e md5 4e789eed51e9a5c7cfe5269dd421bb0a sha1 1dcc1fd81ca127f1e8ae296e23e8b859782331ac )
+	rom ( name "3!Input 64 87-02 (1987)(-)(de).z64" size 34776 crc 1a8a8d01 md5 7437f43e555b65654b4fbd3bcdf9de9b sha1 a11deb8f0aef9f30c2cfa6cc58a575d1b825ddcd )
+	rom ( name "4!Input 64 87-02 (1987)(-)(de).z64" size 6271 crc 55f63619 md5 b96e1c617326066907317957e4090711 sha1 f280ffa07e91605b5fd648c24d639b6cce748c57 )
+)
+
+game (
+	name "Input 64 87-03 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-03 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-03 (1987)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 87-03 (1987)(Verlag Heinz Weise)(de).z64" size 27697 crc 9a1b5a7d md5 89be759484661d2f55e09ca59c1f55da sha1 272e67d7dd9898bd41312f10a0c98d05d832b48e )
+	rom ( name "3!Input 64 87-03 (1987)(Verlag Heinz Weise)(de).z64" size 39302 crc 75c407a8 md5 19f778b2fba043571dd0b735dff5cf43 sha1 bc513212f76847e09ab147dde4d3911cee19e23a )
+	rom ( name "4!Input 64 87-03 (1987)(Verlag Heinz Weise)(de).z64" size 3573 crc 71f225ac md5 eedd383b002fbd19ad3e4c00b5464f43 sha1 3d54acfd2394f03e54f9b8a60351ac8ce0e2a27e )
+)
+
+game (
+	name "Input 64 87-04 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-04 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-04 (1987)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 87-04 (1987)(-)(de).z64" size 34075 crc bcd7229f md5 5c1be7f24884ad1fe864bae996538d9d sha1 aa8989322bc3710764af6e09d8dc55c6c4225606 )
+	rom ( name "3!Input 64 87-04 (1987)(-)(de).z64" size 34417 crc 22715212 md5 d2c8a1b54c65350c537b6aa52f4bb4f7 sha1 5b7490f3fa38a156c2b5957de4133f6f70ebcf70 )
+	rom ( name "4!Input 64 87-04 (1987)(-)(de).z64" size 3469 crc c83a30b7 md5 8e068caa05c8842cc57fb91466d397d1 sha1 f3585f1120baee0a6e21299fa6283a583184ea00 )
+)
+
+game (
+	name "Input 64 87-05 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-05 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-05 (1987)(-)(de).z64" size 12665 crc 2e551090 md5 9813c6d182d36652a062fac176446c02 sha1 d1688d6769ef398b2a49744e5b3dde1506d7aef6 )
+	rom ( name "2!Input 64 87-05 (1987)(-)(de).z64" size 42704 crc 08853e4d md5 084275b15e21965c6e4fa944c517ec76 sha1 a234792bd673c86e3ee92677826bffcad209824f )
+	rom ( name "3!Input 64 87-05 (1987)(-)(de).z64" size 37634 crc beef66b0 md5 dbb654095e6b5ecc043a171ce2924832 sha1 f3bb18cb7e23477c26926835c46404be946e3dba )
+	rom ( name "4!Input 64 87-05 (1987)(-)(de).z64" size 16038 crc bb5e13c6 md5 b71ea15bb237830244b831c9de5979a0 sha1 475c2174ee9f7e72e962570122d583f0263952c6 )
+)
+
+game (
+	name "Input 64 87-06 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-06 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-06 (1987)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 87-06 (1987)(-)(de).z64" size 28895 crc d950753a md5 651bf78222669d62585fafdf091b1e4b sha1 f39225b7138857fb302d5c150ccd23e180043ef9 )
+	rom ( name "3!Input 64 87-06 (1987)(-)(de).z64" size 30726 crc 5b795ebb md5 125837e8fc66bb0b080b1264ef247c36 sha1 2c6d0ea6709bae74b1d4fe0a5c3f7e6cc1905f21 )
+	rom ( name "4!Input 64 87-06 (1987)(-)(de).z64" size 2232 crc 28cce110 md5 e442269b1f1a15fa0052e90e69680cfa sha1 bdba5ef5e2b70d95d6108ae152102f45483cacb4 )
+)
+
+game (
+	name "Input 64 87-07 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-07 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-07 (1987)(Verlag Heinz Weise)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 87-07 (1987)(Verlag Heinz Weise)(de).z64" size 15468 crc 74b934d3 md5 0ffe93eabdecb057be922c866fbbad99 sha1 65edc7557e9d793c97261cf38fd478148c024ace )
+	rom ( name "3!Input 64 87-07 (1987)(Verlag Heinz Weise)(de).z64" size 28952 crc f5fb2797 md5 df25fb20d531d9af5bf0836c1f286c34 sha1 209d76874357c94ad62abc5792267fb5696a9dd2 )
+	rom ( name "4!Input 64 87-07 (1987)(Verlag Heinz Weise)(de).z64" size 2158 crc b79d8dde md5 b1615209f8136a35a1b2b612d281b02d sha1 d6ed7d36b16767bdfb64e3cf5667955699eb998f )
+)
+
+game (
+	name "Input 64 87-08 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-08 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-08 (1987)(Verlag Heinz Weise)(de).z64" size 14369 crc 98785831 md5 d952ab5d7bf0488aca4ec45581517e4a sha1 323d3fc9dea505d80dc41bd71008e57af7429c57 )
+	rom ( name "2!Input 64 87-08 (1987)(Verlag Heinz Weise)(de).z64" size 36913 crc 186e036d md5 aa47f73525d4266f09b2cfd0487bce99 sha1 e231114372dc6ba6ea2d7ec319ee0bd7111ec8b4 )
+	rom ( name "3!Input 64 87-08 (1987)(Verlag Heinz Weise)(de).z64" size 36722 crc cbc4efef md5 5b03fe05ec9538388632528dbbfab71d sha1 12fbe6dbd139a708166f2448f782cfcc7dc327b0 )
+	rom ( name "4!Input 64 87-08 (1987)(Verlag Heinz Weise)(de).z64" size 9120 crc 58bfb0c6 md5 596ad25011818636de01f6b598ab1cac sha1 53421c62bd1869024723192a0eb1c495abc16793 )
+)
+
+game (
+	name "Input 64 87-09 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-09 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-09 (1987)(-)(de).z64" size 2327 crc 7d119ab2 md5 3f30852d0303b6814cb2b872df475cd2 sha1 7c9cca9ed95f13d203d46b1c0b4478055693fea0 )
+	rom ( name "2!Input 64 87-09 (1987)(-)(de).z64" size 41890 crc 197b522f md5 cec96f08f04ea0329773f025069e0829 sha1 a6b21e8879ac13b577ff139c8b7743694b10c58d )
+	rom ( name "3!Input 64 87-09 (1987)(-)(de).z64" size 33238 crc 1957e692 md5 4875d4334bd0a03b0e45017e734b4b7a sha1 e3d95b0b14da11e404489870fcadd80d0ed12339 )
+	rom ( name "4!Input 64 87-09 (1987)(-)(de).z64" size 2222 crc d892e3b8 md5 8bd894cfe27954194ead312b070da259 sha1 91483b32701bc866e19f61e5373ffd53aaebe5e1 )
+)
+
+game (
+	name "Input 64 87-10 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-10 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-10 (1987)(Verlag Heinz Weise)(de).z64" size 4848 crc 8d30bf62 md5 63f14ca1909eccde5864b53af8fdfccd sha1 f32d50fd962240d2fd2accbc564bc71db9a9f2a5 )
+	rom ( name "2!Input 64 87-10 (1987)(Verlag Heinz Weise)(de).z64" size 42521 crc b4f5c77d md5 83aa8391e0171dcdf9c6eafe4ebf0e2a sha1 8fb6fac0fe1a5013286c05a85b8c0523f980dd4e )
+	rom ( name "3!Input 64 87-10 (1987)(Verlag Heinz Weise)(de).z64" size 36717 crc 3cad91b5 md5 b6697a5a51c93e87e6c644af772df8de sha1 cd4a6c9b3155115a6fe4308ea99684a90e886589 )
+	rom ( name "4!Input 64 87-10 (1987)(Verlag Heinz Weise)(de).z64" size 13126 crc f4ed3182 md5 82f6343f209fd5dc96ad644b943fbaec sha1 398f838defb0c2918a31138f702fd76fb329cb83 )
+)
+
+game (
+	name "Input 64 87-11 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-11 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-11 (1987)(-)(de).z64" size 6812 crc e47e296a md5 c1bdfb473574d2e848b616316c532151 sha1 06649d000c4fa382aa52cbd4f59beef5a2ef3f09 )
+	rom ( name "2!Input 64 87-11 (1987)(-)(de).z64" size 38548 crc cee123a8 md5 aac3e0743af675ecb10b4a9b13e6805f sha1 1175f6e428f5b0d3a1a3552fc4d390b8bae704e1 )
+	rom ( name "3!Input 64 87-11 (1987)(-)(de).z64" size 38901 crc 61c922cd md5 18f765cd1e0225699264aefddfb62ad7 sha1 1fa8a58740bb66d996f39ddc6e91401b5ab52ef0 )
+	rom ( name "4!Input 64 87-11 (1987)(-)(de).z64" size 10596 crc 969b7f68 md5 b2d343f5a6a1a6ebd7e94d6dc93a7fbf sha1 61b0ecebd6eed2a9af0fa2fef6276e6fc6c574d1 )
+)
+
+game (
+	name "Input 64 87-12 (1987)(Verlag Heinz Weise)(de)"
+	description "Input 64 87-12 (1987)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 87-12 (1987)(-)(de).z64" size 5233 crc 5b2514d0 md5 40607a191739d77e1a1f14721267fc6a sha1 56b5bbecf3620cad80cb3aa685c602a86f175693 )
+	rom ( name "2!Input 64 87-12 (1987)(-)(de).z64" size 37427 crc a885e7bc md5 dadce579da4fa48189b8c044650a7ad8 sha1 aff9a29c9206e99fbd9c9fc66149bf460cad2946 )
+	rom ( name "3!Input 64 87-12 (1987)(-)(de).z64" size 37204 crc 0d7ab5e6 md5 96a950dc6a64015e6a7f7403fa184960 sha1 e2df3f1aefbd1efce0ea64a6acd5f71843b261e5 )
+	rom ( name "4!Input 64 87-12 (1987)(-)(de).z64" size 4356 crc 389eb82e md5 f54d439fae7d6b49fcc5c4f68dcf0d31 sha1 dd71ea442e1589f8c5359447c542dd05400d6394 )
+)
+
+game (
+	name "Input 64 88-01 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-01 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-01 (1988)(Verlag Heinz Weise)(de).z64" size 6287 crc 63697cc8 md5 f565fe359105270652b8fe90ea5c8cef sha1 c80489726e3103bd68e67162cf194f0f4a7c6c07 )
+	rom ( name "2!Input 64 88-01 (1988)(Verlag Heinz Weise)(de).z64" size 42277 crc df06bf11 md5 f3711d88fd76afd2cb12821719f17807 sha1 85b6eb953c02c81cbbb18d3c64e645fe1d4e50bb )
+	rom ( name "3!Input 64 88-01 (1988)(Verlag Heinz Weise)(de).z64" size 36791 crc e619ee81 md5 a17325d045e7e1448af8de855ae48b46 sha1 c36dabc57a8cd546ccbaf3c9198b976b6f89928d )
+	rom ( name "4!Input 64 88-01 (1988)(Verlag Heinz Weise)(de).z64" size 14514 crc f5a569cf md5 202588f9cd0a6ad075a86bfc3a96f0e4 sha1 c8b1ec1e7be0c415a3cd06fce0f2b5f3c520c66d )
+)
+
+game (
+	name "Input 64 88-02 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-02 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-02 (1988)(-)(de).z64" size 12895 crc afe886fe md5 86ffaae7a4a590446d7766669cba25f6 sha1 6705bcef775baa8598c9258445bd027dfbbe5039 )
+	rom ( name "2!Input 64 88-02 (1988)(-)(de).z64" size 42528 crc 6cc932f0 md5 f9f4e9e7987d4de4453ca8c7ead52cab sha1 7741f3ae166b18d7496b8e92fc6d03200938fe4a )
+	rom ( name "3!Input 64 88-02 (1988)(-)(de).z64" size 36563 crc 62de2418 md5 77200a407881a808caf2d7ecd4f27be1 sha1 2f45f7d69dbb52272eb7f67ef03cf2dc8cf014c7 )
+	rom ( name "4!Input 64 88-02 (1988)(-)(de).z64" size 19472 crc 3bc30d80 md5 d04e3444360173e6071aa13021b55962 sha1 58e7e45e9dd82020e281029bd0083f4a626964c8 )
+)
+
+game (
+	name "Input 64 88-04 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-04 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-04 (1988)(Verlag Heinz Weise)(de).z64" size 11168 crc 6ed819ea md5 81ab085e2b20be7249dec0c0a90d4e41 sha1 4e96fd05cd4c4f7c636afcb24f731ee1f9302e6b )
+	rom ( name "2!Input 64 88-04 (1988)(Verlag Heinz Weise)(de).z64" size 41402 crc f00235af md5 25cccf82fd78fb24f75697be3365e996 sha1 2b54b0901ade39a9913b2fd8e61e7a243cc7be92 )
+	rom ( name "3!Input 64 88-04 (1988)(Verlag Heinz Weise)(de).z64" size 38609 crc ad43bb69 md5 157ece1b983dcb851802bdfbaf19a842 sha1 40767a6f92b5b3adcce6c0e7223561ed18ced5bc )
+	rom ( name "4!Input 64 88-04 (1988)(Verlag Heinz Weise)(de).z64" size 9992 crc 797447d8 md5 1ccebe332f4d162854dbef05dbed4e72 sha1 0ba651fc0883c83f7a135b5772c219a3b1c47293 )
+)
+
+game (
+	name "Input 64 88-05 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-05 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-05 (1988)(-)(de).z64" size 39247 crc 3f66d0dc md5 d47aa6a1174c70063d28817878644091 sha1 23f967a85bb1203c8476dc305f34eda06171af25 )
+	rom ( name "2!Input 64 88-05 (1988)(-)(de).z64" size 43075 crc 1a251d06 md5 e09f33810ff23e61f614ff8d73c2b85b sha1 0a2cb4c98e8fb73f6a917c3d5f276dd84085dcb4 )
+	rom ( name "3!Input 64 88-05 (1988)(-)(de).z64" size 43082 crc c0819775 md5 dd198da015eb2d44c97b38021444006d sha1 3e927a56c19e2fc4bf8c2c41b2700a5ee8a64ea9 )
+	rom ( name "4!Input 64 88-05 (1988)(-)(de).z64" size 40807 crc bd46ae79 md5 627936d4a6f0c4808c6ea38610181deb sha1 9bdf6c1a1c27a0f8156eea44d9257b695bc8cb97 )
+)
+
+game (
+	name "Input 64 88-05 (1988)(Verlag Heinz Weise)(de)[a]"
+	description "Input 64 88-05 (1988)(Verlag Heinz Weise)(de)[a]"
+	rom ( name "1!Input 64 88-04 (1988)(-)(de).z64" size 39032 crc c780a849 md5 3319d2d8454f1f459e791fc07dfe77d1 sha1 3af02a00ad60a218f768983a7a5ad72d94adaf1f )
+	rom ( name "2!Input 64 88-05 (1988)(-)(de).z64" size 40382 crc eabbf0ab md5 e9e570c0d307aeb490ca005f52a68b87 sha1 5b16ff4add35ed3ada63b0546864dda456ffefc2 )
+	rom ( name "3!Input 64 88-05 (1988)(-)(de).z64" size 42572 crc a66dd5ba md5 1f78eee194e98e5fcce9ce8a19f0c531 sha1 95d4e501cc73bb56284078413190492ab833b435 )
+	rom ( name "4!Input 64 88-05 (1988)(-)(de).z64" size 42023 crc dc51a740 md5 c76130e3eff437b677767dafe5fffa9e sha1 18bdc2f6482c71acc8fb75994a6c0c701e517edd )
+)
+
+game (
+	name "Input 64 88-06 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-06 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-06 (1988)(-)(de).z64" size 19111 crc 80297433 md5 40dc2f3d3ecb894d14c822c83f60f949 sha1 9b78d7163ae85f3c5b171add9b4786dedf5242f4 )
+	rom ( name "2!Input 64 88-06 (1988)(-)(de).z64" size 41118 crc 35fd5e55 md5 8e5ec6a0ebd14b6ee0e1eb8e5627f4e1 sha1 ffc114fa3cb53a39e4289b1884f9402fee8cc6db )
+	rom ( name "3!Input 64 88-06 (1988)(-)(de).z64" size 38692 crc 476056b4 md5 27ce43b64823c17a04fc6733cbf13d3f sha1 9a778a7290a8711a41ed9b3ba76148b8dff9d7e9 )
+	rom ( name "4!Input 64 88-06 (1988)(-)(de).z64" size 16132 crc fa26d6be md5 d66a327cc0fe02afb22edf00ce7ce40d sha1 743bef790bb942651a06d2c2acc6ab20bc044a21 )
+)
+
+game (
+	name "Input 64 88-07 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-07 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-07 (1988)(-)(de).z64" size 12519 crc 90f0ada8 md5 89887bb3472ddbcd093fd76cee7d59ad sha1 7c93d9f14e9d5b8831605dd46ae1eb8020ef877e )
+	rom ( name "2!Input 64 88-07 (1988)(-)(de).z64" size 39037 crc 7592d513 md5 8140cd26ac374b715ed1e3977d046f3d sha1 bf7a60b66258d2dd679e05a2c7efcf37ecbcfc14 )
+	rom ( name "3!Input 64 88-07 (1988)(-)(de).z64" size 37382 crc 1d6a8a80 md5 c00f648cc351be7b404d6adbb57ee866 sha1 eb8695329b448f2d035d5f2e27cfc24759f487ce )
+	rom ( name "4!Input 64 88-07 (1988)(-)(de).z64" size 15109 crc f85eff25 md5 b028e8b62e3f60ad02249a32e71b09da sha1 27459f48e856e1b4d420dc302742c8f11c473f30 )
+)
+
+game (
+	name "Input 64 88-08 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-08 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-08 (1988)(-)(de).z64" size 1348 crc 434c4314 md5 c29fc540d61875686b249c6eb668e162 sha1 7970a7b74afc4e349419b6cc07cb4e112af76bcd )
+	rom ( name "2!Input 64 88-08 (1988)(-)(de).z64" size 25715 crc e817c2a5 md5 85b3b6ba6b328ff61522d717abb1e46e sha1 634296a50d936e2aae1323fa4c8312d61b707dba )
+	rom ( name "3!Input 64 88-08 (1988)(-)(de).z64" size 29760 crc 08cd6182 md5 98f243942fff3c050d4cf77c1e954780 sha1 12b03dda0fb730e58670586ab9fcbf95bd7813f2 )
+	rom ( name "4!Input 64 88-08 (1988)(-)(de).z64" size 3795 crc b0d8ab7f md5 ccb2c2187b82a0f81078632326fcc37e sha1 541eb13a5649749b9a8ab1139f441b3c45656f2d )
+)
+
+game (
+	name "Input 64 88-09 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-09 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-09 (1988)(Verlag Heinz Weise)(de).z64" size 13848 crc ba2964db md5 0560ec6db87b6b2ab9fa4d498a873fe0 sha1 8ea0d0fe4b500c2a7cfc62de1180e85fffd42a57 )
+	rom ( name "2!Input 64 88-09 (1988)(Verlag Heinz Weise)(de).z64" size 41478 crc ebe40767 md5 866adb3c2fadcbda42f542704a44c82c sha1 7d7bdcf955efa84f83d59b31119b810c9feb8e07 )
+	rom ( name "3!Input 64 88-09 (1988)(Verlag Heinz Weise)(de).z64" size 33975 crc b4d8507c md5 fe328d2fac3f4c0d1f15d55b9def0e45 sha1 bf17aab42582fbc2542a85500d2713262184e40a )
+	rom ( name "4!Input 64 88-09 (1988)(Verlag Heinz Weise)(de).z64" size 2095 crc 333b4abb md5 81f0896ce76176aee9fd61aa186063df sha1 cf88690f4434b0ba3cae8c8fb179fd65beb126d1 )
+)
+
+game (
+	name "Input 64 88-10 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-10 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-10 (1988)(Verlag Heinz Weise)(de).z64" size 15898 crc 344942e9 md5 f5dd1d31fb2506748ab746743978d73d sha1 5afd2007d1f5129abab52b77659d38ab181ea255 )
+	rom ( name "2!Input 64 88-10 (1988)(Verlag Heinz Weise)(de).z64" size 33403 crc 48bdca15 md5 4b3695085ac5c339fb6c37580b072d2f sha1 58ca3a904ff2cef9b18a73c50f4594e7ab4dddc9 )
+	rom ( name "3!Input 64 88-10 (1988)(Verlag Heinz Weise)(de).z64" size 39783 crc 04578e7b md5 7b96a4e8deb7ed6c6df652b1ac9906b4 sha1 aa0409ebc42ab83144a5d37509c075939505f662 )
+	rom ( name "4!Input 64 88-10 (1988)(Verlag Heinz Weise)(de).z64" size 20009 crc 55d1c8ee md5 460ba67d751e6f0862794f84e7eefe9e sha1 52c26a53111b3b92f4c52f69e5b9eb55103da86d )
+)
+
+game (
+	name "Input 64 88-11 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-11 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-11 (1988)(Verlag Heinz Weise)(de).z64" size 6230 crc 83632922 md5 56f7bc80d003edb0c658b3d0ce35cfb5 sha1 6870e2336221a4b28ae8949b5c3bad24c231446a )
+	rom ( name "2!Input 64 88-11 (1988)(Verlag Heinz Weise)(de).z64" size 38221 crc c9a08c46 md5 9422b5f625db1f6f37a6b5d79b96ff11 sha1 c6a7ba211d01daa538cf8b128fe408ba355a241f )
+	rom ( name "3!Input 64 88-11 (1988)(Verlag Heinz Weise)(de).z64" size 36004 crc 94cb44c9 md5 caa93fa5f41cd8bf8f4f91556f3a1f1d sha1 19f4026acaae428dceeedc28f33adb9fea7c3a58 )
+	rom ( name "4!Input 64 88-11 (1988)(Verlag Heinz Weise)(de).z64" size 12588 crc 25c391b2 md5 6f721fcbfffbf854daceb74e31e6464d sha1 fbf9cc4c219eb565d9f442fcd23e6bccdd618168 )
+)
+
+game (
+	name "Input 64 88-12 (1988)(Verlag Heinz Weise)(de)"
+	description "Input 64 88-12 (1988)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 88-12 (1988)(Verlag Heinz Weise)(de)[a2].z64" size 15846 crc 257e2651 md5 384767c2cd5b5805ac5f27d7993571ee sha1 ec191ceeeac488d7b46278dfd5cc33e2f217d2ae )
+	rom ( name "2!Input 64 88-12 (1988)(Verlag Heinz Weise)(de)[a2].z64" size 30410 crc b4bdf3d1 md5 aa955714f5b462b3844a6bf83927cd3a sha1 f4cbb7733fc28097e8ae9dd3dbb5a78a9a2aa17e )
+	rom ( name "3!Input 64 88-12 (1988)(Verlag Heinz Weise)(de)[a2].z64" size 31186 crc 2a812ae7 md5 f078907c8d3bdfedd00a0c064e7b47c0 sha1 54abbc43265e6318854cbe02fd911124db3b33a0 )
+	rom ( name "4!Input 64 88-12 (1988)(Verlag Heinz Weise)(de)[a2].z64" size 6618 crc 132bb778 md5 b8654bb35c2de1b3bb2009ed1cdb63fb sha1 016f75e4579c504f8dd726abcc70893532e59d04 )
+)
+
+game (
+	name "Input 64 Spezial (19xx)(Verlag Heinz Weise)(de)"
+	description "Input 64 Spezial (19xx)(Verlag Heinz Weise)(de)"
+	rom ( name "1!Input 64 Spezial (19xx)(-)(de).z64" size 24756 crc 0f1a19b9 md5 ea7152aa74c233e44242c2956c0553f0 sha1 e52bf30d7360503a8fbb7fca23d47134b71fea09 )
+	rom ( name "2!Input 64 Spezial (19xx)(-)(de).z64" size 42636 crc 3873d7b0 md5 e35300de29d3f247d5f6c5d1e4e83fa0 sha1 3f52cc4eb25072f85b524b5985a3a3a98e3e80a4 )
+	rom ( name "3!Input 64 Spezial (19xx)(-)(de).z64" size 39765 crc 1d0e9ffa md5 ac2da37d1dad2aba1c5cdf72f30e336f sha1 924c254fc0c77313b76b2919e49c39cd4fd646a2 )
+	rom ( name "4!Input 64 Spezial (19xx)(-)(de).z64" size 27856 crc b77f6123 md5 8a585742ecf8f6a67313f8644220186d sha1 c9a4191e2aaabfa1eb9d2c97b83f7d735d6d50bf )
+)
+
+game (
+	name "Magic Disk 64 87-11 (1987)(-)(de)(Side A)"
+	description "Magic Disk 64 87-11 (1987)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 87-11 (1987)(-)(de)(Side A).z64" size 30368 crc 34661937 md5 4f0ada0b00cbd7f35c8a7833a76ad48a sha1 bf9fd256c122cd5306adf4eedad24640f55046f4 )
+	rom ( name "2!Magic Disk 64 87-11 (1987)(-)(de)(Side A).z64" size 31702 crc bdc3c46d md5 76ae956b2778d3047ee6b686de03f4e1 sha1 1607da54bd24cb4546ff776fad9aa9a7eed11e36 )
+	rom ( name "3!Magic Disk 64 87-11 (1987)(-)(de)(Side A).z64" size 25072 crc 09d77604 md5 44173029fd08f120db98faad1e74b393 sha1 55a12204dfc518e619070b07594abd27032e8076 )
+	rom ( name "4!Magic Disk 64 87-11 (1987)(-)(de)(Side A).z64" size 28524 crc 8bea29a0 md5 c36135edf36e310bd11431f3d5109131 sha1 962d5aa5d7f795c905ef292db776f3fc084a8f81 )
+)
+
+game (
+	name "Magic Disk 64 87-11 (1987)(-)(de)(Side B)"
+	description "Magic Disk 64 87-11 (1987)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 87-11 (1987)(-)(de)(Side B).z64" size 34891 crc 262e414c md5 38ff11c99b2302f352f03a60a8d24a65 sha1 932e1fb377d5c70047d800334f4d5bc568e4b52b )
+	rom ( name "2!Magic Disk 64 87-11 (1987)(-)(de)(Side B).z64" size 25260 crc 16df23b0 md5 bab4bb9cf1e4b70500ada04af41dfa7d sha1 cc2359dcf77319133aea03e070a8953f5df36d11 )
+	rom ( name "3!Magic Disk 64 87-11 (1987)(-)(de)(Side B).z64" size 24005 crc c1906a3f md5 2eecf520711bc87eba87a62f3a746610 sha1 dbfe7b7342ec0858c7c820e64b72e430ab1a16c0 )
+	rom ( name "4!Magic Disk 64 87-11 (1987)(-)(de)(Side B).z64" size 37201 crc 46190eea md5 b4cc18ae98db45a2dcb3f0a1a5ed2bef sha1 f5e3b47a0522ed26ea4d2935c6dd7413222c7f80 )
+)
+
+game (
+	name "Magic Disk 64 87-12 (1987)(-)(de)(Side A)"
+	description "Magic Disk 64 87-12 (1987)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 87-12 (1987)(-)(de)(Side A).z64" size 28959 crc 10226aa3 md5 cf3b1a52f938c02aaee6c4bd993072cc sha1 71cbea63ed3e3687b677ac6eabb8c48abff4b7fe )
+	rom ( name "2!Magic Disk 64 87-12 (1987)(-)(de)(Side A).z64" size 27104 crc dd65b990 md5 99eb8e9ecd94b4b8ab380e046937bafa sha1 5009eef741fb3ba01f6c8fc1330d1df9f1790d66 )
+	rom ( name "3!Magic Disk 64 87-12 (1987)(-)(de)(Side A).z64" size 26440 crc 299cdfdb md5 2e98289f9e44336a5d658544b7f1d177 sha1 61ea202addb7a82d781930ba51675e390942b929 )
+	rom ( name "4!Magic Disk 64 87-12 (1987)(-)(de)(Side A).z64" size 32207 crc bc9c83f0 md5 3a66383221ba429f2255cf39b0e79a3e sha1 ad99eeaacac192dc1d354e7066e1483fbe3c1a9f )
+)
+
+game (
+	name "Magic Disk 64 87-12 (1987)(-)(de)(Side B)"
+	description "Magic Disk 64 87-12 (1987)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 87-12 (1987)(-)(de)(Side B).z64" size 34891 crc 262e414c md5 38ff11c99b2302f352f03a60a8d24a65 sha1 932e1fb377d5c70047d800334f4d5bc568e4b52b )
+	rom ( name "2!Magic Disk 64 87-12 (1987)(-)(de)(Side B).z64" size 25260 crc 16df23b0 md5 bab4bb9cf1e4b70500ada04af41dfa7d sha1 cc2359dcf77319133aea03e070a8953f5df36d11 )
+	rom ( name "3!Magic Disk 64 87-12 (1987)(-)(de)(Side B).z64" size 24037 crc 4180a116 md5 517d3400ea038db2a40eac4b830bcd84 sha1 026520c6e04803e3fe075ef60750a702b71516ca )
+	rom ( name "4!Magic Disk 64 87-12 (1987)(-)(de)(Side B).z64" size 37201 crc 46190eea md5 b4cc18ae98db45a2dcb3f0a1a5ed2bef sha1 f5e3b47a0522ed26ea4d2935c6dd7413222c7f80 )
+)
+
+game (
+	name "Magic Disk 64 88-01 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-01 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-01 (1988)(-)(de)(Side A).z64" size 26569 crc 0e1c760f md5 74642f13203c895cbe6d2f43b2810e8c sha1 23ec55ccaef88d18fc281daab16502d97fce0379 )
+	rom ( name "2!Magic Disk 64 88-01 (1988)(-)(de)(Side A).z64" size 25744 crc 75b326dc md5 6c7aa9b08073ce8d0a5fc4e76340df7e sha1 917244930dbdbf1b8173d28c90b5c12dc5b43fb4 )
+	rom ( name "3!Magic Disk 64 88-01 (1988)(-)(de)(Side A).z64" size 30514 crc c3bfdb79 md5 bafdbf4b3f072289a1a067234bdef883 sha1 7a2cbbd4de794074828464b1b04f509682cdf78c )
+	rom ( name "4!Magic Disk 64 88-01 (1988)(-)(de)(Side A).z64" size 30151 crc 14977e83 md5 eec39e6a83fee0e0301d08f4648dd834 sha1 0a71736370d155e3892dabd6d09e4bdb0cadbd25 )
+)
+
+game (
+	name "Magic Disk 64 88-01 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-01 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-01 (1988)(-)(de)(Side B).z64" size 9105 crc 23c657cd md5 ecbca77376cd57260f6b774292bf46e2 sha1 9925984e60d926b584e4de3265a5f6e304acad60 )
+	rom ( name "2!Magic Disk 64 88-01 (1988)(-)(de)(Side B).z64" size 37861 crc 52dda7fb md5 6b66faf78909fc916ecd7b84a9ab517e sha1 15a759838ff9ae4255f7c4fb0a10984daad105cd )
+	rom ( name "3!Magic Disk 64 88-01 (1988)(-)(de)(Side B).z64" size 39044 crc b46f58e5 md5 b4c1cff95beb679409ff9a9a2bd1e976 sha1 2b9a75fd002909896611854f36a2e387ab6002e9 )
+	rom ( name "4!Magic Disk 64 88-01 (1988)(-)(de)(Side B).z64" size 33926 crc 666bc16b md5 b5e7ba128bb1c6bc7c77eda3dc57a37a sha1 71f782b66968c43c194ec133fbc108b73b83b3c8 )
+)
+
+game (
+	name "Magic Disk 64 88-02 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-02 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-02 (1988)(-)(de)(Side A).z64" size 36096 crc a555f2fe md5 f4069651c9eb5e266fdd569988d875b8 sha1 3747440cc33f483979181f07f244dbbbf63b85c0 )
+	rom ( name "2!Magic Disk 64 88-02 (1988)(-)(de)(Side A).z64" size 36816 crc fa5021f9 md5 e25d38a900865d455a1f30f42177d08a sha1 d8a6f65cd3ca21fa8a41de50e864874df47faa20 )
+	rom ( name "3!Magic Disk 64 88-02 (1988)(-)(de)(Side A).z64" size 33930 crc 9c7a7939 md5 fe7b72745abeb57c9a2e6bd7e61f9d33 sha1 0b2a0d7fbd10d15e367813b30f7494537c01cce2 )
+	rom ( name "4!Magic Disk 64 88-02 (1988)(-)(de)(Side A).z64" size 35705 crc 91c23382 md5 2aa68a24c64f97be8af4ea982707c1fe sha1 41f2eea1ebc9f84d2a59a85a40a1519dc5cf2852 )
+)
+
+game (
+	name "Magic Disk 64 88-02 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-02 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-02 (1988)(-)(de)(Side B).z64" size 42463 crc a67847c4 md5 052128702a66e90e62f1e8e661aa8372 sha1 c4a703b2e1d591d15744ed5e63396cd69a72e993 )
+	rom ( name "2!Magic Disk 64 88-02 (1988)(-)(de)(Side B).z64" size 42917 crc 3355970a md5 1d341e917529851699c1074d8d0f8f3d sha1 2f13c9d77b292ad3fd63dc6f775293340a41ecfc )
+	rom ( name "3!Magic Disk 64 88-02 (1988)(-)(de)(Side B).z64" size 39967 crc 990635b1 md5 94e1ce826f21df2ea84ec263e503ca96 sha1 245e74358c26c9ab77207a8986129ca46ee682db )
+	rom ( name "4!Magic Disk 64 88-02 (1988)(-)(de)(Side B).z64" size 43888 crc 882f7559 md5 dce7a1d66b471dc9f6d933d0445b10fb sha1 c158537fadc2d35b2fc1ac6053eb87ee7659e5be )
+)
+
+game (
+	name "Magic Disk 64 88-04 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-04 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-04 (1988)(-)(de)(Side A).z64" size 28112 crc 7fc5493f md5 71854046df9a119c93c3fcba1251b08f sha1 334c0b78de6a6f3a436853801e96fb918950a5aa )
+	rom ( name "2!Magic Disk 64 88-04 (1988)(-)(de)(Side A).z64" size 32677 crc 3cf3119d md5 d553338ffbd0aca06969ec9f274a4ade sha1 3ac882bd238631d621f8354174ca89d7b3117342 )
+	rom ( name "3!Magic Disk 64 88-04 (1988)(-)(de)(Side A).z64" size 30302 crc 22d65d24 md5 0dff5805c654209619f252afc445618c sha1 4a3b6d871e4af885dd7f51830c417bc0f225eea5 )
+	rom ( name "4!Magic Disk 64 88-04 (1988)(-)(de)(Side A).z64" size 37600 crc 08995f63 md5 74c75bfbd171a166ef9cbe6201a44871 sha1 89cdfa7b06abe8be3a40c12c56095b88b800735d )
+)
+
+game (
+	name "Magic Disk 64 88-05 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-05 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-05 (1988)(-)(de)(Side A).z64" size 26165 crc 8071ff62 md5 44304f75020f0ebe6b07aa48c26d8767 sha1 bb91858711c610174861612d92f644e46e91e66c )
+	rom ( name "2!Magic Disk 64 88-05 (1988)(-)(de)(Side A).z64" size 36939 crc 895a7236 md5 371c2d89effab9fd0c34b5a1dd16da73 sha1 64f3726f00c082c6212a061c9576e638b800a701 )
+	rom ( name "3!Magic Disk 64 88-05 (1988)(-)(de)(Side A).z64" size 34993 crc 59f91ffd md5 9a047003300f7fa20906d18673f89da6 sha1 71dab0abaa9a098de2936d090043cee51a37d917 )
+	rom ( name "4!Magic Disk 64 88-05 (1988)(-)(de)(Side A).z64" size 21261 crc 0dc5c464 md5 ed6711d618c85df0a604a2ca17b68e6a sha1 b8ba3f07c4d7c632ae1427462620be9ad82fb4dd )
+)
+
+game (
+	name "Magic Disk 64 88-05 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-05 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-05 (1988)(-)(de)(Side B).z64" size 43079 crc 82c03536 md5 7ada239057dbe7b73529c6797a1f3754 sha1 62a2155167d60ca14ad025ddad50693899ea3645 )
+	rom ( name "2!Magic Disk 64 88-05 (1988)(-)(de)(Side B).z64" size 27729 crc 165c05a6 md5 46f2324cdba98881c8d250a6d2234e4c sha1 39fc267980c89c5bf0f24824b7e8a69bc76ad4c7 )
+	rom ( name "3!Magic Disk 64 88-05 (1988)(-)(de)(Side B).z64" size 32304 crc 27b9f5d2 md5 920c900d55d7a7b81646f43fe7deb5c2 sha1 9c8574fb333424cdcc50cba30078cb2ef7110990 )
+	rom ( name "4!Magic Disk 64 88-05 (1988)(-)(de)(Side B).z64" size 32900 crc a3a2f5c7 md5 529d27bbdef8284accda99ac76f07559 sha1 c3c8f53e4ab425c8337258a4dc05f2bf1f5b90f6 )
+)
+
+game (
+	name "Magic Disk 64 88-06 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-06 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-06 (1988)(-)(de)(Side A).z64" size 29249 crc b38993dc md5 be8d0fe77354e7a022bcf760bd1b3751 sha1 d33c349d7939f7222f9c2ee671ba6c20a0e548e6 )
+	rom ( name "2!Magic Disk 64 88-06 (1988)(-)(de)(Side A).z64" size 37273 crc c67cab24 md5 3db6f44fe0406849ee0e37fec7c04d4f sha1 684058aabb00451ad6b380391da71003296a2367 )
+	rom ( name "3!Magic Disk 64 88-06 (1988)(-)(de)(Side A).z64" size 35711 crc e4768e49 md5 75be69c55b1a300e2c5a40f104e3c75d sha1 48fbe202ab95f7dffff9641d4a74d89ddc399c42 )
+	rom ( name "4!Magic Disk 64 88-06 (1988)(-)(de)(Side A).z64" size 24803 crc c3026054 md5 b313e7a7afe70696f981dda98430c31f sha1 fd18ce82c540634a854df066da9589bf4e5541c8 )
+)
+
+game (
+	name "Magic Disk 64 88-06 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-06 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-06 (1988)(-)(de)(Side B).z64" size 26848 crc 38f179cc md5 7c97893e85be407577c7b26e9bb19261 sha1 4675ab7fa58270fc272516979869c3a6f37b9880 )
+	rom ( name "2!Magic Disk 64 88-06 (1988)(-)(de)(Side B).z64" size 42106 crc dde1c8b5 md5 0ec5195ee1d1619685a77544c1f1e53a sha1 6c8d65eb36c9af351fde59c2d86c2931265657de )
+	rom ( name "3!Magic Disk 64 88-06 (1988)(-)(de)(Side B).z64" size 37204 crc cdf7af7b md5 2b6a3e51e31ddd650412185e55f38ecf sha1 ccc5c0c903a44b6c304ac44b228f527933b6740b )
+	rom ( name "4!Magic Disk 64 88-06 (1988)(-)(de)(Side B).z64" size 17432 crc 884fb7c8 md5 1ca940453399afb35dc0633f241374ac sha1 10fe1a537d53e2b7b3b631cd2956d37ff0de9871 )
+)
+
+game (
+	name "Magic Disk 64 88-07 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-07 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-07 (1988)(-)(de)(Side A).z64" size 30400 crc be433953 md5 d73e28e920762f65fbe2fcc847368876 sha1 f448e36139238dcc41fdd634bc63e85f2a437e0d )
+	rom ( name "2!Magic Disk 64 88-07 (1988)(-)(de)(Side A).z64" size 36671 crc e565eb9c md5 c1d5e79110f1d4c734064b61ac478a27 sha1 ce24ad5faa3e822347c43c0caceeb143658881a4 )
+	rom ( name "3!Magic Disk 64 88-07 (1988)(-)(de)(Side A).z64" size 36007 crc e72acce2 md5 27af0e1dcb57f686505b28ea81e96da9 sha1 41e9682d0b9d2a952c9d2f8816c7d391504dd6bd )
+	rom ( name "4!Magic Disk 64 88-07 (1988)(-)(de)(Side A).z64" size 37661 crc 43bcae13 md5 228531bbc75f4aab8763de643179a9b5 sha1 d4b2e71524c28eb9251bea985e7562827502d62f )
+)
+
+game (
+	name "Magic Disk 64 88-07 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-07 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-07 (1988)(-)(de)(Side B).z64" size 22998 crc 666c5878 md5 47c6202581c928d43822108615ea9ede sha1 a57ce94552e75ff1d96109d18f4a8cc5a40ef125 )
+	rom ( name "2!Magic Disk 64 88-07 (1988)(-)(de)(Side B).z64" size 42683 crc e800105a md5 c76cc6cee8f0b8d48ed87157cc8461f4 sha1 68c365b45dd7240ef379f3a01d767525647225b1 )
+	rom ( name "3!Magic Disk 64 88-07 (1988)(-)(de)(Side B).z64" size 38643 crc b8a0a125 md5 6d7d64f02ecc0982f1dd46758b12ed2b sha1 fe97a40636db0b6d773fc4327c5cf4f6539d92b8 )
+	rom ( name "4!Magic Disk 64 88-07 (1988)(-)(de)(Side B).z64" size 39952 crc 3fbdecb3 md5 420684ff7fa0be9b33e111b65197af28 sha1 fca370b1d3a5e82e2d2525f37336913a590816be )
+)
+
+game (
+	name "Magic Disk 64 88-08 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-08 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-08 (1988)(-)(de)(Side A).z64" size 33264 crc 64936c6f md5 bc52ea0c87e87df235528ff5ac6117c0 sha1 cf92e909fe063d9f785fddbc0083b0fbe5b4209c )
+	rom ( name "2!Magic Disk 64 88-08 (1988)(-)(de)(Side A).z64" size 32663 crc ae8eb3ee md5 74da14b30e139181f94c033f2afd1e45 sha1 509fbd9276ca099e2b4f4fe21f303f5a491a6cd1 )
+	rom ( name "3!Magic Disk 64 88-08 (1988)(-)(de)(Side A).z64" size 34913 crc ba86a454 md5 aeef4f22b1853b5985e6d87d8661039c sha1 fd0ad5aa732485026828ebc5d11dfcc394da78ac )
+	rom ( name "4!Magic Disk 64 88-08 (1988)(-)(de)(Side A).z64" size 30950 crc 36505abf md5 ce06d96e4fa4108215bdc5ede6271d90 sha1 49f126e596541a9e45b5e95833b0171a3d44308d )
+)
+
+game (
+	name "Magic Disk 64 88-08 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-08 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-08 (1988)(-)(de)(Side B).z64" size 42861 crc deb0921f md5 255d93bd627951e7ac719819645c4dfd sha1 bdf50970cf582f2162d41313d2ec084ec8873d56 )
+	rom ( name "2!Magic Disk 64 88-08 (1988)(-)(de)(Side B).z64" size 42232 crc 3d51efb5 md5 0d7981957bae32cecef89d8458101dae sha1 a303ad67cb2e9decf9f1fb6a4c2c8a0507ca175e )
+	rom ( name "3!Magic Disk 64 88-08 (1988)(-)(de)(Side B).z64" size 29380 crc de0126f6 md5 638f79fdb70f5ac465e8190651474303 sha1 b41ce76ba235dc698296b874c3d13977cb0bac73 )
+	rom ( name "4!Magic Disk 64 88-08 (1988)(-)(de)(Side B).z64" size 31564 crc 4b97021d md5 8aba5f65cefdffaba883510d1240ec20 sha1 d86b1af56bd70e218c6eaf97c624fd2a438b50ca )
+)
+
+game (
+	name "Magic Disk 64 88-09 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-09 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-09 (1988)(-)(de)(Side A).z64" size 23718 crc 29e5947e md5 d28991b0a85b06b16e114791123f3d20 sha1 0ecc4940ef0d13322a2928446351d0ce78b53cc8 )
+	rom ( name "2!Magic Disk 64 88-09 (1988)(-)(de)(Side A).z64" size 29141 crc 011d98f2 md5 6161f41340618018b4c564f18d14d08a sha1 0da7f7dc60911db2ccd8c3e9e03d123ca599a328 )
+	rom ( name "3!Magic Disk 64 88-09 (1988)(-)(de)(Side A).z64" size 30945 crc 45b976a0 md5 969b3da1f8f24cc9d1f180fbc599a7b0 sha1 ccffde2cd3dc753d7985616994e83616be0ac7d8 )
+	rom ( name "4!Magic Disk 64 88-09 (1988)(-)(de)(Side A).z64" size 23443 crc 1dc38173 md5 257da64ca6a2072b384587ccd2588925 sha1 0d6e7027d9baf17b1e740e5b96c28f4c67bb9164 )
+)
+
+game (
+	name "Magic Disk 64 88-09 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-09 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-09 (1988)(-)(de)(Side B).z64" size 38098 crc 03b60b38 md5 e09ca88f8dcda151ef2dc4a8ef27295b sha1 8dd2097bab77d556c7719a64cfdaa54d62d0f4b5 )
+	rom ( name "2!Magic Disk 64 88-09 (1988)(-)(de)(Side B).z64" size 41139 crc cea21170 md5 f6e906666e2dbdae9dd2a82d891b53d2 sha1 eab70ec1282f3d2f7a494300dfe15ea80d387398 )
+	rom ( name "3!Magic Disk 64 88-09 (1988)(-)(de)(Side B).z64" size 35004 crc 9426b3c8 md5 9251f162d558951a1e47b43783f2e8ae sha1 9705ba6c4d89a68742785d43920cbba317ec6e83 )
+	rom ( name "4!Magic Disk 64 88-09 (1988)(-)(de)(Side B).z64" size 40183 crc 4c7be340 md5 68bd0f17f70bf63174db882c32011ded sha1 ac4da5f28fb192568143bd752594c18cc205243f )
+)
+
+game (
+	name "Magic Disk 64 88-10 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-10 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-10 (1988)(-)(de)(Side A).z64" size 34238 crc 22d05e15 md5 44d9845a41479d7fb86e10a81afc7fff sha1 876fb231ed1c906e3bc36e0213d688bd832eb422 )
+	rom ( name "2!Magic Disk 64 88-10 (1988)(-)(de)(Side A).z64" size 33904 crc c9201132 md5 e6a94a1d042faddd60b5da84f4319db4 sha1 3ec2030117ea3c9c5a4bac94e0da132d7ada49ab )
+	rom ( name "3!Magic Disk 64 88-10 (1988)(-)(de)(Side A).z64" size 35488 crc 29e2a634 md5 a9b9cdfa03b903c75cd2bd74e37ca5e5 sha1 997615c57f6f1fa1dbf4544f535a6f1b345d6841 )
+	rom ( name "4!Magic Disk 64 88-10 (1988)(-)(de)(Side A).z64" size 35337 crc a3dd2ecf md5 cce7f6d0db4bb505a66bd036679e504f sha1 891fbb3d9df0876773ecce33c528df9bd63741f8 )
+)
+
+game (
+	name "Magic Disk 64 88-10 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-10 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-10 (1988)(-)(de)(Side B).z64" size 28816 crc b9fd1163 md5 74c40190b63f22c783a3f84317d51420 sha1 f49d0e2d44bd73b5b61d0676c6f9870d0f32b479 )
+	rom ( name "2!Magic Disk 64 88-10 (1988)(-)(de)(Side B).z64" size 35267 crc 8d85c998 md5 51fa13200570f6728324dbc333654eda sha1 79f5a0fdf707c0728b0452ecdd198d54482f51e6 )
+	rom ( name "3!Magic Disk 64 88-10 (1988)(-)(de)(Side B).z64" size 39565 crc 9db677b0 md5 98d26fa7b418db8d17fd68cf8a498068 sha1 22e8a0e63502d8e098984a7aed906a99428f4a52 )
+	rom ( name "4!Magic Disk 64 88-10 (1988)(-)(de)(Side B).z64" size 38905 crc f2fa7b37 md5 e19b017c180769434d5201dce42d32f5 sha1 3461e2ac21caa942fd7d9a3ca9c397156620f01b )
+)
+
+game (
+	name "Magic Disk 64 88-11 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-11 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-11 (1988)(-)(de)(Side A).z64" size 21984 crc 391263ab md5 8f00f28479649092a3bcb32c0cf37a6e sha1 1b610c18b7fa0baa888779aebfd250f2b9213bc5 )
+	rom ( name "2!Magic Disk 64 88-11 (1988)(-)(de)(Side A).z64" size 35471 crc b9d2ec3e md5 350dab0db516e0184e0dfd8c9edb067a sha1 c74312d9abc6e918d94bb14129e8cb9bb91b6256 )
+	rom ( name "3!Magic Disk 64 88-11 (1988)(-)(de)(Side A).z64" size 32385 crc 36cdd66a md5 7ac1c48d6a5174b087c06f3769dfb798 sha1 c4d75312e0325a171034f04c1c6ba5ced939ef2a )
+	rom ( name "4!Magic Disk 64 88-11 (1988)(-)(de)(Side A).z64" size 39676 crc 81b4cb43 md5 d482b8ddd40d988433c7ba5eee0212ea sha1 8b290109ff253601e967c44921ba2b7e3d4a94bb )
+)
+
+game (
+	name "Magic Disk 64 88-11 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-11 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-11 (1988)(-)(de)(Side B).z64" size 37371 crc 403bab32 md5 63a4891bd7d97eb373b35ba2d5cef43c sha1 cc97f043526450a521f760c1c3a6133474e905ec )
+	rom ( name "2!Magic Disk 64 88-11 (1988)(-)(de)(Side B).z64" size 36482 crc 8675a85e md5 bae817f3323677d244af38be81d6c805 sha1 49c8e0daa2626c9a24ead4c6bcb68720f6c8babc )
+	rom ( name "3!Magic Disk 64 88-11 (1988)(-)(de)(Side B).z64" size 35393 crc 58ac0a4b md5 3249052c3080eccfbeca65633b16cf91 sha1 b70d823582a6779eb0e25db1ba20cc161f2a21dd )
+	rom ( name "4!Magic Disk 64 88-11 (1988)(-)(de)(Side B).z64" size 40460 crc f3d6e289 md5 86d920af5a0bc34cd7e86cca38769151 sha1 7de607a81caa97f37a2bb84a6b7c327bbdc31545 )
+)
+
+game (
+	name "Magic Disk 64 88-12 (1988)(-)(de)(Side A)"
+	description "Magic Disk 64 88-12 (1988)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 88-12 (1988)(-)(de)(Side A).z64" size 15158 crc f88fc12f md5 66b77677a69aa7f17d6ab79dc5f38895 sha1 f8c782b353798739cdd9ffc960b86888a9e261fc )
+	rom ( name "2!Magic Disk 64 88-12 (1988)(-)(de)(Side A).z64" size 33956 crc f8eab060 md5 0519770003fe384ed56e2e92c5f8e5fc sha1 4e0e99ea0af7d0b59e8639e880efdd3fcd9eb288 )
+	rom ( name "3!Magic Disk 64 88-12 (1988)(-)(de)(Side A).z64" size 33065 crc a86eaca5 md5 2baf86de22b7b26a01d162ea8912418c sha1 6f57a59b51f9eb4d0b8a73b63c6d338d65689fa0 )
+	rom ( name "4!Magic Disk 64 88-12 (1988)(-)(de)(Side A).z64" size 20034 crc 66c0ac51 md5 940841444d0a5f8090a00900cffbe4dc sha1 0c228953fa1224174f6e426a027f8f95b8ab5820 )
+)
+
+game (
+	name "Magic Disk 64 88-12 (1988)(-)(de)(Side B)"
+	description "Magic Disk 64 88-12 (1988)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 88-12 (1988)(-)(de)(Side B).z64" size 39844 crc 9341b354 md5 d7cd2628a20000632598dc86173229d5 sha1 ab05685a2bceb63211ff0089c01e04276a67f52a )
+	rom ( name "2!Magic Disk 64 88-12 (1988)(-)(de)(Side B).z64" size 34721 crc c49bee1a md5 5753b727a8e64f14ea041fcec4ec41f2 sha1 14d055f1e4d4b559f3ae9f5b004d5560844b99ca )
+	rom ( name "3!Magic Disk 64 88-12 (1988)(-)(de)(Side B).z64" size 38325 crc e7c4db55 md5 25ed9b5114a32b8fa1eb0d4f4e3af0fb sha1 261eaeb1a3696cfb3d76cf804fffba8e1c8acd30 )
+	rom ( name "4!Magic Disk 64 88-12 (1988)(-)(de)(Side B).z64" size 34184 crc f0cf6c38 md5 58c18f5402970aec25ddbba4e086d72d sha1 d03335b11e8fe0d5f4817f4df2361d1a60b2e635 )
+)
+
+game (
+	name "Magic Disk 64 89-02 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-02 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-02 (1989)(-)(de)(Side A).z64" size 35548 crc c9bd5053 md5 1dc86d2e4d8d0098207353c15249fcbe sha1 18c58a31b5b672e95468e37b6a9c9654dd664f3a )
+	rom ( name "2!Magic Disk 64 89-02 (1989)(-)(de)(Side A).z64" size 35280 crc 7badf799 md5 adde06c9573534624816603ef5e53b75 sha1 1ee983ac5757451523a003ec71d8852953ac8e82 )
+	rom ( name "3!Magic Disk 64 89-02 (1989)(-)(de)(Side A).z64" size 35794 crc 6d14d69a md5 d59e6753132f13d4d70ec368110d1968 sha1 9888aa52c5250e32adde19379f9df5cc2e6a0cfb )
+	rom ( name "4!Magic Disk 64 89-02 (1989)(-)(de)(Side A).z64" size 33189 crc abeee895 md5 7807c50aa87388e737e6c61f73c3cda2 sha1 4e64da879218221b72e8574f2b7141f899a87aa7 )
+)
+
+game (
+	name "Magic Disk 64 89-02 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-02 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-02 (1989)(-)(de)(Side B).z64" size 36361 crc 09bf404c md5 44c13f8ce8f96bb5996578c6ba99d5de sha1 3a886d38fa74da9e27e4ff97dec125b89aa790fe )
+	rom ( name "2!Magic Disk 64 89-02 (1989)(-)(de)(Side B).z64" size 37383 crc ce163a43 md5 e045ce1425066501bc9b8c2a4023224d sha1 899550bec4128cf37c4795f4ae4d4a1a7baa8130 )
+	rom ( name "3!Magic Disk 64 89-02 (1989)(-)(de)(Side B).z64" size 39467 crc e7bad010 md5 e04dde2edf6a3f47fe604b1739a4304b sha1 7dfc9d517149e98a4b0ac159271fe41a5dec80c6 )
+	rom ( name "4!Magic Disk 64 89-02 (1989)(-)(de)(Side B).z64" size 35291 crc ac69d916 md5 6886f29fd6fba4770255fd07139fd76f sha1 98f8439809d2e8480ab3569269390866a86bff79 )
+)
+
+game (
+	name "Magic Disk 64 89-03 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-03 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-03 (1989)(-)(de)(Side A).z64" size 24745 crc ff5f7d2a md5 60fc1b892a1de446acf3b6c25ad707b3 sha1 6b51003ab87ad07989e1e2eed4bdcddcbf9903bf )
+	rom ( name "2!Magic Disk 64 89-03 (1989)(-)(de)(Side A).z64" size 34792 crc 6a1c453a md5 9e4751bbf63184ff669fc5e44c167790 sha1 5c87a2ec026a8f03dd0b9bccccac1a7cdf2aabc3 )
+	rom ( name "3!Magic Disk 64 89-03 (1989)(-)(de)(Side A).z64" size 33204 crc d258a22c md5 b8c9195c84fa9a255f6eb62da390d358 sha1 86a4bed3c6288bac401855db4e99057787cf2924 )
+	rom ( name "4!Magic Disk 64 89-03 (1989)(-)(de)(Side A).z64" size 28016 crc 74271305 md5 38997153784e4ae43d3da99eb09f040f sha1 0c70b653f8f9322940b139a54eb4cfd861d19803 )
+)
+
+game (
+	name "Magic Disk 64 89-03 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-03 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-03 (1989)(-)(de)(Side B).z64" size 37115 crc e9d7d14d md5 110d62b4c4975d5ecfb8a7d67ba89d8f sha1 7fc606d37725243cade1d549d75340bdadb190d7 )
+	rom ( name "2!Magic Disk 64 89-03 (1989)(-)(de)(Side B).z64" size 33535 crc 80cb84aa md5 37078fb296624830653634007ecdfa03 sha1 ce9e3bb434ab336a181f9f82928808cb6ab309b2 )
+	rom ( name "3!Magic Disk 64 89-03 (1989)(-)(de)(Side B).z64" size 37342 crc 035b9129 md5 03320bd8e52c1d5347156644539b8d13 sha1 3fa5de3bb5e9635eea3d13ee5bed26bace37d79b )
+	rom ( name "4!Magic Disk 64 89-03 (1989)(-)(de)(Side B).z64" size 34925 crc 2818aeef md5 2ccc150c79e54b7f75a60529a85bc924 sha1 fd464b9c69097de83bb22538e9976cab5623c33e )
+)
+
+game (
+	name "Magic Disk 64 89-04 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-04 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-04 (1989)(-)(de)(Side A).z64" size 25559 crc 1e1a287f md5 7fd393e6bb6967d16de761d844d976a9 sha1 0d5236a53f37e04eef0d1316380bc6c4f87f512a )
+	rom ( name "2!Magic Disk 64 89-04 (1989)(-)(de)(Side A).z64" size 35787 crc 0a117cc4 md5 5ae160de09fa3ebd660878bd04d9ed0e sha1 6f88da34637be5a895988409d8f46601f8a23ec8 )
+	rom ( name "3!Magic Disk 64 89-04 (1989)(-)(de)(Side A).z64" size 30263 crc 6d53b97c md5 cdabecb8421916ef7d3ac03483a00e17 sha1 dc5d10a727036629c972545756afec868f9ecb46 )
+	rom ( name "4!Magic Disk 64 89-04 (1989)(-)(de)(Side A).z64" size 26913 crc e37830c5 md5 db5d98df67451836d2132c251869a0f1 sha1 530008f2f4d749e98373ec81315584128cb9f4ac )
+)
+
+game (
+	name "Magic Disk 64 89-04 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-04 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-04 (1989)(-)(de)(Side B).z64" size 24596 crc 8fd4dd58 md5 233a4db4b2fa5ce29d99909cbe6f5622 sha1 80108c32324a0e9d796349afed7331577d25944f )
+	rom ( name "2!Magic Disk 64 89-04 (1989)(-)(de)(Side B).z64" size 42412 crc 9340c7b6 md5 33c23438d0b9bf9e253d153ee219320f sha1 f18f077e8e133ca76e52880db72e7fb516fa2ab9 )
+	rom ( name "3!Magic Disk 64 89-04 (1989)(-)(de)(Side B).z64" size 38404 crc 6fb21b7f md5 5a90cda722e342b428b61fed7865e5db sha1 d8725caa3b00119d0568c9a1f01ac0f73e0ab010 )
+	rom ( name "4!Magic Disk 64 89-04 (1989)(-)(de)(Side B).z64" size 27763 crc da8eb9a1 md5 c2a043a84be119d92cb371c20e820f21 sha1 ea0d3e3052d0b462d933cc077aa90f5751d81a34 )
+)
+
+game (
+	name "Magic Disk 64 89-05 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-05 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-05 (1989)(-)(de)(Side A).z64" size 23562 crc a67dc4bf md5 60d9ea8654b12abc98c28b66580a059b sha1 a0202a50622e90f7afeed0a59a4caac341f4f459 )
+	rom ( name "2!Magic Disk 64 89-05 (1989)(-)(de)(Side A).z64" size 32490 crc 019a8634 md5 b67893f083bdf4e95d861ae9990a46e2 sha1 7a3d973ee4b6a9fee6b5932bdce3ec98b97ca774 )
+	rom ( name "3!Magic Disk 64 89-05 (1989)(-)(de)(Side A).z64" size 32886 crc 83800538 md5 abd10fbc6a1b7e4a12ef11d309d7a333 sha1 15fdd85e2cefe97fb1ed976db0ec687c38947700 )
+	rom ( name "4!Magic Disk 64 89-05 (1989)(-)(de)(Side A).z64" size 27600 crc 64a6a638 md5 593ebe6abd53ab2ee66eb34cb058973d sha1 bc9023eaac3827da46905f3c31eefec0f460e030 )
+)
+
+game (
+	name "Magic Disk 64 89-05 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-05 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-05 (1989)(-)(de)(Side B).z64" size 38576 crc b75c1f1d md5 6038faf0f5d8656c1bc584bbd5470d44 sha1 ee78abece093acb24adfeff33781c27e16c3f252 )
+	rom ( name "2!Magic Disk 64 89-05 (1989)(-)(de)(Side B).z64" size 40533 crc 0d4ead30 md5 fcb3de4f80361511a3597ab620655728 sha1 994f1fde39053e923813ae79b04f2ee546f623fa )
+	rom ( name "3!Magic Disk 64 89-05 (1989)(-)(de)(Side B).z64" size 36074 crc c229a791 md5 0cbf237747858f508926247ff78149bc sha1 f8140dab9c15f03577f0612ef1b0b48031554490 )
+	rom ( name "4!Magic Disk 64 89-05 (1989)(-)(de)(Side B).z64" size 40915 crc d3492c23 md5 2e1e78536478a19461c99a6718c4ef53 sha1 6fac498fc9e6cc5a43e01f9abf2ff54b2cc29e86 )
+)
+
+game (
+	name "Magic Disk 64 89-06 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-06 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-06 (1989)(-)(de)(Side A).z64" size 33502 crc da4bcd18 md5 410cb33d65de8132d92d2514a6d5792d sha1 d84b4fce89ba74455e624955af636d42aac38583 )
+	rom ( name "2!Magic Disk 64 89-06 (1989)(-)(de)(Side A).z64" size 30261 crc 6a9c8d12 md5 b9539a319359808eb47f9763a97a87d8 sha1 6acbb761968aee316f55527f2b6a5ea004324fbf )
+	rom ( name "3!Magic Disk 64 89-06 (1989)(-)(de)(Side A).z64" size 31097 crc 17f8c14f md5 3624a43448914d9e26ff4c93de27b9c7 sha1 308490f85a990ba492f079593b3bf41e7e10fe23 )
+	rom ( name "4!Magic Disk 64 89-06 (1989)(-)(de)(Side A).z64" size 33781 crc 1254a625 md5 f3c0e1314fd38f231c54dc589d13fab9 sha1 3bba9fc17f84e0345c793b1b857fedb3399b3a75 )
+)
+
+game (
+	name "Magic Disk 64 89-06 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-06 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-06 (1989)(-)(de)(Side B).z64" size 35741 crc 341c52a6 md5 e907983a7c8014570a7b72f5145a5bec sha1 79f922dc149d7657779109c40ca348a3564cc0c8 )
+	rom ( name "2!Magic Disk 64 89-06 (1989)(-)(de)(Side B).z64" size 42854 crc b46c4fc5 md5 596800f3b122345eaffc075d41a5a736 sha1 6f0a4e1667e657b8b14d6ed04ef2787771f0f5cc )
+	rom ( name "3!Magic Disk 64 89-06 (1989)(-)(de)(Side B).z64" size 39741 crc b547a70e md5 ff052cddd36b12a9419b1c394cc6ff78 sha1 b829238662a77dc77036809a654635a234df61db )
+	rom ( name "4!Magic Disk 64 89-06 (1989)(-)(de)(Side B).z64" size 37571 crc f4419394 md5 b484db00c2eeceedd1d7fe43274a535e sha1 44e783878b6f5ba1589f86c867c1277241dacee6 )
+)
+
+game (
+	name "Magic Disk 64 89-07 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-07 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-07 (1989)(-)(de)(Side A).z64" size 30140 crc 0f1b50a3 md5 de9c8c03d56d6736c705965463f4b613 sha1 ede6253f1b804c5f99b15fa51b62b21d25691e94 )
+	rom ( name "2!Magic Disk 64 89-07 (1989)(-)(de)(Side A).z64" size 30980 crc 5b38594f md5 3d973376432b2eeabb1797a55f2da714 sha1 8a650b4fbba28d11b8268ee37e353b3a3054f189 )
+	rom ( name "3!Magic Disk 64 89-07 (1989)(-)(de)(Side A).z64" size 32065 crc a5be8605 md5 a87a7d46395b031f431871eb3dd06645 sha1 cb30ac980c7310ad303f86132bc9bb53e5ff9625 )
+	rom ( name "4!Magic Disk 64 89-07 (1989)(-)(de)(Side A).z64" size 25815 crc fb43181b md5 0365efc768fb09513939aff457c62560 sha1 a72bdc1958588681ba86f1d761afb2089723275c )
+)
+
+game (
+	name "Magic Disk 64 89-07 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-07 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-07 (1989)(-)(de)(Side B).z64" size 39538 crc ef584da5 md5 0b1b58107585ff7c00056ee6a338d85a sha1 ad8fbafaaed53cc814cab8196d11e6c3bb8d83be )
+	rom ( name "2!Magic Disk 64 89-07 (1989)(-)(de)(Side B).z64" size 38578 crc 56568a19 md5 b283e14456991425327d9db5c45bb508 sha1 2e597c8004808724ab58b683fac5b475c8a6c5ee )
+	rom ( name "3!Magic Disk 64 89-07 (1989)(-)(de)(Side B).z64" size 26789 crc fb908c81 md5 1943c21df6e62c64fadb0e3b758d45bf sha1 15f0fb526beefcd2184ff04764be86512a7d8ee5 )
+	rom ( name "4!Magic Disk 64 89-07 (1989)(-)(de)(Side B).z64" size 42815 crc 1e7130f4 md5 655506c39435b63f58deb4ddd3a89a8f sha1 5c03ecb79d4602dbd604b0620793355b1aff074c )
+)
+
+game (
+	name "Magic Disk 64 89-08 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-08 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-08 (1989)(-)(de)(Side A).z64" size 23238 crc eaf90572 md5 e8901fc5da6220d86a24c8c3ab0163f0 sha1 2ef8baf03490906014f360ce6905485c5c809073 )
+	rom ( name "2!Magic Disk 64 89-08 (1989)(-)(de)(Side A).z64" size 43213 crc 2e9e9d0b md5 f28ae96dba22144da56a85750b6ebf5d sha1 4e2baeafecbb5eb1fd43a31de7433e2adebdfc7a )
+	rom ( name "3!Magic Disk 64 89-08 (1989)(-)(de)(Side A).z64" size 39020 crc e5f5fe63 md5 abdc0e49ed45c2b4f3bb7aee5a613ef8 sha1 6f4702c0275258bb67f8048374fe0a66c85892a1 )
+	rom ( name "4!Magic Disk 64 89-08 (1989)(-)(de)(Side A).z64" size 28395 crc ac05213d md5 503400c3e2a61a324ca464d58f9263b1 sha1 f4bddcc1ce266ec3f96c42da5941bdde5d7ae84b )
+)
+
+game (
+	name "Magic Disk 64 89-08 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-08 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-08 (1989)(-)(de)(Side B).z64" size 25010 crc 514dd8c8 md5 99def7d79d2c006e49ef1cd5e135f61c sha1 93f645170961db57577399c1d2ed1e903a1c4e9f )
+	rom ( name "2!Magic Disk 64 89-08 (1989)(-)(de)(Side B).z64" size 40535 crc 5d9f654f md5 6f16a3ea0a22dff40021c8d61294ccd3 sha1 45dc2fe0fc5138a1d18358f208b1de70c549feb2 )
+	rom ( name "3!Magic Disk 64 89-08 (1989)(-)(de)(Side B).z64" size 37719 crc 994933a3 md5 d835b9c7483c9d66cb227772ad59cea5 sha1 769cc0fff574619149e322d272eccb154d14e1e9 )
+	rom ( name "4!Magic Disk 64 89-08 (1989)(-)(de)(Side B).z64" size 42157 crc 6c4fa485 md5 85cbfdbabc5ed77bdf6a9376b3426927 sha1 633539152c8890a16197a77ef89c0603faa0a63c )
+)
+
+game (
+	name "Magic Disk 64 89-09 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-09 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-09 (1989)(-)(de)(Side A).z64" size 35993 crc cc0107af md5 b0b6c2a1b9d853021c887d80275699b0 sha1 0fa4e2305e57ad433080547fa30c451142a2b2ac )
+	rom ( name "2!Magic Disk 64 89-09 (1989)(-)(de)(Side A).z64" size 43174 crc 444d186b md5 3f391a2fee4a77f3e32a7012a4bb7000 sha1 c78dba4f4179143ddaf9c64a83e670917cf101f3 )
+	rom ( name "3!Magic Disk 64 89-09 (1989)(-)(de)(Side A).z64" size 38554 crc 0daeb0b5 md5 fafcf4fb050cbba8fb0f0cbaa2b739f0 sha1 121f17173b262687cc8d9b4515bb493cf2345edc )
+	rom ( name "4!Magic Disk 64 89-09 (1989)(-)(de)(Side A).z64" size 36902 crc ae80387e md5 7a7ae54ccd78d9b63f82f4525d92c6ef sha1 2766c15139830e172e6a685ca4a95abb81121609 )
+)
+
+game (
+	name "Magic Disk 64 89-09 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-09 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-09 (1989)(-)(de)(Side B).z64" size 39537 crc b30ac107 md5 2cc0b41f330e808688f9af67d9111140 sha1 7a780b4989af999f3b4338daa99bed3a30b9bc7e )
+	rom ( name "2!Magic Disk 64 89-09 (1989)(-)(de)(Side B).z64" size 42114 crc c5275ff1 md5 912c8869ee417ddbeb9d656fc4a1419c sha1 dcc178a3cd0fd740f405803714939c738effacb2 )
+	rom ( name "3!Magic Disk 64 89-09 (1989)(-)(de)(Side B).z64" size 40492 crc 1f4ace00 md5 a89ce294aca6db65d3428a693fbc6435 sha1 7bd3dfa9c01dea94532b8f01162390a8a8a4c6f2 )
+	rom ( name "4!Magic Disk 64 89-09 (1989)(-)(de)(Side B).z64" size 42850 crc dbcc28ec md5 bf5743fdc001cea9645331745f6c57be sha1 e59527da68005fdc569ab5194e27965743f0877d )
+)
+
+game (
+	name "Magic Disk 64 89-10 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-10 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-10 (1989)(-)(de)(Side A).z64" size 12614 crc b18c6ac3 md5 50152099cc2836c5004388b50cd6e3dd sha1 fa8ed5b23ddfb09d095c472171048951fd25511b )
+	rom ( name "2!Magic Disk 64 89-10 (1989)(-)(de)(Side A).z64" size 43346 crc 1bef819b md5 4ec9054013be39c12d894992dd41988c sha1 fffd182aec7200bda4d410736e2a4404c886a236 )
+	rom ( name "3!Magic Disk 64 89-10 (1989)(-)(de)(Side A).z64" size 39229 crc 14da14b0 md5 fc73733cb69bcee9647b79949fba1d63 sha1 ab3934b16e7bf6bcd0a68144e072902ed58d8e5b )
+	rom ( name "4!Magic Disk 64 89-10 (1989)(-)(de)(Side A).z64" size 16402 crc b85a22af md5 1e453afdde252361d05938720c43b36a sha1 9b64ff6c77ad0951c5d4cf9d801191d4eb90fe4c )
+)
+
+game (
+	name "Magic Disk 64 89-10 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-10 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-10 (1989)(-)(de)(Side B).z64" size 1493 crc 1bb0653c md5 8e0059cdc10261a7a1e1149fcf4b7f34 sha1 bf159983eb24e1add9036bf8cd33ca6dc18b8e3d )
+	rom ( name "2!Magic Disk 64 89-10 (1989)(-)(de)(Side B).z64" size 39987 crc 6dd9c158 md5 aabf634d63957920da106deb92347221 sha1 798be44a84aade9b21034b18fe2ee44c4d66cad6 )
+	rom ( name "3!Magic Disk 64 89-10 (1989)(-)(de)(Side B).z64" size 38081 crc 4c39626c md5 77edae3d253d8c56f1ec7a44608285d5 sha1 f83dcfe9afea2cb8122470c95bd33fe9cbe75f31 )
+	rom ( name "4!Magic Disk 64 89-10 (1989)(-)(de)(Side B).z64" size 3652 crc 8316bcb2 md5 77474b97995015a0821e66d2f7046990 sha1 86f8e4a3e0aa4ade6a71d18b1c6330568624f432 )
+)
+
+game (
+	name "Magic Disk 64 89-11 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-11 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-11 (1989)(-)(de)(Side A).z64" size 34582 crc 388d779a md5 22ba54ba8a4add06ab5347ce075fa94b sha1 b8bc6c713e547db41ca6d8183b374937b4c293a3 )
+	rom ( name "2!Magic Disk 64 89-11 (1989)(-)(de)(Side A).z64" size 43346 crc f7234559 md5 ea0affc5cb79e7d9e1cb7652cac97636 sha1 97d728cd89f989e333e5d3f820a3a069fd18978c )
+	rom ( name "3!Magic Disk 64 89-11 (1989)(-)(de)(Side A).z64" size 40284 crc a3d7972a md5 40d71ca74c2717979d97cfc295dfd4df sha1 e86ca147053fbed520d8dc931dcf52ec7636e249 )
+	rom ( name "4!Magic Disk 64 89-11 (1989)(-)(de)(Side A).z64" size 42887 crc 96af269d md5 1375cb31481347ed7c69b9b45b7f2479 sha1 3c92f7cf145455991e1feb31602ee25e290a864d )
+)
+
+game (
+	name "Magic Disk 64 89-11 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-11 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-11 (1989)(-)(de)(Side B).z64" size 25851 crc 2a92257a md5 9c6bc4bd1acb851e0c61323df0d0a556 sha1 d77013542569f77ca3c56cb23d7e0bc759c672a8 )
+	rom ( name "2!Magic Disk 64 89-11 (1989)(-)(de)(Side B).z64" size 37847 crc 806e4e94 md5 2237f34166bea087dd6040f6f9548eac sha1 35ae58e25e1605ddf79df1283482f9db63cc1d6a )
+	rom ( name "3!Magic Disk 64 89-11 (1989)(-)(de)(Side B).z64" size 37273 crc 9e758315 md5 78789c6535414debf1811376c2a109ab sha1 9b5493aacf608b1dba8f8785e2909dff4dd04b64 )
+	rom ( name "4!Magic Disk 64 89-11 (1989)(-)(de)(Side B).z64" size 23647 crc 9362eebe md5 d0413af9c24126d01c9a4fb6f48f0ecd sha1 1aac93988374d55ef57c3f601fb11be2062b9511 )
+)
+
+game (
+	name "Magic Disk 64 89-12 (1989)(-)(de)(Side A)"
+	description "Magic Disk 64 89-12 (1989)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 89-12 (1989)(-)(de)(Side A).z64" size 43348 crc 5d56e325 md5 07df90e714f13d855e2e3ba74dad827a sha1 0cfc17f146f74868c9d714acce7ba24e7f0113ac )
+	rom ( name "2!Magic Disk 64 89-12 (1989)(-)(de)(Side A).z64" size 43346 crc 5abd6d07 md5 f77abf2662cb9066be61ff27191df0bf sha1 e4f36f179862bf20d3fb4a9b825b5daeb5b1d708 )
+	rom ( name "3!Magic Disk 64 89-12 (1989)(-)(de)(Side A).z64" size 40052 crc 1da4c43b md5 bfb1a0664ad37a5f036f80e538b63181 sha1 b3efe20849dbc1141e72e4eac39f684dff60f1f2 )
+	rom ( name "4!Magic Disk 64 89-12 (1989)(-)(de)(Side A).z64" size 44024 crc 6da34ff3 md5 6af09a7372d6442ddb6503a3a6434cfb sha1 08541e65a1bdfb0990eaf38ecce219024eada30a )
+)
+
+game (
+	name "Magic Disk 64 89-12 (1989)(-)(de)(Side B)"
+	description "Magic Disk 64 89-12 (1989)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 89-12 (1989)(-)(de)(Side B).z64" size 30314 crc 1d8bf9e9 md5 afe157a6badad3555a07db8a93f2c929 sha1 eb30ab55d5ca9d0b2aeac71c3a7cce5d091d628d )
+	rom ( name "2!Magic Disk 64 89-12 (1989)(-)(de)(Side B).z64" size 43253 crc e21e9fda md5 6a27c0adc396b29492603e1c6c8101c0 sha1 99beff092cb4e6aaa47ed554294faf127f84baa7 )
+	rom ( name "3!Magic Disk 64 89-12 (1989)(-)(de)(Side B).z64" size 40576 crc 40e74441 md5 f81884370cecf724b912e0099a033ba6 sha1 ff0b86f2933ca093d7d825427fa199a8d076dfbe )
+	rom ( name "4!Magic Disk 64 89-12 (1989)(-)(de)(Side B).z64" size 38216 crc 1f9c8c6c md5 e408adbe14a14237f49600dcb89b7731 sha1 4bf27726cab44caa2a5ea18742a31866d1f02ed7 )
+)
+
+game (
+	name "Magic Disk 64 90-01 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-01 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-01 (1990)(-)(de)(Side A).z64" size 27196 crc d0e3c69f md5 c44d1bf34b8a8411abd7533a62fc84fe sha1 add4433359751d7493ea6e1862e14f48b154ebba )
+	rom ( name "2!Magic Disk 64 90-01 (1990)(-)(de)(Side A).z64" size 43346 crc 3466f601 md5 ba2e92987d0f7599afaedbaf572827b8 sha1 c0fdcef548f8738111bdc9d08adcdcf4628a75f4 )
+	rom ( name "3!Magic Disk 64 90-01 (1990)(-)(de)(Side A).z64" size 39909 crc 3a51081d md5 066111e5314b2f38615a9061f2407f2f sha1 d342685f7fbd523297a73637d3e8086e480d3b83 )
+	rom ( name "4!Magic Disk 64 90-01 (1990)(-)(de)(Side A).z64" size 31886 crc 6b9454bf md5 5e5311ba07f54ad0f758b2920295057c sha1 3e201e4f15d426b51bbb13784b8cb7ac06620936 )
+)
+
+game (
+	name "Magic Disk 64 90-01 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-01 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-01 (1990)(-)(de)(Side B).z64" size 40774 crc cdcdc9d3 md5 97cb41c6bad8dc65a7093eaf1bfffe11 sha1 c65505b27f1c8f4f1dfda02123770bb7d638eb6b )
+	rom ( name "2!Magic Disk 64 90-01 (1990)(-)(de)(Side B).z64" size 43346 crc 616c9071 md5 7ab7eabb60d82b8d646e6e7457ca29da sha1 8cdc39bb6f69091acd55e9abd0e032a9b83c5707 )
+	rom ( name "3!Magic Disk 64 90-01 (1990)(-)(de)(Side B).z64" size 40184 crc cdc455a5 md5 84a99b27879d1cfdfbdf9f8f45b7613c sha1 f934003527373fdfcbe81664799698ace1c9968a )
+	rom ( name "4!Magic Disk 64 90-01 (1990)(-)(de)(Side B).z64" size 45068 crc a75256fb md5 6651b946b34092694f28b49b551311c3 sha1 fc7245e4cdd804b92a0b6e476686fb2981ec92cd )
+)
+
+game (
+	name "Magic Disk 64 90-02 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-02 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-02 (1990)(-)(de)(Side A).z64" size 34815 crc 5552ae49 md5 c5be1ace4e662c64a84e7161212ecb92 sha1 841f2d9c5a57de02cecc5f6511ae3a578ea1880e )
+	rom ( name "2!Magic Disk 64 90-02 (1990)(-)(de)(Side A).z64" size 43346 crc f58c8a9a md5 c4ccfdf5bfb678b227c09be409f782d4 sha1 572d094f8a39be8f5a6fe6831bd8a06f272e0a0e )
+	rom ( name "3!Magic Disk 64 90-02 (1990)(-)(de)(Side A).z64" size 40086 crc 7e1ea741 md5 dc6feaab37dcf5af659b4b2d067d6376 sha1 b7370d2314b605574c7a3cd5c04fe980d9e39b20 )
+	rom ( name "4!Magic Disk 64 90-02 (1990)(-)(de)(Side A).z64" size 39152 crc 164d8188 md5 7e93e271bdc09fdb93575cf159d0751c sha1 a809945ae2ad9e8a467829dd89bedb8ddbb22ed1 )
+)
+
+game (
+	name "Magic Disk 64 90-02 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-02 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-02 (1990)(-)(de)(Side B).z64" size 41771 crc 021cd759 md5 7f1ff68a3558cd48ae58ff5ee0eae659 sha1 3fa127ce16a2cfaa3b0502407a96bfaaa5ed277b )
+	rom ( name "2!Magic Disk 64 90-02 (1990)(-)(de)(Side B).z64" size 43098 crc fbf80c95 md5 fed2ff2c3930a102a7fabd625a37ada3 sha1 5c36175d23d096bb196d9ee0cc503daeab55868c )
+	rom ( name "3!Magic Disk 64 90-02 (1990)(-)(de)(Side B).z64" size 41344 crc 4aaea959 md5 a0c4677a45f20e75b5e93af573d22128 sha1 71ba638dd58c32e4eaff889964481737c60b4b37 )
+	rom ( name "4!Magic Disk 64 90-02 (1990)(-)(de)(Side B).z64" size 43156 crc b722366f md5 1f068d016df9df35c18798fd788c840b sha1 41825697f5bb590b291f416cb9f75fb0989de120 )
+)
+
+game (
+	name "Magic Disk 64 90-03 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-03 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-03 (1990)(-)(de)(Side A).z64" size 42546 crc e8b95ee4 md5 b66cf6bcefdbad02741c7f7686185056 sha1 63e965a79f35d0c76d4a774d43be271608f51071 )
+	rom ( name "2!Magic Disk 64 90-03 (1990)(-)(de)(Side A).z64" size 43064 crc 75dd3f1f md5 4ad0f243972c3c4ff4b8b3e98ec03bbf sha1 f44502f5bb3b051786833fc328fbd8af647f40e4 )
+	rom ( name "3!Magic Disk 64 90-03 (1990)(-)(de)(Side A).z64" size 40029 crc 861c107f md5 3a0c9d48c9881ec047bc4615310fbab9 sha1 9dfb3131267a8f9ad58a2d338409b8f4ab69adb2 )
+	rom ( name "4!Magic Disk 64 90-03 (1990)(-)(de)(Side A).z64" size 45075 crc 594511f0 md5 5e32aa3d14cd97ef1d099be339ea771e sha1 e1994f5151cf5eade48062326c608e1062d8a180 )
+)
+
+game (
+	name "Magic Disk 64 90-03 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-03 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-03 (1990)(-)(de)(Side B).z64" size 35505 crc a6bd0c20 md5 709ce496c06101e5a914ce90595e9904 sha1 e3a99338d6f1a6bf8a424a87361767c0bbeffc0b )
+	rom ( name "2!Magic Disk 64 90-03 (1990)(-)(de)(Side B).z64" size 39701 crc 531f0646 md5 b5af15dba2d05a22c4542aa9d3598229 sha1 dd04ca04f03b71f0491089bfff96080eb16ecd1b )
+	rom ( name "3!Magic Disk 64 90-03 (1990)(-)(de)(Side B).z64" size 39299 crc 97e60a80 md5 d1952114c8ba0eaab2b21f38fb1a9277 sha1 61792b159e74daed2c99a1ccdf54223493be8dcd )
+	rom ( name "4!Magic Disk 64 90-03 (1990)(-)(de)(Side B).z64" size 41351 crc ec8146ca md5 1c8440cfc070134adc653c32e49bca4d sha1 f6408f5d63a13a71a104438b3a2de5b5e5104089 )
+)
+
+game (
+	name "Magic Disk 64 90-04 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-04 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-04 (1990)(-)(de)(Side A).z64" size 40900 crc 8aea0c58 md5 aeab1609af36c0853b8352e4a3ba95fd sha1 8069b282c94f03f0fd671a25e07a456cc87265f7 )
+	rom ( name "2!Magic Disk 64 90-04 (1990)(-)(de)(Side A).z64" size 43314 crc 0d4aaebe md5 644070ca72bb2f1795d193a13d3a20b1 sha1 c461b510364e70439564a117840c3954cafdfc56 )
+	rom ( name "3!Magic Disk 64 90-04 (1990)(-)(de)(Side A).z64" size 40278 crc 7094dc92 md5 27480dad61b065ebc547ef55e03d0160 sha1 c5952387c119884466048e3db7372c42174f03e1 )
+	rom ( name "4!Magic Disk 64 90-04 (1990)(-)(de)(Side A).z64" size 42932 crc d9d6bc75 md5 a0d605047b78062bbd67d48ddb0650cb sha1 01ebfb8354b4ab60f03abd2d7b887040c2065075 )
+)
+
+game (
+	name "Magic Disk 64 90-04 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-04 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-04 (1990)(-)(de)(Side B).z64" size 38661 crc 416de24e md5 1fd8b7a67b9a5d6d2dcd24f9f47d210e sha1 71072f0b50a5f6bace6a9b990de12a3c945b6ae4 )
+	rom ( name "2!Magic Disk 64 90-04 (1990)(-)(de)(Side B).z64" size 42541 crc 6cab6dd6 md5 6329658ae63ff48382ef8b1ca293c940 sha1 aadf2dc22543e80f45c70ee68e75fa694f7d7159 )
+	rom ( name "3!Magic Disk 64 90-04 (1990)(-)(de)(Side B).z64" size 41369 crc 722be424 md5 2a701c70518a777dad29268f2fe0178b sha1 698ddcbb6695fc6998cdd779a9eb6ccb9a8b8a05 )
+	rom ( name "4!Magic Disk 64 90-04 (1990)(-)(de)(Side B).z64" size 34648 crc 7b824878 md5 0a07d18c0aa90b14aced2c34180e67a7 sha1 8cd510bb53235ba5de1c3f338b729970854b4ab1 )
+)
+
+game (
+	name "Magic Disk 64 90-05 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-05 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-05 (1990)(-)(de)(Side A).z64" size 40948 crc c3724902 md5 b7e3ea691eda8dd002e3c67d3683167c sha1 97d48d0846c7b814dbfb1320e62dc26b8d6d6f98 )
+	rom ( name "2!Magic Disk 64 90-05 (1990)(-)(de)(Side A).z64" size 43346 crc d0320b2b md5 027ee9cb8693e4b4b75044c4291ce6c8 sha1 057c7d37a348cdf4bfd3114e2b856a35c0fc2af9 )
+	rom ( name "3!Magic Disk 64 90-05 (1990)(-)(de)(Side A).z64" size 40099 crc b3907ba8 md5 e78deb9b7a2e58d979f0cc4c08263144 sha1 46768bbe4d608389bfbb7f1853aa05e9b240d8ba )
+	rom ( name "4!Magic Disk 64 90-05 (1990)(-)(de)(Side A).z64" size 33674 crc 6beb16ee md5 f7401fec455d555a7c3c7387e440a38e sha1 c6eb3224afa2f0173322c3e3dbe9dac6b9278bbb )
+)
+
+game (
+	name "Magic Disk 64 90-05 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-05 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-05 (1990)(-)(de)(Side B).z64" size 26383 crc 1c86fab9 md5 9d41b6e4852b406562148524b9138210 sha1 0df766a63a631e9edc354d882cf4ec417400981a )
+	rom ( name "2!Magic Disk 64 90-05 (1990)(-)(de)(Side B).z64" size 42708 crc d3a96a9f md5 1e609d421c94f3c035ee9127aeb4f857 sha1 bf061130d35f7a2f313e8701f1627aead9b2ff2d )
+	rom ( name "3!Magic Disk 64 90-05 (1990)(-)(de)(Side B).z64" size 33701 crc a28c1a09 md5 96b40fe3e09ffcdd28ea860e0a4da733 sha1 3f3e22f96e01208dff278253ca095cf87beba95b )
+	rom ( name "4!Magic Disk 64 90-05 (1990)(-)(de)(Side B).z64" size 28854 crc 08c27091 md5 ac44e110da8d4f12639584af0b83f855 sha1 8960c6d581560805c975034e5dbb25132c7fc22d )
+)
+
+game (
+	name "Magic Disk 64 90-06 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-06 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-06 (1990)(-)(de)(Side A).z64" size 41619 crc ea3b69e7 md5 51f537fac59fe2fe8b64f099f577223a sha1 3db6cfab0ac2b277cf710b69705a87b4bd9b06d7 )
+	rom ( name "2!Magic Disk 64 90-06 (1990)(-)(de)(Side A).z64" size 43325 crc 4aa30110 md5 73b21827ff9ba96769e06a95dd7c819a sha1 9c2b839e19d43411ec03ad47d2343c45b36350c5 )
+	rom ( name "3!Magic Disk 64 90-06 (1990)(-)(de)(Side A).z64" size 40395 crc cf78607a md5 761c665d0f8cc30f4d2f0cc64053ba35 sha1 db56f5fdec8a23c6b4cbbc4fb01ea1c55d4bd822 )
+	rom ( name "4!Magic Disk 64 90-06 (1990)(-)(de)(Side A).z64" size 44003 crc c61939f4 md5 0a135bf21daf85627378354124f6cf14 sha1 c5d809b75917e937491f07b3150ddcffcb9ee4e5 )
+)
+
+game (
+	name "Magic Disk 64 90-06 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-06 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-06 (1990)(-)(de)(Side B).z64" size 39656 crc b0fe812e md5 83872a12c82d6c3b4add14ba476bdc70 sha1 63c98d2483ffe95fecdc22e8c51c1f38d64f84b4 )
+	rom ( name "2!Magic Disk 64 90-06 (1990)(-)(de)(Side B).z64" size 42851 crc e78a20a5 md5 e7fda2881fcd4a60239466bdd2f5cc87 sha1 6e6aa899b58922116597b5f3386294ea65e89a4d )
+	rom ( name "3!Magic Disk 64 90-06 (1990)(-)(de)(Side B).z64" size 38435 crc 950b538f md5 c73467e847bcdd25f782096204f328bf sha1 6f53845426c4094dfecb23d3482c421b0f890d5e )
+	rom ( name "4!Magic Disk 64 90-06 (1990)(-)(de)(Side B).z64" size 33806 crc 91639220 md5 4b462915d800624f872fe641e2ed2e59 sha1 9e6fa4067def8a4191439212e9a8ae0ad75f0cb4 )
+)
+
+game (
+	name "Magic Disk 64 90-07 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-07 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-07 (1990)(-)(de)(Side A).z64" size 37799 crc 7ada9584 md5 b748314f743607495009b0b45e08053a sha1 68182be05550e9cd4ce6416baf5e191e8a683dc7 )
+	rom ( name "2!Magic Disk 64 90-07 (1990)(-)(de)(Side A).z64" size 43346 crc 7c3348d8 md5 22e2b9586aaa132d77490e6016f47ab5 sha1 0fdcd80f59395929298e7c0e35f4bc3a9620adee )
+	rom ( name "3!Magic Disk 64 90-07 (1990)(-)(de)(Side A).z64" size 40252 crc 309b4cbf md5 3441f680e66a2decd16e74d8568777f2 sha1 bc93d4d38148cc4694f7369f566e233b09275fea )
+	rom ( name "4!Magic Disk 64 90-07 (1990)(-)(de)(Side A).z64" size 43131 crc a7d2db59 md5 bea42bcff1f84bb6251709d45f3d27ba sha1 6902c0547c959a8d51be28fa1d33ca357a17b9ea )
+)
+
+game (
+	name "Magic Disk 64 90-07 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-07 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-07 (1990)(-)(de)(Side B).z64" size 41162 crc 3a5455e8 md5 e22ce6a1319e5e65d38f77976425c510 sha1 541423f9a6203d5b326cb3fa0758f3dccadd46e7 )
+	rom ( name "2!Magic Disk 64 90-07 (1990)(-)(de)(Side B).z64" size 42065 crc 1abcf0b5 md5 7965186b2fa582ca352739b55912ca91 sha1 e7f33ad8e176fae67e04121f3201997eb60874c2 )
+	rom ( name "3!Magic Disk 64 90-07 (1990)(-)(de)(Side B).z64" size 40526 crc 6231b4cd md5 719eb70838e4b1265c5606f63f1a53f8 sha1 2d4c73f7e183948a730f5f7201cdfba50cacee10 )
+	rom ( name "4!Magic Disk 64 90-07 (1990)(-)(de)(Side B).z64" size 44829 crc c799ab52 md5 9201b8945734c1aaa68e2d78fa0835ef sha1 a4fceb766a81461a1aefb34287729528cb0a3457 )
+)
+
+game (
+	name "Magic Disk 64 90-08 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-08 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-08 (1990)(-)(de)(Side A).z64" size 42953 crc 766b0890 md5 3e4ebb484804d24e839abb9f669311fb sha1 baebfd10f7f65470d445a151bf3a349725aee19f )
+	rom ( name "2!Magic Disk 64 90-08 (1990)(-)(de)(Side A).z64" size 43346 crc 0c70638e md5 f43a45aabd63b4045866a02bee3c0206 sha1 307191331785acb7f42cc241b5355bdd05ff5854 )
+	rom ( name "3!Magic Disk 64 90-08 (1990)(-)(de)(Side A).z64" size 43633 crc 2ffd690b md5 be8a919c1bc39f7892664c7ee689166b sha1 bf4126216fb9ecda264d132ab4fd36a684581506 )
+	rom ( name "4!Magic Disk 64 90-08 (1990)(-)(de)(Side A).z64" size 44580 crc 114ec46e md5 5db1ffe3aded19b20a78fcd172e9f604 sha1 b73b4d167efaa6baf93a21d812d561d310ea84a4 )
+)
+
+game (
+	name "Magic Disk 64 90-08 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-08 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-08 (1990)(-)(de)(Side B).z64" size 36164 crc 333c1fcc md5 99d0b1ea0b1459c7b7449d23a365ae39 sha1 9028cd8ba2251755f83196de5f264da06e758fb3 )
+	rom ( name "2!Magic Disk 64 90-08 (1990)(-)(de)(Side B).z64" size 40348 crc e6273e54 md5 905c6f65804bf3cdd8180146e9caf160 sha1 ed3b027635b5c51388aee30e294bc534397f028f )
+	rom ( name "3!Magic Disk 64 90-08 (1990)(-)(de)(Side B).z64" size 34350 crc d3a9762a md5 75eeff019a6f6e9c8ac61f94e4693f37 sha1 7c82ac23dead6f1c92d69581d2fd33e2f5b7303f )
+	rom ( name "4!Magic Disk 64 90-08 (1990)(-)(de)(Side B).z64" size 38824 crc f2987229 md5 f399c8f4192fd1b84f2ca2fd0a5dd018 sha1 dfb84640d0b84facb9dd0ca06052eefdc7d805aa )
+)
+
+game (
+	name "Magic Disk 64 90-09 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-09 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-09 (1990)(-)(de)(Side A).z64" size 35831 crc 0cd2d930 md5 d902af41a9fdbe0a36e42f837c6048ea sha1 2fd062ece7447f7473ea14bf19794b1f4f7c59d4 )
+	rom ( name "2!Magic Disk 64 90-09 (1990)(-)(de)(Side A).z64" size 43346 crc c77efc28 md5 7ba7eabbef24ce4bc6023ca01ef8f002 sha1 cde8a926c0560dda3c28e5001ce5829d7f280cc4 )
+	rom ( name "3!Magic Disk 64 90-09 (1990)(-)(de)(Side A).z64" size 40197 crc 7a589cc8 md5 0b70bf878df9d3f84d45d4eb567224f9 sha1 5619f99f86f1c3f43cef034087bc3fa40eeebd49 )
+	rom ( name "4!Magic Disk 64 90-09 (1990)(-)(de)(Side A).z64" size 29509 crc a27a5fb8 md5 c9a27441631feeb5f8d5460788309987 sha1 892f018e36baaee677457634a14a7647e6cdb432 )
+)
+
+game (
+	name "Magic Disk 64 90-09 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-09 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-09 (1990)(-)(de)(Side B).z64" size 38438 crc e8d686de md5 2a4b703cc2d51db38eaf001aa15195a5 sha1 46ab99a8dbc703c2f2a36ef465f34717df0d7972 )
+	rom ( name "2!Magic Disk 64 90-09 (1990)(-)(de)(Side B).z64" size 37522 crc b4ecdf99 md5 9b698c85c32bd6328306dd25865f7d75 sha1 a33499e23f0aa76fa722f7e9a31064a0cd6d017c )
+	rom ( name "3!Magic Disk 64 90-09 (1990)(-)(de)(Side B).z64" size 40184 crc f9ed993a md5 deb53237e30eb16ba1aef96c680bb77b sha1 aea010e4a38c068de7c3462ddf18dd5b4ed8212c )
+	rom ( name "4!Magic Disk 64 90-09 (1990)(-)(de)(Side B).z64" size 42980 crc d500861e md5 dcc1e2e0dcb9e9c82e6ba9870fc53f90 sha1 9f44e7091ec10c03ec15b2794af35ad0655a9b72 )
+)
+
+game (
+	name "Magic Disk 64 90-10 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-10 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-10 (1990)(-)(de)(Side A).z64" size 25705 crc 83481748 md5 bff3378ebbb24a7183e9413418a061c0 sha1 3ba6627e1322a93e3be8264b096bdae2f73a28af )
+	rom ( name "2!Magic Disk 64 90-10 (1990)(-)(de)(Side A).z64" size 43346 crc 42048d27 md5 1d367ddcd25aec74db808282d3b7c62f sha1 5fbc7fcb879e5740d45d10bd61458110ff1913e7 )
+	rom ( name "3!Magic Disk 64 90-10 (1990)(-)(de)(Side A).z64" size 41064 crc 969fd02f md5 2b54b2b9ecb226a41d248c1a0ee9179d sha1 0c3926ce3d4717dbc5a4e785e4939bf6c98e9803 )
+	rom ( name "4!Magic Disk 64 90-10 (1990)(-)(de)(Side A).z64" size 33881 crc 7ac834e3 md5 bad0bcdc8c6e178cb90cfb22c45ed88a sha1 c827e39c53971507c4a5938033ab40454a9fe14c )
+)
+
+game (
+	name "Magic Disk 64 90-10 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-10 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-10 (1990)(-)(de)(Side B).z64" size 25656 crc 931cee19 md5 18b72e93b519cf198470f928efa5338b sha1 389f2f5279fa462162e2b817438ac31e845012be )
+	rom ( name "2!Magic Disk 64 90-10 (1990)(-)(de)(Side B).z64" size 40557 crc 88c6b9e4 md5 d3819227d3da0a9661cd79f30d62d14e sha1 e21d2a075370c7f48e5d11be13cec1df47106e15 )
+	rom ( name "3!Magic Disk 64 90-10 (1990)(-)(de)(Side B).z64" size 37410 crc 0ed15f46 md5 4d80f2e2e5dabe31615728285928a388 sha1 cd49614f0525acb13371ad76b8129990832631f6 )
+	rom ( name "4!Magic Disk 64 90-10 (1990)(-)(de)(Side B).z64" size 37974 crc ee1f4538 md5 bdf67d46cccca60e66a2daf3e4e6a530 sha1 1f06855a1d3fbe8244b00c987b0d0a5c9b99a678 )
+)
+
+game (
+	name "Magic Disk 64 90-11 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-11 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-11 (1990)(-)(de)(Side A).z64" size 43300 crc 0abf864a md5 039d4218244e1225f755927bea31d312 sha1 0db2558637a70045925ab37e87fb52dbea8a78ab )
+	rom ( name "2!Magic Disk 64 90-11 (1990)(-)(de)(Side A).z64" size 43346 crc eff07ca5 md5 7c4d3225305ed114663d3c1ed4096e9d sha1 a7d0555e1e3320bd287a9b2994d47df7802a8cd1 )
+	rom ( name "3!Magic Disk 64 90-11 (1990)(-)(de)(Side A).z64" size 43744 crc 28e1ecd0 md5 1a18058a116f867db9e52d80b62092e4 sha1 0ddbef69690ea85ec05d1de37ea9dc79c54322f8 )
+	rom ( name "4!Magic Disk 64 90-11 (1990)(-)(de)(Side A).z64" size 44131 crc 83b4aac7 md5 8d90859df19f4b46671ff1d482bfdf9b sha1 7cfbd3d576c472a3f72a2296d9a0976f637dbb4a )
+)
+
+game (
+	name "Magic Disk 64 90-11 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-11 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-11 (1990)(-)(de)(Side B).z64" size 35734 crc c0229744 md5 8e690e61a7fc560edf50e9bf93b70a77 sha1 aac22bf175e7631782b953043f5579bd7df977d4 )
+	rom ( name "2!Magic Disk 64 90-11 (1990)(-)(de)(Side B).z64" size 42614 crc ee21eab3 md5 b416649160984c4b2d44b1c8f49773ac sha1 9587a224cd68be3a0e09a90d14ba782c5fce651b )
+	rom ( name "3!Magic Disk 64 90-11 (1990)(-)(de)(Side B).z64" size 39920 crc d6bfd231 md5 a59efe3e72e61239ac901966f69b6557 sha1 bb95232837fd9d14cf146aa52c30fcdda4ccaa6e )
+	rom ( name "4!Magic Disk 64 90-11 (1990)(-)(de)(Side B).z64" size 36308 crc 3614cbdf md5 c55bfa521e309a73ebe6e2228295887e sha1 99e86fc9e9dd2f0560bb085c33a831cdc05bad76 )
+)
+
+game (
+	name "Magic Disk 64 90-12 (1990)(-)(de)(Side A)"
+	description "Magic Disk 64 90-12 (1990)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 90-12 (1990)(-)(de)(Side A).z64" size 28222 crc 6ac94b9a md5 4b515e9293872ada8a311bade84ea9f9 sha1 6735459f5607ee85c54b9cf89323a3067852efe0 )
+	rom ( name "2!Magic Disk 64 90-12 (1990)(-)(de)(Side A).z64" size 43346 crc a7e5204d md5 adf17bb922541f886800287eee9ccd25 sha1 67ed6fcee5c45d169efedd38118d4f946f5383b1 )
+	rom ( name "3!Magic Disk 64 90-12 (1990)(-)(de)(Side A).z64" size 40146 crc 6bc19290 md5 cd72516e3a25c16b1720e5602ce8271b sha1 38477f71b68d952340058be2133351b5e9591208 )
+	rom ( name "4!Magic Disk 64 90-12 (1990)(-)(de)(Side A).z64" size 26351 crc 1e890e3d md5 80125bc645b6921071ce9179f7156b4c sha1 5ecd74009929688ce59b3ce603ca87e1caaf3c27 )
+)
+
+game (
+	name "Magic Disk 64 90-12 (1990)(-)(de)(Side B)"
+	description "Magic Disk 64 90-12 (1990)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 90-12 (1990)(-)(de)(Side B).z64" size 23997 crc db1a2e5d md5 089f49750dce3921f4351dd954bf8309 sha1 bf94ed4091ad581d8eca13ea4708a366131080bc )
+	rom ( name "2!Magic Disk 64 90-12 (1990)(-)(de)(Side B).z64" size 43074 crc 662f116c md5 c3b8ca0f57ec2e6548e36ec47b648d93 sha1 a0a22edfaedd5d15b8c5f8957e35e8582c9cc7b8 )
+	rom ( name "3!Magic Disk 64 90-12 (1990)(-)(de)(Side B).z64" size 37007 crc 42eb43fc md5 01efb075b15912a771d98b9ebffa31a6 sha1 f2680226fc72b6a2ba0c92c899baa6073cfd09df )
+	rom ( name "4!Magic Disk 64 90-12 (1990)(-)(de)(Side B).z64" size 31787 crc f4aadded md5 f58b888d2e00bbf94141b1d23bece54f sha1 874aa005ae4df309a900ad22609b147edb144d23 )
+)
+
+game (
+	name "Magic Disk 64 91-01 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-01 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-01 (1991)(-)(de)(Side A).z64" size 29222 crc 032704bc md5 6d5224821630913a2846f8b70bdffbc8 sha1 d4f520f64834e860f20b76c30df8f4e2a6440d59 )
+	rom ( name "2!Magic Disk 64 91-01 (1991)(-)(de)(Side A).z64" size 43346 crc 4f6d9412 md5 3f12ffad6350d2a11246f6629ce8dba5 sha1 9aae734ec44dda93fe01f787d86cd83f9388da67 )
+	rom ( name "3!Magic Disk 64 91-01 (1991)(-)(de)(Side A).z64" size 41052 crc 583f3d11 md5 47511c7a7f8b632306c18a8339499c07 sha1 043ea978366ae37dfcfc04c425dec100e422e96a )
+	rom ( name "4!Magic Disk 64 91-01 (1991)(-)(de)(Side A).z64" size 32513 crc 3236f7f1 md5 b9c8d62a88f7417c73b7ac814125cbf2 sha1 d3e0d19b3964734a5ddad27f6db6297da86e41c9 )
+)
+
+game (
+	name "Magic Disk 64 91-01 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-01 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-01 (1991)(-)(de)(Side B).z64" size 15417 crc 778dd8d7 md5 b057505304ac2b7125003f2314f50f3d sha1 2ea4b7633c1f733ce19c575ed83a22ab38673795 )
+	rom ( name "2!Magic Disk 64 91-01 (1991)(-)(de)(Side B).z64" size 40278 crc a1149f32 md5 ae2318d5da28ad08a2ea23a4259bb047 sha1 e803fb5878cabba7aa9ee4e9af1b87933c570562 )
+	rom ( name "3!Magic Disk 64 91-01 (1991)(-)(de)(Side B).z64" size 37484 crc 2d392e62 md5 9ddeb99ee88532229e80bd3f4bbeb0bc sha1 a0bf5bb89bb3cfce84726dd991556f79734cb099 )
+	rom ( name "4!Magic Disk 64 91-01 (1991)(-)(de)(Side B).z64" size 19926 crc 30ab9335 md5 8b3618156332b721e783a9629990939a sha1 84a8df063dcec620cf40ab2c07dcd2ef65cfea90 )
+)
+
+game (
+	name "Magic Disk 64 91-02 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-02 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-02 (1991)(-)(de)(Side A).z64" size 43348 crc 6e22e40d md5 0391e8d789c47d83c87f46438bf48ca2 sha1 64b4e190a3843256bbe859517fadbacadb3bdafe )
+	rom ( name "2!Magic Disk 64 91-02 (1991)(-)(de)(Side A).z64" size 43346 crc c12b3b52 md5 c76e756abfd39383d9e3214c9c3b4835 sha1 dcdd6b9f1d9ccd86dd2001732707636541f344d3 )
+	rom ( name "3!Magic Disk 64 91-02 (1991)(-)(de)(Side A).z64" size 40386 crc 33841633 md5 75dee350512c610ca1774d54704a66f0 sha1 a037ab808032915e8faa4ab8a5babe3e9498af15 )
+	rom ( name "4!Magic Disk 64 91-02 (1991)(-)(de)(Side A).z64" size 43759 crc c2730c69 md5 fd08e66f242c2e08933f5ed78faaa2ad sha1 04c181935dd371299d20f155a9b1bccd447ab877 )
+)
+
+game (
+	name "Magic Disk 64 91-02 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-02 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-02 (1991)(-)(de)(Side B).z64" size 43316 crc 7ac51f8c md5 ac538efbf75801d8b19d6b0699075abf sha1 cb2fd56f6bc82631f99139c5a07a41724f0e0726 )
+	rom ( name "2!Magic Disk 64 91-02 (1991)(-)(de)(Side B).z64" size 42262 crc 45ff4334 md5 566898afb9bdb6d19a63d14fa8523d1e sha1 2a90e16ecb85a704985001ede4b04be7f6ad6278 )
+	rom ( name "3!Magic Disk 64 91-02 (1991)(-)(de)(Side B).z64" size 40057 crc 567b94c3 md5 962e23e2d38c2f2d65dd8358b86d8a13 sha1 d4c23429c65d0a96fa272527332e5bd816e4cd97 )
+	rom ( name "4!Magic Disk 64 91-02 (1991)(-)(de)(Side B).z64" size 42152 crc c7b56067 md5 7b2ba80cba5a1eb7cb57a66fdcf3bff8 sha1 ddf291e606500b088edbf56f997cb3ee94c8c6bd )
+)
+
+game (
+	name "Magic Disk 64 91-03 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-03 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-03 (1991)(-)(de)(Side A).z64" size 37004 crc 8c776623 md5 aeee8a6d860c607120f5974f8e8a2183 sha1 e491e7eb9a4e96477fdf5e324ea14c52330265c9 )
+	rom ( name "2!Magic Disk 64 91-03 (1991)(-)(de)(Side A).z64" size 43346 crc 5008b083 md5 8a4bf275ff3a35fc26b623a0ed815d04 sha1 3bd50e928c7633dbfaba8f8e584450f65b95c9cf )
+	rom ( name "3!Magic Disk 64 91-03 (1991)(-)(de)(Side A).z64" size 40118 crc 85e9de9c md5 732ef050df2f49866c9c71ef23ac9589 sha1 cac6206716eb484a48f87db6560667fb9ddac772 )
+	rom ( name "4!Magic Disk 64 91-03 (1991)(-)(de)(Side A).z64" size 40066 crc 499022cd md5 7161e408c44c7078b1c1303f1128beea sha1 29f9abb048ef896e3fb6704b97af21b784cc2559 )
+)
+
+game (
+	name "Magic Disk 64 91-03 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-03 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-03 (1991)(-)(de)(Side B).z64" size 40011 crc 0d3969ed md5 257cfad62b61f73051f25b0bba6932da sha1 d6d5ddb8856221215a469ba9344c79cfefbc0a82 )
+	rom ( name "2!Magic Disk 64 91-03 (1991)(-)(de)(Side B).z64" size 40942 crc 929312f8 md5 77125840767ecd5c1b465311f74a49b3 sha1 7e8eede737e11b78cd1d1f55c941d0cea906fc4b )
+	rom ( name "3!Magic Disk 64 91-03 (1991)(-)(de)(Side B).z64" size 40237 crc 627eae47 md5 8c0197b1018b06e670af25af59b8ee0d sha1 8d0c80d7529b8de9cbfc69dd7efdb542b86537f3 )
+	rom ( name "4!Magic Disk 64 91-03 (1991)(-)(de)(Side B).z64" size 41638 crc 6cb3488a md5 f82c580d244805f0151c7b3377a706a1 sha1 9fbb757073f5b52ede98c2288d40303850acd534 )
+)
+
+game (
+	name "Magic Disk 64 91-04 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-04 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-04 (1991)(-)(de)(Side A).z64" size 41302 crc e3f83b5b md5 d34c716bd66a4c86580aacdc8e294abd sha1 0a8cc3c4bbee1f95ada2362767b07b0555c2a286 )
+	rom ( name "2!Magic Disk 64 91-04 (1991)(-)(de)(Side A).z64" size 43346 crc 5a48bc2e md5 511f3ed44bb8a56c9a1deeb458160cf4 sha1 2cd2f067906dfdc07dee143f350388d04e70aa64 )
+	rom ( name "3!Magic Disk 64 91-04 (1991)(-)(de)(Side A).z64" size 43811 crc 041a84c8 md5 8b95a91f1389a5159466705099a8e6e2 sha1 77894243cc25074a5abdf5accda7ece16f7eca73 )
+	rom ( name "4!Magic Disk 64 91-04 (1991)(-)(de)(Side A).z64" size 44016 crc 0e6f6d63 md5 36f9d4110cb81f72517803131a06e2eb sha1 875d1b186d6bcf5ab9144f0f2376a8578571110b )
+)
+
+game (
+	name "Magic Disk 64 91-04 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-04 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-04 (1991)(-)(de)(Side B).z64" size 32976 crc f953c6e1 md5 170f89180d64f55ad427eec2d590b275 sha1 418341db6485692c59b03dd19a784cc28467dbff )
+	rom ( name "2!Magic Disk 64 91-04 (1991)(-)(de)(Side B).z64" size 40553 crc 830b79e5 md5 665b9e837a882795d7b36d19626076c8 sha1 3542ff2fe6dd1457bf0b2916be6167c2dc77b524 )
+	rom ( name "3!Magic Disk 64 91-04 (1991)(-)(de)(Side B).z64" size 35551 crc 680fc179 md5 2a96c920cd611ba48091a09982a349fb sha1 1a636ee06426569f9faca464d0e321a56037fd7e )
+	rom ( name "4!Magic Disk 64 91-04 (1991)(-)(de)(Side B).z64" size 39874 crc a29ee59a md5 4cdd8a555601c94ba16ae8a3cbef4161 sha1 88e2c53506b7523fa6ee4dc5611ef63ccbd74557 )
+)
+
+game (
+	name "Magic Disk 64 91-05 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-05 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-05 (1991)(-)(de)(Side A).z64" size 21234 crc 0a76b57a md5 cf065a6a1e824db336a6e90df7053f96 sha1 78cf345f8ea349f47ee91722c4fea5621c010c3e )
+	rom ( name "2!Magic Disk 64 91-05 (1991)(-)(de)(Side A).z64" size 43346 crc a92d0e94 md5 06c48603f6d9bc078b5f660cd94fae4b sha1 407b5f9b42429443efc75ca20496e8fedd42035e )
+	rom ( name "3!Magic Disk 64 91-05 (1991)(-)(de)(Side A).z64" size 39726 crc 544f3b11 md5 bab54190cd0e74085cd83352d04ea0f7 sha1 5ecaa7921734611404aa14967f9f5e75e5c9a453 )
+	rom ( name "4!Magic Disk 64 91-05 (1991)(-)(de)(Side A).z64" size 24902 crc 46d01b49 md5 b0b1234dbeeff6ba5f6b0338cc654034 sha1 a9af74b7c56ce9a1a15cb9a186980f418dce1918 )
+)
+
+game (
+	name "Magic Disk 64 91-05 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-05 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-05 (1991)(-)(de)(Side B).z64" size 20098 crc 8076db70 md5 0ddd9a7110490bcce8ebf60cadaae767 sha1 82b8a8bb4381f96f9c835b07b439d34300f23a74 )
+	rom ( name "2!Magic Disk 64 91-05 (1991)(-)(de)(Side B).z64" size 43287 crc f2ac48ee md5 7a87d28437695c48225249f25dcaccf2 sha1 a25bba354cbffe161f24188fb7769f8f3191490f )
+	rom ( name "3!Magic Disk 64 91-05 (1991)(-)(de)(Side B).z64" size 40196 crc 884c56a1 md5 00cb93c5d7da53ae67fc0952bb360ddb sha1 1baa2ac1da6f7840c21c152aa66115ae99d2598b )
+	rom ( name "4!Magic Disk 64 91-05 (1991)(-)(de)(Side B).z64" size 37572 crc 995a5c13 md5 c34fe3fba76aa6d30467ff9563587cec sha1 6694c5dc3d090f8b258e4aeab09fb6339ba3753c )
+)
+
+game (
+	name "Magic Disk 64 91-06 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-06 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-06 (1991)(-)(de)(Side A).z64" size 10098 crc a25eec37 md5 9df2fe8011097cf842c6cfebf5d663d1 sha1 ed2446c42a3ddfc266a09c55e43517947a7fa812 )
+	rom ( name "2!Magic Disk 64 91-06 (1991)(-)(de)(Side A).z64" size 43314 crc 5a55713e md5 f3db75764e335a65ca52bea70a7d7e07 sha1 ce5fad62c3dc0840e8f68e0a266d481c791a24fa )
+	rom ( name "3!Magic Disk 64 91-06 (1991)(-)(de)(Side A).z64" size 40886 crc d5409d35 md5 b010de9279df07b3310ef70f10d15ce8 sha1 a9aca84424041bffd732567c953a3cc1479bbdd0 )
+	rom ( name "4!Magic Disk 64 91-06 (1991)(-)(de)(Side A).z64" size 37402 crc 8d71f879 md5 ce209830be9d0bea55373ea2488d8e1e sha1 b2eecc87dc3d51360be70d1cd3cacbdeb5a09eaf )
+)
+
+game (
+	name "Magic Disk 64 91-06 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-06 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-06 (1991)(-)(de)(Side B).z64" size 40847 crc 16d11d84 md5 45674ac93b12f4640877dc7f8e55ddfb sha1 52b8ae1f460a4f34f99c665ffea377e6d33545fa )
+	rom ( name "2!Magic Disk 64 91-06 (1991)(-)(de)(Side B).z64" size 42149 crc 967b48f2 md5 1dee08aa90eb15c86ca7f209df534ac4 sha1 30f1e9c73f6dc820db3732c19f675e45bc223941 )
+	rom ( name "3!Magic Disk 64 91-06 (1991)(-)(de)(Side B).z64" size 38124 crc 490fd2c2 md5 c9e03b33e8984be1ac3d86d7f3bfc3bc sha1 fa33bdc1777661d7e9ec001ef260a2bb73354f6e )
+	rom ( name "4!Magic Disk 64 91-06 (1991)(-)(de)(Side B).z64" size 4551 crc b2308bac md5 60a429d42157221377787df6566c8829 sha1 1a11a66cc16c9987f89f2199d7714ccc3ed67105 )
+)
+
+game (
+	name "Magic Disk 64 91-08 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-08 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-08 (1991)(-)(de)(Side A).z64" size 5243 crc bcbfa9fd md5 de3a5cfefb1ae3693071b011c5fb57d1 sha1 f9944250e26ab682a309d08eebefe2a957f065e4 )
+	rom ( name "2!Magic Disk 64 91-08 (1991)(-)(de)(Side A).z64" size 41978 crc 7144d14d md5 094393548594188678e6a1d14b231f70 sha1 2b52a3e02eb1663fe852f63be82bfd3dafda1f83 )
+	rom ( name "3!Magic Disk 64 91-08 (1991)(-)(de)(Side A).z64" size 40549 crc 14facd72 md5 6f0038862b8e12f199f92df66ff1731f sha1 66e9d90b77ab5b7ea60ae08dbc9716e8cddfa3a6 )
+	rom ( name "4!Magic Disk 64 91-08 (1991)(-)(de)(Side A).z64" size 31152 crc 178a3ce1 md5 648da4af47e53720d7b8ca585ea1c03d sha1 a4b3303f3a9a75ad9d78c358cd1ba9a332e4f228 )
+)
+
+game (
+	name "Magic Disk 64 91-08 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-08 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-08 (1991)(-)(de)(Side B).z64" size 33215 crc d3d071d2 md5 67950360e60525efbcfb8fcdcfb1205c sha1 260a3f2390a2462de28540ff0bf78103f0059ff1 )
+	rom ( name "2!Magic Disk 64 91-08 (1991)(-)(de)(Side B).z64" size 38191 crc ad81aef8 md5 4df53c41ef5d4cb7508f9e406746a7fa sha1 5e8e11453d95a1e398fae374afa6e80d6afadf9d )
+	rom ( name "3!Magic Disk 64 91-08 (1991)(-)(de)(Side B).z64" size 38795 crc d8c9beb9 md5 5433c64e956616285bc0040a4dff7c0c sha1 9ea492930b908567bcf7302f3b6e234e0526c674 )
+	rom ( name "4!Magic Disk 64 91-08 (1991)(-)(de)(Side B).z64" size 42392 crc 494d0c94 md5 41680756853cf3355beebbe34412f0bf sha1 68bfaefbfecd8990ae7c41581ab6f07a09b9b977 )
+)
+
+game (
+	name "Magic Disk 64 91-09 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-09 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-09 (1991)(-)(de)(Side A).z64" size 33493 crc 607a9cbc md5 e2a231c5858ffe6b2de23b976dbc11d7 sha1 f2ffa2b83b80e3fadcb64e93a5ea9d9aea36d7ed )
+	rom ( name "2!Magic Disk 64 91-09 (1991)(-)(de)(Side A).z64" size 43346 crc e5d2701e md5 7ae792bb77ee7578b37087c63bec1b98 sha1 4c89684b0f468c1c5877cd5b10df08531aadd8a6 )
+	rom ( name "3!Magic Disk 64 91-09 (1991)(-)(de)(Side A).z64" size 40591 crc 7d876421 md5 928b07c04025831eb0c2605da506d85c sha1 592bf50a4b90245e010410ef46723edf17c7f4a6 )
+	rom ( name "4!Magic Disk 64 91-09 (1991)(-)(de)(Side A).z64" size 23874 crc 7ead7bf6 md5 93eebee7e816592d6e112b6b64d37ea7 sha1 4957cd7683b3c241fc7d03e9c46574f745c20ed5 )
+)
+
+game (
+	name "Magic Disk 64 91-09 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-09 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-09 (1991)(-)(de)(Side B).z64" size 41801 crc b212b146 md5 d3df120ead5b6942d1bd98c3c5a8ae03 sha1 52ab071638b0f6cdae34968815ac4d91bc456814 )
+	rom ( name "2!Magic Disk 64 91-09 (1991)(-)(de)(Side B).z64" size 37842 crc 266c3878 md5 89d73c8f9303e4531724cb84e17ac600 sha1 2f32c46e3828d2227679d3f497d3f955018fb637 )
+	rom ( name "3!Magic Disk 64 91-09 (1991)(-)(de)(Side B).z64" size 39883 crc 1b24073e md5 255014573b168ef1f1f25f67661f2429 sha1 8a2ee8b7d2405373e32a42bb24e29da3bbd1703b )
+	rom ( name "4!Magic Disk 64 91-09 (1991)(-)(de)(Side B).z64" size 34809 crc 0369abb5 md5 9fd44b7588d938fc36066c2208f9fa19 sha1 afaa70b9613248492d3ecb1b395f86a526937374 )
+)
+
+game (
+	name "Magic Disk 64 91-10 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-10 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-10 (1991)(-)(de)(Side A).z64" size 31743 crc d8370540 md5 c657593d536f6b0204a9c56a267d4fc8 sha1 3ec7f1762119a8d6aa813f15aa0eee5b175a2e8e )
+	rom ( name "2!Magic Disk 64 91-10 (1991)(-)(de)(Side A).z64" size 43346 crc ba86ee76 md5 2dca6ad27109060f6c72d29187ee168f sha1 e1c5f5a1931937dd9aadd94c7d4f164d26a62e5d )
+	rom ( name "3!Magic Disk 64 91-10 (1991)(-)(de)(Side A).z64" size 40517 crc 29b1ca9c md5 72e571fac76df20a119730709ff45f08 sha1 c5d4378437de3d67539ea59fccbc1c59c91d6595 )
+	rom ( name "4!Magic Disk 64 91-10 (1991)(-)(de)(Side A).z64" size 34652 crc abbc46bc md5 c9b4e1ce8dbe8aa144e13de2145a75d2 sha1 859248595735f1710ed375a7d64d1dadf6b24522 )
+)
+
+game (
+	name "Magic Disk 64 91-10 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-10 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-10 (1991)(-)(de)(Side B).z64" size 31268 crc 22813381 md5 f6e6f6eef2cf40df25bc9bcace46ed7a sha1 95724438bc143ac65ca347f41e4bae8e1c05f33a )
+	rom ( name "2!Magic Disk 64 91-10 (1991)(-)(de)(Side B).z64" size 42682 crc 97328dde md5 572a6a58abb3b5bc4b69a0dc69ca4e80 sha1 80e2d486a2b1e281434c8fd214a6e00a81eefc5f )
+	rom ( name "3!Magic Disk 64 91-10 (1991)(-)(de)(Side B).z64" size 27886 crc 02158f9d md5 8cd8587f7abdea32068ecfc95f3ba11a sha1 69d01b3239a021a73b5560daec72252aef082bc2 )
+	rom ( name "4!Magic Disk 64 91-10 (1991)(-)(de)(Side B).z64" size 35145 crc b7804e12 md5 11d027c33475e747df200db0057bedb0 sha1 1d2d470c43112f40c4efa68ba54e830947d4b5ea )
+)
+
+game (
+	name "Magic Disk 64 91-11 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-11 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-11 (1991)(-)(de)(Side A).z64" size 42838 crc a1580f7e md5 0e963542dd778e361c3a081a6ea71c0b sha1 3ad0a8eea0d9c173a49c7b434779f38e532153c5 )
+	rom ( name "2!Magic Disk 64 91-11 (1991)(-)(de)(Side A).z64" size 43346 crc 354e053e md5 c86d9303d9bc17b2398ddc2ff4ad5387 sha1 69a7fa4ef0f74b049f449663ae67ce7a83451907 )
+	rom ( name "3!Magic Disk 64 91-11 (1991)(-)(de)(Side A).z64" size 43277 crc ba7fb612 md5 0c9b01e178eee05f92763752585ce093 sha1 9816609bfe0580d98f789ebd22868f8ebb28b134 )
+	rom ( name "4!Magic Disk 64 91-11 (1991)(-)(de)(Side A).z64" size 45025 crc b10a8291 md5 67dc854bf95ddc655f19803a4eac8850 sha1 cfbf504561a52aaf41f68da470b18858c966b0d9 )
+)
+
+game (
+	name "Magic Disk 64 91-11 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-11 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-11 (1991)(-)(de)(Side B).z64" size 39598 crc 2767a639 md5 b2c995a035f4cab746d0e0e063114309 sha1 91f3861115991c16727bf85cf195befe905c752c )
+	rom ( name "2!Magic Disk 64 91-11 (1991)(-)(de)(Side B).z64" size 43096 crc 1d4361cf md5 8905cf1351919f68ef62a9c6e83f3b40 sha1 5075353aefe04314f335b2009f7e0d6298affbb8 )
+	rom ( name "3!Magic Disk 64 91-11 (1991)(-)(de)(Side B).z64" size 38190 crc 056b8ca6 md5 52e0dbaa5bcbea384fe4c219e2857816 sha1 4df03812f6e4d83b8fe0be4039e76bb2302ef703 )
+	rom ( name "4!Magic Disk 64 91-11 (1991)(-)(de)(Side B).z64" size 45102 crc 03a4e390 md5 9aa51eb0146885bd359bb86113be5c6c sha1 f25db3e9d284ba647e2688513ba11de50af3fce8 )
+)
+
+game (
+	name "Magic Disk 64 91-12 (1991)(-)(de)(Side A)"
+	description "Magic Disk 64 91-12 (1991)(-)(de)(Side A)"
+	rom ( name "1!Magic Disk 64 91-12 (1991)(-)(de)(Side A).z64" size 43348 crc c32d024f md5 bb82557951b35d1ae3133e8f44307ebf sha1 cbfe8150c0693fd5cb123b6a1dfd30b4dcf9c658 )
+	rom ( name "2!Magic Disk 64 91-12 (1991)(-)(de)(Side A).z64" size 43346 crc 39514f9f md5 5c7d62e255c6fa637227e23a69011eb8 sha1 415e9993e7b8430cc780cab1ee6f8335ff00c50a )
+	rom ( name "3!Magic Disk 64 91-12 (1991)(-)(de)(Side A).z64" size 40767 crc f72eb921 md5 6c783c7aa024b3fb6efb434ef7cd2752 sha1 06c55237353b0f053459aee8ea440a526bfd2645 )
+	rom ( name "4!Magic Disk 64 91-12 (1991)(-)(de)(Side A).z64" size 34018 crc 6065ad1e md5 2f22e492d2f8c371ec71da1a064a53b0 sha1 cbbf7c16142e1f5f9b2df39f717aaa49e8e1f173 )
+)
+
+game (
+	name "Magic Disk 64 91-12 (1991)(-)(de)(Side B)"
+	description "Magic Disk 64 91-12 (1991)(-)(de)(Side B)"
+	rom ( name "1!Magic Disk 64 91-12 (1991)(-)(de)(Side B).z64" size 20485 crc 4057272a md5 8970dd6c19b3dfd9f0a14ecaca96370c sha1 2a50d62bbeefef3ffbb96b30bda132d1813c50dc )
+	rom ( name "2!Magic Disk 64 91-12 (1991)(-)(de)(Side B).z64" size 26811 crc f6751280 md5 a3785cd74232db774253495813c00039 sha1 eed5b2438937f43b5dc3073f6ac524db4c7a7b41 )
+	rom ( name "3!Magic Disk 64 91-12 (1991)(-)(de)(Side B).z64" size 27171 crc 42a9019c md5 157efcc4c1b318fb1782f72e860bd56f sha1 3ed26da167c37e75108df9b3139ed8a38752d558 )
+	rom ( name "4!Magic Disk 64 91-12 (1991)(-)(de)(Side B).z64" size 25137 crc 12db82ef md5 ab24dbbc4ec8e7dedd7639be7d496a42 sha1 e588cbde1aeea860c77f2059dbca1081d6dbf2f6 )
+)
+
+game (
+	name "Rockford Magazine 018 (19xx)(-)(de)(Side A)"
+	description "Rockford Magazine 018 (19xx)(-)(de)(Side A)"
+	rom ( name "1!Rockford Magazine 018 (19xx)(-)(de)(Side A).z64" size 42626 crc 9c1b2c00 md5 d3c83ee94c88c96fe0307753427d8f41 sha1 25af55a51bd61c07f7cf33410fc8e2d13ad8119b )
+	rom ( name "2!Rockford Magazine 018 (19xx)(-)(de)(Side A).z64" size 19191 crc 8a385171 md5 15f43e57403a5a17bd8493cada8e3c79 sha1 5a082554bcb81873a99231914d19865571310c82 )
+	rom ( name "3!Rockford Magazine 018 (19xx)(-)(de)(Side A).z64" size 29448 crc b5805d2d md5 c9f170f0a754a32b5eddf472739c8164 sha1 f64cad64a15f39476571313332d8324bc34f3c52 )
+	rom ( name "4!Rockford Magazine 018 (19xx)(-)(de)(Side A).z64" size 27507 crc fc8a2bf1 md5 b13c788cebc319cb71559f1fbceb2b4f sha1 c4078950c07b8e8dec9090a454597dd9fe1b8fde )
+)
+
+game (
+	name "Rockford Magazine 020 (19xx)(-)(de)(Side A)"
+	description "Rockford Magazine 020 (19xx)(-)(de)(Side A)"
+	rom ( name "1!Rockford Magazine 020 (19xx)(-)(de)(Side A).z64" size 42889 crc 7e4502ac md5 5f6f37009d4c8c566d3aef6e7613c299 sha1 4afa4fa83b473064d764d1efda6dabe7118c359e )
+	rom ( name "2!Rockford Magazine 020 (19xx)(-)(de)(Side A).z64" size 40511 crc 6707b270 md5 cd122266652f1eee2af9858a43150351 sha1 298d19b86322644a1f091ee706db184611da06b3 )
+	rom ( name "3!Rockford Magazine 020 (19xx)(-)(de)(Side A).z64" size 31701 crc eb5158b9 md5 60aa36616c727efc5d035b76e26c0f63 sha1 d4c9a93abebd0ead29a11e48126f72f00f9fe40d )
+	rom ( name "4!Rockford Magazine 020 (19xx)(-)(de)(Side A).z64" size 44085 crc a33b1096 md5 8f87db93aeeb2e5a224ab35f4e9aa268 sha1 b1aeba5bb30195dbe9cd747ec873888f3418153b )
+)
+

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "RCA Studio II - Firmware"
+	description "RCA Studio II - Firmware (TOSEC-v2006-04-20)"
+	category "RCA Studio II - Firmware"
+	version 2006-04-20
+	author "Cid"
+)
+
+game (
+	name "RCA Studio II BIOS (1976)(RCA)"
+	description "RCA Studio II BIOS (1976)(RCA)"
+	rom ( name "RCA Studio II BIOS (1976)(RCA).bin" size 2048 crc a494b339 md5 b37205bf19b197682f00619d05da194b )
+)

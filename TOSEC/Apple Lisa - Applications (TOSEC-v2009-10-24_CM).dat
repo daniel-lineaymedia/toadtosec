@@ -1,0 +1,187 @@
+clrmamepro (
+	name "Apple Lisa - Applications"
+	description "Apple Lisa - Applications (TOSEC-v2009-10-24)"
+	category "Apple Lisa - Applications"
+	version 2009-10-24
+	author "Grendel"
+)
+
+game (
+	name "Lisa Office System (1984)(Apple)(Disk 1 of 5)"
+	description "Lisa Office System (1984)(Apple)(Disk 1 of 5)"
+	rom ( name "Lisa Office System (1984)(Apple)(Disk 1 of 5).image" size 419284 crc 86942a3c md5 172ec54a28b65792614aa61dfbf0ed9e )
+)
+
+game (
+	name "Lisa Office System (1984)(Apple)(Disk 2 of 5)"
+	description "Lisa Office System (1984)(Apple)(Disk 2 of 5)"
+	rom ( name "Lisa Office System (1984)(Apple)(Disk 2 of 5).image" size 419284 crc 842e1a13 md5 33e8f001ea95e16e51ce74d17aa63131 )
+)
+
+game (
+	name "Lisa Office System (1984)(Apple)(Disk 3 of 5)"
+	description "Lisa Office System (1984)(Apple)(Disk 3 of 5)"
+	rom ( name "Lisa Office System (1984)(Apple)(Disk 3 of 5).image" size 419284 crc ad85fa60 md5 53a52a4cd78c46a9341c5a0615c56911 )
+)
+
+game (
+	name "Lisa Office System (1984)(Apple)(Disk 4 of 5)"
+	description "Lisa Office System (1984)(Apple)(Disk 4 of 5)"
+	rom ( name "Lisa Office System (1984)(Apple)(Disk 4 of 5).image" size 419284 crc b0f082d3 md5 ee5ead7169a898dd128985aaf413eb89 )
+)
+
+game (
+	name "Lisa Office System (1984)(Apple)(Disk 5 of 5)"
+	description "Lisa Office System (1984)(Apple)(Disk 5 of 5)"
+	rom ( name "Lisa Office System (1984)(Apple)(Disk 5 of 5).image" size 419284 crc 3adcff78 md5 58021958ece0f33c65cc44881b9000a4 )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 1 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 1 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 1 of 9).image" size 419284 crc 303d4863 md5 43417d4f3f31e8bff059f46250d8fd81 )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 2 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 2 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 2 of 9).image" size 419284 crc 5f781ef1 md5 61e810b0f3f13926d249968cc55c8fc8 )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 3 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 3 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 3 of 9).image" size 419284 crc c3eea30d md5 9ea9f9a3040d07d5415d19119d8f4fee )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 4 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 4 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 4 of 9).image" size 419284 crc 79e44adb md5 063c30181e5368c0d4bec6b8ba3c743c )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 5 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 5 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 5 of 9).image" size 419284 crc 2d1ee31d md5 6c3973608e21725b5ad3eaa277ea4d36 )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 6 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 6 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 6 of 9).image" size 419284 crc b3695774 md5 f9b0858fd276139e0b9abd13de49b39b )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 7 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 7 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 7 of 9).image" size 419284 crc 172c5874 md5 5874216d35f0505b2918bebfd3e81c30 )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 8 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 8 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 8 of 9).image" size 419284 crc bc01ba32 md5 2d8ae0f8833706b1b31d6d118894e39b )
+)
+
+game (
+	name "Lisa WorkShop (1984)(Apple)(Disk 9 of 9)"
+	description "Lisa WorkShop (1984)(Apple)(Disk 9 of 9)"
+	rom ( name "Lisa WorkShop (1984)(Apple)(Disk 9 of 9).image" size 419284 crc 5e8662da md5 c8cdfc3b7aaef0417a19ce60539a95b9 )
+)
+
+game (
+	name "LisaCalc (1984)(Apple)"
+	description "LisaCalc (1984)(Apple)"
+	rom ( name "LisaCalc (1984)(Apple).image" size 419284 crc a4bb179e md5 b4d0e021bf9eb9920e5a7055e9e22e7c )
+)
+
+game (
+	name "LisaDraw (1984)(Apple)"
+	description "LisaDraw (1984)(Apple)"
+	rom ( name "LisaDraw (1984)(Apple).image" size 419284 crc 299147e9 md5 89040f410a4e0c6cacc134507f964dd4 )
+)
+
+game (
+	name "LisaGraph (1984)(Apple)"
+	description "LisaGraph (1984)(Apple)"
+	rom ( name "LisaGraph (1984)(Apple).image" size 419284 crc e5c4bbce md5 a434aa8b99aa103fa0e507fdabbb6e3d )
+)
+
+game (
+	name "LisaGuide (1984)(Apple)"
+	description "LisaGuide (1984)(Apple)"
+	rom ( name "LisaGuide (1984)(Apple).image" size 419284 crc cb97c4a3 md5 fdfece70bf9cd3d3b0cd5856fa3a3285 )
+)
+
+game (
+	name "LisaList (1984)(Apple)"
+	description "LisaList (1984)(Apple)"
+	rom ( name "LisaList (1984)(Apple).image" size 419284 crc 53e861b0 md5 dfe005f1f2c40941eed0176a2d0c1e25 )
+)
+
+game (
+	name "LisaOffice (1984)(Apple)(Disk 1 of 5)"
+	description "LisaOffice (1984)(Apple)(Disk 1 of 5)"
+	rom ( name "LisaOffice (1984)(Apple)(Disk 1 of 5).image" size 419284 crc 8ad3dc87 md5 b0efcfc0e58b6c4db7b90a9838f16106 )
+)
+
+game (
+	name "LisaOffice (1984)(Apple)(Disk 2 of 5)"
+	description "LisaOffice (1984)(Apple)(Disk 2 of 5)"
+	rom ( name "LisaOffice (1984)(Apple)(Disk 2 of 5).image" size 419284 crc 1cd0ba39 md5 ea1e84dfb2d48d40fa17495720122f2e )
+)
+
+game (
+	name "LisaOffice (1984)(Apple)(Disk 3 of 5)"
+	description "LisaOffice (1984)(Apple)(Disk 3 of 5)"
+	rom ( name "LisaOffice (1984)(Apple)(Disk 3 of 5).image" size 419284 crc 2586b54d md5 3a940926ed8792f94e1d7e2be35f6d30 )
+)
+
+game (
+	name "LisaOffice (1984)(Apple)(Disk 4 of 5)"
+	description "LisaOffice (1984)(Apple)(Disk 4 of 5)"
+	rom ( name "LisaOffice (1984)(Apple)(Disk 4 of 5).image" size 419284 crc 1a32eeee md5 77ec462379095347007e143477193bf2 )
+)
+
+game (
+	name "LisaOffice (1984)(Apple)(Disk 5 of 5)"
+	description "LisaOffice (1984)(Apple)(Disk 5 of 5)"
+	rom ( name "LisaOffice (1984)(Apple)(Disk 5 of 5).image" size 419284 crc 9b60c010 md5 e69a7db51f57cd2805dbfb2244c870a5 )
+)
+
+game (
+	name "LisaProject (1984)(Apple)"
+	description "LisaProject (1984)(Apple)"
+	rom ( name "LisaProject (1984)(Apple).image" size 419284 crc ab065b7d md5 2613c4a7a9e15c5cb4eac2d77d2d845e )
+)
+
+game (
+	name "LisaTerminal (1984)(Apple)"
+	description "LisaTerminal (1984)(Apple)"
+	rom ( name "LisaTerminal (1984)(Apple).image" size 419284 crc e6239450 md5 885fde1c0da818ffb7efbb39f281d4c9 )
+)
+
+game (
+	name "LisaTest (1984)(Apple)(Disk 1 of 2)"
+	description "LisaTest (1984)(Apple)(Disk 1 of 2)"
+	rom ( name "LisaTest (1984)(Apple)(Disk 1 of 2).image" size 419284 crc d8e1cf3a md5 8e95ae0b0438f63a9f97c8dbe75ec457 )
+)
+
+game (
+	name "LisaTest (1984)(Apple)(Disk 2 of 2)"
+	description "LisaTest (1984)(Apple)(Disk 2 of 2)"
+	rom ( name "LisaTest (1984)(Apple)(Disk 2 of 2).image" size 419284 crc 197255c4 md5 da757fe3f452d716d3fd274f3591d7db )
+)
+
+game (
+	name "LisaWrite (1984)(Apple)(Disk 1 of 2)"
+	description "LisaWrite (1984)(Apple)(Disk 1 of 2)"
+	rom ( name "LisaWrite (1984)(Apple)(Disk 1 of 2).image" size 419284 crc 8288aa21 md5 c30bbc0d5dbdf99100d3801f67ac9aa5 )
+)
+
+game (
+	name "LisaWrite (1984)(Apple)(Disk 2 of 2)"
+	description "LisaWrite (1984)(Apple)(Disk 2 of 2)"
+	rom ( name "LisaWrite (1984)(Apple)(Disk 2 of 2).image" size 419284 crc 2814fa31 md5 e5a580f3e25fbbdd0534f10a112cb58a )
+)

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "NEC PC-6001 - Demos"
+	description "NEC PC-6001 - Demos (TOSEC-v2005-09-12)"
+	category "NEC PC-6001 - Demos"
+	version 2005-09-12
+	author "Cassiel"
+)
+
+game (
+	name "Ax7 Demo (19xx)(-)[Mode 1, Page 1]"
+	description "Ax7 Demo (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Ax7 Demo (19xx)(-)[Mode 1, Page 1].cas" size 12017 crc 8f8bec1b md5 7eb2818d5fcd4110591adedbd2b5132f )
+)
+
+game (
+	name "Ax9 Demo (19xx)(-)[Mode 2, Page 2]"
+	description "Ax9 Demo (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Ax9 Demo (19xx)(-)[Mode 2, Page 2].cas" size 23001 crc 116056a3 md5 b5897e783027214415e51a417b4e834f )
+)
+
+game (
+	name "Demo (19xx)(-)[Mode 1, Page 1]"
+	description "Demo (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Demo (19xx)(-)[Mode 1, Page 1].cas" size 13510 crc 5a7a7321 md5 26076722960865735dadd855afbfbc0e )
+)

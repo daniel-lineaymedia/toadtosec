@@ -1,0 +1,38 @@
+clrmamepro (
+	name "SABA Videoplay - Games"
+	description "SABA Videoplay - Games (TOSEC-v2009-09-26)"
+	category "SABA Videoplay - Games"
+	version 2009-09-26
+	author "Cid - Cassiel"
+)
+
+game (
+	name "Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE)"
+	description "Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE)"
+	rom ( name "Muehle + Tontauben-Schiessen + Kreatives Malspiel + Videoscope (197x)(SABA)(DE).bin" size 2048 crc 7124dc59 md5 1fbd86dcca0e4619963b902c48ae77f2 )
+)
+
+game (
+	name "Rat' mal (1978)(SABA)(DE)"
+	description "Rat' mal (1978)(SABA)(DE)"
+	rom ( name "Rat' mal (1978)(SABA)(DE).bin" size 3072 crc 87752425 md5 913ecbaa30816c6d78de8651251761fc )
+)
+
+game (
+	name "Schach (1979)(SABA)(DE)"
+	description "Schach (1979)(SABA)(DE)"
+	rom ( name "Schach (1979)(SABA)(DE).bin" size 6144 crc 04fb6dce md5 5568205f926333914dedc8ef8bf16af2 )
+)
+
+game (
+	name "Schach (1979)(SABA)(DE)[b2]"
+	description "Schach (1979)(SABA)(DE)[b2]"
+	rom ( name "Schach (1979)(SABA)(DE)[b2].bin" size 2048 crc 22ff6036 md5 7b227de474806a8ab9474c4716a270b7 )
+)
+
+game (
+	name "Schach (1979)(SABA)(DE)[b]"
+	description "Schach (1979)(SABA)(DE)[b]"
+	rom ( name "Schach (1979)(SABA)(DE)[b].bin" size 2048 crc 917515e6 md5 7385e596bf2a58e2186439ac1e49c075 )
+)
+

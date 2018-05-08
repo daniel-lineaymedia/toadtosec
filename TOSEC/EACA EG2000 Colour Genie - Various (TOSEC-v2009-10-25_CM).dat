@@ -1,0 +1,739 @@
+clrmamepro (
+	name "EACA EG2000 Colour Genie - Various"
+	description "EACA EG2000 Colour Genie - Various (TOSEC-v2009-10-25)"
+	category "EACA EG2000 Colour Genie - Various"
+	version 2009-10-25
+	author "|cy[ool - Grendel"
+)
+
+game (
+	name "Abenteuerland (19xx)(-)(de)"
+	description "Abenteuerland (19xx)(-)(de)"
+	rom ( name "Abenteuerland (19xx)(-)(de).cas" size 9205 crc 321710b8 md5 1a688478ef837ce2267408e51c5c349f )
+)
+
+game (
+	name "Adressdatei II (19xx)(Alex D.)(de)"
+	description "Adressdatei II (19xx)(Alex D.)(de)"
+	rom ( name "Adressdatei II (19xx)(Alex D.)(de).cas" size 10858 crc 917a2513 md5 b926c6fa807e37e8c88b58e7dc43506f )
+)
+
+game (
+	name "Adressen Verwaltung (19xx)(-)(de)"
+	description "Adressen Verwaltung (19xx)(-)(de)"
+	rom ( name "Adressen Verwaltung (19xx)(-)(de).cas" size 11598 crc ee642294 md5 6602fd994fce19d7ab7d7cf774742734 )
+)
+
+game (
+	name "Africa (1989)(Schneider, Marcus)(de)"
+	description "Africa (1989)(Schneider, Marcus)(de)"
+	rom ( name "Africa (1989)(Schneider, Marcus)(de).cas" size 6949 crc 355dd131 md5 64baa4d4f6d08cdf5eaf326a2f35bd47 )
+)
+
+game (
+	name "Andromeda (1982)(Buchmueller, Juergen)(de)"
+	description "Andromeda (1982)(Buchmueller, Juergen)(de)"
+	rom ( name "Andromeda (1982)(Buchmueller, Juergen)(de).cas" size 12544 crc cb10616e md5 9ae00fce385b0baf436bc27202a6a1e9 )
+)
+
+game (
+	name "Andromeda (1982)(Buchmueller, Juergen)(de)[a]"
+	description "Andromeda (1982)(Buchmueller, Juergen)(de)[a]"
+	rom ( name "Andromeda (1982)(Buchmueller, Juergen)(de)[a].cas" size 14938 crc be51a28c md5 e4f39b35449508230037cedbcf0a4141 )
+)
+
+game (
+	name "Astronaut (1984)(Taylor, N. A.)"
+	description "Astronaut (1984)(Taylor, N. A.)"
+	rom ( name "Astronaut (1984)(Taylor, N. A.).cas" size 9100 crc 7e57ada8 md5 62a5519c4a73e542c76c51b77fb6df84 )
+)
+
+game (
+	name "BASIC Packer v2.13 (1983)(TCS)"
+	description "BASIC Packer v2.13 (1983)(TCS)"
+	rom ( name "BASIC Packer v2.13 (1983)(TCS).cas" size 4448 crc b1074e77 md5 73babcc9e71bf6c81ad1f144cd2475de )
+)
+
+game (
+	name "Backgammon (1983)(JD Tronics)"
+	description "Backgammon (1983)(JD Tronics)"
+	rom ( name "Backgammon (1983)(JD Tronics).cas" size 9344 crc 3520e3d0 md5 6ddd9c6d40f5543a96981c06e0cbefd1 )
+)
+
+game (
+	name "BasiCode (1983)(TCS)"
+	description "BasiCode (1983)(TCS)"
+	rom ( name "BasiCode (1983)(TCS).cas" size 2199 crc 9da86441 md5 661dc65bc8909bd779e22cde55d1bf3c )
+)
+
+game (
+	name "Benchmark Test (19xx)(-)"
+	description "Benchmark Test (19xx)(-)"
+	rom ( name "Benchmark Test (19xx)(-).cas" size 35 crc 0f490f94 md5 903b505b95ed06d7e11663c18c494dd8 )
+)
+
+game (
+	name "Blues Maker (19xx)(-)"
+	description "Blues Maker (19xx)(-)"
+	rom ( name "Blues Maker (19xx)(-).cas" size 948 crc 4a7855e2 md5 f97ca614c8269963582e92983a1eaaa6 )
+)
+
+game (
+	name "Bumm Bumm (19xx)(-)(de)"
+	description "Bumm Bumm (19xx)(-)(de)"
+	rom ( name "Bumm Bumm (19xx)(-)(de).cas" size 3913 crc f94afe05 md5 f826d529aeab15b89381c678047cc06e )
+)
+
+game (
+	name "CIA Agent (1985)(Schaffarzik, Sven)(de)"
+	description "CIA Agent (1985)(Schaffarzik, Sven)(de)"
+	rom ( name "CIA Agent (1985)(Schaffarzik, Sven)(de).cas" size 16447 crc 9aca41aa md5 004e9c825e7c7c16942158dc81af1511 )
+)
+
+game (
+	name "Chemie 1 (1981)(-)(de)"
+	description "Chemie 1 (1981)(-)(de)"
+	rom ( name "Chemie 1 (1981)(-)(de).cas" size 4839 crc d478a0bd md5 0c73371c05b30f207cdcf2461348ff81 )
+)
+
+game (
+	name "Chemie 2 (1981)(-)(de)"
+	description "Chemie 2 (1981)(-)(de)"
+	rom ( name "Chemie 2 (1981)(-)(de).cas" size 3516 crc 9d90dddc md5 288c52bfc10ca7274e8f2d2ea4f50c95 )
+)
+
+game (
+	name "Chemie 4 (1981)(-)(de)"
+	description "Chemie 4 (1981)(-)(de)"
+	rom ( name "Chemie 4 (1981)(-)(de).cas" size 3581 crc ab3e1133 md5 3ee00ee84ef4619e1d02c49e8b13766f )
+)
+
+game (
+	name "Chopper (1983)(Buchmueller, Juergen)[Req 16k]"
+	description "Chopper (1983)(Buchmueller, Juergen)[Req 16k]"
+	rom ( name "Chopper (1983)(Buchmueller, Juergen)[Req 16k].cas" size 12034 crc 190a67fb md5 e0cfd60f4f12cdc4e016310ad09eb401 )
+)
+
+game (
+	name "Chopper (19xx)(-)[Req 32k]"
+	description "Chopper (19xx)(-)[Req 32k]"
+	rom ( name "Chopper (19xx)(-)[Req 32k].cas" size 27969 crc 5e13a90b md5 f6aa34cbca83e416d509d7559914a37b )
+)
+
+game (
+	name "Colour BASIC Compiler v3.05 (1982)(TCS)(de)"
+	description "Colour BASIC Compiler v3.05 (1982)(TCS)(de)"
+	rom ( name "Colour BASIC Compiler v3.05 (1982)(TCS)(de).cas" size 15340 crc 2628fe32 md5 87a5874c0ee54a410094fc6c7f61ad6b )
+)
+
+game (
+	name "Colour BASIC Plus (1983)(TCS)"
+	description "Colour BASIC Plus (1983)(TCS)"
+	rom ( name "Colour BASIC Plus (1983)(TCS).cas" size 5250 crc 870865de md5 f035800258805684e76f512886a2aebb )
+)
+
+game (
+	name "Colour DOS Interface (1997)(Buchmueller, Juergen)"
+	description "Colour DOS Interface (1997)(Buchmueller, Juergen)"
+	rom ( name "Colour DOS Interface (1997)(Buchmueller, Juergen).cas" size 2889 crc 4a8578a2 md5 258e5325d6d8efe50a6d7cc2ef42072f )
+)
+
+game (
+	name "Colour Datei (19xx)(Fischer, Jan)(de)"
+	description "Colour Datei (19xx)(Fischer, Jan)(de)"
+	rom ( name "Colour Datei (19xx)(Fischer, Jan)(de).cas" size 7470 crc 021d8dae md5 97a87d42909d7bc465b4d3ef1433f243 )
+)
+
+game (
+	name "Colour Design v3.0 (19xx)(-)"
+	description "Colour Design v3.0 (19xx)(-)"
+	rom ( name "Colour Design v3.0 (19xx)(-).cas" size 849 crc 3cade933 md5 e345d4ef7e1d50d3df9fe29cccb2c49c )
+)
+
+game (
+	name "Colour FORTH v2.0 (1983)(TCS)"
+	description "Colour FORTH v2.0 (1983)(TCS)"
+	rom ( name "Colour FORTH v2.0 (1983)(TCS).cas" size 13132 crc a2f51fc0 md5 48ee175fee3f7eac9484a29d23fdc2a4 )
+)
+
+game (
+	name "Colour FORTH v2.0 (1983)(TCS)[a]"
+	description "Colour FORTH v2.0 (1983)(TCS)[a]"
+	rom ( name "Colour FORTH v2.0 (1983)(TCS)[a].cas" size 7246 crc 628cc3ce md5 71d87c72476cb5c589537c8c751613c7 )
+)
+
+game (
+	name "Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de)"
+	description "Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de)"
+	rom ( name "Colour Genie Demonstration (19xx)(Schmidt, Carsten)(de).cas" size 9002 crc 791aedf8 md5 bd6a63d2f7909f2456e760a51c7fb808 )
+)
+
+game (
+	name "Colour Genie Demonstration 2 (19xx)(-)"
+	description "Colour Genie Demonstration 2 (19xx)(-)"
+	rom ( name "Colour Genie Demonstration 2 (19xx)(-).cas" size 8932 crc 57acc541 md5 7fb6cb8237f74f9bb62932cc66d93053 )
+)
+
+game (
+	name "Colour Kong (1983)(TCS)[Req 16k]"
+	description "Colour Kong (1983)(TCS)[Req 16k]"
+	rom ( name "Colour Kong (1983)(TCS)[Req 16k].cas" size 8731 crc f6ae6158 md5 910a3734ad2b767f991a8483ba06b3c3 )
+)
+
+game (
+	name "Colour Kong (1983)(TCS)[Req 32k]"
+	description "Colour Kong (1983)(TCS)[Req 32k]"
+	rom ( name "Colour Kong (1983)(TCS)[Req 32k].cas" size 12335 crc 83fba82e md5 778592a9ec8718000f55709b0882219f )
+)
+
+game (
+	name "Colour Kong (1983)(TCS)[a][Req 16k]"
+	description "Colour Kong (1983)(TCS)[a][Req 16k]"
+	rom ( name "Colour Kong (1983)(TCS)[a][Req 16k].cas" size 8742 crc 111deb80 md5 e1bdc7906fdadfea793e366c0e87cb4f )
+)
+
+game (
+	name "Colour Kopier (19xx)(-)"
+	description "Colour Kopier (19xx)(-)"
+	rom ( name "Colour Kopier (19xx)(-).cas" size 3660 crc d2ee13b0 md5 a4554aae9bf989147f5bcec46a02cf88 )
+)
+
+game (
+	name "Colour Monitor v2.0 (19xx)(-)"
+	description "Colour Monitor v2.0 (19xx)(-)"
+	rom ( name "Colour Monitor v2.0 (19xx)(-).cas" size 4192 crc ae8b9163 md5 9f5270f7c8ad76801fc52269ba474871 )
+)
+
+game (
+	name "Colour Monitor v2.0 (19xx)(-)[a]"
+	description "Colour Monitor v2.0 (19xx)(-)[a]"
+	rom ( name "Colour Monitor v2.0 (19xx)(-)[a].cas" size 4195 crc 8c96504c md5 ce5c3668b45fd0f29d8e2abc1763fe6f )
+)
+
+game (
+	name "Colour Monitor v3.0 (1983)(TCS)"
+	description "Colour Monitor v3.0 (1983)(TCS)"
+	rom ( name "Colour Monitor v3.0 (1983)(TCS).cas" size 15091 crc 51f27191 md5 5de2dd835dc33a0e50386fbbdd612343 )
+)
+
+game (
+	name "Colour Office Tape-Disk Converter v1.11 (19xx)(-)"
+	description "Colour Office Tape-Disk Converter v1.11 (19xx)(-)"
+	rom ( name "Colour Office Tape-Disk Converter v1.11 (19xx)(-).cas" size 1452 crc 88fdad97 md5 a0a925f19977eaa60938b7e177ea9a45 )
+)
+
+game (
+	name "Colour Pascal v2.0 (19xx)(-)"
+	description "Colour Pascal v2.0 (19xx)(-)"
+	rom ( name "Colour Pascal v2.0 (19xx)(-).cas" size 11896 crc 463af74d md5 c04f696924ce8e45df43abccfe0f7a82 )
+)
+
+game (
+	name "Colour ROT (1983)(TCS)(de)"
+	description "Colour ROT (1983)(TCS)(de)"
+	rom ( name "Colour ROT (1983)(TCS)(de).cas" size 12132 crc d95dc066 md5 8dd502fe34048d3f6f5f3a0d9ca6c8e7 )
+)
+
+game (
+	name "Colour Schach (1983)(-)(de)"
+	description "Colour Schach (1983)(-)(de)"
+	rom ( name "Colour Schach (1983)(-)(de).cas" size 10161 crc b21c8982 md5 04bcdcc9245c0202ebfdf3aa9c4b51f5 )
+)
+
+game (
+	name "Colour Schach (1983)(TCS)(de)"
+	description "Colour Schach (1983)(TCS)(de)"
+	rom ( name "Colour Schach (1983)(TCS)(de).cas" size 11127 crc 997f5271 md5 47bbd907ded37845ca372d9dec363c58 )
+)
+
+game (
+	name "Colour Tune v2.1 (1984)(Baedker, K.)"
+	description "Colour Tune v2.1 (1984)(Baedker, K.)"
+	rom ( name "Colour Tune v2.1 (1984)(Baedker, K.).cas" size 10979 crc 741e6dfd md5 a7535c690a4d977403bc2f7f44debafa )
+)
+
+game (
+	name "Cosmic Attack (19xx)(Kansas Software)"
+	description "Cosmic Attack (19xx)(Kansas Software)"
+	rom ( name "Cosmic Attack (19xx)(Kansas Software).cas" size 9775 crc a0231790 md5 87628936e343ddff035b05bbf9841f38 )
+)
+
+game (
+	name "Crazy Paint (19xx)(-)"
+	description "Crazy Paint (19xx)(-)"
+	rom ( name "Crazy Paint (19xx)(-).cas" size 13654 crc 75202477 md5 83320f1a34716bcdba207ad6163a1a2f )
+)
+
+game (
+	name "Definierbare Zeichen Editor (1983)(TCS)"
+	description "Definierbare Zeichen Editor (1983)(TCS)"
+	rom ( name "Definierbare Zeichen Editor (1983)(TCS).cas" size 11131 crc a21e5f61 md5 6ea77c136951ad4a920d571a07006bec )
+)
+
+game (
+	name "Definierbare Zeichen Editor (1983)(TCS)[a]"
+	description "Definierbare Zeichen Editor (1983)(TCS)[a]"
+	rom ( name "Definierbare Zeichen Editor (1983)(TCS)[a].cas" size 9233 crc dff8308e md5 e92e2c2265da4f0f2b256e85cb7bb730 )
+)
+
+game (
+	name "Definierbare Zeichen Editor (19xx)(-)(de)"
+	description "Definierbare Zeichen Editor (19xx)(-)(de)"
+	rom ( name "Definierbare Zeichen Editor (19xx)(-)(de).cas" size 7441 crc d675af8f md5 27606b1681375bad295d227f9337f306 )
+)
+
+game (
+	name "Definierbare Zeichen Editor (19xx)(-)(de)[a]"
+	description "Definierbare Zeichen Editor (19xx)(-)(de)[a]"
+	rom ( name "Definierbare Zeichen Editor (19xx)(-)(de)[a].cas" size 6852 crc 6e658740 md5 848465c16b2384f20c7ea1717fc22543 )
+)
+
+game (
+	name "Deine Aufgabe (1985)(Schaffarzik, Sven)(de)"
+	description "Deine Aufgabe (1985)(Schaffarzik, Sven)(de)"
+	rom ( name "Deine Aufgabe (1985)(Schaffarzik, Sven)(de).cas" size 11130 crc 46431856 md5 4f8dc11f51aaa4507441bc8ebc746c1b )
+)
+
+game (
+	name "Dezimal-Hexadezimal Umwandlung (19xx)(-)(de)"
+	description "Dezimal-Hexadezimal Umwandlung (19xx)(-)(de)"
+	rom ( name "Dezimal-Hexadezimal Umwandlung (19xx)(-)(de).cas" size 694 crc 419b9810 md5 dcd57e1c6493778ae06138b6d3f3237d )
+)
+
+game (
+	name "Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de)"
+	description "Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de)"
+	rom ( name "Berliner uhr, Die (19xx)(Toelke, Wilhelm)(de).cas" size 6451 crc 382907d8 md5 44d6ac9671720c0d80320fa55c47b97b )
+)
+
+game (
+	name "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2)"
+	description "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2)"
+	rom ( name "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 1 of 2).cas" size 3364 crc 91699102 md5 7d8eb136609fc70f9a10b9ee1f92d9fe )
+)
+
+game (
+	name "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2)"
+	description "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2)"
+	rom ( name "Juwelen des Grafen Dracula, Die (19xx)(Schneider, Marcus)(de)(Part 2 of 2).cas" size 13386 crc 1b9f9ac7 md5 d4b13c789f95d42068eecf43b3a4d94d )
+)
+
+game (
+	name "Physik des Transistors, Die (19xx)(-)(de)"
+	description "Physik des Transistors, Die (19xx)(-)(de)"
+	rom ( name "Physik des Transistors, Die (19xx)(-)(de).cas" size 17657 crc b56cc12d md5 50adc2fcd76f02f32f27f7f5e624518d )
+)
+
+game (
+	name "Disastrous Villa (1985)(Scholz, Stephan)(de)"
+	description "Disastrous Villa (1985)(Scholz, Stephan)(de)"
+	rom ( name "Disastrous Villa (1985)(Scholz, Stephan)(de).cas" size 18413 crc 1526d46d md5 56b8a93fe39d73b88db2e34a5f24bae0 )
+)
+
+game (
+	name "Eagle (1983)(TCS)(de)"
+	description "Eagle (1983)(TCS)(de)"
+	rom ( name "Eagle (1983)(TCS)(de).cas" size 14910 crc 3453cd15 md5 fbaaa6b6c2ac6de3df372c8fba9c354f )
+)
+
+game (
+	name "Eatman (1983)(Computer Service)"
+	description "Eatman (1983)(Computer Service)"
+	rom ( name "Eatman (1983)(Computer Service).cas" size 4003 crc eaa18750 md5 dccda80d45b41ae7fd6af831dafbf0e0 )
+)
+
+game (
+	name "Egg Protect (1983)(Boegeholz, Harald)(de)[b]"
+	description "Egg Protect (1983)(Boegeholz, Harald)(de)[b]"
+	rom ( name "Egg Protect (1983)(Boegeholz, Harald)(de)[b].cas" size 978 crc 4baa38a3 md5 f514cce96cb9b40f1c8b21cd2ac92600 )
+)
+
+game (
+	name "Eis (1983)(TCS)(de)"
+	description "Eis (1983)(TCS)(de)"
+	rom ( name "Eis (1983)(TCS)(de).cas" size 14908 crc 36ae9438 md5 1729c34c92168239efd6c98b0cf40eab )
+)
+
+game (
+	name "Eliminator (1984)(TCS)"
+	description "Eliminator (1984)(TCS)"
+	rom ( name "Eliminator (1984)(TCS).cas" size 12451 crc e1e5e436 md5 b7e7f0c3ce468b49337a308a6381895c )
+)
+
+game (
+	name "Empire (19xx)(-)(de)"
+	description "Empire (19xx)(-)(de)"
+	rom ( name "Empire (19xx)(-)(de).cas" size 22076 crc 3e1415bf md5 c02d842b56cda27378036a5d7de6f82f )
+)
+
+game (
+	name "FGR (19xx)(-)"
+	description "FGR (19xx)(-)"
+	rom ( name "FGR (19xx)(-).cas" size 17 crc 3a132301 md5 a79a10abe79559509e5031bf78f17881 )
+)
+
+game (
+	name "Firebird (1983)(Binzinger, Thomas M.)(de)"
+	description "Firebird (1983)(Binzinger, Thomas M.)(de)"
+	rom ( name "Firebird (1983)(Binzinger, Thomas M.)(de).cas" size 13899 crc a102563d md5 9b008ace7759b2ab8894233a4334a17c )
+)
+
+game (
+	name "Flugsimulator (19xx)(-)(de)"
+	description "Flugsimulator (19xx)(-)(de)"
+	rom ( name "Flugsimulator (19xx)(-)(de).cas" size 15755 crc 091cc8bd md5 6cb0c5c61cef35189b5ea7d5c57f6126 )
+)
+
+game (
+	name "Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de)"
+	description "Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de)"
+	rom ( name "Glueckspilz (1983)(Gronostay, Udo - Kunze, Klaus)(de).cas" size 14655 crc 92c71078 md5 55bb1527dc0891c767c80084c974d561 )
+)
+
+game (
+	name "Grafik Editor (1983)(Gerber, Udo)(de)"
+	description "Grafik Editor (1983)(Gerber, Udo)(de)"
+	rom ( name "Grafik Editor (1983)(Gerber, Udo)(de).cas" size 41555 crc 7cbf2726 md5 89be835876debc99b0eec3c3745b84d0 )
+)
+
+game (
+	name "Helikopter (1983)(Binzinger, Thomas M.)(de)"
+	description "Helikopter (1983)(Binzinger, Thomas M.)(de)"
+	rom ( name "Helikopter (1983)(Binzinger, Thomas M.)(de).cas" size 18148 crc 5c046ce2 md5 fc56460fb412896a62fab7752362e8bc )
+)
+
+game (
+	name "Horror Castle (19xx)(Scholz, Heiko)"
+	description "Horror Castle (19xx)(Scholz, Heiko)"
+	rom ( name "Horror Castle (19xx)(Scholz, Heiko).cas" size 22199 crc 7f01d3a9 md5 2c125b0efb1e9f7c9145cd94056abeb0 )
+)
+
+game (
+	name "House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de)"
+	description "House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de)"
+	rom ( name "House of Death (1985)(Scholz, Heiko - Scholz, Stephan)(de).cas" size 18218 crc 60b6dc93 md5 823105b402f24b9bc8524b1aeef77be3 )
+)
+
+game (
+	name "Im Reich aer Fraggles (19xx)(-)"
+	description "Im Reich aer Fraggles (19xx)(-)"
+	rom ( name "Im Reich aer Fraggles (19xx)(-).cas" size 12619 crc 4a107aaf md5 84df11eed62d890d06a7869f5fc766c0 )
+)
+
+game (
+	name "Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de)"
+	description "Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de)"
+	rom ( name "Invasion aus dem Weltraum (1982)(Boegeholz, Harald)(de).cas" size 8450 crc 8fd27759 md5 b38ccda2ac73e67ea2fc312b258ac9b6 )
+)
+
+game (
+	name "Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k]"
+	description "Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k]"
+	rom ( name "Jet Set Billy (1984)(Hamilton, R.)(Part 1 of 2)[Req 16k].cas" size 2123 crc 883161e8 md5 600efe7a3b73f2bdf83cd438bc5de957 )
+)
+
+game (
+	name "Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k]"
+	description "Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k]"
+	rom ( name "Jet Set Billy (1984)(Hamilton, R.)(Part 2 of 2)[Req 16k].cas" size 9197 crc 98c7a0da md5 04e68eccd89a85bad3aa5629eec184d3 )
+)
+
+game (
+	name "King (1983)(Buchmueller, Juergen)(de)"
+	description "King (1983)(Buchmueller, Juergen)(de)"
+	rom ( name "King (1983)(Buchmueller, Juergen)(de).cas" size 10864 crc 5c47368d md5 a24c7c627982fb96cabb0ee0ae7423b5 )
+)
+
+game (
+	name "Kniffel (1985)(Drawe, Alexander)(de)"
+	description "Kniffel (1985)(Drawe, Alexander)(de)"
+	rom ( name "Kniffel (1985)(Drawe, Alexander)(de).cas" size 10522 crc 376b6c9d md5 37ca2edb54b6f17b6ec5f26272f5f3aa )
+)
+
+game (
+	name "Las Vegas (19xx)(Stuchlich, Klaus)(de)"
+	description "Las Vegas (19xx)(Stuchlich, Klaus)(de)"
+	rom ( name "Las Vegas (19xx)(Stuchlich, Klaus)(de).cas" size 5578 crc 6df6d464 md5 4db4c1782e62bf77fdf046d0bd94e828 )
+)
+
+game (
+	name "Life (1983)(TCS)(de)"
+	description "Life (1983)(TCS)(de)"
+	rom ( name "Life (1983)(TCS)(de).cas" size 5625 crc 18d97fe6 md5 62866ad54b1a492e18a29242a509cde6 )
+)
+
+game (
+	name "Lineare Gleichungs Syeteme (19xx)(-)(de)"
+	description "Lineare Gleichungs Syeteme (19xx)(-)(de)"
+	rom ( name "Lineare Gleichungs Syeteme (19xx)(-)(de).cas" size 2516 crc 002e74cc md5 c090ac4337b001bdeeccb9eda46fa932 )
+)
+
+game (
+	name "Listing Formatierer (19xx)(-)(de)"
+	description "Listing Formatierer (19xx)(-)(de)"
+	rom ( name "Listing Formatierer (19xx)(-)(de).cas" size 633 crc 7441ec01 md5 68fbecb0f4ce254acb69e35561d3ab2e )
+)
+
+game (
+	name "Lunar Lander (1983)(Weber, Klaus)"
+	description "Lunar Lander (1983)(Weber, Klaus)"
+	rom ( name "Lunar Lander (1983)(Weber, Klaus).cas" size 15493 crc 916ceeb1 md5 1a83118217b01def74f7a91359a85525 )
+)
+
+game (
+	name "Machime Monitor (19xx)(-)"
+	description "Machime Monitor (19xx)(-)"
+	rom ( name "Machime Monitor (19xx)(-).cas" size 3664 crc 72d2610e md5 fd358517fda9e3f48c127853f3ce592f )
+)
+
+game (
+	name "Mampf Man II (1983)(Weber, Klaus)"
+	description "Mampf Man II (1983)(Weber, Klaus)"
+	rom ( name "Mampf Man II (1983)(Weber, Klaus).cas" size 17055 crc e6ffd933 md5 51c7bdf347072857d66e46629a66c278 )
+)
+
+game (
+	name "Marien Kaefer (1984)(Weber, Klaus)"
+	description "Marien Kaefer (1984)(Weber, Klaus)"
+	rom ( name "Marien Kaefer (1984)(Weber, Klaus).cas" size 17118 crc 38422db1 md5 49ccc9095ee34b2c66de5cd33bb0a42f )
+)
+
+game (
+	name "Meteor (1983)(TCS)(de)"
+	description "Meteor (1983)(TCS)(de)"
+	rom ( name "Meteor (1983)(TCS)(de).cas" size 8628 crc 5683a102 md5 ac6313ad5a857036b256fe301efea4ce )
+)
+
+game (
+	name "Monroe (19xx)(-)"
+	description "Monroe (19xx)(-)"
+	rom ( name "Monroe (19xx)(-).cas" size 4198 crc 820b662f md5 a58c7183c49133665f8f5be00684e407 )
+)
+
+game (
+	name "Mord im Zeppelin (198x)(Schaffarzik, Sven)(de)"
+	description "Mord im Zeppelin (198x)(Schaffarzik, Sven)(de)"
+	rom ( name "Mord im Zeppelin (198x)(Schaffarzik, Sven)(de).cas" size 15973 crc 7eb4a417 md5 49113ef3b7871b1afcf0ca5c262b8002 )
+)
+
+game (
+	name "Motten (1982)(TCS)(de)"
+	description "Motten (1982)(TCS)(de)"
+	rom ( name "Motten (1982)(TCS)(de).cas" size 14630 crc fb5efa13 md5 976118cc00ffda447651308beb1aa06b )
+)
+
+game (
+	name "Musik Demo (1983)(TCS)"
+	description "Musik Demo (1983)(TCS)"
+	rom ( name "Musik Demo (1983)(TCS).cas" size 15639 crc ac9a24d8 md5 075e1595daa62c03b580b2f54cfb05ed )
+)
+
+game (
+	name "Mysterious Tavern (198x)(Scholz, Heiko)(de)"
+	description "Mysterious Tavern (198x)(Scholz, Heiko)(de)"
+	rom ( name "Mysterious Tavern (198x)(Scholz, Heiko)(de).cas" size 16031 crc 57ebd9ba md5 bfa2c297eaf5c9eba956e449e5ab0088 )
+)
+
+game (
+	name "Netzo (1983)(TCS)(de)"
+	description "Netzo (1983)(TCS)(de)"
+	rom ( name "Netzo (1983)(TCS)(de).cas" size 14990 crc 63eac136 md5 5a8d44b9fcab4d29ebddd86d4e417034 )
+)
+
+game (
+	name "Pac Boy (1984)(Spectra Games)(de)"
+	description "Pac Boy (1984)(Spectra Games)(de)"
+	rom ( name "Pac Boy (1984)(Spectra Games)(de).cas" size 13376 crc 515b36d4 md5 155647b99e7b2a61a6b5ffb6e15983d3 )
+)
+
+game (
+	name "Painter (19xx)(-)"
+	description "Painter (19xx)(-)"
+	rom ( name "Painter (19xx)(-).cas" size 12539 crc 4665242c md5 22ecc91b7809f4342558598af470b1d3 )
+)
+
+game (
+	name "Painter 2 (19xx)(-)"
+	description "Painter 2 (19xx)(-)"
+	rom ( name "Painter 2 (19xx)(-).cas" size 13583 crc b5d90e32 md5 e8cbe8a3610e983e0636778da457f342 )
+)
+
+game (
+	name "Plotter 2.5 (1983)(TCS)(de)"
+	description "Plotter 2.5 (1983)(TCS)(de)"
+	rom ( name "Plotter 2.5 (1983)(TCS)(de).cas" size 7883 crc 6e397435 md5 6b0618bd9de834627ecd2ec4d09be191 )
+)
+
+game (
+	name "Point Chase (1983)(ROL)"
+	description "Point Chase (1983)(ROL)"
+	rom ( name "Point Chase (1983)(ROL).cas" size 4562 crc f7e91077 md5 50cb041e0759a6769fcd475bc286ddbb )
+)
+
+game (
+	name "Programm Modifizierer (19xx)(-)(de)"
+	description "Programm Modifizierer (19xx)(-)(de)"
+	rom ( name "Programm Modifizierer (19xx)(-)(de).cas" size 633 crc 956a744d md5 2fbf29269a986bf48070b5d1b6673138 )
+)
+
+game (
+	name "RS-232 Treiber Programm (19xx)(-)(de)"
+	description "RS-232 Treiber Programm (19xx)(-)(de)"
+	rom ( name "RS-232 Treiber Programm (19xx)(-)(de).cas" size 209 crc 53f5b980 md5 ce8fc12149aa3c62029979e4c594c894 )
+)
+
+game (
+	name "Roulette (1982)(Klein, Christian)"
+	description "Roulette (1982)(Klein, Christian)"
+	rom ( name "Roulette (1982)(Klein, Christian).cas" size 8739 crc 402bba07 md5 8c911bde5b1ec738647b1065f95165b8 )
+)
+
+game (
+	name "Santa Paravia (19xx)(-)(de)"
+	description "Santa Paravia (19xx)(-)(de)"
+	rom ( name "Santa Paravia (19xx)(-)(de).cas" size 13824 crc 4d672a70 md5 8b39d44e0fb3851801c8c949f97e36e8 )
+)
+
+game (
+	name "Saug (1982)(TCS)"
+	description "Saug (1982)(TCS)"
+	rom ( name "Saug (1982)(TCS).cas" size 11885 crc f477896c md5 4c8c6003d19c054b0e62a12bb1cc3ac9 )
+)
+
+game (
+	name "Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de)"
+	description "Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de)"
+	rom ( name "Schiff des Grauens (198x)(Schaffarzik, Sven - Scholz, Heiko)(de).cas" size 17705 crc e0f2e0cb md5 a2ae3f57cdf24fe0bf99da363f630a0e )
+)
+
+game (
+	name "Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de)"
+	description "Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de)"
+	rom ( name "Schnick Schnack Schnuck (1986)(Drawe, Alexander)(de).cas" size 10630 crc 846841d3 md5 3bdfdbdc4cd65981ae67e669da678779 )
+)
+
+game (
+	name "Screen Editor (19xx)(-)"
+	description "Screen Editor (19xx)(-)"
+	rom ( name "Screen Editor (19xx)(-).cas" size 1665 crc d038dbb6 md5 0938b2735f4e9ec39e94dedaf3843a4f )
+)
+
+game (
+	name "Screen Printer (1983)(TCS)"
+	description "Screen Printer (1983)(TCS)"
+	rom ( name "Screen Printer (1983)(TCS).cas" size 12071 crc ea427be8 md5 410753dea08d83de42ecf061112c00d8 )
+)
+
+game (
+	name "Scuttle (1982)(Schwertfeger, T.)(de)"
+	description "Scuttle (1982)(Schwertfeger, T.)(de)"
+	rom ( name "Scuttle (1982)(Schwertfeger, T.)(de).cas" size 14906 crc 2fb32641 md5 5ce56f1fa501ac91b6e3e4348a17e97d )
+)
+
+game (
+	name "Shape Table Editor (1983)(Gerber, Udo)(de)"
+	description "Shape Table Editor (1983)(Gerber, Udo)(de)"
+	rom ( name "Shape Table Editor (1983)(Gerber, Udo)(de).cas" size 8767 crc 2d67c6c1 md5 885a9a42ad909dec1e13ea15238583f6 )
+)
+
+game (
+	name "Skramble (1983)(Sampson, Stuart)"
+	description "Skramble (1983)(Sampson, Stuart)"
+	rom ( name "Skramble (1983)(Sampson, Stuart).cas" size 21939 crc 249df317 md5 af571c9f556d9620ae1528a4b00dfca1 )
+)
+
+game (
+	name "Sound Editor (1984)(-)(de)"
+	description "Sound Editor (1984)(-)(de)"
+	rom ( name "Sound Editor (1984)(-)(de).cas" size 3625 crc bf667ec4 md5 5b632f10a854f7e212400425122cf575 )
+)
+
+game (
+	name "Space Attack (1984)(Mueller, A.)"
+	description "Space Attack (1984)(Mueller, A.)"
+	rom ( name "Space Attack (1984)(Mueller, A.).cas" size 7606 crc 8f1c0271 md5 3cbafb5c56aa65ef5f1aaa4be0841313 )
+)
+
+game (
+	name "Spaceman (19xx)(Drawe, Alexander)(de)"
+	description "Spaceman (19xx)(Drawe, Alexander)(de)"
+	rom ( name "Spaceman (19xx)(Drawe, Alexander)(de).cas" size 11618 crc 3de8d663 md5 4c1317852f0373ab3c43104223e90ad3 )
+)
+
+game (
+	name "Sprite Editor (1983)(Thomas, Patrick)"
+	description "Sprite Editor (1983)(Thomas, Patrick)"
+	rom ( name "Sprite Editor (1983)(Thomas, Patrick).cas" size 2232 crc 97053bbe md5 570d634ccec8e0a5cec85824b9c4138e )
+)
+
+game (
+	name "Super BASIC (19xx)(Huebben, Heinz)(de)"
+	description "Super BASIC (19xx)(Huebben, Heinz)(de)"
+	rom ( name "Super BASIC (19xx)(Huebben, Heinz)(de).cas" size 7577 crc 1da95676 md5 82724870ee7639ff7c13fc55de3417c9 )
+)
+
+game (
+	name "Super Hirn (1982)(-)"
+	description "Super Hirn (1982)(-)"
+	rom ( name "Super Hirn (1982)(-).cas" size 7938 crc b2fa4ace md5 99e2b8cc06c599d0a57889c1177d2048 )
+)
+
+game (
+	name "Super Plot (1984)(Steffenhagen, Ralf)(de)"
+	description "Super Plot (1984)(Steffenhagen, Ralf)(de)"
+	rom ( name "Super Plot (1984)(Steffenhagen, Ralf)(de).cas" size 24370 crc 5f49eda1 md5 ed47d4005bd99e9a532cbd7da47d2d88 )
+)
+
+game (
+	name "Super Star Trek (19xx)(-)(de)"
+	description "Super Star Trek (19xx)(-)(de)"
+	rom ( name "Super Star Trek (19xx)(-)(de).cas" size 16437 crc 0a6a362b md5 723207c7d67db01d43f669d3a9e5c8e7 )
+)
+
+game (
+	name "System Copy (19xx)(-)(de)"
+	description "System Copy (19xx)(-)(de)"
+	rom ( name "System Copy (19xx)(-)(de).cas" size 2003 crc 1fa35da3 md5 76d5e2a99625d40bb59df858f7250ca2 )
+)
+
+game (
+	name "Tausend Fuss (1983)(TCS)(de)"
+	description "Tausend Fuss (1983)(TCS)(de)"
+	rom ( name "Tausend Fuss (1983)(TCS)(de).cas" size 3822 crc 41504360 md5 9304d26956c318066f40d96d1922598f )
+)
+
+game (
+	name "Toad Mania (1983)(Gumboot)"
+	description "Toad Mania (1983)(Gumboot)"
+	rom ( name "Toad Mania (1983)(Gumboot).cas" size 9359 crc e91c4c81 md5 6b0a80cc710672daacd12ebe6f62166c )
+)
+
+game (
+	name "TraceMon (1983)(Buchmueller, Juergen)"
+	description "TraceMon (1983)(Buchmueller, Juergen)"
+	rom ( name "TraceMon (1983)(Buchmueller, Juergen).cas" size 8382 crc 6b0bf332 md5 64c214ac59edf0d39205d264910f902c )
+)
+
+game (
+	name "Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.)"
+	description "Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.)"
+	rom ( name "Triton Battle (19xx)(Gergeleit, M. - Steinbeck, H.C.).cas" size 11743 crc 1bbab68f md5 1e620098a19c3c2425941c1ec8d81382 )
+)
+
+game (
+	name "U Boot JagD (19xx)(-)(de)"
+	description "U Boot JagD (19xx)(-)(de)"
+	rom ( name "U Boot JagD (19xx)(-)(de).cas" size 11497 crc 5caa9b13 md5 61a225e4278d91524286cb9b4f401fb9 )
+)
+
+game (
+	name "Uhr Copy (19xx)(-)(de)"
+	description "Uhr Copy (19xx)(-)(de)"
+	rom ( name "Uhr Copy (19xx)(-)(de).cas" size 1481 crc 27938748 md5 4f692e9020641b78cbbe1dd16e0e0738 )
+)
+
+game (
+	name "Uhr Zeit (19xx)(-)(de)"
+	description "Uhr Zeit (19xx)(-)(de)"
+	rom ( name "Uhr Zeit (19xx)(-)(de).cas" size 201 crc 1fdf77b8 md5 b218ac1f8789729f9219139732aac7eb )
+)

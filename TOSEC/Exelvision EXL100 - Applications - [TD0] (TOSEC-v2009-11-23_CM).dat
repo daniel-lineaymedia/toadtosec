@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Exelvision EXL100 - Applications - [TD0]"
+	description "Exelvision EXL100 - Applications - [TD0] (TOSEC-v2009-11-23)"
+	category "Exelvision EXL100 - Applications - [TD0]"
+	version 2009-11-23
+	author "TKaos"
+)
+
+game (
+	name "ExelDOS v1.1 (1985)(Exelvision)(FR)"
+	description "ExelDOS v1.1 (1985)(Exelvision)(FR)"
+	rom ( name "ExelDOS v1.1 (1985)(Exelvision)(FR).td0" size 69798 crc 5c50eea2 md5 6e58a9ccb24541ce4a0acf49e7b42096 )
+)
+
+game (
+	name "ExelDOS v1.2 (1985)(Exelvision)(FR)"
+	description "ExelDOS v1.2 (1985)(Exelvision)(FR)"
+	rom ( name "ExelDOS v1.2 (1985)(Exelvision)(FR).td0" size 44303 crc 58073293 md5 695452b9d8b632571fde861325bf14f5 )
+)
+
+game (
+	name "ExelDOS v1.3 (1986)(Exelvision)(FR)"
+	description "ExelDOS v1.3 (1986)(Exelvision)(FR)"
+	rom ( name "ExelDOS v1.3 (1986)(Exelvision)(FR).td0" size 151375 crc a5370457 md5 194f475552f8963b21129c72c466ab63 )
+)
+
+game (
+	name "ExelDOS v1.4 (1986)(Exelvision)(FR)"
+	description "ExelDOS v1.4 (1986)(Exelvision)(FR)"
+	rom ( name "ExelDOS v1.4 (1986)(Exelvision)(FR).td0" size 94183 crc e543a0bf md5 1b5cf66e861bf4f8835bde5650ce5c33 )
+)

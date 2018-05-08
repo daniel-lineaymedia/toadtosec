@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [D81]"
+	description "Commodore C64 - Applications - [D81] (TOSEC-v2012-07-15)"
+	category "Commodore C64 - Applications - [D81]"
+	version 2012-07-15
+	author "Duncan Twain"
+)
+
+game (
+	name "MODPlay 64 v1.2c (2007-12-03)(Ian Coog)"
+	description "MODPlay 64 v1.2c (2007-12-03)(Ian Coog)"
+	rom ( name "MODPlay 64 v1.2c (2007-12-03)(Ian Coog).d81" size 819200 crc 029d6c25 md5 385fe977e7254b1812dd987708ca43e8 sha1 e671e13a4a6334490a83c1f1fbf13afceba67bc2 )
+)
+
+game (
+	name "MODPlay 64 v1.2d (2007-12-06)(Ian Coog)"
+	description "MODPlay 64 v1.2d (2007-12-06)(Ian Coog)"
+	rom ( name "MODPlay 64 v1.2d (2007-12-06)(Ian Coog).d81" size 819200 crc 727aad1b md5 fae502ba61d7f30c5742f14ce44b8922 sha1 dd981e65bb47d7f13ef27cc5b5a20e211602b81d )
+)
+
+game (
+	name "MODPlay 64 v1.2e (2007-12-10)(Ian Coog)"
+	description "MODPlay 64 v1.2e (2007-12-10)(Ian Coog)"
+	rom ( name "MODPlay 64 v1.2e (2007-12-10)(Ian Coog).d81" size 819200 crc f0727880 md5 0d586788fe274c36da1428dfa72e5e3d sha1 1806bd417524aa54a585b34a8045ac5954f57f21 )
+)
+

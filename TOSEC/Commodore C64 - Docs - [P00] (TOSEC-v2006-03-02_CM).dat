@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C64 - Docs - [P00]"
+	description "Commodore C64 - Docs - [P00] (TOSEC-v2006-03-02)"
+	category "Commodore C64 - Docs - [P00]"
+	version 2006-03-02
+	author "DesertWolf"
+)
+
+game (
+	name "Sex an der Haustuer (19xx)(-)(de)"
+	description "Sex an der Haustuer (19xx)(-)(de)"
+	rom ( name "Sex an der Haustuer (19xx)(-)(de).p00" size 20213 crc e9785bec md5 7bdcf85c253ea389642329d3431e2fa1 )
+)

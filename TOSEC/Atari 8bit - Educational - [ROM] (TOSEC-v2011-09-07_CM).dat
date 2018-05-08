@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Atari 8bit - Educational - [ROM]"
+	description "Atari 8bit - Educational - [ROM] (TOSEC-v2011-09-07)"
+	category "Atari 8bit - Educational - [ROM]"
+	version 2011-09-07
+	author "TKaos"
+)
+
+game (
+	name "Alf in the Color Caves (1984)(Spinnaker Software)(US)"
+	description "Alf in the Color Caves (1984)(Spinnaker Software)(US)"
+	rom ( name "Alf in the Color Caves (1984)(Spinnaker Software)(US).rom" size 16384 crc 79df7f9d md5 d3a93abadc1a55e40c969bd68134a5dd sha1 d197de362de419f5963af89fc7ce34074c84ce10 )
+)
+
+game (
+	name "Alphabet Zoo (1983)(Spinnaker Software)(US)"
+	description "Alphabet Zoo (1983)(Spinnaker Software)(US)"
+	rom ( name "Alphabet Zoo (1983)(Spinnaker Software)(US).rom" size 16384 crc c9613ecd md5 4725ad7cf31fd2a9ae4f6002c44aae1d sha1 d7fe5688cf754615db87b5d031361fae9fcaada4 )
+)
+
+game (
+	name "Astro-Grover (1984)(CBS Software)(US)"
+	description "Astro-Grover (1984)(CBS Software)(US)"
+	rom ( name "Astro-Grover (1984)(CBS Software)(US).rom" size 16384 crc 85b67797 md5 9e629417187bb3f49faf1d23abf9a187 sha1 b7d9eef4516457fa6301bff1e436ea1f5860956b )
+)
+
+game (
+	name "BearJam (1983)(Chalk Board)(US)[rm]"
+	description "BearJam (1983)(Chalk Board)(US)[rm]"
+	rom ( name "BearJam (1983)(Chalk Board)(US)[rm].rom" size 8192 crc 1889c707 md5 2f443f01ddf8d7267cd8acb2b14dcb7d sha1 f6df83d8ef0410edd2eb177d503fe8e0e0be908f )
+)
+
+game (
+	name "Big Bird's Special Delivery (1984)(CBS Software)(US)"
+	description "Big Bird's Special Delivery (1984)(CBS Software)(US)"
+	rom ( name "Big Bird's Special Delivery (1984)(CBS Software)(US).rom" size 16384 crc 6d93b4fa md5 bfdafb6bac63834a6185aa4b2e4b9205 sha1 d8167ee465116425c6bd9ad254b2ba96844d000e )
+)
+
+game (
+	name "Coco-Notes (1984)(CBS Software)(US)"
+	description "Coco-Notes (1984)(CBS Software)(US)"
+	rom ( name "Coco-Notes (1984)(CBS Software)(US).rom" size 16384 crc f93c615b md5 bf438425bb9aca4bb17e3e154398ac3e sha1 d70ef079097293256a9b0d2bb34f8b8a49eac565 )
+)
+
+game (
+	name "Dance Fantasy (1984)(Fisher-Price)(US)"
+	description "Dance Fantasy (1984)(Fisher-Price)(US)"
+	rom ( name "Dance Fantasy (1984)(Fisher-Price)(US).rom" size 8192 crc faec94e7 md5 2e5522c2258def101ba93bef8e3e5f94 sha1 85e64f5d599b8c9a69d2e4cdb09535731897bca9 )
+)
+
+game (
+	name "Designer's Pencil (1984)(Activision)(US)"
+	description "Designer's Pencil (1984)(Activision)(US)"
+	rom ( name "Designer's Pencil (1984)(Activision)(US).rom" size 16384 crc 6ed64678 md5 241a687cb39b32e47e7f755c6365cf6e sha1 ecff0515340a0fe0f072f74ed3996cf2adc053ad )
+)
+
+game (
+	name "Ducks Ahoy! (1984)(CBS Software)(US)"
+	description "Ducks Ahoy! (1984)(CBS Software)(US)"
+	rom ( name "Ducks Ahoy! (1984)(CBS Software)(US).rom" size 16384 crc 4cdfceb9 md5 ec071231d2399c4672267e42cbbd60d9 sha1 e2bb6270e2646b9c721c4c038c0fddfccf7218a4 )
+)
+
+game (
+	name "Educational System Master Cartridge (1983)(Dorsett)(US)[re-release]"
+	description "Educational System Master Cartridge (1983)(Dorsett)(US)[re-release]"
+	rom ( name "Educational System Master Cartridge (1983)(Dorsett)(US)[re-release].rom" size 8192 crc df830b2e md5 c9872f3134a459e967231ef2a292e54b sha1 09cd7307e76c11c1def3613879bdf74576f73843 )
+)
+
+game (
+	name "Ernie's Magic Shapes (1984)(CBS Software)(US)"
+	description "Ernie's Magic Shapes (1984)(CBS Software)(US)"
+	rom ( name "Ernie's Magic Shapes (1984)(CBS Software)(US).rom" size 16384 crc 435f5aba md5 1173e3d0a861f13d50d642ebdf79cb8a sha1 05b935e0a1cae9b72fad28e7ec0b443080ede57a )
+)
+
+game (
+	name "FaceMaker (1983)(Spinnaker Software)(US)"
+	description "FaceMaker (1983)(Spinnaker Software)(US)"
+	rom ( name "FaceMaker (1983)(Spinnaker Software)(US).rom" size 8192 crc 382d859e md5 64071ff7bad2a5e9c34428f84fb48c76 sha1 e1dae8e5b6b5cac1745e7ccacd1f5b7530276fd8 )
+)
+
+game (
+	name "Fraction Fever (1983)(Spinnaker Software)(US)"
+	description "Fraction Fever (1983)(Spinnaker Software)(US)"
+	rom ( name "Fraction Fever (1983)(Spinnaker Software)(US).rom" size 16384 crc df7cd92d md5 b6a4ce3b88e5359818699d3cbad1768c sha1 c0a41d5c8e8768d1ca8ed017917a67826c2dd492 )
+)
+
+game (
+	name "Sky Writer (1983)(Atari)(US)"
+	description "Sky Writer (1983)(Atari)(US)"
+	rom ( name "Sky Writer (1983)(Atari)(US).rom" size 16384 crc 0a73a8f5 md5 e4581cac68544ca8e8fedaafda58617b sha1 2c13733c770b2bd02bb7572b2831b86dfa9205f3 )
+)
+
+game (
+	name "Story Machine (1983)(Spinnaker Software)(NTSC)(US)[req OSb]"
+	description "Story Machine (1983)(Spinnaker Software)(NTSC)(US)[req OSb]"
+	rom ( name "Story Machine (1983)(Spinnaker Software)(NTSC)(US)[req OSb].rom" size 16384 crc b3e7fe47 md5 c558c8e3c5bf949f7fcfdc02f1e67bff sha1 30012766920a7191c56ed9eddfd7c7307b99debc )
+)
+

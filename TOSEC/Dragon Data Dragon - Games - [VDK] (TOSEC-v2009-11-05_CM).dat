@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Dragon Data Dragon - Games - [VDK]"
+	description "Dragon Data Dragon - Games - [VDK] (TOSEC-v2009-11-05)"
+	category "Dragon Data Dragon - Games - [VDK]"
+	version 2009-11-05
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "Cuthbert Goes Walkabout (1984)(Microdeal)"
+	description "Cuthbert Goes Walkabout (1984)(Microdeal)"
+	rom ( name "Cuthbert Goes Walkabout (1984)(Microdeal).vdk" size 184344 crc 7a1266c4 md5 f2686e192f6a66810c522908e44af122 )
+)
+
+game (
+	name "Dungeon Raid (1984)(Microdeal)"
+	description "Dungeon Raid (1984)(Microdeal)"
+	rom ( name "Dungeon Raid (1984)(Microdeal).vdk" size 184355 crc 74d2dde3 md5 1c1b9df281183208938323783891963d )
+)
+
+game (
+	name "Speed Racer (1985)(Microdeal)"
+	description "Speed Racer (1985)(Microdeal)"
+	rom ( name "Speed Racer (1985)(Microdeal).vdk" size 184343 crc ec98a1f4 md5 ac6122973a505111460ad3180a617eff )
+)
+

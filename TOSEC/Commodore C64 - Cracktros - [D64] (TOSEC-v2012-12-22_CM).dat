@@ -1,0 +1,1712 @@
+clrmamepro (
+	name "Commodore C64 - Cracktros - [D64]"
+	description "Commodore C64 - Cracktros - [D64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Cracktros - [D64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "7-11 #01 (1989-03)(Seven Eleven)"
+	description "7-11 #01 (1989-03)(Seven Eleven)"
+	rom ( name "7-11 #01 (1989-03)(Seven Eleven).d64" size 174848 crc 6a135296 md5 51f35ecb018032e740de929cd92d5049 sha1 48dedbb8082468c6a00bf0f8f01357440c96a2e9 )
+)
+
+game (
+	name "801 Intro (19xx)(Triad)"
+	description "801 Intro (19xx)(Triad)"
+	rom ( name "801 Intro (19xx)(Triad).d64" size 174848 crc ae5a6c1d md5 7aa09861a238c74ec09975d0f85b044e sha1 67d24123b1e89b0984408d75517a2dac313dca38 )
+)
+
+game (
+	name "ABC Intro 1 (19xx)(Advanced Breaking Crew)"
+	description "ABC Intro 1 (19xx)(Advanced Breaking Crew)"
+	rom ( name "ABC Intro 1 (19xx)(Advanced Breaking Crew).d64" size 174848 crc 2d53f4e5 md5 05b5b84cd0ded477871c58863e790036 sha1 ba10535ac4fbacdc338a1a75693bc57802c12cef )
+)
+
+game (
+	name "ACC #11 (1986)(Active Cracking Crew)"
+	description "ACC #11 (1986)(Active Cracking Crew)"
+	rom ( name "ACC #11 (1986)(Active Cracking Crew).d64" size 174848 crc 07f903a8 md5 d788c846702c1d1d9378ead2682769cd sha1 592ff135598c135a97ae15159a138ad2e1dca8f1 )
+)
+
+game (
+	name "Action Crew Intro 1, The (1989)(X-Ample)"
+	description "Action Crew Intro 1, The (1989)(X-Ample)"
+	rom ( name "Action Crew Intro 1, The (1989)(X-Ample).d64" size 174848 crc 742a727f md5 c0338ac6f0a03855ed678cef99cbe186 sha1 9e7607c3da5b1471af2b3008a8c8835deea1b6a9 )
+)
+
+game (
+	name "Action Crew Intro 1, The (1989)(X-Ample)[a]"
+	description "Action Crew Intro 1, The (1989)(X-Ample)[a]"
+	rom ( name "Action Crew Intro 1, The (1989)(X-Ample)[a].d64" size 174848 crc 7fb1e963 md5 0b7804c6e80ee617ddabad600dca76db sha1 0f68db852c3bedd1c324ac93ef5476e229100269 )
+)
+
+game (
+	name "Action Crew Intro 2, The (1989)(X-Ample)"
+	description "Action Crew Intro 2, The (1989)(X-Ample)"
+	rom ( name "Action Crew Intro 2, The (1989)(X-Ample).d64" size 174848 crc e440dddd md5 72551a8e1e236e2a5e0d5e706728498c sha1 a568e8642d1d9d52737e46733c1e805e8050e41f )
+)
+
+game (
+	name "Action Crew Intro 2, The (1989)(X-Ample)[a]"
+	description "Action Crew Intro 2, The (1989)(X-Ample)[a]"
+	rom ( name "Action Crew Intro 2, The (1989)(X-Ample)[a].d64" size 174848 crc 762ff442 md5 ceae5d82e2bfc14cae04162f431b20b2 sha1 70c0768a98dfa1279ba86e926502290541752bbe )
+)
+
+game (
+	name "Action Crew Intro 3, The (1989)(X-Ample)"
+	description "Action Crew Intro 3, The (1989)(X-Ample)"
+	rom ( name "Action Crew Intro 3, The (1989)(X-Ample).d64" size 174848 crc cb93a304 md5 62e0130f43eaea2f41ad26541f6f9954 sha1 cba417618d217f649dd8f0805488b9443eae27ef )
+)
+
+game (
+	name "Action Crew Intro 3, The (1989)(X-Ample)[a]"
+	description "Action Crew Intro 3, The (1989)(X-Ample)[a]"
+	rom ( name "Action Crew Intro 3, The (1989)(X-Ample)[a].d64" size 174848 crc bee6d903 md5 a286c92fa5b6b85196b47f0474fb1893 sha1 19bddf60480b8ad2458d242234411caa39d369cf )
+)
+
+game (
+	name "Another Intro (1988)(Bytestar)"
+	description "Another Intro (1988)(Bytestar)"
+	rom ( name "Another Intro (1988)(Bytestar).d64" size 174848 crc 0b5755aa md5 04f2908a99f5f4490574d9635b36c180 sha1 a2a8fa243154889a150d919ccca8a83b5f2f56e3 )
+)
+
+game (
+	name "Another Intro (19xx)(Accuracy)"
+	description "Another Intro (19xx)(Accuracy)"
+	rom ( name "Another Intro (19xx)(Accuracy).d64" size 174848 crc 3c8755d9 md5 a321c68ee1c6f2587cb094686a509de3 sha1 3f95dcd3ecd95791f78f61ceeff9a1ccb66077e2 )
+)
+
+game (
+	name "Antiaction Intro (19xx)(0498 Cracking Group)"
+	description "Antiaction Intro (19xx)(0498 Cracking Group)"
+	rom ( name "Antiaction Intro (19xx)(0498 Cracking Group).d64" size 174848 crc 5e97b444 md5 7ed1bb2f3b687bd902ddf56aa4a88171 sha1 5f27a97a40638eee6d08cdcf097349f96c682270 )
+)
+
+game (
+	name "Antiaction Intro (19xx)(0498 Cracking Group)[a]"
+	description "Antiaction Intro (19xx)(0498 Cracking Group)[a]"
+	rom ( name "Antiaction Intro (19xx)(0498 Cracking Group)[a].d64" size 174848 crc 1076f01e md5 0fc929864d553be00538774351e488ee sha1 274e3399cf4a8515f59ca2fa6b0d3dd1fbfc44dc )
+)
+
+game (
+	name "Astoria Intro Collection (19xx)(Agony)"
+	description "Astoria Intro Collection (19xx)(Agony)"
+	rom ( name "Astoria Intro Collection (19xx)(Agony).d64" size 174848 crc bc836988 md5 6b235faab2fb0ad1c935531751341388 sha1 a7187cf05fd832da55d1dbc1b9b6ff17aebc054b )
+)
+
+game (
+	name "Astoria Intro Collection (19xx)(Agony)[a]"
+	description "Astoria Intro Collection (19xx)(Agony)[a]"
+	rom ( name "Astoria Intro Collection (19xx)(Agony)[a].d64" size 174848 crc df8d1390 md5 6f123a3193ef065660b109d4ef808766 sha1 b0b9e1a25e406ff36e29dfb675065202b5c0a25a )
+)
+
+game (
+	name "BBS Intro Better Mouse Trap (19xx)(Roy Batty)"
+	description "BBS Intro Better Mouse Trap (19xx)(Roy Batty)"
+	rom ( name "BBS Intro Better Mouse Trap (19xx)(Roy Batty).d64" size 174848 crc 1b489c2d md5 6d376d5c00e51cae357e9af6a38d6197 sha1 65f94e8514ad4a1959c0300431710ec51b828d52 )
+)
+
+game (
+	name "BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a]"
+	description "BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a]"
+	rom ( name "BBS Intro Better Mouse Trap (19xx)(Roy Batty)[a].d64" size 174848 crc 88b86cc5 md5 7af419d494694bd908935d71d37eecc0 sha1 982cc96ff132e51d0f721bacd1a949416834d568 )
+)
+
+game (
+	name "Bluez Muz Intro (1994)(Shape)"
+	description "Bluez Muz Intro (1994)(Shape)"
+	rom ( name "Bluez Muz Intro (1994)(Shape).d64" size 174848 crc 2472b300 md5 fb33aecd209d39a3a1b508c2751163c8 sha1 3e188acd39c74e2161538b57b18ff2599ea9b71d )
+)
+
+game (
+	name "Bluez Muz Intro (1994)(Shape)[a]"
+	description "Bluez Muz Intro (1994)(Shape)[a]"
+	rom ( name "Bluez Muz Intro (1994)(Shape)[a].d64" size 174848 crc f69fa6c9 md5 0ff69ffaaf4db0025b30de0e4971f79a sha1 a9953f93e4e57e739a47810708f1dcea5ad6d878 )
+)
+
+game (
+	name "Byterapers Incorporated #18 (1992)(Byterapers Incorporated)"
+	description "Byterapers Incorporated #18 (1992)(Byterapers Incorporated)"
+	rom ( name "Byterapers Incorporated #18 (1992)(Byterapers Incorporated).d64" size 174848 crc 8e6bcb6a md5 74125cf123b700624f8645880752770f sha1 dad9c9732a899f658fa22e7a6b53238d76cdb510 )
+)
+
+game (
+	name "C-Style (19xx)(-)"
+	description "C-Style (19xx)(-)"
+	rom ( name "C-Style (19xx)(-).d64" size 174848 crc d1e9eb1f md5 5a3d15805fe1b17791058122f699821d sha1 de15a952fee9f734ebe87c6dda2ef78f98e6ade3 )
+)
+
+game (
+	name "Charged's Intro Collection (2000)(Charged)(Side A)"
+	description "Charged's Intro Collection (2000)(Charged)(Side A)"
+	rom ( name "Charged's Intro Collection (2000)(Charged)(Side A).d64" size 174848 crc 6be69d03 md5 6e0439c406735a2ca51599d7c7bc72d2 sha1 8b3627a9e0992daaef6a648a3ad14e70bd508382 )
+)
+
+game (
+	name "Charged's Intro Collection (2000)(Charged)(Side B)"
+	description "Charged's Intro Collection (2000)(Charged)(Side B)"
+	rom ( name "Charged's Intro Collection (2000)(Charged)(Side B).d64" size 174848 crc 7f44df61 md5 cf87ed143adbf13609189f496ef528c7 sha1 bd36a444df8542a97efdf378bcc7b434c2a6e862 )
+)
+
+game (
+	name "Civitas #06 (19xx)(Civitas)"
+	description "Civitas #06 (19xx)(Civitas)"
+	rom ( name "Civitas #06 (19xx)(Civitas).d64" size 174848 crc 61434c77 md5 f342284857fd85685e3417ff4bafc21f sha1 f2a51e51504ff242cede8612c4273588d176926a )
+)
+
+game (
+	name "Cool Intro (1991-08-23)(Lore of Arts)"
+	description "Cool Intro (1991-08-23)(Lore of Arts)"
+	rom ( name "Cool Intro (1991-08-23)(Lore of Arts).d64" size 174848 crc 1db301e9 md5 f4987329c866aafe87d7860b0c69f072 sha1 8e36068a3bbd43c65b7a86c62871892e44815b16 )
+)
+
+game (
+	name "Crack Intros (19xx)(Commando Frontier)"
+	description "Crack Intros (19xx)(Commando Frontier)"
+	rom ( name "Crack Intros (19xx)(Commando Frontier).d64" size 174848 crc f1b19017 md5 b92a9b44f5a50d0f87e33dabe6e4039b sha1 fb07911787be1529156ec6ef55d3192d2dc915cc )
+)
+
+game (
+	name "Crack Intros (19xx)(Commando Frontier)[a2]"
+	description "Crack Intros (19xx)(Commando Frontier)[a2]"
+	rom ( name "Crack Intros (19xx)(Commando Frontier)[a2].d64" size 174848 crc 72380764 md5 be70ef941822fd6046bbc9c58fe19ded sha1 c868719b84b6c095845f2ef0894dfa3753a7bd97 )
+)
+
+game (
+	name "Crack Intros (19xx)(Commando Frontier)[a]"
+	description "Crack Intros (19xx)(Commando Frontier)[a]"
+	rom ( name "Crack Intros (19xx)(Commando Frontier)[a].d64" size 174848 crc 83893ec7 md5 d0e6252e2369e59e6df14f605f37f026 sha1 2f96d5d3f42725e743d15decba4c00c0bdc90a24 )
+)
+
+game (
+	name "Cracktro Creatures (19xx)(Ikari+Talent)"
+	description "Cracktro Creatures (19xx)(Ikari+Talent)"
+	rom ( name "Cracktro Creatures (19xx)(Ikari+Talent).d64" size 174848 crc 80ef23fc md5 91d792e93989c4917dc527e1f0e8af02 sha1 adec9f405eac5ca8949e43bae1e6e225567c088a )
+)
+
+game (
+	name "Cracktro G Loc (1992-01)(Legend - NEI)"
+	description "Cracktro G Loc (1992-01)(Legend - NEI)"
+	rom ( name "Cracktro G Loc (1992-01)(Legend - NEI).d64" size 174848 crc fdfcd7a5 md5 2cdfc523f92e2df7b83abed1ec27b85f sha1 70b3795d2e43bb5a435a9f697221a716fac88f72 )
+)
+
+game (
+	name "Cracktro North and South (19xx)(Ikari+Talent)[SYS 9360]"
+	description "Cracktro North and South (19xx)(Ikari+Talent)[SYS 9360]"
+	rom ( name "Cracktro North and South (19xx)(Ikari+Talent)[SYS 9360].d64" size 174848 crc 50d399c4 md5 f50656592b01a7c1e4e5f75ce1d10e80 sha1 2ca7b52210a1f3fd0b77c5244e412a8c81fccaa1 )
+)
+
+game (
+	name "Cracktro Risk (1987-11-13)(Ikari)[SYS 3520]"
+	description "Cracktro Risk (1987-11-13)(Ikari)[SYS 3520]"
+	rom ( name "Cracktro Risk (1987-11-13)(Ikari)[SYS 3520].d64" size 174848 crc 29c67dce md5 86072129c1a634c4a4d2ee869408e1f1 sha1 85d86f0cac39579454fa2302bf2864ff1920c576 )
+)
+
+game (
+	name "Cracktro Sim City (1989-04-18)(Ikari)"
+	description "Cracktro Sim City (1989-04-18)(Ikari)"
+	rom ( name "Cracktro Sim City (1989-04-18)(Ikari).d64" size 174848 crc 547b3b02 md5 ae478f22f842386d8e81d4029a9873b5 sha1 aadc753f96d745ce504c0126ec4a962663727a55 )
+)
+
+game (
+	name "Cracktro the Deep +3 (19xx)(Empire)[SYS 4704]"
+	description "Cracktro the Deep +3 (19xx)(Empire)[SYS 4704]"
+	rom ( name "Cracktro the Deep +3 (19xx)(Empire)[SYS 4704].d64" size 174848 crc 9fc04cdb md5 5553dcf5148a234995b0d56d7883ece5 sha1 de3fe97ecd5c261a54f95c13e1b98ba5e59d960f )
+)
+
+game (
+	name "Cracktro Total Recall (1990-12-20)(Ikari+Talent)"
+	description "Cracktro Total Recall (1990-12-20)(Ikari+Talent)"
+	rom ( name "Cracktro Total Recall (1990-12-20)(Ikari+Talent).d64" size 174848 crc 635467b3 md5 2cd44da7839a8b03c7971bb348dcd184 sha1 742ae5e16518ddc4ce0ff698998724127f8d00ee )
+)
+
+game (
+	name "Cracktro UFO (1987)(The Electronic Team)[SYS 49152]"
+	description "Cracktro UFO (1987)(The Electronic Team)[SYS 49152]"
+	rom ( name "Cracktro UFO (1987)(The Electronic Team)[SYS 49152].d64" size 174848 crc 7993f50b md5 02c72070369dbd6bdc26e75a533a27a3 sha1 da8469828df3a7d83a571cad616012c320fc6496 )
+)
+
+game (
+	name "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[a][NTSC]"
+	description "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[a][NTSC]"
+	rom ( name "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[a][NTSC].d64" size 174848 crc 3d1571c5 md5 7b61899bbf5e1193d972cb4c859131cb sha1 c03ae85d0ca08b7ea539ea9597dd8487c8e0227e )
+)
+
+game (
+	name "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[NTSC]"
+	description "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[NTSC]"
+	rom ( name "Cracktro Working Games Fix (1988-08-18)(Public Enemy)[NTSC].d64" size 174848 crc 1aedf128 md5 ecdd48e99d4b6b97f85512fc3c7351e1 sha1 c08988c420bf0198129b36670a7923b895ea5db0 )
+)
+
+game (
+	name "Cracktros Oase (1989)(Oase)"
+	description "Cracktros Oase (1989)(Oase)"
+	rom ( name "Cracktros Oase (1989)(Oase).d64" size 174848 crc 3ce704a3 md5 1a3accd2d02387ae7786fb1e73371328 sha1 0d384ebc509ca2cf0c8d1864d7a107be1ff0a3ce )
+)
+
+game (
+	name "Cracktros RSI (19xx)(Red Sector Inc)"
+	description "Cracktros RSI (19xx)(Red Sector Inc)"
+	rom ( name "Cracktros RSI (19xx)(Red Sector Inc).d64" size 174848 crc 83a7e5e1 md5 71b7ded00075f419f1c3ef69b04a9e78 sha1 42f73362b46381717cd81c7cc9a107b99ca437d9 )
+)
+
+game (
+	name "Cracktros TRSI (19xx)(Tristar & Red Sector Inc)"
+	description "Cracktros TRSI (19xx)(Tristar & Red Sector Inc)"
+	rom ( name "Cracktros TRSI (19xx)(Tristar & Red Sector Inc).d64" size 174848 crc 5869ac00 md5 2cbb0b3d3ef864d8493ad0d8c67e12ba sha1 8c7ee765988ecc1f9df85795e78d16288642a665 )
+)
+
+game (
+	name "Crazy Coaster Cracktro (19xx)(Crypt)"
+	description "Crazy Coaster Cracktro (19xx)(Crypt)"
+	rom ( name "Crazy Coaster Cracktro (19xx)(Crypt).d64" size 174848 crc d7937010 md5 53eca31fc0a0924117044b15fbb320e7 sha1 7116061b5d98a15f826bed408e1ac2ebf482f33d )
+)
+
+game (
+	name "Crazy Coaster Cracktro (19xx)(Crypt)[a]"
+	description "Crazy Coaster Cracktro (19xx)(Crypt)[a]"
+	rom ( name "Crazy Coaster Cracktro (19xx)(Crypt)[a].d64" size 174848 crc 7547059b md5 9eb230107c1b7f8eac85ed71b31d255f sha1 d00425eea60c0a38317559cddfca5fe4942ee223 )
+)
+
+game (
+	name "Creators #02 (1991-12)(Creators)"
+	description "Creators #02 (1991-12)(Creators)"
+	rom ( name "Creators #02 (1991-12)(Creators).d64" size 174848 crc 507d173b md5 6f9e5254371aa3984c28f8b1898c5d3a sha1 4247055df999b946fa6c274a5efe46beb1ba3d58 )
+)
+
+game (
+	name "Delta Intro (1987)(Red Sector Inc.)"
+	description "Delta Intro (1987)(Red Sector Inc.)"
+	rom ( name "Delta Intro (1987)(Red Sector Inc.).d64" size 174848 crc 791155c4 md5 e9faa13ed57d014cc7a70a591bacc009 sha1 3fddbe84ca2ae11e5383bc5e833a132ac076e3a0 )
+)
+
+game (
+	name "Delta Intro (1987)(Red Sector Inc.)[a]"
+	description "Delta Intro (1987)(Red Sector Inc.)[a]"
+	rom ( name "Delta Intro (1987)(Red Sector Inc.)[a].d64" size 174848 crc b0af2823 md5 208823b951350701dd591b4fd9f1f1c5 sha1 5e2fd2ad06ab433c7fad22483c70b1566162cf2a )
+)
+
+game (
+	name "Drive #01 (1988)(Drive)"
+	description "Drive #01 (1988)(Drive)"
+	rom ( name "Drive #01 (1988)(Drive).d64" size 174848 crc 8a098277 md5 9afe762eb890c5340dcfe33fb2bd229f sha1 ff9e0615543e28373dbea709e9fdd8284dbd9dd6 )
+)
+
+game (
+	name "Dual Intro (1994)(Mayhem)"
+	description "Dual Intro (1994)(Mayhem)"
+	rom ( name "Dual Intro (1994)(Mayhem).d64" size 174848 crc 57bc6660 md5 afed0f586095f300808890b4cb167552 sha1 3f66e42e0152574c53c1ddedef43afbe9d132ef8 )
+)
+
+game (
+	name "DYCP-Intro (1991)(The Force)"
+	description "DYCP-Intro (1991)(The Force)"
+	rom ( name "DYCP-Intro (1991)(The Force).d64" size 174848 crc f77991af md5 c1804c7d28a912f03ab69b0069576e28 sha1 a2e37d520abe066476be156aab93b13d463c2aad )
+)
+
+game (
+	name "DYCP-Intro (1991)(The Force)[a2]"
+	description "DYCP-Intro (1991)(The Force)[a2]"
+	rom ( name "DYCP-Intro (1991)(The Force)[a2].d64" size 174848 crc 31d7a20e md5 76ade69f94f3ad793cbb24bd808a69ea sha1 3e4adab74f092a74a5b611f4a859993efeb0cbc2 )
+)
+
+game (
+	name "DYCP-Intro (1991)(The Force)[a3]"
+	description "DYCP-Intro (1991)(The Force)[a3]"
+	rom ( name "DYCP-Intro (1991)(The Force)[a3].d64" size 174848 crc bbda2103 md5 b73c1e5bc46c3911585fbed568c77eff sha1 f15717c0b627857f7a22ce2c4652feeeb3db1d43 )
+)
+
+game (
+	name "DYCP-Intro (1991)(The Force)[a]"
+	description "DYCP-Intro (1991)(The Force)[a]"
+	rom ( name "DYCP-Intro (1991)(The Force)[a].d64" size 174848 crc f87d8a96 md5 5874ddb8aa7a58ef524f8f5ce2943e81 sha1 0cfbaaaf61f161f9548c9e75781b056553900db1 )
+)
+
+game (
+	name "Ewoud Software Intro #2 (1989)(ESP)"
+	description "Ewoud Software Intro #2 (1989)(ESP)"
+	rom ( name "Ewoud Software Intro #2 (1989)(ESP).d64" size 174848 crc af0e80cc md5 0a7b079c6dae093c22d8e98a73b1d685 sha1 8658496f4c9113f4db5c7e3f7248e22a2f6777cd )
+)
+
+game (
+	name "Exotic Intro (1990-12)(Lore of Arts)"
+	description "Exotic Intro (1990-12)(Lore of Arts)"
+	rom ( name "Exotic Intro (1990-12)(Lore of Arts).d64" size 174848 crc 873f9023 md5 9995fadb4f2b9deb893d3a5c8775007e sha1 102812202e46c764745c1798fc510071bc153da4 )
+)
+
+game (
+	name "F4CG #63 (19xx)(Fantastic 4 Cracking Group)"
+	description "F4CG #63 (19xx)(Fantastic 4 Cracking Group)"
+	rom ( name "F4CG #63 (19xx)(Fantastic 4 Cracking Group).d64" size 174848 crc 1f3b88f0 md5 d458f3e895b5e865df7433d0cceaed50 sha1 a2dda527402bc5bfafb76e8b9416bc56d0d3ff20 )
+)
+
+game (
+	name "First Cannon Intro (1990)(Cannon)"
+	description "First Cannon Intro (1990)(Cannon)"
+	rom ( name "First Cannon Intro (1990)(Cannon).d64" size 174848 crc 7703e73b md5 763fb30f702069bace54a9e2f43dcee6 sha1 46b22cc9d05407853e95e6fd93d2b97c5d3388ea )
+)
+
+game (
+	name "FLT #09 (19xx)(Fairlight)"
+	description "FLT #09 (19xx)(Fairlight)"
+	rom ( name "FLT #09 (19xx)(Fairlight).d64" size 174848 crc 15f62ac1 md5 26ac8bb81e05c62292d4b1e9daa4f463 sha1 870ba68de830b6d5f7e2d75f34f6faf2bfe2e788 )
+)
+
+game (
+	name "Frank Intro Collection (1995)(Lepsi Development)"
+	description "Frank Intro Collection (1995)(Lepsi Development)"
+	rom ( name "Frank Intro Collection (1995)(Lepsi Development).d64" size 174848 crc 3cd6aee5 md5 b9851c683cf3e099f6e24aaccf07b391 sha1 2d1da4bf3024fefd9f06b29224fc61c7ca95e4b6 )
+)
+
+game (
+	name "GP's Intro V6.2 (1987)(Genesis Project)"
+	description "GP's Intro V6.2 (1987)(Genesis Project)"
+	rom ( name "GP's Intro V6.2 (1987)(Genesis Project).d64" size 174848 crc e2d5616c md5 adfe2e9bc543f162b89fbee1a94f7e17 sha1 5f9124b545a75123e842b8962da43943f62f69f4 )
+)
+
+game (
+	name "Horror Intro (19xx)(Crypt)"
+	description "Horror Intro (19xx)(Crypt)"
+	rom ( name "Horror Intro (19xx)(Crypt).d64" size 174848 crc c938cc08 md5 cc9ae8ad875ab0ea70e584cb7d01580c sha1 5f6e44f71221eb904f342b60a4b3319a011a0f7e )
+)
+
+game (
+	name "Horror Intro (19xx)(Crypt)[a]"
+	description "Horror Intro (19xx)(Crypt)[a]"
+	rom ( name "Horror Intro (19xx)(Crypt)[a].d64" size 174848 crc 49ab4dbd md5 14b5c872ae94342aeafa7dfaa5fb6a61 sha1 7f1e7c8b865597e61b2ca9ebe8c4b01a04c1c3ef )
+)
+
+game (
+	name "Hotline Intro (1989)(Hotline)"
+	description "Hotline Intro (1989)(Hotline)"
+	rom ( name "Hotline Intro (1989)(Hotline).d64" size 174848 crc b5e363b4 md5 27df769b4c07bcbf0ee1f59b04e59b63 sha1 eaf0bf9b588ff13bfc502578acbe11101236f158 )
+)
+
+game (
+	name "Hotline Intro (1989)(Unibit)"
+	description "Hotline Intro (1989)(Unibit)"
+	rom ( name "Hotline Intro (1989)(Unibit).d64" size 174848 crc 0b9634f2 md5 e8ead135f8d79e62216118408c531a7b sha1 b9d2d8052a419a13ea88ca279c21ecf74bf90a0f )
+)
+
+game (
+	name "Hotline Mega Intro Show (19xx)(Hotline)(Side A)"
+	description "Hotline Mega Intro Show (19xx)(Hotline)(Side A)"
+	rom ( name "Hotline Mega Intro Show (19xx)(Hotline)(Side A).d64" size 174848 crc 89c41994 md5 f971a12f994c115f1b9b8c60fdfb5652 sha1 fa0c19128c00e0caf5702d433d4f3e1bb5060933 )
+)
+
+game (
+	name "Hotline Mega Intro Show (19xx)(Hotline)(Side B)"
+	description "Hotline Mega Intro Show (19xx)(Hotline)(Side B)"
+	rom ( name "Hotline Mega Intro Show (19xx)(Hotline)(Side B).d64" size 174848 crc b3be4659 md5 b3a91f4c3fa2b03c7c0f9629eef7b258 sha1 752742084fa2ea45b491a757e5ffea41b8c762e6 )
+)
+
+game (
+	name "Hover Cracktro (1988-12)(Crypt)"
+	description "Hover Cracktro (1988-12)(Crypt)"
+	rom ( name "Hover Cracktro (1988-12)(Crypt).d64" size 174848 crc 889bd94d md5 90073a9ac2035a2c5840148d27c3c44e sha1 e9704d728bcef086437b257402ef25be5234f0f0 )
+)
+
+game (
+	name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)"
+	description "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)"
+	rom ( name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew).d64" size 174848 crc c0c56988 md5 c2ac61a2afa9f62cbbd61f9bdc9bf176 sha1 6398d43570d7e4c36672c5ddf7ad05ae9017e571 )
+)
+
+game (
+	name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a2]"
+	description "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a2]"
+	rom ( name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a2].d64" size 174848 crc e0c6cb9c md5 e00709e4ca530fc16a4cfbb0b8efd1e4 sha1 1b73fb9e3bfd729a26196f80751e3f2caeb95caf )
+)
+
+game (
+	name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a]"
+	description "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a]"
+	rom ( name "HVSC Intro (2005-01-28)(High Voltage Sid Collection Crew)[a].d64" size 174848 crc 070d0c98 md5 7f05e57311a8533dff2d8e20525d046e sha1 21aa66b7687c894bd80212459cc605b92d1e7477 )
+)
+
+game (
+	name "Intro #007 (1989-10)(Orion)"
+	description "Intro #007 (1989-10)(Orion)"
+	rom ( name "Intro #007 (1989-10)(Orion).d64" size 174848 crc 080726b9 md5 e8eca77de26ab5e6c12b698216b6766b sha1 460ca1259aaa50d3d9bdc73319f2bcfc31b29f75 )
+)
+
+game (
+	name "Intro '92 (1992)(Byterapers)"
+	description "Intro '92 (1992)(Byterapers)"
+	rom ( name "Intro '92 (1992)(Byterapers).d64" size 174848 crc b54583c4 md5 33005b3c6829563a88bbe87d63722b8b sha1 8bca52967b6af9852b63a74914d0bc7048591209 )
+)
+
+game (
+	name "Intro (1987)(The Artworx)"
+	description "Intro (1987)(The Artworx)"
+	rom ( name "Intro (1987)(The Artworx).d64" size 174848 crc 25a90b2f md5 9c7e773f830703094b4a27acd42085bd sha1 a950149f5081a154a7dac8453718551ce9ebe684 )
+)
+
+game (
+	name "Intro (1988)(Nukebusters)"
+	description "Intro (1988)(Nukebusters)"
+	rom ( name "Intro (1988)(Nukebusters).d64" size 174848 crc c297c245 md5 e864c2d621d80f5f20cabd32547b45ac sha1 bc99141b628dd55bc4ac5a596bf5650500b15beb )
+)
+
+game (
+	name "Intro (1996-06-01)(Cobal)"
+	description "Intro (1996-06-01)(Cobal)"
+	rom ( name "Intro (1996-06-01)(Cobal).d64" size 174848 crc ce7de0ce md5 c5b034f78275a9564bfb291287a12fed sha1 0c197a45f7962fac5a8a58f328ad29593cca3ac7 )
+)
+
+game (
+	name "Intro (1996-06-01)(Cobal)[a]"
+	description "Intro (1996-06-01)(Cobal)[a]"
+	rom ( name "Intro (1996-06-01)(Cobal)[a].d64" size 174848 crc 359d535a md5 805be1e955dc0093c14796aae85eaae0 sha1 fda0d6516caedb609ffa74e31275d06608d8cf2d )
+)
+
+game (
+	name "Intro (19xx)(Amnesty)"
+	description "Intro (19xx)(Amnesty)"
+	rom ( name "Intro (19xx)(Amnesty).d64" size 174848 crc 71c98c21 md5 df04e1508e540684d78471c0e0231622 sha1 3087010e6df72334428315b2c9592a581b502ae2 )
+)
+
+game (
+	name "Intro (19xx)(Bytestar)"
+	description "Intro (19xx)(Bytestar)"
+	rom ( name "Intro (19xx)(Bytestar).d64" size 174848 crc 3128bcc9 md5 fd71bdeab54a784865691032f700adac sha1 26d3db0990927ad57bdc4b7f516e9b056e8a6416 )
+)
+
+game (
+	name "Intro (19xx)(Verdict)"
+	description "Intro (19xx)(Verdict)"
+	rom ( name "Intro (19xx)(Verdict).d64" size 174848 crc 1475e34e md5 3c3cd0a4fc0a34953a1461f04156a57a sha1 18fdb499e53e862b1a4c2d3f510a118e12bb1ef5 )
+)
+
+game (
+	name "Intro (19xx)(Verdict)[a]"
+	description "Intro (19xx)(Verdict)[a]"
+	rom ( name "Intro (19xx)(Verdict)[a].d64" size 174848 crc d2dbd0ef md5 42eedf86eade45137e9bcf2e6ba9e2c2 sha1 fd4185951fea2c4be0f9c18865a614fda2d4f64d )
+)
+
+game (
+	name "Intro (2006-02)(Myth)"
+	description "Intro (2006-02)(Myth)"
+	rom ( name "Intro (2006-02)(Myth).d64" size 174848 crc 5ced8962 md5 9900e95617d0d1ce069ab264aa41dd01 sha1 26ef19211883dde7e3feb66b17dc4d54f7b9293c )
+)
+
+game (
+	name "Intro 01 (1987)(New Life)"
+	description "Intro 01 (1987)(New Life)"
+	rom ( name "Intro 01 (1987)(New Life).d64" size 174848 crc ad41677d md5 7a5df6d07912ef31835560672cf8869c sha1 d8779e6e11aabdc7310d0d3d99451a725e254c1d )
+)
+
+game (
+	name "Intro 01 (1987)(The Papillons Inc.)"
+	description "Intro 01 (1987)(The Papillons Inc.)"
+	rom ( name "Intro 01 (1987)(The Papillons Inc.).d64" size 174848 crc 1cd9436b md5 743b33be9739df692b526216868680e7 sha1 257f590e2f14688e7504c50d070f9677bed8f7f0 )
+)
+
+game (
+	name "Intro 02 (1987)(The Papillons Inc.)"
+	description "Intro 02 (1987)(The Papillons Inc.)"
+	rom ( name "Intro 02 (1987)(The Papillons Inc.).d64" size 174848 crc 32870a09 md5 a3670a0b4d33ce2747b40e6268a52e89 sha1 0cc711f41d6b84c6583c4c41847e0b329038a4aa )
+)
+
+game (
+	name "Intro 03 (19xx)(The Papillons Inc.)"
+	description "Intro 03 (19xx)(The Papillons Inc.)"
+	rom ( name "Intro 03 (19xx)(The Papillons Inc.).d64" size 174848 crc bae4e994 md5 10b23c44e57a3491e1268ba48629d507 sha1 aa2a7839f6796ae6d10ec19f378130eaf07a48d7 )
+)
+
+game (
+	name "Intro 1 (1987-02-28)(Trivial)"
+	description "Intro 1 (1987-02-28)(Trivial)"
+	rom ( name "Intro 1 (1987-02-28)(Trivial).d64" size 174848 crc 33b278db md5 dd30a8c0792567dd42641453b3b30f45 sha1 b39691d4209f2804d94d804edba4fe05dbed4029 )
+)
+
+game (
+	name "Intro 1 (1988)(Aron Cracker Crew)"
+	description "Intro 1 (1988)(Aron Cracker Crew)"
+	rom ( name "Intro 1 (1988)(Aron Cracker Crew).d64" size 174848 crc 62449217 md5 9772c256eb3525b2f9aa416966c3a7da sha1 e0a52d1a3bdf7c32f05aabf2e2e10c6e83c40df1 )
+)
+
+game (
+	name "Intro 1 (1988)(Aron Cracker Crew)[a]"
+	description "Intro 1 (1988)(Aron Cracker Crew)[a]"
+	rom ( name "Intro 1 (1988)(Aron Cracker Crew)[a].d64" size 174848 crc 006cf04b md5 e1a0ebce1198ab48e9bda053943d97c5 sha1 88ac911e84101f483770aac9edbc55fa8304e327 )
+)
+
+game (
+	name "Intro 1 (1989-08-01)(U2)"
+	description "Intro 1 (1989-08-01)(U2)"
+	rom ( name "Intro 1 (1989-08-01)(U2).d64" size 174848 crc 7254c1b6 md5 00209f8d0b3c4412e5d941323bb63f0c sha1 00ecff25600cc0042b0d529f07c88bfc4c3bf112 )
+)
+
+game (
+	name "Intro 1 (1990-10-30)(Antimon)"
+	description "Intro 1 (1990-10-30)(Antimon)"
+	rom ( name "Intro 1 (1990-10-30)(Antimon).d64" size 174848 crc 53e0c8f5 md5 92e10e1119f42f896bc56afb11ea146a sha1 d714a90ecb60c72574d9e242a1adb2af96977c6c )
+)
+
+game (
+	name "Intro 2 (1990-10-30)(Antimon)"
+	description "Intro 2 (1990-10-30)(Antimon)"
+	rom ( name "Intro 2 (1990-10-30)(Antimon).d64" size 174848 crc c0eebe63 md5 ce1ce111c862f9c0faa1516358a14d5f sha1 7667f18941e4a9368d3efff32bd1fc4b13a01e19 )
+)
+
+game (
+	name "Intro 3 (19xx)(Azoo)"
+	description "Intro 3 (19xx)(Azoo)"
+	rom ( name "Intro 3 (19xx)(Azoo).d64" size 174848 crc 72278d12 md5 95ca27159516de9bd2aac4cda68cedc0 sha1 81f6ddbc21771fad71fd8e4a02135304e5661311 )
+)
+
+game (
+	name "Intro 3 (19xx)(Azoo)[a]"
+	description "Intro 3 (19xx)(Azoo)[a]"
+	rom ( name "Intro 3 (19xx)(Azoo)[a].d64" size 174848 crc 3139bfbb md5 3f991e602f811960d3cc36557383ef98 sha1 020cb4bb7f5c2a3e52d050fca6fdf888cd122087 )
+)
+
+game (
+	name "Intro 33 (2003-06-15)(Wrath Designs)"
+	description "Intro 33 (2003-06-15)(Wrath Designs)"
+	rom ( name "Intro 33 (2003-06-15)(Wrath Designs).d64" size 174848 crc ab8dc32e md5 5f720c9c8be6adf7bdc9501e0d7e6e77 sha1 4dbcfa27b4defc0e508236c9d86127ff0674b010 )
+)
+
+game (
+	name "Intro 33 - Vandalism News (2003-06-15)(Wrath Designs)"
+	description "Intro 33 - Vandalism News (2003-06-15)(Wrath Designs)"
+	rom ( name "Intro 33 - Vandalism News (2003-06-15)(Wrath Designs).d64" size 174848 crc 53c9b34c md5 eb79e348ffdbea9399a697d2407eae85 sha1 1124500212d044e7af4fe9ef9fc9d08fc8eee452 )
+)
+
+game (
+	name "Intro 36 (2003-06-15)(Wrath Designs)"
+	description "Intro 36 (2003-06-15)(Wrath Designs)"
+	rom ( name "Intro 36 (2003-06-15)(Wrath Designs).d64" size 174848 crc 084c45f2 md5 703cbb2fdd9bf7ef2ab5ac54021c689a sha1 1e5f663a4973ba0f15e70f79a6ae028b187d35e0 )
+)
+
+game (
+	name "Intro 36 (2003-06-15)(Wrath Designs)[a]"
+	description "Intro 36 (2003-06-15)(Wrath Designs)[a]"
+	rom ( name "Intro 36 (2003-06-15)(Wrath Designs)[a].d64" size 174848 crc 42f48462 md5 4a4517741201da12ae4e9a044d787286 sha1 49508837376112db2be2503865ac6a46738e8033 )
+)
+
+game (
+	name "Intro 4 (1989)(Silicon Limited)"
+	description "Intro 4 (1989)(Silicon Limited)"
+	rom ( name "Intro 4 (1989)(Silicon Limited).d64" size 174848 crc 57b93381 md5 da90bd6530a86899c55a5b8d5728aeaf sha1 76393c72d545a217cefb3d34cede0cafc33db482 )
+)
+
+game (
+	name "Intro 4 Role (1990)(Silicon Limited)"
+	description "Intro 4 Role (1990)(Silicon Limited)"
+	rom ( name "Intro 4 Role (1990)(Silicon Limited).d64" size 174848 crc e8d51dbd md5 759c2c88f5ff18b292f0675345cba00c sha1 62f8106fd27b83b5d183d049f164a5d461a3f934 )
+)
+
+game (
+	name "Intro 88 (1988)(Triad)"
+	description "Intro 88 (1988)(Triad)"
+	rom ( name "Intro 88 (1988)(Triad).d64" size 174848 crc cea54c74 md5 1fe334ea59a88684426f6f63f2d79881 sha1 451f3b46882630591460759ec18c8f0d259a39bc )
+)
+
+game (
+	name "Intro 88 (1988)(Triad)[a2]"
+	description "Intro 88 (1988)(Triad)[a2]"
+	rom ( name "Intro 88 (1988)(Triad)[a2].d64" size 174848 crc eae335fb md5 88f20e66d0ea7cddcf145c46bd5a57b3 sha1 348997e19519dc08ca8490317e8cd6605dd59369 )
+)
+
+game (
+	name "Intro 88 (1988)(Triad)[a3]"
+	description "Intro 88 (1988)(Triad)[a3]"
+	rom ( name "Intro 88 (1988)(Triad)[a3].d64" size 174848 crc 23aa3fdf md5 012dd8641cb60619d93a4f5c9e690df0 sha1 c6ad1bd028d117a14c879af57aa8a5fcb239b8f7 )
+)
+
+game (
+	name "Intro 88 (1988)(Triad)[a]"
+	description "Intro 88 (1988)(Triad)[a]"
+	rom ( name "Intro 88 (1988)(Triad)[a].d64" size 174848 crc c1f2cba6 md5 3cd78052aa5c5a8f642e2860eb838ee5 sha1 e9584df69c825feccce860351d5df3acadab5344 )
+)
+
+game (
+	name "Intro Collection (1986)(1001 Crew)"
+	description "Intro Collection (1986)(1001 Crew)"
+	rom ( name "Intro Collection (1986)(1001 Crew).d64" size 174848 crc 9f0192e7 md5 fcc2e6057d8bbfb31ea2d2fac0ee5d16 sha1 e2b5db1bdb9741d6b160db1b4791a1a70852d252 )
+)
+
+game (
+	name "Intro Collection (1986)(1001 Crew)[a]"
+	description "Intro Collection (1986)(1001 Crew)[a]"
+	rom ( name "Intro Collection (1986)(1001 Crew)[a].d64" size 174848 crc 3ff9b81c md5 29c90334575b69e4df8a359b0936dba4 sha1 e911b6871a60b05c0364e5ee5a5d2544256cbcc2 )
+)
+
+game (
+	name "Intro Collection (1987)(Crackforce Omega)"
+	description "Intro Collection (1987)(Crackforce Omega)"
+	rom ( name "Intro Collection (1987)(Crackforce Omega).d64" size 174848 crc d3fe5c65 md5 76e0e4b3b26fac226b1cf0723b33c755 sha1 175a14681d91d969917a45c145088d661c7e10e3 )
+)
+
+game (
+	name "Intro Collection (1987)(Crackforce Omega)[a]"
+	description "Intro Collection (1987)(Crackforce Omega)[a]"
+	rom ( name "Intro Collection (1987)(Crackforce Omega)[a].d64" size 174848 crc 953a9453 md5 47c8a90b9a452c5fc84d0341abf39390 sha1 e289ad3d608565e10ed4492a245536667af0ee4c )
+)
+
+game (
+	name "Intro Collection (1988)(Agile)"
+	description "Intro Collection (1988)(Agile)"
+	rom ( name "Intro Collection (1988)(Agile).d64" size 174848 crc c2a5e139 md5 5cdee97e28c5bf84e05b6f920c0415a9 sha1 a34fb9df5d6b0b7ca4a57a7f5919eec2327bba6f )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)"
+	description "Intro Collection (1988)(The Sharks)"
+	rom ( name "Intro Collection (1988)(The Sharks).d64" size 174848 crc 09bf149b md5 4e8d9107ff0009a95802700f3e16d357 sha1 2ab21a58b7fce7d7937242618654dd43be8dd7d3 )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a2]"
+	description "Intro Collection (1988)(The Sharks)[a2]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a2].d64" size 174848 crc 15ccad8f md5 4632113ee8129c09e1265d5b6197b78b sha1 7d8c78cb577b0e4636909bd13551194cb705ce5c )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a3]"
+	description "Intro Collection (1988)(The Sharks)[a3]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a3].d64" size 174848 crc af36007b md5 88605e3a04de6036a2517dcba93585da sha1 292824fa90ae989254df211ebfcd32ffb0290113 )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a4]"
+	description "Intro Collection (1988)(The Sharks)[a4]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a4].d64" size 174848 crc 1397309f md5 c4d5f8cbe40aca5b6adf1d1da0f6804b sha1 011ead2f5de4e70bda2919fb1790a8fe0b0fbdf7 )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a5]"
+	description "Intro Collection (1988)(The Sharks)[a5]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a5].d64" size 174848 crc 2b84fcc6 md5 9a69ce175abfa4911e51416c5c1a98c1 sha1 365abbd295537fd18ca918a1973a19f3d60e686b )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a6]"
+	description "Intro Collection (1988)(The Sharks)[a6]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a6].d64" size 174848 crc f11a388e md5 ba5449684cb9a388cff03e551c34e02d sha1 bdb0d12fc23852d8d0d7190679993a1739002e8e )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a7]"
+	description "Intro Collection (1988)(The Sharks)[a7]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a7].d64" size 174848 crc 025a4464 md5 7847f34f56d90bb624ea004b6c1a1dd6 sha1 a496867b6333fb3a7f914c3ce8c4cb21e980fac6 )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)[a]"
+	description "Intro Collection (1988)(The Sharks)[a]"
+	rom ( name "Intro Collection (1988)(The Sharks)[a].d64" size 174848 crc c3066114 md5 37910686213a7ca1d0b3f35221f7f8a0 sha1 c5d8ddd752d0ea552305877e92401b9a2d2e29cd )
+)
+
+game (
+	name "Intro Collection (1989)(Abnormal)"
+	description "Intro Collection (1989)(Abnormal)"
+	rom ( name "Intro Collection (1989)(Abnormal).d64" size 174848 crc a131a98d md5 a7527d3a4d2a1267d7921e4679edabda sha1 a4b8d50b5331583f53789b37c76a7d89b161558b )
+)
+
+game (
+	name "Intro Collection (1989)(Abnormal)[a]"
+	description "Intro Collection (1989)(Abnormal)[a]"
+	rom ( name "Intro Collection (1989)(Abnormal)[a].d64" size 174848 crc 44248a97 md5 22540e37b10ce1d2af2060e34b7a7a0f sha1 6db6f70ad9eef5d74d9b08079692214ff8af0cd1 )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)"
+	description "Intro Collection (1989-02)(Byterapers)"
+	rom ( name "Intro Collection (1989-02)(Byterapers).d64" size 174848 crc f15dc85c md5 68bf76cfa7da0ab589d3f3a1abe14888 sha1 a0270b55ee040d4b544af6ad722bfeb178bbdb17 )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)[a2]"
+	description "Intro Collection (1989-02)(Byterapers)[a2]"
+	rom ( name "Intro Collection (1989-02)(Byterapers)[a2].d64" size 174848 crc 4559295a md5 b50bb24e9cfef898621178af7135c592 sha1 695064ede1fad43255e19825825071306e26ae5d )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)[a3]"
+	description "Intro Collection (1989-02)(Byterapers)[a3]"
+	rom ( name "Intro Collection (1989-02)(Byterapers)[a3].d64" size 174848 crc 64cb894a md5 83cb45ff9bc8a8300c440b43043a2db5 sha1 02ba45099d4c427d3596401e2177f716e0ff5c3e )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)[a4]"
+	description "Intro Collection (1989-02)(Byterapers)[a4]"
+	rom ( name "Intro Collection (1989-02)(Byterapers)[a4].d64" size 174848 crc a0d60aa8 md5 fc1676436f15924c896a9d5262358c91 sha1 a30f3a0846cd6426f7e9b356c53dc0bbe2f1338b )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)[a5]"
+	description "Intro Collection (1989-02)(Byterapers)[a5]"
+	rom ( name "Intro Collection (1989-02)(Byterapers)[a5].d64" size 174848 crc c73ed73d md5 e83e4d059fe1150a07cdd9d1133cedcc sha1 6dca6f27cde5d9694c3d82a3df00742dbd47efa9 )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)[a]"
+	description "Intro Collection (1989-02)(Byterapers)[a]"
+	rom ( name "Intro Collection (1989-02)(Byterapers)[a].d64" size 174848 crc 5124112d md5 c2c22de8c355ade02f5addbc3d519a8a sha1 2d5084a1000d345993564a7d1f4bcc78c8b3a9c5 )
+)
+
+game (
+	name "Intro Collection (1994)(KGB)"
+	description "Intro Collection (1994)(KGB)"
+	rom ( name "Intro Collection (1994)(KGB).d64" size 174848 crc b0e224cd md5 32a5adc37f9e06e2b3a980338ae3ae05 sha1 305af671b5807d274e8ae051a794c7f40a3aa280 )
+)
+
+game (
+	name "Intro Collection (19xx)(-)"
+	description "Intro Collection (19xx)(-)"
+	rom ( name "Intro Collection (19xx)(-).d64" size 174848 crc 5e60279c md5 0ac33a5963f8bc8328841d64e9773c26 sha1 aaf703b30ad369f8b8358c94c3149c28eff2d0dc )
+)
+
+game (
+	name "Intro Collection (19xx)(Jewels)"
+	description "Intro Collection (19xx)(Jewels)"
+	rom ( name "Intro Collection (19xx)(Jewels).d64" size 174848 crc 8582693a md5 6f6ce2e3c10b99a50955e75c92fe9cae sha1 cc95f9ffeca682df957511c52b00130366104ae0 )
+)
+
+game (
+	name "Intro Collection (19xx)(Jewels)[a2]"
+	description "Intro Collection (19xx)(Jewels)[a2]"
+	rom ( name "Intro Collection (19xx)(Jewels)[a2].d64" size 174848 crc 3a0e0772 md5 795a196544cd7d215728251a4bfaf05c sha1 027c087a52970df252c8ec39714d0042a9a197de )
+)
+
+game (
+	name "Intro Collection (19xx)(Jewels)[a3]"
+	description "Intro Collection (19xx)(Jewels)[a3]"
+	rom ( name "Intro Collection (19xx)(Jewels)[a3].d64" size 174848 crc 190f853c md5 382e0d7d3e6cb241cf095bee5f81366b sha1 fd4ec3e357b44c4767b3dcd552cdbe2f1e32a477 )
+)
+
+game (
+	name "Intro Collection (19xx)(Jewels)[a4]"
+	description "Intro Collection (19xx)(Jewels)[a4]"
+	rom ( name "Intro Collection (19xx)(Jewels)[a4].d64" size 174848 crc dfa1b69d md5 278cd8eb890e99415bb674a762a91b55 sha1 a8328c79413c1fa680b55529ed501c696d103a14 )
+)
+
+game (
+	name "Intro Collection (19xx)(Jewels)[a]"
+	description "Intro Collection (19xx)(Jewels)[a]"
+	rom ( name "Intro Collection (19xx)(Jewels)[a].d64" size 174848 crc 9ef7220f md5 350a1114f1b0dd4074078ed907213a12 sha1 9fac6e4dffac74789ec9f5fa7e6223c52f9e21e3 )
+)
+
+game (
+	name "Intro Collection (19xx)(SGS)"
+	description "Intro Collection (19xx)(SGS)"
+	rom ( name "Intro Collection (19xx)(SGS).d64" size 174848 crc 14f2a042 md5 a8faaeddc97f051fcd5863f48f380d68 sha1 fc4d8f2d58651271f02403f993eee52e075225a0 )
+)
+
+game (
+	name "Intro Collection (2009-11-20)(Booze Design)"
+	description "Intro Collection (2009-11-20)(Booze Design)"
+	rom ( name "Intro Collection (2009-11-20)(Booze Design).d64" size 174848 crc 1386753c md5 c6a13dea525a09b74a8c66bf562966e1 sha1 86e862b543d737b54fcdc2b012b3a6007d69ffb8 )
+)
+
+game (
+	name "Intro Collection 1 (1987-11-01)(Shield)"
+	description "Intro Collection 1 (1987-11-01)(Shield)"
+	rom ( name "Intro Collection 1 (1987-11-01)(Shield).d64" size 174848 crc 3b3f697b md5 b9e6d48f85a5c6f97063bb0a2ebac03f sha1 a915102ed5a4d4309a0ea8fdd8e9ee7053bcda92 )
+)
+
+game (
+	name "Intro Collection 1 (1987-11-01)(Shield)[a]"
+	description "Intro Collection 1 (1987-11-01)(Shield)[a]"
+	rom ( name "Intro Collection 1 (1987-11-01)(Shield)[a].d64" size 174848 crc 7bd9542f md5 79dcb10fd892f157389f429eec4c0498 sha1 5b6f2b1870b73b8c75e364048ad44427f26ff02d )
+)
+
+game (
+	name "Intro Collection 1 (1989)(Exult)"
+	description "Intro Collection 1 (1989)(Exult)"
+	rom ( name "Intro Collection 1 (1989)(Exult).d64" size 174848 crc ded46300 md5 e70eeb2320ef1420f1bed9813b5f3047 sha1 ce4043f41bb209a1db8bcf1490a82225a1629370 )
+)
+
+game (
+	name "Intro Collection 1 (1989)(Exult)[a]"
+	description "Intro Collection 1 (1989)(Exult)[a]"
+	rom ( name "Intro Collection 1 (1989)(Exult)[a].d64" size 174848 crc bfe506d9 md5 afe1f2d84ae380722cb5cbb257336d49 sha1 befda4986b5c2eae918d9d56967b7fe4a7b75c77 )
+)
+
+game (
+	name "Intro Collection, The (1987-05-28)(New Dimension)"
+	description "Intro Collection, The (1987-05-28)(New Dimension)"
+	rom ( name "Intro Collection, The (1987-05-28)(New Dimension).d64" size 174848 crc 669d6986 md5 efad989c91fdd2804fa8f378994c18d9 sha1 056af17102d4d54274e080324d5b47375a255a7d )
+)
+
+game (
+	name "Intro Demo (1987)(Le Squadron Dominant - Sita Soft)"
+	description "Intro Demo (1987)(Le Squadron Dominant - Sita Soft)"
+	rom ( name "Intro Demo (1987)(Le Squadron Dominant - Sita Soft).d64" size 174848 crc f9de7d71 md5 e0c2e759f797c7c8f15e557eea644138 sha1 7b7ea8382c792b66d4baf9fa80af407406cfbdc4 )
+)
+
+game (
+	name "Intro for Channel 42 (1989)(FBI Crew)"
+	description "Intro for Channel 42 (1989)(FBI Crew)"
+	rom ( name "Intro for Channel 42 (1989)(FBI Crew).d64" size 174848 crc b74f4ffa md5 b5d662233ba335a39b4c0c3dcd768ce6 sha1 3e82247ff8b21fc8b3807af12eb0899d463053d7 )
+)
+
+game (
+	name "Intro for Channel 42 (1989)(FBI Crew)[a2]"
+	description "Intro for Channel 42 (1989)(FBI Crew)[a2]"
+	rom ( name "Intro for Channel 42 (1989)(FBI Crew)[a2].d64" size 174848 crc 40883068 md5 0264176ef699fe7eb9ceca0960da0da3 sha1 a46fc215a5c98818d0355636c893d8b0bd31ca23 )
+)
+
+game (
+	name "Intro for Channel 42 (1989)(FBI Crew)[a3]"
+	description "Intro for Channel 42 (1989)(FBI Crew)[a3]"
+	rom ( name "Intro for Channel 42 (1989)(FBI Crew)[a3].d64" size 174848 crc 58b119f4 md5 0627d336f1a8487201ee87c8444939fb sha1 0cda244945fac935b8e5c39bb87ad0715d8078d3 )
+)
+
+game (
+	name "Intro for Channel 42 (1989)(FBI Crew)[a]"
+	description "Intro for Channel 42 (1989)(FBI Crew)[a]"
+	rom ( name "Intro for Channel 42 (1989)(FBI Crew)[a].d64" size 174848 crc be221c49 md5 4afddc57f36327c60b6cf68c03b7232c sha1 64eb4fb683b85373a8dc82479b8b036b0b3642d8 )
+)
+
+game (
+	name "Intro for Crypt (2006-07-15)(Silicon Limited)"
+	description "Intro for Crypt (2006-07-15)(Silicon Limited)"
+	rom ( name "Intro for Crypt (2006-07-15)(Silicon Limited).d64" size 174848 crc 246fa801 md5 3947b553d309e096c261efd15960df17 sha1 de3af1ed67c42c24fc8730e62005b97ca5c5f478 )
+)
+
+game (
+	name "Intro For F4CG (19xx)(Akrak)"
+	description "Intro For F4CG (19xx)(Akrak)"
+	rom ( name "Intro For F4CG (19xx)(Akrak).d64" size 174848 crc 0e711e60 md5 981bed48e8965b91cc4f38bc032d7ac7 sha1 6ac0ccd4c18790f36a58a7e9de712b2b312d705c )
+)
+
+game (
+	name "Intro For F4CG (19xx)(Akrak)[a]"
+	description "Intro For F4CG (19xx)(Akrak)[a]"
+	rom ( name "Intro For F4CG (19xx)(Akrak)[a].d64" size 174848 crc 7c49b0b0 md5 5b9d0baa1b278cf69c38dbf64a5cb0d3 sha1 8c6b4f77886bd427dbc7f8feebc71a4190ce420d )
+)
+
+game (
+	name "Intro for Falcon (1989-11)(Drive)"
+	description "Intro for Falcon (1989-11)(Drive)"
+	rom ( name "Intro for Falcon (1989-11)(Drive).d64" size 174848 crc 7dc8dc87 md5 1c5d742a5e1ce6b353ab10a93a2c9f4c sha1 995bbfef77c4a405efb4dd43857d13d510b1a4f7 )
+)
+
+game (
+	name "Intro for Fantasy (19xx)(Wanderer)"
+	description "Intro for Fantasy (19xx)(Wanderer)"
+	rom ( name "Intro for Fantasy (19xx)(Wanderer).d64" size 174848 crc 1c0beacb md5 8e8b2c39702b9ec88dad8765a82f0bb6 sha1 318dcee2f783f78467cefaa79f4b8de152108f02 )
+)
+
+game (
+	name "Intro for Fantasy (19xx)(Wanderer)[a2]"
+	description "Intro for Fantasy (19xx)(Wanderer)[a2]"
+	rom ( name "Intro for Fantasy (19xx)(Wanderer)[a2].d64" size 174848 crc b5a70349 md5 75e52ef02bb3cd983184d2192d7b83f9 sha1 73d5cddd7e46bfc19f5d7b64adb313b11c321b4c )
+)
+
+game (
+	name "Intro for Fantasy (19xx)(Wanderer)[a3]"
+	description "Intro for Fantasy (19xx)(Wanderer)[a3]"
+	rom ( name "Intro for Fantasy (19xx)(Wanderer)[a3].d64" size 174848 crc 7f24d5e8 md5 deb18f4b933a8b0ccb496ec5956415fd sha1 be5a8dea2fb45336409362f6718d0355e9ad5494 )
+)
+
+game (
+	name "Intro for Fantasy (19xx)(Wanderer)[a]"
+	description "Intro for Fantasy (19xx)(Wanderer)[a]"
+	rom ( name "Intro for Fantasy (19xx)(Wanderer)[a].d64" size 174848 crc 8e664770 md5 2caf423b9a2d2bd956369bb9249b4877 sha1 75a0b55c9aa616f8bc4a303857d96618537b490d )
+)
+
+game (
+	name "Intro for Genesis Project (19xx)(World Wide Expressive)"
+	description "Intro for Genesis Project (19xx)(World Wide Expressive)"
+	rom ( name "Intro for Genesis Project (19xx)(World Wide Expressive).d64" size 174848 crc 495fb2e7 md5 6ca9a0bc79e045d323788c581f303a5f sha1 094a32d53dd4d6bdcab8977d9d118dfddaba8e3c )
+)
+
+game (
+	name "Intro for Ikari (1987)(The Great Human)"
+	description "Intro for Ikari (1987)(The Great Human)"
+	rom ( name "Intro for Ikari (1987)(The Great Human).d64" size 174848 crc e17d6a8b md5 ba2fa7abce12c9c056433c8c03754965 sha1 5a85d5f1ef887af301205f4c12e7ed686d97fbb9 )
+)
+
+game (
+	name "Intro for Ikari (1987)(The Great Human)[a]"
+	description "Intro for Ikari (1987)(The Great Human)[a]"
+	rom ( name "Intro for Ikari (1987)(The Great Human)[a].d64" size 174848 crc 5fd6448b md5 017bee63d5095db06774a838ea73e931 sha1 227ae90b5c3f5d7c7aa7fd86105d5630ff11eb61 )
+)
+
+game (
+	name "Intro for Ikari v2 (19xx)(Jean of FBI Crew)"
+	description "Intro for Ikari v2 (19xx)(Jean of FBI Crew)"
+	rom ( name "Intro for Ikari v2 (19xx)(Jean of FBI Crew).d64" size 174848 crc c0dacdeb md5 dab54fdd6d41abb70eb5183aade20e7e sha1 797344415883c8db7e3aa4fdd472ffd9d1bf8b5b )
+)
+
+game (
+	name "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a2]"
+	description "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a2]"
+	rom ( name "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a2].d64" size 174848 crc c1fddc69 md5 f8aef22a3f39d281ccb7cbc2eb1a8778 sha1 d89d3bae58f534012a8f0659ad3e2fa4d4069404 )
+)
+
+game (
+	name "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a]"
+	description "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a]"
+	rom ( name "Intro for Ikari v2 (19xx)(Jean of FBI Crew)[a].d64" size 174848 crc 7d782c44 md5 7412da7bdad553640ba61302df77879a sha1 9cb8f9098c7c4b20f91a3f94ef4206800e8d94db )
+)
+
+game (
+	name "Intro for Ikari+Talent (19xx)(Kwon of Bonzai)"
+	description "Intro for Ikari+Talent (19xx)(Kwon of Bonzai)"
+	rom ( name "Intro for Ikari+Talent (19xx)(Kwon of Bonzai).d64" size 174848 crc c3f5672f md5 cc79a05931520ba4f0a0be2f5f855f61 sha1 49de5d113b8f68125276e17a0be3910ac45b104f )
+)
+
+game (
+	name "Intro for Ikari+Talent (19xx)(Kwon of Bonzai)[a]"
+	description "Intro for Ikari+Talent (19xx)(Kwon of Bonzai)[a]"
+	rom ( name "Intro for Ikari+Talent (19xx)(Kwon of Bonzai)[a].d64" size 174848 crc bbbb1c82 md5 02f367620e7210049b376f30812ca562 sha1 e3d9f828480247b6acc2315534734a323c79c18d )
+)
+
+game (
+	name "Intro for NEC v1 (19xx)(Wanderer)"
+	description "Intro for NEC v1 (19xx)(Wanderer)"
+	rom ( name "Intro for NEC v1 (19xx)(Wanderer).d64" size 174848 crc e3737aa7 md5 29b0980d91b9f4ba047bd2a5da182072 sha1 aed03d592128d026855a419b585d17f592ce8d92 )
+)
+
+game (
+	name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)"
+	description "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)"
+	rom ( name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome).d64" size 174848 crc f683108c md5 0b97acb74c90bf26aeadc711ed3de5ae sha1 db56479afdcda43b54f77bccddf192a888eef267 )
+)
+
+game (
+	name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a2]"
+	description "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a2]"
+	rom ( name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a2].d64" size 174848 crc 589bbe8f md5 f8500bfa5061f43d0ad5a1c4064d9047 sha1 a9e639afbdadccede588c987fd4502d0e74ba825 )
+)
+
+game (
+	name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a]"
+	description "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a]"
+	rom ( name "Intro for Warriors of the Wasteland (19xx)(Rogue of Awesome)[a].d64" size 174848 crc 3a0375f0 md5 8331750de85d07b3af3a29491789dc96 sha1 1ebc519ec69998df14d83df1de9debf474d57dfe )
+)
+
+game (
+	name "Intro Hawk International (19xx)(Hawk International)"
+	description "Intro Hawk International (19xx)(Hawk International)"
+	rom ( name "Intro Hawk International (19xx)(Hawk International).d64" size 174848 crc c983c13d md5 d2ce3f7a888c13255afd239c202e132d sha1 811b4e5694cc5877016ea343e26ad13e7e1d4bcd )
+)
+
+game (
+	name "Intro I (1990-02-13)(Unit 5)"
+	description "Intro I (1990-02-13)(Unit 5)"
+	rom ( name "Intro I (1990-02-13)(Unit 5).d64" size 174848 crc 2fe50729 md5 d944c0cd05b5226cfb5eb493e3f589ac sha1 cca6ebd43f3663bb32fd930156a600bc38d2e32f )
+)
+
+game (
+	name "Intro II (1990-02-09)(Unit 5)"
+	description "Intro II (1990-02-09)(Unit 5)"
+	rom ( name "Intro II (1990-02-09)(Unit 5).d64" size 174848 crc 83e82ee9 md5 e1a3601fb36972158200af1165cc8d09 sha1 bdec73cb947c10bbe8eb11f7b417ba11a54c1bd5 )
+)
+
+game (
+	name "Intro Missing (19xx)(Tristar)"
+	description "Intro Missing (19xx)(Tristar)"
+	rom ( name "Intro Missing (19xx)(Tristar).d64" size 174848 crc 92877269 md5 2224273e0a971e4bda09fbc32b8bda35 sha1 cf967d3dde7749b1b923e317d83a7359c0228227 )
+)
+
+game (
+	name "Intro No 99 (1989)(Bytestar)"
+	description "Intro No 99 (1989)(Bytestar)"
+	rom ( name "Intro No 99 (1989)(Bytestar).d64" size 174848 crc 292a9c48 md5 9bbd6a4794d44fd6aeded0bece17dc6c sha1 5e3453bb46972b061524eddb6789a17878cd245e )
+)
+
+game (
+	name "Intro Preview (1988-09-05)(Digitize Design Group)"
+	description "Intro Preview (1988-09-05)(Digitize Design Group)"
+	rom ( name "Intro Preview (1988-09-05)(Digitize Design Group).d64" size 174848 crc dec5d4b1 md5 fb757c36930d4a3c61e90fb2de5f542e sha1 4d7be31d454021a9c9c4f117add4ef667d2fae34 )
+)
+
+game (
+	name "Intro Preview (19xx)(FBI Crew)"
+	description "Intro Preview (19xx)(FBI Crew)"
+	rom ( name "Intro Preview (19xx)(FBI Crew).d64" size 174848 crc f85889d7 md5 28837c3440e3220d5d9d3e54dbdea1ba sha1 b0684c46c2c3f4e2221b9602a99076e6af078ce6 )
+)
+
+game (
+	name "Intro Preview (19xx)(Rape)"
+	description "Intro Preview (19xx)(Rape)"
+	rom ( name "Intro Preview (19xx)(Rape).d64" size 174848 crc 0e39101e md5 1e98dbb3b998618e47ca832c3ef3af48 sha1 f812c832f8f79b0626405e1bfd6cc49b9ed913df )
+)
+
+game (
+	name "Intro Preview (19xx)(Success)"
+	description "Intro Preview (19xx)(Success)"
+	rom ( name "Intro Preview (19xx)(Success).d64" size 174848 crc 18e68c47 md5 dc0980d7db6d576044e1a92bfa8d840e sha1 74f7bc3bfd7a4d161e20c8ec7c6e4f89ce4a9ef0 )
+)
+
+game (
+	name "Intro Preview (19xx)(Success)[a]"
+	description "Intro Preview (19xx)(Success)[a]"
+	rom ( name "Intro Preview (19xx)(Success)[a].d64" size 174848 crc 12b9cc99 md5 5307d8a28da5f2c88b905bfaf654d02b sha1 f37be89aaecd235f857f665fcedcae7d2037ae2f )
+)
+
+game (
+	name "Intro Tune (1989)(Origo Dreamline)"
+	description "Intro Tune (1989)(Origo Dreamline)"
+	rom ( name "Intro Tune (1989)(Origo Dreamline).d64" size 174848 crc 03407b86 md5 cc147237811b1c6ee2768692e0b52abc sha1 42160093fa29004e7f85f76559ad4e719c946a8f )
+)
+
+game (
+	name "Intro V1 (1989)(Bytestar)"
+	description "Intro V1 (1989)(Bytestar)"
+	rom ( name "Intro V1 (1989)(Bytestar).d64" size 174848 crc 8809e581 md5 d96d980dd9d5f61a148eba1d3df63b01 sha1 d1a303739197eddeb5ab3f8aeaf21d77148a984e )
+)
+
+game (
+	name "Intro v1.0 (19xx)(Flash)"
+	description "Intro v1.0 (19xx)(Flash)"
+	rom ( name "Intro v1.0 (19xx)(Flash).d64" size 174848 crc c6f390ec md5 2f70c58140688f4dd7ff4c33ac8eba82 sha1 621beffa4fd05b3decc646f79400680c9ed7e0d9 )
+)
+
+game (
+	name "Intro v1.0 (19xx)(Flash)[a]"
+	description "Intro v1.0 (19xx)(Flash)[a]"
+	rom ( name "Intro v1.0 (19xx)(Flash)[a].d64" size 174848 crc 005da34d md5 e9b5030c7907fea25dea60b6f65f7ee4 sha1 3e0086b8350840bd9ee1b2517a5fcd3efb533072 )
+)
+
+game (
+	name "Intro V1.1 (19xx)(The Wanderer Group)"
+	description "Intro V1.1 (19xx)(The Wanderer Group)"
+	rom ( name "Intro V1.1 (19xx)(The Wanderer Group).d64" size 174848 crc 854cd27b md5 baf465fcc3c7c2191a83e184bb9f3071 sha1 70cb80c42907a8f5e8bf5f845748206f36c4247c )
+)
+
+game (
+	name "Intro V1.2 (19xx)(Active Cracking Crew)"
+	description "Intro V1.2 (19xx)(Active Cracking Crew)"
+	rom ( name "Intro V1.2 (19xx)(Active Cracking Crew).d64" size 174848 crc ad243b45 md5 9387487fe773093ff5f3d7d4e2647606 sha1 370351abc623be63b688fecc3fe2547d6a17609c )
+)
+
+game (
+	name "Intro V1.2 (19xx)(Elite)"
+	description "Intro V1.2 (19xx)(Elite)"
+	rom ( name "Intro V1.2 (19xx)(Elite).d64" size 174848 crc ebb73ce4 md5 d3ea4c3f8e1460977180b2bcc1ec6072 sha1 efbccaf03a051d1432ee02518cdf652580769bfd )
+)
+
+game (
+	name "Intro V10 (19xx)(7up)"
+	description "Intro V10 (19xx)(7up)"
+	rom ( name "Intro V10 (19xx)(7up).d64" size 174848 crc c4f6de01 md5 8096ad66b369306d5a5ff11b107cb5f3 sha1 368fa3e1511a9e785b319958f2f3ee492e740492 )
+)
+
+game (
+	name "Intro V2 (1989)(Bytestar)"
+	description "Intro V2 (1989)(Bytestar)"
+	rom ( name "Intro V2 (1989)(Bytestar).d64" size 174848 crc 75974429 md5 ff5416809963468033e76721a8d4b36c sha1 ebf98914cfcee9ef89610d0fbc8d1fd97a913df8 )
+)
+
+game (
+	name "Intro V3 (1989)(Bytestar)"
+	description "Intro V3 (1989)(Bytestar)"
+	rom ( name "Intro V3 (1989)(Bytestar).d64" size 174848 crc 51351d75 md5 28b175523b93ffde55ebbb52bf6557b9 sha1 d76342027685ae53a8cf1a1bf70790f4ba3ef3e5 )
+)
+
+game (
+	name "Intro V4 (1989)(Bytestar)"
+	description "Intro V4 (1989)(Bytestar)"
+	rom ( name "Intro V4 (1989)(Bytestar).d64" size 174848 crc 15be65e7 md5 ee031de1109a7b577dd72418d71178fd sha1 31d71e3117405fb88fe6fc0e97b850da35d1f125 )
+)
+
+game (
+	name "Intro V8 (19xx)(7up)"
+	description "Intro V8 (19xx)(7up)"
+	rom ( name "Intro V8 (19xx)(7up).d64" size 174848 crc 3f37cca6 md5 3fd4ac76f840eeccf2e68837957e964f sha1 1a9e8e0f48c4ccff44018254dfacbcf83a7b8928 )
+)
+
+game (
+	name "Intro Version 1 (1989)(Tristar)"
+	description "Intro Version 1 (1989)(Tristar)"
+	rom ( name "Intro Version 1 (1989)(Tristar).d64" size 174848 crc bdb955be md5 3b1c10038b12cbd66b37f1c70de4ceed sha1 299b38066f4b1cd64833e3f226e8c0373bc3cdc7 )
+)
+
+game (
+	name "Intro, The (1988-03-28)(Atlantis)"
+	description "Intro, The (1988-03-28)(Atlantis)"
+	rom ( name "Intro, The (1988-03-28)(Atlantis).d64" size 174848 crc 7f800f8d md5 b1099d712bc40d6b0f607b224a6a50fc sha1 f8c3d5d26bfff7b79601a52b1abafdc124f657fb )
+)
+
+game (
+	name "Introcollection (1988-06-16)(Agile)"
+	description "Introcollection (1988-06-16)(Agile)"
+	rom ( name "Introcollection (1988-06-16)(Agile).d64" size 174848 crc 93946fb3 md5 7dc9884e6663475b3612d3444a657da8 sha1 dd45021da13b785c89bcd408b12e9949a3867004 )
+)
+
+game (
+	name "Introcollection 1 (1988)(Razor Express 2772)"
+	description "Introcollection 1 (1988)(Razor Express 2772)"
+	rom ( name "Introcollection 1 (1988)(Razor Express 2772).d64" size 174848 crc 2804d9d0 md5 4f4bc935aa52a75b10761c7acf655333 sha1 7c5b920642922eb9c30f0a928f673893f20bac13 )
+)
+
+game (
+	name "Introcollection 1 (1988)(Razor Express 2772)[a2]"
+	description "Introcollection 1 (1988)(Razor Express 2772)[a2]"
+	rom ( name "Introcollection 1 (1988)(Razor Express 2772)[a2].d64" size 174848 crc 2bb22093 md5 4b3c68b7b5abb5ae7f5316c7ccf9ff05 sha1 249538d94bdd02e6b36f5958f6c91df0e8c4a536 )
+)
+
+game (
+	name "Introcollection 1 (1988)(Razor Express 2772)[a]"
+	description "Introcollection 1 (1988)(Razor Express 2772)[a]"
+	rom ( name "Introcollection 1 (1988)(Razor Express 2772)[a].d64" size 174848 crc 0bd05efa md5 b5414bff37dae8bc1f775f093c887f71 sha1 b110fc4050f832d5bb0bcc8dd9d0c67c1d1f6117 )
+)
+
+game (
+	name "Intropack I (1987)(Computer Cracking Team)"
+	description "Intropack I (1987)(Computer Cracking Team)"
+	rom ( name "Intropack I (1987)(Computer Cracking Team).d64" size 174848 crc 0c4559ef md5 3738e0b50ac42a95b2a2a978f670c085 sha1 e08e97f75ae8e2cadadd8f2b9cfc1739fc4a988e )
+)
+
+game (
+	name "Intropack I (1987)(Computer Cracking Team)[a2]"
+	description "Intropack I (1987)(Computer Cracking Team)[a2]"
+	rom ( name "Intropack I (1987)(Computer Cracking Team)[a2].d64" size 174848 crc 315de150 md5 8b36a5d577b8a2a3bcb79bc3b72a3de2 sha1 9da2077ae25f3d9ef59f946c7bb5d6c132e12d39 )
+)
+
+game (
+	name "Intropack I (1987)(Computer Cracking Team)[a]"
+	description "Intropack I (1987)(Computer Cracking Team)[a]"
+	rom ( name "Intropack I (1987)(Computer Cracking Team)[a].d64" size 174848 crc c007226b md5 4dba001c82d34987efa7580835ffb9b8 sha1 3818717b3bb76ea94803a3e1e11fc71943c4a54f )
+)
+
+game (
+	name "Intropack II (1987)(Computer Cracking Team)"
+	description "Intropack II (1987)(Computer Cracking Team)"
+	rom ( name "Intropack II (1987)(Computer Cracking Team).d64" size 174848 crc b071504f md5 e58ce33bec34f45eb73ddded3cca894e sha1 9bb25a1f3392e38cda9281bdfa0b787e352f8c68 )
+)
+
+game (
+	name "Intropack II (1987)(Computer Cracking Team)[a]"
+	description "Intropack II (1987)(Computer Cracking Team)[a]"
+	rom ( name "Intropack II (1987)(Computer Cracking Team)[a].d64" size 174848 crc 7c332bcb md5 d0752c334d0f3d2dbf61c5909b4c5b76 sha1 27195e2afcab4e4003d6ae2dd89f422228028b91 )
+)
+
+game (
+	name "INXS #02 (19xx)(INXS)"
+	description "INXS #02 (19xx)(INXS)"
+	rom ( name "INXS #02 (19xx)(INXS).d64" size 174848 crc 19dd910f md5 5e3cdcfb9ec22e2c0088df2ce267244b sha1 ff9375ca1fdffaa798cccc1d6f170b16b9bca67d )
+)
+
+game (
+	name "Inxs #1 (19xx)(INXS)"
+	description "Inxs #1 (19xx)(INXS)"
+	rom ( name "Inxs #1 (19xx)(INXS).d64" size 174848 crc 32770814 md5 12e87ef768bc3f788d1e8f35fabba14f sha1 8dbc7207de1ad01d8b7b8b1468c451ef4f6f72a5 )
+)
+
+game (
+	name "Inxs #1 (19xx)(INXS)[a]"
+	description "Inxs #1 (19xx)(INXS)[a]"
+	rom ( name "Inxs #1 (19xx)(INXS)[a].d64" size 174848 crc db98ea40 md5 93e09e9c09bd9637546b72afdaa8cf33 sha1 28a818e79523e5ee4f83d529c959508413d94969 )
+)
+
+game (
+	name "Inxs #2 (1988)(INXS)"
+	description "Inxs #2 (1988)(INXS)"
+	rom ( name "Inxs #2 (1988)(INXS).d64" size 174848 crc 6d5ca1c4 md5 51097f91147af32760b4b74d5e5c6766 sha1 25bd2a21314ea5111d7ac5a40ae6d634d82f36fe )
+)
+
+game (
+	name "Krabat Crew #02 (19xx)(Krabat Crew)"
+	description "Krabat Crew #02 (19xx)(Krabat Crew)"
+	rom ( name "Krabat Crew #02 (19xx)(Krabat Crew).d64" size 174848 crc 30139396 md5 7638eff24cdc499cc03278f6e2dc4c89 sha1 f30bf595cc339f02c1655d1b73f5fe567a41856c )
+)
+
+game (
+	name "Krabat Crew #04 (1987)(Krabat Crew)"
+	description "Krabat Crew #04 (1987)(Krabat Crew)"
+	rom ( name "Krabat Crew #04 (1987)(Krabat Crew).d64" size 174848 crc b180e808 md5 3dfff2a79e50163971546128208cbba5 sha1 d6a17fdb78fdd79d670317e9613f08ae9fb63b06 )
+)
+
+game (
+	name "Last Intro (1987)(Swedish Cracking Crew)"
+	description "Last Intro (1987)(Swedish Cracking Crew)"
+	rom ( name "Last Intro (1987)(Swedish Cracking Crew).d64" size 174848 crc e3aa81bf md5 5664d44b4903d1ccb69ee7d90108e901 sha1 d9d2592a8cd7cae2b71984ab688cfddf0adc612e )
+)
+
+game (
+	name "Last Intro (1987)(Swedish Cracking Crew)[a2]"
+	description "Last Intro (1987)(Swedish Cracking Crew)[a2]"
+	rom ( name "Last Intro (1987)(Swedish Cracking Crew)[a2].d64" size 174848 crc e0ee248e md5 cac4d1ee6b16d21abefb5bda94985e67 sha1 be97a1dadfc26eb09264997693965c863830f478 )
+)
+
+game (
+	name "Last Intro (1987)(Swedish Cracking Crew)[a3]"
+	description "Last Intro (1987)(Swedish Cracking Crew)[a3]"
+	rom ( name "Last Intro (1987)(Swedish Cracking Crew)[a3].d64" size 174848 crc c0b6f357 md5 fdcf4d5272e39633c96de7db1b2c0a64 sha1 b53293a139a250346e9a6c755939ddc0c5788867 )
+)
+
+game (
+	name "Last Intro (1987)(Swedish Cracking Crew)[a]"
+	description "Last Intro (1987)(Swedish Cracking Crew)[a]"
+	rom ( name "Last Intro (1987)(Swedish Cracking Crew)[a].d64" size 174848 crc 7d4076f0 md5 092d1273f8c479ac5c9bb70a1685a64b sha1 8b918cf37327154efd114b403d724e51d78265c0 )
+)
+
+game (
+	name "Legend #17 (1992-11)(Legend)"
+	description "Legend #17 (1992-11)(Legend)"
+	rom ( name "Legend #17 (1992-11)(Legend).d64" size 174848 crc 82a0f07c md5 4aed71403cd87b65e58cda901fc0adb2 sha1 397459e5ad4203cb9344fb660d522d7474c2f633 )
+)
+
+game (
+	name "Mega BBS Intro (1992-02-12)(Brutal)"
+	description "Mega BBS Intro (1992-02-12)(Brutal)"
+	rom ( name "Mega BBS Intro (1992-02-12)(Brutal).d64" size 174848 crc 4201f588 md5 3e4ac047b00e5c2b48dda652b3654d6d sha1 5ef3ce6f09c90b5057b43344996a2f6c7a540dfa )
+)
+
+game (
+	name "Mega BBS Intro (1992-02-12)(Brutal)[a2]"
+	description "Mega BBS Intro (1992-02-12)(Brutal)[a2]"
+	rom ( name "Mega BBS Intro (1992-02-12)(Brutal)[a2].d64" size 174848 crc 99f24e4b md5 2de108faa4fa59431ff3eef6826031e5 sha1 88186f7be23fddbe01339d3876b2c6695aeab5e1 )
+)
+
+game (
+	name "Mega BBS Intro (1992-02-12)(Brutal)[a3]"
+	description "Mega BBS Intro (1992-02-12)(Brutal)[a3]"
+	rom ( name "Mega BBS Intro (1992-02-12)(Brutal)[a3].d64" size 174848 crc 642e914f md5 fe38e9274425921b2f59db620624623d sha1 84987994763bc6681658c0e6eb59382d2f509d21 )
+)
+
+game (
+	name "Mega BBS Intro (1992-02-12)(Brutal)[a4]"
+	description "Mega BBS Intro (1992-02-12)(Brutal)[a4]"
+	rom ( name "Mega BBS Intro (1992-02-12)(Brutal)[a4].d64" size 174848 crc 62a9da8a md5 e7ae27f32a3aaca0ef14cc462cb9da63 sha1 75b4d8a713ffb674c1892eb690505f6b25f3ea19 )
+)
+
+game (
+	name "Mega BBS Intro (1992-02-12)(Brutal)[a]"
+	description "Mega BBS Intro (1992-02-12)(Brutal)[a]"
+	rom ( name "Mega BBS Intro (1992-02-12)(Brutal)[a].d64" size 174848 crc 30395b58 md5 33b0e8e5e90010c16110102ae27ae51e sha1 65aa9830bacbe1f84679e1059d0a62a35feb9dbb )
+)
+
+game (
+	name "Mellow Intro (1995)(Mayhem)"
+	description "Mellow Intro (1995)(Mayhem)"
+	rom ( name "Mellow Intro (1995)(Mayhem).d64" size 174848 crc c190f5f8 md5 e168817ade61a66c604934d2795b13e7 sha1 ef846dda229bd2105c37a597574becf4b9e29faa )
+)
+
+game (
+	name "Metal Intro (1995)(Mayhem)"
+	description "Metal Intro (1995)(Mayhem)"
+	rom ( name "Metal Intro (1995)(Mayhem).d64" size 174848 crc b8a73bca md5 b8db95948302486f4cd206fb792f4295 sha1 6c516ea3735dfdaa4d50ef6d1a7e7fc2e9421140 )
+)
+
+game (
+	name "NEC Intro (19xx)(Sphinx)"
+	description "NEC Intro (19xx)(Sphinx)"
+	rom ( name "NEC Intro (19xx)(Sphinx).d64" size 174848 crc ce16e28a md5 8bff49bf4b403cc9e7388059fd36cc83 sha1 5d53ad8544d58108929747f55cf53bdfee5e9d08 )
+)
+
+game (
+	name "NEC Intro (19xx)(Sphinx)[a]"
+	description "NEC Intro (19xx)(Sphinx)[a]"
+	rom ( name "NEC Intro (19xx)(Sphinx)[a].d64" size 174848 crc dde270ec md5 3b69e8c1729d17e007642610e86942b1 sha1 e3da5bb6527be55ce0b6cf4603f6fca0cd52e1f1 )
+)
+
+game (
+	name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)"
+	description "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)"
+	rom ( name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.).d64" size 174848 crc 33908b4b md5 6613da0ca5c08909f29587d1ca799313 sha1 69f4fde0bfad563ca4b44310e379f6e41bb6aac2 )
+)
+
+game (
+	name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a2]"
+	description "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a2]"
+	rom ( name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a2].d64" size 174848 crc 873f368e md5 d2558b1041f3f861b80b6eeae067b0f7 sha1 733538c91864fe2a50c157ab999a0598c9036c26 )
+)
+
+game (
+	name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a]"
+	description "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a]"
+	rom ( name "New Edition Intro Preview (1988-12-13)(Red Sector Inc.)[a].d64" size 174848 crc 4642821b md5 ff53baa34bce9fec5983df524eee920e sha1 ca4f22715acfa370293afd0cd1cfe82f3f5d37f9 )
+)
+
+game (
+	name "New Famous Intro, A (1991-01-09)(Lore of Arts)"
+	description "New Famous Intro, A (1991-01-09)(Lore of Arts)"
+	rom ( name "New Famous Intro, A (1991-01-09)(Lore of Arts).d64" size 174848 crc 9a4b691f md5 85fc6100c10564485376b6bb555e267d sha1 9cb50522ed503710f0a73aa404a4f2281a125215 )
+)
+
+game (
+	name "New Intro #02 (1989-02-13)(Unit5)"
+	description "New Intro #02 (1989-02-13)(Unit5)"
+	rom ( name "New Intro #02 (1989-02-13)(Unit5).d64" size 174848 crc 4f9ae538 md5 714bfbe4cbc530328b8af6a75e03c13c sha1 61c108040b7d86f311902918ac81a3346b157f6f )
+)
+
+game (
+	name "New Intro (19xx)(Asphuxia)"
+	description "New Intro (19xx)(Asphuxia)"
+	rom ( name "New Intro (19xx)(Asphuxia).d64" size 174848 crc f16f3907 md5 5ca82a9bb60dc097a910387ce1b695f0 sha1 807825e32db77cbafeba3ed3769e2ee6845d7cb5 )
+)
+
+game (
+	name "New Intro (19xx)(Asphuxia)[a]"
+	description "New Intro (19xx)(Asphuxia)[a]"
+	rom ( name "New Intro (19xx)(Asphuxia)[a].d64" size 174848 crc 835797d7 md5 e3481eb23fbc069cfc4e42ab51297e04 sha1 0e55cf6abc81201b7fd63d41bc193b4e3f59d9eb )
+)
+
+game (
+	name "New Intro 1 (1989)(Orion)"
+	description "New Intro 1 (1989)(Orion)"
+	rom ( name "New Intro 1 (1989)(Orion).d64" size 174848 crc 48454c07 md5 11c461abcdeea99302f73c8a76ceb21a sha1 2aab218fefaf39e31bd2bc5780ec88cd1aef4f66 )
+)
+
+game (
+	name "New Intro 2 (1989)(Orion)"
+	description "New Intro 2 (1989)(Orion)"
+	rom ( name "New Intro 2 (1989)(Orion).d64" size 174848 crc 098bf1ff md5 ee16c12ad5bec3d54f113cb1999c8b72 sha1 d43c7d61ad83228c7399876d9c3d19df475e508a )
+)
+
+game (
+	name "New Intro Preview (1988)(EGA)"
+	description "New Intro Preview (1988)(EGA)"
+	rom ( name "New Intro Preview (1988)(EGA).d64" size 174848 crc 8999a4c4 md5 a64ba5f9a46ad5a5edc2db434aa11a68 sha1 1bc0f9aa6b2a1709a3cfd77c866db0e53914ae32 )
+)
+
+game (
+	name "New Intro!, The (1988-10-17)(Manowar)"
+	description "New Intro!, The (1988-10-17)(Manowar)"
+	rom ( name "New Intro!, The (1988-10-17)(Manowar).d64" size 174848 crc 12e2c6e3 md5 3734d8dc2e7172b11b80b5d4d6f9e0f0 sha1 e7f3f2fc6d92da10cf72def783a933522ab16602 )
+)
+
+game (
+	name "New Style of Intros (1989)(Quartet)"
+	description "New Style of Intros (1989)(Quartet)"
+	rom ( name "New Style of Intros (1989)(Quartet).d64" size 174848 crc 5aa586a3 md5 a96075ba00b128d9c41e1be94adf08a5 sha1 09b77ba45aa7659df0394d5b470b50e48d97a45e )
+)
+
+game (
+	name "Noname Intro 1 (19xx)(System 2)"
+	description "Noname Intro 1 (19xx)(System 2)"
+	rom ( name "Noname Intro 1 (19xx)(System 2).d64" size 174848 crc 129c19a9 md5 0f3ec8fed71231226e14d5358cea0b30 sha1 d8fc79b531015faad628ec228335edc986b47174 )
+)
+
+game (
+	name "Noname Intro 2 (19xx)(System 2)"
+	description "Noname Intro 2 (19xx)(System 2)"
+	rom ( name "Noname Intro 2 (19xx)(System 2).d64" size 174848 crc 1bffe624 md5 30b6ad507034235ce7c1bc2c9f4bf4e7 sha1 9101f171773067f2d07a8caae92c9bb7d531b700 )
+)
+
+game (
+	name "Nutt 67 Intro (19xx)(Nutt 67)"
+	description "Nutt 67 Intro (19xx)(Nutt 67)"
+	rom ( name "Nutt 67 Intro (19xx)(Nutt 67).d64" size 174848 crc 4d44c124 md5 644fa909ba562841d159c0f08e4658ca sha1 cf32ca9b2a9693ad035489326dff177db343b8d9 )
+)
+
+game (
+	name "Our Intro (19xx)(Yankees)(FR)"
+	description "Our Intro (19xx)(Yankees)(FR)"
+	rom ( name "Our Intro (19xx)(Yankees)(FR).d64" size 174848 crc 12d08164 md5 666199ef9c9413b7da004c75f88cfe24 sha1 113cb2b826b14d9f4a4d532f733e18777c759d89 )
+)
+
+game (
+	name "Pastel Intro (1995)(Mayhem)"
+	description "Pastel Intro (1995)(Mayhem)"
+	rom ( name "Pastel Intro (1995)(Mayhem).d64" size 174848 crc c1ee1aea md5 ce11f60405e6a6b3de3d0420f1919400 sha1 7943df9aa8ec191dfa777647ae813cbb045871b4 )
+)
+
+game (
+	name "Pleasure Is Dead (1988-03-29)(Transcom)"
+	description "Pleasure Is Dead (1988-03-29)(Transcom)"
+	rom ( name "Pleasure Is Dead (1988-03-29)(Transcom).d64" size 174848 crc aaf1767a md5 68415cd2f373502c43525370ce77333e sha1 6e445d2c2eb84adf397671e679a09a589ac5bfd9 )
+)
+
+game (
+	name "Pulsar #01 (19xx)(Pulsar)"
+	description "Pulsar #01 (19xx)(Pulsar)"
+	rom ( name "Pulsar #01 (19xx)(Pulsar).d64" size 174848 crc 6698c01d md5 3be8273c9c470ea11c7f7e8836516e09 sha1 57a340fe63cb6315ac8a7ffc44d35d4216e0f933 )
+)
+
+game (
+	name "Pulsar #01 (19xx)(Pulsar)[a]"
+	description "Pulsar #01 (19xx)(Pulsar)[a]"
+	rom ( name "Pulsar #01 (19xx)(Pulsar)[a].d64" size 174848 crc a58b9e9b md5 8e15ae725fd66e1a21fffc54d686f826 sha1 2613c8f027436dc55ff6e1eba22d38c4ea7f7fa2 )
+)
+
+game (
+	name "Quartet Intro (19xx)(Quartet)"
+	description "Quartet Intro (19xx)(Quartet)"
+	rom ( name "Quartet Intro (19xx)(Quartet).d64" size 174848 crc bc259d54 md5 50f7cdf61a2f5db665fdaa29d0da4191 sha1 d5627829b5bc07ed85d9ee1e31595bdb19e02e3d )
+)
+
+game (
+	name "Quartet Intro (19xx)(Quartet)[a2]"
+	description "Quartet Intro (19xx)(Quartet)[a2]"
+	rom ( name "Quartet Intro (19xx)(Quartet)[a2].d64" size 174848 crc c6a7d175 md5 1a94f25a5e51ffb99385f98f55542a7b sha1 f48bef0e7a40396a79269a9e2b2f0627210d94b2 )
+)
+
+game (
+	name "Quartet Intro (19xx)(Quartet)[a3]"
+	description "Quartet Intro (19xx)(Quartet)[a3]"
+	rom ( name "Quartet Intro (19xx)(Quartet)[a3].d64" size 174848 crc 983e9cb3 md5 52dc21c1d5e04edf1e69368aebd171df sha1 6d2d4be9f1118ba774b969b545c3efb57214b5bf )
+)
+
+game (
+	name "Quartet Intro (19xx)(Quartet)[a]"
+	description "Quartet Intro (19xx)(Quartet)[a]"
+	rom ( name "Quartet Intro (19xx)(Quartet)[a].d64" size 174848 crc 7dd903de md5 1a08080b98b2bec8e9a85e745ad96e02 sha1 fd1bf294666aae1f071f9bce0e0eab45a0338a13 )
+)
+
+game (
+	name "Radwar Intros (19xx)(Radwar)"
+	description "Radwar Intros (19xx)(Radwar)"
+	rom ( name "Radwar Intros (19xx)(Radwar).d64" size 174848 crc ad1675cf md5 86aa1c89c1cccc5906a4926ac52c2fad sha1 770a99651d4d4ff6bb63161c0b97f39f438cfb6d )
+)
+
+game (
+	name "Rage for Order intros (1989)(Rage for Order)"
+	description "Rage for Order intros (1989)(Rage for Order)"
+	rom ( name "Rage for Order intros (1989)(Rage for Order).d64" size 174848 crc bff115fd md5 d0a2f98093c0bfa74ccf843a53f2c177 sha1 4cda38e6f5ce71cb98e76f3baeeaa52dc1d3da53 )
+)
+
+game (
+	name "Rage for Order intros (1989)(Rage for Order)[a2]"
+	description "Rage for Order intros (1989)(Rage for Order)[a2]"
+	rom ( name "Rage for Order intros (1989)(Rage for Order)[a2].d64" size 174848 crc 2b13dfe2 md5 35f17c2f09513eb076d06444a0fb4b45 sha1 c7229f25638cf5c8f594826dd9faded16bd818c3 )
+)
+
+game (
+	name "Rage for Order intros (1989)(Rage for Order)[a3]"
+	description "Rage for Order intros (1989)(Rage for Order)[a3]"
+	rom ( name "Rage for Order intros (1989)(Rage for Order)[a3].d64" size 174848 crc 61580f77 md5 cd02d338e90d695b25c9b97c4f39f38d sha1 0132c99eb38ecf832f35a7eb581c9ef610c097d2 )
+)
+
+game (
+	name "Rage for Order intros (1989)(Rage for Order)[a]"
+	description "Rage for Order intros (1989)(Rage for Order)[a]"
+	rom ( name "Rage for Order intros (1989)(Rage for Order)[a].d64" size 174848 crc 42516dc7 md5 94632bb7289a39364033abd8afc0fca7 sha1 15f3c2768ebf732d8280bc505f6941dc3f278575 )
+)
+
+game (
+	name "SCC #01 (1986-01-28)(Swedish Cracking Crew)"
+	description "SCC #01 (1986-01-28)(Swedish Cracking Crew)"
+	rom ( name "SCC #01 (1986-01-28)(Swedish Cracking Crew).d64" size 174848 crc 3626730b md5 fb858fdf18dbaff9ad9cfdee5fd749cb sha1 3a4f036bd73eb192b4758f09c2c6bd12cf739067 )
+)
+
+game (
+	name "SCC #02 (19xx)(Swedish Cracking Crew)"
+	description "SCC #02 (19xx)(Swedish Cracking Crew)"
+	rom ( name "SCC #02 (19xx)(Swedish Cracking Crew).d64" size 174848 crc bcd4c6e1 md5 e7efc91fcaadc0bdd1c7b7e9993fce54 sha1 bdc63ffa6847cf3837587d6bb6dc19df730f440e )
+)
+
+game (
+	name "SCC #03 (19xx)(Swedish Cracking Crew)"
+	description "SCC #03 (19xx)(Swedish Cracking Crew)"
+	rom ( name "SCC #03 (19xx)(Swedish Cracking Crew).d64" size 174848 crc 977aead3 md5 8547b05133c4079295ccdc2e8625ef22 sha1 5984be79cb4534275834fffc6b4c99ab1277daf5 )
+)
+
+game (
+	name "SCC #03 (19xx)(Swedish Cracking Crew)[a]"
+	description "SCC #03 (19xx)(Swedish Cracking Crew)[a]"
+	rom ( name "SCC #03 (19xx)(Swedish Cracking Crew)[a].d64" size 174848 crc 23531a28 md5 052a86192eeec891a6ec24d7a3f1f8c1 sha1 a9858b61cf4dcd29f64ef4b2d806f164d4e8def8 )
+)
+
+game (
+	name "SCC #04 (1985-10-05)(Swedish Cracking Crew)"
+	description "SCC #04 (1985-10-05)(Swedish Cracking Crew)"
+	rom ( name "SCC #04 (1985-10-05)(Swedish Cracking Crew).d64" size 174848 crc 2c30a91a md5 03b2f495850f942e02bfe6dabc9745f8 sha1 aa4052d17f4186370dad48f241c462332478d04e )
+)
+
+game (
+	name "SCS + TRC #20 (1994)(Success - The Ruling Company)"
+	description "SCS + TRC #20 (1994)(Success - The Ruling Company)"
+	rom ( name "SCS + TRC #20 (1994)(Success - The Ruling Company).d64" size 174848 crc 51f9ac1e md5 6fdfcf39168c8ebeac0fd840e2c9cb75 sha1 d7f1f9ee4fa232daba737650697369611504631d )
+)
+
+game (
+	name "Sledon Intro (19xx)(Swiss Cracking Association)"
+	description "Sledon Intro (19xx)(Swiss Cracking Association)"
+	rom ( name "Sledon Intro (19xx)(Swiss Cracking Association).d64" size 174848 crc bea1bc92 md5 ad2eff34cb6d50de71ba61a869aad3c6 sha1 d1845a0c466d8d3060dcd958dd365eae927d87e1 )
+)
+
+game (
+	name "Sledon Intro (19xx)(Swiss Cracking Association)[a]"
+	description "Sledon Intro (19xx)(Swiss Cracking Association)[a]"
+	rom ( name "Sledon Intro (19xx)(Swiss Cracking Association)[a].d64" size 174848 crc 3f662107 md5 c9f3368f13604878d4f809e9adf9d916 sha1 f180f928ae4d4e2a6db537e4ea63db66c0ca6322 )
+)
+
+game (
+	name "Space Rider Train Cracktro (19xx)(Crypt)"
+	description "Space Rider Train Cracktro (19xx)(Crypt)"
+	rom ( name "Space Rider Train Cracktro (19xx)(Crypt).d64" size 174848 crc f2558edb md5 8c2a5db321d49d5f0d2be3002eed31c8 sha1 afb6517eeaf0b71c747d0e13e2873658afe744b5 )
+)
+
+game (
+	name "Space Rider Train Cracktro (19xx)(Crypt)[a]"
+	description "Space Rider Train Cracktro (19xx)(Crypt)[a]"
+	rom ( name "Space Rider Train Cracktro (19xx)(Crypt)[a].d64" size 174848 crc 6c1ff10d md5 2678e66a8a54ab250f54bf70bc181bc5 sha1 9f51da540bc7d5ce597460521d6bf6a880db20c9 )
+)
+
+game (
+	name "Sphinx Intro Preview (1988)(Sphinx)"
+	description "Sphinx Intro Preview (1988)(Sphinx)"
+	rom ( name "Sphinx Intro Preview (1988)(Sphinx).d64" size 174848 crc 4a9cf788 md5 45fa9e2bfba1fff2b3f1f48a92e5d335 sha1 cc3724f90a7dc87fa4ae04f83deb145e8897c839 )
+)
+
+game (
+	name "Sphinx Intro Preview (1988)(Sphinx)[a2]"
+	description "Sphinx Intro Preview (1988)(Sphinx)[a2]"
+	rom ( name "Sphinx Intro Preview (1988)(Sphinx)[a2].d64" size 174848 crc e2e6dde2 md5 da9bdb17de11d4ad62b47a5630ef2d63 sha1 037dacdd98a4dd00a59e5c2d2b9c056755f057e6 )
+)
+
+game (
+	name "Sphinx Intro Preview (1988)(Sphinx)[a3]"
+	description "Sphinx Intro Preview (1988)(Sphinx)[a3]"
+	rom ( name "Sphinx Intro Preview (1988)(Sphinx)[a3].d64" size 174848 crc 2448ee43 md5 0651bfdff77a36637fd4896658a99a6d sha1 3f328b2bd3feacd63b7dd94f808a8061eb69fbd5 )
+)
+
+game (
+	name "Sphinx Intro Preview (1988)(Sphinx)[a]"
+	description "Sphinx Intro Preview (1988)(Sphinx)[a]"
+	rom ( name "Sphinx Intro Preview (1988)(Sphinx)[a].d64" size 174848 crc 7dfb77df md5 8a396bfdd2b22590d426f1f894eee708 sha1 295b2884c198b1d686d67171dad2bb214f9778c2 )
+)
+
+game (
+	name "TMS Intro (1988)(INXS)"
+	description "TMS Intro (1988)(INXS)"
+	rom ( name "TMS Intro (1988)(INXS).d64" size 174848 crc 237fc1b4 md5 291466ad5834d8716983416d373a23b8 sha1 2e8dfccc8b8549b3256e018e392a04a40212520c )
+)
+
+game (
+	name "Totally Awesome (1991)(Manowar)"
+	description "Totally Awesome (1991)(Manowar)"
+	rom ( name "Totally Awesome (1991)(Manowar).d64" size 174848 crc 6937990c md5 f0bdcd4ad27c345f978ce11ef03e55cc sha1 2f558f2ac2ecb49c336a4e3d4740327022959839 )
+)
+
+game (
+	name "Tp Intro 1 (1988)(INXS)"
+	description "Tp Intro 1 (1988)(INXS)"
+	rom ( name "Tp Intro 1 (1988)(INXS).d64" size 174848 crc ebfdb011 md5 75de2fa0de04f5b1af9eda7f3858d416 sha1 56298d17039291650959a641bf682135fbbb45b8 )
+)
+
+game (
+	name "TRC Intro Preview 1 (19xx)(The Ruling Company)"
+	description "TRC Intro Preview 1 (19xx)(The Ruling Company)"
+	rom ( name "TRC Intro Preview 1 (19xx)(The Ruling Company).d64" size 174848 crc a9c35178 md5 2800ba5b49a8dffb280a8b6c3299c34c sha1 33e6bdf431ee760b820af60dc5a1c43d932ecac8 )
+)
+
+game (
+	name "TRC Intro Preview 2 (19xx)(The Ruling Company)"
+	description "TRC Intro Preview 2 (19xx)(The Ruling Company)"
+	rom ( name "TRC Intro Preview 2 (19xx)(The Ruling Company).d64" size 174848 crc fd798f00 md5 a98d54319e817a856649edcbbcee3333 sha1 546c8c66cde0c7de6e1c338f386ca4ef4f5e97c1 )
+)
+
+game (
+	name "Triumwyrat #02 (19xx)(Triumwyrat)"
+	description "Triumwyrat #02 (19xx)(Triumwyrat)"
+	rom ( name "Triumwyrat #02 (19xx)(Triumwyrat).d64" size 174848 crc 70188a4f md5 800dacd0a31bc250d3b7ec06cbb45871 sha1 d04b6da60cbda51ff20ed8221a501051cee96deb )
+)
+
+game (
+	name "Tropic #06 (19xx)(Tropic)"
+	description "Tropic #06 (19xx)(Tropic)"
+	rom ( name "Tropic #06 (19xx)(Tropic).d64" size 174848 crc 2290d31d md5 68e0e75ad381d08c7e3a99e7557f40c6 sha1 fc10a65f6074b174da9fccb16131710be30e5a7c )
+)
+
+game (
+	name "TVZ Intro (19xx)(Sphinx)"
+	description "TVZ Intro (19xx)(Sphinx)"
+	rom ( name "TVZ Intro (19xx)(Sphinx).d64" size 174848 crc 3cd2ab94 md5 969db40f828bbac27ec5dc08ea889dc0 sha1 7db42309567184687c7323a9d2eec73e384e85d7 )
+)
+
+game (
+	name "TVZ Intro (19xx)(Sphinx)[a2]"
+	description "TVZ Intro (19xx)(Sphinx)[a2]"
+	rom ( name "TVZ Intro (19xx)(Sphinx)[a2].d64" size 174848 crc 84312701 md5 f079a9d86cb4d1bd136f0b3aac33da1f sha1 b3b5e2bfa95588df072f30998cc33bdf681d38f9 )
+)
+
+game (
+	name "TVZ Intro (19xx)(Sphinx)[a]"
+	description "TVZ Intro (19xx)(Sphinx)[a]"
+	rom ( name "TVZ Intro (19xx)(Sphinx)[a].d64" size 174848 crc d4621408 md5 8e340987b487baaedbe02bf4df909ae0 sha1 c8d7b4eb5588a04bbc20f4a7cb4356afb0399ec4 )
+)
+
+game (
+	name "Two New Intros (1989)(Reflex - Tour de Future)"
+	description "Two New Intros (1989)(Reflex - Tour de Future)"
+	rom ( name "Two New Intros (1989)(Reflex - Tour de Future).d64" size 174848 crc 56d10e29 md5 fc9c7d0530cb042a7baa8cdbf10c70ad sha1 62024b741fd80a93714788ed4fdb093ff7d19c32 )
+)
+
+game (
+	name "Ultimate Intro Studio (1989)(711)"
+	description "Ultimate Intro Studio (1989)(711)"
+	rom ( name "Ultimate Intro Studio (1989)(711).d64" size 174848 crc dcaf1f0a md5 aa0e68b20a906f33760f94ed43be41a5 sha1 ca9f36b889e88f5458e20e5f405eca892617e85b )
+)
+
+game (
+	name "Unit Five Intro 02 (19xx)(Unite Five)"
+	description "Unit Five Intro 02 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 02 (19xx)(Unite Five).d64" size 174848 crc 49fec652 md5 32a47ac918e6de93e6bfe5efc595c81f sha1 d4762e81a1038bcac54f410c76a8f41fe01530d5 )
+)
+
+game (
+	name "Unit Five Intro 03 (19xx)(Unite Five)"
+	description "Unit Five Intro 03 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 03 (19xx)(Unite Five).d64" size 174848 crc aad12edc md5 4dd8108cda2a64cdfb687fc9facc68ac sha1 00efeef77ac18b3de7473751efb967753e0ffc49 )
+)
+
+game (
+	name "Unit Five Intro 04 (19xx)(Unite Five)"
+	description "Unit Five Intro 04 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 04 (19xx)(Unite Five).d64" size 174848 crc a59bfb84 md5 40e311fb01d0caadc1eb40ce1d207fae sha1 8fa9687b5ea2f0c93f932669f768643a0142306b )
+)
+
+game (
+	name "Unit Five Intro 05 (19xx)(Unite Five)"
+	description "Unit Five Intro 05 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 05 (19xx)(Unite Five).d64" size 174848 crc 5811c482 md5 542fd754d3b865b8446e0498e16c22a4 sha1 dbaf67bb9945d70e6d0a194ab94fb1216a7799f9 )
+)
+
+game (
+	name "Unit Five Intro 06 (19xx)(Unite Five)"
+	description "Unit Five Intro 06 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 06 (19xx)(Unite Five).d64" size 174848 crc bfe660e0 md5 2c424e75800fceb81ac22153204c0a65 sha1 92df5efbaaca1cf3042a5fe748ab2e62d2661595 )
+)
+
+game (
+	name "Unit Five Intro 07 (19xx)(Unite Five)"
+	description "Unit Five Intro 07 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 07 (19xx)(Unite Five).d64" size 174848 crc a1b9a3b5 md5 0bc4d50148308a9f7607acb8319f7af8 sha1 33035063ae323594fae2257e15dedf293d919703 )
+)
+
+game (
+	name "Unit Five Intro 08 (19xx)(Unite Five)"
+	description "Unit Five Intro 08 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 08 (19xx)(Unite Five).d64" size 174848 crc 20c08e22 md5 9b49d3c56c84c23b3744d37bb20da7bb sha1 345e2f46fb920df88a29063bfd265b7f4ef92691 )
+)
+
+game (
+	name "Unit Five Intro 09 (19xx)(Unite Five)"
+	description "Unit Five Intro 09 (19xx)(Unite Five)"
+	rom ( name "Unit Five Intro 09 (19xx)(Unite Five).d64" size 174848 crc afc30438 md5 4caf7a27efb5fb322b5db4245d663d21 sha1 786c7296ddbe7cce42cefea58bbc8b8746c37062 )
+)
+
+game (
+	name "Uridium Intro (1986)(Star Frontiers)"
+	description "Uridium Intro (1986)(Star Frontiers)"
+	rom ( name "Uridium Intro (1986)(Star Frontiers).d64" size 174848 crc 84d45693 md5 3fe9fdc35a8824b275afa75a70a22735 sha1 7e96c63516dc513b930d2067ca5ead99a490ff38 )
+)
+
+game (
+	name "Uridium Intro (1986)(Star Frontiers)[a2]"
+	description "Uridium Intro (1986)(Star Frontiers)[a2]"
+	rom ( name "Uridium Intro (1986)(Star Frontiers)[a2].d64" size 174848 crc 4191aff9 md5 a119cfdcb66f9cbd070c2e6524bf03b0 sha1 a1113313a51efe1b97ccda273493eea52d3e09b4 )
+)
+
+game (
+	name "Uridium Intro (1986)(Star Frontiers)[a]"
+	description "Uridium Intro (1986)(Star Frontiers)[a]"
+	rom ( name "Uridium Intro (1986)(Star Frontiers)[a].d64" size 174848 crc a2156d07 md5 b4506c4961cd5c13746b1e38561bd089 sha1 1db99f131f9139d7bada28be3c60cf36ffd4439e )
+)
+
+game (
+	name "X-Large Intro (19xx)(X-Large)"
+	description "X-Large Intro (19xx)(X-Large)"
+	rom ( name "X-Large Intro (19xx)(X-Large).d64" size 174848 crc 6736d9dc md5 64074074d49e27323c4f8f17189930fc sha1 7223f87358de15a2a942abcb5ee649a3da814c02 )
+)
+
+game (
+	name "X-Large Intro (19xx)(X-Large)[a]"
+	description "X-Large Intro (19xx)(X-Large)[a]"
+	rom ( name "X-Large Intro (19xx)(X-Large)[a].d64" size 174848 crc a198ea7d md5 ed1356ffc9de3f34800bf943a3d1cd57 sha1 f65fb6547c72831c7d5d451f0f34a33f5792d9e2 )
+)
+

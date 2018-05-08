@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Hewlett-Packard HP48 - Firmware"
+	description "Hewlett-Packard HP48 - Firmware (TOSEC-v2006-03-18)"
+	category "Hewlett-Packard HP48 - Firmware"
+	version 2006-03-18
+	author "Leto_II - Cassiel"
+)
+
+game (
+	name "Hewlett-Packard HP48G Ver M (1993)(HP)"
+	description "Hewlett-Packard HP48G Ver M (1993)(HP)"
+	rom ( name "Hewlett-Packard HP48G Ver M (1993)(HP).bin" size 1048576 crc 5f5a1140 md5 f31dd2d55b69a0a932202c02ef7159b5 )
+)
+
+game (
+	name "Hewlett-Packard HP48G Ver R (1993)(HP)"
+	description "Hewlett-Packard HP48G Ver R (1993)(HP)"
+	rom ( name "Hewlett-Packard HP48G Ver R (1993)(HP).bin" size 1048576 crc 0ffc8d29 md5 13ac8ed0342efe0433aa02bbf1e7cb74 )
+)
+
+game (
+	name "Hewlett-Packard HP48G Ver R (1993)(HP)[a]"
+	description "Hewlett-Packard HP48G Ver R (1993)(HP)[a]"
+	rom ( name "Hewlett-Packard HP48G Ver R (1993)(HP)[a].bin" size 1048576 crc 1c6a74bb md5 abf04e74133242a96f57122c014cebd9 )
+)
+
+game (
+	name "Hewlett-Packard HP48S Ver E (1989)(HP)"
+	description "Hewlett-Packard HP48S Ver E (1989)(HP)"
+	rom ( name "Hewlett-Packard HP48S Ver E (1989)(HP).bin" size 524288 crc 841fdaec md5 39ffdde2b8bfbded6379acbcf9866642 )
+)

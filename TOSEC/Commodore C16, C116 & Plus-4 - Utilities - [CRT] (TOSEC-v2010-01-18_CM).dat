@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Utilities - [CRT]"
+	description "Commodore C16, C116 & Plus-4 - Utilities - [CRT] (TOSEC-v2010-01-18)"
+	category "Commodore C16, C116 & Plus-4 - Utilities - [CRT]"
+	version 2010-01-18
+	author "TKaos"
+)
+
+game (
+	name "Financial Advisor (1984)(CBM)(US)"
+	description "Financial Advisor (1984)(CBM)(US)"
+	rom ( name "Financial Advisor (1984)(CBM)(US).crt" size 16384 crc 5b0e82ae md5 5fd76819bc109612727f98590b92d67d )
+)

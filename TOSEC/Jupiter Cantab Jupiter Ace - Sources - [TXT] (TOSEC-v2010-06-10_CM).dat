@@ -1,0 +1,49 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Sources - [TXT]"
+	description "Jupiter Cantab Jupiter Ace - Sources - [TXT] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Sources - [TXT]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]"
+	description "Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]"
+	rom ( name "Character (1983-02)(Your Computer)(File 1 of 2)(GB)[3K].txt" size 195 crc 5d6cc846 md5 b45edf6f7c4c100af8fd16d6c32c5abd )
+)
+
+game (
+	name "Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]"
+	description "Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]"
+	rom ( name "Character (1983-02)(Your Computer)(File 2 of 2)(GB)[3K].txt" size 1089 crc 6ccd2c9d md5 8a79ee2314106bb8f9ecfd6bd247bf3f )
+)
+
+game (
+	name "Chords (1983-04)(Your Computer)(GB)[3K]"
+	description "Chords (1983-04)(Your Computer)(GB)[3K]"
+	rom ( name "Chords (1983-04)(Your Computer)(GB)[3K].txt" size 1861 crc 5d2396fe md5 1157fda0f32023c8fd4211af923da29c )
+)
+
+game (
+	name "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	description "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	rom ( name "Faster Ace (1983)(Your Computer)(GB)[3K].txt" size 2535 crc af5d8ea9 md5 e3d7ee3ef794c434ef93b87d209c5ca9 )
+)
+
+game (
+	name "Forth Draw (1983-02)(Your Computer)(GB)[3K]"
+	description "Forth Draw (1983-02)(Your Computer)(GB)[3K]"
+	rom ( name "Forth Draw (1983-02)(Your Computer)(GB)[3K].txt" size 880 crc 6798f617 md5 95afc14144b863c6eeb54a2ee2cf8d06 )
+)
+
+game (
+	name "Millipede (1983-04)(Your Computer)(GB)[3K]"
+	description "Millipede (1983-04)(Your Computer)(GB)[3K]"
+	rom ( name "Millipede (1983-04)(Your Computer)(GB)[3K].txt" size 2757 crc c9698c80 md5 5e58f1e9870b01296d3c453639fe3648 )
+)
+
+game (
+	name "Pacman (1983-03)(Your Computer)(GB)[3K]"
+	description "Pacman (1983-03)(Your Computer)(GB)[3K]"
+	rom ( name "Pacman (1983-03)(Your Computer)(GB)[3K].txt" size 963 crc 1b38d6bd md5 018696eeb3202a1ea3ee7bbb307ac35e )
+)

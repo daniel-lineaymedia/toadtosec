@@ -1,0 +1,3961 @@
+clrmamepro (
+	name "Robotron Z1013 - Various"
+	description "Robotron Z1013 - Various (TOSEC-v2009-10-25)"
+	category "Robotron Z1013 - Various"
+	version 2009-10-25
+	author "Woodsdog"
+)
+
+game (
+	name "2 MHz to 1 MHz SL (19xx)(-)"
+	description "2 MHz to 1 MHz SL (19xx)(-)"
+	rom ( name "2 MHz to 1 MHz SL (19xx)(-).z80" size 1056 crc 11aba746 md5 f7bb840ed938a01a5ff32baa0389f030 )
+)
+
+game (
+	name "23 Hoelzer (19xx)(-)"
+	description "23 Hoelzer (19xx)(-)"
+	rom ( name "23 Hoelzer (19xx)(-).z80" size 3104 crc e1351f74 md5 2e8ec1972878a054848406af8c7ff998 )
+)
+
+game (
+	name "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a]"
+	description "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a]"
+	rom ( name "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a].z80" size 960 crc f43d0050 md5 eb495eb5bb010694a6597cf3993355a3 )
+)
+
+game (
+	name "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a2]"
+	description "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a2]"
+	rom ( name "256K RAM-Floppy Test v4.4 (19xx)(R. Brosig)[a2].z80" size 992 crc 380a7614 md5 51d0977b34524611008fbcfe91b59c0f )
+)
+
+game (
+	name "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a]"
+	description "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a]"
+	rom ( name "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a].z80" size 1152 crc 6be17f3c md5 7f5cd166c4a50dc7c361c07843842b77 )
+)
+
+game (
+	name "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a2]"
+	description "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a2]"
+	rom ( name "256K RAM-Floppy Test v5.0 (19xx)(R. Brosig)[a2].z80" size 1149 crc 9bf551e6 md5 de8e5d0c6d3b36f454f02db7b01c1ff3 )
+)
+
+game (
+	name "3D-Muehle (1986)(CAsoft)"
+	description "3D-Muehle (1986)(CAsoft)"
+	rom ( name "3D-Muehle (1986)(CAsoft).z80" size 4135 crc fed8decc md5 22a60f5990b94aa137659149e6ced2e2 )
+)
+
+game (
+	name "3D-Muehle (1987)(W. Koster)"
+	description "3D-Muehle (1987)(W. Koster)"
+	rom ( name "3D-Muehle (1987)(W. Koster).z80" size 4160 crc 10d4e997 md5 a2bfb57eea9600c71081fd602bed626c )
+)
+
+game (
+	name "3K+Poke Kurs 1 (19xx)(NH)"
+	description "3K+Poke Kurs 1 (19xx)(NH)"
+	rom ( name "3K+Poke Kurs 1 (19xx)(NH).z80" size 16160 crc 9a85d4d8 md5 9e90636dc6ef5be5ee972fefc669f83a )
+)
+
+game (
+	name "3k-rs-BASIC v1.12 (19xx)(D. Ambras)"
+	description "3k-rs-BASIC v1.12 (19xx)(D. Ambras)"
+	rom ( name "3k-rs-BASIC v1.12 (19xx)(D. Ambras).z80" size 3292 crc 0509e062 md5 843712c97f4b5661b1270b5b2fb7dd2b )
+)
+
+game (
+	name "4K Monitor (1988)(R. Brosig)"
+	description "4K Monitor (1988)(R. Brosig)"
+	rom ( name "4K Monitor (1988)(R. Brosig).z80" size 4160 crc 4af4e549 md5 86bd1e98eef7a98cbefc9eac3deb4ebe )
+)
+
+game (
+	name "4K Monitor k7652 (1988)(R. Brosig)"
+	description "4K Monitor k7652 (1988)(R. Brosig)"
+	rom ( name "4K Monitor k7652 (1988)(R. Brosig).z80" size 4128 crc 14dc5236 md5 58d6ae69fd7b2ea0b2c8c6492a75d32f )
+)
+
+game (
+	name "4K Monitor k7659 (1988)(R. Brosig)"
+	description "4K Monitor k7659 (1988)(R. Brosig)"
+	rom ( name "4K Monitor k7659 (1988)(R. Brosig).z80" size 4128 crc 88e20ef8 md5 79d56757216d1ccf0d260f68bf2974f5 )
+)
+
+game (
+	name "64-Zeichen-BS (1989)(Juergen Peters)[doc]"
+	description "64-Zeichen-BS (1989)(Juergen Peters)[doc]"
+	rom ( name "64-Zeichen-BS (1989)(Juergen Peters)[doc].z80" size 15488 crc 15fb260f md5 574553c5bca931f81ddd8156b5db8d26 )
+)
+
+game (
+	name "64-Zeichen-BS (19xx)(Juergen Peters)[doc]"
+	description "64-Zeichen-BS (19xx)(Juergen Peters)[doc]"
+	rom ( name "64-Zeichen-BS (19xx)(Juergen Peters)[doc].z80" size 9408 crc a570a06c md5 0e705ccf02b960a91547a542eaebfab3 )
+)
+
+game (
+	name "AC 1 Kassettenroutine (1988)(H. Venzke)[a]"
+	description "AC 1 Kassettenroutine (1988)(H. Venzke)[a]"
+	rom ( name "AC 1 Kassettenroutine (1988)(H. Venzke)[a].z80" size 1232 crc 41b3c7f5 md5 4ed93b35a593f4975ea19f2280d4fd81 )
+)
+
+game (
+	name "AC 1 Kassettenroutine (1988)(H. Venzke)[a2]"
+	description "AC 1 Kassettenroutine (1988)(H. Venzke)[a2]"
+	rom ( name "AC 1 Kassettenroutine (1988)(H. Venzke)[a2].z80" size 1248 crc 464c0b1c md5 0b788aa8f4625cc15c8a00add462de5a )
+)
+
+game (
+	name "AC 1 Tape fuer Z1013 (19xx)(H. Venzke)[doc]"
+	description "AC 1 Tape fuer Z1013 (19xx)(H. Venzke)[doc]"
+	rom ( name "AC 1 Tape fuer Z1013 (19xx)(H. Venzke)[doc].z80" size 4125 crc 1abd8017 md5 d28d1256e16378a5456427f417c6eac8 )
+)
+
+game (
+	name "Ableitun B (1987)(H. Voelz)"
+	description "Ableitun B (1987)(H. Voelz)"
+	rom ( name "Ableitun B (1987)(H. Voelz).z80" size 4897 crc 44499bfd md5 8b093e4dcb8e64807f03903c67b03bdb )
+)
+
+game (
+	name "Ableitung (1987)(H. Voelz)"
+	description "Ableitung (1987)(H. Voelz)"
+	rom ( name "Ableitung (1987)(H. Voelz).z80" size 4897 crc aee53c8d md5 5d029479bb6b112fc45da6926721493b )
+)
+
+game (
+	name "Adressenverzeichnis (19xx)(-)[a]"
+	description "Adressenverzeichnis (19xx)(-)[a]"
+	rom ( name "Adressenverzeichnis (19xx)(-)[a].z80" size 4928 crc 250ee960 md5 5153b90dace42296f2cf59a5f6ddd32e )
+)
+
+game (
+	name "Adressenverzeichnis (19xx)(-)[a2]"
+	description "Adressenverzeichnis (19xx)(-)[a2]"
+	rom ( name "Adressenverzeichnis (19xx)(-)[a2].z80" size 4948 crc 4172144f md5 a97a3e7cb3582fd01db076f97ab4f95b )
+)
+
+game (
+	name "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a]"
+	description "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a]"
+	rom ( name "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a].z80" size 16256 crc 2c5d5530 md5 9d218dd29b31e742aba5c505150a2a4e )
+)
+
+game (
+	name "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a2]"
+	description "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a2]"
+	rom ( name "Aladin und die Wunderlampe (19xx)(Claus Hoefling)[a2].z80" size 16256 crc aa751350 md5 a318c2899b6ae0ed7f2ac92ab6b5d4d8 )
+)
+
+game (
+	name "Alf (1988)(Jens Wichmann)[a]"
+	description "Alf (1988)(Jens Wichmann)[a]"
+	rom ( name "Alf (1988)(Jens Wichmann)[a].z80" size 3424 crc 65c4c159 md5 ae249cb4469f552f16a7d49d9971e560 )
+)
+
+game (
+	name "Alf (1988)(Jens Wichmann)[a2]"
+	description "Alf (1988)(Jens Wichmann)[a2]"
+	rom ( name "Alf (1988)(Jens Wichmann)[a2].z80" size 3456 crc 6d43a102 md5 3f548188256c80c201be5eb2a48c7bf0 )
+)
+
+game (
+	name "Alzan Adventure (1988)(Rothe)"
+	description "Alzan Adventure (1988)(Rothe)"
+	rom ( name "Alzan Adventure (1988)(Rothe).z80" size 11328 crc 07b3ff5b md5 9c1a246e5d350c3aef76632535f7b1c8 )
+)
+
+game (
+	name "Anaborea (19xx)(-)"
+	description "Anaborea (19xx)(-)"
+	rom ( name "Anaborea (19xx)(-).z80" size 13632 crc a84327d2 md5 96329673ae7c7eb88659d17f3e4c45f2 )
+)
+
+game (
+	name "Antennenberechnung HB9CV (1983)(G.R. Soft)[h Y32-08-F]"
+	description "Antennenberechnung HB9CV (1983)(G.R. Soft)[h Y32-08-F]"
+	rom ( name "Antennenberechnung HB9CV (1983)(G.R. Soft)[h Y32-08-F].z80" size 2336 crc 93d0f235 md5 180036f4c15551e570d75c6795fb384f )
+)
+
+game (
+	name "Assembler v5.3 Scf (19xx)(-)[doc]"
+	description "Assembler v5.3 Scf (19xx)(-)[doc]"
+	rom ( name "Assembler v5.3 Scf (19xx)(-)[doc].z80" size 14472 crc 9360902d md5 e8940dca29b286ef944f18cf3aab2e0b )
+)
+
+game (
+	name "Assembler v5.3 Scf (19xx)(IG-HC TU-Dresten)[doc]"
+	description "Assembler v5.3 Scf (19xx)(IG-HC TU-Dresten)[doc]"
+	rom ( name "Assembler v5.3 Scf (19xx)(IG-HC TU-Dresten)[doc].z80" size 21920 crc 3fbdc262 md5 26a7292133036e2795c32674093300c9 )
+)
+
+game (
+	name "Assembler Z80 v5.3 (19xx)(R. Brosig)[a]"
+	description "Assembler Z80 v5.3 (19xx)(R. Brosig)[a]"
+	rom ( name "Assembler Z80 v5.3 (19xx)(R. Brosig)[a].z80" size 12064 crc f72a4efe md5 acfed5847ac8860408daed246607abf6 )
+)
+
+game (
+	name "Assembler Z80 v5.3 (19xx)(R. Brosig)[a2]"
+	description "Assembler Z80 v5.3 (19xx)(R. Brosig)[a2]"
+	rom ( name "Assembler Z80 v5.3 (19xx)(R. Brosig)[a2].z80" size 12064 crc 8fb05b8a md5 08ce060c5a69fb6e923b0313201298a4 )
+)
+
+game (
+	name "Aufbauanleitung des EPROM-Programmiergeraet (1989)(U. Hinz)[doc]"
+	description "Aufbauanleitung des EPROM-Programmiergeraet (1989)(U. Hinz)[doc]"
+	rom ( name "Aufbauanleitung des EPROM-Programmiergeraet (1989)(U. Hinz)[doc].z80" size 30610 crc 3e49e2d6 md5 56d599ca0af05455e5cf0a0795643c78 )
+)
+
+game (
+	name "Aufbauanleitung einer ROM-Disk (19xx)(Ronald Herzog)[doc]"
+	description "Aufbauanleitung einer ROM-Disk (19xx)(Ronald Herzog)[doc]"
+	rom ( name "Aufbauanleitung einer ROM-Disk (19xx)(Ronald Herzog)[doc].z80" size 5097 crc 5f381e68 md5 8a705120bae61bc8f0e1c542c415b757 )
+)
+
+game (
+	name "Auto (19xx)(-)"
+	description "Auto (19xx)(-)"
+	rom ( name "Auto (19xx)(-).z80" size 1312 crc 0048b5f7 md5 36536a1502774c5e0d97931d52a8b4e0 )
+)
+
+game (
+	name "Auto + Joystick (19xx)(-)"
+	description "Auto + Joystick (19xx)(-)"
+	rom ( name "Auto + Joystick (19xx)(-).z80" size 1344 crc 6e8cb58d md5 f844aa6d981ff3bff30927a1d104cf52 )
+)
+
+game (
+	name "Auto Crash (19xx)(W. Prengel)[a]"
+	description "Auto Crash (19xx)(W. Prengel)[a]"
+	rom ( name "Auto Crash (19xx)(W. Prengel)[a].z80" size 5088 crc 6eeb3630 md5 473e0603395314f21244e3d3349a1e27 )
+)
+
+game (
+	name "Auto Crash (19xx)(W. Prengel)[a2]"
+	description "Auto Crash (19xx)(W. Prengel)[a2]"
+	rom ( name "Auto Crash (19xx)(W. Prengel)[a2].z80" size 5088 crc df5f405c md5 2fe13609981eb49b461769f6341d8c2b )
+)
+
+game (
+	name "BASICODE-ASCII (1989)(Friedrich Dormeier)"
+	description "BASICODE-ASCII (1989)(Friedrich Dormeier)"
+	rom ( name "BASICODE-ASCII (1989)(Friedrich Dormeier).z80" size 701 crc 7af43189 md5 eabadab32dffdec9343d9061a6dff797 )
+)
+
+game (
+	name "BSC-CBM (1989)(Friedrich Dormeier)"
+	description "BSC-CBM (1989)(Friedrich Dormeier)"
+	rom ( name "BSC-CBM (1989)(Friedrich Dormeier).z80" size 2130 crc eb3eb6ce md5 eb573156c50154bb630cf22893dcc02b )
+)
+
+game (
+	name "Basic Ramdisk v3.5 (19xx)(-)[b]"
+	description "Basic Ramdisk v3.5 (19xx)(-)[b]"
+	rom ( name "Basic Ramdisk v3.5 (19xx)(-)[b].z80" size 448 crc 56514fdf md5 72a580fe86da477c10f6f87bc161f4f5 )
+)
+
+game (
+	name "Basic.C (19xx)(-)"
+	description "Basic.C (19xx)(-)"
+	rom ( name "Basic.C (19xx)(-).z80" size 10865 crc d45176b6 md5 5adabc4a8b08d34c9a38ec68fddbbae5 )
+)
+
+game (
+	name "Basicode-3 (1989)(Mainsoft)(beta)[a]"
+	description "Basicode-3 (1989)(Mainsoft)(beta)[a]"
+	rom ( name "Basicode-3 (1989)(Mainsoft)(beta)[a].z80" size 3616 crc 7dec1de6 md5 7c3c3eecca5312fd978d89fe1e9e1db1 )
+)
+
+game (
+	name "Basicode-3 (1989)(Mainsoft)(beta)[a2]"
+	description "Basicode-3 (1989)(Mainsoft)(beta)[a2]"
+	rom ( name "Basicode-3 (1989)(Mainsoft)(beta)[a2].z80" size 3616 crc 35a9ccd6 md5 9ddd90331b587765b2c82cc53e005006 )
+)
+
+game (
+	name "Basicode-3 (1989)(Martin Duchrow)[a][Beta 2]"
+	description "Basicode-3 (1989)(Martin Duchrow)[a][Beta 2]"
+	rom ( name "Basicode-3 (1989)(Martin Duchrow)[a][Beta 2].z80" size 10784 crc 7f3a7093 md5 da06c74f37c8aed8be834e3c155287b4 )
+)
+
+game (
+	name "Basicode-3 (1989)(Martin Duchrow)[a2][Beta 2]"
+	description "Basicode-3 (1989)(Martin Duchrow)[a2][Beta 2]"
+	rom ( name "Basicode-3 (1989)(Martin Duchrow)[a2][Beta 2].z80" size 10784 crc 7fde8dad md5 fdc18c58abb5b3cb8238851fdada771a )
+)
+
+game (
+	name "Basicode-3 v2.0 (1990)(Mv Dee)(nl)"
+	description "Basicode-3 v2.0 (1990)(Mv Dee)(nl)"
+	rom ( name "Basicode-3 v2.0 (1990)(Mv Dee)(nl).z80" size 7141 crc 78ec3087 md5 21f7940e3e80d41a32b5b11c5da7fc9c )
+)
+
+game (
+	name "Basicode-3 v2.0 (1990)(Mv Dee)(nl)[Subprogramm]"
+	description "Basicode-3 v2.0 (1990)(Mv Dee)(nl)[Subprogramm]"
+	rom ( name "Basicode-3 v2.0 (1990)(Mv Dee)(nl)[Subprogramm].z80" size 1375 crc 42b57ea9 md5 65c04d05355bcd0db19b412c3185ef16 )
+)
+
+game (
+	name "Basicode-3 INFO (1989)(J. Bachmann)[doc]"
+	description "Basicode-3 INFO (1989)(J. Bachmann)[doc]"
+	rom ( name "Basicode-3 INFO (1989)(J. Bachmann)[doc].z80" size 3234 crc 95b4ccc7 md5 da1a5ef4c864ab282ce33fedd0275413 )
+)
+
+game (
+	name "Berechnung der Elektrotechnik (1988)(Suhl)"
+	description "Berechnung der Elektrotechnik (1988)(Suhl)"
+	rom ( name "Berechnung der Elektrotechnik (1988)(Suhl).z80" size 23072 crc 5de2bc27 md5 d58565cef2b653422c6d4a663e59fc04 )
+)
+
+game (
+	name "Beschr. Hramdisk (1989)(Sieghard Howitz)[doc]"
+	description "Beschr. Hramdisk (1989)(Sieghard Howitz)[doc]"
+	rom ( name "Beschr. Hramdisk (1989)(Sieghard Howitz)[doc].z80" size 3264 crc b2b7780b md5 afd7c978a277c2252fcf630453e8d7fa )
+)
+
+game (
+	name "Beschreibung Texteditor (1989)(Rolf Nester)[a][doc]"
+	description "Beschreibung Texteditor (1989)(Rolf Nester)[a][doc]"
+	rom ( name "Beschreibung Texteditor (1989)(Rolf Nester)[a][doc].z80" size 2396 crc 14282f35 md5 f51503d7cec6623ef64d13cec99f1081 )
+)
+
+game (
+	name "Beschreibung Texteditor (1989)(Rolf Nester)[a2][doc]"
+	description "Beschreibung Texteditor (1989)(Rolf Nester)[a2][doc]"
+	rom ( name "Beschreibung Texteditor (1989)(Rolf Nester)[a2][doc].z80" size 2400 crc 8e138e62 md5 7cfd96cca9a8ca3b9dfb5bf35615ab39 )
+)
+
+game (
+	name "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a][doc]"
+	description "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a][doc]"
+	rom ( name "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a][doc].z80" size 4551 crc 8562cdfc md5 fe13b912378d32aecfab579762f81ef0 )
+)
+
+game (
+	name "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a2][doc]"
+	description "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a2][doc]"
+	rom ( name "Beschreibung Uni-Copy (1989)(Bernd Wilske)[a2][doc].z80" size 4551 crc e37e4021 md5 5b8b447721887a857bc08d256e11a591 )
+)
+
+game (
+	name "Beschreibung zu EPROM-Handler v2.9 (1989)(R. Brosig)[doc]"
+	description "Beschreibung zu EPROM-Handler v2.9 (1989)(R. Brosig)[doc]"
+	rom ( name "Beschreibung zu EPROM-Handler v2.9 (1989)(R. Brosig)[doc].z80" size 3342 crc 4b34b60e md5 eca327c006a5c1ac1920f49d76ba109c )
+)
+
+game (
+	name "Beschreibung zu GEdit v2.24 (1989)(rehn-soft)[doc]"
+	description "Beschreibung zu GEdit v2.24 (1989)(rehn-soft)[doc]"
+	rom ( name "Beschreibung zu GEdit v2.24 (1989)(rehn-soft)[doc].z80" size 6073 crc 87690689 md5 ce7423d8953cc07fec592a51404d2fd0 )
+)
+
+game (
+	name "Beschreibung zu HDiskcopy v1.3 (1989)(M. Halupka)[doc]"
+	description "Beschreibung zu HDiskcopy v1.3 (1989)(M. Halupka)[doc]"
+	rom ( name "Beschreibung zu HDiskcopy v1.3 (1989)(M. Halupka)[doc].z80" size 12269 crc 2944416a md5 fb7e785f30aa2cc89abce0bc28976173 )
+)
+
+game (
+	name "Beschreibung zu HDiskcopy v1.6 (1990)(M. Halupka)[doc]"
+	description "Beschreibung zu HDiskcopy v1.6 (1990)(M. Halupka)[doc]"
+	rom ( name "Beschreibung zu HDiskcopy v1.6 (1990)(M. Halupka)[doc].z80" size 12609 crc 65fd9a1a md5 c7eb7a86e0dbf69c9506cd752c0d42a8 )
+)
+
+game (
+	name "Beschreibung zu Header-Menue 2 (1989)(Joerg Diestel)[doc]"
+	description "Beschreibung zu Header-Menue 2 (1989)(Joerg Diestel)[doc]"
+	rom ( name "Beschreibung zu Header-Menue 2 (1989)(Joerg Diestel)[doc].z80" size 2673 crc 75f0fe99 md5 d6de3311c24f88f9b528282f373ba007 )
+)
+
+game (
+	name "Beschreibung zu Header-Save v5.95 (19xx)(R. Brosig)[doc]"
+	description "Beschreibung zu Header-Save v5.95 (19xx)(R. Brosig)[doc]"
+	rom ( name "Beschreibung zu Header-Save v5.95 (19xx)(R. Brosig)[doc].z80" size 12886 crc b3a8035a md5 f06d8fabfa8021a3925c377e4aee6f2d )
+)
+
+game (
+	name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a][doc]"
+	description "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a][doc]"
+	rom ( name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a][doc].z80" size 2816 crc 234f4e5a md5 f7b142bbd99d610d411cb0393d1854cf )
+)
+
+game (
+	name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a2][doc]"
+	description "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a2][doc]"
+	rom ( name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a2][doc].z80" size 2816 crc 8c17033f md5 0785b50a38196cb79062254e3b156049 )
+)
+
+game (
+	name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a3][doc]"
+	description "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a3][doc]"
+	rom ( name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a3][doc].z80" size 2793 crc 537237d0 md5 ccc3dbb3673d523999181d7fcfecb3c2 )
+)
+
+game (
+	name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a4][doc]"
+	description "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a4][doc]"
+	rom ( name "Beschreibung zu Headerdisk 45 (1989)(R. Brosig)[a4][doc].z80" size 9824 crc 0e60272f md5 59fc467989b3b211c653d62c3b2aa285 )
+)
+
+game (
+	name "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a][doc]"
+	description "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a][doc]"
+	rom ( name "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a][doc].z80" size 13216 crc f1463e29 md5 e47db608460e1b2c182f61ad60bf974b )
+)
+
+game (
+	name "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a2][doc]"
+	description "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a2][doc]"
+	rom ( name "Beschreibung zu Hex-ASCII-Dump v1.021 (1988)(W. Bernhardt)[a2][doc].z80" size 13216 crc 69b91c7a md5 fe328c505f2722faf92af8463fc0e49a )
+)
+
+game (
+	name "Beschreibung zu Hex-D.Edit v1.02 (1988)(W. Bernhardt)[doc]"
+	description "Beschreibung zu Hex-D.Edit v1.02 (1988)(W. Bernhardt)[doc]"
+	rom ( name "Beschreibung zu Hex-D.Edit v1.02 (1988)(W. Bernhardt)[doc].z80" size 13359 crc ac34c14d md5 d19b0f82fa2261fb11c60d3a0a1257bb )
+)
+
+game (
+	name "Beschreibung zu Jumping-Jack (19xx)(Boris Prey)[doc]"
+	description "Beschreibung zu Jumping-Jack (19xx)(Boris Prey)[doc]"
+	rom ( name "Beschreibung zu Jumping-Jack (19xx)(Boris Prey)[doc].z80" size 1568 crc cfa66a06 md5 c9923e1603a834dda2b5da7cee820c2d )
+)
+
+game (
+	name "Beschreibung zu Ladder (19xx)(Boris Prey)[doc]"
+	description "Beschreibung zu Ladder (19xx)(Boris Prey)[doc]"
+	rom ( name "Beschreibung zu Ladder (19xx)(Boris Prey)[doc].z80" size 2745 crc 1c016a0e md5 331de0d9936d6ae462bf792e83463686 )
+)
+
+game (
+	name "Beschreibung zu Monolist (19xx)(Holger Tschirschky)[doc]"
+	description "Beschreibung zu Monolist (19xx)(Holger Tschirschky)[doc]"
+	rom ( name "Beschreibung zu Monolist (19xx)(Holger Tschirschky)[doc].z80" size 2209 crc d42ed7fd md5 47d30368711024f2f9fbffd07bcd314a )
+)
+
+game (
+	name "Beschreibung zu Schlange (19xx)(Boris Prey)[doc]"
+	description "Beschreibung zu Schlange (19xx)(Boris Prey)[doc]"
+	rom ( name "Beschreibung zu Schlange (19xx)(Boris Prey)[doc].z80" size 1395 crc b8895d0a md5 75bed5e5b8f9a6ea24f248c5be8624f6 )
+)
+
+game (
+	name "Beschreibung zu Super-Ski (19xx)(Boris Prey)[doc]"
+	description "Beschreibung zu Super-Ski (19xx)(Boris Prey)[doc]"
+	rom ( name "Beschreibung zu Super-Ski (19xx)(Boris Prey)[doc].z80" size 1776 crc 12a303f2 md5 c9183ab630c3738204f23ff7315f7427 )
+)
+
+game (
+	name "Beschreibung zum EPSON - Drucker (19xx)(-)[doc]"
+	description "Beschreibung zum EPSON - Drucker (19xx)(-)[doc]"
+	rom ( name "Beschreibung zum EPSON - Drucker (19xx)(-)[doc].z80" size 4201 crc f1f613fa md5 a81db6333da5a06cab56d01d150264dd )
+)
+
+game (
+	name "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a][doc]"
+	description "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a][doc]"
+	rom ( name "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a][doc].z80" size 4448 crc 9b4cd0d9 md5 26455e9618c8d20a53d90ec185c3505a )
+)
+
+game (
+	name "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a2][doc]"
+	description "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a2][doc]"
+	rom ( name "Besonderheiten des CPM-2RF 2.38M (1988)(R. Brosig)[a2][doc].z80" size 4444 crc 1c58b610 md5 09cb4c0e19d3114f1a9a1a70288018c7 )
+)
+
+game (
+	name "Besonderheiten des CPM-2RF 2.50M (1988)(R. Brosig)[doc]"
+	description "Besonderheiten des CPM-2RF 2.50M (1988)(R. Brosig)[doc]"
+	rom ( name "Besonderheiten des CPM-2RF 2.50M (1988)(R. Brosig)[doc].z80" size 6201 crc 90cd57e6 md5 ce216cbceed0433c5882546f526b2e7e )
+)
+
+game (
+	name "Bestellung eines Schaltbildes (1992)(D. Ambras)[doc]"
+	description "Bestellung eines Schaltbildes (1992)(D. Ambras)[doc]"
+	rom ( name "Bestellung eines Schaltbildes (1992)(D. Ambras)[doc].z80" size 547 crc 7fcf7504 md5 98d03b1974255292a0d256efa50b5ea8 )
+)
+
+game (
+	name "Bild Master (19xx)(Gaeb Soft)"
+	description "Bild Master (19xx)(Gaeb Soft)"
+	rom ( name "Bild Master (19xx)(Gaeb Soft).z80" size 1728 crc 5d27f19c md5 2450624d6bee91fcf7b6a66883a497b5 )
+)
+
+game (
+	name "Bildschirmtext (19xx)(Peter Schellin)"
+	description "Bildschirmtext (19xx)(Peter Schellin)"
+	rom ( name "Bildschirmtext (19xx)(Peter Schellin).z80" size 3104 crc bc24d124 md5 e8f18b4ce5fc666bf976b693d2b637cd )
+)
+
+game (
+	name "Boalab (19xx)(-)[b]"
+	description "Boalab (19xx)(-)[b]"
+	rom ( name "Boalab (19xx)(-)[b].z80" size 2592 crc f49551fb md5 519d53175141afb37da4057fb3f38af0 )
+)
+
+game (
+	name "Boerse (19xx)(-)[b]"
+	description "Boerse (19xx)(-)[b]"
+	rom ( name "Boerse (19xx)(-)[b].z80" size 12310 crc 087a8ee7 md5 036066184ed76817ae71a2217551ee5a )
+)
+
+game (
+	name "Bohrturm (19xx)(-)[b]"
+	description "Bohrturm (19xx)(-)[b]"
+	rom ( name "Bohrturm (19xx)(-)[b].z80" size 2112 crc 0b7cc7f8 md5 c94ddbf517ac1c1f125ff449d018273d )
+)
+
+game (
+	name "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a]"
+	description "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a]"
+	rom ( name "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a].z80" size 5920 crc bb3dc39a md5 2a276554df7f0cb6e0c4c6490c25b3b9 )
+)
+
+game (
+	name "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a2]"
+	description "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a2]"
+	rom ( name "Boulderdash v1.0 (19xx)(Hannes Brandenburg)[a2].z80" size 5920 crc 677e5b45 md5 bd2ca052b27a8b364b0f038c0a713aea )
+)
+
+game (
+	name "Byte ersetzen (19xx)(-)"
+	description "Byte ersetzen (19xx)(-)"
+	rom ( name "Byte ersetzen (19xx)(-).z80" size 96 crc f04575ca md5 6af3c5a5ac5d7ef520da0cb4f8e4a509 )
+)
+
+game (
+	name "C-Test (19xx)(-)[a]"
+	description "C-Test (19xx)(-)[a]"
+	rom ( name "C-Test (19xx)(-)[a].z80" size 1492 crc 3645a544 md5 48fac5ae007ac14a4a234983fb8db992 )
+)
+
+game (
+	name "C-Test (19xx)(-)[a2]"
+	description "C-Test (19xx)(-)[a2]"
+	rom ( name "C-Test (19xx)(-)[a2].z80" size 1504 crc 0ed4ed7f md5 68fcce0b8ee355a6d210caaa3592d16d )
+)
+
+game (
+	name "C-Test.B (19xx)(-)"
+	description "C-Test.B (19xx)(-)"
+	rom ( name "C-Test.B (19xx)(-).z80" size 1480 crc f07771fc md5 c0bdf3ce05c4e42a4b95a2bc78f7695a )
+)
+
+game (
+	name "CP A-Bootsystem VLE v1.0 (1987)(Akademie der Wissenschaften)(en)"
+	description "CP A-Bootsystem VLE v1.0 (1987)(Akademie der Wissenschaften)(en)"
+	rom ( name "CP A-Bootsystem VLE v1.0 (1987)(Akademie der Wissenschaften)(en).z80" size 10048 crc ec71485f md5 34ea8103b43c83264af2a7bd680383e7 )
+)
+
+game (
+	name "CP A-Bootsystem VLE v1.1 (1987)(Akademie der Wissenschaften)(en)"
+	description "CP A-Bootsystem VLE v1.1 (1987)(Akademie der Wissenschaften)(en)"
+	rom ( name "CP A-Bootsystem VLE v1.1 (1987)(Akademie der Wissenschaften)(en).z80" size 11200 crc 98d378ca md5 b0c0bb986db0e9c8b8f3e7e9b8196741 )
+)
+
+game (
+	name "CP-M v2.2 (19xx)(Digital Research Inc)[a]"
+	description "CP-M v2.2 (19xx)(Digital Research Inc)[a]"
+	rom ( name "CP-M v2.2 (19xx)(Digital Research Inc)[a].z80" size 7136 crc 8a1c51bc md5 00f77046758dd9a20a2403e960cbd7ea )
+)
+
+game (
+	name "CP-M v2.2 (19xx)(Digital Research Inc)[a2]"
+	description "CP-M v2.2 (19xx)(Digital Research Inc)[a2]"
+	rom ( name "CP-M v2.2 (19xx)(Digital Research Inc)[a2].z80" size 7200 crc 580684ee md5 fdafc017d0400bcf92ec9fe48d14708a )
+)
+
+game (
+	name "CP-M v2.2 (19xx)(Digital Research Inc)[a3]"
+	description "CP-M v2.2 (19xx)(Digital Research Inc)[a3]"
+	rom ( name "CP-M v2.2 (19xx)(Digital Research Inc)[a3].z80" size 7136 crc c3157c91 md5 078fddff762dac582b5521b99b6726dc )
+)
+
+game (
+	name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.3 (19xx)(Digital Research Inc)"
+	description "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.3 (19xx)(Digital Research Inc)"
+	rom ( name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.3 (19xx)(Digital Research Inc).z80" size 8192 crc 9917ce6b md5 b87d3790aff8069e61d80f379765e38d )
+)
+
+game (
+	name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a]"
+	description "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a]"
+	rom ( name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a].z80" size 8224 crc adb31a1d md5 2b0074091d5ffe3fbd3e85b3290ffbc0 )
+)
+
+game (
+	name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a2]"
+	description "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a2]"
+	rom ( name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.4 (19xx)(Digital Research Inc)[a2].z80" size 8224 crc 9dca37ba md5 db6fda43ecd3032601b983edd5125aea )
+)
+
+game (
+	name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a]"
+	description "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a]"
+	rom ( name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a].z80" size 8299 crc deed9be6 md5 687a8b8e2dcf6f7b42d42a072a65f4d2 )
+)
+
+game (
+	name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a2]"
+	description "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a2]"
+	rom ( name "CP-M v2.2 Z1013 IG-HC + RAM-Floppy v2.5 (19xx)(Digital Research Inc)[a2].z80" size 8320 crc b80e0e5e md5 bed3e89df6fe841d8fc8bb0d3376a620 )
+)
+
+game (
+	name "CRC Pruef (19xx)(-)"
+	description "CRC Pruef (19xx)(-)"
+	rom ( name "CRC Pruef (19xx)(-).z80" size 256 crc b23a35dd md5 0821e61842266f3b847ce714cb41e17c )
+)
+
+game (
+	name "CRC-D 7D (19xx)(D. Ambras)"
+	description "CRC-D 7D (19xx)(D. Ambras)"
+	rom ( name "CRC-D 7D (19xx)(D. Ambras).z80" size 557 crc d1518e54 md5 d834e58b5bb3c4dc6bd97bd1bae1515d )
+)
+
+game (
+	name "CRC-Disp (19xx)(D. Ambras)"
+	description "CRC-Disp (19xx)(D. Ambras)"
+	rom ( name "CRC-Disp (19xx)(D. Ambras).z80" size 400 crc 6f61ecda md5 ecfcdff9dd0ef2c63f3abff98be791c7 )
+)
+
+game (
+	name "CRC-Summe (19xx)(-)"
+	description "CRC-Summe (19xx)(-)"
+	rom ( name "CRC-Summe (19xx)(-).z80" size 160 crc 47955535 md5 01a6ff2f59eabf525650723323dcdc7b )
+)
+
+game (
+	name "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a][doc]"
+	description "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a][doc]"
+	rom ( name "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a][doc].z80" size 3520 crc aba9da0b md5 14c0a0f2c41da953be38162067e538f3 )
+)
+
+game (
+	name "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a2][doc]"
+	description "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a2][doc]"
+	rom ( name "CTEST-Kondensatoren mit dem Computer messen (1986)(G. Holz)[a2][doc].z80" size 3520 crc 92d7c29a md5 a521e46e82119809b12e29fe0a4f9c98 )
+)
+
+game (
+	name "CYRUS - Beschreibung fuer v1.0 (1989)(Dr. Trog)[doc]"
+	description "CYRUS - Beschreibung fuer v1.0 (1989)(Dr. Trog)[doc]"
+	rom ( name "CYRUS - Beschreibung fuer v1.0 (1989)(Dr. Trog)[doc].z80" size 5056 crc eed02479 md5 defa8a18548e3d583db0f67a122bb6f7 )
+)
+
+game (
+	name "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a][doc]"
+	description "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a][doc]"
+	rom ( name "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a][doc].z80" size 5118 crc cf458597 md5 917dc979f8add4184b23d1ce149a2cc3 )
+)
+
+game (
+	name "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a2][doc]"
+	description "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a2][doc]"
+	rom ( name "CYRUS - Beschreibung fuer v2.0 (1989)(Dr. Trog)[a2][doc].z80" size 5120 crc 850df734 md5 dd71669d43cd60b89e53135dd0ae4e8b )
+)
+
+game (
+	name "Centipede (1988)(Franz Beist)"
+	description "Centipede (1988)(Franz Beist)"
+	rom ( name "Centipede (1988)(Franz Beist).z80" size 7296 crc b843cc49 md5 303a9fff4af21078f4b559e48b017740 )
+)
+
+game (
+	name "Centipede (1990)(Jeff Minter)"
+	description "Centipede (1990)(Jeff Minter)"
+	rom ( name "Centipede (1990)(Jeff Minter).z80" size 5297 crc f3d273e9 md5 3e77daf26ce342e05d5c216ed1e5e41b )
+)
+
+game (
+	name "Centronic Druck (19xx)(-)[b]"
+	description "Centronic Druck (19xx)(-)[b]"
+	rom ( name "Centronic Druck (19xx)(-)[b].z80" size 160 crc 9ed19b4a md5 531f2468289edcf1d4fb72ded82361bf )
+)
+
+game (
+	name "Centronics Doc (1989)(Bernd Koch)[a][doc]"
+	description "Centronics Doc (1989)(Bernd Koch)[a][doc]"
+	rom ( name "Centronics Doc (1989)(Bernd Koch)[a][doc].z80" size 3328 crc 523d2c9f md5 b228205be51941d7b654587192d54f1f )
+)
+
+game (
+	name "Centronics Doc (1989)(Bernd Koch)[a2][doc]"
+	description "Centronics Doc (1989)(Bernd Koch)[a2][doc]"
+	rom ( name "Centronics Doc (1989)(Bernd Koch)[a2][doc].z80" size 3319 crc 4ee81220 md5 c2de013d85d4a435cf4ef3c21395e817 )
+)
+
+game (
+	name "Centronics Doc (19xx)(-)[doc]"
+	description "Centronics Doc (19xx)(-)[doc]"
+	rom ( name "Centronics Doc (19xx)(-)[doc].z80" size 1144 crc 21ee1752 md5 06796ab1333c9a5812653c53d43a9152 )
+)
+
+game (
+	name "Champion (1988)(K. Rothe)"
+	description "Champion (1988)(K. Rothe)"
+	rom ( name "Champion (1988)(K. Rothe).z80" size 12416 crc f2b8a4ac md5 43eae3486d5ea914ef6384f4b1f31d6a )
+)
+
+game (
+	name "Chaos (19xx)(-)[b]"
+	description "Chaos (19xx)(-)[b]"
+	rom ( name "Chaos (19xx)(-)[b].z80" size 5248 crc 655ebd9f md5 cb41f24e6fb026d665b5237803172db7 )
+)
+
+game (
+	name "Chaos of.B (19xx)(-)"
+	description "Chaos of.B (19xx)(-)"
+	rom ( name "Chaos of.B (19xx)(-).z80" size 4254 crc 5c66e88a md5 3b640d01c3a4fd4d5fb9b61c5575f61d )
+)
+
+game (
+	name "Charset (19xx)(Zgorig & Breit)[b]"
+	description "Charset (19xx)(Zgorig & Breit)[b]"
+	rom ( name "Charset (19xx)(Zgorig & Breit)[b].z80" size 2080 crc 7fab456e md5 1fe83766bf2dd8fb849853aef93bf5b4 )
+)
+
+game (
+	name "Chemie-Pruefung (19xx)(-)[b]"
+	description "Chemie-Pruefung (19xx)(-)[b]"
+	rom ( name "Chemie-Pruefung (19xx)(-)[b].z80" size 3872 crc e6367d6b md5 fda464fb42b23928778f9808f182985b )
+)
+
+game (
+	name "Chemie.B (19xx)(-)"
+	description "Chemie.B (19xx)(-)"
+	rom ( name "Chemie.B (19xx)(-).z80" size 9253 crc 638f264c md5 6d0d972b8759d7c8de17c3acd2caa0ab )
+)
+
+game (
+	name "Chess-Master (19xx)(R. Brosig)[a]"
+	description "Chess-Master (19xx)(R. Brosig)[a]"
+	rom ( name "Chess-Master (19xx)(R. Brosig)[a].z80" size 13216 crc 0c832eaf md5 8fabbd24a9c863e3ee394c4126ed48b9 )
+)
+
+game (
+	name "Chess-Master (19xx)(R. Brosig)[a2]"
+	description "Chess-Master (19xx)(R. Brosig)[a2]"
+	rom ( name "Chess-Master (19xx)(R. Brosig)[a2].z80" size 13185 crc b5781c42 md5 7d6321beb265a9fa19f1eb6e44e16e22 )
+)
+
+game (
+	name "Chess-Master (19xx)(R. Brosig)[a3]"
+	description "Chess-Master (19xx)(R. Brosig)[a3]"
+	rom ( name "Chess-Master (19xx)(R. Brosig)[a3].z80" size 13216 crc c7794212 md5 5d80283acf94ae55c4f93be2c74e2c18 )
+)
+
+game (
+	name "Chess-Master (19xx)(R. Brosig)[Loader]"
+	description "Chess-Master (19xx)(R. Brosig)[Loader]"
+	rom ( name "Chess-Master (19xx)(R. Brosig)[Loader].z80" size 2400 crc 86a8cac8 md5 8e620d06eef21b01691026cfc6614830 )
+)
+
+game (
+	name "Climber (1985)(R. Ludwig)"
+	description "Climber (1985)(R. Ludwig)"
+	rom ( name "Climber (1985)(R. Ludwig).z80" size 11136 crc 53174791 md5 c0fb5c98d21be8387d895ba8141bbc36 )
+)
+
+game (
+	name "Climber (19xx)(-)"
+	description "Climber (19xx)(-)"
+	rom ( name "Climber (19xx)(-).z80" size 10496 crc 3a963bab md5 00212221905267fd56e21c088d813a12 )
+)
+
+game (
+	name "Codieren & Decodieren (19xx)(D. Ambras)"
+	description "Codieren & Decodieren (19xx)(D. Ambras)"
+	rom ( name "Codieren & Decodieren (19xx)(D. Ambras).z80" size 448 crc fd6217cd md5 4d6d89ada559f150c03af3885ad4d0aa )
+)
+
+game (
+	name "Compact (1986)(EH-Soft, SCI)[4-in-one]"
+	description "Compact (1986)(EH-Soft, SCI)[4-in-one]"
+	rom ( name "Compact (1986)(EH-Soft, SCI)[4-in-one].z80" size 11808 crc 0ba835b7 md5 2075db98a6959f709fa01de9abebadbb )
+)
+
+game (
+	name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a]"
+	description "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a]"
+	rom ( name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a].z80" size 9611 crc 261a572e md5 ae288d3eb7e90395c6eca92624df78c5 )
+)
+
+game (
+	name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a2]"
+	description "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a2]"
+	rom ( name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a2].z80" size 10176 crc cd7f8461 md5 d8cefea0ce256ae3ca79fef01c815e59 )
+)
+
+game (
+	name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a3]"
+	description "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a3]"
+	rom ( name "Computer-Skat (19xx)(H.-J.Bachmann & D. Ambras)[a3].z80" size 10176 crc 0024e617 md5 4d60a668334e5db51ec494ee528cc628 )
+)
+
+game (
+	name "Copy 32 (19xx)(WlSoft)"
+	description "Copy 32 (19xx)(WlSoft)"
+	rom ( name "Copy 32 (19xx)(WlSoft).z80" size 3872 crc 375d54f8 md5 91e734fd814b30ebdae69cd077e2695d )
+)
+
+game (
+	name "Copy 64 (19xx)(WlSoft)"
+	description "Copy 64 (19xx)(WlSoft)"
+	rom ( name "Copy 64 (19xx)(WlSoft).z80" size 3872 crc 2f27a91a md5 47ff8be10153bad257119daad912307f )
+)
+
+game (
+	name "Copy.com Doc (1990)(Bernd Wilske)[a][doc]"
+	description "Copy.com Doc (1990)(Bernd Wilske)[a][doc]"
+	rom ( name "Copy.com Doc (1990)(Bernd Wilske)[a][doc].z80" size 1369 crc f4190bae md5 a3fd3fe67a4800630a024af45fd84481 )
+)
+
+game (
+	name "Copy.com Doc (1990)(Bernd Wilske)[a2][doc]"
+	description "Copy.com Doc (1990)(Bernd Wilske)[a2][doc]"
+	rom ( name "Copy.com Doc (1990)(Bernd Wilske)[a2][doc].z80" size 1376 crc 2d8e7003 md5 97cda3a2c877095909a98e3d851251f1 )
+)
+
+game (
+	name "Cosmic-Ball (1988)(D. Schaedlich)"
+	description "Cosmic-Ball (1988)(D. Schaedlich)"
+	rom ( name "Cosmic-Ball (1988)(D. Schaedlich).z80" size 16160 crc 5d6b071a md5 786d4edbdb0e9f7a74cfdad54a68cefc )
+)
+
+game (
+	name "Cowboy (19xx)(D. Ambras)"
+	description "Cowboy (19xx)(D. Ambras)"
+	rom ( name "Cowboy (19xx)(D. Ambras).z80" size 1056 crc e4b10f0d md5 cb97d0af08b2fad385392c1735be411c )
+)
+
+game (
+	name "Crash (19xx)(-)"
+	description "Crash (19xx)(-)"
+	rom ( name "Crash (19xx)(-).z80" size 7968 crc b036a66a md5 d7cc9d243acde235b0fc411de89839f9 )
+)
+
+game (
+	name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a]"
+	description "Cyrus Schacheuropameister 1981 (1987)(SCI)[a]"
+	rom ( name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a].z80" size 16576 crc 544d5ccd md5 5849394be28a5fa9e843ced911cd676a )
+)
+
+game (
+	name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a2]"
+	description "Cyrus Schacheuropameister 1981 (1987)(SCI)[a2]"
+	rom ( name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a2].z80" size 16256 crc 597d27f7 md5 40140c5896bab22433ff637216165bf0 )
+)
+
+game (
+	name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a3]"
+	description "Cyrus Schacheuropameister 1981 (1987)(SCI)[a3]"
+	rom ( name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a3].z80" size 16640 crc a0773559 md5 5d21704a50a8395272fb40669f041abe )
+)
+
+game (
+	name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a4]"
+	description "Cyrus Schacheuropameister 1981 (1987)(SCI)[a4]"
+	rom ( name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a4].z80" size 16672 crc 07aa7884 md5 8c8e2dcdb3e451af5fe27b7ccf7adeeb )
+)
+
+game (
+	name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a5]"
+	description "Cyrus Schacheuropameister 1981 (1987)(SCI)[a5]"
+	rom ( name "Cyrus Schacheuropameister 1981 (1987)(SCI)[a5].z80" size 16672 crc b9beb3de md5 1f854f856ef25902a894145cf2586084 )
+)
+
+game (
+	name "Cyrus-Header v3.0 (19xx)(-)"
+	description "Cyrus-Header v3.0 (19xx)(-)"
+	rom ( name "Cyrus-Header v3.0 (19xx)(-).z80" size 2496 crc fac28d3b md5 54a4157b16a8295d0b840d79f03ab9b1 )
+)
+
+game (
+	name "DATEX Datei-Programm (1987)(SCI)"
+	description "DATEX Datei-Programm (1987)(SCI)"
+	rom ( name "DATEX Datei-Programm (1987)(SCI).z80" size 3680 crc 9ebd9392 md5 cfe5ab6db2c396dc277a594874c6d54f )
+)
+
+game (
+	name "DC - Monitor (19xx)(-)"
+	description "DC - Monitor (19xx)(-)"
+	rom ( name "DC - Monitor (19xx)(-).z80" size 4128 crc 1972c541 md5 12f9ad9331b8e43755fbf662f4c47097 )
+)
+
+game (
+	name "DDR-Info (1990)(Berthold Biener)"
+	description "DDR-Info (1990)(Berthold Biener)"
+	rom ( name "DDR-Info (1990)(Berthold Biener).z80" size 9204 crc 35282f0e md5 7b17bb254e1cc3bc2be89b60dd597b84 )
+)
+
+game (
+	name "Programmiersystem FigForth, Das (1987)(Schubert, B.)[doc]"
+	description "Programmiersystem FigForth, Das (1987)(Schubert, B.)[doc]"
+	rom ( name "Programmiersystem FigForth, Das (1987)(Schubert, B.)[doc].z80" size 33984 crc 8b110934 md5 47ac5b223eb40f12728ccbee1e806c2e )
+)
+
+game (
+	name "Debug v3.02 (1989)(Schroeder, L.)[a][doc]"
+	description "Debug v3.02 (1989)(Schroeder, L.)[a][doc]"
+	rom ( name "Debug v3.02 (1989)(Schroeder, L.)[a][doc].z80" size 1314 crc 36cafbb2 md5 744c08211d64121a9ec69ece4af3720f )
+)
+
+game (
+	name "Debug v3.02 (1989)(Schroeder, L.)[a2][doc]"
+	description "Debug v3.02 (1989)(Schroeder, L.)[a2][doc]"
+	rom ( name "Debug v3.02 (1989)(Schroeder, L.)[a2][doc].z80" size 1314 crc e1069ffb md5 6beaa600d78ddd086c2ae4da439f31c3 )
+)
+
+game (
+	name "Debug v3.02 (1989)(Schroeder, L.)[a3][doc]"
+	description "Debug v3.02 (1989)(Schroeder, L.)[a3][doc]"
+	rom ( name "Debug v3.02 (1989)(Schroeder, L.)[a3][doc].z80" size 1344 crc 75e34f63 md5 d00b89091cd88992b6694cac816c7f76 )
+)
+
+game (
+	name "Debugger (19xx)(-)[a]"
+	description "Debugger (19xx)(-)[a]"
+	rom ( name "Debugger (19xx)(-)[a].z80" size 6387 crc 52e5978c md5 a1d8a857d2557a66fe160b3b49f4e1aa )
+)
+
+game (
+	name "Debugger (19xx)(-)[a2]"
+	description "Debugger (19xx)(-)[a2]"
+	rom ( name "Debugger (19xx)(-)[a2].z80" size 6387 crc a80e5165 md5 8defee6a9edfa82c7b043c674c8f8a40 )
+)
+
+game (
+	name "Debugger 2 (19xx)(R. Kubetzka)[a]"
+	description "Debugger 2 (19xx)(R. Kubetzka)[a]"
+	rom ( name "Debugger 2 (19xx)(R. Kubetzka)[a].z80" size 6432 crc e49e656c md5 21115b35603658e0cbc90eea5e2d062d )
+)
+
+game (
+	name "Debugger 2 (19xx)(R. Kubetzka)[a2]"
+	description "Debugger 2 (19xx)(R. Kubetzka)[a2]"
+	rom ( name "Debugger 2 (19xx)(R. Kubetzka)[a2].z80" size 6432 crc b8dd6d61 md5 d29e1d6f00e7ab887ef8193f41ab5e5e )
+)
+
+game (
+	name "Demolation (19xx)(Gera-Soft)[a]"
+	description "Demolation (19xx)(Gera-Soft)[a]"
+	rom ( name "Demolation (19xx)(Gera-Soft)[a].z80" size 2849 crc b07e1cb8 md5 52ef21df4d07a164940e287514603d96 )
+)
+
+game (
+	name "Demolation (19xx)(Gera-Soft)[a2]"
+	description "Demolation (19xx)(Gera-Soft)[a2]"
+	rom ( name "Demolation (19xx)(Gera-Soft)[a2].z80" size 2720 crc b1feefc3 md5 8e715f9ef18ef1d0b944a0d7e3d6bc9f )
+)
+
+game (
+	name "Dicker (1990)(R. Knecht)"
+	description "Dicker (1990)(R. Knecht)"
+	rom ( name "Dicker (1990)(R. Knecht).z80" size 5952 crc 3addad1f md5 49b8b90e3bf4c2d3bcf8e55319b4e3e0 )
+)
+
+game (
+	name "Digger (1990)(F. Benditz)[a]"
+	description "Digger (1990)(F. Benditz)[a]"
+	rom ( name "Digger (1990)(F. Benditz)[a].z80" size 17136 crc a602a4cf md5 0e44a9558f8269b12e8bd504c94dd373 )
+)
+
+game (
+	name "Digger (1990)(F. Benditz)[a2]"
+	description "Digger (1990)(F. Benditz)[a2]"
+	rom ( name "Digger (1990)(F. Benditz)[a2].z80" size 23157 crc c2c16bd7 md5 2da98e810bf7d299f4fe7c0750d73992 )
+)
+
+game (
+	name "Dir-Print (19xx)(-)"
+	description "Dir-Print (19xx)(-)"
+	rom ( name "Dir-Print (19xx)(-).z80" size 1824 crc 6098bc9a md5 9cec3933f47e2e5dac07f15fd4411c55 )
+)
+
+game (
+	name "Dru v3.2 (19xx)(-)"
+	description "Dru v3.2 (19xx)(-)"
+	rom ( name "Dru v3.2 (19xx)(-).z80" size 192 crc 44e6e209 md5 8a790582c1346fad7f068776663c8c20 )
+)
+
+game (
+	name "Dru v3.3 (19xx)(-)"
+	description "Dru v3.3 (19xx)(-)"
+	rom ( name "Dru v3.3 (19xx)(-).z80" size 192 crc 931b5d52 md5 7f1a6c6d0991d9006f72f7bce1803e05 )
+)
+
+game (
+	name "DumpX (19xx)(-)"
+	description "DumpX (19xx)(-)"
+	rom ( name "DumpX (19xx)(-).z80" size 192 crc fcec3c24 md5 9959e264ef4094f38c1a75b78ed3399c )
+)
+
+game (
+	name "ED 81 (19xx)(B. Wilske)"
+	description "ED 81 (19xx)(B. Wilske)"
+	rom ( name "ED 81 (19xx)(B. Wilske).z80" size 8992 crc 917557a4 md5 4bb03195e6709d7f5fb97a1fb91f6dda )
+)
+
+game (
+	name "ED 81 v2.2 (1989)(B. Wilske)"
+	description "ED 81 v2.2 (1989)(B. Wilske)"
+	rom ( name "ED 81 v2.2 (1989)(B. Wilske).z80" size 8992 crc 7232d37d md5 236faef42f9d85fc92bd9d8cefdb3c6f )
+)
+
+game (
+	name "ED 81 v2.2 (1989)(B. Wilske)[a][doc]"
+	description "ED 81 v2.2 (1989)(B. Wilske)[a][doc]"
+	rom ( name "ED 81 v2.2 (1989)(B. Wilske)[a][doc].z80" size 6528 crc 85d8a6e5 md5 fa6a1c890e9cf1f385a84c96f81eaff8 )
+)
+
+game (
+	name "ED 81 v2.2 (1989)(B. Wilske)[a2][doc]"
+	description "ED 81 v2.2 (1989)(B. Wilske)[a2][doc]"
+	rom ( name "ED 81 v2.2 (1989)(B. Wilske)[a2][doc].z80" size 6507 crc fb359308 md5 be1139f2525c3a9c5f2b5312ea510005 )
+)
+
+game (
+	name "EMR-Reassembler (19xx)(-)"
+	description "EMR-Reassembler (19xx)(-)"
+	rom ( name "EMR-Reassembler (19xx)(-).z80" size 2080 crc c4e7f81b md5 7ca39c3700e8e5dcc73a4813897c4300 )
+)
+
+game (
+	name "EPROM-Handler v2.7 (19xx)(R. Brosig)"
+	description "EPROM-Handler v2.7 (19xx)(R. Brosig)"
+	rom ( name "EPROM-Handler v2.7 (19xx)(R. Brosig).z80" size 2081 crc ed1693c2 md5 12a1dab74a0171894388aea977ef49a0 )
+)
+
+game (
+	name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a]"
+	description "EPROM-Handler v2.9 (19xx)(R. Brosig)[a]"
+	rom ( name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a].z80" size 2080 crc 45b84749 md5 542e31451386ec4b0a067b6802e2521a )
+)
+
+game (
+	name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a2]"
+	description "EPROM-Handler v2.9 (19xx)(R. Brosig)[a2]"
+	rom ( name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a2].z80" size 2080 crc 54b6fb34 md5 01894971a4adf7e9b5cb5b7e98fc1fff )
+)
+
+game (
+	name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a3]"
+	description "EPROM-Handler v2.9 (19xx)(R. Brosig)[a3]"
+	rom ( name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a3].z80" size 2080 crc 59796b29 md5 fdd5fd3de35be1d705802391e93c532e )
+)
+
+game (
+	name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a4]"
+	description "EPROM-Handler v2.9 (19xx)(R. Brosig)[a4]"
+	rom ( name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a4].z80" size 2080 crc 7f971333 md5 893271209751cd196a73c9c9e77f609c )
+)
+
+game (
+	name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a5]"
+	description "EPROM-Handler v2.9 (19xx)(R. Brosig)[a5]"
+	rom ( name "EPROM-Handler v2.9 (19xx)(R. Brosig)[a5].z80" size 2080 crc 6895a812 md5 81f7b48494f7cddf860b211554b1a381 )
+)
+
+game (
+	name "EPROM-Programmierung (1988)(U. Hinz)[doc]"
+	description "EPROM-Programmierung (1988)(U. Hinz)[doc]"
+	rom ( name "EPROM-Programmierung (1988)(U. Hinz)[doc].z80" size 6999 crc 3ff77e99 md5 129271f58ddb7c46fd088fe7b09fb028 )
+)
+
+game (
+	name "ESC Codes und Funktionen (19xx)(-)[doc]"
+	description "ESC Codes und Funktionen (19xx)(-)[doc]"
+	rom ( name "ESC Codes und Funktionen (19xx)(-)[doc].z80" size 2080 crc c64ddbf7 md5 7aba6f7e42b9191addf7d15218b288aa )
+)
+
+game (
+	name "East 26-2 (19xx)(-)[b]"
+	description "East 26-2 (19xx)(-)[b]"
+	rom ( name "East 26-2 (19xx)(-)[b].z80" size 7552 crc c34ae896 md5 5edaca33adee4ef07a6c9062c8f91c9b )
+)
+
+game (
+	name "East 30-5 (19xx)(-)[b]"
+	description "East 30-5 (19xx)(-)[b]"
+	rom ( name "East 30-5 (19xx)(-)[b].z80" size 8064 crc 3468a972 md5 4175b8451ed7ec7555d63e284c43555f )
+)
+
+game (
+	name "East 30-6 (19xx)(-)[b]"
+	description "East 30-6 (19xx)(-)[b]"
+	rom ( name "East 30-6 (19xx)(-)[b].z80" size 8128 crc 11eb0f46 md5 269a693a324632d056e72db5cb4724fe )
+)
+
+game (
+	name "Edas v1.01 (19xx)(-)"
+	description "Edas v1.01 (19xx)(-)"
+	rom ( name "Edas v1.01 (19xx)(-).z80" size 5376 crc 14c5062c md5 e2b0bd5ed5f1f063c34d7d7bfaa44f5c )
+)
+
+game (
+	name "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a][doc]"
+	description "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a][doc]"
+	rom ( name "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a][doc].z80" size 3712 crc aa187801 md5 f4e80cb63a5825206a098a61021243a5 )
+)
+
+game (
+	name "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a2][doc]"
+	description "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a2][doc]"
+	rom ( name "Edas v1.1 a+d+h - Laden + Start (19xx)(-)[a2][doc].z80" size 3710 crc 48ac1759 md5 9c96876368b9c7fd79980bec061560d8 )
+)
+
+game (
+	name "Edas v3.1 (19xx)(-)(en)"
+	description "Edas v3.1 (19xx)(-)(en)"
+	rom ( name "Edas v3.1 (19xx)(-)(en).z80" size 8480 crc f86eb637 md5 b10d8c886aff1ff78d45c70d2c96180c )
+)
+
+game (
+	name "Edas H+D v1.0 (1989)(U. Beckmann)"
+	description "Edas H+D v1.0 (1989)(U. Beckmann)"
+	rom ( name "Edas H+D v1.0 (1989)(U. Beckmann).z80" size 8224 crc 46c4ed95 md5 ed03e0be1d049a28f46fbe0de362ab6a )
+)
+
+game (
+	name "EditX + Header (1988)(SCI, P. Schellin)"
+	description "EditX + Header (1988)(SCI, P. Schellin)"
+	rom ( name "EditX + Header (1988)(SCI, P. Schellin).z80" size 4736 crc dbd8b287 md5 ae9094eac70997ab82a648f15b5b933a )
+)
+
+game (
+	name "Eidechse (19xx)(N.aC)"
+	description "Eidechse (19xx)(N.aC)"
+	rom ( name "Eidechse (19xx)(N.aC).z80" size 6688 crc c447f8aa md5 489c6702493689a252f5bca0dadf7db7 )
+)
+
+game (
+	name "Einige wichtige Addressen (19xx)(-)[doc]"
+	description "Einige wichtige Addressen (19xx)(-)[doc]"
+	rom ( name "Einige wichtige Addressen (19xx)(-)[doc].z80" size 6880 crc 8bbd4a44 md5 6ae16f4a095ee1e1da7d79f72ec30772 )
+)
+
+game (
+	name "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a][doc]"
+	description "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a][doc]"
+	rom ( name "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a][doc].z80" size 9824 crc 8ef7de45 md5 eb5429f22a818ca79bd06d98a08a7202 )
+)
+
+game (
+	name "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a2][doc]"
+	description "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a2][doc]"
+	rom ( name "Einsatz der 256K-RAM-Floppy nach MP 3-88 (1989)(R. Brosig)[a2][doc].z80" size 9818 crc a2d9dbd5 md5 01e71bd05b74d1ab98e94cbdc84d405c )
+)
+
+game (
+	name "Encounter (1988)(D. Schaedlich)[a]"
+	description "Encounter (1988)(D. Schaedlich)[a]"
+	rom ( name "Encounter (1988)(D. Schaedlich)[a].z80" size 11072 crc 3a155d73 md5 6becb943855bd6245c42e33ed1a19be6 )
+)
+
+game (
+	name "Encounter (1988)(D. Schaedlich)[a2]"
+	description "Encounter (1988)(D. Schaedlich)[a2]"
+	rom ( name "Encounter (1988)(D. Schaedlich)[a2].z80" size 11040 crc 516b1033 md5 856ec3de9e03d5db77cd164223c33724 )
+)
+
+game (
+	name "Enter-Version (19xx)(-)"
+	description "Enter-Version (19xx)(-)"
+	rom ( name "Enter-Version (19xx)(-).z80" size 12352 crc 1b4be835 md5 2c1b149b4ed82ad0f9ff5f613e0cc8b0 )
+)
+
+game (
+	name "Enterprise (19xx)(M.Brumme)"
+	description "Enterprise (19xx)(M.Brumme)"
+	rom ( name "Enterprise (19xx)(M.Brumme).z80" size 12898 crc bfbd0bb6 md5 75645119c3882be95ef6cdb7fcdd16d5 )
+)
+
+game (
+	name "Entropia (1989)(Klaus Rothe)"
+	description "Entropia (1989)(Klaus Rothe)"
+	rom ( name "Entropia (1989)(Klaus Rothe).z80" size 30592 crc b6902407 md5 d16651f05b5de525000489ed94897951 )
+)
+
+game (
+	name "Europaeische Farbnormen (19xx)(-)[doc]"
+	description "Europaeische Farbnormen (19xx)(-)[doc]"
+	rom ( name "Europaeische Farbnormen (19xx)(-)[doc].z80" size 566 crc 0de39950 md5 84490e1820a1a3ac5347391e14c6fb2f )
+)
+
+game (
+	name "Extended Fig-Forth v2.2 (19xx)(B. Bachmann)"
+	description "Extended Fig-Forth v2.2 (19xx)(B. Bachmann)"
+	rom ( name "Extended Fig-Forth v2.2 (19xx)(B. Bachmann).z80" size 14400 crc 3b0e2796 md5 dd7e5666ae5d0daf9ea6a1ca5fac5911 )
+)
+
+game (
+	name "FKT3D (1989)(H. Voelz)"
+	description "FKT3D (1989)(H. Voelz)"
+	rom ( name "FKT3D (1989)(H. Voelz).z80" size 3297 crc c1e0409b md5 cf850bf03adfd21ee9a880745036af5b )
+)
+
+game (
+	name "Fehlberg - Loesung eines DGLS (19xx)(-)"
+	description "Fehlberg - Loesung eines DGLS (19xx)(-)"
+	rom ( name "Fehlberg - Loesung eines DGLS (19xx)(-).z80" size 6528 crc f017ae78 md5 a8cff4345ad05c4afe940a7ed5f7800f )
+)
+
+game (
+	name "Fighter (1987)(D. Scheadlich)[a]"
+	description "Fighter (1987)(D. Scheadlich)[a]"
+	rom ( name "Fighter (1987)(D. Scheadlich)[a].z80" size 16160 crc 1b76b298 md5 f013e98808d80e1c2221f108154cf6f2 )
+)
+
+game (
+	name "Fighter (1987)(D. Scheadlich)[a2]"
+	description "Fighter (1987)(D. Scheadlich)[a2]"
+	rom ( name "Fighter (1987)(D. Scheadlich)[a2].z80" size 16096 crc ccfbe8f6 md5 1457c26024fa21e057459fb5019e6bc5 )
+)
+
+game (
+	name "Fighter (1987)(D. Scheadlich)[a3]"
+	description "Fighter (1987)(D. Scheadlich)[a3]"
+	rom ( name "Fighter (1987)(D. Scheadlich)[a3].z80" size 16065 crc 961d8d1f md5 dc7c3701f6ee023225e5ec14463861dc )
+)
+
+game (
+	name "File (1989)(H. Voelz)"
+	description "File (1989)(H. Voelz)"
+	rom ( name "File (1989)(H. Voelz).z80" size 1292 crc 20fb2243 md5 e6d3e8f4f11e61c7b7946e304e461f4d )
+)
+
+game (
+	name "Flipper (1987)(Hepprich)"
+	description "Flipper (1987)(Hepprich)"
+	rom ( name "Flipper (1987)(Hepprich).z80" size 3616 crc 32f67223 md5 9a89ceab3357341141e8bf86ecfb4b43 )
+)
+
+game (
+	name "Frogger and Snail (1987)(J. Nolte)[b]"
+	description "Frogger and Snail (1987)(J. Nolte)[b]"
+	rom ( name "Frogger and Snail (1987)(J. Nolte)[b].z80" size 2464 crc 2cb73177 md5 2cfe301518a704ce2e7bbaccefebfb87 )
+)
+
+game (
+	name "Fussball (19xx)(-)"
+	description "Fussball (19xx)(-)"
+	rom ( name "Fussball (19xx)(-).z80" size 960 crc 5b28f4b1 md5 2f4b2c000c99b2b158c2ad31bcaa12fd )
+)
+
+game (
+	name "Fussball Manager (19xx)(-)[b]"
+	description "Fussball Manager (19xx)(-)[b]"
+	rom ( name "Fussball Manager (19xx)(-)[b].z80" size 21292 crc 3ffd4d52 md5 8957381b34c155fa3dd41d5a9fd8f2e8 )
+)
+
+game (
+	name "GWBasic v1.0 (19xx)(-)[b]"
+	description "GWBasic v1.0 (19xx)(-)[b]"
+	rom ( name "GWBasic v1.0 (19xx)(-)[b].z80" size 8256 crc 1050254b md5 70d9c43c74897e02b782ca71479285c7 )
+)
+
+game (
+	name "Galactica (19xx)(W. Prengel)[a]"
+	description "Galactica (19xx)(W. Prengel)[a]"
+	rom ( name "Galactica (19xx)(W. Prengel)[a].z80" size 4129 crc 0969d9cc md5 f0aa5c55932e53354bd40349a5a640f8 )
+)
+
+game (
+	name "Galactica (19xx)(W. Prengel)[a2]"
+	description "Galactica (19xx)(W. Prengel)[a2]"
+	rom ( name "Galactica (19xx)(W. Prengel)[a2].z80" size 4160 crc 356a5918 md5 2df733254f2ac0133752d91255cb9532 )
+)
+
+game (
+	name "Galactica (19xx)(W. Prengel)[a3]"
+	description "Galactica (19xx)(W. Prengel)[a3]"
+	rom ( name "Galactica (19xx)(W. Prengel)[a3].z80" size 4128 crc b0881ad5 md5 783cd4e89fc0aadf585957641a7102cb )
+)
+
+game (
+	name "Galactica (19xx)(W. Prengel)[without Titelscreen][Joysticksupport]"
+	description "Galactica (19xx)(W. Prengel)[without Titelscreen][Joysticksupport]"
+	rom ( name "Galactica (19xx)(W. Prengel)[without Titelscreen][Joysticksupport].z80" size 4160 crc fb97a5b7 md5 425c7242c7c41cd7fe4ce38c94593fe3 )
+)
+
+game (
+	name "Galaxis (19xx)(U. Beckmann)"
+	description "Galaxis (19xx)(U. Beckmann)"
+	rom ( name "Galaxis (19xx)(U. Beckmann).z80" size 3104 crc 09adc967 md5 dced692ddba89e7dd7064a30fb319fb2 )
+)
+
+game (
+	name "Gammon (19xx)(-)"
+	description "Gammon (19xx)(-)"
+	rom ( name "Gammon (19xx)(-).z80" size 9187 crc 1dfc87ca md5 e2f01ab325079ab4734476bba7361ed7 )
+)
+
+game (
+	name "Gammon (19xx)(-)[b]"
+	description "Gammon (19xx)(-)[b]"
+	rom ( name "Gammon (19xx)(-)[b].z80" size 9216 crc 84036514 md5 2513a1bbe996cb5be91da38ee0108e3c )
+)
+
+game (
+	name "Ganymed (19xx)(-)"
+	description "Ganymed (19xx)(-)"
+	rom ( name "Ganymed (19xx)(-).z80" size 5664 crc 0e76a10c md5 6c5bd875ff0996695ec535583195d851 )
+)
+
+game (
+	name "Geisterfahrer (19xx)(-)"
+	description "Geisterfahrer (19xx)(-)"
+	rom ( name "Geisterfahrer (19xx)(-).z80" size 16160 crc b600a64d md5 91425ac8ce7487cfc5ba977d52edd6d7 )
+)
+
+game (
+	name "Ghost (19xx)(Eagle-Soft Dresden)[a]"
+	description "Ghost (19xx)(Eagle-Soft Dresden)[a]"
+	rom ( name "Ghost (19xx)(Eagle-Soft Dresden)[a].z80" size 7968 crc d924a22c md5 354ce58815b289df1c356e2c4e326696 )
+)
+
+game (
+	name "Ghost (19xx)(Eagle-Soft Dresden)[a2]"
+	description "Ghost (19xx)(Eagle-Soft Dresden)[a2]"
+	rom ( name "Ghost (19xx)(Eagle-Soft Dresden)[a2].z80" size 8000 crc 2f7fac7e md5 9a8c1e32a589d7023e89f9e1a5feede0 )
+)
+
+game (
+	name "Ghost (19xx)(Eagle-Soft Dresden)[a3]"
+	description "Ghost (19xx)(Eagle-Soft Dresden)[a3]"
+	rom ( name "Ghost (19xx)(Eagle-Soft Dresden)[a3].z80" size 7968 crc 714c7fa4 md5 8e768e4790c69a960110bcc235949b7c )
+)
+
+game (
+	name "Ghost (19xx)(Eagle-Soft Dresden)[o]"
+	description "Ghost (19xx)(Eagle-Soft Dresden)[o]"
+	rom ( name "Ghost (19xx)(Eagle-Soft Dresden)[o].z80" size 8000 crc 34fac6b6 md5 cd97c36d3f01b8c09d9114c8f55458d0 )
+)
+
+game (
+	name "Ghost-Hut (19xx)(Eagle-Soft)[Joysticksupport]"
+	description "Ghost-Hut (19xx)(Eagle-Soft)[Joysticksupport]"
+	rom ( name "Ghost-Hut (19xx)(Eagle-Soft)[Joysticksupport].z80" size 2496 crc 9cfc13ef md5 767800e41f00e87b7b801acf0966ad27 )
+)
+
+game (
+	name "Globe (1989)(-)"
+	description "Globe (1989)(-)"
+	rom ( name "Globe (1989)(-).z80" size 11495 crc 97b94f11 md5 f683c4b2e08ef0cb135dfd47f81c8498 )
+)
+
+game (
+	name "Gost Hut (19xx)(Eagle Soft)[b]"
+	description "Gost Hut (19xx)(Eagle Soft)[b]"
+	rom ( name "Gost Hut (19xx)(Eagle Soft)[b].z80" size 2496 crc ba18671b md5 8da51a0f9e96a2f3faabc9b1a872909e )
+)
+
+game (
+	name "Grafik-Editor v1.22 (19xx)(Rehn-Soft)"
+	description "Grafik-Editor v1.22 (19xx)(Rehn-Soft)"
+	rom ( name "Grafik-Editor v1.22 (19xx)(Rehn-Soft).z80" size 3264 crc 8d4eac80 md5 596993d3d354443b9d8bbe5e1885d16b )
+)
+
+game (
+	name "Grafik-Editor v2.24 (19xx)(Rehn-Soft)"
+	description "Grafik-Editor v2.24 (19xx)(Rehn-Soft)"
+	rom ( name "Grafik-Editor v2.24 (19xx)(Rehn-Soft).z80" size 5408 crc 3c5a8acf md5 9c6d23267e022fa36851dd61e146fddd )
+)
+
+game (
+	name "Graverobber (1987)(SCI)"
+	description "Graverobber (1987)(SCI)"
+	rom ( name "Graverobber (1987)(SCI).z80" size 10080 crc fd86e5ae md5 c9490afb5f6a0b7b428456e5eda153b1 )
+)
+
+game (
+	name "Graverobber (1987)(SCI)[h]"
+	description "Graverobber (1987)(SCI)[h]"
+	rom ( name "Graverobber (1987)(SCI)[h].z80" size 10080 crc f6d25340 md5 02ff6c222fe73b95d5a6f8a0a32db7de )
+)
+
+game (
+	name "HC 900 BASIC (1986)(Bernd Roeske)(en)"
+	description "HC 900 BASIC (1986)(Bernd Roeske)(en)"
+	rom ( name "HC 900 BASIC (1986)(Bernd Roeske)(en).z80" size 10912 crc 3361f6c2 md5 ac559be453153ac534c19059ce754b32 )
+)
+
+game (
+	name "HC Basic (19xx)(-)(en)[a]"
+	description "HC Basic (19xx)(-)(en)[a]"
+	rom ( name "HC Basic (19xx)(-)(en)[a].z80" size 10784 crc 9cbe1a09 md5 76fc978e9da1ef803ea8dd60f4915fc6 )
+)
+
+game (
+	name "HC Basic (19xx)(-)(en)[a2]"
+	description "HC Basic (19xx)(-)(en)[a2]"
+	rom ( name "HC Basic (19xx)(-)(en)[a2].z80" size 10784 crc 9c67c636 md5 d27a1b76482be72602da9a4bc6b4af94 )
+)
+
+game (
+	name "HC Basic (19xx)(-)(en)[a3]"
+	description "HC Basic (19xx)(-)(en)[a3]"
+	rom ( name "HC Basic (19xx)(-)(en)[a3].z80" size 11296 crc 54068fa2 md5 a2e37e9e4c75bb39b1d3b94c90aef6e3 )
+)
+
+game (
+	name "HC Basic (19xx)(-)(en)[b]"
+	description "HC Basic (19xx)(-)(en)[b]"
+	rom ( name "HC Basic (19xx)(-)(en)[b].z80" size 10560 crc 4ef0431a md5 8bd54ec145ceaeade95b644e0ae259e8 )
+)
+
+game (
+	name "HC Basic (19xx)(-)(en)[b2]"
+	description "HC Basic (19xx)(-)(en)[b2]"
+	rom ( name "HC Basic (19xx)(-)(en)[b2].z80" size 8224 crc 705a1b46 md5 a337fe1ec221e5eba5fbf1e5533d8f3c )
+)
+
+game (
+	name "HC Basic Pset-Sound (19xx)(-)(en)"
+	description "HC Basic Pset-Sound (19xx)(-)(en)"
+	rom ( name "HC Basic Pset-Sound (19xx)(-)(en).z80" size 10912 crc d92e8bf2 md5 3305b978e27be0350aee422900e70662 )
+)
+
+game (
+	name "HC-BI v4.1 (19xx)(NH)[a]"
+	description "HC-BI v4.1 (19xx)(NH)[a]"
+	rom ( name "HC-BI v4.1 (19xx)(NH)[a].z80" size 11584 crc a3e0291d md5 de1672a2e3d30db633655bef99601bde )
+)
+
+game (
+	name "HC-BI v4.1 (19xx)(NH)[a2]"
+	description "HC-BI v4.1 (19xx)(NH)[a2]"
+	rom ( name "HC-BI v4.1 (19xx)(NH)[a2].z80" size 11584 crc 202c528c md5 f4c08520df7069cb61d7e50cd34354da )
+)
+
+game (
+	name "HCopy (19xx)(-)[b]"
+	description "HCopy (19xx)(-)[b]"
+	rom ( name "HCopy (19xx)(-)[b].z80" size 2368 crc 0f928a98 md5 190e1a4c19179294fb54db50b6d151bb )
+)
+
+game (
+	name "HCopy (19xx)(-)[b][K 6320]"
+	description "HCopy (19xx)(-)[b][K 6320]"
+	rom ( name "HCopy (19xx)(-)[b][K 6320].z80" size 2240 crc ef5dbb4d md5 5dd1d1e682a22c562935bca1ecb9d43e )
+)
+
+game (
+	name "HCopy 2 (19xx)(-)[b]"
+	description "HCopy 2 (19xx)(-)[b]"
+	rom ( name "HCopy 2 (19xx)(-)[b].z80" size 1056 crc 2377ab3a md5 5f2341e61b4061eb479a141fde0ea3aa )
+)
+
+game (
+	name "HDiskcopy v1.3 (19xx)(M. Halupka)"
+	description "HDiskcopy v1.3 (19xx)(M. Halupka)"
+	rom ( name "HDiskcopy v1.3 (19xx)(M. Halupka).z80" size 5152 crc 4574a819 md5 2624a0f70e6da06aa2e04961b879205f )
+)
+
+game (
+	name "HDiskcopy v1.6 (1990)(M. Halupka)[doc]"
+	description "HDiskcopy v1.6 (1990)(M. Halupka)[doc]"
+	rom ( name "HDiskcopy v1.6 (1990)(M. Halupka)[doc].z80" size 12640 crc 491d97e0 md5 0b394067c58e9c7e88cf00f130cef6d0 )
+)
+
+game (
+	name "HDiskcopy v1.6 (19xx)(M. Halupka)[a]"
+	description "HDiskcopy v1.6 (19xx)(M. Halupka)[a]"
+	rom ( name "HDiskcopy v1.6 (19xx)(M. Halupka)[a].z80" size 5152 crc 8c6a9337 md5 50d3fc1e02cc36880f376305c9b53472 )
+)
+
+game (
+	name "HDiskcopy v1.6 (19xx)(M. Halupka)[a2]"
+	description "HDiskcopy v1.6 (19xx)(M. Halupka)[a2]"
+	rom ( name "HDiskcopy v1.6 (19xx)(M. Halupka)[a2].z80" size 5152 crc d167cd00 md5 692cf080b58e745bc6a4f75207d49799 )
+)
+
+game (
+	name "HEADER-Soft 2 (19xx)(-)"
+	description "HEADER-Soft 2 (19xx)(-)"
+	rom ( name "HEADER-Soft 2 (19xx)(-).z80" size 3104 crc 3f5e9c6c md5 07f2a481d37587e34f1a6130c34fdd36 )
+)
+
+game (
+	name "HEADER-Soft 4 (19xx)(BeK-Soft)"
+	description "HEADER-Soft 4 (19xx)(BeK-Soft)"
+	rom ( name "HEADER-Soft 4 (19xx)(BeK-Soft).z80" size 1280 crc 303757a1 md5 ea3a72325370ceaee3ee56279c3ec2fc )
+)
+
+game (
+	name "HEX-Data (19xx)(-)"
+	description "HEX-Data (19xx)(-)"
+	rom ( name "HEX-Data (19xx)(-).z80" size 224 crc edf98da5 md5 45852cfa54c6859270fa10c1042fd064 )
+)
+
+game (
+	name "HRamdiskauto 18.5 (1989)(Sieghard Howitz)"
+	description "HRamdiskauto 18.5 (1989)(Sieghard Howitz)"
+	rom ( name "HRamdiskauto 18.5 (1989)(Sieghard Howitz).z80" size 704 crc d024bd58 md5 03c7c1b2c875145d622c587fcb0602ee )
+)
+
+game (
+	name "Hacker (1989)(Y43RK)"
+	description "Hacker (1989)(Y43RK)"
+	rom ( name "Hacker (1989)(Y43RK).z80" size 50176 crc 5ad6d50d md5 701732139296da2a16126ef357e8e4e5 )
+)
+
+game (
+	name "Hardcopy (19xx)(-)"
+	description "Hardcopy (19xx)(-)"
+	rom ( name "Hardcopy (19xx)(-).z80" size 2240 crc ca2148b4 md5 c25e65ae3109fceec241e2e1b49d1162 )
+)
+
+game (
+	name "Header-Bank-Copy (19xx)(I. Neumann)[a]"
+	description "Header-Bank-Copy (19xx)(I. Neumann)[a]"
+	rom ( name "Header-Bank-Copy (19xx)(I. Neumann)[a].z80" size 1664 crc 2dba41c7 md5 26e1b6bfb293de0f54f0e9fccd74d08a )
+)
+
+game (
+	name "Header-Bank-Copy (19xx)(I. Neumann)[a2]"
+	description "Header-Bank-Copy (19xx)(I. Neumann)[a2]"
+	rom ( name "Header-Bank-Copy (19xx)(I. Neumann)[a2].z80" size 1664 crc 919f3ab5 md5 f7ce2b1513ec8daf4414a16854e77308 )
+)
+
+game (
+	name "Header-CRC v1.1 + Header-CRC v1.2 + Header-CRC v1.3 (1989)(Rafelt, W.)[doc]"
+	description "Header-CRC v1.1 + Header-CRC v1.2 + Header-CRC v1.3 (1989)(Rafelt, W.)[doc]"
+	rom ( name "Header-CRC v1.1 + Header-CRC v1.2 + Header-CRC v1.3 (1989)(Rafelt, W.)[doc].z80" size 2505 crc 8020af30 md5 8258808f3529c23abe1ef76d3bd4d3b0 )
+)
+
+game (
+	name "Header-Menue 4 (19xx)(Joerg Diestel)"
+	description "Header-Menue 4 (19xx)(Joerg Diestel)"
+	rom ( name "Header-Menue 4 (19xx)(Joerg Diestel).z80" size 2336 crc f07b0cf0 md5 0f7a18396f27377880303663a01d212e )
+)
+
+game (
+	name "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a][doc]"
+	description "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a][doc]"
+	rom ( name "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a][doc].z80" size 7136 crc dbfe6f8a md5 0cc48f65621a7478c0a3aaaed675e7bf )
+)
+
+game (
+	name "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a2][doc]"
+	description "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a2][doc]"
+	rom ( name "Header-Save v5.9 (19xx)(R. Brosig & W. Florin)[a2][doc].z80" size 7136 crc 86d3c4d9 md5 3ebc6012b25c7fdcb86803ca6e687e3f )
+)
+
+game (
+	name "Header-Save v5.95 (19xx)(-)[b]"
+	description "Header-Save v5.95 (19xx)(-)[b]"
+	rom ( name "Header-Save v5.95 (19xx)(-)[b].z80" size 1056 crc acc2d59e md5 9a866da5a40845ddfcac5f3898eba8ec )
+)
+
+game (
+	name "Header-Save v5.95 (19xx)(-)[b2]"
+	description "Header-Save v5.95 (19xx)(-)[b2]"
+	rom ( name "Header-Save v5.95 (19xx)(-)[b2].z80" size 1056 crc 1941843e md5 1463deeff07fa51d44d3fb88f0ef0b0d )
+)
+
+game (
+	name "Header-Save v5.95 (19xx)(-)[b3]"
+	description "Header-Save v5.95 (19xx)(-)[b3]"
+	rom ( name "Header-Save v5.95 (19xx)(-)[b3].z80" size 1056 crc b5be1fa1 md5 66b93bc54e657a09ed13605aae8d01dc )
+)
+
+game (
+	name "Header-Save v5.95 (19xx)(-)[b4]"
+	description "Header-Save v5.95 (19xx)(-)[b4]"
+	rom ( name "Header-Save v5.95 (19xx)(-)[b4].z80" size 1056 crc e2890ca4 md5 be6d104c63a86ae3305593be336b94c3 )
+)
+
+game (
+	name "Header-Save Bank (1989)(I. Neumann)"
+	description "Header-Save Bank (1989)(I. Neumann)"
+	rom ( name "Header-Save Bank (1989)(I. Neumann).z80" size 800 crc cceb76e9 md5 0684569ae0c34caf23c7bc6d294e68f9 )
+)
+
+game (
+	name "Header-Save Bank (1989)(I. Neumann)[doc]"
+	description "Header-Save Bank (1989)(I. Neumann)[doc]"
+	rom ( name "Header-Save Bank (1989)(I. Neumann)[doc].z80" size 790 crc 08452ae9 md5 6229896e1a7bc8da356c3b05dcc2d2a9 )
+)
+
+game (
+	name "Headerdisk (1989)(R. Brosig)"
+	description "Headerdisk (1989)(R. Brosig)"
+	rom ( name "Headerdisk (1989)(R. Brosig).z80" size 2080 crc 33dbcf64 md5 85828bcac3d06b1f7431c0eed6dd1c73 )
+)
+
+game (
+	name "Headerdisk 45 (1989)(R. Brosig)[a]"
+	description "Headerdisk 45 (1989)(R. Brosig)[a]"
+	rom ( name "Headerdisk 45 (1989)(R. Brosig)[a].z80" size 2080 crc 97dcd322 md5 12f88f469c5b4ebf29bd6c9626b7ed0e )
+)
+
+game (
+	name "Headerdisk 45 (1989)(R. Brosig)[a2]"
+	description "Headerdisk 45 (1989)(R. Brosig)[a2]"
+	rom ( name "Headerdisk 45 (1989)(R. Brosig)[a2].z80" size 2080 crc 671dd929 md5 a69fa27d60f1841ffaecb14d1ac68343 )
+)
+
+game (
+	name "Headerprint v1.1 (19xx)(R. Brosig)"
+	description "Headerprint v1.1 (19xx)(R. Brosig)"
+	rom ( name "Headerprint v1.1 (19xx)(R. Brosig).z80" size 672 crc c6d77454 md5 77bda55094cc9352c1ca949ba2c85c0a )
+)
+
+game (
+	name "Headerwrite v1.0 (19xx)(A. Ziermann)"
+	description "Headerwrite v1.0 (19xx)(A. Ziermann)"
+	rom ( name "Headerwrite v1.0 (19xx)(A. Ziermann).z80" size 1280 crc f2bcfc2b md5 6994897818017d5a5828e27f0ddb3169 )
+)
+
+game (
+	name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a]"
+	description "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a]"
+	rom ( name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a].z80" size 1824 crc 0343121c md5 2ae851edc0378818f97c75107dc9dcda )
+)
+
+game (
+	name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a2]"
+	description "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a2]"
+	rom ( name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[a2].z80" size 1824 crc eb92b7d6 md5 d57ff178a0249ab48e80c0776abf8b78 )
+)
+
+game (
+	name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[Joysticksupport]"
+	description "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[Joysticksupport]"
+	rom ( name "Heartrunner (1986)(SCI - G. Fischer, J. Israel)[Joysticksupport].z80" size 1888 crc 9ab5a175 md5 33d0622303dbe6341c1bf83f89ac7f0b )
+)
+
+game (
+	name "Helen (19xx)(B. Luehne)(en)"
+	description "Helen (19xx)(B. Luehne)(en)"
+	rom ( name "Helen (19xx)(B. Luehne)(en).z80" size 5920 crc 650263ce md5 a36a733231ada33800f6bde25fa9ee6c )
+)
+
+game (
+	name "Herr Stanius in New York (1987)(D. Schaedlich)"
+	description "Herr Stanius in New York (1987)(D. Schaedlich)"
+	rom ( name "Herr Stanius in New York (1987)(D. Schaedlich).z80" size 10656 crc 56575d82 md5 a547e73840d6333f30f6b1e42649a7c6 )
+)
+
+game (
+	name "Herr Stanius in New York (1987)(D. Schaedlich)[Joysticksupport]"
+	description "Herr Stanius in New York (1987)(D. Schaedlich)[Joysticksupport]"
+	rom ( name "Herr Stanius in New York (1987)(D. Schaedlich)[Joysticksupport].z80" size 10656 crc d63e84f9 md5 7e8d567986137f27499ecd4628c5de54 )
+)
+
+game (
+	name "Hex-ASCII-Dump (1988)(W. Bernhardt)[a]"
+	description "Hex-ASCII-Dump (1988)(W. Bernhardt)[a]"
+	rom ( name "Hex-ASCII-Dump (1988)(W. Bernhardt)[a].z80" size 2368 crc 8722b5fa md5 174c5cba3b76e082759d136ff176f4b4 )
+)
+
+game (
+	name "Hex-ASCII-Dump (1988)(W. Bernhardt)[a2]"
+	description "Hex-ASCII-Dump (1988)(W. Bernhardt)[a2]"
+	rom ( name "Hex-ASCII-Dump (1988)(W. Bernhardt)[a2].z80" size 2368 crc d4ad7a7f md5 5caece0d209b751ca91950dd91387a9a )
+)
+
+game (
+	name "Hindernislauf (19xx)(-)"
+	description "Hindernislauf (19xx)(-)"
+	rom ( name "Hindernislauf (19xx)(-).z80" size 1088 crc 0b91e7fa md5 25810b9ead3de2b7fe34f6e54b3888fe )
+)
+
+game (
+	name "Hindernislauf (19xx)(-)[b]"
+	description "Hindernislauf (19xx)(-)[b]"
+	rom ( name "Hindernislauf (19xx)(-)[b].z80" size 1088 crc e418a9ab md5 2e5f86ea78f9fd689c60d95a8b62d508 )
+)
+
+game (
+	name "Hindernislauf (19xx)(-)[Joysticksupport]"
+	description "Hindernislauf (19xx)(-)[Joysticksupport]"
+	rom ( name "Hindernislauf (19xx)(-)[Joysticksupport].z80" size 1088 crc e4141782 md5 6a178e545b6c56f6f73176e8de370e60 )
+)
+
+game (
+	name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a]"
+	description "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a]"
+	rom ( name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a].z80" size 7712 crc 182610fb md5 06aca58b62e46737fc0ab4af645c225f )
+)
+
+game (
+	name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a2]"
+	description "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a2]"
+	rom ( name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a2].z80" size 7712 crc 7531fa21 md5 fe4253e80dc427a90b0fe152f7c60000 )
+)
+
+game (
+	name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a3]"
+	description "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a3]"
+	rom ( name "Hisoft Gens3M Assembler (1983)(B. Arning)(en)[a3].z80" size 7712 crc cb513f9c md5 8115fed006df9df2f702a2a5db10bd6c )
+)
+
+game (
+	name "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a][doc]"
+	description "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a][doc]"
+	rom ( name "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a][doc].z80" size 9920 crc bfabfe12 md5 fcf8ad2ca61607accd4cb7e94f7cec24 )
+)
+
+game (
+	name "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a2][doc]"
+	description "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a2][doc]"
+	rom ( name "Hisoft Pascal Teach (1983)(Hisoft)[h N.H. & U.G.][a2][doc].z80" size 9920 crc d09f932d md5 def5971e0496ce8080adb6fa31fa13dc )
+)
+
+game (
+	name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a]"
+	description "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a]"
+	rom ( name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a].z80" size 16320 crc 55f7c99f md5 2d7a9a200ed1e1f344e61da19c933543 )
+)
+
+game (
+	name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a2]"
+	description "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a2]"
+	rom ( name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a2].z80" size 16209 crc b35093f6 md5 7871b98b1e51cb224fc7af98ab9a39d1 )
+)
+
+game (
+	name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a3]"
+	description "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a3]"
+	rom ( name "Hisoft-Pascal v1.04 (1983)(Hisoft)[h N.H. & U.G.][a3].z80" size 16209 crc b43c4736 md5 f4a54f109d2fcf31a217603acd635860 )
+)
+
+game (
+	name "Hisoft-Pascal v1.04 (1989)(Dr. Trog)[doc]"
+	description "Hisoft-Pascal v1.04 (1989)(Dr. Trog)[doc]"
+	rom ( name "Hisoft-Pascal v1.04 (1989)(Dr. Trog)[doc].z80" size 23964 crc c9b1e4f8 md5 493504ff5d0715dd875e77440638a54e )
+)
+
+game (
+	name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a]"
+	description "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a]"
+	rom ( name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a].z80" size 16320 crc d655ac46 md5 a6f9e937b22bac5090a5f93831833530 )
+)
+
+game (
+	name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a2]"
+	description "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a2]"
+	rom ( name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][a2].z80" size 16320 crc 509f616c md5 01aaa2ee30a78dc170c4ee7c45e9340e )
+)
+
+game (
+	name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][b]"
+	description "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][b]"
+	rom ( name "Hisoft-Pascal v1.3 (1983)(Hisoft)[h N.H. & U.G.][b].z80" size 16320 crc 03c2389d md5 0b94acb72835ea444af6c0ff2f0d8041 )
+)
+
+game (
+	name "Hisoft-Pascal Beschreibung (1997)(N.H. & U.G.)[doc]"
+	description "Hisoft-Pascal Beschreibung (1997)(N.H. & U.G.)[doc]"
+	rom ( name "Hisoft-Pascal Beschreibung (1997)(N.H. & U.G.)[doc].z80" size 7808 crc c4171342 md5 5b9cec8af8a707bb7cbc47cfde6d888d )
+)
+
+game (
+	name "Hsave 7c (19xx)(-)[b]"
+	description "Hsave 7c (19xx)(-)[b]"
+	rom ( name "Hsave 7c (19xx)(-)[b].z80" size 1056 crc 2d4fa3b5 md5 b7221b7127ffe817565f803668347b41 )
+)
+
+game (
+	name "Huby Flie (1989)(Flu Soft - U. Beckmann)"
+	description "Huby Flie (1989)(Flu Soft - U. Beckmann)"
+	rom ( name "Huby Flie (1989)(Flu Soft - U. Beckmann).z80" size 2336 crc 5b3bb16b md5 02524a57af835381679805ada712af3c )
+)
+
+game (
+	name "Hundi (19xx)(-)"
+	description "Hundi (19xx)(-)"
+	rom ( name "Hundi (19xx)(-).z80" size 7264 crc c04196a2 md5 d6481cb269df58a651fab47c25df9af3 )
+)
+
+game (
+	name "Hundi (19xx)(D. Ambras)"
+	description "Hundi (19xx)(D. Ambras)"
+	rom ( name "Hundi (19xx)(D. Ambras).z80" size 3441 crc bffdb829 md5 618f9ac2e96ca382fc47838a643239a5 )
+)
+
+game (
+	name "Hymnen (1986)(Peter Foliant)"
+	description "Hymnen (1986)(Peter Foliant)"
+	rom ( name "Hymnen (1986)(Peter Foliant).z80" size 11556 crc 5a645308 md5 d014bec387f6fae8da5ce109e51a7295 )
+)
+
+game (
+	name "IC-Datei (19xx)(-)"
+	description "IC-Datei (19xx)(-)"
+	rom ( name "IC-Datei (19xx)(-).z80" size 12001 crc b8a36985 md5 f418e12b00fbe185cbd966bd77848df4 )
+)
+
+game (
+	name "IIC Bus Dump (19xx)(-)"
+	description "IIC Bus Dump (19xx)(-)"
+	rom ( name "IIC Bus Dump (19xx)(-).z80" size 8224 crc 5cd50a30 md5 f3b6bdf07723932a70dbd4a11a56c9ad )
+)
+
+game (
+	name "IIC EMR Dump (1989)(Godmann)"
+	description "IIC EMR Dump (1989)(Godmann)"
+	rom ( name "IIC EMR Dump (1989)(Godmann).z80" size 4129 crc a2c56699 md5 91198675e0f99f81795641915cb5f370 )
+)
+
+game (
+	name "Idas v1.1 (19xx)(D. Ambras)(en)"
+	description "Idas v1.1 (19xx)(D. Ambras)(en)"
+	rom ( name "Idas v1.1 (19xx)(D. Ambras)(en).z80" size 7024 crc 5135c219 md5 5eb00d672e132e2a48d5de43e75b52cf )
+)
+
+game (
+	name "Invasion (19xx)(-)[b]"
+	description "Invasion (19xx)(-)[b]"
+	rom ( name "Invasion (19xx)(-)[b].z80" size 4160 crc cea258bc md5 f07e35b0489276917b59292501a455ce )
+)
+
+game (
+	name "Invasion 2 (19xx)(A. P. Erfurt)"
+	description "Invasion 2 (19xx)(A. P. Erfurt)"
+	rom ( name "Invasion 2 (19xx)(A. P. Erfurt).z80" size 2912 crc ca80f66c md5 7cf05230adda7ce79c4248eabf795c9d )
+)
+
+game (
+	name "Irrgarten (1989)(U. Beckmann)"
+	description "Irrgarten (1989)(U. Beckmann)"
+	rom ( name "Irrgarten (1989)(U. Beckmann).z80" size 2592 crc 252bf64e md5 aef564c589f1bb60d65fb90b7f0be9b4 )
+)
+
+game (
+	name "Joystick Init (19xx)(-)"
+	description "Joystick Init (19xx)(-)"
+	rom ( name "Joystick Init (19xx)(-).z80" size 128 crc 172ca4d1 md5 b750ebbd99afcfac14e05b24113a0308 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)"
+	description "Joystik-Installations-Programm (19xx)(-)"
+	rom ( name "Joystik-Installations-Programm (19xx)(-).z80" size 1408 crc 67006266 md5 3302e144bb4603ad24072860e159f0a4 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a]"
+	description "Joystik-Installations-Programm (19xx)(-)[a]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a].z80" size 576 crc 97d0824d md5 3ef96bda4f043b18f77258f786c2f0c2 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a10]"
+	description "Joystik-Installations-Programm (19xx)(-)[a10]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a10].z80" size 1408 crc e9884965 md5 589e9ef30b09f8a05773bb188709adf6 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a11]"
+	description "Joystik-Installations-Programm (19xx)(-)[a11]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a11].z80" size 1568 crc 97715e5d md5 b1b5142ae785712a11112679f29401b2 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a12]"
+	description "Joystik-Installations-Programm (19xx)(-)[a12]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a12].z80" size 1152 crc ea32f0d8 md5 491e874f829f8e93e8074093232d27c1 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a13]"
+	description "Joystik-Installations-Programm (19xx)(-)[a13]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a13].z80" size 1344 crc 297ba4af md5 4234587ab43f314a69f2be8da6cef028 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a14]"
+	description "Joystik-Installations-Programm (19xx)(-)[a14]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a14].z80" size 992 crc 15ef4705 md5 5b3626dd81d7a1efc8337905f1a7d5e6 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a15]"
+	description "Joystik-Installations-Programm (19xx)(-)[a15]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a15].z80" size 1376 crc 8c41d9d2 md5 c5ece9cf7998d5aa0f79434cfe3a5905 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a17]"
+	description "Joystik-Installations-Programm (19xx)(-)[a17]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a17].z80" size 1600 crc b1a9d707 md5 762a59cd4bbec4ade2a5a68c77766a67 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a18]"
+	description "Joystik-Installations-Programm (19xx)(-)[a18]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a18].z80" size 1664 crc 6c08715e md5 e672228c5865fd9c9859f4e5eefacd83 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a19]"
+	description "Joystik-Installations-Programm (19xx)(-)[a19]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a19].z80" size 1088 crc f49ebdcc md5 add8d3c7df4935b2570ae7c496c1efa3 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a2]"
+	description "Joystik-Installations-Programm (19xx)(-)[a2]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a2].z80" size 1472 crc 1ff7f105 md5 8eca6ec1c48ad829f5118a6d29f286ad )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a20]"
+	description "Joystik-Installations-Programm (19xx)(-)[a20]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a20].z80" size 2240 crc 40b06b8f md5 a8b7b3cf77c5314e975aa49df3859e46 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a21]"
+	description "Joystik-Installations-Programm (19xx)(-)[a21]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a21].z80" size 2688 crc accaaea3 md5 78d50a4c4f13847cb863cc73105f61f1 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a22]"
+	description "Joystik-Installations-Programm (19xx)(-)[a22]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a22].z80" size 2688 crc f1c1df52 md5 33724b2ea38e10bffdccbc4c3bd6f3e0 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a23]"
+	description "Joystik-Installations-Programm (19xx)(-)[a23]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a23].z80" size 1152 crc b3e39934 md5 6adccfa0d0da7f892b5b5a0e6573487e )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a24]"
+	description "Joystik-Installations-Programm (19xx)(-)[a24]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a24].z80" size 1248 crc 63637eac md5 d8e4d9a548571adeb0d603a76e44cdae )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a25]"
+	description "Joystik-Installations-Programm (19xx)(-)[a25]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a25].z80" size 1344 crc 3858ff42 md5 e19ce1c323b08680618ba9a7c2d9b924 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a26]"
+	description "Joystik-Installations-Programm (19xx)(-)[a26]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a26].z80" size 1376 crc d86ac55f md5 90bbd2a02478c4a86cb5e1930f918ba5 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a27]"
+	description "Joystik-Installations-Programm (19xx)(-)[a27]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a27].z80" size 832 crc 68a7fb79 md5 71d965e480ee55e09da1159a0b2d8db5 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a28]"
+	description "Joystik-Installations-Programm (19xx)(-)[a28]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a28].z80" size 1312 crc 8292b675 md5 0d72e289fcaf694ad1ee965189edca1c )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a29]"
+	description "Joystik-Installations-Programm (19xx)(-)[a29]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a29].z80" size 1312 crc ac8ae3ac md5 b595f8ff84f7592b258dc53289cb5144 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a3]"
+	description "Joystik-Installations-Programm (19xx)(-)[a3]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a3].z80" size 1472 crc 8ab675e9 md5 9fed6a1a1349eaa2242280a488728927 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a30]"
+	description "Joystik-Installations-Programm (19xx)(-)[a30]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a30].z80" size 576 crc 9296f0f0 md5 305ceb2e74494f707a93a32685bcf9b8 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a4]"
+	description "Joystik-Installations-Programm (19xx)(-)[a4]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a4].z80" size 2688 crc 2823d0be md5 4367dbe09e3bcd63815729848aa0b7c4 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a5]"
+	description "Joystik-Installations-Programm (19xx)(-)[a5]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a5].z80" size 1472 crc 86e697cd md5 6b7e04a025fafcfbab561c9f1538edc9 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a6]"
+	description "Joystik-Installations-Programm (19xx)(-)[a6]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a6].z80" size 1472 crc b3ae782a md5 bbd544a9117ca0876821ad417af5c67e )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a7]"
+	description "Joystik-Installations-Programm (19xx)(-)[a7]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a7].z80" size 1504 crc 0efaad41 md5 cab2db0941959c8dc5a80fdd33064a67 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a8]"
+	description "Joystik-Installations-Programm (19xx)(-)[a8]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a8].z80" size 1376 crc 4432ed0c md5 0143cdb0ea7578ded85abbaf190c5e45 )
+)
+
+game (
+	name "Joystik-Installations-Programm (19xx)(-)[a9]"
+	description "Joystik-Installations-Programm (19xx)(-)[a9]"
+	rom ( name "Joystik-Installations-Programm (19xx)(-)[a9].z80" size 1376 crc a55aebf3 md5 237440e5d14dd524740c2afb1cb4a744 )
+)
+
+game (
+	name "Joystik-Installations-Programm v2.0 (19xx)(-)[a]"
+	description "Joystik-Installations-Programm v2.0 (19xx)(-)[a]"
+	rom ( name "Joystik-Installations-Programm v2.0 (19xx)(-)[a].z80" size 2688 crc f7d124fc md5 374b31d369fc05c850d341bc360ce8b0 )
+)
+
+game (
+	name "Joystik-Installations-Programm v2.0 (19xx)(-)[a2]"
+	description "Joystik-Installations-Programm v2.0 (19xx)(-)[a2]"
+	rom ( name "Joystik-Installations-Programm v2.0 (19xx)(-)[a2].z80" size 800 crc ea5c25a5 md5 f12af0571cec51e7ff97ec6d82fd2c43 )
+)
+
+game (
+	name "Jumping Jack (1986)(SCI, G. Fischer & Co)[a]"
+	description "Jumping Jack (1986)(SCI, G. Fischer & Co)[a]"
+	rom ( name "Jumping Jack (1986)(SCI, G. Fischer & Co)[a].z80" size 3296 crc 4a2d8434 md5 9b1707ef8e4e810ac507a13f53448268 )
+)
+
+game (
+	name "Jumping Jack (1986)(SCI, G. Fischer & Co)[a2]"
+	description "Jumping Jack (1986)(SCI, G. Fischer & Co)[a2]"
+	rom ( name "Jumping Jack (1986)(SCI, G. Fischer & Co)[a2].z80" size 3273 crc 8664e1bd md5 2a3c872caf42e645497ffa283ab34530 )
+)
+
+game (
+	name "Jumping Jack (1986)(SCI, G. Fischer & Co)[without Titelscreen][Joysticksupport]"
+	description "Jumping Jack (1986)(SCI, G. Fischer & Co)[without Titelscreen][Joysticksupport]"
+	rom ( name "Jumping Jack (1986)(SCI, G. Fischer & Co)[without Titelscreen][Joysticksupport].z80" size 3296 crc 2348de83 md5 03079907ee098d5a306ce9b5473afc39 )
+)
+
+game (
+	name "KC Basic (19xx)(-)(en)[a]"
+	description "KC Basic (19xx)(-)(en)[a]"
+	rom ( name "KC Basic (19xx)(-)(en)[a].z80" size 10784 crc 75533cef md5 28107373ce86e4492ee5f0850daac981 )
+)
+
+game (
+	name "KC Basic (19xx)(-)(en)[a2]"
+	description "KC Basic (19xx)(-)(en)[a2]"
+	rom ( name "KC Basic (19xx)(-)(en)[a2].z80" size 10783 crc 36f5032d md5 af119ebfecd1a42c89d147a02e06d0ed )
+)
+
+game (
+	name "KC Basic (19xx)(-)(en)[a3]"
+	description "KC Basic (19xx)(-)(en)[a3]"
+	rom ( name "KC Basic (19xx)(-)(en)[a3].z80" size 11008 crc cde69c9f md5 d48e8917467bbc96d4320346c64fb008 )
+)
+
+game (
+	name "KC Basic (19xx)(-)(en)[o]"
+	description "KC Basic (19xx)(-)(en)[o]"
+	rom ( name "KC Basic (19xx)(-)(en)[o].z80" size 60192 crc fd429976 md5 9e324e91b6f0a6e4c265c99f1afc24b7 )
+)
+
+game (
+	name "KC Basic Plus (19xx)(-)(en)"
+	description "KC Basic Plus (19xx)(-)(en)"
+	rom ( name "KC Basic Plus (19xx)(-)(en).z80" size 10784 crc 761888f8 md5 44a602c3a7f9e5bf56c231088a31e223 )
+)
+
+game (
+	name "KC Basic Plus v1.0 (19xx)(-)(en)"
+	description "KC Basic Plus v1.0 (19xx)(-)(en)"
+	rom ( name "KC Basic Plus v1.0 (19xx)(-)(en).z80" size 10880 crc 7a91ad37 md5 a0785e98128be885a7d31b65fd690e6d )
+)
+
+game (
+	name "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a][doc]"
+	description "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a][doc]"
+	rom ( name "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a][doc].z80" size 14784 crc 71ef23a4 md5 a7da84a51c2134f2781c0ce63525bf69 )
+)
+
+game (
+	name "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a2][doc]"
+	description "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a2][doc]"
+	rom ( name "KC-Basic fuer Z1013 (1987)(IG-HC TU-Dresten)[a2][doc].z80" size 14784 crc 60798564 md5 0367b49e890ef6d5c92fa28b7f5e5b27 )
+)
+
+game (
+	name "KC-Basic fuer Z1013 (1988)(IG-HC TU-Dresten)[doc]"
+	description "KC-Basic fuer Z1013 (1988)(IG-HC TU-Dresten)[doc]"
+	rom ( name "KC-Basic fuer Z1013 (1988)(IG-HC TU-Dresten)[doc].z80" size 16914 crc 2cbe2de0 md5 a7b84e9672bb8c2f696856f064d8c284 )
+)
+
+game (
+	name "KC-ROM-Basic Plus v1.0 (19xx)(IG-HC TU-Dresten)[doc]"
+	description "KC-ROM-Basic Plus v1.0 (19xx)(IG-HC TU-Dresten)[doc]"
+	rom ( name "KC-ROM-Basic Plus v1.0 (19xx)(IG-HC TU-Dresten)[doc].z80" size 2287 crc ffc17868 md5 6ff6f310c3012109e79b47e379d8e0a4 )
+)
+
+game (
+	name "KC85-Kassetteninterface (19xx)(-)[a]"
+	description "KC85-Kassetteninterface (19xx)(-)[a]"
+	rom ( name "KC85-Kassetteninterface (19xx)(-)[a].z80" size 4128 crc 851701e1 md5 e9720d5c1fe31d708423877936788019 )
+)
+
+game (
+	name "KC85-Kassetteninterface (19xx)(-)[a2]"
+	description "KC85-Kassetteninterface (19xx)(-)[a2]"
+	rom ( name "KC85-Kassetteninterface (19xx)(-)[a2].z80" size 992 crc 89c06eea md5 28d86b3d749c5563304c1795d1abe1aa )
+)
+
+game (
+	name "Kalender (1989)(-)"
+	description "Kalender (1989)(-)"
+	rom ( name "Kalender (1989)(-).z80" size 2670 crc c2d41012 md5 a27edd62a3d1ae28314f46035ddf188e )
+)
+
+game (
+	name "Kassette (19xx)(-)[need BASIC]"
+	description "Kassette (19xx)(-)[need BASIC]"
+	rom ( name "Kassette (19xx)(-)[need BASIC].z80" size 3081 crc 498751b7 md5 c4bdef6ce893e323ab2a0eaf945f4598 )
+)
+
+game (
+	name "Katze - Maus (19xx)(-)"
+	description "Katze - Maus (19xx)(-)"
+	rom ( name "Katze - Maus (19xx)(-).z80" size 3360 crc fc51d11e md5 d8a1c2932096db92560c85fe1761eee6 )
+)
+
+game (
+	name "Keyboardtester (19xx)(-)"
+	description "Keyboardtester (19xx)(-)"
+	rom ( name "Keyboardtester (19xx)(-).z80" size 128 crc a44ba4d3 md5 d31dfa50283b7c6df4e8353592f930a3 )
+)
+
+game (
+	name "Kings Valley (19xx)(A. Schackow)[doc]"
+	description "Kings Valley (19xx)(A. Schackow)[doc]"
+	rom ( name "Kings Valley (19xx)(A. Schackow)[doc].z80" size 16241 crc cdd11b75 md5 322142fa22c35bcdc4cac0f2b7c3365f )
+)
+
+game (
+	name "Kings Vally (1988)(Pyramid 1)[a]"
+	description "Kings Vally (1988)(Pyramid 1)[a]"
+	rom ( name "Kings Vally (1988)(Pyramid 1)[a].z80" size 16448 crc f4864dcc md5 b3f46b9a09b2a7a8a71ae4023664f7c0 )
+)
+
+game (
+	name "Kings Vally (1988)(Pyramid 1)[a2]"
+	description "Kings Vally (1988)(Pyramid 1)[a2]"
+	rom ( name "Kings Vally (1988)(Pyramid 1)[a2].z80" size 16416 crc bfc123df md5 000bd32db6569817aa7a9b61b8ff4c98 )
+)
+
+game (
+	name "Knossost (1986)(Matthias Drechsel & Rolf Zimmer)"
+	description "Knossost (1986)(Matthias Drechsel & Rolf Zimmer)"
+	rom ( name "Knossost (1986)(Matthias Drechsel & Rolf Zimmer).z80" size 9248 crc a2e57753 md5 b5acc7e1d8f7495ee50ba94d7d85f296 )
+)
+
+game (
+	name "Kraftfeld (1990)(Sven Behnke)"
+	description "Kraftfeld (1990)(Sven Behnke)"
+	rom ( name "Kraftfeld (1990)(Sven Behnke).z80" size 11040 crc bd7933b7 md5 b637e47d80e6d3b3d6387f4b564fcf56 )
+)
+
+game (
+	name "Labels (19xx)(-)"
+	description "Labels (19xx)(-)"
+	rom ( name "Labels (19xx)(-).z80" size 105 crc ed867e4d md5 9b27700e07457c19137fd46884fe8238 )
+)
+
+game (
+	name "Labyrinth (19xx)(-)[a]"
+	description "Labyrinth (19xx)(-)[a]"
+	rom ( name "Labyrinth (19xx)(-)[a].z80" size 16160 crc 845db96c md5 4e4a55c7ec6f1eeb4a0fe4e85139518f )
+)
+
+game (
+	name "Labyrinth (19xx)(-)[a2]"
+	description "Labyrinth (19xx)(-)[a2]"
+	rom ( name "Labyrinth (19xx)(-)[a2].z80" size 16160 crc 117c1d17 md5 291600a2ce94cbbc7f461370528e7c1e )
+)
+
+game (
+	name "Labyrinth (19xx)(-)[a3]"
+	description "Labyrinth (19xx)(-)[a3]"
+	rom ( name "Labyrinth (19xx)(-)[a3].z80" size 16160 crc 442148aa md5 0ef9a99c07c18fe29395e1b09ba2da46 )
+)
+
+game (
+	name "Labyrinth (19xx)(Wolfgang Rafelt)[a]"
+	description "Labyrinth (19xx)(Wolfgang Rafelt)[a]"
+	rom ( name "Labyrinth (19xx)(Wolfgang Rafelt)[a].z80" size 16160 crc 0ca1ae5e md5 0aa01736e6022188ebb4af7aa236e2b9 )
+)
+
+game (
+	name "Labyrinth (19xx)(Wolfgang Rafelt)[a2]"
+	description "Labyrinth (19xx)(Wolfgang Rafelt)[a2]"
+	rom ( name "Labyrinth (19xx)(Wolfgang Rafelt)[a2].z80" size 16160 crc 9e005a31 md5 f19f7c4e869bb2aa5b73a9024ef8fd8b )
+)
+
+game (
+	name "Labyrinth (19xx)(Wolfgang Rafelt)[Joysticksupport]"
+	description "Labyrinth (19xx)(Wolfgang Rafelt)[Joysticksupport]"
+	rom ( name "Labyrinth (19xx)(Wolfgang Rafelt)[Joysticksupport].z80" size 16160 crc 2493ecfc md5 68352614f53689be3241edcf6305b43a )
+)
+
+game (
+	name "Ladder (19xx)(-)"
+	description "Ladder (19xx)(-)"
+	rom ( name "Ladder (19xx)(-).z80" size 14240 crc 1c290998 md5 0744f2b1e88dc26ec6e8a90605ead7cf )
+)
+
+game (
+	name "Ladder v1.2 (1988)(Frank Herzog)[a]"
+	description "Ladder v1.2 (1988)(Frank Herzog)[a]"
+	rom ( name "Ladder v1.2 (1988)(Frank Herzog)[a].z80" size 28192 crc 1e9e8a6f md5 0e5275f0123a3af7077d1d0d96389239 )
+)
+
+game (
+	name "Ladder v1.2 (1988)(Frank Herzog)[a2]"
+	description "Ladder v1.2 (1988)(Frank Herzog)[a2]"
+	rom ( name "Ladder v1.2 (1988)(Frank Herzog)[a2].z80" size 28192 crc b9fd9dd9 md5 0fc569a73feeb23271ea015746fa047e )
+)
+
+game (
+	name "Ladder v1.2 (1988)(Frank Herzog)[a3]"
+	description "Ladder v1.2 (1988)(Frank Herzog)[a3]"
+	rom ( name "Ladder v1.2 (1988)(Frank Herzog)[a3].z80" size 28192 crc f05233de md5 5b18b2c1abf4bf7c5e9d414eb3423b4b )
+)
+
+game (
+	name "Ladder v1.2 (1988)(Frank Herzog)[a4]"
+	description "Ladder v1.2 (1988)(Frank Herzog)[a4]"
+	rom ( name "Ladder v1.2 (1988)(Frank Herzog)[a4].z80" size 28191 crc 39d84018 md5 54956be6187454c20225e8a080ccddeb )
+)
+
+game (
+	name "Last Chance, The (1987)(SCI - Dirk Strehle)[a]"
+	description "Last Chance, The (1987)(SCI - Dirk Strehle)[a]"
+	rom ( name "Last Chance, The (1987)(SCI - Dirk Strehle)[a].z80" size 6720 crc 4beb4f2b md5 6c07046eb5676317dce6034065812241 )
+)
+
+game (
+	name "Last Chance, The (1987)(SCI - Dirk Strehle)[a2]"
+	description "Last Chance, The (1987)(SCI - Dirk Strehle)[a2]"
+	rom ( name "Last Chance, The (1987)(SCI - Dirk Strehle)[a2].z80" size 6689 crc 22617603 md5 f9ae25c26542459252e972500af543a1 )
+)
+
+game (
+	name "Layoutmaker I. (19xx)(-)"
+	description "Layoutmaker I. (19xx)(-)"
+	rom ( name "Layoutmaker I. (19xx)(-).z80" size 3648 crc 81dabc96 md5 bb1f2d2956c72afdbc4e0aec12f30d1d )
+)
+
+game (
+	name "Lebende Bilder (1990)(Uwe Zierott)"
+	description "Lebende Bilder (1990)(Uwe Zierott)"
+	rom ( name "Lebende Bilder (1990)(Uwe Zierott).z80" size 3436 crc e40095fb md5 6c366cf3a743046b0114c901744b8f77 )
+)
+
+game (
+	name "Lebenserwartungsprognose (1990)(Dirk Ambras)"
+	description "Lebenserwartungsprognose (1990)(Dirk Ambras)"
+	rom ( name "Lebenserwartungsprognose (1990)(Dirk Ambras).z80" size 3273 crc 13849e28 md5 a396b02a12ffb207e5bb94780f942f27 )
+)
+
+game (
+	name "Logic-Analyser (19xx)(R. Brosig)"
+	description "Logic-Analyser (19xx)(R. Brosig)"
+	rom ( name "Logic-Analyser (19xx)(R. Brosig).z80" size 7968 crc d07608ac md5 cd484c040218eef767d2acbcf4d78258 )
+)
+
+game (
+	name "Logikanalysator-Programm (19xx)(Gerd Schoenefelder)[doc]"
+	description "Logikanalysator-Programm (19xx)(Gerd Schoenefelder)[doc]"
+	rom ( name "Logikanalysator-Programm (19xx)(Gerd Schoenefelder)[doc].z80" size 3939 crc 3aa98880 md5 811cbd530f1d4c2befffa3323f73db91 )
+)
+
+game (
+	name "Main-KC-if (19xx)(Martin Duchrow)"
+	description "Main-KC-if (19xx)(Martin Duchrow)"
+	rom ( name "Main-KC-if (19xx)(Martin Duchrow).z80" size 768 crc 297e01f7 md5 6efbb1e4d162f184624d2fcda78961cd )
+)
+
+game (
+	name "Maintape v4.5 (19xx)(Martin Duchrow)[a][doc]"
+	description "Maintape v4.5 (19xx)(Martin Duchrow)[a][doc]"
+	rom ( name "Maintape v4.5 (19xx)(Martin Duchrow)[a][doc].z80" size 6720 crc 12243022 md5 0cdcec6998a53b72a9d4433bdfc95534 )
+)
+
+game (
+	name "Maintape v4.5 (19xx)(Martin Duchrow)[a2][doc]"
+	description "Maintape v4.5 (19xx)(Martin Duchrow)[a2][doc]"
+	rom ( name "Maintape v4.5 (19xx)(Martin Duchrow)[a2][doc].z80" size 6695 crc 7d265cce md5 29891cee8f1b42d02ccd66676b4896c5 )
+)
+
+game (
+	name "Maintape v4.5 (19xx)(Martin Duchrow)[a3][doc]"
+	description "Maintape v4.5 (19xx)(Martin Duchrow)[a3][doc]"
+	rom ( name "Maintape v4.5 (19xx)(Martin Duchrow)[a3][doc].z80" size 6720 crc f05038e3 md5 9cdfcef051845751136fa7473dc200a5 )
+)
+
+game (
+	name "Maintape v4.6 (19xx)(Martin Duchrow)"
+	description "Maintape v4.6 (19xx)(Martin Duchrow)"
+	rom ( name "Maintape v4.6 (19xx)(Martin Duchrow).z80" size 1056 crc 1b53eaf3 md5 619e5daa1f725f2bc3a3f9c14f229f31 )
+)
+
+game (
+	name "Maintape v4.6 (19xx)(Martin Duchrow)[doc]"
+	description "Maintape v4.6 (19xx)(Martin Duchrow)[doc]"
+	rom ( name "Maintape v4.6 (19xx)(Martin Duchrow)[doc].z80" size 8480 crc fde21523 md5 4d17b007dc569594d85f2e14d5c7f3d8 )
+)
+
+game (
+	name "Maintape v4.6.4 (19xx)(Martin Duchrow)"
+	description "Maintape v4.6.4 (19xx)(Martin Duchrow)"
+	rom ( name "Maintape v4.6.4 (19xx)(Martin Duchrow).z80" size 1056 crc 67e93371 md5 610cdb1f50d6f3882a7e1be121bf5ab9 )
+)
+
+game (
+	name "Mastermind (19xx)(-)"
+	description "Mastermind (19xx)(-)"
+	rom ( name "Mastermind (19xx)(-).z80" size 5184 crc 4f343f90 md5 6e0ad1df190a3b87e4725ff609febc32 )
+)
+
+game (
+	name "Mathe (19xx)(Dirk Ambras)"
+	description "Mathe (19xx)(Dirk Ambras)"
+	rom ( name "Mathe (19xx)(Dirk Ambras).z80" size 2835 crc 658869a7 md5 b886fc9558e57480fcc4405d8b292fe8 )
+)
+
+game (
+	name "Mauerspiel (19xx)(CCLC)"
+	description "Mauerspiel (19xx)(CCLC)"
+	rom ( name "Mauerspiel (19xx)(CCLC).z80" size 4928 crc 676e3866 md5 2ba1e7e566270d94adcac60525b6857b )
+)
+
+game (
+	name "Mauerspiel (19xx)(CCLC)[Joysticksupport]"
+	description "Mauerspiel (19xx)(CCLC)[Joysticksupport]"
+	rom ( name "Mauerspiel (19xx)(CCLC)[Joysticksupport].z80" size 4928 crc ea2934a7 md5 a3ab030687267999d321c94fb16f73c6 )
+)
+
+game (
+	name "Mazog (19xx)(-)(en)"
+	description "Mazog (19xx)(-)(en)"
+	rom ( name "Mazog (19xx)(-)(en).z80" size 7969 crc 3db19651 md5 9274ac27115acd96abfcf8ebf4156e5e )
+)
+
+game (
+	name "Mazog (19xx)(-)[Joysticksupport]"
+	description "Mazog (19xx)(-)[Joysticksupport]"
+	rom ( name "Mazog (19xx)(-)[Joysticksupport].z80" size 7232 crc dc7e27f6 md5 d8ac189da8cb0520ca3d8c1fd45853d3 )
+)
+
+game (
+	name "Mazogs (19xx)(CCLC)"
+	description "Mazogs (19xx)(CCLC)"
+	rom ( name "Mazogs (19xx)(CCLC).z80" size 7200 crc a250e763 md5 4b3ac9d8bda7ab460ca921f76b09ccd5 )
+)
+
+game (
+	name "Memorytest 1 (19xx)(Computer-Club Robotron)"
+	description "Memorytest 1 (19xx)(Computer-Club Robotron)"
+	rom ( name "Memorytest 1 (19xx)(Computer-Club Robotron).z80" size 704 crc 14f0e6df md5 f8bcb07b2a1c22c2fdb5ff251cc37aed )
+)
+
+game (
+	name "Memorytest 2 (19xx)(Computer-Club Robotron)"
+	description "Memorytest 2 (19xx)(Computer-Club Robotron)"
+	rom ( name "Memorytest 2 (19xx)(Computer-Club Robotron).z80" size 672 crc ebf010b6 md5 f4878fd71a49ed7a6746f120684752fb )
+)
+
+game (
+	name "Messestadt Leipzig - Wissenstest (19xx)(-)[a][doc]"
+	description "Messestadt Leipzig - Wissenstest (19xx)(-)[a][doc]"
+	rom ( name "Messestadt Leipzig - Wissenstest (19xx)(-)[a][doc].z80" size 1728 crc 36bcf481 md5 6032ddbd0bda2efb81703485cd4048ca )
+)
+
+game (
+	name "Messestadt Leipzig - Wissenstest (19xx)(-)[a2][doc]"
+	description "Messestadt Leipzig - Wissenstest (19xx)(-)[a2][doc]"
+	rom ( name "Messestadt Leipzig - Wissenstest (19xx)(-)[a2][doc].z80" size 1728 crc 3a81c225 md5 bdd805a74e20a7671261592bee1aebf6 )
+)
+
+game (
+	name "Messestadt Leipzig - Wissenstest (19xx)(-)[a3][doc]"
+	description "Messestadt Leipzig - Wissenstest (19xx)(-)[a3][doc]"
+	rom ( name "Messestadt Leipzig - Wissenstest (19xx)(-)[a3][doc].z80" size 1718 crc 94109494 md5 b51b4c2ad313bee54ff6a397d77d4a25 )
+)
+
+game (
+	name "Micro BASIC 85 (19xx)(-)[doc]"
+	description "Micro BASIC 85 (19xx)(-)[doc]"
+	rom ( name "Micro BASIC 85 (19xx)(-)[doc].z80" size 4935 crc 7ec14511 md5 b823c45b7f7a7167147b18d736eb1d8a )
+)
+
+game (
+	name "MicroWORD v1.5 (1988)(R. Brosig)[b][without Assembler]"
+	description "MicroWORD v1.5 (1988)(R. Brosig)[b][without Assembler]"
+	rom ( name "MicroWORD v1.5 (1988)(R. Brosig)[b][without Assembler].z80" size 15136 crc dc867401 md5 7c5c527e08b3c3da1a6af25e3868ea5b )
+)
+
+game (
+	name "MicroWORD v1.5 (1988)(R. Brosig)[doc]"
+	description "MicroWORD v1.5 (1988)(R. Brosig)[doc]"
+	rom ( name "MicroWORD v1.5 (1988)(R. Brosig)[doc].z80" size 15491 crc ef8c4ab2 md5 fc9e14e1e550fd0d1f2bb2300f89c0b2 )
+)
+
+game (
+	name "MicroWORD v1.5 (1988)(R. Brosig)[with Assembler]"
+	description "MicroWORD v1.5 (1988)(R. Brosig)[with Assembler]"
+	rom ( name "MicroWORD v1.5 (1988)(R. Brosig)[with Assembler].z80" size 16928 crc ace0168d md5 8c7b3c71dc9ce9f9808e5e2d965ea870 )
+)
+
+game (
+	name "MicroWORD v1.5 (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.5 (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.5 (1988)(R. Brosig)[without Assembler].z80" size 16160 crc a8d51360 md5 9c0c7ebc76b7165752bcc779188a66b7 )
+)
+
+game (
+	name "MicroWORD v1.5-16 (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.5-16 (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.5-16 (1988)(R. Brosig)[without Assembler].z80" size 4992 crc c746e810 md5 4d6e168e081215024207c4a7ba6a02aa )
+)
+
+game (
+	name "MicroWORD v1.520U (1988)(R. Brosig)[with Assembler]"
+	description "MicroWORD v1.520U (1988)(R. Brosig)[with Assembler]"
+	rom ( name "MicroWORD v1.520U (1988)(R. Brosig)[with Assembler].z80" size 29216 crc ed43d37e md5 84dd31d986f57ee575a8fd61d65c3b9d )
+)
+
+game (
+	name "MicroWORD v1.580 (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.580 (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.580 (1988)(R. Brosig)[without Assembler].z80" size 4992 crc ce049020 md5 5a18e8c1aa433f3325a85a28727a02e7 )
+)
+
+game (
+	name "MicroWORD v1.58U (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.58U (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.58U (1988)(R. Brosig)[without Assembler].z80" size 5696 crc d32c2f74 md5 7e4499789460da37a4ae6da71e740f1c )
+)
+
+game (
+	name "MicroWORD v1.5-Ei (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.5-Ei (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.5-Ei (1988)(R. Brosig)[without Assembler].z80" size 5920 crc 998b4864 md5 3e534dfeda5dff441d7f5da2d0e25be6 )
+)
+
+game (
+	name "MicroWORD v1.5-GS (1988)(R. Brosig)[without Assembler]"
+	description "MicroWORD v1.5-GS (1988)(R. Brosig)[without Assembler]"
+	rom ( name "MicroWORD v1.5-GS (1988)(R. Brosig)[without Assembler].z80" size 6304 crc daad37cd md5 5fc67ec8c3a5e7f65da41d5cadc320a8 )
+)
+
+game (
+	name "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a][without Assembler]"
+	description "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a][without Assembler]"
+	rom ( name "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a][without Assembler].z80" size 16160 crc 2d0bc388 md5 332dac07be7c64cb4e9807d19cc8ce4a )
+)
+
+game (
+	name "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a2][without Assembler]"
+	description "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a2][without Assembler]"
+	rom ( name "MicroWORD v1.5-GS1 (1988)(R. Brosig)[a2][without Assembler].z80" size 16160 crc f3012549 md5 0ec6a4cb664baed278fa1941576ffe32 )
+)
+
+game (
+	name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a][with Assembler]"
+	description "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a][with Assembler]"
+	rom ( name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a][with Assembler].z80" size 16992 crc 740ed55f md5 481ca174449578b8ea1f1727e39fdaa3 )
+)
+
+game (
+	name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a2][with Assembler]"
+	description "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a2][with Assembler]"
+	rom ( name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[a2][with Assembler].z80" size 16983 crc b3b9a3c3 md5 c10d390a3a79915ef80cb187f3def52c )
+)
+
+game (
+	name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[without Assembler]"
+	description "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[without Assembler]"
+	rom ( name "MicroWORD v1.7 (19xx)(Dirk Ambras)(en)[without Assembler].z80" size 4992 crc 72ac02a9 md5 804a1180a43d71f578f988a1a64e3209 )
+)
+
+game (
+	name "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a]"
+	description "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a]"
+	rom ( name "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a].z80" size 10016 crc 2e816856 md5 5c462674a25d81058875dfb9049ba999 )
+)
+
+game (
+	name "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a2]"
+	description "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a2]"
+	rom ( name "Mikro BASIC-85 (19xx)(Basic Comp)(en)[a2].z80" size 10016 crc 1c3a2e25 md5 b5a1f07ff9638bdf90f5fe45763b8a89 )
+)
+
+game (
+	name "Mindfield, Keyboard Table (1987)(D. Strehle)(en)"
+	description "Mindfield, Keyboard Table (1987)(D. Strehle)(en)"
+	rom ( name "Mindfield, Keyboard Table (1987)(D. Strehle)(en).z80" size 688 crc bbb5d3f6 md5 ddf2b799b846268f2f300c18d4333980 )
+)
+
+game (
+	name "Minefield (1987)(D. Strehle)(en)[a]"
+	description "Minefield (1987)(D. Strehle)(en)[a]"
+	rom ( name "Minefield (1987)(D. Strehle)(en)[a].z80" size 3904 crc 6e850d3a md5 b02cbd0fd83246b68becf3a897aeea79 )
+)
+
+game (
+	name "Minefield (1987)(D. Strehle)(en)[a2]"
+	description "Minefield (1987)(D. Strehle)(en)[a2]"
+	rom ( name "Minefield (1987)(D. Strehle)(en)[a2].z80" size 3904 crc 51aa40f4 md5 5c6a36202af819b5dd940f6eb1ec74c4 )
+)
+
+game (
+	name "Minefield (1987)(D. Strehle)(en)[a3]"
+	description "Minefield (1987)(D. Strehle)(en)[a3]"
+	rom ( name "Minefield (1987)(D. Strehle)(en)[a3].z80" size 3616 crc cd35aad1 md5 9b57f167c30b79b286da1677d014e00b )
+)
+
+game (
+	name "Mini-Textsystem fue den Z1013 (demo) (19xx)(D. Ambras)"
+	description "Mini-Textsystem fue den Z1013 (demo) (19xx)(D. Ambras)"
+	rom ( name "Mini-Textsystem fue den Z1013 (demo) (19xx)(D. Ambras).z80" size 944 crc c58ec919 md5 2179b98fd5cd7e1f838b2550a65a5b11 )
+)
+
+game (
+	name "Mintex (19xx)(Dirk Ambras)"
+	description "Mintex (19xx)(Dirk Ambras)"
+	rom ( name "Mintex (19xx)(Dirk Ambras).z80" size 2113 crc 6a900505 md5 c0bd72ffefe7113dd47d2238c74d217d )
+)
+
+game (
+	name "Mondbasis (19xx)(-)[b]"
+	description "Mondbasis (19xx)(-)[b]"
+	rom ( name "Mondbasis (19xx)(-)[b].z80" size 2944 crc 41dbf089 md5 3c5773e9c9fa9f6f1a85a9f34c0a6b97 )
+)
+
+game (
+	name "Monikorr A-F (1989)(Joduke)[a]"
+	description "Monikorr A-F (1989)(Joduke)[a]"
+	rom ( name "Monikorr A-F (1989)(Joduke)[a].z80" size 288 crc 4625ad05 md5 91629c6a242a17685acc6a45b3aa0fa8 )
+)
+
+game (
+	name "Monikorr A-F (1989)(Joduke)[a2]"
+	description "Monikorr A-F (1989)(Joduke)[a2]"
+	rom ( name "Monikorr A-F (1989)(Joduke)[a2].z80" size 288 crc 50a9081c md5 43d2429e3503c2d89bf2c327746cf2c7 )
+)
+
+game (
+	name "Monopoly (19xx)(R. Brosig)"
+	description "Monopoly (19xx)(R. Brosig)"
+	rom ( name "Monopoly (19xx)(R. Brosig).z80" size 12672 crc 118d6898 md5 3b947bedc9b2470354ed2d7519960930 )
+)
+
+game (
+	name "Mons3M (1983)(HiSoft)[a]"
+	description "Mons3M (1983)(HiSoft)[a]"
+	rom ( name "Mons3M (1983)(HiSoft)[a].z80" size 5024 crc fdf66407 md5 5295b67bbbfafa1415057adb6f9b38e4 )
+)
+
+game (
+	name "Mons3M (1983)(HiSoft)[a2]"
+	description "Mons3M (1983)(HiSoft)[a2]"
+	rom ( name "Mons3M (1983)(HiSoft)[a2].z80" size 5024 crc 2caf437b md5 4764ff9a00d9209ca9cbf8c9cfa3457b )
+)
+
+game (
+	name "NSWP (1983)(D. Rand)(en)"
+	description "NSWP (1983)(D. Rand)(en)"
+	rom ( name "NSWP (1983)(D. Rand)(en).z80" size 11808 crc 0dad2a0f md5 ee5f96cc4e8334c4b9c98b88cff7d894 )
+)
+
+game (
+	name "Niemandsland (19xx)(A. Schroeder)[a]"
+	description "Niemandsland (19xx)(A. Schroeder)[a]"
+	rom ( name "Niemandsland (19xx)(A. Schroeder)[a].z80" size 31850 crc e446fc3f md5 8de19e8d56a498992e05376d1483ccb6 )
+)
+
+game (
+	name "Niemandsland (19xx)(A. Schroeder)[a2]"
+	description "Niemandsland (19xx)(A. Schroeder)[a2]"
+	rom ( name "Niemandsland (19xx)(A. Schroeder)[a2].z80" size 31872 crc 0d5c7dd8 md5 af2d955b021ee36a0d2519ed53776e43 )
+)
+
+game (
+	name "Niemandsland (19xx)(A. Schroeder)[a3]"
+	description "Niemandsland (19xx)(A. Schroeder)[a3]"
+	rom ( name "Niemandsland (19xx)(A. Schroeder)[a3].z80" size 31872 crc 55f58ca5 md5 74ab0a1676b18c8470e8099d7c8cc483 )
+)
+
+game (
+	name "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a]"
+	description "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a]"
+	rom ( name "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a].z80" size 7712 crc 302bea49 md5 2dfb87dfb88641fcc95d08f08c174962 )
+)
+
+game (
+	name "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a2]"
+	description "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a2]"
+	rom ( name "Objektcodeeditor v4.0 (1987)(N. Hildebrandt & U. Gast)[a2].z80" size 7712 crc 72d36eee md5 56448535d9fa729c4b5508f2ef19c902 )
+)
+
+game (
+	name "Objektcodeeditor v4.1 (1987)(N. Hildebrandt & U. Gast)"
+	description "Objektcodeeditor v4.1 (1987)(N. Hildebrandt & U. Gast)"
+	rom ( name "Objektcodeeditor v4.1 (1987)(N. Hildebrandt & U. Gast).z80" size 7712 crc 752000dc md5 5ec0d7434b564f18043b3305839b1223 )
+)
+
+game (
+	name "Objektcodeeditor OCE fuer Z1013 (1989)(N. Hildebrandt)[doc]"
+	description "Objektcodeeditor OCE fuer Z1013 (1989)(N. Hildebrandt)[doc]"
+	rom ( name "Objektcodeeditor OCE fuer Z1013 (1989)(N. Hildebrandt)[doc].z80" size 9708 crc 0c2eefd8 md5 15e9dcb583fe3d1f201da53ef00db2fd )
+)
+
+game (
+	name "Objektcodeeditor OCE fuer Z1013 (19xx)(Uwe Gast)[doc]"
+	description "Objektcodeeditor OCE fuer Z1013 (19xx)(Uwe Gast)[doc]"
+	rom ( name "Objektcodeeditor OCE fuer Z1013 (19xx)(Uwe Gast)[doc].z80" size 6977 crc 2f71efe9 md5 7b91546e30f8149a76ea761fe5114261 )
+)
+
+game (
+	name "Objektcodeeditor OCE fuer Z1013 v4.1 (1987)(N. Hildebrandt & U. Gast)[doc]"
+	description "Objektcodeeditor OCE fuer Z1013 v4.1 (1987)(N. Hildebrandt & U. Gast)[doc]"
+	rom ( name "Objektcodeeditor OCE fuer Z1013 v4.1 (1987)(N. Hildebrandt & U. Gast)[doc].z80" size 7744 crc e882d14d md5 2cae3816b75d7c877e573c0bdc0062b5 )
+)
+
+game (
+	name "Oel (1983)(W. Koster)"
+	description "Oel (1983)(W. Koster)"
+	rom ( name "Oel (1983)(W. Koster).z80" size 18208 crc d5ccb727 md5 70001a8f7561d5d181a0f798c33ff2d5 )
+)
+
+game (
+	name "Ohne Fleis kein Preis (19xx)(-)[b]"
+	description "Ohne Fleis kein Preis (19xx)(-)[b]"
+	rom ( name "Ohne Fleis kein Preis (19xx)(-)[b].z80" size 672 crc ae7a8c6e md5 b3ba2ecf4cba53c924620bb208fdecba )
+)
+
+game (
+	name "Olidat v2.3 (19xx)(Y24KG)"
+	description "Olidat v2.3 (19xx)(Y24KG)"
+	rom ( name "Olidat v2.3 (19xx)(Y24KG).z80" size 2080 crc cb625ff4 md5 52a294a5edc9a7d5b0bc01692479f922 )
+)
+
+game (
+	name "Orgel (19xx)(-)[b]"
+	description "Orgel (19xx)(-)[b]"
+	rom ( name "Orgel (19xx)(-)[b].z80" size 128 crc 212c2cb6 md5 db7abd7e14ab959f31a3d785a1772f07 )
+)
+
+game (
+	name "Orgel (19xx)(-)[b2]"
+	description "Orgel (19xx)(-)[b2]"
+	rom ( name "Orgel (19xx)(-)[b2].z80" size 256 crc 31a343a2 md5 fef1f9ced2174b26a88743c42c86d9e3 )
+)
+
+game (
+	name "Othello (19xx)(-)[a]"
+	description "Othello (19xx)(-)[a]"
+	rom ( name "Othello (19xx)(-)[a].z80" size 6080 crc a6a19ec3 md5 a7d2e313d797fe685830eae09cd26af5 )
+)
+
+game (
+	name "Othello (19xx)(-)[a2]"
+	description "Othello (19xx)(-)[a2]"
+	rom ( name "Othello (19xx)(-)[a2].z80" size 3392 crc 964871cc md5 09186f62c1ad001d1335069be2697ee8 )
+)
+
+game (
+	name "PF-Pic (19xx)(-)"
+	description "PF-Pic (19xx)(-)"
+	rom ( name "PF-Pic (19xx)(-).z80" size 1393 crc bb9c1aa1 md5 693ab797222d6e91668659c8442b6a45 )
+)
+
+game (
+	name "PIO-Test (19xx)(-)"
+	description "PIO-Test (19xx)(-)"
+	rom ( name "PIO-Test (19xx)(-).z80" size 832 crc 81a76e6d md5 21711c2f06fd0d2616891d7080a3aedd )
+)
+
+game (
+	name "PIO-Test (19xx)(-)[b]"
+	description "PIO-Test (19xx)(-)[b]"
+	rom ( name "PIO-Test (19xx)(-)[b].z80" size 192 crc eddc8cb5 md5 b271ea09ddcfcaff7e447a5ae9203d47 )
+)
+
+game (
+	name "PSE + Line (19xx)(-)"
+	description "PSE + Line (19xx)(-)"
+	rom ( name "PSE + Line (19xx)(-).z80" size 1504 crc c40af846 md5 ba2d325c4aa680b31bb152b76c65b72f )
+)
+
+game (
+	name "Paharo v2.2 (19xx)(-)"
+	description "Paharo v2.2 (19xx)(-)"
+	rom ( name "Paharo v2.2 (19xx)(-).z80" size 7520 crc dea2b9dd md5 92d23d4f25f58c775289bc50276a3786 )
+)
+
+game (
+	name "Paint - Vollgrafik (19xx)(-)"
+	description "Paint - Vollgrafik (19xx)(-)"
+	rom ( name "Paint - Vollgrafik (19xx)(-).z80" size 10063 crc 1ac85c45 md5 8b4d3978288088154b54f379a42f6b3a )
+)
+
+game (
+	name "Pharao (1990)(A. Ziermann)"
+	description "Pharao (1990)(A. Ziermann)"
+	rom ( name "Pharao (1990)(A. Ziermann).z80" size 8256 crc 61444e21 md5 ef0310c52d92bf32e34b8f636656016d )
+)
+
+game (
+	name "Pharao v3.6 (19xx)(-)"
+	description "Pharao v3.6 (19xx)(-)"
+	rom ( name "Pharao v3.6 (19xx)(-).z80" size 16544 crc c787a243 md5 e808eea3f1bed05e0042e3d9a65eef4c )
+)
+
+game (
+	name "Pilot (1988)(Gerd Schmidt)"
+	description "Pilot (1988)(Gerd Schmidt)"
+	rom ( name "Pilot (1988)(Gerd Schmidt).z80" size 20704 crc 8917c02b md5 f3ba5cc7e616e88eb267981b7f345bc8 )
+)
+
+game (
+	name "Ping-Pong (19xx)(N.aC)"
+	description "Ping-Pong (19xx)(N.aC)"
+	rom ( name "Ping-Pong (19xx)(N.aC).z80" size 4160 crc 5f667ae3 md5 4df50045ce689f42fe3c56f0de5ce676 )
+)
+
+game (
+	name "Plotter (19xx)(-)"
+	description "Plotter (19xx)(-)"
+	rom ( name "Plotter (19xx)(-).z80" size 5142 crc ec839e33 md5 a5c9ddb90b301d3b0207de8d87ed8d60 )
+)
+
+game (
+	name "Plotter (19xx)(-)[a][only a Picture]"
+	description "Plotter (19xx)(-)[a][only a Picture]"
+	rom ( name "Plotter (19xx)(-)[a][only a Picture].z80" size 8224 crc 9247d026 md5 fbbcedb565169826b04c716cea5565a3 )
+)
+
+game (
+	name "Plotter (19xx)(-)[a2][only a Picture]"
+	description "Plotter (19xx)(-)[a2][only a Picture]"
+	rom ( name "Plotter (19xx)(-)[a2][only a Picture].z80" size 8224 crc 47b20151 md5 e98241fa379aa41c10a6856a79a74ff4 )
+)
+
+game (
+	name "Plotter (19xx)(-)[a3][only a Picture]"
+	description "Plotter (19xx)(-)[a3][only a Picture]"
+	rom ( name "Plotter (19xx)(-)[a3][only a Picture].z80" size 8224 crc 3279af36 md5 2eb7a781c4fad6d54c6d0c969ce44f99 )
+)
+
+game (
+	name "Plotter (19xx)(-)[a4][only a Picture]"
+	description "Plotter (19xx)(-)[a4][only a Picture]"
+	rom ( name "Plotter (19xx)(-)[a4][only a Picture].z80" size 8224 crc 0c80d572 md5 6f494dcbf7c4a15b5b439577ad5cc2ff )
+)
+
+game (
+	name "Plotter Scan (1992)(D. Ambras)"
+	description "Plotter Scan (1992)(D. Ambras)"
+	rom ( name "Plotter Scan (1992)(D. Ambras).z80" size 4032 crc c9b0e99c md5 ed6341eb41e33224382cb301cf8cd83f )
+)
+
+game (
+	name "Power v3.03 (1981)(P. Breder)"
+	description "Power v3.03 (1981)(P. Breder)"
+	rom ( name "Power v3.03 (1981)(P. Breder).z80" size 14880 crc a179d447 md5 7cc4b9ac3a95a2a224bf19d5956e27d8 )
+)
+
+game (
+	name "PrintFox (19xx)(-)"
+	description "PrintFox (19xx)(-)"
+	rom ( name "PrintFox (19xx)(-).z80" size 7360 crc 99c8a67a md5 f09449d9f7ee3d6ab3edece9651828d5 )
+)
+
+game (
+	name "Programmbeschreibung RST 20 Wandlung (1988)(Karl-Heinz Reuther)[doc]"
+	description "Programmbeschreibung RST 20 Wandlung (1988)(Karl-Heinz Reuther)[doc]"
+	rom ( name "Programmbeschreibung RST 20 Wandlung (1988)(Karl-Heinz Reuther)[doc].z80" size 2724 crc 1d364a8b md5 0186fddf3c1db5a4f76a1540d6e27a9b )
+)
+
+game (
+	name "Pyramide (19xx)(R. Riedel)[cr Y43RK]"
+	description "Pyramide (19xx)(R. Riedel)[cr Y43RK]"
+	rom ( name "Pyramide (19xx)(R. Riedel)[cr Y43RK].z80" size 13440 crc e43da26c md5 21f172603347330136334ae9fa515714 )
+)
+
+game (
+	name "Pyramide (19xx)(T. Hoffmann, B. Brecht)"
+	description "Pyramide (19xx)(T. Hoffmann, B. Brecht)"
+	rom ( name "Pyramide (19xx)(T. Hoffmann, B. Brecht).z80" size 4896 crc cc9ce44b md5 ecbcf0a2aa858cd4272f64073f08d108 )
+)
+
+game (
+	name "R-80 Reassembler (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	description "R-80 Reassembler (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	rom ( name "R-80 Reassembler (19xx)(IG-HC TU-Dresten, N.H.)[doc].z80" size 5457 crc 57ebb374 md5 8628c72a42843f7a7d35686df206504c )
+)
+
+game (
+	name "R-80 Reassembler v1.0 (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	description "R-80 Reassembler v1.0 (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	rom ( name "R-80 Reassembler v1.0 (19xx)(IG-HC TU-Dresten, N.H.)[doc].z80" size 9540 crc b5b53606 md5 19c2794d1c597999e2528d47ce1e6fbe )
+)
+
+game (
+	name "R-80 Reassembler v1.2 (19xx)(IG-HC TU-Dresten)[doc]"
+	description "R-80 Reassembler v1.2 (19xx)(IG-HC TU-Dresten)[doc]"
+	rom ( name "R-80 Reassembler v1.2 (19xx)(IG-HC TU-Dresten)[doc].z80" size 9344 crc af895f54 md5 dbc2a1017cc1c21aec6f06566b130f51 )
+)
+
+game (
+	name "R-80 Reassembler v1.3 (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	description "R-80 Reassembler v1.3 (19xx)(IG-HC TU-Dresten, N.H.)[doc]"
+	rom ( name "R-80 Reassembler v1.3 (19xx)(IG-HC TU-Dresten, N.H.)[doc].z80" size 9568 crc f562daba md5 2548127c72a63bc97a5d9597524ff61d )
+)
+
+game (
+	name "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a]"
+	description "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a]"
+	rom ( name "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a].z80" size 6592 crc 2b57ea60 md5 d5695fe325b4a85dd84055017759b376 )
+)
+
+game (
+	name "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a2]"
+	description "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a2]"
+	rom ( name "R-80 Reassembler Ext. Version RB (19xx)(IG-HC TU-Dresten, N.H.)[a2].z80" size 6592 crc 322ad3c9 md5 fba1b0d327ad69c9be0416f32e48ee44 )
+)
+
+game (
+	name "R-80 Reassembler Ext. Version RB & FSc (19xx)(IG-HC TU-Dresten, N.H.)"
+	description "R-80 Reassembler Ext. Version RB & FSc (19xx)(IG-HC TU-Dresten, N.H.)"
+	rom ( name "R-80 Reassembler Ext. Version RB & FSc (19xx)(IG-HC TU-Dresten, N.H.).z80" size 7149 crc 5a7fdc2e md5 d7511f161f2cd4d8228f5a9d036e4b65 )
+)
+
+game (
+	name "RAM & PIO Test (19xx)(-)"
+	description "RAM & PIO Test (19xx)(-)"
+	rom ( name "RAM & PIO Test (19xx)(-).z80" size 768 crc a45c26ef md5 247736afd6dcbc1f5b8a56271a77152e )
+)
+
+game (
+	name "RDisk (1989)(R. Brosig)"
+	description "RDisk (1989)(R. Brosig)"
+	rom ( name "RDisk (1989)(R. Brosig).z80" size 2336 crc 6540377c md5 0f98a1e4ff98cdc48bbcbc69602334ca )
+)
+
+game (
+	name "RF Sichttest (1990)(Raffelt)[a]"
+	description "RF Sichttest (1990)(Raffelt)[a]"
+	rom ( name "RF Sichttest (1990)(Raffelt)[a].z80" size 1440 crc 401c3f5a md5 34518a9bf5bb866771c7b34cbcf48f5a )
+)
+
+game (
+	name "RF Sichttest (1990)(Raffelt)[a2]"
+	description "RF Sichttest (1990)(Raffelt)[a2]"
+	rom ( name "RF Sichttest (1990)(Raffelt)[a2].z80" size 1440 crc f12404c1 md5 81b1f69c473039070f0a6ffad7b806b8 )
+)
+
+game (
+	name "ROM-Disk-Bild (1988)(R. Herzog)[a]"
+	description "ROM-Disk-Bild (1988)(R. Herzog)[a]"
+	rom ( name "ROM-Disk-Bild (1988)(R. Herzog)[a].z80" size 1088 crc f25ff128 md5 fe39387d15db0527b2210e105098c106 )
+)
+
+game (
+	name "ROM-Disk-Bild (1988)(R. Herzog)[a2]"
+	description "ROM-Disk-Bild (1988)(R. Herzog)[a2]"
+	rom ( name "ROM-Disk-Bild (1988)(R. Herzog)[a2].z80" size 1073 crc e1950f05 md5 0a7bb225b450f6220100d038f3637db1 )
+)
+
+game (
+	name "Radio Teletype (1987)(Simm)[a]"
+	description "Radio Teletype (1987)(Simm)[a]"
+	rom ( name "Radio Teletype (1987)(Simm)[a].z80" size 1344 crc ee56a107 md5 6393f4619b5ba7bc1df585ef185f9f29 )
+)
+
+game (
+	name "Radio Teletype (1987)(Simm)[a2]"
+	description "Radio Teletype (1987)(Simm)[a2]"
+	rom ( name "Radio Teletype (1987)(Simm)[a2].z80" size 1344 crc 8ae37a98 md5 dc54866b79af92ecd80e5d4c3c4bb4c8 )
+)
+
+game (
+	name "Reaktor (1989)(U. Beckmann)[a]"
+	description "Reaktor (1989)(U. Beckmann)[a]"
+	rom ( name "Reaktor (1989)(U. Beckmann)[a].z80" size 2336 crc 1a35c81f md5 00c2a04a3153ef619efcc5290cfb2d6f )
+)
+
+game (
+	name "Reaktor (1989)(U. Beckmann)[a2]"
+	description "Reaktor (1989)(U. Beckmann)[a2]"
+	rom ( name "Reaktor (1989)(U. Beckmann)[a2].z80" size 2336 crc 8747b673 md5 08b2d1b45a1f6f73ef5abe4675d66098 )
+)
+
+game (
+	name "Reass (19xx)(R.Brosig)"
+	description "Reass (19xx)(R.Brosig)"
+	rom ( name "Reass (19xx)(R.Brosig).z80" size 6688 crc 023763b8 md5 b51ce93e276f63a117449a73f6311160 )
+)
+
+game (
+	name "Reass v1.02 (19xx)(CCsoft)[a]"
+	description "Reass v1.02 (19xx)(CCsoft)[a]"
+	rom ( name "Reass v1.02 (19xx)(CCsoft)[a].z80" size 2624 crc ccda5437 md5 f4f16a917f45559770191057ea346366 )
+)
+
+game (
+	name "Reass v1.02 (19xx)(CCsoft)[a2]"
+	description "Reass v1.02 (19xx)(CCsoft)[a2]"
+	rom ( name "Reass v1.02 (19xx)(CCsoft)[a2].z80" size 2592 crc 543d365b md5 6b721a58f7c1c8e52e8e806eb1d53977 )
+)
+
+game (
+	name "Reass v2.01 (1988)(-)[a]"
+	description "Reass v2.01 (1988)(-)[a]"
+	rom ( name "Reass v2.01 (1988)(-)[a].z80" size 3104 crc c9782fe2 md5 e92ec24918efac46659875a77418a7c1 )
+)
+
+game (
+	name "Reass v2.01 (1988)(-)[a2]"
+	description "Reass v2.01 (1988)(-)[a2]"
+	rom ( name "Reass v2.01 (1988)(-)[a2].z80" size 3104 crc b2bde581 md5 6b70a9667654043f72f3e2668e8c8740 )
+)
+
+game (
+	name "Reassembler (1987)(W. Stengel)"
+	description "Reassembler (1987)(W. Stengel)"
+	rom ( name "Reassembler (1987)(W. Stengel).z80" size 4128 crc 9ff5ae5b md5 60be9f572f56a80f8083d0e960576194 )
+)
+
+game (
+	name "Rechnen (19xx)(-)[b]"
+	description "Rechnen (19xx)(-)[b]"
+	rom ( name "Rechnen (19xx)(-)[b].z80" size 802 crc 1446b118 md5 078504bdb91c8b750c05efca8444c28b )
+)
+
+game (
+	name "Recorder-Justage (19xx)(M. Duchrow)"
+	description "Recorder-Justage (19xx)(M. Duchrow)"
+	rom ( name "Recorder-Justage (19xx)(M. Duchrow).z80" size 1344 crc d18ea2c5 md5 42de7983191e0c4f21e726b57a7a13ba )
+)
+
+game (
+	name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a]"
+	description "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a]"
+	rom ( name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a].z80" size 4385 crc 34c365e3 md5 00e01abad07dc3ec790df966e1a42852 )
+)
+
+game (
+	name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a2]"
+	description "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a2]"
+	rom ( name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[a2].z80" size 4416 crc 87baaa4b md5 afe889158d35c066ce7011e24acba561 )
+)
+
+game (
+	name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[Joystick]"
+	description "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[Joystick]"
+	rom ( name "Riesenslalom (19xx)(Schmidt-Computer-Spiele)[Joystick].z80" size 4416 crc 5792e87b md5 a46e092fea01195ee5179655cfa695e2 )
+)
+
+game (
+	name "River Raid (1987)(D. Schaedlich)"
+	description "River Raid (1987)(D. Schaedlich)"
+	rom ( name "River Raid (1987)(D. Schaedlich).z80" size 16064 crc 0692ec85 md5 1447f1aafc89290ad5a5aae1311714ca )
+)
+
+game (
+	name "Robotron Z1013 v2.02 Plus (1988)(R. Brosig)"
+	description "Robotron Z1013 v2.02 Plus (1988)(R. Brosig)"
+	rom ( name "Robotron Z1013 v2.02 Plus (1988)(R. Brosig).z80" size 5376 crc 8b263c0b md5 b6a6c60adc862570682d8ae3e6d5775a )
+)
+
+game (
+	name "Robotron Z1013 BASIC v3.01 (19xx)(-)"
+	description "Robotron Z1013 BASIC v3.01 (19xx)(-)"
+	rom ( name "Robotron Z1013 BASIC v3.01 (19xx)(-).z80" size 2768 crc 7d1a97ac md5 754750174ee39408549e7a0aa9987bbb )
+)
+
+game (
+	name "Robotron Z1013 BASIC v3.01 with Maintape v4.6.4 (19xx)(Martin Duchrow)"
+	description "Robotron Z1013 BASIC v3.01 with Maintape v4.6.4 (19xx)(Martin Duchrow)"
+	rom ( name "Robotron Z1013 BASIC v3.01 with Maintape v4.6.4 (19xx)(Martin Duchrow).z80" size 3648 crc 1b5e8dff md5 469cc71c9ada6c334547a656a95fe25e )
+)
+
+game (
+	name "Rombasic v2.0 (1988)(HJB)[o]"
+	description "Rombasic v2.0 (1988)(HJB)[o]"
+	rom ( name "Rombasic v2.0 (1988)(HJB)[o].z80" size 3104 crc 030c1cfb md5 177cd59da02359479481c79520d40239 )
+)
+
+game (
+	name "Roulette (19xx)(-)[b]"
+	description "Roulette (19xx)(-)[b]"
+	rom ( name "Roulette (19xx)(-)[b].z80" size 5120 crc cbef01cb md5 2225c04c3918d2b1c475c748212cc304 )
+)
+
+game (
+	name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a]"
+	description "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a]"
+	rom ( name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a].z80" size 864 crc f066ab4b md5 e04bda355db1bb27a369e94726c8eda6 )
+)
+
+game (
+	name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a2]"
+	description "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a2]"
+	rom ( name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a2].z80" size 864 crc a9e3a2fd md5 68fe426ec9062d986b2da9ae66b20d57 )
+)
+
+game (
+	name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a3]"
+	description "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a3]"
+	rom ( name "SCI-Kassetteninterface (1986)(Software Center Ilmenau)[a3].z80" size 848 crc af222485 md5 8599e672b6bb7d4633fe15ec53316eed )
+)
+
+game (
+	name "SCP-2RF (19xx)(R. Brosig)[doc]"
+	description "SCP-2RF (19xx)(R. Brosig)[doc]"
+	rom ( name "SCP-2RF (19xx)(R. Brosig)[doc].z80" size 4512 crc b0b10f80 md5 50b934cde4b60c4400ab7712fe399a3e )
+)
+
+game (
+	name "Santa Paravia (19xx)(A. Grimm, B. Schindler)"
+	description "Santa Paravia (19xx)(A. Grimm, B. Schindler)"
+	rom ( name "Santa Paravia (19xx)(A. Grimm, B. Schindler).z80" size 11552 crc db7e96d8 md5 75b9fcd76fa39557454f08460b34e45b )
+)
+
+game (
+	name "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a]"
+	description "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a]"
+	rom ( name "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a].z80" size 11727 crc 5eaf0a15 md5 0401edabbdce36535969699d0badb34a )
+)
+
+game (
+	name "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a2]"
+	description "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a2]"
+	rom ( name "Santa Paravia (19xx)(Andreas Ziermann & Dirk Ambras)[a2].z80" size 11776 crc 11a2e0b6 md5 9260262070b3e3ea23e3f48998f034f8 )
+)
+
+game (
+	name "Santa Paravia & Skat (19xx)(A. Grimm, B. Schindler)[2-in-one]"
+	description "Santa Paravia & Skat (19xx)(A. Grimm, B. Schindler)[2-in-one]"
+	rom ( name "Santa Paravia & Skat (19xx)(A. Grimm, B. Schindler)[2-in-one].z80" size 24896 crc 7c063a20 md5 c729d0ac37bbf7be0c06d20d31e4728b )
+)
+
+game (
+	name "Schach (19xx)(-)[a]"
+	description "Schach (19xx)(-)[a]"
+	rom ( name "Schach (19xx)(-)[a].z80" size 4928 crc 91eec71c md5 b7a9e2f138a0651a74985ef27d224f00 )
+)
+
+game (
+	name "Schach (19xx)(-)[a2]"
+	description "Schach (19xx)(-)[a2]"
+	rom ( name "Schach (19xx)(-)[a2].z80" size 4928 crc db910c07 md5 c2da7d5ff8f083150d0cc906629f0730 )
+)
+
+game (
+	name "Schach (19xx)(-)[a3]"
+	description "Schach (19xx)(-)[a3]"
+	rom ( name "Schach (19xx)(-)[a3].z80" size 4897 crc dd7c7fb9 md5 77c7f82d6d4333801ae3cda34e55a426 )
+)
+
+game (
+	name "Schatzhoehle (19xx)(-)[b]"
+	description "Schatzhoehle (19xx)(-)[b]"
+	rom ( name "Schatzhoehle (19xx)(-)[b].z80" size 3845 crc 8f469a5d md5 5c945eb6624c406cf543ce727092b67b )
+)
+
+game (
+	name "Schatzsuche im Labyrinth (19xx)(-)"
+	description "Schatzsuche im Labyrinth (19xx)(-)"
+	rom ( name "Schatzsuche im Labyrinth (19xx)(-).z80" size 3488 crc 0cca1b45 md5 478c623bfe47812fe1637b22a31ae0d6 )
+)
+
+game (
+	name "Schiebepuzzel (19xx)(-)"
+	description "Schiebepuzzel (19xx)(-)"
+	rom ( name "Schiebepuzzel (19xx)(-).z80" size 1876 crc db885a5c md5 168ba9e7333af82116ef92149e530fb8 )
+)
+
+game (
+	name "Schiessbude (1988)(F. Herzog)[a]"
+	description "Schiessbude (1988)(F. Herzog)[a]"
+	rom ( name "Schiessbude (1988)(F. Herzog)[a].z80" size 5393 crc bb96c928 md5 d5b5a06742e36f850b35e569651375cc )
+)
+
+game (
+	name "Schiessbude (1988)(F. Herzog)[a2]"
+	description "Schiessbude (1988)(F. Herzog)[a2]"
+	rom ( name "Schiessbude (1988)(F. Herzog)[a2].z80" size 5408 crc 1159331b md5 2128ac8fbed268e760cc2df576d980d2 )
+)
+
+game (
+	name "Schiffe versenken (19xx)(-)"
+	description "Schiffe versenken (19xx)(-)"
+	rom ( name "Schiffe versenken (19xx)(-).z80" size 4256 crc 3e89af25 md5 fdddead732f378ba5d0261a727891da2 )
+)
+
+game (
+	name "Show ZS (19xx)(-)"
+	description "Show ZS (19xx)(-)"
+	rom ( name "Show ZS (19xx)(-).z80" size 320 crc e26ba096 md5 8184a331163caca671189d9164b80d13 )
+)
+
+game (
+	name "Skeet - Wurftaubenschiessen (19xx)(VEB Robotron Riesa)"
+	description "Skeet - Wurftaubenschiessen (19xx)(VEB Robotron Riesa)"
+	rom ( name "Skeet - Wurftaubenschiessen (19xx)(VEB Robotron Riesa).z80" size 3431 crc 99310dd7 md5 6376e6b49f1fef8d9f8fcc2175892ad3 )
+)
+
+game (
+	name "Slalom (19xx)(-)"
+	description "Slalom (19xx)(-)"
+	rom ( name "Slalom (19xx)(-).z80" size 4160 crc d7f512ac md5 7e6ed1969fe2ba438a9d69475310006b )
+)
+
+game (
+	name "Snake (19xx)(-)[a]"
+	description "Snake (19xx)(-)[a]"
+	rom ( name "Snake (19xx)(-)[a].z80" size 4096 crc 101d9b9e md5 4500f1c3a09ca19913a678a0f7e108cd )
+)
+
+game (
+	name "Snake (19xx)(-)[a2]"
+	description "Snake (19xx)(-)[a2]"
+	rom ( name "Snake (19xx)(-)[a2].z80" size 4096 crc 844b69d5 md5 226aabc62a2f4cf7f00adc88eb8ba95e )
+)
+
+game (
+	name "Soft-Chef (19xx)(-)[with BASIC]"
+	description "Soft-Chef (19xx)(-)[with BASIC]"
+	rom ( name "Soft-Chef (19xx)(-)[with BASIC].z80" size 32448 crc 98b00269 md5 15cd336a276e2af08409602f026abc8e )
+)
+
+game (
+	name "Soft-Chef (19xx)(-)[without BASIC]"
+	description "Soft-Chef (19xx)(-)[without BASIC]"
+	rom ( name "Soft-Chef (19xx)(-)[without BASIC].z80" size 20832 crc 253b0eba md5 afa86836142801a405ebb6450891ab05 )
+)
+
+game (
+	name "Soko-Ban (1989)(Gera-Soft)[a]"
+	description "Soko-Ban (1989)(Gera-Soft)[a]"
+	rom ( name "Soko-Ban (1989)(Gera-Soft)[a].z80" size 4800 crc 1e6d8f72 md5 24971a87e32a9a62454126b02077ac8e )
+)
+
+game (
+	name "Soko-Ban (1989)(Gera-Soft)[a2]"
+	description "Soko-Ban (1989)(Gera-Soft)[a2]"
+	rom ( name "Soko-Ban (1989)(Gera-Soft)[a2].z80" size 5120 crc d4f39e64 md5 248587e81b551e5dfda48acad5572764 )
+)
+
+game (
+	name "Solo-Commotion (1988)(D. Schaedlich, NH)[a]"
+	description "Solo-Commotion (1988)(D. Schaedlich, NH)[a]"
+	rom ( name "Solo-Commotion (1988)(D. Schaedlich, NH)[a].z80" size 7904 crc ffdf82a2 md5 4960683f103baf0bfc2078cc5a29139d )
+)
+
+game (
+	name "Solo-Commotion (1988)(D. Schaedlich, NH)[a2]"
+	description "Solo-Commotion (1988)(D. Schaedlich, NH)[a2]"
+	rom ( name "Solo-Commotion (1988)(D. Schaedlich, NH)[a2].z80" size 7904 crc 4ac024d6 md5 fc6d276a637b1c11ca4c8adae99736ca )
+)
+
+game (
+	name "Space-Cleaner (19xx)(TH. Richter)"
+	description "Space-Cleaner (19xx)(TH. Richter)"
+	rom ( name "Space-Cleaner (19xx)(TH. Richter).z80" size 2889 crc 6f484cf1 md5 7c6ae8651443d437cbe4362f4427d941 )
+)
+
+game (
+	name "Speicherservice (19xx)(-)[a]"
+	description "Speicherservice (19xx)(-)[a]"
+	rom ( name "Speicherservice (19xx)(-)[a].z80" size 416 crc 5bac2d64 md5 77847d7482afed3d54fd0028f05e70f8 )
+)
+
+game (
+	name "Speicherservice (19xx)(-)[a2]"
+	description "Speicherservice (19xx)(-)[a2]"
+	rom ( name "Speicherservice (19xx)(-)[a2].z80" size 384 crc d975f85e md5 9673758e09f8c6946404cf43fb420e81 )
+)
+
+game (
+	name "Speichertest (19xx)(-)[a]"
+	description "Speichertest (19xx)(-)[a]"
+	rom ( name "Speichertest (19xx)(-)[a].z80" size 545 crc 7f75c42e md5 72f0f0d8cca6873bf771a9469c974d7a )
+)
+
+game (
+	name "Speichertest (19xx)(-)[a2]"
+	description "Speichertest (19xx)(-)[a2]"
+	rom ( name "Speichertest (19xx)(-)[a2].z80" size 576 crc 4af84b8b md5 157aef760d9f18ea3b0fca90104806c3 )
+)
+
+game (
+	name "Spiel-Box v1.0 (19xx)(-)[8-in-one]"
+	description "Spiel-Box v1.0 (19xx)(-)[8-in-one]"
+	rom ( name "Spiel-Box v1.0 (19xx)(-)[8-in-one].z80" size 43488 crc 7137c923 md5 f80ef153cb08982e99d68158596262e6 )
+)
+
+game (
+	name "Spielbox Nr. 1 (19xx)(P. Schellin)[64K]"
+	description "Spielbox Nr. 1 (19xx)(P. Schellin)[64K]"
+	rom ( name "Spielbox Nr. 1 (19xx)(P. Schellin)[64K].z80" size 42560 crc 85aa0c49 md5 e27e0cb0b8e752c56ef28a2de0010d47 )
+)
+
+game (
+	name "Sprach-IC (19xx)(-)[b][ASM]"
+	description "Sprach-IC (19xx)(-)[b][ASM]"
+	rom ( name "Sprach-IC (19xx)(-)[b][ASM].z80" size 207 crc e21c645a md5 a9c2bd9913a6cb0ba76a1f9c7bb3102f )
+)
+
+game (
+	name "Sprache (19xx)(NH)[a]"
+	description "Sprache (19xx)(NH)[a]"
+	rom ( name "Sprache (19xx)(NH)[a].z80" size 1088 crc 8645f99b md5 66ea9d45656d232768e50365ef4d6d22 )
+)
+
+game (
+	name "Sprache (19xx)(NH)[a2]"
+	description "Sprache (19xx)(NH)[a2]"
+	rom ( name "Sprache (19xx)(NH)[a2].z80" size 897 crc 5da39728 md5 2ab340b1212fa1c3606445e79c3ae68a )
+)
+
+game (
+	name "Sprungverteiler fuer Z1013-Erweiterungen (19xx)(-)[doc]"
+	description "Sprungverteiler fuer Z1013-Erweiterungen (19xx)(-)[doc]"
+	rom ( name "Sprungverteiler fuer Z1013-Erweiterungen (19xx)(-)[doc].z80" size 5376 crc ccc11380 md5 da3d3c73f4f281112f63b1e4511db487 )
+)
+
+game (
+	name "Star Trek (19xx)(-)"
+	description "Star Trek (19xx)(-)"
+	rom ( name "Star Trek (19xx)(-).z80" size 18772 crc 1a0e5906 md5 e54d8b323c21852fde192d1baa00bd85 )
+)
+
+game (
+	name "Star Trek v1.1 (19xx)(-)[a][BASIC Version]"
+	description "Star Trek v1.1 (19xx)(-)[a][BASIC Version]"
+	rom ( name "Star Trek v1.1 (19xx)(-)[a][BASIC Version].z80" size 18513 crc 7af9fec1 md5 cc621784072b3d318f365ad25b7f5373 )
+)
+
+game (
+	name "Star Trek v1.1 (19xx)(-)[a2][BASIC Version]"
+	description "Star Trek v1.1 (19xx)(-)[a2][BASIC Version]"
+	rom ( name "Star Trek v1.1 (19xx)(-)[a2][BASIC Version].z80" size 18528 crc c2ce2aa9 md5 7e0fe2ecee6d5087457a65ba10069233 )
+)
+
+game (
+	name "Starfire 2 (19xx)(-)"
+	description "Starfire 2 (19xx)(-)"
+	rom ( name "Starfire 2 (19xx)(-).z80" size 8992 crc 1f6be67a md5 b9a03cf0baeac3182bc7b998a81dd8d4 )
+)
+
+game (
+	name "Stringfeld (1989)(Dr. Trog)"
+	description "Stringfeld (1989)(Dr. Trog)"
+	rom ( name "Stringfeld (1989)(Dr. Trog).z80" size 1568 crc 22de390a md5 506f82aaebb89cbd753448bc66c7ddf4 )
+)
+
+game (
+	name "Sumeria (1985)(Kittelmann & Schroeder)"
+	description "Sumeria (1985)(Kittelmann & Schroeder)"
+	rom ( name "Sumeria (1985)(Kittelmann & Schroeder).z80" size 7923 crc 81c15aa8 md5 b54a5f64feb6192d7ab1dd254b197f65 )
+)
+
+game (
+	name "Super Dame (19xx)(R. Steinbrink)[a]"
+	description "Super Dame (19xx)(R. Steinbrink)[a]"
+	rom ( name "Super Dame (19xx)(R. Steinbrink)[a].z80" size 16192 crc c2bb05d0 md5 192001615a6366647d114d25771e58e5 )
+)
+
+game (
+	name "Super Dame (19xx)(R. Steinbrink)[a2]"
+	description "Super Dame (19xx)(R. Steinbrink)[a2]"
+	rom ( name "Super Dame (19xx)(R. Steinbrink)[a2].z80" size 4032 crc 2e1e5882 md5 30b82b36e88b5dda192dad9c126e80ab )
+)
+
+game (
+	name "Super Dame (19xx)(R. Steinbrink)[a3]"
+	description "Super Dame (19xx)(R. Steinbrink)[a3]"
+	rom ( name "Super Dame (19xx)(R. Steinbrink)[a3].z80" size 4032 crc 00ea9401 md5 588bcb12b2c4087a5bdb47d46e19d2eb )
+)
+
+game (
+	name "Super Puzzle (19xx)(GERASOFT)[a][Tetris Clone]"
+	description "Super Puzzle (19xx)(GERASOFT)[a][Tetris Clone]"
+	rom ( name "Super Puzzle (19xx)(GERASOFT)[a][Tetris Clone].z80" size 2848 crc 14e79c8f md5 d3d549147660e00b0f52c4c47878f8f8 )
+)
+
+game (
+	name "Super Puzzle (19xx)(GERASOFT)[a2][Tetris Clone]"
+	description "Super Puzzle (19xx)(GERASOFT)[a2][Tetris Clone]"
+	rom ( name "Super Puzzle (19xx)(GERASOFT)[a2][Tetris Clone].z80" size 2848 crc ae813a22 md5 b3fd6b1f0d83d4e25b30e862b3df560f )
+)
+
+game (
+	name "Supertrucker G&A (1989)(D. Heineck, Guido, Aicke)"
+	description "Supertrucker G&A (1989)(D. Heineck, Guido, Aicke)"
+	rom ( name "Supertrucker G&A (1989)(D. Heineck, Guido, Aicke).z80" size 12672 crc eda0a429 md5 b18f1c42a8fbbc8fc730edcd660ff112 )
+)
+
+game (
+	name "Susi B (19xx)(-)"
+	description "Susi B (19xx)(-)"
+	rom ( name "Susi B (19xx)(-).z80" size 6695 crc b5d46c81 md5 60c4a775773742b4d3a121eb802be9bb )
+)
+
+game (
+	name "Systemuhr o. CTC (19xx)(-)[a]"
+	description "Systemuhr o. CTC (19xx)(-)[a]"
+	rom ( name "Systemuhr o. CTC (19xx)(-)[a].z80" size 320 crc 3588c931 md5 34496b92ca707a1966a2825711e48ebd )
+)
+
+game (
+	name "Systemuhr o. CTC (19xx)(-)[a2]"
+	description "Systemuhr o. CTC (19xx)(-)[a2]"
+	rom ( name "Systemuhr o. CTC (19xx)(-)[a2].z80" size 288 crc 2ded91f6 md5 977ae83f0811a53a6214ebd78640ddae )
+)
+
+game (
+	name "TB-Analyse (1989)(M. Witzke)"
+	description "TB-Analyse (1989)(M. Witzke)"
+	rom ( name "TB-Analyse (1989)(M. Witzke).z80" size 1121 crc 62e8a152 md5 e086e97ee03bf6d291566dcd29566abd )
+)
+
+game (
+	name "TPE-Basic v2.1 (1986)(T. Power)[a]"
+	description "TPE-Basic v2.1 (1986)(T. Power)[a]"
+	rom ( name "TPE-Basic v2.1 (1986)(T. Power)[a].z80" size 12992 crc 5c41c80f md5 38380a733076c18e8197bd4422300887 )
+)
+
+game (
+	name "TPE-Basic v2.1 (1986)(T. Power)[a2]"
+	description "TPE-Basic v2.1 (1986)(T. Power)[a2]"
+	rom ( name "TPE-Basic v2.1 (1986)(T. Power)[a2].z80" size 13088 crc 1d2d2567 md5 2d22cfe7cdb4b05f7e86df98cc604b04 )
+)
+
+game (
+	name "TROS-Radio (1992)(W. Brederode)"
+	description "TROS-Radio (1992)(W. Brederode)"
+	rom ( name "TROS-Radio (1992)(W. Brederode).z80" size 2470 crc dc2e9948 md5 ae703082ebd125ac0cd8a4d85f17ae56 )
+)
+
+game (
+	name "Tapelist-VT (1988)(Joduke-Software)[a]"
+	description "Tapelist-VT (1988)(Joduke-Software)[a]"
+	rom ( name "Tapelist-VT (1988)(Joduke-Software)[a].z80" size 1856 crc e0c98fcf md5 0b81dfd73e45c17fadf36b4e9b7940d5 )
+)
+
+game (
+	name "Tapelist-VT (1988)(Joduke-Software)[a2]"
+	description "Tapelist-VT (1988)(Joduke-Software)[a2]"
+	rom ( name "Tapelist-VT (1988)(Joduke-Software)[a2].z80" size 1856 crc d9e96c57 md5 45cc4f222fad3539274328ad581c897a )
+)
+
+game (
+	name "Tedit v9.0 (19xx)(R. Brosig)[doc]"
+	description "Tedit v9.0 (19xx)(R. Brosig)[doc]"
+	rom ( name "Tedit v9.0 (19xx)(R. Brosig)[doc].z80" size 15552 crc d975c900 md5 14940125bb972c6a8bc61129152f58b9 )
+)
+
+game (
+	name "Tennis (19xx)(-)"
+	description "Tennis (19xx)(-)"
+	rom ( name "Tennis (19xx)(-).z80" size 3104 crc f8354efe md5 8af63e10df0930981bfc3631392f41d2 )
+)
+
+game (
+	name "Tetris (19xx)(Gerasoft - H. Knechtel)"
+	description "Tetris (19xx)(Gerasoft - H. Knechtel)"
+	rom ( name "Tetris (19xx)(Gerasoft - H. Knechtel).z80" size 2848 crc ae2a1fb5 md5 8134e835b06a3d4ec1a44fd411a6ffc3 )
+)
+
+game (
+	name "Texed v6.1 Scf (19xx)(R. Brosig)"
+	description "Texed v6.1 Scf (19xx)(R. Brosig)"
+	rom ( name "Texed v6.1 Scf (19xx)(R. Brosig).z80" size 7968 crc cc73bcbf md5 eaca720f7a229434c9d2dcd1ef573951 )
+)
+
+game (
+	name "Texkon 1 (1989)(Schroeder, L.)"
+	description "Texkon 1 (1989)(Schroeder, L.)"
+	rom ( name "Texkon 1 (1989)(Schroeder, L.).z80" size 1712 crc bff3a8b2 md5 0a12452884f0afb88c9c757ca33bae8b )
+)
+
+game (
+	name "Text-Editor v2.0 (1988)(-)"
+	description "Text-Editor v2.0 (1988)(-)"
+	rom ( name "Text-Editor v2.0 (1988)(-).z80" size 7968 crc 2030bcca md5 d55bd77ac464668e50b5616eb915894f )
+)
+
+game (
+	name "Texteditor v9.0 (19xx)(A. Koehler)(en)"
+	description "Texteditor v9.0 (19xx)(A. Koehler)(en)"
+	rom ( name "Texteditor v9.0 (19xx)(A. Koehler)(en).z80" size 8736 crc 8b515d61 md5 0d1951692cd94d8f6f57f382ccdb99d1 )
+)
+
+game (
+	name "Textformat (19xx)(D. Ambras)"
+	description "Textformat (19xx)(D. Ambras)"
+	rom ( name "Textformat (19xx)(D. Ambras).z80" size 449 crc ab6049fe md5 2c64083b4dc4e98c5463f719e9ab807a )
+)
+
+game (
+	name "Tierraten (19xx)(-)"
+	description "Tierraten (19xx)(-)"
+	rom ( name "Tierraten (19xx)(-).z80" size 2496 crc 28dc92e1 md5 a4cad0906333c48fe646175676102fa7 )
+)
+
+game (
+	name "Tod den Voegeln (1989)(G. Stiller & A. Bittner)"
+	description "Tod den Voegeln (1989)(G. Stiller & A. Bittner)"
+	rom ( name "Tod den Voegeln (1989)(G. Stiller & A. Bittner).z80" size 5152 crc 7c663e20 md5 ed6b0c5a32b7ea98f327f2026142f3f7 )
+)
+
+game (
+	name "Tool-Box v1.1 (1989)(FST)[a]"
+	description "Tool-Box v1.1 (1989)(FST)[a]"
+	rom ( name "Tool-Box v1.1 (1989)(FST)[a].z80" size 5408 crc a5226198 md5 00ae2da636329b8fab768b9c5314805e )
+)
+
+game (
+	name "Tool-Box v1.1 (1989)(FST)[a2]"
+	description "Tool-Box v1.1 (1989)(FST)[a2]"
+	rom ( name "Tool-Box v1.1 (1989)(FST)[a2].z80" size 5376 crc 99c40fa9 md5 ee313a13d2a4ea9cde15af4d601bd747 )
+)
+
+game (
+	name "Trafo (19xx)(G. Morawsky)"
+	description "Trafo (19xx)(G. Morawsky)"
+	rom ( name "Trafo (19xx)(G. Morawsky).z80" size 5312 crc abf24c98 md5 b4875a7e31313688abb31f3e89ea4e49 )
+)
+
+game (
+	name "Trafo-Berechnung (19xx)(Dirk Ambras)"
+	description "Trafo-Berechnung (19xx)(Dirk Ambras)"
+	rom ( name "Trafo-Berechnung (19xx)(Dirk Ambras).z80" size 4576 crc 8ca04dc2 md5 59ef121d843a8cd20eae9048c795c651 )
+)
+
+game (
+	name "Trap (1989)(K. Rothe)"
+	description "Trap (1989)(K. Rothe)"
+	rom ( name "Trap (1989)(K. Rothe).z80" size 31104 crc 6a5b6b12 md5 946693edd98828ca3516e02f7bde16bc )
+)
+
+game (
+	name "Triplett (19xx)(R. Brosig)"
+	description "Triplett (19xx)(R. Brosig)"
+	rom ( name "Triplett (19xx)(R. Brosig).z80" size 4512 crc 0e979d47 md5 191d6e102408fcf5113c4ff8fbb48aef )
+)
+
+game (
+	name "Turbo-Header (19xx)(-)"
+	description "Turbo-Header (19xx)(-)"
+	rom ( name "Turbo-Header (19xx)(-).z80" size 1056 crc 57cba054 md5 5d171fea0ddc4bd5755a37febfe2f9c3 )
+)
+
+game (
+	name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a]"
+	description "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a]"
+	rom ( name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a].z80" size 3904 crc af15d2fc md5 a8cff5e6e8f1dfacc4eb44c04a1dc9a8 )
+)
+
+game (
+	name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a2]"
+	description "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a2]"
+	rom ( name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[a2].z80" size 3904 crc 9e26a385 md5 c27c1982477c15b3e97f7b01201403e1 )
+)
+
+game (
+	name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Joystick]"
+	description "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Joystick]"
+	rom ( name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Joystick].z80" size 3904 crc dd62982c md5 480c188d959c33fa5470b7103d2c5c0e )
+)
+
+game (
+	name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Keyboard Table]"
+	description "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Keyboard Table]"
+	rom ( name "Turtle Player (1987)(Schmidt-Spiele-Leipzig)[Keyboard Table].z80" size 688 crc bf7116ed md5 4599ecfe95906f69d53aa6a8b982f8de )
+)
+
+game (
+	name "Turtle Player SG (1987)(Schmidt-Spiele-Leipzig)"
+	description "Turtle Player SG (1987)(Schmidt-Spiele-Leipzig)"
+	rom ( name "Turtle Player SG (1987)(Schmidt-Spiele-Leipzig).z80" size 16160 crc 32480b09 md5 3bdcc1713980219b4672c749ae4f3203 )
+)
+
+game (
+	name "U-Boot (19xx)(-)"
+	description "U-Boot (19xx)(-)"
+	rom ( name "U-Boot (19xx)(-).z80" size 7712 crc b0b4113e md5 8366f79d610bd66c9e5e97b0eb2220ff )
+)
+
+game (
+	name "UFO (19xx)(D. Schroeter)"
+	description "UFO (19xx)(D. Schroeter)"
+	rom ( name "UFO (19xx)(D. Schroeter).z80" size 4416 crc 76d3c300 md5 69a99c11fb175caa559ee338997bba88 )
+)
+
+game (
+	name "USR-Plot (19xx)(D. Ambras)"
+	description "USR-Plot (19xx)(D. Ambras)"
+	rom ( name "USR-Plot (19xx)(D. Ambras).z80" size 1672 crc c50dbbe9 md5 26f14e24d35caa4239b3de1928d3e5f9 )
+)
+
+game (
+	name "Ueber Verlag (1989)(-)(FI)"
+	description "Ueber Verlag (1989)(-)(FI)"
+	rom ( name "Ueber Verlag (1989)(-)(FI).z80" size 13166 crc 7790b847 md5 a6602e85cd05ad0c9074c4653300e230 )
+)
+
+game (
+	name "Uni-Copy v6.2plus (1989)(B. Wilske)"
+	description "Uni-Copy v6.2plus (1989)(B. Wilske)"
+	rom ( name "Uni-Copy v6.2plus (1989)(B. Wilske).z80" size 4128 crc 7733b4f2 md5 9a5c57b24bb9bf678231d5e3c0523d89 )
+)
+
+game (
+	name "Uni-Copy v6.2plus (1989)(B. Wilske)[a][doc]"
+	description "Uni-Copy v6.2plus (1989)(B. Wilske)[a][doc]"
+	rom ( name "Uni-Copy v6.2plus (1989)(B. Wilske)[a][doc].z80" size 4768 crc 47e1edf2 md5 3a4f30ff6223a947a010693450d9ce02 )
+)
+
+game (
+	name "Uni-Copy v6.2plus (1989)(B. Wilske)[a2][doc]"
+	description "Uni-Copy v6.2plus (1989)(B. Wilske)[a2][doc]"
+	rom ( name "Uni-Copy v6.2plus (1989)(B. Wilske)[a2][doc].z80" size 4754 crc 08da790d md5 58ad8f86d83fd16135a9d82ae5e6090f )
+)
+
+game (
+	name "Unidat 100 v2.5 (1988)(Bernd Koch)"
+	description "Unidat 100 v2.5 (1988)(Bernd Koch)"
+	rom ( name "Unidat 100 v2.5 (1988)(Bernd Koch).z80" size 6777 crc fb1b13f2 md5 012b241fe8300dbcb86cfb833018b4c3 )
+)
+
+game (
+	name "Universal-Textleser (1988)(Computer Club Leipzig)"
+	description "Universal-Textleser (1988)(Computer Club Leipzig)"
+	rom ( name "Universal-Textleser (1988)(Computer Club Leipzig).z80" size 1760 crc f07b9848 md5 d48e671a3c5018b11784a2207c8fabc8 )
+)
+
+game (
+	name "Universe, The (1987)(H.E. - Software)"
+	description "Universe, The (1987)(H.E. - Software)"
+	rom ( name "Universe, The (1987)(H.E. - Software).z80" size 2048 crc bd99cb33 md5 b096ba4a45b7c3d1ce9f994cead0b328 )
+)
+
+game (
+	name "Vampi (1989)(Stinner)[a]"
+	description "Vampi (1989)(Stinner)[a]"
+	rom ( name "Vampi (1989)(Stinner)[a].z80" size 5152 crc 8193ab79 md5 67d48f2de0c40d41fafaa5110300b5e4 )
+)
+
+game (
+	name "Vampi (1989)(Stinner)[a2]"
+	description "Vampi (1989)(Stinner)[a2]"
+	rom ( name "Vampi (1989)(Stinner)[a2].z80" size 5152 crc 3cc44711 md5 f4bc857e00d718770ac16b148f986d56 )
+)
+
+game (
+	name "Vampi (1989)(Stinner)[Joystick]"
+	description "Vampi (1989)(Stinner)[Joystick]"
+	rom ( name "Vampi (1989)(Stinner)[Joystick].z80" size 5216 crc 66ff6b06 md5 f64b69fdc0d9f2f4b8081fda9220a698 )
+)
+
+game (
+	name "Vampi (19xx)(NH)[a]"
+	description "Vampi (19xx)(NH)[a]"
+	rom ( name "Vampi (19xx)(NH)[a].z80" size 3584 crc e22b3dae md5 a3fdcc1c4f6c6bb28964493a49b68cd2 )
+)
+
+game (
+	name "Vampi (19xx)(NH)[a2]"
+	description "Vampi (19xx)(NH)[a2]"
+	rom ( name "Vampi (19xx)(NH)[a2].z80" size 3584 crc e54eb261 md5 21116d60ec96b5bad5067552e3949b67 )
+)
+
+game (
+	name "Voice Dice (19xx)(-)[a]"
+	description "Voice Dice (19xx)(-)[a]"
+	rom ( name "Voice Dice (19xx)(-)[a].z80" size 30528 crc 61943297 md5 8055123eb539c021ed5d48cf64f94586 )
+)
+
+game (
+	name "Voice Dice (19xx)(-)[a2]"
+	description "Voice Dice (19xx)(-)[a2]"
+	rom ( name "Voice Dice (19xx)(-)[a2].z80" size 30528 crc c36491af md5 000be92806becac01e02ee850d2d6432 )
+)
+
+game (
+	name "Voice Dice (19xx)(-)[memory dump]"
+	description "Voice Dice (19xx)(-)[memory dump]"
+	rom ( name "Voice Dice (19xx)(-)[memory dump].z80" size 14432 crc ed8b28bc md5 f65e3595dd22a96ea9817a7af86c3f67 )
+)
+
+game (
+	name "WSConvert (19xx)(M. Halupka)"
+	description "WSConvert (19xx)(M. Halupka)"
+	rom ( name "WSConvert (19xx)(M. Halupka).z80" size 800 crc 7b599489 md5 3507a900756054601b71b3604cbf5d77 )
+)
+
+game (
+	name "Wall (1988)(F. Herzog)"
+	description "Wall (1988)(F. Herzog)"
+	rom ( name "Wall (1988)(F. Herzog).z80" size 12224 crc adc85b4e md5 db05942e104fc236ca3f6945a4c9358f )
+)
+
+game (
+	name "Wandlung von CALL in RST 20 (19xx)(-)[a]"
+	description "Wandlung von CALL in RST 20 (19xx)(-)[a]"
+	rom ( name "Wandlung von CALL in RST 20 (19xx)(-)[a].z80" size 285 crc fd57085a md5 15977515cf259e3849510e9ba634056d )
+)
+
+game (
+	name "Wandlung von CALL in RST 20 (19xx)(-)[a2]"
+	description "Wandlung von CALL in RST 20 (19xx)(-)[a2]"
+	rom ( name "Wandlung von CALL in RST 20 (19xx)(-)[a2].z80" size 288 crc 8abd5678 md5 810706a1b8018d2fa39da33fd41d0a8b )
+)
+
+game (
+	name "Wissenstest ueber Afrika (19xx)(-)"
+	description "Wissenstest ueber Afrika (19xx)(-)"
+	rom ( name "Wissenstest ueber Afrika (19xx)(-).z80" size 11296 crc b81ad251 md5 6d964bc17870c845ca4068deb5dba590 )
+)
+
+game (
+	name "Wueste (19xx)(M. Siedentopf & K. Rothe)"
+	description "Wueste (19xx)(M. Siedentopf & K. Rothe)"
+	rom ( name "Wueste (19xx)(M. Siedentopf & K. Rothe).z80" size 14400 crc 1b849677 md5 9e77e3766a792b3d90010dc89346eab6 )
+)
+
+game (
+	name "Z1013 - Monitorequipment (19xx)(M. Duchrow)"
+	description "Z1013 - Monitorequipment (19xx)(M. Duchrow)"
+	rom ( name "Z1013 - Monitorequipment (19xx)(M. Duchrow).z80" size 2592 crc 5fcf0ab9 md5 533e0ce8dae11c9f03a2e1a9a5add22e )
+)
+
+game (
+	name "Z1013 ASM - Kurzbeschreibung (19xx)(-)[doc]"
+	description "Z1013 ASM - Kurzbeschreibung (19xx)(-)[doc]"
+	rom ( name "Z1013 ASM - Kurzbeschreibung (19xx)(-)[doc].z80" size 2693 crc 08988d54 md5 3ffbf5ffae791b3c78d27a86b2d83502 )
+)
+
+game (
+	name "Z1013 Debugger v3.02 (1989)(H. Krull)"
+	description "Z1013 Debugger v3.02 (1989)(H. Krull)"
+	rom ( name "Z1013 Debugger v3.02 (1989)(H. Krull).z80" size 4640 crc 78a785af md5 42c4d5a7edffdbd811d48653de275136 )
+)
+
+game (
+	name "Z1013 Demonstrationsprogramme (19xx)(R. Brosig)"
+	description "Z1013 Demonstrationsprogramme (19xx)(R. Brosig)"
+	rom ( name "Z1013 Demonstrationsprogramme (19xx)(R. Brosig).z80" size 16160 crc 2e89dc73 md5 faa5eebf19ae37095ff2871942fd9f61 )
+)
+
+game (
+	name "Z1013 Disassembler (19xx)(-)"
+	description "Z1013 Disassembler (19xx)(-)"
+	rom ( name "Z1013 Disassembler (19xx)(-).z80" size 2560 crc d0ce4e72 md5 bc0f3457a1a0632b752eceafbd025aaf )
+)
+
+game (
+	name "Z1013 Fig-Forth (19xx)(CCsoft)"
+	description "Z1013 Fig-Forth (19xx)(CCsoft)"
+	rom ( name "Z1013 Fig-Forth (19xx)(CCsoft).z80" size 10016 crc 57df82be md5 3d4e2d7a6deef3255b6ba5dfacfab776 )
+)
+
+game (
+	name "Z1013 Fig-Forth v1.0 (19xx)(-)"
+	description "Z1013 Fig-Forth v1.0 (19xx)(-)"
+	rom ( name "Z1013 Fig-Forth v1.0 (19xx)(-).z80" size 10016 crc dbc62e42 md5 622f2e40600812ae570fa952ab7856a3 )
+)
+
+game (
+	name "Z1013 Info (1989)(Rundfunk der DDR)[doc]"
+	description "Z1013 Info (1989)(Rundfunk der DDR)[doc]"
+	rom ( name "Z1013 Info (1989)(Rundfunk der DDR)[doc].z80" size 4138 crc 7987efae md5 7e5ef1f424bfccbe8f3ee806f0c801a9 )
+)
+
+game (
+	name "Z1013 Keyboardtable (19xx)(-)"
+	description "Z1013 Keyboardtable (19xx)(-)"
+	rom ( name "Z1013 Keyboardtable (19xx)(-).z80" size 688 crc ebe31968 md5 72375251131b7b3ea24cb4ecb9aebb81 )
+)
+
+game (
+	name "Z1013 Monitor v3.1 (19xx)(-)(en)[a]"
+	description "Z1013 Monitor v3.1 (19xx)(-)(en)[a]"
+	rom ( name "Z1013 Monitor v3.1 (19xx)(-)(en)[a].z80" size 4160 crc 2df99ba1 md5 635309e24e58ab5331b0c78ff1564a84 )
+)
+
+game (
+	name "Z1013 Monitor v3.1 (19xx)(-)(en)[a2]"
+	description "Z1013 Monitor v3.1 (19xx)(-)(en)[a2]"
+	rom ( name "Z1013 Monitor v3.1 (19xx)(-)(en)[a2].z80" size 4160 crc 8c06861b md5 0d83e30ab040349b4f4c3d6d5d06c29c )
+)
+
+game (
+	name "Z1013 Monitor + S6009 v1.1 (19xx)(-)"
+	description "Z1013 Monitor + S6009 v1.1 (19xx)(-)"
+	rom ( name "Z1013 Monitor + S6009 v1.1 (19xx)(-).z80" size 4160 crc e7250b6c md5 dec40cfdd390c70810cf0d3458ec33cb )
+)
+
+game (
+	name "Z1013 Monitor + S6009 v2.028 (19xx)(-)"
+	description "Z1013 Monitor + S6009 v2.028 (19xx)(-)"
+	rom ( name "Z1013 Monitor + S6009 v2.028 (19xx)(-).z80" size 4128 crc b5866c0c md5 4f37f13fe815b994c7d1a62d29d40e18 )
+)
+
+game (
+	name "Z1013 Super-Urlader - Kurzbeschreibung v3.0 (1988)(M. Geartner)[doc]"
+	description "Z1013 Super-Urlader - Kurzbeschreibung v3.0 (1988)(M. Geartner)[doc]"
+	rom ( name "Z1013 Super-Urlader - Kurzbeschreibung v3.0 (1988)(M. Geartner)[doc].z80" size 10272 crc 62e13bc8 md5 10040f6ed4dd893a980a8932b7831101 )
+)
+
+game (
+	name "Z1013 Videotext (19xx)(-)[a][ASM]"
+	description "Z1013 Videotext (19xx)(-)[a][ASM]"
+	rom ( name "Z1013 Videotext (19xx)(-)[a][ASM].z80" size 10438 crc d8bba657 md5 a59a2404ca06d683d4b88df7ec61646a )
+)
+
+game (
+	name "Z1013 Videotext (19xx)(-)[a2][ASM]"
+	description "Z1013 Videotext (19xx)(-)[a2][ASM]"
+	rom ( name "Z1013 Videotext (19xx)(-)[a2][ASM].z80" size 10403 crc c03c556b md5 31442438e2ff38bdf457257a35cfe94d )
+)
+
+game (
+	name "Z1013 Videotext (19xx)(-)[memory dump]"
+	description "Z1013 Videotext (19xx)(-)[memory dump]"
+	rom ( name "Z1013 Videotext (19xx)(-)[memory dump].z80" size 1569 crc 18d0f70c md5 3ff0c11412d87d157986c92b8be9c401 )
+)
+
+game (
+	name "Z1013 Videotext v1.1 (19xx)(-)"
+	description "Z1013 Videotext v1.1 (19xx)(-)"
+	rom ( name "Z1013 Videotext v1.1 (19xx)(-).z80" size 3873 crc 086e5b9b md5 e89683772aaee93ce7807e14f87eb4a7 )
+)
+
+game (
+	name "Z1013+S6009 V2.028 RB (19xx)(R. Brosig)[System ROM]"
+	description "Z1013+S6009 V2.028 RB (19xx)(R. Brosig)[System ROM]"
+	rom ( name "Z1013+S6009 V2.028 RB (19xx)(R. Brosig)[System ROM].z80" size 4128 crc 12d6f2d6 md5 f8ee9e5bb1998d9d1a937183243522dd )
+)
+
+game (
+	name "Z1030 Super Urlader mga v3.0 (19xx)(-)[b]"
+	description "Z1030 Super Urlader mga v3.0 (19xx)(-)[b]"
+	rom ( name "Z1030 Super Urlader mga v3.0 (19xx)(-)[b].z80" size 1312 crc 95dd45c7 md5 cdaed18a69573acbcc1109b976b6d51e )
+)
+
+game (
+	name "Z9001 Saveinterface (19xx)(-)"
+	description "Z9001 Saveinterface (19xx)(-)"
+	rom ( name "Z9001 Saveinterface (19xx)(-).z80" size 576 crc ff42be7b md5 874096bc01bd1f96663297828b14edde )
+)
+
+game (
+	name "ZZZ-UNK-INCOM.XXX"
+	description "ZZZ-UNK-INCOM.XXX"
+	rom ( name "ZZZ-UNK-INCOM.XXX.z80" size 4128 crc e8f68564 md5 ce257a8b72a4e88c65dcaa5780212b45 )
+)
+
+game (
+	name "ZZZ-UNK-av_plati_pic.bitmap"
+	description "ZZZ-UNK-av_plati_pic.bitmap"
+	rom ( name "ZZZ-UNK-av_plati_pic.bitmap.z80" size 8224 crc 4ae2e733 md5 9b4312e25c631c541938c5f4f538c4a5 )
+)
+
+game (
+	name "ZZZ-UNK-centr_tr_miwo [b]"
+	description "ZZZ-UNK-centr_tr_miwo [b]"
+	rom ( name "ZZZ-UNK-centr_tr_miwo [b].z80" size 96 crc e3a7dfa3 md5 361917e83db1f40a908135626cc64f64 )
+)
+
+game (
+	name "ZZZ-UNK-cyrus1_gam.com"
+	description "ZZZ-UNK-cyrus1_gam.com"
+	rom ( name "ZZZ-UNK-cyrus1_gam.com.z80" size 1344 crc f564ef9f md5 558d6085b235a70dd8d5498bf2c96904 )
+)
+
+game (
+	name "ZZZ-UNK-cyrus2_gam.com"
+	description "ZZZ-UNK-cyrus2_gam.com"
+	rom ( name "ZZZ-UNK-cyrus2_gam.com.z80" size 1344 crc a097a0f5 md5 c1aa1bccb9403d57c7fdd72885016666 )
+)
+
+game (
+	name "ZZZ-UNK-de_tijdm_b"
+	description "ZZZ-UNK-de_tijdm_b"
+	rom ( name "ZZZ-UNK-de_tijdm_b.z80" size 18445 crc 7ce8fbc4 md5 2626d573ff88b1f4de42c4eb6c011e76 )
+)
+
+game (
+	name "ZZZ-UNK-egw"
+	description "ZZZ-UNK-egw"
+	rom ( name "ZZZ-UNK-egw.z80" size 4768 crc 64b1cf95 md5 b90f450acc0cda7d4afcb552db98d62a )
+)
+
+game (
+	name "ZZZ-UNK-ibm_zg+din"
+	description "ZZZ-UNK-ibm_zg+din"
+	rom ( name "ZZZ-UNK-ibm_zg+din.z80" size 2080 crc 048f8696 md5 4e535e15299458a066506aefee8e9912 )
+)
+
+game (
+	name "ZZZ-UNK-impuls_pic.bitmap [o]"
+	description "ZZZ-UNK-impuls_pic.bitmap [o]"
+	rom ( name "ZZZ-UNK-impuls_pic.bitmap [o].z80" size 8224 crc b4ea2a74 md5 eb8284336a5bed213b0f104c1ecd0a0e )
+)
+
+game (
+	name "ZZZ-UNK-mesee_c.com"
+	description "ZZZ-UNK-mesee_c.com"
+	rom ( name "ZZZ-UNK-mesee_c.com.z80" size 94 crc 7dd7bdb4 md5 028396ab5711effb58b499826e21af9c )
+)
+
+game (
+	name "ZZZ-UNK-mexico_prg.com"
+	description "ZZZ-UNK-mexico_prg.com"
+	rom ( name "ZZZ-UNK-mexico_prg.com.z80" size 481 crc 2c91e079 md5 144ee97ccae117e7bab6ff1ec068d78c )
+)
+
+game (
+	name "ZZZ-UNK-miami+joy"
+	description "ZZZ-UNK-miami+joy"
+	rom ( name "ZZZ-UNK-miami+joy.z80" size 13888 crc 6b91213c md5 896a4389c4b4d3f0f7ba04588107b381 )
+)
+
+game (
+	name "ZZZ-UNK-miami.1"
+	description "ZZZ-UNK-miami.1"
+	rom ( name "ZZZ-UNK-miami.1.z80" size 13888 crc e4419ed8 md5 734a6f5c0ff2e55abb3394e293a60f86 )
+)
+
+game (
+	name "ZZZ-UNK-ohio_judith"
+	description "ZZZ-UNK-ohio_judith"
+	rom ( name "ZZZ-UNK-ohio_judith.z80" size 13120 crc 1210d701 md5 7a4d3f8af84dcb0726b04c051d2e06fd )
+)
+
+game (
+	name "ZZZ-UNK-original"
+	description "ZZZ-UNK-original"
+	rom ( name "ZZZ-UNK-original.z80" size 2368 crc 41ac9a30 md5 1266ffd29b91f88ed85593a90c986d59 )
+)
+
+game (
+	name "ZZZ-UNK-say_pic.bitmap"
+	description "ZZZ-UNK-say_pic.bitmap"
+	rom ( name "ZZZ-UNK-say_pic.bitmap.z80" size 8224 crc e80f8f40 md5 38fd5e7552e21c1448797c616f172586 )
+)
+
+game (
+	name "ZZZ-UNK-sing_s.edas"
+	description "ZZZ-UNK-sing_s.edas"
+	rom ( name "ZZZ-UNK-sing_s.edas.z80" size 901 crc 60354fc2 md5 272098af1a4e2c0b90f673a5e00ff73a )
+)
+
+game (
+	name "ZZZ-UNK-sinola [b]"
+	description "ZZZ-UNK-sinola [b]"
+	rom ( name "ZZZ-UNK-sinola [b].z80" size 225 crc 487e166f md5 5a0e8a06e59a170f13cea09a369cba80 )
+)
+
+game (
+	name "ZZZ-UNK-tast1_scr"
+	description "ZZZ-UNK-tast1_scr"
+	rom ( name "ZZZ-UNK-tast1_scr.z80" size 1024 crc 1524aaaa md5 cf53481f476e0a0539843fb338fb8231 )
+)
+
+game (
+	name "ZZZ-UNK-tast2_scr"
+	description "ZZZ-UNK-tast2_scr"
+	rom ( name "ZZZ-UNK-tast2_scr.z80" size 1024 crc 651e3b61 md5 95b9aec81428388a1cc5e29695213f09 )
+)
+
+game (
+	name "ZZZ-UNK-tast3_scr"
+	description "ZZZ-UNK-tast3_scr"
+	rom ( name "ZZZ-UNK-tast3_scr.z80" size 1024 crc 81431485 md5 e074001129ce4984b80ec59fab1ee4de )
+)
+
+game (
+	name "ZZZ-UNK-typen_le_t.doc"
+	description "ZZZ-UNK-typen_le_t.doc"
+	rom ( name "ZZZ-UNK-typen_le_t.doc.z80" size 517 crc 6431120f md5 e6940238aa671343eb999850d7071656 )
+)
+
+game (
+	name "ZZZ-UNK-via_link"
+	description "ZZZ-UNK-via_link"
+	rom ( name "ZZZ-UNK-via_link.z80" size 384 crc 616fa012 md5 aed405ccc7553450f1accb335f10d9b0 )
+)
+
+game (
+	name "ZZZ-UNK-via_link3.1"
+	description "ZZZ-UNK-via_link3.1"
+	rom ( name "ZZZ-UNK-via_link3.1.z80" size 416 crc 8c013411 md5 e899b959984204acb3adb8e853b865bf )
+)
+
+game (
+	name "ZZZ-UNK-via_link4"
+	description "ZZZ-UNK-via_link4"
+	rom ( name "ZZZ-UNK-via_link4.z80" size 480 crc 1e7ad313 md5 764de03a93b5b71ad07b9f305fad635a )
+)
+
+game (
+	name "ZZZ-UNK-vialink2"
+	description "ZZZ-UNK-vialink2"
+	rom ( name "ZZZ-UNK-vialink2.z80" size 384 crc a114ee77 md5 3609e69c8f981e014a8cb22d6bdbf77c )
+)
+
+game (
+	name "ZZZ-UNK-video_list"
+	description "ZZZ-UNK-video_list"
+	rom ( name "ZZZ-UNK-video_list.z80" size 64 crc 539f635f md5 be250aef8b281d103584920db2bf5936 )
+)
+
+game (
+	name "ZZZ-UNK-vt_edit_pic.bitmap"
+	description "ZZZ-UNK-vt_edit_pic.bitmap"
+	rom ( name "ZZZ-UNK-vt_edit_pic.bitmap.z80" size 2080 crc ced48c5e md5 523952e333c3b1feec9efc579127f979 )
+)
+
+game (
+	name "ZZZ-UNK-vtext_zs.dump"
+	description "ZZZ-UNK-vtext_zs.dump"
+	rom ( name "ZZZ-UNK-vtext_zs.dump.z80" size 1569 crc dbe9bb59 md5 83e344e5958083bab2f35e0fd80d085e )
+)
+
+game (
+	name "Zaehlermodul (19xx)(CCsoft)"
+	description "Zaehlermodul (19xx)(CCsoft)"
+	rom ( name "Zaehlermodul (19xx)(CCsoft).z80" size 704 crc 1b5544ec md5 2ae579914e3bac1752e96dba5c2e6c6a )
+)
+
+game (
+	name "grosse Handelsfahrt, Die (1987)(D. Heineck, M. Limberg)"
+	description "grosse Handelsfahrt, Die (1987)(D. Heineck, M. Limberg)"
+	rom ( name "grosse Handelsfahrt, Die (1987)(D. Heineck, M. Limberg).z80" size 9216 crc cf7ab814 md5 0610275be4ec8b7d74d7595cf8b2e16d )
+)

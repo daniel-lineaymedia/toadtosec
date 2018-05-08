@@ -1,0 +1,55 @@
+clrmamepro (
+	name "Commodore C64 - Games - [G41]"
+	description "Commodore C64 - Games - [G41] (TOSEC-v2006-06-05)"
+	category "Commodore C64 - Games - [G41]"
+	version 2006-06-05
+	author "DesertWolf"
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(de)(Disk 1 of 3 Side B)(Karte)"
+	description "Nippon (1988)(Markt & Technik)(de)(Disk 1 of 3 Side B)(Karte)"
+	rom ( name "Nippon (1988)(Markt & Technik)(de)(Disk 1 of 3 Side B)(Karte).g41" size 278234 crc d7a2602a md5 11f5b9c91391bf2806da8714def71afb )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side A)(Stadt1)"
+	description "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side A)(Stadt1)"
+	rom ( name "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side A)(Stadt1).g41" size 278234 crc e5325be7 md5 faf72552a6a4be0260478c9e13e9b2ae )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side B)(Stadt2)"
+	description "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side B)(Stadt2)"
+	rom ( name "Nippon (1988)(Markt & Technik)(de)(Disk 2 of 3 Side B)(Stadt2).g41" size 278234 crc f5d33bd9 md5 1a36bfc4890fb2a2c008d3a9b14865f3 )
+)
+
+game (
+	name "Portal (1987)(Activision)(Disk 1 of 3 Side A)"
+	description "Portal (1987)(Activision)(Disk 1 of 3 Side A)"
+	rom ( name "Portal (1987)(Activision)(Disk 1 of 3 Side A).g41" size 278234 crc c5eb9b9b md5 ec49ce05ab1c6b4d7a0735c69715b3b6 )
+)
+
+game (
+	name "Portal (1987)(Activision)(Disk 1 of 3 Side B)"
+	description "Portal (1987)(Activision)(Disk 1 of 3 Side B)"
+	rom ( name "Portal (1987)(Activision)(Disk 1 of 3 Side B).g41" size 278234 crc 0344cfc6 md5 b1f57003b3221d301467a5f1820c9027 )
+)
+
+game (
+	name "Portal (1987)(Activision)(Disk 2 of 3 Side A)"
+	description "Portal (1987)(Activision)(Disk 2 of 3 Side A)"
+	rom ( name "Portal (1987)(Activision)(Disk 2 of 3 Side A).g41" size 278234 crc b42d15af md5 66536329d5339c96555b84c9c61fb7bc )
+)
+
+game (
+	name "Portal (1987)(Activision)(Disk 2 of 3 Side B)"
+	description "Portal (1987)(Activision)(Disk 2 of 3 Side B)"
+	rom ( name "Portal (1987)(Activision)(Disk 2 of 3 Side B).g41" size 278234 crc 333a7216 md5 c059d0c1707eca0914dbe56550a88e50 )
+)
+
+game (
+	name "Portal (1987)(Activision)(Disk 3 of 3 Side A)"
+	description "Portal (1987)(Activision)(Disk 3 of 3 Side A)"
+	rom ( name "Portal (1987)(Activision)(Disk 3 of 3 Side A).g41" size 278234 crc bde02e1a md5 e6c1c163aff2a8651837531daa06bdfa )
+)

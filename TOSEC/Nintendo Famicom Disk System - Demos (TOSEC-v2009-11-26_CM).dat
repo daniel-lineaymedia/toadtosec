@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Famicom Disk System - Demos"
+	description "Nintendo Famicom Disk System - Demos (TOSEC-v2009-11-26)"
+	category "Nintendo Famicom Disk System - Demos"
+	version 2009-11-26
+	author "Cassiel"
+)
+
+game (
+	name "Ai Senshi Nicol Audio and WAVE RAM Demo (1999)(Covell, Chris)"
+	description "Ai Senshi Nicol Audio and WAVE RAM Demo (1999)(Covell, Chris)"
+	rom ( name "Ai Senshi Nicol Audio and WAVE RAM Demo (1999)(Covell, Chris).bin" size 65500 crc b508f4da md5 49f31d9fba02294d22bc6a80354ad91f )
+)
+

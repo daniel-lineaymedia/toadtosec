@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Atari 7800 - Firmware"
+	description "Atari 7800 - Firmware (TOSEC-v2006-05-05)"
+	category "Atari 7800 - Firmware"
+	version 2006-05-05
+	author "Belgarath - Cassiel"
+)
+
+game (
+	name "Atari 7800 BIOS (1984)(Atari)(NTSC)"
+	description "Atari 7800 BIOS (1984)(Atari)(NTSC)"
+	rom ( name "Atari 7800 BIOS (1984)(Atari)(NTSC).bin" size 4096 crc 5d13730c md5 0763f1ffb006ddbe32e52d497ee848ae )
+)
+
+game (
+	name "Atari 7800 BIOS (1984)(Atari)(NTSC)[b]"
+	description "Atari 7800 BIOS (1984)(Atari)(NTSC)[b]"
+	rom ( name "Atari 7800 BIOS (1984)(Atari)(NTSC)[b].bin" size 4096 crc 649913e5 md5 b32526ea179dc9ab9b2e5f8a2662b298 )
+)
+
+game (
+	name "Atari 7800 BIOS (198x)(Atari)(PAL)"
+	description "Atari 7800 BIOS (198x)(Atari)(PAL)"
+	rom ( name "Atari 7800 BIOS (198x)(Atari)(PAL).bin" size 16384 crc d5b61170 md5 397bb566584be7b9764e7a68974c4263 )
+)
+
+game (
+	name "Atari 7800 High Score Cartridge BIOS (2000)(Atari - GCC - Gary Rubio)"
+	description "Atari 7800 High Score Cartridge BIOS (2000)(Atari - GCC - Gary Rubio)"
+	rom ( name "Atari 7800 High Score Cartridge BIOS (2000)(Atari - GCC - Gary Rubio).bin" size 4096 crc 9be408d3 md5 c8a73288ab97226c52602204ab894286 )
+)

@@ -1,0 +1,188 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Games - [TAP]"
+	description "Sinclair ZX Spectrum - Compilations - Games - [TAP] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Games - [TAP]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "10 Juegos II (1984)(Microparadise Software)(es)(Side A)"
+	description "10 Juegos II (1984)(Microparadise Software)(es)(Side A)"
+	rom ( name "10 Juegos II (1984)(Microparadise Software)(es)(Side A).tap" size 24079 crc 16f91eb5 md5 2f809a231611daac77265f036323e16f sha1 2734c44baeea11234ab6605f216fafb51d3bee89 )
+)
+
+game (
+	name "10 Juegos II (1984)(Microparadise Software)(es)(Side B)"
+	description "10 Juegos II (1984)(Microparadise Software)(es)(Side B)"
+	rom ( name "10 Juegos II (1984)(Microparadise Software)(es)(Side B).tap" size 27835 crc f14b772b md5 46f1088b5451c9a9951d4c0b9aacafd8 sha1 f10dcd30790e2fd4646a3233537a29aa0663daba )
+)
+
+game (
+	name "10 Mega Hits (1985)(Beau-Jolly)(Side A)"
+	description "10 Mega Hits (1985)(Beau-Jolly)(Side A)"
+	rom ( name "10 Mega Hits (1985)(Beau-Jolly)(Side A).tap" size 182126 crc c3bb2186 md5 558f6de40dc8227d3c5e785ba6a00220 sha1 a2ede14e9c2f947caed8f06f1e1653c0eb7db22e )
+)
+
+game (
+	name "10 Mega Hits (1985)(Beau-Jolly)(Side B)"
+	description "10 Mega Hits (1985)(Beau-Jolly)(Side B)"
+	rom ( name "10 Mega Hits (1985)(Beau-Jolly)(Side B).tap" size 230494 crc 9570f79b md5 e92e7efa10a6f46a7099b2330d440aed sha1 911fbaa887bc75f85ee07174dcbe8fb26e544d5f )
+)
+
+game (
+	name "10 Mega Hits (1985)(Beau-Jolly)[Side A Menu - Side B Contents]"
+	description "10 Mega Hits (1985)(Beau-Jolly)[Side A Menu - Side B Contents]"
+	rom ( name "10 Mega Hits (1985)(Beau-Jolly)[Side A Menu - Side B Contents].tap" size 230501 crc 40d1b27c md5 3d94fc6ffb4beb31e80bf1301f91d57c sha1 67761a28a0d4689a173cf241bfc823b2d5a9a210 )
+)
+
+game (
+	name "6 in 1 - Green Door + Red Door + Yellow Door (1987)(Tartan Software)"
+	description "6 in 1 - Green Door + Red Door + Yellow Door (1987)(Tartan Software)"
+	rom ( name "6 in 1 - Green Door + Red Door + Yellow Door (1987)(Tartan Software).tap" size 147912 crc 09f754d3 md5 5e1bf0cd5db3532e462abec405e3937b sha1 2e510bde41db7eb8253d239754d46416dd0b964c )
+)
+
+game (
+	name "Big Joy (2002)(Naffsoft)"
+	description "Big Joy (2002)(Naffsoft)"
+	rom ( name "Big Joy (2002)(Naffsoft).tap" size 100638 crc c7297e74 md5 446d3ada3666850acdbf2926cf399a9d sha1 c878b9eaf816eb81a2eb7201c9032770648cc736 )
+)
+
+game (
+	name "Cassette 50 (1983)(Cascade Games)"
+	description "Cassette 50 (1983)(Cascade Games)"
+	rom ( name "Cassette 50 (1983)(Cascade Games).tap" size 270159 crc c4e07a14 md5 ef6cafb83534d5b899324da073afd468 sha1 0421e4604afc16ddae8fce2f479627e4c85b6cab )
+)
+
+game (
+	name "Cassette 50 (1983)(Cascade Games)(Side A)"
+	description "Cassette 50 (1983)(Cascade Games)(Side A)"
+	rom ( name "Cassette 50 (1983)(Cascade Games)(Side A).tap" size 131207 crc 937cdbad md5 15e38654e8cc5d2b069cc45d4cac647c sha1 de11c5eb4dc27f81cb93d1c0fdb11347cbfdd104 )
+)
+
+game (
+	name "Cassette 50 (1983)(Cascade Games)(Side B)"
+	description "Cassette 50 (1983)(Cascade Games)(Side B)"
+	rom ( name "Cassette 50 (1983)(Cascade Games)(Side B).tap" size 138952 crc 9a437a6c md5 fa6c15a38b03d630245dda785ba50c54 sha1 b6590563d379e619b8ffe8e8cb7d2b11a0f4be62 )
+)
+
+game (
+	name "CD Games Pack - Loader (1989)(Codemasters)"
+	description "CD Games Pack - Loader (1989)(Codemasters)"
+	rom ( name "CD Games Pack - Loader (1989)(Codemasters).tap" size 2932 crc 7b8edd71 md5 fbae8b03180eba45003a198cbdbc7a69 sha1 12dc71d6bd96538113299cfdd80376de798442e7 )
+)
+
+game (
+	name "Classic Arcadia - Classic Invaders + Classic Muncher + Classic Axiens (1990)(System 4)[re-release]"
+	description "Classic Arcadia - Classic Invaders + Classic Muncher + Classic Axiens (1990)(System 4)[re-release]"
+	rom ( name "Classic Arcadia - Classic Invaders + Classic Muncher + Classic Axiens (1990)(System 4)[re-release].tap" size 78470 crc 16841030 md5 bd1c66428c1f3e488f9d4ba258c482b5 sha1 3a4f1ceb6e9815d8c2df1ba027fef37d41a41e5e )
+)
+
+game (
+	name "Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software)"
+	description "Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software)"
+	rom ( name "Compendium - Snakes and Hazards (1987)(Gremlin Graphics Software).tap" size 51210 crc 6ff11e22 md5 c4d507b2354381bd6b5b57fd3b389246 sha1 d47ddaee7b154c21e793980a5fbe66125f19bec0 )
+)
+
+game (
+	name "Compendium - Tiddly Drinks (1987)(Gremlin Graphics Software)"
+	description "Compendium - Tiddly Drinks (1987)(Gremlin Graphics Software)"
+	rom ( name "Compendium - Tiddly Drinks (1987)(Gremlin Graphics Software).tap" size 49508 crc 53f45ddb md5 999c9d21c28d99835c1579b1713a2dbd sha1 0e0e9f52bc126614d2cd7ff6a3c87a0124387928 )
+)
+
+game (
+	name "Ines + Denis + Ute + Sorti (1985)(Primoz Jakopin)"
+	description "Ines + Denis + Ute + Sorti (1985)(Primoz Jakopin)"
+	rom ( name "Ines + Denis + Ute + Sorti (1985)(Primoz Jakopin).tap" size 55688 crc 38692bb6 md5 4a7f5241a7095c1ef012d31053a81bc8 sha1 aa786a4ec8d79e09041c267da5d030f91de4d307 )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Fernando Martin Basket Master + Army Moves (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Fernando Martin Basket Master + Army Moves (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Fernando Martin Basket Master + Army Moves (1988)(Dinamic Software)(es).tap" size 131347 crc 9b53042e md5 da61076dc941fee9ef51c9b0ab253e7a sha1 285a1af94adf51f5f2008d2277677acf2dbb8915 )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Freddy Hardest (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Freddy Hardest (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Freddy Hardest (1988)(Dinamic Software)(es).tap" size 95400 crc d0bfa8db md5 db3c3f25b7501cdf279f37167da859bb sha1 8db06742f1cc9ab7f87f2151f2cc397b1c7b8889 )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Phantis (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Phantis (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Phantis (1988)(Dinamic Software)(es).tap" size 97030 crc c93c77dc md5 047ee85620409c99606b147ab58ff4dc sha1 c33934e9d3f1129979e455df95a613dad80768a9 )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Turbo Girl + Game Over (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Turbo Girl + Game Over (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Turbo Girl + Game Over (1988)(Dinamic Software)(es).tap" size 130787 crc 56b51b22 md5 1f963565b5ca9cfb4e5a253014df7f55 sha1 5e20c3b059ef6168ceee634e2fedddedef9050bc )
+)
+
+game (
+	name "Lords of Chaos + Expansion Kit 1 (1991)(Blade Software)"
+	description "Lords of Chaos + Expansion Kit 1 (1991)(Blade Software)"
+	rom ( name "Lords of Chaos + Expansion Kit 1 (1991)(Blade Software).tap" size 105580 crc 9911bd66 md5 8d947728343f96115c80f52a54ab3873 sha1 feb706f979d715a71801bd71d7db8d2ca65b7fc4 )
+)
+
+game (
+	name "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side A)"
+	description "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side A)"
+	rom ( name "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side A).tap" size 40084 crc b5a37c73 md5 ebd3eb95c9a5425d5ee7ce02f2e8b270 sha1 69b45b8555015df5a7cb26ae901a34ead9ab8d3f )
+)
+
+game (
+	name "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side B)"
+	description "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side B)"
+	rom ( name "OTAN Alerta! + War Zone (1985)(Juegos & Estrategia)(es)(Side B).tap" size 37605 crc 9ffaf75c md5 61cc99f2b292b2cc4730d7bdc5caf437 sha1 7e4a4f934a76bfff56641c93c9f3c40a516fc27a )
+)
+
+game (
+	name "Read-Right-Away - Reading Pack 1 - Fire Fight (1987)(H.S. Software)"
+	description "Read-Right-Away - Reading Pack 1 - Fire Fight (1987)(H.S. Software)"
+	rom ( name "Read-Right-Away - Reading Pack 1 - Fire Fight (1987)(H.S. Software).tap" size 44543 crc 29a64822 md5 e3e22acec4d11b2da4a3beaa23117400 sha1 ee271842653ed503f5f16b105e5301334068ca5f )
+)
+
+game (
+	name "Read-Right-Away - Reading Pack 1 - Splashdown (1987)(H.S. Software)"
+	description "Read-Right-Away - Reading Pack 1 - Splashdown (1987)(H.S. Software)"
+	rom ( name "Read-Right-Away - Reading Pack 1 - Splashdown (1987)(H.S. Software).tap" size 39858 crc d7122cfd md5 723dfc1782b38672964e046ee2de0d1b sha1 c4f4649979ad01e52835a6ac20547d344a87db20 )
+)
+
+game (
+	name "Sinclair Action Pack - Lightgun Games (1989)(Sinclair Research)(+2a)[lightgun]"
+	description "Sinclair Action Pack - Lightgun Games (1989)(Sinclair Research)(+2a)[lightgun]"
+	rom ( name "Sinclair Action Pack - Lightgun Games (1989)(Sinclair Research)(+2a)[lightgun].tap" size 318225 crc 769dd938 md5 aade525753c4572d11e10af9cb344e18 sha1 295f0a67ff7d51881a036896356b7320cd3b8f39 )
+)
+
+game (
+	name "Starburst + Ice Attack (1987)(Alternative Software)"
+	description "Starburst + Ice Attack (1987)(Alternative Software)"
+	rom ( name "Starburst + Ice Attack (1987)(Alternative Software).tap" size 15585 crc b763e44d md5 cf323557f9a24cc773804ff602b2cf86 sha1 3aa4c96dcb0a76dda9cf4019b10e626250d93f45 )
+)
+
+game (
+	name "Test Match + One Day Cricket (1983)(CRL Group)"
+	description "Test Match + One Day Cricket (1983)(CRL Group)"
+	rom ( name "Test Match + One Day Cricket (1983)(CRL Group).tap" size 70682 crc 6ede14a2 md5 ff8b50439e79200b698165d2baff20cd sha1 16dc2b76299805d36ce0109df4d7185f7ede299a )
+)
+
+game (
+	name "Triple Decker 2 - 180 + Kidnap + Time Wreck (1987)(System 4)[re-release]"
+	description "Triple Decker 2 - 180 + Kidnap + Time Wreck (1987)(System 4)[re-release]"
+	rom ( name "Triple Decker 2 - 180 + Kidnap + Time Wreck (1987)(System 4)[re-release].tap" size 97393 crc 27b15c56 md5 ef8b146fd7054bcfa9f44584b6418288 sha1 7f56563abdec1c4da78d7317b12ed304b7e33357 )
+)
+
+game (
+	name "Tus Juegos Single 1 - Tape 1 - Incursion Aerea (19xx)(Monser)(es)[aka Harrier Attack!]"
+	description "Tus Juegos Single 1 - Tape 1 - Incursion Aerea (19xx)(Monser)(es)[aka Harrier Attack!]"
+	rom ( name "Tus Juegos Single 1 - Tape 1 - Incursion Aerea (19xx)(Monser)(es)[aka Harrier Attack!].tap" size 13781 crc 94c80bd1 md5 963129b7bb317f9e141ec3f75e73fe7f sha1 b61ca39db86fae76ed2d92c4a0b594f02435a01a )
+)
+
+game (
+	name "Tus Juegos Single 1 - Tape 4 - Gusiloc (19xx)(Monser)(es)[aka Millipede]"
+	description "Tus Juegos Single 1 - Tape 4 - Gusiloc (19xx)(Monser)(es)[aka Millipede]"
+	rom ( name "Tus Juegos Single 1 - Tape 4 - Gusiloc (19xx)(Monser)(es)[aka Millipede].tap" size 16773 crc 0aeee61f md5 4440fcde5b537775fae02e15b86be250 sha1 b4ad2a831a078769a909d6da3a8ecb36f5e244f5 )
+)
+

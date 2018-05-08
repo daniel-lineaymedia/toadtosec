@@ -1,0 +1,235 @@
+clrmamepro (
+	name "Atari 8bit - Compilations - Applications - [ATR]"
+	description "Atari 8bit - Compilations - Applications - [ATR] (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Compilations - Applications - [ATR]"
+	version 2010-08-15
+	author "TKaos"
+)
+
+game (
+	name "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side A)"
+	description "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side A)"
+	rom ( name "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side A).atr" size 133136 crc 1921c96b md5 05f1a07a543fac2d0477a821e5267bd9 )
+)
+
+game (
+	name "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side B)"
+	description "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side B)"
+	rom ( name "A.N.G. Sample Utilities (1993)(ANG Software)(FW)(Side B).atr" size 133136 crc 9a23b4fc md5 f2256438f0cf7ba7deb9b96e33052da3 )
+)
+
+game (
+	name "Action! & Turbo Basic XL 1.5 & Fig-Forth 1.1 (1989)(CHAOS Software)"
+	description "Action! & Turbo Basic XL 1.5 & Fig-Forth 1.1 (1989)(CHAOS Software)"
+	rom ( name "Action! & Turbo Basic XL 1.5 & Fig-Forth 1.1 (1989)(CHAOS Software).atr" size 92176 crc fbe39dec md5 bf922bfb221d5a5f15cbf0d170cf3f72 )
+)
+
+game (
+	name "aIDS pAKK (1999-09-05)(Aids)(pl)"
+	description "aIDS pAKK (1999-09-05)(Aids)(pl)"
+	rom ( name "aIDS pAKK (1999-09-05)(Aids)(pl).atr" size 183952 crc bcd30c15 md5 f506720865afa3bde9523a563a037c1f )
+)
+
+game (
+	name "Antic Disassemble! (19xx)(Kibler, David) & Greets (19xx)(-)"
+	description "Antic Disassemble! (19xx)(Kibler, David) & Greets (19xx)(-)"
+	rom ( name "Antic Disassemble! (19xx)(Kibler, David) & Greets (19xx)(-).atr" size 92176 crc 64f5aeb2 md5 316d795f79b07435bdaa8e17374dfebc )
+)
+
+game (
+	name "APE - Warp & Copy2000 & My Copier & Remote (19xx)(-)"
+	description "APE - Warp & Copy2000 & My Copier & Remote (19xx)(-)"
+	rom ( name "APE - Warp & Copy2000 & My Copier & Remote (19xx)(-).atr" size 92176 crc 010a7cb8 md5 73e0e6754569d55f6405e234d361b9ba )
+)
+
+game (
+	name "Atari 800 Basic 1.0 & Atari Macro Assembler 1.0a & Editor (1981)(-)"
+	description "Atari 800 Basic 1.0 & Atari Macro Assembler 1.0a & Editor (1981)(-)"
+	rom ( name "Atari 800 Basic 1.0 & Atari Macro Assembler 1.0a & Editor (1981)(-).atr" size 92176 crc 3fe01cb9 md5 8b42d941903683815b309840a1edc1c2 )
+)
+
+game (
+	name "Compression Utilities (19xx)(-)"
+	description "Compression Utilities (19xx)(-)"
+	rom ( name "Compression Utilities (19xx)(-).atr" size 133136 crc 9ec3538f md5 11f4628815beca02f34df185e9bb7d3f )
+)
+
+game (
+	name "Copy Programs (19xx)(-)"
+	description "Copy Programs (19xx)(-)"
+	rom ( name "Copy Programs (19xx)(-).atr" size 92176 crc 67fcd299 md5 3a3e5dc8a105a988a0fb2033a304786f )
+)
+
+game (
+	name "Disk2Xfd v0.90 & DiskFormer v0.90 (1994)(Siders, Kenneth)"
+	description "Disk2Xfd v0.90 & DiskFormer v0.90 (1994)(Siders, Kenneth)"
+	rom ( name "Disk2Xfd v0.90 & DiskFormer v0.90 (1994)(Siders, Kenneth).atr" size 92176 crc da706a98 md5 1adcdd70602501b6891b7ed68afe1044 )
+)
+
+game (
+	name "Diverse Utilities (19xx)(-)(de)"
+	description "Diverse Utilities (19xx)(-)(de)"
+	rom ( name "Diverse Utilities (19xx)(-)(de).atr" size 183952 crc 4e752527 md5 7ed4a6cebdfc880c9e317087fa6e76b2 )
+)
+
+game (
+	name "DOS Disk #01 (19xx)(-)"
+	description "DOS Disk #01 (19xx)(-)"
+	rom ( name "DOS Disk #01 (19xx)(-).atr" size 133136 crc 6bd016c0 md5 c40de19d83670e0d700b8e164ed66b33 )
+)
+
+game (
+	name "DOS Disk #02 (19xx)(-)"
+	description "DOS Disk #02 (19xx)(-)"
+	rom ( name "DOS Disk #02 (19xx)(-).atr" size 133136 crc 7c3d7f53 md5 7f5db70181175d843c41a2687f7dd50e )
+)
+
+game (
+	name "DOS's Pack of 4 (19xx)(-)"
+	description "DOS's Pack of 4 (19xx)(-)"
+	rom ( name "DOS's Pack of 4 (19xx)(-).atr" size 92176 crc 0b36afa2 md5 edb610afe858f925322a2b12a746949f )
+)
+
+game (
+	name "DOS's Pack of 8 (19xx)(Titan-Soft)"
+	description "DOS's Pack of 8 (19xx)(Titan-Soft)"
+	rom ( name "DOS's Pack of 8 (19xx)(Titan-Soft).atr" size 183952 crc 2e130104 md5 2685d53730a5267789df6bac8fc92ec4 )
+)
+
+game (
+	name "GFX Programs (19xx)(-)"
+	description "GFX Programs (19xx)(-)"
+	rom ( name "GFX Programs (19xx)(-).atr" size 183952 crc ce83a9d3 md5 44362ef976f7c5c22dfd32f619e0fc4b )
+)
+
+game (
+	name "Happy Utility Menu v1.0 (1987)(Pirate Software)"
+	description "Happy Utility Menu v1.0 (1987)(Pirate Software)"
+	rom ( name "Happy Utility Menu v1.0 (1987)(Pirate Software).atr" size 92176 crc ba2fc62f md5 c898cbb71e7eb0146b152373e569094c )
+)
+
+game (
+	name "Mega Copier Disk (19xx)(-)(Side A)"
+	description "Mega Copier Disk (19xx)(-)(Side A)"
+	rom ( name "Mega Copier Disk (19xx)(-)(Side A).atr" size 92176 crc 5903ff6a md5 058a9e85e6c8f158cfa4573ea91d77dc )
+)
+
+game (
+	name "Mega Copier Disk (19xx)(-)(Side B)"
+	description "Mega Copier Disk (19xx)(-)(Side B)"
+	rom ( name "Mega Copier Disk (19xx)(-)(Side B).atr" size 92176 crc a903cbb3 md5 f3506ce476ce5b55d9b7f646d2c2cae8 )
+)
+
+game (
+	name "Page 6 Library Disk #DS30 (19xx)(Brewer, H.)[BASIC]"
+	description "Page 6 Library Disk #DS30 (19xx)(Brewer, H.)[BASIC]"
+	rom ( name "Page 6 Library Disk #DS30 (19xx)(Brewer, H.)[BASIC].atr" size 92176 crc 60610223 md5 98ddc99c7a9d938bbbab19fab8c604a5 )
+)
+
+game (
+	name "Page 6 Library Disk #DS31 (19xx)(Brewer, H.)[BASIC]"
+	description "Page 6 Library Disk #DS31 (19xx)(Brewer, H.)[BASIC]"
+	rom ( name "Page 6 Library Disk #DS31 (19xx)(Brewer, H.)[BASIC].atr" size 92176 crc 3f0d6477 md5 c36dfc01878bd2d720943fb73014e420 )
+)
+
+game (
+	name "Professional Copy v1.42 (19xx)(Taquart)(pl)[128k][k-file]"
+	description "Professional Copy v1.42 (19xx)(Taquart)(pl)[128k][k-file]"
+	rom ( name "Professional Copy v1.42 (19xx)(Taquart)(pl)[128k][k-file].atr" size 5136 crc ef127a87 md5 e44724b2a2f7cda97afbbe8cc054ed94 )
+)
+
+game (
+	name "Quick Assembler v1.0 & Turbo-Watson v4.2 (1988)(JBW)(pl)"
+	description "Quick Assembler v1.0 & Turbo-Watson v4.2 (1988)(JBW)(pl)"
+	rom ( name "Quick Assembler v1.0 & Turbo-Watson v4.2 (1988)(JBW)(pl).atr" size 92176 crc e9cfa63b md5 b6eabd2b247b95b6fb4c0161fd1d60db )
+)
+
+game (
+	name "Ram Cart - Utils (19xx)(SHP)(pl)"
+	description "Ram Cart - Utils (19xx)(SHP)(pl)"
+	rom ( name "Ram Cart - Utils (19xx)(SHP)(pl).atr" size 183952 crc ebade6d4 md5 0e73409ece7c550b78ac836484a87eae )
+)
+
+game (
+	name "Sio2Ide & MyDOS 4.50 & BfE (2002)(Z.K.)"
+	description "Sio2Ide & MyDOS 4.50 & BfE (2002)(Z.K.)"
+	rom ( name "Sio2Ide & MyDOS 4.50 & BfE (2002)(Z.K.).atr" size 92176 crc e1c4cc22 md5 06f410104db91cd31c8de148ef6629eb )
+)
+
+game (
+	name "Smartcopy 1.1 & 256k Memory Test (19xx)(-)[256k]"
+	description "Smartcopy 1.1 & 256k Memory Test (19xx)(-)[256k]"
+	rom ( name "Smartcopy 1.1 & 256k Memory Test (19xx)(-)[256k].atr" size 92176 crc 729d8241 md5 caaf697c187ef4b324362ad48f2bbc94 )
+)
+
+game (
+	name "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering)"
+	description "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering)"
+	rom ( name "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering).atr" size 92176 crc f1e475ef md5 7b15ba21a97ffecc43653e1c46da48a8 )
+)
+
+game (
+	name "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering)[a]"
+	description "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering)[a]"
+	rom ( name "SpartaDOS v3.2f - Toolkit (1994-02-25)(Fine Tooned Engineering)[a].atr" size 143376 crc 64abc7ea md5 bf1e76f99088893f040d0daeda76c835 )
+)
+
+game (
+	name "SpartaDOS v3.2f & Mars 8 (1994-02-25)(Fine Tooned Engineering)"
+	description "SpartaDOS v3.2f & Mars 8 (1994-02-25)(Fine Tooned Engineering)"
+	rom ( name "SpartaDOS v3.2f & Mars 8 (1994-02-25)(Fine Tooned Engineering).atr" size 92176 crc 0bc6f4de md5 531a5d0df389dbb3b8290ffbefa36283 )
+)
+
+game (
+	name "SpartaDOS v3.2g - Utilities #1 (19xx)(-)(pl)"
+	description "SpartaDOS v3.2g - Utilities #1 (19xx)(-)(pl)"
+	rom ( name "SpartaDOS v3.2g - Utilities #1 (19xx)(-)(pl).atr" size 92176 crc 04a76424 md5 55c1387592e45b2ba59c06994cabc6c0 )
+)
+
+game (
+	name "SpartaDOS v3.2g - Utilities #2 (19xx)(-)(pl)"
+	description "SpartaDOS v3.2g - Utilities #2 (19xx)(-)(pl)"
+	rom ( name "SpartaDOS v3.2g - Utilities #2 (19xx)(-)(pl).atr" size 92176 crc 873ca15b md5 60fe8ae8b053f65aa32270688f3c0a90 )
+)
+
+game (
+	name "SpartaDOS v3.2g - Utilities #3 (19xx)(-)(pl)"
+	description "SpartaDOS v3.2g - Utilities #3 (19xx)(-)(pl)"
+	rom ( name "SpartaDOS v3.2g - Utilities #3 (19xx)(-)(pl).atr" size 92176 crc 10de02bb md5 979f0522a3a3ef608557325f39f0b778 )
+)
+
+game (
+	name "SpartaDOS v3.2g & Dirt (1994-06-04)(FTe)"
+	description "SpartaDOS v3.2g & Dirt (1994-06-04)(FTe)"
+	rom ( name "SpartaDOS v3.2g & Dirt (1994-06-04)(FTe).atr" size 92176 crc ba37dad7 md5 4b80053500c72db63ccd8ab1728faa6d )
+)
+
+game (
+	name "Tight Tools Packed v1.0 (19xx)(Tight)"
+	description "Tight Tools Packed v1.0 (19xx)(Tight)"
+	rom ( name "Tight Tools Packed v1.0 (19xx)(Tight).atr" size 183952 crc 5ea23eba md5 d4756ac480ead68902973a59e389cbd1 )
+)
+
+game (
+	name "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side A)"
+	description "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side A)"
+	rom ( name "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side A).atr" size 92176 crc 000ab031 md5 ae58c6f21700abf6c6afdf67c3d07ec3 )
+)
+
+game (
+	name "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side B)[docs]"
+	description "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side B)[docs]"
+	rom ( name "Word Magic rev 5 (19xx)(Antic)(Disk 1 of 2 Side B)[docs].atr" size 92176 crc d720d6d8 md5 a7c9cc6d8a80a9430489789f2224bf62 )
+)
+
+game (
+	name "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side A)"
+	description "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side A)"
+	rom ( name "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side A).atr" size 92176 crc 90581d40 md5 cbd9ce55a5da6d3f92dc8d809b83a517 )
+)
+
+game (
+	name "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side B)"
+	description "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side B)"
+	rom ( name "Word Magic rev 5 (19xx)(Antic)(Disk 2 of 2 Side B).atr" size 92176 crc a2944dff md5 fb1f83ea4d227eabae870b4d86820e93 )
+)

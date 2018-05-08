@@ -1,0 +1,1094 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [D64]"
+	description "Commodore C64 - Educational - [D64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Educational - [D64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "ABC - Alphabet Beasts & Co. (1984)(Software Productions)"
+	description "ABC - Alphabet Beasts & Co. (1984)(Software Productions)"
+	rom ( name "ABC - Alphabet Beasts & Co. (1984)(Software Productions).d64" size 174848 crc 0b91caf9 md5 2aa2aedaecf2963730e9b3a64858c333 sha1 aff50ba8e2e5a4018710f7e46371af99228f8bc7 )
+)
+
+game (
+	name "ABC - Alphabet Beasts & Co. (1984)(Software Productions)[a]"
+	description "ABC - Alphabet Beasts & Co. (1984)(Software Productions)[a]"
+	rom ( name "ABC - Alphabet Beasts & Co. (1984)(Software Productions)[a].d64" size 174848 crc 64e985b9 md5 fd32f2940675be09696247a8ea3f0417 sha1 b69d7815b85ea167b7c13adb9ad0e3c0a0df76ee )
+)
+
+game (
+	name "Addition and Subtraction (1984)(Successability)"
+	description "Addition and Subtraction (1984)(Successability)"
+	rom ( name "Addition and Subtraction (1984)(Successability).d64" size 174848 crc d6e6386f md5 b3e77d42887f38594327d59476150f78 sha1 ea908438ad1fbe7f5de8f311dd5f35a1a3956f34 )
+)
+
+game (
+	name "Addition Magician (1984)(The Learning Company)"
+	description "Addition Magician (1984)(The Learning Company)"
+	rom ( name "Addition Magician (1984)(The Learning Company).d64" size 174848 crc d69492d3 md5 86796c401a9e0f8b82b4fec44efaddea sha1 87e4563dffda5973b27872a3726c0cf36696fbc6 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)"
+	description "Aerobics (1984)(Spinnaker)"
+	rom ( name "Aerobics (1984)(Spinnaker).d64" size 174848 crc d67d33d8 md5 ea46e868e4fc2139ecb4d26630b3a2b6 sha1 f70c9fbd8921a517812ade4489a5994e3f9a8dd6 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a2]"
+	description "Aerobics (1984)(Spinnaker)[a2]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a2].d64" size 174848 crc b6db8233 md5 e542f06d6f0cb8ce2f0497069781568a sha1 3f86fb32519c51cdf9822b9b0a3a81b04161ce4f )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a3]"
+	description "Aerobics (1984)(Spinnaker)[a3]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a3].d64" size 174848 crc 670dd3a3 md5 35c262d27a023ddeffcfc5a660d35186 sha1 73fd95d90229ca02c4bed038fbd97d2ccfa206d1 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a4]"
+	description "Aerobics (1984)(Spinnaker)[a4]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a4].d64" size 174848 crc beff0a26 md5 91f6126c06e693877756e6333f3ef1e9 sha1 3fd5ce782d8ff08d4fea66fd62856946f4a2a802 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a5]"
+	description "Aerobics (1984)(Spinnaker)[a5]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a5].d64" size 174848 crc b78b1e46 md5 78372f9107c1b2b09f8ecfedbaa62eb1 sha1 a2114610f75c67c9dc1594c41b2b954413d2e952 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a6]"
+	description "Aerobics (1984)(Spinnaker)[a6]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a6].d64" size 174848 crc c7307106 md5 d6d16f0f4bca08c787d17ac43345966b sha1 fd215c42614b0274401e12bd8ea81a434176ce23 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a7]"
+	description "Aerobics (1984)(Spinnaker)[a7]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a7].d64" size 174848 crc d114254c md5 8def42ff9f0e5eba49cf0b2148270ea4 sha1 7600284d6c4a5aa61813bf7c86fd9aca25d126d7 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a8]"
+	description "Aerobics (1984)(Spinnaker)[a8]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a8].d64" size 174848 crc 04b657a0 md5 78ce8e5e97f36dcb2976f2571af2a021 sha1 7cb80481f48967705bd274b6c7274591f74adef9 )
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)[a]"
+	description "Aerobics (1984)(Spinnaker)[a]"
+	rom ( name "Aerobics (1984)(Spinnaker)[a].d64" size 174848 crc 25d4278e md5 f81212ca0f9766c600a58404c02965e3 sha1 b02346a9e9c56ebfaf191e9cfebfe32ca2b7ec56 )
+)
+
+game (
+	name "Alge-Blaster (1985)(Davidson & Associates)(Side A)"
+	description "Alge-Blaster (1985)(Davidson & Associates)(Side A)"
+	rom ( name "Alge-Blaster (1985)(Davidson & Associates)(Side A).d64" size 174848 crc 48c48213 md5 9b71b08873cadaa27d28af1e76520699 sha1 0dfcd513c62787d2570bc0a406a04ce0f0d48bd4 )
+)
+
+game (
+	name "Alge-Blaster (1985)(Davidson & Associates)(Side B)"
+	description "Alge-Blaster (1985)(Davidson & Associates)(Side B)"
+	rom ( name "Alge-Blaster (1985)(Davidson & Associates)(Side B).d64" size 174848 crc d1b6611f md5 e8a9ca31617fb0d6eb23d44b34c5bdce sha1 7ea9bba10fa10f21a29a34feaf9aa9f2d1dc8144 )
+)
+
+game (
+	name "Alge-Blaster! (1985)(Davidson & Associates)(Side A)"
+	description "Alge-Blaster! (1985)(Davidson & Associates)(Side A)"
+	rom ( name "Alge-Blaster! (1985)(Davidson & Associates)(Side A).d64" size 174848 crc 4e6126e3 md5 90eca4647003d2d2fe71b2d8bfbda2b9 sha1 55f39f16862ccd27e8acf4ffee7edefdfa0ee93b )
+)
+
+game (
+	name "Alge-Blaster! (1985)(Davidson & Associates)(Side B)"
+	description "Alge-Blaster! (1985)(Davidson & Associates)(Side B)"
+	rom ( name "Alge-Blaster! (1985)(Davidson & Associates)(Side B).d64" size 174848 crc cb13bff5 md5 ba7a8f5f89582c6a8dc4661bd7f42bd0 sha1 ea4aeefb81b20c500650a3c219fad32455c5874a )
+)
+
+game (
+	name "Alien Science Quiz (1991)(Loadstar)"
+	description "Alien Science Quiz (1991)(Loadstar)"
+	rom ( name "Alien Science Quiz (1991)(Loadstar).d64" size 174848 crc 3e9a5187 md5 c960b0072d20a8feaeec9b9b90f4f30e sha1 9f670732bd43b4c0c77349c12db80503462c83a9 )
+)
+
+game (
+	name "Alpha Test, The (1990)(Loadstar)"
+	description "Alpha Test, The (1990)(Loadstar)"
+	rom ( name "Alpha Test, The (1990)(Loadstar).d64" size 174848 crc 6c0e1d72 md5 0f25289d538dab6b1727cffa7b034caf sha1 9be1cafc87f8c338f783387fba66bc5d73bd8756 )
+)
+
+game (
+	name "Alphabet Circus (1984)(DLM)"
+	description "Alphabet Circus (1984)(DLM)"
+	rom ( name "Alphabet Circus (1984)(DLM).d64" size 174848 crc 1c6ee50c md5 3a2573c4d0eaa9e46d6357b8d2ed496b sha1 383796af6bf66990c44a36d1b43a05ed82b174b1 )
+)
+
+game (
+	name "Alphabet Trainer (1987)(Commodore Magazine)"
+	description "Alphabet Trainer (1987)(Commodore Magazine)"
+	rom ( name "Alphabet Trainer (1987)(Commodore Magazine).d64" size 174848 crc 334ff2ad md5 7a084b3495050e6e4e012ba338bb9c0e sha1 be6340963dc89f601876a39f9cda0a1043c20ffb )
+)
+
+game (
+	name "Alphabet Trainer (1987)(Commodore Magazine)[a]"
+	description "Alphabet Trainer (1987)(Commodore Magazine)[a]"
+	rom ( name "Alphabet Trainer (1987)(Commodore Magazine)[a].d64" size 174848 crc d8dc9a4b md5 0978765a836e758fc28badd861b2963f sha1 c7bfeb336e1f91e03e382c2ed7b7f52751474515 )
+)
+
+game (
+	name "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft]"
+	description "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft]"
+	rom ( name "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft].d64" size 174848 crc 6b834bf5 md5 947dece5bbaae295ad397410ca24f128 sha1 34050bfb5a8d137f24f30d459be2de06ab434e4d )
+)
+
+game (
+	name "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft][a]"
+	description "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft][a]"
+	rom ( name "Arcademic Skillbuilder - Minus Mission (1983)(Developmental Learning Materials)[cr Pirasoft][a].d64" size 174848 crc 49062aa5 md5 b67be63142f6b6246c3fb2cd2cc0fdf3 sha1 ee28da7288a0922f10a0caa945ca4495013c77dc )
+)
+
+game (
+	name "Atom Shoot (1985)(Compute!)"
+	description "Atom Shoot (1985)(Compute!)"
+	rom ( name "Atom Shoot (1985)(Compute!).d64" size 174848 crc 1787ee08 md5 126318dc3e37b30f0f3e53af88796f56 sha1 364e69eb9397505aa53b664c62feded35493a452 )
+)
+
+game (
+	name "Atom Shoot (1985)(Compute!)[a]"
+	description "Atom Shoot (1985)(Compute!)[a]"
+	rom ( name "Atom Shoot (1985)(Compute!)[a].d64" size 174848 crc 35028f58 md5 ee72666f04d97173816adea11eed7732 sha1 9073a6162402e92eb6c32d87e1de85f14d208717 )
+)
+
+game (
+	name "Balance (1984)(Granada Publishing)"
+	description "Balance (1984)(Granada Publishing)"
+	rom ( name "Balance (1984)(Granada Publishing).d64" size 174848 crc d34d15b7 md5 68b359a87cdac68fb427bfb05032cf54 sha1 369e1e061c37d01ea8d01625d105e7fde807cef0 )
+)
+
+game (
+	name "Balance Chemical Equations (1983)(CES)"
+	description "Balance Chemical Equations (1983)(CES)"
+	rom ( name "Balance Chemical Equations (1983)(CES).d64" size 174848 crc a06ac2c6 md5 71e1163dd25e1d82e5b1255f8b61ef10 sha1 6ea1892f24f05aa0d626d5a495310bafa2877227 )
+)
+
+game (
+	name "Bandiere (198x)(CESE S.R.L.)(it)"
+	description "Bandiere (198x)(CESE S.R.L.)(it)"
+	rom ( name "Bandiere (198x)(CESE S.R.L.)(it).d64" size 174848 crc 5d109062 md5 76d1b12e5f02426f7e7ca6e182f15c68 sha1 951b4157b9cbf07c2486a16e8160ff9746ac4480 )
+)
+
+game (
+	name "Bar Chart (1984)(Granada Publishing)"
+	description "Bar Chart (1984)(Granada Publishing)"
+	rom ( name "Bar Chart (1984)(Granada Publishing).d64" size 174848 crc 335c309c md5 35d9a9dcf996699c01828542875639cd sha1 3600383f09a0b49f4488ce31dcf927bb0ab603bc )
+)
+
+game (
+	name "Basic Math (198x)(Dhaliwal, G.)"
+	description "Basic Math (198x)(Dhaliwal, G.)"
+	rom ( name "Basic Math (198x)(Dhaliwal, G.).d64" size 174848 crc fbe3cc6d md5 c1578275bd7f6851e0c963d108fb5282 sha1 8eceef2d2e58791fe27fe1d7f7511b16917173b3 )
+)
+
+game (
+	name "BBC Ask the Family (1984)(Ivan Berg Software)"
+	description "BBC Ask the Family (1984)(Ivan Berg Software)"
+	rom ( name "BBC Ask the Family (1984)(Ivan Berg Software).d64" size 174848 crc e1688da1 md5 63969bf8219f17ba80b9e9bc82e820fc sha1 64159eba1f604dee7aa39c5f8f8c42348d34d692 )
+)
+
+game (
+	name "BBC Mastermind (1983)(Ivan Berg Software)"
+	description "BBC Mastermind (1983)(Ivan Berg Software)"
+	rom ( name "BBC Mastermind (1983)(Ivan Berg Software).d64" size 174848 crc 7d966ab7 md5 fa09b7dc8994bb304bfd3bca5a5db1ff sha1 cc74b83f49df7681b7d01a4c70987745f0704a8c )
+)
+
+game (
+	name "Beckermat (1985)(Data Becker)[cr Fucking Files]"
+	description "Beckermat (1985)(Data Becker)[cr Fucking Files]"
+	rom ( name "Beckermat (1985)(Data Becker)[cr Fucking Files].d64" size 174848 crc 8b0ee75b md5 8ee1414dfb22c2f9f80f2975be6e08fc sha1 c1460b50b9e046a2cc5befae969be596b72e4596 )
+)
+
+game (
+	name "Beckermat (1985)(Data Becker)[cr Fucking Files][a]"
+	description "Beckermat (1985)(Data Becker)[cr Fucking Files][a]"
+	rom ( name "Beckermat (1985)(Data Becker)[cr Fucking Files][a].d64" size 174848 crc 3a4d5eb3 md5 adfad4e3f65651cc60010b5342cb2592 sha1 925a055d295a47f1be4ac31b2f93a9e0961d42ae )
+)
+
+game (
+	name "Big Alphabet (1988)(UpTime Magazine)"
+	description "Big Alphabet (1988)(UpTime Magazine)"
+	rom ( name "Big Alphabet (1988)(UpTime Magazine).d64" size 174848 crc a6765572 md5 27e1c7935b3db07bfa9f55e36ea43d69 sha1 3e0518afd480d7b4bfde66ab145b5269d569fffc )
+)
+
+game (
+	name "Big Bird's Special Delivery (1987)(Hi Tech Expressions)"
+	description "Big Bird's Special Delivery (1987)(Hi Tech Expressions)"
+	rom ( name "Big Bird's Special Delivery (1987)(Hi Tech Expressions).d64" size 174848 crc 85460d0d md5 fc693a09213654ea69bb6494fda6f9c4 sha1 2952c38fff8671c6b78451444f132bb7ecf29e8c )
+)
+
+game (
+	name "Big Bird's Special Delivery (1987)(Hi Tech Expressions)[a]"
+	description "Big Bird's Special Delivery (1987)(Hi Tech Expressions)[a]"
+	rom ( name "Big Bird's Special Delivery (1987)(Hi Tech Expressions)[a].d64" size 174848 crc c3d6de2a md5 50503619fe664ca10d188e45a6869c98 sha1 a9ae01ed3055c9f2b627864313ac879e16a7d440 )
+)
+
+game (
+	name "Big Math (1983)(CES)"
+	description "Big Math (1983)(CES)"
+	rom ( name "Big Math (1983)(CES).d64" size 174848 crc e0ee3cff md5 dae950ee09b35cad6aa17c6fb60c7c70 sha1 9af9a468e0814b259a752d53ded7556770bd0b34 )
+)
+
+game (
+	name "Big Ohm's Law (1983)(CES)"
+	description "Big Ohm's Law (1983)(CES)"
+	rom ( name "Big Ohm's Law (1983)(CES).d64" size 174848 crc cb4a58c1 md5 bfbb91d987ab2a54777d800949c75c2b sha1 ce275194dac87cbdb9ff9477b502bb0a824fb3fd )
+)
+
+game (
+	name "Biology Test - 'O' Level (1983)(Calisto Ltd.)"
+	description "Biology Test - 'O' Level (1983)(Calisto Ltd.)"
+	rom ( name "Biology Test - 'O' Level (1983)(Calisto Ltd.).d64" size 174848 crc 8751a9ea md5 6bd7dfd3f3c52efdc1a98b251734a824 sha1 dd45023264da4b7bbbb4ca8a8bc33fb747f4d3b7 )
+)
+
+game (
+	name "Braille (1983)(CES)"
+	description "Braille (1983)(CES)"
+	rom ( name "Braille (1983)(CES).d64" size 174848 crc 9b7ec2ff md5 f2f38cb343109d6bc66a95ac8a447c05 sha1 77ba5e7b4a1405a338768a5211212ca0d530f5cb )
+)
+
+game (
+	name "Bravo! (1984)(HesWare)"
+	description "Bravo! (1984)(HesWare)"
+	rom ( name "Bravo! (1984)(HesWare).d64" size 175531 crc cffc2d6f md5 1718ca33558d560cb70a96e52bfa9efa sha1 9619aa33292033b2885f25e1224e9c58a587a556 )
+)
+
+game (
+	name "Bravo! (1984)(HesWare)[a]"
+	description "Bravo! (1984)(HesWare)[a]"
+	rom ( name "Bravo! (1984)(HesWare)[a].d64" size 175531 crc a9fcf638 md5 2e51cc002c60cecb62a8b91d022fe5d9 sha1 436dcec2318cdb495e8b1cbae180f4057c182d23 )
+)
+
+game (
+	name "Brownian Motion (1983)(CES)"
+	description "Brownian Motion (1983)(CES)"
+	rom ( name "Brownian Motion (1983)(CES).d64" size 174848 crc d9c8c3e6 md5 a5cd2f5df6ae9c2d51e5547b46002d5a sha1 4033baff9e317f257318a6b60c513887ddee7529 )
+)
+
+game (
+	name "Brush Up Your English I (1984)(Data Becker)(de)"
+	description "Brush Up Your English I (1984)(Data Becker)(de)"
+	rom ( name "Brush Up Your English I (1984)(Data Becker)(de).d64" size 174848 crc 9be3c13d md5 f3ac8227ec01998b418c7ae5d6f0434d sha1 3e0213043b8555431011df92f3116c7e8529a700 )
+)
+
+game (
+	name "Brush Up Your English III (1984)(Data Becker)(de)"
+	description "Brush Up Your English III (1984)(Data Becker)(de)"
+	rom ( name "Brush Up Your English III (1984)(Data Becker)(de).d64" size 174848 crc e61b160b md5 29fc1c67018b760b55dff2a76e1f12e4 sha1 0faa476ec0b2ca8eb3d3b57a7471ec540a57e505 )
+)
+
+game (
+	name "Brush Up Your English III (1984)(Data Becker)(de)[a2]"
+	description "Brush Up Your English III (1984)(Data Becker)(de)[a2]"
+	rom ( name "Brush Up Your English III (1984)(Data Becker)(de)[a2].d64" size 174848 crc 8f9a8ae5 md5 ba6f50f7cb744c8e55c478b4bc54d810 sha1 147ae4a870ea8fb3bdd7fb0f10c97d5e7daec518 )
+)
+
+game (
+	name "Brush Up Your English III (1984)(Data Becker)(de)[a3]"
+	description "Brush Up Your English III (1984)(Data Becker)(de)[a3]"
+	rom ( name "Brush Up Your English III (1984)(Data Becker)(de)[a3].d64" size 174848 crc dad565b0 md5 21ef9108527b967ff411252529bfb3d0 sha1 99d046faec457c315079ce97f8b69f7c1fc1c90f )
+)
+
+game (
+	name "Brush Up Your English III (1984)(Data Becker)(de)[a]"
+	description "Brush Up Your English III (1984)(Data Becker)(de)[a]"
+	rom ( name "Brush Up Your English III (1984)(Data Becker)(de)[a].d64" size 174848 crc 778693a2 md5 9ad71f9fea3d7410400e953880d67d24 sha1 43352e22be47c622b801a42be90cd939d717fb0f )
+)
+
+game (
+	name "Buchstabierbienchen (1984)(Markt & Technik)(de)"
+	description "Buchstabierbienchen (1984)(Markt & Technik)(de)"
+	rom ( name "Buchstabierbienchen (1984)(Markt & Technik)(de).d64" size 174848 crc ae6cb748 md5 c5a156bf25b34fba9aca74d3eadb8f45 sha1 80c449b368b4f342ac7fc8cc015f52eec046379a )
+)
+
+game (
+	name "Buoyancy (1983)(CES)"
+	description "Buoyancy (1983)(CES)"
+	rom ( name "Buoyancy (1983)(CES).d64" size 174848 crc 163eb5d5 md5 f891e2a1fbe9118d111c7034d13ee96e sha1 f5469938468cb4454b5c84de6ba7c3e0df1b0a4f )
+)
+
+game (
+	name "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan]"
+	description "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan]"
+	rom ( name "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan].d64" size 174848 crc bdddd55d md5 2b77b20670433813d33d66098724076e sha1 86f7e2c95d78bc93a820e8d88abe0eb7f80c4921 )
+)
+
+game (
+	name "Capitals (1983)(Phoenix Publishing Associates)"
+	description "Capitals (1983)(Phoenix Publishing Associates)"
+	rom ( name "Capitals (1983)(Phoenix Publishing Associates).d64" size 174848 crc 0bdcc192 md5 1c0a027f24b3c407407d51ac26e84bfc sha1 031720a177a62c059c1d24b6ece0675b450fc3e8 )
+)
+
+game (
+	name "Card Sharks (1988)(Sharedata)(Disk 2 of 2)"
+	description "Card Sharks (1988)(Sharedata)(Disk 2 of 2)"
+	rom ( name "Card Sharks (1988)(Sharedata)(Disk 2 of 2).d64" size 174848 crc 131edc13 md5 d5e5e77a15c4a1c14e2567ddafd3b70e sha1 bb67712086da6048f8b09b14f403e100d3c618bb )
+)
+
+game (
+	name "Cartoon Programmer (1985)(Spinnaker)"
+	description "Cartoon Programmer (1985)(Spinnaker)"
+	rom ( name "Cartoon Programmer (1985)(Spinnaker).d64" size 175531 crc 0417c330 md5 79aac60be23783f1121c6957c591d4a8 sha1 cfaf526ffa58ddf7f3858b07eaa8f49277a3611e )
+)
+
+game (
+	name "Cascade (1983)(CES)"
+	description "Cascade (1983)(CES)"
+	rom ( name "Cascade (1983)(CES).d64" size 174848 crc 9e48f630 md5 0546ab67ea6807fe278bf74f63717354 sha1 ac30721f397b4b8ff869943f168b8522149525a1 )
+)
+
+game (
+	name "Charged Particles (1983)(CES)"
+	description "Charged Particles (1983)(CES)"
+	rom ( name "Charged Particles (1983)(CES).d64" size 174848 crc 1d0ffe6b md5 148c011f67a0d54b0c4acb896b936151 sha1 1658cbe8664061fcc90356f0d2ded4991ba7b2ea )
+)
+
+game (
+	name "Charlie Brown's ABC's (1984)(Random House)(Disk 1 of 2)"
+	description "Charlie Brown's ABC's (1984)(Random House)(Disk 1 of 2)"
+	rom ( name "Charlie Brown's ABC's (1984)(Random House)(Disk 1 of 2).d64" size 174848 crc f62aa04b md5 a662b17cf735a39b40e3809f9863e4d0 sha1 a2780af7c5b68260a2fdaa56e87985e1f935c536 )
+)
+
+game (
+	name "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2)"
+	description "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2)"
+	rom ( name "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2).d64" size 174848 crc 60d02124 md5 aaa4709ec81456e6da9349b9074efdca sha1 2bd01c3810868821bfed4e96f123c43ea42d8ab6 )
+)
+
+game (
+	name "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2)[a]"
+	description "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2)[a]"
+	rom ( name "Charlie Brown's ABC's (1984)(Random House)(Disk 2 of 2)[a].d64" size 174848 crc 1f0c8abe md5 50732ab03b5540b959dbf4f7b7f93efa sha1 e53bd86142d89a012ecfdcb59dd946ad094dd4dd )
+)
+
+game (
+	name "Chem-12 (1983)(CES)"
+	description "Chem-12 (1983)(CES)"
+	rom ( name "Chem-12 (1983)(CES).d64" size 174848 crc fa8d79eb md5 a31d5b0055c025f9205c7093460c9cf7 sha1 a25703162c36af118be54fedbbf9d5671fad6db7 )
+)
+
+game (
+	name "Chemist (1983)(CES)"
+	description "Chemist (1983)(CES)"
+	rom ( name "Chemist (1983)(CES).d64" size 174848 crc d0ee3858 md5 4bd9198fb5ea8618bac5df4b7e41d383 sha1 a2934a48b1af296e0c72768a9a0e1acaeacbfa67 )
+)
+
+game (
+	name "Chemist (1984)(Granada Publishing)"
+	description "Chemist (1984)(Granada Publishing)"
+	rom ( name "Chemist (1984)(Granada Publishing).d64" size 174848 crc e07f881b md5 ddc3f20ad1d1b7db24043ed7baee6782 sha1 d25af86a29b5446a4701299cb41dd20b5d9d5d79 )
+)
+
+game (
+	name "Chemistry (1983)(CES)"
+	description "Chemistry (1983)(CES)"
+	rom ( name "Chemistry (1983)(CES).d64" size 174848 crc cbafc1ec md5 9355314a9497af83fdf454c6bf983bb4 sha1 33367e4be7f01747d326f4735a2a546f179675c9 )
+)
+
+game (
+	name "Chemistry Calc (1983)(CES)"
+	description "Chemistry Calc (1983)(CES)"
+	rom ( name "Chemistry Calc (1983)(CES).d64" size 174848 crc cbe1bccc md5 213646e142e5d98ac746f696e572d100 sha1 702e69a792ff8107cfbf79d2f5891051ec53a27c )
+)
+
+game (
+	name "Chemistry Test - 'O' Level (1983)(Calisto)"
+	description "Chemistry Test - 'O' Level (1983)(Calisto)"
+	rom ( name "Chemistry Test - 'O' Level (1983)(Calisto).d64" size 174848 crc 0191248b md5 ced081d91eaa5653e3f6d872f276e19f sha1 7b3841d310610fbbd442b385e2a04fe22c237eee )
+)
+
+game (
+	name "Child Abuse (1983)(CES)"
+	description "Child Abuse (1983)(CES)"
+	rom ( name "Child Abuse (1983)(CES).d64" size 174848 crc 27c33801 md5 eda7d67e09f6b90bcd22a4685dab2c05 sha1 7ea9dbbbe50142a271f92021df3ae9f3bc0b5f85 )
+)
+
+game (
+	name "Circuits (1983)(CES)"
+	description "Circuits (1983)(CES)"
+	rom ( name "Circuits (1983)(CES).d64" size 174848 crc b117b5a8 md5 eb9c6accdab7b1f719387c3340b46cfc sha1 e9948d41ae8221473e8d92193e475df2dbdf9517 )
+)
+
+game (
+	name "CompuQuiz - General Interest (1984)(CBM)"
+	description "CompuQuiz - General Interest (1984)(CBM)"
+	rom ( name "CompuQuiz - General Interest (1984)(CBM).d64" size 175531 crc 5e69b2ec md5 b4d4eb80550c2f1a2d36c369642b8e36 sha1 f1f79875fec2dcd53713d0f6cb06a5fbdb646501 )
+)
+
+game (
+	name "CompuQuiz - General Interest (1984)(CBM)[a]"
+	description "CompuQuiz - General Interest (1984)(CBM)[a]"
+	rom ( name "CompuQuiz - General Interest (1984)(CBM)[a].d64" size 175531 crc bf279401 md5 421ac4989200427067970795c0636de0 sha1 37bc942172f59f295ce27b097b1a135eb1f87b0f )
+)
+
+game (
+	name "CompuQuiz - Science (1984)(CBM)"
+	description "CompuQuiz - Science (1984)(CBM)"
+	rom ( name "CompuQuiz - Science (1984)(CBM).d64" size 174848 crc c3270a18 md5 24d3eb64d8e26e8a3722c1ff92392236 sha1 632694a23f326bb763601f8d1a5c77d3427da1ca )
+)
+
+game (
+	name "Computer Haiku (19xx)(-)"
+	description "Computer Haiku (19xx)(-)"
+	rom ( name "Computer Haiku (19xx)(-).d64" size 174848 crc acee4b38 md5 4b01a1bac392b24e1795fd442d930d8f sha1 a2ba1b1e0caed3984ed9b62b33e7224ca163cedc )
+)
+
+game (
+	name "Computer History (1982)(CES)"
+	description "Computer History (1982)(CES)"
+	rom ( name "Computer History (1982)(CES).d64" size 174848 crc 0c9e07a7 md5 a4f1da7c28a083a8a03facf9553393b2 sha1 484604058645672f5a44a65e5bcc7a477db4c654 )
+)
+
+game (
+	name "Computer History (1982)(CES)[a]"
+	description "Computer History (1982)(CES)[a]"
+	rom ( name "Computer History (1982)(CES)[a].d64" size 174848 crc 23a9daa0 md5 b8a8eb12c79d88fd80b33fa6b29c291f sha1 f8d97bbce21c98cb740c77837d494e9b829fceb3 )
+)
+
+game (
+	name "Computer Squares (1987)(Softdisk)"
+	description "Computer Squares (1987)(Softdisk)"
+	rom ( name "Computer Squares (1987)(Softdisk).d64" size 174848 crc ed2e0388 md5 8eeac7b0c5d9bf5e51812e77420d8ebb sha1 c7fca6065276b4b8297da63851bc41d3bb4c81fb )
+)
+
+game (
+	name "Constellations (1984)(Granada Publishing)"
+	description "Constellations (1984)(Granada Publishing)"
+	rom ( name "Constellations (1984)(Granada Publishing).d64" size 174848 crc 3854e0d8 md5 ae01a1c10f5461c423144a644a00665e sha1 b5a2b6e11bda7b984d923975eae0428fa7d7f61b )
+)
+
+game (
+	name "Corso di Inglese (1986)(Editronica)(it)"
+	description "Corso di Inglese (1986)(Editronica)(it)"
+	rom ( name "Corso di Inglese (1986)(Editronica)(it).d64" size 174848 crc 7ff2594e md5 a45aeb2edc20de2c74b5794bdcb977d3 sha1 83f2554063b343f98e1dcebd495a2ccda2b659c9 )
+)
+
+game (
+	name "Countabout (1983)(Pan Books)"
+	description "Countabout (1983)(Pan Books)"
+	rom ( name "Countabout (1983)(Pan Books).d64" size 174848 crc 4e3a775f md5 41590c610ca8331ae793d99229809cc4 sha1 d9281601bcdf368ee52748cf5ee5e65734931ac5 )
+)
+
+game (
+	name "Counties (1984)(Granada Publishing)"
+	description "Counties (1984)(Granada Publishing)"
+	rom ( name "Counties (1984)(Granada Publishing).d64" size 174848 crc 389bdefa md5 6e91a36af9664493e179fe47edc1225e sha1 2646381aa5eaa29043b5a9c0b03aec1e0a5097d1 )
+)
+
+game (
+	name "Counting (1983)(CES)"
+	description "Counting (1983)(CES)"
+	rom ( name "Counting (1983)(CES).d64" size 174848 crc b6eca20c md5 e4a718c75dba633add6bad620ee16015 sha1 08d8b4566bd48d097d320d3ce1eb3fa6d071cccb )
+)
+
+game (
+	name "Crane Driver (1984)(ALS)"
+	description "Crane Driver (1984)(ALS)"
+	rom ( name "Crane Driver (1984)(ALS).d64" size 174848 crc d26d1c53 md5 da8463126def46b530a47d3457a03e58 sha1 5054ea7267b0e296e254b0c7e34a1f8e107750bd )
+)
+
+game (
+	name "Create with Garfield! (1986)(DLM)"
+	description "Create with Garfield! (1986)(DLM)"
+	rom ( name "Create with Garfield! (1986)(DLM).d64" size 174848 crc 73bde258 md5 4388bc6df4ccc7c609e14c3853faaf4a sha1 2736bcc36d3cd98cd4efd6b7f42ed233319886a7 )
+)
+
+game (
+	name "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 1 of 2)[cr KGB Crew]"
+	description "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 1 of 2)[cr KGB Crew]"
+	rom ( name "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 1 of 2)[cr KGB Crew].d64" size 174848 crc 6e7c3e76 md5 4e2bac136452832ba1208056d6a81b27 sha1 39fe24e99fb0e6510578f586a2cf98e652b85f3d )
+)
+
+game (
+	name "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 2 of 2)[cr KGB Crew]"
+	description "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 2 of 2)[cr KGB Crew]"
+	rom ( name "Create with Garfield! - Deluxe Edition (1987)(DLM)(Disk 2 of 2)[cr KGB Crew].d64" size 174848 crc 2d75e90e md5 5e2e32f6c64b40a82f15a85c5c30b2b1 sha1 4593932f57c1087f934cafed279ab62fedbe4838 )
+)
+
+game (
+	name "Cylinders (1983)(CES)"
+	description "Cylinders (1983)(CES)"
+	rom ( name "Cylinders (1983)(CES).d64" size 174848 crc 437eb422 md5 2cc36f57aeddad35b234a60be6aec9f2 sha1 4d99c5cba6d767fffc772deb0ff019aa6692828f )
+)
+
+game (
+	name "Dinosaur Dig (1984)(CBS)(Side A)[cr SPG]"
+	description "Dinosaur Dig (1984)(CBS)(Side A)[cr SPG]"
+	rom ( name "Dinosaur Dig (1984)(CBS)(Side A)[cr SPG].d64" size 174848 crc 4ab7007d md5 6364c6ca903fa936abb803e8aafa3b1e sha1 0c3428af59a56e5702c782569e780ff91e1c4d46 )
+)
+
+game (
+	name "Dinosaur Dig (1984)(CBS)(Side B)[cr SPG]"
+	description "Dinosaur Dig (1984)(CBS)(Side B)[cr SPG]"
+	rom ( name "Dinosaur Dig (1984)(CBS)(Side B)[cr SPG].d64" size 174848 crc aebdba18 md5 18e8f95bbed2d51f41f8f4e71375a5e1 sha1 b54c394e2e47df020ee6f21156fa1680e983709c )
+)
+
+game (
+	name "Divex (1984)(Avalon Hill Microcomputer)"
+	description "Divex (1984)(Avalon Hill Microcomputer)"
+	rom ( name "Divex (1984)(Avalon Hill Microcomputer).d64" size 174848 crc 36344bf7 md5 29eb744f8a5f652c35dec818cbe0303b sha1 c324bb4771c944b5cd49fcf8f7514c45bc2f9962 )
+)
+
+game (
+	name "Dolmetscher (1984)(Markt & Technik)(de)"
+	description "Dolmetscher (1984)(Markt & Technik)(de)"
+	rom ( name "Dolmetscher (1984)(Markt & Technik)(de).d64" size 174848 crc aacf8323 md5 a43e13fbbc02c1d367edbc26b31a9281 sha1 c8faf1371f4bff0a5af3b2e6a01f2477a5edfc00 )
+)
+
+game (
+	name "Duck Shoot (1984)(Granada Publishing)"
+	description "Duck Shoot (1984)(Granada Publishing)"
+	rom ( name "Duck Shoot (1984)(Granada Publishing).d64" size 174848 crc 48b08f59 md5 9108d2281b1f11fe32014fef56a82715 sha1 cf7ac9e05ee7f7751ee4d1c1cdffbb54bc9a149f )
+)
+
+game (
+	name "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side A)[cr Kotzbrocken]"
+	description "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side A)[cr Kotzbrocken]"
+	rom ( name "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side A)[cr Kotzbrocken].d64" size 174848 crc 19c72f56 md5 b6f17a2a5c414ddfa97d61fdaf74662f sha1 1a3a45af3e4752fca46fa7a14e4860a9a57c7b37 )
+)
+
+game (
+	name "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side B)[cr Kotzbrocken]"
+	description "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side B)[cr Kotzbrocken]"
+	rom ( name "Einstein Memory Trainer, The (1984)(Dave L. Rosen & D. Rubin)(Side B)[cr Kotzbrocken].d64" size 174848 crc 715ee7c5 md5 958d4352038cacf8cc6d0e4154a3ce8c sha1 7450fa23c435d8c25abe010ab876c5d7a52759c4 )
+)
+
+game (
+	name "Fast Math (1982)(Commodore)"
+	description "Fast Math (1982)(Commodore)"
+	rom ( name "Fast Math (1982)(Commodore).d64" size 174848 crc aad056f0 md5 3abbf1b5411ae8ce58f39fc432612d35 sha1 a56ca5d11d7073d8fa23b3ac364b74c9f895ada7 )
+)
+
+game (
+	name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB]"
+	description "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB]"
+	rom ( name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB].d64" size 174848 crc 0f85af04 md5 1077ebcfac3af67811c7e046bd4e8eee sha1 23b25f80022e9a2913581b88f2a8c7de34fe51e3 )
+)
+
+game (
+	name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a2]"
+	description "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a2]"
+	rom ( name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a2].d64" size 174848 crc 9299cd75 md5 9235e3a0b4f07cc2ab5359fa45ae03f7 sha1 060b39d08ae1d8248bb863264c697ad0dd5deddf )
+)
+
+game (
+	name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a3]"
+	description "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a3]"
+	rom ( name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a3].d64" size 174848 crc 99d03545 md5 0067d377d190846ded6eb6e5772d6abc sha1 5d51194219999bae391e3cb2c8a712be4545dc40 )
+)
+
+game (
+	name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a]"
+	description "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a]"
+	rom ( name "First Men in the Moon Math, The (1987)(Fisher Price)(Side A)[cr TCB][a].d64" size 175531 crc ba617d4c md5 5b11af1edfb3088da65d72c9250aef6d sha1 eb6f70f9e0cb8052418282dfa874d9bbac1992fd )
+)
+
+game (
+	name "First Men in the Moon Math, The (1987)(Fisher Price)(Side B)[cr TCB]"
+	description "First Men in the Moon Math, The (1987)(Fisher Price)(Side B)[cr TCB]"
+	rom ( name "First Men in the Moon Math, The (1987)(Fisher Price)(Side B)[cr TCB].d64" size 175531 crc c1a12b16 md5 57492893d06954038c8a345822a8dbd4 sha1 dee957eac3187668c7c56cee462f13b011529ad1 )
+)
+
+game (
+	name "Fuehrerschein (1987)(Falken Verlag)(de)(Side A)"
+	description "Fuehrerschein (1987)(Falken Verlag)(de)(Side A)"
+	rom ( name "Fuehrerschein (1987)(Falken Verlag)(de)(Side A).d64" size 174848 crc 24010054 md5 1f952b548c5b31d26e9a9fd018b9d01e sha1 02d7d35a41b2298b7709fa7ecd73779f9d77ad35 )
+)
+
+game (
+	name "Fuehrerschein (1987)(Falken Verlag)(de)(Side B)"
+	description "Fuehrerschein (1987)(Falken Verlag)(de)(Side B)"
+	rom ( name "Fuehrerschein (1987)(Falken Verlag)(de)(Side B).d64" size 174848 crc b861e02d md5 6cd25641f9b3b16119c799bdc984e24c sha1 8061f925f5ebffb9e98fca01174ac18b9261df34 )
+)
+
+game (
+	name "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD)"
+	description "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD)"
+	rom ( name "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD).d64" size 174848 crc cd822ea0 md5 0e44fc5e8f181b10ba00a6c078bfa70b sha1 ee28eeb31cf9c5dd601934e99d18c088698669e7 )
+)
+
+game (
+	name "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD)[a]"
+	description "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD)[a]"
+	rom ( name "Fuenf mal Fuenf (1997)(Tiger-Crew-Disk)(de)(PD)[a].d64" size 174848 crc a8268ce9 md5 62423fa13b8a179720e69639242976ea sha1 3f93d1147f4fe8640323039f80e91e6b6618c25f )
+)
+
+game (
+	name "Fun School 2 (198x)(DES)"
+	description "Fun School 2 (198x)(DES)"
+	rom ( name "Fun School 2 (198x)(DES).d64" size 174848 crc 6df9cd4b md5 90765294eb0a349b97586212e3935c22 sha1 76c9f198d58dbf9fc6a7b98d91744d458ee0faea )
+)
+
+game (
+	name "Fun School 2 - 6 to 8 Years (198x)(DES)[cr ASS]"
+	description "Fun School 2 - 6 to 8 Years (198x)(DES)[cr ASS]"
+	rom ( name "Fun School 2 - 6 to 8 Years (198x)(DES)[cr ASS].d64" size 174848 crc 92b66a62 md5 50b0de9e519de8b97ecf1e8a5728c9cb sha1 4bb1854279e05ce0731ab1112bd9b671c54bfbb6 )
+)
+
+game (
+	name "Fun School 2 - 8+ Years (198x)(DES)[cr ASS]"
+	description "Fun School 2 - 8+ Years (198x)(DES)[cr ASS]"
+	rom ( name "Fun School 2 - 8+ Years (198x)(DES)[cr ASS].d64" size 174848 crc 51017971 md5 997ccec889329619da1444bd08d3b4bb sha1 7e32490062c0597a3a68471ec4c005805212e01d )
+)
+
+game (
+	name "Fun School 2 - under 6 Years (198x)(DES)[cr ASS]"
+	description "Fun School 2 - under 6 Years (198x)(DES)[cr ASS]"
+	rom ( name "Fun School 2 - under 6 Years (198x)(DES)[cr ASS].d64" size 174848 crc b920eb44 md5 9db7ed6efa69da536566c78dd5c16cd9 sha1 6d8873c938e1e73350242292502ebda3e9bbd9b5 )
+)
+
+game (
+	name "Fun School 3 - 5 to 7s (198x)(DES)"
+	description "Fun School 3 - 5 to 7s (198x)(DES)"
+	rom ( name "Fun School 3 - 5 to 7s (198x)(DES).d64" size 174848 crc 8cb3e806 md5 0c741bfbcf19123bd8c9fadc68919f25 sha1 2c3ab2c4e973ef9b2276987a49c59d1a559f080e )
+)
+
+game (
+	name "Fun School 3 - 5 to 7s (198x)(DES)[a]"
+	description "Fun School 3 - 5 to 7s (198x)(DES)[a]"
+	rom ( name "Fun School 3 - 5 to 7s (198x)(DES)[a].d64" size 174848 crc 5732ea23 md5 d0ed185c327bd1238f1bdb078f063b50 sha1 8cc0d4b51e1b7413f3e275db9ff4bf276eb095f2 )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK].d64" size 174848 crc 35ecede4 md5 c86b240a43513b58743b87a607f92c49 sha1 cdf0abb8bb0ea54fd92ce2a7ef77503548d36b6f )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK][a]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK][a]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side A)[cr BTK][a].d64" size 174848 crc c2862778 md5 7a21b055d51d6897426190dd35b1b3ad sha1 0cbc372ee1cb590c3e6581bfb0a6ac2a901ceb14 )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK].d64" size 174848 crc b4866e8c md5 d932936a8b15ba3b4640f156a399713d sha1 cda87458a122c295a4c682d9c52575cdc3d42bfa )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a2]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a2]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a2].d64" size 174848 crc 08b667f8 md5 e61459adaed61d3e3bf6ffa32dfb2d0e sha1 774b1f787e4fb05b04419f3f53ceef926fb892cc )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a3]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a3]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a3].d64" size 174848 crc ed487be9 md5 1449377af537ee07cc53fab2f435d69b sha1 7394b1af3c6a1f0f13818caa6a89fc51407a39dc )
+)
+
+game (
+	name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a]"
+	description "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a]"
+	rom ( name "Fun School 3 - Over 7s (198x)(DES)(Side B)[cr BTK][a].d64" size 174848 crc 9269c108 md5 ca97e1688a5767180bc7835b5b079ff9 sha1 5f4f96388b363280c64196193dec34e7183c48e2 )
+)
+
+game (
+	name "Fun School 3 - Under 5s (198x)(DES)"
+	description "Fun School 3 - Under 5s (198x)(DES)"
+	rom ( name "Fun School 3 - Under 5s (198x)(DES).d64" size 174848 crc 0cd3783a md5 0a5b22005e6f8f2537279973e058470b sha1 bf2974ed6faf97cafd1a6e2e34c1718949879092 )
+)
+
+game (
+	name "Fun School 3 - Under 5s (198x)(DES)[a]"
+	description "Fun School 3 - Under 5s (198x)(DES)[a]"
+	rom ( name "Fun School 3 - Under 5s (198x)(DES)[a].d64" size 174848 crc 906b705b md5 637fad2a7ec70f14e482d03417b4a260 sha1 35b9f2bba513d79a6bb48a6121ff31b260f0c587 )
+)
+
+game (
+	name "Fun School 4 - Over 7s (198x)(Europress)(Side A)"
+	description "Fun School 4 - Over 7s (198x)(Europress)(Side A)"
+	rom ( name "Fun School 4 - Over 7s (198x)(Europress)(Side A).d64" size 174848 crc 0dfcbaf4 md5 a31df104db59100f419d37ba3e65d973 sha1 f1ed713e1db8abc356b9a802ff67d9e66fada29f )
+)
+
+game (
+	name "Fun School 4 - Over 7s (198x)(Europress)(Side A)[a]"
+	description "Fun School 4 - Over 7s (198x)(Europress)(Side A)[a]"
+	rom ( name "Fun School 4 - Over 7s (198x)(Europress)(Side A)[a].d64" size 174848 crc 9e45bb1c md5 827c681a693ea5b999828bb5bc33f12b sha1 7e27e12b9ad9c39b6314555a4da7d1174a2db9b2 )
+)
+
+game (
+	name "Fun School 4 - Over 7s (198x)(Europress)(Side B)"
+	description "Fun School 4 - Over 7s (198x)(Europress)(Side B)"
+	rom ( name "Fun School 4 - Over 7s (198x)(Europress)(Side B).d64" size 175531 crc 5908d8fa md5 b992e3a11016566a1f30f1ccf0da4af7 sha1 0eca9d4b6b6f949ef6546b7c86a7dbbef7ac852a )
+)
+
+game (
+	name "Fun School 4 - Over 7s (198x)(Europress)(Side B)[a]"
+	description "Fun School 4 - Over 7s (198x)(Europress)(Side B)[a]"
+	rom ( name "Fun School 4 - Over 7s (198x)(Europress)(Side B)[a].d64" size 174848 crc ab76e9d9 md5 374ac6fc9170c3e75beffc4bb84ea0ee sha1 36f095acd73101f2f960c8ae5e1f587a3c93b38f )
+)
+
+game (
+	name "Fun School 4 - Under 5s (198x)(Europress)(Side A)"
+	description "Fun School 4 - Under 5s (198x)(Europress)(Side A)"
+	rom ( name "Fun School 4 - Under 5s (198x)(Europress)(Side A).d64" size 174848 crc 77675d5e md5 cf0c57513101ed5468b7786aac4f1328 sha1 bb986b5c1601b15f62b4bd0ac0d161c67d89ca0b )
+)
+
+game (
+	name "Fun School 4 - Under 5s (198x)(Europress)(Side A)[a]"
+	description "Fun School 4 - Under 5s (198x)(Europress)(Side A)[a]"
+	rom ( name "Fun School 4 - Under 5s (198x)(Europress)(Side A)[a].d64" size 174848 crc 887f7b8c md5 f62f8e3ea67694f4f514bcbd6c30c1bb sha1 623adf4a4118838708fc869132ac078528c0ddf4 )
+)
+
+game (
+	name "Fun School 4 - Under 5s (198x)(Europress)(Side B)"
+	description "Fun School 4 - Under 5s (198x)(Europress)(Side B)"
+	rom ( name "Fun School 4 - Under 5s (198x)(Europress)(Side B).d64" size 174848 crc da00002a md5 ce01c4f7e0a7192056b26eedaff55391 sha1 11ac93c8961769084e9cee8a1713df83df0046ca )
+)
+
+game (
+	name "Fun School 4 - Under 5s (198x)(Europress)(Side B)[a]"
+	description "Fun School 4 - Under 5s (198x)(Europress)(Side B)[a]"
+	rom ( name "Fun School 4 - Under 5s (198x)(Europress)(Side B)[a].d64" size 174848 crc 502d94bf md5 0f5ab5036fdc026ec4458d93c3288b61 sha1 620aafd49ea1bec8e7afe3d66ed856057219a6ee )
+)
+
+game (
+	name "Grade A Math (19xx)(Smartworks)"
+	description "Grade A Math (19xx)(Smartworks)"
+	rom ( name "Grade A Math (19xx)(Smartworks).d64" size 174848 crc 23a98afe md5 d12f3b36458705e14273f5f04d7e2e50 sha1 6bb081293d9aac3d0c07e0d86e9d17c9fa7a56fa )
+)
+
+game (
+	name "Grade A Spelling Program (19xx)(Smartworks)"
+	description "Grade A Spelling Program (19xx)(Smartworks)"
+	rom ( name "Grade A Spelling Program (19xx)(Smartworks).d64" size 174848 crc d6a9bfb0 md5 acbc32190f39be5f6a9ae34d9ec03236 sha1 f7366424db1ff6825bbcf73cf4cf21fcef52ba90 )
+)
+
+game (
+	name "Grade A Vocabulary Program (19xx)(Smartworks)"
+	description "Grade A Vocabulary Program (19xx)(Smartworks)"
+	rom ( name "Grade A Vocabulary Program (19xx)(Smartworks).d64" size 174848 crc faf33bfd md5 537bbaf1891045d9b7423358afa355b8 sha1 c2e6b1d84c7c143da35b48713f547709c01fa86a )
+)
+
+game (
+	name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)"
+	description "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)"
+	rom ( name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl).d64" size 174848 crc 87c91ff1 md5 d9573915f34573d283c0dec762b0317f sha1 03f72ba32aec9ac64c13b140135faff4315a488f )
+)
+
+game (
+	name "Kids on Keys (1983)(Spinnaker Software)"
+	description "Kids on Keys (1983)(Spinnaker Software)"
+	rom ( name "Kids on Keys (1983)(Spinnaker Software).d64" size 174848 crc 5e41b2af md5 19c6827e74d47d983ff10d4cb2401931 sha1 89bffb938917405f2fc4b1efc2dbac71102817f6 )
+)
+
+game (
+	name "Kidwriter (19xx)(-)"
+	description "Kidwriter (19xx)(-)"
+	rom ( name "Kidwriter (19xx)(-).d64" size 174848 crc b824f669 md5 82eec6c0fc53025535a3eaeb612d06d9 sha1 978a3f0ef716a9fc8d77cca43ce5e789a71c9b99 )
+)
+
+game (
+	name "Kinder Koncepts (1983)(Commodore)"
+	description "Kinder Koncepts (1983)(Commodore)"
+	rom ( name "Kinder Koncepts (1983)(Commodore).d64" size 175531 crc 418c80af md5 fa183e4b5b1c5a1a13212f668822976a sha1 34ea76ac64ae5c947918eeea49f0411de925421f )
+)
+
+game (
+	name "Kinder Koncepts (1983)(Commodore)[a]"
+	description "Kinder Koncepts (1983)(Commodore)[a]"
+	rom ( name "Kinder Koncepts (1983)(Commodore)[a].d64" size 175531 crc e4dcfccb md5 713351323d0c224b6bf51bd7e9d6d2ed sha1 41070d0297fef34ceec79435c57e235c9482ba8d )
+)
+
+game (
+	name "Kindercomp (1983)(Spinnaker Software)"
+	description "Kindercomp (1983)(Spinnaker Software)"
+	rom ( name "Kindercomp (1983)(Spinnaker Software).d64" size 175531 crc 48146ffb md5 1e4aacb137925b94ddaed119a40e9eec sha1 3841f5e618e7d23cd086ccf61786bdca5fb6560d )
+)
+
+game (
+	name "Kopfrechnen (19xx)(-)(de)"
+	description "Kopfrechnen (19xx)(-)(de)"
+	rom ( name "Kopfrechnen (19xx)(-)(de).d64" size 174848 crc 3bc25f4d md5 0eb2058519a5165dd8021ef664e2f2a0 sha1 bfda56630b9290d91914797c0c90810d35fe5ce1 )
+)
+
+game (
+	name "Ladders to Learning - Alphabetical Order (1984)(McGraw-Hill Ryerson)"
+	description "Ladders to Learning - Alphabetical Order (1984)(McGraw-Hill Ryerson)"
+	rom ( name "Ladders to Learning - Alphabetical Order (1984)(McGraw-Hill Ryerson).d64" size 174848 crc 30bcb778 md5 9433debe4e444f7c3810c133edc5b247 sha1 9e954eea3eae566f33ccb5537730014e298f6511 )
+)
+
+game (
+	name "Ladders to Learning - Corner Store (1984)(McGraw-Hill Ryerson)"
+	description "Ladders to Learning - Corner Store (1984)(McGraw-Hill Ryerson)"
+	rom ( name "Ladders to Learning - Corner Store (1984)(McGraw-Hill Ryerson).d64" size 174848 crc db25c680 md5 554ca3bb89894a06c607668e3d315349 sha1 6ffb220fe85856e0bf6766a463f920c291f145b7 )
+)
+
+game (
+	name "Mathball (1996)(Loadstar)[cr M8]"
+	description "Mathball (1996)(Loadstar)[cr M8]"
+	rom ( name "Mathball (1996)(Loadstar)[cr M8].d64" size 174848 crc 9f71c84b md5 01ff64d3691f8a51811a396231a249b3 sha1 a0f7ebed6db587e50b5b0604d77be33c0aab6b8a )
+)
+
+game (
+	name "Mathball (1996)(Loadstar)[cr M8][a2]"
+	description "Mathball (1996)(Loadstar)[cr M8][a2]"
+	rom ( name "Mathball (1996)(Loadstar)[cr M8][a2].d64" size 174848 crc 90bf758e md5 92cb4c470a484edb68119daf7db9ed95 sha1 8f82555928ce0fed61745c0dccc8f6b9f1a10f90 )
+)
+
+game (
+	name "Mathball (1996)(Loadstar)[cr M8][a3]"
+	description "Mathball (1996)(Loadstar)[cr M8][a3]"
+	rom ( name "Mathball (1996)(Loadstar)[cr M8][a3].d64" size 174848 crc d680f069 md5 bcc5680d1ba7da02ee507c68c902a7f3 sha1 5eb7843e4d20ec5d9b049580b978b768ef329ab9 )
+)
+
+game (
+	name "Mathball (1996)(Loadstar)[cr M8][a]"
+	description "Mathball (1996)(Loadstar)[cr M8][a]"
+	rom ( name "Mathball (1996)(Loadstar)[cr M8][a].d64" size 174848 crc e00ea4fc md5 506aae48558eec49d10e90f0ed52bdfe sha1 e5f03a9c69a4f5d225b99ae29ec58bda573c86c6 )
+)
+
+game (
+	name "Mathematics II (19xx)(CES)"
+	description "Mathematics II (19xx)(CES)"
+	rom ( name "Mathematics II (19xx)(CES).d64" size 175531 crc 3945e148 md5 e6b7de1812b3aa7ec09cab557673978b sha1 231c4e8d02c856cd7112afc8c7bd29bc0c589710 )
+)
+
+game (
+	name "Mathematics II (19xx)(CES)[a2]"
+	description "Mathematics II (19xx)(CES)[a2]"
+	rom ( name "Mathematics II (19xx)(CES)[a2].d64" size 174848 crc 7a55f6d2 md5 0227c44f8e4d318a93d03cefc3c2a73d sha1 cf34ade64e070abad68e768377f10fa567bd307f )
+)
+
+game (
+	name "Mathematics II (19xx)(CES)[a]"
+	description "Mathematics II (19xx)(CES)[a]"
+	rom ( name "Mathematics II (19xx)(CES)[a].d64" size 174848 crc 6aa8ab45 md5 77139771fe00dadf413f58c7dddeffd2 sha1 e93cc8af66cb04554b7c3da3004d3d2d786f97c5 )
+)
+
+game (
+	name "Mathematics III (19xx)(CES)"
+	description "Mathematics III (19xx)(CES)"
+	rom ( name "Mathematics III (19xx)(CES).d64" size 175531 crc c55ac6bc md5 5710bbbf6e5721d54d05c0abd5146c7b sha1 01d8de48469a6ad42e231704409f3bb24b62ed27 )
+)
+
+game (
+	name "Mathematics V (19xx)(CES)"
+	description "Mathematics V (19xx)(CES)"
+	rom ( name "Mathematics V (19xx)(CES).d64" size 175531 crc 8d5e904c md5 eb32491b82ddd60afbcfc98403de5a1b sha1 d9be0617d98c1871c077a1c14d185b260fa3fd89 )
+)
+
+game (
+	name "Mathematics V (19xx)(CES)[a]"
+	description "Mathematics V (19xx)(CES)[a]"
+	rom ( name "Mathematics V (19xx)(CES)[a].d64" size 174848 crc 3c3d5c54 md5 35603e25f665875adc3c12c7a575bb29 sha1 965baf7ffeceb70b796b4a27233caa8aa2a3aad6 )
+)
+
+game (
+	name "Mathematics VII (19xx)(CES)"
+	description "Mathematics VII (19xx)(CES)"
+	rom ( name "Mathematics VII (19xx)(CES).d64" size 175531 crc 8a78fc74 md5 31831c317fec64973979483a234108cd sha1 d2710da4a2dde3ef46cadcbb901033cbdaae9c84 )
+)
+
+game (
+	name "Mathematics VII (19xx)(CES)[a]"
+	description "Mathematics VII (19xx)(CES)[a]"
+	rom ( name "Mathematics VII (19xx)(CES)[a].d64" size 174848 crc b5a7019a md5 fba0c9a31308028c4128d15fdf4671a7 sha1 4c97be2d15b66f864fcabcb04b38407ec264e522 )
+)
+
+game (
+	name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side A)"
+	description "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side A)"
+	rom ( name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side A).d64" size 174848 crc 9e424b18 md5 eeb6dec3f326397c9b25856cd1b25973 sha1 516e63f1d9be17192a8fc97784a0c9d0e464871f )
+)
+
+game (
+	name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side B)"
+	description "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side B)"
+	rom ( name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 1 of 3 Side B).d64" size 174848 crc b136df50 md5 1f3651df1f62991cb0ec29784cd310cc sha1 31b2f7bc80fda8f65ee591c316a48c7c08caec53 )
+)
+
+game (
+	name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side A)"
+	description "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side A)"
+	rom ( name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side A).d64" size 174848 crc 849a8680 md5 1606bcd981f26a283255db5c2b58747e sha1 a1abf0ebd1b2cb1c560ae464ee5811c2d63d3d39 )
+)
+
+game (
+	name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side B)"
+	description "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side B)"
+	rom ( name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 2 of 3 Side B).d64" size 174848 crc ceefcca3 md5 1c179bd2ec00eefd18848dad248d453f sha1 e9520e19bf0cc0d9ad45a500c50ee18bdfddd3a6 )
+)
+
+game (
+	name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 3 of 3 Side A)"
+	description "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 3 of 3 Side A)"
+	rom ( name "Mavis Beacon Teaches Typing (1988)(Software Toolworks)(Disk 3 of 3 Side A).d64" size 174848 crc 89982068 md5 66382f6edb9e416e06f9627b506ca6e3 sha1 2817d08796f2f346a138285b7b646c6b1de1b3bf )
+)
+
+game (
+	name "Morsen (19xx)(Andromat-Software)"
+	description "Morsen (19xx)(Andromat-Software)"
+	rom ( name "Morsen (19xx)(Andromat-Software).d64" size 174848 crc bc8b5b58 md5 17697a51c858de58f5587c5e57978d4f sha1 ce4bf70e4bc45f985765b94dc4c983b0f7ee348c )
+)
+
+game (
+	name "Pitman Typing Tutor (1984)(Pitman Publishing)"
+	description "Pitman Typing Tutor (1984)(Pitman Publishing)"
+	rom ( name "Pitman Typing Tutor (1984)(Pitman Publishing).d64" size 174848 crc 4a11d075 md5 ca56c595a2e02aae2519bd5fc7b62079 sha1 42a9ef0d1b43cf4703f7fc7062bcd2a4c551f61d )
+)
+
+game (
+	name "Playful Professor Math Tutor (1984)(Intelligent Statements)"
+	description "Playful Professor Math Tutor (1984)(Intelligent Statements)"
+	rom ( name "Playful Professor Math Tutor (1984)(Intelligent Statements).d64" size 174848 crc 61bdf90a md5 d5d54cde0cfcaddf607650ba2488e60e sha1 978ebe3283258dc6de3c0c367531ffd5a1c82012 )
+)
+
+game (
+	name "Rechtschreibloewe 1 (19xx)(-)(de)[b]"
+	description "Rechtschreibloewe 1 (19xx)(-)(de)[b]"
+	rom ( name "Rechtschreibloewe 1 (19xx)(-)(de)[b].d64" size 174848 crc cb06a7dd md5 94db2e4a63137626362f455bbdc5743c sha1 76ee0ed5b25cd0a0c9e98f12171da1a3eb7c6208 )
+)
+
+game (
+	name "Rechtschreibloewe 2 (19xx)(-)(de)[b]"
+	description "Rechtschreibloewe 2 (19xx)(-)(de)[b]"
+	rom ( name "Rechtschreibloewe 2 (19xx)(-)(de)[b].d64" size 174848 crc 3e279184 md5 50c98e57e25baecf442a1e3831272249 sha1 6857c1570baf89fd76c29ab6533969ffd2768c64 )
+)
+
+game (
+	name "Rechtschreibloewe 3 (19xx)(-)(de)[b]"
+	description "Rechtschreibloewe 3 (19xx)(-)(de)[b]"
+	rom ( name "Rechtschreibloewe 3 (19xx)(-)(de)[b].d64" size 174848 crc 41a40ecb md5 d1cee0d63c4d9daad134024ae8890e8b sha1 18266141101dacb2f3a41b9daf834d854efe4084 )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)(Side A)"
+	description "Stickybear ABC, The (1984)(Optimum Resource)(Side A)"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)(Side A).d64" size 175531 crc c3945cab md5 38f1970fc2c5c4cdf9a280debaf1bb8c sha1 59560fda84f6e008a531051d7f983471999ed42b )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a2]"
+	description "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a2]"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a2].d64" size 175531 crc bee987dd md5 ffcfecbeaebd1dd1d72037f1b9fbb050 sha1 6052f0478d73abbb540663ce36b16a30af0fef58 )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a]"
+	description "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a]"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)(Side A)[a].d64" size 175531 crc 40c56599 md5 6805884c48ca89ff22d667dc2cd9ab12 sha1 df52c5a6aa1726d3488c14dc68080294f18791f3 )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)(Side B)"
+	description "Stickybear ABC, The (1984)(Optimum Resource)(Side B)"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)(Side B).d64" size 174848 crc 90f9a5bf md5 50d5581565d2f29b0f736adf127a9d2c sha1 7f84aea555f85634768a67ee330987b4e8e6d619 )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)[h MHI]"
+	description "Stickybear ABC, The (1984)(Optimum Resource)[h MHI]"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)[h MHI].d64" size 174848 crc 2397acdf md5 d5a590524482296702da593a6f9165ac sha1 469b3a9dac99629e41f3c7ad97556a17c07083d9 )
+)
+
+game (
+	name "Stickybear ABC, The (1984)(Optimum Resource)[h MHI][a]"
+	description "Stickybear ABC, The (1984)(Optimum Resource)[h MHI][a]"
+	rom ( name "Stickybear ABC, The (1984)(Optimum Resource)[h MHI][a].d64" size 174848 crc 43b8d775 md5 38bfa59a628812c989efbddd20e30e32 sha1 5ac8f781707034142013b32307ee9d826214c9d5 )
+)
+
+game (
+	name "Stickybear Math (1984)(Optimum Resource)"
+	description "Stickybear Math (1984)(Optimum Resource)"
+	rom ( name "Stickybear Math (1984)(Optimum Resource).d64" size 175531 crc e0293cda md5 47e088a1bf0ef612ef450c926c80f72e sha1 8816671bd39a3c91502d1f25a346fa05ec4c46a8 )
+)
+
+game (
+	name "Stickybear Numbers (1984)(Optimum Resource)"
+	description "Stickybear Numbers (1984)(Optimum Resource)"
+	rom ( name "Stickybear Numbers (1984)(Optimum Resource).d64" size 175531 crc efef605b md5 bd7e61549eb4779dff224eecdfaa0b43 sha1 8c890f76332a2333c5f95405dc9d30a53007b185 )
+)
+
+game (
+	name "Stickybear Numbers (1984)(Optimum Resource)[h MHI]"
+	description "Stickybear Numbers (1984)(Optimum Resource)[h MHI]"
+	rom ( name "Stickybear Numbers (1984)(Optimum Resource)[h MHI].d64" size 174848 crc 9318614a md5 3be9e86f2ccdf9cef302a1e9f2f79377 sha1 945f05c8a282d31a4ca652ed3b8dc1867a6a7c47 )
+)
+
+game (
+	name "Stickybear Numbers (1984)(Optimum Resource)[h MHI][a]"
+	description "Stickybear Numbers (1984)(Optimum Resource)[h MHI][a]"
+	rom ( name "Stickybear Numbers (1984)(Optimum Resource)[h MHI][a].d64" size 174848 crc 72d48b40 md5 8972e6d11d182a3a25a71b2cecb08270 sha1 cd05512ee7dec8beb95e5d265bc861a0a1805745 )
+)
+
+game (
+	name "Stickybear Opposites (1984)(Optimum Resource)"
+	description "Stickybear Opposites (1984)(Optimum Resource)"
+	rom ( name "Stickybear Opposites (1984)(Optimum Resource).d64" size 175531 crc 735dc620 md5 9e9d5d413bfa177020b515160fb596e6 sha1 657fb9dee75ca94bd1c9638eb49151e5258a63ec )
+)
+
+game (
+	name "Stickybear Reading (1984)(Optimum Resource)"
+	description "Stickybear Reading (1984)(Optimum Resource)"
+	rom ( name "Stickybear Reading (1984)(Optimum Resource).d64" size 174848 crc e6732416 md5 6be98304f9797fa6a9c1ebfe22f7fe53 sha1 993859ddcf49107e7c60af26905b5a722de4b12d )
+)
+
+game (
+	name "Stickybear Spellgrabber (1984)(Optimum Resource)"
+	description "Stickybear Spellgrabber (1984)(Optimum Resource)"
+	rom ( name "Stickybear Spellgrabber (1984)(Optimum Resource).d64" size 175531 crc 95899fe6 md5 d6194cdbc50705cfc8e2441808baca06 sha1 d17ac0f78c8773d00fb71a1d0bebb03a6fb5c9dd )
+)
+
+game (
+	name "Stickybear Town Builder (1984)(Optimum Resource)"
+	description "Stickybear Town Builder (1984)(Optimum Resource)"
+	rom ( name "Stickybear Town Builder (1984)(Optimum Resource).d64" size 175531 crc 03e337ad md5 be80e36da387a1704f20cbb30599ca7c sha1 716556f10ccbf9c76c6421009c70339ba5d6ca5d )
+)
+
+game (
+	name "Stickybear Typing (1985)(Optimum Resource)"
+	description "Stickybear Typing (1985)(Optimum Resource)"
+	rom ( name "Stickybear Typing (1985)(Optimum Resource).d64" size 175531 crc 0d21845c md5 6896ea1f8ce98b12983af7953d994c7b sha1 64b555bffefe98e2a91f50ea75f9947475541509 )
+)
+
+game (
+	name "Stickybear Typing (1985)(Optimum Resource)[h MHI]"
+	description "Stickybear Typing (1985)(Optimum Resource)[h MHI]"
+	rom ( name "Stickybear Typing (1985)(Optimum Resource)[h MHI].d64" size 174848 crc e7b1cf33 md5 d828c443853ab2743ed6c074c63fc9b6 sha1 8ada0cf02429f1a20fa8446d37f50666170e75a4 )
+)
+
+game (
+	name "Stickybear Typing (1985)(Optimum Resource)[h MHI][a2]"
+	description "Stickybear Typing (1985)(Optimum Resource)[h MHI][a2]"
+	rom ( name "Stickybear Typing (1985)(Optimum Resource)[h MHI][a2].d64" size 174848 crc 3d957fee md5 cee3fa6fdf1684882579907c8a9d9a5e sha1 e4110fb6baa44f42677477643550ba43bec51f32 )
+)
+
+game (
+	name "Stickybear Typing (1985)(Optimum Resource)[h MHI][a]"
+	description "Stickybear Typing (1985)(Optimum Resource)[h MHI][a]"
+	rom ( name "Stickybear Typing (1985)(Optimum Resource)[h MHI][a].d64" size 174848 crc a29d33f7 md5 5ff5aded3647b1d08525510e1360481d sha1 74cc1ae7ea6c17a48a2601ca3c74a7d7d769d654 )
+)
+
+game (
+	name "Tri Math v1 (1983)(HesWare)"
+	description "Tri Math v1 (1983)(HesWare)"
+	rom ( name "Tri Math v1 (1983)(HesWare).d64" size 174848 crc b0563334 md5 4c994105e35335f403a8cab5b505c81e sha1 ad7cc5044991275ef1ab0b667be1bf5cb7ec7a65 )
+)
+
+game (
+	name "Tri Math v1 (1983)(HesWare)[a]"
+	description "Tri Math v1 (1983)(HesWare)[a]"
+	rom ( name "Tri Math v1 (1983)(HesWare)[a].d64" size 175531 crc 0893a0fe md5 850e7d8f64f4b909a63c69f1bb2ddf6e sha1 2543bfc47dbdb4134e7d7aec900a504ecc2752dd )
+)
+
+game (
+	name "World Geography (1985)(Bobco)(de)[cr FCG]"
+	description "World Geography (1985)(Bobco)(de)[cr FCG]"
+	rom ( name "World Geography (1985)(Bobco)(de)[cr FCG].d64" size 174848 crc 17790e93 md5 406f34d4b96ba53905da0a478be5c868 sha1 04fbfd3916f53072ac494ecd935d14b66a2bc762 )
+)
+

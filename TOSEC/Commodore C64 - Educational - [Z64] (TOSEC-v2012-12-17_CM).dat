@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [Z64]"
+	description "Commodore C64 - Educational - [Z64] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Educational - [Z64]"
+	version 2012-12-17
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Aerobics (1984)(Spinnaker)"
+	description "Aerobics (1984)(Spinnaker)"
+	rom ( name "1!Aerobics (1984)(Spinnaker).z64" size 30802 crc 01d1068d md5 29a959214fb5b4a1e6977a4d50febd41 sha1 bd674071199c88058ea633c51bc97afc01827e73 )
+	rom ( name "2!Aerobics (1984)(Spinnaker).z64" size 35817 crc c83592c2 md5 ad6eecd836f7693c60e63606860a5cfe sha1 c159b9305dad1a89d6aa8b17cc51369325fa73fa )
+	rom ( name "3!Aerobics (1984)(Spinnaker).z64" size 33892 crc 3358abaf md5 e6af30885a0c92622884644df1228026 sha1 1edfeefafe643d84d82c71967f3944aaedf9c9f4 )
+	rom ( name "4!Aerobics (1984)(Spinnaker).z64" size 36307 crc 47418111 md5 f9f57aa47ba0e8a42d343f696e56ca22 sha1 507cd16d0c5abac6fd9aa2917ce72223c0941685 )
+)
+
+game (
+	name "Beckermat (1985)(Data Becker)[cr Fucking Files]"
+	description "Beckermat (1985)(Data Becker)[cr Fucking Files]"
+	rom ( name "1!Beckermat (1985)(Data Becker)[cr Fucking Files].z64" size 40677 crc 1949730e md5 7dd184455f0e8c92621b9d680ce0a683 sha1 c18d8776a034045c2c09df44bb8aceb0016834ad )
+	rom ( name "2!Beckermat (1985)(Data Becker)[cr Fucking Files].z64" size 37956 crc 856eb216 md5 13eb3277bbcbad2e0b47c18ad418a7b6 sha1 56a096f270c5463b7e2df3f629d19c8dff8e8b31 )
+	rom ( name "3!Beckermat (1985)(Data Becker)[cr Fucking Files].z64" size 34444 crc 74a254d1 md5 94d148d499ba271d849f36a367dc3f6a sha1 43bfdaf2bf321904b68264dfb69b853a995bf439 )
+	rom ( name "4!Beckermat (1985)(Data Becker)[cr Fucking Files].z64" size 44210 crc 639931fa md5 b07bfa5fba45dfa4ecb6e5471943f2e7 sha1 e7c98aabc44fde6b5fd8c3e3ba66dfd9c53c07a8 )
+)
+

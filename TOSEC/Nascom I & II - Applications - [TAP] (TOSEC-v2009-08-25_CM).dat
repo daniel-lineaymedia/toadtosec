@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Nascom I & II - Applications - [TAP]"
+	description "Nascom I & II - Applications - [TAP] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Applications - [TAP]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "ROM BASIC v4.7 (1978)(Microsoft)"
+	description "ROM BASIC v4.7 (1978)(Microsoft)"
+	rom ( name "ROM BASIC v4.7 (1978)(Microsoft).tap" size 10388 crc 243cd16e md5 e51dfc65e69a0da37d00db8e5bb82c7e )
+)
+
+game (
+	name "ROM BASIC v4.7 (1978)(Microsoft)[a]"
+	description "ROM BASIC v4.7 (1978)(Microsoft)[a]"
+	rom ( name "ROM BASIC v4.7 (1978)(Microsoft)[a].tap" size 10132 crc c60d6521 md5 3a054319dfb3793e608adbb60614b250 )
+)

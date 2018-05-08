@@ -1,0 +1,206 @@
+clrmamepro (
+	name "Commodore C64 - Games - Previews - [P00]"
+	description "Commodore C64 - Games - Previews - [P00] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Games - Previews - [P00]"
+	version 2012-12-17
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Ace of Hearts - Preview (1992)(Martin Olsen)[h Epic]"
+	description "Ace of Hearts - Preview (1992)(Martin Olsen)[h Epic]"
+	rom ( name "Ace of Hearts - Preview (1992)(Martin Olsen)[h Epic].p00" size 26947 crc 5cd8c401 md5 e2c8a0f10f8329ce5fd1014c92228fb0 sha1 1853ba46f1a53c3cd2b5c80d6dcb33a8c19e3fad )
+)
+
+game (
+	name "Ad Infinitum (1986)(Stoat & Tim)"
+	description "Ad Infinitum (1986)(Stoat & Tim)"
+	rom ( name "Ad Infinitum (1986)(Stoat & Tim).p00" size 25542 crc 5a73e79e md5 5882d76adb3b4cc3f58f385343cd591e sha1 6b31b045bf656ef53b3eb2321b675f73de6477fe )
+)
+
+game (
+	name "Ad Infinitum (1986)(Stoat & Tim)[a2]"
+	description "Ad Infinitum (1986)(Stoat & Tim)[a2]"
+	rom ( name "Ad Infinitum (1986)(Stoat & Tim)[a2].p00" size 25542 crc 4b6ac900 md5 2ea4778eefea92ba3b5837b19463a3ae sha1 c006a2018cf0f4fb2e78fca3efa9bd921e37d0cc )
+)
+
+game (
+	name "Ad Infinitum (1986)(Stoat & Tim)[a]"
+	description "Ad Infinitum (1986)(Stoat & Tim)[a]"
+	rom ( name "Ad Infinitum (1986)(Stoat & Tim)[a].p00" size 25542 crc c68524e7 md5 158f19893a1782ec6ab9e2e2c69a238d sha1 8276d02043dbe44922af3755e4b8cd0060ad6bda )
+)
+
+game (
+	name "Alleykat - Preview (1986)(Hewson)[h DD]"
+	description "Alleykat - Preview (1986)(Hewson)[h DD]"
+	rom ( name "Alleykat - Preview (1986)(Hewson)[h DD].p00" size 37470 crc 9f094e64 md5 d2d51b097b41f2357c41e1743bc3ba61 sha1 7d051e4c0ae8c2159bbb97c5156346ab2f7bd618 )
+)
+
+game (
+	name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC]"
+	description "Bubble Mania - Preview (1993)(CP Verlag)[h TRC]"
+	rom ( name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC].p00" size 23507 crc 4829a682 md5 b13ccf385d8f98d1e12427f8e85b5bd8 sha1 c01065b8e9afb97ce297d1c98000a78a4b9a13bb )
+)
+
+game (
+	name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a]"
+	description "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a]"
+	rom ( name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a].p00" size 23507 crc 97a5ac2f md5 7fb3b25af947c4f55c383048d5ff84a2 sha1 98f2d939ee693120fbd05edbd72697c107b814a9 )
+)
+
+game (
+	name "Combat Zone - Preview (1990)(Look Twice)[cr Triangle]"
+	description "Combat Zone - Preview (1990)(Look Twice)[cr Triangle]"
+	rom ( name "Combat Zone - Preview (1990)(Look Twice)[cr Triangle].p00" size 28761 crc 565ded69 md5 63ec1eda2b3c74ce95825896083258df sha1 d5919476f0f215710c5fd1e1e8f2630734640e8e )
+)
+
+game (
+	name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL]"
+	description "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL]"
+	rom ( name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL].p00" size 33906 crc abcf5cd8 md5 d89ff3da0ea08b3a46f42e7157632a23 sha1 2b412ca03bb3a3d5954e7034b36b077dba5b1555 )
+)
+
+game (
+	name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL][a]"
+	description "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL][a]"
+	rom ( name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL][a].p00" size 33906 crc ff95b0ae md5 4c182b8c7ba64b3ce2098e3f9e20a012 sha1 80b42c2165d424eb0d3cef54f3fef6c6a99f4a52 )
+)
+
+game (
+	name "Decent Strip Poker - Preview (1995)(Michal Bacik)[cr CHR]"
+	description "Decent Strip Poker - Preview (1995)(Michal Bacik)[cr CHR]"
+	rom ( name "Decent Strip Poker - Preview (1995)(Michal Bacik)[cr CHR].p00" size 42258 crc 98411049 md5 23848459a4500b9c54eb0b383866d7fc sha1 863531ef8403da6f85649ba6322e9120c09a1460 )
+)
+
+game (
+	name "Empire Strikes Back, The - Preview (19xx)(Paul Baker)"
+	description "Empire Strikes Back, The - Preview (19xx)(Paul Baker)"
+	rom ( name "Empire Strikes Back, The - Preview (19xx)(Paul Baker).p00" size 15770 crc 0b29cf5f md5 d4c3284d4ca4822f3f603fae0b940a81 sha1 bd7062d4bac2e60bce17356b7ab1731fbcb21e32 )
+)
+
+game (
+	name "Fears of Darkness - Preview (1994)(-)[cr AFL]"
+	description "Fears of Darkness - Preview (1994)(-)[cr AFL]"
+	rom ( name "Fears of Darkness - Preview (1994)(-)[cr AFL].p00" size 46362 crc 0943f04f md5 c7651507e3762f74e8d63cf049d7cd49 sha1 3e86ee4013103eb2c1cdfc7d581d12f9a4f99941 )
+)
+
+game (
+	name "Goldrunner - Preview (1986-09-24)(Digital News)"
+	description "Goldrunner - Preview (1986-09-24)(Digital News)"
+	rom ( name "Goldrunner - Preview (1986-09-24)(Digital News).p00" size 26969 crc ac76edf3 md5 2b39221dccf834c235e7e20f90322574 sha1 a03e11deb2d684f1881001c97bebbd24cc27b379 )
+)
+
+game (
+	name "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen]"
+	description "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen]"
+	rom ( name "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen].p00" size 29850 crc 13fb126b md5 f96cd1bd1b31cf76873a12422c6e5fa9 sha1 542d3f209e3a0ed4c560eafe62af5fc91fcaab14 )
+)
+
+game (
+	name "Katakis - Preview (1988)(Rainbow Arts)[h Triad]"
+	description "Katakis - Preview (1988)(Rainbow Arts)[h Triad]"
+	rom ( name "Katakis - Preview (1988)(Rainbow Arts)[h Triad].p00" size 11154 crc 8474c863 md5 a0af8510278f690fe458c36eaa794111 sha1 074c67f90cbfb84b70c2b03b7333e16f2c6eebad )
+)
+
+game (
+	name "Knuckle Buster - Preview (1986)(Melbourne House)"
+	description "Knuckle Buster - Preview (1986)(Melbourne House)"
+	rom ( name "Knuckle Buster - Preview (1986)(Melbourne House).p00" size 23632 crc 35048248 md5 2ea96623b0522e97065c2b71a66b3e02 sha1 fb3a4270e3dba3bfe65d88f70f6880f2e0426406 )
+)
+
+game (
+	name "Last Ninja 3 - Preview (1990)(System 3)[h I+T]"
+	description "Last Ninja 3 - Preview (1990)(System 3)[h I+T]"
+	rom ( name "Last Ninja 3 - Preview (1990)(System 3)[h I+T].p00" size 47586 crc 1f4e0c9e md5 28d95ba76f69a09678d310b025038db8 sha1 bccb9b249fea9e04fde607d52a1c92b2fff81174 )
+)
+
+game (
+	name "Mad Planets (1994)(Salamander Software)"
+	description "Mad Planets (1994)(Salamander Software)"
+	rom ( name "Mad Planets (1994)(Salamander Software).p00" size 12043 crc 29110a68 md5 0a6faa0fd3589386984010f843d2ee1f sha1 64d5401243bfdbd6bd058fb37f786f2e647ae277 )
+)
+
+game (
+	name "Mystery - First Blood - Preview (19xx)(-)[h AFL]"
+	description "Mystery - First Blood - Preview (19xx)(-)[h AFL]"
+	rom ( name "Mystery - First Blood - Preview (19xx)(-)[h AFL].p00" size 22845 crc 17fec31c md5 5a7d465e5ecc5fff3b27f2735f7b76b6 sha1 b94053a9bd48d8afad4470e456263c45931a1176 )
+)
+
+game (
+	name "Playboy - The Game - Preview (1987)(John Vanderaart & Wijo Koek)[cr The Supersonics]"
+	description "Playboy - The Game - Preview (1987)(John Vanderaart & Wijo Koek)[cr The Supersonics]"
+	rom ( name "Playboy - The Game - Preview (1987)(John Vanderaart & Wijo Koek)[cr The Supersonics].p00" size 20960 crc f8d4d5fb md5 9f3ab1e884efc2c28f027d93389e41e8 sha1 a5d4f2e52a7321c037ad9f68089ce41ef5e518ed )
+)
+
+game (
+	name "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL]"
+	description "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL]"
+	rom ( name "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL].p00" size 39329 crc 9f771f70 md5 6d4605d133da65b58d7a7f42d46fdb53 sha1 22d91df480e3020ed22fca6fdf9b001c5ad588aa )
+)
+
+game (
+	name "Saviour! - Preview (1987)(Oscar Giesen)"
+	description "Saviour! - Preview (1987)(Oscar Giesen)"
+	rom ( name "Saviour! - Preview (1987)(Oscar Giesen).p00" size 13887 crc 9bbf2e26 md5 7d4a1d6316db8885eb140c82f021dcbe sha1 c2f102584a69abeaae0e4e2f11666509b18857b3 )
+)
+
+game (
+	name "Shoot - Preview (1994)(Star Design)[h M8]"
+	description "Shoot - Preview (1994)(Star Design)[h M8]"
+	rom ( name "Shoot - Preview (1994)(Star Design)[h M8].p00" size 35354 crc 367d5a7d md5 b215c25527f577ccab76cf42606684ee sha1 03cda29effd466900e46c053dfeb0eb01b82a0bb )
+)
+
+game (
+	name "Sky-Jack - Preview (1988)(-)[h Orion]"
+	description "Sky-Jack - Preview (1988)(-)[h Orion]"
+	rom ( name "Sky-Jack - Preview (1988)(-)[h Orion].p00" size 12805 crc 8aed53b3 md5 7fd36be2283340cd66f74f3661693754 sha1 1ee73d66434078785e6e39409b4cf06935f29203 )
+)
+
+game (
+	name "Spellcast - Preview (1991)(Dave Clarke)"
+	description "Spellcast - Preview (1991)(Dave Clarke)"
+	rom ( name "Spellcast - Preview (1991)(Dave Clarke).p00" size 52702 crc d6d4488b md5 04747f87235f07b4f3e9fd9a07435c96 sha1 386f4da869b865c4a0ae89b40bc10dd7dc1f35bc )
+)
+
+game (
+	name "Sphere - Preview (1986)(Ian Jones & Michael Jones)[cr Ikari]"
+	description "Sphere - Preview (1986)(Ian Jones & Michael Jones)[cr Ikari]"
+	rom ( name "Sphere - Preview (1986)(Ian Jones & Michael Jones)[cr Ikari].p00" size 11195 crc 12300fe6 md5 64419a093c1f71af9a7112a57ed34ddc sha1 e9647c5081e3337a406671abee0221c7d847159e )
+)
+
+game (
+	name "Starfighter - Preview (1996)(Parade Softwarre)[h CHR]"
+	description "Starfighter - Preview (1996)(Parade Softwarre)[h CHR]"
+	rom ( name "Starfighter - Preview (1996)(Parade Softwarre)[h CHR].p00" size 37274 crc e9a81a3f md5 e97c301fc8dd333c0b5831797d20c316 sha1 0996e7ec25eaedfc37bb83cb0c329800749ba378 )
+)
+
+game (
+	name "Time Crystal - Preview (1985)(Jim D. Sachs)"
+	description "Time Crystal - Preview (1985)(Jim D. Sachs)"
+	rom ( name "Time Crystal - Preview (1985)(Jim D. Sachs).p00" size 42172 crc 8d10fcd7 md5 1292bfe0dcdd0d3654d21b27d7a52f44 sha1 c1417872f3407f8edf3fa632831af3a1068ef5de )
+)
+
+game (
+	name "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts)"
+	description "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts)"
+	rom ( name "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts).p00" size 42297 crc 578ce6a1 md5 a139b561e4742cf012b2e627b4b15613 sha1 5fc585919501a8903a16a08d2a8486fa22ee9551 )
+)
+
+game (
+	name "Xiphoid - Preview (1988)(-)[cr FS]"
+	description "Xiphoid - Preview (1988)(-)[cr FS]"
+	rom ( name "Xiphoid - Preview (1988)(-)[cr FS].p00" size 32080 crc 74236509 md5 50802f8c2b64de09599c8de258734f90 sha1 f5e726358e5ebac829f33b55ea5db200455d8237 )
+)
+
+game (
+	name "Zip - Playable Preview (1987)(The Power House)[cr SCG]"
+	description "Zip - Playable Preview (1987)(The Power House)[cr SCG]"
+	rom ( name "Zip - Playable Preview (1987)(The Power House)[cr SCG].p00" size 20103 crc feded9f5 md5 b6ca61cde9536398627b4784a845379e sha1 5c92d08913303b415883883542846b54df670fc9 )
+)
+
+game (
+	name "Zwei Bereten - Preview (1997)(-)[h M8]"
+	description "Zwei Bereten - Preview (1997)(-)[h M8]"
+	rom ( name "Zwei Bereten - Preview (1997)(-)[h M8].p00" size 47992 crc 5b85617e md5 24a66f60c511421c956870f56cc96bb2 sha1 417c3aa585fc80ed6ec8b83876026f4e299890f5 )
+)
+

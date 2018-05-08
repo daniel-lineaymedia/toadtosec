@@ -1,0 +1,1082 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Educational - [TZX]"
+	description "Sinclair ZX Spectrum - Educational - [TZX] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Educational - [TZX]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Anglictina Pre Samoukov - English for Self Learners (19xx)(Didaktik)(sk)"
+	description "Anglictina Pre Samoukov - English for Self Learners (19xx)(Didaktik)(sk)"
+	rom ( name "Anglictina Pre Samoukov - English for Self Learners (19xx)(Didaktik)(sk).tzx" size 80977 crc 80771449 md5 f5c78e9906596916568bc8d1c8a4033f sha1 1850c4782ed1045a162ee95983563b6698a79ba4 )
+)
+
+game (
+	name "Biology (1985)(Collins Educational)(Side A)"
+	description "Biology (1985)(Collins Educational)(Side A)"
+	rom ( name "Biology (1985)(Collins Educational)(Side A).tzx" size 148600 crc 7327cc19 md5 be5a133e6723c6c7b0a7c5a2da59cf75 sha1 8a4e2ed0859025419772a3478300e6603f9631cb )
+)
+
+game (
+	name "Biology (1985)(Collins Educational)(Side B)"
+	description "Biology (1985)(Collins Educational)(Side B)"
+	rom ( name "Biology (1985)(Collins Educational)(Side B).tzx" size 152528 crc 253b1cc6 md5 38f38fa3e5aac4545d507f225564f8e1 sha1 ce095ee0fcc7335f3861bf6abb2d0fca40336f62 )
+)
+
+game (
+	name "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side A)[16K]"
+	description "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side A)[16K]"
+	rom ( name "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side A)[16K].tzx" size 15690 crc 7f5276d1 md5 37b062972ae640152c0daae6bf6597e0 sha1 ff9d26e975a164e5d73bf13a4e7816df25d0fb51 )
+)
+
+game (
+	name "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side B)[16K]"
+	description "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side B)[16K]"
+	rom ( name "Calpac Learning Series Volume 1 (1983)(Calpac Educational Software)(Side B)[16K].tzx" size 11932 crc dc0496ad md5 f28e05495610ddaaf029243cfbcdeb05 sha1 0908c223f78dbb075e9b8bb942164544994ed930 )
+)
+
+game (
+	name "Chemistry (1985)(Collins Educational)(Side A)"
+	description "Chemistry (1985)(Collins Educational)(Side A)"
+	rom ( name "Chemistry (1985)(Collins Educational)(Side A).tzx" size 139079 crc 832bf11b md5 fdb6e1e980f819a8418999262510a5e6 sha1 f0f25e09a7225c35ea66fa4e8f214f46602f1c37 )
+)
+
+game (
+	name "Chemistry (1985)(Collins Educational)(Side B)"
+	description "Chemistry (1985)(Collins Educational)(Side B)"
+	rom ( name "Chemistry (1985)(Collins Educational)(Side B).tzx" size 186772 crc 0ffe3a5a md5 fddf04479726e5d380f32f38d50d1df8 sha1 08dfa359fa9978f3909fb90015455a06846969f4 )
+)
+
+game (
+	name "Chemistry 1 (1983)(Think Tank Educational Software)(Side A)"
+	description "Chemistry 1 (1983)(Think Tank Educational Software)(Side A)"
+	rom ( name "Chemistry 1 (1983)(Think Tank Educational Software)(Side A).tzx" size 51718 crc 1b740f32 md5 06c1928d29e2b225064e3f3fb64fa0b1 sha1 d7bf96606fecd8309c5c7fc4319d6cf9ee85ffae )
+)
+
+game (
+	name "Chemistry 1 (1983)(Think Tank Educational Software)(Side B)"
+	description "Chemistry 1 (1983)(Think Tank Educational Software)(Side B)"
+	rom ( name "Chemistry 1 (1983)(Think Tank Educational Software)(Side B).tzx" size 52244 crc 6b75f918 md5 2b26834657032184268d240fd5edbfa5 sha1 4ff245810d7be93a3c0a8a15f019634002a68e34 )
+)
+
+game (
+	name "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side A)"
+	description "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side A)"
+	rom ( name "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side A).tzx" size 27209 crc 6526d537 md5 5fde54bb61fd787c039af96f67c9a588 sha1 0f0307d35dd6e4e695f7fd0938d7aced111ae034 )
+)
+
+game (
+	name "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side B)"
+	description "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side B)"
+	rom ( name "Chemistry Series O Level Vol 1 (1982)(Calpac Educational Software)(Side B).tzx" size 27113 crc 12574b19 md5 3a7101941629f2da08ff93d6f6e4e3c2 sha1 8f98f60aa35101ef0d45df6679914a21567797ba )
+)
+
+game (
+	name "Complete Guide to Medicine, The (1984)(Eastmead Computer Systems)"
+	description "Complete Guide to Medicine, The (1984)(Eastmead Computer Systems)"
+	rom ( name "Complete Guide to Medicine, The (1984)(Eastmead Computer Systems).tzx" size 247955 crc 4d501a13 md5 55809c0930e499323fb081d6d7dfb547 sha1 334e888617ce727a55303ad66f0f131809b43f67 )
+)
+
+game (
+	name "Complete Machine Code Package (1988)(Roybot)(Side A)"
+	description "Complete Machine Code Package (1988)(Roybot)(Side A)"
+	rom ( name "Complete Machine Code Package (1988)(Roybot)(Side A).tzx" size 23275 crc ae5fecfb md5 8fb0cc13e6eb5311a972935b0866f95f sha1 677dd26c43e2b62e280f2ac062cfdda732b866f7 )
+)
+
+game (
+	name "Complete Machine Code Package (1988)(Roybot)(Side B)"
+	description "Complete Machine Code Package (1988)(Roybot)(Side B)"
+	rom ( name "Complete Machine Code Package (1988)(Roybot)(Side B).tzx" size 23233 crc c5779a3d md5 d5a92384c93e5c91c8d2f65263a59a3f sha1 26d79f27e89ecd554436cdc47c16cd4dec45ce02 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software).tzx" size 113876 crc 253200ac md5 27502fe0b89a6e175e740259d1383f8a sha1 37a22191f22714574cd2f1d7752c12b86f13db9c )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 1 of 4)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 1 of 4)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 1 of 4).tzx" size 46490 crc 85e07bb0 md5 06b69295a1681f91629d0c6fb2856674 sha1 41df0b25664becf73d1a838ce35edf3a902e8e3e )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 2 of 4)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 2 of 4)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 2 of 4).tzx" size 45128 crc 2925506a md5 2489194fa2748776b333120ff5c01851 sha1 e29b87f735f5a8108b7472c6e0ad5f7a0e12b66a )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 3 of 4)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 3 of 4)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 3 of 4).tzx" size 46490 crc b23241ab md5 1e694291cc905f7bc3408c81eced6391 sha1 39154ae2631bbb7e42430c8716a9c296cb640bc7 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 4 of 4)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 4 of 4)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Part 4 of 4).tzx" size 45128 crc beef632a md5 333aaa19db623a94fcb56051aadea27f sha1 ee63887872e3d98d9b5fbb03e7052372b64ce533 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A).tzx" size 46482 crc 94cea77f md5 4083936e84acd95be08d4609a0b53f61 sha1 ea371754e2991010cb8f2abec1b1dfeedb438717 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A)[a]"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A)[a]"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side A)[a].tzx" size 46694 crc fb118e7c md5 d2521896c4164e6f1c6ccf40d49ee167 sha1 537f56a3757168318ffd5833cf8767fa070a6337 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B).tzx" size 45128 crc 8300c160 md5 ceaaa731038141a42d5fcbe7505600db sha1 f5bd280c7abf18de97c8e5a64944e72f8e79f5ce )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B)[a]"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B)[a]"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 1 of 2 Side B)[a].tzx" size 45332 crc bb29787c md5 b6b1283897d2dd1e7b75dcde075a7c63 sha1 bb0b8059eeb6c0865821319a1c88e8d2724d354a )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A).tzx" size 46490 crc 8996cb52 md5 2b8b5d3d2be15e8cdbd732bf33ec0d86 sha1 d58c8307863bcbb049a6c958ae83079d20ba1e9e )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A)[a]"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A)[a]"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side A)[a].tzx" size 46696 crc 6e3d2db6 md5 f79be8b08cc15e3cd21df817a9249882 sha1 74007a1445c12a69ca93312259c0a63533bdbf30 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B)"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B)"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B).tzx" size 45128 crc 7657fd30 md5 449c10d14e321c17111d3154a5819775 sha1 791856cf0d2ea30118ee907151942df3bb54d590 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B)[a]"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B)[a]"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)(Tape 2 of 2 Side B)[a].tzx" size 45330 crc 9e09da69 md5 24e7298f824c2232324fc876aeaea1f9 sha1 9c825028970bae576027f30cb1430e668c714600 )
+)
+
+game (
+	name "Complete Machine Code Tutor, The (1984)(New Generation Software)[tr cs KES Chotebor]"
+	description "Complete Machine Code Tutor, The (1984)(New Generation Software)[tr cs KES Chotebor]"
+	rom ( name "Complete Machine Code Tutor, The (1984)(New Generation Software)[tr cs KES Chotebor].tzx" size 114092 crc 8daf7c80 md5 bb669370505c7c989d60e5eba6b929af sha1 824ee5337bfd147a9eab8976648ba29b5ce3d85c )
+)
+
+game (
+	name "Computer Studies (1985)(Collins Educational)(Side A)"
+	description "Computer Studies (1985)(Collins Educational)(Side A)"
+	rom ( name "Computer Studies (1985)(Collins Educational)(Side A).tzx" size 134407 crc 7cc9f6df md5 374dbdbfa6b0618d96e087a50986b8b9 sha1 3ed701566b6c2d01f263782b40b0d420ba047507 )
+)
+
+game (
+	name "Computer Studies (1985)(Collins Educational)(Side B)"
+	description "Computer Studies (1985)(Collins Educational)(Side B)"
+	rom ( name "Computer Studies (1985)(Collins Educational)(Side B).tzx" size 146604 crc be1d9e47 md5 e31a037f6d39496167de450f52b2d918 sha1 cf2f95c453c591fa6d3b034184e9cf8da8504ad8 )
+)
+
+game (
+	name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side A)"
+	description "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side A)"
+	rom ( name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side A).tzx" size 114986 crc 4e4d0bab md5 b70a8d598f306757975d2548f3069760 sha1 06e66ad2941953a3c9a01337b343af6b75355a6d )
+)
+
+game (
+	name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side B)"
+	description "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side B)"
+	rom ( name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 1 of 2 Side B).tzx" size 79801 crc c1886ebb md5 886019073ae541351bde0044d1138243 sha1 1c32e39e0503f15bc41357439d2016485e3acc30 )
+)
+
+game (
+	name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side A)"
+	description "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side A)"
+	rom ( name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side A).tzx" size 85887 crc f22a12a5 md5 460b938fd1dafe401dbd0b213d74e18c sha1 c5c521cf1d0c66c4c6bcdfc227783629ab15219c )
+)
+
+game (
+	name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side B)"
+	description "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side B)"
+	rom ( name "Cursos Educativos - Matematicas (1985)(Monser)(es)(Tape 2 of 2 Side B).tzx" size 79495 crc 69d68213 md5 9c462640a3fcef215ddc7893bdb665ac sha1 77ef007bbd84e37567ae45c2ebe286a697ddd512 )
+)
+
+game (
+	name "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side A)"
+	description "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side A)"
+	rom ( name "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side A).tzx" size 46546 crc 8fea655e md5 82742308fef283f85edb61c06761853a sha1 3f477e26ad49118f2e8035611803aea6d37932cf )
+)
+
+game (
+	name "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side B)"
+	description "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side B)"
+	rom ( name "Duckworth Highway Code (1985)(Duckworth Educational Computing)(Side B).tzx" size 46330 crc fee7c726 md5 97ac5574634f08a3a52099b5844a7c7b sha1 c8e3f12964afe97f9c5f2b317b6a3ca96d43d3ef )
+)
+
+game (
+	name "Educate 3 (1984)(Simon Software)"
+	description "Educate 3 (1984)(Simon Software)"
+	rom ( name "Educate 3 (1984)(Simon Software).tzx" size 33043 crc 9a212fb5 md5 090af6edc57a9f612619ca7a0412dfee sha1 2a725f0728eef095c03560abfdbf314466c1e423 )
+)
+
+game (
+	name "Education Tape for Infants and Juniors (19xx)(M.B. Software)"
+	description "Education Tape for Infants and Juniors (19xx)(M.B. Software)"
+	rom ( name "Education Tape for Infants and Juniors (19xx)(M.B. Software).tzx" size 20573 crc 57d70c9e md5 2221d0fc2b5a12a6fab7abaacd73f9b1 sha1 556b8b5c21608699b19aa2f1d0da92a500a4f5f6 )
+)
+
+game (
+	name "Entrepreneur - Applications (1985)(Collins Educational)"
+	description "Entrepreneur - Applications (1985)(Collins Educational)"
+	rom ( name "Entrepreneur - Applications (1985)(Collins Educational).tzx" size 82140 crc e9caa70f md5 30acbb777c945b758b786bcea3c4bc52 sha1 9db62dccbde2155b07f63e7d5211e256e952c308 )
+)
+
+game (
+	name "Entrepreneur - Teaching (1985)(Collins Educational)"
+	description "Entrepreneur - Teaching (1985)(Collins Educational)"
+	rom ( name "Entrepreneur - Teaching (1985)(Collins Educational).tzx" size 31555 crc 013d3cc4 md5 e80e60c015e45d99101216e106e626d5 sha1 2fce940e8d703e344cad47c654c0cc448cc0f0ad )
+)
+
+game (
+	name "First Numbers (1983)(Collins Educational)(Side A)"
+	description "First Numbers (1983)(Collins Educational)(Side A)"
+	rom ( name "First Numbers (1983)(Collins Educational)(Side A).tzx" size 22722 crc 8379a27b md5 342248a4d7d70890e1adf6608ec1783b sha1 103458241212b179eb1c469e395e3250c060e40e )
+)
+
+game (
+	name "First Numbers (1983)(Collins Educational)(Side B)"
+	description "First Numbers (1983)(Collins Educational)(Side B)"
+	rom ( name "First Numbers (1983)(Collins Educational)(Side B).tzx" size 13779 crc 3d03fb40 md5 97e0c69060b70fc99b1aba87e2594707 sha1 ec10463b8ea02b8a5be4486323b0a0302a6979d8 )
+)
+
+game (
+	name "French is Fun (1983)(CDS Microsystems)"
+	description "French is Fun (1983)(CDS Microsystems)"
+	rom ( name "French is Fun (1983)(CDS Microsystems).tzx" size 41155 crc fab291e3 md5 0a0f12fc0216900cb556a497380c8992 sha1 28f78a92304938e90ad2ffa3387b9703aa872242 )
+)
+
+game (
+	name "French is Fun (1983)(CDS Microsystems)[a]"
+	description "French is Fun (1983)(CDS Microsystems)[a]"
+	rom ( name "French is Fun (1983)(CDS Microsystems)[a].tzx" size 41125 crc c8905629 md5 ead444966f4db1e61470c65f8ca8b529 sha1 c69e7008f35f50ee2292dfaa2fb544ebc9117de1 )
+)
+
+game (
+	name "Fun Maths (19xx)(-)"
+	description "Fun Maths (19xx)(-)"
+	rom ( name "Fun Maths (19xx)(-).tzx" size 20869 crc 1ff85388 md5 f58d5fac5173929961612a1f46c70c56 sha1 797266c59d3de18b4f334fab237f6c2c582247f3 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side A)"
+	description "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side A)"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side A).tzx" size 40506 crc 7f09cf98 md5 1d5ff9d8c9aab07953e585ac2c351375 sha1 94adb7288e25485263b853f67dbe4832cddca7d7 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side B)"
+	description "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side B)"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)(Side B).tzx" size 37127 crc 5acde51c md5 34c9443296067cc5fee4fdde40c026f4 sha1 e828897466097c890c2951c58bbd64ed1d8f4e14 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side A)[re-release]"
+	description "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side A)[re-release]"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side A)[re-release].tzx" size 40453 crc 4f50747a md5 699c3c7a4a60d4a653429dc486542411 sha1 381893b435d24c658b1c73ac462212ac6bc4b127 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side B)[re-release]"
+	description "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side B)[re-release]"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)(Side B)[re-release].tzx" size 37074 crc 23404be9 md5 572bb5502e42f4aaf3508c60122222fd sha1 8560b86cf32a79ed592a38ee7d853fdf4b1b67e7 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)[re-release]"
+	description "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)[re-release]"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(The Hit Squad)[re-release].tzx" size 77356 crc 96b70276 md5 4838134cf00d04df89530bd79dbda88f sha1 ae54e70462d497c93d25a72b1f621022ae0b3770 )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(Database Software)(Side A)"
+	description "Fun School 2 for the Over-8s (1989)(Database Software)(Side A)"
+	rom ( name "Fun School 2 for the Over-8s (1989)(Database Software)(Side A).tzx" size 39572 crc 63c9cb4d md5 934dbce5b742737f7fa3acfa4ed8c901 sha1 2706fc1725caff4747015281e12c0b6d547c6f76 )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(Database Software)(Side B)"
+	description "Fun School 2 for the Over-8s (1989)(Database Software)(Side B)"
+	rom ( name "Fun School 2 for the Over-8s (1989)(Database Software)(Side B).tzx" size 65752 crc dc22bc7b md5 29d0dd8588ce72ac70819ff4f3135283 sha1 5d21c833147c7fb20710e7a03af306cbf7dba981 )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side A)[re-release]"
+	description "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side A)[re-release]"
+	rom ( name "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side A)[re-release].tzx" size 65641 crc 1feb5ca7 md5 e1b07ef1b13d53bfcc3f2a8ec7dfc2dc sha1 536e52366ceecc548365181b92b7f9a591b5d683 )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side B)[re-release]"
+	description "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side B)[re-release]"
+	rom ( name "Fun School 2 for the Over-8s (1989)(The Hit Squad)(Side B)[re-release].tzx" size 39458 crc 56412bce md5 bcb033d710cb529608fd1ca25774a070 sha1 768b4d3291caadd2b210a99e40cce1fd7766b1b6 )
+)
+
+game (
+	name "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side A)[re-release]"
+	description "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side A)[re-release]"
+	rom ( name "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side A)[re-release].tzx" size 31315 crc 11403544 md5 2a48eccc6b5ad35b45aa9beb82c383fa sha1 ec910015c225219ed54953322e978210c7e9af3c )
+)
+
+game (
+	name "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side B)[re-release]"
+	description "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side B)[re-release]"
+	rom ( name "Fun School 2 for the Under-6s (1989)(The Hit Squad)(Side B)[re-release].tzx" size 40043 crc 16991dae md5 ecab2d235fdb192e347d0521372534b0 sha1 93574856b63d12d6d6e8da11bfa6998c491a6035 )
+)
+
+game (
+	name "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side A)"
+	description "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side A)"
+	rom ( name "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side A).tzx" size 186942 crc 2e0f6b3e md5 9db78e1518d0638437cba1deaf0530c1 sha1 69939372786e1eb8ecf6a1db392bf2a5ddae3be5 )
+)
+
+game (
+	name "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side B)"
+	description "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side B)"
+	rom ( name "Fun School 3 for 5-7 Year Olds (1991)(Database Software)(Side B).tzx" size 186942 crc d2043b76 md5 04c48caa4c0c53147ff4aa7b2fb19699 sha1 b5e1da1143e10438bacdde31bc05667018121e3d )
+)
+
+game (
+	name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)"
+	description "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)"
+	rom ( name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A).tzx" size 124256 crc a925f789 md5 1c5a642737dbc8f95b34e5cf2eb30cf1 sha1 51da1dca6e9277baa7e992bb6536e3d0fc100356 )
+)
+
+game (
+	name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)[a]"
+	description "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)[a]"
+	rom ( name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)[a].tzx" size 124076 crc 89d64aa1 md5 c9d145df2ef279ed01221d19ccf86dd4 sha1 a14374110dea804f946ac3305208ec9dcff66cb1 )
+)
+
+game (
+	name "Fun School 3 for the Under-5s (1991)(Database Software)(Side B)"
+	description "Fun School 3 for the Under-5s (1991)(Database Software)(Side B)"
+	rom ( name "Fun School 3 for the Under-5s (1991)(Database Software)(Side B).tzx" size 124256 crc 83b4028c md5 47ce88324129e3d40e9e5b91b94bfc82 sha1 089ff14ea689c8225b1124e6724e435b3c81513e )
+)
+
+game (
+	name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A)"
+	description "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A)"
+	rom ( name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A).tzx" size 209781 crc 96a872ad md5 bdda6ab4444062d1053b9ee971186aba sha1 50b9266461c7b03902d56ac48fb69b0d1b8c7e2e )
+)
+
+game (
+	name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B)"
+	description "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B)"
+	rom ( name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B).tzx" size 209781 crc 8c19e5e7 md5 cc8dd50dadc8d225c925d63f4365a43e sha1 8753e44626684d146bc91b4a458438750f080a38 )
+)
+
+game (
+	name "Fun School 4 for 7-11 Year Olds (1992)(Europress Software)"
+	description "Fun School 4 for 7-11 Year Olds (1992)(Europress Software)"
+	rom ( name "Fun School 4 for 7-11 Year Olds (1992)(Europress Software).tzx" size 185602 crc a092d379 md5 8e89fcfe9439fdae0886be4c859c03c8 sha1 ac53738e8c94e4c907bee63da19a3eec363e10e1 )
+)
+
+game (
+	name "Fun School 4 for the Under-5s (1992)(Europress Software)(Side A)"
+	description "Fun School 4 for the Under-5s (1992)(Europress Software)(Side A)"
+	rom ( name "Fun School 4 for the Under-5s (1992)(Europress Software)(Side A).tzx" size 178466 crc 385bd4c7 md5 a03feead09ef53016f6d389e1aee9111 sha1 0fe01c1c6e0986a2ede05a235095125e143230b9 )
+)
+
+game (
+	name "Fun School 4 for the Under-5s (1992)(Europress Software)(Side B)"
+	description "Fun School 4 for the Under-5s (1992)(Europress Software)(Side B)"
+	rom ( name "Fun School 4 for the Under-5s (1992)(Europress Software)(Side B).tzx" size 178466 crc ebfb55c7 md5 e4407fd10647d341e54631baa45142db sha1 65369e7459b7f78c037e51241aa11ca902df3d5d )
+)
+
+game (
+	name "Fun to Learn (1984)(Shards Software)"
+	description "Fun to Learn (1984)(Shards Software)"
+	rom ( name "Fun to Learn (1984)(Shards Software).tzx" size 26302 crc ae2e9aa6 md5 b53e5e36980fe280cb4f5eba27d970f7 sha1 4c4115c1ef282a03fb65fb9639b5662c4e6a2a19 )
+)
+
+game (
+	name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side A)[16K]"
+	description "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side A)[16K]"
+	rom ( name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side A)[16K].tzx" size 7955 crc c3b3b136 md5 39daf30521bfe297d4f6986c33a1bcfd sha1 c42bfdc8d8db5361b1365f599850b97a92c6ca9f )
+)
+
+game (
+	name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side B)[16K]"
+	description "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side B)[16K]"
+	rom ( name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)(Side B)[16K].tzx" size 8267 crc 25f113fa md5 515673657426cb0b772ae72cd5a1675a sha1 9ff716120a902320359322c486a3062423e4a18b )
+)
+
+game (
+	name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - English Literature 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - English Literature 1 (1982)(Sinclair Research)[16K].tzx" size 16242 crc b74df4df md5 4cec0e8c6f8d781c0692d1904919352e sha1 938e114d139fdc6240508033f07c68227d9376a5 )
+)
+
+game (
+	name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K].tzx" size 12273 crc fe4034a5 md5 88c1aa2a81f7f9d57dbfe94adecd0214 sha1 d2fd4b2dc8bc35067cdf847089c12ab6997aa1bf )
+)
+
+game (
+	name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[a][16K]"
+	description "Fun to Learn - Geography 1 (1982)(Sinclair Research)[a][16K]"
+	rom ( name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[a][16K].tzx" size 6155 crc cee8934a md5 6d2872a3cab44cb99275d99e6833e7e7 sha1 689ba280f4cfa74c1e438e4087e450c379d4fde8 )
+)
+
+game (
+	name "Fun to Learn - History 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - History 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - History 1 (1982)(Sinclair Research)[16K].tzx" size 16141 crc f9059ba3 md5 a581b8fae08e8c0387fd50482ee5c0df sha1 c7226d40169add65e9842f1442709889e136b6a6 )
+)
+
+game (
+	name "Fun to Learn - Inventions 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - Inventions 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - Inventions 1 (1982)(Sinclair Research)[16K].tzx" size 16145 crc a3f8a185 md5 ea21951e5c41f4458f699e7c89b43444 sha1 93b389e66146f0aba514a64cdea2bf1ac6e37d92 )
+)
+
+game (
+	name "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K].tzx" size 7861 crc e8266d78 md5 99071d3bdca378b32ca01d895d6ac931 sha1 484eaab3c4ce848b669cacff19780683bb9bcda3 )
+)
+
+game (
+	name "Fun to Learn - Music 1 (1982)(Sinclair Research)[a][16K]"
+	description "Fun to Learn - Music 1 (1982)(Sinclair Research)[a][16K]"
+	rom ( name "Fun to Learn - Music 1 (1982)(Sinclair Research)[a][16K].tzx" size 15882 crc 9b30b584 md5 f64743f01322373ac9f9ac912a0f1436 sha1 e72a7ef56d7fe3cebd6af7de9ef7448f7288a979 )
+)
+
+game (
+	name "Fundamental Algebra (1984)(Griffin Software)(Side A)"
+	description "Fundamental Algebra (1984)(Griffin Software)(Side A)"
+	rom ( name "Fundamental Algebra (1984)(Griffin Software)(Side A).tzx" size 169350 crc 31006342 md5 05af3c59e5e41ab70e41853cde861e90 sha1 b8a162356fdf3e0c2e7125387fbc9e1c1af5a574 )
+)
+
+game (
+	name "Fundamental Algebra (1984)(Griffin Software)(Side B)"
+	description "Fundamental Algebra (1984)(Griffin Software)(Side B)"
+	rom ( name "Fundamental Algebra (1984)(Griffin Software)(Side B).tzx" size 64232 crc 7ed24cea md5 9cae96f8a73f5d888e86cb317499c820 sha1 44e0df3f0368ca5ab312df3775c8f00215e35911 )
+)
+
+game (
+	name "German is Fun (1983)(CDS Microsystems)"
+	description "German is Fun (1983)(CDS Microsystems)"
+	rom ( name "German is Fun (1983)(CDS Microsystems).tzx" size 40991 crc c92a52a0 md5 393c152040f5e98502d751ed1ea83761 sha1 108d2457153846db19417f1acfca3ec0019b7f3d )
+)
+
+game (
+	name "Italian is Fun (1984)(CDS Microsystems)"
+	description "Italian is Fun (1984)(CDS Microsystems)"
+	rom ( name "Italian is Fun (1984)(CDS Microsystems).tzx" size 40523 crc d9531537 md5 87c8e228484ed8e4afc6ee1fcf59932f sha1 c0d30f2b310c18f16353e16c02fcce8330399057 )
+)
+
+game (
+	name "Junior Education (1982)(Calpac Educational Software)(Side A)[16K]"
+	description "Junior Education (1982)(Calpac Educational Software)(Side A)[16K]"
+	rom ( name "Junior Education (1982)(Calpac Educational Software)(Side A)[16K].tzx" size 34875 crc 65f806fc md5 a888afa4e09e159842298282462cd8b6 sha1 d3be49c0f42976f5cf3554e080bc6724ef2e7d5c )
+)
+
+game (
+	name "Junior Education (1982)(Calpac Educational Software)(Side B)[16K]"
+	description "Junior Education (1982)(Calpac Educational Software)(Side B)[16K]"
+	rom ( name "Junior Education (1982)(Calpac Educational Software)(Side B)[16K].tzx" size 44776 crc 45fe483e md5 db5b83d48668122c5386c712a9c0c230 sha1 be604e65260e68ea19797596c8bca689a3d1c72e )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side A)"
+	description "Know Your Tables (1983)(Collins Educational)(Side A)"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side A).tzx" size 6956 crc 74102f07 md5 7efcbb7de873df28123c22a2ce7eb1f6 sha1 31673ee94d7cbaad8c84923218a21bc070f5750d )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side A)[a]"
+	description "Know Your Tables (1983)(Collins Educational)(Side A)[a]"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side A)[a].tzx" size 6782 crc 38339315 md5 5ed2670bc534bfdaf348322cba60dca5 sha1 fa1f35704c73f5926ee506d9251aadc8e1363cf0 )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side B)"
+	description "Know Your Tables (1983)(Collins Educational)(Side B)"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side B).tzx" size 7598 crc 427cb00d md5 053c08dcab703f0427a834a8a8f885bb sha1 b4defd74ae9babb7a17510c800602edb974ffa83 )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side B)[a]"
+	description "Know Your Tables (1983)(Collins Educational)(Side B)[a]"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side B)[a].tzx" size 7494 crc 377e6ef8 md5 4cb0da15009ffc16f2d24308bed282d8 sha1 86ff7c579a4d61cebe02ca16e6c307ca1eb86430 )
+)
+
+game (
+	name "Koekoek (1984)(Edusystems)(nl)"
+	description "Koekoek (1984)(Edusystems)(nl)"
+	rom ( name "Koekoek (1984)(Edusystems)(nl).tzx" size 21960 crc 53d5b18d md5 7ba92af2d0384375894faf965c7dc3a7 sha1 2ded20df19331b2f918acb00b1c2e3d318428c58 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A).tzx" size 38534 crc e9e811c3 md5 312fe91ca0c465cc0923be174eea0878 sha1 57cab53e00013d52a40db38078346ad44fcce603 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)[a]"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)[a]"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)[a].tzx" size 38364 crc 06539208 md5 0b097c397819cb994260abf5667b8343 sha1 9af8a0f1f09348398e0d41b39a2ef763c64321fc )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B).tzx" size 23424 crc 7b5e7770 md5 b09519a0e1665c789f4088da80432b3f sha1 cdfdb81c59fd334354b3836176c3702eb0e0e2ac )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)[a]"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)[a]"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)[a].tzx" size 23254 crc 331f22ec md5 6076e8fd32bbf9d9454233b6bed1900e sha1 f026f452d18e4ff238bbb4990957f28dcf79463d )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2).tzx" size 61805 crc 45c97e45 md5 6748729f4576cf090de61ee8c6b0ea0c sha1 80b0d0d9a94e7e63fce586781bbc76166e3354f7 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A).tzx" size 10646 crc c5d814f8 md5 fe7d26df22efc7814e5e7e3ad6ef8408 sha1 50a5fb86c52baa43a1179f461967d606cf5275d4 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)[a]"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)[a]"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)[a].tzx" size 10616 crc c9acc0aa md5 0ccf1f53ed71903719c17a963dcab453 sha1 c44da9de6c35ca68a113899ed505fc00b7a35c5a )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B).tzx" size 6946 crc 79db45f3 md5 82e0392bc7646421f278c1ad5d8356fd sha1 796956df3724d1c7d049726767303f402c082ec8 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)[a]"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)[a]"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)[a].tzx" size 6916 crc 5c6a03ca md5 08a207bc88abdfce957764c4e3cdfa33 sha1 2527b609c85a5bfbc044f92250bfb12e346ff885 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2).tzx" size 17719 crc 6a4aa4d4 md5 36a53f64d6ad84187e49e65c02fed755 sha1 5de69e3dce0c98d1dda14f7e0cac9c9f3061f8e0 )
+)
+
+game (
+	name "Learn to Program (1983)(St. Michael)"
+	description "Learn to Program (1983)(St. Michael)"
+	rom ( name "Learn to Program (1983)(St. Michael).tzx" size 140458 crc b22c8b3e md5 9c498efae2d1a867764f0e1adead107d sha1 176c65492f37aab968c9ba3cf4b1da35f7a9238a )
+)
+
+game (
+	name "Learn to Read - Alphabetter (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read - Alphabetter (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read - Alphabetter (1984)(Macmillan Software - Sinclair Research).tzx" size 35135 crc 62d9cdb0 md5 24d46551c50381d25c5229525f48527f sha1 ab30c9f5896194dadb12b667f1f1e7e6e8481cca )
+)
+
+game (
+	name "Learn to Read 1 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 1 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 1 (1984)(Macmillan Software - Sinclair Research).tzx" size 29119 crc 440bc552 md5 5da11c5767c2c81d0baf374c2a957b72 sha1 bd08bedf8aaefe6613f3e2ca0d3d6b9e8e9462bd )
+)
+
+game (
+	name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research).tzx" size 32495 crc e211f9c7 md5 c4e5c2c231eb9f30b0a8f2e5d4e181f6 sha1 a07f78b9542fba4731e5613acb71794682dd0a40 )
+)
+
+game (
+	name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)[a]"
+	description "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)[a]"
+	rom ( name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)[a].tzx" size 32495 crc 60c73def md5 9e274f0c31ec80549a91533f21a148ec sha1 e46abb5e27d616fc6bb795b5e584286a33ef1ece )
+)
+
+game (
+	name "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research).tzx" size 34657 crc 1ac682c1 md5 0e864a026ceeebc20f1311c9f6be5804 sha1 9502b6630b95423ecde8809144453fd7cabb5893 )
+)
+
+game (
+	name "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research)[a]"
+	description "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research)[a]"
+	rom ( name "Learn to Read 3 (1984)(Macmillan Software - Sinclair Research)[a].tzx" size 34671 crc f9ed9b86 md5 b4efd8f7b9d42f824fbedb35e9bce1cc sha1 7051bc0fcd47829cd14199538cf460656be726d9 )
+)
+
+game (
+	name "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research).tzx" size 27634 crc e5d2762f md5 eb653e69ca88e1c138595e71526befe0 sha1 d9d08a67139d475c68f045a55ca77bac2f759330 )
+)
+
+game (
+	name "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research)[a]"
+	description "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research)[a]"
+	rom ( name "Learn to Read 4 (1984)(Macmillan Software - Sinclair Research)[a].tzx" size 10762 crc 019b0d06 md5 2ccda0a84e65387226b9ff5ba1f26ce1 sha1 f69d58da29b2da8edd1e2a98e65f4fac73c36e9b )
+)
+
+game (
+	name "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research).tzx" size 28946 crc 660190a6 md5 93c4bf15e5e22b4607e0b5890b24f573 sha1 ad348cc670b0307bff7883224df286b23437c2ac )
+)
+
+game (
+	name "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research)[a]"
+	description "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research)[a]"
+	rom ( name "Learn to Read 5 (1984)(Macmillan Software - Sinclair Research)[a].tzx" size 28946 crc 6aeb7d44 md5 e2c1efb850fa0b32129c1724ecc177c5 sha1 740d3223209f912934043bd19f14afda77ae95a7 )
+)
+
+game (
+	name "Learning to Read Music (1984)(Rose Software)[16K]"
+	description "Learning to Read Music (1984)(Rose Software)[16K]"
+	rom ( name "Learning to Read Music (1984)(Rose Software)[16K].tzx" size 15071 crc 9bb5d12c md5 ae3584ef92b21f175f0b3809ac5fa17f sha1 2a57646c56ba760e5cf062475cc73ae36d381b56 )
+)
+
+game (
+	name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side A)"
+	description "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side A)"
+	rom ( name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side A).tzx" size 36219 crc d6db4a71 md5 8f5c4a1d01971e08eb13116657917e4a sha1 37903165041af5db77fb9dfa4f0ca7a5dd410e2e )
+)
+
+game (
+	name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side B)"
+	description "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side B)"
+	rom ( name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 1 of 2 Side B).tzx" size 43617 crc 8112ca57 md5 5f35dcf99ba33fa001b8563f08c1fe8d sha1 8a9d0541e99028cd506421c65b006f660cd779ea )
+)
+
+game (
+	name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side A)"
+	description "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side A)"
+	rom ( name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side A).tzx" size 40667 crc 3efa673c md5 54f47ccfd7db71b0741473a40b3b6501 sha1 3ba7b18eacd7f6549e8ca9684f24a96bb5640ca3 )
+)
+
+game (
+	name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side B)"
+	description "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side B)"
+	rom ( name "Micro Primer Microelectronics Education Programme (1983)(Tecmedia)(Tape 2 of 2 Side B).tzx" size 39044 crc f3d1a294 md5 842b84438108bba068df129fc6ffd67d sha1 27ed05f4b73f7752ae9f391d8494f16fce3fef24 )
+)
+
+game (
+	name "North American Indians (1983)(Calpac Educational Software)"
+	description "North American Indians (1983)(Calpac Educational Software)"
+	rom ( name "North American Indians (1983)(Calpac Educational Software).tzx" size 6911 crc 4cf3563e md5 51c50570074cfe3b31f740e562c11362 sha1 e08a0dd24d7bd21794e9ac2cc83d75613f8f56b4 )
+)
+
+game (
+	name "Numberfun (1982)(Griffin Software)"
+	description "Numberfun (1982)(Griffin Software)"
+	rom ( name "Numberfun (1982)(Griffin Software).tzx" size 29434 crc a999a2d3 md5 20372dd01115734f3776ce98a0d64662 sha1 ea44c95efd1500fa011e492e378308b75e88ca14 )
+)
+
+game (
+	name "Numberfun (1982)(Griffin Software)(Side A)"
+	description "Numberfun (1982)(Griffin Software)(Side A)"
+	rom ( name "Numberfun (1982)(Griffin Software)(Side A).tzx" size 14826 crc 2b65ca31 md5 0d05e1560c77e30d653e6e4732771761 sha1 ae7cfcc3248845d9be33ebc470ae8decb8363aaa )
+)
+
+game (
+	name "Numberfun (1982)(Griffin Software)(Side B)"
+	description "Numberfun (1982)(Griffin Software)(Side B)"
+	rom ( name "Numberfun (1982)(Griffin Software)(Side B).tzx" size 14709 crc 7c2dde32 md5 3c04d099948e5e5703abf444be3da550 sha1 679a046fee2379ec67ff22bd6f60e3dad3bf932d )
+)
+
+game (
+	name "Nursery Rhyme Adventure (1984)(Collins Educational)(Side A)"
+	description "Nursery Rhyme Adventure (1984)(Collins Educational)(Side A)"
+	rom ( name "Nursery Rhyme Adventure (1984)(Collins Educational)(Side A).tzx" size 26722 crc b647ad45 md5 158d79d0790e594150b7d914e9898b6d sha1 e374ea3e1cf5ef887d8b7b78672036a4a3ba6dc3 )
+)
+
+game (
+	name "Nursery Rhyme Adventure (1984)(Collins Educational)(Side B)"
+	description "Nursery Rhyme Adventure (1984)(Collins Educational)(Side B)"
+	rom ( name "Nursery Rhyme Adventure (1984)(Collins Educational)(Side B).tzx" size 12754 crc 4c10be37 md5 58585f2b40a3e2e8151f9ea841dbc27e sha1 1da0de04d7554836fb2fa716fbbd1b2cf3b62ff4 )
+)
+
+game (
+	name "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side A)"
+	description "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side A)"
+	rom ( name "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side A).tzx" size 27209 crc 716519b3 md5 d6060f16ada5aeab30c01da9a6521e55 sha1 1af4cc5288361dd62d93f5577b4962d5755126e1 )
+)
+
+game (
+	name "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side B)"
+	description "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side B)"
+	rom ( name "O'Level - CSE Chemistry (1982)(Calpac Educational Software)(Side B).tzx" size 27113 crc b9d14f60 md5 7dda83810430283b90f404e8766e336e sha1 0c3dee5d30996ab77fb3ad896bf354ea8f0069c8 )
+)
+
+game (
+	name "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K]"
+	description "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K]"
+	rom ( name "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K].tzx" size 89380 crc 682a996e md5 dd1e2437a0553aa5896e91625d8e6aa6 sha1 88ca4ab458358cc4a97ae6baa75eb69733ef407c )
+)
+
+game (
+	name "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side A)[16K]"
+	description "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side A)[16K]"
+	rom ( name "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side A)[16K].tzx" size 47229 crc 1fedf24f md5 5a96983a1e7fcb9fa549be6e42e91f25 sha1 68482021f52507897b4a2540a486a306f886168f )
+)
+
+game (
+	name "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side B)[16K]"
+	description "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side B)[16K]"
+	rom ( name "O'Level Maths Revision - Equations & Inequalities (1984)(Rose Software)(Side B)[16K].tzx" size 44927 crc 8f5d6c4e md5 b4d171d271a7be4a759f3069b9f9bae0 sha1 7a101c9c926c30bd7c79e97df2282bed9e5d3205 )
+)
+
+game (
+	name "O'Level Maths Revision - Geometry (1983)(Rose Software)[16K]"
+	description "O'Level Maths Revision - Geometry (1983)(Rose Software)[16K]"
+	rom ( name "O'Level Maths Revision - Geometry (1983)(Rose Software)[16K].tzx" size 89183 crc c536a887 md5 0b842c5aa88da41e391550b79d734127 sha1 46905e6de5b1bce7e9def02023a100b02a0c6f45 )
+)
+
+game (
+	name "O'Level Maths Revision - Trigonometry (1983)(Rose Software)"
+	description "O'Level Maths Revision - Trigonometry (1983)(Rose Software)"
+	rom ( name "O'Level Maths Revision - Trigonometry (1983)(Rose Software).tzx" size 82963 crc e41ac585 md5 bbc79c0bf8bfca827c9ad3386682d8b3 sha1 f5a7fca9dea87556b687b085aa24cbb35176be77 )
+)
+
+game (
+	name "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side A)"
+	description "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side A)"
+	rom ( name "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side A).tzx" size 37446 crc 14b83fa5 md5 e0db4145c12e515e3cb974c50f9e3f62 sha1 3af4da5e339de0a7534d8fc228a28efe2ecb3597 )
+)
+
+game (
+	name "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side B)"
+	description "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side B)"
+	rom ( name "O'Level Maths Revision - Trigonometry (1983)(Rose Software)(Side B).tzx" size 45441 crc c1a099e9 md5 8fd779ceec8a9e7d07ac89ed8863321c sha1 0205aa2656d74fd86a8a64321a5bfc42fb7788ae )
+)
+
+game (
+	name "Physics (1983)(Homestudy)(Side A)"
+	description "Physics (1983)(Homestudy)(Side A)"
+	rom ( name "Physics (1983)(Homestudy)(Side A).tzx" size 278747 crc aaf04790 md5 b46cf5f580f34078434efd40516e3fe6 sha1 f9963c2f2eb2c2e53e209cc63576978b8ce9eb07 )
+)
+
+game (
+	name "Physics (1983)(Homestudy)(Side B)"
+	description "Physics (1983)(Homestudy)(Side B)"
+	rom ( name "Physics (1983)(Homestudy)(Side B).tzx" size 157064 crc 2456cfb6 md5 105c31c241fa2810ecc13c62961bb764 sha1 04045a389042c2cf79b315a71535a681b87523b3 )
+)
+
+game (
+	name "Physics (1985)(Collins Educational)(Side A)"
+	description "Physics (1985)(Collins Educational)(Side A)"
+	rom ( name "Physics (1985)(Collins Educational)(Side A).tzx" size 153589 crc e6a0c1f4 md5 0337a81ab46b5cac2b48dd10d1a537fb sha1 d33699f46ff09b6f26a6084ec50f290946e774eb )
+)
+
+game (
+	name "Physics (1985)(Collins Educational)(Side B)"
+	description "Physics (1985)(Collins Educational)(Side B)"
+	rom ( name "Physics (1985)(Collins Educational)(Side B).tzx" size 192674 crc ce24e0da md5 d31040077f94b47b7e5ff0c38753267d sha1 91d14651353171cc637b893e902f617546b5a439 )
+)
+
+game (
+	name "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side A)"
+	description "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side A)"
+	rom ( name "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side A).tzx" size 63017 crc 6d6577b0 md5 ac615129df4cbab0d570f58ed8f2d7c3 sha1 a9108e1006e619004a200f01be31b0b278893875 )
+)
+
+game (
+	name "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side B)"
+	description "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side B)"
+	rom ( name "Physics - Examination Practice & Tests O Level (19xx)(Sphere Software)(Side B).tzx" size 65442 crc 62d2b4c0 md5 a9246ff1f3ab91c06afe41cfcae89c21 sha1 34ef9b55a3832986c9e38987b5df67d95d0add58 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side A)"
+	description "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side A)"
+	rom ( name "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side A).tzx" size 39834 crc 8681f632 md5 c889254ebbc0f327eda5c3f62641d754 sha1 abd2eb617a8d24f2e4be51b4cf62ea85fd90ffa8 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side B)"
+	description "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side B)"
+	rom ( name "Physics - O-Level Revision and CSE (1985)(Longman Software)(Side B).tzx" size 85783 crc b202fec2 md5 25dd636623ea4168097936bf36b6845e sha1 a7860ddaf74ae71273874a1cadedb5b5fea5e1f4 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software).tzx" size 29685 crc 9021233b md5 ac2cc3c115465861c7065e4e70a6a56e sha1 0e5228006c52d223e2a06b31cd4bec849c4cc86b )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software).tzx" size 18071 crc cda787d5 md5 1e56911d6d2dadf2e14af316d97d684a sha1 1fac2bf9cb831826fefa150c2805d8c6c68ae86e )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Light (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Light (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Light (1985)(Longman Software).tzx" size 29740 crc 86cd1e6c md5 8f4131d006583dbb7bcf884663a7b571 sha1 ae64cdc808df26f8654c6b0e567e8836db78dedc )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software).tzx" size 26562 crc fd6cbdb4 md5 3bfe7f9e0b03821d60968d373949a1d0 sha1 9f490f8297e8edbca95a69ed22c55f1f830076c7 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Text (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Text (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Text (1985)(Longman Software).tzx" size 21847 crc 7517dd74 md5 c56cd995aed15719dcf414f0f212664e sha1 ec1f807ef42da0c61fe5d212fbb714f01e022ebe )
+)
+
+game (
+	name "Physics 1 (1983)(Think Tank Educational Software)(Side A)"
+	description "Physics 1 (1983)(Think Tank Educational Software)(Side A)"
+	rom ( name "Physics 1 (1983)(Think Tank Educational Software)(Side A).tzx" size 31621 crc a24ead4f md5 913aa28407e11dc3b20e48e062597882 sha1 2f5f3b2f34d02a4780bc463797a736926e80c4e4 )
+)
+
+game (
+	name "Physics 1 (1983)(Think Tank Educational Software)(Side B)"
+	description "Physics 1 (1983)(Think Tank Educational Software)(Side B)"
+	rom ( name "Physics 1 (1983)(Think Tank Educational Software)(Side B).tzx" size 43738 crc c8293145 md5 6e182508cb41b3fa402d5a81d2d3245b sha1 8612f9ee142f52dae9d1d215c583794fea39f0d7 )
+)
+
+game (
+	name "Physics O-A Level (1983)(Calisto)"
+	description "Physics O-A Level (1983)(Calisto)"
+	rom ( name "Physics O-A Level (1983)(Calisto).tzx" size 29066 crc bfc6c5fb md5 a77bb9a2aac5ba57b73ede189f93c645 sha1 adf39795603d02a4fa6dd97c70565419f359fea4 )
+)
+
+game (
+	name "Physics O-A Level (1983)(Paxman Promotions)[re-release]"
+	description "Physics O-A Level (1983)(Paxman Promotions)[re-release]"
+	rom ( name "Physics O-A Level (1983)(Paxman Promotions)[re-release].tzx" size 29080 crc 97a6dbcb md5 6c9d16ff3bb002d1f4ae7ae7c782fc7e sha1 5d94728a08f8933e85cec9a86201eb283eb40fb8 )
+)
+
+game (
+	name "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side A)"
+	description "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side A)"
+	rom ( name "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side A).tzx" size 35132 crc 40b3cfa6 md5 0fc9c66a7b77f1b15da6be9f5642c647 sha1 d6c36e7c8490ca2ee3ad2b93ff90382ed9e7256d )
+)
+
+game (
+	name "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side B)"
+	description "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side B)"
+	rom ( name "Spanish Tutor, The - Level A (1984)(Kosmos Software)(Side B).tzx" size 9754 crc 4af91ef6 md5 2a2a72bae27bad070175883d973ba731 sha1 c52c2517dd06d87c632fb971eb1f65a1c4077892 )
+)
+
+game (
+	name "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side A)"
+	description "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side A)"
+	rom ( name "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side A).tzx" size 35035 crc d15a55d7 md5 3cae84f85ef359fc2e3e6198c361f0f6 sha1 2b10ab6528cdd4b34da001f5b69b85a3e8d361a8 )
+)
+
+game (
+	name "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side B)"
+	description "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side B)"
+	rom ( name "Spanish Tutor, The - Level B (1984)(Kosmos Software)(Side B).tzx" size 19177 crc 4f9b5834 md5 79dbd5cee1f92d87be223ed6b84f8850 sha1 3d0d295633619c9ae88cd29b59bf2f5df307cf9c )
+)
+
+game (
+	name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A)"
+	description "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A)"
+	rom ( name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A).tzx" size 39911 crc 640a3ee7 md5 b993e579de912f8fe32bac991faf1bed sha1 40cb59c3668d0e1103c62a633fa88992908deda8 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A)[a]"
+	description "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A)[a]"
+	rom ( name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side A)[a].tzx" size 39795 crc 7deb614b md5 de874766d9207a7c0567e112b2c31510 sha1 4e122173b787343fd2756476af6fd9446a8d9a7c )
+)
+
+game (
+	name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B)"
+	description "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B)"
+	rom ( name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B).tzx" size 24423 crc f7125de6 md5 31d7c9c99bafb3e3d96ff269ebb7c017 sha1 d25c685584dd7c45b0c85734c589a48ebde70663 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B)[a]"
+	description "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B)[a]"
+	rom ( name "Spectrum Game Writers' Pack (1983)(Collins Educational)(Side B)[a].tzx" size 24307 crc 4f5e2ef0 md5 0658891f56fcb065ae9f0fc01cb4cf09 sha1 667213ca385fad8a60b2fe644768216513056a72 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Black Hole (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Black Hole (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Black Hole (1983)(Collins Educational).tzx" size 4476 crc f49a3491 md5 c762cf9f81efc3cd69f07edc97683a04 sha1 e44514a8c6833e4e45ca781722b1da4481fbbe1a )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Cards (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Cards (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Cards (1983)(Collins Educational).tzx" size 3556 crc 4a013d2f md5 6fec2bf801d4530f14a29bd41e05745f sha1 33628f7c0c6742491cd1623df39f68ed16564ec8 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Dragon's Lair (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Dragon's Lair (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Dragon's Lair (1983)(Collins Educational).tzx" size 8612 crc 38f4677e md5 a861cd8b386d8d69a18433271787192a sha1 046422b054e9dea48a1c1d122341a33f2afaf93c )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Hunter (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Hunter (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Hunter (1983)(Collins Educational).tzx" size 5923 crc 5efd8096 md5 b68a2cf63f71fa260379b87af111ba2a sha1 967b08738fb796d672c8c775391ca31daca09815 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Logicol (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Logicol (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Logicol (1983)(Collins Educational).tzx" size 5425 crc 4edf7919 md5 d7c8baf6100bf3edf6d922aa8566f79e sha1 96fbeb6c4fac9231f3efde3399728d7f6e44572f )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Maze (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Maze (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Maze (1983)(Collins Educational).tzx" size 3919 crc 564ccfaf md5 0035e1b1957fdb84b57643268f2712a0 sha1 6624678b0886a1bf43b20ce3eb5dcd51d3b02856 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Noughts & Crosses (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Noughts & Crosses (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Noughts & Crosses (1983)(Collins Educational).tzx" size 5206 crc 107819a0 md5 907276dc716e78aab607f6371dccff8e sha1 512549f77ccd7f3473ac46cba084a8566b7f1f48 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Poker Dice (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Poker Dice (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Poker Dice (1983)(Collins Educational).tzx" size 7338 crc 4c4903f3 md5 f3033560a7ad908bd6bdcbf73ff527ec sha1 4911afe6a001f6c4ffc00fc08e765310a4543f03 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Racing (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Racing (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Racing (1983)(Collins Educational).tzx" size 3834 crc b6f3a73a md5 8a07ef2aed55440c5e1841e2bc659169 sha1 68149311bab60ba3e87bd47826e78c0977ab9d44 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Space (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Space (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Space (1983)(Collins Educational).tzx" size 4664 crc 2cdb3c9f md5 f1be27f563fba1f5ad815a9a61286513 sha1 2ffd79b4cee7d7a6d10cb333e96b58b79765fc63 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Submarines (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Submarines (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Submarines (1983)(Collins Educational).tzx" size 8245 crc 6d2b5989 md5 b79309be328d50c6b9d3dfa10fd52536 sha1 51a4cdfd71567cf70e05e9cebcc02040b4ffb271 )
+)
+
+game (
+	name "Spectrum Game Writers' Pack - Target (1983)(Collins Educational)"
+	description "Spectrum Game Writers' Pack - Target (1983)(Collins Educational)"
+	rom ( name "Spectrum Game Writers' Pack - Target (1983)(Collins Educational).tzx" size 2914 crc a13ab7c8 md5 1b50c3851877e7492e425c4669ee5d32 sha1 81dcfdf1071a9325a1027c93029dcc48e0f53220 )
+)
+
+game (
+	name "Study Chemistry - 13 years+ (1983)(Scisoft)(Side A)"
+	description "Study Chemistry - 13 years+ (1983)(Scisoft)(Side A)"
+	rom ( name "Study Chemistry - 13 years+ (1983)(Scisoft)(Side A).tzx" size 51904 crc 27dc1e88 md5 d1bbb1c571defc0d09482df53bfd061c sha1 0746b265e9308242e0dcc79678e7d8d3dc944545 )
+)
+
+game (
+	name "Study Chemistry - 13 years+ (1983)(Scisoft)(Side B)"
+	description "Study Chemistry - 13 years+ (1983)(Scisoft)(Side B)"
+	rom ( name "Study Chemistry - 13 years+ (1983)(Scisoft)(Side B).tzx" size 44411 crc 90a0edc6 md5 96763cfda31e390b7f0e1de59ab380d7 sha1 a60fc44894198fcd12bc75d1d6fce98b0c3016d4 )
+)
+
+game (
+	name "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side A)"
+	description "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side A)"
+	rom ( name "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side A).tzx" size 27928 crc 4c012ff8 md5 d941b2a2006333f29ebf0c3110044c38 sha1 25f794309c3a1da68b004feb75548e959cfa05f6 )
+)
+
+game (
+	name "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side B)"
+	description "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side B)"
+	rom ( name "Study Maths 1 - 13 years+ (1983)(Scisoft)(Side B).tzx" size 14348 crc a3b635f6 md5 b23aab89f825ef99126103c1ac9b8dc3 sha1 4c36e0e186ca52c2b3cc524fde61ac1b49701ea7 )
+)
+
+game (
+	name "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft)"
+	description "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft)"
+	rom ( name "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft).tzx" size 7397 crc 798ae1b1 md5 6d726dc6191d044bf8b3ed9ef329e31e sha1 52925157123bafdb61e1c2752591485ebbf3d99d )
+)
+
+game (
+	name "Study Physics - 13 years+ (1983)(Scisoft)(Side A)"
+	description "Study Physics - 13 years+ (1983)(Scisoft)(Side A)"
+	rom ( name "Study Physics - 13 years+ (1983)(Scisoft)(Side A).tzx" size 57728 crc 819f6d50 md5 51b836fab9d07a1e7af43423166fb804 sha1 cc66497d8ba3af54532c70f9ce67c9891b70441d )
+)
+
+game (
+	name "Study Physics - 13 years+ (1983)(Scisoft)(Side B)"
+	description "Study Physics - 13 years+ (1983)(Scisoft)(Side B)"
+	rom ( name "Study Physics - 13 years+ (1983)(Scisoft)(Side B).tzx" size 54926 crc 8941a03f md5 c674a612f2a49e8839d4cde530fecea8 sha1 e59345086a09eff0f7421cafe2c9525a1d89b99d )
+)
+
+game (
+	name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)"
+	description "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)"
+	rom ( name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas).tzx" size 44751 crc 964283c9 md5 01308748a0633985d724af73d9cc2b74 sha1 1825aaef439463f30c30f0f27865f1f3d31bfd22 )
+)
+
+game (
+	name "What's the Time (1983)(Collins Educational)(Side A)"
+	description "What's the Time (1983)(Collins Educational)(Side A)"
+	rom ( name "What's the Time (1983)(Collins Educational)(Side A).tzx" size 17350 crc 0595ce9e md5 2e71d507113a83c41fd6c3d0b28da4e6 sha1 a0e87517ab86a0357d081207ab557f1c3f1eb93c )
+)
+
+game (
+	name "What's the Time (1983)(Collins Educational)(Side B)"
+	description "What's the Time (1983)(Collins Educational)(Side B)"
+	rom ( name "What's the Time (1983)(Collins Educational)(Side B).tzx" size 16780 crc d38bdcbd md5 fa2d656f011219c1dec275951af00dfa sha1 2fa540d8dbda241ab265ea04430381db0f9a8ade )
+)
+
+game (
+	name "What's the Time - Half Hours (1983)(Collins Educational)"
+	description "What's the Time - Half Hours (1983)(Collins Educational)"
+	rom ( name "What's the Time - Half Hours (1983)(Collins Educational).tzx" size 8479 crc 637af77e md5 56ce8943254e321aec7a1ad078823f8a sha1 b218083fa8da151d65149f7e81ea0b29c15c0f94 )
+)
+
+game (
+	name "What's the Time - Hours (1983)(Collins Educational)"
+	description "What's the Time - Hours (1983)(Collins Educational)"
+	rom ( name "What's the Time - Hours (1983)(Collins Educational).tzx" size 8629 crc 0f3d7f9f md5 92bd3632771b30ab9db7756031c5c54e sha1 089f4a80e7d23be53fee9218838d7968bd873e91 )
+)
+
+game (
+	name "What's the Time - Minutes (1983)(Collins Educational)"
+	description "What's the Time - Minutes (1983)(Collins Educational)"
+	rom ( name "What's the Time - Minutes (1983)(Collins Educational).tzx" size 8007 crc 64fcacba md5 4f1c32470bffbeccc224fb763066268b sha1 dabf674a457be468908efe26d9e7cb477a4a59cd )
+)
+
+game (
+	name "What's the Time - Quarter Hours (1983)(Collins Educational)"
+	description "What's the Time - Quarter Hours (1983)(Collins Educational)"
+	rom ( name "What's the Time - Quarter Hours (1983)(Collins Educational).tzx" size 8518 crc 3fd5ed26 md5 11077ac45c95df5295d677c03b998031 sha1 f91be909e1c4e7ae0976d9f1a38d9b4a6fcd3a16 )
+)
+

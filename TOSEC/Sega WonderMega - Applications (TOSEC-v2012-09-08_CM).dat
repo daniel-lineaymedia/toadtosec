@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sega WonderMega - Applications"
+	description "Sega WonderMega - Applications (TOSEC-v2012-09-08)"
+	category "Sega WonderMega - Applications"
+	version 2012-09-08
+	author "Cassiel"
+)
+
+game (
+	name "Wonder Library (1993)(JVC)(JP)"
+	description "Wonder Library (1993)(JVC)(JP)"
+	rom ( name "Wonder Library (1993)(JVC)(JP).bin" size 524288 crc 9350e754 md5 b772f18dd3fff8b61a6dc801aa74ed07 sha1 57b97d9ddecfa2e9a75c4a05cd2b7e821210155a )
+)
+

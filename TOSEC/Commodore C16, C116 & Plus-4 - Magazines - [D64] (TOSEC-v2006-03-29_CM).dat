@@ -1,0 +1,175 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Magazines - [D64]"
+	description "Commodore C16, C116 & Plus-4 - Magazines - [D64] (TOSEC-v2006-03-29)"
+	category "Commodore C16, C116 & Plus-4 - Magazines - [D64]"
+	version 2006-03-29
+	author "DesertWolf"
+)
+
+game (
+	name "Divine Page #1 (19xx)(-)(hu)"
+	description "Divine Page #1 (19xx)(-)(hu)"
+	rom ( name "Divine Page #1 (19xx)(-)(hu).d64" size 174848 crc 903c44b9 md5 4e64c6321bdf55001650e176da05cb14 )
+)
+
+game (
+	name "Divine Page #2 (1992)(Gods of the Universe)(hu)"
+	description "Divine Page #2 (1992)(Gods of the Universe)(hu)"
+	rom ( name "Divine Page #2 (1992)(Gods of the Universe)(hu).d64" size 174848 crc 8ce2b1ad md5 7fe287a2c7ea296c14e30a63e46893cf )
+)
+
+game (
+	name "MTV Prime #01 (1992-10)(-)"
+	description "MTV Prime #01 (1992-10)(-)"
+	rom ( name "MTV Prime #01 (1992-10)(-).d64" size 174848 crc c5c1e7d7 md5 5a8a391fdb38a16ad91032266513cf19 )
+)
+
+game (
+	name "Naked Disc 2 and a half (19xx)(Dokey Prisoners)"
+	description "Naked Disc 2 and a half (19xx)(Dokey Prisoners)"
+	rom ( name "Naked Disc 2 and a half (19xx)(Dokey Prisoners).d64" size 174848 crc aedba469 md5 8ceb52e9a2ba181bdbbfe895783334bd )
+)
+
+game (
+	name "Newsreel #26 (1995-12)(Wilds)"
+	description "Newsreel #26 (1995-12)(Wilds)"
+	rom ( name "Newsreel #26 (1995-12)(Wilds).d64" size 174848 crc 68b169dd md5 7bd434e756dba6f2aca0dd4a9b45ac53 )
+)
+
+game (
+	name "SCN News #27 (19xx)(-)(hu)"
+	description "SCN News #27 (19xx)(-)(hu)"
+	rom ( name "SCN News #27 (19xx)(-)(hu).d64" size 174848 crc 50dcfaba md5 a72d88c3b1e1384073d7b913986f0f60 )
+)
+
+game (
+	name "Signals #03 (19xx)(Synergy)(Side A)"
+	description "Signals #03 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #03 (19xx)(Synergy)(Side A).d64" size 174848 crc d45c70a0 md5 3a631141f24544ecdf42d4647173b2fa )
+)
+
+game (
+	name "Signals #03 (19xx)(Synergy)(Side B)"
+	description "Signals #03 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #03 (19xx)(Synergy)(Side B).d64" size 174848 crc 82eda589 md5 0230f12073e18665d0f4a45fe560fd3f )
+)
+
+game (
+	name "Signals #04 (19xx)(Synergy)"
+	description "Signals #04 (19xx)(Synergy)"
+	rom ( name "Signals #04 (19xx)(Synergy).d64" size 174848 crc 9e45d548 md5 db349b6964a32817a7a9b75995740046 )
+)
+
+game (
+	name "Signals #05 (19xx)(Synergy)"
+	description "Signals #05 (19xx)(Synergy)"
+	rom ( name "Signals #05 (19xx)(Synergy).d64" size 174848 crc 32706173 md5 ee64c80ca93f83065b1b7bcd36be68fd )
+)
+
+game (
+	name "Signals #06 (19xx)(Synergy)"
+	description "Signals #06 (19xx)(Synergy)"
+	rom ( name "Signals #06 (19xx)(Synergy).d64" size 174848 crc 87b458c2 md5 1586ac225ee3e3effd9a64eaf64c0aa4 )
+)
+
+game (
+	name "Signals #07 (19xx)(Synergy)"
+	description "Signals #07 (19xx)(Synergy)"
+	rom ( name "Signals #07 (19xx)(Synergy).d64" size 174848 crc 262ce4e0 md5 445943c16c366d1d48cf7c1d4d995659 )
+)
+
+game (
+	name "Signals #08 (19xx)(Synergy)(Side A)"
+	description "Signals #08 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #08 (19xx)(Synergy)(Side A).d64" size 174848 crc 132f5742 md5 a7588e2df6b91dcdc57897bfd160e5c7 )
+)
+
+game (
+	name "Signals #08 (19xx)(Synergy)(Side B)"
+	description "Signals #08 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #08 (19xx)(Synergy)(Side B).d64" size 174848 crc 23dfbb58 md5 5d75d8669f605ba33f70f9a104045d58 )
+)
+
+game (
+	name "Signals #09 (19xx)(Synergy)(Side A)"
+	description "Signals #09 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #09 (19xx)(Synergy)(Side A).d64" size 174848 crc bf882854 md5 c3f31adc4c67ce1c9a51719677ce0cf2 )
+)
+
+game (
+	name "Signals #09 (19xx)(Synergy)(Side B)"
+	description "Signals #09 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #09 (19xx)(Synergy)(Side B).d64" size 174848 crc 1aa04938 md5 7b6de4dc21707c328253f040d8176c3f )
+)
+
+game (
+	name "Signals #10 (19xx)(Synergy)(Side A)"
+	description "Signals #10 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #10 (19xx)(Synergy)(Side A).d64" size 174848 crc 1bb3d6de md5 cdfb769feb0fc1014b4e850fe54aa869 )
+)
+
+game (
+	name "Signals #10 (19xx)(Synergy)(Side B)"
+	description "Signals #10 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #10 (19xx)(Synergy)(Side B).d64" size 174848 crc d93bf0b5 md5 e91e79c2f6e601446c9a64434193c665 )
+)
+
+game (
+	name "Signals #11 (19xx)(Synergy)(Side A)"
+	description "Signals #11 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #11 (19xx)(Synergy)(Side A).d64" size 174848 crc 01c2a726 md5 e18735741d31eefc745b481335711913 )
+)
+
+game (
+	name "Signals #11 (19xx)(Synergy)(Side B)"
+	description "Signals #11 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #11 (19xx)(Synergy)(Side B).d64" size 174848 crc 4496fed6 md5 4a98129f52c72ea8ce161a4f2e757e7b )
+)
+
+game (
+	name "Signals #12 (19xx)(Synergy)(Side A)"
+	description "Signals #12 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #12 (19xx)(Synergy)(Side A).d64" size 174848 crc 7d68a1a1 md5 f3484f3e4c04117bd86a5c2b165db415 )
+)
+
+game (
+	name "Signals #12 (19xx)(Synergy)(Side B)"
+	description "Signals #12 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #12 (19xx)(Synergy)(Side B).d64" size 174848 crc a7fe5b92 md5 db4ce15e13fabc37ce12a4ea5bffeccc )
+)
+
+game (
+	name "Signals #13 (19xx)(Synergy)(Side A)"
+	description "Signals #13 (19xx)(Synergy)(Side A)"
+	rom ( name "Signals #13 (19xx)(Synergy)(Side A).d64" size 174848 crc 22807b26 md5 8fecbf6fe3abe0947424b3dc114ff921 )
+)
+
+game (
+	name "Signals #13 (19xx)(Synergy)(Side B)"
+	description "Signals #13 (19xx)(Synergy)(Side B)"
+	rom ( name "Signals #13 (19xx)(Synergy)(Side B).d64" size 174848 crc 074ec25a md5 1de361e833b7dd107d4bca90e3f8323a )
+)
+
+game (
+	name "Signals #14 (19xx)(Synergy)"
+	description "Signals #14 (19xx)(Synergy)"
+	rom ( name "Signals #14 (19xx)(Synergy).d64" size 174848 crc ab8c9546 md5 b305677af7db69dc8a01e0b62fa3088b )
+)
+
+game (
+	name "Terror news #21 (1991)(Terrorists)(hu)"
+	description "Terror news #21 (1991)(Terrorists)(hu)"
+	rom ( name "Terror news #21 (1991)(Terrorists)(hu).d64" size 174848 crc fa5f5b1b md5 793417cdae7af35942c5ed12957bd621 )
+)
+
+game (
+	name "Terror news #22 (1991)(Terrorists)(hu)"
+	description "Terror news #22 (1991)(Terrorists)(hu)"
+	rom ( name "Terror news #22 (1991)(Terrorists)(hu).d64" size 174848 crc 8b983ac1 md5 43216510191cceb0b7464a8ce9aa8d0a )
+)
+
+game (
+	name "Traffic Jam #04 (19xx)(ACE)"
+	description "Traffic Jam #04 (19xx)(ACE)"
+	rom ( name "Traffic Jam #04 (19xx)(ACE).d64" size 174848 crc a994a144 md5 83903e92b345ee57ccdd27369638a516 )
+)

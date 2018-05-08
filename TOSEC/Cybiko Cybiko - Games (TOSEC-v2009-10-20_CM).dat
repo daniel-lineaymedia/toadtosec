@@ -1,0 +1,2012 @@
+clrmamepro (
+	name "Cybiko Cybiko - Games"
+	description "Cybiko Cybiko - Games (TOSEC-v2009-10-20)"
+	category "Cybiko Cybiko - Games"
+	version 2009-10-20
+	author "Apache - Cassiel"
+)
+
+game (
+	name "8 Ball v1.2.18 (200x)(Cybiko)"
+	description "8 Ball v1.2.18 (200x)(Cybiko)"
+	rom ( name "8 Ball v1.2.18 (200x)(Cybiko).app" size 20908 crc 93827839 md5 c86c856753a8aa8b5fa354fbeb02ef42 )
+)
+
+game (
+	name "9 Ball v1.2.5 (200x)(Cybiko)"
+	description "9 Ball v1.2.5 (200x)(Cybiko)"
+	rom ( name "9 Ball v1.2.5 (200x)(Cybiko).app" size 21121 crc 5beba630 md5 47f2a6deb43d7bdfbe88027e48afa04f )
+)
+
+game (
+	name "Adventure Fighter v1.1.9 (200x)(Cybiko)"
+	description "Adventure Fighter v1.1.9 (200x)(Cybiko)"
+	rom ( name "Adventure Fighter v1.1.9 (200x)(Cybiko).app" size 79077 crc ff86afba md5 41e0a8c7654f1ed5d3aeced84370504c )
+)
+
+game (
+	name "Air Brigade v1.1.39 (200x)(Cybiko)"
+	description "Air Brigade v1.1.39 (200x)(Cybiko)"
+	rom ( name "Air Brigade v1.1.39 (200x)(Cybiko).app" size 29186 crc 3d86078c md5 7acc0c5c2b0b91e0cb14d6f843eaa469 )
+)
+
+game (
+	name "Air Raid v1.1.13 (200x)(Cybiko)"
+	description "Air Raid v1.1.13 (200x)(Cybiko)"
+	rom ( name "Air Raid v1.1.13 (200x)(Cybiko).app" size 20297 crc 6d900c2c md5 effeb80aa4bf11b44871fbd3a379cdbd )
+)
+
+game (
+	name "Alien Invasion v1.1.3 (200x)(Cybiko)"
+	description "Alien Invasion v1.1.3 (200x)(Cybiko)"
+	rom ( name "Alien Invasion v1.1.3 (200x)(Cybiko).app" size 30391 crc 40622d26 md5 5b9c5f9f1d4a1737515bfec403c6b494 )
+)
+
+game (
+	name "Alien Invasion 2 v1.1.12 (200x)(Cybiko)"
+	description "Alien Invasion 2 v1.1.12 (200x)(Cybiko)"
+	rom ( name "Alien Invasion 2 v1.1.12 (200x)(Cybiko).app" size 58512 crc dde9b81e md5 ee6d68693b7cb11cbe623076bb3a5e8a )
+)
+
+game (
+	name "Amphibian Armageddon (200x)(Cybiko)"
+	description "Amphibian Armageddon (200x)(Cybiko)"
+	rom ( name "Amphibian Armageddon (200x)(Cybiko).app" size 17826 crc 3944b2c9 md5 877fe75f4902dbc1c90e962db06f9e94 )
+)
+
+game (
+	name "Arm-A-Getting 2 v1.1.11 (200x)(Cybiko)"
+	description "Arm-A-Getting 2 v1.1.11 (200x)(Cybiko)"
+	rom ( name "Arm-A-Getting 2 v1.1.11 (200x)(Cybiko).app" size 40769 crc 21792c79 md5 244481611d37cf4f14e524923c459f72 )
+)
+
+game (
+	name "Armour of God v1.1.7 (200x)(Cybiko)"
+	description "Armour of God v1.1.7 (200x)(Cybiko)"
+	rom ( name "Armour of God v1.1.7 (200x)(Cybiko).app" size 54037 crc d9b749e8 md5 9b86a24de0dd42e03bd90e1802aff59e )
+)
+
+game (
+	name "Asteroids (200x)(CyBuilder)(PD)"
+	description "Asteroids (200x)(CyBuilder)(PD)"
+	rom ( name "Asteroids (200x)(CyBuilder)(PD).app" size 5815 crc 2903d6a6 md5 0b0b37f4ec7bf09937056ecc6302f017 )
+)
+
+game (
+	name "Attack of the Killer Bees v1.1.25 (200x)(Cybiko)"
+	description "Attack of the Killer Bees v1.1.25 (200x)(Cybiko)"
+	rom ( name "Attack of the Killer Bees v1.1.25 (200x)(Cybiko).app" size 36792 crc 7ed8c9f5 md5 59598673e5cd2169515491b322727d22 )
+)
+
+game (
+	name "Baja Beast v1.1.15 (200x)(Cybiko)"
+	description "Baja Beast v1.1.15 (200x)(Cybiko)"
+	rom ( name "Baja Beast v1.1.15 (200x)(Cybiko).app" size 49749 crc a1342841 md5 c79005b8742547d1f50470e559af4e85 )
+)
+
+game (
+	name "Balda v1.1.1 (200x)(Cybiko)"
+	description "Balda v1.1.1 (200x)(Cybiko)"
+	rom ( name "Balda v1.1.1 (200x)(Cybiko).app" size 24672 crc b956233c md5 1614c6f614e70a639356666b9a7092f9 )
+)
+
+game (
+	name "Balloon Pop (200x)(Thomas R)(PD)"
+	description "Balloon Pop (200x)(Thomas R)(PD)"
+	rom ( name "Balloon Pop (200x)(Thomas R)(PD).app" size 12688 crc d989af04 md5 9bcf5968b673a8a46bf37b4f11cd3bed )
+)
+
+game (
+	name "Bang Ball 2 v2.1.8 (200x)(Cybiko)"
+	description "Bang Ball 2 v2.1.8 (200x)(Cybiko)"
+	rom ( name "Bang Ball 2 v2.1.8 (200x)(Cybiko).app" size 12638 crc d254e99c md5 7aae5749d24d68bd2c1a89eefd9c192f )
+)
+
+game (
+	name "Barman v1.1.7 (200x)(Cybiko)"
+	description "Barman v1.1.7 (200x)(Cybiko)"
+	rom ( name "Barman v1.1.7 (200x)(Cybiko).app" size 22490 crc b4f80321 md5 2904087e5152dccc6df017e057d57bda )
+)
+
+game (
+	name "Battle Tower (200x)(Jace D.)(PD)"
+	description "Battle Tower (200x)(Jace D.)(PD)"
+	rom ( name "Battle Tower (200x)(Jace D.)(PD).app" size 22084 crc f9163c24 md5 a1f58f0fc26c308c5f34da4b39fc6048 )
+)
+
+game (
+	name "Beanstalk v1.1.9 (200x)(Cybiko)"
+	description "Beanstalk v1.1.9 (200x)(Cybiko)"
+	rom ( name "Beanstalk v1.1.9 (200x)(Cybiko).app" size 21508 crc 478db555 md5 861a125fcf1f39ebdb71b93a742fb838 )
+)
+
+game (
+	name "Billiards v1.1.1 (200x)(Cybiko)"
+	description "Billiards v1.1.1 (200x)(Cybiko)"
+	rom ( name "Billiards v1.1.1 (200x)(Cybiko).app" size 14781 crc 531e8e99 md5 36d4c6975f547a5b502fdff5e7759b18 )
+)
+
+game (
+	name "Bingo v1.1.19 (200x)(Cybiko)"
+	description "Bingo v1.1.19 (200x)(Cybiko)"
+	rom ( name "Bingo v1.1.19 (200x)(Cybiko).app" size 16499 crc a6376198 md5 3ccac1787e2faefdde7a344679bc0fe8 )
+)
+
+game (
+	name "Black v1.1.5 (200x)(Cybiko)"
+	description "Black v1.1.5 (200x)(Cybiko)"
+	rom ( name "Black v1.1.5 (200x)(Cybiko).app" size 10232 crc 463cea28 md5 a1831c7e721a54b2a107c4239d9f98f0 )
+)
+
+game (
+	name "Blackjack v1.1.1 (200x)(Cybiko)"
+	description "Blackjack v1.1.1 (200x)(Cybiko)"
+	rom ( name "Blackjack v1.1.1 (200x)(Cybiko).app" size 21393 crc 237bc5c4 md5 2ab298426744b933431557bef789d76a )
+)
+
+game (
+	name "Blade of the Samurai v1.1.11 (200x)(Cybiko)"
+	description "Blade of the Samurai v1.1.11 (200x)(Cybiko)"
+	rom ( name "Blade of the Samurai v1.1.11 (200x)(Cybiko).app" size 87678 crc 5b3deca7 md5 32dedd117319f7a525f344e15c6e79d7 )
+)
+
+game (
+	name "Blazing Boards (200x)(Cybiko)"
+	description "Blazing Boards (200x)(Cybiko)"
+	rom ( name "Blazing Boards (200x)(Cybiko).app" size 47804 crc fe1ff5e7 md5 2e2360bc4a4e5dbdb4316175803f4824 )
+)
+
+game (
+	name "Blazing Boards 2 v1.2.47 (200x)(Cybiko)"
+	description "Blazing Boards 2 v1.2.47 (200x)(Cybiko)"
+	rom ( name "Blazing Boards 2 v1.2.47 (200x)(Cybiko).app" size 121717 crc 86f58f7e md5 107f2489f752e85518451c55d02af80f )
+)
+
+game (
+	name "Blazing Boards 2 - Inner City Bad-Boy v1.3.12 (200x)(Cybiko)"
+	description "Blazing Boards 2 - Inner City Bad-Boy v1.3.12 (200x)(Cybiko)"
+	rom ( name "Blazing Boards 2 - Inner City Bad-Boy v1.3.12 (200x)(Cybiko).app" size 52464 crc 77720466 md5 5020e7033356a3e7dc039f781c67c920 )
+)
+
+game (
+	name "Blazing Boards 2 - Pacific Shred v1.3.12 (200x)(Cybiko)"
+	description "Blazing Boards 2 - Pacific Shred v1.3.12 (200x)(Cybiko)"
+	rom ( name "Blazing Boards 2 - Pacific Shred v1.3.12 (200x)(Cybiko).app" size 53158 crc d55e8659 md5 a6402ba0f092e2f2d4cb0e55f2f2cec4 )
+)
+
+game (
+	name "Blazing Boards 2 - Thunder Road v1.3.12 (200x)(Cybiko)"
+	description "Blazing Boards 2 - Thunder Road v1.3.12 (200x)(Cybiko)"
+	rom ( name "Blazing Boards 2 - Thunder Road v1.3.12 (200x)(Cybiko).app" size 52559 crc 1ea1c4c5 md5 7fb235417bd052e7865b2690832ef3d0 )
+)
+
+game (
+	name "Block Box v1.1.10 (200x)(Cybiko)"
+	description "Block Box v1.1.10 (200x)(Cybiko)"
+	rom ( name "Block Box v1.1.10 (200x)(Cybiko).app" size 22110 crc a282c3b5 md5 f6a8ba376a3b9bb3463cdfe082fe69e1 )
+)
+
+game (
+	name "Bolotudu 2 v2.1.17 (200x)(Cybiko)"
+	description "Bolotudu 2 v2.1.17 (200x)(Cybiko)"
+	rom ( name "Bolotudu 2 v2.1.17 (200x)(Cybiko).app" size 23310 crc bc930068 md5 2c621537de4f31b421e800c97aff31c9 )
+)
+
+game (
+	name "Boom! (200x)(Perry, Andrew)(PD)"
+	description "Boom! (200x)(Perry, Andrew)(PD)"
+	rom ( name "Boom! (200x)(Perry, Andrew)(PD).app" size 28595 crc 1c4bdbec md5 31e2225bceae91eaad39777d06a66554 )
+)
+
+game (
+	name "Bounce Check v1.1.20 (200x)(Cybiko)"
+	description "Bounce Check v1.1.20 (200x)(Cybiko)"
+	rom ( name "Bounce Check v1.1.20 (200x)(Cybiko).app" size 30827 crc 8b624768 md5 18bc29665951cc9dfa29dfb286a8b167 )
+)
+
+game (
+	name "Branch 2 v1.2.7 (200x)(Cybiko)"
+	description "Branch 2 v1.2.7 (200x)(Cybiko)"
+	rom ( name "Branch 2 v1.2.7 (200x)(Cybiko).app" size 10882 crc 59b04a1b md5 8be2943bb7f2d9e339728f3df8421eea )
+)
+
+game (
+	name "Bridge v1.1.10 (200x)(Cybiko)"
+	description "Bridge v1.1.10 (200x)(Cybiko)"
+	rom ( name "Bridge v1.1.10 (200x)(Cybiko).app" size 28036 crc 9f954efc md5 751256566818b31e5917e0e15a36bb07 )
+)
+
+game (
+	name "Broken Hearts v1.2.12 (200x)(Cybiko)"
+	description "Broken Hearts v1.2.12 (200x)(Cybiko)"
+	rom ( name "Broken Hearts v1.2.12 (200x)(Cybiko).app" size 16680 crc 17371724 md5 8693ffad321537e745d048f21946f787 )
+)
+
+game (
+	name "Bronco Rider v1.1.26 (200x)(Cybiko)"
+	description "Bronco Rider v1.1.26 (200x)(Cybiko)"
+	rom ( name "Bronco Rider v1.1.26 (200x)(Cybiko).app" size 41994 crc 3c2d43d7 md5 5fa190589d0d40ac185bd53788dacc0e )
+)
+
+game (
+	name "Bubble Bug Blast 2 v1.1.20 (200x)(Cybiko)"
+	description "Bubble Bug Blast 2 v1.1.20 (200x)(Cybiko)"
+	rom ( name "Bubble Bug Blast 2 v1.1.20 (200x)(Cybiko).app" size 17250 crc fb4378c1 md5 665f6eee0626c98fffcb168f298d3a26 )
+)
+
+game (
+	name "Bug Races v1.1.1 (200x)(Cybiko)"
+	description "Bug Races v1.1.1 (200x)(Cybiko)"
+	rom ( name "Bug Races v1.1.1 (200x)(Cybiko).app" size 21011 crc c0fead38 md5 2cfdb58591b024771c13ebe2ce998fbc )
+)
+
+game (
+	name "Bug Stomp v1.1.16 (200x)(Cybiko)"
+	description "Bug Stomp v1.1.16 (200x)(Cybiko)"
+	rom ( name "Bug Stomp v1.1.16 (200x)(Cybiko).app" size 16514 crc 82167486 md5 b0dbee276a13443bf86451d55fc809d6 )
+)
+
+game (
+	name "Bughouse v1.1.30 (200x)(Cybiko)"
+	description "Bughouse v1.1.30 (200x)(Cybiko)"
+	rom ( name "Bughouse v1.1.30 (200x)(Cybiko).app" size 15088 crc dfe37268 md5 bc48a68f72aa635ee076f7d38c47a469 )
+)
+
+game (
+	name "Bustin Blox TM v1.1.17 (200x)(Cybiko)"
+	description "Bustin Blox TM v1.1.17 (200x)(Cybiko)"
+	rom ( name "Bustin Blox TM v1.1.17 (200x)(Cybiko).app" size 9389 crc 854de6a1 md5 cc7825755a213c560c2bb202bc3cdbe7 )
+)
+
+game (
+	name "Capture v1.1.41 (200x)(Cybiko)"
+	description "Capture v1.1.41 (200x)(Cybiko)"
+	rom ( name "Capture v1.1.41 (200x)(Cybiko).app" size 15713 crc ca864b5d md5 b02d8410a3ee602c10ed6c7a33aae2c7 )
+)
+
+game (
+	name "Cargo v1.2.1 (200x)(Cybiko)"
+	description "Cargo v1.2.1 (200x)(Cybiko)"
+	rom ( name "Cargo v1.2.1 (200x)(Cybiko).app" size 12304 crc 8abf7870 md5 278e247a8ba94c59c5c1d8e19ef0965a )
+)
+
+game (
+	name "Casino Roulette v1.1.14 (200x)(Cybiko)"
+	description "Casino Roulette v1.1.14 (200x)(Cybiko)"
+	rom ( name "Casino Roulette v1.1.14 (200x)(Cybiko).app" size 19885 crc 106ed7e4 md5 0a0227b2b814bcdb36d91bb278b8264b )
+)
+
+game (
+	name "Catapult v1.1.31 (200x)(Cybiko)"
+	description "Catapult v1.1.31 (200x)(Cybiko)"
+	rom ( name "Catapult v1.1.31 (200x)(Cybiko).app" size 30878 crc 6f7e0106 md5 fb6a7f6356e2fb18b0cfc1da97baaddd )
+)
+
+game (
+	name "Caterpillars Chaos v1.1.8 (200x)(Cybiko)"
+	description "Caterpillars Chaos v1.1.8 (200x)(Cybiko)"
+	rom ( name "Caterpillars Chaos v1.1.8 (200x)(Cybiko).app" size 14694 crc bec5efd3 md5 08396a3220d3512a5fefe851e3a0e547 )
+)
+
+game (
+	name "Chains Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Chains Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Chains Solitaire v1.1.1 (200x)(Cybiko).app" size 6732 crc 331b4834 md5 8a5c316dd97e4fc5b33c340eb56962c2 )
+)
+
+game (
+	name "Chance Chess 2 v2.1.5 (200x)(Cybiko)"
+	description "Chance Chess 2 v2.1.5 (200x)(Cybiko)"
+	rom ( name "Chance Chess 2 v2.1.5 (200x)(Cybiko).app" size 19453 crc d4621ee8 md5 3cdfebe8e028fb6527f6e623d173e3e2 )
+)
+
+game (
+	name "Cheese Frenzy v1.1.13 (200x)(Cybiko)"
+	description "Cheese Frenzy v1.1.13 (200x)(Cybiko)"
+	rom ( name "Cheese Frenzy v1.1.13 (200x)(Cybiko).app" size 24194 crc 0b00d3a0 md5 5203e08b084cb4387bb2300605136e96 )
+)
+
+game (
+	name "Cheese Hunt v1.1.18 (200x)(Cybiko)"
+	description "Cheese Hunt v1.1.18 (200x)(Cybiko)"
+	rom ( name "Cheese Hunt v1.1.18 (200x)(Cybiko).app" size 19464 crc d7bf59bf md5 7e49fef8bf3f707832b7e571ad6ea474 )
+)
+
+game (
+	name "Chess v0.1 (200x)(Smith, Greg)(PD)"
+	description "Chess v0.1 (200x)(Smith, Greg)(PD)"
+	rom ( name "Chess v0.1 (200x)(Smith, Greg)(PD).app" size 14613 crc 0d9ac561 md5 688947a8b35dc6c24e26a7753bd17aac )
+)
+
+game (
+	name "Chess 2 v2.2.11 (200x)(Cybiko)"
+	description "Chess 2 v2.2.11 (200x)(Cybiko)"
+	rom ( name "Chess 2 v2.2.11 (200x)(Cybiko).app" size 19321 crc 97cd8c20 md5 0f468562203f603a5de6f39c4b77133c )
+)
+
+game (
+	name "Chinese Chess - Xiangq v1.1.1 (200x)(Cybiko)"
+	description "Chinese Chess - Xiangq v1.1.1 (200x)(Cybiko)"
+	rom ( name "Chinese Chess - Xiangq v1.1.1 (200x)(Cybiko).app" size 11261 crc 9b6beff2 md5 4617e77358144d1cd5a3dcd7656c8bce )
+)
+
+game (
+	name "Chinese Chess 2 v2.1.10 (200x)(Cybiko)"
+	description "Chinese Chess 2 v2.1.10 (200x)(Cybiko)"
+	rom ( name "Chinese Chess 2 v2.1.10 (200x)(Cybiko).app" size 19534 crc 3616be53 md5 a3d4ea592ab825a0244c992e056aa249 )
+)
+
+game (
+	name "Chopper Chaos v1.1.7 (200x)(Cybiko)"
+	description "Chopper Chaos v1.1.7 (200x)(Cybiko)"
+	rom ( name "Chopper Chaos v1.1.7 (200x)(Cybiko).app" size 74393 crc e041cadd md5 efffce13f403ca971c99078a4cea148f )
+)
+
+game (
+	name "Clay Pigeons 2 v1.1.14 (200x)(Cybiko)"
+	description "Clay Pigeons 2 v1.1.14 (200x)(Cybiko)"
+	rom ( name "Clay Pigeons 2 v1.1.14 (200x)(Cybiko).app" size 10145 crc 478480d7 md5 47e4e4e6bdf32825ac964ecf24ff65d9 )
+)
+
+game (
+	name "Clock Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Clock Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Clock Solitaire v1.1.1 (200x)(Cybiko).app" size 6271 crc a486875f md5 0115f3da32f301fd93db3b6d3530de72 )
+)
+
+game (
+	name "Coastline Gunner v1.1.11 (200x)(Cybiko)"
+	description "Coastline Gunner v1.1.11 (200x)(Cybiko)"
+	rom ( name "Coastline Gunner v1.1.11 (200x)(Cybiko).app" size 25685 crc cfd9ee48 md5 57fbb2c51aabf8277a5e91d0fb6c06e4 )
+)
+
+game (
+	name "Coin Flipper (200x)(CybiWare Software Group)(PD)"
+	description "Coin Flipper (200x)(CybiWare Software Group)(PD)"
+	rom ( name "Coin Flipper (200x)(CybiWare Software Group)(PD).app" size 10473 crc 6be0d58f md5 ec84979736f04b520ec7048a65435713 )
+)
+
+game (
+	name "Colossal Cave (200x)(Smith, Greg)(PD)"
+	description "Colossal Cave (200x)(Smith, Greg)(PD)"
+	rom ( name "Colossal Cave (200x)(Smith, Greg)(PD).app" size 72900 crc a5d9516a md5 d351ae266a9e8ee7c0f3afcde8ac67f7 )
+)
+
+game (
+	name "Combat Zone v1.1.79 (200x)(Cybiko)"
+	description "Combat Zone v1.1.79 (200x)(Cybiko)"
+	rom ( name "Combat Zone v1.1.79 (200x)(Cybiko).app" size 56784 crc 9eca7389 md5 26d69758a910304ce0123f9c63f01f22 )
+)
+
+game (
+	name "Connect Four (200x)(Parkin, Tim)(PD)"
+	description "Connect Four (200x)(Parkin, Tim)(PD)"
+	rom ( name "Connect Four (200x)(Parkin, Tim)(PD).app" size 10602 crc b5989c00 md5 7ec5b2cb6d646deda251c8943f2cfa87 )
+)
+
+game (
+	name "Cops and Robbers v1.1.12 (200x)(Cybiko)"
+	description "Cops and Robbers v1.1.12 (200x)(Cybiko)"
+	rom ( name "Cops and Robbers v1.1.12 (200x)(Cybiko).app" size 54472 crc db3e41eb md5 fd4594074ccba26eb22d3dba95d49f86 )
+)
+
+game (
+	name "Corners 3 v3.1.17 (200x)(Cybiko)"
+	description "Corners 3 v3.1.17 (200x)(Cybiko)"
+	rom ( name "Corners 3 v3.1.17 (200x)(Cybiko).app" size 18821 crc daa63d16 md5 dcb8c1023ab4e20d65234d3f8c2adc55 )
+)
+
+game (
+	name "Cotillion Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Cotillion Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Cotillion Solitaire v1.1.1 (200x)(Cybiko).app" size 6439 crc a0976ccd md5 8f9e389372c838b882e5088ac64ccd89 )
+)
+
+game (
+	name "Count Them! v1.1.23 (200x)(Cybiko)"
+	description "Count Them! v1.1.23 (200x)(Cybiko)"
+	rom ( name "Count Them! v1.1.23 (200x)(Cybiko).app" size 23486 crc 56c338d8 md5 cad7757a9a35877e648fd19ee6506985 )
+)
+
+game (
+	name "Cowboy Round Up! v1.1.6 (200x)(Cybiko)"
+	description "Cowboy Round Up! v1.1.6 (200x)(Cybiko)"
+	rom ( name "Cowboy Round Up! v1.1.6 (200x)(Cybiko).app" size 27148 crc 82ba2aac md5 cea7c4315a1eb296609631a7335acca1 )
+)
+
+game (
+	name "Crash Up Derby 2 (200x)(Cybiko)"
+	description "Crash Up Derby 2 (200x)(Cybiko)"
+	rom ( name "Crash Up Derby 2 (200x)(Cybiko).app" size 58244 crc fdde3b82 md5 acd20f88eb1baf403f634bb4295402c4 )
+)
+
+game (
+	name "Crossbow (200x)(rocketo2000)(PD)"
+	description "Crossbow (200x)(rocketo2000)(PD)"
+	rom ( name "Crossbow (200x)(rocketo2000)(PD).app" size 12673 crc ad266766 md5 adb03b73eecc093b9359d7bab20186a1 )
+)
+
+game (
+	name "Crossroads v1.1.1 (200x)(Cybiko)"
+	description "Crossroads v1.1.1 (200x)(Cybiko)"
+	rom ( name "Crossroads v1.1.1 (200x)(Cybiko).app" size 9013 crc eae113d0 md5 c493967cf6d0e5419787c65cd9e24e1d )
+)
+
+game (
+	name "Cut Throat v1.1.52 (200x)(Cybiko)"
+	description "Cut Throat v1.1.52 (200x)(Cybiko)"
+	rom ( name "Cut Throat v1.1.52 (200x)(Cybiko).app" size 27503 crc 7369061f md5 e910ba56419497a2fd4a8ee43ca98be9 )
+)
+
+game (
+	name "Cy-B & Harvest v1.1.2 (200x)(Cybiko)"
+	description "Cy-B & Harvest v1.1.2 (200x)(Cybiko)"
+	rom ( name "Cy-B & Harvest v1.1.2 (200x)(Cybiko).app" size 8466 crc 52720a97 md5 a3c0d6f49255c5cadc4d8fefb5204160 )
+)
+
+game (
+	name "CyBattle2 v2.2.2 (200x)(Cybiko)"
+	description "CyBattle2 v2.2.2 (200x)(Cybiko)"
+	rom ( name "CyBattle2 v2.2.2 (200x)(Cybiko).app" size 19871 crc 9599247f md5 4f83d4ebf89285c201551c47787e1960 )
+)
+
+game (
+	name "CyLandia v1.24.45 (200x)(Cybiko)"
+	description "CyLandia v1.24.45 (200x)(Cybiko)"
+	rom ( name "CyLandia v1.24.45 (200x)(Cybiko).app" size 166526 crc 22b1ac11 md5 63a5b34c3523e5269348f5aa93f278d9 )
+)
+
+game (
+	name "CyLandia Castle 2 v2.1.33 (200x)(Cybiko)"
+	description "CyLandia Castle 2 v2.1.33 (200x)(Cybiko)"
+	rom ( name "CyLandia Castle 2 v2.1.33 (200x)(Cybiko).app" size 96853 crc 4d0647e9 md5 8f595f27f7c3b501a9c9390b234d391e )
+)
+
+game (
+	name "CyLandia CyRunner v1.1.23 (200x)(Cybiko)"
+	description "CyLandia CyRunner v1.1.23 (200x)(Cybiko)"
+	rom ( name "CyLandia CyRunner v1.1.23 (200x)(Cybiko).app" size 76405 crc b164dbec md5 c66f14f9bcf80b97b025d5159412f558 )
+)
+
+game (
+	name "CyLandia Emperor v1.1.37 (200x)(Cybiko)"
+	description "CyLandia Emperor v1.1.37 (200x)(Cybiko)"
+	rom ( name "CyLandia Emperor v1.1.37 (200x)(Cybiko).app" size 31705 crc 3bb366eb md5 a384f62f515fced3cc323c314bb76a05 )
+)
+
+game (
+	name "CyRace v1.1.38 (200x)(Cybiko)"
+	description "CyRace v1.1.38 (200x)(Cybiko)"
+	rom ( name "CyRace v1.1.38 (200x)(Cybiko).app" size 24411 crc 005aaf5e md5 cdedce05a353f2e3cb24db5cd9135f3a )
+)
+
+game (
+	name "CyRace 2 - The Duel v2.2.40 (200x)(Cybiko)"
+	description "CyRace 2 - The Duel v2.2.40 (200x)(Cybiko)"
+	rom ( name "CyRace 2 - The Duel v2.2.40 (200x)(Cybiko).app" size 106365 crc 6c045639 md5 2ba378df6bf48c9b33bbc9d7916f3334 )
+)
+
+game (
+	name "CySpider v1.1.6 (200x)(Cybiko)"
+	description "CySpider v1.1.6 (200x)(Cybiko)"
+	rom ( name "CySpider v1.1.6 (200x)(Cybiko).app" size 19355 crc 091fb0c6 md5 980e93b1df047c79a291ce6d3e5d46fe )
+)
+
+game (
+	name "CyTV v1.1.11 (200x)(Cybiko)"
+	description "CyTV v1.1.11 (200x)(Cybiko)"
+	rom ( name "CyTV v1.1.11 (200x)(Cybiko).app" size 42784 crc 33ed0981 md5 eb6032df8c8f3a569274ea69a6171885 )
+)
+
+game (
+	name "CyZilch v1.1.19 (200x)(Cybiko)"
+	description "CyZilch v1.1.19 (200x)(Cybiko)"
+	rom ( name "CyZilch v1.1.19 (200x)(Cybiko).app" size 13014 crc 8aebc719 md5 56ffaca763a852befbb4bcd9f2d170f3 )
+)
+
+game (
+	name "CyZoo v1.1.4 (200x)(Cybiko)"
+	description "CyZoo v1.1.4 (200x)(Cybiko)"
+	rom ( name "CyZoo v1.1.4 (200x)(Cybiko).app" size 90220 crc cf9233ab md5 17cbc27924c3b0dee43332d7eb4e91df )
+)
+
+game (
+	name "Cybiko Superbike v1.1.15 (200x)(Cybiko)"
+	description "Cybiko Superbike v1.1.15 (200x)(Cybiko)"
+	rom ( name "Cybiko Superbike v1.1.15 (200x)(Cybiko).app" size 51534 crc 5fe985cc md5 91fe73ec3efcb13de9e39074cc1251ba )
+)
+
+game (
+	name "CybikoGo v1.1.17 (200x)(Cybiko)"
+	description "CybikoGo v1.1.17 (200x)(Cybiko)"
+	rom ( name "CybikoGo v1.1.17 (200x)(Cybiko).app" size 19273 crc 5d6ae990 md5 6d615a5c8f24a6af5159fa46c323d5f8 )
+)
+
+game (
+	name "Cylleyball v1.1.6 (200x)(Cybiko)"
+	description "Cylleyball v1.1.6 (200x)(Cybiko)"
+	rom ( name "Cylleyball v1.1.6 (200x)(Cybiko).app" size 22543 crc bc7364ad md5 3f17b2b368d5c413b2d31a2a895bc619 )
+)
+
+game (
+	name "Dark Chess 2 v2.2.19 (200x)(Cybiko)"
+	description "Dark Chess 2 v2.2.19 (200x)(Cybiko)"
+	rom ( name "Dark Chess 2 v2.2.19 (200x)(Cybiko).app" size 17995 crc d98cbe65 md5 5bc095700b4ef198e3cf1b437d9bc6cd )
+)
+
+game (
+	name "Darts 2 v2.1.11 (200x)(Cybiko)"
+	description "Darts 2 v2.1.11 (200x)(Cybiko)"
+	rom ( name "Darts 2 v2.1.11 (200x)(Cybiko).app" size 14833 crc 9d6df6d7 md5 6831430a02e7da0e4e89cbd1335c5291 )
+)
+
+game (
+	name "Death From Above v1.1.16 (200x)(Cybiko)"
+	description "Death From Above v1.1.16 (200x)(Cybiko)"
+	rom ( name "Death From Above v1.1.16 (200x)(Cybiko).app" size 42048 crc c325531d md5 5732deafb9b4439dae9551d376197dc2 )
+)
+
+game (
+	name "Deer Season (200x)(Cybiko)"
+	description "Deer Season (200x)(Cybiko)"
+	rom ( name "Deer Season (200x)(Cybiko).app" size 24284 crc eec1b3c5 md5 3fbe69c6cbb5ec17779f9bb3988fcc50 )
+)
+
+game (
+	name "Defender (200x)(Smith, Greg)(PD)"
+	description "Defender (200x)(Smith, Greg)(PD)"
+	rom ( name "Defender (200x)(Smith, Greg)(PD).app" size 17715 crc be821d5a md5 b9513b4c1841f2bf080da4752c9ec1f9 )
+)
+
+game (
+	name "Dice (200x)(Smith, Greg)(PD)"
+	description "Dice (200x)(Smith, Greg)(PD)"
+	rom ( name "Dice (200x)(Smith, Greg)(PD).app" size 29730 crc 44d06f1e md5 e0df72fd5b01bc7c606b3a4bcf115876 )
+)
+
+game (
+	name "Dice v1.1.1 (200x)(Cybiko)"
+	description "Dice v1.1.1 (200x)(Cybiko)"
+	rom ( name "Dice v1.1.1 (200x)(Cybiko).app" size 4976 crc 502839ad md5 93b9096b74f99b97a5eabede08096aef )
+)
+
+game (
+	name "Disaster Outpost 2 v1.2.14 (200x)(Cybiko)"
+	description "Disaster Outpost 2 v1.2.14 (200x)(Cybiko)"
+	rom ( name "Disaster Outpost 2 v1.2.14 (200x)(Cybiko).app" size 17532 crc f22321a7 md5 9878e6a2cf2045fe159c30a73fd71fa5 )
+)
+
+game (
+	name "Domino v1.1.37 (200x)(Cybiko)"
+	description "Domino v1.1.37 (200x)(Cybiko)"
+	rom ( name "Domino v1.1.37 (200x)(Cybiko).app" size 12482 crc 9e7d0598 md5 5447d7c299a0da3b26c03ad51f8d0a4c )
+)
+
+game (
+	name "Domino Shuffle v1.1.3 (200x)(Cybiko)"
+	description "Domino Shuffle v1.1.3 (200x)(Cybiko)"
+	rom ( name "Domino Shuffle v1.1.3 (200x)(Cybiko).app" size 21939 crc d640346b md5 40f6bbc0d63bb943a3fbbf203f8e7f97 )
+)
+
+game (
+	name "Downhill Danger v1.1.9 (200x)(Cybiko)"
+	description "Downhill Danger v1.1.9 (200x)(Cybiko)"
+	rom ( name "Downhill Danger v1.1.9 (200x)(Cybiko).app" size 28202 crc 48fd50dc md5 74e528a1a28ac4cacd05426553db5d26 )
+)
+
+game (
+	name "Electricity v1.1.1 (200x)(Cybiko)"
+	description "Electricity v1.1.1 (200x)(Cybiko)"
+	rom ( name "Electricity v1.1.1 (200x)(Cybiko).app" size 5878 crc 4995d9e0 md5 532edc2f10395c270930859310944c57 )
+)
+
+game (
+	name "Eleven Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Eleven Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Eleven Solitaire v1.1.1 (200x)(Cybiko).app" size 6074 crc 6c9410dd md5 690becb7b61c0348844abcb0da28105b )
+)
+
+game (
+	name "Eristic v1.1.11 (200x)(Cybiko)"
+	description "Eristic v1.1.11 (200x)(Cybiko)"
+	rom ( name "Eristic v1.1.11 (200x)(Cybiko).app" size 14990 crc 52624304 md5 fc6eaca60a3db121495350382e799e3d )
+)
+
+game (
+	name "Escape! (200x)(Perry, Andrew)(PD)"
+	description "Escape! (200x)(Perry, Andrew)(PD)"
+	rom ( name "Escape! (200x)(Perry, Andrew)(PD).app" size 9800 crc 3180ba8e md5 dae04e4ccedd81f61a6c8bddb7416104 )
+)
+
+game (
+	name "Escape! 2 (200x)(Perry, Andrew)(PD)"
+	description "Escape! 2 (200x)(Perry, Andrew)(PD)"
+	rom ( name "Escape! 2 (200x)(Perry, Andrew)(PD).app" size 17646 crc 8c598b15 md5 287f067b47a725a487f7ce41033fc12a )
+)
+
+game (
+	name "Euchre v2.1.28 (200x)(Cybiko)"
+	description "Euchre v2.1.28 (200x)(Cybiko)"
+	rom ( name "Euchre v2.1.28 (200x)(Cybiko).app" size 25175 crc 04103359 md5 5a31aef894eeedd89d9fe436c3767fed )
+)
+
+game (
+	name "Evil's Lair v1.1.9 (200x)(Cybiko)"
+	description "Evil's Lair v1.1.9 (200x)(Cybiko)"
+	rom ( name "Evil's Lair v1.1.9 (200x)(Cybiko).app" size 98223 crc c78661af md5 612a2757a5a12999815a3d886211d936 )
+)
+
+game (
+	name "Falling Cybikos v1.1.7 (200x)(Cybiko)"
+	description "Falling Cybikos v1.1.7 (200x)(Cybiko)"
+	rom ( name "Falling Cybikos v1.1.7 (200x)(Cybiko).app" size 29141 crc b7d19d52 md5 2f4aaba2b330a4d2d055d252634a9acd )
+)
+
+game (
+	name "Fantasy Kingdom v1.1.44 (200x)(Cybiko)"
+	description "Fantasy Kingdom v1.1.44 (200x)(Cybiko)"
+	rom ( name "Fantasy Kingdom v1.1.44 (200x)(Cybiko).app" size 78519 crc 376613f9 md5 dc8a4f3ce5b10c62b8368b43c3eea635 )
+)
+
+game (
+	name "Fifteen v1.1.1 (200x)(Cybiko)"
+	description "Fifteen v1.1.1 (200x)(Cybiko)"
+	rom ( name "Fifteen v1.1.1 (200x)(Cybiko).app" size 9504 crc 96fe0615 md5 3c907662168bd0638be1cb6e91ac96c8 )
+)
+
+game (
+	name "Fly, Penguin, Fly! v1.1.4 (200x)(Cybiko)"
+	description "Fly, Penguin, Fly! v1.1.4 (200x)(Cybiko)"
+	rom ( name "Fly, Penguin, Fly! v1.1.4 (200x)(Cybiko).app" size 65122 crc c98fdcbc md5 b1b779e5264a5612f02e635ace1f54cf )
+)
+
+game (
+	name "Four v1.1.34 (200x)(Cybiko)"
+	description "Four v1.1.34 (200x)(Cybiko)"
+	rom ( name "Four v1.1.34 (200x)(Cybiko).app" size 6931 crc 95cd367b md5 d68617ab70a239325cb2774a5c3f3e3e )
+)
+
+game (
+	name "Four Queens Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Four Queens Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Four Queens Solitaire v1.1.1 (200x)(Cybiko).app" size 6427 crc 0c134713 md5 989767f962bbe8bfb7a5796f7f46d9e7 )
+)
+
+game (
+	name "Four Roads Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Four Roads Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Four Roads Solitaire v1.1.1 (200x)(Cybiko).app" size 9814 crc 4f820898 md5 ec8d435c9ab33e42baedcdd3c8305b82 )
+)
+
+game (
+	name "Four Rows Solitaire (200x)(Cybiko)"
+	description "Four Rows Solitaire (200x)(Cybiko)"
+	rom ( name "Four Rows Solitaire (200x)(Cybiko).app" size 5956 crc f7500496 md5 47c7ee59236d98ef5229f5efdf164ed9 )
+)
+
+game (
+	name "Fowl Play (200x)(Cybiko)"
+	description "Fowl Play (200x)(Cybiko)"
+	rom ( name "Fowl Play (200x)(Cybiko).app" size 22045 crc 77158f6c md5 10007a5686872830238711830b71eb77 )
+)
+
+game (
+	name "Fox Hunting (200x)(Cybiko)"
+	description "Fox Hunting (200x)(Cybiko)"
+	rom ( name "Fox Hunting (200x)(Cybiko).app" size 8635 crc 53967664 md5 95ce6bd0eeb80e3d6c45831d520e9d3e )
+)
+
+game (
+	name "French Word Eater v1.1.7 (200x)(Cybiko)"
+	description "French Word Eater v1.1.7 (200x)(Cybiko)"
+	rom ( name "French Word Eater v1.1.7 (200x)(Cybiko).app" size 32936 crc 46ede434 md5 4701ebe8dc9ac480b3c3f5b8106dc983 )
+)
+
+game (
+	name "Frog Hop v1.1.12 (200x)(Cybiko)"
+	description "Frog Hop v1.1.12 (200x)(Cybiko)"
+	rom ( name "Frog Hop v1.1.12 (200x)(Cybiko).app" size 22974 crc 5fe67da1 md5 8c151d3949835e0fa5b5d26a0248cdee )
+)
+
+game (
+	name "Froggie's Race v1.1.20 (200x)(Cybiko)"
+	description "Froggie's Race v1.1.20 (200x)(Cybiko)"
+	rom ( name "Froggie's Race v1.1.20 (200x)(Cybiko).app" size 56593 crc 74a1ab23 md5 7067ce1a32a3cce7476e0c923061f512 )
+)
+
+game (
+	name "Fruit Slot Machine v1.1.11 (200x)(Cybiko)"
+	description "Fruit Slot Machine v1.1.11 (200x)(Cybiko)"
+	rom ( name "Fruit Slot Machine v1.1.11 (200x)(Cybiko).app" size 12515 crc e175cae1 md5 94240fb49227bb2e701f14f832a747ef )
+)
+
+game (
+	name "Funny Balls v1.1.2 (200x)(Cybiko)"
+	description "Funny Balls v1.1.2 (200x)(Cybiko)"
+	rom ( name "Funny Balls v1.1.2 (200x)(Cybiko).app" size 11465 crc 4c97b52c md5 c9ae31e35bf5771fb5ef9099e5c69f99 )
+)
+
+game (
+	name "Galaxy Race v1.1.20 (200x)(Cybiko)"
+	description "Galaxy Race v1.1.20 (200x)(Cybiko)"
+	rom ( name "Galaxy Race v1.1.20 (200x)(Cybiko).app" size 44602 crc 197283ca md5 09b861c79830bff327ad31d28f6e8cca )
+)
+
+game (
+	name "Gardener v1.3.6 (200x)(Cybiko)"
+	description "Gardener v1.3.6 (200x)(Cybiko)"
+	rom ( name "Gardener v1.3.6 (200x)(Cybiko).app" size 11856 crc 868c42b8 md5 03f5af9d6c52ab3185e5c6c569591178 )
+)
+
+game (
+	name "German Word Eater v1.1.7 (200x)(Cybiko)"
+	description "German Word Eater v1.1.7 (200x)(Cybiko)"
+	rom ( name "German Word Eater v1.1.7 (200x)(Cybiko).app" size 37537 crc 439a3d32 md5 67b53935fe0c13fb0627294f9094bd62 )
+)
+
+game (
+	name "Give Away 2 v2.1.11 (200x)(Cybiko)"
+	description "Give Away 2 v2.1.11 (200x)(Cybiko)"
+	rom ( name "Give Away 2 v2.1.11 (200x)(Cybiko).app" size 26793 crc fa387e0d md5 b5aea54dd75fecaedd75ffc5a88684be )
+)
+
+game (
+	name "Go-moku 2 v2.1.12 (200x)(Cybiko)"
+	description "Go-moku 2 v2.1.12 (200x)(Cybiko)"
+	rom ( name "Go-moku 2 v2.1.12 (200x)(Cybiko).app" size 15467 crc 35235822 md5 c6b5c6afcc2dcd21f59f59fafe49be02 )
+)
+
+game (
+	name "Goal Tender v1.1.3 (200x)(Cybiko)"
+	description "Goal Tender v1.1.3 (200x)(Cybiko)"
+	rom ( name "Goal Tender v1.1.3 (200x)(Cybiko).app" size 26454 crc 3a33ad1b md5 b3409de409a7eb72add42a670f462d1f )
+)
+
+game (
+	name "Going Up v1.1.111 (200x)(Cybiko)"
+	description "Going Up v1.1.111 (200x)(Cybiko)"
+	rom ( name "Going Up v1.1.111 (200x)(Cybiko).app" size 20747 crc 74fc02a2 md5 760b4eaa067a7e06915cb912132695ba )
+)
+
+game (
+	name "Gold Medal - 100m Hurdles v1.1.7 (200x)(Cybiko)"
+	description "Gold Medal - 100m Hurdles v1.1.7 (200x)(Cybiko)"
+	rom ( name "Gold Medal - 100m Hurdles v1.1.7 (200x)(Cybiko).app" size 23505 crc c6fbb5b2 md5 9b8ae9ddc5290173bf844547f60db081 )
+)
+
+game (
+	name "Gold Medal - High Jump v1.1.12 (200x)(Cybiko)"
+	description "Gold Medal - High Jump v1.1.12 (200x)(Cybiko)"
+	rom ( name "Gold Medal - High Jump v1.1.12 (200x)(Cybiko).app" size 24262 crc ebd14bb4 md5 5cc9928484f825f5b81a5c8fa7ad5747 )
+)
+
+game (
+	name "Gold Medal - Javelin v2.4.25 (200x)(Cybiko)"
+	description "Gold Medal - Javelin v2.4.25 (200x)(Cybiko)"
+	rom ( name "Gold Medal - Javelin v2.4.25 (200x)(Cybiko).app" size 29674 crc caa65fbb md5 befbeff1abd6264fff05f46b8b8515d8 )
+)
+
+game (
+	name "Gold Medal - Long Jump v1.2.17 (200x)(Cybiko)"
+	description "Gold Medal - Long Jump v1.2.17 (200x)(Cybiko)"
+	rom ( name "Gold Medal - Long Jump v1.2.17 (200x)(Cybiko).app" size 27027 crc 6b75538f md5 6190b0496e20eae16fd7420572009caa )
+)
+
+game (
+	name "Gold Medal - Shot Put v2.1.11 (200x)(Cybiko)"
+	description "Gold Medal - Shot Put v2.1.11 (200x)(Cybiko)"
+	rom ( name "Gold Medal - Shot Put v2.1.11 (200x)(Cybiko).app" size 23603 crc 9064aa19 md5 b65dd2f049721eec9df043688fd4f5d4 )
+)
+
+game (
+	name "Gravitation Proclamation v1.2.6 (200x)(Cybiko)"
+	description "Gravitation Proclamation v1.2.6 (200x)(Cybiko)"
+	rom ( name "Gravitation Proclamation v1.2.6 (200x)(Cybiko).app" size 19039 crc 985950c3 md5 d00de9a30e97f087be9e0eaf8ce1915f )
+)
+
+game (
+	name "Gravity Explorer v1.1.13 (200x)(Cybiko)"
+	description "Gravity Explorer v1.1.13 (200x)(Cybiko)"
+	rom ( name "Gravity Explorer v1.1.13 (200x)(Cybiko).app" size 62208 crc 27881115 md5 1b5ae18a398305fcfa9859d084768f5a )
+)
+
+game (
+	name "Ground Pounder v1.2.12 (200x)(Cybiko)"
+	description "Ground Pounder v1.2.12 (200x)(Cybiko)"
+	rom ( name "Ground Pounder v1.2.12 (200x)(Cybiko).app" size 45172 crc bae3b9b3 md5 46c1079a7b09f495042cf905074c1728 )
+)
+
+game (
+	name "Guns v1.1.1 (200x)(Cybiko)"
+	description "Guns v1.1.1 (200x)(Cybiko)"
+	rom ( name "Guns v1.1.1 (200x)(Cybiko).app" size 12888 crc 79a24038 md5 c3ddbafd8d3ad1e93bab9083cc00886e )
+)
+
+game (
+	name "Halfpipe Hype v1.1.15 (200x)(Cybiko)"
+	description "Halfpipe Hype v1.1.15 (200x)(Cybiko)"
+	rom ( name "Halfpipe Hype v1.1.15 (200x)(Cybiko).app" size 40020 crc c492230a md5 540e15c7a9e5ddb51083b0044b6460a5 )
+)
+
+game (
+	name "Hallows Eve v1.1.17 (200x)(Cybiko)"
+	description "Hallows Eve v1.1.17 (200x)(Cybiko)"
+	rom ( name "Hallows Eve v1.1.17 (200x)(Cybiko).app" size 46283 crc 0d47a4d0 md5 9792d1c5080ff9e0c876a85b02f9d9c4 )
+)
+
+game (
+	name "Hang Man - Baseball v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Baseball v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Baseball v1.1.1 (200x)(Cybiko).app" size 15048 crc 89173dca md5 f3da3999649c755b2dd301f6d2579119 )
+)
+
+game (
+	name "Hang Man - Basketball v1.1.4 (200x)(Cybiko)"
+	description "Hang Man - Basketball v1.1.4 (200x)(Cybiko)"
+	rom ( name "Hang Man - Basketball v1.1.4 (200x)(Cybiko).app" size 15521 crc 8b5a115c md5 35098ac322e1714927a4af4a46c34e19 )
+)
+
+game (
+	name "Hang Man - Business v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Business v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Business v1.1.1 (200x)(Cybiko).app" size 20574 crc 87032a7d md5 07e37d0f1d7c68f7d4cb724fd569377e )
+)
+
+game (
+	name "Hang Man - Capitals v1.1.3 (200x)(Cybiko)"
+	description "Hang Man - Capitals v1.1.3 (200x)(Cybiko)"
+	rom ( name "Hang Man - Capitals v1.1.3 (200x)(Cybiko).app" size 16133 crc 571611ac md5 94f5fda0a1a9b0114f60628a3f4a3f5e )
+)
+
+game (
+	name "Hang Man - Chemistry v1.1.2 (200x)(Cybiko)"
+	description "Hang Man - Chemistry v1.1.2 (200x)(Cybiko)"
+	rom ( name "Hang Man - Chemistry v1.1.2 (200x)(Cybiko).app" size 15545 crc 986b0109 md5 3e75d242881aef8227cec26f754b11f9 )
+)
+
+game (
+	name "Hang Man - Computer v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Computer v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Computer v1.1.1 (200x)(Cybiko).app" size 23312 crc 4698d7f5 md5 653e8a68784b32d0aced9c4b2d10a9e3 )
+)
+
+game (
+	name "Hang Man - Football v1.1.3 (200x)(Cybiko)"
+	description "Hang Man - Football v1.1.3 (200x)(Cybiko)"
+	rom ( name "Hang Man - Football v1.1.3 (200x)(Cybiko).app" size 15757 crc b507d42d md5 e0be8b47b8a3481ef7b0390fc9ebe6bb )
+)
+
+game (
+	name "Hang Man - Geology (200x)(Cybiko)"
+	description "Hang Man - Geology (200x)(Cybiko)"
+	rom ( name "Hang Man - Geology (200x)(Cybiko).app" size 16423 crc 7056e9e8 md5 13cfd42f4415681da04774748438d7d0 )
+)
+
+game (
+	name "Hang Man - Golf v1.1.4 (200x)(Cybiko)"
+	description "Hang Man - Golf v1.1.4 (200x)(Cybiko)"
+	rom ( name "Hang Man - Golf v1.1.4 (200x)(Cybiko).app" size 16897 crc 2de341ec md5 92ea50d359caec3983d84123bd75d842 )
+)
+
+game (
+	name "Hang Man - Great Games v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Great Games v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Great Games v1.1.1 (200x)(Cybiko).app" size 18640 crc 82b04da9 md5 1688539b3373f7f28657be7b686f3fd6 )
+)
+
+game (
+	name "Hang Man - Hockey v1.1.4 (200x)(Cybiko)"
+	description "Hang Man - Hockey v1.1.4 (200x)(Cybiko)"
+	rom ( name "Hang Man - Hockey v1.1.4 (200x)(Cybiko).app" size 16143 crc 7524f4c7 md5 df1a2714b9d856807a2ea8e49abc8a56 )
+)
+
+game (
+	name "Hang Man - Literature v1.1.10 (200x)(Cybiko)"
+	description "Hang Man - Literature v1.1.10 (200x)(Cybiko)"
+	rom ( name "Hang Man - Literature v1.1.10 (200x)(Cybiko).app" size 19168 crc 181858d3 md5 891c44bc55d524b3a13afcf7d2cf7abe )
+)
+
+game (
+	name "Hang Man - Martial Arts v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Martial Arts v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Martial Arts v1.1.1 (200x)(Cybiko).app" size 16870 crc 43b4d05b md5 5b7440792c9176b686463116ee83d529 )
+)
+
+game (
+	name "Hang Man - Medicine v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Medicine v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Medicine v1.1.1 (200x)(Cybiko).app" size 20129 crc 29dbbdb1 md5 7c367e00d4d5eab5d21d20e37b4f99c8 )
+)
+
+game (
+	name "Hang Man - Music v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Music v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Music v1.1.1 (200x)(Cybiko).app" size 20541 crc 39e6fdf8 md5 301beaa94819f7ac70c058e530c18b18 )
+)
+
+game (
+	name "Hang Man - Music Facts v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Music Facts v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Music Facts v1.1.1 (200x)(Cybiko).app" size 17831 crc 8f9b3262 md5 86a5912b2ea0c8e6378fdd966e29d85c )
+)
+
+game (
+	name "Hang Man - Nature v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Nature v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Nature v1.1.1 (200x)(Cybiko).app" size 21554 crc 81ac6ca5 md5 b8942df57bfe226f109e342bf9d4778c )
+)
+
+game (
+	name "Hang Man - Outer Space v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Outer Space v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Outer Space v1.1.1 (200x)(Cybiko).app" size 16212 crc 52722c43 md5 50a5cd17ed2e98ac5751b99daaf1990c )
+)
+
+game (
+	name "Hang Man - Politics v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Politics v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Politics v1.1.1 (200x)(Cybiko).app" size 19880 crc a8d98f19 md5 fa24bb63157078df21544c5931daed51 )
+)
+
+game (
+	name "Hang Man - Sumo v1.1.1 (200x)(Cybiko)"
+	description "Hang Man - Sumo v1.1.1 (200x)(Cybiko)"
+	rom ( name "Hang Man - Sumo v1.1.1 (200x)(Cybiko).app" size 16531 crc 614b612b md5 834b8429505ff0bea69872dcccd7d0d8 )
+)
+
+game (
+	name "Happy Holidays v1.1.1 (200x)(Cybiko)"
+	description "Happy Holidays v1.1.1 (200x)(Cybiko)"
+	rom ( name "Happy Holidays v1.1.1 (200x)(Cybiko).app" size 32798 crc c539b01e md5 f85309adea2a4f396a4a8b84bf7deba8 )
+)
+
+game (
+	name "Hard Drive v1.1.11 (200x)(Cybiko)"
+	description "Hard Drive v1.1.11 (200x)(Cybiko)"
+	rom ( name "Hard Drive v1.1.11 (200x)(Cybiko).app" size 38462 crc 842f530e md5 3989788f6b2a97c736ad8eb69a83baa4 )
+)
+
+game (
+	name "Hard Drive 2 v1.1.3 (200x)(Cybiko)"
+	description "Hard Drive 2 v1.1.3 (200x)(Cybiko)"
+	rom ( name "Hard Drive 2 v1.1.3 (200x)(Cybiko).app" size 54230 crc 8eceec35 md5 290680f6eb51a881c4807b3b5ad687ef )
+)
+
+game (
+	name "Hare and Hounds (200x)(Cybiko)"
+	description "Hare and Hounds (200x)(Cybiko)"
+	rom ( name "Hare and Hounds (200x)(Cybiko).app" size 10619 crc 6b595c09 md5 b3c3f322f4a18426bf2091483f700479 )
+)
+
+game (
+	name "Hearts v2.1.17 (200x)(Cybiko)"
+	description "Hearts v2.1.17 (200x)(Cybiko)"
+	rom ( name "Hearts v2.1.17 (200x)(Cybiko).app" size 23214 crc 1282a1c6 md5 35273d42234d8e0f78cd8ba95907483a )
+)
+
+game (
+	name "Highway Hitman v1.1.24 (200x)(Cybiko)"
+	description "Highway Hitman v1.1.24 (200x)(Cybiko)"
+	rom ( name "Highway Hitman v1.1.24 (200x)(Cybiko).app" size 13491 crc bc865772 md5 163ea0e394cf4f207b766984acaf6676 )
+)
+
+game (
+	name "Hold Up v1.1.8 (200x)(Cybiko)"
+	description "Hold Up v1.1.8 (200x)(Cybiko)"
+	rom ( name "Hold Up v1.1.8 (200x)(Cybiko).app" size 56319 crc 8f7c0829 md5 79713264f6522ce80fbe01ba73640563 )
+)
+
+game (
+	name "Homemaker v1.1.32 (200x)(Cybiko)"
+	description "Homemaker v1.1.32 (200x)(Cybiko)"
+	rom ( name "Homemaker v1.1.32 (200x)(Cybiko).app" size 16378 crc dfe0a8a6 md5 0c4ca6b9fbf82077c01da30b3f69c985 )
+)
+
+game (
+	name "Homerun Derby (200x)(Jace D.)(PD)"
+	description "Homerun Derby (200x)(Jace D.)(PD)"
+	rom ( name "Homerun Derby (200x)(Jace D.)(PD).app" size 14378 crc 59a01746 md5 547d4856c4d343499cbf27f41ffb8a89 )
+)
+
+game (
+	name "Hurricane, The v1.1.29 (200x)(Cybiko)"
+	description "Hurricane, The v1.1.29 (200x)(Cybiko)"
+	rom ( name "Hurricane, The v1.1.29 (200x)(Cybiko).app" size 84281 crc 1ec565fe md5 5b04f880256c85e741dfc253ac627dee )
+)
+
+game (
+	name "Iron Man v1.1.24 (200x)(Cybiko)"
+	description "Iron Man v1.1.24 (200x)(Cybiko)"
+	rom ( name "Iron Man v1.1.24 (200x)(Cybiko).app" size 68198 crc 35e12667 md5 a5b06855ae63a33df8544936ad11b2d7 )
+)
+
+game (
+	name "Island War v1.1.37 (200x)(Cybiko)"
+	description "Island War v1.1.37 (200x)(Cybiko)"
+	rom ( name "Island War v1.1.37 (200x)(Cybiko).app" size 20074 crc 0d6e445c md5 07138b6e00f2a256053f7cb376151b70 )
+)
+
+game (
+	name "Kalah v1.1.1 (200x)(Cybiko)"
+	description "Kalah v1.1.1 (200x)(Cybiko)"
+	rom ( name "Kalah v1.1.1 (200x)(Cybiko).app" size 7345 crc d76f54f0 md5 2122a8a4747e2483cd2f64b2f54c1da7 )
+)
+
+game (
+	name "Kamikaze Highway v1.1.8 (200x)(Cybiko)"
+	description "Kamikaze Highway v1.1.8 (200x)(Cybiko)"
+	rom ( name "Kamikaze Highway v1.1.8 (200x)(Cybiko).app" size 17467 crc 9df88759 md5 1161447aa743e3feb0d5ca5c037e3c2d )
+)
+
+game (
+	name "Kangaroo Fights v1.1.3 (200x)(Cybiko)"
+	description "Kangaroo Fights v1.1.3 (200x)(Cybiko)"
+	rom ( name "Kangaroo Fights v1.1.3 (200x)(Cybiko).app" size 28408 crc 3063e321 md5 7df0b12782a080cad9e3b4cdcd73156c )
+)
+
+game (
+	name "Keyboard Explosion v1.1.3 (200x)(Cybiko)"
+	description "Keyboard Explosion v1.1.3 (200x)(Cybiko)"
+	rom ( name "Keyboard Explosion v1.1.3 (200x)(Cybiko).app" size 27331 crc 539f4d09 md5 966714b82ce2f2f9aa5d4e4a561bded0 )
+)
+
+game (
+	name "Kiss My Phaser v1.1.5 (200x)(Cybiko)"
+	description "Kiss My Phaser v1.1.5 (200x)(Cybiko)"
+	rom ( name "Kiss My Phaser v1.1.5 (200x)(Cybiko).app" size 42718 crc 41947f36 md5 28f8630912841152e83399ebf8e562a4 )
+)
+
+game (
+	name "Knight's Tournament v1.1.11 (200x)(Cybiko)"
+	description "Knight's Tournament v1.1.11 (200x)(Cybiko)"
+	rom ( name "Knight's Tournament v1.1.11 (200x)(Cybiko).app" size 51989 crc 3e676de5 md5 7f027663237ca3c6018c8910c416e580 )
+)
+
+game (
+	name "Knock Off v1.1.101 (200x)(Cybiko)"
+	description "Knock Off v1.1.101 (200x)(Cybiko)"
+	rom ( name "Knock Off v1.1.101 (200x)(Cybiko).app" size 17656 crc 2716b751 md5 9f6475480c4ceb7741624eebacb5353f )
+)
+
+game (
+	name "Lander (200x)(Alexe2k)(PD)"
+	description "Lander (200x)(Alexe2k)(PD)"
+	rom ( name "Lander (200x)(Alexe2k)(PD).app" size 10329 crc d8ed8f8c md5 cbedb853a09010add7175d693eeae810 )
+)
+
+game (
+	name "Laser Battle v1.1.1 (200x)(Cybiko)"
+	description "Laser Battle v1.1.1 (200x)(Cybiko)"
+	rom ( name "Laser Battle v1.1.1 (200x)(Cybiko).app" size 13370 crc cd1b735b md5 e5f4bf6739c6ca145c19c4956d1f29ca )
+)
+
+game (
+	name "Laser Battle Pro v1.1.9 (200x)(Cybiko)"
+	description "Laser Battle Pro v1.1.9 (200x)(Cybiko)"
+	rom ( name "Laser Battle Pro v1.1.9 (200x)(Cybiko).app" size 15043 crc d2b04627 md5 316131b6a13d6f24a85ae1b15e1c9e1f )
+)
+
+game (
+	name "Leech (200x)(Burdick, Trevor)(PD)"
+	description "Leech (200x)(Burdick, Trevor)(PD)"
+	rom ( name "Leech (200x)(Burdick, Trevor)(PD).app" size 9826 crc 6e690718 md5 b4cb346cd6bc5b107caebd23a19d5feb )
+)
+
+game (
+	name "Life Editor v1.1.1 (200x)(Cybiko)"
+	description "Life Editor v1.1.1 (200x)(Cybiko)"
+	rom ( name "Life Editor v1.1.1 (200x)(Cybiko).app" size 17527 crc 220ac3be md5 342742b8a9797444fc25866042e537cc )
+)
+
+game (
+	name "Lions vs Jackals v1.1.5 (200x)(Cybiko)"
+	description "Lions vs Jackals v1.1.5 (200x)(Cybiko)"
+	rom ( name "Lions vs Jackals v1.1.5 (200x)(Cybiko).app" size 14441 crc 1eb428ff md5 beb95ae25d0758800dae8ba9e097363e )
+)
+
+game (
+	name "Lizard Luncheon v1.1.9 (200x)(Cybiko)"
+	description "Lizard Luncheon v1.1.9 (200x)(Cybiko)"
+	rom ( name "Lizard Luncheon v1.1.9 (200x)(Cybiko).app" size 16539 crc 22ad4b84 md5 04efd6d100da3f6b5ab1568639169117 )
+)
+
+game (
+	name "Locker Room - Bench v1.1.25 (200x)(Cybiko)"
+	description "Locker Room - Bench v1.1.25 (200x)(Cybiko)"
+	rom ( name "Locker Room - Bench v1.1.25 (200x)(Cybiko).app" size 19911 crc 0df077a8 md5 539bd478fde19d088ac2311edf2d1fbf )
+)
+
+game (
+	name "Locker Room - Clean and Jerk v1.1.27 (200x)(Cybiko)"
+	description "Locker Room - Clean and Jerk v1.1.27 (200x)(Cybiko)"
+	rom ( name "Locker Room - Clean and Jerk v1.1.27 (200x)(Cybiko).app" size 25729 crc 6ecd428f md5 c4c7449b83eb042357ddb17ae8ca1ec7 )
+)
+
+game (
+	name "Locker Room - Squat v1.1.22 (200x)(Cybiko)"
+	description "Locker Room - Squat v1.1.22 (200x)(Cybiko)"
+	rom ( name "Locker Room - Squat v1.1.22 (200x)(Cybiko).app" size 19278 crc 35c70938 md5 3e4ae2772b2c8c8d666eb431011c6026 )
+)
+
+game (
+	name "Loco Locomotives 2 v1.1.6 (200x)(Cybiko)"
+	description "Loco Locomotives 2 v1.1.6 (200x)(Cybiko)"
+	rom ( name "Loco Locomotives 2 v1.1.6 (200x)(Cybiko).app" size 26844 crc 4b2dbf4e md5 5b73a8d07cb3c60c8c743ff318ff9080 )
+)
+
+game (
+	name "Loco Locomotives! v1.1.9 (200x)(Cybiko)"
+	description "Loco Locomotives! v1.1.9 (200x)(Cybiko)"
+	rom ( name "Loco Locomotives! v1.1.9 (200x)(Cybiko).app" size 17253 crc 3ebf5b7a md5 3b9a104176f6283de6d526f1fa809375 )
+)
+
+game (
+	name "Lost in Labyrinth v1.1.21 (200x)(Cybiko)"
+	description "Lost in Labyrinth v1.1.21 (200x)(Cybiko)"
+	rom ( name "Lost in Labyrinth v1.1.21 (200x)(Cybiko).app" size 76987 crc e6d3b8b8 md5 941a971ac67481b67f92db767f9e4f29 )
+)
+
+game (
+	name "Mages Adventure (200x)(Jace D.)(PD)"
+	description "Mages Adventure (200x)(Jace D.)(PD)"
+	rom ( name "Mages Adventure (200x)(Jace D.)(PD).app" size 17260 crc 86123558 md5 7be8665d30ffad30606cd74d1daae9b8 )
+)
+
+game (
+	name "Magic Town v1.1.32 (200x)(Cybiko)"
+	description "Magic Town v1.1.32 (200x)(Cybiko)"
+	rom ( name "Magic Town v1.1.32 (200x)(Cybiko).app" size 36548 crc 645b71df md5 62e1affbe7a3fb5d74abf478f7bcbbc1 )
+)
+
+game (
+	name "Marine Mission v1.1.30 (200x)(Cybiko)"
+	description "Marine Mission v1.1.30 (200x)(Cybiko)"
+	rom ( name "Marine Mission v1.1.30 (200x)(Cybiko).app" size 81838 crc 95890ced md5 feb080c390c7cf843349ad0c839866fc )
+)
+
+game (
+	name "Mars Explorer v1.1.3 (200x)(Cybiko)"
+	description "Mars Explorer v1.1.3 (200x)(Cybiko)"
+	rom ( name "Mars Explorer v1.1.3 (200x)(Cybiko).app" size 23043 crc 25af33c2 md5 367e59652551bde16834e03455ec05bb )
+)
+
+game (
+	name "Master Plumber v1.1.4 (200x)(Cybiko)"
+	description "Master Plumber v1.1.4 (200x)(Cybiko)"
+	rom ( name "Master Plumber v1.1.4 (200x)(Cybiko).app" size 41117 crc 90bf2ce7 md5 396d2d19609c719278a20151196be94e )
+)
+
+game (
+	name "Maximus' BattleStars v1.2.6 (200x)(Cybiko)"
+	description "Maximus' BattleStars v1.2.6 (200x)(Cybiko)"
+	rom ( name "Maximus' BattleStars v1.2.6 (200x)(Cybiko).app" size 222807 crc a5ac6636 md5 d12170e21ec30e6199f3884d2f1541f0 )
+)
+
+game (
+	name "Maze Dweller v1.1.1 (200x)(Cybiko)"
+	description "Maze Dweller v1.1.1 (200x)(Cybiko)"
+	rom ( name "Maze Dweller v1.1.1 (200x)(Cybiko).app" size 17477 crc fb1c9467 md5 73fdbf55ec682b956423a1f899adfd2f )
+)
+
+game (
+	name "Mega Memory v1.1.5 (200x)(Cybiko)"
+	description "Mega Memory v1.1.5 (200x)(Cybiko)"
+	rom ( name "Mega Memory v1.1.5 (200x)(Cybiko).app" size 32500 crc e7b40783 md5 e43635344da529cc32cf7daf1e917266 )
+)
+
+game (
+	name "Men's Room 2 v1.1.23 (200x)(Cybiko)"
+	description "Men's Room 2 v1.1.23 (200x)(Cybiko)"
+	rom ( name "Men's Room 2 v1.1.23 (200x)(Cybiko).app" size 8190 crc f5dbcfd4 md5 d5ad3fb57b45c271a4b403a75e900ade )
+)
+
+game (
+	name "Mercy Mission v1.5.7 (200x)(Cybiko)"
+	description "Mercy Mission v1.5.7 (200x)(Cybiko)"
+	rom ( name "Mercy Mission v1.5.7 (200x)(Cybiko).app" size 56851 crc c6bae72a md5 cb6938136145cacd5ba88e2abadbe802 )
+)
+
+game (
+	name "Metternich Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Metternich Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Metternich Solitaire v1.1.1 (200x)(Cybiko).app" size 7188 crc a0ff58ee md5 4c032544a083926a60d739bc1dd50134 )
+)
+
+game (
+	name "MiniGolf v1.1.47 (200x)(Cybiko)"
+	description "MiniGolf v1.1.47 (200x)(Cybiko)"
+	rom ( name "MiniGolf v1.1.47 (200x)(Cybiko).app" size 21269 crc a751c9ef md5 ced25c44f05c02c612e82210126a4297 )
+)
+
+game (
+	name "Monster Hunt v1.1.7 (200x)(Cybiko)"
+	description "Monster Hunt v1.1.7 (200x)(Cybiko)"
+	rom ( name "Monster Hunt v1.1.7 (200x)(Cybiko).app" size 16431 crc d2fe4039 md5 8c38fb8ec0b0a82035bfa5d9b7d14213 )
+)
+
+game (
+	name "Mountaineer v1.1.1 (200x)(Cybiko)"
+	description "Mountaineer v1.1.1 (200x)(Cybiko)"
+	rom ( name "Mountaineer v1.1.1 (200x)(Cybiko).app" size 27973 crc ce6d0569 md5 47f9345c91905c68050b53bdac6264e5 )
+)
+
+game (
+	name "Mountaineer 2 v1.1.8 (200x)(Cybiko)"
+	description "Mountaineer 2 v1.1.8 (200x)(Cybiko)"
+	rom ( name "Mountaineer 2 v1.1.8 (200x)(Cybiko).app" size 44035 crc dca94034 md5 f0aef1a0f28ef7eed145d971d7d8c804 )
+)
+
+game (
+	name "Multiplayer Hang Man v1.1.3 (200x)(Cybiko)"
+	description "Multiplayer Hang Man v1.1.3 (200x)(Cybiko)"
+	rom ( name "Multiplayer Hang Man v1.1.3 (200x)(Cybiko).app" size 17333 crc 4b4d6ae0 md5 9439b7119f5ce38c108496f3c89ffadd )
+)
+
+game (
+	name "Night Vision v1.1.10 (200x)(Cybiko)"
+	description "Night Vision v1.1.10 (200x)(Cybiko)"
+	rom ( name "Night Vision v1.1.10 (200x)(Cybiko).app" size 49805 crc 8068b415 md5 780fa3d7fc4ed0c3f76b97a6942277b5 )
+)
+
+game (
+	name "Nine v2.1.17 (200x)(Cybiko)"
+	description "Nine v2.1.17 (200x)(Cybiko)"
+	rom ( name "Nine v2.1.17 (200x)(Cybiko).app" size 16599 crc e573dd32 md5 4abc1a927b83ef9675818b033431df91 )
+)
+
+game (
+	name "No Escape (200x)(Cybiko)"
+	description "No Escape (200x)(Cybiko)"
+	rom ( name "No Escape (200x)(Cybiko).app" size 25267 crc 11656508 md5 07f80af435574ec11183dc1514278a54 )
+)
+
+game (
+	name "Nuclear Battle v1.1.25 (200x)(Cybiko)"
+	description "Nuclear Battle v1.1.25 (200x)(Cybiko)"
+	rom ( name "Nuclear Battle v1.1.25 (200x)(Cybiko).app" size 95657 crc 5d6b1480 md5 85c589d4f1028670381a8ef416d0cc4b )
+)
+
+game (
+	name "Number Guesser (200x)(JC)(PD)"
+	description "Number Guesser (200x)(JC)(PD)"
+	rom ( name "Number Guesser (200x)(JC)(PD).app" size 12119 crc dace6e74 md5 bb824e7aae4b4a645cc6f3251338a1b0 )
+)
+
+game (
+	name "Ocean Treasure v1.1.24 (200x)(Cybiko)"
+	description "Ocean Treasure v1.1.24 (200x)(Cybiko)"
+	rom ( name "Ocean Treasure v1.1.24 (200x)(Cybiko).app" size 33004 crc 357190cc md5 9713a3e49080dad4803ebb6a7aba9b86 )
+)
+
+game (
+	name "Ocean War v1.1.10 (200x)(Cybiko)"
+	description "Ocean War v1.1.10 (200x)(Cybiko)"
+	rom ( name "Ocean War v1.1.10 (200x)(Cybiko).app" size 81315 crc b252e2c3 md5 abe416700f7edf95e1abd5d7234214c1 )
+)
+
+game (
+	name "On the Point v1.1.1 (200x)(Cybiko)"
+	description "On the Point v1.1.1 (200x)(Cybiko)"
+	rom ( name "On the Point v1.1.1 (200x)(Cybiko).app" size 48938 crc 551424f4 md5 1a5663cade10b5bff4f5c9b17a675537 )
+)
+
+game (
+	name "On the Point 2 v1.2.34 (200x)(Cybiko)"
+	description "On the Point 2 v1.2.34 (200x)(Cybiko)"
+	rom ( name "On the Point 2 v1.2.34 (200x)(Cybiko).app" size 87969 crc f6fa4259 md5 33a52830a480e0f62c29bfedff21903d )
+)
+
+game (
+	name "Open Stack Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Open Stack Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Open Stack Solitaire v1.1.1 (200x)(Cybiko).app" size 7680 crc 1c259b45 md5 b8ac7956b0f4f4e404d87bed9e825114 )
+)
+
+game (
+	name "Organizer v1.1.1 (200x)(Cybiko)"
+	description "Organizer v1.1.1 (200x)(Cybiko)"
+	rom ( name "Organizer v1.1.1 (200x)(Cybiko).app" size 23670 crc 58b57255 md5 3c1686f3a051dfc3be4ce9f61676d6a5 )
+)
+
+game (
+	name "Other Side 2, The v1.1.2 (200x)(Cybiko)"
+	description "Other Side 2, The v1.1.2 (200x)(Cybiko)"
+	rom ( name "Other Side 2, The v1.1.2 (200x)(Cybiko).app" size 50271 crc 5e002e93 md5 2a1de69518586182d654af7a4f9dc1a7 )
+)
+
+game (
+	name "Other Side, The v1.1.3 (200x)(Cybiko)"
+	description "Other Side, The v1.1.3 (200x)(Cybiko)"
+	rom ( name "Other Side, The v1.1.3 (200x)(Cybiko).app" size 15630 crc 513c8649 md5 32fa0d109159ba4db013c94499877295 )
+)
+
+game (
+	name "PHAT Cash v1.1.43 (200x)(Cybiko)"
+	description "PHAT Cash v1.1.43 (200x)(Cybiko)"
+	rom ( name "PHAT Cash v1.1.43 (200x)(Cybiko).app" size 30452 crc 83121941 md5 f6a9961a94f632a745920c6c51236366 )
+)
+
+game (
+	name "PHAT Fish v1.1.10 (200x)(Cybiko)"
+	description "PHAT Fish v1.1.10 (200x)(Cybiko)"
+	rom ( name "PHAT Fish v1.1.10 (200x)(Cybiko).app" size 31983 crc 725e082b md5 57bcec624788a98c82f25382076e72a4 )
+)
+
+game (
+	name "PIG Basketball v1.1.29 (200x)(Cybiko)"
+	description "PIG Basketball v1.1.29 (200x)(Cybiko)"
+	rom ( name "PIG Basketball v1.1.29 (200x)(Cybiko).app" size 29327 crc 5dc9e9c6 md5 8fafe07930b460cad405c18144861659 )
+)
+
+game (
+	name "Parashutin' Pete v1.1.9 (200x)(Cybiko)"
+	description "Parashutin' Pete v1.1.9 (200x)(Cybiko)"
+	rom ( name "Parashutin' Pete v1.1.9 (200x)(Cybiko).app" size 17551 crc e13888d7 md5 18a7344cdbc4b32871f4a6348e57b177 )
+)
+
+game (
+	name "Parasol Pillage v1.2.4 (200x)(Cybiko)"
+	description "Parasol Pillage v1.2.4 (200x)(Cybiko)"
+	rom ( name "Parasol Pillage v1.2.4 (200x)(Cybiko).app" size 52472 crc 0ac5fd9f md5 c30f3c88001ac35e27267880ca8d06e8 )
+)
+
+game (
+	name "Pegs (200x)(Alexe2k)(PD)"
+	description "Pegs (200x)(Alexe2k)(PD)"
+	rom ( name "Pegs (200x)(Alexe2k)(PD).app" size 3455 crc 7ef238cb md5 5330c7cd1679453fcf3c6c1b893910ed )
+)
+
+game (
+	name "Permanent Stack Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Permanent Stack Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Permanent Stack Solitaire v1.1.1 (200x)(Cybiko).app" size 7679 crc e4f3a5b5 md5 18992a3faa41e7c02a37e434c416eee1 )
+)
+
+game (
+	name "Petty Intrigues v1.1.7 (200x)(Cybiko)"
+	description "Petty Intrigues v1.1.7 (200x)(Cybiko)"
+	rom ( name "Petty Intrigues v1.1.7 (200x)(Cybiko).app" size 28909 crc 15128b3a md5 9c7290fa43bdf8e43dd89d7fb5222544 )
+)
+
+game (
+	name "Pharaoh's Curse v1.2.12 (200x)(Cybiko)"
+	description "Pharaoh's Curse v1.2.12 (200x)(Cybiko)"
+	rom ( name "Pharaoh's Curse v1.2.12 (200x)(Cybiko).app" size 43591 crc ae7b9af0 md5 1e5fcab701c5862d52bf40001cb6dddd )
+)
+
+game (
+	name "Picker 2 v2.1.10 (200x)(Cybiko)"
+	description "Picker 2 v2.1.10 (200x)(Cybiko)"
+	rom ( name "Picker 2 v2.1.10 (200x)(Cybiko).app" size 20181 crc dfc06f68 md5 c4ada907aefddb8c7a21208511fd05ca )
+)
+
+game (
+	name "Piddle v1.1.11 (200x)(Cybiko)"
+	description "Piddle v1.1.11 (200x)(Cybiko)"
+	rom ( name "Piddle v1.1.11 (200x)(Cybiko).app" size 20940 crc 901cdba0 md5 189d8b184e82025afcdc5a4d4948dfc5 )
+)
+
+game (
+	name "Pinball 3 v1.1.5 (200x)(Cybiko)"
+	description "Pinball 3 v1.1.5 (200x)(Cybiko)"
+	rom ( name "Pinball 3 v1.1.5 (200x)(Cybiko).app" size 16896 crc ed805b19 md5 4f260b1ebe5b10dc7cc8969d681f340a )
+)
+
+game (
+	name "Pinball Pro v1.2.5 (200x)(Cybiko)"
+	description "Pinball Pro v1.2.5 (200x)(Cybiko)"
+	rom ( name "Pinball Pro v1.2.5 (200x)(Cybiko).app" size 19121 crc 86a0e6cb md5 a2a45f61abb6c70ccf3ae704cf63a5a7 )
+)
+
+game (
+	name "Plates of Steel v1.1.18 (200x)(Cybiko)"
+	description "Plates of Steel v1.1.18 (200x)(Cybiko)"
+	rom ( name "Plates of Steel v1.1.18 (200x)(Cybiko).app" size 33815 crc 299e5519 md5 9b631bdb1802cc1c6b966111d69c1a50 )
+)
+
+game (
+	name "Plates of Steel 2 v1.2.9 (200x)(Cybiko)"
+	description "Plates of Steel 2 v1.2.9 (200x)(Cybiko)"
+	rom ( name "Plates of Steel 2 v1.2.9 (200x)(Cybiko).app" size 47161 crc 966eb11b md5 16f3bda80779d50c6427a026d57cf21f )
+)
+
+game (
+	name "Plucky Penguin v1.1.5 (200x)(Cybiko)"
+	description "Plucky Penguin v1.1.5 (200x)(Cybiko)"
+	rom ( name "Plucky Penguin v1.1.5 (200x)(Cybiko).app" size 63281 crc fc12a570 md5 e2c907beda9d9e611a4c9d3af77b35f3 )
+)
+
+game (
+	name "Poindexter's Proxy v1.5.3 (200x)(Cybiko)"
+	description "Poindexter's Proxy v1.5.3 (200x)(Cybiko)"
+	rom ( name "Poindexter's Proxy v1.5.3 (200x)(Cybiko).app" size 15823 crc a3df4b37 md5 49d209e1c06eb29d333a4ab2b8b14c68 )
+)
+
+game (
+	name "Poker v1.1.1 (200x)(Cybiko)"
+	description "Poker v1.1.1 (200x)(Cybiko)"
+	rom ( name "Poker v1.1.1 (200x)(Cybiko).app" size 18131 crc 49af749d md5 18393e2dfee00c80bfdf44a479def7a1 )
+)
+
+game (
+	name "Poker Slot Machine v1.1.1 (200x)(Cybiko)"
+	description "Poker Slot Machine v1.1.1 (200x)(Cybiko)"
+	rom ( name "Poker Slot Machine v1.1.1 (200x)(Cybiko).app" size 9589 crc ca991e85 md5 62f89b188bab84adaf25d679881d0743 )
+)
+
+game (
+	name "Polygon 2 v1.1.4 (200x)(Cybiko)"
+	description "Polygon 2 v1.1.4 (200x)(Cybiko)"
+	rom ( name "Polygon 2 v1.1.4 (200x)(Cybiko).app" size 14234 crc 594985ec md5 7e8fd6ffbf8722b7ebb1713d27f6035d )
+)
+
+game (
+	name "Pounding Pistons 2 v2.1.20 (200x)(Cybiko)"
+	description "Pounding Pistons 2 v2.1.20 (200x)(Cybiko)"
+	rom ( name "Pounding Pistons 2 v2.1.20 (200x)(Cybiko).app" size 36174 crc 33f90fad md5 ba56ed29959a225e7ec90cab956d189a )
+)
+
+game (
+	name "Protector v1.1.7 (200x)(Cybiko)"
+	description "Protector v1.1.7 (200x)(Cybiko)"
+	rom ( name "Protector v1.1.7 (200x)(Cybiko).app" size 31220 crc 8883403b md5 45ae6161db36990d06d8faca7e245671 )
+)
+
+game (
+	name "Puzzle 2 v2.1.27 (200x)(Cybiko)"
+	description "Puzzle 2 v2.1.27 (200x)(Cybiko)"
+	rom ( name "Puzzle 2 v2.1.27 (200x)(Cybiko).app" size 51869 crc 210955d1 md5 5412dc3d297328d360e9673280cbb000 )
+)
+
+game (
+	name "Quagmire Quest v1.1.4 (200x)(Cybiko)"
+	description "Quagmire Quest v1.1.4 (200x)(Cybiko)"
+	rom ( name "Quagmire Quest v1.1.4 (200x)(Cybiko).app" size 14611 crc 60228a83 md5 eba47d2a24a3d489f565067c497a9350 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Baseball v1.2.6 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Baseball v1.2.6 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Baseball v1.2.6 (200x)(Cybiko).app" size 18689 crc 957f94c2 md5 d0838f1f59993a723430a4cd9e85f8b8 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Basketball v1.1.2 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Basketball v1.1.2 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Basketball v1.1.2 (200x)(Cybiko).app" size 18500 crc 02e0973c md5 e43be825fce5303a82474db4ccfbce19 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Capitals v1.1.2 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Capitals v1.1.2 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Capitals v1.1.2 (200x)(Cybiko).app" size 18154 crc 0a7f83ee md5 76e368e57ef9d9a510aa0a09c9a0d03a )
+)
+
+game (
+	name "Quiz-Tac-Toe - College Mascots v1.1.1 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - College Mascots v1.1.1 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - College Mascots v1.1.1 (200x)(Cybiko).app" size 18164 crc 457dad81 md5 a082622c435b82830450b153af0bd305 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Comedian v1.1.2 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Comedian v1.1.2 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Comedian v1.1.2 (200x)(Cybiko).app" size 18925 crc 76c3a879 md5 e8a02f8022ad081d7bc0d5cd7afe1b58 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Football v1.1.3 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Football v1.1.3 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Football v1.1.3 (200x)(Cybiko).app" size 18969 crc 735758a6 md5 00c8edb333c505ca7390da5623245e21 )
+)
+
+game (
+	name "Quiz-Tac-Toe - Hockey v1.1.3 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Hockey v1.1.3 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Hockey v1.1.3 (200x)(Cybiko).app" size 18136 crc 959b3df3 md5 b8c9e1c74f69048019af45fb6267db8e )
+)
+
+game (
+	name "Quiz-Tac-Toe - Racing v1.1.3 (200x)(Cybiko)"
+	description "Quiz-Tac-Toe - Racing v1.1.3 (200x)(Cybiko)"
+	rom ( name "Quiz-Tac-Toe - Racing v1.1.3 (200x)(Cybiko).app" size 18382 crc 27537575 md5 e3a9d903fedba797a976f3020c13e9fa )
+)
+
+game (
+	name "R-ball 2 v1.1.15 (200x)(Cybiko)"
+	description "R-ball 2 v1.1.15 (200x)(Cybiko)"
+	rom ( name "R-ball 2 v1.1.15 (200x)(Cybiko).app" size 25250 crc 201a5289 md5 6ea1d3ecb283a6dd717b49b82e48b336 )
+)
+
+game (
+	name "Radio Worms v1.1.1 (200x)(Cybiko)"
+	description "Radio Worms v1.1.1 (200x)(Cybiko)"
+	rom ( name "Radio Worms v1.1.1 (200x)(Cybiko).app" size 10102 crc 8f627d2e md5 19fdc234946341c7d71f1a73734605a8 )
+)
+
+game (
+	name "Rainbow Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Rainbow Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Rainbow Solitaire v1.1.1 (200x)(Cybiko).app" size 8236 crc 158c7e67 md5 be0ce079042fc25b0d2bccbafce993ca )
+)
+
+game (
+	name "Reaction Time v1.1.4 (200x)(Cybiko)"
+	description "Reaction Time v1.1.4 (200x)(Cybiko)"
+	rom ( name "Reaction Time v1.1.4 (200x)(Cybiko).app" size 11657 crc b38018fe md5 731233e55fcd68f3f2eda71e5d1cbca5 )
+)
+
+game (
+	name "Rebound 2 v1.2.7 (200x)(Cybiko)"
+	description "Rebound 2 v1.2.7 (200x)(Cybiko)"
+	rom ( name "Rebound 2 v1.2.7 (200x)(Cybiko).app" size 73243 crc 6e8a0fb1 md5 77a95a94ad1ff539186d803fe5c4e436 )
+)
+
+game (
+	name "Renju 2 v2.1.12 (200x)(Cybiko)"
+	description "Renju 2 v2.1.12 (200x)(Cybiko)"
+	rom ( name "Renju 2 v2.1.12 (200x)(Cybiko).app" size 18664 crc d02f3f0a md5 b7c4593ae1e0c00f72135a4d9a789072 )
+)
+
+game (
+	name "Rescue the Forest v1.1.5 (200x)(Cybiko)"
+	description "Rescue the Forest v1.1.5 (200x)(Cybiko)"
+	rom ( name "Rescue the Forest v1.1.5 (200x)(Cybiko).app" size 86316 crc b9a76ef2 md5 1376713e65b2bcacd5990931e62c508e )
+)
+
+game (
+	name "Reversi 3 v3.1.17 (200x)(Cybiko)"
+	description "Reversi 3 v3.1.17 (200x)(Cybiko)"
+	rom ( name "Reversi 3 v3.1.17 (200x)(Cybiko).app" size 19810 crc 0e5a5493 md5 6ec9b76a71cd373e853d84e9b220329e )
+)
+
+game (
+	name "River Run v2.0.18 (200x)(Cybiko)"
+	description "River Run v2.0.18 (200x)(Cybiko)"
+	rom ( name "River Run v2.0.18 (200x)(Cybiko).app" size 9866 crc 65343335 md5 d89d367b3fb63a36cbab693d7f5d6aca )
+)
+
+game (
+	name "Roach Race v1.1.21 (200x)(Cybiko)"
+	description "Roach Race v1.1.21 (200x)(Cybiko)"
+	rom ( name "Roach Race v1.1.21 (200x)(Cybiko).app" size 20765 crc 6da6bd37 md5 fbae968243f03834b3eb0e2f7aa0daa7 )
+)
+
+game (
+	name "Robbery v1.1.15 (200x)(Cybiko)"
+	description "Robbery v1.1.15 (200x)(Cybiko)"
+	rom ( name "Robbery v1.1.15 (200x)(Cybiko).app" size 31490 crc de00d0c7 md5 d5fabd99ce72aaccf04dbeee6c21c62c )
+)
+
+game (
+	name "Robbery 2 v1.1.14 (200x)(Cybiko)"
+	description "Robbery 2 v1.1.14 (200x)(Cybiko)"
+	rom ( name "Robbery 2 v1.1.14 (200x)(Cybiko).app" size 62067 crc 687f6cf7 md5 ff8a7a43aba40b78ca96df0adc9ad9f4 )
+)
+
+game (
+	name "RoboBomber v1.1.10 (200x)(Cybiko)"
+	description "RoboBomber v1.1.10 (200x)(Cybiko)"
+	rom ( name "RoboBomber v1.1.10 (200x)(Cybiko).app" size 57366 crc a2eb49e3 md5 46e0d7308c232a54a56215e1237e3182 )
+)
+
+game (
+	name "RoboRampage v1.1.20 (200x)(Cybiko)"
+	description "RoboRampage v1.1.20 (200x)(Cybiko)"
+	rom ( name "RoboRampage v1.1.20 (200x)(Cybiko).app" size 70331 crc 5406b680 md5 f4f6f35ef622fc8e26d9bfbb3af3bda6 )
+)
+
+game (
+	name "Rotor Break v1.1.3 (200x)(Cybiko)"
+	description "Rotor Break v1.1.3 (200x)(Cybiko)"
+	rom ( name "Rotor Break v1.1.3 (200x)(Cybiko).app" size 85605 crc 7e5d91c3 md5 9b67ad9b03170cbadccbf0458ebeb747 )
+)
+
+game (
+	name "Rover (200x)(Cybiko)"
+	description "Rover (200x)(Cybiko)"
+	rom ( name "Rover (200x)(Cybiko).app" size 8345 crc b30885d1 md5 7fd715f3105afc65992c5db9533ee27b )
+)
+
+game (
+	name "Rover Reunion v1.1.10 (200x)(Cybiko)"
+	description "Rover Reunion v1.1.10 (200x)(Cybiko)"
+	rom ( name "Rover Reunion v1.1.10 (200x)(Cybiko).app" size 27942 crc 812f95a3 md5 bc274a1a964bc6556c393c4e0ab4d393 )
+)
+
+game (
+	name "Rubber Bridge v1.1.1 (200x)(Cybiko)"
+	description "Rubber Bridge v1.1.1 (200x)(Cybiko)"
+	rom ( name "Rubber Bridge v1.1.1 (200x)(Cybiko).app" size 31054 crc eedc94c1 md5 2ebf73d7be81731e9ffff6955f08fd29 )
+)
+
+game (
+	name "Scribble (200x)(Dettman, Casey)(PD)"
+	description "Scribble (200x)(Dettman, Casey)(PD)"
+	rom ( name "Scribble (200x)(Dettman, Casey)(PD).app" size 5621 crc 9ca43268 md5 24eeaf3a7b9da0eb3266608466535dae )
+)
+
+game (
+	name "Senegal Checkers 2 v2.1.12 (200x)(Cybiko)"
+	description "Senegal Checkers 2 v2.1.12 (200x)(Cybiko)"
+	rom ( name "Senegal Checkers 2 v2.1.12 (200x)(Cybiko).app" size 22526 crc 1b2f5edd md5 0c7e6cd0632fc76d1021a344ba359a0b )
+)
+
+game (
+	name "Senet v1.1.16 (200x)(Cybiko)"
+	description "Senet v1.1.16 (200x)(Cybiko)"
+	rom ( name "Senet v1.1.16 (200x)(Cybiko).app" size 23163 crc a08e2084 md5 9c76abd646d369eac208d4db2fa9a869 )
+)
+
+game (
+	name "Senet Pro v1.1.16 (200x)(Cybiko)"
+	description "Senet Pro v1.1.16 (200x)(Cybiko)"
+	rom ( name "Senet Pro v1.1.16 (200x)(Cybiko).app" size 27681 crc 27192679 md5 70430ef291150fb7b6522862054eb62e )
+)
+
+game (
+	name "Shapes v1.1.1 (200x)(Cybiko)"
+	description "Shapes v1.1.1 (200x)(Cybiko)"
+	rom ( name "Shapes v1.1.1 (200x)(Cybiko).app" size 7948 crc 93bd2a77 md5 c9f6c7247108e2b322afcfec41bf9360 )
+)
+
+game (
+	name "Sheepskin v1.1.19 (200x)(Cybiko)"
+	description "Sheepskin v1.1.19 (200x)(Cybiko)"
+	rom ( name "Sheepskin v1.1.19 (200x)(Cybiko).app" size 37162 crc 6ca73fe4 md5 ac376c244b6e3294bbf091bbce58b749 )
+)
+
+game (
+	name "Shifter v1.1.1 (200x)(Cybiko)"
+	description "Shifter v1.1.1 (200x)(Cybiko)"
+	rom ( name "Shifter v1.1.1 (200x)(Cybiko).app" size 24243 crc a5f15834 md5 a70994ddf70d9d8d8b5c760eb6b5d63b )
+)
+
+game (
+	name "Shogi v21.3.10 (200x)(Cybiko)"
+	description "Shogi v21.3.10 (200x)(Cybiko)"
+	rom ( name "Shogi v21.3.10 (200x)(Cybiko).app" size 21323 crc 183b2750 md5 c34155ec1e9e6d4e6812236110be80bd )
+)
+
+game (
+	name "Shoo Fly! v1.1.29 (200x)(Cybiko)"
+	description "Shoo Fly! v1.1.29 (200x)(Cybiko)"
+	rom ( name "Shoo Fly! v1.1.29 (200x)(Cybiko).app" size 29228 crc 81bc0b10 md5 5e6a256c382ad58373de63c695aeb1b3 )
+)
+
+game (
+	name "Sidja 2 v1.1.18 (200x)(Cybiko)"
+	description "Sidja 2 v1.1.18 (200x)(Cybiko)"
+	rom ( name "Sidja 2 v1.1.18 (200x)(Cybiko).app" size 20625 crc 704cbf71 md5 ae78b00826fa00b0048fc7ab08da0cf4 )
+)
+
+game (
+	name "SkyLand v1.1.1 (200x)(Cybiko)"
+	description "SkyLand v1.1.1 (200x)(Cybiko)"
+	rom ( name "SkyLand v1.1.1 (200x)(Cybiko).app" size 87226 crc 8fb08569 md5 7ce413886c8cf3cee8be65e482f20574 )
+)
+
+game (
+	name "Slam a Hammer v1.12.37 (200x)(Cybiko)"
+	description "Slam a Hammer v1.12.37 (200x)(Cybiko)"
+	rom ( name "Slam a Hammer v1.12.37 (200x)(Cybiko).app" size 21544 crc 9ac65cb2 md5 102b22c77dca06e9a1c7809e26ccc6c2 )
+)
+
+game (
+	name "Snake Battle v1.3.5 (200x)(Cybiko)"
+	description "Snake Battle v1.3.5 (200x)(Cybiko)"
+	rom ( name "Snake Battle v1.3.5 (200x)(Cybiko).app" size 26394 crc 9ad95c83 md5 a764a10e954e4fb13f9aad4494acfedd )
+)
+
+game (
+	name "Snow Runner v1.1.4 (200x)(Cybiko)"
+	description "Snow Runner v1.1.4 (200x)(Cybiko)"
+	rom ( name "Snow Runner v1.1.4 (200x)(Cybiko).app" size 51777 crc f475011b md5 0993d013c2ea3fbe1f65c3a308dfbe19 )
+)
+
+game (
+	name "Snowball Fight v2.1.21 (200x)(Cybiko)"
+	description "Snowball Fight v2.1.21 (200x)(Cybiko)"
+	rom ( name "Snowball Fight v2.1.21 (200x)(Cybiko).app" size 43843 crc 9d57c187 md5 fd0e22ffc2cf3afd880c84c88bf8fb2a )
+)
+
+game (
+	name "Soccer Duel v1.1.8 (200x)(Cybiko)"
+	description "Soccer Duel v1.1.8 (200x)(Cybiko)"
+	rom ( name "Soccer Duel v1.1.8 (200x)(Cybiko).app" size 32832 crc a715a81c md5 d2abf7d2a30ad8b4e3aa3eede75d9bbf )
+)
+
+game (
+	name "Sonic the Hedgehog (200x)(Steele, Matthew)[p]"
+	description "Sonic the Hedgehog (200x)(Steele, Matthew)[p]"
+	rom ( name "Sonic the Hedgehog (200x)(Steele, Matthew)[p].app" size 22577 crc bbb20247 md5 454181425a0bb79e6efe7d7ab68bf404 )
+)
+
+game (
+	name "Space (200x)(Jace D.)(PD)"
+	description "Space (200x)(Jace D.)(PD)"
+	rom ( name "Space (200x)(Jace D.)(PD).app" size 13364 crc 8dd9e6bf md5 8764a31742ceecac4ca66b8d1ef7a773 )
+)
+
+game (
+	name "Space Bustle v1.1.3 (200x)(Cybiko)"
+	description "Space Bustle v1.1.3 (200x)(Cybiko)"
+	rom ( name "Space Bustle v1.1.3 (200x)(Cybiko).app" size 17578 crc 68bca086 md5 016824d776f5119b1dc43ad97a5a9855 )
+)
+
+game (
+	name "Space Hunter v1.1.12 (200x)(Cybiko)"
+	description "Space Hunter v1.1.12 (200x)(Cybiko)"
+	rom ( name "Space Hunter v1.1.12 (200x)(Cybiko).app" size 25856 crc 1bfeabf3 md5 784251f4f7171e20cf307786e88e432c )
+)
+
+game (
+	name "Space Paradox v1.1.18 (200x)(Cybiko)"
+	description "Space Paradox v1.1.18 (200x)(Cybiko)"
+	rom ( name "Space Paradox v1.1.18 (200x)(Cybiko).app" size 37614 crc 4a6bf811 md5 0d187686736c323dee00b7e830736d2b )
+)
+
+game (
+	name "Space Rescuer 2 v1.1.1 (200x)(Cybiko)"
+	description "Space Rescuer 2 v1.1.1 (200x)(Cybiko)"
+	rom ( name "Space Rescuer 2 v1.1.1 (200x)(Cybiko).app" size 86120 crc eaabf36b md5 cdab4a617f99a45bf6db16c10bb44e2b )
+)
+
+game (
+	name "Spanish Word Eater v1.2.3 (200x)(Cybiko)"
+	description "Spanish Word Eater v1.2.3 (200x)(Cybiko)"
+	rom ( name "Spanish Word Eater v1.2.3 (200x)(Cybiko).app" size 178755 crc b8ed1984 md5 069a2d5d29dc43af1bca726a965645b9 )
+)
+
+game (
+	name "Sporting Balls v1.1.1 (200x)(Cybiko)"
+	description "Sporting Balls v1.1.1 (200x)(Cybiko)"
+	rom ( name "Sporting Balls v1.1.1 (200x)(Cybiko).app" size 10091 crc cfcbed13 md5 3a5e25353135726dc21f7f5cd91685bb )
+)
+
+game (
+	name "Square Puzzle v1.1.2 (200x)(Cybiko)"
+	description "Square Puzzle v1.1.2 (200x)(Cybiko)"
+	rom ( name "Square Puzzle v1.1.2 (200x)(Cybiko).app" size 24400 crc 17d8dffb md5 d7fc30d25944d9e8aa9907fef7036f2f )
+)
+
+game (
+	name "St. Pattie's Plunder v1.1.25 (200x)(Cybiko)"
+	description "St. Pattie's Plunder v1.1.25 (200x)(Cybiko)"
+	rom ( name "St. Pattie's Plunder v1.1.25 (200x)(Cybiko).app" size 62508 crc bc3d11fb md5 3bcb0bf1b67c273723a691226fc0f350 )
+)
+
+game (
+	name "Steep Turn v1.1.6 (200x)(Cybiko)"
+	description "Steep Turn v1.1.6 (200x)(Cybiko)"
+	rom ( name "Steep Turn v1.1.6 (200x)(Cybiko).app" size 22989 crc c900be52 md5 eda23d7d99446d334adc061e260151af )
+)
+
+game (
+	name "Stubborn Solitaire v1.1.1 (200x)(Cybiko)"
+	description "Stubborn Solitaire v1.1.1 (200x)(Cybiko)"
+	rom ( name "Stubborn Solitaire v1.1.1 (200x)(Cybiko).app" size 8082 crc 1c91cfb8 md5 6166f368bdee1ba1fece268d81fc99f9 )
+)
+
+game (
+	name "Sultan Solitaire (200x)(Cybiko)"
+	description "Sultan Solitaire (200x)(Cybiko)"
+	rom ( name "Sultan Solitaire (200x)(Cybiko).app" size 6809 crc 06bd151c md5 5cdaa3be4e2fdce80b2d0500532d97b9 )
+)
+
+game (
+	name "Sunken Treasures v1.1.16 (200x)(Cybiko)"
+	description "Sunken Treasures v1.1.16 (200x)(Cybiko)"
+	rom ( name "Sunken Treasures v1.1.16 (200x)(Cybiko).app" size 20774 crc 3d36afb2 md5 17562cb168671661e30ac81055d0e87d )
+)
+
+game (
+	name "Super Tank v1.1.60 (200x)(Cybiko)"
+	description "Super Tank v1.1.60 (200x)(Cybiko)"
+	rom ( name "Super Tank v1.1.60 (200x)(Cybiko).app" size 44914 crc d1f91616 md5 3dc15f3c8ae9cecd824b6e7d41c55a2c )
+)
+
+game (
+	name "Surviving War v1.1.38 (200x)(Cybiko)"
+	description "Surviving War v1.1.38 (200x)(Cybiko)"
+	rom ( name "Surviving War v1.1.38 (200x)(Cybiko).app" size 100322 crc fdcc85ba md5 5f25d5ba71c31dded1116f0eb8e21b79 )
+)
+
+game (
+	name "Switch Board v1.1.7 (200x)(Cybiko)"
+	description "Switch Board v1.1.7 (200x)(Cybiko)"
+	rom ( name "Switch Board v1.1.7 (200x)(Cybiko).app" size 13862 crc 521fce24 md5 aca2f521a655804b6e7f721c4800647f )
+)
+
+game (
+	name "Tac Tix 2 v2.1.3 (200x)(Cybiko)"
+	description "Tac Tix 2 v2.1.3 (200x)(Cybiko)"
+	rom ( name "Tac Tix 2 v2.1.3 (200x)(Cybiko).app" size 30579 crc e14295f7 md5 b441c29afc0a3f54cd0845256f273880 )
+)
+
+game (
+	name "Tank Terror v1.1.28 (200x)(Cybiko)"
+	description "Tank Terror v1.1.28 (200x)(Cybiko)"
+	rom ( name "Tank Terror v1.1.28 (200x)(Cybiko).app" size 58060 crc 93168965 md5 0ba5be4fbb45cef3018498dff0868cec )
+)
+
+game (
+	name "Terra Tread v1.2.12 (200x)(Cybiko)"
+	description "Terra Tread v1.2.12 (200x)(Cybiko)"
+	rom ( name "Terra Tread v1.2.12 (200x)(Cybiko).app" size 39466 crc 56b07832 md5 6467918a405d13936397364d65ff0bb1 )
+)
+
+game (
+	name "Test Pilot 2 v2.1.29 (200x)(Cybiko)"
+	description "Test Pilot 2 v2.1.29 (200x)(Cybiko)"
+	rom ( name "Test Pilot 2 v2.1.29 (200x)(Cybiko).app" size 35231 crc d2e1be80 md5 a0cf5a4c623dccaa441aef4be1db9b39 )
+)
+
+game (
+	name "Thermo Nuclear Fusion (200x)(Mulholland, Jeff)(PD)"
+	description "Thermo Nuclear Fusion (200x)(Mulholland, Jeff)(PD)"
+	rom ( name "Thermo Nuclear Fusion (200x)(Mulholland, Jeff)(PD).app" size 12358 crc c9e2beb7 md5 9bc06d1078cd797ed588e99dfd375ff3 )
+)
+
+game (
+	name "Thermo Nuclear Fusion 2 (200x)(Mulholland, Jeff)(PD)"
+	description "Thermo Nuclear Fusion 2 (200x)(Mulholland, Jeff)(PD)"
+	rom ( name "Thermo Nuclear Fusion 2 (200x)(Mulholland, Jeff)(PD).app" size 25963 crc dc60b77a md5 b299e93549469f013133dae9ebd6f71e )
+)
+
+game (
+	name "Tic-Tac-Toe v1.1.1 (200x)(Cybiko)"
+	description "Tic-Tac-Toe v1.1.1 (200x)(Cybiko)"
+	rom ( name "Tic-Tac-Toe v1.1.1 (200x)(Cybiko).app" size 12028 crc aa8f4c74 md5 9b25c95c9e7ebb7e7b2a5985115fd6ed )
+)
+
+game (
+	name "Tomato Riot v1.1.7 (200x)(Cybiko)"
+	description "Tomato Riot v1.1.7 (200x)(Cybiko)"
+	rom ( name "Tomato Riot v1.1.7 (200x)(Cybiko).app" size 38278 crc aa8fa1e8 md5 4a5d354766d215765fe508cf2242ecdc )
+)
+
+game (
+	name "Tommy Solitaire (200x)(Cybiko)"
+	description "Tommy Solitaire (200x)(Cybiko)"
+	rom ( name "Tommy Solitaire (200x)(Cybiko).app" size 6768 crc b1d4290e md5 80f0c1404347dc8f0f1846f5590306a8 )
+)
+
+game (
+	name "Tooty Fruity v1.1.24 (200x)(Cybiko)"
+	description "Tooty Fruity v1.1.24 (200x)(Cybiko)"
+	rom ( name "Tooty Fruity v1.1.24 (200x)(Cybiko).app" size 47435 crc dccb8831 md5 e39a4d968cbb676ffed8afa103cb41f0 )
+)
+
+game (
+	name "Tower of Hanoi v1.1.3 (200x)(Cybiko)"
+	description "Tower of Hanoi v1.1.3 (200x)(Cybiko)"
+	rom ( name "Tower of Hanoi v1.1.3 (200x)(Cybiko).app" size 3901 crc 7772f7de md5 becb0e3a83155db72300e00099b0331b )
+)
+
+game (
+	name "Treasure Hunt (200x)(Jace D.)(PD)"
+	description "Treasure Hunt (200x)(Jace D.)(PD)"
+	rom ( name "Treasure Hunt (200x)(Jace D.)(PD).app" size 14897 crc ca9406fc md5 ea7f604a368ccefb4d7b5b2f5faa3009 )
+)
+
+game (
+	name "Trefoil Solitaire (200x)(Cybiko)"
+	description "Trefoil Solitaire (200x)(Cybiko)"
+	rom ( name "Trefoil Solitaire (200x)(Cybiko).app" size 7713 crc 637032f9 md5 3b1bd339e21f8baa81c6452738d03ec4 )
+)
+
+game (
+	name "Triads Solitaire (200x)(Cybiko)"
+	description "Triads Solitaire (200x)(Cybiko)"
+	rom ( name "Triads Solitaire (200x)(Cybiko).app" size 7605 crc 9e829fd5 md5 e60ad02910df05bf338c294812963fb3 )
+)
+
+game (
+	name "Triangles 3 v3.1.17 (200x)(Cybiko)"
+	description "Triangles 3 v3.1.17 (200x)(Cybiko)"
+	rom ( name "Triangles 3 v3.1.17 (200x)(Cybiko).app" size 19258 crc ff40219b md5 05e8ca7f6446577e310916378ec49e10 )
+)
+
+game (
+	name "Trivial - General Questions (200x)(Smith, Greg)(PD)"
+	description "Trivial - General Questions (200x)(Smith, Greg)(PD)"
+	rom ( name "Trivial - General Questions (200x)(Smith, Greg)(PD).app" size 26290 crc 0fc394eb md5 367ab0b623dea3797251589d10ad74ed )
+)
+
+game (
+	name "Trivial - Trivia Game (200x)(Smith, Greg)(PD)"
+	description "Trivial - Trivia Game (200x)(Smith, Greg)(PD)"
+	rom ( name "Trivial - Trivia Game (200x)(Smith, Greg)(PD).app" size 24874 crc 655b73ed md5 fbe80b0cea4b961bd3921326270f1e61 )
+)
+
+game (
+	name "Trivial - Tweens Questions (200x)(Smith, Greg)(PD)"
+	description "Trivial - Tweens Questions (200x)(Smith, Greg)(PD)"
+	rom ( name "Trivial - Tweens Questions (200x)(Smith, Greg)(PD).app" size 18361 crc ab7365a9 md5 65d72aa0081b6d3ab4a6453532f058d2 )
+)
+
+game (
+	name "Turbinium Tycoon v1.1.20 (200x)(Cybiko)"
+	description "Turbinium Tycoon v1.1.20 (200x)(Cybiko)"
+	rom ( name "Turbinium Tycoon v1.1.20 (200x)(Cybiko).app" size 75915 crc 54b8bf0d md5 bc33b4d41422f7255eae343794afcbee )
+)
+
+game (
+	name "Up & Down v1.1.1 (200x)(Cybiko)"
+	description "Up & Down v1.1.1 (200x)(Cybiko)"
+	rom ( name "Up & Down v1.1.1 (200x)(Cybiko).app" size 4346 crc c38811a1 md5 6e91a7a928898aa9e0db6d29ce503eb8 )
+)
+
+game (
+	name "Vaders (200x)(Smith, Greg)(PD)"
+	description "Vaders (200x)(Smith, Greg)(PD)"
+	rom ( name "Vaders (200x)(Smith, Greg)(PD).app" size 7129 crc 928b6ea2 md5 abb8e716c36e3c418e7b7e0ccb972aa7 )
+)
+
+game (
+	name "Virus Variance v1.1.7 (200x)(Cybiko)"
+	description "Virus Variance v1.1.7 (200x)(Cybiko)"
+	rom ( name "Virus Variance v1.1.7 (200x)(Cybiko).app" size 19810 crc ed347fa5 md5 66ee79182a9fa56453a536a2757c9aa0 )
+)
+
+game (
+	name "WAR! v1.1.12 (200x)(Cybiko)"
+	description "WAR! v1.1.12 (200x)(Cybiko)"
+	rom ( name "WAR! v1.1.12 (200x)(Cybiko).app" size 21284 crc 77f44ddf md5 e392bffbb9f4982ceccbc0a9e0a5e138 )
+)
+
+game (
+	name "Wall Street Wizard v1.1.47 (200x)(Cybiko)"
+	description "Wall Street Wizard v1.1.47 (200x)(Cybiko)"
+	rom ( name "Wall Street Wizard v1.1.47 (200x)(Cybiko).app" size 26557 crc cd3d27da md5 8cbc95586608c1e530b6fb0bb01f06cd )
+)
+
+game (
+	name "War of Nations v1.1.3 (200x)(Cybiko)"
+	description "War of Nations v1.1.3 (200x)(Cybiko)"
+	rom ( name "War of Nations v1.1.3 (200x)(Cybiko).app" size 44006 crc 0b9f3a07 md5 a8b690870e7e094c5d3d93638a4e4ed3 )
+)
+
+game (
+	name "Warfare v1.1.67 (200x)(Cybiko)"
+	description "Warfare v1.1.67 (200x)(Cybiko)"
+	rom ( name "Warfare v1.1.67 (200x)(Cybiko).app" size 43642 crc 55505af4 md5 8cb6afa593a804fbfe58423f0d78a50f )
+)
+
+game (
+	name "Water Puzzle v2.2.5 (200x)(Cybiko)"
+	description "Water Puzzle v2.2.5 (200x)(Cybiko)"
+	rom ( name "Water Puzzle v2.2.5 (200x)(Cybiko).app" size 10834 crc ebea47bc md5 2270c405cb8f5727402c73ed63e886c2 )
+)
+
+game (
+	name "Well Ball 2 v1.1.25 (200x)(Cybiko)"
+	description "Well Ball 2 v1.1.25 (200x)(Cybiko)"
+	rom ( name "Well Ball 2 v1.1.25 (200x)(Cybiko).app" size 18208 crc 38c32d02 md5 cdae98f3511e295e739932aeb482ea9f )
+)
+
+game (
+	name "Whirlpool v1.1.3 (200x)(Cybiko)"
+	description "Whirlpool v1.1.3 (200x)(Cybiko)"
+	rom ( name "Whirlpool v1.1.3 (200x)(Cybiko).app" size 21953 crc 56ea39ca md5 72ee640697ef9211252330b0b027952a )
+)
+
+game (
+	name "Wireless Checkers 3 v3.1.17 (200x)(Cybiko)"
+	description "Wireless Checkers 3 v3.1.17 (200x)(Cybiko)"
+	rom ( name "Wireless Checkers 3 v3.1.17 (200x)(Cybiko).app" size 28295 crc f9477383 md5 a01bea78602e37e70b5b663445cac8e2 )
+)
+
+game (
+	name "Wise Kaa v1.1.3 (200x)(Cybiko)"
+	description "Wise Kaa v1.1.3 (200x)(Cybiko)"
+	rom ( name "Wise Kaa v1.1.3 (200x)(Cybiko).app" size 36437 crc fdeb3316 md5 e837e3f5528dde11073f920a039349fb )
+)
+
+game (
+	name "Word Eater v1.1.1 (200x)(Cybiko)"
+	description "Word Eater v1.1.1 (200x)(Cybiko)"
+	rom ( name "Word Eater v1.1.1 (200x)(Cybiko).app" size 24996 crc e5399b71 md5 32978502831c588297262e669f92f04b )
+)
+

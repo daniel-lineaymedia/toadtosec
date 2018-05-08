@@ -1,0 +1,211 @@
+clrmamepro (
+	name "Apple II - Educational - [DSK]"
+	description "Apple II - Educational - [DSK] (TOSEC-v2010-06-26)"
+	category "Apple II - Educational - [DSK]"
+	version 2010-06-26
+	author "TKaos - bigboo - Cassiel - jjs"
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side A)(Student Disk 1)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side A)(Student Disk 1)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side A)(Student Disk 1)[PASCAL].dsk" size 143360 crc ad559131 md5 51abc983166441be01c98f4eb6428f11 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side B)(Student Disk 1)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side B)(Student Disk 1)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 1 of 7 Side B)(Student Disk 1)[PASCAL].dsk" size 143360 crc 72db54bc md5 67476da6421107b0c18cc36bd1d62655 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side A)(Student Disk 2)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side A)(Student Disk 2)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side A)(Student Disk 2)[PASCAL].dsk" size 143360 crc 2a31846f md5 41f9589a7dc1010d8d885a2ddf38f697 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side B)(Student Disk 2)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side B)(Student Disk 2)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 2 of 7 Side B)(Student Disk 2)[PASCAL].dsk" size 143360 crc 079570d2 md5 f165aa72ec318dc1e0a9daa40e0fe28b )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side A)(Student Disk 3)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side A)(Student Disk 3)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side A)(Student Disk 3)[PASCAL].dsk" size 143360 crc b217771e md5 3ac78a1af58e9cd9721388b7618e6cfc )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side B)(Student Disk 3)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side B)(Student Disk 3)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 3 of 7 Side B)(Student Disk 3)[PASCAL].dsk" size 143360 crc 079edef2 md5 1e65a6865af785826e39c6b4c503cecc )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side A)(Student Disk 4)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side A)(Student Disk 4)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side A)(Student Disk 4)[PASCAL].dsk" size 143360 crc 2e7c1b07 md5 f77a6217cff9ae250cdd367d7416e6b6 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side B)(Student Disk 4)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side B)(Student Disk 4)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 4 of 7 Side B)(Student Disk 4)[PASCAL].dsk" size 143360 crc 4d90f214 md5 fc227ea23ec9ca4a94e263ef8d2c218b )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side A)(Student Disk 5)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side A)(Student Disk 5)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side A)(Student Disk 5)[PASCAL].dsk" size 143360 crc 1fd738e2 md5 8c498d4c3378f8df177606deb1b1b018 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side B)(Student Disk 5)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side B)(Student Disk 5)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 5 of 7 Side B)(Student Disk 5)[PASCAL].dsk" size 143360 crc 07de4fae md5 93a575debe4d2db06bdb0a855306026a )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side A)(Student Disk 6)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side A)(Student Disk 6)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side A)(Student Disk 6)[PASCAL].dsk" size 143360 crc bc14ab16 md5 5e02546cc608cf2782e8ef8875067744 )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side B)(Student Disk 6)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side B)(Student Disk 6)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 6 of 7 Side B)(Student Disk 6)[PASCAL].dsk" size 143360 crc 60f3dfac md5 8b49c3caca9f83ad9157a65a7b0832ea )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side A)(Student Disk 7)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side A)(Student Disk 7)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side A)(Student Disk 7)[PASCAL].dsk" size 143360 crc f0189826 md5 0312a76ed08fe3c8c8345ea2744728ab )
+)
+
+game (
+	name "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side B)(Student Disk 7)[PASCAL]"
+	description "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side B)(Student Disk 7)[PASCAL]"
+	rom ( name "Algebra Mentor (19xx)(Miller, John C.)(Disk 7 of 7 Side B)(Student Disk 7)[PASCAL].dsk" size 143360 crc 584f9410 md5 ae7974051938f733491115e6b7f89e78 )
+)
+
+game (
+	name "Algebra Mentor Test Generator (1986)(Wadsworth)[PASCAL]"
+	description "Algebra Mentor Test Generator (1986)(Wadsworth)[PASCAL]"
+	rom ( name "Algebra Mentor Test Generator (1986)(Wadsworth)[PASCAL].dsk" size 143360 crc 332d1680 md5 b3d9fe829d4faa78985724680cbc62d6 )
+)
+
+game (
+	name "Algebra Mentor v1.01 (1986)(Wadsworth)[Instructor Disk][PASCAL]"
+	description "Algebra Mentor v1.01 (1986)(Wadsworth)[Instructor Disk][PASCAL]"
+	rom ( name "Algebra Mentor v1.01 (1986)(Wadsworth)[Instructor Disk][PASCAL].dsk" size 143360 crc c58d92ec md5 64d489d026ad4b3375952ed754dd00dc )
+)
+
+game (
+	name "Body Transparent, The (19xx)(DesignWare)[cr L.S.D.]"
+	description "Body Transparent, The (19xx)(DesignWare)[cr L.S.D.]"
+	rom ( name "Body Transparent, The (19xx)(DesignWare)[cr L.S.D.].dsk" size 143360 crc d179e3bf md5 6057231e8b3839129a5e36a1541af7d4 )
+)
+
+game (
+	name "Characteristics of Light (1986)(Arrakis Systems)[cr]"
+	description "Characteristics of Light (1986)(Arrakis Systems)[cr]"
+	rom ( name "Characteristics of Light (1986)(Arrakis Systems)[cr].dsk" size 143360 crc 2af748e2 md5 0d121399d229ccedb4d31be1aaa19811 )
+)
+
+game (
+	name "Databases - Dataquest Sampler v1.0 (1986)(MECC)(US)"
+	description "Databases - Dataquest Sampler v1.0 (1986)(MECC)(US)"
+	rom ( name "Databases - Dataquest Sampler v1.0 (1986)(MECC)(US).dsk" size 143360 crc aef3bad5 md5 cad7bf66d0d8b50309f43bd5c417c5b6 )
+)
+
+game (
+	name "Dataquest Composer - North American Mammals v1.0 (1988)(MECC)(US)"
+	description "Dataquest Composer - North American Mammals v1.0 (1988)(MECC)(US)"
+	rom ( name "Dataquest Composer - North American Mammals v1.0 (1988)(MECC)(US).dsk" size 143360 crc ea519fa5 md5 af49d68b31716d79d123f3f0de6fc828 )
+)
+
+game (
+	name "Fraction Munchers v1.0 (1987)(MECC)(US)"
+	description "Fraction Munchers v1.0 (1987)(MECC)(US)"
+	rom ( name "Fraction Munchers v1.0 (1987)(MECC)(US).dsk" size 143360 crc 72deb5c4 md5 9d81550b7b3dc6ed2c3a62871e885a2a )
+)
+
+game (
+	name "Number Munchers v1.2 (1986)(MECC)(US)"
+	description "Number Munchers v1.2 (1986)(MECC)(US)"
+	rom ( name "Number Munchers v1.2 (1986)(MECC)(US).dsk" size 143360 crc c42de4c8 md5 9b55fc36780dcdc7be8e7149d08af750 )
+)
+
+game (
+	name "Odell Lake v1.2 (1986)(MECC)(US)"
+	description "Odell Lake v1.2 (1986)(MECC)(US)"
+	rom ( name "Odell Lake v1.2 (1986)(MECC)(US).dsk" size 143360 crc f3a5b62a md5 235600cb734020deef456a14617225b0 )
+)
+
+game (
+	name "Stickybear ABC, The (1982)(Optimum Resource)"
+	description "Stickybear ABC, The (1982)(Optimum Resource)"
+	rom ( name "Stickybear ABC, The (1982)(Optimum Resource).dsk" size 143360 crc 75b6cd0e md5 3a59f16687176219fe0829a696bfc48c )
+)
+
+game (
+	name "Stickybear Basketbounce (1983)(Optimum Resource)[cr High Technology - Creative Cracker]"
+	description "Stickybear Basketbounce (1983)(Optimum Resource)[cr High Technology - Creative Cracker]"
+	rom ( name "Stickybear Basketbounce (1983)(Optimum Resource)[cr High Technology - Creative Cracker].dsk" size 143360 crc 17c9e1b4 md5 03002215f407a36151fdd694ffea80f4 )
+)
+
+game (
+	name "Stickybear BOP (1982)(Optimum Resource)[b]"
+	description "Stickybear BOP (1982)(Optimum Resource)[b]"
+	rom ( name "Stickybear BOP (1982)(Optimum Resource)[b].dsk" size 143360 crc 4109ca9a md5 97ac1e2de0ee9c82f9a1e1413314fafd )
+)
+
+game (
+	name "Stickybear Math (1984)(Optimum Resource)"
+	description "Stickybear Math (1984)(Optimum Resource)"
+	rom ( name "Stickybear Math (1984)(Optimum Resource).dsk" size 143360 crc ce31b511 md5 b6397664f8b7f31cdd53f49e5480fad2 )
+)
+
+game (
+	name "Stickybear Numbers (1982)(Optimum Resource)"
+	description "Stickybear Numbers (1982)(Optimum Resource)"
+	rom ( name "Stickybear Numbers (1982)(Optimum Resource).dsk" size 143360 crc cb21298b md5 ce710ba29cde9d8cd3313132087ec3b9 )
+)
+
+game (
+	name "Stickybear Opposites (1983)(Optimum Resource)[cr Nova]"
+	description "Stickybear Opposites (1983)(Optimum Resource)[cr Nova]"
+	rom ( name "Stickybear Opposites (1983)(Optimum Resource)[cr Nova].dsk" size 143360 crc 827b4482 md5 7c1c2f7ba3fef9c1685729b50d3f87a1 )
+)
+
+game (
+	name "Stickybear Printer (1985)(Optimum Resource)"
+	description "Stickybear Printer (1985)(Optimum Resource)"
+	rom ( name "Stickybear Printer (1985)(Optimum Resource).dsk" size 143360 crc fca51a4f md5 24baee0474a62316d36534b21e3ca876 )
+)
+
+game (
+	name "Stickybear Shapes (1983)(Optimum Resource)"
+	description "Stickybear Shapes (1983)(Optimum Resource)"
+	rom ( name "Stickybear Shapes (1983)(Optimum Resource).dsk" size 143360 crc 9058bb71 md5 53fc8eedaa36e3546ca874ea5d26d408 )
+)
+
+game (
+	name "Stickybear Spellgrabber (198x)(Optimum Resource)"
+	description "Stickybear Spellgrabber (198x)(Optimum Resource)"
+	rom ( name "Stickybear Spellgrabber (198x)(Optimum Resource).dsk" size 143360 crc 6e9c135c md5 6559ea5b9e505befac76b57d082853cb )
+)
+
+game (
+	name "Stickybear Typing (198x)(Optimum Resource)[cr Jean Laffite - Lord Rama]"
+	description "Stickybear Typing (198x)(Optimum Resource)[cr Jean Laffite - Lord Rama]"
+	rom ( name "Stickybear Typing (198x)(Optimum Resource)[cr Jean Laffite - Lord Rama].dsk" size 143360 crc bfe424a3 md5 cf1f4fd49b8fbc2a8f178e1d1272e269 )
+)
+
+game (
+	name "Word Munchers v1.4 (1985)(MECC)(US)"
+	description "Word Munchers v1.4 (1985)(MECC)(US)"
+	rom ( name "Word Munchers v1.4 (1985)(MECC)(US).dsk" size 143360 crc 7425e4be md5 1f02c711f1df715bb45f34cecb6f45f2 )
+)

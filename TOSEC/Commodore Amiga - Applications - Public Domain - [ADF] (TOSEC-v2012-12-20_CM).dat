@@ -1,0 +1,1700 @@
+clrmamepro (
+	name "Commodore Amiga - Applications - Public Domain - [ADF]"
+	description "Commodore Amiga - Applications - Public Domain - [ADF] (TOSEC-v2012-12-20)"
+	category "Commodore Amiga - Applications - Public Domain - [ADF]"
+	version 2012-12-20
+	author "idoru - BippyM - Crashdisk"
+)
+
+game (
+	name "100 Printer Drivers (19xx)(Anglia PD)(PD)"
+	description "100 Printer Drivers (19xx)(Anglia PD)(PD)"
+	rom ( name "100 Printer Drivers (19xx)(Anglia PD)(PD).adf" size 901120 crc a4b57179 md5 abd83e206712e7b9752e689c4a368833 sha1 8c55faf347a7b37bfc69e2549b1d878885e40375 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8).adf" size 901120 crc daa3a419 md5 bfc2373220cd5734badb98b72f9c82e4 sha1 e7ee032a1fa4889b364ed2148210146be8ea6994 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8).adf" size 901120 crc 30ebe25c md5 208bdfd58d524279c0c3dd67bb510c6b sha1 286a80602e0796271fe2fb6bd7b7ee7a48107f00 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8).adf" size 901120 crc 2305b084 md5 a8039fb5c4f627db1d120fa828fd559a sha1 44550164b7636b37b04d0061e3a97cde92189be0 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8).adf" size 901120 crc 86d4a27a md5 f37f2d845938a59acb873dec70c4dc51 sha1 2862e2a8d9768475c007c852ac902f85c8146bf2 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8).adf" size 901120 crc 92a2bb51 md5 f0e282467125f03aa6e1e709d7daac56 sha1 83ae81e54b4c5781dba1e552539ac7102d57e3d5 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8).adf" size 901120 crc e76a0581 md5 22b1271046e4aa31114ca133fba9709f sha1 6ff06f786d57e0ff68d8ca89773da2efb4c79d46 )
+)
+
+game (
+	name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)"
+	description "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)"
+	rom ( name "101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8).adf" size 901120 crc 7525587c md5 8dde38dc312abb23af881e3d8de926d6 sha1 6925de13b39137856b9c041af747f1dcbc83d645 )
+)
+
+game (
+	name "17 Bit PD Catalogue (1990)(17-Bit Software)(PD)"
+	description "17 Bit PD Catalogue (1990)(17-Bit Software)(PD)"
+	rom ( name "17 Bit PD Catalogue (1990)(17-Bit Software)(PD).adf" size 901120 crc 45a05b11 md5 697d9a9aa2b1e8c26181793c4cc75d8f sha1 7b32d03b61a429ac59111fd1c11a3532c11a6140 )
+)
+
+game (
+	name "A-Gene - Anglican v1.3 (19xx)(Simpson, Mike - 17-Bit Software)(SW)"
+	description "A-Gene - Anglican v1.3 (19xx)(Simpson, Mike - 17-Bit Software)(SW)"
+	rom ( name "A-Gene - Anglican v1.3 (19xx)(Simpson, Mike - 17-Bit Software)(SW).adf" size 901120 crc 4b33a984 md5 24c5f7abacee3040621369bf9626fd96 sha1 4fd2554e0c790ddafde1d2a26723db3bd06675c5 )
+)
+
+game (
+	name "A1200 Hacks 2 (1995)(-)(PD)"
+	description "A1200 Hacks 2 (1995)(-)(PD)"
+	rom ( name "A1200 Hacks 2 (1995)(-)(PD).adf" size 901120 crc 5c8c93b1 md5 eb3e5c8dffe6e3285b643baef7e4ed05 sha1 60bd67b76ac530e9e5884fc2aeedea1f72b359f1 )
+)
+
+game (
+	name "A1200 Tools (1993)(Zarf)(A1200)(PD)[a][degraders][WB]"
+	description "A1200 Tools (1993)(Zarf)(A1200)(PD)[a][degraders][WB]"
+	rom ( name "A1200 Tools (1993)(Zarf)(A1200)(PD)[a][degraders][WB].adf" size 901120 crc 7312b6ca md5 c5cabb1d8236b85527b332f50d50bda6 sha1 f021fb42b435c5b5991526cd1a805c3ea7e895ea )
+)
+
+game (
+	name "A1200 Tools (1993)(Zarf)(A1200)(PD)[degraders][WB]"
+	description "A1200 Tools (1993)(Zarf)(A1200)(PD)[degraders][WB]"
+	rom ( name "A1200 Tools (1993)(Zarf)(A1200)(PD)[degraders][WB].adf" size 901120 crc 2dd8e8f3 md5 dc0bd9afe72b6a226628147965a49cb0 sha1 c934796c5a0bbbdd6acd49f79ed93a333460697c )
+)
+
+game (
+	name "ABASIC Programs Disk 2 (19xx)(17-Bit Software)(PD)[17-Bit Software disk 36]"
+	description "ABASIC Programs Disk 2 (19xx)(17-Bit Software)(PD)[17-Bit Software disk 36]"
+	rom ( name "ABASIC Programs Disk 2 (19xx)(17-Bit Software)(PD)[17-Bit Software disk 36].adf" size 901120 crc d7cf8446 md5 e83425d79daad7141801403ec6529eaa sha1 510e92fad1ee11188235e8e8233b321a18dff676 )
+)
+
+game (
+	name "Access v0.27 (1987-02-12)(Young, Keith)(SW)"
+	description "Access v0.27 (1987-02-12)(Young, Keith)(SW)"
+	rom ( name "Access v0.27 (1987-02-12)(Young, Keith)(SW).adf" size 901120 crc 51f44d62 md5 26d5bc761d337689b4d7b623446573f1 sha1 4941d9e70fe1be030823a37cd4650e5c7e5772de )
+)
+
+game (
+	name "Access v1.4 (1988-08-14)(Young, Keith)(SW)[WB]"
+	description "Access v1.4 (1988-08-14)(Young, Keith)(SW)[WB]"
+	rom ( name "Access v1.4 (1988-08-14)(Young, Keith)(SW)[WB].adf" size 901120 crc e97ad80f md5 c65aa4b2cf8e384fbc655cc75bb0486a sha1 076503267f4c7263894fb9f236213381417123d9 )
+)
+
+game (
+	name "Access v1.42 (1988-06-10)(Young, Keith)(SW)"
+	description "Access v1.42 (1988-06-10)(Young, Keith)(SW)"
+	rom ( name "Access v1.42 (1988-06-10)(Young, Keith)(SW).adf" size 901120 crc 1ec83389 md5 7177b8317670725573a882936600eed4 sha1 574ea7b9a07faf676b23025cec58588e6738f1e2 )
+)
+
+game (
+	name "Account Master v2.0 (1992)(Platt, Martin)"
+	description "Account Master v2.0 (1992)(Platt, Martin)"
+	rom ( name "Account Master v2.0 (1992)(Platt, Martin).adf" size 901120 crc 9f140ce9 md5 7f415d60dffff0ab2b4e011a2efd7d14 sha1 868c34d4a77d8b4cd4a2935159053aa6292b42d1 )
+)
+
+game (
+	name "Account Master v2.0 (1992)(Platt, Martin)[u]"
+	description "Account Master v2.0 (1992)(Platt, Martin)[u]"
+	rom ( name "Account Master v2.0 (1992)(Platt, Martin)[u].adf" size 889856 crc 951e7486 md5 c34a874cd5e0af55d44c9d7d8cf4dcca sha1 fb90e36a714501464e5955696bf2c46053e827c4 )
+)
+
+game (
+	name "Aktion Replay Pro (1994)(ParCon)[h ALE]"
+	description "Aktion Replay Pro (1994)(ParCon)[h ALE]"
+	rom ( name "Aktion Replay Pro (1994)(ParCon)[h ALE].adf" size 901120 crc 7a2892fa md5 4d20c23031ae96c74bccb79e37c2f335 sha1 35e34b06a5b72f8289f525261492138a870a4e95 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 1 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 1 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 1 of 9).adf" size 901120 crc 93a3ec82 md5 eb0b5673164654e8bc13870ea9ca7b32 sha1 8823fc2e5befd30b37a8d8c965a55c229588dbb8 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 3 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 3 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 3 of 9).adf" size 901120 crc ff8dd883 md5 4e5f02ee00a00ad148417a205e0e95a5 sha1 d1cee9bda48d6e3eccd7f85608c27ce164e7b955 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 4 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 4 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 4 of 9).adf" size 901120 crc 43c060da md5 5ebdc69d47e4ea25f132874e7e69a702 sha1 dc3b39c1cac39d763b19deea775b5c8535d22155 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 5 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 5 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 5 of 9).adf" size 901120 crc 3c95ba66 md5 a6e461d4cb147f21d91a0ff677f3588f sha1 756b4a586ae22fc15e33b62fc65d6e0986916a3a )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 6 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 6 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 6 of 9).adf" size 901120 crc cec4455c md5 889d807994f0956fb4de8b205e941d66 sha1 5c2e77a364bca3279539a75a5a8b469287af2851 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 7 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 7 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 7 of 9).adf" size 901120 crc d75a8356 md5 00e089871ca3b818427b96de4eba4886 sha1 73717e862013c9b6efcf2dd4ad0154f76dc3a6ad )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 8 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 8 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 8 of 9).adf" size 901120 crc 3b7230b6 md5 234b6c2d18209f99ae3d5fa1cffa4133 sha1 d712086254e8e5482cbd95639521e227ed242e98 )
+)
+
+game (
+	name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 9 of 9)"
+	description "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 9 of 9)"
+	rom ( name "Alien Confidential Multimedia (1995)(Ground Zero Software)(PD)(Disk 9 of 9).adf" size 901120 crc b83ca287 md5 4d7045aac9b7d62c7954011b50bf1a11 sha1 dbd8f1fb1b34dd0bdf2766232051c50c4df5a399 )
+)
+
+game (
+	name "AmiBase Pro II (1991)(KAG Productions - 17-Bit Software)(SW)"
+	description "AmiBase Pro II (1991)(KAG Productions - 17-Bit Software)(SW)"
+	rom ( name "AmiBase Pro II (1991)(KAG Productions - 17-Bit Software)(SW).adf" size 901120 crc d7fb8b97 md5 64627e2d05c8e7f9c7401176e1de5838 sha1 65098146c312b746df32ddea9c9bf09999ef76c2 )
+)
+
+game (
+	name "AmiBase v3.76 (1990)(KAG Productions - 17-Bit Software)(SW)"
+	description "AmiBase v3.76 (1990)(KAG Productions - 17-Bit Software)(SW)"
+	rom ( name "AmiBase v3.76 (1990)(KAG Productions - 17-Bit Software)(SW).adf" size 901120 crc 7588141a md5 cc4323fc8a6160e30419bfd23767b0e7 sha1 ac04a53f178fd1c3f570183d10164adb1b8f31ef )
+)
+
+game (
+	name "AmiBase v3.76 (1990)(KAG Productions)(SW)"
+	description "AmiBase v3.76 (1990)(KAG Productions)(SW)"
+	rom ( name "AmiBase v3.76 (1990)(KAG Productions)(SW).adf" size 901120 crc 601a6e0c md5 4dd58a69e75734b2ec6e162753ede74b sha1 bbf91e5f3f8fd974a8d361944ea66f01a1ec213b )
+)
+
+game (
+	name "AmiCash v1.0 (1991)(Veitch, Nic - 17-Bit Software)(PD)"
+	description "AmiCash v1.0 (1991)(Veitch, Nic - 17-Bit Software)(PD)"
+	rom ( name "AmiCash v1.0 (1991)(Veitch, Nic - 17-Bit Software)(PD).adf" size 901120 crc f23b82cf md5 5d9c971896ac391b3623b29bcca50ead sha1 cb0f37e414b8a4330958da20dde973f5d7416d6b )
+)
+
+game (
+	name "Amiga E v2.1 (1992)(van Oortmerssen, Wouter)(PD)[WB]"
+	description "Amiga E v2.1 (1992)(van Oortmerssen, Wouter)(PD)[WB]"
+	rom ( name "Amiga E v2.1 (1992)(van Oortmerssen, Wouter)(PD)[WB].adf" size 901120 crc 202c6a53 md5 26e38a05f561403ec2f0b454fb3f85dd sha1 c8d55953c1c7cfd4c9e949ab6875ed0bfb17f2b0 )
+)
+
+game (
+	name "Amiga E v2.18b (1993)(van Oortmerssen, Wouter)(PD)[WB]"
+	description "Amiga E v2.18b (1993)(van Oortmerssen, Wouter)(PD)[WB]"
+	rom ( name "Amiga E v2.18b (1993)(van Oortmerssen, Wouter)(PD)[WB].adf" size 901120 crc dc009a1e md5 4c702e44ed6d180943bf69267332a485 sha1 1762f288939250c2341ae2d7edfa95c01c9d1bc4 )
+)
+
+game (
+	name "Amiga Punter (19xx)(17-Bit Software)(PD)"
+	description "Amiga Punter (19xx)(17-Bit Software)(PD)"
+	rom ( name "Amiga Punter (19xx)(17-Bit Software)(PD).adf" size 901120 crc 0781b6c3 md5 00debfbcdc975504cb9c7ef7543fbc56 sha1 40199df6344341f667744db9fca1f0f1beb0aefa )
+)
+
+game (
+	name "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD)"
+	description "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD)"
+	rom ( name "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD).adf" size 901120 crc 5a6dd75d md5 8baa1a0e0e227b5e937423eca1f11f13 sha1 a5cdad9d8fea88a6fa5bd0bef9fa5ff9ac655026 )
+)
+
+game (
+	name "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD)[a]"
+	description "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD)[a]"
+	rom ( name "Amiga Sat v1.0 (19xx)(Gazzard, David)(PD)[a].adf" size 901120 crc 83cc2fc4 md5 a4740a3e4b3b27eaffa7fdaf10bd7309 sha1 8cccb757de61800cbeb362edfbebbd17f1b8c2aa )
+)
+
+game (
+	name "Amiga Test Script Interpreter v01.41 (1993)(-)(A1200)(PD)"
+	description "Amiga Test Script Interpreter v01.41 (1993)(-)(A1200)(PD)"
+	rom ( name "Amiga Test Script Interpreter v01.41 (1993)(-)(A1200)(PD).adf" size 901120 crc 24f02de5 md5 40fc7fc2bed98df943c6896ecdb980ff sha1 31cdb3b4eded3345fc26d3c5284457e9eb123c68 )
+)
+
+game (
+	name "AMIGA-Pakratt v1.10 (1991)(van Stipriaan, Rene)(PD)"
+	description "AMIGA-Pakratt v1.10 (1991)(van Stipriaan, Rene)(PD)"
+	rom ( name "AMIGA-Pakratt v1.10 (1991)(van Stipriaan, Rene)(PD).adf" size 901120 crc ceab56b7 md5 6faab9915c318a974414e58755a7de8c sha1 3dcf9584751bb939925c9a56bd1c1407a1e7eaaa )
+)
+
+game (
+	name "AmigaFox v1.10d (1990)(Wust, Michael - 17-Bit Software)(PD)"
+	description "AmigaFox v1.10d (1990)(Wust, Michael - 17-Bit Software)(PD)"
+	rom ( name "AmigaFox v1.10d (1990)(Wust, Michael - 17-Bit Software)(PD).adf" size 901120 crc f8c1b5db md5 cae99a8701cece77ef777636d606b505 sha1 54c0b186d26c511110320c22800c1279451daa3f )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 1 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 1 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 1 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc 8a3e37ce md5 40487655dc9e33e0e2bc86b3527a5a42 sha1 ef9bec09b3b4bc107e2e213976d2c5ae0a2c64f8 )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 2 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 2 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 2 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc afadeb5a md5 a202bfa760b96a28f06cc8bd0ae53aae sha1 50e29429c194c6511f37b78cb9693c5b2128ef94 )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 3 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 3 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 3 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc 4507aeb2 md5 9e50ca107f85e4d24f5769fd44271b37 sha1 73a068831413fe49579218d2ef3a823a0da4f1f7 )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 4 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 4 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 4 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc e5f2896a md5 4c356e483581482e7aa6e1da9713f430 sha1 af29841fec31ad55058af3840241fc6ddcadd0e2 )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 5 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 5 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 5 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc 8b9fe147 md5 a0c689be9c00fd8261acfc30b0f2ce49 sha1 68f14d704c1ca737841dbeb9715ab8bcf6d9fb95 )
+)
+
+game (
+	name "Amigan Amateur Radio Group Public Domain Disk 6 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	description "Amigan Amateur Radio Group Public Domain Disk 6 (1988)(Amigan Amateur Radio Group)(PD)[WB]"
+	rom ( name "Amigan Amateur Radio Group Public Domain Disk 6 (1988)(Amigan Amateur Radio Group)(PD)[WB].adf" size 901120 crc 898bb9fb md5 eeb49087e951228add9a569e13541c5d sha1 17a57a8ad2be990210bc4f49fdd23d4e7e8ccfa7 )
+)
+
+game (
+	name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 1 of 5)[WB]"
+	description "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 1 of 5)[WB]"
+	rom ( name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 1 of 5)[WB].adf" size 901120 crc 94db97ee md5 f123dc48ca1f1fac2c83502ca805d43d sha1 543cd5cb2a455eec13cf2eb221b98b62f61858cc )
+)
+
+game (
+	name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 2 of 5)"
+	description "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 2 of 5)"
+	rom ( name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 2 of 5).adf" size 901120 crc d2b5e27b md5 cae76a5f9dbb4d62aa437bf4d1067235 sha1 0f34b5dca3b8ce307fea61a723861440f3619f07 )
+)
+
+game (
+	name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 3 of 5)"
+	description "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 3 of 5)"
+	rom ( name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 3 of 5).adf" size 901120 crc 153fdce6 md5 4cadc100bf8f5b3d19a1678139b0df9a sha1 93eede46ebab8b5ba9c450b7d3d3e8a8d8eef6d0 )
+)
+
+game (
+	name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 4 of 5)"
+	description "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 4 of 5)"
+	rom ( name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 4 of 5).adf" size 901120 crc 0e3a6392 md5 7c9c348b0c2ded2e066cd35258db5ea5 sha1 225c0b2725df7504ec48dd322b1e0f5dfbb73c4d )
+)
+
+game (
+	name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 5 of 5)"
+	description "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 5 of 5)"
+	rom ( name "Anglia Colourfonts (19xx)(Anglia PD)(PD)(Disk 5 of 5).adf" size 901120 crc cc460bf8 md5 f5eca6d10befc3a7257177cfcde2a6dd sha1 cd9c32e2df1628af4156a9a68673ec369d403d1a )
+)
+
+game (
+	name "Arctangents Patterns Vol 1 (199x)(Arctangent)(PD)"
+	description "Arctangents Patterns Vol 1 (199x)(Arctangent)(PD)"
+	rom ( name "Arctangents Patterns Vol 1 (199x)(Arctangent)(PD).adf" size 901120 crc 4056b856 md5 563b8ac3c9dd227b6025eb00878cbe22 sha1 581be12a3db301100bc461b619066cdc27a1a9ed )
+)
+
+game (
+	name "Arctangents Patterns Vol 2 (199x)(Arctangent)(PD)"
+	description "Arctangents Patterns Vol 2 (199x)(Arctangent)(PD)"
+	rom ( name "Arctangents Patterns Vol 2 (199x)(Arctangent)(PD).adf" size 901120 crc a1d1f1e7 md5 f3f777f0a9a7b4328054f5ba5b11db95 sha1 1ed953993adcd07a518e47b482d36a36ec95ecbd )
+)
+
+game (
+	name "ASCII-Designer v1.5 (19xx)(Tension)(PD)"
+	description "ASCII-Designer v1.5 (19xx)(Tension)(PD)"
+	rom ( name "ASCII-Designer v1.5 (19xx)(Tension)(PD).adf" size 901120 crc 6101a009 md5 f0a03a06a269bb78b9d7480050e6d5dd sha1 3c3d97c90999a1ef77342d785106f8ca703844e8 )
+)
+
+game (
+	name "Audio Animation Studio (1991)(Cool Cumcumbers - 17-Bit Software)(SW)[AMOS]"
+	description "Audio Animation Studio (1991)(Cool Cumcumbers - 17-Bit Software)(SW)[AMOS]"
+	rom ( name "Audio Animation Studio (1991)(Cool Cumcumbers - 17-Bit Software)(SW)[AMOS].adf" size 901120 crc a64f043b md5 b3f6df9e4422d9372a0f9b9b6104acd1 sha1 f810f619af3f8069173a7ffec4182feff631b582 )
+)
+
+game (
+	name "AZSpell v1.02 (1990)(Hartley, Danny)(PD)"
+	description "AZSpell v1.02 (1990)(Hartley, Danny)(PD)"
+	rom ( name "AZSpell v1.02 (1990)(Hartley, Danny)(PD).adf" size 901120 crc 3c2b1f95 md5 6df63c40c7b7c23d42bf72a5ee408b91 sha1 70d8e408f5509ded35c07f18791137f5c1cbba37 )
+)
+
+game (
+	name "Babylon 5 Cobra Lightwave Objects (19xx)(-)(PD)"
+	description "Babylon 5 Cobra Lightwave Objects (19xx)(-)(PD)"
+	rom ( name "Babylon 5 Cobra Lightwave Objects (19xx)(-)(PD).adf" size 901120 crc 758dcece md5 f79b1ea4f67ae444d96b826c4e0d72eb sha1 3e074104b2a6985253c55fbc52a8d4d18ea88065 )
+)
+
+game (
+	name "Babylon 5 DataFighter Lightwave Objects (19xx)(-)(PD)"
+	description "Babylon 5 DataFighter Lightwave Objects (19xx)(-)(PD)"
+	rom ( name "Babylon 5 DataFighter Lightwave Objects (19xx)(-)(PD).adf" size 901120 crc 1272bc8c md5 2e68b60a4a7ec7eb1865b0482b708bf1 sha1 0da5bbf28a9eba0bed5edc5dc8078a36c1badfe8 )
+)
+
+game (
+	name "Babylon 5 Jumpgate Lightwave Objects (19xx)(-)(PD)"
+	description "Babylon 5 Jumpgate Lightwave Objects (19xx)(-)(PD)"
+	rom ( name "Babylon 5 Jumpgate Lightwave Objects (19xx)(-)(PD).adf" size 901120 crc e6667924 md5 55f4dcb6f224ccf6fb914eae73e0a9de sha1 d61945834e56dcb718043c081de6d55c16258442 )
+)
+
+game (
+	name "Balls! v0.99 (1995)(NFA)(AGA)(SW)"
+	description "Balls! v0.99 (1995)(NFA)(AGA)(SW)"
+	rom ( name "Balls! v0.99 (1995)(NFA)(AGA)(SW).adf" size 901120 crc f1140717 md5 26764560bcf64aa7ec79fa95af161248 sha1 6b6d7cdd4abbc64c7a27248225a60127c9c138f7 )
+)
+
+game (
+	name "BarTender (1995-02-18)(Nelson, Mike)(GW)"
+	description "BarTender (1995-02-18)(Nelson, Mike)(GW)"
+	rom ( name "BarTender (1995-02-18)(Nelson, Mike)(GW).adf" size 901120 crc 8f5ef896 md5 013bf7ec3723acec1110aae2e56b9d97 sha1 cae13360ea79aec466817812b0950da697f84798 )
+)
+
+game (
+	name "bBaseII (1991)(Bromley, Robert)(PD)"
+	description "bBaseII (1991)(Bromley, Robert)(PD)"
+	rom ( name "bBaseII (1991)(Bromley, Robert)(PD).adf" size 901120 crc cf9f8af4 md5 ee4ad752edc90ccf76ab83738957c8dc sha1 6325211faf20fdf0e45c37c1c22437a86ed2a187 )
+)
+
+game (
+	name "BeerMon v0.40 (1992)(Carnivore)(PD)"
+	description "BeerMon v0.40 (1992)(Carnivore)(PD)"
+	rom ( name "BeerMon v0.40 (1992)(Carnivore)(PD).adf" size 901120 crc a5fe234b md5 d46a280076e6feb0718bd6462f768d55 sha1 4b5f3fab4a91cd441115f282ae75bff3ce577a37 )
+)
+
+game (
+	name "BeerMon v0.46c (1993)(Carnivore)(PD)"
+	description "BeerMon v0.46c (1993)(Carnivore)(PD)"
+	rom ( name "BeerMon v0.46c (1993)(Carnivore)(PD).adf" size 901120 crc 484b3590 md5 06cda0ba55fc5a93586d4ee0ab1e0b49 sha1 6d1bae7684478be78daafcaa63b430e70fcf4f72 )
+)
+
+game (
+	name "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)(Colour Fonts)[AMOS]"
+	description "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)(Colour Fonts)[AMOS]"
+	rom ( name "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)(Colour Fonts)[AMOS].adf" size 901120 crc 07a92880 md5 4d37679289cdcfaa3972be0359bf3705 sha1 9b9cdb45bb5f5ec3cccb128440848cbd310fcde0 )
+)
+
+game (
+	name "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)[AMOS]"
+	description "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)[AMOS]"
+	rom ( name "Bells Paint (1995)(Portia Software)(PD)(Disk 1 of 2)[AMOS].adf" size 901120 crc de35a038 md5 b105b4a647f9f1d446d9d19f9e2e4bc1 sha1 c71c5da9f4214e63d887be8eccf8372b61c7eef9 )
+)
+
+game (
+	name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2)"
+	description "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2)"
+	rom ( name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2).adf" size 901120 crc 11dc5ebd md5 4e5549c499a9acaaba797980f1f5d506 sha1 07bb64a7dee05de7b15079d2d9e6e930531cf35e )
+)
+
+game (
+	name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2)[a]"
+	description "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2)[a]"
+	rom ( name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 1 of 2)[a].adf" size 901120 crc df2dfeb8 md5 6831326a3fb634e783b4ab7fa16747b7 sha1 6fc747fa52871ee6f7ed028a54cf409a4061dcd8 )
+)
+
+game (
+	name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2)"
+	description "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2)"
+	rom ( name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2).adf" size 901120 crc 20b0eba0 md5 0628e92bf9b9ff7ffa81717a819e9294 sha1 3a4fa4f024f90fbf93cbcf53853f3cfa0f81f256 )
+)
+
+game (
+	name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2)[a]"
+	description "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2)[a]"
+	rom ( name "Benchmaster v1.1 (1992)(Evans, Simon)(PD)(Disk 2 of 2)[a].adf" size 901120 crc 0f4b92d1 md5 4eff652062bfa2c7a33f3cb07b22a918 sha1 e0f63c80f85a227dfcdfd48f60e36b08b53fc4a4 )
+)
+
+game (
+	name "Black Mentor v2.10 (1991)(Spirit)(PD)[NComm v1.92 script]"
+	description "Black Mentor v2.10 (1991)(Spirit)(PD)[NComm v1.92 script]"
+	rom ( name "Black Mentor v2.10 (1991)(Spirit)(PD)[NComm v1.92 script].adf" size 901120 crc 3679e0cb md5 afeb64fdb7d1933e8de1742af2ba0c20 sha1 1c443b757c5b6096888def35e980f6b63430cc75 )
+)
+
+game (
+	name "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 1 of 2)[KS2.0]"
+	description "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 1 of 2)[KS2.0]"
+	rom ( name "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 1 of 2)[KS2.0].adf" size 901120 crc e7ddcd66 md5 8b743c25a5c02f3cfca44ad0b1a1c267 sha1 3326de151f3268b440b1c8bf733a21a23f451d33 )
+)
+
+game (
+	name "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 2 of 2)[KS2.0]"
+	description "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 2 of 2)[KS2.0]"
+	rom ( name "BlackBoard v2.0 (1994)(F1 Licenceware)(LW)(Disk 2 of 2)[KS2.0].adf" size 901120 crc 19b9d158 md5 deb8748cd1ec96a8555eea73ae6c45a2 sha1 f2cc8adb50f3c2980d49f626d87251a5c7633a02 )
+)
+
+game (
+	name "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD)"
+	description "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD)"
+	rom ( name "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD).adf" size 901120 crc 5aecbf2e md5 0c5e58608bf775e5fff101aeb4424564 sha1 450a24dce558e0214affa07d2dc99d73ecde0ae6 )
+)
+
+game (
+	name "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD)[b]"
+	description "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD)[b]"
+	rom ( name "Brilliant Boot-Utils (19xx)(Huntley, Roy)(PD)[b].adf" size 901120 crc d6b487df md5 55eb5928a9a33e896d43b8281ce82750 sha1 85450a71b632327f587af70176a34f58828dfa20 )
+)
+
+game (
+	name "C-Light v1.06 (1988)(Peterson Enterprises - 17-Bit Software)(SW)"
+	description "C-Light v1.06 (1988)(Peterson Enterprises - 17-Bit Software)(SW)"
+	rom ( name "C-Light v1.06 (1988)(Peterson Enterprises - 17-Bit Software)(SW).adf" size 901120 crc 62cf6adb md5 dc5c134ac4a4c4a84de80d9faf686ca1 sha1 16aa8c32de1d54b21f379d623885da668d1757e4 )
+)
+
+game (
+	name "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 1 of 2)"
+	description "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 1 of 2)"
+	rom ( name "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 1 of 2).adf" size 901120 crc b7ba2238 md5 f68ee77f2b61ff285d5469ff45e57b77 sha1 a199432fb63f3ccbd2eefed7905d6db23b8e3c1a )
+)
+
+game (
+	name "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 2 of 2)"
+	description "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 2 of 2)"
+	rom ( name "C.L.Index Pro v2.0 (19xx)(Richmond, Mike - F1 Licenceware)(LW)(Disk 2 of 2).adf" size 901120 crc f63a8293 md5 4526b1bec03af75b32f8ccb21c34eebc sha1 02cc4f392b6aef381e95571e1db0d95f98623df1 )
+)
+
+game (
+	name "CashMaster (1990)(Intraset)(PD)"
+	description "CashMaster (1990)(Intraset)(PD)"
+	rom ( name "CashMaster (1990)(Intraset)(PD).adf" size 901120 crc 910f8a67 md5 e497f0fa2c8e3b64dcf89e2169a1afa4 sha1 d7dd9997fb4660f542a75b0f422f2c1c39bde415 )
+)
+
+game (
+	name "Cataloger, The (19xx)(Smith, Darnell)(PD)"
+	description "Cataloger, The (19xx)(Smith, Darnell)(PD)"
+	rom ( name "Cataloger, The (19xx)(Smith, Darnell)(PD).adf" size 901120 crc d7b3343c md5 24a093b3c43d0d00da3aea1862ab7569 sha1 d0bd140570d73c623302a1db46c2b727ce96b097 )
+)
+
+game (
+	name "Cataloger, The (19xx)(Smith, Darnell)(PD)[v CCCP]"
+	description "Cataloger, The (19xx)(Smith, Darnell)(PD)[v CCCP]"
+	rom ( name "Cataloger, The (19xx)(Smith, Darnell)(PD)[v CCCP].adf" size 901120 crc 25a49541 md5 180bca967ad435df53316b1c5384790b sha1 7b1471c6b5200ddbba4fd8f9d8da1788231fac2e )
+)
+
+game (
+	name "CD-Boot v1.0 (19xx)(Amiga Legal Emulation)(PD)"
+	description "CD-Boot v1.0 (19xx)(Amiga Legal Emulation)(PD)"
+	rom ( name "CD-Boot v1.0 (19xx)(Amiga Legal Emulation)(PD).adf" size 901120 crc 9898487b md5 50133f71804ed8bdd4cf584aaebfad6b sha1 a7723e0ce8251bca169f45d861ef77ea8bb2a7a4 )
+)
+
+game (
+	name "CDBoot v1.04 (1995)(Kessler, Thomas)(PD)[HD]"
+	description "CDBoot v1.04 (1995)(Kessler, Thomas)(PD)[HD]"
+	rom ( name "CDBoot v1.04 (1995)(Kessler, Thomas)(PD)[HD].adf" size 901120 crc 62e76e90 md5 47ddee869c4ca04c983f2df8dddb10a1 sha1 c940909986aeff53a2703669896e437b65fde453 )
+)
+
+game (
+	name "CFRescue disk v1.00 (2012-03)(Tomse)"
+	description "CFRescue disk v1.00 (2012-03)(Tomse)"
+	rom ( name "CFRescue disk v1.00 (2012-03)(Tomse).adf" size 901120 crc 4d3ebcb4 md5 694dafec6176306e75886159e15170d2 sha1 cb749b73d37dfdc2cf9b214a70deeaa533a03cb8 )
+)
+
+game (
+	name "CFRescue disk v1.10 (2012-06)(Tomse)"
+	description "CFRescue disk v1.10 (2012-06)(Tomse)"
+	rom ( name "CFRescue disk v1.10 (2012-06)(Tomse).adf" size 901120 crc c7b74c8e md5 2b5401fe285cc55af8a47f27b4f71e8d sha1 0e288b63d72c24a5b56aa5c6387bcdda33a392ae )
+)
+
+game (
+	name "CFRescue disk v1.11 (2012-07-05)(Tomse)"
+	description "CFRescue disk v1.11 (2012-07-05)(Tomse)"
+	rom ( name "CFRescue disk v1.11 (2012-07-05)(Tomse).adf" size 901120 crc 323cf9b7 md5 63b408d03db113284ca4400b4f799172 sha1 9729e32c3797239f4bc8333fe6f4b86949009011 )
+)
+
+game (
+	name "Clerk, The v4.0 (1989)(Finley, Sanford)(SW)"
+	description "Clerk, The v4.0 (1989)(Finley, Sanford)(SW)"
+	rom ( name "Clerk, The v4.0 (1989)(Finley, Sanford)(SW).adf" size 901120 crc 86e3eb3c md5 a906d379c784fc7e194eb62d5870266f sha1 febbb8dbceeef0fc4faf34483beea05066621a7a )
+)
+
+game (
+	name "Composer v2.0 (1992)(Pettet, M.)(PD)[a][AMOS]"
+	description "Composer v2.0 (1992)(Pettet, M.)(PD)[a][AMOS]"
+	rom ( name "Composer v2.0 (1992)(Pettet, M.)(PD)[a][AMOS].adf" size 901120 crc fd88b541 md5 68bb3c7d41634b3a380ecb693f3ab4c3 sha1 33176591fb4b532442c2516de149d84290215e71 )
+)
+
+game (
+	name "Composer v2.0 (1992)(Pettet, M.)(PD)[AMOS]"
+	description "Composer v2.0 (1992)(Pettet, M.)(PD)[AMOS]"
+	rom ( name "Composer v2.0 (1992)(Pettet, M.)(PD)[AMOS].adf" size 901120 crc 9d6883fd md5 b1c44c99be0283636d5b9ececabb3196 sha1 4a499461ef3f8ef826d3d545ad6b5b3f2ca504af )
+)
+
+game (
+	name "Converter v1.0 (1990)(Chalmers, S.)(SW)[h Powerslaves][v Revenge]"
+	description "Converter v1.0 (1990)(Chalmers, S.)(SW)[h Powerslaves][v Revenge]"
+	rom ( name "Converter v1.0 (1990)(Chalmers, S.)(SW)[h Powerslaves][v Revenge].adf" size 901120 crc 19d901bb md5 290f0442503e8d12399ad2beda936e83 sha1 55b6beb2d83d0ef794205952ee86d795b2d3d098 )
+)
+
+game (
+	name "Cook Book - Desserts Recipies (19xx)(-)(PD)"
+	description "Cook Book - Desserts Recipies (19xx)(-)(PD)"
+	rom ( name "Cook Book - Desserts Recipies (19xx)(-)(PD).adf" size 901120 crc f46e1fbb md5 fb56066d049facb6102fd5acdb5d19b0 sha1 8112ec2ed48ecb43c3ff10e6e43480bf21291094 )
+)
+
+game (
+	name "Cop The Lot Professional (1995)(Challenge Logic)(PD)"
+	description "Cop The Lot Professional (1995)(Challenge Logic)(PD)"
+	rom ( name "Cop The Lot Professional (1995)(Challenge Logic)(PD).adf" size 901120 crc 1fa8d784 md5 3f87568f7a435381ae4e59e439c8af2e sha1 06e6bb92ee1fd53bbcfaf11fac556dfe0bbad6ed )
+)
+
+game (
+	name "Create Adventure Games v1.0 (1992)(Pinto, Marco)(SW)[AMOS]"
+	description "Create Adventure Games v1.0 (1992)(Pinto, Marco)(SW)[AMOS]"
+	rom ( name "Create Adventure Games v1.0 (1992)(Pinto, Marco)(SW)[AMOS].adf" size 901120 crc 55e1e8a6 md5 b9557634a2d474058c88b2609715bb48 sha1 56ff99173e05a033ab7a34896e08c4eee013a9e7 )
+)
+
+game (
+	name "Cybertracker 0.67 (1995)(Oman, Andreas)(SW)"
+	description "Cybertracker 0.67 (1995)(Oman, Andreas)(SW)"
+	rom ( name "Cybertracker 0.67 (1995)(Oman, Andreas)(SW).adf" size 901120 crc 607f225e md5 42daa0e2b0d6413b574bb28610ec4bd4 sha1 a5e01231b9a6ee67fe35ec0154cdf700aca01964 )
+)
+
+game (
+	name "Database Wizard (1987)(White, J.)(SW)[h Take-2]"
+	description "Database Wizard (1987)(White, J.)(SW)[h Take-2]"
+	rom ( name "Database Wizard (1987)(White, J.)(SW)[h Take-2].adf" size 901120 crc f9c22478 md5 5138501a0611d3733c32a6ddb6a34eab sha1 5ed1d3eb2b69e7ba8917c95c218397ef60c46fed )
+)
+
+game (
+	name "dBase II v5 (1991)(Bromley, Robert)(PD)"
+	description "dBase II v5 (1991)(Bromley, Robert)(PD)"
+	rom ( name "dBase II v5 (1991)(Bromley, Robert)(PD).adf" size 901120 crc e2c27305 md5 093f2472cc934617b456133b2753e7e8 sha1 e18d15803a006eab89a936950d699791d5fe4cab )
+)
+
+game (
+	name "Delitracker v2.0 (1994)(Delirium Softdesign)(SW)[WB]"
+	description "Delitracker v2.0 (1994)(Delirium Softdesign)(SW)[WB]"
+	rom ( name "Delitracker v2.0 (1994)(Delirium Softdesign)(SW)[WB].adf" size 901120 crc 027446b9 md5 a93de2dd3c6d3be626b7f1ed9064aee0 sha1 806fbffa378c2978efc01d8a0f86e823d06aec47 )
+)
+
+game (
+	name "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 1 of 2)(Boot)"
+	description "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 1 of 2)(Boot)"
+	rom ( name "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 1 of 2)(Boot).adf" size 901120 crc f332ba30 md5 9dd9238dc6483ffb11cb41118efd1281 sha1 239c959043f71c8da7ec106863b0e23a5fa89316 )
+)
+
+game (
+	name "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 2 of 2)(Modules)"
+	description "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 2 of 2)(Modules)"
+	rom ( name "Delitracker v2.27 (19xx)(Delirium Softdesign)(SW)(Disk 2 of 2)(Modules).adf" size 901120 crc d926df0d md5 7819676743fc22ef2044103c7b957ab9 sha1 742984d62675250954e0065a148b6298d94d2403 )
+)
+
+game (
+	name "Demo-Intro-Menu Making Disk (19xx)(RB Promotions)(PD)"
+	description "Demo-Intro-Menu Making Disk (19xx)(RB Promotions)(PD)"
+	rom ( name "Demo-Intro-Menu Making Disk (19xx)(RB Promotions)(PD).adf" size 901120 crc 94f7a934 md5 590c8c213806e3c7fed31ffeadf7dee7 sha1 2816571389a970b485abb39fc96c387c4b88ec06 )
+)
+
+game (
+	name "Device-Masher System - DMS v2.02 (1994)(ParCon)[WB]"
+	description "Device-Masher System - DMS v2.02 (1994)(ParCon)[WB]"
+	rom ( name "Device-Masher System - DMS v2.02 (1994)(ParCon)[WB].adf" size 901120 crc 44b40aaa md5 7485f319facc2e77bf5cc3c472469b2e sha1 b7bbc33fa1d50bc61fa3886c2ad8e3894ceabd93 )
+)
+
+game (
+	name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)"
+	description "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)"
+	rom ( name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW).adf" size 901120 crc 85f63b1f md5 7a3c6cde98919599a8861cbca84eaf0b sha1 448af18351250ccf84f3b24562f7c8eb9b18676d )
+)
+
+game (
+	name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[a]"
+	description "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[a]"
+	rom ( name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[a].adf" size 901120 crc df5298e0 md5 57f244da5887271405af783ff2168b65 sha1 8fc5a11c21e8617765841c62fd5cef7e466b7952 )
+)
+
+game (
+	name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[incl. dmswin]"
+	description "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[incl. dmswin]"
+	rom ( name "Device-Masher System - DMS v2.03 (1994)(ParCon)(SW)[incl. dmswin].adf" size 901120 crc 3b3c78a2 md5 5f96e2b133a1a234588868155237d50f sha1 4628720434d0e3184455a35ceb9e447a72e6b189 )
+)
+
+game (
+	name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)"
+	description "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)"
+	rom ( name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW).adf" size 901120 crc c49be662 md5 ec44f2d9c6dc484ced0aaafafb743091 sha1 ce8911b8f12220923a0ac05a444697278d39d84f )
+)
+
+game (
+	name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[a]"
+	description "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[a]"
+	rom ( name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[a].adf" size 901120 crc e37849ac md5 45f8fc6eb98b37f8a1ae11b37e9d15bc sha1 d1a0e3ed1d58f5e1a3c040dc1d929c3820177bae )
+)
+
+game (
+	name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[cr ALiENGROUP]"
+	description "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[cr ALiENGROUP]"
+	rom ( name "Device-Masher System - DMS v2.04 (1994)(ParCon)(SW)[cr ALiENGROUP].adf" size 901120 crc a4aa72b2 md5 827e926fb32e0eca22a2a80f70df66e3 sha1 915ac85a4f432cce689710ee7f16dbba13e56f5c )
+)
+
+game (
+	name "Disc Log v1.3 (19xx)(Bamford, Rich - Bamford, Steve)(PD)"
+	description "Disc Log v1.3 (19xx)(Bamford, Rich - Bamford, Steve)(PD)"
+	rom ( name "Disc Log v1.3 (19xx)(Bamford, Rich - Bamford, Steve)(PD).adf" size 901120 crc 806bce37 md5 a7d5b01d5c2ac7e32b5a4587f428ebdc sha1 aed225152a9cbbf6199efe804faff9a9bff8fd57 )
+)
+
+game (
+	name "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 1 of 2)"
+	description "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 1 of 2)"
+	rom ( name "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 1 of 2).adf" size 901120 crc 595fe7b8 md5 914ec83bdc93ae24c5a0116b6e2fcf6b sha1 aaecb844bd23511219e7b91e1a359a719cbd1372 )
+)
+
+game (
+	name "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 2 of 2)"
+	description "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 2 of 2)"
+	rom ( name "Disk Mag Creator (1995)(Gibson, A. - F1 Licenceware)(LW)(Disk 2 of 2).adf" size 901120 crc c24ca990 md5 f529af499137fc8f2a12705cc18bec48 sha1 e2df1a8746b02b1ae317b67bbe60c0edfb3c5f54 )
+)
+
+game (
+	name "Disk Sticker (1989)(Karnik, Gary)(PD)"
+	description "Disk Sticker (1989)(Karnik, Gary)(PD)"
+	rom ( name "Disk Sticker (1989)(Karnik, Gary)(PD).adf" size 901120 crc 246c8d42 md5 82f241d87fe049133f5839630d50fc69 sha1 c620793a9cbbc03aa5cbba6e40b26e73610205fc )
+)
+
+game (
+	name "Disk Sticker v1.0 (1989)(Karnik, Gary)(PD)[h Realm]"
+	description "Disk Sticker v1.0 (1989)(Karnik, Gary)(PD)[h Realm]"
+	rom ( name "Disk Sticker v1.0 (1989)(Karnik, Gary)(PD)[h Realm].adf" size 901120 crc b76812da md5 86042bb243d388055cadb52af1ccae10 sha1 88cdd21356aabf15e97070a86ff5028bc71d3bf2 )
+)
+
+game (
+	name "DMSer v1.8c (19xx)(Taurus)(PD)"
+	description "DMSer v1.8c (19xx)(Taurus)(PD)"
+	rom ( name "DMSer v1.8c (19xx)(Taurus)(PD).adf" size 901120 crc 9800924f md5 04badc11f72c5affeed691cefbd4d639 sha1 f7e556fcb965cdcac4a79be5d7f95c510cc8ec74 )
+)
+
+game (
+	name "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 1 of 2)"
+	description "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 1 of 2)"
+	rom ( name "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 1 of 2).adf" size 901120 crc e70b815c md5 ec770a65cf405d01dddaaf8a8a1218d9 sha1 39c1c583709665e8edbbd5565c8847c67f759697 )
+)
+
+game (
+	name "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 2 of 2)"
+	description "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 2 of 2)"
+	rom ( name "EaglePlayer v1.54 (1995)(Defect Softworks)(SW)(Disk 2 of 2).adf" size 901120 crc 63ac4cbf md5 4974aa27354a44fc97b1754492b6209d sha1 a0e9fccae54c27714644818cae51016190c8052d )
+)
+
+game (
+	name "Filter Swapper v2.0 (1995)(Dimension X)(PD)"
+	description "Filter Swapper v2.0 (1995)(Dimension X)(PD)"
+	rom ( name "Filter Swapper v2.0 (1995)(Dimension X)(PD).adf" size 901120 crc a5dfbc88 md5 6d10c18ae0e67196b24304867f047efb sha1 32a0de204c4e44f24af43760473d42992c4dc91b )
+)
+
+game (
+	name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 1 of 6)"
+	description "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 1 of 6)"
+	rom ( name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 1 of 6).adf" size 901120 crc 789002ed md5 2ff43387f2ab19f06d565a445723a817 sha1 45b239b161684900b8db5335ae50c2c5a2ae962e )
+)
+
+game (
+	name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 2 of 6)"
+	description "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 2 of 6)"
+	rom ( name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 2 of 6).adf" size 901120 crc 0dd6eefd md5 3b1467bd1f64b768fabf23fbde0dffc8 sha1 914090a94cb7759f66081385d6b3a543443a4c80 )
+)
+
+game (
+	name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 3 of 6)"
+	description "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 3 of 6)"
+	rom ( name "Fletcher Fonts (19xx)(PD Soft)(LW)(Disk 3 of 6).adf" size 901120 crc 9f636e46 md5 9caaba3ef386d27a5d252321c233445a sha1 a4c6a21815ca452940bb230f74b171019024df52 )
+)
+
+game (
+	name "Flexi-Base v2.0 (1990)(Henderson, Andy)(PD)"
+	description "Flexi-Base v2.0 (1990)(Henderson, Andy)(PD)"
+	rom ( name "Flexi-Base v2.0 (1990)(Henderson, Andy)(PD).adf" size 901120 crc e5f99ff2 md5 59a3d09739f7abb110454a38f40fe7e2 sha1 95ffaebb3878689cf085fdca6f337312677bff64 )
+)
+
+game (
+	name "Fortran Compiler v1.3c (19xx)(PD Soft - 17-Bit Software)(PD)"
+	description "Fortran Compiler v1.3c (19xx)(PD Soft - 17-Bit Software)(PD)"
+	rom ( name "Fortran Compiler v1.3c (19xx)(PD Soft - 17-Bit Software)(PD).adf" size 901120 crc 2216e689 md5 53e16d97303fbda9eecb933cf36f91f0 sha1 8c73dda3ce6de4c8a0e8550e73fe91f29839fcdb )
+)
+
+game (
+	name "Free Block Scanner v1.0 (1992)(Outlanders)(PD)"
+	description "Free Block Scanner v1.0 (1992)(Outlanders)(PD)"
+	rom ( name "Free Block Scanner v1.0 (1992)(Outlanders)(PD).adf" size 901120 crc 36ecf5db md5 7f8c773bb71187856db524611b722b49 sha1 c36c42a7c070f2cc9e3b43a46151877285d8f5de )
+)
+
+game (
+	name "Free Paint rev.37 ETA (1992)(Trost, Bjorn - Sandman PD)(PD)"
+	description "Free Paint rev.37 ETA (1992)(Trost, Bjorn - Sandman PD)(PD)"
+	rom ( name "Free Paint rev.37 ETA (1992)(Trost, Bjorn - Sandman PD)(PD).adf" size 901120 crc 5b0d3f8c md5 ae79a020f51b95b05521269196443483 sha1 ac3da4b89bbcbb7e9c47682f89f98017977f4f3b )
+)
+
+game (
+	name "FreeForm v1.87 (199x)(Owurowa, Fori - 17-Bit Software)(SW)"
+	description "FreeForm v1.87 (199x)(Owurowa, Fori - 17-Bit Software)(SW)"
+	rom ( name "FreeForm v1.87 (199x)(Owurowa, Fori - 17-Bit Software)(SW).adf" size 901120 crc 99eccf80 md5 1a07dc10600090e930135a62c11cbeca sha1 d7b4981bd0f610638b3cfa5b34c4c5d162ba1a74 )
+)
+
+game (
+	name "FrexxED v0.97 (1994-10-25)(FrexxWare)(SW)[WB]"
+	description "FrexxED v0.97 (1994-10-25)(FrexxWare)(SW)[WB]"
+	rom ( name "FrexxED v0.97 (1994-10-25)(FrexxWare)(SW)[WB].adf" size 901120 crc bdf06b37 md5 20b315838d68a83e1f74a8b2202c2be4 sha1 e0f9022fa4fdba45bb6ffb199b826b0d7b5cded4 )
+)
+
+game (
+	name "Genealogy on Display v3.0 (1985)(Duke, Melvin)(PD)"
+	description "Genealogy on Display v3.0 (1985)(Duke, Melvin)(PD)"
+	rom ( name "Genealogy on Display v3.0 (1985)(Duke, Melvin)(PD).adf" size 901120 crc f743c109 md5 4129e4fc9cc0439454b4c34694e165b2 sha1 0c4f1fb9c0877fd220ea1e7feeedb383c0419ae4 )
+)
+
+game (
+	name "Grim Scanner, The (1990-04-20)(IXOM)(PD)[GrimDox.EXE]"
+	description "Grim Scanner, The (1990-04-20)(IXOM)(PD)[GrimDox.EXE]"
+	rom ( name "Grim Scanner, The (1990-04-20)(IXOM)(PD)[GrimDox.EXE].adf" size 901120 crc 71c1cd81 md5 300658d4fb551442f49eaba49dd20a9f sha1 7814a56cd2df4fa42799a1c18ee48b33509268cc )
+)
+
+game (
+	name "HDClick v2.0 (1991)(Mueller, Claude - 17-Bit Software)(SW)"
+	description "HDClick v2.0 (1991)(Mueller, Claude - 17-Bit Software)(SW)"
+	rom ( name "HDClick v2.0 (1991)(Mueller, Claude - 17-Bit Software)(SW).adf" size 901120 crc f515326f md5 7765bd6feb38b4e231d96cabf2853e42 sha1 500d05ea5f33e8287b70e67aa6b02106b3ef3486 )
+)
+
+game (
+	name "Icon Mania (19xx)(-)(PD)"
+	description "Icon Mania (19xx)(-)(PD)"
+	rom ( name "Icon Mania (19xx)(-)(PD).adf" size 901120 crc c6dbfe52 md5 0a6c97dc697f9e8128810344a0319e0f sha1 89a9c148083047f9578f42f8f96b723da62bc020 )
+)
+
+game (
+	name "ImageDesk v1.5 (1995)(Haslbeck, Reinhard)(SW)"
+	description "ImageDesk v1.5 (1995)(Haslbeck, Reinhard)(SW)"
+	rom ( name "ImageDesk v1.5 (1995)(Haslbeck, Reinhard)(SW).adf" size 901120 crc 2446d438 md5 0af4b8bab371d477575200ea19cc72ce sha1 5394b5ee2fc73cb1976e9b26eeaa117fb4667769 )
+)
+
+game (
+	name "ImageDesk v2.0 (1995)(Haslbeck, Reinhard)(en-de)(SW)[cr CRX]"
+	description "ImageDesk v2.0 (1995)(Haslbeck, Reinhard)(en-de)(SW)[cr CRX]"
+	rom ( name "ImageDesk v2.0 (1995)(Haslbeck, Reinhard)(en-de)(SW)[cr CRX].adf" size 901120 crc 58824a58 md5 0e1daec28748b7871178ee3c6995e086 sha1 6673399a0df27ee875e1b54754aefceb845b12dd )
+)
+
+game (
+	name "Imploader v4.0 (1991-07-30)(Struijk, Peter - Brouwer, Albert)(FW)"
+	description "Imploader v4.0 (1991-07-30)(Struijk, Peter - Brouwer, Albert)(FW)"
+	rom ( name "Imploader v4.0 (1991-07-30)(Struijk, Peter - Brouwer, Albert)(FW).adf" size 901120 crc 8db425d2 md5 fb718d24f68cab28c23765fabcca65be sha1 44cbf2f45ec5d66134fb8635b6ba608bbbfa8c3e )
+)
+
+game (
+	name "Intromaker v1.60 (19xx)(Empire PD)(PD)[h Bavariansoft]"
+	description "Intromaker v1.60 (19xx)(Empire PD)(PD)[h Bavariansoft]"
+	rom ( name "Intromaker v1.60 (19xx)(Empire PD)(PD)[h Bavariansoft].adf" size 901120 crc 878f077e md5 e190e492ed6f673d7848e4cdc5b159fb sha1 2ac66998c4b65f80f005a526c92892bb087fe8c8 )
+)
+
+game (
+	name "JamCrackerPro v1.0a (19xx)(Betrayal)(PD)"
+	description "JamCrackerPro v1.0a (19xx)(Betrayal)(PD)"
+	rom ( name "JamCrackerPro v1.0a (19xx)(Betrayal)(PD).adf" size 901120 crc 7235afef md5 76fd5161c79940c5a7f04d566071623d sha1 0894034d837afe60aa7ec768962f7f26731ddfbc )
+)
+
+game (
+	name "Jazzbench v0.8 (1989)(Navas, David)(PD)"
+	description "Jazzbench v0.8 (1989)(Navas, David)(PD)"
+	rom ( name "Jazzbench v0.8 (1989)(Navas, David)(PD).adf" size 901120 crc 0a3450dc md5 ae962127d0202d01cb4fa3c61039a01e sha1 9bbf231cbb74008baf443ead88a4333941609e22 )
+)
+
+game (
+	name "Jazzbench v0.8 (1989)(Navas, David)(PD)[a]"
+	description "Jazzbench v0.8 (1989)(Navas, David)(PD)[a]"
+	rom ( name "Jazzbench v0.8 (1989)(Navas, David)(PD)[a].adf" size 901120 crc 4e0ec740 md5 a773a4aed22d1f55b84eaecfbcc4921f sha1 63ea2fecbcd6a625ffec99f236d84a36442906de )
+)
+
+game (
+	name "Jazzbench v0.8 (1989)(Navas, David)(PD)[h Amiganuts]"
+	description "Jazzbench v0.8 (1989)(Navas, David)(PD)[h Amiganuts]"
+	rom ( name "Jazzbench v0.8 (1989)(Navas, David)(PD)[h Amiganuts].adf" size 901120 crc 914317c2 md5 fae8ea00f030e22c430dfcd623043109 sha1 e549b919e4a57a6d28b43ca8cab4c3fb5a7b8617 )
+)
+
+game (
+	name "Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW)"
+	description "Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW)"
+	rom ( name "Knitting Pattern Creator (19xx)(Knight, John - F1 Licenceware)(LW).adf" size 901120 crc bbba2858 md5 26586cf55a70a93fb7ea90df996e7e7e sha1 65935e07e43ece15a68eac84d8d65cd61352e492 )
+)
+
+game (
+	name "Landscape (1991)(Goddard, Steve)(PD)"
+	description "Landscape (1991)(Goddard, Steve)(PD)"
+	rom ( name "Landscape (1991)(Goddard, Steve)(PD).adf" size 901120 crc e898f87e md5 5f72eebe2e5b031275c44715d72beeb2 sha1 ece53fed8a9999dc9cd61c8d397eb57342454fc4 )
+)
+
+game (
+	name "Last Will And Testament v1.03 (19xx)(McCrory, Adam - Rose, James)(PD)"
+	description "Last Will And Testament v1.03 (19xx)(McCrory, Adam - Rose, James)(PD)"
+	rom ( name "Last Will And Testament v1.03 (19xx)(McCrory, Adam - Rose, James)(PD).adf" size 901120 crc 9d270d0d md5 3bc9f3661bc919521658ce6a08493021 sha1 a8dfeda67899e21a74f1bd3c4ddaf29ca38ad6e0 )
+)
+
+game (
+	name "Latest Disk of Printer Drivers (19xx)(Twilight)(PD)"
+	description "Latest Disk of Printer Drivers (19xx)(Twilight)(PD)"
+	rom ( name "Latest Disk of Printer Drivers (19xx)(Twilight)(PD).adf" size 901120 crc 78caecc0 md5 4ec99329c636ed499031ee3f38e2fded sha1 43fe1cd2810c41a1a4259b51e921d041b70ef620 )
+)
+
+game (
+	name "LeeJan Enterprises Disk 156 (19xx)(LeeJan Enterprises)(PD)[v Lamer Exterminator]"
+	description "LeeJan Enterprises Disk 156 (19xx)(LeeJan Enterprises)(PD)[v Lamer Exterminator]"
+	rom ( name "LeeJan Enterprises Disk 156 (19xx)(LeeJan Enterprises)(PD)[v Lamer Exterminator].adf" size 901120 crc df7c1c5f md5 5489811e3eb97ef88077503d16681942 sha1 c097be812f039f4a575e479c9367c80dde8d9211 )
+)
+
+game (
+	name "Letterwriter v2.0 (19xx)(Red Sector)(PD)[Crazy Typer]"
+	description "Letterwriter v2.0 (19xx)(Red Sector)(PD)[Crazy Typer]"
+	rom ( name "Letterwriter v2.0 (19xx)(Red Sector)(PD)[Crazy Typer].adf" size 901120 crc c85a7c66 md5 bf92a60e2c63699754367c9fd7db47a5 sha1 5a7e02798c7d8b028924708e708fe84c018236e7 )
+)
+
+game (
+	name "Logbook for Amateur Radio (19xx)(Venema, Arend)(SW)"
+	description "Logbook for Amateur Radio (19xx)(Venema, Arend)(SW)"
+	rom ( name "Logbook for Amateur Radio (19xx)(Venema, Arend)(SW).adf" size 901120 crc ffdd7313 md5 edeaa98335413fd5296dec97dcbe192a sha1 44ef954732b1fcb39a3d35be20b70dba5e8aa199 )
+)
+
+game (
+	name "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD)"
+	description "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD)"
+	rom ( name "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD).adf" size 901120 crc 250a1831 md5 4a30efd1f17d59361f97716a2e174849 sha1 22d8a932c43b079d31f491cee623ac851028339c )
+)
+
+game (
+	name "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD)[a]"
+	description "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD)[a]"
+	rom ( name "Lyapunov Space Generator v1.0 (1992)(Head, David)(PD)[a].adf" size 901120 crc 2f8b5324 md5 5ae10243cf1c1e2e203f0837787f3b01 sha1 9c3681b072c15e044978a48f1731098748121f15 )
+)
+
+game (
+	name "Magic Expansion v1.3 (1994)(Beigel, Johannes)(PD)[HD]"
+	description "Magic Expansion v1.3 (1994)(Beigel, Johannes)(PD)[HD]"
+	rom ( name "Magic Expansion v1.3 (1994)(Beigel, Johannes)(PD)[HD].adf" size 901120 crc be091aaf md5 6a1e1059ff5d03eb9c6f6d335b22a9af sha1 208473d0ef6eef0e81187335c96ee91ef78ef752 )
+)
+
+game (
+	name "Magic User Interface v3.0 (1995)(Stuntz, S.)(SW)[cr][aka MUI]"
+	description "Magic User Interface v3.0 (1995)(Stuntz, S.)(SW)[cr][aka MUI]"
+	rom ( name "Magic User Interface v3.0 (1995)(Stuntz, S.)(SW)[cr][aka MUI].adf" size 901120 crc 23448d48 md5 00387a398c4e52113711537f6765f371 sha1 26c0b4e03f9c72a8e4c93c9c5c0479b978f7427a )
+)
+
+game (
+	name "Magic User Interface v3.8 (1997)(Stuntz, S.)(SW)[aka MUI]"
+	description "Magic User Interface v3.8 (1997)(Stuntz, S.)(SW)[aka MUI]"
+	rom ( name "Magic User Interface v3.8 (1997)(Stuntz, S.)(SW)[aka MUI].adf" size 901120 crc 3726a6b6 md5 db4d25af511d4d4e481951790344775f sha1 68daa07f9e0d14d272051db53b8ba398535cc64b )
+)
+
+game (
+	name "Magic Workbench (19xx)(Amiga Legal Emulation)(PD)"
+	description "Magic Workbench (19xx)(Amiga Legal Emulation)(PD)"
+	rom ( name "Magic Workbench (19xx)(Amiga Legal Emulation)(PD).adf" size 901120 crc d3f4cc44 md5 e7d5d87e3d7a79e3d40d20fbc1899838 sha1 59d9c61d30918d26aff60f1e7a6844749874e3c2 )
+)
+
+game (
+	name "Magic Workbench Extras Volume 1 (19xx)(Amiga Legal Emulation)(PD)"
+	description "Magic Workbench Extras Volume 1 (19xx)(Amiga Legal Emulation)(PD)"
+	rom ( name "Magic Workbench Extras Volume 1 (19xx)(Amiga Legal Emulation)(PD).adf" size 901120 crc 3b60c3fe md5 a338a0028af53441eda6861bd094fa17 sha1 6d8359dd5837a06db97f6f7cb660c123aaa331c3 )
+)
+
+game (
+	name "Magic Workbench Extras Volume 2 (19xx)(Amiga Legal Emulation)(PD)"
+	description "Magic Workbench Extras Volume 2 (19xx)(Amiga Legal Emulation)(PD)"
+	rom ( name "Magic Workbench Extras Volume 2 (19xx)(Amiga Legal Emulation)(PD).adf" size 901120 crc 8a4215f8 md5 a32450342260ee87991b521e614b9654 sha1 586ba132ddc95d93803bd1147c74f0ceb06abb9a )
+)
+
+game (
+	name "Magnum Pro (19xx)(F1 Licenceware)(LW)[disk mag tool]"
+	description "Magnum Pro (19xx)(F1 Licenceware)(LW)[disk mag tool]"
+	rom ( name "Magnum Pro (19xx)(F1 Licenceware)(LW)[disk mag tool].adf" size 901120 crc a7376d84 md5 3818bdeda461dbe87299251bb5c297ab sha1 5f21d6625f6c556b89de168b3bffb8b6e130a6c0 )
+)
+
+game (
+	name "MainActor v1.54 (199x)(MainConcept)(SW)[cr Famous O'Hack][HD]"
+	description "MainActor v1.54 (199x)(MainConcept)(SW)[cr Famous O'Hack][HD]"
+	rom ( name "MainActor v1.54 (199x)(MainConcept)(SW)[cr Famous O'Hack][HD].adf" size 901120 crc f6766b08 md5 206332f8f15d2e98c570180bd71ad8f3 sha1 2d01a72c9b8ae1815e4eca9ecf9f2f521c3e5f16 )
+)
+
+game (
+	name "MakeCD v2.5 (1997)(Schmidt, Angela - Ohly, Patrick)(SW)[WB]"
+	description "MakeCD v2.5 (1997)(Schmidt, Angela - Ohly, Patrick)(SW)[WB]"
+	rom ( name "MakeCD v2.5 (1997)(Schmidt, Angela - Ohly, Patrick)(SW)[WB].adf" size 901120 crc bb3e527f md5 fc844dc1c29ca934521e7e0f2d43c3e0 sha1 7cf6f3f409f37992a84fd7563d5c01da2e77e4a3 )
+)
+
+game (
+	name "MakeCD v3.2a (1998)(Schmidt, Angela - Ohly, Patrick)(SW)[WB]"
+	description "MakeCD v3.2a (1998)(Schmidt, Angela - Ohly, Patrick)(SW)[WB]"
+	rom ( name "MakeCD v3.2a (1998)(Schmidt, Angela - Ohly, Patrick)(SW)[WB].adf" size 901120 crc 999d9c6c md5 5c0e3d737142954b6c77028b4a5d36c7 sha1 6f41153550c3e4a95791bcc191ef2565335154f5 )
+)
+
+game (
+	name "Map-Editor v1.1 (1991)(PSO)(PD)"
+	description "Map-Editor v1.1 (1991)(PSO)(PD)"
+	rom ( name "Map-Editor v1.1 (1991)(PSO)(PD).adf" size 901120 crc 31b3780d md5 286dfcb6a5ccc9f215175279923fe23f sha1 035483e523fd3479f3cff61da1e412b0857cddea )
+)
+
+game (
+	name "Master Virus Killer, The v2.0 (1991)(Xavier, Leclercq)(SW)[h Domenico Soft]"
+	description "Master Virus Killer, The v2.0 (1991)(Xavier, Leclercq)(SW)[h Domenico Soft]"
+	rom ( name "Master Virus Killer, The v2.0 (1991)(Xavier, Leclercq)(SW)[h Domenico Soft].adf" size 901120 crc 60de0660 md5 b03e967b23b6225ae6391118c59262ff sha1 b1dfe232dd7cdda1530702a0a7b8d988b033bee0 )
+)
+
+game (
+	name "Master Virus Killer, The v2.1 (1991)(Xavier, Leclercq)(SW)[h Unit Gang]"
+	description "Master Virus Killer, The v2.1 (1991)(Xavier, Leclercq)(SW)[h Unit Gang]"
+	rom ( name "Master Virus Killer, The v2.1 (1991)(Xavier, Leclercq)(SW)[h Unit Gang].adf" size 901120 crc f4655e9c md5 4dc2045058407c15a5d1c4a77e8a8012 sha1 7024e3231360c90d4c44fdb5d86ec604006f43f4 )
+)
+
+game (
+	name "mCAD v1.2.5 (1987)(Mooney, Tim - 17-Bit Software)(SW)"
+	description "mCAD v1.2.5 (1987)(Mooney, Tim - 17-Bit Software)(SW)"
+	rom ( name "mCAD v1.2.5 (1987)(Mooney, Tim - 17-Bit Software)(SW).adf" size 901120 crc e90f6530 md5 09c427edcb294efa89b5fd354c376d5e sha1 2a8608b50ba0ace164f890142765e0dcb8e96e3f )
+)
+
+game (
+	name "MegaJitter (1994)(Vanheksuwe, L.)(PD)[b checksum error]"
+	description "MegaJitter (1994)(Vanheksuwe, L.)(PD)[b checksum error]"
+	rom ( name "MegaJitter (1994)(Vanheksuwe, L.)(PD)[b checksum error].adf" size 901120 crc c7b20b5a md5 fb211dfbc6c80692ad002d15a96672b0 sha1 7b3187e0b0d6ad6442d26f9ea73e64d828f8e2e0 )
+)
+
+game (
+	name "Menus & More (1994)(Sodtalbers, Axel)(SW)"
+	description "Menus & More (1994)(Sodtalbers, Axel)(SW)"
+	rom ( name "Menus & More (1994)(Sodtalbers, Axel)(SW).adf" size 901120 crc 4bcdf89a md5 c3253c42a30d5db8dc599b8788d50b58 sha1 ecc18b05a65c1f6e0ebb8bde0ca1a0cd57fb1d67 )
+)
+
+game (
+	name "Messy Sid II (1991-08)(Tullin, Jeff)(PD)"
+	description "Messy Sid II (1991-08)(Tullin, Jeff)(PD)"
+	rom ( name "Messy Sid II (1991-08)(Tullin, Jeff)(PD).adf" size 901120 crc bf0cd9bf md5 2ea654b92b41e36dedd5f5921ce35f02 sha1 5d642ebb63bdd7ff9b928ef0596ba65c0f5f51b5 )
+)
+
+game (
+	name "Messy Sid II (1991-08)(Tullin, Jeff)(PD)[a]"
+	description "Messy Sid II (1991-08)(Tullin, Jeff)(PD)[a]"
+	rom ( name "Messy Sid II (1991-08)(Tullin, Jeff)(PD)[a].adf" size 901120 crc 3b21da81 md5 40e599441a7fd5d35d1594434285026c sha1 026eb45431529c4274c5f5f8646648351a197e91 )
+)
+
+game (
+	name "MetaForm Tutorial (19xx)(17-Bit Software)(PD)"
+	description "MetaForm Tutorial (19xx)(17-Bit Software)(PD)"
+	rom ( name "MetaForm Tutorial (19xx)(17-Bit Software)(PD).adf" size 901120 crc bf8c1d71 md5 eacc558a41199095b17fca3d53621fae sha1 9e0944b89377c822f38a7d50fa2d4bfc32a4a6d5 )
+)
+
+game (
+	name "miniBBS v1.5 (1989-04-13)(Riera, G.)(IT)"
+	description "miniBBS v1.5 (1989-04-13)(Riera, G.)(IT)"
+	rom ( name "miniBBS v1.5 (1989-04-13)(Riera, G.)(IT).adf" size 901120 crc e3e7f4e6 md5 44538dfbd7c3dce3f2b4d33cd880887b sha1 5fd84fb20f12540ef2f3b3b4c4b710b1f3520b3c )
+)
+
+game (
+	name "Miser Print v1.14 (1995-01-12)(Boettger, Heinz-Guenter)(GW)"
+	description "Miser Print v1.14 (1995-01-12)(Boettger, Heinz-Guenter)(GW)"
+	rom ( name "Miser Print v1.14 (1995-01-12)(Boettger, Heinz-Guenter)(GW).adf" size 901120 crc 45869dca md5 faa5a08c01c2d9a5a8bf81621e3363b9 sha1 5fa018512ed0f02da24ad017f128ab01606765a2 )
+)
+
+game (
+	name "Mobed 2 (1991)(Jones, Martin - 17-Bit Software)(PD)"
+	description "Mobed 2 (1991)(Jones, Martin - 17-Bit Software)(PD)"
+	rom ( name "Mobed 2 (1991)(Jones, Martin - 17-Bit Software)(PD).adf" size 901120 crc 384d612c md5 d3e4d8fb752c19587378091888a7326e sha1 7c83446f71ec4f0b5012fba1c0e5b8f268f390de )
+)
+
+game (
+	name "Money Program v1.0, The (19xx)(Bilsborough, Alan)(SW)[AMOS]"
+	description "Money Program v1.0, The (19xx)(Bilsborough, Alan)(SW)[AMOS]"
+	rom ( name "Money Program v1.0, The (19xx)(Bilsborough, Alan)(SW)[AMOS].adf" size 901120 crc 79f03d42 md5 6a03f9f81230f4319c46873a27a68f3c sha1 2ff3c07aecd9ca78cfe42d1c8b3c3297ca39a7a0 )
+)
+
+game (
+	name "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave]"
+	description "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave]"
+	rom ( name "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 1 of 2)[req. LightWave].adf" size 901120 crc f48244c4 md5 4dce0bd042e79bc08a208048b92ee9ad sha1 db25dd29addd8ab4afa363bccf4a353158e8c87e )
+)
+
+game (
+	name "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 2 of 2)[req. LightWave]"
+	description "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 2 of 2)[req. LightWave]"
+	rom ( name "Motion Master II (1994)(Tindall, Jon)(PD)(Disk 2 of 2)[req. LightWave].adf" size 901120 crc a287710b md5 fd3083550504fc0eb36cbc02e372b604 sha1 8d15bf203f9348f44d9239a2698df372c1e96886 )
+)
+
+game (
+	name "MPeg Play v1.03 (1994)(van Elst, Michael)(PD)"
+	description "MPeg Play v1.03 (1994)(van Elst, Michael)(PD)"
+	rom ( name "MPeg Play v1.03 (1994)(van Elst, Michael)(PD).adf" size 901120 crc 08f75049 md5 5fb938adeb88f2b14069b712b7c87734 sha1 b871eb41f84fee8a9c23829262226ead63d46282 )
+)
+
+game (
+	name "MTCopy v1.1 (19xx)(Strik, Gert-Jan)(SW)"
+	description "MTCopy v1.1 (19xx)(Strik, Gert-Jan)(SW)"
+	rom ( name "MTCopy v1.1 (19xx)(Strik, Gert-Jan)(SW).adf" size 901120 crc 13d3c803 md5 f1a72299828c940a92c401305a62dd0d sha1 f75dc7c5937bad364d2f6cddd77d6d6e10ec4cfe )
+)
+
+game (
+	name "Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD)"
+	description "Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD)"
+	rom ( name "Multiplot XLNe v1.1 (1991)(Baxter, A. - Mooney, T.)(PD).adf" size 901120 crc 48e8a155 md5 f8ce0e6868c962db9c9d3b82d332f1f2 sha1 c3b54368dd40ed093b68294254c172ed3a933e92 )
+)
+
+game (
+	name "Music2Tab Excel v1.61 (1995)(Family '95, The - F1 Licenceware)(LW)"
+	description "Music2Tab Excel v1.61 (1995)(Family '95, The - F1 Licenceware)(LW)"
+	rom ( name "Music2Tab Excel v1.61 (1995)(Family '95, The - F1 Licenceware)(LW).adf" size 901120 crc 71d4c276 md5 c05944c2ceac71feea15347970a60e36 sha1 5e2271dcc7726c2a41ea548392515e6f3aeaa03c )
+)
+
+game (
+	name "Musicline Editor (1995)(Musicline)(SW)[cr Bad Brother]"
+	description "Musicline Editor (1995)(Musicline)(SW)[cr Bad Brother]"
+	rom ( name "Musicline Editor (1995)(Musicline)(SW)[cr Bad Brother].adf" size 901120 crc d60b0260 md5 5cacf779eff7d25009bd2d638a8fcf86 sha1 5d9e0ad3377c2b5cc0854717d439eb3c2e2f6a6d )
+)
+
+game (
+	name "MWB_Dopus (1995)(Morris, Trevor)(PD)[req Dopus]"
+	description "MWB_Dopus (1995)(Morris, Trevor)(PD)[req Dopus]"
+	rom ( name "MWB_Dopus (1995)(Morris, Trevor)(PD)[req Dopus].adf" size 901120 crc f73c6999 md5 45bd29787bf15f2a03fb610f216657c6 sha1 5f52eb7c068460327165272a49922a1671f9632e )
+)
+
+game (
+	name "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW)"
+	description "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW)"
+	rom ( name "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW).adf" size 901120 crc be8af8a3 md5 a6fa5a3c70caa2489ae3ac529ee17cb2 sha1 1bec803a76b8414f92a876e6a15c7feaf3ef95ca )
+)
+
+game (
+	name "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW)[a]"
+	description "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW)[a]"
+	rom ( name "NComm v2.0 (1992-03-09)(Lodberg, Torkel)(SW)[a].adf" size 901120 crc 7113cb99 md5 2e9f94f4002314156ac2c81807cf5a32 sha1 7065c610b4b3b446482b5884a50541c506c6941c )
+)
+
+game (
+	name "New Superkillers, The (1991-01-01)(Safe Hex International)(PD)"
+	description "New Superkillers, The (1991-01-01)(Safe Hex International)(PD)"
+	rom ( name "New Superkillers, The (1991-01-01)(Safe Hex International)(PD).adf" size 901120 crc d20fcdc3 md5 cc0448278186d2a51f7999bbb3eb5d94 sha1 35c6abfbbd913377ae21b729ab357a07ec829355 )
+)
+
+game (
+	name "New Superkillers, The (1991-01-01)(Safe Hex International)(PD)[a]"
+	description "New Superkillers, The (1991-01-01)(Safe Hex International)(PD)[a]"
+	rom ( name "New Superkillers, The (1991-01-01)(Safe Hex International)(PD)[a].adf" size 901120 crc 8527aec5 md5 48a699e77a6d05c2ebb809ac29a2eefc sha1 146201f90e6a6b91e85734e110fef850bfe958c3 )
+)
+
+game (
+	name "New Superkillers, The (1991-05-04)(Safe Hex International)(PD)[123 virii]"
+	description "New Superkillers, The (1991-05-04)(Safe Hex International)(PD)[123 virii]"
+	rom ( name "New Superkillers, The (1991-05-04)(Safe Hex International)(PD)[123 virii].adf" size 901120 crc b1b2642a md5 201cf6004691912454091fe9c6070577 sha1 8af41b5400065cced8c9302bf07bf7eee918d780 )
+)
+
+game (
+	name "New Superkillers, The (1992-05-26)(Safe Hex international)(PD)[233 virii]"
+	description "New Superkillers, The (1992-05-26)(Safe Hex international)(PD)[233 virii]"
+	rom ( name "New Superkillers, The (1992-05-26)(Safe Hex international)(PD)[233 virii].adf" size 901120 crc 4cd2dcf9 md5 409d638333b031c2f380d395b5c40ca9 sha1 3944c9ebef8e9043722960f6afa5298c8ea93967 )
+)
+
+game (
+	name "New Superkillers, The (1992-07-12)(Safe Hex international)(PD)[237 virii]"
+	description "New Superkillers, The (1992-07-12)(Safe Hex international)(PD)[237 virii]"
+	rom ( name "New Superkillers, The (1992-07-12)(Safe Hex international)(PD)[237 virii].adf" size 901120 crc ea92d2b9 md5 4c3d2c0047f1719e202d48373d515a30 sha1 f5618e99ebd43bf7d9ab229ad043d5d8637f2495 )
+)
+
+game (
+	name "New Superkillers, The (1992-07-24)(Safe Hex International)(PD)[268 virii]"
+	description "New Superkillers, The (1992-07-24)(Safe Hex International)(PD)[268 virii]"
+	rom ( name "New Superkillers, The (1992-07-24)(Safe Hex International)(PD)[268 virii].adf" size 901120 crc 2d3870ac md5 0b9dde4862aa33aa17acb28a70a572d6 sha1 24b35717907fed1db068af586c7873707b06bed5 )
+)
+
+game (
+	name "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 1 of 2)[362 virii]"
+	description "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 1 of 2)[362 virii]"
+	rom ( name "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 1 of 2)[362 virii].adf" size 901120 crc 7d8040e2 md5 3ef3ab6cb0a6c3692c39b6465fb7d742 sha1 3c1ffda1ebaa91f958c7dd75e19a44bf7a38df55 )
+)
+
+game (
+	name "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 2 of 2)(Support Disk)"
+	description "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 2 of 2)(Support Disk)"
+	rom ( name "New Superkillers, The (1993-08-07)(Safe Hex International)(DE)(PD)(Disk 2 of 2)(Support Disk).adf" size 901120 crc 137e69ee md5 f81930e5cfd98d0c24af5df5903aa8ef sha1 d33dcef02651a8e2ec659d7191ac88b04ca00bf4 )
+)
+
+game (
+	name "Non Intelligent AMOS Language Learner v1.0 (1990-08)(Peck, Matthew)(PD)"
+	description "Non Intelligent AMOS Language Learner v1.0 (1990-08)(Peck, Matthew)(PD)"
+	rom ( name "Non Intelligent AMOS Language Learner v1.0 (1990-08)(Peck, Matthew)(PD).adf" size 901120 crc 04d65d59 md5 41bde6ae9d4be9c19405974e3b3175cb sha1 b769e95efa4347b73720f7d3426865603ba0da79 )
+)
+
+game (
+	name "ParBENCH - ParNET Installation Scripts Disk v3.0 (1992)(Software Distillery - Graner, Vernon)(FW)[WB]"
+	description "ParBENCH - ParNET Installation Scripts Disk v3.0 (1992)(Software Distillery - Graner, Vernon)(FW)[WB]"
+	rom ( name "ParBENCH - ParNET Installation Scripts Disk v3.0 (1992)(Software Distillery - Graner, Vernon)(FW)[WB].adf" size 901120 crc 6bc11aca md5 ced637dfefb0ab33e8bc1f6a5c88005c sha1 35c1eb36e67bd6ff6763f66687d02c99fd499a10 )
+)
+
+game (
+	name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)"
+	description "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)"
+	rom ( name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW).adf" size 901120 crc d958a755 md5 73739379f14a792e938af3a6be477df6 sha1 a330f2ccbeafe3798498ffa6d2d2c9f3baf96ac1 )
+)
+
+game (
+	name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[a]"
+	description "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[a]"
+	rom ( name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[a].adf" size 901120 crc 74a2fb91 md5 0738b1b1d25e5cc8c42652df0541a84b sha1 db85dec513a8f513064f8dec4b75a850b4035dc0 )
+)
+
+game (
+	name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE]"
+	description "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE]"
+	rom ( name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE].adf" size 901120 crc b57d890b md5 7536bb47c2180e491c9df0e44a38b3ce sha1 fd8b3042889a4745848741b9bc867ecaf692f158 )
+)
+
+game (
+	name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE][a]"
+	description "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE][a]"
+	rom ( name "ParBENCH - ParNET Installation Scripts Disk v3.1 (1992)(Software Distillery - Graner, Vernon)(FW)[h ALE][a].adf" size 901120 crc 9d3d1fd4 md5 4680fc546d1a415c5e097fcaf4ea7d12 sha1 4f4accdb0ebc1c4fe37fc9e5e97035ee77c834ff )
+)
+
+game (
+	name "Perfect Sound v2.0 (1986)(SunRize Industries - 17-Bit Software)(SW)[17-Bit Software Disk 25]"
+	description "Perfect Sound v2.0 (1986)(SunRize Industries - 17-Bit Software)(SW)[17-Bit Software Disk 25]"
+	rom ( name "Perfect Sound v2.0 (1986)(SunRize Industries - 17-Bit Software)(SW)[17-Bit Software Disk 25].adf" size 901120 crc 5061a530 md5 0cf3183a6ee4f52cc580d6acc136bae8 sha1 bd9d3c1c8a7abbd1eeb74fc06c97ee7678a37b31 )
+)
+
+game (
+	name "Picture-Manager v1.01 (demo) (1990)(Obermaier, Christian)(PD)[h EP]"
+	description "Picture-Manager v1.01 (demo) (1990)(Obermaier, Christian)(PD)[h EP]"
+	rom ( name "Picture-Manager v1.01 (demo) (1990)(Obermaier, Christian)(PD)[h EP].adf" size 901120 crc 60970d79 md5 d7880748340f37b8afaa792472612239 sha1 418599b9aee899e8db1fb3df1df04e1a7b355324 )
+)
+
+game (
+	name "Power Player v4.0 (1993)(Fuhrmann, Stephan)(SW)[WB]"
+	description "Power Player v4.0 (1993)(Fuhrmann, Stephan)(SW)[WB]"
+	rom ( name "Power Player v4.0 (1993)(Fuhrmann, Stephan)(SW)[WB].adf" size 901120 crc 7ca3dbb3 md5 2bcfd59d4c84027cf582901176ab30ec sha1 d303f385a59ff4fae037a3a75fd8e2c5c2fb4151 )
+)
+
+game (
+	name "PowerBase v3.00 (demo) (1992)(Rennocks, Steven)(PD)"
+	description "PowerBase v3.00 (demo) (1992)(Rennocks, Steven)(PD)"
+	rom ( name "PowerBase v3.00 (demo) (1992)(Rennocks, Steven)(PD).adf" size 901120 crc 81ebbdec md5 dc18862a0156bd926117ec870caf408e sha1 83cb60f410cafff03ba20452e00ce4841053f33f )
+)
+
+game (
+	name "PowerCache v37.104 (1994)(Berg, Michael)(SW)[cr Famous O'Hack]"
+	description "PowerCache v37.104 (1994)(Berg, Michael)(SW)[cr Famous O'Hack]"
+	rom ( name "PowerCache v37.104 (1994)(Berg, Michael)(SW)[cr Famous O'Hack].adf" size 901120 crc 2ab17582 md5 8e06f7be4b65e88abda611a42674342b sha1 46cd4109b72c3d19347c7a2746300269e119cf8c )
+)
+
+game (
+	name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 1 of 4)"
+	description "Printer Utils (19xx)(Anglia PD)(PD)(Disk 1 of 4)"
+	rom ( name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 1 of 4).adf" size 901120 crc f32a2863 md5 6d5c2ebd6ae28f8d1c358747601b641f sha1 9956f1d135d637b538ab606ea0cdd641d5f18e3a )
+)
+
+game (
+	name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 2 of 4)"
+	description "Printer Utils (19xx)(Anglia PD)(PD)(Disk 2 of 4)"
+	rom ( name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 2 of 4).adf" size 901120 crc 2ce24244 md5 49333186145f811f066a24f74bb73aa7 sha1 c3c1135219fcb71053c2a38176774fbb017bc309 )
+)
+
+game (
+	name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 3 of 4)"
+	description "Printer Utils (19xx)(Anglia PD)(PD)(Disk 3 of 4)"
+	rom ( name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 3 of 4).adf" size 901120 crc 91cdc7e3 md5 405c7b8942c451af1c5fcee1fcb87945 sha1 9fd578f3d74e61e2767e9bc714b626f470ee874f )
+)
+
+game (
+	name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 4 of 4)"
+	description "Printer Utils (19xx)(Anglia PD)(PD)(Disk 4 of 4)"
+	rom ( name "Printer Utils (19xx)(Anglia PD)(PD)(Disk 4 of 4).adf" size 901120 crc 0b0ec74b md5 8b05c4444af8c6cda6aef3e61cf46458 sha1 11f7a853a24c7941d97b6ef6cc95864d41cdde44 )
+)
+
+game (
+	name "ProTracker v1.1b (1991-04)(Amiga Freelancers)(PD)"
+	description "ProTracker v1.1b (1991-04)(Amiga Freelancers)(PD)"
+	rom ( name "ProTracker v1.1b (1991-04)(Amiga Freelancers)(PD).adf" size 901120 crc 7916ebd0 md5 8d6de36e3818ae90ad0ef9fedd31440c sha1 84ac648067c17230db5f5b81f870b1fa38d668e6 )
+)
+
+game (
+	name "ProTracker v2.0A (1991-02)(Amiga Freelancers - 17-Bit Software)(PD)"
+	description "ProTracker v2.0A (1991-02)(Amiga Freelancers - 17-Bit Software)(PD)"
+	rom ( name "ProTracker v2.0A (1991-02)(Amiga Freelancers - 17-Bit Software)(PD).adf" size 901120 crc d4d563e8 md5 019fbb689eb02a608655827d8802275c sha1 5b0379dcbcd4dcbb1ccf9160fae5fde8780f8663 )
+)
+
+game (
+	name "ProTracker v2.2 (1992-06-22)(Mushroom Studious - Noxious)(PD)(beta)"
+	description "ProTracker v2.2 (1992-06-22)(Mushroom Studious - Noxious)(PD)(beta)"
+	rom ( name "ProTracker v2.2 (1992-06-22)(Mushroom Studious - Noxious)(PD)(beta).adf" size 901120 crc 3c7af499 md5 8e56f7908ba9fafc9ad03a573b63d357 sha1 7ed4bc9f9b2fda3326d185bc7348e9c29dd2fc76 )
+)
+
+game (
+	name "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][a][KS2.0]"
+	description "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][a][KS2.0]"
+	rom ( name "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][a][KS2.0].adf" size 901120 crc f604cf82 md5 c45bc38cec82dc9b79f7a4894fa5cd35 sha1 e88de7fa396a7a69a7652e301e4b6497db460879 )
+)
+
+game (
+	name "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][KS2.0]"
+	description "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][KS2.0]"
+	rom ( name "ProTracker v2.3A (1992-06)(Mushroom Studios - Noxious)(PD)[v Saddam 1][KS2.0].adf" size 901120 crc 60a463fe md5 c134b9aa5d9f7c61830760305dcfa11a sha1 b3ee31f2fa4c10116440ce1949b79b05cf286a1c )
+)
+
+game (
+	name "ProTracker v3.00b (1993)(Cryptoburners)(PD)"
+	description "ProTracker v3.00b (1993)(Cryptoburners)(PD)"
+	rom ( name "ProTracker v3.00b (1993)(Cryptoburners)(PD).adf" size 901120 crc fb8b5872 md5 aba63b512dca33355141c5a7c43d3d11 sha1 83410c37657075890a76ee31faed9e0429d8fe34 )
+)
+
+game (
+	name "ProTracker v3.32 (1996-03-03)(Cryptoburners - RD10)(PD)"
+	description "ProTracker v3.32 (1996-03-03)(Cryptoburners - RD10)(PD)"
+	rom ( name "ProTracker v3.32 (1996-03-03)(Cryptoburners - RD10)(PD).adf" size 901120 crc 0d418113 md5 b530138ccb1649747028c77eaac386b3 sha1 48022aca0cec7c5ea30ed6bcf210275f3a91726b )
+)
+
+game (
+	name "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[68000 version]"
+	description "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[68000 version]"
+	rom ( name "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[68000 version].adf" size 901120 crc 885b5dc2 md5 724d328635ec6364b5713d5b5f722777 sha1 84a799dbb22fca134404663009f8abc450197910 )
+)
+
+game (
+	name "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[a][68000 version]"
+	description "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[a][68000 version]"
+	rom ( name "ProTracker v3.61 (1996-08-22)(Cryptoburners - RD10)(PD)[a][68000 version].adf" size 901120 crc f1b59c8d md5 d199b90eb0afc30944bfb7b54996963a sha1 ed9a951296687c9d193ab6ace3342df019c6d1a9 )
+)
+
+game (
+	name "Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW)"
+	description "Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW)"
+	rom ( name "Quaternion Mandelbrot Julia v5.31a (1990)(Baxter, Chris)(SW).adf" size 901120 crc b848db73 md5 0ce61f604c28ee6276c0caf4fef105f9 sha1 6a50c37a9e929c329589bc2f72609a01a5120d82 )
+)
+
+game (
+	name "RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)"
+	description "RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW)"
+	rom ( name "RadBench v1.4 (1992)(Partridge, Carl - 17-Bit Software)(SW).adf" size 901120 crc e2dbf2cf md5 9ac0417742a5fb2ff3a8589266dc30ab sha1 74438ac1ad20c6025686cc279605c550b6c10f94 )
+)
+
+game (
+	name "RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW)"
+	description "RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW)"
+	rom ( name "RadBench v1.500 (1992)(Partridge, Carl - 17-Bit Software)(SW).adf" size 901120 crc e6c515d3 md5 b64a2f7f69a01d1aa9a6ef66963ff241 sha1 1ecc9d8f78e82ffbfabba1c1dd725385075eb8fc )
+)
+
+game (
+	name "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD)"
+	description "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD)"
+	rom ( name "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD).adf" size 901120 crc 0caddbae md5 7e9c90bb2ea9c1cc31569a0835f242ba sha1 e75d15ff83274112ebb168d8a839b3b605590eaf )
+)
+
+game (
+	name "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD)[a]"
+	description "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD)[a]"
+	rom ( name "Red Sector Demo-Maker Help & Utility Disk v1.0 (1991-06-26)(Kernal K. - Virus Free PD)(PD)[a].adf" size 901120 crc b925ba56 md5 1b81acf26d7b77c3654eff3d87321ddb sha1 41bf92bc9d94db41f9acf7e7bc3102f6deaa98d2 )
+)
+
+game (
+	name "ReloKick v1.3 (1992)(AB Comp)[h Slipstream]"
+	description "ReloKick v1.3 (1992)(AB Comp)[h Slipstream]"
+	rom ( name "ReloKick v1.3 (1992)(AB Comp)[h Slipstream].adf" size 901120 crc 7faa0d01 md5 f2e14cc44649c46968a3ed1040593eaf sha1 e127b8fe8dc08edea1c387e9c97b8f61fee59243 )
+)
+
+game (
+	name "ReloKick v1.4 (1993)(AB Comp)[h DC - PD-Soft]"
+	description "ReloKick v1.4 (1993)(AB Comp)[h DC - PD-Soft]"
+	rom ( name "ReloKick v1.4 (1993)(AB Comp)[h DC - PD-Soft].adf" size 901120 crc 87e2601d md5 c07426d2213ab1b44f92410479c61393 sha1 eba853f058ae88ed583fbebb71d59a8cd4ba59c5 )
+)
+
+game (
+	name "ReloKick v1.4 (1993)(AB Comp)[h DC]"
+	description "ReloKick v1.4 (1993)(AB Comp)[h DC]"
+	rom ( name "ReloKick v1.4 (1993)(AB Comp)[h DC].adf" size 901120 crc 15756611 md5 ad3e4e4ce294344ab7000298f2abd0d8 sha1 9ff78705cd05932bd6558415da6b0de4de3ccee4 )
+)
+
+game (
+	name "ReloKick v1.41 (1994)(AB Comp)[h Geesus]"
+	description "ReloKick v1.41 (1994)(AB Comp)[h Geesus]"
+	rom ( name "ReloKick v1.41 (1994)(AB Comp)[h Geesus].adf" size 901120 crc 3a0f8bc7 md5 32fc937c34fbaaa0162ea061f7e0adb0 sha1 ff89679982bcad9ad5b6d7872353b856e96ce272 )
+)
+
+game (
+	name "ReloKick v1.41 (1994)(AB Comp)[h Geesus][a]"
+	description "ReloKick v1.41 (1994)(AB Comp)[h Geesus][a]"
+	rom ( name "ReloKick v1.41 (1994)(AB Comp)[h Geesus][a].adf" size 901120 crc a60e91c6 md5 dc9bd1f032743e72f763581f94d73f37 sha1 9adaf10aac5dd54bb76cade6a8735cc4105e6783 )
+)
+
+game (
+	name "ReloKick v1.4a (1994)(AB Comp)[h DCS - PD-Soft]"
+	description "ReloKick v1.4a (1994)(AB Comp)[h DCS - PD-Soft]"
+	rom ( name "ReloKick v1.4a (1994)(AB Comp)[h DCS - PD-Soft].adf" size 901120 crc a9b48d78 md5 238e836949055ee280f0618a3aedd012 sha1 8b6f89e5e44c44f1a3eccbae8fea479dcf34a51c )
+)
+
+game (
+	name "ReloKick v1.4a (1994)(AB Comp)[h DCS]"
+	description "ReloKick v1.4a (1994)(AB Comp)[h DCS]"
+	rom ( name "ReloKick v1.4a (1994)(AB Comp)[h DCS].adf" size 901120 crc c7b00ddb md5 ae404bb582a814a9c05ceb79926b8f4f sha1 1bdb1d03630b0c9d1a7c44d04fc1dd16aa3df23b )
+)
+
+game (
+	name "ReOrg v3.11 (1993)(Kruse, Holger)(SW)[WB]"
+	description "ReOrg v3.11 (1993)(Kruse, Holger)(SW)[WB]"
+	rom ( name "ReOrg v3.11 (1993)(Kruse, Holger)(SW)[WB].adf" size 901120 crc c096f173 md5 81ce5020e0041f4cf604646ef4dfdafd sha1 5c1f91e2d86c996b5631ed6c87654e49b51bfee0 )
+)
+
+game (
+	name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 1 of 3)[b volume label]"
+	description "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 1 of 3)[b volume label]"
+	rom ( name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 1 of 3)[b volume label].adf" size 901120 crc a304d74d md5 57f97c2130f5ef716e4ae468cd9b6162 sha1 bdf4f7c0ccd3843ec624df7a1c9580d8ff85b348 )
+)
+
+game (
+	name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 2 of 3)[b volume label]"
+	description "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 2 of 3)[b volume label]"
+	rom ( name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 2 of 3)[b volume label].adf" size 901120 crc 13d2eb19 md5 f5ed589bd4e3ca1d77b0dbfcd0fba41e sha1 dc0653531451820fc86939c8fc41a3895258633b )
+)
+
+game (
+	name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b volume label]"
+	description "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b volume label]"
+	rom ( name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b volume label].adf" size 901120 crc a2930939 md5 d6f451257bd4d3d02811e8b46bb1438c sha1 deeac1872beb3a4ac2726d839a056ff5b0ba9cb9 )
+)
+
+game (
+	name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b2]"
+	description "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b2]"
+	rom ( name "S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b2].adf" size 901120 crc bb07cf95 md5 44909643783225cbbe050bbc8d7591e3 sha1 9684315076179e110f1008944c6e6211093af933 )
+)
+
+game (
+	name "Samplemaker v1.0 (1991)(Shadow)(PD)"
+	description "Samplemaker v1.0 (1991)(Shadow)(PD)"
+	rom ( name "Samplemaker v1.0 (1991)(Shadow)(PD).adf" size 901120 crc b9184ec5 md5 1bd82e20c37d1fb9c2a4c9f369a10974 sha1 836491815512a0a5576872c8bad49bd8cc70b43f )
+)
+
+game (
+	name "SID v1.06 (1989)(Martin, T.)(SW)"
+	description "SID v1.06 (1989)(Martin, T.)(SW)"
+	rom ( name "SID v1.06 (1989)(Martin, T.)(SW).adf" size 901120 crc 58e64d09 md5 390ab3dcd479de282a5ca38672714307 sha1 7a8dd7cfd937fd300ec8f574120f612d03b611e8 )
+)
+
+game (
+	name "SID v1.06 (1989)(Martin, T.)(SW)[o]"
+	description "SID v1.06 (1989)(Martin, T.)(SW)[o]"
+	rom ( name "SID v1.06 (1989)(Martin, T.)(SW)[o].adf" size 923648 crc a4bcdb53 md5 2fdf26e66dfe2cd9cc59355e7f8de0a0 sha1 a90211608123059dc10948c9bbfc0ae2008863db )
+)
+
+game (
+	name "SID v2.00 (1992)(Martin, T.)(SW)[WB]"
+	description "SID v2.00 (1992)(Martin, T.)(SW)[WB]"
+	rom ( name "SID v2.00 (1992)(Martin, T.)(SW)[WB].adf" size 901120 crc 91480c30 md5 9b2c958fcbf9a7189d2f4857685f2139 sha1 bf0c2d2bb6f3d15fc7ce7c82d4ebd433dcdc1773 )
+)
+
+game (
+	name "Slideshow Construction Set v1.0 (1988-06-18)(Rybicki, Adam - 17-Bit Software)(SW)"
+	description "Slideshow Construction Set v1.0 (1988-06-18)(Rybicki, Adam - 17-Bit Software)(SW)"
+	rom ( name "Slideshow Construction Set v1.0 (1988-06-18)(Rybicki, Adam - 17-Bit Software)(SW).adf" size 901120 crc e42ab032 md5 0efba51126e8ca6040e7976c77b3ba00 sha1 b753c5727f8193cec27546f404042b39544cef08 )
+)
+
+game (
+	name "Sound Samples 1 (19xx)(-)(PD)"
+	description "Sound Samples 1 (19xx)(-)(PD)"
+	rom ( name "Sound Samples 1 (19xx)(-)(PD).adf" size 901120 crc efd1e84f md5 c8d1fe022f0b8a6c5fcce253565ccba7 sha1 534fd38e2f17c0a343e32edc693c41a0fda03372 )
+)
+
+game (
+	name "Sound Samples 2 (19xx)(-)(PD)"
+	description "Sound Samples 2 (19xx)(-)(PD)"
+	rom ( name "Sound Samples 2 (19xx)(-)(PD).adf" size 901120 crc bed90a72 md5 22211c15dd8668db9438c43db54b10ef sha1 ca72790ff89128c3cd9dde8a2d5146365f1f9cf0 )
+)
+
+game (
+	name "Sound Samples 2 (19xx)(-)(PD)[b]"
+	description "Sound Samples 2 (19xx)(-)(PD)[b]"
+	rom ( name "Sound Samples 2 (19xx)(-)(PD)[b].adf" size 901120 crc 2151d7c2 md5 7ca7f6f6fb4fb4712e42936091b174a0 sha1 9ce42e525a6cb76a51e6debb90c209659f32d9fa )
+)
+
+game (
+	name "Sound Samples 3 (19xx)(-)(PD)"
+	description "Sound Samples 3 (19xx)(-)(PD)"
+	rom ( name "Sound Samples 3 (19xx)(-)(PD).adf" size 901120 crc 89517c13 md5 da5141a6a55b587d5befd17280a60e5b sha1 d171a82eb7e762420eb58a562c9da5d0d9aff96a )
+)
+
+game (
+	name "Sound Samples 3 (19xx)(-)(PD)[b]"
+	description "Sound Samples 3 (19xx)(-)(PD)[b]"
+	rom ( name "Sound Samples 3 (19xx)(-)(PD)[b].adf" size 901120 crc 06840e9d md5 63f73c943e6f1b543ae6a4a1be7bd68e sha1 93fd5b2e6aac020bf6e3fe80f0d42fc9da06f0ca )
+)
+
+game (
+	name "Sound Samples 4 (19xx)(-)(PD)"
+	description "Sound Samples 4 (19xx)(-)(PD)"
+	rom ( name "Sound Samples 4 (19xx)(-)(PD).adf" size 901120 crc 6363a80b md5 3a46008346e961a5fef63ef64fbe81f7 sha1 f42dca31464f5b8c326469a11c5c3a8ffe06b4f3 )
+)
+
+game (
+	name "Sound Samples 4 (19xx)(-)(PD)[b]"
+	description "Sound Samples 4 (19xx)(-)(PD)[b]"
+	rom ( name "Sound Samples 4 (19xx)(-)(PD)[b].adf" size 901120 crc 55659461 md5 6abf41af7e4c123dc9f2cc882f66ea65 sha1 6adf190fc4ae7365266d83410027d2f6008b97d3 )
+)
+
+game (
+	name "Sound Samples 5 (19xx)(-)(PD)"
+	description "Sound Samples 5 (19xx)(-)(PD)"
+	rom ( name "Sound Samples 5 (19xx)(-)(PD).adf" size 901120 crc 61e3dafb md5 1dc144b567431a9f538e42d2270e555f sha1 849be36379ec5d77624dfecaaf80f920954d976d )
+)
+
+game (
+	name "SoundTracker v2.6 (19xx)(Public House - 17-Bit Software)(PD)"
+	description "SoundTracker v2.6 (19xx)(Public House - 17-Bit Software)(PD)"
+	rom ( name "SoundTracker v2.6 (19xx)(Public House - 17-Bit Software)(PD).adf" size 901120 crc d524e808 md5 17761ff426f4e59cc029d3efe565c86b sha1 e507c4b89fd05fb5d53122969971c5a426d36cf6 )
+)
+
+game (
+	name "SoundTracker v2.6 (19xx)(Public House PD)(PD)"
+	description "SoundTracker v2.6 (19xx)(Public House PD)(PD)"
+	rom ( name "SoundTracker v2.6 (19xx)(Public House PD)(PD).adf" size 901120 crc cdb3b002 md5 392f23f9fd57c64e7c3492cc9416efd6 sha1 e8ad6e8508e185c27264b2a8076a0ff55e8ea18a )
+)
+
+game (
+	name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)"
+	description "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)"
+	rom ( name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD).adf" size 901120 crc ed607adb md5 1d4482c6a36b1067c4f5aec5bc4ccf15 sha1 f7f184680338cdf017567cf5718a1bfd2aa660f7 )
+)
+
+game (
+	name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[a]"
+	description "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[a]"
+	rom ( name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[a].adf" size 901120 crc 997a4748 md5 f92bec8f185ae844a61fccbef431eb22 sha1 49736965914c29c6d882e1c779f02cdd182820ca )
+)
+
+game (
+	name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[b]"
+	description "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[b]"
+	rom ( name "Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[b].adf" size 901120 crc d5ec8bd0 md5 6f0dfea095c17656ab974adf28296c93 sha1 83d1bf3554aeb70eadb6c4477b47be47174beb18 )
+)
+
+game (
+	name "Spectrapaint v3.0 (1991)(Twilight Software)(PD)[AMOS]"
+	description "Spectrapaint v3.0 (1991)(Twilight Software)(PD)[AMOS]"
+	rom ( name "Spectrapaint v3.0 (1991)(Twilight Software)(PD)[AMOS].adf" size 901120 crc 781ae344 md5 3ba578a082b24228df880d9db186766d sha1 70f3aec1b0377f8ae3f315b3cd3cca304334eeff )
+)
+
+game (
+	name "Spectrapaint v3.1 (1991)(Twilight Software)(PD)[AMOS]"
+	description "Spectrapaint v3.1 (1991)(Twilight Software)(PD)[AMOS]"
+	rom ( name "Spectrapaint v3.1 (1991)(Twilight Software)(PD)[AMOS].adf" size 901120 crc 039978b2 md5 8469b21ade50b694fc40980881c9edc8 sha1 edb5f78d4d558be7087eda636feb375a4a8620d7 )
+)
+
+game (
+	name "StarChart v1.2 (1988)(Larson, Ray)(PD)"
+	description "StarChart v1.2 (1988)(Larson, Ray)(PD)"
+	rom ( name "StarChart v1.2 (1988)(Larson, Ray)(PD).adf" size 901120 crc b3f902c0 md5 18447c81a96f80a3279ae714ea526463 sha1 0f3965afefe0ef9dc46a9bbb7c0c25e759e3be23 )
+)
+
+game (
+	name "Starship 2.0 (1992)(Grasso, Russ)(SW)"
+	description "Starship 2.0 (1992)(Grasso, Russ)(SW)"
+	rom ( name "Starship 2.0 (1992)(Grasso, Russ)(SW).adf" size 901120 crc 69583c41 md5 9a6262c7ce1d38d3b1f18ebbf94123d8 sha1 c552a59b99f60c2c766625b370e05a3bff954373 )
+)
+
+game (
+	name "Starship 2.0 (1992)(Grasso, Russ)(SW)[a]"
+	description "Starship 2.0 (1992)(Grasso, Russ)(SW)[a]"
+	rom ( name "Starship 2.0 (1992)(Grasso, Russ)(SW)[a].adf" size 901120 crc c0992855 md5 954eae2f1e1854efb5ea6e674a45541c sha1 2b371f8fff87fc283ee12569b444779f47a02430 )
+)
+
+game (
+	name "Startrekker v1.3 (1991)(Fairlight)(PD)"
+	description "Startrekker v1.3 (1991)(Fairlight)(PD)"
+	rom ( name "Startrekker v1.3 (1991)(Fairlight)(PD).adf" size 901120 crc 81fa7cb4 md5 5c6b52ea57cda148142f521275f92c25 sha1 e11a64a062ef5e1a33201838577c3879190c0b81 )
+)
+
+game (
+	name "Starview (1993)(Parry, Neil)(SW)"
+	description "Starview (1993)(Parry, Neil)(SW)"
+	rom ( name "Starview (1993)(Parry, Neil)(SW).adf" size 901120 crc 1ba55c95 md5 85aa2f6c22392ba10bff2132c09ebb2f sha1 2a4be0963eefa7bd767b36e826e6132368d55c60 )
+)
+
+game (
+	name "Stone v1.45 (19xx)(Iris)(PD)[AMOS]"
+	description "Stone v1.45 (19xx)(Iris)(PD)[AMOS]"
+	rom ( name "Stone v1.45 (19xx)(Iris)(PD)[AMOS].adf" size 901120 crc 6a5035c5 md5 253451daec7c646dffe1544260f7ef79 sha1 f2b347a7fb280eb7db27b06b7a06759aaae9e06f )
+)
+
+game (
+	name "Strata v1.0 (demo) (1992)(Odd, David)(PD)"
+	description "Strata v1.0 (demo) (1992)(Odd, David)(PD)"
+	rom ( name "Strata v1.0 (demo) (1992)(Odd, David)(PD).adf" size 901120 crc 3f5590de md5 4ed2f8e2cdfc3eeb47c3c3d794731be3 sha1 10d883c8d243023459d71a2aedc95bbc62ad61b3 )
+)
+
+game (
+	name "Tele Title 2 (1995)(White, J. - F1 Licenceware)(LW)"
+	description "Tele Title 2 (1995)(White, J. - F1 Licenceware)(LW)"
+	rom ( name "Tele Title 2 (1995)(White, J. - F1 Licenceware)(LW).adf" size 901120 crc abf4258d md5 d4a8e3e5f94f455973dc3512f7dfb0ee sha1 c5c2263ee64d417a848c701ab9fd6254e248721a )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 1 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 1 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 1 of 6)[KS2.04].adf" size 901120 crc bbd3b422 md5 58a24f83730adf700fc7907a63d1f426 sha1 e41923bae56db0f1b8a65664151eca1c8fdcfb5d )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 2 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 2 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 2 of 6)[KS2.04].adf" size 901120 crc cb9eabb5 md5 5045a38f1ca49635da6108a2bbef0bd7 sha1 207023593631a1f19eb01a7b65cd5e5dc24db3a2 )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 3 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 3 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 3 of 6)[KS2.04].adf" size 901120 crc f614b60a md5 5f3926a5b6c605abc096c30c32a3e1b1 sha1 f66d573bb5c26078cafb41c1303cce2a393ef56a )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 4 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 4 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 4 of 6)[KS2.04].adf" size 901120 crc fb17daf0 md5 787609064204435bd2a77d67029917b5 sha1 896bef1c3a13a71a7ab8a61d3b5ccf5b7cd8145e )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 5 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 5 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 5 of 6)[KS2.04].adf" size 901120 crc 2eb0be00 md5 73dc109d83d1238a66fbee91bfe85117 sha1 868e131efa4e92bb358cef45c3ffb2fa3d428cb3 )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 6 of 6)[KS2.04]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 6 of 6)[KS2.04]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)(Disk 6 of 6)[KS2.04].adf" size 901120 crc 0d4fb18a md5 c0acf6335dc1ee2a91c6907e59e8dde9 sha1 df5856c1f50de45b182e6d2b781d8830ad215f80 )
+)
+
+game (
+	name "Term v4.3 (1995)(Barthel, Olaf)(GW)[HD, 68030, LHA archive]"
+	description "Term v4.3 (1995)(Barthel, Olaf)(GW)[HD, 68030, LHA archive]"
+	rom ( name "Term v4.3 (1995)(Barthel, Olaf)(GW)[HD, 68030, LHA archive].adf" size 901120 crc f19f3d8f md5 0854b2798b113719e3fcf63bb07971eb sha1 3fc66ceb7b98b5ce09e5b88e7ed1bd027a5810b4 )
+)
+
+game (
+	name "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 1 of 2)[WB]"
+	description "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 1 of 2)[WB]"
+	rom ( name "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 1 of 2)[WB].adf" size 901120 crc b90ad88c md5 b5b814ed1a4634f2c12b3e5f1f4ecf2d sha1 733f156641fefcc31dd017009966195ca6a8e896 )
+)
+
+game (
+	name "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 2 of 2)[WB]"
+	description "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 2 of 2)[WB]"
+	rom ( name "ToolManager v2.0 (1993)(Becker, Stefan)(PD)(Disk 2 of 2)[WB].adf" size 901120 crc 9bad79d2 md5 8992e833e23afbc51802e429dca8c0c0 sha1 2aa24d8930c8e1ee2bf230edafafed10fc1eaf96 )
+)
+
+game (
+	name "ToolsDaemon v2.0b (1992-08-14)(Francois, Nico)(PD)[WB]"
+	description "ToolsDaemon v2.0b (1992-08-14)(Francois, Nico)(PD)[WB]"
+	rom ( name "ToolsDaemon v2.0b (1992-08-14)(Francois, Nico)(PD)[WB].adf" size 901120 crc 8487fd8d md5 eb6ec5bba28ccf818769f6fa9eab0df2 sha1 d0d239f2c5eeeff295b171375c1ea30716ed8735 )
+)
+
+game (
+	name "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD)"
+	description "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD)"
+	rom ( name "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD).adf" size 901120 crc 1f6b26ca md5 a2ebcc2c0f6f0f232b8154862087a64d sha1 3de068fa8affd5a5e2e0a9747f693612a56ef5b5 )
+)
+
+game (
+	name "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD)[WB]"
+	description "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD)[WB]"
+	rom ( name "ToolsDaemon v2.1 (1993)(Francois, Nico)(PD)[WB].adf" size 901120 crc 2a9ea930 md5 8d804746b25120e163561f727c62f2dd sha1 e6c1d209bdff6e9cc22890aef03a832b49a3205f )
+)
+
+game (
+	name "TurboBackup v1.00 (1988-04)(Stempel, Steffen - Kopp, Martin)(PD)"
+	description "TurboBackup v1.00 (1988-04)(Stempel, Steffen - Kopp, Martin)(PD)"
+	rom ( name "TurboBackup v1.00 (1988-04)(Stempel, Steffen - Kopp, Martin)(PD).adf" size 901120 crc c3603931 md5 22c121651a280b2bf0d64eafe28a6ac7 sha1 9c7c0cff8ca18a574ef24659c222d99dc72aba99 )
+)
+
+game (
+	name "V.B.D. IFF (1994)(Gadge - F1 Licenceware)(LW)"
+	description "V.B.D. IFF (1994)(Gadge - F1 Licenceware)(LW)"
+	rom ( name "V.B.D. IFF (1994)(Gadge - F1 Licenceware)(LW).adf" size 901120 crc b32a5dd5 md5 190b22e830a04e4b1176f54d1c72a446 sha1 ece4482263180d411dcbef5844372a0e30341a42 )
+)
+
+game (
+	name "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 1 of 2)[WB]"
+	description "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 1 of 2)[WB]"
+	rom ( name "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 1 of 2)[WB].adf" size 901120 crc 5a667898 md5 7567d2ad7b0027371238fbf6858629ed sha1 e3b11135be5c66018d1f13a28679ee4c2b76f835 )
+)
+
+game (
+	name "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 2 of 2)[WB]"
+	description "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 2 of 2)[WB]"
+	rom ( name "Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 2 of 2)[WB].adf" size 901120 crc 53b44010 md5 32db8b30ecaffb4ea7b3e179715b6d60 sha1 6a7ae724d179ebccaa6cabcef532badfad60cc3a )
+)
+
+game (
+	name "VideoTracker v1.42 (1994)(van Campen, Peter)(SW)"
+	description "VideoTracker v1.42 (1994)(van Campen, Peter)(SW)"
+	rom ( name "VideoTracker v1.42 (1994)(van Campen, Peter)(SW).adf" size 901120 crc d3208dec md5 b8e1c337c302ae97edaf3087694a8b5c sha1 67409e55743d1de4501b9ca53b59c9d636d3c47b )
+)
+
+game (
+	name "VideoTracker v1.42 (1994-04-15)(van Campen, Peter)(SW-R)[CU Amiga]"
+	description "VideoTracker v1.42 (1994-04-15)(van Campen, Peter)(SW-R)[CU Amiga]"
+	rom ( name "VideoTracker v1.42 (1994-04-15)(van Campen, Peter)(SW-R)[CU Amiga].adf" size 901120 crc f25a5f68 md5 df1a45c41defdd7f3601afb9f3bb619d sha1 df49721ae4cd7f6aa69eb05c78313a7ee78216ca )
+)
+
+game (
+	name "Word Power v1.3b (1992)(Amivision)(SW)"
+	description "Word Power v1.3b (1992)(Amivision)(SW)"
+	rom ( name "Word Power v1.3b (1992)(Amivision)(SW).adf" size 901120 crc 23c1c726 md5 a9d8a579420f35959818e9cb63740df2 sha1 0804084425f2b8e3825b2327b8a9b744b5826f0d )
+)
+
+game (
+	name "Word Sort (1992)(P.H.S. Software)(PD)[AMOS]"
+	description "Word Sort (1992)(P.H.S. Software)(PD)[AMOS]"
+	rom ( name "Word Sort (1992)(P.H.S. Software)(PD)[AMOS].adf" size 901120 crc 0bcfaba7 md5 caa37283108d6ef723ebfa343813e43c sha1 7deb19e2d4f900a74b7e5cbed112bf655a63f2db )
+)
+
+game (
+	name "World of Fonts (199x)(Dark Lord)(PD)"
+	description "World of Fonts (199x)(Dark Lord)(PD)"
+	rom ( name "World of Fonts (199x)(Dark Lord)(PD).adf" size 901120 crc 5fc024fc md5 cfed082294a704189d6e2020e3827468 sha1 73edb55b66ede99b905599ea1f19114ed446eb4e )
+)
+
+game (
+	name "X-Beat Pro (1993)(Askew, Dale - Howard, John)(SW)"
+	description "X-Beat Pro (1993)(Askew, Dale - Howard, John)(SW)"
+	rom ( name "X-Beat Pro (1993)(Askew, Dale - Howard, John)(SW).adf" size 901120 crc 055a2af8 md5 e8ecd14d92e785e1e4bbd4262dc2eb03 sha1 68675f1dcfa1ac4cf3b3692c3a7168887c806512 )
+)
+
+game (
+	name "XPK-Copy Disk (199x)(XPK)"
+	description "XPK-Copy Disk (199x)(XPK)"
+	rom ( name "XPK-Copy Disk (199x)(XPK).adf" size 901120 crc 9dc25daa md5 e23308522841abf547e7a16c4da2bb05 sha1 4628e29920fde18ed62888df8282a96470e8ca7b )
+)
+
+game (
+	name "ZX Spectrum Emulator v1.2 (1990)(KGB - 17-Bit Software)(PD)[emulator]"
+	description "ZX Spectrum Emulator v1.2 (1990)(KGB - 17-Bit Software)(PD)[emulator]"
+	rom ( name "ZX Spectrum Emulator v1.2 (1990)(KGB - 17-Bit Software)(PD)[emulator].adf" size 901120 crc abf1b559 md5 c27abc28d7dd3db83695ac033d61f035 sha1 dbeab5664667639fac16ed0825b0e9162ba3442e )
+)
+
+game (
+	name "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][b bad header type][emulator with 38 games]"
+	description "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][b bad header type][emulator with 38 games]"
+	rom ( name "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][b bad header type][emulator with 38 games].adf" size 901120 crc b3fc7dca md5 a6e389c5ea0eab9453063faa27bf0abb sha1 cd2250542350b08be39103dc40f7c5a57c2ac55b )
+)
+
+game (
+	name "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator with 15 games]"
+	description "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator with 15 games]"
+	rom ( name "ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator with 15 games].adf" size 901120 crc 8b5ab8a9 md5 9d4a7b11bda90136b783f42b397d125d sha1 1492383cf37fef8f239e1faf2c6e97e11cb031db )
+)
+

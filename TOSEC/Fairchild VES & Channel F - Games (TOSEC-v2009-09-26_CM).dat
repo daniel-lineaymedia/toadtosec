@@ -1,0 +1,356 @@
+clrmamepro (
+	name "Fairchild VES & Channel F - Games"
+	description "Fairchild VES & Channel F - Games (TOSEC-v2009-09-26)"
+	category "Fairchild VES & Channel F - Games"
+	version 2009-09-26
+	author "Cid - Grendel - Cassiel"
+)
+
+game (
+	name "Alien Invasion (1978)(Zircon)"
+	description "Alien Invasion (1978)(Zircon)"
+	rom ( name "Alien Invasion (1978)(Zircon).bin" size 4096 crc 85e00865 md5 f7bf7d55a7660ffa80d08ad1ba903ff7 )
+)
+
+game (
+	name "Backgammon + Acey-Ducey (1977)(Fairchild)"
+	description "Backgammon + Acey-Ducey (1977)(Fairchild)"
+	rom ( name "Backgammon + Acey-Ducey (1977)(Fairchild).bin" size 2048 crc a1731b52 md5 d89b48ae8c906488caac2b2ae1d63d88 )
+)
+
+game (
+	name "Baseball (1977)(Fairchild)"
+	description "Baseball (1977)(Fairchild)"
+	rom ( name "Baseball (1977)(Fairchild).bin" size 2048 crc 01129bcd md5 4fa83f734c139963aa02bdbb7a52e500 )
+)
+
+game (
+	name "Bowling (1978)(Fairchild)"
+	description "Bowling (1978)(Fairchild)"
+	rom ( name "Bowling (1978)(Fairchild).bin" size 2048 crc 94322c79 md5 25e231e7a464a32b4715bfb47af89240 )
+)
+
+game (
+	name "Casino Poker (1978)(Zircon)"
+	description "Casino Poker (1978)(Zircon)"
+	rom ( name "Casino Poker (1978)(Zircon).bin" size 4096 crc 5aa30c12 md5 bb7f7bbbe21f142591cdcafa98d7f6e4 )
+)
+
+game (
+	name "Channel F Multi-Cart (2004)(Riddle, Sean)"
+	description "Channel F Multi-Cart (2004)(Riddle, Sean)"
+	rom ( name "Channel F Multi-Cart (2004)(Riddle, Sean).bin" size 262144 crc ad4ebe3f md5 dfc3df32f9fb558a6e54928559d67fe7 )
+)
+
+game (
+	name "Channel F Multi-Cart (2004)(Riddle, Sean)[a]"
+	description "Channel F Multi-Cart (2004)(Riddle, Sean)[a]"
+	rom ( name "Channel F Multi-Cart (2004)(Riddle, Sean)[a].bin" size 262144 crc a1ecbd58 md5 0c8ae0e5776d48022f8d2b9642c6a197 )
+)
+
+game (
+	name "Checkers (1978)(Zircon)"
+	description "Checkers (1978)(Zircon)"
+	rom ( name "Checkers (1978)(Zircon).bin" size 2048 crc fdae7044 md5 35d61d40ef7ec337cba092aabac74dbd )
+)
+
+game (
+	name "Desert Fox + Shooting Gallery (1976)(Fairchild)"
+	description "Desert Fox + Shooting Gallery (1976)(Fairchild)"
+	rom ( name "Desert Fox + Shooting Gallery (1976)(Fairchild).bin" size 2048 crc 1570934b md5 4f11f13cbca685cb20e888f87b3b1586 )
+)
+
+game (
+	name "Dodge-It (1978)(Fairchild)"
+	description "Dodge-It (1978)(Fairchild)"
+	rom ( name "Dodge-It (1978)(Fairchild).bin" size 2048 crc e3c1811c md5 6ffedaed3c5cd8ba74d98901849cc451 )
+)
+
+game (
+	name "Drag Race (1977)(Fairchild)"
+	description "Drag Race (1977)(Fairchild)"
+	rom ( name "Drag Race (1977)(Fairchild).bin" size 2048 crc 6a64dda3 md5 f80af74b09d058b90e719bb7dfbdd50e )
+)
+
+game (
+	name "Draw Poker (197x)(Zircon)(proto)"
+	description "Draw Poker (197x)(Zircon)(proto)"
+	rom ( name "Draw Poker (197x)(Zircon)(proto).bin" size 4096 crc 619fcc00 md5 06cd8cfe851390c92ac2b7c4d28d6b97 )
+)
+
+game (
+	name "F8 of Nations (200x)(nycurt)(PD)"
+	description "F8 of Nations (200x)(nycurt)(PD)"
+	rom ( name "F8 of Nations (200x)(nycurt)(PD).bin" size 2048 crc e94bab93 md5 cd4f1532783b016a84b6dc85163ded2c )
+)
+
+game (
+	name "F8 of Nations (200x)(nycurt)(PD)[a]"
+	description "F8 of Nations (200x)(nycurt)(PD)[a]"
+	rom ( name "F8 of Nations (200x)(nycurt)(PD)[a].bin" size 2048 crc 529850cf md5 4e1ba63a395c10fb840b0562f85b78b9 )
+)
+
+game (
+	name "Football (197x)(Zircon)(proto)"
+	description "Football (197x)(Zircon)(proto)"
+	rom ( name "Football (197x)(Zircon)(proto).bin" size 4096 crc 7e5dafea md5 819f06cfc48d7f38e756f82b22dcaf4d )
+)
+
+game (
+	name "Galactic Space Wars + Luna Lander (1978)(Zircon)"
+	description "Galactic Space Wars + Luna Lander (1978)(Zircon)"
+	rom ( name "Galactic Space Wars + Luna Lander (1978)(Zircon).bin" size 2048 crc c8ef3410 md5 9e0711b140e22729687db1e1354980ab )
+)
+
+game (
+	name "Glactic Space War (197x)(Zircon)(proto)"
+	description "Glactic Space War (197x)(Zircon)(proto)"
+	rom ( name "Glactic Space War (197x)(Zircon)(proto).bin" size 2048 crc a61258a8 md5 5cccee534fd002af6eb4fcaaa6b95d88 )
+)
+
+game (
+	name "Hangman (1978)(Fairchild)"
+	description "Hangman (1978)(Fairchild)"
+	rom ( name "Hangman (1978)(Fairchild).bin" size 3072 crc 9238d6ce md5 0124cd0b61df5502aabd59029ccb6d5a )
+)
+
+game (
+	name "Hangman (1978)(Fairchild)[h]"
+	description "Hangman (1978)(Fairchild)[h]"
+	rom ( name "Hangman (1978)(Fairchild)[h].bin" size 8192 crc 9392e500 md5 533bac14de68fba49078eef8e9502dd2 )
+)
+
+game (
+	name "Hockey + Tennis (1976)(Fairchild)[bios rip]"
+	description "Hockey + Tennis (1976)(Fairchild)[bios rip]"
+	rom ( name "Hockey + Tennis (1976)(Fairchild)[bios rip].bin" size 2048 crc abdd6d62 md5 0a723f631ca45ad290e9f3aeba8ddb6f )
+)
+
+game (
+	name "Lights Out (2004)(Riddle, Sean)(PD)"
+	description "Lights Out (2004)(Riddle, Sean)(PD)"
+	rom ( name "Lights Out (2004)(Riddle, Sean)(PD).bin" size 2048 crc 666c0b4a md5 28af9c65dc23035a8ba0b0b7444b2bfc )
+)
+
+game (
+	name "Lights Out (2004)(Riddle, Sean)(PD)[a2]"
+	description "Lights Out (2004)(Riddle, Sean)(PD)[a2]"
+	rom ( name "Lights Out (2004)(Riddle, Sean)(PD)[a2].bin" size 2048 crc 4f55786c md5 c0d3793beffa7710975ba2973fcc175f )
+)
+
+game (
+	name "Lights Out (2004)(Riddle, Sean)(PD)[a]"
+	description "Lights Out (2004)(Riddle, Sean)(PD)[a]"
+	rom ( name "Lights Out (2004)(Riddle, Sean)(PD)[a].bin" size 2048 crc 5c57deae md5 d4a7f300e076b9552bfaefb039967fc5 )
+)
+
+game (
+	name "Magic Numbers + Mind Reader + Nim (1977)(Fairchild)"
+	description "Magic Numbers + Mind Reader + Nim (1977)(Fairchild)"
+	rom ( name "Magic Numbers + Mind Reader + Nim (1977)(Fairchild).bin" size 2048 crc 24da0529 md5 4c10fa5c7316c59efa241043fc67dfa8 )
+)
+
+game (
+	name "Math Quiz I - Addition + Subtraction (1976)(Fairchild)"
+	description "Math Quiz I - Addition + Subtraction (1976)(Fairchild)"
+	rom ( name "Math Quiz I - Addition + Subtraction (1976)(Fairchild).bin" size 2048 crc bb4c24a2 md5 a8e6103fcae4d0f9e14d9edcfc3fc493 )
+)
+
+game (
+	name "Math Quiz II - Multiplication + Division (1977)(Fairchild)"
+	description "Math Quiz II - Multiplication + Division (1977)(Fairchild)"
+	rom ( name "Math Quiz II - Multiplication + Division (1977)(Fairchild).bin" size 2048 crc 4aa7ea97 md5 86b77eafdf7b806e19e01724987e384f )
+)
+
+game (
+	name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)"
+	description "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)"
+	rom ( name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild).bin" size 2048 crc 4d42b296 md5 6565df74539476d66fd78de1bac0259c )
+)
+
+game (
+	name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]"
+	description "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a]"
+	rom ( name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[a].bin" size 2048 crc 0a948b61 md5 53e4cc2da0f2c167e0692b794cb7692c )
+)
+
+game (
+	name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]"
+	description "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b]"
+	rom ( name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[b].bin" size 3072 crc 54f8ee91 md5 5db71e3b0cd13f7c42790a2cd9072ca1 )
+)
+
+game (
+	name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]"
+	description "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h]"
+	rom ( name "Maze + Jailbreak + Blind-man's-bluff + Trailblazer (1977)(Fairchild)[h].bin" size 3072 crc b71433af md5 abc6fc7083b66a65c1e18ebf911f6689 )
+)
+
+game (
+	name "Memory Match (1978)(Fairchild)"
+	description "Memory Match (1978)(Fairchild)"
+	rom ( name "Memory Match (1978)(Fairchild).bin" size 2048 crc 104b5e18 md5 2b3ca549e27579e4519a765fd8f52d0f )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p].bin" size 2048 crc d6225961 md5 c8c6d4ab5693ee6996f60d43f47327cf )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a2]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a2]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a2].bin" size 2048 crc a5465744 md5 035b5a2a18e0d2755a839faec62c8999 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a3]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a3]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a3].bin" size 4096 crc 172f5770 md5 42e57a820062aac34f489453f5764901 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a4]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a4]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a4].bin" size 8192 crc a22dbf73 md5 30b8112ef589da0948e913eed52eabf6 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a5]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a5]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a5].bin" size 8192 crc afb64ae3 md5 489b63ef6de0dbe13acaa703770681d4 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a6]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a6]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a6].bin" size 8192 crc 10ae16fa md5 b50537597ee60c94004d668accf030bf )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a7]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a7]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a7].bin" size 8192 crc 99d94c16 md5 e38cd8185b02d5c2fe4b3a1309682722 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a8]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a8]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a8].bin" size 8192 crc 3190cc3b md5 3978864e041cade7d9ff40d69ac658c5 )
+)
+
+game (
+	name "Pac-Man (2004)(Blackbird - e5frog)[p][a]"
+	description "Pac-Man (2004)(Blackbird - e5frog)[p][a]"
+	rom ( name "Pac-Man (2004)(Blackbird - e5frog)[p][a].bin" size 2048 crc 4cceabec md5 4305cead642f79d1f4e503c54913836f )
+)
+
+game (
+	name "Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]"
+	description "Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p]"
+	rom ( name "Pac-Man v20041211-14 (2004)(Blackbird - e5frog)[p].bin" size 2048 crc 32c79668 md5 f10e5997e23127dcfe6108bd47910094 )
+)
+
+game (
+	name "Pinball Challenge (1978)(Fairchild)"
+	description "Pinball Challenge (1978)(Fairchild)"
+	rom ( name "Pinball Challenge (1978)(Fairchild).bin" size 2048 crc c610b330 md5 e90339b7068c6227d54f3c0ca637e017 )
+)
+
+game (
+	name "Pinball Challenge (1978)(Fairchild)[a]"
+	description "Pinball Challenge (1978)(Fairchild)[a]"
+	rom ( name "Pinball Challenge (1978)(Fairchild)[a].bin" size 2048 crc 7cadf0fd md5 5cbcda1c44f0dad02b0dfe209b6325d5 )
+)
+
+game (
+	name "Pro Football (1978)(Zircon)"
+	description "Pro Football (1978)(Zircon)"
+	rom ( name "Pro Football (1978)(Zircon).bin" size 4096 crc a1ae99be md5 9a894d745356a050f95410983c3bc54a )
+)
+
+game (
+	name "Robot War (1977)(Fairchild)(proto)"
+	description "Robot War (1977)(Fairchild)(proto)"
+	rom ( name "Robot War (1977)(Fairchild)(proto).bin" size 2048 crc 7f62a23c md5 facb452602f59fddde1cfbc4d598a282 )
+)
+
+game (
+	name "Robot War (1977)(Fairchild)(proto)[b]"
+	description "Robot War (1977)(Fairchild)(proto)[b]"
+	rom ( name "Robot War (1977)(Fairchild)(proto)[b].bin" size 1024 crc e4f5a828 md5 e1fb8d61ffe07b53869a93a8ad0c04a8 )
+)
+
+game (
+	name "Robot War + Torpedo Alley (1977)(Fairchild)"
+	description "Robot War + Torpedo Alley (1977)(Fairchild)"
+	rom ( name "Robot War + Torpedo Alley (1977)(Fairchild).bin" size 2048 crc 38241e4f md5 3783b6ac359e21b99cfa17773aa811c6 )
+)
+
+game (
+	name "Slot Machine (1978)(Zircon)"
+	description "Slot Machine (1978)(Zircon)"
+	rom ( name "Slot Machine (1978)(Zircon).bin" size 2048 crc b7eabd08 md5 dfb66ee145fab65062fdeadafc8dc34c )
+)
+
+game (
+	name "Sonar Search (1977)(Fairchild)"
+	description "Sonar Search (1977)(Fairchild)"
+	rom ( name "Sonar Search (1977)(Fairchild).bin" size 2048 crc dbdc56bf md5 4cb12edae37df23851884b82ca410754 )
+)
+
+game (
+	name "Space War (1977)(Zircon)"
+	description "Space War (1977)(Zircon)"
+	rom ( name "Space War (1977)(Zircon).bin" size 2048 crc 22ef49e8 md5 32cca8ff09041a39251d7aade21ee22f )
+)
+
+game (
+	name "Spitfire (1976)(Zircon)"
+	description "Spitfire (1976)(Zircon)"
+	rom ( name "Spitfire (1976)(Zircon).bin" size 2048 crc 5357c5f6 md5 1b409fe1154584f4d1ab76b344a73d99 )
+)
+
+game (
+	name "Spitfire (1976)(Zircon)(proto)"
+	description "Spitfire (1976)(Zircon)(proto)"
+	rom ( name "Spitfire (1976)(Zircon)(proto).bin" size 2048 crc 0a728afc md5 5b86fe22007e6d0a92247809ac8934e9 )
+)
+
+game (
+	name "Spitfire (1976)(Zircon)(proto)[b]"
+	description "Spitfire (1976)(Zircon)(proto)[b]"
+	rom ( name "Spitfire (1976)(Zircon)(proto)[b].bin" size 4096 crc 28d02454 md5 0cfd9b9213cff4a9df9dd7fea4663236 )
+)
+
+game (
+	name "Tetris (2004)(Trauner, Peter)[p]"
+	description "Tetris (2004)(Trauner, Peter)[p]"
+	rom ( name "Tetris (2004)(Trauner, Peter)[p].bin" size 3583 crc 2b900e96 md5 d7050af61479aa549206250441aa2b0f )
+)
+
+game (
+	name "Tetris (2004)(Trauner, Peter)[p][a]"
+	description "Tetris (2004)(Trauner, Peter)[p][a]"
+	rom ( name "Tetris (2004)(Trauner, Peter)[p][a].bin" size 4096 crc 44c556fa md5 2aebeda05478e8b7f5c1eca037ac6c2f )
+)
+
+game (
+	name "Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)"
+	description "Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild)"
+	rom ( name "Tic Tac Toe + Shooting Gallery + Doodle + Quadra Doodle (1976)(Fairchild).bin" size 2048 crc ff4768b0 md5 7e5c26a6d1f9a90c68669a9800ba522d )
+)
+
+game (
+	name "Video Blackjack (1976)(Fairchild)"
+	description "Video Blackjack (1976)(Fairchild)"
+	rom ( name "Video Blackjack (1976)(Fairchild).bin" size 2048 crc e98d4456 md5 b074c867f235fb69ced96c6916673b45 )
+)
+
+game (
+	name "Video Whizball (1978)(Fairchild)"
+	description "Video Whizball (1978)(Fairchild)"
+	rom ( name "Video Whizball (1978)(Fairchild).bin" size 3072 crc 65fdfe49 md5 90a9b3952568f91502a7088bfb0ae07e )
+)
+

@@ -1,0 +1,73 @@
+clrmamepro (
+	name "Acorn BBC - Applications - [ADL]"
+	description "Acorn BBC - Applications - [ADL] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Applications - [ADL]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Beebug Masterfile (19xx)(Beebug)[b][ADFS]"
+	description "Beebug Masterfile (19xx)(Beebug)[b][ADFS]"
+	rom ( name "Beebug Masterfile (19xx)(Beebug)[b][ADFS].adl" size 655360 crc 22195a1c md5 fee9d3c6e5ac84ea3507904c788ed4e5 )
+)
+
+game (
+	name "Crypt Paint II (19xx)(-)[h 8-Bit][ADFS]"
+	description "Crypt Paint II (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "Crypt Paint II (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc d25526c3 md5 b93a422cca9c43c684a0aefacb35343a )
+)
+
+game (
+	name "InterMail Letter Manager (19xx)(-)[ADFS]"
+	description "InterMail Letter Manager (19xx)(-)[ADFS]"
+	rom ( name "InterMail Letter Manager (19xx)(-)[ADFS].adl" size 655360 crc 916dfd0e md5 c3084d58fb151bdb24de85b7e8d24645 )
+)
+
+game (
+	name "Mandelbrot Julia Generator (19xx)(8-Bit)[ADFS]"
+	description "Mandelbrot Julia Generator (19xx)(8-Bit)[ADFS]"
+	rom ( name "Mandelbrot Julia Generator (19xx)(8-Bit)[ADFS].adl" size 655360 crc e9c4ee07 md5 dfa733d034bb1f83d694dfa217910081 )
+)
+
+game (
+	name "Poster Designer (19xx)(8-Bit)[ADFS]"
+	description "Poster Designer (19xx)(8-Bit)[ADFS]"
+	rom ( name "Poster Designer (19xx)(8-Bit)[ADFS].adl" size 655360 crc 4335c843 md5 b6cbfe3452c37a542cf346d5fdc8bdfb )
+)
+
+game (
+	name "Scrabble Dictionary (19xx)(-)[ADFS]"
+	description "Scrabble Dictionary (19xx)(-)[ADFS]"
+	rom ( name "Scrabble Dictionary (19xx)(-)[ADFS].adl" size 655360 crc 864bffc3 md5 68bc990a90c851e787c93e31112261f7 )
+)
+
+game (
+	name "STD Database v4 (19xx)(Richardson, C.J.)[ADFS]"
+	description "STD Database v4 (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "STD Database v4 (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc d06462b0 md5 6e14d2d19e453b1ff1ba7600d9a510df )
+)
+
+game (
+	name "Teletext (19xx)(Richardson, C.J.)[ADFS]"
+	description "Teletext (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "Teletext (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc 23fb2896 md5 1f6f761c99338b5bd378ece5c555c5c4 )
+)
+
+game (
+	name "View Professional v2.0 (19xx)(Colton)[h 8-Bit][a][ADFS]"
+	description "View Professional v2.0 (19xx)(Colton)[h 8-Bit][a][ADFS]"
+	rom ( name "View Professional v2.0 (19xx)(Colton)[h 8-Bit][a][ADFS].adl" size 655360 crc 992e2d92 md5 2741c876144397dcb3ff0cf037f3b0b0 )
+)
+
+game (
+	name "View Professional v2.0 (19xx)(Colton)[h 8-Bit][ADFS]"
+	description "View Professional v2.0 (19xx)(Colton)[h 8-Bit][ADFS]"
+	rom ( name "View Professional v2.0 (19xx)(Colton)[h 8-Bit][ADFS].adl" size 655360 crc 2094b603 md5 82df5917f5a7eacba8e4b355f4fc4898 )
+)
+
+game (
+	name "Wordsearch Generator v2 (19xx)(Richardson. C.J.)[ADFS]"
+	description "Wordsearch Generator v2 (19xx)(Richardson. C.J.)[ADFS]"
+	rom ( name "Wordsearch Generator v2 (19xx)(Richardson. C.J.)[ADFS].adl" size 655360 crc 0162f380 md5 9ebb5c3af0872666ab4ffa9c4c1bbb9e )
+)

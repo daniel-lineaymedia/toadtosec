@@ -1,0 +1,163 @@
+clrmamepro (
+	name "Atari ST - Compilations - Games - [STX]"
+	description "Atari ST - Compilations - Games - [STX] (TOSEC-v2009-09-01)"
+	category "Atari ST - Compilations - Games - [STX]"
+	version 2009-09-01
+	author "jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph"
+)
+
+game (
+	name "Bond Collection (19xx)(Domark)[Licence to Kill & Live and Let Die & Spy who Loved me, The]"
+	description "Bond Collection (19xx)(Domark)[Licence to Kill & Live and Let Die & Spy who Loved me, The]"
+	rom ( name "Bond Collection (19xx)(Domark)[Licence to Kill & Live and Let Die & Spy who Loved me, The].stx" size 1853060 crc 42a3e9ac md5 7a0692093e3d0cb4c771ab9636f33ea2 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 01 of 10)[Strider]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 01 of 10)[Strider]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 01 of 10)[Strider].stx" size 941150 crc e8ba2f01 md5 f75ba48c51ba06567faacaf5527988d8 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 02 of 10)[Strider II]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 02 of 10)[Strider II]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 02 of 10)[Strider II].stx" size 857946 crc 32c2320f md5 e13899934b54ce4646116316fc364113 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 03 of 10)[UN Squadron]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 03 of 10)[UN Squadron]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 03 of 10)[UN Squadron].stx" size 1130132 crc f3391422 md5 5d489a719a8951b5e5be3e1bafaba5b8 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 04 of 10)[Ghouls 'n' Ghosts Disk A]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 04 of 10)[Ghouls 'n' Ghosts Disk A]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 04 of 10)[Ghouls 'n' Ghosts Disk A].stx" size 1424720 crc 37770c49 md5 2d62fe517473aaebdb0bb86d9c88bc6a )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 05 of 10)[Ghouls 'n' Ghosts Disk B]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 05 of 10)[Ghouls 'n' Ghosts Disk B]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 05 of 10)[Ghouls 'n' Ghosts Disk B].stx" size 1424304 crc 88ca368d md5 a979dd0670ee74645ec6e826fcc22f02 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 06 of 10)[Dynasty Wars]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 06 of 10)[Dynasty Wars]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 06 of 10)[Dynasty Wars].stx" size 1129834 crc 5c9dad8c md5 f91b6adf1f102f0f5e13df2ab54fca15 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 07 of 10)[Led Storm]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 07 of 10)[Led Storm]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 07 of 10)[Led Storm].stx" size 1046664 crc a6997a3e md5 9de2df2e430e8bd4b00aa090d24563c5 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 08 of 10)[Last Duel]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 08 of 10)[Last Duel]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 08 of 10)[Last Duel].stx" size 467334 crc a4292e14 md5 626cb2ea77df1bf69807332ad832d6c3 )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 09 of 10)[Forgotten Worlds Disk A]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 09 of 10)[Forgotten Worlds Disk A]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 09 of 10)[Forgotten Worlds Disk A].stx" size 976892 crc 1eb4ab16 md5 d157856362d31b39d7a772b324e8cd7e )
+)
+
+game (
+	name "Capcom Collection (1991)(U.S. Gold)(Disk 10 of 10)[Forgotten Worlds Disk B]"
+	description "Capcom Collection (1991)(U.S. Gold)(Disk 10 of 10)[Forgotten Worlds Disk B]"
+	rom ( name "Capcom Collection (1991)(U.S. Gold)(Disk 10 of 10)[Forgotten Worlds Disk B].stx" size 972130 crc 7389bbcc md5 1b6660bae8e959da35fc3e3964dd991f )
+)
+
+game (
+	name "Captain Blood (1988)(Ere)(Disk 1 of 2)[!]"
+	description "Captain Blood (1988)(Ere)(Disk 1 of 2)[!]"
+	rom ( name "Captain Blood (1988)(Ere)(Disk 1 of 2)[!].stx" size 925846 crc b6a2bde0 md5 38637655e1f011d82b28bce31c79899c )
+)
+
+game (
+	name "Captain Blood (1988)(Ere)(Disk 2 of 2)[!] & Arkanoid II - Revenge of Doh (1988)(Imagine)"
+	description "Captain Blood (1988)(Ere)(Disk 2 of 2)[!] & Arkanoid II - Revenge of Doh (1988)(Imagine)"
+	rom ( name "Captain Blood (1988)(Ere)(Disk 2 of 2)[!] & Arkanoid II - Revenge of Doh (1988)(Imagine).stx" size 925818 crc 6a79f487 md5 13bdd83998ebc095b4ead5338b5e36a7 )
+)
+
+game (
+	name "Compil Codemasters 16bits (19xx)(Codemasters)[BMX Simulator & Mig-29 & Pro Tennis & Treasure Island Dizzy]"
+	description "Compil Codemasters 16bits (19xx)(Codemasters)[BMX Simulator & Mig-29 & Pro Tennis & Treasure Island Dizzy]"
+	rom ( name "Compil Codemasters 16bits (19xx)(Codemasters)[BMX Simulator & Mig-29 & Pro Tennis & Treasure Island Dizzy].stx" size 1862866 crc 0a22497b md5 a4c785976805d9088a0cabb8404d7a43 )
+)
+
+game (
+	name "Compil World Cup Year 90 (1990)(-)(Disk 1 of 2)[ST Soccer]"
+	description "Compil World Cup Year 90 (1990)(-)(Disk 1 of 2)[ST Soccer]"
+	rom ( name "Compil World Cup Year 90 (1990)(-)(Disk 1 of 2)[ST Soccer].stx" size 885738 crc c4af2b79 md5 fe9f638323f9fbce4310d087b2024153 )
+)
+
+game (
+	name "Compil World Cup Year 90 (1990)(-)(Disk 2 of 2)[Tracksuit Manager]"
+	description "Compil World Cup Year 90 (1990)(-)(Disk 2 of 2)[Tracksuit Manager]"
+	rom ( name "Compil World Cup Year 90 (1990)(-)(Disk 2 of 2)[Tracksuit Manager].stx" size 938810 crc e425c6a3 md5 233fcfbc165b8fc304eee5259a3f7795 )
+)
+
+game (
+	name "Compilation Sword and Magic (1990)(Silmarils)(FR)[!][Targhan & Arborea]"
+	description "Compilation Sword and Magic (1990)(Silmarils)(FR)[!][Targhan & Arborea]"
+	rom ( name "Compilation Sword and Magic (1990)(Silmarils)(FR)[!][Targhan & Arborea].stx" size 1882648 crc 4e622122 md5 fcd0ad482fc51265d47b4f1ad14dee64 )
+)
+
+game (
+	name "Crazy Cars (1987)(Titus) & Enduro Racer (1987)(Activision)"
+	description "Crazy Cars (1987)(Titus) & Enduro Racer (1987)(Activision)"
+	rom ( name "Crazy Cars (1987)(Titus) & Enduro Racer (1987)(Activision).stx" size 937910 crc 086eadab md5 07fbd074e602fe3a08880530be4c4a25 )
+)
+
+game (
+	name "Precious Metal (19xx)(-)(Disk 1 of 5)[!][L'Arche du Capitaine Blood Disk 1]"
+	description "Precious Metal (19xx)(-)(Disk 1 of 5)[!][L'Arche du Capitaine Blood Disk 1]"
+	rom ( name "Precious Metal (19xx)(-)(Disk 1 of 5)[!][L'Arche du Capitaine Blood Disk 1].stx" size 926472 crc 8c12006e md5 e92b1dc436643e6a9afb2689b129c652 )
+)
+
+game (
+	name "Precious Metal (19xx)(-)(Disk 2 of 5)[!][L'Arche du Capitaine Blood Disk 1 - Arkanoid II]"
+	description "Precious Metal (19xx)(-)(Disk 2 of 5)[!][L'Arche du Capitaine Blood Disk 1 - Arkanoid II]"
+	rom ( name "Precious Metal (19xx)(-)(Disk 2 of 5)[!][L'Arche du Capitaine Blood Disk 1 - Arkanoid II].stx" size 925624 crc 1e099409 md5 9f6492e0e298fc0d3e537c0e9ce07380 )
+)
+
+game (
+	name "Precious Metal (19xx)(-)(Disk 3 of 5)[!][Xenon]"
+	description "Precious Metal (19xx)(-)(Disk 3 of 5)[!][Xenon]"
+	rom ( name "Precious Metal (19xx)(-)(Disk 3 of 5)[!][Xenon].stx" size 922462 crc d28797df md5 79909a4bf74df4cd4e6f6bc014455681 )
+)
+
+game (
+	name "Precious Metal (19xx)(-)(Disk 4 of 5)[!][Super Hang-On Disk 1]"
+	description "Precious Metal (19xx)(-)(Disk 4 of 5)[!][Super Hang-On Disk 1]"
+	rom ( name "Precious Metal (19xx)(-)(Disk 4 of 5)[!][Super Hang-On Disk 1].stx" size 924900 crc a8591255 md5 06bf7d7506fca713d124caca783fb6e4 )
+)
+
+game (
+	name "Precious Metal (19xx)(-)(Disk 5 of 5)[!][Super Hang-On Disk 2]"
+	description "Precious Metal (19xx)(-)(Disk 5 of 5)[!][Super Hang-On Disk 2]"
+	rom ( name "Precious Metal (19xx)(-)(Disk 5 of 5)[!][Super Hang-On Disk 2].stx" size 922176 crc 1318d355 md5 185e09ad7c5e2856922e2f207f17780a )
+)
+
+game (
+	name "Rampage (1986)(Activision) & Wizball (1987)(Ocean)"
+	description "Rampage (1986)(Activision) & Wizball (1987)(Ocean)"
+	rom ( name "Rampage (1986)(Activision) & Wizball (1987)(Ocean).stx" size 931924 crc 94879aed md5 1b887d66d2d450017e4839c51363755f )
+)
+
+game (
+	name "Slaygon (19xx)(Microdeal)(Disk 1 of 2)[!]"
+	description "Slaygon (19xx)(Microdeal)(Disk 1 of 2)[!]"
+	rom ( name "Slaygon (19xx)(Microdeal)(Disk 1 of 2)[!].stx" size 883768 crc 56df974f md5 406c5346c7002a0b61955c35605e97d3 )
+)
+
+game (
+	name "Slaygon (19xx)(Microdeal)(Disk 2 of 2)[!] & Goldrunner (1987)(Microdeal)[!]"
+	description "Slaygon (19xx)(Microdeal)(Disk 2 of 2)[!] & Goldrunner (1987)(Microdeal)[!]"
+	rom ( name "Slaygon (19xx)(Microdeal)(Disk 2 of 2)[!] & Goldrunner (1987)(Microdeal)[!].stx" size 883844 crc 5aff1eab md5 71796bcaaeb0603ce70774129a927e35 )
+)

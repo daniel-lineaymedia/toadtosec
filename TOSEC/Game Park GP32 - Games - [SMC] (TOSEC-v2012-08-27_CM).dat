@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Game Park GP32 - Games - [SMC]"
+	description "Game Park GP32 - Games - [SMC] (TOSEC-v2012-08-27)"
+	category "Game Park GP32 - Games - [SMC]"
+	version 2012-08-27
+	author "mictlantecuhtle"
+)
+
+game (
+	name "Dynamate v2.0 (2003-03-25)(Flavor)(FW)"
+	description "Dynamate v2.0 (2003-03-25)(Flavor)(FW)"
+	rom ( name "Dynamate v2.0 (2003-03-25)(Flavor)(FW).smc" size 17302528 crc 62a77bb5 md5 bcd511294c3313e65ace796731eaab93 sha1 cef466f543741e720340b58a7ec9aab520ee4cab )
+)
+
+game (
+	name "SmashGP v0.4c (2005-08-11)(mATkEUpON)(FR)(FW)"
+	description "SmashGP v0.4c (2005-08-11)(mATkEUpON)(FR)(FW)"
+	rom ( name "SmashGP v0.4c (2005-08-11)(mATkEUpON)(FR)(FW).smc" size 34604032 crc 65ee21d6 md5 40b143bf9189f1301b82d83235a39505 sha1 daf4fcd23cdc61f090e74722ee8b33d12f4318d7 )
+)
+

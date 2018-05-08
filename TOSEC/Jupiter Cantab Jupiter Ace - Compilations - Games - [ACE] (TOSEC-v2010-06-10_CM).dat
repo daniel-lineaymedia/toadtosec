@@ -1,0 +1,193 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Games - [ACE]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Games - [ACE] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Games - [ACE]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]"
+	description "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]"
+	rom ( name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K].ace" size 2178 crc 5f40b834 md5 a856ce2055537e46d374c9335c83db7d )
+)
+
+game (
+	name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]"
+	description "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]"
+	rom ( name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K].ace" size 2150 crc 7698bb2a md5 7de8ba69baf2b899ffa5fae4d423e0fa )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 1 of 6)[aceteroids][3K]"
+	description "Games No. 1 (1983)(Jovian)(File 1 of 6)[aceteroids][3K]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 1 of 6)[aceteroids][3K].ace" size 2224 crc 80c5b4f1 md5 ab23f51ea0483373a6f55b36f460efb0 )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 2 of 6)[demolition][3K]"
+	description "Games No. 1 (1983)(Jovian)(File 2 of 6)[demolition][3K]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 2 of 6)[demolition][3K].ace" size 2235 crc 6fe4ac61 md5 2d201201a70b2e33a90d151aec1f6e0b )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 3 of 6)[duckinvaders][3K]"
+	description "Games No. 1 (1983)(Jovian)(File 3 of 6)[duckinvaders][3K]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 3 of 6)[duckinvaders][3K].ace" size 2227 crc eba80d22 md5 6af5fa2c7ef6b37466a35482952fa133 )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 4 of 6)[golfgrid][3K]"
+	description "Games No. 1 (1983)(Jovian)(File 4 of 6)[golfgrid][3K]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 4 of 6)[golfgrid][3K].ace" size 2215 crc 4a337d18 md5 c8471c4096399b9bbef98b502299b338 )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 5 of 6)[moneymatrix][3k]"
+	description "Games No. 1 (1983)(Jovian)(File 5 of 6)[moneymatrix][3k]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 5 of 6)[moneymatrix][3k].ace" size 2168 crc 52f5fc86 md5 89b0668cbf5ed6b8628553f384f28f92 )
+)
+
+game (
+	name "Games No. 1 (1983)(Jovian)(File 6 of 6)[udgsaver][3K]"
+	description "Games No. 1 (1983)(Jovian)(File 6 of 6)[udgsaver][3K]"
+	rom ( name "Games No. 1 (1983)(Jovian)(File 6 of 6)[udgsaver][3K].ace" size 1650 crc e2ed9d92 md5 607acdb81bdbd5c54c1a2277bd200cd9 )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K].ace" size 2424 crc 3e274d01 md5 4b1716179fd2474c5ff73ba4de4ec09c )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K].ace" size 2391 crc 2106bac0 md5 7a699abf43308de7e912c15a5b1adef2 )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K].ace" size 2683 crc 82806ae1 md5 cd4e55d5387f6d50079c5b4b169cd3db )
+)
+
+game (
+	name "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]"
+	description "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]"
+	rom ( name "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K].ace" size 2629 crc a18e5c99 md5 b9684b6dbaedd007d66c9a8f12a88115 )
+)
+
+game (
+	name "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]"
+	description "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]"
+	rom ( name "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K].ace" size 3586 crc b1275e32 md5 34104aa2dce63ce618533c38f47a25f5 )
+)
+
+game (
+	name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]"
+	description "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]"
+	rom ( name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K].ace" size 2267 crc 74260f79 md5 9c9ecf674cc0e5e467d25af8db924a69 )
+)
+
+game (
+	name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]"
+	description "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]"
+	rom ( name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K].ace" size 1812 crc 05ea730a md5 2c0a1a3cca17c93b4d394c524d65a1f5 )
+)
+
+game (
+	name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]"
+	description "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]"
+	rom ( name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K].ace" size 2116 crc 9504512f md5 51d27b58286ee8587952626ed6abe3cc )
+)
+
+game (
+	name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]"
+	description "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]"
+	rom ( name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K].ace" size 2504 crc 9e9a6f61 md5 e297a91fdcf7a06a781c77fb2b198713 )
+)
+
+game (
+	name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]"
+	description "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]"
+	rom ( name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K].ace" size 2105 crc 93cc6aed md5 1a1d659c35d04cbd6bd7dfca985d07a1 )
+)
+
+game (
+	name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]"
+	description "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]"
+	rom ( name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K].ace" size 2153 crc 66299a67 md5 42455b3ada8fddeeba3338975b72391f )
+)
+
+game (
+	name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]"
+	description "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]"
+	rom ( name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k].ace" size 2084 crc 7619d204 md5 d3041d610d6b272571ed8bbe24cd3668 )
+)
+
+game (
+	name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]"
+	description "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]"
+	rom ( name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k].ace" size 1977 crc 17178ee4 md5 e7cfa1d95ea32aaca88baf2b57f8e89b )
+)
+
+game (
+	name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]"
+	description "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]"
+	rom ( name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K].ace" size 2440 crc ca28d3d6 md5 4b1103eb8672bd7783798ffbfe33389c )
+)
+
+game (
+	name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]"
+	description "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]"
+	rom ( name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K].ace" size 2450 crc aa6098fe md5 3cd5f0918d5daa826a87db9849b851bc )
+)
+
+game (
+	name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]"
+	description "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]"
+	rom ( name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K].ace" size 23754 crc e80bab36 md5 00e5a156940e063f81b80f96155b7b0d )
+)
+
+game (
+	name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]"
+	description "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]"
+	rom ( name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K].ace" size 23669 crc 421137bf md5 604a0ba4bbed35dd482f8266488353f9 )
+)
+
+game (
+	name "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]"
+	description "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]"
+	rom ( name "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K].ace" size 19932 crc dcef0129 md5 c1e31a2317a10cfc2028752e4948a90a )
+)
+
+game (
+	name "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]"
+	description "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]"
+	rom ( name "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K].ace" size 23842 crc 0e79ef04 md5 d1b567c317ec56734af6ccbab6e46647 )
+)
+
+game (
+	name "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]"
+	description "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]"
+	rom ( name "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K].ace" size 1933 crc 06157fad md5 b9476c8e250f4485463c7dea7633e1c3 )
+)
+
+game (
+	name "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]"
+	description "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]"
+	rom ( name "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K].ace" size 2082 crc 05f277f5 md5 6b97e0c457a34087ec0c0d3fb67ab5ac )
+)
+
+game (
+	name "Triple Pack (1984)(Boldfield Computing)(GB)(File 3 of 3)[computer weaving][3K]"
+	description "Triple Pack (1984)(Boldfield Computing)(GB)(File 3 of 3)[computer weaving][3K]"
+	rom ( name "Triple Pack (1984)(Boldfield Computing)(GB)(File 3 of 3)[computer weaving][3K].ace" size 2101 crc 3f62512e md5 6b5ffb84be2260361f14539e6a232206 )
+)
+
+game (
+	name "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]"
+	description "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]"
+	rom ( name "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K].ace" size 22763 crc 3f1bee9e md5 8349bd6ccb5c3455fe0a215e8f7b66d4 )
+)

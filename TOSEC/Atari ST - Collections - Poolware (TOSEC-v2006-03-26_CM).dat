@@ -1,0 +1,3415 @@
+clrmamepro (
+	name "Atari ST - Collections - Poolware"
+	description "Atari ST - Collections - Poolware (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Poolware"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Poolware 2001 (19xx)(Poolware)"
+	description "Poolware 2001 (19xx)(Poolware)"
+	rom ( name "Poolware 2001 (19xx)(Poolware).st" size 737280 crc 79003da5 md5 fb3eb9db5fb74f976e78e30ac4db3870 )
+)
+
+game (
+	name "Poolware 2001 (19xx)(Poolware)[a]"
+	description "Poolware 2001 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2001 (19xx)(Poolware)[a].st" size 755712 crc 1ce55927 md5 e00daa198ce3202ffdfffdbd22664c0a )
+)
+
+game (
+	name "Poolware 2002 (19xx)(Poolware)"
+	description "Poolware 2002 (19xx)(Poolware)"
+	rom ( name "Poolware 2002 (19xx)(Poolware).st" size 737280 crc 8e915c37 md5 80e1380d33523f6ad0bf7fbc0e6ab5e9 )
+)
+
+game (
+	name "Poolware 2003 (19xx)(Poolware)"
+	description "Poolware 2003 (19xx)(Poolware)"
+	rom ( name "Poolware 2003 (19xx)(Poolware).st" size 737280 crc eb6bd2f8 md5 b1130420faca90bf01e2a11af03ab281 )
+)
+
+game (
+	name "Poolware 2004 (19xx)(Poolware)"
+	description "Poolware 2004 (19xx)(Poolware)"
+	rom ( name "Poolware 2004 (19xx)(Poolware).st" size 737280 crc 72d51c7b md5 3aa1913dbfaf811cc424e7674f45339f )
+)
+
+game (
+	name "Poolware 2005 (19xx)(Poolware)"
+	description "Poolware 2005 (19xx)(Poolware)"
+	rom ( name "Poolware 2005 (19xx)(Poolware).st" size 737280 crc 3f9b479f md5 fb4b2e12718cf4cd6d8cdbd52cce9a63 )
+)
+
+game (
+	name "Poolware 2006 (19xx)(Poolware)"
+	description "Poolware 2006 (19xx)(Poolware)"
+	rom ( name "Poolware 2006 (19xx)(Poolware).st" size 737280 crc 08f9e218 md5 4b4ad81a247d5d769fe0fabfce23784b )
+)
+
+game (
+	name "Poolware 2007 (19xx)(Poolware)"
+	description "Poolware 2007 (19xx)(Poolware)"
+	rom ( name "Poolware 2007 (19xx)(Poolware).st" size 737280 crc 11779f3d md5 10927c94c9652b489723668ffb2dee4c )
+)
+
+game (
+	name "Poolware 2008 (19xx)(Poolware)"
+	description "Poolware 2008 (19xx)(Poolware)"
+	rom ( name "Poolware 2008 (19xx)(Poolware).st" size 737280 crc f8d897ee md5 6e883cbd36e7bc7557f9153912703c29 )
+)
+
+game (
+	name "Poolware 2009 (19xx)(Poolware)"
+	description "Poolware 2009 (19xx)(Poolware)"
+	rom ( name "Poolware 2009 (19xx)(Poolware).st" size 737280 crc fc757090 md5 0d29e4ba8347d5b925630e8062d2d133 )
+)
+
+game (
+	name "Poolware 2010 (19xx)(Poolware)"
+	description "Poolware 2010 (19xx)(Poolware)"
+	rom ( name "Poolware 2010 (19xx)(Poolware).st" size 819200 crc 5fc09932 md5 9d432331372f4c11f8778f9ce58cc9ef )
+)
+
+game (
+	name "Poolware 2011 (19xx)(Poolware)"
+	description "Poolware 2011 (19xx)(Poolware)"
+	rom ( name "Poolware 2011 (19xx)(Poolware).st" size 737280 crc ecc6e184 md5 d24c1f649980f794a9181233a7e3df46 )
+)
+
+game (
+	name "Poolware 2012 (19xx)(Poolware)"
+	description "Poolware 2012 (19xx)(Poolware)"
+	rom ( name "Poolware 2012 (19xx)(Poolware).st" size 737280 crc c6eccffd md5 eb6ad37c33da58b310900a546d0652eb )
+)
+
+game (
+	name "Poolware 2013 (19xx)(Poolware)"
+	description "Poolware 2013 (19xx)(Poolware)"
+	rom ( name "Poolware 2013 (19xx)(Poolware).st" size 737280 crc c32c6937 md5 4810b75faaa8b8f5c2161dec83377725 )
+)
+
+game (
+	name "Poolware 2014 (19xx)(Poolware)"
+	description "Poolware 2014 (19xx)(Poolware)"
+	rom ( name "Poolware 2014 (19xx)(Poolware).st" size 737280 crc a12d7386 md5 3db278b5214eb137fa953cf1854b5c5a )
+)
+
+game (
+	name "Poolware 2015 (19xx)(Poolware)"
+	description "Poolware 2015 (19xx)(Poolware)"
+	rom ( name "Poolware 2015 (19xx)(Poolware).st" size 737280 crc 542a5b0e md5 2c641f74440ec137328f3c5e39a54e68 )
+)
+
+game (
+	name "Poolware 2016 (19xx)(Poolware)"
+	description "Poolware 2016 (19xx)(Poolware)"
+	rom ( name "Poolware 2016 (19xx)(Poolware).st" size 737280 crc 6f241cd9 md5 766e0bec583986a25d731a35f68cb885 )
+)
+
+game (
+	name "Poolware 2017 (19xx)(Poolware)"
+	description "Poolware 2017 (19xx)(Poolware)"
+	rom ( name "Poolware 2017 (19xx)(Poolware).st" size 737280 crc c399cb95 md5 85db39e059d5366f1271e25e28a64b27 )
+)
+
+game (
+	name "Poolware 2018 (19xx)(Poolware)"
+	description "Poolware 2018 (19xx)(Poolware)"
+	rom ( name "Poolware 2018 (19xx)(Poolware).st" size 737280 crc 4e76c0ee md5 2accb2fdfe22afd4599ec9facd199ef4 )
+)
+
+game (
+	name "Poolware 2019 (19xx)(Poolware)"
+	description "Poolware 2019 (19xx)(Poolware)"
+	rom ( name "Poolware 2019 (19xx)(Poolware).st" size 737280 crc a5a10fd0 md5 8a44975370cbe273a166b3a703451650 )
+)
+
+game (
+	name "Poolware 2020 (19xx)(Poolware)"
+	description "Poolware 2020 (19xx)(Poolware)"
+	rom ( name "Poolware 2020 (19xx)(Poolware).st" size 737280 crc 4109e2fb md5 b1c668bec4522ff2824877000f6f4d96 )
+)
+
+game (
+	name "Poolware 2021 (19xx)(Poolware)"
+	description "Poolware 2021 (19xx)(Poolware)"
+	rom ( name "Poolware 2021 (19xx)(Poolware).st" size 737280 crc 8b2b10c0 md5 ee84b8c0ae6af51ebf2283d2af6ff293 )
+)
+
+game (
+	name "Poolware 2022 (19xx)(Poolware)"
+	description "Poolware 2022 (19xx)(Poolware)"
+	rom ( name "Poolware 2022 (19xx)(Poolware).st" size 737280 crc 66241343 md5 0632369704f839434e32e8ead7087109 )
+)
+
+game (
+	name "Poolware 2023 (19xx)(Poolware)"
+	description "Poolware 2023 (19xx)(Poolware)"
+	rom ( name "Poolware 2023 (19xx)(Poolware).st" size 737280 crc 8b61e537 md5 dc6f3b6803440646bc28608c9c68294d )
+)
+
+game (
+	name "Poolware 2024 (19xx)(Poolware)"
+	description "Poolware 2024 (19xx)(Poolware)"
+	rom ( name "Poolware 2024 (19xx)(Poolware).st" size 737280 crc 0bd24264 md5 d3065b3efe0e4a7998f7e20e85196fc8 )
+)
+
+game (
+	name "Poolware 2025 (19xx)(Poolware)"
+	description "Poolware 2025 (19xx)(Poolware)"
+	rom ( name "Poolware 2025 (19xx)(Poolware).st" size 737280 crc 04569374 md5 78b3b51268af46f092bceb5d9209ad36 )
+)
+
+game (
+	name "Poolware 2026 (19xx)(Poolware)"
+	description "Poolware 2026 (19xx)(Poolware)"
+	rom ( name "Poolware 2026 (19xx)(Poolware).st" size 737280 crc 228d3a47 md5 8498e91ed7a5a5eaea1d4a713081405a )
+)
+
+game (
+	name "Poolware 2027 (19xx)(Poolware)"
+	description "Poolware 2027 (19xx)(Poolware)"
+	rom ( name "Poolware 2027 (19xx)(Poolware).st" size 737280 crc 7931af2f md5 863a74b4974cf11f5b72a0eafd3224a9 )
+)
+
+game (
+	name "Poolware 2028 (19xx)(Poolware)"
+	description "Poolware 2028 (19xx)(Poolware)"
+	rom ( name "Poolware 2028 (19xx)(Poolware).st" size 737280 crc 714f117f md5 a7c680b12579b8bbf3b856477e253de9 )
+)
+
+game (
+	name "Poolware 2029 (19xx)(Poolware)"
+	description "Poolware 2029 (19xx)(Poolware)"
+	rom ( name "Poolware 2029 (19xx)(Poolware).st" size 737280 crc 4e153b16 md5 cb9bba0c0829262b2ce056d8bdc4b135 )
+)
+
+game (
+	name "Poolware 2030 (19xx)(Poolware)"
+	description "Poolware 2030 (19xx)(Poolware)"
+	rom ( name "Poolware 2030 (19xx)(Poolware).st" size 737280 crc 3f143fe6 md5 e774fa66398f03abb9af7a21b72f1781 )
+)
+
+game (
+	name "Poolware 2031 (19xx)(Poolware)"
+	description "Poolware 2031 (19xx)(Poolware)"
+	rom ( name "Poolware 2031 (19xx)(Poolware).st" size 819200 crc 4fd4579f md5 4f298d037538ab56afd027e55c603fa4 )
+)
+
+game (
+	name "Poolware 2032 (19xx)(Poolware)"
+	description "Poolware 2032 (19xx)(Poolware)"
+	rom ( name "Poolware 2032 (19xx)(Poolware).st" size 737280 crc 64f21755 md5 9767e58141bc4bfc1156158639e874e5 )
+)
+
+game (
+	name "Poolware 2033 (19xx)(Poolware)"
+	description "Poolware 2033 (19xx)(Poolware)"
+	rom ( name "Poolware 2033 (19xx)(Poolware).st" size 737280 crc e0f05622 md5 6df844d7ad77733db8692aa6a1ec0bc7 )
+)
+
+game (
+	name "Poolware 2034 (19xx)(Poolware)"
+	description "Poolware 2034 (19xx)(Poolware)"
+	rom ( name "Poolware 2034 (19xx)(Poolware).st" size 737280 crc 9914fdf7 md5 9e36e3b462f1ad0f83f3dcc222ccc901 )
+)
+
+game (
+	name "Poolware 2035 (19xx)(Poolware)"
+	description "Poolware 2035 (19xx)(Poolware)"
+	rom ( name "Poolware 2035 (19xx)(Poolware).st" size 737280 crc 2859e463 md5 acc3bca32a170cbc3875ced57fd81744 )
+)
+
+game (
+	name "Poolware 2036 (19xx)(Poolware)"
+	description "Poolware 2036 (19xx)(Poolware)"
+	rom ( name "Poolware 2036 (19xx)(Poolware).st" size 737280 crc 224556e8 md5 3db6ec40d0991bccc4ab39f34d625530 )
+)
+
+game (
+	name "Poolware 2037 (19xx)(Poolware)"
+	description "Poolware 2037 (19xx)(Poolware)"
+	rom ( name "Poolware 2037 (19xx)(Poolware).st" size 737280 crc 2002162f md5 9a73d3e7ed96e3adf6659980610deda8 )
+)
+
+game (
+	name "Poolware 2038 (19xx)(Poolware)"
+	description "Poolware 2038 (19xx)(Poolware)"
+	rom ( name "Poolware 2038 (19xx)(Poolware).st" size 737280 crc 04cff9fd md5 9a2b33e530c89838e0b6819f7bb0de65 )
+)
+
+game (
+	name "Poolware 2039 (19xx)(Poolware)"
+	description "Poolware 2039 (19xx)(Poolware)"
+	rom ( name "Poolware 2039 (19xx)(Poolware).st" size 737280 crc 7337b29c md5 5f7c3d4f4c8a6b3e2a646782ba270eff )
+)
+
+game (
+	name "Poolware 2040 (19xx)(Poolware)"
+	description "Poolware 2040 (19xx)(Poolware)"
+	rom ( name "Poolware 2040 (19xx)(Poolware).st" size 737280 crc d0a503e0 md5 8db13b20c0db9a83999d92587e211b78 )
+)
+
+game (
+	name "Poolware 2041 (19xx)(Poolware)"
+	description "Poolware 2041 (19xx)(Poolware)"
+	rom ( name "Poolware 2041 (19xx)(Poolware).st" size 737280 crc a67b1710 md5 bef65353f748f100b210bc0b3e539b5c )
+)
+
+game (
+	name "Poolware 2042 (19xx)(Poolware)"
+	description "Poolware 2042 (19xx)(Poolware)"
+	rom ( name "Poolware 2042 (19xx)(Poolware).st" size 737280 crc 5ee2aa0f md5 5981b3669a27b3e17e2df1a777c44e99 )
+)
+
+game (
+	name "Poolware 2043 (19xx)(Poolware)"
+	description "Poolware 2043 (19xx)(Poolware)"
+	rom ( name "Poolware 2043 (19xx)(Poolware).st" size 737280 crc 2bd4e24a md5 b88503017e9987ef159b41c87201458d )
+)
+
+game (
+	name "Poolware 2044 (19xx)(Poolware)"
+	description "Poolware 2044 (19xx)(Poolware)"
+	rom ( name "Poolware 2044 (19xx)(Poolware).st" size 737280 crc 3e3211af md5 cc83dc138241a0edaef058aba571c0b7 )
+)
+
+game (
+	name "Poolware 2045 (19xx)(Poolware)"
+	description "Poolware 2045 (19xx)(Poolware)"
+	rom ( name "Poolware 2045 (19xx)(Poolware).st" size 737280 crc d692ee4c md5 d79e184358afe69120dde38d24b2788e )
+)
+
+game (
+	name "Poolware 2046 (19xx)(Poolware)"
+	description "Poolware 2046 (19xx)(Poolware)"
+	rom ( name "Poolware 2046 (19xx)(Poolware).st" size 737280 crc b4d4732d md5 2536120cdf4ff9eb33e2473ad3cec55e )
+)
+
+game (
+	name "Poolware 2047 (19xx)(Poolware)"
+	description "Poolware 2047 (19xx)(Poolware)"
+	rom ( name "Poolware 2047 (19xx)(Poolware).st" size 737280 crc 370b1228 md5 8cc2db0db8fad94e29189a9f72674088 )
+)
+
+game (
+	name "Poolware 2048 (19xx)(Poolware)"
+	description "Poolware 2048 (19xx)(Poolware)"
+	rom ( name "Poolware 2048 (19xx)(Poolware).st" size 737280 crc 8266eecc md5 60cb4b0ba5cb2a74abeafb7b56d2a8ca )
+)
+
+game (
+	name "Poolware 2049 (19xx)(Poolware)(Disk 1 of 2)[u]"
+	description "Poolware 2049 (19xx)(Poolware)(Disk 1 of 2)[u]"
+	rom ( name "Poolware 2049 (19xx)(Poolware)(Disk 1 of 2)[u].st" size 819200 crc 6fce8cb0 md5 0020fc6c2016145ba245e16b95897d30 )
+)
+
+game (
+	name "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2)"
+	description "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2)"
+	rom ( name "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2).st" size 819200 crc 4b21ab98 md5 d0d087cb9dedaffa2fda5de7e0cec6cc )
+)
+
+game (
+	name "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2)[a]"
+	description "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2)[a]"
+	rom ( name "Poolware 2049 (19xx)(Poolware)(Disk 2 of 2)[a].st" size 819200 crc c2cec20c md5 05debf5a90be35ce3f3dac385b8423ca )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 1 of 8)[u][Disk C]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 1 of 8)[u][Disk C]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 1 of 8)[u][Disk C].st" size 737280 crc 14d5890c md5 f1bdaaa0a3c139477af80d499bced5b3 )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 2 of 8)[u][Disk D]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 2 of 8)[u][Disk D]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 2 of 8)[u][Disk D].st" size 755712 crc c99ec0a6 md5 76e029c40a07abe6bc21ecc9d8f6633d )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 3 of 8)[u][Disk E1]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 3 of 8)[u][Disk E1]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 3 of 8)[u][Disk E1].st" size 737280 crc 373c172b md5 0fa609c762e7a53a2a40bf125bf8b3ce )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 4 of 8)[u][Disk E2]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 4 of 8)[u][Disk E2]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 4 of 8)[u][Disk E2].st" size 737280 crc 3acaa333 md5 e4c3743784d895bc6a66a8752e377db6 )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 5 of 8)[u][Disk F1]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 5 of 8)[u][Disk F1]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 5 of 8)[u][Disk F1].st" size 737280 crc 41e9ea3d md5 b9818fcab9811b35ecd8f432c1deee8a )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 6 of 8)[u][Disk F2]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 6 of 8)[u][Disk F2]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 6 of 8)[u][Disk F2].st" size 737280 crc 1d770c99 md5 01f2a151af3f0a313499d8548061ce7c )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 7 of 8)[u][Disk G1]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 7 of 8)[u][Disk G1]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 7 of 8)[u][Disk G1].st" size 737280 crc a2108c80 md5 15bb76b0812d37eb1de90f9efc204370 )
+)
+
+game (
+	name "Poolware 2050 (19xx)(Poolware)(Disk 8 of 8)[u][Disk G2]"
+	description "Poolware 2050 (19xx)(Poolware)(Disk 8 of 8)[u][Disk G2]"
+	rom ( name "Poolware 2050 (19xx)(Poolware)(Disk 8 of 8)[u][Disk G2].st" size 737280 crc 0dd2b097 md5 d2d9513572b17e415ba73fc700d0825b )
+)
+
+game (
+	name "Poolware 2051 (19xx)(Poolware)"
+	description "Poolware 2051 (19xx)(Poolware)"
+	rom ( name "Poolware 2051 (19xx)(Poolware).st" size 1474560 crc 67a9dd15 md5 b3eca2828559ebc8c3f64e2fc8112b0d )
+)
+
+game (
+	name "Poolware 2052 (19xx)(Poolware)"
+	description "Poolware 2052 (19xx)(Poolware)"
+	rom ( name "Poolware 2052 (19xx)(Poolware).st" size 737280 crc b1c6511b md5 89915be8b86106c81d064b2342b69c3d )
+)
+
+game (
+	name "Poolware 2053 (19xx)(Poolware)"
+	description "Poolware 2053 (19xx)(Poolware)"
+	rom ( name "Poolware 2053 (19xx)(Poolware).st" size 737280 crc 8792e9ad md5 98ea0dfc23c9305bb36a490942de2fcd )
+)
+
+game (
+	name "Poolware 2054 (19xx)(Poolware)"
+	description "Poolware 2054 (19xx)(Poolware)"
+	rom ( name "Poolware 2054 (19xx)(Poolware).st" size 737280 crc 7b14a2db md5 647f5c2bb1bdde500d7df0dbe1ce0edd )
+)
+
+game (
+	name "Poolware 2055 (19xx)(Poolware)"
+	description "Poolware 2055 (19xx)(Poolware)"
+	rom ( name "Poolware 2055 (19xx)(Poolware).st" size 737280 crc fbf06ce6 md5 0e905127b83b21467b5a14d356f403a0 )
+)
+
+game (
+	name "Poolware 2056 (19xx)(Poolware)"
+	description "Poolware 2056 (19xx)(Poolware)"
+	rom ( name "Poolware 2056 (19xx)(Poolware).st" size 737280 crc cf4f3f36 md5 5c2da0146e0c2ae918c7e22376a5c015 )
+)
+
+game (
+	name "Poolware 2057 (19xx)(Poolware)"
+	description "Poolware 2057 (19xx)(Poolware)"
+	rom ( name "Poolware 2057 (19xx)(Poolware).st" size 737280 crc 7e56dfd0 md5 8ff743ef63f6ce2375f0544a72956b7f )
+)
+
+game (
+	name "Poolware 2058 (19xx)(Poolware)"
+	description "Poolware 2058 (19xx)(Poolware)"
+	rom ( name "Poolware 2058 (19xx)(Poolware).st" size 737280 crc 6cfec95d md5 426e4c11d03769f984006ab8279eed05 )
+)
+
+game (
+	name "Poolware 2058 (19xx)(Poolware)[a]"
+	description "Poolware 2058 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2058 (19xx)(Poolware)[a].st" size 737280 crc 6f147256 md5 13a23e542f2c584763bd9bdd805829a8 )
+)
+
+game (
+	name "Poolware 2059 (19xx)(Poolware)"
+	description "Poolware 2059 (19xx)(Poolware)"
+	rom ( name "Poolware 2059 (19xx)(Poolware).st" size 737280 crc f85c91b5 md5 a90fe26631624b656ca6cccc967654cd )
+)
+
+game (
+	name "Poolware 2060 (19xx)(Poolware)"
+	description "Poolware 2060 (19xx)(Poolware)"
+	rom ( name "Poolware 2060 (19xx)(Poolware).st" size 737280 crc b50ff3cd md5 782e964c8b471bd16885177c03d7e178 )
+)
+
+game (
+	name "Poolware 2061 (19xx)(Poolware)"
+	description "Poolware 2061 (19xx)(Poolware)"
+	rom ( name "Poolware 2061 (19xx)(Poolware).st" size 737280 crc b316647d md5 130bae9f1e4b5b01e346e8f135ce6b12 )
+)
+
+game (
+	name "Poolware 2062 (19xx)(Poolware)"
+	description "Poolware 2062 (19xx)(Poolware)"
+	rom ( name "Poolware 2062 (19xx)(Poolware).st" size 737280 crc 5b54290d md5 3fb03fda2a65dc578c6d1678a1b603e3 )
+)
+
+game (
+	name "Poolware 2063 (19xx)(Poolware)"
+	description "Poolware 2063 (19xx)(Poolware)"
+	rom ( name "Poolware 2063 (19xx)(Poolware).st" size 737280 crc 790857eb md5 02adfa8ef642fc402c0b05e4b0b14e03 )
+)
+
+game (
+	name "Poolware 2064 (19xx)(Poolware)[u]"
+	description "Poolware 2064 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2064 (19xx)(Poolware)[u].st" size 737280 crc 9612fc64 md5 48d1d0466628a14bb6abfe767697b1f0 )
+)
+
+game (
+	name "Poolware 2065 (19xx)(Poolware)"
+	description "Poolware 2065 (19xx)(Poolware)"
+	rom ( name "Poolware 2065 (19xx)(Poolware).st" size 737280 crc f73a85dd md5 0a55ad27f3d117b1660c857c001bad63 )
+)
+
+game (
+	name "Poolware 2066 (19xx)(Poolware)"
+	description "Poolware 2066 (19xx)(Poolware)"
+	rom ( name "Poolware 2066 (19xx)(Poolware).st" size 737280 crc 4e9d3715 md5 a82d2bcf10acb60462d8328613c418c9 )
+)
+
+game (
+	name "Poolware 2067 (19xx)(Poolware)"
+	description "Poolware 2067 (19xx)(Poolware)"
+	rom ( name "Poolware 2067 (19xx)(Poolware).st" size 737280 crc 9e56d3ba md5 eb17aa13e76731f54f6331e9e04c59db )
+)
+
+game (
+	name "Poolware 2068 (19xx)(Poolware)"
+	description "Poolware 2068 (19xx)(Poolware)"
+	rom ( name "Poolware 2068 (19xx)(Poolware).st" size 737280 crc 8f36c54f md5 f599251a5779518588895a96b35cf79a )
+)
+
+game (
+	name "Poolware 2069 (19xx)(Poolware)"
+	description "Poolware 2069 (19xx)(Poolware)"
+	rom ( name "Poolware 2069 (19xx)(Poolware).st" size 737280 crc 098b8e70 md5 407e0964b28089e67d759071e72532e5 )
+)
+
+game (
+	name "Poolware 2070 (19xx)(Poolware)"
+	description "Poolware 2070 (19xx)(Poolware)"
+	rom ( name "Poolware 2070 (19xx)(Poolware).st" size 737280 crc fe64fda0 md5 9aee3c241ef44edae613720ae174eef3 )
+)
+
+game (
+	name "Poolware 2071 (19xx)(Poolware)"
+	description "Poolware 2071 (19xx)(Poolware)"
+	rom ( name "Poolware 2071 (19xx)(Poolware).st" size 737280 crc 562231bc md5 eae1b0b0bedba87e7d09564a974b37e3 )
+)
+
+game (
+	name "Poolware 2072 (19xx)(Poolware)"
+	description "Poolware 2072 (19xx)(Poolware)"
+	rom ( name "Poolware 2072 (19xx)(Poolware).st" size 737280 crc dc01b630 md5 00e9e05b6791dbfaa4893045ce93123b )
+)
+
+game (
+	name "Poolware 2073 (19xx)(Poolware)"
+	description "Poolware 2073 (19xx)(Poolware)"
+	rom ( name "Poolware 2073 (19xx)(Poolware).st" size 737280 crc abdc426d md5 dd9cd3bd8b60a725f0f6025066fab49d )
+)
+
+game (
+	name "Poolware 2074 (19xx)(Poolware)"
+	description "Poolware 2074 (19xx)(Poolware)"
+	rom ( name "Poolware 2074 (19xx)(Poolware).st" size 737280 crc cb803532 md5 6d1ee0f5a725e0e04da2efb7136da89b )
+)
+
+game (
+	name "Poolware 2075 (19xx)(Poolware)"
+	description "Poolware 2075 (19xx)(Poolware)"
+	rom ( name "Poolware 2075 (19xx)(Poolware).st" size 737280 crc 5babf860 md5 5d86e2b439c64efc19d9c2e1d2bf333a )
+)
+
+game (
+	name "Poolware 2076 (19xx)(Poolware)"
+	description "Poolware 2076 (19xx)(Poolware)"
+	rom ( name "Poolware 2076 (19xx)(Poolware).st" size 737280 crc 40a5b4a2 md5 38c3691683946618c4e9afbb4d8b36d3 )
+)
+
+game (
+	name "Poolware 2077 (19xx)(Poolware)"
+	description "Poolware 2077 (19xx)(Poolware)"
+	rom ( name "Poolware 2077 (19xx)(Poolware).st" size 737280 crc 00ddb8cf md5 33f2df78188d60bbd65334adbadd01c2 )
+)
+
+game (
+	name "Poolware 2078 (19xx)(Poolware)"
+	description "Poolware 2078 (19xx)(Poolware)"
+	rom ( name "Poolware 2078 (19xx)(Poolware).st" size 737280 crc 298b16c3 md5 bbaae79d497f36a83e79afa0e013ab04 )
+)
+
+game (
+	name "Poolware 2079 (19xx)(Poolware)"
+	description "Poolware 2079 (19xx)(Poolware)"
+	rom ( name "Poolware 2079 (19xx)(Poolware).st" size 737280 crc c17a53d5 md5 dc890559ec152468cb698e0229ffb745 )
+)
+
+game (
+	name "Poolware 2080 (19xx)(Poolware)"
+	description "Poolware 2080 (19xx)(Poolware)"
+	rom ( name "Poolware 2080 (19xx)(Poolware).st" size 737280 crc cf9348d9 md5 0b79a4e2562f7d1bfd7811702d6ff49c )
+)
+
+game (
+	name "Poolware 2081 (19xx)(Poolware)"
+	description "Poolware 2081 (19xx)(Poolware)"
+	rom ( name "Poolware 2081 (19xx)(Poolware).st" size 737280 crc 9d44e3a2 md5 273326194402fa9d46b33feb393294d3 )
+)
+
+game (
+	name "Poolware 2082 (19xx)(Poolware)"
+	description "Poolware 2082 (19xx)(Poolware)"
+	rom ( name "Poolware 2082 (19xx)(Poolware).st" size 737280 crc 497579a2 md5 edd2ce7a847a6b288600d01f4b8b403c )
+)
+
+game (
+	name "Poolware 2083 (19xx)(Poolware)"
+	description "Poolware 2083 (19xx)(Poolware)"
+	rom ( name "Poolware 2083 (19xx)(Poolware).st" size 737280 crc 15c658bb md5 f3d873674de3a3ba231b608f53df14e1 )
+)
+
+game (
+	name "Poolware 2084 (19xx)(Poolware)"
+	description "Poolware 2084 (19xx)(Poolware)"
+	rom ( name "Poolware 2084 (19xx)(Poolware).st" size 737280 crc 4469a774 md5 7a015392559eaf8750c7d21355a4a6cf )
+)
+
+game (
+	name "Poolware 2085 (19xx)(Poolware)"
+	description "Poolware 2085 (19xx)(Poolware)"
+	rom ( name "Poolware 2085 (19xx)(Poolware).st" size 737280 crc 8e721f19 md5 1eac4278d12ec872a4be22beee71c72c )
+)
+
+game (
+	name "Poolware 2086 (19xx)(Poolware)"
+	description "Poolware 2086 (19xx)(Poolware)"
+	rom ( name "Poolware 2086 (19xx)(Poolware).st" size 737280 crc 5e38c706 md5 87b48dd3f65526338cfa3e547a83ab53 )
+)
+
+game (
+	name "Poolware 2087 (19xx)(Poolware)"
+	description "Poolware 2087 (19xx)(Poolware)"
+	rom ( name "Poolware 2087 (19xx)(Poolware).st" size 737280 crc 341b7ee9 md5 f2ca36f8caefbd3d2dece8c4b1b5723f )
+)
+
+game (
+	name "Poolware 2088 (19xx)(Poolware)"
+	description "Poolware 2088 (19xx)(Poolware)"
+	rom ( name "Poolware 2088 (19xx)(Poolware).st" size 737280 crc 60725c7d md5 70825afe6a29abf81bb31dff22e84189 )
+)
+
+game (
+	name "Poolware 2089 (19xx)(Poolware)"
+	description "Poolware 2089 (19xx)(Poolware)"
+	rom ( name "Poolware 2089 (19xx)(Poolware).st" size 737280 crc 07b51d7a md5 7a3a03075f8ca13ec82e633aef62d004 )
+)
+
+game (
+	name "Poolware 2090 (19xx)(Poolware)"
+	description "Poolware 2090 (19xx)(Poolware)"
+	rom ( name "Poolware 2090 (19xx)(Poolware).st" size 737280 crc 802b1e53 md5 d3aad131ba7f1ac7e201614269e59d36 )
+)
+
+game (
+	name "Poolware 2091 (19xx)(Poolware)"
+	description "Poolware 2091 (19xx)(Poolware)"
+	rom ( name "Poolware 2091 (19xx)(Poolware).st" size 737280 crc 0cb61a3e md5 70d83b14b54d9ad51be7ef9db0b58149 )
+)
+
+game (
+	name "Poolware 2091 (19xx)(Poolware)[b]"
+	description "Poolware 2091 (19xx)(Poolware)[b]"
+	rom ( name "Poolware 2091 (19xx)(Poolware)[b].st" size 737280 crc 68540c45 md5 4cad848a1566d42e4c9dffc0486c9183 )
+)
+
+game (
+	name "Poolware 2092 (19xx)(Poolware)"
+	description "Poolware 2092 (19xx)(Poolware)"
+	rom ( name "Poolware 2092 (19xx)(Poolware).st" size 737280 crc 56249fe3 md5 a2e827461d8bde04d7ca34793a5b58d6 )
+)
+
+game (
+	name "Poolware 2093 (19xx)(Poolware)"
+	description "Poolware 2093 (19xx)(Poolware)"
+	rom ( name "Poolware 2093 (19xx)(Poolware).st" size 737280 crc c577b350 md5 6ae5dda8f89f5c53c1b9cefd819374dc )
+)
+
+game (
+	name "Poolware 2094 (19xx)(Poolware)"
+	description "Poolware 2094 (19xx)(Poolware)"
+	rom ( name "Poolware 2094 (19xx)(Poolware).st" size 737280 crc d25f0418 md5 730df47f8cd6aae6e1eaa2acb4fcfa3a )
+)
+
+game (
+	name "Poolware 2095 (19xx)(Poolware)"
+	description "Poolware 2095 (19xx)(Poolware)"
+	rom ( name "Poolware 2095 (19xx)(Poolware).st" size 737280 crc bf3ea7f9 md5 92ffe1d09c6cd7064d246e5a21540cbe )
+)
+
+game (
+	name "Poolware 2096 (19xx)(Poolware)"
+	description "Poolware 2096 (19xx)(Poolware)"
+	rom ( name "Poolware 2096 (19xx)(Poolware).st" size 737280 crc 06eb58a9 md5 0d55b126cf8fa259b194d42ffc94ab2a )
+)
+
+game (
+	name "Poolware 2097 (19xx)(Poolware)"
+	description "Poolware 2097 (19xx)(Poolware)"
+	rom ( name "Poolware 2097 (19xx)(Poolware).st" size 737280 crc bd837cb4 md5 36edc4c561e50d54be1c549c3a37ab4a )
+)
+
+game (
+	name "Poolware 2098 (19xx)(Poolware)"
+	description "Poolware 2098 (19xx)(Poolware)"
+	rom ( name "Poolware 2098 (19xx)(Poolware).st" size 737280 crc 23c651d0 md5 77c33fccdf0fd5ec2a1ca37806b7520d )
+)
+
+game (
+	name "Poolware 2099 (19xx)(Poolware)"
+	description "Poolware 2099 (19xx)(Poolware)"
+	rom ( name "Poolware 2099 (19xx)(Poolware).st" size 737280 crc da2bf855 md5 6c7e8a12251f1b67615f089edf54edb8 )
+)
+
+game (
+	name "Poolware 2100 (19xx)(Poolware)[u]"
+	description "Poolware 2100 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2100 (19xx)(Poolware)[u].st" size 737280 crc f47bb001 md5 f4800712ffccea13064c6d30b371e19e )
+)
+
+game (
+	name "Poolware 2101 (19xx)(Poolware)"
+	description "Poolware 2101 (19xx)(Poolware)"
+	rom ( name "Poolware 2101 (19xx)(Poolware).st" size 737280 crc 1d2010d5 md5 3c612a8c21f7720456e65f37950641fe )
+)
+
+game (
+	name "Poolware 2102 (19xx)(Poolware)"
+	description "Poolware 2102 (19xx)(Poolware)"
+	rom ( name "Poolware 2102 (19xx)(Poolware).st" size 737280 crc 2f34ca6b md5 f906c6ce2360eb6a07396817460d4b70 )
+)
+
+game (
+	name "Poolware 2103 (19xx)(Poolware)"
+	description "Poolware 2103 (19xx)(Poolware)"
+	rom ( name "Poolware 2103 (19xx)(Poolware).st" size 737280 crc 5565147f md5 c78d8a502d480a2465f13836b8330c5d )
+)
+
+game (
+	name "Poolware 2104 (19xx)(Poolware)"
+	description "Poolware 2104 (19xx)(Poolware)"
+	rom ( name "Poolware 2104 (19xx)(Poolware).st" size 737280 crc 7a879357 md5 3a0842277c7912b52bbf348f9a0a9a3e )
+)
+
+game (
+	name "Poolware 2105 (19xx)(Poolware)"
+	description "Poolware 2105 (19xx)(Poolware)"
+	rom ( name "Poolware 2105 (19xx)(Poolware).st" size 737280 crc dcf44b98 md5 3704393b5164fca7e79d3151cb158407 )
+)
+
+game (
+	name "Poolware 2106 (19xx)(Poolware)"
+	description "Poolware 2106 (19xx)(Poolware)"
+	rom ( name "Poolware 2106 (19xx)(Poolware).st" size 737280 crc 0f311fde md5 57d896e30c6c148fc89e8b7ad8990bfc )
+)
+
+game (
+	name "Poolware 2107 (19xx)(Poolware)"
+	description "Poolware 2107 (19xx)(Poolware)"
+	rom ( name "Poolware 2107 (19xx)(Poolware).st" size 737280 crc afa76e04 md5 bb90d36bddc89d089a3029b185f20b30 )
+)
+
+game (
+	name "Poolware 2108 (19xx)(Poolware)"
+	description "Poolware 2108 (19xx)(Poolware)"
+	rom ( name "Poolware 2108 (19xx)(Poolware).st" size 737280 crc 842de6db md5 0855aea8a22fa171d90194f9d2b49069 )
+)
+
+game (
+	name "Poolware 2109 (19xx)(Poolware)"
+	description "Poolware 2109 (19xx)(Poolware)"
+	rom ( name "Poolware 2109 (19xx)(Poolware).st" size 737280 crc d713a272 md5 42c3f01800be13dd911d325cd8cd738e )
+)
+
+game (
+	name "Poolware 2109 (19xx)(Poolware)[a]"
+	description "Poolware 2109 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2109 (19xx)(Poolware)[a].st" size 737280 crc 8b395331 md5 d5aeaedfe13ad99bba60cccac89c687f )
+)
+
+game (
+	name "Poolware 2110 (19xx)(Poolware)"
+	description "Poolware 2110 (19xx)(Poolware)"
+	rom ( name "Poolware 2110 (19xx)(Poolware).st" size 737280 crc cbe6145d md5 d0739b3e32db54415c4fb5e373fb494f )
+)
+
+game (
+	name "Poolware 2111 (19xx)(Poolware)"
+	description "Poolware 2111 (19xx)(Poolware)"
+	rom ( name "Poolware 2111 (19xx)(Poolware).st" size 737280 crc 738240eb md5 60dc739f0baf3d8a6ec2ba8b78db5f11 )
+)
+
+game (
+	name "Poolware 2112 (19xx)(Poolware)"
+	description "Poolware 2112 (19xx)(Poolware)"
+	rom ( name "Poolware 2112 (19xx)(Poolware).st" size 737280 crc f65bb4ae md5 773daf6d7f1199bdea77027986183489 )
+)
+
+game (
+	name "Poolware 2112 (19xx)(Poolware)[a]"
+	description "Poolware 2112 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2112 (19xx)(Poolware)[a].st" size 737280 crc 792d0e60 md5 eddef9821beb5b5105f640a18f41d6ae )
+)
+
+game (
+	name "Poolware 2113 (19xx)(Poolware)"
+	description "Poolware 2113 (19xx)(Poolware)"
+	rom ( name "Poolware 2113 (19xx)(Poolware).st" size 737280 crc 00ccad6b md5 261bc95948a32c35e82a0ac3f4b6b7fa )
+)
+
+game (
+	name "Poolware 2114 (19xx)(Poolware)"
+	description "Poolware 2114 (19xx)(Poolware)"
+	rom ( name "Poolware 2114 (19xx)(Poolware).st" size 746496 crc 154fd389 md5 098a73aabaf9cd49ea46f61b81f3f732 )
+)
+
+game (
+	name "Poolware 2115 (19xx)(Poolware)"
+	description "Poolware 2115 (19xx)(Poolware)"
+	rom ( name "Poolware 2115 (19xx)(Poolware).st" size 737280 crc d44c301b md5 c838be671fa5b37bbc1d53d5094cbd59 )
+)
+
+game (
+	name "Poolware 2116 (19xx)(Poolware)"
+	description "Poolware 2116 (19xx)(Poolware)"
+	rom ( name "Poolware 2116 (19xx)(Poolware).st" size 737280 crc cddf15d7 md5 3a8b01bed39764f5d3341a4d60bc2f8f )
+)
+
+game (
+	name "Poolware 2117 (19xx)(Poolware)"
+	description "Poolware 2117 (19xx)(Poolware)"
+	rom ( name "Poolware 2117 (19xx)(Poolware).st" size 737280 crc ce9dd52f md5 6723b6118f5ffb4f3a35ad6725044e45 )
+)
+
+game (
+	name "Poolware 2118 (19xx)(Poolware)"
+	description "Poolware 2118 (19xx)(Poolware)"
+	rom ( name "Poolware 2118 (19xx)(Poolware).st" size 737280 crc 7f36dc8c md5 30ddf2e69eed7e9e12b018dd7bb245d3 )
+)
+
+game (
+	name "Poolware 2119 (19xx)(Poolware)"
+	description "Poolware 2119 (19xx)(Poolware)"
+	rom ( name "Poolware 2119 (19xx)(Poolware).st" size 737280 crc 0d3ab519 md5 3dd20e50e44f6d41c591e18669571dae )
+)
+
+game (
+	name "Poolware 2120 (19xx)(Poolware)"
+	description "Poolware 2120 (19xx)(Poolware)"
+	rom ( name "Poolware 2120 (19xx)(Poolware).st" size 737280 crc 1609dbc9 md5 d9ebe3580aee61d57155ff43d35d6ae8 )
+)
+
+game (
+	name "Poolware 2121 (19xx)(Poolware)"
+	description "Poolware 2121 (19xx)(Poolware)"
+	rom ( name "Poolware 2121 (19xx)(Poolware).st" size 737280 crc 76602039 md5 42c20d72b724fe234b2f29a6b04cba75 )
+)
+
+game (
+	name "Poolware 2122 (19xx)(Poolware)"
+	description "Poolware 2122 (19xx)(Poolware)"
+	rom ( name "Poolware 2122 (19xx)(Poolware).st" size 737280 crc 66c5aac1 md5 3e028831f2928d462dbcfccca3a3a9d4 )
+)
+
+game (
+	name "Poolware 2123 (19xx)(Poolware)"
+	description "Poolware 2123 (19xx)(Poolware)"
+	rom ( name "Poolware 2123 (19xx)(Poolware).st" size 737280 crc f683ad70 md5 9825de97bb85c8ee0b315e015ead7a3e )
+)
+
+game (
+	name "Poolware 2124 (19xx)(Poolware)"
+	description "Poolware 2124 (19xx)(Poolware)"
+	rom ( name "Poolware 2124 (19xx)(Poolware).st" size 737280 crc 809a56ba md5 80855529028af331ebe0ad300068076c )
+)
+
+game (
+	name "Poolware 2125 (19xx)(Poolware)"
+	description "Poolware 2125 (19xx)(Poolware)"
+	rom ( name "Poolware 2125 (19xx)(Poolware).st" size 737280 crc a216f273 md5 596a0bda871fe37b6f348c07bdf0cba7 )
+)
+
+game (
+	name "Poolware 2126 (19xx)(Poolware)"
+	description "Poolware 2126 (19xx)(Poolware)"
+	rom ( name "Poolware 2126 (19xx)(Poolware).st" size 737280 crc 2d468849 md5 bc267d8f0982b78ca3c11c8dc3ca1ba6 )
+)
+
+game (
+	name "Poolware 2127 (19xx)(Poolware)"
+	description "Poolware 2127 (19xx)(Poolware)"
+	rom ( name "Poolware 2127 (19xx)(Poolware).st" size 737280 crc 2b6c2ef9 md5 a00774b039a92503b65490a7b741a6cb )
+)
+
+game (
+	name "Poolware 2128 (19xx)(Poolware)"
+	description "Poolware 2128 (19xx)(Poolware)"
+	rom ( name "Poolware 2128 (19xx)(Poolware).st" size 737280 crc a055b744 md5 1abeebf210697a786143e5c5b99bbde0 )
+)
+
+game (
+	name "Poolware 2128 (19xx)(Poolware)[u]"
+	description "Poolware 2128 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2128 (19xx)(Poolware)[u].st" size 737280 crc 106c4d22 md5 92c27123d2723bc9dee755dd281026e8 )
+)
+
+game (
+	name "Poolware 2129 (19xx)(Poolware)"
+	description "Poolware 2129 (19xx)(Poolware)"
+	rom ( name "Poolware 2129 (19xx)(Poolware).st" size 737280 crc 45c1c8da md5 d3cbe9f188cf1ca6fb26153fd1bae0a4 )
+)
+
+game (
+	name "Poolware 2130 (19xx)(Poolware)"
+	description "Poolware 2130 (19xx)(Poolware)"
+	rom ( name "Poolware 2130 (19xx)(Poolware).st" size 737280 crc 216d5af6 md5 eb5d08acaefdbd8b330c3a87c4e1e769 )
+)
+
+game (
+	name "Poolware 2131 (19xx)(Poolware)"
+	description "Poolware 2131 (19xx)(Poolware)"
+	rom ( name "Poolware 2131 (19xx)(Poolware).st" size 737280 crc 2784f4e8 md5 eb78dacceb6512ef9a0b117efcc4422c )
+)
+
+game (
+	name "Poolware 2132 (19xx)(Poolware)"
+	description "Poolware 2132 (19xx)(Poolware)"
+	rom ( name "Poolware 2132 (19xx)(Poolware).st" size 737280 crc 0a11293b md5 ef662961a32cd2d432076de0a98b0fe8 )
+)
+
+game (
+	name "Poolware 2133 (19xx)(Poolware)"
+	description "Poolware 2133 (19xx)(Poolware)"
+	rom ( name "Poolware 2133 (19xx)(Poolware).st" size 737280 crc df8a299f md5 86f6a858eea5c03fe4570c625ca5baed )
+)
+
+game (
+	name "Poolware 2133 (19xx)(Poolware)[a]"
+	description "Poolware 2133 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2133 (19xx)(Poolware)[a].st" size 737280 crc b3c70c64 md5 5a86fca0497522da47f4a29b2e3786f2 )
+)
+
+game (
+	name "Poolware 2134 (19xx)(Poolware)"
+	description "Poolware 2134 (19xx)(Poolware)"
+	rom ( name "Poolware 2134 (19xx)(Poolware).st" size 737280 crc 2673c520 md5 807f561f43743e040e8fe2dcccadb54b )
+)
+
+game (
+	name "Poolware 2135 (19xx)(Poolware)"
+	description "Poolware 2135 (19xx)(Poolware)"
+	rom ( name "Poolware 2135 (19xx)(Poolware).st" size 737280 crc 228f0488 md5 330fbdd85d4e4cc37293ce584ff8dd78 )
+)
+
+game (
+	name "Poolware 2136 (19xx)(Poolware)"
+	description "Poolware 2136 (19xx)(Poolware)"
+	rom ( name "Poolware 2136 (19xx)(Poolware).st" size 737280 crc ed19f8f1 md5 94358b323dbef8e8b99d8e136a5c4276 )
+)
+
+game (
+	name "Poolware 2137 (19xx)(Poolware)"
+	description "Poolware 2137 (19xx)(Poolware)"
+	rom ( name "Poolware 2137 (19xx)(Poolware).st" size 737280 crc c8984ff3 md5 a45908d11ceb0e8e0c3caac5bcb5974b )
+)
+
+game (
+	name "Poolware 2138 (19xx)(Poolware)"
+	description "Poolware 2138 (19xx)(Poolware)"
+	rom ( name "Poolware 2138 (19xx)(Poolware).st" size 737280 crc 6b763147 md5 258222a3dc8f9fe334fc40e525efd158 )
+)
+
+game (
+	name "Poolware 2139 (19xx)(Poolware)"
+	description "Poolware 2139 (19xx)(Poolware)"
+	rom ( name "Poolware 2139 (19xx)(Poolware).st" size 737280 crc 355ed827 md5 ad2660945714ca2b68e7ddeb891c28b2 )
+)
+
+game (
+	name "Poolware 2140 (19xx)(Poolware)"
+	description "Poolware 2140 (19xx)(Poolware)"
+	rom ( name "Poolware 2140 (19xx)(Poolware).st" size 737280 crc d559290e md5 874b5444abee6b1097d907d1bc30cba2 )
+)
+
+game (
+	name "Poolware 2141 (19xx)(Poolware)"
+	description "Poolware 2141 (19xx)(Poolware)"
+	rom ( name "Poolware 2141 (19xx)(Poolware).st" size 755712 crc 7ab12618 md5 721ed40de7474976de3fd48d70e0aadb )
+)
+
+game (
+	name "Poolware 2142 (19xx)(Poolware)"
+	description "Poolware 2142 (19xx)(Poolware)"
+	rom ( name "Poolware 2142 (19xx)(Poolware).st" size 737280 crc e88a3633 md5 071867530f9dfca9d9380f90c12aef4d )
+)
+
+game (
+	name "Poolware 2143 (19xx)(Poolware)"
+	description "Poolware 2143 (19xx)(Poolware)"
+	rom ( name "Poolware 2143 (19xx)(Poolware).st" size 737280 crc 1fe43363 md5 ab9943feb34be1a9a7c7169c41c5153b )
+)
+
+game (
+	name "Poolware 2143 (19xx)(Poolware)[a]"
+	description "Poolware 2143 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2143 (19xx)(Poolware)[a].st" size 737280 crc 6e7d60ed md5 85c10a2cdb13491c558e915d964fc59a )
+)
+
+game (
+	name "Poolware 2144 (19xx)(Poolware)"
+	description "Poolware 2144 (19xx)(Poolware)"
+	rom ( name "Poolware 2144 (19xx)(Poolware).st" size 737280 crc 9eb87675 md5 80e44934d435a92b94ff483824217348 )
+)
+
+game (
+	name "Poolware 2145 (19xx)(Poolware)"
+	description "Poolware 2145 (19xx)(Poolware)"
+	rom ( name "Poolware 2145 (19xx)(Poolware).st" size 737280 crc 15bb81fb md5 0e3724fb1470eb43eab87103b81dabd0 )
+)
+
+game (
+	name "Poolware 2146 (19xx)(Poolware)"
+	description "Poolware 2146 (19xx)(Poolware)"
+	rom ( name "Poolware 2146 (19xx)(Poolware).st" size 737280 crc 5c822c14 md5 e3fb889e3a542a3ea09db4a60cc6039c )
+)
+
+game (
+	name "Poolware 2147 (19xx)(Poolware)"
+	description "Poolware 2147 (19xx)(Poolware)"
+	rom ( name "Poolware 2147 (19xx)(Poolware).st" size 737280 crc b9a20a05 md5 151c751026abfc69b12aa6459cf83bf3 )
+)
+
+game (
+	name "Poolware 2148 (19xx)(Poolware)"
+	description "Poolware 2148 (19xx)(Poolware)"
+	rom ( name "Poolware 2148 (19xx)(Poolware).st" size 737280 crc 909e972a md5 b88a62ac9bbb0ebbed11aad31717e9d3 )
+)
+
+game (
+	name "Poolware 2149 (19xx)(Poolware)"
+	description "Poolware 2149 (19xx)(Poolware)"
+	rom ( name "Poolware 2149 (19xx)(Poolware).st" size 737280 crc 61d7e17d md5 7cc61e3cfd1fb9bd4399d4005ccd2ea3 )
+)
+
+game (
+	name "Poolware 2150 (19xx)(Poolware)"
+	description "Poolware 2150 (19xx)(Poolware)"
+	rom ( name "Poolware 2150 (19xx)(Poolware).st" size 737280 crc a1351205 md5 23ee1deacd7d41ad59e88ebd46abbd72 )
+)
+
+game (
+	name "Poolware 2151 (19xx)(Poolware)"
+	description "Poolware 2151 (19xx)(Poolware)"
+	rom ( name "Poolware 2151 (19xx)(Poolware).st" size 737280 crc 32f1a6a4 md5 5668c9eaf7a27d70b57fc1d19990671d )
+)
+
+game (
+	name "Poolware 2152 (19xx)(Poolware)"
+	description "Poolware 2152 (19xx)(Poolware)"
+	rom ( name "Poolware 2152 (19xx)(Poolware).st" size 737280 crc c62f67a7 md5 56689751f0894baf5043106f8acfd7e1 )
+)
+
+game (
+	name "Poolware 2153 (19xx)(Poolware)"
+	description "Poolware 2153 (19xx)(Poolware)"
+	rom ( name "Poolware 2153 (19xx)(Poolware).st" size 746496 crc d505f03d md5 0c41815710591f179f8de17ce1225b0c )
+)
+
+game (
+	name "Poolware 2154 (19xx)(Poolware)"
+	description "Poolware 2154 (19xx)(Poolware)"
+	rom ( name "Poolware 2154 (19xx)(Poolware).st" size 737280 crc 4ccc7a74 md5 cb06e6afa4d350a630fbb42b3273277f )
+)
+
+game (
+	name "Poolware 2155 (19xx)(Poolware)"
+	description "Poolware 2155 (19xx)(Poolware)"
+	rom ( name "Poolware 2155 (19xx)(Poolware).st" size 737280 crc af21902a md5 95c66885778aad03542a68e195a936d4 )
+)
+
+game (
+	name "Poolware 2156 (19xx)(Poolware)"
+	description "Poolware 2156 (19xx)(Poolware)"
+	rom ( name "Poolware 2156 (19xx)(Poolware).st" size 737280 crc 70efbc41 md5 b4fd76909e6b0ceaa790fbbbcdc32bdd )
+)
+
+game (
+	name "Poolware 2157 (19xx)(Poolware)"
+	description "Poolware 2157 (19xx)(Poolware)"
+	rom ( name "Poolware 2157 (19xx)(Poolware).st" size 737280 crc 92be4a49 md5 eab332471cb48ea338e67cbaebd55770 )
+)
+
+game (
+	name "Poolware 2158 (19xx)(Poolware)"
+	description "Poolware 2158 (19xx)(Poolware)"
+	rom ( name "Poolware 2158 (19xx)(Poolware).st" size 819200 crc 6b88c077 md5 b26f18686f6ed36282e7aa7b5db175e1 )
+)
+
+game (
+	name "Poolware 2159 (19xx)(Poolware)"
+	description "Poolware 2159 (19xx)(Poolware)"
+	rom ( name "Poolware 2159 (19xx)(Poolware).st" size 737280 crc 31be46d1 md5 b49a9e5b037e6c6438e802d20ee30684 )
+)
+
+game (
+	name "Poolware 2160 (19xx)(Poolware)"
+	description "Poolware 2160 (19xx)(Poolware)"
+	rom ( name "Poolware 2160 (19xx)(Poolware).st" size 737280 crc 5c3902b5 md5 02034e674a225eba5397a46a0605e36b )
+)
+
+game (
+	name "Poolware 2161 (19xx)(Poolware)"
+	description "Poolware 2161 (19xx)(Poolware)"
+	rom ( name "Poolware 2161 (19xx)(Poolware).st" size 737280 crc 8338a834 md5 3990cb2d740a67494862aafa68ef1ace )
+)
+
+game (
+	name "Poolware 2162 (19xx)(Poolware)"
+	description "Poolware 2162 (19xx)(Poolware)"
+	rom ( name "Poolware 2162 (19xx)(Poolware).st" size 737280 crc c40ab094 md5 78e44572337597e88fa60dcefa665024 )
+)
+
+game (
+	name "Poolware 2163 (19xx)(Poolware)"
+	description "Poolware 2163 (19xx)(Poolware)"
+	rom ( name "Poolware 2163 (19xx)(Poolware).st" size 737280 crc 38db5aff md5 bd307b249ba124b6f242b7a13ea27ea9 )
+)
+
+game (
+	name "Poolware 2164 (19xx)(Poolware)"
+	description "Poolware 2164 (19xx)(Poolware)"
+	rom ( name "Poolware 2164 (19xx)(Poolware).st" size 737280 crc 0c9943e3 md5 04d0ebd571c8ed51afb2047a73397a7c )
+)
+
+game (
+	name "Poolware 2165 (19xx)(Poolware)"
+	description "Poolware 2165 (19xx)(Poolware)"
+	rom ( name "Poolware 2165 (19xx)(Poolware).st" size 737280 crc 730cd03b md5 aa2c64afb869e015149c6ca3067e8b78 )
+)
+
+game (
+	name "Poolware 2166 (19xx)(Poolware)"
+	description "Poolware 2166 (19xx)(Poolware)"
+	rom ( name "Poolware 2166 (19xx)(Poolware).st" size 737280 crc f4c2df96 md5 818b5fdc3148dfdc0e0ea019c0fd9fb9 )
+)
+
+game (
+	name "Poolware 2167 (19xx)(Poolware)"
+	description "Poolware 2167 (19xx)(Poolware)"
+	rom ( name "Poolware 2167 (19xx)(Poolware).st" size 737280 crc 9af619c5 md5 84daa719ac5cbada085abb6dc9263517 )
+)
+
+game (
+	name "Poolware 2168 (19xx)(Poolware)"
+	description "Poolware 2168 (19xx)(Poolware)"
+	rom ( name "Poolware 2168 (19xx)(Poolware).st" size 737280 crc c53c8d14 md5 6ec49a1f68e501a4b6beed7e126243f4 )
+)
+
+game (
+	name "Poolware 2169 (19xx)(Poolware)"
+	description "Poolware 2169 (19xx)(Poolware)"
+	rom ( name "Poolware 2169 (19xx)(Poolware).st" size 901120 crc 721f93ff md5 725bfc93c1d17cce1d7a959138c19395 )
+)
+
+game (
+	name "Poolware 2170 (19xx)(Poolware)"
+	description "Poolware 2170 (19xx)(Poolware)"
+	rom ( name "Poolware 2170 (19xx)(Poolware).st" size 819200 crc c6117ce7 md5 fab2c48335330aaee694b5350b0b02a8 )
+)
+
+game (
+	name "Poolware 2171 (19xx)(Poolware)"
+	description "Poolware 2171 (19xx)(Poolware)"
+	rom ( name "Poolware 2171 (19xx)(Poolware).st" size 737280 crc 7a138cea md5 17c7308c31fba9fd0cafb4d47910c1be )
+)
+
+game (
+	name "Poolware 2172 (19xx)(Poolware)"
+	description "Poolware 2172 (19xx)(Poolware)"
+	rom ( name "Poolware 2172 (19xx)(Poolware).st" size 737280 crc 7e35167a md5 e5ab18427809f038b590d98773d6b13a )
+)
+
+game (
+	name "Poolware 2173 (19xx)(Poolware)"
+	description "Poolware 2173 (19xx)(Poolware)"
+	rom ( name "Poolware 2173 (19xx)(Poolware).st" size 737280 crc 530fa07a md5 89eee3c20ec1cfd77a85eaf78db312c6 )
+)
+
+game (
+	name "Poolware 2174 (19xx)(Poolware)"
+	description "Poolware 2174 (19xx)(Poolware)"
+	rom ( name "Poolware 2174 (19xx)(Poolware).st" size 737280 crc 65dde8e2 md5 20e299e80434b20f70ecef2b7166dbc9 )
+)
+
+game (
+	name "Poolware 2175 (19xx)(Poolware)"
+	description "Poolware 2175 (19xx)(Poolware)"
+	rom ( name "Poolware 2175 (19xx)(Poolware).st" size 737280 crc a98d274d md5 db2f642dd03b1f43cd07add87cf12209 )
+)
+
+game (
+	name "Poolware 2176 (19xx)(Poolware)"
+	description "Poolware 2176 (19xx)(Poolware)"
+	rom ( name "Poolware 2176 (19xx)(Poolware).st" size 737280 crc d7583d2d md5 d61b0154c93560d77066a3815a60a88b )
+)
+
+game (
+	name "Poolware 2176 (19xx)(Poolware)[a]"
+	description "Poolware 2176 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2176 (19xx)(Poolware)[a].st" size 737280 crc b75dbea3 md5 150d76ebbf5e4b48733e652355a2c0b3 )
+)
+
+game (
+	name "Poolware 2177 (19xx)(Poolware)"
+	description "Poolware 2177 (19xx)(Poolware)"
+	rom ( name "Poolware 2177 (19xx)(Poolware).st" size 737280 crc b63fcf49 md5 109ba2a1b6b98ee03361f12fbd4ef448 )
+)
+
+game (
+	name "Poolware 2178 (19xx)(Poolware)"
+	description "Poolware 2178 (19xx)(Poolware)"
+	rom ( name "Poolware 2178 (19xx)(Poolware).st" size 737280 crc fde40a24 md5 145bd84e2839f999578ace5175d6aade )
+)
+
+game (
+	name "Poolware 2179 (19xx)(Poolware)"
+	description "Poolware 2179 (19xx)(Poolware)"
+	rom ( name "Poolware 2179 (19xx)(Poolware).st" size 737280 crc e7802b55 md5 388418f7ad89578aadedf38d858d2392 )
+)
+
+game (
+	name "Poolware 2180 (19xx)(Poolware)"
+	description "Poolware 2180 (19xx)(Poolware)"
+	rom ( name "Poolware 2180 (19xx)(Poolware).st" size 737280 crc 325506c6 md5 99c7ead1937ec6a8095453ad72f20f09 )
+)
+
+game (
+	name "Poolware 2181 (19xx)(Poolware)"
+	description "Poolware 2181 (19xx)(Poolware)"
+	rom ( name "Poolware 2181 (19xx)(Poolware).st" size 737280 crc c6542df5 md5 7a7560c270fd17d122ff15f42c54815d )
+)
+
+game (
+	name "Poolware 2182 (19xx)(Poolware)"
+	description "Poolware 2182 (19xx)(Poolware)"
+	rom ( name "Poolware 2182 (19xx)(Poolware).st" size 737280 crc 68fc9275 md5 b31893dce9a90fc76f6a5d0fc1fd25c2 )
+)
+
+game (
+	name "Poolware 2183 (19xx)(Poolware)"
+	description "Poolware 2183 (19xx)(Poolware)"
+	rom ( name "Poolware 2183 (19xx)(Poolware).st" size 737280 crc d1a71346 md5 57632d0b92ff7055ad4fbd31620316fd )
+)
+
+game (
+	name "Poolware 2184 (19xx)(Poolware)"
+	description "Poolware 2184 (19xx)(Poolware)"
+	rom ( name "Poolware 2184 (19xx)(Poolware).st" size 737280 crc 24d0d625 md5 6687272c15b8da3de3e223337372edfa )
+)
+
+game (
+	name "Poolware 2185 (19xx)(Poolware)"
+	description "Poolware 2185 (19xx)(Poolware)"
+	rom ( name "Poolware 2185 (19xx)(Poolware).st" size 737280 crc fd5a2504 md5 3e047fe8cef576974ab3b886cd3b89db )
+)
+
+game (
+	name "Poolware 2186 (19xx)(Poolware)"
+	description "Poolware 2186 (19xx)(Poolware)"
+	rom ( name "Poolware 2186 (19xx)(Poolware).st" size 737280 crc a3245ab5 md5 6ad749157c7b00ffbc27b9d4db19b85c )
+)
+
+game (
+	name "Poolware 2186 (19xx)(Poolware)[a]"
+	description "Poolware 2186 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2186 (19xx)(Poolware)[a].st" size 737280 crc 223bedce md5 35301cd12ec8a29a54822fc917945b91 )
+)
+
+game (
+	name "Poolware 2187 (19xx)(Poolware)"
+	description "Poolware 2187 (19xx)(Poolware)"
+	rom ( name "Poolware 2187 (19xx)(Poolware).st" size 737280 crc 94198218 md5 d184b99cd82ff207d96c365f4e538d5f )
+)
+
+game (
+	name "Poolware 2188 (19xx)(Poolware)"
+	description "Poolware 2188 (19xx)(Poolware)"
+	rom ( name "Poolware 2188 (19xx)(Poolware).st" size 737280 crc 6a4122d0 md5 50093b52321d0b32f5b4f42cf8eec224 )
+)
+
+game (
+	name "Poolware 2189 (19xx)(Poolware)"
+	description "Poolware 2189 (19xx)(Poolware)"
+	rom ( name "Poolware 2189 (19xx)(Poolware).st" size 737280 crc fd7c39a3 md5 2b0bdf35d3279a06856fc04a40ec155d )
+)
+
+game (
+	name "Poolware 2190 (19xx)(Poolware)"
+	description "Poolware 2190 (19xx)(Poolware)"
+	rom ( name "Poolware 2190 (19xx)(Poolware).st" size 737280 crc 29d7ab16 md5 d74e0a6bd63bf19ba70ba6e88b5ffb09 )
+)
+
+game (
+	name "Poolware 2191 (19xx)(Poolware)"
+	description "Poolware 2191 (19xx)(Poolware)"
+	rom ( name "Poolware 2191 (19xx)(Poolware).st" size 737280 crc 9102d4e2 md5 20d021b69c355e238d37cc6d2fb0a367 )
+)
+
+game (
+	name "Poolware 2192 (19xx)(Poolware)"
+	description "Poolware 2192 (19xx)(Poolware)"
+	rom ( name "Poolware 2192 (19xx)(Poolware).st" size 737280 crc aa9e418b md5 23a92eb00a335e7db2152dde8b56b7e4 )
+)
+
+game (
+	name "Poolware 2193 (19xx)(Poolware)"
+	description "Poolware 2193 (19xx)(Poolware)"
+	rom ( name "Poolware 2193 (19xx)(Poolware).st" size 737280 crc ad662af1 md5 be6ab36d0008a819d8227b04e9f8a12d )
+)
+
+game (
+	name "Poolware 2194 (19xx)(Poolware)"
+	description "Poolware 2194 (19xx)(Poolware)"
+	rom ( name "Poolware 2194 (19xx)(Poolware).st" size 737280 crc ac686700 md5 0ef6251ea3da6536d6e2a484b2f103f4 )
+)
+
+game (
+	name "Poolware 2195 (19xx)(Poolware)"
+	description "Poolware 2195 (19xx)(Poolware)"
+	rom ( name "Poolware 2195 (19xx)(Poolware).st" size 737280 crc 12b651f0 md5 afa56d96acdef1e5ffe8a3a26debcee3 )
+)
+
+game (
+	name "Poolware 2196 (19xx)(Poolware)"
+	description "Poolware 2196 (19xx)(Poolware)"
+	rom ( name "Poolware 2196 (19xx)(Poolware).st" size 737280 crc 6716a940 md5 40c71582a625a9a3b3f7d9d15e258d77 )
+)
+
+game (
+	name "Poolware 2197 (19xx)(Poolware)"
+	description "Poolware 2197 (19xx)(Poolware)"
+	rom ( name "Poolware 2197 (19xx)(Poolware).st" size 737280 crc ad14e545 md5 6d3734b1b6bb8b33d514297db3b35128 )
+)
+
+game (
+	name "Poolware 2198 (19xx)(Poolware)"
+	description "Poolware 2198 (19xx)(Poolware)"
+	rom ( name "Poolware 2198 (19xx)(Poolware).st" size 737280 crc 0e924f92 md5 78a1a905f792e2e6bbb7fbff1ff4c750 )
+)
+
+game (
+	name "Poolware 2199 (19xx)(Poolware)"
+	description "Poolware 2199 (19xx)(Poolware)"
+	rom ( name "Poolware 2199 (19xx)(Poolware).st" size 737280 crc 6be07a24 md5 c90370db42e4cb7cf4e905913945ae8d )
+)
+
+game (
+	name "Poolware 2200 (19xx)(Poolware)"
+	description "Poolware 2200 (19xx)(Poolware)"
+	rom ( name "Poolware 2200 (19xx)(Poolware).st" size 737280 crc e999a7d5 md5 b545180a64ab1aa5200780e0e7269ffe )
+)
+
+game (
+	name "Poolware 2201 (19xx)(Poolware)"
+	description "Poolware 2201 (19xx)(Poolware)"
+	rom ( name "Poolware 2201 (19xx)(Poolware).st" size 737280 crc 625f13a7 md5 13affc24b20847cc23e5b79234c1aebe )
+)
+
+game (
+	name "Poolware 2202 (19xx)(Poolware)"
+	description "Poolware 2202 (19xx)(Poolware)"
+	rom ( name "Poolware 2202 (19xx)(Poolware).st" size 737280 crc c1b49332 md5 fc5d8e8bd0c13292ea0caf1302c28435 )
+)
+
+game (
+	name "Poolware 2203 (19xx)(Poolware)"
+	description "Poolware 2203 (19xx)(Poolware)"
+	rom ( name "Poolware 2203 (19xx)(Poolware).st" size 737280 crc c62aa1f5 md5 5a81c06e67c9194a81f94f8f4f77e98e )
+)
+
+game (
+	name "Poolware 2204 (19xx)(Poolware)"
+	description "Poolware 2204 (19xx)(Poolware)"
+	rom ( name "Poolware 2204 (19xx)(Poolware).st" size 737280 crc b541b697 md5 09fa5bb78fdd10ada541bab071b2d487 )
+)
+
+game (
+	name "Poolware 2205 (19xx)(Poolware)"
+	description "Poolware 2205 (19xx)(Poolware)"
+	rom ( name "Poolware 2205 (19xx)(Poolware).st" size 737280 crc 669d854b md5 e57020279b4ebaee63445994bf14b78a )
+)
+
+game (
+	name "Poolware 2206 (19xx)(Poolware)"
+	description "Poolware 2206 (19xx)(Poolware)"
+	rom ( name "Poolware 2206 (19xx)(Poolware).st" size 737280 crc e6dff92c md5 5513b484aca96b6b8b33372a23c9e5ee )
+)
+
+game (
+	name "Poolware 2207 (19xx)(Poolware)"
+	description "Poolware 2207 (19xx)(Poolware)"
+	rom ( name "Poolware 2207 (19xx)(Poolware).st" size 737280 crc 0f974d99 md5 2a198e4679cb83117e04c7c1a2298f8c )
+)
+
+game (
+	name "Poolware 2208 (19xx)(Poolware)"
+	description "Poolware 2208 (19xx)(Poolware)"
+	rom ( name "Poolware 2208 (19xx)(Poolware).st" size 737280 crc 691e4f1a md5 71ec4e2b1c8d9a9153ef35034e81afa2 )
+)
+
+game (
+	name "Poolware 2209 (19xx)(Poolware)"
+	description "Poolware 2209 (19xx)(Poolware)"
+	rom ( name "Poolware 2209 (19xx)(Poolware).st" size 819200 crc ed973138 md5 a7e39cfa9216c62668507502c452fdad )
+)
+
+game (
+	name "Poolware 2210 (19xx)(Poolware)"
+	description "Poolware 2210 (19xx)(Poolware)"
+	rom ( name "Poolware 2210 (19xx)(Poolware).st" size 737280 crc 450e2f69 md5 131f95c7489950d892690a02753c6382 )
+)
+
+game (
+	name "Poolware 2211 (19xx)(Poolware)"
+	description "Poolware 2211 (19xx)(Poolware)"
+	rom ( name "Poolware 2211 (19xx)(Poolware).st" size 737280 crc f72db109 md5 1e798f5a69e2d7160ee992d42a91fd05 )
+)
+
+game (
+	name "Poolware 2212 (19xx)(Poolware)[u]"
+	description "Poolware 2212 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2212 (19xx)(Poolware)[u].st" size 737280 crc 5e8c4755 md5 b40143823fb0f09683bcd108e7d50e2b )
+)
+
+game (
+	name "Poolware 2213 (19xx)(Poolware)"
+	description "Poolware 2213 (19xx)(Poolware)"
+	rom ( name "Poolware 2213 (19xx)(Poolware).st" size 737280 crc 1dc1ee64 md5 84642e7a055e49d54116a26df2917fba )
+)
+
+game (
+	name "Poolware 2214 (19xx)(Poolware)"
+	description "Poolware 2214 (19xx)(Poolware)"
+	rom ( name "Poolware 2214 (19xx)(Poolware).st" size 737280 crc be6811a2 md5 9d4971ab38024a432c9f82d931f7ae79 )
+)
+
+game (
+	name "Poolware 2215 (19xx)(Poolware)"
+	description "Poolware 2215 (19xx)(Poolware)"
+	rom ( name "Poolware 2215 (19xx)(Poolware).st" size 737280 crc 395aa6b8 md5 44f6baa37fd5878b8c2efd7a72bb2d9c )
+)
+
+game (
+	name "Poolware 2216 (19xx)(Poolware)"
+	description "Poolware 2216 (19xx)(Poolware)"
+	rom ( name "Poolware 2216 (19xx)(Poolware).st" size 737280 crc e6823aed md5 b9a242d010496bf1d8f8e6031516c31f )
+)
+
+game (
+	name "Poolware 2217 (19xx)(Poolware)"
+	description "Poolware 2217 (19xx)(Poolware)"
+	rom ( name "Poolware 2217 (19xx)(Poolware).st" size 737280 crc 04dc9454 md5 257974599dc03b84da20d21665a1130e )
+)
+
+game (
+	name "Poolware 2218 (19xx)(Poolware)"
+	description "Poolware 2218 (19xx)(Poolware)"
+	rom ( name "Poolware 2218 (19xx)(Poolware).st" size 737280 crc d678f8b7 md5 8f068d2f17065dc1d7d4850baf9e9cd0 )
+)
+
+game (
+	name "Poolware 2219 (19xx)(Poolware)"
+	description "Poolware 2219 (19xx)(Poolware)"
+	rom ( name "Poolware 2219 (19xx)(Poolware).st" size 737280 crc 3ed86a19 md5 95eb877df289a206c5cd157bc714a514 )
+)
+
+game (
+	name "Poolware 2220 (19xx)(Poolware)[u]"
+	description "Poolware 2220 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2220 (19xx)(Poolware)[u].st" size 737280 crc bc32b1a4 md5 0627ed24f8074f60f948805c0ff7fb3f )
+)
+
+game (
+	name "Poolware 2221 (19xx)(Poolware)"
+	description "Poolware 2221 (19xx)(Poolware)"
+	rom ( name "Poolware 2221 (19xx)(Poolware).st" size 737280 crc 352c7310 md5 0dfe84cb44f1d27e2657f3c32d5eb4ba )
+)
+
+game (
+	name "Poolware 2222 (19xx)(Poolware)"
+	description "Poolware 2222 (19xx)(Poolware)"
+	rom ( name "Poolware 2222 (19xx)(Poolware).st" size 737280 crc 99fc4745 md5 5c8170063649e3b7cf8520fa07f56248 )
+)
+
+game (
+	name "Poolware 2222 (19xx)(Poolware)[a]"
+	description "Poolware 2222 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2222 (19xx)(Poolware)[a].st" size 737280 crc 4259374a md5 2dd9731f0f7b6475de83193b0a0a05e0 )
+)
+
+game (
+	name "Poolware 2223 (19xx)(Poolware)"
+	description "Poolware 2223 (19xx)(Poolware)"
+	rom ( name "Poolware 2223 (19xx)(Poolware).st" size 737280 crc edf5c944 md5 8f76710c51f491c7ac6ba11310d7e1e5 )
+)
+
+game (
+	name "Poolware 2224 (19xx)(Poolware)"
+	description "Poolware 2224 (19xx)(Poolware)"
+	rom ( name "Poolware 2224 (19xx)(Poolware).st" size 737280 crc 15cd8212 md5 478ea134493be3f0d259ba91fbb52a91 )
+)
+
+game (
+	name "Poolware 2225 (19xx)(Poolware)"
+	description "Poolware 2225 (19xx)(Poolware)"
+	rom ( name "Poolware 2225 (19xx)(Poolware).st" size 737280 crc 915978df md5 30dd4efcb985ceba0a194a27c736e721 )
+)
+
+game (
+	name "Poolware 2226 (19xx)(Poolware)"
+	description "Poolware 2226 (19xx)(Poolware)"
+	rom ( name "Poolware 2226 (19xx)(Poolware).st" size 755712 crc 2a43b7c0 md5 3ecb67d9d0ccdeaf49362ce6080ba09f )
+)
+
+game (
+	name "Poolware 2227 (19xx)(Poolware)"
+	description "Poolware 2227 (19xx)(Poolware)"
+	rom ( name "Poolware 2227 (19xx)(Poolware).st" size 746496 crc 0e4679ab md5 558c0ce1aa5718aa17131fb944b294fd )
+)
+
+game (
+	name "Poolware 2228 (19xx)(Poolware)"
+	description "Poolware 2228 (19xx)(Poolware)"
+	rom ( name "Poolware 2228 (19xx)(Poolware).st" size 737280 crc 50bfd417 md5 9d7006936f6c77d3c7d6a01626ef1aff )
+)
+
+game (
+	name "Poolware 2229 (19xx)(Poolware)"
+	description "Poolware 2229 (19xx)(Poolware)"
+	rom ( name "Poolware 2229 (19xx)(Poolware).st" size 737280 crc 84ca984b md5 59b8ca55942221da46837939c6fcc8ed )
+)
+
+game (
+	name "Poolware 2230 (19xx)(Poolware)"
+	description "Poolware 2230 (19xx)(Poolware)"
+	rom ( name "Poolware 2230 (19xx)(Poolware).st" size 737280 crc ba03814d md5 572181c7107d07d44eff1eb24d87aae4 )
+)
+
+game (
+	name "Poolware 2231 (19xx)(Poolware)"
+	description "Poolware 2231 (19xx)(Poolware)"
+	rom ( name "Poolware 2231 (19xx)(Poolware).st" size 737280 crc d57864a3 md5 d34236733a06e89d9dd0a41ee1a743f9 )
+)
+
+game (
+	name "Poolware 2232 (19xx)(Poolware)"
+	description "Poolware 2232 (19xx)(Poolware)"
+	rom ( name "Poolware 2232 (19xx)(Poolware).st" size 737280 crc ef3bd1e6 md5 2ba763ca5e731dac27fc1cc152a265e9 )
+)
+
+game (
+	name "Poolware 2233 (19xx)(Poolware)"
+	description "Poolware 2233 (19xx)(Poolware)"
+	rom ( name "Poolware 2233 (19xx)(Poolware).st" size 755712 crc 2c3f703b md5 b1b3cb94d9f0b0147c65c1120f7994a1 )
+)
+
+game (
+	name "Poolware 2234 (19xx)(Poolware)"
+	description "Poolware 2234 (19xx)(Poolware)"
+	rom ( name "Poolware 2234 (19xx)(Poolware).st" size 737280 crc 4b8a3e43 md5 1853819acfbf55e6630279176c3bd7c6 )
+)
+
+game (
+	name "Poolware 2235 (19xx)(Poolware)"
+	description "Poolware 2235 (19xx)(Poolware)"
+	rom ( name "Poolware 2235 (19xx)(Poolware).st" size 737280 crc c7ba958c md5 a8537ba170ceab2ae53aae7a319019a7 )
+)
+
+game (
+	name "Poolware 2236 (19xx)(Poolware)"
+	description "Poolware 2236 (19xx)(Poolware)"
+	rom ( name "Poolware 2236 (19xx)(Poolware).st" size 737280 crc 52c00ce4 md5 bcd04795fba2d708786188895d310d58 )
+)
+
+game (
+	name "Poolware 2237 (19xx)(Poolware)"
+	description "Poolware 2237 (19xx)(Poolware)"
+	rom ( name "Poolware 2237 (19xx)(Poolware).st" size 737280 crc 6530576b md5 3de4d1d186ac60f6cab5fe3402d056b8 )
+)
+
+game (
+	name "Poolware 2238 (19xx)(Poolware)"
+	description "Poolware 2238 (19xx)(Poolware)"
+	rom ( name "Poolware 2238 (19xx)(Poolware).st" size 737280 crc 2c5234d7 md5 1a6355928807e527505dff8c66614579 )
+)
+
+game (
+	name "Poolware 2239 (19xx)(Poolware)"
+	description "Poolware 2239 (19xx)(Poolware)"
+	rom ( name "Poolware 2239 (19xx)(Poolware).st" size 737280 crc 01643a20 md5 958dbf3761329593a30a7807abfe87a9 )
+)
+
+game (
+	name "Poolware 2240 (19xx)(Poolware)"
+	description "Poolware 2240 (19xx)(Poolware)"
+	rom ( name "Poolware 2240 (19xx)(Poolware).st" size 737280 crc 81df3b13 md5 1b8d54a45535f61ead23ae82d76a7ed1 )
+)
+
+game (
+	name "Poolware 2241 (19xx)(Poolware)"
+	description "Poolware 2241 (19xx)(Poolware)"
+	rom ( name "Poolware 2241 (19xx)(Poolware).st" size 819200 crc a8c337ba md5 4a48a5d54451e2cec35ccb410378bb58 )
+)
+
+game (
+	name "Poolware 2242 (19xx)(Poolware)"
+	description "Poolware 2242 (19xx)(Poolware)"
+	rom ( name "Poolware 2242 (19xx)(Poolware).st" size 737280 crc 1d7c6598 md5 3d322d773765554c13c4ab06a7c4a0ce )
+)
+
+game (
+	name "Poolware 2243 (19xx)(Poolware)"
+	description "Poolware 2243 (19xx)(Poolware)"
+	rom ( name "Poolware 2243 (19xx)(Poolware).st" size 737280 crc 623d2d0e md5 bc5db2cfcb43e0f58c5ca0750e4eb384 )
+)
+
+game (
+	name "Poolware 2244 (19xx)(Poolware)"
+	description "Poolware 2244 (19xx)(Poolware)"
+	rom ( name "Poolware 2244 (19xx)(Poolware).st" size 737280 crc d3c1c121 md5 d100daac142c38db2dc012faffb07d97 )
+)
+
+game (
+	name "Poolware 2245 (19xx)(Poolware)"
+	description "Poolware 2245 (19xx)(Poolware)"
+	rom ( name "Poolware 2245 (19xx)(Poolware).st" size 819200 crc 7c94511a md5 55d071b8388e0847155ff8fbda2676fd )
+)
+
+game (
+	name "Poolware 2246 (19xx)(Poolware)"
+	description "Poolware 2246 (19xx)(Poolware)"
+	rom ( name "Poolware 2246 (19xx)(Poolware).st" size 737280 crc 12839c68 md5 f61d1a15ddf0700578e24fc3c964e2e5 )
+)
+
+game (
+	name "Poolware 2247 (19xx)(Poolware)"
+	description "Poolware 2247 (19xx)(Poolware)"
+	rom ( name "Poolware 2247 (19xx)(Poolware).st" size 819200 crc 55316fd2 md5 5af73a9f9dc2b2d50eb5271d5975af3d )
+)
+
+game (
+	name "Poolware 2248 (19xx)(Poolware)"
+	description "Poolware 2248 (19xx)(Poolware)"
+	rom ( name "Poolware 2248 (19xx)(Poolware).st" size 737280 crc 77f5a30d md5 987897fb51a694754b3d0a0fc069d2bf )
+)
+
+game (
+	name "Poolware 2249 (19xx)(Poolware)"
+	description "Poolware 2249 (19xx)(Poolware)"
+	rom ( name "Poolware 2249 (19xx)(Poolware).st" size 819200 crc d91df521 md5 1b7321cdc154caea0cfaaeb47c131449 )
+)
+
+game (
+	name "Poolware 2250 (19xx)(Poolware)"
+	description "Poolware 2250 (19xx)(Poolware)"
+	rom ( name "Poolware 2250 (19xx)(Poolware).st" size 737280 crc 1c005a49 md5 6785bfe08eb10ce5713716f99dcdedad )
+)
+
+game (
+	name "Poolware 2251 (19xx)(Poolware)"
+	description "Poolware 2251 (19xx)(Poolware)"
+	rom ( name "Poolware 2251 (19xx)(Poolware).st" size 737280 crc b1f7c44c md5 2e0a95448a2c419c6ee28362cc250070 )
+)
+
+game (
+	name "Poolware 2252 (19xx)(Poolware)"
+	description "Poolware 2252 (19xx)(Poolware)"
+	rom ( name "Poolware 2252 (19xx)(Poolware).st" size 737280 crc 6ea29f58 md5 ec292f41e26e4aed872d6a516cfba75a )
+)
+
+game (
+	name "Poolware 2253 (19xx)(Poolware)"
+	description "Poolware 2253 (19xx)(Poolware)"
+	rom ( name "Poolware 2253 (19xx)(Poolware).st" size 737280 crc ba45b9d9 md5 3988bec70675d94712e6b275d1a3a45f )
+)
+
+game (
+	name "Poolware 2254 (19xx)(Poolware)"
+	description "Poolware 2254 (19xx)(Poolware)"
+	rom ( name "Poolware 2254 (19xx)(Poolware).st" size 737280 crc 7b0fef06 md5 c8f3fcc5651700705f2a8f64a8762d70 )
+)
+
+game (
+	name "Poolware 2255 (19xx)(Poolware)"
+	description "Poolware 2255 (19xx)(Poolware)"
+	rom ( name "Poolware 2255 (19xx)(Poolware).st" size 737280 crc f37813d4 md5 6d074bf9a488d05c2a38ba5d0a698194 )
+)
+
+game (
+	name "Poolware 2256 (19xx)(Poolware)"
+	description "Poolware 2256 (19xx)(Poolware)"
+	rom ( name "Poolware 2256 (19xx)(Poolware).st" size 755712 crc d0866e96 md5 5f3df7aaf40e943eeb9ffa3371f91ec3 )
+)
+
+game (
+	name "Poolware 2257 (19xx)(Poolware)"
+	description "Poolware 2257 (19xx)(Poolware)"
+	rom ( name "Poolware 2257 (19xx)(Poolware).st" size 737280 crc 5c1bdbbe md5 16d27def2c8009f2914a24a1a385198d )
+)
+
+game (
+	name "Poolware 2258 (19xx)(Poolware)"
+	description "Poolware 2258 (19xx)(Poolware)"
+	rom ( name "Poolware 2258 (19xx)(Poolware).st" size 737280 crc 8de9f189 md5 80adb34183288e7aacc283ed1accbba7 )
+)
+
+game (
+	name "Poolware 2259 (19xx)(Poolware)"
+	description "Poolware 2259 (19xx)(Poolware)"
+	rom ( name "Poolware 2259 (19xx)(Poolware).st" size 737280 crc 9dbea27e md5 24252b319535672fb9a81a2eb6f18df8 )
+)
+
+game (
+	name "Poolware 2260 (19xx)(Poolware)"
+	description "Poolware 2260 (19xx)(Poolware)"
+	rom ( name "Poolware 2260 (19xx)(Poolware).st" size 737280 crc 7cc94f3e md5 c96313c80e59e0f0875d54238ccac689 )
+)
+
+game (
+	name "Poolware 2260 (19xx)(Poolware)[a]"
+	description "Poolware 2260 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2260 (19xx)(Poolware)[a].st" size 737280 crc 6c53ac2b md5 8e1f6ee9d2b4a73f120946f6e9dea5bb )
+)
+
+game (
+	name "Poolware 2261 (19xx)(Poolware)"
+	description "Poolware 2261 (19xx)(Poolware)"
+	rom ( name "Poolware 2261 (19xx)(Poolware).st" size 737280 crc 57df1172 md5 5a66d914d8ac2ecd52cafa1b4efb1713 )
+)
+
+game (
+	name "Poolware 2262 (19xx)(Poolware)"
+	description "Poolware 2262 (19xx)(Poolware)"
+	rom ( name "Poolware 2262 (19xx)(Poolware).st" size 737280 crc 90db4ae1 md5 de7e6cfb0f098c92533af41e3c6265e8 )
+)
+
+game (
+	name "Poolware 2263 (19xx)(Poolware)"
+	description "Poolware 2263 (19xx)(Poolware)"
+	rom ( name "Poolware 2263 (19xx)(Poolware).st" size 737280 crc bcbb8004 md5 684477b7ca5db0683b07571de0aa5b08 )
+)
+
+game (
+	name "Poolware 2264 (19xx)(Poolware)"
+	description "Poolware 2264 (19xx)(Poolware)"
+	rom ( name "Poolware 2264 (19xx)(Poolware).st" size 737280 crc f528ad0b md5 c36127ce20df0f4ffbcf5072f5446992 )
+)
+
+game (
+	name "Poolware 2265 (19xx)(Poolware)[u]"
+	description "Poolware 2265 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2265 (19xx)(Poolware)[u].st" size 737280 crc 39f70bb7 md5 1497316572bd6c5f29620c08e5b505b6 )
+)
+
+game (
+	name "Poolware 2266 (19xx)(Poolware)"
+	description "Poolware 2266 (19xx)(Poolware)"
+	rom ( name "Poolware 2266 (19xx)(Poolware).st" size 737280 crc dabb6f1c md5 412fc5c4d47925a8f93f20b85807be68 )
+)
+
+game (
+	name "Poolware 2267 (19xx)(Poolware)"
+	description "Poolware 2267 (19xx)(Poolware)"
+	rom ( name "Poolware 2267 (19xx)(Poolware).st" size 737280 crc ea95afde md5 585364b1e9173f0cbe2bc1e5f0a44ab5 )
+)
+
+game (
+	name "Poolware 2268 (19xx)(Poolware)"
+	description "Poolware 2268 (19xx)(Poolware)"
+	rom ( name "Poolware 2268 (19xx)(Poolware).st" size 737280 crc c265f39e md5 feb11d7fc498af8d6665ca7e19f51cac )
+)
+
+game (
+	name "Poolware 2269 (19xx)(Poolware)"
+	description "Poolware 2269 (19xx)(Poolware)"
+	rom ( name "Poolware 2269 (19xx)(Poolware).st" size 737280 crc 09efa0c8 md5 db156937c70efb1697aafd0f6a8dffb6 )
+)
+
+game (
+	name "Poolware 2270 (19xx)(Poolware)"
+	description "Poolware 2270 (19xx)(Poolware)"
+	rom ( name "Poolware 2270 (19xx)(Poolware).st" size 737280 crc 5fd345e3 md5 e4df34722ddc502a4441dd9ff7528c94 )
+)
+
+game (
+	name "Poolware 2271 (19xx)(Poolware)"
+	description "Poolware 2271 (19xx)(Poolware)"
+	rom ( name "Poolware 2271 (19xx)(Poolware).st" size 737280 crc 904c4c2d md5 e4bb9950ec00ed5b220d4099db1d051d )
+)
+
+game (
+	name "Poolware 2272 (19xx)(Poolware)"
+	description "Poolware 2272 (19xx)(Poolware)"
+	rom ( name "Poolware 2272 (19xx)(Poolware).st" size 737280 crc a422e0e2 md5 e58aa8347724f075d2e4face607024ee )
+)
+
+game (
+	name "Poolware 2273 (19xx)(Poolware)"
+	description "Poolware 2273 (19xx)(Poolware)"
+	rom ( name "Poolware 2273 (19xx)(Poolware).st" size 746496 crc 7436ef31 md5 e8b71c02594d755bc10f89c5ed12670b )
+)
+
+game (
+	name "Poolware 2274 (19xx)(Poolware)"
+	description "Poolware 2274 (19xx)(Poolware)"
+	rom ( name "Poolware 2274 (19xx)(Poolware).st" size 819200 crc 59e591f3 md5 89b4f1f23f7ab508577ad1326e669b1d )
+)
+
+game (
+	name "Poolware 2275 (19xx)(Poolware)"
+	description "Poolware 2275 (19xx)(Poolware)"
+	rom ( name "Poolware 2275 (19xx)(Poolware).st" size 819200 crc 4b9bcfa3 md5 0aefdf1511f54a77d6005cd30d602aec )
+)
+
+game (
+	name "Poolware 2276 (19xx)(Poolware)"
+	description "Poolware 2276 (19xx)(Poolware)"
+	rom ( name "Poolware 2276 (19xx)(Poolware).st" size 737280 crc d4a376b7 md5 05320f6034c9252e7b160218b3f4d85a )
+)
+
+game (
+	name "Poolware 2277 (19xx)(Poolware)"
+	description "Poolware 2277 (19xx)(Poolware)"
+	rom ( name "Poolware 2277 (19xx)(Poolware).st" size 737280 crc c39fdb32 md5 fd97e52117bb48842dc3d0ed24c55a56 )
+)
+
+game (
+	name "Poolware 2278 (19xx)(Poolware)"
+	description "Poolware 2278 (19xx)(Poolware)"
+	rom ( name "Poolware 2278 (19xx)(Poolware).st" size 737280 crc 4b5acf4d md5 f15eace4ac4399972f5daa023f79bb08 )
+)
+
+game (
+	name "Poolware 2278 (19xx)(Poolware)[a]"
+	description "Poolware 2278 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2278 (19xx)(Poolware)[a].st" size 737280 crc 93ef06f6 md5 33c98fdbb287f64f80f1ba1f23331f42 )
+)
+
+game (
+	name "Poolware 2279 (19xx)(Poolware)"
+	description "Poolware 2279 (19xx)(Poolware)"
+	rom ( name "Poolware 2279 (19xx)(Poolware).st" size 737280 crc 3500fdfa md5 b3a8e663cd473ded8a1f0c0765739af8 )
+)
+
+game (
+	name "Poolware 2280 (19xx)(Poolware)"
+	description "Poolware 2280 (19xx)(Poolware)"
+	rom ( name "Poolware 2280 (19xx)(Poolware).st" size 737280 crc 69d230ab md5 a2e1c634cc480152d7072546af263aa3 )
+)
+
+game (
+	name "Poolware 2281 (19xx)(Poolware)"
+	description "Poolware 2281 (19xx)(Poolware)"
+	rom ( name "Poolware 2281 (19xx)(Poolware).st" size 819200 crc 800b6db5 md5 9575837c71f64eb2b448ed92b7d63a49 )
+)
+
+game (
+	name "Poolware 2282 (19xx)(Poolware)"
+	description "Poolware 2282 (19xx)(Poolware)"
+	rom ( name "Poolware 2282 (19xx)(Poolware).st" size 737280 crc b69d9c55 md5 e737e6f101b6bd50d1257d9b6f9f89b3 )
+)
+
+game (
+	name "Poolware 2283 (19xx)(Poolware)"
+	description "Poolware 2283 (19xx)(Poolware)"
+	rom ( name "Poolware 2283 (19xx)(Poolware).st" size 737280 crc 9b2434fb md5 283162e93e5ff04811a6dd7db9f706e8 )
+)
+
+game (
+	name "Poolware 2284 (19xx)(Poolware)"
+	description "Poolware 2284 (19xx)(Poolware)"
+	rom ( name "Poolware 2284 (19xx)(Poolware).st" size 737280 crc d32486c1 md5 964aa29ea4c5fad7559c9c34e43f0ebd )
+)
+
+game (
+	name "Poolware 2285 (19xx)(Poolware)"
+	description "Poolware 2285 (19xx)(Poolware)"
+	rom ( name "Poolware 2285 (19xx)(Poolware).st" size 737280 crc 90aabb2b md5 6a59a0d7fb978e93cae904ff4aabaae1 )
+)
+
+game (
+	name "Poolware 2286 (19xx)(Poolware)"
+	description "Poolware 2286 (19xx)(Poolware)"
+	rom ( name "Poolware 2286 (19xx)(Poolware).st" size 737280 crc 727b2c7e md5 d0cdb937b183d35ac4a4f9986f3508ec )
+)
+
+game (
+	name "Poolware 2287 (19xx)(Poolware)"
+	description "Poolware 2287 (19xx)(Poolware)"
+	rom ( name "Poolware 2287 (19xx)(Poolware).st" size 737280 crc 698c0767 md5 765d07b7d93e6feffe10989dab831022 )
+)
+
+game (
+	name "Poolware 2288 (19xx)(Poolware)"
+	description "Poolware 2288 (19xx)(Poolware)"
+	rom ( name "Poolware 2288 (19xx)(Poolware).st" size 737280 crc 8608871c md5 e2cd7f01cf7ea4eee47dc68a34c0b19c )
+)
+
+game (
+	name "Poolware 2289 (19xx)(Poolware)"
+	description "Poolware 2289 (19xx)(Poolware)"
+	rom ( name "Poolware 2289 (19xx)(Poolware).st" size 737280 crc c291cb3e md5 40ee934f3ee95c508ee69deed2f2cdc9 )
+)
+
+game (
+	name "Poolware 2290 (19xx)(Poolware)"
+	description "Poolware 2290 (19xx)(Poolware)"
+	rom ( name "Poolware 2290 (19xx)(Poolware).st" size 737280 crc 53c0b4cf md5 fb0092045311e4f2256a5980ba618e48 )
+)
+
+game (
+	name "Poolware 2291 (19xx)(Poolware)"
+	description "Poolware 2291 (19xx)(Poolware)"
+	rom ( name "Poolware 2291 (19xx)(Poolware).st" size 737280 crc 60f44c5f md5 4d999b2499d064ba7d225e6d792b28ab )
+)
+
+game (
+	name "Poolware 2292 (19xx)(Poolware)"
+	description "Poolware 2292 (19xx)(Poolware)"
+	rom ( name "Poolware 2292 (19xx)(Poolware).st" size 819200 crc 6680fbbf md5 7d69d34d4d72da5232acd2079c2f3efb )
+)
+
+game (
+	name "Poolware 2293 (19xx)(Poolware)"
+	description "Poolware 2293 (19xx)(Poolware)"
+	rom ( name "Poolware 2293 (19xx)(Poolware).st" size 746496 crc b50d0428 md5 6c75017202a647f951dbab4f6bec9b71 )
+)
+
+game (
+	name "Poolware 2293 (19xx)(Poolware)[u]"
+	description "Poolware 2293 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2293 (19xx)(Poolware)[u].st" size 737280 crc 02b3e459 md5 5630f58384dbf431a48095d6855e9e04 )
+)
+
+game (
+	name "Poolware 2294 (19xx)(Poolware)"
+	description "Poolware 2294 (19xx)(Poolware)"
+	rom ( name "Poolware 2294 (19xx)(Poolware).st" size 737280 crc 48fca7d6 md5 1539bdc4077707d60bc4881a0d084c2d )
+)
+
+game (
+	name "Poolware 2295 (19xx)(Poolware)"
+	description "Poolware 2295 (19xx)(Poolware)"
+	rom ( name "Poolware 2295 (19xx)(Poolware).st" size 737280 crc 7a21023e md5 ebed558c8b80a5dc85d02bf76faad419 )
+)
+
+game (
+	name "Poolware 2296 (19xx)(Poolware)"
+	description "Poolware 2296 (19xx)(Poolware)"
+	rom ( name "Poolware 2296 (19xx)(Poolware).st" size 737280 crc 8af0e36e md5 9752ae1e316346d33b8bfab83d159f7c )
+)
+
+game (
+	name "Poolware 2297 (19xx)(Poolware)"
+	description "Poolware 2297 (19xx)(Poolware)"
+	rom ( name "Poolware 2297 (19xx)(Poolware).st" size 737280 crc eed08a00 md5 320d18fcd4915e069760d75a19fcb154 )
+)
+
+game (
+	name "Poolware 2298 (19xx)(Poolware)"
+	description "Poolware 2298 (19xx)(Poolware)"
+	rom ( name "Poolware 2298 (19xx)(Poolware).st" size 737280 crc bf0b78d5 md5 2339cb216ddcbb1cd6b4a3d8d549e447 )
+)
+
+game (
+	name "Poolware 2299 (19xx)(Poolware)"
+	description "Poolware 2299 (19xx)(Poolware)"
+	rom ( name "Poolware 2299 (19xx)(Poolware).st" size 737280 crc 002f248d md5 8fa7829dd8dbf3a3c5c9c14410d583ae )
+)
+
+game (
+	name "Poolware 2300 (19xx)(Poolware)"
+	description "Poolware 2300 (19xx)(Poolware)"
+	rom ( name "Poolware 2300 (19xx)(Poolware).st" size 839680 crc a23c5b59 md5 46782fc30a8abce088b4205dd03181ff )
+)
+
+game (
+	name "Poolware 2300 (19xx)(Poolware)[a]"
+	description "Poolware 2300 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2300 (19xx)(Poolware)[a].st" size 839680 crc c6750617 md5 5568e6d263edc6c4b0d81933ac1e41b8 )
+)
+
+game (
+	name "Poolware 2301 (19xx)(Poolware)"
+	description "Poolware 2301 (19xx)(Poolware)"
+	rom ( name "Poolware 2301 (19xx)(Poolware).st" size 737280 crc 05f7842a md5 9308f5ff8cf023f0097f16101dcd567f )
+)
+
+game (
+	name "Poolware 2302 (19xx)(Poolware)"
+	description "Poolware 2302 (19xx)(Poolware)"
+	rom ( name "Poolware 2302 (19xx)(Poolware).st" size 737280 crc f4fe681b md5 3e2199cf8cd7413beade4822a6b88891 )
+)
+
+game (
+	name "Poolware 2303 (19xx)(Poolware)"
+	description "Poolware 2303 (19xx)(Poolware)"
+	rom ( name "Poolware 2303 (19xx)(Poolware).st" size 737280 crc 1e397e02 md5 2807f2240106a4323be5b660dc52d5f5 )
+)
+
+game (
+	name "Poolware 2304 (19xx)(Poolware)"
+	description "Poolware 2304 (19xx)(Poolware)"
+	rom ( name "Poolware 2304 (19xx)(Poolware).st" size 737280 crc e3615f28 md5 4dd1f2192d60ab88d51776a132693726 )
+)
+
+game (
+	name "Poolware 2305 (19xx)(Poolware)"
+	description "Poolware 2305 (19xx)(Poolware)"
+	rom ( name "Poolware 2305 (19xx)(Poolware).st" size 737280 crc ed3dc3fc md5 c2d312cbc4ec50207e4a134cc2823840 )
+)
+
+game (
+	name "Poolware 2306 (19xx)(Poolware)"
+	description "Poolware 2306 (19xx)(Poolware)"
+	rom ( name "Poolware 2306 (19xx)(Poolware).st" size 737280 crc 9ffce24d md5 911210d28268ce97fac54ed0d15ff7fe )
+)
+
+game (
+	name "Poolware 2307 (19xx)(Poolware)"
+	description "Poolware 2307 (19xx)(Poolware)"
+	rom ( name "Poolware 2307 (19xx)(Poolware).st" size 737280 crc c364e71b md5 cbc3d0bc131b76f20381e5dc20a75042 )
+)
+
+game (
+	name "Poolware 2308 (19xx)(Poolware)"
+	description "Poolware 2308 (19xx)(Poolware)"
+	rom ( name "Poolware 2308 (19xx)(Poolware).st" size 737280 crc 525b696b md5 ad62f7085c8b150f024c2972b4e360a9 )
+)
+
+game (
+	name "Poolware 2309 (19xx)(Poolware)"
+	description "Poolware 2309 (19xx)(Poolware)"
+	rom ( name "Poolware 2309 (19xx)(Poolware).st" size 737280 crc e0794dc7 md5 de3d9b84dbb1b69df026a2b619990a9a )
+)
+
+game (
+	name "Poolware 2310 (19xx)(Poolware)[u]"
+	description "Poolware 2310 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2310 (19xx)(Poolware)[u].st" size 737280 crc 7414ed9c md5 86197bdc57803680951af570e870777d )
+)
+
+game (
+	name "Poolware 2311 (19xx)(Poolware)[u]"
+	description "Poolware 2311 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2311 (19xx)(Poolware)[u].st" size 737280 crc b31b47f6 md5 45888a42b0741c014a068d44994bf04f )
+)
+
+game (
+	name "Poolware 2312 (19xx)(Poolware)"
+	description "Poolware 2312 (19xx)(Poolware)"
+	rom ( name "Poolware 2312 (19xx)(Poolware).st" size 737280 crc acb8a8e7 md5 d0512b832e802c00716b0238d3a65181 )
+)
+
+game (
+	name "Poolware 2313 (19xx)(Poolware)"
+	description "Poolware 2313 (19xx)(Poolware)"
+	rom ( name "Poolware 2313 (19xx)(Poolware).st" size 737280 crc d1dbcfc3 md5 5da2c235613cf6a7b40cddafd37e13b9 )
+)
+
+game (
+	name "Poolware 2314 (19xx)(Poolware)"
+	description "Poolware 2314 (19xx)(Poolware)"
+	rom ( name "Poolware 2314 (19xx)(Poolware).st" size 737280 crc 2145a1ef md5 d20d58227da41f132718aabecb5872c4 )
+)
+
+game (
+	name "Poolware 2315 (19xx)(Poolware)"
+	description "Poolware 2315 (19xx)(Poolware)"
+	rom ( name "Poolware 2315 (19xx)(Poolware).st" size 737280 crc 89e6471b md5 9c374d4ea8b0eebdeac0189a113f34f6 )
+)
+
+game (
+	name "Poolware 2316 (19xx)(Poolware)"
+	description "Poolware 2316 (19xx)(Poolware)"
+	rom ( name "Poolware 2316 (19xx)(Poolware).st" size 737280 crc 2f98c209 md5 bfb3317e8f31773191ef6d88b1fc93e7 )
+)
+
+game (
+	name "Poolware 2317 (19xx)(Poolware)"
+	description "Poolware 2317 (19xx)(Poolware)"
+	rom ( name "Poolware 2317 (19xx)(Poolware).st" size 737280 crc 44cc460b md5 b0f12098cfce8cd9097517aab86467b0 )
+)
+
+game (
+	name "Poolware 2317 (19xx)(Poolware)[a]"
+	description "Poolware 2317 (19xx)(Poolware)[a]"
+	rom ( name "Poolware 2317 (19xx)(Poolware)[a].st" size 737280 crc e1c4d4d0 md5 fd11a1bedc53125a80748ef43761d872 )
+)
+
+game (
+	name "Poolware 2318 (19xx)(Poolware)[u]"
+	description "Poolware 2318 (19xx)(Poolware)[u]"
+	rom ( name "Poolware 2318 (19xx)(Poolware)[u].st" size 737280 crc 5eccf509 md5 5e34fa2b6ba809ef70121def7a37432e )
+)
+
+game (
+	name "Poolware 2319 (19xx)(Poolware)"
+	description "Poolware 2319 (19xx)(Poolware)"
+	rom ( name "Poolware 2319 (19xx)(Poolware).st" size 737280 crc d45bdd6d md5 11ab0c048b6c605bbf458fe5abf7067d )
+)
+
+game (
+	name "Poolware 2320 (19xx)(Poolware)"
+	description "Poolware 2320 (19xx)(Poolware)"
+	rom ( name "Poolware 2320 (19xx)(Poolware).st" size 737280 crc 403cf25c md5 4125f54e77ff8c6adfb8c35440655e67 )
+)
+
+game (
+	name "Poolware 2321 (19xx)(Poolware)"
+	description "Poolware 2321 (19xx)(Poolware)"
+	rom ( name "Poolware 2321 (19xx)(Poolware).st" size 737280 crc cfe264b4 md5 21f43a106b86796c6fecedaa7f891e64 )
+)
+
+game (
+	name "Poolware 2322 (19xx)(Poolware)"
+	description "Poolware 2322 (19xx)(Poolware)"
+	rom ( name "Poolware 2322 (19xx)(Poolware).st" size 746496 crc f62e2f4e md5 a62d6ec9f9c81abf2b00815fd14e476c )
+)
+
+game (
+	name "Poolware 2323 (19xx)(Poolware)"
+	description "Poolware 2323 (19xx)(Poolware)"
+	rom ( name "Poolware 2323 (19xx)(Poolware).st" size 737280 crc e9da2a88 md5 94c5e63bb34be733813420f3931d5b9b )
+)
+
+game (
+	name "Poolware 2324 (19xx)(Poolware)"
+	description "Poolware 2324 (19xx)(Poolware)"
+	rom ( name "Poolware 2324 (19xx)(Poolware).st" size 737280 crc b52a6720 md5 faea08bb2d23a55635fe69b214fa842a )
+)
+
+game (
+	name "Poolware 2325 (19xx)(Poolware)"
+	description "Poolware 2325 (19xx)(Poolware)"
+	rom ( name "Poolware 2325 (19xx)(Poolware).st" size 737280 crc 8f048c09 md5 10d69112af02853e2b5faaaf418e6e19 )
+)
+
+game (
+	name "Poolware 2326 (19xx)(Poolware)"
+	description "Poolware 2326 (19xx)(Poolware)"
+	rom ( name "Poolware 2326 (19xx)(Poolware).st" size 737280 crc 6f97c9ac md5 e44cdbbc17d071d5921dfb33b748e31b )
+)
+
+game (
+	name "Poolware 2327 (19xx)(Poolware)"
+	description "Poolware 2327 (19xx)(Poolware)"
+	rom ( name "Poolware 2327 (19xx)(Poolware).st" size 737280 crc 61196dce md5 12b3a07d6c381cf53de00523c06ef813 )
+)
+
+game (
+	name "Poolware 2328 (19xx)(Poolware)"
+	description "Poolware 2328 (19xx)(Poolware)"
+	rom ( name "Poolware 2328 (19xx)(Poolware).st" size 737280 crc 95cb2e72 md5 6db249d9e6c6f0b222365b1a53caf644 )
+)
+
+game (
+	name "Poolware 2329 (19xx)(Poolware)"
+	description "Poolware 2329 (19xx)(Poolware)"
+	rom ( name "Poolware 2329 (19xx)(Poolware).st" size 737280 crc 0857410a md5 27a91f892a16825ce3d143b6938e46d3 )
+)
+
+game (
+	name "Poolware 2330 (19xx)(Poolware)"
+	description "Poolware 2330 (19xx)(Poolware)"
+	rom ( name "Poolware 2330 (19xx)(Poolware).st" size 737280 crc ccfc9710 md5 ba5dd2b33ec5f2397849e693ddfbecd0 )
+)
+
+game (
+	name "Poolware 2331 (19xx)(Poolware)"
+	description "Poolware 2331 (19xx)(Poolware)"
+	rom ( name "Poolware 2331 (19xx)(Poolware).st" size 737280 crc 886aafc9 md5 bc10c78cc0185672b408b11e2ded766b )
+)
+
+game (
+	name "Poolware 2332 (19xx)(Poolware)"
+	description "Poolware 2332 (19xx)(Poolware)"
+	rom ( name "Poolware 2332 (19xx)(Poolware).st" size 737280 crc 75bec56c md5 d635ca6baa698a58ac8aafb2660b0b73 )
+)
+
+game (
+	name "Poolware 2333 (19xx)(Poolware)"
+	description "Poolware 2333 (19xx)(Poolware)"
+	rom ( name "Poolware 2333 (19xx)(Poolware).st" size 737280 crc 6148e70d md5 5eb4a0aa791717cf40c6b9253ec99b1c )
+)
+
+game (
+	name "Poolware 2334 (19xx)(Poolware)"
+	description "Poolware 2334 (19xx)(Poolware)"
+	rom ( name "Poolware 2334 (19xx)(Poolware).st" size 737280 crc 9aa035cb md5 625d3907f904348157f8c473011df71b )
+)
+
+game (
+	name "Poolware 2335 (19xx)(Poolware)"
+	description "Poolware 2335 (19xx)(Poolware)"
+	rom ( name "Poolware 2335 (19xx)(Poolware).st" size 839680 crc 71a78aee md5 6e3e2cc5374d6e086c7b1357bff8e990 )
+)
+
+game (
+	name "Poolware 2336 (19xx)(Poolware)"
+	description "Poolware 2336 (19xx)(Poolware)"
+	rom ( name "Poolware 2336 (19xx)(Poolware).st" size 819200 crc f726e99b md5 421047231362dc98a414d998687a7093 )
+)
+
+game (
+	name "Poolware 2337 (19xx)(Poolware)"
+	description "Poolware 2337 (19xx)(Poolware)"
+	rom ( name "Poolware 2337 (19xx)(Poolware).st" size 737280 crc 31f9ec76 md5 17a62abb0970038df78c67bbf4ceda99 )
+)
+
+game (
+	name "Poolware 2338 (19xx)(Poolware)"
+	description "Poolware 2338 (19xx)(Poolware)"
+	rom ( name "Poolware 2338 (19xx)(Poolware).st" size 737280 crc cdc03b6e md5 abc3d17230f49a60ad06ad2ebbd7bdd4 )
+)
+
+game (
+	name "Poolware 2339 (19xx)(Poolware)"
+	description "Poolware 2339 (19xx)(Poolware)"
+	rom ( name "Poolware 2339 (19xx)(Poolware).st" size 737280 crc 3246c656 md5 07da62a483255803364b7fa17e5047d7 )
+)
+
+game (
+	name "Poolware 2340 (19xx)(Poolware)"
+	description "Poolware 2340 (19xx)(Poolware)"
+	rom ( name "Poolware 2340 (19xx)(Poolware).st" size 737280 crc 20bf187b md5 97ecd531265d06637df313e9b13a6390 )
+)
+
+game (
+	name "Poolware 2341 (19xx)(Poolware)"
+	description "Poolware 2341 (19xx)(Poolware)"
+	rom ( name "Poolware 2341 (19xx)(Poolware).st" size 737280 crc 31ffbf0f md5 0d7b5f1510b3090d598190c307c9a7f9 )
+)
+
+game (
+	name "Poolware 2342 (19xx)(Poolware)"
+	description "Poolware 2342 (19xx)(Poolware)"
+	rom ( name "Poolware 2342 (19xx)(Poolware).st" size 737280 crc ee38c14b md5 396acc8b6039a9fe92f16ee215744065 )
+)
+
+game (
+	name "Poolware 2343 (19xx)(Poolware)"
+	description "Poolware 2343 (19xx)(Poolware)"
+	rom ( name "Poolware 2343 (19xx)(Poolware).st" size 737280 crc 93b0d39b md5 68d9ad5d9e914afcfb7c2fb478b2d4d6 )
+)
+
+game (
+	name "Poolware 2344 (19xx)(Poolware)"
+	description "Poolware 2344 (19xx)(Poolware)"
+	rom ( name "Poolware 2344 (19xx)(Poolware).st" size 737280 crc adfae9a2 md5 b45c47506687b33581c6babbf66e73d4 )
+)
+
+game (
+	name "Poolware 2345 (19xx)(Poolware)"
+	description "Poolware 2345 (19xx)(Poolware)"
+	rom ( name "Poolware 2345 (19xx)(Poolware).st" size 737280 crc 2e197f91 md5 569d59cde11f46edbb62808592619c72 )
+)
+
+game (
+	name "Poolware 2346 (19xx)(Poolware)"
+	description "Poolware 2346 (19xx)(Poolware)"
+	rom ( name "Poolware 2346 (19xx)(Poolware).st" size 737280 crc 7a60226d md5 b01df780c74af3a3b5e5566f6c9ec78d )
+)
+
+game (
+	name "Poolware 2347 (19xx)(Poolware)"
+	description "Poolware 2347 (19xx)(Poolware)"
+	rom ( name "Poolware 2347 (19xx)(Poolware).st" size 737280 crc 40830a09 md5 24a358c28f2f07ff4b3257ab030116f4 )
+)
+
+game (
+	name "Poolware 2348 (19xx)(Poolware)"
+	description "Poolware 2348 (19xx)(Poolware)"
+	rom ( name "Poolware 2348 (19xx)(Poolware).st" size 737280 crc 71257f7b md5 320272de1cac19aa5b7ca369c55ca40b )
+)
+
+game (
+	name "Poolware 2349 (19xx)(Poolware)"
+	description "Poolware 2349 (19xx)(Poolware)"
+	rom ( name "Poolware 2349 (19xx)(Poolware).st" size 829440 crc 87c551ce md5 694279b03fc1f49fcdb3bc4b1cfe361d )
+)
+
+game (
+	name "Poolware 2350 (19xx)(Poolware)"
+	description "Poolware 2350 (19xx)(Poolware)"
+	rom ( name "Poolware 2350 (19xx)(Poolware).st" size 737280 crc e4c98834 md5 1caeca5a85203618b77d3e8815e82a4e )
+)
+
+game (
+	name "Poolware 2351 (19xx)(Poolware)"
+	description "Poolware 2351 (19xx)(Poolware)"
+	rom ( name "Poolware 2351 (19xx)(Poolware).st" size 737280 crc 6f0c6821 md5 e051df07272d4080f37f4741e1bc893b )
+)
+
+game (
+	name "Poolware 2352 (19xx)(Poolware)"
+	description "Poolware 2352 (19xx)(Poolware)"
+	rom ( name "Poolware 2352 (19xx)(Poolware).st" size 737280 crc b503f039 md5 9f784e0af1e7d1c70358cb8607b0b4c7 )
+)
+
+game (
+	name "Poolware 2353 (19xx)(Poolware)"
+	description "Poolware 2353 (19xx)(Poolware)"
+	rom ( name "Poolware 2353 (19xx)(Poolware).st" size 737280 crc af431104 md5 2a21a83eb25b3b3d6842d5e0b2d55421 )
+)
+
+game (
+	name "Poolware 2354 (19xx)(Poolware)"
+	description "Poolware 2354 (19xx)(Poolware)"
+	rom ( name "Poolware 2354 (19xx)(Poolware).st" size 829440 crc 7bf63586 md5 1b4989275ab6e86fdb0fdb45c08c63fa )
+)
+
+game (
+	name "Poolware 2355 (19xx)(Poolware)"
+	description "Poolware 2355 (19xx)(Poolware)"
+	rom ( name "Poolware 2355 (19xx)(Poolware).st" size 737280 crc 163c9736 md5 b934d45561b4a99bbdd4f3ce0ac64a30 )
+)
+
+game (
+	name "Poolware 2356 (19xx)(Poolware)"
+	description "Poolware 2356 (19xx)(Poolware)"
+	rom ( name "Poolware 2356 (19xx)(Poolware).st" size 737280 crc 691ebdca md5 06878a2502066bb72ed719d2ee9cc7d8 )
+)
+
+game (
+	name "Poolware 2357 (19xx)(Poolware)"
+	description "Poolware 2357 (19xx)(Poolware)"
+	rom ( name "Poolware 2357 (19xx)(Poolware).st" size 737280 crc 7d324036 md5 d6ce3a876ad9ae1d7a329c39b94f8852 )
+)
+
+game (
+	name "Poolware 2358 (19xx)(Poolware)"
+	description "Poolware 2358 (19xx)(Poolware)"
+	rom ( name "Poolware 2358 (19xx)(Poolware).st" size 737280 crc b85eeb34 md5 8f917ad604ef692bd8c13a04dd1f0f89 )
+)
+
+game (
+	name "Poolware 2359 (19xx)(Poolware)"
+	description "Poolware 2359 (19xx)(Poolware)"
+	rom ( name "Poolware 2359 (19xx)(Poolware).st" size 737280 crc 77f022c1 md5 b1b0048440c11516c3fc97dba81caf29 )
+)
+
+game (
+	name "Poolware 2360 (19xx)(Poolware)"
+	description "Poolware 2360 (19xx)(Poolware)"
+	rom ( name "Poolware 2360 (19xx)(Poolware).st" size 746496 crc 7eb84699 md5 19deff6368f955ff3ebd14c85b1e530e )
+)
+
+game (
+	name "Poolware 2361 (19xx)(Poolware)"
+	description "Poolware 2361 (19xx)(Poolware)"
+	rom ( name "Poolware 2361 (19xx)(Poolware).st" size 737280 crc 6434950f md5 ceefc0fcf3abd4081da4b3661b71d3ca )
+)
+
+game (
+	name "Poolware 2362 (19xx)(Poolware)"
+	description "Poolware 2362 (19xx)(Poolware)"
+	rom ( name "Poolware 2362 (19xx)(Poolware).st" size 737280 crc abdc855e md5 324451abe8afc532371633db50275fef )
+)
+
+game (
+	name "Poolware 2363 (19xx)(Poolware)"
+	description "Poolware 2363 (19xx)(Poolware)"
+	rom ( name "Poolware 2363 (19xx)(Poolware).st" size 737280 crc 83b93d97 md5 b634cfe8d75472abae047c75f246f531 )
+)
+
+game (
+	name "Poolware 2364 (19xx)(Poolware)"
+	description "Poolware 2364 (19xx)(Poolware)"
+	rom ( name "Poolware 2364 (19xx)(Poolware).st" size 737280 crc 80aa5de1 md5 d81f6df506f2cfe43c95c35c72a4dc24 )
+)
+
+game (
+	name "Poolware 2365 (19xx)(Poolware)"
+	description "Poolware 2365 (19xx)(Poolware)"
+	rom ( name "Poolware 2365 (19xx)(Poolware).st" size 737280 crc 1677208d md5 351ab199338e0ff05f29f6a25629c8e2 )
+)
+
+game (
+	name "Poolware 2366 (19xx)(Poolware)"
+	description "Poolware 2366 (19xx)(Poolware)"
+	rom ( name "Poolware 2366 (19xx)(Poolware).st" size 737280 crc 94a4193e md5 7be40c238b5af405b34752a5ec09269f )
+)
+
+game (
+	name "Poolware 2367 (19xx)(Poolware)"
+	description "Poolware 2367 (19xx)(Poolware)"
+	rom ( name "Poolware 2367 (19xx)(Poolware).st" size 737280 crc 7005214b md5 37e1887abd378a1829a7e783624ba1c4 )
+)
+
+game (
+	name "Poolware 2368 (19xx)(Poolware)"
+	description "Poolware 2368 (19xx)(Poolware)"
+	rom ( name "Poolware 2368 (19xx)(Poolware).st" size 737280 crc ce77e24c md5 60c7be25d699ed2630e695efc1a90f56 )
+)
+
+game (
+	name "Poolware 2369 (19xx)(Poolware)"
+	description "Poolware 2369 (19xx)(Poolware)"
+	rom ( name "Poolware 2369 (19xx)(Poolware).st" size 737280 crc 54debda8 md5 a0324b070d150e3c757e7ff4c2c5f3b3 )
+)
+
+game (
+	name "Poolware 2370 (19xx)(Poolware)"
+	description "Poolware 2370 (19xx)(Poolware)"
+	rom ( name "Poolware 2370 (19xx)(Poolware).st" size 737280 crc c193e50a md5 6d347b01f9b758e1f9e654a3fe7f53cd )
+)
+
+game (
+	name "Poolware 2371 (19xx)(Poolware)"
+	description "Poolware 2371 (19xx)(Poolware)"
+	rom ( name "Poolware 2371 (19xx)(Poolware).st" size 737280 crc 93a3d43f md5 2bab3842de7ed22fd79c1624d87c2fe1 )
+)
+
+game (
+	name "Poolware 2372 (19xx)(Poolware)"
+	description "Poolware 2372 (19xx)(Poolware)"
+	rom ( name "Poolware 2372 (19xx)(Poolware).st" size 737280 crc cc1ccfb2 md5 56c8f284876e5df2b1b52e2c1ca30f67 )
+)
+
+game (
+	name "Poolware 2374 (19xx)(Poolware)"
+	description "Poolware 2374 (19xx)(Poolware)"
+	rom ( name "Poolware 2374 (19xx)(Poolware).st" size 737280 crc 731e00d7 md5 a897cd23f21a95e22ca03ddb797f5f5c )
+)
+
+game (
+	name "Poolware 2375 (19xx)(Poolware)"
+	description "Poolware 2375 (19xx)(Poolware)"
+	rom ( name "Poolware 2375 (19xx)(Poolware).st" size 737280 crc 22069777 md5 e711406e187ae7cbcf7b822ae61f65af )
+)
+
+game (
+	name "Poolware 2376 (19xx)(Poolware)"
+	description "Poolware 2376 (19xx)(Poolware)"
+	rom ( name "Poolware 2376 (19xx)(Poolware).st" size 737280 crc 04ea7d18 md5 601557dddd32b023aa2f54dfacc61f46 )
+)
+
+game (
+	name "Poolware 2377 (19xx)(Poolware)"
+	description "Poolware 2377 (19xx)(Poolware)"
+	rom ( name "Poolware 2377 (19xx)(Poolware).st" size 737280 crc d534ac4b md5 c594090f6e87f17b33aeca59f6ad92ee )
+)
+
+game (
+	name "Poolware 2378 (19xx)(Poolware)"
+	description "Poolware 2378 (19xx)(Poolware)"
+	rom ( name "Poolware 2378 (19xx)(Poolware).st" size 737280 crc a89bec2b md5 4dd802539e9c36c24e86c884ea4d61cb )
+)
+
+game (
+	name "Poolware 2379 (19xx)(Poolware)"
+	description "Poolware 2379 (19xx)(Poolware)"
+	rom ( name "Poolware 2379 (19xx)(Poolware).st" size 737280 crc fac79564 md5 30afe1a7c481d5bc6c10fc39b94d374c )
+)
+
+game (
+	name "Poolware 2380 (19xx)(Poolware)"
+	description "Poolware 2380 (19xx)(Poolware)"
+	rom ( name "Poolware 2380 (19xx)(Poolware).st" size 737280 crc af866626 md5 2857f7adb55a4820b7ded74c784a33ac )
+)
+
+game (
+	name "Poolware 2381 (19xx)(Poolware)"
+	description "Poolware 2381 (19xx)(Poolware)"
+	rom ( name "Poolware 2381 (19xx)(Poolware).st" size 737280 crc ea33ac1c md5 134b3e6072c3137af8147fdb8e87c099 )
+)
+
+game (
+	name "Poolware 2382 (19xx)(Poolware)"
+	description "Poolware 2382 (19xx)(Poolware)"
+	rom ( name "Poolware 2382 (19xx)(Poolware).st" size 737280 crc e0422973 md5 b8b900a47369d59b959b2831e226a164 )
+)
+
+game (
+	name "Poolware 2383 (19xx)(Poolware)"
+	description "Poolware 2383 (19xx)(Poolware)"
+	rom ( name "Poolware 2383 (19xx)(Poolware).st" size 737280 crc d0a8b25d md5 59cd6e920f2f2c2ebb69a2bd66d3fa04 )
+)
+
+game (
+	name "Poolware 2384 (19xx)(Poolware)"
+	description "Poolware 2384 (19xx)(Poolware)"
+	rom ( name "Poolware 2384 (19xx)(Poolware).st" size 737280 crc d0ac0d86 md5 cd7d4c8ee8c3bcfd4d435e0e70cd43fc )
+)
+
+game (
+	name "Poolware 2385 (19xx)(Poolware)"
+	description "Poolware 2385 (19xx)(Poolware)"
+	rom ( name "Poolware 2385 (19xx)(Poolware).st" size 737280 crc 26e361d6 md5 c15ff31597b639bcf91466b5e3ffb6fd )
+)
+
+game (
+	name "Poolware 2386 (19xx)(Poolware)"
+	description "Poolware 2386 (19xx)(Poolware)"
+	rom ( name "Poolware 2386 (19xx)(Poolware).st" size 737280 crc dbbf7919 md5 93d435753711b5eaa355cb968f67758f )
+)
+
+game (
+	name "Poolware 2387 (19xx)(Poolware)"
+	description "Poolware 2387 (19xx)(Poolware)"
+	rom ( name "Poolware 2387 (19xx)(Poolware).st" size 737280 crc dc1da997 md5 90820db515815345a3b3c1211dd4444e )
+)
+
+game (
+	name "Poolware 2388 (19xx)(Poolware)"
+	description "Poolware 2388 (19xx)(Poolware)"
+	rom ( name "Poolware 2388 (19xx)(Poolware).st" size 737280 crc f031a38d md5 db79951e0550fc4d4a88ca9ded88fc2c )
+)
+
+game (
+	name "Poolware 2389 (19xx)(Poolware)"
+	description "Poolware 2389 (19xx)(Poolware)"
+	rom ( name "Poolware 2389 (19xx)(Poolware).st" size 737280 crc e3f5fe2f md5 f39c98c65ec14325e1864fa7db6c1908 )
+)
+
+game (
+	name "Poolware 2390 (19xx)(Poolware)"
+	description "Poolware 2390 (19xx)(Poolware)"
+	rom ( name "Poolware 2390 (19xx)(Poolware).st" size 737280 crc f8373d62 md5 054b76235474543f902ffcb74b56c20d )
+)
+
+game (
+	name "Poolware 2391 (19xx)(Poolware)"
+	description "Poolware 2391 (19xx)(Poolware)"
+	rom ( name "Poolware 2391 (19xx)(Poolware).st" size 737280 crc b49e66f1 md5 9881325b9e4e6a1fadd1f9daaf00a016 )
+)
+
+game (
+	name "Poolware 2392 (19xx)(Poolware)"
+	description "Poolware 2392 (19xx)(Poolware)"
+	rom ( name "Poolware 2392 (19xx)(Poolware).st" size 681984 crc 8e31028f md5 241f48b237b20e255872fe148beccf68 )
+)
+
+game (
+	name "Poolware 2393 (19xx)(Poolware)"
+	description "Poolware 2393 (19xx)(Poolware)"
+	rom ( name "Poolware 2393 (19xx)(Poolware).st" size 737280 crc b79ee2da md5 2ec98da6a66ca6db58d92a5189b282b1 )
+)
+
+game (
+	name "Poolware 2394 (19xx)(Poolware)"
+	description "Poolware 2394 (19xx)(Poolware)"
+	rom ( name "Poolware 2394 (19xx)(Poolware).st" size 737280 crc ce570bec md5 689c75986c8d2d5667f93e6c8d1436d5 )
+)
+
+game (
+	name "Poolware 2395 (19xx)(Poolware)"
+	description "Poolware 2395 (19xx)(Poolware)"
+	rom ( name "Poolware 2395 (19xx)(Poolware).st" size 737280 crc da5fd935 md5 b5a8a92a69cf141abad08749b51b4be8 )
+)
+
+game (
+	name "Poolware 2396 (19xx)(Poolware)"
+	description "Poolware 2396 (19xx)(Poolware)"
+	rom ( name "Poolware 2396 (19xx)(Poolware).st" size 737280 crc a91ef09e md5 0fc8a6129bccc658386152655a507910 )
+)
+
+game (
+	name "Poolware 2397 (19xx)(Poolware)"
+	description "Poolware 2397 (19xx)(Poolware)"
+	rom ( name "Poolware 2397 (19xx)(Poolware).st" size 737280 crc f1d96c76 md5 c2f5e10630e0e72c52f745cf493a3dde )
+)
+
+game (
+	name "Poolware 2398 (19xx)(Poolware)"
+	description "Poolware 2398 (19xx)(Poolware)"
+	rom ( name "Poolware 2398 (19xx)(Poolware).st" size 737280 crc 46d24c80 md5 b6097fe88db05c2c326853d63533161a )
+)
+
+game (
+	name "Poolware 2399 (19xx)(Poolware)"
+	description "Poolware 2399 (19xx)(Poolware)"
+	rom ( name "Poolware 2399 (19xx)(Poolware).st" size 737280 crc 00b54ca9 md5 479d7bb7992cf72431edce69e7e698d9 )
+)
+
+game (
+	name "Poolware 2400 (19xx)(Poolware)"
+	description "Poolware 2400 (19xx)(Poolware)"
+	rom ( name "Poolware 2400 (19xx)(Poolware).st" size 737280 crc 7b3c256e md5 1ce26ec4f368874e1121d403dbfbbbd2 )
+)
+
+game (
+	name "Poolware 2401 (19xx)(Poolware)"
+	description "Poolware 2401 (19xx)(Poolware)"
+	rom ( name "Poolware 2401 (19xx)(Poolware).st" size 737280 crc 1c60b88a md5 48ff9b9c3055edba58abc6ad20f8635e )
+)
+
+game (
+	name "Poolware 2402 (19xx)(Poolware)"
+	description "Poolware 2402 (19xx)(Poolware)"
+	rom ( name "Poolware 2402 (19xx)(Poolware).st" size 737280 crc 353c09b8 md5 f4f93bc55d5eff8c7b149851b43146f2 )
+)
+
+game (
+	name "Poolware 2403 (19xx)(Poolware)"
+	description "Poolware 2403 (19xx)(Poolware)"
+	rom ( name "Poolware 2403 (19xx)(Poolware).st" size 737280 crc 4b1dd672 md5 79d82ba70c1423b3fc9bdb102c54ed6b )
+)
+
+game (
+	name "Poolware 2405 (19xx)(Poolware)"
+	description "Poolware 2405 (19xx)(Poolware)"
+	rom ( name "Poolware 2405 (19xx)(Poolware).st" size 737280 crc 5cbf5a7a md5 5c98a5e2f215941258f5b94f6ce14442 )
+)
+
+game (
+	name "Poolware 2406 (19xx)(Poolware)"
+	description "Poolware 2406 (19xx)(Poolware)"
+	rom ( name "Poolware 2406 (19xx)(Poolware).st" size 737280 crc a3b3949c md5 ebac0043d077fbdc50ede520fdbbfa7e )
+)
+
+game (
+	name "Poolware 2407 (19xx)(Poolware)"
+	description "Poolware 2407 (19xx)(Poolware)"
+	rom ( name "Poolware 2407 (19xx)(Poolware).st" size 737280 crc 126ef5d5 md5 cae65d04de64ce17f88bb891016aa4e8 )
+)
+
+game (
+	name "Poolware 2408 (19xx)(Poolware)"
+	description "Poolware 2408 (19xx)(Poolware)"
+	rom ( name "Poolware 2408 (19xx)(Poolware).st" size 737280 crc 907cb1a4 md5 f7a7c7556e2ad9826d42bf5aa74a5bf9 )
+)
+
+game (
+	name "Poolware 2409 (19xx)(Poolware)"
+	description "Poolware 2409 (19xx)(Poolware)"
+	rom ( name "Poolware 2409 (19xx)(Poolware).st" size 737280 crc f27c78a0 md5 57373e1f7bf07393e3c57d7267d31cd0 )
+)
+
+game (
+	name "Poolware 2410 (19xx)(Poolware)"
+	description "Poolware 2410 (19xx)(Poolware)"
+	rom ( name "Poolware 2410 (19xx)(Poolware).st" size 709632 crc e2d38d59 md5 38deac75bc0cc16e85af0cb7aab5ba2d )
+)
+
+game (
+	name "Poolware 2411 (19xx)(Poolware)"
+	description "Poolware 2411 (19xx)(Poolware)"
+	rom ( name "Poolware 2411 (19xx)(Poolware).st" size 737280 crc 34c9558e md5 666b7a14578945ef7dc31705d6360333 )
+)
+
+game (
+	name "Poolware 2413 (19xx)(Poolware)"
+	description "Poolware 2413 (19xx)(Poolware)"
+	rom ( name "Poolware 2413 (19xx)(Poolware).st" size 737280 crc 06f903c7 md5 99c949b3baf747745cc7eb2b0d3be41f )
+)
+
+game (
+	name "Poolware 2414 (19xx)(Poolware)"
+	description "Poolware 2414 (19xx)(Poolware)"
+	rom ( name "Poolware 2414 (19xx)(Poolware).st" size 737280 crc a74ec66b md5 93cb6377cfcf5fdf73a7bc85283298a2 )
+)
+
+game (
+	name "Poolware 2415 (19xx)(Poolware)"
+	description "Poolware 2415 (19xx)(Poolware)"
+	rom ( name "Poolware 2415 (19xx)(Poolware).st" size 737280 crc 53e05cb8 md5 5173c0c089758bf747feaf7459a9a4f3 )
+)
+
+game (
+	name "Poolware 2416 (19xx)(Poolware)"
+	description "Poolware 2416 (19xx)(Poolware)"
+	rom ( name "Poolware 2416 (19xx)(Poolware).st" size 737280 crc 13a66231 md5 d5322258f01127e66c4a8e0ffd9dd32c )
+)
+
+game (
+	name "Poolware 2417 (19xx)(Poolware)"
+	description "Poolware 2417 (19xx)(Poolware)"
+	rom ( name "Poolware 2417 (19xx)(Poolware).st" size 737280 crc 8296ea9b md5 777b73bb70bda0af8f7aba7b760d087e )
+)
+
+game (
+	name "Poolware 2418 (19xx)(Poolware)"
+	description "Poolware 2418 (19xx)(Poolware)"
+	rom ( name "Poolware 2418 (19xx)(Poolware).st" size 709632 crc 842b4f53 md5 b6ae327278eec099e1ce4345139238d5 )
+)
+
+game (
+	name "Poolware 2419 (19xx)(Poolware)"
+	description "Poolware 2419 (19xx)(Poolware)"
+	rom ( name "Poolware 2419 (19xx)(Poolware).st" size 737280 crc bd33772f md5 06d42c021b9fd0d7154922512b68489a )
+)
+
+game (
+	name "Poolware 2420 (19xx)(Poolware)"
+	description "Poolware 2420 (19xx)(Poolware)"
+	rom ( name "Poolware 2420 (19xx)(Poolware).st" size 737280 crc c65be00d md5 e446bd2c82dc3a8ae1c10eeed5e42948 )
+)
+
+game (
+	name "Poolware 2421 (19xx)(Poolware)"
+	description "Poolware 2421 (19xx)(Poolware)"
+	rom ( name "Poolware 2421 (19xx)(Poolware).st" size 737280 crc 9464e2d6 md5 3e35211d5ffb0612e13ddd3851afbdeb )
+)
+
+game (
+	name "Poolware 2423 (19xx)(Poolware)"
+	description "Poolware 2423 (19xx)(Poolware)"
+	rom ( name "Poolware 2423 (19xx)(Poolware).st" size 737280 crc 12203e4f md5 2f87c8b6cd1cf3a9c6d6b36c2ceb00fc )
+)
+
+game (
+	name "Poolware 2424 (19xx)(Poolware)"
+	description "Poolware 2424 (19xx)(Poolware)"
+	rom ( name "Poolware 2424 (19xx)(Poolware).st" size 829440 crc d2c3f311 md5 16b7bf29e7a6da4ffe1b3ea46291856d )
+)
+
+game (
+	name "Poolware 2425 (19xx)(Poolware)"
+	description "Poolware 2425 (19xx)(Poolware)"
+	rom ( name "Poolware 2425 (19xx)(Poolware).st" size 819200 crc 5efe4d56 md5 7b9e355efcedde2fc8a974154e9f3d02 )
+)
+
+game (
+	name "Poolware 2426 (19xx)(Poolware)"
+	description "Poolware 2426 (19xx)(Poolware)"
+	rom ( name "Poolware 2426 (19xx)(Poolware).st" size 737280 crc 13337ee3 md5 4f435dba1ba3728b3afef5a9b68661a4 )
+)
+
+game (
+	name "Poolware 2428 (19xx)(Poolware)"
+	description "Poolware 2428 (19xx)(Poolware)"
+	rom ( name "Poolware 2428 (19xx)(Poolware).st" size 737280 crc 7788c763 md5 9f0758846035675db2b4d4cc266b364b )
+)
+
+game (
+	name "Poolware 2429 (19xx)(Poolware)"
+	description "Poolware 2429 (19xx)(Poolware)"
+	rom ( name "Poolware 2429 (19xx)(Poolware).st" size 737280 crc b12657ff md5 d2ca9910f9516cff575798e0c4e9b78c )
+)
+
+game (
+	name "Poolware 2430 (19xx)(Poolware)"
+	description "Poolware 2430 (19xx)(Poolware)"
+	rom ( name "Poolware 2430 (19xx)(Poolware).st" size 737280 crc 22f02343 md5 62afa658af0e18a66ed44a8285db4b82 )
+)
+
+game (
+	name "Poolware 2431 (19xx)(Poolware)"
+	description "Poolware 2431 (19xx)(Poolware)"
+	rom ( name "Poolware 2431 (19xx)(Poolware).st" size 737280 crc b4d5a984 md5 c827eb76c347ccd5d5ef2eaca1b8095f )
+)
+
+game (
+	name "Poolware 2433 (19xx)(Poolware)"
+	description "Poolware 2433 (19xx)(Poolware)"
+	rom ( name "Poolware 2433 (19xx)(Poolware).st" size 737280 crc 23efd585 md5 6739a1758f9660fd88c91f74605d5186 )
+)
+
+game (
+	name "Poolware 2434 (19xx)(Poolware)"
+	description "Poolware 2434 (19xx)(Poolware)"
+	rom ( name "Poolware 2434 (19xx)(Poolware).st" size 737280 crc 51a3f66d md5 2d28f1df86b67277c275412bb5cc5076 )
+)
+
+game (
+	name "Poolware 2435 (19xx)(Poolware)"
+	description "Poolware 2435 (19xx)(Poolware)"
+	rom ( name "Poolware 2435 (19xx)(Poolware).st" size 737280 crc 50703996 md5 59a82e752ad5a73a166dd8c72667bda3 )
+)
+
+game (
+	name "Poolware 2436 (19xx)(Poolware)"
+	description "Poolware 2436 (19xx)(Poolware)"
+	rom ( name "Poolware 2436 (19xx)(Poolware).st" size 737280 crc c34f8bde md5 8eb08bcee8172b9fd0d3844d26be0323 )
+)
+
+game (
+	name "Poolware 2437 (19xx)(Poolware)"
+	description "Poolware 2437 (19xx)(Poolware)"
+	rom ( name "Poolware 2437 (19xx)(Poolware).st" size 737280 crc 0de7555c md5 eafd30b43cb411685fac1a62d3f89ee0 )
+)
+
+game (
+	name "Poolware 2438 (19xx)(Poolware)"
+	description "Poolware 2438 (19xx)(Poolware)"
+	rom ( name "Poolware 2438 (19xx)(Poolware).st" size 829440 crc fe8fb004 md5 04e5af5f06fcd6069646f14ba39fd506 )
+)
+
+game (
+	name "Poolware 2439 (19xx)(Poolware)"
+	description "Poolware 2439 (19xx)(Poolware)"
+	rom ( name "Poolware 2439 (19xx)(Poolware).st" size 829440 crc ffea4c1f md5 09ea794e60def96fdc5eb6eaa3c32b46 )
+)
+
+game (
+	name "Poolware 2440 (19xx)(Poolware)"
+	description "Poolware 2440 (19xx)(Poolware)"
+	rom ( name "Poolware 2440 (19xx)(Poolware).st" size 737280 crc 02fd1a54 md5 544de56aa6082d930199f76fadb25cfa )
+)
+
+game (
+	name "Poolware 2441 (19xx)(Poolware)"
+	description "Poolware 2441 (19xx)(Poolware)"
+	rom ( name "Poolware 2441 (19xx)(Poolware).st" size 737280 crc 2d0e12a2 md5 df5b2da3458a9f9f179823a89163cf96 )
+)
+
+game (
+	name "Poolware 2442 (19xx)(Poolware)"
+	description "Poolware 2442 (19xx)(Poolware)"
+	rom ( name "Poolware 2442 (19xx)(Poolware).st" size 737280 crc 0fd7db38 md5 739db1b1fbff75f155d285f164d35649 )
+)
+
+game (
+	name "Poolware 2443 (19xx)(Poolware)"
+	description "Poolware 2443 (19xx)(Poolware)"
+	rom ( name "Poolware 2443 (19xx)(Poolware).st" size 737280 crc cf3199d6 md5 44a23f007dee30a55753e33167f5b7f5 )
+)
+
+game (
+	name "Poolware 2444 (19xx)(Poolware)"
+	description "Poolware 2444 (19xx)(Poolware)"
+	rom ( name "Poolware 2444 (19xx)(Poolware).st" size 737280 crc 65a1e615 md5 1a33b7323877c88473faafa858bc3931 )
+)
+
+game (
+	name "Poolware 2445 (19xx)(Poolware)"
+	description "Poolware 2445 (19xx)(Poolware)"
+	rom ( name "Poolware 2445 (19xx)(Poolware).st" size 737280 crc 03a814de md5 0831089a42ca231c814ac20feab597e5 )
+)
+
+game (
+	name "Poolware 2446 (19xx)(Poolware)"
+	description "Poolware 2446 (19xx)(Poolware)"
+	rom ( name "Poolware 2446 (19xx)(Poolware).st" size 737280 crc e0ea2915 md5 7620297ab216a1e6cea0b8ba3f302e9a )
+)
+
+game (
+	name "Poolware 2447 (19xx)(Poolware)"
+	description "Poolware 2447 (19xx)(Poolware)"
+	rom ( name "Poolware 2447 (19xx)(Poolware).st" size 737280 crc 211e7bce md5 5bf19d4335b3000762086d9443b62a99 )
+)
+
+game (
+	name "Poolware 2448 (19xx)(Poolware)"
+	description "Poolware 2448 (19xx)(Poolware)"
+	rom ( name "Poolware 2448 (19xx)(Poolware).st" size 737280 crc 10bc69c6 md5 62fd9b2d875a1c37d5f7114d1ebc4bd7 )
+)
+
+game (
+	name "Poolware 2449 (19xx)(Poolware)"
+	description "Poolware 2449 (19xx)(Poolware)"
+	rom ( name "Poolware 2449 (19xx)(Poolware).st" size 737280 crc c7f47a5f md5 7f41374fe666411c374f8c5ae7ac47c5 )
+)
+
+game (
+	name "Poolware 2450 (19xx)(Poolware)"
+	description "Poolware 2450 (19xx)(Poolware)"
+	rom ( name "Poolware 2450 (19xx)(Poolware).st" size 737280 crc 1f0e7c4a md5 555611c9f4a60001fbb2102e42364d1d )
+)
+
+game (
+	name "Poolware 2451 (19xx)(Poolware)"
+	description "Poolware 2451 (19xx)(Poolware)"
+	rom ( name "Poolware 2451 (19xx)(Poolware).st" size 737280 crc 33e959a7 md5 08326ed40f0b96b0121c3a8f838c66e0 )
+)
+
+game (
+	name "Poolware 2452 (19xx)(Poolware)"
+	description "Poolware 2452 (19xx)(Poolware)"
+	rom ( name "Poolware 2452 (19xx)(Poolware).st" size 737280 crc e4daaed9 md5 edddcfbbaa67f15c6b90333b4b879120 )
+)
+
+game (
+	name "Poolware 2453 (19xx)(Poolware)"
+	description "Poolware 2453 (19xx)(Poolware)"
+	rom ( name "Poolware 2453 (19xx)(Poolware).st" size 819200 crc b0ea2e1c md5 f7e784af997d9bda43c605f76c1c67be )
+)
+
+game (
+	name "Poolware 2454 (19xx)(Poolware)"
+	description "Poolware 2454 (19xx)(Poolware)"
+	rom ( name "Poolware 2454 (19xx)(Poolware).st" size 737280 crc c17fcb89 md5 d70c25161e01df1117d35ee7d75eb4a3 )
+)
+
+game (
+	name "Poolware 2455 (19xx)(Poolware)"
+	description "Poolware 2455 (19xx)(Poolware)"
+	rom ( name "Poolware 2455 (19xx)(Poolware).st" size 737280 crc 22aecb5b md5 fe23a0f6a9d6d57c2a99160ef7e105d4 )
+)
+
+game (
+	name "Poolware 2456 (19xx)(Poolware)"
+	description "Poolware 2456 (19xx)(Poolware)"
+	rom ( name "Poolware 2456 (19xx)(Poolware).st" size 737280 crc c1c2bbbc md5 aeed19debf1680e3d073843c27da99b3 )
+)
+
+game (
+	name "Poolware 2457 (19xx)(Poolware)"
+	description "Poolware 2457 (19xx)(Poolware)"
+	rom ( name "Poolware 2457 (19xx)(Poolware).st" size 737280 crc dbbc2f72 md5 c4b7f787b089290493867b28382ac745 )
+)
+
+game (
+	name "Poolware 2458 (19xx)(Poolware)"
+	description "Poolware 2458 (19xx)(Poolware)"
+	rom ( name "Poolware 2458 (19xx)(Poolware).st" size 737280 crc 72abc9e4 md5 e37c373ea950c266e52634953eec06b5 )
+)
+
+game (
+	name "Poolware 2459 (19xx)(Poolware)"
+	description "Poolware 2459 (19xx)(Poolware)"
+	rom ( name "Poolware 2459 (19xx)(Poolware).st" size 737280 crc 8b6b9abc md5 fb320cf4b0b42efcbd0d939106a21765 )
+)
+
+game (
+	name "Poolware 2460 (19xx)(Poolware)"
+	description "Poolware 2460 (19xx)(Poolware)"
+	rom ( name "Poolware 2460 (19xx)(Poolware).st" size 829440 crc acc9fa99 md5 10ded19beaef16e1a1c4e94ab0170cf2 )
+)
+
+game (
+	name "Poolware 2461 (19xx)(Poolware)"
+	description "Poolware 2461 (19xx)(Poolware)"
+	rom ( name "Poolware 2461 (19xx)(Poolware).st" size 839680 crc 74b57a0e md5 a1055b12c79c22b9f7b25fd3bd769326 )
+)
+
+game (
+	name "Poolware 2463 (19xx)(Poolware)"
+	description "Poolware 2463 (19xx)(Poolware)"
+	rom ( name "Poolware 2463 (19xx)(Poolware).st" size 737280 crc ff99003a md5 592b9a993a2b85942055e705d08e4635 )
+)
+
+game (
+	name "Poolware 2464 (19xx)(Poolware)"
+	description "Poolware 2464 (19xx)(Poolware)"
+	rom ( name "Poolware 2464 (19xx)(Poolware).st" size 737280 crc 0e091e93 md5 029c3709441d8f336bad7c85e2753d16 )
+)
+
+game (
+	name "Poolware 2465 (19xx)(Poolware)"
+	description "Poolware 2465 (19xx)(Poolware)"
+	rom ( name "Poolware 2465 (19xx)(Poolware).st" size 737280 crc c535e887 md5 ff846a67b6068434426994db801dc75c )
+)
+
+game (
+	name "Poolware 2467 (19xx)(Poolware)"
+	description "Poolware 2467 (19xx)(Poolware)"
+	rom ( name "Poolware 2467 (19xx)(Poolware).st" size 737280 crc 3b83eda4 md5 db8869b448f9ccb536a42ee77dd235e4 )
+)
+
+game (
+	name "Poolware 2468 (19xx)(Poolware)"
+	description "Poolware 2468 (19xx)(Poolware)"
+	rom ( name "Poolware 2468 (19xx)(Poolware).st" size 737280 crc 9b38776f md5 a80a46de17f2efe8e8718027df1ecf48 )
+)
+
+game (
+	name "Poolware 2469 (19xx)(Poolware)"
+	description "Poolware 2469 (19xx)(Poolware)"
+	rom ( name "Poolware 2469 (19xx)(Poolware).st" size 737280 crc 9ecf5538 md5 35af636e3d5fbc9bc56fb75799938172 )
+)
+
+game (
+	name "Poolware 2470 (19xx)(Poolware)"
+	description "Poolware 2470 (19xx)(Poolware)"
+	rom ( name "Poolware 2470 (19xx)(Poolware).st" size 737280 crc 1ecc21b8 md5 ca98f97fb78f77f8d3689827c0365536 )
+)
+
+game (
+	name "Poolware 2471 (19xx)(Poolware)"
+	description "Poolware 2471 (19xx)(Poolware)"
+	rom ( name "Poolware 2471 (19xx)(Poolware).st" size 737280 crc cff505de md5 abed570b5ae77757e4f951ebcce7ecbe )
+)
+
+game (
+	name "Poolware 2472 (19xx)(Poolware)"
+	description "Poolware 2472 (19xx)(Poolware)"
+	rom ( name "Poolware 2472 (19xx)(Poolware).st" size 737280 crc d2a67d51 md5 b2bf70f0101f954d00af9d9cbe7e894a )
+)
+
+game (
+	name "Poolware 2473 (19xx)(Poolware)"
+	description "Poolware 2473 (19xx)(Poolware)"
+	rom ( name "Poolware 2473 (19xx)(Poolware).st" size 737280 crc 40039fb2 md5 fa181df554acfc7b105c22eb9333eb96 )
+)
+
+game (
+	name "Poolware 2474 (19xx)(Poolware)"
+	description "Poolware 2474 (19xx)(Poolware)"
+	rom ( name "Poolware 2474 (19xx)(Poolware).st" size 737280 crc 3dc25303 md5 19db8e7a93f27eff038c31f11a0c1d31 )
+)
+
+game (
+	name "Poolware 2475 (19xx)(Poolware)"
+	description "Poolware 2475 (19xx)(Poolware)"
+	rom ( name "Poolware 2475 (19xx)(Poolware).st" size 737280 crc fda93c89 md5 d6c03ca87808f5b8441a8d20be17472f )
+)
+
+game (
+	name "Poolware 2476 (19xx)(Poolware)"
+	description "Poolware 2476 (19xx)(Poolware)"
+	rom ( name "Poolware 2476 (19xx)(Poolware).st" size 737280 crc f9fd1371 md5 b72dfc0c0f727196cee3e4f2f51a8020 )
+)
+
+game (
+	name "Poolware 2477 (19xx)(Poolware)"
+	description "Poolware 2477 (19xx)(Poolware)"
+	rom ( name "Poolware 2477 (19xx)(Poolware).st" size 737280 crc f674145b md5 133bd796f6be95329a5b5dbfdd0e3c49 )
+)
+
+game (
+	name "Poolware 2478 (19xx)(Poolware)"
+	description "Poolware 2478 (19xx)(Poolware)"
+	rom ( name "Poolware 2478 (19xx)(Poolware).st" size 737280 crc 2c8c93b8 md5 5c7cf57a312cb300a144434b27b42218 )
+)
+
+game (
+	name "Poolware 2479 (19xx)(Poolware)"
+	description "Poolware 2479 (19xx)(Poolware)"
+	rom ( name "Poolware 2479 (19xx)(Poolware).st" size 737280 crc c298bb1a md5 89fb3485ea508ca43858b88b19481d1d )
+)
+
+game (
+	name "Poolware 2480 (19xx)(Poolware)"
+	description "Poolware 2480 (19xx)(Poolware)"
+	rom ( name "Poolware 2480 (19xx)(Poolware).st" size 737280 crc 51f54a4c md5 e4d9318fb56c2ebd56a20c9db00cb48c )
+)
+
+game (
+	name "Poolware 2481 (19xx)(Poolware)"
+	description "Poolware 2481 (19xx)(Poolware)"
+	rom ( name "Poolware 2481 (19xx)(Poolware).st" size 737280 crc fcbe3048 md5 99e7b5d146a5a838051b8c4e77786b4f )
+)
+
+game (
+	name "Poolware 2482 (19xx)(Poolware)"
+	description "Poolware 2482 (19xx)(Poolware)"
+	rom ( name "Poolware 2482 (19xx)(Poolware).st" size 737280 crc 1aa6ea6d md5 38c499371bf33345be8b51ef595a604e )
+)
+
+game (
+	name "Poolware 2483 (19xx)(Poolware)"
+	description "Poolware 2483 (19xx)(Poolware)"
+	rom ( name "Poolware 2483 (19xx)(Poolware).st" size 737280 crc c809acad md5 21d6ff971a2bcd77d881a276d546797a )
+)
+
+game (
+	name "Poolware 2484 (19xx)(Poolware)"
+	description "Poolware 2484 (19xx)(Poolware)"
+	rom ( name "Poolware 2484 (19xx)(Poolware).st" size 737280 crc c003ca9e md5 33675055683953c3d8f65f623b5fd04f )
+)
+
+game (
+	name "Poolware 2485 (19xx)(Poolware)"
+	description "Poolware 2485 (19xx)(Poolware)"
+	rom ( name "Poolware 2485 (19xx)(Poolware).st" size 737280 crc 7c12e32f md5 a2d03f99ce686fcc57df9ce93c693d8b )
+)
+
+game (
+	name "Poolware 2486 (19xx)(Poolware)"
+	description "Poolware 2486 (19xx)(Poolware)"
+	rom ( name "Poolware 2486 (19xx)(Poolware).st" size 737280 crc 9131d662 md5 134b411b4e9fce6f6545b816f8288bf5 )
+)
+
+game (
+	name "Poolware 2487 (19xx)(Poolware)"
+	description "Poolware 2487 (19xx)(Poolware)"
+	rom ( name "Poolware 2487 (19xx)(Poolware).st" size 737280 crc 2f601664 md5 cf3c94159a889924a156074cbb1d5d52 )
+)
+
+game (
+	name "Poolware 2488 (19xx)(Poolware)"
+	description "Poolware 2488 (19xx)(Poolware)"
+	rom ( name "Poolware 2488 (19xx)(Poolware).st" size 737280 crc 085be034 md5 246e132d2cc712be4279e5790680605d )
+)
+
+game (
+	name "Poolware 2490 (19xx)(Poolware)"
+	description "Poolware 2490 (19xx)(Poolware)"
+	rom ( name "Poolware 2490 (19xx)(Poolware).st" size 737280 crc 3876d660 md5 c9090777dac9690c8394d19d76583301 )
+)
+
+game (
+	name "Poolware 2491 (19xx)(Poolware)"
+	description "Poolware 2491 (19xx)(Poolware)"
+	rom ( name "Poolware 2491 (19xx)(Poolware).st" size 737280 crc 33bbbf40 md5 7b412d0164b8ae46fbfb39d9ccdc19cc )
+)
+
+game (
+	name "Poolware 2492 (19xx)(Poolware)"
+	description "Poolware 2492 (19xx)(Poolware)"
+	rom ( name "Poolware 2492 (19xx)(Poolware).st" size 737280 crc 5dfd464e md5 931aa86178415e7f37ac15aba3ec9ed0 )
+)
+
+game (
+	name "Poolware 2493 (19xx)(Poolware)"
+	description "Poolware 2493 (19xx)(Poolware)"
+	rom ( name "Poolware 2493 (19xx)(Poolware).st" size 737280 crc d920e7de md5 e926b9237d8bc6b41f3c1ffbd7dcfa3e )
+)
+
+game (
+	name "Poolware 2494 (19xx)(Poolware)"
+	description "Poolware 2494 (19xx)(Poolware)"
+	rom ( name "Poolware 2494 (19xx)(Poolware).st" size 737280 crc 0925bb3d md5 7aaa34620ade5acd2599993347aa3ef1 )
+)
+
+game (
+	name "Poolware 2495 (19xx)(Poolware)"
+	description "Poolware 2495 (19xx)(Poolware)"
+	rom ( name "Poolware 2495 (19xx)(Poolware).st" size 737280 crc 5378b10b md5 6dfaa41e7a9321c847477cb30b9de667 )
+)
+
+game (
+	name "Poolware 2496 (19xx)(Poolware)"
+	description "Poolware 2496 (19xx)(Poolware)"
+	rom ( name "Poolware 2496 (19xx)(Poolware).st" size 737280 crc 9cde6e71 md5 cf32ccb73d17237d555dcbfa12331a26 )
+)
+
+game (
+	name "Poolware 2497 (19xx)(Poolware)"
+	description "Poolware 2497 (19xx)(Poolware)"
+	rom ( name "Poolware 2497 (19xx)(Poolware).st" size 737280 crc 37d22318 md5 8e2330958006d5717abfee2bc88ac836 )
+)
+
+game (
+	name "Poolware 2498 (19xx)(Poolware)"
+	description "Poolware 2498 (19xx)(Poolware)"
+	rom ( name "Poolware 2498 (19xx)(Poolware).st" size 737280 crc f7fdb58e md5 cad028e1ba1031b05da897561921d1ce )
+)
+
+game (
+	name "Poolware 2499 (19xx)(Poolware)"
+	description "Poolware 2499 (19xx)(Poolware)"
+	rom ( name "Poolware 2499 (19xx)(Poolware).st" size 737280 crc bdc3e669 md5 884a81d71366ebb9fc15bbe7fb2e9958 )
+)
+
+game (
+	name "Poolware 2500 (19xx)(Poolware)"
+	description "Poolware 2500 (19xx)(Poolware)"
+	rom ( name "Poolware 2500 (19xx)(Poolware).st" size 737280 crc 61cc96fc md5 c919b462a091691dd6b9b618af7dbf5e )
+)
+
+game (
+	name "Poolware 2501 (19xx)(Poolware)"
+	description "Poolware 2501 (19xx)(Poolware)"
+	rom ( name "Poolware 2501 (19xx)(Poolware).st" size 737280 crc 0e039c74 md5 d1d84a55dcd30339044e00d81386c4ea )
+)
+
+game (
+	name "Poolware 2502 (19xx)(Poolware)"
+	description "Poolware 2502 (19xx)(Poolware)"
+	rom ( name "Poolware 2502 (19xx)(Poolware).st" size 737280 crc 2edd358d md5 998323c46ff713cdc48deab9032b74d2 )
+)
+
+game (
+	name "Poolware 2503 (19xx)(Poolware)"
+	description "Poolware 2503 (19xx)(Poolware)"
+	rom ( name "Poolware 2503 (19xx)(Poolware).st" size 737280 crc 79842cc5 md5 e90fba5414f59d04be154f61f8098699 )
+)
+
+game (
+	name "Poolware 2504 (19xx)(Poolware)"
+	description "Poolware 2504 (19xx)(Poolware)"
+	rom ( name "Poolware 2504 (19xx)(Poolware).st" size 737280 crc f1bb76a7 md5 2bf17e39a1801be037a162c733b24072 )
+)
+
+game (
+	name "Poolware 2505 (19xx)(Poolware)"
+	description "Poolware 2505 (19xx)(Poolware)"
+	rom ( name "Poolware 2505 (19xx)(Poolware).st" size 737280 crc 692fadd7 md5 61258f3ec57cf54dba4910a6106863ff )
+)
+
+game (
+	name "Poolware 2506 (19xx)(Poolware)"
+	description "Poolware 2506 (19xx)(Poolware)"
+	rom ( name "Poolware 2506 (19xx)(Poolware).st" size 737280 crc 8158b935 md5 d57f2490ac251f3a1e3cec4be54422d1 )
+)
+
+game (
+	name "Poolware 2507 (19xx)(Poolware)"
+	description "Poolware 2507 (19xx)(Poolware)"
+	rom ( name "Poolware 2507 (19xx)(Poolware).st" size 737280 crc c106382d md5 087fd0a727c5b7a9d5f06ab672f7e36a )
+)
+
+game (
+	name "Poolware 2508 (19xx)(Poolware)"
+	description "Poolware 2508 (19xx)(Poolware)"
+	rom ( name "Poolware 2508 (19xx)(Poolware).st" size 737280 crc 0735cba4 md5 d3a5c496c59a53e020fd127ce709a4e9 )
+)
+
+game (
+	name "Poolware 2509 (19xx)(Poolware)"
+	description "Poolware 2509 (19xx)(Poolware)"
+	rom ( name "Poolware 2509 (19xx)(Poolware).st" size 737280 crc 0383d8a5 md5 28dcaf1106db36d15ad44ea9a2aa8709 )
+)
+
+game (
+	name "Poolware 2510 (19xx)(Poolware)"
+	description "Poolware 2510 (19xx)(Poolware)"
+	rom ( name "Poolware 2510 (19xx)(Poolware).st" size 737280 crc 2d77d827 md5 ef8c9a2951f9580b61d168938714fdc4 )
+)
+
+game (
+	name "Poolware 2511 (19xx)(Poolware)"
+	description "Poolware 2511 (19xx)(Poolware)"
+	rom ( name "Poolware 2511 (19xx)(Poolware).st" size 737280 crc 2e266cc8 md5 e6b754fa7dbdf10afb84c45db8bb9761 )
+)
+
+game (
+	name "Poolware 2514 (19xx)(Poolware)"
+	description "Poolware 2514 (19xx)(Poolware)"
+	rom ( name "Poolware 2514 (19xx)(Poolware).st" size 819200 crc 66a17ec8 md5 2079d5d2930945fbfb42d9f2d09d099f )
+)
+
+game (
+	name "Poolware 2516 (19xx)(Poolware)"
+	description "Poolware 2516 (19xx)(Poolware)"
+	rom ( name "Poolware 2516 (19xx)(Poolware).st" size 737280 crc daff62ae md5 bf90dd664e02feab35cbf27fb70647ae )
+)
+
+game (
+	name "Poolware 2517 (19xx)(Poolware)"
+	description "Poolware 2517 (19xx)(Poolware)"
+	rom ( name "Poolware 2517 (19xx)(Poolware).st" size 737280 crc cff0bd10 md5 9be1fa101d5f239e9beab619e4509a29 )
+)
+
+game (
+	name "Poolware 2518 (19xx)(Poolware)"
+	description "Poolware 2518 (19xx)(Poolware)"
+	rom ( name "Poolware 2518 (19xx)(Poolware).st" size 737280 crc 8c7a9612 md5 2a00558e1cf4233a51bb8178f5e82e51 )
+)
+
+game (
+	name "Poolware 2519 (19xx)(Poolware)"
+	description "Poolware 2519 (19xx)(Poolware)"
+	rom ( name "Poolware 2519 (19xx)(Poolware).st" size 737280 crc 5bf0666c md5 5b820a5d8743b13b0c240e4aa835d6d5 )
+)
+
+game (
+	name "Poolware 2520 (19xx)(Poolware)"
+	description "Poolware 2520 (19xx)(Poolware)"
+	rom ( name "Poolware 2520 (19xx)(Poolware).st" size 737280 crc a43bd0d9 md5 ae4ce447222e93209b2b8422e5df6cb8 )
+)
+
+game (
+	name "Poolware 2521 (19xx)(Poolware)"
+	description "Poolware 2521 (19xx)(Poolware)"
+	rom ( name "Poolware 2521 (19xx)(Poolware).st" size 737280 crc 0b7f77fc md5 49bb10ab31cd6866a3ca71a599f0dc61 )
+)
+
+game (
+	name "Poolware 2522 (19xx)(Poolware)"
+	description "Poolware 2522 (19xx)(Poolware)"
+	rom ( name "Poolware 2522 (19xx)(Poolware).st" size 737280 crc aab0deb2 md5 dec48ddb50550b403c14071bb4f37d69 )
+)
+
+game (
+	name "Poolware 2523 (19xx)(Poolware)"
+	description "Poolware 2523 (19xx)(Poolware)"
+	rom ( name "Poolware 2523 (19xx)(Poolware).st" size 737280 crc f6f6d90f md5 e6429e38a41c77cce5c46da2a968122c )
+)
+
+game (
+	name "Poolware 2524 (19xx)(Poolware)"
+	description "Poolware 2524 (19xx)(Poolware)"
+	rom ( name "Poolware 2524 (19xx)(Poolware).st" size 737280 crc 16051b76 md5 cfeda89b2f59a264bc1ada7745b26879 )
+)
+
+game (
+	name "Poolware 2526 (19xx)(Poolware)"
+	description "Poolware 2526 (19xx)(Poolware)"
+	rom ( name "Poolware 2526 (19xx)(Poolware).st" size 737280 crc d1d77d60 md5 5f0fb4169f1a1d7f7fac56c30e8db9c9 )
+)
+
+game (
+	name "Poolware 2527 (19xx)(Poolware)"
+	description "Poolware 2527 (19xx)(Poolware)"
+	rom ( name "Poolware 2527 (19xx)(Poolware).st" size 737280 crc d0210509 md5 c9b6d41021ff418068d28c14889511ac )
+)
+
+game (
+	name "Poolware 2528 (19xx)(Poolware)"
+	description "Poolware 2528 (19xx)(Poolware)"
+	rom ( name "Poolware 2528 (19xx)(Poolware).st" size 737280 crc 600ccba0 md5 e3480f26ace4fec6c41cc0596d6da048 )
+)
+
+game (
+	name "Poolware 2529 (19xx)(Poolware)"
+	description "Poolware 2529 (19xx)(Poolware)"
+	rom ( name "Poolware 2529 (19xx)(Poolware).st" size 737280 crc 3946f4f9 md5 473b94dceed660f9b30b27346f0c96c6 )
+)
+
+game (
+	name "Poolware 2530 (19xx)(Poolware)"
+	description "Poolware 2530 (19xx)(Poolware)"
+	rom ( name "Poolware 2530 (19xx)(Poolware).st" size 737280 crc 0d363afb md5 0c8ee2158764b5cbd8e1bc42aaf84280 )
+)
+
+game (
+	name "Poolware 2531 (19xx)(Poolware)"
+	description "Poolware 2531 (19xx)(Poolware)"
+	rom ( name "Poolware 2531 (19xx)(Poolware).st" size 737280 crc 58c38f57 md5 187d0fe322cdca176cdc458f83cd7e35 )
+)
+
+game (
+	name "Poolware 2532 (19xx)(Poolware)"
+	description "Poolware 2532 (19xx)(Poolware)"
+	rom ( name "Poolware 2532 (19xx)(Poolware).st" size 737280 crc e9086723 md5 82eeebf67c964f44be19c58bc54128e9 )
+)
+
+game (
+	name "Poolware 2533 (19xx)(Poolware)"
+	description "Poolware 2533 (19xx)(Poolware)"
+	rom ( name "Poolware 2533 (19xx)(Poolware).st" size 737280 crc cf278896 md5 6216b8ab3b19e91c0a0daea209c1b1dc )
+)
+
+game (
+	name "Poolware 2534 (19xx)(Poolware)"
+	description "Poolware 2534 (19xx)(Poolware)"
+	rom ( name "Poolware 2534 (19xx)(Poolware).st" size 737280 crc 9f735a24 md5 63b80cc565f9853f80143a7ef652b20e )
+)
+
+game (
+	name "Poolware 2535 (19xx)(Poolware)"
+	description "Poolware 2535 (19xx)(Poolware)"
+	rom ( name "Poolware 2535 (19xx)(Poolware).st" size 737280 crc 86486649 md5 e558d970e2523a1362e33c2853fbe819 )
+)
+
+game (
+	name "Poolware 2536 (19xx)(Poolware)"
+	description "Poolware 2536 (19xx)(Poolware)"
+	rom ( name "Poolware 2536 (19xx)(Poolware).st" size 737280 crc 174943bb md5 3cc74db5a9fe1360000d0b118f695a81 )
+)
+
+game (
+	name "Poolware 2537 (19xx)(Poolware)"
+	description "Poolware 2537 (19xx)(Poolware)"
+	rom ( name "Poolware 2537 (19xx)(Poolware).st" size 737280 crc 8d2770a7 md5 7721a82342c9cff548214215fb146046 )
+)
+
+game (
+	name "Poolware 2538 (19xx)(Poolware)"
+	description "Poolware 2538 (19xx)(Poolware)"
+	rom ( name "Poolware 2538 (19xx)(Poolware).st" size 737280 crc 882565ca md5 ceed32c7f642cd5ffc309b5e289349f9 )
+)
+
+game (
+	name "Poolware 2539 (19xx)(Poolware)"
+	description "Poolware 2539 (19xx)(Poolware)"
+	rom ( name "Poolware 2539 (19xx)(Poolware).st" size 737280 crc e44737ae md5 928c5156e053fc29eeea703e96a68bcf )
+)
+
+game (
+	name "Poolware 2540 (19xx)(Poolware)"
+	description "Poolware 2540 (19xx)(Poolware)"
+	rom ( name "Poolware 2540 (19xx)(Poolware).st" size 737280 crc 985f6f11 md5 d29ddb8df3b96b3864f94f4370883e56 )
+)
+
+game (
+	name "Poolware 2542 (19xx)(Poolware)"
+	description "Poolware 2542 (19xx)(Poolware)"
+	rom ( name "Poolware 2542 (19xx)(Poolware).st" size 737280 crc 272f3112 md5 d0eabbc8c0288151c78698fb8a8ffe18 )
+)
+
+game (
+	name "Poolware 2545 (19xx)(Poolware)"
+	description "Poolware 2545 (19xx)(Poolware)"
+	rom ( name "Poolware 2545 (19xx)(Poolware).st" size 737280 crc 203d1ccb md5 247e7dabf3923e43e80e4139629a2253 )
+)
+
+game (
+	name "Poolware 2546 (19xx)(Poolware)"
+	description "Poolware 2546 (19xx)(Poolware)"
+	rom ( name "Poolware 2546 (19xx)(Poolware).st" size 737280 crc 596ee6e6 md5 0dc7e95f7bc83d18762096167da14a2d )
+)
+
+game (
+	name "Poolware 2547 (19xx)(Poolware)"
+	description "Poolware 2547 (19xx)(Poolware)"
+	rom ( name "Poolware 2547 (19xx)(Poolware).st" size 737280 crc 01f4ef52 md5 eca3d45d6b5d922526c844d69c3dd1e3 )
+)
+
+game (
+	name "Poolware 2548 (19xx)(Poolware)"
+	description "Poolware 2548 (19xx)(Poolware)"
+	rom ( name "Poolware 2548 (19xx)(Poolware).st" size 737280 crc e0fd5195 md5 cdaa8fe003af851e0e62c9cba42a2191 )
+)
+
+game (
+	name "Poolware 2549 (19xx)(Poolware)"
+	description "Poolware 2549 (19xx)(Poolware)"
+	rom ( name "Poolware 2549 (19xx)(Poolware).st" size 737280 crc c0968ce5 md5 f55223418cf4622bf152907eb6432841 )
+)
+
+game (
+	name "Poolware 2550 (19xx)(Poolware)"
+	description "Poolware 2550 (19xx)(Poolware)"
+	rom ( name "Poolware 2550 (19xx)(Poolware).st" size 737280 crc 052997b7 md5 710edea047204cee46299129fb95171a )
+)
+
+game (
+	name "Poolware 2551 (19xx)(Poolware)"
+	description "Poolware 2551 (19xx)(Poolware)"
+	rom ( name "Poolware 2551 (19xx)(Poolware).st" size 737280 crc 0a265d7c md5 7f740abedf1d1c69d0622eccd7c31c0d )
+)
+
+game (
+	name "Poolware 2553 (19xx)(Poolware)"
+	description "Poolware 2553 (19xx)(Poolware)"
+	rom ( name "Poolware 2553 (19xx)(Poolware).st" size 819200 crc 97dc22a1 md5 415be71774e8d495a77043ecc442ebc4 )
+)
+
+game (
+	name "Poolware 2554 (19xx)(Poolware)"
+	description "Poolware 2554 (19xx)(Poolware)"
+	rom ( name "Poolware 2554 (19xx)(Poolware).st" size 737280 crc a86296fc md5 d4607e63266d66ec3303d3a440606b49 )
+)
+
+game (
+	name "Poolware 2555 (19xx)(Poolware)"
+	description "Poolware 2555 (19xx)(Poolware)"
+	rom ( name "Poolware 2555 (19xx)(Poolware).st" size 737280 crc 996877d3 md5 bd92130ab24bb3ac6bb41a6b89c41836 )
+)
+
+game (
+	name "Poolware 2556 (19xx)(Poolware)"
+	description "Poolware 2556 (19xx)(Poolware)"
+	rom ( name "Poolware 2556 (19xx)(Poolware).st" size 737280 crc 099450c6 md5 9c9d09a80251787d6acefc2c1d102371 )
+)
+
+game (
+	name "Poolware 2557 (19xx)(Poolware)"
+	description "Poolware 2557 (19xx)(Poolware)"
+	rom ( name "Poolware 2557 (19xx)(Poolware).st" size 737280 crc f6f1ed9e md5 cb22cfacb86aa19a6b55498b702436ac )
+)
+
+game (
+	name "Poolware 2558 (19xx)(Poolware)"
+	description "Poolware 2558 (19xx)(Poolware)"
+	rom ( name "Poolware 2558 (19xx)(Poolware).st" size 737280 crc 943e59d5 md5 df21062dd61c418c9adc3a7ff4fe154d )
+)
+
+game (
+	name "Poolware 2559 (19xx)(Poolware)"
+	description "Poolware 2559 (19xx)(Poolware)"
+	rom ( name "Poolware 2559 (19xx)(Poolware).st" size 737280 crc 79bfd9e2 md5 d9fe3de0d9fa6328bd8bda095c642a39 )
+)
+
+game (
+	name "Poolware 2560 (19xx)(Poolware)"
+	description "Poolware 2560 (19xx)(Poolware)"
+	rom ( name "Poolware 2560 (19xx)(Poolware).st" size 737280 crc db410ab4 md5 5b91b5d59e9d8a3f572c26f093c2b887 )
+)

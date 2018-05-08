@@ -1,0 +1,709 @@
+clrmamepro (
+	name "Atari ST - Collections - Atari Magazin"
+	description "Atari ST - Collections - Atari Magazin (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Atari Magazin"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Atari Magazin 001 (19xx)(Atari Magazin)"
+	description "Atari Magazin 001 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 001 (19xx)(Atari Magazin).st" size 737280 crc 46ca05aa md5 85440e4a209d1e61195338b858306d5c )
+)
+
+game (
+	name "Atari Magazin 002 (19xx)(Atari Magazin)"
+	description "Atari Magazin 002 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 002 (19xx)(Atari Magazin).st" size 737280 crc 46bfe9b5 md5 b2baae4b25231ad9157b7c80248a9a0b )
+)
+
+game (
+	name "Atari Magazin 003 (19xx)(Atari Magazin)"
+	description "Atari Magazin 003 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 003 (19xx)(Atari Magazin).st" size 737280 crc f9831927 md5 712453a2275ef307cd6b69ae45a6de9f )
+)
+
+game (
+	name "Atari Magazin 004 (19xx)(Atari Magazin)"
+	description "Atari Magazin 004 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 004 (19xx)(Atari Magazin).st" size 737280 crc f2888f4d md5 5efd1b88d870ba474cbe5d681cb9b76b )
+)
+
+game (
+	name "Atari Magazin 005 (19xx)(Atari Magazin)"
+	description "Atari Magazin 005 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 005 (19xx)(Atari Magazin).st" size 737280 crc 32975c3e md5 6ca851f26ea04ba08f76e89737c4ed23 )
+)
+
+game (
+	name "Atari Magazin 006 (19xx)(Atari Magazin)"
+	description "Atari Magazin 006 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 006 (19xx)(Atari Magazin).st" size 737280 crc 05bbecae md5 2cc425e1a6aa3f9d5e068523fce715d3 )
+)
+
+game (
+	name "Atari Magazin 007 (19xx)(Atari Magazin)"
+	description "Atari Magazin 007 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 007 (19xx)(Atari Magazin).st" size 737280 crc 7755cb7f md5 bf4b51a57e59e2f6b14cb29b3ca54995 )
+)
+
+game (
+	name "Atari Magazin 008 (19xx)(Atari Magazin)"
+	description "Atari Magazin 008 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 008 (19xx)(Atari Magazin).st" size 737280 crc 97e22376 md5 3ad54c658633f86061d432044383dd11 )
+)
+
+game (
+	name "Atari Magazin 009 (19xx)(Atari Magazin)"
+	description "Atari Magazin 009 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 009 (19xx)(Atari Magazin).st" size 737280 crc eb7ef0a6 md5 eaafde07a0d81734a81ecf0ec0ad35b6 )
+)
+
+game (
+	name "Atari Magazin 010 (19xx)(Atari Magazin)"
+	description "Atari Magazin 010 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 010 (19xx)(Atari Magazin).st" size 737280 crc b221f832 md5 c1b1289ad84ebbc4b0b4336d78e32ac5 )
+)
+
+game (
+	name "Atari Magazin 011 (19xx)(Atari Magazin)"
+	description "Atari Magazin 011 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 011 (19xx)(Atari Magazin).st" size 737280 crc ad625e73 md5 cf006b3a8a02b96000db4ff421cbc7e0 )
+)
+
+game (
+	name "Atari Magazin 012 (19xx)(Atari Magazin)"
+	description "Atari Magazin 012 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 012 (19xx)(Atari Magazin).st" size 737280 crc 47818e02 md5 6d560812cdbc251f5e1449bffabdc178 )
+)
+
+game (
+	name "Atari Magazin 013 (19xx)(Atari Magazin)"
+	description "Atari Magazin 013 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 013 (19xx)(Atari Magazin).st" size 737280 crc 368e39da md5 1f9633618fa277718961e70efdbcda1f )
+)
+
+game (
+	name "Atari Magazin 014 (19xx)(Atari Magazin)"
+	description "Atari Magazin 014 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 014 (19xx)(Atari Magazin).st" size 737280 crc 933dc827 md5 9fad5ad02debe0fcc2f08a5d7247b005 )
+)
+
+game (
+	name "Atari Magazin 015 (19xx)(Atari Magazin)"
+	description "Atari Magazin 015 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 015 (19xx)(Atari Magazin).st" size 737280 crc bd680135 md5 63e4721c022fd2b4b09bd94ba81f415f )
+)
+
+game (
+	name "Atari Magazin 016 (19xx)(Atari Magazin)"
+	description "Atari Magazin 016 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 016 (19xx)(Atari Magazin).st" size 737280 crc 3ce6945e md5 0f0cc17341cbf1fd46c51153d44e884c )
+)
+
+game (
+	name "Atari Magazin 017 (19xx)(Atari Magazin)"
+	description "Atari Magazin 017 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 017 (19xx)(Atari Magazin).st" size 737280 crc 56adacfe md5 219855feef7882adcfecb274fc581965 )
+)
+
+game (
+	name "Atari Magazin 018 (19xx)(Atari Magazin)"
+	description "Atari Magazin 018 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 018 (19xx)(Atari Magazin).st" size 737280 crc c3975c90 md5 a26f8e5006d9da264078a35a2598711c )
+)
+
+game (
+	name "Atari Magazin 019 (19xx)(Atari Magazin)"
+	description "Atari Magazin 019 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 019 (19xx)(Atari Magazin).st" size 737280 crc 42946753 md5 476aa241df87b56648154474eaced92e )
+)
+
+game (
+	name "Atari Magazin 020 (19xx)(Atari Magazin)"
+	description "Atari Magazin 020 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 020 (19xx)(Atari Magazin).st" size 737280 crc b1743331 md5 528a788540b663d09f09fb4d107e02ce )
+)
+
+game (
+	name "Atari Magazin 021 (19xx)(Atari Magazin)"
+	description "Atari Magazin 021 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 021 (19xx)(Atari Magazin).st" size 737280 crc aa730c41 md5 4b15375a1f97e166d3e234d90402da27 )
+)
+
+game (
+	name "Atari Magazin 022 (19xx)(Atari Magazin)"
+	description "Atari Magazin 022 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 022 (19xx)(Atari Magazin).st" size 737280 crc ad89d3f6 md5 fc37cc52ada132301f19067db42660fb )
+)
+
+game (
+	name "Atari Magazin 023 (19xx)(Atari Magazin)"
+	description "Atari Magazin 023 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 023 (19xx)(Atari Magazin).st" size 737280 crc 7ba660ec md5 8b6fedbd44f8d2277c5c7d34b1198f4c )
+)
+
+game (
+	name "Atari Magazin 024 (19xx)(Atari Magazin)"
+	description "Atari Magazin 024 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 024 (19xx)(Atari Magazin).st" size 737280 crc 90ec18d4 md5 d19fe2c44467e8c47e7986e7cf9c0a69 )
+)
+
+game (
+	name "Atari Magazin 025 (19xx)(Atari Magazin)"
+	description "Atari Magazin 025 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 025 (19xx)(Atari Magazin).st" size 737280 crc b9a9c370 md5 ba37730a23899f55f90722b703770d69 )
+)
+
+game (
+	name "Atari Magazin 026 (19xx)(Atari Magazin)"
+	description "Atari Magazin 026 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 026 (19xx)(Atari Magazin).st" size 737280 crc 9ecc5be6 md5 764e66b37418888e22bb98b367718fc4 )
+)
+
+game (
+	name "Atari Magazin 026 (19xx)(Atari Magazin)[a]"
+	description "Atari Magazin 026 (19xx)(Atari Magazin)[a]"
+	rom ( name "Atari Magazin 026 (19xx)(Atari Magazin)[a].st" size 737280 crc 4be56905 md5 4eef94de6c8dcfa349758b14037c7793 )
+)
+
+game (
+	name "Atari Magazin 027 (19xx)(Atari Magazin)"
+	description "Atari Magazin 027 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 027 (19xx)(Atari Magazin).st" size 737280 crc 7b8fd9c0 md5 80e63901e648e870dcb12cbd854a379f )
+)
+
+game (
+	name "Atari Magazin 028 (19xx)(Atari Magazin)"
+	description "Atari Magazin 028 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 028 (19xx)(Atari Magazin).st" size 737280 crc 6217d5b5 md5 4f4fb4eb0cdbfb53eab252a2cede2f32 )
+)
+
+game (
+	name "Atari Magazin 029 (19xx)(Atari Magazin)"
+	description "Atari Magazin 029 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 029 (19xx)(Atari Magazin).st" size 737280 crc 1d0cee79 md5 b5077226f45e8d9ca31e3e1165691d37 )
+)
+
+game (
+	name "Atari Magazin 030 (19xx)(Atari Magazin)"
+	description "Atari Magazin 030 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 030 (19xx)(Atari Magazin).st" size 737280 crc 89fe18ac md5 0d7d7bd3594f5f5cc732befab2dfef86 )
+)
+
+game (
+	name "Atari Magazin 031 (19xx)(Atari Magazin)"
+	description "Atari Magazin 031 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 031 (19xx)(Atari Magazin).st" size 737280 crc d7fb2235 md5 d85ba53c4f385f4af4d3fe6d8ffc9ef8 )
+)
+
+game (
+	name "Atari Magazin 032 (19xx)(Atari Magazin)"
+	description "Atari Magazin 032 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 032 (19xx)(Atari Magazin).st" size 737280 crc 423f3936 md5 084bb1f28e55fb28ea9db10deb83e3e4 )
+)
+
+game (
+	name "Atari Magazin 033 (19xx)(Atari Magazin)"
+	description "Atari Magazin 033 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 033 (19xx)(Atari Magazin).st" size 737280 crc 66b35ad3 md5 2a358afc96fbf9e380e6ba71b048b855 )
+)
+
+game (
+	name "Atari Magazin 034 (19xx)(Atari Magazin)"
+	description "Atari Magazin 034 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 034 (19xx)(Atari Magazin).st" size 737280 crc aef1dec9 md5 5642d34e8972b376830a8715247f157c )
+)
+
+game (
+	name "Atari Magazin 035 (19xx)(Atari Magazin)"
+	description "Atari Magazin 035 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 035 (19xx)(Atari Magazin).st" size 368640 crc 599a2b95 md5 acf6f6d98d78bf7bb9486ff133748251 )
+)
+
+game (
+	name "Atari Magazin 036 (19xx)(Atari Magazin)"
+	description "Atari Magazin 036 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 036 (19xx)(Atari Magazin).st" size 737280 crc 90136813 md5 236a65ce254daa1470f1e9423149d9df )
+)
+
+game (
+	name "Atari Magazin 037 (19xx)(Atari Magazin)"
+	description "Atari Magazin 037 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 037 (19xx)(Atari Magazin).st" size 737280 crc 4f490fa0 md5 13449d02d819c99fdbbd943a7097b864 )
+)
+
+game (
+	name "Atari Magazin 038 (19xx)(Atari Magazin)"
+	description "Atari Magazin 038 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 038 (19xx)(Atari Magazin).st" size 737280 crc 8f6b14ee md5 d6237a7f81a89e9320ec4857ac40de4a )
+)
+
+game (
+	name "Atari Magazin 039 (19xx)(Atari Magazin)"
+	description "Atari Magazin 039 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 039 (19xx)(Atari Magazin).st" size 737280 crc 71f8b1d0 md5 bbe62d71e34c14d2ff31e0916db83b23 )
+)
+
+game (
+	name "Atari Magazin 040 (19xx)(Atari Magazin)"
+	description "Atari Magazin 040 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 040 (19xx)(Atari Magazin).st" size 737280 crc 23d1efe6 md5 7d3e32657503e320599205b390f47e5b )
+)
+
+game (
+	name "Atari Magazin 041 (19xx)(Atari Magazin)"
+	description "Atari Magazin 041 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 041 (19xx)(Atari Magazin).st" size 737280 crc 244ed345 md5 1a061338d8fdc512b5be53ff4a2c032d )
+)
+
+game (
+	name "Atari Magazin 042 (19xx)(Atari Magazin)"
+	description "Atari Magazin 042 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 042 (19xx)(Atari Magazin).st" size 737280 crc 8d36b89b md5 6236df9ebc639f1a0f80cc037247d17b )
+)
+
+game (
+	name "Atari Magazin 043 (19xx)(Atari Magazin)"
+	description "Atari Magazin 043 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 043 (19xx)(Atari Magazin).st" size 737280 crc 8e942393 md5 76c1b38e1eaa263bfcd4d5f88bd952c5 )
+)
+
+game (
+	name "Atari Magazin 044 (19xx)(Atari Magazin)"
+	description "Atari Magazin 044 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 044 (19xx)(Atari Magazin).st" size 737280 crc c5778012 md5 70abfdc4f486469e2839fc0f4d9f6e83 )
+)
+
+game (
+	name "Atari Magazin 045 (19xx)(Atari Magazin)"
+	description "Atari Magazin 045 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 045 (19xx)(Atari Magazin).st" size 737280 crc 1835b98f md5 08651512e028171f4e5fa8776d84cee4 )
+)
+
+game (
+	name "Atari Magazin 046 (19xx)(Atari Magazin)"
+	description "Atari Magazin 046 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 046 (19xx)(Atari Magazin).st" size 737280 crc 382971f6 md5 8c853c09107f4166d5b8ff2754fc2f6b )
+)
+
+game (
+	name "Atari Magazin 047 (19xx)(Atari Magazin)"
+	description "Atari Magazin 047 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 047 (19xx)(Atari Magazin).st" size 737280 crc 0a0ffe65 md5 ac8ad6a62f0cfa46c5a5087f7dc15e74 )
+)
+
+game (
+	name "Atari Magazin 048 (19xx)(Atari Magazin)"
+	description "Atari Magazin 048 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 048 (19xx)(Atari Magazin).st" size 737280 crc 22d39328 md5 2d502a906ac0e29c41f4f15472fca284 )
+)
+
+game (
+	name "Atari Magazin 049 (19xx)(Atari Magazin)"
+	description "Atari Magazin 049 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 049 (19xx)(Atari Magazin).st" size 737280 crc 6e3cc546 md5 8c29c932c936d1eb1197de93c52d5e34 )
+)
+
+game (
+	name "Atari Magazin 050 (19xx)(Atari Magazin)"
+	description "Atari Magazin 050 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 050 (19xx)(Atari Magazin).st" size 737280 crc 3eee33a2 md5 c13bb2979b519046f2215cccf655cc41 )
+)
+
+game (
+	name "Atari Magazin 051 (19xx)(Atari Magazin)"
+	description "Atari Magazin 051 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 051 (19xx)(Atari Magazin).st" size 737280 crc 53e6ea27 md5 d2043c45dfd2c8e3aec578a7f2611a7d )
+)
+
+game (
+	name "Atari Magazin 052 (19xx)(Atari Magazin)[u]"
+	description "Atari Magazin 052 (19xx)(Atari Magazin)[u]"
+	rom ( name "Atari Magazin 052 (19xx)(Atari Magazin)[u].st" size 737280 crc 0a832375 md5 535d787cb8aba9d4f95d9664efb4668f )
+)
+
+game (
+	name "Atari Magazin 053 (19xx)(Atari Magazin)"
+	description "Atari Magazin 053 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 053 (19xx)(Atari Magazin).st" size 737280 crc a5814b28 md5 7f0f58c05f3fbfe796f60178f3ad7a1e )
+)
+
+game (
+	name "Atari Magazin 054 (19xx)(Atari Magazin)"
+	description "Atari Magazin 054 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 054 (19xx)(Atari Magazin).st" size 737280 crc ad06fe10 md5 206abceab3ed2445c3aeeaf1851601da )
+)
+
+game (
+	name "Atari Magazin 055 (19xx)(Atari Magazin)"
+	description "Atari Magazin 055 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 055 (19xx)(Atari Magazin).st" size 737280 crc 5addb663 md5 3bd3bacfdc9abab57a654e5e0ff9cd7d )
+)
+
+game (
+	name "Atari Magazin 056 (19xx)(Atari Magazin)"
+	description "Atari Magazin 056 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 056 (19xx)(Atari Magazin).st" size 737280 crc 7bd54c99 md5 432c30ccb210ab77353f45cb100b6f39 )
+)
+
+game (
+	name "Atari Magazin 057 (19xx)(Atari Magazin)"
+	description "Atari Magazin 057 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 057 (19xx)(Atari Magazin).st" size 737280 crc 50edfe74 md5 07a4147c9c2d7dc7fb5e6d2b41542c7a )
+)
+
+game (
+	name "Atari Magazin 058 (19xx)(Atari Magazin)"
+	description "Atari Magazin 058 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 058 (19xx)(Atari Magazin).st" size 737280 crc c04e7fa2 md5 02359bb47c7c28a873ee2aede2523b7c )
+)
+
+game (
+	name "Atari Magazin 059 (19xx)(Atari Magazin)"
+	description "Atari Magazin 059 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 059 (19xx)(Atari Magazin).st" size 737280 crc 7c93eb46 md5 674b6b24b41ef465a6612d33c45f2d40 )
+)
+
+game (
+	name "Atari Magazin 060 (19xx)(Atari Magazin)"
+	description "Atari Magazin 060 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 060 (19xx)(Atari Magazin).st" size 737280 crc 80a2e810 md5 728c08609a53a83cef4f51aa8aa7160f )
+)
+
+game (
+	name "Atari Magazin 061 (19xx)(Atari Magazin)"
+	description "Atari Magazin 061 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 061 (19xx)(Atari Magazin).st" size 737280 crc b328a153 md5 f4e89b4b94eccc01f5fabeba3655747f )
+)
+
+game (
+	name "Atari Magazin 062 (19xx)(Atari Magazin)"
+	description "Atari Magazin 062 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 062 (19xx)(Atari Magazin).st" size 409600 crc c0bf4f91 md5 ea1db423d3762750038d45f8bb123138 )
+)
+
+game (
+	name "Atari Magazin 063 (19xx)(Atari Magazin)"
+	description "Atari Magazin 063 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 063 (19xx)(Atari Magazin).st" size 737280 crc 2667b00d md5 cb61a22ebaccbcee31631ce0e0ae6edf )
+)
+
+game (
+	name "Atari Magazin 064 (19xx)(Atari Magazin)"
+	description "Atari Magazin 064 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 064 (19xx)(Atari Magazin).st" size 737280 crc 672d3ab4 md5 6d731273c9f01b626063e081e8bb38ec )
+)
+
+game (
+	name "Atari Magazin 065 (19xx)(Atari Magazin)"
+	description "Atari Magazin 065 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 065 (19xx)(Atari Magazin).st" size 737280 crc f9db4114 md5 9362d2e216f12ca3a4423ac295ae07d7 )
+)
+
+game (
+	name "Atari Magazin 066 (19xx)(Atari Magazin)"
+	description "Atari Magazin 066 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 066 (19xx)(Atari Magazin).st" size 737280 crc ba961726 md5 eea2abba94271e7858dbb22dc889a1c7 )
+)
+
+game (
+	name "Atari Magazin 067 (19xx)(Atari Magazin)"
+	description "Atari Magazin 067 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 067 (19xx)(Atari Magazin).st" size 737280 crc 247ec49e md5 d0adc0b594fe81e5fa7a5b0a646514b1 )
+)
+
+game (
+	name "Atari Magazin 068 (19xx)(Atari Magazin)"
+	description "Atari Magazin 068 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 068 (19xx)(Atari Magazin).st" size 737280 crc 491cd586 md5 eb4ac8a97fdf523193549c3651f6fd07 )
+)
+
+game (
+	name "Atari Magazin 069 (19xx)(Atari Magazin)"
+	description "Atari Magazin 069 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 069 (19xx)(Atari Magazin).st" size 737280 crc a297de5f md5 d7c9428c738eeea63a10f9e6543f4f01 )
+)
+
+game (
+	name "Atari Magazin 070 (19xx)(Atari Magazin)"
+	description "Atari Magazin 070 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 070 (19xx)(Atari Magazin).st" size 737280 crc f411bd00 md5 edf556dddd1fd7b7a16e86ec94ff64b4 )
+)
+
+game (
+	name "Atari Magazin 071 (19xx)(Atari Magazin)"
+	description "Atari Magazin 071 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 071 (19xx)(Atari Magazin).st" size 737280 crc 726b2dff md5 de53e76aa429d5eb598399f27ff9cd79 )
+)
+
+game (
+	name "Atari Magazin 072 (19xx)(Atari Magazin)"
+	description "Atari Magazin 072 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 072 (19xx)(Atari Magazin).st" size 737280 crc 780a70e5 md5 0b85cd55fe7d302d1d8a76de7ae8d32e )
+)
+
+game (
+	name "Atari Magazin 073 (19xx)(Atari Magazin)"
+	description "Atari Magazin 073 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 073 (19xx)(Atari Magazin).st" size 755712 crc b559de01 md5 d84586add847d39c19dc46e634460961 )
+)
+
+game (
+	name "Atari Magazin 074 (19xx)(Atari Magazin)"
+	description "Atari Magazin 074 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 074 (19xx)(Atari Magazin).st" size 737280 crc f2a7baae md5 d43a13081a11370fcc6d86f51efbd561 )
+)
+
+game (
+	name "Atari Magazin 075 (19xx)(Atari Magazin)"
+	description "Atari Magazin 075 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 075 (19xx)(Atari Magazin).st" size 737280 crc ebfe858b md5 c15074b706cbc66331ca161507f7c703 )
+)
+
+game (
+	name "Atari Magazin 076 (19xx)(Atari Magazin)"
+	description "Atari Magazin 076 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 076 (19xx)(Atari Magazin).st" size 737280 crc 540cf7fb md5 8ecc9fe008566d834a7c82531173b042 )
+)
+
+game (
+	name "Atari Magazin 077 (19xx)(Atari Magazin)"
+	description "Atari Magazin 077 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 077 (19xx)(Atari Magazin).st" size 737280 crc 0e78caac md5 389cda9f9a4c2df114e169c811fb3803 )
+)
+
+game (
+	name "Atari Magazin 078 (19xx)(Atari Magazin)"
+	description "Atari Magazin 078 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 078 (19xx)(Atari Magazin).st" size 737280 crc e93164e4 md5 18cf51fc2782c1027c3106c4a8290ced )
+)
+
+game (
+	name "Atari Magazin 079 (19xx)(Atari Magazin)"
+	description "Atari Magazin 079 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 079 (19xx)(Atari Magazin).st" size 737280 crc 283b2a7d md5 9a1a2ea6c7db2f2c43f21ecd17d77d02 )
+)
+
+game (
+	name "Atari Magazin 080 (19xx)(Atari Magazin)"
+	description "Atari Magazin 080 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 080 (19xx)(Atari Magazin).st" size 737280 crc db2945f9 md5 67a817f3a5974a95ccdfdec987ed21d3 )
+)
+
+game (
+	name "Atari Magazin 081 (19xx)(Atari Magazin)"
+	description "Atari Magazin 081 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 081 (19xx)(Atari Magazin).st" size 737280 crc 6dd87552 md5 2593f5c730545d03e4876b56711b90f3 )
+)
+
+game (
+	name "Atari Magazin 082 (19xx)(Atari Magazin)"
+	description "Atari Magazin 082 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 082 (19xx)(Atari Magazin).st" size 737280 crc 535cfcc9 md5 7cd538178ecdeef4c44cd2025b0b9492 )
+)
+
+game (
+	name "Atari Magazin 083 (19xx)(Atari Magazin)"
+	description "Atari Magazin 083 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 083 (19xx)(Atari Magazin).st" size 737280 crc 9618de2b md5 358d3c18013e3a5d10d8ecc201d122e2 )
+)
+
+game (
+	name "Atari Magazin 084 (19xx)(Atari Magazin)"
+	description "Atari Magazin 084 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 084 (19xx)(Atari Magazin).st" size 737280 crc b96a0ab6 md5 6fb39d1d56bb7640fc3e7f6af0ec26d5 )
+)
+
+game (
+	name "Atari Magazin 085 (19xx)(Atari Magazin)"
+	description "Atari Magazin 085 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 085 (19xx)(Atari Magazin).st" size 737280 crc 122413b4 md5 38eba6c281bcac4484ec3318293454c0 )
+)
+
+game (
+	name "Atari Magazin 086 (19xx)(Atari Magazin)"
+	description "Atari Magazin 086 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 086 (19xx)(Atari Magazin).st" size 737280 crc c1786b2d md5 6b22be65fdbeca538ec298024729fc7e )
+)
+
+game (
+	name "Atari Magazin 087 (19xx)(Atari Magazin)"
+	description "Atari Magazin 087 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 087 (19xx)(Atari Magazin).st" size 737280 crc 543ac5e8 md5 9c1893f783cda61e898a49b9a291c972 )
+)
+
+game (
+	name "Atari Magazin 088 (19xx)(Atari Magazin)"
+	description "Atari Magazin 088 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 088 (19xx)(Atari Magazin).st" size 737280 crc c9c77c30 md5 50adc924b0d1a6e5eb2b07cac29d6a2f )
+)
+
+game (
+	name "Atari Magazin 089 (19xx)(Atari Magazin)"
+	description "Atari Magazin 089 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 089 (19xx)(Atari Magazin).st" size 737280 crc 5f0107fb md5 247ea5f5c9f87d932ab2fdd9aae768c4 )
+)
+
+game (
+	name "Atari Magazin 090 (19xx)(Atari Magazin)"
+	description "Atari Magazin 090 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 090 (19xx)(Atari Magazin).st" size 737280 crc 6d9480eb md5 43a0ae6b06f74059c1f838572c075652 )
+)
+
+game (
+	name "Atari Magazin 091 (19xx)(Atari Magazin)"
+	description "Atari Magazin 091 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 091 (19xx)(Atari Magazin).st" size 737280 crc 5d9ad06e md5 ef547f4ac9a1970c6d2cf06bca98ebd4 )
+)
+
+game (
+	name "Atari Magazin 092 (19xx)(Atari Magazin)"
+	description "Atari Magazin 092 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 092 (19xx)(Atari Magazin).st" size 737280 crc 381b5eee md5 026b48077487a80fc159c98cbd11b1a3 )
+)
+
+game (
+	name "Atari Magazin 093 (19xx)(Atari Magazin)"
+	description "Atari Magazin 093 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 093 (19xx)(Atari Magazin).st" size 737280 crc 03f87296 md5 362d4f3380a985518ac664f64de6b3cf )
+)
+
+game (
+	name "Atari Magazin 094 (19xx)(Atari Magazin)"
+	description "Atari Magazin 094 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 094 (19xx)(Atari Magazin).st" size 737280 crc cfef53aa md5 e5f74ca34259cbcd46b0fe686e98b2b5 )
+)
+
+game (
+	name "Atari Magazin 095 (19xx)(Atari Magazin)"
+	description "Atari Magazin 095 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 095 (19xx)(Atari Magazin).st" size 737280 crc a7268e07 md5 7f95b6e7318a7dfc28f918800537d282 )
+)
+
+game (
+	name "Atari Magazin 096 (19xx)(Atari Magazin)"
+	description "Atari Magazin 096 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 096 (19xx)(Atari Magazin).st" size 737280 crc 7b89be8c md5 84ec486a7491bd4b1e4d5cd4516fcbf2 )
+)
+
+game (
+	name "Atari Magazin 097 (19xx)(Atari Magazin)"
+	description "Atari Magazin 097 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 097 (19xx)(Atari Magazin).st" size 737280 crc 60a68ac0 md5 0e5fc9b5f39c21c01a05168e97698afa )
+)
+
+game (
+	name "Atari Magazin 098 (19xx)(Atari Magazin)"
+	description "Atari Magazin 098 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 098 (19xx)(Atari Magazin).st" size 755712 crc 06e918aa md5 3e7ec0f624b2c26badea3ca3f3294a18 )
+)
+
+game (
+	name "Atari Magazin 099 (19xx)(Atari Magazin)"
+	description "Atari Magazin 099 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 099 (19xx)(Atari Magazin).st" size 737280 crc 00f4abc6 md5 7e2a03e6dc25a78d166aad914f89cb50 )
+)
+
+game (
+	name "Atari Magazin 100 (19xx)(Atari Magazin)"
+	description "Atari Magazin 100 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 100 (19xx)(Atari Magazin).st" size 819200 crc 445afa06 md5 c9ee0338f93fa2ab3868a05a4a739295 )
+)
+
+game (
+	name "Atari Magazin 101 (19xx)(Atari Magazin)"
+	description "Atari Magazin 101 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 101 (19xx)(Atari Magazin).st" size 737280 crc 36b5a0fc md5 e765a6ab0c00b087d353738f2f2bf4fb )
+)
+
+game (
+	name "Atari Magazin 102 (19xx)(Atari Magazin)"
+	description "Atari Magazin 102 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 102 (19xx)(Atari Magazin).st" size 737280 crc 124cfa65 md5 37cd1aef9e60450d4bc4d181c3eb9755 )
+)
+
+game (
+	name "Atari Magazin 103 (19xx)(Atari Magazin)"
+	description "Atari Magazin 103 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 103 (19xx)(Atari Magazin).st" size 737280 crc 2f239ef7 md5 a7136740ddc77be928b5228b04019e67 )
+)
+
+game (
+	name "Atari Magazin 104 (19xx)(Atari Magazin)"
+	description "Atari Magazin 104 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 104 (19xx)(Atari Magazin).st" size 829440 crc 787ba0c9 md5 965bd42d8145b72cec2a25dc28c7607e )
+)
+
+game (
+	name "Atari Magazin 105 (19xx)(Atari Magazin)"
+	description "Atari Magazin 105 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 105 (19xx)(Atari Magazin).st" size 737280 crc 043ea295 md5 cca1a856b4066e1573a74b8cf8e01b13 )
+)
+
+game (
+	name "Atari Magazin 106 (19xx)(Atari Magazin)"
+	description "Atari Magazin 106 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 106 (19xx)(Atari Magazin).st" size 737280 crc 4fb9032a md5 c1cf35b55335ae7a10c3cf5f6468d35a )
+)
+
+game (
+	name "Atari Magazin 107 (19xx)(Atari Magazin)"
+	description "Atari Magazin 107 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 107 (19xx)(Atari Magazin).st" size 737280 crc d9932207 md5 64a3b1d3753f0fc90b565ec9e7cf5744 )
+)
+
+game (
+	name "Atari Magazin 108 (19xx)(Atari Magazin)"
+	description "Atari Magazin 108 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 108 (19xx)(Atari Magazin).st" size 737280 crc d7ad5b90 md5 5215ae8d981220797f30453e4aa5a8ff )
+)
+
+game (
+	name "Atari Magazin 109 (19xx)(Atari Magazin)"
+	description "Atari Magazin 109 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 109 (19xx)(Atari Magazin).st" size 737280 crc 89964b2d md5 19b8bae9610aea7534429fe0791391a6 )
+)
+
+game (
+	name "Atari Magazin 110 (19xx)(Atari Magazin)"
+	description "Atari Magazin 110 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 110 (19xx)(Atari Magazin).st" size 737280 crc 7e80df06 md5 772c323e158e9d6e0979084c6fd77bfc )
+)
+
+game (
+	name "Atari Magazin 111 (19xx)(Atari Magazin)"
+	description "Atari Magazin 111 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 111 (19xx)(Atari Magazin).st" size 737280 crc 040ba768 md5 fb505cd71b4b1b333b774ae46b7348ae )
+)
+
+game (
+	name "Atari Magazin 112 (19xx)(Atari Magazin)"
+	description "Atari Magazin 112 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 112 (19xx)(Atari Magazin).st" size 737280 crc 22e67ec6 md5 b20f9d91dd0f0b7af1857bcb71fac91b )
+)
+
+game (
+	name "Atari Magazin 113 (19xx)(Atari Magazin)"
+	description "Atari Magazin 113 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 113 (19xx)(Atari Magazin).st" size 737280 crc 4d70eb50 md5 3361bfaf514eb4b84c86892209c3e021 )
+)
+
+game (
+	name "Atari Magazin 114 (19xx)(Atari Magazin)[b]"
+	description "Atari Magazin 114 (19xx)(Atari Magazin)[b]"
+	rom ( name "Atari Magazin 114 (19xx)(Atari Magazin)[b].st" size 737280 crc 68448669 md5 05d5cd4c22005b4157f21f0dfbfe95bc )
+)
+
+game (
+	name "Atari Magazin 115 (19xx)(Atari Magazin)"
+	description "Atari Magazin 115 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 115 (19xx)(Atari Magazin).st" size 737280 crc 3f096b93 md5 6e327325819b017b1b4c6b2b5d2db278 )
+)
+
+game (
+	name "Atari Magazin 116 (19xx)(Atari Magazin)"
+	description "Atari Magazin 116 (19xx)(Atari Magazin)"
+	rom ( name "Atari Magazin 116 (19xx)(Atari Magazin).st" size 737280 crc 1033ab8d md5 e24c60270aa5677ceeb8f2480b9e7ce9 )
+)

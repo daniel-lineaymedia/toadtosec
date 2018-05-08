@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Nascom I & II - Applications - [MAC]"
+	description "Nascom I & II - Applications - [MAC] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Applications - [MAC]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Monitor Nasbug T2 (1978)(Nascom)"
+	description "Monitor Nasbug T2 (1978)(Nascom)"
+	rom ( name "Monitor Nasbug T2 (1978)(Nascom).mac" size 10080 crc 7e81900b md5 2ffcbc45a33e22e90b2d0dba9ac8e6b4 )
+)
+
+game (
+	name "NAS-Sys 3 (198x)(Beal, Richard)"
+	description "NAS-Sys 3 (198x)(Beal, Richard)"
+	rom ( name "NAS-Sys 3 (198x)(Beal, Richard).mac" size 25934 crc 5a8f50a0 md5 29fbd2163424fd8d5d8099db5544e576 )
+)

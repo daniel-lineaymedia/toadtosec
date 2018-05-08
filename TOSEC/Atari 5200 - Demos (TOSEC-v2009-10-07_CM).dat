@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Atari 5200 - Demos"
+	description "Atari 5200 - Demos (TOSEC-v2009-10-07)"
+	category "Atari 5200 - Demos"
+	version 2009-10-07
+	author "Belgarath - Cassiel"
+)
+
+game (
+	name "Hello World (200x)(Boris, Dan)(PD)"
+	description "Hello World (200x)(Boris, Dan)(PD)"
+	rom ( name "Hello World (200x)(Boris, Dan)(PD).bin" size 32768 crc 71db5b70 md5 3e337715257dc9a3b35881b3c0a0ea26 )
+)
+
+game (
+	name "Player & Missle Graphics Demo (200x)(Boris, Dan)(PD)"
+	description "Player & Missle Graphics Demo (200x)(Boris, Dan)(PD)"
+	rom ( name "Player & Missle Graphics Demo (200x)(Boris, Dan)(PD).bin" size 32768 crc 06a35db7 md5 38b679e7699a9a5a14b13970d28ec55a )
+)

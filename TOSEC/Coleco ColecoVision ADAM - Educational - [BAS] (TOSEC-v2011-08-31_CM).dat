@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Coleco ColecoVision ADAM - Educational - [BAS]"
+	description "Coleco ColecoVision ADAM - Educational - [BAS] (TOSEC-v2011-08-31)"
+	category "Coleco ColecoVision ADAM - Educational - [BAS]"
+	version 2011-08-31
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Teaching the Alphabet (198x)(Iversen, Mike)"
+	description "Teaching the Alphabet (198x)(Iversen, Mike)"
+	rom ( name "Teaching the Alphabet (198x)(Iversen, Mike).bas" size 17851 crc 2205eab1 md5 45055ad46c3737b408bdeb65e0553ed5 sha1 f9d3e1becd0101b337dcc7bd6d4612122b103ef1 )
+)
+

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Educational - [TAP]"
+	description "Commodore C16, C116 & Plus-4 - Educational - [TAP] (TOSEC-v2011-02-09)"
+	category "Commodore C16, C116 & Plus-4 - Educational - [TAP]"
+	version 2011-02-09
+	author "TKaos"
+)
+
+game (
+	name "Add and Subtract (1984)(CBM)(US)"
+	description "Add and Subtract (1984)(CBM)(US)"
+	rom ( name "Add and Subtract (1984)(CBM)(US).tap" size 719138 crc 54c844b6 md5 f6a5929a538b635f7b31f12d1e218359 )
+)

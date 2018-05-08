@@ -1,0 +1,716 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Demos - [TZX]"
+	description "Sinclair ZX Spectrum - Demos - [TZX] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Demos - [TZX]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Zxyo - Dziuber - Cassiel"
+)
+
+game (
+	name "128 Music (1986)(R.D. Foord Software)[128K]"
+	description "128 Music (1986)(R.D. Foord Software)[128K]"
+	rom ( name "128 Music (1986)(R.D. Foord Software)[128K].tzx" size 53510 crc d5591dc7 md5 ba4faf435454bef462e82c65d08e662c sha1 e4a2b13090d9885607ba63babf395abcc575826f )
+)
+
+game (
+	name "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[128K]"
+	description "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[128K]"
+	rom ( name "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[128K].tzx" size 64992 crc abf90a6d md5 801ca8a417fb28846632c25560bd186f sha1 e572df4c49eee14b16fbf491ddd484ade2e45f0c )
+)
+
+game (
+	name "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[a][128K]"
+	description "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[a][128K]"
+	rom ( name "128 Music + Carols (1986)(R.D. Foord Software)(Side A)[a][128K].tzx" size 64858 crc 90de4337 md5 48054411da6b357ca2a9df3f83f62b3f sha1 8e6d92d34e37cdbb15c82df8b7cdf29903e97a95 )
+)
+
+game (
+	name "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[128K]"
+	description "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[128K]"
+	rom ( name "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[128K].tzx" size 58941 crc e1d540b3 md5 d337625672feea4f9c8bf6de851446ec sha1 691e4c4dbf4b5f234eace9e8fdc513c922749976 )
+)
+
+game (
+	name "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[a][128K]"
+	description "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[a][128K]"
+	rom ( name "128 Music + Carols (1986)(R.D. Foord Software)(Side B)[a][128K].tzx" size 54435 crc 900c788f md5 937ba5733b9dcb9f75ad56665f681f38 sha1 9502051b242209425d52ba5b672b072ddc4c720d )
+)
+
+game (
+	name "Acid Andy (1994)(The United Minds)[128K]"
+	description "Acid Andy (1994)(The United Minds)[128K]"
+	rom ( name "Acid Andy (1994)(The United Minds)[128K].tzx" size 14542 crc 0a701204 md5 494b22ae175cd2247f22b043d5d0dbeb sha1 cb6fbb07ca28d9a3496a9a557c46c9139035ea6f )
+)
+
+game (
+	name "Action (1996)(Megacode)[128K]"
+	description "Action (1996)(Megacode)[128K]"
+	rom ( name "Action (1996)(Megacode)[128K].tzx" size 31684 crc 740d5fd2 md5 ca57aa95ecc93ff288b980b1347f5cea sha1 f425940c2cee89c0285f2591b3e24d1f80343a66 )
+)
+
+game (
+	name "Alcala Hoy (19xx)(Videograf)(es)"
+	description "Alcala Hoy (19xx)(Videograf)(es)"
+	rom ( name "Alcala Hoy (19xx)(Videograf)(es).tzx" size 28632 crc 935c019a md5 9f4eab7798dc9600f01322cc04cd9ccf sha1 84c8773df3ad19be531a864ccdf66be4d5e1debd )
+)
+
+game (
+	name "Alfa Soft - Heart (19xx)(Alfa Soft)"
+	description "Alfa Soft - Heart (19xx)(Alfa Soft)"
+	rom ( name "Alfa Soft - Heart (19xx)(Alfa Soft).tzx" size 43878 crc 91bc3635 md5 d71338533afa30747817747518ca5a92 sha1 87374a26f01e4b6dc680adc35b2a9d42146924a3 )
+)
+
+game (
+	name "Alfa Soft - Popcorn (1989)(Alfa Soft)"
+	description "Alfa Soft - Popcorn (1989)(Alfa Soft)"
+	rom ( name "Alfa Soft - Popcorn (1989)(Alfa Soft).tzx" size 45150 crc 9ae3e339 md5 713d193e37056c6a2ffce4f236dbb6a2 sha1 9b8f87f119236845b7bc7c24bac51902ad558b35 )
+)
+
+game (
+	name "Alfa Soft - Woodpecker from Space (1989)(Alfa Soft)"
+	description "Alfa Soft - Woodpecker from Space (1989)(Alfa Soft)"
+	rom ( name "Alfa Soft - Woodpecker from Space (1989)(Alfa Soft).tzx" size 44634 crc 2ab69fca md5 d50d33f2f770f981ebafe84e31f853a8 sha1 349bf95187982ff3ff9d7f98cd5832d6f016bf75 )
+)
+
+game (
+	name "Amiga Advert (19xx)(-)(sr)"
+	description "Amiga Advert (19xx)(-)(sr)"
+	rom ( name "Amiga Advert (19xx)(-)(sr).tzx" size 8218 crc d0415b26 md5 301d4759ad8df872b244a9a9299cce06 sha1 7b2a41a0b926654edca7158e7a927630665bd575 )
+)
+
+game (
+	name "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs)"
+	description "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs)"
+	rom ( name "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs).tzx" size 18364 crc db45f175 md5 52f94954bdf516eb6a1da13923537a06 sha1 dfaece14d8c23a27dbd1bf06124d13cf4e6dca04 )
+)
+
+game (
+	name "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs)[a]"
+	description "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs)[a]"
+	rom ( name "Beruska - The Lady Bird (1990)(Kingfisher's Movie Studio)(cs)[a].tzx" size 15577 crc 73bcd55f md5 0a1422837740b0d36fbc4e1d6f232154 sha1 e202e109126f4644f4130b0ea08c58f4f755723c )
+)
+
+game (
+	name "Bicie Demo (19xx)(Skusoft)[128K]"
+	description "Bicie Demo (19xx)(Skusoft)[128K]"
+	rom ( name "Bicie Demo (19xx)(Skusoft)[128K].tzx" size 12259 crc b2815367 md5 ee3ed1bf77d20de992d66a5157f59375 sha1 b35c6a06d559474a1eecdf9697bc8d4262857f9b )
+)
+
+game (
+	name "Big Bang (19xx)(The Lords)[128K]"
+	description "Big Bang (19xx)(The Lords)[128K]"
+	rom ( name "Big Bang (19xx)(The Lords)[128K].tzx" size 12868 crc 3ae06763 md5 bb6230c30db4e120033f4251142f0def sha1 f7e319b21d209f1743fa8c25477885b83eb65f77 )
+)
+
+game (
+	name "Blava (1992)(Rumatisoft - Busy Software - Sinclair User)[128K]"
+	description "Blava (1992)(Rumatisoft - Busy Software - Sinclair User)[128K]"
+	rom ( name "Blava (1992)(Rumatisoft - Busy Software - Sinclair User)[128K].tzx" size 40696 crc 57aba80f md5 65841837a53808197991d3ace58dd9c8 sha1 a463806177102f02fc7d0f0d1fe7c3a021d6d94b )
+)
+
+game (
+	name "Canciones 6 (1994)(Cesar Hernandez Bano)(es)[128K]"
+	description "Canciones 6 (1994)(Cesar Hernandez Bano)(es)[128K]"
+	rom ( name "Canciones 6 (1994)(Cesar Hernandez Bano)(es)[128K].tzx" size 24718 crc cbe25c2a md5 97540ae9870344079c358d332d830cd0 sha1 844842354de67750335caf9c58c144321f2321a5 )
+)
+
+game (
+	name "CD-Player (1988)(Players Software)"
+	description "CD-Player (1988)(Players Software)"
+	rom ( name "CD-Player (1988)(Players Software).tzx" size 39572 crc b4a504b9 md5 f3b1519d994f9f889b6b9bcb498e6445 sha1 be391bb95cedec0a4d068f4330d6bd74029a2c79 )
+)
+
+game (
+	name "Chaosscr (1985)(Pera Putnik)"
+	description "Chaosscr (1985)(Pera Putnik)"
+	rom ( name "Chaosscr (1985)(Pera Putnik).tzx" size 9629 crc edb2c44e md5 711432e84ed683fa42d98cf0d3c070f8 sha1 68ce5598e55c24d5034c2ad5b867f4d75cc2dbfc )
+)
+
+game (
+	name "Clef (1989)(Hacker Chris)"
+	description "Clef (1989)(Hacker Chris)"
+	rom ( name "Clef (1989)(Hacker Chris).tzx" size 34636 crc 0ffdae15 md5 bf76de79163930c5d3cf0a0c2e9a35db sha1 69c8dc1329dde2d3f48510365b1ab263d5de4940 )
+)
+
+game (
+	name "Crazy Sample II (1989)(The Lords)[128K]"
+	description "Crazy Sample II (1989)(The Lords)[128K]"
+	rom ( name "Crazy Sample II (1989)(The Lords)[128K].tzx" size 24643 crc 50d5cea2 md5 943a5f76703378b44d055d352bfffee6 sha1 e48ba1094e71b7cf215929189eabab4c87c14147 )
+)
+
+game (
+	name "Crazy Sample II (1989)(The Lords)[a][128K]"
+	description "Crazy Sample II (1989)(The Lords)[a][128K]"
+	rom ( name "Crazy Sample II (1989)(The Lords)[a][128K].tzx" size 21113 crc cda4a288 md5 f673a49d2394161324f341f508cf3c02 sha1 26ecd44162864e2722405d1ad047962a9c5a1f01 )
+)
+
+game (
+	name "Digi Synth (1989)(Prisoner)"
+	description "Digi Synth (1989)(Prisoner)"
+	rom ( name "Digi Synth (1989)(Prisoner).tzx" size 29046 crc 944329cf md5 2cace30b67333c860a848e2d479f9ea3 sha1 28a1c610eef0d0cbecfe44ba3f165327357eae37 )
+)
+
+game (
+	name "Dirty Tricks Demo (1992)(Seurasoft)"
+	description "Dirty Tricks Demo (1992)(Seurasoft)"
+	rom ( name "Dirty Tricks Demo (1992)(Seurasoft).tzx" size 39297 crc 9f132622 md5 addc2e1c10aa76e496947d9bd4956ee9 sha1 c6eb05a7aa9b3f93b6b19fb6733e46ced9680f9e )
+)
+
+game (
+	name "Don't Pull It Too Much George (19xx)(Sygma Press)[128K]"
+	description "Don't Pull It Too Much George (19xx)(Sygma Press)[128K]"
+	rom ( name "Don't Pull It Too Much George (19xx)(Sygma Press)[128K].tzx" size 24959 crc 6cd357fd md5 5252fe7a5a882b91392d2106d4e8b985 sha1 baad3b2eed7564be3dcd98006b96b58a135b44bc )
+)
+
+game (
+	name "Fill (19xx)(-)(de)"
+	description "Fill (19xx)(-)(de)"
+	rom ( name "Fill (19xx)(-)(de).tzx" size 1088 crc 043716a5 md5 146b1f89ded37c18d8224c12d3e65e8e sha1 fda646ba0f351fa0c4e8af18787ba56e76dba012 )
+)
+
+game (
+	name "Filla (19xx)(-)(de)"
+	description "Filla (19xx)(-)(de)"
+	rom ( name "Filla (19xx)(-)(de).tzx" size 1063 crc 818247ce md5 718d88944304cec5d5d7f157b45ca16c sha1 1514ac78cb4ae2c136f8da6c792447df834f9172 )
+)
+
+game (
+	name "FUCK (19xx)(Hacker Junior - Conradorre Soft)[128K]"
+	description "FUCK (19xx)(Hacker Junior - Conradorre Soft)[128K]"
+	rom ( name "FUCK (19xx)(Hacker Junior - Conradorre Soft)[128K].tzx" size 32739 crc e0ab008c md5 046a550e334a497a97d8c6e49027bb1f sha1 16f0bd2b51eda654c7871543d08c196692c5dd49 )
+)
+
+game (
+	name "Fuxoft Soundtrack III (1989)(Fuxoft)(cs)"
+	description "Fuxoft Soundtrack III (1989)(Fuxoft)(cs)"
+	rom ( name "Fuxoft Soundtrack III (1989)(Fuxoft)(cs).tzx" size 33949 crc bcd462fd md5 ed8a0f99e5e259425d914eaa9471ea4a sha1 c580c194433e077d5f0aeb9fc1ce455a77c449c3 )
+)
+
+game (
+	name "Geography Demo (1993)(ESI)"
+	description "Geography Demo (1993)(ESI)"
+	rom ( name "Geography Demo (1993)(ESI).tzx" size 32539 crc b478658d md5 29918370066139c069739225a9fc99e3 sha1 846ab76243b3d5419fc6fc92189300775b627361 )
+)
+
+game (
+	name "Grand-Mix (1989)(Dennis van Berkel)[128K]"
+	description "Grand-Mix (1989)(Dennis van Berkel)[128K]"
+	rom ( name "Grand-Mix (1989)(Dennis van Berkel)[128K].tzx" size 24676 crc b350c473 md5 c50a1fa2a403c7d879a3ab4df03643ae sha1 0590e185daff451a0bef1a36e4eac7efb818fb9c )
+)
+
+game (
+	name "Horny Hary (19xx)(X-Rated Software)"
+	description "Horny Hary (19xx)(X-Rated Software)"
+	rom ( name "Horny Hary (19xx)(X-Rated Software).tzx" size 22896 crc 2e084673 md5 00d8a49084e5fd5b3aeb939e63f1cfeb sha1 03117118f3684981e58f429a74c26e39d1a661be )
+)
+
+game (
+	name "In Concert (1989)(Dennis van Berkel)[128K]"
+	description "In Concert (1989)(Dennis van Berkel)[128K]"
+	rom ( name "In Concert (1989)(Dennis van Berkel)[128K].tzx" size 23155 crc 9a61ccfb md5 879bed16d8241edfd0da8048b98f3a43 sha1 d43bfeee289eba1d30f8eb727efde2719421ea6c )
+)
+
+game (
+	name "Interlace Demo (1992)(Busy Software)[128K]"
+	description "Interlace Demo (1992)(Busy Software)[128K]"
+	rom ( name "Interlace Demo (1992)(Busy Software)[128K].tzx" size 29138 crc 284c47df md5 4d41d0d842884691f816b7d844d9249b sha1 55a34f9227f45625b5eba6a86c4acf4154a72b7e )
+)
+
+game (
+	name "Iron Maiden (1989)(Scandinavian Software Crackers)[128K]"
+	description "Iron Maiden (1989)(Scandinavian Software Crackers)[128K]"
+	rom ( name "Iron Maiden (1989)(Scandinavian Software Crackers)[128K].tzx" size 48521 crc efca60b5 md5 170860ac99e71f3bb95cc60b201f5255 sha1 31f206c1a6103fd18ec467185ec1f8772481c277 )
+)
+
+game (
+	name "Israeli Team Demo, The (1989)(The Israeli Team)[128K]"
+	description "Israeli Team Demo, The (1989)(The Israeli Team)[128K]"
+	rom ( name "Israeli Team Demo, The (1989)(The Israeli Team)[128K].tzx" size 121303 crc 8da55506 md5 452427cf9223c09231dc4d7b5e409349 sha1 658d90a42fc71e3181314d58e8b6cdbf6392ae09 )
+)
+
+game (
+	name "Kix 128 (1988)(Hacker Chris)[128K]"
+	description "Kix 128 (1988)(Hacker Chris)[128K]"
+	rom ( name "Kix 128 (1988)(Hacker Chris)[128K].tzx" size 41568 crc 275d2610 md5 a6286170c1e53647b35c886d15f033c5 sha1 ad49980973f936952af5299ae3f73c0ea38ad4a2 )
+)
+
+game (
+	name "Light and Sound Volume 10 (1988)(Theo Devil)[128K]"
+	description "Light and Sound Volume 10 (1988)(Theo Devil)[128K]"
+	rom ( name "Light and Sound Volume 10 (1988)(Theo Devil)[128K].tzx" size 83100 crc f8b5bc3d md5 c01477c3b6d48c240e61cf76dd63b5a6 sha1 4f06bc7e8927689c4da4bc5b3f6dbbdf1cecb86a )
+)
+
+game (
+	name "Little Joke (1989)(The Lords)[128K]"
+	description "Little Joke (1989)(The Lords)[128K]"
+	rom ( name "Little Joke (1989)(The Lords)[128K].tzx" size 16081 crc 0149f3ce md5 a1b6a4aba61662bdcaa5a266781fa62d sha1 39fef322f3b9d17a06f3b35d83b90236b8a4e968 )
+)
+
+game (
+	name "Living Shit, The (19xx)(Kassoft)[128K]"
+	description "Living Shit, The (19xx)(Kassoft)[128K]"
+	rom ( name "Living Shit, The (19xx)(Kassoft)[128K].tzx" size 15840 crc d418b05b md5 51aab29d7f9ba9dbc26ee2ace4ee11fb sha1 6273e56510efac3f7f74ad649cfe8c3e2ea79e4e )
+)
+
+game (
+	name "Loco, El (1990)(The Lords)[128K]"
+	description "Loco, El (1990)(The Lords)[128K]"
+	rom ( name "Loco, El (1990)(The Lords)[128K].tzx" size 13398 crc 65c4c31e md5 b4c518488b2b9aba43c55852d4e49287 sha1 70076c424eb5186c1bbf3c518d1249055188fed2 )
+)
+
+game (
+	name "Logic II, The (1989)(Kassoft)"
+	description "Logic II, The (1989)(Kassoft)"
+	rom ( name "Logic II, The (1989)(Kassoft).tzx" size 22235 crc 352ccb13 md5 099162821abbf3395e8056708c005504 sha1 0a4af6918e56f83eb0140b1351ec64668446de20 )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[128K]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[128K]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[128K].tzx" size 96093 crc ca2a8235 md5 bc863f998c373194a4d72a542f4a457b sha1 226985fb3301b9ef31d31c5af6c548edacd38bfe )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[a][128K]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[a][128K]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)(Side A)[a][128K].tzx" size 96626 crc 62498f2f md5 1cd4b14f6e83aae74a8cab96a644e030 sha1 a3b9e045c6b1b272fa1b8068fc677938da9062b2 )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)(Side B)[128K]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)(Side B)[128K]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)(Side B)[128K].tzx" size 111347 crc 50d7b1cc md5 6c29a3bcefa55497dd50f5ec5ef28e20 sha1 0bef9072ddaa3f08d6b5ac85acd2b4ebf00bf71c )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)[128K]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)[128K]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)[128K].tzx" size 208497 crc 75507896 md5 a92d19483bd50eb6c0ef65a269f96275 sha1 247e3983cda6e756a0e85aa2bf881d843931df5c )
+)
+
+game (
+	name "Mad House (1992)(The Mad Guys)[128K]"
+	description "Mad House (1992)(The Mad Guys)[128K]"
+	rom ( name "Mad House (1992)(The Mad Guys)[128K].tzx" size 36318 crc 885c93aa md5 474d7948ae2eac84a4cba67870fbfa84 sha1 809390aa40567b25e315838643aa498267b061cf )
+)
+
+game (
+	name "Mad House (1993)(The Mad Guys - Your Sinclair)[128K]"
+	description "Mad House (1993)(The Mad Guys - Your Sinclair)[128K]"
+	rom ( name "Mad House (1993)(The Mad Guys - Your Sinclair)[128K].tzx" size 36491 crc 7658a6e3 md5 6f3af8dc258d44fb0c2646da87f8aa05 sha1 cba14227e82379691ba2a67f0d9355ac9103be80 )
+)
+
+game (
+	name "Madness Remix (1992)(The Mad Guys - Sinclair User)[48-128K]"
+	description "Madness Remix (1992)(The Mad Guys - Sinclair User)[48-128K]"
+	rom ( name "Madness Remix (1992)(The Mad Guys - Sinclair User)[48-128K].tzx" size 35805 crc c3bb7892 md5 7e5896f40483a03d8ef38844aab2a868 sha1 9befb5de10b525a4eec520f6bd5148c1e5bf3a9e )
+)
+
+game (
+	name "Maria Whittaker (19xx)(-)"
+	description "Maria Whittaker (19xx)(-)"
+	rom ( name "Maria Whittaker (19xx)(-).tzx" size 21784 crc 42fcecc8 md5 e5f5e43a0664776bd12db47c9c6f0cd4 sha1 53e8b3ebadb285b6637a4669faed88012b1ebe19 )
+)
+
+game (
+	name "MDA Demo (1991)(Busy Software)[128K]"
+	description "MDA Demo (1991)(Busy Software)[128K]"
+	rom ( name "MDA Demo (1991)(Busy Software)[128K].tzx" size 73721 crc 2c68b3fc md5 cb499c0ac59607d5d762cf955a5d2321 sha1 2b61ac1e8d715538f5e516b5c9f1526ef321f380 )
+)
+
+game (
+	name "Mega Sound I (1991)(Studio Computerowe Koala)[128K]"
+	description "Mega Sound I (1991)(Studio Computerowe Koala)[128K]"
+	rom ( name "Mega Sound I (1991)(Studio Computerowe Koala)[128K].tzx" size 26255 crc ad118075 md5 3e881f3fbd6403683a2e300c66d069fe sha1 3642de962bae11adc4980552cc1c581fe8984ff8 )
+)
+
+game (
+	name "Mega Sound III (1991)(Studio Computerowe Koala)[128K]"
+	description "Mega Sound III (1991)(Studio Computerowe Koala)[128K]"
+	rom ( name "Mega Sound III (1991)(Studio Computerowe Koala)[128K].tzx" size 25659 crc 175c89a7 md5 57086f414c063527b54ba24f123d4792 sha1 dd739fac8f5cae8c4380518d337c54d507d01afa )
+)
+
+game (
+	name "Melody Music (1987)(Unisoft)"
+	description "Melody Music (1987)(Unisoft)"
+	rom ( name "Melody Music (1987)(Unisoft).tzx" size 26884 crc 83453501 md5 0e3546925a18aa6fb3473fa02708fe76 sha1 36308e72600ecca4313557887984adf1c0c7cb6f )
+)
+
+game (
+	name "Melody Music II (1988)(Unisoft)"
+	description "Melody Music II (1988)(Unisoft)"
+	rom ( name "Melody Music II (1988)(Unisoft).tzx" size 19992 crc f71f2dd2 md5 cfca24990522fb6d04dcee668876aa6b sha1 136f44f4f8f8cccd27b35d9fc0a0f911d9b7ffb8 )
+)
+
+game (
+	name "Melody Music III (1988)(Unisoft)"
+	description "Melody Music III (1988)(Unisoft)"
+	rom ( name "Melody Music III (1988)(Unisoft).tzx" size 35964 crc cd508a76 md5 82f9b201cc750fcf165e66f070f518c7 sha1 785d1054258d6f3bea6f9bcfb6da496ecc96c479 )
+)
+
+game (
+	name "Melody Music IV (1989)(Unisoft)"
+	description "Melody Music IV (1989)(Unisoft)"
+	rom ( name "Melody Music IV (1989)(Unisoft).tzx" size 45957 crc 3d3da820 md5 35f471d699c0ae9484ff287b3902f402 sha1 ad40f7afe973d72fdc8dd0d166052b22651f716b )
+)
+
+game (
+	name "Melody Music V (1989)(Unisoft)"
+	description "Melody Music V (1989)(Unisoft)"
+	rom ( name "Melody Music V (1989)(Unisoft).tzx" size 36941 crc 4e840c26 md5 167ee6858c51187c3983fa11ae39ae35 sha1 95e322a7f929dfc528e47a6603cc05f261b70d47 )
+)
+
+game (
+	name "Melody Music VI (1989)(Unisoft)[b]"
+	description "Melody Music VI (1989)(Unisoft)[b]"
+	rom ( name "Melody Music VI (1989)(Unisoft)[b].tzx" size 46321 crc 89bcb279 md5 72114f28f987eb4fc5b88696204d4ae5 sha1 41fc7ebe828d194a88a8fecd60ac5e40bd10a8a7 )
+)
+
+game (
+	name "Mix 2 (1988)(Szafran Soft)"
+	description "Mix 2 (1988)(Szafran Soft)"
+	rom ( name "Mix 2 (1988)(Szafran Soft).tzx" size 33890 crc a9dda2aa md5 34ddbc26b3ee14d507a57106831c43fb sha1 5ba2d2bb9316d41810a0eaf39a894340d9b0fe82 )
+)
+
+game (
+	name "Moozik 1 (1990)(Anthraxx Developments)[128K]"
+	description "Moozik 1 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "Moozik 1 (1990)(Anthraxx Developments)[128K].tzx" size 76997 crc 7881befe md5 6a9d88c193686f69c8690423cd07ef25 sha1 b1f726d109ff886b46f25f1a232c76fcc8c28a25 )
+)
+
+game (
+	name "Moozik 2 (1990)(Anthraxx Developments)[128K]"
+	description "Moozik 2 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "Moozik 2 (1990)(Anthraxx Developments)[128K].tzx" size 86573 crc 125c6758 md5 e87bb3fe3cee97663a2338d8d1fb299d sha1 15ee9491c19deffe01ab3f4affafec7181bf8042 )
+)
+
+game (
+	name "Music Mania (1992)(Sinclair User)"
+	description "Music Mania (1992)(Sinclair User)"
+	rom ( name "Music Mania (1992)(Sinclair User).tzx" size 27631 crc f16542aa md5 1a394a68e20baa3418b2cd75f946f102 sha1 fbd05318b98bc5344c63463e7953088d7963b7f4 )
+)
+
+game (
+	name "Music Menu (19xx)(Tomaz Iskra)"
+	description "Music Menu (19xx)(Tomaz Iskra)"
+	rom ( name "Music Menu (19xx)(Tomaz Iskra).tzx" size 23420 crc a91ceafa md5 5081e375a937803dcb60d25829676d6c sha1 1689c8945090d15d0afab82f6f46b4cd86eaa661 )
+)
+
+game (
+	name "Music Top 10 (1992)(Sinclair User)"
+	description "Music Top 10 (1992)(Sinclair User)"
+	rom ( name "Music Top 10 (1992)(Sinclair User).tzx" size 15477 crc 79864872 md5 09c2254fb9a99fd6149b62b026b03d6b sha1 d92c6a8c23c919780a7146a02190727a156ea262 )
+)
+
+game (
+	name "No Insight View (19xx)(The Lords)[128K]"
+	description "No Insight View (19xx)(The Lords)[128K]"
+	rom ( name "No Insight View (19xx)(The Lords)[128K].tzx" size 23933 crc f7f18234 md5 e384b39d20c74ba74288a410cc1a6780 sha1 997b1568602f1048f693a38a4e4e44768b3806b0 )
+)
+
+game (
+	name "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K]"
+	description "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K]"
+	rom ( name "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K].tzx" size 31942 crc 804a31b7 md5 9e7fb3308a87b2c61af6a3b27cf4096a sha1 67f0dbc30eae7be25756df47f816a0c1d97139e2 )
+)
+
+game (
+	name "No More Intelligence 2 (1991)(Dynamite Dynasty)[a][128K]"
+	description "No More Intelligence 2 (1991)(Dynamite Dynasty)[a][128K]"
+	rom ( name "No More Intelligence 2 (1991)(Dynamite Dynasty)[a][128K].tzx" size 32139 crc c0d9ba95 md5 c081ea22a4d4fda12ead5a0950af9b92 sha1 9d4b45785d21e5a96144a4be719f1f085c27708c )
+)
+
+game (
+	name "No More Intelligence 3 - Saver (1993)(Dynamite Dynasty - Your Sinclair)[128K]"
+	description "No More Intelligence 3 - Saver (1993)(Dynamite Dynasty - Your Sinclair)[128K]"
+	rom ( name "No More Intelligence 3 - Saver (1993)(Dynamite Dynasty - Your Sinclair)[128K].tzx" size 91025 crc be807124 md5 6b03e29a44d9e2e45ec6cc973fea6f5e sha1 d50d571fe6ba53498572a54155644ba58a4dfdc9 )
+)
+
+game (
+	name "Phantom - The Demo (19xx)(Scandinavian Software Crackers)"
+	description "Phantom - The Demo (19xx)(Scandinavian Software Crackers)"
+	rom ( name "Phantom - The Demo (19xx)(Scandinavian Software Crackers).tzx" size 48521 crc 53ee1d2b md5 29727ad5f43d0caa35d938b880cdf81f sha1 90dfa1d867144562e0a56a13de43e6e5e06f5e78 )
+)
+
+game (
+	name "Pianola (1984)(De Wit Productions)(nl)"
+	description "Pianola (1984)(De Wit Productions)(nl)"
+	rom ( name "Pianola (1984)(De Wit Productions)(nl).tzx" size 15772 crc be42aafd md5 a577da8d1b94d08359403c77b2c8249f sha1 3a32216976658c49a6793aa37d145ef88991e712 )
+)
+
+game (
+	name "Pod Persons from Mars (1990)(The Lords)"
+	description "Pod Persons from Mars (1990)(The Lords)"
+	rom ( name "Pod Persons from Mars (1990)(The Lords).tzx" size 19509 crc fa43977e md5 bb699f0ce3e4ccbb04503806f2b30312 sha1 846dd8b8a80635b1b4c54807d0bade0c3a2e30db )
+)
+
+game (
+	name "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K]"
+	description "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K]"
+	rom ( name "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K].tzx" size 30666 crc 5a5a8a24 md5 615058f033aa66c9bc07074d007c9628 sha1 45e3fce2374c753626f8382cccf6b36f2cc591c4 )
+)
+
+game (
+	name "Psychedelia (1984)(Llamasoft)"
+	description "Psychedelia (1984)(Llamasoft)"
+	rom ( name "Psychedelia (1984)(Llamasoft).tzx" size 37398 crc 7b66d35b md5 69cd4186714c1d8b3935abadd045861e sha1 ae5856b5704e85ac9053c3668db0f5eb63aeafd4 )
+)
+
+game (
+	name "Psychedelia (1984)(Llamasoft)[a]"
+	description "Psychedelia (1984)(Llamasoft)[a]"
+	rom ( name "Psychedelia (1984)(Llamasoft)[a].tzx" size 37428 crc 9f8ebce5 md5 4f1a97fbf614812d803649482e940a4a sha1 f9d1420bcd6a1534d4cd7ed7e0fa54215508a0c5 )
+)
+
+game (
+	name "Rendez-Vous in Black & White (1990)(The Lords)[128K]"
+	description "Rendez-Vous in Black & White (1990)(The Lords)[128K]"
+	rom ( name "Rendez-Vous in Black & White (1990)(The Lords)[128K].tzx" size 16364 crc eaa9944a md5 045864b241d14206a3c27a91d3329eef sha1 a15a852d8b9c41b940e596856bdfefef3174b4c6 )
+)
+
+game (
+	name "Rhaa Lovely I + II (1990)(The Lords)[128K]"
+	description "Rhaa Lovely I + II (1990)(The Lords)[128K]"
+	rom ( name "Rhaa Lovely I + II (1990)(The Lords)[128K].tzx" size 54806 crc 4ef24e67 md5 1c50b49c86a177f76fd3a83cc9384d3c sha1 fec731c2850cc9787d7b1a7a73d5a60634dc2ed8 )
+)
+
+game (
+	name "RTL Demo Volume 1 (1990)(Anthraxx Developments)[128K]"
+	description "RTL Demo Volume 1 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "RTL Demo Volume 1 (1990)(Anthraxx Developments)[128K].tzx" size 122440 crc 8a3f9362 md5 369644c347bf8d0bf72acf113ebe9cc0 sha1 a2d008d37fd44356c5316964e36fafcee6a35e7e )
+)
+
+game (
+	name "RTL Demo Volume 2 (1990)(Anthraxx Developments)[128K]"
+	description "RTL Demo Volume 2 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "RTL Demo Volume 2 (1990)(Anthraxx Developments)[128K].tzx" size 122440 crc 2b3fcb50 md5 7526c64855e24602d2570db79ded5d70 sha1 300670c61fe7de8410332a40fbf7200d70640be4 )
+)
+
+game (
+	name "RTL Demo Volume 3 (1990)(Anthraxx Developments)[128K]"
+	description "RTL Demo Volume 3 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "RTL Demo Volume 3 (1990)(Anthraxx Developments)[128K].tzx" size 122440 crc eaff8784 md5 afc9475e485e1f5b0f7d470626c2c6d4 sha1 9a0e26442c8fb97f8b6ca87afeb148e376abec99 )
+)
+
+game (
+	name "RTL Demo Volume 4 (1990)(Anthraxx Developments)[128K]"
+	description "RTL Demo Volume 4 (1990)(Anthraxx Developments)[128K]"
+	rom ( name "RTL Demo Volume 4 (1990)(Anthraxx Developments)[128K].tzx" size 122439 crc d1879c3c md5 8cc82574a48156c71a1726b0ff750640 sha1 92816e9e13c28ce5838c87fa5be56e079cc2e31e )
+)
+
+game (
+	name "Saboteur Loading Screen (19xx)(-)"
+	description "Saboteur Loading Screen (19xx)(-)"
+	rom ( name "Saboteur Loading Screen (19xx)(-).tzx" size 4540 crc 2dcb3c9b md5 d181c2f538e54a89d9112eda0b9998d9 sha1 c8088afff1fffe0805fbcb75ea9096882dae9a5a )
+)
+
+game (
+	name "Samantha Fox 2 (19xx)(-)[128K]"
+	description "Samantha Fox 2 (19xx)(-)[128K]"
+	rom ( name "Samantha Fox 2 (19xx)(-)[128K].tzx" size 49540 crc 38759b53 md5 564831f88fdbe4d7a653db852c024c51 sha1 3d999efeecd16b54875eedbe8d0a2a3f33876c9a )
+)
+
+game (
+	name "Sgt. Pepper 02 (1988)(Sgt. Pepper)"
+	description "Sgt. Pepper 02 (1988)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 02 (1988)(Sgt. Pepper).tzx" size 6890 crc 5823f2a9 md5 6264deb02de470896a5a9f23a5a6ec93 sha1 38b0d7838a0f08f5e46ede62675b5e275fba67fd )
+)
+
+game (
+	name "Sgt. Pepper 03 (1988)(Sgt. Pepper)"
+	description "Sgt. Pepper 03 (1988)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 03 (1988)(Sgt. Pepper).tzx" size 4602 crc d55fc004 md5 32ae83923729cbaa9633075dfeb14cdc sha1 60bbb2df1fc0489b41e79537eb60a8b431d3fe82 )
+)
+
+game (
+	name "Sgt. Pepper 04 (1988)(Sgt. Pepper)"
+	description "Sgt. Pepper 04 (1988)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 04 (1988)(Sgt. Pepper).tzx" size 23680 crc d5e5e014 md5 a39e7c49c48f0e11323087afde067e09 sha1 8927a1cbe47fb80dd7bf78ec9186707a72fbc7e4 )
+)
+
+game (
+	name "Sgt. Pepper 05 (1988)(Sgt. Pepper)"
+	description "Sgt. Pepper 05 (1988)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 05 (1988)(Sgt. Pepper).tzx" size 7618 crc 1f126b75 md5 7019b0f5a78f99811faaf8d5f5c15557 sha1 d109942f55be06b04827ea87cd4725521971bff5 )
+)
+
+game (
+	name "Sgt. Pepper 06 (1989)(Sgt. Pepper)"
+	description "Sgt. Pepper 06 (1989)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 06 (1989)(Sgt. Pepper).tzx" size 13469 crc 81d3e0f8 md5 20a1c64855328fd68c7b7ea0398c05ae sha1 79460208dfa340eca91f515fe1fbdb6fda09285c )
+)
+
+game (
+	name "Sgt. Pepper 07 (1989)(Sgt. Pepper)"
+	description "Sgt. Pepper 07 (1989)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 07 (1989)(Sgt. Pepper).tzx" size 15377 crc d7713c08 md5 e9d52aab29f747e745e746271dea4577 sha1 30fd9f463d68b57c63ef3c89a8522dec65b14754 )
+)
+
+game (
+	name "Sgt. Pepper 10 (1989)(Sgt. Pepper)"
+	description "Sgt. Pepper 10 (1989)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 10 (1989)(Sgt. Pepper).tzx" size 9718 crc 139e0c82 md5 e7f34de90af6499c53dc337fae92d2dc sha1 1e23fe731b2428bb099e9f5c986a25792f02e4da )
+)
+
+game (
+	name "Sgt. Pepper 11 (1989)(Sgt. Pepper)"
+	description "Sgt. Pepper 11 (1989)(Sgt. Pepper)"
+	rom ( name "Sgt. Pepper 11 (1989)(Sgt. Pepper).tzx" size 9887 crc bfc71021 md5 ad7ff7ac9a02a088a5ce337ea0206bee sha1 bf245feedfda5a379560e42fc955a325343e299f )
+)
+
+game (
+	name "Shock Megademo (1992)(ESI)[128K]"
+	description "Shock Megademo (1992)(ESI)[128K]"
+	rom ( name "Shock Megademo (1992)(ESI)[128K].tzx" size 100955 crc bd2c1ae0 md5 02832ace705ffdcf6bf1142e245361a9 sha1 18b2f9af7fd4da7764ccc19ecc26512094730fa1 )
+)
+
+game (
+	name "Signal Part 3 (1992)(Mikropol)"
+	description "Signal Part 3 (1992)(Mikropol)"
+	rom ( name "Signal Part 3 (1992)(Mikropol).tzx" size 31265 crc 64f58b3b md5 a6d15fd748fa1be8f7f97f8e7a242c5d sha1 7808208fadff0b202cc91fcd0cc63601df338494 )
+)
+
+game (
+	name "Song in Lines 3 (1989)(Busy Software)(cs)[128K]"
+	description "Song in Lines 3 (1989)(Busy Software)(cs)[128K]"
+	rom ( name "Song in Lines 3 (1989)(Busy Software)(cs)[128K].tzx" size 44396 crc fd0e4c0b md5 df90c88f24dafbb74703224d96d4545c sha1 8988cedecd4f6cc62b41daf2611dbc6f3a7b80ce )
+)
+
+game (
+	name "Song in Lines 4 (1990)(Busy Software)(cs)[128K]"
+	description "Song in Lines 4 (1990)(Busy Software)(cs)[128K]"
+	rom ( name "Song in Lines 4 (1990)(Busy Software)(cs)[128K].tzx" size 65655 crc 21bb3e70 md5 758c90f828615a4a85d01dcd08afc6bd sha1 2d1e3fb3d0a58390e3f078744390c777d88c9ac7 )
+)
+
+game (
+	name "Song in Lines 5 (1991)(Busy Software)[128K]"
+	description "Song in Lines 5 (1991)(Busy Software)[128K]"
+	rom ( name "Song in Lines 5 (1991)(Busy Software)[128K].tzx" size 75907 crc 2b673d49 md5 8080a8cb9027f04ae54204b2501bdd0a sha1 b835affa585b98fba6be7205299123090593265f )
+)
+
+game (
+	name "Spectrum 128k Music Demo (1988)(Sinclair User)[128K]"
+	description "Spectrum 128k Music Demo (1988)(Sinclair User)[128K]"
+	rom ( name "Spectrum 128k Music Demo (1988)(Sinclair User)[128K].tzx" size 87185 crc a3ee19e8 md5 e7bbe167230a3d28096530d5f45e107a sha1 35643e42383fbc3126ae4150c645aa2fdf69bd91 )
+)
+
+game (
+	name "Spectrum 128k Music Demo (1988)(Sinclair User)[a][128K]"
+	description "Spectrum 128k Music Demo (1988)(Sinclair User)[a][128K]"
+	rom ( name "Spectrum 128k Music Demo (1988)(Sinclair User)[a][128K].tzx" size 35858 crc 3dc589a0 md5 08210e263057250ec3ece07a34af502d sha1 c1a6a8a3f720d1f2e95b33e494b5b2b0b673edb1 )
+)
+
+game (
+	name "Strip, The (1989)(Busy Software)"
+	description "Strip, The (1989)(Busy Software)"
+	rom ( name "Strip, The (1989)(Busy Software).tzx" size 32504 crc 05e2707b md5 fe9da8cf476a58e75b885a7fa7992145 sha1 83863efe7dd6c3361ff95e81e49767d02df97d97 )
+)
+
+game (
+	name "Tenner (1989)(D.V.B.)"
+	description "Tenner (1989)(D.V.B.)"
+	rom ( name "Tenner (1989)(D.V.B.).tzx" size 24314 crc c81d4e74 md5 53451a556053d46939c7de403f489b03 sha1 2e8384a24abfea83a01ff24bb8d0582c7b019604 )
+)
+
+game (
+	name "Theo's Music Demo 1 (1992)(Sinclair User)"
+	description "Theo's Music Demo 1 (1992)(Sinclair User)"
+	rom ( name "Theo's Music Demo 1 (1992)(Sinclair User).tzx" size 14623 crc 982a8624 md5 3469159be5834b24b7d605399b5b833b sha1 5e54ade3c2888d03ff5459cc5a102ec89ce4e1a1 )
+)
+
+game (
+	name "Theo's Music Demo 1 (1992)(Sinclair User)[a]"
+	description "Theo's Music Demo 1 (1992)(Sinclair User)[a]"
+	rom ( name "Theo's Music Demo 1 (1992)(Sinclair User)[a].tzx" size 14479 crc 96ef5867 md5 3497279a4bbe3d0b5b5dc6b07548e96f sha1 63f07b9bdd58a85aaf035d79bf0ac4c009e1c36a )
+)
+
+game (
+	name "Theo's Music Demo 2 (1992)(Sinclair User)"
+	description "Theo's Music Demo 2 (1992)(Sinclair User)"
+	rom ( name "Theo's Music Demo 2 (1992)(Sinclair User).tzx" size 14381 crc 54b0b2e0 md5 6034d0ff00d6f81bb8841f2866c279c4 sha1 f64bf42f175e7dadc2a2833f31a030e6509027a8 )
+)
+
+game (
+	name "Theo's Music Demo 3 (1992)(Sinclair User)"
+	description "Theo's Music Demo 3 (1992)(Sinclair User)"
+	rom ( name "Theo's Music Demo 3 (1992)(Sinclair User).tzx" size 18961 crc 3f3a5f47 md5 6a45d1e1f6a77cf689c778f4d4d274a2 sha1 f838887e513455306c75f70fcaf6d50b890de3d0 )
+)
+
+game (
+	name "Theo's Music Demo 4 (1992)(Sinclair User)"
+	description "Theo's Music Demo 4 (1992)(Sinclair User)"
+	rom ( name "Theo's Music Demo 4 (1992)(Sinclair User).tzx" size 27631 crc 8d406e1c md5 8da90dc021ba5a97e499fc58ecde2cde sha1 ee0f3143baab2b0acae27954f2dcd30a94fb8840 )
+)
+
+game (
+	name "Theo's Music Demo 5 (1992)(Sinclair User)"
+	description "Theo's Music Demo 5 (1992)(Sinclair User)"
+	rom ( name "Theo's Music Demo 5 (1992)(Sinclair User).tzx" size 13203 crc 907572ff md5 afe469fd9de91d2b2ed7805bbfcddd3d sha1 c8a6cd6c1791f7e4235a2691ffe156afe5162e10 )
+)
+
+game (
+	name "Theo's Music Demo 6 (1993)(Sinclair User)[48-128K]"
+	description "Theo's Music Demo 6 (1993)(Sinclair User)[48-128K]"
+	rom ( name "Theo's Music Demo 6 (1993)(Sinclair User)[48-128K].tzx" size 20100 crc 6a161eb7 md5 6e25ae03de1915a0d4f9b23332898ac1 sha1 5790520c59ca5f98f06de635dbd661dcfc807198 )
+)
+
+game (
+	name "Theo's Music Demo 7 (1993)(Sinclair User)[48-128K]"
+	description "Theo's Music Demo 7 (1993)(Sinclair User)[48-128K]"
+	rom ( name "Theo's Music Demo 7 (1993)(Sinclair User)[48-128K].tzx" size 23099 crc b010c5f8 md5 ace851a5d3411a74f3e8b5e27745ea15 sha1 9b11a70c69b1122c93aa2ecf8aff7b86cc5baef6 )
+)
+
+game (
+	name "Thieves Like Us (1989)(Coolguys)"
+	description "Thieves Like Us (1989)(Coolguys)"
+	rom ( name "Thieves Like Us (1989)(Coolguys).tzx" size 29912 crc 5da3705b md5 69a46f586de2a4c7f7ed0cb646f42c63 sha1 5be4a29aa75b818e204031884307c58d5279d137 )
+)
+
+game (
+	name "Touch Me (19xx)(The Lords)[128K]"
+	description "Touch Me (19xx)(The Lords)[128K]"
+	rom ( name "Touch Me (19xx)(The Lords)[128K].tzx" size 24864 crc 12b41b85 md5 8ef5d6b031d4a415275a2eead44358ec sha1 5452a1b484208b4ebef4b816138dd6b6f84f10bd )
+)
+
+game (
+	name "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[128K]"
+	description "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[128K]"
+	rom ( name "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[128K].tzx" size 36519 crc 77926ca9 md5 b5cda41588bdd259d7854d8c8bb9b49a sha1 d6e542bc603c51f6a81472b4f9879036fd1acdbc )
+)
+
+game (
+	name "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[a][128K]"
+	description "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[a][128K]"
+	rom ( name "Toxic Elephant (1992)(Total Eclipse - Your Sinclair)[a][128K].tzx" size 36600 crc d911e5e0 md5 2bb2214e11b95e0bdd76916e7da29a4c sha1 11afaade35e41235357bf2710b820658f6b2f1ae )
+)
+
+game (
+	name "Unlimited Spirits (1992)(TMS Corporation)"
+	description "Unlimited Spirits (1992)(TMS Corporation)"
+	rom ( name "Unlimited Spirits (1992)(TMS Corporation).tzx" size 29830 crc 17c906df md5 1b25a2b951dc96b701ed4f99a3f8ec2f sha1 1e31709699f9d1837fed274cf703ec653f3e8088 )
+)
+
+game (
+	name "Without a Name 1 (1989)(Kassoft)"
+	description "Without a Name 1 (1989)(Kassoft)"
+	rom ( name "Without a Name 1 (1989)(Kassoft).tzx" size 16118 crc c1ffd86d md5 28045f4728cbf2994708096ce382a415 sha1 c09ed8b68d14c8e0db97cd511c2f5f3436e71efd )
+)
+
+game (
+	name "Wix 1 (1989)(Hacker Chris)[128K]"
+	description "Wix 1 (1989)(Hacker Chris)[128K]"
+	rom ( name "Wix 1 (1989)(Hacker Chris)[128K].tzx" size 30857 crc 6e73f415 md5 f2fff10490c6b499e212524318c75054 sha1 49a963d593b72531266ca7f20d0bf4546d5367e9 )
+)
+
+game (
+	name "Wix 2 (1989)(Hacker Chris)[128K]"
+	description "Wix 2 (1989)(Hacker Chris)[128K]"
+	rom ( name "Wix 2 (1989)(Hacker Chris)[128K].tzx" size 25268 crc 5ef1dfec md5 99f4343807caecab894230bd382bb790 sha1 89d2058db2f23ab92a59409661d4560a54a8cead )
+)
+
+game (
+	name "ZZZ-UNK-SamGraphicsDemo (19xx)(-)"
+	description "ZZZ-UNK-SamGraphicsDemo (19xx)(-)"
+	rom ( name "ZZZ-UNK-SamGraphicsDemo (19xx)(-).tzx" size 16771 crc b42d0edb md5 f5f1fd93faf198e853258d842c031b0f sha1 552bda002d7804c45cb095b43cdfa8892627e905 )
+)
+

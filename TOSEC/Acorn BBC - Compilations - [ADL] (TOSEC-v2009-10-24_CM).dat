@@ -1,0 +1,541 @@
+clrmamepro (
+	name "Acorn BBC - Compilations - [ADL]"
+	description "Acorn BBC - Compilations - [ADL] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Compilations - [ADL]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "32016 Utilities (19xx)(-)[ADFS]"
+	description "32016 Utilities (19xx)(-)[ADFS]"
+	rom ( name "32016 Utilities (19xx)(-)[ADFS].adl" size 655360 crc 8e56c14b md5 6c6c042314339c22ba3bcb450a700354 )
+)
+
+game (
+	name "8-Bit Software - Issue 01, 02, 03, 04, 05, 06 & 08 (19xx)(Webster, Duncan)[ADFS]"
+	description "8-Bit Software - Issue 01, 02, 03, 04, 05, 06 & 08 (19xx)(Webster, Duncan)[ADFS]"
+	rom ( name "8-Bit Software - Issue 01, 02, 03, 04, 05, 06 & 08 (19xx)(Webster, Duncan)[ADFS].adl" size 655360 crc 9b371085 md5 a0a86236399cdc9ec9a9bd5cc326d79a )
+)
+
+game (
+	name "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel)[ADFS]"
+	description "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel)[ADFS]"
+	rom ( name "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel)[ADFS].adl" size 655360 crc 3d5e984e md5 6400555448574025272ff0dd6b372e2a )
+)
+
+game (
+	name "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel)[ADFS]"
+	description "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel)[ADFS]"
+	rom ( name "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel)[ADFS].adl" size 655360 crc 206ceb4e md5 1549a948e2c2a04734b5ed3abfadfc30 )
+)
+
+game (
+	name "8-Bit Software - Issue 23 (1992)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 23 (1992)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 23 (1992)(Richardson, C.J.)[ADFS].adl" size 655360 crc d485dafc md5 650ecba4163c4da165f8af35edde58b3 )
+)
+
+game (
+	name "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel)[ADFS]"
+	description "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel)[ADFS]"
+	rom ( name "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel)[ADFS].adl" size 655360 crc 5d69c66c md5 4e6f3eb17b5d91071843b5ea55457ed0 )
+)
+
+game (
+	name "8-Bit Software - Issue 25 (1992)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 25 (1992)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 25 (1992)(Richardson, C.J.)[ADFS].adl" size 655360 crc 637c970a md5 de7cf15333dde26df96872c758fd9149 )
+)
+
+game (
+	name "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel)[ADFS]"
+	description "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel)[ADFS]"
+	rom ( name "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel)[ADFS].adl" size 655360 crc 6f40b20c md5 4f4e64a2bbf3ada26b2f00b98877ab32 )
+)
+
+game (
+	name "8-Bit Software - Issue 27 (1992)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 27 (1992)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 27 (1992)(Richardson, C.J.)[ADFS].adl" size 655360 crc 08d7dd6e md5 8f0d6ede8cf863614393aff60010499f )
+)
+
+game (
+	name "8-Bit Software - Issue 28 (1992)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 28 (1992)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 28 (1992)(Richardson, C.J.)[ADFS].adl" size 655360 crc 765e10fe md5 c169f7e305cac246a4b623c6e83b2e4d )
+)
+
+game (
+	name "8-Bit Software - Issue 29 (1992)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 29 (1992)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 29 (1992)(Richardson, C.J.)[ADFS].adl" size 655360 crc c9d36a36 md5 320e4d78bf3bd8d6077a5065c1686485 )
+)
+
+game (
+	name "8-Bit Software - Issue 30 (1993)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 30 (1993)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 30 (1993)(Richardson, C.J.)[ADFS].adl" size 655360 crc 45cc70ea md5 6097106badcb1c2716dcb76f64c6123e )
+)
+
+game (
+	name "8-Bit Software - Issue 31 (1993)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 31 (1993)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 31 (1993)(Richardson, C.J.)[ADFS].adl" size 655360 crc 772e200b md5 bb3188ab5ba340d8e01432de878d5959 )
+)
+
+game (
+	name "8-Bit Software - Issue 32 (1993)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 32 (1993)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 32 (1993)(Richardson, C.J.)[ADFS].adl" size 655360 crc 9db78190 md5 7ba14f3bba8e8f1114c618f89133dda6 )
+)
+
+game (
+	name "8-Bit Software - Issue 33 (1993)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 33 (1993)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 33 (1993)(Richardson, C.J.)[ADFS].adl" size 655360 crc ce397ee2 md5 db5cd554d189621aedcf757eb36409d8 )
+)
+
+game (
+	name "8-Bit Software - Issue 34 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 34 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 34 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc 8fd99773 md5 f3d1898d901fedbd133d10697c501408 )
+)
+
+game (
+	name "8-Bit Software - Issue 35 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 35 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 35 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc f053a287 md5 2a76968246eecc5a5bb6f95f1d2fe00d )
+)
+
+game (
+	name "8-Bit Software - Issue 36 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 36 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 36 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc 72c3fdda md5 fa49cda73ec9f44836ed6613091ca051 )
+)
+
+game (
+	name "8-Bit Software - Issue 37 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 37 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 37 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc b052e289 md5 cc400083e39b1576281a32802e0d4508 )
+)
+
+game (
+	name "8-Bit Software - Issue 38 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 38 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 38 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc 2452a8c7 md5 c982da4c1a17149f50bd859d4147bc39 )
+)
+
+game (
+	name "8-Bit Software - Issue 39 (1994)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 39 (1994)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 39 (1994)(Richardson, C.J.)[ADFS].adl" size 655360 crc 977cb1c8 md5 af8ccf1b14b6f3d6dcf36c9020dde344 )
+)
+
+game (
+	name "8-Bit Software - Issue 40 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 40 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 40 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc c156961a md5 4421b1a3f7aad0b8d4dd6498a9345c3d )
+)
+
+game (
+	name "8-Bit Software - Issue 41 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 41 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 41 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc 9f395546 md5 2666b83c272e9004e3aa3776b8ddcccc )
+)
+
+game (
+	name "8-Bit Software - Issue 42 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 42 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 42 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc 4e9d474a md5 ee1dc5c2aaf6fb283613f00acc86197d )
+)
+
+game (
+	name "8-Bit Software - Issue 43 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 43 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 43 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc a467600d md5 9b4a5557c7f6aa6c7d9a7c57c0b72cbf )
+)
+
+game (
+	name "8-Bit Software - Issue 44 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 44 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 44 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc f517394e md5 90795d156f49be87d076b2eabf693817 )
+)
+
+game (
+	name "8-Bit Software - Issue 45 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 45 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 45 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc c9281e41 md5 7aa9871c804264876692e5b2e5dcb72d )
+)
+
+game (
+	name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)[ADFS].adl" size 655360 crc 18d6026a md5 9c82b85f2f6f39cd066b778ce3328387 )
+)
+
+game (
+	name "8-Bit Software - Issue 47 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 47 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 47 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc b5ec7486 md5 92edc644fae76519fee51c143470f05a )
+)
+
+game (
+	name "8-Bit Software - Issue 48 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 48 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 48 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc 92f7ed02 md5 af2065716af4cf21bad58f77d58ef31d )
+)
+
+game (
+	name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc 696a6f3a md5 51cda6943c2adb9f95ec91a19b1257f7 )
+)
+
+game (
+	name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc 4de25f4d md5 b9a8176f1d1949582f9c473b4ce8ce1e )
+)
+
+game (
+	name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc 6123a305 md5 1d415460bd92cd6e492939a9d48e3f64 )
+)
+
+game (
+	name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc 23297d29 md5 fefd217de1829907f38fbe862459e725 )
+)
+
+game (
+	name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)[ADFS].adl" size 655360 crc e81d90f2 md5 7a8086ea79e757176ea6a21202a9c79f )
+)
+
+game (
+	name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc dc26fcb9 md5 9938e59febc04600c539eb186a5e6cad )
+)
+
+game (
+	name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc f4b65e9e md5 5463d7f9c4faedd807e55b4186d49fa7 )
+)
+
+game (
+	name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc 19f9bab7 md5 0ef573146c2674673b57d1e4fb007dee )
+)
+
+game (
+	name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc a0e9ce56 md5 a466ee2c18181a6bbde278552f4737db )
+)
+
+game (
+	name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc 47d27963 md5 6a537421fea488d3d6c8dd994aea40d2 )
+)
+
+game (
+	name "8-Bit Software - Issue 59 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 59 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 59 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc b1058a4e md5 5d530a418201629171597620b19f95fc )
+)
+
+game (
+	name "8-Bit Software - Issue 60 (1997)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 60 (1997)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 60 (1997)(Richardson, C.J.)[ADFS].adl" size 655360 crc 5240c339 md5 e21bba61fcf019b0c1866b477d646374 )
+)
+
+game (
+	name "8-Bit Software - Issue 61 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 61 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 61 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc 159639a6 md5 28f59687b2e90fa847fe4191a72b620b )
+)
+
+game (
+	name "8-Bit Software - Issue 62 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 62 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 62 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc 84b46c03 md5 6b73fa223bb0f40f8d348dd93cb1e1ac )
+)
+
+game (
+	name "8-Bit Software - Issue 63 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 63 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 63 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc e6dd3514 md5 0fa3056b419beb9d1eb7a7bce0206fce )
+)
+
+game (
+	name "8-Bit Software - Issue 64 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 64 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 64 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc d3e11339 md5 4414f436f5feb89155ff6586b56556f2 )
+)
+
+game (
+	name "8-Bit Software - Issue 65 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 65 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 65 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc 4bea1ddb md5 c527f861498a8df08fbdda022d95ec7e )
+)
+
+game (
+	name "8-Bit Software - Issue 66 (1998)(Richardson, C.J.)[ADFS]"
+	description "8-Bit Software - Issue 66 (1998)(Richardson, C.J.)[ADFS]"
+	rom ( name "8-Bit Software - Issue 66 (1998)(Richardson, C.J.)[ADFS].adl" size 655360 crc 8ffa2cdb md5 ccafbc96b5c611fe5457c5bdf275249c )
+)
+
+game (
+	name "ADFS Compilation (19xx)(Richardson, C.J.)[ADFS]"
+	description "ADFS Compilation (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "ADFS Compilation (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc 8a16c799 md5 cfa71af2299ba9f54b38234a891a5f5b )
+)
+
+game (
+	name "Amateur Radio (19xx)(-)[ADFS]"
+	description "Amateur Radio (19xx)(-)[ADFS]"
+	rom ( name "Amateur Radio (19xx)(-)[ADFS].adl" size 655360 crc 521d896b md5 35fec62744befbe16c84354594938468 )
+)
+
+game (
+	name "Archie Disk Accessers (19xx)(-)[ADFS]"
+	description "Archie Disk Accessers (19xx)(-)[ADFS]"
+	rom ( name "Archie Disk Accessers (19xx)(-)[ADFS].adl" size 655360 crc 516a3274 md5 de762ea64c8a89c8473842826685c689 )
+)
+
+game (
+	name "BBC PD Disk 000 - Catalogue & Sampler Disc (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 000 - Catalogue & Sampler Disc (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 000 - Catalogue & Sampler Disc (19xx)(-)(PD)[ADFS].adl" size 655360 crc 692b98ac md5 dca06b86b3d72a5d1d623c3e851de05c )
+)
+
+game (
+	name "BBC PD Disk 012 - Puzzles (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 012 - Puzzles (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 012 - Puzzles (19xx)(-)(PD)[ADFS].adl" size 655360 crc 7495a68e md5 9910edd516b8b424a0954748e73d788d )
+)
+
+game (
+	name "BBC PD Disk 020-A - Risk - The Computer Game (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 020-A - Risk - The Computer Game (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 020-A - Risk - The Computer Game (19xx)(-)(PD)[ADFS].adl" size 655360 crc 2b5a5381 md5 cd2a42a75486e41e7dc7c4778fcf7dc5 )
+)
+
+game (
+	name "BBC PD Disk 021 - A. Sandman Games (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 021 - A. Sandman Games (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 021 - A. Sandman Games (19xx)(-)(PD)[ADFS].adl" size 655360 crc 9f85d1ca md5 500f6419340f291542d211d61fbe8570 )
+)
+
+game (
+	name "BBC PD Disk 030 - UMX Sound & Graphics (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 030 - UMX Sound & Graphics (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 030 - UMX Sound & Graphics (19xx)(-)(PD)[ADFS].adl" size 655360 crc 6d7513db md5 a5a42271e19d01a640d12177f6d6263d )
+)
+
+game (
+	name "BBC PD Disk 031 - Ghostbusters & Program Planner (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 031 - Ghostbusters & Program Planner (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 031 - Ghostbusters & Program Planner (19xx)(-)(PD)[ADFS].adl" size 655360 crc ad95bab6 md5 49093feb00a5e8d24d17087fc07d21cf )
+)
+
+game (
+	name "BBC PD Disk 035 - STD Codes for Viewstore (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 035 - STD Codes for Viewstore (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 035 - STD Codes for Viewstore (19xx)(-)(PD)[ADFS].adl" size 655360 crc ff3e06ce md5 d84b80898d4595d8ed4f08606bcb2d2b )
+)
+
+game (
+	name "BBC PD Disk 052 - Starfleet (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 052 - Starfleet (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 052 - Starfleet (19xx)(-)(PD)[ADFS].adl" size 655360 crc 8f864aca md5 15c919c5159a86362cc852d06ae3ebb1 )
+)
+
+game (
+	name "BBC PD Disk 073 - Geology Sytem (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 073 - Geology Sytem (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 073 - Geology Sytem (19xx)(-)(PD)[ADFS].adl" size 655360 crc 26cad1e1 md5 0e098c3a1b023be6f5670473abe29636 )
+)
+
+game (
+	name "BBC PD Disk 077 - Wapping Editor Clip Art - Biology (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 077 - Wapping Editor Clip Art - Biology (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 077 - Wapping Editor Clip Art - Biology (19xx)(-)(PD)[ADFS].adl" size 655360 crc 19b6e76b md5 719594b9c261f1aa58f0e16b3d2e556a )
+)
+
+game (
+	name "BBC PD Disk 085 - Aeronautical Dogfight II (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 085 - Aeronautical Dogfight II (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 085 - Aeronautical Dogfight II (19xx)(-)(PD)[ADFS].adl" size 655360 crc 502edd57 md5 0914989716496a9562128166ff7cc1ab )
+)
+
+game (
+	name "BBC PD Disk 099 - Ultraword Plus (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 099 - Ultraword Plus (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 099 - Ultraword Plus (19xx)(-)(PD)[ADFS].adl" size 655360 crc acc37752 md5 6d85bdca60ff2e93b44a5a111600327c )
+)
+
+game (
+	name "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD)[ADFS].adl" size 655360 crc 5333ae37 md5 e09e37251a9235dbf745b57f4caf93c3 )
+)
+
+game (
+	name "BBC PD Disk 108 & 109 - S. Flintham & Utilities (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 108 & 109 - S. Flintham & Utilities (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 108 & 109 - S. Flintham & Utilities (19xx)(-)(PD)[ADFS].adl" size 655360 crc 6257fdda md5 81f92d4d670d2efbb3e7fba1fd1948cb )
+)
+
+game (
+	name "BBC PD Disk 118 - Dictionary Access (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 118 - Dictionary Access (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 118 - Dictionary Access (19xx)(-)(PD)[ADFS].adl" size 655360 crc ce578ef8 md5 645bbaf55b036c006adb9a9216f6abcd )
+)
+
+game (
+	name "BBC PD Disk 121 - Fractal Graphics (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 121 - Fractal Graphics (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 121 - Fractal Graphics (19xx)(-)(PD)[ADFS].adl" size 655360 crc 2816efd2 md5 4ceca8c6b3d2d89ecffb5d0359e27aa3 )
+)
+
+game (
+	name "BBC PD Disk 123 - Name Displayer & Horoscopes (19xx)(-)(PD)"
+	description "BBC PD Disk 123 - Name Displayer & Horoscopes (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 123 - Name Displayer & Horoscopes (19xx)(-)(PD).adl" size 409600 crc be95a849 md5 84cddb5be36c60eaaf47c2042810d059 )
+)
+
+game (
+	name "BBC PD Disk 123-A - Name Displayer & Horoscopes (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 123-A - Name Displayer & Horoscopes (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 123-A - Name Displayer & Horoscopes (19xx)(-)(PD)[ADFS].adl" size 655360 crc 1c9161fb md5 6892beb3e78757e7714cd392e5658f58 )
+)
+
+game (
+	name "BBC PD Disk 126 - Wapping Editor Files (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 126 - Wapping Editor Files (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 126 - Wapping Editor Files (19xx)(-)(PD)[ADFS].adl" size 655360 crc 4c617ac3 md5 baaa8b02fcbaaa6e35d9308f3266d3a4 )
+)
+
+game (
+	name "BBC PD Disk 127 - Family History (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 127 - Family History (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 127 - Family History (19xx)(-)(PD)[ADFS].adl" size 655360 crc fb324960 md5 6c6648ec0c8c57952de6a43f0cd7a347 )
+)
+
+game (
+	name "BBC PD Disk 128 - Ultrasoft Picasso (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 128 - Ultrasoft Picasso (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 128 - Ultrasoft Picasso (19xx)(-)(PD)[ADFS].adl" size 655360 crc b8ac1cb9 md5 c28fb4e14564f75920c0d9e488bd3387 )
+)
+
+game (
+	name "BBC PD Disk 139 - British History & Essays (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 139 - British History & Essays (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 139 - British History & Essays (19xx)(-)(PD)[ADFS].adl" size 655360 crc 920bd0df md5 f73ffb4b27762a3b580a3decee51571d )
+)
+
+game (
+	name "BBC PD Disk 141 - Master Series Only (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 141 - Master Series Only (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 141 - Master Series Only (19xx)(-)(PD)[ADFS].adl" size 655360 crc 1d7d7c14 md5 0058ad2c7cc8bd0cfcf26bd60ccfd52a )
+)
+
+game (
+	name "BBC PD Disk 142 - Ultraword Plus (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 142 - Ultraword Plus (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 142 - Ultraword Plus (19xx)(-)(PD)[ADFS].adl" size 655360 crc c0e4314a md5 23048c5500d5e6b099bf9db7811c55ac )
+)
+
+game (
+	name "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD)[ADFS].adl" size 655360 crc 2449d217 md5 d874e83c4e02db62767289e8bc6ad36e )
+)
+
+game (
+	name "BBC PD Disk 151 - Kermit Manuals (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 151 - Kermit Manuals (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 151 - Kermit Manuals (19xx)(-)(PD)[ADFS].adl" size 655360 crc c14cd45e md5 360c845b391f2ad142d7b95f3aebf1cd )
+)
+
+game (
+	name "BBC PD Disk 154 - Adventure Games Collection (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 154 - Adventure Games Collection (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 154 - Adventure Games Collection (19xx)(-)(PD)[ADFS].adl" size 655360 crc 61ebb547 md5 eba61532bdaf4c8089418893ea9dec65 )
+)
+
+game (
+	name "BBC PD Disk 168 - Wordsearch Puzzles (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 168 - Wordsearch Puzzles (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 168 - Wordsearch Puzzles (19xx)(-)(PD)[ADFS].adl" size 655360 crc b3b36d04 md5 1acd19bba567eab9e2d7b95c2c538612 )
+)
+
+game (
+	name "BBC PD Disk 171 - Morse Code Programs (19xx)(-)(PD)[ADFS]"
+	description "BBC PD Disk 171 - Morse Code Programs (19xx)(-)(PD)[ADFS]"
+	rom ( name "BBC PD Disk 171 - Morse Code Programs (19xx)(-)(PD)[ADFS].adl" size 655360 crc bbd5f97b md5 82c51c03ffb854395d8def94c3277bd8 )
+)
+
+game (
+	name "CJR 1 + CJR 3 + CJR 14 (19xx)(Richardson, C.J.)[ADFS]"
+	description "CJR 1 + CJR 3 + CJR 14 (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "CJR 1 + CJR 3 + CJR 14 (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc 9a05ed1e md5 203f961bbc21861a3f5ba2232fdc1f0f )
+)
+
+game (
+	name "Educational Compilation (19xx)(-)[ADFS]"
+	description "Educational Compilation (19xx)(-)[ADFS]"
+	rom ( name "Educational Compilation (19xx)(-)[ADFS].adl" size 655360 crc 945d24a4 md5 d8e491cd268b1c132e6535f7d2cfb376 )
+)
+
+game (
+	name "JJF PD Disk 43 - Family History (19xx)(Farmer, J.)(PD)[ADFS]"
+	description "JJF PD Disk 43 - Family History (19xx)(Farmer, J.)(PD)[ADFS]"
+	rom ( name "JJF PD Disk 43 - Family History (19xx)(Farmer, J.)(PD)[ADFS].adl" size 655360 crc f11cee6c md5 184f4f7ecc1615cc8e5fd2fb6a42911e )
+)
+
+game (
+	name "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD)[ADFS]"
+	description "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD)[ADFS]"
+	rom ( name "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD)[ADFS].adl" size 655360 crc 75234645 md5 72355a7371e4e0bd810fb13273d6e7ef )
+)
+
+game (
+	name "Master Compact (19xx)(-)[ADFS]"
+	description "Master Compact (19xx)(-)[ADFS]"
+	rom ( name "Master Compact (19xx)(-)[ADFS].adl" size 655360 crc 83bd2d83 md5 6ed259c75fefc196783fc3aa2a53e1f7 )
+)
+
+game (
+	name "More Amateur Radio (19xx)(-)[ADFS]"
+	description "More Amateur Radio (19xx)(-)[ADFS]"
+	rom ( name "More Amateur Radio (19xx)(-)[ADFS].adl" size 655360 crc 6dd16cec md5 f90ebddfc68bdb8fc315ed02e711314c )
+)
+
+game (
+	name "RISC Computing Special 1 & 2 - Teen Text (19xx)(-)[ADFS]"
+	description "RISC Computing Special 1 & 2 - Teen Text (19xx)(-)[ADFS]"
+	rom ( name "RISC Computing Special 1 & 2 - Teen Text (19xx)(-)[ADFS].adl" size 655360 crc e879122d md5 82363b094ed93f989eeeff0cee94f756 )
+)
+
+game (
+	name "Utilities Menu 1 (19xx)(-)[ADFS]"
+	description "Utilities Menu 1 (19xx)(-)[ADFS]"
+	rom ( name "Utilities Menu 1 (19xx)(-)[ADFS].adl" size 655360 crc 23ed1977 md5 2e8605f2b3865055d82359afa2ab1340 )
+)
+
+game (
+	name "Utilities Menu 2 (19xx)(-)[ADFS]"
+	description "Utilities Menu 2 (19xx)(-)[ADFS]"
+	rom ( name "Utilities Menu 2 (19xx)(-)[ADFS].adl" size 655360 crc 8a682445 md5 d8a7b9f807b34f7f85303f41635e1258 )
+)

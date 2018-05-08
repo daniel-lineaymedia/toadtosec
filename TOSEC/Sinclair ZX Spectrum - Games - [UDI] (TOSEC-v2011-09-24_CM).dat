@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Games - [UDI]"
+	description "Sinclair ZX Spectrum - Games - [UDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Games - [UDI]"
+	version 2011-09-24
+	author "jugaor - Dziuber - Cassiel"
+)
+
+game (
+	name "Elite (1999)(Firebird Software)[m Dimon][GS]"
+	description "Elite (1999)(Firebird Software)[m Dimon][GS]"
+	rom ( name "Elite (1999)(Firebird Software)[m Dimon][GS].udi" size 1150556 crc b31819f4 md5 525ee011ad64e2aec653faeabdcdd51a sha1 89225bf7c8deadf36d63cb43160d5edd840f0081 )
+)
+
+game (
+	name "Street Fighter II (1993)(Go!)[h Softstar]"
+	description "Street Fighter II (1993)(Go!)[h Softstar]"
+	rom ( name "Street Fighter II (1993)(Go!)[h Softstar].udi" size 1153760 crc 805e39a9 md5 7f30767e3072d2ceea129eeb8e493d29 sha1 28a5a5ee6bdd0eb8c1acd74e38056a45440bd9f3 )
+)
+

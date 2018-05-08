@@ -1,0 +1,305 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [Z64]"
+	description "Commodore C64 - Applications - [Z64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Applications - [Z64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Byte Boiler v1.0 (19xx)(Oneway)"
+	description "Byte Boiler v1.0 (19xx)(Oneway)"
+	rom ( name "1!Byte Boiler v1.0 (19xx)(Oneway).z64" size 5131 crc 9aaa1d0e md5 a790133604c29a5a5405a73712e64883 sha1 584f54ce306427ede7bbe1f205ab6d89ba351287 )
+	rom ( name "2!Byte Boiler v1.0 (19xx)(Oneway).z64" size 32244 crc d72b2986 md5 51974414db067341ff7a22b2eb7ee83e sha1 209717d052d4e6680ded16552677373ae3236f8f )
+	rom ( name "3!Byte Boiler v1.0 (19xx)(Oneway).z64" size 29931 crc d93fc09f md5 b025e7464149d42b55c3986c95eb538e sha1 378608c846bdc376ca6267b9e2eecdcfe5015703 )
+	rom ( name "4!Byte Boiler v1.0 (19xx)(Oneway).z64" size 10891 crc ee9d6a48 md5 1943feba81328971396843826f6f5a14 sha1 c17cb354c6341f3ed92a2acaf0421bf5e24bf277 )
+)
+
+game (
+	name "Copy II v3.4 (19xx)(-)"
+	description "Copy II v3.4 (19xx)(-)"
+	rom ( name "1!Copy II v3.4 (19xx)(-).z64" size 22589 crc 3c2c9c3d md5 e89eaf76fa77cab085d811cda43b225b sha1 26f592c195a88c1e9cfbc5d930e88b77f2a7accb )
+	rom ( name "2!Copy II v3.4 (19xx)(-).z64" size 33775 crc ff9b1a9a md5 3f1ab572e06d9b70544fbe53c1c1ca49 sha1 6fbf1fd051a88e1ae3f8163e2e0ffc9851071492 )
+	rom ( name "3!Copy II v3.4 (19xx)(-).z64" size 30178 crc fcad3eb3 md5 592af0f15c09b61abd39f3dc3d5f1432 sha1 70ba4c87f12d8867918658f00f2b11eebf32774c )
+	rom ( name "4!Copy II v3.4 (19xx)(-).z64" size 28164 crc e0d5c734 md5 3ce0c2b0b49e0b0043f20f96b915b6cb sha1 704cdc093575842c98a0636e6053838e80ad3042 )
+)
+
+game (
+	name "Digi Organizer (19xx)(Padua)"
+	description "Digi Organizer (19xx)(Padua)"
+	rom ( name "1!Digi Organizer (19xx)(Padua).z64" size 43247 crc 35e7ec31 md5 e08976844f5ce7b1b00058a22b335238 sha1 1fbc74d54705e387ab1bc852b2c909b27f43beec )
+	rom ( name "2!Digi Organizer (19xx)(Padua).z64" size 41509 crc 1472f4f3 md5 b0ffb906d99c9ec4d8e9b459334ea754 sha1 22e876c09dacf4f10ae8c3f07ba299d10e41de49 )
+	rom ( name "3!Digi Organizer (19xx)(Padua).z64" size 37303 crc 8e552543 md5 312a373cc426d205896c0181ff9f255c sha1 2272f7449eb9296fbb68ec785e79819a1ce6ecc0 )
+	rom ( name "4!Digi Organizer (19xx)(Padua).z64" size 44427 crc c6361b93 md5 0eca7fd74e8ebda6ade9505f5408cef8 sha1 114520d7e86d1d2720870b3b28cd62e5ca14b170 )
+)
+
+game (
+	name "Disk-Invader v9.9 (1988)(Avantgarde64)"
+	description "Disk-Invader v9.9 (1988)(Avantgarde64)"
+	rom ( name "1!Disk-Invader v9.9 (1988)(Avantgarde64).z64" size 31608 crc 9a0d6aee md5 0fb3d7913560e6b90ae08d0400b4d3ee sha1 54c36208f9ba7d79cf18ee482c93507aeea8477b )
+	rom ( name "2!Disk-Invader v9.9 (1988)(Avantgarde64).z64" size 39509 crc 69074007 md5 caad12401e85ab7a5857ab498598f29b sha1 5d93398b882e954ab744946468c417a7bb8dbd39 )
+	rom ( name "3!Disk-Invader v9.9 (1988)(Avantgarde64).z64" size 34999 crc 9c85b40d md5 0415be59bdd640f5f52b4bc768214330 sha1 fb0eac9fcc3271de4274c9d5615c7130a5f5fe8c )
+	rom ( name "4!Disk-Invader v9.9 (1988)(Avantgarde64).z64" size 37115 crc ccc2ea5a md5 f10db98fbcf4c31da0cb1c64573caa9b sha1 092ade0768f55817047351877a147c309bb2154a )
+)
+
+game (
+	name "DMC Editor Utility Pack (19xx)(Angry)"
+	description "DMC Editor Utility Pack (19xx)(Angry)"
+	rom ( name "1!DMC Editor Utility Pack (19xx)(Angry).z64" size 25523 crc f3f0ea3d md5 02ff8f2f133fb8dc6492c18d9705dc03 sha1 33b9205b1bae0258683c58b316ced23886bcfd60 )
+	rom ( name "2!DMC Editor Utility Pack (19xx)(Angry).z64" size 43335 crc 31e73780 md5 90c654176b590364cd93979197193af8 sha1 7eacf6ba41c17c1751dcba910c8d9c6e678b0b32 )
+	rom ( name "3!DMC Editor Utility Pack (19xx)(Angry).z64" size 40073 crc 3913abab md5 66b05abc14e95d60ddacbdbb3caa20f2 sha1 d04295c7fc6eccda28546f530af71a1fb949c222 )
+	rom ( name "4!DMC Editor Utility Pack (19xx)(Angry).z64" size 36560 crc e237f0dd md5 32b0e6df3b08e321f29beadc19fc8bbe sha1 5d6e725de17b3bb41982028d475ec6dc58906c16 )
+)
+
+game (
+	name "EMS Music Editor v7.03 (1997)(Cosine)"
+	description "EMS Music Editor v7.03 (1997)(Cosine)"
+	rom ( name "1!EMS Music Editor v7.03 (1997)(Cosine).z64" size 1516 crc 9b951ef0 md5 ab0f8f23f07e755d7fd48b7087f858e9 sha1 5dec0607e519155e3d697665ac5706ec792dce0f )
+	rom ( name "2!EMS Music Editor v7.03 (1997)(Cosine).z64" size 26589 crc 80527ba3 md5 5472c4990b7f85755aaa1260a2b0d0a7 sha1 5d2486647cebaa1f371ad61edff1469b42345d76 )
+	rom ( name "3!EMS Music Editor v7.03 (1997)(Cosine).z64" size 22576 crc 35bc8410 md5 0f3598c87306a36bb97b224c409570a5 sha1 0753f10f56ae4598c4b0b11524d1a2767388139b )
+	rom ( name "4!EMS Music Editor v7.03 (1997)(Cosine).z64" size 20670 crc bd8ed520 md5 552f3e521c97ccc2ed37ebb2563c8d31 sha1 0a22cc4eab303390421dd090fde757b67950fb47 )
+)
+
+game (
+	name "Femur (1997)(Acsore)(Side A)"
+	description "Femur (1997)(Acsore)(Side A)"
+	rom ( name "1!Femur (1997)(Acsore)(Side A).z64" size 43337 crc 067595ed md5 c60ffc08d4461178d65a0e92cf4f3311 sha1 bcb16264d25853afc2317523f9e3d776cf8e1595 )
+	rom ( name "2!Femur (1997)(Acsore)(Side A).z64" size 43121 crc 7176466d md5 c2930beeba73191c19038b5c92b724e3 sha1 0d54bd4a4388b2a0ced174f5c7c6ce126e0e87bd )
+	rom ( name "3!Femur (1997)(Acsore)(Side A).z64" size 40086 crc 340338b2 md5 59ae13b0405de5e3f3cce87025ac10f1 sha1 627e5aa51119dedd967407b0e3a957d639a6b4fe )
+	rom ( name "4!Femur (1997)(Acsore)(Side A).z64" size 36355 crc 123db213 md5 b685b679da5d1b6e79724d54c8e965ae sha1 8e5d286cde389858d3420fa00fe7f758cca2b813 )
+)
+
+game (
+	name "Femur (1997)(Acsore)(Side B)"
+	description "Femur (1997)(Acsore)(Side B)"
+	rom ( name "1!Femur (1997)(Acsore)(Side B).z64" size 39912 crc 599e1b7f md5 3dd8435b3eaf029eac007df74ce5e573 sha1 a67e2a0566c0a04268d8409a184be5355ea98d4e )
+	rom ( name "2!Femur (1997)(Acsore)(Side B).z64" size 43287 crc 5661574c md5 00687e145ed5ca3b8ef7fa21405f35c6 sha1 3ab8e1f0e3838a2fcd00d49c37eef3a37534bfea )
+	rom ( name "3!Femur (1997)(Acsore)(Side B).z64" size 40172 crc 4390755e md5 acb56cc8e07896a77bd0babcfd6e6b3a sha1 8b6ad23b1ec020d7617fc84b0ee0abcc25c86329 )
+	rom ( name "4!Femur (1997)(Acsore)(Side B).z64" size 44978 crc 4a6284f1 md5 9e1cb75057647d37a65ba1f72d6cc9af sha1 282a33358d2056d31dbe77de32b95ad5aa9fbba0 )
+)
+
+game (
+	name "Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)"
+	description "Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)"
+	rom ( name "1!Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)[a10].z64" size 19378 crc fefd8fc6 md5 938087637e96ed5fcf5d12bfe9163700 sha1 0f2f3fffd385a031c40f1e0d3f2060553218cd4f )
+	rom ( name "2!Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)[a10].z64" size 18922 crc 59604d0d md5 ce53b020da915e2797a0466fb7236389 sha1 4fd7a8843f6c8ff763d0a33be9a818c5cd7cac10 )
+	rom ( name "3!Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)[a10].z64" size 15093 crc e1668b2d md5 a504d7ae9f1ff4dbd68eaf60735b6a5c sha1 f16fffcec21c42e762585ab73820ac3d332a49bd )
+	rom ( name "4!Giga-CAD Plus (1986)(Markt & Technik)(Disk 3 of 4)[a10].z64" size 22233 crc 028c46c6 md5 833fa5df334438474031bad89a355759 sha1 5bab7e751437061db4b80a35dbf1642799c21803 )
+)
+
+game (
+	name "Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)"
+	description "Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)"
+	rom ( name "1!Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)[a6].z64" size 24648 crc 2dcd70d7 md5 767973b31ec4e63ce63a2aec45516097 sha1 d6a223291130ae9df45d459447eb4950e4121b8e )
+	rom ( name "2!Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)[a6].z64" size 15725 crc 9697bb35 md5 e94df0111150d89ee9873e6f3d9dd025 sha1 35a045a09b2d2f1a79d9748ba4a6ea89c7137334 )
+	rom ( name "3!Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)[a6].z64" size 19560 crc fa4fcfbf md5 3c848677603a170359a7f825eca97949 sha1 a9c18d51182af8fda5e2eae61440220204f9b058 )
+	rom ( name "4!Giga-CAD Plus (1986)(Markt & Technik)(Disk 4 of 4)[a6].z64" size 28721 crc 344a374c md5 26310f5f171f63913c8d0b5b557efa19 sha1 0adbd5a10a51ab90026741125e4d45334addf5a9 )
+)
+
+game (
+	name "ILM (19xx)(-)"
+	description "ILM (19xx)(-)"
+	rom ( name "1!ILM (19xx)(-).z64" size 43348 crc 64d121f0 md5 37ce87370eb9f5f043bb28b36b745168 sha1 4b1e605a535dac6af3d69cb23898623a4e496a4e )
+	rom ( name "2!ILM (19xx)(-).z64" size 43188 crc 93450839 md5 38fdff56decdae82ac72369c8ccdf4d2 sha1 bdab5b76a2015b8abb605d8063a62ef953ec0f4d )
+	rom ( name "3!ILM (19xx)(-).z64" size 37652 crc 3a6f4e81 md5 389ccfb0a6fb560dfe06a538bca354b7 sha1 c789c5ddd5d87c11187779361d09bf7aa34424c4 )
+	rom ( name "4!ILM (19xx)(-).z64" size 36555 crc f285bb1c md5 81a0155cca29f7bec1ae59222cddd1b1 sha1 26b691226f73de709cbd37c24e2c3c132af99b89 )
+)
+
+game (
+	name "Kracker Jax Elite v4.0 (19xx)(-)"
+	description "Kracker Jax Elite v4.0 (19xx)(-)"
+	rom ( name "1!Kracker Jax Elite v4.0 (19xx)(-).z64" size 1348 crc d028cc78 md5 ee6c3ea37655a1cf57b3f45dbbcd5737 sha1 772d935fb2808dee17cd8f2ce416573011147a50 )
+	rom ( name "2!Kracker Jax Elite v4.0 (19xx)(-).z64" size 33223 crc 339af778 md5 c9c9cc524db1c001f24c3583936e76fc sha1 a2184f6649f79104a12ad4f12b18f8b520fa575b )
+	rom ( name "3!Kracker Jax Elite v4.0 (19xx)(-).z64" size 26008 crc ac42e7e9 md5 fbcdb6e43ba8f3d7d2f1311a3ffde1b4 sha1 3100e5edd006c8168c9674fc8072f8d0b3154a34 )
+	rom ( name "4!Kracker Jax Elite v4.0 (19xx)(-).z64" size 1402 crc 4aa444c9 md5 59054bde2f6f1a63badc78285627d0e8 sha1 1ec3ac750faa4b7894b17a86125539fe077e8f25 )
+)
+
+game (
+	name "Kracker Jax Protection Busters 6 (1987)(KJPB)"
+	description "Kracker Jax Protection Busters 6 (1987)(KJPB)"
+	rom ( name "1!Kracker Jax Protection Busters 6 (1987)(KJPB).z64" size 17615 crc c01d7164 md5 0bdaf7d23ee91967946129c776fc4fe7 sha1 db1e65676feb8c0f81280b085761b642b1cede29 )
+	rom ( name "2!Kracker Jax Protection Busters 6 (1987)(KJPB).z64" size 43018 crc e948d8a7 md5 e1c723ef9f05c1fa84327aea22da0307 sha1 41beb7f6d4837091f27d97c57d513873227449d4 )
+	rom ( name "3!Kracker Jax Protection Busters 6 (1987)(KJPB).z64" size 42048 crc c1c3ab03 md5 a53b08b60b10c5ec32f46697c8440930 sha1 3388a22224212388d648583bf0c3c0f8a500a213 )
+	rom ( name "4!Kracker Jax Protection Busters 6 (1987)(KJPB).z64" size 23484 crc 2eebdef6 md5 fee01b8b5461df71e95443241865dc2f sha1 95934a5a396e68d28b18e5531ac5bd05f58c76b0 )
+)
+
+game (
+	name "Kracker Jax Protection Busters 7 (1988)(KJPB)"
+	description "Kracker Jax Protection Busters 7 (1988)(KJPB)"
+	rom ( name "1!Kracker Jax Protection Busters 7 (1988)(KJPB).z64" size 43066 crc 9deafb1c md5 57338e0fe028b4dbe98a6826f5831f26 sha1 9956470dd3225f3dd6c2e32955a3d51f913f0976 )
+	rom ( name "2!Kracker Jax Protection Busters 7 (1988)(KJPB).z64" size 42533 crc dfed018f md5 6a7b87a68437edcd19478341aeeca99d sha1 8cab7a6505cf4dd76c0d26df6bed0a928f2f7f70 )
+	rom ( name "3!Kracker Jax Protection Busters 7 (1988)(KJPB).z64" size 41093 crc cc53993b md5 adb16685a723b7348fa856d34c4049df sha1 494c0c7c0c8f2aca1a3f6575ea417685a42ea8aa )
+	rom ( name "4!Kracker Jax Protection Busters 7 (1988)(KJPB).z64" size 31775 crc 1d5f9478 md5 f5fcfe0dfaca6639b4fa31958bf68735 sha1 0a64e2b51713d9f6f5c2c6a78197a0eb287c79f2 )
+)
+
+game (
+	name "Krestology Tools (1996)(Crest)"
+	description "Krestology Tools (1996)(Crest)"
+	rom ( name "1!Krestology Tools (1996)(Crest).z64" size 40711 crc 14461915 md5 28d7e77dfa1fa0bc735f12ba70d3c52c sha1 d989ebef53b718f400b60e53e0cb361d430afb62 )
+	rom ( name "2!Krestology Tools (1996)(Crest).z64" size 43215 crc b24ba0cc md5 ea8e1190e12840639c5c3e29ba6a3522 sha1 606705fb2bf7ebb2311604c0d4a258602d1b83c6 )
+	rom ( name "3!Krestology Tools (1996)(Crest).z64" size 40324 crc 7555eae4 md5 5eb11e1fce05788702c430f267c6fff2 sha1 583303e74837602033aec7b17b70c955c0b78107 )
+	rom ( name "4!Krestology Tools (1996)(Crest).z64" size 42302 crc d7bff83e md5 5c3ef3408723f3a2af83ee2c1f7885f2 sha1 b581c476d30b4e5aea836dd19fa2628384a2307b )
+)
+
+game (
+	name "Light Voices v1.0 (1990)(Griff of Chromance)"
+	description "Light Voices v1.0 (1990)(Griff of Chromance)"
+	rom ( name "1!Light Voices v1.0 (1990)(Griff of Chromance).z64" size 859 crc bcd66860 md5 e2fb2aa70d91b6f614f5683d5febfcd1 sha1 14b86b57ab3015203dd3108e2086a0b3a994ab57 )
+	rom ( name "2!Light Voices v1.0 (1990)(Griff of Chromance).z64" size 35633 crc 5e39a3f6 md5 d402f074f2579143600eb10415dd9800 sha1 271e2265da0241dab6ea3df69c8aa3f731184a9c )
+	rom ( name "3!Light Voices v1.0 (1990)(Griff of Chromance).z64" size 37160 crc 1d664a7d md5 68d6e3148d969de425b01fed8d36c33a sha1 19c05229f22c99f6b9e995d5fbaad9dfbb5239c4 )
+	rom ( name "4!Light Voices v1.0 (1990)(Griff of Chromance).z64" size 4314 crc 428dff38 md5 13cee75e810613923443f5d445a6882c sha1 c29eb92dc65859dcf2fbac60df43c14cfd9236e5 )
+)
+
+game (
+	name "Love Tools (19xx)(Hitmen)(Side A)"
+	description "Love Tools (19xx)(Hitmen)(Side A)"
+	rom ( name "1!Love Tools (19xx)(Hitmen)(Side A).z64" size 40944 crc 92b5a2b9 md5 835947aaf9d32c33b63bfc6cf0f58357 sha1 e5f9d3e6e8c976ef1afac1a42bab8e006378b91c )
+	rom ( name "2!Love Tools (19xx)(Hitmen)(Side A).z64" size 42463 crc d24c5214 md5 a9634d7c2d3f86d3e3a71cdd6d6d7fb9 sha1 a83c2a792e21420e250ceba7fbf8dde335eb9823 )
+	rom ( name "3!Love Tools (19xx)(Hitmen)(Side A).z64" size 40585 crc 8bb11c8e md5 f050439bba425fb0e2ada86e945f6ac1 sha1 1cbf679b10569f4b0a60cf17e305e55eceedf3dc )
+	rom ( name "4!Love Tools (19xx)(Hitmen)(Side A).z64" size 44308 crc 1eaa3d24 md5 f31f756f9547637b840773d62218ac08 sha1 7c60b0670abb8eaa96cc5111a246ba29c281b00f )
+)
+
+game (
+	name "Love Tools (19xx)(Hitmen)(Side B)"
+	description "Love Tools (19xx)(Hitmen)(Side B)"
+	rom ( name "1!Love Tools (19xx)(Hitmen)(Side B).z64" size 39065 crc 4c80a421 md5 bca07a283f7f2fa618b8dd8b302ffde9 sha1 f4c9977c53a142437613d5321438c7fa002dd231 )
+	rom ( name "2!Love Tools (19xx)(Hitmen)(Side B).z64" size 42867 crc 31f811ba md5 b7007955d22a5ce09181114d9b2de303 sha1 5a19e8843725ae27b958094528a1442097add629 )
+	rom ( name "3!Love Tools (19xx)(Hitmen)(Side B).z64" size 40545 crc 3e4d1291 md5 8483c77d009bfec023c98f35662ab852 sha1 f4604c632475bb45691b396f472d7c624a96d444 )
+	rom ( name "4!Love Tools (19xx)(Hitmen)(Side B).z64" size 44991 crc a5331c4d md5 d455e28f1b0e2bb603b6252b06f3327a sha1 7f06b430904febeea24ded4db14c8f6e1de4dec9 )
+)
+
+game (
+	name "MegaShower v1.01 (1995)(Megastyle)"
+	description "MegaShower v1.01 (1995)(Megastyle)"
+	rom ( name "1!MegaShower v1.01 (1995)(Megastyle).z64" size 26960 crc 0deba119 md5 174de9ffac0ccd85f5f8bdcce37fa818 sha1 9e40253290faa6e28ff34efd755997aa3c15205f )
+	rom ( name "2!MegaShower v1.01 (1995)(Megastyle).z64" size 34462 crc 705a380c md5 a72994d0f4ee29efdb9c7dc900ff4dc3 sha1 32b01636bb6df100e96c5ba0b135fb78bae6ffc5 )
+	rom ( name "3!MegaShower v1.01 (1995)(Megastyle).z64" size 36184 crc c60cd796 md5 ef11577f081d2f319fd34240872d0c8e sha1 e908397b6178bbf1cd6a2f92d5aaf892ceb85fcd )
+	rom ( name "4!MegaShower v1.01 (1995)(Megastyle).z64" size 31671 crc 4275cc18 md5 9d822227ee2f8281b8c3c034193b5787 sha1 80858f9f382f91e99877dec02f4ce6cfec14040c )
+)
+
+game (
+	name "NitWit Pack #01 (19xx)(NitWit)"
+	description "NitWit Pack #01 (19xx)(NitWit)"
+	rom ( name "1!NitWit Pack #01 (19xx)(NitWit).z64" size 41356 crc 356bea41 md5 1586f27a04b6f6617b3ef3a12e1f3304 sha1 58f9648f5a15d8d8143fd446c6e3f2baf5954769 )
+	rom ( name "2!NitWit Pack #01 (19xx)(NitWit).z64" size 43112 crc 9410eb4a md5 bb1c698821927de5ff6fba0cd9c613b8 sha1 0739aa2ea0b72993b633420420870d27069a4766 )
+	rom ( name "3!NitWit Pack #01 (19xx)(NitWit).z64" size 40041 crc 1257f5ab md5 1913dac8573dacb12149a8c1ce95624d sha1 45deff6b48c4445fd2355bd2ecf9f1ea93d49df1 )
+	rom ( name "4!NitWit Pack #01 (19xx)(NitWit).z64" size 44822 crc 4816a023 md5 38f69d5a605964336aa5ce0d0fb0d132 sha1 d9246145ce8b83aaaec080085258f26a45c5fb55 )
+)
+
+game (
+	name "Nurse v1.0 (1988)(Freespirit Software)"
+	description "Nurse v1.0 (1988)(Freespirit Software)"
+	rom ( name "1!Nurse v1.0 (1988)(Freespirit Software).z64" size 9050 crc a5e51216 md5 b9d0cc48f8c34a0c3873cd056eae8176 sha1 615a2e17f6be251a3b6d45f3175bc1170fa6f7e5 )
+	rom ( name "2!Nurse v1.0 (1988)(Freespirit Software).z64" size 41309 crc 78e54b1b md5 88c9df4b01f5c039113754629a105bca sha1 84cc40d1d8c1bef63c647ce6ca1d0490d6ff6b8f )
+	rom ( name "3!Nurse v1.0 (1988)(Freespirit Software).z64" size 36767 crc 8381ef3f md5 e1b4877a458de66901a738b84e86d139 sha1 167e2f60d17cbcb87a24fe4d5239de86a9a53e65 )
+	rom ( name "4!Nurse v1.0 (1988)(Freespirit Software).z64" size 5443 crc a43c35d3 md5 1ef100e202cd8cac2cde51b3aca782fb sha1 8f89b28b2df00ff0cac60678bfffdbdcc731fd80 )
+)
+
+game (
+	name "Padua Tooldisk (19xx)(Padua)"
+	description "Padua Tooldisk (19xx)(Padua)"
+	rom ( name "1!Padua Tooldisk (19xx)(Padua).z64" size 3508 crc 7582ee52 md5 bb9b7f3b28065488ce56ed3f7a19c99e sha1 f30311b536ce4edadb3bbbb4c21679c961acedde )
+	rom ( name "2!Padua Tooldisk (19xx)(Padua).z64" size 43346 crc 16be7122 md5 abffbceceaec040d75269c88475e5562 sha1 8f368f854c1643ae8b050da0015da317129bfb0a )
+	rom ( name "3!Padua Tooldisk (19xx)(Padua).z64" size 39916 crc b06fa5af md5 18e239bd9700d91d205a4d342e2e3100 sha1 56f1cb53a33511baeb68b324a2af6a54b2c3291a )
+	rom ( name "4!Padua Tooldisk (19xx)(Padua).z64" size 12021 crc bf04f23c md5 8da49207da3cfb27b9dc5c3d32f15efd sha1 70d15d756b5e1e8d5094f09401f28c6ec363ab6c )
+)
+
+game (
+	name "Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle]"
+	description "Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle]"
+	rom ( name "1!Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle].z64" size 6692 crc 8e79a9ff md5 dfd638874507dfa9c237504e3670ec3d sha1 ea60b56e1adf6c2bfcc0d041eb4bbb85f5a4c60c )
+	rom ( name "2!Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle].z64" size 40478 crc dabef371 md5 718dd76c072579c70d3c06c1407ece06 sha1 5417791eccca764c1922213ff165840c0eaf80c0 )
+	rom ( name "3!Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle].z64" size 41133 crc a05b5499 md5 cfe0a596028ca7ba1ee5e68e355f0b77 sha1 8f01a7898a46108105ccacd46d56666cb9033a7b )
+	rom ( name "4!Paperback Writer 64 v1.20 (1985)(Digital Solutions Inc.)(Disk 1 of 2)(Program)[cr Triangle].z64" size 16489 crc 7778f8f3 md5 91a67920f25893aaded71972c5f71935 sha1 e025f91ad3e5b1d628fe7412eefe1b72790c9c6e )
+)
+
+game (
+	name "Protracker v1.0 (1995)(Motiv8)"
+	description "Protracker v1.0 (1995)(Motiv8)"
+	rom ( name "1!Protracker v1.0 (1995)(Motiv8).z64" size 29810 crc cf651b96 md5 d6d840c8094f614c59c822700075c2ba sha1 5b2aa5df550efba19c35aa9342bba26e347e74d3 )
+	rom ( name "2!Protracker v1.0 (1995)(Motiv8).z64" size 32189 crc bbb8691e md5 2616965bfff0ea9fcffd4beb5411f926 sha1 79d54d27e0f77c4e5f66680181aad8d4691ecccc )
+	rom ( name "3!Protracker v1.0 (1995)(Motiv8).z64" size 40008 crc 246a5842 md5 b1fd5fddb387473143d899cdb19ef0ff sha1 a83b7eb5506d4ae603075a4d4d3e0db49588a115 )
+	rom ( name "4!Protracker v1.0 (1995)(Motiv8).z64" size 4162 crc cfd56864 md5 4604d3582373dd283dc172086c5492d8 sha1 74726e6c254bbfc6e9a0718ecc15ff173e76d405 )
+)
+
+game (
+	name "Sample Tools (19xx)(Icon)"
+	description "Sample Tools (19xx)(Icon)"
+	rom ( name "1!Sample Tools (19xx)(Icon).z64" size 43303 crc 9f884a84 md5 a60bbc8259ac09559a887837fa9335a8 sha1 ceca02eb402dc185fc1325d4c01b5072b18b6890 )
+	rom ( name "2!Sample Tools (19xx)(Icon).z64" size 43093 crc a739f89f md5 2d8de278043849c5a50f9d3ce5fc8e22 sha1 a4c6849fe4d74c837ea9fb76c722966dfdcf392e )
+	rom ( name "3!Sample Tools (19xx)(Icon).z64" size 40396 crc eaed2420 md5 5d70e3946fa66f7380bcf04e5a9c3d81 sha1 78a28146201fc865d126bbc149b99874129361b4 )
+	rom ( name "4!Sample Tools (19xx)(Icon).z64" size 41026 crc 5b15a563 md5 3a1ec17f8fd78f86bb7a4f4dd6e6f028 sha1 5b91d32da709166147e126d1f28357db5a1e5740 )
+)
+
+game (
+	name "Sanitarium Tools 2 (1996-04-05)(Ascraeus)"
+	description "Sanitarium Tools 2 (1996-04-05)(Ascraeus)"
+	rom ( name "1!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size 42492 crc 97c467fb md5 abf2373629bdc766c709a403a4f97c1f sha1 82fe1da8208d1f161e26bf23bdd52ececa03f6be )
+	rom ( name "2!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size 43254 crc 8cccdf81 md5 5c86148149497c98925e8b7badfce277 sha1 d0fe4ed749510edf1a0dfe83aa76fdc134870564 )
+	rom ( name "3!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size 40407 crc 7c8706ed md5 1fac4164defed77694e44b1100674e9b sha1 bbb0760b976d28fd748acda9e1d2b805fb18e95a )
+	rom ( name "4!Sanitarium Tools 2 (1996-04-05)(Ascraeus).z64" size 45113 crc 887870df md5 98f32714e5b06f91a600622628e812fe sha1 ad1e9bc72c57af85e3c8e0496496d5e0d4d91bab )
+)
+
+game (
+	name "Sanitarium Tools 3 (1996)(Ascraeus)"
+	description "Sanitarium Tools 3 (1996)(Ascraeus)"
+	rom ( name "1!Sanitarium Tools 3 (1996)(Ascraeus).z64" size 22455 crc 036a33c7 md5 d1c96535f61bf537a3e160dfc14ae036 sha1 35a08b3d142e239675b81086cd9704b812f5d831 )
+	rom ( name "2!Sanitarium Tools 3 (1996)(Ascraeus).z64" size 43325 crc d570a52f md5 25eefb6827e8eec65861670f34d3c782 sha1 3f618c631aaafb1f241da0c64a84f5194456b208 )
+	rom ( name "3!Sanitarium Tools 3 (1996)(Ascraeus).z64" size 39930 crc 83234051 md5 057443d2ff311461a0b7209d95c1bd0d sha1 20b076f6046d177057a70a4af96d43de9ecf89ba )
+	rom ( name "4!Sanitarium Tools 3 (1996)(Ascraeus).z64" size 45110 crc 6bc13ecb md5 bc8d3e93cb11b91199f4cd8c522f9704 sha1 6300f69f47def5dd27b306a6bcfa0931e5662d59 )
+)
+
+game (
+	name "Sanitarium Tools 4 (1997)(Ascraeus)"
+	description "Sanitarium Tools 4 (1997)(Ascraeus)"
+	rom ( name "1!Sanitarium Tools 4 (1997)(Ascraeus).z64" size 18949 crc 6ace775b md5 1ffe8d29b8366fe0163f5da38827a27f sha1 4a3418f9bbb4caec189ddc6468f6cb87fa3089dd )
+	rom ( name "2!Sanitarium Tools 4 (1997)(Ascraeus).z64" size 42581 crc 798a5dfc md5 dbca97a517ad9a5eea3444547d8fc17b sha1 8b9fe50f2aca9f6ca43a8ca33b13e1fab64ab54b )
+	rom ( name "3!Sanitarium Tools 4 (1997)(Ascraeus).z64" size 39817 crc 996660d5 md5 97443101ac6f19622941f9d0e6ab3f8c sha1 61cfc03328afc545bc04abbddb204173271f3c1a )
+	rom ( name "4!Sanitarium Tools 4 (1997)(Ascraeus).z64" size 29662 crc baeedc0a md5 02f3fa9c578ba4f152baeedaac1612fd sha1 12f27ded857a9c36ee825f636a167f53bf44b4e9 )
+)
+
+game (
+	name "Tool Collection (1997)(Onslaught)"
+	description "Tool Collection (1997)(Onslaught)"
+	rom ( name "1!Tool Collection (1997)(Onslaught).z64" size 38976 crc e5bd3e84 md5 282eabef550647643318d5a5c269e2ab sha1 ddbf9c9d84244c17521749e9aa1d50244a2e5e0d )
+	rom ( name "2!Tool Collection (1997)(Onslaught).z64" size 43324 crc a7cf5ebb md5 5b9c48ab62b5f49525b6bea35a5d22ec sha1 465fb29c590b7252b8530bc1c5384525ddf9ee5b )
+	rom ( name "3!Tool Collection (1997)(Onslaught).z64" size 40046 crc 673ead9f md5 79164637bb801a0efc4e98375e12d2fb sha1 31c896930d3fe9e332a158a92cf723ba27379302 )
+	rom ( name "4!Tool Collection (1997)(Onslaught).z64" size 45100 crc 1f80866f md5 41cf9545bf2311d997714c65f38933d8 sha1 9e5a8982e20699aa83cf258c4d6566628b2a3f92 )
+)
+
+game (
+	name "Tool Disk #1 (19xx)(Onslaught)"
+	description "Tool Disk #1 (19xx)(Onslaught)"
+	rom ( name "1!Tool Disk #1 (19xx)(Onslaught).z64" size 41596 crc 217f00de md5 b49b365b9785222bc53cff6951b1cde9 sha1 bde949409c0e39cf32ce400f0450f947f088f101 )
+	rom ( name "2!Tool Disk #1 (19xx)(Onslaught).z64" size 42958 crc 2cd47b35 md5 5269b296bf8c8844727cdad64bbb28e5 sha1 e3d60f8075a32c290851d1fbff87957c2689dbbe )
+	rom ( name "3!Tool Disk #1 (19xx)(Onslaught).z64" size 40292 crc 9e0de1de md5 008885624f9c4e465889ae62e59fbb45 sha1 4daebbe007b6341dd5e0c56011298f9952e92ea4 )
+	rom ( name "4!Tool Disk #1 (19xx)(Onslaught).z64" size 42860 crc 055b3d9b md5 616f5b1aac7bb9f09fdf2a2ab61c74fe sha1 921453ea9087fb2541835b09273606ccb1156760 )
+)
+
+game (
+	name "Toolstation #5 (19xx)(Cascade Games)"
+	description "Toolstation #5 (19xx)(Cascade Games)"
+	rom ( name "1!Toolstation #5 (19xx)(Cascade Games).z64" size 31813 crc d5cc7925 md5 3b454dcbcbd8d3e25d19c80ab23f2db7 sha1 c5394d2d3087b620cbfa5955d1ba3af414262cd7 )
+	rom ( name "2!Toolstation #5 (19xx)(Cascade Games).z64" size 42692 crc 105823d3 md5 2dc403311eb79791421100cc92de8e11 sha1 f8c23ae1e96c98b72e1a302a1436ece37a9bf8a1 )
+	rom ( name "3!Toolstation #5 (19xx)(Cascade Games).z64" size 39344 crc 5559e95d md5 878c588a932ec211579b3136af09328c sha1 b5737128e7c4f71273b61089d53bd4969cc22bd3 )
+	rom ( name "4!Toolstation #5 (19xx)(Cascade Games).z64" size 40487 crc 31002e19 md5 ca3e56b518b45655077162d4bffd7158 sha1 1fac435c4a52191194fc9c0bdb742d0dcc05ee4d )
+)
+
+game (
+	name "True Paint I (19xx)(Robert Grabowski)"
+	description "True Paint I (19xx)(Robert Grabowski)"
+	rom ( name "1!True Paint I (19xx)(Robert Grabowski)[a].z64" size 6496 crc fd108e2e md5 f3c40c003abced027c1cd1f27d5f4fb9 sha1 b0a28fc7a295a7f57f58ece6f169937488636e6a )
+	rom ( name "2!True Paint I (19xx)(Robert Grabowski)[a].z64" size 43346 crc 49eee661 md5 aa0d095c809543e0db9114931f84e160 sha1 72a7ad459000391ce592a2e72de96afa76cab9e5 )
+	rom ( name "3!True Paint I (19xx)(Robert Grabowski)[a].z64" size 39957 crc eb0bb95e md5 c8346bc6afa8ffbdac4c79e98313e069 sha1 1317d5cceeaf2512a726655cca02837bbaf2d034 )
+	rom ( name "4!True Paint I (19xx)(Robert Grabowski)[a].z64" size 8539 crc 91e7c176 md5 c49271f41e96cf0d08dee17c04c17be0 sha1 6c637676ef765417a8a9b72d35b425c8c5fdef71 )
+)
+
+game (
+	name "Vizawrite (19xx)(Viza Software)"
+	description "Vizawrite (19xx)(Viza Software)"
+	rom ( name "1!Vizawrite (19xx)(Viza Software).z64" size 40489 crc 51fecc3b md5 ef939c07f0dc6d3e6a5f76447702fda0 sha1 33e18eeada9bd1e1f75313c083f1b13d2a928d0e )
+	rom ( name "2!Vizawrite (19xx)(Viza Software).z64" size 41646 crc 9deb620a md5 cdeccb792ac0de7bdb4c68273a892cde sha1 6a0b81c48e0f5a9b43c081f129eff589d3e3fc1a )
+	rom ( name "3!Vizawrite (19xx)(Viza Software).z64" size 39216 crc a2bc49e8 md5 d23cee57d8d8132d888dee4d03413466 sha1 66816962ddfbdbb0ad686855075b734844ff976c )
+	rom ( name "4!Vizawrite (19xx)(Viza Software).z64" size 36554 crc ed039f0a md5 fb72dc966ab8847b36c6a9c50411211f sha1 98a01b0afb5ae07a986ef7fbb3f7d2e2863bd249 )
+)
+

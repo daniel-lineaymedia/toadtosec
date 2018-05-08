@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Galaksija Galaksija - Applications"
+	description "Galaksija Galaksija - Applications (TOSEC-v2010-02-14)"
+	category "Galaksija Galaksija - Applications"
+	version 2010-02-14
+	author "TKaos"
+)
+
+game (
+	name "Monitor (19xx)(Voja, Antonic)(YU)(en)"
+	description "Monitor (19xx)(Voja, Antonic)(YU)(en)"
+	rom ( name "Monitor (19xx)(Voja, Antonic)(YU)(en).gtp" size 2073 crc f22eceb3 md5 1503d356c032c7581c703af37b79d665 )
+)
+
+game (
+	name "Pozivni Znak (19xx)(Vujkov, Dragan)(YU)"
+	description "Pozivni Znak (19xx)(Vujkov, Dragan)(YU)"
+	rom ( name "Pozivni Znak (19xx)(Vujkov, Dragan)(YU).gtp" size 414 crc 2d7273a3 md5 7206c705ce591f2124361a3599a26342 )
+)
+
+game (
+	name "Sintesajzer (19xx)(Vujkov, Dragan)(YU)"
+	description "Sintesajzer (19xx)(Vujkov, Dragan)(YU)"
+	rom ( name "Sintesajzer (19xx)(Vujkov, Dragan)(YU).gtp" size 901 crc f747478d md5 e1342ea3b0b9c27256790a862425e9e1 )
+)

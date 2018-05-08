@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Games - [FDI]"
+	description "Sinclair ZX Spectrum - Compilations - Games - [FDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Games - [FDI]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Games Collection 01 (19xx)(-)"
+	description "Games Collection 01 (19xx)(-)"
+	rom ( name "Games Collection 01 (19xx)(-).fdi" size 649600 crc d0c032ed md5 3a3d51e647497c77a98c6a20cbf85866 sha1 fd0b990f10c242711d98f189886a10cef5b096b1 )
+)
+
+game (
+	name "Games Collection 19 (19xx)(-)"
+	description "Games Collection 19 (19xx)(-)"
+	rom ( name "Games Collection 19 (19xx)(-).fdi" size 670592 crc a8b7d29a md5 af0b8e06fbd153d1099a18bf7dc474da sha1 9afd844b7832bdf76bc8eb9e279539dc08427434 )
+)
+
+game (
+	name "Games Collection 21 (19xx)(-)"
+	description "Games Collection 21 (19xx)(-)"
+	rom ( name "Games Collection 21 (19xx)(-).fdi" size 662144 crc 4ad4b57b md5 fc7a4e11b6cdd7dc56983626098760d8 sha1 85cb9de43b4ad0b0b892517b0bd92c08ada79e71 )
+)
+

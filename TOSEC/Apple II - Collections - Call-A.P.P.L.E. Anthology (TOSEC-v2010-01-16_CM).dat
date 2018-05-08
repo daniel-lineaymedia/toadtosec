@@ -1,0 +1,121 @@
+clrmamepro (
+	name "Apple II - Collections - Call-A.P.P.L.E. Anthology"
+	description "Apple II - Collections - Call-A.P.P.L.E. Anthology (TOSEC-v2010-01-16)"
+	category "Apple II - Collections - Call-A.P.P.L.E. Anthology"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 01 (1979)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 01 (1979)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 01 (1979)(A.P.P.L.E.)(FW).do" size 143360 crc fa9b0e60 md5 49d735a7ec3afe892ab7d16f6ceb7124 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 02 (1979)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 02 (1979)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 02 (1979)(A.P.P.L.E.)(FW).do" size 143360 crc 7f95b46c md5 bd5d56c0c21c4b22da0026dd2bd7ddce )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 03 (1980)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 03 (1980)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 03 (1980)(A.P.P.L.E.)(FW).do" size 143360 crc 2202101d md5 99b572a6c52d34c20b15080e22dd379f )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 04 (1980)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 04 (1980)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 04 (1980)(A.P.P.L.E.)(FW).do" size 143360 crc ddbeda8c md5 e8e00b951acd5e29eefed17e9f65503d )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 05 (1981)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 05 (1981)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 05 (1981)(A.P.P.L.E.)(FW).do" size 143360 crc 99c1df77 md5 5a6e2dfdc55b4825e60532a980c9fb65 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 06 (1981)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 06 (1981)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 06 (1981)(A.P.P.L.E.)(FW).do" size 143360 crc ba3b2403 md5 83ff76b5f16db52e7f6be4b243366780 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 07 (1982)(A.P.P.L.E.)(FW)"
+	description "Call-A.P.P.L.E. Anthology Volume 07 (1982)(A.P.P.L.E.)(FW)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 07 (1982)(A.P.P.L.E.)(FW).do" size 143360 crc c0b73aa6 md5 8a98dff0524f1524c4cf51e83456e55b )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc c310e45f md5 465299cc213974d685e5404ec4040987 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 08 (1982)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc 21909f26 md5 e63db699371455fcd1c8681507dec40a )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc fd599e9b md5 a43144e238bf04146e13edc2756ba918 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 09 (1983)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc c3170231 md5 c79a1dc8c3cf257f09fa0ffde8fe2ab1 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc 447c8d3f md5 15934ce15681667ad0ccad665f9159d6 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 10 (1983)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc 09c77a02 md5 b38e611681462492343721adfa62f4de )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc c1e701ad md5 e0f1591e1cc9011bbc35cd32efa669a1 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 11 (1984)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc 17b72f1a md5 751d5c8f08cbb23ab55f0a3cadacad3c )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc 6b3b429d md5 072d3997ecc0869347b42cb86fa92fb0 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 12 (1984)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc ee55553c md5 6791be1fa85141185442294909dc4cbf )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side A)"
+	description "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side A)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side A).do" size 143360 crc c485bc82 md5 95266eaf1b8803f881cc0a24bc1c6fd4 )
+)
+
+game (
+	name "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side B)"
+	description "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side B)"
+	rom ( name "Call-A.P.P.L.E. Anthology Volume 13 (1985)(A.P.P.L.E.)(FW)(Side B).do" size 143360 crc 6aa07c20 md5 0232ea344cf6f3420df0c785466a4217 )
+)

@@ -1,0 +1,169 @@
+clrmamepro (
+	name "Atari 8bit - Docs - [ATR]"
+	description "Atari 8bit - Docs - [ATR] (TOSEC-v2010-10-06)"
+	category "Atari 8bit - Docs - [ATR]"
+	version 2010-10-06
+	author "TKaos"
+)
+
+game (
+	name "1090XL Text Docs (19xx)(-)"
+	description "1090XL Text Docs (19xx)(-)"
+	rom ( name "1090XL Text Docs (19xx)(-).atr" size 92176 crc eb843e5f md5 c31c0da77afa0d4c3e20de1df8a00490 )
+)
+
+game (
+	name "850 & 830 Reference Text (19xx)(Atari)"
+	description "850 & 830 Reference Text (19xx)(Atari)"
+	rom ( name "850 & 830 Reference Text (19xx)(Atari).atr" size 92176 crc 89c267b2 md5 69970ffd9e499d4ce01481fbe8c8fdcc )
+)
+
+game (
+	name "Action! Tutorial (19xx)(-)(Disk 1 of 3)"
+	description "Action! Tutorial (19xx)(-)(Disk 1 of 3)"
+	rom ( name "Action! Tutorial (19xx)(-)(Disk 1 of 3).atr" size 92176 crc e659ba21 md5 3ddb6935e578b470e053de2ac202f108 )
+)
+
+game (
+	name "Action! Tutorial (19xx)(-)(Disk 2 of 3)"
+	description "Action! Tutorial (19xx)(-)(Disk 2 of 3)"
+	rom ( name "Action! Tutorial (19xx)(-)(Disk 2 of 3).atr" size 92176 crc 9ad77808 md5 09a579682955125f17aaf19b86e53479 )
+)
+
+game (
+	name "Action! Tutorial (19xx)(-)(Disk 3 of 3)"
+	description "Action! Tutorial (19xx)(-)(Disk 3 of 3)"
+	rom ( name "Action! Tutorial (19xx)(-)(Disk 3 of 3).atr" size 92176 crc e30040c5 md5 8536c5b0957248d3e48ff79e766f96c2 )
+)
+
+game (
+	name "APX Graphic Shop - Documentation (1985)(Antic)"
+	description "APX Graphic Shop - Documentation (1985)(Antic)"
+	rom ( name "APX Graphic Shop - Documentation (1985)(Antic).atr" size 92176 crc 078c5135 md5 37576b41b8842a72f579a23801c0a1cd )
+)
+
+game (
+	name "Atari System Reference Manual (19xx)(-)(Side A)"
+	description "Atari System Reference Manual (19xx)(-)(Side A)"
+	rom ( name "Atari System Reference Manual (19xx)(-)(Side A).atr" size 143376 crc 37840fab md5 4175b9c5199f5459a2d8f316c9fb8141 )
+)
+
+game (
+	name "Atari System Reference Manual (19xx)(-)(Side B)"
+	description "Atari System Reference Manual (19xx)(-)(Side B)"
+	rom ( name "Atari System Reference Manual (19xx)(-)(Side B).atr" size 143376 crc fab4f900 md5 64469245690df66e7d857095f484d448 )
+)
+
+game (
+	name "DOS Control v2.5 - Documentation (2002-08-01)(Dial)(pl)"
+	description "DOS Control v2.5 - Documentation (2002-08-01)(Dial)(pl)"
+	rom ( name "DOS Control v2.5 - Documentation (2002-08-01)(Dial)(pl).atr" size 183952 crc b4025054 md5 9301c2c5415fb7d6fbdff1495178781c )
+)
+
+game (
+	name "FlashPack v2.0 - Instrukcja Obslugi (1996)(Taquart)(PL)"
+	description "FlashPack v2.0 - Instrukcja Obslugi (1996)(Taquart)(PL)"
+	rom ( name "FlashPack v2.0 - Instrukcja Obslugi (1996)(Taquart)(PL).atr" size 5520 crc af2d54a7 md5 9d80cd0a53ff53fe20c3708de131d382 )
+)
+
+game (
+	name "HomPak Mods & Customizer (19xx)(Antic)"
+	description "HomPak Mods & Customizer (19xx)(Antic)"
+	rom ( name "HomPak Mods & Customizer (19xx)(Antic).atr" size 92176 crc 6781cc3f md5 99e94254e675dba7a1114421239d9cf1 )
+)
+
+game (
+	name "Hope (1998-01-02)(Sword)(pl)[k-file]"
+	description "Hope (1998-01-02)(Sword)(pl)[k-file]"
+	rom ( name "Hope (1998-01-02)(Sword)(pl)[k-file].atr" size 10000 crc 9810d9a9 md5 10ab0513d44478d6af1aad95c9877a4c )
+)
+
+game (
+	name "Multi Graph View v1.3 - Documentation (1997)(Tight)(PL)[k-file]"
+	description "Multi Graph View v1.3 - Documentation (1997)(Tight)(PL)[k-file]"
+	rom ( name "Multi Graph View v1.3 - Documentation (1997)(Tight)(PL)[k-file].atr" size 11664 crc 16db327a md5 c72d80a2489ee643e487829717d7d3ea )
+)
+
+game (
+	name "News Station, The - Documentation (1986)(Reeve, Alan)"
+	description "News Station, The - Documentation (1986)(Reeve, Alan)"
+	rom ( name "News Station, The - Documentation (1986)(Reeve, Alan).atr" size 92176 crc 451631fe md5 d8778ba9bc764fb659250b9096643d09 )
+)
+
+game (
+	name "Sherlock 1050 - Documentation (1985)(Antic)"
+	description "Sherlock 1050 - Documentation (1985)(Antic)"
+	rom ( name "Sherlock 1050 - Documentation (1985)(Antic).atr" size 92176 crc 0161c460 md5 97129603f963f1d7b5635c5bdf3959ab )
+)
+
+game (
+	name "SpartaDOS v2.4e (1985-11-01)(ICD)"
+	description "SpartaDOS v2.4e (1985-11-01)(ICD)"
+	rom ( name "SpartaDOS v2.4e (1985-11-01)(ICD).atr" size 92176 crc a0361c6e md5 e7f032a2200628b663c90b70b837829e )
+)
+
+game (
+	name "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[a][BASIC]"
+	description "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[a][BASIC]"
+	rom ( name "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[a][BASIC].atr" size 92176 crc 718df2ea md5 ef239c87f62579d53bce8611d5c904bb )
+)
+
+game (
+	name "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[BASIC]"
+	description "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[BASIC]"
+	rom ( name "Tauz & Kelb (1988)(Rassilon Software)(US)(Side B)[BASIC].atr" size 92176 crc 191ddad4 md5 3a8397cbf47de0d1b9e1a66070fedb99 )
+)
+
+game (
+	name "Tricky Tutorial #10 - Sound Effects (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #10 - Sound Effects (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #10 - Sound Effects (19xx)(Educational Software)[BASIC].atr" size 92176 crc 2cd34ed7 md5 670afd1ad2a4f122f1bffa6e14af4748 )
+)
+
+game (
+	name "Tricky Tutorial #11 - Memory Map (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #11 - Memory Map (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #11 - Memory Map (19xx)(Educational Software)[BASIC].atr" size 92176 crc da77e638 md5 ec5946a12ff41979628d09a4a9dc44f1 )
+)
+
+game (
+	name "Tricky Tutorial #2 - Scrolling (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #2 - Scrolling (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #2 - Scrolling (19xx)(Educational Software)[BASIC].atr" size 92176 crc c095c08e md5 806a77421e92c4de1b5b45535ca6d63f )
+)
+
+game (
+	name "Tricky Tutorial #5 - Player Missile Graphics (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #5 - Player Missile Graphics (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #5 - Player Missile Graphics (19xx)(Educational Software)[BASIC].atr" size 92176 crc 21d77227 md5 52957a3fbb1da34101b8a21785f9e0a5 )
+)
+
+game (
+	name "Tricky Tutorial #6 - Sound & Music (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #6 - Sound & Music (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #6 - Sound & Music (19xx)(Educational Software)[BASIC].atr" size 92176 crc 9c083ebd md5 ca2ed83e347ea639bdc206010752bd11 )
+)
+
+game (
+	name "Tricky Tutorial #7 - DOS & Disk Files (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #7 - DOS & Disk Files (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #7 - DOS & Disk Files (19xx)(Educational Software)[BASIC].atr" size 92176 crc 6b4a5086 md5 6535a2d70e5dbf23ba4eecb3840b8346 )
+)
+
+game (
+	name "Tricky Tutorial #8 - Character Graphics (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #8 - Character Graphics (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #8 - Character Graphics (19xx)(Educational Software)[BASIC].atr" size 92176 crc b64c454c md5 03449ffd0132d4264a4fbb4e33478e22 )
+)
+
+game (
+	name "Tricky Tutorial #9 - GTIA (19xx)(Educational Software)[BASIC]"
+	description "Tricky Tutorial #9 - GTIA (19xx)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorial #9 - GTIA (19xx)(Educational Software)[BASIC].atr" size 92176 crc 16a96e13 md5 5ce8f42ba45b16e2d097543e2dd82b8e )
+)
+
+game (
+	name "Tricky Tutorials (1981)(Educational Software)[BASIC]"
+	description "Tricky Tutorials (1981)(Educational Software)[BASIC]"
+	rom ( name "Tricky Tutorials (1981)(Educational Software)[BASIC].atr" size 92176 crc 97153fa4 md5 86b5bb74c07aedaffa8eb02344945136 )
+)

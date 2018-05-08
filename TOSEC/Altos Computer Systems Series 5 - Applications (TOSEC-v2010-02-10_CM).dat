@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Altos Computer Systems Series 5 - Applications"
+	description "Altos Computer Systems Series 5 - Applications (TOSEC-v2010-02-10)"
+	category "Altos Computer Systems Series 5 - Applications"
+	version 2010-02-10
+	author "TKaos"
+)
+
+game (
+	name "Altos Diag. Exec. v3.0 (198x)(Digital Research)(Serial No. ADX5-00367)"
+	description "Altos Diag. Exec. v3.0 (198x)(Digital Research)(Serial No. ADX5-00367)"
+	rom ( name "Altos Diag. Exec. v3.0 (198x)(Digital Research)(Serial No. ADX5-00367).td0" size 134797 crc 3f92f689 md5 ff32d66abdc5424136e297cf418612ee )
+)
+
+game (
+	name "CP-M v2.20SO (198x)(Digital Research)(Serial No. 25-3709)"
+	description "CP-M v2.20SO (198x)(Digital Research)(Serial No. 25-3709)"
+	rom ( name "CP-M v2.20SO (198x)(Digital Research)(Serial No. 25-3709).td0" size 82277 crc 29f2dbf5 md5 20de37b52b5a3c2e4fcb362fd5f024ad )
+)
+
+game (
+	name "MP-M v2.10SO rev.B (1982)(Digital Research)(Serial No. 25-1941)"
+	description "MP-M v2.10SO rev.B (1982)(Digital Research)(Serial No. 25-1941)"
+	rom ( name "MP-M v2.10SO rev.B (1982)(Digital Research)(Serial No. 25-1941).td0" size 500437 crc 269cb851 md5 8eab66413b6d6174b95527b56a414af9 )
+)

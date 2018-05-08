@@ -1,0 +1,1460 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Games - [DSK]"
+	description "Sinclair ZX Spectrum - Compilations - Games - [DSK] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Games - [DSK]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "2 por 1 - Arkanoid II - Revenge of Doh (1989)(Erbe Software)"
+	description "2 por 1 - Arkanoid II - Revenge of Doh (1989)(Erbe Software)"
+	rom ( name "2 por 1 - Arkanoid II - Revenge of Doh (1989)(Erbe Software).dsk" size 58624 crc 671b73b3 md5 de1cf9443b87a8e285f9b02927b064f1 sha1 56d72c852be3ab2547d348b92fe96dc6cfa4c095 )
+)
+
+game (
+	name "2 por 1 - Chase H.Q. (1989)(Erbe Software)"
+	description "2 por 1 - Chase H.Q. (1989)(Erbe Software)"
+	rom ( name "2 por 1 - Chase H.Q. (1989)(Erbe Software).dsk" size 185088 crc d77030f1 md5 d215fce690fb00bd3bad126a96becd7a sha1 69277d56c97f34405328b7bd253e414fdf3b06a6 )
+)
+
+game (
+	name "2 por 1 - Cybernoid II - The Revenge (1988)(Erbe Software)"
+	description "2 por 1 - Cybernoid II - The Revenge (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Cybernoid II - The Revenge (1988)(Erbe Software).dsk" size 82944 crc aeab4d68 md5 c2fc4201e11da3e8e3769e15a19b06ed sha1 eddf11183b011353570d5b76a4c6d0330dee32ea )
+)
+
+game (
+	name "2 por 1 - Indiana Jones and the Last Crusade (1989)(Erbe Software)"
+	description "2 por 1 - Indiana Jones and the Last Crusade (1989)(Erbe Software)"
+	rom ( name "2 por 1 - Indiana Jones and the Last Crusade (1989)(Erbe Software).dsk" size 194816 crc 6cef7d55 md5 1dc6a4995d9e0be757387a060d365aed sha1 105f953307459319b3c09365815046ba00706803 )
+)
+
+game (
+	name "2 por 1 - Mad Mix Game (1988)(Erbe Software)(es)"
+	description "2 por 1 - Mad Mix Game (1988)(Erbe Software)(es)"
+	rom ( name "2 por 1 - Mad Mix Game (1988)(Erbe Software)(es).dsk" size 194816 crc c530fc92 md5 2b185703f381f181d800878c68bf89b5 sha1 3ba4cae93aded2a468e8b424dd46f1b05f7b18bd )
+)
+
+game (
+	name "2 por 1 - Mask III - Venom Strikes Back (1989)(Erbe Software)"
+	description "2 por 1 - Mask III - Venom Strikes Back (1989)(Erbe Software)"
+	rom ( name "2 por 1 - Mask III - Venom Strikes Back (1989)(Erbe Software).dsk" size 173824 crc b98b5c24 md5 69ada3a9c58aed78db06efd7e9953b1a sha1 3c467d6f40d8106169ff3e7ec6b43f41b729d8be )
+)
+
+game (
+	name "2 por 1 - Mickey Mouse (1988)(Erbe Software)"
+	description "2 por 1 - Mickey Mouse (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Mickey Mouse (1988)(Erbe Software).dsk" size 194816 crc b12215a5 md5 8554c1d912148c1ccff54c8a0fd82f0a sha1 2c26d0d99fbf6232fd58c8815357238d39ffd06a )
+)
+
+game (
+	name "2 por 1 - North Star (1989)(Erbe Software)"
+	description "2 por 1 - North Star (1989)(Erbe Software)"
+	rom ( name "2 por 1 - North Star (1989)(Erbe Software).dsk" size 170752 crc 79bfe6c7 md5 2bac7d09af695999b8827a086adef5d1 sha1 fe39524ea205bd302fbdbd36ba6305171ea16da2 )
+)
+
+game (
+	name "2 por 1 - Platoon (1989)(Erbe Software)"
+	description "2 por 1 - Platoon (1989)(Erbe Software)"
+	rom ( name "2 por 1 - Platoon (1989)(Erbe Software).dsk" size 194816 crc 0341da38 md5 b176bdfe06b8417637cf036d4a47c05a sha1 ced84b0c722d3b7ca87727003c1d825f0bb723e9 )
+)
+
+game (
+	name "2 por 1 - Renegade (1988)(Erbe Software)"
+	description "2 por 1 - Renegade (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Renegade (1988)(Erbe Software).dsk" size 194816 crc bddac6b2 md5 26a037c2736930c5504f71107a43a18f sha1 c4311ea7f5ee36a6b112299aaae107e4855adad9 )
+)
+
+game (
+	name "2 por 1 - Renegade II - Target Renegade (1988)(Erbe Software)"
+	description "2 por 1 - Renegade II - Target Renegade (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Renegade II - Target Renegade (1988)(Erbe Software).dsk" size 194816 crc f27b2afa md5 0710c309d7da8b6d4e48616df2bb1ef6 sha1 4735a96bb82d57dbcb9a9b82cda7e6c3bcc9f624 )
+)
+
+game (
+	name "2 por 1 - Silent Shadow (1988)(Erbe Software)(es)"
+	description "2 por 1 - Silent Shadow (1988)(Erbe Software)(es)"
+	rom ( name "2 por 1 - Silent Shadow (1988)(Erbe Software)(es).dsk" size 194816 crc e308222a md5 a92c734df6802af9866b8fb389507a6c sha1 3512aba07e8087b3b3b22952f30133c057f92897 )
+)
+
+game (
+	name "2 por 1 - Techno-Cop (1988)(Erbe Software)"
+	description "2 por 1 - Techno-Cop (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Techno-Cop (1988)(Erbe Software).dsk" size 224512 crc 1e2df00d md5 4cda3c484de9062e47dcc25f67b73693 sha1 db16b55ef02dafa3c518a168dff46fb6a18ffaff )
+)
+
+game (
+	name "2 por 1 - The Deep (1989)(Erbe Software)"
+	description "2 por 1 - The Deep (1989)(Erbe Software)"
+	rom ( name "2 por 1 - The Deep (1989)(Erbe Software).dsk" size 213760 crc 7c1129d8 md5 b437e34b561229a4dfb8776e131dcd22 sha1 b60f3ede48e54cb09249513ef172b7da6fd30c72 )
+)
+
+game (
+	name "2 por 1 - The Muncher (1989)(Erbe Software)"
+	description "2 por 1 - The Muncher (1989)(Erbe Software)"
+	rom ( name "2 por 1 - The Muncher (1989)(Erbe Software).dsk" size 135680 crc e92043cd md5 2d9d36a0c80a9df0b496612ba37ff321 sha1 26e26db4f65ac3cd98e832da4e5074e49bdaba35 )
+)
+
+game (
+	name "2 por 1 - Thunder Blade (1988)(Erbe Software)"
+	description "2 por 1 - Thunder Blade (1988)(Erbe Software)"
+	rom ( name "2 por 1 - Thunder Blade (1988)(Erbe Software).dsk" size 194816 crc a21e7aea md5 cd12431e3191654a4151921b212bac31 sha1 5315b49c3224fbc1125b05167aa8ebae11be1bba )
+)
+
+game (
+	name "4 Top Games - Catch 23 + Nemesis the Warlock (1987)(Martech Games)"
+	description "4 Top Games - Catch 23 + Nemesis the Warlock (1987)(Martech Games)"
+	rom ( name "4 Top Games - Catch 23 + Nemesis the Warlock (1987)(Martech Games).dsk" size 194560 crc 214d2d60 md5 35ec07160fc29362cd8fb660657f5a1c sha1 31301ca3a0b939d780af5cddaf35b6f69182edc1 )
+)
+
+game (
+	name "4 Top Games - Pulsator + Slaine - The Celtic Barbarian (1987)(Martech Games)"
+	description "4 Top Games - Pulsator + Slaine - The Celtic Barbarian (1987)(Martech Games)"
+	rom ( name "4 Top Games - Pulsator + Slaine - The Celtic Barbarian (1987)(Martech Games).dsk" size 194560 crc e0429b01 md5 2bf69f551bd4edeb15a563ee7b287684 sha1 a6d7bbef5246cd2911f2fe78fccee6fa98972c61 )
+)
+
+game (
+	name "40 Principales, Los - Vol. 01 - Batman + Thanatos (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 01 - Batman + Thanatos (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 01 - Batman + Thanatos (19xx)(Erbe Software).dsk" size 194816 crc cc1065eb md5 49559f874b94667696a400d661131f1a sha1 241933d1e5754176fb6f7764ef4fed618a9be77e )
+)
+
+game (
+	name "40 Principales, Los - Vol. 01 - Spirits + Asterix and the Magic Cauldron (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 01 - Spirits + Asterix and the Magic Cauldron (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 01 - Spirits + Asterix and the Magic Cauldron (19xx)(Erbe Software).dsk" size 194816 crc 43fd2cac md5 4f3d65062f8ca3af6654fc23cedb2152 sha1 a24ea3e43bf1c14c5d0e67577ee36f8c8a5ae0be )
+)
+
+game (
+	name "40 Principales, Los - Vol. 03 - Arkanoid + Nightmare Rally (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 03 - Arkanoid + Nightmare Rally (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 03 - Arkanoid + Nightmare Rally (19xx)(Erbe Software).dsk" size 194816 crc bf661330 md5 d4d60d1a47d1aaa7b10af6d17b27b16f sha1 e209b965d3779f63185e45944b065064da40a36c )
+)
+
+game (
+	name "40 Principales, Los - Vol. 03 - Movie + Phantomas (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 03 - Movie + Phantomas (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 03 - Movie + Phantomas (19xx)(Erbe Software).dsk" size 194816 crc 31a090a1 md5 f21c66ebd86c37da119daeb945830fdf sha1 c218b9248af6a04c81c14979ed2c2b9f7da96cfd )
+)
+
+game (
+	name "40 Principales, Los - Vol. 06 - Rocky + Survivor (19xx)(Erbe Software)(es)"
+	description "40 Principales, Los - Vol. 06 - Rocky + Survivor (19xx)(Erbe Software)(es)"
+	rom ( name "40 Principales, Los - Vol. 06 - Rocky + Survivor (19xx)(Erbe Software)(es).dsk" size 194816 crc fe1eae07 md5 f3c3def4190fc001da80556ede03ab65 sha1 705fa61c03a27194cf031f0542d375eacb5d41f0 )
+)
+
+game (
+	name "40 Principales, Los - Vol. 06 - The Way of the Exploding Fist + Nemesis the Warlock (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 06 - The Way of the Exploding Fist + Nemesis the Warlock (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 06 - The Way of the Exploding Fist + Nemesis the Warlock (19xx)(Erbe Software).dsk" size 194816 crc 1861a94b md5 63473acdfca43d91cec6ec407866527f sha1 f2bd0cb1ed02e1cba60435c19bd58e0acaf6bf16 )
+)
+
+game (
+	name "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software).dsk" size 194816 crc 8a786f29 md5 fbab66af41f84a94556b3da1fdce67a8 sha1 5fe9b2c722ba835a95ba9690b14497c8d3fca6ec )
+)
+
+game (
+	name "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software)[a]"
+	description "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software)[a]"
+	rom ( name "40 Principales, Los - Vol. 08 - Barbarian + Cauldron II - The Pumpkin Strikes Back (19xx)(Erbe Software)[a].dsk" size 194816 crc 54acc38e md5 a488cb6434f27d57c7ea11fe1f65f929 sha1 eafadcf282e0d922be5b28caed86f2ad65f12a3a )
+)
+
+game (
+	name "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software).dsk" size 194816 crc 19eb9f73 md5 b9a779ff87c192867f5a1b0e058d69fd sha1 0616802b7251b5dc3a0766bdefe84e2d52a9ad1a )
+)
+
+game (
+	name "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software)[a]"
+	description "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software)[a]"
+	rom ( name "40 Principales, Los - Vol. 08 - Saboteur + West Bank (19xx)(Erbe Software)[a].dsk" size 194816 crc 4ee1ea8a md5 7cd2eb2bffd7e537afd7a59630c59714 sha1 c7fe4aff2c7e522304057d454849b350d5d929c7 )
+)
+
+game (
+	name "40 Principales, Los - Vol. 10 - Pole Position + Abu Simbel Profanation (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 10 - Pole Position + Abu Simbel Profanation (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 10 - Pole Position + Abu Simbel Profanation (19xx)(Erbe Software).dsk" size 194816 crc 624a60d6 md5 37b31d4313237d32d51131079cec8a48 sha1 5a669643703075479ab57123bb82aa46d755272a )
+)
+
+game (
+	name "40 Principales, Los - Vol. 10 - Super Soccer + Ramon Rodriguez (19xx)(Erbe Software)"
+	description "40 Principales, Los - Vol. 10 - Super Soccer + Ramon Rodriguez (19xx)(Erbe Software)"
+	rom ( name "40 Principales, Los - Vol. 10 - Super Soccer + Ramon Rodriguez (19xx)(Erbe Software).dsk" size 194816 crc e3cfb4fd md5 9773c5abb4820fb968107a43ee1351ba sha1 d91dffe5f813aa2bb55883568487c6073f158911 )
+)
+
+game (
+	name "A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software)"
+	description "A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software)"
+	rom ( name "A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software).dsk" size 194816 crc eee4511d md5 5b50cf2cfaeddd12148e98ccd2ebfa4a sha1 2c9509a694c1522b7654b7666ee340053d5ce275 )
+)
+
+game (
+	name "A Toda Maquina - Dragon Ninja + Afterburner (1989)(Erbe Software)"
+	description "A Toda Maquina - Dragon Ninja + Afterburner (1989)(Erbe Software)"
+	rom ( name "A Toda Maquina - Dragon Ninja + Afterburner (1989)(Erbe Software).dsk" size 261120 crc ff7f0d26 md5 0fbbf4d0c2c36f0bc90b738f21e13b08 sha1 c3a7d5b914105224d707e36a88b73ea74506c215 )
+)
+
+game (
+	name "A Toda Maquina - Rambo III + Robocop + Batman (1989)(Erbe Software)"
+	description "A Toda Maquina - Rambo III + Robocop + Batman (1989)(Erbe Software)"
+	rom ( name "A Toda Maquina - Rambo III + Robocop + Batman (1989)(Erbe Software).dsk" size 261120 crc 9b5ce0b6 md5 3a02114c9dea0915c9402f90138809e8 sha1 b229d4a53451ea0138e394334fae50d2d189e79c )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)"
+	description "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad).dsk" size 194816 crc c84b1e03 md5 42d6f1554e2d2ce8d3d81ad3504c01f3 sha1 4242cda1493d0ded1766ad9de14727a7ec2b53eb )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a2]"
+	description "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a2]"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a2].dsk" size 194816 crc f273df89 md5 e0f6c67acbec758f7f7b842eecfa4d75 sha1 b19047727440ade850268f129ba2e4ceadb9163f )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a]"
+	description "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a]"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[a].dsk" size 194816 crc e7f1d954 md5 f88bbfd14aa25cb3d6deea5d04e4c9c0 sha1 9299a87cb3dd915660f16d5cc8b0082db84a2711 )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[b]"
+	description "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[b]"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Daley Thompson's Supertest + Cosmic Wartoad (1987)(Amstrad)[b].dsk" size 194816 crc 4cc3ee2d md5 d58963951655f08c12145f1be53bd2cd sha1 784e87336872e7d2a62dead3d1b6f04f483c9440 )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)"
+	description "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad).dsk" size 194816 crc a05a58f8 md5 990dbad2c0003b5ca2c7b9cd8786bfa2 sha1 148e437f0d035f3460733205c546eb9d2022c909 )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[a]"
+	description "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[a]"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[a].dsk" size 194816 crc 8fc5a575 md5 a1ee34459e4f40ef84364e14634985f1 sha1 37474b491853775d7b0f9983f50a655106bc7800 )
+)
+
+game (
+	name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[b]"
+	description "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[b]"
+	rom ( name "Amstrad Compilation Disk Spectrum +3 - Gift from the Gods + Mailstrom + N.O.M.A.D. (1987)(Amstrad)[b].dsk" size 194816 crc 317594d1 md5 b6183ce8c07f8792515a8cd792cf0425 sha1 a92983d7c31f4b3b284f42d52ca3ea3b77948eeb )
+)
+
+game (
+	name "Another Big Disk - The Menagerie + The Miser + Bog of Brit (19xx)(Zenobi Software)"
+	description "Another Big Disk - The Menagerie + The Miser + Bog of Brit (19xx)(Zenobi Software)"
+	rom ( name "Another Big Disk - The Menagerie + The Miser + Bog of Brit (19xx)(Zenobi Software).dsk" size 194816 crc 7a22c6b0 md5 20050c7e3b93455a43c6ccd1e566d392 sha1 91279fbb792a02efa15e710b3f2783cb0d8d74bb )
+)
+
+game (
+	name "Another Big Disk - The Pendant of Logryn (19xx)(Zenobi Software)"
+	description "Another Big Disk - The Pendant of Logryn (19xx)(Zenobi Software)"
+	rom ( name "Another Big Disk - The Pendant of Logryn (19xx)(Zenobi Software).dsk" size 194816 crc 9a1aadd3 md5 94fdbe8bd5ce930b63ee762d6c8c6a1f sha1 4e442d0d7b1607351027d8e8a01622829de7c57f )
+)
+
+game (
+	name "Arnold the Adventurer I + II (19xx)(Zenobi Software)"
+	description "Arnold the Adventurer I + II (19xx)(Zenobi Software)"
+	rom ( name "Arnold the Adventurer I + II (19xx)(Zenobi Software).dsk" size 194816 crc 2de22fac md5 2f1b4a98f7f0b3953802d17b188b744e sha1 b721610fbf50a964560810e678c55fae31d2a0d4 )
+)
+
+game (
+	name "Balrog's Big Disk - Pawns of War + Crack City + Stalker (19xx)(Zenobi Software)"
+	description "Balrog's Big Disk - Pawns of War + Crack City + Stalker (19xx)(Zenobi Software)"
+	rom ( name "Balrog's Big Disk - Pawns of War + Crack City + Stalker (19xx)(Zenobi Software).dsk" size 194816 crc 2420fde6 md5 675b882684693942487b02ef61506757 sha1 0ae1560b42f3751e53b949384a903b54b720ad5d )
+)
+
+game (
+	name "Balrog's Big Disk - Pawns of War II - The Infiltrator + Sherlock Holmes - The Case of the Beheaded Smuggler (19xx)(Zenobi Software)"
+	description "Balrog's Big Disk - Pawns of War II - The Infiltrator + Sherlock Holmes - The Case of the Beheaded Smuggler (19xx)(Zenobi Software)"
+	rom ( name "Balrog's Big Disk - Pawns of War II - The Infiltrator + Sherlock Holmes - The Case of the Beheaded Smuggler (19xx)(Zenobi Software).dsk" size 194816 crc 4cd5597d md5 893f5975d84be6fa47f2ff95705053d8 sha1 e95d285c863ef75a3215b778be879210af03eca5 )
+)
+
+game (
+	name "Balrogian Trilogy, The - Fuddo & Slam + An Everyday Tale of a Seeker of Gold (1990)(Zenobi Software)"
+	description "Balrogian Trilogy, The - Fuddo & Slam + An Everyday Tale of a Seeker of Gold (1990)(Zenobi Software)"
+	rom ( name "Balrogian Trilogy, The - Fuddo & Slam + An Everyday Tale of a Seeker of Gold (1990)(Zenobi Software).dsk" size 194816 crc b24c8eb3 md5 3ca53ac241a848a2b931b8131c05a7af sha1 d95392ef03df89350cf3a88198f3272322f942a4 )
+)
+
+game (
+	name "Best of Clive and Les, The - The Little Wandering Guru + Nightwing + Demi-God (1991)(Zenobi Software)"
+	description "Best of Clive and Les, The - The Little Wandering Guru + Nightwing + Demi-God (1991)(Zenobi Software)"
+	rom ( name "Best of Clive and Les, The - The Little Wandering Guru + Nightwing + Demi-God (1991)(Zenobi Software).dsk" size 194816 crc f577d853 md5 624ca0ece4b5685fd755c05d0217707d sha1 4fd34aecf2a22be831ebfb498724c1b52b593e92 )
+)
+
+game (
+	name "Best of Elite Vol. 1 - Airwolf + Commando (1988)(Elite Systems)"
+	description "Best of Elite Vol. 1 - Airwolf + Commando (1988)(Elite Systems)"
+	rom ( name "Best of Elite Vol. 1 - Airwolf + Commando (1988)(Elite Systems).dsk" size 214784 crc 36042980 md5 3b2663feb4d79ab94bdccf6880b87028 sha1 41b40047372fac5c7001031de46ff4db79b27561 )
+)
+
+game (
+	name "Best of Elite Vol. 1 - Frank Bruno's Boxing + Bomb Jack (1988)(Elite Systems)"
+	description "Best of Elite Vol. 1 - Frank Bruno's Boxing + Bomb Jack (1988)(Elite Systems)"
+	rom ( name "Best of Elite Vol. 1 - Frank Bruno's Boxing + Bomb Jack (1988)(Elite Systems).dsk" size 214784 crc d7dcaba9 md5 3061164cb9db7abc6afc9423dfb6a35f sha1 4390a79bea5a12930b52d12e8bc3a0eb4bafb5eb )
+)
+
+game (
+	name "Bog of Brit + The Menagerie (19xx)(Zenobi Software)"
+	description "Bog of Brit + The Menagerie (19xx)(Zenobi Software)"
+	rom ( name "Bog of Brit + The Menagerie (19xx)(Zenobi Software).dsk" size 194816 crc dc47c945 md5 4004be0f09363cee3254f53d6ff62b64 sha1 1d999f7809037b4207bb5feeba9f52172edb1cc3 )
+)
+
+game (
+	name "Boots Action Pack (1987)(Boots)(Side A)"
+	description "Boots Action Pack (1987)(Boots)(Side A)"
+	rom ( name "Boots Action Pack (1987)(Boots)(Side A).dsk" size 194560 crc 64e69648 md5 51e10de6f65150bd8d0daf2db1dcd8e0 sha1 1ef510c5de07b93e3703f820ce170a831cead5f8 )
+)
+
+game (
+	name "Boots Action Pack (1987)(Boots)(Side B)"
+	description "Boots Action Pack (1987)(Boots)(Side B)"
+	rom ( name "Boots Action Pack (1987)(Boots)(Side B).dsk" size 194816 crc 199e7278 md5 5a11496be14ad6bbd57f028a7bfb0953 sha1 146f78330dfddb38f24411abb49eefb7aba83783 )
+)
+
+game (
+	name "Chartbusters - Cobra + Mutants + Green Beret (19xx)(Ocean)"
+	description "Chartbusters - Cobra + Mutants + Green Beret (19xx)(Ocean)"
+	rom ( name "Chartbusters - Cobra + Mutants + Green Beret (19xx)(Ocean).dsk" size 194560 crc 43019e2e md5 6280625cdc03423f90ca656e3ad958f2 sha1 82ba8864be71bb8d17c714b7fd0713ad147d79e3 )
+)
+
+game (
+	name "Chartbusters - Short Circuit + The Great Escape + Yie Ar Kung-Fu (19xx)(Ocean)"
+	description "Chartbusters - Short Circuit + The Great Escape + Yie Ar Kung-Fu (19xx)(Ocean)"
+	rom ( name "Chartbusters - Short Circuit + The Great Escape + Yie Ar Kung-Fu (19xx)(Ocean).dsk" size 194560 crc 2c6606cf md5 da657a0950b30d8abc2c3a7283dda98f sha1 e2224ab3990f61d451fa6741419b6a2653314658 )
+)
+
+game (
+	name "Combat School + Gryzor Preview (1987)(Ocean)"
+	description "Combat School + Gryzor Preview (1987)(Ocean)"
+	rom ( name "Combat School + Gryzor Preview (1987)(Ocean).dsk" size 214784 crc 2996f5e8 md5 98aefac6f80cac0c2c04923597fd29fe sha1 0dc0e1340835d35071a5a2873346462faa07233d )
+)
+
+game (
+	name "Computer Classics - Aliens + Cauldron II - The Pumpkin Strikes Back + Dynamite Dan (1987)(Beau-Jolly)"
+	description "Computer Classics - Aliens + Cauldron II - The Pumpkin Strikes Back + Dynamite Dan (1987)(Beau-Jolly)"
+	rom ( name "Computer Classics - Aliens + Cauldron II - The Pumpkin Strikes Back + Dynamite Dan (1987)(Beau-Jolly).dsk" size 204544 crc f34e00f7 md5 04a39b342144999ec9af0bdb2cc76a22 sha1 293aa4a82b1163cff606a9c8a8ff1e9c4a4d9364 )
+)
+
+game (
+	name "Computer Classics - Into the Eagle's Nest + Exolon (1987)(Beau-Jolly)"
+	description "Computer Classics - Into the Eagle's Nest + Exolon (1987)(Beau-Jolly)"
+	rom ( name "Computer Classics - Into the Eagle's Nest + Exolon (1987)(Beau-Jolly).dsk" size 204544 crc a1d84366 md5 10c998016c6ad7746cd784406f8a4bb5 sha1 c8e1f9ae43d3e44614eb0bf6b51807e1c6ee79df )
+)
+
+game (
+	name "Data East's Arcade Alley - Express Raider + Last Mission (1988)(U.S. Gold)"
+	description "Data East's Arcade Alley - Express Raider + Last Mission (1988)(U.S. Gold)"
+	rom ( name "Data East's Arcade Alley - Express Raider + Last Mission (1988)(U.S. Gold).dsk" size 194816 crc 4621ccee md5 0b85ccb486c5eef1d4134090b5146d60 sha1 6357e892ac1e242d93f145bd1fc3a925133db1a4 )
+)
+
+game (
+	name "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold)"
+	description "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold)"
+	rom ( name "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold).dsk" size 194816 crc 117f5368 md5 48b0a28993504e12869680c1012063a5 sha1 24c459c63cd1829131c6fc6dd730ffc9f192cf45 )
+)
+
+game (
+	name "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold)[a]"
+	description "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold)[a]"
+	rom ( name "Data East's Arcade Alley - Kung-Fu Master + Breakthru (1988)(U.S. Gold)[a].dsk" size 194816 crc 3ec5943f md5 da53ae6c32e8dcd641ad9b495cdc79a9 sha1 1a653fa41d7fcd7aaffe928d2c0185301dd764d7 )
+)
+
+game (
+	name "Dixons Premier Collection - Athena + Slap Fight + Wizball (1988)(Dixons)"
+	description "Dixons Premier Collection - Athena + Slap Fight + Wizball (1988)(Dixons)"
+	rom ( name "Dixons Premier Collection - Athena + Slap Fight + Wizball (1988)(Dixons).dsk" size 214784 crc e92b802c md5 4f21597eac2fe5c719164d59892fcd71 sha1 b72177d547b749b52e46b3f443d85ededfa3a75f )
+)
+
+game (
+	name "Dixons Premier Collection - Game Over + Arkanoid + Tank (1988)(Dixons)"
+	description "Dixons Premier Collection - Game Over + Arkanoid + Tank (1988)(Dixons)"
+	rom ( name "Dixons Premier Collection - Game Over + Arkanoid + Tank (1988)(Dixons).dsk" size 214784 crc a21496c5 md5 1f99699d9b5cf8c3c8f5858d3bab93ab sha1 b29de08493f37ad01bfb88e7a06762c5d5f1f906 )
+)
+
+game (
+	name "DTP Pack (1991)(PCG Software)(Side A)"
+	description "DTP Pack (1991)(PCG Software)(Side A)"
+	rom ( name "DTP Pack (1991)(PCG Software)(Side A).dsk" size 194816 crc 5c1e0941 md5 e7f84dea80767eb74da6092a51a214e3 sha1 ce781bbfa6fa3f68f5705331887fb5adf3a3271b )
+)
+
+game (
+	name "DTP Pack (1991)(PCG Software)(Side B)"
+	description "DTP Pack (1991)(PCG Software)(Side B)"
+	rom ( name "DTP Pack (1991)(PCG Software)(Side B).dsk" size 194816 crc b3f9e13d md5 cc9d21a1c42437c25f1c1438c2743292 sha1 af4ebdf3ebcf3c7143fac4740bf4f9b90894e440 )
+)
+
+game (
+	name "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side A)"
+	description "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side A)"
+	rom ( name "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side A).dsk" size 254208 crc 31775c37 md5 35340dc59060f4b35a6e2abd93a3f969 sha1 3e07255bf51a9d44d5adebc7b12b09d2a37735b2 )
+)
+
+game (
+	name "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side B)"
+	description "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side B)"
+	rom ( name "Epyx 21 (1990)(U.S. Gold)(Disk 1 of 2 Side B).dsk" size 255232 crc 84dc286e md5 583f98df9ce4501ce20061749e79d4af sha1 4983fcc6eb2168ee94205bb19032bd68fa5913a3 )
+)
+
+game (
+	name "Epyx 21 (1990)(U.S. Gold)(Disk 2 of 2)"
+	description "Epyx 21 (1990)(U.S. Gold)(Disk 2 of 2)"
+	rom ( name "Epyx 21 (1990)(U.S. Gold)(Disk 2 of 2).dsk" size 256256 crc 251117ed md5 ccf8510e1882942ea62b34ecaaee6a39 sha1 89cd3b465cdc35df7399996a4a0ca33a70bbdb46 )
+)
+
+game (
+	name "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es)"
+	description "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es)"
+	rom ( name "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es).dsk" size 194816 crc 00933d7d md5 0301ae0ceb98d1f3ff8c4960660858e4 sha1 19d5fcbe03c3148ea7079be5d39b88de3ee9579d )
+)
+
+game (
+	name "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es)[a]"
+	description "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es)[a]"
+	rom ( name "Erbe 88 - Chicago 30's + Coliseum (1988)(Erbe Software)(es)[a].dsk" size 116992 crc 68c614a5 md5 e037809a465fc2e855acfa90b3e54e31 sha1 7aacdd3676b6d45023105c64eab30006cc893eac )
+)
+
+game (
+	name "Erbe 88 - Operation Wolf (1988)(Erbe Software)"
+	description "Erbe 88 - Operation Wolf (1988)(Erbe Software)"
+	rom ( name "Erbe 88 - Operation Wolf (1988)(Erbe Software).dsk" size 194816 crc 8684cb85 md5 033229743c5400be7f09b997586d56d8 sha1 17ef91450cc7e81a02846ac92aa2e37c35cbd7c7 )
+)
+
+game (
+	name "Erbe 88 - Operation Wolf (1988)(Erbe Software)[a]"
+	description "Erbe 88 - Operation Wolf (1988)(Erbe Software)[a]"
+	rom ( name "Erbe 88 - Operation Wolf (1988)(Erbe Software)[a].dsk" size 194816 crc 0975a93a md5 5c0c5482c28ed46530ca4f5e792b53d5 sha1 010edc4e3470e29eeaccf1fea8ff53910c8ee1dc )
+)
+
+game (
+	name "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software)"
+	description "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software)"
+	rom ( name "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software).dsk" size 63488 crc 6494096f md5 b9372a4d21a55d91289adfc101f1a8aa sha1 9202225cadeea646288cddb514a098d6333c262d )
+)
+
+game (
+	name "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software)[a]"
+	description "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software)[a]"
+	rom ( name "Erbe 88 - Psycho Pig U.X.B. (1988)(Erbe Software)[a].dsk" size 68352 crc 103dba81 md5 2ec1e91f7d87f2d152ac408f79725cbb sha1 debe0011ae1c8a63fc3858d66ca778c8aaf38c3c )
+)
+
+game (
+	name "Erbe 88 - Titanic (1988)(Erbe Software)(es)"
+	description "Erbe 88 - Titanic (1988)(Erbe Software)(es)"
+	rom ( name "Erbe 88 - Titanic (1988)(Erbe Software)(es).dsk" size 194816 crc a4545d81 md5 9f77f68347a2dbf015a327f75dac8098 sha1 c8d824b8af1a93971ea9297f5feef04cd902460d )
+)
+
+game (
+	name "Erbe 88 - Titanic (1988)(Erbe Software)(es)[a]"
+	description "Erbe 88 - Titanic (1988)(Erbe Software)(es)[a]"
+	rom ( name "Erbe 88 - Titanic (1988)(Erbe Software)(es)[a].dsk" size 116992 crc 601a2bbc md5 c1ca5778b8c89658dec012018f041cae sha1 2b102f7e62a13821e079797aefd6fc72106ecf9e )
+)
+
+game (
+	name "Even Yet Another Big Disk - Silverwolf + Darkest Road (1991)(Zenobi Software)"
+	description "Even Yet Another Big Disk - Silverwolf + Darkest Road (1991)(Zenobi Software)"
+	rom ( name "Even Yet Another Big Disk - Silverwolf + Darkest Road (1991)(Zenobi Software).dsk" size 194816 crc d4481c89 md5 0576780b58b1c0c2a1a2299dec77ae84 sha1 df54fd6d863731938d2067e94fb7ff9bf68cbc67 )
+)
+
+game (
+	name "Even Yet Another Big Disk - The Dogboy + Kobyashi Ag'Kwo - A Return to Naru (1991)(Zenobi Software)"
+	description "Even Yet Another Big Disk - The Dogboy + Kobyashi Ag'Kwo - A Return to Naru (1991)(Zenobi Software)"
+	rom ( name "Even Yet Another Big Disk - The Dogboy + Kobyashi Ag'Kwo - A Return to Naru (1991)(Zenobi Software).dsk" size 194816 crc 0e5c3a13 md5 484f55f3e2ac1a7830e20f9943606eab sha1 0f507f72b0b096f37ef307443bb50e7fa88edaae )
+)
+
+game (
+	name "Five Star Games 3 - Aliens + The Sacred Armour of Antiriad + The Way of the Exploding Fist (1987)(Beau-Jolly)"
+	description "Five Star Games 3 - Aliens + The Sacred Armour of Antiriad + The Way of the Exploding Fist (1987)(Beau-Jolly)"
+	rom ( name "Five Star Games 3 - Aliens + The Sacred Armour of Antiriad + The Way of the Exploding Fist (1987)(Beau-Jolly).dsk" size 194816 crc a4183f58 md5 9fe52a2ce6f307fee96910773ea89e1a sha1 bda5e566d528700d8dc829636a59a55a8755f055 )
+)
+
+game (
+	name "Five Star Games 3 - Spindizzy + Starquake + Tau Ceti + Uridium+ (1987)(Beau-Jolly)"
+	description "Five Star Games 3 - Spindizzy + Starquake + Tau Ceti + Uridium+ (1987)(Beau-Jolly)"
+	rom ( name "Five Star Games 3 - Spindizzy + Starquake + Tau Ceti + Uridium+ (1987)(Beau-Jolly).dsk" size 194816 crc 52571952 md5 e2279746d0ab9ae9bcfa153c9d1b7b4b sha1 23a2ce48d8ea3116578084c398702be0c3adb8d4 )
+)
+
+game (
+	name "Found Yet Another Big Disk - Brian - The Novice Barbarian + Civil Service + Man About the House (1991)(Zenobi Software)"
+	description "Found Yet Another Big Disk - Brian - The Novice Barbarian + Civil Service + Man About the House (1991)(Zenobi Software)"
+	rom ( name "Found Yet Another Big Disk - Brian - The Novice Barbarian + Civil Service + Man About the House (1991)(Zenobi Software).dsk" size 194816 crc f6a2ac35 md5 4f64f9be482a8f7149ba525ab620bed9 sha1 71eb7edc2621a1973aa0e5e1b46075cfc0911695 )
+)
+
+game (
+	name "Found Yet Another Big Disk - The End is Nigh (1991)(Zenobi Software)"
+	description "Found Yet Another Big Disk - The End is Nigh (1991)(Zenobi Software)"
+	rom ( name "Found Yet Another Big Disk - The End is Nigh (1991)(Zenobi Software).dsk" size 194816 crc 0fd39d7a md5 47fa9f3b887db3b1863ffe82735502ed sha1 2291ace6106dc57389039e58c82887f1807eac9d )
+)
+
+game (
+	name "Gaggles of George - Brian - The Novice Barbarian + A Fistful of Necronomicons (1996)(Zenobi Software)"
+	description "Gaggles of George - Brian - The Novice Barbarian + A Fistful of Necronomicons (1996)(Zenobi Software)"
+	rom ( name "Gaggles of George - Brian - The Novice Barbarian + A Fistful of Necronomicons (1996)(Zenobi Software).dsk" size 194816 crc 1ee71ba8 md5 0b37c96e6a4a483a691d8fadc90d63b5 sha1 c6e692b8a11fac0e125362888d1b49cac8ea4d2e )
+)
+
+game (
+	name "Gaggles of George - Trouble with Trolls + The Emerald Elf (1996)(Zenobi Software)"
+	description "Gaggles of George - Trouble with Trolls + The Emerald Elf (1996)(Zenobi Software)"
+	rom ( name "Gaggles of George - Trouble with Trolls + The Emerald Elf (1996)(Zenobi Software).dsk" size 194816 crc 7f144a30 md5 7f1a4869fe76f7a789f960c79af75410 sha1 4bd81a0bf2f22ca42d901377e8112ffddabcbf98 )
+)
+
+game (
+	name "Game Over I + II (19xx)(Imagine Software)(Side A)"
+	description "Game Over I + II (19xx)(Imagine Software)(Side A)"
+	rom ( name "Game Over I + II (19xx)(Imagine Software)(Side A).dsk" size 101888 crc 6d00c99e md5 9aa7db05de3dad3dcfeac4b6d10b9da5 sha1 c4f455027c568c1d2b2538455d48cc74326e88f4 )
+)
+
+game (
+	name "Game Over I + II (19xx)(Imagine Software)(Side B)"
+	description "Game Over I + II (19xx)(Imagine Software)(Side B)"
+	rom ( name "Game Over I + II (19xx)(Imagine Software)(Side B).dsk" size 107264 crc 26859d00 md5 f205e64d2e091abec96484175dbf719b sha1 b806d734fdc966ad6ab0ce0a522fcfdf731efd5f )
+)
+
+game (
+	name "Game, Set and Match - Barry McGuigan World Championship Boxing + Jonah Barrington's Squash + Pool (1987)(Ocean)"
+	description "Game, Set and Match - Barry McGuigan World Championship Boxing + Jonah Barrington's Squash + Pool (1987)(Ocean)"
+	rom ( name "Game, Set and Match - Barry McGuigan World Championship Boxing + Jonah Barrington's Squash + Pool (1987)(Ocean).dsk" size 194560 crc e2b334e1 md5 0f9ee7419e23468efdc44801e6a04022 sha1 d514e073868c131af165d89920aff1f4c849a36f )
+)
+
+game (
+	name "Game, Set and Match - GBA Championship Basketball + Super Soccer + World Series Baseball (1987)(Ocean)"
+	description "Game, Set and Match - GBA Championship Basketball + Super Soccer + World Series Baseball (1987)(Ocean)"
+	rom ( name "Game, Set and Match - GBA Championship Basketball + Super Soccer + World Series Baseball (1987)(Ocean).dsk" size 194560 crc 6f8325fc md5 acaf8547671a0ea18b0895fd02329989 sha1 0cbe9b1ad58ac17b1e0cdd59e390ed2095f68c43 )
+)
+
+game (
+	name "Game, Set and Match - Hyper Sports + Konami's Tennis (1987)(Ocean)"
+	description "Game, Set and Match - Hyper Sports + Konami's Tennis (1987)(Ocean)"
+	rom ( name "Game, Set and Match - Hyper Sports + Konami's Tennis (1987)(Ocean).dsk" size 194560 crc 5873c4f6 md5 f7058535657157474b3eb75194b15660 sha1 4b1031a0ffcb952862aa500b3428fc8b5a7d9a08 )
+)
+
+game (
+	name "Game, Set and Match - Konami's Ping Pong + Daley Thompson's Supertest (1987)(Ocean)"
+	description "Game, Set and Match - Konami's Ping Pong + Daley Thompson's Supertest (1987)(Ocean)"
+	rom ( name "Game, Set and Match - Konami's Ping Pong + Daley Thompson's Supertest (1987)(Ocean).dsk" size 194560 crc 51ce1b94 md5 47a74081b74c39e0e98e0b691de00cf6 sha1 7022c2172a46d6c705da4343eaa9d1b47547a09e )
+)
+
+game (
+	name "Giants - 720 Degrees + Rolling Thunder (1989)(U.S. Gold)"
+	description "Giants - 720 Degrees + Rolling Thunder (1989)(U.S. Gold)"
+	rom ( name "Giants - 720 Degrees + Rolling Thunder (1989)(U.S. Gold).dsk" size 194816 crc f2ded21e md5 e2b19b58e56672fe2e26e1ad8cd3bbb5 sha1 055f552e55fc5d2d698f9a17c6524cf8a21d2614 )
+)
+
+game (
+	name "Hamster Droppings - First Past the Post + Get Me to the Church on Time! (1993)(Zenobi Software)"
+	description "Hamster Droppings - First Past the Post + Get Me to the Church on Time! (1993)(Zenobi Software)"
+	rom ( name "Hamster Droppings - First Past the Post + Get Me to the Church on Time! (1993)(Zenobi Software).dsk" size 194816 crc 8de6f9c6 md5 7fb3cda4d1bccf7285b26e81a74c1e5d sha1 e45b8df3e8f009bcfb055db9e392c7cefc050708 )
+)
+
+game (
+	name "Hamster Droppings - The Life of a Lone Electron + The Quest for the Holy Snail (1993)(Zenobi Software)"
+	description "Hamster Droppings - The Life of a Lone Electron + The Quest for the Holy Snail (1993)(Zenobi Software)"
+	rom ( name "Hamster Droppings - The Life of a Lone Electron + The Quest for the Holy Snail (1993)(Zenobi Software).dsk" size 194816 crc a05d75de md5 5f80ebeb8a6c28decd50f20695982960 sha1 48da53854c071a63579cc9bb4070545bea23708a )
+)
+
+game (
+	name "Hot Shots Arcade 2 - Moving Target + Cobra Force + Task Force (1989)(Players Premier Software)"
+	description "Hot Shots Arcade 2 - Moving Target + Cobra Force + Task Force (1989)(Players Premier Software)"
+	rom ( name "Hot Shots Arcade 2 - Moving Target + Cobra Force + Task Force (1989)(Players Premier Software).dsk" size 194816 crc 990e7ee8 md5 74b96298072ce273fd37fb749092640f sha1 925127f9ad26e4ba7946e62c332f5db75abf300c )
+)
+
+game (
+	name "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc 8e88719c md5 3ec6637e94f70515da4698d806b4a0f1 sha1 c381aa7d50e6514908443e41a05bc3aa5f26c00b )
+)
+
+game (
+	name "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 01 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc 1b13630c md5 6f2a1e3e36df7cc897cf6fde300a2ce8 sha1 82b45efa805d60e83d20bbee193817e2163a6121 )
+)
+
+game (
+	name "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc 585d1e40 md5 9935c475cd5a43681ab89dec6a0eb95c sha1 350a69050ffff673a2a3630c0cba133ac9407104 )
+)
+
+game (
+	name "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 02 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc d6618660 md5 7d4e3fd00528c17ce468810090135133 sha1 112e207edb35fbe8ed8b2bd5cefdddcd320c1265 )
+)
+
+game (
+	name "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc aee0e8fb md5 3f26854bae0ef9e975655506571ae971 sha1 461a59555e7a356bb0f259ea581db875ed8c9b4e )
+)
+
+game (
+	name "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 03 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc 860f1ad5 md5 84d4b0874973ffe8466c70ee35d9f747 sha1 41ee5ce0d8fc524a0fefc170787a3cc2c23ebfa6 )
+)
+
+game (
+	name "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc 945a50e7 md5 f52f4f9563e5562ebc2da45522fb114c sha1 4f4d6a6b79b0663db941fcd00dc4b610227965f9 )
+)
+
+game (
+	name "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 04 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc f144360d md5 fce6729bd6af53564cba2d5a39fea3eb sha1 880e66995adaa86bf7af0e080813adf07dcc54dc )
+)
+
+game (
+	name "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc fd15463f md5 01efb312cbc58b2f73fab57dd67a4e5e sha1 8751b52e632326bf6a7d85a6452e1bc2015105b4 )
+)
+
+game (
+	name "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 05 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc 9ea0fb52 md5 6c3f5daed56b774ce046fdc8aa240b1e sha1 dee8356f68826b6ced8a22a6d840b815422071c3 )
+)
+
+game (
+	name "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc ff05a19e md5 4a0e5f3f33ae97127f8addac99352ade sha1 85e7e6c2f39dac4342565649cc1948a697188828 )
+)
+
+game (
+	name "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 06 (19xx)(Javier Herrera)(Side B).dsk" size 193792 crc d129c849 md5 f7aab4cd1c25ef5cf589270c01b95023 sha1 6485512d6e32cc83e6db22050df1e231dfbbb3af )
+)
+
+game (
+	name "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc ad137e62 md5 0b83e7765b4956665d140d539cee5571 sha1 0f375a8287bd2f05efc5825549df01bfbc2024f7 )
+)
+
+game (
+	name "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 09 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc b3fc35d5 md5 ca617383e9503eb827d4998e69663180 sha1 8e24264fe8b7a5a53806798cde7e0d56dd232318 )
+)
+
+game (
+	name "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side A)"
+	description "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side A)"
+	rom ( name "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side A).dsk" size 194816 crc 4a4d462b md5 d70b00f23d6513e08449cf3fd2f12ebf sha1 d90d9c48e773e2b71dcc42a3755733e8ee00b876 )
+)
+
+game (
+	name "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side B)"
+	description "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side B)"
+	rom ( name "Javier Herrera Games Collection 10 (19xx)(Javier Herrera)(Side B).dsk" size 194816 crc 639ba3f6 md5 3609721fac78b9721025c556363e2733 sha1 f342fa23801f4fc5c888f02d36eed9cb167a8871 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc 6f866526 md5 6c5d9fd059f1e06b1baae0621bd208d1 sha1 6f7ebd43e7fe846a327a52890ed109c758178f51 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Software Collection 01 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc 4a997a96 md5 1552dfdccbbd18a454ccb18daa9d3ff6 sha1 31e9604ba90626568bb2dd6f98ce65421adef904 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc 1c6b3879 md5 ae6731baf3a14f4ecaea933671894f55 sha1 d91a08044ac652626916fb8168747353fb872727 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Software Collection 02 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc 29908ccc md5 7c2f5052826ca5e235be6c54479f3b01 sha1 6261f8744f9588149043dfa1f163198a8d0a592f )
+)
+
+game (
+	name "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc 3cd316b8 md5 b4e9ead471943599711e134db6507cbe sha1 312e2cbe04be6d255ffa835ab8aee31281cc3169 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Software Collection 03 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc f4bfd57c md5 a895983e13e182b71c0366845dbb21aa sha1 3ecf16672b0d0232f390263fbb669212c4d1896d )
+)
+
+game (
+	name "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc 9969a712 md5 1e5185e0ea21e53af668903d5c211a9b sha1 db44821a2215befb5829710822f7fbb8f6bba94d )
+)
+
+game (
+	name "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Software Collection 04 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc c67c7d7e md5 127c08f1ff48fcd2f6d2a6f2d0849f9f sha1 d6cdc08a7a3178c75d63ba9cbbae641189cf7d58 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc e0df9b47 md5 3b850eadab5e0239e2b04527e97cdea1 sha1 1692adc48cc61d3d20c5c31fd5e428da18f36082 )
+)
+
+game (
+	name "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Software Collection 05 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc 2f1b581b md5 2f2a85962801d01e01685516f9aec9d2 sha1 dcee200454cd16508490922d7721bcb65040d6d4 )
+)
+
+game (
+	name "Just One of Those Days + A Stroll in the Bleak Forest - The Return of Bart Bear (19xx)(Zenobi Software)"
+	description "Just One of Those Days + A Stroll in the Bleak Forest - The Return of Bart Bear (19xx)(Zenobi Software)"
+	rom ( name "Just One of Those Days + A Stroll in the Bleak Forest - The Return of Bart Bear (19xx)(Zenobi Software).dsk" size 194816 crc 0396887f md5 52ce0f7e8303baf9bb9debed4e0545d1 sha1 c2f8db9fea7b7fc90fd043d7e509691a32856b2b )
+)
+
+game (
+	name "Konami's Arcade Collection - Hyper Sports + Mikie + Green Beret (1989)(Imagine Software)"
+	description "Konami's Arcade Collection - Hyper Sports + Mikie + Green Beret (1989)(Imagine Software)"
+	rom ( name "Konami's Arcade Collection - Hyper Sports + Mikie + Green Beret (1989)(Imagine Software).dsk" size 214784 crc 52ffd779 md5 854688b70ad0ef3dd61935df41356446 sha1 5d20442ae382b97f186c4c512e29104eb46b7a71 )
+)
+
+game (
+	name "Konami's Arcade Collection - Jackal + Yie Ar Kung-Fu (1989)(Imagine Software)"
+	description "Konami's Arcade Collection - Jackal + Yie Ar Kung-Fu (1989)(Imagine Software)"
+	rom ( name "Konami's Arcade Collection - Jackal + Yie Ar Kung-Fu (1989)(Imagine Software).dsk" size 214784 crc 8a0d2595 md5 42cf22ef24b6fd70bbc987ecb6db7bb0 sha1 ce4b6b67d4256e66acbdcf2f1a0209d04d8fa239 )
+)
+
+game (
+	name "Konami's Arcade Collection - Konami's Ping Pong + Yie Ar Kung-Fu II (1989)(Imagine Software)"
+	description "Konami's Arcade Collection - Konami's Ping Pong + Yie Ar Kung-Fu II (1989)(Imagine Software)"
+	rom ( name "Konami's Arcade Collection - Konami's Ping Pong + Yie Ar Kung-Fu II (1989)(Imagine Software).dsk" size 214784 crc e39e4c8c md5 50207a1643f51b79508c7b69ad3f6835 sha1 2727cc2395a75f8b4c69a31e3dee44950a7d960a )
+)
+
+game (
+	name "Konami's Arcade Collection - Shao-Lin's Road + Jail Break + Nemesis (1989)(Imagine Software)"
+	description "Konami's Arcade Collection - Shao-Lin's Road + Jail Break + Nemesis (1989)(Imagine Software)"
+	rom ( name "Konami's Arcade Collection - Shao-Lin's Road + Jail Break + Nemesis (1989)(Imagine Software).dsk" size 214784 crc e7c46afe md5 308c978ba25eedfb13ecb56e23108255 sha1 385c2bf89c20de4180ff3a6f8043838c13f7eebe )
+)
+
+game (
+	name "Last of the Big Disks - Kidnapped + Celtic Carnage + Personal Computer Whirled! (1993)(Zenobi Software)"
+	description "Last of the Big Disks - Kidnapped + Celtic Carnage + Personal Computer Whirled! (1993)(Zenobi Software)"
+	rom ( name "Last of the Big Disks - Kidnapped + Celtic Carnage + Personal Computer Whirled! (1993)(Zenobi Software).dsk" size 194816 crc 9054eae2 md5 5b6ba802b8664919291513a3e0521bf2 sha1 a40ff8b4710c7d9854183a7bce222138336bcf72 )
+)
+
+game (
+	name "Last of the Big Disks - Microfair Madness + The Search for Smok (1993)(Zenobi Software)"
+	description "Last of the Big Disks - Microfair Madness + The Search for Smok (1993)(Zenobi Software)"
+	rom ( name "Last of the Big Disks - Microfair Madness + The Search for Smok (1993)(Zenobi Software).dsk" size 194816 crc e1f5c23f md5 c278f9ea4e629efa0ff96e5b9ad628e6 sha1 8d9ce5f5105e868a5615d8621f865a4433a2798a )
+)
+
+game (
+	name "Leaderboard Par 3 - Leaderboard + Leaderboard Tournament (1988)(U.S. Gold)"
+	description "Leaderboard Par 3 - Leaderboard + Leaderboard Tournament (1988)(U.S. Gold)"
+	rom ( name "Leaderboard Par 3 - Leaderboard + Leaderboard Tournament (1988)(U.S. Gold).dsk" size 194816 crc ce7bb0b9 md5 59f00c1faa5999b405e9cead09c590e8 sha1 146ad94cd850568ce94303f602b3cbb6ccbf16e6 )
+)
+
+game (
+	name "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side A)"
+	description "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side A)"
+	rom ( name "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side A).dsk" size 194816 crc 7796b0f6 md5 f41d68e0b539eb67bcc306a4d9513a76 sha1 428894e7cb23fb9702c0a3db0c7692ce3e7079e0 )
+)
+
+game (
+	name "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side B)"
+	description "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side B)"
+	rom ( name "Leaderboard Par 3 - World Class Leaderboard (1988)(U.S. Gold)(Side B).dsk" size 194816 crc b9ef96d2 md5 a1a54f5a006599d7bbf233ba8c79781e sha1 903b9a18cecfdfe20413ee6c11edc18e14e920fa )
+)
+
+game (
+	name "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean)"
+	description "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean)"
+	rom ( name "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean).dsk" size 194560 crc f20462e2 md5 f5de41be486f76f3bbce01a91be8c63d sha1 246756c5264e80b907edb78333ecde2c3f2b0aca )
+)
+
+game (
+	name "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean)[a]"
+	description "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean)[a]"
+	rom ( name "Live Ammo! - Green Beret + Top Gun + Rambo (1987)(Ocean)[a].dsk" size 194560 crc 3d3499d5 md5 7a14a8e962cd261aab530b2e57d78dfe sha1 83fd130baf796cfdd318d46dfdf2f80c007166b8 )
+)
+
+game (
+	name "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean)"
+	description "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean)"
+	rom ( name "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean).dsk" size 194560 crc 09dac59c md5 278fc33fa711587e3a69448db1db1167 sha1 aa79dd1cf0b013806403bd4be1e4879653a77d9f )
+)
+
+game (
+	name "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean)[a]"
+	description "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean)[a]"
+	rom ( name "Live Ammo! - The Great Escape + Army Moves (1987)(Ocean)[a].dsk" size 194560 crc 438bc244 md5 f702d924e2ca672991866b2241948caa sha1 7b42af186c1a92af69d9622bfc136f9bf97ac09e )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Army Moves + Phantis + Turbo Girl (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Army Moves + Phantis + Turbo Girl (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Army Moves + Phantis + Turbo Girl (1988)(Dinamic Software)(es).dsk" size 204032 crc 0c247f68 md5 eebebd3121f853a31fc2658e7715a747 sha1 7ba19c5aae87c90b5f256ac7b43d8bc30bbd19e6 )
+)
+
+game (
+	name "Lo Mejor de Dinamic - Game Over + Freddy Hardest + Fernando Martin Basket Master (1988)(Dinamic Software)(es)"
+	description "Lo Mejor de Dinamic - Game Over + Freddy Hardest + Fernando Martin Basket Master (1988)(Dinamic Software)(es)"
+	rom ( name "Lo Mejor de Dinamic - Game Over + Freddy Hardest + Fernando Martin Basket Master (1988)(Dinamic Software)(es).dsk" size 209408 crc e09dc659 md5 5d751f1e7affbe7126d19da00286de67 sha1 50a6deae79be0b167f631b3292cdccf335d9a60c )
+)
+
+game (
+	name "Loads of Laurence Vol. 1 - Beyond El Dorado + The Bermuda Triangle + Impact (1996)(Zenobi Software)"
+	description "Loads of Laurence Vol. 1 - Beyond El Dorado + The Bermuda Triangle + Impact (1996)(Zenobi Software)"
+	rom ( name "Loads of Laurence Vol. 1 - Beyond El Dorado + The Bermuda Triangle + Impact (1996)(Zenobi Software).dsk" size 194816 crc 5c8c90d5 md5 c376634f56ea8f4f1a869295051ff110 sha1 0ad23b937ec441268818f9b5529d1105de599a2d )
+)
+
+game (
+	name "Loads of Laurence Vol. 1 - There's a Bomb Under Parliament + The Mummy's Crypt (1996)(Zenobi Software)"
+	description "Loads of Laurence Vol. 1 - There's a Bomb Under Parliament + The Mummy's Crypt (1996)(Zenobi Software)"
+	rom ( name "Loads of Laurence Vol. 1 - There's a Bomb Under Parliament + The Mummy's Crypt (1996)(Zenobi Software).dsk" size 194816 crc 7c9ca040 md5 89b37ef531987d2178c981c140d692cb sha1 9d95b6480e0f94519fff6f2d30a5a6ae6eaa7a7a )
+)
+
+game (
+	name "Loads of Laurence Vol. 2 - Flameout + The Well of Zol (1996)(Zenobi Software)"
+	description "Loads of Laurence Vol. 2 - Flameout + The Well of Zol (1996)(Zenobi Software)"
+	rom ( name "Loads of Laurence Vol. 2 - Flameout + The Well of Zol (1996)(Zenobi Software).dsk" size 194816 crc 5e88127c md5 38ce587588b0a60a9133a2e723841b74 sha1 56da25c5b55a4039c3cf48aceea2704cff76b7e7 )
+)
+
+game (
+	name "Loads of Laurence Vol. 2 - The Golden Pyramid + Lost in Time + Meltdown (1996)(Zenobi Software)"
+	description "Loads of Laurence Vol. 2 - The Golden Pyramid + Lost in Time + Meltdown (1996)(Zenobi Software)"
+	rom ( name "Loads of Laurence Vol. 2 - The Golden Pyramid + Lost in Time + Meltdown (1996)(Zenobi Software).dsk" size 194816 crc 95bd5549 md5 40e7aeb861bb7a03f604c83a39d9ea62 sha1 45849d538278b00c634b71c317fb54d6ce6496aa )
+)
+
+game (
+	name "Magic Knight Trilogy - Finders Keepers + Spellbound (1988)(Mastertronic)"
+	description "Magic Knight Trilogy - Finders Keepers + Spellbound (1988)(Mastertronic)"
+	rom ( name "Magic Knight Trilogy - Finders Keepers + Spellbound (1988)(Mastertronic).dsk" size 194816 crc f1964316 md5 b4efd1abf02ff2753e00f7120eb0fbbc sha1 b080d54460e7ca6c9fa7b9445245c3df95fd83cf )
+)
+
+game (
+	name "Magic Knight Trilogy - Knight Tyme (1988)(Mastertronic)"
+	description "Magic Knight Trilogy - Knight Tyme (1988)(Mastertronic)"
+	rom ( name "Magic Knight Trilogy - Knight Tyme (1988)(Mastertronic).dsk" size 194816 crc 53b5b3ac md5 38276d6c42c2e8d8794cf9dbef57043a sha1 9c639201488a6736ad4c2a1b862acfab67ca0cd9 )
+)
+
+game (
+	name "Mastertronic Compilation 4 - Amaurote + The Curse of Sherwood + Milk Race + Speed King 2 (19xx)(Mastertronic)"
+	description "Mastertronic Compilation 4 - Amaurote + The Curse of Sherwood + Milk Race + Speed King 2 (19xx)(Mastertronic)"
+	rom ( name "Mastertronic Compilation 4 - Amaurote + The Curse of Sherwood + Milk Race + Speed King 2 (19xx)(Mastertronic).dsk" size 194816 crc d5f7d3fb md5 872e1fc5cd0c22b7003a71d943c9b6de sha1 862e454932feb9072a8f6dbb1f13761d3135b4d1 )
+)
+
+game (
+	name "Mastertronic Compilation 4 - Angleball + Kikstart 2 + Knight Tyme + Stormbringer (19xx)(Mastertronic)"
+	description "Mastertronic Compilation 4 - Angleball + Kikstart 2 + Knight Tyme + Stormbringer (19xx)(Mastertronic)"
+	rom ( name "Mastertronic Compilation 4 - Angleball + Kikstart 2 + Knight Tyme + Stormbringer (19xx)(Mastertronic).dsk" size 194816 crc ded9efb7 md5 cdf4bdb59cb1f1c329471f00736846ba sha1 7ee82cbfc69d7f86561eba6cc1c0d705340995eb )
+)
+
+game (
+	name "Mega Box - After the War + Navy Moves (1990)(Dinamic Software)"
+	description "Mega Box - After the War + Navy Moves (1990)(Dinamic Software)"
+	rom ( name "Mega Box - After the War + Navy Moves (1990)(Dinamic Software).dsk" size 214784 crc 07764790 md5 812899aafaf75811b077b257ec5aa0cc sha1 1bcb904cb152cb1d20f0aed7e5b7a231d2ba8f56 )
+)
+
+game (
+	name "Mega Box - Narco Police (1990)(Dinamic Software)"
+	description "Mega Box - Narco Police (1990)(Dinamic Software)"
+	rom ( name "Mega Box - Narco Police (1990)(Dinamic Software).dsk" size 131584 crc 4fc97365 md5 567ade9ed7aa0807be42cd57eddc5d3c sha1 cdb281bcfb2e7889bbf618c3c62c87eb297a034c )
+)
+
+game (
+	name "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side A)"
+	description "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side A)"
+	rom ( name "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side A).dsk" size 214784 crc ee89887d md5 7dc41eeabaddb478da2f91688b4be83b sha1 6f496382613dbebfd3f039cbe065ce90a806d4ac )
+)
+
+game (
+	name "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side B)"
+	description "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side B)"
+	rom ( name "Mega Box - Satan + Astro Marine Corps (1990)(Dinamic Software)(Side B).dsk" size 212736 crc 28a2d57c md5 8d7c0dc06788db267b5ae29ee65a2966 sha1 96585c649730dc6434bd3c766b9e68212da0c3c1 )
+)
+
+game (
+	name "Mercenary - Escape from Targ + Mercenary II - The Second City (1988)(Novagen Software)"
+	description "Mercenary - Escape from Targ + Mercenary II - The Second City (1988)(Novagen Software)"
+	rom ( name "Mercenary - Escape from Targ + Mercenary II - The Second City (1988)(Novagen Software).dsk" size 214784 crc 0cb15868 md5 d1bfc9bc62c4c4a5501efec1cda90344 sha1 f26f5c17f52814380093ce9ebc04ebba57c12118 )
+)
+
+game (
+	name "Metal Action - After the War + La Aventura Original + Satan I (1990)(Dinamic Software)(es)"
+	description "Metal Action - After the War + La Aventura Original + Satan I (1990)(Dinamic Software)(es)"
+	rom ( name "Metal Action - After the War + La Aventura Original + Satan I (1990)(Dinamic Software)(es).dsk" size 214784 crc a4816646 md5 d342ce8c0077c66df22aa4e8be22306e sha1 0ba180abcc0f621fa68a722d0d188b7419ed8a9f )
+)
+
+game (
+	name "Metal Action - Astro Marine Corps + Freddy Hardest in South Manhattan + Satan II (1990)(Dinamic Software)(es)"
+	description "Metal Action - Astro Marine Corps + Freddy Hardest in South Manhattan + Satan II (1990)(Dinamic Software)(es)"
+	rom ( name "Metal Action - Astro Marine Corps + Freddy Hardest in South Manhattan + Satan II (1990)(Dinamic Software)(es).dsk" size 198656 crc 746623a9 md5 ed7d09440ec96720e9dadc4db3a5e5d7 sha1 6ed5887945c1a642f0aef96d3902210026a8104e )
+)
+
+game (
+	name "MicroByte - Serie Clasicos Spectrum 01 (19xx)(Miguel)(es)"
+	description "MicroByte - Serie Clasicos Spectrum 01 (19xx)(Miguel)(es)"
+	rom ( name "MicroByte - Serie Clasicos Spectrum 01 (19xx)(Miguel)(es).dsk" size 194816 crc 4ab75f4d md5 86f345d0631706fff557bd515518ce0b sha1 953eed11249c00d7696e2db3b180096b735dceb1 )
+)
+
+game (
+	name "MicroByte - Serie Clasicos Spectrum 02 (19xx)(Miguel)(es)"
+	description "MicroByte - Serie Clasicos Spectrum 02 (19xx)(Miguel)(es)"
+	rom ( name "MicroByte - Serie Clasicos Spectrum 02 (19xx)(Miguel)(es).dsk" size 194816 crc c1553807 md5 c9f55f2c052a1f28c8400abffcc3d6f2 sha1 8843a77e66ff399ff5900f5bc64dd597af3dab72 )
+)
+
+game (
+	name "Microfair Madness Plus - Desmond and Gertrude + Microfair Madness + The Search for Smok (1991)(Zenobi Software)"
+	description "Microfair Madness Plus - Desmond and Gertrude + Microfair Madness + The Search for Smok (1991)(Zenobi Software)"
+	rom ( name "Microfair Madness Plus - Desmond and Gertrude + Microfair Madness + The Search for Smok (1991)(Zenobi Software).dsk" size 194816 crc 4b9fd5ad md5 d29f3b11a46c86603606206f26d479c2 sha1 dd0ec9b23350e5b32f50d074f0e386bd68b5e765 )
+)
+
+game (
+	name "Microvalue 6 Pack - Colin the Cleaner + Mutations + Ian Botham's Test Match (1987)(Tynesoft)"
+	description "Microvalue 6 Pack - Colin the Cleaner + Mutations + Ian Botham's Test Match (1987)(Tynesoft)"
+	rom ( name "Microvalue 6 Pack - Colin the Cleaner + Mutations + Ian Botham's Test Match (1987)(Tynesoft).dsk" size 194816 crc 1273d5d2 md5 f9bd470b2904d6086f7db16251e6cf6e sha1 ad7fc5d1ea26131b5cb209b256c53ae9036fbdfb )
+)
+
+game (
+	name "Microvalue 6 Pack - Pyjamarama + Big Bad John + Automania (1987)(Tynesoft)"
+	description "Microvalue 6 Pack - Pyjamarama + Big Bad John + Automania (1987)(Tynesoft)"
+	rom ( name "Microvalue 6 Pack - Pyjamarama + Big Bad John + Automania (1987)(Tynesoft).dsk" size 194816 crc 4e478bb2 md5 63c19b6a2b032eb44f0094a588678dfd sha1 55b49d95a739889bb20e7fd0f0733a5a0283e559 )
+)
+
+game (
+	name "Navy Moves + Army Moves (1988)(Dinamic Software)(es)"
+	description "Navy Moves + Army Moves (1988)(Dinamic Software)(es)"
+	rom ( name "Navy Moves + Army Moves (1988)(Dinamic Software)(es).dsk" size 166400 crc ac230638 md5 a42dd91b2447733d8d40a327140cfe8c sha1 6eb9dd96efe181d0d9f09698501f5fb3f4d77a10 )
+)
+
+game (
+	name "Navy Moves + Army Moves (1988)(Dinamic Software)(es)[a]"
+	description "Navy Moves + Army Moves (1988)(Dinamic Software)(es)[a]"
+	rom ( name "Navy Moves + Army Moves (1988)(Dinamic Software)(es)[a].dsk" size 166400 crc 65a30aca md5 d087acafc44698ac9e7f686f6033eef4 sha1 e7ba54851e45d717a9205b0219a0dde16a30028e )
+)
+
+game (
+	name "Nope Here's Another One - Diarmid I + For Pete's Sake (1993)(Zenobi Software)"
+	description "Nope Here's Another One - Diarmid I + For Pete's Sake (1993)(Zenobi Software)"
+	rom ( name "Nope Here's Another One - Diarmid I + For Pete's Sake (1993)(Zenobi Software).dsk" size 194816 crc 342d58d2 md5 746ba86d6f21583399cdfa0501b06585 sha1 b7c2a37498809be13e0d58a9463080d2436ade3b )
+)
+
+game (
+	name "Nope Here's Another One - Diarmid II + The Krazy Kartoonist Kaper (1993)(Zenobi Software)"
+	description "Nope Here's Another One - Diarmid II + The Krazy Kartoonist Kaper (1993)(Zenobi Software)"
+	rom ( name "Nope Here's Another One - Diarmid II + The Krazy Kartoonist Kaper (1993)(Zenobi Software).dsk" size 194816 crc 5804ef65 md5 b5018c2c837a5fe41dbd71f4c7bb2e20 sha1 b8be1f38c41493df3622d1ef5627f4c9fe7e0cb9 )
+)
+
+game (
+	name "Not Another Big Disk - The Fisher King + Darkest Road II - 'Twas a Time of Dread (1992)(Zenobi Software)"
+	description "Not Another Big Disk - The Fisher King + Darkest Road II - 'Twas a Time of Dread (1992)(Zenobi Software)"
+	rom ( name "Not Another Big Disk - The Fisher King + Darkest Road II - 'Twas a Time of Dread (1992)(Zenobi Software).dsk" size 194816 crc d51a0966 md5 91fca0bcb58fb761a7777f443f96baaa sha1 06480040fb39f7f48f58ade714017f63d458057a )
+)
+
+game (
+	name "Not Another Big Disk - Treasure Island + Arnold the Adventurer II (1992)(Zenobi Software)"
+	description "Not Another Big Disk - Treasure Island + Arnold the Adventurer II (1992)(Zenobi Software)"
+	rom ( name "Not Another Big Disk - Treasure Island + Arnold the Adventurer II (1992)(Zenobi Software).dsk" size 194816 crc deb41208 md5 bda3bd8cfde601be1360bf0890661c1a sha1 9a4a2e6e977961bf9514616bf3005d177c8c893d )
+)
+
+game (
+	name "Oh Sh1t Another Big Disk - Project Nova + Arnold the Adventurer III (1993)(Zenobi Software)"
+	description "Oh Sh1t Another Big Disk - Project Nova + Arnold the Adventurer III (1993)(Zenobi Software)"
+	rom ( name "Oh Sh1t Another Big Disk - Project Nova + Arnold the Adventurer III (1993)(Zenobi Software).dsk" size 194816 crc 5ec6066b md5 b50b878f6ff65c1953d98817d245e849 sha1 56f1bceab442a54b1e06dea2830f057de66c0e6e )
+)
+
+game (
+	name "Oh Sh1t Another Big Disk - The Beginning of the End + The Escaping Habit (1993)(Zenobi Software)"
+	description "Oh Sh1t Another Big Disk - The Beginning of the End + The Escaping Habit (1993)(Zenobi Software)"
+	rom ( name "Oh Sh1t Another Big Disk - The Beginning of the End + The Escaping Habit (1993)(Zenobi Software).dsk" size 194816 crc df3103e8 md5 0b8694b9e9894c1c8a3db2cbba891006 sha1 a57f6399d1c0b1b5addf2f701f08158ad1c4679a )
+)
+
+game (
+	name "One More Big Disk - Jester's Jaunt (1992)(Zenobi Software)"
+	description "One More Big Disk - Jester's Jaunt (1992)(Zenobi Software)"
+	rom ( name "One More Big Disk - Jester's Jaunt (1992)(Zenobi Software).dsk" size 194816 crc a496001a md5 3e44dac95a201f419a2d30712d7cd166 sha1 15faf116f3ca52dc97b9328edd6009e7af479d9e )
+)
+
+game (
+	name "One More Big Disk - The Violator of Voodoo + The Amulet of Darath + The Taxman Cometh (1992)(Zenobi Software)"
+	description "One More Big Disk - The Violator of Voodoo + The Amulet of Darath + The Taxman Cometh (1992)(Zenobi Software)"
+	rom ( name "One More Big Disk - The Violator of Voodoo + The Amulet of Darath + The Taxman Cometh (1992)(Zenobi Software).dsk" size 194816 crc 996dd6e0 md5 3eead6bf9eb8b4c224fd1952fab3ab5a sha1 e2e4fd9e90538c44471c96c1ca583d6b7af1333a )
+)
+
+game (
+	name "Pack 5 Aniversario - Capitan Sevilla + Rocky + Fernando Martin Basket Master + Hundra (1988)(Dinamic Software)(es)"
+	description "Pack 5 Aniversario - Capitan Sevilla + Rocky + Fernando Martin Basket Master + Hundra (1988)(Dinamic Software)(es)"
+	rom ( name "Pack 5 Aniversario - Capitan Sevilla + Rocky + Fernando Martin Basket Master + Hundra (1988)(Dinamic Software)(es).dsk" size 214784 crc bd5513f3 md5 c265e35c098758539099e0df1499137b sha1 179f00b1381108ec88fcdacb5119de4b9c7041ff )
+)
+
+game (
+	name "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es)"
+	description "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es)"
+	rom ( name "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es).dsk" size 214784 crc fffe8159 md5 84638ea6776f5c4e7e8ae7b7ee601a7f sha1 b7580f4b38a3cb3c2ec628c5e0748f10e9101854 )
+)
+
+game (
+	name "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es)[a]"
+	description "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es)[a]"
+	rom ( name "Pack 5 Aniversario - Freddy Hardest + Meganova (1988)(Dinamic Software)(es)[a].dsk" size 214784 crc c1f9665e md5 c4192836814100cedbcd3c199f506a7b sha1 0567c26069742768753c927b0a6a1963211fa441 )
+)
+
+game (
+	name "Pack 5 Aniversario - Los Pajaros de Bangkok + Mega-Corp (1988)(Dinamic Software)(es)"
+	description "Pack 5 Aniversario - Los Pajaros de Bangkok + Mega-Corp (1988)(Dinamic Software)(es)"
+	rom ( name "Pack 5 Aniversario - Los Pajaros de Bangkok + Mega-Corp (1988)(Dinamic Software)(es).dsk" size 214784 crc 8b6a817e md5 e7c8a3e9d759de2dd150a28afda79b1a sha1 2afb682db6296cc2e469155424d82dd6e145ed58 )
+)
+
+game (
+	name "Pack 5 Aniversario - Phantis + Abu Simbel Profanation + Dustin + West Bank (1988)(Dinamic Software)(es)"
+	description "Pack 5 Aniversario - Phantis + Abu Simbel Profanation + Dustin + West Bank (1988)(Dinamic Software)(es)"
+	rom ( name "Pack 5 Aniversario - Phantis + Abu Simbel Profanation + Dustin + West Bank (1988)(Dinamic Software)(es).dsk" size 214784 crc 862604dd md5 174a3321579861ba285c7baa43dfbb18 sha1 acfca1a0b55c23581d17cb9aafaa2064634c4715 )
+)
+
+game (
+	name "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es)"
+	description "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es)"
+	rom ( name "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es).dsk" size 171776 crc ae1ed918 md5 1eb0f303d53d4527cf86c10d3fb3586c sha1 88f81d0239badb23d3cd4349e7696cbae6005cea )
+)
+
+game (
+	name "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es)[a]"
+	description "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es)[a]"
+	rom ( name "Pack Regalo Sinclair +3 - Army Moves + Camelot Warriors + Nonamed (1989)(Dinamic Software)(es)[a].dsk" size 171776 crc a675fb82 md5 da6bcbe1d4c2c50916ca93a79a52c185 sha1 a5c2bf0df0f4148e53c134c0a2c85f60fb715f3f )
+)
+
+game (
+	name "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es)"
+	description "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es)"
+	rom ( name "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es).dsk" size 187904 crc 81631cfc md5 7b2de04332b5c222a5ce49fc64276382 sha1 f92ba195c4a203d72238345f4e65af0b413a9415 )
+)
+
+game (
+	name "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es)[a]"
+	description "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es)[a]"
+	rom ( name "Pack Regalo Sinclair +3 - Game Over + Phantomas 1 + Phantomas 2 (1989)(Dinamic Software)(es)[a].dsk" size 187904 crc 9c6d116f md5 eba8c670bb281638ba4f7ea7868148ea sha1 a3d239bbfbb69c8dceb4e243a8a460e726337efc )
+)
+
+game (
+	name "Pawns of War + Pawns of War II - The Infiltrator (1989)(Zenobi Software)"
+	description "Pawns of War + Pawns of War II - The Infiltrator (1989)(Zenobi Software)"
+	rom ( name "Pawns of War + Pawns of War II - The Infiltrator (1989)(Zenobi Software).dsk" size 194816 crc 71814e63 md5 515826dde3ec9495824ca9bcf2940994 sha1 7db46cb122021913544d9c483c2d78e3ba309298 )
+)
+
+game (
+	name "Pirate 3 +3 - Smash Out! + Call Me Psycho + Holiday in Sumaria (1987)(Pirate Software)"
+	description "Pirate 3 +3 - Smash Out! + Call Me Psycho + Holiday in Sumaria (1987)(Pirate Software)"
+	rom ( name "Pirate 3 +3 - Smash Out! + Call Me Psycho + Holiday in Sumaria (1987)(Pirate Software).dsk" size 194816 crc c9c2142f md5 fb655f7f34c2d8f11d00639deee99639 sha1 9ae3faaa820eceb282dde70c7a22117747a1c36b )
+)
+
+game (
+	name "Plus 3 Adventures - Kobyashi Naru + Shard of Inovar (1988)(Mastertronic)"
+	description "Plus 3 Adventures - Kobyashi Naru + Shard of Inovar (1988)(Mastertronic)"
+	rom ( name "Plus 3 Adventures - Kobyashi Naru + Shard of Inovar (1988)(Mastertronic).dsk" size 199936 crc 6612191f md5 f24b9f9f76b284a69cb6f73d193a63ae sha1 f56779d29f6fbb238f1bd69b685c8ea13a5730e8 )
+)
+
+game (
+	name "Plus 3 Adventures - Venom (1988)(Mastertronic)"
+	description "Plus 3 Adventures - Venom (1988)(Mastertronic)"
+	rom ( name "Plus 3 Adventures - Venom (1988)(Mastertronic).dsk" size 199936 crc 49f53b53 md5 c802fc549fc30656cd614b2c8f47e25e sha1 ea5bebbebaf165c58f0d378907a54526d3b6bf39 )
+)
+
+game (
+	name "Plus 3 Arcades - Bosconian '87 (1987)(Mastertronic)"
+	description "Plus 3 Arcades - Bosconian '87 (1987)(Mastertronic)"
+	rom ( name "Plus 3 Arcades - Bosconian '87 (1987)(Mastertronic).dsk" size 194816 crc d1152f1f md5 44bc8651996a0d7d041344c03dd68ce8 sha1 9cb5b8dde020cf2a105be79ed24c4c50f143d9f1 )
+)
+
+game (
+	name "Plus 3 Arcades - Motos + Angleball (1987)(Mastertronic)"
+	description "Plus 3 Arcades - Motos + Angleball (1987)(Mastertronic)"
+	rom ( name "Plus 3 Arcades - Motos + Angleball (1987)(Mastertronic).dsk" size 194816 crc 50f0bfdc md5 463be74fdf3003516f1a2263cdbabf46 sha1 2be49f0b518cd990a13131d17700a875597b01ea )
+)
+
+game (
+	name "Plus 3 Biker - Action Biker + Milk Race (1987)(Mastertronic)"
+	description "Plus 3 Biker - Action Biker + Milk Race (1987)(Mastertronic)"
+	rom ( name "Plus 3 Biker - Action Biker + Milk Race (1987)(Mastertronic).dsk" size 194816 crc d0a57894 md5 64e4b35fa663a6dbd835df964b26d710 sha1 38ca1b5653aa42dbb31cd38ae8a333fabb35b34f )
+)
+
+game (
+	name "Plus 3 Biker - Kikstart 2 (1987)(Mastertronic)"
+	description "Plus 3 Biker - Kikstart 2 (1987)(Mastertronic)"
+	rom ( name "Plus 3 Biker - Kikstart 2 (1987)(Mastertronic).dsk" size 194816 crc 020d9c6a md5 451527a15d2cb682df5caa31b7c1ab29 sha1 6c9ed10a84c94bafc2cf543045deb0d9bba66d6d )
+)
+
+game (
+	name "Plus 3 Hits - Amaurote + Hyperbowl (1987)(Mastertronic)"
+	description "Plus 3 Hits - Amaurote + Hyperbowl (1987)(Mastertronic)"
+	rom ( name "Plus 3 Hits - Amaurote + Hyperbowl (1987)(Mastertronic).dsk" size 194816 crc 3167db93 md5 062389d232f39562333aaf09a9e353a1 sha1 88c9e14e4e25530eae7072fbaa0bcfc550e4ab8d )
+)
+
+game (
+	name "Plus 3 Hits - Feud (1987)(Mastertronic)"
+	description "Plus 3 Hits - Feud (1987)(Mastertronic)"
+	rom ( name "Plus 3 Hits - Feud (1987)(Mastertronic).dsk" size 194816 crc 985ff5d6 md5 74077d48fcb16f0dd555490434e4f8d7 sha1 d19770ab6ce95e66cb81fcd6010ab009dd61cf69 )
+)
+
+game (
+	name "Plus 3 Pack - Bounder + Thing Bounces Back (1987)(Gremlin Graphics Software)"
+	description "Plus 3 Pack - Bounder + Thing Bounces Back (1987)(Gremlin Graphics Software)"
+	rom ( name "Plus 3 Pack - Bounder + Thing Bounces Back (1987)(Gremlin Graphics Software).dsk" size 174848 crc e94a2db9 md5 7ed345037e2be63bf925ac75cd2f2ff9 sha1 3deeae0c924d2c39ce4b91a9b6d2ab0a85903fad )
+)
+
+game (
+	name "Plus 3 Pack - Krakout + Future Knight (1987)(Gremlin Graphics Software)"
+	description "Plus 3 Pack - Krakout + Future Knight (1987)(Gremlin Graphics Software)"
+	rom ( name "Plus 3 Pack - Krakout + Future Knight (1987)(Gremlin Graphics Software).dsk" size 174848 crc 7ef38f33 md5 42c4803c826fcc4718520e70faceaa06 sha1 cf62819033a9950c6b6a11c3e8c912de09e8045f )
+)
+
+game (
+	name "Plus 3 Sports - Speed King 2 (1987)(Mastertronic)"
+	description "Plus 3 Sports - Speed King 2 (1987)(Mastertronic)"
+	rom ( name "Plus 3 Sports - Speed King 2 (1987)(Mastertronic).dsk" size 194816 crc 2519315e md5 4dfea2bcc48b51c36dfbf80f03ff2a93 sha1 ae1f1e21969fec88305fc9200eae5b288d711739 )
+)
+
+game (
+	name "Plus 3 Sports - Speed King 2 (1987)(Mastertronic)[a]"
+	description "Plus 3 Sports - Speed King 2 (1987)(Mastertronic)[a]"
+	rom ( name "Plus 3 Sports - Speed King 2 (1987)(Mastertronic)[a].dsk" size 194816 crc 19eb4e02 md5 04a6d3bde8e25207cb656e7c5abfec14 sha1 8c9b17e2456f262e3b1e8a4a8ac26aaca5d5a6eb )
+)
+
+game (
+	name "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic)"
+	description "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic)"
+	rom ( name "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic).dsk" size 194816 crc 3ca3f142 md5 56063ef8fc8d906b9ca9b6351d363bde sha1 dfaf7bb837087a04b993fa83a45471177e91be4f )
+)
+
+game (
+	name "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic)[a]"
+	description "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic)[a]"
+	rom ( name "Plus 3 Sports - Strike! + Bump, Set, Spike! (1987)(Mastertronic)[a].dsk" size 194816 crc 00518e1e md5 4b82c015ca5cd93755cf2b399d026ee9 sha1 0e4e653ac7408039aeb711ecb08518504c9d6bb9 )
+)
+
+game (
+	name "Powersports - Carlos Sainz + Paris-Dakar (1991)(Opera Soft)(es)"
+	description "Powersports - Carlos Sainz + Paris-Dakar (1991)(Opera Soft)(es)"
+	rom ( name "Powersports - Carlos Sainz + Paris-Dakar (1991)(Opera Soft)(es).dsk" size 194816 crc b8fb3307 md5 6507bbc60cf91edcd78f99e5f2ecbde5 sha1 1ac6ff52fdd5d0901d0a7ec191e2c60f82a91bea )
+)
+
+game (
+	name "Powersports - Sito Pons 500cc Grand Prix + Emilio Sanchez Vicario Grand Slam (1991)(Opera Soft)(es)"
+	description "Powersports - Sito Pons 500cc Grand Prix + Emilio Sanchez Vicario Grand Slam (1991)(Opera Soft)(es)"
+	rom ( name "Powersports - Sito Pons 500cc Grand Prix + Emilio Sanchez Vicario Grand Slam (1991)(Opera Soft)(es).dsk" size 121856 crc e0771590 md5 f35ba38919bdb64448175074d39f62b4 sha1 27f0a8abab611c6878487c426a4368ae9afdf9ca )
+)
+
+game (
+	name "Probably the Last Big Disk - Perseus + The Final Demand (1995)(Zenobi Software)"
+	description "Probably the Last Big Disk - Perseus + The Final Demand (1995)(Zenobi Software)"
+	rom ( name "Probably the Last Big Disk - Perseus + The Final Demand (1995)(Zenobi Software).dsk" size 194816 crc 262d29dc md5 c3a47820dace76a777357d8653960c94 sha1 e50a166d1e20c6467043617d04f5dfd02619b11d )
+)
+
+game (
+	name "Probably the Last Big Disk - The Apprentice + Theme Park U.S.A. (1995)(Zenobi Software)"
+	description "Probably the Last Big Disk - The Apprentice + Theme Park U.S.A. (1995)(Zenobi Software)"
+	rom ( name "Probably the Last Big Disk - The Apprentice + Theme Park U.S.A. (1995)(Zenobi Software).dsk" size 194816 crc e680e164 md5 1a5993401242176b2b9557820d30964d sha1 cd569d82b45a39aaabf19fe23334240f103d4005 )
+)
+
+game (
+	name "Read-Right-Away - Reading Pack 2 (1987)(H.S. Software)"
+	description "Read-Right-Away - Reading Pack 2 (1987)(H.S. Software)"
+	rom ( name "Read-Right-Away - Reading Pack 2 (1987)(H.S. Software).dsk" size 194816 crc 94d5b7f0 md5 b0074d3eb561ebf65612b620f5f80e2e sha1 238845d4cf14b7ffea27831993f05daf6842b42b )
+)
+
+game (
+	name "Repton Mania - Repton 1 + 2 (1989)(Superior Software)"
+	description "Repton Mania - Repton 1 + 2 (1989)(Superior Software)"
+	rom ( name "Repton Mania - Repton 1 + 2 (1989)(Superior Software).dsk" size 254720 crc 2ed24adb md5 9247da4fab80992b258eed0e6e967ff4 sha1 c452b252272ba4ebb7c509c6a7358b867df94c64 )
+)
+
+game (
+	name "Sam's Un-Excellent Adventure + The Hospital (1995)(Zenobi Software)"
+	description "Sam's Un-Excellent Adventure + The Hospital (1995)(Zenobi Software)"
+	rom ( name "Sam's Un-Excellent Adventure + The Hospital (1995)(Zenobi Software).dsk" size 194816 crc c4293106 md5 f8a7a422993b627adf1d8038f83d02f4 sha1 de58f5aaa5be5a3af953068b179e9b8fb72377bd )
+)
+
+game (
+	name "Silicon Dreams - Snowball + Return to Eden + The Worm in Paradise (1989)(Level 9 Computing)[re-release]"
+	description "Silicon Dreams - Snowball + Return to Eden + The Worm in Paradise (1989)(Level 9 Computing)[re-release]"
+	rom ( name "Silicon Dreams - Snowball + Return to Eden + The Worm in Paradise (1989)(Level 9 Computing)[re-release].dsk" size 194816 crc eae38e7d md5 f9bd0ad2b22d015164906fd37b82f26b sha1 f2ffd2fd60696a38c2a2f9fbd4638cf154de8db9 )
+)
+
+game (
+	name "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[a][lightgun]"
+	description "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[a][lightgun]"
+	rom ( name "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[a][lightgun].dsk" size 194816 crc 8c3be2fa md5 bdf2427b70209f44047112bc7f9fcef6 sha1 1580bfde74955b629b2c4e3cbe4ccc524fec9f80 )
+)
+
+game (
+	name "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[lightgun]"
+	description "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[lightgun]"
+	rom ( name "Sinclair Action Pack - Lightgun Games - Missile Ground Zero + Solar Invasion + Operation Wolf (1989)(Sinclair Research)[lightgun].dsk" size 194816 crc 5af8ba21 md5 636276351b0bab32a13e05322b739135 sha1 f5d45c97f2cda96fe8ed5be37d81fbd916e38e17 )
+)
+
+game (
+	name "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[a][lightgun]"
+	description "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[a][lightgun]"
+	rom ( name "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[a][lightgun].dsk" size 194816 crc e706c6db md5 3ac20e4ec35c06dfeed88e9ea50e1659 sha1 366a7b2b04a44007a3254fc0618ceb0d9df70e72 )
+)
+
+game (
+	name "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[lightgun]"
+	description "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[lightgun]"
+	rom ( name "Sinclair Action Pack - Lightgun Games - Rookie + Robot Attack + Bullseye (1989)(Sinclair Research)[lightgun].dsk" size 194816 crc f050f2ff md5 a78cf8650273020aa825f59eeb11fbcd sha1 e68a94ee005f2ac47238ab43a1653ab641b25c0f )
+)
+
+game (
+	name "Solid Gold - Winter Games + Leaderboard (1988)(U.S. Gold)"
+	description "Solid Gold - Winter Games + Leaderboard (1988)(U.S. Gold)"
+	rom ( name "Solid Gold - Winter Games + Leaderboard (1988)(U.S. Gold).dsk" size 214784 crc 28c69d3e md5 9c6f3ddc5485b618c80c9b7565623020 sha1 4ca67601511c3b4a539403e921609dcced093858 )
+)
+
+game (
+	name "Sportacular - Soccer Boss + Olympic Spectacular + Indoor Soccer (1988)(Alternative Software)"
+	description "Sportacular - Soccer Boss + Olympic Spectacular + Indoor Soccer (1988)(Alternative Software)"
+	rom ( name "Sportacular - Soccer Boss + Olympic Spectacular + Indoor Soccer (1988)(Alternative Software).dsk" size 194816 crc d42b8502 md5 0a05aa661765f31d60e350bac09703ad sha1 7299f66abbe1f01b02b43274a8ca9e3dabe56a7f )
+)
+
+game (
+	name "Still Another Big Disk - A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software)"
+	description "Still Another Big Disk - A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software)"
+	rom ( name "Still Another Big Disk - A Legacy for Alaric + A Legacy for Alaric II - The Magic Isle (1992)(Zenobi Software).dsk" size 194816 crc f197bb87 md5 caac403f26fe07c79132a2d2e2b838f4 sha1 c93391dc04b69a54c3ae393cf954a0cd210741f0 )
+)
+
+game (
+	name "Still Another Big Disk - Darkest Road III - The Unborn One + Phoenix (1992)(Zenobi Software)"
+	description "Still Another Big Disk - Darkest Road III - The Unborn One + Phoenix (1992)(Zenobi Software)"
+	rom ( name "Still Another Big Disk - Darkest Road III - The Unborn One + Phoenix (1992)(Zenobi Software).dsk" size 194816 crc ce9ef1af md5 7fac733435958533e9305fa3088ba7e3 sha1 60a6457305484d1915b1bb2c4336319e333782e8 )
+)
+
+game (
+	name "Still One More Big Disk - The Tears of the Moon + The Mines of Lithiad (19xx)(Zenobi Software)"
+	description "Still One More Big Disk - The Tears of the Moon + The Mines of Lithiad (19xx)(Zenobi Software)"
+	rom ( name "Still One More Big Disk - The Tears of the Moon + The Mines of Lithiad (19xx)(Zenobi Software).dsk" size 194816 crc 3b2b5a44 md5 2fe0e8fc949fae3803e954102f9e4c70 sha1 6c8b9c7fa1317aa733c926cdab60b1f0b5dc0d03 )
+)
+
+game (
+	name "Stuff Me Another Big Disk - Aztec Assault + The Lost Twilight (19xx)(Zenobi Software)"
+	description "Stuff Me Another Big Disk - Aztec Assault + The Lost Twilight (19xx)(Zenobi Software)"
+	rom ( name "Stuff Me Another Big Disk - Aztec Assault + The Lost Twilight (19xx)(Zenobi Software).dsk" size 194816 crc 08be0ed3 md5 901e947459495509c4ee9d25aaaf80c8 sha1 9caa7f44a42cce7af12c22b296305baa9e82f0db )
+)
+
+game (
+	name "Stuff Me Another Big Disk - The Dark Tower + The Khangrin Plans (19xx)(Zenobi Software)"
+	description "Stuff Me Another Big Disk - The Dark Tower + The Khangrin Plans (19xx)(Zenobi Software)"
+	rom ( name "Stuff Me Another Big Disk - The Dark Tower + The Khangrin Plans (19xx)(Zenobi Software).dsk" size 194816 crc 06df0298 md5 b6781452314e9ad74a725d0fbbcec815 sha1 177aaf98eef31956181e308c8325017d9d5fec00 )
+)
+
+game (
+	name "Sun Computer Crosswords Volume 1, The (1988)(Akom)"
+	description "Sun Computer Crosswords Volume 1, The (1988)(Akom)"
+	rom ( name "Sun Computer Crosswords Volume 1, The (1988)(Akom).dsk" size 194816 crc 99a83f33 md5 8b27c4437d91d73ff3c1772e649d71b3 sha1 c701b7e4c5760a16669ca140cc45615a24af7889 )
+)
+
+game (
+	name "Supreme Challenge - ACE 2 - The Ultimate Head to Head Conflict + The Sentinel + Tetris (1988)(Beau-Jolly)"
+	description "Supreme Challenge - ACE 2 - The Ultimate Head to Head Conflict + The Sentinel + Tetris (1988)(Beau-Jolly)"
+	rom ( name "Supreme Challenge - ACE 2 - The Ultimate Head to Head Conflict + The Sentinel + Tetris (1988)(Beau-Jolly).dsk" size 194816 crc bed32d10 md5 419d1ea7ae482e23921c386115404c72 sha1 038b63e4822822f46eb29149237554dc6676cac6 )
+)
+
+game (
+	name "Supreme Challenge - Elite + Starglider (1988)(Beau-Jolly)"
+	description "Supreme Challenge - Elite + Starglider (1988)(Beau-Jolly)"
+	rom ( name "Supreme Challenge - Elite + Starglider (1988)(Beau-Jolly).dsk" size 194816 crc 7999f89e md5 6fe946396ba88685ef1624c53e5e1937 sha1 6bd19bd6ddcb7d20b2aa5134f931db56566acbd8 )
+)
+
+game (
+	name "Take Five - Dusty Droid and the Garbage Gobblers + O.K. Yah! + Don't Say It, Spray It (19xx)(Pirate Software)"
+	description "Take Five - Dusty Droid and the Garbage Gobblers + O.K. Yah! + Don't Say It, Spray It (19xx)(Pirate Software)"
+	rom ( name "Take Five - Dusty Droid and the Garbage Gobblers + O.K. Yah! + Don't Say It, Spray It (19xx)(Pirate Software).dsk" size 194816 crc c02bad77 md5 ba0e1909d60a9b445041818108816d46 sha1 a28709dbc02fd94161e51516aae7a6dd4f62df20 )
+)
+
+game (
+	name "Take Five - Gangplank + Just Imagine (19xx)(Pirate Software)"
+	description "Take Five - Gangplank + Just Imagine (19xx)(Pirate Software)"
+	rom ( name "Take Five - Gangplank + Just Imagine (19xx)(Pirate Software).dsk" size 194816 crc 60ef133d md5 0707d1e57cf30238bd67fa0be980e575 sha1 c1c85b3014eccf68baead4015688528c2eb325dd )
+)
+
+game (
+	name "Tax Bills - The Taxman Cometh + Tax Returns + The Final Demand (19xx)(Zenobi Software)"
+	description "Tax Bills - The Taxman Cometh + Tax Returns + The Final Demand (19xx)(Zenobi Software)"
+	rom ( name "Tax Bills - The Taxman Cometh + Tax Returns + The Final Demand (19xx)(Zenobi Software).dsk" size 194816 crc cc30a3da md5 17aa3e6e427580c5ba5a58fe16b1ff29 sha1 fa056d97fdf52341229aab72d09d9396fc286a17 )
+)
+
+game (
+	name "TNT - Toobin' + Xybots + APB - All Points Bulletin (1990)(Domark)"
+	description "TNT - Toobin' + Xybots + APB - All Points Bulletin (1990)(Domark)"
+	rom ( name "TNT - Toobin' + Xybots + APB - All Points Bulletin (1990)(Domark).dsk" size 344832 crc 8a8ea8ab md5 d4a28fc7e6b0ad2f6cb9c3f4862cb4a4 sha1 627542f6422dea4022cbd86c3fc6a3c73d8d905e )
+)
+
+game (
+	name "Top by Topo - Mad Mix Game + Score 3020 + Tuareg + Wells & Fargo (1989)(Topo Soft)(es)"
+	description "Top by Topo - Mad Mix Game + Score 3020 + Tuareg + Wells & Fargo (1989)(Topo Soft)(es)"
+	rom ( name "Top by Topo - Mad Mix Game + Score 3020 + Tuareg + Wells & Fargo (1989)(Topo Soft)(es).dsk" size 189952 crc 37289d2e md5 bcc212bb416b535e8d37e5d775d34efa sha1 0c2658923b025c77b31de622a2e37f47c9a1467c )
+)
+
+game (
+	name "Top by Topo - Metropolis + Rock 'n Roller + Blackbeard + Emilio Butragueno Futbol (1989)(Topo Soft)(es)"
+	description "Top by Topo - Metropolis + Rock 'n Roller + Blackbeard + Emilio Butragueno Futbol (1989)(Topo Soft)(es)"
+	rom ( name "Top by Topo - Metropolis + Rock 'n Roller + Blackbeard + Emilio Butragueno Futbol (1989)(Topo Soft)(es).dsk" size 185088 crc 0f2e4848 md5 e866441aa54efdb1bed92dad0a59cad2 sha1 3424c891f86e5ed35fc4bfd6c29f8bbdbd96108c )
+)
+
+game (
+	name "Top Ten Collection (1988)(Hit-Pak)(Side A)"
+	description "Top Ten Collection (1988)(Hit-Pak)(Side A)"
+	rom ( name "Top Ten Collection (1988)(Hit-Pak)(Side A).dsk" size 214784 crc ef1edec3 md5 dc3ae826d6b5d50228b158f1b5861f5d sha1 1dc75bb4a6bc2bf92d85cda33f84dd816cfa4f81 )
+)
+
+game (
+	name "Top Ten Collection (1988)(Hit-Pak)(Side B)"
+	description "Top Ten Collection (1988)(Hit-Pak)(Side B)"
+	rom ( name "Top Ten Collection (1988)(Hit-Pak)(Side B).dsk" size 214784 crc 46a55552 md5 3fc89c6ce80fc73d05b88c8e4fa0a779 sha1 3d343ccc80eda55a2824713ac7f88f713cef086d )
+)
+
+game (
+	name "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b2]"
+	description "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b2]"
+	rom ( name "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b2].dsk" size 430336 crc 923fee32 md5 3aa43c62ed529380fd4fea17ccd128c7 sha1 3e844d0c938b0da68fe8f967d6e72009b6894704 )
+)
+
+game (
+	name "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b]"
+	description "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b]"
+	rom ( name "Total - Platoon + Arkanoid II - Revenge of Doh + Combat School (1989)(Erbe Software)[b].dsk" size 215296 crc 90fe6396 md5 8aac8b62b866f3a05541c19df4d80b3d sha1 d721e1aac28c159b7463acc0e165316a19091699 )
+)
+
+game (
+	name "Total - Renegade II - Target Renegade (1989)(Erbe Software)"
+	description "Total - Renegade II - Target Renegade (1989)(Erbe Software)"
+	rom ( name "Total - Renegade II - Target Renegade (1989)(Erbe Software).dsk" size 204544 crc 8ee50a77 md5 2eae8ff2af65020dcc372b9b1abeda63 sha1 6794e5e61a5a08a69141001e60b6ed5ec5e95a85 )
+)
+
+game (
+	name "Total - Renegade II - Target Renegade (1989)(Erbe Software)[b]"
+	description "Total - Renegade II - Target Renegade (1989)(Erbe Software)[b]"
+	rom ( name "Total - Renegade II - Target Renegade (1989)(Erbe Software)[b].dsk" size 408832 crc 41e3e8d7 md5 2b1147057bb24deb35d7830dbb21186b sha1 803911d691fcf328b0bb8ae7ffb45acab2716400 )
+)
+
+game (
+	name "Traveller's Tales - Aztec Assault + Celtic Carnage (1993)(Zenobi Software)"
+	description "Traveller's Tales - Aztec Assault + Celtic Carnage (1993)(Zenobi Software)"
+	rom ( name "Traveller's Tales - Aztec Assault + Celtic Carnage (1993)(Zenobi Software).dsk" size 194816 crc 6af8f2c7 md5 209504fa9aa366d69a2cf61622edd5f6 sha1 636611c8143f00b4b47ba2ac593481d07ae83642 )
+)
+
+game (
+	name "Traveller's Tales - Phoenix + The Violator of Voodoo (1993)(Zenobi Software)"
+	description "Traveller's Tales - Phoenix + The Violator of Voodoo (1993)(Zenobi Software)"
+	rom ( name "Traveller's Tales - Phoenix + The Violator of Voodoo (1993)(Zenobi Software).dsk" size 194816 crc 30e96557 md5 214f9b0f6b3ab04069e37505fd6a40f3 sha1 72179269718719ea83e2c1994f938c99b015145d )
+)
+
+game (
+	name "We Are the Champions - Barbarian + Super Sprint + Rampage (1988)(Ocean)"
+	description "We Are the Champions - Barbarian + Super Sprint + Rampage (1988)(Ocean)"
+	rom ( name "We Are the Champions - Barbarian + Super Sprint + Rampage (1988)(Ocean).dsk" size 214784 crc b25e4d6a md5 65cd56eeb421d16495d9322afd9e9325 sha1 aa549353dd8a793fb7e56e0873717d6ac85b86fa )
+)
+
+game (
+	name "We Are the Champions - International Karate+ + Renegade (1988)(Ocean)"
+	description "We Are the Champions - International Karate+ + Renegade (1988)(Ocean)"
+	rom ( name "We Are the Champions - International Karate+ + Renegade (1988)(Ocean).dsk" size 214784 crc e94b8d59 md5 b4dd27ba133520110399a18d0bb4bf62 sha1 51291b522ca939b17ef22771880fbbe23696a23b )
+)
+
+game (
+	name "World Cup Year 90 Compilation - Gary Lineker's Hot-Shot! (1990)(Empire Software)"
+	description "World Cup Year 90 Compilation - Gary Lineker's Hot-Shot! (1990)(Empire Software)"
+	rom ( name "World Cup Year 90 Compilation - Gary Lineker's Hot-Shot! (1990)(Empire Software).dsk" size 219136 crc 9e086fde md5 e99b487c73b1058b7cc2c7db874a6b99 sha1 72a23897af495c77849ac733fac94de62cae90fb )
+)
+
+game (
+	name "World Cup Year 90 Compilation - Track Suit Manager + Kick Off (1990)(Empire Software)"
+	description "World Cup Year 90 Compilation - Track Suit Manager + Kick Off (1990)(Empire Software)"
+	rom ( name "World Cup Year 90 Compilation - Track Suit Manager + Kick Off (1990)(Empire Software).dsk" size 267520 crc fafc45f7 md5 455766300a85208ef065e5074e7a98fd sha1 d94cfdc743895f3f89a60e9e007f3cae60219cf8 )
+)
+
+game (
+	name "Yet Another Big Disk - Agatha's Folly + Arnold the Adventurer (19xx)(Zenobi Software)"
+	description "Yet Another Big Disk - Agatha's Folly + Arnold the Adventurer (19xx)(Zenobi Software)"
+	rom ( name "Yet Another Big Disk - Agatha's Folly + Arnold the Adventurer (19xx)(Zenobi Software).dsk" size 194816 crc c7b47449 md5 e60a1969d504a4e7437b500308373bd4 sha1 80c18ca2f29cc3750d292fa7dd5e42eda861cf1b )
+)
+
+game (
+	name "Yet Another Big Disk - The Jade Stone + The Ellisnore Diamond (19xx)(Zenobi Software)"
+	description "Yet Another Big Disk - The Jade Stone + The Ellisnore Diamond (19xx)(Zenobi Software)"
+	rom ( name "Yet Another Big Disk - The Jade Stone + The Ellisnore Diamond (19xx)(Zenobi Software).dsk" size 194816 crc 3103713f md5 0f6a3313e57ae68c8eaca543410095b9 sha1 96c58c2887113bcf01738779651e9c7463a980ec )
+)
+
+game (
+	name "Yippee One More Big Disk - Stranded + Out of the Limelight (1993)(Zenobi Software)"
+	description "Yippee One More Big Disk - Stranded + Out of the Limelight (1993)(Zenobi Software)"
+	rom ( name "Yippee One More Big Disk - Stranded + Out of the Limelight (1993)(Zenobi Software).dsk" size 194816 crc 40019a81 md5 cc1bfceb7cc7a636885a74058165b962 sha1 f6a85c2a79e9476e38ec5bec08d29d6862a670bb )
+)
+
+game (
+	name "Yippee One More Big Disk - Tax Returns + Murder - He Said (1993)(Zenobi Software)"
+	description "Yippee One More Big Disk - Tax Returns + Murder - He Said (1993)(Zenobi Software)"
+	rom ( name "Yippee One More Big Disk - Tax Returns + Murder - He Said (1993)(Zenobi Software).dsk" size 194816 crc 719624bf md5 22cf7a2b77e120896cc5b7c395843000 sha1 29eba5c055f09ae49118735139dbbfa66185b92a )
+)
+
+game (
+	name "Zap-Pak - Cybernation + Riding the Rapids (1988)(Players Software)"
+	description "Zap-Pak - Cybernation + Riding the Rapids (1988)(Players Software)"
+	rom ( name "Zap-Pak - Cybernation + Riding the Rapids (1988)(Players Software).dsk" size 160768 crc 1d6888cb md5 34620764349ea344b4d6d7eca3e9026c sha1 69ff8f18e52b3c54e62c72bfcf92267f4360aacc )
+)
+
+game (
+	name "Zap-Pak - Joe Blade + Xanthius (1988)(Players Software)"
+	description "Zap-Pak - Joe Blade + Xanthius (1988)(Players Software)"
+	rom ( name "Zap-Pak - Joe Blade + Xanthius (1988)(Players Software).dsk" size 165632 crc 27730ac1 md5 314275f2b57b2476f80601b4119985c5 sha1 27b06711206766e209e59bee3a7bec2e9f05dc9e )
+)
+
+game (
+	name "ZxZvm - Mysterious Adventures 1 (19xx)(Adventure International)"
+	description "ZxZvm - Mysterious Adventures 1 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Mysterious Adventures 1 (19xx)(Adventure International).dsk" size 194816 crc d1b43a63 md5 707c6e31348d6f34eed6c4da54b16332 sha1 7e927614b18b9a02bceff362bb580d253c5d9cee )
+)
+
+game (
+	name "ZxZvm - Mysterious Adventures 2 (19xx)(Adventure International)"
+	description "ZxZvm - Mysterious Adventures 2 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Mysterious Adventures 2 (19xx)(Adventure International).dsk" size 194816 crc 2c3d633e md5 bfdf25ed8dcefdac8f421df0c7f2b24f sha1 bc54d6ef415ff4aada5afcba19f1c5183a031a93 )
+)
+
+game (
+	name "ZxZvm - Scott Adams Adventures 1 (19xx)(Adventure International)"
+	description "ZxZvm - Scott Adams Adventures 1 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Scott Adams Adventures 1 (19xx)(Adventure International).dsk" size 194816 crc c8d595f7 md5 4f16d4d59f05d51cfe77c36a396863ad sha1 ac4d9a7371417cc42e1c56deb626238631fe494a )
+)
+
+game (
+	name "ZxZvm - Scott Adams Adventures 2 (19xx)(Adventure International)"
+	description "ZxZvm - Scott Adams Adventures 2 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Scott Adams Adventures 2 (19xx)(Adventure International).dsk" size 194816 crc 642c25d3 md5 9273f8cbd49f83a80016dd382aa4d767 sha1 727e5d72cc442ecda865b06f8f23cf5ebe669c67 )
+)
+
+game (
+	name "ZxZvm - Scott Adams Adventures 3 (19xx)(Adventure International)"
+	description "ZxZvm - Scott Adams Adventures 3 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Scott Adams Adventures 3 (19xx)(Adventure International).dsk" size 194816 crc ca649863 md5 87897722fa129c4f87ba75576384c5e7 sha1 8eae36886f787e17996cc43384ba0e643a4c45a3 )
+)
+
+game (
+	name "ZxZvm - Scott Adams Adventures 4 (19xx)(Adventure International)"
+	description "ZxZvm - Scott Adams Adventures 4 (19xx)(Adventure International)"
+	rom ( name "ZxZvm - Scott Adams Adventures 4 (19xx)(Adventure International).dsk" size 194816 crc b3be6909 md5 43f346feedf5f0420de00399e0d80df8 sha1 180d08eaabad999f6f79aaf2be20198799e117e8 )
+)
+

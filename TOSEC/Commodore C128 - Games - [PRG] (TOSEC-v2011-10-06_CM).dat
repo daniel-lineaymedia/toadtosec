@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Commodore C128 - Games - [PRG]"
+	description "Commodore C128 - Games - [PRG] (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Games - [PRG]"
+	version 2011-10-06
+	author "DesertWolf"
+)
+
+game (
+	name "Baseball Trivia Quiz (19xx)(-)"
+	description "Baseball Trivia Quiz (19xx)(-)"
+	rom ( name "Baseball Trivia Quiz (19xx)(-).prg" size 2688 crc 2121ae13 md5 6e0417754f6d9a5066960c2f3328d760 sha1 696f0101c42124d36b9480d01ab8fc30ea419720 )
+)
+
+game (
+	name "Casino (19xx)(-)[b]"
+	description "Casino (19xx)(-)[b]"
+	rom ( name "Casino (19xx)(-)[b].prg" size 21888 crc 487f48fd md5 962402cb5bce91f138abfefffaf92479 sha1 d3fed1b410b41685463bf81de449085ae2670d4e )
+)
+
+game (
+	name "Dominoes (19xx)(-)[b]"
+	description "Dominoes (19xx)(-)[b]"
+	rom ( name "Dominoes (19xx)(-)[b].prg" size 4992 crc eb287ad6 md5 645821dca130adc1dd956f9004220396 sha1 729df99fe55553bfc3e88122742f1827c4ebf342 )
+)
+
+game (
+	name "Fighter, The (19xx)(-)"
+	description "Fighter, The (19xx)(-)"
+	rom ( name "Fighter, The (19xx)(-).prg" size 6912 crc 41b0c789 md5 8c0645893e68294158873f960f04775d sha1 857023553f222d01418e6cd8d67c03a38e29d55f )
+)
+
+game (
+	name "G-Empire (19xx)(-)"
+	description "G-Empire (19xx)(-)"
+	rom ( name "G-Empire (19xx)(-).prg" size 20992 crc 3d8bf79d md5 e0984c56c904ec001db30b96d5aa9443 sha1 9e7eb94cf0205a5bfd4e0e1240616ec91c4c335b )
+)
+
+game (
+	name "Invaders 128 (19xx)(Spiceware)[b]"
+	description "Invaders 128 (19xx)(Spiceware)[b]"
+	rom ( name "Invaders 128 (19xx)(Spiceware)[b].prg" size 10240 crc 20be4e0b md5 7c8a78bc182bc5878824089fae8e168c sha1 19388bd6ddf361e20aedc02e80094509234ae889 )
+)
+
+game (
+	name "Kiss 128 (19xx)(-)[b]"
+	description "Kiss 128 (19xx)(-)[b]"
+	rom ( name "Kiss 128 (19xx)(-)[b].prg" size 15488 crc 45088190 md5 640a9740f8a9aaf9fa9360e96f2adc72 sha1 8046224f96cf0f48e889c13122e4563f356ce3f6 )
+)
+
+game (
+	name "Mikes Maze 128 (19xx)(-)"
+	description "Mikes Maze 128 (19xx)(-)"
+	rom ( name "Mikes Maze 128 (19xx)(-).prg" size 3072 crc 69936a53 md5 b82252f3307c88c2981cc73ecf5bf9eb sha1 020fe25480c15858c6a8c37a9c5e76f57d9d9cde )
+)
+
+game (
+	name "Oh! Tello (19xx)(-)[b]"
+	description "Oh! Tello (19xx)(-)[b]"
+	rom ( name "Oh! Tello (19xx)(-)[b].prg" size 7168 crc 6ec3e1ac md5 a631e2b95da2929344b6315347844678 sha1 801896b3d60a3434aa8b3ae6b39e87d76b1de757 )
+)
+
+game (
+	name "Phazer v1.0 (19xx)(-)"
+	description "Phazer v1.0 (19xx)(-)"
+	rom ( name "Phazer v1.0 (19xx)(-).prg" size 19584 crc d7f8e9cc md5 f7581b4d190a21b928a9fca63c2ddd3a sha1 9ba479ae5e9059df7f33c3e4bbf2c78757e4414b )
+)
+
+game (
+	name "Ultimate Risk (19xx)(Petereit, G.C.)"
+	description "Ultimate Risk (19xx)(Petereit, G.C.)"
+	rom ( name "Ultimate Risk (19xx)(Petereit, G.C.).prg" size 14848 crc 547dc3f4 md5 dc77c9d5a974c6b652df792b86f131d9 sha1 003a879cd136fec394c37b0a7e8d7c51b36b9147 )
+)
+
+game (
+	name "Unicron II (1990)(Dashoey, E.)"
+	description "Unicron II (1990)(Dashoey, E.)"
+	rom ( name "Unicron II (1990)(Dashoey, E.).prg" size 49792 crc e3a759c0 md5 545701c227e444aa89de13b906ca18ef sha1 e3baa72ffb3faca45ed0150ca3f81f503e99e493 )
+)
+
+game (
+	name "Uniquest (19xx)(-)[80 Column Mode]"
+	description "Uniquest (19xx)(-)[80 Column Mode]"
+	rom ( name "Uniquest (19xx)(-)[80 Column Mode].prg" size 52864 crc 96924ae1 md5 16d76be4913b063800c72536400dd647 sha1 5f2eccea9fa1bede333a6685bcbb4089f2509fa4 )
+)
+
+game (
+	name "World at War (19xx)(-)"
+	description "World at War (19xx)(-)"
+	rom ( name "World at War (19xx)(-).prg" size 19712 crc 3e34d248 md5 ef9515e034b7550ad55f500adc907a2b sha1 7ce6fe4a74948a829ad8fba0a797a65423c118c0 )
+)
+
+game (
+	name "Yahtzee (19xx)(-)"
+	description "Yahtzee (19xx)(-)"
+	rom ( name "Yahtzee (19xx)(-).prg" size 17152 crc 9a9cea5c md5 821d7c2ca36a29775955afd64852aa80 sha1 955c70e8c5621272d3189c31f516f081850f6dd5 )
+)
+

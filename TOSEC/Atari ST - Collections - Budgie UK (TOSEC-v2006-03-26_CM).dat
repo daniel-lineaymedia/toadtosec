@@ -1,0 +1,1711 @@
+clrmamepro (
+	name "Atari ST - Collections - Budgie UK"
+	description "Atari ST - Collections - Budgie UK (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Budgie UK"
+	version 2006-03-26
+	author "Keili - jjs"
+)
+
+game (
+	name "Budgie UK Demo 1 (19xx)(Budgie UK)"
+	description "Budgie UK Demo 1 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Demo 1 (19xx)(Budgie UK).st" size 839680 crc b1da2c90 md5 0639606a5b3178848ba21eccfd9defb6 )
+)
+
+game (
+	name "Budgie UK Demo 2 (19xx)(Budgie UK)"
+	description "Budgie UK Demo 2 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Demo 2 (19xx)(Budgie UK).st" size 839680 crc 29bdd60e md5 1863182e2fb473fa217c21dd72811cf7 )
+)
+
+game (
+	name "Budgie UK Demo 4 (19xx)(Budgie UK)"
+	description "Budgie UK Demo 4 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Demo 4 (19xx)(Budgie UK).st" size 839680 crc 75eba6cb md5 f8ce82049915ccc304a43ef6a21e532f )
+)
+
+game (
+	name "Budgie UK Productivity 01 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 01 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 01 (19xx)(Budgie UK).st" size 737280 crc bcc793de md5 f7f5f6ad0cfbfe9ec49741caadc44c5b )
+)
+
+game (
+	name "Budgie UK Productivity 02 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 02 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 02 (19xx)(Budgie UK).st" size 737280 crc 553791ba md5 a9d3d9b44c4b367b5195d9333e02a52b )
+)
+
+game (
+	name "Budgie UK Productivity 03 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 03 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 03 (19xx)(Budgie UK).st" size 737280 crc dfb3cfba md5 6d0449671c9d94faf6c1c8d9800c01d7 )
+)
+
+game (
+	name "Budgie UK Productivity 04 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 04 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 04 (19xx)(Budgie UK).st" size 819200 crc fad3a5fe md5 6130df5e461991dda72062b0f89a3403 )
+)
+
+game (
+	name "Budgie UK Productivity 05 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 05 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 05 (19xx)(Budgie UK).st" size 819200 crc 71338995 md5 f8233c6d44427e7befe00316e1f84f5b )
+)
+
+game (
+	name "Budgie UK Productivity 06 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 06 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 06 (19xx)(Budgie UK).st" size 819200 crc 7945ee9d md5 b1237ee39053454efd86955d901f60be )
+)
+
+game (
+	name "Budgie UK Productivity 07 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 07 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 07 (19xx)(Budgie UK).st" size 737280 crc 96b06f75 md5 234c7cb5b3a9e0fe38dd81bdae89c4f7 )
+)
+
+game (
+	name "Budgie UK Productivity 08 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 08 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 08 (19xx)(Budgie UK).st" size 737280 crc d03e13d8 md5 32c22f00bd2eb19caafa798327e66798 )
+)
+
+game (
+	name "Budgie UK Productivity 09 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 09 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 09 (19xx)(Budgie UK).st" size 819200 crc cd371e87 md5 638a2d5b5dec5cb549110f99e76fef84 )
+)
+
+game (
+	name "Budgie UK Productivity 10 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 10 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 10 (19xx)(Budgie UK).st" size 737280 crc dbb2c224 md5 3c1f93ea395febe2dd584e755bc5e4dc )
+)
+
+game (
+	name "Budgie UK Productivity 11 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 11 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 11 (19xx)(Budgie UK).st" size 737280 crc 9ece016f md5 df50e81eecbf467e08b9c85b9382e9dc )
+)
+
+game (
+	name "Budgie UK Productivity 12 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 12 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 12 (19xx)(Budgie UK).st" size 819200 crc 6e3a017b md5 c215a7af81c3aaeb4eb70d1e4da5eb52 )
+)
+
+game (
+	name "Budgie UK Productivity 13 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 13 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 13 (19xx)(Budgie UK).st" size 737280 crc f74eeece md5 c6686820f325391475bd94b05e2fe55f )
+)
+
+game (
+	name "Budgie UK Productivity 14 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 14 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 14 (19xx)(Budgie UK).st" size 737280 crc a9694fd9 md5 fc04d05e3fdbb539bcd3cbeed8d26b87 )
+)
+
+game (
+	name "Budgie UK Productivity 15 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 15 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 15 (19xx)(Budgie UK).st" size 737280 crc c2d2ccb2 md5 a85839371c17cea78f7b1cf5fce18a00 )
+)
+
+game (
+	name "Budgie UK Productivity 16 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 16 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 16 (19xx)(Budgie UK).st" size 737280 crc 96759506 md5 b3544c009c7054aa9859b3e5deb1550b )
+)
+
+game (
+	name "Budgie UK Productivity 17 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 17 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 17 (19xx)(Budgie UK).st" size 737280 crc 88b505a6 md5 590dea70d9ebc02fdb78c4fca06507e3 )
+)
+
+game (
+	name "Budgie UK Productivity 18 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 18 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 18 (19xx)(Budgie UK).st" size 737280 crc 7ed0c7a6 md5 59eb9d6d43e101d6cfc3316f1549d431 )
+)
+
+game (
+	name "Budgie UK Productivity 19 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 19 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 19 (19xx)(Budgie UK).st" size 737280 crc 642209d6 md5 51748d6b5a89fd62dc0893877f8fbae9 )
+)
+
+game (
+	name "Budgie UK Productivity 20 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 20 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 20 (19xx)(Budgie UK).st" size 737280 crc cb26adc5 md5 2d64910dced587f04e014da589ed744a )
+)
+
+game (
+	name "Budgie UK Productivity 21 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 21 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 21 (19xx)(Budgie UK).st" size 737280 crc 7c21e7bc md5 508236225c0f8cc0b9c6763eae5b3883 )
+)
+
+game (
+	name "Budgie UK Productivity 22 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 22 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 22 (19xx)(Budgie UK).st" size 737280 crc 6a88be66 md5 24979cb6edb68a71fc56104c822df064 )
+)
+
+game (
+	name "Budgie UK Productivity 23 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 23 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 23 (19xx)(Budgie UK).st" size 737280 crc a291b05d md5 9483d3336ebc6c23822d0bc41b03a4d1 )
+)
+
+game (
+	name "Budgie UK Productivity 24 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 24 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 24 (19xx)(Budgie UK).st" size 839680 crc 6752a251 md5 ae88b5bdb959517ffc20cb92d783e135 )
+)
+
+game (
+	name "Budgie UK Productivity 25 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 25 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 25 (19xx)(Budgie UK).st" size 737280 crc f19154c8 md5 8e3644951ac5b8735b37da0861ea1261 )
+)
+
+game (
+	name "Budgie UK Productivity 26 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 26 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 26 (19xx)(Budgie UK).st" size 737280 crc 374be1ca md5 c6bc7b24cebc895e38541a9598fd7872 )
+)
+
+game (
+	name "Budgie UK Productivity 27 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 27 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 27 (19xx)(Budgie UK).st" size 737280 crc f3a6d121 md5 9275177ec695bfcee47ea4d02d83a9b0 )
+)
+
+game (
+	name "Budgie UK Productivity 28 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 28 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 28 (19xx)(Budgie UK).st" size 737280 crc 93de7c12 md5 c3a5aa7cde9e1f848804b6f1f180e001 )
+)
+
+game (
+	name "Budgie UK Productivity 29 (19xx)(Budgie UK)"
+	description "Budgie UK Productivity 29 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Productivity 29 (19xx)(Budgie UK).st" size 737280 crc 3703738d md5 c1be0ca207088e0597dfa75984142b80 )
+)
+
+game (
+	name "Budgie UK Utility 001 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 001 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 001 (19xx)(Budgie UK).st" size 737280 crc fd2e9de1 md5 f5fe392097c5f403e83f9201482feb97 )
+)
+
+game (
+	name "Budgie UK Utility 001 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 001 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 001 (19xx)(Budgie UK)[a].st" size 737280 crc f0136f7e md5 db76b740bdb7e9356b9c0199022889b3 )
+)
+
+game (
+	name "Budgie UK Utility 001 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 001 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 001 (19xx)(Budgie UK)[a2].st" size 368640 crc 9065220b md5 126617150d96ce48e430d9467bcd83e7 )
+)
+
+game (
+	name "Budgie UK Utility 002 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 002 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 002 (19xx)(Budgie UK).st" size 737280 crc fd12df5a md5 98ef318f6171cc3ffed91551e7f169e2 )
+)
+
+game (
+	name "Budgie UK Utility 002 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 002 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 002 (19xx)(Budgie UK)[a].st" size 737280 crc 61e718fd md5 943f5e7b735f32380b6a7b308cbabcf3 )
+)
+
+game (
+	name "Budgie UK Utility 003 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 003 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 003 (19xx)(Budgie UK).st" size 737280 crc 2b9a4285 md5 797449a2c2205c00f42e5e2c4f727a7b )
+)
+
+game (
+	name "Budgie UK Utility 004 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 004 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 004 (19xx)(Budgie UK).st" size 737280 crc 6f15a53b md5 2a9fb4ce15e2ae52dc08488ff406ab67 )
+)
+
+game (
+	name "Budgie UK Utility 004 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 004 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 004 (19xx)(Budgie UK)[a].st" size 737280 crc b8dd27ea md5 8a6a4effb87562fa42f4953a847cec55 )
+)
+
+game (
+	name "Budgie UK Utility 005 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 005 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 005 (19xx)(Budgie UK).st" size 737280 crc 1d150bc4 md5 3e62b5b02a10d2aa0b79cec3f5510d32 )
+)
+
+game (
+	name "Budgie UK Utility 005 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 005 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 005 (19xx)(Budgie UK)[a].st" size 737280 crc a1bfffa6 md5 c3dff882bf94b479a39ba39503c1b185 )
+)
+
+game (
+	name "Budgie UK Utility 005 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 005 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 005 (19xx)(Budgie UK)[a2].st" size 737280 crc a416dccd md5 79f6221ca54619e20d1c0eb8eaa63c4d )
+)
+
+game (
+	name "Budgie UK Utility 006 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 006 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 006 (19xx)(Budgie UK).st" size 737280 crc 6a282921 md5 94ec62015f72697f9d6d5828bd2d338d )
+)
+
+game (
+	name "Budgie UK Utility 006 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 006 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 006 (19xx)(Budgie UK)[a].st" size 737280 crc 21af8863 md5 8038c79cdd417a752930e2fbdb4821ed )
+)
+
+game (
+	name "Budgie UK Utility 007 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 007 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 007 (19xx)(Budgie UK).st" size 737280 crc 96eab331 md5 8f6afabcfbcce851be7e1785bcadd57b )
+)
+
+game (
+	name "Budgie UK Utility 007 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 007 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 007 (19xx)(Budgie UK)[a].st" size 737280 crc 6ced0c19 md5 839a076063deb0211c0f23614e306238 )
+)
+
+game (
+	name "Budgie UK Utility 008 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 008 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 008 (19xx)(Budgie UK).st" size 737280 crc 2138fcd0 md5 ebcb089926dc85e49569e386d205f761 )
+)
+
+game (
+	name "Budgie UK Utility 008 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 008 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 008 (19xx)(Budgie UK)[a].st" size 737280 crc 59955661 md5 7653c1ff06267173d15aabf9664480f3 )
+)
+
+game (
+	name "Budgie UK Utility 009 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 009 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 009 (19xx)(Budgie UK).st" size 737280 crc 338a0d80 md5 b8d7f37289788a18ab0dd6cbced03545 )
+)
+
+game (
+	name "Budgie UK Utility 009 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 009 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 009 (19xx)(Budgie UK)[a].st" size 737280 crc 4a5e2d76 md5 e551965dfca7ca58d139d30b7126f20f )
+)
+
+game (
+	name "Budgie UK Utility 010 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 010 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 010 (19xx)(Budgie UK).st" size 737280 crc 59685e83 md5 1b3bed71ff998ecedc6d6af867dca9d7 )
+)
+
+game (
+	name "Budgie UK Utility 010 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 010 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 010 (19xx)(Budgie UK)[a].st" size 737280 crc 5c5dedd8 md5 c822e803079ee0c9799f73d28e2ec1f8 )
+)
+
+game (
+	name "Budgie UK Utility 011 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 011 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 011 (19xx)(Budgie UK).st" size 737280 crc 686a6507 md5 d679aa28d8b11ca79850b2d39e905767 )
+)
+
+game (
+	name "Budgie UK Utility 011 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 011 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 011 (19xx)(Budgie UK)[a].st" size 737280 crc 22740037 md5 4da7452820c4c0064813961b735a7bc5 )
+)
+
+game (
+	name "Budgie UK Utility 012 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 012 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 012 (19xx)(Budgie UK).st" size 737280 crc d744e094 md5 4e3a2cb3c0a7e4b3e1be0c9202f0d41d )
+)
+
+game (
+	name "Budgie UK Utility 012 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 012 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 012 (19xx)(Budgie UK)[a].st" size 737280 crc 4c0a1c5f md5 d4858d53d0705950af273ad26ebdc288 )
+)
+
+game (
+	name "Budgie UK Utility 013 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 013 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 013 (19xx)(Budgie UK).st" size 737280 crc ff009e25 md5 e49e203752a0b821c89994d5f8938275 )
+)
+
+game (
+	name "Budgie UK Utility 013 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 013 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 013 (19xx)(Budgie UK)[a].st" size 737280 crc 4e61ec50 md5 4a35b082c5fc0334be48f53b5b8ba3c0 )
+)
+
+game (
+	name "Budgie UK Utility 014 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 014 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 014 (19xx)(Budgie UK).st" size 737280 crc 06f42640 md5 3189c3c0b3a61f71cf9a5af99e2f77e8 )
+)
+
+game (
+	name "Budgie UK Utility 014 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 014 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 014 (19xx)(Budgie UK)[a].st" size 737280 crc 2cf326d6 md5 b9f87532e3ba44b741618f178a3a3266 )
+)
+
+game (
+	name "Budgie UK Utility 015 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 015 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 015 (19xx)(Budgie UK).st" size 737280 crc 9194c114 md5 41e55f74e175b29a60a78ed0cb637d8b )
+)
+
+game (
+	name "Budgie UK Utility 015 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 015 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 015 (19xx)(Budgie UK)[a].st" size 737280 crc a19d4f09 md5 c53f29b8974d522df38d9271f80725fa )
+)
+
+game (
+	name "Budgie UK Utility 016 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 016 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 016 (19xx)(Budgie UK).st" size 737280 crc 973a2118 md5 f315885c4834e01e99414637a53039a6 )
+)
+
+game (
+	name "Budgie UK Utility 016 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 016 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 016 (19xx)(Budgie UK)[a].st" size 737280 crc 54a2dd3d md5 8984991e9a76f7207761f98662c1bec7 )
+)
+
+game (
+	name "Budgie UK Utility 016 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 016 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 016 (19xx)(Budgie UK)[a2].st" size 737280 crc 8cebc5fb md5 4be372780b0e65de8276f2ed5b96acb4 )
+)
+
+game (
+	name "Budgie UK Utility 017 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 017 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 017 (19xx)(Budgie UK).st" size 737280 crc 1f1343e0 md5 a205843f8b29ef46a43030e58741ae69 )
+)
+
+game (
+	name "Budgie UK Utility 017 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 017 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 017 (19xx)(Budgie UK)[a].st" size 737280 crc 6f6623cd md5 36db1d64b404aabb530dadaf65be6332 )
+)
+
+game (
+	name "Budgie UK Utility 018 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 018 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 018 (19xx)(Budgie UK).st" size 737280 crc 09b96a08 md5 869098531514385a077a31c72b53e541 )
+)
+
+game (
+	name "Budgie UK Utility 018 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 018 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 018 (19xx)(Budgie UK)[a].st" size 737280 crc 481d913e md5 7e9a52eb7a8000eb521ba0988fb5c9d0 )
+)
+
+game (
+	name "Budgie UK Utility 019 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 019 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 019 (19xx)(Budgie UK).st" size 737280 crc 4063149f md5 f13ce816645fc846f7318e350064c67e )
+)
+
+game (
+	name "Budgie UK Utility 019 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 019 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 019 (19xx)(Budgie UK)[a].st" size 737280 crc e38859fc md5 6598b1c7f7c852de0e9ae07b4bb87602 )
+)
+
+game (
+	name "Budgie UK Utility 019 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 019 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 019 (19xx)(Budgie UK)[a2].st" size 737280 crc b5916f9d md5 78d8e0a7aa938a2336945dda8da455b2 )
+)
+
+game (
+	name "Budgie UK Utility 020 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 020 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 020 (19xx)(Budgie UK).st" size 737280 crc 664d0bf9 md5 4bc41e94aebe609fe8586469fa5e48a5 )
+)
+
+game (
+	name "Budgie UK Utility 020 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 020 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 020 (19xx)(Budgie UK)[a].st" size 737280 crc 8310bf3e md5 4b50c1f0b2ab57db651c26dff39d1954 )
+)
+
+game (
+	name "Budgie UK Utility 021 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 021 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 021 (19xx)(Budgie UK).st" size 737280 crc 0ccfeeb6 md5 dec7be64aea2f4c29bf82ce1238e9bc5 )
+)
+
+game (
+	name "Budgie UK Utility 021 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 021 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 021 (19xx)(Budgie UK)[a].st" size 737280 crc 2feb7fe1 md5 e1e4948ac9840393950b43e822d3e58a )
+)
+
+game (
+	name "Budgie UK Utility 022 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 022 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 022 (19xx)(Budgie UK).st" size 737280 crc 9f63b41b md5 f7f644e362c0d7752d2e3f79d8973b8c )
+)
+
+game (
+	name "Budgie UK Utility 022 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 022 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 022 (19xx)(Budgie UK)[a].st" size 737280 crc 64e434c5 md5 79393629634aee71944b426f6b6fa69a )
+)
+
+game (
+	name "Budgie UK Utility 023 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 023 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 023 (19xx)(Budgie UK).st" size 737280 crc 3fea7558 md5 f24362a6c74de174e341906f6382e509 )
+)
+
+game (
+	name "Budgie UK Utility 023 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 023 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 023 (19xx)(Budgie UK)[a].st" size 737280 crc 801c99bc md5 fd1c665f74387647b53705a48e620001 )
+)
+
+game (
+	name "Budgie UK Utility 023 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 023 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 023 (19xx)(Budgie UK)[a2].st" size 737280 crc 55c6f3c5 md5 5140c23f1018872397dc7231b8bfbd5b )
+)
+
+game (
+	name "Budgie UK Utility 024 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 024 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 024 (19xx)(Budgie UK).st" size 737280 crc 6f800090 md5 9d0589bca53bca653738ec7403eb0747 )
+)
+
+game (
+	name "Budgie UK Utility 024 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 024 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 024 (19xx)(Budgie UK)[a].st" size 737280 crc 9ae056c4 md5 02f385f844d627e6fedccf29b820ced8 )
+)
+
+game (
+	name "Budgie UK Utility 025 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 025 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 025 (19xx)(Budgie UK).st" size 737280 crc 4a1b9da8 md5 381533968ded7ee371a79373dbf1fabf )
+)
+
+game (
+	name "Budgie UK Utility 025 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 025 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 025 (19xx)(Budgie UK)[a].st" size 737280 crc 1606e315 md5 0688743737551bf1ffa2ec7617514037 )
+)
+
+game (
+	name "Budgie UK Utility 025 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 025 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 025 (19xx)(Budgie UK)[a2].st" size 414720 crc 025ecb74 md5 04aa96b7def8cffd654b7b357a6b37f0 )
+)
+
+game (
+	name "Budgie UK Utility 026 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 026 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 026 (19xx)(Budgie UK).st" size 737280 crc 1290604a md5 bd4c2fb4e989e8ca474ac03b323ac8f0 )
+)
+
+game (
+	name "Budgie UK Utility 026 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 026 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 026 (19xx)(Budgie UK)[a].st" size 737280 crc af1831a2 md5 8df2e31a93bcfec13f903eca55c823be )
+)
+
+game (
+	name "Budgie UK Utility 027 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 027 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 027 (19xx)(Budgie UK).st" size 737280 crc 3614f09a md5 11ea48971c3d4a7b8e10216376dec2a9 )
+)
+
+game (
+	name "Budgie UK Utility 027 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 027 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 027 (19xx)(Budgie UK)[a].st" size 737280 crc 0c47323c md5 d9b5587a816d8e5c35efdcafa24315fc )
+)
+
+game (
+	name "Budgie UK Utility 028 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 028 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 028 (19xx)(Budgie UK).st" size 737280 crc f14a5eaf md5 7d61e97fd860423631c75a6e3bf3a8ad )
+)
+
+game (
+	name "Budgie UK Utility 028 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 028 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 028 (19xx)(Budgie UK)[a].st" size 737280 crc 73569ac1 md5 edba0dcca3eb7f2824b681ad29230a8f )
+)
+
+game (
+	name "Budgie UK Utility 029 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 029 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 029 (19xx)(Budgie UK).st" size 737280 crc 7e42f822 md5 6e8d40a121ed24838cde9e825c4940b5 )
+)
+
+game (
+	name "Budgie UK Utility 029 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 029 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 029 (19xx)(Budgie UK)[a].st" size 737280 crc 4b08e869 md5 522d02dfa3b784926cdbb13804ba378f )
+)
+
+game (
+	name "Budgie UK Utility 030 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 030 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 030 (19xx)(Budgie UK).st" size 737280 crc 1cb1adb4 md5 43fa1bb22145b039cd1df3248a85edc4 )
+)
+
+game (
+	name "Budgie UK Utility 030 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 030 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 030 (19xx)(Budgie UK)[a].st" size 737280 crc 0f12c9b0 md5 ea639d06b7144a762c0cf1491f6a126f )
+)
+
+game (
+	name "Budgie UK Utility 031 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 031 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 031 (19xx)(Budgie UK).st" size 737280 crc 73ea9691 md5 c7f3ed8e4677248632c272798bcf4dae )
+)
+
+game (
+	name "Budgie UK Utility 031 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 031 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 031 (19xx)(Budgie UK)[a].st" size 737280 crc d0660963 md5 286033a60acad64fe8c2809b013a82a4 )
+)
+
+game (
+	name "Budgie UK Utility 032 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 032 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 032 (19xx)(Budgie UK).st" size 737280 crc 424d6656 md5 d359fbcf641e8425991ae61f4f165e59 )
+)
+
+game (
+	name "Budgie UK Utility 032 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 032 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 032 (19xx)(Budgie UK)[a].st" size 737280 crc b3a1d44a md5 bbfdd94c329b9161bf08dc17c1301aac )
+)
+
+game (
+	name "Budgie UK Utility 032 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 032 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 032 (19xx)(Budgie UK)[a2].st" size 737280 crc f224c3b4 md5 ce8e207cdeff8e56d6fc7114c1bae8b1 )
+)
+
+game (
+	name "Budgie UK Utility 033 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 033 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 033 (19xx)(Budgie UK).st" size 737280 crc 407556e5 md5 ca71c25518988ffae769c6e4eeb0f8d8 )
+)
+
+game (
+	name "Budgie UK Utility 033 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 033 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 033 (19xx)(Budgie UK)[a].st" size 737280 crc bfee2eec md5 d29bd45f1c0d07e722c31263fc60812f )
+)
+
+game (
+	name "Budgie UK Utility 034 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 034 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 034 (19xx)(Budgie UK).st" size 737280 crc 932bab64 md5 599cee54353d5bb75774aea0619335f6 )
+)
+
+game (
+	name "Budgie UK Utility 034 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 034 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 034 (19xx)(Budgie UK)[a].st" size 737280 crc 70a85c39 md5 b2eca789aab973b96724cbcead2553de )
+)
+
+game (
+	name "Budgie UK Utility 035 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 035 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 035 (19xx)(Budgie UK).st" size 737280 crc 5c814159 md5 1fa51e2e1dd2cccefeb017bc7fc0b7b0 )
+)
+
+game (
+	name "Budgie UK Utility 035 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 035 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 035 (19xx)(Budgie UK)[a].st" size 737280 crc d74bbc55 md5 161c6d3ce1d1d48d30df4bff4a99de4d )
+)
+
+game (
+	name "Budgie UK Utility 036 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 036 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 036 (19xx)(Budgie UK).st" size 737280 crc be10d20a md5 ad5bb13425ff5e93a2ce409545e5c629 )
+)
+
+game (
+	name "Budgie UK Utility 036 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 036 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 036 (19xx)(Budgie UK)[a].st" size 737280 crc d38e33b6 md5 435f2c0445688769a0054c0781268b02 )
+)
+
+game (
+	name "Budgie UK Utility 037 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 037 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 037 (19xx)(Budgie UK).st" size 737280 crc 0ef40ab9 md5 af6927b27c6c40358cad8329f523e01a )
+)
+
+game (
+	name "Budgie UK Utility 037 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 037 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 037 (19xx)(Budgie UK)[a].st" size 737280 crc b559f1e6 md5 b1e10e2cf734aa81eb9f868376b89bf7 )
+)
+
+game (
+	name "Budgie UK Utility 038 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 038 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 038 (19xx)(Budgie UK).st" size 737280 crc c3607406 md5 8a9297b812a3808b8a3c6f1b26b64a13 )
+)
+
+game (
+	name "Budgie UK Utility 038 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 038 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 038 (19xx)(Budgie UK)[a].st" size 737280 crc 253d6709 md5 a51f4520c461be1f7e1ad7dc31eae671 )
+)
+
+game (
+	name "Budgie UK Utility 039 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 039 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 039 (19xx)(Budgie UK).st" size 737280 crc b46d04d3 md5 f8d454b819eaf58e27e1af9e40207532 )
+)
+
+game (
+	name "Budgie UK Utility 039 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 039 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 039 (19xx)(Budgie UK)[a].st" size 737280 crc c35bbbe3 md5 073a2630236de2c44e1be74a34fbac44 )
+)
+
+game (
+	name "Budgie UK Utility 040 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 040 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 040 (19xx)(Budgie UK).st" size 737280 crc 2a5c288e md5 4c6e4d6818bc5a1c2f09e1008de99fb7 )
+)
+
+game (
+	name "Budgie UK Utility 040 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 040 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 040 (19xx)(Budgie UK)[a].st" size 737280 crc 94279117 md5 00debd5f9140c20e353ce83ae33c18d8 )
+)
+
+game (
+	name "Budgie UK Utility 041 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 041 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 041 (19xx)(Budgie UK).st" size 737280 crc 86b970b8 md5 df9a62133c57b39b7560d25f7fa8ced0 )
+)
+
+game (
+	name "Budgie UK Utility 041 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 041 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 041 (19xx)(Budgie UK)[a].st" size 737280 crc 78d8edc8 md5 cba7eff83b2417074693d98ddedbf99d )
+)
+
+game (
+	name "Budgie UK Utility 042 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 042 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 042 (19xx)(Budgie UK).st" size 737280 crc 571c7c5c md5 e96fd6ca59007d77cd3817417a716ed0 )
+)
+
+game (
+	name "Budgie UK Utility 042 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 042 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 042 (19xx)(Budgie UK)[a].st" size 737280 crc 0626bbe7 md5 73d89213bc224eb64452e1c874535504 )
+)
+
+game (
+	name "Budgie UK Utility 043 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 043 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 043 (19xx)(Budgie UK).st" size 737280 crc cfb47c60 md5 51b88f1662de200cacb99c3851d40feb )
+)
+
+game (
+	name "Budgie UK Utility 043 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 043 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 043 (19xx)(Budgie UK)[a].st" size 737280 crc 633ed444 md5 703d41e36c96e5d6deaa26e70a09d747 )
+)
+
+game (
+	name "Budgie UK Utility 044 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 044 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 044 (19xx)(Budgie UK).st" size 737280 crc c6119fc2 md5 e9d74f49c0a2192cfe47aacca6df96ca )
+)
+
+game (
+	name "Budgie UK Utility 044 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 044 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 044 (19xx)(Budgie UK)[a].st" size 737280 crc 4852c1fd md5 2cadd27cbc2101468da2b6d5a358d76a )
+)
+
+game (
+	name "Budgie UK Utility 045 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 045 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 045 (19xx)(Budgie UK).st" size 737280 crc 50fb86bb md5 02df30d9a83247cd1fbc5a880bb8742e )
+)
+
+game (
+	name "Budgie UK Utility 045 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 045 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 045 (19xx)(Budgie UK)[a].st" size 737280 crc ceb92fb9 md5 612d6c4437fb78096352f417c1062652 )
+)
+
+game (
+	name "Budgie UK Utility 046 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 046 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 046 (19xx)(Budgie UK).st" size 737280 crc 16d28a8c md5 6790246c702f6c94cd54f23020ed412f )
+)
+
+game (
+	name "Budgie UK Utility 046 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 046 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 046 (19xx)(Budgie UK)[a].st" size 737280 crc 518c5c2e md5 962c41bd216ac0e8bff73c3d2d2d056d )
+)
+
+game (
+	name "Budgie UK Utility 047 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 047 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 047 (19xx)(Budgie UK).st" size 737280 crc e512eab0 md5 514d7be474a0c47344ad5faa00ad5020 )
+)
+
+game (
+	name "Budgie UK Utility 047 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 047 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 047 (19xx)(Budgie UK)[a].st" size 737280 crc 62002b8b md5 d5d52a41ec689c79cdcf95107a7e4f9a )
+)
+
+game (
+	name "Budgie UK Utility 048 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 048 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 048 (19xx)(Budgie UK).st" size 737280 crc 32eca3cb md5 07ce78800f5c7d7ce221cc27ef8c99fd )
+)
+
+game (
+	name "Budgie UK Utility 048 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 048 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 048 (19xx)(Budgie UK)[a].st" size 737280 crc dbf1d099 md5 c4b5ca2a5610f1c1f509ce364d832d7d )
+)
+
+game (
+	name "Budgie UK Utility 049 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 049 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 049 (19xx)(Budgie UK).st" size 737280 crc b186d8c6 md5 b4c2e08f7b2d45cc831ece6417c58819 )
+)
+
+game (
+	name "Budgie UK Utility 049 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 049 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 049 (19xx)(Budgie UK)[a].st" size 737280 crc aa4ed69a md5 e81916c61926c7a7730c4708459fdb02 )
+)
+
+game (
+	name "Budgie UK Utility 050 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 050 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 050 (19xx)(Budgie UK).st" size 737280 crc 4cd62cea md5 8c87eb222a53ac560221aaa726490615 )
+)
+
+game (
+	name "Budgie UK Utility 050 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 050 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 050 (19xx)(Budgie UK)[a].st" size 737280 crc dd63dc62 md5 388619087f2ced4e22b66d70ade073cb )
+)
+
+game (
+	name "Budgie UK Utility 051 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 051 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 051 (19xx)(Budgie UK).st" size 737280 crc 64c81522 md5 9f4bb61edb53923049cc6e4fa5c17b5f )
+)
+
+game (
+	name "Budgie UK Utility 051 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 051 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 051 (19xx)(Budgie UK)[a].st" size 737280 crc 83ace1e6 md5 20120252ce054b4b3e115d171975904e )
+)
+
+game (
+	name "Budgie UK Utility 052 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 052 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 052 (19xx)(Budgie UK).st" size 737280 crc 7a7e8553 md5 44182e89d0af4dbe4a75b3d5275de15a )
+)
+
+game (
+	name "Budgie UK Utility 052 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 052 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 052 (19xx)(Budgie UK)[a].st" size 737280 crc 26faf834 md5 36732fc1d035ace50493620666a7ffd7 )
+)
+
+game (
+	name "Budgie UK Utility 053 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 053 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 053 (19xx)(Budgie UK).st" size 737280 crc ba2a3f38 md5 afc70e0d9be8a73bdb04fec32abb949e )
+)
+
+game (
+	name "Budgie UK Utility 053 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 053 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 053 (19xx)(Budgie UK)[a].st" size 737280 crc 8023965f md5 644bc116728808b804f48bd61c5dc962 )
+)
+
+game (
+	name "Budgie UK Utility 054 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 054 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 054 (19xx)(Budgie UK).st" size 737280 crc 531efb7c md5 26aada40bd811e35b1e1f2f1083381c2 )
+)
+
+game (
+	name "Budgie UK Utility 054 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 054 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 054 (19xx)(Budgie UK)[a].st" size 737280 crc f361c287 md5 6ebefc21d4f1322a3bfaf10153184625 )
+)
+
+game (
+	name "Budgie UK Utility 055 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 055 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 055 (19xx)(Budgie UK).st" size 737280 crc af486473 md5 d32e16e08090e251fc40a4ab267a122e )
+)
+
+game (
+	name "Budgie UK Utility 055 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 055 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 055 (19xx)(Budgie UK)[a].st" size 737280 crc 14b7b294 md5 fe66f3dc4f3b5dfdcbdbf7031e7e351c )
+)
+
+game (
+	name "Budgie UK Utility 056 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 056 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 056 (19xx)(Budgie UK).st" size 737280 crc af1c3641 md5 a9a6a55728fc2fa038b5a5877af4581c )
+)
+
+game (
+	name "Budgie UK Utility 056 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 056 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 056 (19xx)(Budgie UK)[a].st" size 737280 crc bcc45c11 md5 404a8263239a7f961309840336047176 )
+)
+
+game (
+	name "Budgie UK Utility 057 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 057 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 057 (19xx)(Budgie UK).st" size 737280 crc 0dc5adb9 md5 aad73adfdae042274a7749d3370d6ece )
+)
+
+game (
+	name "Budgie UK Utility 057 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 057 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 057 (19xx)(Budgie UK)[a].st" size 737280 crc 29b50519 md5 6e469ef46ba7da68592ae499e005a4a2 )
+)
+
+game (
+	name "Budgie UK Utility 058 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 058 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 058 (19xx)(Budgie UK).st" size 737280 crc 0ffd278b md5 38952386bea32b375eb916b414a41776 )
+)
+
+game (
+	name "Budgie UK Utility 058 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 058 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 058 (19xx)(Budgie UK)[a].st" size 737280 crc 19267de3 md5 29f856c5ddcc2d146bcd55a0219330c4 )
+)
+
+game (
+	name "Budgie UK Utility 059 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 059 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 059 (19xx)(Budgie UK).st" size 737280 crc ab2f2198 md5 944ccf1c5dfc1765935ac4c189db9cb1 )
+)
+
+game (
+	name "Budgie UK Utility 059 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 059 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 059 (19xx)(Budgie UK)[a].st" size 737280 crc 6e2c5872 md5 764279638f429f9002834cc81d8876d7 )
+)
+
+game (
+	name "Budgie UK Utility 060 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 060 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 060 (19xx)(Budgie UK).st" size 737280 crc 9c00f722 md5 1a6ce664a5ad70125ea41ca75ee882c7 )
+)
+
+game (
+	name "Budgie UK Utility 060 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 060 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 060 (19xx)(Budgie UK)[a].st" size 737280 crc 4ea61dc1 md5 d7e7b5a8e3b285d8a4eba98b55eed219 )
+)
+
+game (
+	name "Budgie UK Utility 061 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 061 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 061 (19xx)(Budgie UK).st" size 737280 crc 29d6d10c md5 7cd8ec0ca4a473c02bf689fb087a271d )
+)
+
+game (
+	name "Budgie UK Utility 061 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 061 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 061 (19xx)(Budgie UK)[a].st" size 737280 crc 5b2c06d6 md5 185fb62b269bcda6aa980e3006bba9e9 )
+)
+
+game (
+	name "Budgie UK Utility 062 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 062 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 062 (19xx)(Budgie UK).st" size 737280 crc 9c791ec1 md5 25b207ab8ef77fcab129232004a27fd1 )
+)
+
+game (
+	name "Budgie UK Utility 062 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 062 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 062 (19xx)(Budgie UK)[a].st" size 737280 crc 40004d2b md5 f6f0e900db7246e2aad73e505b92a1fb )
+)
+
+game (
+	name "Budgie UK Utility 063 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 063 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 063 (19xx)(Budgie UK).st" size 737280 crc d1a8d48f md5 628be90fa08ae86286572fb37c6842af )
+)
+
+game (
+	name "Budgie UK Utility 063 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 063 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 063 (19xx)(Budgie UK)[a].st" size 737280 crc 79544a2d md5 f12822379c5e950ffe0ab43ec613e777 )
+)
+
+game (
+	name "Budgie UK Utility 064 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 064 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 064 (19xx)(Budgie UK).st" size 737280 crc 8f82b54f md5 4f870b69b345b6b271c537be18feb9af )
+)
+
+game (
+	name "Budgie UK Utility 064 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 064 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 064 (19xx)(Budgie UK)[a].st" size 737280 crc 62ab09ae md5 6f0d2c5e8b9aaf3ca154c47785cb43d0 )
+)
+
+game (
+	name "Budgie UK Utility 065 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 065 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 065 (19xx)(Budgie UK).st" size 737280 crc 2a001cd3 md5 45ec5035dd5e6d530c5b020ebfd13d7b )
+)
+
+game (
+	name "Budgie UK Utility 065 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 065 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 065 (19xx)(Budgie UK)[a].st" size 737280 crc ca53403e md5 c2dea35a2818504d10ff89d0a78471e7 )
+)
+
+game (
+	name "Budgie UK Utility 066 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 066 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 066 (19xx)(Budgie UK).st" size 737280 crc 8d5bdc07 md5 884a0d332ba5c482b407642a9704c2a1 )
+)
+
+game (
+	name "Budgie UK Utility 066 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 066 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 066 (19xx)(Budgie UK)[a].st" size 737280 crc 095f48ea md5 df6edd829ecebd2c7642eb25281c2df8 )
+)
+
+game (
+	name "Budgie UK Utility 067 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 067 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 067 (19xx)(Budgie UK).st" size 737280 crc 8684d708 md5 bbc76ac0549ee738f3d106fa011f7d28 )
+)
+
+game (
+	name "Budgie UK Utility 067 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 067 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 067 (19xx)(Budgie UK)[a].st" size 737280 crc a97c2958 md5 f8aa9168881683ddd37b6380992e6af1 )
+)
+
+game (
+	name "Budgie UK Utility 068 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 068 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 068 (19xx)(Budgie UK).st" size 737280 crc 80dde82b md5 57fee7ab7afcc8eaec95bc0e8b0123b1 )
+)
+
+game (
+	name "Budgie UK Utility 068 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 068 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 068 (19xx)(Budgie UK)[a].st" size 737280 crc 4c923251 md5 079ee7f1a2ea838f630b6cbe8408f1c1 )
+)
+
+game (
+	name "Budgie UK Utility 069 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 069 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 069 (19xx)(Budgie UK).st" size 737280 crc 3af7ae18 md5 15f62f200f8fbadda688377619acc82a )
+)
+
+game (
+	name "Budgie UK Utility 069 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 069 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 069 (19xx)(Budgie UK)[a].st" size 737280 crc 977d983d md5 17b8bf33fccf5a0d82c66a8c7faa5218 )
+)
+
+game (
+	name "Budgie UK Utility 069 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 069 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 069 (19xx)(Budgie UK)[a2].st" size 737280 crc 6c0071e1 md5 799f3f2d84812d2baf9490e3e18e6b16 )
+)
+
+game (
+	name "Budgie UK Utility 070 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 070 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 070 (19xx)(Budgie UK).st" size 737280 crc 6c3b0d3e md5 04a5df9e3e8099c07bec7b509d99004b )
+)
+
+game (
+	name "Budgie UK Utility 070 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 070 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 070 (19xx)(Budgie UK)[a].st" size 737280 crc 1576b92c md5 6a8766ac32e09c49f6cc31a40d5e23d2 )
+)
+
+game (
+	name "Budgie UK Utility 071 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 071 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 071 (19xx)(Budgie UK).st" size 737280 crc b6b54cfc md5 5ea05cfd12ee896a7add26fb9bd4be76 )
+)
+
+game (
+	name "Budgie UK Utility 071 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 071 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 071 (19xx)(Budgie UK)[a].st" size 737280 crc a0ffece4 md5 0e7f7ce427bfc098910e6663920479ae )
+)
+
+game (
+	name "Budgie UK Utility 072 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 072 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 072 (19xx)(Budgie UK).st" size 737280 crc 04cc992c md5 ee1cad532b4aada3ad373ba094540778 )
+)
+
+game (
+	name "Budgie UK Utility 072 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 072 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 072 (19xx)(Budgie UK)[a].st" size 737280 crc 0b059f30 md5 01daeb574858cf4904bd326a3a9ecd9c )
+)
+
+game (
+	name "Budgie UK Utility 073 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 073 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 073 (19xx)(Budgie UK).st" size 737280 crc 7d466f6a md5 bd13aea66f43e34ef3c569ce7a2cc8da )
+)
+
+game (
+	name "Budgie UK Utility 073 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 073 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 073 (19xx)(Budgie UK)[a].st" size 737280 crc 01da9f07 md5 65a526a9e6e4bedde9fd29f983916af3 )
+)
+
+game (
+	name "Budgie UK Utility 074 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 074 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 074 (19xx)(Budgie UK).st" size 737280 crc 4d37ee20 md5 3aa677a890d99f09aab2900024459975 )
+)
+
+game (
+	name "Budgie UK Utility 074 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 074 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 074 (19xx)(Budgie UK)[a].st" size 737280 crc 5a574cd2 md5 9e26ab25bb3ee61775e2a03aacbb1567 )
+)
+
+game (
+	name "Budgie UK Utility 075 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 075 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 075 (19xx)(Budgie UK).st" size 1032192 crc f227797d md5 b89888bc452691c2324fd24793ffd9c3 )
+)
+
+game (
+	name "Budgie UK Utility 076 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 076 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 076 (19xx)(Budgie UK).st" size 737280 crc acb88a56 md5 5682ac3377d5dbc615aad4bbdda8fbbf )
+)
+
+game (
+	name "Budgie UK Utility 076 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 076 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 076 (19xx)(Budgie UK)[a].st" size 737280 crc 32220002 md5 c87848cd6e5ab85c61eb3371378a016d )
+)
+
+game (
+	name "Budgie UK Utility 077 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 077 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 077 (19xx)(Budgie UK).st" size 737280 crc d95973e6 md5 24abdfbf5b5d7e9857f90e1d2502ad47 )
+)
+
+game (
+	name "Budgie UK Utility 077 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 077 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 077 (19xx)(Budgie UK)[a].st" size 737280 crc e1260dba md5 467474a9f88f1f419e4a5f8b8080e17d )
+)
+
+game (
+	name "Budgie UK Utility 078 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 078 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 078 (19xx)(Budgie UK).st" size 737280 crc 0280755d md5 8bdf5f84abafd66ee180de7e47ee65af )
+)
+
+game (
+	name "Budgie UK Utility 078 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 078 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 078 (19xx)(Budgie UK)[a].st" size 737280 crc f9ecfdec md5 788cb8fe78d2a37510d4f2001b67bc7e )
+)
+
+game (
+	name "Budgie UK Utility 079 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 079 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 079 (19xx)(Budgie UK).st" size 737280 crc 8ef5c05f md5 0e6df1e1c245d0cff8ec50fdaf485afa )
+)
+
+game (
+	name "Budgie UK Utility 079 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 079 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 079 (19xx)(Budgie UK)[a].st" size 737280 crc 13c6261b md5 45656ba536a0ea7be7befea0fe06b55e )
+)
+
+game (
+	name "Budgie UK Utility 080 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 080 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 080 (19xx)(Budgie UK).st" size 737280 crc f3086965 md5 638e58dd1e11c9ee7a23448502136979 )
+)
+
+game (
+	name "Budgie UK Utility 080 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 080 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 080 (19xx)(Budgie UK)[a].st" size 737280 crc b7a92baf md5 af8c0c6439be3b0e01bb7f6de69ab792 )
+)
+
+game (
+	name "Budgie UK Utility 081 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 081 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 081 (19xx)(Budgie UK).st" size 737280 crc 2b9599b9 md5 fbebab408bf27a8e73d0dce1c46b37fd )
+)
+
+game (
+	name "Budgie UK Utility 081 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 081 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 081 (19xx)(Budgie UK)[a].st" size 737280 crc 6bb480e3 md5 1e7816cd482979c61589accd7a9cd071 )
+)
+
+game (
+	name "Budgie UK Utility 082 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 082 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 082 (19xx)(Budgie UK).st" size 737280 crc 3fc5ed97 md5 7a1fc33f9bd66c523f9902b012d6e07f )
+)
+
+game (
+	name "Budgie UK Utility 082 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 082 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 082 (19xx)(Budgie UK)[a].st" size 737280 crc 5330ef8a md5 fb1983c4fa58a63bc38103627e79d63a )
+)
+
+game (
+	name "Budgie UK Utility 083 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 083 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 083 (19xx)(Budgie UK).st" size 737280 crc d2d2050a md5 0c8337fb0506b18584a46bf413d8dc50 )
+)
+
+game (
+	name "Budgie UK Utility 083 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 083 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 083 (19xx)(Budgie UK)[a].st" size 737280 crc e1868387 md5 2f09fa6dfe89802ac7e8c7f235fbfc60 )
+)
+
+game (
+	name "Budgie UK Utility 084 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 084 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 084 (19xx)(Budgie UK).st" size 737280 crc bae7e256 md5 8047872ed4ca04ace5a8b8e081ae3be0 )
+)
+
+game (
+	name "Budgie UK Utility 084 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 084 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 084 (19xx)(Budgie UK)[a].st" size 737280 crc 78465fd7 md5 64ea381eb3886e33fa49917540b1235e )
+)
+
+game (
+	name "Budgie UK Utility 085 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 085 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 085 (19xx)(Budgie UK).st" size 737280 crc b80da5f4 md5 5d10aae285bb9e0fc9964cc5a00fd454 )
+)
+
+game (
+	name "Budgie UK Utility 085 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 085 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 085 (19xx)(Budgie UK)[a].st" size 737280 crc 50689dd8 md5 6af2e1b419a354cbe8c30121c106ae50 )
+)
+
+game (
+	name "Budgie UK Utility 086 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 086 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 086 (19xx)(Budgie UK).st" size 737280 crc d348ce97 md5 b4272ea2af10fb8ffcfdc9e1869e1a7c )
+)
+
+game (
+	name "Budgie UK Utility 086 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 086 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 086 (19xx)(Budgie UK)[a].st" size 737280 crc 45870903 md5 475a8ed59fc40dcc6cfd2ace1cd29f80 )
+)
+
+game (
+	name "Budgie UK Utility 087 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 087 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 087 (19xx)(Budgie UK).st" size 737280 crc 4735df0d md5 eea7e01d051fa0a07e8ad2876e4c5fec )
+)
+
+game (
+	name "Budgie UK Utility 087 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 087 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 087 (19xx)(Budgie UK)[a].st" size 737280 crc 84eb1d72 md5 08c82a6df39204c0d2beb9ff64deff52 )
+)
+
+game (
+	name "Budgie UK Utility 087 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 087 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 087 (19xx)(Budgie UK)[a2].st" size 746496 crc d4660957 md5 4173f849fc4893ee54143de93013dfef )
+)
+
+game (
+	name "Budgie UK Utility 088 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 088 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 088 (19xx)(Budgie UK).st" size 737280 crc c5ce3e5f md5 4d4fa5ce529414d04a9aee4a27854c70 )
+)
+
+game (
+	name "Budgie UK Utility 088 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 088 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 088 (19xx)(Budgie UK)[a].st" size 737280 crc 046b638d md5 cb96c2c62167722c431ac438a3b1e7fe )
+)
+
+game (
+	name "Budgie UK Utility 089 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 089 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 089 (19xx)(Budgie UK).st" size 737280 crc 17c5c538 md5 bd190faa4b663573b347627e5ccd90b3 )
+)
+
+game (
+	name "Budgie UK Utility 089 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 089 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 089 (19xx)(Budgie UK)[a].st" size 737280 crc 4f8de4b8 md5 63a3763fdacf52bee7d2749144cbaa56 )
+)
+
+game (
+	name "Budgie UK Utility 090 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 090 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 090 (19xx)(Budgie UK).st" size 737280 crc 992c2fbd md5 5380a637afdb3d2241ac0ace07f43c89 )
+)
+
+game (
+	name "Budgie UK Utility 090 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 090 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 090 (19xx)(Budgie UK)[a].st" size 737280 crc cc50bd11 md5 e783300ece28e717e232fb59fe5890da )
+)
+
+game (
+	name "Budgie UK Utility 091 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 091 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 091 (19xx)(Budgie UK).st" size 737280 crc e8907601 md5 67535958547d8c95452aee6e3f73df24 )
+)
+
+game (
+	name "Budgie UK Utility 091 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 091 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 091 (19xx)(Budgie UK)[a].st" size 737280 crc 5adce844 md5 23dd83b87619f51b0c33bf8b86a97445 )
+)
+
+game (
+	name "Budgie UK Utility 092 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 092 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 092 (19xx)(Budgie UK).st" size 737280 crc 4695e755 md5 b124873f795ab73cd2d2f28dd8833b31 )
+)
+
+game (
+	name "Budgie UK Utility 092 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 092 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 092 (19xx)(Budgie UK)[a].st" size 737280 crc 81eafe43 md5 780db2cc0678d8d417e1363bacdca63a )
+)
+
+game (
+	name "Budgie UK Utility 093 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 093 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 093 (19xx)(Budgie UK).st" size 737280 crc 3201cc44 md5 fcc5d1b8cd080d3bba96e2198cfc88ec )
+)
+
+game (
+	name "Budgie UK Utility 093 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 093 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 093 (19xx)(Budgie UK)[a].st" size 737280 crc f09bdf5b md5 731d14642f9bf8a6b5d792b53570ce78 )
+)
+
+game (
+	name "Budgie UK Utility 094 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 094 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 094 (19xx)(Budgie UK).st" size 819200 crc 08f8bba2 md5 149bc48f903bef501354b28a088204e5 )
+)
+
+game (
+	name "Budgie UK Utility 094 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 094 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 094 (19xx)(Budgie UK)[a].st" size 1032192 crc 445838d5 md5 b2db2d18345a444411be5cfde3b81568 )
+)
+
+game (
+	name "Budgie UK Utility 095 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 095 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 095 (19xx)(Budgie UK).st" size 737280 crc 28e6a6c1 md5 ecccc0db3bc31bf52243c22b40e5893a )
+)
+
+game (
+	name "Budgie UK Utility 095 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 095 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 095 (19xx)(Budgie UK)[a].st" size 737280 crc 93b93c24 md5 f8672c9442bacc0286e3068e42b92a2c )
+)
+
+game (
+	name "Budgie UK Utility 096 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 096 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 096 (19xx)(Budgie UK).st" size 737280 crc 2489dee6 md5 e1baa9febf8561a047c448eddffbd964 )
+)
+
+game (
+	name "Budgie UK Utility 096 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 096 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 096 (19xx)(Budgie UK)[a].st" size 737280 crc c76161f1 md5 80c38fe1457db2a3e0d6191291fb3781 )
+)
+
+game (
+	name "Budgie UK Utility 097 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 097 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 097 (19xx)(Budgie UK).st" size 737280 crc 706e4f40 md5 595fecc61398508f9cee500b1e7520ae )
+)
+
+game (
+	name "Budgie UK Utility 097 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 097 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 097 (19xx)(Budgie UK)[a].st" size 737280 crc 6e6fd9b4 md5 06e2ca7ea10b7b415003c1fca7bfd217 )
+)
+
+game (
+	name "Budgie UK Utility 098 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 098 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 098 (19xx)(Budgie UK).st" size 737280 crc a4b19fda md5 c96b719488d03e6c34bf3b55c2e0781b )
+)
+
+game (
+	name "Budgie UK Utility 098 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 098 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 098 (19xx)(Budgie UK)[a].st" size 737280 crc 5ba56a77 md5 32049b04941c38bffa8e062b73b981fb )
+)
+
+game (
+	name "Budgie UK Utility 099 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 099 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 099 (19xx)(Budgie UK).st" size 737280 crc 54b5eecb md5 5a58db763a31c27e4571e8bb8c92104b )
+)
+
+game (
+	name "Budgie UK Utility 099 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 099 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 099 (19xx)(Budgie UK)[a].st" size 737280 crc ea20c581 md5 2bbab2833b812af76da764702ca57101 )
+)
+
+game (
+	name "Budgie UK Utility 100 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 100 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 100 (19xx)(Budgie UK).st" size 737280 crc 96f361fb md5 8ab44dba6ab3e39deeeca7d80cc0f846 )
+)
+
+game (
+	name "Budgie UK Utility 100 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 100 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 100 (19xx)(Budgie UK)[a].st" size 737280 crc b47c4aa9 md5 db2083fda11307d15969cbf6053d65d6 )
+)
+
+game (
+	name "Budgie UK Utility 101 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 101 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 101 (19xx)(Budgie UK).st" size 737280 crc d463383f md5 ae48e26fdd84df5f4f0ebaa9f4e03a63 )
+)
+
+game (
+	name "Budgie UK Utility 101 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 101 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 101 (19xx)(Budgie UK)[a].st" size 737280 crc 6e982d14 md5 63a4317026ad6a1cc4021cbe0ac0f3b5 )
+)
+
+game (
+	name "Budgie UK Utility 102 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 102 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 102 (19xx)(Budgie UK).st" size 737280 crc 74b977c6 md5 d99e7d33911a350a69e0dab6e3d45359 )
+)
+
+game (
+	name "Budgie UK Utility 102 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 102 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 102 (19xx)(Budgie UK)[a].st" size 737280 crc ce7f27a9 md5 f554fc618415991ed460a7a96babd6a9 )
+)
+
+game (
+	name "Budgie UK Utility 103 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 103 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 103 (19xx)(Budgie UK).st" size 737280 crc c3c73c56 md5 2b2767e296f7d832f426eb12d1179442 )
+)
+
+game (
+	name "Budgie UK Utility 103 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 103 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 103 (19xx)(Budgie UK)[a].st" size 737280 crc f465ce03 md5 852a352b9e495a98310deefbe0eb7b93 )
+)
+
+game (
+	name "Budgie UK Utility 104 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 104 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 104 (19xx)(Budgie UK).st" size 737280 crc 4a5bbfad md5 c949c5179b95ba7d2b5a178288a5c19a )
+)
+
+game (
+	name "Budgie UK Utility 104 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 104 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 104 (19xx)(Budgie UK)[a].st" size 737280 crc b92819c0 md5 c27bee1d1b69c5481e54e99aec1d6d32 )
+)
+
+game (
+	name "Budgie UK Utility 105 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 105 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 105 (19xx)(Budgie UK).st" size 737280 crc 6b549fc4 md5 50c2ee928871afac1f23f12353316ff0 )
+)
+
+game (
+	name "Budgie UK Utility 105 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 105 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 105 (19xx)(Budgie UK)[a].st" size 737280 crc f6866174 md5 1370cdd245477253a931918a601dc039 )
+)
+
+game (
+	name "Budgie UK Utility 106 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 106 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 106 (19xx)(Budgie UK).st" size 737280 crc 3dc314e9 md5 f9fbc998403d8e7f8a57d49d9c2673f8 )
+)
+
+game (
+	name "Budgie UK Utility 106 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 106 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 106 (19xx)(Budgie UK)[a].st" size 737280 crc 9316960c md5 2430d569fbd7253a680df19aa18bb7a4 )
+)
+
+game (
+	name "Budgie UK Utility 107 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 107 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 107 (19xx)(Budgie UK).st" size 737280 crc dfea2e8b md5 31d1b184100a95e63cd5235b9bdda010 )
+)
+
+game (
+	name "Budgie UK Utility 107 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 107 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 107 (19xx)(Budgie UK)[a].st" size 737280 crc 5b2a6a23 md5 88d36e190bd9c7b7f5d258b57d891940 )
+)
+
+game (
+	name "Budgie UK Utility 108 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 108 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 108 (19xx)(Budgie UK).st" size 737280 crc 21680a3f md5 c0399437ed2b4710fec97b20967437bc )
+)
+
+game (
+	name "Budgie UK Utility 108 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 108 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 108 (19xx)(Budgie UK)[a].st" size 737280 crc f6c59227 md5 22aef3a4cea72c1d5a88efd75cfabf0a )
+)
+
+game (
+	name "Budgie UK Utility 109 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 109 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 109 (19xx)(Budgie UK).st" size 737280 crc 34b7ee30 md5 e407c6ccbf4c4d28e5d7839860a6c53d )
+)
+
+game (
+	name "Budgie UK Utility 109 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 109 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 109 (19xx)(Budgie UK)[a].st" size 737280 crc 019d7425 md5 cb13f2ecb23bd2e506fa14d02b3a6b30 )
+)
+
+game (
+	name "Budgie UK Utility 110 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 110 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 110 (19xx)(Budgie UK).st" size 737280 crc 51ee349a md5 94377e133ed1ab4d4293fff7d80743e9 )
+)
+
+game (
+	name "Budgie UK Utility 110 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 110 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 110 (19xx)(Budgie UK)[a].st" size 737280 crc e266a909 md5 af2f7b43ea96bf72c66d5e0334ebcf58 )
+)
+
+game (
+	name "Budgie UK Utility 111 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 111 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 111 (19xx)(Budgie UK).st" size 737280 crc da3ca40f md5 e6bb64d7bcf78b4414829b5cb074f3d5 )
+)
+
+game (
+	name "Budgie UK Utility 111 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 111 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 111 (19xx)(Budgie UK)[a].st" size 737280 crc 157b8bdd md5 d639ceccf85de2afcb78ccda05d9edb8 )
+)
+
+game (
+	name "Budgie UK Utility 112 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 112 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 112 (19xx)(Budgie UK).st" size 737280 crc f839b743 md5 408b2a581930151ebd4951c113d92533 )
+)
+
+game (
+	name "Budgie UK Utility 112 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 112 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 112 (19xx)(Budgie UK)[a].st" size 737280 crc fa425d28 md5 0eef87753fb8e829e95b80cb66b84aa8 )
+)
+
+game (
+	name "Budgie UK Utility 113 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 113 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 113 (19xx)(Budgie UK).st" size 819200 crc 82fa5e02 md5 d6300031a107d9d3a65370d6edf34bb5 )
+)
+
+game (
+	name "Budgie UK Utility 113 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 113 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 113 (19xx)(Budgie UK)[a].st" size 1032192 crc f172a351 md5 db8fa6915168d698a1236e188963f5d3 )
+)
+
+game (
+	name "Budgie UK Utility 114 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 114 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 114 (19xx)(Budgie UK).st" size 737280 crc 558a1737 md5 884626649af5bb5cbd0a472c97dc5dcc )
+)
+
+game (
+	name "Budgie UK Utility 114 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 114 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 114 (19xx)(Budgie UK)[a].st" size 737280 crc a5ec4e92 md5 5054da4c32e8498c5dddad4687c40cd7 )
+)
+
+game (
+	name "Budgie UK Utility 115 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 115 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 115 (19xx)(Budgie UK).st" size 737280 crc 35abb2f6 md5 d340c38a3f745f0654949b82165b4016 )
+)
+
+game (
+	name "Budgie UK Utility 115 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 115 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 115 (19xx)(Budgie UK)[a].st" size 737280 crc 35bc3310 md5 f0a765b1d2eecffc456552514d6a296e )
+)
+
+game (
+	name "Budgie UK Utility 115 (19xx)(Budgie UK)[a2]"
+	description "Budgie UK Utility 115 (19xx)(Budgie UK)[a2]"
+	rom ( name "Budgie UK Utility 115 (19xx)(Budgie UK)[a2].st" size 737280 crc 2c6003e5 md5 7a5da1656a62d5232fc81efd7522fffe )
+)
+
+game (
+	name "Budgie UK Utility 116 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 116 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 116 (19xx)(Budgie UK).st" size 737280 crc ea373020 md5 22752fda611b2b5e3b2b74be25d83983 )
+)
+
+game (
+	name "Budgie UK Utility 116 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 116 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 116 (19xx)(Budgie UK)[a].st" size 737280 crc e3e01092 md5 362a620d6c940dd030a1727c64de959e )
+)
+
+game (
+	name "Budgie UK Utility 117 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 117 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 117 (19xx)(Budgie UK).st" size 737280 crc ea4a3cd2 md5 8684fafbe5e6605f30e5e411f5cb4922 )
+)
+
+game (
+	name "Budgie UK Utility 117 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 117 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 117 (19xx)(Budgie UK)[a].st" size 737280 crc 0ea7e8fd md5 ced1844c69f8bed27fa58ac2a8662f36 )
+)
+
+game (
+	name "Budgie UK Utility 118 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 118 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 118 (19xx)(Budgie UK).st" size 737280 crc 3dbc322a md5 733c280fcad79bebe719cba737f5657e )
+)
+
+game (
+	name "Budgie UK Utility 118 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 118 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 118 (19xx)(Budgie UK)[a].st" size 737280 crc b258479b md5 596783acf227d435e41b79ce378b6aa6 )
+)
+
+game (
+	name "Budgie UK Utility 119 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 119 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 119 (19xx)(Budgie UK).st" size 819200 crc 6746e425 md5 7ac0fc04e05adb25a27147dde760737c )
+)
+
+game (
+	name "Budgie UK Utility 119 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 119 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 119 (19xx)(Budgie UK)[a].st" size 1032192 crc 304d8135 md5 fcf960095e6d136a0152d240122862ef )
+)
+
+game (
+	name "Budgie UK Utility 120 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 120 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 120 (19xx)(Budgie UK).st" size 819200 crc 139e73a5 md5 b7de42fcd1d0550cf78b2ae63e4c080b )
+)
+
+game (
+	name "Budgie UK Utility 120 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 120 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 120 (19xx)(Budgie UK)[a].st" size 1032192 crc cd2ddd0e md5 b616461891c05a4b64ef07c84fd2201f )
+)
+
+game (
+	name "Budgie UK Utility 121 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 121 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 121 (19xx)(Budgie UK).st" size 737280 crc b3ed49f4 md5 8afc8544931e5c13d0bdd22cc07c543e )
+)
+
+game (
+	name "Budgie UK Utility 121 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 121 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 121 (19xx)(Budgie UK)[a].st" size 737280 crc c9516de5 md5 29dfab70eb04fcd15b7c170a7c6b4b37 )
+)
+
+game (
+	name "Budgie UK Utility 122 (19xx)(Budgie UK)"
+	description "Budgie UK Utility 122 (19xx)(Budgie UK)"
+	rom ( name "Budgie UK Utility 122 (19xx)(Budgie UK).st" size 737280 crc 04e7283f md5 07334927adf0b0d961326ad4c9756e0c )
+)
+
+game (
+	name "Budgie UK Utility 122 (19xx)(Budgie UK)[a]"
+	description "Budgie UK Utility 122 (19xx)(Budgie UK)[a]"
+	rom ( name "Budgie UK Utility 122 (19xx)(Budgie UK)[a].st" size 737280 crc ae33e6a0 md5 1d1b4135ca04d02f96436f7a5d08dcfe )
+)

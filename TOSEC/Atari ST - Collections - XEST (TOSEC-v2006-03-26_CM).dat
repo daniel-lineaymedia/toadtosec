@@ -1,0 +1,1963 @@
+clrmamepro (
+	name "Atari ST - Collections - XEST"
+	description "Atari ST - Collections - XEST (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - XEST"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "XEST 001 (19xx)(XEST)"
+	description "XEST 001 (19xx)(XEST)"
+	rom ( name "XEST 001 (19xx)(XEST).st" size 737280 crc ed327c2b md5 660db56d86766082142e571f125aaa8d )
+)
+
+game (
+	name "XEST 002 (19xx)(XEST)"
+	description "XEST 002 (19xx)(XEST)"
+	rom ( name "XEST 002 (19xx)(XEST).st" size 737280 crc d4d2a989 md5 36a63038f34de51d3dc10d7c05e9037c )
+)
+
+game (
+	name "XEST 003 (19xx)(XEST)"
+	description "XEST 003 (19xx)(XEST)"
+	rom ( name "XEST 003 (19xx)(XEST).st" size 737280 crc e99e5121 md5 71efd4fb3c2c786b6fbdf2f4c5dc3230 )
+)
+
+game (
+	name "XEST 004 (19xx)(XEST)"
+	description "XEST 004 (19xx)(XEST)"
+	rom ( name "XEST 004 (19xx)(XEST).st" size 737280 crc e279690d md5 bac9f07ed144dba7b8c5c8cabfc9935e )
+)
+
+game (
+	name "XEST 005 (19xx)(XEST)"
+	description "XEST 005 (19xx)(XEST)"
+	rom ( name "XEST 005 (19xx)(XEST).st" size 737280 crc af130ced md5 bdd524156140358f1077307982771492 )
+)
+
+game (
+	name "XEST 007 (19xx)(XEST)"
+	description "XEST 007 (19xx)(XEST)"
+	rom ( name "XEST 007 (19xx)(XEST).st" size 737280 crc 632716a9 md5 3b54176c64e431573ef8ad2a82144cfb )
+)
+
+game (
+	name "XEST 008 (19xx)(XEST)"
+	description "XEST 008 (19xx)(XEST)"
+	rom ( name "XEST 008 (19xx)(XEST).st" size 737280 crc ab51fd6f md5 a314a3d6dec25887d2284b4bc507c099 )
+)
+
+game (
+	name "XEST 009 (19xx)(XEST)"
+	description "XEST 009 (19xx)(XEST)"
+	rom ( name "XEST 009 (19xx)(XEST).st" size 737280 crc 707a2741 md5 67da558b34ac748d5f9d24f4883ace3d )
+)
+
+game (
+	name "XEST 012 (19xx)(XEST)"
+	description "XEST 012 (19xx)(XEST)"
+	rom ( name "XEST 012 (19xx)(XEST).st" size 737280 crc 806cd51d md5 56fc6249d7280cdc11ac9a5422b18d31 )
+)
+
+game (
+	name "XEST 013 (19xx)(XEST)"
+	description "XEST 013 (19xx)(XEST)"
+	rom ( name "XEST 013 (19xx)(XEST).st" size 737280 crc 9a7f07ce md5 35d2833c52144f3a8ab85cdcca7bebf7 )
+)
+
+game (
+	name "XEST 014 (19xx)(XEST)"
+	description "XEST 014 (19xx)(XEST)"
+	rom ( name "XEST 014 (19xx)(XEST).st" size 737280 crc e2d2a61d md5 806bd915a61a0f14121f55733e1688e8 )
+)
+
+game (
+	name "XEST 015 (19xx)(XEST)"
+	description "XEST 015 (19xx)(XEST)"
+	rom ( name "XEST 015 (19xx)(XEST).st" size 737280 crc 286bbf09 md5 7755a9b8913edff62eb107a67bef5a67 )
+)
+
+game (
+	name "XEST 016 (19xx)(XEST)"
+	description "XEST 016 (19xx)(XEST)"
+	rom ( name "XEST 016 (19xx)(XEST).st" size 737280 crc bbc8d955 md5 2a950b47c5bfcb2c289a91263fb34ff3 )
+)
+
+game (
+	name "XEST 017 (19xx)(XEST)"
+	description "XEST 017 (19xx)(XEST)"
+	rom ( name "XEST 017 (19xx)(XEST).st" size 737280 crc 656c0693 md5 05349a66b320e5d6ca1ad084aaf16abf )
+)
+
+game (
+	name "XEST 018 (19xx)(XEST)"
+	description "XEST 018 (19xx)(XEST)"
+	rom ( name "XEST 018 (19xx)(XEST).st" size 737280 crc 4414a7e4 md5 61a5c912a5f3bb0f3ce6b7a5f90763b6 )
+)
+
+game (
+	name "XEST 019 (19xx)(XEST)"
+	description "XEST 019 (19xx)(XEST)"
+	rom ( name "XEST 019 (19xx)(XEST).st" size 737280 crc e4f5f575 md5 50e7f4bd249b28df18cfb8bc85ecd266 )
+)
+
+game (
+	name "XEST 020 (19xx)(XEST)"
+	description "XEST 020 (19xx)(XEST)"
+	rom ( name "XEST 020 (19xx)(XEST).st" size 737280 crc d0f5c8af md5 fa8cfb18e343fa3d23c7e614ef0de9a6 )
+)
+
+game (
+	name "XEST 021 (19xx)(XEST)"
+	description "XEST 021 (19xx)(XEST)"
+	rom ( name "XEST 021 (19xx)(XEST).st" size 737280 crc 1277873f md5 96cbbb3306fba20ea98207d4ca75c449 )
+)
+
+game (
+	name "XEST 022 (19xx)(XEST)"
+	description "XEST 022 (19xx)(XEST)"
+	rom ( name "XEST 022 (19xx)(XEST).st" size 737280 crc 2d0bace3 md5 977f5eee763be434abad490551c17f87 )
+)
+
+game (
+	name "XEST 023 (19xx)(XEST)"
+	description "XEST 023 (19xx)(XEST)"
+	rom ( name "XEST 023 (19xx)(XEST).st" size 737280 crc f4f249d1 md5 4e55c07ebf3a0753e0c511600f8cba8c )
+)
+
+game (
+	name "XEST 024 (19xx)(XEST)"
+	description "XEST 024 (19xx)(XEST)"
+	rom ( name "XEST 024 (19xx)(XEST).st" size 737280 crc 8ea1e6b5 md5 ad6f69eb5357843b626c70ae650a36a9 )
+)
+
+game (
+	name "XEST 025 (19xx)(XEST)"
+	description "XEST 025 (19xx)(XEST)"
+	rom ( name "XEST 025 (19xx)(XEST).st" size 737280 crc b93db0aa md5 48d1dec97e631a97ab7e4f749cc1cc40 )
+)
+
+game (
+	name "XEST 026 (19xx)(XEST)"
+	description "XEST 026 (19xx)(XEST)"
+	rom ( name "XEST 026 (19xx)(XEST).st" size 737280 crc b3ac642f md5 fc9ed68ab74b85560179ad7e3856018e )
+)
+
+game (
+	name "XEST 027 (19xx)(XEST)"
+	description "XEST 027 (19xx)(XEST)"
+	rom ( name "XEST 027 (19xx)(XEST).st" size 737280 crc ba9e762d md5 e38a0fb781f9620d6c01a8b95b34152d )
+)
+
+game (
+	name "XEST 028 (19xx)(XEST)"
+	description "XEST 028 (19xx)(XEST)"
+	rom ( name "XEST 028 (19xx)(XEST).st" size 737280 crc 4d2743ec md5 c320cf20bd21830ccdfc70e14e36b5c8 )
+)
+
+game (
+	name "XEST 029 (19xx)(XEST)"
+	description "XEST 029 (19xx)(XEST)"
+	rom ( name "XEST 029 (19xx)(XEST).st" size 737280 crc bc042383 md5 1df86e92ff86e9d9acf6a646a30933c0 )
+)
+
+game (
+	name "XEST 030 (19xx)(XEST)"
+	description "XEST 030 (19xx)(XEST)"
+	rom ( name "XEST 030 (19xx)(XEST).st" size 737280 crc db40d3ce md5 627d5d71c4d389c51f34345388b383e8 )
+)
+
+game (
+	name "XEST 031 (19xx)(XEST)"
+	description "XEST 031 (19xx)(XEST)"
+	rom ( name "XEST 031 (19xx)(XEST).st" size 737280 crc 6b6c4489 md5 a4ae4d5b66c244444bc48fcea58c3e74 )
+)
+
+game (
+	name "XEST 032 (19xx)(XEST)"
+	description "XEST 032 (19xx)(XEST)"
+	rom ( name "XEST 032 (19xx)(XEST).st" size 737280 crc e8b3b96c md5 e7e4b66f158078c0f133bbca3f6b4e06 )
+)
+
+game (
+	name "XEST 033 (19xx)(XEST)"
+	description "XEST 033 (19xx)(XEST)"
+	rom ( name "XEST 033 (19xx)(XEST).st" size 829440 crc 5cd2892d md5 38df00a02f1e4f2a8f52674dd2e8abae )
+)
+
+game (
+	name "XEST 034 (19xx)(XEST)"
+	description "XEST 034 (19xx)(XEST)"
+	rom ( name "XEST 034 (19xx)(XEST).st" size 737280 crc 3afe085e md5 e5b799a4812cb342d23689719ef8172f )
+)
+
+game (
+	name "XEST 035 (19xx)(XEST)"
+	description "XEST 035 (19xx)(XEST)"
+	rom ( name "XEST 035 (19xx)(XEST).st" size 737280 crc 5e6154fa md5 05d441c2a068352b0ac0312a62e30263 )
+)
+
+game (
+	name "XEST 036 (19xx)(XEST)"
+	description "XEST 036 (19xx)(XEST)"
+	rom ( name "XEST 036 (19xx)(XEST).st" size 737280 crc afb240d4 md5 642b512f9181cf4da900c899fc3d7164 )
+)
+
+game (
+	name "XEST 037 (19xx)(XEST)"
+	description "XEST 037 (19xx)(XEST)"
+	rom ( name "XEST 037 (19xx)(XEST).st" size 737280 crc 772e207d md5 7c3012f85b6626dbe7abe01c2b1d6cda )
+)
+
+game (
+	name "XEST 038 (19xx)(XEST)"
+	description "XEST 038 (19xx)(XEST)"
+	rom ( name "XEST 038 (19xx)(XEST).st" size 737280 crc fd29cf31 md5 e18394fc80c27a07e29878fb86f7bb03 )
+)
+
+game (
+	name "XEST 039 (19xx)(XEST)"
+	description "XEST 039 (19xx)(XEST)"
+	rom ( name "XEST 039 (19xx)(XEST).st" size 737280 crc 0a587132 md5 1b1e136e13c6a6a29ea98b8178702d34 )
+)
+
+game (
+	name "XEST 040 (19xx)(XEST)"
+	description "XEST 040 (19xx)(XEST)"
+	rom ( name "XEST 040 (19xx)(XEST).st" size 737280 crc 48360b33 md5 6fc80f8dd623e6c804f876edd84fdb67 )
+)
+
+game (
+	name "XEST 041 (19xx)(XEST)"
+	description "XEST 041 (19xx)(XEST)"
+	rom ( name "XEST 041 (19xx)(XEST).st" size 737280 crc afcdb7f1 md5 4beeb70e20df39077a753f0f72728d1f )
+)
+
+game (
+	name "XEST 042 (19xx)(XEST)"
+	description "XEST 042 (19xx)(XEST)"
+	rom ( name "XEST 042 (19xx)(XEST).st" size 737280 crc 5a730912 md5 f44469e2abc96dcad6b99980bec31df1 )
+)
+
+game (
+	name "XEST 043 (19xx)(XEST)"
+	description "XEST 043 (19xx)(XEST)"
+	rom ( name "XEST 043 (19xx)(XEST).st" size 737280 crc ff18ac88 md5 df874e9be143a31ec03d6c05e708dfaf )
+)
+
+game (
+	name "XEST 044 (19xx)(XEST)"
+	description "XEST 044 (19xx)(XEST)"
+	rom ( name "XEST 044 (19xx)(XEST).st" size 737280 crc a565b893 md5 12686e2c0df682b4d2360c41701337bd )
+)
+
+game (
+	name "XEST 045 (19xx)(XEST)"
+	description "XEST 045 (19xx)(XEST)"
+	rom ( name "XEST 045 (19xx)(XEST).st" size 737280 crc 9ed8d212 md5 c333136f8c103664d7cd16a0ab941a36 )
+)
+
+game (
+	name "XEST 046 (19xx)(XEST)"
+	description "XEST 046 (19xx)(XEST)"
+	rom ( name "XEST 046 (19xx)(XEST).st" size 737280 crc ea258b2a md5 8bd74ae2f8841dd03e6338c2a3464cd1 )
+)
+
+game (
+	name "XEST 047 (19xx)(XEST)"
+	description "XEST 047 (19xx)(XEST)"
+	rom ( name "XEST 047 (19xx)(XEST).st" size 737280 crc 14f63a9f md5 111928c7c9bbe9b0f27d8de691eeffe7 )
+)
+
+game (
+	name "XEST 048 (19xx)(XEST)"
+	description "XEST 048 (19xx)(XEST)"
+	rom ( name "XEST 048 (19xx)(XEST).st" size 737280 crc 6738eb3c md5 484fd6e5d003271628587756a3ecb322 )
+)
+
+game (
+	name "XEST 049 (19xx)(XEST)"
+	description "XEST 049 (19xx)(XEST)"
+	rom ( name "XEST 049 (19xx)(XEST).st" size 737280 crc 5580835a md5 23f84f9382923027dfa1ca16175e71d7 )
+)
+
+game (
+	name "XEST 050 (19xx)(XEST)"
+	description "XEST 050 (19xx)(XEST)"
+	rom ( name "XEST 050 (19xx)(XEST).st" size 737280 crc 0f749038 md5 05bf62f35c0be5ba984c8ebe11c6631a )
+)
+
+game (
+	name "XEST 101 (19xx)(XEST)"
+	description "XEST 101 (19xx)(XEST)"
+	rom ( name "XEST 101 (19xx)(XEST).st" size 737280 crc 90a9b54b md5 e743a9ce893052591339457d8050be00 )
+)
+
+game (
+	name "XEST 102 (19xx)(XEST)"
+	description "XEST 102 (19xx)(XEST)"
+	rom ( name "XEST 102 (19xx)(XEST).st" size 737280 crc 6c1b48cf md5 6ff07290aec705066e50e288c95aa886 )
+)
+
+game (
+	name "XEST 103 (19xx)(XEST)"
+	description "XEST 103 (19xx)(XEST)"
+	rom ( name "XEST 103 (19xx)(XEST).st" size 737280 crc 1348178f md5 daea61e57709601c1ea6e2ec430d91af )
+)
+
+game (
+	name "XEST 104 (19xx)(XEST)"
+	description "XEST 104 (19xx)(XEST)"
+	rom ( name "XEST 104 (19xx)(XEST).st" size 737280 crc b58f638b md5 22c1e3869e8e6d388225ba7f6931ae94 )
+)
+
+game (
+	name "XEST 105 (19xx)(XEST)"
+	description "XEST 105 (19xx)(XEST)"
+	rom ( name "XEST 105 (19xx)(XEST).st" size 737280 crc e64acf9c md5 1d3e87c99b7f8cd1b4fb49e6a37804a5 )
+)
+
+game (
+	name "XEST 106 (19xx)(XEST)"
+	description "XEST 106 (19xx)(XEST)"
+	rom ( name "XEST 106 (19xx)(XEST).st" size 737280 crc 3dc545b1 md5 16889e699d4b37decb1d2363cc974a67 )
+)
+
+game (
+	name "XEST 107 (19xx)(XEST)"
+	description "XEST 107 (19xx)(XEST)"
+	rom ( name "XEST 107 (19xx)(XEST).st" size 737280 crc 94da0916 md5 dcda15eaf9e389965508e2b17226d495 )
+)
+
+game (
+	name "XEST 108 (19xx)(XEST)"
+	description "XEST 108 (19xx)(XEST)"
+	rom ( name "XEST 108 (19xx)(XEST).st" size 737280 crc 050b6b67 md5 d83fd471bfae7fed5b3e5f8fd0a873bb )
+)
+
+game (
+	name "XEST 109 (19xx)(XEST)"
+	description "XEST 109 (19xx)(XEST)"
+	rom ( name "XEST 109 (19xx)(XEST).st" size 737280 crc 1e789236 md5 9d17215bc0c93721867a3a59ade310ab )
+)
+
+game (
+	name "XEST 110 (19xx)(XEST)"
+	description "XEST 110 (19xx)(XEST)"
+	rom ( name "XEST 110 (19xx)(XEST).st" size 737280 crc fc46aefd md5 28a6fc804dc85ddd77b4b5d4a30e42eb )
+)
+
+game (
+	name "XEST 111 (19xx)(XEST)"
+	description "XEST 111 (19xx)(XEST)"
+	rom ( name "XEST 111 (19xx)(XEST).st" size 737280 crc 7a0ecf1b md5 34852791b620795ec7ac5ed87b89b579 )
+)
+
+game (
+	name "XEST 112 (19xx)(XEST)"
+	description "XEST 112 (19xx)(XEST)"
+	rom ( name "XEST 112 (19xx)(XEST).st" size 737280 crc ccc24a1a md5 2fe5fcd910b53a2c81264c75173e3e6c )
+)
+
+game (
+	name "XEST 113 (19xx)(XEST)"
+	description "XEST 113 (19xx)(XEST)"
+	rom ( name "XEST 113 (19xx)(XEST).st" size 737280 crc 197092a2 md5 8069cc5a2139b8a7d8201b8e86b783b4 )
+)
+
+game (
+	name "XEST 114 (19xx)(XEST)"
+	description "XEST 114 (19xx)(XEST)"
+	rom ( name "XEST 114 (19xx)(XEST).st" size 737280 crc c76ae6be md5 9fab336915619e6d48e50584b507c929 )
+)
+
+game (
+	name "XEST 115 (19xx)(XEST)"
+	description "XEST 115 (19xx)(XEST)"
+	rom ( name "XEST 115 (19xx)(XEST).st" size 737280 crc 6c1646e7 md5 dedc8f3b8978bd3717dfe9aa03824ff1 )
+)
+
+game (
+	name "XEST 116 (19xx)(XEST)"
+	description "XEST 116 (19xx)(XEST)"
+	rom ( name "XEST 116 (19xx)(XEST).st" size 737280 crc bb376f5a md5 a4825003ad843932b2497b5f3c6c65c4 )
+)
+
+game (
+	name "XEST 117 (19xx)(XEST)"
+	description "XEST 117 (19xx)(XEST)"
+	rom ( name "XEST 117 (19xx)(XEST).st" size 737280 crc 3d7bd302 md5 a697184e18d1f6eb6c82347364c30fcb )
+)
+
+game (
+	name "XEST 118 (19xx)(XEST)"
+	description "XEST 118 (19xx)(XEST)"
+	rom ( name "XEST 118 (19xx)(XEST).st" size 737280 crc 7d3db889 md5 6f265427243e49c53250adc1fdb0ab27 )
+)
+
+game (
+	name "XEST 119 (19xx)(XEST)"
+	description "XEST 119 (19xx)(XEST)"
+	rom ( name "XEST 119 (19xx)(XEST).st" size 737280 crc 561def1b md5 6ce5974e39160633da5f20619c54fb2e )
+)
+
+game (
+	name "XEST 120 (19xx)(XEST)"
+	description "XEST 120 (19xx)(XEST)"
+	rom ( name "XEST 120 (19xx)(XEST).st" size 737280 crc a9421812 md5 02101ff9602bb8d5792fa56c152ff303 )
+)
+
+game (
+	name "XEST 121 (19xx)(XEST)"
+	description "XEST 121 (19xx)(XEST)"
+	rom ( name "XEST 121 (19xx)(XEST).st" size 737280 crc 7a978546 md5 ffcfebf29548cf3dc40f3bd435d698b1 )
+)
+
+game (
+	name "XEST 122 (19xx)(XEST)"
+	description "XEST 122 (19xx)(XEST)"
+	rom ( name "XEST 122 (19xx)(XEST).st" size 737280 crc 7bf600b9 md5 647ce1bf593453b99c9c24577a5814b5 )
+)
+
+game (
+	name "XEST 123 (19xx)(XEST)"
+	description "XEST 123 (19xx)(XEST)"
+	rom ( name "XEST 123 (19xx)(XEST).st" size 737280 crc 96fdbcfb md5 c0522ce0f223cd2f5fdb398cb876e296 )
+)
+
+game (
+	name "XEST 124 (19xx)(XEST)"
+	description "XEST 124 (19xx)(XEST)"
+	rom ( name "XEST 124 (19xx)(XEST).st" size 737280 crc ad5df28d md5 c03359aa0c36b254b3bda32751edbb66 )
+)
+
+game (
+	name "XEST 125 (19xx)(XEST)"
+	description "XEST 125 (19xx)(XEST)"
+	rom ( name "XEST 125 (19xx)(XEST).st" size 737280 crc 0e1dcb1e md5 5c4c22de2c8b3af8b4b344b9a3447399 )
+)
+
+game (
+	name "XEST 126 (19xx)(XEST)"
+	description "XEST 126 (19xx)(XEST)"
+	rom ( name "XEST 126 (19xx)(XEST).st" size 737280 crc 1ee69cfb md5 69ade32306a1834f9e2bacfdf2d810cf )
+)
+
+game (
+	name "XEST 127 (19xx)(XEST)"
+	description "XEST 127 (19xx)(XEST)"
+	rom ( name "XEST 127 (19xx)(XEST).st" size 737280 crc 3bf0bc60 md5 29fa9770948c6ee87ad5dc39f802d4ee )
+)
+
+game (
+	name "XEST 128 (19xx)(XEST)"
+	description "XEST 128 (19xx)(XEST)"
+	rom ( name "XEST 128 (19xx)(XEST).st" size 737280 crc 0c36dd81 md5 866dd79a4c48f606c9991178095b817a )
+)
+
+game (
+	name "XEST 129 (19xx)(XEST)"
+	description "XEST 129 (19xx)(XEST)"
+	rom ( name "XEST 129 (19xx)(XEST).st" size 737280 crc 86c13cf4 md5 ee5fed45da741dee541294eb0a6f3e97 )
+)
+
+game (
+	name "XEST 130 (19xx)(XEST)"
+	description "XEST 130 (19xx)(XEST)"
+	rom ( name "XEST 130 (19xx)(XEST).st" size 737280 crc 77d38956 md5 eccde4e20586424d86ab077229ab6f2a )
+)
+
+game (
+	name "XEST 131 (19xx)(XEST)"
+	description "XEST 131 (19xx)(XEST)"
+	rom ( name "XEST 131 (19xx)(XEST).st" size 737280 crc 80386821 md5 b77a505d0c81dd0f824cacd3094acd2c )
+)
+
+game (
+	name "XEST 132 (19xx)(XEST)"
+	description "XEST 132 (19xx)(XEST)"
+	rom ( name "XEST 132 (19xx)(XEST).st" size 737280 crc c40deb9a md5 396492f7de266d9274a1a69b4b3308f7 )
+)
+
+game (
+	name "XEST 133 (19xx)(XEST)"
+	description "XEST 133 (19xx)(XEST)"
+	rom ( name "XEST 133 (19xx)(XEST).st" size 737280 crc f8b08d28 md5 2792ae6f5d3abfa1123414572aaefb87 )
+)
+
+game (
+	name "XEST 134 (19xx)(XEST)"
+	description "XEST 134 (19xx)(XEST)"
+	rom ( name "XEST 134 (19xx)(XEST).st" size 737280 crc ce78f687 md5 fc1ba3dd0139397f1d54557f69ca6d9d )
+)
+
+game (
+	name "XEST 135 (19xx)(XEST)"
+	description "XEST 135 (19xx)(XEST)"
+	rom ( name "XEST 135 (19xx)(XEST).st" size 737280 crc 9d6ff5cb md5 7ebd25d3b45d326e08ecccd12c7fa4a5 )
+)
+
+game (
+	name "XEST 136 (19xx)(XEST)"
+	description "XEST 136 (19xx)(XEST)"
+	rom ( name "XEST 136 (19xx)(XEST).st" size 737280 crc 6243641c md5 51e7a915690c9c82a8e55abac539f54b )
+)
+
+game (
+	name "XEST 137 (19xx)(XEST)"
+	description "XEST 137 (19xx)(XEST)"
+	rom ( name "XEST 137 (19xx)(XEST).st" size 737280 crc c04f84e9 md5 f85a0eb45f877e517bc48694037cd4b9 )
+)
+
+game (
+	name "XEST 138 (19xx)(XEST)"
+	description "XEST 138 (19xx)(XEST)"
+	rom ( name "XEST 138 (19xx)(XEST).st" size 737280 crc ce7a87f7 md5 bdc48aee6d50a056d764edf734bfdee9 )
+)
+
+game (
+	name "XEST 139 (19xx)(XEST)"
+	description "XEST 139 (19xx)(XEST)"
+	rom ( name "XEST 139 (19xx)(XEST).st" size 737280 crc 892cfd61 md5 941d4c2b9d8a186393f80b82a427c025 )
+)
+
+game (
+	name "XEST 140 (19xx)(XEST)"
+	description "XEST 140 (19xx)(XEST)"
+	rom ( name "XEST 140 (19xx)(XEST).st" size 737280 crc 0edfa491 md5 0aa31d44620f9fe48c70369691894c1c )
+)
+
+game (
+	name "XEST 141 (19xx)(XEST)"
+	description "XEST 141 (19xx)(XEST)"
+	rom ( name "XEST 141 (19xx)(XEST).st" size 737280 crc 110be1c2 md5 cdc3c5fe0e26cef7fd97f3a7c21937b2 )
+)
+
+game (
+	name "XEST 142 (19xx)(XEST)"
+	description "XEST 142 (19xx)(XEST)"
+	rom ( name "XEST 142 (19xx)(XEST).st" size 737280 crc c2381157 md5 1808722fa031ea8369791f7aa3e18516 )
+)
+
+game (
+	name "XEST 143 (19xx)(XEST)"
+	description "XEST 143 (19xx)(XEST)"
+	rom ( name "XEST 143 (19xx)(XEST).st" size 737280 crc a6600489 md5 5b9f336cc21a6fae77df75e8d4454fcb )
+)
+
+game (
+	name "XEST 144 (19xx)(XEST)"
+	description "XEST 144 (19xx)(XEST)"
+	rom ( name "XEST 144 (19xx)(XEST).st" size 737280 crc 29371023 md5 c418b8bb1989279ee383af9813b4e409 )
+)
+
+game (
+	name "XEST 145 (19xx)(XEST)"
+	description "XEST 145 (19xx)(XEST)"
+	rom ( name "XEST 145 (19xx)(XEST).st" size 737280 crc 805caafc md5 a61b832d7cfcb61651b6ef776ed92704 )
+)
+
+game (
+	name "XEST 146 (19xx)(XEST)"
+	description "XEST 146 (19xx)(XEST)"
+	rom ( name "XEST 146 (19xx)(XEST).st" size 737280 crc 2ff8cd30 md5 eda2cf527603820c7d8d8b747967048c )
+)
+
+game (
+	name "XEST 147 (19xx)(XEST)"
+	description "XEST 147 (19xx)(XEST)"
+	rom ( name "XEST 147 (19xx)(XEST).st" size 737280 crc 54b86e1a md5 3012054cf5ccf1909fa4d45cf98fdb28 )
+)
+
+game (
+	name "XEST 148 (19xx)(XEST)"
+	description "XEST 148 (19xx)(XEST)"
+	rom ( name "XEST 148 (19xx)(XEST).st" size 737280 crc 520e5327 md5 4c35751b7560dcc5a619a783babd8955 )
+)
+
+game (
+	name "XEST 149 (19xx)(XEST)"
+	description "XEST 149 (19xx)(XEST)"
+	rom ( name "XEST 149 (19xx)(XEST).st" size 737280 crc 16837dc1 md5 4873291a44d9115a16cc5d2b084b0f92 )
+)
+
+game (
+	name "XEST 150 (19xx)(XEST)"
+	description "XEST 150 (19xx)(XEST)"
+	rom ( name "XEST 150 (19xx)(XEST).st" size 737280 crc 62d0f48a md5 ab982b6591257a2e7f09f176b5fbcbf6 )
+)
+
+game (
+	name "XEST 151 (19xx)(XEST)"
+	description "XEST 151 (19xx)(XEST)"
+	rom ( name "XEST 151 (19xx)(XEST).st" size 737280 crc 458902d0 md5 5aa9e26e64eeba5192362a3a7f50b514 )
+)
+
+game (
+	name "XEST 152 (19xx)(XEST)"
+	description "XEST 152 (19xx)(XEST)"
+	rom ( name "XEST 152 (19xx)(XEST).st" size 737280 crc e81a1d45 md5 c448cf64e9c4cf4f9531fd22a908b234 )
+)
+
+game (
+	name "XEST 153 (19xx)(XEST)"
+	description "XEST 153 (19xx)(XEST)"
+	rom ( name "XEST 153 (19xx)(XEST).st" size 737280 crc 8bb2318f md5 b3337118c4b05c1fcdd744667b7185fb )
+)
+
+game (
+	name "XEST 154 (19xx)(XEST)"
+	description "XEST 154 (19xx)(XEST)"
+	rom ( name "XEST 154 (19xx)(XEST).st" size 737280 crc 2e00bd18 md5 0251f0cba2c71b123f8c398c3df7bc9a )
+)
+
+game (
+	name "XEST 155 (19xx)(XEST)"
+	description "XEST 155 (19xx)(XEST)"
+	rom ( name "XEST 155 (19xx)(XEST).st" size 737280 crc d8135637 md5 c1faf403341c67549141ee69e0383b36 )
+)
+
+game (
+	name "XEST 156 (19xx)(XEST)"
+	description "XEST 156 (19xx)(XEST)"
+	rom ( name "XEST 156 (19xx)(XEST).st" size 737280 crc 87e83dd2 md5 adf87e3145345300a2b4b885f6aea7f3 )
+)
+
+game (
+	name "XEST 157 (19xx)(XEST)"
+	description "XEST 157 (19xx)(XEST)"
+	rom ( name "XEST 157 (19xx)(XEST).st" size 737280 crc 30aad34e md5 e5d8c6c578ba8b2de7dcb11c92c1c310 )
+)
+
+game (
+	name "XEST 158 (19xx)(XEST)"
+	description "XEST 158 (19xx)(XEST)"
+	rom ( name "XEST 158 (19xx)(XEST).st" size 737280 crc 3440d6a7 md5 229f680988c2801920c54397414066e9 )
+)
+
+game (
+	name "XEST 159 (19xx)(XEST)"
+	description "XEST 159 (19xx)(XEST)"
+	rom ( name "XEST 159 (19xx)(XEST).st" size 737280 crc ec6c8ac1 md5 3fc1bc38d943ec89919fd3d67cbe86db )
+)
+
+game (
+	name "XEST 160 (19xx)(XEST)"
+	description "XEST 160 (19xx)(XEST)"
+	rom ( name "XEST 160 (19xx)(XEST).st" size 737280 crc 2c16552b md5 2eff8a8b4e9654d0e026bb0776eb4266 )
+)
+
+game (
+	name "XEST 161 (19xx)(XEST)"
+	description "XEST 161 (19xx)(XEST)"
+	rom ( name "XEST 161 (19xx)(XEST).st" size 737280 crc 063bbd7a md5 91729e914d68b667164f894576b5fae5 )
+)
+
+game (
+	name "XEST 162 (19xx)(XEST)"
+	description "XEST 162 (19xx)(XEST)"
+	rom ( name "XEST 162 (19xx)(XEST).st" size 737280 crc d6a1c9a9 md5 d335568e63321a5013a297b8105de0d9 )
+)
+
+game (
+	name "XEST 163 (19xx)(XEST)"
+	description "XEST 163 (19xx)(XEST)"
+	rom ( name "XEST 163 (19xx)(XEST).st" size 737280 crc a99ad3ba md5 a105d87cd3320cc0de560a0573e6dd2b )
+)
+
+game (
+	name "XEST 164 (19xx)(XEST)"
+	description "XEST 164 (19xx)(XEST)"
+	rom ( name "XEST 164 (19xx)(XEST).st" size 737280 crc 0bd2ff55 md5 c66d363655778cc45d41964d9a693b79 )
+)
+
+game (
+	name "XEST 165 (19xx)(XEST)"
+	description "XEST 165 (19xx)(XEST)"
+	rom ( name "XEST 165 (19xx)(XEST).st" size 737280 crc 809cca4a md5 d05598e2db728d1dd5147917f1382446 )
+)
+
+game (
+	name "XEST 166 (19xx)(XEST)"
+	description "XEST 166 (19xx)(XEST)"
+	rom ( name "XEST 166 (19xx)(XEST).st" size 737280 crc 6d8239a1 md5 7d8bec087da7fd7872311dc20162e1c8 )
+)
+
+game (
+	name "XEST 167 (19xx)(XEST)"
+	description "XEST 167 (19xx)(XEST)"
+	rom ( name "XEST 167 (19xx)(XEST).st" size 737280 crc c31527c5 md5 674015c6a31f3765078f4e4ee8721927 )
+)
+
+game (
+	name "XEST 168 (19xx)(XEST)"
+	description "XEST 168 (19xx)(XEST)"
+	rom ( name "XEST 168 (19xx)(XEST).st" size 737280 crc 795c0923 md5 791b0f2f2188617dd369435c8d7c8b0a )
+)
+
+game (
+	name "XEST 169 (19xx)(XEST)"
+	description "XEST 169 (19xx)(XEST)"
+	rom ( name "XEST 169 (19xx)(XEST).st" size 737280 crc bd69107c md5 a9378df9c43c167a07c25ca62f1ea9f1 )
+)
+
+game (
+	name "XEST 170 (19xx)(XEST)"
+	description "XEST 170 (19xx)(XEST)"
+	rom ( name "XEST 170 (19xx)(XEST).st" size 737280 crc da8b60e3 md5 0ada9655fc106cf868c3aa00407415d0 )
+)
+
+game (
+	name "XEST 171 (19xx)(XEST)"
+	description "XEST 171 (19xx)(XEST)"
+	rom ( name "XEST 171 (19xx)(XEST).st" size 737280 crc 9e4e4278 md5 35c4cc57cb4646c8e4b14d7b1bcd7d01 )
+)
+
+game (
+	name "XEST 172 (19xx)(XEST)"
+	description "XEST 172 (19xx)(XEST)"
+	rom ( name "XEST 172 (19xx)(XEST).st" size 737280 crc bc0c97f5 md5 798cf1b83e5ffd0ccf3bb40ecd6c6d01 )
+)
+
+game (
+	name "XEST 173 (19xx)(XEST)"
+	description "XEST 173 (19xx)(XEST)"
+	rom ( name "XEST 173 (19xx)(XEST).st" size 737280 crc 303a7711 md5 b6a04a296b699ef3e3a17220b6bce35d )
+)
+
+game (
+	name "XEST 174 (19xx)(XEST)"
+	description "XEST 174 (19xx)(XEST)"
+	rom ( name "XEST 174 (19xx)(XEST).st" size 737280 crc f34e4399 md5 b6ac54779b6eef4d3e20d9b140fe687f )
+)
+
+game (
+	name "XEST 175 (19xx)(XEST)"
+	description "XEST 175 (19xx)(XEST)"
+	rom ( name "XEST 175 (19xx)(XEST).st" size 737280 crc 2d5d5d39 md5 6ead7da979dd5db0dbaeb17de64458f2 )
+)
+
+game (
+	name "XEST 176 (19xx)(XEST)"
+	description "XEST 176 (19xx)(XEST)"
+	rom ( name "XEST 176 (19xx)(XEST).st" size 737280 crc 7d4bd3db md5 45492aa2cf19f7b9ac11c022ffd16998 )
+)
+
+game (
+	name "XEST 177 (19xx)(XEST)"
+	description "XEST 177 (19xx)(XEST)"
+	rom ( name "XEST 177 (19xx)(XEST).st" size 737280 crc 49c0d49e md5 7fe9e387ddf33e3ffe4400e84d840c13 )
+)
+
+game (
+	name "XEST 178 (19xx)(XEST)"
+	description "XEST 178 (19xx)(XEST)"
+	rom ( name "XEST 178 (19xx)(XEST).st" size 737280 crc f3dd1f52 md5 8fc411d3651d6db4d1dfb6f69bbc81ee )
+)
+
+game (
+	name "XEST 179 (19xx)(XEST)"
+	description "XEST 179 (19xx)(XEST)"
+	rom ( name "XEST 179 (19xx)(XEST).st" size 737280 crc 79bfdc95 md5 11958f72a88e2e1ba9818b10161c60ba )
+)
+
+game (
+	name "XEST 180 (19xx)(XEST)"
+	description "XEST 180 (19xx)(XEST)"
+	rom ( name "XEST 180 (19xx)(XEST).st" size 737280 crc 6bb1033d md5 9613ba6460de7db209ea7848ae1e8489 )
+)
+
+game (
+	name "XEST 181 (19xx)(XEST)"
+	description "XEST 181 (19xx)(XEST)"
+	rom ( name "XEST 181 (19xx)(XEST).st" size 737280 crc 710bc636 md5 97dca132c4b816377eff62d161c625ed )
+)
+
+game (
+	name "XEST 182 (19xx)(XEST)"
+	description "XEST 182 (19xx)(XEST)"
+	rom ( name "XEST 182 (19xx)(XEST).st" size 737280 crc 40e2e24b md5 c93bf0f21df0959c3117ec9e67fc126a )
+)
+
+game (
+	name "XEST 183 (19xx)(XEST)"
+	description "XEST 183 (19xx)(XEST)"
+	rom ( name "XEST 183 (19xx)(XEST).st" size 737280 crc d2336119 md5 0e91018d045e3292b7f706b1d33ce053 )
+)
+
+game (
+	name "XEST 184 (19xx)(XEST)"
+	description "XEST 184 (19xx)(XEST)"
+	rom ( name "XEST 184 (19xx)(XEST).st" size 737280 crc 18814da8 md5 45a78a28a334c028619c808c057c5043 )
+)
+
+game (
+	name "XEST 185 (19xx)(XEST)"
+	description "XEST 185 (19xx)(XEST)"
+	rom ( name "XEST 185 (19xx)(XEST).st" size 737280 crc c0458a11 md5 54eba7dbc4b24eae19a61165c88551e2 )
+)
+
+game (
+	name "XEST 186 (19xx)(XEST)"
+	description "XEST 186 (19xx)(XEST)"
+	rom ( name "XEST 186 (19xx)(XEST).st" size 737280 crc 76393955 md5 acdf310406b5c345e5aa71cc6865f603 )
+)
+
+game (
+	name "XEST 187 (19xx)(XEST)"
+	description "XEST 187 (19xx)(XEST)"
+	rom ( name "XEST 187 (19xx)(XEST).st" size 737280 crc 48817739 md5 b95bce35f133e4be196ba9605110b043 )
+)
+
+game (
+	name "XEST 188 (19xx)(XEST)"
+	description "XEST 188 (19xx)(XEST)"
+	rom ( name "XEST 188 (19xx)(XEST).st" size 737280 crc 054c04f7 md5 1065f3336eb90fdb54b10123889e1e46 )
+)
+
+game (
+	name "XEST 189 (19xx)(XEST)"
+	description "XEST 189 (19xx)(XEST)"
+	rom ( name "XEST 189 (19xx)(XEST).st" size 737280 crc 48751e9a md5 c6c8acb6f066cee989ca2225e094cec8 )
+)
+
+game (
+	name "XEST 190 (19xx)(XEST)"
+	description "XEST 190 (19xx)(XEST)"
+	rom ( name "XEST 190 (19xx)(XEST).st" size 737280 crc 67ae5570 md5 38938e767bbae483dc58ac897b7d77d6 )
+)
+
+game (
+	name "XEST 191 (19xx)(XEST)"
+	description "XEST 191 (19xx)(XEST)"
+	rom ( name "XEST 191 (19xx)(XEST).st" size 737280 crc 84c02be2 md5 d23ef9a967cb364bee51fc58a3b2791c )
+)
+
+game (
+	name "XEST 192 (19xx)(XEST)"
+	description "XEST 192 (19xx)(XEST)"
+	rom ( name "XEST 192 (19xx)(XEST).st" size 737280 crc 70a5292f md5 3ec4fc192d1e1f61fb2052cd418b5302 )
+)
+
+game (
+	name "XEST 193 (19xx)(XEST)"
+	description "XEST 193 (19xx)(XEST)"
+	rom ( name "XEST 193 (19xx)(XEST).st" size 737280 crc 0274b2c5 md5 2d404113070a83ac19f221ca86020cab )
+)
+
+game (
+	name "XEST 194 (19xx)(XEST)"
+	description "XEST 194 (19xx)(XEST)"
+	rom ( name "XEST 194 (19xx)(XEST).st" size 737280 crc 45b60246 md5 c8b10c56f468116e81f89fc11884d9f1 )
+)
+
+game (
+	name "XEST 195 (19xx)(XEST)[u]"
+	description "XEST 195 (19xx)(XEST)[u]"
+	rom ( name "XEST 195 (19xx)(XEST)[u].st" size 737280 crc 563d7222 md5 e2059f5e9034d2ad5579ff48bd309696 )
+)
+
+game (
+	name "XEST 196 (19xx)(XEST)"
+	description "XEST 196 (19xx)(XEST)"
+	rom ( name "XEST 196 (19xx)(XEST).st" size 737280 crc a729306e md5 76831567bb999e4a4a6f44365d501f33 )
+)
+
+game (
+	name "XEST 198 (19xx)(XEST)"
+	description "XEST 198 (19xx)(XEST)"
+	rom ( name "XEST 198 (19xx)(XEST).st" size 737280 crc 4a081c59 md5 3fe108407afac3a9415a02ac7cdb1361 )
+)
+
+game (
+	name "XEST 199 (19xx)(XEST)"
+	description "XEST 199 (19xx)(XEST)"
+	rom ( name "XEST 199 (19xx)(XEST).st" size 737280 crc 03627c61 md5 84200c8bf583a5efdaa2987951875b20 )
+)
+
+game (
+	name "XEST 200 (19xx)(XEST)"
+	description "XEST 200 (19xx)(XEST)"
+	rom ( name "XEST 200 (19xx)(XEST).st" size 737280 crc 55f223e9 md5 84e80633f61c11db8f6a1f2e1bd48193 )
+)
+
+game (
+	name "XEST 201 (19xx)(XEST)"
+	description "XEST 201 (19xx)(XEST)"
+	rom ( name "XEST 201 (19xx)(XEST).st" size 737280 crc 59c3ab10 md5 84b6ffa5866d2c874b5c5331b9fbf33a )
+)
+
+game (
+	name "XEST 202 (19xx)(XEST)"
+	description "XEST 202 (19xx)(XEST)"
+	rom ( name "XEST 202 (19xx)(XEST).st" size 737280 crc 1ab9d94d md5 b72d32e3a0bee8442395f28015a8bf91 )
+)
+
+game (
+	name "XEST 203 (19xx)(XEST)"
+	description "XEST 203 (19xx)(XEST)"
+	rom ( name "XEST 203 (19xx)(XEST).st" size 737280 crc b92d3725 md5 d2393f6f3d066387bdcc596217102088 )
+)
+
+game (
+	name "XEST 204 (19xx)(XEST)"
+	description "XEST 204 (19xx)(XEST)"
+	rom ( name "XEST 204 (19xx)(XEST).st" size 737280 crc 97242268 md5 1cad9a98f69c6c2c9a79c651c55050f1 )
+)
+
+game (
+	name "XEST 205 (19xx)(XEST)"
+	description "XEST 205 (19xx)(XEST)"
+	rom ( name "XEST 205 (19xx)(XEST).st" size 737280 crc 9ed10bb2 md5 6a2f3a64ad7581cfea766b595d804e22 )
+)
+
+game (
+	name "XEST 206 (19xx)(XEST)"
+	description "XEST 206 (19xx)(XEST)"
+	rom ( name "XEST 206 (19xx)(XEST).st" size 737280 crc 7cb8b777 md5 2017cbca8563ad7b5d20c56c1a7e1966 )
+)
+
+game (
+	name "XEST 207 (19xx)(XEST)"
+	description "XEST 207 (19xx)(XEST)"
+	rom ( name "XEST 207 (19xx)(XEST).st" size 737280 crc 19640245 md5 375c040e11503ce8655769ed857735bc )
+)
+
+game (
+	name "XEST 208 (19xx)(XEST)"
+	description "XEST 208 (19xx)(XEST)"
+	rom ( name "XEST 208 (19xx)(XEST).st" size 737280 crc 786b8f7e md5 73a4ecc7b4ad9b7b57c26612cf76962c )
+)
+
+game (
+	name "XEST 209 (19xx)(XEST)"
+	description "XEST 209 (19xx)(XEST)"
+	rom ( name "XEST 209 (19xx)(XEST).st" size 737280 crc 1ee696bb md5 9ac70ae3890277ae119c08a5ec6b7c23 )
+)
+
+game (
+	name "XEST 210 (19xx)(XEST)"
+	description "XEST 210 (19xx)(XEST)"
+	rom ( name "XEST 210 (19xx)(XEST).st" size 737280 crc 056067e4 md5 a5c16a4c6e54c599c06f7d8d2347d511 )
+)
+
+game (
+	name "XEST 211 (19xx)(XEST)"
+	description "XEST 211 (19xx)(XEST)"
+	rom ( name "XEST 211 (19xx)(XEST).st" size 737280 crc 86824ad8 md5 8d706fec0992180e1584bf776fc25630 )
+)
+
+game (
+	name "XEST 212 (19xx)(XEST)"
+	description "XEST 212 (19xx)(XEST)"
+	rom ( name "XEST 212 (19xx)(XEST).st" size 737280 crc 9c0e806c md5 f5db0e42d658a2313effc96c99d8f220 )
+)
+
+game (
+	name "XEST 213 (19xx)(XEST)"
+	description "XEST 213 (19xx)(XEST)"
+	rom ( name "XEST 213 (19xx)(XEST).st" size 737280 crc 44b90c78 md5 4a94b0d52e62adb26beb508343a933ff )
+)
+
+game (
+	name "XEST 214 (19xx)(XEST)"
+	description "XEST 214 (19xx)(XEST)"
+	rom ( name "XEST 214 (19xx)(XEST).st" size 737280 crc fb52f773 md5 fe646a0923080cf71826a39de6d0a00d )
+)
+
+game (
+	name "XEST 215 (19xx)(XEST)"
+	description "XEST 215 (19xx)(XEST)"
+	rom ( name "XEST 215 (19xx)(XEST).st" size 737280 crc d19252b9 md5 00aef4b1bf7892a44771a2fc4268fea9 )
+)
+
+game (
+	name "XEST 216 (19xx)(XEST)"
+	description "XEST 216 (19xx)(XEST)"
+	rom ( name "XEST 216 (19xx)(XEST).st" size 737280 crc 7b5c7627 md5 ff9a8952ba99a3bff19fc70c3a540526 )
+)
+
+game (
+	name "XEST 217 (19xx)(XEST)"
+	description "XEST 217 (19xx)(XEST)"
+	rom ( name "XEST 217 (19xx)(XEST).st" size 737280 crc bb5eaee1 md5 adee31db3389977b67a9337b06ee8338 )
+)
+
+game (
+	name "XEST 218 (19xx)(XEST)"
+	description "XEST 218 (19xx)(XEST)"
+	rom ( name "XEST 218 (19xx)(XEST).st" size 737280 crc 509c7a2f md5 4829bfb667a47eda95e333c247a4b45b )
+)
+
+game (
+	name "XEST 219 (19xx)(XEST)"
+	description "XEST 219 (19xx)(XEST)"
+	rom ( name "XEST 219 (19xx)(XEST).st" size 737280 crc f2755a95 md5 9365f7bb9912ad6ea75a22ac208ce922 )
+)
+
+game (
+	name "XEST 220 (19xx)(XEST)"
+	description "XEST 220 (19xx)(XEST)"
+	rom ( name "XEST 220 (19xx)(XEST).st" size 737280 crc 7e82dda0 md5 329b5e2f6128c0060a83b29170380adf )
+)
+
+game (
+	name "XEST 221 (19xx)(XEST)"
+	description "XEST 221 (19xx)(XEST)"
+	rom ( name "XEST 221 (19xx)(XEST).st" size 737280 crc 7d29a5eb md5 3e7d20243ead6402a6958fe67f124688 )
+)
+
+game (
+	name "XEST 222 (19xx)(XEST)"
+	description "XEST 222 (19xx)(XEST)"
+	rom ( name "XEST 222 (19xx)(XEST).st" size 737280 crc f2ca3a51 md5 9e44a048a39e4c9f5b8bc9738d7ea60f )
+)
+
+game (
+	name "XEST 223 (19xx)(XEST)"
+	description "XEST 223 (19xx)(XEST)"
+	rom ( name "XEST 223 (19xx)(XEST).st" size 737280 crc 9ec33827 md5 3e98813134c9d750d4bf73de23c3b3a5 )
+)
+
+game (
+	name "XEST 224 (19xx)(XEST)"
+	description "XEST 224 (19xx)(XEST)"
+	rom ( name "XEST 224 (19xx)(XEST).st" size 737280 crc 9c75f7e0 md5 a77da9458fdef2ad0d90dacd1db0f424 )
+)
+
+game (
+	name "XEST 225 (19xx)(XEST)"
+	description "XEST 225 (19xx)(XEST)"
+	rom ( name "XEST 225 (19xx)(XEST).st" size 737280 crc 98f23b38 md5 2295810ea1d23587d635ca7a6ee08c8d )
+)
+
+game (
+	name "XEST 226 (19xx)(XEST)"
+	description "XEST 226 (19xx)(XEST)"
+	rom ( name "XEST 226 (19xx)(XEST).st" size 737280 crc 632f1194 md5 57744eb0773b9b7c948f16af201d4331 )
+)
+
+game (
+	name "XEST 227 (19xx)(XEST)"
+	description "XEST 227 (19xx)(XEST)"
+	rom ( name "XEST 227 (19xx)(XEST).st" size 737280 crc 4040c301 md5 30dda0a1b768827d3fdf3fbe4f76ca09 )
+)
+
+game (
+	name "XEST 228 (19xx)(XEST)"
+	description "XEST 228 (19xx)(XEST)"
+	rom ( name "XEST 228 (19xx)(XEST).st" size 737280 crc 1b469c7c md5 b0c54ae107400930eb4a9d8bd17ba457 )
+)
+
+game (
+	name "XEST 229 (19xx)(XEST)"
+	description "XEST 229 (19xx)(XEST)"
+	rom ( name "XEST 229 (19xx)(XEST).st" size 737280 crc b033dd36 md5 5bc4445b89810dd8097bd0f62691b4b6 )
+)
+
+game (
+	name "XEST 230 (19xx)(XEST)"
+	description "XEST 230 (19xx)(XEST)"
+	rom ( name "XEST 230 (19xx)(XEST).st" size 737280 crc 7ac49a6d md5 b6a87b2002035d766e9da5c514bf2aff )
+)
+
+game (
+	name "XEST 231 (19xx)(XEST)"
+	description "XEST 231 (19xx)(XEST)"
+	rom ( name "XEST 231 (19xx)(XEST).st" size 737280 crc af36ad1d md5 62f425319d051e97922f33fdcac75534 )
+)
+
+game (
+	name "XEST 232 (19xx)(XEST)"
+	description "XEST 232 (19xx)(XEST)"
+	rom ( name "XEST 232 (19xx)(XEST).st" size 737280 crc 9075db00 md5 2d9137e2cd5f6d202b2b42377944f614 )
+)
+
+game (
+	name "XEST 233 (19xx)(XEST)"
+	description "XEST 233 (19xx)(XEST)"
+	rom ( name "XEST 233 (19xx)(XEST).st" size 737280 crc dd454b58 md5 ab8b808201d0b26b3f49f59d63fcffb8 )
+)
+
+game (
+	name "XEST 234 (19xx)(XEST)"
+	description "XEST 234 (19xx)(XEST)"
+	rom ( name "XEST 234 (19xx)(XEST).st" size 737280 crc 2564e795 md5 946bb97eb17dfeb37ea495b8bed89d93 )
+)
+
+game (
+	name "XEST 235 (19xx)(XEST)"
+	description "XEST 235 (19xx)(XEST)"
+	rom ( name "XEST 235 (19xx)(XEST).st" size 737280 crc e49b5cd2 md5 737920040801b65d1bfbebd636a3da9d )
+)
+
+game (
+	name "XEST 236 (19xx)(XEST)"
+	description "XEST 236 (19xx)(XEST)"
+	rom ( name "XEST 236 (19xx)(XEST).st" size 737280 crc c2ceeeef md5 4329e28b33f9779ea9bd5f0a67d2aca4 )
+)
+
+game (
+	name "XEST 237 (19xx)(XEST)"
+	description "XEST 237 (19xx)(XEST)"
+	rom ( name "XEST 237 (19xx)(XEST).st" size 737280 crc 1ebfa223 md5 bbf1ab579b7d6f57b0309f7cfe367e75 )
+)
+
+game (
+	name "XEST 238 (19xx)(XEST)"
+	description "XEST 238 (19xx)(XEST)"
+	rom ( name "XEST 238 (19xx)(XEST).st" size 737280 crc ea14972a md5 4d4ab72db240b1c3f1f64a9e852dcab1 )
+)
+
+game (
+	name "XEST 239 (19xx)(XEST)"
+	description "XEST 239 (19xx)(XEST)"
+	rom ( name "XEST 239 (19xx)(XEST).st" size 737280 crc 77a5039e md5 8946fec8e6b654ba36d42b384700c3f7 )
+)
+
+game (
+	name "XEST 240 (19xx)(XEST)"
+	description "XEST 240 (19xx)(XEST)"
+	rom ( name "XEST 240 (19xx)(XEST).st" size 737280 crc 3615ed2b md5 7c11ebbf6268e41e1361675b5afe0c49 )
+)
+
+game (
+	name "XEST 241 (19xx)(XEST)"
+	description "XEST 241 (19xx)(XEST)"
+	rom ( name "XEST 241 (19xx)(XEST).st" size 737280 crc 4dbf543d md5 8f33cfb2f3bd99fd43f309e0a4dc6e86 )
+)
+
+game (
+	name "XEST 242 (19xx)(XEST)"
+	description "XEST 242 (19xx)(XEST)"
+	rom ( name "XEST 242 (19xx)(XEST).st" size 737280 crc 389165ea md5 a44e16165cd33254588611cbbbab3e2d )
+)
+
+game (
+	name "XEST 243 (19xx)(XEST)"
+	description "XEST 243 (19xx)(XEST)"
+	rom ( name "XEST 243 (19xx)(XEST).st" size 737280 crc a5a47bc1 md5 c285bb654398078d6650b169a461a08f )
+)
+
+game (
+	name "XEST 244 (19xx)(XEST)"
+	description "XEST 244 (19xx)(XEST)"
+	rom ( name "XEST 244 (19xx)(XEST).st" size 737280 crc 9f267d38 md5 c52077b44960954d0cd993d0d9afe8b9 )
+)
+
+game (
+	name "XEST 245 (19xx)(XEST)"
+	description "XEST 245 (19xx)(XEST)"
+	rom ( name "XEST 245 (19xx)(XEST).st" size 737280 crc a95a4bbb md5 23fc8634fc46affac32d9a5a3749b9c4 )
+)
+
+game (
+	name "XEST 246 (19xx)(XEST)"
+	description "XEST 246 (19xx)(XEST)"
+	rom ( name "XEST 246 (19xx)(XEST).st" size 737280 crc 880eb185 md5 384299e5f3a64fda9c2d3c678cf3ede8 )
+)
+
+game (
+	name "XEST 247 (19xx)(XEST)"
+	description "XEST 247 (19xx)(XEST)"
+	rom ( name "XEST 247 (19xx)(XEST).st" size 737280 crc d9510062 md5 0f80be5ba24c3c39eb533ceec719fc4a )
+)
+
+game (
+	name "XEST 248 (19xx)(XEST)"
+	description "XEST 248 (19xx)(XEST)"
+	rom ( name "XEST 248 (19xx)(XEST).st" size 737280 crc 7a0c99e3 md5 4171da6824a4d9e8599f791787b08d54 )
+)
+
+game (
+	name "XEST 249 (19xx)(XEST)"
+	description "XEST 249 (19xx)(XEST)"
+	rom ( name "XEST 249 (19xx)(XEST).st" size 737280 crc d4e1b9f7 md5 c290e45b561f6df012684a0bf9d9150f )
+)
+
+game (
+	name "XEST 250 (19xx)(XEST)"
+	description "XEST 250 (19xx)(XEST)"
+	rom ( name "XEST 250 (19xx)(XEST).st" size 737280 crc f5e2b8f3 md5 93e6f84a1da82a47fda9c5dd5f9f7d16 )
+)
+
+game (
+	name "XEST 251 (19xx)(XEST)"
+	description "XEST 251 (19xx)(XEST)"
+	rom ( name "XEST 251 (19xx)(XEST).st" size 737280 crc 34af1d90 md5 97d010c50b0ef4fd86b8f7958244ba75 )
+)
+
+game (
+	name "XEST 252 (19xx)(XEST)"
+	description "XEST 252 (19xx)(XEST)"
+	rom ( name "XEST 252 (19xx)(XEST).st" size 737280 crc 0954350f md5 1a589f92a30680b6cd43f2ce5437f433 )
+)
+
+game (
+	name "XEST 253 (19xx)(XEST)"
+	description "XEST 253 (19xx)(XEST)"
+	rom ( name "XEST 253 (19xx)(XEST).st" size 737280 crc 621c675c md5 a4bd1d092a0dfe4dd75e3b7a55fe93d7 )
+)
+
+game (
+	name "XEST 254 (19xx)(XEST)"
+	description "XEST 254 (19xx)(XEST)"
+	rom ( name "XEST 254 (19xx)(XEST).st" size 737280 crc 58e6b354 md5 a8faca60dff59212715490058712a966 )
+)
+
+game (
+	name "XEST 255 (19xx)(XEST)"
+	description "XEST 255 (19xx)(XEST)"
+	rom ( name "XEST 255 (19xx)(XEST).st" size 737280 crc 94c7f61a md5 e05940cf597bc066b384e637e9c351d4 )
+)
+
+game (
+	name "XEST 256 (19xx)(XEST)"
+	description "XEST 256 (19xx)(XEST)"
+	rom ( name "XEST 256 (19xx)(XEST).st" size 737280 crc b10bf0ff md5 cd3267eccb9c8f007009698b446933d9 )
+)
+
+game (
+	name "XEST 257 (19xx)(XEST)"
+	description "XEST 257 (19xx)(XEST)"
+	rom ( name "XEST 257 (19xx)(XEST).st" size 737280 crc 5df1f2f1 md5 593bfcbcd89fc61946bc7efe4d66c8d1 )
+)
+
+game (
+	name "XEST 258 (19xx)(XEST)"
+	description "XEST 258 (19xx)(XEST)"
+	rom ( name "XEST 258 (19xx)(XEST).st" size 737280 crc bcd248e9 md5 bb88a73b8d0f906bf69ff7df0b2f00d2 )
+)
+
+game (
+	name "XEST 259 (19xx)(XEST)"
+	description "XEST 259 (19xx)(XEST)"
+	rom ( name "XEST 259 (19xx)(XEST).st" size 737280 crc 42a0f151 md5 7054b94b93004f4bef451fc32346f9bc )
+)
+
+game (
+	name "XEST 260 (19xx)(XEST)"
+	description "XEST 260 (19xx)(XEST)"
+	rom ( name "XEST 260 (19xx)(XEST).st" size 737280 crc 7803509c md5 088616953be5fcd997ad1033e17d77dc )
+)
+
+game (
+	name "XEST 261 (19xx)(XEST)"
+	description "XEST 261 (19xx)(XEST)"
+	rom ( name "XEST 261 (19xx)(XEST).st" size 737280 crc 56e06bef md5 ef0e37e58fcbfd05d39ce105b02599fd )
+)
+
+game (
+	name "XEST 262 (19xx)(XEST)"
+	description "XEST 262 (19xx)(XEST)"
+	rom ( name "XEST 262 (19xx)(XEST).st" size 737280 crc 0442817c md5 399fed26ecda0b6a0bcd051b21631e0b )
+)
+
+game (
+	name "XEST 263 (19xx)(XEST)"
+	description "XEST 263 (19xx)(XEST)"
+	rom ( name "XEST 263 (19xx)(XEST).st" size 737280 crc c0896b46 md5 2a5951ace30a9363c70977f41d5228a0 )
+)
+
+game (
+	name "XEST 264 (19xx)(XEST)"
+	description "XEST 264 (19xx)(XEST)"
+	rom ( name "XEST 264 (19xx)(XEST).st" size 737280 crc 0d83ac5b md5 f9f5497ffa3dd4a7e0fe8c9966391112 )
+)
+
+game (
+	name "XEST 265 (19xx)(XEST)"
+	description "XEST 265 (19xx)(XEST)"
+	rom ( name "XEST 265 (19xx)(XEST).st" size 737280 crc 04f88852 md5 1b58939b53ed4977890e29f2f86bc8ca )
+)
+
+game (
+	name "XEST 266 (19xx)(XEST)"
+	description "XEST 266 (19xx)(XEST)"
+	rom ( name "XEST 266 (19xx)(XEST).st" size 737280 crc 9a250dbe md5 4d6584862eecf2c20d38957a6a40b346 )
+)
+
+game (
+	name "XEST 267 (19xx)(XEST)"
+	description "XEST 267 (19xx)(XEST)"
+	rom ( name "XEST 267 (19xx)(XEST).st" size 737280 crc cbbcbcca md5 ffb543a65a8d2453c93a79a236869168 )
+)
+
+game (
+	name "XEST 268 (19xx)(XEST)"
+	description "XEST 268 (19xx)(XEST)"
+	rom ( name "XEST 268 (19xx)(XEST).st" size 737280 crc cd042fdf md5 087e84db62c687a45f928a1276d18474 )
+)
+
+game (
+	name "XEST 269 (19xx)(XEST)"
+	description "XEST 269 (19xx)(XEST)"
+	rom ( name "XEST 269 (19xx)(XEST).st" size 737280 crc 8613bcc4 md5 c1995bbae8734853187dda92b4ba6a4d )
+)
+
+game (
+	name "XEST 270 (19xx)(XEST)"
+	description "XEST 270 (19xx)(XEST)"
+	rom ( name "XEST 270 (19xx)(XEST).st" size 737280 crc 026eeb48 md5 a20b6f9d896764ce68f8737737660dd8 )
+)
+
+game (
+	name "XEST 271 (19xx)(XEST)"
+	description "XEST 271 (19xx)(XEST)"
+	rom ( name "XEST 271 (19xx)(XEST).st" size 737280 crc 43117e21 md5 3803d09676dec7fc893f43d44e9cd752 )
+)
+
+game (
+	name "XEST 272 (19xx)(XEST)"
+	description "XEST 272 (19xx)(XEST)"
+	rom ( name "XEST 272 (19xx)(XEST).st" size 737280 crc 01a8db4f md5 a44df55b4a58b6ce90b6a74169d3c969 )
+)
+
+game (
+	name "XEST 273 (19xx)(XEST)"
+	description "XEST 273 (19xx)(XEST)"
+	rom ( name "XEST 273 (19xx)(XEST).st" size 737280 crc e71abe48 md5 56ff2ff3540feffc3110c4f118f4b62c )
+)
+
+game (
+	name "XEST 274 (19xx)(XEST)"
+	description "XEST 274 (19xx)(XEST)"
+	rom ( name "XEST 274 (19xx)(XEST).st" size 737280 crc 1250d1d9 md5 60b98ddbdcc20fce38a6a0c9e3bf13bd )
+)
+
+game (
+	name "XEST 275 (19xx)(XEST)"
+	description "XEST 275 (19xx)(XEST)"
+	rom ( name "XEST 275 (19xx)(XEST).st" size 737280 crc e1d27ab2 md5 e259fc388731f74e15064f9f3932cf9f )
+)
+
+game (
+	name "XEST 276 (19xx)(XEST)"
+	description "XEST 276 (19xx)(XEST)"
+	rom ( name "XEST 276 (19xx)(XEST).st" size 737280 crc 3655fc3e md5 50db2bc2a6d2300761bfb04197ceeb5f )
+)
+
+game (
+	name "XEST 277 (19xx)(XEST)"
+	description "XEST 277 (19xx)(XEST)"
+	rom ( name "XEST 277 (19xx)(XEST).st" size 737280 crc b3f1e202 md5 4b07a50e821b22942240daf23e0885b0 )
+)
+
+game (
+	name "XEST 278 (19xx)(XEST)"
+	description "XEST 278 (19xx)(XEST)"
+	rom ( name "XEST 278 (19xx)(XEST).st" size 737280 crc 3f01aa85 md5 449f2e49d67164054354fb8fcc8fd024 )
+)
+
+game (
+	name "XEST 279 (19xx)(XEST)"
+	description "XEST 279 (19xx)(XEST)"
+	rom ( name "XEST 279 (19xx)(XEST).st" size 737280 crc cee48a47 md5 c83d51ff4487adcdbda9389b6e5d8873 )
+)
+
+game (
+	name "XEST 280 (19xx)(XEST)"
+	description "XEST 280 (19xx)(XEST)"
+	rom ( name "XEST 280 (19xx)(XEST).st" size 737280 crc 2bb893fa md5 c3d220675186ac20c9b7cd23462ef063 )
+)
+
+game (
+	name "XEST 281 (19xx)(XEST)"
+	description "XEST 281 (19xx)(XEST)"
+	rom ( name "XEST 281 (19xx)(XEST).st" size 737280 crc 69432e8f md5 748bdc2c42f7e7d7c6c29be7c0d4ee50 )
+)
+
+game (
+	name "XEST 282 (19xx)(XEST)"
+	description "XEST 282 (19xx)(XEST)"
+	rom ( name "XEST 282 (19xx)(XEST).st" size 737280 crc e823719e md5 ce2580981414972bfb8bd70a1640ab35 )
+)
+
+game (
+	name "XEST 283 (19xx)(XEST)"
+	description "XEST 283 (19xx)(XEST)"
+	rom ( name "XEST 283 (19xx)(XEST).st" size 737280 crc 58472ec5 md5 9a2ca0bd8d6a386f1e10e49f62ba77be )
+)
+
+game (
+	name "XEST 284 (19xx)(XEST)"
+	description "XEST 284 (19xx)(XEST)"
+	rom ( name "XEST 284 (19xx)(XEST).st" size 737280 crc 6d3d64b1 md5 e9d22a0d898886c988c5b43577c1b9d2 )
+)
+
+game (
+	name "XEST 285 (19xx)(XEST)"
+	description "XEST 285 (19xx)(XEST)"
+	rom ( name "XEST 285 (19xx)(XEST).st" size 737280 crc a03d7a79 md5 c039382537e6362a6d25ec0869d436e9 )
+)
+
+game (
+	name "XEST 286 (19xx)(XEST)"
+	description "XEST 286 (19xx)(XEST)"
+	rom ( name "XEST 286 (19xx)(XEST).st" size 737280 crc ed533933 md5 a1e98b028d391ac3b05dfd680a577eed )
+)
+
+game (
+	name "XEST 287 (19xx)(XEST)"
+	description "XEST 287 (19xx)(XEST)"
+	rom ( name "XEST 287 (19xx)(XEST).st" size 737280 crc bff5d920 md5 5e81baeac56ccad9e7234a0f8710f4ef )
+)
+
+game (
+	name "XEST 288 (19xx)(XEST)"
+	description "XEST 288 (19xx)(XEST)"
+	rom ( name "XEST 288 (19xx)(XEST).st" size 737280 crc fb920294 md5 694f88bb3dce5b5684d30c6c1a44d6f5 )
+)
+
+game (
+	name "XEST 289 (19xx)(XEST)"
+	description "XEST 289 (19xx)(XEST)"
+	rom ( name "XEST 289 (19xx)(XEST).st" size 737280 crc 6395da01 md5 e7f192525853616502c15d94e4e4ac8a )
+)
+
+game (
+	name "XEST 290 (19xx)(XEST)"
+	description "XEST 290 (19xx)(XEST)"
+	rom ( name "XEST 290 (19xx)(XEST).st" size 737280 crc 425d5ed5 md5 48be242bdf6259d9bcd0f85d2238e2cf )
+)
+
+game (
+	name "XEST 291 (19xx)(XEST)"
+	description "XEST 291 (19xx)(XEST)"
+	rom ( name "XEST 291 (19xx)(XEST).st" size 737280 crc b7cc5a05 md5 25e4db97cd50af8e76a95e3d53a44a28 )
+)
+
+game (
+	name "XEST 292 (19xx)(XEST)"
+	description "XEST 292 (19xx)(XEST)"
+	rom ( name "XEST 292 (19xx)(XEST).st" size 737280 crc 82a2c2b1 md5 64bf5e460b8f26f0ad32d74e867a64c0 )
+)
+
+game (
+	name "XEST 293 (19xx)(XEST)"
+	description "XEST 293 (19xx)(XEST)"
+	rom ( name "XEST 293 (19xx)(XEST).st" size 737280 crc d8abefc5 md5 c2cf7f5b44a50766201932f756575d22 )
+)
+
+game (
+	name "XEST 294 (19xx)(XEST)"
+	description "XEST 294 (19xx)(XEST)"
+	rom ( name "XEST 294 (19xx)(XEST).st" size 737280 crc 33c819cc md5 6c674d21a630453a4a24cd3a06aab32e )
+)
+
+game (
+	name "XEST 295 (19xx)(XEST)"
+	description "XEST 295 (19xx)(XEST)"
+	rom ( name "XEST 295 (19xx)(XEST).st" size 737280 crc dd93173c md5 f8a32ec4ef45ab71a8f4ab666f0f4b97 )
+)
+
+game (
+	name "XEST 296 (19xx)(XEST)"
+	description "XEST 296 (19xx)(XEST)"
+	rom ( name "XEST 296 (19xx)(XEST).st" size 737280 crc aeb16e44 md5 c69cfb6ed6a5d4bae7ded78fa6852716 )
+)
+
+game (
+	name "XEST 297 (19xx)(XEST)"
+	description "XEST 297 (19xx)(XEST)"
+	rom ( name "XEST 297 (19xx)(XEST).st" size 737280 crc eff10ca2 md5 0d8282d1998173ba0b708ea91b0b1beb )
+)
+
+game (
+	name "XEST 298 (19xx)(XEST)"
+	description "XEST 298 (19xx)(XEST)"
+	rom ( name "XEST 298 (19xx)(XEST).st" size 737280 crc 52192e48 md5 511a8177dd8761226f576832c587fa24 )
+)
+
+game (
+	name "XEST 299 (19xx)(XEST)"
+	description "XEST 299 (19xx)(XEST)"
+	rom ( name "XEST 299 (19xx)(XEST).st" size 737280 crc 8dbdadbe md5 f3724090ab514e9540b0437c34b3f1d1 )
+)
+
+game (
+	name "XEST 300 (19xx)(XEST)"
+	description "XEST 300 (19xx)(XEST)"
+	rom ( name "XEST 300 (19xx)(XEST).st" size 737280 crc 98492190 md5 45d8a569fd35d7692ee2c1bb7f165803 )
+)
+
+game (
+	name "XEST 301 (19xx)(XEST)"
+	description "XEST 301 (19xx)(XEST)"
+	rom ( name "XEST 301 (19xx)(XEST).st" size 737280 crc f3467291 md5 8d8c63daf3f23a8ee762caf1d098ca9d )
+)
+
+game (
+	name "XEST 302 (19xx)(XEST)"
+	description "XEST 302 (19xx)(XEST)"
+	rom ( name "XEST 302 (19xx)(XEST).st" size 746496 crc 6768769b md5 bb9e9f3fea3f7309bda79e95f10b4298 )
+)
+
+game (
+	name "XEST 303 (19xx)(XEST)"
+	description "XEST 303 (19xx)(XEST)"
+	rom ( name "XEST 303 (19xx)(XEST).st" size 737280 crc 957790ee md5 e6f755983495c3a474f3e3cd60a6a645 )
+)
+
+game (
+	name "XEST 304 (19xx)(XEST)"
+	description "XEST 304 (19xx)(XEST)"
+	rom ( name "XEST 304 (19xx)(XEST).st" size 737280 crc 2bd982bf md5 3295a62ee621c5eaa61930bcabcd9860 )
+)
+
+game (
+	name "XEST 305 (19xx)(XEST)"
+	description "XEST 305 (19xx)(XEST)"
+	rom ( name "XEST 305 (19xx)(XEST).st" size 737280 crc a298c381 md5 ea1a7788dac2007379687db74dc1cae3 )
+)
+
+game (
+	name "XEST 306 (19xx)(XEST)"
+	description "XEST 306 (19xx)(XEST)"
+	rom ( name "XEST 306 (19xx)(XEST).st" size 737280 crc 7c4f277b md5 1c815c7d45376bc9c00577de02fbc6a0 )
+)
+
+game (
+	name "XEST 307 (19xx)(XEST)"
+	description "XEST 307 (19xx)(XEST)"
+	rom ( name "XEST 307 (19xx)(XEST).st" size 737280 crc d63ad756 md5 c16b9b459eccb40a06015342aeb21e75 )
+)
+
+game (
+	name "XEST 308 (19xx)(XEST)"
+	description "XEST 308 (19xx)(XEST)"
+	rom ( name "XEST 308 (19xx)(XEST).st" size 737280 crc b5f0f05e md5 dfdf16f3d4fcbf4cde8215ab5b97f14e )
+)
+
+game (
+	name "XEST 309 (19xx)(XEST)"
+	description "XEST 309 (19xx)(XEST)"
+	rom ( name "XEST 309 (19xx)(XEST).st" size 737280 crc a066f8cc md5 c85027fe55b1decdd94928eef8c4600e )
+)
+
+game (
+	name "XEST 310 (19xx)(XEST)"
+	description "XEST 310 (19xx)(XEST)"
+	rom ( name "XEST 310 (19xx)(XEST).st" size 737280 crc e6ec5ffd md5 3923cc44381f66d27efa295404a9a178 )
+)
+
+game (
+	name "XEST 311 (19xx)(XEST)"
+	description "XEST 311 (19xx)(XEST)"
+	rom ( name "XEST 311 (19xx)(XEST).st" size 737280 crc 462d18de md5 352289ce693db07dea1f55ad1c25e242 )
+)
+
+game (
+	name "XEST 312 (19xx)(XEST)"
+	description "XEST 312 (19xx)(XEST)"
+	rom ( name "XEST 312 (19xx)(XEST).st" size 737280 crc d9d62ed1 md5 c41d764b53d0e93a863d89819dde0c89 )
+)
+
+game (
+	name "XEST 313 (19xx)(XEST)"
+	description "XEST 313 (19xx)(XEST)"
+	rom ( name "XEST 313 (19xx)(XEST).st" size 737280 crc ba52c7fd md5 f98341db9d04c2d8d7a1a7f40996975d )
+)
+
+game (
+	name "XEST 314 (19xx)(XEST)"
+	description "XEST 314 (19xx)(XEST)"
+	rom ( name "XEST 314 (19xx)(XEST).st" size 737280 crc 570d7eb8 md5 899343a9f0ff50c76af13aa09b5654c7 )
+)
+
+game (
+	name "XEST 315 (19xx)(XEST)"
+	description "XEST 315 (19xx)(XEST)"
+	rom ( name "XEST 315 (19xx)(XEST).st" size 737280 crc d41c9ef2 md5 5bf07fe8fdf9af48b564293ec2f3cd85 )
+)
+
+game (
+	name "XEST 316 (19xx)(XEST)"
+	description "XEST 316 (19xx)(XEST)"
+	rom ( name "XEST 316 (19xx)(XEST).st" size 737280 crc 95c08df1 md5 cf3b62a5ea10e39dbbdeb9c58a7620fd )
+)
+
+game (
+	name "XEST 317 (19xx)(XEST)"
+	description "XEST 317 (19xx)(XEST)"
+	rom ( name "XEST 317 (19xx)(XEST).st" size 737280 crc 416de84e md5 652044acbae744564a225a802b9ac776 )
+)
+
+game (
+	name "XEST 318 (19xx)(XEST)"
+	description "XEST 318 (19xx)(XEST)"
+	rom ( name "XEST 318 (19xx)(XEST).st" size 737280 crc 12e2ff15 md5 50886708cbacedc140f78a3c55d225a9 )
+)
+
+game (
+	name "XEST 319 (19xx)(XEST)"
+	description "XEST 319 (19xx)(XEST)"
+	rom ( name "XEST 319 (19xx)(XEST).st" size 737280 crc ab3be3fd md5 9ba2f0eacdce410bd02129038915bd9e )
+)
+
+game (
+	name "XEST 320 (19xx)(XEST)"
+	description "XEST 320 (19xx)(XEST)"
+	rom ( name "XEST 320 (19xx)(XEST).st" size 737280 crc 94a28941 md5 14c8fa79db8653bf280194551003d3ef )
+)
+
+game (
+	name "XEST 321 (19xx)(XEST)"
+	description "XEST 321 (19xx)(XEST)"
+	rom ( name "XEST 321 (19xx)(XEST).st" size 737280 crc d2b9fe67 md5 3cd35945868140a89263a658fea17393 )
+)
+
+game (
+	name "XEST 322 (19xx)(XEST)"
+	description "XEST 322 (19xx)(XEST)"
+	rom ( name "XEST 322 (19xx)(XEST).st" size 737280 crc 9070b58d md5 e9ef5e65ca2421770fac764de1aa0474 )
+)
+
+game (
+	name "XEST 323 (19xx)(XEST)"
+	description "XEST 323 (19xx)(XEST)"
+	rom ( name "XEST 323 (19xx)(XEST).st" size 737280 crc 5390a75b md5 d77778f07e7a7a73e7e1be5b754fe63a )
+)
+
+game (
+	name "XEST 324 (19xx)(XEST)"
+	description "XEST 324 (19xx)(XEST)"
+	rom ( name "XEST 324 (19xx)(XEST).st" size 737280 crc 416bf9ff md5 9a08639e71fbd96e09452f85882d506e )
+)
+
+game (
+	name "XEST 325 (19xx)(XEST)"
+	description "XEST 325 (19xx)(XEST)"
+	rom ( name "XEST 325 (19xx)(XEST).st" size 737280 crc c3ef41b3 md5 3dbf4faa7cbec2f049acbf704c5db06f )
+)
+
+game (
+	name "XEST 326 (19xx)(XEST)"
+	description "XEST 326 (19xx)(XEST)"
+	rom ( name "XEST 326 (19xx)(XEST).st" size 737280 crc aff43981 md5 ba661b752e319d7342e9dc0592e876d3 )
+)
+
+game (
+	name "XEST 327 (19xx)(XEST)"
+	description "XEST 327 (19xx)(XEST)"
+	rom ( name "XEST 327 (19xx)(XEST).st" size 737280 crc 8434ff7a md5 b0676b3a9609b88f6530062283ff70b4 )
+)
+
+game (
+	name "XEST 328 (19xx)(XEST)"
+	description "XEST 328 (19xx)(XEST)"
+	rom ( name "XEST 328 (19xx)(XEST).st" size 737280 crc f381a343 md5 7e5d40a6d3803d1820b20dee7f6a7d34 )
+)
+
+game (
+	name "XEST 329 (19xx)(XEST)"
+	description "XEST 329 (19xx)(XEST)"
+	rom ( name "XEST 329 (19xx)(XEST).st" size 737280 crc 65df16a1 md5 6d81425b12aaa73d9eea4ff61ac2a798 )
+)
+
+game (
+	name "XEST 330 (19xx)(XEST)"
+	description "XEST 330 (19xx)(XEST)"
+	rom ( name "XEST 330 (19xx)(XEST).st" size 737280 crc 2aae851f md5 84a631d30e12ab850ca354a81f84a5b9 )
+)
+
+game (
+	name "XEST 331 (19xx)(XEST)"
+	description "XEST 331 (19xx)(XEST)"
+	rom ( name "XEST 331 (19xx)(XEST).st" size 737280 crc e41912a2 md5 89b9b6aaf17e2815825c4fce6701e7ca )
+)
+
+game (
+	name "XEST 332 (19xx)(XEST)"
+	description "XEST 332 (19xx)(XEST)"
+	rom ( name "XEST 332 (19xx)(XEST).st" size 737280 crc 97810209 md5 0e1c7ed51c6ba162f4e2c02129a2b615 )
+)
+
+game (
+	name "XEST 333 (19xx)(XEST)"
+	description "XEST 333 (19xx)(XEST)"
+	rom ( name "XEST 333 (19xx)(XEST).st" size 737280 crc 3f7e566a md5 7feaab719d73f1405a0b9a4b1a7892c3 )
+)
+
+game (
+	name "XEST 334 (19xx)(XEST)"
+	description "XEST 334 (19xx)(XEST)"
+	rom ( name "XEST 334 (19xx)(XEST).st" size 737280 crc 171ad76a md5 60de0b7adbae889f8d26982fca8dc804 )
+)
+
+game (
+	name "XEST 335 (19xx)(XEST)"
+	description "XEST 335 (19xx)(XEST)"
+	rom ( name "XEST 335 (19xx)(XEST).st" size 737280 crc a18f3a82 md5 584aa2b83af6dbfd24c7cd59ebb80f33 )
+)
+
+game (
+	name "XEST 336 (19xx)(XEST)"
+	description "XEST 336 (19xx)(XEST)"
+	rom ( name "XEST 336 (19xx)(XEST).st" size 737280 crc 4dd9d305 md5 fcdae0383d45a9a332dfe67ea8bad864 )
+)
+
+game (
+	name "XEST 337 (19xx)(XEST)"
+	description "XEST 337 (19xx)(XEST)"
+	rom ( name "XEST 337 (19xx)(XEST).st" size 737280 crc 28694263 md5 9c01509409b931cc1a78468549695c27 )
+)
+
+game (
+	name "XEST 338 (19xx)(XEST)"
+	description "XEST 338 (19xx)(XEST)"
+	rom ( name "XEST 338 (19xx)(XEST).st" size 737280 crc 06e7af5a md5 1e4292b39d1970e6d13dfc527b59e909 )
+)
+
+game (
+	name "XEST 339 (19xx)(XEST)"
+	description "XEST 339 (19xx)(XEST)"
+	rom ( name "XEST 339 (19xx)(XEST).st" size 737280 crc 72a51666 md5 a84a2d08f1fd6096b636cf42ea389a01 )
+)
+
+game (
+	name "XEST 340 (19xx)(XEST)"
+	description "XEST 340 (19xx)(XEST)"
+	rom ( name "XEST 340 (19xx)(XEST).st" size 737280 crc 3347de7d md5 542df2b768b4da4d2955327cd248f80b )
+)
+
+game (
+	name "XEST 341 (19xx)(XEST)"
+	description "XEST 341 (19xx)(XEST)"
+	rom ( name "XEST 341 (19xx)(XEST).st" size 737280 crc 5760aa7c md5 a97be2e9edd95db926a5a9ab513af0df )
+)
+
+game (
+	name "XEST 342 (19xx)(XEST)"
+	description "XEST 342 (19xx)(XEST)"
+	rom ( name "XEST 342 (19xx)(XEST).st" size 737280 crc 2cd5f00d md5 82e488ac0250a401b9681ab9e5e70678 )
+)
+
+game (
+	name "XEST 343 (19xx)(XEST)"
+	description "XEST 343 (19xx)(XEST)"
+	rom ( name "XEST 343 (19xx)(XEST).st" size 737280 crc 93ac4e67 md5 eaa19363a16319f015e50446bb93a3b6 )
+)
+
+game (
+	name "XEST 344 (19xx)(XEST)"
+	description "XEST 344 (19xx)(XEST)"
+	rom ( name "XEST 344 (19xx)(XEST).st" size 737280 crc 0ad358ea md5 9555a9321df8a7d9e8529ef99018eaf2 )
+)
+
+game (
+	name "XEST 345 (19xx)(XEST)"
+	description "XEST 345 (19xx)(XEST)"
+	rom ( name "XEST 345 (19xx)(XEST).st" size 737280 crc 8267a3ec md5 b0ddff9b9888fca461376dd4dc625e8a )
+)
+
+game (
+	name "XEST 346 (19xx)(XEST)"
+	description "XEST 346 (19xx)(XEST)"
+	rom ( name "XEST 346 (19xx)(XEST).st" size 737280 crc 3d290a48 md5 1f5714c0f422f7ea8c78db31cda0e58f )
+)
+
+game (
+	name "XEST 347 (19xx)(XEST)"
+	description "XEST 347 (19xx)(XEST)"
+	rom ( name "XEST 347 (19xx)(XEST).st" size 737280 crc 66433dfa md5 2c886d8733e111a114d11dc1aa8781e6 )
+)
+
+game (
+	name "XEST 348 (19xx)(XEST)"
+	description "XEST 348 (19xx)(XEST)"
+	rom ( name "XEST 348 (19xx)(XEST).st" size 737280 crc 13531deb md5 e35f4d8f435d5b7879d6720e743f2581 )
+)
+
+game (
+	name "XEST 349 (19xx)(XEST)"
+	description "XEST 349 (19xx)(XEST)"
+	rom ( name "XEST 349 (19xx)(XEST).st" size 737280 crc 17b68f9f md5 72fd94e9e6a38e3f3dedb036c7e89c68 )
+)
+
+game (
+	name "XEST 350 (19xx)(XEST)"
+	description "XEST 350 (19xx)(XEST)"
+	rom ( name "XEST 350 (19xx)(XEST).st" size 737280 crc c09c0a11 md5 a1c5edf627b267d5929ef06c99221368 )
+)
+
+game (
+	name "XEST 351 (19xx)(XEST)"
+	description "XEST 351 (19xx)(XEST)"
+	rom ( name "XEST 351 (19xx)(XEST).st" size 737280 crc eaf54465 md5 b1ce037aba4a137856b3c15d6bbb0693 )
+)
+
+game (
+	name "XEST 352 (19xx)(XEST)"
+	description "XEST 352 (19xx)(XEST)"
+	rom ( name "XEST 352 (19xx)(XEST).st" size 737280 crc 0376c9d0 md5 86f7c5fa176df10a64a6f895423db115 )
+)
+
+game (
+	name "XEST 353 (19xx)(XEST)"
+	description "XEST 353 (19xx)(XEST)"
+	rom ( name "XEST 353 (19xx)(XEST).st" size 737280 crc d33c37ca md5 22fa2d969f758091a998eabd26ab834e )
+)
+
+game (
+	name "XEST 354 (19xx)(XEST)"
+	description "XEST 354 (19xx)(XEST)"
+	rom ( name "XEST 354 (19xx)(XEST).st" size 737280 crc 6ef419ee md5 8782a884b4f355e32fbfdab6e1c114ce )
+)
+
+game (
+	name "XEST 355 (19xx)(XEST)"
+	description "XEST 355 (19xx)(XEST)"
+	rom ( name "XEST 355 (19xx)(XEST).st" size 819200 crc e03ae775 md5 ee3273f395b442588c45a6fe2e232944 )
+)
+
+game (
+	name "XEST 356 (19xx)(XEST)"
+	description "XEST 356 (19xx)(XEST)"
+	rom ( name "XEST 356 (19xx)(XEST).st" size 737280 crc 247fafe8 md5 bab87e6b4965e4d87684f277ccd03a67 )
+)
+
+game (
+	name "XEST 357 (19xx)(XEST)"
+	description "XEST 357 (19xx)(XEST)"
+	rom ( name "XEST 357 (19xx)(XEST).st" size 737280 crc b4b4cb56 md5 1c0e82d171b2acef0af39a115937d2e4 )
+)
+
+game (
+	name "XEST 358 (19xx)(XEST)"
+	description "XEST 358 (19xx)(XEST)"
+	rom ( name "XEST 358 (19xx)(XEST).st" size 737280 crc 368bdb5a md5 e93472454f34571f2a0ff00f1aaf523d )
+)
+
+game (
+	name "XEST 359 (19xx)(XEST)"
+	description "XEST 359 (19xx)(XEST)"
+	rom ( name "XEST 359 (19xx)(XEST).st" size 819200 crc ded691ce md5 62b6361421a2ef5dda934f16a70b6e0c )
+)
+
+game (
+	name "XEST 360 (19xx)(XEST)"
+	description "XEST 360 (19xx)(XEST)"
+	rom ( name "XEST 360 (19xx)(XEST).st" size 737280 crc 969bbc29 md5 1c443c5305f7c5d50b7bb4d3fc7c9577 )
+)
+
+game (
+	name "XEST 361 (19xx)(XEST)"
+	description "XEST 361 (19xx)(XEST)"
+	rom ( name "XEST 361 (19xx)(XEST).st" size 819200 crc 3950767b md5 e38bcaf10560c062f6dba62e33e71229 )
+)
+
+game (
+	name "XEST 362 (19xx)(XEST)"
+	description "XEST 362 (19xx)(XEST)"
+	rom ( name "XEST 362 (19xx)(XEST).st" size 737280 crc a5d3320c md5 a1e0b88120ca4650e5a267d41e28c5a2 )
+)
+
+game (
+	name "XEST 363 (19xx)(XEST)"
+	description "XEST 363 (19xx)(XEST)"
+	rom ( name "XEST 363 (19xx)(XEST).st" size 737280 crc 8a130233 md5 61613648633cbc2f4261420810fa2ca5 )
+)
+
+game (
+	name "XEST 364 (19xx)(XEST)"
+	description "XEST 364 (19xx)(XEST)"
+	rom ( name "XEST 364 (19xx)(XEST).st" size 737280 crc ce3d4d0c md5 dd7bdc39f665eae6564b62c05047e347 )
+)
+
+game (
+	name "XEST 365 (19xx)(XEST)"
+	description "XEST 365 (19xx)(XEST)"
+	rom ( name "XEST 365 (19xx)(XEST).st" size 737280 crc 08ba7693 md5 844fb52981053c42e6b9224ab479d453 )
+)
+
+game (
+	name "XEST 366 (19xx)(XEST)"
+	description "XEST 366 (19xx)(XEST)"
+	rom ( name "XEST 366 (19xx)(XEST).st" size 746496 crc caf67824 md5 da596adcfdef36b8bea04f8379627c8d )
+)
+
+game (
+	name "XEST 369 (19xx)(XEST)"
+	description "XEST 369 (19xx)(XEST)"
+	rom ( name "XEST 369 (19xx)(XEST).st" size 737280 crc b27eab20 md5 274c2f1388e8bf073a0e1aea5ad45341 )
+)
+
+game (
+	name "XEST 370 (19xx)(XEST)"
+	description "XEST 370 (19xx)(XEST)"
+	rom ( name "XEST 370 (19xx)(XEST).st" size 746496 crc 57369d10 md5 7289ae7b79fa3d790cb5a0601050b27d )
+)
+
+game (
+	name "XEST 371 (19xx)(XEST)"
+	description "XEST 371 (19xx)(XEST)"
+	rom ( name "XEST 371 (19xx)(XEST).st" size 901120 crc 432439f2 md5 7207728881d1b1a22c6bd73e25c35846 )
+)
+
+game (
+	name "XEST 372 (19xx)(XEST)"
+	description "XEST 372 (19xx)(XEST)"
+	rom ( name "XEST 372 (19xx)(XEST).st" size 737280 crc 510cf967 md5 674e8cef09abc08f5cdc4c6b2cd55a95 )
+)
+
+game (
+	name "XEST 373 (19xx)(XEST)"
+	description "XEST 373 (19xx)(XEST)"
+	rom ( name "XEST 373 (19xx)(XEST).st" size 737280 crc b71ee880 md5 a266b9b5e39190a005848352d751a9a6 )
+)
+
+game (
+	name "XEST 374 (19xx)(XEST)"
+	description "XEST 374 (19xx)(XEST)"
+	rom ( name "XEST 374 (19xx)(XEST).st" size 737280 crc 69567dc4 md5 e3f5bf27800c632389620364d347840d )
+)
+
+game (
+	name "XEST 375 (19xx)(XEST)"
+	description "XEST 375 (19xx)(XEST)"
+	rom ( name "XEST 375 (19xx)(XEST).st" size 737280 crc 5cbc5eeb md5 dc33894f234b1689b6d8435e70854187 )
+)
+
+game (
+	name "XEST 376 (19xx)(XEST)"
+	description "XEST 376 (19xx)(XEST)"
+	rom ( name "XEST 376 (19xx)(XEST).st" size 737280 crc 161158cc md5 031ab587de3311879354e3ee38b284c6 )
+)
+
+game (
+	name "XEST 377 (19xx)(XEST)"
+	description "XEST 377 (19xx)(XEST)"
+	rom ( name "XEST 377 (19xx)(XEST).st" size 737280 crc df67c128 md5 f902ff25b74899108e91645e7139cf88 )
+)
+
+game (
+	name "XEST 378 (19xx)(XEST)"
+	description "XEST 378 (19xx)(XEST)"
+	rom ( name "XEST 378 (19xx)(XEST).st" size 737280 crc 1d4325db md5 d1f943cbdba8708b24dcccedbb489efb )
+)
+
+game (
+	name "XEST 379 (19xx)(XEST)[u]"
+	description "XEST 379 (19xx)(XEST)[u]"
+	rom ( name "XEST 379 (19xx)(XEST)[u].st" size 737280 crc d5122a3d md5 292479d510f54fe99d6cb152181b7db0 )
+)
+
+game (
+	name "XEST 380 (19xx)(XEST)"
+	description "XEST 380 (19xx)(XEST)"
+	rom ( name "XEST 380 (19xx)(XEST).st" size 737280 crc fc68a4bf md5 1fb662fb4b32eec5d3bbc90585e600d6 )
+)
+
+game (
+	name "XEST 381 (19xx)(XEST)"
+	description "XEST 381 (19xx)(XEST)"
+	rom ( name "XEST 381 (19xx)(XEST).st" size 737280 crc 97f00982 md5 ac0e2415a4dc25987b2e3e59ee161ab1 )
+)
+
+game (
+	name "XEST 382 (19xx)(XEST)"
+	description "XEST 382 (19xx)(XEST)"
+	rom ( name "XEST 382 (19xx)(XEST).st" size 737280 crc 83559568 md5 87d63a2a50dfd15320144350faeaa541 )
+)

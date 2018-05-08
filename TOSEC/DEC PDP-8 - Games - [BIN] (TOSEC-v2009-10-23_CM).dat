@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-8 - Games - [BIN]"
+	description "DEC PDP-8 - Games - [BIN] (TOSEC-v2009-10-23)"
+	category "DEC PDP-8 - Games - [BIN]"
+	version 2009-10-23
+	author "TKaos"
+)
+
+game (
+	name "Spacewar (19xx)(-)"
+	description "Spacewar (19xx)(-)"
+	rom ( name "Spacewar (19xx)(-).bin" size 3507 crc c73a6c62 md5 2ae41b0ac9daff8dc279ee53d1efa2a6 )
+)

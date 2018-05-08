@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Commodore C64 - Cracktros - [LNX]"
+	description "Commodore C64 - Cracktros - [LNX] (TOSEC-v2012-09-09)"
+	category "Commodore C64 - Cracktros - [LNX]"
+	version 2012-09-09
+	author "Duncan Twain"
+)
+
+game (
+	name "Intro '92 (1992)(Byterapers)"
+	description "Intro '92 (1992)(Byterapers)"
+	rom ( name "Intro '92 (1992)(Byterapers).lnx" size 24404 crc 0412efe1 md5 64fe2839e2e25f711fc8766742dbcf67 sha1 51680c68bc2b7da7c2c4d5f0018d3420c8b4b26e )
+)
+
+game (
+	name "Intro Collection (1988)(The Sharks)"
+	description "Intro Collection (1988)(The Sharks)"
+	rom ( name "Intro Collection (1988)(The Sharks).lnx" size 61794 crc 83a1d55f md5 05b4c7f3b5108d5f735c7457aece0bbc sha1 4dd0c19eb17d4a15e7258bb4d2d14288ff3a6960 )
+)
+
+game (
+	name "Intro Collection (1989-02)(Byterapers)"
+	description "Intro Collection (1989-02)(Byterapers)"
+	rom ( name "Intro Collection (1989-02)(Byterapers).lnx" size 91949 crc fb6ddc91 md5 e4f761ab328ebb40b9521b210e80d34f sha1 edcbf711761abc40faf7b6beb3e57e008a54cf27 )
+)
+
+game (
+	name "Intro for Channel 42 (1989)(FBI Crew)"
+	description "Intro for Channel 42 (1989)(FBI Crew)"
+	rom ( name "Intro for Channel 42 (1989)(FBI Crew).lnx" size 9508 crc b72b6ab1 md5 fe9b69037cb7fc649521540b9b73eea9 sha1 0a36d2e345541cbcad272f63e85f52bf42e017e5 )
+)
+

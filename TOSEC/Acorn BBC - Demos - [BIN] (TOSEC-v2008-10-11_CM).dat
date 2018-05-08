@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Acorn BBC - Demos - [BIN]"
+	description "Acorn BBC - Demos - [BIN] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Demos - [BIN]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Acorn Demo-A (1985)(Acorn)"
+	description "Acorn Demo-A (1985)(Acorn)"
+	rom ( name "Acorn Demo-A (1985)(Acorn).bin" size 16384 crc fc40c0e8 md5 78a5b44e07347161dcaad623bad6363f )
+)
+
+game (
+	name "Acorn Demo-B (1985)(Acorn)"
+	description "Acorn Demo-B (1985)(Acorn)"
+	rom ( name "Acorn Demo-B (1985)(Acorn).bin" size 16384 crc 2e73522d md5 3055ea6d2aa5467236c50188cbf95a69 )
+)

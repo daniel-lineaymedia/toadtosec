@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Camputers Lynx - Compilations - Games"
+	description "Camputers Lynx - Compilations - Games (TOSEC-v2011-05-17)"
+	category "Camputers Lynx - Compilations - Games"
+	version 2011-05-17
+	author "mictlantecuhtle"
+)
+
+game (
+	name "Gempack 4 (1983)(Gem Software)(GB)"
+	description "Gempack 4 (1983)(Gem Software)(GB)"
+	rom ( name "Gempack 4 (1983)(Gem Software)(GB).tap" size 13432 crc e2c905c1 md5 4adec50afaf7faddb36f92d730053ddb sha1 6d9ef67a3a9b210acf855b91ec76673c0c5d4b0d )
+)
+

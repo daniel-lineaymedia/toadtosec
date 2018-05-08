@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Atari 5200 - Firmware"
+	description "Atari 5200 - Firmware (TOSEC-v2006-03-29)"
+	category "Atari 5200 - Firmware"
+	version 2006-03-29
+	author "Cassiel"
+)
+
+game (
+	name "Atari 5200 BIOS (1982)(Atari)"
+	description "Atari 5200 BIOS (1982)(Atari)"
+	rom ( name "Atari 5200 BIOS (1982)(Atari).bin" size 2048 crc 4248d3e3 md5 281f20ea4320404ec820fb7ec0693b38 )
+)

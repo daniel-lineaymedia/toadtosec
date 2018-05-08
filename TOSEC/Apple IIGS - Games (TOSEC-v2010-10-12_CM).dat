@@ -1,0 +1,3541 @@
+clrmamepro (
+	name "Apple IIGS - Games"
+	description "Apple IIGS - Games (TOSEC-v2010-10-12)"
+	category "Apple IIGS - Games"
+	version 2010-10-12
+	author "TKaos"
+)
+
+game (
+	name "4th & Inches (1988)(Accolade)(Disk 1 of 2)"
+	description "4th & Inches (1988)(Accolade)(Disk 1 of 2)"
+	rom ( name "4th & Inches (1988)(Accolade)(Disk 1 of 2).2mg" size 819264 crc 36fe7e66 md5 b5a8068b802b1a37dcc050dcc045d816 )
+)
+
+game (
+	name "4th & Inches (1988)(Accolade)(Disk 1 of 2)[a]"
+	description "4th & Inches (1988)(Accolade)(Disk 1 of 2)[a]"
+	rom ( name "4th & Inches (1988)(Accolade)(Disk 1 of 2)[a].2mg" size 819264 crc 527cbc63 md5 8292fecd1eae3c84867f46e0697a293d )
+)
+
+game (
+	name "4th & Inches (1988)(Accolade)(Disk 1 of 2)[development version]"
+	description "4th & Inches (1988)(Accolade)(Disk 1 of 2)[development version]"
+	rom ( name "4th & Inches (1988)(Accolade)(Disk 1 of 2)[development version].2mg" size 819268 crc 8446327f md5 fc3dd10b488aadce3455d61a510951fd )
+)
+
+game (
+	name "4th & Inches (1988)(Accolade)(Disk 2 of 2)"
+	description "4th & Inches (1988)(Accolade)(Disk 2 of 2)"
+	rom ( name "4th & Inches (1988)(Accolade)(Disk 2 of 2).2mg" size 819264 crc 7cb5a5a4 md5 83485901e0bfbcdea3c05af26bf0b7bc )
+)
+
+game (
+	name "Aaargh! (1988)(Arcadia Software)"
+	description "Aaargh! (1988)(Arcadia Software)"
+	rom ( name "Aaargh! (1988)(Arcadia Software).2mg" size 819269 crc 471c34ce md5 95b24811eeed20f271cd8f60e05285dd )
+)
+
+game (
+	name "Aaargh! (1988)(Arcadia Software)[a]"
+	description "Aaargh! (1988)(Arcadia Software)[a]"
+	rom ( name "Aaargh! (1988)(Arcadia Software)[a].2mg" size 819269 crc ef757f45 md5 b31d35fd91989370b8784a2b668ff003 )
+)
+
+game (
+	name "Airball (1989)(MicroDeal)"
+	description "Airball (1989)(MicroDeal)"
+	rom ( name "Airball (1989)(MicroDeal).2mg" size 819271 crc f85a1195 md5 25fa3fd31120342e6ec29a13f8320be2 )
+)
+
+game (
+	name "Airball (1989)(MicroDeal)[b][non boot]"
+	description "Airball (1989)(MicroDeal)[b][non boot]"
+	rom ( name "Airball (1989)(MicroDeal)[b][non boot].2mg" size 819271 crc e5d8b7b5 md5 94d0dbe773b1a62c58ceab2032d8aa2c )
+)
+
+game (
+	name "Alien Mind (1988)(PBI Software)(Disk 1 of 3)[b][non boot]"
+	description "Alien Mind (1988)(PBI Software)(Disk 1 of 3)[b][non boot]"
+	rom ( name "Alien Mind (1988)(PBI Software)(Disk 1 of 3)[b][non boot].2mg" size 819276 crc baae3009 md5 a7365ddcd9c70519354149b32044e0ac )
+)
+
+game (
+	name "Alien Mind (1988)(PBI Software)(Disk 2 of 3)[b][non boot]"
+	description "Alien Mind (1988)(PBI Software)(Disk 2 of 3)[b][non boot]"
+	rom ( name "Alien Mind (1988)(PBI Software)(Disk 2 of 3)[b][non boot].2mg" size 819276 crc 0be77419 md5 77c236f8a6e82bd3a37ecf635d3b30e9 )
+)
+
+game (
+	name "Alien Mind (1988)(PBI Software)(Disk 3 of 3)[b][non boot]"
+	description "Alien Mind (1988)(PBI Software)(Disk 3 of 3)[b][non boot]"
+	rom ( name "Alien Mind (1988)(PBI Software)(Disk 3 of 3)[b][non boot].2mg" size 819276 crc 182c6208 md5 d781c43e97e00845bfcc89503534d393 )
+)
+
+game (
+	name "Alien Mind (1988)(PBI Software)[b][Save non boot]"
+	description "Alien Mind (1988)(PBI Software)[b][Save non boot]"
+	rom ( name "Alien Mind (1988)(PBI Software)[b][Save non boot].2mg" size 819271 crc ba560a62 md5 acc32a13e67fed0cfc260c57cd06593f )
+)
+
+game (
+	name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)"
+	description "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)"
+	rom ( name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2).2mg" size 819264 crc 3f722e94 md5 bc425630d9128e4786e5445283366d1e )
+)
+
+game (
+	name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a]"
+	description "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a]"
+	rom ( name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a].2mg" size 819264 crc 83823f20 md5 ab21bc0561bad9439cf3825d8da13e60 )
+)
+
+game (
+	name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a2]"
+	description "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a2]"
+	rom ( name "Ancient Glory (1993)(Big Red Computer Club)(Disk 1 of 2)[a2].2mg" size 819264 crc ff3a2501 md5 edbd3fe41f1b63505dc87d262a92f375 )
+)
+
+game (
+	name "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2)"
+	description "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2)"
+	rom ( name "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2).2mg" size 819264 crc 22faa8ca md5 c53c833c0d3746b70001075ef66d8e81 )
+)
+
+game (
+	name "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2)[a]"
+	description "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2)[a]"
+	rom ( name "Ancient Glory (1993)(Big Red Computer Club)(Disk 2 of 2)[a].2mg" size 819264 crc 6e7de19f md5 385f3051a02d42a52e48b40472e748a5 )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2).2mg" size 819271 crc d7f1daf9 md5 51007fee8cc438a06cd851aca5c1dfc8 )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr]"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr]"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr].2mg" size 819264 crc cd4a4f35 md5 3884c41381a8d1107da725214c48ebcf )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr][a]"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr][a]"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 1 of 2)[cr][a].2mg" size 819271 crc c402186f md5 6cf59069e492b52cc6842ac8172c5c6a )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2).2mg" size 819268 crc 9135ad26 md5 633d19006d642e127e25dc52fa30d836 )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr]"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr]"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr].2mg" size 819268 crc 3df1572e md5 66c634e301a49ee2534756389847caf4 )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr][a]"
+	description "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr][a]"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)(Disk 2 of 2)[cr][a].2mg" size 819264 crc 4db74bf5 md5 39534d4f7128b6c7c7d04124b605430d )
+)
+
+game (
+	name "Ancient Land of Ys (1989)(Kyodai)[save]"
+	description "Ancient Land of Ys (1989)(Kyodai)[save]"
+	rom ( name "Ancient Land of Ys (1989)(Kyodai)[save].2mg" size 838484 crc 5dff392e md5 f4c231f0acb3f38d08dce505f88b2956 )
+)
+
+game (
+	name "Arkanoid (1988)(Taito)(US)"
+	description "Arkanoid (1988)(Taito)(US)"
+	rom ( name "Arkanoid (1988)(Taito)(US).2mg" size 819272 crc 47a1f89e md5 be6e958edb819e09560ce04b64a3d6c8 )
+)
+
+game (
+	name "Arkanoid (1988)(Taito)(US)[a]"
+	description "Arkanoid (1988)(Taito)(US)[a]"
+	rom ( name "Arkanoid (1988)(Taito)(US)[a].2mg" size 819272 crc 388ebfbe md5 751a4219e03017bea929d26628e252f8 )
+)
+
+game (
+	name "Arkanoid (1988)(Taito)(US)[cr]"
+	description "Arkanoid (1988)(Taito)(US)[cr]"
+	rom ( name "Arkanoid (1988)(Taito)(US)[cr].2mg" size 819272 crc 1dd18a31 md5 9e5081e8f62a5dce8801d4aa26bccced )
+)
+
+game (
+	name "Arkanoid II - Revenge of Doh (1989)(Taito)(US)"
+	description "Arkanoid II - Revenge of Doh (1989)(Taito)(US)"
+	rom ( name "Arkanoid II - Revenge of Doh (1989)(Taito)(US).2mg" size 819275 crc 803bc367 md5 92a892e30da8e4a8e42336c404f50a42 )
+)
+
+game (
+	name "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t]"
+	description "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t]"
+	rom ( name "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t].2mg" size 819275 crc 4342bbe4 md5 c275e0f3ab0919f82598950f13454b7e )
+)
+
+game (
+	name "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t][a]"
+	description "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t][a]"
+	rom ( name "Arkanoid II - Revenge of Doh (1989)(Taito)(US)[cr][t][a].2mg" size 819275 crc 10857bbf md5 0b2737973318662eff2d8aeb95d485f8 )
+)
+
+game (
+	name "As the Link Turns (1988)(Rogue Systems)(SW)"
+	description "As the Link Turns (1988)(Rogue Systems)(SW)"
+	rom ( name "As the Link Turns (1988)(Rogue Systems)(SW).2mg" size 819264 crc 9d0372f9 md5 7cd43587cfb5dbd959188c74d533689e )
+)
+
+game (
+	name "Balance of Power - The 1990 Edition (1989)(Mindscape)"
+	description "Balance of Power - The 1990 Edition (1989)(Mindscape)"
+	rom ( name "Balance of Power - The 1990 Edition (1989)(Mindscape).2mg" size 819272 crc a8b4abf8 md5 e41799f6739ad32d26bc584bdb71e664 )
+)
+
+game (
+	name "Balance of Power - The 1990 Edition (1989)(Mindscape)[cr][non boot]"
+	description "Balance of Power - The 1990 Edition (1989)(Mindscape)[cr][non boot]"
+	rom ( name "Balance of Power - The 1990 Edition (1989)(Mindscape)[cr][non boot].2mg" size 819272 crc b2d89df0 md5 d0d6f06ab3e3941e69de02a69f6da4f4 )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2).2mg" size 819274 crc eff4bb27 md5 40f20ea7d3636f31cef06b29eac12902 )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a]"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a]"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a].2mg" size 819264 crc b695e343 md5 09e9e86abb1eef96b2c7bf7e262070bb )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a2]"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a2]"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[a2].2mg" size 819274 crc 301e57ec md5 62106a71bb3b4f49b9b27854d45d9d0c )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[GS OS]"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[GS OS]"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 1 of 2)[GS OS].2mg" size 819264 crc f620807e md5 f2cc1dcda8ec7521ab8b9c2a90cf6068 )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 2 of 2)[Character]"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 2 of 2)[Character]"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(Disk 2 of 2)[Character].2mg" size 819264 crc 1bda3dc5 md5 7d2385ddc6273197a698105ee5c27cc3 )
+)
+
+game (
+	name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(fr)(Disk 1 of 2)"
+	description "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(fr)(Disk 1 of 2)"
+	rom ( name "Bard's Tale - Tales of the Unknown, The (1987)(Electronic Arts)(fr)(Disk 1 of 2).2mg" size 819264 crc 12fd5497 md5 afb8d8fc72620b7536d173825b4792dd )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2).2mg" size 819278 crc 7d5159e9 md5 01791b8b13419a0557731814c68aaa8e )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a]"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a]"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a].2mg" size 819264 crc 5b497174 md5 2b8225d33c31f9a1ce437a1e107a7ee7 )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a2]"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a2]"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a2].2mg" size 819278 crc f6e2c61d md5 e3977518652389179d4e8a050adf9d70 )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a3]"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a3]"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[a3].2mg" size 819278 crc e16a6c76 md5 9692c40d3c0c3f624f3be58ff60dc3e7 )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[GS OS]"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[GS OS]"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 1 of 2)[GS OS].2mg" size 819264 crc fed1cd88 md5 f8bf135e4fa93de20931ef89fa52645a )
+)
+
+game (
+	name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 2 of 2)[Character]"
+	description "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 2 of 2)[Character]"
+	rom ( name "Bard's Tale II - The Destiny Knight, The (1988)(Electronic Arts)(Disk 2 of 2)[Character].2mg" size 819264 crc fa91f5db md5 b6617b8bf762752789c45105f75e09e3 )
+)
+
+game (
+	name "Battle Chess (1989)(Interplay)"
+	description "Battle Chess (1989)(Interplay)"
+	rom ( name "Battle Chess (1989)(Interplay).2mg" size 819274 crc 8a659aa7 md5 a176362f384220560fd7a587f7f7037c )
+)
+
+game (
+	name "Battle Chess (1989)(Interplay)[b][non boot]"
+	description "Battle Chess (1989)(Interplay)[b][non boot]"
+	rom ( name "Battle Chess (1989)(Interplay)[b][non boot].2mg" size 819274 crc e28100a3 md5 ae9d648c858f0de10999eb1b1137d1e3 )
+)
+
+game (
+	name "Battle Chess (1989)(Interplay)[cr][b]"
+	description "Battle Chess (1989)(Interplay)[cr][b]"
+	rom ( name "Battle Chess (1989)(Interplay)[cr][b].2mg" size 819264 crc e9d2843c md5 2a6c339017b099a68849c7ef3908c37c )
+)
+
+game (
+	name "Beyond Zork (1988)(Infocom)"
+	description "Beyond Zork (1988)(Infocom)"
+	rom ( name "Beyond Zork (1988)(Infocom).2mg" size 819264 crc dd4d8ce7 md5 12ea955b8d398fc0dd03b1ae26df7d05 )
+)
+
+game (
+	name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)"
+	description "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)"
+	rom ( name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2).2mg" size 819264 crc ae555dd9 md5 fa84d3eecb138cc93d5572de62a0ccd8 )
+)
+
+game (
+	name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a]"
+	description "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a].2mg" size 819264 crc 1d7a912b md5 fe96542244a3499972c3c37363f5aa9e )
+)
+
+game (
+	name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a2]"
+	description "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a2]"
+	rom ( name "Black Cauldron, The (1987)(Sierra)(Disk 1 of 2)[a2].2mg" size 819264 crc b99d0c4b md5 8ec3a9686668a45427ba22dfa35cc798 )
+)
+
+game (
+	name "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2)"
+	description "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2)"
+	rom ( name "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2).2mg" size 819264 crc 8975d132 md5 397be52e437b659f9cdd1c84046be576 )
+)
+
+game (
+	name "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2)[a]"
+	description "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Black Cauldron, The (1987)(Sierra)(Disk 2 of 2)[a].2mg" size 819264 crc 0b30765a md5 61983eba970c61e114f7a9eb65d16a7f )
+)
+
+game (
+	name "Blackjack Academy (1988)(MicroIllusions)"
+	description "Blackjack Academy (1988)(MicroIllusions)"
+	rom ( name "Blackjack Academy (1988)(MicroIllusions).2mg" size 819271 crc 7b59b888 md5 2624dcf9bc64b4f9ed39604122111b56 )
+)
+
+game (
+	name "Blackjack Academy (1988)(MicroIllusions)[cr]"
+	description "Blackjack Academy (1988)(MicroIllusions)[cr]"
+	rom ( name "Blackjack Academy (1988)(MicroIllusions)[cr].2mg" size 819271 crc c79f2b36 md5 e996f87ceaf618f8a1535f6d4a60fd15 )
+)
+
+game (
+	name "Block Out (1989)(California Dreams)"
+	description "Block Out (1989)(California Dreams)"
+	rom ( name "Block Out (1989)(California Dreams).2mg" size 819273 crc 7d2f3567 md5 d33bd3d93679ee919870499a78e44e52 )
+)
+
+game (
+	name "Block Out (1989)(California Dreams)[cr]"
+	description "Block Out (1989)(California Dreams)[cr]"
+	rom ( name "Block Out (1989)(California Dreams)[cr].2mg" size 819273 crc edbd8321 md5 2259e4bc631335995eb9f600941183a0 )
+)
+
+game (
+	name "Blue Angels (1990)(Accolade)[a][unreleased]"
+	description "Blue Angels (1990)(Accolade)[a][unreleased]"
+	rom ( name "Blue Angels (1990)(Accolade)[a][unreleased].2mg" size 819264 crc 8b4adc1f md5 a987ab88b39d1dc4cb292c371c46fe0b )
+)
+
+game (
+	name "Blue Angels (1990)(Accolade)[unreleased]"
+	description "Blue Angels (1990)(Accolade)[unreleased]"
+	rom ( name "Blue Angels (1990)(Accolade)[unreleased].2mg" size 819264 crc 30d1441c md5 da00d0d13fbd9008a7b73fdf03dacfc9 )
+)
+
+game (
+	name "Blue Helmet (19xx)(-)[b]"
+	description "Blue Helmet (19xx)(-)[b]"
+	rom ( name "Blue Helmet (19xx)(-)[b].2mg" size 819264 crc 1a3f88ba md5 90c799a72ac322e694e68b807f11386e )
+)
+
+game (
+	name "Bouncin' Ferno (1991)(Free Tools Association)(FW)"
+	description "Bouncin' Ferno (1991)(Free Tools Association)(FW)"
+	rom ( name "Bouncin' Ferno (1991)(Free Tools Association)(FW).2mg" size 819264 crc 78549da0 md5 764508eec6544bb62b07d6558d084735 )
+)
+
+game (
+	name "Bouncin' Ferno (1991)(Free Tools Association)(FW)[a]"
+	description "Bouncin' Ferno (1991)(Free Tools Association)(FW)[a]"
+	rom ( name "Bouncin' Ferno (1991)(Free Tools Association)(FW)[a].2mg" size 819264 crc 2ff12f7a md5 cfa8e62a18f13644a24dfec9f9feeea2 )
+)
+
+game (
+	name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2)"
+	description "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2)"
+	rom ( name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2).2mg" size 819264 crc 9a523c4d md5 8d53e72ebb9bbf98a366b8f9b86b35e5 )
+)
+
+game (
+	name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2)[a]"
+	description "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2)[a]"
+	rom ( name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 1 of 2)[a].2mg" size 819264 crc 0239ef51 md5 2938c873aee1a28c388bb51d69121cd3 )
+)
+
+game (
+	name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 2 of 2)"
+	description "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 2 of 2)"
+	rom ( name "Bouncing Bluster (1989)(Fantasia Entertainment)(FW)(Disk 2 of 2).2mg" size 819264 crc def09bd5 md5 f40e9e7a950c934f77d100a0c8f35efb )
+)
+
+game (
+	name "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx)"
+	description "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx)"
+	rom ( name "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx).2mg" size 819264 crc a9f4efa9 md5 37cc40355c9ffd0df1f5726b70254557 )
+)
+
+game (
+	name "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx)[b][non boot]"
+	description "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx)[b][non boot]"
+	rom ( name "Bridge 6.0 - Your Bid For Entertainment (1989)(Artworx)[b][non boot].2mg" size 819264 crc faec8ce8 md5 b9629b35208695d02b5f8f816239d0e7 )
+)
+
+game (
+	name "Bubble Ghost (1988)(Accolade)"
+	description "Bubble Ghost (1988)(Accolade)"
+	rom ( name "Bubble Ghost (1988)(Accolade).2mg" size 819276 crc c57489ab md5 0d692df7a3c70bb83a6e276f0b61773a )
+)
+
+game (
+	name "Bubble Ghost (1988)(Accolade)[cr]"
+	description "Bubble Ghost (1988)(Accolade)[cr]"
+	rom ( name "Bubble Ghost (1988)(Accolade)[cr].2mg" size 819276 crc 2bcf1a7a md5 93f2ffd5224275114b76c37910c610f1 )
+)
+
+game (
+	name "California Games (1988)(Epyx)[cr]"
+	description "California Games (1988)(Epyx)[cr]"
+	rom ( name "California Games (1988)(Epyx)[cr].2mg" size 819279 crc 487a1e51 md5 c2ad25dbb865b33155e95f6111c037d3 )
+)
+
+game (
+	name "Captain Blood (1989)(Mindscape)"
+	description "Captain Blood (1989)(Mindscape)"
+	rom ( name "Captain Blood (1989)(Mindscape).2mg" size 819276 crc baa8f5f4 md5 3247d8d8310ab3a5f8264168c5421d7c )
+)
+
+game (
+	name "Captain Blood (1989)(Mindscape)[a]"
+	description "Captain Blood (1989)(Mindscape)[a]"
+	rom ( name "Captain Blood (1989)(Mindscape)[a].2mg" size 819276 crc 43f1e2ab md5 114500648227dec7c38e319bf8d7d7e1 )
+)
+
+game (
+	name "Captain Blood (1989)(Mindscape)[cr]"
+	description "Captain Blood (1989)(Mindscape)[cr]"
+	rom ( name "Captain Blood (1989)(Mindscape)[cr].2mg" size 819264 crc 6dfef714 md5 d1cf423cb5932dce87dd968a43fe3df7 )
+)
+
+game (
+	name "Cavern Cobra (1987)(PBI Software)"
+	description "Cavern Cobra (1987)(PBI Software)"
+	rom ( name "Cavern Cobra (1987)(PBI Software).2mg" size 819264 crc 8c0301f1 md5 37d8dbf5014cb0a5ac84cdefaa35f4c6 )
+)
+
+game (
+	name "Club Backgammon (1988)(California Dreams)"
+	description "Club Backgammon (1988)(California Dreams)"
+	rom ( name "Club Backgammon (1988)(California Dreams).2mg" size 819273 crc fd78e5e4 md5 c0e764be8901d7ad8d96fddd3b75224c )
+)
+
+game (
+	name "Club Backgammon (1988)(California Dreams)[cr][b]"
+	description "Club Backgammon (1988)(California Dreams)[cr][b]"
+	rom ( name "Club Backgammon (1988)(California Dreams)[cr][b].2mg" size 819273 crc e21def10 md5 fa408a072bc9f37a4fed429b7999e3a9 )
+)
+
+game (
+	name "Cogito (1992)(Brutal Deluxe)(FW)"
+	description "Cogito (1992)(Brutal Deluxe)(FW)"
+	rom ( name "Cogito (1992)(Brutal Deluxe)(FW).2mg" size 819264 crc 1bf7118d md5 bf3bfdef64c467916720bb5ef7ca7b87 )
+)
+
+game (
+	name "Columns v2.0 (1991)(Sound Barrier Systems)(SW)"
+	description "Columns v2.0 (1991)(Sound Barrier Systems)(SW)"
+	rom ( name "Columns v2.0 (1991)(Sound Barrier Systems)(SW).2mg" size 819264 crc 3b8de608 md5 4d3b0a5cccb3e45d01b96b8d9b1ea0f1 )
+)
+
+game (
+	name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)"
+	description "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)"
+	rom ( name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2).2mg" size 819264 crc dd224e1c md5 1c94b5c376b0019d327defd03437fc15 )
+)
+
+game (
+	name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a]"
+	description "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a]"
+	rom ( name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a].2mg" size 819264 crc 5daa69b4 md5 4104b22d823e529ba0ea1910ef58e749 )
+)
+
+game (
+	name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a2]"
+	description "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a2]"
+	rom ( name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 1 of 2)[a2].2mg" size 819264 crc 7beade33 md5 bba540a40927bed80aa91551d45c0cef )
+)
+
+game (
+	name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2)"
+	description "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2)"
+	rom ( name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2).2mg" size 819264 crc 54e59b5c md5 f7b7a89d7924a5dc9585c7a37a2902a1 )
+)
+
+game (
+	name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2)[a]"
+	description "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2)[a]"
+	rom ( name "Cosmocade - The Arcade of Tomorrow (1990)(Pangea Software)(SW)(Disk 2 of 2)[a].2mg" size 819264 crc 270f9f6a md5 511ba29c9b98327a574454baeb926e36 )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program)"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program)"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program).2mg" size 819264 crc 60dfaab9 md5 84100a5a9a32d40a95dbcca9cd5d8e49 )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program)[a]"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program)[a]"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 1 of 3)(Program)[a].2mg" size 819264 crc 5bb2a4f6 md5 d7d1aa262bcd884185911c46b10745c8 )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System)"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System)"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System).2mg" size 819264 crc d91daec2 md5 53a060bcf99dffadd825b007a451f1e6 )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System)[a]"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System)[a]"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 2 of 3)(System)[a].2mg" size 819264 crc fb6efbd4 md5 ddf67cf826b35f38d84c7c16ad9f110b )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor)"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor)"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor).2mg" size 819264 crc 9e1169d6 md5 21712d6f41e2b95e3fdcf9b3907ec6f4 )
+)
+
+game (
+	name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor)[a]"
+	description "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor)[a]"
+	rom ( name "Cryllan Mission 2088 - The Second Scenario, The (1990)(Victory Software)(Disk 3 of 3)(Outdoor)[a].2mg" size 819264 crc 48c089a5 md5 f5b38b0a9806ca156deaf8f44054269c )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4)"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4)"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4).2mg" size 819264 crc 8f10348a md5 fea84c8a996c72d54b8b186514c8499d )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4)[a]"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4)[a]"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 1 of 4)[a].2mg" size 819264 crc 1ed86790 md5 d0dd49d6d4e3c679b701b2846ecf9759 )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4)"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4)"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4).2mg" size 819264 crc f9933cff md5 7047a2eb493b1468247623fd36d3a0cd )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4)[a]"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4)[a]"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 2 of 4)[a].2mg" size 819264 crc 39fc6128 md5 b8e4c4641de4f9fd8115c6d576d19b05 )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4)"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4)"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4).2mg" size 819264 crc fcd842cb md5 2e0282f19089bce938375ff243ad76b0 )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4)[a]"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4)[a]"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 3 of 4)[a].2mg" size 819264 crc e3d2b0ec md5 f1b8626474dcb294d3fbd24381ccf0a9 )
+)
+
+game (
+	name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 4 of 4)"
+	description "Cryllan Mission 2088 (1989)(Victory Software)(Disk 4 of 4)"
+	rom ( name "Cryllan Mission 2088 (1989)(Victory Software)(Disk 4 of 4).2mg" size 819264 crc d3a4ab69 md5 5d7718f788a7eebb44441952f65cbda1 )
+)
+
+game (
+	name "Crystal Quest (1989)(Cassidy & Greene)"
+	description "Crystal Quest (1989)(Cassidy & Greene)"
+	rom ( name "Crystal Quest (1989)(Cassidy & Greene).2mg" size 819277 crc 803467f5 md5 31850bd32f2c6534bf4b5cd5120d6503 )
+)
+
+game (
+	name "Crystal Quest (1989)(Cassidy & Greene)[a]"
+	description "Crystal Quest (1989)(Cassidy & Greene)[a]"
+	rom ( name "Crystal Quest (1989)(Cassidy & Greene)[a].2mg" size 819277 crc ee71588c md5 5c52c4599ccd0ccfbefd0dc358900a30 )
+)
+
+game (
+	name "Dark Castle (1989)(Three Sixty)(Disk 1 of 2)"
+	description "Dark Castle (1989)(Three Sixty)(Disk 1 of 2)"
+	rom ( name "Dark Castle (1989)(Three Sixty)(Disk 1 of 2).2mg" size 819267 crc c211b7b8 md5 20dd1c4333e4dd53e59b4201f8dfc565 )
+)
+
+game (
+	name "Dark Castle (1989)(Three Sixty)(Disk 1 of 2)[non boot]"
+	description "Dark Castle (1989)(Three Sixty)(Disk 1 of 2)[non boot]"
+	rom ( name "Dark Castle (1989)(Three Sixty)(Disk 1 of 2)[non boot].2mg" size 819267 crc 44b4861e md5 155879e77093a72cc363d7733dd1f965 )
+)
+
+game (
+	name "Dark Castle (1989)(Three Sixty)(Disk 2 of 2)[non boot]"
+	description "Dark Castle (1989)(Three Sixty)(Disk 2 of 2)[non boot]"
+	rom ( name "Dark Castle (1989)(Three Sixty)(Disk 2 of 2)[non boot].2mg" size 819267 crc e8ead016 md5 210afa163063daecc88e7d8052f5259f )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2)"
+	description "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2)"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2).2mg" size 819270 crc a7bb6e9b md5 8a18410fd7fba04c663606bce219b122 )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2)[a]"
+	description "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2)[a]"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(Disk 1 of 2)[a].2mg" size 819270 crc 2d6aff02 md5 ccc1ca06c7f907ddf5623abf8eb15c74 )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2)"
+	description "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2)"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2).2mg" size 819270 crc d2b7bfed md5 42a1db26b520afe9c24ac5870f7581c0 )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2)[a]"
+	description "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2)[a]"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(Disk 2 of 2)[a].2mg" size 819270 crc 36c8dd64 md5 7c90ffb00fa73328ad2cef114507a656 )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 1 of 2)"
+	description "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 1 of 2)"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 1 of 2).2mg" size 819264 crc fd39fb46 md5 0aa1f6471ca7ac295a1de30203aed196 )
+)
+
+game (
+	name "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 2 of 2)"
+	description "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 2 of 2)"
+	rom ( name "Defender of The Crown (1989)(Cinemaware)(fr)(Disk 2 of 2).2mg" size 819264 crc 74f9ff18 md5 34c235538d883a20e53c00b8466b363a )
+)
+
+game (
+	name "Defender of the World (199x)(Ong Tat-Wee, David)"
+	description "Defender of the World (199x)(Ong Tat-Wee, David)"
+	rom ( name "Defender of the World (199x)(Ong Tat-Wee, David).2mg" size 819264 crc 08c6291c md5 33749888339cfe05e527cd7748d66c31 )
+)
+
+game (
+	name "Deja Vu (1988)(Mindscape)[b][non boot]"
+	description "Deja Vu (1988)(Mindscape)[b][non boot]"
+	rom ( name "Deja Vu (1988)(Mindscape)[b][non boot].2mg" size 819264 crc c7c2f947 md5 e7824e9c206b299aadf587c0cb39d2b0 )
+)
+
+game (
+	name "Deja Vu (1988)(Mindscape)[non boot]"
+	description "Deja Vu (1988)(Mindscape)[non boot]"
+	rom ( name "Deja Vu (1988)(Mindscape)[non boot].2mg" size 819271 crc e807c185 md5 f12e9ef6068a154eaa4438fa41428118 )
+)
+
+game (
+	name "Deja Vu II (1989)(Mindscape)[b][non boot]"
+	description "Deja Vu II (1989)(Mindscape)[b][non boot]"
+	rom ( name "Deja Vu II (1989)(Mindscape)[b][non boot].2mg" size 819264 crc 38012f85 md5 e7e61c02740196fca9ea5927319750b8 )
+)
+
+game (
+	name "Deja Vu II (1989)(Mindscape)[non boot]"
+	description "Deja Vu II (1989)(Mindscape)[non boot]"
+	rom ( name "Deja Vu II (1989)(Mindscape)[non boot].2mg" size 819272 crc ce332383 md5 c83328f13776c0a9245ac02d1556494e )
+)
+
+game (
+	name "Destroyer (1987)(Epyx)"
+	description "Destroyer (1987)(Epyx)"
+	rom ( name "Destroyer (1987)(Epyx).2mg" size 819273 crc c9fa5491 md5 c1f9167c4d379f43d6acb72678b99a11 )
+)
+
+game (
+	name "Destroyer (1987)(Epyx)[a]"
+	description "Destroyer (1987)(Epyx)[a]"
+	rom ( name "Destroyer (1987)(Epyx)[a].2mg" size 819273 crc e4eeaeee md5 6067ab231165f876a02bbc0d88aae31a )
+)
+
+game (
+	name "Downhill Challenge (1989)(Broderbund)(Disk 1 of 2)[system]"
+	description "Downhill Challenge (1989)(Broderbund)(Disk 1 of 2)[system]"
+	rom ( name "Downhill Challenge (1989)(Broderbund)(Disk 1 of 2)[system].2mg" size 819279 crc b3190d0f md5 eb7a217d6aa916f58f61260269ea0c38 )
+)
+
+game (
+	name "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2)"
+	description "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2)"
+	rom ( name "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2).2mg" size 819277 crc 01f2ae04 md5 5d07f3b529be3ba6c508876a8476819a )
+)
+
+game (
+	name "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2)[cr]"
+	description "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2)[cr]"
+	rom ( name "Downhill Challenge (1989)(Broderbund)(Disk 2 of 2)[cr].2mg" size 819277 crc a45bd1ab md5 9d66ded4d16bd3c15b94c43d758694e3 )
+)
+
+game (
+	name "Dragon Wars (1990)(Interplay)"
+	description "Dragon Wars (1990)(Interplay)"
+	rom ( name "Dragon Wars (1990)(Interplay).2mg" size 819271 crc 70108356 md5 935056b1247bcc93df4d11d175cf4e89 )
+)
+
+game (
+	name "Dragon Wars (1990)(Interplay)[a][non boot]"
+	description "Dragon Wars (1990)(Interplay)[a][non boot]"
+	rom ( name "Dragon Wars (1990)(Interplay)[a][non boot].2mg" size 819264 crc aa9eb4c5 md5 1979285d4569c066453c99b3f9257407 )
+)
+
+game (
+	name "Dragon Wars (1990)(Interplay)[non boot]"
+	description "Dragon Wars (1990)(Interplay)[non boot]"
+	rom ( name "Dragon Wars (1990)(Interplay)[non boot].2mg" size 819271 crc 04744585 md5 6e099de599326b69f6ae2d303846c210 )
+)
+
+game (
+	name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b]"
+	description "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b]"
+	rom ( name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b].2mg" size 819264 crc b9621c49 md5 4f0c9018dd1fbaee9bc64c6bd8d50ebb )
+)
+
+game (
+	name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b2]"
+	description "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b2]"
+	rom ( name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b2].2mg" size 819264 crc 7e310ffc md5 eefa4a1e84a0fbb4675089d8fa9331e8 )
+)
+
+game (
+	name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b3]"
+	description "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b3]"
+	rom ( name "Dream Zone (1988)(Baudville)(Disk 1 of 2)[b3].2mg" size 819264 crc 6bbbeed2 md5 6af2da52f73e17ec2943894de240d741 )
+)
+
+game (
+	name "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b]"
+	description "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b]"
+	rom ( name "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b].2mg" size 819264 crc c1c5bcd6 md5 ff90b4400ad2cc4d3e84b15d007e107c )
+)
+
+game (
+	name "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b2]"
+	description "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b2]"
+	rom ( name "Dream Zone (1988)(Baudville)(Disk 2 of 2)[b2].2mg" size 819264 crc 37970581 md5 7f6af25c79dd75e71d1d09e2ff397396 )
+)
+
+game (
+	name "Dueltris (1992)(DreamWorld)(FW)[a][non boot]"
+	description "Dueltris (1992)(DreamWorld)(FW)[a][non boot]"
+	rom ( name "Dueltris (1992)(DreamWorld)(FW)[a][non boot].2mg" size 819264 crc af0418a3 md5 ac7988209b52ebc6bb2d3fce166080f1 )
+)
+
+game (
+	name "Dueltris (1992)(DreamWorld)(FW)[non boot]"
+	description "Dueltris (1992)(DreamWorld)(FW)[non boot]"
+	rom ( name "Dueltris (1992)(DreamWorld)(FW)[non boot].2mg" size 819264 crc f76e7d8a md5 43ffd92a28f4faa5fa4a0827e7b5aa20 )
+)
+
+game (
+	name "Dungeon Master (1989)(FTL)"
+	description "Dungeon Master (1989)(FTL)"
+	rom ( name "Dungeon Master (1989)(FTL).2mg" size 819270 crc 56a7cf65 md5 25403b0231119f1253991124fdd06aee )
+)
+
+game (
+	name "Dungeon Master (1989)(FTL)[a]"
+	description "Dungeon Master (1989)(FTL)[a]"
+	rom ( name "Dungeon Master (1989)(FTL)[a].2mg" size 819264 crc ce127770 md5 4019bdab929a9f680fb0135022eeb599 )
+)
+
+game (
+	name "Dungeon Master (1989)(FTL)[b][non boot]"
+	description "Dungeon Master (1989)(FTL)[b][non boot]"
+	rom ( name "Dungeon Master (1989)(FTL)[b][non boot].2mg" size 819264 crc 9bf8f28f md5 e4c7c934ca45e51e8ac60d3f1c748bf4 )
+)
+
+game (
+	name "Dungeon Master (1989)(FTL)[cr][non boot]"
+	description "Dungeon Master (1989)(FTL)[cr][non boot]"
+	rom ( name "Dungeon Master (1989)(FTL)[cr][non boot].2mg" size 819840 crc 4745d354 md5 eddd86b369eb1703878ae501770888c6 )
+)
+
+game (
+	name "Dungeon Master (demo) (1989)(FTL)(FW)"
+	description "Dungeon Master (demo) (1989)(FTL)(FW)"
+	rom ( name "Dungeon Master (demo) (1989)(FTL)(FW).2mg" size 819264 crc 9dd7bc29 md5 5ac8f2c1c6ac74efcfec673e68ecfa3f )
+)
+
+game (
+	name "Fast Break (1989)(Accolade)"
+	description "Fast Break (1989)(Accolade)"
+	rom ( name "Fast Break (1989)(Accolade).2mg" size 819271 crc f4946adb md5 4c6e3de022ca430aaf32fcdab207cce6 )
+)
+
+game (
+	name "Fast Break (1989)(Accolade)[cr]"
+	description "Fast Break (1989)(Accolade)[cr]"
+	rom ( name "Fast Break (1989)(Accolade)[cr].2mg" size 819264 crc 8d4331bf md5 e8ea96a8a78cf9fac736c0d6785802b1 )
+)
+
+game (
+	name "Fast Break (1989)(Accolade)[cr2]"
+	description "Fast Break (1989)(Accolade)[cr2]"
+	rom ( name "Fast Break (1989)(Accolade)[cr2].2mg" size 819271 crc e18cc7db md5 3f4c6d5174851a85d74935fc31e634cc )
+)
+
+game (
+	name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2)"
+	description "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2)"
+	rom ( name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2).2mg" size 819264 crc 4dfaeaf7 md5 542caf52cf078ab06cedfb43105c8e08 )
+)
+
+game (
+	name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2)[cr]"
+	description "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2)[cr]"
+	rom ( name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 1 of 2)[cr].2mg" size 819264 crc aab80067 md5 94f48570fcdc077a9ebae8d35adb5f03 )
+)
+
+game (
+	name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2)"
+	description "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2)"
+	rom ( name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2).2mg" size 819264 crc 6a25ea51 md5 4219d840dab09fbc7457986cb7ed579d )
+)
+
+game (
+	name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2)[cr]"
+	description "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2)[cr]"
+	rom ( name "Fidelity - Chessmaster 2100, The (1988)(The Software Toolworks)(Disk 2 of 2)[cr].2mg" size 819264 crc 8201d956 md5 ead25332c981d54e2644e5b9f20eb13a )
+)
+
+game (
+	name "Final Assault (1988)(Epyx)"
+	description "Final Assault (1988)(Epyx)"
+	rom ( name "Final Assault (1988)(Epyx).2mg" size 819276 crc c5e2c460 md5 9565186a6098e361e2f19638b41ca9dc )
+)
+
+game (
+	name "Final Assault (1988)(Epyx)[a]"
+	description "Final Assault (1988)(Epyx)[a]"
+	rom ( name "Final Assault (1988)(Epyx)[a].2mg" size 819276 crc cfcb2a10 md5 df65caa755df7884d866e055425700a0 )
+)
+
+game (
+	name "Firepower (1989)(MicroIllusions)"
+	description "Firepower (1989)(MicroIllusions)"
+	rom ( name "Firepower (1989)(MicroIllusions).2mg" size 819273 crc a651c8b3 md5 f9b1e8c7b97087c32966f2a26cda0561 )
+)
+
+game (
+	name "Full Metal Planete (1993)(Infogrammes)(fr)"
+	description "Full Metal Planete (1993)(Infogrammes)(fr)"
+	rom ( name "Full Metal Planete (1993)(Infogrammes)(fr).2mg" size 819264 crc 3031347d md5 730d1be232224e3f3d0a8038bb405012 )
+)
+
+game (
+	name "Full Metal Planete (1993)(Infogrammes)(fr)[b][non boot]"
+	description "Full Metal Planete (1993)(Infogrammes)(fr)[b][non boot]"
+	rom ( name "Full Metal Planete (1993)(Infogrammes)(fr)[b][non boot].2mg" size 819264 crc ce4dc82e md5 6989ed20f51428e79bf2da9bad43921f )
+)
+
+game (
+	name "Future Shock 3D (1989)(Neeka Electronics)[b]"
+	description "Future Shock 3D (1989)(Neeka Electronics)[b]"
+	rom ( name "Future Shock 3D (1989)(Neeka Electronics)[b].2mg" size 819264 crc 5801fd9f md5 2b5a5f1ec0fa43ffc09f95f98828bdec )
+)
+
+game (
+	name "Gate, The (1992)(Seven Hills Software)(Disk 1 of 3)"
+	description "Gate, The (1992)(Seven Hills Software)(Disk 1 of 3)"
+	rom ( name "Gate, The (1992)(Seven Hills Software)(Disk 1 of 3).2mg" size 819264 crc da0e9efd md5 34b2a1cdbb4e891cc1773a164d9dba2b )
+)
+
+game (
+	name "Gate, The (1992)(Seven Hills Software)(Disk 2 of 3)"
+	description "Gate, The (1992)(Seven Hills Software)(Disk 2 of 3)"
+	rom ( name "Gate, The (1992)(Seven Hills Software)(Disk 2 of 3).2mg" size 819264 crc 375719dd md5 fe41f4409614b71670408c279fa56d0d )
+)
+
+game (
+	name "Gate, The (1992)(Seven Hills Software)(Disk 3 of 3)[savedisk]"
+	description "Gate, The (1992)(Seven Hills Software)(Disk 3 of 3)[savedisk]"
+	rom ( name "Gate, The (1992)(Seven Hills Software)(Disk 3 of 3)[savedisk].2mg" size 819264 crc 3cb954c1 md5 c06ac8290cab84ffc1e778a1413fd984 )
+)
+
+game (
+	name "Gate, The (demo) (1990)(Seven Hills Software)(FW)"
+	description "Gate, The (demo) (1990)(Seven Hills Software)(FW)"
+	rom ( name "Gate, The (demo) (1990)(Seven Hills Software)(FW).2mg" size 819264 crc 2fd93235 md5 8397bce2d2090efbe2c21ad44363a162 )
+)
+
+game (
+	name "Gauntlet (1988)(Mindscape)"
+	description "Gauntlet (1988)(Mindscape)"
+	rom ( name "Gauntlet (1988)(Mindscape).2mg" size 819272 crc 16588690 md5 f827c627eb110b8bcd4aa1d7fead177c )
+)
+
+game (
+	name "Gauntlet (1988)(Mindscape)[a]"
+	description "Gauntlet (1988)(Mindscape)[a]"
+	rom ( name "Gauntlet (1988)(Mindscape)[a].2mg" size 819272 crc dfbbb4ba md5 9bd4b4b5a54a5720e1d848dca5a4c840 )
+)
+
+game (
+	name "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision)"
+	description "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision)"
+	rom ( name "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision).2mg" size 819267 crc 90b1cab6 md5 aecb0270a8d4cd3055ba854192f569af )
+)
+
+game (
+	name "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision)[cr]"
+	description "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision)[cr]"
+	rom ( name "GBA Championship Basketball - Two-On-Two (1987)(Gamestar - Activision)[cr].2mg" size 819267 crc 6aa073dc md5 d5d06a5cda27c2acd532a4979ca4fbb1 )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2).2mg" size 819270 crc 18eabb8a md5 10e28f7ddd161200e409a09d15421d6f )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr]"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr]"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr].2mg" size 819270 crc a897ce27 md5 4df341d85a3b86533d6face74246af02 )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr2]"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr2]"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 1 of 2)[cr2].2mg" size 819264 crc e6eec6cb md5 cfe7e6d6654d90a55de6fbebacef4d7e )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2).2mg" size 819270 crc 817db130 md5 44d0a99399512c67a55355544587a7c1 )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[a]"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[a]"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[a].2mg" size 819264 crc 25b09ae6 md5 993a6a366b7d69cd127029edeed9f03c )
+)
+
+game (
+	name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[cr]"
+	description "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[cr]"
+	rom ( name "Gnarly Golf (1989)(Fanfare)(Disk 2 of 2)[cr].2mg" size 819270 crc 48aaab59 md5 6c73834881c78b549e65d1b7bf59a2cb )
+)
+
+game (
+	name "Gold Of The Americas (1991)(SSG)"
+	description "Gold Of The Americas (1991)(SSG)"
+	rom ( name "Gold Of The Americas (1991)(SSG).2mg" size 819264 crc 4bd3fd07 md5 1af0f933a9e0b9d537d5ec3fe4eb851e )
+)
+
+game (
+	name "Gold Of The Americas (1991)(SSG)[non boot]"
+	description "Gold Of The Americas (1991)(SSG)[non boot]"
+	rom ( name "Gold Of The Americas (1991)(SSG)[non boot].2mg" size 819264 crc da43d6da md5 e12c6a964d38580408b38ff48b738bb6 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 1 of 4)"
+	description "Gold Rush (1989)(Sierra)(Disk 1 of 4)"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 1 of 4).2mg" size 819271 crc b5953e2e md5 e0f256bdcd2cae085d42714870f24aa3 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a]"
+	description "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a]"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a].2mg" size 819271 crc 385f74a3 md5 bae5e2dc2b4bcb0196486b230e5985e0 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a2]"
+	description "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a2]"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 1 of 4)[a2].2mg" size 819271 crc 2d8f1225 md5 5f7daf5606987d6dc8cc5f52b54a4d20 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 2 of 4)"
+	description "Gold Rush (1989)(Sierra)(Disk 2 of 4)"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 2 of 4).2mg" size 819268 crc 705e2fa2 md5 c0b37fbfe9c437eebdbe3dc335a67b99 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 2 of 4)[a]"
+	description "Gold Rush (1989)(Sierra)(Disk 2 of 4)[a]"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 2 of 4)[a].2mg" size 819268 crc 26ec8038 md5 00433d618a831670ae1cfb6052569ce0 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 3 of 4)"
+	description "Gold Rush (1989)(Sierra)(Disk 3 of 4)"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 3 of 4).2mg" size 819268 crc a97de55a md5 b843dab8d3333a2b13309acdc80c1841 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 3 of 4)[a]"
+	description "Gold Rush (1989)(Sierra)(Disk 3 of 4)[a]"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 3 of 4)[a].2mg" size 819268 crc d7b451a1 md5 f2299cd359f8b7719f7921fd3886c174 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 4 of 4)"
+	description "Gold Rush (1989)(Sierra)(Disk 4 of 4)"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 4 of 4).2mg" size 819268 crc 52dfc8c0 md5 2e5022df09de8294ba9bd2ee07554459 )
+)
+
+game (
+	name "Gold Rush (1989)(Sierra)(Disk 4 of 4)[a]"
+	description "Gold Rush (1989)(Sierra)(Disk 4 of 4)[a]"
+	rom ( name "Gold Rush (1989)(Sierra)(Disk 4 of 4)[a].2mg" size 819268 crc bf7af106 md5 cc6afd681300178706baa4e960f518e2 )
+)
+
+game (
+	name "Grand Prix Circuit (1989)(Accolade)"
+	description "Grand Prix Circuit (1989)(Accolade)"
+	rom ( name "Grand Prix Circuit (1989)(Accolade).2mg" size 819267 crc e32bcfc5 md5 d2a5c3029655e0cf1321948d8dc1c3bc )
+)
+
+game (
+	name "Grand Prix Circuit (1989)(Accolade)[a]"
+	description "Grand Prix Circuit (1989)(Accolade)[a]"
+	rom ( name "Grand Prix Circuit (1989)(Accolade)[a].2mg" size 819267 crc 7ae29603 md5 b61042b28fc5e533a88079c00dec5eaa )
+)
+
+game (
+	name "Great Western Shootout (1989)(Britannica - Fanfare)"
+	description "Great Western Shootout (1989)(Britannica - Fanfare)"
+	rom ( name "Great Western Shootout (1989)(Britannica - Fanfare).2mg" size 819268 crc 6c902a61 md5 16352f857d987d60df8e22861b453af0 )
+)
+
+game (
+	name "GS Invaders v1.0 (1994)(Ong Tat-Wee, David)"
+	description "GS Invaders v1.0 (1994)(Ong Tat-Wee, David)"
+	rom ( name "GS Invaders v1.0 (1994)(Ong Tat-Wee, David).2mg" size 819264 crc 11acae83 md5 cd921024c00f6b9a5541df25595e5f61 )
+)
+
+game (
+	name "Hacker II (1987)(Activision)"
+	description "Hacker II (1987)(Activision)"
+	rom ( name "Hacker II (1987)(Activision).2mg" size 819271 crc 46f19e39 md5 ce87f8ec8b8b567072cd88023d8485ea )
+)
+
+game (
+	name "Hacker II (1987)(Activision)[a]"
+	description "Hacker II (1987)(Activision)[a]"
+	rom ( name "Hacker II (1987)(Activision)[a].2mg" size 819271 crc 5ae0c374 md5 66f71cc8a5a8b59b4d2f6545ad283a3d )
+)
+
+game (
+	name "Hacker II (1987)(Activision)[cr][b]"
+	description "Hacker II (1987)(Activision)[cr][b]"
+	rom ( name "Hacker II (1987)(Activision)[cr][b].2mg" size 819264 crc 36a4fffd md5 48f85b9c2452164a723f275eb5aa0198 )
+)
+
+game (
+	name "Halls of Montezuma (1990)(SSG)(Disk 1 of 2)"
+	description "Halls of Montezuma (1990)(SSG)(Disk 1 of 2)"
+	rom ( name "Halls of Montezuma (1990)(SSG)(Disk 1 of 2).2mg" size 819271 crc de92315c md5 032211b5ce6a143d6d84a89cd1e4bd22 )
+)
+
+game (
+	name "Halls of Montezuma (1990)(SSG)(Disk 1 of 2)[cr][non boot]"
+	description "Halls of Montezuma (1990)(SSG)(Disk 1 of 2)[cr][non boot]"
+	rom ( name "Halls of Montezuma (1990)(SSG)(Disk 1 of 2)[cr][non boot].2mg" size 819271 crc c5b96881 md5 6448da8259aba90bb56bfbfabae26222 )
+)
+
+game (
+	name "Halls of Montezuma (1990)(SSG)(Disk 2 of 2)"
+	description "Halls of Montezuma (1990)(SSG)(Disk 2 of 2)"
+	rom ( name "Halls of Montezuma (1990)(SSG)(Disk 2 of 2).2mg" size 819271 crc dfea24de md5 46f43ff12e1404d9c31f6d9cead419b8 )
+)
+
+game (
+	name "Halls of Montezuma (1990)(SSG)(Disk 2 of 2)[cr][non boot]"
+	description "Halls of Montezuma (1990)(SSG)(Disk 2 of 2)[cr][non boot]"
+	rom ( name "Halls of Montezuma (1990)(SSG)(Disk 2 of 2)[cr][non boot].2mg" size 819271 crc a8754ab6 md5 cda773c945c81401fb319fc50ae86589 )
+)
+
+game (
+	name "Hardball! (1987)(Accolade)"
+	description "Hardball! (1987)(Accolade)"
+	rom ( name "Hardball! (1987)(Accolade).2mg" size 819264 crc e48830fd md5 cc5e4e1a6a5fc0fcd79aa923f4e0d8ec )
+)
+
+game (
+	name "Hardball! (1987)(Accolade)[a]"
+	description "Hardball! (1987)(Accolade)[a]"
+	rom ( name "Hardball! (1987)(Accolade)[a].2mg" size 819272 crc 4e0f8a73 md5 532be1f7408e04b2f666ce74abe03304 )
+)
+
+game (
+	name "Hardball! (1987)(Accolade)[a2]"
+	description "Hardball! (1987)(Accolade)[a2]"
+	rom ( name "Hardball! (1987)(Accolade)[a2].2mg" size 819272 crc a5c4330b md5 74d760aca6f7bc9504a13cc6b5e0f7fb )
+)
+
+game (
+	name "Hostage (1990)(Mindscape)"
+	description "Hostage (1990)(Mindscape)"
+	rom ( name "Hostage (1990)(Mindscape).2mg" size 819270 crc 53446da4 md5 40f3909e0d7feca6bdf56f5948fe0e7d )
+)
+
+game (
+	name "Hostage (1990)(Mindscape)[cr]"
+	description "Hostage (1990)(Mindscape)[cr]"
+	rom ( name "Hostage (1990)(Mindscape)[cr].2mg" size 819270 crc fe37fe37 md5 aee4937e06a4a50ef00b7a7f1d6f859d )
+)
+
+game (
+	name "Hover Blade (1991)(MCX)(Disk 1 of 2)"
+	description "Hover Blade (1991)(MCX)(Disk 1 of 2)"
+	rom ( name "Hover Blade (1991)(MCX)(Disk 1 of 2).2mg" size 819264 crc edc68c83 md5 516e35fa46ecac53a6d5549cec70ef6f )
+)
+
+game (
+	name "Hover Blade (1991)(MCX)(Disk 2 of 2)"
+	description "Hover Blade (1991)(MCX)(Disk 2 of 2)"
+	rom ( name "Hover Blade (1991)(MCX)(Disk 2 of 2).2mg" size 819264 crc 70fb1d0a md5 100ad9cc8b7b27202f70f03b4045c2fd )
+)
+
+game (
+	name "Hunt For Red October (1989)(The Software Toolworks)"
+	description "Hunt For Red October (1989)(The Software Toolworks)"
+	rom ( name "Hunt For Red October (1989)(The Software Toolworks).2mg" size 819271 crc e3e38968 md5 cc2944affbfc2fb4596d1d9daaec9cc5 )
+)
+
+game (
+	name "Hunt For Red October (1989)(The Software Toolworks)[cr]"
+	description "Hunt For Red October (1989)(The Software Toolworks)[cr]"
+	rom ( name "Hunt For Red October (1989)(The Software Toolworks)[cr].2mg" size 819271 crc e313bb84 md5 7cae2488c33fc5bf2a350098d1f6e399 )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2).2mg" size 819268 crc 48a2dcae md5 f702622ffebcfba7a949c62611832fc4 )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a]"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a]"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a].2mg" size 819264 crc cfb01862 md5 56868cbe651555e71c8bab49720240e5 )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a2]"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a2]"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 1 of 2)[a2].2mg" size 819268 crc bfe74b46 md5 c5b4f4829f5c0681589969d24f1f9ae4 )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2).2mg" size 819268 crc e2ceb345 md5 368877709c15d5b0f56124a28741dbcc )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a]"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a]"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a].2mg" size 819264 crc e221a99a md5 1026b7e863130fcfd6823ae2f17cc880 )
+)
+
+game (
+	name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a2]"
+	description "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a2]"
+	rom ( name "Immortal, The (1990)(Electronic Arts)(Disk 2 of 2)[a2].2mg" size 819268 crc 81c04674 md5 2ef80f7537e933d2ede79c7b361b88f2 )
+)
+
+game (
+	name "Impossible Mission II (1989)(Epyx)"
+	description "Impossible Mission II (1989)(Epyx)"
+	rom ( name "Impossible Mission II (1989)(Epyx).2mg" size 819267 crc 9ca2a813 md5 2ddeba0d2f938b00484935013c983fa4 )
+)
+
+game (
+	name "Impossible Mission II (1989)(Epyx)[a]"
+	description "Impossible Mission II (1989)(Epyx)[a]"
+	rom ( name "Impossible Mission II (1989)(Epyx)[a].2mg" size 819267 crc 623bb163 md5 6058a35941ac9dd1b024b6294a91a274 )
+)
+
+game (
+	name "Impossible Mission II (1989)(Epyx)[cr][b]"
+	description "Impossible Mission II (1989)(Epyx)[cr][b]"
+	rom ( name "Impossible Mission II (1989)(Epyx)[cr][b].2mg" size 819264 crc a340e84c md5 de3b3380b88ba637b43b17918d77bda6 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game).2mg" size 819268 crc 1ee685f0 md5 245ec4b6b0d5ea707ac2c3ee93a376a1 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a]"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a]"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a].2mg" size 819268 crc 74f1c022 md5 7367c20d704229ee0708eb9308a22af1 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a2]"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a2]"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 1 of 4)(Game)[a2].2mg" size 819268 crc 238daecf md5 9bf046493e29ef19d68a730bde92aeb4 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1)"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1)"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1).2mg" size 819264 crc e4877bd0 md5 b49d7eca80df5dc3aa47e117c4f18ae6 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1)[a]"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1)[a]"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 2 of 4)(Course 1)[a].2mg" size 819264 crc e588b869 md5 4e5459895745792ec1145b2cf511661a )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2)"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2)"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2).2mg" size 819271 crc 09030217 md5 cc83b363bd29f1354c4a259741c65d2d )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2)[a]"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2)[a]"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 3 of 4)(Course 2)[a].2mg" size 819271 crc 4e406062 md5 cc96ab5ef6676745f5b8ec091a5aebd6 )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3)"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3)"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3).2mg" size 819264 crc edd84066 md5 8c0dc06b22bcc4332d17fdfd044ef46f )
+)
+
+game (
+	name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3)[a]"
+	description "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3)[a]"
+	rom ( name "Jack Nicklaus Greatest 18 Holes of Major Championship Golf (1989)(Accolade)(Disk 4 of 4)(Course 3)[a].2mg" size 819264 crc 44f9f5cb md5 1d52317a6d0d26cf435e5f4fead29308 )
+)
+
+game (
+	name "Jigsaw (1988)(Britannica Software)(Disk 1 of 2)"
+	description "Jigsaw (1988)(Britannica Software)(Disk 1 of 2)"
+	rom ( name "Jigsaw (1988)(Britannica Software)(Disk 1 of 2).2mg" size 819271 crc c4a14727 md5 318c9ceb852a9a55acfdb5be6cc17151 )
+)
+
+game (
+	name "Jigsaw (1988)(Britannica Software)(Disk 1 of 2)[cr][non boot]"
+	description "Jigsaw (1988)(Britannica Software)(Disk 1 of 2)[cr][non boot]"
+	rom ( name "Jigsaw (1988)(Britannica Software)(Disk 1 of 2)[cr][non boot].2mg" size 819271 crc 952762dc md5 e52bbca7540e894191844250eecf3b90 )
+)
+
+game (
+	name "Jigsaw (1988)(Britannica Software)(Disk 2 of 2)[cr][non boot]"
+	description "Jigsaw (1988)(Britannica Software)(Disk 2 of 2)[cr][non boot]"
+	rom ( name "Jigsaw (1988)(Britannica Software)(Disk 2 of 2)[cr][non boot].2mg" size 819271 crc 12d9a71c md5 26ce3aef8348cf4cae21a8cbfbd0042f )
+)
+
+game (
+	name "Jigsaw (1988)(Britannica Software)(Disk 2of 2)"
+	description "Jigsaw (1988)(Britannica Software)(Disk 2of 2)"
+	rom ( name "Jigsaw (1988)(Britannica Software)(Disk 2of 2).2mg" size 819271 crc 1acd0fb4 md5 5cd9474e34c7bb8a124e5ef6342010cb )
+)
+
+game (
+	name "John Elway's Quarterback (1989)(Melbourne House)"
+	description "John Elway's Quarterback (1989)(Melbourne House)"
+	rom ( name "John Elway's Quarterback (1989)(Melbourne House).2mg" size 819267 crc 13ecf50f md5 d91d983fc85d7a6c6a373a7613dacddc )
+)
+
+game (
+	name "John Elway's Quarterback (1989)(Melbourne House)[b]"
+	description "John Elway's Quarterback (1989)(Melbourne House)[b]"
+	rom ( name "John Elway's Quarterback (1989)(Melbourne House)[b].2mg" size 819267 crc 52e4e253 md5 762b2cc8b7d7e2a1d8a7755d7f44f402 )
+)
+
+game (
+	name "Kaleidokubes (1989)(Artworx)"
+	description "Kaleidokubes (1989)(Artworx)"
+	rom ( name "Kaleidokubes (1989)(Artworx).2mg" size 819264 crc 7422ea94 md5 1353a03472440b90cb29ac5c36dd6b5e )
+)
+
+game (
+	name "Kaleidokubes (1989)(Artworx)[a]"
+	description "Kaleidokubes (1989)(Artworx)[a]"
+	rom ( name "Kaleidokubes (1989)(Artworx)[a].2mg" size 819264 crc fbe57410 md5 540219d8ef23e633f7819088d142ab39 )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b].2mg" size 819264 crc 9b9c0315 md5 d79ce92f42645c759c90b089ea82c89f )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b2]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b2]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[b2].2mg" size 819264 crc a27ec1ed md5 80ec6570bf6879310aa9436a8c72cf61 )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[cr]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[cr]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 1 of 2)[cr].2mg" size 819264 crc 3a049949 md5 0c12d159d5b6b7151878c2300f88f9a5 )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b].2mg" size 819269 crc 07ccb5ee md5 4e9bac6a6901be441a3cdd54157f9159 )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b2]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b2]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b2].2mg" size 819264 crc b26426bb md5 958ba3446736eb6045f1e4eae958572e )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b3]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b3]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[b3].2mg" size 819269 crc 2435c0c2 md5 e418a59480b4f10b9973433320212ff3 )
+)
+
+game (
+	name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[cr]"
+	description "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[cr]"
+	rom ( name "Keef The Thief (1989)(Electronic Arts)(Disk 2 of 2)[cr].2mg" size 819269 crc 3148129e md5 13e7c8f757e472628b49520f7048128d )
+)
+
+game (
+	name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)"
+	description "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)"
+	rom ( name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2).2mg" size 819264 crc 00f5db09 md5 368118b374e6439183d1b58346fe0fe6 )
+)
+
+game (
+	name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b]"
+	description "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b]"
+	rom ( name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b].2mg" size 819269 crc 6ce09db1 md5 205ae6339789d252684bf229831dfea6 )
+)
+
+game (
+	name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b2]"
+	description "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b2]"
+	rom ( name "King of Chicago, The (1989)(Cinemaware)(Disk 1 of 2)[b2].2mg" size 819269 crc e5a4c32c md5 dbff45061fa769ae47627277e6a59c0d )
+)
+
+game (
+	name "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2)"
+	description "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2)"
+	rom ( name "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2).2mg" size 819264 crc c1817439 md5 e66b2e9350ffc9db7e8377fce5bb70df )
+)
+
+game (
+	name "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2)[b]"
+	description "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2)[b]"
+	rom ( name "King of Chicago, The (1989)(Cinemaware)(Disk 2 of 2)[b].2mg" size 819269 crc 4493ad03 md5 3dd4c4b65107ce1e3754c6837d444ed0 )
+)
+
+game (
+	name "King's Quest (1987)(Sierra)(Disk 1 of 2)"
+	description "King's Quest (1987)(Sierra)(Disk 1 of 2)"
+	rom ( name "King's Quest (1987)(Sierra)(Disk 1 of 2).2mg" size 819267 crc e39848bd md5 445ebe684a08dbf6783f7a6718ae8648 )
+)
+
+game (
+	name "King's Quest (1987)(Sierra)(Disk 1 of 2)[a]"
+	description "King's Quest (1987)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "King's Quest (1987)(Sierra)(Disk 1 of 2)[a].2mg" size 819267 crc 154dba4e md5 fcef027e48abe51232d09d166819b8a3 )
+)
+
+game (
+	name "King's Quest (1987)(Sierra)(Disk 2 of 2)"
+	description "King's Quest (1987)(Sierra)(Disk 2 of 2)"
+	rom ( name "King's Quest (1987)(Sierra)(Disk 2 of 2).2mg" size 819267 crc 24c192e2 md5 6b47152d38be19bf49a9482467819e1b )
+)
+
+game (
+	name "King's Quest (1987)(Sierra)(Disk 2 of 2)[a]"
+	description "King's Quest (1987)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "King's Quest (1987)(Sierra)(Disk 2 of 2)[a].2mg" size 819267 crc 4d207019 md5 b8e8d6941b48c61680c488fab7fa40a3 )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2).2mg" size 819264 crc dcb9a927 md5 f948d678407937500a69163ea6f5a582 )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a]"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a].2mg" size 819264 crc 3347983c md5 c19d92d3c6f52883482e6550532a9aa2 )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a2]"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a2]"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 1 of 2)[a2].2mg" size 819264 crc f5727d6b md5 f33315e52d6fe523f3d5bdc4e346870b )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2).2mg" size 819264 crc ca9f6588 md5 d9b14905a993e7f165cacc69e532849e )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a]"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a].2mg" size 819264 crc 07eca8ae md5 184c5a87fa4881d49d53bdbe3f03f3d0 )
+)
+
+game (
+	name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a2]"
+	description "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a2]"
+	rom ( name "King's Quest II - Romancing The Throne (1988)(Sierra)(Disk 2 of 2)[a2].2mg" size 819264 crc 27459639 md5 21e2c5025a2e82aa7d3dbcdcfca1b405 )
+)
+
+game (
+	name "King's Quest III (1988)(Sierra)(Disk 1 of 2)"
+	description "King's Quest III (1988)(Sierra)(Disk 1 of 2)"
+	rom ( name "King's Quest III (1988)(Sierra)(Disk 1 of 2).2mg" size 819269 crc baac92f1 md5 c96a9a96feb59e0d75b870232ecaa85d )
+)
+
+game (
+	name "King's Quest III (1988)(Sierra)(Disk 1 of 2)[a]"
+	description "King's Quest III (1988)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "King's Quest III (1988)(Sierra)(Disk 1 of 2)[a].2mg" size 819269 crc 8ec33e89 md5 b7159793d04753d71030ea9264d6fb21 )
+)
+
+game (
+	name "King's Quest III (1988)(Sierra)(Disk 2 of 2)"
+	description "King's Quest III (1988)(Sierra)(Disk 2 of 2)"
+	rom ( name "King's Quest III (1988)(Sierra)(Disk 2 of 2).2mg" size 819269 crc 154f9998 md5 afce9d9da8b279d3314961a059c4c584 )
+)
+
+game (
+	name "King's Quest III (1988)(Sierra)(Disk 2 of 2)[a]"
+	description "King's Quest III (1988)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "King's Quest III (1988)(Sierra)(Disk 2 of 2)[a].2mg" size 819269 crc d59f9e44 md5 5d44cf27fbada25063108bfb4ed9ed2d )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 1 of 3)"
+	description "King's Quest IV (1989)(Sierra)(Disk 1 of 3)"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 1 of 3).2mg" size 819271 crc 4bd23a99 md5 3d09ac85e46f12c17964b0e906c6b4e5 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a]"
+	description "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a].2mg" size 819271 crc 2927459f md5 ae1d4bc8411b726667b79b63756139ff )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a2]"
+	description "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a2]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 1 of 3)[a2].2mg" size 819264 crc 665c83e4 md5 ae0a30de83bb82a49045448c5e2f7971 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 2 of 3)"
+	description "King's Quest IV (1989)(Sierra)(Disk 2 of 3)"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 2 of 3).2mg" size 819271 crc 05ea023e md5 6857b405258bffcbfc2243ae9a2feed0 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a]"
+	description "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a].2mg" size 819271 crc d271e052 md5 431c6e6936ffb0a943b8e9f3b27ae9b5 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a2]"
+	description "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a2]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 2 of 3)[a2].2mg" size 819264 crc 114496ab md5 cd7ae3e83b258a38f454fb499fc8cc85 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[a]"
+	description "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[a]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[a].2mg" size 819264 crc 3b1340e1 md5 b53d497d30c51bdaf2c1e9f73b8ab992 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b]"
+	description "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b].2mg" size 819271 crc da3a23b1 md5 e72d321695a6182a0e0b41a0deb812a2 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b2]"
+	description "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b2]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[b2].2mg" size 819264 crc c4ae9ec2 md5 a1818c4c1273da63d67cc410acbbfdf9 )
+)
+
+game (
+	name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[f]"
+	description "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[f]"
+	rom ( name "King's Quest IV (1989)(Sierra)(Disk 3 of 3)[f].2mg" size 819840 crc 9a6e4ae4 md5 34fc620395d2b69dd80c09328e373540 )
+)
+
+game (
+	name "Laser Force (1989)(Fanfare)"
+	description "Laser Force (1989)(Fanfare)"
+	rom ( name "Laser Force (1989)(Fanfare).2mg" size 819271 crc 8d668ea5 md5 b4349a37a8f885f97112d90fec951a3e )
+)
+
+game (
+	name "Laser Force (1989)(Fanfare)[a]"
+	description "Laser Force (1989)(Fanfare)[a]"
+	rom ( name "Laser Force (1989)(Fanfare)[a].2mg" size 819264 crc 2888a0c3 md5 cdad8a007b9a94474253331aebaeed15 )
+)
+
+game (
+	name "Laser Force (1989)(Fanfare)[a2]"
+	description "Laser Force (1989)(Fanfare)[a2]"
+	rom ( name "Laser Force (1989)(Fanfare)[a2].2mg" size 819271 crc e23ba561 md5 7fb7dac2ee61dc26accc7fd9c111acd2 )
+)
+
+game (
+	name "Last Ninja, The (1988)(Activision)[cr]"
+	description "Last Ninja, The (1988)(Activision)[cr]"
+	rom ( name "Last Ninja, The (1988)(Activision)[cr].2mg" size 819278 crc d3d36ae7 md5 318a5f2bd114dfa0d1525de703331116 )
+)
+
+game (
+	name "Last Ninja, The (1988)(Activision)[cr][a]"
+	description "Last Ninja, The (1988)(Activision)[cr][a]"
+	rom ( name "Last Ninja, The (1988)(Activision)[cr][a].2mg" size 819264 crc b4c8fa21 md5 82d635544989490ba232062af3d14848 )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2).2mg" size 819264 crc b9a7a38b md5 002dd2c6ba5f9430bcd059c072b036cd )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a]"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a].2mg" size 819267 crc a10a5c57 md5 a450a8c55db4666a0d39f6b665fb6b47 )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a2]"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a2]"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 1 of 2)[a2].2mg" size 819267 crc 6642176d md5 ff8f27c6e4b0c0386ac90a7a2d6806ad )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2).2mg" size 819264 crc e8ee8cd1 md5 b140289528a4ae00007c959c1d8ef9eb )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a]"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a].2mg" size 819267 crc e07b46f1 md5 d19b895ff8bd727f17c73caa117cacda )
+)
+
+game (
+	name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a2]"
+	description "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a2]"
+	rom ( name "Leisure Suit Larry In The Land of The Lounge wizard (1987)(Sierra)(Disk 2 of 2)[a2].2mg" size 819267 crc 4077ccad md5 56f13530823163d9f68f27c2bcb329e2 )
+)
+
+game (
+	name "Lemmings (1996)(Psyognosis)"
+	description "Lemmings (1996)(Psyognosis)"
+	rom ( name "Lemmings (1996)(Psyognosis).2mg" size 3145792 crc a84367f3 md5 e9692b6634cf84c27c1bc1e6960d84db )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2)"
+	description "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2)"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2).2mg" size 819271 crc 5da5cb6c md5 b140a3d5525d5b1df8435cfb28d13c3b )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2)[cr]"
+	description "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2)[cr]"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(Disk 1 of 2)[cr].2mg" size 819271 crc dfab4c4d md5 5e4359a7760f54ccccd492d180034949 )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2)"
+	description "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2)"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2).2mg" size 819271 crc 1cb8375a md5 dfc131f2ea75f74302b528b094a055fd )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2)[cr]"
+	description "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2)[cr]"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(Disk 2 of 2)[cr].2mg" size 819271 crc 9302e97d md5 37c944802a5cadbf3f2b89a5afe8bd36 )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(fr)(Disk 1 of 2)"
+	description "Life & Death (1989)(The Software Toolworks)(fr)(Disk 1 of 2)"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(fr)(Disk 1 of 2).2mg" size 819264 crc 597cc84d md5 5d74c945decabcecb36593ec07cc873c )
+)
+
+game (
+	name "Life & Death (1989)(The Software Toolworks)(fr)(Disk 2 of 2)"
+	description "Life & Death (1989)(The Software Toolworks)(fr)(Disk 2 of 2)"
+	rom ( name "Life & Death (1989)(The Software Toolworks)(fr)(Disk 2 of 2).2mg" size 819264 crc 0d7b50ad md5 6152de61bfb460fd9b868db3e418173d )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3)"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3)"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3).2mg" size 819264 crc 901a9358 md5 3eae9f358fbd90fa846c697a40b7a680 )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3)[cr][non boot]"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3)[cr][non boot]"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 1 of 3)[cr][non boot].2mg" size 819264 crc b098b610 md5 c5a58148eb437760fe07ac3c27e723f4 )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3)"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3)"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3).2mg" size 819264 crc 1fe47cb4 md5 58dfd0afb3d29967885125319c9c7fbf )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3)[cr][non boot]"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3)[cr][non boot]"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 2 of 3)[cr][non boot].2mg" size 819264 crc 758dab1f md5 1a5b7a2aefef4424bd4eff940a56d491 )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3)"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3)"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3).2mg" size 819264 crc 3dac4def md5 c49a377265be0fe13a3519456c398adf )
+)
+
+game (
+	name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3)[cr][non boot]"
+	description "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3)[cr][non boot]"
+	rom ( name "Lost Tribe, The (1992)(Lawrence Productions)(Disk 3 of 3)[cr][non boot].2mg" size 819264 crc c948dbfe md5 a21c6184f66fd260ba051147864d1fcf )
+)
+
+game (
+	name "Mad Match (1989)(Baudville)"
+	description "Mad Match (1989)(Baudville)"
+	rom ( name "Mad Match (1989)(Baudville).2mg" size 819264 crc 49a8413e md5 62fa0e5b4cb264626a9bf7ae495d8423 )
+)
+
+game (
+	name "Magic Johnson's Basketball (1989)(Melbourne House)[a][unreleased]"
+	description "Magic Johnson's Basketball (1989)(Melbourne House)[a][unreleased]"
+	rom ( name "Magic Johnson's Basketball (1989)(Melbourne House)[a][unreleased].2mg" size 819264 crc 3e243e83 md5 6c4a84adb0b4bcc56e237323fc1cb22a )
+)
+
+game (
+	name "Magic Johnson's Basketball (1989)(Melbourne House)[unreleased]"
+	description "Magic Johnson's Basketball (1989)(Melbourne House)[unreleased]"
+	rom ( name "Magic Johnson's Basketball (1989)(Melbourne House)[unreleased].2mg" size 819264 crc c2641a90 md5 220ad7376834336b4ec5706cdbf4d006 )
+)
+
+game (
+	name "Mancala (1988)(California Dreams)"
+	description "Mancala (1988)(California Dreams)"
+	rom ( name "Mancala (1988)(California Dreams).2mg" size 819271 crc 9c1c9101 md5 6b7c7f4100bd9d86a27964e87f3fc43e )
+)
+
+game (
+	name "Mancala (1988)(California Dreams)[cr]"
+	description "Mancala (1988)(California Dreams)[cr]"
+	rom ( name "Mancala (1988)(California Dreams)[cr].2mg" size 819271 crc ba31df5a md5 9ddb7bd60ed157335490cbc789e25f9e )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)"
+	description "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4).2mg" size 819264 crc ee07ab81 md5 e21fc813b5838979a09478e232b6e14d )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[a]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[a]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[a].2mg" size 819271 crc 0875f968 md5 e99932d5bd02e7e9417cdfc00fe1657d )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[cr]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[cr]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 1 of 4)[cr].2mg" size 819271 crc a44f7b5d md5 cc514fff8cece4731b600015f6f51029 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)"
+	description "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4).2mg" size 819264 crc fdbbc81d md5 dfd63713655aa5f3523fb4cd86c24514 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a].2mg" size 819268 crc 30644a4f md5 3a4931bdad90404a60572cec5ef09f05 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a2]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a2]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[a2].2mg" size 819268 crc 7fbdee67 md5 198ec51009bd00c6e545f79c1b363363 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[cr]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[cr]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 2 of 4)[cr].2mg" size 819268 crc 8322ebd4 md5 f05e95d481489d2d531f87d88c4ce9f4 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)"
+	description "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4).2mg" size 819264 crc 6f919f07 md5 4b25bf2aed70c8dc93b2e144be507e37 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a].2mg" size 819271 crc d72dfa9e md5 0951a79b6d497430dce9618dddcaad99 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a2]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a2]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[a2].2mg" size 819271 crc cea45864 md5 8abaa289099073b063a0308562c8c081 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[cr]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[cr]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 3 of 4)[cr].2mg" size 819271 crc 12ded103 md5 719a119ee6e2b5040396801bccce138f )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)"
+	description "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4).2mg" size 819264 crc d5961e81 md5 3b1d73d00f59fc52f8d1ec90f0bc4874 )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a].2mg" size 819271 crc 23503de9 md5 2bf34f08dc92950d11dbcc0e40a8f85a )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a2]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a2]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[a2].2mg" size 819271 crc 42761bd2 md5 4439aaa9b27bd717b30b8fd551aef11c )
+)
+
+game (
+	name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[cr]"
+	description "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[cr]"
+	rom ( name "Manhunter - New York (1988)(Sierra)(Disk 4 of 4)[cr].2mg" size 819271 crc f1697368 md5 aea11a347d0fc9244555398265d36314 )
+)
+
+game (
+	name "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[a][unreleased]"
+	description "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[a][unreleased]"
+	rom ( name "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[a][unreleased].2mg" size 819264 crc 6ab8e103 md5 5b83560b5cb677116e31460251257f58 )
+)
+
+game (
+	name "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[unreleased]"
+	description "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[unreleased]"
+	rom ( name "Manoir de Mortevielle, Le (1989)(Lankhor)(fr)[unreleased].2mg" size 819264 crc e02aacf7 md5 70555c4e2447dce2cb2f1a7e0a05cb7b )
+)
+
+game (
+	name "Marble Madness (1988)(Electronic Arts)"
+	description "Marble Madness (1988)(Electronic Arts)"
+	rom ( name "Marble Madness (1988)(Electronic Arts).2mg" size 819271 crc c0342573 md5 20e5b3593d0605cf881db7c4b81a3188 )
+)
+
+game (
+	name "Mazer II (1992)(Big Red Computer Club)"
+	description "Mazer II (1992)(Big Red Computer Club)"
+	rom ( name "Mazer II (1992)(Big Red Computer Club).2mg" size 819264 crc b9bd03cc md5 909deda8571268235895e5aa8bfaac7a )
+)
+
+game (
+	name "Mean 18 - Famous Courses Volume 2 (198x)(Accolade)"
+	description "Mean 18 - Famous Courses Volume 2 (198x)(Accolade)"
+	rom ( name "Mean 18 - Famous Courses Volume 2 (198x)(Accolade).2mg" size 819264 crc 620046d4 md5 474adf70c3ca4ea539149d282f11aed8 )
+)
+
+game (
+	name "Mean 18 - Famous Courses Volume 3 (198x)(Accolade)"
+	description "Mean 18 - Famous Courses Volume 3 (198x)(Accolade)"
+	rom ( name "Mean 18 - Famous Courses Volume 3 (198x)(Accolade).2mg" size 819264 crc 6ee74610 md5 e98515d75bbb5d16517b160e79dd1a03 )
+)
+
+game (
+	name "Mean 18 - Famous Courses Volume 4 (198x)(Accolade)"
+	description "Mean 18 - Famous Courses Volume 4 (198x)(Accolade)"
+	rom ( name "Mean 18 - Famous Courses Volume 4 (198x)(Accolade).2mg" size 819264 crc 70039efa md5 960d84aa69049ba5c63f188d62198b3b )
+)
+
+game (
+	name "Mean 18 (1987)(Accolade)"
+	description "Mean 18 (1987)(Accolade)"
+	rom ( name "Mean 18 (1987)(Accolade).2mg" size 819270 crc fe4b5c24 md5 798402b7973f05dddd9b35e5849960a9 )
+)
+
+game (
+	name "Mean 18 (1987)(Accolade)[a]"
+	description "Mean 18 (1987)(Accolade)[a]"
+	rom ( name "Mean 18 (1987)(Accolade)[a].2mg" size 819270 crc d190a8bf md5 7599efbdf0d42ad2c008dfc5bc55421b )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2).2mg" size 819264 crc 07f50a16 md5 43a9a985e6473085345a502457a558e0 )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[a]"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[a]"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[a].2mg" size 819264 crc 0b28dfd2 md5 27f4108cd8e79cd048d81df41e447fce )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[cr]"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[cr]"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 1 of 2)[cr].2mg" size 819264 crc 3526088b md5 c334cb67b26bb5c64f9c33fe0385b511 )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2).2mg" size 819264 crc 264a14f3 md5 fa8b86b646b47226cb6e7cfd3fbe8a11 )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[a]"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[a]"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[a].2mg" size 819264 crc f3b250ae md5 0fc83fbd8184b919fbf1091cdb609b7f )
+)
+
+game (
+	name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[cr]"
+	description "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[cr]"
+	rom ( name "Mighty Marvel Vs The Forces of Evil (1988)(ISM)(Disk 2 of 2)[cr].2mg" size 819264 crc 10b82ffa md5 e0f6eb8f4bb0a5426dbac93148749232 )
+)
+
+game (
+	name "Milestones 2000 (1990)(Franklin, Ken)(FW)"
+	description "Milestones 2000 (1990)(Franklin, Ken)(FW)"
+	rom ( name "Milestones 2000 (1990)(Franklin, Ken)(FW).2mg" size 819264 crc 70bac515 md5 be4b7b2954c848890f01423a353f8ad0 )
+)
+
+game (
+	name "Mini Putt - The Ultimate Challenge (1988)(Accolade)"
+	description "Mini Putt - The Ultimate Challenge (1988)(Accolade)"
+	rom ( name "Mini Putt - The Ultimate Challenge (1988)(Accolade).2mg" size 819272 crc 656fb43a md5 0e720dad4f104cd0c0fccc636bdd8633 )
+)
+
+game (
+	name "Mini Putt - The Ultimate Challenge (1988)(Accolade)[a]"
+	description "Mini Putt - The Ultimate Challenge (1988)(Accolade)[a]"
+	rom ( name "Mini Putt - The Ultimate Challenge (1988)(Accolade)[a].2mg" size 819272 crc b63f02e2 md5 5b5f592a44697b6314aff04d89072a07 )
+)
+
+game (
+	name "Mixed Up - Mother Goose (1988)(Sierra)(Disk 1 of 2)"
+	description "Mixed Up - Mother Goose (1988)(Sierra)(Disk 1 of 2)"
+	rom ( name "Mixed Up - Mother Goose (1988)(Sierra)(Disk 1 of 2).2mg" size 819264 crc 1ce35432 md5 d1da2870b5f457327270014af19151c0 )
+)
+
+game (
+	name "Mixed Up - Mother Goose (1988)(Sierra)(Disk 2 of 2)"
+	description "Mixed Up - Mother Goose (1988)(Sierra)(Disk 2 of 2)"
+	rom ( name "Mixed Up - Mother Goose (1988)(Sierra)(Disk 2 of 2).2mg" size 819264 crc ce85a507 md5 f71926206f47a411b7c795833470b8c0 )
+)
+
+game (
+	name "Monte Carlo (1988)(PBI Software)(fr)"
+	description "Monte Carlo (1988)(PBI Software)(fr)"
+	rom ( name "Monte Carlo (1988)(PBI Software)(fr).2mg" size 819264 crc 83c0b41a md5 aa80ee300ccc4f549a950b2fcb4f506a )
+)
+
+game (
+	name "Monte Carlo (1988)(PBI Software)"
+	description "Monte Carlo (1988)(PBI Software)"
+	rom ( name "Monte Carlo (1988)(PBI Software).2mg" size 819264 crc 038d1292 md5 fe08df8c1910f62173b9a8ca16fbd365 )
+)
+
+game (
+	name "Monte Carlo (1988)(PBI Software)[a]"
+	description "Monte Carlo (1988)(PBI Software)[a]"
+	rom ( name "Monte Carlo (1988)(PBI Software)[a].2mg" size 819264 crc 5068d73b md5 29b96b400f0cb79a0d7420aff0ffb583 )
+)
+
+game (
+	name "Neuromancer (1989)(Interplay)"
+	description "Neuromancer (1989)(Interplay)"
+	rom ( name "Neuromancer (1989)(Interplay).2mg" size 819271 crc 6af45880 md5 9d2279b360075b489e77c9960baa8d4d )
+)
+
+game (
+	name "Neuromancer (1989)(Interplay)[a]"
+	description "Neuromancer (1989)(Interplay)[a]"
+	rom ( name "Neuromancer (1989)(Interplay)[a].2mg" size 819271 crc eeeeec19 md5 63ac6ccd3e0b07086e94f9554808a888 )
+)
+
+game (
+	name "Neuromancer (1989)(Interplay)[a2]"
+	description "Neuromancer (1989)(Interplay)[a2]"
+	rom ( name "Neuromancer (1989)(Interplay)[a2].2mg" size 819264 crc 5996ff42 md5 b71c3d757c3a007613f7c328c36c1972 )
+)
+
+game (
+	name "Oil Landers v0.1 (19xx)(-)[b]"
+	description "Oil Landers v0.1 (19xx)(-)[b]"
+	rom ( name "Oil Landers v0.1 (19xx)(-)[b].2mg" size 819264 crc 35011832 md5 caf47297a458ccbf733f773606b566cf )
+)
+
+game (
+	name "Omega (1990)(Origin)"
+	description "Omega (1990)(Origin)"
+	rom ( name "Omega (1990)(Origin).2mg" size 819269 crc cb0c9c8d md5 f6c28d284a94702110833787deeb8819 )
+)
+
+game (
+	name "Omega (1990)(Origin)[a]"
+	description "Omega (1990)(Origin)[a]"
+	rom ( name "Omega (1990)(Origin)[a].2mg" size 819288 crc cc7a22c4 md5 425818974e10a08e50a205b5fb4023fb )
+)
+
+game (
+	name "Omega (1990)(Origin)[a2]"
+	description "Omega (1990)(Origin)[a2]"
+	rom ( name "Omega (1990)(Origin)[a2].2mg" size 819269 crc 398932f9 md5 3c255f8d527f736153b45860e7d36211 )
+)
+
+game (
+	name "One Arm Battle (1990)(Franklin, Ken)(FW)"
+	description "One Arm Battle (1990)(Franklin, Ken)(FW)"
+	rom ( name "One Arm Battle (1990)(Franklin, Ken)(FW).2mg" size 819264 crc ba3b1fdd md5 f24dad536033ca2d9b35ed68734f1ec6 )
+)
+
+game (
+	name "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3)"
+	description "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3)"
+	rom ( name "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3).2mg" size 819264 crc 3666e623 md5 b37608226f148b82f9fa31cb4b4b05c9 )
+)
+
+game (
+	name "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3)[a]"
+	description "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3)[a]"
+	rom ( name "Orbizone (1989)(Pangea Software)(SW)(Disk 1 of 3)[a].2mg" size 819264 crc ef74ed79 md5 8c2227166f10edb070b4c52b1a1f43de )
+)
+
+game (
+	name "Orbizone (1989)(Pangea Software)(SW)(Disk 2 of 3)[graphics 1]"
+	description "Orbizone (1989)(Pangea Software)(SW)(Disk 2 of 3)[graphics 1]"
+	rom ( name "Orbizone (1989)(Pangea Software)(SW)(Disk 2 of 3)[graphics 1].2mg" size 819264 crc a619cc66 md5 50f7b023fc8aad37ff7ef75fe9eb82a9 )
+)
+
+game (
+	name "Orbizone (1989)(Pangea Software)(SW)(Disk 3 of 3)[graphics 2]"
+	description "Orbizone (1989)(Pangea Software)(SW)(Disk 3 of 3)[graphics 2]"
+	rom ( name "Orbizone (1989)(Pangea Software)(SW)(Disk 3 of 3)[graphics 2].2mg" size 819264 crc 04ee6701 md5 4d842458be47c8f71a57af8622a32557 )
+)
+
+game (
+	name "Out of This World (1992)(Interplay)(Disk 1 of 2)[non boot]"
+	description "Out of This World (1992)(Interplay)(Disk 1 of 2)[non boot]"
+	rom ( name "Out of This World (1992)(Interplay)(Disk 1 of 2)[non boot].2mg" size 819264 crc 64784181 md5 1929ddb8c82f161212443ea526ef2980 )
+)
+
+game (
+	name "Out of This World (1992)(Interplay)(Disk 2 of 2)[non boot]"
+	description "Out of This World (1992)(Interplay)(Disk 2 of 2)[non boot]"
+	rom ( name "Out of This World (1992)(Interplay)(Disk 2 of 2)[non boot].2mg" size 819264 crc d907225d md5 83cb03d09192a50b7195ca68ac8ecafc )
+)
+
+game (
+	name "Panzer Battles (1991)(SSG)(Disk 1 of 2)"
+	description "Panzer Battles (1991)(SSG)(Disk 1 of 2)"
+	rom ( name "Panzer Battles (1991)(SSG)(Disk 1 of 2).2mg" size 819266 crc 5ee6f083 md5 fcf538d3cd72fe6a724cab65ee87a18a )
+)
+
+game (
+	name "Panzer Battles (1991)(SSG)(Disk 1 of 2)[b]"
+	description "Panzer Battles (1991)(SSG)(Disk 1 of 2)[b]"
+	rom ( name "Panzer Battles (1991)(SSG)(Disk 1 of 2)[b].2mg" size 819266 crc 4a26775a md5 6082f234ba59fd78189f634621feadc0 )
+)
+
+game (
+	name "Panzer Battles (1991)(SSG)(Disk 2 of 2)"
+	description "Panzer Battles (1991)(SSG)(Disk 2 of 2)"
+	rom ( name "Panzer Battles (1991)(SSG)(Disk 2 of 2).2mg" size 819267 crc 52023204 md5 4a44cb712d052cac22587d75b56c184a )
+)
+
+game (
+	name "Panzer Battles (1991)(SSG)(Disk 2 of 2)[b]"
+	description "Panzer Battles (1991)(SSG)(Disk 2 of 2)[b]"
+	rom ( name "Panzer Battles (1991)(SSG)(Disk 2 of 2)[b].2mg" size 819267 crc 285444f4 md5 4d6edcba35399d30ffb023fde87f1154 )
+)
+
+game (
+	name "Paperboy (1988)(Mindscape)"
+	description "Paperboy (1988)(Mindscape)"
+	rom ( name "Paperboy (1988)(Mindscape).2mg" size 819271 crc 798fba01 md5 7c367b38638255cb174b756c09cfbc6f )
+)
+
+game (
+	name "Paperboy (1988)(Mindscape)[a]"
+	description "Paperboy (1988)(Mindscape)[a]"
+	rom ( name "Paperboy (1988)(Mindscape)[a].2mg" size 819271 crc 90efe8bd md5 918e219a3932dc566ae5c38f250e7754 )
+)
+
+game (
+	name "Passengers on the Wind (1988)(Infogrames)[a][unreleased]"
+	description "Passengers on the Wind (1988)(Infogrames)[a][unreleased]"
+	rom ( name "Passengers on the Wind (1988)(Infogrames)[a][unreleased].2mg" size 819264 crc 8e5beae2 md5 77b7af9d0dd3903908ab795bc8b564b0 )
+)
+
+game (
+	name "Passengers on the Wind (1988)(Infogrames)[unreleased]"
+	description "Passengers on the Wind (1988)(Infogrames)[unreleased]"
+	rom ( name "Passengers on the Wind (1988)(Infogrames)[unreleased].2mg" size 819264 crc 1184b586 md5 a4be98c426a389cd123c6c3161d7ac51 )
+)
+
+game (
+	name "Passengers on the Wind (demo) (1988)(Infogrames)"
+	description "Passengers on the Wind (demo) (1988)(Infogrames)"
+	rom ( name "Passengers on the Wind (demo) (1988)(Infogrames).2mg" size 819264 crc 822c7d9e md5 c482c56b437a29bcd3c71a450de7109b )
+)
+
+game (
+	name "Passengers on the Wind (demo) (1988)(Infogrames)[a]"
+	description "Passengers on the Wind (demo) (1988)(Infogrames)[a]"
+	rom ( name "Passengers on the Wind (demo) (1988)(Infogrames)[a].2mg" size 819264 crc 0a57dc1d md5 87c79e1f8b22b77d201ced8df87448d6 )
+)
+
+game (
+	name "Pick'n Pile (1990)(Procyon)"
+	description "Pick'n Pile (1990)(Procyon)"
+	rom ( name "Pick'n Pile (1990)(Procyon).2mg" size 819264 crc b354e596 md5 67c32befe24344c67d233199f124202f )
+)
+
+game (
+	name "Pick'n Pile (1990)(Procyon)[non boot]"
+	description "Pick'n Pile (1990)(Procyon)[non boot]"
+	rom ( name "Pick'n Pile (1990)(Procyon)[non boot].2mg" size 819264 crc 89d3c494 md5 5fa0b6446bdbfa121d85b2f649c9f70e )
+)
+
+game (
+	name "Pinball Wizard (1987)(Accolade)[a][non boot][unreleased]"
+	description "Pinball Wizard (1987)(Accolade)[a][non boot][unreleased]"
+	rom ( name "Pinball Wizard (1987)(Accolade)[a][non boot][unreleased].2mg" size 819264 crc f8d91931 md5 54db1302ec7f6fc14575b590c2f63b56 )
+)
+
+game (
+	name "Pinball Wizard (1987)(Accolade)[a2][non boot][unreleased]"
+	description "Pinball Wizard (1987)(Accolade)[a2][non boot][unreleased]"
+	rom ( name "Pinball Wizard (1987)(Accolade)[a2][non boot][unreleased].2mg" size 819271 crc 4223cabd md5 2746ff8f95008a9c306038dac835b659 )
+)
+
+game (
+	name "Pinball Wizard (1987)(Accolade)[non boot][unreleased]"
+	description "Pinball Wizard (1987)(Accolade)[non boot][unreleased]"
+	rom ( name "Pinball Wizard (1987)(Accolade)[non boot][unreleased].2mg" size 819271 crc bc76a92b md5 c1cf927d53f9e2e7930f9dd89f15c28c )
+)
+
+game (
+	name "Pipe Dream (1990)(Lucasfilm Games)"
+	description "Pipe Dream (1990)(Lucasfilm Games)"
+	rom ( name "Pipe Dream (1990)(Lucasfilm Games).2mg" size 819264 crc 48c26e20 md5 8ec8466733d891ab10fe83092c706ab7 )
+)
+
+game (
+	name "Pipe Dream (1990)(Lucasfilm Games)[a]"
+	description "Pipe Dream (1990)(Lucasfilm Games)[a]"
+	rom ( name "Pipe Dream (1990)(Lucasfilm Games)[a].2mg" size 819264 crc 00f7276b md5 c1f3282db5391605815114a354d7daf1 )
+)
+
+game (
+	name "Pipe Dream (1990)(Lucasfilm Games)[cr]"
+	description "Pipe Dream (1990)(Lucasfilm Games)[cr]"
+	rom ( name "Pipe Dream (1990)(Lucasfilm Games)[cr].2mg" size 819273 crc f3d59da9 md5 f9e9439d4d4fe9cbbb6bf7ff6fdcdbab )
+)
+
+game (
+	name "Pipe Dream (1990)(Lucasfilm Games)[cr2]"
+	description "Pipe Dream (1990)(Lucasfilm Games)[cr2]"
+	rom ( name "Pipe Dream (1990)(Lucasfilm Games)[cr2].2mg" size 819264 crc a1247f66 md5 a2c1f4983be6e310fd599c70873d6db3 )
+)
+
+game (
+	name "Pirates! (1988)(Microprose)"
+	description "Pirates! (1988)(Microprose)"
+	rom ( name "Pirates! (1988)(Microprose).2mg" size 819271 crc ac9bec98 md5 eaf3eea8947e2d9709765600f60f390f )
+)
+
+game (
+	name "Pirates! (1988)(Microprose)[a]"
+	description "Pirates! (1988)(Microprose)[a]"
+	rom ( name "Pirates! (1988)(Microprose)[a].2mg" size 819271 crc 6ab5615c md5 a5dccc0c3f4fffaabaf2ec7099a0b3e3 )
+)
+
+game (
+	name "Pirates! (1988)(Microprose)[b]"
+	description "Pirates! (1988)(Microprose)[b]"
+	rom ( name "Pirates! (1988)(Microprose)[b].2mg" size 819264 crc 90824d1b md5 c7c9b04994626d1f78df2d157d3a3f81 )
+)
+
+game (
+	name "Plotting (1991)(Once Product)(SW)[a][non boot]"
+	description "Plotting (1991)(Once Product)(SW)[a][non boot]"
+	rom ( name "Plotting (1991)(Once Product)(SW)[a][non boot].2mg" size 819264 crc 48f1c398 md5 9ef954a5abc6f2c37974ddbef7cafe41 )
+)
+
+game (
+	name "Plotting (1991)(Once Product)(SW)[non boot]"
+	description "Plotting (1991)(Once Product)(SW)[non boot]"
+	rom ( name "Plotting (1991)(Once Product)(SW)[non boot].2mg" size 819264 crc b39a9a4a md5 621cc4e0b581c46b3a673ee60aab40ca )
+)
+
+game (
+	name "Plunder (1990)(Franklin, Ken)(FW)"
+	description "Plunder (1990)(Franklin, Ken)(FW)"
+	rom ( name "Plunder (1990)(Franklin, Ken)(FW).2mg" size 819264 crc 4a8f0aa8 md5 41ab83400ac2eb7c892b686eb13bcbae )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 1 of 2)"
+	description "Police Quest (1987)(Sierra)(Disk 1 of 2)"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 1 of 2).2mg" size 819267 crc b117cb97 md5 3fbbf6673dbff9aeb64a0f18714ad64b )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 1 of 2)[a]"
+	description "Police Quest (1987)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 1 of 2)[a].2mg" size 819288 crc d8d786f7 md5 75efdc51c5bc19e5df14e2d930975e1f )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 1 of 2)[a2]"
+	description "Police Quest (1987)(Sierra)(Disk 1 of 2)[a2]"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 1 of 2)[a2].2mg" size 819267 crc 75068850 md5 922e57875b8b3018565adf98125baf29 )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 2 of 2)"
+	description "Police Quest (1987)(Sierra)(Disk 2 of 2)"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 2 of 2).2mg" size 819267 crc 2fb33042 md5 cf03a4a74afad998b6cd32e94f9fd6ed )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 2 of 2)[a]"
+	description "Police Quest (1987)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 2 of 2)[a].2mg" size 819288 crc 0708de20 md5 08e2868303893bb8c066e9d04bb026d4 )
+)
+
+game (
+	name "Police Quest (1987)(Sierra)(Disk 2 of 2)[a2]"
+	description "Police Quest (1987)(Sierra)(Disk 2 of 2)[a2]"
+	rom ( name "Police Quest (1987)(Sierra)(Disk 2 of 2)[a2].2mg" size 819267 crc 8c41e23e md5 ed5d15760c83ac07fc49d9413f0262b6 )
+)
+
+game (
+	name "Project Neptune (1989)(Epyx)[a][unreleased]"
+	description "Project Neptune (1989)(Epyx)[a][unreleased]"
+	rom ( name "Project Neptune (1989)(Epyx)[a][unreleased].2mg" size 819264 crc da388c16 md5 f0aede4e8086e74a5141bc582c1c7f25 )
+)
+
+game (
+	name "Project Neptune (1989)(Epyx)[unreleased]"
+	description "Project Neptune (1989)(Epyx)[unreleased]"
+	rom ( name "Project Neptune (1989)(Epyx)[unreleased].2mg" size 819264 crc efd2f222 md5 759ba70ff362638d90cde844abd11fe4 )
+)
+
+game (
+	name "Puzznic (1990)(Taito)(US)[a][unreleased]"
+	description "Puzznic (1990)(Taito)(US)[a][unreleased]"
+	rom ( name "Puzznic (1990)(Taito)(US)[a][unreleased].2mg" size 819271 crc 1f58acce md5 b331e20080d8ee2d9cf533ec38fb8c68 )
+)
+
+game (
+	name "Puzznic (1990)(Taito)(US)[unreleased]"
+	description "Puzznic (1990)(Taito)(US)[unreleased]"
+	rom ( name "Puzznic (1990)(Taito)(US)[unreleased].2mg" size 819271 crc b9245329 md5 d7e799747eb5abab594dde7cf8d9134a )
+)
+
+game (
+	name "Qix (1990)(Taito)(US)"
+	description "Qix (1990)(Taito)(US)"
+	rom ( name "Qix (1990)(Taito)(US).2mg" size 819267 crc 9cb8aad7 md5 e772fc5caaa9847cae35431ab4d67dd2 )
+)
+
+game (
+	name "Quest for the Hoard (1991)(Pegasoft)(SW)"
+	description "Quest for the Hoard (1991)(Pegasoft)(SW)"
+	rom ( name "Quest for the Hoard (1991)(Pegasoft)(SW).2mg" size 819288 crc 2fbdd602 md5 46e762fd28cb922f3c36049e0a99ddd6 )
+)
+
+game (
+	name "Quest for the Hoard (1991)(Pegasoft)(SW)[a]"
+	description "Quest for the Hoard (1991)(Pegasoft)(SW)[a]"
+	rom ( name "Quest for the Hoard (1991)(Pegasoft)(SW)[a].2mg" size 819264 crc 30707ce3 md5 0413e298415a1faafeb539403aa1c2f7 )
+)
+
+game (
+	name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3)"
+	description "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3)"
+	rom ( name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3).2mg" size 819272 crc 394e0bbf md5 2790f4771739846bcc90ff3fe77d395c )
+)
+
+game (
+	name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3)[a][non boot]"
+	description "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3)[a][non boot]"
+	rom ( name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 1 of 3)[a][non boot].2mg" size 819272 crc 89e8524d md5 a396da9777783c4115f1e94fb907d6dc )
+)
+
+game (
+	name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3)"
+	description "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3)"
+	rom ( name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3).2mg" size 819272 crc 429933b0 md5 8c12cfbb879e832c217fd044d6d99141 )
+)
+
+game (
+	name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3)[a][non boot]"
+	description "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3)[a][non boot]"
+	rom ( name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 2 of 3)[a][non boot].2mg" size 819272 crc 78fb087c md5 635fbc336abb6cb0062956fb618f1fbf )
+)
+
+game (
+	name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 3 of 3)"
+	description "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 3 of 3)"
+	rom ( name "Questmaster I - The Prism of Heheutotol (1990)(Miles Computing)(Disk 3 of 3).2mg" size 819272 crc 8921cd8c md5 9c2edecd11d20c9d1d10aad396090bff )
+)
+
+game (
+	name "Questron II (1988)(SSI)"
+	description "Questron II (1988)(SSI)"
+	rom ( name "Questron II (1988)(SSI).2mg" size 819271 crc d7388d2c md5 b2ba1a217563dc1d00caf97c6d1acb57 )
+)
+
+game (
+	name "Questron II (1988)(SSI)[a]"
+	description "Questron II (1988)(SSI)[a]"
+	rom ( name "Questron II (1988)(SSI)[a].2mg" size 819264 crc ede42807 md5 21ecc6b14d1f0f36e56be123de91d732 )
+)
+
+game (
+	name "Questron II (1988)(SSI)[a2]"
+	description "Questron II (1988)(SSI)[a2]"
+	rom ( name "Questron II (1988)(SSI)[a2].2mg" size 819271 crc 1fc712d8 md5 32e42819828106c5d892bc56d0317ce3 )
+)
+
+game (
+	name "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr][t][b]"
+	description "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr][t][b]"
+	rom ( name "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr][t][b].2mg" size 819271 crc ff74fa9b md5 e00f102f7ac1e3d0874f0e4a3083066b )
+)
+
+game (
+	name "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr2][b]"
+	description "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr2][b]"
+	rom ( name "Rastan (1990)(Taito)(US)(Disk 1 of 2)[cr2][b].2mg" size 819264 crc 5fe35b65 md5 b1c474c18a82f79ceaa21b83a9a8de36 )
+)
+
+game (
+	name "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr][t][b]"
+	description "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr][t][b]"
+	rom ( name "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr][t][b].2mg" size 819271 crc 4ad2a826 md5 39b6b2b68e30d83074633fc5ee97ed40 )
+)
+
+game (
+	name "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr2][b]"
+	description "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr2][b]"
+	rom ( name "Rastan (1990)(Taito)(US)(Disk 2 of 2)[cr2][b].2mg" size 819264 crc 90e9bfc3 md5 cb60c54e89dfdecbbcc35ec0daeeba1b )
+)
+
+game (
+	name "Reach For The Stars (1988)(SSG)"
+	description "Reach For The Stars (1988)(SSG)"
+	rom ( name "Reach For The Stars (1988)(SSG).2mg" size 819264 crc f399d97c md5 b3d5d21241e745433999596d28bb1988 )
+)
+
+game (
+	name "Reach For The Stars (1988)(SSG)[a]"
+	description "Reach For The Stars (1988)(SSG)[a]"
+	rom ( name "Reach For The Stars (1988)(SSG)[a].2mg" size 819264 crc de8c6189 md5 f7c155d349bc2daa6dd0db4387acb3b8 )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3)"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3)"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3).2mg" size 819264 crc 4b0859ea md5 d9e16a52a65b9bed2988b5a8bd55ed59 )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3)[b]"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3)[b]"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 1 of 3)[b].2mg" size 819264 crc 6681642b md5 39d5c49bb64ed44bc3be8ce297bac72c )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3)"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3)"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3).2mg" size 819264 crc 266680ed md5 e7cf5a764dc689948c09beb0c3f4c2fd )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3)[b]"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3)[b]"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 2 of 3)[b].2mg" size 819264 crc 27b0a66a md5 c173876a9b595b376d54883ac5a445ad )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3)"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3)"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3).2mg" size 819264 crc e4bbc191 md5 bc556c5e9941d7fc45250d29bf024ec3 )
+)
+
+game (
+	name "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3)[b]"
+	description "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3)[b]"
+	rom ( name "Revolution '76 (1989)(Britannica Software)(Disk 3 of 3)[b].2mg" size 819264 crc 6496b791 md5 f0de524674c7bb4fb156c7bc09065180 )
+)
+
+game (
+	name "Roadwar 2000 (1987)(SSI)"
+	description "Roadwar 2000 (1987)(SSI)"
+	rom ( name "Roadwar 2000 (1987)(SSI).2mg" size 819270 crc e9a4484b md5 1e824e6c3aff7dc3367133d698eebb77 )
+)
+
+game (
+	name "Roadwar 2000 (1987)(SSI)[a]"
+	description "Roadwar 2000 (1987)(SSI)[a]"
+	rom ( name "Roadwar 2000 (1987)(SSI)[a].2mg" size 819264 crc d67d9c8e md5 1af5de69913887e46d7861a5747384c1 )
+)
+
+game (
+	name "Roadwar 2000 (1987)(SSI)[a2]"
+	description "Roadwar 2000 (1987)(SSI)[a2]"
+	rom ( name "Roadwar 2000 (1987)(SSI)[a2].2mg" size 819270 crc ede463c9 md5 55621b18e35e1ee8216c1e5c595cb3b7 )
+)
+
+game (
+	name "Rocket Ranger (1989)(Cinemaware)(Disk 1 of 2)"
+	description "Rocket Ranger (1989)(Cinemaware)(Disk 1 of 2)"
+	rom ( name "Rocket Ranger (1989)(Cinemaware)(Disk 1 of 2).2mg" size 819278 crc d1bef920 md5 bb9dfe3ee70a242c10d021ba29d30cd9 )
+)
+
+game (
+	name "Rocket Ranger (1989)(Cinemaware)(Disk 2 of 2)"
+	description "Rocket Ranger (1989)(Cinemaware)(Disk 2 of 2)"
+	rom ( name "Rocket Ranger (1989)(Cinemaware)(Disk 2 of 2).2mg" size 819278 crc c934bd55 md5 056a68440a330a661114296258d50394 )
+)
+
+game (
+	name "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 1 of 2)"
+	description "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 1 of 2)"
+	rom ( name "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 1 of 2).2mg" size 819264 crc 62c338fc md5 edcfeef5901e314bbeefe337c17074e9 )
+)
+
+game (
+	name "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 2 of 2)"
+	description "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 2 of 2)"
+	rom ( name "Rocket Ranger (1989)(Cinemaware)(fr)(Disk 2 of 2).2mg" size 819264 crc dc20251a md5 fe7f39a109abecaab5d286d1143039a3 )
+)
+
+game (
+	name "Runaway Robots (1988)(PBI Software)[unreleased]"
+	description "Runaway Robots (1988)(PBI Software)[unreleased]"
+	rom ( name "Runaway Robots (1988)(PBI Software)[unreleased].2mg" size 819264 crc 8ea8dfdd md5 a5cbf45c485069f2595559a6558218ad )
+)
+
+game (
+	name "Sea Strike (1987)(PBI Software)"
+	description "Sea Strike (1987)(PBI Software)"
+	rom ( name "Sea Strike (1987)(PBI Software).2mg" size 819264 crc 545061fd md5 012de736bff1f5aba7d425fb746e1882 )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr]"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr]"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr].2mg" size 819264 crc 33f37566 md5 3674a723bf11e0de9cf28a92b5403f4f )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr2]"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr2]"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 1 of 3)[cr2].2mg" size 819264 crc 6dd5dc3d md5 2830a3f9bc2fc2170133709bfdbd5d8f )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3)"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3)"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3).2mg" size 819264 crc d0723c0e md5 e70bb1ecf609ccf347854ec43ba9f3c3 )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3)[cr]"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3)[cr]"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 2 of 3)[cr].2mg" size 819264 crc c338c6d3 md5 02cef8ab805a4dfd229bb92a7685db07 )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3)"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3)"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3).2mg" size 819264 crc 25847af0 md5 2153be66bdb69e690daac49a410a3040 )
+)
+
+game (
+	name "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3)[cr]"
+	description "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3)[cr]"
+	rom ( name "Secrets of Bahras, The (1991)(Victory Software)(Disk 3 of 3)[cr].2mg" size 819264 crc 165f1294 md5 39c867b74222cf530a15f47c9d563a3a )
+)
+
+game (
+	name "Sensei (1991)(Miami Software)(FW)"
+	description "Sensei (1991)(Miami Software)(FW)"
+	rom ( name "Sensei (1991)(Miami Software)(FW).2mg" size 819264 crc f623510c md5 66e47ed728b99012f5bd2746a116786c )
+)
+
+game (
+	name "Sensei (1991)(Miami Software)(FW)[b]"
+	description "Sensei (1991)(Miami Software)(FW)[b]"
+	rom ( name "Sensei (1991)(Miami Software)(FW)[b].2mg" size 819264 crc cff23b17 md5 d329fb29a11c1e09fde9e4b77e46b3c9 )
+)
+
+game (
+	name "Sensei (1991)(Miami Software)(FW)[b2]"
+	description "Sensei (1991)(Miami Software)(FW)[b2]"
+	rom ( name "Sensei (1991)(Miami Software)(FW)[b2].2mg" size 819264 crc 3f445b93 md5 41da0997ca5bd5dcdb34fab800b591c4 )
+)
+
+game (
+	name "Senseless Violence 2 (1989)(Pangea Software)(SW)[a][non boot]"
+	description "Senseless Violence 2 (1989)(Pangea Software)(SW)[a][non boot]"
+	rom ( name "Senseless Violence 2 (1989)(Pangea Software)(SW)[a][non boot].2mg" size 819264 crc 1481ba4a md5 c52281a04a674439bc02f0d9ff75c224 )
+)
+
+game (
+	name "Senseless Violence 2 (1989)(Pangea Software)(SW)[b]"
+	description "Senseless Violence 2 (1989)(Pangea Software)(SW)[b]"
+	rom ( name "Senseless Violence 2 (1989)(Pangea Software)(SW)[b].2mg" size 819264 crc bc69206e md5 f3059e846d91578a7c5400747e9cc1f8 )
+)
+
+game (
+	name "Senseless Violence 2 (1989)(Pangea Software)(SW)[non boot]"
+	description "Senseless Violence 2 (1989)(Pangea Software)(SW)[non boot]"
+	rom ( name "Senseless Violence 2 (1989)(Pangea Software)(SW)[non boot].2mg" size 819264 crc d5e0fc85 md5 bd12372d3d46b36617a716ec8aa76b50 )
+)
+
+game (
+	name "Serve & Volley (1988)(Accolade)[b]"
+	description "Serve & Volley (1988)(Accolade)[b]"
+	rom ( name "Serve & Volley (1988)(Accolade)[b].2mg" size 819271 crc d293ac1a md5 eff9301d2a39f97e9925ab7c761616f1 )
+)
+
+game (
+	name "Serve & Volley (1988)(Accolade)[b2]"
+	description "Serve & Volley (1988)(Accolade)[b2]"
+	rom ( name "Serve & Volley (1988)(Accolade)[b2].2mg" size 819264 crc b0caae54 md5 a2a866cccda366efee9b2e49791e7eba )
+)
+
+game (
+	name "Shadowgate (1988)(Mindscape)"
+	description "Shadowgate (1988)(Mindscape)"
+	rom ( name "Shadowgate (1988)(Mindscape).2mg" size 819274 crc 438cdecc md5 f90dc158002b234ff9d252e7bee1c01b )
+)
+
+game (
+	name "Shadowgate (1988)(Mindscape)[b][non boot]"
+	description "Shadowgate (1988)(Mindscape)[b][non boot]"
+	rom ( name "Shadowgate (1988)(Mindscape)[b][non boot].2mg" size 819274 crc 87d6ca73 md5 bc0f8ed411c900b735c926220b5b40cc )
+)
+
+game (
+	name "Shadowgate (1988)(Mindscape)[cr][b][non boot]"
+	description "Shadowgate (1988)(Mindscape)[cr][b][non boot]"
+	rom ( name "Shadowgate (1988)(Mindscape)[cr][b][non boot].2mg" size 819264 crc 2fdb9e4d md5 a70e6cdfeae5714911edabb9952a897c )
+)
+
+game (
+	name "Shanghai (1987)(Activision)"
+	description "Shanghai (1987)(Activision)"
+	rom ( name "Shanghai (1987)(Activision).2mg" size 819271 crc 4480351c md5 d203a949fe670f39e5e85c0263feee77 )
+)
+
+game (
+	name "Shanghai (1987)(Activision)[a]"
+	description "Shanghai (1987)(Activision)[a]"
+	rom ( name "Shanghai (1987)(Activision)[a].2mg" size 819271 crc 6a071ef3 md5 a561e5b17d84eaff128fb39904b6adbd )
+)
+
+game (
+	name "Shanghai (1987)(Activision)[cr]"
+	description "Shanghai (1987)(Activision)[cr]"
+	rom ( name "Shanghai (1987)(Activision)[cr].2mg" size 819264 crc 9e015c4b md5 1cd83abe2424a82e4e484e0ae85f6566 )
+)
+
+game (
+	name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2)"
+	description "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2)"
+	rom ( name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2).2mg" size 819264 crc 25273437 md5 9b99a3acf8287ab829dbba133d8e2b16 )
+)
+
+game (
+	name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2)[non boot]"
+	description "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2)[non boot]"
+	rom ( name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 1 of 2)[non boot].2mg" size 819264 crc 3fcc899b md5 dfca0214a755d522ac85ecf6fbc108e5 )
+)
+
+game (
+	name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2)"
+	description "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2)"
+	rom ( name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2).2mg" size 819264 crc 2ad380ff md5 fd0ee472f6d213e9579debed67082f46 )
+)
+
+game (
+	name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2)[non boot]"
+	description "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2)[non boot]"
+	rom ( name "Shanghai II - Dragon's Eye (1993)(Big Red Computer Club)(Disk 2 of 2)[non boot].2mg" size 819264 crc b3119df7 md5 8b55c9a775314f93ca24dd5d22c2d573 )
+)
+
+game (
+	name "Shufflepuck Cafe (1990)(Broderbund)[a][non boot][unreleased]"
+	description "Shufflepuck Cafe (1990)(Broderbund)[a][non boot][unreleased]"
+	rom ( name "Shufflepuck Cafe (1990)(Broderbund)[a][non boot][unreleased].2mg" size 819271 crc 98878de6 md5 f21216170ae9f95afc7ed1232b313e69 )
+)
+
+game (
+	name "Shufflepuck Cafe (1990)(Broderbund)[non boot][unreleased]"
+	description "Shufflepuck Cafe (1990)(Broderbund)[non boot][unreleased]"
+	rom ( name "Shufflepuck Cafe (1990)(Broderbund)[non boot][unreleased].2mg" size 819271 crc 6d7446a7 md5 8eaf00064971c81373738697472a01df )
+)
+
+game (
+	name "Silent Service (1987)(Microprose)"
+	description "Silent Service (1987)(Microprose)"
+	rom ( name "Silent Service (1987)(Microprose).2mg" size 819278 crc 6e8ecbc0 md5 b59e78c9f233023664234007ff4c5305 )
+)
+
+game (
+	name "Silent Service (1987)(Microprose)[a]"
+	description "Silent Service (1987)(Microprose)[a]"
+	rom ( name "Silent Service (1987)(Microprose)[a].2mg" size 819278 crc 432cc38c md5 6c28c098a88c6b64ff63f98239ad98a6 )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 1 of 2)"
+	description "Silpheed (1988)(Sierra)(Disk 1 of 2)"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 1 of 2).2mg" size 819273 crc 83062f65 md5 a6683a4821dac9446bdbaf78fd3aca79 )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 1 of 2)[a]"
+	description "Silpheed (1988)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 1 of 2)[a].2mg" size 819273 crc 0b80f532 md5 a38c20592c953b3c9a48d057396ca3f3 )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 1 of 2)[cr]"
+	description "Silpheed (1988)(Sierra)(Disk 1 of 2)[cr]"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 1 of 2)[cr].2mg" size 819264 crc 73870633 md5 2f33ca1c4688123b140265d11082ffad )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 2 of 2)"
+	description "Silpheed (1988)(Sierra)(Disk 2 of 2)"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 2 of 2).2mg" size 819273 crc b94bb008 md5 75b04cf5d04dbe42bad376bf88e9bd5e )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 2 of 2)[a]"
+	description "Silpheed (1988)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 2 of 2)[a].2mg" size 819273 crc 7f60ffbd md5 d55d8dba1123c0b23ab4fe911dd351a2 )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 2 of 2)[a2]"
+	description "Silpheed (1988)(Sierra)(Disk 2 of 2)[a2]"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 2 of 2)[a2].2mg" size 819273 crc e5fc3cdf md5 f027cf907d1f271c572d0e54b9a5f78e )
+)
+
+game (
+	name "Silpheed (1988)(Sierra)(Disk 2 of 2)[cr]"
+	description "Silpheed (1988)(Sierra)(Disk 2 of 2)[cr]"
+	rom ( name "Silpheed (1988)(Sierra)(Disk 2 of 2)[cr].2mg" size 819264 crc a1140834 md5 c227ba60f567a7070ed90ee23eed2d1f )
+)
+
+game (
+	name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)"
+	description "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)"
+	rom ( name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2).2mg" size 819271 crc 60b1b91f md5 ac418e5545f69b3fcd795749eccaa24b )
+)
+
+game (
+	name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[a]"
+	description "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[a]"
+	rom ( name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[a].2mg" size 819271 crc 725ecdca md5 06c5be1eda52545cdd2dabe0ac76d6bd )
+)
+
+game (
+	name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[b]"
+	description "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[b]"
+	rom ( name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 1 of 2)[b].2mg" size 819264 crc c3a9fa0e md5 bf60d0d5ccd0d5dee375effbaf2ed664 )
+)
+
+game (
+	name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2)"
+	description "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2)"
+	rom ( name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2).2mg" size 819271 crc 4eefb500 md5 0d6c2a77ae5c4cd74f08414d80ed580f )
+)
+
+game (
+	name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2)[b]"
+	description "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2)[b]"
+	rom ( name "Sinbad And The Throne of The Falcon (1990)(Cinemaware)(Disk 2 of 2)[b].2mg" size 819264 crc fbfe7bca md5 bb04b6fbb4501b71da8cfbad252b261a )
+)
+
+game (
+	name "Skate Or Die (1988)(Electronic Arts)"
+	description "Skate Or Die (1988)(Electronic Arts)"
+	rom ( name "Skate Or Die (1988)(Electronic Arts).2mg" size 819267 crc 9e49f71c md5 30d8b1b013ce2c22184862bcefc83e64 )
+)
+
+game (
+	name "Skate Or Die (1988)(Electronic Arts)[b]"
+	description "Skate Or Die (1988)(Electronic Arts)[b]"
+	rom ( name "Skate Or Die (1988)(Electronic Arts)[b].2mg" size 819264 crc c1b2cd37 md5 8de0a6632bb0017149afa7ab65188465 )
+)
+
+game (
+	name "Solarian (1992)(Coloreez)(SW)"
+	description "Solarian (1992)(Coloreez)(SW)"
+	rom ( name "Solarian (1992)(Coloreez)(SW).2mg" size 819264 crc 9716ef25 md5 eac35c62ba95cd2614daf3d9e51cc190 )
+)
+
+game (
+	name "Solitaire Royale (1990)(Spectrum Holobyte)"
+	description "Solitaire Royale (1990)(Spectrum Holobyte)"
+	rom ( name "Solitaire Royale (1990)(Spectrum Holobyte).2mg" size 819264 crc 50d6f131 md5 771c9e7012526081fd5e4cfb8cf656dd )
+)
+
+game (
+	name "Solitaire Royale (1990)(Spectrum Holobyte)[a]"
+	description "Solitaire Royale (1990)(Spectrum Holobyte)[a]"
+	rom ( name "Solitaire Royale (1990)(Spectrum Holobyte)[a].2mg" size 819264 crc 2509b877 md5 1523996cec1f15d082e5388086a49a9a )
+)
+
+game (
+	name "Solitaire Royale (1990)(Spectrum Holobyte)[a2]"
+	description "Solitaire Royale (1990)(Spectrum Holobyte)[a2]"
+	rom ( name "Solitaire Royale (1990)(Spectrum Holobyte)[a2].2mg" size 819264 crc fa0f8d1a md5 2d7bc48a655160ce9914568401771c0e )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 1 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 1 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 1 of 9).2mg" size 819264 crc 395c1a1a md5 d0f01684952dbfcebf0a1b77e5478c28 )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 2 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 2 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 2 of 9).2mg" size 819269 crc 14fef9b1 md5 d5822a96a88065b8f36b9d58c7924bec )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 3 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 3 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 3 of 9).2mg" size 819269 crc 6444a933 md5 7614aed3035f256da6a424eca4664a8b )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 4 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 4 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 4 of 9).2mg" size 819269 crc 89c90589 md5 01c4e4d1680ca2c82079de8d0da0bb60 )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 5 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 5 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 5 of 9).2mg" size 819269 crc c678a293 md5 06c9c672bcb010d565cf625bd558ba9b )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 6 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 6 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 6 of 9).2mg" size 819269 crc cc2ff584 md5 d6005e7efeffb404ea5c3c6693db3af1 )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 7 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 7 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 7 of 9).2mg" size 819269 crc c8c6f12f md5 56a97791b2bde2b54626956cdd862fd6 )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 8 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 8 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 8 of 9).2mg" size 819269 crc 2bde2751 md5 cc272c4279cbf2c308b4c489b21afafb )
+)
+
+game (
+	name "Space Ace (1990)(ReadySoft)(Disk 9 of 9)"
+	description "Space Ace (1990)(ReadySoft)(Disk 9 of 9)"
+	rom ( name "Space Ace (1990)(ReadySoft)(Disk 9 of 9).2mg" size 819269 crc 77b00239 md5 5b4fd912ad1399139cef54add33ca7d0 )
+)
+
+game (
+	name "Space Ace (demo) (1990)(ReadySoft)(FW)"
+	description "Space Ace (demo) (1990)(ReadySoft)(FW)"
+	rom ( name "Space Ace (demo) (1990)(ReadySoft)(FW).2mg" size 819264 crc 45f72732 md5 779dcc9860548127b5a952f3810cef31 )
+)
+
+game (
+	name "Space Cluster (1990)(Miami Software)(FW)[b]"
+	description "Space Cluster (1990)(Miami Software)(FW)[b]"
+	rom ( name "Space Cluster (1990)(Miami Software)(FW)[b].2mg" size 819264 crc 99949336 md5 d2a0d9e0d3240fdfb1e81f1d6e09f355 )
+)
+
+game (
+	name "Space Fox (1992)(Seven Hills Software)"
+	description "Space Fox (1992)(Seven Hills Software)"
+	rom ( name "Space Fox (1992)(Seven Hills Software).2mg" size 1536064 crc 5498fa99 md5 9cbeb2323bc082b709d66c0b411bca82 )
+)
+
+game (
+	name "Space Harrier (19xx)(-)[b]"
+	description "Space Harrier (19xx)(-)[b]"
+	rom ( name "Space Harrier (19xx)(-)[b].2mg" size 819264 crc 92f31d5b md5 d2e9155cc8e01576620a1ffb3376f35e )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2).2mg" size 819271 crc 973a16d6 md5 8698a6df1f51ed406b83fc0bed700410 )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[a]"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[a].2mg" size 819271 crc d021d26b md5 283ccab2f2e6df2e036d499b835a057c )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[b]"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[b]"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 1 of 2)[b].2mg" size 819264 crc 529e8615 md5 934755ab7ae5a08ede5e9be6af54bad8 )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2).2mg" size 819271 crc d49d52b7 md5 ad803444300bddeefd167ad44e63969d )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[a]"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[a].2mg" size 819271 crc 96295ae0 md5 e85a54c291e02076d4ef80b12e77f6a7 )
+)
+
+game (
+	name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[b]"
+	description "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[b]"
+	rom ( name "Space Quest I - The Sarien Encounter (1987)(Sierra)(Disk 2 of 2)[b].2mg" size 819264 crc 75df6c94 md5 4a998cc0598ae8301dc84900ff5a541d )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2).2mg" size 819269 crc 052a2dd9 md5 9d0dc85a5a53ed3e5e8b8be32a367aea )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[a]"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[a]"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[a].2mg" size 819269 crc 7091faef md5 f3b4055562f210019e802ef278231010 )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[b]"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[b]"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 1 of 2)[b].2mg" size 819264 crc f0c168e7 md5 4db143003bef6a4b9cfe1b360c6e8f24 )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2).2mg" size 819269 crc 28ff830b md5 c43dce33315a441dbbf63e4f4dc3bc86 )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[a]"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[a]"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[a].2mg" size 819269 crc 1eb05c4c md5 e7a6cccb23adfc0eeabad84ddb4ca8b0 )
+)
+
+game (
+	name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[b]"
+	description "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[b]"
+	rom ( name "Space Quest II - Vohaul's Revenge (1988)(Sierra)(Disk 2 of 2)[b].2mg" size 819264 crc 543ff873 md5 d0526981e26a31de3ea55436b44739cd )
+)
+
+game (
+	name "Space Shark (1990)(Toolbox)"
+	description "Space Shark (1990)(Toolbox)"
+	rom ( name "Space Shark (1990)(Toolbox).2mg" size 819264 crc 030c7675 md5 90c566bb6184f779159c303009f2efca )
+)
+
+game (
+	name "Space Shark (1990)(Toolbox)[b]"
+	description "Space Shark (1990)(Toolbox)[b]"
+	rom ( name "Space Shark (1990)(Toolbox)[b].2mg" size 819264 crc 1dd9e9af md5 5761403ebec096f7a34401be48ee0dfb )
+)
+
+game (
+	name "Space Shark (1990)(Toolbox)[b2]"
+	description "Space Shark (1990)(Toolbox)[b2]"
+	rom ( name "Space Shark (1990)(Toolbox)[b2].2mg" size 819288 crc 898a8f6f md5 a998be16e24a6bd85157dd69df8aae72 )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3).2mg" size 819264 crc 320fc8d6 md5 e9f7d26568c1d42c07049dc8309ac378 )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a]"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a]"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a].2mg" size 819264 crc 2417486f md5 73708f3cb7adb330c55c4e40c77aff24 )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a2]"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a2]"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 1 of 3)[a2].2mg" size 819264 crc 9b6f4b52 md5 e54d9d30ac821aef02dcd7bed3da339d )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3)"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3)"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3).2mg" size 819264 crc 272e9259 md5 c454c60c9ac102ed43406b4c4acb548a )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3)[a]"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3)[a]"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 2 of 3)[a].2mg" size 819264 crc 3cebcca3 md5 8c854fc82813b4cf7590604dadf12068 )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3)"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3)"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3).2mg" size 819264 crc 0f98a7cc md5 fff1043e91fecf939ba094a9b777d032 )
+)
+
+game (
+	name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3)[a]"
+	description "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3)[a]"
+	rom ( name "Spirit of Excalibur (1991)(Virgin Mastertronic)(Disk 3 of 3)[a].2mg" size 819264 crc 0dedc25f md5 7e993934d090a1d0a5ddc35d1c3dd1bb )
+)
+
+game (
+	name "Star Saga One - Beyond the Boundary (1988)(MasterPlay)"
+	description "Star Saga One - Beyond the Boundary (1988)(MasterPlay)"
+	rom ( name "Star Saga One - Beyond the Boundary (1988)(MasterPlay).2mg" size 819264 crc 47d2b3de md5 6756e2c76f36cbaf35feecdbde2ee1d6 )
+)
+
+game (
+	name "Star Saga Two - The Clathran Menance v1.0 (1988)(MasterPlay)"
+	description "Star Saga Two - The Clathran Menance v1.0 (1988)(MasterPlay)"
+	rom ( name "Star Saga Two - The Clathran Menance v1.0 (1988)(MasterPlay).2mg" size 819264 crc bcccd756 md5 7de2ca26b5bfa70693514d57a53b53d1 )
+)
+
+game (
+	name "Strategic Conquest (1986)(PBI Software)"
+	description "Strategic Conquest (1986)(PBI Software)"
+	rom ( name "Strategic Conquest (1986)(PBI Software).2mg" size 819264 crc b92ef661 md5 acb5797be8918befd67f850420273b47 )
+)
+
+game (
+	name "Street Sports Soccer (1988)(Epyx)"
+	description "Street Sports Soccer (1988)(Epyx)"
+	rom ( name "Street Sports Soccer (1988)(Epyx).2mg" size 819270 crc aaa72cea md5 77e30c6c05febc23e1109ff402a37c5e )
+)
+
+game (
+	name "Street Sports Soccer (1988)(Epyx)[a]"
+	description "Street Sports Soccer (1988)(Epyx)[a]"
+	rom ( name "Street Sports Soccer (1988)(Epyx)[a].2mg" size 819270 crc bcddbb81 md5 8097615fbe2c72aaa4f00a721d2a1d64 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 1 of 6)"
+	description "Strip Poker II (1987)(Artworx)(Disk 1 of 6)"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 1 of 6).2mg" size 819264 crc 22862a31 md5 c184b9bb19d3515d96f517ac3c5d57e6 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 1 of 6)[a]"
+	description "Strip Poker II (1987)(Artworx)(Disk 1 of 6)[a]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 1 of 6)[a].2mg" size 819264 crc 797a57de md5 48a712180e7b441628794076d66bee04 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 2 of 6)[data 1]"
+	description "Strip Poker II (1987)(Artworx)(Disk 2 of 6)[data 1]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 2 of 6)[data 1].2mg" size 819264 crc 0f2e510d md5 2674ae5ed31ffb536fbe050bc96bbfb4 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 3 of 6)[data 2]"
+	description "Strip Poker II (1987)(Artworx)(Disk 3 of 6)[data 2]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 3 of 6)[data 2].2mg" size 819264 crc cf1d2431 md5 d4e8ea65d91093e03812627fee885c52 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 4 of 6)[data 3]"
+	description "Strip Poker II (1987)(Artworx)(Disk 4 of 6)[data 3]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 4 of 6)[data 3].2mg" size 819264 crc a2adaece md5 77773d2783d368470b7d7e7034ec8da0 )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 5 of 6)[data 4]"
+	description "Strip Poker II (1987)(Artworx)(Disk 5 of 6)[data 4]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 5 of 6)[data 4].2mg" size 819264 crc f4b9c5ab md5 00800fad255f2d7f5ff5815e762a93bc )
+)
+
+game (
+	name "Strip Poker II (1987)(Artworx)(Disk 6 of 6)[data 5]"
+	description "Strip Poker II (1987)(Artworx)(Disk 6 of 6)[data 5]"
+	rom ( name "Strip Poker II (1987)(Artworx)(Disk 6 of 6)[data 5].2mg" size 819264 crc b553e85e md5 4b330c3f10d794d4f30fa9c6ce546ea0 )
+)
+
+game (
+	name "Sub Battle Simulator (1987)(Epyx)"
+	description "Sub Battle Simulator (1987)(Epyx)"
+	rom ( name "Sub Battle Simulator (1987)(Epyx).2mg" size 819271 crc 2e0c470f md5 b04a6ff1a1da287c72cbbb0a7fabd921 )
+)
+
+game (
+	name "Sub Battle Simulator (1987)(Epyx)[a]"
+	description "Sub Battle Simulator (1987)(Epyx)[a]"
+	rom ( name "Sub Battle Simulator (1987)(Epyx)[a].2mg" size 819271 crc ba759e53 md5 e076828a187514ff8aecf2d1a2cdc11c )
+)
+
+game (
+	name "Subversion v1.0 (1992)(Point of View Computing)"
+	description "Subversion v1.0 (1992)(Point of View Computing)"
+	rom ( name "Subversion v1.0 (1992)(Point of View Computing).2mg" size 819264 crc 1ebae98a md5 c7dc121059e482ad7e916c047e9551cb )
+)
+
+game (
+	name "Superstar Ice Hockey (1988)(Mindscape)"
+	description "Superstar Ice Hockey (1988)(Mindscape)"
+	rom ( name "Superstar Ice Hockey (1988)(Mindscape).2mg" size 819273 crc fba0c7da md5 a81be02f3c222284471da1e08ab66c58 )
+)
+
+game (
+	name "Superstar Ice Hockey (1988)(Mindscape)[a]"
+	description "Superstar Ice Hockey (1988)(Mindscape)[a]"
+	rom ( name "Superstar Ice Hockey (1988)(Mindscape)[a].2mg" size 819273 crc 86dd4237 md5 78ea710210755777a0052f564f3f24ee )
+)
+
+game (
+	name "Superstar Ice Hockey (1988)(Mindscape)[cr]"
+	description "Superstar Ice Hockey (1988)(Mindscape)[cr]"
+	rom ( name "Superstar Ice Hockey (1988)(Mindscape)[cr].2mg" size 819264 crc 1236d5d9 md5 937bf24d1cabec4cdfd913db4554f7d3 )
+)
+
+game (
+	name "Sword of Sodan (demo-rolling) (1989)(Discovery Software)(FW)"
+	description "Sword of Sodan (demo-rolling) (1989)(Discovery Software)(FW)"
+	rom ( name "Sword of Sodan (demo-rolling) (1989)(Discovery Software)(FW).2mg" size 819264 crc c0745ba9 md5 c6f1fcb58b6acf17d8bfa119cdf50757 )
+)
+
+game (
+	name "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t]"
+	description "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t]"
+	rom ( name "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t].2mg" size 819267 crc bc60614e md5 ce7c65d3ca7c8661da2049ba335d20b7 )
+)
+
+game (
+	name "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t][a]"
+	description "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t][a]"
+	rom ( name "Task Force (1990)(Fanfare)(Disk 1 of 2)[cr][t][a].2mg" size 819264 crc 52c43381 md5 73eb6071d85366ab198b2a19794052d7 )
+)
+
+game (
+	name "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t]"
+	description "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t]"
+	rom ( name "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t].2mg" size 819267 crc bbff6d1a md5 41c2bd53e177bf02690110de3f358ff6 )
+)
+
+game (
+	name "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t][a]"
+	description "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t][a]"
+	rom ( name "Task Force (1990)(Fanfare)(Disk 2 of 2)[cr][t][a].2mg" size 819264 crc 34a0a273 md5 f554f847000d62062ab12a9d0cc498b8 )
+)
+
+game (
+	name "Task Force (demo) (1990)(Fanfare)(FW)"
+	description "Task Force (demo) (1990)(Fanfare)(FW)"
+	rom ( name "Task Force (demo) (1990)(Fanfare)(FW).2mg" size 819264 crc 95fcb6eb md5 41ea94ac36862aaf27716de4bd2251fd )
+)
+
+game (
+	name "Tass Times In Tonetown (1986)(Activision)"
+	description "Tass Times In Tonetown (1986)(Activision)"
+	rom ( name "Tass Times In Tonetown (1986)(Activision).2mg" size 819274 crc cf7674ff md5 aea51c6116a4277eac1bf55216083f16 )
+)
+
+game (
+	name "Tass Times In Tonetown (1986)(Activision)[a]"
+	description "Tass Times In Tonetown (1986)(Activision)[a]"
+	rom ( name "Tass Times In Tonetown (1986)(Activision)[a].2mg" size 819264 crc bbc8add4 md5 3be3f03755ba9bd62bf130d4f2dac8c2 )
+)
+
+game (
+	name "Teenage Queen (1990)(Infogrames)[b][unreleased]"
+	description "Teenage Queen (1990)(Infogrames)[b][unreleased]"
+	rom ( name "Teenage Queen (1990)(Infogrames)[b][unreleased].2mg" size 819264 crc 7d211efa md5 8689a02d6ebe40474407730e07755772 )
+)
+
+game (
+	name "Teenage Queen (1990)(Infogrames)[unreleased]"
+	description "Teenage Queen (1990)(Infogrames)[unreleased]"
+	rom ( name "Teenage Queen (1990)(Infogrames)[unreleased].2mg" size 819266 crc 7fa58fe6 md5 f952321392e6911ef599dfe92a20f800 )
+)
+
+game (
+	name "Test Drive II - California Scenario (1989)(Accolade)"
+	description "Test Drive II - California Scenario (1989)(Accolade)"
+	rom ( name "Test Drive II - California Scenario (1989)(Accolade).2mg" size 819273 crc 72a8bc47 md5 c267ef0a013cafc1d25caab82e1779ef )
+)
+
+game (
+	name "Test Drive II - European Scenario (1989)(Accolade)"
+	description "Test Drive II - European Scenario (1989)(Accolade)"
+	rom ( name "Test Drive II - European Scenario (1989)(Accolade).2mg" size 819272 crc fcca63e7 md5 353b33a5160efc846d37988466f84fe0 )
+)
+
+game (
+	name "Test Drive II - Muscle Cars (1989)(Accolade)"
+	description "Test Drive II - Muscle Cars (1989)(Accolade)"
+	rom ( name "Test Drive II - Muscle Cars (1989)(Accolade).2mg" size 819264 crc d1d5de5c md5 7b1dabdc11812b3330ee31a211349457 )
+)
+
+game (
+	name "Test Drive II - Muscle Cars (1989)(Accolade)[a]"
+	description "Test Drive II - Muscle Cars (1989)(Accolade)[a]"
+	rom ( name "Test Drive II - Muscle Cars (1989)(Accolade)[a].2mg" size 819274 crc 61be1ef2 md5 df07a4eceb40f9312657ded69bccaed4 )
+)
+
+game (
+	name "Test Drive II - Super Cars (1989)(Accolade)"
+	description "Test Drive II - Super Cars (1989)(Accolade)"
+	rom ( name "Test Drive II - Super Cars (1989)(Accolade).2mg" size 819273 crc 9d30a310 md5 b4c3455b954cea05da2c2da1fbaea8ae )
+)
+
+game (
+	name "Test Drive II - Super Cars (1989)(Accolade)[a]"
+	description "Test Drive II - Super Cars (1989)(Accolade)[a]"
+	rom ( name "Test Drive II - Super Cars (1989)(Accolade)[a].2mg" size 819264 crc 988d3563 md5 ad6899e593ead342f938b3977a22b8fd )
+)
+
+game (
+	name "Test Drive II - The Duel (1989)(Accolade)"
+	description "Test Drive II - The Duel (1989)(Accolade)"
+	rom ( name "Test Drive II - The Duel (1989)(Accolade).2mg" size 819273 crc 6a5d7430 md5 c818c19d92463616c090cc41588bfb7a )
+)
+
+game (
+	name "Test Drive II - The Duel (1989)(Accolade)[a]"
+	description "Test Drive II - The Duel (1989)(Accolade)[a]"
+	rom ( name "Test Drive II - The Duel (1989)(Accolade)[a].2mg" size 819273 crc a1bcdaef md5 83ff64c637071a514f3cbf28655c7e85 )
+)
+
+game (
+	name "Test Drive II - The Duel (1989)(Accolade)[cr]"
+	description "Test Drive II - The Duel (1989)(Accolade)[cr]"
+	rom ( name "Test Drive II - The Duel (1989)(Accolade)[cr].2mg" size 819264 crc 589fc826 md5 ef8f78398b068daa6ca1a4fe4b382351 )
+)
+
+game (
+	name "Tetris (1988)(Spectrum Holobyte)"
+	description "Tetris (1988)(Spectrum Holobyte)"
+	rom ( name "Tetris (1988)(Spectrum Holobyte).2mg" size 819271 crc 2b1de352 md5 ea4655154d9234e57eddb30eb0684c3a )
+)
+
+game (
+	name "Tetris (1988)(Spectrum Holobyte)[a]"
+	description "Tetris (1988)(Spectrum Holobyte)[a]"
+	rom ( name "Tetris (1988)(Spectrum Holobyte)[a].2mg" size 819271 crc 01d34e34 md5 afc65e36825b0733a6e7424ebb541b4b )
+)
+
+game (
+	name "Thexder (1987)(Sierra)"
+	description "Thexder (1987)(Sierra)"
+	rom ( name "Thexder (1987)(Sierra).2mg" size 819271 crc 8d763708 md5 243febfa3eece803e9452d71e568e630 )
+)
+
+game (
+	name "Thexder (1987)(Sierra)[a]"
+	description "Thexder (1987)(Sierra)[a]"
+	rom ( name "Thexder (1987)(Sierra)[a].2mg" size 819271 crc 6a1e97c1 md5 61e55d37b01b387692d3ffd7dc6ecdb8 )
+)
+
+game (
+	name "Thexder (1987)(Sierra)[a2]"
+	description "Thexder (1987)(Sierra)[a2]"
+	rom ( name "Thexder (1987)(Sierra)[a2].2mg" size 819271 crc fd6c765c md5 e285fd3e8e1001d87c41065e58f7ff88 )
+)
+
+game (
+	name "Thexder (1987)(Sierra)[cr]"
+	description "Thexder (1987)(Sierra)[cr]"
+	rom ( name "Thexder (1987)(Sierra)[cr].2mg" size 819264 crc 42d0d0ca md5 003d3e3281f2bd49ac817563cc9344e2 )
+)
+
+game (
+	name "Third Courier, The (1989)(Accolade)(Disk 1 of 2)"
+	description "Third Courier, The (1989)(Accolade)(Disk 1 of 2)"
+	rom ( name "Third Courier, The (1989)(Accolade)(Disk 1 of 2).2mg" size 819269 crc 30909342 md5 8132db8d9387bda754878eda1f85033a )
+)
+
+game (
+	name "Third Courier, The (1989)(Accolade)(Disk 1 of 2)[a]"
+	description "Third Courier, The (1989)(Accolade)(Disk 1 of 2)[a]"
+	rom ( name "Third Courier, The (1989)(Accolade)(Disk 1 of 2)[a].2mg" size 819269 crc e160669a md5 2d562e862fda65ae172ca68129c4fc78 )
+)
+
+game (
+	name "Third Courier, The (1989)(Accolade)(Disk 2 of 2)"
+	description "Third Courier, The (1989)(Accolade)(Disk 2 of 2)"
+	rom ( name "Third Courier, The (1989)(Accolade)(Disk 2 of 2).2mg" size 819269 crc edcf3b14 md5 6714445906f6d100fd3aa4a85726dd6f )
+)
+
+game (
+	name "Third Courier, The (1989)(Accolade)(Disk 2 of 2)[a]"
+	description "Third Courier, The (1989)(Accolade)(Disk 2 of 2)[a]"
+	rom ( name "Third Courier, The (1989)(Accolade)(Disk 2 of 2)[a].2mg" size 819269 crc 833dc306 md5 db58fb2951def262445875d71e158568 )
+)
+
+game (
+	name "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b]"
+	description "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b]"
+	rom ( name "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b].2mg" size 819279 crc 2530745b md5 4da71a7a6e42d604fe0117597759bc93 )
+)
+
+game (
+	name "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b2]"
+	description "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b2]"
+	rom ( name "Three Stooges, The (1990)(Cinemaware)(Disk 1 of 2)[cr][b2].2mg" size 819264 crc 6652300a md5 5b2f052a65cd5e20e832ebec362814f7 )
+)
+
+game (
+	name "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b]"
+	description "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b]"
+	rom ( name "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b].2mg" size 819279 crc 190b8d64 md5 33f3f28194f460dcb614244bd180a973 )
+)
+
+game (
+	name "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b2]"
+	description "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b2]"
+	rom ( name "Three Stooges, The (1990)(Cinemaware)(Disk 2 of 2)[cr][b2].2mg" size 819264 crc 8e3c4561 md5 7d796542a7f65f58a11195ec0e526e26 )
+)
+
+game (
+	name "Timelord (demo) (1992)(Dreamworld)(FW)"
+	description "Timelord (demo) (1992)(Dreamworld)(FW)"
+	rom ( name "Timelord (demo) (1992)(Dreamworld)(FW).2mg" size 819264 crc a6ad5fcc md5 58b04a5e48e27597c39b1522f5ba1c53 )
+)
+
+game (
+	name "Tinies, The (1994)(Brutal Deluxe)(FW)"
+	description "Tinies, The (1994)(Brutal Deluxe)(FW)"
+	rom ( name "Tinies, The (1994)(Brutal Deluxe)(FW).2mg" size 819264 crc 5d7cf524 md5 da97c9e889aa7d9c3e96fcd385f6e95f )
+)
+
+game (
+	name "Tomahawk (1988)(Datasoft)(Disk 1 of 2)[b]"
+	description "Tomahawk (1988)(Datasoft)(Disk 1 of 2)[b]"
+	rom ( name "Tomahawk (1988)(Datasoft)(Disk 1 of 2)[b].2mg" size 819264 crc 0ea08ba7 md5 2b14d18071ef91c5fe800878356de03b )
+)
+
+game (
+	name "Tomahawk (1988)(Datasoft)(Disk 2 of 2)[b]"
+	description "Tomahawk (1988)(Datasoft)(Disk 2 of 2)[b]"
+	rom ( name "Tomahawk (1988)(Datasoft)(Disk 2 of 2)[b].2mg" size 819264 crc 9b2bd3c1 md5 676a4480aa69f24d07885741ffa1cd88 )
+)
+
+game (
+	name "Tomahawk (1988)(Datasoft)"
+	description "Tomahawk (1988)(Datasoft)"
+	rom ( name "Tomahawk (1988)(Datasoft).2mg" size 819271 crc cead4d64 md5 1ee61459ee3bc4ec7285513482ddcf52 )
+)
+
+game (
+	name "Tomahawk (1988)(Datasoft)[cr]"
+	description "Tomahawk (1988)(Datasoft)[cr]"
+	rom ( name "Tomahawk (1988)(Datasoft)[cr].2mg" size 819271 crc 8c6cb067 md5 b5eec40a7caa5cfd86505ae5edbc68fa )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2).2mg" size 819271 crc f7b49459 md5 50bd09de058f1cb64911bfec3ba28439 )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[a]"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[a]"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[a].2mg" size 819271 crc 4f937681 md5 201a66b8372f548eb9c73ff0dd94b5d6 )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[cr]"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[cr]"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 1 of 2)[cr].2mg" size 819264 crc a037a067 md5 d7c4544cc45247fc64a4c7ec434f9e79 )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2).2mg" size 819271 crc f016c054 md5 89f7b7334c910a7664218d7d67d4f8c8 )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a]"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a]"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a].2mg" size 819271 crc 3a7d596e md5 8ffc5318892967a5ac56594fe3a92ae2 )
+)
+
+game (
+	name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a2]"
+	description "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a2]"
+	rom ( name "Tower of Myraglen, The (1987)(PBI Software)(Disk 2 of 2)[a2].2mg" size 819264 crc 92c5d3cf md5 842eb335a874cecb696fc316da7ae22c )
+)
+
+game (
+	name "Transylvania (19xx)(Merit Software - Polarware)(Disk 1 of 2)"
+	description "Transylvania (19xx)(Merit Software - Polarware)(Disk 1 of 2)"
+	rom ( name "Transylvania (19xx)(Merit Software - Polarware)(Disk 1 of 2).2mg" size 819288 crc 4195fa6e md5 bcd3183a96052bd0e1f90781d8170a9a )
+)
+
+game (
+	name "Transylvania (19xx)(Merit Software - Polarware)(Disk 2 of 2)"
+	description "Transylvania (19xx)(Merit Software - Polarware)(Disk 2 of 2)"
+	rom ( name "Transylvania (19xx)(Merit Software - Polarware)(Disk 2 of 2).2mg" size 819288 crc ac5608cb md5 cf7c92e7e4978de6be33529ac6cf77be )
+)
+
+game (
+	name "Transylvania III (1990)(Polarware)(Disk 1 of 2)"
+	description "Transylvania III (1990)(Polarware)(Disk 1 of 2)"
+	rom ( name "Transylvania III (1990)(Polarware)(Disk 1 of 2).2mg" size 819267 crc b8b51ec7 md5 41456d6e4fb1281d89c996fedb421629 )
+)
+
+game (
+	name "Transylvania III (1990)(Polarware)(Disk 2 of 2)"
+	description "Transylvania III (1990)(Polarware)(Disk 2 of 2)"
+	rom ( name "Transylvania III (1990)(Polarware)(Disk 2 of 2).2mg" size 819267 crc e48be186 md5 7d47e0167bb73890050cd4ac2d21703a )
+)
+
+game (
+	name "Triango (1988)(California Dreams)"
+	description "Triango (1988)(California Dreams)"
+	rom ( name "Triango (1988)(California Dreams).2mg" size 819266 crc 6845bbfd md5 636086b0d50ad0dddf5388da0742db4a )
+)
+
+game (
+	name "Triango (1988)(California Dreams)[b]"
+	description "Triango (1988)(California Dreams)[b]"
+	rom ( name "Triango (1988)(California Dreams)[b].2mg" size 819266 crc 071bcc41 md5 6085ec63d36fe1b8b72eef40eee58e44 )
+)
+
+game (
+	name "Tunnels of Armageddon (1990)(California Dreams)"
+	description "Tunnels of Armageddon (1990)(California Dreams)"
+	rom ( name "Tunnels of Armageddon (1990)(California Dreams).2mg" size 819271 crc 1f41a31e md5 4b0816425c2e631b9c1a72a052125e10 )
+)
+
+game (
+	name "Tunnels of Armageddon (1990)(California Dreams)[a]"
+	description "Tunnels of Armageddon (1990)(California Dreams)[a]"
+	rom ( name "Tunnels of Armageddon (1990)(California Dreams)[a].2mg" size 819271 crc 761c438c md5 d560ce6682e147b8bbc59400283b2dff )
+)
+
+game (
+	name "Tunnels of Armageddon (1990)(California Dreams)[b]"
+	description "Tunnels of Armageddon (1990)(California Dreams)[b]"
+	rom ( name "Tunnels of Armageddon (1990)(California Dreams)[b].2mg" size 819264 crc 064f3fdc md5 4530aa42138bdea59d95bcdb91a59785 )
+)
+
+game (
+	name "Uninvited (1988)(Mindscape)[b][non boot]"
+	description "Uninvited (1988)(Mindscape)[b][non boot]"
+	rom ( name "Uninvited (1988)(Mindscape)[b][non boot].2mg" size 819273 crc 24910e07 md5 bf6e1ccb3b1b5615024bf717a0922a27 )
+)
+
+game (
+	name "Uninvited (1988)(Mindscape)[cr][b][non boot]"
+	description "Uninvited (1988)(Mindscape)[cr][b][non boot]"
+	rom ( name "Uninvited (1988)(Mindscape)[cr][b][non boot].2mg" size 819264 crc a2f6378f md5 d911bf771e0917dd5b8d294ab1750403 )
+)
+
+game (
+	name "Vegas Craps (1988)(California Dreams)"
+	description "Vegas Craps (1988)(California Dreams)"
+	rom ( name "Vegas Craps (1988)(California Dreams).2mg" size 819264 crc 6be60f90 md5 0fee1041d628c439a125f1a905c640f1 )
+)
+
+game (
+	name "Vegas Craps (1988)(California Dreams)[a]"
+	description "Vegas Craps (1988)(California Dreams)[a]"
+	rom ( name "Vegas Craps (1988)(California Dreams)[a].2mg" size 819264 crc 0036797c md5 cbbd22eb9e2f08a6882341a0edfbcb7c )
+)
+
+game (
+	name "Vegas Gambler (1988)(California Dreams)"
+	description "Vegas Gambler (1988)(California Dreams)"
+	rom ( name "Vegas Gambler (1988)(California Dreams).2mg" size 819271 crc f379c752 md5 bdc2fba49a37176eab7e2d593766ef5d )
+)
+
+game (
+	name "Vegas Gambler (1988)(California Dreams)[a]"
+	description "Vegas Gambler (1988)(California Dreams)[a]"
+	rom ( name "Vegas Gambler (1988)(California Dreams)[a].2mg" size 819271 crc 4154834c md5 697c7acb01067611122196337dd6bc3b )
+)
+
+game (
+	name "Vindicators (1989)(Tengen - Atari Games)[cr][unreleased]"
+	description "Vindicators (1989)(Tengen - Atari Games)[cr][unreleased]"
+	rom ( name "Vindicators (1989)(Tengen - Atari Games)[cr][unreleased].2mg" size 819268 crc 3284b546 md5 9c46f94ec56a88eb190b06dd6e4aaab6 )
+)
+
+game (
+	name "Vindicators (1989)(Tengen - Atari Games)[unreleased]"
+	description "Vindicators (1989)(Tengen - Atari Games)[unreleased]"
+	rom ( name "Vindicators (1989)(Tengen - Atari Games)[unreleased].2mg" size 819268 crc c6ac4266 md5 49d058b94471f085d1104a27ee379222 )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2).2mg" size 819266 crc d7d90379 md5 c8f8f03fbcca57e992c102845d245f75 )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[a]"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[a]"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[a].2mg" size 819266 crc 7b8cff58 md5 e18db8fd8fdc1ca2a6694703fc11a889 )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[cr]"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[cr]"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 1 of 2)[cr].2mg" size 819264 crc 58d4b481 md5 c71ed0c85d84a6aedbf09a3d22c39abc )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2).2mg" size 819266 crc 4e201b60 md5 bbc9dc408996bdda83acf9f02fd582cb )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[a]"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[a]"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[a].2mg" size 819266 crc 0bea2a44 md5 dea0b38857ec70a697e106c761c1ac57 )
+)
+
+game (
+	name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[cr]"
+	description "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[cr]"
+	rom ( name "War In Middle Earth (1989)(Melbourne House)(Disk 2 of 2)[cr].2mg" size 819264 crc a03b3465 md5 fba02009e5189cad20deffe617937cc7 )
+)
+
+game (
+	name "Warlock (1988)(Three Sixty)"
+	description "Warlock (1988)(Three Sixty)"
+	rom ( name "Warlock (1988)(Three Sixty).2mg" size 819275 crc 6e01304d md5 15d371d95e11bdabd25613944d6418b4 )
+)
+
+game (
+	name "Warlock (1988)(Three Sixty)[a]"
+	description "Warlock (1988)(Three Sixty)[a]"
+	rom ( name "Warlock (1988)(Three Sixty)[a].2mg" size 819275 crc 5a5c2622 md5 a97eb59da14c623cafbc644c05628e57 )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 1 of 2)"
+	description "Windwalker (1990)(Origin)(Disk 1 of 2)"
+	rom ( name "Windwalker (1990)(Origin)(Disk 1 of 2).2mg" size 819271 crc f1e85950 md5 e8aafa155487f3c5bf93206aa42bf98e )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 1 of 2)[a]"
+	description "Windwalker (1990)(Origin)(Disk 1 of 2)[a]"
+	rom ( name "Windwalker (1990)(Origin)(Disk 1 of 2)[a].2mg" size 819271 crc 3d4112fc md5 d03dfc05c95f05e787eb06c39902a333 )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 1 of 2)[a2]"
+	description "Windwalker (1990)(Origin)(Disk 1 of 2)[a2]"
+	rom ( name "Windwalker (1990)(Origin)(Disk 1 of 2)[a2].2mg" size 819271 crc 9dccc87d md5 85bb3a9794ea39a3135dfc981b125eed )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 1 of 2)[cr]"
+	description "Windwalker (1990)(Origin)(Disk 1 of 2)[cr]"
+	rom ( name "Windwalker (1990)(Origin)(Disk 1 of 2)[cr].2mg" size 819264 crc 432178dc md5 b52d915faa1c25eb9b1dab6d095e34f0 )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 2 of 2)"
+	description "Windwalker (1990)(Origin)(Disk 2 of 2)"
+	rom ( name "Windwalker (1990)(Origin)(Disk 2 of 2).2mg" size 819271 crc e0c8fa41 md5 22482a79016de79a606954fe79cd5438 )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 2 of 2)[a]"
+	description "Windwalker (1990)(Origin)(Disk 2 of 2)[a]"
+	rom ( name "Windwalker (1990)(Origin)(Disk 2 of 2)[a].2mg" size 819271 crc a8eb7fca md5 c8402cf0ff5763ba2e5b3a40fb29cdec )
+)
+
+game (
+	name "Windwalker (1990)(Origin)(Disk 2 of 2)[cr]"
+	description "Windwalker (1990)(Origin)(Disk 2 of 2)[cr]"
+	rom ( name "Windwalker (1990)(Origin)(Disk 2 of 2)[cr].2mg" size 819264 crc caa3b033 md5 e299b77cf3bd2a0ab0ffe9dd30fb8a31 )
+)
+
+game (
+	name "Winter Games (1987)(Epyx)"
+	description "Winter Games (1987)(Epyx)"
+	rom ( name "Winter Games (1987)(Epyx).2mg" size 819276 crc e467f029 md5 39a56220f1c24ec5e682654dbdde2ded )
+)
+
+game (
+	name "Wolfenstein 3D v1.1 (1997)(Logicware)(FW)"
+	description "Wolfenstein 3D v1.1 (1997)(Logicware)(FW)"
+	rom ( name "Wolfenstein 3D v1.1 (1997)(Logicware)(FW).2mg" size 2949184 crc aa92275b md5 1b9dc188909774863ce982ca0f79a4b9 )
+)
+
+game (
+	name "World Games (1987)(Epyx)"
+	description "World Games (1987)(Epyx)"
+	rom ( name "World Games (1987)(Epyx).2mg" size 819275 crc a93ec647 md5 b498a085378ef241cfcef3a557463600 )
+)
+
+game (
+	name "World Tour Golf (1987)(Electronic Arts)"
+	description "World Tour Golf (1987)(Electronic Arts)"
+	rom ( name "World Tour Golf (1987)(Electronic Arts).2mg" size 819264 crc 05988b6d md5 a62017d196af7f722a725765c86462f2 )
+)
+
+game (
+	name "World Tour Golf (1987)(Electronic Arts)[a]"
+	description "World Tour Golf (1987)(Electronic Arts)[a]"
+	rom ( name "World Tour Golf (1987)(Electronic Arts)[a].2mg" size 819264 crc e2bee2d7 md5 393a8819741fe20974e6bb4da36ff92d )
+)
+
+game (
+	name "Xenocide (1989)(Micro Revelations)"
+	description "Xenocide (1989)(Micro Revelations)"
+	rom ( name "Xenocide (1989)(Micro Revelations).2mg" size 819272 crc 8cbabbfe md5 4c3b31022dba181d6ed559c92fdd2fe0 )
+)
+
+game (
+	name "Xenocide (1989)(Micro Revelations)[a]"
+	description "Xenocide (1989)(Micro Revelations)[a]"
+	rom ( name "Xenocide (1989)(Micro Revelations)[a].2mg" size 819264 crc 92185444 md5 8e010c8e52df0c355f3d78c409628f68 )
+)
+
+game (
+	name "Zany golf (1988)(Electronic Arts)"
+	description "Zany golf (1988)(Electronic Arts)"
+	rom ( name "Zany golf (1988)(Electronic Arts).2mg" size 819268 crc 6612959a md5 c9c78378964caf30d55aac9535039f15 )
+)
+
+game (
+	name "Zany golf (1988)(Electronic Arts)[b]"
+	description "Zany golf (1988)(Electronic Arts)[b]"
+	rom ( name "Zany golf (1988)(Electronic Arts)[b].2mg" size 819268 crc a882123e md5 4642457e4b2d3eb1f8bcc0df8be964e7 )
+)
+
+game (
+	name "Zany golf (1988)(Electronic Arts)[cr][b]"
+	description "Zany golf (1988)(Electronic Arts)[cr][b]"
+	rom ( name "Zany golf (1988)(Electronic Arts)[cr][b].2mg" size 819264 crc 1bb9ce8d md5 7a4e056d6e0f8c6f8e3bb253ef1c40d7 )
+)
+
+game (
+	name "ZZZ-UNK-life and death (disc 1 of 4) (alt)"
+	description "ZZZ-UNK-life and death (disc 1 of 4) (alt)"
+	rom ( name "ZZZ-UNK-life and death (disc 1 of 4) (alt).2mg" size 819264 crc a9fce7d2 md5 e4b1c7df81239d6717bcb5856b738651 )
+)
+
+game (
+	name "ZZZ-UNK-life and death (disc 2 of 4) (alt)"
+	description "ZZZ-UNK-life and death (disc 2 of 4) (alt)"
+	rom ( name "ZZZ-UNK-life and death (disc 2 of 4) (alt).2mg" size 819264 crc 20a3904c md5 4f3faf9fd42a83604dc35b4df9ca7f02 )
+)

@@ -1,0 +1,109 @@
+clrmamepro (
+	name "DEC PDP-8 - Collections - DECUS"
+	description "DEC PDP-8 - Collections - DECUS (TOSEC-v2010-08-25)"
+	category "DEC PDP-8 - Collections - DECUS"
+	version 2010-08-25
+	author "TKaos"
+)
+
+game (
+	name "DECUS-12-123a (1973-09-17)(DECUS)(US)[VR12H.BN]"
+	description "DECUS-12-123a (1973-09-17)(DECUS)(US)[VR12H.BN]"
+	rom ( name "DECUS-12-123a (1973-09-17)(DECUS)(US)[VR12H.BN].ptp" size 1075 crc 46e4a67e md5 ab1ee1281b5d807a59ac06a74a323edc )
+)
+
+game (
+	name "DECUS-12-149 (1974-01-09)(DECUS)(US)[XPIP8 V2]"
+	description "DECUS-12-149 (1974-01-09)(DECUS)(US)[XPIP8 V2]"
+	rom ( name "DECUS-12-149 (1974-01-09)(DECUS)(US)[XPIP8 V2].ptp" size 6788 crc d09e667e md5 f6519af62813e8a1321e1b54f808a15a )
+)
+
+game (
+	name "DECUS-12-150 (1973-09-10)(DECUS)(US)[XPIP10]"
+	description "DECUS-12-150 (1973-09-10)(DECUS)(US)[XPIP10]"
+	rom ( name "DECUS-12-150 (1973-09-10)(DECUS)(US)[XPIP10].ptp" size 7059 crc e492ca80 md5 992c26b720aa7962d98c6715facc121f )
+)
+
+game (
+	name "DECUS-8-133 (19xx)(DECUS)(US)[Modified Minmax & Plot]"
+	description "DECUS-8-133 (19xx)(DECUS)(US)[Modified Minmax & Plot]"
+	rom ( name "DECUS-8-133 (19xx)(DECUS)(US)[Modified Minmax & Plot].ptp" size 5403 crc 17455e2f md5 cb2d90c82b80c85e232616c5aa58fff9 )
+)
+
+game (
+	name "DECUS-8-260 (1969-03-24)(DECUS)(US)[Fast Direct & Inverse Discreet Fourier Transforms]"
+	description "DECUS-8-260 (1969-03-24)(DECUS)(US)[Fast Direct & Inverse Discreet Fourier Transforms]"
+	rom ( name "DECUS-8-260 (1969-03-24)(DECUS)(US)[Fast Direct & Inverse Discreet Fourier Transforms].ptp" size 1814 crc 8133c7ca md5 a93cccba183f36612d523a92214b71d2 )
+)
+
+game (
+	name "DECUS-8-263 (19xx)(DECUS)(US)[XY Plot]"
+	description "DECUS-8-263 (19xx)(DECUS)(US)[XY Plot]"
+	rom ( name "DECUS-8-263 (19xx)(DECUS)(US)[XY Plot].ptp" size 5172 crc f75ed41b md5 5c8bec94c5170476ca5ec1aefb5c62f5 )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[a][FFT - 3 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[a][FFT - 3 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[a][FFT - 3 Symbolic].ptp" size 1883 crc 69f45170 md5 eb03b8db04974a6e53fa0d5450f9d50e )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 1 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 1 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 1 Symbolic].ptp" size 3211 crc 95451dbd md5 2cb52400fa70f0c1a56c801064287275 )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 3 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 3 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 3 Symbolic].ptp" size 3333 crc fb4d489a md5 a795eb999edb8345f10358c382eb6549 )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 4 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 4 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT - 4 Symbolic].ptp" size 1917 crc 5ebb56f5 md5 c24015ed0311abf727ad9749d44d493c )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT Binary Sampling]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT Binary Sampling]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FFT Binary Sampling].ptp" size 3236 crc 4d0cb9d3 md5 130b3429b00ced68348478da25a5bb57 )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 1 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 1 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 1 Symbolic].ptp" size 3136 crc a4e9ccb0 md5 a3abe4db3f2d6145f1c1c9860420bd9e )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 2 Symbolic]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 2 Symbolic]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT - 2 Symbolic].ptp" size 1942 crc e165df14 md5 563d86e7930fa2def5f0796f92a1ac68 )
+)
+
+game (
+	name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT Sampling]"
+	description "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT Sampling]"
+	rom ( name "DECUS-8-292 (1969-03-07)(DECUS)(US)[FWFT Sampling].ptp" size 1367 crc 1fd7d8d4 md5 b2046f2e5c3420abc2ce19fc95667645 )
+)
+
+game (
+	name "DECUS-8-639 (1973-11-18)(DECUS)(US)(Part 1 of 2)[Split Binary]"
+	description "DECUS-8-639 (1973-11-18)(DECUS)(US)(Part 1 of 2)[Split Binary]"
+	rom ( name "DECUS-8-639 (1973-11-18)(DECUS)(US)(Part 1 of 2)[Split Binary].ptp" size 1600 crc 7a9a1fd1 md5 0659a389777c7c2237ccf291fe912008 )
+)
+
+game (
+	name "DECUS-8-639 (1973-11-26)(DECUS)(US)(Part 2 of 2)[Split Binary]"
+	description "DECUS-8-639 (1973-11-26)(DECUS)(US)(Part 2 of 2)[Split Binary]"
+	rom ( name "DECUS-8-639 (1973-11-26)(DECUS)(US)(Part 2 of 2)[Split Binary].ptp" size 5065 crc 673470b5 md5 967db38fb4f701425f223b28b8cea7aa )
+)
+
+game (
+	name "DECUS-8-821 (1976-06-14)(DECUS)(US)[Spastic IV]"
+	description "DECUS-8-821 (1976-06-14)(DECUS)(US)[Spastic IV]"
+	rom ( name "DECUS-8-821 (1976-06-14)(DECUS)(US)[Spastic IV].ptp" size 7192 crc e48a4197 md5 2fda30d30515677ec2314a9b929b5974 )
+)

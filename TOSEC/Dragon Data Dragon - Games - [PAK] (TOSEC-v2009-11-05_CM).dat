@@ -1,0 +1,200 @@
+clrmamepro (
+	name "Dragon Data Dragon - Games - [PAK]"
+	description "Dragon Data Dragon - Games - [PAK] (TOSEC-v2009-11-05)"
+	category "Dragon Data Dragon - Games - [PAK]"
+	version 2009-11-05
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "3D Lunattack (1984)(Hewson Consultants)"
+	description "3D Lunattack (1984)(Hewson Consultants)"
+	rom ( name "3D Lunattack (1984)(Hewson Consultants).pak" size 32634 crc cbd91290 md5 a06d974e9c979b2e5d4789b6098286d6 )
+)
+
+game (
+	name "Airball (1987)(Microdeal)"
+	description "Airball (1987)(Microdeal)"
+	rom ( name "Airball (1987)(Microdeal).pak" size 32836 crc 16829d6f md5 440aa78d4e91dc80c8bf358f0d5da3b7 )
+)
+
+game (
+	name "Balldozer (1988)(Kouga)"
+	description "Balldozer (1988)(Kouga)"
+	rom ( name "Balldozer (1988)(Kouga).pak" size 32836 crc a161a606 md5 63b1cebf93ce9d33a5436270d208b52f )
+)
+
+game (
+	name "Bonka (1983)(J. Morrison Micros)"
+	description "Bonka (1983)(J. Morrison Micros)"
+	rom ( name "Bonka (1983)(J. Morrison Micros).pak" size 32634 crc aae00d05 md5 b6a66abf2c92e72de433e01e50ed7497 )
+)
+
+game (
+	name "Bubble Buster (1984)(Pocket Money Software)"
+	description "Bubble Buster (1984)(Pocket Money Software)"
+	rom ( name "Bubble Buster (1984)(Pocket Money Software).pak" size 32634 crc 050cdd4b md5 ef44c7dc6c5f7e64ba94eda2f96635a1 )
+)
+
+game (
+	name "Chuckie Egg (1983)(A&F Software)"
+	description "Chuckie Egg (1983)(A&F Software)"
+	rom ( name "Chuckie Egg (1983)(A&F Software).pak" size 32634 crc 03dd4762 md5 100f9a6a5566ad7e5082aecbdbfe0d8a )
+)
+
+game (
+	name "Doodle Bug (1985)(Microdeal)"
+	description "Doodle Bug (1985)(Microdeal)"
+	rom ( name "Doodle Bug (1985)(Microdeal).pak" size 32634 crc 4fcf4144 md5 b38861c18d2bc36df3d96523a12d03ee )
+)
+
+game (
+	name "Escape v1.0 (1982)(Microdeal)"
+	description "Escape v1.0 (1982)(Microdeal)"
+	rom ( name "Escape v1.0 (1982)(Microdeal).pak" size 32634 crc 7022d324 md5 159dd178fcc3f2a4b355251803365745 )
+)
+
+game (
+	name "Fruity Machine, The (1983)(Impsoft)"
+	description "Fruity Machine, The (1983)(Impsoft)"
+	rom ( name "Fruity Machine, The (1983)(Impsoft).pak" size 32634 crc b2a7ad4b md5 fae327ded9d9184b86b3630a014b9512 )
+)
+
+game (
+	name "Grand Prix (1983)(Salamander Software)"
+	description "Grand Prix (1983)(Salamander Software)"
+	rom ( name "Grand Prix (1983)(Salamander Software).pak" size 32836 crc 10cc7758 md5 80d936d2caf958338c58ebcaf8483137 )
+)
+
+game (
+	name "Hunchback (1983)(Ocean)"
+	description "Hunchback (1983)(Ocean)"
+	rom ( name "Hunchback (1983)(Ocean).pak" size 32634 crc 662947a2 md5 95d336717d7dcf45d319f7ae4375d09c )
+)
+
+game (
+	name "Invader Cube - 3D OXO (1983)(Oasis)"
+	description "Invader Cube - 3D OXO (1983)(Oasis)"
+	rom ( name "Invader Cube - 3D OXO (1983)(Oasis).pak" size 32837 crc f11a67e0 md5 cb51ac241d3f97f66fbc77decb4279ce )
+)
+
+game (
+	name "Jet Set Willy (1985)(Software Projects)"
+	description "Jet Set Willy (1985)(Software Projects)"
+	rom ( name "Jet Set Willy (1985)(Software Projects).pak" size 32834 crc 018e21dc md5 b039552844e780e0d97c156e3c1e3560 )
+)
+
+game (
+	name "Keys of the Wizard v1.2 (1983)(Microdeal)"
+	description "Keys of the Wizard v1.2 (1983)(Microdeal)"
+	rom ( name "Keys of the Wizard v1.2 (1983)(Microdeal).pak" size 32836 crc af08aa14 md5 b02c50d814948982c487feb9993d8cae )
+)
+
+game (
+	name "Lost in Space v1.1 (1983)(Salamander Software)"
+	description "Lost in Space v1.1 (1983)(Salamander Software)"
+	rom ( name "Lost in Space v1.1 (1983)(Salamander Software).pak" size 32836 crc acfee29c md5 0cc3a6129d729286580a90fdcdcaab30 )
+)
+
+game (
+	name "Manic Miner (1984)(Software Projects)"
+	description "Manic Miner (1984)(Software Projects)"
+	rom ( name "Manic Miner (1984)(Software Projects).pak" size 32634 crc d42c4be7 md5 3cefa520dd569b6e2493f46f24e1cdcc )
+)
+
+game (
+	name "Nerble Force (1985)(Microdeal)"
+	description "Nerble Force (1985)(Microdeal)"
+	rom ( name "Nerble Force (1985)(Microdeal).pak" size 32634 crc 57e2f15b md5 d2d33f4801fb1c7ff7b644de4a5027ec )
+)
+
+game (
+	name "Ossie (198x)(Peaksoft)"
+	description "Ossie (198x)(Peaksoft)"
+	rom ( name "Ossie (198x)(Peaksoft).pak" size 32746 crc bc3e19c4 md5 7af822f19bcee4abe75d6346cb6c9453 )
+)
+
+game (
+	name "Pinball (1982)(Microdeal)"
+	description "Pinball (1982)(Microdeal)"
+	rom ( name "Pinball (1982)(Microdeal).pak" size 32634 crc 4763a9c9 md5 f8135fd792417bd8ddff9fc394cbae9f )
+)
+
+game (
+	name "Quest, The (1983)(Impact)"
+	description "Quest, The (1983)(Impact)"
+	rom ( name "Quest, The (1983)(Impact).pak" size 32634 crc 752d753b md5 31b38fee60bb767e61f518b334b509ee )
+)
+
+game (
+	name "Rommel's Revenge (1984)(Design Design)"
+	description "Rommel's Revenge (1984)(Design Design)"
+	rom ( name "Rommel's Revenge (1984)(Design Design).pak" size 32634 crc 84ba1855 md5 ff2cbf4d9e39ba187fac0c1dcb4de4be )
+)
+
+game (
+	name "Rotabb (1989)(Kouga)"
+	description "Rotabb (1989)(Kouga)"
+	rom ( name "Rotabb (1989)(Kouga).pak" size 32634 crc 3592a8ce md5 23174e3ee128f06f9f4ffb1459354aea )
+)
+
+game (
+	name "Screaming Ab-Dabs, The (1984)(A&F Software)"
+	description "Screaming Ab-Dabs, The (1984)(A&F Software)"
+	rom ( name "Screaming Ab-Dabs, The (1984)(A&F Software).pak" size 32805 crc 16785f3c md5 402d869e1d44031ea52ce11be6f6c2e4 )
+)
+
+game (
+	name "Shanghai (1991)(Burgin, Paul)"
+	description "Shanghai (1991)(Burgin, Paul)"
+	rom ( name "Shanghai (1991)(Burgin, Paul).pak" size 22125 crc fd6033c0 md5 ff0017413f3afae7763c11906b92c43f )
+)
+
+game (
+	name "Shock Trooper (1984)(Microdeal)"
+	description "Shock Trooper (1984)(Microdeal)"
+	rom ( name "Shock Trooper (1984)(Microdeal).pak" size 32741 crc 3bf54635 md5 145c430fc4825f9d054c3ca764644d7c )
+)
+
+game (
+	name "Skramble (1983)(Microdeal)"
+	description "Skramble (1983)(Microdeal)"
+	rom ( name "Skramble (1983)(Microdeal).pak" size 32634 crc c349d537 md5 4535be0031da4c02843b809c47c74cbf )
+)
+
+game (
+	name "Tetras (1990)(Burgin, Paul)"
+	description "Tetras (1990)(Burgin, Paul)"
+	rom ( name "Tetras (1990)(Burgin, Paul).pak" size 19153 crc 840f6000 md5 66f6158854ba5b129ee0c842d9bc430b )
+)
+
+game (
+	name "Ultrapede (1983)(Rainbow)"
+	description "Ultrapede (1983)(Rainbow)"
+	rom ( name "Ultrapede (1983)(Rainbow).pak" size 32630 crc a061167f md5 64762c588fe9bc595445d2f6c68de4bc )
+)
+
+game (
+	name "Vulcanox (1983)(Salamander Software)"
+	description "Vulcanox (1983)(Salamander Software)"
+	rom ( name "Vulcanox (1983)(Salamander Software).pak" size 32836 crc d2a86c08 md5 f88384e990b094fae5593e4fe7fc2443 )
+)
+
+game (
+	name "Wizard's Lair (1985)(Blaby Computer Games)"
+	description "Wizard's Lair (1985)(Blaby Computer Games)"
+	rom ( name "Wizard's Lair (1985)(Blaby Computer Games).pak" size 32634 crc afeb4564 md5 78bfac5527e2a60354106b03b648f810 )
+)
+
+game (
+	name "Yumping Yosser (198x)(Knight Software)"
+	description "Yumping Yosser (198x)(Knight Software)"
+	rom ( name "Yumping Yosser (198x)(Knight Software).pak" size 32837 crc 39b55dd2 md5 7b7eea2d22892389fdfb3b89c3d22dc1 )
+)
+
+game (
+	name "Zaxxon (1983)(Datasoft)"
+	description "Zaxxon (1983)(Datasoft)"
+	rom ( name "Zaxxon (1983)(Datasoft).pak" size 32634 crc a253b472 md5 054d85f16d81b15ad70f3934ab8d21e5 )
+)
+

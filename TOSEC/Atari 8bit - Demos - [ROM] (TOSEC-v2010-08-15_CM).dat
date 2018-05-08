@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Atari 8bit - Demos - [ROM]"
+	description "Atari 8bit - Demos - [ROM] (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Demos - [ROM]"
+	version 2010-08-15
+	author "TKaos"
+)
+
+game (
+	name "In-Store Demonstration Program (19xx)(Atari)(US)"
+	description "In-Store Demonstration Program (19xx)(Atari)(US)"
+	rom ( name "In-Store Demonstration Program (19xx)(Atari)(US).rom" size 16384 crc 9bedcdf3 md5 2469a0db5d3bda380747363245c6495f )
+)

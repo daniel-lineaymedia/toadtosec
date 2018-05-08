@@ -1,0 +1,38 @@
+clrmamepro (
+	name "Commodore C64 - Demos - [TAP]"
+	description "Commodore C64 - Demos - [TAP] (TOSEC-v2012-09-25)"
+	category "Commodore C64 - Demos - [TAP]"
+	version 2012-09-25
+	author "Duncan Twain - DesertWolf - Apache"
+)
+
+game (
+	name "Commodore 64 - An introduction to BASIC part 1 (1982)(-)"
+	description "Commodore 64 - An introduction to BASIC part 1 (1982)(-)"
+	rom ( name "Commodore 64 - An introduction to BASIC part 1 (1982)(-).tap" size 1485752 crc 195cd504 md5 8407ccf20448dd81d4506cd3c102a7eb sha1 b6804fc74ef50d6a56c6022adf951fd8f272296a )
+)
+
+game (
+	name "Demo whit No Name, The (19xx)(Sensi Soft)"
+	description "Demo whit No Name, The (19xx)(Sensi Soft)"
+	rom ( name "Demo whit No Name, The (19xx)(Sensi Soft).tap" size 137794 crc eb4aaf49 md5 e4e919329b719018b6192589b6bd5bb4 sha1 8baadc188a21bb7b0551d5cc069a9df61a2d3224 )
+)
+
+game (
+	name "Load of TAP, A (2008)(Onslaught)"
+	description "Load of TAP, A (2008)(Onslaught)"
+	rom ( name "Load of TAP, A (2008)(Onslaught).tap" size 971172 crc dcab6c6c md5 4a4e29359935dacd81284a4bf0dd74f6 sha1 052b9b0b94b60186c93e0112fca1415e106b5258 )
+)
+
+game (
+	name "Terminus (1990)(Drew Rodger)"
+	description "Terminus (1990)(Drew Rodger)"
+	rom ( name "Terminus (1990)(Drew Rodger).tap" size 167713 crc 0287cde8 md5 ce8efc010a9c096a8daea925244eaba2 sha1 a23863b34bbd8bff1f7fbe2f777a67132a6317de )
+)
+
+game (
+	name "Terminus (1990)(Drew Rodger)[a]"
+	description "Terminus (1990)(Drew Rodger)[a]"
+	rom ( name "Terminus (1990)(Drew Rodger)[a].tap" size 168046 crc 0856d163 md5 d32279f6c4e93eea1d6ce18b31a4d144 sha1 f05c0b8154c6f2bb472587f7906db76594c9b207 )
+)
+

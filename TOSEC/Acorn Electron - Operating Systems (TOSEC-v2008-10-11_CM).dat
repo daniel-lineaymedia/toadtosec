@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Acorn Electron - Operating Systems"
+	description "Acorn Electron - Operating Systems (TOSEC-v2008-10-11)"
+	category "Acorn Electron - Operating Systems"
+	version 2008-10-11
+	author "Grendel - Tankgirl - CRSV - Cassiel"
+)
+
+game (
+	name "Acorn Electron MOS (19xx)(-)"
+	description "Acorn Electron MOS (19xx)(-)"
+	rom ( name "Acorn Electron MOS (19xx)(-).bin" size 16384 crc d61135d7 md5 b1707bd3132f6d791c9530dad623e7c6 )
+)
+
+game (
+	name "Acorn Electron OS (1983)(Acorn)"
+	description "Acorn Electron OS (1983)(Acorn)"
+	rom ( name "Acorn Electron OS (1983)(Acorn).bin" size 16384 crc 0886741b md5 4ff171eca1cc7fd17333fc0b8d1a3e75 )
+)
+
+game (
+	name "Acorn Electron OS (1983)(Acorn)[a]"
+	description "Acorn Electron OS (1983)(Acorn)[a]"
+	rom ( name "Acorn Electron OS (1983)(Acorn)[a].bin" size 16384 crc bf63fb1f md5 98ae4d1fe95f831e56dd70a3bfda6099 )
+)

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Commodore C64 - Games - Boulder Dash - [LNX]"
+	description "Commodore C64 - Games - Boulder Dash - [LNX] (TOSEC-v2005-07-30)"
+	category "Commodore C64 - Games - Boulder Dash - [LNX]"
+	version 2005-07-30
+	author "DesertWolf"
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)"
+	description "Boulder Dash 01 (1984)(First Star Software)"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software).lnx" size 16511 crc 98235ff8 md5 6e79cbb2fdb754e84012ef16b3d60899 )
+)
+
+game (
+	name "Boulder Dash Professional (1985)(First Star Software)"
+	description "Boulder Dash Professional (1985)(First Star Software)"
+	rom ( name "Boulder Dash Professional (1985)(First Star Software).lnx" size 16895 crc 7ab07445 md5 8cbe1cee73771008f12f039a848e8185 )
+)
+
+game (
+	name "Gods Boulder Dash (1984)(Peter Liepa & Gods)[h Gods]"
+	description "Gods Boulder Dash (1984)(Peter Liepa & Gods)[h Gods]"
+	rom ( name "Gods Boulder Dash (1984)(Peter Liepa & Gods)[h Gods].lnx" size 19085 crc f8dad125 md5 f9b4e34918785590d01e51a1bf03859d )
+)

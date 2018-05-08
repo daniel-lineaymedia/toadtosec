@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Epson PX-8, HC-88 & Geneva - Applications - [TD0]"
+	description "Epson PX-8, HC-88 & Geneva - Applications - [TD0] (TOSEC-v2011-11-27)"
+	category "Epson PX-8, HC-88 & Geneva - Applications - [TD0]"
+	version 2011-11-27
+	author "TKaos"
+)
+
+game (
+	name "Multi Turbo-RAM (19xx)(-)"
+	description "Multi Turbo-RAM (19xx)(-)"
+	rom ( name "Multi Turbo-RAM (19xx)(-).td0" size 181179 crc 30d730db md5 f27dc8782e5c813cc8fee6f51f2884b3 sha1 47f232c6a95e7c00b7a0cfcf42c2dab71e9e6f1a )
+)
+

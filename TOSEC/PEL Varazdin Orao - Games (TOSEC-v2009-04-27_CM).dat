@@ -1,0 +1,199 @@
+clrmamepro (
+	name "PEL Varazdin Orao - Games"
+	description "PEL Varazdin Orao - Games (TOSEC-v2009-04-27)"
+	category "PEL Varazdin Orao - Games"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Ajnc (19xx)(PEL Soft)(YU)"
+	description "Ajnc (19xx)(PEL Soft)(YU)"
+	rom ( name "Ajnc (19xx)(PEL Soft)(YU).tap" size 17806 crc de341625 md5 343583d23447630f167c15f2527b927a )
+)
+
+game (
+	name "Avion (1986)(Herceg, Emil - Kos, Igor)(YU)"
+	description "Avion (1986)(Herceg, Emil - Kos, Igor)(YU)"
+	rom ( name "Avion (1986)(Herceg, Emil - Kos, Igor)(YU).tap" size 6798 crc eb4143a9 md5 c9c39beb2507a5958951b6ee742718db )
+)
+
+game (
+	name "Boulder Dash (19xx)(Mihailovic, Nenad - Dapjas, Mihajlo)(YU)(en)"
+	description "Boulder Dash (19xx)(Mihailovic, Nenad - Dapjas, Mihajlo)(YU)(en)"
+	rom ( name "Boulder Dash (19xx)(Mihailovic, Nenad - Dapjas, Mihajlo)(YU)(en).tap" size 17998 crc 11ab14ed md5 40555a9a20bdd5bb51886247cbdb94a5 )
+)
+
+game (
+	name "Breakout (19xx)(Stan Rimox Software)(YU)(en)"
+	description "Breakout (19xx)(Stan Rimox Software)(YU)(en)"
+	rom ( name "Breakout (19xx)(Stan Rimox Software)(YU)(en).tap" size 18992 crc 7737b9af md5 cc0120a90ce5d41979afe2de56dcb358 )
+)
+
+game (
+	name "Brojke (19xx)(-)(YU)"
+	description "Brojke (19xx)(-)(YU)"
+	rom ( name "Brojke (19xx)(-)(YU).tap" size 4035 crc f46a50c8 md5 1516f091e2815f4f94b5e2d2a4191390 )
+)
+
+game (
+	name "Crvic (1986)(PEL Soft)(YU)"
+	description "Crvic (1986)(PEL Soft)(YU)"
+	rom ( name "Crvic (1986)(PEL Soft)(YU).tap" size 14050 crc 6feb9576 md5 43c330ba9859e2e59c1c6a5f0999fad5 )
+)
+
+game (
+	name "Eagle (1986)(KMI Borovo)(YU)"
+	description "Eagle (1986)(KMI Borovo)(YU)"
+	rom ( name "Eagle (1986)(KMI Borovo)(YU).tap" size 9132 crc b3a8886c md5 258871956b3aa0fe626ee0f8a7f979ce )
+)
+
+game (
+	name "Figure Chess (1986)(KMI Borovo)(YU)(en)"
+	description "Figure Chess (1986)(KMI Borovo)(YU)(en)"
+	rom ( name "Figure Chess (1986)(KMI Borovo)(YU)(en).tap" size 19745 crc 02513ff4 md5 eda50823f632fe9f5beec36cd51c37be )
+)
+
+game (
+	name "Internacional Karate (19xx)(KMI Borovo)(YU)"
+	description "Internacional Karate (19xx)(KMI Borovo)(YU)"
+	rom ( name "Internacional Karate (19xx)(KMI Borovo)(YU).tap" size 25106 crc 021024a0 md5 282621946bd564f6d29486d1ee73bb78 )
+)
+
+game (
+	name "Jugador (19xx)(Vuletic, Mario)(YU)(en)"
+	description "Jugador (19xx)(Vuletic, Mario)(YU)(en)"
+	rom ( name "Jugador (19xx)(Vuletic, Mario)(YU)(en).tap" size 4932 crc a42f9cdf md5 2e50da37257efbc3436146be134489f1 )
+)
+
+game (
+	name "Jumping Jack (1986)(KMI Borovo)(YU)(en)"
+	description "Jumping Jack (1986)(KMI Borovo)(YU)(en)"
+	rom ( name "Jumping Jack (1986)(KMI Borovo)(YU)(en).tap" size 9133 crc 2bb70986 md5 d45f3ce00d07e13853e43fca979ce473 )
+)
+
+game (
+	name "Kuki (1986)(KMI Borovo)(YU)"
+	description "Kuki (1986)(KMI Borovo)(YU)"
+	rom ( name "Kuki (1986)(KMI Borovo)(YU).tap" size 9998 crc 90cddb34 md5 0244e2df66aebf93a7ff2a227e470085 )
+)
+
+game (
+	name "Labirint (1985)(Bibi Soft)(YU)"
+	description "Labirint (1985)(Bibi Soft)(YU)"
+	rom ( name "Labirint (1985)(Bibi Soft)(YU).tap" size 5698 crc 864f7643 md5 04bb9471823f93ef987ae22e2f605fa0 )
+)
+
+game (
+	name "Labirint M (19xx)(-)(YU)"
+	description "Labirint M (19xx)(-)(YU)"
+	rom ( name "Labirint M (19xx)(-)(YU).tap" size 15237 crc 9e0790cf md5 81b5c2f7d3d47eadfad3c04487956866 )
+)
+
+game (
+	name "Magicni Kvadrat (1985)(Ranogajec, Mario - Korpar, Boris)(YU)"
+	description "Magicni Kvadrat (1985)(Ranogajec, Mario - Korpar, Boris)(YU)"
+	rom ( name "Magicni Kvadrat (1985)(Ranogajec, Mario - Korpar, Boris)(YU).tap" size 17078 crc 9ee09595 md5 ca00451b299feb0a2a775dacc93a1d70 )
+)
+
+game (
+	name "Manic Miner (19xx)(Mihailovic, Nenad)(YU)(en)"
+	description "Manic Miner (19xx)(Mihailovic, Nenad)(YU)(en)"
+	rom ( name "Manic Miner (19xx)(Mihailovic, Nenad)(YU)(en).tap" size 18001 crc 27380ee9 md5 14974ea8f3c71fa1a161b4e064e5683d )
+)
+
+game (
+	name "Match Fishing (1986)(KMI Borovo)(YU)(en)"
+	description "Match Fishing (1986)(KMI Borovo)(YU)(en)"
+	rom ( name "Match Fishing (1986)(KMI Borovo)(YU)(en).tap" size 23228 crc fa01ad6c md5 fc8878ea26a6c528694bee76002b655e )
+)
+
+game (
+	name "Memo (19xx)(PEL Soft)(YU)"
+	description "Memo (19xx)(PEL Soft)(YU)"
+	rom ( name "Memo (19xx)(PEL Soft)(YU).tap" size 16500 crc 128ffc0b md5 94381f5a745f314dbcdfde4c717448ee )
+)
+
+game (
+	name "Memo (19xx)(PEL Soft)(YU)[a]"
+	description "Memo (19xx)(PEL Soft)(YU)[a]"
+	rom ( name "Memo (19xx)(PEL Soft)(YU)[a].tap" size 10198 crc 1166e752 md5 a0f24a8508deb2ba350ce742f05d98d2 )
+)
+
+game (
+	name "Nevidljivi (1987)(Suzy Soft)(YU)[orao no.1]"
+	description "Nevidljivi (1987)(Suzy Soft)(YU)[orao no.1]"
+	rom ( name "Nevidljivi (1987)(Suzy Soft)(YU)[orao no.1].tap" size 4198 crc 513373fb md5 c8bed41f3214a55ae9b620ac60bf47db )
+)
+
+game (
+	name "Obelix (19xx)(KMI Borovo)(YU)(en)"
+	description "Obelix (19xx)(KMI Borovo)(YU)(en)"
+	rom ( name "Obelix (19xx)(KMI Borovo)(YU)(en).tap" size 8639 crc f79019d1 md5 5bad7b7de631f6c754ee949b4c25182f )
+)
+
+game (
+	name "Othello (1985)(Ivkovic, Sasa)(YU)"
+	description "Othello (1985)(Ivkovic, Sasa)(YU)"
+	rom ( name "Othello (1985)(Ivkovic, Sasa)(YU).tap" size 18828 crc d488a8e3 md5 412f14510942f892a37ac11712c3f0d8 )
+)
+
+game (
+	name "Pac-Man (19xx)(Ivkovic, Sasa)(YU)"
+	description "Pac-Man (19xx)(Ivkovic, Sasa)(YU)"
+	rom ( name "Pac-Man (19xx)(Ivkovic, Sasa)(YU).tap" size 30114 crc 3a6479ea md5 4fe34fe1c8c33dc912f54685fc80f3b7 )
+)
+
+game (
+	name "Pcelica Maja (19xx)(-)(YU)"
+	description "Pcelica Maja (19xx)(-)(YU)"
+	rom ( name "Pcelica Maja (19xx)(-)(YU).tap" size 16998 crc e1add5c2 md5 8c53f58f09f8cd0efaab290a8901ba78 )
+)
+
+game (
+	name "Pomorska Bitka (19xx)(-)(YU)"
+	description "Pomorska Bitka (19xx)(-)(YU)"
+	rom ( name "Pomorska Bitka (19xx)(-)(YU).tap" size 9608 crc 8c5dda11 md5 21aaf1c10131f50a7ecd46c33baecb93 )
+)
+
+game (
+	name "Reversi (19xx)(-)(YU)(en)"
+	description "Reversi (19xx)(-)(YU)(en)"
+	rom ( name "Reversi (19xx)(-)(YU)(en).tap" size 5950 crc 3964ff16 md5 727062fefa5fd8af2ee660c9b5201e89 )
+)
+
+game (
+	name "Sokoban (19xx)(J.P.)(YU)(en)"
+	description "Sokoban (19xx)(J.P.)(YU)(en)"
+	rom ( name "Sokoban (19xx)(J.P.)(YU)(en).tap" size 13829 crc ffcf7e0c md5 1dc9f07dbf4163a6d69098320ba4a77b )
+)
+
+game (
+	name "Space Invaders (19xx)(PEL Soft)(YU)"
+	description "Space Invaders (19xx)(PEL Soft)(YU)"
+	rom ( name "Space Invaders (19xx)(PEL Soft)(YU).tap" size 21150 crc 31230e8b md5 27078052fd3d4469825b954a458d6d81 )
+)
+
+game (
+	name "Strip Ainc (1985)(Bistrovic, Z.)(YU)"
+	description "Strip Ainc (1985)(Bistrovic, Z.)(YU)"
+	rom ( name "Strip Ainc (1985)(Bistrovic, Z.)(YU).tap" size 8750 crc 68032c11 md5 788c17460efafe0b73757f5cb3f1cc16 )
+)
+
+game (
+	name "Strip Game Ainc (19xx)(KMI Borovo)(YU)"
+	description "Strip Game Ainc (19xx)(KMI Borovo)(YU)"
+	rom ( name "Strip Game Ainc (19xx)(KMI Borovo)(YU).tap" size 31615 crc 03e38de8 md5 e8b91dea590bb47b25acfc4e43ca2d53 )
+)
+
+game (
+	name "Ukleti Dvorac (19xx)(-)(YU)"
+	description "Ukleti Dvorac (19xx)(-)(YU)"
+	rom ( name "Ukleti Dvorac (19xx)(-)(YU).tap" size 12398 crc 850123a7 md5 6c5c73bfcefd9f4ee583b834c78e0785 )
+)
+
+game (
+	name "Zid (1985)(PEL Zabavni Programi)(YU)"
+	description "Zid (1985)(PEL Zabavni Programi)(YU)"
+	rom ( name "Zid (1985)(PEL Zabavni Programi)(YU).tap" size 11345 crc c7524e54 md5 bbbaf836dde07b09e33097a0227de16c )
+)

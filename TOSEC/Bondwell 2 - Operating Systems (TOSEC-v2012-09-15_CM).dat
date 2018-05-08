@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Bondwell 2 - Operating Systems"
+	description "Bondwell 2 - Operating Systems (TOSEC-v2012-09-15)"
+	category "Bondwell 2 - Operating Systems"
+	version 2012-09-15
+	author "Cid - Grendel"
+)
+
+game (
+	name "CPM v2.2 (1986)(Digital Research)"
+	description "CPM v2.2 (1986)(Digital Research)"
+	rom ( name "CPM v2.2 (1986)(Digital Research).td0" size 211050 crc 11c17560 md5 fb23c20a44dfad00e8f9c830c1951e6d sha1 2316269f8a079dfd011bcd12d326a061743f143c )
+)
+

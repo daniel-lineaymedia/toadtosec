@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Pokemon Mini - Demos"
+	description "Nintendo Pokemon Mini - Demos (TOSEC-v2011-08-13)"
+	category "Nintendo Pokemon Mini - Demos"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "5 Color Demo (2004)(JustBurn)(PD)"
+	description "5 Color Demo (2004)(JustBurn)(PD)"
+	rom ( name "5 Color Demo (2004)(JustBurn)(PD).bin" size 11880 crc 94443f0d md5 3fb784e7478f0e23ad4f8c2428e1e27b sha1 496fec8086099f402e98df6d24ffa2b2f6b73d27 )
+)
+

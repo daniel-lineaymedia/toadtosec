@@ -1,0 +1,205 @@
+clrmamepro (
+	name "Apple II - Demos - [DO]"
+	description "Apple II - Demos - [DO] (TOSEC-v2011-01-01)"
+	category "Apple II - Demos - [DO]"
+	version 2011-01-01
+	author "TKaos - jjs"
+)
+
+game (
+	name "4k Color Demos (19xx)(-)"
+	description "4k Color Demos (19xx)(-)"
+	rom ( name "4k Color Demos (19xx)(-).do" size 143360 crc 22476bc3 md5 74e31149287827b41f83204c8a55ec2d )
+)
+
+game (
+	name "ACS Animations (1988)(Apple Chemical Software)"
+	description "ACS Animations (1988)(Apple Chemical Software)"
+	rom ( name "ACS Animations (1988)(Apple Chemical Software).do" size 143360 crc 39ce0ff8 md5 c791b59e644919c81f3826f176eef993 )
+)
+
+game (
+	name "Amparcade (1983)(Third Millenium Engineering Corporation)"
+	description "Amparcade (1983)(Third Millenium Engineering Corporation)"
+	rom ( name "Amparcade (1983)(Third Millenium Engineering Corporation).do" size 143360 crc fc631197 md5 7e7799f737944cf37d7b5f1746c5cb3c )
+)
+
+game (
+	name "Animated Bird, The (19xx)(Phoenix Factory)"
+	description "Animated Bird, The (19xx)(Phoenix Factory)"
+	rom ( name "Animated Bird, The (19xx)(Phoenix Factory).do" size 143360 crc ad0da966 md5 b02fb163292c1c81bcac32fcb8c61073 )
+)
+
+game (
+	name "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side A)"
+	description "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side A)"
+	rom ( name "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side A).do" size 143360 crc 0cc41fab md5 ab1d6aecfc96e499c6e2e022df90764f )
+)
+
+game (
+	name "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side B)"
+	description "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side B)"
+	rom ( name "Animated Sex Cartoons - French Post Cards (1981)(Computer Products Int'l)(Side B).do" size 143360 crc a514f639 md5 6d3023adb4a1d664bedc0dd3353d13cc )
+)
+
+game (
+	name "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side A)"
+	description "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side A)"
+	rom ( name "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side A).do" size 143360 crc d9182107 md5 7b8adb25bb64ddab14a1a48dfba16274 )
+)
+
+game (
+	name "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side B)"
+	description "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side B)"
+	rom ( name "Animated Sex Cartoons - French Post Cards (1986)(CAPS Products)(Side B).do" size 143360 crc 53550e8f md5 aa34e2e05ad6e25e77a231cd2c5847a7 )
+)
+
+game (
+	name "Animated Sex Cartoons - Volume III (1981)(Computer Products Int'l)"
+	description "Animated Sex Cartoons - Volume III (1981)(Computer Products Int'l)"
+	rom ( name "Animated Sex Cartoons - Volume III (1981)(Computer Products Int'l).do" size 143360 crc ddce24a5 md5 b1cb7ff92a2e9d3b03a4a717b522f19c )
+)
+
+game (
+	name "Aquarium (1981)(Cross Educational Software)"
+	description "Aquarium (1981)(Cross Educational Software)"
+	rom ( name "Aquarium (1981)(Cross Educational Software).do" size 143360 crc 776bc394 md5 2ced74a44c381c533663d42f81beb39f )
+)
+
+game (
+	name "Brian's Theme (1979)(Howard, Brian)"
+	description "Brian's Theme (1979)(Howard, Brian)"
+	rom ( name "Brian's Theme (1979)(Howard, Brian).do" size 143360 crc a806f4db md5 90741ac2f534e58951f33be41e2c9f8f )
+)
+
+game (
+	name "Dr. Cat's Graphix Disk (1982-05-18)(Dynacomp)(PD)"
+	description "Dr. Cat's Graphix Disk (1982-05-18)(Dynacomp)(PD)"
+	rom ( name "Dr. Cat's Graphix Disk (1982-05-18)(Dynacomp)(PD).do" size 143360 crc 15997d7a md5 1d366fe4185c357e3112e53f14d39df6 )
+)
+
+game (
+	name "Famous Sex Comics I (1981)(Computer Products Int'l)[cr]"
+	description "Famous Sex Comics I (1981)(Computer Products Int'l)[cr]"
+	rom ( name "Famous Sex Comics I (1981)(Computer Products Int'l)[cr].do" size 143360 crc ebd556d5 md5 7b3f5401530d5a1ab72199dcf1b74f57 )
+)
+
+game (
+	name "Famous Sex Comics I (19xx)(Computer Products International)[cr]"
+	description "Famous Sex Comics I (19xx)(Computer Products International)[cr]"
+	rom ( name "Famous Sex Comics I (19xx)(Computer Products International)[cr].do" size 143360 crc 4e3a425c md5 3a08b915016e2696f32c8f91ec664820 )
+)
+
+game (
+	name "Fire Organ (198x)(Vagabondo Enterprises)"
+	description "Fire Organ (198x)(Vagabondo Enterprises)"
+	rom ( name "Fire Organ (198x)(Vagabondo Enterprises).do" size 143360 crc af62112b md5 c5c9cd4fc496dde750792c092db1b285 )
+)
+
+game (
+	name "HGR Screens (19xx)(-)"
+	description "HGR Screens (19xx)(-)"
+	rom ( name "HGR Screens (19xx)(-).do" size 143360 crc 8ab7a675 md5 47889b9dace02dc8528fc37a62fb083f )
+)
+
+game (
+	name "HGR Screens (19xx)(-)[a]"
+	description "HGR Screens (19xx)(-)[a]"
+	rom ( name "HGR Screens (19xx)(-)[a].do" size 143360 crc 228a484a md5 48ba85b51070f68a5bf3b6af1afca247 )
+)
+
+game (
+	name "HGR5 Screens (19xx)(-)"
+	description "HGR5 Screens (19xx)(-)"
+	rom ( name "HGR5 Screens (19xx)(-).do" size 143360 crc 28b63b52 md5 b4a2b252b75f942cc6237b7c237b8ff3 )
+)
+
+game (
+	name "High Resolution Graphics Demos (19xx)(-)"
+	description "High Resolution Graphics Demos (19xx)(-)"
+	rom ( name "High Resolution Graphics Demos (19xx)(-).do" size 143360 crc d8ead49b md5 a3978c89845caf2d9ccb31db5dd85772 )
+)
+
+game (
+	name "Kill Sammy! (19xx)(Grue, The)"
+	description "Kill Sammy! (19xx)(Grue, The)"
+	rom ( name "Kill Sammy! (19xx)(Grue, The).do" size 143360 crc 837861b8 md5 8e966ba9ce10e9b24a42a4170f56f2ba )
+)
+
+game (
+	name "Kung-Fu Theatre (19xx)(Club Med)[b]"
+	description "Kung-Fu Theatre (19xx)(Club Med)[b]"
+	rom ( name "Kung-Fu Theatre (19xx)(Club Med)[b].do" size 143360 crc 9f463fa6 md5 fdfbd220aa5850b9aa4f7e0d92342a9c )
+)
+
+game (
+	name "Megalo's Slide Show 1 (1989)(Brain Trust)(fr)"
+	description "Megalo's Slide Show 1 (1989)(Brain Trust)(fr)"
+	rom ( name "Megalo's Slide Show 1 (1989)(Brain Trust)(fr).do" size 143360 crc 1bfe623f md5 ca87ebce228119aec3a9efdf86eee34f )
+)
+
+game (
+	name "Miami Sound Machine 3 (1987-04)(Horde Sauvage)(fr)"
+	description "Miami Sound Machine 3 (1987-04)(Horde Sauvage)(fr)"
+	rom ( name "Miami Sound Machine 3 (1987-04)(Horde Sauvage)(fr).do" size 143360 crc 2dd4e588 md5 a67c826ab769598629f4a8b7c24618c9 )
+)
+
+game (
+	name "Pic Pac 1 Double Res (19xx)(Copycatter)"
+	description "Pic Pac 1 Double Res (19xx)(Copycatter)"
+	rom ( name "Pic Pac 1 Double Res (19xx)(Copycatter).do" size 143360 crc eee2c925 md5 93ec9acf6dc9fb8d2c62d5a2254b199e )
+)
+
+game (
+	name "Pic Pac I (19xx)(Whip, The)"
+	description "Pic Pac I (19xx)(Whip, The)"
+	rom ( name "Pic Pac I (19xx)(Whip, The).do" size 143360 crc 02784275 md5 4027966637b5263e29ea62a0c55709cc )
+)
+
+game (
+	name "Prism (1982)(International Software Marketing)(Side A)"
+	description "Prism (1982)(International Software Marketing)(Side A)"
+	rom ( name "Prism (1982)(International Software Marketing)(Side A).do" size 143360 crc f901da45 md5 fa560c9f226c3725c9740b6594080f33 )
+)
+
+game (
+	name "Prism (1982)(International Software Marketing)(Side B)"
+	description "Prism (1982)(International Software Marketing)(Side B)"
+	rom ( name "Prism (1982)(International Software Marketing)(Side B).do" size 143360 crc 5d3a69bb md5 e409e13c56dd4fce5cdfe62164a7f49b )
+)
+
+game (
+	name "Slide Show (19xx)(Nut Cracker)(Disk 1 of 2)"
+	description "Slide Show (19xx)(Nut Cracker)(Disk 1 of 2)"
+	rom ( name "Slide Show (19xx)(Nut Cracker)(Disk 1 of 2).do" size 143360 crc 4cb16060 md5 947bc176b68d30f94013e895e0cc76b0 )
+)
+
+game (
+	name "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2)"
+	description "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2)"
+	rom ( name "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2).do" size 143360 crc 2aae3426 md5 c8e364b67845c532bb3a09cc2550bd3f )
+)
+
+game (
+	name "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2)[a]"
+	description "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2)[a]"
+	rom ( name "Slide Show (19xx)(Nut Cracker)(Disk 2 of 2)[a].do" size 143360 crc cfb532a5 md5 ab2757368fcbc2cfce3759f99c5704f4 )
+)
+
+game (
+	name "Variations on Fire Organ (19xx)(Vagabondo Enterprises)"
+	description "Variations on Fire Organ (19xx)(Vagabondo Enterprises)"
+	rom ( name "Variations on Fire Organ (19xx)(Vagabondo Enterprises).do" size 143360 crc 96db85e1 md5 e5d9593c05f3d2d8125525f101dd0579 )
+)
+
+game (
+	name "ZZZ-UNK-Take One Movie-code Red"
+	description "ZZZ-UNK-Take One Movie-code Red"
+	rom ( name "ZZZ-UNK-Take One Movie-code Red.do" size 143360 crc 60581097 md5 1eb50f1bffaf20f9c3e1208bb673fb41 )
+)
+
+game (
+	name "ZZZ-UNK-Take One Movie-marbles"
+	description "ZZZ-UNK-Take One Movie-marbles"
+	rom ( name "ZZZ-UNK-Take One Movie-marbles.do" size 143360 crc 2f3303b3 md5 3e6aee965e337e1f37a1a791c372ce1f )
+)

@@ -1,0 +1,109 @@
+clrmamepro (
+	name "Atari 8bit - Operating Systems"
+	description "Atari 8bit - Operating Systems (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Operating Systems"
+	version 2010-08-15
+	author "TKaos - Gucek - gRzEnIu - Cassiel"
+)
+
+game (
+	name "Args OS (19xx)(-)"
+	description "Args OS (19xx)(-)"
+	rom ( name "Args OS (19xx)(-).rom" size 16384 crc 5b1eadf3 md5 ddd8b434e57b6bae542a26d4a770c9cd )
+)
+
+game (
+	name "Atari OS Rev 1 (1983)(Atari)[600XL]"
+	description "Atari OS Rev 1 (1983)(Atari)[600XL]"
+	rom ( name "Atari OS Rev 1 (1983)(Atari)[600XL].rom" size 16384 crc 643bcc98 md5 9aea45e724d2588fbbeda658c7dc53ee )
+)
+
+game (
+	name "Atari OS Rev 10 (1982)(Atari)[1200XL]"
+	description "Atari OS Rev 10 (1982)(Atari)[1200XL]"
+	rom ( name "Atari OS Rev 10 (1982)(Atari)[1200XL].rom" size 16384 crc c5c11546 md5 e3e8c74bfe1dcd6b56af50bd9a82dc15 )
+)
+
+game (
+	name "Atari OS Rev 2 (1983)(Atari)[800XL]"
+	description "Atari OS Rev 2 (1983)(Atari)[800XL]"
+	rom ( name "Atari OS Rev 2 (1983)(Atari)[800XL].rom" size 16384 crc 1f9cd270 md5 06daac977823773a3eea3422fd26a703 )
+)
+
+game (
+	name "Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE]"
+	description "Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE]"
+	rom ( name "Atari OS Rev 3 (1985)(Atari)[800XE-65XE-130XE].rom" size 16384 crc 29f133f7 md5 54e704558a6aedfc45cebf8f8ac9c312 )
+)
+
+game (
+	name "Atari OS Rev 4 (1987)(Atari)[XE Game System]"
+	description "Atari OS Rev 4 (1987)(Atari)[XE Game System]"
+	rom ( name "Atari OS Rev 4 (1987)(Atari)[XE Game System].rom" size 16384 crc 1eaf4002 md5 b7a2a04677d34f069eeb643d5238bf86 )
+)
+
+game (
+	name "Atari OS Rev A (19xx)(Atari)(PAL)[400-800]"
+	description "Atari OS Rev A (19xx)(Atari)(PAL)[400-800]"
+	rom ( name "Atari OS Rev A (19xx)(Atari)(PAL)[400-800].rom" size 10240 crc 72b3fed4 md5 eb1f32f5d9f382db1bbfb8d7f9cb343a )
+)
+
+game (
+	name "Atari OS Rev B (19xx)(Atari)(NTSC)[400-800]"
+	description "Atari OS Rev B (19xx)(Atari)(NTSC)[400-800]"
+	rom ( name "Atari OS Rev B (19xx)(Atari)(NTSC)[400-800].rom" size 10240 crc 0e86d61d md5 4177f386a3bac989a981d3fe3388cb6c )
+)
+
+game (
+	name "Atari OS Rev B (19xx)(Atari)(PAL)[400-800]"
+	description "Atari OS Rev B (19xx)(Atari)(PAL)[400-800]"
+	rom ( name "Atari OS Rev B (19xx)(Atari)(PAL)[400-800].rom" size 10240 crc 3e28a1fe md5 a3e8d617c95d08031fe1b20d541434b2 )
+)
+
+game (
+	name "Diamond v2.0 (1989)(Reeve, Alan)"
+	description "Diamond v2.0 (1989)(Reeve, Alan)"
+	rom ( name "Diamond v2.0 (1989)(Reeve, Alan).rom" size 65536 crc 0ead07f8 md5 d65faf87009013ac1a22c66c282f554b )
+)
+
+game (
+	name "MIO OS v1.1 (19xx)(-)"
+	description "MIO OS v1.1 (19xx)(-)"
+	rom ( name "MIO OS v1.1 (19xx)(-).rom" size 16384 crc 00694a74 md5 49e6ecbde2dcd4771e9dc48a3f65b4b0 )
+)
+
+game (
+	name "SpartaDOS X v4.19 (1989-01-16)(ICD)(US)"
+	description "SpartaDOS X v4.19 (1989-01-16)(ICD)(US)"
+	rom ( name "SpartaDOS X v4.19 (1989-01-16)(ICD)(US).rom" size 65536 crc 6bb5733c md5 e3baa6d7d7a43d3e3127f3618fd1cae6 )
+)
+
+game (
+	name "SpartaDOS X v4.20 (1989-06-02)(ICD)(US)"
+	description "SpartaDOS X v4.20 (1989-06-02)(ICD)(US)"
+	rom ( name "SpartaDOS X v4.20 (1989-06-02)(ICD)(US).rom" size 65536 crc 781e045c md5 baf9cded718a19e04e2c45649a57c1b6 )
+)
+
+game (
+	name "SpartaDOS X v4.21 (1989-07-10)(ICD)(US)"
+	description "SpartaDOS X v4.21 (1989-07-10)(ICD)(US)"
+	rom ( name "SpartaDOS X v4.21 (1989-07-10)(ICD)(US).rom" size 65536 crc db0ca1eb md5 9c05b73626f289cc3084bf9f457853a9 )
+)
+
+game (
+	name "SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a]"
+	description "SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a]"
+	rom ( name "SpartaDOS X v4.21 (1989-07-10)(ICD)(US)[a].rom" size 65552 crc 8d86ecef md5 f2f050eb82170af43dc3758a2a601ef2 )
+)
+
+game (
+	name "SpartaDOS X v4.22 (1995-11-05)(FTe)"
+	description "SpartaDOS X v4.22 (1995-11-05)(FTe)"
+	rom ( name "SpartaDOS X v4.22 (1995-11-05)(FTe).rom" size 65552 crc f1494ea1 md5 227ec9001caf3dcbab061cee9b087ef4 )
+)
+
+game (
+	name "Speeder Plus OS v1.33n (19xx)(-)"
+	description "Speeder Plus OS v1.33n (19xx)(-)"
+	rom ( name "Speeder Plus OS v1.33n (19xx)(-).rom" size 16384 crc a991769b md5 4f0a7d81085a541d366f0c243dbd24c9 )
+)

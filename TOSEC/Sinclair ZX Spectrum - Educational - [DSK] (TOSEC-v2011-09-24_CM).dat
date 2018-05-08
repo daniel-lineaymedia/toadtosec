@@ -1,0 +1,86 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Educational - [DSK]"
+	description "Sinclair ZX Spectrum - Educational - [DSK] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Educational - [DSK]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)[a]"
+	description "Fun School 2 for 6-8 Year Olds (1989)(Database Software)[a]"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)[a].dsk" size 194816 crc 7bffa05e md5 d210007d2ebc73f87fa71b5c85c3baae sha1 5d844874bc517fe8f05823452c5ceda9125ef661 )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1991)(Database Software)"
+	description "Fun School 2 for 6-8 Year Olds (1991)(Database Software)"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1991)(Database Software).dsk" size 194816 crc 54456709 md5 9171c486623ff5e987760254347c0a29 sha1 8ceeb4b62ed72e7f0efabf7f3c10b5347395ffbd )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(Database Software)"
+	description "Fun School 2 for the Over-8s (1989)(Database Software)"
+	rom ( name "Fun School 2 for the Over-8s (1989)(Database Software).dsk" size 194816 crc 857a1482 md5 8e67eabd3e3ab37955cdcc7cb88e6d9f sha1 85db0fc04d6a8da7e060262da05dd554930d0cba )
+)
+
+game (
+	name "Fun School 2 for the Over-8s (1989)(Database Software)[a]"
+	description "Fun School 2 for the Over-8s (1989)(Database Software)[a]"
+	rom ( name "Fun School 2 for the Over-8s (1989)(Database Software)[a].dsk" size 195328 crc f724e19d md5 dcc3f75027e787faabf90371627cc536 sha1 493e38ce4f4f83c2cfda6bc5dbc589167ce3e64f )
+)
+
+game (
+	name "Fun School 2 for the Under-6s (1989)(Database Software)"
+	description "Fun School 2 for the Under-6s (1989)(Database Software)"
+	rom ( name "Fun School 2 for the Under-6s (1989)(Database Software).dsk" size 194816 crc 91e7199e md5 b79f9f7f7496039105f9f250ac664a6e sha1 29531481a5c28030b56669cd21e8a78d7196cb82 )
+)
+
+game (
+	name "Fun School 3 for the Over-7s (1991)(Database Software)(Side A)"
+	description "Fun School 3 for the Over-7s (1991)(Database Software)(Side A)"
+	rom ( name "Fun School 3 for the Over-7s (1991)(Database Software)(Side A).dsk" size 194816 crc f0d9aa91 md5 a4da42eff633eb3c7fdb77567593c973 sha1 57b9a9a23b097477de7b7a7254ca134b216cd754 )
+)
+
+game (
+	name "Fun School 3 for the Over-7s (1991)(Database Software)(Side B)"
+	description "Fun School 3 for the Over-7s (1991)(Database Software)(Side B)"
+	rom ( name "Fun School 3 for the Over-7s (1991)(Database Software)(Side B).dsk" size 194816 crc b70a7e32 md5 ff4545082e04769efe71efbb098da828 sha1 c83a137e588bb4710b137a8aa965626353b69e0c )
+)
+
+game (
+	name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)"
+	description "Fun School 3 for the Under-5s (1991)(Database Software)(Side A)"
+	rom ( name "Fun School 3 for the Under-5s (1991)(Database Software)(Side A).dsk" size 194816 crc 54b0410d md5 944a952788b689f4cc0ffd01c6b3d5fb sha1 f4dd65ec44b7ce2059e807f15bfce8caefdca097 )
+)
+
+game (
+	name "Fun School 3 for the Under-5s (1991)(Database Software)(Side B)"
+	description "Fun School 3 for the Under-5s (1991)(Database Software)(Side B)"
+	rom ( name "Fun School 3 for the Under-5s (1991)(Database Software)(Side B).dsk" size 194816 crc 1fdaad89 md5 9864bee386f60daf2b8c62fc3827d2ce sha1 04eb15bbf5f70e14722cb0e77cf58be30ed1e81b )
+)
+
+game (
+	name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A)"
+	description "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A)"
+	rom ( name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side A).dsk" size 194816 crc 4decf77a md5 148569548ec326d6ed7a58c5ef885a3e sha1 a5cd9e81812918104de18a6b70b48aa539d7efd9 )
+)
+
+game (
+	name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B)"
+	description "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B)"
+	rom ( name "Fun School 4 for 5-7 Year Olds (1992)(Europress Software)(Side B).dsk" size 194816 crc 76b510f1 md5 4f59507f03d8738e04359886ace2a4d9 sha1 0bb4de05d19bccc41486dd0c80468bd1989f9431 )
+)
+
+game (
+	name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side A)"
+	description "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side A)"
+	rom ( name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side A).dsk" size 194816 crc 683a32a9 md5 62cb35c34cc0bbee09ec937a266ce15b sha1 76f98308babf1addc111db18a85b3c99dded8f53 )
+)
+
+game (
+	name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side B)"
+	description "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side B)"
+	rom ( name "Thomas the Tank Engine's Fun with Words (1990)(Britt Allcroft Thomas)(Side B).dsk" size 194816 crc e7eec040 md5 45a537fefa74146d7514f377676d3fd6 sha1 bb86b1107ebfdf69d0938a70547c05f31f57bf91 )
+)
+

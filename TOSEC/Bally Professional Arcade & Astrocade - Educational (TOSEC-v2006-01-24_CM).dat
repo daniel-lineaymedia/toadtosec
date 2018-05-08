@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Bally Professional Arcade & Astrocade - Educational"
+	description "Bally Professional Arcade & Astrocade - Educational (TOSEC-v2006-01-24)"
+	category "Bally Professional Arcade & Astrocade - Educational"
+	version 2006-01-24
+	author "Grendel - BuckyB - Cassiel"
+)
+
+game (
+	name "Bingo Math + Speed Math (19xx)(Bally)"
+	description "Bingo Math + Speed Math (19xx)(Bally)"
+	rom ( name "Bingo Math + Speed Math (19xx)(Bally).bin" size 2048 crc 7d30312a md5 4f16a1118129d73eecf46c1a964065cd )
+)
+
+game (
+	name "Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)"
+	description "Letter Match + Spell 'n Score + Crosswords (19xx)(Bally)"
+	rom ( name "Letter Match + Spell 'n Score + Crosswords (19xx)(Bally).bin" size 4096 crc 2cf68f93 md5 409aaca551f012df695c912e40a86171 )
+)

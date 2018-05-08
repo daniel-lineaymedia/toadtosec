@@ -1,0 +1,43 @@
+clrmamepro (
+	name "MGT Sam Coupe - Demos - [TD0]"
+	description "MGT Sam Coupe - Demos - [TD0] (TOSEC-v2008-12-21)"
+	category "MGT Sam Coupe - Demos - [TD0]"
+	version 2008-12-21
+	author "dirkpitt - Grendel - Cowering - Cassiel"
+)
+
+game (
+	name "ZZZ-UNK-net_01_td0"
+	description "ZZZ-UNK-net_01_td0"
+	rom ( name "ZZZ-UNK-net_01_td0.td0" size 552666 crc 4a0d10c9 md5 37a6d440908e6cf35976ff5226391c8d )
+)
+
+game (
+	name "ZZZ-UNK-net_04_td0"
+	description "ZZZ-UNK-net_04_td0"
+	rom ( name "ZZZ-UNK-net_04_td0.td0" size 535172 crc 708dd98e md5 98d0ac8e8a6d960b73f26c0c0199227f )
+)
+
+game (
+	name "ZZZ-UNK-net_23-broken file_td0"
+	description "ZZZ-UNK-net_23-broken file_td0"
+	rom ( name "ZZZ-UNK-net_23-broken file_td0.td0" size 605028 crc 9c6785ec md5 06b202cfa305d0d084c7fd3fcf321ed2 )
+)
+
+game (
+	name "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0"
+	description "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0"
+	rom ( name "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem_td0.td0" size 363053 crc f8f59129 md5 f98fc24f471f9e3a0b44c586de593dfe )
+)
+
+game (
+	name "ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0"
+	description "ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0"
+	rom ( name "ZZZ-UNK-simcoupe_0.2.linux_boot_boot_td0.td0" size 1380452 crc ab102b32 md5 83225d6ee29996a3fc11377beb3b33ba )
+)
+
+game (
+	name "ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0"
+	description "ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0"
+	rom ( name "ZZZ-UNK-simcoupe_0.2.linux_boot_root_td0.td0" size 793923 crc b1871153 md5 6e20ca0259a7319cfb05394c7534fad4 )
+)

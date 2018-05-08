@@ -1,0 +1,19 @@
+clrmamepro (
+	name "DEC PDP-8 - Collections - Digital"
+	description "DEC PDP-8 - Collections - Digital (TOSEC-v2010-08-25)"
+	category "DEC PDP-8 - Collections - Digital"
+	version 2010-08-25
+	author "TKaos"
+)
+
+game (
+	name "Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision]"
+	description "Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision]"
+	rom ( name "Digital-8-24-U-ASCII (1966-01-19)(DEC)(US)[Unsigned Decimal Print, Double Precision].ptp" size 3347 crc a05e29ab md5 a38376d236aa47b59cba22867353c7c8 )
+)
+
+game (
+	name "Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test]"
+	description "Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test]"
+	rom ( name "Digital-8S-D11A-PB (1966-11-20)(DEC)(US)[PDP-8 Memory Address Test].ptp" size 1068 crc 2ae629a0 md5 960fcb3fe5e3b314dd2baac06ae509c2 )
+)

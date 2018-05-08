@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [SFX]"
+	description "Commodore C64 - Applications - [SFX] (TOSEC-v2009-09-01)"
+	category "Commodore C64 - Applications - [SFX]"
+	version 2009-09-01
+	author "DesertWolf - Apache - Hunt4Gold"
+)
+
+game (
+	name "Godot (1991)(A. Dettke)"
+	description "Godot (1991)(A. Dettke)"
+	rom ( name "Godot (1991)(A. Dettke).sfx" size 17554 crc 2334e4f0 md5 be2b74e6b36dbb1a1c264894bfdb1cc9 )
+)
+
+game (
+	name "Stat (19xx)(Troy Rutter)"
+	description "Stat (19xx)(Troy Rutter)"
+	rom ( name "Stat (19xx)(Troy Rutter).sfx" size 10228 crc 5754908d md5 35a497e3103667d1142132345d0056c7 )
+)

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sega 32X - Applications"
+	description "Sega 32X - Applications (TOSEC-v2011-08-13)"
+	category "Sega 32X - Applications"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Sega Mega Drive & SH2 System Register RW Check v1.0 (1994)(Sega)"
+	description "Sega Mega Drive & SH2 System Register RW Check v1.0 (1994)(Sega)"
+	rom ( name "Sega Mega Drive & SH2 System Register RW Check v1.0 (1994)(Sega).bin" size 4194304 crc 8f7260fb md5 489ded0cc43448881cd863418bacf8e6 sha1 7654c6d3cf2883c30df51cf38d723ab7902280c4 )
+)
+

@@ -1,0 +1,517 @@
+clrmamepro (
+	name "Robotron KC Compact - Various"
+	description "Robotron KC Compact - Various (TOSEC-v2006-03-18)"
+	category "Robotron KC Compact - Various"
+	version 2006-03-18
+	author "Woodsdog - CRSV"
+)
+
+game (
+	name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo1]"
+	description "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo1]"
+	rom ( name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo1].bas" size 643 crc 2c64d030 md5 9fa2569866b84ca674a74882eeca3387 )
+)
+
+game (
+	name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop1]"
+	description "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop1]"
+	rom ( name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop1].bas" size 32527 crc e537ad23 md5 ae163a58915219b123fc6804e2d20e40 )
+)
+
+game (
+	name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demop1]"
+	description "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demop1]"
+	rom ( name "Demo 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demop1].bin" size 5760 crc 5b6ccbec md5 97c7ec01f08939c941a21e68922232c9 )
+)
+
+game (
+	name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo2]"
+	description "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo2]"
+	rom ( name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[demo2].bas" size 641 crc 86e7289f md5 164d896e2862f923e9ad360198aeae53 )
+)
+
+game (
+	name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop2]"
+	description "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop2]"
+	rom ( name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[demop2].bas" size 8455 crc 1396eadd md5 6309130c033ccb895f330a9d295eae49 )
+)
+
+game (
+	name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demo2]"
+	description "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demo2]"
+	rom ( name "Demo 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[demo2].bin" size 5760 crc 9924be04 md5 65abca9b7fe69429a62582b6896f17b1 )
+)
+
+game (
+	name "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[digger]"
+	description "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[digger]"
+	rom ( name "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[digger].bas" size 768 crc 29366cc0 md5 21017245c7ac0e8016b75e117fbf3af1 )
+)
+
+game (
+	name "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[digger1]"
+	description "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[digger1]"
+	rom ( name "Digger (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[digger1].bas" size 27520 crc 14b9de84 md5 1d3ee1ca81eac9f9838651fd719803f4 )
+)
+
+game (
+	name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[fruity]"
+	description "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[fruity]"
+	rom ( name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[fruity].bas" size 1334 crc 73370a67 md5 11c85e519033c34382ead4ff890b0ff0 )
+)
+
+game (
+	name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[fruity1]"
+	description "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[fruity1]"
+	rom ( name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[fruity1].bin" size 35968 crc 39e10433 md5 a9f8222508099cfaeb32b47824f41c83 )
+)
+
+game (
+	name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Fruity Frank (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 884d6c1a md5 bd0227a6239c71f29116276e1edc115b )
+)
+
+game (
+	name "KC Demo 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Demo 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Demo 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 6df02df2 md5 b9464b94f07a7df791c85c11e173ac78 )
+)
+
+game (
+	name "KC Demo 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Demo 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Demo 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc d0242e57 md5 552b63551b0fd1ac9a22373dc41398a6 )
+)
+
+game (
+	name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kcpascal]"
+	description "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kcpascal]"
+	rom ( name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kcpascal].bas" size 490 crc 19385648 md5 3782137385a7659fb28d079c0b5ce3f9 )
+)
+
+game (
+	name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[kcpasca1]"
+	description "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[kcpasca1]"
+	rom ( name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[kcpasca1].bin" size 20607 crc 3d0535dc md5 ff73f599e3b28d8fd5a4be123871b90e )
+)
+
+game (
+	name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Pascal (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 050be3c5 md5 3b2a4cc9d947c8aac1aa6b1b0e663db2 )
+)
+
+game (
+	name "KC Programme 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Programme 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Programme 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 9bcbb9cf md5 5ddb44337fa7921f6bbca5845b2dd0c8 )
+)
+
+game (
+	name "KC Programme 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Programme 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Programme 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 749f2809 md5 2299fb4a75bef541515d8366cc695642 )
+)
+
+game (
+	name "KC Programme 3 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Programme 3 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Programme 3 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 7589f20d md5 0e5aee3ddcd24d0497e7e7eb58287464 )
+)
+
+game (
+	name "KC Test (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "KC Test (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "KC Test (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc c9a6f08c md5 b375304ffdbd12d5cbf59738214ff7bd )
+)
+
+game (
+	name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel]"
+	description "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel]"
+	rom ( name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel].bas" size 594 crc 3f6cd20d md5 925966bb3c30de868cd6cd987a9db77b )
+)
+
+game (
+	name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel1]"
+	description "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel1]"
+	rom ( name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[kniffel1].bas" size 13972 crc b7bb00da md5 24ed210e39976e4c5cbeed2608270f82 )
+)
+
+game (
+	name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Kniffel (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Kniffel (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc c3e69db6 md5 1858e6841a5653edf0d4f7a525e18330 )
+)
+
+game (
+	name "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[konzert]"
+	description "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[konzert]"
+	rom ( name "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[konzert].bas" size 649 crc aa9f6167 md5 25e22748dd5f81ec1ad5596b10049885 )
+)
+
+game (
+	name "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[konzert1]"
+	description "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[konzert1]"
+	rom ( name "Konzert (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[konzert1].bas" size 7689 crc 4b3d7252 md5 a09380d45a6751373213aec80b7c16c5 )
+)
+
+game (
+	name "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lego]"
+	description "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lego]"
+	rom ( name "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lego].bas" size 617 crc cce15fb8 md5 c7f68e48e7f0f4946751b095290e899d )
+)
+
+game (
+	name "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lego1]"
+	description "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lego1]"
+	rom ( name "Lego (1990)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lego1].bas" size 8638 crc 828f0857 md5 073a5263cb8dc5c203c2ceff5c023ad0 )
+)
+
+game (
+	name "Lego (1990)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Lego (1990)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Lego (1990)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 8f1d5266 md5 79f2e367d018287f2eb1d43ae03e73e3 )
+)
+
+game (
+	name "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lindi]"
+	description "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lindi]"
+	rom ( name "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[lindi].bas" size 645 crc 0d1eef36 md5 8db92f4da10757c04d43b7c6e4499790 )
+)
+
+game (
+	name "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lindi1]"
+	description "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lindi1]"
+	rom ( name "Lindi (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[lindi1].bas" size 8757 crc cca1a3cb md5 f65d8863a7847886fbe466fa27e1bc83 )
+)
+
+game (
+	name "Lindi (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Lindi (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Lindi (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc fc5a4ac8 md5 da46a1e8df3783416979c1545fc4e3b0 )
+)
+
+game (
+	name "Match (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[match]"
+	description "Match (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[match]"
+	rom ( name "Match (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[match].bas" size 669 crc 678986b0 md5 0df4c41bc79a347aa5a061675e4baba4 )
+)
+
+game (
+	name "Match (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[match1]"
+	description "Match (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[match1]"
+	rom ( name "Match (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[match1].bas" size 7198 crc 731511aa md5 f8529a0650f8c8ed604feacd39abeaac )
+)
+
+game (
+	name "Match (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Match (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Match (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 4a77f5ba md5 f63d5efdb17bc150b8d037d4edebb56c )
+)
+
+game (
+	name "Memory (1989)(-)[CPCEmu image]"
+	description "Memory (1989)(-)[CPCEmu image]"
+	rom ( name "Memory (1989)(-)[CPCEmu image].dsk" size 194816 crc 0e95db20 md5 db67c97408ac9954c5342c85b6f06f20 )
+)
+
+game (
+	name "Memory (1989)(-)[memory]"
+	description "Memory (1989)(-)[memory]"
+	rom ( name "Memory (1989)(-)[memory].bas" size 5048 crc 2716fdfd md5 ac0d02c4d023f7b3ece2ad4b6fe7d53d )
+)
+
+game (
+	name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[motorrad]"
+	description "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[motorrad]"
+	rom ( name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[motorrad].bas" size 645 crc f95b3cba md5 b32024e59f1689d378e27006648447f8 )
+)
+
+game (
+	name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[motorra1]"
+	description "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[motorra1]"
+	rom ( name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[motorra1].bin" size 33928 crc 2b776b1b md5 c6ed6bc5055e418c712d7c35dcd37e9f )
+)
+
+game (
+	name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Motorrad (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Motorrad (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 97d1fc71 md5 eb00eabe99bf9027a91ed46ea02bc29f )
+)
+
+game (
+	name "Mumie (1989)(VEB Mikroelektronik W. Pieck)[MUMIE]"
+	description "Mumie (1989)(VEB Mikroelektronik W. Pieck)[MUMIE]"
+	rom ( name "Mumie (1989)(VEB Mikroelektronik W. Pieck)[MUMIE].bas" size 640 crc 2719e987 md5 610c38036f192c43a4ce4cb4b301e42e )
+)
+
+game (
+	name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Nibbler]"
+	description "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Nibbler]"
+	rom ( name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Nibbler].bas" size 594 crc 3c8d5393 md5 20fb02bad859254c124d934a4c09f477 )
+)
+
+game (
+	name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Nibbler1]"
+	description "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Nibbler1]"
+	rom ( name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Nibbler1].bas" size 11897 crc 629235b3 md5 8b3b935599b986536e83f6c9641dd17b )
+)
+
+game (
+	name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Nibbler (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Nibbler (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 84039ae4 md5 01ca629f75942b6c1cdb79f9554b782d )
+)
+
+game (
+	name "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Orgel]"
+	description "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Orgel]"
+	rom ( name "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[Orgel].bas" size 642 crc 906f39c1 md5 ca8e234964233d26c7aa9e97cc200414 )
+)
+
+game (
+	name "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Orgel1]"
+	description "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Orgel1]"
+	rom ( name "Orgel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[Orgel1].bas" size 9128 crc 2b4a80e1 md5 eb1608eb7e73abb3a71c683f94f0d704 )
+)
+
+game (
+	name "Orgel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Orgel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Orgel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 4829b023 md5 0ebaeb3d7e7af1a3d38b9c50ac693eb0 )
+)
+
+game (
+	name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[quadron]"
+	description "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[quadron]"
+	rom ( name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[quadron].bas" size 623 crc 884deac9 md5 845e211dce292da0755334d56cb66cb9 )
+)
+
+game (
+	name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[quadron1]"
+	description "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[quadron1]"
+	rom ( name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[quadron1].bas" size 8234 crc 66ee72e6 md5 4e8ce0f591e8b0ed2555674ad7fb083e )
+)
+
+game (
+	name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[quadron2]"
+	description "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[quadron2]"
+	rom ( name "Quadron (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[quadron2].bin" size 1144 crc 45ef189f md5 0691acaa071cd8564b05e93181b830b1 )
+)
+
+game (
+	name "Quadron (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Quadron (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Quadron (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc bfa43c85 md5 d1304ced14fc02693abd85743110dde9 )
+)
+
+game (
+	name "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roessel]"
+	description "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roessel]"
+	rom ( name "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roessel].bas" size 649 crc cc57f374 md5 6749610f063d4aaa5efeedfecc97c9ed )
+)
+
+game (
+	name "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roessel1]"
+	description "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roessel1]"
+	rom ( name "Roessel (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roessel1].bas" size 8711 crc 3415ada2 md5 088e376441751f99394bed5c1a32b97e )
+)
+
+game (
+	name "Roessel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Roessel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Roessel (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 1c96d582 md5 b0e26a70d3dd06d0069b1fb7b9476002 )
+)
+
+game (
+	name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland1]"
+	description "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland1]"
+	rom ( name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland1].bas" size 1006 crc 30e3ff4f md5 491f4a0605ee6ab57c2b95b71c7b733f )
+)
+
+game (
+	name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland11]"
+	description "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland11]"
+	rom ( name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland11].bin" size 19471 crc 41f91a8b md5 666866301b163af107ecbe84cfd99c16 )
+)
+
+game (
+	name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Roland 1 (198x)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 642266b6 md5 b94089a9971d84579ccead16a484fa63 )
+)
+
+game (
+	name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland2]"
+	description "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland2]"
+	rom ( name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[roland2].bas" size 2992 crc f68c8189 md5 89834f1f26d982bafe3bd6d24d3d67f6 )
+)
+
+game (
+	name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland21]"
+	description "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland21]"
+	rom ( name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[roland21].bin" size 21631 crc d42ad4db md5 9279c8c52a8b676c6b7788cdbf35f15d )
+)
+
+game (
+	name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Roland 2 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc cf66300f md5 59a2725de6968703859dd4c9ac393bf3 )
+)
+
+game (
+	name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[schach1]"
+	description "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[schach1]"
+	rom ( name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[schach1].bas" size 641 crc 91af9c40 md5 c0149db378df4eb7826f4262cce16852 )
+)
+
+game (
+	name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)(schach11)"
+	description "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)(schach11)"
+	rom ( name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)(schach11).bin" size 34678 crc 01606203 md5 ce0e62306fa17d568a8357c3291da0d0 )
+)
+
+game (
+	name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Schach 1 (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 333bd4b9 md5 65c4e88eee7f1b983959f86cf82cd7a2 )
+)
+
+game (
+	name "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[strolch]"
+	description "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[strolch]"
+	rom ( name "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 2)[strolch].bas" size 604 crc 2addc2df md5 4a4f6662c1d4e9720af6af7686501be7 )
+)
+
+game (
+	name "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[strolch1]"
+	description "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[strolch1]"
+	rom ( name "Strolch (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 2)[strolch1].bas" size 8348 crc 926d4ec9 md5 37c6d25f3ccb9fea47034f7d543b4c3d )
+)
+
+game (
+	name "Strolch (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "Strolch (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "Strolch (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc a11897ca md5 8a59e66eb3ffdd0d03d0f8eb160be6fa )
+)
+
+game (
+	name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[text1]"
+	description "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[text1]"
+	rom ( name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[text1].bas" size 640 crc 316105b8 md5 35b6ec9cab5d82b9c4c7a112204fde2c )
+)
+
+game (
+	name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[text11]"
+	description "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[text11]"
+	rom ( name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[text11].bas" size 8446 crc 0921a44a md5 c1e0f75b042cffe78e32280344416c25 )
+)
+
+game (
+	name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[text12]"
+	description "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[text12]"
+	rom ( name "Text 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[text12].bin" size 3456 crc a1d386d2 md5 6c3b455288fe45572e810710cbf324b8 )
+)
+
+game (
+	name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 4)[wsport1][CPCEmu image]"
+	description "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 4)[wsport1][CPCEmu image]"
+	rom ( name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 4)[wsport1][CPCEmu image].dsk" size 194816 crc ef763160 md5 8ed5bb526480430b1973b60b5a1f81a2 )
+)
+
+game (
+	name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 4)[wsport2][CPCEmu image]"
+	description "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 4)[wsport2][CPCEmu image]"
+	rom ( name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 4)[wsport2][CPCEmu image].dsk" size 194816 crc 01342815 md5 a2f4e9baabbed14ffd779a1604ccd139 )
+)
+
+game (
+	name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 4)[wsport3][CPCEmu image]"
+	description "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 4)[wsport3][CPCEmu image]"
+	rom ( name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 4)[wsport3][CPCEmu image].dsk" size 194816 crc fca8ca36 md5 1da1f683bc3ddb77568a42bf6f9f0ef2 )
+)
+
+game (
+	name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 4 of 4)[wsport4][CPCEmu image]"
+	description "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 4 of 4)[wsport4][CPCEmu image]"
+	rom ( name "Winter Sport (1989)(VEB Mikroelektronik W. Pieck)(File 4 of 4)[wsport4][CPCEmu image].dsk" size 194816 crc 8fec9b37 md5 876231694ccd928a157bdac3efa38dd8 )
+)
+
+game (
+	name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport1]"
+	description "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport1]"
+	rom ( name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport1].bas" size 649 crc 16354e8b md5 5796bde3dcfe94e9987f7cc9b4883c91 )
+)
+
+game (
+	name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport11]"
+	description "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport11]"
+	rom ( name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport11].bin" size 12416 crc 5617a9e1 md5 203713b9492e2f4806169a39e8d8dd40 )
+)
+
+game (
+	name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport12]"
+	description "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport12]"
+	rom ( name "Winter Sport 1 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport12].bin" size 30848 crc fd4c1a68 md5 db274878fc8349425e8a5260d523b2f6 )
+)
+
+game (
+	name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport2]"
+	description "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport2]"
+	rom ( name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport2].bas" size 649 crc 58f1149b md5 be63606f6bf73edcc23e45acd9ad45b1 )
+)
+
+game (
+	name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport21]"
+	description "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport21]"
+	rom ( name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport21].bin" size 12416 crc 72d5a02e md5 a44f7fd1e2ad3f41b95a3daa02c673e5 )
+)
+
+game (
+	name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport22]"
+	description "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport22]"
+	rom ( name "Winter Sport 2 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport22].bin" size 30848 crc e003a0d1 md5 aea0e0bfe2ea0cb5f901ba4b676dd942 )
+)
+
+game (
+	name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport3]"
+	description "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport3]"
+	rom ( name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport3].bas" size 649 crc 62b2dd6b md5 f366f1643dbbbf62092e948ea649326e )
+)
+
+game (
+	name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport31]"
+	description "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport31]"
+	rom ( name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport31].bin" size 12416 crc 08169c71 md5 941a630d707858d058c79e5a307fa114 )
+)
+
+game (
+	name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport32]"
+	description "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport32]"
+	rom ( name "Winter Sport 3 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport32].bin" size 30848 crc 8cf1abe1 md5 de09be20d987a1cca3891ca1ec9c4e40 )
+)
+
+game (
+	name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport4]"
+	description "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport4]"
+	rom ( name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 1 of 3)[wsport4].bas" size 649 crc 005d527c md5 ec9e7bff266ef31647032816e5f587f6 )
+)
+
+game (
+	name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport41]"
+	description "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport41]"
+	rom ( name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 2 of 3)[wsport41].bin" size 12416 crc 539e439a md5 8a479bf86a960295c6152290cf776cda )
+)
+
+game (
+	name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport42]"
+	description "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport42]"
+	rom ( name "Winter Sport 4 (1989)(VEB Mikroelektronik W. Pieck)(File 3 of 3)[wsport42].bin" size 30848 crc 43e1a593 md5 738b5a8156e0172f991afcae318cf071 )
+)
+
+game (
+	name "konzert (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	description "konzert (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image]"
+	rom ( name "konzert (1989)(VEB Mikroelektronik W. Pieck)[CPCEmu image].dsk" size 194816 crc 8b02dd56 md5 3f4fa88f771a827610981440607c011a )
+)

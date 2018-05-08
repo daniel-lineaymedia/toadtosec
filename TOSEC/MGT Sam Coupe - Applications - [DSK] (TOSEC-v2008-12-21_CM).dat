@@ -1,0 +1,337 @@
+clrmamepro (
+	name "MGT Sam Coupe - Applications - [DSK]"
+	description "MGT Sam Coupe - Applications - [DSK] (TOSEC-v2008-12-21)"
+	category "MGT Sam Coupe - Applications - [DSK]"
+	version 2008-12-21
+	author "dirkpitt - Grendel - Cowering - Cassiel"
+)
+
+game (
+	name "AMRAD Amateur Radio Logbook (1994)(Spencer)"
+	description "AMRAD Amateur Radio Logbook (1994)(Spencer)"
+	rom ( name "AMRAD Amateur Radio Logbook (1994)(Spencer).dsk" size 819200 crc a5ffd630 md5 be6de0b9b2963c6218a3ca547522d420 )
+)
+
+game (
+	name "Beta DOS 1.0 For the Plus D (1990)(Betasoft)"
+	description "Beta DOS 1.0 For the Plus D (1990)(Betasoft)"
+	rom ( name "Beta DOS 1.0 For the Plus D (1990)(Betasoft).dsk" size 819200 crc 5adf0bb0 md5 0d71b4952dadbfb1061acc1f4640c787 )
+)
+
+game (
+	name "Comet Z80 Assembler v1.8 (1992)(Revelation)"
+	description "Comet Z80 Assembler v1.8 (1992)(Revelation)"
+	rom ( name "Comet Z80 Assembler v1.8 (1992)(Revelation).dsk" size 819200 crc 5000e895 md5 2b52c634f1723e94e1e10dbf49cf1c82 )
+)
+
+game (
+	name "Complete Guide to Sam Basic Parts 1 - 7, The (1994)(Relion Software)"
+	description "Complete Guide to Sam Basic Parts 1 - 7, The (1994)(Relion Software)"
+	rom ( name "Complete Guide to Sam Basic Parts 1 - 7, The (1994)(Relion Software).dsk" size 819200 crc 9d9cd461 md5 6dabfea966bb1b708f5a09330364fa80 )
+)
+
+game (
+	name "Compressor Utilities (1993)(ESI)"
+	description "Compressor Utilities (1993)(ESI)"
+	rom ( name "Compressor Utilities (1993)(ESI).dsk" size 819222 crc 2048e655 md5 75c802763f21a921f864134cad5c82d2 )
+)
+
+game (
+	name "Driver Icons (1995)(Saturn Software)"
+	description "Driver Icons (1995)(Saturn Software)"
+	rom ( name "Driver Icons (1995)(Saturn Software).dsk" size 819200 crc 07623d79 md5 453b207dfd00edef5532ff673db470b3 )
+)
+
+game (
+	name "Easydisc v4.9 (1995)(Saturn Software)"
+	description "Easydisc v4.9 (1995)(Saturn Software)"
+	rom ( name "Easydisc v4.9 (1995)(Saturn Software).dsk" size 819200 crc f9c8c1fd md5 063db07172aa7aa58859dd0be1c63b4b )
+)
+
+game (
+	name "Easydisc v5.0 (1995)(Saturn Software)"
+	description "Easydisc v5.0 (1995)(Saturn Software)"
+	rom ( name "Easydisc v5.0 (1995)(Saturn Software).dsk" size 819200 crc 8ce0d8e4 md5 ab35f1426edbbfc6d32f57675bff531f )
+)
+
+game (
+	name "E-Tracker Program Disk (19xx)(FRED Publishing)"
+	description "E-Tracker Program Disk (19xx)(FRED Publishing)"
+	rom ( name "E-Tracker Program Disk (19xx)(FRED Publishing).dsk" size 819200 crc 5c25a4de md5 1a4872ca225b7ef6913ba01e329a1e54 )
+)
+
+game (
+	name "E-Tracker Tunes (19xx)(ESI)"
+	description "E-Tracker Tunes (19xx)(ESI)"
+	rom ( name "E-Tracker Tunes (19xx)(ESI).dsk" size 819200 crc 6a328b55 md5 4d0620bec07a3051b346e6e327c7adbe )
+)
+
+game (
+	name "E-Tunes Player (19xx)(MNEMOTech)"
+	description "E-Tunes Player (19xx)(MNEMOTech)"
+	rom ( name "E-Tunes Player (19xx)(MNEMOTech).dsk" size 819200 crc 36b4a13e md5 085e720008e71d20e3ace5f6f2e66c7d )
+)
+
+game (
+	name "Flash Disc v1.1 (19xx)(Bo Jangeborg)"
+	description "Flash Disc v1.1 (19xx)(Bo Jangeborg)"
+	rom ( name "Flash Disc v1.1 (19xx)(Bo Jangeborg).dsk" size 819200 crc 66fbd9be md5 dab4e6405131dc84454c7eefe078d6f4 )
+)
+
+game (
+	name "GM-Calc v1.0 (19xx)(GM Software)"
+	description "GM-Calc v1.0 (19xx)(GM Software)"
+	rom ( name "GM-Calc v1.0 (19xx)(GM Software).dsk" size 819200 crc 19627694 md5 fa749de371034075b2b39b25d59965d2 )
+)
+
+game (
+	name "H-DOS 2.12 & HD Loader v2.0 (1996)(-)"
+	description "H-DOS 2.12 & HD Loader v2.0 (1996)(-)"
+	rom ( name "H-DOS 2.12 & HD Loader v2.0 (1996)(-).dsk" size 819200 crc e109d33a md5 a1008b47c751ce4a3a55d72d583be56d )
+)
+
+game (
+	name "Hires Clipart Picture Dumper v1.0 (1995-11)(Steve's Software)"
+	description "Hires Clipart Picture Dumper v1.0 (1995-11)(Steve's Software)"
+	rom ( name "Hires Clipart Picture Dumper v1.0 (1995-11)(Steve's Software).dsk" size 819200 crc bbdcf9cc md5 8b156cefca56701ff865b88b0ae3fec7 )
+)
+
+game (
+	name "Jigsaw Disk - Jigsaw Creator (1992)(Colony Software)"
+	description "Jigsaw Disk - Jigsaw Creator (1992)(Colony Software)"
+	rom ( name "Jigsaw Disk - Jigsaw Creator (1992)(Colony Software).dsk" size 819200 crc bb17ef4e md5 625fa6280e26d8a2dfd1ae395b397a0d )
+)
+
+game (
+	name "MasterBASIC Maker (1994)(Betasoft)"
+	description "MasterBASIC Maker (1994)(Betasoft)"
+	rom ( name "MasterBASIC Maker (1994)(Betasoft).dsk" size 819200 crc a54d3c59 md5 423212140599e72e484721d2df709080 )
+)
+
+game (
+	name "MasterDOS & MasterBASIC for Formatting Discs in 2 Drives (19xx)(-)"
+	description "MasterDOS & MasterBASIC for Formatting Discs in 2 Drives (19xx)(-)"
+	rom ( name "MasterDOS & MasterBASIC for Formatting Discs in 2 Drives (19xx)(-).dsk" size 819200 crc 77fd4c20 md5 7c9d32ea2d3be57c60736ad1320a5ee7 )
+)
+
+game (
+	name "MasterDOS File Manager v1.0 (1991)(-)"
+	description "MasterDOS File Manager v1.0 (1991)(-)"
+	rom ( name "MasterDOS File Manager v1.0 (1991)(-).dsk" size 819200 crc 3c0d0f9a md5 b9012bf3b8d36d8e816e2483346aad54 )
+)
+
+game (
+	name "MasterDOS v2.1 (19xx)(-)"
+	description "MasterDOS v2.1 (19xx)(-)"
+	rom ( name "MasterDOS v2.1 (19xx)(-).dsk" size 819200 crc 2cd3137f md5 f49df6e6f38eb962167112e0046d706a )
+)
+
+game (
+	name "Outwrite v2.0 (1992)(Chezron Software)"
+	description "Outwrite v2.0 (1992)(Chezron Software)"
+	rom ( name "Outwrite v2.0 (1992)(Chezron Software).dsk" size 819200 crc 472670a0 md5 a80120fb19d531ec33636d02d568e1c0 )
+)
+
+game (
+	name "Outwrite v2.0 (1992)(Chezron Software)[a]"
+	description "Outwrite v2.0 (1992)(Chezron Software)[a]"
+	rom ( name "Outwrite v2.0 (1992)(Chezron Software)[a].dsk" size 819200 crc cd7f5dc5 md5 dd0731258fcd7e355f781692b139e6e0 )
+)
+
+game (
+	name "Personal Filing System v2.07 (1994)(Hilton Computer Services LTD)"
+	description "Personal Filing System v2.07 (1994)(Hilton Computer Services LTD)"
+	rom ( name "Personal Filing System v2.07 (1994)(Hilton Computer Services LTD).dsk" size 819200 crc 5a558d2a md5 6d244122a3b533bfe23e4448f439b344 )
+)
+
+game (
+	name "Printer Port Music Sample Player (19xx)(-)"
+	description "Printer Port Music Sample Player (19xx)(-)"
+	rom ( name "Printer Port Music Sample Player (19xx)(-).dsk" size 819200 crc 71f59766 md5 5ca3acd1d2cf89a790718dc8017079e7 )
+)
+
+game (
+	name "Recover-E (1995)(Colin G. Piggot)"
+	description "Recover-E (1995)(Colin G. Piggot)"
+	rom ( name "Recover-E (1995)(Colin G. Piggot).dsk" size 819200 crc d78f2543 md5 c969cf644545b178519e9b987a6de894 )
+)
+
+game (
+	name "Sam Adventure Club Library Disk No. 3 - SamScratch v3.2 (19xx)(-)"
+	description "Sam Adventure Club Library Disk No. 3 - SamScratch v3.2 (19xx)(-)"
+	rom ( name "Sam Adventure Club Library Disk No. 3 - SamScratch v3.2 (19xx)(-).dsk" size 819200 crc 9efc34ec md5 f55e9e100b6ba3c2e3056717953f39da )
+)
+
+game (
+	name "Sam Adventure System Test Disk (1992)(Axxent Software)"
+	description "Sam Adventure System Test Disk (1992)(Axxent Software)"
+	rom ( name "Sam Adventure System Test Disk (1992)(Axxent Software).dsk" size 819200 crc a51ed853 md5 6c8680cce65a642c896526f7755e3582 )
+)
+
+game (
+	name "Sam Adventure System v1.0 (1992)(Axxent Software)"
+	description "Sam Adventure System v1.0 (1992)(Axxent Software)"
+	rom ( name "Sam Adventure System v1.0 (1992)(Axxent Software).dsk" size 819200 crc 17254ace md5 4f7a058ac4cd3597f0cda8f4164790bc )
+)
+
+game (
+	name "Sam Adventure System v1.2 (1992)(Axxent Software)"
+	description "Sam Adventure System v1.2 (1992)(Axxent Software)"
+	rom ( name "Sam Adventure System v1.2 (1992)(Axxent Software).dsk" size 819200 crc c8147879 md5 d2595eca4c37b3fc76334b92d8d22f35 )
+)
+
+game (
+	name "Sam Disk Info Copier Editor v1.0 for MasterDOS (1991)(Kobrahsoft)"
+	description "Sam Disk Info Copier Editor v1.0 for MasterDOS (1991)(Kobrahsoft)"
+	rom ( name "Sam Disk Info Copier Editor v1.0 for MasterDOS (1991)(Kobrahsoft).dsk" size 819200 crc ce7f08f0 md5 c6feb181b3f1a3d9cd36b55f45aab6aa )
+)
+
+game (
+	name "Sam Disk Info Copier Editor v1.1 for MasterDOS (1991)(Kobrahsoft)"
+	description "Sam Disk Info Copier Editor v1.1 for MasterDOS (1991)(Kobrahsoft)"
+	rom ( name "Sam Disk Info Copier Editor v1.1 for MasterDOS (1991)(Kobrahsoft).dsk" size 819200 crc 57e2e72a md5 3a294d5668fe55d6c4bfbfefaf56ef7f )
+)
+
+game (
+	name "SC Compressor 2 (1991)(Steve's Software)"
+	description "SC Compressor 2 (1991)(Steve's Software)"
+	rom ( name "SC Compressor 2 (1991)(Steve's Software).dsk" size 819200 crc 9d74108f md5 377d0780a4a6d0ff5bfc4cfc81b3453d )
+)
+
+game (
+	name "SC Filer v2.0 (1991)(Steve's Software)"
+	description "SC Filer v2.0 (1991)(Steve's Software)"
+	rom ( name "SC Filer v2.0 (1991)(Steve's Software).dsk" size 819200 crc 0bb37701 md5 0b79a025c8026fb267999db59e56f83e )
+)
+
+game (
+	name "SC Monitor Pro v1.2 & TurboMon v1.0 (199x)(Steve's Software)"
+	description "SC Monitor Pro v1.2 & TurboMon v1.0 (199x)(Steve's Software)"
+	rom ( name "SC Monitor Pro v1.2 & TurboMon v1.0 (199x)(Steve's Software).dsk" size 819200 crc ed3e1f07 md5 50ae7eafc6917dc2bf34449daec08c62 )
+)
+
+game (
+	name "Small C (1995)(Rumsoft)"
+	description "Small C (1995)(Rumsoft)"
+	rom ( name "Small C (1995)(Rumsoft).dsk" size 819200 crc fae03774 md5 14eb6c88226ad8acc53618bd7aebbb81 )
+)
+
+game (
+	name "Small C (1995)(Rumsoft)[a]"
+	description "Small C (1995)(Rumsoft)[a]"
+	rom ( name "Small C (1995)(Rumsoft)[a].dsk" size 819200 crc 7a5a2f6a md5 58ddce00da96f7128a4ce9de4126f834 )
+)
+
+game (
+	name "Sound Machine (1997)(Persona)"
+	description "Sound Machine (1997)(Persona)"
+	rom ( name "Sound Machine (1997)(Persona).dsk" size 819200 crc 352a2817 md5 3e14c2ae4f40b4fbcf463b8f3f039808 )
+)
+
+game (
+	name "Spectrum Emulator (1990-09-04)(-)"
+	description "Spectrum Emulator (1990-09-04)(-)"
+	rom ( name "Spectrum Emulator (1990-09-04)(-).dsk" size 819200 crc 2ac5a110 md5 26f00377158a43c1c080c202b1017e20 )
+)
+
+game (
+	name "ZZZ-UNK-fdos0004"
+	description "ZZZ-UNK-fdos0004"
+	rom ( name "ZZZ-UNK-fdos0004.dsk" size 737280 crc efa6e850 md5 c19e5b5c4660f073287a816e82316d01 )
+)
+
+game (
+	name "ZZZ-UNK-fdos0010"
+	description "ZZZ-UNK-fdos0010"
+	rom ( name "ZZZ-UNK-fdos0010.dsk" size 737280 crc e8e02abf md5 a5e6d630080f9c2f033d4202f388334b )
+)
+
+game (
+	name "ZZZ-UNK-fdos0011"
+	description "ZZZ-UNK-fdos0011"
+	rom ( name "ZZZ-UNK-fdos0011.dsk" size 737280 crc 69cafe72 md5 8dad93112138c024ad03093f13c033dc )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-002"
+	description "ZZZ-UNK-FDOS-002"
+	rom ( name "ZZZ-UNK-FDOS-002.dsk" size 737280 crc 52e6337e md5 0065eb594725a083fa48e0cc21a274b6 )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-003"
+	description "ZZZ-UNK-FDOS-003"
+	rom ( name "ZZZ-UNK-FDOS-003.dsk" size 737280 crc be097dec md5 0e0cb1122421a85e44ff1381da4d15b3 )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-005"
+	description "ZZZ-UNK-FDOS-005"
+	rom ( name "ZZZ-UNK-FDOS-005.dsk" size 737280 crc 2c1d2669 md5 02abdd678e7c7ce1e4e39b6098d9dc6f )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-006"
+	description "ZZZ-UNK-FDOS-006"
+	rom ( name "ZZZ-UNK-FDOS-006.dsk" size 737280 crc 11d7575c md5 5c0c7f90769613314fb71cc7bc71cf0c )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-007"
+	description "ZZZ-UNK-FDOS-007"
+	rom ( name "ZZZ-UNK-FDOS-007.dsk" size 737280 crc ad5d8687 md5 c596e617602c427cb98f037c22a4c999 )
+)
+
+game (
+	name "ZZZ-UNK-fdos008"
+	description "ZZZ-UNK-fdos008"
+	rom ( name "ZZZ-UNK-fdos008.dsk" size 737280 crc 902c365f md5 e11302b5e882d7096a50d0381004eea8 )
+)
+
+game (
+	name "ZZZ-UNK-FDOS-009"
+	description "ZZZ-UNK-FDOS-009"
+	rom ( name "ZZZ-UNK-FDOS-009.dsk" size 737280 crc 3e35cde8 md5 40a9b4c60080fe511e59c0068cf5a31e )
+)
+
+game (
+	name "ZZZ-UNK-hardware developmentkit(kalidoscopecolourupgrade)"
+	description "ZZZ-UNK-hardware developmentkit(kalidoscopecolourupgrade)"
+	rom ( name "ZZZ-UNK-hardware developmentkit(kalidoscopecolourupgrade).dsk" size 819200 crc 4ed09a84 md5 caecec77e408f0ec601cd27a93688629 )
+)
+
+game (
+	name "ZZZ-UNK-hypertextreader"
+	description "ZZZ-UNK-hypertextreader"
+	rom ( name "ZZZ-UNK-hypertextreader.dsk" size 819200 crc 19611a4f md5 b16809ab4b44ad8f301f16959fd587bc )
+)
+
+game (
+	name "ZZZ-UNK-librarypacker30a#lcb file"
+	description "ZZZ-UNK-librarypacker30a#lcb file"
+	rom ( name "ZZZ-UNK-librarypacker30a#lcb file.dsk" size 819200 crc aa811d38 md5 6ddfdc2b5c6a01dde27a4c87f4bbb6fe )
+)
+
+game (
+	name "ZZZ-UNK-librarypacker30b#lcb file"
+	description "ZZZ-UNK-librarypacker30b#lcb file"
+	rom ( name "ZZZ-UNK-librarypacker30b#lcb file.dsk" size 819200 crc be0fb2cc md5 224c829d8f6f0b9ddd3c6c67bc4f5f9c )
+)
+
+game (
+	name "ZZZ-UNK-pro-dos boot disk"
+	description "ZZZ-UNK-pro-dos boot disk"
+	rom ( name "ZZZ-UNK-pro-dos boot disk.dsk" size 819200 crc 68ba6e66 md5 83d72032c955aa6330d71caa30b62b77 )
+)
+
+game (
+	name "ZZZ-UNK-pro-dos pd sampler disk"
+	description "ZZZ-UNK-pro-dos pd sampler disk"
+	rom ( name "ZZZ-UNK-pro-dos pd sampler disk.dsk" size 737280 crc 31846dc3 md5 11830173cddafb313e83ddd788ba270b )
+)
+
+game (
+	name "ZZZ-UNK-pro-dos system disk"
+	description "ZZZ-UNK-pro-dos system disk"
+	rom ( name "ZZZ-UNK-pro-dos system disk.dsk" size 737280 crc 9353e3e9 md5 1dc04f53e7187c0ae9e248c7bc1588c4 )
+)

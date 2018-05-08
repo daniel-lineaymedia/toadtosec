@@ -1,0 +1,19 @@
+clrmamepro (
+	name "RCA Chip-8 - Applications"
+	description "RCA Chip-8 - Applications (TOSEC-v2006-04-27)"
+	category "RCA Chip-8 - Applications"
+	version 2006-04-27
+	author "Cid - Grendel - Cassiel"
+)
+
+game (
+	name "Test (19xx)(-)"
+	description "Test (19xx)(-)"
+	rom ( name "Test (19xx)(-).bin" size 100 crc 3d48f74b md5 f4ef21c988b5b80eb95c8bfa3b1bfe27 )
+)
+
+game (
+	name "Version Chk (1992)(JMN Softwares)(PD)"
+	description "Version Chk (1992)(JMN Softwares)(PD)"
+	rom ( name "Version Chk (1992)(JMN Softwares)(PD).bin" size 230 crc 0dbf7208 md5 486bddc6e25e378838ff3e944db9a443 )
+)

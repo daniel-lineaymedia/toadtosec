@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Fairchild VES & Channel F - Demos"
+	description "Fairchild VES & Channel F - Demos (TOSEC-v2009-09-26)"
+	category "Fairchild VES & Channel F - Demos"
+	version 2009-09-26
+	author "Cid - Grendel - Cassiel"
+)
+
+game (
+	name "Channel F Multi-Cart - Menu (2004)(Riddle, Sean)"
+	description "Channel F Multi-Cart - Menu (2004)(Riddle, Sean)"
+	rom ( name "Channel F Multi-Cart - Menu (2004)(Riddle, Sean).bin" size 2048 crc 0d06a1dd md5 02b4a4f523b972c63fef21bf2e51ae58 )
+)
+
+game (
+	name "Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a]"
+	description "Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a]"
+	rom ( name "Channel F Multi-Cart - Menu (2004)(Riddle, Sean)[a].bin" size 2048 crc 846183a5 md5 4b3657594cd1000d08704f4f0fb53c75 )
+)
+
+game (
+	name "Color Organ (19xx)(-)"
+	description "Color Organ (19xx)(-)"
+	rom ( name "Color Organ (19xx)(-).bin" size 2048 crc 3fa2d4eb md5 94530113a22ae27af6ed87b98d9af62a )
+)
+
+game (
+	name "Color Organ (19xx)(-)[b]"
+	description "Color Organ (19xx)(-)[b]"
+	rom ( name "Color Organ (19xx)(-)[b].bin" size 2048 crc 577cfee5 md5 c8d5ce90cb1c76c9589711b5029d3421 )
+)
+
+game (
+	name "Colortest Demo (200x)(Riddle, Sean)"
+	description "Colortest Demo (200x)(Riddle, Sean)"
+	rom ( name "Colortest Demo (200x)(Riddle, Sean).bin" size 2048 crc 6a33def5 md5 c44be208013b82041d01d2bc1834060b )
+)
+
+game (
+	name "Democart (demo) (1977)(Fairchild)"
+	description "Democart (demo) (1977)(Fairchild)"
+	rom ( name "Democart (demo) (1977)(Fairchild).bin" size 2048 crc 42727ad5 md5 54cf17c48707467295749490d458eafb )
+)
+
+game (
+	name "Democart (demo) (1977)(Fairchild)[b]"
+	description "Democart (demo) (1977)(Fairchild)[b]"
+	rom ( name "Democart (demo) (1977)(Fairchild)[b].bin" size 2048 crc 8b63306f md5 3ef873268f8fc428da225cadabb4703f )
+)
+
+game (
+	name "Democart 2 (demo) (197x)(Fairchild)"
+	description "Democart 2 (demo) (197x)(Fairchild)"
+	rom ( name "Democart 2 (demo) (197x)(Fairchild).bin" size 2048 crc 44cf1d89 md5 f6916b665893aa8138cde57c37e50ada )
+)
+
+game (
+	name "Full Screen Picture Demo (200x)(e5frog)(PD)"
+	description "Full Screen Picture Demo (200x)(e5frog)(PD)"
+	rom ( name "Full Screen Picture Demo (200x)(e5frog)(PD).bin" size 5120 crc 49ec7866 md5 cc445080caa95ea4a48cc013a04f9808 )
+)
+
+game (
+	name "Full Screen Picture Demo (200x)(e5frog)(PD)[a]"
+	description "Full Screen Picture Demo (200x)(e5frog)(PD)[a]"
+	rom ( name "Full Screen Picture Demo (200x)(e5frog)(PD)[a].bin" size 4096 crc 338d2c8c md5 4b109aaf9c6896df4ee4c5a37852dab2 )
+)
+
+game (
+	name "International Karate Demo (200x)(-)(PD)"
+	description "International Karate Demo (200x)(-)(PD)"
+	rom ( name "International Karate Demo (200x)(-)(PD).bin" size 8192 crc b0e3393f md5 73eef0f56736e2d8153d6f489dd0bead )
+)
+
+game (
+	name "International Karate Demo Test 2 (200x)(-)(PD)"
+	description "International Karate Demo Test 2 (200x)(-)(PD)"
+	rom ( name "International Karate Demo Test 2 (200x)(-)(PD).bin" size 8192 crc 16485cc7 md5 d337be6e8f348fb329fbaf44d3c2fa17 )
+)
+
+game (
+	name "International Karate Demo Test 3 (200x)(-)(PD)"
+	description "International Karate Demo Test 3 (200x)(-)(PD)"
+	rom ( name "International Karate Demo Test 3 (200x)(-)(PD).bin" size 8192 crc ae5da587 md5 a6607b7c30cc4a7695d3112b3271d4e8 )
+)
+
+game (
+	name "International Karate Demo Test 5 (200x)(-)(PD)"
+	description "International Karate Demo Test 5 (200x)(-)(PD)"
+	rom ( name "International Karate Demo Test 5 (200x)(-)(PD).bin" size 8192 crc d79ea8bf md5 7dd3f1040c774fe147fc1d825b353524 )
+)
+
+game (
+	name "Scrolling Mountains (200x)(Curtdawg)"
+	description "Scrolling Mountains (200x)(Curtdawg)"
+	rom ( name "Scrolling Mountains (200x)(Curtdawg).bin" size 2048 crc 8b9815d8 md5 442e362a39018f2d117f43fe013d1d8b )
+)
+

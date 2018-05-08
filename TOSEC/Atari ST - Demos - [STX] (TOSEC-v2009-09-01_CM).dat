@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Atari ST - Demos - [STX]"
+	description "Atari ST - Demos - [STX] (TOSEC-v2009-09-01)"
+	category "Atari ST - Demos - [STX]"
+	version 2009-09-01
+	author "jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph"
+)
+
+game (
+	name "Atari Discovery Pack (19xx)(-)"
+	description "Atari Discovery Pack (19xx)(-)"
+	rom ( name "Atari Discovery Pack (19xx)(-).stx" size 894488 crc 7988c5f4 md5 ebeb051a345a96fb7a4e249de75e3fef )
+)
+
+game (
+	name "Union Demo, The (1989-01)(Union)"
+	description "Union Demo, The (1989-01)(Union)"
+	rom ( name "Union Demo, The (1989-01)(Union).stx" size 924380 crc 99dccd63 md5 6a0996a60513408f38b504dfc28644be )
+)
+
+game (
+	name "Union Demo, The (1989-01)(Union)[a]"
+	description "Union Demo, The (1989-01)(Union)[a]"
+	rom ( name "Union Demo, The (1989-01)(Union)[a].stx" size 924380 crc 5cf6a669 md5 e5879410f19d9fe5424a8aa7ee1a34eb )
+)

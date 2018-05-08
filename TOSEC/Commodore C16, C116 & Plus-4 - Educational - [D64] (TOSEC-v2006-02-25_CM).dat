@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Educational - [D64]"
+	description "Commodore C16, C116 & Plus-4 - Educational - [D64] (TOSEC-v2006-02-25)"
+	category "Commodore C16, C116 & Plus-4 - Educational - [D64]"
+	version 2006-02-25
+	author "DesertWolf"
+)
+
+game (
+	name "Gepi Kod Oktato (19xx)(-)(hu)"
+	description "Gepi Kod Oktato (19xx)(-)(hu)"
+	rom ( name "Gepi Kod Oktato (19xx)(-)(hu).d64" size 174848 crc 63c977dc md5 dc65d3f70d478ba1e5113edb9c08eba7 )
+)

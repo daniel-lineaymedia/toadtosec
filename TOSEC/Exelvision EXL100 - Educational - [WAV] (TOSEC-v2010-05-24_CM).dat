@@ -1,0 +1,217 @@
+clrmamepro (
+	name "Exelvision EXL100 - Educational - [WAV]"
+	description "Exelvision EXL100 - Educational - [WAV] (TOSEC-v2010-05-24)"
+	category "Exelvision EXL100 - Educational - [WAV]"
+	version 2010-05-24
+	author "TKaos"
+)
+
+game (
+	name "Angles (1985)(EH Services)(FR)(beta)[unreleased]"
+	description "Angles (1985)(EH Services)(FR)(beta)[unreleased]"
+	rom ( name "Angles (1985)(EH Services)(FR)(beta)[unreleased].wav" size 27189584 crc 058b8cef md5 12847ce355b4b8cd1ac099ea6a7b4709 )
+)
+
+game (
+	name "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side A)[b][req 64kb]"
+	description "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side A)[b][req 64kb]"
+	rom ( name "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side A)[b][req 64kb].wav" size 7445686 crc cf7fb187 md5 8ab631fe4e0a88e8eed8f6f6e2378fb5 )
+)
+
+game (
+	name "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side B)[b][req 64kb]"
+	description "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side B)[b][req 64kb]"
+	rom ( name "Animaux et la Ferme, Les - Tome I (1985)(Exelvision)(FR)(Side B)[b][req 64kb].wav" size 7651312 crc 537804ad md5 1f54283d7f74368536718d7a23602274 )
+)
+
+game (
+	name "Compter (198x)(Cedic, Nathan)(FR)"
+	description "Compter (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Compter (198x)(Cedic, Nathan)(FR).wav" size 16521560 crc edaca73d md5 aa40dd55547411c9abc57aafd39575a3 )
+)
+
+game (
+	name "Conjugaison (198x)(Cedic, Nathan)(FR)"
+	description "Conjugaison (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Conjugaison (198x)(Cedic, Nathan)(FR).wav" size 52596368 crc 878d009a md5 60583d2f3272e00b38dffc8303c4519b )
+)
+
+game (
+	name "Corps Humain, Le (1985)(Infogrames)(FR)"
+	description "Corps Humain, Le (1985)(Infogrames)(FR)"
+	rom ( name "Corps Humain, Le (1985)(Infogrames)(FR).wav" size 1232500 crc 1a39c583 md5 f5376d762477973c92f6ab06b5a54d9d )
+)
+
+game (
+	name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 1 of 3)[intro]"
+	description "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 1 of 3)[intro]"
+	rom ( name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 1 of 3)[intro].wav" size 5134152 crc bf2a8dab md5 580a65b82fe1a9f0a5806ea9cf54f9a1 )
+)
+
+game (
+	name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 2 of 3)[boot]"
+	description "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 2 of 3)[boot]"
+	rom ( name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 2 of 3)[boot].wav" size 9141192 crc 6e763f5b md5 b810c34ed00737dc766a81cfae06d18d )
+)
+
+game (
+	name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 3 of 3)[data]"
+	description "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 3 of 3)[data]"
+	rom ( name "Fleuves Mers Ocean (198x)(Minipuce)(FR)(File 3 of 3)[data].wav" size 1615910 crc a1592fce md5 cfe28e2c947bce6c6aebff1f48927540 )
+)
+
+game (
+	name "Initiation a l'EXELBASIC - Volume 1 v1.0 (1985-07)(Exelvision)(FR)"
+	description "Initiation a l'EXELBASIC - Volume 1 v1.0 (1985-07)(Exelvision)(FR)"
+	rom ( name "Initiation a l'EXELBASIC - Volume 1 v1.0 (1985-07)(Exelvision)(FR).wav" size 9629838 crc 2edd25ea md5 e359075a6a22fc0a310afcd3f46f660d )
+)
+
+game (
+	name "Initiation a l'EXELBASIC - Volume 2 v1.1 (1985-08)(Exelvision)(FR)"
+	description "Initiation a l'EXELBASIC - Volume 2 v1.1 (1985-08)(Exelvision)(FR)"
+	rom ( name "Initiation a l'EXELBASIC - Volume 2 v1.1 (1985-08)(Exelvision)(FR).wav" size 8665622 crc b17c699c md5 8ee49d5bddff405c0fd75638cb640539 )
+)
+
+game (
+	name "Initiation a l'EXELBASIC - Volume 3 v1.1 (1985-08)(Exelvision)(FR)"
+	description "Initiation a l'EXELBASIC - Volume 3 v1.1 (1985-08)(Exelvision)(FR)"
+	rom ( name "Initiation a l'EXELBASIC - Volume 3 v1.1 (1985-08)(Exelvision)(FR).wav" size 9393728 crc 7e204b34 md5 5a2117617a89cb17f469fa458a4face7 )
+)
+
+game (
+	name "Initiation a l'EXELBASIC - Volume 4 v1.1 (1985-08)(Exelvision)(FR)"
+	description "Initiation a l'EXELBASIC - Volume 4 v1.1 (1985-08)(Exelvision)(FR)"
+	rom ( name "Initiation a l'EXELBASIC - Volume 4 v1.1 (1985-08)(Exelvision)(FR).wav" size 10882552 crc 3cc26883 md5 fa3fee7c439e86e99b4b5525f2f09c86 )
+)
+
+game (
+	name "Initiation au Basic 1 (1985)(Infogrames)(FR)"
+	description "Initiation au Basic 1 (1985)(Infogrames)(FR)"
+	rom ( name "Initiation au Basic 1 (1985)(Infogrames)(FR).wav" size 6488576 crc 979aac7b md5 241f7cf4a3f08439793c44456f7cda96 )
+)
+
+game (
+	name "Initiation au Basic 2 (1985)(Infogrames)(FR)"
+	description "Initiation au Basic 2 (1985)(Infogrames)(FR)"
+	rom ( name "Initiation au Basic 2 (1985)(Infogrames)(FR).wav" size 5623604 crc bc1c979c md5 5f1bdbda7c2d1b60b9f024abd374e430 )
+)
+
+game (
+	name "Initiation au Basic 3 (1985)(Infogrames)(FR)"
+	description "Initiation au Basic 3 (1985)(Infogrames)(FR)"
+	rom ( name "Initiation au Basic 3 (1985)(Infogrames)(FR).wav" size 6722828 crc 1483fdb5 md5 f708aaba628e92dfe65c7d0913950a7a )
+)
+
+game (
+	name "Initiation au Basic 4 (1985)(Infogrames)(FR)"
+	description "Initiation au Basic 4 (1985)(Infogrames)(FR)"
+	rom ( name "Initiation au Basic 4 (1985)(Infogrames)(FR).wav" size 2651408 crc cd15a4e0 md5 8a14a014d20107b6b55ac15ce4f5d7e1 )
+)
+
+game (
+	name "Lecture Rapide Mnemologik (198x)(Minipuce)(FR)"
+	description "Lecture Rapide Mnemologik (198x)(Minipuce)(FR)"
+	rom ( name "Lecture Rapide Mnemologik (198x)(Minipuce)(FR).wav" size 672768 crc a97895bc md5 e25b4f9effb291ac3f770e223e004d2f )
+)
+
+game (
+	name "Memot (1985)(EH Services)(FR)"
+	description "Memot (1985)(EH Services)(FR)"
+	rom ( name "Memot (1985)(EH Services)(FR).wav" size 26347004 crc 220b1a3b md5 df016a93e476d9ba8d066b5e041662f4 )
+)
+
+game (
+	name "Moins Autant Plus (198x)(Cedic, Nathan)(FR)"
+	description "Moins Autant Plus (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Moins Autant Plus (198x)(Cedic, Nathan)(FR).wav" size 13219964 crc 7af605d8 md5 8799ffce5d16a6e43f318b5915871f06 )
+)
+
+game (
+	name "Monstre du Lac Noir, Le (1988)(Edition PUSSY)(FR)"
+	description "Monstre du Lac Noir, Le (1988)(Edition PUSSY)(FR)"
+	rom ( name "Monstre du Lac Noir, Le (1988)(Edition PUSSY)(FR).wav" size 11310210 crc 4c14f85f md5 7e807511cd4c84d068d8ca5214fd2775 )
+)
+
+game (
+	name "Musical (198x)(Paralleles)(FR)(Side A)"
+	description "Musical (198x)(Paralleles)(FR)(Side A)"
+	rom ( name "Musical (198x)(Paralleles)(FR)(Side A).wav" size 9531800 crc eaae02cd md5 3b6711636a50d293452f3e779c4976bf )
+)
+
+game (
+	name "Musical (198x)(Paralleles)(FR)(Side B)"
+	description "Musical (198x)(Paralleles)(FR)(Side B)"
+	rom ( name "Musical (198x)(Paralleles)(FR)(Side B).wav" size 9531008 crc 02c7d5c3 md5 5ad6bec616da5ed1dce1d24f0c47d34d )
+)
+
+game (
+	name "Musique 1 (1985)(Techni-musique)(FR)"
+	description "Musique 1 (1985)(Techni-musique)(FR)"
+	rom ( name "Musique 1 (1985)(Techni-musique)(FR).wav" size 12042512 crc b3e7893c md5 253fef2f903c8070dfa23d7c11566fe3 )
+)
+
+game (
+	name "Musique 2 (1985)(Techni-musique)(FR)"
+	description "Musique 2 (1985)(Techni-musique)(FR)"
+	rom ( name "Musique 2 (1985)(Techni-musique)(FR).wav" size 8034092 crc 9517973c md5 24fd6fc97c117aebe5ecb38f7eeb3849 )
+)
+
+game (
+	name "Nathan Lecture (198x)(EH Services)(FR)(beta)[unreleased]"
+	description "Nathan Lecture (198x)(EH Services)(FR)(beta)[unreleased]"
+	rom ( name "Nathan Lecture (198x)(EH Services)(FR)(beta)[unreleased].wav" size 14955452 crc 94d6985d md5 46bf4bc532f73aac998274163e40b5a3 )
+)
+
+game (
+	name "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side A)"
+	description "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side A)"
+	rom ( name "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side A).wav" size 7006868 crc c2b7206f md5 4e2272b39dab570c231dd1cb8ff3def2 )
+)
+
+game (
+	name "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side B)"
+	description "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side B)"
+	rom ( name "Pedagogiciel v1.00 (1985-03-25)(JLF Letierce)(FR)(Side B).wav" size 3166712 crc 2de25b41 md5 9c3ed100dbeab9c6641adb0614e3265a )
+)
+
+game (
+	name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v1]"
+	description "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v1]"
+	rom ( name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v1].wav" size 6457616 crc 82bf96e6 md5 26ed526401fd5bf1733b33339e84f87b )
+)
+
+game (
+	name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v2]"
+	description "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v2]"
+	rom ( name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v2].wav" size 14774084 crc 2b29c0d4 md5 13111d4e0b9b3e1f109a56e97b6f7c82 )
+)
+
+game (
+	name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v3]"
+	description "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v3]"
+	rom ( name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v3].wav" size 39640076 crc 5ea425a1 md5 9443ce5dea80e65d8e312294057916bd )
+)
+
+game (
+	name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v4]"
+	description "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v4]"
+	rom ( name "Phrase et ses Constituants, La (198x)(EH Services)(FR)(beta)[unreleased][v4].wav" size 51242732 crc 088940ef md5 a04915bd2c0bd428ced23e47cf6279c8 )
+)
+
+game (
+	name "Produits et Surfaces (198x)(Cedic, Nathan)(FR)"
+	description "Produits et Surfaces (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Produits et Surfaces (198x)(Cedic, Nathan)(FR).wav" size 12455684 crc 03601389 md5 7e1c4bcd809b51574d544061041c3b84 )
+)
+
+game (
+	name "Reperes (198x)(EH Services)(FR)(beta)[unreleased]"
+	description "Reperes (198x)(EH Services)(FR)(beta)[unreleased]"
+	rom ( name "Reperes (198x)(EH Services)(FR)(beta)[unreleased].wav" size 5615576 crc 13b797a1 md5 1053b40b1d8a81c793a60127df53b11c )
+)
+
+game (
+	name "Train de la Lecture, Le (198x)(EH Services)(FR)(beta)[unreleased]"
+	description "Train de la Lecture, Le (198x)(EH Services)(FR)(beta)[unreleased]"
+	rom ( name "Train de la Lecture, Le (198x)(EH Services)(FR)(beta)[unreleased].wav" size 52495496 crc 5de91c90 md5 c9fc38545b36ec7169106a058e82c92f )
+)

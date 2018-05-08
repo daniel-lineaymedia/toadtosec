@@ -1,0 +1,111 @@
+clrmamepro (
+	name "IBM PCjr - Applications - Files"
+	description "IBM PCjr - Applications - Files (TOSEC-v2011-01-09)"
+	category "IBM PCjr - Applications - Files"
+	version 2011-01-09
+	author "idoru - Aral"
+)
+
+game (
+	name "BlankJr (1985)(-)[BLANKJR, display utility]"
+	description "BlankJr (1985)(-)[BLANKJR, display utility]"
+	rom ( name "BlankJr (1985)(-)[BLANKJR, display utility].com" size 384 crc 53ae1a90 md5 4b8896fca0a355e6aaea89dffef5d186 )
+)
+
+game (
+	name "BlinkJr (1986)(-)"
+	description "BlinkJr (1986)(-)"
+	rom ( name "BLINKJR.doc" size 1090 crc ea530dc6 md5 b9a1506bdcbcbdc3b7f79eb58089ecd5 )
+	rom ( name "BLINKOFF.exe" size 4370 crc 8734bafe md5 078125d12745a0b8a10d2e4476dfccee )
+	rom ( name "BLINKON.exe" size 4370 crc 43035e5b md5 60f2ffd0c6397426d79c797551effb95 )
+)
+
+game (
+	name "Comrest & Comswap (1986)(-)[COM port utilities]"
+	description "Comrest & Comswap (1986)(-)[COM port utilities]"
+	rom ( name "COMREST.exe" size 1792 crc b567947a md5 b69f6a8a31ef9a8e409e29cb58380e30 )
+	rom ( name "COMSWAP.exe" size 1792 crc c1e7ecfe md5 ef80aaa75161267f1c1c1ca3a14fc58b )
+)
+
+game (
+	name "DAE v6.0 (1985)(Dewar, Rob)[daed, text editor]"
+	description "DAE v6.0 (1985)(Dewar, Rob)[daed, text editor]"
+	rom ( name "DAE v6.0 (1985)(Dewar, Rob)[daed, text editor].com" size 53097 crc 9dbb418f md5 826420d52d6770aaea0b1a7ec1ee17cd )
+)
+
+game (
+	name "DOS Knows (1986)(-)[dosknows]"
+	description "DOS Knows (1986)(-)[dosknows]"
+	rom ( name "DOS Knows (1986)(-)[dosknows].exe" size 5376 crc 698f4a4f md5 5e4e5973330831214f02449c5fce82c0 )
+)
+
+game (
+	name "Dallas Semiconductor 1216E Drivers Package (2003-02)(Brutman, Michael)"
+	description "Dallas Semiconductor 1216E Drivers Package (2003-02)(Brutman, Michael)"
+	rom ( name "CLOCK.c" size 13814 crc 0545d4f5 md5 ac3843feb996c2ffb78b5a2010bcc07b )
+	rom ( name "CLOCK.exe" size 7035 crc 2006da4a md5 ce76515f90a6a93e42d1f27a4a3eccef )
+	rom ( name "CLOCKIO.asm" size 10766 crc 903e58d7 md5 448121ab1128879c9106afb00c706c41 )
+	rom ( name "DS1216E.txt" size 5881 crc d354b673 md5 5d5d0c5b45afae4812b88bf6acf93926 )
+	rom ( name "RDCLOCK.com" size 240 crc c000c0b9 md5 bd4978932e26af98832e77410b106100 )
+	rom ( name "TESTCLK.exe" size 2560 crc 1744dec6 md5 f0c02ef90550ebc7582e0fd58b2ef02d )
+)
+
+game (
+	name "Dev (1987)(-)"
+	description "Dev (1987)(-)"
+	rom ( name "dev.doc" size 128 crc 75e783e1 md5 1aaf3666ff0fd170626f6c1ca983fc63 )
+	rom ( name "dev.exe" size 1024 crc c22ae705 md5 368c4ff25230456d192c1ad42eca9dd2 )
+)
+
+game (
+	name "Disk-Image Transfer Utility v1.0 (1994)(Mirza, Fauzan)(FW)"
+	description "Disk-Image Transfer Utility v1.0 (1994)(Mirza, Fauzan)(FW)"
+	rom ( name "ditu.c" size 6065 crc 77b10bc3 md5 18a7eb7dbb5f9dbf21dbdb437771a670 )
+	rom ( name "ditu.exe" size 11300 crc a096e139 md5 32d14259f516538cb4436ae497e0c868 )
+	rom ( name "ditu.txt" size 3026 crc a5e92790 md5 65639af785bacc002092b1f27f671f3d )
+)
+
+game (
+	name "JRCONFIG v2.14 (1988)(Newcomb, Larry)(SW)"
+	description "JRCONFIG v2.14 (1988)(Newcomb, Larry)(SW)"
+	rom ( name "COLOR.com" size 2776 crc 1cffbd50 md5 1d2712dddae270589ec5dd6031135efc )
+	rom ( name "COMSPEC.com" size 256 crc ccf2861a md5 cf2df80023392dfce7f47e996498ff14 )
+	rom ( name "INSTALL.exe" size 9328 crc 9d1cc4df md5 31c6201219432b612e4a2e36869d3838 )
+	rom ( name "JRCONFIG.dsk" size 3150 crc d7e9ada1 md5 b6d3f21703d868d3d84bcc35fc8d0585 )
+	rom ( name "JRCONFIG.nrd" size 3157 crc d0e0468f md5 217f53b49c52f42be411f74fd7ec97c1 )
+	rom ( name "JRCONFIG.txt" size 32149 crc a85cd8e9 md5 2eb0ed023f7cd46cb6f74bff40fc15a0 )
+	rom ( name "LOWRD.sys" size 208 crc 9c8752e7 md5 b887355f313851d05d2be209eea7bde8 )
+	rom ( name "RAM.sys" size 499 crc 8aa79fe5 md5 8d769de45cf74a8d89484aa0b85986cd )
+	rom ( name "README" size 930 crc 3484ee2d md5 72b29c669afe27db0df9ef8397deb9d4 )
+	rom ( name "SETRAM.exe" size 2048 crc 699d2e3e md5 28c1288756e046baba193f190f1d86bd )
+	rom ( name "STATLIN.com" size 1247 crc 98d26097 md5 d94aba124651aff89d94d15b2c304d9d )
+)
+
+game (
+	name "LPTx v4.00 (1986)(DiVecchio, Mark)"
+	description "LPTx v4.00 (1986)(DiVecchio, Mark)"
+	rom ( name "lptx.com" size 5042 crc c608a0ef md5 94e0d8bd190360a34694f86e70d1c3ae )
+	rom ( name "lptx.doc" size 6171 crc 3c405bd8 md5 5f473187a22d9aac568c71ede5398fc6 )
+)
+
+game (
+	name "MemMap v2 (1989-05)(Glynn, Earl F.)"
+	description "MemMap v2 (1989-05)(Glynn, Earl F.)"
+	rom ( name "memmap.doc" size 2159 crc a70f7545 md5 726f8f7b23617f9e6ae38027c79fb3ee )
+	rom ( name "memmap.exe" size 6128 crc a4e76442 md5 082b5de7792e2691a17b258de3d5fbfe )
+	rom ( name "memmap.pas" size 9137 crc 81770fdf md5 847446eb85e23e0b5f3d610db2e24684 )
+)
+
+game (
+	name "PCjr Cartridge Dumper v1.0 (2003-02-23)(Brutman, Michael)"
+	description "PCjr Cartridge Dumper v1.0 (2003-02-23)(Brutman, Michael)"
+	rom ( name "PCJRCART.cpp" size 5955 crc c4fd93ab md5 62ca597ccd7d106218400715664941cb )
+	rom ( name "PCJRCART.exe" size 16330 crc 4a909e4b md5 1d7a9ab8e10975ae7c0d16d5e710154e )
+)
+
+game (
+	name "Refresh (1985-09-29)(Meister, Wolfgang K.)(PD)"
+	description "Refresh (1985-09-29)(Meister, Wolfgang K.)(PD)"
+	rom ( name "refresh.com" size 1152 crc 7d3032a4 md5 92a41f380892f725484ef43b06f7b673 )
+	rom ( name "refresh.doc" size 640 crc 0ac79ce5 md5 d204a69a38a63afcc76ad5187fb0d37b )
+)

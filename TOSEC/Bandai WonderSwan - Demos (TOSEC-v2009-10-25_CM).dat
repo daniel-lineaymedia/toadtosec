@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Bandai WonderSwan - Demos"
+	description "Bandai WonderSwan - Demos (TOSEC-v2009-10-25)"
+	category "Bandai WonderSwan - Demos"
+	version 2009-10-25
+	author "etabeta - Cassiel"
+)
+
+game (
+	name "Hello World (2001)(Sir Dragoon)(PD)"
+	description "Hello World (2001)(Sir Dragoon)(PD)"
+	rom ( name "Hello World (2001)(Sir Dragoon)(PD).bin" size 1048576 crc f207546c md5 1e5ab53e567094d5ad1c22812f102e41 )
+)
+
+game (
+	name "Walking Dudes Demo v1.0 (2002)(zalas)(PD)"
+	description "Walking Dudes Demo v1.0 (2002)(zalas)(PD)"
+	rom ( name "Walking Dudes Demo v1.0 (2002)(zalas)(PD).bin" size 1048576 crc a1fa7eff md5 22820bfc241f3dd6d8dbd644b8aba9b2 )
+)

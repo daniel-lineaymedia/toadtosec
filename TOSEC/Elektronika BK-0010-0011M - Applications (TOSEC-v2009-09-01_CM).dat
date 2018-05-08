@@ -1,0 +1,177 @@
+clrmamepro (
+	name "Elektronika BK-0010-0011M - Applications"
+	description "Elektronika BK-0010-0011M - Applications (TOSEC-v2009-09-01)"
+	category "Elektronika BK-0010-0011M - Applications"
+	version 2009-09-01
+	author "Grendel - Cid - Xtale"
+)
+
+game (
+	name "Alt Pro (1996)(-)"
+	description "Alt Pro (1996)(-)"
+	rom ( name "Alt Pro (1996)(-).ld" size 373460 crc dd276dff md5 39f6b44461f629bd53f3ef30e2b9d79a )
+)
+
+game (
+	name "Aniram Zipper v1.0 (1995)(Screw)"
+	description "Aniram Zipper v1.0 (1995)(Screw)"
+	rom ( name "zipper.bin" size 232 crc 6ea8abc3 md5 9676577eb17c84e9556ac119f2d984b3 )
+	rom ( name "zipper.doc" size 20480 crc 7f4d1c6c md5 4a411f49f87407effb59a0c236eb3bd1 )
+	rom ( name "zipper.scn" size 16384 crc 8096204e md5 1019bccb92d5ccc58b2987e6aa8537a3 )
+	rom ( name "zipper.v10" size 528 crc efdc2c65 md5 b75f34a30e8930022b64b9219faef4b0 )
+)
+
+game (
+	name "Aniram-Miriada (1994)(Screw)"
+	description "Aniram-Miriada (1994)(Screw)"
+	rom ( name "Anir_mir.doc" size 9791 crc 4c3305c0 md5 ecb85298e26e89dff3d3a214866b23e7 )
+	rom ( name "Aniram.mir" size 11264 crc 1968bee7 md5 7fcf4bd57b37adc6cf04542667d12576 )
+	rom ( name "Aniram1.mir" size 11264 crc 8ff23c7d md5 2405aff55da68bff85892fabf5c6ef3b )
+	rom ( name "Anirdoc.bin" size 16384 crc aa9e0b69 md5 db94911c1d93b1a9775ccc9352e5df26 )
+	rom ( name "Anirdoc.txt" size 5010 crc c28d1a11 md5 69eeea5a475b9e1264e83cd412646eb1 )
+	rom ( name "Anirmir.v31" size 11776 crc 6d5cebc8 md5 aec4b764ed649a0aec745e52249f382f )
+	rom ( name "Dmast_v3.ovl" size 8192 crc 533e615b md5 a307e4621fef62c8126bf0db292215c5 )
+	rom ( name "readme.txt" size 4096 crc 9982a64a md5 1563410329655c86f6f799fcbcc14b3a )
+)
+
+game (
+	name "BK Pack v1.5 (1992)(MKT Corporation)[Bkpack2]"
+	description "BK Pack v1.5 (1992)(MKT Corporation)[Bkpack2]"
+	rom ( name "BK Pack v1.5 (1992)(MKT Corporation)[Bkpack2].5" size 3413 crc cd7d8664 md5 019c3e77daa686591f44188ac8d2986b )
+)
+
+game (
+	name "BK Tools - GraPrint D100 (1992)(Screw)"
+	description "BK Tools - GraPrint D100 (1992)(Screw)"
+	rom ( name "D100.drv" size 178 crc 369cfac1 md5 786d2b7dd0e3137ba1f9ca4520011d1c )
+	rom ( name "D100drv.asm" size 1461 crc 59a18c20 md5 0f1e997aa588c7ec42e0dddc2369329d )
+	rom ( name "Grafd100.v1" size 9856 crc 5772d0e4 md5 c14ad90a90d2bd494a8127da30bc8587 )
+)
+
+game (
+	name "Backup System v1.1 (1992)(Screw)"
+	description "Backup System v1.1 (1992)(Screw)"
+	rom ( name "Backup.doc" size 8199 crc 48042f6b md5 4cd0394286c98de1c7134fefbfa3c462 )
+	rom ( name "Backup.rek" size 21584 crc 1e6ed0b5 md5 e3a9b383643f49afe73bef7f3cdb5e92 )
+)
+
+game (
+	name "Backup System v5.0 (1994)(Screw)[Backup]"
+	description "Backup System v5.0 (1994)(Screw)[Backup]"
+	rom ( name "Backup System v5.0 (1994)(Screw)[Backup].v50" size 5312 crc 8ca07279 md5 558804ac303ad408bb73083c02d48b25 )
+)
+
+game (
+	name "File DezASM (1993)(Screw)[Fdezasm]"
+	description "File DezASM (1993)(Screw)[Fdezasm]"
+	rom ( name "File DezASM (1993)(Screw)[Fdezasm].v0" size 2344 crc c2ba75e4 md5 0e750fa89708c049fb9d4295faa61e22 )
+)
+
+game (
+	name "Fokal to Text Converter v1.0 (1994)(Screw)[Foktxt]"
+	description "Fokal to Text Converter v1.0 (1994)(Screw)[Foktxt]"
+	rom ( name "Fokal to Text Converter v1.0 (1994)(Screw)[Foktxt].v01" size 908 crc 52e93194 md5 c3394d8435013381adc911209124c386 )
+)
+
+game (
+	name "Kode Information (199x)(Screw)[Kodinf]"
+	description "Kode Information (199x)(Screw)[Kodinf]"
+	rom ( name "Kode Information (199x)(Screw)[Kodinf].v0" size 2624 crc 9c1e2764 md5 47252fb85866cdb4a4b4a9543236d268 )
+)
+
+game (
+	name "Link Post Processor (1992)(Screw)"
+	description "Link Post Processor (1992)(Screw)"
+	rom ( name "Scr-link.asm" size 9705 crc 14fe1d5f md5 b2c97415e8e77ca3ae4696794ce049f2 )
+	rom ( name "Scr-link.txt" size 15776 crc 91f22f2a md5 1580de34deef652d6a61e3129c28d314 )
+)
+
+game (
+	name "Magician (1994)(IMS Corp - Magic Bytes)"
+	description "Magician (1994)(IMS Corp - Magic Bytes)"
+	rom ( name "Magician (1994)(IMS Corp - Magic Bytes).img" size 409600 crc 56c39880 md5 43b0353693a2e4fb01f9b901be282d23 )
+)
+
+game (
+	name "Magician 2 (1994)(IMS Corp - Magic Bytes)"
+	description "Magician 2 (1994)(IMS Corp - Magic Bytes)"
+	rom ( name "Magician 2 (1994)(IMS Corp - Magic Bytes).img" size 778240 crc e2d2228b md5 9a0a558bfce730428c1718c0fe0a2543 )
+)
+
+game (
+	name "Music Decomp v1.0 (1994)(Screw)"
+	description "Music Decomp v1.0 (1994)(Screw)"
+	rom ( name "Klawesin.0" size 7645 crc 39ae7c78 md5 27daedefd1723f017cb1d71d2bebdfa0 )
+	rom ( name "Klawesin.not" size 1662 crc 42606d13 md5 5e2c8c280fdcfc62c331a027462e4db2 )
+	rom ( name "Kldec.asm" size 8661 crc 93b54eae md5 fcbb5f1575cc1523062c181c93f1851e )
+	rom ( name "Kldecomp.v1" size 1728 crc 205dc2bb md5 9fa357e75da52828f5119a706588d5a7 )
+)
+
+game (
+	name "Office (1993)(Screw)"
+	description "Office (1993)(Screw)"
+	rom ( name "Ofis6312.40" size 8153 crc ddbfbea5 md5 fcc0234196ca4bb3c9f8f495c3048871 )
+	rom ( name "Ofis6312.80" size 10357 crc a2857918 md5 1c62c2cadc3b6c7d865a72867402ef6b )
+	rom ( name "Ofis6312.doc" size 5256 crc d17196b5 md5 23d21d76402bbd02b39e9ffa46d256a0 )
+	rom ( name "Sym_ofis.tst" size 562 crc 16b2fc54 md5 4adbcd9a952482e3e8888b3829ee0da0 )
+)
+
+game (
+	name "Only Move v1.0 (1996)(Golden Fox & DEPsoft)"
+	description "Only Move v1.0 (1996)(Golden Fox & DEPsoft)"
+	rom ( name "Only Move v1.0 (1996)(Golden Fox & DEPsoft).els" size 295424 crc ab73096d md5 2fa60c1529e1181ff9b9917c84ef67ee )
+)
+
+game (
+	name "Only Move v1.0 (1996)(Golden Fox & DEPsoft)[a]"
+	description "Only Move v1.0 (1996)(Golden Fox & DEPsoft)[a]"
+	rom ( name "Only Move v1.0 (1996)(Golden Fox & DEPsoft)[a].img" size 819200 crc 36bad1a6 md5 a5c8d988e2b4fedc49261d3a0dad39b8 )
+)
+
+game (
+	name "Samara (1996)(-)(Disk 1 of 2)"
+	description "Samara (1996)(-)(Disk 1 of 2)"
+	rom ( name "Samara (1996)(-)(Disk 1 of 2).img" size 819200 crc b4a3c5b5 md5 facd2ba3063b3111f4d4074040fbf7d0 )
+)
+
+game (
+	name "Samara (1996)(-)(Disk 2 of 2)"
+	description "Samara (1996)(-)(Disk 2 of 2)"
+	rom ( name "Samara (1996)(-)(Disk 2 of 2).img" size 819200 crc 9279d90a md5 f7db8ea680eb9341fdc44060ac97ed48 )
+)
+
+game (
+	name "Superhelp (1992)(Screw)"
+	description "Superhelp (1992)(Screw)"
+	rom ( name "Helpdemo.bas" size 2122 crc d2f94a8c md5 fb36b988f1efb1cf8acc5555bd5b98a1 )
+	rom ( name "SSdemo.cod" size 1904 crc f31e5b6f md5 09f5bd79a2c6de9eaa0bfd2afa037487 )
+	rom ( name "SShelp.asm" size 8044 crc 4e6fed3a md5 ff00abfda69eb9166fe0fb041cc05019 )
+	rom ( name "SShelp.bin" size 794 crc f21efb6e md5 555f9e55a2e9db7011e53137a2847de6 )
+	rom ( name "SShelp.exe" size 962 crc 7a45cb07 md5 eeddd7ab36221efb4b97d406de8f5304 )
+	rom ( name "SShelp.kod" size 3528 crc b5a43fbf md5 c6ad6dd4bdd8adc0518088d91b22d55f )
+	rom ( name "SShlpexe.asm" size 7385 crc 0291b7de md5 1296b9ecd9785d6643f299f0ecba3686 )
+)
+
+game (
+	name "UnPaint (199x)(Screw)[Unpaint]"
+	description "UnPaint (199x)(Screw)[Unpaint]"
+	rom ( name "UnPaint (199x)(Screw)[Unpaint].v2" size 1088 crc 3bdfde61 md5 16cc686ff6c71655b1c369e1cb35cb6d )
+)
+
+game (
+	name "ZZZ-UNK-DEBU&ASM (1990)(-)"
+	description "ZZZ-UNK-DEBU&ASM (1990)(-)"
+	rom ( name "Debu10" size 4088 crc f22803e0 md5 9d5b7ab5a5859005cff8fea1b058e2b8 )
+	rom ( name "M18.k" size 5628 crc 5a9c5253 md5 9fc3e5521dc8a423691c92288493921a )
+	rom ( name "M18doc" size 12718 crc 8a150c86 md5 2ca2bc4b912f499240f8ac1a00417524 )
+	rom ( name "M18doc2" size 9234 crc 4a7ce9b1 md5 ebb9d350fcbb9837bf954116724f08e9 )
+	rom ( name "Otldoc" size 11096 crc cf15c51b md5 e074c188c08d49df9b9f451a40c23602 )
+)
+
+game (
+	name "ZZZ-UNK-EXIST (19xx)(-)("
+	description "ZZZ-UNK-EXIST (19xx)(-)("
+	rom ( name "Exist.vxt" size 5185 crc e4ad60bd md5 5f50f8f3eacf24d4d2fd7f581b16122f )
+	rom ( name "Probexis.asm" size 2432 crc 3a9aa2fc md5 5dba5effab75f11dd09fe13aef73d6cd )
+	rom ( name "Probexis.exe" size 310 crc 6a60f9f8 md5 1d73cd17392f590f492247b5d35bc8d6 )
+)

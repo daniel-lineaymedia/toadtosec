@@ -1,0 +1,590 @@
+clrmamepro (
+	name "Commodore C64 - Games - [G64]"
+	description "Commodore C64 - Games - [G64] (TOSEC-v2012-09-22)"
+	category "Commodore C64 - Games - [G64]"
+	version 2012-09-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side A)"
+	description "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side A)"
+	rom ( name "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side A).G64" size 333744 crc d5b7a89c md5 3b3fae962949767cfe2b1dd4dc0f9b09 sha1 c2921c4e823e5f8690c49845be009971574c6c81 )
+)
+
+game (
+	name "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side B)"
+	description "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side B)"
+	rom ( name "AGCK - Arcade Game Construction Kit (1988)(Broderbund)(Side B).g64" size 333744 crc fbcc5e1e md5 57b3e15b7cd9ac3c6a0ee6af99aaf32d sha1 b8bc32130aa1b3b9604ce246eb8b656fa8904462 )
+)
+
+game (
+	name "Amazer - Science (1982)(AEC)"
+	description "Amazer - Science (1982)(AEC)"
+	rom ( name "Amazer - Science (1982)(AEC).G64" size 333744 crc 1d196aa1 md5 332cdcfbac996948c5fa328be981e809 sha1 70981291bc1c7d2da26daf10c6e729a0ada103aa )
+)
+
+game (
+	name "Arcademic Skillbuilder - Meteor Multiplication (1983)(Developmental Learning Materials)"
+	description "Arcademic Skillbuilder - Meteor Multiplication (1983)(Developmental Learning Materials)"
+	rom ( name "Arcademic Skillbuilder - Meteor Multiplication (1983)(Developmental Learning Materials).g64" size 333744 crc ce08b419 md5 9259091f587b40dd41b19c45370a570a sha1 0ac2526db902db72f1a2ba3586acb9c823bc6ca6 )
+)
+
+game (
+	name "Atomic Robo-Kid (1990)(Activision)[cr Action]"
+	description "Atomic Robo-Kid (1990)(Activision)[cr Action]"
+	rom ( name "Atomic Robo-Kid (1990)(Activision)[cr Action].g64" size 278234 crc b5145631 md5 049a3de991dc6683a8effa6f06197501 sha1 a278b00454bdba9dfa6541fcccc32ad7dcf149c4 )
+)
+
+game (
+	name "Atomic Robo-Kid (1990)(Activision)[cr Censor][t3 Censor]"
+	description "Atomic Robo-Kid (1990)(Activision)[cr Censor][t3 Censor]"
+	rom ( name "Atomic Robo-Kid (1990)(Activision)[cr Censor][t3 Censor].g64" size 278234 crc 1b2555a4 md5 656ef5e5f3ff53576e2fddfee02c80f3 sha1 0c3535f1d4d06a7ceb307d36a4bd99afe8906620 )
+)
+
+game (
+	name "Atomic Robo-Kid (1990)(Activision)[cr Holocaust]"
+	description "Atomic Robo-Kid (1990)(Activision)[cr Holocaust]"
+	rom ( name "Atomic Robo-Kid (1990)(Activision)[cr Holocaust].g64" size 317884 crc 4abb074f md5 1df251f02363ad6f4a11321c8055314e sha1 95da5d4ad72c8e08980bfe4667716b24cf269bc2 )
+)
+
+game (
+	name "Atomic Robo-Kid (1990)(Activision)[cr MKS][t3 MKS]"
+	description "Atomic Robo-Kid (1990)(Activision)[cr MKS][t3 MKS]"
+	rom ( name "Atomic Robo-Kid (1990)(Activision)[cr MKS][t3 MKS].g64" size 317884 crc de644215 md5 67073211bae40cc7078af67d354e6f86 sha1 2827e59e46256077c5bfe840e5bc83e3ce0e438e )
+)
+
+game (
+	name "Atomic Robo-Kid (1990)(Activision)[cr Xray][t Xray]"
+	description "Atomic Robo-Kid (1990)(Activision)[cr Xray][t Xray]"
+	rom ( name "Atomic Robo-Kid (1990)(Activision)[cr Xray][t Xray].g64" size 278234 crc 9cde919a md5 fc9ad20d7a83c567c6a787db489b1689 sha1 f80dff9663a8fb834472eebdb0e2e5252dc96e6d )
+)
+
+game (
+	name "Cauldron (1985)(Palace Software)"
+	description "Cauldron (1985)(Palace Software)"
+	rom ( name "Cauldron (1985)(Palace Software).g64" size 333744 crc 87301f6d md5 4bc9a9637a06375b4b25d4ef8ec78585 sha1 89ccf57c8228065b75e4dae45c3e4ca86b749625 )
+)
+
+game (
+	name "Chemins de Louis-Etienne, Les (1984)(Didatek)"
+	description "Chemins de Louis-Etienne, Les (1984)(Didatek)"
+	rom ( name "Chemins de Louis-Etienne, Les (1984)(Didatek).g64" size 333744 crc 24d95582 md5 9a656793996dd714a96354c04cc09b1e sha1 a29c1736d54915d38ac3bcd537e7d99c716f2713 )
+)
+
+game (
+	name "Cosmic Relief (1988)(Datasoft)(Side A)"
+	description "Cosmic Relief (1988)(Datasoft)(Side A)"
+	rom ( name "Cosmic Relief (1988)(Datasoft)(Side A).g64" size 333744 crc eeb0fcc4 md5 065b118e657b70bfa7126955aa508af6 sha1 f8f1c24c7372dd82521f73d3382a804b2ddb33d9 )
+)
+
+game (
+	name "Cosmic Relief (1988)(Datasoft)(Side B)"
+	description "Cosmic Relief (1988)(Datasoft)(Side B)"
+	rom ( name "Cosmic Relief (1988)(Datasoft)(Side B).g64" size 333744 crc 47b9f868 md5 6505e187225c9e23cd421215108dd47c sha1 c7746a1e940c977d4043479230fd0f7f77f36138 )
+)
+
+game (
+	name "Crystal Caverns (1984)(Hayden Software)"
+	description "Crystal Caverns (1984)(Hayden Software)"
+	rom ( name "Crystal Caverns (1984)(Hayden Software).g64" size 333744 crc 11205761 md5 8b73e36da99faeeafa07a5c484443dae sha1 c48efe9dd713dd857febc6ce0418862f94f02c53 )
+)
+
+game (
+	name "Dawn Treader (1984)(Word Publishing, Inc.)"
+	description "Dawn Treader (1984)(Word Publishing, Inc.)"
+	rom ( name "Dawn Treader (1984)(Word Publishing, Inc.).g64" size 333744 crc b5fcc0ba md5 5232cdd1fef6edc1f097b41a0921a6a6 sha1 32683f2d5b7266051b6ca1b60cbe03d38b699327 )
+)
+
+game (
+	name "Delta Patrol (1987)(Electronic Arts+Thalamus)"
+	description "Delta Patrol (1987)(Electronic Arts+Thalamus)"
+	rom ( name "Delta Patrol (1987)(Electronic Arts+Thalamus).g64" size 333744 crc 030c5fe1 md5 5e43279677342edeefdfa821b683aaa0 sha1 31a6979eca1c81560c3088aeb5acbd44c754fc8a )
+)
+
+game (
+	name "Demon Stalkers - The Raid on Doomfane (1987)(Electronic Arts)(Disk 1 of 2 Side B)"
+	description "Demon Stalkers - The Raid on Doomfane (1987)(Electronic Arts)(Disk 1 of 2 Side B)"
+	rom ( name "Demon Stalkers - The Raid on Doomfane (1987)(Electronic Arts)(Disk 1 of 2 Side B).g64" size 333744 crc 5e6884f5 md5 59020caf4b7856d2bbc2ae16d6168037 sha1 2b03c63f530a32091e1150f5acaebd96a8fedd01 )
+)
+
+game (
+	name "Devon Aire in the Hidden Diamond Caper (1988)(Epyx)"
+	description "Devon Aire in the Hidden Diamond Caper (1988)(Epyx)"
+	rom ( name "Devon Aire in the Hidden Diamond Caper (1988)(Epyx).g64" size 333744 crc 909653fe md5 db96574ba923bcc884dcc2239bd48a49 sha1 4801fbef0d717a70d62e3f8d599e03ac04ac7f7b )
+)
+
+game (
+	name "Dragon Breed (1990)(Activision)(Side A)[cr Force]"
+	description "Dragon Breed (1990)(Activision)(Side A)[cr Force]"
+	rom ( name "Dragon Breed (1990)(Activision)(Side A)[cr Force].g64" size 278234 crc d87fa401 md5 eccb29144cbcca2a6c70add3bf18d200 sha1 9e6df61cdd5506cb9c47c32c7616beb3d919a3bd )
+)
+
+game (
+	name "Dragon Breed (1990)(Activision)(Side A)[cr Manowar]"
+	description "Dragon Breed (1990)(Activision)(Side A)[cr Manowar]"
+	rom ( name "Dragon Breed (1990)(Activision)(Side A)[cr Manowar].g64" size 278234 crc 689450f3 md5 4c3c01949fea1ab9fdfb4e3e94458bc1 sha1 7356f29767e7d96cd6afaccd7876cb74a20dba4a )
+)
+
+game (
+	name "Dragon Breed (1990)(Activision)(Side B)[cr Force]"
+	description "Dragon Breed (1990)(Activision)(Side B)[cr Force]"
+	rom ( name "Dragon Breed (1990)(Activision)(Side B)[cr Force].g64" size 278234 crc 573c950c md5 3afa4858e44a707ecadb847f3ec3f9ec sha1 30395d1bf2bb6bf28ffa59389da2735d7c4a7635 )
+)
+
+game (
+	name "Dragon Breed (1990)(Activision)(Side B)[cr Manowar]"
+	description "Dragon Breed (1990)(Activision)(Side B)[cr Manowar]"
+	rom ( name "Dragon Breed (1990)(Activision)(Side B)[cr Manowar].g64" size 278234 crc a937990f md5 a46bafa9cf422ce6d8a5e802c35c2d23 sha1 f3be216f18599a6dfaad6c67cb06bd7d3efb11cd )
+)
+
+game (
+	name "F-15 Strike Eagle (1986)(Microprose Software)[cr Grant Irani]"
+	description "F-15 Strike Eagle (1986)(Microprose Software)[cr Grant Irani]"
+	rom ( name "F-15 Strike Eagle (1986)(Microprose Software)[cr Grant Irani].g64" size 333744 crc b2b79c71 md5 23a2f37d5daad71dc7ec5a94ec09b07f sha1 ac3233935518e056cfc93ffd47449e8528411a61 )
+)
+
+game (
+	name "F-15 Strike Eagle - International Edition (1984)(MicroProse Software)"
+	description "F-15 Strike Eagle - International Edition (1984)(MicroProse Software)"
+	rom ( name "F-15 Strike Eagle - International Edition (1984)(MicroProse Software).g64" size 666804 crc 9692e5ba md5 285f054b1bf97f4d0f6c923f0005c2d8 sha1 5ec3a328db647a5ec4ac7b2561083c2f79e42954 )
+)
+
+game (
+	name "Fighter Bomber (1989)(Activision)(Side A)[cr Legend]"
+	description "Fighter Bomber (1989)(Activision)(Side A)[cr Legend]"
+	rom ( name "Fighter Bomber (1989)(Activision)(Side A)[cr Legend].g64" size 278234 crc bebf4fcc md5 ec433e456411de3f56035e3d25c15563 sha1 0e867990cba40009adcbdd0280f10edbae7d2e1d )
+)
+
+game (
+	name "Fighter Bomber (1989)(Activision)(Side A)[cr Triangle3532]"
+	description "Fighter Bomber (1989)(Activision)(Side A)[cr Triangle3532]"
+	rom ( name "Fighter Bomber (1989)(Activision)(Side A)[cr Triangle3532].g64" size 278234 crc b73c420f md5 90591569a9237c8b9635b89828cc6064 sha1 0233a1394507c0a1dda2462ee3b342e99e903f12 )
+)
+
+game (
+	name "Fighter Bomber (1989)(Activision)(Side B)[cr Legend]"
+	description "Fighter Bomber (1989)(Activision)(Side B)[cr Legend]"
+	rom ( name "Fighter Bomber (1989)(Activision)(Side B)[cr Legend].g64" size 278234 crc 89e1d359 md5 8a1332521c85790082b9b677e96a79fc sha1 55eb6bf87c93e2b59f28baaf091b8e051906c9c9 )
+)
+
+game (
+	name "Fighter Bomber (1989)(Activision)(Side B)[cr Triangle3532]"
+	description "Fighter Bomber (1989)(Activision)(Side B)[cr Triangle3532]"
+	rom ( name "Fighter Bomber (1989)(Activision)(Side B)[cr Triangle3532].g64" size 278234 crc db1b9ceb md5 9a73e7cbeaf88badf932d8f2710f3858 sha1 6b38e218ac624053852bd65c9b9a6d7f01c0c6af )
+)
+
+game (
+	name "Final Assault (1988)(Epyx)[cr Lazer]"
+	description "Final Assault (1988)(Epyx)[cr Lazer]"
+	rom ( name "Final Assault (1988)(Epyx)[cr Lazer].g64" size 333744 crc 7084d402 md5 75f881918db79928158300e65b16cbf6 sha1 56e6c196c81105c23c16e3c8e3d09c1d051f3a89 )
+)
+
+game (
+	name "Gauntlet (1986)(Mindscape, Inc.)"
+	description "Gauntlet (1986)(Mindscape, Inc.)"
+	rom ( name "Gauntlet (1986)(Mindscape, Inc.).g64" size 333744 crc 8cdbc588 md5 334a9b7e4d97a5c692f111f5ed09a738 sha1 5713c9adfadd304f1d6838c3d453eaeb5c6e3758 )
+)
+
+game (
+	name "Gemstone Healer (1986)(SSI)(Side B)"
+	description "Gemstone Healer (1986)(SSI)(Side B)"
+	rom ( name "Gemstone Healer (1986)(SSI)(Side B).g64" size 333744 crc b30881e2 md5 717f7a0ef261b33d5a0124f0fbd6e81c sha1 fde105cd1d809cd1f65239081529cbc4b5482221 )
+)
+
+game (
+	name "Grammar Examiner, The (1984)(DesignWare, Inc.)"
+	description "Grammar Examiner, The (1984)(DesignWare, Inc.)"
+	rom ( name "Grammar Examiner, The (1984)(DesignWare, Inc.).g64" size 333744 crc 39695f81 md5 0469c5ea3625e1c2c8a77d39c62963d9 sha1 ec0cb7aeb2a01ed8cc14d639ed8ff465de703098 )
+)
+
+game (
+	name "Hopp oder Top (1992)(PCSL Software)(de)(Disk 2 of 2 Side A)"
+	description "Hopp oder Top (1992)(PCSL Software)(de)(Disk 2 of 2 Side A)"
+	rom ( name "Hopp oder Top (1992)(PCSL Software)(de)(Disk 2 of 2 Side A).g64" size 333744 crc eb83631b md5 a931887d1df0d1e29b459086730d46cd sha1 5d130062d3ef2892e3fe11708d2f7711d56bb148 )
+)
+
+game (
+	name "Indiana Jones in the Lost Kingdom (1984)(Mindscape)"
+	description "Indiana Jones in the Lost Kingdom (1984)(Mindscape)"
+	rom ( name "Indiana Jones in the Lost Kingdom (1984)(Mindscape).g64" size 333744 crc 59efac04 md5 47679bc2e1a96bc5eb4ea4512d5b6c3d sha1 b0d56f4081de6e1592ff4e8220f977e3dfb8fce3 )
+)
+
+game (
+	name "Jet Combat Simulator (1985)(Epyx)"
+	description "Jet Combat Simulator (1985)(Epyx)"
+	rom ( name "Jet Combat Simulator (1985)(Epyx).g64" size 333744 crc b57f4603 md5 8b3feb4b9c1fa53e7176a13fa9d65dbe sha1 e6910944957837056bc83541ce42c66865811e97 )
+)
+
+game (
+	name "Lost Tomb (1984)(Datasoft)"
+	description "Lost Tomb (1984)(Datasoft)"
+	rom ( name "Lost Tomb (1984)(Datasoft).g64" size 333744 crc e6ef0baa md5 3dc6b33cbdcfc870b9e8edbc2bc80f63 sha1 d4ca98935e6f3f9541ec2dd12defd004a0d92786 )
+)
+
+game (
+	name "MasterType Training Ground (1984)(Scaraborough Systems, )"
+	description "MasterType Training Ground (1984)(Scaraborough Systems, )"
+	rom ( name "MasterType Training Ground (1984)(Scaraborough Systems, ).g64" size 333744 crc 350895ef md5 00393034c2b25a04c6be1b40b66d593a sha1 5b88fe153c42a3c4429e83fd4a69ca7201f78451 )
+)
+
+game (
+	name "Math Busters, The (1984)(Spinnaker Software)"
+	description "Math Busters, The (1984)(Spinnaker Software)"
+	rom ( name "Math Busters, The (1984)(Spinnaker Software).g64" size 333744 crc 30c8a140 md5 f19cd19529a711a6d16e2d1437fe2b3e sha1 b3fd265362849dd9c41fc01b87eb33127f80099a )
+)
+
+game (
+	name "Mercenary (1985)(Novagen Software)"
+	description "Mercenary (1985)(Novagen Software)"
+	rom ( name "Mercenary (1985)(Novagen Software).g64" size 333744 crc b47143bb md5 84b8be98a92b993e457c2a9028b19ad5 sha1 e14c1edbbd1c925215ee12f2ccd690eeca8eddee )
+)
+
+game (
+	name "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side A)"
+	description "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side A)"
+	rom ( name "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side A).G64" size 333744 crc 988e5177 md5 9e340ddcf980aec9ea8dea9e0a830764 sha1 1a6b3d2088e84e34f5625e4b6fa075a9ce445aee )
+)
+
+game (
+	name "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side B)"
+	description "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side B)"
+	rom ( name "Might and Magic - Book One Secret of the Inner Sanctum (1988)(New World Computing)(Side B).g64" size 333744 crc d355f467 md5 91b0cbb740acdff890946e2fe884fe54 sha1 4282d2279ad80a85061291ad41522114ed1d0b8b )
+)
+
+game (
+	name "Mindroll (1988)(Epyx)"
+	description "Mindroll (1988)(Epyx)"
+	rom ( name "Mindroll (1988)(Epyx).g64" size 333744 crc d81d8384 md5 5a433408619b5cdd5ae81c9182670493 sha1 4bde77a5758bd761ba39b2e3c97d84debd710061 )
+)
+
+game (
+	name "Modem Wars (1988)(Electronic Arts+Ozark Softscape)"
+	description "Modem Wars (1988)(Electronic Arts+Ozark Softscape)"
+	rom ( name "Modem Wars (1988)(Electronic Arts+Ozark Softscape).g64" size 333744 crc 89876af4 md5 7b7b01c3244c22ad8f77d89cb62bb7cf sha1 9d51e3e3f748dcebc9abb607b6e1a369e78e4e64 )
+)
+
+game (
+	name "Mord an Bord (1986)(Ariolasoft)(Side A)"
+	description "Mord an Bord (1986)(Ariolasoft)(Side A)"
+	rom ( name "Mord an Bord (1986)(Ariolasoft)(Side A).g64" size 333744 crc 0d0406b9 md5 6cc8ff8e27d51da4363c88e16c4412a4 sha1 5388ff1b10102972b13a9ae71eeeac83f0ffb328 )
+)
+
+game (
+	name "Night Mission Pinball (1982)(Sublogic)"
+	description "Night Mission Pinball (1982)(Sublogic)"
+	rom ( name "Night Mission Pinball (1982)(Sublogic).g64" size 333744 crc c0b151f6 md5 d1809bb24d10dc78121bb4ef8d9fe4dd sha1 f94af044db8a4ee707f6ecde9477c6ca617e1d4f )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 1 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 1 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 1 of 6).g64" size 333744 crc 3105390b md5 8539f454261190965fff8f9235c51958 sha1 b99ceb8530255207c5fa342b73782876d8b8bae5 )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 2 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 2 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 2 of 6).g64" size 333744 crc 3479377f md5 d1d8a9570b7477b6a8dbf7abad283bb6 sha1 8c7df33ccb38abca49f87cc566ce562ea9b794a0 )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 3 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 3 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 3 of 6).g64" size 333744 crc ecfc5ad4 md5 65514f2b0ce8f56e14295974a998557e sha1 806b9e7414ccb2b62cf536fd4e3359312d1c0071 )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 4 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 4 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 4 of 6).g64" size 333744 crc 70684d74 md5 76beb944f80bb12f79088e68db3efb76 sha1 8f3920a1f5778a9e4ab8aac7c6ce9df43206ee27 )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 5 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 5 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 5 of 6).g64" size 333744 crc 1f07933a md5 8e782daff8f9c8eb1a40bb3f2c05a309 sha1 7d9949aeba942c6d5a5ad4f8f8bbce4aafd527d1 )
+)
+
+game (
+	name "Nippon (1988)(Markt & Technik)(Disk 6 of 6)"
+	description "Nippon (1988)(Markt & Technik)(Disk 6 of 6)"
+	rom ( name "Nippon (1988)(Markt & Technik)(Disk 6 of 6).g64" size 333744 crc 02f92328 md5 ed75d1f402212f04222884bdf6b88a2e sha1 2f7a522d0419e957117cbfd1c977950b8a021e2e )
+)
+
+game (
+	name "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side A)"
+	description "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side A)"
+	rom ( name "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side A).g64" size 333744 crc 81ef2bca md5 7cb2cd713fea2e4cdfb6e8698e011f4f sha1 3de6b3f644323c2d7594879ab1335f6a02dd8ef8 )
+)
+
+game (
+	name "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side B)"
+	description "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side B)"
+	rom ( name "Paul Whitehead Teaches Chess (1985)(Ariolasoft)(de)(Side B).g64" size 333744 crc 950ee520 md5 c19d765e84cab257755530d55adc38f1 sha1 95d311f1ff5384ca01a5dd879921c13934e31305 )
+)
+
+game (
+	name "Play Bridge with Sheinwold (1985)(Great Game Products+Interactive Game Products)"
+	description "Play Bridge with Sheinwold (1985)(Great Game Products+Interactive Game Products)"
+	rom ( name "Play Bridge with Sheinwold (1985)(Great Game Products+Interactive Game Products).g64" size 333744 crc 5173f26a md5 62e4273fc6652f11035a953002b7ad67 sha1 aace1ee9bddd1b5571cbf6edf388a5be37440ff5 )
+)
+
+game (
+	name "Questron (1984)(SSI)(Side A)"
+	description "Questron (1984)(SSI)(Side A)"
+	rom ( name "Questron (1984)(SSI)(Side A).g64" size 333744 crc 9ed72bf1 md5 2fe55355fb91f2c642099994c2ba3ac3 sha1 b74f20ab58457313dc1ea511ebe9e72b0c3c878a )
+)
+
+game (
+	name "Questron (1984)(SSI)(Side B)"
+	description "Questron (1984)(SSI)(Side B)"
+	rom ( name "Questron (1984)(SSI)(Side B).g64" size 333744 crc 0b9ab657 md5 8c99f52f0acf07f3c5d384c53a262f77 sha1 077e65892a4ee6234019dc3d02af9d9306ef7f1a )
+)
+
+game (
+	name "Reader Rabbit and the Fabulous Word Factory (1984)(The Learning Company)"
+	description "Reader Rabbit and the Fabulous Word Factory (1984)(The Learning Company)"
+	rom ( name "Reader Rabbit and the Fabulous Word Factory (1984)(The Learning Company).g64" size 333744 crc 8ab0b808 md5 88340e70331f95c9df3912ea1b2ef2af sha1 95fbbf063c90ca39b87641e83ad01b978acf80bc )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A)"
+	description "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A)"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A).g64" size 333744 crc 746f252b md5 f07deccf13e217e0586c9309ac37ae8f sha1 eed5975835d0bf6fc08b872b701f0f4aaec4a625 )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A)[BOOT]"
+	description "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A)[BOOT]"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side A)[BOOT].g64" size 333744 crc f7508e85 md5 8aa31e55ddb40705213b37c79d32db7f sha1 257773148503ea208cd6f6bce3194310974cb512 )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B)"
+	description "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B)"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B).g64" size 333744 crc 0ad26b79 md5 55f9f09e1e974e4b93e2d3019028ac11 sha1 d41a206d76f6f2c98fe812ce47a33c05160c35ce )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B)[ADV_1]"
+	description "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B)[ADV_1]"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 1 of 2 Side B)[ADV_1].g64" size 333744 crc 705b6738 md5 a8fd8fec0b25b656992e8f71f25220ff sha1 a0010daec7e17b5eeacbe0e65196b15aa5100d8f )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A)"
+	description "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A)"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A).g64" size 333744 crc 27dad799 md5 74cc70b8908a4f25913884ebf3f393e9 sha1 79ccc4c8a9db590b536129da921bb0db1b58ed77 )
+)
+
+game (
+	name "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A)[ADV_2]"
+	description "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A)[ADV_2]"
+	rom ( name "Realms of Darkness (1987)(SSI)(Disk 2 of 2 Side A)[ADV_2].g64" size 333744 crc f1b0beb2 md5 a0bbcb92453845d1eae7b71675e1c200 sha1 7606e7cf8ecf18507abdc1660501986d912a4f8c )
+)
+
+game (
+	name "Revenge of Defender (1989)(Epyx)(Side B)[cr NEC]"
+	description "Revenge of Defender (1989)(Epyx)(Side B)[cr NEC]"
+	rom ( name "Revenge of Defender (1989)(Epyx)(Side B)[cr NEC].g64" size 333744 crc 3ee7ecef md5 e6a57c8974fee20aa20be79d17daed14 sha1 aa292af551d0cdc079f14e5d7a9450e053a0585a )
+)
+
+game (
+	name "Revs (1986)(Firebird Software)"
+	description "Revs (1986)(Firebird Software)"
+	rom ( name "Revs (1986)(Firebird Software).g64" size 333744 crc 8992c940 md5 2d13a99e3e72059a8d79231232afede4 sha1 61eff1857a7c32e7f0687ff0fe2ff7402cb679c3 )
+)
+
+game (
+	name "Silent Service (1985)(Microprose Software)(it)[cr Pier 85]"
+	description "Silent Service (1985)(Microprose Software)(it)[cr Pier 85]"
+	rom ( name "Silent Service (1985)(Microprose Software)(it)[cr Pier 85].g64" size 333744 crc 2abf7b18 md5 2aa9f7a4345391259303e2d4c082de3d sha1 f0e625222f4f9d4ee0af44dc96d3e61046ad5c2d )
+)
+
+game (
+	name "Smash T.V. (1991)(Ocean Software)"
+	description "Smash T.V. (1991)(Ocean Software)"
+	rom ( name "Smash T.V. (1991)(Ocean Software).g64" size 333744 crc 5bf0f5e1 md5 96a5268d8ed9a5b97689df564c640955 sha1 282079090350b0da9555aaf280e7e715498144d0 )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side A)(Boot)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side A)(Boot)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side A)(Boot).g64" size 333744 crc fe5b65e7 md5 7471d9449e1676a507ad54ad0be35dfe sha1 4341922667cb2cff9bc157fb4c194839070bc4ad )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side B)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side B)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 1 of 4 Side B).g64" size 333744 crc 1a71f114 md5 6c2f02f4eb2361d96c799a56b3db035a sha1 8e4b281c60a3bef344fc8e2da821b06d276ad171 )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side A)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side A)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side A).g64" size 333744 crc 72166cd1 md5 5cff2fcd3057fd0970089850376fd6c5 sha1 dd167536d7bf8243e20234cd4ef5f9ad5fd835a0 )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side B)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side B)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 2 of 4 Side B).g64" size 333744 crc 83a7338c md5 94cc8e8b82eaa50088dfe3c59e7fdc4c sha1 f636773386fd3e1566f92e42b482532e35444da8 )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side A)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side A)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side A).g64" size 333744 crc 47311e5b md5 1ef2c1732694010561c7780e30d49f3a sha1 4709d3b241c98a33dc45d4ee0bb39555190f74be )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side B)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side B)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 3 of 4 Side B).g64" size 333744 crc eee5aa01 md5 a2fbc7e3a318dd8714db502aeca0f376 sha1 fa2078da4892bc54e83c9df0187dd52ba2d939f0 )
+)
+
+game (
+	name "Soul Crystal (1992)(Starbyte Software)(Disk 4 of 4 Side A)(Savedisk)"
+	description "Soul Crystal (1992)(Starbyte Software)(Disk 4 of 4 Side A)(Savedisk)"
+	rom ( name "Soul Crystal (1992)(Starbyte Software)(Disk 4 of 4 Side A)(Savedisk).g64" size 333744 crc cc3ca9a0 md5 2db6d673dc14e98ce7c784c0829eaacb sha1 ff1bfe7c0630343e91f4dd5be7192ba735d0f41d )
+)
+
+game (
+	name "Star Trekking - The Game (1986)(Ufland Software, Inc.)"
+	description "Star Trekking - The Game (1986)(Ufland Software, Inc.)"
+	rom ( name "Star Trekking - The Game (1986)(Ufland Software, Inc.).g64" size 333744 crc 90d12be8 md5 dbb3c93ff312e1492e68f94b327c1aed sha1 4736b71baa1acf1a6a4b5701b39612d1dd0daf62 )
+)
+
+game (
+	name "Stunt Track Racer (1989)(MicroProse Software+Microplay)"
+	description "Stunt Track Racer (1989)(MicroProse Software+Microplay)"
+	rom ( name "Stunt Track Racer (1989)(MicroProse Software+Microplay).g64" size 333744 crc bc3197e0 md5 96b58954d4d66378ad13e27637cde8fb sha1 58023f754278e2ffdb12550fa93ab3fa87bd0173 )
+)
+
+game (
+	name "Summer Games (1984)(Epyx)"
+	description "Summer Games (1984)(Epyx)"
+	rom ( name "Summer Games (1984)(Epyx).g64" size 333744 crc 380c2474 md5 ec82336a9585b4843a00d868d82fac4d sha1 8977ecae89bd81f31588c8f9088635b9846b6ba2 )
+)
+
+game (
+	name "Summer Games 2 (1985)(Epyx)(Disk 1 of 2)"
+	description "Summer Games 2 (1985)(Epyx)(Disk 1 of 2)"
+	rom ( name "Summer Games 2 (1985)(Epyx)(Disk 1 of 2).g64" size 333744 crc 8c17e5bd md5 e96932b4a58c3ffee01fdcaddc06d7c0 sha1 1ccc79eb3b305a9a14d6a77738bbed9cadec2930 )
+)
+
+game (
+	name "Summer Games 2 (1985)(Epyx)(Disk 2 of 2)"
+	description "Summer Games 2 (1985)(Epyx)(Disk 2 of 2)"
+	rom ( name "Summer Games 2 (1985)(Epyx)(Disk 2 of 2).g64" size 333744 crc 490cba25 md5 73ca505a815db337c69906499941c9bd sha1 4666450781e0ea2a67f7499b8fb76578e6d1ad7f )
+)
+
+game (
+	name "Summer Games 2 (1985)(Epyx)(Side A)"
+	description "Summer Games 2 (1985)(Epyx)(Side A)"
+	rom ( name "Summer Games 2 (1985)(Epyx)(Side A).g64" size 333744 crc 45db5fe9 md5 70bff1f3a4a2c49bb9e631ea1b9842a8 sha1 72b5cf046ffc121bea1da7cee3651c37f338f90b )
+)
+
+game (
+	name "Super Cycle (1986)(Epyx)"
+	description "Super Cycle (1986)(Epyx)"
+	rom ( name "Super Cycle (1986)(Epyx).g64" size 333744 crc d23fe284 md5 f6a15166fbb6af0fc12c8648d9ae8b4c sha1 347c599744ebbf2e6538f6b05fa24d48dbdf0bd2 )
+)
+
+game (
+	name "Tir Na Nog (1985)(Gargoyle Games)"
+	description "Tir Na Nog (1985)(Gargoyle Games)"
+	rom ( name "Tir Na Nog (1985)(Gargoyle Games).g64" size 309954 crc dea36681 md5 7205d508693207a6d27fa6df503e840c sha1 6b320dc49ec747614a4ea328142a3c1093263c93 )
+)
+
+game (
+	name "Tom Throop's Bridge Baron (1985)(Great Game Products+Interactive Game Products)"
+	description "Tom Throop's Bridge Baron (1985)(Great Game Products+Interactive Game Products)"
+	rom ( name "Tom Throop's Bridge Baron (1985)(Great Game Products+Interactive Game Products).g64" size 333744 crc 43c3589d md5 fa94d696174b930685c08c2e099168d7 sha1 e6ded79f81b8a72fd09824a3e61f2bb2ac574af8 )
+)
+
+game (
+	name "Tracer Sanction, The (1985)(Activision)(Side A)"
+	description "Tracer Sanction, The (1985)(Activision)(Side A)"
+	rom ( name "Tracer Sanction, The (1985)(Activision)(Side A).g64" size 333744 crc f22c5347 md5 a89c340b82388eac8c6c3ffb2298794c sha1 a6733256cd83c3dde75ec64a3ea906d6f4e96e42 )
+)
+
+game (
+	name "Tracer Sanction, The (1985)(Activision)(Side B)"
+	description "Tracer Sanction, The (1985)(Activision)(Side B)"
+	rom ( name "Tracer Sanction, The (1985)(Activision)(Side B).g64" size 333744 crc ec211c95 md5 48e16bf93fdf3f9bdd1dd1ccfcc38880 sha1 a1289b4044e3a30434ec55e2ec1f13908bc8751d )
+)
+
+game (
+	name "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side A)"
+	description "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side A)"
+	rom ( name "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side A).g64" size 317884 crc 1fdea8af md5 6e1ca3f8a1b4c5c494b15c18e9d26844 sha1 53d02d5d94aa5b427d231d043bc957f54158e2bf )
+)
+
+game (
+	name "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side B)"
+	description "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side B)"
+	rom ( name "Vandorlasok az Elveszett Bolcsesseg Foldjen (1998)(Preview)(Side B).g64" size 317884 crc 76947476 md5 f3b5635d939549466068d6d9d4e9a372 sha1 aaee3f535d050a7511c8eb21c3313ff6a9d63a60 )
+)
+
+game (
+	name "Way of the Exploding Fist, The (1985)(Melbourne House)[cr ESI]"
+	description "Way of the Exploding Fist, The (1985)(Melbourne House)[cr ESI]"
+	rom ( name "Way of the Exploding Fist, The (1985)(Melbourne House)[cr ESI].g64" size 333744 crc 7ec8ec55 md5 c7d6ab246eefa0f826c7e985e82e4d5a sha1 d0d3544c04d6208b05a110f7b79d5d25a5f874f3 )
+)
+
+game (
+	name "Way of the Exploding Fist, The (1985)(Melbourne House)[cr XCS]"
+	description "Way of the Exploding Fist, The (1985)(Melbourne House)[cr XCS]"
+	rom ( name "Way of the Exploding Fist, The (1985)(Melbourne House)[cr XCS].g64" size 333744 crc ae83ba07 md5 14a6a5c50a1f98f9d9ec2f16cb8d311c sha1 9be0deecb6296bad5af4a80a52b74d2b1f0315aa )
+)
+
+game (
+	name "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side A)"
+	description "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side A)"
+	rom ( name "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side A).g64" size 333744 crc 3b8c53ca md5 32762d8dc9e735ea0cc1d555261ae9af sha1 312aa0e27664bb945bfeaf7e0523d850d0cfec3b )
+)
+
+game (
+	name "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side B)"
+	description "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side B)"
+	rom ( name "Where in the USA is Carmen Sandiego (1987)(Broderbund)(Side B).g64" size 333744 crc c2f495cb md5 15e706cb310ee9a456c39adb8badf22c sha1 03d9726c7c6b9b8372d86a0f12c79bd6e650f2b1 )
+)
+
+game (
+	name "Winter Games (1985)(Epyx)(Disk 1 of 2)"
+	description "Winter Games (1985)(Epyx)(Disk 1 of 2)"
+	rom ( name "Winter Games (1985)(Epyx)(Disk 1 of 2).g64" size 333744 crc 9d23756f md5 65afa1fd26c02d129fe16ccc7ec710f5 sha1 e69e251e0fbf38510cbc29af36c83073ddf36030 )
+)
+
+game (
+	name "Winter Games (1985)(Epyx)(Disk 2 of 2)"
+	description "Winter Games (1985)(Epyx)(Disk 2 of 2)"
+	rom ( name "Winter Games (1985)(Epyx)(Disk 2 of 2).g64" size 333744 crc b2fc54b7 md5 66ebfd5919b864deef3910f5729e39de sha1 ab4411cd3f9594d5704f0badd00f74b450d43a37 )
+)
+
+game (
+	name "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side A)"
+	description "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side A)"
+	rom ( name "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side A).G64" size 333744 crc 27996dac md5 9a5b112176ad063666cfc0373ac7e3d9 sha1 f084fd407825b3709698a38188938c1588863828 )
+)
+
+game (
+	name "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side B)"
+	description "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side B)"
+	rom ( name "World's Greatest Baseball Game, The - Enhanced Version (1986)(Epyx)(Side B).g64" size 333744 crc 5facff13 md5 2f71dafaf1e6304690117e1876cd2d8f sha1 89fb7533c84abc18483f4d32a49b797199e052b4 )
+)
+
+game (
+	name "World's Greatest Football Game, The (1985)(Epyx)(Side A)"
+	description "World's Greatest Football Game, The (1985)(Epyx)(Side A)"
+	rom ( name "World's Greatest Football Game, The (1985)(Epyx)(Side A).g64" size 333744 crc 44871f8d md5 304c4aff36d57b2fdeb6f5b9be33ba0a sha1 b56eb1999cde0c5a9d38b3cdde21157d57c1887a )
+)
+
+game (
+	name "World's Greatest Football Game, The (1985)(Epyx)(Side B)"
+	description "World's Greatest Football Game, The (1985)(Epyx)(Side B)"
+	rom ( name "World's Greatest Football Game, The (1985)(Epyx)(Side B).g64" size 333744 crc c36d2d18 md5 ae7bbe3ceb1c50f3df8c79c09401bb1b sha1 f13559191ee81d1a079f8307693daae2689e3197 )
+)
+

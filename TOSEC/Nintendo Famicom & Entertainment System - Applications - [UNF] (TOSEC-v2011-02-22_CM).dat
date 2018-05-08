@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Nintendo Famicom & Entertainment System - Applications - [UNF]"
+	description "Nintendo Famicom & Entertainment System - Applications - [UNF] (TOSEC-v2011-02-22)"
+	category "Nintendo Famicom & Entertainment System - Applications - [UNF]"
+	version 2011-02-22
+	author "etabeta - Cassiel"
+)
+
+game (
+	name "Educational Computer 2000 (200x)(-)(RU)[p]"
+	description "Educational Computer 2000 (200x)(-)(RU)[p]"
+	rom ( name "Educational Computer 2000 (200x)(-)(RU)[p].unf" size 1048688 crc f5c55af3 md5 996c2aee9a4c57906dd2cd78cc296e4d sha1 52cb35b484bf0ecabc364461420a70f96a3b8806 )
+)
+
+game (
+	name "Turbo Checker (2005)(Quietust)(PD)"
+	description "Turbo Checker (2005)(Quietust)(PD)"
+	rom ( name "Turbo Checker (2005)(Quietust)(PD).unf" size 24676 crc b242e649 md5 8082eeeb72ff7910631f68b29f3997e6 sha1 8ff629337395d034258d317c051c0fd286616214 )
+)
+

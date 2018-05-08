@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Matsushita National JR 200 - Demos"
+	description "Matsushita National JR 200 - Demos (TOSEC-v2006-03-18)"
+	category "Matsushita National JR 200 - Demos"
+	version 2006-03-18
+	author "Grendel"
+)
+
+game (
+	name "JR-200 Demo Program (1983)(Panasonic)"
+	description "JR-200 Demo Program (1983)(Panasonic)"
+	rom ( name "JR-200 Demo Program (1983)(Panasonic).cjr" size 30498 crc 138d9d47 md5 62cd191db390a78b6d522e88245ef6da )
+)

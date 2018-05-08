@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Commodore MAX Machine & VIC10 - Games"
+	description "Commodore MAX Machine & VIC10 - Games (TOSEC-v2011-09-24)"
+	category "Commodore MAX Machine & VIC10 - Games"
+	version 2011-09-24
+	author "DesertWolf - Cassiel"
+)
+
+game (
+	name "Clowns (1982)(Commodore - Midway)"
+	description "Clowns (1982)(Commodore - Midway)"
+	rom ( name "Clowns (1982)(Commodore - Midway).e0" size 8192 crc 85aa080b md5 126dac5d98bea5f2a388eaf97fa842d0 sha1 ffebfc19263dc50d3a808135dbe88567617af6b8 )
+)
+
+game (
+	name "Omega Race (1982)(Midway)"
+	description "Omega Race (1982)(Midway)"
+	rom ( name "Omega Race (1982)(Midway).e0" size 8192 crc eade0831 md5 0abc41c7bfedf0902dbb58c415b1311f sha1 74576289dce21945735ce1f15368c6fe0e61a844 )
+)
+
+game (
+	name "Radar Rat Race (1982)(Commodore)"
+	description "Radar Rat Race (1982)(Commodore)"
+	rom ( name "Radar Rat Race (1982)(Commodore).e0" size 8192 crc 1f7291f5 md5 ce883412698e44565a998dc984433126 sha1 409d70bc29134494c44d03dde47357a265089d1a )
+)
+

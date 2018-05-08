@@ -1,0 +1,276 @@
+clrmamepro (
+	name "Tandy Radio Shack TRS-80 Color Computer - Magazines"
+	description "Tandy Radio Shack TRS-80 Color Computer - Magazines (TOSEC-v2009-09-05)"
+	category "Tandy Radio Shack TRS-80 Color Computer - Magazines"
+	version 2009-09-05
+	author "Ira"
+)
+
+game (
+	name "CoCo Registry Issue 1 (19xx)(Rick's Computer Enterprise)[DSK]"
+	description "CoCo Registry Issue 1 (19xx)(Rick's Computer Enterprise)[DSK]"
+	rom ( name "CR-First.tif" size 162182 crc 57faa524 md5 e42b44a8779b01c5e79c30f8d4779806 )
+	rom ( name "CoCoR1A.DSK" size 161280 crc 20622ccf md5 89fb31aedaf92ffc6961a3d98e63dcf1 )
+	rom ( name "CoCoR1B.DSK" size 161280 crc 4061f657 md5 a09304889d8bad1353e275e36735b8d2 )
+)
+
+game (
+	name "CoCo Registry Issue 2 (19xx)(Rick's Computer Enterprise)[DSK]"
+	description "CoCo Registry Issue 2 (19xx)(Rick's Computer Enterprise)[DSK]"
+	rom ( name "CR-Second.tif" size 178980 crc 5652d941 md5 2b440307e263f98f6847a881f8296bb5 )
+	rom ( name "CoCoR2A.DSK" size 184320 crc 2d95da47 md5 4dc1780d3bc29227f851f9eed01efb8f )
+	rom ( name "CoCoR2B.DSK" size 161280 crc 48eb96db md5 1598df8faf6702af64725e915f3e4a7b )
+)
+
+game (
+	name "CoCo Registry Issue 3 (19xx)(Rick's Computer Enterprise)[DSK]"
+	description "CoCo Registry Issue 3 (19xx)(Rick's Computer Enterprise)[DSK]"
+	rom ( name "CR-Third.tif" size 167086 crc 1cdaefce md5 ed566b6501686a6662b42e6a312e8cf7 )
+	rom ( name "CoCo Registry.txt" size 961 crc d65d409e md5 0cd1336cf68e9e233c33d94a1cc65df7 )
+	rom ( name "CoCoR3A.DSK" size 161280 crc e318364a md5 20cd7764b3003a2be30b27595d419ed9 )
+	rom ( name "CoCoR3B.DSK" size 161280 crc 2d1d627d md5 4d444fad94a210e13fed5acc05fef209 )
+	rom ( name "CoCoReg_Note.gif" size 172753 crc 9c44ccfc md5 e8e3ee153db732ac6d932f2200619c94 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine April (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine April (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "UPG0493.DSK" size 184320 crc 6f9e09c1 md5 2af9c10df887c33da91c63964ec00fa0 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine August (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine August (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "UPG0893.DSK" size 184320 crc 47fa792d md5 ce381a84922de6ec41af001c894f094e )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 14 (1992)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 14 (1992)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-14.DSK" size 184320 crc bdb2042c md5 d8d6ede6b53a6f4977d61e07f20fd962 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC14.tif" size 224908 crc 62c194d2 md5 6dd21e1fe24bece69cf5248e9fc57cb8 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 16 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 16 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-16.DSK" size 184320 crc d311f2f4 md5 7b4d281900ff09fcbd4b2dd979eb11c7 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC16.tif" size 224664 crc ca91738c md5 4183cce66aeebba37eb9f5fa050185d6 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 17 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 17 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-17.DSK" size 161280 crc 503badfe md5 a04f8b3b680df3bcadd3a69a975f6916 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC17.tif" size 226590 crc 271c7368 md5 6e84ef45a279f36484a08da62db63251 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 18 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 18 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-18.DSK" size 184320 crc 6f9e09c1 md5 2af9c10df887c33da91c63964ec00fa0 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC18.tif" size 226762 crc e5532249 md5 b25e30349c777c1556962d1bb6d0b238 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 19 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 19 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-19.1.DSK" size 184320 crc e9a7de1b md5 e961516063026ac649d173c9e48e668d )
+	rom ( name "MICC-19.2.DSK" size 161280 crc cfc0c399 md5 adbf815d013fe7dafcdad5d8db4bbd4c )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC19.tif" size 222788 crc e0ac895a md5 365688c64863c1a7c11f92f819962e66 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 20 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 20 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-20.DSK" size 184320 crc f8c9b28f md5 33f4bece7326f177a38aa70f176422f0 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC20.tif" size 229972 crc fe957dd7 md5 2b2c3ed5e86f2cbc0501bd3e2feb4996 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 21 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 21 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-21.DSK" size 184320 crc 357b6553 md5 08a259fcf5b90efbcc67e934fd4d33e4 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC21.tif" size 223398 crc 9d56bd2d md5 45ce8e57f65e87155b60eaa90cd18cf4 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 22 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 22 (1993)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-22.DSK" size 184320 crc 459e852b md5 9eff3d368b3dad10d53166be9a3f2a4e )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC22.tif" size 215906 crc f2ef81cc md5 9ebfe29ddb3bb9d7acf8bc6a3a22ab20 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 23 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 23 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-23.DSK" size 184320 crc 694227fe md5 6b754e6bbe222243e9eb7c7162290837 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC23.tif" size 224200 crc 4a3beb64 md5 e405fbe45c0bc0c0ce701eefe141c6c8 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 24 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 24 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-24.DSK" size 184320 crc 29f2beae md5 279245538f20a91c2c236af80e23e229 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC24.tif" size 224420 crc d4ca669c md5 12ed74c03f670bd092067e2f78a4f47f )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 25 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 25 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-25.1A.DSK" size 161280 crc 05708c8c md5 3598dcae1516019d56e4d760a7317b19 )
+	rom ( name "MICC-25.1B.DSK" size 161280 crc 9a94393d md5 fd344c083e8be1f31cc0b157ed3bdbe8 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC25.tif" size 235808 crc 8b2d3f92 md5 68f0a2c3dd47731859b43bd3fb7758ac )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 26 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 26 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-26.1.DSK" size 184320 crc 7241cd56 md5 99e98d6c4e6a12cedb2bf0b8752416cd )
+	rom ( name "MICC-26.2.DSK" size 161280 crc da74806c md5 b4431efca1d5036fa1051a2a4bdae091 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC26.tif" size 242056 crc a6cbc260 md5 ab0c2a9664f5c132c80feff0a2609bb6 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 27 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 27 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-27.DSK" size 184320 crc 05cfbf2b md5 efeccb2ad36f3e4ab44a8e7de657f74b )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC27.tif" size 238890 crc 737bafb4 md5 2c4f5fa4cc212e33965715c2b67418d5 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 28 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 28 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-28.DSK" size 184320 crc fc9b01b6 md5 1388728b3d83b18768bbefafb0abfbd8 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC28.tif" size 238934 crc 1aec0ed3 md5 59bdbd05975ebe8691acd56cf8ff1bc2 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 32 (1995)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 32 (1995)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-32A.DSK" size 161280 crc 69e13d17 md5 1e636c31646a049e32fae931f40d62ec )
+	rom ( name "MICC-32B.DSK" size 161280 crc 441317b9 md5 670d25798501a8143af225bc80f18145 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC32.tif" size 249808 crc 31806b5a md5 ee14a8d10b7579fb748f59d07e347461 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 33 (1995)(Mid Iowa & Country CoCo)[TIF]"
+	description "CoCo Upgrade National Disk Magazine Issue 33 (1995)(Mid Iowa & Country CoCo)[TIF]"
+	rom ( name "MICC-33.tif" size 389956 crc 3a15f8f7 md5 f7f797b0d2cc9818c762013dc43a9976 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 34 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 34 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-34A.DSK" size 161280 crc 0b2b35d2 md5 b5c90c0ecdc08621f3afa199be29e183 )
+	rom ( name "MICC-34B.DSK" size 161280 crc 9a4308da md5 155ba7b2df65b3ca99559be242272a2b )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC34.tif" size 239824 crc 3a74549a md5 89a22e661b66d319045e59dac46ec7e8 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 35 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 35 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-35A.DSK" size 161280 crc b7744b31 md5 e5dbfbe5266f97681afd842ec671a467 )
+	rom ( name "MICC-35B.DSK" size 161280 crc 59504bb2 md5 ac0fd342b6b0858cc938d556124caa35 )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC35.tif" size 240064 crc 56a5fc6c md5 b6b6177ac93bb90a86d44e3257b97572 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 36 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 36 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-36.1A.DSK" size 161280 crc 813250f6 md5 46002666589dc216ba33c83e5e76ca87 )
+	rom ( name "MICC-36.1B.DSK" size 161280 crc ec18c18c md5 20eded4b51bdf2526195207c841db38e )
+	rom ( name "MICC-36.2.DSK" size 161280 crc ec18c18c md5 20eded4b51bdf2526195207c841db38e )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC36.tif" size 230520 crc c9d45a85 md5 38c92d7ea186a65b6b5f952ca9f99517 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "CoCo Upgrade National Disk Magazine Issue 37 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	description "CoCo Upgrade National Disk Magazine Issue 37 (1994)(Mid Iowa & Country CoCo)[DSK]"
+	rom ( name "MICC Disk List.txt" size 2859 crc 53ef2a2b md5 e152e889ff2d94c1b23d7ad212921367 )
+	rom ( name "MICC-37.1A.DSK" size 161280 crc 5388c894 md5 cc1d94624a589f445978320a9c102b52 )
+	rom ( name "MICC-37.1B.DSK" size 161280 crc 2981f1e9 md5 ad9dce5ee83b77113ff08046db3f73e6 )
+	rom ( name "MICC-37.2A.DSK" size 161280 crc 45fa5fac md5 5a6aafd271320696c959dec15537922b )
+	rom ( name "MICC-37.2B.DSK" size 161280 crc 286c60fd md5 2a9e8e70185d63d7a4a31f8ee62d607e )
+	rom ( name "MICC-Envelope.tif" size 184654 crc 3a2235f0 md5 fe06c12b6949959a95ee2329de15768e )
+	rom ( name "MICC37.1.tif" size 239152 crc 54d9d51c md5 988f4bb8791571ae0c8092183d2702c5 )
+	rom ( name "MICC37.2.tif" size 31002 crc 4b5b5afd md5 daed4504c42198aca04885ed2f9e5096 )
+	rom ( name "MICC_Letter.pdf" size 143959 crc 861e3729 md5 bdaad857eed8cf6313bf7386cbe72272 )
+)
+
+game (
+	name "Nine-Times Disk Magazine (1990)(JWT Enterprises)[DSK]"
+	description "Nine-Times Disk Magazine (1990)(JWT Enterprises)[DSK]"
+	rom ( name "9TIM0191.DSK" size 184320 crc a4a743ed md5 e5ba1b1daa9709cb31b6b1e120ef961f )
+	rom ( name "9TIM0391.DSK" size 184320 crc 9dc7a2d3 md5 d72a6e14153940429cd915c562f97093 )
+	rom ( name "9TIM0591.DSK" size 184320 crc 6b727a5b md5 55c0c59beca2447045b9a1d03c0a3f99 )
+	rom ( name "9TIM0791.DSK" size 184320 crc 7bb9af61 md5 7fa941024e82783b65b35d9d71881feb )
+	rom ( name "9TIM0990.DSK" size 184320 crc faf1d114 md5 40484d8c40cca76a10796a92b0aee5e9 )
+	rom ( name "9TIM1190.DSK" size 184320 crc 1e73acc9 md5 891148ba886227082f2a1991d4f46946 )
+	rom ( name "Icon_" size 0 crc 00000000 md5 d41d8cd98f00b204e9800998ecf8427e )
+	rom ( name "NINETME1.os9" size 737280 crc 4e2fcd74 md5 4a4eff44d8a51f0ccd1f23618a091971 )
+	rom ( name "NINETME2.os9" size 737280 crc db65ab24 md5 e046d27faf0008af500345f95b841c8f )
+	rom ( name "NINETME3.os9" size 737280 crc f899b3c3 md5 0f4620d55bf604a189bb08f3c640d957 )
+	rom ( name "NINETME4.os9" size 737280 crc 5c24efb3 md5 206298e2bb71a4c5b049b0f514903db4 )
+	rom ( name "NINETME5.os9" size 737280 crc d5ce647f md5 c707b59fee8941c4bd7e2a59d2858aab )
+	rom ( name "NINETME6.os9" size 737280 crc 6eb8f6ba md5 5cc16ec58ab0b87a67db9f9d38b30629 )
+	rom ( name "NINETME7.os9" size 737280 crc bf7b830d md5 ad02d2c145c69ce797a4ac1545e80e61 )
+	rom ( name "NINETME8.os9" size 737280 crc 098ff621 md5 621d45b96b98e0e6667dec83229be642 )
+	rom ( name "NineTimesDoc.pdf" size 379745 crc d3601074 md5 f422e69b1ea7190c5369b3c08af2623a )
+	rom ( name "NineTimes_Issues.txt" size 823 crc 00c84803 md5 9206ea2bbd1a4c121d69f979da0336ff )
+)

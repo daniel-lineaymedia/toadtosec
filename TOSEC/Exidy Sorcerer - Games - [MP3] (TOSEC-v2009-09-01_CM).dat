@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Exidy Sorcerer - Games - [MP3]"
+	description "Exidy Sorcerer - Games - [MP3] (TOSEC-v2009-09-01)"
+	category "Exidy Sorcerer - Games - [MP3]"
+	version 2009-09-01
+	author "Cid"
+)
+
+game (
+	name "Chomp (1981)(W.S.King)"
+	description "Chomp (1981)(W.S.King)"
+	rom ( name "Chomp (1981)(W.S.King).mp3" size 755349 crc 20ef7022 md5 ed1a05a4e9fbdbc1970723706629fd9f )
+)
+
+game (
+	name "Eliza (19xx)(-)"
+	description "Eliza (19xx)(-)"
+	rom ( name "Eliza (19xx)(-).mp3" size 410332 crc e43b9b3c md5 1a93361eb50740063e0b391852e7166d )
+)
+
+game (
+	name "Galaxians (19xx)(-)"
+	description "Galaxians (19xx)(-)"
+	rom ( name "Galaxians (19xx)(-).mp3" size 523080 crc 3863ec86 md5 e42dbdea6251961c098e628603f261af )
+)

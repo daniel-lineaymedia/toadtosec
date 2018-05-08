@@ -1,0 +1,230 @@
+clrmamepro (
+	name "Commodore C128 - Games - [D64]"
+	description "Commodore C128 - Games - [D64] (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Games - [D64]"
+	version 2011-10-06
+	author "DesertWolf - Cassiel"
+)
+
+game (
+	name "Backgammon (19xx)(-)(de)[b]"
+	description "Backgammon (19xx)(-)(de)[b]"
+	rom ( name "Backgammon (19xx)(-)(de)[b].d64" size 174848 crc 8e61d4d5 md5 27997efecec1536da8f77b6264612888 sha1 7a7719f240e0bbfc0f9cb299bd2075e66c66a71b )
+)
+
+game (
+	name "Beyond Zork (19xx)(Infocom)(Side A)[80 Columns Mode]"
+	description "Beyond Zork (19xx)(Infocom)(Side A)[80 Columns Mode]"
+	rom ( name "Beyond Zork (19xx)(Infocom)(Side A)[80 Columns Mode].d64" size 174848 crc 7c2bc9ed md5 176c581be3509901879f16694eb8baa6 sha1 186ba5a10364e63144d1adb7bc359e76ee60fa48 )
+)
+
+game (
+	name "Beyond Zork (19xx)(Infocom)(Side B)[80 Columns Mode]"
+	description "Beyond Zork (19xx)(Infocom)(Side B)[80 Columns Mode]"
+	rom ( name "Beyond Zork (19xx)(Infocom)(Side B)[80 Columns Mode].d64" size 174848 crc 7a0c63cf md5 a64c8bcb32b1edcaeacf1ec1e32602ee sha1 e88f82f0d75d8bef1e6e68f91b7a1e32814b02a2 )
+)
+
+game (
+	name "Bureaucracy (1987)(Infocom)(Side A)[80 Columns Mode]"
+	description "Bureaucracy (1987)(Infocom)(Side A)[80 Columns Mode]"
+	rom ( name "Bureaucracy (1987)(Infocom)(Side A)[80 Columns Mode].d64" size 174848 crc c92020e0 md5 df8bbf9b665ba9496c91ecefa1026454 sha1 ce58e09220bf4abb1b8101d01093359731c44200 )
+)
+
+game (
+	name "Bureaucracy (1987)(Infocom)(Side B)[80 Columns Mode]"
+	description "Bureaucracy (1987)(Infocom)(Side B)[80 Columns Mode]"
+	rom ( name "Bureaucracy (1987)(Infocom)(Side B)[80 Columns Mode].d64" size 174848 crc 28ebdd80 md5 3db4e88d0d01812c9764776f8d14235f sha1 a5c018ccecad6867a9740faa130ef14d78376c6e )
+)
+
+game (
+	name "Burgerwhop (19xx)(Copeland, Brian L.)(PD)"
+	description "Burgerwhop (19xx)(Copeland, Brian L.)(PD)"
+	rom ( name "Burgerwhop (19xx)(Copeland, Brian L.)(PD).d64" size 174848 crc ca2d87ee md5 9a14b6a33e2b8f5b3da4af8b92e8d5fb sha1 a8a6546218b9c3aa0aa7036d4cf60796b4117d16 )
+)
+
+game (
+	name "Das Ding (1988)(-)"
+	description "Das Ding (1988)(-)"
+	rom ( name "Das Ding (1988)(-).d64" size 174848 crc 9361231d md5 9d0c68ae7c936c4a2e1683c17cee9991 sha1 09c61a96591cd60037fcb691398c4be66be93e75 )
+)
+
+game (
+	name "Dice Poker (19xx)(Avanz, Louis)(PD)"
+	description "Dice Poker (19xx)(Avanz, Louis)(PD)"
+	rom ( name "Dice Poker (19xx)(Avanz, Louis)(PD).d64" size 174848 crc 02401077 md5 d70921dd21b5c0a7a4f64b09cc39c750 sha1 eb0f8b63cd86470d447dde03d5ce8c3a01ebed7d )
+)
+
+game (
+	name "Elite 128 (1985)(Firebird)(en-de)[b]"
+	description "Elite 128 (1985)(Firebird)(en-de)[b]"
+	rom ( name "Elite 128 (1985)(Firebird)(en-de)[b].d64" size 174848 crc 39d8cce5 md5 8b6ed73cbab064f8b353d7f390c11c90 sha1 1f7b84428b2a35739d0cfec65614f614d0e4e93d )
+)
+
+game (
+	name "Elite 128 v0.8 (1985)(Firebird)(de)"
+	description "Elite 128 v0.8 (1985)(Firebird)(de)"
+	rom ( name "Elite 128 v0.8 (1985)(Firebird)(de).d64" size 174848 crc 42289f95 md5 1a1d546418151d3abf14cc94580e73ee sha1 9707c6eb44bcb6781c790b7dd70098213a611942 )
+)
+
+game (
+	name "Elite 128 v0.9 (1985)(Firebird)"
+	description "Elite 128 v0.9 (1985)(Firebird)"
+	rom ( name "Elite 128 v0.9 (1985)(Firebird).d64" size 174848 crc d841b021 md5 aefcb2d229398040dc28be7416545428 sha1 adf51c2e0d821b0f2c9df3a3966625d2fc521ef7 )
+)
+
+game (
+	name "Games 128 (19xx)(-)"
+	description "Games 128 (19xx)(-)"
+	rom ( name "Games 128 (19xx)(-).d64" size 174848 crc a63007dd md5 9813f2110796db26b143317a3bda28e8 sha1 f67ee0f94cd4ae1790a8082b1854c1dc1f51acd8 )
+)
+
+game (
+	name "Hearts (19xx)(-)[80 Column Mode]"
+	description "Hearts (19xx)(-)[80 Column Mode]"
+	rom ( name "Hearts (19xx)(-)[80 Column Mode].d64" size 174848 crc 1c216f34 md5 9d66a0a71cd1aa99bb177e3bae980d44 sha1 06a70d522da288549ff5454510f654d33b63e4eb )
+)
+
+game (
+	name "Invaders 128 (19xx)(Spiceware)"
+	description "Invaders 128 (19xx)(Spiceware)"
+	rom ( name "Invaders 128 (19xx)(Spiceware).d64" size 174848 crc 9b5ad06d md5 e7adc9f0f2b18337fe4d1fd5f79723ea sha1 6043fe2245fcb5b4d9c195ad4ccfb1c66d38e27f )
+)
+
+game (
+	name "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin]"
+	description "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin]"
+	rom ( name "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin].d64" size 174848 crc aaf6975d md5 150ef66b89be53e307bf4cc9e43e024c sha1 049752feaa2eaecbfcddf16a27802fc1776e0b7c )
+)
+
+game (
+	name "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin][a]"
+	description "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin][a]"
+	rom ( name "Kickstart 128 (19xx)(Mr. Chip)[cr Golden Griffin][a].d64" size 174848 crc 9bf183b5 md5 fc69ca945dc05e7b6613aa9ab52cbd17 sha1 8f0f0a6a1b3bab64bf5e9392e1350538f386d7b8 )
+)
+
+game (
+	name "Kickstart 2 (1985)(Mr. Chip)"
+	description "Kickstart 2 (1985)(Mr. Chip)"
+	rom ( name "Kickstart 2 (1985)(Mr. Chip).d64" size 174848 crc eec1436c md5 b1856918262fbdae1cb14bb77ca5ff8e sha1 519861e75a1a5bc72bf72580dbb38042137c5933 )
+)
+
+game (
+	name "Klondike Jones (19xx)(-)[b]"
+	description "Klondike Jones (19xx)(-)[b]"
+	rom ( name "Klondike Jones (19xx)(-)[b].d64" size 174848 crc 449fe29e md5 88196ea908d5e52f24dda8524d62ca12 sha1 41c3ba2ff93a73f50427d70879d077c2fb7b05af )
+)
+
+game (
+	name "Last v8 (19xx)(-)"
+	description "Last v8 (19xx)(-)"
+	rom ( name "Last v8 (19xx)(-).d64" size 174848 crc 1122b92f md5 ab6d481d60c6ea87f888358cec40de62 sha1 6bbb145ea8865e52f643edba1b2d31d25f90bb87 )
+)
+
+game (
+	name "Last v8 (19xx)(-)[b]"
+	description "Last v8 (19xx)(-)[b]"
+	rom ( name "Last v8 (19xx)(-)[b].d64" size 174848 crc 5fccd7ac md5 ed35b2a1d770308bcc5e8487b26cadd9 sha1 e77d1676eb603c33bdbc631adc8fdb30de01bf52 )
+)
+
+game (
+	name "Mah-Jong (19xx)(-)[b]"
+	description "Mah-Jong (19xx)(-)[b]"
+	rom ( name "Mah-Jong (19xx)(-)[b].d64" size 174848 crc 087bb1e5 md5 16821f49758e1d4f12e08b9844eb79ea sha1 bd742bb83bf95f6afdb367d61722f05a4231f887 )
+)
+
+game (
+	name "Mikes Maze 128 (19xx)(-)"
+	description "Mikes Maze 128 (19xx)(-)"
+	rom ( name "Mikes Maze 128 (19xx)(-).d64" size 174848 crc b6eeb08b md5 7e930889606009e942130b435f90c5df sha1 bb4daab4b2e0f5c771cc380a0012476018b3d967 )
+)
+
+game (
+	name "Millifoot 80 (1988)(Snyder, L.K.)"
+	description "Millifoot 80 (1988)(Snyder, L.K.)"
+	rom ( name "Millifoot 80 (1988)(Snyder, L.K.).d64" size 174848 crc 3428d560 md5 9bb3fcbbfffb64dc60c73c0e77a1560e sha1 42c6949d05691d4f0e933831fa68430ae406f9bf )
+)
+
+game (
+	name "Mind Forever Voyaging, A (19xx)(Infocom)(Side A)"
+	description "Mind Forever Voyaging, A (19xx)(Infocom)(Side A)"
+	rom ( name "Mind Forever Voyaging, A (19xx)(Infocom)(Side A).d64" size 174848 crc fb504037 md5 f2bcc66e88993bb9d59d0d7ca54b1b33 sha1 33e2200074ff38824154c9ba8b065f7996b8972a )
+)
+
+game (
+	name "Mind Forever Voyaging, A (19xx)(Infocom)(Side B)"
+	description "Mind Forever Voyaging, A (19xx)(Infocom)(Side B)"
+	rom ( name "Mind Forever Voyaging, A (19xx)(Infocom)(Side B).d64" size 174848 crc 78d8b433 md5 cb9d3e4ad82f058d556817bd8a498f11 sha1 74cbc3fd4102296b9b8b3c7e14f14f9c8ccba8d2 )
+)
+
+game (
+	name "Oh! Tello (19xx)(-)[b]"
+	description "Oh! Tello (19xx)(-)[b]"
+	rom ( name "Oh! Tello (19xx)(-)[b].d64" size 174848 crc d47087a4 md5 96d3d81523894e4b8a31c844cdbd19fa sha1 d58ac5cdcd9bfc28ce7e75bbddbcc6bfeb6fd255 )
+)
+
+game (
+	name "Rocky Horror Picture Show 128, The (1986)(CRL)"
+	description "Rocky Horror Picture Show 128, The (1986)(CRL)"
+	rom ( name "Rocky Horror Picture Show 128, The (1986)(CRL).d64" size 174848 crc 46751650 md5 14ceba9c631bc388e2c7b7070aab2938 sha1 d907afb524263876c16af9f0610d1503eb109b13 )
+)
+
+game (
+	name "Seeraeuber (19xx)(Baenke, Christian)(de)"
+	description "Seeraeuber (19xx)(Baenke, Christian)(de)"
+	rom ( name "Seeraeuber (19xx)(Baenke, Christian)(de).d64" size 174848 crc 84a228fc md5 8140c89651eb773811d3b04360eb2e42 sha1 4a9969483c4c07e5d9483d4fc1651e1cb2f0089b )
+)
+
+game (
+	name "Seeraeuber (19xx)(Baenke, Christian)(de)[a]"
+	description "Seeraeuber (19xx)(Baenke, Christian)(de)[a]"
+	rom ( name "Seeraeuber (19xx)(Baenke, Christian)(de)[a].d64" size 174848 crc f4423949 md5 2e7be4c193eb83f172db14cb05e779fd sha1 f6ec2ec75df387cd2c33301505fa356a52787447 )
+)
+
+game (
+	name "Solitair 80 (19xx)(-)[b]"
+	description "Solitair 80 (19xx)(-)[b]"
+	rom ( name "Solitair 80 (19xx)(-)[b].d64" size 174848 crc 51632d49 md5 b8b300cd5cc0bec7a3d1dc6f2d088317 sha1 4b400b4c5a2f6a92ab90b1c3a07c02c04c4b6272 )
+)
+
+game (
+	name "Tetris 128 (19xx)(-)[b]"
+	description "Tetris 128 (19xx)(-)[b]"
+	rom ( name "Tetris 128 (19xx)(-)[b].d64" size 174848 crc 73ba25c1 md5 6101441272eb2bfb03dec9223f175406 sha1 c2a03c4b7e79d435f3a84c227740c544a2bdc8e4 )
+)
+
+game (
+	name "Thai Boxing 128 (1986)(Anco)"
+	description "Thai Boxing 128 (1986)(Anco)"
+	rom ( name "Thai Boxing 128 (1986)(Anco).d64" size 174848 crc 59c505a5 md5 576f59ec89b03fa5a403310fad4bee30 sha1 5d645e03c82a1ad15ad70302b80d49726c1a18c1 )
+)
+
+game (
+	name "Thai Boxing 128 (1986)(Anco)[b]"
+	description "Thai Boxing 128 (1986)(Anco)[b]"
+	rom ( name "Thai Boxing 128 (1986)(Anco)[b].d64" size 174848 crc 936653ae md5 00388767a5b39c4236e84aa7f355b294 sha1 04416d3cdc80817b0219accf10ca83868213cbc3 )
+)
+
+game (
+	name "Trader v2.2 (19xx)(-)[b]"
+	description "Trader v2.2 (19xx)(-)[b]"
+	rom ( name "Trader v2.2 (19xx)(-)[b].d64" size 174848 crc b69bdc64 md5 e66fce0f030453c91e7f8826d689dad3 sha1 58ff8d747c70d0fb80e6ed1233eb0e8158ea5dcd )
+)
+
+game (
+	name "Trinity (19xx)(Infocom)(Side A)"
+	description "Trinity (19xx)(Infocom)(Side A)"
+	rom ( name "Trinity (19xx)(Infocom)(Side A).d64" size 174848 crc 37f89e69 md5 199f7f7d64b82bbbeaeaf08aa97e2909 sha1 77fa0ffa9c42e6379394aa94eb8157c1d0f8f4fb )
+)
+
+game (
+	name "Trinity (19xx)(Infocom)(Side B)"
+	description "Trinity (19xx)(Infocom)(Side B)"
+	rom ( name "Trinity (19xx)(Infocom)(Side B).d64" size 174848 crc a32435d7 md5 46356eb6a037d29a67c97fe45eb00816 sha1 8dceb511591de5e57684575cc3d8df4166c06543 )
+)
+
+game (
+	name "Wumpus 2.0 (19xx)(-)(de)"
+	description "Wumpus 2.0 (19xx)(-)(de)"
+	rom ( name "Wumpus 2.0 (19xx)(-)(de).d64" size 174848 crc 7496e0c6 md5 5ee755b737fe00ba0e3c26f6ce9869a6 sha1 23f54921ffde568c6d09b8d30b99fd9c3e1e20af )
+)
+

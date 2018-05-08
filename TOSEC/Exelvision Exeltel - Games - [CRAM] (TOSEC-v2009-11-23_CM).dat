@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Exelvision Exeltel - Games - [CRAM]"
+	description "Exelvision Exeltel - Games - [CRAM] (TOSEC-v2009-11-23)"
+	category "Exelvision Exeltel - Games - [CRAM]"
+	version 2009-11-23
+	author "TKaos"
+)
+
+game (
+	name "Aigles, Les (198x)(P., Gerard)(FR)"
+	description "Aigles, Les (198x)(P., Gerard)(FR)"
+	rom ( name "Aigles, Les (198x)(P., Gerard)(FR).cram" size 16224 crc 716410dd md5 43698725b24d002b0a70f56dcf0f1b77 )
+)
+
+game (
+	name "Burgertime (1987)(JMR Diffusion)(FR)"
+	description "Burgertime (1987)(JMR Diffusion)(FR)"
+	rom ( name "Burgertime (1987)(JMR Diffusion)(FR).cram" size 16128 crc cb19f6d2 md5 8e236abc62d856c2ac84fff68aea534e )
+)
+
+game (
+	name "CB5 (198x)(Exelvision)(FR)"
+	description "CB5 (198x)(Exelvision)(FR)"
+	rom ( name "CB5 (198x)(Exelvision)(FR).cram" size 16226 crc b7d62738 md5 12036bd18ddf05334abc058ad161056f )
+)
+
+game (
+	name "Descente (198x)(Paralleles)(FR)"
+	description "Descente (198x)(Paralleles)(FR)"
+	rom ( name "Descente (198x)(Paralleles)(FR).cram" size 16128 crc 6faa31fc md5 28656fc40870124d4b53b457e555749a )
+)
+
+game (
+	name "Kamicar (1987)(Arosio, Charles)(FR)"
+	description "Kamicar (1987)(Arosio, Charles)(FR)"
+	rom ( name "Kamicar (1987)(Arosio, Charles)(FR).cram" size 10755 crc f8afc23e md5 bef502ac79c4a3923ac98311bc275f2b )
+)
+
+game (
+	name "Kong (1987)(JMR Diffusion)(FR)"
+	description "Kong (1987)(JMR Diffusion)(FR)"
+	rom ( name "Kong (1987)(JMR Diffusion)(FR).cram" size 14592 crc 6f0e5678 md5 3e40c519a03766e4776f4eff2596eefb )
+)
+
+game (
+	name "Pindo (198x)(Minipuce)(FR)"
+	description "Pindo (198x)(Minipuce)(FR)"
+	rom ( name "Pindo (198x)(Minipuce)(FR).cram" size 14214 crc 3748a99f md5 c4bb527b58b447a09cc447a5e9e26ec5 )
+)
+
+game (
+	name "Pyrox (198x)(Paralleles)(FR)"
+	description "Pyrox (198x)(Paralleles)(FR)"
+	rom ( name "Pyrox (198x)(Paralleles)(FR).cram" size 16227 crc 00d99e00 md5 d7538a945b29e283dac4a323f091322f )
+)
+
+game (
+	name "Slalom Geant (198x)(Paralleles)(FR)"
+	description "Slalom Geant (198x)(Paralleles)(FR)"
+	rom ( name "Slalom Geant (198x)(Paralleles)(FR).cram" size 16128 crc ab850702 md5 162f7efbd80ec8ecebd34bde64a88a2f )
+)
+
+game (
+	name "Sphinx d'Or, Le (198x)(Paralleles)(FR)"
+	description "Sphinx d'Or, Le (198x)(Paralleles)(FR)"
+	rom ( name "Sphinx d'Or, Le (198x)(Paralleles)(FR).cram" size 14304 crc aec29668 md5 d98ca53295300eb461ed53088d0cdff1 )
+)

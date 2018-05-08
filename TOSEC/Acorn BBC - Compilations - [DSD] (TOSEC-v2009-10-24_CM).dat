@@ -1,0 +1,2533 @@
+clrmamepro (
+	name "Acorn BBC - Compilations - [DSD]"
+	description "Acorn BBC - Compilations - [DSD] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Compilations - [DSD]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "8-Bit Games Disc 1 (19xx)(8-Bit)"
+	description "8-Bit Games Disc 1 (19xx)(8-Bit)"
+	rom ( name "8-Bit Games Disc 1 (19xx)(8-Bit).dsd" size 409600 crc 5b9c8cb6 md5 32600a03c23f63828d72d4986c7bdf9c )
+)
+
+game (
+	name "8-Bit Games Disc 2 (19xx)(8-Bit)"
+	description "8-Bit Games Disc 2 (19xx)(8-Bit)"
+	rom ( name "8-Bit Games Disc 2 (19xx)(8-Bit).dsd" size 409600 crc d0fda366 md5 8996935380d2ba7faf373455bf0d35be )
+)
+
+game (
+	name "8-Bit Games Disc 3 (19xx)(8-Bit)"
+	description "8-Bit Games Disc 3 (19xx)(8-Bit)"
+	rom ( name "8-Bit Games Disc 3 (19xx)(8-Bit).dsd" size 409600 crc 12c37432 md5 88efd8d08629d222014ba66d855b1ecc )
+)
+
+game (
+	name "8-Bit Software - Christmas Disc v2 (19xx)(8-Bit)"
+	description "8-Bit Software - Christmas Disc v2 (19xx)(8-Bit)"
+	rom ( name "8-Bit Software - Christmas Disc v2 (19xx)(8-Bit).dsd" size 409600 crc 2647365f md5 8b8470b993c416a8e278fb94b4a4a349 )
+)
+
+game (
+	name "8-Bit Software - Issue 01 to 04 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 01 to 04 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 01 to 04 (19xx)(Webster, Duncan).dsd" size 409600 crc 164a7f2a md5 69f63e417c976638827f5b8c1c069514 )
+)
+
+game (
+	name "8-Bit Software - Issue 08 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 08 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 08 (19xx)(Webster, Duncan).dsd" size 409600 crc 33eca2c9 md5 44efe2828088545e6cdb4fa43a1cda8c )
+)
+
+game (
+	name "8-Bit Software - Issue 09 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 09 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 09 (19xx)(Webster, Duncan).dsd" size 409600 crc 77ee91b8 md5 822477e82b2e4863879a4aba952a1af0 )
+)
+
+game (
+	name "8-Bit Software - Issue 10 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 10 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 10 (1991)(Webster, Duncan).dsd" size 409600 crc 9b141940 md5 16304d2fc29980cc0ed9a55598a53547 )
+)
+
+game (
+	name "8-Bit Software - Issue 11 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 11 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 11 (1991)(Webster, Duncan).dsd" size 409600 crc d0cbad6f md5 508130000d0cd4ca936b9bec02e6591f )
+)
+
+game (
+	name "8-Bit Software - Issue 12 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 12 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 12 (1991)(Webster, Duncan).dsd" size 409600 crc 049729a7 md5 48ebaf774f578185b00cc8b3b9e5f423 )
+)
+
+game (
+	name "8-Bit Software - Issue 13 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 13 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 13 (1991)(Webster, Duncan).dsd" size 409600 crc 2602f06a md5 c0b8995494bf8a3d09a26b627fcfaddb )
+)
+
+game (
+	name "8-Bit Software - Issue 14 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 14 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 14 (1991)(Webster, Duncan).dsd" size 409600 crc 5d42cb66 md5 05bf26c040aa85551d2aeab7a4c9be47 )
+)
+
+game (
+	name "8-Bit Software - Issue 15 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 15 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 15 (1991)(Webster, Duncan).dsd" size 409600 crc e5ce4871 md5 8af65925c2cf6fb05916be5b88c20977 )
+)
+
+game (
+	name "8-Bit Software - Issue 16 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 16 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 16 (1991)(Webster, Duncan).dsd" size 409600 crc 1b74ef29 md5 6811fdc691500c110e11d4cd0528928f )
+)
+
+game (
+	name "8-Bit Software - Issue 17 (1991)(Webster, Duncan)"
+	description "8-Bit Software - Issue 17 (1991)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 17 (1991)(Webster, Duncan).dsd" size 409600 crc 87a6c17f md5 82219d5b317a43dc81e2cfab00951a5a )
+)
+
+game (
+	name "8-Bit Software - Issue 18 (1992)(Webster, Duncan)"
+	description "8-Bit Software - Issue 18 (1992)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 18 (1992)(Webster, Duncan).dsd" size 409600 crc 7fe21505 md5 5b64d44bb2a76071a0f316bd429da83d )
+)
+
+game (
+	name "8-Bit Software - Issue 19 (1992)(Webster, Duncan)"
+	description "8-Bit Software - Issue 19 (1992)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 19 (1992)(Webster, Duncan).dsd" size 409600 crc 10e3e86e md5 aad3de4cdb4da44740a2d8fd4c573d5e )
+)
+
+game (
+	name "8-Bit Software - Issue 20 (1992)(Shimmin, Daniel)"
+	description "8-Bit Software - Issue 20 (1992)(Shimmin, Daniel)"
+	rom ( name "8-Bit Software - Issue 20 (1992)(Shimmin, Daniel).dsd" size 409600 crc f45c5957 md5 d49840f55b08ed8af9d2857f632334ba )
+)
+
+game (
+	name "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel)"
+	description "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel)"
+	rom ( name "8-Bit Software - Issue 21 (1992)(Shimmin, Daniel).dsd" size 409600 crc 8e3fec0a md5 b62b0d1ef31e063a87e67925f05c621b )
+)
+
+game (
+	name "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel)"
+	description "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel)"
+	rom ( name "8-Bit Software - Issue 22 (1992)(Shimmin, Daniel).dsd" size 409600 crc 5f0947d4 md5 e0d4beca8306c7b5f8436592da56c037 )
+)
+
+game (
+	name "8-Bit Software - Issue 23 (1992)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 23 (1992)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 23 (1992)(Richardson, C.J.).dsd" size 409600 crc 6b34c275 md5 58ecb62985adf7ed9724d0c1a2a4c35f )
+)
+
+game (
+	name "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel)"
+	description "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel)"
+	rom ( name "8-Bit Software - Issue 24 (1992)(Shimmin, Daniel).dsd" size 409600 crc 6b101a26 md5 e90428d3af6fcc64e671b4a3427b47df )
+)
+
+game (
+	name "8-Bit Software - Issue 25 (1992)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 25 (1992)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 25 (1992)(Richardson, C.J.).dsd" size 409600 crc 2beb9a83 md5 51ead1dcb680f4504f90e97c4520d777 )
+)
+
+game (
+	name "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel)"
+	description "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel)"
+	rom ( name "8-Bit Software - Issue 26 (1992)(Shimmin, Daniel).dsd" size 409600 crc 0ccc0082 md5 dc39a9202af784d32e1a005fcc4c6d9c )
+)
+
+game (
+	name "8-Bit Software - Issue 27 (1992)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 27 (1992)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 27 (1992)(Richardson, C.J.).dsd" size 409600 crc 33dee3dd md5 2a9dc920fae702472282022139c20ff0 )
+)
+
+game (
+	name "8-Bit Software - Issue 28 (1992)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 28 (1992)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 28 (1992)(Richardson, C.J.).dsd" size 409600 crc e1c0bb93 md5 eb1a0a534b64be269a6328859c1ebc6e )
+)
+
+game (
+	name "8-Bit Software - Issue 29 (1992)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 29 (1992)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 29 (1992)(Richardson, C.J.).dsd" size 409600 crc 7203d292 md5 d733fd95fa3fc80742356e992dba1b06 )
+)
+
+game (
+	name "8-Bit Software - Issue 30 (1993)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 30 (1993)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 30 (1993)(Richardson, C.J.).dsd" size 409600 crc b04b8d35 md5 a9987a44c772df3356c153881c277230 )
+)
+
+game (
+	name "8-Bit Software - Issue 31 (1993)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 31 (1993)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 31 (1993)(Richardson, C.J.).dsd" size 409600 crc 26cc9b50 md5 70b74a477bcea929b560b55332b002dd )
+)
+
+game (
+	name "8-Bit Software - Issue 32 (1993)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 32 (1993)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 32 (1993)(Richardson, C.J.).dsd" size 409600 crc 918bba05 md5 32e961eb3d5cf32fb7ec0f4b0319a686 )
+)
+
+game (
+	name "8-Bit Software - Issue 33 (1993)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 33 (1993)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 33 (1993)(Richardson, C.J.).dsd" size 409600 crc 0f39d77d md5 937ba2776962c9fa7bef8baee0a212d3 )
+)
+
+game (
+	name "8-Bit Software - Issue 34 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 34 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 34 (1994)(Richardson, C.J.).dsd" size 409600 crc a594ba1a md5 e3c9076bab24c0aa117e4bc9b7438517 )
+)
+
+game (
+	name "8-Bit Software - Issue 35 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 35 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 35 (1994)(Richardson, C.J.).dsd" size 409600 crc dcf12c98 md5 aa2216b60842ffd6b476cfa9f248cbb6 )
+)
+
+game (
+	name "8-Bit Software - Issue 36 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 36 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 36 (1994)(Richardson, C.J.).dsd" size 409600 crc a8e4d4e5 md5 adb428862fb931506283c34eced574e1 )
+)
+
+game (
+	name "8-Bit Software - Issue 37 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 37 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 37 (1994)(Richardson, C.J.).dsd" size 409600 crc d728a0e2 md5 42a236f3b50cf70de7f9ede46c5ce08c )
+)
+
+game (
+	name "8-Bit Software - Issue 38 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 38 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 38 (1994)(Richardson, C.J.).dsd" size 409600 crc df5b1b59 md5 163879489a678e05c1f220097f9e4286 )
+)
+
+game (
+	name "8-Bit Software - Issue 39 (1994)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 39 (1994)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 39 (1994)(Richardson, C.J.).dsd" size 409600 crc 87c8795d md5 5b10ee256370788f712419551e53f48d )
+)
+
+game (
+	name "8-Bit Software - Issue 40 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 40 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 40 (1995)(Richardson, C.J.).dsd" size 409600 crc d0bdba24 md5 7b4acb218f717067263937d12122e303 )
+)
+
+game (
+	name "8-Bit Software - Issue 41 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 41 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 41 (1995)(Richardson, C.J.).dsd" size 409600 crc d4a8b406 md5 29c767d64bf35d4c08ae657322af92e6 )
+)
+
+game (
+	name "8-Bit Software - Issue 42 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 42 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 42 (1995)(Richardson, C.J.).dsd" size 409600 crc 3f9d4f10 md5 2db14e1f9dab553053ec98318736a5ba )
+)
+
+game (
+	name "8-Bit Software - Issue 43 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 43 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 43 (1995)(Richardson, C.J.).dsd" size 409600 crc a49cfbd6 md5 c19c9b3a716252ddbf8d84a916c12795 )
+)
+
+game (
+	name "8-Bit Software - Issue 44 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 44 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 44 (1995)(Richardson, C.J.).dsd" size 409600 crc 299ed4a9 md5 ee3636faa6f9181fb7d8ed44613db21c )
+)
+
+game (
+	name "8-Bit Software - Issue 45 (1995)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 45 (1995)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 45 (1995)(Richardson, C.J.).dsd" size 409600 crc 2cb90709 md5 0d45ed8f89e8f3065080b9a59e3528f7 )
+)
+
+game (
+	name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc f59aa46d md5 059214582b630d763c654de6a30aba2e )
+)
+
+game (
+	name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 46 (1995)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 188cb67b md5 3c09ccad6c9a5b5c90aa9732658f317f )
+)
+
+game (
+	name "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 019f4278 md5 f45fbb32b79da1964d28ac6ad33a9a8b )
+)
+
+game (
+	name "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 47 (1995)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 8e4c8973 md5 4d72d815f51f716a3b5c8eb12a4bae61 )
+)
+
+game (
+	name "8-Bit Software - Issue 48 (1996)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 48 (1996)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 48 (1996)(Richardson, C.J.).dsd" size 409600 crc 5bd60f78 md5 4c6e60a46b37690ff476b385b0016c8b )
+)
+
+game (
+	name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 181204a4 md5 51b5144c036b14b2612bb036bb1bc024 )
+)
+
+game (
+	name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 49 (1996)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 7cb17786 md5 4b8a99c3ec215317588ad3e7bbe957cf )
+)
+
+game (
+	name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 9f30d02f md5 30871ca0f2e823fa814680086aea9acf )
+)
+
+game (
+	name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 50 (1996)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc b9298cd0 md5 2e0640c5fd5ccf3b69cf329f6f40586a )
+)
+
+game (
+	name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 4a41d1eb md5 f7e5e915e209cbdae743c331b7073821 )
+)
+
+game (
+	name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 51 (1996)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 3d0adcb3 md5 2c473f000fa0dd78d8ba176fa935b5c7 )
+)
+
+game (
+	name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc ff9b6efb md5 3c340a76d36bef089a22aa9c6392848b )
+)
+
+game (
+	name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 52 (1996)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 8b5b3a23 md5 4c6cca1acd1938c956cde45fe383a7d7 )
+)
+
+game (
+	name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 2e538b48 md5 a44eb5f47a9b2bbebc459eb0eebbf2da )
+)
+
+game (
+	name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 53 (1996)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 42e0aa19 md5 4449c634749b7d40ad5648512c773a34 )
+)
+
+game (
+	name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc d97b69e3 md5 ddbb18c2c64cb42f5d52fac3db5cd737 )
+)
+
+game (
+	name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 54 (1997)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 19e0af13 md5 c39fb588c537d0a204ffac07eca937eb )
+)
+
+game (
+	name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc 36ca27f3 md5 b74aca114540bb1afa9ad161d28c9773 )
+)
+
+game (
+	name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 55 (1997)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc c5829879 md5 048b00eb6efde6a747a925ae3e7dd97a )
+)
+
+game (
+	name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc d7a8de96 md5 53be5ff6c1d21c9b55bec4ef79b1043e )
+)
+
+game (
+	name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 56 (1997)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 364d844c md5 c603975e0df8134906b9f781f1a7c624 )
+)
+
+game (
+	name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	description "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 1 of 2)"
+	rom ( name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 1 of 2).dsd" size 409600 crc ab7249d7 md5 396524e3a1c4f8b0d05adb5f30040d26 )
+)
+
+game (
+	name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	description "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 2 of 2)"
+	rom ( name "8-Bit Software - Issue 57 (1997)(Richardson, C.J.)(Disk 2 of 2).dsd" size 409600 crc 1c09b907 md5 fb5f308a24c72337e2bdfa0a6ea290ec )
+)
+
+game (
+	name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.).dsd" size 409600 crc 811be006 md5 aa249b8554682f1192c5f4284eb20528 )
+)
+
+game (
+	name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[a]"
+	description "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[a]"
+	rom ( name "8-Bit Software - Issue 58 (1997)(Richardson, C.J.)[a].dsd" size 204800 crc 8c80a6ca md5 ba76764870f1d436a3ce38f2f9eb2dfa )
+)
+
+game (
+	name "8-Bit Software - Issue 59 (1997)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 59 (1997)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 59 (1997)(Richardson, C.J.).dsd" size 409600 crc 152a59c4 md5 41f99f022cae7615cc401a4bfb3397d8 )
+)
+
+game (
+	name "8-Bit Software - Issue 60 (1997)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 60 (1997)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 60 (1997)(Richardson, C.J.).dsd" size 409600 crc 4f62fd47 md5 d4e1cbe62c446aa1e0645e27cb93f226 )
+)
+
+game (
+	name "8-Bit Software - Issue 61 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 61 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 61 (1998)(Richardson, C.J.).dsd" size 409600 crc 441bf17e md5 b25c2e82ce42a0b082e54be0d8727a92 )
+)
+
+game (
+	name "8-Bit Software - Issue 62 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 62 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 62 (1998)(Richardson, C.J.).dsd" size 409600 crc 8a8a0020 md5 084066e63568e87ec3ada9017cf5d5f4 )
+)
+
+game (
+	name "8-Bit Software - Issue 63 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 63 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 63 (1998)(Richardson, C.J.).dsd" size 409600 crc 8a1095e1 md5 3346d675e06416352a3ab9e737c22a02 )
+)
+
+game (
+	name "8-Bit Software - Issue 64 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 64 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 64 (1998)(Richardson, C.J.).dsd" size 409600 crc 5b6fdd52 md5 9a5a5cf253bb7f276ee0f2281347f2db )
+)
+
+game (
+	name "8-Bit Software - Issue 65 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 65 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 65 (1998)(Richardson, C.J.).dsd" size 409600 crc 14848dcc md5 06dccd44cfac6ece3940ed524cfafe98 )
+)
+
+game (
+	name "8-Bit Software - Issue 66 (1998)(Richardson, C.J.)"
+	description "8-Bit Software - Issue 66 (1998)(Richardson, C.J.)"
+	rom ( name "8-Bit Software - Issue 66 (1998)(Richardson, C.J.).dsd" size 409600 crc d289385a md5 c483845646f8a429783f7b2ade70be46 )
+)
+
+game (
+	name "8-Bit Software Catalogue (1998)(Richardson, C.)"
+	description "8-Bit Software Catalogue (1998)(Richardson, C.)"
+	rom ( name "8-Bit Software Catalogue (1998)(Richardson, C.).dsd" size 409600 crc 38c0c1a9 md5 80de6b005d556b832218806c67c04e77 )
+)
+
+game (
+	name "8-Bit Software Catalogue (2000)(Richardson, C.)"
+	description "8-Bit Software Catalogue (2000)(Richardson, C.)"
+	rom ( name "8-Bit Software Catalogue (2000)(Richardson, C.).dsd" size 409600 crc 3c1cd821 md5 eaf826dbcaa615b26b21088cffbabd5a )
+)
+
+game (
+	name "8-Bit Software Magazine Database - Issue 16 (1996)(Richardson, C.J.)"
+	description "8-Bit Software Magazine Database - Issue 16 (1996)(Richardson, C.J.)"
+	rom ( name "8-Bit Software Magazine Database - Issue 16 (1996)(Richardson, C.J.).dsd" size 409600 crc 7dbd4248 md5 b8ca83207773059082fe1d3c3925223d )
+)
+
+game (
+	name "8-Bit Software Reviews (1998)(8-Bit)"
+	description "8-Bit Software Reviews (1998)(8-Bit)"
+	rom ( name "8-Bit Software Reviews (1998)(8-Bit).dsd" size 409600 crc eab5fa52 md5 8119101e16a130e531cb91632dc15e02 )
+)
+
+game (
+	name "Adult Basic Education Disks 1, 4 ,6 & 8 (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 1, 4 ,6 & 8 (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 1, 4 ,6 & 8 (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc d7e52b69 md5 85969f1cc9267bc7263a9e9e22424db2 )
+)
+
+game (
+	name "Adult Basic Education Disks 10, 12, 14 & 16 (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 10, 12, 14 & 16 (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 10, 12, 14 & 16 (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc 6dc81b1a md5 e502b01f01946b956e34f751ac5e616f )
+)
+
+game (
+	name "Adult Basic Education Disks 18, 20, 22 & 24 (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 18, 20, 22 & 24 (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 18, 20, 22 & 24 (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc f2e1c8cc md5 4bb0fa96d66f500838b4abe2d5f26470 )
+)
+
+game (
+	name "Adult Basic Education Disks 26, 28, 30 & 32 (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 26, 28, 30 & 32 (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 26, 28, 30 & 32 (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc e85afaae md5 7cd93afa5f0fb8ced866baf3e8092ad7 )
+)
+
+game (
+	name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc 05b334db md5 d5b894480eb62fd23601eb10138887eb )
+)
+
+game (
+	name "Adult Basic Education Disks 38 & Talking Disc (19xx)(Davy, P.)[h 8-Bit]"
+	description "Adult Basic Education Disks 38 & Talking Disc (19xx)(Davy, P.)[h 8-Bit]"
+	rom ( name "Adult Basic Education Disks 38 & Talking Disc (19xx)(Davy, P.)[h 8-Bit].dsd" size 409600 crc 6cd7c61b md5 8cc490723b235cd99a3b413818b69754 )
+)
+
+game (
+	name "Alligata Games (19xx)(8-Bit)"
+	description "Alligata Games (19xx)(8-Bit)"
+	rom ( name "Alligata Games (19xx)(8-Bit).dsd" size 409600 crc 47b9c921 md5 766b8aac73780891852993967928d47e )
+)
+
+game (
+	name "Alligata Games (19xx)(8-Bit)[a]"
+	description "Alligata Games (19xx)(8-Bit)[a]"
+	rom ( name "Alligata Games (19xx)(8-Bit)[a].dsd" size 409600 crc 556e5910 md5 9f4dcbb35ed76cef0d735864ea70f465 )
+)
+
+game (
+	name "Alligata Games (19xx)(8-Bit)[a2]"
+	description "Alligata Games (19xx)(8-Bit)[a2]"
+	rom ( name "Alligata Games (19xx)(8-Bit)[a2].dsd" size 409600 crc cda3ea23 md5 2508621c96919b43d757b5eb4bdcfacc )
+)
+
+game (
+	name "AMX Fonts (19xx)(-)"
+	description "AMX Fonts (19xx)(-)"
+	rom ( name "AMX Fonts (19xx)(-).dsd" size 409600 crc a12de24e md5 0b44a02c16bbc0cff20cb7b24217a1f3 )
+)
+
+game (
+	name "Arcade Games 04 (19xx)(-)"
+	description "Arcade Games 04 (19xx)(-)"
+	rom ( name "Arcade Games 04 (19xx)(-).dsd" size 409600 crc 591859a9 md5 57b21113f8a36406ca7292161d461ec8 )
+)
+
+game (
+	name "BBC Bonanza (1987)(Audiogenic)"
+	description "BBC Bonanza (1987)(Audiogenic)"
+	rom ( name "BBC Bonanza (1987)(Audiogenic).dsd" size 277760 crc 0c65ae18 md5 106df068fe300727d70e442bcea66b34 )
+)
+
+game (
+	name "BBC Digitised Software (19xx)(-)"
+	description "BBC Digitised Software (19xx)(-)"
+	rom ( name "BBC Digitised Software (19xx)(-).dsd" size 409600 crc 3d8f1cca md5 a87032d604df9cf5959e9e7b094dfcf9 )
+)
+
+game (
+	name "BBC PD Disk 001 - Informant Help ROM Vol. 1 (19xx)(-)(PD)"
+	description "BBC PD Disk 001 - Informant Help ROM Vol. 1 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 001 - Informant Help ROM Vol. 1 (19xx)(-)(PD).dsd" size 409600 crc 3f19605d md5 291ff277ebb201d79f4bad1f41d40ff2 )
+)
+
+game (
+	name "BBC PD Disk 002 - Maths Competion Pack (19xx)(-)(PD)"
+	description "BBC PD Disk 002 - Maths Competion Pack (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 002 - Maths Competion Pack (19xx)(-)(PD).dsd" size 409600 crc 65aa5405 md5 fb3de1bb30cfc0f8770837252cde73b5 )
+)
+
+game (
+	name "BBC PD Disk 003 - Spellcheck (19xx)(-)(PD)"
+	description "BBC PD Disk 003 - Spellcheck (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 003 - Spellcheck (19xx)(-)(PD).dsd" size 409600 crc 3e477c8f md5 71534987aa42e1a47522803e2fe4e04a )
+)
+
+game (
+	name "BBC PD Disk 004 - Small C Compiler (19xx)(-)(PD)"
+	description "BBC PD Disk 004 - Small C Compiler (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 004 - Small C Compiler (19xx)(-)(PD).dsd" size 409600 crc e9e9f5d2 md5 2482fbca74259cf1948c7e9376f0919c )
+)
+
+game (
+	name "BBC PD Disk 005 - Red Shift Music (19xx)(-)(PD)"
+	description "BBC PD Disk 005 - Red Shift Music (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 005 - Red Shift Music (19xx)(-)(PD).dsd" size 409600 crc d470efe3 md5 b74cf67c37a4c8c40aa7f23ea0efa34c )
+)
+
+game (
+	name "BBC PD Disk 006 - Games & Demos (19xx)(-)(PD)"
+	description "BBC PD Disk 006 - Games & Demos (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 006 - Games & Demos (19xx)(-)(PD).dsd" size 409600 crc fac1aa4e md5 b01eedee243a112fdfe4e8955552b236 )
+)
+
+game (
+	name "BBC PD Disk 007 - Kermit Comms. System (19xx)(-)(PD)"
+	description "BBC PD Disk 007 - Kermit Comms. System (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 007 - Kermit Comms. System (19xx)(-)(PD).dsd" size 409600 crc 6376f3ff md5 701f6becae6ebe35cd87f53500b58a9b )
+)
+
+game (
+	name "BBC PD Disk 008 - 6502 Macro Assembler (19xx)(-)(PD)"
+	description "BBC PD Disk 008 - 6502 Macro Assembler (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 008 - 6502 Macro Assembler (19xx)(-)(PD).dsd" size 409600 crc e534dc48 md5 9f7c4160e01254b19b1db30cd4d13398 )
+)
+
+game (
+	name "BBC PD Disk 009 - X-Tel (19xx)(-)(PD)"
+	description "BBC PD Disk 009 - X-Tel (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 009 - X-Tel (19xx)(-)(PD).dsd" size 409600 crc 44a2d7c3 md5 3c7c04e615f0c81611f038a5f62a711b )
+)
+
+game (
+	name "BBC PD Disk 010 - John Henson Collection (19xx)(-)(PD)"
+	description "BBC PD Disk 010 - John Henson Collection (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 010 - John Henson Collection (19xx)(-)(PD).dsd" size 409600 crc 31f84198 md5 04556de3d9b02859ff1f99453ce7e99a )
+)
+
+game (
+	name "BBC PD Disk 011 - Urban War (19xx)(-)(PD)"
+	description "BBC PD Disk 011 - Urban War (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 011 - Urban War (19xx)(-)(PD).dsd" size 409600 crc 58affe13 md5 97e1c949811181aa512042d31723f33a )
+)
+
+game (
+	name "BBC PD Disk 013 - Byte the Apple Music Disc 6 (19xx)(-)(PD)"
+	description "BBC PD Disk 013 - Byte the Apple Music Disc 6 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 013 - Byte the Apple Music Disc 6 (19xx)(-)(PD).dsd" size 409600 crc a5544d8b md5 07097fd334dbb7f958e059502bc0d57e )
+)
+
+game (
+	name "BBC PD Disk 014 - Pictures (19xx)(-)(PD)"
+	description "BBC PD Disk 014 - Pictures (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 014 - Pictures (19xx)(-)(PD).dsd" size 409600 crc cd224f87 md5 26cdce21aa44009b2533c724ed31a4dc )
+)
+
+game (
+	name "BBC PD Disk 015 - Various (19xx)(-)(PD)"
+	description "BBC PD Disk 015 - Various (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 015 - Various (19xx)(-)(PD).dsd" size 409600 crc 4440a5e6 md5 08355783ef62517184a1956ccc4590f4 )
+)
+
+game (
+	name "BBC PD Disk 016 - Clipart for AMX PageMaker (19xx)(-)(PD)"
+	description "BBC PD Disk 016 - Clipart for AMX PageMaker (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 016 - Clipart for AMX PageMaker (19xx)(-)(PD).dsd" size 409600 crc 1383dd1b md5 3b59a438ef37f465970c6b9ca94ca147 )
+)
+
+game (
+	name "BBC PD Disk 017 - Something About Me (19xx)(-)(PD)"
+	description "BBC PD Disk 017 - Something About Me (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 017 - Something About Me (19xx)(-)(PD).dsd" size 409600 crc 0bee7aca md5 610c4296013b909ddc4c1edcd325f835 )
+)
+
+game (
+	name "BBC PD Disk 018 (19xx)(-)(PD)"
+	description "BBC PD Disk 018 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 018 (19xx)(-)(PD).dsd" size 409600 crc e06a7f8f md5 0098cb73094f9599775aaa691c66b914 )
+)
+
+game (
+	name "BBC PD Disk 019 - Sorceror's Domain I & II (19xx)(-)(PD)"
+	description "BBC PD Disk 019 - Sorceror's Domain I & II (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 019 - Sorceror's Domain I & II (19xx)(-)(PD).dsd" size 409600 crc 3c5c5405 md5 a33dbaf7df5804f335008bafdb79ce4f )
+)
+
+game (
+	name "BBC PD Disk 020 - Risk - The Computer Game (19xx)(-)(PD)[RUN !BOOT]"
+	description "BBC PD Disk 020 - Risk - The Computer Game (19xx)(-)(PD)[RUN !BOOT]"
+	rom ( name "BBC PD Disk 020 - Risk - The Computer Game (19xx)(-)(PD)[RUN !BOOT].dsd" size 409600 crc 06b90b4e md5 f1e0c194c39f2545d97bb21cdee94d17 )
+)
+
+game (
+	name "BBC PD Disk 022 - Digitised Sound Samples (19xx)(-)(PD)"
+	description "BBC PD Disk 022 - Digitised Sound Samples (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 022 - Digitised Sound Samples (19xx)(-)(PD).dsd" size 409600 crc 6f9bed3b md5 0068f5d3d44229d3f6c22afd3f0bfe9b )
+)
+
+game (
+	name "BBC PD Disk 023 - Office Clip Art (19xx)(-)(PD)[RUN !BOOT]"
+	description "BBC PD Disk 023 - Office Clip Art (19xx)(-)(PD)[RUN !BOOT]"
+	rom ( name "BBC PD Disk 023 - Office Clip Art (19xx)(-)(PD)[RUN !BOOT].dsd" size 409600 crc 779740bc md5 d738bcc793175da564378459b595e84d )
+)
+
+game (
+	name "BBC PD Disk 025 (19xx)(-)(PD)"
+	description "BBC PD Disk 025 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 025 (19xx)(-)(PD).dsd" size 409600 crc de91b585 md5 f0b00ed8149a11364e6e6641316adb3d )
+)
+
+game (
+	name "BBC PD Disk 027 - Clip Art for AMX PageMaker - Stop Press (19xx)(-)(PD)[RUN !BOOT]"
+	description "BBC PD Disk 027 - Clip Art for AMX PageMaker - Stop Press (19xx)(-)(PD)[RUN !BOOT]"
+	rom ( name "BBC PD Disk 027 - Clip Art for AMX PageMaker - Stop Press (19xx)(-)(PD)[RUN !BOOT].dsd" size 409600 crc a520b99b md5 222da288f048493624b87d5ff0634d7a )
+)
+
+game (
+	name "BBC PD Disk 028 - Games (19xx)(-)(PD)"
+	description "BBC PD Disk 028 - Games (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 028 - Games (19xx)(-)(PD).dsd" size 409600 crc 067b5afd md5 8a5467afada196288008aec00f78c738 )
+)
+
+game (
+	name "BBC PD Disk 029 - Games & Utilities (19xx)(-)(PD)"
+	description "BBC PD Disk 029 - Games & Utilities (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 029 - Games & Utilities (19xx)(-)(PD).dsd" size 409600 crc 317a86b1 md5 e1bea18d1d324c8a8e3a5369f55175b9 )
+)
+
+game (
+	name "BBC PD Disk 032 - J. Lyons Educational Software Demo (demo) (19xx)(-)(PD)"
+	description "BBC PD Disk 032 - J. Lyons Educational Software Demo (demo) (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 032 - J. Lyons Educational Software Demo (demo) (19xx)(-)(PD).dsd" size 409600 crc 99159303 md5 4321085814b8433c7a01f2b90c6f5fe0 )
+)
+
+game (
+	name "BBC PD Disk 033 - Institute of Metals (19xx)(-)(PD)"
+	description "BBC PD Disk 033 - Institute of Metals (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 033 - Institute of Metals (19xx)(-)(PD).dsd" size 409600 crc 97f95d0c md5 284092f879808392c87c822980e584f1 )
+)
+
+game (
+	name "BBC PD Disk 034 - STD Telephone Codes (19xx)(-)(PD)"
+	description "BBC PD Disk 034 - STD Telephone Codes (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 034 - STD Telephone Codes (19xx)(-)(PD).dsd" size 409600 crc 8e9d3315 md5 f93e3dc755971bf4252cdc9304d3290a )
+)
+
+game (
+	name "BBC PD Disk 036 - STD Codes for View Pro. (19xx)(-)(PD)"
+	description "BBC PD Disk 036 - STD Codes for View Pro. (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 036 - STD Codes for View Pro. (19xx)(-)(PD).dsd" size 409600 crc d115c74a md5 e3905343f884410ad7615143221fa0b2 )
+)
+
+game (
+	name "BBC PD Disk 037 - Games & Utilities (19xx)(-)(PD)"
+	description "BBC PD Disk 037 - Games & Utilities (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 037 - Games & Utilities (19xx)(-)(PD).dsd" size 409600 crc 5d04fc0d md5 10864aef3c94026b24679f116ee65661 )
+)
+
+game (
+	name "BBC PD Disk 038 - S. Flintham Programs (19xx)(-)(PD)"
+	description "BBC PD Disk 038 - S. Flintham Programs (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 038 - S. Flintham Programs (19xx)(-)(PD).dsd" size 409600 crc a17b9c98 md5 b9faf686a8d1336fccc387bf802a380b )
+)
+
+game (
+	name "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 3b029cbd md5 44b578e8a00adaa63074efae13be22fa )
+)
+
+game (
+	name "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 041-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc add2267a md5 b4404cde599bed4245dc3b96cd047a2d )
+)
+
+game (
+	name "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 07b140af md5 3fe6ae191f819cb88814eef48f366076 )
+)
+
+game (
+	name "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 041-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc ec060977 md5 9c803459cb0ea65c36d89c0bdb9f7221 )
+)
+
+game (
+	name "BBC PD Disk 042-A - Clip Art AMX Format (19xx)(-)(PD)"
+	description "BBC PD Disk 042-A - Clip Art AMX Format (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 042-A - Clip Art AMX Format (19xx)(-)(PD).dsd" size 409600 crc 02e28c7f md5 a8079142cad3326ba21fb57cf0374e1b )
+)
+
+game (
+	name "BBC PD Disk 042-W - Clip Art Watford Format (19xx)(-)(PD)"
+	description "BBC PD Disk 042-W - Clip Art Watford Format (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 042-W - Clip Art Watford Format (19xx)(-)(PD).dsd" size 409600 crc f06bdb37 md5 22aae0cd5909833deb7c58e5b16c6179 )
+)
+
+game (
+	name "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc f57dbdf1 md5 3ffa250be5bcb143a74393ebd665890b )
+)
+
+game (
+	name "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 043-A - Clip Art AMX Format (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc 6ed7754a md5 4b07ea54d91744fa139417981f25f727 )
+)
+
+game (
+	name "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 32009b9c md5 41a471b71b34d3d104ca7719e77ef9e1 )
+)
+
+game (
+	name "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 043-W - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc 54093119 md5 489de22b9e8224b388e9b13b8bbb9a7e )
+)
+
+game (
+	name "BBC PD Disk 044-A - Clip Art AMX Format (19xx)(-)(PD)"
+	description "BBC PD Disk 044-A - Clip Art AMX Format (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 044-A - Clip Art AMX Format (19xx)(-)(PD).dsd" size 409600 crc e4503e4f md5 44ae9e334ac85f348c1e800e075ddeab )
+)
+
+game (
+	name "BBC PD Disk 044-W - Clip Art Watford Format (19xx)(-)(PD)"
+	description "BBC PD Disk 044-W - Clip Art Watford Format (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 044-W - Clip Art Watford Format (19xx)(-)(PD).dsd" size 409600 crc 1d211579 md5 ce423cdc465213f7e2ca311397e86a52 )
+)
+
+game (
+	name "BBC PD Disk 045 - Clip Art Vol. 3 (19xx)(-)(PD)"
+	description "BBC PD Disk 045 - Clip Art Vol. 3 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 045 - Clip Art Vol. 3 (19xx)(-)(PD).dsd" size 409600 crc 3d8b66f5 md5 fe55da6004320bc076a735c38abde872 )
+)
+
+game (
+	name "BBC PD Disk 047 - Master UtilROM v1.7 (19xx)(-)(PD)"
+	description "BBC PD Disk 047 - Master UtilROM v1.7 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 047 - Master UtilROM v1.7 (19xx)(-)(PD).dsd" size 409600 crc c20f6307 md5 532f9a5ff39528e52fbc59984c8c173a )
+)
+
+game (
+	name "BBC PD Disk 048 - Coronado C Language Tutorial (19xx)(-)(PD)"
+	description "BBC PD Disk 048 - Coronado C Language Tutorial (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 048 - Coronado C Language Tutorial (19xx)(-)(PD).dsd" size 409600 crc 908f24f2 md5 8b6c67885c66c050e1e13aef9ebe1840 )
+)
+
+game (
+	name "BBC PD Disk 049 - S. Flintham PD & Freeware (19xx)(-)(PD)"
+	description "BBC PD Disk 049 - S. Flintham PD & Freeware (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 049 - S. Flintham PD & Freeware (19xx)(-)(PD).dsd" size 409600 crc c4e330bd md5 f91474000761133d2db8b127dec9c392 )
+)
+
+game (
+	name "BBC PD Disk 050-1 - A. Kelly Programs (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 050-1 - A. Kelly Programs (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 050-1 - A. Kelly Programs (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 68ff6abc md5 4e36ad84ad9d01675ecdec8489e1a4e4 )
+)
+
+game (
+	name "BBC PD Disk 050-2 - A. Kelly Programs (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 050-2 - A. Kelly Programs (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 050-2 - A. Kelly Programs (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc 1d4f4688 md5 180dbb313bf2473b9ab8de527fb69429 )
+)
+
+game (
+	name "BBC PD Disk 053 - Christian Quiz (19xx)(-)(PD)"
+	description "BBC PD Disk 053 - Christian Quiz (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 053 - Christian Quiz (19xx)(-)(PD).dsd" size 409600 crc b0a69ca4 md5 fca4a2cca5d255cea01479c5385add32 )
+)
+
+game (
+	name "BBC PD Disk 054 - Fanfare Teletext System (19xx)(-)(PD)"
+	description "BBC PD Disk 054 - Fanfare Teletext System (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 054 - Fanfare Teletext System (19xx)(-)(PD).dsd" size 409600 crc ce51b7f9 md5 fd17c39005b86f2b60f914e88c1e3b35 )
+)
+
+game (
+	name "BBC PD Disk 055 - NPDSA Collection (19xx)(-)(PD)"
+	description "BBC PD Disk 055 - NPDSA Collection (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 055 - NPDSA Collection (19xx)(-)(PD).dsd" size 409600 crc 50f0c720 md5 8d6f240d1ad9c4a2436237201ee8a40c )
+)
+
+game (
+	name "BBC PD Disk 060 - Roly Poly Pudding (19xx)(-)(PD)[RUN !BOOT]"
+	description "BBC PD Disk 060 - Roly Poly Pudding (19xx)(-)(PD)[RUN !BOOT]"
+	rom ( name "BBC PD Disk 060 - Roly Poly Pudding (19xx)(-)(PD)[RUN !BOOT].dsd" size 409600 crc 7dd5031c md5 863b7689fe1eab413faf3cf317a574eb )
+)
+
+game (
+	name "BBC PD Disk 061 - Mac Pictures (19xx)(-)(PD)"
+	description "BBC PD Disk 061 - Mac Pictures (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 061 - Mac Pictures (19xx)(-)(PD).dsd" size 409600 crc 79770efc md5 c4421985a2d2afb8e5aaf0128d5dfc91 )
+)
+
+game (
+	name "BBC PD Disk 062 - Games Collection (19xx)(-)(PD)"
+	description "BBC PD Disk 062 - Games Collection (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 062 - Games Collection (19xx)(-)(PD).dsd" size 409600 crc 637ffbaf md5 8fbe7da1e04a92a37a744e8d5b57cdd5 )
+)
+
+game (
+	name "BBC PD Disk 063 - R. Pike Files (19xx)(-)(PD)"
+	description "BBC PD Disk 063 - R. Pike Files (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 063 - R. Pike Files (19xx)(-)(PD).dsd" size 409600 crc fbab5b55 md5 4dd4d0174a890cf7cac1518b097e2b36 )
+)
+
+game (
+	name "BBC PD Disk 064 - Utilities (19xx)(-)(PD)"
+	description "BBC PD Disk 064 - Utilities (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 064 - Utilities (19xx)(-)(PD).dsd" size 409600 crc d761dc1d md5 5be0427ebe5def580fb5c5dcfd2ecb05 )
+)
+
+game (
+	name "BBC PD Disk 065-1 - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 065-1 - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 065-1 - Clip Art Watford Format (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 66c2a660 md5 976a533729a59f5db9e3938c44dc881f )
+)
+
+game (
+	name "BBC PD Disk 065-2 - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 065-2 - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 065-2 - Clip Art Watford Format (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc d2ac89ac md5 9d7c30d6e26626296d77f06908683931 )
+)
+
+game (
+	name "BBC PD Disk 065-A - Clip Art AMX Format (19xx)(-)(PD)"
+	description "BBC PD Disk 065-A - Clip Art AMX Format (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 065-A - Clip Art AMX Format (19xx)(-)(PD).dsd" size 409600 crc 710bc32d md5 92500e82272f39a7c9b02565558119a7 )
+)
+
+game (
+	name "BBC PD Disk 066 - Small C Compiler (19xx)(-)(PD)"
+	description "BBC PD Disk 066 - Small C Compiler (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 066 - Small C Compiler (19xx)(-)(PD).dsd" size 409600 crc a2ca7dfc md5 8026f469b3a799109944d0a6457469a2 )
+)
+
+game (
+	name "BBC PD Disk 067 - Clip Art (19xx)(-)(PD)"
+	description "BBC PD Disk 067 - Clip Art (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 067 - Clip Art (19xx)(-)(PD).dsd" size 409600 crc 5b35ba92 md5 9d029f44dfe2c8a0df34a5363a33d6c0 )
+)
+
+game (
+	name "BBC PD Disk 068 - Music Compilier v2.1 (19xx)(-)(PD)"
+	description "BBC PD Disk 068 - Music Compilier v2.1 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 068 - Music Compilier v2.1 (19xx)(-)(PD).dsd" size 409600 crc 614fe410 md5 00736e468434066b706fdd2849d47762 )
+)
+
+game (
+	name "BBC PD Disk 069 - Animation Station Disc No. 1 (19xx)(-)(PD)"
+	description "BBC PD Disk 069 - Animation Station Disc No. 1 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 069 - Animation Station Disc No. 1 (19xx)(-)(PD).dsd" size 409600 crc 62a3f077 md5 cfbcec2908cbd30144a203a7a2771cac )
+)
+
+game (
+	name "BBC PD Disk 070 - BazzaSoft Adventure Creation Systems (19xx)(-)(PD)"
+	description "BBC PD Disk 070 - BazzaSoft Adventure Creation Systems (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 070 - BazzaSoft Adventure Creation Systems (19xx)(-)(PD).dsd" size 409600 crc 1a571b34 md5 39a6a4a99a818180e9cef95ac8057405 )
+)
+
+game (
+	name "BBC PD Disk 071 - First-Aid Trainer & Educational Software (19xx)(-)(PD)"
+	description "BBC PD Disk 071 - First-Aid Trainer & Educational Software (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 071 - First-Aid Trainer & Educational Software (19xx)(-)(PD).dsd" size 409600 crc e58fad08 md5 6a126f2c1d14893b61fb65c2e7c3f801 )
+)
+
+game (
+	name "BBC PD Disk 072 - Various (19xx)(-)(PD)"
+	description "BBC PD Disk 072 - Various (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 072 - Various (19xx)(-)(PD).dsd" size 409600 crc 1480cb4a md5 02430bb7b7db402ea738e065c9d11980 )
+)
+
+game (
+	name "BBC PD Disk 074 - Word Finder & Latin Font & Disco Lights Generator (19xx)(-)(PD)"
+	description "BBC PD Disk 074 - Word Finder & Latin Font & Disco Lights Generator (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 074 - Word Finder & Latin Font & Disco Lights Generator (19xx)(-)(PD).dsd" size 409600 crc 44c9aa73 md5 83ac1766b0bbfc36d92197776b66820e )
+)
+
+game (
+	name "BBC PD Disk 075 - Something About Me (19xx)(-)(PD)"
+	description "BBC PD Disk 075 - Something About Me (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 075 - Something About Me (19xx)(-)(PD).dsd" size 409600 crc cd7fa7f5 md5 be4517909121b89d7bee98c947d36027 )
+)
+
+game (
+	name "BBC PD Disk 078 - Please Find My Young Uns (19xx)(-)(PD)"
+	description "BBC PD Disk 078 - Please Find My Young Uns (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 078 - Please Find My Young Uns (19xx)(-)(PD).dsd" size 409600 crc ea35c592 md5 2168072a87325f5655498f934c754fa4 )
+)
+
+game (
+	name "BBC PD Disk 079 - Dracula Adventure & Utilities (19xx)(-)(PD)"
+	description "BBC PD Disk 079 - Dracula Adventure & Utilities (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 079 - Dracula Adventure & Utilities (19xx)(-)(PD).dsd" size 409600 crc ab7b5e62 md5 a4cd082f27e93cbff42de5ac759003a5 )
+)
+
+game (
+	name "BBC PD Disk 082 - C. Pinnock & G. Fowler (19xx)(-)(PD)"
+	description "BBC PD Disk 082 - C. Pinnock & G. Fowler (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 082 - C. Pinnock & G. Fowler (19xx)(-)(PD).dsd" size 409600 crc ae80a839 md5 07d3558f9a2c757d6037e5d6825b5a95 )
+)
+
+game (
+	name "BBC PD Disk 083 - Various (19xx)(-)(PD)"
+	description "BBC PD Disk 083 - Various (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 083 - Various (19xx)(-)(PD).dsd" size 409600 crc 806e3b85 md5 c510dbce631c92009c82891d553063b5 )
+)
+
+game (
+	name "BBC PD Disk 084 - Dragonrider PD Software (19xx)(-)(PD)"
+	description "BBC PD Disk 084 - Dragonrider PD Software (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 084 - Dragonrider PD Software (19xx)(-)(PD).dsd" size 409600 crc b5ed43d6 md5 ed00fcacf6c51ef4aed41fa73dde59bb )
+)
+
+game (
+	name "BBC PD Disk 086 - L. Osterballe Vol. 1 (19xx)(-)(PD)"
+	description "BBC PD Disk 086 - L. Osterballe Vol. 1 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 086 - L. Osterballe Vol. 1 (19xx)(-)(PD).dsd" size 409600 crc 57fcf629 md5 084a026012cc1155085c1b1d490d0107 )
+)
+
+game (
+	name "BBC PD Disk 087 - L. Osterballe Vol. 2 (19xx)(-)(PD)"
+	description "BBC PD Disk 087 - L. Osterballe Vol. 2 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 087 - L. Osterballe Vol. 2 (19xx)(-)(PD).dsd" size 409600 crc ce1fdfc8 md5 d544c4da6e401f6c93200a83868226e3 )
+)
+
+game (
+	name "BBC PD Disk 088 - L. Osterballe Vol. 3 (19xx)(-)(PD)"
+	description "BBC PD Disk 088 - L. Osterballe Vol. 3 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 088 - L. Osterballe Vol. 3 (19xx)(-)(PD).dsd" size 409600 crc 08d5325c md5 50c52f942aa2f44966fd8c8d077dbf3d )
+)
+
+game (
+	name "BBC PD Disk 089 - L. Osterballe Vol. 4 (19xx)(-)(PD)"
+	description "BBC PD Disk 089 - L. Osterballe Vol. 4 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 089 - L. Osterballe Vol. 4 (19xx)(-)(PD).dsd" size 409600 crc 5ecaf381 md5 c00f4859be0890c5cac02bd462e77711 )
+)
+
+game (
+	name "BBC PD Disk 090 - Games (19xx)(-)(PD)"
+	description "BBC PD Disk 090 - Games (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 090 - Games (19xx)(-)(PD).dsd" size 409600 crc dd3a357e md5 18a818225e762cc2838fe33abde33284 )
+)
+
+game (
+	name "BBC PD Disk 091 - BASIC & Assembler Tutorials (19xx)(-)(PD)"
+	description "BBC PD Disk 091 - BASIC & Assembler Tutorials (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 091 - BASIC & Assembler Tutorials (19xx)(-)(PD).dsd" size 409600 crc 659c4c0e md5 6bd5f298a6b730c1a18ceea9335a621a )
+)
+
+game (
+	name "BBC PD Disk 092 - Games & Utilities (19xx)(-)(PD)"
+	description "BBC PD Disk 092 - Games & Utilities (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 092 - Games & Utilities (19xx)(-)(PD).dsd" size 409600 crc f9560868 md5 c180c91549203e01d5f6a208c3953430 )
+)
+
+game (
+	name "BBC PD Disk 093 - Mode 0 Screens (19xx)(-)(PD)"
+	description "BBC PD Disk 093 - Mode 0 Screens (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 093 - Mode 0 Screens (19xx)(-)(PD).dsd" size 409600 crc fd6e5e6c md5 4e29f4989666e3a426df6ed1ba71189b )
+)
+
+game (
+	name "BBC PD Disk 094 - RDL & R. Clark Programs (19xx)(-)(PD)"
+	description "BBC PD Disk 094 - RDL & R. Clark Programs (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 094 - RDL & R. Clark Programs (19xx)(-)(PD).dsd" size 409600 crc 9ab1fbf3 md5 355a7a227da830e6025a329f917ecb9e )
+)
+
+game (
+	name "BBC PD Disk 095 - L. Osterballe Vol. 5 (19xx)(-)(PD)"
+	description "BBC PD Disk 095 - L. Osterballe Vol. 5 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 095 - L. Osterballe Vol. 5 (19xx)(-)(PD).dsd" size 409600 crc 2cd61618 md5 28916e172563f3ae5dfb23d9489a3065 )
+)
+
+game (
+	name "BBC PD Disk 096 - L. Osterballe Vol. 6 (19xx)(-)(PD)"
+	description "BBC PD Disk 096 - L. Osterballe Vol. 6 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 096 - L. Osterballe Vol. 6 (19xx)(-)(PD).dsd" size 409600 crc 1fc548b8 md5 2bdb595d0c2613f5b8160b63c3c2e32b )
+)
+
+game (
+	name "BBC PD Disk 097 - L. Osterballe Vol. 7 (19xx)(-)(PD)"
+	description "BBC PD Disk 097 - L. Osterballe Vol. 7 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 097 - L. Osterballe Vol. 7 (19xx)(-)(PD).dsd" size 409600 crc 6a4af492 md5 340bb69969f115e09f2c118c2da6a7d7 )
+)
+
+game (
+	name "BBC PD Disk 100 - Easybase v0.4 & Docs (19xx)(-)(PD)"
+	description "BBC PD Disk 100 - Easybase v0.4 & Docs (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 100 - Easybase v0.4 & Docs (19xx)(-)(PD).dsd" size 409600 crc bad4ada1 md5 eaa91ec0a5e225cbb4fc13dde5dce016 )
+)
+
+game (
+	name "BBC PD Disk 102 - Spellcheck (19xx)(-)(PD)"
+	description "BBC PD Disk 102 - Spellcheck (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 102 - Spellcheck (19xx)(-)(PD).dsd" size 409600 crc 11e39199 md5 5af0c2d8f49a48e4438a166e28806d68 )
+)
+
+game (
+	name "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD)"
+	description "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 103 - Home Help & Easybase (19xx)(-)(PD).dsd" size 409600 crc 2495e31b md5 23000e3fcc395557aa67e1b5ced5cf90 )
+)
+
+game (
+	name "BBC PD Disk 104 - Game Cheats & Solutions (19xx)(-)(PD)"
+	description "BBC PD Disk 104 - Game Cheats & Solutions (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 104 - Game Cheats & Solutions (19xx)(-)(PD).dsd" size 409600 crc 1f278645 md5 37197b046f92268f19d13afada9e29b3 )
+)
+
+game (
+	name "BBC PD Disk 105 - Programs for Children (19xx)(-)(PD)"
+	description "BBC PD Disk 105 - Programs for Children (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 105 - Programs for Children (19xx)(-)(PD).dsd" size 409600 crc a525c7a1 md5 695dc3e9e265bbf1734ef1e35c95f3be )
+)
+
+game (
+	name "BBC PD Disk 106 - Hector C. Parr (19xx)(-)(PD)"
+	description "BBC PD Disk 106 - Hector C. Parr (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 106 - Hector C. Parr (19xx)(-)(PD).dsd" size 409600 crc 561ea5d6 md5 3da9e5a47e2c5ab4837fe3c29bdb05f1 )
+)
+
+game (
+	name "BBC PD Disk 107 - Utilities & Typing Tutor (19xx)(-)(PD)"
+	description "BBC PD Disk 107 - Utilities & Typing Tutor (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 107 - Utilities & Typing Tutor (19xx)(-)(PD).dsd" size 409600 crc 91f9229c md5 e112c9a2fccea19cee65180ca4b609f2 )
+)
+
+game (
+	name "BBC PD Disk 108 - S. Flintham and Others (19xx)(-)(PD)"
+	description "BBC PD Disk 108 - S. Flintham and Others (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 108 - S. Flintham and Others (19xx)(-)(PD).dsd" size 409600 crc 0c00202d md5 e0a00c7e3009c2045d54a48ff772c9e6 )
+)
+
+game (
+	name "BBC PD Disk 109 - Utilities and Font Designers (19xx)(-)(PD)"
+	description "BBC PD Disk 109 - Utilities and Font Designers (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 109 - Utilities and Font Designers (19xx)(-)(PD).dsd" size 409600 crc 2ae98839 md5 63285024867b3dbbef78ec7e6137e014 )
+)
+
+game (
+	name "BBC PD Disk 110 - M. Greshaw & S. Lazareno (19xx)(-)(PD)"
+	description "BBC PD Disk 110 - M. Greshaw & S. Lazareno (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 110 - M. Greshaw & S. Lazareno (19xx)(-)(PD).dsd" size 409600 crc fb96ecc5 md5 6d9dedd7863043ab10969bd7f1a70eb5 )
+)
+
+game (
+	name "BBC PD Disk 111 - Village of Secrets & Others (19xx)(-)(PD)"
+	description "BBC PD Disk 111 - Village of Secrets & Others (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 111 - Village of Secrets & Others (19xx)(-)(PD).dsd" size 409600 crc 6bc81fe4 md5 e4a4bf7e86a840ba483fbe77a2eaa782 )
+)
+
+game (
+	name "BBC PD Disk 112 - Early Learning Touchscreen (19xx)(-)(PD)"
+	description "BBC PD Disk 112 - Early Learning Touchscreen (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 112 - Early Learning Touchscreen (19xx)(-)(PD).dsd" size 409600 crc 62e873c4 md5 acb208f957fccf36871cf6a58557a188 )
+)
+
+game (
+	name "BBC PD Disk 113 - Educational Software (19xx)(-)(PD)"
+	description "BBC PD Disk 113 - Educational Software (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 113 - Educational Software (19xx)(-)(PD).dsd" size 409600 crc c4a36b55 md5 698691c9a125d393eaffd331eca694b7 )
+)
+
+game (
+	name "BBC PD Disk 114-1 - Wapping Editor Cllipart (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 114-1 - Wapping Editor Cllipart (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 114-1 - Wapping Editor Cllipart (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 385fe42d md5 18279ce02f5fa7e1e391b1a42545e306 )
+)
+
+game (
+	name "BBC PD Disk 114-2 - Wapping Editor Cllipart (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 114-2 - Wapping Editor Cllipart (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 114-2 - Wapping Editor Cllipart (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc 25c22fa0 md5 2b43510e08b0153f3e32be6b7746f7b3 )
+)
+
+game (
+	name "BBC PD Disk 116 - Fractal Disk v0.1 (1991)(-)(PD)"
+	description "BBC PD Disk 116 - Fractal Disk v0.1 (1991)(-)(PD)"
+	rom ( name "BBC PD Disk 116 - Fractal Disk v0.1 (1991)(-)(PD).dsd" size 409600 crc 5d697c07 md5 74323ccf9c4b82624bd19c0e5bebb5b2 )
+)
+
+game (
+	name "BBC PD Disk 117 - Silly Games Disc (1992)(-)(PD)"
+	description "BBC PD Disk 117 - Silly Games Disc (1992)(-)(PD)"
+	rom ( name "BBC PD Disk 117 - Silly Games Disc (1992)(-)(PD).dsd" size 409600 crc 654e4557 md5 afdce567c1799c7be4d400d601c7653e )
+)
+
+game (
+	name "BBC PD Disk 118-1 - Dictionary Access (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 118-1 - Dictionary Access (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 118-1 - Dictionary Access (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 144b4521 md5 858e1e2bde614d440d3a98d5df40c192 )
+)
+
+game (
+	name "BBC PD Disk 118-2 - Dictionary Access (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 118-2 - Dictionary Access (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 118-2 - Dictionary Access (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc bf0b6fdb md5 3df43fc83fc5e0adfa6080cfbcaa997a )
+)
+
+game (
+	name "BBC PD Disk 119 (19xx)(-)(PD)"
+	description "BBC PD Disk 119 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 119 (19xx)(-)(PD).dsd" size 409600 crc 8344d170 md5 c592ce67bb31dcb7b429d03f3baa5227 )
+)
+
+game (
+	name "BBC PD Disk 120 - BBC Games Disc (19xx)(-)(PD)"
+	description "BBC PD Disk 120 - BBC Games Disc (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 120 - BBC Games Disc (19xx)(-)(PD).dsd" size 409600 crc 9cdd82c0 md5 5cc590d5a928a7b4fc1a6041da1b517d )
+)
+
+game (
+	name "BBC PD Disk 124 - Geography & History (19xx)(-)(PD)"
+	description "BBC PD Disk 124 - Geography & History (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 124 - Geography & History (19xx)(-)(PD).dsd" size 409600 crc 15c66eb4 md5 0dc317282ca9fce1d0b7f5f2048fe174 )
+)
+
+game (
+	name "BBC PD Disk 125 - Geography & History (19xx)(-)(PD)"
+	description "BBC PD Disk 125 - Geography & History (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 125 - Geography & History (19xx)(-)(PD).dsd" size 409600 crc f928adbb md5 e536b4186a67ed80a1b61ba6ab551958 )
+)
+
+game (
+	name "BBC PD Disk 129 - Beginner's Help Disc (1990)(-)(PD)"
+	description "BBC PD Disk 129 - Beginner's Help Disc (1990)(-)(PD)"
+	rom ( name "BBC PD Disk 129 - Beginner's Help Disc (1990)(-)(PD).dsd" size 409600 crc da066e65 md5 f64c08410b863d11ee6cca28b2f60481 )
+)
+
+game (
+	name "BBC PD Disk 130 - Simple Math Practice (19xx)(-)(PD)"
+	description "BBC PD Disk 130 - Simple Math Practice (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 130 - Simple Math Practice (19xx)(-)(PD).dsd" size 409600 crc 16333c23 md5 325dfbe859371a9bfe431520d4c18731 )
+)
+
+game (
+	name "BBC PD Disk 133 - C. Pinnock & Others (19xx)(-)(PD)"
+	description "BBC PD Disk 133 - C. Pinnock & Others (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 133 - C. Pinnock & Others (19xx)(-)(PD).dsd" size 409600 crc a1919b72 md5 7da6f112aa8230265871c7b8090f4797 )
+)
+
+game (
+	name "BBC PD Disk 134 (19xx)(-)(PD)"
+	description "BBC PD Disk 134 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 134 (19xx)(-)(PD).dsd" size 409600 crc 828a9cf8 md5 d7ee6a0856826b355322d620adfa53ab )
+)
+
+game (
+	name "BBC PD Disk 135 - H. Harper & Farmer (19xx)(-)(PD)"
+	description "BBC PD Disk 135 - H. Harper & Farmer (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 135 - H. Harper & Farmer (19xx)(-)(PD).dsd" size 409600 crc 2b42ae55 md5 3bc260ab79d5d49e82dee5e0c8c7c6b4 )
+)
+
+game (
+	name "BBC PD Disk 136 - Welsh Boys PD Collection (19xx)(-)(PD)"
+	description "BBC PD Disk 136 - Welsh Boys PD Collection (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 136 - Welsh Boys PD Collection (19xx)(-)(PD).dsd" size 409600 crc 773e1290 md5 f8cd1a57efcf545f4cbbedd4c7fd7e78 )
+)
+
+game (
+	name "BBC PD Disk 137-1 - Psychebrot (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 137-1 - Psychebrot (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 137-1 - Psychebrot (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc 5ea3cfac md5 7d6be07ff3c1a10b0cfc1c7f5f2cff0d )
+)
+
+game (
+	name "BBC PD Disk 137-2 - Psychebrot (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 137-2 - Psychebrot (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 137-2 - Psychebrot (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc d702e17d md5 70798e126c52816484713031c3ad6431 )
+)
+
+game (
+	name "BBC PD Disk 140 - Mixture (19xx)(-)(PD)"
+	description "BBC PD Disk 140 - Mixture (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 140 - Mixture (19xx)(-)(PD).dsd" size 409600 crc fbbee493 md5 32386aac88c63175c4c014ec246eda35 )
+)
+
+game (
+	name "BBC PD Disk 143 - Karos Gites & ROMs (19xx)(-)(PD)"
+	description "BBC PD Disk 143 - Karos Gites & ROMs (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 143 - Karos Gites & ROMs (19xx)(-)(PD).dsd" size 409600 crc dac45a9d md5 6d8dbda787352c67e03746707f381ad4 )
+)
+
+game (
+	name "BBC PD Disk 146 (19xx)(-)(PD)"
+	description "BBC PD Disk 146 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 146 (19xx)(-)(PD).dsd" size 409600 crc 49d9e8fb md5 88935f86b6e62c4b908a2da773fc8966 )
+)
+
+game (
+	name "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD)"
+	description "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 147 - Hints & Tips (19xx)(-)(PD).dsd" size 409600 crc 6f36e3b4 md5 12b13079538f5e8dd8cc096ce041b40b )
+)
+
+game (
+	name "BBC PD Disk 148 - Parameter Math (19xx)(-)(PD)"
+	description "BBC PD Disk 148 - Parameter Math (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 148 - Parameter Math (19xx)(-)(PD).dsd" size 409600 crc 09482292 md5 156c53467f3294db1e49c3c415c5f69a )
+)
+
+game (
+	name "BBC PD Disk 152 - Horoscope (19xx)(-)(PD)"
+	description "BBC PD Disk 152 - Horoscope (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 152 - Horoscope (19xx)(-)(PD).dsd" size 409600 crc 5f33fa8b md5 76a385cb4ef88fe1ff35378461de2793 )
+)
+
+game (
+	name "BBC PD Disk 153 - PD Publisher v2.17 (19xx)(-)(PD)"
+	description "BBC PD Disk 153 - PD Publisher v2.17 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 153 - PD Publisher v2.17 (19xx)(-)(PD).dsd" size 409600 crc 28646b75 md5 8b9e48fce321154e98728823afb813e3 )
+)
+
+game (
+	name "BBC PD Disk 156-1 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 1 of 2)(PD)"
+	description "BBC PD Disk 156-1 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 1 of 2)(PD)"
+	rom ( name "BBC PD Disk 156-1 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 1 of 2)(PD).dsd" size 409600 crc f000412b md5 35e552051055f6ad907f88f79c842830 )
+)
+
+game (
+	name "BBC PD Disk 156-2 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 2 of 2)(PD)"
+	description "BBC PD Disk 156-2 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 2 of 2)(PD)"
+	rom ( name "BBC PD Disk 156-2 - BBC Magazine Index - Yellow Disc v2.00 (19xx)(-)(Disk 2 of 2)(PD).dsd" size 409600 crc 1174d337 md5 fa67043741640188a7f3e06e3e061f22 )
+)
+
+game (
+	name "BBC PD Disk 157 - Software from Poland (19xx)(-)(PD)"
+	description "BBC PD Disk 157 - Software from Poland (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 157 - Software from Poland (19xx)(-)(PD).dsd" size 409600 crc 603c9472 md5 072128634ac632e6a28fb8082ac91bb8 )
+)
+
+game (
+	name "BBC PD Disk 159 - WEP Educational Software (19xx)(-)(PD)[PDMENU]"
+	description "BBC PD Disk 159 - WEP Educational Software (19xx)(-)(PD)[PDMENU]"
+	rom ( name "BBC PD Disk 159 - WEP Educational Software (19xx)(-)(PD)[PDMENU].dsd" size 409600 crc d04ebb3b md5 34dcc770554ac9bb2535c740b4934286 )
+)
+
+game (
+	name "BBC PD Disk 160 - Mad Rabbit Software (19xx)(-)(PD)"
+	description "BBC PD Disk 160 - Mad Rabbit Software (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 160 - Mad Rabbit Software (19xx)(-)(PD).dsd" size 409600 crc 6d3fa365 md5 10dbd3024e86de567c5e36b0f5d5a8a5 )
+)
+
+game (
+	name "BBC PD Disk 161 (19xx)(-)(PD)[b]"
+	description "BBC PD Disk 161 (19xx)(-)(PD)[b]"
+	rom ( name "BBC PD Disk 161 (19xx)(-)(PD)[b].dsd" size 409600 crc d72545cf md5 e84737d59a02eab75753d80987a6235f )
+)
+
+game (
+	name "BBC PD Disk 164 - Star Trek Text Files (19xx)(-)(PD)"
+	description "BBC PD Disk 164 - Star Trek Text Files (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 164 - Star Trek Text Files (19xx)(-)(PD).dsd" size 409600 crc 9862ecfc md5 5c12447418907e391330af76b8bed6d2 )
+)
+
+game (
+	name "BBC PD Disk 165 - BB-047 Red Dwarf Documents (19xx)(-)(PD)"
+	description "BBC PD Disk 165 - BB-047 Red Dwarf Documents (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 165 - BB-047 Red Dwarf Documents (19xx)(-)(PD).dsd" size 409600 crc 1d055b6c md5 41b944d545fb99a80c322c71862a2dc5 )
+)
+
+game (
+	name "BBC PD Disk 166 - Disc JL9 (19xx)(-)(PD)"
+	description "BBC PD Disk 166 - Disc JL9 (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 166 - Disc JL9 (19xx)(-)(PD).dsd" size 409600 crc dda360a4 md5 021195bf0a6c5b74643500b2a8d4ccce )
+)
+
+game (
+	name "BBC PD Disk 167 - Mad Rabbit Software (19xx)(-)(PD)"
+	description "BBC PD Disk 167 - Mad Rabbit Software (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 167 - Mad Rabbit Software (19xx)(-)(PD).dsd" size 409600 crc b06fb9e6 md5 342a1917fb69a1301f2e8eedbe377a8d )
+)
+
+game (
+	name "BBC PD Disk 169 - Various (19xx)(-)(PD)"
+	description "BBC PD Disk 169 - Various (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 169 - Various (19xx)(-)(PD).dsd" size 409600 crc 34a4657d md5 fe0d2af54cb5910170721ea682eed2c4 )
+)
+
+game (
+	name "BBC PD Disk 170 - Various (19xx)(-)(PD)"
+	description "BBC PD Disk 170 - Various (19xx)(-)(PD)"
+	rom ( name "BBC PD Disk 170 - Various (19xx)(-)(PD).dsd" size 409600 crc 997b80d9 md5 47197d0e22818a9dacee54cf2964c243 )
+)
+
+game (
+	name "BBC PD Disk 172 (19xx)(-)(PD)[h 8-Bit]"
+	description "BBC PD Disk 172 (19xx)(-)(PD)[h 8-Bit]"
+	rom ( name "BBC PD Disk 172 (19xx)(-)(PD)[h 8-Bit].dsd" size 409600 crc a9cdeee5 md5 50ce2367ba94a6578034ce25b1d99623 )
+)
+
+game (
+	name "Cheats (19xx)(8-Bit)"
+	description "Cheats (19xx)(8-Bit)"
+	rom ( name "Cheats (19xx)(8-Bit).dsd" size 409600 crc f22507d0 md5 770e417d3d5c490ccacce0170de21089 )
+)
+
+game (
+	name "Cheats 'n Things - Disc 2 (19xx)(Richardson, C.J.)"
+	description "Cheats 'n Things - Disc 2 (19xx)(Richardson, C.J.)"
+	rom ( name "Cheats 'n Things - Disc 2 (19xx)(Richardson, C.J.).dsd" size 409600 crc 28eb6503 md5 98446400395a3571a67721b7abcecc19 )
+)
+
+game (
+	name "Compression - Decompression Utilities (19xx)(8-Bit)"
+	description "Compression - Decompression Utilities (19xx)(8-Bit)"
+	rom ( name "Compression - Decompression Utilities (19xx)(8-Bit).dsd" size 409600 crc c37042d0 md5 c385a740d15d20a377ab1a7eceba52d0 )
+)
+
+game (
+	name "Computer Concepts ROMS (19xx)(Computer Concepts)"
+	description "Computer Concepts ROMS (19xx)(Computer Concepts)"
+	rom ( name "Computer Concepts ROMS (19xx)(Computer Concepts).dsd" size 409600 crc 2e6c4550 md5 2abb690628fe74572a2daa562ae1c783 )
+)
+
+game (
+	name "Discmaster (19xx)(Beebug)"
+	description "Discmaster (19xx)(Beebug)"
+	rom ( name "Discmaster (19xx)(Beebug).dsd" size 409600 crc b68328f3 md5 dd2e3596353fb9e720a2f44775c7be7e )
+)
+
+game (
+	name "Disk Copy Utilities (19xx)(-)"
+	description "Disk Copy Utilities (19xx)(-)"
+	rom ( name "Disk Copy Utilities (19xx)(-).dsd" size 409600 crc 8d6faed2 md5 c7e015c98bdb6d8cf7449546ba8b9e37 )
+)
+
+game (
+	name "Disk User 15 (19xx)(-)"
+	description "Disk User 15 (19xx)(-)"
+	rom ( name "Disk User 15 (19xx)(-).dsd" size 409600 crc 34115a19 md5 b550abae16ff34aae780b6283ac5322a )
+)
+
+game (
+	name "Education - Spelling - Shapes - Spatial (19xx)(8-Bit)"
+	description "Education - Spelling - Shapes - Spatial (19xx)(8-Bit)"
+	rom ( name "Education - Spelling - Shapes - Spatial (19xx)(8-Bit).dsd" size 409600 crc 022b8869 md5 a713ed9499662a9b8e5cd052d89afdfa )
+)
+
+game (
+	name "Fantasy Clipart (1994)(GFX)[h 8-Bit]"
+	description "Fantasy Clipart (1994)(GFX)[h 8-Bit]"
+	rom ( name "Fantasy Clipart (1994)(GFX)[h 8-Bit].dsd" size 409600 crc b109016b md5 9e89741eed3452474750866701f73556 )
+)
+
+game (
+	name "Firebird Games (19xx)(-)"
+	description "Firebird Games (19xx)(-)"
+	rom ( name "Firebird Games (19xx)(-).dsd" size 409600 crc 4aa67947 md5 998cbef8dbb30bc849291cfa12efcb4e )
+)
+
+game (
+	name "Fonts & Cutouts Disc v2 (1993)(8-Bit)"
+	description "Fonts & Cutouts Disc v2 (1993)(8-Bit)"
+	rom ( name "Fonts & Cutouts Disc v2 (1993)(8-Bit).dsd" size 409600 crc ad4acc1f md5 82e3be33ccd5bf760db4fd91e7b6b3ed )
+)
+
+game (
+	name "Fonts Special 1 (19xx)(8-Bit)"
+	description "Fonts Special 1 (19xx)(8-Bit)"
+	rom ( name "Fonts Special 1 (19xx)(8-Bit).dsd" size 409600 crc 03a4e8b9 md5 0e8690c60aae80eeb3f8514a51b6788e )
+)
+
+game (
+	name "Fonts Special 2 (19xx)(8-Bit)"
+	description "Fonts Special 2 (19xx)(8-Bit)"
+	rom ( name "Fonts Special 2 (19xx)(8-Bit).dsd" size 409600 crc 46c9adb8 md5 815d380aee7d76a9e6cacc47e8ae6db1 )
+)
+
+game (
+	name "Games #24 (19xx)(-)"
+	description "Games #24 (19xx)(-)"
+	rom ( name "Games #24 (19xx)(-).dsd" size 409600 crc e5f69c95 md5 17f1444c371689f4948a45b11936754f )
+)
+
+game (
+	name "Games #26 (19xx)(-)"
+	description "Games #26 (19xx)(-)"
+	rom ( name "Games #26 (19xx)(-).dsd" size 409600 crc dc791334 md5 77cdb87ce87036f366ff3c73fd81be08 )
+)
+
+game (
+	name "Games 65 (19xx)(-)"
+	description "Games 65 (19xx)(-)"
+	rom ( name "Games 65 (19xx)(-).dsd" size 409600 crc f6c4d8de md5 77bb4b623be34b9104d243aeefd08723 )
+)
+
+game (
+	name "Games and Utilties (19xx)(Richardson, C.J.)"
+	description "Games and Utilties (19xx)(Richardson, C.J.)"
+	rom ( name "Games and Utilties (19xx)(Richardson, C.J.).dsd" size 409600 crc 7de498cc md5 c332b47a1fe2ac5039d062339b23d836 )
+)
+
+game (
+	name "Games Compendium 1 (19xx)(-)"
+	description "Games Compendium 1 (19xx)(-)"
+	rom ( name "Games Compendium 1 (19xx)(-).dsd" size 409600 crc 5f8f73fc md5 ad41946993985653f1bd24ee3aa670fa )
+)
+
+game (
+	name "Games D-2 (19xx)(-)"
+	description "Games D-2 (19xx)(-)"
+	rom ( name "Games D-2 (19xx)(-).dsd" size 409600 crc e65e96cf md5 4eb4decad165515b003e92b1415aa7bf )
+)
+
+game (
+	name "Games Disk 005 - 9 Games (19xx)(-)"
+	description "Games Disk 005 - 9 Games (19xx)(-)"
+	rom ( name "Games Disk 005 - 9 Games (19xx)(-).dsd" size 278272 crc 0aff890b md5 45ab537dc2a2dfe589dfe9b21aeccaca )
+)
+
+game (
+	name "Games Disk 006 - 24 Games (19xx)(-)"
+	description "Games Disk 006 - 24 Games (19xx)(-)"
+	rom ( name "Games Disk 006 - 24 Games (19xx)(-).dsd" size 361985 crc c064ab27 md5 5c097982538e1e7b0f1729e127b15929 )
+)
+
+game (
+	name "Games Disk Blandet (19xx)(-)"
+	description "Games Disk Blandet (19xx)(-)"
+	rom ( name "Games Disk Blandet (19xx)(-).dsd" size 409600 crc ea81b03e md5 b99dd12442a1217aa7be94b4dce33e96 )
+)
+
+game (
+	name "Games E-1 (19xx)(-)"
+	description "Games E-1 (19xx)(-)"
+	rom ( name "Games E-1 (19xx)(-).dsd" size 409600 crc 7afc45c5 md5 aa196d8dc97773b7e785a721a0381d4c )
+)
+
+game (
+	name "Games for Cheaters (19xx)(-)"
+	description "Games for Cheaters (19xx)(-)"
+	rom ( name "Games for Cheaters (19xx)(-).dsd" size 409600 crc 57aeec2b md5 5be36624d890c7dc227440fa98fc0faf )
+)
+
+game (
+	name "Games G-H (19xx)(-)"
+	description "Games G-H (19xx)(-)"
+	rom ( name "Games G-H (19xx)(-).dsd" size 409600 crc 44b5a504 md5 6e51028db28c428f28d32d70b187a95e )
+)
+
+game (
+	name "Games I-J (19xx)(-)"
+	description "Games I-J (19xx)(-)"
+	rom ( name "Games I-J (19xx)(-).dsd" size 409600 crc 28239bfc md5 35891ffca9b0f21f3d5810659130d9cb )
+)
+
+game (
+	name "Games K-L (19xx)(-)"
+	description "Games K-L (19xx)(-)"
+	rom ( name "Games K-L (19xx)(-).dsd" size 409600 crc a0b43d30 md5 feb59f87f421e67e72f9227d6ecd59c7 )
+)
+
+game (
+	name "Games M-1 (19xx)(-)"
+	description "Games M-1 (19xx)(-)"
+	rom ( name "Games M-1 (19xx)(-).dsd" size 409600 crc 36b18b82 md5 bcc0e8b9d7bc3e2871d634ad4f87d633 )
+)
+
+game (
+	name "Games M-2 (19xx)(-)"
+	description "Games M-2 (19xx)(-)"
+	rom ( name "Games M-2 (19xx)(-).dsd" size 409600 crc 9c69d61e md5 166b5a7590f43620716a7403e2f351ea )
+)
+
+game (
+	name "Games N-O (19xx)(-)"
+	description "Games N-O (19xx)(-)"
+	rom ( name "Games N-O (19xx)(-).dsd" size 409600 crc 1dd352fa md5 ade0a3eee0695c468c10701a31441ded )
+)
+
+game (
+	name "Games P-Q (19xx)(-)"
+	description "Games P-Q (19xx)(-)"
+	rom ( name "Games P-Q (19xx)(-).dsd" size 409600 crc 7e2c4b7f md5 1fbc966aa441f8cfa61fbfecd4f09904 )
+)
+
+game (
+	name "Games R-S (19xx)(-)"
+	description "Games R-S (19xx)(-)"
+	rom ( name "Games R-S (19xx)(-).dsd" size 409600 crc 0ab88105 md5 588df802a6d098afd9a962196e6ee85b )
+)
+
+game (
+	name "Games T-U (19xx)(-)"
+	description "Games T-U (19xx)(-)"
+	rom ( name "Games T-U (19xx)(-).dsd" size 409600 crc cd9ae376 md5 578558a076d293e6946e22cf744322e7 )
+)
+
+game (
+	name "GLM PD (1990)(GLM)(PD)"
+	description "GLM PD (1990)(GLM)(PD)"
+	rom ( name "GLM PD (1990)(GLM)(PD).dsd" size 409600 crc f7fbe0dc md5 6f5428435a3581d802fd6ee841ad3253 )
+)
+
+game (
+	name "GLM PD Demo Disc (19xx)(GLM)(PD)"
+	description "GLM PD Demo Disc (19xx)(GLM)(PD)"
+	rom ( name "GLM PD Demo Disc (19xx)(GLM)(PD).dsd" size 409600 crc 0cb30541 md5 3006a346588db31a4f93454ba44cac86 )
+)
+
+game (
+	name "Growing Yourself (19xx)(-)"
+	description "Growing Yourself (19xx)(-)"
+	rom ( name "Growing Yourself (19xx)(-).dsd" size 409600 crc f7fab297 md5 12f08f919d2c01ab72db24928d82f05b )
+)
+
+game (
+	name "Ham Radio Programs (19xx)(-)[h 8-Bit]"
+	description "Ham Radio Programs (19xx)(-)[h 8-Bit]"
+	rom ( name "Ham Radio Programs (19xx)(-)[h 8-Bit].dsd" size 409600 crc 2ca69aa6 md5 ee1532673ac776481c1e029789292527 )
+)
+
+game (
+	name "Harston PD Library - Informant Help (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Informant Help (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Informant Help (19xx)(Harston, J.G.)(PD).dsd" size 409600 crc a7f464d4 md5 db6ea854a6ee456490f4e1dd85702216 )
+)
+
+game (
+	name "Harston PD Library - Mugins Level 2 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Mugins Level 2 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Mugins Level 2 (19xx)(Harston, J.G.)(PD).dsd" size 409600 crc 8fdde384 md5 00edde01b783d329df89b1d91858c944 )
+)
+
+game (
+	name "Harston PD Library Catalogue (19xx)(-)(PD)"
+	description "Harston PD Library Catalogue (19xx)(-)(PD)"
+	rom ( name "Harston PD Library Catalogue (19xx)(-)(PD).dsd" size 409600 crc 9a2aeee7 md5 60922e8edc1d3b56cbcff31881d42f1f )
+)
+
+game (
+	name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)[b]"
+	description "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)[b]"
+	rom ( name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)[b].dsd" size 409600 crc d4c76f7f md5 81b12d4ba0bb8876db9c6efdf24be8b5 )
+)
+
+game (
+	name "InterTexts, Comms, Etc. (19xx)(-)[h 8-Bit]"
+	description "InterTexts, Comms, Etc. (19xx)(-)[h 8-Bit]"
+	rom ( name "InterTexts, Comms, Etc. (19xx)(-)[h 8-Bit].dsd" size 409600 crc bec6ca2b md5 975feedd276895e35626c748b6946905 )
+)
+
+game (
+	name "JJF PD Disk 07 - Fonts (19xx)(Farmer, J.)(PD)[b]"
+	description "JJF PD Disk 07 - Fonts (19xx)(Farmer, J.)(PD)[b]"
+	rom ( name "JJF PD Disk 07 - Fonts (19xx)(Farmer, J.)(PD)[b].dsd" size 409600 crc 993c708b md5 136ad1cf1d32ac005603e72183f6be1a )
+)
+
+game (
+	name "JJF PD Disk 11-1 - Fractals A-I (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 11-1 - Fractals A-I (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 11-1 - Fractals A-I (19xx)(Farmer, J.)(PD).dsd" size 409600 crc 25f9e7c9 md5 beecc8a14db97180ee652e534dcf97d8 )
+)
+
+game (
+	name "JJF PD Disk 11-2 - Fractals J-N (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 11-2 - Fractals J-N (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 11-2 - Fractals J-N (19xx)(Farmer, J.)(PD).dsd" size 409600 crc 8ff257d3 md5 e6a1e885a203b3c8230ddd4caee0a066 )
+)
+
+game (
+	name "JJF PD Disk 34 (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 34 (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 34 (19xx)(Farmer, J.)(PD).dsd" size 409600 crc 856da633 md5 40c1820b3a78e24930b6c1e25967af2f )
+)
+
+game (
+	name "JJF PD Disk 37 (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 37 (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 37 (19xx)(Farmer, J.)(PD).dsd" size 409600 crc 4cbd421d md5 6c6e890fab1faa8cda0c3eeb4660b55b )
+)
+
+game (
+	name "Mix Mania (1990)(Yorkshire Boys)[RUN !BOOT]"
+	description "Mix Mania (1990)(Yorkshire Boys)[RUN !BOOT]"
+	rom ( name "Mix Mania (1990)(Yorkshire Boys)[RUN !BOOT].dsd" size 409600 crc 0dd496b4 md5 3ef24b3a00c92f4df9cbbf38bcffb826 )
+)
+
+game (
+	name "Mix Mania II (1991)(Yorkshire Boys)[RUN !BOOT]"
+	description "Mix Mania II (1991)(Yorkshire Boys)[RUN !BOOT]"
+	rom ( name "Mix Mania II (1991)(Yorkshire Boys)[RUN !BOOT].dsd" size 409600 crc 2eeb547c md5 0d29eb03f914e0290653a21af4b84b09 )
+)
+
+game (
+	name "Music Menu System (19xx)(-)[h 8-Bit]"
+	description "Music Menu System (19xx)(-)[h 8-Bit]"
+	rom ( name "Music Menu System (19xx)(-)[h 8-Bit].dsd" size 409600 crc 3df53d06 md5 87b21a07d954aa744e97faf254a577ed )
+)
+
+game (
+	name "PD Fonts Disk (19xx)(GFX)[h 8-Bit]"
+	description "PD Fonts Disk (19xx)(GFX)[h 8-Bit]"
+	rom ( name "PD Fonts Disk (19xx)(GFX)[h 8-Bit].dsd" size 409600 crc 98009cf2 md5 7ce0aa430b84b61d349fa57df66f9a2c )
+)
+
+game (
+	name "Program Power 1 (19xx)(-)"
+	description "Program Power 1 (19xx)(-)"
+	rom ( name "Program Power 1 (19xx)(-).dsd" size 409600 crc 45762cc9 md5 6a9fc646e1a367d9373e8d321139d206 )
+)
+
+game (
+	name "Program Power 2 (19xx)(-)"
+	description "Program Power 2 (19xx)(-)"
+	rom ( name "Program Power 2 (19xx)(-).dsd" size 409600 crc 1513b25e md5 98cb4a8fd8840452213d50dba7505bf3 )
+)
+
+game (
+	name "Programs - To PD Disc 4 (19xx)(Richardson, C.J.)(PD)"
+	description "Programs - To PD Disc 4 (19xx)(Richardson, C.J.)(PD)"
+	rom ( name "Programs - To PD Disc 4 (19xx)(Richardson, C.J.)(PD).dsd" size 409600 crc a2e50ac4 md5 b8dc0c0e2a7773602b6f2bb4acb07678 )
+)
+
+game (
+	name "Programs - To PD Disc 5 (19xx)(Richardson, C.J.)(PD)"
+	description "Programs - To PD Disc 5 (19xx)(Richardson, C.J.)(PD)"
+	rom ( name "Programs - To PD Disc 5 (19xx)(Richardson, C.J.)(PD).dsd" size 409600 crc 6e177196 md5 72b19355a6a1e2220966c9449b70f27c )
+)
+
+game (
+	name "Programs - To PD Disc 6 (19xx)(Richardson, C.J.)(PD)"
+	description "Programs - To PD Disc 6 (19xx)(Richardson, C.J.)(PD)"
+	rom ( name "Programs - To PD Disc 6 (19xx)(Richardson, C.J.)(PD).dsd" size 409600 crc 944a0741 md5 940575ebd777d433cd1ddb84ba77ee1b )
+)
+
+game (
+	name "Programs Vol. 3 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	description "Programs Vol. 3 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	rom ( name "Programs Vol. 3 (19xx)(Dewhurst, C.)[h 8-Bit].dsd" size 409600 crc 4c8f1f05 md5 02ac19486b40e07b722ba8849cc8c4fe )
+)
+
+game (
+	name "Programs Vol. 4 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	description "Programs Vol. 4 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	rom ( name "Programs Vol. 4 (19xx)(Dewhurst, C.)[h 8-Bit].dsd" size 409600 crc a7d53952 md5 825fe45e773cf42479c6a450668b2dd2 )
+)
+
+game (
+	name "Radio Amateur Software (19xx)(8-Bit)"
+	description "Radio Amateur Software (19xx)(8-Bit)"
+	rom ( name "Radio Amateur Software (19xx)(8-Bit).dsd" size 409600 crc eb7f6f1a md5 89e0eb26024028dd97fb51d3dae61df4 )
+)
+
+game (
+	name "Software Invasion Games (19xx)(-)"
+	description "Software Invasion Games (19xx)(-)"
+	rom ( name "Software Invasion Games (19xx)(-).dsd" size 409600 crc 5942d22a md5 14ce401e950adfd7916e7c91dcb178a7 )
+)
+
+game (
+	name "Solidisk and Assorted ROMs (19xx)(-)"
+	description "Solidisk and Assorted ROMs (19xx)(-)"
+	rom ( name "Solidisk and Assorted ROMs (19xx)(-).dsd" size 409600 crc 1b3dd0ff md5 4ac43f5a754fc32989a88daf415ef5b9 )
+)
+
+game (
+	name "Spel 04 and 05 (19xx)(-)"
+	description "Spel 04 and 05 (19xx)(-)"
+	rom ( name "Spel 04 and 05 (19xx)(-).dsd" size 377857 crc 3b29a80c md5 5fbd10f0fb3e7ea33e439c8c901c888d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc 4D1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc 4D1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc 4D1-r1 (19xx)(-).dsd" size 294400 crc 4603fecb md5 3b073fc60c0317d0ce174519ec2f7ab8 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc 4D2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc 4D2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc 4D2-r1 (19xx)(-).dsd" size 319744 crc 2cc9802d md5 2d7e8069ab609195bc31390db410b481 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc A1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc A1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc A1-r1 (19xx)(-).dsd" size 391424 crc 1f4500ff md5 fa9ad25161a69de93c54225999969f9a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc A2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc A2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc A2-r1 (19xx)(-).dsd" size 367360 crc 8aa8be1e md5 34708b79b186c83d6e2f5273f39f4a37 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc A3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc A3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc A3-r1 (19xx)(-).dsd" size 364800 crc 17b58838 md5 29ad6138d79748d7b51cb6e5917ffd3b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc A4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc A4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc A4-r1 (19xx)(-).dsd" size 309760 crc d0bf47cf md5 6277498dff289e8262d896b33d3e3f63 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AB1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AB1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AB1-r1 (19xx)(-).dsd" size 359936 crc 7b473934 md5 4eba545c2de87ef3b61358f1ad80b1c7 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AB2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AB2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AB2-r1 (19xx)(-).dsd" size 194048 crc 384d84cd md5 55c435a9e36bf88b684ce3ff58bbc4cf )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AC1-r1a (19xx)(-)"
+	description "Stairway to Hell - Games Disc AC1-r1a (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AC1-r1a (19xx)(-).dsd" size 386560 crc 88ccc476 md5 da61d93088544a23f043f9232974cbb8 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AC2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AC2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AC2-r1 (19xx)(-).dsd" size 342016 crc 0d272edf md5 173b962afab3eea950e1837d44168692 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AC3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AC3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AC3-r1 (19xx)(-).dsd" size 403200 crc b7625b56 md5 4abd0ac4964aed45c575bc43720ccbe0 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AC4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AC4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AC4-r1 (19xx)(-).dsd" size 359424 crc 71cf5e75 md5 e3bfab18d34e2641c6a11e474c408fb4 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AD1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AD1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AD1-r1 (19xx)(-).dsd" size 400896 crc 31ca5acb md5 a5fca423380e3a5df9d99f5cb7ee82d9 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AD2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AD2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AD2-r1 (19xx)(-).dsd" size 341760 crc d96b6f92 md5 37d417cc9bf6ba91714493a0c96bd75a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AD3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AD3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AD3-r1 (19xx)(-).dsd" size 247552 crc cd8d2d17 md5 fce54c7328ff6804cda5ebe7f20931c8 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AG1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AG1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AG1-r1 (19xx)(-).dsd" size 311040 crc 029a6dfc md5 c28e45f5cf7a39b1476679d33895de53 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AG2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AG2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AG2-r1 (19xx)(-).dsd" size 298240 crc 868a516f md5 bf733ba4c493558fef15168e1ed1de90 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AG3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AG3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AG3-r1 (19xx)(-).dsd" size 170496 crc 104c609b md5 aa656aeac8abb7120026dd58de8273d0 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AL1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AL1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AL1-r1 (19xx)(-).dsd" size 267264 crc 95d2a976 md5 d9f98dbfca62a562fc4c6e18892d3f73 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AP1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AP1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AP1-r1 (19xx)(-).dsd" size 247296 crc 274ba951 md5 f60a94868fc648899fc6afb0c2edb2fa )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AS1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AS1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AS1-r1 (19xx)(-).dsd" size 395776 crc 29282a8e md5 ce213b7cdc7ca9b7eb6902bdf614bd4d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AT1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AT1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AT1-r1 (19xx)(-).dsd" size 401664 crc 634c318c md5 beabcf6a4f6b7dd3e347d890a3967127 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AU1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AU1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AU1-r1 (19xx)(-).dsd" size 339200 crc 57282931 md5 70a3bf6b889460f3b445b4b507755630 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AU2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AU2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AU2-r1 (19xx)(-).dsd" size 224000 crc a605a435 md5 a4d61e0c4129a6a6863e614107b95022 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AU3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AU3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AU3-r1 (19xx)(-).dsd" size 204800 crc 91657ce3 md5 961e8943879c77b32b2383747ffff4be )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AU4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AU4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AU4-r1 (19xx)(-).dsd" size 292608 crc cb0a215d md5 01a884a82f0aacd3a1947ae8f66c2d75 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc B1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc B1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc B1-r1 (19xx)(-).dsd" size 176384 crc 91adfd63 md5 5fd82609f54290f19eae774859dac33b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BB1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BB1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BB1-r1 (19xx)(-).dsd" size 303104 crc 525bed5f md5 2778aade1ef6e1b89b4792ea29369c0e )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BR1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BR1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BR1-r1 (19xx)(-).dsd" size 232448 crc d175c8fb md5 340fa99dcad5b53a93514e19c3f5b76f )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BR2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BR2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BR2-r1 (19xx)(-).dsd" size 231424 crc ddab3dc0 md5 6246207b5f1fccfa238c33128a3485ee )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BU1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BU1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BU1-r1 (19xx)(-).dsd" size 187392 crc b71ce190 md5 a4dfb44c2d1dca260fe3e0a6aa0961db )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BU2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BU2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BU2-r1 (19xx)(-).dsd" size 323840 crc 217d007e md5 475eaaf7be6c02cc7e133dbaf67a45fc )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BU3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BU3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BU3-r1 (19xx)(-).dsd" size 344320 crc e944ba49 md5 179a09ee7af426435c92313805b025e5 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc C1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc C1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc C1-r1 (19xx)(-).dsd" size 385280 crc ebea73af md5 aac2e2d52d39458e448c69d10733beca )
+)
+
+game (
+	name "Stairway to Hell - Games Disc C2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc C2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc C2-r1 (19xx)(-).dsd" size 260096 crc 71fa3c6c md5 36fa73321f90216e1be05f43d551fbcc )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CD1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CD1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CD1-r1 (19xx)(-).dsd" size 382720 crc 08575f19 md5 69c55b951563cf06798970844a41940c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH01-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH01-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH01-r1 (19xx)(-).dsd" size 384256 crc 76232969 md5 56263b47bb75d1a5d9f325b2308912e2 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH02-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH02-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH02-r1 (19xx)(-).dsd" size 393728 crc 79262d16 md5 f453e13278badfba9ebf73a9b2360383 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH03-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH03-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH03-r1 (19xx)(-).dsd" size 405760 crc 7517df02 md5 8f07039bb44df7eba37cf02f872a6eb3 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH04-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH04-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH04-r1 (19xx)(-).dsd" size 408064 crc 78dd54f6 md5 dafd39b9f7a1619035662c3b3d964707 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH05-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH05-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH05-r1 (19xx)(-).dsd" size 408576 crc 42f9056b md5 afdd6b8ddf32ef679c78fa8a7c596e68 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH06-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH06-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH06-r1 (19xx)(-).dsd" size 389120 crc ce4e0a94 md5 d514b6ea0529127e4b6b59a3a19c5947 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH07-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH07-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH07-r1 (19xx)(-).dsd" size 396800 crc 5fff038e md5 7f914a811d5b6fb9dbf3e2a4d9b698bb )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH08-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH08-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH08-r1 (19xx)(-).dsd" size 404480 crc 1d867379 md5 85b5ce7307b23a4e33aa0cab14d680ae )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH09-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH09-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH09-r1 (19xx)(-).dsd" size 332032 crc ccda6543 md5 5704aa30b3e64458a57b0b3de0adeafc )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH10-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH10-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH10-r1 (19xx)(-).dsd" size 390656 crc 030e4022 md5 cf008a575041dad1594b4e9c7982120e )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH11-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH11-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH11-r1 (19xx)(-).dsd" size 357120 crc a0fc9308 md5 1f861d2fbb4910fb3f7f843af9473723 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH12-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH12-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH12-r1 (19xx)(-).dsd" size 286976 crc 28461d77 md5 5d01faac8c99b2a577262148286cddd4 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH13-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH13-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH13-r1 (19xx)(-).dsd" size 335360 crc 78665588 md5 bd72cdd935e624d86520e92482e9ad14 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CH14-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CH14-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CH14-r1 (19xx)(-).dsd" size 220672 crc d19100c6 md5 7887990ee0702520ef0ea523c733e6dc )
+)
+
+game (
+	name "Stairway to Hell - Games Disc CM1-r2 (19xx)(-)"
+	description "Stairway to Hell - Games Disc CM1-r2 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc CM1-r2 (19xx)(-).dsd" size 376576 crc 3f34cf78 md5 dbfaf69ff89ae2dd6f9a52c2b1daf71d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc D1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc D1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc D1-r1 (19xx)(-).dsd" size 309760 crc 2ddce74f md5 cc9cb1fc8580cb82f522eacd73f73b86 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc D2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc D2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc D2-r1 (19xx)(-).dsd" size 328448 crc 8b49639c md5 9e3c3715574e08313afb34d25364eb1f )
+)
+
+game (
+	name "Stairway to Hell - Games Disc DB1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc DB1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc DB1-r1 (19xx)(-).dsd" size 260096 crc d4dafea6 md5 b72786352d3c0059165e3ff22081b733 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc DB2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc DB2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc DB2-r1 (19xx)(-).dsd" size 157696 crc cbf2c8d1 md5 b631c0f95ffed2f3f6e0cb7f226e4483 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc DO1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc DO1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc DO1-r1 (19xx)(-).dsd" size 329216 crc 73dbe2dd md5 0809bc2f504c2ae527b6f0a6b7b81824 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc DO2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc DO2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc DO2-r1 (19xx)(-).dsd" size 327936 crc c0a45d5a md5 57bdc722d2181609a031e7df0f688716 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc E1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc E1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc E1-r1 (19xx)(-).dsd" size 370688 crc 00091519 md5 37e99102f61f9e3cdf2626d85903ba00 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc E2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc E2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc E2-r1 (19xx)(-).dsd" size 403968 crc 330e34d8 md5 a38259a19e1dac6e4de9e28c6cf64c46 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc FB1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc FB1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc FB1-r1 (19xx)(-).dsd" size 409600 crc 0e5d13fa md5 180a9451d7822b8f921bdd8be65d3e77 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc G1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc G1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc G1-r1 (19xx)(-).dsd" size 261888 crc d8568556 md5 62c0692ab7c0ae0345a96437e8795729 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc H1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc H1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc H1-r1 (19xx)(-).dsd" size 407296 crc b23ccf84 md5 d1a1fe2d1182e4c85a298f6e93c25abc )
+)
+
+game (
+	name "Stairway to Hell - Games Disc I1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc I1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc I1-r1 (19xx)(-).dsd" size 387584 crc b7872b1f md5 5c0ebfd498df8b2505150ed5fd6632fa )
+)
+
+game (
+	name "Stairway to Hell - Games Disc IC1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc IC1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc IC1-r1 (19xx)(-).dsd" size 262912 crc 4bcd4780 md5 bf586c43b02e896c15912d6fbbcdcf93 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc IJ1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc IJ1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc IJ1-r1 (19xx)(-).dsd" size 292096 crc be659c31 md5 7a1b81d8f4f3c86f91160b076d87d4ce )
+)
+
+game (
+	name "Stairway to Hell - Games Disc IM1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc IM1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc IM1-r1 (19xx)(-).dsd" size 372224 crc c2ad739b md5 bb9b196555b0525183fa2bb39519b23b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc KA1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc KA1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc KA1-r1 (19xx)(-).dsd" size 379136 crc b50c2ca0 md5 614fd992aed872e753a8aced330376d6 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc L1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc L1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc L1-r1 (19xx)(-).dsd" size 395264 crc 0acc0586 md5 926b64f117cbb3d1a6a77e567c10a50d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc L2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc L2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc L2-r1 (19xx)(-).dsd" size 385024 crc 16acf67e md5 25c127868ff9150c76b4c19d42a770af )
+)
+
+game (
+	name "Stairway to Hell - Games Disc L3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc L3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc L3-r1 (19xx)(-).dsd" size 200448 crc 56473430 md5 036f4dab4b5f478f1fbbffba6435e0ac )
+)
+
+game (
+	name "Stairway to Hell - Games Disc LV1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc LV1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc LV1-r1 (19xx)(-).dsd" size 370432 crc a4165e0d md5 230d218771c61f355fc54cc35170b7ed )
+)
+
+game (
+	name "Stairway to Hell - Games Disc M1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc M1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc M1-r1 (19xx)(-).dsd" size 317440 crc f36eefd6 md5 f70b4498f23e2d6f3d486654200c600e )
+)
+
+game (
+	name "Stairway to Hell - Games Disc M2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc M2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc M2-r1 (19xx)(-).dsd" size 397824 crc a118b7c0 md5 b47bad65fadc3214df372bacd9e47cd3 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc M3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc M3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc M3-r1 (19xx)(-).dsd" size 320256 crc e1c1990d md5 2360e5a5a0458903abf6078a88fdc7d8 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MA1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MA1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MA1-r1 (19xx)(-).dsd" size 308480 crc db329652 md5 d8433f299c8022179728dcfbd9d17565 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MC1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MC1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MC1-r1 (19xx)(-).dsd" size 355584 crc 6fd85046 md5 62e92d647ed3f800e3de0361d6449770 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MI1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MI1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MI1-r1 (19xx)(-).dsd" size 363008 crc 32c5c7d1 md5 5281e347dac99e2228b8088ebc7dc1e2 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MI2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MI2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MI2-r1 (19xx)(-).dsd" size 330752 crc c18d04a5 md5 9d515f0e31b4cc16a9b09d1fd24c2b83 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MI31-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MI31-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MI31-r1 (19xx)(-).dsd" size 356096 crc 2bbefd66 md5 f8defa3a00267b9eca04756c9eab9b32 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MO1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MO1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MO1-r1 (19xx)(-).dsd" size 367104 crc ef088e8c md5 93151c7106ce02fb5b595daa5ba6ddb2 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MO2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MO2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MO2-r1 (19xx)(-).dsd" size 327936 crc 01971715 md5 8169ca3b844da1f5e47ade4ccd13c739 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MR1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MR1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MR1-r1 (19xx)(-).dsd" size 235520 crc e32bef70 md5 00d083df4b19afa1d967d03ed461a695 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc MS1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc MS1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc MS1-r1 (19xx)(-).dsd" size 193536 crc 724cd5db md5 b86cd74466e6f5ffdbf5b34f37799869 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc NO1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc NO1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc NO1-r1 (19xx)(-).dsd" size 348928 crc 5cff33ee md5 790e92395a3794c2cb21e89b06cb487a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc PQ1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc PQ1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc PQ1-r1 (19xx)(-).dsd" size 370944 crc f5b82685 md5 0a53dfd0a85cb815495b21cb1262616c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc PQ2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc PQ2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc PQ2-r1 (19xx)(-).dsd" size 399616 crc bdbf607e md5 cd264d41dcbcc8025fb1c954101a16c1 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc R1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc R1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc R1-r1 (19xx)(-).dsd" size 326400 crc 4373880e md5 07d04a4d01588d3719b0fe6af18e6844 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc RB1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc RB1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc RB1-r1 (19xx)(-).dsd" size 396032 crc 7d6603a3 md5 0effad8dd0214844ebf0e559b3f9c7d0 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc RB2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc RB2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc RB2-r1 (19xx)(-).dsd" size 209664 crc 28aad24c md5 2e4b879af2fbec7a957ec8e459d42abd )
+)
+
+game (
+	name "Stairway to Hell - Games Disc S1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc S1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc S1-r1 (19xx)(-).dsd" size 373504 crc 479f7e7b md5 a7bbf9e8f704f86dd7c95d3ed5eae502 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc S2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc S2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc S2-r1 (19xx)(-).dsd" size 397056 crc 49395dca md5 640b2b6caf2e093402589c8829a0622c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc S3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc S3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc S3-r1 (19xx)(-).dsd" size 335104 crc 581d4755 md5 cb9adcf65cfaf4edb6c51399f8e9a26c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SI1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SI1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SI1-r1 (19xx)(-).dsd" size 406016 crc ac654df8 md5 f8368a75975632f4e5de20c12b5e79b1 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU01-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU01-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU01-r1 (19xx)(-).dsd" size 307456 crc 5ee23e33 md5 2afa48ef130f356916ab4080fb5428c2 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU02-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU02-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU02-r1 (19xx)(-).dsd" size 366336 crc ab17c5ee md5 dd4ac1fc76ae931b3f536ba3ec00b05b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU03-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU03-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU03-r1 (19xx)(-).dsd" size 393216 crc c7a33b73 md5 1c441ed020798cc46ce54e5aabb9d58c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU04-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU04-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU04-r1 (19xx)(-).dsd" size 402944 crc b9117dbd md5 33718de4ec4b2785d1e434a90ba7ca09 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU05-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU05-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU05-r1 (19xx)(-).dsd" size 404224 crc c30104d0 md5 c94ab289ec62907fb3486ca15b71882c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU06-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU06-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU06-r1 (19xx)(-).dsd" size 406784 crc eb33269d md5 add965c42abd206f24cd7d4503b3ca78 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU07-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU07-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU07-r1 (19xx)(-).dsd" size 407040 crc 44d2049e md5 177780c3054564e2f897f3f5523d5881 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU08-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU08-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU08-r1 (19xx)(-).dsd" size 405504 crc c6d3141c md5 c017df74b1836d3a9f785befbdad4a3b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU09-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU09-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU09-r1 (19xx)(-).dsd" size 341760 crc 5542b01d md5 f0c1aa5018c3af2a1c41ac17435028c0 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU10-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU10-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU10-r1 (19xx)(-).dsd" size 384000 crc e7a846a1 md5 a5ee8d32601b4a9204316a7eb844fcbf )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU11-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU11-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU11-r1 (19xx)(-).dsd" size 317184 crc 88b94ff3 md5 6187167902f00ca0aae410e4990f60bb )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU12-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU12-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU12-r1 (19xx)(-).dsd" size 314112 crc 7151fa26 md5 953d37f9471fbce55231af7f872a7826 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU13-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU13-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU13-r1 (19xx)(-).dsd" size 312832 crc d7c08306 md5 3204821ed6835cedcf2b0f395b2ab017 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc SU14-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc SU14-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc SU14-r1 (19xx)(-).dsd" size 232192 crc a0c0afd7 md5 b588c694841a76d0b17b23a8afbd7ec0 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc T1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc T1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc T1-r1 (19xx)(-).dsd" size 275200 crc 9177e229 md5 6eb1c26fae44d31acf0cb9ca32d8cf1c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY1-r1 (19xx)(-).dsd" size 313600 crc 4175da5c md5 333adf934d7576a6ba3924969050fe8b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY2-r1 (19xx)(-).dsd" size 388864 crc d232e7cb md5 4c954502fa3cad3e17f533f103bfcbd1 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY3-r1 (19xx)(-).dsd" size 397824 crc 7eba3553 md5 5d0b0897a3473f9f2c849743aa01bd59 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY4-r1 (19xx)(-).dsd" size 286208 crc 7cf2b66b md5 d3b0c543720b94bea26baaf2bdb1f151 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY5-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY5-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY5-r1 (19xx)(-).dsd" size 191744 crc 708b9a70 md5 9aeb4209b40d16fabf2f901fb8e9787d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc U1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc U1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc U1-r1 (19xx)(-).dsd" size 405760 crc 7561ff49 md5 085ab1a33316c6e3900ecca8b4b7ab05 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc US1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc US1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc US1-r1 (19xx)(-).dsd" size 385792 crc 34145485 md5 f6b02c23aac637a43a0715128ff00d1d )
+)
+
+game (
+	name "Stairway to Hell - Games Disc v1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc v1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc v1-r1 (19xx)(-).dsd" size 239104 crc 770bd5f0 md5 2ac614cec9b5d33a248f1ed104ca9b7a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc VA1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc VA1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc VA1-r1 (19xx)(-).dsd" size 401408 crc 5021e455 md5 2ff7228e4828249bdd3b1e1b13a9c66b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc VA2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc VA2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc VA2-r1 (19xx)(-).dsd" size 396288 crc 4d46dccb md5 910113e5a42ffb1f71c24f603aa8fe7c )
+)
+
+game (
+	name "Stairway to Hell - Games Disc VA3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc VA3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc VA3-r1 (19xx)(-).dsd" size 200704 crc 445be066 md5 9c28d4ab2cac7ab34c9fd3947a29623f )
+)
+
+game (
+	name "Stairway to Hell - Games Disc WZ1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc WZ1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc WZ1-r1 (19xx)(-).dsd" size 224256 crc 79d9d058 md5 c2f78c8aef519faef2c8c267f6f80384 )
+)
+
+game (
+	name "Techno Graffiti (19xx)(-)"
+	description "Techno Graffiti (19xx)(-)"
+	rom ( name "Techno Graffiti (19xx)(-).dsd" size 408320 crc 3b47b2ad md5 52818e1329d2a534834fc2553aa85de2 )
+)
+
+game (
+	name "Tynesoft 1 (19xx)(-)"
+	description "Tynesoft 1 (19xx)(-)"
+	rom ( name "Tynesoft 1 (19xx)(-).dsd" size 409600 crc bb0e5cbc md5 210af69f60f31250cd0ffeda202c1ed6 )
+)
+
+game (
+	name "Tynesoft 2 (19xx)(-)"
+	description "Tynesoft 2 (19xx)(-)"
+	rom ( name "Tynesoft 2 (19xx)(-).dsd" size 409600 crc 64d172f2 md5 17dc2cd7268596e0d8f831d296e48c35 )
+)
+
+game (
+	name "U.S. Gold Games (19xx)(-)"
+	description "U.S. Gold Games (19xx)(-)"
+	rom ( name "U.S. Gold Games (19xx)(-).dsd" size 409600 crc 9105742c md5 293bb9197bb6f3ef57eeac351ef166fe )
+)
+
+game (
+	name "Utilities (19xx)(8-Bit)"
+	description "Utilities (19xx)(8-Bit)"
+	rom ( name "Utilities (19xx)(8-Bit).dsd" size 409600 crc d731ccf3 md5 43ca8f4868cce5fac16d0a0b71ad5b93 )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)"
+	description "Utility & Language ROMs (19xx)(-)"
+	rom ( name "Utility & Language ROMs (19xx)(-).dsd" size 409600 crc ef35e011 md5 2831245c70b39f95abc86123ad8c38e3 )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)[a]"
+	description "Utility & Language ROMs (19xx)(-)[a]"
+	rom ( name "Utility & Language ROMs (19xx)(-)[a].dsd" size 409600 crc 44bf9263 md5 422859181019aa7087b4d760cce368c6 )
+)
+
+game (
+	name "Watford ROMs (19xx)(-)"
+	description "Watford ROMs (19xx)(-)"
+	rom ( name "Watford ROMs (19xx)(-).dsd" size 409600 crc 2a5f8434 md5 a413600646fc0be1b81354691782d20a )
+)
+
+game (
+	name "Yorkshire Boys Compilation (1990)(Yorkshire Boys)"
+	description "Yorkshire Boys Compilation (1990)(Yorkshire Boys)"
+	rom ( name "Yorkshire Boys Compilation (1990)(Yorkshire Boys).dsd" size 409600 crc 34f3d503 md5 15b7cf37836c7bd233cce34256306655 )
+)

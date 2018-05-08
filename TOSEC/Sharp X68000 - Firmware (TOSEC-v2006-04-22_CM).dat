@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Sharp X68000 - Firmware"
+	description "Sharp X68000 - Firmware (TOSEC-v2006-04-22)"
+	category "Sharp X68000 - Firmware"
+	version 2006-04-22
+	author "Cassiel"
+)
+
+game (
+	name "Sharp X68000 Boot ROM (1987)(Sharp)"
+	description "Sharp X68000 Boot ROM (1987)(Sharp)"
+	rom ( name "Sharp X68000 Boot ROM (1987)(Sharp).bin" size 131072 crc 72bdf532 md5 7fd4caabac1d9169e289f0f7bbf71d8e )
+)
+
+game (
+	name "Sharp X68000 CG ROM (1987)(Sharp)"
+	description "Sharp X68000 CG ROM (1987)(Sharp)"
+	rom ( name "Sharp X68000 CG ROM (1987)(Sharp).bin" size 786432 crc 9f3195f1 md5 cb0a5cfcf7247a7eab74bb2716260269 )
+)

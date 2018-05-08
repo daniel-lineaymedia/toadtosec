@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Dragon Data Dragon - Demos"
+	description "Dragon Data Dragon - Demos (TOSEC-v2009-11-05)"
+	category "Dragon Data Dragon - Demos"
+	version 2009-11-05
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "Happy Birthday Dragon (19xx)(-)"
+	description "Happy Birthday Dragon (19xx)(-)"
+	rom ( name "Happy Birthday Dragon (19xx)(-).cas" size 46406 crc 4cf974e1 md5 ac1ab83ac1c5b6b2f2f0801167450355 )
+)
+
+game (
+	name "Jukebox Demo (1983)(Microdeal)"
+	description "Jukebox Demo (1983)(Microdeal)"
+	rom ( name "Jukebox Demo (1983)(Microdeal).cas" size 58770 crc ad9af402 md5 7ea77dc71820f249a7db4339bd70f41e )
+)
+
+game (
+	name "Short BASIC Program (198x)(-)(PD)"
+	description "Short BASIC Program (198x)(-)(PD)"
+	rom ( name "Short BASIC Program (198x)(-)(PD).cas" size 1025 crc c8cebf69 md5 f985812bc4c61b2e8829785d15951158 )
+)
+
+game (
+	name "TOSEC Owns Us All v1.0 (2003)(Eldio)"
+	description "TOSEC Owns Us All v1.0 (2003)(Eldio)"
+	rom ( name "TOSEC Owns Us All v1.0 (2003)(Eldio).cas" size 928 crc f4832292 md5 7b29b22da4a80563a6a0e3ce90ca9b73 )
+)
+

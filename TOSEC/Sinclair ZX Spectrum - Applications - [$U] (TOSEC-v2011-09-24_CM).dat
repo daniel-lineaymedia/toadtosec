@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Applications - [$U]"
+	description "Sinclair ZX Spectrum - Applications - [$U] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Applications - [$U]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Disk-Doctor (1995)(Jemminisoft)(beta)[Jemmini Commander add-on]"
+	description "Disk-Doctor (1995)(Jemminisoft)(beta)[Jemmini Commander add-on]"
+	rom ( name "Disk-Doctor (1995)(Jemminisoft)(beta)[Jemmini Commander add-on].$u" size 6161 crc 9021ed9a md5 960d79a55689e4355a33ffd3a443d387 sha1 940e63cbc073dfb45e516d3a3f5929b02b86894a )
+)
+

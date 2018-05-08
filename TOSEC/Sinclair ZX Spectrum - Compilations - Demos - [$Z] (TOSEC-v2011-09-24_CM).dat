@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Demos - [$Z]"
+	description "Sinclair ZX Spectrum - Compilations - Demos - [$Z] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Demos - [$Z]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "A Way to Heaven Gate - Music Collection (1998)(Extreme)[ZX Zip]"
+	description "A Way to Heaven Gate - Music Collection (1998)(Extreme)[ZX Zip]"
+	rom ( name "A Way to Heaven Gate - Music Collection (1998)(Extreme)[ZX Zip].$z" size 33553 crc f57975a3 md5 d2190fa45d792bda6028dad17bc91588 sha1 f8697cc22c36c97adeb027147c2107c0e2589331 )
+)
+

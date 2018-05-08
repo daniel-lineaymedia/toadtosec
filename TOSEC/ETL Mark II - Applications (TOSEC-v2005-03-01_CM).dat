@@ -1,0 +1,47 @@
+clrmamepro (
+	name "ETL Mark II - Applications"
+	description "ETL Mark II - Applications (TOSEC-v2005-03-01)"
+	category "ETL Mark II - Applications"
+	version 2005-03-01
+	author "Grendel"
+)
+
+game (
+	name "Sum 1 (1997)(-)"
+	description "Sum 1 (1997)(-)"
+	rom ( name "Data1.dat" size 44 crc 975ff04f md5 d2b5bb344547e66c0669b09176c1590c )
+	rom ( name "Data2.dat" size 40 crc 724a012d md5 cae0c5921befe5fc8b6f094e697508da )
+	rom ( name "Sum1.mk2" size 1046 crc 72cbf3c4 md5 26232ad27812cdeab156afd8ab3f6d2d )
+)
+
+game (
+	name "Sum 2 (1997)(-)"
+	description "Sum 2 (1997)(-)"
+	rom ( name "Data1.dat" size 44 crc 975ff04f md5 d2b5bb344547e66c0669b09176c1590c )
+	rom ( name "Data2.dat" size 40 crc 724a012d md5 cae0c5921befe5fc8b6f094e697508da )
+	rom ( name "Sum2.mk2" size 1068 crc e5d176f5 md5 292b5134160fe0b8679744b30b984ff7 )
+)
+
+game (
+	name "Sum 3 (1997)(-)"
+	description "Sum 3 (1997)(-)"
+	rom ( name "Data1.dat" size 44 crc 975ff04f md5 d2b5bb344547e66c0669b09176c1590c )
+	rom ( name "Data2.dat" size 40 crc 724a012d md5 cae0c5921befe5fc8b6f094e697508da )
+	rom ( name "Sum3.mk2" size 1381 crc c23c22c6 md5 15f4f445355b87e0dd0f9bf74d9d44a5 )
+)
+
+game (
+	name "Sum 4 (1997)(-)"
+	description "Sum 4 (1997)(-)"
+	rom ( name "Data1.dat" size 44 crc 975ff04f md5 d2b5bb344547e66c0669b09176c1590c )
+	rom ( name "Data2.dat" size 40 crc 724a012d md5 cae0c5921befe5fc8b6f094e697508da )
+	rom ( name "Sum4.mk2" size 1551 crc 6038fe58 md5 f84dad9c1a4feb406f8103378a2f0c08 )
+)
+
+game (
+	name "Sum 5 (1997)(-)"
+	description "Sum 5 (1997)(-)"
+	rom ( name "Data1.dat" size 44 crc 975ff04f md5 d2b5bb344547e66c0669b09176c1590c )
+	rom ( name "Data2.dat" size 40 crc 724a012d md5 cae0c5921befe5fc8b6f094e697508da )
+	rom ( name "Sum5.mk2" size 1543 crc 094251f2 md5 257be63b7d0b47d1ce0ef640ef6f744d )
+)

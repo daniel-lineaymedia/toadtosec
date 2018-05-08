@@ -1,0 +1,379 @@
+clrmamepro (
+	name "Apple II - Docs - [DO]"
+	description "Apple II - Docs - [DO] (TOSEC-v2010-01-16)"
+	category "Apple II - Docs - [DO]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 1 of 2)"
+	description "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 1 of 2)"
+	rom ( name "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 1 of 2).do" size 143360 crc 0c12b626 md5 d249efd9ccf79e00d36b46c6773ca131 )
+)
+
+game (
+	name "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 2 of 2)"
+	description "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 2 of 2)"
+	rom ( name "Cracking Techniques - The Disk Jockey (19xx)(-)(Disk 2 of 2).do" size 143360 crc 49d9c8b0 md5 3497571db90125311eec393ceeb08f18 )
+)
+
+game (
+	name "Cracking Techniques 1-10 (19xx)(-)"
+	description "Cracking Techniques 1-10 (19xx)(-)"
+	rom ( name "Cracking Techniques 1-10 (19xx)(-).do" size 143360 crc e9cc8045 md5 a8526182f664061310d53dcde797d509 )
+)
+
+game (
+	name "Cracking Techniques 1982 (1982)(Pirates Harbor)"
+	description "Cracking Techniques 1982 (1982)(Pirates Harbor)"
+	rom ( name "Cracking Techniques 1982 (1982)(Pirates Harbor).do" size 143360 crc 5515a8d0 md5 f4f1a0adf537b82dc7140608dca8003f )
+)
+
+game (
+	name "Cracking Techniques 1983 (1983)(Pirates Harbor)"
+	description "Cracking Techniques 1983 (1983)(Pirates Harbor)"
+	rom ( name "Cracking Techniques 1983 (1983)(Pirates Harbor).do" size 143360 crc aaaeb7df md5 b4ebd02af1a7e14e6bf6ab865feb9b7c )
+)
+
+game (
+	name "Cracking Techniques 1983 (1983)(Pirates Harbor)[h Jeff]"
+	description "Cracking Techniques 1983 (1983)(Pirates Harbor)[h Jeff]"
+	rom ( name "Cracking Techniques 1983 (1983)(Pirates Harbor)[h Jeff].do" size 143360 crc e58b0ce5 md5 21089debe66ee6add8e6060c36cee58c )
+)
+
+game (
+	name "Cracking Techniques 1984 (1984)(Pirates Harbor)"
+	description "Cracking Techniques 1984 (1984)(Pirates Harbor)"
+	rom ( name "Cracking Techniques 1984 (1984)(Pirates Harbor).do" size 143360 crc 9b02cd3b md5 6e26000b0d71ffceb2eda53b38232ace )
+)
+
+game (
+	name "Cracking Techniques 1984 (1984)(Pirates Harbor)[a]"
+	description "Cracking Techniques 1984 (1984)(Pirates Harbor)[a]"
+	rom ( name "Cracking Techniques 1984 (1984)(Pirates Harbor)[a].do" size 143360 crc 544e6172 md5 9a2c174a85cf1481fdef0b65d0403eca )
+)
+
+game (
+	name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side A)"
+	description "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side A)"
+	rom ( name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side A).do" size 143360 crc 28af49a2 md5 c31cc7eab402e8f2e5788ae7d13e73c5 )
+)
+
+game (
+	name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side B)"
+	description "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side B)"
+	rom ( name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 1 of 2 Side B).do" size 143360 crc 076a3f3e md5 d71b03cfad48e79504dc6e966f7fedee )
+)
+
+game (
+	name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 2 of 2)"
+	description "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 2 of 2)"
+	rom ( name "Crack-Ware (1989-10)(Brain Trust)(fr)(Disk 2 of 2).do" size 143360 crc 92c75cf6 md5 e90d8b30306f6b501dae225ffeedc93f )
+)
+
+game (
+	name "Doc On The Rocks 01 v2.01 (1986-12-20)(Godfather)(fr)"
+	description "Doc On The Rocks 01 v2.01 (1986-12-20)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 01 v2.01 (1986-12-20)(Godfather)(fr).do" size 143360 crc 35ce1b05 md5 e7a60dad9e61abb1bd4cd1961eb17d47 )
+)
+
+game (
+	name "Doc On The Rocks 02 v1.03 (1986-12-31)(Godfather)(fr)"
+	description "Doc On The Rocks 02 v1.03 (1986-12-31)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 02 v1.03 (1986-12-31)(Godfather)(fr).do" size 143360 crc 7282ca10 md5 e30262cf02fd779bc8c4f9fb6d4a6540 )
+)
+
+game (
+	name "Doc On The Rocks 03 v1.4A (1987-01)(Godfather)(fr)"
+	description "Doc On The Rocks 03 v1.4A (1987-01)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 03 v1.4A (1987-01)(Godfather)(fr).do" size 143360 crc 09df7ae2 md5 daf79bb81f1074d920cfbc122f4b8949 )
+)
+
+game (
+	name "Doc On The Rocks 04 v1.00 (1987-02)(Godfather)(fr)"
+	description "Doc On The Rocks 04 v1.00 (1987-02)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 04 v1.00 (1987-02)(Godfather)(fr).do" size 143360 crc 2a838b18 md5 e513419db785b0c7695799c186b570dc )
+)
+
+game (
+	name "Doc On The Rocks 05 v1.00 (1987-03-0x)(Godfather)(fr)"
+	description "Doc On The Rocks 05 v1.00 (1987-03-0x)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 05 v1.00 (1987-03-0x)(Godfather)(fr).do" size 143360 crc d5759c6b md5 e499d99fec0506d13b95325872e7d392 )
+)
+
+game (
+	name "Doc On The Rocks 06 v2.01 (1987-03-07)(Godfather)(fr)"
+	description "Doc On The Rocks 06 v2.01 (1987-03-07)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 06 v2.01 (1987-03-07)(Godfather)(fr).do" size 143360 crc 59cd1ec2 md5 e3e25d1c5d3131e1256465dabd6c5c69 )
+)
+
+game (
+	name "Doc On The Rocks 07 v1.00 (1987-03-19)(Godfather)(fr)"
+	description "Doc On The Rocks 07 v1.00 (1987-03-19)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 07 v1.00 (1987-03-19)(Godfather)(fr).do" size 143360 crc b3482957 md5 d6a2011b4435f1f55196bf95e7949c00 )
+)
+
+game (
+	name "Doc On The Rocks 08 v1.00 (1987-03-21)(Godfather)(fr)"
+	description "Doc On The Rocks 08 v1.00 (1987-03-21)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 08 v1.00 (1987-03-21)(Godfather)(fr).do" size 143360 crc 8a430899 md5 a53bf818eabeacd1f962abc59be909e2 )
+)
+
+game (
+	name "Doc On The Rocks 09 v1.00 (1987-04-05)(Godfather)(fr)"
+	description "Doc On The Rocks 09 v1.00 (1987-04-05)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 09 v1.00 (1987-04-05)(Godfather)(fr).do" size 143360 crc 40b67baf md5 2b52723fe25daab4ab7567b8557bb45c )
+)
+
+game (
+	name "Doc On The Rocks 12 v1.00 (1987-05)(Godfather)(fr)"
+	description "Doc On The Rocks 12 v1.00 (1987-05)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 12 v1.00 (1987-05)(Godfather)(fr).do" size 143360 crc 2058abf1 md5 99e60142a1b68461b3ddd40388249a9d )
+)
+
+game (
+	name "Doc On The Rocks 14 (1988-01-01)(Godfather)(fr)"
+	description "Doc On The Rocks 14 (1988-01-01)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 14 (1988-01-01)(Godfather)(fr).do" size 143360 crc d09c5eab md5 deee441d797c7458943e7e44b6eb52bc )
+)
+
+game (
+	name "Doc On The Rocks 15 (1988-02-15)(Godfather)(fr)"
+	description "Doc On The Rocks 15 (1988-02-15)(Godfather)(fr)"
+	rom ( name "Doc On The Rocks 15 (1988-02-15)(Godfather)(fr).do" size 143360 crc f0584c90 md5 2dd98c5403ef6624e1c2e8ef8f4b3a7f )
+)
+
+game (
+	name "GBBS Pro Docs (198x)(Atlanta Crackers)(Side B)"
+	description "GBBS Pro Docs (198x)(Atlanta Crackers)(Side B)"
+	rom ( name "GBBS Pro Docs (198x)(Atlanta Crackers)(Side B).do" size 143360 crc 34aa45c1 md5 c91a26f5b6f23cc5336b82e87bb25141 )
+)
+
+game (
+	name "Infiltrator Docs (198x)(First Class)"
+	description "Infiltrator Docs (198x)(First Class)"
+	rom ( name "Infiltrator Docs (198x)(First Class).do" size 143360 crc ced8d867 md5 0153c732f8120635668ed3842458bc52 )
+)
+
+game (
+	name "Jokersoft Cracking Disk (1988)(Jokersoft)(fr)"
+	description "Jokersoft Cracking Disk (1988)(Jokersoft)(fr)"
+	rom ( name "Jokersoft Cracking Disk (1988)(Jokersoft)(fr).do" size 143360 crc be6f1773 md5 e7ff7954d22cce99fa90ed9c2f0c20b7 )
+)
+
+game (
+	name "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side A)"
+	description "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side A)"
+	rom ( name "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side A).do" size 143360 crc ac28a468 md5 7c0431633ca4c9a9925d3f61b808523a )
+)
+
+game (
+	name "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side B)"
+	description "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side B)"
+	rom ( name "Krakowicz's Kracking Corner (198x)(Krakowicz)(Side B).do" size 143360 crc d1acc33d md5 842774e8676bd76c2243b37871f57a91 )
+)
+
+game (
+	name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 1 of 3)"
+	description "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 1 of 3)"
+	rom ( name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 1 of 3).do" size 143360 crc 07b55bf5 md5 701e488b9379099440cfdb3aad5bfee0 )
+)
+
+game (
+	name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 2 of 3)"
+	description "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 2 of 3)"
+	rom ( name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 2 of 3).do" size 143360 crc a03eae8f md5 45ef9dbe3e53203a31a663e9b0455064 )
+)
+
+game (
+	name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 3 of 3)"
+	description "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 3 of 3)"
+	rom ( name "Krakowicz's Kracking Series (19xx)(Krakowicz)(Disk 3 of 3).do" size 143360 crc c5819b9c md5 a3defab6d039e711fdc7c5dea45a8e75 )
+)
+
+game (
+	name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side A)"
+	description "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side A)"
+	rom ( name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side A).do" size 143360 crc 1348284f md5 bd274f47e7f72100b588770f1ea0bcc1 )
+)
+
+game (
+	name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side B)"
+	description "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side B)"
+	rom ( name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 1 of 2 Side B).do" size 143360 crc ccc9febf md5 7345b9c25bac9a4abd58d3310de4e8ca )
+)
+
+game (
+	name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side A)"
+	description "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side A)"
+	rom ( name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side A).do" size 143360 crc 15dd9a39 md5 8a4c47aa7bce955b14532e1c037e16c0 )
+)
+
+game (
+	name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side B)"
+	description "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side B)"
+	rom ( name "Langue d'Ocs 05 (1991-02-11)(Lo44)(fr)(Disk 2 of 2 Side B).do" size 143360 crc 72d9f0bf md5 3fc9dd60e14adbc8831717c6889611ed )
+)
+
+game (
+	name "Lisa Assembler Docs (19xx)(Data Cat)"
+	description "Lisa Assembler Docs (19xx)(Data Cat)"
+	rom ( name "Lisa Assembler Docs (19xx)(Data Cat).do" size 143360 crc 2d7515a7 md5 30b355906d3cb5d5a72e2391b3e0d669 )
+)
+
+game (
+	name "Merlin Assembler Docs (19xx)(-)[no boot]"
+	description "Merlin Assembler Docs (19xx)(-)[no boot]"
+	rom ( name "Merlin Assembler Docs (19xx)(-)[no boot].do" size 143360 crc ed33a724 md5 ba79f0e03475df875e675ef6f8fa2fba )
+)
+
+game (
+	name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side A)"
+	description "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side A)"
+	rom ( name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side A).do" size 143360 crc 328b0779 md5 03ed402d795255364811712b5fab210c )
+)
+
+game (
+	name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side B)"
+	description "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side B)"
+	rom ( name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 1 of 2 Side B).do" size 143360 crc 4f3df604 md5 570c46b049007cba33f879ad533b67b1 )
+)
+
+game (
+	name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side A)"
+	description "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side A)"
+	rom ( name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side A).do" size 143360 crc cf7bbc00 md5 7947dfb0ccbd8b81e52023fc2da72033 )
+)
+
+game (
+	name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side B)"
+	description "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side B)"
+	rom ( name "Muryaden II - Docs (1991)(Wellfire)(fr)(SW)(Disk 2 of 2 Side B).do" size 143360 crc 13a957b5 md5 94e6af935486cd0e660cbff7c1dfc016 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side A)(Utilities)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side A)(Utilities)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side A)(Utilities).do" size 143360 crc 71b51867 md5 d9dc3b3142d4c11c827047a27e476a11 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side B)(Utilities)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side B)(Utilities)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 1 of 5 Side B)(Utilities).do" size 143360 crc a63c2427 md5 b2b7398a4601f55e86e99f7f4a4bfa4c )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side A)(Games & Utilities)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side A)(Games & Utilities)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side A)(Games & Utilities).do" size 143360 crc ee463806 md5 ab8b45be8e1e3b41b9e974c23f40015c )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side B)(Games & Utilities)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side B)(Games & Utilities)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 2 of 5 Side B)(Games & Utilities).do" size 143360 crc 003a4410 md5 bc88266787d9ace03d54f8c609083842 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side A)(Games)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side A)(Games)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side A)(Games).do" size 143360 crc 6e764045 md5 907c97bbf6106231670e8ff25446dca0 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side B)(Games & Utilities)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side B)(Games & Utilities)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 3 of 5 Side B)(Games & Utilities).do" size 143360 crc a8f56bbe md5 667d7be041d4b7f327968ef5cb0332ee )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side A)(Game Solves)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side A)(Game Solves)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side A)(Game Solves).do" size 143360 crc c94c1c00 md5 7d006e41138bcf5aec3e42bd578f1203 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side B)(Game Solves)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side B)(Game Solves)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 4 of 5 Side B)(Game Solves).do" size 143360 crc b60133f7 md5 75bf9b7bbe7a0cf9d8f8a4c9d90bfb07 )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side A)(Game Solves)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side A)(Game Solves)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side A)(Game Solves).do" size 143360 crc 92189d41 md5 800d2100bb269acf656c6a0c2c4f8cef )
+)
+
+game (
+	name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side B)(Game Solves)"
+	description "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side B)(Game Solves)"
+	rom ( name "Nut Cracker's Documentation (1985)(Nut Cracker)(Disk 5 of 5 Side B)(Game Solves).do" size 143360 crc fec781d8 md5 4d1d221c81631c6aa797a74a5e258228 )
+)
+
+game (
+	name "Solution de Jeux (198x)(-)(fr)"
+	description "Solution de Jeux (198x)(-)(fr)"
+	rom ( name "Solution de Jeux (198x)(-)(fr).do" size 143360 crc 2071bbbe md5 018b40ae168e5a74f10c0154d0927432 )
+)
+
+game (
+	name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 1 of 4)"
+	description "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 1 of 4)"
+	rom ( name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 1 of 4).do" size 143360 crc 550ebeac md5 b42bcb9fc2ec86a389e6cdc5aade13ef )
+)
+
+game (
+	name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 2 of 4)"
+	description "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 2 of 4)"
+	rom ( name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 2 of 4).do" size 143360 crc 44889417 md5 72e86aeb54feed18bc2be4193005c229 )
+)
+
+game (
+	name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 3 of 4)"
+	description "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 3 of 4)"
+	rom ( name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 3 of 4).do" size 143360 crc 9ef348d9 md5 cdafd8d00ceed01a286f53e8c7e2476c )
+)
+
+game (
+	name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 4 of 4)"
+	description "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 4 of 4)"
+	rom ( name "Sources Merlin-Pro - Volume 1 (1989-09)(Brain Trust)(fr)(Disk 4 of 4).do" size 143360 crc bdb3778e md5 358c349fae2553cba35593525d5768ab )
+)
+
+game (
+	name "StarFix 3 v1.0 (1988-10-09)(Jokersoft)(fr)"
+	description "StarFix 3 v1.0 (1988-10-09)(Jokersoft)(fr)"
+	rom ( name "StarFix 3 v1.0 (1988-10-09)(Jokersoft)(fr).do" size 143360 crc 97373511 md5 63dc6d628c84ed72a9a7e8cdb354962a )
+)
+
+game (
+	name "StarFix 4 (1988-01-21)(Jokersoft)(fr)"
+	description "StarFix 4 (1988-01-21)(Jokersoft)(fr)"
+	rom ( name "StarFix 4 (1988-01-21)(Jokersoft)(fr).do" size 143360 crc f5acebf0 md5 d08535eebcae42b249a2a5de57b7a508 )
+)
+
+game (
+	name "StarFix 5 (1988-04-01)(Jokersoft)(fr)"
+	description "StarFix 5 (1988-04-01)(Jokersoft)(fr)"
+	rom ( name "StarFix 5 (1988-04-01)(Jokersoft)(fr).do" size 143360 crc d17f1c59 md5 b25cbdcde8b0090a0e189c2b9e3c17c5 )
+)
+
+game (
+	name "StarFix 6 (1988)(Brain Trust)(fr)(Side A)"
+	description "StarFix 6 (1988)(Brain Trust)(fr)(Side A)"
+	rom ( name "StarFix 6 (1988)(Brain Trust)(fr)(Side A).do" size 143360 crc 2aa2981d md5 f190762399af70668fc60a49244e6b6b )
+)
+
+game (
+	name "StarFix 6 (1988)(Brain Trust)(fr)(Side B)"
+	description "StarFix 6 (1988)(Brain Trust)(fr)(Side B)"
+	rom ( name "StarFix 6 (1988)(Brain Trust)(fr)(Side B).do" size 143360 crc b0ac0362 md5 2033d163f2e1a1381594dd40ae8750db )
+)
+
+game (
+	name "Ultima III - Exodus - Docs (1983)(Origin)"
+	description "Ultima III - Exodus - Docs (1983)(Origin)"
+	rom ( name "Ultima III - Exodus - Docs (1983)(Origin).do" size 143360 crc 6c8776e2 md5 04e2dca1b2ee790335ec6ec3c377b104 )
+)

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "IBM PCjr - Games - [EXE]"
+	description "IBM PCjr - Games - [EXE] (TOSEC-v2011-01-09)"
+	category "IBM PCjr - Games - [EXE]"
+	version 2011-01-09
+	author "idoru - Aral"
+)
+
+game (
+	name "Trek v2.5 (1986-08-10)(McLawhorn, Carl)(PD)[pdtrek25]"
+	description "Trek v2.5 (1986-08-10)(McLawhorn, Carl)(PD)[pdtrek25]"
+	rom ( name "Trek v2.5 (1986-08-10)(McLawhorn, Carl)(PD)[pdtrek25].exe" size 54273 crc ea9692f4 md5 e370eae1f3d921b75fdd41f234767737 )
+)

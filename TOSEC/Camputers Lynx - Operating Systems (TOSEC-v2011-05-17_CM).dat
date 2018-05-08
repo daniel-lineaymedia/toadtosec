@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Camputers Lynx - Operating Systems"
+	description "Camputers Lynx - Operating Systems (TOSEC-v2011-05-17)"
+	category "Camputers Lynx - Operating Systems"
+	version 2011-05-17
+	author "mictlantecuhtle"
+)
+
+game (
+	name "CPM v2.2 (19xx)(Digital Research)(128K)"
+	description "CPM v2.2 (19xx)(Digital Research)(128K)"
+	rom ( name "CPM v2.2 (19xx)(Digital Research)(128K).ldf" size 204800 crc 3d51fb62 md5 2bbbeece5edb978ec183ccdf51bd1314 sha1 ac75b3f0dbd3ea942eb22c4b8a25a180127e2d99 )
+)
+

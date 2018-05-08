@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Exelvision EXL100 - Compilations - [K7]"
+	description "Exelvision EXL100 - Compilations - [K7] (TOSEC-v2009-11-14)"
+	category "Exelvision EXL100 - Compilations - [K7]"
+	version 2009-11-14
+	author "TKaos"
+)
+
+game (
+	name "Angles + Invasion de Fautes (1985)(EH Services)(FR)(beta)[unreleased]"
+	description "Angles + Invasion de Fautes (1985)(EH Services)(FR)(beta)[unreleased]"
+	rom ( name "Angles + Invasion de Fautes (1985)(EH Services)(FR)(beta)[unreleased].k7" size 45656 crc 510eeac5 md5 7eefa05c3f2050c73cb59d893cd886af )
+)

@@ -1,0 +1,265 @@
+clrmamepro (
+	name "Galaksija Galaksija - Games - [GTP]"
+	description "Galaksija Galaksija - Games - [GTP] (TOSEC-v2009-04-27)"
+	category "Galaksija Galaksija - Games - [GTP]"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Asteroidi (1984)(GAC Software)(YU)"
+	description "Asteroidi (1984)(GAC Software)(YU)"
+	rom ( name "Asteroidi (1984)(GAC Software)(YU).gtp" size 1298 crc 70aa80a3 md5 d1568c57d19e0659b9c1d36349ffba46 )
+)
+
+game (
+	name "Biljar (19xx)(-)(YU)"
+	description "Biljar (19xx)(-)(YU)"
+	rom ( name "Biljar (19xx)(-)(YU).gtp" size 1017 crc 469ba6a2 md5 0645f752aa7622968b479a1b92067341 )
+)
+
+game (
+	name "Blade Alley (1985)(Halilovic, Jasmin)(YU)"
+	description "Blade Alley (1985)(Halilovic, Jasmin)(YU)"
+	rom ( name "Blade Alley (1985)(Halilovic, Jasmin)(YU).gtp" size 1879 crc 723da222 md5 d0e49722283e48014f7703dfe82778ca )
+)
+
+game (
+	name "Bombarder (19xx)(Balint, Nenad)(YU)"
+	description "Bombarder (19xx)(Balint, Nenad)(YU)"
+	rom ( name "Bombarder (19xx)(Balint, Nenad)(YU).gtp" size 1880 crc 7d584b08 md5 314d7650056b2aa54890f0b1165d23e3 )
+)
+
+game (
+	name "Comets (19xx)(-)"
+	description "Comets (19xx)(-)"
+	rom ( name "Comets (19xx)(-).gtp" size 411 crc 8ccc82a6 md5 edb7c1438dfea9feda397224ab9a63c0 )
+)
+
+game (
+	name "Dijamantski Rudnik (1985)(Balint, Nenad)(YU)"
+	description "Dijamantski Rudnik (1985)(Balint, Nenad)(YU)"
+	rom ( name "Dijamantski Rudnik (1985)(Balint, Nenad)(YU).gtp" size 2754 crc d7c5a9ba md5 2ffe09aeb1e54e23d3c3e1bf31a2d39b )
+)
+
+game (
+	name "Egemond (19xx)(-)(YU)"
+	description "Egemond (19xx)(-)(YU)"
+	rom ( name "Egemond (19xx)(-)(YU).gtp" size 2913 crc 7c85c513 md5 0c76105c13d3ede244c5ecbaafb4d95a )
+)
+
+game (
+	name "Formula 1 (19xx)(-)(YU)"
+	description "Formula 1 (19xx)(-)(YU)"
+	rom ( name "Formula 1 (19xx)(-)(YU).gtp" size 1194 crc 3efb14c1 md5 33c7b22e9b6c0a72eacb6401730bed67 )
+)
+
+game (
+	name "Four (1986-01-01)(Vujkov, Dragan)(YU)"
+	description "Four (1986-01-01)(Vujkov, Dragan)(YU)"
+	rom ( name "Four (1986-01-01)(Vujkov, Dragan)(YU).gtp" size 2631 crc 9ee92e36 md5 927b7034562a1cb6ce017a6295c34f86 )
+)
+
+game (
+	name "Galakticki Rat (1985)(Voja, Antonic)(YU)"
+	description "Galakticki Rat (1985)(Voja, Antonic)(YU)"
+	rom ( name "Galakticki Rat (1985)(Voja, Antonic)(YU).gtp" size 2238 crc e7a5260e md5 27ce800883a47ae19352b619266fe4a3 )
+)
+
+game (
+	name "Hungry Horace (19xx)(-)(YU)"
+	description "Hungry Horace (19xx)(-)(YU)"
+	rom ( name "Hungry Horace (19xx)(-)(YU).gtp" size 797 crc f3c15d57 md5 7e864f03fb61559ce46747e824362afe )
+)
+
+game (
+	name "Igra Diskova (1985)(Mihailovic, Vojislav)(YU)"
+	description "Igra Diskova (1985)(Mihailovic, Vojislav)(YU)"
+	rom ( name "Igra Diskova (1985)(Mihailovic, Vojislav)(YU).gtp" size 1768 crc 7e37f44d md5 da5495babbd63a131652feb71a826ed2 )
+)
+
+game (
+	name "Jumping Jack (1985)(Voja, Antonic)(YU)"
+	description "Jumping Jack (1985)(Voja, Antonic)(YU)"
+	rom ( name "Jumping Jack (1985)(Voja, Antonic)(YU).gtp" size 1891 crc 4b158c1d md5 f2937745d3d26cdedab95270362b6fe9 )
+)
+
+game (
+	name "Light Cycles (1985)(Stanojevic, Bojan)(YU)"
+	description "Light Cycles (1985)(Stanojevic, Bojan)(YU)"
+	rom ( name "Light Cycles (1985)(Stanojevic, Bojan)(YU).gtp" size 1245 crc 838cf2e2 md5 08f5aee4b656a15949d55f71b8d5d839 )
+)
+
+game (
+	name "Light Cycles 2 (19xx)(-)(YU)"
+	description "Light Cycles 2 (19xx)(-)(YU)"
+	rom ( name "Light Cycles 2 (19xx)(-)(YU).gtp" size 1550 crc f271a8a9 md5 3da8fa58a04e64ec7de9222dee33a1f2 )
+)
+
+game (
+	name "Manic Miner (19xx)(-)(YU)"
+	description "Manic Miner (19xx)(-)(YU)"
+	rom ( name "Manic Miner (19xx)(-)(YU).gtp" size 4378 crc 2ab18f85 md5 e34cd536d35c078ba1fa174612b1696c )
+)
+
+game (
+	name "Mastermajnd (1984-04-07)(Ristanovic, Dejan)(YU)"
+	description "Mastermajnd (1984-04-07)(Ristanovic, Dejan)(YU)"
+	rom ( name "Mastermajnd (1984-04-07)(Ristanovic, Dejan)(YU).gtp" size 2077 crc 6daf8f56 md5 c4c0fe47e7a938dbca2c41d8c8fbf85f )
+)
+
+game (
+	name "Mastermind (19xx)(-)(YU)"
+	description "Mastermind (19xx)(-)(YU)"
+	rom ( name "Mastermind (19xx)(-)(YU).gtp" size 1035 crc f27a7818 md5 7fbda67340a6b2b422a1ca1fb2f0bbe4 )
+)
+
+game (
+	name "Maze (19xx)(-)(YU)"
+	description "Maze (19xx)(-)(YU)"
+	rom ( name "Maze (19xx)(-)(YU).gtp" size 2530 crc 9a2eb6e9 md5 49658697aaf1ebb9e6269c52666e5b64 )
+)
+
+game (
+	name "Memorija (19xx)(-)(YU)"
+	description "Memorija (19xx)(-)(YU)"
+	rom ( name "Memorija (19xx)(-)(YU).gtp" size 2357 crc c5db1192 md5 7a746ee98bf77350a6728ddcf69e2938 )
+)
+
+game (
+	name "Night Pilot (1985)(Vukotic, Dragutin)(YU)"
+	description "Night Pilot (1985)(Vukotic, Dragutin)(YU)"
+	rom ( name "Night Pilot (1985)(Vukotic, Dragutin)(YU).gtp" size 4854 crc 97f02860 md5 233ebb949474e681ab3a40581cf92a77 )
+)
+
+game (
+	name "Pamtilice (1985)(Milosavljevic, Peca)(YU)"
+	description "Pamtilice (1985)(Milosavljevic, Peca)(YU)"
+	rom ( name "Pamtilice (1985)(Milosavljevic, Peca)(YU).gtp" size 3076 crc 1ae4d73f md5 e7bdbf3d75255673f47eabc9175b9521 )
+)
+
+game (
+	name "Poker (1985)(Balint, Nenad)(YU)"
+	description "Poker (1985)(Balint, Nenad)(YU)"
+	rom ( name "Poker (1985)(Balint, Nenad)(YU).gtp" size 4424 crc ff4d5af3 md5 32321af396e6dcce9ae669b3171f9e5e )
+)
+
+game (
+	name "Rain Drops (19xx)(-)"
+	description "Rain Drops (19xx)(-)"
+	rom ( name "Rain Drops (19xx)(-).gtp" size 573 crc 02642e02 md5 368ea4c544973fbc37560387f44db222 )
+)
+
+game (
+	name "Scater (19xx)(-)(YU)"
+	description "Scater (19xx)(-)(YU)"
+	rom ( name "Scater (19xx)(-)(YU).gtp" size 1892 crc bd4be810 md5 9757e28573b0256f277c864573614759 )
+)
+
+game (
+	name "Slalom 2 (1985)(Gerovac, Zeljko)(YU)"
+	description "Slalom 2 (1985)(Gerovac, Zeljko)(YU)"
+	rom ( name "Slalom 2 (1985)(Gerovac, Zeljko)(YU).gtp" size 1328 crc 722f26ed md5 86e70bfe2887566c389f11168a675b8f )
+)
+
+game (
+	name "Snake (1984-12-12)(Balint, Nenad)(YU)"
+	description "Snake (1984-12-12)(Balint, Nenad)(YU)"
+	rom ( name "Snake (1984-12-12)(Balint, Nenad)(YU).gtp" size 3173 crc ae7e097b md5 e394b2b1e1ab199a883cda5628c4f49a )
+)
+
+game (
+	name "Snake 2 (1987-04-05)(Vujkov, Dragan)(YU)"
+	description "Snake 2 (1987-04-05)(Vujkov, Dragan)(YU)"
+	rom ( name "Snake 2 (1987-04-05)(Vujkov, Dragan)(YU).gtp" size 1686 crc 18127599 md5 9f5ce2061589ed080ab3f36181415133 )
+)
+
+game (
+	name "Squash (1986)(-)(YU)"
+	description "Squash (1986)(-)(YU)"
+	rom ( name "Squash (1986)(-)(YU).gtp" size 1504 crc ad4657df md5 0b9d6c8a6aee81b7433cfda93d9c601f )
+)
+
+game (
+	name "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)"
+	description "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)"
+	rom ( name "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU).gtp" size 2569 crc b9faec35 md5 545cee259673aab4c519e43e897258b1 )
+)
+
+game (
+	name "Super-Sah (1984)(Page Software)(YU)"
+	description "Super-Sah (1984)(Page Software)(YU)"
+	rom ( name "Super-Sah (1984)(Page Software)(YU).gtp" size 5773 crc 9d24e956 md5 4defbaaa6e8f554c4b85f388547b2939 )
+)
+
+game (
+	name "SvemirskiTrgovac (198x)(Vitanov, Ilija)(YU)"
+	description "SvemirskiTrgovac (198x)(Vitanov, Ilija)(YU)"
+	rom ( name "SvemirskiTrgovac (198x)(Vitanov, Ilija)(YU).gtp" size 2982 crc a01a1594 md5 7d4a90bc5bae474c832430c6822ba977 )
+)
+
+game (
+	name "Tenis (1985-02-07)(Balint, Nenad)(YU)"
+	description "Tenis (1985-02-07)(Balint, Nenad)(YU)"
+	rom ( name "Tenis (1985-02-07)(Balint, Nenad)(YU).gtp" size 2389 crc 6f158ac7 md5 3bc41900095a1cf6e3b0e28d41be597f )
+)
+
+game (
+	name "Tenis 3 (1986-07-22)(Vujkov, Dragan)(YU)"
+	description "Tenis 3 (1986-07-22)(Vujkov, Dragan)(YU)"
+	rom ( name "Tenis 3 (1986-07-22)(Vujkov, Dragan)(YU).gtp" size 1874 crc bc263558 md5 345f7ec44aa14c1a44c7cdb76adaa0e9 )
+)
+
+game (
+	name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	description "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	rom ( name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en).gtp" size 2709 crc 5a6a819b md5 6a568a958454c197dfeb621e6d7bbbd5 )
+)
+
+game (
+	name "Wall (1986-04-10)(Vujkov, Dragan)(YU)"
+	description "Wall (1986-04-10)(Vujkov, Dragan)(YU)"
+	rom ( name "Wall (1986-04-10)(Vujkov, Dragan)(YU).gtp" size 1328 crc 602db525 md5 dd5158101a78c2c33cec93a5b0c96376 )
+)
+
+game (
+	name "Wonderer (19xx)(-)(YU)"
+	description "Wonderer (19xx)(-)(YU)"
+	rom ( name "Wonderer (19xx)(-)(YU).gtp" size 2863 crc 0e7310b7 md5 ff4de2421c45c12f390bd6c49d248bdb )
+)
+
+game (
+	name "Wonderer 2 (19xx)(-)(YU)"
+	description "Wonderer 2 (19xx)(-)(YU)"
+	rom ( name "Wonderer 2 (19xx)(-)(YU).gtp" size 1866 crc cd4ae466 md5 c7f3419436e81861857d062e9320f377 )
+)
+
+game (
+	name "Zamak (1984-03-15)(Voja, Antonic)(YU)"
+	description "Zamak (1984-03-15)(Voja, Antonic)(YU)"
+	rom ( name "Zamak (1984-03-15)(Voja, Antonic)(YU).gtp" size 3015 crc 7d0cc0c9 md5 c4c7e980de2cb87f6e2b8bd8da901da5 )
+)
+
+game (
+	name "Zid (1984)(GAC Software)(YU)"
+	description "Zid (1984)(GAC Software)(YU)"
+	rom ( name "Zid (1984)(GAC Software)(YU).gtp" size 2142 crc 2302a824 md5 0da48625739c0baffe089296a7d1a0bd )
+)
+
+game (
+	name "Ziul (1984)(Ristanovic, Dejan)(YU)"
+	description "Ziul (1984)(Ristanovic, Dejan)(YU)"
+	rom ( name "Ziul (1984)(Ristanovic, Dejan)(YU).gtp" size 6673 crc f8322dad md5 15e91c9aefd5c0599c6a8641f058fedc )
+)
+
+game (
+	name "Zvezdice (19xx)(-)(YU)"
+	description "Zvezdice (19xx)(-)(YU)"
+	rom ( name "Zvezdice (19xx)(-)(YU).gtp" size 1584 crc d45e9a5b md5 74bf4efd637dbfdd9eec2898c473d1f3 )
+)
+
+game (
+	name "Zvjezdane Staze (1985)(-)(YU)"
+	description "Zvjezdane Staze (1985)(-)(YU)"
+	rom ( name "Zvjezdane Staze (1985)(-)(YU).gtp" size 4950 crc 40fcf0b0 md5 78101fae152228abb3171920c69decbf )
+)

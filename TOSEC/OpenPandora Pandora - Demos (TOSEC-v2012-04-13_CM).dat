@@ -1,0 +1,20 @@
+clrmamepro (
+	name "OpenPandora Pandora - Demos"
+	description "OpenPandora Pandora - Demos (TOSEC-v2012-04-13)"
+	category "OpenPandora Pandora - Demos"
+	version 2012-04-13
+	author "Cassiel"
+)
+
+game (
+	name "Daydream Demo v1.0.0.0 (2012)(Hedelmae - notaz)(PD)"
+	description "Daydream Demo v1.0.0.0 (2012)(Hedelmae - notaz)(PD)"
+	rom ( name "Daydream Demo v1.0.0.0 (2012)(Hedelmae - notaz)(PD).pnd" size 5032977 crc 9d22b4e5 md5 8731785575271e853cc43500b50bb494 sha1 b1a81b50fcec0aeab3ca97d71b7407306d7892a6 )
+)
+
+game (
+	name "Sparrow3D Engine Demo v1.0.4.1 (2012)(Matthes, Alexander)(PD)"
+	description "Sparrow3D Engine Demo v1.0.4.1 (2012)(Matthes, Alexander)(PD)"
+	rom ( name "Sparrow3D Engine Demo v1.0.4.1 (2012)(Matthes, Alexander)(PD).pnd" size 1345355 crc 352e6123 md5 c1bc4b9ba2fc47bcfc3bf8c3e6dea69f sha1 6fc1e944940f5ab478afc4048bad8c488b736d9a )
+)
+

@@ -1,0 +1,55 @@
+clrmamepro (
+	name "Apple II - Compilations - Applications - [PO]"
+	description "Apple II - Compilations - Applications - [PO] (TOSEC-v2010-01-16)"
+	category "Apple II - Compilations - Applications - [PO]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Apple II System Utilities v3.0 (1987)(Apple)"
+	description "Apple II System Utilities v3.0 (1987)(Apple)"
+	rom ( name "Apple II System Utilities v3.0 (1987)(Apple).po" size 143360 crc 7322e7e7 md5 bdbbf7fe4b9654af6ed8850d8f6e656a )
+)
+
+game (
+	name "AppleWorld 87 (1987)(-)(Side A)"
+	description "AppleWorld 87 (1987)(-)(Side A)"
+	rom ( name "AppleWorld 87 (1987)(-)(Side A).po" size 143360 crc d2c9c1a0 md5 020a089618d375aa1c7f43e44ac9f339 )
+)
+
+game (
+	name "AppleWorld 87 (1987)(-)(Side B)"
+	description "AppleWorld 87 (1987)(-)(Side B)"
+	rom ( name "AppleWorld 87 (1987)(-)(Side B).po" size 143360 crc 4a0b2c6b md5 a3098029bb7cf02a7bc368b80dbe12a4 )
+)
+
+game (
+	name "Beneath Apple DOS - Bag of Tricks (19xx)(-)"
+	description "Beneath Apple DOS - Bag of Tricks (19xx)(-)"
+	rom ( name "Beneath Apple DOS - Bag of Tricks (19xx)(-).do" size 143360 crc 877984ae md5 a5057da1b007a00a487bf015e81bc10b )
+)
+
+game (
+	name "Cat's Meow V, The (19xx)(The Tempest)"
+	description "Cat's Meow V, The (19xx)(The Tempest)"
+	rom ( name "Cat's Meow V, The (19xx)(The Tempest).do" size 143360 crc 62c1c475 md5 02c62037c2c9f1d831abd753eb5d1384 )
+)
+
+game (
+	name "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side A)"
+	description "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side A)"
+	rom ( name "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side A).po" size 143360 crc 638b4d9a md5 8bfd426fb0af20b09fb29d1603b47c39 )
+)
+
+game (
+	name "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side B)"
+	description "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side B)"
+	rom ( name "Compute!'s Apple Applications (1988-10)(Compute! Publications)(Side B).po" size 143360 crc 185d0a8e md5 7a3218036f3998bce9f9a659cb27539a )
+)
+
+game (
+	name "Ferg Brand Prodos Utilities (1986)(Ferg Brand)"
+	description "Ferg Brand Prodos Utilities (1986)(Ferg Brand)"
+	rom ( name "Ferg Brand Prodos Utilities (1986)(Ferg Brand).po" size 143360 crc 1d1baf93 md5 b71be097df7787ace5702905474b6fdd )
+)

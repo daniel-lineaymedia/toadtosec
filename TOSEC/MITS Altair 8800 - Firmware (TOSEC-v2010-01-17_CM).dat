@@ -1,0 +1,19 @@
+clrmamepro (
+	name "MITS Altair 8800 - Firmware"
+	description "MITS Altair 8800 - Firmware (TOSEC-v2010-01-17)"
+	category "MITS Altair 8800 - Firmware"
+	version 2010-01-17
+	author "TKaos"
+)
+
+game (
+	name "Altair 88-DSK Boot Rom (19xx)(MITS)[bin]"
+	description "Altair 88-DSK Boot Rom (19xx)(MITS)[bin]"
+	rom ( name "Altair 88-DSK Boot Rom (19xx)(MITS)[bin].bin" size 256 crc 7c5232f3 md5 8fd0c3cdf8dcac3d80a49fadc9773258 )
+)
+
+game (
+	name "Altair 88-DSK Boot Rom (19xx)(MITS)[hex]"
+	description "Altair 88-DSK Boot Rom (19xx)(MITS)[hex]"
+	rom ( name "Altair 88-DSK Boot Rom (19xx)(MITS)[hex].hex" size 629 crc 24568989 md5 027a026101428bf5bf1bedc4b92492a0 )
+)

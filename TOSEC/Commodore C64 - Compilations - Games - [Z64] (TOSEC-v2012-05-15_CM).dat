@@ -1,0 +1,205 @@
+clrmamepro (
+	name "Commodore C64 - Compilations - Games - [Z64]"
+	description "Commodore C64 - Compilations - Games - [Z64] (TOSEC-v2012-05-15)"
+	category "Commodore C64 - Compilations - Games - [Z64]"
+	version 2012-05-15
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Computerbrains Cracking Service 00 (19xx)(-)"
+	description "Computerbrains Cracking Service 00 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 00 (19xx)(-).z64" size 31147 crc 304cd125 md5 c02890aeef78f996e4c6117532b67d13 sha1 ee5d901627b2c8e377178185a5a086a4423c45c8 )
+	rom ( name "2!Computerbrains Cracking Service 00 (19xx)(-).z64" size 43341 crc b5d69da1 md5 1ba67f60776f68b07a92cb4adb885349 sha1 ede61a9b3fedcb898261ca04c87a398037e372a6 )
+	rom ( name "3!Computerbrains Cracking Service 00 (19xx)(-).z64" size 39809 crc 00b4acfc md5 9903d5ae16a837ce29bb7772241d4876 sha1 46bb0bd950fa577f2ac067624851caf3ffdac665 )
+	rom ( name "4!Computerbrains Cracking Service 00 (19xx)(-).z64" size 45152 crc 10249cd3 md5 2e5a0c53296f9790e9b6e3b2d17aca44 sha1 4f836bfd812c505dab551cdf4aa2ba3733fc71f4 )
+)
+
+game (
+	name "Computerbrains Cracking Service 01 (19xx)(-)"
+	description "Computerbrains Cracking Service 01 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 01 (19xx)(-).z64" size 42845 crc 082c7e02 md5 4b9118e85d50ca7dcbeabdedcd44c9e0 sha1 c3bdd73c4fd65635324feeafea089de0b378d6d0 )
+	rom ( name "2!Computerbrains Cracking Service 01 (19xx)(-).z64" size 43346 crc 9b83b5e3 md5 66309ef99a986a7c7f2d54cb140e84d0 sha1 f2e2f1e9ff9c83df63e575c39b03fa181e1a78e7 )
+	rom ( name "3!Computerbrains Cracking Service 01 (19xx)(-).z64" size 39813 crc 60ab98ab md5 1a0e4bfd3e7e7821b61101d1caf64770 sha1 74a109932b8f38ed676a19a430832e82650f37e2 )
+	rom ( name "4!Computerbrains Cracking Service 01 (19xx)(-).z64" size 45152 crc 0e3f91d7 md5 643a8b4df2e286232744acab061ba320 sha1 de771b5e18332ded4cea01aa18be07778e885a89 )
+)
+
+game (
+	name "Computerbrains Cracking Service 02 (19xx)(-)"
+	description "Computerbrains Cracking Service 02 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 02 (19xx)(-).z64" size 38861 crc e7bd050b md5 0914ece94f7fba02a545b9043382644e sha1 9bfe5f2975f5a748eceb5a7af64f01627ddc09d5 )
+	rom ( name "2!Computerbrains Cracking Service 02 (19xx)(-).z64" size 43342 crc 09b9b817 md5 bfc741c9bc5ed0758d71bcbd3d6bb7f2 sha1 611c8644ab589e462edc671a1e57c95259442664 )
+	rom ( name "3!Computerbrains Cracking Service 02 (19xx)(-).z64" size 39802 crc e3a641e6 md5 81e89a1e99b9aab4bd31a61591bdb284 sha1 0dff4c88caf5413b019700f181a7b6972db15fff )
+	rom ( name "4!Computerbrains Cracking Service 02 (19xx)(-).z64" size 32453 crc 1ff7984a md5 6bb34f2263e7d9c9672f91fc3bfa20d2 sha1 733ea0d7cd24cbf603fdc0486c09e13fa0619878 )
+)
+
+game (
+	name "Computerbrains Cracking Service 03 (19xx)(-)"
+	description "Computerbrains Cracking Service 03 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 03 (19xx)(-).z64" size 11725 crc c4497721 md5 e225dfa93231999469472875eba7aecc sha1 3c336cb863b72cdf697cb855c56165bec95bbc4d )
+	rom ( name "2!Computerbrains Cracking Service 03 (19xx)(-).z64" size 43346 crc ec3e5b02 md5 7bf3281df41add58ed4b11c689d14d42 sha1 c103259a5350538881ee4d608168839413bf9c26 )
+	rom ( name "3!Computerbrains Cracking Service 03 (19xx)(-).z64" size 39779 crc 6ed83da5 md5 d6c03127f1459ca9b8bbdd48a50c96d0 sha1 0fe1f8634e005ae3f27571a79b16c4baa465afda )
+	rom ( name "4!Computerbrains Cracking Service 03 (19xx)(-).z64" size 45152 crc edfdc894 md5 f2366e492cd8da54b9c72a71ec09ed6e sha1 40af071da18e17f514f1a74f20d4c4cb5a333c07 )
+)
+
+game (
+	name "Computerbrains Cracking Service 04 (19xx)(-)"
+	description "Computerbrains Cracking Service 04 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 04 (19xx)(-).z64" size 3508 crc 4d6a7f3c md5 101ff3ba6b15808bb607de9b1d3f2af8 sha1 e292190d3249cdd4cd8b0bed9de9e395aeeeef1d )
+	rom ( name "2!Computerbrains Cracking Service 04 (19xx)(-).z64" size 43346 crc 8a6666b6 md5 b4180ffab14938bb9b9d96ecdd7eda73 sha1 a1429a2110abcd8b5e651a25cea2e1ff851b5399 )
+	rom ( name "3!Computerbrains Cracking Service 04 (19xx)(-).z64" size 39785 crc bba49d81 md5 c20bbb54ea3e5a69455339546e0e7287 sha1 9c8aa894887da5563f8dc2aaf24cd51f66e65a77 )
+	rom ( name "4!Computerbrains Cracking Service 04 (19xx)(-).z64" size 45152 crc 997db135 md5 26031ff39b4d79188ac5f7e2981b87df sha1 a60179e2c5fc8a81bb70f88f1c825379c6e6d90f )
+)
+
+game (
+	name "Computerbrains Cracking Service 05 (19xx)(-)"
+	description "Computerbrains Cracking Service 05 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 05 (19xx)(-).z64" size 43348 crc 8348c490 md5 e8cf454f933ca84eef9a94143d906a4f sha1 80570d6a7e0537c68275ffc2d956332e6b4135f7 )
+	rom ( name "2!Computerbrains Cracking Service 05 (19xx)(-).z64" size 43341 crc d944d620 md5 6005805a6d646657dff884d0bd1c3dc9 sha1 d2df55da6328c5d8481ba509a14753ef6446980c )
+	rom ( name "3!Computerbrains Cracking Service 05 (19xx)(-).z64" size 39785 crc 70f7236c md5 b0abbcc18fd6395b277d0df3f81de07a sha1 c9b5791ecb3bfac4344a2ca69871d518ccdc9cb2 )
+	rom ( name "4!Computerbrains Cracking Service 05 (19xx)(-).z64" size 43658 crc 1bb4c141 md5 020a71dfbba2e18153bd1d1458cf804f sha1 b84c0c3bf7495819f805a173fb7ed7e72ce49878 )
+)
+
+game (
+	name "Computerbrains Cracking Service 06 (19xx)(-)"
+	description "Computerbrains Cracking Service 06 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 06 (19xx)(-).z64" size 43348 crc 679ad103 md5 e7bd0bf9b120e1d9792b7d150f4df62c sha1 85e651b76a4d48d35aecc5308434873921d22ddd )
+	rom ( name "2!Computerbrains Cracking Service 06 (19xx)(-).z64" size 43346 crc 5ca10d8b md5 0cb0b92eb71375e38c2c5650e4bb9733 sha1 a87e35ae8e07c688eceba8a3593ca5b8563465db )
+	rom ( name "3!Computerbrains Cracking Service 06 (19xx)(-).z64" size 39820 crc db551b72 md5 ca01e4e0057d28ab9771c3e49901b2bf sha1 e88d63cf173c02124a329c47fdc9f05ebe0709db )
+	rom ( name "4!Computerbrains Cracking Service 06 (19xx)(-).z64" size 44893 crc 9d871a97 md5 560dee521f02c3c668e446e7d58d1f55 sha1 1a3ae8bc57b6d9b02c6f3bc8ab2a2c56ca930f73 )
+)
+
+game (
+	name "Computerbrains Cracking Service 07 (19xx)(-)"
+	description "Computerbrains Cracking Service 07 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 07 (19xx)(-).z64" size 33388 crc 74827d75 md5 9adb1bdb85134f16650619a334f6717a sha1 eb75e2870fd5f7d77bee4e49dd96e31f5eca0119 )
+	rom ( name "2!Computerbrains Cracking Service 07 (19xx)(-).z64" size 43336 crc 1e593167 md5 29bfa222f87aad1e0f55511ad23fb2d0 sha1 2d9de55510b1d6b29d3e5f0900097470b8c9d751 )
+	rom ( name "3!Computerbrains Cracking Service 07 (19xx)(-).z64" size 39792 crc c4607bce md5 21a628d2248fff7543b77b98cbe18e81 sha1 8eb3bd2b711157198a9889c093ae7024ebf3f109 )
+	rom ( name "4!Computerbrains Cracking Service 07 (19xx)(-).z64" size 41666 crc 9e07af54 md5 14faf526f6d52a3c804aad4e0cbb9445 sha1 ea0e135235820725d5d49f36fc2e1d84bd7febba )
+)
+
+game (
+	name "Computerbrains Cracking Service 08 (19xx)(-)"
+	description "Computerbrains Cracking Service 08 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 08 (19xx)(-).z64" size 43344 crc 80c66c68 md5 e05d311e90420f2d478e20991241820f sha1 e7a5e9ff6b5f55c9ea26f90e45f329c3e7947e25 )
+	rom ( name "2!Computerbrains Cracking Service 08 (19xx)(-).z64" size 43346 crc b6d40f3d md5 ded9b28af96c31c2e18080d95c5e163f sha1 f86683b298918f9840e170494a1aaaf40c19aeab )
+	rom ( name "3!Computerbrains Cracking Service 08 (19xx)(-).z64" size 39789 crc 9cea3643 md5 a34af1adde9bcfe5794b7defff48df3b sha1 7d8f5632f776234004001f61d2ebe548b04835f4 )
+	rom ( name "4!Computerbrains Cracking Service 08 (19xx)(-).z64" size 44404 crc 7c1fd0ac md5 c7e538e93d557a75a4d28cf9bab2fd33 sha1 b11b23439b9ac6021de492781549d18ba173d82c )
+)
+
+game (
+	name "Computerbrains Cracking Service 09 (19xx)(-)"
+	description "Computerbrains Cracking Service 09 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 09 (19xx)(-).z64" size 39110 crc 5a3a25b1 md5 83b2295dec4234b09c2d98d8eb465213 sha1 8d99f3dbcb5f05ecacb8d2443952a17fb2b0e069 )
+	rom ( name "2!Computerbrains Cracking Service 09 (19xx)(-).z64" size 43346 crc 20ff7b86 md5 1bf99c71ec862e87c413eba88d5fb6b8 sha1 2071dabb4e8b57f9698b720e60c3e232969e767d )
+	rom ( name "3!Computerbrains Cracking Service 09 (19xx)(-).z64" size 39787 crc 4f78ab42 md5 0fb0d42aea0256660b911b26ef9f7948 sha1 73a9c755f66ab19454a5891dccd3f615f77b6e0a )
+	rom ( name "4!Computerbrains Cracking Service 09 (19xx)(-).z64" size 45152 crc b0f17b60 md5 1b841682f18fd2deac4ef445a21fcb82 sha1 ea0ca60853ce440018910fb9ae7c22f8d07d3922 )
+)
+
+game (
+	name "Computerbrains Cracking Service 10 (19xx)(-)"
+	description "Computerbrains Cracking Service 10 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 10 (19xx)(-).z64" size 43348 crc 072de477 md5 746ecab370b6a3e8528ee90b6bc763bf sha1 92a604c174e673b5fc8b681f7100861c331c0d09 )
+	rom ( name "2!Computerbrains Cracking Service 10 (19xx)(-).z64" size 43341 crc e4c0aafb md5 44de65c3ffea848262e292cf3f4c7a93 sha1 07d3b868f5c29245e067a2e0e662057a9e614b4c )
+	rom ( name "3!Computerbrains Cracking Service 10 (19xx)(-).z64" size 39788 crc 33aefd30 md5 a094716eb40de97c9943c32ea88ea749 sha1 0af34beaaa33b000dae7d29962075654c77e5038 )
+	rom ( name "4!Computerbrains Cracking Service 10 (19xx)(-).z64" size 27467 crc 969c4464 md5 24cb6e63eb3e82b9734da7cc88f30f3f sha1 3b8b2d2d67f78c452a9c824a4c54af64e16d2e4f )
+)
+
+game (
+	name "Computerbrains Cracking Service 11 (19xx)(-)"
+	description "Computerbrains Cracking Service 11 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 11 (19xx)(-).z64" size 43338 crc 352a220b md5 aee28c2933199f3b0f84ee270dbb3781 sha1 4a3cc234a636d9d4384d115ce877d529bcb438c8 )
+	rom ( name "2!Computerbrains Cracking Service 11 (19xx)(-).z64" size 43346 crc 8a352140 md5 8ef168fa3f679d060ad96de96ca057c7 sha1 c37d2c4c33fa35de2e15b61c74d8606fa3dd4cd8 )
+	rom ( name "3!Computerbrains Cracking Service 11 (19xx)(-).z64" size 39776 crc 71ad0e64 md5 50fc63486baf7d61e39767648f4b4672 sha1 6fdee17955c9030b92468312413d21d97ec53abe )
+	rom ( name "4!Computerbrains Cracking Service 11 (19xx)(-).z64" size 44146 crc b711866b md5 c33e2d511d1b35e7eca904535ddad10d sha1 eb53a8116afc7133700161f3fd6e0e033668e72e )
+)
+
+game (
+	name "Computerbrains Cracking Service 12 (19xx)(-)"
+	description "Computerbrains Cracking Service 12 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 12 (19xx)(-).z64" size 36834 crc c835f3a7 md5 47e5c5ca837a3e18ebc2bb58178219f0 sha1 f8acdc6911e4268dd7d872e23ea6ffd5eb8b5e17 )
+	rom ( name "2!Computerbrains Cracking Service 12 (19xx)(-).z64" size 43346 crc 7e46f8d5 md5 3aa064597b8f00d1912b7f9517b8712a sha1 c6ceb1b9bac8a8c92350f708808e57daceef39e3 )
+	rom ( name "3!Computerbrains Cracking Service 12 (19xx)(-).z64" size 39807 crc c90dddfe md5 77d719b3c96f3627c63d0866427b1d68 sha1 a265e59daf6ef7e52ba4af5a8da04cfbc33a9d96 )
+	rom ( name "4!Computerbrains Cracking Service 12 (19xx)(-).z64" size 45152 crc 81b11f5f md5 9f5598ca800440171b9687995f4e4b52 sha1 0e199e204caf3125086c6775c341d3ac8c317b7e )
+)
+
+game (
+	name "Computerbrains Cracking Service 13 (19xx)(-)"
+	description "Computerbrains Cracking Service 13 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 13 (19xx)(-).z64" size 40719 crc f47d4a87 md5 a3f2490e74e2b1497077bd8ae4cc64bc sha1 2a7ce994e94d3f2e40b5c27f82ed3639fb11d22f )
+	rom ( name "2!Computerbrains Cracking Service 13 (19xx)(-).z64" size 43346 crc 0af3b650 md5 0911427e8257baabda4d718bd4df8f3c sha1 79bfc4228677b80298367479191a6566818b40a1 )
+	rom ( name "3!Computerbrains Cracking Service 13 (19xx)(-).z64" size 39852 crc be8a4359 md5 8a75ea6177db3bb089ecb2485be7d665 sha1 c3bd68ebe757d6ba244c3ae0f60ae3c91a6b0b85 )
+	rom ( name "4!Computerbrains Cracking Service 13 (19xx)(-).z64" size 44864 crc 75ff000f md5 83184e62ba53ae8d094074c5a2bdb03a sha1 468bbf5a9ad8d58284fd9c05da343dffb38599c6 )
+)
+
+game (
+	name "Computerbrains Cracking Service 14 (19xx)(-)"
+	description "Computerbrains Cracking Service 14 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 14 (19xx)(-).z64" size 43348 crc 2bc06cac md5 0827c42312f11e22ccf8335373aa806a sha1 c9a2f60b07d5070ef07b5e00c32166315fc1e188 )
+	rom ( name "2!Computerbrains Cracking Service 14 (19xx)(-).z64" size 43346 crc ad8f2a2c md5 755bf0db062ade74ac3a2611be046338 sha1 712af74ac04f66d9c28cc36463900aa9ed6ed5e5 )
+	rom ( name "3!Computerbrains Cracking Service 14 (19xx)(-).z64" size 39796 crc 6604a19d md5 03b5faa30e3d281dbe132589a0d62e3b sha1 8bccdabf3abab5db4e597f023d463869f872d0f8 )
+	rom ( name "4!Computerbrains Cracking Service 14 (19xx)(-).z64" size 21733 crc a3d4fbd4 md5 9d21b5e6ef53d167907a86e6dff4d7fd sha1 ffa13f33f6a590785329ff1cb94111b7d3e08237 )
+)
+
+game (
+	name "Computerbrains Cracking Service 15 (19xx)(-)"
+	description "Computerbrains Cracking Service 15 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 15 (19xx)(-).z64" size 40355 crc d3b3715c md5 6f7a48ace3478f894fce456adbf5ff92 sha1 bb0db1316398a19b61edfe6c63f2925809500297 )
+	rom ( name "2!Computerbrains Cracking Service 15 (19xx)(-).z64" size 43346 crc f7372404 md5 caf3d4a2a8b32c3c1e9bdba5e6af1bd4 sha1 4c54c273ccea3bf6610bce00e5ae93d8e0f2017f )
+	rom ( name "3!Computerbrains Cracking Service 15 (19xx)(-).z64" size 39793 crc ae44b860 md5 cec0024f646fa7e97f00758cd22d7e7c sha1 fe0124750146b9c8ce7fb561b319865e1d22ff7b )
+	rom ( name "4!Computerbrains Cracking Service 15 (19xx)(-).z64" size 43155 crc 1075e501 md5 99de368880eb898dbfee4a8c20e1aa3e sha1 26ffcafd8371897be27e9ba69c336895f9b215a2 )
+)
+
+game (
+	name "Computerbrains Cracking Service 16 (19xx)(-)"
+	description "Computerbrains Cracking Service 16 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 16 (19xx)(-).z64" size 32691 crc 5070fe3d md5 f91254decfb905fcb4d42b53df342793 sha1 50df3cd73383cad01711b7197531fd799f40d137 )
+	rom ( name "2!Computerbrains Cracking Service 16 (19xx)(-).z64" size 38989 crc c45e2a32 md5 cd43e5f259e1a41734a1922d5189bf1b sha1 0a77d11f8fbc0161b79ed2b2bffff1d02007cbb7 )
+	rom ( name "3!Computerbrains Cracking Service 16 (19xx)(-).z64" size 37969 crc 73a5cf19 md5 f73481b63924640a39238bfcb4f30a66 sha1 3730e1dbd7fed9f26738f2482e49f50ed47e3f3d )
+	rom ( name "4!Computerbrains Cracking Service 16 (19xx)(-).z64" size 30724 crc fe221891 md5 a46cccc4ff2d4067b91f38b5319a66b7 sha1 f6b96ce4fba8278d00c35922512509c90efcc5ef )
+)
+
+game (
+	name "Computerbrains Cracking Service 17 (19xx)(-)"
+	description "Computerbrains Cracking Service 17 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 17 (19xx)(-).z64" size 42217 crc 8733d328 md5 aecec041ea39ebdabd96ad542da4b204 sha1 b3f28c61f3c778d63756aa7ea069cf89d029c347 )
+	rom ( name "2!Computerbrains Cracking Service 17 (19xx)(-).z64" size 41846 crc e6fab96e md5 aa2ba6ebdd7c18954e05172826d26254 sha1 ab67735d577d7887ac22c945823f97841b785f4e )
+	rom ( name "3!Computerbrains Cracking Service 17 (19xx)(-).z64" size 35997 crc e0348eac md5 cf39cab8a6c52e1b22566a56bb02e02d sha1 5377e7d04ffd09acd2bdfca03a4c4fd62be2c737 )
+	rom ( name "4!Computerbrains Cracking Service 17 (19xx)(-).z64" size 24641 crc eb139106 md5 848b19fc0bee1c68307418a3bb294d0f sha1 7498a2b2ade8152749d8d27f4d1e975047234be2 )
+)
+
+game (
+	name "Computerbrains Cracking Service 18 (19xx)(-)"
+	description "Computerbrains Cracking Service 18 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 18 (19xx)(-).z64" size 34091 crc 42c95277 md5 6aeb1febd390b07b01646f1fad006b25 sha1 85df5e97f21f23ef1e4902fa5950e222696df9d7 )
+	rom ( name "2!Computerbrains Cracking Service 18 (19xx)(-).z64" size 43346 crc c248e1cb md5 1c1cdedc84082f6e78ca87b7a1010e4f sha1 fc571808ec4de148d1fd2bc572775f9f41386410 )
+	rom ( name "3!Computerbrains Cracking Service 18 (19xx)(-).z64" size 39809 crc 6b5bc82f md5 ac32db5f3f4d2669fa250b123fe3720f sha1 5c98b69fa29b46c2e050215e56afedf85ee6329d )
+	rom ( name "4!Computerbrains Cracking Service 18 (19xx)(-).z64" size 45152 crc 7cbe26cf md5 28534b99c0eed5ea90f355ed11900307 sha1 794e015f449357df67a0bdafda1c3840ffcd9bd0 )
+)
+
+game (
+	name "Computerbrains Cracking Service 19 (19xx)(-)"
+	description "Computerbrains Cracking Service 19 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 19 (19xx)(-).z64" size 43343 crc 22c4eb70 md5 2ecb406daf6b9a062a1d7c60c447657e sha1 007faf137fa11df2a5f51c792dd97222d532e207 )
+	rom ( name "2!Computerbrains Cracking Service 19 (19xx)(-).z64" size 43346 crc 4c3c0a1d md5 e1389ea858f5c947900e1efe49d24e72 sha1 7a46e6b80ddda8a73b4bc0cd739352659f134f71 )
+	rom ( name "3!Computerbrains Cracking Service 19 (19xx)(-).z64" size 39786 crc c7704b6c md5 6c430460c157a7e5163490efca2f3d31 sha1 50a18b19a9a37a9c04189f542452f1c0e0acdcfd )
+	rom ( name "4!Computerbrains Cracking Service 19 (19xx)(-).z64" size 38914 crc b6b4a011 md5 e610d9ff28279253aa9e307120a8028d sha1 b30be79e71ad5645cc5dfe2309d4b78eac3d1405 )
+)
+
+game (
+	name "Computerbrains Cracking Service 20 (19xx)(-)"
+	description "Computerbrains Cracking Service 20 (19xx)(-)"
+	rom ( name "1!Computerbrains Cracking Service 20 (19xx)(-).z64" size 43348 crc 4fb0104f md5 e16052c5caaaa275151f11bcbc78e10b sha1 b6a47057b425bf9d7228461c1ea7bc892a59b790 )
+	rom ( name "2!Computerbrains Cracking Service 20 (19xx)(-).z64" size 43341 crc 15be8a06 md5 ce496ebba6446d9b0a1e86059f718281 sha1 04feacd394630d3489d463825b73aa1f0f173e59 )
+	rom ( name "3!Computerbrains Cracking Service 20 (19xx)(-).z64" size 39841 crc d272ff1e md5 5ed77e7be2f82e1b6b727ff010b5e0cc sha1 f03d6031df32d3637653d0d47d9c0156ddf3746c )
+	rom ( name "4!Computerbrains Cracking Service 20 (19xx)(-).z64" size 38678 crc 3bcba1e7 md5 080bf6694241b2ea52e8d2a3d92b1c7c sha1 b04f3a81af5aa1ca101d9126a139a2a5f370dff9 )
+)
+
+game (
+	name "Computerbrains Cracking Service 21 (19xx)(-)[b 1! missing]"
+	description "Computerbrains Cracking Service 21 (19xx)(-)[b 1! missing]"
+	rom ( name "2!Computerbrains Cracking Service 21 (19xx)(-).z64" size 41105 crc 60288521 md5 d543133aef83ddd9030f4fac30a6cab9 sha1 09f85589aa897056886f2b576407f41f299fafe9 )
+	rom ( name "3!Computerbrains Cracking Service 21 (19xx)(-).z64" size 39831 crc 686fba9a md5 2df9304415552cc5882a9df960ab1934 sha1 c8827cbd5565a8fa94efbf73e8bf734a681f0dcb )
+	rom ( name "4!Computerbrains Cracking Service 21 (19xx)(-).z64" size 41666 crc f3b4bbd4 md5 1ad06086cf0940593a4cca6b14cafce0 sha1 43eb7cc739cb10abe22b4a7768b5ef4a7b51e813 )
+)
+

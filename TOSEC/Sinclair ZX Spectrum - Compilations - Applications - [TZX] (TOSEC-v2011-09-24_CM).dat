@@ -1,0 +1,50 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Applications - [TZX]"
+	description "Sinclair ZX Spectrum - Compilations - Applications - [TZX] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Applications - [TZX]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[16K]"
+	description "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[16K]"
+	rom ( name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[16K].tzx" size 178099 crc 690abf3e md5 c27b61ab9e63b783a4c5c44e3b4bbb56 sha1 f644df0fbcd9646f13f8570df511b9cfb2b66c3d )
+)
+
+game (
+	name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[a][16K]"
+	description "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[a][16K]"
+	rom ( name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side A)[a][16K].tzx" size 178060 crc fa0ee82b md5 d16b9d8a6cede7e23428db4bbfe891f3 sha1 a313aba93dab45bc3163f125f1a883d5a119d71a )
+)
+
+game (
+	name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[16K]"
+	description "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[16K]"
+	rom ( name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[16K].tzx" size 154749 crc b8623211 md5 25e1e474c16674c5393ed82b9b4fc508 sha1 7f9c2fb6946a3e17c2bf08171ed44e66beb75f22 )
+)
+
+game (
+	name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[a][16K]"
+	description "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[a][16K]"
+	rom ( name "100 Programs for the ZX Spectrum (1983)(Prentice-Hall)(Side B)[a][16K].tzx" size 154721 crc 904efe0b md5 878cf950c0135c930c148eac20abfa20 sha1 ac21e7904183d2d9b2d6997d12d006a78c870777 )
+)
+
+game (
+	name "Utilidades 1 (1984)(Microparadise Software)(es)"
+	description "Utilidades 1 (1984)(Microparadise Software)(es)"
+	rom ( name "Utilidades 1 (1984)(Microparadise Software)(es).tzx" size 81095 crc e8b8c809 md5 c49a456200d8fe338db86f08bf9e5361 sha1 7dff0c2fe9c6647006decd8a9d54a255192112f7 )
+)
+
+game (
+	name "Utilidades 1 (1984)(Microparadise Software)(es)(Side A)"
+	description "Utilidades 1 (1984)(Microparadise Software)(es)(Side A)"
+	rom ( name "Utilidades 1 (1984)(Microparadise Software)(es)(Side A).tzx" size 53120 crc a8a5c096 md5 4755eec43140b7ec864072c30bdeb812 sha1 3a5779a310a292dd197cbebdc22efcefa1c02b1b )
+)
+
+game (
+	name "Utilidades 1 (1984)(Microparadise Software)(es)(Side B)"
+	description "Utilidades 1 (1984)(Microparadise Software)(es)(Side B)"
+	rom ( name "Utilidades 1 (1984)(Microparadise Software)(es)(Side B).tzx" size 28147 crc 0c2b6488 md5 95f836288b154612a2009d37f1beb081 sha1 2c550d4549622ad6120c65e50c8ea968fd5c9af0 )
+)
+

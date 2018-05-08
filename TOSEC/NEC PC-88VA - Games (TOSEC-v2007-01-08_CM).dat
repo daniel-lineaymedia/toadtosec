@@ -1,0 +1,121 @@
+clrmamepro (
+	name "NEC PC-88VA - Games"
+	description "NEC PC-88VA - Games (TOSEC-v2007-01-08)"
+	category "NEC PC-88VA - Games"
+	version 2007-01-08
+	author "Cassiel - Cid"
+)
+
+game (
+	name "Might & Magic (198x)(Star Craft)(Disk 1 of 3)(Disk A)"
+	description "Might & Magic (198x)(Star Craft)(Disk 1 of 3)(Disk A)"
+	rom ( name "Might & Magic (198x)(Star Craft)(Disk 1 of 3)(Disk A).d88" size 1094592 crc de68bba5 md5 e79e79c6049573c8b7746cd51a42ba56 )
+)
+
+game (
+	name "Might & Magic (198x)(Star Craft)(Disk 2 of 3)(Disk B)"
+	description "Might & Magic (198x)(Star Craft)(Disk 2 of 3)(Disk B)"
+	rom ( name "Might & Magic (198x)(Star Craft)(Disk 2 of 3)(Disk B).d88" size 1100592 crc 7f4ea9d9 md5 006ed1957c5ab19e0c853456df219157 )
+)
+
+game (
+	name "Might & Magic (198x)(Star Craft)(Disk 3 of 3)(Disk C)"
+	description "Might & Magic (198x)(Star Craft)(Disk 3 of 3)(Disk C)"
+	rom ( name "Might & Magic (198x)(Star Craft)(Disk 3 of 3)(Disk C).d88" size 1331888 crc f3c56b5e md5 8031013c18cedd4a2c2067ba431206fb )
+)
+
+game (
+	name "Might & Magic Book 2 (1984)(Star Craft)(Disk 1 of 4)(Boot Disk)"
+	description "Might & Magic Book 2 (1984)(Star Craft)(Disk 1 of 4)(Boot Disk)"
+	rom ( name "Might & Magic Book 2 (1984)(Star Craft)(Disk 1 of 4)(Boot Disk).d88" size 1296112 crc 0f851010 md5 8e65160573b933dc24bbf018929a2bdf )
+)
+
+game (
+	name "Might & Magic Book 2 (1984)(Star Craft)(Disk 2 of 4)(Program Disk)"
+	description "Might & Magic Book 2 (1984)(Star Craft)(Disk 2 of 4)(Program Disk)"
+	rom ( name "Might & Magic Book 2 (1984)(Star Craft)(Disk 2 of 4)(Program Disk).d88" size 1094592 crc 53efd8fc md5 fa71bf922dd64a9e30a56494fe6380fd )
+)
+
+game (
+	name "Might & Magic Book 2 (1984)(Star Craft)(Disk 3 of 4)(Player Disk)"
+	description "Might & Magic Book 2 (1984)(Star Craft)(Disk 3 of 4)(Player Disk)"
+	rom ( name "Might & Magic Book 2 (1984)(Star Craft)(Disk 3 of 4)(Player Disk).d88" size 1100592 crc ddc7d79b md5 94315c89dca74b8046631a1aa14da9a6 )
+)
+
+game (
+	name "Might & Magic Book 2 (1984)(Star Craft)(Disk 4 of 4)(Utility Disk)"
+	description "Might & Magic Book 2 (1984)(Star Craft)(Disk 4 of 4)(Utility Disk)"
+	rom ( name "Might & Magic Book 2 (1984)(Star Craft)(Disk 4 of 4)(Utility Disk).d88" size 1100592 crc 0cb2ccd5 md5 d176656d34ba6e412ba3479ed8092e7b )
+)
+
+game (
+	name "Olteus (1987)(Winky)(Disk 1 of 4)(Disk A)"
+	description "Olteus (1987)(Winky)(Disk 1 of 4)(Disk A)"
+	rom ( name "Olteus (1987)(Winky)(Disk 1 of 4)(Disk A).d88" size 1281968 crc 76546093 md5 d44a8dcc1cf00a2d68dbc3f03a42f1e3 )
+)
+
+game (
+	name "Olteus (1987)(Winky)(Disk 2 of 4)(Disk B)"
+	description "Olteus (1987)(Winky)(Disk 2 of 4)(Disk B)"
+	rom ( name "Olteus (1987)(Winky)(Disk 2 of 4)(Disk B).d88" size 1281968 crc 45f32c19 md5 3f7922c76a7be245070938b2136db7f5 )
+)
+
+game (
+	name "Olteus (1987)(Winky)(Disk 3 of 4)(Disk C)"
+	description "Olteus (1987)(Winky)(Disk 3 of 4)(Disk C)"
+	rom ( name "Olteus (1987)(Winky)(Disk 3 of 4)(Disk C).d88" size 1281968 crc 46eabfee md5 6a6f08e0107ecca416b1793a01ba9d90 )
+)
+
+game (
+	name "Olteus (1987)(Winky)(Disk 4 of 4)(Disk D)"
+	description "Olteus (1987)(Winky)(Disk 4 of 4)(Disk D)"
+	rom ( name "Olteus (1987)(Winky)(Disk 4 of 4)(Disk D).d88" size 1296112 crc 100cd5d1 md5 a558b0ea1b302353bb8815eba537dc27 )
+)
+
+game (
+	name "Rogue Alliance (198x)(Star Craft)(Disk 1 of 3)(Boot Disk)"
+	description "Rogue Alliance (198x)(Star Craft)(Disk 1 of 3)(Boot Disk)"
+	rom ( name "Rogue Alliance (198x)(Star Craft)(Disk 1 of 3)(Boot Disk).d88" size 1331888 crc 4f7b8123 md5 c01125265d0a677a208a9d90ad01b0ae )
+)
+
+game (
+	name "Rogue Alliance (198x)(Star Craft)(Disk 2 of 3)(Program Disk)"
+	description "Rogue Alliance (198x)(Star Craft)(Disk 2 of 3)(Program Disk)"
+	rom ( name "Rogue Alliance (198x)(Star Craft)(Disk 2 of 3)(Program Disk).d88" size 1122880 crc 9dd5846b md5 641fb1186239fafd1428ededd90ebdc4 )
+)
+
+game (
+	name "Rogue Alliance (198x)(Star Craft)(Disk 3 of 3)(Play Disk)"
+	description "Rogue Alliance (198x)(Star Craft)(Disk 3 of 3)(Play Disk)"
+	rom ( name "Rogue Alliance (198x)(Star Craft)(Disk 3 of 3)(Play Disk).d88" size 1128880 crc eefc9724 md5 48075599189d589c8c09dd53dd9ac539 )
+)
+
+game (
+	name "R-Type (1988)(Irem)(Disk 1 of 2)"
+	description "R-Type (1988)(Irem)(Disk 1 of 2)"
+	rom ( name "R-Type (1988)(Irem)(Disk 1 of 2).d88" size 1296112 crc 5d24bb7f md5 0c937d4ea497ba2c6a1aad7c227b9dda )
+)
+
+game (
+	name "R-Type (1988)(Irem)(Disk 2 of 2)"
+	description "R-Type (1988)(Irem)(Disk 2 of 2)"
+	rom ( name "R-Type (1988)(Irem)(Disk 2 of 2).d88" size 1296112 crc 041d6155 md5 a9d34cb1d52e5f0c289933efede4db5a )
+)
+
+game (
+	name "Shang-Hai (1986)(System Soft)"
+	description "Shang-Hai (1986)(System Soft)"
+	rom ( name "Shang-Hai (1986)(System Soft).d88" size 1296112 crc b567190e md5 463557f5288370955b4928f0d69590ec )
+)
+
+game (
+	name "Shinra Bansho (1987)(Nihon Telenet)(Disk 1 of 2)(Disk A)"
+	description "Shinra Bansho (1987)(Nihon Telenet)(Disk 1 of 2)(Disk A)"
+	rom ( name "Shinra Bansho (1987)(Nihon Telenet)(Disk 1 of 2)(Disk A).d88" size 1331888 crc 6983feed md5 25aa2a3e7935d3cf27d3a394c878356a )
+)
+
+game (
+	name "Shinra Bansho (1987)(Nihon Telenet)(Disk 2 of 2)(Disk B)"
+	description "Shinra Bansho (1987)(Nihon Telenet)(Disk 2 of 2)(Disk B)"
+	rom ( name "Shinra Bansho (1987)(Nihon Telenet)(Disk 2 of 2)(Disk B).d88" size 1296112 crc 1ee8acdf md5 4390155b0331e19aca81cc4302183ba6 )
+)

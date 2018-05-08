@@ -1,0 +1,37 @@
+clrmamepro (
+	name "Atari ST - Collections - Bitz"
+	description "Atari ST - Collections - Bitz (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Bitz"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Bitz PD Disk 143 (19xx)(Bitz Computers)"
+	description "Bitz PD Disk 143 (19xx)(Bitz Computers)"
+	rom ( name "Bitz PD Disk 143 (19xx)(Bitz Computers).st" size 737280 crc 65bf6afa md5 903ee49d58664dd64fd978a73b1ec4a0 )
+)
+
+game (
+	name "Bitz PD Disk 247 (19xx)(Bitz Computers)"
+	description "Bitz PD Disk 247 (19xx)(Bitz Computers)"
+	rom ( name "Bitz PD Disk 247 (19xx)(Bitz Computers).st" size 839680 crc f4fcfbbd md5 21d134a092d27c9e625dac6045d55840 )
+)
+
+game (
+	name "Bitz PD Disk 303 (19xx)(Bitz Computers)"
+	description "Bitz PD Disk 303 (19xx)(Bitz Computers)"
+	rom ( name "Bitz PD Disk 303 (19xx)(Bitz Computers).st" size 819200 crc ac6b36c1 md5 154d4ecec819f55eb26d0e7b19cb46fc )
+)
+
+game (
+	name "Bitz PD Disk 307 (19xx)(Bitz Computers)"
+	description "Bitz PD Disk 307 (19xx)(Bitz Computers)"
+	rom ( name "Bitz PD Disk 307 (19xx)(Bitz Computers).st" size 737280 crc da6a6149 md5 7fd5e782233039c7c0c53ce6cd365abe )
+)
+
+game (
+	name "Bitz PD Disk 315 (19xx)(Bitz Computers)"
+	description "Bitz PD Disk 315 (19xx)(Bitz Computers)"
+	rom ( name "Bitz PD Disk 315 (19xx)(Bitz Computers).st" size 737280 crc 7dc61d18 md5 7637f5efb24e0210cef79a1c95309123 )
+)

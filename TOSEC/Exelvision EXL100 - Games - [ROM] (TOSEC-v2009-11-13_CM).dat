@@ -1,0 +1,37 @@
+clrmamepro (
+	name "Exelvision EXL100 - Games - [ROM]"
+	description "Exelvision EXL100 - Games - [ROM] (TOSEC-v2009-11-13)"
+	category "Exelvision EXL100 - Games - [ROM]"
+	version 2009-11-13
+	author "TKaos"
+)
+
+game (
+	name "Capitaine Menkar (198x)(Exelvision)(FR)"
+	description "Capitaine Menkar (198x)(Exelvision)(FR)"
+	rom ( name "Capitaine Menkar (198x)(Exelvision)(FR).rom" size 16384 crc 4e44c913 md5 7d4c9e640174b68c17172ec65caf7356 )
+)
+
+game (
+	name "Guppy (198x)(Exelvision)(FR)"
+	description "Guppy (198x)(Exelvision)(FR)"
+	rom ( name "Guppy (198x)(Exelvision)(FR).rom" size 8192 crc c3a3e6d9 md5 6ecf861d957ef58e8d4960867d68ec9b )
+)
+
+game (
+	name "Tennis (198x)(Exelvision)(FR)"
+	description "Tennis (198x)(Exelvision)(FR)"
+	rom ( name "Tennis (198x)(Exelvision)(FR).rom" size 32256 crc fd2b49e2 md5 016547e8f1bac57d8814c99b656625d5 )
+)
+
+game (
+	name "Virus (198x)(Exelvision)(FR)"
+	description "Virus (198x)(Exelvision)(FR)"
+	rom ( name "Virus (198x)(Exelvision)(FR).rom" size 16384 crc cf1df2a4 md5 ac0848842e89f6edcdae75a18dc6d5a5 )
+)
+
+game (
+	name "Wizord (198x)(Exelvision)(FR)"
+	description "Wizord (198x)(Exelvision)(FR)"
+	rom ( name "Wizord (198x)(Exelvision)(FR).rom" size 8192 crc 5ed04a2c md5 5440657df5b0cace2386b8bddb2664a6 )
+)

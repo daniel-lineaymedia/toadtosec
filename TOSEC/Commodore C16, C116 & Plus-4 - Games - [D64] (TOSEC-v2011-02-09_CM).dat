@@ -1,0 +1,139 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Games - [D64]"
+	description "Commodore C16, C116 & Plus-4 - Games - [D64] (TOSEC-v2011-02-09)"
+	category "Commodore C16, C116 & Plus-4 - Games - [D64]"
+	version 2011-02-09
+	author "TKaos"
+)
+
+game (
+	name "3D Grandmaster (19xx)(Robot Software)"
+	description "3D Grandmaster (19xx)(Robot Software)"
+	rom ( name "3D Grandmaster (19xx)(Robot Software).d64" size 174848 crc ba6f2666 md5 ce7a38deeb0fb43c41097c28e16be9ee )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(NTSC)(GB)"
+	description "Aardvark (1986)(Bug-Byte)(NTSC)(GB)"
+	rom ( name "Aardvark (1986)(Bug-Byte)(NTSC)(GB).d64" size 174848 crc c23797ae md5 e3cde6681b12e58c34e25cee6b293aa9 )
+)
+
+game (
+	name "Aces Up (19xx)(Thunderbirds)(GB)(FW)"
+	description "Aces Up (19xx)(Thunderbirds)(GB)(FW)"
+	rom ( name "Aces Up (19xx)(Thunderbirds)(GB)(FW).d64" size 174848 crc 76e2aa3b md5 1159fbc3bfc32d0fd7bc5855c59b48bb )
+)
+
+game (
+	name "Admiral (1987-08)(Compute Mit)(DE)"
+	description "Admiral (1987-08)(Compute Mit)(DE)"
+	rom ( name "Admiral (1987-08)(Compute Mit)(DE).d64" size 174848 crc 992b5941 md5 4fa1e383153b45e8b565e4f97a14d98a )
+)
+
+game (
+	name "Adventure 64 (19xx)(-)(FW)"
+	description "Adventure 64 (19xx)(-)(FW)"
+	rom ( name "Adventure 64 (19xx)(-)(FW).d64" size 175531 crc 256f6e39 md5 241d48b91ec9a61222982febe94d67da )
+)
+
+game (
+	name "Adventure Plus4 (19xx)(-)"
+	description "Adventure Plus4 (19xx)(-)"
+	rom ( name "Adventure Plus4 (19xx)(-).d64" size 174848 crc 8d47fa96 md5 7cf35af89f366f30dc878c5ab8dd0d4c )
+)
+
+game (
+	name "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW)"
+	description "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW)"
+	rom ( name "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW).d64" size 174848 crc 7ce2e2a0 md5 a4af2d6c87096b7ac480ad57cf0fabcb )
+)
+
+game (
+	name "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW)[a joystick]"
+	description "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW)[a joystick]"
+	rom ( name "Adventures in Time (2010-04-22)(Assassins)(HU)(en)(FW)[a joystick].d64" size 174848 crc 70caad19 md5 bfc22aeeb3b7510d06de4684b0b5e24d )
+)
+
+game (
+	name "Airwolf (1986-07)(Compute Mit)(DE)"
+	description "Airwolf (1986-07)(Compute Mit)(DE)"
+	rom ( name "Airwolf (1986-07)(Compute Mit)(DE).d64" size 174848 crc b2dabe55 md5 5d16b47b3769cff9de769d037e5ac57a )
+)
+
+game (
+	name "Airwolf C16 (1987-06)(Compute Mit)(DE)(en)"
+	description "Airwolf C16 (1987-06)(Compute Mit)(DE)(en)"
+	rom ( name "Airwolf C16 (1987-06)(Compute Mit)(DE)(en).d64" size 174848 crc 8de0669d md5 8be7483ac3043c40c5806a95dcc5d9ff )
+)
+
+game (
+	name "Aknamezo (19xx)(-)(HU)(FW)"
+	description "Aknamezo (19xx)(-)(HU)(FW)"
+	rom ( name "Aknamezo (19xx)(-)(HU)(FW).d64" size 174848 crc 60a8ae77 md5 f4414e17bbb3960b8914c72598b804cc )
+)
+
+game (
+	name "Alfred (1987-11)(Compute Mit)(DE)"
+	description "Alfred (1987-11)(Compute Mit)(DE)"
+	rom ( name "Alfred (1987-11)(Compute Mit)(DE).d64" size 174848 crc 8ca54ce2 md5 142bc7d83d55e82061ddbbd0a2fb399d )
+)
+
+game (
+	name "Alien (19xx)(Gameworx Software)(AU)"
+	description "Alien (19xx)(Gameworx Software)(AU)"
+	rom ( name "Alien (19xx)(Gameworx Software)(AU).d64" size 174848 crc 6d76fd05 md5 6d510fc959538ac4f8b951e5f5f7ac62 )
+)
+
+game (
+	name "Amoba (1992)(The Punk Software House)(HU)(en)(FW)"
+	description "Amoba (1992)(The Punk Software House)(HU)(en)(FW)"
+	rom ( name "Amoba (1992)(The Punk Software House)(HU)(en)(FW).d64" size 174848 crc 1121036f md5 8956cf6c24b6141b80ab4d92597c510f )
+)
+
+game (
+	name "Appel-Man (1987-03)(Compute Mit)(DE)"
+	description "Appel-Man (1987-03)(Compute Mit)(DE)"
+	rom ( name "Appel-Man (1987-03)(Compute Mit)(DE).d64" size 174848 crc 76e84682 md5 28e85e55ffba086c0da726b61ddbb06c )
+)
+
+game (
+	name "Apple Panic (1986)(Zilla, Andreas - K., A.)(DE)(FW)"
+	description "Apple Panic (1986)(Zilla, Andreas - K., A.)(DE)(FW)"
+	rom ( name "Apple Panic (1986)(Zilla, Andreas - K., A.)(DE)(FW).d64" size 174848 crc b7532945 md5 a6094ab8d5a73eca37628205f6883941 )
+)
+
+game (
+	name "Army Force (19xx)(-)(NTSC)(FW)"
+	description "Army Force (19xx)(-)(NTSC)(FW)"
+	rom ( name "Army Force (19xx)(-)(NTSC)(FW).d64" size 174848 crc bf1f89ec md5 510401cde01d9aa6038a89901b29eb65 )
+)
+
+game (
+	name "Army Force (19xx)(-)(PAL)(FW)"
+	description "Army Force (19xx)(-)(PAL)(FW)"
+	rom ( name "Army Force (19xx)(-)(PAL)(FW).d64" size 174848 crc b3b481cb md5 36d83a5451dc543b3adfe1d26e0d4629 )
+)
+
+game (
+	name "Arthur Noid II (19xx)(Pit the Bytebuster)(DE)(en)(FW)[Arthur Noid hack]"
+	description "Arthur Noid II (19xx)(Pit the Bytebuster)(DE)(en)(FW)[Arthur Noid hack]"
+	rom ( name "Arthur Noid II (19xx)(Pit the Bytebuster)(DE)(en)(FW)[Arthur Noid hack].d64" size 174848 crc ed140c63 md5 e03151779eb33d65931c039fc3fc163c )
+)
+
+game (
+	name "Atomino (1993)(Little Big Man)(HU)(en)(FW)"
+	description "Atomino (1993)(Little Big Man)(HU)(en)(FW)"
+	rom ( name "Atomino (1993)(Little Big Man)(HU)(en)(FW).d64" size 174848 crc b358d138 md5 c75d2d44a80ea2583d172788e67bb09a )
+)
+
+game (
+	name "Atomino (1993)(Little Big Man)(HU)(en)(FW)[f SID+1551 Chicken]"
+	description "Atomino (1993)(Little Big Man)(HU)(en)(FW)[f SID+1551 Chicken]"
+	rom ( name "Atomino (1993)(Little Big Man)(HU)(en)(FW)[f SID+1551 Chicken].d64" size 175531 crc e3fc0ec1 md5 b4dbcc5070732e396690372f62494a9d )
+)
+
+game (
+	name "Auld Lang Syne (19xx)(BushRat)(US)"
+	description "Auld Lang Syne (19xx)(BushRat)(US)"
+	rom ( name "Auld Lang Syne (19xx)(BushRat)(US).d64" size 174848 crc ccb0dd06 md5 5daf0c91c6476736bb96d406d115f5f4 )
+)

@@ -1,0 +1,109 @@
+clrmamepro (
+	name "Exidy Sorcerer - Various"
+	description "Exidy Sorcerer - Various (TOSEC-v2009-09-01)"
+	category "Exidy Sorcerer - Various"
+	version 2009-09-01
+	author "Cid"
+)
+
+game (
+	name "BRUCE PROM (19xx)(-)"
+	description "BRUCE PROM (19xx)(-)"
+	rom ( name "BRUCE PROM (19xx)(-).bin" size 32 crc fae922cb md5 47ac49524c06638c536998c2a51c9c7f )
+)
+
+game (
+	name "DiskBoot (1979)(Exidy Inc.)"
+	description "DiskBoot (1979)(Exidy Inc.)"
+	rom ( name "DiskBoot (1979)(Exidy Inc.).bin" size 256 crc d82a40d6 md5 4310dabb26ced14d8def017f6656bc8e )
+)
+
+game (
+	name "Extended Basic (19xx)(Exidy Inc.)"
+	description "Extended Basic (19xx)(Exidy Inc.)"
+	rom ( name "Extended Basic (19xx)(Exidy Inc.).bin" size 8192 crc 3468d561 md5 109028fc5eb0aa984b126a4e1e6ca441 )
+)
+
+game (
+	name "Inc. v2.1 (1978)(Digital Research)"
+	description "Inc. v2.1 (1978)(Digital Research)"
+	rom ( name "Inc. v2.1 (1978)(Digital Research).dsk" size 332640 crc 6e4f423c md5 cc4720fa19f8d35c5e2b9ee3e6189f79 )
+)
+
+game (
+	name "Monitor E000H-E7FFH (1979)(Exidy Inc.)"
+	description "Monitor E000H-E7FFH (1979)(Exidy Inc.)"
+	rom ( name "Monitor E000H-E7FFH (1979)(Exidy Inc.).bin" size 2048 crc ac924f67 md5 0947c65059c7dba98c3b837b3e9fb8c1 )
+)
+
+game (
+	name "Monitor E800H-EFFFH (1979)(Exidy Inc.)"
+	description "Monitor E800H-EFFFH (1979)(Exidy Inc.)"
+	rom ( name "Monitor E800H-EFFFH (1979)(Exidy Inc.).bin" size 2048 crc ead1d0f6 md5 2b36cc87a33428c76c5cac1d5219d741 )
+)
+
+game (
+	name "Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete)"
+	description "Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete)"
+	rom ( name "Pete's Enhanced Monitor E000H-E7FFH v1.12 (19xx)(Pete).bin" size 2048 crc fef01cdf md5 86199ae8ea3df33551e6a61e66479f07 )
+)
+
+game (
+	name "Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete)"
+	description "Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete)"
+	rom ( name "Pete's Enhanced Monitor E000H-E7FFH v1.2 (19xx)(Pete).bin" size 2048 crc 81083252 md5 05d94f122c60bc177b3b6026e9cecb0d )
+)
+
+game (
+	name "Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete)"
+	description "Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete)"
+	rom ( name "Pete's Enhanced Monitor E800H-EFFFH v1.12 (19xx)(Pete).bin" size 2048 crc a720c06f md5 4937ce1f4b649194aa527e5b3b39ff8e )
+)
+
+game (
+	name "Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete)"
+	description "Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete)"
+	rom ( name "Pete's Enhanced Monitor E800H-EFFFH v1.2 (19xx)(Pete).bin" size 2048 crc ade5ee50 md5 d17c3526c584ad9d533015af9987abff )
+)
+
+game (
+	name "REM Converted to Exidy Basic (19xx)(Pete Turnbull)"
+	description "REM Converted to Exidy Basic (19xx)(Pete Turnbull)"
+	rom ( name "REM Converted to Exidy Basic (19xx)(Pete Turnbull).dsk" size 1287 crc e9291825 md5 650a205f885bbc0c9442d2b842191f99 )
+)
+
+game (
+	name "Standard BASIC C000H-C7FFH (1979)(Exidy Inc.)"
+	description "Standard BASIC C000H-C7FFH (1979)(Exidy Inc.)"
+	rom ( name "Standard BASIC C000H-C7FFH (1979)(Exidy Inc.).bin" size 2048 crc 1dd20d80 md5 f8f76bafc692a1ed75f5d5f9a52872d7 )
+)
+
+game (
+	name "Standard BASIC C800H-CFFFH (1979)(Exidy Inc.)"
+	description "Standard BASIC C800H-CFFFH (1979)(Exidy Inc.)"
+	rom ( name "Standard BASIC C800H-CFFFH (1979)(Exidy Inc.).bin" size 2048 crc 1068a3f8 md5 e497927c7d829f031231388723a451c3 )
+)
+
+game (
+	name "Standard BASIC D000H-D7FFH (1979)(Exidy Inc.)"
+	description "Standard BASIC D000H-D7FFH (1979)(Exidy Inc.)"
+	rom ( name "Standard BASIC D000H-D7FFH (1979)(Exidy Inc.).bin" size 2048 crc e6332518 md5 d15fbaeff3a3ca1c13e681c2ed57a91c )
+)
+
+game (
+	name "Standard BASIC D800H-DFFFH (1979)(Exidy Inc.)"
+	description "Standard BASIC D800H-DFFFH (1979)(Exidy Inc.)"
+	rom ( name "Standard BASIC D800H-DFFFH (1979)(Exidy Inc.).bin" size 2048 crc a370cb19 md5 4c78c8ab2eefa11c40a592dd89e5c42e )
+)
+
+game (
+	name "Word Processor (19xx)(-)"
+	description "Word Processor (19xx)(-)"
+	rom ( name "Word Processor (19xx)(-).dat" size 8193 crc d603500f md5 1cae1d54c2e083807ccb843408255e08 )
+)
+
+game (
+	name "exchr-1 ROM (19xx)(-)"
+	description "exchr-1 ROM (19xx)(-)"
+	rom ( name "exchr-1 ROM (19xx)(-).bin" size 1024 crc 4a7e1cdd md5 9097c1c3017c6b66dad46168f286f245 )
+)

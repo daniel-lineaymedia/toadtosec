@@ -1,0 +1,1153 @@
+clrmamepro (
+	name "Atari ST - Compilations - Public Domain"
+	description "Atari ST - Compilations - Public Domain (TOSEC-v2009-09-01)"
+	category "Atari ST - Compilations - Public Domain"
+	version 2009-09-01
+	author "Keili - jjs - Laokoon - Grendel - dirkpitt - Gucek - steph"
+)
+
+game (
+	name "Adrenalin UK Public Domain 01 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 01 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 01 (19xx)(Adrenalin).st" size 819200 crc c1733494 md5 e1558c3ea4672188f51f559492df53f7 )
+)
+
+game (
+	name "Adrenalin UK Public Domain 02 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 02 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 02 (19xx)(Adrenalin).st" size 839680 crc 84c4bae9 md5 e914f96a01bd6735ebbf24b3df7188ba )
+)
+
+game (
+	name "Adrenalin UK Public Domain 03 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 03 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 03 (19xx)(Adrenalin).st" size 819200 crc 278e3365 md5 b30adb11d8c4c563b354c64c9830b7b9 )
+)
+
+game (
+	name "Adrenalin UK Public Domain 04 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 04 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 04 (19xx)(Adrenalin).st" size 829440 crc dbc42567 md5 31e5c148c7a140669a186b9707a0cb4a )
+)
+
+game (
+	name "Adrenalin UK Public Domain 05 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 05 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 05 (19xx)(Adrenalin).st" size 829440 crc f0edd79c md5 ee15275a7a515bf558adf2e22d96ce6b )
+)
+
+game (
+	name "Adrenalin UK Public Domain 06 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 06 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 06 (19xx)(Adrenalin).st" size 829440 crc f678e6ba md5 39aec2a871fa6af43ed92596741beb9e )
+)
+
+game (
+	name "Adrenalin UK Public Domain 07 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 07 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 07 (19xx)(Adrenalin).st" size 829440 crc cede12e4 md5 938eb437928afa78a98de6a1c49f79d4 )
+)
+
+game (
+	name "Adrenalin UK Public Domain 08 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 08 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 08 (19xx)(Adrenalin).st" size 819200 crc b6e4ecc9 md5 95bd7f3ca8372d23ea1e01f43ca04028 )
+)
+
+game (
+	name "Adrenalin UK Public Domain 09 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 09 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 09 (19xx)(Adrenalin).st" size 819200 crc be4f6c85 md5 cae6293ffb2a3c530c33372c5fb4067a )
+)
+
+game (
+	name "Adrenalin UK Public Domain 10 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 10 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 10 (19xx)(Adrenalin).st" size 839680 crc 6f7c6158 md5 ebee9def66dfe20e11622d6b0eef467c )
+)
+
+game (
+	name "Adrenalin UK Public Domain 11 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 11 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 11 (19xx)(Adrenalin).st" size 829440 crc 9e91fcc5 md5 df935e0b1f4dde91ce429d95850938b3 )
+)
+
+game (
+	name "Adrenalin UK Public Domain 12 (19xx)(Adrenalin)"
+	description "Adrenalin UK Public Domain 12 (19xx)(Adrenalin)"
+	rom ( name "Adrenalin UK Public Domain 12 (19xx)(Adrenalin).st" size 829440 crc 70b0f80d md5 a7cfbadc3fc911e6fa8e8f3dced7b0d9 )
+)
+
+game (
+	name "Arex v0.02 (1993-07-02)(Schafer, Ken)(SW)(beta) & Dr. Necro v0.40 (1994-11-11)(Necroware Development)(SW)(beta)"
+	description "Arex v0.02 (1993-07-02)(Schafer, Ken)(SW)(beta) & Dr. Necro v0.40 (1994-11-11)(Necroware Development)(SW)(beta)"
+	rom ( name "Arex v0.02 (1993-07-02)(Schafer, Ken)(SW)(beta) & Dr. Necro v0.40 (1994-11-11)(Necroware Development)(SW)(beta).st" size 368640 crc 566fc5dc md5 58673b2438955be195643c4bc63719da )
+)
+
+game (
+	name "Astro Tunnel (19xx)(Skellern, Chris)(PD) & Matchmaker (1987)(Faster Disk Magazine)(PD)"
+	description "Astro Tunnel (19xx)(Skellern, Chris)(PD) & Matchmaker (1987)(Faster Disk Magazine)(PD)"
+	rom ( name "Astro Tunnel (19xx)(Skellern, Chris)(PD) & Matchmaker (1987)(Faster Disk Magazine)(PD).st" size 368640 crc dc6fa664 md5 619e8de25a534c7adb7b16e2ee5d1d5a )
+)
+
+game (
+	name "Ballerburg & Ballerburg 2 (1987)(Kruse, Eckhard)(de)"
+	description "Ballerburg & Ballerburg 2 (1987)(Kruse, Eckhard)(de)"
+	rom ( name "Ballerburg & Ballerburg 2 (1987)(Kruse, Eckhard)(de).st" size 737280 crc 316742f9 md5 2d9ef6a9640370aeafece97fdbcbafbf )
+)
+
+game (
+	name "Beer Monster (1993)(Deano) & Marios Quest (1993)(Deano)"
+	description "Beer Monster (1993)(Deano) & Marios Quest (1993)(Deano)"
+	rom ( name "Beer Monster (1993)(Deano) & Marios Quest (1993)(Deano).st" size 737280 crc 183923a6 md5 7ade707ef167c33d983b6161fcb826b1 )
+)
+
+game (
+	name "Black Dawn (1992-07-15)(Santos Software)(PD) & Escape! (19xx)(Erogenous Zone)(PD) & Heather's Easter Egg Hunt v0.97 (1989)(Reynoods, Tom and Ginnie)(SW)[monochrome]"
+	description "Black Dawn (1992-07-15)(Santos Software)(PD) & Escape! (19xx)(Erogenous Zone)(PD) & Heather's Easter Egg Hunt v0.97 (1989)(Reynoods, Tom and Ginnie)(SW)[monochrome]"
+	rom ( name "Black Dawn (1992-07-15)(Santos Software)(PD) & Escape! (19xx)(Erogenous Zone)(PD) & Heather's Easter Egg Hunt v0.97 (1989)(Reynoods, Tom and Ginnie)(SW)[monochrome].st" size 901120 crc a8bc26e3 md5 c76cce2c52db235e09d9bf07654db9e8 )
+)
+
+game (
+	name "Blue Software PD Game Compil 01 (19xx)(Blue Software)"
+	description "Blue Software PD Game Compil 01 (19xx)(Blue Software)"
+	rom ( name "Blue Software PD Game Compil 01 (19xx)(Blue Software).st" size 849920 crc 198fdef6 md5 5b205da88ed1b77eb360194bc552ba86 )
+)
+
+game (
+	name "Budgie UK Game Disk 019 (19xx)(Budgie UK)[b]"
+	description "Budgie UK Game Disk 019 (19xx)(Budgie UK)[b]"
+	rom ( name "Budgie UK Game Disk 019 (19xx)(Budgie UK)[b].st" size 737280 crc d1bfb550 md5 e0778b20ecef8f374cc6314a2185cae1 )
+)
+
+game (
+	name "Budgie UK PD Source Disk 03 (1989-09-23)(Budgie UK)"
+	description "Budgie UK PD Source Disk 03 (1989-09-23)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 03 (1989-09-23)(Budgie UK).st" size 839680 crc 6e5916c9 md5 51304b72736d83cff4f961b0beb6e970 )
+)
+
+game (
+	name "Budgie UK PD Source Disk 04 (1990)(Budgie UK)"
+	description "Budgie UK PD Source Disk 04 (1990)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 04 (1990)(Budgie UK).st" size 829440 crc 7947019a md5 0910752760721a7f98c850176194b501 )
+)
+
+game (
+	name "Budgie UK PD Source Disk 09 (1990)(Budgie UK)"
+	description "Budgie UK PD Source Disk 09 (1990)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 09 (1990)(Budgie UK).st" size 829440 crc e4bae473 md5 88da236555488dfbceac01f77811e1d6 )
+)
+
+game (
+	name "Budgie UK PD Source Disk 13 (1991)(Budgie UK)"
+	description "Budgie UK PD Source Disk 13 (1991)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 13 (1991)(Budgie UK).st" size 829440 crc 88ca43d5 md5 a81eee1053df30f970bb154517120bde )
+)
+
+game (
+	name "Budgie UK PD Source Disk 14 (1991)(Budgie UK)"
+	description "Budgie UK PD Source Disk 14 (1991)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 14 (1991)(Budgie UK).st" size 829440 crc fc8adc0f md5 3307e3868883cd6aadf03857172d34ae )
+)
+
+game (
+	name "Budgie UK PD Source Disk 15 (1991)(Budgie UK)"
+	description "Budgie UK PD Source Disk 15 (1991)(Budgie UK)"
+	rom ( name "Budgie UK PD Source Disk 15 (1991)(Budgie UK).st" size 737280 crc b0b974ac md5 2fe4b7dad1279f7996aac4216da0dcb7 )
+)
+
+game (
+	name "Canfield Solitair (19xx)(Addison, David)(PD) & Klondike Solitair (19xx)(Addison, David)(PD)"
+	description "Canfield Solitair (19xx)(Addison, David)(PD) & Klondike Solitair (19xx)(Addison, David)(PD)"
+	rom ( name "Canfield Solitair (19xx)(Addison, David)(PD) & Klondike Solitair (19xx)(Addison, David)(PD).st" size 368640 crc 33aac3bb md5 229d0a251b4ffc06e2df8db3e9164443 )
+)
+
+game (
+	name "Combat (19xx)(Briggs, Lee A.)(SW) & Planetfall (demo) (19xx)(Briggs, Lee A.)"
+	description "Combat (19xx)(Briggs, Lee A.)(SW) & Planetfall (demo) (19xx)(Briggs, Lee A.)"
+	rom ( name "Combat (19xx)(Briggs, Lee A.)(SW) & Planetfall (demo) (19xx)(Briggs, Lee A.).st" size 737280 crc 20734757 md5 02e4b4ec9f17813539c1d88c1691f1f3 )
+)
+
+game (
+	name "Cyborg PD Menu Disk 8 (19xx)(Cyborg)"
+	description "Cyborg PD Menu Disk 8 (19xx)(Cyborg)"
+	rom ( name "Cyborg PD Menu Disk 8 (19xx)(Cyborg).st" size 737280 crc b1f38a70 md5 9f4075944280779e0c098e88a64d53a7 )
+)
+
+game (
+	name "Cyborg PD Menu Disk 9 (19xx)(Cyborg)"
+	description "Cyborg PD Menu Disk 9 (19xx)(Cyborg)"
+	rom ( name "Cyborg PD Menu Disk 9 (19xx)(Cyborg).st" size 737280 crc 21f3c73d md5 54ae8cdbdabd7c01da4507f6afe1067c )
+)
+
+game (
+	name "Dragonslayer (1985)(Softworks)(PD) & Susan - A Lustful Game (1988)(Softworks)(PD)"
+	description "Dragonslayer (1985)(Softworks)(PD) & Susan - A Lustful Game (1988)(Softworks)(PD)"
+	rom ( name "Dragonslayer (1985)(Softworks)(PD) & Susan - A Lustful Game (1988)(Softworks)(PD).st" size 839680 crc fc502ccd md5 fabc6bae472584fb4b05390f4380bcbb )
+)
+
+game (
+	name "Four Wins & Puzzle (1992)(Zwerschke, Christoph)(FW)"
+	description "Four Wins & Puzzle (1992)(Zwerschke, Christoph)(FW)"
+	rom ( name "Four Wins & Puzzle (1992)(Zwerschke, Christoph)(FW).st" size 368640 crc a5f03732 md5 15b8999e7fe059d761f675f793e5ca78 )
+)
+
+game (
+	name "Game Concept (1991)(The Conceptors)(fr)(PD)"
+	description "Game Concept (1991)(The Conceptors)(fr)(PD)"
+	rom ( name "Game Concept (1991)(The Conceptors)(fr)(PD).st" size 414720 crc ca04c970 md5 05ad133250bf60fdf2ca1b736a12dce7 )
+)
+
+game (
+	name "Game PD Number 01 (19xx)(The Special Forces)"
+	description "Game PD Number 01 (19xx)(The Special Forces)"
+	rom ( name "Game PD Number 01 (19xx)(The Special Forces).st" size 755712 crc 7ba493cd md5 081b6e8f77774fac21a481c9a6395694 )
+)
+
+game (
+	name "Golden Dawn PD Menu 04 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 04 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 04 (19xx)(Golden Dawn).st" size 829440 crc 6cee502a md5 2d46c94983cdfc145bd0380f18f542ff )
+)
+
+game (
+	name "Golden Dawn PD Menu 19 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 19 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 19 (19xx)(Golden Dawn).st" size 819200 crc 50c6af41 md5 af83f61e743ed238f44f5fd36142d382 )
+)
+
+game (
+	name "Golden Dawn PD Menu 21 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 21 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 21 (19xx)(Golden Dawn).st" size 737280 crc f9c4e6b5 md5 3580dbebcb91b19fe5b1ae2ec3d345e8 )
+)
+
+game (
+	name "Golden Dawn PD Menu 24 (1994-11-02)(Golden Dawn)"
+	description "Golden Dawn PD Menu 24 (1994-11-02)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 24 (1994-11-02)(Golden Dawn).st" size 839680 crc 16f1d13a md5 6e814f7f82dba37147bc00214c4fb27a )
+)
+
+game (
+	name "Golden Dawn PD Menu 25 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 25 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 25 (19xx)(Golden Dawn).st" size 829440 crc d8844fd9 md5 66740c2fefe158c4c142e58db2999227 )
+)
+
+game (
+	name "Golden Dawn PD Menu 27 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 27 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 27 (19xx)(Golden Dawn).st" size 839680 crc e509d070 md5 5c832c34cb137be84468d30e12581e01 )
+)
+
+game (
+	name "Golden Dawn PD Menu 29 (1995-01-05)(Golden Dawn)"
+	description "Golden Dawn PD Menu 29 (1995-01-05)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 29 (1995-01-05)(Golden Dawn).st" size 839680 crc 41644cbd md5 e1d7cd0a7e1f241e382c1fe044af9ff6 )
+)
+
+game (
+	name "Golden Dawn PD Menu 32 (19xx)(Golden Dawn)"
+	description "Golden Dawn PD Menu 32 (19xx)(Golden Dawn)"
+	rom ( name "Golden Dawn PD Menu 32 (19xx)(Golden Dawn).st" size 839680 crc b91aa573 md5 7681a4e432c41ad821b1f482b23b80ea )
+)
+
+game (
+	name "H MEC 2 (1993)(Stax) & Oh No! Not More Radioactive Mineshafts! (19xx)(Stax - Breakpoint)(STE-Falcon)[a]"
+	description "H MEC 2 (1993)(Stax) & Oh No! Not More Radioactive Mineshafts! (19xx)(Stax - Breakpoint)(STE-Falcon)[a]"
+	rom ( name "H MEC 2 (1993)(Stax) & Oh No! Not More Radioactive Mineshafts! (19xx)(Stax - Breakpoint)(STE-Falcon)[a].st" size 737280 crc aeeaaf51 md5 a07fe6112ee5f5064543da333f68c08c )
+)
+
+game (
+	name "Insomnia Shareware Disk 1 (19xx)(Insomnia)"
+	description "Insomnia Shareware Disk 1 (19xx)(Insomnia)"
+	rom ( name "Insomnia Shareware Disk 1 (19xx)(Insomnia).st" size 368640 crc f3f21122 md5 c661c2ae8f85aae40af8320e719781d7 )
+)
+
+game (
+	name "Interstellar PD CD 1 (19xx)(Interstellar)"
+	description "Interstellar PD CD 1 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 1 (19xx)(Interstellar).st" size 737280 crc f8f2e4a4 md5 213b21c87f49203872a6c0ce38d80785 )
+)
+
+game (
+	name "Interstellar PD CD 1 (19xx)(Interstellar)[a]"
+	description "Interstellar PD CD 1 (19xx)(Interstellar)[a]"
+	rom ( name "Interstellar PD CD 1 (19xx)(Interstellar)[a].st" size 737280 crc 1bb2c749 md5 ae5cd2524c88c2a7cb2157f6d2bb2cf1 )
+)
+
+game (
+	name "Interstellar PD CD 2 (19xx)(Interstellar)"
+	description "Interstellar PD CD 2 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 2 (19xx)(Interstellar).st" size 839680 crc f44cb470 md5 5cf5b827494c0b278bf1bec6aada6085 )
+)
+
+game (
+	name "Interstellar PD CD 3 (19xx)(Interstellar)"
+	description "Interstellar PD CD 3 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 3 (19xx)(Interstellar).st" size 755712 crc de5b979b md5 212df83399fe19d4df7734c9ec596f56 )
+)
+
+game (
+	name "Interstellar PD CD 4 (19xx)(Interstellar)"
+	description "Interstellar PD CD 4 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 4 (19xx)(Interstellar).st" size 737280 crc a1b73881 md5 63eb2e94edefa089fe162b7f1ea42306 )
+)
+
+game (
+	name "Interstellar PD CD 5 (19xx)(Interstellar)"
+	description "Interstellar PD CD 5 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 5 (19xx)(Interstellar).st" size 839680 crc 1fb2cf33 md5 d7c3d0be8fba6483ff6365bc944594df )
+)
+
+game (
+	name "Interstellar PD CD 6 (19xx)(Interstellar)"
+	description "Interstellar PD CD 6 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 6 (19xx)(Interstellar).st" size 839680 crc ebab86ae md5 8008c8c59375c28007d00532491e3342 )
+)
+
+game (
+	name "Interstellar PD CD 8 (19xx)(Interstellar)"
+	description "Interstellar PD CD 8 (19xx)(Interstellar)"
+	rom ( name "Interstellar PD CD 8 (19xx)(Interstellar).st" size 839680 crc bfce521d md5 b433a53983837a41eaf968f19b74c7b8 )
+)
+
+game (
+	name "Last Arcadian, The (1992)(Stalpers, Micha)(PD) & Puccer (1993-03-14)(Green, Matthew)(PD)"
+	description "Last Arcadian, The (1992)(Stalpers, Micha)(PD) & Puccer (1993-03-14)(Green, Matthew)(PD)"
+	rom ( name "Last Arcadian, The (1992)(Stalpers, Micha)(PD) & Puccer (1993-03-14)(Green, Matthew)(PD).st" size 746496 crc 849fb1f0 md5 dafe7f9f9eb1554e87f061c8a05cfd75 )
+)
+
+game (
+	name "Legal Games Menu Disk 4 (1994-10-26)(Naughty Bytes)"
+	description "Legal Games Menu Disk 4 (1994-10-26)(Naughty Bytes)"
+	rom ( name "Legal Games Menu Disk 4 (1994-10-26)(Naughty Bytes).st" size 923648 crc bef7365d md5 2033a74839e375b7192ca647060fb9c9 )
+)
+
+game (
+	name "Maxon PD Disk 209 (19xx)(Maxxon)"
+	description "Maxon PD Disk 209 (19xx)(Maxxon)"
+	rom ( name "Maxon PD Disk 209 (19xx)(Maxxon).st" size 737280 crc e2e0b6ca md5 334431ad86badebd3539eab0fd982376 )
+)
+
+game (
+	name "Maxon PD Disk 209 (19xx)(Maxxon)[a]"
+	description "Maxon PD Disk 209 (19xx)(Maxxon)[a]"
+	rom ( name "Maxon PD Disk 209 (19xx)(Maxxon)[a].st" size 737280 crc dad85399 md5 0fb07332e73ffab6b559dbf6fbb31bbf )
+)
+
+game (
+	name "Maxon PD Disk 209 (19xx)(Maxxon)[a2]"
+	description "Maxon PD Disk 209 (19xx)(Maxxon)[a2]"
+	rom ( name "Maxon PD Disk 209 (19xx)(Maxxon)[a2].st" size 737280 crc 3b8ab51b md5 38af731b79cb4d8b19c6bb99092ea784 )
+)
+
+game (
+	name "Maxon PD Disk xxx (19xx)(Maxxon)"
+	description "Maxon PD Disk xxx (19xx)(Maxxon)"
+	rom ( name "Maxon PD Disk xxx (19xx)(Maxxon).st" size 737280 crc 60146668 md5 2968f485db091f817cbb5cad63875910 )
+)
+
+game (
+	name "Merlin PD Disk 724 - 725 (19xx)(Merlin PD)"
+	description "Merlin PD Disk 724 - 725 (19xx)(Merlin PD)"
+	rom ( name "Merlin PD Disk 724 - 725 (19xx)(Merlin PD).st" size 737280 crc 8c2c6793 md5 a281fa5cc02baa61ec94c077b0b1d1f4 )
+)
+
+game (
+	name "Mini Game Collection (19xx)(-)(PD)"
+	description "Mini Game Collection (19xx)(-)(PD)"
+	rom ( name "Mini Game Collection (19xx)(-)(PD).st" size 737280 crc 5c4b0b48 md5 b7562dbe1a738dce9c30e4b1967a71b6 )
+)
+
+game (
+	name "Neon Lights Menu Disk 01 (1992-10-12)(Neon Lights)"
+	description "Neon Lights Menu Disk 01 (1992-10-12)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 01 (1992-10-12)(Neon Lights).st" size 839680 crc 670a7a1c md5 58fa370aad8e1cbd96b2facf302cb172 )
+)
+
+game (
+	name "Neon Lights Menu Disk 01 v2 (19xx)(Neon Lights)"
+	description "Neon Lights Menu Disk 01 v2 (19xx)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 01 v2 (19xx)(Neon Lights).st" size 839680 crc af1a2e69 md5 bbf4dbedbc721baa2bf29a16250b78ee )
+)
+
+game (
+	name "Neon Lights Menu Disk 03 (1992-11-14)(Neon Lights)"
+	description "Neon Lights Menu Disk 03 (1992-11-14)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 03 (1992-11-14)(Neon Lights).st" size 839680 crc c3c17205 md5 e612e992ccf992e9b914adf634026fc2 )
+)
+
+game (
+	name "Neon Lights Menu Disk 04 (1992-11-16)(Neon Lights)"
+	description "Neon Lights Menu Disk 04 (1992-11-16)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 04 (1992-11-16)(Neon Lights).st" size 839680 crc b0a16bed md5 17d8ac76a2e9c5bbbe0b7f1200e72f5c )
+)
+
+game (
+	name "Neon Lights Menu Disk 05 (1992-11-18)(Neon Lights)"
+	description "Neon Lights Menu Disk 05 (1992-11-18)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 05 (1992-11-18)(Neon Lights).st" size 839680 crc 143b066e md5 7c66ae640f75a5851db99304c0e44465 )
+)
+
+game (
+	name "Neon Lights Menu Disk 06 (1992-11-24)(Neon Lights)"
+	description "Neon Lights Menu Disk 06 (1992-11-24)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 06 (1992-11-24)(Neon Lights).st" size 839680 crc b0a1278f md5 6b38becf5c31423cc0206d235843c554 )
+)
+
+game (
+	name "Neon Lights Menu Disk 07 (1992-11-28)(Neon Lights)"
+	description "Neon Lights Menu Disk 07 (1992-11-28)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 07 (1992-11-28)(Neon Lights).st" size 829440 crc 2d0eaac7 md5 a5de69530dc26cea402f6ed87201734c )
+)
+
+game (
+	name "Neon Lights Menu Disk 08 (1992-12-16)(Neon Lights)"
+	description "Neon Lights Menu Disk 08 (1992-12-16)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 08 (1992-12-16)(Neon Lights).st" size 829440 crc ed11863f md5 7640e08ee7e765a0fb39897fc2935080 )
+)
+
+game (
+	name "Neon Lights Menu Disk 10 v2 (1993-01-15)(Neon Lights)"
+	description "Neon Lights Menu Disk 10 v2 (1993-01-15)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 10 v2 (1993-01-15)(Neon Lights).st" size 839680 crc dfb2632e md5 c5863a8fc786f06745e04852c41743a8 )
+)
+
+game (
+	name "Neon Lights Menu Disk 11 v2 (1993-01-24)(Neon Lights)"
+	description "Neon Lights Menu Disk 11 v2 (1993-01-24)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 11 v2 (1993-01-24)(Neon Lights).st" size 849920 crc 0f7684e2 md5 4827405bd2140a0b67910c254e1dc5ab )
+)
+
+game (
+	name "Neon Lights Menu Disk 12 (1993-01-22)(Neon Lights)"
+	description "Neon Lights Menu Disk 12 (1993-01-22)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 12 (1993-01-22)(Neon Lights).st" size 839680 crc b9eae650 md5 38d2a63b5135362d7cbb594416db10c8 )
+)
+
+game (
+	name "Neon Lights Menu Disk 13 (1993-01-26)(Neon Lights)"
+	description "Neon Lights Menu Disk 13 (1993-01-26)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 13 (1993-01-26)(Neon Lights).st" size 839680 crc 8a56bc4e md5 cd21baed0297ab84dc8d7a8d399c06a2 )
+)
+
+game (
+	name "Neon Lights Menu Disk 13 v2 (1993-03-11)(Neon Lights)"
+	description "Neon Lights Menu Disk 13 v2 (1993-03-11)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 13 v2 (1993-03-11)(Neon Lights).st" size 839680 crc 353c6cea md5 a62cdd90e69285fe1d08503d27c7dbdf )
+)
+
+game (
+	name "Neon Lights Menu Disk 14 v2 (1993-02-05)(Neon Lights)"
+	description "Neon Lights Menu Disk 14 v2 (1993-02-05)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 14 v2 (1993-02-05)(Neon Lights).st" size 849920 crc 5b27abb8 md5 51b097532603ad8382cee1f6d43fdb15 )
+)
+
+game (
+	name "Neon Lights Menu Disk 16 (1992-06-17)(Neon Lights)"
+	description "Neon Lights Menu Disk 16 (1992-06-17)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 16 (1992-06-17)(Neon Lights).st" size 849920 crc be92a081 md5 4b4a506c69ad32037090039702695240 )
+)
+
+game (
+	name "Neon Lights Menu Disk 23 (1993-03-21)(Neon Lights)"
+	description "Neon Lights Menu Disk 23 (1993-03-21)(Neon Lights)"
+	rom ( name "Neon Lights Menu Disk 23 (1993-03-21)(Neon Lights).st" size 839680 crc 5ec68b11 md5 56763aee0624f5ab4bf173c2d255d3e7 )
+)
+
+game (
+	name "Painter & Space Invaders (1993)(Sinister Developments)(M5)(SW)"
+	description "Painter & Space Invaders (1993)(Sinister Developments)(M5)(SW)"
+	rom ( name "Painter & Space Invaders (1993)(Sinister Developments)(M5)(SW).st" size 368640 crc 4167094f md5 c7a83bc9957a107fb5fc7b26825fdb5b )
+)
+
+game (
+	name "PD Collection Disk (19xx)(-)[b]"
+	description "PD Collection Disk (19xx)(-)[b]"
+	rom ( name "PD Collection Disk (19xx)(-)[b].st" size 737280 crc 737eba48 md5 d25a5b253d2bfa7cc9cb2e88ddd8fe5b )
+)
+
+game (
+	name "PD-Games 1 (19xx)(-)"
+	description "PD-Games 1 (19xx)(-)"
+	rom ( name "PD-Games 1 (19xx)(-).st" size 839680 crc 036518e1 md5 a7838019feba476a13af47e2c092a602 )
+)
+
+game (
+	name "PD-Games 2 (19xx)(-)"
+	description "PD-Games 2 (19xx)(-)"
+	rom ( name "PD-Games 2 (19xx)(-).st" size 839680 crc 16f8f661 md5 c9567cb481df1c59134b9632fe753615 )
+)
+
+game (
+	name "PD-Games 3 (19xx)(-)"
+	description "PD-Games 3 (19xx)(-)"
+	rom ( name "PD-Games 3 (19xx)(-).st" size 839680 crc 78293749 md5 b1b283e4c71cb80ae8617bfa38b747f6 )
+)
+
+game (
+	name "Public Domain Collection Disk 1 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 1 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 1 (19xx)(Replicants - Bad Boys).st" size 368640 crc 070f3202 md5 b46121cf7589526c4c7bf03ce51a09d4 )
+)
+
+game (
+	name "Public Domain Collection Disk 2 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 2 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 2 (19xx)(Replicants - Bad Boys).st" size 368640 crc 3e12c956 md5 a9b313404c92b12b7636a3b676fcb77f )
+)
+
+game (
+	name "Public Domain Collection Disk 3 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 3 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 3 (19xx)(Replicants - Bad Boys).st" size 368640 crc f852dc5c md5 20238924f4ba81b5b7706e91f0053e46 )
+)
+
+game (
+	name "Public Domain Collection Disk 4 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 4 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 4 (19xx)(Replicants - Bad Boys).st" size 368640 crc 21757186 md5 2c2def916d1584796053f36f8a270fbd )
+)
+
+game (
+	name "Public Domain Collection Disk 5 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 5 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 5 (19xx)(Replicants - Bad Boys).st" size 368640 crc 3613fc95 md5 987533a2f4ab06cbc6dc09987369f9c7 )
+)
+
+game (
+	name "Public Domain Collection Disk 6 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 6 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 6 (19xx)(Replicants - Bad Boys).st" size 368640 crc 9cadf43a md5 5548f0ec4ced75369688895f56861173 )
+)
+
+game (
+	name "Public Domain Collection Disk 7 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 7 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 7 (19xx)(Replicants - Bad Boys).st" size 368640 crc 39243ad6 md5 d2f13930020400365606ed01769192f2 )
+)
+
+game (
+	name "Public Domain Collection Disk 8 (19xx)(Replicants - Bad Boys)"
+	description "Public Domain Collection Disk 8 (19xx)(Replicants - Bad Boys)"
+	rom ( name "Public Domain Collection Disk 8 (19xx)(Replicants - Bad Boys).st" size 368640 crc 11e521d3 md5 72b364e97d601a43a0f70c2578961d7b )
+)
+
+game (
+	name "Serenade PD Disk 01 (19xx)(Serenade)"
+	description "Serenade PD Disk 01 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 01 (19xx)(Serenade).st" size 839680 crc d6756864 md5 478c9634e9b8b0f10efff8bde36bf28a )
+)
+
+game (
+	name "Serenade PD Disk 02 (19xx)(Serenade)"
+	description "Serenade PD Disk 02 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 02 (19xx)(Serenade).st" size 839680 crc 1957bf89 md5 f6dc2d749c7962fbac1791d5c01e7d2c )
+)
+
+game (
+	name "Serenade PD Disk 03 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 03 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 03 v2.0 (19xx)(Serenade).st" size 839680 crc 8a62eb50 md5 02a80bcc455064c48ee6336e86237caf )
+)
+
+game (
+	name "Serenade PD Disk 04 v2 (19xx)(Serenade)"
+	description "Serenade PD Disk 04 v2 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 04 v2 (19xx)(Serenade).st" size 839680 crc e1a58939 md5 fa3d92db3ce7642b61bad9cec2440de2 )
+)
+
+game (
+	name "Serenade PD Disk 05 (19xx)(Serenade)"
+	description "Serenade PD Disk 05 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 05 (19xx)(Serenade).st" size 839680 crc 2744ae5e md5 90b053561a98fbdce97c04c9b75fe47b )
+)
+
+game (
+	name "Serenade PD Disk 06 v2 (19xx)(Serenade)"
+	description "Serenade PD Disk 06 v2 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 06 v2 (19xx)(Serenade).st" size 839680 crc 1b8689e2 md5 4a14d48f53b127b80ae960ebe494e3c6 )
+)
+
+game (
+	name "Serenade PD Disk 07 (19xx)(Serenade)"
+	description "Serenade PD Disk 07 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 07 (19xx)(Serenade).st" size 839680 crc b4dedf4e md5 766206fd19f9ebe86a4eaea8d806dc29 )
+)
+
+game (
+	name "Serenade PD Disk 08 (19xx)(Serenade)"
+	description "Serenade PD Disk 08 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 08 (19xx)(Serenade).st" size 839680 crc 0d72256a md5 ee6589c32105a1cec94388bd88aff402 )
+)
+
+game (
+	name "Serenade PD Disk 09 (19xx)(Serenade)"
+	description "Serenade PD Disk 09 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 09 (19xx)(Serenade).st" size 839680 crc 65062501 md5 4697c481ed9c7690ca3413a69ca0f03b )
+)
+
+game (
+	name "Serenade PD Disk 10 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 10 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 10 v2.0 (19xx)(Serenade).st" size 839680 crc b401346f md5 88530518833390340b8259135d0b3515 )
+)
+
+game (
+	name "Serenade PD Disk 10 v2.0 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 10 v2.0 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 10 v2.0 (19xx)(Serenade)[a].st" size 839680 crc 6793900f md5 876fb81cb700689bc28f090e31fca94d )
+)
+
+game (
+	name "Serenade PD Disk 11 (19xx)(Serenade)"
+	description "Serenade PD Disk 11 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 11 (19xx)(Serenade).st" size 839680 crc f2579cbd md5 404b78ef7f55df8af6070d570d77246f )
+)
+
+game (
+	name "Serenade PD Disk 12 (19xx)(Serenade)"
+	description "Serenade PD Disk 12 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 12 (19xx)(Serenade).st" size 901120 crc 05a15612 md5 d06eb75737888993fb102cf4594b542b )
+)
+
+game (
+	name "Serenade PD Disk 13 (19xx)(Serenade)"
+	description "Serenade PD Disk 13 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 13 (19xx)(Serenade).st" size 839680 crc e11c8b30 md5 f7a51a7e4785ae9a8c0b82b73742041c )
+)
+
+game (
+	name "Serenade PD Disk 14 (19xx)(Serenade)"
+	description "Serenade PD Disk 14 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 14 (19xx)(Serenade).st" size 839680 crc 6e291b1c md5 f10c88ccec7586983995bdd2f0ebe704 )
+)
+
+game (
+	name "Serenade PD Disk 15 (19xx)(Serenade)"
+	description "Serenade PD Disk 15 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 15 (19xx)(Serenade).st" size 839680 crc 8cdaf1b5 md5 d442c815f4cb2f963b89348b67172301 )
+)
+
+game (
+	name "Serenade PD Disk 16 (19xx)(Serenade)"
+	description "Serenade PD Disk 16 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 16 (19xx)(Serenade).st" size 839680 crc 54a43838 md5 74448ec5499979df933f04af1af76f4a )
+)
+
+game (
+	name "Serenade PD Disk 17 (19xx)(Serenade)"
+	description "Serenade PD Disk 17 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 17 (19xx)(Serenade).st" size 839680 crc 23a0dfe5 md5 1e8d55292441c402d878fb0fdcb909b8 )
+)
+
+game (
+	name "Serenade PD Disk 18 (19xx)(Serenade)"
+	description "Serenade PD Disk 18 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 18 (19xx)(Serenade).st" size 839680 crc 8095669c md5 60a65524f8b59bfc825aed1a09422b09 )
+)
+
+game (
+	name "Serenade PD Disk 18 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 18 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 18 (19xx)(Serenade)[a].st" size 839680 crc ccfd0bbb md5 a901747464d663bcb7be8f22d6ccc5bd )
+)
+
+game (
+	name "Serenade PD Disk 19 (19xx)(Serenade)"
+	description "Serenade PD Disk 19 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 19 (19xx)(Serenade).st" size 839680 crc 3b9f57fc md5 71cd6a2054b1b0c7973a4bf2e8b52f63 )
+)
+
+game (
+	name "Serenade PD Disk 19 v2 (19xx)(Serenade)"
+	description "Serenade PD Disk 19 v2 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 19 v2 (19xx)(Serenade).st" size 839680 crc e3aefda7 md5 bb5ebe01fd96cb9048a4a85a1a2bfd91 )
+)
+
+game (
+	name "Serenade PD Disk 20 (19xx)(Serenade)"
+	description "Serenade PD Disk 20 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 20 (19xx)(Serenade).st" size 839680 crc 9901ff73 md5 6186cf59ce50f8d6ee1a6a5591d21907 )
+)
+
+game (
+	name "Serenade PD Disk 21 (19xx)(Serenade)"
+	description "Serenade PD Disk 21 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 21 (19xx)(Serenade).st" size 839680 crc 00b405ab md5 d384f203634544f2cad135c75f62eb5c )
+)
+
+game (
+	name "Serenade PD Disk 21 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 21 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 21 (19xx)(Serenade)[a].st" size 839680 crc e2c1f94b md5 6decd9cf537f8d08b33b20181d709a47 )
+)
+
+game (
+	name "Serenade PD Disk 22 (19xx)(Serenade)"
+	description "Serenade PD Disk 22 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 22 (19xx)(Serenade).st" size 839680 crc 09626e02 md5 e1a22c81dc49707747aeb70fa4281e4e )
+)
+
+game (
+	name "Serenade PD Disk 23 (19xx)(Serenade)"
+	description "Serenade PD Disk 23 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 23 (19xx)(Serenade).st" size 839680 crc fb3bab68 md5 8bb6b1aafddd760f1e3de7426d6d6cf9 )
+)
+
+game (
+	name "Serenade PD Disk 24 (19xx)(Serenade)"
+	description "Serenade PD Disk 24 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 24 (19xx)(Serenade).st" size 839680 crc 8159d669 md5 9f4bf565ca5ee2f196945ba5c65a4e87 )
+)
+
+game (
+	name "Serenade PD Disk 24 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 24 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 24 (19xx)(Serenade)[a].st" size 839680 crc c521de15 md5 1e46ae272c4b0e24c8826bd40e267a65 )
+)
+
+game (
+	name "Serenade PD Disk 25 (19xx)(Serenade)"
+	description "Serenade PD Disk 25 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 25 (19xx)(Serenade).st" size 839680 crc b7bbb4ea md5 a0ba2d191ce9aa5ef2d2844e88844ae6 )
+)
+
+game (
+	name "Serenade PD Disk 26 (19xx)(Serenade)"
+	description "Serenade PD Disk 26 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 26 (19xx)(Serenade).st" size 839680 crc 83aa4d7d md5 1e59ba2a88ba47204abf0e1e16de9d53 )
+)
+
+game (
+	name "Serenade PD Disk 27 (19xx)(Serenade)"
+	description "Serenade PD Disk 27 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 27 (19xx)(Serenade).st" size 839680 crc 7d4aedc8 md5 2ed29dc589ba47d64c8d8b46f1add89e )
+)
+
+game (
+	name "Serenade PD Disk 28 (19xx)(Serenade)"
+	description "Serenade PD Disk 28 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 28 (19xx)(Serenade).st" size 839680 crc 54c4ba3a md5 f124088a0c4f38d07b01ab9466cb4eda )
+)
+
+game (
+	name "Serenade PD Disk 29 (19xx)(Serenade)(Disk 1 of 2)"
+	description "Serenade PD Disk 29 (19xx)(Serenade)(Disk 1 of 2)"
+	rom ( name "Serenade PD Disk 29 (19xx)(Serenade)(Disk 1 of 2).st" size 839680 crc 110d9f00 md5 f1b29a80330b57a88927d701a7048be6 )
+)
+
+game (
+	name "Serenade PD Disk 29 (19xx)(Serenade)(Disk 2 of 2)"
+	description "Serenade PD Disk 29 (19xx)(Serenade)(Disk 2 of 2)"
+	rom ( name "Serenade PD Disk 29 (19xx)(Serenade)(Disk 2 of 2).st" size 839680 crc ef1c46ec md5 a6b32eacc462aaef4ced2f7dd7ce8850 )
+)
+
+game (
+	name "Serenade PD Disk 30 (19xx)(Serenade)"
+	description "Serenade PD Disk 30 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 30 (19xx)(Serenade).st" size 839680 crc b8d193a2 md5 89d72b4d9ba99b239ada453aa600ff2f )
+)
+
+game (
+	name "Serenade PD Disk 31 (19xx)(Serenade)"
+	description "Serenade PD Disk 31 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 31 (19xx)(Serenade).st" size 839680 crc 142f9011 md5 8482b3ad3b9b5958563a3ac2ca151e49 )
+)
+
+game (
+	name "Serenade PD Disk 31 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 31 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 31 (19xx)(Serenade)[a].st" size 816321 crc 8c6138de md5 00a9424aba8a624d20673cf93b0b0170 )
+)
+
+game (
+	name "Serenade PD Disk 32 (19xx)(Serenade)"
+	description "Serenade PD Disk 32 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 32 (19xx)(Serenade).st" size 839680 crc 5309b201 md5 c1ca4a872f37ea27242f5c65b1e15bc3 )
+)
+
+game (
+	name "Serenade PD Disk 33 (19xx)(Serenade)"
+	description "Serenade PD Disk 33 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 33 (19xx)(Serenade).st" size 839680 crc 1400aee7 md5 7b666f2ee2d7d7564c137e01790a6aeb )
+)
+
+game (
+	name "Serenade PD Disk 34 (19xx)(Serenade)"
+	description "Serenade PD Disk 34 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 34 (19xx)(Serenade).st" size 839680 crc e4861a9a md5 dc74f649c039f9c577eed6b431f8c51d )
+)
+
+game (
+	name "Serenade PD Disk 35 (19xx)(Serenade)"
+	description "Serenade PD Disk 35 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 35 (19xx)(Serenade).st" size 839680 crc 6ec51b94 md5 b5ebb6d96c070377075aec871dbe5fe3 )
+)
+
+game (
+	name "Serenade PD Disk 36 (19xx)(Serenade)"
+	description "Serenade PD Disk 36 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 36 (19xx)(Serenade).st" size 839680 crc 6f0285dc md5 88fa8bb434235b74a511ba422fd7aa77 )
+)
+
+game (
+	name "Serenade PD Disk 37 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 37 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 37 v2.0 (19xx)(Serenade).st" size 839680 crc 5c9d8b43 md5 3f3775d10aff77e02fe357dd983abc50 )
+)
+
+game (
+	name "Serenade PD Disk 38 (19xx)(Serenade)"
+	description "Serenade PD Disk 38 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 38 (19xx)(Serenade).st" size 901120 crc c47cbd1a md5 19f25b5e27968fbb93c06ca5dfa58d80 )
+)
+
+game (
+	name "Serenade PD Disk 39 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 39 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 39 v2.0 (19xx)(Serenade).st" size 839680 crc e474af48 md5 c4839a0d12e515978179ff4df74bb441 )
+)
+
+game (
+	name "Serenade PD Disk 40 (19xx)(Serenade)(Disk 2 of 2)"
+	description "Serenade PD Disk 40 (19xx)(Serenade)(Disk 2 of 2)"
+	rom ( name "Serenade PD Disk 40 (19xx)(Serenade)(Disk 2 of 2).st" size 839680 crc 896e6e54 md5 0ab7def70dc8a72fddd61e852a0b3667 )
+)
+
+game (
+	name "Serenade PD Disk 40 v2.0 (19xx)(Serenade)(Disk 1 of 2)"
+	description "Serenade PD Disk 40 v2.0 (19xx)(Serenade)(Disk 1 of 2)"
+	rom ( name "Serenade PD Disk 40 v2.0 (19xx)(Serenade)(Disk 1 of 2).st" size 839680 crc ceb3daf3 md5 a4c03e4cbbecf519f7fcfe550eb1dbc8 )
+)
+
+game (
+	name "Serenade PD Disk 41 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 41 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 41 v2.0 (19xx)(Serenade).st" size 839680 crc 8fe7405d md5 d8e67e6a5cf5964c59a77e8207479e3d )
+)
+
+game (
+	name "Serenade PD Disk 42 (19xx)(Serenade)"
+	description "Serenade PD Disk 42 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 42 (19xx)(Serenade).st" size 839680 crc 9ace736b md5 34068a9fa7d4db767a4a4e2d64fb546f )
+)
+
+game (
+	name "Serenade PD Disk 43 (19xx)(Serenade)"
+	description "Serenade PD Disk 43 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 43 (19xx)(Serenade).st" size 839680 crc c2f66162 md5 1c5f81db0d604522c67b1114337ac340 )
+)
+
+game (
+	name "Serenade PD Disk 44 (19xx)(Serenade)"
+	description "Serenade PD Disk 44 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 44 (19xx)(Serenade).st" size 839680 crc 5146759e md5 4fca190b958485ec12f92793d07fe666 )
+)
+
+game (
+	name "Serenade PD Disk 45 (19xx)(Serenade)"
+	description "Serenade PD Disk 45 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 45 (19xx)(Serenade).st" size 803840 crc 6e541191 md5 d192dbb02a6d55858ef2873e14e7a087 )
+)
+
+game (
+	name "Serenade PD Disk 45 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 45 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 45 (19xx)(Serenade)[a].st" size 839680 crc fdcff385 md5 8246b9aaa4e9251885d37d8ffdea96e1 )
+)
+
+game (
+	name "Serenade PD Disk 46 (19xx)(Serenade)"
+	description "Serenade PD Disk 46 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 46 (19xx)(Serenade).st" size 839680 crc 1366e54f md5 4d3df5531425fcba7ede0c9177805cf6 )
+)
+
+game (
+	name "Serenade PD Disk 47 (19xx)(Serenade)"
+	description "Serenade PD Disk 47 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 47 (19xx)(Serenade).st" size 839680 crc 36f4396e md5 732087bcf54fd7525eb567108cfca722 )
+)
+
+game (
+	name "Serenade PD Disk 48 (19xx)(Serenade)"
+	description "Serenade PD Disk 48 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 48 (19xx)(Serenade).st" size 839680 crc b22142bf md5 0322e60a2633880a304c735146518390 )
+)
+
+game (
+	name "Serenade PD Disk 49 (19xx)(Serenade)"
+	description "Serenade PD Disk 49 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 49 (19xx)(Serenade).st" size 839680 crc 5aadd4f2 md5 961e87b8ab4c8adbabb275d3217929d4 )
+)
+
+game (
+	name "Serenade PD Disk 50 (19xx)(Serenade)"
+	description "Serenade PD Disk 50 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 50 (19xx)(Serenade).st" size 839680 crc 30aa5cbb md5 76944eeaedf7ebb8f9c1a8ef09ea96a8 )
+)
+
+game (
+	name "Serenade PD Disk 51 (19xx)(Serenade)"
+	description "Serenade PD Disk 51 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 51 (19xx)(Serenade).st" size 901120 crc 1fcdbd45 md5 3abb37dd54441931b0a9c92a26179cce )
+)
+
+game (
+	name "Serenade PD Disk 52 (19xx)(Serenade)"
+	description "Serenade PD Disk 52 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 52 (19xx)(Serenade).st" size 839680 crc d47e647d md5 c6ebc40ff711143e869f187978b5b5df )
+)
+
+game (
+	name "Serenade PD Disk 53 (19xx)(Serenade)"
+	description "Serenade PD Disk 53 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 53 (19xx)(Serenade).st" size 839680 crc 40733a33 md5 d1ae53157981e097c0ded396102067bd )
+)
+
+game (
+	name "Serenade PD Disk 54 (19xx)(Serenade)"
+	description "Serenade PD Disk 54 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 54 (19xx)(Serenade).st" size 824320 crc 039d0290 md5 c136466ac1c6c7ff7691c51443144485 )
+)
+
+game (
+	name "Serenade PD Disk 54 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 54 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 54 (19xx)(Serenade)[a].st" size 839680 crc 4b481d90 md5 7d1e22746c3a8a1012b309c6a596d0d5 )
+)
+
+game (
+	name "Serenade PD Disk 55 (19xx)(Serenade)"
+	description "Serenade PD Disk 55 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 55 (19xx)(Serenade).st" size 839680 crc 10f63e36 md5 04c363ce276bb5e29d6b8201689e4f6a )
+)
+
+game (
+	name "Serenade PD Disk 56 (19xx)(Serenade)"
+	description "Serenade PD Disk 56 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 56 (19xx)(Serenade).st" size 839680 crc ed5fbd45 md5 6e2afa9b6cebeb43e014a9badb85c9d4 )
+)
+
+game (
+	name "Serenade PD Disk 57 (19xx)(Serenade)"
+	description "Serenade PD Disk 57 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 57 (19xx)(Serenade).st" size 839680 crc f018bb61 md5 30850fdd734ae5c954d5cb7ec252a454 )
+)
+
+game (
+	name "Serenade PD Disk 58 (19xx)(Serenade)"
+	description "Serenade PD Disk 58 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 58 (19xx)(Serenade).st" size 839680 crc 079ed94c md5 29bb26e188f573f5b9950932b0f12b75 )
+)
+
+game (
+	name "Serenade PD Disk 59 (19xx)(Serenade)"
+	description "Serenade PD Disk 59 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 59 (19xx)(Serenade).st" size 839680 crc a30826aa md5 92566581cf793ca4788e126b7a3e915e )
+)
+
+game (
+	name "Serenade PD Disk 60 (19xx)(Serenade)"
+	description "Serenade PD Disk 60 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 60 (19xx)(Serenade).st" size 839680 crc e2239d70 md5 8efca553c223081e1335c77f93520719 )
+)
+
+game (
+	name "Serenade PD Disk 61 (19xx)(Serenade)"
+	description "Serenade PD Disk 61 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 61 (19xx)(Serenade).st" size 839680 crc cc308abf md5 081fac8018fc351e5ad370a17f087241 )
+)
+
+game (
+	name "Serenade PD Disk 61 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 61 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 61 (19xx)(Serenade)[a].st" size 839680 crc 0cd180d8 md5 99da9227c21a109fcb08b089589481bb )
+)
+
+game (
+	name "Serenade PD Disk 62 (19xx)(Serenade)"
+	description "Serenade PD Disk 62 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 62 (19xx)(Serenade).st" size 839680 crc b90fb79a md5 7ccc14cf8ebdf9c54c4bbaad9d92f306 )
+)
+
+game (
+	name "Serenade PD Disk 63 (19xx)(Serenade)"
+	description "Serenade PD Disk 63 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 63 (19xx)(Serenade).st" size 839680 crc fe3dd370 md5 0064c6e9868a0aa059c38d61c1cd4ded )
+)
+
+game (
+	name "Serenade PD Disk 64 (19xx)(Serenade)"
+	description "Serenade PD Disk 64 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 64 (19xx)(Serenade).st" size 839680 crc 59d3ac6f md5 5221f09ee77aa49dd72f7e25c4332865 )
+)
+
+game (
+	name "Serenade PD Disk 65 (19xx)(Serenade)"
+	description "Serenade PD Disk 65 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 65 (19xx)(Serenade).st" size 839680 crc 95d14ac4 md5 77bf70da3e822c0ef0144561ab161ea3 )
+)
+
+game (
+	name "Serenade PD Disk 66 (19xx)(Serenade)(Disk 1 of 2)"
+	description "Serenade PD Disk 66 (19xx)(Serenade)(Disk 1 of 2)"
+	rom ( name "Serenade PD Disk 66 (19xx)(Serenade)(Disk 1 of 2).st" size 839680 crc ea65c034 md5 d414223d73de85b6b946f3822f7f305f )
+)
+
+game (
+	name "Serenade PD Disk 66 (19xx)(Serenade)(Disk 2 of 2)"
+	description "Serenade PD Disk 66 (19xx)(Serenade)(Disk 2 of 2)"
+	rom ( name "Serenade PD Disk 66 (19xx)(Serenade)(Disk 2 of 2).st" size 839680 crc 77cbcde7 md5 e49d71c96b14dd93cc96d56cb0b4c7af )
+)
+
+game (
+	name "Serenade PD Disk 67 (19xx)(Serenade)"
+	description "Serenade PD Disk 67 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 67 (19xx)(Serenade).st" size 839680 crc cf244a94 md5 6b5aae3ddd85f916bd66294781a385be )
+)
+
+game (
+	name "Serenade PD Disk 68 (19xx)(Serenade)"
+	description "Serenade PD Disk 68 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 68 (19xx)(Serenade).st" size 839680 crc e3170b91 md5 747e94bc031c3dddd5d6e9d2df951aa7 )
+)
+
+game (
+	name "Serenade PD Disk 68 v2.0 (19xx)(Serenade)"
+	description "Serenade PD Disk 68 v2.0 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 68 v2.0 (19xx)(Serenade).st" size 839680 crc f0a9cb20 md5 a22f3f05462c458a62fe36db0a439351 )
+)
+
+game (
+	name "Serenade PD Disk 69 (19xx)(Serenade)"
+	description "Serenade PD Disk 69 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 69 (19xx)(Serenade).st" size 901120 crc cbe59c11 md5 07e610e9efd136840f3a3c5f15bacea5 )
+)
+
+game (
+	name "Serenade PD Disk 70 (19xx)(Serenade)"
+	description "Serenade PD Disk 70 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 70 (19xx)(Serenade).st" size 839680 crc fb898c17 md5 b3079cda9aa180395454bce3abe67a15 )
+)
+
+game (
+	name "Serenade PD Disk 70 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 70 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 70 (19xx)(Serenade)[a].st" size 839680 crc db108700 md5 b248ef2b82a6f8eb8a2e7996f08e5837 )
+)
+
+game (
+	name "Serenade PD Disk 71 (19xx)(Serenade)"
+	description "Serenade PD Disk 71 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 71 (19xx)(Serenade).st" size 839680 crc 80ad2646 md5 d8924e76b4b50a4fa3c142ecc6292615 )
+)
+
+game (
+	name "Serenade PD Disk 72 (19xx)(Serenade)(Disk 1 of 2)"
+	description "Serenade PD Disk 72 (19xx)(Serenade)(Disk 1 of 2)"
+	rom ( name "Serenade PD Disk 72 (19xx)(Serenade)(Disk 1 of 2).st" size 839680 crc d85bf976 md5 7d32001a69ec2cc7e1fb16c1cfac644f )
+)
+
+game (
+	name "Serenade PD Disk 72 (19xx)(Serenade)(Disk 2 of 2)"
+	description "Serenade PD Disk 72 (19xx)(Serenade)(Disk 2 of 2)"
+	rom ( name "Serenade PD Disk 72 (19xx)(Serenade)(Disk 2 of 2).st" size 839680 crc 5a46cdaf md5 88b7c0f2b75173dd9e1cefb664feafe9 )
+)
+
+game (
+	name "Serenade PD Disk 73 (19xx)(Serenade)"
+	description "Serenade PD Disk 73 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 73 (19xx)(Serenade).st" size 839680 crc 4ff76d28 md5 4d98d724416d8ccd77718311adaf3498 )
+)
+
+game (
+	name "Serenade PD Disk 74 (19xx)(Serenade)"
+	description "Serenade PD Disk 74 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 74 (19xx)(Serenade).st" size 839680 crc 7bf3d602 md5 7f59e05aef97b4c92a1b626b214e8323 )
+)
+
+game (
+	name "Serenade PD Disk 74 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 74 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 74 (19xx)(Serenade)[a].st" size 839680 crc 588b2fdb md5 6218b357f83967f0e0874f428a976a82 )
+)
+
+game (
+	name "Serenade PD Disk 75 (19xx)(Serenade)"
+	description "Serenade PD Disk 75 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 75 (19xx)(Serenade).st" size 839680 crc 19b6a9f5 md5 c4c499e6d08f216aa4ae775467b93d5c )
+)
+
+game (
+	name "Serenade PD Disk 76 (19xx)(Serenade)"
+	description "Serenade PD Disk 76 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 76 (19xx)(Serenade).st" size 839680 crc 5c59f5da md5 edc9ae04327c0a52360bb3042b8147d0 )
+)
+
+game (
+	name "Serenade PD Disk 76 (19xx)(Serenade)[a]"
+	description "Serenade PD Disk 76 (19xx)(Serenade)[a]"
+	rom ( name "Serenade PD Disk 76 (19xx)(Serenade)[a].st" size 839680 crc 72d7947f md5 bf7c1caaa7b99c1922e229c8e2dd4359 )
+)
+
+game (
+	name "Serenade PD Disk 77 (19xx)(Serenade)"
+	description "Serenade PD Disk 77 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 77 (19xx)(Serenade).st" size 839680 crc f9c30961 md5 a70a1c56c805284859e173313595d346 )
+)
+
+game (
+	name "Serenade PD Disk 78 (19xx)(Serenade)"
+	description "Serenade PD Disk 78 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 78 (19xx)(Serenade).st" size 839680 crc 4e4f8ad6 md5 55d0dda84464739c9c533986392908e0 )
+)
+
+game (
+	name "Serenade PD Disk 79 (19xx)(Serenade)"
+	description "Serenade PD Disk 79 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 79 (19xx)(Serenade).st" size 839680 crc 643764de md5 1313938f5c3a6af04c03aca3916909b2 )
+)
+
+game (
+	name "Serenade PD Disk 80 (19xx)(Serenade)"
+	description "Serenade PD Disk 80 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 80 (19xx)(Serenade).st" size 839680 crc db485df7 md5 9a7ab45d74a2005184ad2d8aa38c5b35 )
+)
+
+game (
+	name "Serenade PD Disk 80 (19xx)(Serenade)[b]"
+	description "Serenade PD Disk 80 (19xx)(Serenade)[b]"
+	rom ( name "Serenade PD Disk 80 (19xx)(Serenade)[b].st" size 839680 crc 48101fd6 md5 f59abfd4c1a6bc79547d155358e2dac9 )
+)
+
+game (
+	name "Serenade PD Disk 81 (19xx)(Serenade)"
+	description "Serenade PD Disk 81 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 81 (19xx)(Serenade).st" size 839680 crc 866e9cf2 md5 1482fab38d9a6d51582c176827f60331 )
+)
+
+game (
+	name "Serenade PD Disk 82 (19xx)(Serenade)"
+	description "Serenade PD Disk 82 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 82 (19xx)(Serenade).st" size 839680 crc 69b4e537 md5 abfe531648ca8efaee3d94a34884b4cf )
+)
+
+game (
+	name "Serenade PD Disk 83 (19xx)(Serenade)"
+	description "Serenade PD Disk 83 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 83 (19xx)(Serenade).st" size 839680 crc 6c67a72f md5 5b07c9e234050f1affc1c7ef09b1b172 )
+)
+
+game (
+	name "Serenade PD Disk 84 (19xx)(Serenade)"
+	description "Serenade PD Disk 84 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 84 (19xx)(Serenade).st" size 839680 crc 54e74649 md5 dffcba96689e97d958c3c4f8d84b7d08 )
+)
+
+game (
+	name "Serenade PD Disk 85 (19xx)(Serenade)"
+	description "Serenade PD Disk 85 (19xx)(Serenade)"
+	rom ( name "Serenade PD Disk 85 (19xx)(Serenade).st" size 839680 crc f23ca3f7 md5 585f65bf9793acbd656e57c2d187d499 )
+)

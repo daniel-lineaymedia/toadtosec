@@ -1,0 +1,38 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Applications - [FDI]"
+	description "Sinclair ZX Spectrum - Compilations - Applications - [FDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Applications - [FDI]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "IS-DOS Stuff Collection 01 (19xx)(-)(ru)"
+	description "IS-DOS Stuff Collection 01 (19xx)(-)(ru)"
+	rom ( name "IS-DOS Stuff Collection 01 (19xx)(-)(ru).fdi" size 826240 crc 8d91dd13 md5 b167d3d30f09e513d3988675dd92a542 sha1 0dba278067f90aa59ab37e682fd94559d2bfbbdf )
+)
+
+game (
+	name "IS-DOS Stuff Collection 02 (19xx)(-)(ru)"
+	description "IS-DOS Stuff Collection 02 (19xx)(-)(ru)"
+	rom ( name "IS-DOS Stuff Collection 02 (19xx)(-)(ru).fdi" size 836480 crc d38f93ee md5 4055c81d7d921f3d90ee66ab885deafd sha1 1659a9f2764a1df5c9a9fa5115d8fe7d3cc9eb49 )
+)
+
+game (
+	name "IS-DOS Stuff Collection 03 (19xx)(-)(ru)"
+	description "IS-DOS Stuff Collection 03 (19xx)(-)(ru)"
+	rom ( name "IS-DOS Stuff Collection 03 (19xx)(-)(ru).fdi" size 830336 crc 84c12833 md5 4f48c241324a4ee2ad99c2b2adffe030 sha1 bbc4d8c5318e13ad58e9b6ffcfff6af0ef12f431 )
+)
+
+game (
+	name "IS-DOS Stuff Collection 04 (19xx)(-)(ru)"
+	description "IS-DOS Stuff Collection 04 (19xx)(-)(ru)"
+	rom ( name "IS-DOS Stuff Collection 04 (19xx)(-)(ru).fdi" size 826240 crc 93d20d6f md5 9c870f153910d86ab00d4869e6ac347b sha1 a6dc78257beebc3603257aedb214b11a5e13679f )
+)
+
+game (
+	name "IS-DOS Stuff Collection 05 (19xx)(-)(ru)"
+	description "IS-DOS Stuff Collection 05 (19xx)(-)(ru)"
+	rom ( name "IS-DOS Stuff Collection 05 (19xx)(-)(ru).fdi" size 826240 crc ff2721ba md5 2a1485dccdf93cb0ca0de000dc4f3ce6 sha1 02d85d4df814f017b41ebd9b667dbb71089d0496 )
+)
+

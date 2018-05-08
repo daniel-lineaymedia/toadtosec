@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Exelvision EXL100 - Demos - [TD0]"
+	description "Exelvision EXL100 - Demos - [TD0] (TOSEC-v2009-11-23)"
+	category "Exelvision EXL100 - Demos - [TD0]"
+	version 2009-11-23
+	author "TKaos"
+)
+
+game (
+	name "Demonstration Exelpaint (1985)(Exelvision)(FR)"
+	description "Demonstration Exelpaint (1985)(Exelvision)(FR)"
+	rom ( name "Demonstration Exelpaint (1985)(Exelvision)(FR).td0" size 571834 crc e00a1b19 md5 090dcd1c7a16c52437268a28bd4d1285 )
+)

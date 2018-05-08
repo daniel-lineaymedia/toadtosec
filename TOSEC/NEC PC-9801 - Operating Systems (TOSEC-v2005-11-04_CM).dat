@@ -1,0 +1,13 @@
+clrmamepro (
+	name "NEC PC-9801 - Operating Systems"
+	description "NEC PC-9801 - Operating Systems (TOSEC-v2005-11-04)"
+	category "NEC PC-9801 - Operating Systems"
+	version 2005-11-04
+	author "Cassiel"
+)
+
+game (
+	name "MS-DOS v6.2 (19xx)(Microsoft)"
+	description "MS-DOS v6.2 (19xx)(Microsoft)"
+	rom ( name "MS-DOS v6.2 (19xx)(Microsoft).fdd" size 1256444 crc d755441e md5 8719bec027fe83ade0a5d5f90564f8cf )
+)

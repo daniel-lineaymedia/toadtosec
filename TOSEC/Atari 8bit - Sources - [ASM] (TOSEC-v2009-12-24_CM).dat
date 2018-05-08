@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Atari 8bit - Sources - [ASM]"
+	description "Atari 8bit - Sources - [ASM] (TOSEC-v2009-12-24)"
+	category "Atari 8bit - Sources - [ASM]"
+	version 2009-12-24
+	author "TKaos"
+)
+
+game (
+	name "FlashPack v2.1 - Depk (1997-05-05)(Taquart)(pl)"
+	description "FlashPack v2.1 - Depk (1997-05-05)(Taquart)(pl)"
+	rom ( name "FlashPack v2.1 - Depk (1997-05-05)(Taquart)(pl).asm" size 1081 crc c4470817 md5 0c285d3ce0078cab492db94cba70c03d )
+)

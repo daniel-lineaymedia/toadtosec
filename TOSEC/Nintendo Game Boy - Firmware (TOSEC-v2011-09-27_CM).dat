@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Game Boy - Firmware"
+	description "Nintendo Game Boy - Firmware (TOSEC-v2011-09-27)"
+	category "Nintendo Game Boy - Firmware"
+	version 2011-09-27
+	author "Cassiel"
+)
+
+game (
+	name "Nintendo Game Boy BIOS (1989)(Nintendo)"
+	description "Nintendo Game Boy BIOS (1989)(Nintendo)"
+	rom ( name "Nintendo Game Boy BIOS (1989)(Nintendo).bin" size 256 crc 59c8598e md5 32fbbd84168d3482956eb3c5051637f5 sha1 4ed31ec6b0b175bb109c0eb5fd3d193da823339f )
+)
+

@@ -1,0 +1,235 @@
+clrmamepro (
+	name "Apple II - Operating Systems - [DO]"
+	description "Apple II - Operating Systems - [DO] (TOSEC-v2010-01-16)"
+	category "Apple II - Operating Systems - [DO]"
+	version 2010-01-16
+	author "TKaos - jjs - bigboo - Cassiel"
+)
+
+game (
+	name "40 and 80 Track DOS (19xx)(Sympathetic Software)"
+	description "40 and 80 Track DOS (19xx)(Sympathetic Software)"
+	rom ( name "40 and 80 Track DOS (19xx)(Sympathetic Software).do" size 143360 crc 3799c15b md5 3336e4294a7666d4ddaf7926dc211f70 )
+)
+
+game (
+	name "Amdos v3.5 (1986)(Gary B. Little)"
+	description "Amdos v3.5 (1986)(Gary B. Little)"
+	rom ( name "Amdos v3.5 (1986)(Gary B. Little).do" size 143360 crc fd94a0f6 md5 2f59f6435c596ae0229a68780ff1f40e )
+)
+
+game (
+	name "Apple DOS v3.3 (1980)(Apple)"
+	description "Apple DOS v3.3 (1980)(Apple)"
+	rom ( name "Apple DOS v3.3 (1980)(Apple).do" size 143360 crc e766f072 md5 b13de32fd7a97d817744bf2dd71d5479 )
+)
+
+game (
+	name "Apple DOS v3.3 (1980)(Apple)[a]"
+	description "Apple DOS v3.3 (1980)(Apple)[a]"
+	rom ( name "Apple DOS v3.3 (1980)(Apple)[a].do" size 143360 crc 43ce35fe md5 26962a40145e98b761ca12bcdb913502 )
+)
+
+game (
+	name "Apple DOS v3.3 (1983)(Apple)[with Adt v1.21]"
+	description "Apple DOS v3.3 (1983)(Apple)[with Adt v1.21]"
+	rom ( name "Apple DOS v3.3 (1983)(Apple)[with Adt v1.21].do" size 143360 crc 10076aa3 md5 7c350e5da3672bca4abbdbe67fdaf14a )
+)
+
+game (
+	name "David-DOS (1982)(David Data)"
+	description "David-DOS (1982)(David Data)"
+	rom ( name "David-DOS (1982)(David Data).do" size 143360 crc b03627ae md5 bb0148b72a54363832df3e0360c172fc )
+)
+
+game (
+	name "Diversi-DOS v2c (1982)(DSR)"
+	description "Diversi-DOS v2c (1982)(DSR)"
+	rom ( name "Diversi-DOS v2c (1982)(DSR).do" size 143360 crc d614f78d md5 9872b7d792676de3a8e50ab1ca2377b4 )
+)
+
+game (
+	name "Diversi-DOS v4.1c (1983)(DSR)"
+	description "Diversi-DOS v4.1c (1983)(DSR)"
+	rom ( name "Diversi-DOS v4.1c (1983)(DSR).do" size 143360 crc c2b4927d md5 6188a890b22d57ba3e86b4e0d93fe55d )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side A)[no boot].do" size 143360 crc e4990c07 md5 f378468724f423bbe677a88e8ce3a9b3 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 01 of 16 Side B)[no boot].do" size 143360 crc 8923433a md5 750a8c69df5c53a6e8f0e8cadd5b8b63 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side A)[no boot].do" size 143360 crc 1694c486 md5 fae09d4ba114ca78ea64471e8b29f8e9 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 02 of 16 Side B)[no boot].do" size 143360 crc ea2df0e6 md5 93659989e57a0b3f38c74123848762e8 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side A)[no boot].do" size 143360 crc d1dec840 md5 84f6dac2ae90111b83051daddee2a3ee )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 03 of 16 Side B)[no boot].do" size 143360 crc 3716c745 md5 501c570a79adffa5f24100ff2a4f4d85 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side A)[no boot].do" size 143360 crc bf79047f md5 9ec01fb5159bead9fab14aef6f37077a )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 04 of 16 Side B)[no boot].do" size 143360 crc 736d2537 md5 b0c1061727356fe384f93f10e1905447 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side A)[no boot].do" size 143360 crc 60ac3189 md5 754d5888c01acd764f35a637f1da9866 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 05 of 16 Side B)[no boot].do" size 143360 crc 59a26c27 md5 cf43b7baf7c028fdda9854c07b58e7ac )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 06 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 06 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 06 of 16 Side A)[no boot].do" size 143360 crc 81de2cf2 md5 dfc9fce7a90c188abc67fb7be9da62d3 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side A)[no boot].do" size 143360 crc 00a7329d md5 be530798375fa194d1c01f620c99d2c0 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 07 of 16 Side B)[no boot].do" size 143360 crc 3c29a4fd md5 f048a78ee042803696c650317fa6a496 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side A)[no boot].do" size 143360 crc d1fe0085 md5 3caab72e58930216ecd7bc9129510773 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 08 of 16 Side B)[no boot].do" size 143360 crc 9031dcf1 md5 d0f384104d9a5715d3fcb7954db4347c )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side A)[no boot].do" size 143360 crc 83772628 md5 c06e282abe450f396102c2726929ce9d )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 09 of 16 Side B)[no boot].do" size 143360 crc 7af324c7 md5 d88994ca7451f9b7dcfa2093031898c2 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side A)[no boot].do" size 143360 crc fbba2ea9 md5 672c7edc4940bda39d4e1b2829a71291 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 10 of 16 Side B)[no boot].do" size 143360 crc 3e1f5002 md5 ebd4182d1e174907ce85944490efeb57 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side A)[no boot].do" size 143360 crc fb7ba812 md5 506276f23fd4d344135fcb22d60982fb )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 11 of 16 Side B)[no boot].do" size 143360 crc a2c1ddc5 md5 f00ffcb478dd85c595446e6fdebdcac7 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side A)[no boot].do" size 143360 crc 7816eee3 md5 b05b8aaf7c70077602e1449abf4be032 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 12 of 16 Side B)[no boot].do" size 143360 crc 0040a9c2 md5 0cd2510fa29e874e2406f811d141dc9f )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side A)[no boot].do" size 143360 crc ba2b42e9 md5 ca0789f4e000058d8e42998dd229ee55 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 13 of 16 Side B)[no boot].do" size 143360 crc 28e6cf31 md5 195189d34b4b14d07d979ce8e3e2b6a5 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side A)[no boot].do" size 143360 crc 9bd3f4b0 md5 0deecce20017d90380b5c54a2235db77 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 14 of 16 Side B)[no boot].do" size 143360 crc 3e7f9c32 md5 96e6bd44990da097ab0a86757e8db5e3 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side A)[no boot].do" size 143360 crc 3ddb2a3b md5 cab67421c388bf63aaa4e50e3411c63f )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side B)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side B)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 15 of 16 Side B)[no boot].do" size 143360 crc 97ae2b04 md5 7ec65b2772fb946884c501ac71c1c236 )
+)
+
+game (
+	name "DOS Anatomy (1986)(Windsor Scientific)(Disk 16 of 16 Side A)[no boot]"
+	description "DOS Anatomy (1986)(Windsor Scientific)(Disk 16 of 16 Side A)[no boot]"
+	rom ( name "DOS Anatomy (1986)(Windsor Scientific)(Disk 16 of 16 Side A)[no boot].do" size 143360 crc f347b758 md5 5377b292502922a0b4323b9cb4389784 )
+)

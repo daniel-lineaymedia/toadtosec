@@ -1,0 +1,680 @@
+clrmamepro (
+	name "Tandy Radio Shack TRS-80 Color Computer - Games - [DSK]"
+	description "Tandy Radio Shack TRS-80 Color Computer - Games - [DSK] (TOSEC-v2011-01-01)"
+	category "Tandy Radio Shack TRS-80 Color Computer - Games - [DSK]"
+	version 2011-01-01
+	author "Aral"
+)
+
+game (
+	name "666 The Haunted House (2003)(Hofsetz, Christian)"
+	description "666 The Haunted House (2003)(Hofsetz, Christian)"
+	rom ( name "666 The Haunted House (2003)(Hofsetz, Christian).dsk" size 117760 crc 4ea5e659 md5 58aba48babe9b31a1137281536501c50 sha1 3468c653556622857d6d50b5c65bdbf1f4ec797a )
+)
+
+game (
+	name "7 Card Stud (198x)(Tandy)[26-3074]"
+	description "7 Card Stud (198x)(Tandy)[26-3074]"
+	rom ( name "7 Card Stud (198x)(Tandy)[26-3074].dsk" size 161280 crc f63fb2d7 md5 32491480e2ad1f3ce92fa0fdb75156a9 sha1 47ba5fe006ffa1f29c2332ddc98f191117b4dc2d )
+)
+
+game (
+	name "Adventures in Mythology (1985)(Saguard Software)[cr Mr X]"
+	description "Adventures in Mythology (1985)(Saguard Software)[cr Mr X]"
+	rom ( name "Adventures in Mythology (1985)(Saguard Software)[cr Mr X].dsk" size 161280 crc ac27a7ea md5 1195de5788423cd4e52f5822d41ea8e8 sha1 26b4cccb4938485d532d1b3c109c907dd4f5a277 )
+)
+
+game (
+	name "Andrea Coco, The (1985)(Saguard Software)"
+	description "Andrea Coco, The (1985)(Saguard Software)"
+	rom ( name "Andrea Coco, The (1985)(Saguard Software).dsk" size 161280 crc 22d72900 md5 d6a2d51e3821ec509e31716fe01f0f94 sha1 ceef8436a404dacd1c5ab49038decdf037704fe0 )
+)
+
+game (
+	name "Androne (1983)(Tandy)[26-3096]"
+	description "Androne (1983)(Tandy)[26-3096]"
+	rom ( name "Androne (1983)(Tandy)[26-3096].dsk" size 161280 crc 42f405dd md5 30d794a4b6f2968fe3e97ea5c7758bdf sha1 0aff7271b4ab217b47ee76a11b7111dfaf2218e4 )
+)
+
+game (
+	name "Arena of Skill (1988)(Nivison, Chuck)"
+	description "Arena of Skill (1988)(Nivison, Chuck)"
+	rom ( name "Arena of Skill (1988)(Nivison, Chuck).dsk" size 161280 crc 12904a57 md5 a88fe6baa34f0b8fb508c32b8d17316e sha1 d9c11f4db06c8a2bd981aa9674b94648629fbece )
+)
+
+game (
+	name "Arkanoid (1987)(Tandy)[26-3043]"
+	description "Arkanoid (1987)(Tandy)[26-3043]"
+	rom ( name "Arkanoid (1987)(Tandy)[26-3043].dsk" size 161280 crc e658ad4d md5 9d7ebe417407e6020715135ae02d75c7 sha1 f8405c6615a9f09f36fa439eb67c3a0d03b217f1 )
+)
+
+game (
+	name "Armchair Admiral (1987)(Eversoft Games)"
+	description "Armchair Admiral (1987)(Eversoft Games)"
+	rom ( name "Armchair Admiral (1987)(Eversoft Games).dsk" size 184320 crc ed1804ee md5 dce61cd20324cc61525e45d89aedcf9b sha1 c4742de7bf9560fc195ea452d17a5c4d45562c28 )
+)
+
+game (
+	name "Asimov Awards (2006)(-)"
+	description "Asimov Awards (2006)(-)"
+	rom ( name "Asimov Awards (2006)(-).dsk" size 161280 crc a3889bb6 md5 188c3324b040eefab4aca6b2a8cfa69e sha1 aa25f3fd2a3258beeeea9f8c4357f3af46d33e1b )
+)
+
+game (
+	name "Asimov Awards (2007)(-)"
+	description "Asimov Awards (2007)(-)"
+	rom ( name "Asimov Awards (2007)(-).dsk" size 161280 crc ddc76669 md5 d15af24bc825f4c49e68cd7e9a2dc2f1 sha1 a7d37476610908ee64350c6dd1bc83372667671e )
+)
+
+game (
+	name "Atom (1983)(Tandy)[26-3149]"
+	description "Atom (1983)(Tandy)[26-3149]"
+	rom ( name "Atom (1983)(Tandy)[26-3149].dsk" size 161280 crc 79645a05 md5 4a1db10d1cbe2f93c62cdacb49f5858b sha1 ce73a7c00a21343fb215464c98f4c5adc0f87ca9 )
+)
+
+game (
+	name "Barbarian Quest (1990)(Sportsware)(Disk 1 of 2)"
+	description "Barbarian Quest (1990)(Sportsware)(Disk 1 of 2)"
+	rom ( name "Barbarian Quest (1990)(Sportsware)(Disk 1 of 2).dsk" size 256016 crc 5d96fb0d md5 e0b5ac0d554694a4ea9df3c7ad0b3e79 sha1 d16eebee4e436313198955131c40570b6bc80473 )
+)
+
+game (
+	name "Barbarian Quest (1990)(Sportsware)(Disk 2 of 2)"
+	description "Barbarian Quest (1990)(Sportsware)(Disk 2 of 2)"
+	rom ( name "Barbarian Quest (1990)(Sportsware)(Disk 2 of 2).dsk" size 256016 crc 7fa9f294 md5 d8c33e966dbd4864e8e3d89f8ed783a3 sha1 5dd02c86e51c0896aee37ae280ad90695eff8c3e )
+)
+
+game (
+	name "Bedlam (1982)(Tandy)[26-3312]"
+	description "Bedlam (1982)(Tandy)[26-3312]"
+	rom ( name "Bedlam (1982)(Tandy)[26-3312].dsk" size 161280 crc effbe281 md5 71803717a03ac0b15212c98aa775fbc2 sha1 dba6b9fb7348f0e9f6df0de49cddcca9b799e019 )
+)
+
+game (
+	name "Bingo Math (1983)(Tandy)[26-3150]"
+	description "Bingo Math (1983)(Tandy)[26-3150]"
+	rom ( name "Bingo Math (1983)(Tandy)[26-3150].dsk" size 161280 crc 18c07804 md5 3e559593d587a96d4fe2374e54efc718 sha1 6fb826802d70fdedfacb0253a4985e787b7d3f58 )
+)
+
+game (
+	name "Blackbeard's Island (1984)(Tom Mix Software)"
+	description "Blackbeard's Island (1984)(Tom Mix Software)"
+	rom ( name "Blackbeard's Island (1984)(Tom Mix Software).dsk" size 161280 crc 3c4d000c md5 03cdc0ca4c6e36df04237f349615b681 sha1 0f1f59367280db03739ac117e7d4278f041b9e35 )
+)
+
+game (
+	name "Bridge Tutor I (1983)(Tandy)[26-3158]"
+	description "Bridge Tutor I (1983)(Tandy)[26-3158]"
+	rom ( name "Bridge Tutor I (1983)(Tandy)[26-3158].dsk" size 161280 crc eabcd689 md5 b66b0c58fcb7a3d1129eafae7d8ed90c sha1 2933a293f7f7813ff59e3c24ae5eabb406d01236 )
+)
+
+game (
+	name "Caladuril - Flame of Light (1987)(Diecom Products)"
+	description "Caladuril - Flame of Light (1987)(Diecom Products)"
+	rom ( name "Caladuril - Flame of Light (1987)(Diecom Products).dsk" size 161280 crc d5df3395 md5 560b3dffe2a78c9b7b414afe41c69b2a sha1 56ecea4350d65c7149d04caf2d787d23d8c83e44 )
+)
+
+game (
+	name "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 1 of 2)"
+	description "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 1 of 2)"
+	rom ( name "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 1 of 2).dsk" size 505616 crc 72d581d8 md5 40148e870bdb4a86ed46d59e8cb7ad4f sha1 c7fd20437d15ead823f7ea85d775994b293d3d51 )
+)
+
+game (
+	name "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 2 of 2)"
+	description "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 2 of 2)"
+	rom ( name "Caladuril 2 - Weatherstone's End (1988)(Diacom Products)(Disk 2 of 2).dsk" size 505616 crc bdf68bee md5 697021e43a283a527a2c6fe1181e8af8 sha1 12a363a7f4e024101b358142ec511c33e2392826 )
+)
+
+game (
+	name "Canyon Climber (1982)(Tandy)[26-3089]"
+	description "Canyon Climber (1982)(Tandy)[26-3089]"
+	rom ( name "Canyon Climber (1982)(Tandy)[26-3089].dsk" size 161280 crc 29af0fdb md5 7d10449cd4238f110d5056133d4a50fe sha1 447aa834c4900006a4f1c54bfa665968c3a34a8d )
+)
+
+game (
+	name "Castle Guard (1982)(Tandy)[26-3079]"
+	description "Castle Guard (1982)(Tandy)[26-3079]"
+	rom ( name "Castle Guard (1982)(Tandy)[26-3079].dsk" size 161280 crc ec2e494a md5 4efbb2a5c04bc56d3676e4c8e8097152 sha1 c6f3653c12026bae9e1fd9d09fe187fee9d4c4f7 )
+)
+
+game (
+	name "Cave Walker (1986)(Spectral Associates)"
+	description "Cave Walker (1986)(Spectral Associates)"
+	rom ( name "Cave Walker (1986)(Spectral Associates).dsk" size 161280 crc 3bd9981b md5 51649aeb7f0892bcb8f9f9fc0e1531b3 sha1 b62d08eb49f1325e0ca03042e9b1c2e0a184cf4d )
+)
+
+game (
+	name "Cave Walker (1987)(Tandy)[26-3246]"
+	description "Cave Walker (1987)(Tandy)[26-3246]"
+	rom ( name "Cave Walker (1987)(Tandy)[26-3246].dsk" size 161280 crc c361677b md5 0cc4d7860a4586668d8ec0158ea81b25 sha1 1f241111efd0fd0b5ef4dfc982a87b71ab9392d4 )
+)
+
+game (
+	name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 2)"
+	description "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 2)"
+	rom ( name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 2).dsk" size 141824 crc d1cd4056 md5 8b47e72c28f586a273e3df92e8b47b22 sha1 4d7e241e06b6be583ae2ac2ccee5c412845172e0 )
+)
+
+game (
+	name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 3)[coco3]"
+	description "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 3)[coco3]"
+	rom ( name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 1 of 3)[coco3].dsk" size 184320 crc 064cd725 md5 0f08a9353f30813daf5657efa6544048 sha1 a70b6461b6917a3ff314e70bedc465f9fb29db0b )
+)
+
+game (
+	name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 2)"
+	description "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 2)"
+	rom ( name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 2).dsk" size 184320 crc e607473e md5 625700bf683f1e0df44974754300d99b sha1 2def45d222ea596fffe90c7e230811a2801d651d )
+)
+
+game (
+	name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 3)[coco3]"
+	description "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 3)[coco3]"
+	rom ( name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 2 of 3)[coco3].dsk" size 141824 crc fa830bb2 md5 f73394c45819c578fb93ae93b9caade4 sha1 c86921ebad249ccfd1b5188ef09c8e5dc8decf6b )
+)
+
+game (
+	name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 3 of 3)[coco3]"
+	description "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 3 of 3)[coco3]"
+	rom ( name "Caves of the Unwashed Heathen (2000)(Schoemaker, Paul)(Disk 3 of 3)[coco3].dsk" size 184320 crc e607473e md5 625700bf683f1e0df44974754300d99b sha1 2def45d222ea596fffe90c7e230811a2801d651d )
+)
+
+game (
+	name "Checker King (1980)(Tandy)[26-3055]"
+	description "Checker King (1980)(Tandy)[26-3055]"
+	rom ( name "Checker King (1980)(Tandy)[26-3055].dsk" size 161280 crc b012dbb9 md5 7e0219c24b0002fe2e0a0b41fc4d4289 sha1 91ace02e4c859d5f2deffbcdff44c33ac2dc80e8 )
+)
+
+game (
+	name "Checkers (1986)(Young, Richard)"
+	description "Checkers (1986)(Young, Richard)"
+	rom ( name "Checkers (1986)(Young, Richard).dsk" size 161280 crc 374eb9d6 md5 210f2137b14fa14a64d1987a23170b3d sha1 9287876f83d29296b3625e2a5d20b9fb43bbf37c )
+)
+
+game (
+	name "Chess (1980)(Tandy)[26-3050]"
+	description "Chess (1980)(Tandy)[26-3050]"
+	rom ( name "Chess (1980)(Tandy)[26-3050].dsk" size 161280 crc f9e326ac md5 28976eb929af87fb7febd6e9ebd5bfbb sha1 15739635aa7c533b31670234cdb8fec32397bbad )
+)
+
+game (
+	name "Chess (1986)(Young, Richard)"
+	description "Chess (1986)(Young, Richard)"
+	rom ( name "Chess (1986)(Young, Richard).dsk" size 161280 crc 14c88e3f md5 ea90f51abe539ecd2f1439d987af5867 sha1 8ea9e06d3000b45f348491e5c51607fbfc8bc588 )
+)
+
+game (
+	name "Chessd (1984)(Software Dynamic)"
+	description "Chessd (1984)(Software Dynamic)"
+	rom ( name "Chessd (1984)(Software Dynamic).dsk" size 161280 crc 77c479a5 md5 ab5e7f9725ff391f7a2c3dad2eba075e sha1 118ab34fb989a1a1d2393afc318bb7eaec4d4166 )
+)
+
+game (
+	name "Chessd (1984)(Software Dynamicc)"
+	description "Chessd (1984)(Software Dynamicc)"
+	rom ( name "Chessd (1984)(Software Dynamicc).dsk" size 161280 crc 77c479a5 md5 ab5e7f9725ff391f7a2c3dad2eba075e sha1 118ab34fb989a1a1d2393afc318bb7eaec4d4166 )
+)
+
+game (
+	name "Classic Solitaire (198x)(Eversoft Games)"
+	description "Classic Solitaire (198x)(Eversoft Games)"
+	rom ( name "Classic Solitaire (198x)(Eversoft Games).dsk" size 224016 crc 203f9633 md5 19bc56f3810cf23e8604a877ff1831df sha1 9de2836f29d78dc3b06d3947bd3d431442d53e20 )
+)
+
+game (
+	name "Clowns & Balloons (1982)(Tandy)[26-3087]"
+	description "Clowns & Balloons (1982)(Tandy)[26-3087]"
+	rom ( name "Clowns & Balloons (1982)(Tandy)[26-3087].dsk" size 161280 crc ed0c764a md5 7316994a136958a452755dbfd19756c4 sha1 d74d22560c306ab4066a137b0b669f32b03fdfbf )
+)
+
+game (
+	name "CoCoPRO! Solitaire (1992)(DNM Enterprises)"
+	description "CoCoPRO! Solitaire (1992)(DNM Enterprises)"
+	rom ( name "CoCoPRO! Solitaire (1992)(DNM Enterprises).dsk" size 161280 crc 0782ff02 md5 3a27eb400cb3155eddb2a9b9eb2fbc53 sha1 fe25043f3541020d162b5ccd1e080d00780700cc )
+)
+
+game (
+	name "Color Backgammon (1980)(Tandy)[26-3059]"
+	description "Color Backgammon (1980)(Tandy)[26-3059]"
+	rom ( name "Color Backgammon (1980)(Tandy)[26-3059].dsk" size 161280 crc 52f83f0f md5 b036d0b4c716e223a50346806e5e42ca sha1 2127f9b79401501543f41247d9b6fefca2685a64 )
+)
+
+game (
+	name "Color Computer Clue (1994)(LDG Free Software)[coco3]"
+	description "Color Computer Clue (1994)(LDG Free Software)[coco3]"
+	rom ( name "Color Computer Clue (1994)(LDG Free Software)[coco3].dsk" size 161280 crc 3da0ec05 md5 dc3875aecee10f0d79389087e1c4f63b sha1 87b530c2da2412826f42a55acaedab4134e47b7f )
+)
+
+game (
+	name "Color Cubes (1981)(Tandy)[26-3075]"
+	description "Color Cubes (1981)(Tandy)[26-3075]"
+	rom ( name "Color Cubes (1981)(Tandy)[26-3075].dsk" size 161280 crc ed4f4047 md5 b9dfaff3dc22d041b6d4ebc88655e6cf sha1 6cdafb20fc16a49ef0847d89a0d0aeb1f5bbb385 )
+)
+
+game (
+	name "Conquering Armies (1988)(Mitchell Software)"
+	description "Conquering Armies (1988)(Mitchell Software)"
+	rom ( name "Conquering Armies (1988)(Mitchell Software).dsk" size 161280 crc 1885092b md5 f865ba4522ee10ee8a73abfa1dcaaa4d sha1 5057d4bf6eb58ef595b8c3bbbdf929856b569c45 )
+)
+
+game (
+	name "Cyrus Chess (1982)(Tandy)[26-3064]"
+	description "Cyrus Chess (1982)(Tandy)[26-3064]"
+	rom ( name "Cyrus Chess (1982)(Tandy)[26-3064].dsk" size 161280 crc ba7bc68e md5 967217bf7ffe6caf5e1ad5f19fa54300 sha1 7df87f43c1cb107819132f1035790509876596be )
+)
+
+game (
+	name "Dallas Quest (1984)(Tandy)[26-3294]"
+	description "Dallas Quest (1984)(Tandy)[26-3294]"
+	rom ( name "Dallas Quest (1984)(Tandy)[26-3294].dsk" size 161280 crc 519e9f64 md5 cdab9b7345a8a7bd89a27f92bc1b2565 sha1 f98855aba32b77309f951dbc8bb8eef48d0273a1 )
+)
+
+game (
+	name "Demon Attack (1984)(Tandy)[26-3099]"
+	description "Demon Attack (1984)(Tandy)[26-3099]"
+	rom ( name "Demon Attack (1984)(Tandy)[26-3099].dsk" size 161280 crc cda1b822 md5 c62f09324113f2d61daca9e2362d3bd6 sha1 7de81f66822c085556a0c7375c1c8f685f3fb4d2 )
+)
+
+game (
+	name "Desert Rider (1984)(Tandy)[26-3292]"
+	description "Desert Rider (1984)(Tandy)[26-3292]"
+	rom ( name "Desert Rider (1984)(Tandy)[26-3292].dsk" size 161280 crc eb8ce61b md5 fa7b6b83811d3774e0d9db93bfe285d3 sha1 42f1acdca096bd0d884a8950a7c9153413f39392 )
+)
+
+game (
+	name "Dino Wars (1980)(Tandy)[26-3057]"
+	description "Dino Wars (1980)(Tandy)[26-3057]"
+	rom ( name "Dino Wars (1980)(Tandy)[26-3057].dsk" size 161280 crc 23c5ec0a md5 3a784b04628434f5a1353996123c464e sha1 62d2c44e8ac6c173d768b1d5b1cb90fe5ecb743c )
+)
+
+game (
+	name "Donut Dilemma (1987)(Marentes, Nikolas)[26-9649]"
+	description "Donut Dilemma (1987)(Marentes, Nikolas)[26-9649]"
+	rom ( name "Donut Dilemma (1987)(Marentes, Nikolas)[26-9649].dsk" size 161280 crc be905509 md5 3815c22959aec38abde8242f7ba60c21 sha1 e5d07ff13597de1ae13ede42ef99665551307022 )
+)
+
+game (
+	name "Doubleback (1982)(Tandy)[26-3091]"
+	description "Doubleback (1982)(Tandy)[26-3091]"
+	rom ( name "Doubleback (1982)(Tandy)[26-3091].dsk" size 161280 crc 6104f1cf md5 d54696cda4f5b398671024c480a056f1 sha1 4c3b38085c28ab07fe4164ee1beb860266999d2a )
+)
+
+game (
+	name "Downland (1984)(Tandy)[26-3046]"
+	description "Downland (1984)(Tandy)[26-3046]"
+	rom ( name "Downland (1984)(Tandy)[26-3046].dsk" size 161280 crc 6b855664 md5 d036c66d413b53a795a04ed8053ecb8a sha1 f70e6f185f2348633637f090dbbddc81cd41aba5 )
+)
+
+game (
+	name "Dragonfire (1982)(Tandy)[26-3098]"
+	description "Dragonfire (1982)(Tandy)[26-3098]"
+	rom ( name "Dragonfire (1982)(Tandy)[26-3098].dsk" size 161280 crc 538035a7 md5 0b02e9fa64af4d25e837651636444ac8 sha1 facc51eeda3facb4f625a15ff7090cbf2fbd9890 )
+)
+
+game (
+	name "Flight Simulator I (1984)(Tandy)[26-3108]"
+	description "Flight Simulator I (1984)(Tandy)[26-3108]"
+	rom ( name "Flight Simulator I (1984)(Tandy)[26-3108].dsk" size 161280 crc 265748d8 md5 6615a2b84007e65febf8ea22a0cdc307 sha1 621e0d542ddb30067943fa19e2a468d2941740cb )
+)
+
+game (
+	name "Flight Simulator II (1987)(SubLOGIC)"
+	description "Flight Simulator II (1987)(SubLOGIC)"
+	rom ( name "Flight Simulator II (1987)(SubLOGIC).dsk" size 161280 crc 81460cae md5 f6a4266e692729a25441d3ab312d8608 sha1 fae519cef873200b11b88061178efb840a5bb267 )
+)
+
+game (
+	name "Football (1980)(Tandy)[26-3053]"
+	description "Football (1980)(Tandy)[26-3053]"
+	rom ( name "Football (1980)(Tandy)[26-3053].dsk" size 161280 crc 0d02d42c md5 dab9f9dbd2f5a9bb0fc3e4f87aff7e2a sha1 962513dc5dc2b9c5e7f47d5fcb74fe26355bd117 )
+)
+
+game (
+	name "Ghana Bwana (1984)(Tandy)[26-3293]"
+	description "Ghana Bwana (1984)(Tandy)[26-3293]"
+	rom ( name "Ghana Bwana (1984)(Tandy)[26-3293].dsk" size 161280 crc ae5deb7a md5 30bfdee9ad662935512cbdd41157bfa6 sha1 255fbc96fac09f9b02aa93d737a0f3682280cffa )
+)
+
+game (
+	name "Ghana Bwana (1985)(Tandy)[26-3293]"
+	description "Ghana Bwana (1985)(Tandy)[26-3293]"
+	rom ( name "Ghana Bwana (1985)(Tandy)[26-3293].dsk" size 224016 crc 2698ee91 md5 01e8ec678c405b1e7f774d06b71c909c sha1 31d9247c35b6c64b54d143e3948dec37d02720fa )
+)
+
+game (
+	name "Gin Champion (1982)(Tandy)[26-3083]"
+	description "Gin Champion (1982)(Tandy)[26-3083]"
+	rom ( name "Gin Champion (1982)(Tandy)[26-3083].dsk" size 161280 crc 1e65e038 md5 4869e90a157f4a3f8be5afb66ccbb243 sha1 f993b05b7e1ec9f03a11649c1df359feccbf1bfe )
+)
+
+game (
+	name "Gomoku-Renju (1983)(Tandy)[26-3069]"
+	description "Gomoku-Renju (1983)(Tandy)[26-3069]"
+	rom ( name "Gomoku-Renju (1983)(Tandy)[26-3069].dsk" size 161280 crc 3b25a5d9 md5 b41de0ef600d62c170b3f99b32c135cf sha1 23c175850c309ef5862748266b61959df60f0745 )
+)
+
+game (
+	name "Klendathu (198x)(Tandy)[26-2567]"
+	description "Klendathu (198x)(Tandy)[26-2567]"
+	rom ( name "Klendathu (198x)(Tandy)[26-2567].dsk" size 161280 crc 7793fd41 md5 0cb653f099852db1e41a1dd3c68ced5c sha1 af75c2aea830f4878aab36d27edff680999e6428 )
+)
+
+game (
+	name "Koronis Rift (1987)(Epyx)[26-3298]"
+	description "Koronis Rift (1987)(Epyx)[26-3298]"
+	rom ( name "Koronis Rift (1987)(Epyx)[26-3298].dsk" size 161280 crc 4215c2fc md5 a76afca784c8cbdd4fd7e137e3a9c654 sha1 291b14b231966eef2b608c778bfbd2bb0e3c2382 )
+)
+
+game (
+	name "Madness and the Minotaur (1982)(Tandy)[26-3313]"
+	description "Madness and the Minotaur (1982)(Tandy)[26-3313]"
+	rom ( name "Madness and the Minotaur (1982)(Tandy)[26-3313].dsk" size 161280 crc 64700849 md5 c2a9698474c26d7e14890d6812f8afdd sha1 8391862eec250ded66d39bd5b1c71ffab0fca33d )
+)
+
+game (
+	name "Microbes (1981)(Tandy)[26-3085]"
+	description "Microbes (1981)(Tandy)[26-3085]"
+	rom ( name "Microbes (1981)(Tandy)[26-3085].dsk" size 161280 crc 1a6a5f29 md5 2584e03702479972ed904c2777c242d2 sha1 931f9e7d6ed3601a97df0cc5d6c5dd5793c568f9 )
+)
+
+game (
+	name "Mind-Roll (1989)(Tandy)[26-3100]"
+	description "Mind-Roll (1989)(Tandy)[26-3100]"
+	rom ( name "Mind-Roll (1989)(Tandy)[26-3100].dsk" size 161280 crc 8670344a md5 8e56e29b6cae80065b45dac471995170 sha1 fea9f95d2a57b408f7337c34c75296ea115699f3 )
+)
+
+game (
+	name "Monster Maze (1981)(Tandy)[26-3081]"
+	description "Monster Maze (1981)(Tandy)[26-3081]"
+	rom ( name "Monster Maze (1981)(Tandy)[26-3081].dsk" size 161280 crc 95764a01 md5 5c24807d4c7482eba837ef68c6cb7a29 sha1 d7b857951c5633625139ff07d8d90e447946a9c7 )
+)
+
+game (
+	name "One On One (1983)(Tandy)[26-3288]"
+	description "One On One (1983)(Tandy)[26-3288]"
+	rom ( name "One On One (1983)(Tandy)[26-3288].dsk" size 161280 crc dab79d0b md5 3dbc069d46cca93cbb9fd7b0d913e570 sha1 73837cb46c7df9d16f9a7d1577113776bda878b9 )
+)
+
+game (
+	name "One On One (1985)(Tandy)"
+	description "One On One (1985)(Tandy)"
+	rom ( name "One On One (1985)(Tandy).dsk" size 224016 crc 7b325537 md5 6a6ba696057966a85979cf8af8678289 sha1 31374746d16a0698292f7ac8aeec36c0e6f8b185 )
+)
+
+game (
+	name "Panic Button (1985)(Tandy)"
+	description "Panic Button (1985)(Tandy)"
+	rom ( name "Panic Button (1985)(Tandy).dsk" size 161280 crc 60ab9e24 md5 0aa461347ac05999ec0d2586c8f0f0b7 sha1 cbe35bc1345c76dffe6ff6233948891a0075afde )
+)
+
+game (
+	name "Pegasus and the Phantom Riders (1985)(Spectral Associates)"
+	description "Pegasus and the Phantom Riders (1985)(Spectral Associates)"
+	rom ( name "Pegasus and the Phantom Riders (1985)(Spectral Associates).dsk" size 224016 crc 670a4312 md5 09b9a9ac90963e90cfd24c2885c9a9c3 sha1 c137abe07f5054944a4ef9a8b5ab48cd3353bca2 )
+)
+
+game (
+	name "Pinball (1980)(Tandy)[26-3052]"
+	description "Pinball (1980)(Tandy)[26-3052]"
+	rom ( name "Pinball (1980)(Tandy)[26-3052].dsk" size 161280 crc 5b31b6a9 md5 9093b6ed5ddf857608b0f5d455c0e3a6 sha1 d6deb99dfb55b52d17d6e751fbf2bedc62a0f6d1 )
+)
+
+game (
+	name "Pitfall II (1985-10)(Tandy)[26-3287]"
+	description "Pitfall II (1985-10)(Tandy)[26-3287]"
+	rom ( name "Pitfall II (1985-10)(Tandy)[26-3287].dsk" size 161280 crc cf499786 md5 baeb97d74c7855605aacd2991f6e2324 sha1 9a17cb240737b13d05f84b396c637729aa4e2f7d )
+)
+
+game (
+	name "Polaris (1981)(Tandy)[26-3065]"
+	description "Polaris (1981)(Tandy)[26-3065]"
+	rom ( name "Polaris (1981)(Tandy)[26-3065].dsk" size 161280 crc da0e5491 md5 9ab0d1f31511fab8868379a0014ded1f sha1 3e19bad938f55f8b53d5cb92b1d52903dc4af3b9 )
+)
+
+game (
+	name "Poltergeist (1982)(Tandy)[26-3073]"
+	description "Poltergeist (1982)(Tandy)[26-3073]"
+	rom ( name "Poltergeist (1982)(Tandy)[26-3073].dsk" size 161280 crc 78610d0d md5 89466490706c55db52e1330981e5c3bc sha1 b52b44a9547e34995ddcd460428262ccce7414a0 )
+)
+
+game (
+	name "Pooyan (1983)(Tandy)[26-3048]"
+	description "Pooyan (1983)(Tandy)[26-3048]"
+	rom ( name "Pooyan (1983)(Tandy)[26-3048].dsk" size 161280 crc b1a68f82 md5 2a71682ff087403bfddf43f6e95790ac sha1 b382a4eece0543f27145ce29c5e9919977081643 )
+)
+
+game (
+	name "Popcorn (1982)(Tandy)[26-3090]"
+	description "Popcorn (1982)(Tandy)[26-3090]"
+	rom ( name "Popcorn (1982)(Tandy)[26-3090].dsk" size 161280 crc 7f5ecbe6 md5 cb6622376a94c5e75c1d34b934418f3e sha1 45b5eaec1b63f0c97f0a2f9c9030900c66000026 )
+)
+
+game (
+	name "Project Nebula (1981)(Tandy)[26-3063]"
+	description "Project Nebula (1981)(Tandy)[26-3063]"
+	rom ( name "Project Nebula (1981)(Tandy)[26-3063].dsk" size 161280 crc 6248ee3a md5 2536b31b0ca00f58bef7dd43ae41a782 sha1 a576d85eff103e1845e995fa201a0a94581ae1e3 )
+)
+
+game (
+	name "Pyramid 2000 (1982)(Tandy)[26-3310]"
+	description "Pyramid 2000 (1982)(Tandy)[26-3310]"
+	rom ( name "Pyramid 2000 (1982)(Tandy)[26-3310].dsk" size 161280 crc 6bba034f md5 6e87e8979f78f05baa33968f0f89aaa5 sha1 751648865aecf4c1821b7bc2b9e78966046372c7 )
+)
+
+game (
+	name "Quasar Commander (1980)(Tandy)[26-3051]"
+	description "Quasar Commander (1980)(Tandy)[26-3051]"
+	rom ( name "Quasar Commander (1980)(Tandy)[26-3051].dsk" size 161280 crc d597d201 md5 333f5a120f6fc34d019f6311bcef6151 sha1 cbc5cd6bdc301f458f37795362ea199bfc65710e )
+)
+
+game (
+	name "Raaka-Tu (1982)(Tandy)[26-3311]"
+	description "Raaka-Tu (1982)(Tandy)[26-3311]"
+	rom ( name "Raaka-Tu (1982)(Tandy)[26-3311].dsk" size 161280 crc b6b0cfa8 md5 267f556770b8e75d25fe7c6d1c5455bd sha1 eaf1a09c3ed1dbc422e10a85eace06ff375cd726 )
+)
+
+game (
+	name "Radio Ball (198x)(Tandy)[26-3319]"
+	description "Radio Ball (198x)(Tandy)[26-3319]"
+	rom ( name "Radio Ball (198x)(Tandy)[26-3319].dsk" size 161280 crc 3ead3f88 md5 5dc066dc5de926cb3b7d5fcd40cb2f43 sha1 a38992dbd169d5bb7ebe00281802540dd7d8c284 )
+)
+
+game (
+	name "Reactoid (1983)(Tandy)[26-3092]"
+	description "Reactoid (1983)(Tandy)[26-3092]"
+	rom ( name "Reactoid (1983)(Tandy)[26-3092].dsk" size 161280 crc 74bfc55b md5 d8aeb7477e29e2445eab1ee99d07438f sha1 d2baaa3f460c2e052229d6fa4b9b61d2e4350c57 )
+)
+
+game (
+	name "Roman Checkers (1981)(Tandy)[26-3071]"
+	description "Roman Checkers (1981)(Tandy)[26-3071]"
+	rom ( name "Roman Checkers (1981)(Tandy)[26-3071].dsk" size 161280 crc 9a4fcd06 md5 e28e25001c4e722cf4daad2c4a0a18e1 sha1 0d65812c24143676508bb6a2c487af052299ee58 )
+)
+
+game (
+	name "Rupert Rythm (1988)(Marentes, Nickolas)[26-9644]"
+	description "Rupert Rythm (1988)(Marentes, Nickolas)[26-9644]"
+	rom ( name "Rupert Rythm (1988)(Marentes, Nickolas)[26-9644].dsk" size 161280 crc 88287e0c md5 cfc3fbf25b0e0fb7add65554ac8f8801 sha1 4a355f226751f5fa4d5c422f739179cff3abe110 )
+)
+
+game (
+	name "Sands of Egypt (1982)(Tandy)[26-3290]"
+	description "Sands of Egypt (1982)(Tandy)[26-3290]"
+	rom ( name "Sands of Egypt (1982)(Tandy)[26-3290].dsk" size 161280 crc 85dd36bf md5 661650be39e1317389b0f1e947b6bd26 sha1 9d30a819adb708a1217719c3485eee58f9b49498 )
+)
+
+game (
+	name "Shamus (1984)(Tandy)[26-3289]"
+	description "Shamus (1984)(Tandy)[26-3289]"
+	rom ( name "Shamus (1984)(Tandy)[26-3289].dsk" size 161280 crc c22d52db md5 e4a072d259cc6b4b14ba096cc926d8a9 sha1 6605895a597fa28b1ecd470940f267d49466730d )
+)
+
+game (
+	name "Shooting Gallery (1982)(Tandy)[26-3088]"
+	description "Shooting Gallery (1982)(Tandy)[26-3088]"
+	rom ( name "Shooting Gallery (1982)(Tandy)[26-3088].dsk" size 161280 crc 18f73b09 md5 a88a01952690c6bcd3bc2e49c9b7eaee sha1 401813796865bcfc766d7eb79d47f6ccc56cdf05 )
+)
+
+game (
+	name "Skiing (1980)(Tandy)[26-3058]"
+	description "Skiing (1980)(Tandy)[26-3058]"
+	rom ( name "Skiing (1980)(Tandy)[26-3058].dsk" size 161280 crc 63c8988f md5 5078638708617a2129dd3b5403de766e sha1 9b933c5349c4390e2f457460a94d07910e161033 )
+)
+
+game (
+	name "Smash! (1993)(Intelligent Algorithms)"
+	description "Smash! (1993)(Intelligent Algorithms)"
+	rom ( name "Smash! (1993)(Intelligent Algorithms).dsk" size 161280 crc 2c3c018a md5 ff56671897c76c5450564ade68363f6d sha1 164cf5fa63636fe6d826716a7061bafadae0f86b )
+)
+
+game (
+	name "Soko-Ban (1988)(Tandy)[26-3161]"
+	description "Soko-Ban (1988)(Tandy)[26-3161]"
+	rom ( name "Soko-Ban (1988)(Tandy)[26-3161].dsk" size 161280 crc 2d704377 md5 024880ee531230edbdf2e7d766ee465c sha1 b386304657a4eaadc4ed19fabcb4e0f437ade932 )
+)
+
+game (
+	name "Space Assault (1981)(Tandy)[26-3060]"
+	description "Space Assault (1981)(Tandy)[26-3060]"
+	rom ( name "Space Assault (1981)(Tandy)[26-3060].dsk" size 161280 crc afa7ad94 md5 cfc574a769faa1f6b7660e3dc0b586fc sha1 8c0a10d039ead59da1c819ecdf666fe1166bbb79 )
+)
+
+game (
+	name "Space Intruders (1988)(Marentes, Nickolas)[26-9676]"
+	description "Space Intruders (1988)(Marentes, Nickolas)[26-9676]"
+	rom ( name "Space Intruders (1988)(Marentes, Nickolas)[26-9676].dsk" size 161280 crc b0d697e4 md5 5efc9f3ab0848bc948c5f2ba139c2719 sha1 cd93407538ee0f06859a370239c99635ec8066eb )
+)
+
+game (
+	name "Spidercide (1983)(Tandy)[26-3049]"
+	description "Spidercide (1983)(Tandy)[26-3049]"
+	rom ( name "Spidercide (1983)(Tandy)[26-3049].dsk" size 161280 crc a43047d6 md5 74bb096d7f856a061192cf934202f7d5 sha1 6f72d8ff0c8b9d8372e8c4efda03fedf8fd0fafb )
+)
+
+game (
+	name "SR-71 (1984)(Tom Mix Software)"
+	description "SR-71 (1984)(Tom Mix Software)"
+	rom ( name "SR-71 (1984)(Tom Mix Software).dsk" size 161280 crc 68b9db49 md5 1b069c0cda7f626d10dbc2fbd88e55ad sha1 2d6025f320178633c1333c654229e60c1650be84 )
+)
+
+game (
+	name "Star Blaze (1983)(Tandy)[26-3094]"
+	description "Star Blaze (1983)(Tandy)[26-3094]"
+	rom ( name "Star Blaze (1983)(Tandy)[26-3094].dsk" size 161280 crc 71543c12 md5 42326efda3c307ad843305e98a25531b sha1 aa1d2a57ca61c99ffd59560e4b42f42bd1460506 )
+)
+
+game (
+	name "Star Trap (198x)(Tandy)[26-2510]"
+	description "Star Trap (198x)(Tandy)[26-2510]"
+	rom ( name "Star Trap (198x)(Tandy)[26-2510].dsk" size 161280 crc fe886957 md5 bafd044e2db99497aac6f50574b814a6 sha1 9970e0dfe678b7a8db3334325cc3a2dd235a2b38 )
+)
+
+game (
+	name "Stellar Life Line (1983)(Tandy)[26-3047]"
+	description "Stellar Life Line (1983)(Tandy)[26-3047]"
+	rom ( name "Stellar Life Line (1983)(Tandy)[26-3047].dsk" size 161280 crc b4e7a710 md5 3b9482a7d23049b610f55144350644b3 sha1 db37ea47297fac129f91a1e6043d67bb47c53889 )
+)
+
+game (
+	name "Sub Battle Simulator (1987)(Epyx)(Disk 1 of 2)"
+	description "Sub Battle Simulator (1987)(Epyx)(Disk 1 of 2)"
+	rom ( name "Sub Battle Simulator (1987)(Epyx)(Disk 1 of 2).dsk" size 161280 crc e72aa364 md5 e5a17970cd9b54b2d879327091d6c8cd sha1 1a8d48577a7b5c77327e0a969a5a610153bb88f7 )
+)
+
+game (
+	name "Sub Battle Simulator (1987)(Epyx)(Disk 2 of 2)"
+	description "Sub Battle Simulator (1987)(Epyx)(Disk 2 of 2)"
+	rom ( name "Sub Battle Simulator (1987)(Epyx)(Disk 2 of 2).dsk" size 161280 crc 5dd22b34 md5 c5eb054a48842f74cf1c691b4736f4a6 sha1 02ad55e0d11934dea6c5b5d66aea399a6ae882e1 )
+)
+
+game (
+	name "Super Bustout (1981)(Tandy)[26-3056]"
+	description "Super Bustout (1981)(Tandy)[26-3056]"
+	rom ( name "Super Bustout (1981)(Tandy)[26-3056].dsk" size 161280 crc 7322d407 md5 d8952185d5f7f9008df2d39e917bcd64 sha1 cd501876032981fe5140d76ca7101a846c069743 )
+)
+
+game (
+	name "Temple of ROM (1982)(Tandy)[26-3045]"
+	description "Temple of ROM (1982)(Tandy)[26-3045]"
+	rom ( name "Temple of ROM (1982)(Tandy)[26-3045].dsk" size 161280 crc 333dac7a md5 4dcc06b01e437b33f92a9ab60f260a9a sha1 d2ad49257f5324cff63ae8c2c17479ad79d97832 )
+)
+
+game (
+	name "Tennis (1982)(Tandy)"
+	description "Tennis (1982)(Tandy)"
+	rom ( name "Tennis (1982)(Tandy).dsk" size 161280 crc c0d69aac md5 ed0afa336c6309fa9abd0e4ae637235f sha1 a856b3bfc80096c85267df17c15813d6597e8bf3 )
+)
+
+game (
+	name "Treasury Pak (198x)(Spectral Associates)(Disk 1 of 2)"
+	description "Treasury Pak (198x)(Spectral Associates)(Disk 1 of 2)"
+	rom ( name "Treasury Pak (198x)(Spectral Associates)(Disk 1 of 2).dsk" size 161280 crc e77beefa md5 72fa51a55d06106169e0223e66400c95 sha1 65b490ee95149579b2a5eb8b4d4fe771deff58d6 )
+)
+
+game (
+	name "Treasury Pak (198x)(Spectral Associates)(Disk 2 of 2)"
+	description "Treasury Pak (198x)(Spectral Associates)(Disk 2 of 2)"
+	rom ( name "Treasury Pak (198x)(Spectral Associates)(Disk 2 of 2).dsk" size 161280 crc ef4f48b9 md5 0ba918418166a5bbc7c7bc60c21d9245 sha1 be653aaf398b83f5b6146f9b86a45b61235f4f24 )
+)
+
+game (
+	name "Varloc (1985)(Tandy)[26-3291]"
+	description "Varloc (1985)(Tandy)[26-3291]"
+	rom ( name "Varloc (1985)(Tandy)[26-3291].dsk" size 161280 crc a58a6f32 md5 00cfd7ed8b9c3e35ff43b96d5ebc061d sha1 5bf99f613da9f65c3afbfdd8b069bb3c10e52082 )
+)
+
+game (
+	name "Warlocks Revenge, A (1992)(Snailsoft Software)"
+	description "Warlocks Revenge, A (1992)(Snailsoft Software)"
+	rom ( name "Warlocks Revenge, A (1992)(Snailsoft Software).dsk" size 161280 crc fd78bace md5 7f1593ebac465c20ec421679ddfdf163 sha1 0b199481b5bf2431a269e273b9e26a05ff4870bb )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1986)(Broderbund)"
+	description "Where in the World is Carmen Sandiego (1986)(Broderbund)"
+	rom ( name "Where in the World is Carmen Sandiego (1986)(Broderbund).dsk" size 224016 crc b6203c8b md5 0039c21d0f67017a656626d944aa9a7b sha1 adefef72ac332a310d9852c9d377de5545538636 )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 1 of 2)"
+	description "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 1 of 2)"
+	rom ( name "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 1 of 2).dsk" size 161280 crc 6b5c83b0 md5 37d489f16c0d9fe6ff54d5609ed7da5a sha1 7b3c21e8cfe508fbc95dc693865c8de5a6178faf )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 2 of 2)"
+	description "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 2 of 2)"
+	rom ( name "Where in the World is Carmen Sandiego (1986)(Broderbund)(Disk 2 of 2).dsk" size 161280 crc 9d7725c3 md5 95f8e103f65e1084db298a93b02fc911 sha1 b8ae64ae1cf4d28b7ab7267fea76b2c406326d93 )
+)
+
+game (
+	name "Wildcatting (1981)(Tandy)[26-3067]"
+	description "Wildcatting (1981)(Tandy)[26-3067]"
+	rom ( name "Wildcatting (1981)(Tandy)[26-3067].dsk" size 161280 crc 92dfcc6f md5 c6acd654446362ec6e92d89ade7b59ac sha1 ea1a3d10920325238d09dc110a61ee497f498ad2 )
+)
+
+game (
+	name "Wizard's Castle (198x)(Spectral Associates)"
+	description "Wizard's Castle (198x)(Spectral Associates)"
+	rom ( name "Wizard's Castle (198x)(Spectral Associates).dsk" size 161280 crc 4bccc72b md5 cda67518808c13e40e82becbc7479c43 sha1 6fe07412cfb52e799eac96d1d1c49b9ae5abb35d )
+)
+
+game (
+	name "Worlds of Flight (1984)(Tom Mix Software)"
+	description "Worlds of Flight (1984)(Tom Mix Software)"
+	rom ( name "Worlds of Flight (1984)(Tom Mix Software).dsk" size 161280 crc bdf4b6b6 md5 c075c83835742ca343fa786f6df024ef sha1 fa39f0c04bdebd679d741c4c1c0420157d3f6c22 )
+)
+
+game (
+	name "Zaxxon (1983)(Tandy)[26-3062]"
+	description "Zaxxon (1983)(Tandy)[26-3062]"
+	rom ( name "Zaxxon (1983)(Tandy)[26-3062].dsk" size 161280 crc 20a55512 md5 244dd500b285b300a3be7edd744244b8 sha1 0a02eb977fdc8e23870b86ccb09658c281553c34 )
+)
+
+game (
+	name "Zone Runner (1987)(Tandy)[26-3286]"
+	description "Zone Runner (1987)(Tandy)[26-3286]"
+	rom ( name "Zone Runner (1987)(Tandy)[26-3286].dsk" size 161280 crc 62cd23db md5 84b15b464f26ed4081f9fc19230b634c sha1 76fc846dd1032f96182aaed4b0b9f6433bc9c7fc )
+)
+

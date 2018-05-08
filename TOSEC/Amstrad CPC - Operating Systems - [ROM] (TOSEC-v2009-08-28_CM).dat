@@ -1,0 +1,127 @@
+clrmamepro (
+	name "Amstrad CPC - Operating Systems - [ROM]"
+	description "Amstrad CPC - Operating Systems - [ROM] (TOSEC-v2009-08-28)"
+	category "Amstrad CPC - Operating Systems - [ROM]"
+	version 2009-08-28
+	author "jugaor - cbeard - Cassiel"
+)
+
+game (
+	name "Amsdos 720k (19xx)(-)[720KAMSD.ROM]"
+	description "Amsdos 720k (19xx)(-)[720KAMSD.ROM]"
+	rom ( name "Amsdos 720k (19xx)(-)[720KAMSD.ROM].rom" size 16384 crc d14f4918 md5 5d303a75991674fe71817be126fef8d8 )
+)
+
+game (
+	name "Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h][CPC464DK.ROM]"
+	description "Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h][CPC464DK.ROM]"
+	rom ( name "Amstrad CPC 464 OS (19xx)(Amstrad)(da)[h][CPC464DK.ROM].rom" size 32768 crc 39185397 md5 43fc2f5259540ea6440cccd6cced52a7 )
+)
+
+game (
+	name "Amstrad CPC 464 OS (1985)(Amstrad)[OS.ROM]"
+	description "Amstrad CPC 464 OS (1985)(Amstrad)[OS.ROM]"
+	rom ( name "Amstrad CPC 464 OS (1985)(Amstrad)[OS.ROM].rom" size 16384 crc 815752df md5 a175623be3162846c46eae2ca1723031 )
+)
+
+game (
+	name "Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad)[ROMPLUSADOS.ROM]"
+	description "Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad)[ROMPLUSADOS.ROM]"
+	rom ( name "Amstrad CPC 464+ Plus A2 OS (1991)(Amstrad)[ROMPLUSADOS.ROM].rom" size 16384 crc f6159e18 md5 2840d5277a39534f018501e1663f75ae )
+)
+
+game (
+	name "Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad)[OS.ROM]"
+	description "Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad)[OS.ROM]"
+	rom ( name "Amstrad CPC 464+ and 6128+ OS (1991)(Amstrad)[OS.ROM].rom" size 16384 crc bec456b1 md5 354305d3a5ad9443a440a71c5e858edf )
+)
+
+game (
+	name "Amstrad CPC 6128 OS (1985)(Amstrad)(es)[S6128OS.ROM]"
+	description "Amstrad CPC 6128 OS (1985)(Amstrad)(es)[S6128OS.ROM]"
+	rom ( name "Amstrad CPC 6128 OS (1985)(Amstrad)(es)[S6128OS.ROM].rom" size 16384 crc a9937f75 md5 78c6b8912865b786efc7e91e3b0776c5 )
+)
+
+game (
+	name "Amstrad CPC 6128 OS (1985)(Amstrad)(fr)[F6128OS.ROM]"
+	description "Amstrad CPC 6128 OS (1985)(Amstrad)(fr)[F6128OS.ROM]"
+	rom ( name "Amstrad CPC 6128 OS (1985)(Amstrad)(fr)[F6128OS.ROM].rom" size 16384 crc cdb86700 md5 6ef8704c2816e66e8689a1b471827b42 )
+)
+
+game (
+	name "Amstrad CPC 6128 OS (1985)(Amstrad)[OS.ROM]"
+	description "Amstrad CPC 6128 OS (1985)(Amstrad)[OS.ROM]"
+	rom ( name "Amstrad CPC 6128 OS (1985)(Amstrad)[OS.ROM].rom" size 16384 crc 0219bb74 md5 9ba1b052c77713024bf2eb224cad2062 )
+)
+
+game (
+	name "Amstrad CPC 664 Amsdos (1985)(Amstrad)[AMSDOS.ROM]"
+	description "Amstrad CPC 664 Amsdos (1985)(Amstrad)[AMSDOS.ROM]"
+	rom ( name "Amstrad CPC 664 Amsdos (1985)(Amstrad)[AMSDOS.ROM].rom" size 16384 crc 1fe22ecd md5 25629dfe870d097469c217b95fdc1c95 )
+)
+
+game (
+	name "Amstrad CPC 664 OS (1985)(Amstrad)[OS.ROM]"
+	description "Amstrad CPC 664 OS (1985)(Amstrad)[OS.ROM]"
+	rom ( name "Amstrad CPC 664 OS (1985)(Amstrad)[OS.ROM].rom" size 16384 crc 3f5a6dc4 md5 2b04cc6c472e2d405092dd10b26b074e )
+)
+
+game (
+	name "CPM+ #1 (1988)(Graduate Software - Digital Research - Amstrad)[CPM1.ROM]"
+	description "CPM+ #1 (1988)(Graduate Software - Digital Research - Amstrad)[CPM1.ROM]"
+	rom ( name "CPM+ #1 (1988)(Graduate Software - Digital Research - Amstrad)[CPM1.ROM].rom" size 16384 crc 92b01533 md5 88b0cfd1282ab93ca84440c9918c6828 )
+)
+
+game (
+	name "CPM+ #2 (1988)(Graduate Software - Digital Research - Amstrad)[CPM2.ROM]"
+	description "CPM+ #2 (1988)(Graduate Software - Digital Research - Amstrad)[CPM2.ROM]"
+	rom ( name "CPM+ #2 (1988)(Graduate Software - Digital Research - Amstrad)[CPM2.ROM].rom" size 16384 crc e0be4c83 md5 86f35dd7c408f7c6d848b5559f198184 )
+)
+
+game (
+	name "Nigdos v2.24 (1988)(-)[NIGDOS.ROM]"
+	description "Nigdos v2.24 (1988)(-)[NIGDOS.ROM]"
+	rom ( name "Nigdos v2.24 (1988)(-)[NIGDOS.ROM].rom" size 16384 crc 56fcfbdc md5 1e79236407f6d23f4a6a615762d68f9d )
+)
+
+game (
+	name "Rodos v2.11 (19xx)(Romantic Robot UK)[RODOS211.ROM]"
+	description "Rodos v2.11 (19xx)(Romantic Robot UK)[RODOS211.ROM]"
+	rom ( name "Rodos v2.11 (19xx)(Romantic Robot UK)[RODOS211.ROM].rom" size 16384 crc 661333ea md5 572d2db2e7ab14fd386975fdf6f386aa )
+)
+
+game (
+	name "Rodos v2.15 (19xx)(Romantic Robot UK)[RODOS215.ROM]"
+	description "Rodos v2.15 (19xx)(Romantic Robot UK)[RODOS215.ROM]"
+	rom ( name "Rodos v2.15 (19xx)(Romantic Robot UK)[RODOS215.ROM].rom" size 16384 crc bceb038b md5 3608d682c6176ae461b56e2761ce4a9b )
+)
+
+game (
+	name "Rom Dos (1988)(KDS Electronics)[ROMDOS.ROM]"
+	description "Rom Dos (1988)(KDS Electronics)[ROMDOS.ROM]"
+	rom ( name "Rom Dos (1988)(KDS Electronics)[ROMDOS.ROM].rom" size 8192 crc cbabda8f md5 12f5c4ce57175e8de3d6e9fdc6685c80 )
+)
+
+game (
+	name "Rom Dos XL (1992)(Siren Software - KDS Electronics)[ROMDOSXL.ROM]"
+	description "Rom Dos XL (1992)(Siren Software - KDS Electronics)[ROMDOSXL.ROM]"
+	rom ( name "Rom Dos XL (1992)(Siren Software - KDS Electronics)[ROMDOSXL.ROM].rom" size 16384 crc 8e59c39f md5 0de35e1fb4ee9170813f98fb20639071 )
+)
+
+game (
+	name "Rom Dos XL v4.88 (1993)(Siren Software)[RDOSXL48.ROM]"
+	description "Rom Dos XL v4.88 (1993)(Siren Software)[RDOSXL48.ROM]"
+	rom ( name "Rom Dos XL v4.88 (1993)(Siren Software)[RDOSXL48.ROM].rom" size 16384 crc 4a2f7c9d md5 404bd0c8e485e6648a5e10e5293e0a6c )
+)
+
+game (
+	name "Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax)[CPM1.ROM]"
+	description "Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax)[CPM1.ROM]"
+	rom ( name "Vorax's CPM Plus ROM #1 (19xx)(Graduate - Vorax)[CPM1.ROM].rom" size 16384 crc f792e59d md5 f8715b9991e97c3575bd6c2adff039cf )
+)
+
+game (
+	name "X-Ddos (1987)(-)[XDDOS111.ROM]"
+	description "X-Ddos (1987)(-)[XDDOS111.ROM]"
+	rom ( name "X-Ddos (1987)(-)[XDDOS111.ROM].rom" size 16384 crc d52ad1a8 md5 2f4bae4faadb9b393cb3c1d231eb22ab )
+)

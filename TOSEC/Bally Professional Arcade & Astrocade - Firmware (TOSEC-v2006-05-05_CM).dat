@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Bally Professional Arcade & Astrocade - Firmware"
+	description "Bally Professional Arcade & Astrocade - Firmware (TOSEC-v2006-05-05)"
+	category "Bally Professional Arcade & Astrocade - Firmware"
+	version 2006-05-05
+	author "Grendel - BuckyB - Cassiel"
+)
+
+game (
+	name "Astrocade BIOS (1977)(Bally)"
+	description "Astrocade BIOS (1977)(Bally)"
+	rom ( name "Astrocade BIOS (1977)(Bally).bin" size 8192 crc 6eb53e79 md5 ddff78b44f8f67626f433f39afab290e )
+)
+
+game (
+	name "Bally Professional Arcade BIOS (1978)(Bally)"
+	description "Bally Professional Arcade BIOS (1978)(Bally)"
+	rom ( name "Bally Professional Arcade BIOS (1978)(Bally).bin" size 8192 crc ebc77f3a md5 7d25a26e5c4841b364cfe6b1735eaf03 )
+)

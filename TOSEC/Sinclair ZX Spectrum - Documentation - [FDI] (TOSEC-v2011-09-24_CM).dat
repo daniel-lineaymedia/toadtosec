@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Documentation - [FDI]"
+	description "Sinclair ZX Spectrum - Documentation - [FDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Documentation - [FDI]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "ZX Spectrum Graphics Elementary (1992)(Inforkom)(ru)[book]"
+	description "ZX Spectrum Graphics Elementary (1992)(Inforkom)(ru)[book]"
+	rom ( name "ZX Spectrum Graphics Elementary (1992)(Inforkom)(ru)[book].fdi" size 674688 crc e47581c0 md5 797b202b393d4024c62160123ca0c62a sha1 72b0fd3188b679ed7fcf96816dcf04ceb2de9687 )
+)
+

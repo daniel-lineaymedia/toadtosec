@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Camputers Lynx - Diskmags"
+	description "Camputers Lynx - Diskmags (TOSEC-v2011-05-17)"
+	category "Camputers Lynx - Diskmags"
+	version 2011-05-17
+	author "mictlantecuhtle"
+)
+
+game (
+	name "Lynx Revival Group - Volume 1 (1988-08-24)(Koushappas, John)(GB)"
+	description "Lynx Revival Group - Volume 1 (1988-08-24)(Koushappas, John)(GB)"
+	rom ( name "Lynx Revival Group - Volume 1 (1988-08-24)(Koushappas, John)(GB).ldf" size 819200 crc afa4e118 md5 7cbdb6c6a1576888c88f89b528617711 sha1 ca5e74ddd7a66c1812ce946b6376dfa95f424f4c )
+)
+

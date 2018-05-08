@@ -1,0 +1,181 @@
+clrmamepro (
+	name "Commodore C64 - Compilations - Educational"
+	description "Commodore C64 - Compilations - Educational (TOSEC-v2012-05-23)"
+	category "Commodore C64 - Compilations - Educational"
+	version 2012-05-23
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Educatief Cijfer #01 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #01 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #01 (19xx)(-)(nl)(Side A).d64" size 174848 crc ac3989cb md5 d1fd5d9cfec2d8ebe4e73e835a10e235 sha1 74601f6e6d444bbc8c20c42d82ed739cbf6fe478 )
+)
+
+game (
+	name "Educatief Cijfer #01 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #01 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #01 (19xx)(-)(nl)(Side B).d64" size 174848 crc 874229aa md5 6aac06edef3413170c3cbee7bfc82e88 sha1 865844ec361c79b5cd21765d7d9ce539271a0908 )
+)
+
+game (
+	name "Educatief Cijfer #02 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #02 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #02 (19xx)(-)(nl)(Side A).d64" size 175531 crc 0978c69f md5 5624fda11837633d1431d3b0d1a71384 sha1 7b63a1303a1f563e85fdff3015bad9379322dd1f )
+)
+
+game (
+	name "Educatief Cijfer #02 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #02 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #02 (19xx)(-)(nl)(Side B).d64" size 174848 crc 29fdd867 md5 b23de01e774d2845e9dc50c54143d7ea sha1 8fcd330c7957fe878e91b051cec9ca58604c9548 )
+)
+
+game (
+	name "Educatief Cijfer #03 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #03 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #03 (19xx)(-)(nl)(Side B).d64" size 174848 crc 484c2a3a md5 6f157bbcb385a0740eca94aba10ee082 sha1 5966361953343090175330595444439c0800bf3b )
+)
+
+game (
+	name "Educatief Cijfer #04 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #04 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #04 (19xx)(-)(nl)(Side A).d64" size 174848 crc be4daf93 md5 356f04034882c171df161a56ecce8fd8 sha1 eefc566ec16c1f0d06a5b327b23daee29319c0ae )
+)
+
+game (
+	name "Educatief Cijfer #04 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #04 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #04 (19xx)(-)(nl)(Side B).d64" size 174848 crc ea82da03 md5 96f087bd704d99c03dec729f2623e2c4 sha1 224e689d19dddae9e30d6ec0b95f85d7838fb7f6 )
+)
+
+game (
+	name "Educatief Cijfer #05 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #05 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #05 (19xx)(-)(nl)(Side A).d64" size 174848 crc c7badaf7 md5 2410cb4cc2b1eff824ef717c9e5bff5e sha1 971434eee7b1a3797e5bceebb1b2dbbcf53ed57f )
+)
+
+game (
+	name "Educatief Cijfer #05 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #05 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #05 (19xx)(-)(nl)(Side B).d64" size 174848 crc e8d83ff3 md5 19bcabfa841edfcfe785261721e747a9 sha1 3238e1b281ffce944bb2c7327e5fe28e46c9182c )
+)
+
+game (
+	name "Educatief Cijfer #06 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #06 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #06 (19xx)(-)(nl)(Side A).d64" size 174848 crc 4d917bd4 md5 ee786815026d4f469182abd34ab36862 sha1 1662443d5108e16473d6f6e79678a14dcac89e68 )
+)
+
+game (
+	name "Educatief Cijfer #06 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #06 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #06 (19xx)(-)(nl)(Side B).d64" size 174848 crc 6da3b84c md5 cf8b4144a76807590cfd3bd39da5d46d sha1 e3682f9d930de714e31d5e45e878c0e4c5b5d4df )
+)
+
+game (
+	name "Educatief Cijfer #07 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #07 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #07 (19xx)(-)(nl)(Side A).d64" size 174848 crc 2ce792bc md5 d065145c8b00ff4b33815c08f6252035 sha1 bc4fd68f33a07348110e1e31dfc8ebfd463f2fde )
+)
+
+game (
+	name "Educatief Cijfer #07 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #07 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #07 (19xx)(-)(nl)(Side B).d64" size 174848 crc 24817db6 md5 dbc257967a5f1a15f430422b7f60e54a sha1 f3d823a37a9b8190a5ba980c8e7a068bcb0d9be9 )
+)
+
+game (
+	name "Educatief Cijfer #08 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #08 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #08 (19xx)(-)(nl)(Side A).d64" size 174848 crc e49443fa md5 69d537584f3b7b2739899ec9f9cefa2e sha1 6ac97d346d0cffb89cad8baf5654725dacbc5478 )
+)
+
+game (
+	name "Educatief Cijfer #08 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #08 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #08 (19xx)(-)(nl)(Side B).d64" size 174848 crc 4aaca325 md5 7f9e97790128c91d030b6e18c3bdd5c4 sha1 1c955b7f1ade9044a38742431c2eef59a2ca11ce )
+)
+
+game (
+	name "Educatief Cijfer #09 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #09 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #09 (19xx)(-)(nl)(Side A).d64" size 174848 crc 0adc047f md5 e4ce64f1982a88e25b8751ab65c3a655 sha1 63c3c84f35dac894389b0b24bf18700ed9b9b43f )
+)
+
+game (
+	name "Educatief Cijfer #09 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #09 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #09 (19xx)(-)(nl)(Side B).d64" size 174848 crc 18753996 md5 da001315581f7956da456f10c50d140a sha1 2175c1805c7f557bdb12d55e6a05ed16828d2d10 )
+)
+
+game (
+	name "Educatief Cijfer #10 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #10 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #10 (19xx)(-)(nl)(Side A).d64" size 174848 crc b3dc707d md5 c0b5b262d8bda52daa22f1bedd7534a7 sha1 f45e27e8a9e5cadee59420e6f8f3d8fc1aa49f1c )
+)
+
+game (
+	name "Educatief Cijfer #10 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #10 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #10 (19xx)(-)(nl)(Side B).d64" size 174848 crc 9f524b5a md5 9428d302479b16b0df403d769ee1ec85 sha1 35b3a672f83a2dd4932309dd41d37cf354897a05 )
+)
+
+game (
+	name "Educatief Cijfer #11 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #11 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #11 (19xx)(-)(nl)(Side A).d64" size 174848 crc b19d740c md5 d763ac04e5c18f960cce9de019014092 sha1 f7c618d9ca75bbd2617808ed3308e736f6e6c172 )
+)
+
+game (
+	name "Educatief Cijfer #11 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #11 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #11 (19xx)(-)(nl)(Side B).d64" size 174848 crc 55a32003 md5 3ab0cbce9f215e86b494a62407267203 sha1 e8e4c91b2563580b6ef85c5d088dc9aaffd1f9bd )
+)
+
+game (
+	name "Educatief Cijfer #12 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #12 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #12 (19xx)(-)(nl)(Side A).d64" size 174848 crc 8f0b997a md5 39ba4434966f6d6d96755119fc7e83b3 sha1 2ce8b84e7ea453f5cbe44f4a2d758aa8443b5ff4 )
+)
+
+game (
+	name "Educatief Cijfer #12 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #12 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #12 (19xx)(-)(nl)(Side B).d64" size 174848 crc 5f2e02ee md5 759359a70c835e1d6bab3c9a7330f0f4 sha1 1c40efeffd373c1c1aafd41b05a4f65ee342f1e6 )
+)
+
+game (
+	name "Educatief Cijfer #13 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #13 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #13 (19xx)(-)(nl)(Side A).d64" size 174848 crc 121e1359 md5 95ac229326ea9afd8370ec093e16600d sha1 bbe6291a1e79e059bb6da3b648dd830b53fe5ed3 )
+)
+
+game (
+	name "Educatief Cijfer #13 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #13 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #13 (19xx)(-)(nl)(Side B).d64" size 174848 crc b572b51d md5 ed6c6ca48e9e61755f956954f0d3c030 sha1 3786e00302b96fd8ca6b99ef79f197ee505a582c )
+)
+
+game (
+	name "Educatief Cijfer #13 (19xx)(-)(nl)"
+	description "Educatief Cijfer #13 (19xx)(-)(nl)"
+	rom ( name "Educatief Cijfer #13 (19xx)(-)(nl).prg" size 41136 crc 719ec5fd md5 31db270fc5ca36954c72c4354f065ccb sha1 9b7a4bb2a82a06f8b28ab1436ae51f48bac19a9b )
+)
+
+game (
+	name "Educatief Cijfer #14 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #14 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #14 (19xx)(-)(nl)(Side A).d64" size 174848 crc 076a98d7 md5 e60ef08de8239affa69ef0a587ccd078 sha1 13a8754504e722768034e9b189edf2ce5a9fe7e1 )
+)
+
+game (
+	name "Educatief Cijfer #14 (19xx)(-)(nl)(Side B)"
+	description "Educatief Cijfer #14 (19xx)(-)(nl)(Side B)"
+	rom ( name "Educatief Cijfer #14 (19xx)(-)(nl)(Side B).d64" size 174848 crc 4b27c35d md5 4e24ef678d7860acd2599485cd150781 sha1 34dfacd2db051b6b25bb3e83d4b32ae3746df48c )
+)
+
+game (
+	name "Educatief Cijfer #15 (19xx)(-)(nl)(Side A)"
+	description "Educatief Cijfer #15 (19xx)(-)(nl)(Side A)"
+	rom ( name "Educatief Cijfer #15 (19xx)(-)(nl)(Side A).d64" size 174848 crc 6f53f9e3 md5 ad77ca8ed7a3ecc80d33243a0518c66d sha1 8aeea76ee9f6a05694746382ff7065ed0c676184 )
+)

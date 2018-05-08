@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Galaksija Galaksija - Games - [GAL]"
+	description "Galaksija Galaksija - Games - [GAL] (TOSEC-v2009-04-27)"
+	category "Galaksija Galaksija - Games - [GAL]"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Dijamantski Rudnik (1985)(Balint, Nenad)(YU)"
+	description "Dijamantski Rudnik (1985)(Balint, Nenad)(YU)"
+	rom ( name "Dijamantski Rudnik (1985)(Balint, Nenad)(YU).gal" size 8244 crc c73c2187 md5 5dec5d7b9fb4aba2e9b81d9e75e52428 )
+)
+
+game (
+	name "Squash (1986)(-)(YU)"
+	description "Squash (1986)(-)(YU)"
+	rom ( name "Squash (1986)(-)(YU).gal" size 8244 crc a54b6d45 md5 503d5716f24b4ce4c8756d6eb0877046 )
+)
+
+game (
+	name "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)"
+	description "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU)"
+	rom ( name "Super Cruiser (1985-12-29)(Halilovic, Jasmin)(YU).gal" size 8244 crc 8ae78ffb md5 28432fe4afbe20098a0b96f3b44440f3 )
+)
+
+game (
+	name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	description "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	rom ( name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en).gal" size 8244 crc 12bc9373 md5 ebdafc2c058e6bae27134cc4f9019284 )
+)

@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Microkey Primo - Applications - [TXT]"
+	description "Microkey Primo - Applications - [TXT] (TOSEC-v2011-09-04)"
+	category "Microkey Primo - Applications - [TXT]"
+	version 2011-09-04
+	author "Gruby"
+)
+
+game (
+	name "Fenyujsag (1985)(Tik-Tak Software)(hu)"
+	description "Fenyujsag (1985)(Tik-Tak Software)(hu)"
+	rom ( name "Fenyujsag (1985)(Tik-Tak Software)(hu).txt" size 910 crc c42f270e md5 2eb60ab50340184e23fb20fca6bfabd8 sha1 41f975173e314100538dfba69250813e6eb4f3be )
+)
+
+game (
+	name "Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)(hu)[req CDOS]"
+	description "Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)(hu)[req CDOS]"
+	rom ( name "Hazi Szamla-Konyveles (198x)(Koricsanszky Attila)(hu)[req CDOS].txt" size 7518 crc 18180828 md5 6e4a4c4f5683b5a9c2f3e5ac0b5a7048 sha1 87fb99df0ed5d8166e73372e9378ba6c4e99e903 )
+)
+
+game (
+	name "mini LOGO rendszer (198x)(NOVA)"
+	description "mini LOGO rendszer (198x)(NOVA)"
+	rom ( name "mini LOGO rendszer (198x)(NOVA).txt" size 8963 crc a3029f4f md5 dd49bea9b4a9f523e1311cd889dc4fca sha1 91f76c9ff46861afa093ac2a3c0f609355bfe1f3 )
+)
+
+game (
+	name "Z-80 Szimulator Program (198x)(Szigszoft System)[req CDOS]"
+	description "Z-80 Szimulator Program (198x)(Szigszoft System)[req CDOS]"
+	rom ( name "Z-80 Szimulator Program (198x)(Szigszoft System)[req CDOS].txt" size 29460 crc ace814ec md5 3b41f01e4d1863b488bca1cf9aa4322e sha1 961034d9208d1bacb78c25627042de0f2e493ee2 )
+)
+

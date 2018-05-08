@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Atari 8bit - Compilations - Games - [BAS]"
+	description "Atari 8bit - Compilations - Games - [BAS] (TOSEC-v2012-07-18)"
+	category "Atari 8bit - Compilations - Games - [BAS]"
+	version 2012-07-18
+	author "TKaos"
+)
+
+game (
+	name "Gamepack #1 (1982)(Pasquale)[b]"
+	description "Gamepack #1 (1982)(Pasquale)[b]"
+	rom ( name "Gamepack #1 (1982)(Pasquale)[b].bas" size 18530 crc 03436116 md5 eda5c30741326a2910f0aa9cd9c58c8e sha1 0f604e6ac857a4a01db630735b3e09defdacc467 )
+)
+

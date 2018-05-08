@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Elektronska Industrija Nis PECOM 32 & 64 - Various"
+	description "Elektronska Industrija Nis PECOM 32 & 64 - Various (TOSEC-v2009-04-27)"
+	category "Elektronska Industrija Nis PECOM 32 & 64 - Various"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Adresar (1987)(Ei Racunari)(YU)"
+	description "Adresar (1987)(Ei Racunari)(YU)"
+	rom ( name "Adresar (1987)(Ei Racunari)(YU).wav" size 6382680 crc e0032321 md5 fee77a98f5a1e333b002933eff838e3d )
+)
+
+game (
+	name "Bioritam (1985)(Ei Racunari)(YU)"
+	description "Bioritam (1985)(Ei Racunari)(YU)"
+	rom ( name "Bioritam (1985)(Ei Racunari)(YU).wav" size 5094680 crc 9fead1c7 md5 03b6ec0d5910e451d62e331d9905c59d )
+)
+
+game (
+	name "Sam Svoj Kompozitor (1987)(Ei Racunari)(YU)"
+	description "Sam Svoj Kompozitor (1987)(Ei Racunari)(YU)"
+	rom ( name "Sam Svoj Kompozitor (1987)(Ei Racunari)(YU).wav" size 3567832 crc 16a53a50 md5 0bd4c3145a944a94e87eb9d51f481cfd )
+)

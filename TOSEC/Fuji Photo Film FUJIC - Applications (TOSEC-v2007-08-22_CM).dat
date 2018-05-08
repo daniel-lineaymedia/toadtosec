@@ -1,0 +1,21 @@
+clrmamepro (
+	name "Fuji Photo Film FUJIC - Applications"
+	description "Fuji Photo Film FUJIC - Applications (TOSEC-v2007-08-22)"
+	category "Fuji Photo Film FUJIC - Applications"
+	version 2007-08-22
+	author "Grendel - Cassiel"
+)
+
+game (
+	name "Sort (1998)(Okoma, Seiichi)"
+	description "Sort (1998)(Okoma, Seiichi)"
+	rom ( name "Sort.fjc" size 3244 crc d882f51c md5 364f470d63f5db59682cbdaf9c799a64 )
+	rom ( name "Sort.out" size 452 crc cb831413 md5 172f4dc27f675f6b0be8ec60bc0ac877 )
+)
+
+game (
+	name "Square Root By Newton's Method (1998)(Okoma, Seiichi)"
+	description "Square Root By Newton's Method (1998)(Okoma, Seiichi)"
+	rom ( name "Newton.fjc" size 1631 crc f8fee595 md5 9a24684ba75c279a31902fe815ac103d )
+	rom ( name "Newton.out" size 667 crc 0693b632 md5 d03fc185992a3ff59d9800197c95cb6e )
+)

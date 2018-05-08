@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Acorn BBC - Multimedia - [UEF]"
+	description "Acorn BBC - Multimedia - [UEF] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Multimedia - [UEF]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Acorn User Graphics (19xx)(Acorn)"
+	description "Acorn User Graphics (19xx)(Acorn)"
+	rom ( name "Acorn User Graphics (19xx)(Acorn).uef" size 23174 crc 6ba894f7 md5 2077e4f8fbc8a18a381d4a2ebb29b4da )
+)
+
+game (
+	name "Creative Graphics (19xx)(Acorn)"
+	description "Creative Graphics (19xx)(Acorn)"
+	rom ( name "Creative Graphics (19xx)(Acorn).uef" size 9543 crc b1879555 md5 7657d4a274d5c9f5930798c1bede1bb5 )
+)

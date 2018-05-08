@@ -1,0 +1,109 @@
+clrmamepro (
+	name "Philips P2000 - Games"
+	description "Philips P2000 - Games (TOSEC-v2006-03-18)"
+	category "Philips P2000 - Games"
+	version 2006-03-18
+	author "Grendel - BuckyB - Cassiel"
+)
+
+game (
+	name "3D Doolhof 2 (19xx)(-)(nl)"
+	description "3D Doolhof 2 (19xx)(-)(nl)"
+	rom ( name "3D Doolhof 2 (19xx)(-)(nl).cas" size 11520 crc f3edc8b1 md5 ea1a0ff7792ba7fc84b64d880a464d89 )
+)
+
+game (
+	name "Brick-Wall v3.0 (1982)(-)(nl)"
+	description "Brick-Wall v3.0 (1982)(-)(nl)"
+	rom ( name "Brick-Wall v3.0 (1982)(-)(nl).cas" size 17920 crc b3d7ff52 md5 d4cde5e863cdfdb731a86c3d8f0be41d )
+)
+
+game (
+	name "Componist (1984)(A. Dobber)(nl)"
+	description "Componist (1984)(A. Dobber)(nl)"
+	rom ( name "Componist (1984)(A. Dobber)(nl).cas" size 12800 crc aadd88b3 md5 34abff3e7f9e517865e848fdddde1f1f )
+)
+
+game (
+	name "Elevator Humpie (19xx)(-)(nl)"
+	description "Elevator Humpie (19xx)(-)(nl)"
+	rom ( name "Elevator Humpie (19xx)(-)(nl).cas" size 7680 crc dd95644d md5 a445e918ab3c5aa2ae17fc1601142427 )
+)
+
+game (
+	name "Ghost Hunter (19xx)(Errorsoft)(nl) & Racen v2.0 (19xx)(Errorsoft)(nl)"
+	description "Ghost Hunter (19xx)(Errorsoft)(nl) & Racen v2.0 (19xx)(Errorsoft)(nl)"
+	rom ( name "Ghost Hunter (19xx)(Errorsoft)(nl) & Racen v2.0 (19xx)(Errorsoft)(nl).cas" size 25600 crc 4ddf2e30 md5 54979b97ebcf5891cb3b51c0801c8cc4 )
+)
+
+game (
+	name "Kleurendemonstratie v3.9 (1983)(Klaas H.J. Roberts)[b]"
+	description "Kleurendemonstratie v3.9 (1983)(Klaas H.J. Roberts)[b]"
+	rom ( name "Kleurendemonstratie v3.9 (1983)(Klaas H.J. Roberts)[b].cas" size 15360 crc 45dd7e0f md5 6a4c73c5377eb09d5830e32ed98642b9 )
+)
+
+game (
+	name "Lazy Bug v6.0 (1985)(Double Brain)(nl)[b]"
+	description "Lazy Bug v6.0 (1985)(Double Brain)(nl)[b]"
+	rom ( name "Lazy Bug v6.0 (1985)(Double Brain)(nl)[b].cas" size 12800 crc 8f322af1 md5 86f1ac91ddc5491b26c8a7a19c2ab5ef )
+)
+
+game (
+	name "Macho Man v2.1 (1986)(J. Nieuwenhuizen)[b]"
+	description "Macho Man v2.1 (1986)(J. Nieuwenhuizen)[b]"
+	rom ( name "Macho Man v2.1 (1986)(J. Nieuwenhuizen)[b].cas" size 11520 crc 1b2646fe md5 78cee92e9a7209c2dda7bb4e1c9bd65d )
+)
+
+game (
+	name "Monkey Kong v1.0 Deel II (19xx)(-)(nl)"
+	description "Monkey Kong v1.0 Deel II (19xx)(-)(nl)"
+	rom ( name "Monkey Kong v1.0 Deel II (19xx)(-)(nl).cas" size 11520 crc 9a919e58 md5 d51c9c3da29982a727c9a63296762062 )
+)
+
+game (
+	name "Snakeygame (19xx)(NOS - Thomas Hofmeister)"
+	description "Snakeygame (19xx)(NOS - Thomas Hofmeister)"
+	rom ( name "Snakeygame (19xx)(NOS - Thomas Hofmeister).cas" size 7680 crc 3288dca2 md5 84c7f1c235b64d7ee1cfb6ef70d868be )
+)
+
+game (
+	name "Space Attack (19xx)(-)(nl)"
+	description "Space Attack (19xx)(-)(nl)"
+	rom ( name "Space Attack (19xx)(-)(nl).cas" size 14080 crc 39a8b855 md5 58762a26ad058698f67b50cdd47f1f92 )
+)
+
+game (
+	name "Space Fight v3.0 (1984)(L.B. Kruijswijk)(nl)[b]"
+	description "Space Fight v3.0 (1984)(L.B. Kruijswijk)(nl)[b]"
+	rom ( name "Space Fight v3.0 (1984)(L.B. Kruijswijk)(nl)[b].cas" size 14080 crc 59091f51 md5 f1796fa9021243cb4dd5aab577650af5 )
+)
+
+game (
+	name "Space Fight II - Fraxxon v1.0 (1985)(LBK Production)"
+	description "Space Fight II - Fraxxon v1.0 (1985)(LBK Production)"
+	rom ( name "Space Fight II - Fraxxon v1.0 (1985)(LBK Production).cas" size 30720 crc e5e974bf md5 b45666a54c2f401c216e4b918c6b6b38 )
+)
+
+game (
+	name "Space Mission (1984)(P. v. H.)(nl)"
+	description "Space Mission (1984)(P. v. H.)(nl)"
+	rom ( name "Space Mission (1984)(P. v. H.)(nl).cas" size 23040 crc 64907d33 md5 61f9a02a0a942b51842da605b7c5a8c7 )
+)
+
+game (
+	name "Speelpaleis (19xx)(-)(nl)"
+	description "Speelpaleis (19xx)(-)(nl)"
+	rom ( name "Speelpaleis (19xx)(-)(nl).cas" size 15360 crc b46b537e md5 32f1fee5d44412ec973fa961f92a0e3a )
+)
+
+game (
+	name "Startrek (19xx)(-)(nl)"
+	description "Startrek (19xx)(-)(nl)"
+	rom ( name "Startrek (19xx)(-)(nl).cas" size 17920 crc 8480161f md5 8d59438ba5e3087312e8fcb08d8652cb )
+)
+
+game (
+	name "Vlucht Simulator (19xx)(-)(nl)[b]"
+	description "Vlucht Simulator (19xx)(-)(nl)[b]"
+	rom ( name "Vlucht Simulator (19xx)(-)(nl)[b].cas" size 38400 crc 74958e0a md5 61286374cc58a1c3b7b2adcb67a6732e )
+)

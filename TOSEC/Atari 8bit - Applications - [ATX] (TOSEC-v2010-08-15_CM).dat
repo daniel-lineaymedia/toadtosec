@@ -1,0 +1,55 @@
+clrmamepro (
+	name "Atari 8bit - Applications - [ATX]"
+	description "Atari 8bit - Applications - [ATX] (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Applications - [ATX]"
+	version 2010-08-15
+	author "TKaos"
+)
+
+game (
+	name "Atari Macro Assembler v1.0A (1981)(Atari)(US)"
+	description "Atari Macro Assembler v1.0A (1981)(Atari)(US)"
+	rom ( name "Atari Macro Assembler v1.0A (1981)(Atari)(US).atx" size 100072 crc 075d4ff0 md5 461c6e6b27e5793127da85d422b83d48 )
+)
+
+game (
+	name "Music Construction Set (1984)(Electronic Arts)(US)"
+	description "Music Construction Set (1984)(Electronic Arts)(US)"
+	rom ( name "Music Construction Set (1984)(Electronic Arts)(US).atx" size 100344 crc e2185104 md5 6a0458ba57e5b444ab016cc0b72a2ae9 )
+)
+
+game (
+	name "Music Studio, The (1985)(Activision)(US)"
+	description "Music Studio, The (1985)(Activision)(US)"
+	rom ( name "Music Studio, The (1985)(Activision)(US).atx" size 100480 crc 1b156937 md5 ac4959be6f4772c20b6cbbae36f7db5b )
+)
+
+game (
+	name "SynCalc (1983)(Synapse Software)(US)"
+	description "SynCalc (1983)(Synapse Software)(US)"
+	rom ( name "SynCalc (1983)(Synapse Software)(US).atx" size 118576 crc 2ea4e7fc md5 2dab49c051047e835a3c0dd219924a19 )
+)
+
+game (
+	name "SynCalc (1985)(Synapse Software)(US)"
+	description "SynCalc (1985)(Synapse Software)(US)"
+	rom ( name "SynCalc (1985)(Synapse Software)(US).atx" size 132720 crc 59cba377 md5 9822348233aebf6e815da0f9be7bcb0b )
+)
+
+game (
+	name "SynChron (1983)(Synapse Software)(US)"
+	description "SynChron (1983)(Synapse Software)(US)"
+	rom ( name "SynChron (1983)(Synapse Software)(US).atx" size 62816 crc 76606a8c md5 7f9d73f159a74777af3fee30c70e6f75 )
+)
+
+game (
+	name "Text Wizard v1.3 (1981)(Datasoft)(US)(Side A)[req OSb]"
+	description "Text Wizard v1.3 (1981)(Datasoft)(US)(Side A)[req OSb]"
+	rom ( name "Text Wizard v1.3 (1981)(Datasoft)(US)(Side A)[req OSb].atx" size 24320 crc ea752fcb md5 65d9f2303364752bcf15f71fa7972383 )
+)
+
+game (
+	name "Text Wizard v1.3 (1981)(Datasoft)(US)(Side B)[req OSb]"
+	description "Text Wizard v1.3 (1981)(Datasoft)(US)(Side B)[req OSb]"
+	rom ( name "Text Wizard v1.3 (1981)(Datasoft)(US)(Side B)[req OSb].atx" size 16976 crc 7863b0b8 md5 3773e3afeb8e50d3c5973f6b3515e5b3 )
+)

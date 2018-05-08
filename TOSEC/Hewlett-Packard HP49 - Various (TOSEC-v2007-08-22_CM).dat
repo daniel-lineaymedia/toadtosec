@@ -1,0 +1,523 @@
+clrmamepro (
+	name "Hewlett-Packard HP49 - Various"
+	description "Hewlett-Packard HP49 - Various (TOSEC-v2007-08-22)"
+	category "Hewlett-Packard HP49 - Various"
+	version 2007-08-22
+	author "Leto_II - Cassiel"
+)
+
+game (
+	name "Android (1999)(Jadeware)"
+	description "Android (1999)(Jadeware)"
+	rom ( name "Android (1999)(Jadeware).var" size 11433 crc 58f8a3cd md5 dee8ca7d1f5d90efcc75d073d1042535 )
+)
+
+game (
+	name "Android (1999)(Jadeware)[doc]"
+	description "Android (1999)(Jadeware)[doc]"
+	rom ( name "Android (1999)(Jadeware)[doc].txt" size 2967 crc 0d776465 md5 cd35a0d495dd6762e8fc7df93ff92602 )
+)
+
+game (
+	name "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth)"
+	description "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth)"
+	rom ( name "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth).lib" size 4159 crc 64e1b5c5 md5 d6b99e2ee5db2337b3b3c8568af67e85 )
+)
+
+game (
+	name "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth)[doc]"
+	description "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth)[doc]"
+	rom ( name "Awari v1.2 (2000)(Amiel, Arnaud - Sweet, Garth)[doc].txt" size 6195 crc dde646e6 md5 5f3d7428328f2d3c5669ffefa42d9218 )
+)
+
+game (
+	name "Babal v0.1b (199x)(U-FOOT)"
+	description "Babal v0.1b (199x)(U-FOOT)"
+	rom ( name "Babal v0.1b (199x)(U-FOOT).lib" size 5695 crc 0526c68f md5 cedf2e1f7b24d555b097d81883acaf47 )
+)
+
+game (
+	name "Battle (199x)(HPRiP)"
+	description "Battle (199x)(HPRiP)"
+	rom ( name "Battle (199x)(HPRiP).dir" size 3593 crc 51260b82 md5 e170e063cab79e8fa071feb0431b0104 )
+)
+
+game (
+	name "Beaubourg (1999)(HPCool)(fr)"
+	description "Beaubourg (1999)(HPCool)(fr)"
+	rom ( name "Beaubourg (1999)(HPCool)(fr).dir" size 15390 crc b9ac3a82 md5 10a57cdde36d7d54c1efb038b34d7fa8 )
+)
+
+game (
+	name "Beaubourg (1999)(HPCool)(fr)(proto)"
+	description "Beaubourg (1999)(HPCool)(fr)(proto)"
+	rom ( name "Beaubourg (1999)(HPCool)(fr)(proto).dir" size 15390 crc 673e1352 md5 a78682121bd111046213fa25e101a325 )
+)
+
+game (
+	name "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es)"
+	description "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es)"
+	rom ( name "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es).lib" size 7573 crc 1de92170 md5 03c7d115778b5923f14612ba71281094 )
+)
+
+game (
+	name "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es)[doc]"
+	description "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es)[doc]"
+	rom ( name "Bioritmo v2.0 (19xx)(Perez, Ignacio)(es)[doc].doc" size 30720 crc 054e2ea5 md5 55429a7bc71f296cfc8d2263c9c094e0 )
+)
+
+game (
+	name "Bioritmo v2.01 (2000)(Arony, Dante - DEAC)"
+	description "Bioritmo v2.01 (2000)(Arony, Dante - DEAC)"
+	rom ( name "Bioritmo v2.01 (2000)(Arony, Dante - DEAC).lib" size 2564 crc ffa46edb md5 1f566fa99255508de8781a302a2075d7 )
+)
+
+game (
+	name "Blow-Up 49 (2000)(HPSam)"
+	description "Blow-Up 49 (2000)(HPSam)"
+	rom ( name "Blow-Up 49 (2000)(HPSam).dir" size 4841 crc dca647eb md5 82a58f90a9c40cfa0bb5ecff326c7988 )
+)
+
+game (
+	name "Blow-Up 49 (2000)(HPSam)[src]"
+	description "Blow-Up 49 (2000)(HPSam)[src]"
+	rom ( name "Blow-Up 49 (2000)(HPSam)[src].dir" size 4575 crc 1f6e3ebd md5 fe99f71082f373ae9a5fe91dc9905ad8 )
+)
+
+game (
+	name "Brain Wash (19xx)(HpRiP)(fr)"
+	description "Brain Wash (19xx)(HpRiP)(fr)"
+	rom ( name "Brain Wash (19xx)(HpRiP)(fr).dir" size 10955 crc a7f00e6d md5 0518481590b55e9e5993403ae35d0c8c )
+)
+
+game (
+	name "Bug (2000)(TotoHP)"
+	description "Bug (2000)(TotoHP)"
+	rom ( name "Bug (2000)(TotoHP).var" size 1792 crc 8cb7a4ca md5 39cd67bf5227ed8591729afe0cd3eae9 )
+)
+
+game (
+	name "Cocostory Turbo (2000)(HPSam)"
+	description "Cocostory Turbo (2000)(HPSam)"
+	rom ( name "Cocostory Turbo (2000)(HPSam).dir" size 17149 crc da9e916d md5 9a8763b7ff3ad4598733536ab2f84ca4 )
+)
+
+game (
+	name "Cocostory Turbo (2000)(HPSam)[doc]"
+	description "Cocostory Turbo (2000)(HPSam)[doc]"
+	rom ( name "Cocostory Turbo (2000)(HPSam)[doc].txt" size 2654 crc ef0fe339 md5 f1ed5fc89e63fa934295451e405a850f )
+)
+
+game (
+	name "Doom 2 (demo) (199x)(HPFool)(fr)"
+	description "Doom 2 (demo) (199x)(HPFool)(fr)"
+	rom ( name "Doom 2 (demo) (199x)(HPFool)(fr).dir" size 19917 crc d6f59dee md5 330770ffb1bc1db69000265508a10f62 )
+)
+
+game (
+	name "Doom 2 (demo) (199x)(HPFool)(fr)[src]"
+	description "Doom 2 (demo) (199x)(HPFool)(fr)[src]"
+	rom ( name "Doom 2 (demo) (199x)(HPFool)(fr)[src].dir" size 68672 crc 13c5b662 md5 b1965f39ef570d36188f3a13c3152a00 )
+)
+
+game (
+	name "Drugwar v2.0 (2000)(HPSam)(fr)"
+	description "Drugwar v2.0 (2000)(HPSam)(fr)"
+	rom ( name "Drugwar v2.0 (2000)(HPSam)(fr).dir" size 15057 crc 8b451704 md5 7875ae06201791d345f924f300c68895 )
+)
+
+game (
+	name "Drugwar v2.0 (2000)(HPSam)"
+	description "Drugwar v2.0 (2000)(HPSam)"
+	rom ( name "Drugwar v2.0 (2000)(HPSam).dir" size 14666 crc 7ab9b77b md5 e6226c49fd6837641466dc53dbe8dbc4 )
+)
+
+game (
+	name "Euro2049 (2000)(HpRiP)"
+	description "Euro2049 (2000)(HpRiP)"
+	rom ( name "Euro2049 (2000)(HpRiP).lib" size 6931 crc b72ab914 md5 c5d1ff10d763b7a34a42182218c151d5 )
+)
+
+game (
+	name "Fast-Bio v1.0 (19xx)(Martinez, Dennis)(fr)"
+	description "Fast-Bio v1.0 (19xx)(Martinez, Dennis)(fr)"
+	rom ( name "Fast-Bio v1.0 (19xx)(Martinez, Dennis)(fr).lib" size 11177 crc 6f585df8 md5 7a255cd8d37c272f352bc45bd65721e5 )
+)
+
+game (
+	name "Freecell v1.0 (19xx)(Knops, Bert)(fr)"
+	description "Freecell v1.0 (19xx)(Knops, Bert)(fr)"
+	rom ( name "Freecell v1.0 (19xx)(Knops, Bert)(fr).lib" size 2709 crc 43bb13ef md5 e3b75692fcb841c283500826d70cb893 )
+)
+
+game (
+	name "Furax Box 49 (19xx)(HPCool)"
+	description "Furax Box 49 (19xx)(HPCool)"
+	rom ( name "Furax Box 49 (19xx)(HPCool).lib" size 7349 crc 707c2a49 md5 3be53b046822c146eb3688cba6bc3bbd )
+)
+
+game (
+	name "Furax Box 49 proto (19xx)(HPCool)"
+	description "Furax Box 49 proto (19xx)(HPCool)"
+	rom ( name "Furax Box 49 proto (19xx)(HPCool).lib" size 7352 crc a8716e9e md5 abbde56f0be4fe9aaa2436d6eef5da23 )
+)
+
+game (
+	name "Hangman (2000)(HPSam)"
+	description "Hangman (2000)(HPSam)"
+	rom ( name "Hangman (2000)(HPSam).dir" size 16673 crc 7ddfdf89 md5 d1d0c7c7b86111aca45cee85527ee46d )
+)
+
+game (
+	name "Hapa-Man (19xx)(Jadrijevic, Davor)[b]"
+	description "Hapa-Man (19xx)(Jadrijevic, Davor)[b]"
+	rom ( name "Hapa-Man (19xx)(Jadrijevic, Davor)[b].dir" size 5158 crc d9b6e214 md5 2c99c553d833f6aab7b912078e99c2b5 )
+)
+
+game (
+	name "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 1]"
+	description "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 1]"
+	rom ( name "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 1].txt" size 2929 crc 4b07d99e md5 ed2d99bd0f206b952e466af52f319ef1 )
+)
+
+game (
+	name "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 2]"
+	description "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 2]"
+	rom ( name "Hapa-Man (19xx)(Jadrijevic, Davor)[doc 2].txt" size 836 crc dc29844f md5 29c423d7f2755782588c5e9c27343834 )
+)
+
+game (
+	name "Hoarder 49 (2000)(HpRiP)"
+	description "Hoarder 49 (2000)(HpRiP)"
+	rom ( name "Hoarder 49 (2000)(HpRiP).lib" size 6482 crc 37e6e9da md5 aec916f4cb0f60d26524f5ab5d9bb34e )
+)
+
+game (
+	name "INTELfx (2000)(HpRiP)"
+	description "INTELfx (2000)(HpRiP)"
+	rom ( name "INTELfx (2000)(HpRiP).lib" size 5561 crc 293cdbfa md5 11493ba3c1762ebd3e84e8882a56cc6b )
+)
+
+game (
+	name "Ice-Cube v1.1 (1993)(FlasHP - Pigallio, Lilian)"
+	description "Ice-Cube v1.1 (1993)(FlasHP - Pigallio, Lilian)"
+	rom ( name "Ice-Cube v1.1 (1993)(FlasHP - Pigallio, Lilian).dir" size 29449 crc c8594637 md5 6dbf83a997f6abdf587dd8780d67752e )
+)
+
+game (
+	name "Inition (1999)(Provost, Eric)(fr)"
+	description "Inition (1999)(Provost, Eric)(fr)"
+	rom ( name "Inition (1999)(Provost, Eric)(fr).dir" size 25856 crc 6c46a359 md5 2612dc2b147cbdeb76dd8667f48c62d6 )
+)
+
+game (
+	name "Lemedit (19xx)(de Dichenin, Christophe)"
+	description "Lemedit (19xx)(de Dichenin, Christophe)"
+	rom ( name "Lemedit (19xx)(de Dichenin, Christophe).lib" size 2569 crc a293122d md5 3bfa4e3ebc1ecef781a5ccfd26ad5618 )
+)
+
+game (
+	name "Lemmings (19xx)(de Dichenin, Christophe)"
+	description "Lemmings (19xx)(de Dichenin, Christophe)"
+	rom ( name "Lemmings (19xx)(de Dichenin, Christophe).lib" size 10616 crc fecf5067 md5 a120c8232ca78113b5fead085afddd81 )
+)
+
+game (
+	name "Lupo (2000)(HPSam)"
+	description "Lupo (2000)(HPSam)"
+	rom ( name "Lupo (2000)(HPSam).dir" size 6670 crc 3ce439ae md5 66351b532aa8b16ccf61e35d5e193bd8 )
+)
+
+game (
+	name "MLChess 1.13 (2000)(Osterlund, Peter)"
+	description "MLChess 1.13 (2000)(Osterlund, Peter)"
+	rom ( name "MLChess 1.13 (2000)(Osterlund, Peter).var" size 12481 crc 6ef7f217 md5 f645fc250b4cdb90e1cd62c1b55cfc2d )
+)
+
+game (
+	name "MLChess 1.13 (2000)(Osterlund, Peter)[doc]"
+	description "MLChess 1.13 (2000)(Osterlund, Peter)[doc]"
+	rom ( name "MLChess 1.13 (2000)(Osterlund, Peter)[doc].txt" size 5237 crc 0a01b15e md5 7841f754ed94c43d68e3a43ebe3d9eda )
+)
+
+game (
+	name "Magic Square (1994)(Cannon, Douglas R.)"
+	description "Magic Square (1994)(Cannon, Douglas R.)"
+	rom ( name "Magic Square (1994)(Cannon, Douglas R.).dir" size 13241 crc 53c46a16 md5 cc2675658e2fd4bb90960a3a32ee9993 )
+)
+
+game (
+	name "Magic Square (1994)(Cannon, Douglas R.)[doc]"
+	description "Magic Square (1994)(Cannon, Douglas R.)[doc]"
+	rom ( name "Magic Square (1994)(Cannon, Douglas R.)[doc].txt" size 7226 crc 10d655b0 md5 cc031afbfe534342ae16d74447086939 )
+)
+
+game (
+	name "Magic Square (1994)(Cannon, Douglas R.)[src]"
+	description "Magic Square (1994)(Cannon, Douglas R.)[src]"
+	rom ( name "Magic Square (1994)(Cannon, Douglas R.)[src].s" size 18522 crc 9f65268b md5 47e9505cf7aa1b3ad18569a869d630ba )
+)
+
+game (
+	name "Marelle 49 (2000)(HPRiP)"
+	description "Marelle 49 (2000)(HPRiP)"
+	rom ( name "Marelle 49 (2000)(HPRiP).lib" size 8870 crc 2d159276 md5 504192d7b17b36ebb412a07a3d89c110 )
+)
+
+game (
+	name "Mine aux Diamants, La v1.11 (1999)(FlasHP - Pigallio, Lilian)(fr)"
+	description "Mine aux Diamants, La v1.11 (1999)(FlasHP - Pigallio, Lilian)(fr)"
+	rom ( name "Mine aux Diamants, La v1.11 (1999)(FlasHP - Pigallio, Lilian)(fr).dir" size 12353 crc 96a3e781 md5 f3c1a6b8d70f0645a785e071bc2db63c )
+)
+
+game (
+	name "Monopoly v2 (1999)(HPSam)(fr)"
+	description "Monopoly v2 (1999)(HPSam)(fr)"
+	rom ( name "Monopoly v2 (1999)(HPSam)(fr).lib" size 17766 crc fdba214e md5 8348dd2500058f57b8a6048932b9f6b9 )
+)
+
+game (
+	name "Monopoly v2 (1999)(HPSam)(fr)[src]"
+	description "Monopoly v2 (1999)(HPSam)(fr)[src]"
+	rom ( name "Monopoly v2 (1999)(HPSam)(fr)[src].dir" size 18618 crc 9b5f02b9 md5 3c7b695096c6a7592c10cb8414377d6e )
+)
+
+game (
+	name "Mstmind v1.0 (1999)(HPSam)(fr)"
+	description "Mstmind v1.0 (1999)(HPSam)(fr)"
+	rom ( name "Mstmind v1.0 (1999)(HPSam)(fr).lib" size 3925 crc 61a7413d md5 eea27fd7721b1f0895b71935f488756e )
+)
+
+game (
+	name "Mstmind v1.0 (1999)(HPSam)(fr)[src]"
+	description "Mstmind v1.0 (1999)(HPSam)(fr)[src]"
+	rom ( name "Mstmind v1.0 (1999)(HPSam)(fr)[src].dir" size 4146 crc 2fcc523e md5 8e6b4d5708ff7ab906889ac0dc5d32c4 )
+)
+
+game (
+	name "Noughts & Crosses (2000)(Olwoch, John)"
+	description "Noughts & Crosses (2000)(Olwoch, John)"
+	rom ( name "Noughts & Crosses (2000)(Olwoch, John).lib" size 6920 crc 92e17505 md5 eeffe50b99751ad4eacaee20a5d54e1a )
+)
+
+game (
+	name "Pac-man plus v3.1 (2000)(Jaime Fernando Meza)"
+	description "Pac-man plus v3.1 (2000)(Jaime Fernando Meza)"
+	rom ( name "Pac-man plus v3.1 (2000)(Jaime Fernando Meza).dir" size 9199 crc e260a2ef md5 cb02501e8b894b7195c830e78600118a )
+)
+
+game (
+	name "PacMan 49 (2000)(de Dichenin, Christophe)"
+	description "PacMan 49 (2000)(de Dichenin, Christophe)"
+	rom ( name "PacMan 49 (2000)(de Dichenin, Christophe).dir" size 11869 crc 2187ca57 md5 e7cde6e6ef35ee7548d01b18d73da5a2 )
+)
+
+game (
+	name "Phoenix (19xx)(-)"
+	description "Phoenix (19xx)(-)"
+	rom ( name "Phoenix (19xx)(-).var" size 9210 crc d41df57c md5 5e8be75b788605c589c9ab97582ea3f6 )
+)
+
+game (
+	name "Poker v1.0 (2000)(HPSam)"
+	description "Poker v1.0 (2000)(HPSam)"
+	rom ( name "Poker v1.0 (2000)(HPSam).lib" size 5687 crc b56c00f5 md5 6905e3e01d9e08064d09eb4faac5b02d )
+)
+
+game (
+	name "Poker v1.0 (2000)(HPSam)[src]"
+	description "Poker v1.0 (2000)(HPSam)[src]"
+	rom ( name "Poker v1.0 (2000)(HPSam)[src].dir" size 13037 crc 3b0525dd md5 a908c3664723289918b9b41aa35e09c5 )
+)
+
+game (
+	name "Pong v0.1 (2000)(Vignon, Emmanuel)"
+	description "Pong v0.1 (2000)(Vignon, Emmanuel)"
+	rom ( name "Pong v0.1 (2000)(Vignon, Emmanuel).var" size 2449 crc 92f48e14 md5 de220a7b1ba76048757af1fe7d53dbfe )
+)
+
+game (
+	name "Puissance 4 (2000)(HPRiP)(fr)"
+	description "Puissance 4 (2000)(HPRiP)(fr)"
+	rom ( name "Puissance 4 (2000)(HPRiP)(fr).lib" size 5590 crc 088fdf7f md5 6585dcb9c0d7149d18136f97db8542b3 )
+)
+
+game (
+	name "Puissance 4 (2000)(HPRiP)(fr)[doc]"
+	description "Puissance 4 (2000)(HPRiP)(fr)[doc]"
+	rom ( name "Puissance 4 (2000)(HPRiP)(fr)[doc].txt" size 1827 crc 493254b6 md5 f1e85f8ddd882ec58f23b93eabe13105 )
+)
+
+game (
+	name "Serpiente3 (2000)(Dante Arony)"
+	description "Serpiente3 (2000)(Dante Arony)"
+	rom ( name "Serpiente3 (2000)(Dante Arony).lib" size 9602 crc f8db49ed md5 2443e75eaeb10fd8bfea473f16fcc9c0 )
+)
+
+game (
+	name "Shifty v1.0 (2000)(Rovak, Mike)"
+	description "Shifty v1.0 (2000)(Rovak, Mike)"
+	rom ( name "Shifty v1.0 (2000)(Rovak, Mike).dir" size 6279 crc 8e3fd702 md5 86f2e9c54cb5859e4851b159a7fca5aa )
+)
+
+game (
+	name "Shifty v1.0 (2000)(Rovak, Mike)[doc]"
+	description "Shifty v1.0 (2000)(Rovak, Mike)[doc]"
+	rom ( name "Shifty v1.0 (2000)(Rovak, Mike)[doc].txt" size 7964 crc a1fc7304 md5 e11e091d60daae71d68db551e292fcb4 )
+)
+
+game (
+	name "Sillage v1.5 (2000)(VialleSOFT)"
+	description "Sillage v1.5 (2000)(VialleSOFT)"
+	rom ( name "Sillage v1.5 (2000)(VialleSOFT).var" size 9485 crc be3b6dd2 md5 3af48a0885f7b7c1361ce0df6a64250e )
+)
+
+game (
+	name "Sillage v1.5 (2000)(VialleSOFT)[doc]"
+	description "Sillage v1.5 (2000)(VialleSOFT)[doc]"
+	rom ( name "Sillage v1.5 (2000)(VialleSOFT)[doc].txt" size 3065 crc 6d25cccb md5 3ed077462bf9c978e5be9d8cdaa15ccf )
+)
+
+game (
+	name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)"
+	description "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)"
+	rom ( name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam).lib" size 12987 crc 93a36957 md5 e4e7d1c49b52c6c47f7b90a3bfd3746d )
+)
+
+game (
+	name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(fr)[doc]"
+	description "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(fr)[doc]"
+	rom ( name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(fr)[doc].doc" size 57856 crc b31dde35 md5 1f9bd31d06aee394ea6d08f8ae20d98b )
+)
+
+game (
+	name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(en)[doc]"
+	description "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(en)[doc]"
+	rom ( name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)(en)[doc].txt" size 9575 crc fa2b18b3 md5 e6492d5bb810feb4faf6001ea8a0c053 )
+)
+
+game (
+	name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)[src]"
+	description "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)[src]"
+	rom ( name "Skunk v2.0 (1999)(Cannon, Douglas R. - HPSam)[src].dir" size 13519 crc 0f74f215 md5 302a6414bb6126ba7e46a80e24216906 )
+)
+
+game (
+	name "Skunk v2.0b (1999)(Cannon, Douglas R. - HPSam)"
+	description "Skunk v2.0b (1999)(Cannon, Douglas R. - HPSam)"
+	rom ( name "Skunk v2.0b (1999)(Cannon, Douglas R. - HPSam).lib" size 12712 crc 14ea1643 md5 7ccf48bee4e1a40f672f01f1312db0a2 )
+)
+
+game (
+	name "Solitaire (19xx)(HPRiP)(fr)"
+	description "Solitaire (19xx)(HPRiP)(fr)"
+	rom ( name "Solitaire (19xx)(HPRiP)(fr).lib" size 4622 crc c687f01e md5 a8daf701f74bfd7c9aae5f2e5b215e5d )
+)
+
+game (
+	name "Solitaire (19xx)(Olwoch, John)"
+	description "Solitaire (19xx)(Olwoch, John)"
+	rom ( name "Solitaire (19xx)(Olwoch, John).var" size 1982 crc 9b5132fe md5 a4a3630615ccbdd292a54771446bf488 )
+)
+
+game (
+	name "Solitaire (19xx)(Olwoch, John)[doc]"
+	description "Solitaire (19xx)(Olwoch, John)[doc]"
+	rom ( name "Solitaire (19xx)(Olwoch, John)[doc].txt" size 2464 crc cb2d0d96 md5 33cfcb1a25037e30ff2b36fd633f9c88 )
+)
+
+game (
+	name "Solitaire (19xx)(Olwoch, John)[src]"
+	description "Solitaire (19xx)(Olwoch, John)[src]"
+	rom ( name "Solitaire (19xx)(Olwoch, John)[src].s" size 33737 crc 817540f4 md5 ea14a7d0263dd1fe7ab38e55a0e3ac6e )
+)
+
+game (
+	name "Supercar 49 v1.0 (1999)(Iki)"
+	description "Supercar 49 v1.0 (1999)(Iki)"
+	rom ( name "Supercar 49 v1.0 (1999)(Iki).lib" size 16071 crc 7906da98 md5 275f40ccf59d4380645c337edba38941 )
+)
+
+game (
+	name "SysNibble v1.0 (19xx)(RoccoHP)"
+	description "SysNibble v1.0 (19xx)(RoccoHP)"
+	rom ( name "SysNibble v1.0 (19xx)(RoccoHP).lib" size 4742 crc e2910644 md5 3a484e3caf1553e2601d5f7196e93d2d )
+)
+
+game (
+	name "SysTron v1.0 (19xx)(RoccoHP)(fr)"
+	description "SysTron v1.0 (19xx)(RoccoHP)(fr)"
+	rom ( name "SysTron v1.0 (19xx)(RoccoHP)(fr).dir" size 3444 crc f7b501bf md5 c3dfa50936ffb765107b8a3a1ab8e1f0 )
+)
+
+game (
+	name "Tennis HP v1.0 (1999)(Jadeware)"
+	description "Tennis HP v1.0 (1999)(Jadeware)"
+	rom ( name "Tennis HP v1.0 (1999)(Jadeware).var" size 2879 crc e586156d md5 497892b3a2284df9b329daa8afc123b6 )
+)
+
+game (
+	name "Tetris 2 v2.6 (1999)(DMRH)"
+	description "Tetris 2 v2.6 (1999)(DMRH)"
+	rom ( name "Tetris 2 v2.6 (1999)(DMRH).lib" size 6764 crc 0bb64134 md5 c42a87757f2a8fffa6346f01dc650934 )
+)
+
+game (
+	name "Tetris 2 v2.6 (1999)(DMRH)[doc]"
+	description "Tetris 2 v2.6 (1999)(DMRH)[doc]"
+	rom ( name "Tetris 2 v2.6 (1999)(DMRH)[doc].txt" size 18821 crc 3b69c980 md5 f57c20efc2f8609a459d971033ae1549 )
+)
+
+game (
+	name "Xwing Revenge v1r3 (19xx)(HPSB)(fr)"
+	description "Xwing Revenge v1r3 (19xx)(HPSB)(fr)"
+	rom ( name "Xwing Revenge v1r3 (19xx)(HPSB)(fr).lib" size 13720 crc 51f058be md5 0414fd2256b27f8a6b459acac0c15889 )
+)
+
+game (
+	name "Zelda 49 (demo) (19xx)(Julien Meyer)"
+	description "Zelda 49 (demo) (19xx)(Julien Meyer)"
+	rom ( name "Zelda 49 (demo) (19xx)(Julien Meyer).var" size 54431 crc a4ae709b md5 c5aca021836ee97be8e7309a80a51747 )
+)
+
+game (
+	name "ZeldaHP v0.1 (1999)(Arnaud Schmitt)(fr)"
+	description "ZeldaHP v0.1 (1999)(Arnaud Schmitt)(fr)"
+	rom ( name "ZeldaHP v0.1 (1999)(Arnaud Schmitt)(fr).var" size 31853 crc a0b56c18 md5 c4e50c94faad6a9ab5a20a4c766b3637 )
+)
+
+game (
+	name "ZeldaHP v0.2 (2000)(Arnaud Schmitt)(fr)[b]"
+	description "ZeldaHP v0.2 (2000)(Arnaud Schmitt)(fr)[b]"
+	rom ( name "ZeldaHP v0.2 (2000)(Arnaud Schmitt)(fr)[b].var" size 42515 crc 6d1078f6 md5 a76c17bdf6732b6cc0597594090f2130 )
+)
+
+game (
+	name "ZeldaHP v0.2 (2000)(Arnaud Schmitt)[b]"
+	description "ZeldaHP v0.2 (2000)(Arnaud Schmitt)[b]"
+	rom ( name "ZeldaHP v0.2 (2000)(Arnaud Schmitt)[b].var" size 42612 crc d63a55d5 md5 fc86ccdebe7d1460a1eec04e83056933 )
+)
+
+game (
+	name "Columns (1993)(Spartacus)"
+	description "Columns (1993)(Spartacus)"
+	rom ( name "Columns (1993)(Spartacus).var" size 5069 crc d6f69e36 md5 e0e8b671222f9c0b48a83ac3def91fd3 )
+)
+
+game (
+	name "columns (1993)(Spartacus)[a]"
+	description "columns (1993)(Spartacus)[a]"
+	rom ( name "columns (1993)(Spartacus)[a].var" size 3065 crc a6969ff0 md5 22929d27c52d37273fa049b245f4b1b3 )
+)
+
+game (
+	name "Diamonds v2.0 (1999)(Doug R. Cannon)"
+	description "Diamonds v2.0 (1999)(Doug R. Cannon)"
+	rom ( name "Diamonds v2.0 (1999)(Doug R. Cannon).var" size 13791 crc 1fa1f675 md5 17b1b8a617d4589aa4b8b912345c9cd5 )
+)
+
+game (
+	name "Diamonds v2.0 (1993-09)(Doug R. Cannon)[doc]"
+	description "Diamonds v2.0 (1993-09)(Doug R. Cannon)[doc]"
+	rom ( name "Diamonds v2.0 (1993-09)(Doug R. Cannon)[doc].txt" size 4601 crc 4ac53e3e md5 f60c6d37acc082b94070ab28ded5cd32 )
+)

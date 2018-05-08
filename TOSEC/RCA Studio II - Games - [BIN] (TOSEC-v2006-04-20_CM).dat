@@ -1,0 +1,37 @@
+clrmamepro (
+	name "RCA Studio II - Games - [BIN]"
+	description "RCA Studio II - Games - [BIN] (TOSEC-v2006-04-20)"
+	category "RCA Studio II - Games - [BIN]"
+	version 2006-04-20
+	author "Cid"
+)
+
+game (
+	name "TV Arcade I - Spacewar (1976)(RCA)"
+	description "TV Arcade I - Spacewar (1976)(RCA)"
+	rom ( name "TV Arcade I - Spacewar (1976)(RCA).bin" size 512 crc 021551f2 md5 e7a2cf0b9feeb465fb298af61b33ad36 )
+)
+
+game (
+	name "TV Arcade III - Tennis-Squash (1976)(RCA)"
+	description "TV Arcade III - Tennis-Squash (1976)(RCA)"
+	rom ( name "TV Arcade III - Tennis-Squash (1976)(RCA).bin" size 512 crc a21590c8 md5 1b2f07da69a3648030bf9d1ea096f2cd )
+)
+
+game (
+	name "TV Arcade IV - Baseball (1976)(RCA)"
+	description "TV Arcade IV - Baseball (1976)(RCA)"
+	rom ( name "TV Arcade IV - Baseball (1976)(RCA).bin" size 1024 crc d7fdedaa md5 242d1a4ef4f4cfd54eb7cca63aba4b31 )
+)
+
+game (
+	name "TV Arcade Speedway - Tag (1976)(RCA)"
+	description "TV Arcade Speedway - Tag (1976)(RCA)"
+	rom ( name "TV Arcade Speedway - Tag (1976)(RCA).bin" size 512 crc a80379e2 md5 93efe190665f3f3567011a82f9c11a49 )
+)
+
+game (
+	name "TV Casino Games - Blackjack (1976)(RCA)"
+	description "TV Casino Games - Blackjack (1976)(RCA)"
+	rom ( name "TV Casino Games - Blackjack (1976)(RCA).bin" size 1024 crc b30af7a9 md5 2923711d0aedb6b341b5faad80efd7d5 )
+)

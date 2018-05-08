@@ -1,0 +1,608 @@
+clrmamepro (
+	name "Commodore Amiga - Games - Unofficial Addons & Patches"
+	description "Commodore Amiga - Games - Unofficial Addons & Patches (TOSEC-v2011-11-01)"
+	category "Commodore Amiga - Games - Unofficial Addons & Patches"
+	version 2011-11-01
+	author "mai - idoru - BippyM"
+)
+
+game (
+	name "Aladdin - HD Installer (1994)(Access)(AGA)[a][req. PDY crack version]"
+	description "Aladdin - HD Installer (1994)(Access)(AGA)[a][req. PDY crack version]"
+	rom ( name "Aladdin - HD Installer (1994)(Access)(AGA)[a][req. PDY crack version].adf" size 901120 crc 54fe9c08 md5 1020c6f7ab4a2cfc136c479721985fe7 sha1 2b9e622b4ada05f181deb3eab26e265995aa6293 )
+)
+
+game (
+	name "Aladdin - HD Installer (1994)(Access)(AGA)[req. PDY crack version]"
+	description "Aladdin - HD Installer (1994)(Access)(AGA)[req. PDY crack version]"
+	rom ( name "Aladdin - HD Installer (1994)(Access)(AGA)[req. PDY crack version].adf" size 901120 crc d8dff701 md5 35c10bbcfcfac635b86e8757982d3c45 sha1 b9f9eb76ca235124ade5f95afc29a4144b868b28 )
+)
+
+game (
+	name "Alien Breed 3D 2 - The Killing Grounds - Save Game Editor v1.1 (1996-08-11)(Element Productions)(AGA)[h SB-Soft]"
+	description "Alien Breed 3D 2 - The Killing Grounds - Save Game Editor v1.1 (1996-08-11)(Element Productions)(AGA)[h SB-Soft]"
+	rom ( name "Alien Breed 3D 2 - The Killing Grounds - Save Game Editor v1.1 (1996-08-11)(Element Productions)(AGA)[h SB-Soft].adf" size 901120 crc 105afd32 md5 9b5e8ee36c951044f44edbd043276bca sha1 142a604d64bfdd9c34030411b6cd89d49388fb93 )
+)
+
+game (
+	name "Anarchy - Loader (1990)(Scoopex)[req. Angels crack version disk 1 only]"
+	description "Anarchy - Loader (1990)(Scoopex)[req. Angels crack version disk 1 only]"
+	rom ( name "Anarchy - Loader (1990)(Scoopex)[req. Angels crack version disk 1 only].adf" size 901120 crc 4b57198f md5 f94fdf868ce65f3c930bbce18a7f6abe sha1 a043d67c1e5a6a193fb4fef79b904d587d059f76 )
+)
+
+game (
+	name "Banshee - Trainer (1994)(Anthrox)(AGA)[lha archive, inc. docs by DLM]"
+	description "Banshee - Trainer (1994)(Anthrox)(AGA)[lha archive, inc. docs by DLM]"
+	rom ( name "Banshee - Trainer (1994)(Anthrox)(AGA)[lha archive, inc. docs by DLM].adf" size 901120 crc 3abc5d67 md5 1626a5c3a0e2a66575d911e7c882ab9d sha1 88c917bdf206404df7c6735a9ed0941f16fb44a1 )
+)
+
+game (
+	name "Battle Isle - Battle Field Creator v1.31 (19xx)(Software Society, The)(en-de)[cr Machinery & Maximum]"
+	description "Battle Isle - Battle Field Creator v1.31 (19xx)(Software Society, The)(en-de)[cr Machinery & Maximum]"
+	rom ( name "Battle Isle - Battle Field Creator v1.31 (19xx)(Software Society, The)(en-de)[cr Machinery & Maximum].adf" size 901120 crc 8e67945e md5 673a347fab7cbea50240fd1bb1d6334b sha1 a6316695b20a2519d7065111a06069f404cfdd47 )
+)
+
+game (
+	name "Bo Jackson Baseball - 1991 Stats Disk (1992)(-)[datadisk]"
+	description "Bo Jackson Baseball - 1991 Stats Disk (1992)(-)[datadisk]"
+	rom ( name "Bo Jackson Baseball - 1991 Stats Disk (1992)(-)[datadisk].adf" size 901120 crc cc1cc3f9 md5 230dd88fe96550b02e530504d8977706 sha1 db8fdac5f76fb47db2a0dc6df354c80f5e2c0c34 )
+)
+
+game (
+	name "Bump 'N' Burn - HD Installer (1994)(CW)[req. PSG crack version]"
+	description "Bump 'N' Burn - HD Installer (1994)(CW)[req. PSG crack version]"
+	rom ( name "Bump 'N' Burn - HD Installer (1994)(CW)[req. PSG crack version].adf" size 901120 crc bec8bf6f md5 59f35c83fc308dbb7d72125039c2e42a sha1 287fedd58e9cf102415ba9929bc3d3e2d9c466ff )
+)
+
+game (
+	name "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY]"
+	description "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY]"
+	rom ( name "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY].adf" size 901120 crc 5bca8435 md5 9afc43ed84b51c08f6761294f3e867f3 sha1 ba5505d6388bacd7b1ac4709e96db3706a075240 )
+)
+
+game (
+	name "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY][a]"
+	description "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY][a]"
+	rom ( name "Cannon Fodder 2 - Alien Edition (19xx)(-)[t +6 PDY][a].adf" size 901120 crc 6276a606 md5 8f28f9ad6cd5bd90e2f58e2674346e6c sha1 cb873c6b4b3fa4620380c7e9b2397468ddcbea45 )
+)
+
+game (
+	name "Cannon Fodder 2 - New Levels (19xx)(-)"
+	description "Cannon Fodder 2 - New Levels (19xx)(-)"
+	rom ( name "Cannon Fodder 2 - New Levels (19xx)(-).adf" size 901120 crc 8d7be2f3 md5 8e3bc975c28899de1062dfe86bba5ca9 sha1 f2762bd602f8d355d422afd2ca6b3cfb36f4c9a2 )
+)
+
+game (
+	name "Chaos Engine, The - A1200 No FastRAM Fix (1994)(-)(AGA)[lha archive]"
+	description "Chaos Engine, The - A1200 No FastRAM Fix (1994)(-)(AGA)[lha archive]"
+	rom ( name "Chaos Engine, The - A1200 No FastRAM Fix (1994)(-)(AGA)[lha archive].adf" size 901120 crc f84f5388 md5 eff797c7de5c48f3904161c6d708c938 sha1 b91af5c3e8cc1e3b236567e5978c443ca732ed57 )
+)
+
+game (
+	name "Civilization v855.04 - Cracked EXE (1992)(-)"
+	description "Civilization v855.04 - Cracked EXE (1992)(-)"
+	rom ( name "Civilization v855.04 - Cracked EXE (1992)(-).adf" size 901120 crc 91d3743b md5 1dbe094ce6b980d563d2953e432c53be sha1 9c22c8c099fa46b88bd9c5c031b089ad1b52e5a2 )
+)
+
+game (
+	name "Desert Wolf - Trainer (1996)(HF)[WB]"
+	description "Desert Wolf - Trainer (1996)(HF)[WB]"
+	rom ( name "Desert Wolf - Trainer (1996)(HF)[WB].adf" size 901120 crc f941e1ff md5 2ab4f44daf7763a63181d27890c9bf82 sha1 954599efda3d058cfd37166f18a6b57d084cca60 )
+)
+
+game (
+	name "Dungeon Master - Editor v1.1 (1989)(Penman, Edward)"
+	description "Dungeon Master - Editor v1.1 (1989)(Penman, Edward)"
+	rom ( name "Dungeon Master - Editor v1.1 (1989)(Penman, Edward).adf" size 901120 crc c604cb59 md5 962528817ee9d3c795a3458e1b00c40e sha1 fa71c3f218c935cb2ea855194c5e4c4c8c3c07aa )
+)
+
+game (
+	name "Dungeon Master - Editor v1.1 (1989)(Penman, Edward)[h OCL]"
+	description "Dungeon Master - Editor v1.1 (1989)(Penman, Edward)[h OCL]"
+	rom ( name "Dungeon Master - Editor v1.1 (1989)(Penman, Edward)[h OCL].adf" size 901120 crc 2c47fd92 md5 74f552e4fcfbb5d43d1e73b2455938b8 sha1 bca682102dc09021b34e57f25dcae560bb61a9e1 )
+)
+
+game (
+	name "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels]"
+	description "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels]"
+	rom ( name "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels].adf" size 901120 crc 8824a3f1 md5 ee7a43383f9e5fa8a77a2593839567e2 sha1 05f35c2e325c33c8c7c1b4899f38c6c533175900 )
+)
+
+game (
+	name "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels][a]"
+	description "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels][a]"
+	rom ( name "Dungeon Master - Survival Kit (1990)(Elkton Enterprises)[h Angels][a].adf" size 901120 crc d0d646cb md5 7fe90ca57a98956eaa044cc284374db6 sha1 2aba4e50593280373fe52901f0bb869355c8e32e )
+)
+
+game (
+	name "Dungeon Master - The Solution (19xx)(Stevens, B.)"
+	description "Dungeon Master - The Solution (19xx)(Stevens, B.)"
+	rom ( name "Dungeon Master - The Solution (19xx)(Stevens, B.).adf" size 901120 crc 728e7245 md5 4127789079b817e9cdcc9600633569ac sha1 54f250d7ede0617df4f0193a206f1ec933380c3b )
+)
+
+game (
+	name "Dungeon Master - The Solution (19xx)(Stevens, B.)[a]"
+	description "Dungeon Master - The Solution (19xx)(Stevens, B.)[a]"
+	rom ( name "Dungeon Master - The Solution (19xx)(Stevens, B.)[a].adf" size 901120 crc 6162967e md5 bbb7259871ec0f044f216a73114714a4 sha1 6f2194e7cbafe24a7f87a2935be177c849b24239 )
+)
+
+game (
+	name "Earl Weaver Baseball - 1988 Teams Stats (1988)(-)"
+	description "Earl Weaver Baseball - 1988 Teams Stats (1988)(-)"
+	rom ( name "Earl Weaver Baseball - 1988 Teams Stats (1988)(-).adf" size 901120 crc 0748e209 md5 d580ea1ec3b5f3966476f944dbc26e05 sha1 81cdecd5d550ff858514c39e0e8c9ba9c7c1a16c )
+)
+
+game (
+	name "Earl Weaver Baseball - All-Time Great Teams (1988)(Patrix Productions)(SW)"
+	description "Earl Weaver Baseball - All-Time Great Teams (1988)(Patrix Productions)(SW)"
+	rom ( name "Earl Weaver Baseball - All-Time Great Teams (1988)(Patrix Productions)(SW).adf" size 901120 crc 372d8b6c md5 d3649c03924312e3e136ae5a8492ec1f sha1 4bdb8181fbcf6498b65027e0861ffce0b7fadda0 )
+)
+
+game (
+	name "Epic - Trainer (1992)(Supplex)[t +5 Supplex][a][boot disk, req. FSN - BTS crack version]"
+	description "Epic - Trainer (1992)(Supplex)[t +5 Supplex][a][boot disk, req. FSN - BTS crack version]"
+	rom ( name "Epic - Trainer (1992)(Supplex)[t +5 Supplex][a][boot disk, req. FSN - BTS crack version].adf" size 901120 crc da504a34 md5 7a36fdd73f862175b78a03c69cc64825 sha1 53a68e63767726d8bf13ef9d1afef852b1e81811 )
+)
+
+game (
+	name "Epic - Trainer (1992)(Supplex)[t +5 Supplex][boot disk, req. FSN - BTS crack version]"
+	description "Epic - Trainer (1992)(Supplex)[t +5 Supplex][boot disk, req. FSN - BTS crack version]"
+	rom ( name "Epic - Trainer (1992)(Supplex)[t +5 Supplex][boot disk, req. FSN - BTS crack version].adf" size 901120 crc 3019c7e2 md5 83f096c0bf7d67e9e247892f16b4d99a sha1 5e71d2c8b7323195eccd1c4df6ceb70c31835479 )
+)
+
+game (
+	name "Eye of the Beholder II - Character Editor (19xx)(Abyss, The)"
+	description "Eye of the Beholder II - Character Editor (19xx)(Abyss, The)"
+	rom ( name "Eye of the Beholder II - Character Editor (19xx)(Abyss, The).adf" size 901120 crc 88af4912 md5 1f95b5bce47bfb72d846391aa687f83b sha1 a289262ad794c55394594de7ec9e225bf2a13950 )
+)
+
+game (
+	name "Eye of the Beholder II - Character Editor (19xx)(Abyss, The)[v Saddam 1]"
+	description "Eye of the Beholder II - Character Editor (19xx)(Abyss, The)[v Saddam 1]"
+	rom ( name "Eye of the Beholder II - Character Editor (19xx)(Abyss, The)[v Saddam 1].adf" size 901120 crc 30d694a5 md5 85113088496cc73aa60be6319cecd319 sha1 6b63e05cbaed9106d7723a5918ba44684e1b81f1 )
+)
+
+game (
+	name "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b checksum error][HD, data disk]"
+	description "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b checksum error][HD, data disk]"
+	rom ( name "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b checksum error][HD, data disk].adf" size 901120 crc c6259d03 md5 6f0dd78c7c91d02c6782a8e62aa8ad45 sha1 d12e35fbd4ac68c63480c365ae6bd4f02f908398 )
+)
+
+game (
+	name "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b2 checksum error][HD, data disk]"
+	description "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b2 checksum error][HD, data disk]"
+	rom ( name "Eye of the Beholder II - Swords of Dawn (1992)(SSI)[h X-Trade][b2 checksum error][HD, data disk].adf" size 901120 crc 0d268a23 md5 46fe889b1a28da672cbf2419138d3200 sha1 60338f508044d1444f222832e8e53ac2f5dcbad3 )
+)
+
+game (
+	name "FYF Trainer Disk 01 (1992)(FYF)"
+	description "FYF Trainer Disk 01 (1992)(FYF)"
+	rom ( name "FYF Trainer Disk 01 (1992)(FYF).adf" size 901120 crc 73457843 md5 e619981d07101e20ca7e9e8bedfbd460 sha1 0a9a0c697b1660ff3ed459c0f9dfff99a68d50d8 )
+)
+
+game (
+	name "Goblins 3 v1.00 - HD Installer (1993)(TBBC)"
+	description "Goblins 3 v1.00 - HD Installer (1993)(TBBC)"
+	rom ( name "Goblins 3 v1.00 - HD Installer (1993)(TBBC).adf" size 901120 crc 1f52d50a md5 78948b52e402eb263be94220051a3bb2 sha1 7181b4ed1617ea460f2513b81191ade50932e3a0 )
+)
+
+game (
+	name "Graham Gooch World Class Cricket - 1995 Team Update (1995)(-)"
+	description "Graham Gooch World Class Cricket - 1995 Team Update (1995)(-)"
+	rom ( name "Graham Gooch World Class Cricket - 1995 Team Update (1995)(-).adf" size 901120 crc 53cf081d md5 026970857fdeb852fd5b8ab28cc5d602 sha1 27a1d1d17844750a37946891734dc4cd5f690859 )
+)
+
+game (
+	name "H.E.R.O. - Level Editor (19xx)(-)(PD)"
+	description "H.E.R.O. - Level Editor (19xx)(-)(PD)"
+	rom ( name "H.E.R.O. - Level Editor (19xx)(-)(PD).adf" size 901120 crc 3396761e md5 85101937a15410496d4963cef2776aa3 sha1 73695d9ae13f9e4391ccd463a577fde58ffba4f2 )
+)
+
+game (
+	name "Hare Raising Havoc - Cracked EXE (1992)(Skid Row)[exe archive]"
+	description "Hare Raising Havoc - Cracked EXE (1992)(Skid Row)[exe archive]"
+	rom ( name "Hare Raising Havoc - Cracked EXE (1992)(Skid Row)[exe archive].adf" size 901120 crc e93be2c7 md5 b3f530a39937c78032c7966bcdfaa947 sha1 60df000073b8fd522002ed19425c4d8ea6b4d7a1 )
+)
+
+game (
+	name "HDInstallers Pak 1 (199x)(SubZero)[KS2.0]"
+	description "HDInstallers Pak 1 (199x)(SubZero)[KS2.0]"
+	rom ( name "HDInstallers Pak 1 (199x)(SubZero)[KS2.0].adf" size 901120 crc d584c8bf md5 7d89812e735d1dd2f1f326a248ad840c sha1 d5b8a0468bf48afedc7dd357da40e3e76795dca1 )
+)
+
+game (
+	name "Historyline 1914-1918 - Leveldisk (199x)(Gotcha)[map]"
+	description "Historyline 1914-1918 - Leveldisk (199x)(Gotcha)[map]"
+	rom ( name "Historyline 1914-1918 - Leveldisk (199x)(Gotcha)[map].adf" size 901120 crc 132a335a md5 9902c2cd091529d39df20ce5bec86dfb sha1 48ea1e4170526d2b0d04e71b0d676e852b7a2f5e )
+)
+
+game (
+	name "Hunter - AGA Fix (1991)(Blood Brothers)"
+	description "Hunter - AGA Fix (1991)(Blood Brothers)"
+	rom ( name "Hunter - AGA Fix (1991)(Blood Brothers).adf" size 901120 crc 63e422db md5 a098241d847fb159706a039eb2dd34d5 sha1 ee83be19df3cd0c63b3cf07a815a23aab144d922 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[a][courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[a][courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[a][courses].adf" size 901120 crc 21a4ddb2 md5 7e9235a10e5f7ec524a7f4059c86080c sha1 88abac1f9bfc17a4db97cad8878d5a01f0c7ced7 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 1 (19xx)(-)[courses].adf" size 901120 crc 184be3da md5 970c20146e24c79005902c84ed622a6a sha1 b053b02030c9f269525d1499d21b4458845831de )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[a][courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[a][courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[a][courses].adf" size 901120 crc 68ef20c5 md5 f41b58157128d2f8f4034104eff22f78 sha1 44ff8efc3c89fcdbfd2be3bc8cd791c0421fc6d6 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 2 (19xx)(-)[courses].adf" size 901120 crc da025794 md5 86792ea258bf41213a47434407336408 sha1 34bc788ecceeb3642bf4198cfb561633e57318af )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[a][courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[a][courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[a][courses].adf" size 901120 crc 75c80bd3 md5 6175b2344b7452b935e038bb6cf66cc7 sha1 9e3e2da44e2cf0f0d8077eeb01b3517f8b2ea669 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 3 (19xx)(-)[courses].adf" size 901120 crc aebd025b md5 33a72bfbb3af7faea769dd7b0c3b0e2a sha1 6d0410281c4296eb00c969a5ab9be92b6f6a3820 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[a][courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[a][courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[a][courses].adf" size 901120 crc c3774c66 md5 d490c2b340557b169258940343d86ce5 sha1 dd0ff9096b0ffeadc25129821bd19320327d8a31 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 4 (19xx)(Robinson, D.)[courses].adf" size 901120 crc 2174a121 md5 7a7729b88e93e297a422bb57f49f1925 sha1 848406e998a6ff4fb3d1514ac1840045885c2dbc )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 5 (19xx)(-)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 5 (19xx)(-)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 5 (19xx)(-)[courses].adf" size 901120 crc 14435be3 md5 ef43281bf5a9838755f05062452acc0e sha1 0be58033bcee3f3910342bf6f561d3e1db13dde6 )
+)
+
+game (
+	name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 7 (19xx)(-)[courses]"
+	description "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 7 (19xx)(-)[courses]"
+	rom ( name "Jack Nicklaus' Unlimited Golf & Course Design - Ultimate Golf Courses 7 (19xx)(-)[courses].adf" size 901120 crc 742f917a md5 340ff4af88965235268eae0ef43e448b sha1 3be94ab9626e1e15bfaf166fe2f9307cfea8c3d5 )
+)
+
+game (
+	name "Jaguar XJ220 (1992)(-)[datadisk]"
+	description "Jaguar XJ220 (1992)(-)[datadisk]"
+	rom ( name "Jaguar XJ220 (1992)(-)[datadisk].adf" size 901120 crc ba0cd154 md5 b31892d2900afe8337b7460ff29e27c5 sha1 166ee375789b8b7fc04e7790960d66707f5a93be )
+)
+
+game (
+	name "Jaguar XJ220 (1992)(SR)[a2][datadisk]"
+	description "Jaguar XJ220 (1992)(SR)[a2][datadisk]"
+	rom ( name "Jaguar XJ220 (1992)(SR)[a2][datadisk].adf" size 901120 crc 94ffb2ab md5 913558258dfd0694dfd77be094f883a3 sha1 0ce4be7b13f556bb6c05ed2b9384023929a17ba4 )
+)
+
+game (
+	name "Jaguar XJ220 (1992)(SR)[a][datadisk]"
+	description "Jaguar XJ220 (1992)(SR)[a][datadisk]"
+	rom ( name "Jaguar XJ220 (1992)(SR)[a][datadisk].adf" size 901120 crc 54bce61e md5 b47043fb7a2b6ddd997740d3ad4301ff sha1 dc850fec0913bdbc434c0ad1b84d7a1794628b2e )
+)
+
+game (
+	name "Jaguar XJ220 (1992)(SR)[datadisk]"
+	description "Jaguar XJ220 (1992)(SR)[datadisk]"
+	rom ( name "Jaguar XJ220 (1992)(SR)[datadisk].adf" size 901120 crc d3b49bf1 md5 83b467c5423d0c07a25c35e9be047c0b sha1 ba53a0c6fa28649b7987c3203fdf77bb2fad0d0c )
+)
+
+game (
+	name "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][a][addon]"
+	description "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][a][addon]"
+	rom ( name "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][a][addon].adf" size 901120 crc 4ef2beb3 md5 165198f036c804b9ddfc030d316e90fb sha1 479e4fc502cf8c3642f1dd5d826fa727ca169373 )
+)
+
+game (
+	name "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][addon]"
+	description "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][addon]"
+	rom ( name "Keef the Thief Character Editor (1990)(Gosselin Computer Consultants)[h MAD][addon].adf" size 901120 crc a2bb679a md5 0913763eb1422b68cc5b9c262663abc5 sha1 8ddd45451f1c214bc2b63a5f52fcfdcbdcad4507 )
+)
+
+game (
+	name "Leisure Suit Larry 5 - Docs, Codes & Savegames (1991)(Alpha Flight)(DE)"
+	description "Leisure Suit Larry 5 - Docs, Codes & Savegames (1991)(Alpha Flight)(DE)"
+	rom ( name "Leisure Suit Larry 5 - Docs, Codes & Savegames (1991)(Alpha Flight)(DE).adf" size 901120 crc 29ae37ad md5 d5cd318ab07ce9d40f312b596c2b3afa sha1 070fc3a7f2fef2d5f1fb95c85156013f47460e09 )
+)
+
+game (
+	name "LSD TrainerDisk 02 (199x)(LSD)"
+	description "LSD TrainerDisk 02 (199x)(LSD)"
+	rom ( name "LSD TrainerDisk 02 (199x)(LSD).adf" size 901120 crc a384a6f8 md5 4b2cf9995301e77655808204baf79a5b sha1 0c22290ba5c7158a8c905b6effd10473ac93e716 )
+)
+
+game (
+	name "LSD TrainerDisk 05 (1992-03)(LSD)"
+	description "LSD TrainerDisk 05 (1992-03)(LSD)"
+	rom ( name "LSD TrainerDisk 05 (1992-03)(LSD).adf" size 901120 crc 1a87dfed md5 9f7ca54230ceaddb4445f95c942158dc sha1 6f24177f5d2e943c3e497482e62de737d404d88c )
+)
+
+game (
+	name "LSD TrainerDisk 06 (1992)(LSD)"
+	description "LSD TrainerDisk 06 (1992)(LSD)"
+	rom ( name "LSD TrainerDisk 06 (1992)(LSD).adf" size 901120 crc 7e2a9974 md5 9b1882954eba31975450f8ff8d589892 sha1 bd7ec96aa96b08224c8bf01d6e648d941737431e )
+)
+
+game (
+	name "LSD TrainerDisk 07 (1992)(LSD)"
+	description "LSD TrainerDisk 07 (1992)(LSD)"
+	rom ( name "LSD TrainerDisk 07 (1992)(LSD).adf" size 901120 crc ef328ed7 md5 e92a47c921b99713e0283cb74c566221 sha1 351ed2418341d957b1789de9c91815e8256754c7 )
+)
+
+game (
+	name "LSD TrainerDisk 08 (1992-05)(LSD)"
+	description "LSD TrainerDisk 08 (1992-05)(LSD)"
+	rom ( name "LSD TrainerDisk 08 (1992-05)(LSD).adf" size 901120 crc aba2039f md5 331aa0a0369a90494af191e770db9e76 sha1 0279d366fcb9394ed83684bd04149f86bce62c9e )
+)
+
+game (
+	name "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver)"
+	description "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver)"
+	rom ( name "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver).adf" size 901120 crc e7bcc5c4 md5 4df960f5ccb8922bc9f0da230196a3e5 sha1 a7e0df8836930dc4d1b82da9854c5e80dd0b2fee )
+)
+
+game (
+	name "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver)[a]"
+	description "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver)[a]"
+	rom ( name "MicroProse Formula One Grand Prix - Editor v3.1 (1995)(Roberts, Oliver)[a].adf" size 901120 crc eddb754d md5 8771af6a51ecccb1a732d8865ac14431 sha1 4c4e7fd47452cbd5548a665a75970185c99c4484 )
+)
+
+game (
+	name "MicroProse Formula One Grand Prix - World Circuit Acessories Disk (1995-12-09)(Roberts, Oliver)"
+	description "MicroProse Formula One Grand Prix - World Circuit Acessories Disk (1995-12-09)(Roberts, Oliver)"
+	rom ( name "MicroProse Formula One Grand Prix - World Circuit Acessories Disk (1995-12-09)(Roberts, Oliver).adf" size 901120 crc 4768a273 md5 58307d3e0d9194f165fbdcee91958fb7 sha1 a4886a25918f2d484dcc2f7471160c0f67e9baf8 )
+)
+
+game (
+	name "Penguins - HD Installer (1996)(LSD)(AGA)[a][req. HF version]"
+	description "Penguins - HD Installer (1996)(LSD)(AGA)[a][req. HF version]"
+	rom ( name "Penguins - HD Installer (1996)(LSD)(AGA)[a][req. HF version].adf" size 901120 crc fb9481b3 md5 98683ac7c14d7e9c1e5db3b046dc8ab4 sha1 ed3d1823fa5d17e58368ba9410dc1a06f7a85745 )
+)
+
+game (
+	name "Penguins - HD Installer (1996)(LSD)(AGA)[req. HF version]"
+	description "Penguins - HD Installer (1996)(LSD)(AGA)[req. HF version]"
+	rom ( name "Penguins - HD Installer (1996)(LSD)(AGA)[req. HF version].adf" size 901120 crc 740aee77 md5 5c2a62a11d6da5044abf7eee73e1b3e4 sha1 4876710f2229eb1f9df10e7f1b1f4ff0c9607abb )
+)
+
+game (
+	name "Populous World Editor (19xx)(-)[h BTTR]"
+	description "Populous World Editor (19xx)(-)[h BTTR]"
+	rom ( name "Populous World Editor (19xx)(-)[h BTTR].adf" size 901120 crc 8cdf8e20 md5 227ecb7b562deec8b308a84bb550151a sha1 f2a8afd930a39f3b2c1a62f01fb1b9b3041ef969 )
+)
+
+game (
+	name "Sabre Team - Mission Disk 1 (1994)(-)[data disk]"
+	description "Sabre Team - Mission Disk 1 (1994)(-)[data disk]"
+	rom ( name "Sabre Team - Mission Disk 1 (1994)(-)[data disk].adf" size 901120 crc ebcda67c md5 547eda4c7e76c97a70752711b56c4234 sha1 48fa3416b0422aacbdf346a107439d0adb200515 )
+)
+
+game (
+	name "Sabre Team - Mission Disk 2 (1994)(-)[data disk]"
+	description "Sabre Team - Mission Disk 2 (1994)(-)[data disk]"
+	rom ( name "Sabre Team - Mission Disk 2 (1994)(-)[data disk].adf" size 901120 crc b6d5e2dc md5 3394b2f73ad31a57da641926826fa1ec sha1 f4d5e8c82415492769fd37ca9649545793e9a326 )
+)
+
+game (
+	name "Sabre Team - Mission Disk 3 (1994)(-)[data disk]"
+	description "Sabre Team - Mission Disk 3 (1994)(-)[data disk]"
+	rom ( name "Sabre Team - Mission Disk 3 (1994)(-)[data disk].adf" size 901120 crc de2e4f06 md5 99db2dcfb2215631d281ddceaefac210 sha1 b99be2520041ec85d5bfe56637516443496631e5 )
+)
+
+game (
+	name "Sabre Team - Mission Disk 4 (1994)(-)[data disk]"
+	description "Sabre Team - Mission Disk 4 (1994)(-)[data disk]"
+	rom ( name "Sabre Team - Mission Disk 4 (1994)(-)[data disk].adf" size 901120 crc ff54c474 md5 1faca426c34202d323a217c96c0e1b57 sha1 27b468fa37a079bb8e452aed49ef1f6e7bbb5ffa )
+)
+
+game (
+	name "Sabre Team - Mission Disk 5 (1994)(-)[data disk]"
+	description "Sabre Team - Mission Disk 5 (1994)(-)[data disk]"
+	rom ( name "Sabre Team - Mission Disk 5 (1994)(-)[data disk].adf" size 901120 crc 2d9e38c3 md5 f11c57bcabf3fa0ba593b8dff68a8ccd sha1 07b9d293219a5165f43d55229a7365b934cf8dd7 )
+)
+
+game (
+	name "Settlers, The - EdSet v0.8 (199x)(Mackey, Ed)[WB2.0]"
+	description "Settlers, The - EdSet v0.8 (199x)(Mackey, Ed)[WB2.0]"
+	rom ( name "Settlers, The - EdSet v0.8 (199x)(Mackey, Ed)[WB2.0].adf" size 901120 crc ed275f5a md5 59f3f425c149e2a670558987cb09aef6 sha1 d3a8ba5d01530473ff842b84fd8cf14eaa5bde72 )
+)
+
+game (
+	name "SimCity Unreal! Cities (1990)(-)[data disk]"
+	description "SimCity Unreal! Cities (1990)(-)[data disk]"
+	rom ( name "SimCity Unreal! Cities (1990)(-)[data disk].adf" size 901120 crc 93c7b535 md5 c98d19e5ba535a87b9da813356be1739 sha1 aae7f6298b7ce273fdaaf581f2f67d3ff2469f0a )
+)
+
+game (
+	name "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA)"
+	description "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA)"
+	rom ( name "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA).adf" size 901120 crc 93a7c27a md5 60195422bc642db9027a7827e13914de sha1 38ce37a26e60b23c414185d84f71a1b179200d8d )
+)
+
+game (
+	name "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA)[a]"
+	description "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA)[a]"
+	rom ( name "Skidmarks v2.x - Cars Disk 1 (1995)(Bolt, Andrew)(AGA)[a].adf" size 901120 crc ba48431a md5 4e92408c518dc09bf533d038d94e9778 sha1 9f04f8e0f48cefa23fbcd573b4ccf107827fcf89 )
+)
+
+game (
+	name "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew - 17-Bit Licenceware)(AGA)(LW)"
+	description "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew - 17-Bit Licenceware)(AGA)(LW)"
+	rom ( name "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew - 17-Bit Licenceware)(AGA)(LW).adf" size 901120 crc bd2e7eb0 md5 3d2da670716a1769421d904f32890010 sha1 eb34e58c4e4a793b74eb05e56fa59ec74b84ed77 )
+)
+
+game (
+	name "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew)(AGA)"
+	description "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew)(AGA)"
+	rom ( name "Skidmarks v2.x - Cars Disk 2 (1995)(Bolt, Andrew)(AGA).adf" size 901120 crc d65d39d0 md5 64ecbd96acc71649e660a43a4b211a63 sha1 de913a3b0894fd37336bd282b8bcc855cee905c1 )
+)
+
+game (
+	name "Studley's Hard Drive Installers (1994)(Ultima)"
+	description "Studley's Hard Drive Installers (1994)(Ultima)"
+	rom ( name "Studley's Hard Drive Installers (1994)(Ultima).adf" size 901120 crc 4b26dff5 md5 cee4f9524455654164cbe86d684f843f sha1 384e9490e17524052fa515cc08cd1ab571fa5c98 )
+)
+
+game (
+	name "Studley's Hard Drive Installers Volume 2 (1995)(Ultima)"
+	description "Studley's Hard Drive Installers Volume 2 (1995)(Ultima)"
+	rom ( name "Studley's Hard Drive Installers Volume 2 (1995)(Ultima).adf" size 901120 crc f13a983a md5 804b1f6ee40337be93b452a9fd983b5a sha1 0341ec10a61ca2ee3eead4457f40cd6a2c8023a6 )
+)
+
+game (
+	name "Studley's Hard Drive Installers Volume 3 (1995)(Ultima)"
+	description "Studley's Hard Drive Installers Volume 3 (1995)(Ultima)"
+	rom ( name "Studley's Hard Drive Installers Volume 3 (1995)(Ultima).adf" size 901120 crc 124e5868 md5 377a5ee2ef5029a04032796fcadfc50e sha1 ea1d6874b4ea23281738a8f8fdad29d1c17012c9 )
+)
+
+game (
+	name "SubZero TrainerDisk 01 (199x)(SubZero)[KS2.0]"
+	description "SubZero TrainerDisk 01 (199x)(SubZero)[KS2.0]"
+	rom ( name "SubZero TrainerDisk 01 (199x)(SubZero)[KS2.0].adf" size 901120 crc 46b07a92 md5 71ea47f54d0ca63f07bb3e80626f665f sha1 6f2ac4ec17a0fd97bde4e9335f03393e58ddc15e )
+)
+
+game (
+	name "SubZero TrainerDisk 02 (199x)(SubZero)[KS2.0]"
+	description "SubZero TrainerDisk 02 (199x)(SubZero)[KS2.0]"
+	rom ( name "SubZero TrainerDisk 02 (199x)(SubZero)[KS2.0].adf" size 901120 crc 89d39748 md5 e01c1f39c88e12890975d40854cda732 sha1 8af5ac9394548baf7265fd45a516406c7b615206 )
+)
+
+game (
+	name "Super Cars II - Trainer (1991)(Punishers)[t +40 PNS][boot disk]"
+	description "Super Cars II - Trainer (1991)(Punishers)[t +40 PNS][boot disk]"
+	rom ( name "Super Cars II - Trainer (1991)(Punishers)[t +40 PNS][boot disk].adf" size 901120 crc 970371c2 md5 8844b92d79cc4fb602b7fd553f914d01 sha1 31cf4fa65319c2476d65cda7730703f8ea2479aa )
+)
+
+game (
+	name "Super Stardust - HD Installer (1994)(Prestige)(AGA)[a][req. PSG crack version]"
+	description "Super Stardust - HD Installer (1994)(Prestige)(AGA)[a][req. PSG crack version]"
+	rom ( name "Super Stardust - HD Installer (1994)(Prestige)(AGA)[a][req. PSG crack version].adf" size 901120 crc b3bba7df md5 40fe8377672b9a8694d4bce1af8bf9c6 sha1 0013f55f9c0ccd46263a98a92e1c9509b973f9bc )
+)
+
+game (
+	name "Super Stardust - HD Installer (1994)(Prestige)(AGA)[req. PSG crack version]"
+	description "Super Stardust - HD Installer (1994)(Prestige)(AGA)[req. PSG crack version]"
+	rom ( name "Super Stardust - HD Installer (1994)(Prestige)(AGA)[req. PSG crack version].adf" size 901120 crc 10decce5 md5 989b4780bb3348169afff207a1db9f9d sha1 5c3df0dc2eea09f79ccce73a19be63bb0e64629a )
+)
+
+game (
+	name "Trainers Disk 1 (1994)(Deelite)"
+	description "Trainers Disk 1 (1994)(Deelite)"
+	rom ( name "Trainers Disk 1 (1994)(Deelite).adf" size 901120 crc 819b49e8 md5 eaf91df52fe87ea9aee6ee7cf55f1804 sha1 0fd459a4f50ab5bc2cf0d8a09a22e0558d7f46cc )
+)
+
+game (
+	name "Transarctica - HD Installer (1991)(AAB)"
+	description "Transarctica - HD Installer (1991)(AAB)"
+	rom ( name "Transarctica - HD Installer (1991)(AAB).adf" size 901120 crc 1b28c90d md5 ac8d157a501db721cc30b6ff0c7a3dbe sha1 a3d54464e052f1e1c823af0856106e607ba6f954 )
+)
+
+game (
+	name "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h Nova Aces]"
+	description "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h Nova Aces]"
+	rom ( name "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h Nova Aces].adf" size 901120 crc 97c52f36 md5 539b047088029ffec5b797c03c1fe79c sha1 74686215495c5a88aeed48759a8b5b8458514f02 )
+)
+
+game (
+	name "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h QTX][WB]"
+	description "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h QTX][WB]"
+	rom ( name "TV Sports Football - Team Editor & Schedule Compiler (1988)(sru516)[h QTX][WB].adf" size 901120 crc 98c4ca60 md5 1d23bbe568b782b44765636b5f9abcc7 sha1 e4ee9912e46014fe3823a9ec1334eb2cb5d2b30b )
+)
+
+game (
+	name "Universe - HD Installer (1994)(Max)[req. PSG crack version]"
+	description "Universe - HD Installer (1994)(Max)[req. PSG crack version]"
+	rom ( name "Universe - HD Installer (1994)(Max)[req. PSG crack version].adf" size 901120 crc 74de8b28 md5 5beae5d4aab92e1f6fb88f7fbab19ef4 sha1 dfc4893bffb97951c10b171d026203c584a0eac0 )
+)
+
+game (
+	name "Virtual Karting - HD Installer (1995)(Hoodlum)(AGA)[req. HLM crack version]"
+	description "Virtual Karting - HD Installer (1995)(Hoodlum)(AGA)[req. HLM crack version]"
+	rom ( name "Virtual Karting - HD Installer (1995)(Hoodlum)(AGA)[req. HLM crack version].adf" size 901120 crc f06eb579 md5 a547b3e2efb7f1ebb87652bfc37263de sha1 76ca22f30ea39ec57a7a3c7fe4617173982f48bb )
+)
+
+game (
+	name "Vroom - Graphic & Qwerty Keyboard Fix (1992)(Yakoul)"
+	description "Vroom - Graphic & Qwerty Keyboard Fix (1992)(Yakoul)"
+	rom ( name "Vroom - Graphic & Qwerty Keyboard Fix (1992)(Yakoul).adf" size 901120 crc 2e830306 md5 894eee65ac7170a405ee24c4cc23df51 sha1 439855e82211d7213676135706c4aab2574f53e4 )
+)
+
+game (
+	name "Walker - HD Installer (1993)(Extreme)[req. SR crack version]"
+	description "Walker - HD Installer (1993)(Extreme)[req. SR crack version]"
+	rom ( name "Walker - HD Installer (1993)(Extreme)[req. SR crack version].adf" size 901120 crc fe18c1f7 md5 079a4336a519894a7bc5feefa5f3171d sha1 2be04c7684c5598762c7a38a52441bd8fb5b5aec )
+)
+
+game (
+	name "Whizz Trainer (1995)(HLM)(AGA)[t +25 HLM][boot disk, req. PSG crack]"
+	description "Whizz Trainer (1995)(HLM)(AGA)[t +25 HLM][boot disk, req. PSG crack]"
+	rom ( name "Whizz Trainer (1995)(HLM)(AGA)[t +25 HLM][boot disk, req. PSG crack].adf" size 901120 crc 2e3abc16 md5 23c6683f9517d12f0ea511ec9a428980 sha1 e132c1ffdc034a624189f9c1efd0e5974ad81e8a )
+)
+
+game (
+	name "Wizardry VI - Bane of the Cosmic Forge - Addons (1991)(Elkon Enterprises)"
+	description "Wizardry VI - Bane of the Cosmic Forge - Addons (1991)(Elkon Enterprises)"
+	rom ( name "Wizardry VI - Bane of the Cosmic Forge - Addons (1991)(Elkon Enterprises).adf" size 901120 crc 2fa054ed md5 a0da4747c31f0c88936734d1e5d92002 sha1 8af77c4287544d731ce57311ae4763780a6f0c7e )
+)
+
+game (
+	name "Worms - Custom Levels (1995)(Various)"
+	description "Worms - Custom Levels (1995)(Various)"
+	rom ( name "Worms - Custom Levels (1995)(Various).adf" size 901120 crc b5651a0a md5 41d7655dbf8a645d496bea8c471c7298 sha1 47378258f5cc866be2e2812f0ff7c04f6657398b )
+)
+
+game (
+	name "Worms - Custom Levels (1995)(Various)[h RamKids]"
+	description "Worms - Custom Levels (1995)(Various)[h RamKids]"
+	rom ( name "Worms - Custom Levels (1995)(Various)[h RamKids].adf" size 901120 crc b1043daa md5 bea5a33ad48666f28d76c2ca459ec4b6 sha1 825d7f4112f06003e43aaf3cfa4893bab8e9f44b )
+)
+
+game (
+	name "Worms - Custom Levels (1995)(Various)[h RamKids][a]"
+	description "Worms - Custom Levels (1995)(Various)[h RamKids][a]"
+	rom ( name "Worms - Custom Levels (1995)(Various)[h RamKids][a].adf" size 901120 crc 4947df80 md5 06ebad876664e6ffcb83adcf94024b75 sha1 1081f30e811e36fc1089fd2ae4d52252f7fbd9fb )
+)
+
+game (
+	name "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna]"
+	description "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna]"
+	rom ( name "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna].adf" size 901120 crc eea2495b md5 4d4ca443e43c0ffc053ea715f5e45264 sha1 11c1f8acc13cb0b03cab1341dfa63acaa2e4ace6 )
+)
+
+game (
+	name "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna][a]"
+	description "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna][a]"
+	rom ( name "Worms - Custom Levels - Xmas (1996)(Various)[h Decent - Bluna][a].adf" size 901120 crc bdf1967d md5 6da67f9331edd668fd055ccf4dbbb47a sha1 79c9ea628e5ccf656dbf31c2fe8bac607291ad29 )
+)
+
+game (
+	name "Worms - Levels Disk (1996-03-07)(Various)[h NFA]"
+	description "Worms - Levels Disk (1996-03-07)(Various)[h NFA]"
+	rom ( name "Worms - Levels Disk (1996-03-07)(Various)[h NFA].adf" size 901120 crc 9f3c8261 md5 b4c8da583277c9e9a7b7f874b905819f sha1 6fa3beb21efb5e8f29ef962ea4aa602ac6354003 )
+)
+
+game (
+	name "Worms - Xtra Levels (1996)(Various)[h Rippa - Internet]"
+	description "Worms - Xtra Levels (1996)(Various)[h Rippa - Internet]"
+	rom ( name "Worms - Xtra Levels (1996)(Various)[h Rippa - Internet].adf" size 901120 crc 1123d5be md5 375449d3e45f7a94efb3096252180594 sha1 9b5ad55b4fbe3c351341af9fe16eb2af425b5b22 )
+)
+

@@ -1,0 +1,248 @@
+clrmamepro (
+	name "Commodore C64 - Applications - Test Disks"
+	description "Commodore C64 - Applications - Test Disks (TOSEC-v2012-11-03)"
+	category "Commodore C64 - Applications - Test Disks"
+	version 2012-11-03
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore).d64" size 174848 crc d6d23c03 md5 c177976b8a20ad30ba33747d157cb7b8 sha1 b461d66fd6324615891625d777a6b1e6e5aef1ae )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a2]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a2]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a2].d64" size 174848 crc b68b4a80 md5 d88d45d0876f20acf33e00a03756f19d sha1 ed21171fd4c9ecd3f10343fb3bb123bb8c0d66b0 )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a3]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a3]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a3].d64" size 174848 crc 19c12dfe md5 696043abe91ece7b6673cd645e34cbc4 sha1 02172f4b5c5794067157326fd2fb152f7298c0c3 )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a4]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a4]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a4].d64" size 174848 crc c3d33865 md5 b3e425fad6a04b37b9a250f26551192d sha1 9d446aff0c65a4265f16e8bf6b3c3c2a249b9d8f )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a5]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a5]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a5].d64" size 174848 crc 9acf3dc6 md5 be3834871c9131de42a916d7193412d7 sha1 65436db202541b3f670bec3b9b30bfa9937ef2e2 )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a6]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a6]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a6].d64" size 174848 crc bb48d12f md5 6c12a841e801639e734197e275fb7a09 sha1 f55d19298b6659867c8b31dcd2dd1ac72830ecd7 )
+)
+
+game (
+	name "1351 Mouse Demo Disk (19xx)(Commodore)[a]"
+	description "1351 Mouse Demo Disk (19xx)(Commodore)[a]"
+	rom ( name "1351 Mouse Demo Disk (19xx)(Commodore)[a].d64" size 174848 crc 928e0caf md5 5ea6218687a51de4f76791af0d0e1858 sha1 ccd999ecaa977a46ab7cb50605e32083ee0a8c53 )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)"
+	description "1541 Demo Disk (19xx)(Commodore)"
+	rom ( name "1541 Demo Disk (19xx)(Commodore).d64" size 174848 crc f2e1f736 md5 f45d8940d0996c6291881b08886449c4 sha1 2a19d35b332428696b18032511d8a272fceab400 )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a2]"
+	description "1541 Demo Disk (19xx)(Commodore)[a2]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a2].d64" size 174848 crc 7f1d215c md5 09f9422f50ca16e2a3ed57be8e747342 sha1 a6abd864c12126c96dd073b84e5a33d88043acbb )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a3]"
+	description "1541 Demo Disk (19xx)(Commodore)[a3]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a3].d64" size 174848 crc bf6da2a0 md5 939469397f995302bb7a8ae7cc871c15 sha1 67b694cf6551991d6b87f7bdc03f8f58aa55dbce )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a4]"
+	description "1541 Demo Disk (19xx)(Commodore)[a4]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a4].d64" size 174848 crc 42d3b27d md5 2fe66358ed5e1eeef923a19d00eebf51 sha1 9bd379e043877355b922685ba60430285a965a91 )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a5]"
+	description "1541 Demo Disk (19xx)(Commodore)[a5]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a5].d64" size 174848 crc 74e5f5d0 md5 e28cb35c3ce7ce5355e1c366a04c82bc sha1 5fef158ccb43ec3d5de2b5a18cd84199653434a6 )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a6]"
+	description "1541 Demo Disk (19xx)(Commodore)[a6]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a6].d64" size 174848 crc 3a41166a md5 08592fce5a5b8766521c2597fe9356c4 sha1 2ae9f96a8d6df98923911c50f38914ba06dff594 )
+)
+
+game (
+	name "1541 Demo Disk (19xx)(Commodore)[a]"
+	description "1541 Demo Disk (19xx)(Commodore)[a]"
+	rom ( name "1541 Demo Disk (19xx)(Commodore)[a].d64" size 174848 crc db9769ba md5 13fe3c9bd09b4d5f737490a2d1c51c24 sha1 8bcfb7f21c5c25bc23474f962bf07eaa0700eb47 )
+)
+
+game (
+	name "1571 Demo Disk (19xx)(Commodore)"
+	description "1571 Demo Disk (19xx)(Commodore)"
+	rom ( name "1571 Demo Disk (19xx)(Commodore).d64" size 174848 crc 72d7d809 md5 11334ca4cacf4bde7a74ee9582f0033e sha1 8e452d7bccb36c3b72210092b50b516af806f704 )
+)
+
+game (
+	name "1700 REU Test Demo Disk (19xx)(Commodore)"
+	description "1700 REU Test Demo Disk (19xx)(Commodore)"
+	rom ( name "1700 REU Test Demo Disk (19xx)(Commodore).d64" size 174848 crc 673085b6 md5 f77af6944dcf860219a6d050ab653c8e sha1 ea883cede5677027ef70afc6f164f927cb3be5e3 )
+)
+
+game (
+	name "1750 Clone REU Test Demo Disk (19xx)(Commodore)"
+	description "1750 Clone REU Test Demo Disk (19xx)(Commodore)"
+	rom ( name "1750 Clone REU Test Demo Disk (19xx)(Commodore).d64" size 174848 crc 2acd4b4b md5 32d044b0c2564e8e7a6458f25f6bddc7 sha1 13de015dbcab11ca39daaa3f6907184cbba21141 )
+)
+
+game (
+	name "1764 Test Demo Disk (19xx)(Commodore)"
+	description "1764 Test Demo Disk (19xx)(Commodore)"
+	rom ( name "1764 Test Demo Disk (19xx)(Commodore).d64" size 174848 crc 3e7cdda7 md5 29ff5b1bca5e6cf0e9e40e847c301aec sha1 c1f5531faae5e45bdc401d838a4cb2d226f66e97 )
+)
+
+game (
+	name "1764 Test Demo Disk (19xx)(Commodore)[a2]"
+	description "1764 Test Demo Disk (19xx)(Commodore)[a2]"
+	rom ( name "1764 Test Demo Disk (19xx)(Commodore)[a2].d64" size 174848 crc 171d3886 md5 0a02b967bc8bd5889789731fe1b6ae4c sha1 5f73bd940e4a01d5a7f1d9c2e9709ae94eeeb484 )
+)
+
+game (
+	name "1764 Test Demo Disk (19xx)(Commodore)[a3]"
+	description "1764 Test Demo Disk (19xx)(Commodore)[a3]"
+	rom ( name "1764 Test Demo Disk (19xx)(Commodore)[a3].d64" size 174848 crc 41ab5c19 md5 b4d03e0073e25551a5c993f487dd69cd sha1 553f76035311d31b9959abebc9d5dec26fd30a56 )
+)
+
+game (
+	name "1764 Test Demo Disk (19xx)(Commodore)[a4]"
+	description "1764 Test Demo Disk (19xx)(Commodore)[a4]"
+	rom ( name "1764 Test Demo Disk (19xx)(Commodore)[a4].d64" size 174848 crc 613fb571 md5 3a5f04cba1d24b4140b76fa6b80e3952 sha1 145627c78c8f577e3140027ccdd14d71a50c3042 )
+)
+
+game (
+	name "1764 Test Demo Disk (19xx)(Commodore)[a]"
+	description "1764 Test Demo Disk (19xx)(Commodore)[a]"
+	rom ( name "1764 Test Demo Disk (19xx)(Commodore)[a].d64" size 174848 crc 9b65bcdb md5 f1d516ece77ddeb103eae590d69b4290 sha1 968a2b32ed0064db5117eab949a2cde0dc10694d )
+)
+
+game (
+	name "Aprotek Minimodem Demo Disk (19xx)(Commodore)"
+	description "Aprotek Minimodem Demo Disk (19xx)(Commodore)"
+	rom ( name "Aprotek Minimodem Demo Disk (19xx)(Commodore).d64" size 174848 crc 712d78b0 md5 e78dc96d8c83ec00ca123f77fca04d03 sha1 52e006962b67173f51365a2c6e53a7e7c7138bed )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)"
+	description "C64 Test Demo Disk (19xx)(Commodore)"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore).d64" size 174848 crc 4aeb0038 md5 02b6a7c01ffd52149263f3ae1d421edb sha1 780bf7be5e66d2b930ebf55b7cd6c3c3b5941736 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a10]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a10]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a10].d64" size 174848 crc 915cf2f8 md5 48846d8a1fea36dde2c345af3666e4ea sha1 ee2e16d7f8d87a05db9a7bca37806b7b5189be27 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a11]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a11]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a11].d64" size 174848 crc 3da258e3 md5 96486ad0c60c52215ce8ada398cbc42d sha1 9df0a392ca6749b66ec92a90460ee1c16d06fe96 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a12]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a12]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a12].d64" size 174848 crc 4ca0ac46 md5 3242bc4d6040a301a2a38614bdc0e694 sha1 26e615e90a6544c73c30e2ff02d271c2686de617 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a13]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a13]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a13].d64" size 174848 crc b5d3b5c2 md5 b714fd570711a3a669353ef6b168ce04 sha1 dd14810e359ceeae34056563eae0cf525a921538 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a2]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a2]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a2].d64" size 175531 crc ec53bce2 md5 d8975e337cd82b75f6fd8a784f5bd087 sha1 929862b9fb0ad968fdb12007b5092ac97ba5016e )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a3]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a3]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a3].d64" size 174848 crc 2b7d90b3 md5 eddc42f7f9c55b1fb5d41fdd7c2d538b sha1 32cda1d55318c093a737986c4becd9869fa0acc7 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a4]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a4]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a4].d64" size 174848 crc 484e30a1 md5 28f4e3a4bce28de2d13a849ea1ea0565 sha1 d973dfce1767abe802e9fc2a7e763eed95004f52 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a5]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a5]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a5].d64" size 174848 crc 2290e46e md5 c7382e6221f3552e7733d01152cf1093 sha1 8462c52c4fd00fb6effa39e354f0637347466e12 )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a6]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a6]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a6].d64" size 175531 crc 2f811cb1 md5 f737b6664214c606b323f0911562c0ee sha1 d505a5d1210ae0c3330fe139e0a06b0b0dbfcbcd )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a7]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a7]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a7].d64" size 175531 crc cb450040 md5 97a5556ac80f43f8fb6eaf74d272f8bd sha1 2ec1f953fa4a1ed28677e1fc7857c136fe73e3da )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a8]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a8]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a8].d64" size 174848 crc 49d8eda0 md5 ba0d23ce0c0093b3e0bf66095c879d74 sha1 e520dda32d3372a68e36ba47e0074a6c6bd4338e )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a9]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a9]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a9].d64" size 174848 crc 82c0a087 md5 37185071ee5862650fddf9e4d52824a1 sha1 be1924e08f85ead97ddeee8b15752c402a34ce7f )
+)
+
+game (
+	name "C64 Test Demo Disk (19xx)(Commodore)[a]"
+	description "C64 Test Demo Disk (19xx)(Commodore)[a]"
+	rom ( name "C64 Test Demo Disk (19xx)(Commodore)[a].d64" size 174848 crc dc9498ad md5 8f567f0d07ab70070f369a8d16cf7f63 sha1 9b4f5b111a10f5deaaa5e105f0e5bfb5eae66968 )
+)
+
+game (
+	name "Commodore 1541 (1983)(Commodore)[test demo-diskette]"
+	description "Commodore 1541 (1983)(Commodore)[test demo-diskette]"
+	rom ( name "Commodore 1541 (1983)(Commodore)[test demo-diskette].d64" size 174848 crc 4833e51c md5 c4023988ce25e931061be2846da7a3f4 sha1 6eeb59d5c500f4dc690aeb31eb2507973e89ee87 )
+)
+
+game (
+	name "Commodore SX-64 (1984)(Commodore)[test demo-diskette]"
+	description "Commodore SX-64 (1984)(Commodore)[test demo-diskette]"
+	rom ( name "Commodore SX-64 (1984)(Commodore)[test demo-diskette].d64" size 174848 crc d96ab84a md5 68e70fb161e87fe95a51d1354c5a0cd6 sha1 9f9480afbfcd628f68ad16e1e5a84bbcd86fc426 )
+)
+
+game (
+	name "RAMBOard Test Demo Disk (19xx)(Commodore)"
+	description "RAMBOard Test Demo Disk (19xx)(Commodore)"
+	rom ( name "RAMBOard Test Demo Disk (19xx)(Commodore).d64" size 174848 crc 57c29366 md5 feb4b53f178c42db2c48d9ddcb3816d0 sha1 e554b84132ea545a2852a6ddc1fcdd927b634887 )
+)
+

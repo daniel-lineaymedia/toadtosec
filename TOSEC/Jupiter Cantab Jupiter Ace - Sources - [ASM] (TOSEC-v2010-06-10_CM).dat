@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Sources - [ASM]"
+	description "Jupiter Cantab Jupiter Ace - Sources - [ASM] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Sources - [ASM]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	description "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	rom ( name "Faster Ace (1983)(Your Computer)(GB)[3K].asm" size 2850 crc c4f8a49a md5 881ad53b9f9762af342666f98bc99bc6 )
+)
+
+game (
+	name "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K].asm" size 41946 crc 3dbf2957 md5 880dbfd97b719eafd5f8d6bfd2245639 )
+)

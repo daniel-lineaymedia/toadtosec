@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Demos - [SCL]"
+	description "Sinclair ZX Spectrum - Compilations - Demos - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Demos - [SCL]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Accept Gifts Collection (1999)(Accept)(ru)"
+	description "Accept Gifts Collection (1999)(Accept)(ru)"
+	rom ( name "Accept Gifts Collection (1999)(Accept)(ru).scl" size 72573 crc a6098b28 md5 1a43a0b433c8823ded91b87f36e97576 sha1 e5a92ffb551cbd34f97385d7b09a6b87aabf4c35 )
+)
+
+game (
+	name "ASCII '2002 - AY Music Copy Collection (2002)(-)(ru)"
+	description "ASCII '2002 - AY Music Copy Collection (2002)(-)(ru)"
+	rom ( name "ASCII '2002 - AY Music Copy Collection (2002)(-)(ru).scl" size 185893 crc 69296b7d md5 c2f287ffb4cbb58164a3315cabbf5ffa sha1 3d6666a3d0bb0258453dac13ea349b58d3853ca5 )
+)
+
+game (
+	name "ASCII '2002 - AY Music Original Collection (2002)(-)(ru)"
+	description "ASCII '2002 - AY Music Original Collection (2002)(-)(ru)"
+	rom ( name "ASCII '2002 - AY Music Original Collection (2002)(-)(ru).scl" size 204125 crc d35fa9d2 md5 9d6d94a94384e681572cdefe4944e716 sha1 50ed0f649554dd6ebaa899d5e7d2dcbf9c5024b1 )
+)
+

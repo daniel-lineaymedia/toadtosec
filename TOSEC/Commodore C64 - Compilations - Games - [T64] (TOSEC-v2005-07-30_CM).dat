@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Commodore C64 - Compilations - Games - [T64]"
+	description "Commodore C64 - Compilations - Games - [T64] (TOSEC-v2005-07-30)"
+	category "Commodore C64 - Compilations - Games - [T64]"
+	version 2005-07-30
+	author "DesertWolf"
+)
+
+game (
+	name "Compilation Barry McGuigan, World Boxing, BMWC Box (19xx)(-)"
+	description "Compilation Barry McGuigan, World Boxing, BMWC Box (19xx)(-)"
+	rom ( name "Compilation Barry McGuigan, World Boxing, BMWC Box (19xx)(-).t64" size 120055 crc b21e2910 md5 89984959e855121a3d3399e48ed996a6 )
+)
+
+game (
+	name "Compilation Basketball, Basket Master (19xx)(-)"
+	description "Compilation Basketball, Basket Master (19xx)(-)"
+	rom ( name "Compilation Basketball, Basket Master (19xx)(-).t64" size 127916 crc 1dfc8f32 md5 667bb9e65d5999e2dc435523a7b6ec95 )
+)
+
+game (
+	name "Compilation Forbidden Forrest, Aztec Challenge, Caverns of Kafka, Slinky (19xx)(-)"
+	description "Compilation Forbidden Forrest, Aztec Challenge, Caverns of Kafka, Slinky (19xx)(-)"
+	rom ( name "Compilation Forbidden Forrest, Aztec Challenge, Caverns of Kafka, Slinky (19xx)(-).t64" size 125065 crc a295caf8 md5 4de44fb423329a12278f51670e3e1887 )
+)

@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Atari Lynx - Firmware"
+	description "Atari Lynx - Firmware (TOSEC-v2006-02-17)"
+	category "Atari Lynx - Firmware"
+	version 2006-02-17
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "Atari Lynx BIOS (1989)(Atari)"
+	description "Atari Lynx BIOS (1989)(Atari)"
+	rom ( name "Atari Lynx BIOS (1989)(Atari).bin" size 512 crc e1ffecb6 md5 1a7896e1fe540fe10e51936426b88116 )
+)
+
+game (
+	name "Atari Lynx BIOS (1989)(Atari)[a]"
+	description "Atari Lynx BIOS (1989)(Atari)[a]"
+	rom ( name "Atari Lynx BIOS (1989)(Atari)[a].bin" size 512 crc 0d973c9d md5 fcd403db69f54290b51035d82f835e7b )
+)

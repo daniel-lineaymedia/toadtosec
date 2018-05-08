@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Radio-86RK Mikro-80 - Various"
+	description "Radio-86RK Mikro-80 - Various (TOSEC-v2004-03-13)"
+	category "Radio-86RK Mikro-80 - Various"
+	version 2004-03-13
+	author "themabus"
+)
+
+game (
+	name "Mikro-80 Basic (1984)(-)"
+	description "Mikro-80 Basic (1984)(-)"
+	rom ( name "Mikro-80 Basic (1984)(-).rk8" size 6665 crc 38d15a6a md5 b4950baffc100cd56cb55fc15cc96446 )
+)
+
+game (
+	name "Mikro-80 Basic (1984)(-)[a]"
+	description "Mikro-80 Basic (1984)(-)[a]"
+	rom ( name "Mikro-80 Basic (1984)(-)[a].rk8" size 6665 crc 751a4063 md5 264bfd3359bdf5b33d688a68f60ec6cb )
+)
+
+game (
+	name "Programma Proverki (19xx)(-)"
+	description "Programma Proverki (19xx)(-)"
+	rom ( name "Programma Proverki (19xx)(-).rk8" size 217 crc d4718cad md5 96aa1ffd794c8f655fabd6f8bb83fc3d )
+)

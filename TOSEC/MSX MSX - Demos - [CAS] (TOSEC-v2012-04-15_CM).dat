@@ -1,0 +1,20 @@
+clrmamepro (
+	name "MSX MSX - Demos - [CAS]"
+	description "MSX MSX - Demos - [CAS] (TOSEC-v2012-04-15)"
+	category "MSX MSX - Demos - [CAS]"
+	version 2012-04-15
+	author "XakMSX - VG8020 - jugaor - Apache - Grendel - cbeard - tcm1998"
+)
+
+game (
+	name "Psychedelia (1984)(Aackosoft)(NL)[RUN'CAS-']"
+	description "Psychedelia (1984)(Aackosoft)(NL)[RUN'CAS-']"
+	rom ( name "Psychedelia (1984)(Aackosoft)(NL)[RUN'CAS-'].cas" size 7102 crc db0b5487 md5 30b15b29785352ddc78abbba5fe03cc9 sha1 3ffdc1b82c0a68578622748d964e70c1c736e35a )
+)
+
+game (
+	name "Typing Tutor (1985)(Sanyo)(JP)[CLOAD + RUN]"
+	description "Typing Tutor (1985)(Sanyo)(JP)[CLOAD + RUN]"
+	rom ( name "Typing Tutor (1985)(Sanyo)(JP)[CLOAD + RUN].cas" size 9217 crc 7bd85445 md5 81036efbd35c323146a1b07ddd9ee192 sha1 e3eb0ca2633cd5d099ea3937d400a6f123e30013 )
+)
+

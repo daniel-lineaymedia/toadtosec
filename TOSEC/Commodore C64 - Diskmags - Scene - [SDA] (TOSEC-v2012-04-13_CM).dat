@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Commodore C64 - Diskmags - Scene - [SDA]"
+	description "Commodore C64 - Diskmags - Scene - [SDA] (TOSEC-v2012-04-13)"
+	category "Commodore C64 - Diskmags - Scene - [SDA]"
+	version 2012-04-13
+	author "Duncan Twain - DesertWolf - Apache"
+)
+
+game (
+	name "Vision #07 (19xx)(Vision)(Side A)"
+	description "Vision #07 (19xx)(Vision)(Side A)"
+	rom ( name "Vision #07 (19xx)(Vision)(Side A).sda" size 49280 crc 5f7d13eb md5 d552ec7f1bf55fcb9afcba8355e94273 sha1 58d84d3b4c25837faa5a5246fef613c4abb174e8 )
+)
+
+game (
+	name "Vision #07 (19xx)(Vision)(Side B)"
+	description "Vision #07 (19xx)(Vision)(Side B)"
+	rom ( name "Vision #07 (19xx)(Vision)(Side B).sda" size 48128 crc 55ce1714 md5 78d58db65b7f05aeac8f7d836c5367f7 sha1 699c2d2618955c906257584e9f3ab7655d23067c )
+)
+
+game (
+	name "Vision #07 (19xx)(Vision)(Side C)"
+	description "Vision #07 (19xx)(Vision)(Side C)"
+	rom ( name "Vision #07 (19xx)(Vision)(Side C).sda" size 35328 crc c4166fbf md5 3c633253668eba4beb1eb9ae124ef3d8 sha1 a16a98280c5e64bf43c679b1ef46d85e212e8c28 )
+)
+
+game (
+	name "Vision #07 (19xx)(Vision)(Side D)"
+	description "Vision #07 (19xx)(Vision)(Side D)"
+	rom ( name "Vision #07 (19xx)(Vision)(Side D).sda" size 19840 crc 0947cb7c md5 767adcca25a11958ab62558bcd2894d5 sha1 e4c26d0c63d09535c9d04b35fe0f665eb40ea800 )
+)
+

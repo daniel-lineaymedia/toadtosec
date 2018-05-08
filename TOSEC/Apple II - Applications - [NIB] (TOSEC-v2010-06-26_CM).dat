@@ -1,0 +1,61 @@
+clrmamepro (
+	name "Apple II - Applications - [NIB]"
+	description "Apple II - Applications - [NIB] (TOSEC-v2010-06-26)"
+	category "Apple II - Applications - [NIB]"
+	version 2010-06-26
+	author "TKaos - bigboo - Cassiel - jjs"
+)
+
+game (
+	name "LabelMaker v1.0 (1988)(MECC)(US)"
+	description "LabelMaker v1.0 (1988)(MECC)(US)"
+	rom ( name "LabelMaker v1.0 (1988)(MECC)(US).nib" size 232960 crc 989f641b md5 f6b91a87742181aa36001afd08e6e2c3 )
+)
+
+game (
+	name "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[program disk]"
+	description "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[program disk]"
+	rom ( name "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[program disk].nib" size 232960 crc 3a9d86e4 md5 39692d4fae6d4b8c5dcff62ed136bf1c )
+)
+
+game (
+	name "Tellstar v1.03 (1980-05)(Scharf Software Systems)[DOS]"
+	description "Tellstar v1.03 (1980-05)(Scharf Software Systems)[DOS]"
+	rom ( name "Tellstar v1.03 (1980-05)(Scharf Software Systems)[DOS].nib" size 232960 crc 21109790 md5 142df4df835f86520291a115613110df )
+)
+
+game (
+	name "ZZZ-UNK-Budgetrilogy (19xx)(-)[b][DOS]"
+	description "ZZZ-UNK-Budgetrilogy (19xx)(-)[b][DOS]"
+	rom ( name "ZZZ-UNK-Budgetrilogy (19xx)(-)[b][DOS].nib" size 232960 crc 047820c5 md5 38953765eb526b703eecf44431f2ba1a )
+)
+
+game (
+	name "ZZZ-UNK-Dos v3.2 System Master Plus (1980)(Apple)[nb][DOS]"
+	description "ZZZ-UNK-Dos v3.2 System Master Plus (1980)(Apple)[nb][DOS]"
+	rom ( name "ZZZ-UNK-Dos v3.2 System Master Plus (1980)(Apple)[nb][DOS].nib" size 232960 crc 4cd2e3ec md5 afe15462b73e5af95bd3d6a863a03509 )
+)
+
+game (
+	name "ZZZ-UNK-Dos v3.2 System Master Standard (1989)(Apple)[nb][DOS]"
+	description "ZZZ-UNK-Dos v3.2 System Master Standard (1989)(Apple)[nb][DOS]"
+	rom ( name "ZZZ-UNK-Dos v3.2 System Master Standard (1989)(Apple)[nb][DOS].nib" size 232960 crc 03a98baf md5 082e79bb10fa5dcf07b2e49f689f5439 )
+)
+
+game (
+	name "ZZZ-UNK-hackchal [a]"
+	description "ZZZ-UNK-hackchal [a]"
+	rom ( name "ZZZ-UNK-hackchal [a].nib" size 232960 crc 862cc82a md5 12793922634f79120830562f8b963346 )
+)
+
+game (
+	name "ZZZ-UNK-hackchal [a2]"
+	description "ZZZ-UNK-hackchal [a2]"
+	rom ( name "ZZZ-UNK-hackchal [a2].nib" size 232960 crc b909c85d md5 6772bf9842e1b4f0357080561c650de5 )
+)
+
+game (
+	name "ZZZ-UNK-hackchal"
+	description "ZZZ-UNK-hackchal"
+	rom ( name "ZZZ-UNK-hackchal.nib" size 232960 crc 499328ee md5 0a9ba56eafa854b62db2b7189492c13b )
+)

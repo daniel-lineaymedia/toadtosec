@@ -1,0 +1,28 @@
+clrmamepro (
+	name "Keio University K-1 - Applications"
+	description "Keio University K-1 - Applications (TOSEC-v2005-03-01)"
+	category "Keio University K-1 - Applications"
+	version 2005-03-01
+	author "Grendel"
+)
+
+game (
+	name "E Calculation (1996)(Seiichi Okoma)"
+	description "E Calculation (1996)(Seiichi Okoma)"
+	rom ( name "E.k1" size 2441 crc 5b9404eb md5 e8c94f8ea7d6b8211b1992dab56a052a )
+	rom ( name "E.out" size 179 crc d3d0b469 md5 bc4a5a79744d993af3e7b8cca1741a29 )
+)
+
+game (
+	name "Square Root By Newton Method - A Sample Program No.2 Of K-1 (1996)(Seiichi Okoma)"
+	description "Square Root By Newton Method - A Sample Program No.2 Of K-1 (1996)(Seiichi Okoma)"
+	rom ( name "Sqrtfix.k1" size 1391 crc fd859861 md5 95fd1beb585184e81a242dfdab998f8c )
+	rom ( name "Sqrtfix.out" size 294 crc fe2ffd85 md5 a3c8f550e1491aa5cbf125ab16791803 )
+)
+
+game (
+	name "Square Root By Newton Method - A Sample Program No.3 Of K-1 (1996)(Seiichi Okoma)"
+	description "Square Root By Newton Method - A Sample Program No.3 Of K-1 (1996)(Seiichi Okoma)"
+	rom ( name "Sqrfloat.k1" size 2061 crc 8ee5e6f7 md5 32e0d44d9fc54f435665db3cf12324fe )
+	rom ( name "Sqrfloat.out" size 270 crc fa35c380 md5 7fc785ce478cd9c516b08b27a216bd89 )
+)

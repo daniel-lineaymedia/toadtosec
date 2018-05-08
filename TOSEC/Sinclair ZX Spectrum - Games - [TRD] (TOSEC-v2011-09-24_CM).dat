@@ -1,0 +1,3002 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Games - [TRD]"
+	description "Sinclair ZX Spectrum - Games - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Games - [TRD]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t]"
+	description "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t]"
+	rom ( name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t].trd" size 211712 crc 12453982 md5 a1a6f5a3062047d921cebf06b4d47951 sha1 7d2a86e0f301cdf0001f67b8f11e7d98f43d3240 )
+)
+
+game (
+	name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h2 Phantasy][t]"
+	description "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h2 Phantasy][t]"
+	rom ( name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h2 Phantasy][t].trd" size 655360 crc 04ec898b md5 2fb24bed2baad3ae3623295525989e70 sha1 ab19facdb877079ce6540f9cd4b04f95dc554cd7 )
+)
+
+game (
+	name "12 Mysterious Books (demo) (1998)(Demiurge Ash)(ru)[h Shadow Group]"
+	description "12 Mysterious Books (demo) (1998)(Demiurge Ash)(ru)[h Shadow Group]"
+	rom ( name "12 Mysterious Books (demo) (1998)(Demiurge Ash)(ru)[h Shadow Group].trd" size 61184 crc 765cdecd md5 e2ebfa6279a12efb61c8c83cb43d8416 sha1 e385fbb43263a1315cc31fdc87fb5e1801fdb8a6 )
+)
+
+game (
+	name "1917 - Lenin in October (1994)(Sergey Gusev)(ru)"
+	description "1917 - Lenin in October (1994)(Sergey Gusev)(ru)"
+	rom ( name "1917 - Lenin in October (1994)(Sergey Gusev)(ru).trd" size 78080 crc 839185e0 md5 f062d334f064b5365944d0b0e5d393ba sha1 2628e65046e3a32844460fde5262a42402c604f1 )
+)
+
+game (
+	name "3D Roost (1998)(Fenomen)"
+	description "3D Roost (1998)(Fenomen)"
+	rom ( name "3D Roost (1998)(Fenomen).trd" size 50176 crc ba5078ea md5 6bdd31043cc80808a712cbb82b2e9ed7 sha1 3dbfa073d4bffccc8a7ae9b9de79ebb9bb6e73a6 )
+)
+
+game (
+	name "48 Irons (1995)(Galaxy)(ru)"
+	description "48 Irons (1995)(Galaxy)(ru)"
+	rom ( name "48 Irons (1995)(Galaxy)(ru).trd" size 236544 crc 0a119e64 md5 40f51d0ba56c26dbf2f13c104e2b07a6 sha1 574c3b5119115e04a51648ddd4c4e82e76dcd5e9 )
+)
+
+game (
+	name "48 Irons (1995)(Galaxy)(ru)[h Speed]"
+	description "48 Irons (1995)(Galaxy)(ru)[h Speed]"
+	rom ( name "48 Irons (1995)(Galaxy)(ru)[h Speed].trd" size 655360 crc 03adcb9e md5 bb4e448df4dee390dbb35d6d48172c9a sha1 ecf1c14e92010c42f625d267e624687842618dda )
+)
+
+game (
+	name "48 Irons (demo) (1995)(Galaxy)(ru)"
+	description "48 Irons (demo) (1995)(Galaxy)(ru)"
+	rom ( name "48 Irons (demo) (1995)(Galaxy)(ru).trd" size 18432 crc de004556 md5 d37c2986d8a4ccbd9bcd7b9430ded4d1 sha1 80eb4fe954ff4ef0dcab6517fb49aa2809711d66 )
+)
+
+game (
+	name "4x4 Puzzle (1999)(Clevers Group - Triumph)"
+	description "4x4 Puzzle (1999)(Clevers Group - Triumph)"
+	rom ( name "4x4 Puzzle (1999)(Clevers Group - Triumph).trd" size 120576 crc fda2cf0e md5 d0726f7c66719e59dc85301afc9a0a52 sha1 e5e28fec8753c3e8469a0b4750ba3b43f22391d8 )
+)
+
+game (
+	name "5 in 1 Tetris (1995)(Mortal Kombat)[h KSA Software]"
+	description "5 in 1 Tetris (1995)(Mortal Kombat)[h KSA Software]"
+	rom ( name "5 in 1 Tetris (1995)(Mortal Kombat)[h KSA Software].trd" size 32512 crc c37722de md5 1777aaa07579c3cde24942170f6f1c39 sha1 030605b5ec56e5618a01b4ee2e32164f1e78d8f6 )
+)
+
+game (
+	name "80 Puzzles (demo) (1998)(Flash)(ru)"
+	description "80 Puzzles (demo) (1998)(Flash)(ru)"
+	rom ( name "80 Puzzles (demo) (1998)(Flash)(ru).trd" size 40960 crc 68ac8ca9 md5 1c893f36d6f77344713ff1b6bde71bcf sha1 1f546381aa17da61a7d458941efbeea625960f6a )
+)
+
+game (
+	name "80 Puzzles (demo) (1999)(Flash)"
+	description "80 Puzzles (demo) (1999)(Flash)"
+	rom ( name "80 Puzzles (demo) (1999)(Flash).trd" size 37120 crc 99204c2e md5 2576dac879ea167a6add6e00d05614a7 sha1 868d631464c45339e5043ec917290c4618a9be65 )
+)
+
+game (
+	name "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Perestroika]"
+	description "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Perestroika]"
+	rom ( name "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Perestroika].trd" size 163840 crc 8e1487ce md5 dd047e655f73c1c3abaa72254c9c4843 sha1 2db90a90979584233afe9a3e652cf0ffd1cd4350 )
+)
+
+game (
+	name "Adidas Championship Football (1990)(Ocean)[h]"
+	description "Adidas Championship Football (1990)(Ocean)[h]"
+	rom ( name "Adidas Championship Football (1990)(Ocean)[h].trd" size 163840 crc 15c87825 md5 cb63ed1f2bbeffd2562468d84eee97db sha1 09679d3f6360b81b72713d755e86a38d88e85521 )
+)
+
+game (
+	name "Admiral (demo) (19xx)(Ice Group)(ru)"
+	description "Admiral (demo) (19xx)(Ice Group)(ru)"
+	rom ( name "Admiral (demo) (19xx)(Ice Group)(ru).trd" size 225536 crc 77871e85 md5 56392611846b7a0d5cc691a8e170898a sha1 1be8fc6ef730fd2aeee01ae2aec2187444053fa1 )
+)
+
+game (
+	name "Advanced Pinball Simulator (1990)(Codemasters)[h]"
+	description "Advanced Pinball Simulator (1990)(Codemasters)[h]"
+	rom ( name "Advanced Pinball Simulator (1990)(Codemasters)[h].trd" size 163840 crc ccd262c8 md5 f3b95ebfbdafe3147a5aae52ebf39bb4 sha1 d44171e756935129457b55ca71eb35b84b1d8feb )
+)
+
+game (
+	name "Adventures of Buratino (1993)(Copper Feet)(ru)"
+	description "Adventures of Buratino (1993)(Copper Feet)(ru)"
+	rom ( name "Adventures of Buratino (1993)(Copper Feet)(ru).trd" size 43264 crc 58c13bd4 md5 c6b5042694623cceb416230dadb28ed9 sha1 7b05daa2f4f727e7013ae8b5553298a6cc7673d9 )
+)
+
+game (
+	name "Adventures of Buratino (1993)(Copper Feet)(ru)[h Fantomassoft]"
+	description "Adventures of Buratino (1993)(Copper Feet)(ru)[h Fantomassoft]"
+	rom ( name "Adventures of Buratino (1993)(Copper Feet)(ru)[h Fantomassoft].trd" size 50432 crc eef31e02 md5 d1a26fdc4a493e1cf7bf311fb820e7d1 sha1 8af37536e9e824ced5f01fbfa147ce00c6408e89 )
+)
+
+game (
+	name "Airfactory 'East' (2000)(DJ Hooligan)(ru)"
+	description "Airfactory 'East' (2000)(DJ Hooligan)(ru)"
+	rom ( name "Airfactory 'East' (2000)(DJ Hooligan)(ru).trd" size 655360 crc 23fec1ff md5 c6571832020714518bb1648d17232c49 sha1 d02bca60cd113fa5feb83e9fd1ce8524761dde8b )
+)
+
+game (
+	name "Ammytris, The (1996)(Tsunami Group)(ru)"
+	description "Ammytris, The (1996)(Tsunami Group)(ru)"
+	rom ( name "Ammytris, The (1996)(Tsunami Group)(ru).trd" size 30720 crc 2adbd356 md5 69e92b4abddb83739f5170653ef95791 sha1 28cd6330c4661562d4cbb9b3a8d51ef617348b18 )
+)
+
+game (
+	name "Any Tank (1998)(Optical Brothers)(ru)"
+	description "Any Tank (1998)(Optical Brothers)(ru)"
+	rom ( name "Any Tank (1998)(Optical Brothers)(ru).trd" size 31232 crc 4cc554ae md5 8ac79b484bbe157b9593b5ec6a2bf308 sha1 7e933b570b3409d2171b6cea4a540e618b29ea1b )
+)
+
+game (
+	name "Apollo (1996)(Jocker Soft)(ru)"
+	description "Apollo (1996)(Jocker Soft)(ru)"
+	rom ( name "Apollo (1996)(Jocker Soft)(ru).trd" size 70656 crc c26dbf12 md5 f931ed5f2d2bd66088e9ed0fcfe63eff sha1 3ac0c13a2058d7eae548a115183b63ab2ae81de6 )
+)
+
+game (
+	name "Arcade Volleyball (1997)(Romer's Software)(ru)"
+	description "Arcade Volleyball (1997)(Romer's Software)(ru)"
+	rom ( name "Arcade Volleyball (1997)(Romer's Software)(ru).trd" size 80640 crc a9d79d3a md5 b506f77cf33243f9959f95ab6f1b69f7 sha1 e1642c6b824e33e950fe74269716c5d1a98d2b0a )
+)
+
+game (
+	name "Awaken (demo) (1999)(Rage Tech. - Arny)"
+	description "Awaken (demo) (1999)(Rage Tech. - Arny)"
+	rom ( name "Awaken (demo) (1999)(Rage Tech. - Arny).trd" size 199424 crc 649c1ddb md5 4a850c80e2bdbcc912163fc2b90c36da sha1 d41483464aa45b22f6052371cd03271e6c46a783 )
+)
+
+game (
+	name "Babylon 5 (1999)(Trolls)(ru)"
+	description "Babylon 5 (1999)(Trolls)(ru)"
+	rom ( name "Babylon 5 (1999)(Trolls)(ru).trd" size 35840 crc 00cda55a md5 449f7dac928a6656584dd9e47977b277 sha1 961f9a89e96767a265153e7bd134acdb472dac72 )
+)
+
+game (
+	name "Babylon 5 (demo) (1999)(Trolls)(ru)"
+	description "Babylon 5 (demo) (1999)(Trolls)(ru)"
+	rom ( name "Babylon 5 (demo) (1999)(Trolls)(ru).trd" size 37632 crc 68ebf7bb md5 898c97e9ddbf98946a9dda7a1459453e sha1 4bdc71738c095c274bf2bad1996f3cf2253f0506 )
+)
+
+game (
+	name "Barbarian - 2 Players (1987)(Palace Software)[h Moroz]"
+	description "Barbarian - 2 Players (1987)(Palace Software)[h Moroz]"
+	rom ( name "Barbarian - 2 Players (1987)(Palace Software)[h Moroz].trd" size 233728 crc 18e357dc md5 e68f0d0deb2ab5a1221bfac5fe7747df sha1 aafb2026c2ea7acf89528f9b64e1b985bed688ba )
+)
+
+game (
+	name "Base (1992)(Inforkom)"
+	description "Base (1992)(Inforkom)"
+	rom ( name "Base (1992)(Inforkom).trd" size 45568 crc 29cced29 md5 86b2b0aed2f613c63f23a4780e3daaae sha1 533cbf4b34d9b850adf6c6b1dd39dfddafabf8e6 )
+)
+
+game (
+	name "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t]"
+	description "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t]"
+	rom ( name "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t].trd" size 32000 crc 3d65386e md5 b53b39639a3d78c435530dfd59da13b6 sha1 83247dae40a71cdbec7b2d47baae20e7cdcf0a60 )
+)
+
+game (
+	name "Battle City (1995)(Flash)"
+	description "Battle City (1995)(Flash)"
+	rom ( name "Battle City (1995)(Flash).trd" size 60416 crc 0a621aae md5 bb9e78c6a36e8412601309f72bf77e82 sha1 eccddddbaf9c74075cfe82e6d1e58c90fdd90923 )
+)
+
+game (
+	name "Battle City (1995)(Scorpion)(cs)"
+	description "Battle City (1995)(Scorpion)(cs)"
+	rom ( name "Battle City (1995)(Scorpion)(cs).trd" size 69888 crc 8f6798e1 md5 f8b7ab4816349a89c8913d20bbe2f746 sha1 196000c07a1cfbad00c9e825c5c045bc9bc615da )
+)
+
+game (
+	name "Battle Ships - Modem Version (1988)(Encore)[h Fenomen]"
+	description "Battle Ships - Modem Version (1988)(Encore)[h Fenomen]"
+	rom ( name "Battle Ships - Modem Version (1988)(Encore)[h Fenomen].trd" size 655360 crc 9f0b9c0b md5 01b0b09fc153e4bcbe62f194b6998ce0 sha1 8ee12e5174e90cbf121cd5f89185f33a7dff4632 )
+)
+
+game (
+	name "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2)"
+	description "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2)"
+	rom ( name "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2).trd" size 655360 crc b6d2d4d6 md5 1f5c183827593296123f7b855e0058b7 sha1 afa302c30230a04f606d91084b379520d4e43344 )
+)
+
+game (
+	name "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2)[a]"
+	description "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2)[a]"
+	rom ( name "Black Raven (1997)(Copper Feet)(ru)(Disk 1 of 2)[a].trd" size 655360 crc 3a510ba1 md5 68c6189ef77ba0d1b21f3314f61b0c4c sha1 56991e97ccb2731c8dbb5b70c4d1470ae6daea1a )
+)
+
+game (
+	name "Black Raven (1997)(Copper Feet)(ru)(Disk 2 of 2)"
+	description "Black Raven (1997)(Copper Feet)(ru)(Disk 2 of 2)"
+	rom ( name "Black Raven (1997)(Copper Feet)(ru)(Disk 2 of 2).trd" size 655360 crc 80db653a md5 cbe6e33b17444120351497b3de6918c9 sha1 217835df36619a4f9401536d87bbc5e9e86a8e2b )
+)
+
+game (
+	name "Black Raven - GFX (1997)(Copper Feet)(ru)"
+	description "Black Raven - GFX (1997)(Copper Feet)(ru)"
+	rom ( name "Black Raven - GFX (1997)(Copper Feet)(ru).trd" size 655360 crc 8866d5f4 md5 cbe75c07c504b779e28a1cfea430e187 sha1 0f5d16276ca1dd06338055d05004ee8157063627 )
+)
+
+game (
+	name "Black Raven - Mission Editor (1999)(Compu-Studio)(ru)"
+	description "Black Raven - Mission Editor (1999)(Compu-Studio)(ru)"
+	rom ( name "Black Raven - Mission Editor (1999)(Compu-Studio)(ru).trd" size 655360 crc 8eacfc05 md5 0b887fb8c3ff109245ea441a30f799b0 sha1 4023240d2637ae6e1e75c68598e78e4201f43dca )
+)
+
+game (
+	name "Black Raven - Mission Editor (demo) (19xx)(Paladin)(ru)"
+	description "Black Raven - Mission Editor (demo) (19xx)(Paladin)(ru)"
+	rom ( name "Black Raven - Mission Editor (demo) (19xx)(Paladin)(ru).trd" size 32768 crc 0e50bf0e md5 0932ef12f1a2f4e0670e5c873a0782eb sha1 4d180477f8cb1980f676ceb41ce025c0cd370092 )
+)
+
+game (
+	name "Black Raven - Saves (1997)(Copper Feet)(ru)"
+	description "Black Raven - Saves (1997)(Copper Feet)(ru)"
+	rom ( name "Black Raven - Saves (1997)(Copper Feet)(ru).trd" size 655360 crc cd2b10f4 md5 a8337fb76594252580915f1d16d51c9d sha1 e7c1e21bf9ec6d3229dd61055b5a5914df4e9e2f )
+)
+
+game (
+	name "Black Raven 2 - Animations 1 (1998)(Copper Feet)(ru)"
+	description "Black Raven 2 - Animations 1 (1998)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 - Animations 1 (1998)(Copper Feet)(ru).trd" size 12032 crc 30f0094e md5 715ea0286e8c744c342c82b5132d57ac sha1 8b50718d74630f55a81e90bbcb88360abc9b51aa )
+)
+
+game (
+	name "Black Raven 2 - Animations 2 (1998)(Copper Feet)(ru)"
+	description "Black Raven 2 - Animations 2 (1998)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 - Animations 2 (1998)(Copper Feet)(ru).trd" size 23296 crc 1ebb276f md5 23e93e8f25c4e2f775686d5db655ca57 sha1 2ab3084ab3a289d95d9e5c6ab551ca500055b6ff )
+)
+
+game (
+	name "Black Raven 2 - Animations 3 (1998)(Copper Feet)(ru)"
+	description "Black Raven 2 - Animations 3 (1998)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 - Animations 3 (1998)(Copper Feet)(ru).trd" size 28416 crc f8497ea2 md5 bf98fb11953f5f5fd7f84cbf9f0cb6f7 sha1 8a258c2f96f4557912a1bf9e5ec5cc3966deaff9 )
+)
+
+game (
+	name "Black Raven 2 - Animations 4 (1998)(Copper Feet)(ru)"
+	description "Black Raven 2 - Animations 4 (1998)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 - Animations 4 (1998)(Copper Feet)(ru).trd" size 135680 crc 256f65e8 md5 937d24fe9326c921cac516a9857f6382 sha1 b3ff986a6cb28c5f48b7e24df92f10d40b5493fd )
+)
+
+game (
+	name "Black Raven 2 v0.000 (demo) (1998)(Copper Feet)(ru)"
+	description "Black Raven 2 v0.000 (demo) (1998)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 v0.000 (demo) (1998)(Copper Feet)(ru).trd" size 66816 crc 528ab0cf md5 f1219342f1cdf5a359fb213ac77009d8 sha1 886f740d07675498d4b1d972314158861dcfc9f7 )
+)
+
+game (
+	name "Black Raven 2 v0.02 (2000)(Copper Feet)(ru)(Disk 1 of 2)"
+	description "Black Raven 2 v0.02 (2000)(Copper Feet)(ru)(Disk 1 of 2)"
+	rom ( name "Black Raven 2 v0.02 (2000)(Copper Feet)(ru)(Disk 1 of 2).trd" size 655360 crc 6b4ee739 md5 0601dcef39c3c104af097f5324f131dc sha1 246929aae4cd270c491de8d0c3311b11cd51f9cf )
+)
+
+game (
+	name "Black Raven 2 v0.04 - Human & Kunge Action (demo) (2000)(Copper Feet)(ru)"
+	description "Black Raven 2 v0.04 - Human & Kunge Action (demo) (2000)(Copper Feet)(ru)"
+	rom ( name "Black Raven 2 v0.04 - Human & Kunge Action (demo) (2000)(Copper Feet)(ru).trd" size 655360 crc 8b253f8a md5 27e3cbb11ee1881c76dfa846445bea19 sha1 3374739feb81e82445c331fa96aaf837183b8e10 )
+)
+
+game (
+	name "Black Raven v0.04 (demo) (1997)(Copper Feet)(ru)"
+	description "Black Raven v0.04 (demo) (1997)(Copper Feet)(ru)"
+	rom ( name "Black Raven v0.04 (demo) (1997)(Copper Feet)(ru).trd" size 655360 crc cd46d8f4 md5 e6b5a4e10b75490ff633966f123cb986 sha1 79bf44e09182f0d6f291cccad5ca3809c2ad4c17 )
+)
+
+game (
+	name "Block Tetris (1994)(Dimik Soft)(ru)"
+	description "Block Tetris (1994)(Dimik Soft)(ru)"
+	rom ( name "Block Tetris (1994)(Dimik Soft)(ru).trd" size 45056 crc 78495dbf md5 3e478b9d375387f0140b511bca11a2e1 sha1 c7de49b4bd20a8bf2f7e3e1970b4ce20e325d49b )
+)
+
+game (
+	name "Blockus (1995)(Bitmunchers)"
+	description "Blockus (1995)(Bitmunchers)"
+	rom ( name "Blockus (1995)(Bitmunchers).trd" size 15616 crc 0a67c067 md5 4b6c6212f14adf8a058c90f93be47008 sha1 8bebf2194ff39718bed163c5f77fe4397800e649 )
+)
+
+game (
+	name "Bomber (1995)(E.F.S. Production)"
+	description "Bomber (1995)(E.F.S. Production)"
+	rom ( name "Bomber (1995)(E.F.S. Production).trd" size 35584 crc 021b0299 md5 8b24a24807a3ffb64268ccaed93d1756 sha1 22c3e627e6fb1b7a1870d5f284e0ac138dfb658e )
+)
+
+game (
+	name "Bonus Game or Dasher v1.00 (1996)(Merlin Software)"
+	description "Bonus Game or Dasher v1.00 (1996)(Merlin Software)"
+	rom ( name "Bonus Game or Dasher v1.00 (1996)(Merlin Software).trd" size 13824 crc b49a26d9 md5 746c679b50e97a98f74befbbbeed1a1e sha1 1bd198b382e8effd9d1e04a93adcaa873ce7cb2d )
+)
+
+game (
+	name "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru)"
+	description "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru)"
+	rom ( name "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru).trd" size 129536 crc 59cf8bca md5 3f0a289db4f596c183118f4db63d7e7d sha1 8c48b58005767664cc6d092a2721a564d5537fa3 )
+)
+
+game (
+	name "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru)[a]"
+	description "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru)[a]"
+	rom ( name "Brain Pressure Inside (demo) (1999)(Mr Bleeper - Slavik - Mast - Midi)(ru)[a].trd" size 655360 crc ecf11c00 md5 769fad276e87b763f6c8878738f12592 sha1 5f3f2529fed05f6f1f5736e84b6f5662d2cd08fe )
+)
+
+game (
+	name "Brain Sport (1991)(Your Sinclair)[h Omega Hackers Group]"
+	description "Brain Sport (1991)(Your Sinclair)[h Omega Hackers Group]"
+	rom ( name "Brain Sport (1991)(Your Sinclair)[h Omega Hackers Group].trd" size 37120 crc f8c51dc8 md5 504cdb74baa9244cc7bc7c062a3add45 sha1 3bad80a5778bbde94729e2bd00d17dae783bf0cd )
+)
+
+game (
+	name "Bug Boot (1999)(Bugsy)"
+	description "Bug Boot (1999)(Bugsy)"
+	rom ( name "Bug Boot (1999)(Bugsy).trd" size 655360 crc dc976c87 md5 18f3465da63006ebf386b8658cacbd8d sha1 08445ecf0a73779a2e48a524977af6258d567a3f )
+)
+
+game (
+	name "Bulls and Cows (1995)(Virt Group)(ru)"
+	description "Bulls and Cows (1995)(Virt Group)(ru)"
+	rom ( name "Bulls and Cows (1995)(Virt Group)(ru).trd" size 52736 crc 475a3884 md5 1fc9eb49ebdb4a7b764f410cef0b5fe4 sha1 19c56147370fcd8e903cd55087addd5cb496eb75 )
+)
+
+game (
+	name "Byegstvo na Harhan (1998)(Air)(ru)[h Dr. Dash]"
+	description "Byegstvo na Harhan (1998)(Air)(ru)[h Dr. Dash]"
+	rom ( name "Byegstvo na Harhan (1998)(Air)(ru)[h Dr. Dash].trd" size 131072 crc b078d5d1 md5 09f71e32536c882d96a2eff0426b468b sha1 df0997e2cd92df2a6934e60a7efb77e5d74da2ae )
+)
+
+game (
+	name "Byelyj Oryel - Tovaritch Izvyestyen (1998)(Fatality)(ru)"
+	description "Byelyj Oryel - Tovaritch Izvyestyen (1998)(Fatality)(ru)"
+	rom ( name "Byelyj Oryel - Tovaritch Izvyestyen (1998)(Fatality)(ru).trd" size 67840 crc c46b561b md5 289c0170ae9d449f35a4e9a0a3483396 sha1 d8351c6fb4ea2806ff33e67ba6e5dda0c27d5569 )
+)
+
+game (
+	name "Cave Master (demo) (2001)(Hackers Design Software)"
+	description "Cave Master (demo) (2001)(Hackers Design Software)"
+	rom ( name "Cave Master (demo) (2001)(Hackers Design Software).trd" size 655360 crc 89c61966 md5 56b026cec01c248a0269129a90f7f1d2 sha1 77efbce28acf955311b886b2b2695caf59e393c1 )
+)
+
+game (
+	name "Cezar, The (1999)(Action)(ru)"
+	description "Cezar, The (1999)(Action)(ru)"
+	rom ( name "Cezar, The (1999)(Action)(ru).trd" size 655360 crc ea546c24 md5 7f59f4fcb3bd23558fe92f44e9f509fe sha1 0a7764433173ffa3382eb56515dcab6b04defb58 )
+)
+
+game (
+	name "Chanick - Horror in Flat (1999)(Optical Brothers)(ru)"
+	description "Chanick - Horror in Flat (1999)(Optical Brothers)(ru)"
+	rom ( name "Chanick - Horror in Flat (1999)(Optical Brothers)(ru).trd" size 49920 crc 6919e75b md5 ce0a902d0f5b1b6c55bb818c3615ff6a sha1 012f66fd90b35414af14ce323ff7f62d0420ec49 )
+)
+
+game (
+	name "Chase H.Q. (1989)(Ocean)[h ZX-Masters][t]"
+	description "Chase H.Q. (1989)(Ocean)[h ZX-Masters][t]"
+	rom ( name "Chase H.Q. (1989)(Ocean)[h ZX-Masters][t].trd" size 374272 crc e7a679ec md5 c8cb3c1bbfc452b4a2d1f85d2f07933b sha1 6baa878711a4794fc5a9dbdb846c84b91f0ed955 )
+)
+
+game (
+	name "Chopper Duel (1997)(Star Group of Prestige)"
+	description "Chopper Duel (1997)(Star Group of Prestige)"
+	rom ( name "Chopper Duel (1997)(Star Group of Prestige).trd" size 26112 crc 41779fc2 md5 0e6cdd9e5a4e071889c0053c992e977a sha1 c34798d09ef415cfdc0300e19c09d18df4acaf30 )
+)
+
+game (
+	name "Cifromaniya (1998)(Area Soft)(ru)"
+	description "Cifromaniya (1998)(Area Soft)(ru)"
+	rom ( name "Cifromaniya (1998)(Area Soft)(ru).trd" size 32256 crc a85eec41 md5 0d16e6267a2dbb7f599e4dc2e9be3a83 sha1 d38fc976dab81fa78a144cfaf74c83b2b1f911c9 )
+)
+
+game (
+	name "Citadel (demo) (1996)(Stalker)(ru)"
+	description "Citadel (demo) (1996)(Stalker)(ru)"
+	rom ( name "Citadel (demo) (1996)(Stalker)(ru).trd" size 22784 crc a412fe34 md5 0fa0bcaccb34b4725a848b64839b2345 sha1 f3f357890f79e8123a99605554289c65062e5fc4 )
+)
+
+game (
+	name "Civilization (demo) (1997)(Cubeckin Vitaliy)(ru)[h Fatality]"
+	description "Civilization (demo) (1997)(Cubeckin Vitaliy)(ru)[h Fatality]"
+	rom ( name "Civilization (demo) (1997)(Cubeckin Vitaliy)(ru)[h Fatality].trd" size 69376 crc b3cabb76 md5 c332b57ac48574e78826d7b39b82e235 sha1 9f40edf223b48974aae1002f3363a89b3dba59f3 )
+)
+
+game (
+	name "Clickmania (1999)(Optical Brothers)"
+	description "Clickmania (1999)(Optical Brothers)"
+	rom ( name "Clickmania (1999)(Optical Brothers).trd" size 104192 crc 2a32a4e6 md5 284daa61c1dc0899a000da05b60331eb sha1 65a0c7c88e3033dcfcbdc3a5c82eba5ca3ba3799 )
+)
+
+game (
+	name "Clocks Head Cracker (1999)(Omega Hackers Group)"
+	description "Clocks Head Cracker (1999)(Omega Hackers Group)"
+	rom ( name "Clocks Head Cracker (1999)(Omega Hackers Group).trd" size 97024 crc 85f9ff9a md5 abae0bf5c878855ef0613dca82f81c15 sha1 a51eefff397bc2148ceaa6858cd1b77a22525f0c )
+)
+
+game (
+	name "Cobble 2 (1999)(Nagual)"
+	description "Cobble 2 (1999)(Nagual)"
+	rom ( name "Cobble 2 (1999)(Nagual).trd" size 11776 crc 4810f932 md5 e7f227c2c3c22cfd66cab68d6f6bb74f sha1 6c382b2b33eddb234cc1412b2379ccad796ee7ee )
+)
+
+game (
+	name "Color Lines (1994)(Grepan)(ru)"
+	description "Color Lines (1994)(Grepan)(ru)"
+	rom ( name "Color Lines (1994)(Grepan)(ru).trd" size 51200 crc 41032ea0 md5 4a73dee28e21452f14572c4f7296e93a sha1 dfc0a4b7b01258da09cc5d414a922efa843f5812 )
+)
+
+game (
+	name "Color Lines (1994)(Surdakar Group)(ru)"
+	description "Color Lines (1994)(Surdakar Group)(ru)"
+	rom ( name "Color Lines (1994)(Surdakar Group)(ru).trd" size 28416 crc ac1de21c md5 7c7b8b59cf92d69cc7fd648fb45be76f sha1 a42f636d81aace4861dd2767d9cc221994170995 )
+)
+
+game (
+	name "Color Lines (1995)(Random Science Crew)(ru)"
+	description "Color Lines (1995)(Random Science Crew)(ru)"
+	rom ( name "Color Lines (1995)(Random Science Crew)(ru).trd" size 19968 crc 4d5e3fe3 md5 7b794c53351b1fc08f18ed888cfb26b6 sha1 49c17c889cb91234b32c36e702e229d4cb191dac )
+)
+
+game (
+	name "Color Lines (1995)(Virtual Reality)"
+	description "Color Lines (1995)(Virtual Reality)"
+	rom ( name "Color Lines (1995)(Virtual Reality).trd" size 40704 crc 185ff21e md5 a76b5e9b06c851309c26d5a8d3abddf9 sha1 532806fe07f213831eded5f3125ca0eab220718c )
+)
+
+game (
+	name "Color Lines (1996)(Computer Work Company)(ru)"
+	description "Color Lines (1996)(Computer Work Company)(ru)"
+	rom ( name "Color Lines (1996)(Computer Work Company)(ru).trd" size 21248 crc d0603856 md5 adc46f3fd89dfebdde37fc52cae40003 sha1 4f51bfaf3eaaf50e498b7b061331e82510a35684 )
+)
+
+game (
+	name "Color Lines (19xx)(-)"
+	description "Color Lines (19xx)(-)"
+	rom ( name "Color Lines (19xx)(-).trd" size 16384 crc 0d66a913 md5 d38772752ab9f9f02ba76287ac99394e sha1 1dc0df3bf4fd802c6e5b5f473944bb8587055d13 )
+)
+
+game (
+	name "Color Lines 2 (1996)(Entire Group)(ru)"
+	description "Color Lines 2 (1996)(Entire Group)(ru)"
+	rom ( name "Color Lines 2 (1996)(Entire Group)(ru).trd" size 64256 crc 9ea492cc md5 cfb55327945fe0b932817813c3108233 sha1 b1f16be06485d6db3f42d3460511530f935e2923 )
+)
+
+game (
+	name "Color Lines 2 (1997)(Yurochka)(ru)"
+	description "Color Lines 2 (1997)(Yurochka)(ru)"
+	rom ( name "Color Lines 2 (1997)(Yurochka)(ru).trd" size 35584 crc ccc2e6ae md5 ea7173938436b348ced2e372b5316a57 sha1 14cb18c249f44ac50051e280844ba3ef678d48c5 )
+)
+
+game (
+	name "Color Tower (demo) (1997)(Dimiksoft - SSA)(ru)"
+	description "Color Tower (demo) (1997)(Dimiksoft - SSA)(ru)"
+	rom ( name "Color Tower (demo) (1997)(Dimiksoft - SSA)(ru).trd" size 26880 crc a8528fad md5 e12d1a8f7e08963f6d980ad0d7aa3caf sha1 b0ad3ff5c9dab1d8bd302df31c618a50dd701c51 )
+)
+
+game (
+	name "Columns (1991)(Piter)(ru)"
+	description "Columns (1991)(Piter)(ru)"
+	rom ( name "Columns (1991)(Piter)(ru).trd" size 33536 crc 450fb4b6 md5 09fff5403faa8464b4f6e7952fb39c1c sha1 d66de2de789274fd9bf02bb0fed53c136a5e40d9 )
+)
+
+game (
+	name "Cowboy Duel (1990)(D.J. Stepanenko)[h Max Iwamoto]"
+	description "Cowboy Duel (1990)(D.J. Stepanenko)[h Max Iwamoto]"
+	rom ( name "Cowboy Duel (1990)(D.J. Stepanenko)[h Max Iwamoto].trd" size 32000 crc 7ac7f1b2 md5 172acfba5fa0452319294011180a82cf sha1 ab20ce452a0c481d8437f7ba3209a366b10f44ff )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru)"
+	description "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru)"
+	rom ( name "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru).trd" size 655360 crc 7649cf1e md5 dd9d8bd89183099615b502d05c7f5148 sha1 6f697f7b82473c7aa6512083fbed73af73357971 )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru)[a]"
+	description "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru)[a]"
+	rom ( name "Crime of the Santa Claus Deja Vu (demo) (1997)(BrokImSoft)(ru)[a].trd" size 655360 crc eaa36769 md5 86f5db114c2819119597ebabf327282d sha1 5184f7d8578d8293235381980350c57d12729a7c )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu - ZX-Format Magazine Demo (demo) (1997)(ETC Group)(ru)"
+	description "Crime of the Santa Claus Deja Vu - ZX-Format Magazine Demo (demo) (1997)(ETC Group)(ru)"
+	rom ( name "Crime of the Santa Claus Deja Vu - ZX-Format Magazine Demo (demo) (1997)(ETC Group)(ru).trd" size 51968 crc a78d7eab md5 ddca02063dd61227e0938d0638976dfb sha1 55fef5fc1e3291002fced6b8a3dc250318e5047e )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu - ZX-Power Magazine Demo (demo) (1997)(ETC Group)(ru)"
+	description "Crime of the Santa Claus Deja Vu - ZX-Power Magazine Demo (demo) (1997)(ETC Group)(ru)"
+	rom ( name "Crime of the Santa Claus Deja Vu - ZX-Power Magazine Demo (demo) (1997)(ETC Group)(ru).trd" size 46848 crc 625ffa36 md5 34d01835dc17fd17dc62bdf943ab4d5b sha1 5fd4898ee225e2f74d27343a6b4f1fafe3c89ac4 )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu 1 (1996)(ETC Group)(ru)[h FFC Computers - Softstar]"
+	description "Crime of the Santa Claus Deja Vu 1 (1996)(ETC Group)(ru)[h FFC Computers - Softstar]"
+	rom ( name "Crime of the Santa Claus Deja Vu 1 (1996)(ETC Group)(ru)[h FFC Computers - Softstar].trd" size 45568 crc 30be7540 md5 a8d70063bb07827cf4268579a622ac0c sha1 63c7f9bc739a263cc84c74295c744b404c3872b4 )
+)
+
+game (
+	name "Crime Santa Clause 2 (demo) (1996)(ETC Group)(ru)"
+	description "Crime Santa Clause 2 (demo) (1996)(ETC Group)(ru)"
+	rom ( name "Crime Santa Clause 2 (demo) (1996)(ETC Group)(ru).trd" size 68864 crc 130058c4 md5 953e1fa3aab288fac6320ae119b0c697 sha1 6af726107fe0a35a1181890cd6648fd37eabc1a4 )
+)
+
+game (
+	name "Crossword (1998)(Razzlers)(ru)"
+	description "Crossword (1998)(Razzlers)(ru)"
+	rom ( name "Crossword (1998)(Razzlers)(ru).trd" size 86016 crc a7452e5d md5 a94001d1a7bf5faa1f7c88fd697e3882 sha1 8397d3a17c7baf67fe29e446e2fad25915100f48 )
+)
+
+game (
+	name "Crusher (1996)(Playgear)"
+	description "Crusher (1996)(Playgear)"
+	rom ( name "Crusher (1996)(Playgear).trd" size 68608 crc 213f3f76 md5 523cc2477611b864d1a7e3c3e144c191 sha1 b193d936e037b31a3a11bccf1b48be22a29bf7eb )
+)
+
+game (
+	name "Curse of Xeen (demo) (1999)(Concern Chaos)(ru)"
+	description "Curse of Xeen (demo) (1999)(Concern Chaos)(ru)"
+	rom ( name "Curse of Xeen (demo) (1999)(Concern Chaos)(ru).trd" size 56064 crc bb2a829b md5 a7a274cfdaf8d55696ab8fd4e6e60e19 sha1 6e8ad113c8aa42340d6ddb01c0fc2f6625200366 )
+)
+
+game (
+	name "Dan Dare - Pilot of the Future (1986)(Virgin Games)[h Phantom Family]"
+	description "Dan Dare - Pilot of the Future (1986)(Virgin Games)[h Phantom Family]"
+	rom ( name "Dan Dare - Pilot of the Future (1986)(Virgin Games)[h Phantom Family].trd" size 159744 crc 85850dbe md5 10ddd224322fe8c4bd6ec33b3eb26409 sha1 c878d628777d5fe78bdacfeaac98354f1b8266f6 )
+)
+
+game (
+	name "Dark Square (demo) (1998)(Last Masters Group)"
+	description "Dark Square (demo) (1998)(Last Masters Group)"
+	rom ( name "Dark Square (demo) (1998)(Last Masters Group).trd" size 41472 crc 9e1e289e md5 6dff1975aedc6348bec3de55f623ea80 sha1 4db85d38b1843acc7494447ae47b8aaa134670ee )
+)
+
+game (
+	name "Dark, The (1994)(Sergey Hanzis)(ru)"
+	description "Dark, The (1994)(Sergey Hanzis)(ru)"
+	rom ( name "Dark, The (1994)(Sergey Hanzis)(ru).trd" size 49664 crc 0f962cbe md5 2ee2045c51f7e4f510e71fbc60c59257 sha1 99a95c79e7be3ce91f2e0bef6177c914cd4056ce )
+)
+
+game (
+	name "Darkwing Duck v0.001 (demo) (1999)(U99)"
+	description "Darkwing Duck v0.001 (demo) (1999)(U99)"
+	rom ( name "Darkwing Duck v0.001 (demo) (1999)(U99).trd" size 39424 crc 4e606eaf md5 37c1e80c9801792a465fe5df625d0000 sha1 bc73bddeac1b169ff7d138e90b629699a9c657b8 )
+)
+
+game (
+	name "Death Games (1997)(Werewolves)(Part 1 of 2)"
+	description "Death Games (1997)(Werewolves)(Part 1 of 2)"
+	rom ( name "Death Games (1997)(Werewolves)(Part 1 of 2).trd" size 43520 crc e5a7d945 md5 c7242deee7b04c704a206753e0aeefaf sha1 78bb6cf0eec80165fcf18da04a1cb194dc5cda75 )
+)
+
+game (
+	name "Destructors (1994)(Renegade Software)(ru)"
+	description "Destructors (1994)(Renegade Software)(ru)"
+	rom ( name "Destructors (1994)(Renegade Software)(ru).trd" size 33024 crc 7f1b68ba md5 038bdf9d955090c1fb5b6b4cf8b88a72 sha1 98df039a7ac90260eeec7b368ed72e2dbda8cea6 )
+)
+
+game (
+	name "Diamond (1998)(Dr. Laser)(ru)"
+	description "Diamond (1998)(Dr. Laser)(ru)"
+	rom ( name "Diamond (1998)(Dr. Laser)(ru).trd" size 36864 crc 5f083b28 md5 e0cf3bc4594f1c224bee79dc8e0467cc sha1 c1ebfb76febb1862869afd01211ec95ace4af7f1 )
+)
+
+game (
+	name "Diamonds Downfall (1994)(Power Software)"
+	description "Diamonds Downfall (1994)(Power Software)"
+	rom ( name "Diamonds Downfall (1994)(Power Software).trd" size 28928 crc 50492fe2 md5 00e2a4d405d191211c029000b41596dd sha1 7866279a352871564326c68d1165b89b5f1bfde7 )
+)
+
+game (
+	name "Dictator 2 (19xx)(Last Masters Group)(ru)"
+	description "Dictator 2 (19xx)(Last Masters Group)(ru)"
+	rom ( name "Dictator 2 (19xx)(Last Masters Group)(ru).trd" size 41984 crc 084b2884 md5 e3fbd5edc57284c0a857243c239212e7 sha1 2c35bf91199fd03755605a3c77d9f33886262aad )
+)
+
+game (
+	name "Digital Tetris (19xx)(Bat Soft)(ru)[h Smash Hackers Band]"
+	description "Digital Tetris (19xx)(Bat Soft)(ru)[h Smash Hackers Band]"
+	rom ( name "Digital Tetris (19xx)(Bat Soft)(ru)[h Smash Hackers Band].trd" size 655360 crc 2476cdc8 md5 e953c1ed595fcfa9a0c948ddab07ca92 sha1 e087d304948005492496afc4fcacc68318d7d5df )
+)
+
+game (
+	name "Dina Blaster (1995)(Prestige)"
+	description "Dina Blaster (1995)(Prestige)"
+	rom ( name "Dina Blaster (1995)(Prestige).trd" size 44032 crc 90819f5a md5 29a742c5a419b9a73ff02f8d88898561 sha1 4e56fef197ab37172083918cc5dcdb1c54eddc24 )
+)
+
+game (
+	name "Disappear Balls v1.2 (1995)(Binary Masters)(ru)"
+	description "Disappear Balls v1.2 (1995)(Binary Masters)(ru)"
+	rom ( name "Disappear Balls v1.2 (1995)(Binary Masters)(ru).trd" size 30208 crc 3710c6b9 md5 cc8eaf0e97d73a7444d1d9f987061913 sha1 9b9cd7e6a84266ea6fc892b377474a12bbbb43cb )
+)
+
+game (
+	name "Dizzy 'A' (2000)(N-Discovery)(ru)"
+	description "Dizzy 'A' (2000)(N-Discovery)(ru)"
+	rom ( name "Dizzy 'A' (2000)(N-Discovery)(ru).trd" size 38656 crc 99144c51 md5 3cb68731cf9fbe5546ec81b8e57232a4 sha1 166635504a513730622e53e7ae2f99a24e5dc75c )
+)
+
+game (
+	name "Dizzy VIII - Little Joke (1996)(Timur Company)"
+	description "Dizzy VIII - Little Joke (1996)(Timur Company)"
+	rom ( name "Dizzy VIII - Little Joke (1996)(Timur Company).trd" size 34304 crc 6755e98f md5 f10771f2a9eff9fca65d154dee917618 sha1 6cc83f02dbf7ed22b1760c981b5e4f7d70072384 )
+)
+
+game (
+	name "Dizzy Warehouse (1996)(Yury Schapov)"
+	description "Dizzy Warehouse (1996)(Yury Schapov)"
+	rom ( name "Dizzy Warehouse (1996)(Yury Schapov).trd" size 33024 crc 8b50eb45 md5 a300f9be8ea5b7436839310c14ec195f sha1 4f5f4358833084f15120ef5906246f1a3f6d4547 )
+)
+
+game (
+	name "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h O'Melly][t]"
+	description "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h O'Melly][t]"
+	rom ( name "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h O'Melly][t].trd" size 62720 crc 7e8b5a25 md5 08ce7d8a977d6b7cb6bdef9307ef50d4 sha1 eec2c6dcbf6f073bbe8d951804d362cf97c4c005 )
+)
+
+game (
+	name "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Power of Sound][t]"
+	description "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Power of Sound][t]"
+	rom ( name "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Power of Sound][t].trd" size 84224 crc 4bb8bf23 md5 196356c45bf59adcdcd2af8fc4b0d4ce sha1 fdf6a0894b3da42a78f65aad7ce7d1dbbd00f45d )
+)
+
+game (
+	name "Dizzy XII - Underground (2001)(Gogin)[t]"
+	description "Dizzy XII - Underground (2001)(Gogin)[t]"
+	rom ( name "Dizzy XII - Underground (2001)(Gogin)[t].trd" size 655360 crc b08867c2 md5 7bbfa485ee8d6eb11740e1fa530ab870 sha1 87bd441326992dfbc74de7214df2350fe3553997 )
+)
+
+game (
+	name "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru)"
+	description "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru)"
+	rom ( name "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru).trd" size 32256 crc 2bb3a697 md5 f38e02f1762f363b19b768ab6797be92 sha1 5dfa9f6d4b25d45b492842c3bc1a38d842ebad12 )
+)
+
+game (
+	name "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru)[a]"
+	description "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru)[a]"
+	rom ( name "Dizzy XX - Hell in Paradise Island (demo) (1996)(Megacode Hackers Group)(ru)[a].trd" size 655360 crc 8c45038b md5 95e61c300941eeb432e6ca7c6edf6e25 sha1 a945df75f0b4b2a4e203aa664c7c33c9758168eb )
+)
+
+game (
+	name "Doctor Mario (19xx)(Romanic Warriors)(ru)"
+	description "Doctor Mario (19xx)(Romanic Warriors)(ru)"
+	rom ( name "Doctor Mario (19xx)(Romanic Warriors)(ru).trd" size 38400 crc c28b8249 md5 d40fcc97f7d0d1f2bcb3cd53c13bee6e sha1 e6e7590384f55c805f0b6f647bf885f8326be81c )
+)
+
+game (
+	name "Doom (demo) (1996)(Digital Reality)"
+	description "Doom (demo) (1996)(Digital Reality)"
+	rom ( name "Doom (demo) (1996)(Digital Reality).trd" size 62720 crc 3ee06044 md5 695037a1cf7e20329a5bea1ad7b9cb9e sha1 04a391e166bf0a5dbea219321486e86233032ac9 )
+)
+
+game (
+	name "Doom Mania (1996)(Syndicate)"
+	description "Doom Mania (1996)(Syndicate)"
+	rom ( name "Doom Mania (1996)(Syndicate).trd" size 30976 crc 0dfa8dba md5 0733fd6d99fc08ddcc56dd8d4907fc6f sha1 969fb7db22e3951290465ad9ca2842b24540c93f )
+)
+
+game (
+	name "Doom Pre-Releaze v1.5b (demo) (1997)(Digital Reality)"
+	description "Doom Pre-Releaze v1.5b (demo) (1997)(Digital Reality)"
+	rom ( name "Doom Pre-Releaze v1.5b (demo) (1997)(Digital Reality).trd" size 157440 crc 97068148 md5 c1497398704ecc610db17d436ad3fe45 sha1 e58f252537e10a37f74a9fbdfd257ab6ff399dd9 )
+)
+
+game (
+	name "Double (1996)(Data Masters Software)"
+	description "Double (1996)(Data Masters Software)"
+	rom ( name "Double (1996)(Data Masters Software).trd" size 79104 crc 93fb3f04 md5 f318bbb0753f9f76f3d8253f2d67802b sha1 b6366b309f2080d459a9caf476aefb500a6840ee )
+)
+
+game (
+	name "Double Tetris (1996)(Mas)(ru)"
+	description "Double Tetris (1996)(Mas)(ru)"
+	rom ( name "Double Tetris (1996)(Mas)(ru).trd" size 40704 crc 1e41b4d2 md5 ea1c89dea693c73602ec420094c7ed1a sha1 3ac9129a584cc593ad5d8c63a0edea20804b2457 )
+)
+
+game (
+	name "Double Xinox (1996)(ZX-Masters Software)"
+	description "Double Xinox (1996)(ZX-Masters Software)"
+	rom ( name "Double Xinox (1996)(ZX-Masters Software).trd" size 655360 crc d51ab0cd md5 9f7eb64cb5a7b1f4911c04be0338be43 sha1 d3732432dd877aaf648bf7e2414651f4f1bfa287 )
+)
+
+game (
+	name "Dragons Land - Part 1 (demo) (1995)(XL-Design)(ru)"
+	description "Dragons Land - Part 1 (demo) (1995)(XL-Design)(ru)"
+	rom ( name "Dragons Land - Part 1 (demo) (1995)(XL-Design)(ru).trd" size 48640 crc d416f30e md5 1108cb2c86e3ad1503c15b7b7982825a sha1 e114a8380eb789fadfa459bab5875ccf0fb94d91 )
+)
+
+game (
+	name "Drunk Dizzy (demo) (1995)(Black Eagle Company)(ru)"
+	description "Drunk Dizzy (demo) (1995)(Black Eagle Company)(ru)"
+	rom ( name "Drunk Dizzy (demo) (1995)(Black Eagle Company)(ru).trd" size 49664 crc 95fadcad md5 d09a67dbc8aad50cb97f026e69ba2731 sha1 9a422c68f02e10492c73040ef615ec98336e58f9 )
+)
+
+game (
+	name "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika)"
+	description "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika)"
+	rom ( name "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika).trd" size 39424 crc 35d2545d md5 b617cf1b4e85cd54f47686914827ab4b sha1 4bdbdb40e159f482fea38ec30180f85e0afdc46f )
+)
+
+game (
+	name "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika)[b]"
+	description "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika)[b]"
+	rom ( name "Dune 2 - The Battle for Arrakis (demo) (1996)(Perestroika)[b].trd" size 655360 crc faa84a68 md5 0413a5e6b3f10dfb92b55fcc91afbea0 sha1 929fc1a2a3679457c1badb40dc65d4562f4d97f5 )
+)
+
+game (
+	name "Durak (1991)(Copper Feet)(ru)"
+	description "Durak (1991)(Copper Feet)(ru)"
+	rom ( name "Durak (1991)(Copper Feet)(ru).trd" size 43776 crc b34c7911 md5 d0b3a830cb778a4528d84674391c0885 sha1 5d02d8cd3b261b3aa7bd6f81ba554fa6b3a62fcf )
+)
+
+game (
+	name "Durak 2 (1994)(New Hakers-Krouwait System)(ru)"
+	description "Durak 2 (1994)(New Hakers-Krouwait System)(ru)"
+	rom ( name "Durak 2 (1994)(New Hakers-Krouwait System)(ru).trd" size 41984 crc 22d70f03 md5 6b22c7b882d96d716609cc0a00170f6f sha1 7f02340bfbd202849c6875cf8c2cbaea070a4179 )
+)
+
+game (
+	name "Dust of Starry Roads (demo) (1997)(GalaxySoft)(ru)"
+	description "Dust of Starry Roads (demo) (1997)(GalaxySoft)(ru)"
+	rom ( name "Dust of Starry Roads (demo) (1997)(GalaxySoft)(ru).trd" size 126208 crc 7026f815 md5 578785ca669e64b5eef51c8aad80bc60 sha1 d53f69c61f573dadfbb4d1ad4367ec4cec242110 )
+)
+
+game (
+	name "Earth War (19xx)(Fanat)"
+	description "Earth War (19xx)(Fanat)"
+	rom ( name "Earth War (19xx)(Fanat).trd" size 28672 crc 49a878d5 md5 2fe255de22a86137e25f577d2d6e5b31 sha1 2121767318bda946d8b17944802c12bd6865e2c6 )
+)
+
+game (
+	name "East Ucranian State University (19xx)(Crystal Dream)(ru)"
+	description "East Ucranian State University (19xx)(Crystal Dream)(ru)"
+	rom ( name "East Ucranian State University (19xx)(Crystal Dream)(ru).trd" size 22272 crc 4f661595 md5 8d74724d0ea5ec2487ebd5e2f081bfba sha1 5c7f7075a6325c0e94502d9b140d158669da91a1 )
+)
+
+game (
+	name "Elite 3 (1993)(THD)(ru)[h]"
+	description "Elite 3 (1993)(THD)(ru)[h]"
+	rom ( name "Elite 3 (1993)(THD)(ru)[h].trd" size 60160 crc 9f68b54e md5 489c8b038f0825650512fffcc5fe5184 sha1 9bb306b57e4f2e4abb4aab759881001b0d280901 )
+)
+
+game (
+	name "Elite Service (1993)(THD)(ru)"
+	description "Elite Service (1993)(THD)(ru)"
+	rom ( name "Elite Service (1993)(THD)(ru).trd" size 73984 crc 7e6b7865 md5 d1f2e1286da97f059df5ed50a3884bd3 sha1 597f4f34b19a0d4dd87d7daf6bc7f9ded1718642 )
+)
+
+game (
+	name "Elopement Back to the Earth (1997)(Omega Hackers Group)"
+	description "Elopement Back to the Earth (1997)(Omega Hackers Group)"
+	rom ( name "Elopement Back to the Earth (1997)(Omega Hackers Group).trd" size 72448 crc 7d24a9d8 md5 9dab71d83a5069a48278fa7f2cf488c1 sha1 dd3bd66a630ab2f487f1b558021f605bc85278d7 )
+)
+
+game (
+	name "Empire 3, The (demo) (1998)(Virtual Vision)(ru)"
+	description "Empire 3, The (demo) (1998)(Virtual Vision)(ru)"
+	rom ( name "Empire 3, The (demo) (1998)(Virtual Vision)(ru).trd" size 35328 crc ad42c995 md5 aa0c225ecc28479173e888f7fe64ebca sha1 73f588bfec4b014a9b5dc96e68b1584aebbe5ab0 )
+)
+
+game (
+	name "Empire, The (demo) (1997)(Virtual Vision)(ru)"
+	description "Empire, The (demo) (1997)(Virtual Vision)(ru)"
+	rom ( name "Empire, The (demo) (1997)(Virtual Vision)(ru).trd" size 30208 crc a2419b42 md5 59f90945784eb5ca7a01d70c9bf52796 sha1 48142ae2fd5beb2ebb106f9fef91d3d3f952dbf9 )
+)
+
+game (
+	name "Fallen Angel (1998)(Paradox)"
+	description "Fallen Angel (1998)(Paradox)"
+	rom ( name "Fallen Angel (1998)(Paradox).trd" size 12032 crc 2e816da0 md5 1e3391cf88aa4072ea4d7811389ece36 sha1 b79822ec57236e3116877379ec358c25c411e977 )
+)
+
+game (
+	name "Fast Breed (1998)(Master Home Computers Group)"
+	description "Fast Breed (1998)(Master Home Computers Group)"
+	rom ( name "Fast Breed (1998)(Master Home Computers Group).trd" size 69120 crc b1660ffe md5 8ea7069931e0d48286ab4927d605c427 sha1 138e705a14bc4b65c5a2a8263fe11e5180fd14b1 )
+)
+
+game (
+	name "FBI-13 (19xx)(Black Eagle Company)"
+	description "FBI-13 (19xx)(Black Eagle Company)"
+	rom ( name "FBI-13 (19xx)(Black Eagle Company).trd" size 69376 crc 870eb246 md5 761990ae65b2f85c71dc29c21648d379 sha1 1cc4c35af8f5a90b8adc4344ea3eace4782bef4d )
+)
+
+game (
+	name "Fear Tales (demo) (1995)(Games Killer)"
+	description "Fear Tales (demo) (1995)(Games Killer)"
+	rom ( name "Fear Tales (demo) (1995)(Games Killer).trd" size 26112 crc a9ae2022 md5 603b748d7d387f1f95bb4431334c47e6 sha1 e485e94b62b3dc259e98879628e7e3c03551781d )
+)
+
+game (
+	name "Fernando Martin Basket Master (1987)(Dinamic Software)(es)[h Fion]"
+	description "Fernando Martin Basket Master (1987)(Dinamic Software)(es)[h Fion]"
+	rom ( name "Fernando Martin Basket Master (1987)(Dinamic Software)(es)[h Fion].trd" size 149504 crc 839e28ba md5 c36acb8509e7df3d98c314e7e328be74 sha1 46eca0715204b7d69b4b27df0b20e1701053fb67 )
+)
+
+game (
+	name "Fields of Logic (1999)(Smokers Hackers Group)[h AMD]"
+	description "Fields of Logic (1999)(Smokers Hackers Group)[h AMD]"
+	rom ( name "Fields of Logic (1999)(Smokers Hackers Group)[h AMD].trd" size 64512 crc 4ca730f0 md5 7be261a1fcf8f486f87269abb4a9e741 sha1 bfbb690462c6470eb46d19ed23dcd77b8751c0a3 )
+)
+
+game (
+	name "Figus (1998)(Image Crew)"
+	description "Figus (1998)(Image Crew)"
+	rom ( name "Figus (1998)(Image Crew).trd" size 41216 crc 33b6d7c0 md5 7cb15cb1eff4d9de86ee381038712d3b sha1 b63df38c3aeddc7bf72f7d1ef82db4ad55f9e40d )
+)
+
+game (
+	name "Filler (1996)(Goblin Graphics)"
+	description "Filler (1996)(Goblin Graphics)"
+	rom ( name "Filler (1996)(Goblin Graphics).trd" size 8960 crc 5961da1a md5 fc06f0812dbbe98db243c82cb3e6d140 sha1 ac9a453a523891ab0b4b51a94f139c325a44d630 )
+)
+
+game (
+	name "Fillers (1995)(Oleg Sergeyev)"
+	description "Fillers (1995)(Oleg Sergeyev)"
+	rom ( name "Fillers (1995)(Oleg Sergeyev).trd" size 26880 crc d4bc3f76 md5 6ac31526269aff32b38a496805dab750 sha1 4d108f1bd368ce62236ac929fa510c41892e72f6 )
+)
+
+game (
+	name "Fire and Ice (2004)(N-Discovery)(en-ru)"
+	description "Fire and Ice (2004)(N-Discovery)(en-ru)"
+	rom ( name "Fire and Ice (2004)(N-Discovery)(en-ru).trd" size 655360 crc da048f5a md5 ce45711beeab31e7dc2c22ee523a80a8 sha1 156b55fa245f97e2882efbe255533599fa062df6 )
+)
+
+game (
+	name "Fire Gear (1994)(Tm'M Studio)(ru)"
+	description "Fire Gear (1994)(Tm'M Studio)(ru)"
+	rom ( name "Fire Gear (1994)(Tm'M Studio)(ru).trd" size 349696 crc 2e2c23df md5 1feadb51d4c4af4a19ce74abbb963721 sha1 21444bfac683f149d17ce11da6cf9d6422d6334e )
+)
+
+game (
+	name "Firestarter Gift (2000)(H.D.S.)(ru)"
+	description "Firestarter Gift (2000)(H.D.S.)(ru)"
+	rom ( name "Firestarter Gift (2000)(H.D.S.)(ru).trd" size 655360 crc d74201c9 md5 10fd58b12f5fb42b47d46715af5f37b6 sha1 4b1243487352edf9bfe24498f399d2c29f9143f8 )
+)
+
+game (
+	name "Fisher (1998)(Hard Code)(ru)"
+	description "Fisher (1998)(Hard Code)(ru)"
+	rom ( name "Fisher (1998)(Hard Code)(ru).trd" size 100864 crc 9998d7bd md5 fc01711f1b5bd9c9e18e0b5ec50c0ff3 sha1 9de865feec575504f33412e9444178d042561549 )
+)
+
+game (
+	name "Fisher (demo) (1997)(I.M.A. Production)(ru)"
+	description "Fisher (demo) (1997)(I.M.A. Production)(ru)"
+	rom ( name "Fisher (demo) (1997)(I.M.A. Production)(ru).trd" size 39680 crc 8f298408 md5 cc5c6383ec14f2184203e69db90ffa14 sha1 696b29a06673c20946de9354421b60b330b30a2f )
+)
+
+game (
+	name "Fiveteen's (1996)(Greedy Guys Group)"
+	description "Fiveteen's (1996)(Greedy Guys Group)"
+	rom ( name "Fiveteen's (1996)(Greedy Guys Group).trd" size 655360 crc 326027d2 md5 2c36a8c605f92cca231f8e78cc8d12da sha1 012300f62b986fcc28abf4accd3e00dd7f839704 )
+)
+
+game (
+	name "Fiveteen's (1996)(Greedy Guys Group)[t]"
+	description "Fiveteen's (1996)(Greedy Guys Group)[t]"
+	rom ( name "Fiveteen's (1996)(Greedy Guys Group)[t].trd" size 655360 crc 1b0b1783 md5 6cc38e238a7aa0b76c3cd3d1a8b8ac13 sha1 f59cc35c68ff01b04b387766921e451008463a5b )
+)
+
+game (
+	name "Fiveteen's v1.0 (1996)(A.Vashin)"
+	description "Fiveteen's v1.0 (1996)(A.Vashin)"
+	rom ( name "Fiveteen's v1.0 (1996)(A.Vashin).trd" size 82176 crc d3cfaf97 md5 ff53600be5d9fda8ae2f11452b0d5207 sha1 1e51af89680f7e05da0966c028ebc8cb549de5f2 )
+)
+
+game (
+	name "Fizzy (1997)(Denis Rykov)(ru)[h Speed]"
+	description "Fizzy (1997)(Denis Rykov)(ru)[h Speed]"
+	rom ( name "Fizzy (1997)(Denis Rykov)(ru)[h Speed].trd" size 44288 crc b5108eb1 md5 cf7df9359ba7543fe3a63c3ec4eb8172 sha1 08a3ab641a81f97173a5b07d8cc5090218c89dfd )
+)
+
+game (
+	name "Flea Adventure (1995)(Studio 7)[h Phantasy]"
+	description "Flea Adventure (1995)(Studio 7)[h Phantasy]"
+	rom ( name "Flea Adventure (1995)(Studio 7)[h Phantasy].trd" size 31488 crc a2dfa331 md5 3994ffe5125b3a9171b2449169e739b9 sha1 662358ffb089a10183d5f182caf0da258733035d )
+)
+
+game (
+	name "Four Row's Pasyance (1997)(Amazing Software Making)(ru)"
+	description "Four Row's Pasyance (1997)(Amazing Software Making)(ru)"
+	rom ( name "Four Row's Pasyance (1997)(Amazing Software Making)(ru).trd" size 27904 crc 86c88723 md5 e0613bfa7580ebe35e1e9cf251a8d0c1 sha1 2253c50e82baeb744758a0f958c3a8668ebbeb74 )
+)
+
+game (
+	name "Fox Hunt (1994)(Sirius)(ru)[h Computer Rats Group]"
+	description "Fox Hunt (1994)(Sirius)(ru)[h Computer Rats Group]"
+	rom ( name "Fox Hunt (1994)(Sirius)(ru)[h Computer Rats Group].trd" size 22016 crc 96086cf7 md5 b8d108e7420003ae402836c42bba3f13 sha1 75173c8418c7e99daad2dfac42e1fb4bc21a98da )
+)
+
+game (
+	name "Free Cell (1998)(Free Group)(ru)"
+	description "Free Cell (1998)(Free Group)(ru)"
+	rom ( name "Free Cell (1998)(Free Group)(ru).trd" size 53504 crc c633d7c1 md5 9d02121345e6015649a39437cb3dbd2f sha1 2f359de83e654834c43fcf0b7d9db8a7a86fd637 )
+)
+
+game (
+	name "Frodo (1994)(M.V. Spiridonenko)(ru)"
+	description "Frodo (1994)(M.V. Spiridonenko)(ru)"
+	rom ( name "Frodo (1994)(M.V. Spiridonenko)(ru).trd" size 25088 crc b98fe5dc md5 843862a9292da23465fdd70165600c1f sha1 a338f6b68e7a59cba726c14ad65db78fa8c52428 )
+)
+
+game (
+	name "From Beyond (demo) (1997)(Sleepwalkers)(ru)"
+	description "From Beyond (demo) (1997)(Sleepwalkers)(ru)"
+	rom ( name "From Beyond (demo) (1997)(Sleepwalkers)(ru).trd" size 46848 crc 31df74c5 md5 6d04beb6da94c679358d42d405374abc sha1 e6f1d28fe32a9e1d73c6d52ee98960ca1108059b )
+)
+
+game (
+	name "Frost Byte (1997)(Mikro-Gen)[h Mike Blum][t]"
+	description "Frost Byte (1997)(Mikro-Gen)[h Mike Blum][t]"
+	rom ( name "Frost Byte (1997)(Mikro-Gen)[h Mike Blum][t].trd" size 207616 crc 63b433b0 md5 d1807d00cbecb800c0edf4b6beb295d6 sha1 faaeee11b8cbb17a78ebc5cfc8a3a948f874236a )
+)
+
+game (
+	name "Fuck Communistov! (19xx)(3S Group)(ru)"
+	description "Fuck Communistov! (19xx)(3S Group)(ru)"
+	rom ( name "Fuck Communistov! (19xx)(3S Group)(ru).trd" size 32256 crc 2770c094 md5 1d799d7d082077c5d88ec102201e5a35 sha1 5197c7448711f69f63d71a75999504f768ae5924 )
+)
+
+game (
+	name "Full Shit (demo) (1999)(Cyber Punks Universal)(ru)"
+	description "Full Shit (demo) (1999)(Cyber Punks Universal)(ru)"
+	rom ( name "Full Shit (demo) (1999)(Cyber Punks Universal)(ru).trd" size 102656 crc 0efa1c1c md5 879b719b5b948e0607a64ea1cbbefdff sha1 891b7a9875428900c705516705cac277fc6a0913 )
+)
+
+game (
+	name "Galaxians (1982)(Artic Computing)[h Phantom Family]"
+	description "Galaxians (1982)(Artic Computing)[h Phantom Family]"
+	rom ( name "Galaxians (1982)(Artic Computing)[h Phantom Family].trd" size 94976 crc 96423259 md5 5bcb94a7ec6bd4b89f61a79b1187bace sha1 4c5634843a51ab4d2f2db4b8e01c248a727558d0 )
+)
+
+game (
+	name "Gambit Modem v2.2 (1999)(N-Discovery)"
+	description "Gambit Modem v2.2 (1999)(N-Discovery)"
+	rom ( name "Gambit Modem v2.2 (1999)(N-Discovery).trd" size 100864 crc 4700649a md5 fc6714c6ebfa42187f8ced712801fb02 sha1 9e9d1ed7a104cbc19aa909e31662b7324b873e76 )
+)
+
+game (
+	name "Gold Fever (1996)(-)(ru)"
+	description "Gold Fever (1996)(-)(ru)"
+	rom ( name "Gold Fever (1996)(-)(ru).trd" size 655360 crc d36cc4f8 md5 63e0076d4b91f2a36d1a9c1230df6bb8 sha1 d9ae0d4e8ad2fbecdccb228d6494686729eb5aaf )
+)
+
+game (
+	name "Gorodki (demo) (1996)(Spark)(ru)"
+	description "Gorodki (demo) (1996)(Spark)(ru)"
+	rom ( name "Gorodki (demo) (1996)(Spark)(ru).trd" size 33280 crc ea4765da md5 9c201eaa1539439529433f1d36434768 sha1 4abe7bc6686640d32b97958d6982dcda9d01af83 )
+)
+
+game (
+	name "Grab of a Territory (1996)(Free Group)(ru)"
+	description "Grab of a Territory (1996)(Free Group)(ru)"
+	rom ( name "Grab of a Territory (1996)(Free Group)(ru).trd" size 66816 crc 1a580809 md5 abe5c7bd03886c3517f88a5cbaef3f0d sha1 314da5a5e4de817f6982669ede447ab3d3f22165 )
+)
+
+game (
+	name "Gravity Wars (1996)(Scorpion)"
+	description "Gravity Wars (1996)(Scorpion)"
+	rom ( name "Gravity Wars (1996)(Scorpion).trd" size 59136 crc 934a4a9c md5 097c887b7c7f861eb22e80271a5220eb sha1 e6c87e974401104cb875a81fcf74902153d46110 )
+)
+
+game (
+	name "Gunman v1.1 (1999)(Alien Factory - Sage Group)(ru)"
+	description "Gunman v1.1 (1999)(Alien Factory - Sage Group)(ru)"
+	rom ( name "Gunman v1.1 (1999)(Alien Factory - Sage Group)(ru).trd" size 33280 crc 306c2111 md5 08440eb0849c652289697855bd9aca1f sha1 b3338afa497e485a3818aabf685fdb7264247306 )
+)
+
+game (
+	name "Hamon IV - Return to Home (demo) (1997)(Ascendancy)"
+	description "Hamon IV - Return to Home (demo) (1997)(Ascendancy)"
+	rom ( name "Hamon IV - Return to Home (demo) (1997)(Ascendancy).trd" size 69888 crc 963bc253 md5 f746572bc2a4275d6ba58db422d70b2b sha1 583ee794f163323724afe023cf4e425fabfee337 )
+)
+
+game (
+	name "Hanoj (1998)(Flymansoft)"
+	description "Hanoj (1998)(Flymansoft)"
+	rom ( name "Hanoj (1998)(Flymansoft).trd" size 61184 crc f5c339d3 md5 7c1e0b1b89891fbb8015ececb8a9a5ab sha1 07f6e83718d2372ae47627880f1870c5398fd3bf )
+)
+
+game (
+	name "Headball (1998)(ZX-Masters Software)(ru)[h Mayhem]"
+	description "Headball (1998)(ZX-Masters Software)(ru)[h Mayhem]"
+	rom ( name "Headball (1998)(ZX-Masters Software)(ru)[h Mayhem].trd" size 88832 crc 9b73e4ca md5 8354006af11735892d0732232eb4ca4b sha1 21d7d2cdfd5383f75b71dcb2689b063e953895c1 )
+)
+
+game (
+	name "Headball (demo) (1997)(ZX-Masters Software)(ru)"
+	description "Headball (demo) (1997)(ZX-Masters Software)(ru)"
+	rom ( name "Headball (demo) (1997)(ZX-Masters Software)(ru).trd" size 44544 crc ed71510f md5 e83313b0587ebc0d585a978f9d7ce4cb sha1 a7c2fd8be208646c3258c9a4c5eac341fffc224b )
+)
+
+game (
+	name "Hearts (19xx)(Barisoft)(ru)"
+	description "Hearts (19xx)(Barisoft)(ru)"
+	rom ( name "Hearts (19xx)(Barisoft)(ru).trd" size 23808 crc 5b968b0f md5 911804d9a07ba443cf927acf54816380 sha1 db39d17c139814b2cad32cd6937893d8b9242c57 )
+)
+
+game (
+	name "Heavy Metal Mover (1996)(UCM Group)"
+	description "Heavy Metal Mover (1996)(UCM Group)"
+	rom ( name "Heavy Metal Mover (1996)(UCM Group).trd" size 117760 crc 0c89f58b md5 cf1b7655a0b81022fe599a1bbc42a849 sha1 48e8dbc7226777542e8b3781513a44a75e89ee18 )
+)
+
+game (
+	name "Helicopter (1999)(Paradox)"
+	description "Helicopter (1999)(Paradox)"
+	rom ( name "Helicopter (1999)(Paradox).trd" size 48128 crc 9fa353b6 md5 2ba1cd7c30dfc308c122e9b15b86b8b7 sha1 6d8b854b0306d57070976307d222ad35cc9b2fa1 )
+)
+
+game (
+	name "Hell Master (1993)(Paul Nikitin)"
+	description "Hell Master (1993)(Paul Nikitin)"
+	rom ( name "Hell Master (1993)(Paul Nikitin).trd" size 63232 crc d4563fab md5 7230baab51762e8ac5524e98170251d7 sha1 689b799908fb21c766fe884b53bb7774a737dd14 )
+)
+
+game (
+	name "Hexagon 2 (1997)(Style Group)(ru)"
+	description "Hexagon 2 (1997)(Style Group)(ru)"
+	rom ( name "Hexagon 2 (1997)(Style Group)(ru).trd" size 64256 crc 6c82cd62 md5 bd5c333bc871f185c3cef93ae0c84c29 sha1 8820c57528c3a08e09cda1598ebb89fea91a2946 )
+)
+
+game (
+	name "Hexxagon (1994)(WE Group)(ru)[h Rebel]"
+	description "Hexxagon (1994)(WE Group)(ru)[h Rebel]"
+	rom ( name "Hexxagon (1994)(WE Group)(ru)[h Rebel].trd" size 33280 crc e2955486 md5 baa18eae72661d428d686a92dd88abe6 sha1 4074cbb5997b0552d2ad69321e0d4d01435210fa )
+)
+
+game (
+	name "Hexxagon (demo) (1994)(WE Group)(ru)"
+	description "Hexxagon (demo) (1994)(WE Group)(ru)"
+	rom ( name "Hexxagon (demo) (1994)(WE Group)(ru).trd" size 23552 crc d7519ecd md5 1809d83fa2326656ba19b9787003c81c sha1 c0fb801503ea663ece68d1ce7b2940a90792b2ec )
+)
+
+game (
+	name "Home Iceland Dizzy (1998)(VS Prog Group)(ru)"
+	description "Home Iceland Dizzy (1998)(VS Prog Group)(ru)"
+	rom ( name "Home Iceland Dizzy (1998)(VS Prog Group)(ru).trd" size 77824 crc d7f7f5c9 md5 3d4fece157a635ce078c8bb5add70016 sha1 767676322d04585517381aae8441dd2a521c4359 )
+)
+
+game (
+	name "Home Tetris (1996)(Russian Bear Group)[h Mafia]"
+	description "Home Tetris (1996)(Russian Bear Group)[h Mafia]"
+	rom ( name "Home Tetris (1996)(Russian Bear Group)[h Mafia].trd" size 30720 crc 7eefd69d md5 1caa13cd1d86d5afedf2f63a0011f8eb sha1 8f904449cb25c06954ee901a25d3bf2f2e8443e3 )
+)
+
+game (
+	name "Homer Simpson in Russia (1998)(Mr Gluk - Vlad)(ru)"
+	description "Homer Simpson in Russia (1998)(Mr Gluk - Vlad)(ru)"
+	rom ( name "Homer Simpson in Russia (1998)(Mr Gluk - Vlad)(ru).trd" size 197376 crc 798c8fc3 md5 18e863e89b32af2fcbf4609fc59cefee sha1 d15466b7bbe9196ecf042fce746e0adb5c59b180 )
+)
+
+game (
+	name "Homer Simpson in Russia (demo) (1998)(Mr Gluk - Vlad)(ru)"
+	description "Homer Simpson in Russia (demo) (1998)(Mr Gluk - Vlad)(ru)"
+	rom ( name "Homer Simpson in Russia (demo) (1998)(Mr Gluk - Vlad)(ru).trd" size 32768 crc 329f0f05 md5 cc619687b183ad8ec390cdfb87741dc2 sha1 e803851f6f4242355b1d9a688d3b069293fd6685 )
+)
+
+game (
+	name "Hundred, The (1996)(X-Masters)"
+	description "Hundred, The (1996)(X-Masters)"
+	rom ( name "Hundred, The (1996)(X-Masters).trd" size 655360 crc ca69217a md5 c5e3af886887271211076db8c55add3b sha1 a60d969361246d05572f5f5f4f1782a9e98db710 )
+)
+
+game (
+	name "Hysteria (1987)(Software Projects)[h BrokImSoft][t]"
+	description "Hysteria (1987)(Software Projects)[h BrokImSoft][t]"
+	rom ( name "Hysteria (1987)(Software Projects)[h BrokImSoft][t].trd" size 36352 crc 93ca8439 md5 d271fa7074461e0d2629a46fb8e39e5a sha1 72d6b7794cb820e4fa27e2b99f5939060e0725b3 )
+)
+
+game (
+	name "Ice Climber (1996)(V.D.V.)"
+	description "Ice Climber (1996)(V.D.V.)"
+	rom ( name "Ice Climber (1996)(V.D.V.).trd" size 201216 crc ba5830e6 md5 bb33d8a79b4f654ec38a5a0f78813f8a sha1 0adabe20e5dd075fe2292e2954034a4d3c3537dc )
+)
+
+game (
+	name "Ice Climber (demo) (1996)(V.D.V.)"
+	description "Ice Climber (demo) (1996)(V.D.V.)"
+	rom ( name "Ice Climber (demo) (1996)(V.D.V.).trd" size 44800 crc ad9f4360 md5 16c9cee00137813f1e933836c7fa0746 sha1 1d892bf805e8afd081085de701f26557e81d04e4 )
+)
+
+game (
+	name "Imperator (1992)(Zagruvaetsq)(ru)"
+	description "Imperator (1992)(Zagruvaetsq)(ru)"
+	rom ( name "Imperator (1992)(Zagruvaetsq)(ru).trd" size 31232 crc 7d584795 md5 ebd7a5305832574b7b4e424d67517954 sha1 635f1ab7c7949066a9a84f0f3e50111d9674b139 )
+)
+
+game (
+	name "Imperium 2000 (2000)(Action)(ru)"
+	description "Imperium 2000 (2000)(Action)(ru)"
+	rom ( name "Imperium 2000 (2000)(Action)(ru).trd" size 655360 crc 44de7767 md5 9554ddb9e89ef2633f045aa80f4c1cd6 sha1 788fcd5d6e6d79a959b6f8823357d4eb9abfbc90 )
+)
+
+game (
+	name "Iron Attack (demo) (1998)(ZX-Studio)(ru)"
+	description "Iron Attack (demo) (1998)(ZX-Studio)(ru)"
+	rom ( name "Iron Attack (demo) (1998)(ZX-Studio)(ru).trd" size 101888 crc cc480952 md5 606434a68c24400907635797acce17a4 sha1 983960480a1cb128cc6cb6e5fa0747bec9500ec5 )
+)
+
+game (
+	name "Ivan Caryevich (1995)(G&M)(ru)"
+	description "Ivan Caryevich (1995)(G&M)(ru)"
+	rom ( name "Ivan Caryevich (1995)(G&M)(ru).trd" size 48128 crc 6fe7c80f md5 25b20acdc841297a2a3417495797a0f5 sha1 589934a5a84fb12b5731b091c8a6ccb1609c2f26 )
+)
+
+game (
+	name "Ivan Stupid (1997)(-)(ru)"
+	description "Ivan Stupid (1997)(-)(ru)"
+	rom ( name "Ivan Stupid (1997)(-)(ru).trd" size 40192 crc 35ab462a md5 2d05b5e85effe9432d58db285497781f sha1 c650252aa22fde616d9320dc2b031449cdfe1c51 )
+)
+
+game (
+	name "Jackals v0.0 (demo) (1999)(Plague Mailmans League)"
+	description "Jackals v0.0 (demo) (1999)(Plague Mailmans League)"
+	rom ( name "Jackals v0.0 (demo) (1999)(Plague Mailmans League).trd" size 38656 crc 0d4d201e md5 fd9e1c83eb9c058f3ae485a216695426 sha1 212410077b87ebe12031956a8fae3ce7a19ccc19 )
+)
+
+game (
+	name "Jackass (19xx)(The Devil)(ru)"
+	description "Jackass (19xx)(The Devil)(ru)"
+	rom ( name "Jackass (19xx)(The Devil)(ru).trd" size 28672 crc 3faf7015 md5 79f20700bd958c63022d66be392de143 sha1 b680839416e7d43a477294e93dc5877597372f55 )
+)
+
+game (
+	name "Japan Crossword (demo) (1999)(Delta Hackers Group)"
+	description "Japan Crossword (demo) (1999)(Delta Hackers Group)"
+	rom ( name "Japan Crossword (demo) (1999)(Delta Hackers Group).trd" size 22272 crc 6bed4146 md5 7a723042afc6827e2466fed05e7b8c81 sha1 194e08736ae353dc4e38e4d2000898859c42a36a )
+)
+
+game (
+	name "Japanese Contrast (1999)(Fenomen)"
+	description "Japanese Contrast (1999)(Fenomen)"
+	rom ( name "Japanese Contrast (1999)(Fenomen).trd" size 63232 crc 5ee2326a md5 275be7c8fb8b435ab5107c88d47abea0 sha1 46192d959f2672711599e8406011af1e83a1fc9a )
+)
+
+game (
+	name "Jolly Lines (1995)(Jolly Mouse)(ru)"
+	description "Jolly Lines (1995)(Jolly Mouse)(ru)"
+	rom ( name "Jolly Lines (1995)(Jolly Mouse)(ru).trd" size 36608 crc c176e41c md5 f77ec66777f010419de26ce7f301a8e0 sha1 b31106d34b66e54cfea2fe325703bbfd7bdd7a6a )
+)
+
+game (
+	name "Kalah (1997)(White Eagle)(ru)"
+	description "Kalah (1997)(White Eagle)(ru)"
+	rom ( name "Kalah (1997)(White Eagle)(ru).trd" size 23808 crc dafea1e4 md5 bf80479c7f05875b2a7f7ab51402bb62 sha1 ad1272c70451cb4f03df5d1d954bc01df422f17e )
+)
+
+game (
+	name "Kick Da Gaga (1999)(Avalon Software)(ru)"
+	description "Kick Da Gaga (1999)(Avalon Software)(ru)"
+	rom ( name "Kick Da Gaga (1999)(Avalon Software)(ru).trd" size 60928 crc a515503d md5 946308838d12f07882c0f5fd9afb86e6 sha1 f422b1ea924b5a00a2400547698bdee169a3764b )
+)
+
+game (
+	name "Kill PC 2 - Judgement Day (1998)(Rage Technologies)"
+	description "Kill PC 2 - Judgement Day (1998)(Rage Technologies)"
+	rom ( name "Kill PC 2 - Judgement Day (1998)(Rage Technologies).trd" size 16128 crc 8ae581c0 md5 4445d8e29dffa5c937256b959b512bf7 sha1 cdb84a13ca1248cc786d313ed6768156fb8909f7 )
+)
+
+game (
+	name "Kill PC 3 (1999)(Rage Technologies)"
+	description "Kill PC 3 (1999)(Rage Technologies)"
+	rom ( name "Kill PC 3 (1999)(Rage Technologies).trd" size 36608 crc 92a60b1b md5 f8f7c00a2ebf028c19f68d41993b7ad7 sha1 a8e9d28aa72deabdc400f81b8bc98f9612f244f5 )
+)
+
+game (
+	name "King (1999)(BSoft)(ru)"
+	description "King (1999)(BSoft)(ru)"
+	rom ( name "King (1999)(BSoft)(ru).trd" size 27904 crc 47ccf4c3 md5 dbad532bbc8ede32132a6cc04bcabc30 sha1 9d01332717e50faefca14fc48996a3100c2ff335 )
+)
+
+game (
+	name "King of Time Super Turbo Killer (1994)(M.Coder)"
+	description "King of Time Super Turbo Killer (1994)(M.Coder)"
+	rom ( name "King of Time Super Turbo Killer (1994)(M.Coder).trd" size 19968 crc 45f63926 md5 7948d781e3b4f146288197ec13b4e458 sha1 8f4735e23d13dbae276f3f75e068751130e9c430 )
+)
+
+game (
+	name "King Valley (19xx)(WE Group)"
+	description "King Valley (19xx)(WE Group)"
+	rom ( name "King Valley (19xx)(WE Group).trd" size 93952 crc b90ec84d md5 c28abdc4cd9b0ce5b4d7c58d14338528 sha1 4ef59205a84c437d1b57a3db5f69bea3faa7d47d )
+)
+
+game (
+	name "King's Bounty (1993)(Energo)(ru)"
+	description "King's Bounty (1993)(Energo)(ru)"
+	rom ( name "King's Bounty (1993)(Energo)(ru).trd" size 51456 crc db9a99aa md5 e539e7dd7887c8c721855556e5a6fa17 sha1 6f074280f74695fe77f9383ff8c98862520f9cca )
+)
+
+game (
+	name "King's Bounty (19xx)(EJB)"
+	description "King's Bounty (19xx)(EJB)"
+	rom ( name "King's Bounty (19xx)(EJB).trd" size 108800 crc 15c2d973 md5 8a68de050191a384256052ed9eca8d90 sha1 b1f4558d7113cc010bc818bf27e41291f20f510f )
+)
+
+game (
+	name "King's Bounty (demo) (1998)(STRG)(ru)"
+	description "King's Bounty (demo) (1998)(STRG)(ru)"
+	rom ( name "King's Bounty (demo) (1998)(STRG)(ru).trd" size 26624 crc 551273e2 md5 8218ee0ce9f9da1157a7a5bd1d2eda2c sha1 551aa6db984f8c4738e7d425d1c8e8754baa3684 )
+)
+
+game (
+	name "King's Bounty 2 - Service v1.1 (1996)(R.E.P.)(ru)"
+	description "King's Bounty 2 - Service v1.1 (1996)(R.E.P.)(ru)"
+	rom ( name "King's Bounty 2 - Service v1.1 (1996)(R.E.P.)(ru).trd" size 14848 crc bd900707 md5 bf18b6be7853c81c557e896f1dedbc61 sha1 db558d1441c8699750fa5ebf373dfacb23c24c11 )
+)
+
+game (
+	name "King's Bounty 3 (demo) (1997)(Magic Moon)(ru)"
+	description "King's Bounty 3 (demo) (1997)(Magic Moon)(ru)"
+	rom ( name "King's Bounty 3 (demo) (1997)(Magic Moon)(ru).trd" size 64000 crc f6f630a9 md5 81873fcbe6ea99af161fa6c5a7b50dca sha1 76187e046f65efbb726f86d797f194404d5d4e0a )
+)
+
+game (
+	name "Kingdom of Grain (1992)(THD)(ru)"
+	description "Kingdom of Grain (1992)(THD)(ru)"
+	rom ( name "Kingdom of Grain (1992)(THD)(ru).trd" size 48896 crc 93286f4d md5 90009c7e0fe3194d0502ea7e802baa4a sha1 7b001ee2fe986cdb94623c11084d22bc55049b32 )
+)
+
+game (
+	name "Klad (demo) (1997)(Raydac Soft)(ru)"
+	description "Klad (demo) (1997)(Raydac Soft)(ru)"
+	rom ( name "Klad (demo) (1997)(Raydac Soft)(ru).trd" size 51456 crc 4ef148b0 md5 b226a2ed6c639312a95aa13f79d27622 sha1 93fb306d952a64a0c599444bd98dc3b5249a32c9 )
+)
+
+game (
+	name "Klad - Part 1 (1994)(Technotime)(ru)"
+	description "Klad - Part 1 (1994)(Technotime)(ru)"
+	rom ( name "Klad - Part 1 (1994)(Technotime)(ru).trd" size 36864 crc e1cdcddc md5 b0c247af24ce429e9df477146a5d8044 sha1 081bffd492c77aef47e90c7f73cc59dd108e6d6c )
+)
+
+game (
+	name "Klademiner (1996)(Bitmunchers)"
+	description "Klademiner (1996)(Bitmunchers)"
+	rom ( name "Klademiner (1996)(Bitmunchers).trd" size 40448 crc e3060321 md5 134013cf8ac042b5c5fe23b6c573922f sha1 832e27755615d232b59773bad0417129ce660743 )
+)
+
+game (
+	name "Kluxer (demo) (1999)(Jeez)"
+	description "Kluxer (demo) (1999)(Jeez)"
+	rom ( name "Kluxer (demo) (1999)(Jeez).trd" size 32512 crc 4a4d9cbd md5 1c470a8a004b38808ca28d68f3463c81 sha1 354de49ccc7c0d2da3f72054f7dbd072905a8be8 )
+)
+
+game (
+	name "Kolobok (1996)(A. Bazarkin)(ru)"
+	description "Kolobok (1996)(A. Bazarkin)(ru)"
+	rom ( name "Kolobok (1996)(A. Bazarkin)(ru).trd" size 28416 crc e0fcc3a0 md5 6be003a9b1085f23d17280eb1d0bebae sha1 3776d1995508914b84d9d91b20dd5377a5e65507 )
+)
+
+game (
+	name "Kolobok (demo) (1995)(Softwarrior)(ru)"
+	description "Kolobok (demo) (1995)(Softwarrior)(ru)"
+	rom ( name "Kolobok (demo) (1995)(Softwarrior)(ru).trd" size 30976 crc 518c7093 md5 3af782bce9ed0a7ae599b47fccc37d4d sha1 ede8ab9cc91c47b1ffd80b1b31a198d7fb94297f )
+)
+
+game (
+	name "Kolobok Zoom - Teenage Mutant Hero (demo) (1998)(Asphyxia)"
+	description "Kolobok Zoom - Teenage Mutant Hero (demo) (1998)(Asphyxia)"
+	rom ( name "Kolobok Zoom - Teenage Mutant Hero (demo) (1998)(Asphyxia).trd" size 34560 crc 5d46b26a md5 e0b24b5937739dfb0d7470837227f261 sha1 01227cfac3138794a1abbf0a68d1b05d9ea9fda1 )
+)
+
+game (
+	name "Kolobok Zoom 2 - In the Unfair World (1998)(Ashyxia - Fatality)"
+	description "Kolobok Zoom 2 - In the Unfair World (1998)(Ashyxia - Fatality)"
+	rom ( name "Kolobok Zoom 2 - In the Unfair World (1998)(Ashyxia - Fatality).trd" size 258560 crc 2e24e650 md5 a92e35ac955f06c6984bd3bc3860dc7a sha1 cccbb1a24308fd98b543b9076e19ae21f8a2efb9 )
+)
+
+game (
+	name "Kombatris (19xx)(Kingdom Dreams)(ru)"
+	description "Kombatris (19xx)(Kingdom Dreams)(ru)"
+	rom ( name "Kombatris (19xx)(Kingdom Dreams)(ru).trd" size 62208 crc ed2d2bd3 md5 fddbdfd27b3a782099770d35e4f20e72 sha1 6ac28e81bfed7f9d4f1307ebbaa29132a3da53f0 )
+)
+
+game (
+	name "Korabliki (1999)(Alexander Sizenko)(ru)"
+	description "Korabliki (1999)(Alexander Sizenko)(ru)"
+	rom ( name "Korabliki (1999)(Alexander Sizenko)(ru).trd" size 71936 crc 30db03a4 md5 cc8050c660b4f0b98612f4d9e5932954 sha1 2d55918468ea9dc6461709e3eb26cd267a6026d1 )
+)
+
+game (
+	name "Korolyestvo Eyforiya (1990)(Silva Soft)(ru)"
+	description "Korolyestvo Eyforiya (1990)(Silva Soft)(ru)"
+	rom ( name "Korolyestvo Eyforiya (1990)(Silva Soft)(ru).trd" size 30720 crc 385eaee3 md5 afe3c2014e4fdfb46aab449de1d2f34a sha1 080b6cccdd769a851d17a90151b17ca687f9c330 )
+)
+
+game (
+	name "Kosti Pokyer (1996)(Auryn Creative Group)(ru)"
+	description "Kosti Pokyer (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Kosti Pokyer (1996)(Auryn Creative Group)(ru).trd" size 21248 crc 2ffdb2f7 md5 e65cafd42ad6f638cb38acd4c855c0f7 sha1 78b3c7d232a61ded5e2ffaad52deb5430a5bcc5d )
+)
+
+game (
+	name "Kozyol (1999)(Accept)(ru)"
+	description "Kozyol (1999)(Accept)(ru)"
+	rom ( name "Kozyol (1999)(Accept)(ru).trd" size 55552 crc 0c5debc5 md5 f7e1ae6325cab527e32ab6269d760144 sha1 af1f94608369f537e8bc249621e0f846ecff77b9 )
+)
+
+game (
+	name "Krakout (1987)(Gremlin Graphics Software)[h Bes]"
+	description "Krakout (1987)(Gremlin Graphics Software)[h Bes]"
+	rom ( name "Krakout (1987)(Gremlin Graphics Software)[h Bes].trd" size 147456 crc 1823fa7d md5 f3863e150ddbbb29866bf725b74a1a5f sha1 692f4f79e96850bcc07daff4702d5873831d7c65 )
+)
+
+game (
+	name "Kribyedzh (1992)(Inforcom)(ru)"
+	description "Kribyedzh (1992)(Inforcom)(ru)"
+	rom ( name "Kribyedzh (1992)(Inforcom)(ru).trd" size 23040 crc 642ffcb4 md5 a6401bf8928e146c90c1ce0d21b17377 sha1 6bd194cc121faec13efa11c28f2389e4344ef722 )
+)
+
+game (
+	name "Kryestiki Noliki (1997)(Phantom Family)(ru)"
+	description "Kryestiki Noliki (1997)(Phantom Family)(ru)"
+	rom ( name "Kryestiki Noliki (1997)(Phantom Family)(ru).trd" size 17664 crc 1a1150ff md5 3259b5cb60c8b32287467fd3313d23e4 sha1 1391157d07c622dd8b69ac0a00179500eeb7f28a )
+)
+
+game (
+	name "Kryestiki Noliki (1997)(Serachan)(ru)"
+	description "Kryestiki Noliki (1997)(Serachan)(ru)"
+	rom ( name "Kryestiki Noliki (1997)(Serachan)(ru).trd" size 24320 crc f8aba472 md5 72a339a68bb91a695b0dbf6f38d0a6ac sha1 1401721a4bb24d98bc3ef2a78bf4975eb9663167 )
+)
+
+game (
+	name "Kubiki Kossa (1995)(Vadim Bodrov)(ru)"
+	description "Kubiki Kossa (1995)(Vadim Bodrov)(ru)"
+	rom ( name "Kubiki Kossa (1995)(Vadim Bodrov)(ru).trd" size 41216 crc c0736d7f md5 e8ae1539bce6a765228016b49eb9e7a0 sha1 352e8c1888dc7744a8ccb2418d9fcf133446fcca )
+)
+
+game (
+	name "Kulikovskaya Bitva (1994)(WE Group)(ru)"
+	description "Kulikovskaya Bitva (1994)(WE Group)(ru)"
+	rom ( name "Kulikovskaya Bitva (1994)(WE Group)(ru).trd" size 21760 crc 0c160ad5 md5 18e8474f7eb11c8b4d2aaffb51144859 sha1 e9e45d00cad87e08074e254b4b4ad0ecb3d94c5f )
+)
+
+game (
+	name "Labirint 8 (19xx)(Sergey Mesanov)"
+	description "Labirint 8 (19xx)(Sergey Mesanov)"
+	rom ( name "Labirint 8 (19xx)(Sergey Mesanov).trd" size 55296 crc 5cb45bed md5 c02a897c84bec5d9ceb07169ccf36b7d sha1 26bce665a7129b3e9d8f46373e01c01cf4d7f35b )
+)
+
+game (
+	name "Labirinty Smyerti (demo) (19xx)(02-S Soft)(ru)"
+	description "Labirinty Smyerti (demo) (19xx)(02-S Soft)(ru)"
+	rom ( name "Labirinty Smyerti (demo) (19xx)(02-S Soft)(ru).trd" size 145408 crc dbd73707 md5 a57c27dd037ba8b6efc7324f89225b05 sha1 52083135254ef8a00d40e2af210033ff064e9c1d )
+)
+
+game (
+	name "Lancelot (1988)(Mandarin Software)[h]"
+	description "Lancelot (1988)(Mandarin Software)[h]"
+	rom ( name "Lancelot (1988)(Mandarin Software)[h].trd" size 655360 crc 12eddbcb md5 304d071cb11e816731e7fcda38df00a3 sha1 d4d9e3d26573927045731827297142c46bbd4770 )
+)
+
+game (
+	name "Last Battle (1996)(Hackers Squad)(ru)"
+	description "Last Battle (1996)(Hackers Squad)(ru)"
+	rom ( name "Last Battle (1996)(Hackers Squad)(ru).trd" size 419584 crc 7b3fbfed md5 4bc75588f7bfe479e90fd13ba2db6e05 sha1 e649e1f1eca0324f6e8dcda04e06a222ac11afb5 )
+)
+
+game (
+	name "Last Battle - Mission Editor (1997)(Pro Hackers Dynasty)(ru)"
+	description "Last Battle - Mission Editor (1997)(Pro Hackers Dynasty)(ru)"
+	rom ( name "Last Battle - Mission Editor (1997)(Pro Hackers Dynasty)(ru).trd" size 35840 crc 3b3f8f60 md5 0c3cd487781d2a2fdfbe7c392d332dda sha1 14fb22d39146fd2629961fe8766acc51c919b238 )
+)
+
+game (
+	name "Last Courier, The (1997)(Perspective Group)"
+	description "Last Courier, The (1997)(Perspective Group)"
+	rom ( name "Last Courier, The (1997)(Perspective Group).trd" size 63488 crc 40bc7f1b md5 8818a17e4ca7a3108845f34e55c8b7a4 sha1 e6b4e87a6eec8d484968e2e357b1cb370a6c6729 )
+)
+
+game (
+	name "Last Courier, The - Levels Editor v1.4 (1997)(Perspective Group)"
+	description "Last Courier, The - Levels Editor v1.4 (1997)(Perspective Group)"
+	rom ( name "Last Courier, The - Levels Editor v1.4 (1997)(Perspective Group).trd" size 7168 crc 1b0179b1 md5 7767ba74d6bcb2deaeb6da5fa5f0959a sha1 b4ee84bc8af6908947e44ae6c5175d278f48a1a3 )
+)
+
+game (
+	name "Last Hero of the Light Force (demo) (1996)(Delirium Hackers Group)(ru)"
+	description "Last Hero of the Light Force (demo) (1996)(Delirium Hackers Group)(ru)"
+	rom ( name "Last Hero of the Light Force (demo) (1996)(Delirium Hackers Group)(ru).trd" size 48640 crc 5d48ba3d md5 419e085f01b56c37b48b57bb60887234 sha1 a7dc06039ff12f469bafe4b2b3da2962f1e54700 )
+)
+
+game (
+	name "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 1 of 2)"
+	description "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 1 of 2)"
+	rom ( name "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 1 of 2).trd" size 655360 crc 9d53cf37 md5 aec7356f8898e1caa348be17733b9ca2 sha1 6db3ba89bcc082be1dfce3214d7fe9f96c1a4a82 )
+)
+
+game (
+	name "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 2 of 2)"
+	description "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 2 of 2)"
+	rom ( name "Last Hero of the Light Force - Book (1998)(Excess Team)(ru)(Disk 2 of 2).trd" size 234752 crc a3508ca4 md5 3e0cd3cfa937aa695c5a20247d495fc6 sha1 06549233b00ea3dbbe73fc283313a33640256d81 )
+)
+
+game (
+	name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2)"
+	description "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2)"
+	rom ( name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2).trd" size 655360 crc b7f5d841 md5 c16c27e0ed018e66f670a8fbe9c1a550 sha1 e4764427a85f3b4b3417d4c99afa630bcf84e1dd )
+)
+
+game (
+	name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2)[a]"
+	description "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2)[a]"
+	rom ( name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 1 of 2)[a].trd" size 655360 crc bc0f6f97 md5 7dc2c0e773ff71e8c3e4df4d380d1e53 sha1 c973fec5ac16147e9eebf8a9eb89da333c91d073 )
+)
+
+game (
+	name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 2 of 2)"
+	description "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 2 of 2)"
+	rom ( name "Last Hero of the Light Force - Part 1 - Orc's Lair (1998)(Excess Team)(ru)(Disk 2 of 2).trd" size 655360 crc 8b19fb52 md5 32ccbf7aa1c89fa07e096a0675f73739 sha1 929d26f680c360786126ecd23264a77e1ef6ae0f )
+)
+
+game (
+	name "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru)"
+	description "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru)"
+	rom ( name "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru).trd" size 243200 crc e0512826 md5 1e87f3d34073d39bb2611344c89891cb sha1 a3068eae9d190a3bbcf3ccfba227431f73986965 )
+)
+
+game (
+	name "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru)[a]"
+	description "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru)[a]"
+	rom ( name "Last Hero of the Light Force - Part 1 - Orc's Lair (demo) (1997)(Excess Team)(ru)[a].trd" size 655360 crc 2208c37a md5 f3e705936dfc7b29b9b539651d266c8e sha1 18cc72789e02a83680c71d50eb086ee13913cb66 )
+)
+
+game (
+	name "Last Will Dizzy (1993)(Oleg Moskalenko)"
+	description "Last Will Dizzy (1993)(Oleg Moskalenko)"
+	rom ( name "Last Will Dizzy (1993)(Oleg Moskalenko).trd" size 60672 crc 44694c73 md5 5aa7f5766147236024fe7af12d63a53c sha1 babffd6e3d4d6ea0d725347b09d80193dc35d97e )
+)
+
+game (
+	name "Lee Enfield (1988)(Infogrames)[h Bes]"
+	description "Lee Enfield (1988)(Infogrames)[h Bes]"
+	rom ( name "Lee Enfield (1988)(Infogrames)[h Bes].trd" size 176128 crc 87f04608 md5 e2af59ec8ccbddc51805b337fb497870 sha1 1eae5cce58a0e7c8cfd7c5b30aa7012b887a972c )
+)
+
+game (
+	name "Leprekon (1998)(Omega Hackers Group)(ru)"
+	description "Leprekon (1998)(Omega Hackers Group)(ru)"
+	rom ( name "Leprekon (1998)(Omega Hackers Group)(ru).trd" size 45568 crc 8b11a086 md5 302cefa7664cf80a3fc94f2cb8f3a809 sha1 ca70d15a01af3628689b44bca3b030cb7e53826e )
+)
+
+game (
+	name "Life (demo) (19xx)(Supervisor)(ru)"
+	description "Life (demo) (19xx)(Supervisor)(ru)"
+	rom ( name "Life (demo) (19xx)(Supervisor)(ru).trd" size 13312 crc 25c70973 md5 f40f4d1a352186076d35b9c778046145 sha1 14ca0f12afc5b740f08b985be7065dcc093b64fd )
+)
+
+game (
+	name "Lightly Fields (1997)(Magic Moon)(ru)"
+	description "Lightly Fields (1997)(Magic Moon)(ru)"
+	rom ( name "Lightly Fields (1997)(Magic Moon)(ru).trd" size 94976 crc ad740251 md5 5c79685616e509476ea48e8345bf3eb4 sha1 2e82e7d605128edb48c080bd4032875842a334b8 )
+)
+
+game (
+	name "Lode Runner 3 (1995)(Biotech Software)(ru)"
+	description "Lode Runner 3 (1995)(Biotech Software)(ru)"
+	rom ( name "Lode Runner 3 (1995)(Biotech Software)(ru).trd" size 100352 crc 00575d5a md5 7e9142886de07575dccbb85300984bc0 sha1 ca4a23cdcfeff84726388823f03311aa2550aa6d )
+)
+
+game (
+	name "LSF! (demo) (1994)(-)(ru)"
+	description "LSF! (demo) (1994)(-)(ru)"
+	rom ( name "LSF! (demo) (1994)(-)(ru).trd" size 47104 crc 8cbae066 md5 0604e22ee7617b7d48b01eee7b493c24 sha1 8bddcb078807c46b0eef8eddc5faa8a9c9b615ef )
+)
+
+game (
+	name "Lunolyet 2 (1992)(Alexey Baushkin)(ru)[h Power of Sound]"
+	description "Lunolyet 2 (1992)(Alexey Baushkin)(ru)[h Power of Sound]"
+	rom ( name "Lunolyet 2 (1992)(Alexey Baushkin)(ru)[h Power of Sound].trd" size 17920 crc 9ec72f77 md5 68731ac6e9850704357fd5cc18eafd65 sha1 272fc306271868db90088d20e1905b8ba296834f )
+)
+
+game (
+	name "Mad Balls (1994)(Vadim Bodrov)"
+	description "Mad Balls (1994)(Vadim Bodrov)"
+	rom ( name "Mad Balls (1994)(Vadim Bodrov).trd" size 112640 crc bd5d6fbe md5 87cc0be2276f4286454210df6baeb608 sha1 dc48fbeb4e5eaa7bca6c08b7834814cc028570ae )
+)
+
+game (
+	name "Magic Block (1995)(DAB Laboratory)(ru)"
+	description "Magic Block (1995)(DAB Laboratory)(ru)"
+	rom ( name "Magic Block (1995)(DAB Laboratory)(ru).trd" size 59136 crc 98ed7e23 md5 5d2911af1aca14c197a1c9581eaf9d69 sha1 a335b7b359dba412fb8ea0451d9157b8ba87cf86 )
+)
+
+game (
+	name "Magic Lines (1995)(Random Science Crew)(ru)"
+	description "Magic Lines (1995)(Random Science Crew)(ru)"
+	rom ( name "Magic Lines (1995)(Random Science Crew)(ru).trd" size 20224 crc 561a33ce md5 00a0f1973f9fb6bd66bbbfe8f63445d1 sha1 126c88006244e70e8cfd36064c4922b423e48b7b )
+)
+
+game (
+	name "Magic of Logic, The (1996)(Demos and Games Makers Software)"
+	description "Magic of Logic, The (1996)(Demos and Games Makers Software)"
+	rom ( name "Magic of Logic, The (1996)(Demos and Games Makers Software).trd" size 118016 crc fc1fd06a md5 f6f7d4adb35d232937b221962084f941 sha1 943552e7767792e53656825c126d4b7a4af2bff1 )
+)
+
+game (
+	name "Magic Story (1994)(Vadim Bodrov)(ru)"
+	description "Magic Story (1994)(Vadim Bodrov)(ru)"
+	rom ( name "Magic Story (1994)(Vadim Bodrov)(ru).trd" size 50432 crc bf188748 md5 90251fb00dd58822ea506b972a1ea4ad sha1 f54343ab8eeb388e3d7193db429c3de42a719d9f )
+)
+
+game (
+	name "Magician from Oz (1997)(Famous Faces Factory)(ru)"
+	description "Magician from Oz (1997)(Famous Faces Factory)(ru)"
+	rom ( name "Magician from Oz (1997)(Famous Faces Factory)(ru).trd" size 65792 crc 39270322 md5 f16003d565e5811387875bb3235a6d2d sha1 d2511b92f5e753c7ffe27d2cd06e011587921946 )
+)
+
+game (
+	name "Magician from Oz (demo) (1996)(Famous Faces Factory)(ru)"
+	description "Magician from Oz (demo) (1996)(Famous Faces Factory)(ru)"
+	rom ( name "Magician from Oz (demo) (1996)(Famous Faces Factory)(ru).trd" size 41728 crc ea9569c7 md5 90768aba6471afb1850ff39860c3eeab sha1 b62c1fe60bf29cc2e84ce3102e3e4d38f5b42e67 )
+)
+
+game (
+	name "Magicians Land (1996)(Precision)(ru)"
+	description "Magicians Land (1996)(Precision)(ru)"
+	rom ( name "Magicians Land (1996)(Precision)(ru).trd" size 58368 crc 0d52fac7 md5 e2329b68360c48c7f3cfedf80ca64237 sha1 8201fc102f6b207079747ed19da29e67510fda96 )
+)
+
+game (
+	name "Main Blow, The (1994)(Chip - Rocky)(ru)"
+	description "Main Blow, The (1994)(Chip - Rocky)(ru)"
+	rom ( name "Main Blow, The (1994)(Chip - Rocky)(ru).trd" size 38400 crc efe57350 md5 2e68a0bdba83f50ef21b3631d1e0d094 sha1 04407e2d9c4db7f6225db062f4f548545ea51231 )
+)
+
+game (
+	name "Manager (19xx)(-)(ru)"
+	description "Manager (19xx)(-)(ru)"
+	rom ( name "Manager (19xx)(-)(ru).trd" size 35328 crc c485c104 md5 f8d885203a4bafb5fd7ba21dbcaf1c21 sha1 802610fda7b08310a40b6fab2997edcb6baf234e )
+)
+
+game (
+	name "Marbles (1999)(Blade Software)(ru)"
+	description "Marbles (1999)(Blade Software)(ru)"
+	rom ( name "Marbles (1999)(Blade Software)(ru).trd" size 41984 crc e65d98fb md5 a8915d50348d8a8420704b2041a9a578 sha1 643ce5b140cfdfa4b44089c0a46a96fae848b091 )
+)
+
+game (
+	name "Margo Puzzle (1997)(Fatality)(ru)"
+	description "Margo Puzzle (1997)(Fatality)(ru)"
+	rom ( name "Margo Puzzle (1997)(Fatality)(ru).trd" size 30720 crc da111bc1 md5 5247119988374d81134b81ccf16f3eca sha1 d531f65c0a4c63910691323330077c929b95ce53 )
+)
+
+game (
+	name "Mario Islands (demo) (1997)(Omega Hackers Group)"
+	description "Mario Islands (demo) (1997)(Omega Hackers Group)"
+	rom ( name "Mario Islands (demo) (1997)(Omega Hackers Group).trd" size 50688 crc 511ee024 md5 4d979441fc771c32c7727488de862803 sha1 e01c4f5aeeabee716cc5babb130bc1a53cf5bfcb )
+)
+
+game (
+	name "Mars Red (1992)(THD)(ru)"
+	description "Mars Red (1992)(THD)(ru)"
+	rom ( name "Mars Red (1992)(THD)(ru).trd" size 68352 crc 4fbf64f1 md5 7e24add9105ac660e4f0a8ec1d2c92b5 sha1 789dfd86a375d50188636c89092291ff2655e85e )
+)
+
+game (
+	name "Master of Orion (1997)(Phantom Family)"
+	description "Master of Orion (1997)(Phantom Family)"
+	rom ( name "Master of Orion (1997)(Phantom Family).trd" size 396800 crc e634d692 md5 9cd9b07aa323780465e934dd558b5ae4 sha1 441d0f3f9fb02d49f97177edf6135400fd506930 )
+)
+
+game (
+	name "Mega Boom (demo) (1999)(Alliance)(ru)"
+	description "Mega Boom (demo) (1999)(Alliance)(ru)"
+	rom ( name "Mega Boom (demo) (1999)(Alliance)(ru).trd" size 43520 crc 39471cd3 md5 5eeab4047968b2dfc21647c987bda861 sha1 0f885a4f7a57accb33ec84a50039ac20ee4be749 )
+)
+
+game (
+	name "Mega Color Lines (1995)(Mortal Kombat)(ru)"
+	description "Mega Color Lines (1995)(Mortal Kombat)(ru)"
+	rom ( name "Mega Color Lines (1995)(Mortal Kombat)(ru).trd" size 33280 crc 2185a5bc md5 f2ab36f6916330bfe112a085e7491a78 sha1 c3e4236fe58c5134c2d3477876ee1dc2be21eb5e )
+)
+
+game (
+	name "Mega Tetris 2000 (demo) (1999)(Push - DGMS)(ru)"
+	description "Mega Tetris 2000 (demo) (1999)(Push - DGMS)(ru)"
+	rom ( name "Mega Tetris 2000 (demo) (1999)(Push - DGMS)(ru).trd" size 24576 crc 007c41d1 md5 42a31ff0dfaf294c939b4eb3aa04966a sha1 46bd86827e6714b532f638f947e0004ba419b4f4 )
+)
+
+game (
+	name "Mega Xonix (1994)(Dimitry Volvach)(ru)[h Artur Avenger]"
+	description "Mega Xonix (1994)(Dimitry Volvach)(ru)[h Artur Avenger]"
+	rom ( name "Mega Xonix (1994)(Dimitry Volvach)(ru)[h Artur Avenger].trd" size 67584 crc 0b841715 md5 d95bafaaf8b324288fce0ea914a4e4c2 sha1 f86f51dde4f611585975cca554f63eba884953b8 )
+)
+
+game (
+	name "Megaball (demo) (1996)(Digital Reality)"
+	description "Megaball (demo) (1996)(Digital Reality)"
+	rom ( name "Megaball (demo) (1996)(Digital Reality).trd" size 89088 crc 9944cad7 md5 ed9c5b5013fa7674fd8e397207abcdfe sha1 2572be23303db0f1d29b6a163b96d9d416e5e6ea )
+)
+
+game (
+	name "Memory Blocks (19xx)(E.F.S. Production)"
+	description "Memory Blocks (19xx)(E.F.S. Production)"
+	rom ( name "Memory Blocks (19xx)(E.F.S. Production).trd" size 51456 crc a685f1d6 md5 1a1ba2e664783811c59b77fb52a89756 sha1 0e2b94c3273bcf298112fb1ac7335ecc1b2d48a3 )
+)
+
+game (
+	name "Minelayer (1996)(Dmitriy Gerasimov)[h Alex Art][t]"
+	description "Minelayer (1996)(Dmitriy Gerasimov)[h Alex Art][t]"
+	rom ( name "Minelayer (1996)(Dmitriy Gerasimov)[h Alex Art][t].trd" size 655360 crc 215c0271 md5 425bc8acf1c66a6aecdcff9d61f06e88 sha1 1b80218b85811f8aa70a020563ff9fd262c2149f )
+)
+
+game (
+	name "Miner (1994)(Sergey Kurganov)(ru)"
+	description "Miner (1994)(Sergey Kurganov)(ru)"
+	rom ( name "Miner (1994)(Sergey Kurganov)(ru).trd" size 13312 crc 20b02d77 md5 76f70eec20e2f10510b0132ee5e14f0f sha1 f7b66a7ba3dd1ad51ad2b9501ac3f7dc46815c24 )
+)
+
+game (
+	name "Miner (1994)(Vlad)(ru)"
+	description "Miner (1994)(Vlad)(ru)"
+	rom ( name "Miner (1994)(Vlad)(ru).trd" size 78848 crc f7ef1df8 md5 d931b6695a813bf01e4da965cba35964 sha1 b296c851c08c3cf67708162ebd9aa624967acf20 )
+)
+
+game (
+	name "Miner (1995)(Demon Graphics)(ru)"
+	description "Miner (1995)(Demon Graphics)(ru)"
+	rom ( name "Miner (1995)(Demon Graphics)(ru).trd" size 25344 crc 6a532a66 md5 61e51f387ba7bb4e03b954e5623c9fff sha1 6262091d50a761bb0526591ee38c58530041aa04 )
+)
+
+game (
+	name "Miner (1995)(Simple Company)(ru)"
+	description "Miner (1995)(Simple Company)(ru)"
+	rom ( name "Miner (1995)(Simple Company)(ru).trd" size 24320 crc 8248d7bb md5 952a9c0f800b7facda8f136316d65b19 sha1 b5d97e01cdba033a61abade17628959a898fdad7 )
+)
+
+game (
+	name "Miner (1998)(Vitamin)(ru)"
+	description "Miner (1998)(Vitamin)(ru)"
+	rom ( name "Miner (1998)(Vitamin)(ru).trd" size 23040 crc 42d886c2 md5 84209c26d0652c518f729695ffacf24e sha1 3c26aff254232b24d1e418c1b4297e88f4bb55ec )
+)
+
+game (
+	name "Miner (demo) (19xx)(MixSoft)(ru)"
+	description "Miner (demo) (19xx)(MixSoft)(ru)"
+	rom ( name "Miner (demo) (19xx)(MixSoft)(ru).trd" size 21504 crc 0c5f342a md5 135baa68a2aed2192b69638188ff4d82 sha1 bd0e040024116f877ac4142d92841cfbcd889fca )
+)
+
+game (
+	name "Minesweeper (1994)(Evgeny Chudinov)(ru)"
+	description "Minesweeper (1994)(Evgeny Chudinov)(ru)"
+	rom ( name "Minesweeper (1994)(Evgeny Chudinov)(ru).trd" size 14080 crc dcc565d5 md5 ddcc76468358cfb1ed0bebcb61a500aa sha1 652dee31a196d81cfb23498abbda78015f787ad3 )
+)
+
+game (
+	name "Minesweeper (1995)(Dr. Li - Tiger Core)"
+	description "Minesweeper (1995)(Dr. Li - Tiger Core)"
+	rom ( name "Minesweeper (1995)(Dr. Li - Tiger Core).trd" size 33536 crc e42cf82d md5 5290b80f5224764becd311221e1cc7e0 sha1 0ee02289edd0b6a0f019be9afa5ab172912c073f )
+)
+
+game (
+	name "Minesweeper (1997)(PancSoft)"
+	description "Minesweeper (1997)(PancSoft)"
+	rom ( name "Minesweeper (1997)(PancSoft).trd" size 12800 crc 303b4a93 md5 a4b550e316e6492d6f1ccfcf68408c8a sha1 8033126a4e131a96658c79e8ce27eda83dd68270 )
+)
+
+game (
+	name "Mini Fly (1994)(Galaxy)(ru)"
+	description "Mini Fly (1994)(Galaxy)(ru)"
+	rom ( name "Mini Fly (1994)(Galaxy)(ru).trd" size 49920 crc 2ca87100 md5 77ede6e68bcc9a6110b2f2ecd817c9b3 sha1 b615e478c3c43dd1c19232db35c9f758dd54c0ce )
+)
+
+game (
+	name "Mirror (1998)(Art Work Creative Group)(ru)"
+	description "Mirror (1998)(Art Work Creative Group)(ru)"
+	rom ( name "Mirror (1998)(Art Work Creative Group)(ru).trd" size 655360 crc 483bb217 md5 3d43b2debf5501c210cf33c754776f64 sha1 8928ddd923049e66031f461cab6fda2df77d2710 )
+)
+
+game (
+	name "Mirror (1998)(Art Work Creative Group)(ru)[h Optical Brothers]"
+	description "Mirror (1998)(Art Work Creative Group)(ru)[h Optical Brothers]"
+	rom ( name "Mirror (1998)(Art Work Creative Group)(ru)[h Optical Brothers].trd" size 655360 crc 272ad979 md5 fef3c6b2b285bdb0a06f8d9c418a67a0 sha1 2d5eda9748131ec3adb3116adc0fbbb5e6fb3179 )
+)
+
+game (
+	name "Mirror (demo) (1998)(Art Work Creative Group)(ru)"
+	description "Mirror (demo) (1998)(Art Work Creative Group)(ru)"
+	rom ( name "Mirror (demo) (1998)(Art Work Creative Group)(ru).trd" size 100352 crc 8151afbb md5 7cac02aa83b22ba5315764ea1176d029 sha1 7f7be0b2a39ee6521794ce53759e7997e7eef05d )
+)
+
+game (
+	name "Mission, The (1997)(Techno Space Software)(ru)"
+	description "Mission, The (1997)(Techno Space Software)(ru)"
+	rom ( name "Mission, The (1997)(Techno Space Software)(ru).trd" size 655360 crc f71dbbcf md5 ad9d074185bde5e0bec76e7520a07996 sha1 46da4cfaf7a0c30bc901c182783a2571629e0117 )
+)
+
+game (
+	name "Mobile Wars (1998)(Mythos)"
+	description "Mobile Wars (1998)(Mythos)"
+	rom ( name "Mobile Wars (1998)(Mythos).trd" size 25344 crc a21a93d6 md5 44b60022d88449d3ebc9c47463c59b0e sha1 71b9e5b93e3c4f5c74d358b808b6ac433c93bdf8 )
+)
+
+game (
+	name "Monstrland - Testimony of the Ancient (1998)(Rage Creative Group)(ru)[h Mayhem]"
+	description "Monstrland - Testimony of the Ancient (1998)(Rage Creative Group)(ru)[h Mayhem]"
+	rom ( name "Monstrland - Testimony of the Ancient (1998)(Rage Creative Group)(ru)[h Mayhem].trd" size 257536 crc 8d89d74e md5 d9e9b70f6f0251687f9054128760b3ae sha1 f0bea9186771b757f6f63e2e4067dfcfbc81f659 )
+)
+
+game (
+	name "Monstrland - Testimony of the Ancient (demo) (1998)(Rage Creative Group)(ru)"
+	description "Monstrland - Testimony of the Ancient (demo) (1998)(Rage Creative Group)(ru)"
+	rom ( name "Monstrland - Testimony of the Ancient (demo) (1998)(Rage Creative Group)(ru).trd" size 120320 crc 8046aa7f md5 fe410bb59d96e43e797b85922edea0c8 sha1 b6a3b0920a5c4ce9809b6b242aa1264c1553af6a )
+)
+
+game (
+	name "Monstrland 2 - Mist (demo) (1999)(Rage Creative Group)(ru)"
+	description "Monstrland 2 - Mist (demo) (1999)(Rage Creative Group)(ru)"
+	rom ( name "Monstrland 2 - Mist (demo) (1999)(Rage Creative Group)(ru).trd" size 65280 crc 9603b15a md5 fc33f5f1bf2063be2bf09150c4bf5928 sha1 e7aefa85951e40de8f5ba0c1dc3dcd7c440e05d5 )
+)
+
+game (
+	name "Mortal Kombat (demo) (1997)(XL-Design)"
+	description "Mortal Kombat (demo) (1997)(XL-Design)"
+	rom ( name "Mortal Kombat (demo) (1997)(XL-Design).trd" size 125696 crc c5d666a9 md5 34770d167733b39ca6426f4c99a0e066 sha1 9af67b75578ba25d4223456e065dfa554acb4284 )
+)
+
+game (
+	name "Mortal Kombat (demo) (1997)(XL-Design)(ru)"
+	description "Mortal Kombat (demo) (1997)(XL-Design)(ru)"
+	rom ( name "Mortal Kombat (demo) (1997)(XL-Design)(ru).trd" size 655360 crc ffcb23f7 md5 6ed6b196499f1d314d848de19ffb9020 sha1 85020ec21d55a27c7d10cc83d2a65b23badad6d6 )
+)
+
+game (
+	name "Mortal Kombat (demo) (1997)(XL-Design)(ru)[a]"
+	description "Mortal Kombat (demo) (1997)(XL-Design)(ru)[a]"
+	rom ( name "Mortal Kombat (demo) (1997)(XL-Design)(ru)[a].trd" size 655360 crc a52f1d19 md5 425973c7bd54aece2fb54efed0b604d7 sha1 48a9f4257a1b3445de8d819e0e8cf3160028d1d4 )
+)
+
+game (
+	name "Mortal Kombat (demo) (1997)(XL-Design)[a]"
+	description "Mortal Kombat (demo) (1997)(XL-Design)[a]"
+	rom ( name "Mortal Kombat (demo) (1997)(XL-Design)[a].trd" size 64768 crc 2c7cb33e md5 5d52a92ccfbf6b50ace19734def5ac40 sha1 a45a1c530f6e7381372e4d4536dc0c3c88faef35 )
+)
+
+game (
+	name "Move'em All (1996)(KeySoft)(ru)"
+	description "Move'em All (1996)(KeySoft)(ru)"
+	rom ( name "Move'em All (1996)(KeySoft)(ru).trd" size 9728 crc ade7b0d9 md5 8eaebadd0ccaf66efcf842f999e99482 sha1 fcdf564e906b45ccd708e29fe007ad5a5b566339 )
+)
+
+game (
+	name "Msweeper (1995)(MiPH&T Hackers Club)"
+	description "Msweeper (1995)(MiPH&T Hackers Club)"
+	rom ( name "Msweeper (1995)(MiPH&T Hackers Club).trd" size 14336 crc 33964d6c md5 aee6b21c6d4a97d22c0607267f38d816 sha1 b10349d734d1ed9eeead3445f5cfff2d3da6b4cf )
+)
+
+game (
+	name "Murk 3320 (1996)(Wanderer)(ru)"
+	description "Murk 3320 (1996)(Wanderer)(ru)"
+	rom ( name "Murk 3320 (1996)(Wanderer)(ru).trd" size 40192 crc b1ce1d14 md5 a3ba290f198e2ca221ad011ef29f0e02 sha1 049ca448e5c16a7d7591e7fa771069d57626af4f )
+)
+
+game (
+	name "Must Die Adventures (demo) (1997)(FX Illusion)"
+	description "Must Die Adventures (demo) (1997)(FX Illusion)"
+	rom ( name "Must Die Adventures (demo) (1997)(FX Illusion).trd" size 46336 crc e314008d md5 416dd6001a736262b6fd5f204339f1f3 sha1 93259487bec0d9402bb5602bf2ae3523663abdd7 )
+)
+
+game (
+	name "Myentura (19xx)(Phantom)(ru)"
+	description "Myentura (19xx)(Phantom)(ru)"
+	rom ( name "Myentura (19xx)(Phantom)(ru).trd" size 109312 crc 14b3dfd2 md5 b3148e748753b308cc1124352c53ce1e sha1 908b3df640df7e0a5633493750ffd51bcf741542 )
+)
+
+game (
+	name "Mystery of Captain Shelton (demo) (1997)(Wave)(ru)"
+	description "Mystery of Captain Shelton (demo) (1997)(Wave)(ru)"
+	rom ( name "Mystery of Captain Shelton (demo) (1997)(Wave)(ru).trd" size 254976 crc 653dcefd md5 4eda8f4157ef0ef7c5e562f12775cd22 sha1 be20e334f6fde3469b1f27505a843369e48ee5e4 )
+)
+
+game (
+	name "Net Walk, The (1998)(Style)(ru)(Disk 1 of 2)"
+	description "Net Walk, The (1998)(Style)(ru)(Disk 1 of 2)"
+	rom ( name "Net Walk, The (1998)(Style)(ru)(Disk 1 of 2).trd" size 655360 crc 370722e4 md5 bfe988e3dbe9dc21d870262a3c0ff5d9 sha1 a8773540e35084e6510b5121b406081e3ac6e835 )
+)
+
+game (
+	name "Net Walk, The (1998)(Style)(ru)(Disk 2 of 2)"
+	description "Net Walk, The (1998)(Style)(ru)(Disk 2 of 2)"
+	rom ( name "Net Walk, The (1998)(Style)(ru)(Disk 2 of 2).trd" size 655360 crc 4719bcf2 md5 ed62ad773f4fd320256645ae9f63e8b6 sha1 530b3534d1ba3bb1a30d01c8a03463cc2621b18e )
+)
+
+game (
+	name "Netwalk (1999)(Faceoff Association)"
+	description "Netwalk (1999)(Faceoff Association)"
+	rom ( name "Netwalk (1999)(Faceoff Association).trd" size 299776 crc d661f6c5 md5 b7e4f4c7db06e2c63bd2004fd92ee555 sha1 3e4fc359837d2a4c60757873168b0e28983373b3 )
+)
+
+game (
+	name "New Dizzy (1993)(N. Kutin - D. Paltusov)(ru)[h Sliders][t]"
+	description "New Dizzy (1993)(N. Kutin - D. Paltusov)(ru)[h Sliders][t]"
+	rom ( name "New Dizzy (1993)(N. Kutin - D. Paltusov)(ru)[h Sliders][t].trd" size 39680 crc 2316bb4d md5 7425487b1bfccc50d7b5d231bef24f44 sha1 03d6c21a89ef54fc97b5fe22118fb8e6f42e3279 )
+)
+
+game (
+	name "News of the World (1995)(Ptushka)(ru)"
+	description "News of the World (1995)(Ptushka)(ru)"
+	rom ( name "News of the World (1995)(Ptushka)(ru).trd" size 22272 crc ef85d318 md5 dd888cdb76f317eb3b6231c74eb5ca27 sha1 a7d559568d2a4e7ea3f701c8ae02410ee9494c18 )
+)
+
+game (
+	name "News of the World (demo) (1995)(Ptushka)(ru)"
+	description "News of the World (demo) (1995)(Ptushka)(ru)"
+	rom ( name "News of the World (demo) (1995)(Ptushka)(ru).trd" size 17920 crc 3501ac07 md5 8bbf59761d5455ea9276a70130605c06 sha1 94c79b6dd1b7d338b47a7e52dac124ad7e1e8286 )
+)
+
+game (
+	name "Novogodnaya Istoriya (19xx)(Binary Masters)(ru)"
+	description "Novogodnaya Istoriya (19xx)(Binary Masters)(ru)"
+	rom ( name "Novogodnaya Istoriya (19xx)(Binary Masters)(ru).trd" size 30720 crc ced38f55 md5 2a4622f687167887b3474d6dd3243165 sha1 d761cf8345336e08f5e9db3995224de95d243677 )
+)
+
+game (
+	name "Nu, Pogodi! (1995)(Titanic)(ru)"
+	description "Nu, Pogodi! (1995)(Titanic)(ru)"
+	rom ( name "Nu, Pogodi! (1995)(Titanic)(ru).trd" size 63488 crc 27a47e49 md5 f0f61eb1e8f8586d9d4af942e07e48aa sha1 31a3b0a0c3821dda8c92820128f210e8e324f3a9 )
+)
+
+game (
+	name "Ohota na Krotov (1998)(Asphyxia)(ru)"
+	description "Ohota na Krotov (1998)(Asphyxia)(ru)"
+	rom ( name "Ohota na Krotov (1998)(Asphyxia)(ru).trd" size 26368 crc 9158e716 md5 59b5f331c2ac9fd89eeaabd9e1db12c3 sha1 fd2b06657816d93477886de5b532e90adcd3bc2f )
+)
+
+game (
+	name "Open It! (1995)(Hazard Dreams)(ru)[h Prestige]"
+	description "Open It! (1995)(Hazard Dreams)(ru)[h Prestige]"
+	rom ( name "Open It! (1995)(Hazard Dreams)(ru)[h Prestige].trd" size 150016 crc 2e5e11bd md5 234c5046f7df95d69026fa8338295688 sha1 f5cdb44e16c8ca86f4494a14f0484bad0b388067 )
+)
+
+game (
+	name "Open It! (demo) (1995)(Hazard Dreams)(ru)"
+	description "Open It! (demo) (1995)(Hazard Dreams)(ru)"
+	rom ( name "Open It! (demo) (1995)(Hazard Dreams)(ru).trd" size 14080 crc 11466684 md5 45a09ce23842a1f17f310a9b8b47a122 sha1 5e6ee0dd0274c6dffe3fcb2f6cee052f5587be07 )
+)
+
+game (
+	name "Open Safe (1999)(-)(ru)"
+	description "Open Safe (1999)(-)(ru)"
+	rom ( name "Open Safe (1999)(-)(ru).trd" size 20480 crc a0229122 md5 402bd199539c261bf551b2e8e6eadfbf sha1 9f64d82f40508c464f08e9db89c31bf176eb5d33 )
+)
+
+game (
+	name "Operation Aquatrash (demo) (1997)(Pro Hackers' Dynasty)"
+	description "Operation Aquatrash (demo) (1997)(Pro Hackers' Dynasty)"
+	rom ( name "Operation Aquatrash (demo) (1997)(Pro Hackers' Dynasty).trd" size 30208 crc f9914980 md5 b61bf2e0e37a01daa1a48d6d3953f102 sha1 90bad4710a3ee71bf8c13bf49ee173cd1f3cc2c8 )
+)
+
+game (
+	name "Operation Red Refrigerator (demo) (1995)(Radiosoft)(ru)"
+	description "Operation Red Refrigerator (demo) (1995)(Radiosoft)(ru)"
+	rom ( name "Operation Red Refrigerator (demo) (1995)(Radiosoft)(ru).trd" size 45312 crc 18bf04ec md5 534d5b3343a545b2775b9f5dbd6fd779 sha1 ed318b45fd20df12d7e89985ede70441e596481e )
+)
+
+game (
+	name "Operation Red Refrigerator v0.01 (demo) (1997)(Galaxy)(ru)"
+	description "Operation Red Refrigerator v0.01 (demo) (1997)(Galaxy)(ru)"
+	rom ( name "Operation Red Refrigerator v0.01 (demo) (1997)(Galaxy)(ru).trd" size 44288 crc a71bedbd md5 6dd7581a3eddc1caadd9f0ead6df2ede sha1 e7c8dd2f691f13992e71c3aea89d031937dda8ca )
+)
+
+game (
+	name "Operation Red Refrigerator v1.01 (1997)(Galaxy)(ru)"
+	description "Operation Red Refrigerator v1.01 (1997)(Galaxy)(ru)"
+	rom ( name "Operation Red Refrigerator v1.01 (1997)(Galaxy)(ru).trd" size 142336 crc f3b3d81e md5 ea8622d7807d4b457a9285d09ff6437f sha1 61f21004634636b51e1c6ccb8455810d2abe7825 )
+)
+
+game (
+	name "Otdel 8 - Agent Larry & Lisa vs Dr. X (19xx)(Action)(ru)"
+	description "Otdel 8 - Agent Larry & Lisa vs Dr. X (19xx)(Action)(ru)"
+	rom ( name "Otdel 8 - Agent Larry & Lisa vs Dr. X (19xx)(Action)(ru).trd" size 655360 crc 32d7ae42 md5 e56e1791fee54272b47730aed2999c67 sha1 d9082cb4cec859658a116046e018e7d2010f10cf )
+)
+
+game (
+	name "Paradise Lost (demo) (1996)(Digital Reality)(ru)"
+	description "Paradise Lost (demo) (1996)(Digital Reality)(ru)"
+	rom ( name "Paradise Lost (demo) (1996)(Digital Reality)(ru).trd" size 86528 crc c50eb549 md5 c7331e7cbe97013dee21b2e5d873eff2 sha1 589852403300447fb92b2b432edbd4f1d31e0ce2 )
+)
+
+game (
+	name "Paradox Angle (1999)(Paradox)"
+	description "Paradox Angle (1999)(Paradox)"
+	rom ( name "Paradox Angle (1999)(Paradox).trd" size 13568 crc 981e33f5 md5 f8788e9fef238eae4ff017aff443c00d sha1 64125bca751a6aa69c413a35f9d485f05314f8ad )
+)
+
+game (
+	name "Pasanini Horror (1998)(Olive Branch)(ru)"
+	description "Pasanini Horror (1998)(Olive Branch)(ru)"
+	rom ( name "Pasanini Horror (1998)(Olive Branch)(ru).trd" size 45824 crc 611c1c0d md5 67618a1f5f32299d6fefe6019bd3e989 sha1 8fa1250b7e088547a591df219bd816c8509d5a08 )
+)
+
+game (
+	name "Passiance (1995)(Denis Rykov)(ru)"
+	description "Passiance (1995)(Denis Rykov)(ru)"
+	rom ( name "Passiance (1995)(Denis Rykov)(ru).trd" size 35328 crc e678c0fb md5 40a3a7c1dd8e6c625c2dc8a4a615c9e6 sha1 95acb2b1f2606e4b1b51b2043f04bd4773675746 )
+)
+
+game (
+	name "Passiance Klondike v1.1 (1996)(Digital Reality)"
+	description "Passiance Klondike v1.1 (1996)(Digital Reality)"
+	rom ( name "Passiance Klondike v1.1 (1996)(Digital Reality).trd" size 25344 crc a0ae6e22 md5 f054bb2e56728818c694eccdfc6b5841 sha1 42be7bb622082b1a114f105e673852645c5edd09 )
+)
+
+game (
+	name "Pastime 2 (1993)(Gureiva)(ru)"
+	description "Pastime 2 (1993)(Gureiva)(ru)"
+	rom ( name "Pastime 2 (1993)(Gureiva)(ru).trd" size 41216 crc a4ff4702 md5 ec49c41f4ce119d3ee286e2a5bfb3e31 sha1 48c9fec67fa79ec0b1919d04c7cf7cad85e92439 )
+)
+
+game (
+	name "PCuk's Enter (1998)(Mythos)(ru)"
+	description "PCuk's Enter (1998)(Mythos)(ru)"
+	rom ( name "PCuk's Enter (1998)(Mythos)(ru).trd" size 25856 crc 3003c9f0 md5 f3e76b92e3e17aaef5b1035e91c0a3cc sha1 f5432494b57d88eb4357fb198ddca3adbe9975eb )
+)
+
+game (
+	name "Pentix (demo) (1997)(Coders Academy)"
+	description "Pentix (demo) (1997)(Coders Academy)"
+	rom ( name "Pentix (demo) (1997)(Coders Academy).trd" size 12800 crc a879e081 md5 b843cf672a793fd04ee2cf9a4f549768 sha1 a7e12c43103388e4e101105b189d2a94a3062b31 )
+)
+
+game (
+	name "Pipe Dream (1995)(Infosoft)"
+	description "Pipe Dream (1995)(Infosoft)"
+	rom ( name "Pipe Dream (1995)(Infosoft).trd" size 30976 crc 4a79cf33 md5 1d16b3efc949b870aeaf3b97bfe4e134 sha1 819f6e25d687c3e06c962d697bf8f5de45e11cac )
+)
+
+game (
+	name "Piramida (1992)(Igor Kapultsevich)"
+	description "Piramida (1992)(Igor Kapultsevich)"
+	rom ( name "Piramida (1992)(Igor Kapultsevich).trd" size 12544 crc 5df91f19 md5 b0eae973253763bdcf3b2b69cfe6adc3 sha1 2a25be521ba292b9a07a14d2c094eae0a1ade342 )
+)
+
+game (
+	name "Pirates (1995)(Nicodem)(ru)[h Prestige]"
+	description "Pirates (1995)(Nicodem)(ru)[h Prestige]"
+	rom ( name "Pirates (1995)(Nicodem)(ru)[h Prestige].trd" size 79616 crc e2064067 md5 2a326198b42f511a0b00e132ac4232ed sha1 1dec4670fd84b0a47d7ef21a876e77b7cb9c6261 )
+)
+
+game (
+	name "Pirates (demo) (1995)(Magic Soft)(ru)"
+	description "Pirates (demo) (1995)(Magic Soft)(ru)"
+	rom ( name "Pirates (demo) (1995)(Magic Soft)(ru).trd" size 33536 crc 3107d0a0 md5 4258b7dffa5bb0ff09f83ba416c8ce99 sha1 b0ea6a96fb8c578cd5bf9130d8b293f719197945 )
+)
+
+game (
+	name "Plutonia (1997)(Twin Peaks)(ru)"
+	description "Plutonia (1997)(Twin Peaks)(ru)"
+	rom ( name "Plutonia (1997)(Twin Peaks)(ru).trd" size 655360 crc 2bcaac89 md5 ba12be757a034a97580f6bd13bd21655 sha1 0bdf8254f61112faa9ae054652c5493f09f31173 )
+)
+
+game (
+	name "Plutonia (demo) (1996)(Twin Peaks Group)(ru)"
+	description "Plutonia (demo) (1996)(Twin Peaks Group)(ru)"
+	rom ( name "Plutonia (demo) (1996)(Twin Peaks Group)(ru).trd" size 156672 crc 13f03f7c md5 77f699039dbc49c8e1ebceaf024805ff sha1 cd5e9ea27985cc8c660327c2c974f7d50892570c )
+)
+
+game (
+	name "Point (1998)(Strangers Group)(ru)"
+	description "Point (1998)(Strangers Group)(ru)"
+	rom ( name "Point (1998)(Strangers Group)(ru).trd" size 134656 crc 3e88085d md5 c8a768759db614f4665cf289a3baa7ae sha1 82e96546d64c436f37bf46fa45f08588404e7253 )
+)
+
+game (
+	name "Poker v1.0 (1999)(Master)(ru)"
+	description "Poker v1.0 (1999)(Master)(ru)"
+	rom ( name "Poker v1.0 (1999)(Master)(ru).trd" size 22784 crc 44593c8e md5 a470b7117c6c428acfca49b8730498f8 sha1 cc4c3b0b469a5a6b8ede6a07cfec5cbd47e72b00 )
+)
+
+game (
+	name "Polye Chudyes (1995)(Outland)(ru)"
+	description "Polye Chudyes (1995)(Outland)(ru)"
+	rom ( name "Polye Chudyes (1995)(Outland)(ru).trd" size 655360 crc 026e0388 md5 ffa109d0fb102d4998c7ae6d85200111 sha1 4b9ab51e5de1ba080a41754f2ca3b247d5d44526 )
+)
+
+game (
+	name "Polye Chudyes (1995)(Softland Software)(ru)[h Astapenko Arsenity]"
+	description "Polye Chudyes (1995)(Softland Software)(ru)[h Astapenko Arsenity]"
+	rom ( name "Polye Chudyes (1995)(Softland Software)(ru)[h Astapenko Arsenity].trd" size 62208 crc a4f45126 md5 61ca1440fa955f056c78a04524fd365c sha1 cda43698a59ab17aacd47b3e0dc441efe8c2ff39 )
+)
+
+game (
+	name "Polye Chudyes (1995)(Vladimir)(ru)"
+	description "Polye Chudyes (1995)(Vladimir)(ru)"
+	rom ( name "Polye Chudyes (1995)(Vladimir)(ru).trd" size 32256 crc 3f4c5d34 md5 6e326998876450222c6b258d7ed5a51e sha1 4b875e0d7331e971253848fabcd2f5c3fb91fe3f )
+)
+
+game (
+	name "Polye Chudyes (demo) (1995)(Outland)(ru)"
+	description "Polye Chudyes (demo) (1995)(Outland)(ru)"
+	rom ( name "Polye Chudyes (demo) (1995)(Outland)(ru).trd" size 30208 crc aafcd2bd md5 5f69cf515973a67c57585d3f7d78ef86 sha1 7929af42fb08e2e0545cb50f79cc23820a79e6eb )
+)
+
+game (
+	name "Polye Chudyes 2 (demo) (1994)(Sirota Soft)(ru)"
+	description "Polye Chudyes 2 (demo) (1994)(Sirota Soft)(ru)"
+	rom ( name "Polye Chudyes 2 (demo) (1994)(Sirota Soft)(ru).trd" size 70144 crc 5f0a007b md5 3c6a881721310c86e9381283144088fc sha1 363972d2fc537f2b422e2c1519e0c098c81c403e )
+)
+
+game (
+	name "Poslyednyaya Avantyura (1997)(A. Cherencov)(ru)"
+	description "Poslyednyaya Avantyura (1997)(A. Cherencov)(ru)"
+	rom ( name "Poslyednyaya Avantyura (1997)(A. Cherencov)(ru).trd" size 170496 crc 81293c56 md5 d1031ec400770372f5b1007eb4165238 sha1 0077b2eb4c31e50fd303e6d94557683e37718c8d )
+)
+
+game (
+	name "Power Ball (1993)(Tenebrarum Software)[h Michael Koshkin]"
+	description "Power Ball (1993)(Tenebrarum Software)[h Michael Koshkin]"
+	rom ( name "Power Ball (1993)(Tenebrarum Software)[h Michael Koshkin].trd" size 15360 crc 0fe1e3fe md5 cf14a6448931995a0bea46cb9f24f4e0 sha1 80212b4b711472839fde75749012f1ba1e68aafe )
+)
+
+game (
+	name "Pref Club (1995)(Sam - Sinclairland)(ru)"
+	description "Pref Club (1995)(Sam - Sinclairland)(ru)"
+	rom ( name "Pref Club (1995)(Sam - Sinclairland)(ru).trd" size 58624 crc f6ce5c4b md5 c85078625b7e2faeca5b9abb959f8da4 sha1 3ec92002a3d5e156f12333d5b125dafe15ee8e1f )
+)
+
+game (
+	name "President 2 (1992)(Oleg Krasov)(ru)"
+	description "President 2 (1992)(Oleg Krasov)(ru)"
+	rom ( name "President 2 (1992)(Oleg Krasov)(ru).trd" size 50688 crc 0ecdd0ae md5 cfbcc2e1cd389f9880337c1e654f842c sha1 fbb5fa8d2a5047764e2839719e227d3be1ed31f3 )
+)
+
+game (
+	name "President 3 - Great Britain (1994)(T.O.M.)(ru)"
+	description "President 3 - Great Britain (1994)(T.O.M.)(ru)"
+	rom ( name "President 3 - Great Britain (1994)(T.O.M.)(ru).trd" size 32768 crc 38aa51ce md5 5e054cb6bc13b9c54be50482ac4eb514 sha1 0423f05760af5dc952020bc2d5213e8895a0d5d4 )
+)
+
+game (
+	name "President Plus (1994)(Dark Night)(ru)"
+	description "President Plus (1994)(Dark Night)(ru)"
+	rom ( name "President Plus (1994)(Dark Night)(ru).trd" size 48384 crc 3fbdcf59 md5 9e9197e9f355127c7e69b12f7bae787c sha1 4126db3c9a231d95d4a3ed22b2801ce974f79a21 )
+)
+
+game (
+	name "Prince of Persia (1995)(MC Software)(ru)"
+	description "Prince of Persia (1995)(MC Software)(ru)"
+	rom ( name "Prince of Persia (1995)(MC Software)(ru).trd" size 655360 crc 554216c4 md5 205056f4409aeed22aabaae2772cd301 sha1 6f2027f1fdf7223d4f869e26d19a6ef2502e079c )
+)
+
+game (
+	name "Prince of Persia (1995)(MC Software)(ru)[h Another World]"
+	description "Prince of Persia (1995)(MC Software)(ru)[h Another World]"
+	rom ( name "Prince of Persia (1995)(MC Software)(ru)[h Another World].trd" size 655360 crc 8308a5c4 md5 cec9739ef035c3e42cf7d384b731a26b sha1 3dfbae187e32716c8d18960bf34f42868a06195c )
+)
+
+game (
+	name "Prince of Persia (1995)(MC Software)(ru)[h Phantom Group]"
+	description "Prince of Persia (1995)(MC Software)(ru)[h Phantom Group]"
+	rom ( name "Prince of Persia (1995)(MC Software)(ru)[h Phantom Group].trd" size 255488 crc f4bcf622 md5 9a496e433c6ce274fa2fc0aa5dcb8559 sha1 f0bc5c275f5a683383c77b11d3d884cf81a0ae83 )
+)
+
+game (
+	name "Prince of Persia (demo) (1995)(Magic Soft)"
+	description "Prince of Persia (demo) (1995)(Magic Soft)"
+	rom ( name "Prince of Persia (demo) (1995)(Magic Soft).trd" size 31744 crc 2af0940b md5 1022120af79e1c70c429abab7577c7d7 sha1 1d2ed9f920ed7ee08ca694bc4913d9f20dfa72c8 )
+)
+
+game (
+	name "Pro Power Boat Simulator (1989)(Codemasters)[h Mike Blum][t]"
+	description "Pro Power Boat Simulator (1989)(Codemasters)[h Mike Blum][t]"
+	rom ( name "Pro Power Boat Simulator (1989)(Codemasters)[h Mike Blum][t].trd" size 185856 crc f007549b md5 46c457d7afc53df4997b106cc80ff300 sha1 af70a9b2c695055c0b760ddbef592dc0ba69df58 )
+)
+
+game (
+	name "Project X v2.0 (1998)(Laser Dreams)(ru)"
+	description "Project X v2.0 (1998)(Laser Dreams)(ru)"
+	rom ( name "Project X v2.0 (1998)(Laser Dreams)(ru).trd" size 655360 crc 2d4f5d7f md5 6f3aa3afede8478e37fd8c2fcfe041fa sha1 8c1aaf311a44b517b364c512cd6118017d4d4510 )
+)
+
+game (
+	name "Pset (1996)(A. Fylatov)(ru)"
+	description "Pset (1996)(A. Fylatov)(ru)"
+	rom ( name "Pset (1996)(A. Fylatov)(ru).trd" size 13312 crc 2409bfd3 md5 0f6cbdc8dd715609d931379940c9592a sha1 4594e32f78f357fb72bfa4baee227852ef27affb )
+)
+
+game (
+	name "Pussy - Love Story from Titanic (demo) (1999)(Fatality)"
+	description "Pussy - Love Story from Titanic (demo) (1999)(Fatality)"
+	rom ( name "Pussy - Love Story from Titanic (demo) (1999)(Fatality).trd" size 179968 crc 468aaee7 md5 5d819333b86a4111888dbd1b5c3ab169 sha1 1fd8764152f1470790d6ad7a20a5bac206da0705 )
+)
+
+game (
+	name "Putup (demo) (1997)(Mage)(ru)[h Image Crew]"
+	description "Putup (demo) (1997)(Mage)(ru)[h Image Crew]"
+	rom ( name "Putup (demo) (1997)(Mage)(ru)[h Image Crew].trd" size 32000 crc 2382f373 md5 236851284b35d100df64f074484323c9 sha1 8bda2e911a7cd68c62d069fb02f956efa060c07d )
+)
+
+game (
+	name "Puzzle, The (1998)(Taras)(ru)"
+	description "Puzzle, The (1998)(Taras)(ru)"
+	rom ( name "Puzzle, The (1998)(Taras)(ru).trd" size 655360 crc 62844f6f md5 1493c384decfe085f8df7d605fbab45b sha1 70df48f8434a339b44b366d0771f2841f7ed7d92 )
+)
+
+game (
+	name "Pyramid (1996)(Visual Boys)"
+	description "Pyramid (1996)(Visual Boys)"
+	rom ( name "Pyramid (1996)(Visual Boys).trd" size 21760 crc fd5f5d45 md5 63d12345742c7ce9e1621575897f55db sha1 49c6dcdb1dd9e699407a3bc7b70836fb12e7d2b3 )
+)
+
+game (
+	name "Rabbit Jazzy (1998)(Paradox)(ru)"
+	description "Rabbit Jazzy (1998)(Paradox)(ru)"
+	rom ( name "Rabbit Jazzy (1998)(Paradox)(ru).trd" size 19968 crc caeb5785 md5 f450858b9309b6529b3e56c66d712eeb sha1 ddb06d25af98afa29dcbd09273cccb1c3efe0e9c )
+)
+
+game (
+	name "Randex (1994)(R.A. Soft)[h World Eyes Group]"
+	description "Randex (1994)(R.A. Soft)[h World Eyes Group]"
+	rom ( name "Randex (1994)(R.A. Soft)[h World Eyes Group].trd" size 34816 crc 99d17339 md5 5b0783c2d2fe37e4e518166cb79e3592 sha1 3b5b15eb93c9f632378d8f72ef4ddb5e8fd9384f )
+)
+
+game (
+	name "Real Lines (2000)(Saint Software)"
+	description "Real Lines (2000)(Saint Software)"
+	rom ( name "Real Lines (2000)(Saint Software).trd" size 23552 crc e6c4438a md5 4cc4c47cae62e34838477d0e80d51f4e sha1 0a54b2597ec5ef1bb85cfa8f91529ff607dd0a5f )
+)
+
+game (
+	name "Rebel Star II - Alien Encounter (1988)(Silverbird Software)(ru)[h Bes][GS]"
+	description "Rebel Star II - Alien Encounter (1988)(Silverbird Software)(ru)[h Bes][GS]"
+	rom ( name "Rebel Star II - Alien Encounter (1988)(Silverbird Software)(ru)[h Bes][GS].trd" size 151296 crc a9dfdc5f md5 f5e426b2a41d798fcb961d5cb48d3162 sha1 a4f5f8671221a76daa3216080449e8bf3ead2328 )
+)
+
+game (
+	name "Red Stone 2 (1996)(Finest Group)[h Alexey Smirnov]"
+	description "Red Stone 2 (1996)(Finest Group)[h Alexey Smirnov]"
+	rom ( name "Red Stone 2 (1996)(Finest Group)[h Alexey Smirnov].trd" size 68864 crc 96a69b02 md5 588803707ab466d496523177d2a3a673 sha1 208201af20e2b3f2d7c3df6d72e365d6d1093cdf )
+)
+
+game (
+	name "Regeners, The (1995)(Reserve)(ru)"
+	description "Regeners, The (1995)(Reserve)(ru)"
+	rom ( name "Regeners, The (1995)(Reserve)(ru).trd" size 108544 crc c7d618f2 md5 2ef0e21d5ec848dfc6da833cdca48880 sha1 2981c71962f79e72bcc464d39d345ef53a6329e6 )
+)
+
+game (
+	name "Renegade II - Target Renegade (1988)(Imagine Software)[h X-Trade Group][t]"
+	description "Renegade II - Target Renegade (1988)(Imagine Software)[h X-Trade Group][t]"
+	rom ( name "Renegade II - Target Renegade (1988)(Imagine Software)[h X-Trade Group][t].trd" size 318208 crc 189cae9a md5 885ba9cfad7b5facc1b7d186f81c0f85 sha1 a3eb4732923f6a061a456fcbeadad59dfdc7d1bf )
+)
+
+game (
+	name "Return to Home (1996)(K.Kav Software)(ru)"
+	description "Return to Home (1996)(K.Kav Software)(ru)"
+	rom ( name "Return to Home (1996)(K.Kav Software)(ru).trd" size 655360 crc d03a86d9 md5 9ef264c229801434ea90a0b7fdfc57cc sha1 4b0728f44278924a0eecfdaf47633f16067e1f37 )
+)
+
+game (
+	name "Return to Home 4 (demo) (1996)(K.Kav Software)(ru)"
+	description "Return to Home 4 (demo) (1996)(K.Kav Software)(ru)"
+	rom ( name "Return to Home 4 (demo) (1996)(K.Kav Software)(ru).trd" size 119296 crc b0351cc8 md5 21174367f6d9c3b715cee1b2fc0ab3e7 sha1 7dd2c61309a65ac070ef7aa308199d73093c3141 )
+)
+
+game (
+	name "Rex (1988)(Martech Games)[h CPG Group]"
+	description "Rex (1988)(Martech Games)[h CPG Group]"
+	rom ( name "Rex (1988)(Martech Games)[h CPG Group].trd" size 652288 crc e5529ca9 md5 86f9f26472b00173430db08e79638130 sha1 fa865db49c327261f4c5a014134c76b8e11c416a )
+)
+
+game (
+	name "Rings of the Magic (1996)(Global Corporation)"
+	description "Rings of the Magic (1996)(Global Corporation)"
+	rom ( name "Rings of the Magic (1996)(Global Corporation).trd" size 30976 crc 364ebbc3 md5 ff3f7c6b33a51e1286a03a718b072eb4 sha1 c903c9990e333dcbd57f5a128632f58ac79e8698 )
+)
+
+game (
+	name "Rise Out from Dungeons (1994)(Magic Soft)"
+	description "Rise Out from Dungeons (1994)(Magic Soft)"
+	rom ( name "Rise Out from Dungeons (1994)(Magic Soft).trd" size 38656 crc b41beb2e md5 8aeb5ef86e143be352cc807981ceba3a sha1 1744a74e66dd96537c3732e96cf107f6303d76fa )
+)
+
+game (
+	name "Road Fighter (demo) (1996)(Surdakar Group)(ru)"
+	description "Road Fighter (demo) (1996)(Surdakar Group)(ru)"
+	rom ( name "Road Fighter (demo) (1996)(Surdakar Group)(ru).trd" size 43776 crc ec91fa9e md5 c0234c5339a0f32458abc24db5eb0e97 sha1 e95f6bd48ea65e3acb51238420497c169a292d90 )
+)
+
+game (
+	name "Robbo (demo) (19xx)(ProSoft)"
+	description "Robbo (demo) (19xx)(ProSoft)"
+	rom ( name "Robbo (demo) (19xx)(ProSoft).trd" size 48896 crc a1d1827b md5 10e27ebd4b9a833e0ae9a2763d1d862b sha1 4e2c0dff5af02f9e77cb49b91f3b81204445dc48 )
+)
+
+game (
+	name "Robin of the Wood (1985)(Odin Computer Graphics)[h][b]"
+	description "Robin of the Wood (1985)(Odin Computer Graphics)[h][b]"
+	rom ( name "Robin of the Wood (1985)(Odin Computer Graphics)[h][b].trd" size 205312 crc c26187c9 md5 084087456c4c7741543354721731fee4 sha1 648ef3204f9a12ad047b151f80f1fe1cde210ab0 )
+)
+
+game (
+	name "Robo - The Komix Game (demo) (1997)(ETC Group)"
+	description "Robo - The Komix Game (demo) (1997)(ETC Group)"
+	rom ( name "Robo - The Komix Game (demo) (1997)(ETC Group).trd" size 72960 crc e566e22c md5 d5f702624a122232a3d7ff9e08df2530 sha1 886e77d65c39d08136d110628fa30a0ccecf8440 )
+)
+
+game (
+	name "Robo Xonix (1994)(Chemist Soft)[h Phantom]"
+	description "Robo Xonix (1994)(Chemist Soft)[h Phantom]"
+	rom ( name "Robo Xonix (1994)(Chemist Soft)[h Phantom].trd" size 22016 crc 57eb3a2d md5 1447861c38ed78fb607080fc02789e5d sha1 c9cf2cca6721c448e561e50305196df0e1ae94a3 )
+)
+
+game (
+	name "Robocop 3 (demo) (1992)(Ocean - Sinclair User)[h Softstar]"
+	description "Robocop 3 (demo) (1992)(Ocean - Sinclair User)[h Softstar]"
+	rom ( name "Robocop 3 (demo) (1992)(Ocean - Sinclair User)[h Softstar].trd" size 101632 crc 49780fd0 md5 f0a11eadadccfb00ac1c477523163617 sha1 7b977fe4b18d10a9a3096ef4731ed2b92b6095b4 )
+)
+
+game (
+	name "Robot (1996)(Inferno Software)[h Bitmunchers][t]"
+	description "Robot (1996)(Inferno Software)[h Bitmunchers][t]"
+	rom ( name "Robot (1996)(Inferno Software)[h Bitmunchers][t].trd" size 28416 crc 0948a5e3 md5 58507cd2e0f83930bea7f2155e0882c1 sha1 ef29ed22be1c7a014d88d634a9507e67fc365773 )
+)
+
+game (
+	name "Russian Tetris (1993)(THD)(ru)"
+	description "Russian Tetris (1993)(THD)(ru)"
+	rom ( name "Russian Tetris (1993)(THD)(ru).trd" size 68096 crc 047482e1 md5 9abeab036b731cf55c089e4a8dc7f27d sha1 03d5172c4f15c2a5312f5ca28d56f02bc53aa3f4 )
+)
+
+game (
+	name "Russian Time Teaser (19xx)(World Eyes Group)(ru)"
+	description "Russian Time Teaser (19xx)(World Eyes Group)(ru)"
+	rom ( name "Russian Time Teaser (19xx)(World Eyes Group)(ru).trd" size 46080 crc f3552205 md5 42520b38038d31794faf1b033b98b895 sha1 411d988a296bc84b19ead23079639f796531cd24 )
+)
+
+game (
+	name "Russian Time Teaser 128k (19xx)(World Eyes Group)(ru)"
+	description "Russian Time Teaser 128k (19xx)(World Eyes Group)(ru)"
+	rom ( name "Russian Time Teaser 128k (19xx)(World Eyes Group)(ru).trd" size 50944 crc bfae6fce md5 fdcfe8ac783f7886685fd9e7131c5aeb sha1 5313b720be59f38f7e5a55fa6cac2f6bd3ece82d )
+)
+
+game (
+	name "Sapper (1996)(Computer Work Company)(ru)"
+	description "Sapper (1996)(Computer Work Company)(ru)"
+	rom ( name "Sapper (1996)(Computer Work Company)(ru).trd" size 24064 crc 45b11b26 md5 b5d8c42714a815d3e454f41238df6516 sha1 371ba1af0e3bafdb264517df265430f7a0182831 )
+)
+
+game (
+	name "Scorched Earth, The (1997)(Star Group)(ru)"
+	description "Scorched Earth, The (1997)(Star Group)(ru)"
+	rom ( name "Scorched Earth, The (1997)(Star Group)(ru).trd" size 18688 crc c567b878 md5 56f1c774e35a7ee1113a8d8515093046 sha1 f88981a16c4b9a77a80d72d98f77ba155fcac394 )
+)
+
+game (
+	name "Scorpions - Die Machine (1996)(Magic Soft)"
+	description "Scorpions - Die Machine (1996)(Magic Soft)"
+	rom ( name "Scorpions - Die Machine (1996)(Magic Soft).trd" size 47104 crc b005441e md5 db662141b34e580bb1ca4714174be753 sha1 48cca6ac4646dfa81dd840e5fcb2ed6f718c8f08 )
+)
+
+game (
+	name "Sea Battle (1994)(M.V. Spiridonenko)"
+	description "Sea Battle (1994)(M.V. Spiridonenko)"
+	rom ( name "Sea Battle (1994)(M.V. Spiridonenko).trd" size 16384 crc 5666cd64 md5 c6484dbb47811873a44189f058afc93b sha1 a67f532627d36698d6c58c3f493a7d53e524b6c5 )
+)
+
+game (
+	name "Sea Quest - Part 1 Sea Wolf (1998)(Taras)(ru)"
+	description "Sea Quest - Part 1 Sea Wolf (1998)(Taras)(ru)"
+	rom ( name "Sea Quest - Part 1 Sea Wolf (1998)(Taras)(ru).trd" size 655360 crc 420c9aab md5 c89eccc81b9588c36e0745bff0cec80d sha1 25453cf571a355253fbee3607fab4ef43585a4f0 )
+)
+
+game (
+	name "Sea War (1993)(Alexey Vetytnev)(ru)"
+	description "Sea War (1993)(Alexey Vetytnev)(ru)"
+	rom ( name "Sea War (1993)(Alexey Vetytnev)(ru).trd" size 21248 crc fdb333de md5 d7579a587e85222f28f7e0e37c524396 sha1 7c8767ea56ff731a5d12c3af24b0c6b30267a2de )
+)
+
+game (
+	name "Sex Minesweeper (1997)(UFO Group)(ru)"
+	description "Sex Minesweeper (1997)(UFO Group)(ru)"
+	rom ( name "Sex Minesweeper (1997)(UFO Group)(ru).trd" size 655360 crc e767042c md5 f44213f2f3dc250b14006f97d9d91004 sha1 b47a7f6fe39a1f37bad62a0836700d435a3b6efc )
+)
+
+game (
+	name "Sex Tetris 2 (19xx)(-)(ru)[h Seamans]"
+	description "Sex Tetris 2 (19xx)(-)(ru)[h Seamans]"
+	rom ( name "Sex Tetris 2 (19xx)(-)(ru)[h Seamans].trd" size 42240 crc 0eaddd78 md5 114d7927de171e3f089f35e0ce9c9fc1 sha1 308029ccb74f0e717fc4ac2c03c9120f566cd672 )
+)
+
+game (
+	name "Sex Tetris v1.2 (1993)(Russian Soft)"
+	description "Sex Tetris v1.2 (1993)(Russian Soft)"
+	rom ( name "Sex Tetris v1.2 (1993)(Russian Soft).trd" size 48128 crc 8c04538a md5 321591e10296cf662d394ba07305e412 sha1 24d8e3e49b47975540799c948f8961b483c81f70 )
+)
+
+game (
+	name "Sex Xonix (1996)(Tankard)(ru)"
+	description "Sex Xonix (1996)(Tankard)(ru)"
+	rom ( name "Sex Xonix (1996)(Tankard)(ru).trd" size 310528 crc 3ecc2df8 md5 7aebc150105a08a70563ecfb94e8e58f sha1 7d24da9ec018ba1f11752090b66fb4773a995671 )
+)
+
+game (
+	name "Sextris (1995)(Silicon Brains Group)"
+	description "Sextris (1995)(Silicon Brains Group)"
+	rom ( name "Sextris (1995)(Silicon Brains Group).trd" size 112128 crc b9b1079c md5 16b55bc130da166def5592696f28ea9f sha1 5300bba99a58f95ade79850f86ce691a7e3b12c0 )
+)
+
+game (
+	name "Sextris Plus, The (19xx)(B. Michael)(ru)"
+	description "Sextris Plus, The (19xx)(B. Michael)(ru)"
+	rom ( name "Sextris Plus, The (19xx)(B. Michael)(ru).trd" size 136960 crc 2cd2a303 md5 c93c88178b5949599d0056c3f9198d65 sha1 66debf64433d687326aacc7eeba55871beb2f7c1 )
+)
+
+game (
+	name "Shadow Service Monitor (1997)(-)[h Omega Guard]"
+	description "Shadow Service Monitor (1997)(-)[h Omega Guard]"
+	rom ( name "Shadow Service Monitor (1997)(-)[h Omega Guard].trd" size 60160 crc aff4fba7 md5 7382b0608250fe5bce27f4d1fcf610ba sha1 534beacc287c44123401ea26ade2f6cbf93ca1dc )
+)
+
+game (
+	name "Six in Line (1997)(Heat Hackers Group)"
+	description "Six in Line (1997)(Heat Hackers Group)"
+	rom ( name "Six in Line (1997)(Heat Hackers Group).trd" size 33792 crc 8196104e md5 984f25af9ef0abdfc99178fd950081b7 sha1 decc7b10f7887ad1b42e6fb90538dccafefb56f5 )
+)
+
+game (
+	name "Skazy Dryevnyej Rusi - Vityaz Svyatogor & Koldun Karachun (1995)(Alexey Shirokov)(ru)"
+	description "Skazy Dryevnyej Rusi - Vityaz Svyatogor & Koldun Karachun (1995)(Alexey Shirokov)(ru)"
+	rom ( name "Skazy Dryevnyej Rusi - Vityaz Svyatogor & Koldun Karachun (1995)(Alexey Shirokov)(ru).trd" size 45824 crc 621525f4 md5 b7c5153c72987955eb8f98d4aa874bd0 sha1 c63ce57d9d369c46fc7a636ade79188bdf51cec3 )
+)
+
+game (
+	name "Skirmish v1.3 (19xx)(MAS)(ru)"
+	description "Skirmish v1.3 (19xx)(MAS)(ru)"
+	rom ( name "Skirmish v1.3 (19xx)(MAS)(ru).trd" size 39680 crc 18084aa0 md5 3adbb8dfbcf96342389dd4f16bd7244c sha1 b4e4b9409b78650d1b1e5b66fc8808adc7d677da )
+)
+
+game (
+	name "Slab Age (1993)(Fanatic Stas - THD)(ru)[h Smokers Hackers Group][t]"
+	description "Slab Age (1993)(Fanatic Stas - THD)(ru)[h Smokers Hackers Group][t]"
+	rom ( name "Slab Age (1993)(Fanatic Stas - THD)(ru)[h Smokers Hackers Group][t].trd" size 33792 crc 9fdb88d8 md5 646f5901b811b5ed78611069cf2c52e3 sha1 58e7827fb5b67e30deff3401df84464c0269e65e )
+)
+
+game (
+	name "Smagly 1 (1995)(Spectre Guys)(ru)[h FFC Computers - Softstar]"
+	description "Smagly 1 (1995)(Spectre Guys)(ru)[h FFC Computers - Softstar]"
+	rom ( name "Smagly 1 (1995)(Spectre Guys)(ru)[h FFC Computers - Softstar].trd" size 87040 crc 0e714228 md5 d09ca6ccf3ad8357f436bd3da0b4f5bd sha1 fe4476e2369ebc5cdac50ad3e86d39ac3696563e )
+)
+
+game (
+	name "Smagly 2 (1996)(Crystal Dream)(ru)"
+	description "Smagly 2 (1996)(Crystal Dream)(ru)"
+	rom ( name "Smagly 2 (1996)(Crystal Dream)(ru).trd" size 58368 crc a5f2d458 md5 fa76966272b2efb962757946f3a11561 sha1 f67c46fe91f3ce515388c19a467fa58403c289df )
+)
+
+game (
+	name "Smagly 2 (demo) (1996)(Crystal Dream)(ru)[h Mafia]"
+	description "Smagly 2 (demo) (1996)(Crystal Dream)(ru)[h Mafia]"
+	rom ( name "Smagly 2 (demo) (1996)(Crystal Dream)(ru)[h Mafia].trd" size 41984 crc d5e2b74e md5 9bfec6c44310a443e2ded215dbe4d4c0 sha1 ae68677e230ec458cacab7ab151295c8d7c5726a )
+)
+
+game (
+	name "Smagly 3 (demo) (1997)(Crystal Dream)(ru)"
+	description "Smagly 3 (demo) (1997)(Crystal Dream)(ru)"
+	rom ( name "Smagly 3 (demo) (1997)(Crystal Dream)(ru).trd" size 101376 crc 5b1d7e3c md5 2b4beee17be44d04dd2cedaf91273334 sha1 7574f7794d8eea781ef10f12e3ae7eb57201ebea )
+)
+
+game (
+	name "Snake Battle (1994)(M.T.V.)(ru)[h Phantom]"
+	description "Snake Battle (1994)(M.T.V.)(ru)[h Phantom]"
+	rom ( name "Snake Battle (1994)(M.T.V.)(ru)[h Phantom].trd" size 12544 crc 9e3af616 md5 f386106e931313cc64619b8b2f99b14f sha1 acab697e14c98e674dd8fcd5f141dde1fb2943c5 )
+)
+
+game (
+	name "Soldier of the Future (1994)(Ivan Gudkov)(ru)"
+	description "Soldier of the Future (1994)(Ivan Gudkov)(ru)"
+	rom ( name "Soldier of the Future (1994)(Ivan Gudkov)(ru).trd" size 235520 crc 70144634 md5 6aeaa7b63b35976f110fb154baef04ce sha1 d72c916dae58a173b7fd5a4d39e252bc95a0b00a )
+)
+
+game (
+	name "Soldier of the Future (1994)(Ivan Gudkov)(ru)[h Spectrum Warriors]"
+	description "Soldier of the Future (1994)(Ivan Gudkov)(ru)[h Spectrum Warriors]"
+	rom ( name "Soldier of the Future (1994)(Ivan Gudkov)(ru)[h Spectrum Warriors].trd" size 655360 crc 37094791 md5 600dedf80b102174d6d015ca76574b3a sha1 1f70af93f318c1a1d72b4631a2db5a8bb12f2c57 )
+)
+
+game (
+	name "Soldiers (1998)(Alexander Sizenko)(ru)"
+	description "Soldiers (1998)(Alexander Sizenko)(ru)"
+	rom ( name "Soldiers (1998)(Alexander Sizenko)(ru).trd" size 34304 crc 34637655 md5 5dfaf68a67e11cced0a8a1dc06653ec9 sha1 f35a53a01a98ca19da3e642ade13893409af7c43 )
+)
+
+game (
+	name "Space Traid (1993)(Pavel Nikitin)(ru)"
+	description "Space Traid (1993)(Pavel Nikitin)(ru)"
+	rom ( name "Space Traid (1993)(Pavel Nikitin)(ru).trd" size 23040 crc 93f357b8 md5 8ede8b0060c20f11143e71258dec1424 sha1 60a8de0cd52ac6fdc88af80428b5c375e9a77c55 )
+)
+
+game (
+	name "Special Corpus (19xx)(Ivan Gudkov)"
+	description "Special Corpus (19xx)(Ivan Gudkov)"
+	rom ( name "Special Corpus (19xx)(Ivan Gudkov).trd" size 115968 crc 6f44b2f0 md5 76559ca6a7e00610d4c819e84e9c2adf sha1 dc47a110ec2b1251283ddf4cdfc12b66bf3f72b6 )
+)
+
+game (
+	name "Sport Lotto (1990)(Tera Software Group)(ru)"
+	description "Sport Lotto (1990)(Tera Software Group)(ru)"
+	rom ( name "Sport Lotto (1990)(Tera Software Group)(ru).trd" size 34560 crc b99e095b md5 29b595fd1628b1ca401bf902d124169d sha1 eda57cb11da39d76184d56f52cf63f43ca0d08a4 )
+)
+
+game (
+	name "Squad Quick Reaction (1994)(Chip - Rocky)(ru)[h Digital Reality]"
+	description "Squad Quick Reaction (1994)(Chip - Rocky)(ru)[h Digital Reality]"
+	rom ( name "Squad Quick Reaction (1994)(Chip - Rocky)(ru)[h Digital Reality].trd" size 41728 crc 0dcb6a51 md5 90511df0afb0dc6406cbbac707fcf394 sha1 fd2038496f203730e257a1d7590e5f866c3a01b3 )
+)
+
+game (
+	name "Squards (1996)(Spark)(ru)"
+	description "Squards (1996)(Spark)(ru)"
+	rom ( name "Squards (1996)(Spark)(ru).trd" size 68352 crc 14da02c7 md5 bdaa4644e36766fc20244bc2576d4e06 sha1 ba88b8dd818bc11cc26ea8feaf11452c3156ed3f )
+)
+
+game (
+	name "Square Head (1996)(Outland)(ru)"
+	description "Square Head (1996)(Outland)(ru)"
+	rom ( name "Square Head (1996)(Outland)(ru).trd" size 83712 crc 2c36ead9 md5 6004549f10edd301c9f5bda79c5c3e88 sha1 7379835a720d7dd956a2b6616e9ba8efc45371a8 )
+)
+
+game (
+	name "Squares Colours (1993)(THD)(ru)"
+	description "Squares Colours (1993)(THD)(ru)"
+	rom ( name "Squares Colours (1993)(THD)(ru).trd" size 35840 crc 53ae4a26 md5 652a69ef625e3c78d746797fe704935e sha1 439e272cc470937294fa2cf3637aae2037864376 )
+)
+
+game (
+	name "Srazhyeniye (1997)(Willis Software)(ru)"
+	description "Srazhyeniye (1997)(Willis Software)(ru)"
+	rom ( name "Srazhyeniye (1997)(Willis Software)(ru).trd" size 26880 crc b30600bf md5 b35d0e47594d979e5b39ebf3fa44f287 sha1 199d14d7f861ac36e9e4ab289f41ea0b9305a1c6 )
+)
+
+game (
+	name "Sryednyevyekovaya Istoriya (1996)(Human Soft)(ru)"
+	description "Sryednyevyekovaya Istoriya (1996)(Human Soft)(ru)"
+	rom ( name "Sryednyevyekovaya Istoriya (1996)(Human Soft)(ru).trd" size 39168 crc ace2376c md5 323913818717dc83eff401f5c8ebb52d sha1 457878fb7599db956955ec666c758eebf3510731 )
+)
+
+game (
+	name "Staketris (1996)(3C)(ru)"
+	description "Staketris (1996)(3C)(ru)"
+	rom ( name "Staketris (1996)(3C)(ru).trd" size 24832 crc b05c3e17 md5 214fff4da1011d31a6a650ded2b7fa67 sha1 84995263e2de8365175aaf7d69ad39956ec23372 )
+)
+
+game (
+	name "Stalker (1997)(Evgeny Nesterenko)(ru)"
+	description "Stalker (1997)(Evgeny Nesterenko)(ru)"
+	rom ( name "Stalker (1997)(Evgeny Nesterenko)(ru).trd" size 655360 crc 5115216f md5 c3953d16ab0790a1d1c4cec8b119d817 sha1 7d14a2357557a873ed82a072c3008c7aad9cac8c )
+)
+
+game (
+	name "Stalker - Mega Trainer (1997)(Evgeny Nesterenko)(ru)"
+	description "Stalker - Mega Trainer (1997)(Evgeny Nesterenko)(ru)"
+	rom ( name "Stalker - Mega Trainer (1997)(Evgeny Nesterenko)(ru).trd" size 7168 crc 5d4e3518 md5 a856a16ba1ccbc19785daddc353e2499 sha1 d1e9f3c39b5120b6e0fb9f2551a3c17f0a966246 )
+)
+
+game (
+	name "Stalker v1.02 (1997)(Evgeny Nesterenko)(ru)"
+	description "Stalker v1.02 (1997)(Evgeny Nesterenko)(ru)"
+	rom ( name "Stalker v1.02 (1997)(Evgeny Nesterenko)(ru).trd" size 655360 crc c0309fe2 md5 a5573ad650882764dc1df778687330d5 sha1 c698739f6e086ab224ce84473646d412ff01323b )
+)
+
+game (
+	name "Stan Stalnoj Krysoj (demo) (1997)(Rome'r Software - Bloody Skull Ent.)(ru)"
+	description "Stan Stalnoj Krysoj (demo) (1997)(Rome'r Software - Bloody Skull Ent.)(ru)"
+	rom ( name "Stan Stalnoj Krysoj (demo) (1997)(Rome'r Software - Bloody Skull Ent.)(ru).trd" size 92160 crc b32ab5b7 md5 99811decfd3403115a7cb4caccdfebca sha1 96b9b99d1fea0cc8139ad0e786058eb300995a85 )
+)
+
+game (
+	name "Star Hero (demo) (1996)(Russian Bear Group)(ru)"
+	description "Star Hero (demo) (1996)(Russian Bear Group)(ru)"
+	rom ( name "Star Hero (demo) (1996)(Russian Bear Group)(ru).trd" size 12032 crc e7325292 md5 6e2131af5f773d62e8e751e1110b961e sha1 870d35608c60d8d2e502797a06f8347d0180ae68 )
+)
+
+game (
+	name "Star Inheritance - Black Cobra (1995)(Step Creative Group)(ru)"
+	description "Star Inheritance - Black Cobra (1995)(Step Creative Group)(ru)"
+	rom ( name "Star Inheritance - Black Cobra (1995)(Step Creative Group)(ru).trd" size 655360 crc b9891a00 md5 d9e625787018223c68719e9773ff7d5a sha1 a0235d58a9bf3dcf1967936da1e5c200ac0413b3 )
+)
+
+game (
+	name "Starcraft (demo) (2002)(-)"
+	description "Starcraft (demo) (2002)(-)"
+	rom ( name "Starcraft (demo) (2002)(-).trd" size 655360 crc 9855d566 md5 77303643ee599ea0ba4d57099c9df4e8 sha1 f94f9911eecb360134f40c7902eb14da3a2d97de )
+)
+
+game (
+	name "Stek v1.1 (1990)(MPF Software)"
+	description "Stek v1.1 (1990)(MPF Software)"
+	rom ( name "Stek v1.1 (1990)(MPF Software).trd" size 31744 crc a8cd4f79 md5 0428e198a6338275da4f436528a18718 sha1 0caf710e35c147dc989e862566656b513bf8c13e )
+)
+
+game (
+	name "Strana Mifov (1995)(Fantasy)(ru)"
+	description "Strana Mifov (1995)(Fantasy)(ru)"
+	rom ( name "Strana Mifov (1995)(Fantasy)(ru).trd" size 202752 crc 0848f9ee md5 f0286afb5f410b2072675fca1a2b3775 sha1 22236682cd165576ad9cdbb095f411e759fac0e4 )
+)
+
+game (
+	name "Street Fighter II (1993)(Go!)[h Prestige]"
+	description "Street Fighter II (1993)(Go!)[h Prestige]"
+	rom ( name "Street Fighter II (1993)(Go!)[h Prestige].trd" size 410112 crc 452b7c60 md5 f79b1924ab86878f18b905b903a5e850 sha1 be98c47e0b4596e4df933d5426a3b94f3efa3d32 )
+)
+
+game (
+	name "Strip Reversi (1996)(Outland)(ru)[h Seamans]"
+	description "Strip Reversi (1996)(Outland)(ru)[h Seamans]"
+	rom ( name "Strip Reversi (1996)(Outland)(ru)[h Seamans].trd" size 389120 crc 26ef86fa md5 384a66c99808e4bc9a76f929d05b013f sha1 6bb0b559b718e075bbe70b74c69eccb0c7e2c304 )
+)
+
+game (
+	name "Styena (1992)(THD)(ru)"
+	description "Styena (1992)(THD)(ru)"
+	rom ( name "Styena (1992)(THD)(ru).trd" size 48128 crc 4521a31b md5 ee04e4789bef031f3d1ec09bce385acc sha1 ed52426abeaaa80d696734af116014d9aa390467 )
+)
+
+game (
+	name "Super Mario Bros (demo) (19xx)(XLNC)"
+	description "Super Mario Bros (demo) (19xx)(XLNC)"
+	rom ( name "Super Mario Bros (demo) (19xx)(XLNC).trd" size 9472 crc 3eb2a1de md5 eaea366c4b0e0b20e232c0dd703693cc sha1 f9615e960eccf735fa8b67b93472df9b1f96582b )
+)
+
+game (
+	name "Super Mario v0.01 (demo) (1999)(Master Home Computers Group)"
+	description "Super Mario v0.01 (demo) (1999)(Master Home Computers Group)"
+	rom ( name "Super Mario v0.01 (demo) (1999)(Master Home Computers Group).trd" size 41728 crc 67395cef md5 9f32be3daf4a1dadf80d50ce5e7eda28 sha1 843b6fe736de4e4a0839629e2f1e08a19100aeda )
+)
+
+game (
+	name "Super Prezident (1992)(Balaganoff)(ru)"
+	description "Super Prezident (1992)(Balaganoff)(ru)"
+	rom ( name "Super Prezident (1992)(Balaganoff)(ru).trd" size 59648 crc 1e501d17 md5 15db5803e896a8e99e25e9a8877b37fd sha1 d8c7c7393047d75391556c56154b5471487050ec )
+)
+
+game (
+	name "Super Tetris (1993)(Yunior Soft - TK)"
+	description "Super Tetris (1993)(Yunior Soft - TK)"
+	rom ( name "Super Tetris (1993)(Yunior Soft - TK).trd" size 45568 crc 0cc8ee25 md5 4431970a05579d3a47c87879ee0a628b sha1 45eca50f78a7021263c8525fefd167934b6a9c75 )
+)
+
+game (
+	name "Tank War (1995)(Ametist)(ru)[h Mafia]"
+	description "Tank War (1995)(Ametist)(ru)[h Mafia]"
+	rom ( name "Tank War (1995)(Ametist)(ru)[h Mafia].trd" size 29440 crc 0d62a01a md5 e5b0355e2542518eeeb89d61d4d65e6f sha1 e8fe4095f68b58b66ea354cf23bbdd288dd73f95 )
+)
+
+game (
+	name "Tank War v1.01 (1995)(Ametist)(ru)"
+	description "Tank War v1.01 (1995)(Ametist)(ru)"
+	rom ( name "Tank War v1.01 (1995)(Ametist)(ru).trd" size 39680 crc f7726833 md5 9b4190ad222606ec092c97d94abb7acc sha1 e1f921066ffd0c0546809813f74f9d27f3792608 )
+)
+
+game (
+	name "Tankodrom (1992)(Copper Feet)(ru)[h Anton Ershoff]"
+	description "Tankodrom (1992)(Copper Feet)(ru)[h Anton Ershoff]"
+	rom ( name "Tankodrom (1992)(Copper Feet)(ru)[h Anton Ershoff].trd" size 45824 crc 366f6886 md5 9c71c3f792e19f6a32d0612fb88c7cd2 sha1 ecf50b9a6444a095b3d9c9c7981ae542120721c2 )
+)
+
+game (
+	name "Technodrom (1997)(Real Software)"
+	description "Technodrom (1997)(Real Software)"
+	rom ( name "Technodrom (1997)(Real Software).trd" size 133888 crc f1f2f29d md5 6f7561a55ef04946bdad4e26fb1f46ad sha1 3d17a031902f1f3c4ba882101620e2438b1612e8 )
+)
+
+game (
+	name "Tetriller (1992)(Advanced Computer Exotic)(ru)[h DestWare]"
+	description "Tetriller (1992)(Advanced Computer Exotic)(ru)[h DestWare]"
+	rom ( name "Tetriller (1992)(Advanced Computer Exotic)(ru)[h DestWare].trd" size 48128 crc 6deb5414 md5 715fad6f067695849e0dbd3b464fe48a sha1 11123bd2c95028c259cf0b5ead5d0fe892a0574f )
+)
+
+game (
+	name "Tetris (1990)(V. Balyanov - P. Trubinov)(ru)"
+	description "Tetris (1990)(V. Balyanov - P. Trubinov)(ru)"
+	rom ( name "Tetris (1990)(V. Balyanov - P. Trubinov)(ru).trd" size 18432 crc 361dfddd md5 c3f48e760f23511d3bbc06298bd70413 sha1 0cd21bd6e84bf48ce790ed308896145195ea2312 )
+)
+
+game (
+	name "Tetris (1991)(Tera Software)(ru)"
+	description "Tetris (1991)(Tera Software)(ru)"
+	rom ( name "Tetris (1991)(Tera Software)(ru).trd" size 22272 crc 2482f9e9 md5 9d48c90b047ffdd675eac59ec7a3cab5 sha1 483c58e1030bbec62ddc0c1d078a0b06da6a0a88 )
+)
+
+game (
+	name "Tetris (1995)(R&S Compani)[h Freeman]"
+	description "Tetris (1995)(R&S Compani)[h Freeman]"
+	rom ( name "Tetris (1995)(R&S Compani)[h Freeman].trd" size 21760 crc 69c0bac9 md5 86aa87b4c28d8b2f78d1d2ecb99e3487 sha1 dccd1af68bae9acb81ba103e846558e0636cedd5 )
+)
+
+game (
+	name "Tetris-Sokoban (19xx)(Ivan Krut)(ru)"
+	description "Tetris-Sokoban (19xx)(Ivan Krut)(ru)"
+	rom ( name "Tetris-Sokoban (19xx)(Ivan Krut)(ru).trd" size 14592 crc 5358cd79 md5 593ede34dcf14f8948c203e935d5b678 sha1 e154dc5ea581940317a8a7727aebb42be359eccd )
+)
+
+game (
+	name "Thousand (1997)(Willis Software)(ru)"
+	description "Thousand (1997)(Willis Software)(ru)"
+	rom ( name "Thousand (1997)(Willis Software)(ru).trd" size 25344 crc b927fa6a md5 672dd908f4ef7f16d6b337bc7a328054 sha1 06f4df55c6dc397105e24c4c74d1ecc43830b67b )
+)
+
+game (
+	name "Time Cop (demo) (1996)(Rover Soft)(ru)"
+	description "Time Cop (demo) (1996)(Rover Soft)(ru)"
+	rom ( name "Time Cop (demo) (1996)(Rover Soft)(ru).trd" size 317440 crc 5d507576 md5 8443477bb468008c532abeaa331688f3 sha1 6f3b63dfc2e8a262609c60147ca878e48c6b95a3 )
+)
+
+game (
+	name "Top Gear - Crazy Cars 3 v0.001 (demo) (1999)(U99)"
+	description "Top Gear - Crazy Cars 3 v0.001 (demo) (1999)(U99)"
+	rom ( name "Top Gear - Crazy Cars 3 v0.001 (demo) (1999)(U99).trd" size 49408 crc b98bbc29 md5 49cfa62b73f8a8de0234421d7477a683 sha1 2ec5b3f112c047e8ab76f0a183716ba2965c1ed5 )
+)
+
+game (
+	name "Tower Pod (1999)(Studio Stall)(ru)"
+	description "Tower Pod (1999)(Studio Stall)(ru)"
+	rom ( name "Tower Pod (1999)(Studio Stall)(ru).trd" size 85248 crc 8b6cf936 md5 2d6b8560c54411ef9aa2065f80c1f2cf sha1 812da92548d82cf998bd50fd57572ed56da229cf )
+)
+
+game (
+	name "Treasure (demo) (1996)(Sirius Group)(ru)"
+	description "Treasure (demo) (1996)(Sirius Group)(ru)"
+	rom ( name "Treasure (demo) (1996)(Sirius Group)(ru).trd" size 26624 crc ac27f047 md5 c498cb6b7a4d7a8532df4b9b01d69305 sha1 617db5ed9cbee7a4e3779a9747d7e893f97a6a4d )
+)
+
+game (
+	name "Trinia (19xx)(R.A. Soft)(ru)[h Zhenya]"
+	description "Trinia (19xx)(R.A. Soft)(ru)[h Zhenya]"
+	rom ( name "Trinia (19xx)(R.A. Soft)(ru)[h Zhenya].trd" size 32256 crc 362bdaa6 md5 4a811366edcfed34bb2cdec40ca1aa59 sha1 ccdc829726b8f77e38eb2c010e54df9989191dd9 )
+)
+
+game (
+	name "Trubes (1996)(Panc Software)(ru)"
+	description "Trubes (1996)(Panc Software)(ru)"
+	rom ( name "Trubes (1996)(Panc Software)(ru).trd" size 16896 crc 57f06374 md5 71ece953c4d8c7c56769746a26aa9927 sha1 828aeeefff20ef546a402086e359a1be7d49c69a )
+)
+
+game (
+	name "Trubis (1995)(Sunny Team)(ru)"
+	description "Trubis (1995)(Sunny Team)(ru)"
+	rom ( name "Trubis (1995)(Sunny Team)(ru).trd" size 30976 crc e591617c md5 7124cfcf06d60ebadc012ff5fe5f96b0 sha1 190e6922d498f4d5841a26cf27a792e91483be70 )
+)
+
+game (
+	name "Tube Mix (1993)(THD)(ru)[h Phantom]"
+	description "Tube Mix (1993)(THD)(ru)[h Phantom]"
+	rom ( name "Tube Mix (1993)(THD)(ru)[h Phantom].trd" size 29952 crc bac2cd62 md5 15254d8e83c4263bd5e36170f5c4ee0d sha1 b302cf11b5d738e1953a8d6b5070f287ef72c0fc )
+)
+
+game (
+	name "Tupichok (1996)(Systematic)"
+	description "Tupichok (1996)(Systematic)"
+	rom ( name "Tupichok (1996)(Systematic).trd" size 36864 crc 6171f97b md5 f76d9a39cea3b3f8eb921253e3b81c37 sha1 9086b817db6ba2a0b861258664fbe54e5573633d )
+)
+
+game (
+	name "Tupik (demo) (19xx)(KYO)"
+	description "Tupik (demo) (19xx)(KYO)"
+	rom ( name "Tupik (demo) (19xx)(KYO).trd" size 19200 crc 9bc1ea77 md5 851ec4ffe5c02154c7ad31a1f936e347 sha1 b33af7ce66124ca56ec9e6c15ea6972ee9deaa02 )
+)
+
+game (
+	name "Turn or Xor'em All, The (1995)(Create Soft Research)[h Digital Reality]"
+	description "Turn or Xor'em All, The (1995)(Create Soft Research)[h Digital Reality]"
+	rom ( name "Turn or Xor'em All, The (1995)(Create Soft Research)[h Digital Reality].trd" size 188672 crc 0bb5d39e md5 2c0380b5ad2a19509be16497e7d2e07a sha1 742ff7a30ed4c8237a8b3616bf31d330e3538ada )
+)
+
+game (
+	name "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality]"
+	description "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality]"
+	rom ( name "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality].trd" size 256768 crc dcb4e55d md5 0374d049e32a55768ef118f1614f9919 sha1 eca5ed6da7084604e47bceccb06fb426603c5ef9 )
+)
+
+game (
+	name "Twins, The (demo) (19xx)(FX Illusion)"
+	description "Twins, The (demo) (19xx)(FX Illusion)"
+	rom ( name "Twins, The (demo) (19xx)(FX Illusion).trd" size 38144 crc c4d5ed49 md5 26cd099862ce6cc89984aa1b7c0d0e51 sha1 c77edf6faa93db5884e6b16e93bd6dbf012b9fe6 )
+)
+
+game (
+	name "Twister Fruit Machine (1998)(E.S.A. Productions)"
+	description "Twister Fruit Machine (1998)(E.S.A. Productions)"
+	rom ( name "Twister Fruit Machine (1998)(E.S.A. Productions).trd" size 47360 crc 550603b0 md5 08a877f2a13c35cfb59ffaa0c9169259 sha1 565610493fad28fa830a2a0a6e6ec423704fd1ba )
+)
+
+game (
+	name "Udav-Cifroyed (1995)(Copper Feet)(ru)"
+	description "Udav-Cifroyed (1995)(Copper Feet)(ru)"
+	rom ( name "Udav-Cifroyed (1995)(Copper Feet)(ru).trd" size 11008 crc 0f15e7fc md5 e90f7495f894ca954db721051622a6d9 sha1 c3b99cce2d5a63968f0790faf1356ec928cf0450 )
+)
+
+game (
+	name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t]"
+	description "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t]"
+	rom ( name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t].trd" size 344064 crc d8145fcb md5 c3e874267471164c17fe3e48895b8ca7 sha1 53deea675c1bc110eca277344693d94280fa6b62 )
+)
+
+game (
+	name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t][a]"
+	description "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t][a]"
+	rom ( name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Digital Reality][t][a].trd" size 655360 crc 3d8d9e78 md5 480903ff37cec6939c4910536e2587b5 sha1 08eb1886aa06e695b41d6a3baf4be4c2da6d2f51 )
+)
+
+game (
+	name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t]"
+	description "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t]"
+	rom ( name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t].trd" size 655360 crc cb3d3239 md5 152c847fee04e60bad4320d6772ab1b7 sha1 c8ca8a79cf8f1806e13e07099f246929410b2e3c )
+)
+
+game (
+	name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t][a]"
+	description "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t][a]"
+	rom ( name "UFO - Enemy Unknown v2.0 (1995)(Copper Feet)(ru)[h Hacker Cris][t][a].trd" size 655360 crc 7f31fd7d md5 444c5d407809db46fb95528d87d515ba sha1 59b1f211b27f564ebf4c35e844f16c6135dd2732 )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep (demo) (1995)(Copper Feet)(ru)"
+	description "UFO 2 - Terror from the Deep (demo) (1995)(Copper Feet)(ru)"
+	rom ( name "UFO 2 - Terror from the Deep (demo) (1995)(Copper Feet)(ru).trd" size 62720 crc 806b5136 md5 1ad17b602e832d13133a6393d937176b sha1 62948f0bad7a9fdccf75297722ab944c326e5e29 )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep - Not Playable Demo (demo) (1995)(Copper Feet)(ru)"
+	description "UFO 2 - Terror from the Deep - Not Playable Demo (demo) (1995)(Copper Feet)(ru)"
+	rom ( name "UFO 2 - Terror from the Deep - Not Playable Demo (demo) (1995)(Copper Feet)(ru).trd" size 73216 crc c444f055 md5 299347bfe35bca43d9cf38b55168f76c sha1 80e804f4b6350ab01a12ef507ba5843f2870d14f )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep - Saved Games (1995)(Copper Feet)(ru)"
+	description "UFO 2 - Terror from the Deep - Saved Games (1995)(Copper Feet)(ru)"
+	rom ( name "UFO 2 - Terror from the Deep - Saved Games (1995)(Copper Feet)(ru).trd" size 655360 crc 9345b776 md5 bc835104e9dfe3d913e6a4f7136772f4 sha1 c6e9cdc1b01c105de829d645e850a31775cce158 )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)"
+	description "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)"
+	rom ( name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru).trd" size 655360 crc 0cc728f9 md5 0b727f1731e8c640fd2fa6455688c426 sha1 9f2afdf026abafe34573a98f63e89cfc2137f050 )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h AMD]"
+	description "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h AMD]"
+	rom ( name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h AMD].trd" size 655360 crc 09189f02 md5 e648c0a98465d3f5d06d1adafe916cb7 sha1 210588692a6e8edfe9e44ea8fbe771fc277e7589 )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h Delta Hackers Group]"
+	description "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h Delta Hackers Group]"
+	rom ( name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h Delta Hackers Group].trd" size 655360 crc 2471a558 md5 3d316a54997f32eb3b7b2086e8cd6d97 sha1 bfc46022ff606062ae12a3e3fab7be09c45a53cf )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h2]"
+	description "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h2]"
+	rom ( name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h2].trd" size 655360 crc 5ec6a3d9 md5 ec006b9b5b04a48cd32b25cf09d2f6eb sha1 82fae0b462960af6009fa77d61a373419de9f57f )
+)
+
+game (
+	name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h]"
+	description "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h]"
+	rom ( name "UFO 2 - Terror from the Deep v2.10 (1996)(Copper Feet)(ru)[h].trd" size 509952 crc b6f860b7 md5 6f6b006db47a6159663b431917e772d8 sha1 1a22fea4071f07eb3b59a18355f6c0d9cf0de9f2 )
+)
+
+game (
+	name "Ugolki (1996)(Electrical Brain)(ru)"
+	description "Ugolki (1996)(Electrical Brain)(ru)"
+	rom ( name "Ugolki (1996)(Electrical Brain)(ru).trd" size 21760 crc 653bd501 md5 04f0deff37e668e08e6fa1767371ee16 sha1 b5de0c34b7bffa6030dfe9d2dc509bea68b47f8c )
+)
+
+game (
+	name "Universal (1991)(-)(ru)"
+	description "Universal (1991)(-)(ru)"
+	rom ( name "Universal (1991)(-)(ru).trd" size 31488 crc 8d9e623b md5 598c5adc7098d34e3d9826cb82c39c6e sha1 570f65d6ba2b31878fa2ef4c81f62688f1996b27 )
+)
+
+game (
+	name "Video Sport (1992)(Copper Feet)(ru)"
+	description "Video Sport (1992)(Copper Feet)(ru)"
+	rom ( name "Video Sport (1992)(Copper Feet)(ru).trd" size 35584 crc f0ea0e8e md5 fea9d9014c379c707195feed435d207b sha1 46e5bbdb8aa585afb634348817dce5e136237522 )
+)
+
+game (
+	name "Vinny Puh (1996)(VB)(ru)[h Seamans][t]"
+	description "Vinny Puh (1996)(VB)(ru)[h Seamans][t]"
+	rom ( name "Vinny Puh (1996)(VB)(ru)[h Seamans][t].trd" size 124672 crc d71679aa md5 9f8fc7ae312f89dfbb37f1a9df099466 sha1 2da33b7e14428e06e74c6f9bf37c47b25b80fceb )
+)
+
+game (
+	name "Vinny Puh (demo) (1996)(VB)(ru)"
+	description "Vinny Puh (demo) (1996)(VB)(ru)"
+	rom ( name "Vinny Puh (demo) (1996)(VB)(ru).trd" size 55552 crc 99a67565 md5 687e2c4568aff8042b6dbf2cd04ced66 sha1 630881a1aac3b07e6d785aade22672db6fbf1391 )
+)
+
+game (
+	name "Virgula (1994)(Free Group)(ru)"
+	description "Virgula (1994)(Free Group)(ru)"
+	rom ( name "Virgula (1994)(Free Group)(ru).trd" size 41216 crc 2b435d96 md5 4fe2c85494b8c67a338f75283e455512 sha1 cddd9140d6612b0892581cc59714ec071c4bf363 )
+)
+
+game (
+	name "Virus (1995)(S.V. Kukoviakin)"
+	description "Virus (1995)(S.V. Kukoviakin)"
+	rom ( name "Virus (1995)(S.V. Kukoviakin).trd" size 30208 crc 491e89de md5 005439b5a7f42b3d1d8dc103153a9dd7 sha1 4180d685e0d141e03f899cad8c5e8f73dd1978cf )
+)
+
+game (
+	name "Virus II (1995)(S.V. Kukoviakin)(ru)"
+	description "Virus II (1995)(S.V. Kukoviakin)(ru)"
+	rom ( name "Virus II (1995)(S.V. Kukoviakin)(ru).trd" size 45568 crc 5ef717d9 md5 432df2cec669fbf88afe4426f93c895d sha1 f0b8d62c98a54fef31143018c1422d557b749dfc )
+)
+
+game (
+	name "Visyelica (1997)(S.Y.B.)(ru)"
+	description "Visyelica (1997)(S.Y.B.)(ru)"
+	rom ( name "Visyelica (1997)(S.Y.B.)(ru).trd" size 39168 crc 2a393ffe md5 a48345cfc146a3446bbe1724b765a9fb sha1 8b07f7cd091968585cde13a387ab144d224c224c )
+)
+
+game (
+	name "Vs (1997)(Bes)(ru)"
+	description "Vs (1997)(Bes)(ru)"
+	rom ( name "Vs (1997)(Bes)(ru).trd" size 43520 crc 240097c0 md5 edf896633c70cca69e72fa9d95d71803 sha1 eb79f83da6930df14b395b1d853e5afebc0d118d )
+)
+
+game (
+	name "Vyesu (demo) (19xx)(-)(ru)"
+	description "Vyesu (demo) (19xx)(-)(ru)"
+	rom ( name "Vyesu (demo) (19xx)(-)(ru).trd" size 14848 crc de97e97f md5 518957d055dbe65155d1b80ed5b661ad sha1 32c6adc62660504b38a0bf6694b6c679d216e166 )
+)
+
+game (
+	name "Walker (demo) (1996)(Alien Factory)(ru)"
+	description "Walker (demo) (1996)(Alien Factory)(ru)"
+	rom ( name "Walker (demo) (1996)(Alien Factory)(ru).trd" size 109312 crc e0e66ba9 md5 9e28df9557807a7dd85114a0dfcfcd53 sha1 a2867e7712a15d3455b0868bb663a852882619ad )
+)
+
+game (
+	name "Walker v2.0 (demo) (1996)(Alien Factory)"
+	description "Walker v2.0 (demo) (1996)(Alien Factory)"
+	rom ( name "Walker v2.0 (demo) (1996)(Alien Factory).trd" size 45056 crc 8375b9b6 md5 22f44f1b5b3b68d13ef224b39b2b9e78 sha1 e998cd55ef95b99416ffa65ee96976ce9ea756d3 )
+)
+
+game (
+	name "War for Territory (demo) (19xx)(D. M0r0Zz)(ru)"
+	description "War for Territory (demo) (19xx)(D. M0r0Zz)(ru)"
+	rom ( name "War for Territory (demo) (19xx)(D. M0r0Zz)(ru).trd" size 83456 crc 1dc3e4b6 md5 288adc007edd6e7b34b6523dd8d89d9e sha1 96bdd65bf689a159efc62d15f082fd29daf5c6ca )
+)
+
+game (
+	name "Warcraft (demo) (19xx)(G-Software)"
+	description "Warcraft (demo) (19xx)(G-Software)"
+	rom ( name "Warcraft (demo) (19xx)(G-Software).trd" size 50176 crc dde7c12d md5 6eab1908fea542729214776da66f2d27 sha1 8e128d49e445245055469019ae4b3bd7a894e192 )
+)
+
+game (
+	name "Watermill (1993)(THD - Fanatic Stas)(ru)"
+	description "Watermill (1993)(THD - Fanatic Stas)(ru)"
+	rom ( name "Watermill (1993)(THD - Fanatic Stas)(ru).trd" size 69888 crc c2bcb9f5 md5 d73dac7b06b2ec3f18edf8c89ada54ce sha1 9dde8dc74ec496edb3c64740b23b1e2e5fce5eeb )
+)
+
+game (
+	name "Way of Clans (demo) (1996)(Orion Software)(ru)"
+	description "Way of Clans (demo) (1996)(Orion Software)(ru)"
+	rom ( name "Way of Clans (demo) (1996)(Orion Software)(ru).trd" size 55296 crc b74fdc99 md5 b412db8caf50c7aff7f2468898ff1cd4 sha1 94d23e25f90451e0054d3d8a530a0bc1442904c9 )
+)
+
+game (
+	name "Way Out (1996)(KYO)[h Phantasy]"
+	description "Way Out (1996)(KYO)[h Phantasy]"
+	rom ( name "Way Out (1996)(KYO)[h Phantasy].trd" size 22528 crc d44a3649 md5 718f48039ac8de85d14d7f99a43ff42f sha1 37bce9d1ce5d6b3040ffbdaabe288298c75bc318 )
+)
+
+game (
+	name "Wild Streets - Remake (1990)(Titus)[h Demiurge Ash]"
+	description "Wild Streets - Remake (1990)(Titus)[h Demiurge Ash]"
+	rom ( name "Wild Streets - Remake (1990)(Titus)[h Demiurge Ash].trd" size 44288 crc d0a27f07 md5 8b151e2fa0225c1bce6815b96f8ddac8 sha1 c62929609f6a0a7039dd605d7c977463c417e6d5 )
+)
+
+game (
+	name "Wolf (demo) (1998)(Alone Coder)"
+	description "Wolf (demo) (1998)(Alone Coder)"
+	rom ( name "Wolf (demo) (1998)(Alone Coder).trd" size 13056 crc 621ac7d2 md5 dc3a7ed5688e5ae21f0cd8cc342c02f5 sha1 4ad618dce98ae42e06e32c7b99ab56b61221d5c8 )
+)
+
+game (
+	name "Word Life (19xx)(Computer Rats Group)(ru)"
+	description "Word Life (19xx)(Computer Rats Group)(ru)"
+	rom ( name "Word Life (19xx)(Computer Rats Group)(ru).trd" size 67840 crc 91253c3d md5 0cb39efef5c0445d0e193697f1106c62 sha1 0469a03c15328c7d5632dab235c5206566ab9aa2 )
+)
+
+game (
+	name "Worm (1998)(Master Home Computers Group)"
+	description "Worm (1998)(Master Home Computers Group)"
+	rom ( name "Worm (1998)(Master Home Computers Group).trd" size 14080 crc 36183853 md5 312813f92585bef4eddca8c1b211a59e sha1 a6c4bda070d879c0617a00b93f9f4289a7f5609e )
+)
+
+game (
+	name "Worms (demo) (1997)(Silicon Brains Software)"
+	description "Worms (demo) (1997)(Silicon Brains Software)"
+	rom ( name "Worms (demo) (1997)(Silicon Brains Software).trd" size 47360 crc 0a1f074c md5 ba897066fb66c8d13c7e0e261d0931a2 sha1 f9bb196bfdf86c92eeea9dc3b4667d140d98d23e )
+)
+
+game (
+	name "Worms (demo) (1999)(Multyplex Group)"
+	description "Worms (demo) (1999)(Multyplex Group)"
+	rom ( name "Worms (demo) (1999)(Multyplex Group).trd" size 49408 crc 0803f67a md5 e68c266f68ed1aafb3f79802eb3ad89c sha1 d65e14c2c2a7b9047332942cad2b20d6bab43669 )
+)
+
+game (
+	name "Worms (demo) (19xx)(Evgeny Bystrov)(ru)"
+	description "Worms (demo) (19xx)(Evgeny Bystrov)(ru)"
+	rom ( name "Worms (demo) (19xx)(Evgeny Bystrov)(ru).trd" size 34048 crc ccaae4b9 md5 225ffac0567daf64501e676a83b06d90 sha1 eaeb864a146859491057baf3d7ddecdaa290caf6 )
+)
+
+game (
+	name "X and O (1996)(Nasty Group)"
+	description "X and O (1996)(Nasty Group)"
+	rom ( name "X and O (1996)(Nasty Group).trd" size 23296 crc 13ca292a md5 0ec89a35c8ce68308e2e0258e2024606 sha1 4e14206e207d353b4c80c4a15dfa79309bca7560 )
+)
+
+game (
+	name "Xecutor (1987)(ACE Software)[h]"
+	description "Xecutor (1987)(ACE Software)[h]"
+	rom ( name "Xecutor (1987)(ACE Software)[h].trd" size 219136 crc 91309419 md5 f794fc6ed6ee11db93f685cbd14e66ce sha1 7f29226d54f9683184823f7feffb820cb4bcc2b1 )
+)
+
+game (
+	name "Xeno (1986)(A & F Software)[h Fion]"
+	description "Xeno (1986)(A & F Software)[h Fion]"
+	rom ( name "Xeno (1986)(A & F Software)[h Fion].trd" size 152576 crc 34a0846a md5 99dbbcd133701af5d1ac486cae6dcc72 sha1 2a682e5a7c4b579f460d4e9e049702f92e9a7110 )
+)
+
+game (
+	name "XiXit (1999)(Real Software)"
+	description "XiXit (1999)(Real Software)"
+	rom ( name "XiXit (1999)(Real Software).trd" size 64768 crc 61723f5a md5 42f1f4d503db6faf080c5e1191ddcfee sha1 3ba63fa467879e12c071a3ff339f8681045da354 )
+)
+
+game (
+	name "Xonix (1991)(C&C)(ru)"
+	description "Xonix (1991)(C&C)(ru)"
+	rom ( name "Xonix (1991)(C&C)(ru).trd" size 26880 crc 78173587 md5 ca2c788592bc9d70496debc02cd2ac61 sha1 5dc07e48401240cc98572b80149367d07d81ac9f )
+)
+
+game (
+	name "Xonix (1994)(Wlad)(ru)"
+	description "Xonix (1994)(Wlad)(ru)"
+	rom ( name "Xonix (1994)(Wlad)(ru).trd" size 10240 crc a7d29f8b md5 1292a0e2200d6ebacd8322016fedb0be sha1 c1cc9027768331e6abf89ac856050b9c21e6a4b8 )
+)
+
+game (
+	name "Xreversy (demo) (1997)(XL-Design)"
+	description "Xreversy (demo) (1997)(XL-Design)"
+	rom ( name "Xreversy (demo) (1997)(XL-Design).trd" size 12288 crc baaa3de8 md5 f23b6be99a72d5a3f66fa623166bf2a3 sha1 c805e4bf60953ff03d3859c0c03a69fadf3b6925 )
+)
+
+game (
+	name "Zunny 1 (1995)(StapleSoft)(ru)"
+	description "Zunny 1 (1995)(StapleSoft)(ru)"
+	rom ( name "Zunny 1 (1995)(StapleSoft)(ru).trd" size 45056 crc c9d62634 md5 18e8d8c4487f65b5b380acdb1ba646e1 sha1 4df10c3bec0a6f071dab7db8a871deaa070a3343 )
+)
+
+game (
+	name "Zunny 2 (1995)(StapleSoft)(ru)[h ZBHG]"
+	description "Zunny 2 (1995)(StapleSoft)(ru)[h ZBHG]"
+	rom ( name "Zunny 2 (1995)(StapleSoft)(ru)[h ZBHG].trd" size 33536 crc 191fd32e md5 a4fbcda8bcae8af85bad1384f9ad934c sha1 2483ed205452896a5d3a9cb13c03520423e18f14 )
+)
+
+game (
+	name "ZX-Windows Passiance (1999)(Nagual)(ru)"
+	description "ZX-Windows Passiance (1999)(Nagual)(ru)"
+	rom ( name "ZX-Windows Passiance (1999)(Nagual)(ru).trd" size 11264 crc 5696439f md5 6d1df2e3c2c293e4931f0ffebbd11c32 sha1 c46505230271c8bd26abdf076b2a7723ce802370 )
+)
+
+game (
+	name "Zynaps (1987)(Hewson Consultants)[h ZX-Masters][t]"
+	description "Zynaps (1987)(Hewson Consultants)[h ZX-Masters][t]"
+	rom ( name "Zynaps (1987)(Hewson Consultants)[h ZX-Masters][t].trd" size 560896 crc 051c3f75 md5 bcc6c55fedb6b58b64193987c8f03f45 sha1 95a1cffd356bf06dcc5e4df3dd5894ecc87505d7 )
+)
+

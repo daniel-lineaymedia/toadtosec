@@ -1,0 +1,139 @@
+clrmamepro (
+	name "Atari ST - Educational - [STX]"
+	description "Atari ST - Educational - [STX] (TOSEC-v2009-09-01)"
+	category "Atari ST - Educational - [STX]"
+	version 2009-09-01
+	author "jjs - dirkpitt - Grendel - Gucek - Keili - Laokoon - Leto_II - steph"
+)
+
+game (
+	name "Chateau Du Monstre, Le (19xx)(Texier, Alain)"
+	description "Chateau Du Monstre, Le (19xx)(Texier, Alain)"
+	rom ( name "Chateau Du Monstre, Le (19xx)(Texier, Alain).stx" size 1851366 crc f0a16513 md5 ddeb5f4527e46c989c20492dcf97d944 )
+)
+
+game (
+	name "Codoroute - Le Circuit (1988)(Ecolauto)(fr)"
+	description "Codoroute - Le Circuit (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Le Circuit (1988)(Ecolauto)(fr).stx" size 917558 crc c9d2a3a1 md5 cddec8a31e429ce6ac44797b8ad630f5 )
+)
+
+game (
+	name "Codoroute - Les Panneaux (1988)(Ecolauto)(fr)"
+	description "Codoroute - Les Panneaux (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Les Panneaux (1988)(Ecolauto)(fr).stx" size 1806652 crc cc90ba80 md5 ac10d5a4314af1b2bf93d6183c2cc786 )
+)
+
+game (
+	name "Codoroute - Tableau De Bord (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tableau De Bord (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tableau De Bord (1988)(Ecolauto)(fr).stx" size 915744 crc f678a621 md5 4d985e746f41e5f2a0c81313655b4e16 )
+)
+
+game (
+	name "Codoroute - Tests Module 1 (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tests Module 1 (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tests Module 1 (1988)(Ecolauto)(fr).stx" size 1805814 crc 18e4a6e2 md5 9e8fa4960b7b3c6b45624b9169f27653 )
+)
+
+game (
+	name "Codoroute - Tests Module 2 (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tests Module 2 (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tests Module 2 (1988)(Ecolauto)(fr).stx" size 1806010 crc fbf4589b md5 b0ec882225eb3861574bb601bc8b31d2 )
+)
+
+game (
+	name "Codoroute - Tests Module 3 (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tests Module 3 (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tests Module 3 (1988)(Ecolauto)(fr).stx" size 1798970 crc a6bc89e9 md5 afe266066d0249407ea76ab719f768c2 )
+)
+
+game (
+	name "Codoroute - Tests Module 4 (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tests Module 4 (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tests Module 4 (1988)(Ecolauto)(fr).stx" size 1798978 crc 1e461db2 md5 caef1bbdc6277234a52625f5b89f0cc7 )
+)
+
+game (
+	name "Codoroute - Tests Module 5 (1988)(Ecolauto)(fr)"
+	description "Codoroute - Tests Module 5 (1988)(Ecolauto)(fr)"
+	rom ( name "Codoroute - Tests Module 5 (1988)(Ecolauto)(fr).stx" size 1807458 crc 7f886ec1 md5 a553a86b016f6eada2d43f4bdba6ed0a )
+)
+
+game (
+	name "Destination Maths (19xx)(Generation 5)(fr)(Disk 1 of 2)"
+	description "Destination Maths (19xx)(Generation 5)(fr)(Disk 1 of 2)"
+	rom ( name "Destination Maths (19xx)(Generation 5)(fr)(Disk 1 of 2).stx" size 1767592 crc 14323b69 md5 911166d80cb7f52cd5e5e82ea14122d8 )
+)
+
+game (
+	name "Destination Maths (19xx)(Generation 5)(fr)(Disk 2 of 2)"
+	description "Destination Maths (19xx)(Generation 5)(fr)(Disk 2 of 2)"
+	rom ( name "Destination Maths (19xx)(Generation 5)(fr)(Disk 2 of 2).stx" size 1764622 crc 7db21c1c md5 dda27a7392c3f18b4675b3f89f5e4e8d )
+)
+
+game (
+	name "Il etait une Fois (1988)(Carraz Editions)(fr)"
+	description "Il etait une Fois (1988)(Carraz Editions)(fr)"
+	rom ( name "Il etait une Fois (1988)(Carraz Editions)(fr).stx" size 1801832 crc dd764031 md5 a67c64013764e498de88800eeec92de8 )
+)
+
+game (
+	name "Joe Blade (1988)(Players)"
+	description "Joe Blade (1988)(Players)"
+	rom ( name "Joe Blade (1988)(Players).stx" size 383204 crc 93417242 md5 efe9fea0b35e37b90c5f1a45bcbef092 )
+)
+
+game (
+	name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2)"
+	description "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2)"
+	rom ( name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2).stx" size 923658 crc b8ccd0dc md5 59e5718a3d28745be53a2181cc69b3da )
+)
+
+game (
+	name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2)[a]"
+	description "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2)[a]"
+	rom ( name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 1 of 2)[a].stx" size 420784 crc f34036e0 md5 752a7443b41b387a2e51722576834323 )
+)
+
+game (
+	name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2)"
+	description "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2)"
+	rom ( name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2).stx" size 930168 crc afa03ecc md5 0804877baa2f0f94c2439e4c49a30fa2 )
+)
+
+game (
+	name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2)[a]"
+	description "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2)[a]"
+	rom ( name "Labyrinthe de Morphintax, Le (1991)(Retz)(Disk 2 of 2)[a].stx" size 421296 crc bd8599ae md5 28a2e3736303d2b6f60fb075c055d3be )
+)
+
+game (
+	name "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 1 of 2)"
+	description "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 1 of 2)"
+	rom ( name "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 1 of 2).stx" size 420784 crc 06b9d70f md5 a854a049a5032be1ce9c9fb8af4f1722 )
+)
+
+game (
+	name "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 2 of 2)"
+	description "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 2 of 2)"
+	rom ( name "Labyrinthe des Pharaons, Le (19xx)(Retz)(fr)(Disk 2 of 2).stx" size 421296 crc a1ab5346 md5 f7578b7f787d7dd5c9e469fc50028e74 )
+)
+
+game (
+	name "Maths CM (1988)(Micro-C)(fr)"
+	description "Maths CM (1988)(Micro-C)(fr)"
+	rom ( name "Maths CM (1988)(Micro-C)(fr).stx" size 946012 crc 0debf757 md5 50a7ce9a74fe025db54b016f476ba404 )
+)
+
+game (
+	name "Ortho CE CM 6e (1988)(Micro-C)(fr)"
+	description "Ortho CE CM 6e (1988)(Micro-C)(fr)"
+	rom ( name "Ortho CE CM 6e (1988)(Micro-C)(fr).stx" size 945804 crc aff21b0d md5 ea9769ded2cf92dd76be5c78ba91d734 )
+)
+
+game (
+	name "Smash TV (1991)(Ocean)"
+	description "Smash TV (1991)(Ocean)"
+	rom ( name "Smash TV (1991)(Ocean).stx" size 867636 crc dfdc5600 md5 400ed7e025fc271b892dda3c9dfdadad )
+)

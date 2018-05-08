@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Exelvision Exeltel - Firmware"
+	description "Exelvision Exeltel - Firmware (TOSEC-v2009-12-23)"
+	category "Exelvision Exeltel - Firmware"
+	version 2009-12-23
+	author "TKaos"
+)
+
+game (
+	name "Amper Exeltel (1987)(Amper)(ES)"
+	description "Amper Exeltel (1987)(Amper)(ES)"
+	rom ( name "Amper Exeltel (1987)(Amper)(ES).bin" size 65536 crc 45af256c md5 ad2fa262f64cb423c8950f9013c90d9c )
+)
+
+game (
+	name "Exeltel (1986)(Exelvision)(FR)"
+	description "Exeltel (1986)(Exelvision)(FR)"
+	rom ( name "Exeltel (1986)(Exelvision)(FR).bin" size 65536 crc 52a80dd4 md5 387083e52ab5ed554b222e51b3ce4932 )
+)
+
+game (
+	name "TMS-7040 (1986)(Exelvision)(FR)"
+	description "TMS-7040 (1986)(Exelvision)(FR)"
+	rom ( name "TMS-7040 (1986)(Exelvision)(FR).bin" size 4096 crc 2792f02f md5 e135c6b4f2f2ae4da7124cb272ab5093 )
+)

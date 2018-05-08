@@ -1,0 +1,19 @@
+clrmamepro (
+	name "MITS Altair 8800 - Applications - [BAS]"
+	description "MITS Altair 8800 - Applications - [BAS] (TOSEC-v2008-01-27)"
+	category "MITS Altair 8800 - Applications - [BAS]"
+	version 2008-01-27
+	author "TKaos"
+)
+
+game (
+	name "QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank)"
+	description "QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank)"
+	rom ( name "QD 8080 Assembler v1.7 (1999-01-24)(Durda, Frank).bas" size 15082 crc 35985fe9 md5 84fe8cf6fbda2abcb91d445a719574c0 )
+)
+
+game (
+	name "Recursive Budgeting Model (19xx)(Foster, Connie)"
+	description "Recursive Budgeting Model (19xx)(Foster, Connie)"
+	rom ( name "Recursive Budgeting Model (19xx)(Foster, Connie).bas" size 9600 crc 02435572 md5 33a0e0bbb92a4b56079a85909f24858b )
+)

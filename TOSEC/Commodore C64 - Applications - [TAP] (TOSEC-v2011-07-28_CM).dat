@@ -1,0 +1,253 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [TAP]"
+	description "Commodore C64 - Applications - [TAP] (TOSEC-v2011-07-28)"
+	category "Commodore C64 - Applications - [TAP]"
+	version 2011-07-28
+	author "Duncan Twain - DesertWolf - Apache"
+)
+
+game (
+	name "Azimuth 3000 (1984)(Interceptor Micros)"
+	description "Azimuth 3000 (1984)(Interceptor Micros)"
+	rom ( name "Azimuth 3000 (1984)(Interceptor Micros).tap" size 588179 crc 5a9013c4 md5 5d641f68099597ee7574c9256187d32f sha1 b4f2fd3fa284ac9b1f64cd72ab8ef4807893c29a )
+)
+
+game (
+	name "Commodore Sound Sampler (19xx)(Commodore)"
+	description "Commodore Sound Sampler (19xx)(Commodore)"
+	rom ( name "Commodore Sound Sampler (19xx)(Commodore).tap" size 1393067 crc d28e195e md5 94af1fd5fbee14e5a360be2b36a7eb5d sha1 1da69917d358822fc9217e204c7a41214e0962bc )
+)
+
+game (
+	name "Doubler (1985)(Walltone Software)"
+	description "Doubler (1985)(Walltone Software)"
+	rom ( name "Doubler (1985)(Walltone Software).tap" size 165102 crc 526ff5a1 md5 af83c0c4159b7e81995493ef9a459796 sha1 c405495e7d8f9d889af6428cc66a665d8b5d3d14 )
+)
+
+game (
+	name "Frost (19xx)(Commodore Format)"
+	description "Frost (19xx)(Commodore Format)"
+	rom ( name "Frost (19xx)(Commodore Format).tap" size 243254 crc d5fff74f md5 a43d2c02cde1623ebc97b409863fbf1b sha1 d0eb6ffc9c6979a8a9dc5db1732b9fa6c3f63501 )
+)
+
+game (
+	name "Graphic Editor (19xx)(Firebird Software)"
+	description "Graphic Editor (19xx)(Firebird Software)"
+	rom ( name "Graphic Editor (19xx)(Firebird Software).tap" size 487129 crc 524249dd md5 fb5c2741caaf02bb0fbc83d2e4ad4b13 sha1 205140360d813e85455c1ee7cee9b18caf64e15e )
+)
+
+game (
+	name "Image System, The (1986)(CRL)"
+	description "Image System, The (1986)(CRL)"
+	rom ( name "Image System, The (1986)(CRL).tap" size 511506 crc a897db3d md5 1b61594621653d7a1b88d7837084034f sha1 ded4ff68d723851d135e01fe3b2866c2a9c76ac1 )
+)
+
+game (
+	name "Junior Maths (1983)(Commodore)(Side A)"
+	description "Junior Maths (1983)(Commodore)(Side A)"
+	rom ( name "Junior Maths (1983)(Commodore)(Side A).tap" size 710492 crc 08b56f5d md5 830c0430dd05afb5342ba68de96594e4 sha1 2b9f31367e306383b452dc1998f30a88bc208d18 )
+)
+
+game (
+	name "Junior Maths (1983)(Commodore)(Side B)"
+	description "Junior Maths (1983)(Commodore)(Side B)"
+	rom ( name "Junior Maths (1983)(Commodore)(Side B).tap" size 720967 crc fd70a2fe md5 fc027a94477894be94063c1a3b38a3d0 sha1 4aaec1116de73e393f7506111a9e09d384120c14 )
+)
+
+game (
+	name "Kawasaki Synthesizer Performer (1984)(Ryo Kawasaki)"
+	description "Kawasaki Synthesizer Performer (1984)(Ryo Kawasaki)"
+	rom ( name "Kawasaki Synthesizer Performer (1984)(Ryo Kawasaki).tap" size 1618744 crc d7e34067 md5 06c9ef2398e1065e5a48fb9945280872 sha1 0953f862b3560df28be196a92b39b394cdf94c23 )
+)
+
+game (
+	name "Light Pen (19xx)(Trojan Products)"
+	description "Light Pen (19xx)(Trojan Products)"
+	rom ( name "Light Pen (19xx)(Trojan Products).tap" size 358842 crc 9d80c63a md5 ce4763085c7518b60ef550c23018fe30 sha1 994625c646ba0aff1ccc9b514df2570326103575 )
+)
+
+game (
+	name "MC Mayhem's Mega Music Mix 2 (19xx)(-)"
+	description "MC Mayhem's Mega Music Mix 2 (19xx)(-)"
+	rom ( name "MC Mayhem's Mega Music Mix 2 (19xx)(-).tap" size 304254 crc c852c41b md5 2348cd2c300aeda77cb5c4afb9f4e0c3 sha1 b71c161db253b834414bd5ba3ea7ba911022ef03 )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)"
+	description "Micro Rhythm (1986)(Firebird Software)"
+	rom ( name "Micro Rhythm (1986)(Firebird Software).tap" size 614726 crc bf4ab66b md5 2cf10ad1676f7add3b2a2992f11573f9 sha1 41282600fc1413a3bebefa5ba615993eb75dedd4 )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)[a2]"
+	description "Micro Rhythm (1986)(Firebird Software)[a2]"
+	rom ( name "Micro Rhythm (1986)(Firebird Software)[a2].tap" size 613576 crc 8ecf2e2e md5 4995ae3f9f6e8056fe4e56d930524d91 sha1 338708a7e0009ee87b3a38a5e5e0f12e09fbeade )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)[a3]"
+	description "Micro Rhythm (1986)(Firebird Software)[a3]"
+	rom ( name "Micro Rhythm (1986)(Firebird Software)[a3].tap" size 616648 crc 52c0d2ae md5 c6e4338d43157136ad2c12510123ebb9 sha1 2c6374a2f9147ec8f80167d961f398ed7b5f6d3e )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)[a4]"
+	description "Micro Rhythm (1986)(Firebird Software)[a4]"
+	rom ( name "Micro Rhythm (1986)(Firebird Software)[a4].tap" size 614048 crc 0182437c md5 db5634fc5f22f61711bbf3b067cc3371 sha1 f58afd5009d8ff8274c68b016900396715aa000e )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)[a]"
+	description "Micro Rhythm (1986)(Firebird Software)[a]"
+	rom ( name "Micro Rhythm (1986)(Firebird Software)[a].tap" size 613605 crc decbd02e md5 ebc5649e15015112020a528dcec2b4c8 sha1 5a661a5d1c920724be1dd71b20ac0871c0f7cf55 )
+)
+
+game (
+	name "Micro Rhythm (1986)(Firebird Software)[u]"
+	description "Micro Rhythm (1986)(Firebird Software)[u]"
+	rom ( name "Micro Rhythm (1986)(Firebird Software)[u].tap" size 163840 crc 2ab07fb0 md5 752492d1a22bd159397272d46fc70515 sha1 12ce73ede1f6ac3ff7793a589fc592d171506b8f )
+)
+
+game (
+	name "Micro Tuned (1986)(Firebird Software)"
+	description "Micro Tuned (1986)(Firebird Software)"
+	rom ( name "Micro Tuned (1986)(Firebird Software).tap" size 710299 crc a683785c md5 b25cbe716bb95b99ac087179bf799a41 sha1 b34854fa01fed7669250035a392727a8ec398f1b )
+)
+
+game (
+	name "Micro Tuned (1986)(Firebird Software)[a]"
+	description "Micro Tuned (1986)(Firebird Software)[a]"
+	rom ( name "Micro Tuned (1986)(Firebird Software)[a].tap" size 720432 crc 108fe55e md5 5281d92d1fdeef767122e42bcc7d7e85 sha1 b677728f566ec3800a315cd559ba450688083db8 )
+)
+
+game (
+	name "Micro Vocals (1986)(Firebird Software)"
+	description "Micro Vocals (1986)(Firebird Software)"
+	rom ( name "Micro Vocals (1986)(Firebird Software).tap" size 707876 crc 8f8216e4 md5 6c2bda876a814e938bcea39a8ea71a5f sha1 0012007e4ef6f17c27ff9db098361b591d04e409 )
+)
+
+game (
+	name "Music Maker (1984)(Commodore)"
+	description "Music Maker (1984)(Commodore)"
+	rom ( name "Music Maker (1984)(Commodore).tap" size 293970 crc d69225fc md5 8db21a5832975a2b8cd96eb98d094b24 sha1 3e793ceae449f14d94931dd19076bc427cbee98f )
+)
+
+game (
+	name "Music Maker (1984)(Commodore)[a]"
+	description "Music Maker (1984)(Commodore)[a]"
+	rom ( name "Music Maker (1984)(Commodore)[a].tap" size 904109 crc 3ea9d2ec md5 ca3073ec34856c0186fa499e5e8f9d8d sha1 914695d54322f754384c14033b0103e9e51aaf61 )
+)
+
+game (
+	name "Music Maker (1984)(Commodore)[u]"
+	description "Music Maker (1984)(Commodore)[u]"
+	rom ( name "Music Maker (1984)(Commodore)[u].tap" size 32768 crc 04ed459e md5 46a6062963cca6a74e393c371475793f sha1 dee59387ecb94648d57959980686c419c27bf494 )
+)
+
+game (
+	name "Music Maker (1984)(Commodore)[u][a]"
+	description "Music Maker (1984)(Commodore)[u][a]"
+	rom ( name "Music Maker (1984)(Commodore)[u][a].tap" size 32768 crc 3373d251 md5 7ebe9b6f604429146f934f639b0c0713 sha1 81e339dbd1701ff40f77d83d78af79c3e28a10dc )
+)
+
+game (
+	name "Music System, The (1985)(Firebird Software)"
+	description "Music System, The (1985)(Firebird Software)"
+	rom ( name "Music System, The (1985)(Firebird Software).tap" size 1059606 crc 390e2112 md5 3eb57659f3053f71291dc45e3f263944 sha1 b1b62ab1517a71ea881ebdaba57c5d3273b35b99 )
+)
+
+game (
+	name "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side A)"
+	description "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side A)"
+	rom ( name "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side A).tap" size 1929068 crc b0dd9be7 md5 fd9ea512f6722c86cae249e52293eeb5 sha1 e31645e8519b47a986b00bafad2399a0f0bf31bb )
+)
+
+game (
+	name "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B)"
+	description "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B)"
+	rom ( name "Pictionary - Das Spiel mit dem schnellen Strich (1989)(Domark)(de)(Side B).tap" size 2083240 crc a4256a4d md5 2ea51bff7a29ffc7f8cd752d9538b533 sha1 97129af0cb112ce666fa4cfb0350ee5cfd69332b )
+)
+
+game (
+	name "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing)"
+	description "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing)"
+	rom ( name "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing).tap" size 400416 crc c3ce8c79 md5 f848173566bf3cc4d5a7bbf319d0ce91 sha1 8e0a10924b105ffb2a046afe25263a56966fe2c1 )
+)
+
+game (
+	name "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing)[a]"
+	description "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing)[a]"
+	rom ( name "Pitman Typing - Keyboard Skills (1984)(Pitman Publishing)[a].tap" size 1286902 crc f8ff51f8 md5 958f8362509ce78cd0c955e480ed188d sha1 a4cb6a9000c1850b565acf5bd605b560a0973965 )
+)
+
+game (
+	name "Psychedelia (1984)(Llamasoft)"
+	description "Psychedelia (1984)(Llamasoft)"
+	rom ( name "Psychedelia (1984)(Llamasoft).tap" size 163925 crc ee513e1b md5 91c0122bbfc84073a9f01e86f5c206b8 sha1 464d3ad68517c1a9bf0816d204dd4abcd6b3682d )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 1 of 6).tap" size 60879 crc 081388d1 md5 4c37b9fef9ab2d775b498dd6d55d71d3 sha1 b64dbcc5638e0abe4e5c67f2a1539c8a1688c27d )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 2 of 6).tap" size 486225 crc d761bf72 md5 41ec6b0fbc179a198258e40e22037d5b sha1 a88bc328fb16186260d47b3bc71d1a9892b9a995 )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 3 of 6).tap" size 471338 crc c16b29c2 md5 f5c139eb59bf6bb67861b0347734f456 sha1 992cafc6fc081f5178ec60a3cd2b853f302d2608 )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 4 of 6).tap" size 342074 crc 592cd8ed md5 9c6b045f6672178284fd6422b086448e sha1 1a5810363284286cb66e706cbc44341c89b4fc1d )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 5 of 6).tap" size 450514 crc 73085144 md5 1174f7f99ec0e30e8bc0d80c7861a885 sha1 490ca6e6a6fc7165468a0108ad7c09c43a52d6bb )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6)"
+	description "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1987)(Sensible Software)(Disk 6 of 6).tap" size 442688 crc 7b3b2082 md5 348f6a4b3a40eb86cd46ba94bced820b sha1 6bfbc86c325985272881852c89e18122a2e75a02 )
+)
+
+game (
+	name "Shoot 'Em-Up Construction Kit (1988)(Palace Software)"
+	description "Shoot 'Em-Up Construction Kit (1988)(Palace Software)"
+	rom ( name "Shoot 'Em-Up Construction Kit (1988)(Palace Software).tap" size 478785 crc 3da431a1 md5 8d6ad35242b20c18efb94b312049fa94 sha1 f464f9bc48bcd36f64b1a3518de709cb4c922d14 )
+)
+
+game (
+	name "Turbo Tape (19xx)(-)"
+	description "Turbo Tape (19xx)(-)"
+	rom ( name "Turbo Tape (19xx)(-).tap" size 75142 crc a19187a7 md5 3e614ba77e191ddee983028f8e4ec31b sha1 3f03ae9e50046bae3444fd473feaf414472ca6b2 )
+)
+
+game (
+	name "Ultisynth 64 (1983)(Quicksilva)"
+	description "Ultisynth 64 (1983)(Quicksilva)"
+	rom ( name "Ultisynth 64 (1983)(Quicksilva).tap" size 872445 crc 7640137c md5 5aa7d2d0bb0176e4c9e8ad0c13050dd2 sha1 d443ce74a89f96268c30260c2a250064e9989b4c )
+)
+
+game (
+	name "Very First, The (1985)(Commodore)(Side A)"
+	description "Very First, The (1985)(Commodore)(Side A)"
+	rom ( name "Very First, The (1985)(Commodore)(Side A).tap" size 672907 crc b96c6e74 md5 82c56eb65ebedb70b05d0b6a76e85a27 sha1 806f142984365a95e2d0d3d5cf67aba46a349a6a )
+)
+
+game (
+	name "Very First, The (1985)(Commodore)(Side B)"
+	description "Very First, The (1985)(Commodore)(Side B)"
+	rom ( name "Very First, The (1985)(Commodore)(Side B).tap" size 1087950 crc 0fc1fda0 md5 982ef0b8208081c93575fbb20a27088c sha1 f627c7890c57dfce32cade112a870238f02de32a )
+)

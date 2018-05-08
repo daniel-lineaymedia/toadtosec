@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Apple IIGS - Sources"
+	description "Apple IIGS - Sources (TOSEC-v2010-10-12)"
+	category "Apple IIGS - Sources"
+	version 2010-10-12
+	author "TKaos"
+)
+
+game (
+	name "Merlin 16+ Sources (19xx)(-)"
+	description "Merlin 16+ Sources (19xx)(-)"
+	rom ( name "Merlin 16+ Sources (19xx)(-).2mg" size 819264 crc 1f1c282e md5 9ea158696e990169c6635326e58a41d5 )
+)
+
+game (
+	name "Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer)"
+	description "Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer)"
+	rom ( name "Merlin 16+ Sources for Beginners (19xx)(Hacker CROLL - The Killer).2mg" size 819264 crc 13458716 md5 218ecbb492916ed2007a814915120392 )
+)
+
+game (
+	name "Rastan Source Code (1990)(Taito)(US)"
+	description "Rastan Source Code (1990)(Taito)(US)"
+	rom ( name "Rastan Source Code (1990)(Taito)(US).2mg" size 819264 crc 30567fa5 md5 bf7dad37aa8c07c5179ade0910d0725c )
+)

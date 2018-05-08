@@ -1,0 +1,2888 @@
+clrmamepro (
+	name "Commodore C64 - Games - Previews - [PRG]"
+	description "Commodore C64 - Games - Previews - [PRG] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Games - Previews - [PRG]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "1943 - The Battle of Midway - Playable Preview (1988)(Capcom)[cr Zenith+FBR]"
+	description "1943 - The Battle of Midway - Playable Preview (1988)(Capcom)[cr Zenith+FBR]"
+	rom ( name "1943 - The Battle of Midway - Playable Preview (1988)(Capcom)[cr Zenith+FBR].prg" size 32128 crc 5655b26b md5 eb75957b441687f7dd1bfa2ead1bcf83 sha1 8a8085f6b2e2bda3de64936dd144354973f1b99f )
+)
+
+game (
+	name "3 Days in Carpathia - Preview (198x)(Ram Jam Corp)[h ONS]"
+	description "3 Days in Carpathia - Preview (198x)(Ram Jam Corp)[h ONS]"
+	rom ( name "3 Days in Carpathia - Preview (198x)(Ram Jam Corp)[h ONS].prg" size 12017 crc 1a52d898 md5 aa2ff1280feb55b0581b26811d4921ad sha1 6ac80c002473ffc3a445daa8e0924a5975acc022 )
+)
+
+game (
+	name "48 Hours - Preview (1997)(Smash Designs)[h EX]"
+	description "48 Hours - Preview (1997)(Smash Designs)[h EX]"
+	rom ( name "48 Hours - Preview (1997)(Smash Designs)[h EX].prg" size 27056 crc fe5e52dc md5 d47e3fbbe23d9ddf1c9e44ba33d2042e sha1 b529bb87211618accb1c8bb2fdc90870b3ec2589 )
+)
+
+game (
+	name "A.P.E.X. - Preview (1996)(Secure Software)[cr SCS+TRC]"
+	description "A.P.E.X. - Preview (1996)(Secure Software)[cr SCS+TRC]"
+	rom ( name "A.P.E.X. - Preview (1996)(Secure Software)[cr SCS+TRC].prg" size 10484 crc d52e53ab md5 0e67da1e6d573e8172020fa242c87542 sha1 9384b4eda5994637443114273abad73053f4cda0 )
+)
+
+game (
+	name "Aake 2 - Preview (1997)(Alter Software)[h Triad]"
+	description "Aake 2 - Preview (1997)(Alter Software)[h Triad]"
+	rom ( name "Aake 2 - Preview (1997)(Alter Software)[h Triad].prg" size 11452 crc 044a35e7 md5 dd71abb79a50790f2eb31db2e0e32897 sha1 4f4fd3de54f9b871313d29f43895c6aa83ea7151 )
+)
+
+game (
+	name "Abracadabra - Preview (2000)(Electric Sheep)[h AXE]"
+	description "Abracadabra - Preview (2000)(Electric Sheep)[h AXE]"
+	rom ( name "Abracadabra - Preview (2000)(Electric Sheep)[h AXE].prg" size 16926 crc cc1d975b md5 717ae7794c28f741646cf9e52c729ddb sha1 131d7ca1ef1bd78d5ba10c7f5b223f81b83b0132 )
+)
+
+game (
+	name "Abracadabra - Preview (2000)(Electric Sheep)[h EX]"
+	description "Abracadabra - Preview (2000)(Electric Sheep)[h EX]"
+	rom ( name "Abracadabra - Preview (2000)(Electric Sheep)[h EX].prg" size 17571 crc d1f19578 md5 cea620ca32a4e4c4d52386be6cf67bcf sha1 5c9e306525873156226a1e3a67d4ecbe91e86ea2 )
+)
+
+game (
+	name "Abracadabra - Preview (2000)(Electric Sheep)[h LXT]"
+	description "Abracadabra - Preview (2000)(Electric Sheep)[h LXT]"
+	rom ( name "Abracadabra - Preview (2000)(Electric Sheep)[h LXT].prg" size 15852 crc b9cbbaf3 md5 cb85df279c29f568dfb7791cb2f20c59 sha1 0a11d25f9db0fdc7480855b3bc7410b417cc03e1 )
+)
+
+game (
+	name "Abracadabra - Preview v2 (2003)(Creators)[cr EXC]"
+	description "Abracadabra - Preview v2 (2003)(Creators)[cr EXC]"
+	rom ( name "Abracadabra - Preview v2 (2003)(Creators)[cr EXC].prg" size 18179 crc 0773fd76 md5 50be3bf2fe112a7db93ade173308065c sha1 b05f410bfd01f37393d4fd6c03da52826644c114 )
+)
+
+game (
+	name "Abrakadabra - Preview (2000)(Electric Sheep)[h ONS]"
+	description "Abrakadabra - Preview (2000)(Electric Sheep)[h ONS]"
+	rom ( name "Abrakadabra - Preview (2000)(Electric Sheep)[h ONS].prg" size 23985 crc 4c35a0d4 md5 85dd499af5bb591caa86fb39779500dd sha1 fbee7d0b3bda2f96eebcafcd4f4b1f337b7b0feb )
+)
+
+game (
+	name "Abstract - Preview (1993)(CP Verlag)[h AFL]"
+	description "Abstract - Preview (1993)(CP Verlag)[h AFL]"
+	rom ( name "Abstract - Preview (1993)(CP Verlag)[h AFL].prg" size 28041 crc 31491fc1 md5 fe2d0ba5d2090575eefd12fbd9322a02 sha1 3b6f7c7aae802d847a72b948795d31285c5f1394 )
+)
+
+game (
+	name "ACE 2 - Preview (1987)(Cascade Games)[h SCS+TRC]"
+	description "ACE 2 - Preview (1987)(Cascade Games)[h SCS+TRC]"
+	rom ( name "ACE 2 - Preview (1987)(Cascade Games)[h SCS+TRC].prg" size 13820 crc 590aa079 md5 14c9b5ae64a080cc670bc2bc396dce85 sha1 26b98b95c7abefb556811d8d7611cc7e95b59cf7 )
+)
+
+game (
+	name "Ace of Hearts - Preview (1992)(Martin Olsen)[cr FLT]"
+	description "Ace of Hearts - Preview (1992)(Martin Olsen)[cr FLT]"
+	rom ( name "Ace of Hearts - Preview (1992)(Martin Olsen)[cr FLT].prg" size 18744 crc 4f4699f9 md5 7e09fd37b3550db10bbfb614f90510f9 sha1 894c4ebec3c11804d4f084222e05917609797091 )
+)
+
+game (
+	name "Acidball - Preview (199x)(-)"
+	description "Acidball - Preview (199x)(-)"
+	rom ( name "Acidball - Preview (199x)(-).prg" size 6295 crc d1833e0b md5 00fcc376d68f0eb7ae69116da82f7e11 sha1 5a1be045cecb8264e7e8707b54111c1a75eae3c4 )
+)
+
+game (
+	name "Acidball - Preview (199x)(-)[h F4CG]"
+	description "Acidball - Preview (199x)(-)[h F4CG]"
+	rom ( name "Acidball - Preview (199x)(-)[h F4CG].prg" size 8586 crc 5b34a542 md5 65774329dcc146043bfccee22d7fea24 sha1 137d91cd15eeae66b021659f7cbe90ff625dd7ec )
+)
+
+game (
+	name "Ad Infinitum (1986)(Stoat & Tim)"
+	description "Ad Infinitum (1986)(Stoat & Tim)"
+	rom ( name "Ad Infinitum (1986)(Stoat & Tim).prg" size 25516 crc 9dbaf7df md5 b8fd5a4ce013d85b3c046e158345dd52 sha1 aeb6decc4f18cb1b4e9d9a3d099cc1f52b8dc5f0 )
+)
+
+game (
+	name "Ad Infinitum (1986)(Stoat & Tim)[a]"
+	description "Ad Infinitum (1986)(Stoat & Tim)[a]"
+	rom ( name "Ad Infinitum (1986)(Stoat & Tim)[a].prg" size 17540 crc 118cc3a4 md5 ca76b4f23109fecfd153f401aaaa7b96 sha1 29aaa9ba4c099710807cadd0fad6d30067ac66bc )
+)
+
+game (
+	name "Adroit - Preview (1991)(Heatwave)[h Tropic][b]"
+	description "Adroit - Preview (1991)(Heatwave)[h Tropic][b]"
+	rom ( name "Adroit - Preview (1991)(Heatwave)[h Tropic][b].prg" size 13640 crc 2d2b0daa md5 989832d909946d7d4aa2cf9d0ef92517 sha1 97583219b2f538df76a5bf92fba36c2252fcaa2f )
+)
+
+game (
+	name "Ake - Preview (1995)(Alter Software)[cr Hitmen]"
+	description "Ake - Preview (1995)(Alter Software)[cr Hitmen]"
+	rom ( name "Ake - Preview (1995)(Alter Software)[cr Hitmen].prg" size 16128 crc 7a1d520a md5 0e97c632bd727ee1ab252185de743bcd sha1 159e7cb31439ab3fe1e61092bc50c938852dda50 )
+)
+
+game (
+	name "Ake 2 - Preview (1997)(Alter Software)[h Triad][o]"
+	description "Ake 2 - Preview (1997)(Alter Software)[h Triad][o]"
+	rom ( name "Ake 2 - Preview (1997)(Alter Software)[h Triad][o].prg" size 11520 crc 8a8545d9 md5 a6aefed390aee99a16089e55a9b8d2e6 sha1 29286248b06fd99bf8e4b51d8a839398b0996949 )
+)
+
+game (
+	name "Al the Fish - Preview (1994)(-)[cr FLT]"
+	description "Al the Fish - Preview (1994)(-)[cr FLT]"
+	rom ( name "Al the Fish - Preview (1994)(-)[cr FLT].prg" size 8153 crc 48ed6a36 md5 b8c2aaf34303409104b933ad39ba4808 sha1 520203962f74c99f9dc2b781369532f7f7032ab9 )
+)
+
+game (
+	name "Al the Fish - Preview (1994)(-)[h ONS]"
+	description "Al the Fish - Preview (1994)(-)[h ONS]"
+	rom ( name "Al the Fish - Preview (1994)(-)[h ONS].prg" size 10303 crc fec843fd md5 d8775941731902a53c6f7549ba4a7086 sha1 4b4d20f2b5ca4f046a0f3af5e5d3df3f6ec606a5 )
+)
+
+game (
+	name "Alert - Preview (19xx)(-)[h AFL]"
+	description "Alert - Preview (19xx)(-)[h AFL]"
+	rom ( name "Alert - Preview (19xx)(-)[h AFL].prg" size 10707 crc 00f27531 md5 e93d3e4ffccc40b446f37a714dfac82e sha1 859deca11adc29898ee05eb560325af3858f3bda )
+)
+
+game (
+	name "Alert - Preview (19xx)(-)[h SCS+TRC]"
+	description "Alert - Preview (19xx)(-)[h SCS+TRC]"
+	rom ( name "Alert - Preview (19xx)(-)[h SCS+TRC].prg" size 17092 crc 72291702 md5 bcbc460f87d83e6e4ef132774b407c08 sha1 a08404d71009740a67541b447320badaf2689883 )
+)
+
+game (
+	name "Alien War - Preview (199x)(-)[cr XEN]"
+	description "Alien War - Preview (199x)(-)[cr XEN]"
+	rom ( name "Alien War - Preview (199x)(-)[cr XEN].prg" size 14440 crc c76e875e md5 d2dbda5e11962b1886cdd035b333629a sha1 3a5e2e0054278b2db967555bddbdd0ac8516ce60 )
+)
+
+game (
+	name "All Tarrain Gardener (1989)(Ubik)[cr ONS]"
+	description "All Tarrain Gardener (1989)(Ubik)[cr ONS]"
+	rom ( name "All Tarrain Gardener (1989)(Ubik)[cr ONS].prg" size 30894 crc cd2fc5d7 md5 b2d211d9ea2a7b63488531f24c03fa61 sha1 ed36c5dfeeca04f06b577330fd8aa077f3682bbf )
+)
+
+game (
+	name "Alleykat - Preview (1986)(Hewson)[h DD]"
+	description "Alleykat - Preview (1986)(Hewson)[h DD]"
+	rom ( name "Alleykat - Preview (1986)(Hewson)[h DD].prg" size 37444 crc 20c9a15c md5 76867c53c3732a7fcefbe2623965f0d1 sha1 5cbf964db933ef7a6675edeeeadaaf74d6d10c6e )
+)
+
+game (
+	name "Alleykat - Preview (1986)(Hewson)[h DD][a]"
+	description "Alleykat - Preview (1986)(Hewson)[h DD][a]"
+	rom ( name "Alleykat - Preview (1986)(Hewson)[h DD][a].prg" size 37444 crc daff08ad md5 d59b15beb9108529c525ebc319ec1919 sha1 2cadfaa789904d98ea8a8a381f60d643e9debd02 )
+)
+
+game (
+	name "Alloyrun (1987)(Starlight)[cr Hotline]"
+	description "Alloyrun (1987)(Starlight)[cr Hotline]"
+	rom ( name "Alloyrun (1987)(Starlight)[cr Hotline].prg" size 42634 crc 42a1cb83 md5 0fc7d15cade7f97b94cbe669ed989ab1 sha1 143c56a7bc5ddc447997167a825f52f95a774232 )
+)
+
+game (
+	name "Alloyrun (1988)(Starlight Software)[cr Legend][t +1 Legend]"
+	description "Alloyrun (1988)(Starlight Software)[cr Legend][t +1 Legend]"
+	rom ( name "Alloyrun (1988)(Starlight Software)[cr Legend][t +1 Legend].prg" size 40325 crc 792ccac0 md5 7e8a9d3ef70a0d489e748c9a7fa28171 sha1 6c97f906d4981d4a6e926c285799e0e10a51a6fe )
+)
+
+game (
+	name "Altarius - Preview (1988)(-)[cr DOM]"
+	description "Altarius - Preview (1988)(-)[cr DOM]"
+	rom ( name "Altarius - Preview (1988)(-)[cr DOM].prg" size 19119 crc f4b4b5b9 md5 341ac5ebfbb32d37f756c549d4c54c90 sha1 b67af3af630ec75dc6be66ea718d3bed2d250b34 )
+)
+
+game (
+	name "Anastasia - Preview (19xx)(-)[cr CHR]"
+	description "Anastasia - Preview (19xx)(-)[cr CHR]"
+	rom ( name "Anastasia - Preview (19xx)(-)[cr CHR].prg" size 37027 crc 6f7f8fd3 md5 3016fd1d464d0c1a4ccbd66dc84c08dc sha1 3ffafe96fb02b1be3493ac438f768b60f6a5b6ff )
+)
+
+game (
+	name "APEX - Preview (1996)(Secure Software)[cr AFL]"
+	description "APEX - Preview (1996)(Secure Software)[cr AFL]"
+	rom ( name "APEX - Preview (1996)(Secure Software)[cr AFL].prg" size 9486 crc ef4e6a2a md5 3d9675990e2067911d8aeb204afcdd2b sha1 ff4f5c694147c155b2dd111ec0df79745c6e0481 )
+)
+
+game (
+	name "Apollo 14 - Preview (1996)(Evolution)[h AVT]"
+	description "Apollo 14 - Preview (1996)(Evolution)[h AVT]"
+	rom ( name "Apollo 14 - Preview (1996)(Evolution)[h AVT].prg" size 20444 crc db1f131c md5 cea5486d7cd41165a653078d2c7a3f71 sha1 5faefd691fa8d393bd2d878c71bc53bd2c2bff6b )
+)
+
+game (
+	name "Apollo 14 - Preview (1996)(Evolution)[h SCS+TRC]"
+	description "Apollo 14 - Preview (1996)(Evolution)[h SCS+TRC]"
+	rom ( name "Apollo 14 - Preview (1996)(Evolution)[h SCS+TRC].prg" size 21089 crc 5d4c8c1a md5 858392679847056979fbf1f330a741ac sha1 67b96c8b718c4ed8b8561cbc24fcd0a55a303dce )
+)
+
+game (
+	name "Arbitrator - Preview (198x)(-)"
+	description "Arbitrator - Preview (198x)(-)"
+	rom ( name "Arbitrator - Preview (198x)(-).prg" size 14229 crc 1c6512a7 md5 2a8c180ad88c4507be72fbc313fd147b sha1 41379e3e465944e82b3b22919233d9bd9dcb9f4e )
+)
+
+game (
+	name "Arc Angel - Preview (1994)(D-Lite Designs)[cr M8]"
+	description "Arc Angel - Preview (1994)(D-Lite Designs)[cr M8]"
+	rom ( name "Arc Angel - Preview (1994)(D-Lite Designs)[cr M8].prg" size 31336 crc 8ad841e2 md5 68d2957cbd4c0bb3cb842babfd3fb3f8 sha1 c91fd293fadefe0739bf36d0324cc1de8fc07f50 )
+)
+
+game (
+	name "Arkanoid - Preview (1987)(Imagine Software)[cr AEK]"
+	description "Arkanoid - Preview (1987)(Imagine Software)[cr AEK]"
+	rom ( name "Arkanoid - Preview (1987)(Imagine Software)[cr AEK].prg" size 16128 crc dfb4bf7a md5 3fd2a10ce9906a96f42a55a1b8754c6f sha1 3025a64f749e2f8708ff6ae1ca89dc23b4c514d2 )
+)
+
+game (
+	name "Armada - Preview (199x)(Altered Abilities)[h Fart]"
+	description "Armada - Preview (199x)(Altered Abilities)[h Fart]"
+	rom ( name "Armada - Preview (199x)(Altered Abilities)[h Fart].prg" size 28455 crc ec2e952f md5 f3ff6d855f8652599edba7ff05611b34 sha1 5937a391e0b53a232a297491d478e7aa27ad88a1 )
+)
+
+game (
+	name "Armageddon - Preview (2003)(Creators)[cr Triad+ONS]"
+	description "Armageddon - Preview (2003)(Creators)[cr Triad+ONS]"
+	rom ( name "Armageddon - Preview (2003)(Creators)[cr Triad+ONS].prg" size 24638 crc 1a9f0f7c md5 7a39df05ff93044bb0dbd01c32c2a848 sha1 e2304ceaf765416606c6c2a37b4f870c75e5e9f6 )
+)
+
+game (
+	name "Arthema - Preview (1996)(Timsoft)[h CHR]"
+	description "Arthema - Preview (1996)(Timsoft)[h CHR]"
+	rom ( name "Arthema - Preview (1996)(Timsoft)[h CHR].prg" size 46739 crc a2650bea md5 4d5337be44394de5d8dbefe7e9df998b sha1 1816b0f276ec5074331196ca89faf05a58c28f1c )
+)
+
+game (
+	name "Assassins - Preview (1997)(Dux)[h SCS+TRC]"
+	description "Assassins - Preview (1997)(Dux)[h SCS+TRC]"
+	rom ( name "Assassins - Preview (1997)(Dux)[h SCS+TRC].prg" size 19292 crc 70c55b14 md5 b5dc118d6a02aedcb39021123a090e38 sha1 0d8bd7c3466796d4b57f412a0658a5d6554accf9 )
+)
+
+game (
+	name "Astro Wars - Preview (19xx)(Glenn)[cr NFL][t +1 NFL]"
+	description "Astro Wars - Preview (19xx)(Glenn)[cr NFL][t +1 NFL]"
+	rom ( name "Astro Wars - Preview (19xx)(Glenn)[cr NFL][t +1 NFL].prg" size 12988 crc fdd35cd4 md5 3396c7c13954f8463b4212434f085587 sha1 c59b93199769e88146e0ace93e3427c955e9e055 )
+)
+
+game (
+	name "Astrodome - Preview (1987)(Christopher Fitzsimons)"
+	description "Astrodome - Preview (1987)(Christopher Fitzsimons)"
+	rom ( name "Astrodome - Preview (1987)(Christopher Fitzsimons).prg" size 17263 crc 02dda22e md5 dd4b12c2d5984ce4735c272e58a4fa18 sha1 2f4ea7256549a9dd374589cd1f5136a15e14202f )
+)
+
+game (
+	name "Astromine - Preview (1996)(Jonathan Wells)[h AFL]"
+	description "Astromine - Preview (1996)(Jonathan Wells)[h AFL]"
+	rom ( name "Astromine - Preview (1996)(Jonathan Wells)[h AFL].prg" size 25113 crc b9345077 md5 0beb52b5e119cf89a70b4a33e686ea40 sha1 eeaf195e6733d0c17df5a419364504de4f69b541 )
+)
+
+game (
+	name "Astromine - Preview (1996)(Jonathan Wells)[h LXT]"
+	description "Astromine - Preview (1996)(Jonathan Wells)[h LXT]"
+	rom ( name "Astromine - Preview (1996)(Jonathan Wells)[h LXT].prg" size 21712 crc 4a569bfa md5 487e3485c3f8e3c8d451ffa58f0b22ce sha1 0434d63dc5739b9dd9fd57b1a76f2313e7b225bb )
+)
+
+game (
+	name "Astromine - Preview (1996)(Jonathan Wells)[h Noname]"
+	description "Astromine - Preview (1996)(Jonathan Wells)[h Noname]"
+	rom ( name "Astromine - Preview (1996)(Jonathan Wells)[h Noname].prg" size 24020 crc d65c60fc md5 b08057d8af7e0d124cb535a8b671b080 sha1 6b5c144d34d11e272d96238e40e2ff1fc1b43f77 )
+)
+
+game (
+	name "Astrostorm 2 (2006)(Creators)"
+	description "Astrostorm 2 (2006)(Creators)"
+	rom ( name "Astrostorm 2 (2006)(Creators).prg" size 10472 crc af7d9eea md5 9d44fdf4803e2a58ae7d887f016f00a5 sha1 bc75c7d2e87f70686fac7aa30bf3424910774343 )
+)
+
+game (
+	name "Automatic Board Computer - Preview (1988)(Henk Dekker)[cr SRG]"
+	description "Automatic Board Computer - Preview (1988)(Henk Dekker)[cr SRG]"
+	rom ( name "Automatic Board Computer - Preview (1988)(Henk Dekker)[cr SRG].prg" size 15444 crc 36349716 md5 783f2fd966f34832e92d3f3d704ff91d sha1 fc94febb555789c10f84eb59923ec3bb7547f670 )
+)
+
+game (
+	name "Avoid 'em v2 - P (19xx)(Computec)[h M8]"
+	description "Avoid 'em v2 - P (19xx)(Computec)[h M8]"
+	rom ( name "Avoid 'em v2 - P (19xx)(Computec)[h M8].prg" size 29244 crc bcaf1f80 md5 e99b4d9a6a2cd8c4adc1690d02841631 sha1 81e9dea32e3edd181a6561f32770b4930691d5a7 )
+)
+
+game (
+	name "B-Ball - Preview (1994)(-)[h AFL]"
+	description "B-Ball - Preview (1994)(-)[h AFL]"
+	rom ( name "B-Ball - Preview (1994)(-)[h AFL].prg" size 22713 crc 8cf5f927 md5 b99e3002b37c58392da16f39f4a9dfdc sha1 18aba217105251596f20f6c4946ad56c8a99a2eb )
+)
+
+game (
+	name "Babylon - Preview (1996)(Kopido Games)[h EP][t +2 EP]"
+	description "Babylon - Preview (1996)(Kopido Games)[h EP][t +2 EP]"
+	rom ( name "Babylon - Preview (1996)(Kopido Games)[h EP][t +2 EP].prg" size 30931 crc ec8e7c73 md5 b56a3700e4ca4161d640c4736c41e47d sha1 5b94a9d44268ef1064729b8323dc0da50b63db99 )
+)
+
+game (
+	name "Baccy's Nightmare - Preview (1998)(The Dreamsi)[h LXT]"
+	description "Baccy's Nightmare - Preview (1998)(The Dreamsi)[h LXT]"
+	rom ( name "Baccy's Nightmare - Preview (1998)(The Dreamsi)[h LXT].prg" size 23890 crc e2ad57bf md5 a41812cc9f805832e3ecbd839884a1c2 sha1 6095815a94563be0f5232a54acb48d73bb212fbf )
+)
+
+game (
+	name "Bafflo - Preview (199x)(Feniks)[cr ONS]"
+	description "Bafflo - Preview (199x)(Feniks)[cr ONS]"
+	rom ( name "Bafflo - Preview (199x)(Feniks)[cr ONS].prg" size 21168 crc e2a2633d md5 87a042e83f610a503d53ed48f59c642d sha1 e3fc653f2e8a0189458e452770919a25fda158d5 )
+)
+
+game (
+	name "Bak Pakker - Preview (1994)(-)[h SCS+TRC]"
+	description "Bak Pakker - Preview (1994)(-)[h SCS+TRC]"
+	rom ( name "Bak Pakker - Preview (1994)(-)[h SCS+TRC].prg" size 15079 crc 9859a556 md5 6f6f67161b68d51da2c092aa41c80705 sha1 5ae555d5042d7beb840210294c9d04e02bd1c97d )
+)
+
+game (
+	name "Ball, The - Preview (2004)(Axelerate)[h LXT]"
+	description "Ball, The - Preview (2004)(Axelerate)[h LXT]"
+	rom ( name "Ball, The - Preview (2004)(Axelerate)[h LXT].prg" size 11740 crc 026c5a53 md5 7b45db306a5f9ada3e79af2c5799f1d1 sha1 f8609eaa384dd8352b5cdd398b62f98762d74f20 )
+)
+
+game (
+	name "Balla Balla - Preview (1994)(-)[h AFL]"
+	description "Balla Balla - Preview (1994)(-)[h AFL]"
+	rom ( name "Balla Balla - Preview (1994)(-)[h AFL].prg" size 33761 crc 79151ea4 md5 ba51990b589a9608a6928bb21eaf05bf sha1 725218951aed6961787504ccbb89487ec5616bf2 )
+)
+
+game (
+	name "Balla Balla - Preview (1994)(-)[h SCS+TRC]"
+	description "Balla Balla - Preview (1994)(-)[h SCS+TRC]"
+	rom ( name "Balla Balla - Preview (1994)(-)[h SCS+TRC].prg" size 32269 crc 6308c964 md5 b3112e100d6e669e62f484a2d39bcd7e sha1 9de5d5bb2323b72a817af655af9409f9895dae76 )
+)
+
+game (
+	name "Ballfever - Preview (1993)(Marc Pampusch)[cr FLT]"
+	description "Ballfever - Preview (1993)(Marc Pampusch)[cr FLT]"
+	rom ( name "Ballfever - Preview (1993)(Marc Pampusch)[cr FLT].prg" size 14599 crc d244833d md5 46d9133d1e80867ec8357ce250dcfb03 sha1 f783a09597b0d167b75507e5b5a2bd5b696d3c41 )
+)
+
+game (
+	name "Ballisation - Preview (19xx)(-)[cr CHR]"
+	description "Ballisation - Preview (19xx)(-)[cr CHR]"
+	rom ( name "Ballisation - Preview (19xx)(-)[cr CHR].prg" size 13857 crc 4eea1fb6 md5 e58b5eabd5344a3a17960e03ffbb4e06 sha1 005d7b15f3a3fdd83baa9313ac45458524cc07a6 )
+)
+
+game (
+	name "Bandage, The (1991)(Megastyle)"
+	description "Bandage, The (1991)(Megastyle)"
+	rom ( name "Bandage, The (1991)(Megastyle).prg" size 21833 crc 0343bc2b md5 fc4db83b33d2fc3615c1aeb8f4d62e8e sha1 1c6fb2572a9424276450933ab2dd2c705dfe28db )
+)
+
+game (
+	name "Base Attack - Preview (19xx)(-)[cr SCS+TRC]"
+	description "Base Attack - Preview (19xx)(-)[cr SCS+TRC]"
+	rom ( name "Base Attack - Preview (19xx)(-)[cr SCS+TRC].prg" size 26149 crc f7601f6b md5 8f7f3a3c53e57fd35d3288f3d9b893c6 sha1 3fcbc8e661c7bf77d61ff7b736d1caa236e547b3 )
+)
+
+game (
+	name "Basket Ball - Preview (2011)(Leigh)"
+	description "Basket Ball - Preview (2011)(Leigh)"
+	rom ( name "Basket Ball - Preview (2011)(Leigh).prg" size 41867 crc 02ebd8bd md5 cefee86556741645f0ddbcb2a30274a1 sha1 695142471e585123f7a4b632f78a32f09d6590ac )
+)
+
+game (
+	name "Bastard - Preview (19xx)(-)[h ONS]"
+	description "Bastard - Preview (19xx)(-)[h ONS]"
+	rom ( name "Bastard - Preview (19xx)(-)[h ONS].prg" size 12608 crc 6aa8d66f md5 35503dd8a5d3aede7848b5f25c5b6576 sha1 ff3584c3be1f3fe800b3d542abe39266ddd21da2 )
+)
+
+game (
+	name "Bastard - Preview (19xx)(-)[h SCS+TRC]"
+	description "Bastard - Preview (19xx)(-)[h SCS+TRC]"
+	rom ( name "Bastard - Preview (19xx)(-)[h SCS+TRC].prg" size 12459 crc 00e25761 md5 8df9edb43152ab54b38ed8843f8b5fd7 sha1 9f158ee06fa75e77cf9059b4df20f6ba9ab24aa1 )
+)
+
+game (
+	name "Battle - Preview (199x)(-)[cr ONS]"
+	description "Battle - Preview (199x)(-)[cr ONS]"
+	rom ( name "Battle - Preview (199x)(-)[cr ONS].prg" size 30319 crc 5eb8614d md5 b2eeb0a69bb613c0e7a76e934283d689 sha1 8a7d21b9f7d7cd55895dea057c94de70e4ea629c )
+)
+
+game (
+	name "Battle - Preview (199x)(-)[cr SCS][h SCS][t +2 SCS]"
+	description "Battle - Preview (199x)(-)[cr SCS][h SCS][t +2 SCS]"
+	rom ( name "Battle - Preview (199x)(-)[cr SCS][h SCS][t +2 SCS].prg" size 22953 crc 0a8769e8 md5 341645216653cb7805bcd8725450269f sha1 0d06cdab58d326b7f8856a4464c4f2a2a66f40c8 )
+)
+
+game (
+	name "Battlefield Earth (19xx)(Pulse Productions)"
+	description "Battlefield Earth (19xx)(Pulse Productions)"
+	rom ( name "Battlefield Earth (19xx)(Pulse Productions).prg" size 32677 crc bf904fe0 md5 700bc5a0a0b84167da8d8557c33fa549 sha1 29365b98dd1533815766e67baa23dfc9b2d8f0bf )
+)
+
+game (
+	name "Beast - Preview (1991)(Syndicate)[h GP]"
+	description "Beast - Preview (1991)(Syndicate)[h GP]"
+	rom ( name "Beast - Preview (1991)(Syndicate)[h GP].prg" size 18165 crc 502986a3 md5 6a1e89b1ca6d84b5be2522be0abbf2ec sha1 9e038d42788a1b10475d212b1e2cc31b0e6a6765 )
+)
+
+game (
+	name "Beep Boy (19xx)(-)[h ONS]"
+	description "Beep Boy (19xx)(-)[h ONS]"
+	rom ( name "Beep Boy (19xx)(-)[h ONS].prg" size 25481 crc 66803ede md5 f20260659422fcd3e61880f0df855fb4 sha1 58c212aa92f468b8adeb1f7d1880d26fc53316ee )
+)
+
+game (
+	name "Bilbo - Preview (1992)(-)[cr Hardcore - ONS]"
+	description "Bilbo - Preview (1992)(-)[cr Hardcore - ONS]"
+	rom ( name "Bilbo - Preview (1992)(-)[cr Hardcore - ONS].prg" size 14808 crc 6f399617 md5 9c2ac80e8fc4eed74ecd930fb06bf4a6 sha1 07ba94cd30ee89ccdfd5baa2d5e8c11d3b850cb6 )
+)
+
+game (
+	name "Bill Gates Shooter - Preview (19xx)(-)[h ALDI]"
+	description "Bill Gates Shooter - Preview (19xx)(-)[h ALDI]"
+	rom ( name "Bill Gates Shooter - Preview (19xx)(-)[h ALDI].prg" size 9161 crc f25389ed md5 4fbd81b37a9a48d93e7218b36043bea8 sha1 31079c2daff9760a2a938e4710dab0381c7fa75c )
+)
+
+game (
+	name "Blackshagger - Preview (19xx)(-)[cr Zenith]"
+	description "Blackshagger - Preview (19xx)(-)[cr Zenith]"
+	rom ( name "Blackshagger - Preview (19xx)(-)[cr Zenith].prg" size 12800 crc bb366bdc md5 03c43aec431b91560670fa42b8b87330 sha1 145a5baae69bbe3133e9c8e9a6d9ed9e3fc27a13 )
+)
+
+game (
+	name "Bladeshot - Preview (1998)(Secret Lab)[h EX+HIT]"
+	description "Bladeshot - Preview (1998)(Secret Lab)[h EX+HIT]"
+	rom ( name "Bladeshot - Preview (1998)(Secret Lab)[h EX+HIT].prg" size 23976 crc 75314128 md5 648b920ee04648bd69b9ed90cf501913 sha1 b5275357f6408725d008fee25652fb25270ffe4b )
+)
+
+game (
+	name "Blockbuster - Preview (1995)(Panic Design)[cr LXT][t +2 LXT]"
+	description "Blockbuster - Preview (1995)(Panic Design)[cr LXT][t +2 LXT]"
+	rom ( name "Blockbuster - Preview (1995)(Panic Design)[cr LXT][t +2 LXT].prg" size 8269 crc 55525d6a md5 6f2747234b1517b64500439cb7550306 sha1 b01a96975d3e863c4233092d447e5ff45a799486 )
+)
+
+game (
+	name "Blockman 64 - Preview (200x)(-)[h ONS]"
+	description "Blockman 64 - Preview (200x)(-)[h ONS]"
+	rom ( name "Blockman 64 - Preview (200x)(-)[h ONS].prg" size 25732 crc 26a8cce3 md5 f5304248bf629b9aa091a08aeb01af41 sha1 f970bdcf1c12c4290a785e0824375264cef2de7b )
+)
+
+game (
+	name "Blood - Preview (19xx)(Arts of Darkness)[cr EXC]"
+	description "Blood - Preview (19xx)(Arts of Darkness)[cr EXC]"
+	rom ( name "Blood - Preview (19xx)(Arts of Darkness)[cr EXC].prg" size 14336 crc 40a5bd6e md5 58edf77509ceac77c9b7ef861f5402dc sha1 c4e750227a25e51980d9cc4c46bca16ca82f6d6c )
+)
+
+game (
+	name "Blood 2 - Preview (19xx)(Arts of Darkness)[cr EXC]"
+	description "Blood 2 - Preview (19xx)(Arts of Darkness)[cr EXC]"
+	rom ( name "Blood 2 - Preview (19xx)(Arts of Darkness)[cr EXC].prg" size 11171 crc 848c797f md5 ddb93a0ce3a8f9df2d6c008eaf0042df sha1 dc476e13c11873243836d397b3bfff598663307b )
+)
+
+game (
+	name "Blood Hand - Preview (1996)(Unreal)[cr SCS+TRC]"
+	description "Blood Hand - Preview (1996)(Unreal)[cr SCS+TRC]"
+	rom ( name "Blood Hand - Preview (1996)(Unreal)[cr SCS+TRC].prg" size 19712 crc 84f99eb7 md5 8fbb29a742e440c9208746dc9db92968 sha1 c4ebb4aaa59eebad157a50a5fd42242696722d9b )
+)
+
+game (
+	name "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC]"
+	description "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC]"
+	rom ( name "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC].prg" size 19712 crc 8febe01c md5 e04480a712a0d6867be64ae5e78b661f sha1 f2abc07ddf78787a2d15d4d1ee00e54d0515e81f )
+)
+
+game (
+	name "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC][a]"
+	description "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC][a]"
+	rom ( name "Blood Hand - Preview (1996)(Unreal)[h SCS+TRC][a].prg" size 19674 crc cdd8916c md5 85792ed32e5b13e374c8e5ac71c6bfdd sha1 31226cef8a776060f84360d7f266c2893085fbd6 )
+)
+
+game (
+	name "Blood Rush - Preview (1997)(-)[h SCS]"
+	description "Blood Rush - Preview (1997)(-)[h SCS]"
+	rom ( name "Blood Rush - Preview (1997)(-)[h SCS].prg" size 18897 crc 1931531b md5 67b2caa398a07412e75a03a58c3fc218 sha1 7c3e68fa582bb0c4177956e6195df72c373282c9 )
+)
+
+game (
+	name "Bloody Stars - Preview (1997)(Emitech)[h EX]"
+	description "Bloody Stars - Preview (1997)(Emitech)[h EX]"
+	rom ( name "Bloody Stars - Preview (1997)(Emitech)[h EX].prg" size 6604 crc 3b0c5d3b md5 020f95cbae97bdfe627172d18db00eb1 sha1 394f9182ebf05d389873b24f9361f5f6ad14f5d1 )
+)
+
+game (
+	name "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC]"
+	description "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC]"
+	rom ( name "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC].prg" size 11408 crc d324018b md5 e2ea97fe205f3039a8dcbdbe85142b8f sha1 78fe36009f7a1e9d6ec1bd39cc059337a6da1ebe )
+)
+
+game (
+	name "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC][a]"
+	description "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC][a]"
+	rom ( name "Bobix - Preview (1994)(CP Verlag)[h SCS+TRC][a].prg" size 11520 crc b5552523 md5 8bab6217a7c08b8aaa62c50ce7b88139 sha1 d4ded116866d444c97da8891c98a6f2855dca924 )
+)
+
+game (
+	name "Bodega Ejnar - Preview (199x)(Rasmus Wernersson)[c F4CG]"
+	description "Bodega Ejnar - Preview (199x)(Rasmus Wernersson)[c F4CG]"
+	rom ( name "Bodega Ejnar - Preview (199x)(Rasmus Wernersson)[c F4CG].prg" size 13258 crc 7948be70 md5 7aeb452296094f80d15dd7b34f439097 sha1 51d0e98c788f862c439a6002d17f0be98050e765 )
+)
+
+game (
+	name "Boing (1993)(-)"
+	description "Boing (1993)(-)"
+	rom ( name "Boing (1993)(-).prg" size 4854 crc 27a6a82c md5 65c67a513f3858d2b01f7c52f34836e7 sha1 ced2c9f49ae4891c135590f5014c1bac5b659419 )
+)
+
+game (
+	name "Bolo 2 - Preview (2000)(First Blood)[h ONS]"
+	description "Bolo 2 - Preview (2000)(First Blood)[h ONS]"
+	rom ( name "Bolo 2 - Preview (2000)(First Blood)[h ONS].prg" size 24486 crc 3c2c8884 md5 e23910aba8248a09945f12a7cc92498a sha1 e3f6fc7b063a06da72cd54231a829d7f7bc83dca )
+)
+
+game (
+	name "Bomb - Preview (2004)(West, C.)"
+	description "Bomb - Preview (2004)(West, C.)"
+	rom ( name "Bomb - Preview (2004)(West, C.).prg" size 18736 crc 5fe7209c md5 041d294277832409556d7bae50cf98a2 sha1 86dc1af428a461fdbbf68851a8d64e30bdfd0b80 )
+)
+
+game (
+	name "Bomb Chase - Preview (200x)(TND Games)(FW)[h ROLE]"
+	description "Bomb Chase - Preview (200x)(TND Games)(FW)[h ROLE]"
+	rom ( name "Bomb Chase - Preview (200x)(TND Games)(FW)[h ROLE].prg" size 16623 crc ab7295d7 md5 0793969cb3f49d887df04a6ee14426c2 sha1 c150a8f867f872ed0a768d3bda07e9c035ffbbd0 )
+)
+
+game (
+	name "Bomb Mania - Preview (1997)(Classical Games)[h SCS+TRC]"
+	description "Bomb Mania - Preview (1997)(Classical Games)[h SCS+TRC]"
+	rom ( name "Bomb Mania - Preview (1997)(Classical Games)[h SCS+TRC].prg" size 27826 crc 15d612f3 md5 15d63ddadbd1926bfd9410902a49212b sha1 b5cf9be741dfb57b154c9711d29d84385b2364a9 )
+)
+
+game (
+	name "Boombastic Benny - Preview (1996)(-)[h SCS+TRC]"
+	description "Boombastic Benny - Preview (1996)(-)[h SCS+TRC]"
+	rom ( name "Boombastic Benny - Preview (1996)(-)[h SCS+TRC].prg" size 31143 crc 6212288e md5 d5334c757539939e7ce068110af9bdaf sha1 94f6b6ebfd8ee7a530296ac2f40944030709f45d )
+)
+
+game (
+	name "Boost - Preview (1989)(Lars Sneftrup & Michael Holm)[cr Bros]"
+	description "Boost - Preview (1989)(Lars Sneftrup & Michael Holm)[cr Bros]"
+	rom ( name "Boost - Preview (1989)(Lars Sneftrup & Michael Holm)[cr Bros].prg" size 33653 crc 83a52c04 md5 583cdbe2d3f52127e2c98e6a130c2d40 sha1 35f2f9d713bebacd75b361a4b57009ffead7dbe9 )
+)
+
+game (
+	name "Bouncy - Preview (1995)(Nogamas Software)[h O+H]"
+	description "Bouncy - Preview (1995)(Nogamas Software)[h O+H]"
+	rom ( name "Bouncy - Preview (1995)(Nogamas Software)[h O+H].prg" size 11675 crc cafcaa5a md5 b9b4614a2065ae34f4107ec64e42e6e3 sha1 32f46a07f403fa02e8e2fe16359e8f1d9d5f7538 )
+)
+
+game (
+	name "Bouncy Balls - Preview (19xx)(Cherry Software)[h ONS]"
+	description "Bouncy Balls - Preview (19xx)(Cherry Software)[h ONS]"
+	rom ( name "Bouncy Balls - Preview (19xx)(Cherry Software)[h ONS].prg" size 36130 crc 699867e8 md5 c5e59bcf588e12974021c2242d4757b9 sha1 22f2c6d79446220638b27785abc4055e6f0a412a )
+)
+
+game (
+	name "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT]"
+	description "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT]"
+	rom ( name "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT].prg" size 22449 crc 4f136aa0 md5 6d0fabaef27cfb26520eed20afe9facd sha1 2e9ee43ddf0675162abc4abd07b2c2842e7fa519 )
+)
+
+game (
+	name "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT][a]"
+	description "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT][a]"
+	rom ( name "Bounty Hunter IV - Preview (19xx)(Champion Software)[cr TBT][a].prg" size 22450 crc 5f45f112 md5 20d3c44f2050105af2182e6bc7478c80 sha1 0545e819d650de3aaf21f67dd5c64beb6f5b8353 )
+)
+
+game (
+	name "Boxes - Preview (1994)(Q-Lite)[h M8]"
+	description "Boxes - Preview (1994)(Q-Lite)[h M8]"
+	rom ( name "Boxes - Preview (1994)(Q-Lite)[h M8].prg" size 21152 crc 122cd99b md5 30b5572f3cc04d00eba4459c1521d8c6 sha1 15208b85403cab80172b12dbaaca329650b325c1 )
+)
+
+game (
+	name "Boxing Manager - Preview (1990)(Cult Games)[h F4CG]"
+	description "Boxing Manager - Preview (1990)(Cult Games)[h F4CG]"
+	rom ( name "Boxing Manager - Preview (1990)(Cult Games)[h F4CG].prg" size 33598 crc 8adc05b0 md5 d84d4986e6d03dd7cb06de22f636eb50 sha1 652d8b62c808865631880397dd4cc65940302190 )
+)
+
+game (
+	name "Brain Tumor - Preview (1992)(Dennis Mulder)[cr RBL]"
+	description "Brain Tumor - Preview (1992)(Dennis Mulder)[cr RBL]"
+	rom ( name "Brain Tumor - Preview (1992)(Dennis Mulder)[cr RBL].prg" size 12485 crc c5940ef6 md5 c5d8eeda952a192a417c8204452a56e3 sha1 37f58f2aac7628d6455f97d0d7c4c78f6974d0a4 )
+)
+
+game (
+	name "Brainleak (1987)(Bubble Bus)"
+	description "Brainleak (1987)(Bubble Bus)"
+	rom ( name "Brainleak (1987)(Bubble Bus).prg" size 3972 crc ab0d7726 md5 e33e5bb95dd3ea591502b5e0d10d28a3 sha1 e1ac44a262a46fb026fb29016c1c1069614b9bec )
+)
+
+game (
+	name "Brainstorm - Preview (1997)(Art Design)[h M8]"
+	description "Brainstorm - Preview (1997)(Art Design)[h M8]"
+	rom ( name "Brainstorm - Preview (1997)(Art Design)[h M8].prg" size 16000 crc 92d77e0b md5 f71298e22453ea5104d4f32005427497 sha1 634484b81905c27591d7e34a15ac34bf8e0ab669 )
+)
+
+game (
+	name "Brave - Preview (199x)(CP Verlag)[h SCS+TRC]"
+	description "Brave - Preview (199x)(CP Verlag)[h SCS+TRC]"
+	rom ( name "Brave - Preview (199x)(CP Verlag)[h SCS+TRC].prg" size 23968 crc c38245a1 md5 c61fc423bf2280e7ad3e142489479a3d sha1 9dcef416eb813a0f3ed9b626009f51d6aeeb0ab5 )
+)
+
+game (
+	name "Brix - Preview (199x)(-)[h SCS+TRC]"
+	description "Brix - Preview (199x)(-)[h SCS+TRC]"
+	rom ( name "Brix - Preview (199x)(-)[h SCS+TRC].prg" size 17998 crc c4c80c9b md5 a4c994824889d3ad27b7b3528977c69a sha1 da7f13567225535b08b28a8bb7f40747f9e6b2e9 )
+)
+
+game (
+	name "Brothers in Blood - Preview (19xx)(-)[cr ONS]"
+	description "Brothers in Blood - Preview (19xx)(-)[cr ONS]"
+	rom ( name "Brothers in Blood - Preview (19xx)(-)[cr ONS].prg" size 19535 crc 7cb510fc md5 543ce44737dce442dcbb216edd32a802 sha1 f42470e129c7305136c03d6cb85b358e2428f801 )
+)
+
+game (
+	name "Bubble - Preview (1996)(-)[h Triad]"
+	description "Bubble - Preview (1996)(-)[h Triad]"
+	rom ( name "Bubble - Preview (1996)(-)[h Triad].prg" size 9600 crc 04e120dc md5 bb991e887f050580f91495fa35a429dc sha1 99af17696e5f0260ad7fcf41c3ad9623fb67c667 )
+)
+
+game (
+	name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC]"
+	description "Bubble Mania - Preview (1993)(CP Verlag)[h TRC]"
+	rom ( name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC].prg" size 23481 crc 8b4c068e md5 884ddc56dff5cd44816e6a308e75722f sha1 4a4d0e9272dcac4aaa328366b56f309d5680b0a6 )
+)
+
+game (
+	name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a]"
+	description "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a]"
+	rom ( name "Bubble Mania - Preview (1993)(CP Verlag)[h TRC][a].prg" size 23482 crc fa8b1b15 md5 00aa0c8e9778cffff1b624d0fcbc63fe sha1 bd0474a165be9ffa9c6b368660e8a098def7f1c2 )
+)
+
+game (
+	name "C-F Adventure - Preview (19xx)(Tobias Erbsland)[h Atlantis]"
+	description "C-F Adventure - Preview (19xx)(Tobias Erbsland)[h Atlantis]"
+	rom ( name "C-F Adventure - Preview (19xx)(Tobias Erbsland)[h Atlantis].prg" size 22704 crc a476f9a1 md5 3293f26eefffc2942c47fd1677e05cb3 sha1 6648315cba5c59703a8121035e654f2ae9e42687 )
+)
+
+game (
+	name "Capture 2 - Preview (1995)(XL.C.US)"
+	description "Capture 2 - Preview (1995)(XL.C.US)"
+	rom ( name "Capture 2 - Preview (1995)(XL.C.US).prg" size 13650 crc 8478cb67 md5 6dad70c9d6d8726c81d1d71e6ebbc66d sha1 82c8528f1b1b65ae281181b35fad1898741b5e20 )
+)
+
+game (
+	name "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE]"
+	description "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE]"
+	rom ( name "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE].prg" size 11064 crc 751d1ea3 md5 2e0f10df265fac6a947422804fb636f9 sha1 faa0f253a6508de8fb6933361888ba3d726f66a5 )
+)
+
+game (
+	name "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE][a]"
+	description "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE][a]"
+	rom ( name "Cat & Rat - Preview (2002)(LowBit Software)[cr ROLE][a].prg" size 11190 crc 87d627a9 md5 278a366106f21a28c45344b1d6f884f1 sha1 6e3211d3fe16c183fdd9197856d88e8d2c241f2c )
+)
+
+game (
+	name "Catch II - Preview (1993)(CP Verlag)[h SCS]"
+	description "Catch II - Preview (1993)(CP Verlag)[h SCS]"
+	rom ( name "Catch II - Preview (1993)(CP Verlag)[h SCS].prg" size 19106 crc b7108035 md5 1d70bdb21578cd3c73202eb59e887288 sha1 28788b495a047a207027d6709117e8f8fbe098f5 )
+)
+
+game (
+	name "Cave Guennie (1989)(Game On)[t +1 Sprint]"
+	description "Cave Guennie (1989)(Game On)[t +1 Sprint]"
+	rom ( name "Cave Guennie (1989)(Game On)[t +1 Sprint].prg" size 9436 crc 82adbd52 md5 59a2839efc18f736b9c9fec280bc0879 sha1 110a4e023d76d25c8f34d412e5dd5cd4dc9132b5 )
+)
+
+game (
+	name "Caveball - Preview (1998)(Virtual Life)[h Legend]"
+	description "Caveball - Preview (1998)(Virtual Life)[h Legend]"
+	rom ( name "Caveball - Preview (1998)(Virtual Life)[h Legend].prg" size 19277 crc e7252cac md5 6519d23ea9dd9a4353cc964d6182c5d2 sha1 ede64cd0b4f52ab91a1ec7acd4052d61a89f65fc )
+)
+
+game (
+	name "Centric - Preview (1996)(Markt & Technik)(de)[cr ONS]"
+	description "Centric - Preview (1996)(Markt & Technik)(de)[cr ONS]"
+	rom ( name "Centric - Preview (1996)(Markt & Technik)(de)[cr ONS].prg" size 26955 crc 006b2ae0 md5 b619eadc733e5213fb0a5654d63d217e sha1 503f5f5e72e90d170a7d17a3b600d7b953068d7a )
+)
+
+game (
+	name "Chaos Lands - Preview (19xx)(-)[h ONS]"
+	description "Chaos Lands - Preview (19xx)(-)[h ONS]"
+	rom ( name "Chaos Lands - Preview (19xx)(-)[h ONS].prg" size 32985 crc 9e371504 md5 132110d8ca0b66ddc3f3e515327fcceb sha1 c7ff0e28184c7e47d31daece3d32b316eebee70e )
+)
+
+game (
+	name "Chicken Race - Preview (2001)(LowBit Software)[cr Triad]"
+	description "Chicken Race - Preview (2001)(LowBit Software)[cr Triad]"
+	rom ( name "Chicken Race - Preview (2001)(LowBit Software)[cr Triad].prg" size 11735 crc 80c3fb78 md5 c3c9e7d7ed076ca95dd28d17ad902aeb sha1 b2931e4b3f55479febe518877b56013e098f8fa4 )
+)
+
+game (
+	name "Chronic the Badger - Preview v2 v.2 (1997)(Black Eagle)[h CHR]"
+	description "Chronic the Badger - Preview v2 v.2 (1997)(Black Eagle)[h CHR]"
+	rom ( name "Chronic the Badger - Preview v2 v.2 (1997)(Black Eagle)[h CHR].prg" size 24704 crc 76f36c5e md5 e1cc1c16d1a4adb5496ce887b8e64cc4 sha1 0b3afc3f550691a58cc8b4af73f0c302e7636bc1 )
+)
+
+game (
+	name "Cine - Preview (1998)(Pure)[cr LXT][t +3 LXT]"
+	description "Cine - Preview (1998)(Pure)[cr LXT][t +3 LXT]"
+	rom ( name "Cine - Preview (1998)(Pure)[cr LXT][t +3 LXT].prg" size 17910 crc 3f197a3a md5 7eaf64fd6f62e8092fbaa2aae1ad3ed0 sha1 2dfe87116aba3644b14c8dab3a154ce5404b5fac )
+)
+
+game (
+	name "Circus Fun - Preview (1985)(Alligata)"
+	description "Circus Fun - Preview (1985)(Alligata)"
+	rom ( name "Circus Fun - Preview (1985)(Alligata).prg" size 26685 crc da9dcd3d md5 47b87af37ff0fc45fc8391fd5d6a9f7a sha1 de1c85ee1b0bc2366732400b48a19b7b7bdbef25 )
+)
+
+game (
+	name "Citadel II - Preview (1992)(Balthazar)"
+	description "Citadel II - Preview (1992)(Balthazar)"
+	rom ( name "Citadel II - Preview (1992)(Balthazar).prg" size 26634 crc be7db21c md5 6558ea9ec8bf3df5ee59b37080b722a2 sha1 e42c16bbbdfe301fe79fc6418ffa8313c069e669 )
+)
+
+game (
+	name "City Bomber - Preview (19xx)(Jonathan Wells)[h SCS+TRC]"
+	description "City Bomber - Preview (19xx)(Jonathan Wells)[h SCS+TRC]"
+	rom ( name "City Bomber - Preview (19xx)(Jonathan Wells)[h SCS+TRC].prg" size 40883 crc 31f671b3 md5 1e398f245db4a740c27b6b2d61ef8766 sha1 8564f6d91be0221ffac7e3606bdf8bf9a0e75217 )
+)
+
+game (
+	name "Coined - Preview (1997)(-)[h AFL]"
+	description "Coined - Preview (1997)(-)[h AFL]"
+	rom ( name "Coined - Preview (1997)(-)[h AFL].prg" size 13315 crc 7b36f656 md5 b80df910044c303aaa6213d8b9469945 sha1 08fc50e8ab9670867f2397e7ccc5273a8dc8e9d8 )
+)
+
+game (
+	name "Colonization - Preview (1998)(-)[cr PTG]"
+	description "Colonization - Preview (1998)(-)[cr PTG]"
+	rom ( name "Colonization - Preview (1998)(-)[cr PTG].prg" size 7514 crc 9163838d md5 974bb256b62f2ac6fc9fd7a69f6a3c57 sha1 8524937e96cdd8c62e829cfa903a1a75fa9101b5 )
+)
+
+game (
+	name "Combat Zone - Preview (1990)(Look Twice)[cr Triangle]"
+	description "Combat Zone - Preview (1990)(Look Twice)[cr Triangle]"
+	rom ( name "Combat Zone - Preview (1990)(Look Twice)[cr Triangle].prg" size 28735 crc f0b0d522 md5 319f20915df627894d3cb60201b8c286 sha1 9cd2abc21db0924737b17ae134932e8fa4f948b5 )
+)
+
+game (
+	name "Countscale - Preview (1995)(-)[h Afrika]"
+	description "Countscale - Preview (1995)(-)[h Afrika]"
+	rom ( name "Countscale - Preview (1995)(-)[h Afrika].prg" size 23314 crc c0e8c53f md5 b1bfd443ba337d65d8c5fa937c20955c sha1 aed073a727c6ec547fa9ec621dffed1eccd8a873 )
+)
+
+game (
+	name "Covboy S Quest (1996)(Coma Software)"
+	description "Covboy S Quest (1996)(Coma Software)"
+	rom ( name "Covboy S Quest (1996)(Coma Software).prg" size 24455 crc a8907070 md5 679b79bbeffe2cc449d649b142f13b0f sha1 3f4b9f34a55b3fc630c570845a34bc46608f93ef )
+)
+
+game (
+	name "Crab Grab (1987)(Pinocchio)"
+	description "Crab Grab (1987)(Pinocchio)"
+	rom ( name "Crab Grab (1987)(Pinocchio).prg" size 16964 crc d86532c1 md5 d767421d12fac04c2f544fd2ddf975a4 sha1 48830d5821aeb8ddeb0f2475cdfc278323505b39 )
+)
+
+game (
+	name "Cracker v2 (1997)(D-Lite Designs)[cr M8]"
+	description "Cracker v2 (1997)(D-Lite Designs)[cr M8]"
+	rom ( name "Cracker v2 (1997)(D-Lite Designs)[cr M8].prg" size 25614 crc 11d149af md5 ed8ddd93f4b2f783f1c529cb2492f291 sha1 81357e087d990a0d966db404a1aa3f62499373df )
+)
+
+game (
+	name "Crackmania (1988)(Sunset Software)"
+	description "Crackmania (1988)(Sunset Software)"
+	rom ( name "Crackmania (1988)(Sunset Software).prg" size 19305 crc 3773a506 md5 677b8bb980b038f1b53e0e16c1722ed9 sha1 153d7c53245d7757cf98551caf103073061d3350 )
+)
+
+game (
+	name "Crazy - Preview (199x)(-)[h AFL]"
+	description "Crazy - Preview (199x)(-)[h AFL]"
+	rom ( name "Crazy - Preview (199x)(-)[h AFL].prg" size 11558 crc 42368136 md5 36eb680e5962057919d78e0b96d32458 sha1 29b5fab0f07df3bc036711a36971bd6b93ffd91e )
+)
+
+game (
+	name "Cross Invert 2 - Floppy's Quest - Preview (199x)(Sysart Software)[cr Hitmen]"
+	description "Cross Invert 2 - Floppy's Quest - Preview (199x)(Sysart Software)[cr Hitmen]"
+	rom ( name "Cross Invert 2 - Floppy's Quest - Preview (199x)(Sysart Software)[cr Hitmen].prg" size 20591 crc ff36e6ad md5 e3ed30957767ac582d8b07a4789ee583 sha1 16aeec834fff4f649ea152375919452351db1c98 )
+)
+
+game (
+	name "Cross, The - Preview (1995)(-)[cr SCS+TRC]"
+	description "Cross, The - Preview (1995)(-)[cr SCS+TRC]"
+	rom ( name "Cross, The - Preview (1995)(-)[cr SCS+TRC].prg" size 11244 crc a5712679 md5 f8c68995f9caac4be38e699578fa3a6b sha1 fd4852676885265fa94e4c489d4f83b15209d5f9 )
+)
+
+game (
+	name "Cube Heads - Preview (1995)(Violent Flowers)[cr SCS+TRC]"
+	description "Cube Heads - Preview (1995)(Violent Flowers)[cr SCS+TRC]"
+	rom ( name "Cube Heads - Preview (1995)(Violent Flowers)[cr SCS+TRC].prg" size 25178 crc c732ea8d md5 0378a2b0b0c7085d85ed013dc444828b sha1 58efdce812a4f77e404f19547922e287772aca26 )
+)
+
+game (
+	name "Cubic - Preview (19xx)(-)[h ONS][t +3 ONS]"
+	description "Cubic - Preview (19xx)(-)[h ONS][t +3 ONS]"
+	rom ( name "Cubic - Preview (19xx)(-)[h ONS][t +3 ONS].prg" size 15723 crc 7b0c18fc md5 d38efc6b2b481f2e18a8bc8b3156b6da sha1 e6fb177ba3faf83495107fb07471141302bff543 )
+)
+
+game (
+	name "Cyber Wing - Preview (1994)(The Bigtime Software Company)[cr M8]"
+	description "Cyber Wing - Preview (1994)(The Bigtime Software Company)[cr M8]"
+	rom ( name "Cyber Wing - Preview (1994)(The Bigtime Software Company)[cr M8].prg" size 26584 crc 487b100d md5 106a8095f4c582b4521cf14476e95edd sha1 007a5d8e631c1bada7158cd36d16a68d40584f54 )
+)
+
+game (
+	name "Cybershot - Preview (199x)(-)[h CHR]"
+	description "Cybershot - Preview (199x)(-)[h CHR]"
+	rom ( name "Cybershot - Preview (199x)(-)[h CHR].prg" size 11996 crc a0f9b299 md5 c5ce024c02e1a3cd1bd9a433ae164221 sha1 511a81a460cee645e180647d62d5f5d52506170b )
+)
+
+game (
+	name "Cybersub - Preview (200x)(-)[h Plazors]"
+	description "Cybersub - Preview (200x)(-)[h Plazors]"
+	rom ( name "Cybersub - Preview (200x)(-)[h Plazors].prg" size 16674 crc 010887cd md5 9aaa17e655407a9cd507e6e47549c2a7 sha1 7e1f0b7faa7dc5406e2d15c083dc00494e02f89a )
+)
+
+game (
+	name "Cyborg - Preview (19xx)(-)[h AXE]"
+	description "Cyborg - Preview (19xx)(-)[h AXE]"
+	rom ( name "Cyborg - Preview (19xx)(-)[h AXE].prg" size 28714 crc 69561607 md5 defeac968f51b8591637d99984f552d5 sha1 781983f6123d9ea05e349847d1b1d56f1baab39c )
+)
+
+game (
+	name "Cybowormz - Preview (19xx)(-)[cr Ikari]"
+	description "Cybowormz - Preview (19xx)(-)[cr Ikari]"
+	rom ( name "Cybowormz - Preview (19xx)(-)[cr Ikari].prg" size 25149 crc 65cd550b md5 79b4771e1638622ba1aebce5d9d6a698 sha1 1e1ce76fa22f565c59c55f74d0d5c60aa4e7c538 )
+)
+
+game (
+	name "Cybowormz - Preview (19xx)(-)[cr Ikari][a]"
+	description "Cybowormz - Preview (19xx)(-)[cr Ikari][a]"
+	rom ( name "Cybowormz - Preview (19xx)(-)[cr Ikari][a].prg" size 25149 crc d17af938 md5 eb0de5354f0e81de895fe6cd90210e3b sha1 d90f4e74ed2bfa14e3c514da2ac632fd8852ac1c )
+)
+
+game (
+	name "Damned - Preview (1999)(Jon Mines)[h F4CG+NTSC64.com]"
+	description "Damned - Preview (1999)(Jon Mines)[h F4CG+NTSC64.com]"
+	rom ( name "Damned - Preview (1999)(Jon Mines)[h F4CG+NTSC64.com].prg" size 6798 crc 0a420e3c md5 8058047197a3880132ad19e5f0eefa5a sha1 80153c6d811b25efade2a0a6217d9bb430454821 )
+)
+
+game (
+	name "Dangerzone (1987)(HCS)"
+	description "Dangerzone (1987)(HCS)"
+	rom ( name "Dangerzone (1987)(HCS).prg" size 13655 crc 0248b939 md5 6030a2281c9b6af9402fc4e1bf0328aa sha1 683c7acb51c0f398c6c010087019ebd64bb0f108 )
+)
+
+game (
+	name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL]"
+	description "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL]"
+	rom ( name "Dawn Patrol - Preview (1987)(Bytebusters)[cr MCL].prg" size 33880 crc a7772be7 md5 a05b9eda04e50fb66f0adc273515f563 sha1 ea5f7e2175c0f3e0c362ddf41d841a13d58f5d80 )
+)
+
+game (
+	name "Death Or Glory (2005)(Richard Bayliss)"
+	description "Death Or Glory (2005)(Richard Bayliss)"
+	rom ( name "Death Or Glory (2005)(Richard Bayliss).prg" size 10876 crc 9ca53249 md5 8f562ad3983aa8d675f59e6671024f34 sha1 a92e07f51778384307bbc40b54254dbc9c83695a )
+)
+
+game (
+	name "Deathstalker - Preview (1989)(Codemasters)[cr iAN CooG]"
+	description "Deathstalker - Preview (1989)(Codemasters)[cr iAN CooG]"
+	rom ( name "Deathstalker - Preview (1989)(Codemasters)[cr iAN CooG].prg" size 15925 crc 07e166a3 md5 4506d1eb821b62262fd953b21c21f4ee sha1 74bee7927f100f78afaed13a059a6ebf189d3a7c )
+)
+
+game (
+	name "Decent Strip Poker - Preview (1995)(New Entry)[h CHR][b]"
+	description "Decent Strip Poker - Preview (1995)(New Entry)[h CHR][b]"
+	rom ( name "Decent Strip Poker - Preview (1995)(New Entry)[h CHR][b].prg" size 42232 crc 7eaa314b md5 2f0d0f6be7c81441d793cc1c1468c921 sha1 8db3a2a239cab35b55ec494bc3ffd311c5d7a19d )
+)
+
+game (
+	name "Deep Space - Preview (19xx)(-)[cr TRSI+DTC]"
+	description "Deep Space - Preview (19xx)(-)[cr TRSI+DTC]"
+	rom ( name "Deep Space - Preview (19xx)(-)[cr TRSI+DTC].prg" size 12533 crc 48a083ee md5 5de58f6b6d520cf939b73ffb57e21b3a sha1 9aec00847869424e86fd595ae7b48d381e3d9424 )
+)
+
+game (
+	name "Deep Void - Preview (1996)(Willow)[cr EXC]"
+	description "Deep Void - Preview (1996)(Willow)[cr EXC]"
+	rom ( name "Deep Void - Preview (1996)(Willow)[cr EXC].prg" size 15192 crc 716a2a9e md5 fadc18466d9e0e2a820ea73037aa34ef sha1 3de2c439f003dd988c2b0de5b276d951d4265401 )
+)
+
+game (
+	name "Defensive - Preview (1988)(Electric Boys)[cr ONS]"
+	description "Defensive - Preview (1988)(Electric Boys)[cr ONS]"
+	rom ( name "Defensive - Preview (1988)(Electric Boys)[cr ONS].prg" size 27729 crc e67c4e79 md5 221cd80236e73d8e41b75f199523fdb7 sha1 58c65ec6aa6c153972cf9893b81d2b4f33554797 )
+)
+
+game (
+	name "Defuzion 3 - Preview (2001)(TND Games)(FW)[cr Role&TND]"
+	description "Defuzion 3 - Preview (2001)(TND Games)(FW)[cr Role&TND]"
+	rom ( name "Defuzion 3 - Preview (2001)(TND Games)(FW)[cr Role&TND].prg" size 17040 crc d5da207c md5 db2894d044aebc75095d2a1be91f9211 sha1 7184bc084b9ef7d58f8045f94e753d9955bae02e )
+)
+
+game (
+	name "Delectation - Preview (2001)(Morten Jensen)[h LXT]"
+	description "Delectation - Preview (2001)(Morten Jensen)[h LXT]"
+	rom ( name "Delectation - Preview (2001)(Morten Jensen)[h LXT].prg" size 8377 crc 95875cb1 md5 7713fcd0971ff2b67bba8b68fef3e21b sha1 8a4ec8dc867af46062f329e31d87b635971dd267 )
+)
+
+game (
+	name "Delta Mission v2 - P (1997)(Art Concepts)[cr M8]"
+	description "Delta Mission v2 - P (1997)(Art Concepts)[cr M8]"
+	rom ( name "Delta Mission v2 - P (1997)(Art Concepts)[cr M8].prg" size 38222 crc e59d0556 md5 6b8ed1b4be412059c014624438358066 sha1 1b411b73f703dba37150353ffcde848b89630f0e )
+)
+
+game (
+	name "Deluxe Strip Poker - Preview (19xx)(-)[cr O+H]"
+	description "Deluxe Strip Poker - Preview (19xx)(-)[cr O+H]"
+	rom ( name "Deluxe Strip Poker - Preview (19xx)(-)[cr O+H].prg" size 26297 crc 3ffaf21f md5 6264129e20467d3024847e40345685f7 sha1 61e0e04e9886890aece0a7ce377da73a73dedd9c )
+)
+
+game (
+	name "Diabolik - Preview (1992)(Simulmondo)[h TRC]"
+	description "Diabolik - Preview (1992)(Simulmondo)[h TRC]"
+	rom ( name "Diabolik - Preview (1992)(Simulmondo)[h TRC].prg" size 17996 crc 41cdc388 md5 9eba8020e3d707b106bc048c11604c54 sha1 9fe78f6473d5e18a11986e8ba86b7e1d0c143530 )
+)
+
+game (
+	name "Direct Death - Preview (1998)(Manuter Productions)[h AFL]"
+	description "Direct Death - Preview (1998)(Manuter Productions)[h AFL]"
+	rom ( name "Direct Death - Preview (1998)(Manuter Productions)[h AFL].prg" size 16278 crc 745d9832 md5 fdd9565841f71f94f3de2bc5d1366ef2 sha1 10b26d3a48f2b372e82f63be8de1c9c4492240e1 )
+)
+
+game (
+	name "Dominion (1987)(Sensible Software)"
+	description "Dominion (1987)(Sensible Software)"
+	rom ( name "Dominion (1987)(Sensible Software).prg" size 46517 crc 88ae9c6d md5 e3a313baf391439ee9639452e9c75983 sha1 bf3c345de3a7bbe7b3cc2b141fed28115282d110 )
+)
+
+game (
+	name "Doom - Preview (1997)(Knightcoder)[h F4CG]"
+	description "Doom - Preview (1997)(Knightcoder)[h F4CG]"
+	rom ( name "Doom - Preview (1997)(Knightcoder)[h F4CG].prg" size 23956 crc d14ca233 md5 e76d19a2c5328743b7abe5be4d1b1b64 sha1 31808c703f6a0e6fef16c221a920296c36609c24 )
+)
+
+game (
+	name "Doom - Preview (1997)(Knightcoder)[h ONS]"
+	description "Doom - Preview (1997)(Knightcoder)[h ONS]"
+	rom ( name "Doom - Preview (1997)(Knightcoder)[h ONS].prg" size 23920 crc 9f0b73a7 md5 a1dd3be6c4c1696345f2d12e03008839 sha1 bea031627b93376d38e05e88cde630f91e6d33f5 )
+)
+
+game (
+	name "Doomed World - Preview (1994)(Cherry)[cr GP]"
+	description "Doomed World - Preview (1994)(Cherry)[cr GP]"
+	rom ( name "Doomed World - Preview (1994)(Cherry)[cr GP].prg" size 39936 crc 7afcbb4a md5 6fccdb7bc7dea3806de7282be34e1519 sha1 f7376ac70fa17f46c15bba58430e0f9c6f44e238 )
+)
+
+game (
+	name "Double Crotch - Preview (199x)(-)[cr F4CG]"
+	description "Double Crotch - Preview (199x)(-)[cr F4CG]"
+	rom ( name "Double Crotch - Preview (199x)(-)[cr F4CG].prg" size 11340 crc a2f2880f md5 de04933b04a71c2f00cf1026d0bf6bdb sha1 9ce8bd4eb419de4b56628473542bddafeea3ef40 )
+)
+
+game (
+	name "Double Take - Preview (1987)(Kernal)"
+	description "Double Take - Preview (1987)(Kernal)"
+	rom ( name "Double Take - Preview (1987)(Kernal).prg" size 27651 crc 1cadcec8 md5 3c2481dec0af9cc6c1c861cc3d170d2d sha1 aaa0ca9ec182c75a4acb1df0b04a627fc7f0c2ba )
+)
+
+game (
+	name "Dracula - Preview (1986)(CRL)[h DMX+TCOM]"
+	description "Dracula - Preview (1986)(CRL)[h DMX+TCOM]"
+	rom ( name "Dracula - Preview (1986)(CRL)[h DMX+TCOM].prg" size 36606 crc a86ebda6 md5 a47eccd125b2a3a4c829b3703fd68b4a sha1 b107e82c318af155dae0ad03692b0d43b5f3beca )
+)
+
+game (
+	name "Dracula 2 - Preview (1987)(The Guild Adventure Software)[h TCOM]"
+	description "Dracula 2 - Preview (1987)(The Guild Adventure Software)[h TCOM]"
+	rom ( name "Dracula 2 - Preview (1987)(The Guild Adventure Software)[h TCOM].prg" size 27830 crc d35710af md5 2ac73c2a18b96e16dc76a0d16f6d25a6 sha1 fddff490c218f056942e303675950e0a1dc793d3 )
+)
+
+game (
+	name "Dragonfly Attack (1986)(Eric Ruhl)"
+	description "Dragonfly Attack (1986)(Eric Ruhl)"
+	rom ( name "Dragonfly Attack (1986)(Eric Ruhl).prg" size 29697 crc 10c7927a md5 e8eb5541c8430083d0d4a6b1fa2676e4 sha1 7fa378af204ad1e6447da2b9e83263aa44a0ac0c )
+)
+
+game (
+	name "Dream - Preview (199x)(Attila Szabo)"
+	description "Dream - Preview (199x)(Attila Szabo)"
+	rom ( name "Dream - Preview (199x)(Attila Szabo).prg" size 17559 crc 8e224258 md5 73c8c95139e260352bd796ae0320752e sha1 c944afe9d876311b2ad86194fd644d354dcaba71 )
+)
+
+game (
+	name "Dream - Preview (199x)(Attila Szabo)[cr CHR]"
+	description "Dream - Preview (199x)(Attila Szabo)[cr CHR]"
+	rom ( name "Dream - Preview (199x)(Attila Szabo)[cr CHR].prg" size 21841 crc ba6d85ec md5 2107a096952dbed633adbfe809fb715d sha1 2465624f716fbb3b369d76db1e915d0c59111140 )
+)
+
+game (
+	name "Dream Raider - Preview (1991)(Technodream)[cr CHR][t +2 CHR]"
+	description "Dream Raider - Preview (1991)(Technodream)[cr CHR][t +2 CHR]"
+	rom ( name "Dream Raider - Preview (1991)(Technodream)[cr CHR][t +2 CHR].prg" size 28136 crc a714b992 md5 cf009a152d34fe517d645c0a0ee3de00 sha1 596eb394917a6c65016da7894c96e9057c52e9a3 )
+)
+
+game (
+	name "Dump - Preview (19xx)(-)[cr DOR]"
+	description "Dump - Preview (19xx)(-)[cr DOR]"
+	rom ( name "Dump - Preview (19xx)(-)[cr DOR].prg" size 13630 crc d9b48ebc md5 00d0615d85419137066b6a4f4eb6246d sha1 b1f26eb44c2406ceed833854a4d2dda81b7f10d1 )
+)
+
+game (
+	name "Dune II - Preview (19xx)(Virgin)[h CHR]"
+	description "Dune II - Preview (19xx)(Virgin)[h CHR]"
+	rom ( name "Dune II - Preview (19xx)(Virgin)[h CHR].prg" size 17630 crc d41ff96b md5 2ab86325c7e58896a5a367394867e48e sha1 c66e04a0b6afac5648186b901fd1798a9a7da01a )
+)
+
+game (
+	name "Dungeon Master - Preview (199x)(-)[h M8]"
+	description "Dungeon Master - Preview (199x)(-)[h M8]"
+	rom ( name "Dungeon Master - Preview (199x)(-)[h M8].prg" size 24204 crc b87c5cb0 md5 098626da1b056c89fed05cca2e9454a8 sha1 f7119e54c038c2241d8fafa5070b0d7d3ccc51d8 )
+)
+
+game (
+	name "Ejac-A-Race - Preview (19xx)(-)[cr Aldi]"
+	description "Ejac-A-Race - Preview (19xx)(-)[cr Aldi]"
+	rom ( name "Ejac-A-Race - Preview (19xx)(-)[cr Aldi].prg" size 14681 crc 633d31c2 md5 969cff3dd0739013449e1cb2998e4d58 sha1 d4c083b7c7673bfb3b644412a1ec5d92c68aef9b )
+)
+
+game (
+	name "Elaroo - Preview (1994)(Thalamus)[cr AVT]"
+	description "Elaroo - Preview (1994)(Thalamus)[cr AVT]"
+	rom ( name "Elaroo - Preview (1994)(Thalamus)[cr AVT].prg" size 27776 crc 989395da md5 4b777e5f18e44d19693c5d6c0960d643 sha1 745e3d2c37f1a0cb8ca978574d28246a8cff4ae8 )
+)
+
+game (
+	name "Elvira 1 - Mistress of the Dark - Preview (1991)(Flair)[h CHR]"
+	description "Elvira 1 - Mistress of the Dark - Preview (1991)(Flair)[h CHR]"
+	rom ( name "Elvira 1 - Mistress of the Dark - Preview (1991)(Flair)[h CHR].prg" size 27788 crc 6ef16c0b md5 07734c1210dcfcbcecf7781dd83c2fd4 sha1 585f6d62915e31c3eef480d87e9169bf5eb6c9a9 )
+)
+
+game (
+	name "Elvira II - Preview (1995)(Flair Software)[h Pulsar]"
+	description "Elvira II - Preview (1995)(Flair Software)[h Pulsar]"
+	rom ( name "Elvira II - Preview (1995)(Flair Software)[h Pulsar].prg" size 41491 crc 359e2bac md5 9be9a0d3fe9dccada29e016b435c0fd3 sha1 adff3374a6ca4599a727114d318a73ce52c6b6b3 )
+)
+
+game (
+	name "Elvira II - Preview (1995)(Flair Software)[h WKD]"
+	description "Elvira II - Preview (1995)(Flair Software)[h WKD]"
+	rom ( name "Elvira II - Preview (1995)(Flair Software)[h WKD].prg" size 36073 crc 1d211d33 md5 04dd5e81bdd5586400bee140e8f0b27a sha1 55727a297d20c12368f97db6d45dbe73c84eee08 )
+)
+
+game (
+	name "Empire Strikes Back, The - Preview (19xx)(Paul Baker)"
+	description "Empire Strikes Back, The - Preview (19xx)(Paul Baker)"
+	rom ( name "Empire Strikes Back, The - Preview (19xx)(Paul Baker).prg" size 15744 crc b849a030 md5 f7085cc57e0ee0a7149644376a582c1c sha1 34b974fb9cb9f3f95e6590b6f265d3b8707b1cb7 )
+)
+
+game (
+	name "Eradicator 2 (1989)(Commodore Disk User)"
+	description "Eradicator 2 (1989)(Commodore Disk User)"
+	rom ( name "Eradicator 2 (1989)(Commodore Disk User).prg" size 30663 crc 1cd49bf2 md5 c1a75769389823b2e53b0b7860034653 sha1 f7a0fea7fbb0c1d34d21d0d89ed7cfbd97ebb607 )
+)
+
+game (
+	name "Erotica - Preview (1995)(Cybertech Laboratories)[h SCS+TRC]"
+	description "Erotica - Preview (1995)(Cybertech Laboratories)[h SCS+TRC]"
+	rom ( name "Erotica - Preview (1995)(Cybertech Laboratories)[h SCS+TRC].prg" size 21004 crc 1c9634fc md5 c791dbb217be4c8231974fc1c5d0ff55 sha1 ad4dd9409dfd4b71073e60cbce9ee2a3dcbdbeab )
+)
+
+game (
+	name "Escape (19xx)(Twisted Rainbow Labs)[cr ONS][t +2 ONS]"
+	description "Escape (19xx)(Twisted Rainbow Labs)[cr ONS][t +2 ONS]"
+	rom ( name "Escape (19xx)(Twisted Rainbow Labs)[cr ONS][t +2 ONS].prg" size 27357 crc 0df7b3de md5 6a0324ef67fd1f69a36f15a29ab33bdc sha1 f739da098c6463946acb9a7c266806cc74e6bf5f )
+)
+
+game (
+	name "Escape from Mars - Preview (1992)(xclusive Designs)[h PAN]"
+	description "Escape from Mars - Preview (1992)(xclusive Designs)[h PAN]"
+	rom ( name "Escape from Mars - Preview (1992)(xclusive Designs)[h PAN].prg" size 22564 crc 35fcbdf2 md5 3976240b85d46df3d16c99c6538010be sha1 b46175ece8711bc462ccc8cbeab66ba245276ae3 )
+)
+
+game (
+	name "Escape While You Can - Preview (199x)(-)[cr F4CG]"
+	description "Escape While You Can - Preview (199x)(-)[cr F4CG]"
+	rom ( name "Escape While You Can - Preview (199x)(-)[cr F4CG].prg" size 15492 crc c6234a40 md5 54ced117060282d5be32fa60b032b036 sha1 fc2d7a1d9eea7e2f9810ee2baa653ad74d629b60 )
+)
+
+game (
+	name "Extreme - Preview (1991)(Digital Integration)[h ULT]"
+	description "Extreme - Preview (1991)(Digital Integration)[h ULT]"
+	rom ( name "Extreme - Preview (1991)(Digital Integration)[h ULT].prg" size 32338 crc 32b9fcb3 md5 afe8b6eb34e6013a4d8c8c8318a9e447 sha1 bb604c70d91251e3482f3f87f020f14433fc05bb )
+)
+
+game (
+	name "Extreme Force (1990)(Mirage Designs)"
+	description "Extreme Force (1990)(Mirage Designs)"
+	rom ( name "Extreme Force (1990)(Mirage Designs).prg" size 28907 crc 9cfaf282 md5 4c751fe488d85fe5319f8ca2b87d321d sha1 67bbb8d01cb5b3194703b8b6177b7b21233595e2 )
+)
+
+game (
+	name "Fade to Black - Preview (1999)(-)[h F4CG]"
+	description "Fade to Black - Preview (1999)(-)[h F4CG]"
+	rom ( name "Fade to Black - Preview (1999)(-)[h F4CG].prg" size 5194 crc ba3ef5bb md5 986a4f833e97482a98d5df0ce3b77f32 sha1 8547107226ca15ef64d30a0e6abc3e1bddd3f3fe )
+)
+
+game (
+	name "Fastball - Preview (1996)(Loadstar)[cr AVT]"
+	description "Fastball - Preview (1996)(Loadstar)[cr AVT]"
+	rom ( name "Fastball - Preview (1996)(Loadstar)[cr AVT].prg" size 17451 crc b847c8a3 md5 f8ecd73d414c50acc4f9c70cbdc25cd6 sha1 3e0b111e6a83002ed249bf7b281f47f17f9f6c39 )
+)
+
+game (
+	name "Fields of Hades - Preview (1996)(Magna Media)[h S8]"
+	description "Fields of Hades - Preview (1996)(Magna Media)[h S8]"
+	rom ( name "Fields of Hades - Preview (1996)(Magna Media)[h S8].prg" size 14266 crc e0cc69a4 md5 31bf88066dffad447b8b81a837fe637c sha1 b2f983cfa77a7be4a76117c912db07f2d908d235 )
+)
+
+game (
+	name "Fight for Freedom - Preview (1993)(Victrix)[cr Suckers]"
+	description "Fight for Freedom - Preview (1993)(Victrix)[cr Suckers]"
+	rom ( name "Fight for Freedom - Preview (1993)(Victrix)[cr Suckers].prg" size 15839 crc 639cba93 md5 9ccaeffdf319d5f1109f21996810018f sha1 4f4e01febcaa11c714e019f0a1040f1a270681fa )
+)
+
+game (
+	name "Find It! - Preview (199x)(-)[cr F4CG]"
+	description "Find It! - Preview (199x)(-)[cr F4CG]"
+	rom ( name "Find It! - Preview (199x)(-)[cr F4CG].prg" size 18528 crc 52f59a76 md5 fc4aacac8fb4ef76234e78562e743275 sha1 ace972f602cc0fbdbffc984ce141d7411c7ac7e5 )
+)
+
+game (
+	name "Fine Tin - Preview (1989)(Bas Broers-Heatwave)[h TWG+TSS]"
+	description "Fine Tin - Preview (1989)(Bas Broers-Heatwave)[h TWG+TSS]"
+	rom ( name "Fine Tin - Preview (1989)(Bas Broers-Heatwave)[h TWG+TSS].prg" size 22067 crc 95a2d5ae md5 c0403b8965ea61c81d253756633ca752 sha1 9800554841bee87fff171cb4d2866ab3fce9356c )
+)
+
+game (
+	name "First Samurai - Preview (1992)(Vivid Image)[h Enigma]"
+	description "First Samurai - Preview (1992)(Vivid Image)[h Enigma]"
+	rom ( name "First Samurai - Preview (1992)(Vivid Image)[h Enigma].prg" size 47216 crc 7860bfc5 md5 2454382b221c8e4cc656ed1deedd9a6d sha1 a6eeaf9ff44894de1f6fd2c44c859fa2cba992cd )
+)
+
+game (
+	name "Flagmania - Preview (199x)(Accuracy)[cr ACY]"
+	description "Flagmania - Preview (199x)(Accuracy)[cr ACY]"
+	rom ( name "Flagmania - Preview (199x)(Accuracy)[cr ACY].prg" size 8960 crc eecbf57d md5 ab1528a64d9979d7b6c9fe5f7eca9980 sha1 481ba10983c0f66eaaeee433ab41997c6a5d99dd )
+)
+
+game (
+	name "Flashback - Preview (1995)(Electronic Boys Entertainment Software)"
+	description "Flashback - Preview (1995)(Electronic Boys Entertainment Software)"
+	rom ( name "Flashback - Preview (1995)(Electronic Boys Entertainment Software).prg" size 16146 crc 45b64d51 md5 b1c63c7b8f4f7c0b4af9ce15f3840763 sha1 b607db9b4a8239df7524abcb8cae8e075bc4f99d )
+)
+
+game (
+	name "Floppy 2004 - Grubz - Preview (2004)(Floppy 2004 Party)"
+	description "Floppy 2004 - Grubz - Preview (2004)(Floppy 2004 Party)"
+	rom ( name "Floppy 2004 - Grubz - Preview (2004)(Floppy 2004 Party).prg" size 32612 crc b6a0efaf md5 515856b35abf364d9c03a90ebf1ddaa1 sha1 57a20a3d5aec9a597ac7be43dba253e803e3be12 )
+)
+
+game (
+	name "Flummi's World - Preview (1994)(Substance)[h F4CG]"
+	description "Flummi's World - Preview (1994)(Substance)[h F4CG]"
+	rom ( name "Flummi's World - Preview (1994)(Substance)[h F4CG].prg" size 31688 crc 3755b938 md5 c622157f60ad56384938e37131902da9 sha1 1785c7e10a78e79d736531d339478df921a9e65e )
+)
+
+game (
+	name "Football Manager '97 - Preview (1997)(Trond)"
+	description "Football Manager '97 - Preview (1997)(Trond)"
+	rom ( name "Football Manager '97 - Preview (1997)(Trond).prg" size 10240 crc c1395c52 md5 94afeacb44b9feee8dd03133b3a10c14 sha1 147596ccafe7aa0bc687bfdd5bdb37116985b73d )
+)
+
+game (
+	name "Freak-Out - Preview (19xx)(The Force)[h ASCII]"
+	description "Freak-Out - Preview (19xx)(The Force)[h ASCII]"
+	rom ( name "Freak-Out - Preview (19xx)(The Force)[h ASCII].prg" size 20872 crc 6edfceae md5 a11678464b9445ae14c6935010c14be3 sha1 94c348d5daa9c723534e3aba1c81c3cf04961aa0 )
+)
+
+game (
+	name "Fussball - Preview (1994)(-)(de)[cr F4CG]"
+	description "Fussball - Preview (1994)(-)(de)[cr F4CG]"
+	rom ( name "Fussball - Preview (1994)(-)(de)[cr F4CG].prg" size 20446 crc 9a213d93 md5 a126883e877c47a2c34c6b7f3a9b6008 sha1 f51fff65db903bdfb252a1cf585f30199b6d8547 )
+)
+
+game (
+	name "Futris - Preview (19xx)(-)[cr M8]"
+	description "Futris - Preview (19xx)(-)[cr M8]"
+	rom ( name "Futris - Preview (19xx)(-)[cr M8].prg" size 15448 crc c3bcd73a md5 5fe111d639c41894d50adec65134b0a9 sha1 63b53e255fb50d3acbe9db8409c60c5d0410a888 )
+)
+
+game (
+	name "Fuzzball - Preview (1992)(-)[h ILS][t +1 ILS]"
+	description "Fuzzball - Preview (1992)(-)[h ILS][t +1 ILS]"
+	rom ( name "Fuzzball - Preview (1992)(-)[h ILS][t +1 ILS].prg" size 29923 crc 97b1eac3 md5 3b0d75aaa037dab16a3e362c8e99563e sha1 927b7019f3df4fda0e146bad26ef0b8e8bc39295 )
+)
+
+game (
+	name "Fuzzy Wuzzy (1990)(Apex Productions)"
+	description "Fuzzy Wuzzy (1990)(Apex Productions)"
+	rom ( name "Fuzzy Wuzzy (1990)(Apex Productions).prg" size 14731 crc 2679b0e6 md5 e5929488513966438eef02b967dfab7c sha1 8911b6ea3d9b603b582aca2c00dc17dc4b9171c1 )
+)
+
+game (
+	name "Genocide - Preview (19xx)(-)[h ONS]"
+	description "Genocide - Preview (19xx)(-)[h ONS]"
+	rom ( name "Genocide - Preview (19xx)(-)[h ONS].prg" size 16827 crc a3180775 md5 4c71a9e1f675e6d385302d1958ec1fba sha1 160e4909c9e6aaa718da9a97ecf9d250a2cf90da )
+)
+
+game (
+	name "Goldrunner - Preview (1986)(Digital News)"
+	description "Goldrunner - Preview (1986)(Digital News)"
+	rom ( name "Goldrunner - Preview (1986)(Digital News).prg" size 26943 crc 26326132 md5 ce11c029a0a3317bcdc119ce80419c96 sha1 13514d9066494ee31d06f0f29822218974e3bb05 )
+)
+
+game (
+	name "Gory Ghost - Preview (198x)(-)[cr F4CG]"
+	description "Gory Ghost - Preview (198x)(-)[cr F4CG]"
+	rom ( name "Gory Ghost - Preview (198x)(-)[cr F4CG].prg" size 26649 crc 294dd87d md5 41a0baf278e5303c8b98a38e3b3bad83 sha1 ad5eddf9eca3d6be4961ecf8f6c667ec8f63be61 )
+)
+
+game (
+	name "Grav - Preview (1997)(-)[cr SCS+TRC]"
+	description "Grav - Preview (1997)(-)[cr SCS+TRC]"
+	rom ( name "Grav - Preview (1997)(-)[cr SCS+TRC].prg" size 25213 crc d698b28d md5 7da88b2b1f081d4febfaf1436cf2c39e sha1 938911a5b8e1637a35036b2a3c40168f3550a1e2 )
+)
+
+game (
+	name "Gravity X - Preview (199x)(-)[h CHR]"
+	description "Gravity X - Preview (199x)(-)[h CHR]"
+	rom ( name "Gravity X - Preview (199x)(-)[h CHR].prg" size 22585 crc 76ffa71e md5 5fa29a09c33df1b607c824325f9f064e sha1 aab7a004694ce4be8f04b2aaec2cdaaa438e1cb6 )
+)
+
+game (
+	name "Gyrofalcon - Preview (199x)(-)[cr Hitmen]"
+	description "Gyrofalcon - Preview (199x)(-)[cr Hitmen]"
+	rom ( name "Gyrofalcon - Preview (199x)(-)[cr Hitmen].prg" size 14572 crc 2b7fdbfd md5 5cd89b18f0f257f14871d0e0d24fb791 sha1 e0bcda113c838df68f7915f08e7016242ca6ff5e )
+)
+
+game (
+	name "Hangman - Preview (19xx)(Marcin Guzik)[cr CHR]"
+	description "Hangman - Preview (19xx)(Marcin Guzik)[cr CHR]"
+	rom ( name "Hangman - Preview (19xx)(Marcin Guzik)[cr CHR].prg" size 16896 crc 1df7ca5e md5 fd7105d271ef54d0c3a5f3a6d8734027 sha1 6ae591e7abbad0542296565a7e6d720ce3054266 )
+)
+
+game (
+	name "Hangman Deluxe - Preview (1996)(Skull Publishing)[h AFL]"
+	description "Hangman Deluxe - Preview (1996)(Skull Publishing)[h AFL]"
+	rom ( name "Hangman Deluxe - Preview (1996)(Skull Publishing)[h AFL].prg" size 23422 crc 9215115a md5 82226ce31f3a1ce7965aa4b04c07dd2a sha1 c781ddcbcda2689756a9fa28c2418f5f9584ae19 )
+)
+
+game (
+	name "Hardfire - Preview (199x)(-)[cr AVT]"
+	description "Hardfire - Preview (199x)(-)[cr AVT]"
+	rom ( name "Hardfire - Preview (199x)(-)[cr AVT].prg" size 27863 crc eaa15767 md5 f875eda57751eae69f95d17fc1b7d48a sha1 ac8616e5c0b01d55c3c9fbcd464a6aec41e9ccfe )
+)
+
+game (
+	name "Heavy Metal Solid - Preview (2000)(TND Games)(FW)[h ONS]"
+	description "Heavy Metal Solid - Preview (2000)(TND Games)(FW)[h ONS]"
+	rom ( name "Heavy Metal Solid - Preview (2000)(TND Games)(FW)[h ONS].prg" size 19186 crc b1c899aa md5 b77026fb32d9b33f36615213ae7c60d3 sha1 bf461191bfe7ff1315e46b2891dff0d0142a32f6 )
+)
+
+game (
+	name "Hebel - Preview (199x)(Mr. Ballon)[cr GLS]"
+	description "Hebel - Preview (199x)(Mr. Ballon)[cr GLS]"
+	rom ( name "Hebel - Preview (199x)(Mr. Ballon)[cr GLS].prg" size 7146 crc 6a699f27 md5 75bfdb42872a6f03ebaa429deeece49c sha1 5f2d6a98bb57088dd2f1bb04de4325c9d470e81e )
+)
+
+game (
+	name "Helldiver - Preview (1996)(EMS Tech)[h ONS]"
+	description "Helldiver - Preview (1996)(EMS Tech)[h ONS]"
+	rom ( name "Helldiver - Preview (1996)(EMS Tech)[h ONS].prg" size 26818 crc 0a57c7c0 md5 ac67b482d68cdb6f35649dacb11d64a4 sha1 b2c7a42a13b5fe5f9d3b1c3e38bd8a06bdbb2613 )
+)
+
+game (
+	name "Henry - Preview v2.0 (19xx)(Masters Design Group)[h HC]"
+	description "Henry - Preview v2.0 (19xx)(Masters Design Group)[h HC]"
+	rom ( name "Henry - Preview v2.0 (19xx)(Masters Design Group)[h HC].prg" size 29388 crc 0f9b4cc1 md5 f07291c1aaa9ea444f178720dc71c49e sha1 53e7821ef302187cfa60797752bfa5fd40e82b15 )
+)
+
+game (
+	name "Hope to Hopp 2 - Preview (199x)(Magna Media)[cr AFL][t +1 AFL]"
+	description "Hope to Hopp 2 - Preview (199x)(Magna Media)[cr AFL][t +1 AFL]"
+	rom ( name "Hope to Hopp 2 - Preview (199x)(Magna Media)[cr AFL][t +1 AFL].prg" size 18814 crc a915ef2a md5 a5a4798b5d29c93409286fe8216fd696 sha1 17349ea303e6535594577fae2c6214331c58865c )
+)
+
+game (
+	name "Humanoid - Preview (1989)(Christopher Fitzsimons)"
+	description "Humanoid - Preview (1989)(Christopher Fitzsimons)"
+	rom ( name "Humanoid - Preview (1989)(Christopher Fitzsimons).prg" size 15736 crc 52bd81a9 md5 600abddcfca1fe5380948ed543fa520e sha1 e281229cda2b649f262c4ce7764b6565f6ce0a40 )
+)
+
+game (
+	name "Humblebug - Preview (19xx)(-)"
+	description "Humblebug - Preview (19xx)(-)"
+	rom ( name "Humblebug - Preview (19xx)(-).prg" size 13954 crc fa00bdf0 md5 98cf40df1fb8fce4d36462d5eaafe4ca sha1 133475f40c5c6d9a508115ff46aa8815d31235ae )
+)
+
+game (
+	name "Hyper Cars - Preview (1995)(Threshold Productions)[h F4CG]"
+	description "Hyper Cars - Preview (1995)(Threshold Productions)[h F4CG]"
+	rom ( name "Hyper Cars - Preview (1995)(Threshold Productions)[h F4CG].prg" size 21120 crc a81b7be2 md5 d76e2e645771cbf77aad628546cf07ac sha1 ddd22450045e7cb695fdc4dc5fe898c3cdbc0bb2 )
+)
+
+game (
+	name "Ice Tea - Preview (1996)(Century Art)"
+	description "Ice Tea - Preview (1996)(Century Art)"
+	rom ( name "Ice Tea - Preview (1996)(Century Art).prg" size 20839 crc 761975d4 md5 8707a7a21c85190580e438ec59d53721 sha1 d1914d602a94ad6b77ff94c0d36f7010f227de75 )
+)
+
+game (
+	name "Ice Tea - Preview (1996)(Century Art)[h ONS]"
+	description "Ice Tea - Preview (1996)(Century Art)[h ONS]"
+	rom ( name "Ice Tea - Preview (1996)(Century Art)[h ONS].prg" size 25211 crc cd636447 md5 94d71eb4b743b84fa40495119ba1e362 sha1 d9546236f6221d8c2a30c3d1f021d33343bf6812 )
+)
+
+game (
+	name "Iduna - Preview (1999)(Upscene)[h SCS+TRC]"
+	description "Iduna - Preview (1999)(Upscene)[h SCS+TRC]"
+	rom ( name "Iduna - Preview (1999)(Upscene)[h SCS+TRC].prg" size 20539 crc e1fc797c md5 8ca917232f419eae2b4f4a20723b9c1f sha1 4555e5216f0667a8f7757b68e40496b0eb8d1bb2 )
+)
+
+game (
+	name "Illgen (1989)(Digital Developments)"
+	description "Illgen (1989)(Digital Developments)"
+	rom ( name "Illgen (1989)(Digital Developments).prg" size 45589 crc c29577eb md5 60c7c90f33e9534874d385d4b88968f4 sha1 8267d142cc237316d092e0d3d4124f953d42de57 )
+)
+
+game (
+	name "Immortality in Space - Preview (1996)(Skull Publishing)[cr M8]"
+	description "Immortality in Space - Preview (1996)(Skull Publishing)[cr M8]"
+	rom ( name "Immortality in Space - Preview (1996)(Skull Publishing)[cr M8].prg" size 30396 crc a17ed788 md5 bea520a50677dedec4813c225af7c64d sha1 c64939dbac4b3723c986b25c9ad4a653c6f3d4f3 )
+)
+
+game (
+	name "Impulse - Preview (1988)(Russell Greenfield & I. Henderson)[cr TAC][t +1 TAC]"
+	description "Impulse - Preview (1988)(Russell Greenfield & I. Henderson)[cr TAC][t +1 TAC]"
+	rom ( name "Impulse - Preview (1988)(Russell Greenfield & I. Henderson)[cr TAC][t +1 TAC].prg" size 21342 crc c6b72d51 md5 c6db9dc2bf7fbde944305d7a60ec83bc sha1 24ac5ae211e83403b055b3e6f82d1dfec14e638b )
+)
+
+game (
+	name "Incinerator - Preview (19xx)(Michal Bacik)[cr SCS+TRC]"
+	description "Incinerator - Preview (19xx)(Michal Bacik)[cr SCS+TRC]"
+	rom ( name "Incinerator - Preview (19xx)(Michal Bacik)[cr SCS+TRC].prg" size 32353 crc 78dc81ce md5 3b7dadcc1e97ae2a797bff93d255f9a5 sha1 94ec0433bb140d1c14bc27f91bf1bb450279021f )
+)
+
+game (
+	name "Inzane - Preview (199x)(Everlasting Style)"
+	description "Inzane - Preview (199x)(Everlasting Style)"
+	rom ( name "Inzane - Preview (199x)(Everlasting Style).prg" size 18651 crc 8412c717 md5 d0f2f2a3d42eaf0ae142d1cffcdba71f sha1 4822584ac53944f4575211b8b32a10edd9ea7616 )
+)
+
+game (
+	name "Iron Fish (1987)(Mike Berry)"
+	description "Iron Fish (1987)(Mike Berry)"
+	rom ( name "Iron Fish (1987)(Mike Berry).prg" size 6084 crc 527bbf61 md5 d6a919b26ff2d47c7d2e7324142acec5 sha1 59cc9733efbfb8955b54209f2aa453c1f33d06fb )
+)
+
+game (
+	name "Ironhand (1987)(Canvas)"
+	description "Ironhand (1987)(Canvas)"
+	rom ( name "Ironhand (1987)(Canvas).prg" size 35346 crc d4cbb380 md5 b46f5ac2a2ac752e87461b1fc1888f4a sha1 bb554cb9aec71fb24d3403724e262bcd8473796b )
+)
+
+game (
+	name "Ishido - Preview (19xx)(-)[h EX]"
+	description "Ishido - Preview (19xx)(-)[h EX]"
+	rom ( name "Ishido - Preview (19xx)(-)[h EX].prg" size 28625 crc 578cca3c md5 78414428960d00ceeb177a0b881e2eef sha1 0381a7be9876f6a2cc26773fb370378c23128bfa )
+)
+
+game (
+	name "Ishido - Preview (2000)(Lion-Kempelen)"
+	description "Ishido - Preview (2000)(Lion-Kempelen)"
+	rom ( name "Ishido - Preview (2000)(Lion-Kempelen).prg" size 19155 crc dc4c83f9 md5 f29bbb4fb860863ecebfb5e2dba83ebb sha1 5143ed0f72d86af3ba67e08aba62c298a075ceb4 )
+)
+
+game (
+	name "Isolation - Preview (199x)(-)[cr SCS+TRC]"
+	description "Isolation - Preview (199x)(-)[cr SCS+TRC]"
+	rom ( name "Isolation - Preview (199x)(-)[cr SCS+TRC].prg" size 13635 crc 68e2aa35 md5 c490472ddf2356e09c09a655d8dd69a7 sha1 6057cb71cb6e1e2e1e8aa5d4804d7f4f3a1435f2 )
+)
+
+game (
+	name "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS]"
+	description "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS]"
+	rom ( name "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS].prg" size 38927 crc 04a13752 md5 e21461fa5d60dd0147381e0d209811c6 sha1 e29ed99fb58546d6fba32c513244d840486ab618 )
+)
+
+game (
+	name "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS][a]"
+	description "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS][a]"
+	rom ( name "It's Magic 2 - Preview (2000)(Protovision)(en-de)[h ONS][t +3 ONS][a].prg" size 38936 crc 7c4d2b0f md5 0dce50b1304b2ec9d012d0bb647197bd sha1 432a8096185a68a84bb2bc6dd552a9625a13a90c )
+)
+
+game (
+	name "Italian Night 1999 - Preview (1991)(Simulmondo)[h F4CG]"
+	description "Italian Night 1999 - Preview (1991)(Simulmondo)[h F4CG]"
+	rom ( name "Italian Night 1999 - Preview (1991)(Simulmondo)[h F4CG].prg" size 28693 crc 69c3c4b1 md5 4062a4ee1cddf0f406f6cc8257064a39 sha1 c14b17b28a1b11a04d99e1836de925a32688f960 )
+)
+
+game (
+	name "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen]"
+	description "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen]"
+	rom ( name "James Fly - Preview (1996)(Samari)[h Hitmen][t +2 Hitmen].prg" size 29824 crc ffbf768c md5 32b017cf0611ca2fe73784c20d09002a sha1 8807a692c8a9ebb8221152b6be03c8ee69e91dd7 )
+)
+
+game (
+	name "Jasmyne Ronda - Female Agent - Preview (1998)(Lagune Soft)(de)"
+	description "Jasmyne Ronda - Female Agent - Preview (1998)(Lagune Soft)(de)"
+	rom ( name "Jasmyne Ronda - Female Agent - Preview (1998)(Lagune Soft)(de).prg" size 11197 crc 92dbdfc3 md5 48762c12ac08a819e1dc4c734767a04a sha1 d2a042e3a525ca1cbacf797ae4e659c2e27c6f92 )
+)
+
+game (
+	name "Jori - Preview (199x)(-)[cr ONS]"
+	description "Jori - Preview (199x)(-)[cr ONS]"
+	rom ( name "Jori - Preview (199x)(-)[cr ONS].prg" size 12288 crc d8dbb7f4 md5 b5d07514939fe4d55c17d5fd7cf3b8b5 sha1 cb28b6656ec882eaa9c83936e010ca1f5470dab8 )
+)
+
+game (
+	name "Juicy Type - Preview (19xx)(-)[cr TAL]"
+	description "Juicy Type - Preview (19xx)(-)[cr TAL]"
+	rom ( name "Juicy Type - Preview (19xx)(-)[cr TAL].prg" size 16042 crc b3311cff md5 2ed205dd17982a3d42dbb882d06ea942 sha1 fe70885a9159ce28338d42526c3c53c80d7edd33 )
+)
+
+game (
+	name "Jumble - Preview (1992)(Viktor Farkas)[h SCS]"
+	description "Jumble - Preview (1992)(Viktor Farkas)[h SCS]"
+	rom ( name "Jumble - Preview (1992)(Viktor Farkas)[h SCS].prg" size 31417 crc f8962164 md5 3db0b459107e4e12712b846357f1d453 sha1 393873275877ae4bc682dfc841cf3b5b7bd89984 )
+)
+
+game (
+	name "Jump-Kid - Preview (1994)(CP Verlag)[cr M8]"
+	description "Jump-Kid - Preview (1994)(CP Verlag)[cr M8]"
+	rom ( name "Jump-Kid - Preview (1994)(CP Verlag)[cr M8].prg" size 30706 crc d6fdaeaf md5 47600177e518b0415150fabbb653d847 sha1 2f79b369c2bc18d03b0c23af4f4ffd7a91aba054 )
+)
+
+game (
+	name "Katakis - Preview (1988)(Rainbow Arts)[h Triad]"
+	description "Katakis - Preview (1988)(Rainbow Arts)[h Triad]"
+	rom ( name "Katakis - Preview (1988)(Rainbow Arts)[h Triad].prg" size 11128 crc ca31a355 md5 9864f1501ac60c2942335a699c39e179 sha1 52efe1ff4352ef450c63db367a1a3fadf4bc9602 )
+)
+
+game (
+	name "Kestrel - Bird of Prey - Preview (2000)(-)[h LXT]"
+	description "Kestrel - Bird of Prey - Preview (2000)(-)[h LXT]"
+	rom ( name "Kestrel - Bird of Prey - Preview (2000)(-)[h LXT].prg" size 9152 crc de0f7cba md5 2a81b9b5f0ee3d760f4d79950851317b sha1 aec25941459af9450843987f8d688e7f32a3e904 )
+)
+
+game (
+	name "Kill Him - Preview (19xx)(-)[h ONS]"
+	description "Kill Him - Preview (19xx)(-)[h ONS]"
+	rom ( name "Kill Him - Preview (19xx)(-)[h ONS].prg" size 11715 crc 0aa3c92e md5 f72ae96cc690e4558d2d71b3d1e5af8c sha1 87b214d7d4a247f60fc3dd1b3b362549fb09bb51 )
+)
+
+game (
+	name "Kill me Dead - Preview (19xx)(Fanatic Software & Cool Games Ltd.)[h TBT]"
+	description "Kill me Dead - Preview (19xx)(Fanatic Software & Cool Games Ltd.)[h TBT]"
+	rom ( name "Kill me Dead - Preview (19xx)(Fanatic Software & Cool Games Ltd.)[h TBT].prg" size 30282 crc 52df3fa9 md5 d15831d29879f6e07e2b6240522a5bd2 sha1 51f25332a56f1b85ea1c5c4a4b9f2b0ca3a63760 )
+)
+
+game (
+	name "Kill Your Brain (199x)(-)[cr AFL - Hitmen]"
+	description "Kill Your Brain (199x)(-)[cr AFL - Hitmen]"
+	rom ( name "Kill Your Brain (199x)(-)[cr AFL - Hitmen].prg" size 18944 crc c5e943f2 md5 449baa3b678ec50cb1db20fe1ed69212 sha1 ccf93dca30375d02417b975a1f3c2cefb929b099 )
+)
+
+game (
+	name "Kill Your Brain (199x)(-)[h AFL+Hitmen]"
+	description "Kill Your Brain (199x)(-)[h AFL+Hitmen]"
+	rom ( name "Kill Your Brain (199x)(-)[h AFL+Hitmen].prg" size 18889 crc 4e6f5f25 md5 8c37497012d420f0214c8006a2a188bc sha1 17688dc6bf7a6a3fefbf03e67caac9b2962f6a99 )
+)
+
+game (
+	name "Killerplants - Preview (19xx)(-)[h SCS+TRC]"
+	description "Killerplants - Preview (19xx)(-)[h SCS+TRC]"
+	rom ( name "Killerplants - Preview (19xx)(-)[h SCS+TRC].prg" size 21046 crc 7d2beb3d md5 a8bf710c84f502f952b85882c3411ba2 sha1 71e094f9d7c48d4928896457e6f104a6b2bd0827 )
+)
+
+game (
+	name "Kiss of Death - Preview v2 (1992)(-)[cr M8]"
+	description "Kiss of Death - Preview v2 (1992)(-)[cr M8]"
+	rom ( name "Kiss of Death - Preview v2 (1992)(-)[cr M8].prg" size 36778 crc b289920f md5 8ae59de8da19118d9c4c2d7df180efc9 sha1 fcb46b014a0c30ec4a1d8e1a139b1fe5435cd73d )
+)
+
+game (
+	name "Klaboom (1992)(James Sweeney)"
+	description "Klaboom (1992)(James Sweeney)"
+	rom ( name "Klaboom (1992)(James Sweeney).prg" size 15737 crc 43f2c575 md5 ac1946da187a8e94a6819f993c722433 sha1 d8beabc00304108d81b3e0f03a4a247a3eb837b0 )
+)
+
+game (
+	name "Koshimo Preview (19xx)(Direct Designs)[h AVT]"
+	description "Koshimo Preview (19xx)(Direct Designs)[h AVT]"
+	rom ( name "Koshimo Preview (19xx)(Direct Designs)[h AVT].prg" size 34432 crc 7ff29913 md5 9d39b479e6f35d2a2e22871fef3af282 sha1 fad527b22eb11d3cff61d8bb80f56a9383d844e2 )
+)
+
+game (
+	name "KYB - Kick Your Brain - Preview (19xx)(Artur Torun)[cr FLT]"
+	description "KYB - Kick Your Brain - Preview (19xx)(Artur Torun)[cr FLT]"
+	rom ( name "KYB - Kick Your Brain - Preview (19xx)(Artur Torun)[cr FLT].prg" size 13301 crc 32c5cdec md5 615a910ecb9bf2a4f09e33b6cc71d885 sha1 9f5a69efbb6027ea47b506b9b91bdda6ab631b1d )
+)
+
+game (
+	name "Later - Preview (19xx)(Agony)[cr SCS+TRC][t +1 SCS+TRC]"
+	description "Later - Preview (19xx)(Agony)[cr SCS+TRC][t +1 SCS+TRC]"
+	rom ( name "Later - Preview (19xx)(Agony)[cr SCS+TRC][t +1 SCS+TRC].prg" size 14802 crc 157dd634 md5 99e667d71a979cbacafa4ec7ff2196c3 sha1 16c02d54f7226129f9e292d2f68a9e6d86323e06 )
+)
+
+game (
+	name "Lazarian - Preview (1994)(Inflexion)"
+	description "Lazarian - Preview (1994)(Inflexion)"
+	rom ( name "Lazarian - Preview (1994)(Inflexion).prg" size 33828 crc cef0095d md5 90cfb4d6f0052e7ad4c951fd03180d7e sha1 18732f1ee3e1c4e8eaa9507ff06961d2264ae221 )
+)
+
+game (
+	name "Lazer Duel - Preview (1994)(Threshold Productions)"
+	description "Lazer Duel - Preview (1994)(Threshold Productions)"
+	rom ( name "Lazer Duel - Preview (1994)(Threshold Productions).prg" size 19328 crc 2b7372f9 md5 193829090513407adf218ba673b6bc85 sha1 079ef7d31dfeaaf46e04f3640f72e133c849828f )
+)
+
+game (
+	name "Lazer Duel - Preview (1994)(Threshold Productions)[cr SCS+TRC]"
+	description "Lazer Duel - Preview (1994)(Threshold Productions)[cr SCS+TRC]"
+	rom ( name "Lazer Duel - Preview (1994)(Threshold Productions)[cr SCS+TRC].prg" size 15630 crc d2884796 md5 4c1421db5f74c456ca26a35986cea6bc sha1 5fbd5bc3ed69779f35ed29fd0349b669475795a2 )
+)
+
+game (
+	name "Lee - Preview (19xx)(-)[h ORI]"
+	description "Lee - Preview (19xx)(-)[h ORI]"
+	rom ( name "Lee - Preview (19xx)(-)[h ORI].prg" size 8154 crc af80e46f md5 84592e90690081dde3c04ac5f5ad345a sha1 dcee77730deff252563b5fc0fd36caf351202371 )
+)
+
+game (
+	name "Lemming - Preview (1993)(Psygnosis)[h SCS]"
+	description "Lemming - Preview (1993)(Psygnosis)[h SCS]"
+	rom ( name "Lemming - Preview (1993)(Psygnosis)[h SCS].prg" size 25000 crc 9ca99976 md5 d8bd4867c2d57f8db9bffc79af90b206 sha1 71ee6c9624f73bd79e21dd261598f98810c8c0d5 )
+)
+
+game (
+	name "Lemming - Preview (1993)(Psygnosis)[h SCS][o]"
+	description "Lemming - Preview (1993)(Psygnosis)[h SCS][o]"
+	rom ( name "Lemming - Preview (1993)(Psygnosis)[h SCS][o].prg" size 25170 crc 93c746e7 md5 639c9152795f958e58ffae5ae9571052 sha1 38c75003c617f5bb4090c52343bdb1b6c81435d3 )
+)
+
+game (
+	name "Lemmings - Preview (199x)(-)[h ARC]"
+	description "Lemmings - Preview (199x)(-)[h ARC]"
+	rom ( name "Lemmings - Preview (199x)(-)[h ARC].prg" size 26514 crc a15adac3 md5 8272f5aca7763cefb9e4cddec482d8a4 sha1 699efc0b633d259fc5b75389b8ec3f6e70ae275a )
+)
+
+game (
+	name "Link Leroy - Preview (19xx)(-)[h F4CG]"
+	description "Link Leroy - Preview (19xx)(-)[h F4CG]"
+	rom ( name "Link Leroy - Preview (19xx)(-)[h F4CG].prg" size 22839 crc ae0a519c md5 38e09cfad55f2be09f1ed708b6623bfb sha1 2ba5e877b7c9603408031e4eb9ff498aa4dde633 )
+)
+
+game (
+	name "Link Leroy - Preview (19xx)(-)[h FLS][t +1 FLS]"
+	description "Link Leroy - Preview (19xx)(-)[h FLS][t +1 FLS]"
+	rom ( name "Link Leroy - Preview (19xx)(-)[h FLS][t +1 FLS].prg" size 21547 crc a457614a md5 9fe4ae9ccd6c6785f05b3612c6efb432 sha1 d2be3e2ae86385a58b4475b27164a226686de6b1 )
+)
+
+game (
+	name "Linking Leroy - Preview (19xx)(Divine)[h ONS]"
+	description "Linking Leroy - Preview (19xx)(Divine)[h ONS]"
+	rom ( name "Linking Leroy - Preview (19xx)(Divine)[h ONS].prg" size 24029 crc 6246bf1b md5 4be654b5fded1d6e9e41282bb9a30b38 sha1 96901819892f4ca02055f6665aca6e94e3d47352 )
+)
+
+game (
+	name "Living Dead - Preview 2 (19xx)(-)[Zenith]"
+	description "Living Dead - Preview 2 (19xx)(-)[Zenith]"
+	rom ( name "Living Dead - Preview 2 (19xx)(-)[Zenith].prg" size 13193 crc 48cdaa0b md5 398bbef2637d25c6db0bd9ee39260919 sha1 bd1acdffcd5c2e377d18d713099ca6c07c0a17e8 )
+)
+
+game (
+	name "Logic - Preview (1993)(CP Verlag)[h TRC+SCS]"
+	description "Logic - Preview (1993)(CP Verlag)[h TRC+SCS]"
+	rom ( name "Logic - Preview (1993)(CP Verlag)[h TRC+SCS].prg" size 14935 crc f512fbcb md5 9e19a677e31018b5a7f76e31838bbf89 sha1 b5fb9b74eb19aa5cf37d2d2520c7d62d3d856ba2 )
+)
+
+game (
+	name "Lord Mc Sun - Preview (1994)(-)[cr AVT]"
+	description "Lord Mc Sun - Preview (1994)(-)[cr AVT]"
+	rom ( name "Lord Mc Sun - Preview (1994)(-)[cr AVT].prg" size 23604 crc 121b9b1b md5 02477974fdd098b76946163e2bc9345d sha1 c9a5aaf7eec7bce0cf61b0ab2320df10d3c94fed )
+)
+
+game (
+	name "Lost Maze - Preview (199x)(-)[h XEN]"
+	description "Lost Maze - Preview (199x)(-)[h XEN]"
+	rom ( name "Lost Maze - Preview (199x)(-)[h XEN].prg" size 18310 crc 0ec045b0 md5 e3ea76495a2a17671352e61a3f3c605a sha1 9e7057c02cdf19ee10c0f45500b9975bbe0e6fe0 )
+)
+
+game (
+	name "LP Archery - Preview (1992)(5th Dimension)[cr SCS+TRC]"
+	description "LP Archery - Preview (1992)(5th Dimension)[cr SCS+TRC]"
+	rom ( name "LP Archery - Preview (1992)(5th Dimension)[cr SCS+TRC].prg" size 11520 crc d66f7451 md5 ccd85a64a2d71b0e25bba5bb327277b0 sha1 b1b8320c557d4a27d4f6217bf9c620445f5d491d )
+)
+
+game (
+	name "Mad Planets (1984)(Simon Nicol)"
+	description "Mad Planets (1984)(Simon Nicol)"
+	rom ( name "Mad Planets (1984)(Simon Nicol).prg" size 30722 crc 30beadb0 md5 df107615f7f413e86346cee26d3d08df sha1 4008a857a74187ab432bafeb87edb2354eaf3b75 )
+)
+
+game (
+	name "Mad Planets (1994)(Salamander Software)"
+	description "Mad Planets (1994)(Salamander Software)"
+	rom ( name "Mad Planets (1994)(Salamander Software).prg" size 12017 crc d6967f43 md5 e064c0086bb8e9d7e61b8ee0818e569a sha1 250b3a598855f3c55034ead3cfbbf1f385db298f )
+)
+
+game (
+	name "Mad Planets (1994)(Salamander Software)[cr CMM]"
+	description "Mad Planets (1994)(Salamander Software)[cr CMM]"
+	rom ( name "Mad Planets (1994)(Salamander Software)[cr CMM].prg" size 7655 crc b6f31161 md5 8cbcaa39954c66d00e3a9b757780dfcf sha1 44fb1d9d4b1f3a1f270eb2f83b6e9b7c81897343 )
+)
+
+game (
+	name "Manganoid - Preview (1997)(Timsoft)[h SCS+TRC]"
+	description "Manganoid - Preview (1997)(Timsoft)[h SCS+TRC]"
+	rom ( name "Manganoid - Preview (1997)(Timsoft)[h SCS+TRC].prg" size 17006 crc d3d24549 md5 6c3d7b915aeec19413e16180f1622177 sha1 54385808fc3e03e0ab013c6f9cc174aba0cdcc5f )
+)
+
+game (
+	name "Marbloid - Preview (199x)(Software Company)[cr SCS][t +2 SCS]"
+	description "Marbloid - Preview (199x)(Software Company)[cr SCS][t +2 SCS]"
+	rom ( name "Marbloid - Preview (199x)(Software Company)[cr SCS][t +2 SCS].prg" size 20516 crc d4be55d6 md5 2ae9c8eca970591485d8cdfd8e788214 sha1 34574ac32a0e6da8c7e4b66281217049d5b394c5 )
+)
+
+game (
+	name "Marc in Wonderland - Preview (199x)(-)[h Hardcore - ONS]"
+	description "Marc in Wonderland - Preview (199x)(-)[h Hardcore - ONS]"
+	rom ( name "Marc in Wonderland - Preview (199x)(-)[h Hardcore - ONS].prg" size 14080 crc 698b65b4 md5 baf89a93a1b29912a8bc7a115c3f66cb sha1 f7c468a77b558b9e2d176ea6ce01efb81b1cf93b )
+)
+
+game (
+	name "Massacre - Preview (199x)(Excess & Hitmen)"
+	description "Massacre - Preview (199x)(Excess & Hitmen)"
+	rom ( name "Massacre - Preview (199x)(Excess & Hitmen).prg" size 14086 crc d739db4b md5 53935297ab055ec04ff40374aaddb415 sha1 81020925dad1949eb7a5a86cf327f90dbe0c6836 )
+)
+
+game (
+	name "Master Tetris - Preview (1995)(Accuracy)"
+	description "Master Tetris - Preview (1995)(Accuracy)"
+	rom ( name "Master Tetris - Preview (1995)(Accuracy).prg" size 19456 crc 6ba99317 md5 d6446835b08c0f64fc99e30169b9c8da sha1 7e3029d32126a89f23b639963b74bc144387b9dc )
+)
+
+game (
+	name "Matrix - Preview (199x)(-)[cr RSI]"
+	description "Matrix - Preview (199x)(-)[cr RSI]"
+	rom ( name "Matrix - Preview (199x)(-)[cr RSI].prg" size 24349 crc 3e0bf51e md5 ce7b258701d9b6552fbff426234169f0 sha1 868f358bf321c5470cd1dd7978b42ac8024f76c5 )
+)
+
+game (
+	name "Mega Molecules (1997)(XLCUS)"
+	description "Mega Molecules (1997)(XLCUS)"
+	rom ( name "Mega Molecules (1997)(XLCUS).prg" size 13324 crc fe47e9a8 md5 6a31b8240392b189d67cb9c3a39973b4 sha1 a13aa2ddf1eea2905d3c7fc48ff1bb1608ab22cf )
+)
+
+game (
+	name "Megabrain - Preview (1996)(Cybertech)"
+	description "Megabrain - Preview (1996)(Cybertech)"
+	rom ( name "Megabrain - Preview (1996)(Cybertech).prg" size 17972 crc 5a525112 md5 126d362e13ef6d5549dafe8567f21c79 sha1 af05d20a7fc461e9e2a9bdb2a76dec81006015a6 )
+)
+
+game (
+	name "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE]"
+	description "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE]"
+	rom ( name "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE].prg" size 13772 crc d085e674 md5 4ad10d4d9a905a49a6d1c3bbff222616 sha1 27a0b07de1b043ed7e6a9b37aa68f96f4ae6c9f9 )
+)
+
+game (
+	name "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE][a]"
+	description "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE][a]"
+	rom ( name "Megamind - Preview (1999)(Andreas Kwias)(de)[cr ROLE][a].prg" size 19973 crc 1403b7bf md5 2d7a587da54221cdea4c5bcb45e6921c sha1 4ab4b7870c49d845e7ae2ead3e30a982cc165862 )
+)
+
+game (
+	name "Memologie - Preview (1995)(CP Verlag)[cr SCS+TRC]"
+	description "Memologie - Preview (1995)(CP Verlag)[cr SCS+TRC]"
+	rom ( name "Memologie - Preview (1995)(CP Verlag)[cr SCS+TRC].prg" size 19517 crc 45c25b7a md5 d364f180ffd4248aa667460bf0c2b69a sha1 e7014f1e3374dac99ccce3968a5b9620bd5a810e )
+)
+
+game (
+	name "Mental Moons - Preview (1988)(Ash & Dave)[h NPN]"
+	description "Mental Moons - Preview (1988)(Ash & Dave)[h NPN]"
+	rom ( name "Mental Moons - Preview (1988)(Ash & Dave)[h NPN].prg" size 32384 crc c0c96b0d md5 318469dd51bcdb0823539fa765c37844 sha1 e30e3dc6626078df48cd9cde72cb83f8bcf0cc46 )
+)
+
+game (
+	name "Metal Warrior 2 - Preview (1999)(Electric Harem)[h ONS][t +1 ONS]"
+	description "Metal Warrior 2 - Preview (1999)(Electric Harem)[h ONS][t +1 ONS]"
+	rom ( name "Metal Warrior 2 - Preview (1999)(Electric Harem)[h ONS][t +1 ONS].prg" size 22522 crc 4cbd5bf0 md5 a122f30e1187de0feea953172011e643 sha1 ff0589aa4feacb2bebfda3612092b1790b4a7f6f )
+)
+
+game (
+	name "Micro Assassins - Preview (1997)(-)[h ONS]"
+	description "Micro Assassins - Preview (1997)(-)[h ONS]"
+	rom ( name "Micro Assassins - Preview (1997)(-)[h ONS].prg" size 17606 crc b7ef20ab md5 b6b76072951b6792ba399ad96f80a063 sha1 993e90d621c20375694ca28b14464f07b860964d )
+)
+
+game (
+	name "Micro Machine - Preview (1997)(Patriot Games)[cr M8]"
+	description "Micro Machine - Preview (1997)(Patriot Games)[cr M8]"
+	rom ( name "Micro Machine - Preview (1997)(Patriot Games)[cr M8].prg" size 19205 crc 6a2e401a md5 1690475810c757c5a543c680b585a342 sha1 106ec5e3dc420324be11d53f2786bde8daabe569 )
+)
+
+game (
+	name "Mindsmear (19xx)(-)[b]"
+	description "Mindsmear (19xx)(-)[b]"
+	rom ( name "Mindsmear (19xx)(-)[b].prg" size 11995 crc 171e0ab9 md5 d1c399576786b54cb4d7218685ec9384 sha1 4431fbada8b7e93df39727c84b2913339135ca1f )
+)
+
+game (
+	name "Minesweeper - Playable Preview (1992)(Markt & Technik)[cr FLT]"
+	description "Minesweeper - Playable Preview (1992)(Markt & Technik)[cr FLT]"
+	rom ( name "Minesweeper - Playable Preview (1992)(Markt & Technik)[cr FLT].prg" size 6517 crc 45c3096e md5 93a55fa68b2ed5666516b2df7ad80f84 sha1 68134fef17c1ae6708e3fc10aaa72a84e08b4f96 )
+)
+
+game (
+	name "Misfire - Preview (19xx)(Olli Parviainen)[cr Palace]"
+	description "Misfire - Preview (19xx)(Olli Parviainen)[cr Palace]"
+	rom ( name "Misfire - Preview (19xx)(Olli Parviainen)[cr Palace].prg" size 17664 crc 6a45b407 md5 d7a3e340539cfea67f5bf589d8c9bc22 sha1 9865f0da0b83fd5939f7027df489d2d7f9057bfd )
+)
+
+game (
+	name "Mishun - Preview (1988)(Backroom Software)[cr Orion]"
+	description "Mishun - Preview (1988)(Backroom Software)[cr Orion]"
+	rom ( name "Mishun - Preview (1988)(Backroom Software)[cr Orion].prg" size 21910 crc 235d7315 md5 2cb3188598202a36169085ea1eb8292b sha1 6c12792c293a7aacffefe3483416459062c01cc3 )
+)
+
+game (
+	name "Mission Jupiter (1988)(John Airey)"
+	description "Mission Jupiter (1988)(John Airey)"
+	rom ( name "Mission Jupiter (1988)(John Airey).prg" size 30776 crc a15c9973 md5 0c0766a3bc02e8905636f7b5086ced4a sha1 2804b68067da7b92e5c88b084016b7da9b2e0ba8 )
+)
+
+game (
+	name "Mizmo - Preview (1994)(Human Research)[h HC]"
+	description "Mizmo - Preview (1994)(Human Research)[h HC]"
+	rom ( name "Mizmo - Preview (1994)(Human Research)[h HC].prg" size 25593 crc 1972b9a4 md5 89eb8e80d8cf32a464768c262ffecfbe sha1 0a285d5e67fc1f99263da1bb40bcfcfe6f1ee716 )
+)
+
+game (
+	name "Mizmo Terran - Preview (19xx)(-)[h Hardcore]"
+	description "Mizmo Terran - Preview (19xx)(-)[h Hardcore]"
+	rom ( name "Mizmo Terran - Preview (19xx)(-)[h Hardcore].prg" size 23727 crc f48a6bd7 md5 586269f1e0ab6e64251b8efb6ded084d sha1 4ba0186ab69acf5a0ed2796392aa4dd7cec74ad8 )
+)
+
+game (
+	name "Mood - Preview 2 (19xx)(NoName)[h SCS+TRC]"
+	description "Mood - Preview 2 (19xx)(NoName)[h SCS+TRC]"
+	rom ( name "Mood - Preview 2 (19xx)(NoName)[h SCS+TRC].prg" size 28840 crc 27da8c78 md5 354308b56bab6c2a832574574002b34e sha1 2ed5506cef2a67109441d46b196adcbf9deeb96c )
+)
+
+game (
+	name "Moose - Preview (19xx)(-)[h Ikari]"
+	description "Moose - Preview (19xx)(-)[h Ikari]"
+	rom ( name "Moose - Preview (19xx)(-)[h Ikari].prg" size 21099 crc d6d4e63b md5 e8286659d7a1bd01b4632502ea833742 sha1 0885cf368e0a91244526ec6791a047584cbb52e8 )
+)
+
+game (
+	name "Moppel the Nekroklast - Preview (199x)(-)(en-de)[cr M8]"
+	description "Moppel the Nekroklast - Preview (199x)(-)(en-de)[cr M8]"
+	rom ( name "Moppel the Nekroklast - Preview (199x)(-)(en-de)[cr M8].prg" size 21399 crc ee22a521 md5 1bcbcbf151e63826eb3281972f95c8e0 sha1 bb2e9de7397094bd740cfb8a707e5072a19ed4ce )
+)
+
+game (
+	name "Moppel the Nekroklast - Preview (199x)(-)[h ONS]"
+	description "Moppel the Nekroklast - Preview (199x)(-)[h ONS]"
+	rom ( name "Moppel the Nekroklast - Preview (199x)(-)[h ONS].prg" size 19487 crc d9593ec1 md5 befae779bdeae2a846d82f48353b19a9 sha1 411221a5b742efec9164aaeef048185b52d1c6ec )
+)
+
+game (
+	name "Mr. Wong's Loopy Laundry - Preview (19xx)(Peter Vass)[cr CHR]"
+	description "Mr. Wong's Loopy Laundry - Preview (19xx)(Peter Vass)[cr CHR]"
+	rom ( name "Mr. Wong's Loopy Laundry - Preview (19xx)(Peter Vass)[cr CHR].prg" size 17355 crc 6cd70d94 md5 a6ed5b8f70746842fc9b074d0e1990fa sha1 51519db7249621f5d31f63fddd5b401dd6388757 )
+)
+
+game (
+	name "Mushroom Torture - Preview (1998)(UriZen)[cr Hardcore]"
+	description "Mushroom Torture - Preview (1998)(UriZen)[cr Hardcore]"
+	rom ( name "Mushroom Torture - Preview (1998)(UriZen)[cr Hardcore].prg" size 19880 crc 147fe493 md5 6bbeaba6534776677c90520817d2ea2f sha1 77962808d6f8188407327eb3ae6a254ecddbad15 )
+)
+
+game (
+	name "Mysterious World - Preview (1998)(Groovy Bytes)[h Legend]"
+	description "Mysterious World - Preview (1998)(Groovy Bytes)[h Legend]"
+	rom ( name "Mysterious World - Preview (1998)(Groovy Bytes)[h Legend].prg" size 36579 crc 880517cb md5 aa5176fa9d0df2710db71583203e2f88 sha1 0f5eb75ce7a1e1d217c677fa250f6d6bbfc542a9 )
+)
+
+game (
+	name "Mystery - First Blood - Preview (19xx)(-)[h AFL]"
+	description "Mystery - First Blood - Preview (19xx)(-)[h AFL]"
+	rom ( name "Mystery - First Blood - Preview (19xx)(-)[h AFL].prg" size 22819 crc 4ae984bf md5 7a0e6aa8b0b599dd6e91005c239817cf sha1 a6f0985dd71b426b0e5e1c36e62fa8d79bdcc66a )
+)
+
+game (
+	name "Mystic Mirror Preview (1996)(New Freeware Stuff)[cr EXC]"
+	description "Mystic Mirror Preview (1996)(New Freeware Stuff)[cr EXC]"
+	rom ( name "Mystic Mirror Preview (1996)(New Freeware Stuff)[cr EXC].prg" size 17962 crc b330e68f md5 9d8897cb694b7bbefe18f4f9df44fdf2 sha1 e7b4d17d647f5df209ce83e1eeae3fd7eb6f8f4b )
+)
+
+game (
+	name "Mystic Mirrors - Preview (1996)(-)[h SCS+TRC]"
+	description "Mystic Mirrors - Preview (1996)(-)[h SCS+TRC]"
+	rom ( name "Mystic Mirrors - Preview (1996)(-)[h SCS+TRC].prg" size 14592 crc 245a3260 md5 133a94bcdc74f7232095519443040576 sha1 35a32a537d32218f100302015f43246e0105e4dd )
+)
+
+game (
+	name "Mythos (199x)(Crest)"
+	description "Mythos (199x)(Crest)"
+	rom ( name "Mythos (199x)(Crest).prg" size 18813 crc 0a09c7b9 md5 0226a14c1948f8969834093f746553b4 sha1 4f44e5fe8ca0051250ac81d3ec67423062abaec1 )
+)
+
+game (
+	name "Neiw - Preview (199x)(Ragon Software)[h GLS]"
+	description "Neiw - Preview (199x)(Ragon Software)[h GLS]"
+	rom ( name "Neiw - Preview (199x)(Ragon Software)[h GLS].prg" size 15118 crc 533283d4 md5 d91a8d13974fffca4337dbcfbfc9591c sha1 236214a62061395271f958b069c69a8a1669e1de )
+)
+
+game (
+	name "Neiw - Preview (19xx)(Ragon Soft)[cr FLT]"
+	description "Neiw - Preview (19xx)(Ragon Soft)[cr FLT]"
+	rom ( name "Neiw - Preview (19xx)(Ragon Soft)[cr FLT].prg" size 13200 crc 4e429f2f md5 1d1b1934dcbf48b72acee862ed0bea87 sha1 697ceac17ae9a33f65aa8a7039effbb223e82319 )
+)
+
+game (
+	name "Nitro - Preview (1996)(Tom Bakker)[cr SCS+TRC]"
+	description "Nitro - Preview (1996)(Tom Bakker)[cr SCS+TRC]"
+	rom ( name "Nitro - Preview (1996)(Tom Bakker)[cr SCS+TRC].prg" size 15202 crc d89d2841 md5 4ab9a5865d0ead436e55286d6b4a6664 sha1 8b69bf18d0a84b2054b79900e465c0018227a792 )
+)
+
+game (
+	name "Nodule - Preview (199x)(Slawek Gorka)[cr AFL]"
+	description "Nodule - Preview (199x)(Slawek Gorka)[cr AFL]"
+	rom ( name "Nodule - Preview (199x)(Slawek Gorka)[cr AFL].prg" size 26112 crc f69ad479 md5 6881663e69818ebbf63a4b18d6c87fe5 sha1 ee2dcc43ce44cdbd377f917e58c5c44aa77e7679 )
+)
+
+game (
+	name "Nodule - Preview (199x)(Slawek Gorka)[cr SCS - TRC][t +2 SCS - TRC]"
+	description "Nodule - Preview (199x)(Slawek Gorka)[cr SCS - TRC][t +2 SCS - TRC]"
+	rom ( name "Nodule - Preview (199x)(Slawek Gorka)[cr SCS - TRC][t +2 SCS - TRC].prg" size 16135 crc 79a63074 md5 c6f0b20c1bfbfa8469bcfcb21515cf6d sha1 38c593bfcf4beceab667df3ff455cf64f917f2bb )
+)
+
+game (
+	name "Nonsense - Preview (1990)(-)[cr ACT]"
+	description "Nonsense - Preview (1990)(-)[cr ACT]"
+	rom ( name "Nonsense - Preview (1990)(-)[cr ACT].prg" size 27908 crc f788c8b9 md5 76c03c10c7bcf5d0acfbe858590f7a34 sha1 bf3d3ec89882b49a47e3d63c057b9752a03e8429 )
+)
+
+game (
+	name "Nucleus (1988)(Petter Enval)[cr Abyss][t Orion]"
+	description "Nucleus (1988)(Petter Enval)[cr Abyss][t Orion]"
+	rom ( name "Nucleus (1988)(Petter Enval)[cr Abyss][t Orion].prg" size 35602 crc 576a798e md5 14535f340e4ab2173996d957559baeba sha1 2deb230d06a1592ec3e2f47c76616afd7fb5a6f6 )
+)
+
+game (
+	name "On Table - Preview (1997)(-)[h ONS]"
+	description "On Table - Preview (1997)(-)[h ONS]"
+	rom ( name "On Table - Preview (1997)(-)[h ONS].prg" size 21536 crc a63e1bec md5 70d0036eab2be137cb092c7115200521 sha1 b3404a08ed159768e8be1be43d7344b3a902589d )
+)
+
+game (
+	name "Oops - Preview (1995)(Abort)[h M8]"
+	description "Oops - Preview (1995)(Abort)[h M8]"
+	rom ( name "Oops - Preview (1995)(Abort)[h M8].prg" size 19368 crc 80ef64d2 md5 3d138eef747302ed963468549324db20 sha1 dd13c403af7fd00665237f914f8b75c0e65d235a )
+)
+
+game (
+	name "Oops - Preview (1995)(B. Khudsen & Abort Crew)[cr M8]"
+	description "Oops - Preview (1995)(B. Khudsen & Abort Crew)[cr M8]"
+	rom ( name "Oops - Preview (1995)(B. Khudsen & Abort Crew)[cr M8].prg" size 21945 crc 4cd877dd md5 0ebacea4f7f945f6ea0e7245682832a0 sha1 716dab15b975ac7c2011145b06544117bcf6e6af )
+)
+
+game (
+	name "Oops - Preview 2 (1995)(Abort)[h M8]"
+	description "Oops - Preview 2 (1995)(Abort)[h M8]"
+	rom ( name "Oops - Preview 2 (1995)(Abort)[h M8].prg" size 21946 crc 2a2c9993 md5 29479ccc5c634226ab962a8decbdfd9a sha1 a3b79780a82be80caeab2ea585893d442ecd2730 )
+)
+
+game (
+	name "Operation Proboszcz - Preview (199x)(-)[h CHR]"
+	description "Operation Proboszcz - Preview (199x)(-)[h CHR]"
+	rom ( name "Operation Proboszcz - Preview (199x)(-)[h CHR].prg" size 21043 crc 55643e74 md5 9e3422ade867af41332f681e74260860 sha1 2278702d6edc4c832a7204a730283b7a660fdade )
+)
+
+game (
+	name "Oracle 3 - Preview (1995)(Tufan Uysal & Marc Teufel)[cr FLT]"
+	description "Oracle 3 - Preview (1995)(Tufan Uysal & Marc Teufel)[cr FLT]"
+	rom ( name "Oracle 3 - Preview (1995)(Tufan Uysal & Marc Teufel)[cr FLT].prg" size 14433 crc dc0e21eb md5 c14906c1c36acd68bb591cac77f52cc6 sha1 a6b2637a7d6bbf1018c295c3302dd21623393878 )
+)
+
+game (
+	name "Orbyt (1988)(Jason Kelk)"
+	description "Orbyt (1988)(Jason Kelk)"
+	rom ( name "Orbyt (1988)(Jason Kelk).prg" size 2683 crc d7d39c2c md5 fc95ed65d313cee307d15e273cfea593 sha1 0de84b23734d3e81d14440ac2e9289779316d766 )
+)
+
+game (
+	name "Orcus v.2.0 - (19xx)(-)[cr DCS]"
+	description "Orcus v.2.0 - (19xx)(-)[cr DCS]"
+	rom ( name "Orcus v.2.0 - (19xx)(-)[cr DCS].prg" size 41346 crc 0705d95c md5 ea6e28d431f1454cec243e00bfbfe40b sha1 b798a5e4b6eed3381193a3f63a724b09c552be39 )
+)
+
+game (
+	name "P.P. Hammer - Preview (1991)(Demonware)[t +3 Anal X-Am Enterprise]"
+	description "P.P. Hammer - Preview (1991)(Demonware)[t +3 Anal X-Am Enterprise]"
+	rom ( name "P.P. Hammer - Preview (1991)(Demonware)[t +3 Anal X-Am Enterprise].prg" size 25565 crc 8dd7e80a md5 85309cc23912070c52507f33bbfc1c88 sha1 6fe58d2d0ac8e8127a70d03cb97dcca39fd6a108 )
+)
+
+game (
+	name "PacMacX - Preview (1998)(Jan Tahvanainen)[h Triad]"
+	description "PacMacX - Preview (1998)(Jan Tahvanainen)[h Triad]"
+	rom ( name "PacMacX - Preview (1998)(Jan Tahvanainen)[h Triad].prg" size 9600 crc b6477bc6 md5 abafb0c23d48bac09b953f7ad9c6b815 sha1 7f4411df72a1b48fb24b97893ea5ca0c2444a8dd )
+)
+
+game (
+	name "Pang - Preview v1 (1991)(Ocean Software)"
+	description "Pang - Preview v1 (1991)(Ocean Software)"
+	rom ( name "Pang - Preview v1 (1991)(Ocean Software).prg" size 8942 crc a378c47e md5 53baf4e4148e9746cef1672a305ed827 sha1 7be5a27248a8dcf2675a96ebc8dc96e0aa937a0c )
+)
+
+game (
+	name "Paralax - Preview (1996)(Visualize Software)"
+	description "Paralax - Preview (1996)(Visualize Software)"
+	rom ( name "Paralax - Preview (1996)(Visualize Software).prg" size 30156 crc 6acd7e6b md5 5479a8f62110f7cccb6d1d68e049419c sha1 afe7c7a85218e45f3f576231ce3d0137f675b934 )
+)
+
+game (
+	name "Paralax - Preview (1996)(Visualize Software)[a]"
+	description "Paralax - Preview (1996)(Visualize Software)[a]"
+	rom ( name "Paralax - Preview (1996)(Visualize Software)[a].prg" size 9947 crc 293baa65 md5 72022727d0a1481b455dc4d355b5e42d sha1 b9dc38f99a5ad7d0bb07862cc305db10f7f26a8d )
+)
+
+game (
+	name "Pen Palz (1997)(John Pericos and Nathan Perry)"
+	description "Pen Palz (1997)(John Pericos and Nathan Perry)"
+	rom ( name "Pen Palz (1997)(John Pericos and Nathan Perry).prg" size 27267 crc 28f85f8c md5 91f9ebf1659c84670ab28c155fab3af1 sha1 39d003ab7fa2caae0420a80927f9c9880573ba33 )
+)
+
+game (
+	name "Penguin Tower - Preview (1994)(Problemchild Productions)[h FLT]"
+	description "Penguin Tower - Preview (1994)(Problemchild Productions)[h FLT]"
+	rom ( name "Penguin Tower - Preview (1994)(Problemchild Productions)[h FLT].prg" size 22850 crc 7ebc4a9b md5 03a69275ed96539b73d7283c70f86ce9 sha1 57d0d6e59ab9af2e7735ea197ad74273062bee69 )
+)
+
+game (
+	name "Penguin Tower - Preview (1994)(Problemchild Productions)[h SCS+TRC]"
+	description "Penguin Tower - Preview (1994)(Problemchild Productions)[h SCS+TRC]"
+	rom ( name "Penguin Tower - Preview (1994)(Problemchild Productions)[h SCS+TRC].prg" size 27233 crc 2faf2f68 md5 347bd1e46899c65cd52fb5909dc8ba49 sha1 96b9e0f2a5ede5704e46be1413aee13742191bcf )
+)
+
+game (
+	name "Penny - Preview (1996)(Bartkomiet Lidke)[h ONS]"
+	description "Penny - Preview (1996)(Bartkomiet Lidke)[h ONS]"
+	rom ( name "Penny - Preview (1996)(Bartkomiet Lidke)[h ONS].prg" size 42356 crc fa71c767 md5 af8b1f0cedd5cbb73c3e32a20c9a37a8 sha1 040f988feb9a72a7f2b6bb33f90f345baefcc641 )
+)
+
+game (
+	name "Piranha - Preview (1992)(-)[h Brain Bombz]"
+	description "Piranha - Preview (1992)(-)[h Brain Bombz]"
+	rom ( name "Piranha - Preview (1992)(-)[h Brain Bombz].prg" size 43479 crc e65f79fe md5 b8c9466c6001b92d6dbd8f8f4630ed0a sha1 6977fb6b759d3fbff6137fe868aa21d5fc011ca8 )
+)
+
+game (
+	name "Pize - Preview (1993)(Cillit)[cr VSN]"
+	description "Pize - Preview (1993)(Cillit)[cr VSN]"
+	rom ( name "Pize - Preview (1993)(Cillit)[cr VSN].prg" size 18976 crc a4fd7ad8 md5 45de267948bc6b01d77e728c47c2d72f sha1 6e6a4ca3b73fc6fabda37b8432cf051b37e24c21 )
+)
+
+game (
+	name "Planets of Death - Preview (199x)(-)[h GP]"
+	description "Planets of Death - Preview (199x)(-)[h GP]"
+	rom ( name "Planets of Death - Preview (199x)(-)[h GP].prg" size 15040 crc 02359805 md5 5cd1182363af0a0d4f9d227e99345c2a sha1 a70a8f00a80aa9cb98a6bc23cbcb041d63a7cdee )
+)
+
+game (
+	name "Plopp - Preview (1994)(Quiss-APS)[cr ATL]"
+	description "Plopp - Preview (1994)(Quiss-APS)[cr ATL]"
+	rom ( name "Plopp - Preview (1994)(Quiss-APS)[cr ATL].prg" size 13222 crc a9b39af6 md5 ad31f1b30a0e567f483a4f1380b8b408 sha1 82e9eef63f627a5e01d8b2e496d48ce3742ee44a )
+)
+
+game (
+	name "Pluff - Preview (1995)(-)[cr F4CG][t +1 F4CG]"
+	description "Pluff - Preview (1995)(-)[cr F4CG][t +1 F4CG]"
+	rom ( name "Pluff - Preview (1995)(-)[cr F4CG][t +1 F4CG].prg" size 28105 crc 46f87aa1 md5 1ca20a0ad762814cbd7d9027381bb342 sha1 65f49fcade45b821b1d78f4fd0eaa63306320f77 )
+)
+
+game (
+	name "Polygonamy - Preview (1996)(Stephen L. Judd)[cr M8]"
+	description "Polygonamy - Preview (1996)(Stephen L. Judd)[cr M8]"
+	rom ( name "Polygonamy - Preview (1996)(Stephen L. Judd)[cr M8].prg" size 20120 crc ebdf7cd7 md5 fa9ad71fcce45d3c1451448e087ecdb9 sha1 05a79f276fae01b3fd5ad66dfce6f8e61f3f54ee )
+)
+
+game (
+	name "Portal - Preview (1995)(Visualize)[h F4CG - ONS]"
+	description "Portal - Preview (1995)(Visualize)[h F4CG - ONS]"
+	rom ( name "Portal - Preview (1995)(Visualize)[h F4CG - ONS].prg" size 15839 crc 134dbecb md5 fcbcb49a8bf91f735dac1265147358b2 sha1 da8c033a528861e63fb5638e3ef2692c11d262c5 )
+)
+
+game (
+	name "Primosis - Preview (198x)(-)[h PE]"
+	description "Primosis - Preview (198x)(-)[h PE]"
+	rom ( name "Primosis - Preview (198x)(-)[h PE].prg" size 21696 crc f63db5b1 md5 9436c4fb91b5c2b27f3c6b45040e001b sha1 58ed43d32fb6f041555ef2f274e5e3d9321c5845 )
+)
+
+game (
+	name "Prince of Persia - Preview (1996)(Broderbund)[cr CHR]"
+	description "Prince of Persia - Preview (1996)(Broderbund)[cr CHR]"
+	rom ( name "Prince of Persia - Preview (1996)(Broderbund)[cr CHR].prg" size 23519 crc f455c854 md5 15edf40ca79d96dd7e7fe91f69440350 sha1 68709d04cc699aef255c8b64a752e55eab9f697d )
+)
+
+game (
+	name "Prizone - Preview (1988)(Juha Kaki)[cr ONS][t +3 ONS]"
+	description "Prizone - Preview (1988)(Juha Kaki)[cr ONS][t +3 ONS]"
+	rom ( name "Prizone - Preview (1988)(Juha Kaki)[cr ONS][t +3 ONS].prg" size 31607 crc 5a40aa18 md5 c5509acc2b080d4dff7e822615c4121a sha1 037c7b11674c7243fdc2f25c9814025e15877c96 )
+)
+
+game (
+	name "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL]"
+	description "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL]"
+	rom ( name "Pro-Does - Preview (19xx)(Fuben-HIS-Design)[h AFL].prg" size 39303 crc fa012daf md5 e0ad2c8ab145690b5cd2242f807f2997 sha1 aff6c41e094ead8ba501b1aea2bc97cea9a86392 )
+)
+
+game (
+	name "Project Sparkk - Preview (1988)(Tony Christensen)[cr ATC]"
+	description "Project Sparkk - Preview (1988)(Tony Christensen)[cr ATC]"
+	rom ( name "Project Sparkk - Preview (1988)(Tony Christensen)[cr ATC].prg" size 33202 crc c561bd27 md5 b16bc91207af23dc930e1eb049ec65cf sha1 4599f401643df1d5e1a667d9a4f9934313f5c847 )
+)
+
+game (
+	name "Protector X - Preview (1992)(Software La Palace)"
+	description "Protector X - Preview (1992)(Software La Palace)"
+	rom ( name "Protector X - Preview (1992)(Software La Palace).prg" size 8704 crc d716eb9e md5 0608eba73b1e236ecdc6c6eed67d9aeb sha1 be7820aee12eaca2922f50807581372de7f641ed )
+)
+
+game (
+	name "Prototype - Preview (19xx)(Andre Reinhard)"
+	description "Prototype - Preview (19xx)(Andre Reinhard)"
+	rom ( name "Prototype - Preview (19xx)(Andre Reinhard).prg" size 23949 crc 81ad1ee8 md5 bf12cb4de99cf08d6c34ffc31bc7a614 sha1 08f070d71e6fd3c321900dd5517f3eccc3c2b669 )
+)
+
+game (
+	name "Prototype - Preview (19xx)(Andre Reinhard)[cr M8]"
+	description "Prototype - Preview (19xx)(Andre Reinhard)[cr M8]"
+	rom ( name "Prototype - Preview (19xx)(Andre Reinhard)[cr M8].prg" size 23950 crc aa848b31 md5 983afc528b08f8f4f35909d43b58344d sha1 a5cc2a6a1451532aff741a27615c92ae7d567ca5 )
+)
+
+game (
+	name "Pum - Preview (2000)(Tomi Malinen)[h LXT]"
+	description "Pum - Preview (2000)(Tomi Malinen)[h LXT]"
+	rom ( name "Pum - Preview (2000)(Tomi Malinen)[h LXT].prg" size 7415 crc 575485f7 md5 e95d9543ba379b11e7c3ab2730041fe7 sha1 c79deab1713cb31f444208fd46c284d0c72fb4cd )
+)
+
+game (
+	name "Pumpkin - Preview (199x)(-)[h TRC+SCS]"
+	description "Pumpkin - Preview (199x)(-)[h TRC+SCS]"
+	rom ( name "Pumpkin - Preview (199x)(-)[h TRC+SCS].prg" size 12304 crc 2bfddba6 md5 636cbd887c3014c52b0f5fbd5eed55f9 sha1 4d3f270cad286fb55af046dac252d4fb9293894a )
+)
+
+game (
+	name "Purple Haze - Preview (19xx)(Roy G.)[cr SCS+TRC]"
+	description "Purple Haze - Preview (19xx)(Roy G.)[cr SCS+TRC]"
+	rom ( name "Purple Haze - Preview (19xx)(Roy G.)[cr SCS+TRC].prg" size 18554 crc a292648d md5 c093d8caeaf17f8092d1633ff02dccb1 sha1 60226ce00a9f4a305675b27c55a6f563cf164e5c )
+)
+
+game (
+	name "Puzzle Mania - Preview (19xx)(Zzap! 64)[h SCS]"
+	description "Puzzle Mania - Preview (19xx)(Zzap! 64)[h SCS]"
+	rom ( name "Puzzle Mania - Preview (19xx)(Zzap! 64)[h SCS].prg" size 25638 crc 17004548 md5 bff19d569241fdaf57bbdab853d8ec24 sha1 62e30f5ead62161de421ce9a53df8786f8520efa )
+)
+
+game (
+	name "Pyramid - Preview (199x)(Panic Creations)[h TRC - SCS]"
+	description "Pyramid - Preview (199x)(Panic Creations)[h TRC - SCS]"
+	rom ( name "Pyramid - Preview (199x)(Panic Creations)[h TRC - SCS].prg" size 10242 crc dcfa247e md5 72594f750b8b25f384217f00cac91ab1 sha1 a2ca55c5eab927f545fcf0cf01d627ad301b1799 )
+)
+
+game (
+	name "Quest For Atlantis (1998)(Iyama Software)[cr Legend][t +2 Legend]"
+	description "Quest For Atlantis (1998)(Iyama Software)[cr Legend][t +2 Legend]"
+	rom ( name "Quest For Atlantis (1998)(Iyama Software)[cr Legend][t +2 Legend].prg" size 21225 crc ebfea28d md5 1f56bf586bc9284c36bfbcf5f24ccb02 sha1 f2a9c09fb67443291707a841556f5d03c9be1e72 )
+)
+
+game (
+	name "Race with the Devil - Preview (1986)(Protocol Productions)"
+	description "Race with the Devil - Preview (1986)(Protocol Productions)"
+	rom ( name "Race with the Devil - Preview (1986)(Protocol Productions).prg" size 32800 crc bf054eb8 md5 aa57650e46cf53732125ff725851dd75 sha1 01b2bea34a135d07cabb6035d3eb32ae1fcc333c )
+)
+
+game (
+	name "Radax - Preview (1988)(Firebird Software)[cr HTL]"
+	description "Radax - Preview (1988)(Firebird Software)[cr HTL]"
+	rom ( name "Radax - Preview (1988)(Firebird Software)[cr HTL].prg" size 31430 crc 869393a9 md5 7a4615f983e15e7b7a10e9ea64ee5693 sha1 48af3ff91178b5def75f5ee22c8108890002e767 )
+)
+
+game (
+	name "Rainbow Bomb - Preview (199x)(-)[cr Hardcore - ONS]"
+	description "Rainbow Bomb - Preview (199x)(-)[cr Hardcore - ONS]"
+	rom ( name "Rainbow Bomb - Preview (199x)(-)[cr Hardcore - ONS].prg" size 17795 crc 89d5e3ff md5 7c9a7ff5ab682dc289e7b4041cf129ed sha1 0031a2322a43ca606cb8234fa363713a9637ef79 )
+)
+
+game (
+	name "Rapid Steel (1989)(Diamond Bytes + Apex Images)"
+	description "Rapid Steel (1989)(Diamond Bytes + Apex Images)"
+	rom ( name "Rapid Steel (1989)(Diamond Bytes + Apex Images).prg" size 12233 crc fcc98711 md5 78e5570fb158442a6933e92b35a8d09a sha1 c4bcce7020745455b332a21a15cd3f9fc2405fe9 )
+)
+
+game (
+	name "Rawhead Rex - Preview (199x)(-)[cr SCS]"
+	description "Rawhead Rex - Preview (199x)(-)[cr SCS]"
+	rom ( name "Rawhead Rex - Preview (199x)(-)[cr SCS].prg" size 13607 crc 885c3a52 md5 75b1c8d9cc0b51e1f76641f3d5cbc335 sha1 b30caecd7e8bbbdc3af56dde0e4d4603717bda21 )
+)
+
+game (
+	name "Raz - Preview (199x)(-)[cr XEN]"
+	description "Raz - Preview (199x)(-)[cr XEN]"
+	rom ( name "Raz - Preview (199x)(-)[cr XEN].prg" size 21222 crc 969b2812 md5 390076cf31998a77ba4fe012edc0470b sha1 d8c4611dc0b3323f8231e28f5872e7e981b46d07 )
+)
+
+game (
+	name "Razor - Preview (2000)(Marcus Hinzmann)[cr Triad]"
+	description "Razor - Preview (2000)(Marcus Hinzmann)[cr Triad]"
+	rom ( name "Razor - Preview (2000)(Marcus Hinzmann)[cr Triad].prg" size 4462 crc 31c20ce0 md5 c24c33b0b34542ebe315d26021cac657 sha1 427a1a230b3575022dc265efeaee32c14a76ad63 )
+)
+
+game (
+	name "Reaxion - Preview (19xx)(-)[h AVT]"
+	description "Reaxion - Preview (19xx)(-)[h AVT]"
+	rom ( name "Reaxion - Preview (19xx)(-)[h AVT].prg" size 13280 crc d415167f md5 ff4f22855a6cdd0075bf6cdec74112fb sha1 e65eaf0b970a56935610e798f122148a2e7d7547 )
+)
+
+game (
+	name "Red 200 (1996)(Samar Productions)[cr SCS+TRC][t +7 ONS]"
+	description "Red 200 (1996)(Samar Productions)[cr SCS+TRC][t +7 ONS]"
+	rom ( name "Red 200 (1996)(Samar Productions)[cr SCS+TRC][t +7 ONS].prg" size 46875 crc 4ece5be9 md5 75b72a0fe9090c69f20d2f6c923b062f sha1 1de587ae4de787eb19dc0246fd739a3c9bb0ae0c )
+)
+
+game (
+	name "Red Twenty - Preview (19xx)(Levi)[cr SCS+TRC]"
+	description "Red Twenty - Preview (19xx)(Levi)[cr SCS+TRC]"
+	rom ( name "Red Twenty - Preview (19xx)(Levi)[cr SCS+TRC].prg" size 20524 crc bdae9a6e md5 01118263344b74c583ad1d43a7c489ae sha1 d6fd4d9b9cf3b51edd4419a7a71489de68423d82 )
+)
+
+game (
+	name "Redics - Preview (1993)(CP Verlag)[h CHR]"
+	description "Redics - Preview (1993)(CP Verlag)[h CHR]"
+	rom ( name "Redics - Preview (1993)(CP Verlag)[h CHR].prg" size 16296 crc 4a041c0c md5 a3ca8219b2044e0d46c33eeb49508f7f sha1 5a54c9323d27adbf47784b0c1731a61532571456 )
+)
+
+game (
+	name "Redics - Preview (1993)(CP Verlag)[h SCS]"
+	description "Redics - Preview (1993)(CP Verlag)[h SCS]"
+	rom ( name "Redics - Preview (1993)(CP Verlag)[h SCS].prg" size 12719 crc 93a4ba24 md5 97cf1eb49a4c5c5ef69d3013f6ab0c96 sha1 50a16f68a3f325b3964af3a6f20b832ad747ab80 )
+)
+
+game (
+	name "Reflect - Preview (1992)(Mythic Kingdom)[h CHR]"
+	description "Reflect - Preview (1992)(Mythic Kingdom)[h CHR]"
+	rom ( name "Reflect - Preview (1992)(Mythic Kingdom)[h CHR].prg" size 19001 crc 4e755559 md5 23b325f535fd95dad85ead5b398a5425 sha1 dcc54ae4d72d55b11d0baea802f57da8d85cfe55 )
+)
+
+game (
+	name "Rem Force - Preview (1992)(Kim Andersen)[h O+H]"
+	description "Rem Force - Preview (1992)(Kim Andersen)[h O+H]"
+	rom ( name "Rem Force - Preview (1992)(Kim Andersen)[h O+H].prg" size 19527 crc 37b15ad3 md5 8a37e00b1fd40cae85c4ee7a546981e7 sha1 49229067398857b4c73a88cae8dbd1c8abee7c1a )
+)
+
+game (
+	name "Revenge - Preview (19xx)(-)[cr LXT]"
+	description "Revenge - Preview (19xx)(-)[cr LXT]"
+	rom ( name "Revenge - Preview (19xx)(-)[cr LXT].prg" size 17135 crc 2630261b md5 f5dfe6b2b1e2b8fb54273e3ace4b8abd sha1 1a74066590e7443cfc92d9250690640a44ddfb7d )
+)
+
+game (
+	name "Revenge 2 - Preview (19xx)(YAK)[cr Madness]"
+	description "Revenge 2 - Preview (19xx)(YAK)[cr Madness]"
+	rom ( name "Revenge 2 - Preview (19xx)(YAK)[cr Madness].prg" size 29075 crc 4a8e34f4 md5 5ea699728d9962bab357cea386732a6f sha1 8f0c52c9fbcb4a71ce4096616f126f69d86d5378 )
+)
+
+game (
+	name "Rigor - Preview (199x)(Nipson)(Side A)[cr SCS+TRC]"
+	description "Rigor - Preview (199x)(Nipson)(Side A)[cr SCS+TRC]"
+	rom ( name "Rigor - Preview (199x)(Nipson)(Side A)[cr SCS+TRC].prg" size 33119 crc aada8054 md5 99dbacbaccbef97c418067a89b73c366 sha1 f3a5e289be0c8bb46a33661a99002dc1dcd08124 )
+)
+
+game (
+	name "Risk! - Preview (19xx)(Christopher West)"
+	description "Risk! - Preview (19xx)(Christopher West)"
+	rom ( name "Risk! - Preview (19xx)(Christopher West).prg" size 40118 crc 4c8c51f9 md5 32a7c532f164489396b0d4d0f02bb01b sha1 8ffbdf8af5f42863d859f112d1076f288a056c66 )
+)
+
+game (
+	name "River Racers - Preview (2003)(TND Games)(FW)[cr BLZ]"
+	description "River Racers - Preview (2003)(TND Games)(FW)[cr BLZ]"
+	rom ( name "River Racers - Preview (2003)(TND Games)(FW)[cr BLZ].prg" size 19744 crc ba04367d md5 19daed55b47cb7e071e4a45047c516f2 sha1 35ec93075f9cc4e9257567fb344f32c8ff675318 )
+)
+
+game (
+	name "Robotronix - Preview (1996)(-)[h ACR]"
+	description "Robotronix - Preview (1996)(-)[h ACR]"
+	rom ( name "Robotronix - Preview (1996)(-)[h ACR].prg" size 15744 crc d6ac13c2 md5 945476cf41de50a081ed3bea185be105 sha1 9dbe1603d547110c473b71c6afb2644ad4514a1e )
+)
+
+game (
+	name "Rolling Ronny - Preview (1992)(Virgin)[t +3 BZ]"
+	description "Rolling Ronny - Preview (1992)(Virgin)[t +3 BZ]"
+	rom ( name "Rolling Ronny - Preview (1992)(Virgin)[t +3 BZ].prg" size 29284 crc a178f37c md5 34b89ab80785c3654393c533e7738853 sha1 b7830bc3810d1b55348813ee8003007c3bab0141 )
+)
+
+game (
+	name "Run, The - Preview (1997)(Triad)"
+	description "Run, The - Preview (1997)(Triad)"
+	rom ( name "Run, The - Preview (1997)(Triad).prg" size 12544 crc 0d58f1bf md5 f4cdcc33f8ec22657bdd2f5a1eff7a5c sha1 82ffea4499ccc3c01ccc68cd0c28f651a31ed163 )
+)
+
+game (
+	name "Runestone - Preview (1985)(Chris Yates)[h SCS]"
+	description "Runestone - Preview (1985)(Chris Yates)[h SCS]"
+	rom ( name "Runestone - Preview (1985)(Chris Yates)[h SCS].prg" size 16563 crc 1bf112be md5 6d8502c4aa361a80de5d49a8e0cba128 sha1 170e72aa1bfec163faeb7ca5b594347e6a03ad2f )
+)
+
+game (
+	name "Saper - Preview (1998)(Pawel Ruczko-V-12Tropyx)[cr F4CG]"
+	description "Saper - Preview (1998)(Pawel Ruczko-V-12Tropyx)[cr F4CG]"
+	rom ( name "Saper - Preview (1998)(Pawel Ruczko-V-12Tropyx)[cr F4CG].prg" size 15381 crc d6127441 md5 4719c2044b23e02a861e2ae0bb57f53d sha1 504730a7de89683a210014fac06d80cc2039f743 )
+)
+
+game (
+	name "Savage Platforms - Preview (1997)(Michael J. Berry)"
+	description "Savage Platforms - Preview (1997)(Michael J. Berry)"
+	rom ( name "Savage Platforms - Preview (1997)(Michael J. Berry).prg" size 18696 crc 708ae869 md5 22c6b59cd514d17eb991dfd11f5e5754 sha1 69a6adc0c6fca02ed4433a757c45a8d3c0a61e8d )
+)
+
+game (
+	name "Savage Platforms - Preview (1997)(Michael J. Berry)[a]"
+	description "Savage Platforms - Preview (1997)(Michael J. Berry)[a]"
+	rom ( name "Savage Platforms - Preview (1997)(Michael J. Berry)[a].prg" size 15353 crc eb524cc4 md5 82612dd9ae8077a85d04367f06e4960d sha1 88ce9b17c895b363a9740a3c14f96bccda43fe0d )
+)
+
+game (
+	name "Savage Platforms - Preview (1997)(Michael J. Berry)[h AFL]"
+	description "Savage Platforms - Preview (1997)(Michael J. Berry)[h AFL]"
+	rom ( name "Savage Platforms - Preview (1997)(Michael J. Berry)[h AFL].prg" size 23903 crc e0111b0d md5 6572fbcb235f62b1e2dfc51a616bf1c6 sha1 6f601f0ce35d1f5e7e741c56285eb3791f005496 )
+)
+
+game (
+	name "Saviour! - Preview (1987)(Oscar Giesen)"
+	description "Saviour! - Preview (1987)(Oscar Giesen)"
+	rom ( name "Saviour! - Preview (1987)(Oscar Giesen).prg" size 13861 crc a56bec4b md5 0bfa29a1edfea9d07d42a644637198e3 sha1 dd95e72c8366cc32c72b807609a1248f5d46e159 )
+)
+
+game (
+	name "Sceptre of Baghdad - Preview (1992)(Psytronik)[h TRSI]"
+	description "Sceptre of Baghdad - Preview (1992)(Psytronik)[h TRSI]"
+	rom ( name "Sceptre of Baghdad - Preview (1992)(Psytronik)[h TRSI].prg" size 41578 crc c6020267 md5 66c9ac96aab94687bc4b4f6ef5b12c16 sha1 803c05656666a4780f574f81cc64175cfe2e9a7d )
+)
+
+game (
+	name "Science Fighter - Preview (19xx)(Fire Eagle)"
+	description "Science Fighter - Preview (19xx)(Fire Eagle)"
+	rom ( name "Science Fighter - Preview (19xx)(Fire Eagle).prg" size 20568 crc 1eefd241 md5 a06f532965023a3a56d784f06e1fc781 sha1 53e21e1ed83cf51a47ab289095b8efba3b4b28b8 )
+)
+
+game (
+	name "Scorpion - Fight Without Mercy - Preview (1995)(The Digital Brain)"
+	description "Scorpion - Fight Without Mercy - Preview (1995)(The Digital Brain)"
+	rom ( name "Scorpion - Fight Without Mercy - Preview (1995)(The Digital Brain).prg" size 25617 crc 56bb539a md5 2f94ee485d09ae7d1a43302957087f2f sha1 04d97a6a89d4f111b14f0d7d1e80498570640cf8 )
+)
+
+game (
+	name "Scorpion - Preview (19xx)(AFL & Hitmen)"
+	description "Scorpion - Preview (19xx)(AFL & Hitmen)"
+	rom ( name "Scorpion - Preview (19xx)(AFL & Hitmen).prg" size 16896 crc 31e577aa md5 ce81d276a13484d7c2ac9a567dc7908f sha1 f430e208b0fe0cb7778b220a906e928d4e1b29a9 )
+)
+
+game (
+	name "Scorpion - Preview (19xx)(AFL & Hitmen)[a]"
+	description "Scorpion - Preview (19xx)(AFL & Hitmen)[a]"
+	rom ( name "Scorpion - Preview (19xx)(AFL & Hitmen)[a].prg" size 16773 crc 5d85baa7 md5 ec6254da962b2e759a8173f136921bfc sha1 179529f32cacb56f6b13b524216d86b6a007ae99 )
+)
+
+game (
+	name "Scortia - Preview (1997)(Eagleware International)[cr ONS][t +1 ONS]"
+	description "Scortia - Preview (1997)(Eagleware International)[cr ONS][t +1 ONS]"
+	rom ( name "Scortia - Preview (1997)(Eagleware International)[cr ONS][t +1 ONS].prg" size 10288 crc a1c43938 md5 2a1fae2e594838c3bdd3aa38338bbdec sha1 0eab56f1a0940580ca6753ed0fbf06db9789d3e7 )
+)
+
+game (
+	name "Scortia - Preview (1997)(Eagleware International)[h AFL]"
+	description "Scortia - Preview (1997)(Eagleware International)[h AFL]"
+	rom ( name "Scortia - Preview (1997)(Eagleware International)[h AFL].prg" size 17714 crc 9a9a0259 md5 1702b507d31ed1879e8a0a64550511a3 sha1 75ad8388ee883a3dd0f6030ff5d3b988b47f4699 )
+)
+
+game (
+	name "Shoot - Preview (1994)(Star Design)[cr ACY]"
+	description "Shoot - Preview (1994)(Star Design)[cr ACY]"
+	rom ( name "Shoot - Preview (1994)(Star Design)[cr ACY].prg" size 11525 crc 5a0c41c6 md5 2b756338cf153a5c0080408066b1d53d sha1 d1c2630e37aa32bbdf7e6dc37ea0cbc45695e352 )
+)
+
+game (
+	name "Shoot - Preview (1994)(Star Design)[h M8]"
+	description "Shoot - Preview (1994)(Star Design)[h M8]"
+	rom ( name "Shoot - Preview (1994)(Star Design)[h M8].prg" size 35328 crc 14e31d45 md5 82b2388660037b0dab03bb179e28b28a sha1 ff78040c9f12dc344ffc554aa842fbd6f654888a )
+)
+
+game (
+	name "Silva Pod - Preview (1995)(CP Verlag)[h O+H]"
+	description "Silva Pod - Preview (1995)(CP Verlag)[h O+H]"
+	rom ( name "Silva Pod - Preview (1995)(CP Verlag)[h O+H].prg" size 18466 crc 7a21f1f5 md5 c4a7c5690062f939db08cbb8a28fac99 sha1 0232fe1c4c92fd516076f0ca24135ce344184314 )
+)
+
+game (
+	name "Simple Spelletje - Preview (19xx)(-)[h ONS]"
+	description "Simple Spelletje - Preview (19xx)(-)[h ONS]"
+	rom ( name "Simple Spelletje - Preview (19xx)(-)[h ONS].prg" size 11366 crc 5251da9a md5 8b4e5fc363a806e955112c33375b422f sha1 7c1fb1287cb7f2bd9f5c09c301e7de2758887d37 )
+)
+
+game (
+	name "Skidmarks - Preview (19xx)(-)[h Scorn]"
+	description "Skidmarks - Preview (19xx)(-)[h Scorn]"
+	rom ( name "Skidmarks - Preview (19xx)(-)[h Scorn].prg" size 15894 crc 87f24429 md5 ec7f0f7f459af08a642fb5d6862c0322 sha1 951f0d26ba7b0fb8f7cd01afccc4c45bdd591343 )
+)
+
+game (
+	name "Slammer - Preview (1994)(Maik Jost)[h Skid Row]"
+	description "Slammer - Preview (1994)(Maik Jost)[h Skid Row]"
+	rom ( name "Slammer - Preview (1994)(Maik Jost)[h Skid Row].prg" size 36769 crc 7dcfd793 md5 296f2ba753f728896bc031d85a7cdd40 sha1 f04f521cd853c26b8b61d36cdc7a5567b0af7666 )
+)
+
+game (
+	name "Slider - Preview (1988)(-)"
+	description "Slider - Preview (1988)(-)"
+	rom ( name "Slider - Preview (1988)(-).prg" size 28339 crc cd171424 md5 58fd025e37bf7b6aa00aad59c5efedd7 sha1 86adda6420a6a57720244733955c091717d1da32 )
+)
+
+game (
+	name "Snakey 96 - Preview (199x)(Onslaught)"
+	description "Snakey 96 - Preview (199x)(Onslaught)"
+	rom ( name "Snakey 96 - Preview (199x)(Onslaught).prg" size 14848 crc 9b29eb8b md5 a71885af44599f5ac9ff2dfc61e3f85f sha1 b2ccc02a8c3d8e2a44e4da6a2fe9a3e3b72930a7 )
+)
+
+game (
+	name "Sniper - Preview (1994)(CP Verlag)[h FLT]"
+	description "Sniper - Preview (1994)(CP Verlag)[h FLT]"
+	rom ( name "Sniper - Preview (1994)(CP Verlag)[h FLT].prg" size 17638 crc 37f1fc29 md5 702210d21316ca135a3e47e88779177a sha1 8fc06629733d8737aa1e1d322c2e2b099509c3e2 )
+)
+
+game (
+	name "Sniper - Preview (1994)(CP Verlag)[h M8]"
+	description "Sniper - Preview (1994)(CP Verlag)[h M8]"
+	rom ( name "Sniper - Preview (1994)(CP Verlag)[h M8].prg" size 23936 crc 2a78d766 md5 6707e7e50cead7efa6812012b1041924 sha1 65468005c8d09f617cb7e38ccd593a367d79e1b5 )
+)
+
+game (
+	name "Snoopy 2 - Preview (1998)(Big 'Uns Software)[h Triad]"
+	description "Snoopy 2 - Preview (1998)(Big 'Uns Software)[h Triad]"
+	rom ( name "Snoopy 2 - Preview (1998)(Big 'Uns Software)[h Triad].prg" size 7055 crc 4c8fa172 md5 5d72c93c940b23202da8ec5e43a7525a sha1 53ba566a610435ff4257b77e3b209cec4bcf8a5d )
+)
+
+game (
+	name "Space Ball - Preview (19xx)(Commodore Scene)[h ONS]"
+	description "Space Ball - Preview (19xx)(Commodore Scene)[h ONS]"
+	rom ( name "Space Ball - Preview (19xx)(Commodore Scene)[h ONS].prg" size 18552 crc c8bdc6f0 md5 15568d80ff1a1a43328eaec33262d9c5 sha1 9243e6a1058e33f66996183bd6619470f0264458 )
+)
+
+game (
+	name "Space Tracker - Preview (1996)(-)"
+	description "Space Tracker - Preview (1996)(-)"
+	rom ( name "Space Tracker - Preview (1996)(-).prg" size 25451 crc eacc40a3 md5 1b00455e0ea5dba1a57d935ea623f6cc sha1 76f3073621cb32bd1eca8e2b6487af705d0a3647 )
+)
+
+game (
+	name "Space Tracker - Preview (1996)(-)[h AFL]"
+	description "Space Tracker - Preview (1996)(-)[h AFL]"
+	rom ( name "Space Tracker - Preview (1996)(-)[h AFL].prg" size 29651 crc 4dee9630 md5 d7f7df87fe9d887d67d193b4b826eed5 sha1 fad13b6c3d2d3c8f26e8f9907d5ecd5f6aa93190 )
+)
+
+game (
+	name "Spectral Sneer - Preview (1987)(-)[cr HTL]"
+	description "Spectral Sneer - Preview (1987)(-)[cr HTL]"
+	rom ( name "Spectral Sneer - Preview (1987)(-)[cr HTL].prg" size 31519 crc 0f472afa md5 864184076b51b2acee3fab9a2cf0728f sha1 c17d189f2d810289231edc04290695e1d526c537 )
+)
+
+game (
+	name "Speed - Preview (1994)(-)[cr M8]"
+	description "Speed - Preview (1994)(-)[cr M8]"
+	rom ( name "Speed - Preview (1994)(-)[cr M8].prg" size 17505 crc 1827d25b md5 e2932606e72479535803a5b0aef71de3 sha1 15042afd29b94be885ae969881baa86659bb9074 )
+)
+
+game (
+	name "Spellcast - Preview (1991)(Dave Clarke)"
+	description "Spellcast - Preview (1991)(Dave Clarke)"
+	rom ( name "Spellcast - Preview (1991)(Dave Clarke).prg" size 52676 crc 0ef1d14b md5 467146f67ab8edaf18f493769a2e350a sha1 d6662e0d19ff28a6cda2593b218c06e526fd2d16 )
+)
+
+game (
+	name "Spellcast - Preview (1991)(Dave Clarke)[t +2 I+T]"
+	description "Spellcast - Preview (1991)(Dave Clarke)[t +2 I+T]"
+	rom ( name "Spellcast - Preview (1991)(Dave Clarke)[t +2 I+T].prg" size 37942 crc 8ba77801 md5 983b634b6e725bbe377d76c152606671 sha1 dd1796faae7d575a9e83a668d3f11376ee912bec )
+)
+
+game (
+	name "Spherix - Preview (19xx)(Etc Developments)[cr ONS]"
+	description "Spherix - Preview (19xx)(Etc Developments)[cr ONS]"
+	rom ( name "Spherix - Preview (19xx)(Etc Developments)[cr ONS].prg" size 23209 crc 6222e070 md5 3c7e98d18d4bc00ae0541194e5fb8bb1 sha1 e27ed096f5a407eb261d5610cda2278321f45828 )
+)
+
+game (
+	name "SPI - Preview (19xx)(-)[cr FLT]"
+	description "SPI - Preview (19xx)(-)[cr FLT]"
+	rom ( name "SPI - Preview (19xx)(-)[cr FLT].prg" size 3291 crc 380fde58 md5 14b0df22058209ff904cc3a9ee5ea036 sha1 e252d3589d5ab0a2bf0a0936bcec3fd17ba69b69 )
+)
+
+game (
+	name "Spinball - Preview (19xx)(Pure Fun Bytes)[cr ONS]"
+	description "Spinball - Preview (19xx)(Pure Fun Bytes)[cr ONS]"
+	rom ( name "Spinball - Preview (19xx)(Pure Fun Bytes)[cr ONS].prg" size 19122 crc f16e26ef md5 d8ce3b743b6d5bbb5af53a001076a25a sha1 07a15f05fcb5f39170040ffdc60a8d106d851e06 )
+)
+
+game (
+	name "Spiranza - Preview (199x)(TRC)"
+	description "Spiranza - Preview (199x)(TRC)"
+	rom ( name "Spiranza - Preview (199x)(TRC).prg" size 32888 crc 91f20f5b md5 2da8e0ce899ea2940d02b449e0fc862d sha1 47eb0cef23baadddef8751758594db9957403321 )
+)
+
+game (
+	name "Spix - Preview (199x)(Fortress)"
+	description "Spix - Preview (199x)(Fortress)"
+	rom ( name "Spix - Preview (199x)(Fortress).prg" size 12249 crc 2d9b11ea md5 4970619736af2923007e0f358a6daa39 sha1 35d2078a9c3bbfb5ebfa0af10da02c4c37cb2d06 )
+)
+
+game (
+	name "Sput - Preview (1996)(-)[cr M8]"
+	description "Sput - Preview (1996)(-)[cr M8]"
+	rom ( name "Sput - Preview (1996)(-)[cr M8].prg" size 20059 crc 0b0d6866 md5 1541b5be6a07780ff936cff267bb32d0 sha1 c3a9873ae6ab0283502341d088547dae0ef55768 )
+)
+
+game (
+	name "Spy vs Spy 3 - Arctic Antics - Preview (1986)(First Star)"
+	description "Spy vs Spy 3 - Arctic Antics - Preview (1986)(First Star)"
+	rom ( name "Spy vs Spy 3 - Arctic Antics - Preview (1986)(First Star).prg" size 43998 crc a29ca15b md5 96246766522096934d94df97d2405d27 sha1 dc5a72bb546424d48cf28147c2aa4d5cf089d29f )
+)
+
+game (
+	name "Squelc - Preview (1988)(Preben Thoro, Jan Eckeroth & Kresten Krab)[h Wizax]"
+	description "Squelc - Preview (1988)(Preben Thoro, Jan Eckeroth & Kresten Krab)[h Wizax]"
+	rom ( name "Squelc - Preview (1988)(Preben Thoro, Jan Eckeroth & Kresten Krab)[h Wizax].prg" size 21733 crc 240775c6 md5 989be8d48798a040bdd67fad192e18d8 sha1 e409c6c12b5f44454b4c128292e719060f4d9bb7 )
+)
+
+game (
+	name "Star Frontier, The - Preview (19xx)(-)"
+	description "Star Frontier, The - Preview (19xx)(-)"
+	rom ( name "Star Frontier, The - Preview (19xx)(-).prg" size 7348 crc db295895 md5 253e37a1e17219f2460d49131262c0bf sha1 168f9373ed9f73c0976b68374aaa1dda00cf2b53 )
+)
+
+game (
+	name "Star Scaper - Preview (19xx)(-)[cr ATL]"
+	description "Star Scaper - Preview (19xx)(-)[cr ATL]"
+	rom ( name "Star Scaper - Preview (19xx)(-)[cr ATL].prg" size 17627 crc 680ec2f7 md5 b0813e762a7ceca99a39eb5bc9c7238f sha1 fb5f7c98a5131c94e1e687bf7262d6fdcb15203b )
+)
+
+game (
+	name "Starburst - Preview (1994)(-)[h SCS+TRC]"
+	description "Starburst - Preview (1994)(-)[h SCS+TRC]"
+	rom ( name "Starburst - Preview (1994)(-)[h SCS+TRC].prg" size 23295 crc 6ff679f2 md5 0327ea7e6fcc934745feaf5b8d0c0aa7 sha1 df46ced889da7f3554ad23fbc6ed7cbf6d43ff60 )
+)
+
+game (
+	name "Starfighter - Preview (1996)(Parade Softwarre)[h CHR]"
+	description "Starfighter - Preview (1996)(Parade Softwarre)[h CHR]"
+	rom ( name "Starfighter - Preview (1996)(Parade Softwarre)[h CHR].prg" size 37248 crc b45ecc39 md5 94d873a7cc5d0f79d8736f41387d3387 sha1 68f0572d616819c19eca4c94928abc98a310fbca )
+)
+
+game (
+	name "Starfighter - Preview (1996)(Parade Softwarre)[h ONS]"
+	description "Starfighter - Preview (1996)(Parade Softwarre)[h ONS]"
+	rom ( name "Starfighter - Preview (1996)(Parade Softwarre)[h ONS].prg" size 33412 crc b66a142d md5 7343e9749e4a1e32b6dcb41bc0835fd3 sha1 3383f3d55abf1da3ee21f445ed0b438961c43f99 )
+)
+
+game (
+	name "Starglider II - Preview (1989)(Mirrorsoft)[h GP]"
+	description "Starglider II - Preview (1989)(Mirrorsoft)[h GP]"
+	rom ( name "Starglider II - Preview (1989)(Mirrorsoft)[h GP].prg" size 33884 crc 9133e529 md5 c1182d024683e1529ccbff84390b555a sha1 366111a3a249a69d60e16dd717a75f2c1cb6601c )
+)
+
+game (
+	name "Starswarm - Preview (1987)(Paul Baker)"
+	description "Starswarm - Preview (1987)(Paul Baker)"
+	rom ( name "Starswarm - Preview (1987)(Paul Baker).prg" size 22364 crc 0fe39e2c md5 ba48da05edca3a51d601bccf09b63f7d sha1 d93987b7da41656a92ee363c8ae338a35db2330c )
+)
+
+game (
+	name "Stoned - Preview (19xx)(-)[h XEN]"
+	description "Stoned - Preview (19xx)(-)[h XEN]"
+	rom ( name "Stoned - Preview (19xx)(-)[h XEN].prg" size 13733 crc 91334e7b md5 91f7e6572a3f237fd877d2c279fcb08a sha1 534bb3b09a3cca52d2bceec0c162b7325a5cf9b2 )
+)
+
+game (
+	name "Story of Captain Hook - Preview (19xx)(-)[cr AFL]"
+	description "Story of Captain Hook - Preview (19xx)(-)[cr AFL]"
+	rom ( name "Story of Captain Hook - Preview (19xx)(-)[cr AFL].prg" size 15735 crc f1a3e127 md5 345af5261a4d12429d10489a60d036f8 sha1 231ab78106e2d6dec6383682b40920135aa963e2 )
+)
+
+game (
+	name "Strobe - Preview (1990)(Double Density)"
+	description "Strobe - Preview (1990)(Double Density)"
+	rom ( name "Strobe - Preview (1990)(Double Density).prg" size 30951 crc f9dab625 md5 97b5c1c86763a531703765d3d53b464f sha1 d9c4095fed8a1106c27ea024e28997bac9c4b5ef )
+)
+
+game (
+	name "Sunball - Preview (199x)(DCS)"
+	description "Sunball - Preview (199x)(DCS)"
+	rom ( name "Sunball - Preview (199x)(DCS).prg" size 36459 crc 8a5ee4b1 md5 a81843c8bb90621fdaa10cca60e52ad7 sha1 0f00ab1f5c2bff32ac67c11d5f2390a9ad65a9f1 )
+)
+
+game (
+	name "Super Ball - Preview (1994)(Bad Bytes)[h AFL]"
+	description "Super Ball - Preview (1994)(Bad Bytes)[h AFL]"
+	rom ( name "Super Ball - Preview (1994)(Bad Bytes)[h AFL].prg" size 17029 crc b1572637 md5 e416c8cd24e278d10f166046a1b483b4 sha1 2d67e8c52bab3faf8611f29b6b476992c40078e6 )
+)
+
+game (
+	name "Super Ball II - Preview (1995)(-)[cr ACY]"
+	description "Super Ball II - Preview (1995)(-)[cr ACY]"
+	rom ( name "Super Ball II - Preview (1995)(-)[cr ACY].prg" size 9520 crc 89dda98c md5 320c7136718aca76b75ec457277f5049 sha1 547e650577f6ad80ade85170e02d0e066fdb37c0 )
+)
+
+game (
+	name "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW)"
+	description "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW)"
+	rom ( name "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW).prg" size 15980 crc bb297241 md5 dee7e3f0af190fd6ed16f6a0d2e3f738 sha1 bfcf11ac35a9970772bfa9d9384aa8f14f5e1820 )
+)
+
+game (
+	name "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW)[h BLZ]"
+	description "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW)[h BLZ]"
+	rom ( name "Super Galaxys - Preview (2003)(TND Games & Civitas)(FW)[h BLZ].prg" size 22094 crc 29cfa855 md5 fc489197be140fbb1923f7ca1c38afb2 sha1 c287fddd725887d9c450ad04bd905e71694fbbaa )
+)
+
+game (
+	name "Super Galaxys - Preview v1.1 (2003)(TND Games & Civitas)(FW)"
+	description "Super Galaxys - Preview v1.1 (2003)(TND Games & Civitas)(FW)"
+	rom ( name "Super Galaxys - Preview v1.1 (2003)(TND Games & Civitas)(FW).prg" size 10200 crc 2c88b5bf md5 a2686fcba0dde5bfd29bc2efadadf48a sha1 1690fad79c4a24b2ee6792a553389999761df3d4 )
+)
+
+game (
+	name "Super Pac Twins - Preview (2002)(TND Games)(FW)[h ONS]"
+	description "Super Pac Twins - Preview (2002)(TND Games)(FW)[h ONS]"
+	rom ( name "Super Pac Twins - Preview (2002)(TND Games)(FW)[h ONS].prg" size 32512 crc 08a59544 md5 0ad77448d034aa63ce3f5dde2a19ead5 sha1 35fd4ac60fab70227d47345be9dbced5340764f9 )
+)
+
+game (
+	name "Super Pac Twins - Preview (2002)(TND Games)(FW)[h TRC+SCS]"
+	description "Super Pac Twins - Preview (2002)(TND Games)(FW)[h TRC+SCS]"
+	rom ( name "Super Pac Twins - Preview (2002)(TND Games)(FW)[h TRC+SCS].prg" size 17773 crc f3dcb0ca md5 bcf86413a82550fd7e58ba6e7de79bae sha1 98f87b47e2fcb8915ca9b3cd96aadf801012d530 )
+)
+
+game (
+	name "Superbouncer - Preview (19xx)(-)[h TRC]"
+	description "Superbouncer - Preview (19xx)(-)[h TRC]"
+	rom ( name "Superbouncer - Preview (19xx)(-)[h TRC].prg" size 23619 crc cee9fa6b md5 9e7e3232491ba47b98c63fc3bef58148 sha1 8cc976e16a0940640954fb220ba75f48e8b785f7 )
+)
+
+game (
+	name "Tanis Puzzle - Preview (1995)(Pandora)"
+	description "Tanis Puzzle - Preview (1995)(Pandora)"
+	rom ( name "Tanis Puzzle - Preview (1995)(Pandora).prg" size 20992 crc 1e2a5c42 md5 8780c085c0395eeb905ac35c73923625 sha1 5695c889c890a2b373f5da3d236aca1f3494a386 )
+)
+
+game (
+	name "Technodream - Preview (1995)(Fresh)[h CHR]"
+	description "Technodream - Preview (1995)(Fresh)[h CHR]"
+	rom ( name "Technodream - Preview (1995)(Fresh)[h CHR].prg" size 22379 crc 41eab4d9 md5 22567f82df24846f2774b46ad37b7a50 sha1 5bc2724d85050dc3a21ca46cf9f89de4cea36c1e )
+)
+
+game (
+	name "Technodream - Preview (1995)(Fresh)[h ONS]"
+	description "Technodream - Preview (1995)(Fresh)[h ONS]"
+	rom ( name "Technodream - Preview (1995)(Fresh)[h ONS].prg" size 20483 crc 557e1d3f md5 e191b4ef84cec1667b79aca4f60b6415 sha1 bcf1f9d8b0a882b3f2c17dfbd6a06554d29bd122 )
+)
+
+game (
+	name "Terminus II - Preview (1997)(-)[h WOW+ROLE]"
+	description "Terminus II - Preview (1997)(-)[h WOW+ROLE]"
+	rom ( name "Terminus II - Preview (1997)(-)[h WOW+ROLE].prg" size 11365 crc 5ac16563 md5 3c62df17b12f6095b925faf878e702da sha1 456a17b0070facacbaf9bcfdaa8f03dd3e00d6f4 )
+)
+
+game (
+	name "Territory - Preview (1997)(-)[h ONS]"
+	description "Territory - Preview (1997)(-)[h ONS]"
+	rom ( name "Territory - Preview (1997)(-)[h ONS].prg" size 13965 crc 48ddfad9 md5 a801ac9d0c24f7ef402e37868c624b9c sha1 c56aeaef151ada8aceaefa961b8084c15d4e0d94 )
+)
+
+game (
+	name "Tetris - Preview (19xx)(Avantgarde)"
+	description "Tetris - Preview (19xx)(Avantgarde)"
+	rom ( name "Tetris - Preview (19xx)(Avantgarde).prg" size 22758 crc e0756ab4 md5 e6eebce3cb03a622e42acb543be2ee8b sha1 e7b6dd1b5c43bb25305cbdb519bdf12bbe1a0c18 )
+)
+
+game (
+	name "THC Bros - Preview (19xx)(-)[cr ONS]"
+	description "THC Bros - Preview (19xx)(-)[cr ONS]"
+	rom ( name "THC Bros - Preview (19xx)(-)[cr ONS].prg" size 17858 crc 66df5830 md5 de25482b6aa9ab03d14586be9ec2c45a sha1 eacaf016ac6d51773b6552bd63bf6f58ab85a06f )
+)
+
+game (
+	name "Thunderzone - Preview (1998)(Virtual Life)[h Legend]"
+	description "Thunderzone - Preview (1998)(Virtual Life)[h Legend]"
+	rom ( name "Thunderzone - Preview (1998)(Virtual Life)[h Legend].prg" size 29780 crc e87b1d5d md5 94928cb56e43ba89ba4c4b08dd817596 sha1 246a6e432a42fd7dc7baf1a9879537ca0c250feb )
+)
+
+game (
+	name "Time Crystal - Preview (1985)(Jim D. Sachs)"
+	description "Time Crystal - Preview (1985)(Jim D. Sachs)"
+	rom ( name "Time Crystal - Preview (1985)(Jim D. Sachs).prg" size 42146 crc e5381ace md5 abdc873d3e04af63ced3e255bb59fd1b sha1 d2d09b2058ab0991c9b0f19363ad51b7e10fb44d )
+)
+
+game (
+	name "Time Crystal - Preview (1985)(Jim D. Sachs)[h 1001]"
+	description "Time Crystal - Preview (1985)(Jim D. Sachs)[h 1001]"
+	rom ( name "Time Crystal - Preview (1985)(Jim D. Sachs)[h 1001].prg" size 34083 crc 46e32f60 md5 93219f83668d5912ba072476948225c5 sha1 311ee5073e75ca26d3a7e2af5d385c6bbbd1e00c )
+)
+
+game (
+	name "Tracer - Preview (1992)(Visualize)[h SCS+TRC]"
+	description "Tracer - Preview (1992)(Visualize)[h SCS+TRC]"
+	rom ( name "Tracer - Preview (1992)(Visualize)[h SCS+TRC].prg" size 21424 crc 96eb3c03 md5 f21e3b4030c19d4d4de2c2a9ed0cffbe sha1 f6bace22055f29103582032af72574ae8891a5ab )
+)
+
+game (
+	name "Trailrunner - Preview (19xx)(-)[h AFL]"
+	description "Trailrunner - Preview (19xx)(-)[h AFL]"
+	rom ( name "Trailrunner - Preview (19xx)(-)[h AFL].prg" size 13824 crc c1e7a71e md5 81c4d7e98a1c74b90630fe2c00f66e29 sha1 0f5adab6036be110c737d21fd3995bb38f0c3fea )
+)
+
+game (
+	name "Trazz - Preview (1997)(-)[cr LXT]"
+	description "Trazz - Preview (1997)(-)[cr LXT]"
+	rom ( name "Trazz - Preview (1997)(-)[cr LXT].prg" size 11573 crc de4bd25b md5 e11e11235921f1e9f6ca7e0fe32e5da4 sha1 a1ea693fd024075434ae3467c291860bfe087136 )
+)
+
+game (
+	name "Tron Bikes - Preview (1989)(LSD)[cr Triangle]"
+	description "Tron Bikes - Preview (1989)(LSD)[cr Triangle]"
+	rom ( name "Tron Bikes - Preview (1989)(LSD)[cr Triangle].prg" size 8601 crc 35a0e495 md5 0ba53cb5a1a39427ac7a3e8d0fa57782 sha1 cda850f7e48c3a019607f52218785463e41b6c7f )
+)
+
+game (
+	name "Trooze - Preview (1996)(-)[cr O+H][t +1 O+H]"
+	description "Trooze - Preview (1996)(-)[cr O+H][t +1 O+H]"
+	rom ( name "Trooze - Preview (1996)(-)[cr O+H][t +1 O+H].prg" size 24269 crc e5d052bf md5 0a99a684c2ee44c45a13770798ac4777 sha1 53fbb56b21056375980dc3713baee04c1af4284a )
+)
+
+game (
+	name "Tuc - Preview (199x)(-)[cr ONS]"
+	description "Tuc - Preview (199x)(-)[cr ONS]"
+	rom ( name "Tuc - Preview (199x)(-)[cr ONS].prg" size 15616 crc 5d544ac4 md5 739ba2ff287155bd87b93ee3b772a578 sha1 73fc9a0113a870b0f38372105669530c2a00a230 )
+)
+
+game (
+	name "Turn Change - Preview (19xx)(Jack Roberts)[h CHR][t +1 CHR]"
+	description "Turn Change - Preview (19xx)(Jack Roberts)[h CHR][t +1 CHR]"
+	rom ( name "Turn Change - Preview (19xx)(Jack Roberts)[h CHR][t +1 CHR].prg" size 32896 crc a5ffe0ff md5 0a950c56758f0504743c9dd9a65aaaa4 sha1 e09a59ac9b163ab68710a427fe90dd226eaa464a )
+)
+
+game (
+	name "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts)"
+	description "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts)"
+	rom ( name "Turrican 2 - The Final Fight - Preview (19xx)(Rainbow Arts).prg" size 42271 crc afd1f106 md5 fb360d2d74b9be8464c60cdfdb2096b1 sha1 f322b3f728d452b062282a9e37bc8abb9fd81647 )
+)
+
+game (
+	name "Turrican 3 - Preview (2000)(Smash Designs)[h Excess]"
+	description "Turrican 3 - Preview (2000)(Smash Designs)[h Excess]"
+	rom ( name "Turrican 3 - Preview (2000)(Smash Designs)[h Excess].prg" size 40500 crc a957b602 md5 6ba26a22256bb4a3267e08b76111be99 sha1 0f83e7fd7beb33ec59a5563c48985b788a45ea65 )
+)
+
+game (
+	name "Twin Balls - Preview (1995)(Paul Kubiszyn)[h AFL]"
+	description "Twin Balls - Preview (1995)(Paul Kubiszyn)[h AFL]"
+	rom ( name "Twin Balls - Preview (1995)(Paul Kubiszyn)[h AFL].prg" size 22767 crc cfe919cf md5 bf23c9799ee331a3da56ce7e3785e803 sha1 8a9804c2aa9b4dd9bb565ff1daa44e1dd7b8c678 )
+)
+
+game (
+	name "Twinball - Preview v2 (19xx)(XL.C.US Software)[h ONS]"
+	description "Twinball - Preview v2 (19xx)(XL.C.US Software)[h ONS]"
+	rom ( name "Twinball - Preview v2 (19xx)(XL.C.US Software)[h ONS].prg" size 24141 crc b92028f9 md5 cc8c3514ab34bd234574995a94212b9d sha1 849fd1a9c840967aee4258af36b4e84f5578f5b6 )
+)
+
+game (
+	name "Ufo 3 (1991)(Commodore Disk User)"
+	description "Ufo 3 (1991)(Commodore Disk User)"
+	rom ( name "Ufo 3 (1991)(Commodore Disk User).prg" size 23076 crc 3d1756ad md5 c8069e84138c27d2307a1f6265046822 sha1 aa98a01ff6e228dc5ebcf8d6070f2904a6b18a64 )
+)
+
+game (
+	name "Under the Ground - Preview (199x)(Mist Brains)[h DT+Tristar+RSI]"
+	description "Under the Ground - Preview (199x)(Mist Brains)[h DT+Tristar+RSI]"
+	rom ( name "Under the Ground - Preview (199x)(Mist Brains)[h DT+Tristar+RSI].prg" size 33974 crc 257b64cb md5 d17d79153c8e2e79126cd39e5b5edc0b sha1 553cceef810a306c26487d6347addf7bfe79bd73 )
+)
+
+game (
+	name "Under the Ground - Preview (199x)(Mist Brains)[h SCS+TRC]"
+	description "Under the Ground - Preview (199x)(Mist Brains)[h SCS+TRC]"
+	rom ( name "Under the Ground - Preview (199x)(Mist Brains)[h SCS+TRC].prg" size 32234 crc fc7a1e63 md5 cdde30a588e73f35d215726046fe860b sha1 7238ee881d1005ff19b6f27aaebaa0127029f4d1 )
+)
+
+game (
+	name "Up Up and Away (1984)(Starcade)[cr NO][t +2 NO][Docs]"
+	description "Up Up and Away (1984)(Starcade)[cr NO][t +2 NO][Docs]"
+	rom ( name "Up Up and Away (1984)(Starcade)[cr NO][t +2 NO][Docs].prg" size 16605 crc 2b42ac75 md5 f61433c1aeb6bf64fcf7103f445a703b sha1 3c8cee5e856844ec46e122d75d30d2562fa34f47 )
+)
+
+game (
+	name "Vapour - Preview (1995)(Michael Strelecki)[h SCS+TRC]"
+	description "Vapour - Preview (1995)(Michael Strelecki)[h SCS+TRC]"
+	rom ( name "Vapour - Preview (1995)(Michael Strelecki)[h SCS+TRC].prg" size 47477 crc 5b662f82 md5 31e9bd1e527b9b1091d9b0c03eba463d sha1 362e05b8d50e15d227d78fd79389674242a19848 )
+)
+
+game (
+	name "Venom Blazer - Preview (2000)(Rudi Max)[cr EXC]"
+	description "Venom Blazer - Preview (2000)(Rudi Max)[cr EXC]"
+	rom ( name "Venom Blazer - Preview (2000)(Rudi Max)[cr EXC].prg" size 27894 crc 942c51f4 md5 565f21993443fbd08272dd7fe179419b sha1 bf7258214a2d10cb894563676357a1ddf74948f2 )
+)
+
+game (
+	name "Victory! - Preview (1988)(Ian Jones & Michael Jones)[cr Ikari]"
+	description "Victory! - Preview (1988)(Ian Jones & Michael Jones)[cr Ikari]"
+	rom ( name "Victory! - Preview (1988)(Ian Jones & Michael Jones)[cr Ikari].prg" size 15203 crc ab2ddda0 md5 c03ff1bc37d97ae825cf68add79016a8 sha1 3bcbc86d627d2e4c94d171d0f26e7bbb9666aead )
+)
+
+game (
+	name "Vitrus - Preview (19xx)(-)[cr CHR]"
+	description "Vitrus - Preview (19xx)(-)[cr CHR]"
+	rom ( name "Vitrus - Preview (19xx)(-)[cr CHR].prg" size 20578 crc 3c4121b3 md5 c2030940f81a4804532802f26f1b4dc0 sha1 de782a8fb74c04e559488000f6affb08b9915bfc )
+)
+
+game (
+	name "Voice - Preview (199x)(-)"
+	description "Voice - Preview (199x)(-)"
+	rom ( name "Voice - Preview (199x)(-).prg" size 17629 crc f75df3b8 md5 1fdd409c1ebd7f85cd9d6fdac90210fe sha1 e221b765500d755cb403c67ef1b07dd7dc872ee9 )
+)
+
+game (
+	name "Wabbit Hunter - Preview (1996)(-)[cr M8]"
+	description "Wabbit Hunter - Preview (1996)(-)[cr M8]"
+	rom ( name "Wabbit Hunter - Preview (1996)(-)[cr M8].prg" size 11564 crc ca7c8a99 md5 c22de564b4dcb626ccec132f14fa0ad9 sha1 7e2f7be8bb5c93e9ff1dd42d4f4eeee57a43603c )
+)
+
+game (
+	name "Who Becomes Millionaire - Playable Preview (2001)(Andreas Kwias)[cr ROLE]"
+	description "Who Becomes Millionaire - Playable Preview (2001)(Andreas Kwias)[cr ROLE]"
+	rom ( name "Who Becomes Millionaire - Playable Preview (2001)(Andreas Kwias)[cr ROLE].prg" size 18661 crc eae025b0 md5 4c6c231d0ab04c21d606ae0265047716 sha1 d3f0811040f43e695629a5773b3b40ec573b4e45 )
+)
+
+game (
+	name "Who Carez - Preview (1994)(Art Project)[h SCS+TRC]"
+	description "Who Carez - Preview (1994)(Art Project)[h SCS+TRC]"
+	rom ( name "Who Carez - Preview (1994)(Art Project)[h SCS+TRC].prg" size 13253 crc 35d659f0 md5 4beb6db7a52ba8135e0ec72f6ebe862e sha1 1fcffa84a1709cbd692ed0bebbe8c562cd684f88 )
+)
+
+game (
+	name "Wild Blood - Playable Preview (199x)(Kadem Aslan)[cr Maniax]"
+	description "Wild Blood - Playable Preview (199x)(Kadem Aslan)[cr Maniax]"
+	rom ( name "Wild Blood - Playable Preview (199x)(Kadem Aslan)[cr Maniax].prg" size 17500 crc 7cb8db66 md5 122363c6cbd4d0dc49cd67bc0f9e994c sha1 1c3e3e839035f7dd01ffdbf1317f55f1a36b7cc5 )
+)
+
+game (
+	name "Wild Blood - Preview (19xx)(Kadem Aslan)[cr FLT]"
+	description "Wild Blood - Preview (19xx)(Kadem Aslan)[cr FLT]"
+	rom ( name "Wild Blood - Preview (19xx)(Kadem Aslan)[cr FLT].prg" size 13225 crc 22ecab45 md5 44cdd3d88426446ef19c2c4dc5253a59 sha1 98bfc03735e37c9590ae2c42e99ce13a3d0a2555 )
+)
+
+game (
+	name "Wildfire - Playable Preview (1991)(Niels Brouwser)"
+	description "Wildfire - Playable Preview (1991)(Niels Brouwser)"
+	rom ( name "Wildfire - Playable Preview (1991)(Niels Brouwser).prg" size 32640 crc a21b45b9 md5 b5145c2348384428ca140aaf943bc227 sha1 77d2ef9276c09168666dfd69e66cff2aa6dc2cfd )
+)
+
+game (
+	name "Wizland - Preview (19xx)(-)[h TRC][t +1 TRC]"
+	description "Wizland - Preview (19xx)(-)[h TRC][t +1 TRC]"
+	rom ( name "Wizland - Preview (19xx)(-)[h TRC][t +1 TRC].prg" size 19734 crc eb56a52b md5 552d52dfee490472b5dee4290a499cfa sha1 767528a600e2ef56ee668effb18ae12aa9ee7abe )
+)
+
+game (
+	name "Word Hunt - Preview (1995)(Prestige Software)[h ONS]"
+	description "Word Hunt - Preview (1995)(Prestige Software)[h ONS]"
+	rom ( name "Word Hunt - Preview (1995)(Prestige Software)[h ONS].prg" size 15397 crc cd8ed827 md5 6f18d2d74aa8620a45b201b8f8f0b29a sha1 16ab5d4e450ee9a6d373b52e164a88dda2dfbee9 )
+)
+
+game (
+	name "Words Don't Come Easy - Preview (1997)(Trash Productions)[h ONS]"
+	description "Words Don't Come Easy - Preview (1997)(Trash Productions)[h ONS]"
+	rom ( name "Words Don't Come Easy - Preview (1997)(Trash Productions)[h ONS].prg" size 15561 crc 2098bb2e md5 93b8f2026505dbc4d2dda53580af2ea0 sha1 7aeb08a3289cf1a1b0a3cfd3fab6a266d786e942 )
+)
+
+game (
+	name "Worms - Preview (1997)(Ares-Quantum)[cr Active]"
+	description "Worms - Preview (1997)(Ares-Quantum)[cr Active]"
+	rom ( name "Worms - Preview (1997)(Ares-Quantum)[cr Active].prg" size 9525 crc 61ddb33b md5 5666df95fc5ef8af8ec9bc7f65af16db sha1 f5a05e9e01d3f24903f2359b67254382fd8990ac )
+)
+
+game (
+	name "Worms - Preview (1997)(Ares-Quantum)[cr Active][a]"
+	description "Worms - Preview (1997)(Ares-Quantum)[cr Active][a]"
+	rom ( name "Worms - Preview (1997)(Ares-Quantum)[cr Active][a].prg" size 26684 crc 45349d14 md5 23cdcd4061679dedee1ed6ef239cb0c7 sha1 9cce1dbaad174567321f544940cc0c99200a6e86 )
+)
+
+game (
+	name "Xamitlu - Playable Preview (1988)(Johan H. Stoetle)"
+	description "Xamitlu - Playable Preview (1988)(Johan H. Stoetle)"
+	rom ( name "Xamitlu - Playable Preview (1988)(Johan H. Stoetle).prg" size 27527 crc 0a88cea9 md5 211ebd28b22323e10b0b216b0387d898 sha1 b6e2fbfe996a4eec4725d990d4661a5d9291c350 )
+)
+
+game (
+	name "Xermaid - Preview (1999)(Cream Software)"
+	description "Xermaid - Preview (1999)(Cream Software)"
+	rom ( name "Xermaid - Preview (1999)(Cream Software).prg" size 19840 crc 4fa48d2f md5 15e54ed339cde0ea6bf82092f765c8ed sha1 dafe1b0d2aa0b85efba581600516f4e33bca85e9 )
+)
+
+game (
+	name "Xiphoid - Preview (1988)(-)[cr FS]"
+	description "Xiphoid - Preview (1988)(-)[cr FS]"
+	rom ( name "Xiphoid - Preview (1988)(-)[cr FS].prg" size 32054 crc 7c0727bd md5 18feb1286cd939ca8392f7d0ce6a49c5 sha1 6cb79b7de0cd150776c3e20b5f0cfad34cdb44ad )
+)
+
+game (
+	name "Yaba - Preview (1996)(Eagleware International)[h CHR]"
+	description "Yaba - Preview (1996)(Eagleware International)[h CHR]"
+	rom ( name "Yaba - Preview (1996)(Eagleware International)[h CHR].prg" size 13652 crc 21350269 md5 41b24516cf041be2ed45e8322472f2ed sha1 1e68373a2a47df1e93a1b1817a0570c03b330e97 )
+)
+
+game (
+	name "Zaxon (1993)(Chimera Designs)[h CHR]"
+	description "Zaxon (1993)(Chimera Designs)[h CHR]"
+	rom ( name "Zaxon (1993)(Chimera Designs)[h CHR].prg" size 14140 crc 5a2777b9 md5 763ad78ed35a5f3b38d0583c5015a853 sha1 6013e4440331a842f45d6364ea5dcc3609a38913 )
+)
+
+game (
+	name "Zero-X - Preview (1993)(-)[cr GLS]"
+	description "Zero-X - Preview (1993)(-)[cr GLS]"
+	rom ( name "Zero-X - Preview (1993)(-)[cr GLS].prg" size 13496 crc f0332a34 md5 2eabe0c017bd17d116749c3b149c25e5 sha1 cbece2c119d34821fa2f7c970ca4a46a616f8387 )
+)
+
+game (
+	name "Zeus - Playable Preview (1991)(Future Art)"
+	description "Zeus - Playable Preview (1991)(Future Art)"
+	rom ( name "Zeus - Playable Preview (1991)(Future Art).prg" size 27776 crc 93436299 md5 7201273717fb455356c324be1754eb1e sha1 83d7493243a65df49d98105ec53a020fdf59e2ec )
+)
+
+game (
+	name "Zombi - Preview (19xx)(UBI-Soft)[h S451]"
+	description "Zombi - Preview (19xx)(UBI-Soft)[h S451]"
+	rom ( name "Zombi - Preview (19xx)(UBI-Soft)[h S451].prg" size 38470 crc a759b2a4 md5 83202f901a891f5489d9ef56c930b5fe sha1 b17d64cc69fd49c44cd7c9e548b8349b7563c7c0 )
+)
+
+game (
+	name "Zwei Bereten - Preview (1997)(-)[h M8]"
+	description "Zwei Bereten - Preview (1997)(-)[h M8]"
+	rom ( name "Zwei Bereten - Preview (1997)(-)[h M8].prg" size 47966 crc 462cc2b8 md5 eccf679f84cc7b8d0f36e3fd7d2303cf sha1 ec9cc01ac344b8bd3ded0d8dc282f5f66f70f036 )
+)
+
+game (
+	name "Zynaps - Preview (1987)(John Cumming)[cr The Magic Circle]"
+	description "Zynaps - Preview (1987)(John Cumming)[cr The Magic Circle]"
+	rom ( name "Zynaps - Preview (1987)(John Cumming)[cr The Magic Circle].prg" size 29613 crc f434a770 md5 0abcf5f908600971400acc5742b0a24e sha1 9faaa5b753f2b877e900a09dfbb585bd58aa1652 )
+)
+

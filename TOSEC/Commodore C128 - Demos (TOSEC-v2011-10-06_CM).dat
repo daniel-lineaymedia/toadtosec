@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Commodore C128 - Demos"
+	description "Commodore C128 - Demos (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Demos"
+	version 2011-10-06
+	author "DesertWolf"
+)
+
+game (
+	name "Risen from Oblivion (2001)(Crest)(Side A)"
+	description "Risen from Oblivion (2001)(Crest)(Side A)"
+	rom ( name "Risen from Oblivion (2001)(Crest)(Side A).d64" size 174848 crc b806c5b2 md5 3ca13b3245e53d0c6915bbea7116d032 sha1 61e597904fb9cb456f4f8660b9957fbaab51b91a )
+)
+
+game (
+	name "Risen from Oblivion (2001)(Crest)(Side B)"
+	description "Risen from Oblivion (2001)(Crest)(Side B)"
+	rom ( name "Risen from Oblivion (2001)(Crest)(Side B).d64" size 174848 crc ec66a17d md5 23b0049c90e9f6d2c1de1442e9871b41 sha1 09ab66ff47fa1fa61decb1239d37c3ad80cfe9e4 )
+)
+

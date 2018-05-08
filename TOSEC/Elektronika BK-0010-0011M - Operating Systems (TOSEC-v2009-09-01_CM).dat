@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Elektronika BK-0010-0011M - Operating Systems"
+	description "Elektronika BK-0010-0011M - Operating Systems (TOSEC-v2009-09-01)"
+	category "Elektronika BK-0010-0011M - Operating Systems"
+	version 2009-09-01
+	author "Grendel - Cid - Xtale"
+)
+
+game (
+	name "AO-DOS v2.10+ (19xx)(-)"
+	description "AO-DOS v2.10+ (19xx)(-)"
+	rom ( name "AO-DOS v2.10+ (19xx)(-).img" size 819200 crc 118637ea md5 003e05fe158487c666772913acc726fd )
+)
+
+game (
+	name "Andos v3.30 (19xx)(-)"
+	description "Andos v3.30 (19xx)(-)"
+	rom ( name "Andos v3.30 (19xx)(-).img" size 819200 crc 7fb497a6 md5 3c1da49048ece0dea01d8977e3fd0659 )
+)
+
+game (
+	name "CSIDOS v3.2 (1995)(Carline Software Inc.)"
+	description "CSIDOS v3.2 (1995)(Carline Software Inc.)"
+	rom ( name "CSIDOS v3.2 (1995)(Carline Software Inc.).img" size 819200 crc 90e60186 md5 79b91c7aaba04f4b93c0802f85f80b5b )
+)
+
+game (
+	name "CSIDOS v3.2 (1995)(Carline Software Inc.)[a]"
+	description "CSIDOS v3.2 (1995)(Carline Software Inc.)[a]"
+	rom ( name "CSIDOS v3.2 (1995)(Carline Software Inc.)[a].img" size 819200 crc 8850b9be md5 3320b408e8787ebd2809f09c3cf7ef38 )
+)
+
+game (
+	name "CSIDOS v3.30 (1994)(Caroline Software Inc.)"
+	description "CSIDOS v3.30 (1994)(Caroline Software Inc.)"
+	rom ( name "CSIDOS v3.30 (1994)(Caroline Software Inc.).img" size 819200 crc b4a3c5b5 md5 facd2ba3063b3111f4d4074040fbf7d0 )
+)
+
+game (
+	name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a]"
+	description "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a]"
+	rom ( name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a].img" size 819200 crc a5b3c925 md5 c63a28d2af7c149115d91e9235495a3d )
+)
+
+game (
+	name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2]"
+	description "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2]"
+	rom ( name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2].img" size 819200 crc ce494552 md5 d0be3c1fd6374eeb60466cc35f69afa4 )
+)
+
+game (
+	name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3]"
+	description "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3]"
+	rom ( name "CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3].img" size 819200 crc 518e5658 md5 a5f8bfde21a121b7a4dd7d95e02ea804 )
+)
+
+game (
+	name "MKDos v3.15 (1995)(Michael Korolev)"
+	description "MKDos v3.15 (1995)(Michael Korolev)"
+	rom ( name "MKDos v3.15 (1995)(Michael Korolev).bkd" size 719872 crc 3a871fa2 md5 bf75294ef463d880b189ba391c58b382 )
+)
+
+game (
+	name "OS-B11 v4.1 (19xx)(Alex Savelev)"
+	description "OS-B11 v4.1 (19xx)(Alex Savelev)"
+	rom ( name "OS-B11 v4.1 (19xx)(Alex Savelev).img" size 819200 crc ad8ddab2 md5 1f1bacd2c7a3a956501cb0b771049e3d )
+)

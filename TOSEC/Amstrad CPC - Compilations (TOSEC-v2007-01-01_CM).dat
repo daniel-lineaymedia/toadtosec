@@ -1,0 +1,2228 @@
+clrmamepro (
+	name "Amstrad CPC - Compilations"
+	description "Amstrad CPC - Compilations (TOSEC-v2007-01-01)"
+	category "Amstrad CPC - Compilations"
+	version 2007-01-01
+	author "jugaor - wattie"
+)
+
+game (
+	name "4 Spiele 1 Diskette (1985)(Ariolasoft UK - Rainbow Arts)(de)"
+	description "4 Spiele 1 Diskette (1985)(Ariolasoft UK - Rainbow Arts)(de)"
+	rom ( name "4 Spiele 1 Diskette (1985)(Ariolasoft UK - Rainbow Arts)(de).dsk" size 199680 crc 68e48c54 md5 457c3459f818bdfee05976a801060da9 )
+)
+
+game (
+	name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 1 of 2)"
+	description "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 1 of 2)"
+	rom ( name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 1 of 2).dsk" size 204544 crc efa5bf03 md5 70dac004a7773b64bb052dd8e0cbdae4 )
+)
+
+game (
+	name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2)"
+	description "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2)"
+	rom ( name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2).dsk" size 194816 crc bcf8151a md5 976c05c70ef749532a69988751df1b55 )
+)
+
+game (
+	name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2)[a]"
+	description "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2)[a]"
+	rom ( name "6-Pak Vol 2 (1987)(Hit-Pak)(Disk 2 of 2)[a].dsk" size 194816 crc 8c091773 md5 c18148887f62d51481f35e5eeed3900f )
+)
+
+game (
+	name "6128 Games Selection (1986)(Amstrad)(Disk 1 of 4)"
+	description "6128 Games Selection (1986)(Amstrad)(Disk 1 of 4)"
+	rom ( name "6128 Games Selection (1986)(Amstrad)(Disk 1 of 4).dsk" size 194816 crc 3b464289 md5 94501e045355d5a1d93a20a91605b52f )
+)
+
+game (
+	name "6128 Games Selection (1986)(Amstrad)(Disk 2 of 4)"
+	description "6128 Games Selection (1986)(Amstrad)(Disk 2 of 4)"
+	rom ( name "6128 Games Selection (1986)(Amstrad)(Disk 2 of 4).dsk" size 194816 crc 59969dde md5 4a4ea4ae4795e31ed21d974b505dfd02 )
+)
+
+game (
+	name "6128 Games Selection (1986)(Amstrad)(Disk 3 of 4)"
+	description "6128 Games Selection (1986)(Amstrad)(Disk 3 of 4)"
+	rom ( name "6128 Games Selection (1986)(Amstrad)(Disk 3 of 4).dsk" size 194816 crc ae347646 md5 9ad986b15a8c797302ec4ffcc1b58c0d )
+)
+
+game (
+	name "6128 Games Selection (1986)(Amstrad)(Disk 4 of 4)"
+	description "6128 Games Selection (1986)(Amstrad)(Disk 4 of 4)"
+	rom ( name "6128 Games Selection (1986)(Amstrad)(Disk 4 of 4).dsk" size 194816 crc c1f0d27d md5 966e939f2355be337266c396acae5ba2 )
+)
+
+game (
+	name "A Toda Maquina (1989)(Erbe Software)(es)(Disk 1 of 2)"
+	description "A Toda Maquina (1989)(Erbe Software)(es)(Disk 1 of 2)"
+	rom ( name "A Toda Maquina (1989)(Erbe Software)(es)(Disk 1 of 2).dsk" size 267520 crc 55be8153 md5 7f80eb2de2ef59e2622cdac43a14cad3 )
+)
+
+game (
+	name "A Toda Maquina (1989)(Erbe Software)(es)(Disk 2 of 2)"
+	description "A Toda Maquina (1989)(Erbe Software)(es)(Disk 2 of 2)"
+	rom ( name "A Toda Maquina (1989)(Erbe Software)(es)(Disk 2 of 2).dsk" size 267520 crc d04f61c8 md5 b287605df48937d45ae21cc471b48656 )
+)
+
+game (
+	name "Amstrad Action Covertape 69 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 69 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 69 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc c5e77532 md5 bc3cbd4b56c7145e5438c0e84f5fa47a )
+)
+
+game (
+	name "Amstrad Action Covertape 70 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 70 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 70 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc 030a7805 md5 45e787f33eae6af569d10b3fc0ca695b )
+)
+
+game (
+	name "Amstrad Action Covertape 71 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 71 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 71 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc c3c3d608 md5 4da2c7533a78aaad5aa66450397abdd7 )
+)
+
+game (
+	name "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	description "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	rom ( name "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 1 of 2).dsk" size 194816 crc f612cba9 md5 08a4c7cd53d098346836dcb345942210 )
+)
+
+game (
+	name "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 2 of 2)"
+	description "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 2 of 2)"
+	rom ( name "Amstrad Action Covertape 72 (19xx)(Amstrad Action Magazine)(Disk 2 of 2).dsk" size 194816 crc a96dcca9 md5 a8d939f8801c022745f3aac9b5e57316 )
+)
+
+game (
+	name "Amstrad Action Covertape 73 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 73 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 73 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc 254f4d5f md5 4acc7bd1cb7ba1b1b5a9002bcd66c44c )
+)
+
+game (
+	name "Amstrad Action Covertape 74 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 74 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 74 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc e44b338d md5 1488eee2eacb64558478cfa1ad8a320f )
+)
+
+game (
+	name "Amstrad Action Covertape 78 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 78 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 78 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc cfde2843 md5 7caa550dc1d9846156c4dc73adb5a031 )
+)
+
+game (
+	name "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	description "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	rom ( name "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 1 of 2).dsk" size 194816 crc dc61ede9 md5 5908ceeb25ca2bee34e1c76fadd14bb9 )
+)
+
+game (
+	name "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 2 of 2)"
+	description "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 2 of 2)"
+	rom ( name "Amstrad Action Covertape 80 (19xx)(Amstrad Action Magazine)(Disk 2 of 2).dsk" size 194816 crc e920490a md5 6113340114e7afe85d675a481052a337 )
+)
+
+game (
+	name "Amstrad Action Covertape 82 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	description "Amstrad Action Covertape 82 (19xx)(Amstrad Action Magazine)(Disk 1 of 2)"
+	rom ( name "Amstrad Action Covertape 82 (19xx)(Amstrad Action Magazine)(Disk 1 of 2).dsk" size 194816 crc cf9c4d8e md5 63d5484f1e4d9e660594fa34e1884de7 )
+)
+
+game (
+	name "Amstrad Action Covertape 92 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 92 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 92 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc 7f32bb63 md5 8d76fb81312770960c87f3113ab5f885 )
+)
+
+game (
+	name "Amstrad Action Covertape 93 (19xx)(Amstrad Action Magazine)"
+	description "Amstrad Action Covertape 93 (19xx)(Amstrad Action Magazine)"
+	rom ( name "Amstrad Action Covertape 93 (19xx)(Amstrad Action Magazine).dsk" size 194816 crc 7f2e59b1 md5 0bdca425bc1705a4c00df3d1fe5a1229 )
+)
+
+game (
+	name "Amstrad Gold Hits 3 (19xx)(-)"
+	description "Amstrad Gold Hits 3 (19xx)(-)"
+	rom ( name "Amstrad Gold Hits 3 (19xx)(-).dsk" size 194816 crc 8d71be9e md5 092430e0d71f589425f2a2bb62a88996 )
+)
+
+game (
+	name "Battants 2, Les (1991)(Ubi Soft)(Disk 1 of 4)"
+	description "Battants 2, Les (1991)(Ubi Soft)(Disk 1 of 4)"
+	rom ( name "Battants 2, Les (1991)(Ubi Soft)(Disk 1 of 4).dsk" size 194816 crc d97c3387 md5 83f6a28e76d91792c483461a93bb07b5 )
+)
+
+game (
+	name "Battants 2, Les (1991)(Ubi Soft)(Disk 2 of 4)"
+	description "Battants 2, Les (1991)(Ubi Soft)(Disk 2 of 4)"
+	rom ( name "Battants 2, Les (1991)(Ubi Soft)(Disk 2 of 4).dsk" size 194816 crc fa505cbd md5 85a254283556b5013ace2c42279be43a )
+)
+
+game (
+	name "Battants 2, Les (1991)(Ubi Soft)(Disk 3 of 4)"
+	description "Battants 2, Les (1991)(Ubi Soft)(Disk 3 of 4)"
+	rom ( name "Battants 2, Les (1991)(Ubi Soft)(Disk 3 of 4).dsk" size 220160 crc 6d06c53c md5 b277b35692029dce1d3d3a4565ef7a74 )
+)
+
+game (
+	name "Battants 2, Les (1991)(Ubi Soft)(Disk 4 of 4)"
+	description "Battants 2, Les (1991)(Ubi Soft)(Disk 4 of 4)"
+	rom ( name "Battants 2, Les (1991)(Ubi Soft)(Disk 4 of 4).dsk" size 212224 crc 8e45a1cc md5 722d41047bc78c999034684775ec2187 )
+)
+
+game (
+	name "Big Disk 1 (19xx)(-)"
+	description "Big Disk 1 (19xx)(-)"
+	rom ( name "Big Disk 1 (19xx)(-).dsk" size 860416 crc 6494d4ef md5 b3d0f24931a4280f5d4abe5e5bbd36a6 )
+)
+
+game (
+	name "Big Disk 2 (19xx)(-)"
+	description "Big Disk 2 (19xx)(-)"
+	rom ( name "Big Disk 2 (19xx)(-).dsk" size 860416 crc a154c398 md5 22412c95cc3ed90f8da0154a4528c898 )
+)
+
+game (
+	name "Big Disk 3 (19xx)(-)"
+	description "Big Disk 3 (19xx)(-)"
+	rom ( name "Big Disk 3 (19xx)(-).dsk" size 860416 crc d15e77ca md5 32f616a39c3e51260468d0ab11c7e5d2 )
+)
+
+game (
+	name "Big Disk 4 (19xx)(-)"
+	description "Big Disk 4 (19xx)(-)"
+	rom ( name "Big Disk 4 (19xx)(-).dsk" size 860416 crc 64f80777 md5 a1204610a29ea38cbbba610753027405 )
+)
+
+game (
+	name "Big Disk 5 (19xx)(-)"
+	description "Big Disk 5 (19xx)(-)"
+	rom ( name "Big Disk 5 (19xx)(-).dsk" size 860416 crc 84f95499 md5 aa65848ebb9315e5f6686f2d74d7f82b )
+)
+
+game (
+	name "Big Disk 6 (19xx)(-)"
+	description "Big Disk 6 (19xx)(-)"
+	rom ( name "Big Disk 6 (19xx)(-).dsk" size 860416 crc 2df3202f md5 326a0470189147eca9ebae8adffce0bf )
+)
+
+game (
+	name "Compil'Action (19xx)(Coktel Vision)(fr)(Side A)"
+	description "Compil'Action (19xx)(Coktel Vision)(fr)(Side A)"
+	rom ( name "Compil'Action (19xx)(Coktel Vision)(fr)(Side A).dsk" size 195584 crc afdc602b md5 5a926c8bbe10987ee1092b4d28073fb0 )
+)
+
+game (
+	name "Compil'Action (19xx)(Coktel Vision)(fr)(Side B)"
+	description "Compil'Action (19xx)(Coktel Vision)(fr)(Side B)"
+	rom ( name "Compil'Action (19xx)(Coktel Vision)(fr)(Side B).dsk" size 195584 crc b1a7a28a md5 9cb56dbf87ed9ed30c1c0af20faea312 )
+)
+
+game (
+	name "Compilation Disk 001 (19xx)(-)"
+	description "Compilation Disk 001 (19xx)(-)"
+	rom ( name "Compilation Disk 001 (19xx)(-).dsk" size 204544 crc fe5cd4b6 md5 bd0c7b6b71e0bc6620ca12ef7ffaafc7 )
+)
+
+game (
+	name "Compilation Disk 002 (19xx)(-)"
+	description "Compilation Disk 002 (19xx)(-)"
+	rom ( name "Compilation Disk 002 (19xx)(-).dsk" size 204544 crc 28162d74 md5 74dac72b096632cc5d97922781f71a27 )
+)
+
+game (
+	name "Compilation Disk 003 (19xx)(-)"
+	description "Compilation Disk 003 (19xx)(-)"
+	rom ( name "Compilation Disk 003 (19xx)(-).dsk" size 204544 crc 9636468c md5 11dfc07143aeb04c98437f940804f7d9 )
+)
+
+game (
+	name "Compilation Disk 004 (19xx)(-)"
+	description "Compilation Disk 004 (19xx)(-)"
+	rom ( name "Compilation Disk 004 (19xx)(-).dsk" size 204544 crc 98129000 md5 9ff87659776ebba054efe2c7ecc9ba31 )
+)
+
+game (
+	name "Compilation Disk 005 (19xx)(-)"
+	description "Compilation Disk 005 (19xx)(-)"
+	rom ( name "Compilation Disk 005 (19xx)(-).dsk" size 204544 crc c023778c md5 bd4f8db62704f5b4a89f6869c6ead8e9 )
+)
+
+game (
+	name "Compilation Disk 006 (19xx)(-)"
+	description "Compilation Disk 006 (19xx)(-)"
+	rom ( name "Compilation Disk 006 (19xx)(-).dsk" size 204544 crc 5c7f20fc md5 8dae448bd7dfd35229fb631ab107657e )
+)
+
+game (
+	name "Compilation Disk 007 (19xx)(-)"
+	description "Compilation Disk 007 (19xx)(-)"
+	rom ( name "Compilation Disk 007 (19xx)(-).dsk" size 194816 crc 9bfb4dc5 md5 53952e701d7f1b0c3799576bfdd25ee3 )
+)
+
+game (
+	name "Compilation Disk 008 (19xx)(-)"
+	description "Compilation Disk 008 (19xx)(-)"
+	rom ( name "Compilation Disk 008 (19xx)(-).dsk" size 204544 crc 848df5bf md5 3bc727ef94c40394e7ca686d3c407d37 )
+)
+
+game (
+	name "Compilation Disk 009 (19xx)(-)"
+	description "Compilation Disk 009 (19xx)(-)"
+	rom ( name "Compilation Disk 009 (19xx)(-).dsk" size 204544 crc 5bcf8cdd md5 ad47cb5cebeeeb48b9cfc25b47811ba7 )
+)
+
+game (
+	name "Compilation Disk 010 (19xx)(-)"
+	description "Compilation Disk 010 (19xx)(-)"
+	rom ( name "Compilation Disk 010 (19xx)(-).dsk" size 204544 crc b7932c2b md5 0b003ec0cbb61addc6b3ff94c0928281 )
+)
+
+game (
+	name "Compilation Disk 011 (19xx)(-)"
+	description "Compilation Disk 011 (19xx)(-)"
+	rom ( name "Compilation Disk 011 (19xx)(-).dsk" size 204544 crc 505a948c md5 bbc311d5e3ebe39277bc265b3b22f4ef )
+)
+
+game (
+	name "Compilation Disk 012 (19xx)(-)"
+	description "Compilation Disk 012 (19xx)(-)"
+	rom ( name "Compilation Disk 012 (19xx)(-).dsk" size 204544 crc a7c1d2ae md5 a8121cd8b717cafa4357acf18cda6455 )
+)
+
+game (
+	name "Compilation Disk 013 (19xx)(-)"
+	description "Compilation Disk 013 (19xx)(-)"
+	rom ( name "Compilation Disk 013 (19xx)(-).dsk" size 204544 crc b49fcf28 md5 1f440db889726c49bb8f39451d06560d )
+)
+
+game (
+	name "Compilation Disk 014 (19xx)(-)"
+	description "Compilation Disk 014 (19xx)(-)"
+	rom ( name "Compilation Disk 014 (19xx)(-).dsk" size 204544 crc 4469dd38 md5 91fb0597f3a0e0570e1eedde0cf5e717 )
+)
+
+game (
+	name "Compilation Disk 015 (19xx)(-)"
+	description "Compilation Disk 015 (19xx)(-)"
+	rom ( name "Compilation Disk 015 (19xx)(-).dsk" size 204544 crc 8fe35691 md5 e01d635b7e5cd9b99697e37c015d8613 )
+)
+
+game (
+	name "Compilation Disk 016 (19xx)(-)"
+	description "Compilation Disk 016 (19xx)(-)"
+	rom ( name "Compilation Disk 016 (19xx)(-).dsk" size 204544 crc 98e9763a md5 5a733002968942dc8e92311b1717a8f0 )
+)
+
+game (
+	name "Compilation Disk 017 (19xx)(-)"
+	description "Compilation Disk 017 (19xx)(-)"
+	rom ( name "Compilation Disk 017 (19xx)(-).dsk" size 204544 crc 245c3e00 md5 af7700dd1aceec33272bfb94f5702e15 )
+)
+
+game (
+	name "Compilation Disk 018 (19xx)(-)"
+	description "Compilation Disk 018 (19xx)(-)"
+	rom ( name "Compilation Disk 018 (19xx)(-).dsk" size 194816 crc a5eeef67 md5 105feafeda84e72d5d8bea31d9b99b54 )
+)
+
+game (
+	name "Compilation Disk 019 (19xx)(-)"
+	description "Compilation Disk 019 (19xx)(-)"
+	rom ( name "Compilation Disk 019 (19xx)(-).dsk" size 204544 crc f2c2780e md5 f9fb2886579f65bab708fdae26fc2ba9 )
+)
+
+game (
+	name "Compilation Disk 020 (19xx)(-)"
+	description "Compilation Disk 020 (19xx)(-)"
+	rom ( name "Compilation Disk 020 (19xx)(-).dsk" size 204544 crc d1e14fc6 md5 dee8dbc44ac5c9c61e7ad31ad65b2915 )
+)
+
+game (
+	name "Compilation Disk 021 (19xx)(-)"
+	description "Compilation Disk 021 (19xx)(-)"
+	rom ( name "Compilation Disk 021 (19xx)(-).dsk" size 194816 crc 51deed2d md5 89e7cbf2a18a685c42bf267049487e71 )
+)
+
+game (
+	name "Compilation Disk 022 (19xx)(-)"
+	description "Compilation Disk 022 (19xx)(-)"
+	rom ( name "Compilation Disk 022 (19xx)(-).dsk" size 194816 crc ad961260 md5 db96e9f61a37b16c031e5c460cb5f5fd )
+)
+
+game (
+	name "Compilation Disk 023 (19xx)(-)"
+	description "Compilation Disk 023 (19xx)(-)"
+	rom ( name "Compilation Disk 023 (19xx)(-).dsk" size 194816 crc 83ef7044 md5 e249e722f13aa317d7d3d83cd95298e8 )
+)
+
+game (
+	name "Compilation Disk 024 (19xx)(-)"
+	description "Compilation Disk 024 (19xx)(-)"
+	rom ( name "Compilation Disk 024 (19xx)(-).dsk" size 204544 crc ca09b83c md5 2aec0475c741981b22201c8643148ca8 )
+)
+
+game (
+	name "Compilation Disk 025 (19xx)(-)"
+	description "Compilation Disk 025 (19xx)(-)"
+	rom ( name "Compilation Disk 025 (19xx)(-).dsk" size 204544 crc 747e8000 md5 13e4455493896f1a3bc353fe41f1f001 )
+)
+
+game (
+	name "Compilation Disk 026 (19xx)(-)"
+	description "Compilation Disk 026 (19xx)(-)"
+	rom ( name "Compilation Disk 026 (19xx)(-).dsk" size 204544 crc 6ee1ba82 md5 01018cac5cb7ef8d34f4f5f0207ba162 )
+)
+
+game (
+	name "Compilation Disk 027 (19xx)(-)"
+	description "Compilation Disk 027 (19xx)(-)"
+	rom ( name "Compilation Disk 027 (19xx)(-).dsk" size 204544 crc 5eaa6d8a md5 1f40ffb8469bec5c5da8cc25b23c5807 )
+)
+
+game (
+	name "Compilation Disk 028 (19xx)(-)"
+	description "Compilation Disk 028 (19xx)(-)"
+	rom ( name "Compilation Disk 028 (19xx)(-).dsk" size 194816 crc e65e544c md5 58f90d62de02e56ca8201eab94feffbb )
+)
+
+game (
+	name "Compilation Disk 029 (19xx)(-)"
+	description "Compilation Disk 029 (19xx)(-)"
+	rom ( name "Compilation Disk 029 (19xx)(-).dsk" size 194816 crc 97bb909e md5 653c8ff9f6cef27b4d338321e9623e52 )
+)
+
+game (
+	name "Compilation Disk 030 (19xx)(-)"
+	description "Compilation Disk 030 (19xx)(-)"
+	rom ( name "Compilation Disk 030 (19xx)(-).dsk" size 204544 crc 8106ee42 md5 017046ec4be94e757d83253fd334129f )
+)
+
+game (
+	name "Compilation Disk 031 (19xx)(-)"
+	description "Compilation Disk 031 (19xx)(-)"
+	rom ( name "Compilation Disk 031 (19xx)(-).dsk" size 204544 crc cc8c60a8 md5 4686f9d1b3604e1b0c9503eb39dca985 )
+)
+
+game (
+	name "Compilation Disk 032 (19xx)(-)"
+	description "Compilation Disk 032 (19xx)(-)"
+	rom ( name "Compilation Disk 032 (19xx)(-).dsk" size 204544 crc 1a1349c3 md5 72a1a1aa22f77d7909bad7a7ec852aec )
+)
+
+game (
+	name "Compilation Disk 033 (19xx)(-)"
+	description "Compilation Disk 033 (19xx)(-)"
+	rom ( name "Compilation Disk 033 (19xx)(-).dsk" size 194816 crc ad5d7782 md5 3e30d9ec3bb654266486d03ba97433c6 )
+)
+
+game (
+	name "Compilation Disk 034 (19xx)(-)"
+	description "Compilation Disk 034 (19xx)(-)"
+	rom ( name "Compilation Disk 034 (19xx)(-).dsk" size 204544 crc 4cbe8541 md5 725a503335252db4a0ceea4c60bdf4f9 )
+)
+
+game (
+	name "Compilation Disk 035 (19xx)(-)"
+	description "Compilation Disk 035 (19xx)(-)"
+	rom ( name "Compilation Disk 035 (19xx)(-).dsk" size 204544 crc e940dd52 md5 655f684838a40ac066b37d0ed002646a )
+)
+
+game (
+	name "Compilation Disk 036 (19xx)(-)"
+	description "Compilation Disk 036 (19xx)(-)"
+	rom ( name "Compilation Disk 036 (19xx)(-).dsk" size 204544 crc f438acfc md5 2ec6a7266d19579a7625fd5451632dc3 )
+)
+
+game (
+	name "Compilation Disk 037 (19xx)(-)"
+	description "Compilation Disk 037 (19xx)(-)"
+	rom ( name "Compilation Disk 037 (19xx)(-).dsk" size 204544 crc 0b97b93d md5 6236e140f3ed6bffd67667da93b0d8e1 )
+)
+
+game (
+	name "Compilation Disk 038 (19xx)(-)"
+	description "Compilation Disk 038 (19xx)(-)"
+	rom ( name "Compilation Disk 038 (19xx)(-).dsk" size 194816 crc 385c8a78 md5 2bc30bcb4d8ae438e1f8f45ba86d07f0 )
+)
+
+game (
+	name "Compilation Disk 039 (19xx)(-)"
+	description "Compilation Disk 039 (19xx)(-)"
+	rom ( name "Compilation Disk 039 (19xx)(-).dsk" size 204544 crc f2ca1d0f md5 2f1b319ee0bced5187585e3660abe65e )
+)
+
+game (
+	name "Compilation Disk 040 (19xx)(-)"
+	description "Compilation Disk 040 (19xx)(-)"
+	rom ( name "Compilation Disk 040 (19xx)(-).dsk" size 204544 crc e3bd54a0 md5 8a5fc69c50f7c42449cb247a2c84690d )
+)
+
+game (
+	name "Compilation Disk 041 (19xx)(-)"
+	description "Compilation Disk 041 (19xx)(-)"
+	rom ( name "Compilation Disk 041 (19xx)(-).dsk" size 194816 crc 3fc8712d md5 13d9965cc8301b0cfae3af24fd328c6f )
+)
+
+game (
+	name "Compilation Disk 042 (19xx)(-)"
+	description "Compilation Disk 042 (19xx)(-)"
+	rom ( name "Compilation Disk 042 (19xx)(-).dsk" size 204544 crc 9dfa5cdc md5 f62eebf1852a71b749ff8fa89c1d53a3 )
+)
+
+game (
+	name "Compilation Disk 043 (19xx)(-)"
+	description "Compilation Disk 043 (19xx)(-)"
+	rom ( name "Compilation Disk 043 (19xx)(-).dsk" size 204544 crc 77c720a7 md5 56e4b8780f0762cc99935604754d460e )
+)
+
+game (
+	name "Compilation Disk 044 (19xx)(-)"
+	description "Compilation Disk 044 (19xx)(-)"
+	rom ( name "Compilation Disk 044 (19xx)(-).dsk" size 204544 crc 31c532fc md5 febdf8cf086c010c4c42a1b5d0c47e7e )
+)
+
+game (
+	name "Compilation Disk 045 (19xx)(-)"
+	description "Compilation Disk 045 (19xx)(-)"
+	rom ( name "Compilation Disk 045 (19xx)(-).dsk" size 195840 crc 179337c4 md5 726d723b342e3e3b6156bffe42622d54 )
+)
+
+game (
+	name "Compilation Disk 046 (19xx)(-)"
+	description "Compilation Disk 046 (19xx)(-)"
+	rom ( name "Compilation Disk 046 (19xx)(-).dsk" size 204544 crc 0ee28f21 md5 13e958de1ed025b279bbd995b793de90 )
+)
+
+game (
+	name "Compilation Disk 047 (19xx)(-)"
+	description "Compilation Disk 047 (19xx)(-)"
+	rom ( name "Compilation Disk 047 (19xx)(-).dsk" size 204544 crc 967c2ca8 md5 59db63d19a6399be70faa27d79f750ed )
+)
+
+game (
+	name "Compilation Disk 048 (19xx)(-)"
+	description "Compilation Disk 048 (19xx)(-)"
+	rom ( name "Compilation Disk 048 (19xx)(-).dsk" size 204544 crc d1e90c39 md5 e2b3804bd46c82c8639eda5385c5c8d0 )
+)
+
+game (
+	name "Compilation Disk 049 (19xx)(-)"
+	description "Compilation Disk 049 (19xx)(-)"
+	rom ( name "Compilation Disk 049 (19xx)(-).dsk" size 194816 crc b351e89b md5 a760486cae4ebbeb3b3274a22cb1c348 )
+)
+
+game (
+	name "Compilation Disk 050 (19xx)(-)"
+	description "Compilation Disk 050 (19xx)(-)"
+	rom ( name "Compilation Disk 050 (19xx)(-).dsk" size 204544 crc 706e82eb md5 089f1f45f584c1567e4db2e04c442357 )
+)
+
+game (
+	name "Compilation Disk 051 (19xx)(-)"
+	description "Compilation Disk 051 (19xx)(-)"
+	rom ( name "Compilation Disk 051 (19xx)(-).dsk" size 204544 crc f01c5eb2 md5 a4ff47fb9893847169e94052d16bbd78 )
+)
+
+game (
+	name "Compilation Disk 052 (19xx)(-)"
+	description "Compilation Disk 052 (19xx)(-)"
+	rom ( name "Compilation Disk 052 (19xx)(-).dsk" size 204544 crc fbb98382 md5 f48e63c1d9e33bdaa8588fa886bb1652 )
+)
+
+game (
+	name "Compilation Disk 053 (19xx)(-)"
+	description "Compilation Disk 053 (19xx)(-)"
+	rom ( name "Compilation Disk 053 (19xx)(-).dsk" size 204544 crc 3166aa2f md5 11a7d600d84648caee168bf20cd00d15 )
+)
+
+game (
+	name "Compilation Disk 054 (19xx)(-)"
+	description "Compilation Disk 054 (19xx)(-)"
+	rom ( name "Compilation Disk 054 (19xx)(-).dsk" size 204544 crc 2a4d183f md5 7ee20ccb798e4b9fcaeb10dcf0f8d97d )
+)
+
+game (
+	name "Compilation Disk 055 (19xx)(-)"
+	description "Compilation Disk 055 (19xx)(-)"
+	rom ( name "Compilation Disk 055 (19xx)(-).dsk" size 204544 crc 8a1fc764 md5 7ca6196853ad3ecb11142d40ea9bb802 )
+)
+
+game (
+	name "Compilation Disk 056 (19xx)(-)"
+	description "Compilation Disk 056 (19xx)(-)"
+	rom ( name "Compilation Disk 056 (19xx)(-).dsk" size 194816 crc a33a37dc md5 5f52441453ddc5d3bab2ce838f546cec )
+)
+
+game (
+	name "Compilation Disk 057 (19xx)(-)"
+	description "Compilation Disk 057 (19xx)(-)"
+	rom ( name "Compilation Disk 057 (19xx)(-).dsk" size 194816 crc 39bf6189 md5 9f3e8a692fdddd5fb77b09c7284d9f85 )
+)
+
+game (
+	name "Compilation Disk 058 (19xx)(-)"
+	description "Compilation Disk 058 (19xx)(-)"
+	rom ( name "Compilation Disk 058 (19xx)(-).dsk" size 204544 crc d79c0dca md5 47cfad17a63d4bb777b8c3c3da57dbff )
+)
+
+game (
+	name "Compilation Disk 059 (19xx)(-)"
+	description "Compilation Disk 059 (19xx)(-)"
+	rom ( name "Compilation Disk 059 (19xx)(-).dsk" size 204544 crc 4fd38c93 md5 d7ed18a95a21a106b0b588aff3645270 )
+)
+
+game (
+	name "Compilation Disk 060 (19xx)(-)"
+	description "Compilation Disk 060 (19xx)(-)"
+	rom ( name "Compilation Disk 060 (19xx)(-).dsk" size 204544 crc 3913e1ca md5 bf1dde2d29f45afe2a9b7099660d489f )
+)
+
+game (
+	name "Compilation Disk 061 (19xx)(-)"
+	description "Compilation Disk 061 (19xx)(-)"
+	rom ( name "Compilation Disk 061 (19xx)(-).dsk" size 194816 crc d4b09b25 md5 b7c6cddb3bd7d09f0e47f04dba703fc2 )
+)
+
+game (
+	name "Compilation Disk 062 (19xx)(-)"
+	description "Compilation Disk 062 (19xx)(-)"
+	rom ( name "Compilation Disk 062 (19xx)(-).dsk" size 194816 crc 7717e3e1 md5 a71f2d736f6d7629e44a27cb0c435f36 )
+)
+
+game (
+	name "Compilation Disk 063 (19xx)(-)"
+	description "Compilation Disk 063 (19xx)(-)"
+	rom ( name "Compilation Disk 063 (19xx)(-).dsk" size 194816 crc 98ad62ab md5 24953de04466917c3888974cd0ae6edb )
+)
+
+game (
+	name "Compilation Disk 064 (19xx)(-)"
+	description "Compilation Disk 064 (19xx)(-)"
+	rom ( name "Compilation Disk 064 (19xx)(-).dsk" size 199680 crc 8e094b47 md5 8b43d49b2c9b908982bbb75764867996 )
+)
+
+game (
+	name "Compilation Disk 065 (19xx)(-)"
+	description "Compilation Disk 065 (19xx)(-)"
+	rom ( name "Compilation Disk 065 (19xx)(-).dsk" size 200192 crc cc7953d9 md5 d2aa54afeb5451247409755d18df1ed4 )
+)
+
+game (
+	name "Compilation Disk 066 (19xx)(-)"
+	description "Compilation Disk 066 (19xx)(-)"
+	rom ( name "Compilation Disk 066 (19xx)(-).dsk" size 194816 crc 47b211a9 md5 fa32ce5977f60091bb41f38373ba1847 )
+)
+
+game (
+	name "Compilation Disk 067 (19xx)(-)"
+	description "Compilation Disk 067 (19xx)(-)"
+	rom ( name "Compilation Disk 067 (19xx)(-).dsk" size 194816 crc b252b787 md5 142485b75dd060f3e8e0eac86eeeb299 )
+)
+
+game (
+	name "Compilation Disk 068 (19xx)(-)"
+	description "Compilation Disk 068 (19xx)(-)"
+	rom ( name "Compilation Disk 068 (19xx)(-).dsk" size 194816 crc 9a84468a md5 b4c7fb8f6d2c1930be99ba4d4e16cd03 )
+)
+
+game (
+	name "Compilation Disk 069 (19xx)(-)"
+	description "Compilation Disk 069 (19xx)(-)"
+	rom ( name "Compilation Disk 069 (19xx)(-).dsk" size 194816 crc cd2ce7f7 md5 7f952117647c92b6fb5217c739507aa8 )
+)
+
+game (
+	name "Compilation Disk 070 (19xx)(-)"
+	description "Compilation Disk 070 (19xx)(-)"
+	rom ( name "Compilation Disk 070 (19xx)(-).dsk" size 194816 crc fc135faa md5 56ac595940d265f0f49263db85191a08 )
+)
+
+game (
+	name "Compilation Disk 071 (19xx)(-)"
+	description "Compilation Disk 071 (19xx)(-)"
+	rom ( name "Compilation Disk 071 (19xx)(-).dsk" size 194816 crc 67775c94 md5 c87399729cf1c00441da512c580517af )
+)
+
+game (
+	name "Compilation Disk 072 (19xx)(-)"
+	description "Compilation Disk 072 (19xx)(-)"
+	rom ( name "Compilation Disk 072 (19xx)(-).dsk" size 194816 crc 8a2f18ae md5 6a9f3fc52f940b0142969cb458878f46 )
+)
+
+game (
+	name "Compilation Disk 073 (19xx)(-)"
+	description "Compilation Disk 073 (19xx)(-)"
+	rom ( name "Compilation Disk 073 (19xx)(-).dsk" size 194816 crc e061f6f4 md5 ad1e83bcd3c64cf8ef681ac04ba0065a )
+)
+
+game (
+	name "Compilation Disk 074 (19xx)(-)"
+	description "Compilation Disk 074 (19xx)(-)"
+	rom ( name "Compilation Disk 074 (19xx)(-).dsk" size 194816 crc f394f24e md5 be555f4ec21e470fec3ffc3b43c9c723 )
+)
+
+game (
+	name "Compilation Disk 075 (19xx)(-)"
+	description "Compilation Disk 075 (19xx)(-)"
+	rom ( name "Compilation Disk 075 (19xx)(-).dsk" size 194816 crc 4fbb91ec md5 efc03a68ed40c6a75d2350f16cd7ab59 )
+)
+
+game (
+	name "Compilation Disk 076 (19xx)(-)"
+	description "Compilation Disk 076 (19xx)(-)"
+	rom ( name "Compilation Disk 076 (19xx)(-).dsk" size 194816 crc fc5bdabd md5 6c83381bc33808dc84e59776df23db37 )
+)
+
+game (
+	name "Compilation Disk 077 (19xx)(-)"
+	description "Compilation Disk 077 (19xx)(-)"
+	rom ( name "Compilation Disk 077 (19xx)(-).dsk" size 194816 crc 60006cb1 md5 7073df4f8dccb2434042fca03c301c00 )
+)
+
+game (
+	name "Compilation Disk 078 (19xx)(-)"
+	description "Compilation Disk 078 (19xx)(-)"
+	rom ( name "Compilation Disk 078 (19xx)(-).dsk" size 194816 crc 5cb0532d md5 3146dd8da41a75dc4792f297fcdfe461 )
+)
+
+game (
+	name "Compilation Disk 079 (19xx)(-)"
+	description "Compilation Disk 079 (19xx)(-)"
+	rom ( name "Compilation Disk 079 (19xx)(-).dsk" size 194816 crc 3de82792 md5 e8a9bd71a624ebafd4214e163ca2ed59 )
+)
+
+game (
+	name "Compilation Disk 080 (19xx)(-)"
+	description "Compilation Disk 080 (19xx)(-)"
+	rom ( name "Compilation Disk 080 (19xx)(-).dsk" size 194816 crc 137cd41f md5 6b963cedc3905552047390bdab57c4b4 )
+)
+
+game (
+	name "Compilation Disk 081 (19xx)(-)"
+	description "Compilation Disk 081 (19xx)(-)"
+	rom ( name "Compilation Disk 081 (19xx)(-).dsk" size 194816 crc 3333528e md5 111b2a7489d140dd208cf958e4e76f18 )
+)
+
+game (
+	name "Compilation Disk 082 (19xx)(-)"
+	description "Compilation Disk 082 (19xx)(-)"
+	rom ( name "Compilation Disk 082 (19xx)(-).dsk" size 194816 crc fcb5868e md5 0a20221aa94d8389809551f8cffbdd50 )
+)
+
+game (
+	name "Compilation Disk 083 (19xx)(-)"
+	description "Compilation Disk 083 (19xx)(-)"
+	rom ( name "Compilation Disk 083 (19xx)(-).dsk" size 194816 crc d99da86b md5 9bfc8ccebb16431a7af8cef59384f23e )
+)
+
+game (
+	name "Compilation Disk 084 (19xx)(-)"
+	description "Compilation Disk 084 (19xx)(-)"
+	rom ( name "Compilation Disk 084 (19xx)(-).dsk" size 194816 crc e1e09c4d md5 53002d6323fe2c0159bedc17b83b40c6 )
+)
+
+game (
+	name "Compilation Disk 085 (19xx)(-)"
+	description "Compilation Disk 085 (19xx)(-)"
+	rom ( name "Compilation Disk 085 (19xx)(-).dsk" size 194816 crc b8630ff4 md5 c510f70d034148ef875c9cd8578eafa0 )
+)
+
+game (
+	name "Compilation Disk 086 (19xx)(-)"
+	description "Compilation Disk 086 (19xx)(-)"
+	rom ( name "Compilation Disk 086 (19xx)(-).dsk" size 194816 crc 4fe1a145 md5 9efb5a1b2146b7fc727ab89b92925264 )
+)
+
+game (
+	name "Compilation Disk 087 (19xx)(-)"
+	description "Compilation Disk 087 (19xx)(-)"
+	rom ( name "Compilation Disk 087 (19xx)(-).dsk" size 194816 crc 73edf31a md5 29b2fc88ebe1e849935e94ecac3d544f )
+)
+
+game (
+	name "Compilation Disk 088 (19xx)(-)"
+	description "Compilation Disk 088 (19xx)(-)"
+	rom ( name "Compilation Disk 088 (19xx)(-).dsk" size 194816 crc 2aa39df7 md5 539be5ae04a875b109fa15c8639d6d1b )
+)
+
+game (
+	name "Compilation Disk 089 (19xx)(-)"
+	description "Compilation Disk 089 (19xx)(-)"
+	rom ( name "Compilation Disk 089 (19xx)(-).dsk" size 199680 crc 0e00b719 md5 e3356b835ba7ed2215a1de4e3255f6c3 )
+)
+
+game (
+	name "Compilation Disk 090 (19xx)(-)"
+	description "Compilation Disk 090 (19xx)(-)"
+	rom ( name "Compilation Disk 090 (19xx)(-).dsk" size 199680 crc 41e0e9bd md5 c59bae9b7cdc210949a3f0949ed49d69 )
+)
+
+game (
+	name "Compilation Disk 091 (19xx)(-)"
+	description "Compilation Disk 091 (19xx)(-)"
+	rom ( name "Compilation Disk 091 (19xx)(-).dsk" size 194816 crc bc80cf16 md5 604b48ade53be5f52cb02ab9e0d732e6 )
+)
+
+game (
+	name "Compilation Disk 092 (19xx)(-)"
+	description "Compilation Disk 092 (19xx)(-)"
+	rom ( name "Compilation Disk 092 (19xx)(-).dsk" size 194816 crc a0c499e2 md5 5c62d64c894b2cb6d2ef9bbcfb0c7c65 )
+)
+
+game (
+	name "Compilation Disk 093 (19xx)(-)"
+	description "Compilation Disk 093 (19xx)(-)"
+	rom ( name "Compilation Disk 093 (19xx)(-).dsk" size 199680 crc 915b9046 md5 11e212740c4b5004b3e1fd7ce95ebe5e )
+)
+
+game (
+	name "Compilation Disk 094 (19xx)(-)"
+	description "Compilation Disk 094 (19xx)(-)"
+	rom ( name "Compilation Disk 094 (19xx)(-).dsk" size 194816 crc faf3505b md5 7a812de61ebd45af00f8e7526c5d277e )
+)
+
+game (
+	name "Compilation Disk 095 (19xx)(-)"
+	description "Compilation Disk 095 (19xx)(-)"
+	rom ( name "Compilation Disk 095 (19xx)(-).dsk" size 194816 crc 07dfc3af md5 ee44329b1fdf8ea49f2b7a9e39b50fd7 )
+)
+
+game (
+	name "Compilation Disk 096 (19xx)(-)"
+	description "Compilation Disk 096 (19xx)(-)"
+	rom ( name "Compilation Disk 096 (19xx)(-).dsk" size 199680 crc d7ff2f89 md5 8460d821642f2590dbb8e273c0122e97 )
+)
+
+game (
+	name "Compilation Disk 097 (19xx)(-)"
+	description "Compilation Disk 097 (19xx)(-)"
+	rom ( name "Compilation Disk 097 (19xx)(-).dsk" size 194816 crc 5e36be34 md5 22e5d3370089ddc014098e59db30e371 )
+)
+
+game (
+	name "Compilation Disk 098 (19xx)(-)"
+	description "Compilation Disk 098 (19xx)(-)"
+	rom ( name "Compilation Disk 098 (19xx)(-).dsk" size 194816 crc 11ccb7ad md5 acfe6fbf9e2eb5c681a7fc29e6c4da27 )
+)
+
+game (
+	name "Compilation Disk 099 (19xx)(-)"
+	description "Compilation Disk 099 (19xx)(-)"
+	rom ( name "Compilation Disk 099 (19xx)(-).dsk" size 194816 crc 55780923 md5 346a2f78e8e76c3519718bf56a22889a )
+)
+
+game (
+	name "Compilation Disk 100 (19xx)(-)"
+	description "Compilation Disk 100 (19xx)(-)"
+	rom ( name "Compilation Disk 100 (19xx)(-).dsk" size 194816 crc 1b3485f8 md5 600b7310142ecf6077e9834b1aaeb6ec )
+)
+
+game (
+	name "Compilation Disk 101 (19xx)(-)"
+	description "Compilation Disk 101 (19xx)(-)"
+	rom ( name "Compilation Disk 101 (19xx)(-).dsk" size 194816 crc 52dde528 md5 03fa99e1340e9eba346a51ea51f7c49a )
+)
+
+game (
+	name "Compilation Disk 102 (19xx)(-)"
+	description "Compilation Disk 102 (19xx)(-)"
+	rom ( name "Compilation Disk 102 (19xx)(-).dsk" size 194816 crc 59e2f36e md5 6d179e67e01cd36233c99353262c7099 )
+)
+
+game (
+	name "Compilation Disk 103 (19xx)(-)"
+	description "Compilation Disk 103 (19xx)(-)"
+	rom ( name "Compilation Disk 103 (19xx)(-).dsk" size 194816 crc 346378ee md5 4d34d7c698cb1ab4a7389623b9f14a74 )
+)
+
+game (
+	name "Compilation Disk 104 (19xx)(-)"
+	description "Compilation Disk 104 (19xx)(-)"
+	rom ( name "Compilation Disk 104 (19xx)(-).dsk" size 194816 crc 39b5567a md5 f9a431ef942d2279236997276fd3b935 )
+)
+
+game (
+	name "Compilation Disk 105 (19xx)(-)"
+	description "Compilation Disk 105 (19xx)(-)"
+	rom ( name "Compilation Disk 105 (19xx)(-).dsk" size 194816 crc 2179ac5f md5 aa5fa9380044cd294515288a182797ed )
+)
+
+game (
+	name "Compilation Disk 106 (19xx)(-)"
+	description "Compilation Disk 106 (19xx)(-)"
+	rom ( name "Compilation Disk 106 (19xx)(-).dsk" size 194816 crc 0d530ac3 md5 88117866c97b99ee7d6598c438c04a00 )
+)
+
+game (
+	name "Compilation Disk 107 (19xx)(-)"
+	description "Compilation Disk 107 (19xx)(-)"
+	rom ( name "Compilation Disk 107 (19xx)(-).dsk" size 194816 crc 887d3899 md5 af8ed4df9c4ba020ffe7352a2882c8e4 )
+)
+
+game (
+	name "Compilation Disk 108 (19xx)(-)"
+	description "Compilation Disk 108 (19xx)(-)"
+	rom ( name "Compilation Disk 108 (19xx)(-).dsk" size 194816 crc 36f36e53 md5 b824fc0abf7c37df8fddf64e59e4224d )
+)
+
+game (
+	name "Compilation Disk 109 (19xx)(-)"
+	description "Compilation Disk 109 (19xx)(-)"
+	rom ( name "Compilation Disk 109 (19xx)(-).dsk" size 194816 crc 4c9135a2 md5 4e63ef172832653c2548fc625afe2180 )
+)
+
+game (
+	name "Compilation Disk 110 (19xx)(-)"
+	description "Compilation Disk 110 (19xx)(-)"
+	rom ( name "Compilation Disk 110 (19xx)(-).dsk" size 194816 crc 22c8cb28 md5 af2c0171d4405f0a22fc834e602568dc )
+)
+
+game (
+	name "Compilation Disk 111 (19xx)(-)"
+	description "Compilation Disk 111 (19xx)(-)"
+	rom ( name "Compilation Disk 111 (19xx)(-).dsk" size 194816 crc 4273eae4 md5 0493b9086bc7844b77c92b7718a7b4eb )
+)
+
+game (
+	name "Compilation Disk 112 (19xx)(-)"
+	description "Compilation Disk 112 (19xx)(-)"
+	rom ( name "Compilation Disk 112 (19xx)(-).dsk" size 195072 crc 4ead65cd md5 094d81f98470c91464025219ed7e272e )
+)
+
+game (
+	name "Compilation Disk 113 (19xx)(-)"
+	description "Compilation Disk 113 (19xx)(-)"
+	rom ( name "Compilation Disk 113 (19xx)(-).dsk" size 194816 crc fe4490c7 md5 fe77833824809db78075c72c3bca0a11 )
+)
+
+game (
+	name "Compilation Disk 114 (19xx)(-)"
+	description "Compilation Disk 114 (19xx)(-)"
+	rom ( name "Compilation Disk 114 (19xx)(-).dsk" size 194816 crc 679033dc md5 b7231ec1ce89d5fa31ef4cbeda52dd3b )
+)
+
+game (
+	name "Compilation Disk 115 (19xx)(-)"
+	description "Compilation Disk 115 (19xx)(-)"
+	rom ( name "Compilation Disk 115 (19xx)(-).dsk" size 194816 crc ef2bb1ef md5 bacc46aca859b16c3ab9eab9768274c0 )
+)
+
+game (
+	name "Compilation Disk 116 (19xx)(-)"
+	description "Compilation Disk 116 (19xx)(-)"
+	rom ( name "Compilation Disk 116 (19xx)(-).dsk" size 194816 crc 33e8bda8 md5 fc6c07ea4f37a1f6d2ad12daf11df540 )
+)
+
+game (
+	name "Compilation Disk 117 (19xx)(-)"
+	description "Compilation Disk 117 (19xx)(-)"
+	rom ( name "Compilation Disk 117 (19xx)(-).dsk" size 194816 crc 4577e032 md5 efd4b20ac8bf3d9299dab87751c4aedc )
+)
+
+game (
+	name "Compilation Disk 118 (19xx)(-)"
+	description "Compilation Disk 118 (19xx)(-)"
+	rom ( name "Compilation Disk 118 (19xx)(-).dsk" size 194816 crc fe0ed633 md5 b448f8cf4961599d4fa385e70ee80b6c )
+)
+
+game (
+	name "Compilation Disk 119 (19xx)(-)"
+	description "Compilation Disk 119 (19xx)(-)"
+	rom ( name "Compilation Disk 119 (19xx)(-).dsk" size 194816 crc 3480f5ab md5 ef84bca6c3bee25193fe2b80a67a8072 )
+)
+
+game (
+	name "Compilation Disk 120 (19xx)(-)"
+	description "Compilation Disk 120 (19xx)(-)"
+	rom ( name "Compilation Disk 120 (19xx)(-).dsk" size 194816 crc cecddaf7 md5 7c1d1ac22f921da2a838150be66becfa )
+)
+
+game (
+	name "Compilation Disk 121 (19xx)(-)"
+	description "Compilation Disk 121 (19xx)(-)"
+	rom ( name "Compilation Disk 121 (19xx)(-).dsk" size 194816 crc b95cce20 md5 f9dc62aac7f274d5b2c55e770778594b )
+)
+
+game (
+	name "Compilation Disk 122 (19xx)(-)"
+	description "Compilation Disk 122 (19xx)(-)"
+	rom ( name "Compilation Disk 122 (19xx)(-).dsk" size 194816 crc fa29244e md5 fe93bf43d916bc12fd8042191876eb03 )
+)
+
+game (
+	name "Compilation Disk 123 (19xx)(-)"
+	description "Compilation Disk 123 (19xx)(-)"
+	rom ( name "Compilation Disk 123 (19xx)(-).dsk" size 194816 crc d8eea368 md5 df410549c035ce3aea883b73d1685266 )
+)
+
+game (
+	name "Compilation Disk 124 (19xx)(-)"
+	description "Compilation Disk 124 (19xx)(-)"
+	rom ( name "Compilation Disk 124 (19xx)(-).dsk" size 194816 crc 826bb06a md5 5216eb8f3827f88dfbcba0fe7529f468 )
+)
+
+game (
+	name "Compilation Disk 125 (19xx)(-)"
+	description "Compilation Disk 125 (19xx)(-)"
+	rom ( name "Compilation Disk 125 (19xx)(-).dsk" size 194816 crc 384284d3 md5 9d40d2ad94d2276d02726edcdd739308 )
+)
+
+game (
+	name "Compilation Disk 126 (19xx)(-)"
+	description "Compilation Disk 126 (19xx)(-)"
+	rom ( name "Compilation Disk 126 (19xx)(-).dsk" size 194816 crc 27cfac50 md5 2069f1538703177fa3e0f75b38072237 )
+)
+
+game (
+	name "Compilation Disk 127 (19xx)(-)"
+	description "Compilation Disk 127 (19xx)(-)"
+	rom ( name "Compilation Disk 127 (19xx)(-).dsk" size 199680 crc 0c93409e md5 8c345e66825a59567fef07e1bf632ceb )
+)
+
+game (
+	name "Compilation Disk 128 (19xx)(-)"
+	description "Compilation Disk 128 (19xx)(-)"
+	rom ( name "Compilation Disk 128 (19xx)(-).dsk" size 194816 crc 10b8e6d2 md5 18607b28e5542729923803d1c50baecc )
+)
+
+game (
+	name "Compilation Disk 129 (19xx)(-)"
+	description "Compilation Disk 129 (19xx)(-)"
+	rom ( name "Compilation Disk 129 (19xx)(-).dsk" size 199680 crc 417b95d1 md5 08aab3c32bb20cafd9ea218d67322a6e )
+)
+
+game (
+	name "Compilation Disk 130 (19xx)(-)"
+	description "Compilation Disk 130 (19xx)(-)"
+	rom ( name "Compilation Disk 130 (19xx)(-).dsk" size 194816 crc 5fb80c4b md5 8aee43a986b69eb2f67f49a9b42badc9 )
+)
+
+game (
+	name "Compilation Disk 131 (19xx)(-)"
+	description "Compilation Disk 131 (19xx)(-)"
+	rom ( name "Compilation Disk 131 (19xx)(-).dsk" size 194816 crc cfe8b849 md5 5716502193560dae61d6244d5fd7c463 )
+)
+
+game (
+	name "Compilation Disk 132 (19xx)(-)"
+	description "Compilation Disk 132 (19xx)(-)"
+	rom ( name "Compilation Disk 132 (19xx)(-).dsk" size 194816 crc 244faa00 md5 77d0103ec06ec461dc4477b8342090e4 )
+)
+
+game (
+	name "Compilation Disk 133 (19xx)(-)"
+	description "Compilation Disk 133 (19xx)(-)"
+	rom ( name "Compilation Disk 133 (19xx)(-).dsk" size 194816 crc 2dd109aa md5 b77b884e19821384fe6d8c44eb9e1104 )
+)
+
+game (
+	name "Compilation Disk 134 (19xx)(-)"
+	description "Compilation Disk 134 (19xx)(-)"
+	rom ( name "Compilation Disk 134 (19xx)(-).dsk" size 199680 crc b62b0eb3 md5 7d4aa2b21314cefe1b2cfeda9f48018c )
+)
+
+game (
+	name "Compilation Disk 135 (19xx)(-)"
+	description "Compilation Disk 135 (19xx)(-)"
+	rom ( name "Compilation Disk 135 (19xx)(-).dsk" size 194816 crc 1c4af335 md5 b784479059b358eab65eeddca62ca3a1 )
+)
+
+game (
+	name "Compilation Disk 136 (19xx)(-)"
+	description "Compilation Disk 136 (19xx)(-)"
+	rom ( name "Compilation Disk 136 (19xx)(-).dsk" size 194816 crc 03330ee6 md5 d00677eb47920959b08fd370a0438114 )
+)
+
+game (
+	name "Compilation Disk 137 (19xx)(-)"
+	description "Compilation Disk 137 (19xx)(-)"
+	rom ( name "Compilation Disk 137 (19xx)(-).dsk" size 194816 crc 158dd425 md5 602d10f699394121d1e8173d142e6238 )
+)
+
+game (
+	name "Compilation Disk 138 (19xx)(-)"
+	description "Compilation Disk 138 (19xx)(-)"
+	rom ( name "Compilation Disk 138 (19xx)(-).dsk" size 199680 crc 27ea844d md5 2de74505df294632f93f5f51a3366acf )
+)
+
+game (
+	name "Compilation Disk 139 (19xx)(-)"
+	description "Compilation Disk 139 (19xx)(-)"
+	rom ( name "Compilation Disk 139 (19xx)(-).dsk" size 194816 crc 3d51f849 md5 b6c4200b11328d7eb1db258aa4abf30c )
+)
+
+game (
+	name "Compilation Disk 140 (19xx)(-)"
+	description "Compilation Disk 140 (19xx)(-)"
+	rom ( name "Compilation Disk 140 (19xx)(-).dsk" size 194816 crc c133d321 md5 e9cbee3e9ca7a74fb3e897496e1407a7 )
+)
+
+game (
+	name "Compilation Disk 141 (19xx)(-)"
+	description "Compilation Disk 141 (19xx)(-)"
+	rom ( name "Compilation Disk 141 (19xx)(-).dsk" size 194816 crc 28eadba2 md5 8413460e3ed84295ce43bfff9f595f2c )
+)
+
+game (
+	name "Compilation Disk 142 (19xx)(-)"
+	description "Compilation Disk 142 (19xx)(-)"
+	rom ( name "Compilation Disk 142 (19xx)(-).dsk" size 194816 crc b30c8735 md5 19487083823e98bf830dfa569d09b0ee )
+)
+
+game (
+	name "Compilation Disk 143 (19xx)(-)"
+	description "Compilation Disk 143 (19xx)(-)"
+	rom ( name "Compilation Disk 143 (19xx)(-).dsk" size 194816 crc 3cedc0e8 md5 cc714bcfa49f97fa8f7589e43a086be7 )
+)
+
+game (
+	name "Compilation Disk 144 (19xx)(-)"
+	description "Compilation Disk 144 (19xx)(-)"
+	rom ( name "Compilation Disk 144 (19xx)(-).dsk" size 194816 crc 6c00fbef md5 f19151f330ce0e349d95df3a5fd4b0a5 )
+)
+
+game (
+	name "Compilation Disk 145 (19xx)(-)"
+	description "Compilation Disk 145 (19xx)(-)"
+	rom ( name "Compilation Disk 145 (19xx)(-).dsk" size 195328 crc 6ca4b0bd md5 008b053e35bba2f74381a66f0abcda8a )
+)
+
+game (
+	name "Compilation Disk 146 (19xx)(-)"
+	description "Compilation Disk 146 (19xx)(-)"
+	rom ( name "Compilation Disk 146 (19xx)(-).dsk" size 199680 crc 700df065 md5 561065bee92830ecf8bd4b5b4438c001 )
+)
+
+game (
+	name "Compilation Disk 147 (19xx)(-)"
+	description "Compilation Disk 147 (19xx)(-)"
+	rom ( name "Compilation Disk 147 (19xx)(-).dsk" size 194816 crc e03b4a1f md5 ef0557d260ed77b44c47600f31bf26c4 )
+)
+
+game (
+	name "Compilation Disk 148 (19xx)(-)"
+	description "Compilation Disk 148 (19xx)(-)"
+	rom ( name "Compilation Disk 148 (19xx)(-).dsk" size 194816 crc a0d65f6f md5 ce01b5b42ee409604fc298f2edb76ea6 )
+)
+
+game (
+	name "Compilation Disk 149 (19xx)(-)"
+	description "Compilation Disk 149 (19xx)(-)"
+	rom ( name "Compilation Disk 149 (19xx)(-).dsk" size 194816 crc 65feed98 md5 d5063b1c749dde9c20733e99bb8761e1 )
+)
+
+game (
+	name "Compilation Disk 150 (19xx)(-)"
+	description "Compilation Disk 150 (19xx)(-)"
+	rom ( name "Compilation Disk 150 (19xx)(-).dsk" size 194816 crc 9c430e7d md5 689cc4bfafc6f705c41701bb1c322621 )
+)
+
+game (
+	name "Compilation Disk 151 (19xx)(-)"
+	description "Compilation Disk 151 (19xx)(-)"
+	rom ( name "Compilation Disk 151 (19xx)(-).dsk" size 194816 crc f83eceeb md5 95558ac5b6f99effed436f1209a58e77 )
+)
+
+game (
+	name "Compilation Disk 152 (19xx)(-)"
+	description "Compilation Disk 152 (19xx)(-)"
+	rom ( name "Compilation Disk 152 (19xx)(-).dsk" size 194816 crc c95df1dc md5 ac438e6ee3cccde186244dd9404cec0c )
+)
+
+game (
+	name "Compilation Disk 153 (19xx)(-)"
+	description "Compilation Disk 153 (19xx)(-)"
+	rom ( name "Compilation Disk 153 (19xx)(-).dsk" size 194816 crc 5d7f747a md5 edd8b90c06f55a68b6eb66631f43087b )
+)
+
+game (
+	name "Compilation Disk 154 (19xx)(-)"
+	description "Compilation Disk 154 (19xx)(-)"
+	rom ( name "Compilation Disk 154 (19xx)(-).dsk" size 194816 crc b2f888fa md5 640854a8f58dabd728844ad2fb113abf )
+)
+
+game (
+	name "Compilation Disk 155 (19xx)(-)"
+	description "Compilation Disk 155 (19xx)(-)"
+	rom ( name "Compilation Disk 155 (19xx)(-).dsk" size 199680 crc 1b0ff25c md5 ae06a063e4d744ce2882bd9628e5885c )
+)
+
+game (
+	name "Compilation Disk 156 (19xx)(-)"
+	description "Compilation Disk 156 (19xx)(-)"
+	rom ( name "Compilation Disk 156 (19xx)(-).dsk" size 194816 crc 798aaee6 md5 1a10c056520b54d97321340a1c656c1e )
+)
+
+game (
+	name "Compilation Disk 157 (19xx)(-)"
+	description "Compilation Disk 157 (19xx)(-)"
+	rom ( name "Compilation Disk 157 (19xx)(-).dsk" size 194816 crc 5f9413df md5 e50913a2199233fa3978218850269a9d )
+)
+
+game (
+	name "Compilation Disk 158 (19xx)(-)"
+	description "Compilation Disk 158 (19xx)(-)"
+	rom ( name "Compilation Disk 158 (19xx)(-).dsk" size 194816 crc b85dbdcc md5 b5c2f931c48270fee578d5ebc38d06f6 )
+)
+
+game (
+	name "Compilation Disk 159 (19xx)(-)"
+	description "Compilation Disk 159 (19xx)(-)"
+	rom ( name "Compilation Disk 159 (19xx)(-).dsk" size 194816 crc 3dc27e11 md5 4e6308f6c3cc94e133b2e56044c01194 )
+)
+
+game (
+	name "Compilation Disk 160 (19xx)(-)"
+	description "Compilation Disk 160 (19xx)(-)"
+	rom ( name "Compilation Disk 160 (19xx)(-).dsk" size 194816 crc 7a877fd6 md5 8eb99b8bfbadc9d516ad9e9a7fb6c082 )
+)
+
+game (
+	name "Compilation Disk 161 (19xx)(-)"
+	description "Compilation Disk 161 (19xx)(-)"
+	rom ( name "Compilation Disk 161 (19xx)(-).dsk" size 198656 crc 7e4885e4 md5 80b9b77e89657c56e627f45d9c742f3c )
+)
+
+game (
+	name "Compilation Disk 162 (19xx)(-)"
+	description "Compilation Disk 162 (19xx)(-)"
+	rom ( name "Compilation Disk 162 (19xx)(-).dsk" size 194816 crc 09f1e545 md5 9d53b69ada468cec62867db7e5d3f204 )
+)
+
+game (
+	name "Compilation Disk 163 (19xx)(-)"
+	description "Compilation Disk 163 (19xx)(-)"
+	rom ( name "Compilation Disk 163 (19xx)(-).dsk" size 194816 crc 16d2e2fe md5 57068df9215f96a7baa7bd4c3e3b8c78 )
+)
+
+game (
+	name "Compilation Disk 164 (19xx)(-)"
+	description "Compilation Disk 164 (19xx)(-)"
+	rom ( name "Compilation Disk 164 (19xx)(-).dsk" size 194816 crc 6022fc43 md5 c0715fb216128d948c2c2d6033da0f2b )
+)
+
+game (
+	name "Compilation Disk 165 (19xx)(-)"
+	description "Compilation Disk 165 (19xx)(-)"
+	rom ( name "Compilation Disk 165 (19xx)(-).dsk" size 194816 crc fc2356c5 md5 ea9cca83ca9d9bb4f27a592fd03fe94d )
+)
+
+game (
+	name "Compilation Disk 166 (19xx)(-)"
+	description "Compilation Disk 166 (19xx)(-)"
+	rom ( name "Compilation Disk 166 (19xx)(-).dsk" size 196864 crc b5ed5e40 md5 8f753f7d8bbe86b88eb8fe4744fe4248 )
+)
+
+game (
+	name "Compilation Disk 167 (19xx)(-)"
+	description "Compilation Disk 167 (19xx)(-)"
+	rom ( name "Compilation Disk 167 (19xx)(-).dsk" size 199680 crc a3a7afef md5 012e3ebbb520e33b5cfd2c6b6c7dcd40 )
+)
+
+game (
+	name "Compilation Disk 168 (19xx)(-)"
+	description "Compilation Disk 168 (19xx)(-)"
+	rom ( name "Compilation Disk 168 (19xx)(-).dsk" size 194816 crc b83f07e0 md5 919368872da643c09c661f785bd232b0 )
+)
+
+game (
+	name "Compilation Disk 169 (19xx)(-)"
+	description "Compilation Disk 169 (19xx)(-)"
+	rom ( name "Compilation Disk 169 (19xx)(-).dsk" size 199680 crc c112cae8 md5 a57bea42884f8175f8c7156004a7f3cf )
+)
+
+game (
+	name "Compilation Disk 170 (19xx)(-)"
+	description "Compilation Disk 170 (19xx)(-)"
+	rom ( name "Compilation Disk 170 (19xx)(-).dsk" size 194816 crc 1ed0f622 md5 8e1422017cb87aeaf2601141178af68b )
+)
+
+game (
+	name "Compilation Disk 171 (19xx)(-)"
+	description "Compilation Disk 171 (19xx)(-)"
+	rom ( name "Compilation Disk 171 (19xx)(-).dsk" size 194816 crc 061d0a1d md5 edd06b585162b07dfd3b3cdd40d23c1b )
+)
+
+game (
+	name "Compilation Disk 172 (19xx)(-)"
+	description "Compilation Disk 172 (19xx)(-)"
+	rom ( name "Compilation Disk 172 (19xx)(-).dsk" size 194816 crc 08cd4397 md5 626605ee07cc5d4f7b2a5f8881b12023 )
+)
+
+game (
+	name "Compilation Disk 173 (19xx)(-)"
+	description "Compilation Disk 173 (19xx)(-)"
+	rom ( name "Compilation Disk 173 (19xx)(-).dsk" size 194816 crc c471710c md5 36c4e12a1744bceea45bdc16a9703d76 )
+)
+
+game (
+	name "Compilation Disk 174 (19xx)(-)"
+	description "Compilation Disk 174 (19xx)(-)"
+	rom ( name "Compilation Disk 174 (19xx)(-).dsk" size 194816 crc 88f07d39 md5 6e7779b75d1845801db1e44af84bba43 )
+)
+
+game (
+	name "Compilation Disk 175 (19xx)(-)"
+	description "Compilation Disk 175 (19xx)(-)"
+	rom ( name "Compilation Disk 175 (19xx)(-).dsk" size 194816 crc e8d2fdf3 md5 e9c90b1ce99285ae0e9ea6a6c84441ce )
+)
+
+game (
+	name "Compilation Disk 176 (19xx)(-)"
+	description "Compilation Disk 176 (19xx)(-)"
+	rom ( name "Compilation Disk 176 (19xx)(-).dsk" size 194816 crc 9489b20f md5 33cd37ac928021b6bc87b67f2fdaf773 )
+)
+
+game (
+	name "Compilation Disk 177 (19xx)(-)"
+	description "Compilation Disk 177 (19xx)(-)"
+	rom ( name "Compilation Disk 177 (19xx)(-).dsk" size 194816 crc af36373e md5 b171e6d693fd9178c8ed2d4106372edb )
+)
+
+game (
+	name "Compilation Disk 178 (19xx)(-)"
+	description "Compilation Disk 178 (19xx)(-)"
+	rom ( name "Compilation Disk 178 (19xx)(-).dsk" size 194816 crc def77478 md5 2019eadcdb780cbfb95229cca9dcef11 )
+)
+
+game (
+	name "Compilation Disk 180 (19xx)(-)"
+	description "Compilation Disk 180 (19xx)(-)"
+	rom ( name "Compilation Disk 180 (19xx)(-).dsk" size 204544 crc 07d1bb6b md5 169126424424de2490ac1f57bad52e36 )
+)
+
+game (
+	name "Compilation Disk 181 (19xx)(-)"
+	description "Compilation Disk 181 (19xx)(-)"
+	rom ( name "Compilation Disk 181 (19xx)(-).dsk" size 194816 crc 139e5c6a md5 efcd790dec9a9c096c665e915283de17 )
+)
+
+game (
+	name "Compilation Disk 182 (19xx)(-)"
+	description "Compilation Disk 182 (19xx)(-)"
+	rom ( name "Compilation Disk 182 (19xx)(-).dsk" size 194816 crc c548e67b md5 5ef11dd738e1a419a4af0089474bc18a )
+)
+
+game (
+	name "Compilation Disk 183 (19xx)(-)"
+	description "Compilation Disk 183 (19xx)(-)"
+	rom ( name "Compilation Disk 183 (19xx)(-).dsk" size 194816 crc 5bbcbc81 md5 e6ece62220d9436b704f961bd525ecec )
+)
+
+game (
+	name "Compilation Disk 184 (19xx)(-)"
+	description "Compilation Disk 184 (19xx)(-)"
+	rom ( name "Compilation Disk 184 (19xx)(-).dsk" size 194816 crc f45d587a md5 1a513fae395f72b332d64f0bb7003673 )
+)
+
+game (
+	name "Compilation Disk 185 (19xx)(-)"
+	description "Compilation Disk 185 (19xx)(-)"
+	rom ( name "Compilation Disk 185 (19xx)(-).dsk" size 194816 crc a7ecca05 md5 1f1da103d00cf873885fb01628ce9532 )
+)
+
+game (
+	name "Compilation Disk 186 (19xx)(-)"
+	description "Compilation Disk 186 (19xx)(-)"
+	rom ( name "Compilation Disk 186 (19xx)(-).dsk" size 204544 crc 84255713 md5 52344d70fdbf8ed34dcef33974590158 )
+)
+
+game (
+	name "Compilation Disk 187 (19xx)(-)"
+	description "Compilation Disk 187 (19xx)(-)"
+	rom ( name "Compilation Disk 187 (19xx)(-).dsk" size 204544 crc f21bfe1d md5 10e681f242f3012a3ecef66391e4219e )
+)
+
+game (
+	name "Compilation Disk 188 (19xx)(-)"
+	description "Compilation Disk 188 (19xx)(-)"
+	rom ( name "Compilation Disk 188 (19xx)(-).dsk" size 194816 crc 8fe4f55d md5 97336de027729a5ca5148a44aa90dc9d )
+)
+
+game (
+	name "Compilation Disk 189 (19xx)(-)"
+	description "Compilation Disk 189 (19xx)(-)"
+	rom ( name "Compilation Disk 189 (19xx)(-).dsk" size 194816 crc e4508bf4 md5 5e57c63874dec24c6d129ede74be4004 )
+)
+
+game (
+	name "Compilation Disk 190 (19xx)(-)"
+	description "Compilation Disk 190 (19xx)(-)"
+	rom ( name "Compilation Disk 190 (19xx)(-).dsk" size 194816 crc 4cc16dce md5 82bba1bafb07af070edc188d21c4a381 )
+)
+
+game (
+	name "Compilation Disk 191 (19xx)(-)"
+	description "Compilation Disk 191 (19xx)(-)"
+	rom ( name "Compilation Disk 191 (19xx)(-).dsk" size 194816 crc 9992a907 md5 31ca10ca42812a2451345e408648c9d6 )
+)
+
+game (
+	name "Compilation Disk 192 (19xx)(-)"
+	description "Compilation Disk 192 (19xx)(-)"
+	rom ( name "Compilation Disk 192 (19xx)(-).dsk" size 194816 crc 7342b67b md5 573fb445f1fa183119c749515372fb60 )
+)
+
+game (
+	name "Compilation Disk 193 (19xx)(-)"
+	description "Compilation Disk 193 (19xx)(-)"
+	rom ( name "Compilation Disk 193 (19xx)(-).dsk" size 194816 crc d0e12137 md5 f44b7595bc62e3c3d334cfbad943986b )
+)
+
+game (
+	name "Compilation Disk 194 (19xx)(-)"
+	description "Compilation Disk 194 (19xx)(-)"
+	rom ( name "Compilation Disk 194 (19xx)(-).dsk" size 219136 crc 641eda72 md5 b8e29c86f6e7c5ba6dcf0b1322d144bf )
+)
+
+game (
+	name "Compilation Disk 195 (19xx)(-)"
+	description "Compilation Disk 195 (19xx)(-)"
+	rom ( name "Compilation Disk 195 (19xx)(-).dsk" size 194816 crc de1a911f md5 213b5e06842167891cf75ed83048dff0 )
+)
+
+game (
+	name "Compilation Disk 196 (19xx)(-)"
+	description "Compilation Disk 196 (19xx)(-)"
+	rom ( name "Compilation Disk 196 (19xx)(-).dsk" size 194816 crc 5890d7ec md5 0b2aa62fcb79bd114c4f13806d13a9f5 )
+)
+
+game (
+	name "Compilation Disk 197 (19xx)(-)"
+	description "Compilation Disk 197 (19xx)(-)"
+	rom ( name "Compilation Disk 197 (19xx)(-).dsk" size 204544 crc e7537630 md5 5f581b2e3fc3b55c9ab45280fd067274 )
+)
+
+game (
+	name "Compilation Disk 198 (19xx)(-)"
+	description "Compilation Disk 198 (19xx)(-)"
+	rom ( name "Compilation Disk 198 (19xx)(-).dsk" size 192512 crc b476d225 md5 ad9c4d6c9ed352aa6d8c8435935ca87f )
+)
+
+game (
+	name "Compilation Disk 199 (19xx)(-)"
+	description "Compilation Disk 199 (19xx)(-)"
+	rom ( name "Compilation Disk 199 (19xx)(-).dsk" size 199680 crc a66c13db md5 475d991719eb80f134e48805324fdf16 )
+)
+
+game (
+	name "Compilation Disk 200 (19xx)(-)"
+	description "Compilation Disk 200 (19xx)(-)"
+	rom ( name "Compilation Disk 200 (19xx)(-).dsk" size 194816 crc ab32abb0 md5 cc0364263b18fe65f387c502eacc5243 )
+)
+
+game (
+	name "Compilation Disk 201 (19xx)(-)"
+	description "Compilation Disk 201 (19xx)(-)"
+	rom ( name "Compilation Disk 201 (19xx)(-).dsk" size 194816 crc d33a7577 md5 0b4627816600f1c8693f8b0d5df303b7 )
+)
+
+game (
+	name "Compilation Disk 202 (19xx)(-)"
+	description "Compilation Disk 202 (19xx)(-)"
+	rom ( name "Compilation Disk 202 (19xx)(-).dsk" size 194816 crc 8c5d044b md5 ac63efcb0329e3227b047cb0f52decb6 )
+)
+
+game (
+	name "Compilation Disk 203 (19xx)(-)"
+	description "Compilation Disk 203 (19xx)(-)"
+	rom ( name "Compilation Disk 203 (19xx)(-).dsk" size 194816 crc 1cd3a0de md5 51bd1ec0f75221eff21064fcb3277265 )
+)
+
+game (
+	name "Compilation Disk 204 (19xx)(-)"
+	description "Compilation Disk 204 (19xx)(-)"
+	rom ( name "Compilation Disk 204 (19xx)(-).dsk" size 219136 crc 738d9c85 md5 9b81175af04b68302a6694272fe79d45 )
+)
+
+game (
+	name "Compilation Disk 205 (19xx)(-)"
+	description "Compilation Disk 205 (19xx)(-)"
+	rom ( name "Compilation Disk 205 (19xx)(-).dsk" size 194816 crc 75ab1add md5 44e59d34560e284b1a50bef8a5c94403 )
+)
+
+game (
+	name "Compilation Disk 206 (19xx)(-)"
+	description "Compilation Disk 206 (19xx)(-)"
+	rom ( name "Compilation Disk 206 (19xx)(-).dsk" size 194816 crc fa9f769c md5 4214f2c75e31e6e4ae6242056a1d76b5 )
+)
+
+game (
+	name "Compilation Disk 207 (19xx)(-)"
+	description "Compilation Disk 207 (19xx)(-)"
+	rom ( name "Compilation Disk 207 (19xx)(-).dsk" size 185088 crc 37901900 md5 99b2c6c961ab606e45725b7c091b0fc9 )
+)
+
+game (
+	name "Compilation Disk 208 (19xx)(-)"
+	description "Compilation Disk 208 (19xx)(-)"
+	rom ( name "Compilation Disk 208 (19xx)(-).dsk" size 194816 crc d1f54e73 md5 0e9dabbfa43a5fe3de560be4040fc437 )
+)
+
+game (
+	name "Compilation Disk 209 (19xx)(-)"
+	description "Compilation Disk 209 (19xx)(-)"
+	rom ( name "Compilation Disk 209 (19xx)(-).dsk" size 194816 crc 1bf7af76 md5 cf7eae4c8170be04206447820e3bb156 )
+)
+
+game (
+	name "Compilation Disk 210 (19xx)(-)"
+	description "Compilation Disk 210 (19xx)(-)"
+	rom ( name "Compilation Disk 210 (19xx)(-).dsk" size 194816 crc dee13050 md5 3239a849c2816895c613a467b4899925 )
+)
+
+game (
+	name "Compilation Disk 211 (19xx)(-)"
+	description "Compilation Disk 211 (19xx)(-)"
+	rom ( name "Compilation Disk 211 (19xx)(-).dsk" size 194816 crc 4cd2c397 md5 abb771d4eec0977022fc6c05d9321f2b )
+)
+
+game (
+	name "Compilation Disk 212 (19xx)(-)"
+	description "Compilation Disk 212 (19xx)(-)"
+	rom ( name "Compilation Disk 212 (19xx)(-).dsk" size 194560 crc 63efd3df md5 7723efda6b89af137b77a183fcb73d69 )
+)
+
+game (
+	name "Compilation Disk 213 (19xx)(-)"
+	description "Compilation Disk 213 (19xx)(-)"
+	rom ( name "Compilation Disk 213 (19xx)(-).dsk" size 194816 crc 91bd24a8 md5 e04465f38095544f2975c4929062d568 )
+)
+
+game (
+	name "Compilation Disk 214 (19xx)(-)"
+	description "Compilation Disk 214 (19xx)(-)"
+	rom ( name "Compilation Disk 214 (19xx)(-).dsk" size 194816 crc 7f19281d md5 30dd88481868e04aef9a799891c32cc3 )
+)
+
+game (
+	name "Compilation Disk 215 (19xx)(-)"
+	description "Compilation Disk 215 (19xx)(-)"
+	rom ( name "Compilation Disk 215 (19xx)(-).dsk" size 209408 crc 27dd548c md5 c07405ed3fbfd54cd7b137b69ee30419 )
+)
+
+game (
+	name "Compilation Disk 216 (19xx)(-)"
+	description "Compilation Disk 216 (19xx)(-)"
+	rom ( name "Compilation Disk 216 (19xx)(-).dsk" size 199680 crc b4cf24d8 md5 9709c9b72de137691a64835a00abb976 )
+)
+
+game (
+	name "Compilation Disk 217 (19xx)(-)"
+	description "Compilation Disk 217 (19xx)(-)"
+	rom ( name "Compilation Disk 217 (19xx)(-).dsk" size 194816 crc 735f3894 md5 3461a799a80f05d72e112720a03be918 )
+)
+
+game (
+	name "Compilation Disk 218 (19xx)(-)"
+	description "Compilation Disk 218 (19xx)(-)"
+	rom ( name "Compilation Disk 218 (19xx)(-).dsk" size 194816 crc 4718459f md5 38de15bb9402838cf08daa968a2c1d6c )
+)
+
+game (
+	name "Compilation Disk 219 (19xx)(-)"
+	description "Compilation Disk 219 (19xx)(-)"
+	rom ( name "Compilation Disk 219 (19xx)(-).dsk" size 194816 crc f6cbce4a md5 77b094c2317e2282e45e1f02278e83ac )
+)
+
+game (
+	name "Compilation Disk 220 (19xx)(-)"
+	description "Compilation Disk 220 (19xx)(-)"
+	rom ( name "Compilation Disk 220 (19xx)(-).dsk" size 194816 crc 2c31bc9b md5 260970c5851a7b81a1dbd26a49f828f5 )
+)
+
+game (
+	name "Compilation Disk 221 (19xx)(-)"
+	description "Compilation Disk 221 (19xx)(-)"
+	rom ( name "Compilation Disk 221 (19xx)(-).dsk" size 194816 crc ea6b7782 md5 4799eafb80ecd1a953322c802c7b2c4b )
+)
+
+game (
+	name "Compilation Disk 222 (19xx)(-)"
+	description "Compilation Disk 222 (19xx)(-)"
+	rom ( name "Compilation Disk 222 (19xx)(-).dsk" size 194816 crc f933bff8 md5 db09780305bfe54e3552fa9e56074fed )
+)
+
+game (
+	name "Compilation Disk 223 (19xx)(-)"
+	description "Compilation Disk 223 (19xx)(-)"
+	rom ( name "Compilation Disk 223 (19xx)(-).dsk" size 194816 crc 79e61e9f md5 bc8d05a1793fea0af66b66cf5b9925c3 )
+)
+
+game (
+	name "Compilation Disk 224 (19xx)(-)"
+	description "Compilation Disk 224 (19xx)(-)"
+	rom ( name "Compilation Disk 224 (19xx)(-).dsk" size 194816 crc 800f1ec3 md5 0a1f1ab3a5d6e39dca910ebef7c71b5e )
+)
+
+game (
+	name "Compilation Disk 225 (19xx)(-)"
+	description "Compilation Disk 225 (19xx)(-)"
+	rom ( name "Compilation Disk 225 (19xx)(-).dsk" size 194816 crc c734eee3 md5 d0505b1da32b41a04c9f9dfd4d5d8003 )
+)
+
+game (
+	name "Compilation Disk 226 (19xx)(-)"
+	description "Compilation Disk 226 (19xx)(-)"
+	rom ( name "Compilation Disk 226 (19xx)(-).dsk" size 203520 crc 3cfd9eb4 md5 5cbd04d5b74ca59429272d9a139f90cf )
+)
+
+game (
+	name "Compilation Disk 227 (19xx)(-)"
+	description "Compilation Disk 227 (19xx)(-)"
+	rom ( name "Compilation Disk 227 (19xx)(-).dsk" size 194816 crc ec3c9881 md5 c27b353298cd755f25a6a593776db749 )
+)
+
+game (
+	name "Compilation Disk 228 (19xx)(-)"
+	description "Compilation Disk 228 (19xx)(-)"
+	rom ( name "Compilation Disk 228 (19xx)(-).dsk" size 194816 crc 8c7e83d7 md5 84779a840c3ad1751bce326390adbccf )
+)
+
+game (
+	name "Compilation Disk 229 (19xx)(-)"
+	description "Compilation Disk 229 (19xx)(-)"
+	rom ( name "Compilation Disk 229 (19xx)(-).dsk" size 194560 crc b5267b0d md5 4d26e18c266e7e146f744f6c8c98fb45 )
+)
+
+game (
+	name "Compilation Disk 230 (19xx)(-)"
+	description "Compilation Disk 230 (19xx)(-)"
+	rom ( name "Compilation Disk 230 (19xx)(-).dsk" size 193792 crc a71e1166 md5 0519a78fdcefaa3c70c5bec6e7422bae )
+)
+
+game (
+	name "Compilation Disk 231 (19xx)(-)"
+	description "Compilation Disk 231 (19xx)(-)"
+	rom ( name "Compilation Disk 231 (19xx)(-).dsk" size 194816 crc f7b57a7e md5 31190817d824602472ffbebe02f21a50 )
+)
+
+game (
+	name "Compilation Disk 232 (19xx)(-)"
+	description "Compilation Disk 232 (19xx)(-)"
+	rom ( name "Compilation Disk 232 (19xx)(-).dsk" size 194816 crc 49bfe600 md5 8ecc83881035dac58918be8057037e47 )
+)
+
+game (
+	name "Compilation Disk 233 (19xx)(-)"
+	description "Compilation Disk 233 (19xx)(-)"
+	rom ( name "Compilation Disk 233 (19xx)(-).dsk" size 194816 crc cb3752e2 md5 7a62f271fe72990b2666ae9484158811 )
+)
+
+game (
+	name "Compilation Disk 234 (19xx)(-)"
+	description "Compilation Disk 234 (19xx)(-)"
+	rom ( name "Compilation Disk 234 (19xx)(-).dsk" size 194816 crc c0ff182c md5 36f83eda0218265df436a42863131b4e )
+)
+
+game (
+	name "Compilation Disk 235 (19xx)(-)"
+	description "Compilation Disk 235 (19xx)(-)"
+	rom ( name "Compilation Disk 235 (19xx)(-).dsk" size 194816 crc 5aa2cc4d md5 2cb6b313bc2923841941fe1d393aef95 )
+)
+
+game (
+	name "Compilation Disk 236 (19xx)(-)"
+	description "Compilation Disk 236 (19xx)(-)"
+	rom ( name "Compilation Disk 236 (19xx)(-).dsk" size 196608 crc d3060f03 md5 ca2e5f22b07053f022f5c1d4525726a3 )
+)
+
+game (
+	name "Compilation Disk 237 (19xx)(-)"
+	description "Compilation Disk 237 (19xx)(-)"
+	rom ( name "Compilation Disk 237 (19xx)(-).dsk" size 192000 crc 6cbe2cec md5 39244c959f9ef45e37988a5d018985d1 )
+)
+
+game (
+	name "Compilation Disk 238 (19xx)(-)"
+	description "Compilation Disk 238 (19xx)(-)"
+	rom ( name "Compilation Disk 238 (19xx)(-).dsk" size 199680 crc e07fcf4d md5 ebbf39f5af73f5bf1bb705ce355268ff )
+)
+
+game (
+	name "Compilation Disk 239 (19xx)(-)"
+	description "Compilation Disk 239 (19xx)(-)"
+	rom ( name "Compilation Disk 239 (19xx)(-).dsk" size 204032 crc 3950fc71 md5 368145ad7c666e0eb633197facd2051d )
+)
+
+game (
+	name "Compilation Disk 240 (19xx)(-)"
+	description "Compilation Disk 240 (19xx)(-)"
+	rom ( name "Compilation Disk 240 (19xx)(-).dsk" size 194560 crc 4c86c60a md5 c080004c0a6e7ee10daa178d7bfc010a )
+)
+
+game (
+	name "Compilation Disk 241 (19xx)(-)"
+	description "Compilation Disk 241 (19xx)(-)"
+	rom ( name "Compilation Disk 241 (19xx)(-).dsk" size 194560 crc 2867cc4b md5 0f751215421500de8334696a4cd48b5b )
+)
+
+game (
+	name "Compilation Disk 242 (19xx)(-)"
+	description "Compilation Disk 242 (19xx)(-)"
+	rom ( name "Compilation Disk 242 (19xx)(-).dsk" size 204544 crc a9915490 md5 2d0b379d4433dae4aca055cef3dd4498 )
+)
+
+game (
+	name "Compilation Disk 243 (19xx)(-)"
+	description "Compilation Disk 243 (19xx)(-)"
+	rom ( name "Compilation Disk 243 (19xx)(-).dsk" size 194816 crc 09ebfa98 md5 ae7d0c66c15e7829e23169a755632272 )
+)
+
+game (
+	name "Compilation Disk 244 (19xx)(-)"
+	description "Compilation Disk 244 (19xx)(-)"
+	rom ( name "Compilation Disk 244 (19xx)(-).dsk" size 194816 crc 2e69574a md5 e12ee3fc44d72589937b8a2793098731 )
+)
+
+game (
+	name "Compilation Disk 245 (19xx)(-)"
+	description "Compilation Disk 245 (19xx)(-)"
+	rom ( name "Compilation Disk 245 (19xx)(-).dsk" size 204032 crc 0ba39d0f md5 8beb6ec465b1a9c8ee4e169e36c4b5e3 )
+)
+
+game (
+	name "Compilation Disk 246 (19xx)(-)"
+	description "Compilation Disk 246 (19xx)(-)"
+	rom ( name "Compilation Disk 246 (19xx)(-).dsk" size 194816 crc b616a819 md5 ed2c4af728bf63dfd2e37b9d7368bd3a )
+)
+
+game (
+	name "Compilation Disk 247 (19xx)(-)"
+	description "Compilation Disk 247 (19xx)(-)"
+	rom ( name "Compilation Disk 247 (19xx)(-).dsk" size 219136 crc f9dd4822 md5 64ede512f9964b6ef347bab1952aee00 )
+)
+
+game (
+	name "Compilation Disk 248 (19xx)(-)"
+	description "Compilation Disk 248 (19xx)(-)"
+	rom ( name "Compilation Disk 248 (19xx)(-).dsk" size 194816 crc 6e493d5b md5 fc546877d97109805df1cbf3f9a9259b )
+)
+
+game (
+	name "Compilation Disk 249 (19xx)(-)"
+	description "Compilation Disk 249 (19xx)(-)"
+	rom ( name "Compilation Disk 249 (19xx)(-).dsk" size 194816 crc e5a7402e md5 866d906a0a95f44e53de1769ad884db4 )
+)
+
+game (
+	name "Compilation Disk 250 (19xx)(-)"
+	description "Compilation Disk 250 (19xx)(-)"
+	rom ( name "Compilation Disk 250 (19xx)(-).dsk" size 194816 crc f470af57 md5 f256284a7f52bfef846aea0b2d76664a )
+)
+
+game (
+	name "Compilation Disk 251 (19xx)(-)"
+	description "Compilation Disk 251 (19xx)(-)"
+	rom ( name "Compilation Disk 251 (19xx)(-).dsk" size 194816 crc 1937edf9 md5 2840768bc9a942da94070e08a972086f )
+)
+
+game (
+	name "Compilation Disk 252 (19xx)(-)"
+	description "Compilation Disk 252 (19xx)(-)"
+	rom ( name "Compilation Disk 252 (19xx)(-).dsk" size 194560 crc 64a1d0d8 md5 cd707e3d0ed3567477386e86296d87a8 )
+)
+
+game (
+	name "Compilation Disk 253 (19xx)(-)"
+	description "Compilation Disk 253 (19xx)(-)"
+	rom ( name "Compilation Disk 253 (19xx)(-).dsk" size 194816 crc b9074d17 md5 a246f31edb5ac46e7393bd6f8b80c675 )
+)
+
+game (
+	name "Compilation Disk 254 (19xx)(-)"
+	description "Compilation Disk 254 (19xx)(-)"
+	rom ( name "Compilation Disk 254 (19xx)(-).dsk" size 194816 crc b43c96b5 md5 d998394c5a0fb590407a8484b815b643 )
+)
+
+game (
+	name "Compilation Disk 255 (19xx)(-)"
+	description "Compilation Disk 255 (19xx)(-)"
+	rom ( name "Compilation Disk 255 (19xx)(-).dsk" size 204544 crc cefaa692 md5 fc9c0ab4e7179f51ebaa245900122c5a )
+)
+
+game (
+	name "Compilation Disk 256 (19xx)(-)"
+	description "Compilation Disk 256 (19xx)(-)"
+	rom ( name "Compilation Disk 256 (19xx)(-).dsk" size 204544 crc aacbcc4a md5 8cc2123089d99a7263612e619da4e51d )
+)
+
+game (
+	name "Compilation Disk 257 (19xx)(-)"
+	description "Compilation Disk 257 (19xx)(-)"
+	rom ( name "Compilation Disk 257 (19xx)(-).dsk" size 189696 crc fe3d7c5d md5 5d0ec89267bb15b905f7e891072c7ee0 )
+)
+
+game (
+	name "Compilation Disk 258 (19xx)(-)"
+	description "Compilation Disk 258 (19xx)(-)"
+	rom ( name "Compilation Disk 258 (19xx)(-).dsk" size 204544 crc fc3787f8 md5 ccc36d7ad621bf1d91d9e86153def368 )
+)
+
+game (
+	name "Compilation Disk 259 (19xx)(-)"
+	description "Compilation Disk 259 (19xx)(-)"
+	rom ( name "Compilation Disk 259 (19xx)(-).dsk" size 199680 crc 5718db35 md5 b872887229e99638f0ddb6576ed526b3 )
+)
+
+game (
+	name "Compilation Disk 260 (19xx)(-)"
+	description "Compilation Disk 260 (19xx)(-)"
+	rom ( name "Compilation Disk 260 (19xx)(-).dsk" size 194816 crc c88ff2c5 md5 5d57be94e1ee36859f555be6a36d6c63 )
+)
+
+game (
+	name "Compilation Disk 261 (19xx)(-)"
+	description "Compilation Disk 261 (19xx)(-)"
+	rom ( name "Compilation Disk 261 (19xx)(-).dsk" size 194816 crc 38d04502 md5 ab91a7156039d74db530302ddc5d995b )
+)
+
+game (
+	name "Compilation Disk 262 (19xx)(-)"
+	description "Compilation Disk 262 (19xx)(-)"
+	rom ( name "Compilation Disk 262 (19xx)(-).dsk" size 194816 crc 1371e80c md5 ce8317a6d72cece5b7da40941dec5b47 )
+)
+
+game (
+	name "Compilation Disk 263 (19xx)(-)"
+	description "Compilation Disk 263 (19xx)(-)"
+	rom ( name "Compilation Disk 263 (19xx)(-).dsk" size 198912 crc e293acb1 md5 f8f628fa147f8650bac1743521dc23cc )
+)
+
+game (
+	name "Compilation Disk 264 (19xx)(-)"
+	description "Compilation Disk 264 (19xx)(-)"
+	rom ( name "Compilation Disk 264 (19xx)(-).dsk" size 194816 crc 1475c02c md5 3f8789052244e0a730fedbd537b08399 )
+)
+
+game (
+	name "Compilation Disk 265 (19xx)(-)"
+	description "Compilation Disk 265 (19xx)(-)"
+	rom ( name "Compilation Disk 265 (19xx)(-).dsk" size 194816 crc 188cbf93 md5 6bcf9c85e134c77abc339b3192752c62 )
+)
+
+game (
+	name "Compilation Disk 266 (19xx)(-)"
+	description "Compilation Disk 266 (19xx)(-)"
+	rom ( name "Compilation Disk 266 (19xx)(-).dsk" size 194816 crc 8f5c2b3e md5 482cbaad657a15c01080304d8c7c0c22 )
+)
+
+game (
+	name "Compilation Disk 267 (19xx)(-)"
+	description "Compilation Disk 267 (19xx)(-)"
+	rom ( name "Compilation Disk 267 (19xx)(-).dsk" size 194816 crc e4353a13 md5 232fcb6b5dd7af8287d9c00e678851e7 )
+)
+
+game (
+	name "Compilation Disk 268 (19xx)(-)"
+	description "Compilation Disk 268 (19xx)(-)"
+	rom ( name "Compilation Disk 268 (19xx)(-).dsk" size 204544 crc 40a441d7 md5 8f962d756df9261d94fcb48dd18218eb )
+)
+
+game (
+	name "Compilation Disk 269 (19xx)(-)"
+	description "Compilation Disk 269 (19xx)(-)"
+	rom ( name "Compilation Disk 269 (19xx)(-).dsk" size 194560 crc cc12a298 md5 2fb571ad8140561889ce425a02ad3540 )
+)
+
+game (
+	name "Compilation Disk 270 (19xx)(-)"
+	description "Compilation Disk 270 (19xx)(-)"
+	rom ( name "Compilation Disk 270 (19xx)(-).dsk" size 204544 crc 6c6f7e1b md5 714de9935720188593f8d48c158bd0a5 )
+)
+
+game (
+	name "Compilation Disk 271 (19xx)(-)"
+	description "Compilation Disk 271 (19xx)(-)"
+	rom ( name "Compilation Disk 271 (19xx)(-).dsk" size 204544 crc dd2ae76b md5 3e4d1f4b6a44a701c00e56ba345c5fb0 )
+)
+
+game (
+	name "Compilation Disk 272 (19xx)(-)"
+	description "Compilation Disk 272 (19xx)(-)"
+	rom ( name "Compilation Disk 272 (19xx)(-).dsk" size 194816 crc 75cd2706 md5 5812b39b563a85990d62d9f39fcdc02d )
+)
+
+game (
+	name "Compilation Disk 273 (19xx)(-)"
+	description "Compilation Disk 273 (19xx)(-)"
+	rom ( name "Compilation Disk 273 (19xx)(-).dsk" size 199680 crc 3971109b md5 05c24aeff12cb00387d0ddd7a855e324 )
+)
+
+game (
+	name "Compilation Disk 274 (19xx)(-)"
+	description "Compilation Disk 274 (19xx)(-)"
+	rom ( name "Compilation Disk 274 (19xx)(-).dsk" size 194816 crc 68d82497 md5 e7655d805c11203c404fcf45ea42761e )
+)
+
+game (
+	name "Compilation Disk 275 (19xx)(-)"
+	description "Compilation Disk 275 (19xx)(-)"
+	rom ( name "Compilation Disk 275 (19xx)(-).dsk" size 194816 crc 540a1396 md5 82fa9b229ff7fc2d25dbc82b9b444b5d )
+)
+
+game (
+	name "Compilation Disk 276 (19xx)(-)"
+	description "Compilation Disk 276 (19xx)(-)"
+	rom ( name "Compilation Disk 276 (19xx)(-).dsk" size 194816 crc 79e0f366 md5 88cc8cbc0d0196ac488b8580277c9665 )
+)
+
+game (
+	name "Compilation Disk 277 (19xx)(-)"
+	description "Compilation Disk 277 (19xx)(-)"
+	rom ( name "Compilation Disk 277 (19xx)(-).dsk" size 194816 crc df1df88a md5 cc163423c7e4baa7a9045a8664798b56 )
+)
+
+game (
+	name "Compilation Disk 278 (19xx)(-)"
+	description "Compilation Disk 278 (19xx)(-)"
+	rom ( name "Compilation Disk 278 (19xx)(-).dsk" size 194816 crc 4c8add6c md5 0519c843b6a8454a35c891587afec89b )
+)
+
+game (
+	name "Compilation Disk 279 (19xx)(-)"
+	description "Compilation Disk 279 (19xx)(-)"
+	rom ( name "Compilation Disk 279 (19xx)(-).dsk" size 194816 crc e76a76e0 md5 eb5d63dc1a77660be1be1ee0844e1b5f )
+)
+
+game (
+	name "Compilation Disk 280 (19xx)(-)"
+	description "Compilation Disk 280 (19xx)(-)"
+	rom ( name "Compilation Disk 280 (19xx)(-).dsk" size 194816 crc eb1178d7 md5 50cbb9a0249911b89722b2e51679cf52 )
+)
+
+game (
+	name "Compilation Disk 281 (19xx)(-)"
+	description "Compilation Disk 281 (19xx)(-)"
+	rom ( name "Compilation Disk 281 (19xx)(-).dsk" size 194816 crc ee5f37d0 md5 2ab8a3cca7655e0abe4ccc238d17482a )
+)
+
+game (
+	name "Compilation Disk 282 (19xx)(-)"
+	description "Compilation Disk 282 (19xx)(-)"
+	rom ( name "Compilation Disk 282 (19xx)(-).dsk" size 194816 crc e0c292d0 md5 b233a73d62b3c8e2b016d084f4b25d42 )
+)
+
+game (
+	name "Compilation Disk 283 (19xx)(-)"
+	description "Compilation Disk 283 (19xx)(-)"
+	rom ( name "Compilation Disk 283 (19xx)(-).dsk" size 194560 crc 661d8958 md5 bdf4632bace6dfac8ce47ef02cca6422 )
+)
+
+game (
+	name "Compilation Disk 284 (19xx)(-)"
+	description "Compilation Disk 284 (19xx)(-)"
+	rom ( name "Compilation Disk 284 (19xx)(-).dsk" size 194816 crc 43f5727a md5 158c1381021a274d41015703363f8e29 )
+)
+
+game (
+	name "Compilation Disk 285 (19xx)(-)"
+	description "Compilation Disk 285 (19xx)(-)"
+	rom ( name "Compilation Disk 285 (19xx)(-).dsk" size 194816 crc 81636be7 md5 c1314bbbec394deab6a1bfb95e213a72 )
+)
+
+game (
+	name "Compilation Disk 286 (19xx)(-)"
+	description "Compilation Disk 286 (19xx)(-)"
+	rom ( name "Compilation Disk 286 (19xx)(-).dsk" size 194816 crc 164dafb7 md5 ad68bfa3789fc250a36bf8364abb6136 )
+)
+
+game (
+	name "Compilation Disk 287 (19xx)(-)"
+	description "Compilation Disk 287 (19xx)(-)"
+	rom ( name "Compilation Disk 287 (19xx)(-).dsk" size 194816 crc 3a68c9bd md5 2373ecf56a568cf75c9d69d1ca61a99f )
+)
+
+game (
+	name "Compilation Disk 288 (19xx)(-)"
+	description "Compilation Disk 288 (19xx)(-)"
+	rom ( name "Compilation Disk 288 (19xx)(-).dsk" size 196352 crc f5b62f7c md5 e1f1ebe3a11d7714c6d78516b4a4c837 )
+)
+
+game (
+	name "Compilation Disk 289 (19xx)(-)"
+	description "Compilation Disk 289 (19xx)(-)"
+	rom ( name "Compilation Disk 289 (19xx)(-).dsk" size 194816 crc a91eac71 md5 560512f15e0d69d272f4272e5583e55a )
+)
+
+game (
+	name "Compilation Disk 290 (19xx)(-)"
+	description "Compilation Disk 290 (19xx)(-)"
+	rom ( name "Compilation Disk 290 (19xx)(-).dsk" size 194816 crc 97d0086d md5 ff0a1f47dc4dffe32856bea9ed064114 )
+)
+
+game (
+	name "Compilation Disk 291 (19xx)(-)"
+	description "Compilation Disk 291 (19xx)(-)"
+	rom ( name "Compilation Disk 291 (19xx)(-).dsk" size 194816 crc 6315f306 md5 4c028af7c32d8e22f7b36592aaa1ed8b )
+)
+
+game (
+	name "Compilation Disk 292 (19xx)(-)"
+	description "Compilation Disk 292 (19xx)(-)"
+	rom ( name "Compilation Disk 292 (19xx)(-).dsk" size 194816 crc 0838e097 md5 37173b47c5614666474ce8342bb27017 )
+)
+
+game (
+	name "Compilation Disk 293 (19xx)(-)"
+	description "Compilation Disk 293 (19xx)(-)"
+	rom ( name "Compilation Disk 293 (19xx)(-).dsk" size 194816 crc 788dcaaa md5 caf63bee5cef530077bed4c0f9607de4 )
+)
+
+game (
+	name "Compilation Disk 294 (19xx)(-)"
+	description "Compilation Disk 294 (19xx)(-)"
+	rom ( name "Compilation Disk 294 (19xx)(-).dsk" size 194816 crc acf568bb md5 e85be209096cedac1f77f1fe116907f3 )
+)
+
+game (
+	name "Compilation Disk 295 (19xx)(-)"
+	description "Compilation Disk 295 (19xx)(-)"
+	rom ( name "Compilation Disk 295 (19xx)(-).dsk" size 190720 crc 78009a26 md5 939de69f8712e0ae56d2be98d92ffd0a )
+)
+
+game (
+	name "Compilation Disk 296 (19xx)(-)"
+	description "Compilation Disk 296 (19xx)(-)"
+	rom ( name "Compilation Disk 296 (19xx)(-).dsk" size 194816 crc d70a0719 md5 aacbd9fd6633f3f24f9900bb947abe14 )
+)
+
+game (
+	name "Compilation Disk 297 (19xx)(-)"
+	description "Compilation Disk 297 (19xx)(-)"
+	rom ( name "Compilation Disk 297 (19xx)(-).dsk" size 194816 crc 19d041de md5 dae026257ea5bb1ea9c1e1214d04403a )
+)
+
+game (
+	name "Compilation Disk 298 (19xx)(-)"
+	description "Compilation Disk 298 (19xx)(-)"
+	rom ( name "Compilation Disk 298 (19xx)(-).dsk" size 194816 crc 310a9b46 md5 f5ae3395f49fee65c25bf984b59c3d8b )
+)
+
+game (
+	name "Compilation Disk 299 (19xx)(-)"
+	description "Compilation Disk 299 (19xx)(-)"
+	rom ( name "Compilation Disk 299 (19xx)(-).dsk" size 194816 crc 4ac4ab85 md5 136219430112d8e0a09c5830838f78a0 )
+)
+
+game (
+	name "Compilation Disk 300 (19xx)(-)"
+	description "Compilation Disk 300 (19xx)(-)"
+	rom ( name "Compilation Disk 300 (19xx)(-).dsk" size 194816 crc 2fa905cf md5 eb7fec52a0f2ff0ff8a8191de26e692e )
+)
+
+game (
+	name "Compilation Disk 301 (19xx)(-)"
+	description "Compilation Disk 301 (19xx)(-)"
+	rom ( name "Compilation Disk 301 (19xx)(-).dsk" size 194816 crc b4f3b556 md5 ea52e2a380561e7173437f8a53dd7f9e )
+)
+
+game (
+	name "Compilation Disk 302 (19xx)(-)"
+	description "Compilation Disk 302 (19xx)(-)"
+	rom ( name "Compilation Disk 302 (19xx)(-).dsk" size 194816 crc a2c9948e md5 98bdeac200c4678997f8f78ea1bf9449 )
+)
+
+game (
+	name "Compilation Disk 303 (19xx)(-)"
+	description "Compilation Disk 303 (19xx)(-)"
+	rom ( name "Compilation Disk 303 (19xx)(-).dsk" size 194816 crc 2e1cb8a4 md5 6a01e854b5b8885fecbfd72f436d1994 )
+)
+
+game (
+	name "Compilation Disk 304 (19xx)(-)"
+	description "Compilation Disk 304 (19xx)(-)"
+	rom ( name "Compilation Disk 304 (19xx)(-).dsk" size 194816 crc 2eb702c2 md5 b1f98a7551f80ce15f5d92171f81b283 )
+)
+
+game (
+	name "Compilation Disk 305 (19xx)(-)(Disk 1 of 2)"
+	description "Compilation Disk 305 (19xx)(-)(Disk 1 of 2)"
+	rom ( name "Compilation Disk 305 (19xx)(-)(Disk 1 of 2).dsk" size 194560 crc f22c4131 md5 4a14a009457191c70128826e638961c1 )
+)
+
+game (
+	name "Compilation Disk 305 (19xx)(-)(Disk 2 of 2)"
+	description "Compilation Disk 305 (19xx)(-)(Disk 2 of 2)"
+	rom ( name "Compilation Disk 305 (19xx)(-)(Disk 2 of 2).dsk" size 194560 crc d5fa091c md5 04394de53638738be78ac047e11b73df )
+)
+
+game (
+	name "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side A)"
+	description "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side A)"
+	rom ( name "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side A).dsk" size 256512 crc 41356617 md5 f880dd21317bc69aecf55b386d726b24 )
+)
+
+game (
+	name "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side B)"
+	description "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side B)"
+	rom ( name "Dynamite (1990)(Ocean Software)(Disk 1 of 2 Side B).dsk" size 261120 crc 0782343a md5 31abd5806fa5c5039bc4f164795ca55d )
+)
+
+game (
+	name "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side A)"
+	description "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side A)"
+	rom ( name "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side A).dsk" size 248320 crc fe3173ed md5 adf53b16eaf6bfae0a1d6bffdf50459c )
+)
+
+game (
+	name "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side B)"
+	description "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side B)"
+	rom ( name "Dynamite (1990)(Ocean Software)(Disk 2 of 2 Side B).dsk" size 204544 crc 899fcf4b md5 824d1d769b692eb77ee3556dcb0c68aa )
+)
+
+game (
+	name "Five Star Games (1987)(Beau-Jolly)(Disk 1 of 2)"
+	description "Five Star Games (1987)(Beau-Jolly)(Disk 1 of 2)"
+	rom ( name "Five Star Games (1987)(Beau-Jolly)(Disk 1 of 2).dsk" size 199680 crc 17b542e8 md5 955318dea94d8665de5725b807a3e058 )
+)
+
+game (
+	name "Five Star Games (1987)(Beau-Jolly)(Disk 2 of 2)"
+	description "Five Star Games (1987)(Beau-Jolly)(Disk 2 of 2)"
+	rom ( name "Five Star Games (1987)(Beau-Jolly)(Disk 2 of 2).dsk" size 199680 crc bf1d545a md5 3f0c47b2d7cec78bcd37e07a3ca2bfc6 )
+)
+
+game (
+	name "Geants d'Arcade 2, Les (19xx)(-)(Disk 1 of 3)"
+	description "Geants d'Arcade 2, Les (19xx)(-)(Disk 1 of 3)"
+	rom ( name "Geants d'Arcade 2, Les (19xx)(-)(Disk 1 of 3).dsk" size 194816 crc c0f06c26 md5 750d50dd3e813e4abb040f9882485697 )
+)
+
+game (
+	name "Geants d'Arcade 2, Les (19xx)(-)(Disk 2 of 3)"
+	description "Geants d'Arcade 2, Les (19xx)(-)(Disk 2 of 3)"
+	rom ( name "Geants d'Arcade 2, Les (19xx)(-)(Disk 2 of 3).dsk" size 188672 crc 7d79d92b md5 380de358cfa5ff7e14fab1114b4a9429 )
+)
+
+game (
+	name "Geants d'Arcade 2, Les (19xx)(-)(Disk 3 of 3)"
+	description "Geants d'Arcade 2, Les (19xx)(-)(Disk 3 of 3)"
+	rom ( name "Geants d'Arcade 2, Les (19xx)(-)(Disk 3 of 3).dsk" size 194816 crc 94e2a0d4 md5 ba5d75dd2a2a382e0bbef35d455d6270 )
+)
+
+game (
+	name "Gold Hits (19xx)(US Gold)(Disk 1 of 2)"
+	description "Gold Hits (19xx)(US Gold)(Disk 1 of 2)"
+	rom ( name "Gold Hits (19xx)(US Gold)(Disk 1 of 2).dsk" size 194304 crc d90b197f md5 3a769228a6f3586e8e1963a985ff190f )
+)
+
+game (
+	name "Gold Hits (19xx)(US Gold)(Disk 2 of 2)"
+	description "Gold Hits (19xx)(US Gold)(Disk 2 of 2)"
+	rom ( name "Gold Hits (19xx)(US Gold)(Disk 2 of 2).dsk" size 194304 crc 81ec3b02 md5 e077b26381c51bc4a738e58e25a30592 )
+)
+
+game (
+	name "Justiciers, Les (19xx)(Ocean Software)(Disk 1 of 2)"
+	description "Justiciers, Les (19xx)(Ocean Software)(Disk 1 of 2)"
+	rom ( name "Justiciers, Les (19xx)(Ocean Software)(Disk 1 of 2).dsk" size 230400 crc f947679f md5 99f56146c8d0dadcf6591cb288e76d1a )
+)
+
+game (
+	name "Justiciers, Les (19xx)(Ocean Software)(Disk 2 of 2)"
+	description "Justiciers, Les (19xx)(Ocean Software)(Disk 2 of 2)"
+	rom ( name "Justiciers, Les (19xx)(Ocean Software)(Disk 2 of 2).dsk" size 208896 crc b943e7a3 md5 8f6c8e3b92b7df64b194b71e31898502 )
+)
+
+game (
+	name "Magnificent 7, The (1988)(Ocean Software)[cpm version]"
+	description "Magnificent 7, The (1988)(Ocean Software)[cpm version]"
+	rom ( name "Magnificent 7, The (1988)(Ocean Software)[cpm version].dsk" size 217088 crc d7705775 md5 d27e822cf38320fe78dc6eae35600c10 )
+)
+
+game (
+	name "Menu Dessin (19xx)(-)"
+	description "Menu Dessin (19xx)(-)"
+	rom ( name "Menu Dessin (19xx)(-).dsk" size 186880 crc 0fc4c9b2 md5 74a44ebaf005b031a12ffce52b88614a )
+)
+
+game (
+	name "Misc Disk 1 (19xx)(-)"
+	description "Misc Disk 1 (19xx)(-)"
+	rom ( name "Misc Disk 1 (19xx)(-).dsk" size 860416 crc 1cb93ea2 md5 5e5506327b79f2533c479af7f205c335 )
+)
+
+game (
+	name "Misc Disk 2 (19xx)(-)"
+	description "Misc Disk 2 (19xx)(-)"
+	rom ( name "Misc Disk 2 (19xx)(-).dsk" size 860416 crc fd328da1 md5 059303754d18b024ba74d3baedb77f6c )
+)
+
+game (
+	name "Misc Disk 3 (19xx)(-)"
+	description "Misc Disk 3 (19xx)(-)"
+	rom ( name "Misc Disk 3 (19xx)(-).dsk" size 860416 crc c4d6a086 md5 9f54e5e0e1a7252e7cac03b5ca6d5cfd )
+)
+
+game (
+	name "Ocean Compilation (19xx)(Ocean Software)"
+	description "Ocean Compilation (19xx)(Ocean Software)"
+	rom ( name "Ocean Compilation (19xx)(Ocean Software).dsk" size 194560 crc c624f2a4 md5 9fbcc64c1d8f576c349c0a75a42cce5e )
+)
+
+game (
+	name "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 1 of 2)"
+	description "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 1 of 2)"
+	rom ( name "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 1 of 2).dsk" size 204288 crc 424cb3a3 md5 d6436680da9b5d2c15fb096619d75b8d )
+)
+
+game (
+	name "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 2 of 2)"
+	description "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 2 of 2)"
+	rom ( name "Ocean's All Star Hits 2 (19xx)(Ocean Software)(Disk 2 of 2).dsk" size 194560 crc 689d3fee md5 0b56284d4a775fc9130ef7f2368dcc2a )
+)
+
+game (
+	name "Selection, La (19xx)(Ocean Software)(Disk 1 of 2)"
+	description "Selection, La (19xx)(Ocean Software)(Disk 1 of 2)"
+	rom ( name "Selection, La (19xx)(Ocean Software)(Disk 1 of 2).dsk" size 282112 crc aef9c08b md5 ed488f894fe4e701130fe9c12101e53b )
+)
+
+game (
+	name "Selection, La (19xx)(Ocean Software)(Disk 2 of 2)"
+	description "Selection, La (19xx)(Ocean Software)(Disk 2 of 2)"
+	rom ( name "Selection, La (19xx)(Ocean Software)(Disk 2 of 2).dsk" size 288256 crc 6b6b0993 md5 babcbc02a16205af8db9efe7c4605a14 )
+)
+
+game (
+	name "Taito Coin-Op Hits 1 (1989)(Imagine Software)"
+	description "Taito Coin-Op Hits 1 (1989)(Imagine Software)"
+	rom ( name "Taito Coin-Op Hits 1 (1989)(Imagine Software).dsk" size 218880 crc 3289a300 md5 3333f3c1c727c485e353a5afe46358e9 )
+)
+
+game (
+	name "Taito Coin-Op Hits 2 (1989)(Imagine Software)"
+	description "Taito Coin-Op Hits 2 (1989)(Imagine Software)"
+	rom ( name "Taito Coin-Op Hits 2 (1989)(Imagine Software).dsk" size 214528 crc ef57e3b6 md5 a161da17bd6f5f64ceab89d6fe7b9a78 )
+)
+
+game (
+	name "Top 10, The (1988)(Elite Systems)(Disk 1 of 2)[cpm version]"
+	description "Top 10, The (1988)(Elite Systems)(Disk 1 of 2)[cpm version]"
+	rom ( name "Top 10, The (1988)(Elite Systems)(Disk 1 of 2)[cpm version].dsk" size 214784 crc 3cbd4e1b md5 e91e5c9db6895b641540e25fa400c725 )
+)
+
+game (
+	name "Top 10, The (1988)(Elite Systems)(Disk 2 of 2)[cpm version]"
+	description "Top 10, The (1988)(Elite Systems)(Disk 2 of 2)[cpm version]"
+	rom ( name "Top 10, The (1988)(Elite Systems)(Disk 2 of 2)[cpm version].dsk" size 214784 crc 9fb45114 md5 ad010e95472e0a9227bbe0db3cb9bbeb )
+)
+
+game (
+	name "Wheels of Fire (1990)(Domark)(Disk 1 of 4)"
+	description "Wheels of Fire (1990)(Domark)(Disk 1 of 4)"
+	rom ( name "Wheels of Fire (1990)(Domark)(Disk 1 of 4).dsk" size 194816 crc 32fc981c md5 2e3b21ab8f423a3a55f02496bdd202fc )
+)
+
+game (
+	name "Wheels of Fire (1990)(Domark)(Disk 2 of 4)"
+	description "Wheels of Fire (1990)(Domark)(Disk 2 of 4)"
+	rom ( name "Wheels of Fire (1990)(Domark)(Disk 2 of 4).dsk" size 220160 crc dae563cc md5 63235d6f9a8186046ca1cc88ba4fd55f )
+)
+

@@ -1,0 +1,175 @@
+clrmamepro (
+	name "Apple II - Compilations - Applications - [DO]"
+	description "Apple II - Compilations - Applications - [DO] (TOSEC-v2010-01-16)"
+	category "Apple II - Compilations - Applications - [DO]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Apple Fixer, The (1993)(AV Systems)"
+	description "Apple Fixer, The (1993)(AV Systems)"
+	rom ( name "Apple Fixer, The (1993)(AV Systems).do" size 143360 crc 67fe2dcb md5 cce33da91e6ceb8c455a9958c00abcf7 )
+)
+
+game (
+	name "Apple Fixer, The (1993)(AV Systems)[a]"
+	description "Apple Fixer, The (1993)(AV Systems)[a]"
+	rom ( name "Apple Fixer, The (1993)(AV Systems)[a].do" size 143360 crc b444f4c4 md5 bfad58cbb76d343d4d63af526bcb8e70 )
+)
+
+game (
+	name "Apple II Plus - Dealer Service Programs (19xx)(-)(II+)"
+	description "Apple II Plus - Dealer Service Programs (19xx)(-)(II+)"
+	rom ( name "Apple II Plus - Dealer Service Programs (19xx)(-)(II+).do" size 143360 crc 15972800 md5 d887313bc174977365f0e4388f3afdd8 )
+)
+
+game (
+	name "Cracking Programs (198x)(-)"
+	description "Cracking Programs (198x)(-)"
+	rom ( name "Cracking Programs (198x)(-).do" size 143360 crc d20e73a9 md5 40c8f3865a467b3e1a491f35bf055274 )
+)
+
+game (
+	name "Ferg Brand 1 (1982)(Ferg Brand)[no boot]"
+	description "Ferg Brand 1 (1982)(Ferg Brand)[no boot]"
+	rom ( name "Ferg Brand 1 (1982)(Ferg Brand)[no boot].do" size 143360 crc 2e38ccee md5 794f6c969bc4f948a630056e9c6fe153 )
+)
+
+game (
+	name "Ferg Brand 2 (1982)(Ferg Brand)"
+	description "Ferg Brand 2 (1982)(Ferg Brand)"
+	rom ( name "Ferg Brand 2 (1982)(Ferg Brand).do" size 143360 crc af2b5518 md5 580671c689be1e5859488f5145d97975 )
+)
+
+game (
+	name "Ferg Brand 3 (1983)(Ferg Brand)"
+	description "Ferg Brand 3 (1983)(Ferg Brand)"
+	rom ( name "Ferg Brand 3 (1983)(Ferg Brand).do" size 143360 crc 3a505062 md5 3c7840c45381bd51a44f497f05bedd1c )
+)
+
+game (
+	name "Ferg Brand 5 (1984)(Ferg Brand)"
+	description "Ferg Brand 5 (1984)(Ferg Brand)"
+	rom ( name "Ferg Brand 5 (1984)(Ferg Brand).do" size 143360 crc 11a9a6c6 md5 8a1dc4ee9220079314bd035884dff4bd )
+)
+
+game (
+	name "Ferg Brand 6 (1986)(Ferg Brand)"
+	description "Ferg Brand 6 (1986)(Ferg Brand)"
+	rom ( name "Ferg Brand 6 (1986)(Ferg Brand).do" size 143360 crc c136692a md5 c2df61b89d42c59b1852c750ebc0143a )
+)
+
+game (
+	name "Ferg Brand 7 (1987)(Ferg Brand)"
+	description "Ferg Brand 7 (1987)(Ferg Brand)"
+	rom ( name "Ferg Brand 7 (1987)(Ferg Brand).do" size 143360 crc 980c6438 md5 505c2c7e98323e847ea23c6b91e4ccac )
+)
+
+game (
+	name "Ferg Brand Programs (1987)(Ferg Brand)"
+	description "Ferg Brand Programs (1987)(Ferg Brand)"
+	rom ( name "Ferg Brand Programs (1987)(Ferg Brand).do" size 143360 crc e61bc986 md5 f2c27c98bacbea60cb1a12b83f7ad1a2 )
+)
+
+game (
+	name "Grafpak v1.0 (19xx)(Cybernetics)[b]"
+	description "Grafpak v1.0 (19xx)(Cybernetics)[b]"
+	rom ( name "Grafpak v1.0 (19xx)(Cybernetics)[b].do" size 143360 crc bf736bb8 md5 a2c9d17e884a7c1a41e1f38f04fce647 )
+)
+
+game (
+	name "Gyrotron Demonstration Programs (1981)(-)[no boot]"
+	description "Gyrotron Demonstration Programs (1981)(-)[no boot]"
+	rom ( name "Gyrotron Demonstration Programs (1981)(-)[no boot].do" size 143360 crc bae1b2af md5 0186f746441ac3a96359680508c0d761 )
+)
+
+game (
+	name "Hayes Hackamatic, The (19xx)(K.G.B.)"
+	description "Hayes Hackamatic, The (19xx)(K.G.B.)"
+	rom ( name "Hayes Hackamatic, The (19xx)(K.G.B.).do" size 143360 crc 3dfadbf7 md5 5eb0a78c8ee2a928944f10f67fd133bb )
+)
+
+game (
+	name "Machine Language Disk (19xx)(International Apple Core)"
+	description "Machine Language Disk (19xx)(International Apple Core)"
+	rom ( name "Machine Language Disk (19xx)(International Apple Core).do" size 143360 crc 199757ed md5 59ede67ba1870c3369e2363b0470c9f3 )
+)
+
+game (
+	name "Mandelbrot and Julia Sets (19xx)(-)(Side A)[no boot]"
+	description "Mandelbrot and Julia Sets (19xx)(-)(Side A)[no boot]"
+	rom ( name "Mandelbrot and Julia Sets (19xx)(-)(Side A)[no boot].do" size 143360 crc 1ad3e867 md5 b49355e39960a1ec23ebb5f3d1ea3eb8 )
+)
+
+game (
+	name "Mandelbrot and Julia Sets (19xx)(-)(Side B)[no boot]"
+	description "Mandelbrot and Julia Sets (19xx)(-)(Side B)[no boot]"
+	rom ( name "Mandelbrot and Julia Sets (19xx)(-)(Side B)[no boot].do" size 143360 crc c5f267b4 md5 d948e587f4d3e3493a587f3b7a4569dd )
+)
+
+game (
+	name "Master Diagnostics IIe v7.0 (1990)(-)"
+	description "Master Diagnostics IIe v7.0 (1990)(-)"
+	rom ( name "Master Diagnostics IIe v7.0 (1990)(-).do" size 143360 crc 554c5cb2 md5 e3793fe4da39031c0fb064a6f73dc18a )
+)
+
+game (
+	name "Math & Utilities (19xx)(-)[no boot]"
+	description "Math & Utilities (19xx)(-)[no boot]"
+	rom ( name "Math & Utilities (19xx)(-)[no boot].do" size 143360 crc a35b1225 md5 69a8838ae8d5b3cd55326eed05c9c86c )
+)
+
+game (
+	name "MPG Kracpak (1984)(Midwest Pirates Guild)(Side A)"
+	description "MPG Kracpak (1984)(Midwest Pirates Guild)(Side A)"
+	rom ( name "MPG Kracpak (1984)(Midwest Pirates Guild)(Side A).do" size 143360 crc 5a374d24 md5 ada65b5a3bc779be10f82dd8fb8758c4 )
+)
+
+game (
+	name "MPG Kracpak (1984)(Midwest Pirates Guild)(Side B)"
+	description "MPG Kracpak (1984)(Midwest Pirates Guild)(Side B)"
+	rom ( name "MPG Kracpak (1984)(Midwest Pirates Guild)(Side B).do" size 143360 crc fe73be85 md5 895497238026d9b11afdbe41efccd4a8 )
+)
+
+game (
+	name "Pirate's Chest, The (1984)(Pirateer)"
+	description "Pirate's Chest, The (1984)(Pirateer)"
+	rom ( name "Pirate's Chest, The (1984)(Pirateer).do" size 143360 crc aa6241b1 md5 5f86a133bf32fd9c51803fd3886e2a55 )
+)
+
+game (
+	name "Pirates Toolkit, The (1985)(Micro Mafia)"
+	description "Pirates Toolkit, The (1985)(Micro Mafia)"
+	rom ( name "Pirates Toolkit, The (1985)(Micro Mafia).do" size 143360 crc dba68346 md5 9f745c6c77d1e8ab2c6921831f35c21d )
+)
+
+game (
+	name "Stardisk 1 (1986)(Ferg Brand)"
+	description "Stardisk 1 (1986)(Ferg Brand)"
+	rom ( name "Stardisk 1 (1986)(Ferg Brand).do" size 143360 crc 4d75c060 md5 dadf47b0d18271908908117e8a84dd12 )
+)
+
+game (
+	name "Tip Disk #1 (1982)(Beagle Bros)"
+	description "Tip Disk #1 (1982)(Beagle Bros)"
+	rom ( name "Tip Disk #1 (1982)(Beagle Bros).do" size 143360 crc 7f853d65 md5 2e5ae409d1e0106f6329beeb4f0b92b1 )
+)
+
+game (
+	name "Tip Disk #1 (1982)(Beagle Bros)[a]"
+	description "Tip Disk #1 (1982)(Beagle Bros)[a]"
+	rom ( name "Tip Disk #1 (1982)(Beagle Bros)[a].do" size 143360 crc aed9a352 md5 a0a89cc638d0de6bdc3047650ca8370b )
+)
+
+game (
+	name "Utility City (1982)(Beagle Bros)"
+	description "Utility City (1982)(Beagle Bros)"
+	rom ( name "Utility City (1982)(Beagle Bros).do" size 143360 crc 89647e08 md5 28b283fd60c0f4b904b3ff4f33ff01ff )
+)
+
+game (
+	name "Utility City (1982)(Beagle Bros)[a]"
+	description "Utility City (1982)(Beagle Bros)[a]"
+	rom ( name "Utility City (1982)(Beagle Bros)[a].do" size 143360 crc 389ece12 md5 8dc9cab5352a00f71f2cd775d89fe106 )
+)

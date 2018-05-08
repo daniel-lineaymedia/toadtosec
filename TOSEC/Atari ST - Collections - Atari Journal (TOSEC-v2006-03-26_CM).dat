@@ -1,0 +1,2059 @@
+clrmamepro (
+	name "Atari ST - Collections - Atari Journal"
+	description "Atari ST - Collections - Atari Journal (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Atari Journal"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Atari Journal 001 (19xx)(Atari Journal)"
+	description "Atari Journal 001 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 001 (19xx)(Atari Journal).st" size 737280 crc 89adaf78 md5 a43de2315f96594f0621d23ed93bed57 )
+)
+
+game (
+	name "Atari Journal 002 (19xx)(Atari Journal)"
+	description "Atari Journal 002 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 002 (19xx)(Atari Journal).st" size 829440 crc 0b1f5e70 md5 949291843012e9e6fc0e5458b40f3e16 )
+)
+
+game (
+	name "Atari Journal 003 (19xx)(Atari Journal)(Disk 1 of 5)"
+	description "Atari Journal 003 (19xx)(Atari Journal)(Disk 1 of 5)"
+	rom ( name "Atari Journal 003 (19xx)(Atari Journal)(Disk 1 of 5).st" size 737280 crc 80700bb6 md5 6f125b048ee27b92acd608877283601a )
+)
+
+game (
+	name "Atari Journal 003 (19xx)(Atari Journal)(Disk 2 of 5)"
+	description "Atari Journal 003 (19xx)(Atari Journal)(Disk 2 of 5)"
+	rom ( name "Atari Journal 003 (19xx)(Atari Journal)(Disk 2 of 5).st" size 737280 crc 81e4ab8c md5 f51113a5a82ad4a4f26a0a72340bc8ab )
+)
+
+game (
+	name "Atari Journal 003 (19xx)(Atari Journal)(Disk 3 of 5)"
+	description "Atari Journal 003 (19xx)(Atari Journal)(Disk 3 of 5)"
+	rom ( name "Atari Journal 003 (19xx)(Atari Journal)(Disk 3 of 5).st" size 737280 crc 2c277deb md5 e7857a910acb8a186b64610e14cd9b03 )
+)
+
+game (
+	name "Atari Journal 003 (19xx)(Atari Journal)(Disk 4 of 5)"
+	description "Atari Journal 003 (19xx)(Atari Journal)(Disk 4 of 5)"
+	rom ( name "Atari Journal 003 (19xx)(Atari Journal)(Disk 4 of 5).st" size 737280 crc 634010ac md5 474f75261c490a3fa047b805ef9d60a6 )
+)
+
+game (
+	name "Atari Journal 003 (19xx)(Atari Journal)(Disk 5 of 5)"
+	description "Atari Journal 003 (19xx)(Atari Journal)(Disk 5 of 5)"
+	rom ( name "Atari Journal 003 (19xx)(Atari Journal)(Disk 5 of 5).st" size 737280 crc 2b5de5c0 md5 e683186f20bcf1994db2aaf4406c2564 )
+)
+
+game (
+	name "Atari Journal 004 (19xx)(Atari Journal)"
+	description "Atari Journal 004 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 004 (19xx)(Atari Journal).st" size 737280 crc b8d1011d md5 f8c69a99e8fc44aa3ea3fac025d31708 )
+)
+
+game (
+	name "Atari Journal 005 (19xx)(Atari Journal)"
+	description "Atari Journal 005 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 005 (19xx)(Atari Journal).st" size 737280 crc 51aff874 md5 088392f05775b7ac27bc414961fb9719 )
+)
+
+game (
+	name "Atari Journal 006 (19xx)(Atari Journal)"
+	description "Atari Journal 006 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 006 (19xx)(Atari Journal).st" size 737280 crc 9c8cda2a md5 1d3f43164e1513cfb26b25c0e6873336 )
+)
+
+game (
+	name "Atari Journal 007 (19xx)(Atari Journal)"
+	description "Atari Journal 007 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 007 (19xx)(Atari Journal).st" size 737280 crc 05bd0f86 md5 0357b918a71ada3fbde552c248db028a )
+)
+
+game (
+	name "Atari Journal 008 (19xx)(Atari Journal)"
+	description "Atari Journal 008 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 008 (19xx)(Atari Journal).st" size 737280 crc 89920a4d md5 a2d52765c5529f3c42d3d6cf12b0d326 )
+)
+
+game (
+	name "Atari Journal 009 (19xx)(Atari Journal)"
+	description "Atari Journal 009 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 009 (19xx)(Atari Journal).st" size 737280 crc da2b0469 md5 eb2bed97a1a0c34b22d60b8946e4f9f4 )
+)
+
+game (
+	name "Atari Journal 010 (19xx)(Atari Journal)"
+	description "Atari Journal 010 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 010 (19xx)(Atari Journal).st" size 737280 crc 8306b5c0 md5 a4269f14e8eff3b22cc5058545cc886f )
+)
+
+game (
+	name "Atari Journal 011 (19xx)(Atari Journal)"
+	description "Atari Journal 011 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 011 (19xx)(Atari Journal).st" size 737280 crc 478b994a md5 ff576fbc0818ea88eb4bc283e475e41a )
+)
+
+game (
+	name "Atari Journal 012 (19xx)(Atari Journal)"
+	description "Atari Journal 012 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 012 (19xx)(Atari Journal).st" size 737280 crc d09d92fe md5 29a7d2d2a20f936a794af786e3e6af8f )
+)
+
+game (
+	name "Atari Journal 013 (19xx)(Atari Journal)"
+	description "Atari Journal 013 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 013 (19xx)(Atari Journal).st" size 737280 crc c5467224 md5 a2b6c5fa81025805fc74d72476384227 )
+)
+
+game (
+	name "Atari Journal 014 (19xx)(Atari Journal)"
+	description "Atari Journal 014 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 014 (19xx)(Atari Journal).st" size 737280 crc ebce0d23 md5 c6111433050b7d7b5b25639f936bb8ed )
+)
+
+game (
+	name "Atari Journal 015 (19xx)(Atari Journal)"
+	description "Atari Journal 015 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 015 (19xx)(Atari Journal).st" size 737280 crc 01a08a69 md5 b1d1cb21223994b13b5b99cf543fda03 )
+)
+
+game (
+	name "Atari Journal 016 (19xx)(Atari Journal)"
+	description "Atari Journal 016 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 016 (19xx)(Atari Journal).st" size 737280 crc 5e54cb1b md5 cce69d4508e6f1fce2f33e65ee7f74b0 )
+)
+
+game (
+	name "Atari Journal 017 (19xx)(Atari Journal)"
+	description "Atari Journal 017 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 017 (19xx)(Atari Journal).st" size 737280 crc a1f4b2f5 md5 d71e62075bb1d142b96f5084795dddde )
+)
+
+game (
+	name "Atari Journal 018 (19xx)(Atari Journal)"
+	description "Atari Journal 018 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 018 (19xx)(Atari Journal).st" size 737280 crc 21dbb5f8 md5 6f65e5fd483c695148217bfdf81cb244 )
+)
+
+game (
+	name "Atari Journal 019 (19xx)(Atari Journal)"
+	description "Atari Journal 019 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 019 (19xx)(Atari Journal).st" size 737280 crc 3d6e94a5 md5 2a4a65b007d2f29cf7c1cdd02b3c8afb )
+)
+
+game (
+	name "Atari Journal 020 (19xx)(Atari Journal)"
+	description "Atari Journal 020 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 020 (19xx)(Atari Journal).st" size 737280 crc f348e83e md5 1bcbd33ff95de967fad7413c6bc7b8b2 )
+)
+
+game (
+	name "Atari Journal 021 (19xx)(Atari Journal)"
+	description "Atari Journal 021 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 021 (19xx)(Atari Journal).st" size 737280 crc c820deba md5 5fad97c102b6f542477a0b783be2119d )
+)
+
+game (
+	name "Atari Journal 022 (19xx)(Atari Journal)"
+	description "Atari Journal 022 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 022 (19xx)(Atari Journal).st" size 737280 crc ce76f9bb md5 a87945ab82a863ffccfc0228397ab29a )
+)
+
+game (
+	name "Atari Journal 023 (19xx)(Atari Journal)"
+	description "Atari Journal 023 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 023 (19xx)(Atari Journal).st" size 737280 crc f3123d27 md5 d60fa460ff7a978911d10002e5533a08 )
+)
+
+game (
+	name "Atari Journal 024 (19xx)(Atari Journal)"
+	description "Atari Journal 024 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 024 (19xx)(Atari Journal).st" size 737280 crc 58941004 md5 e164118f45384a6238a7f6d40f42946c )
+)
+
+game (
+	name "Atari Journal 025 (19xx)(Atari Journal)"
+	description "Atari Journal 025 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 025 (19xx)(Atari Journal).st" size 737280 crc d1b8c669 md5 434d7273559a22b0ac597be87ef3c141 )
+)
+
+game (
+	name "Atari Journal 026 (19xx)(Atari Journal)"
+	description "Atari Journal 026 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 026 (19xx)(Atari Journal).st" size 737280 crc 51ac0e94 md5 054d11a9a2d1f9e5ce525ba8233f5e97 )
+)
+
+game (
+	name "Atari Journal 027 (19xx)(Atari Journal)"
+	description "Atari Journal 027 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 027 (19xx)(Atari Journal).st" size 737280 crc 1aaf1c61 md5 6cf53e3f9b8de2c10c33397b1e03e0f3 )
+)
+
+game (
+	name "Atari Journal 028 (19xx)(Atari Journal)"
+	description "Atari Journal 028 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 028 (19xx)(Atari Journal).st" size 737280 crc 2b60b785 md5 0a3aeb8c175b6d9f31ea6f7111fd7122 )
+)
+
+game (
+	name "Atari Journal 029 (19xx)(Atari Journal)"
+	description "Atari Journal 029 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 029 (19xx)(Atari Journal).st" size 737280 crc fe5245dc md5 d9b31ae6d7355e26984b392bc3d5e417 )
+)
+
+game (
+	name "Atari Journal 030 (19xx)(Atari Journal)"
+	description "Atari Journal 030 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 030 (19xx)(Atari Journal).st" size 737280 crc 269e409c md5 9173fe065aa4b727a0122d612f7e372e )
+)
+
+game (
+	name "Atari Journal 031 (19xx)(Atari Journal)"
+	description "Atari Journal 031 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 031 (19xx)(Atari Journal).st" size 737280 crc 1cee2b55 md5 056dec70088d3565844710bbaa3c6db0 )
+)
+
+game (
+	name "Atari Journal 032 (19xx)(Atari Journal)"
+	description "Atari Journal 032 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 032 (19xx)(Atari Journal).st" size 737280 crc ae43d963 md5 e41ed2a29a052d2bd2255376b1aa3efe )
+)
+
+game (
+	name "Atari Journal 033 (19xx)(Atari Journal)"
+	description "Atari Journal 033 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 033 (19xx)(Atari Journal).st" size 737280 crc d6f4c683 md5 34c986b76c9b1050cb98270a96fa8c32 )
+)
+
+game (
+	name "Atari Journal 034 (19xx)(Atari Journal)"
+	description "Atari Journal 034 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 034 (19xx)(Atari Journal).st" size 737280 crc 866d2203 md5 e35106bf58e5e4dccfa752dafe927199 )
+)
+
+game (
+	name "Atari Journal 035 (19xx)(Atari Journal)"
+	description "Atari Journal 035 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 035 (19xx)(Atari Journal).st" size 737280 crc 0958ba0e md5 4b8c0f5e7360a7915552b244bc921fac )
+)
+
+game (
+	name "Atari Journal 036 (19xx)(Atari Journal)"
+	description "Atari Journal 036 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 036 (19xx)(Atari Journal).st" size 819200 crc 5b7359ae md5 d3c5725a26c189f2366a15997801b07d )
+)
+
+game (
+	name "Atari Journal 037 (19xx)(Atari Journal)"
+	description "Atari Journal 037 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 037 (19xx)(Atari Journal).st" size 737280 crc 1a493146 md5 127ac824ddd567969928dfde57526a95 )
+)
+
+game (
+	name "Atari Journal 038 (19xx)(Atari Journal)"
+	description "Atari Journal 038 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 038 (19xx)(Atari Journal).st" size 737280 crc e315720b md5 3a83da253e8a4fc3bb1a2a9c6080e708 )
+)
+
+game (
+	name "Atari Journal 039 (19xx)(Atari Journal)"
+	description "Atari Journal 039 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 039 (19xx)(Atari Journal).st" size 819200 crc 9a1423b6 md5 567e2ffebc4063d70f9282ad42dacbe4 )
+)
+
+game (
+	name "Atari Journal 040 (19xx)(Atari Journal)"
+	description "Atari Journal 040 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 040 (19xx)(Atari Journal).st" size 737280 crc 928232ff md5 bf4c5529f8fae7c5d8944b17d5647872 )
+)
+
+game (
+	name "Atari Journal 041 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 041 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 041 (19xx)(Atari Journal)[u].st" size 737280 crc 07d9b053 md5 31cddd65a983d6b4dece7a48f389109b )
+)
+
+game (
+	name "Atari Journal 042 (19xx)(Atari Journal)"
+	description "Atari Journal 042 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 042 (19xx)(Atari Journal).st" size 737280 crc fd6b2410 md5 5bf6237972d7bc3da18b27cde26539e1 )
+)
+
+game (
+	name "Atari Journal 043 (19xx)(Atari Journal)"
+	description "Atari Journal 043 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 043 (19xx)(Atari Journal).st" size 737280 crc 38651e6b md5 830042af9377f20e011d4cca18a408f2 )
+)
+
+game (
+	name "Atari Journal 044 (19xx)(Atari Journal)"
+	description "Atari Journal 044 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 044 (19xx)(Atari Journal).st" size 737280 crc e20e7149 md5 80fa08b2a7111a394e3b713e1a698b25 )
+)
+
+game (
+	name "Atari Journal 045 (19xx)(Atari Journal)"
+	description "Atari Journal 045 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 045 (19xx)(Atari Journal).st" size 737280 crc 0aa7f088 md5 297d4394688dac0650a26d6c7cb98b5f )
+)
+
+game (
+	name "Atari Journal 046 (19xx)(Atari Journal)"
+	description "Atari Journal 046 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 046 (19xx)(Atari Journal).st" size 737280 crc 82b91ec9 md5 908285679718a7b0a70435173a992b30 )
+)
+
+game (
+	name "Atari Journal 047 (19xx)(Atari Journal)"
+	description "Atari Journal 047 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 047 (19xx)(Atari Journal).st" size 737280 crc a91e603d md5 6aae5ee89d09c12bc2c51a07ebc12d41 )
+)
+
+game (
+	name "Atari Journal 048 (19xx)(Atari Journal)"
+	description "Atari Journal 048 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 048 (19xx)(Atari Journal).st" size 737280 crc b14e0864 md5 e68033707ff8301d7e211349313ada0d )
+)
+
+game (
+	name "Atari Journal 049 (19xx)(Atari Journal)"
+	description "Atari Journal 049 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 049 (19xx)(Atari Journal).st" size 819200 crc 7b575a08 md5 d0d7d2da1e638bf78d1c8bb2f57069b6 )
+)
+
+game (
+	name "Atari Journal 050 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 050 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 050 (19xx)(Atari Journal)[u].st" size 737280 crc a2a42ff5 md5 fd2a00b3d26c8c276a4f4f4151e1f71f )
+)
+
+game (
+	name "Atari Journal 051 (19xx)(Atari Journal)"
+	description "Atari Journal 051 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 051 (19xx)(Atari Journal).st" size 737280 crc 629e1153 md5 fb249d6f26a06dc072e2b16d411bc605 )
+)
+
+game (
+	name "Atari Journal 052 (19xx)(Atari Journal)"
+	description "Atari Journal 052 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 052 (19xx)(Atari Journal).st" size 737280 crc 9f67b063 md5 23b6de448eb9e8aa635a1479e80b96ba )
+)
+
+game (
+	name "Atari Journal 053 (19xx)(Atari Journal)"
+	description "Atari Journal 053 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 053 (19xx)(Atari Journal).st" size 737280 crc 0c3a3115 md5 5676405536cbf531c8714a3d6b7e7a59 )
+)
+
+game (
+	name "Atari Journal 054 (19xx)(Atari Journal)"
+	description "Atari Journal 054 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 054 (19xx)(Atari Journal).st" size 737280 crc d71c4bd0 md5 b82d6c36bfd369592a91ffc6577ce9fe )
+)
+
+game (
+	name "Atari Journal 055 (19xx)(Atari Journal)"
+	description "Atari Journal 055 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 055 (19xx)(Atari Journal).st" size 819200 crc 74f0a1bb md5 b1683b0c117e22174cc6ca61a46065cc )
+)
+
+game (
+	name "Atari Journal 056 (19xx)(Atari Journal)"
+	description "Atari Journal 056 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 056 (19xx)(Atari Journal).st" size 819200 crc a742da39 md5 0f5c562d129f74898157ce95aace2267 )
+)
+
+game (
+	name "Atari Journal 057 (19xx)(Atari Journal)"
+	description "Atari Journal 057 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 057 (19xx)(Atari Journal).st" size 819200 crc 1a27b317 md5 3825fdac37b9b75919df3b580b1ca1e0 )
+)
+
+game (
+	name "Atari Journal 058 (19xx)(Atari Journal)"
+	description "Atari Journal 058 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 058 (19xx)(Atari Journal).st" size 737280 crc 8c7d5506 md5 108f1f434d8d47528e9b7ef592f356ec )
+)
+
+game (
+	name "Atari Journal 059 (19xx)(Atari Journal)"
+	description "Atari Journal 059 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 059 (19xx)(Atari Journal).st" size 737280 crc 881f94d4 md5 399db49c2701cc334b2e6a0025edaaa0 )
+)
+
+game (
+	name "Atari Journal 060 (19xx)(Atari Journal)"
+	description "Atari Journal 060 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 060 (19xx)(Atari Journal).st" size 737280 crc 91d0a8a7 md5 95e0a77b955e3cbfd745c2c1a2b35521 )
+)
+
+game (
+	name "Atari Journal 061 (19xx)(Atari Journal)"
+	description "Atari Journal 061 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 061 (19xx)(Atari Journal).st" size 737280 crc 4540e40c md5 fa3665a3b9e3571dde7cbd05c5855011 )
+)
+
+game (
+	name "Atari Journal 062 (19xx)(Atari Journal)"
+	description "Atari Journal 062 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 062 (19xx)(Atari Journal).st" size 737280 crc 8b96d3f1 md5 181f5cda812067f48b69718bd46a6dca )
+)
+
+game (
+	name "Atari Journal 063 (19xx)(Atari Journal)"
+	description "Atari Journal 063 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 063 (19xx)(Atari Journal).st" size 737280 crc ea2f1eaf md5 81c04d6d526832bea994e78236db2684 )
+)
+
+game (
+	name "Atari Journal 064 (19xx)(Atari Journal)"
+	description "Atari Journal 064 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 064 (19xx)(Atari Journal).st" size 737280 crc 1d90ebe9 md5 2f39ee818e76580e25850649e4a48ceb )
+)
+
+game (
+	name "Atari Journal 065 (19xx)(Atari Journal)"
+	description "Atari Journal 065 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 065 (19xx)(Atari Journal).st" size 819200 crc e5c8cc82 md5 5caee0af5a9a075a3b803c18bd027a0a )
+)
+
+game (
+	name "Atari Journal 066 (19xx)(Atari Journal)"
+	description "Atari Journal 066 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 066 (19xx)(Atari Journal).st" size 737280 crc 48fe7884 md5 9e85a40f69930d446724dd0f45a3a6d7 )
+)
+
+game (
+	name "Atari Journal 067 (19xx)(Atari Journal)"
+	description "Atari Journal 067 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 067 (19xx)(Atari Journal).st" size 737280 crc b07857ce md5 c102690af653a97997ea71d0492395c4 )
+)
+
+game (
+	name "Atari Journal 068 (19xx)(Atari Journal)"
+	description "Atari Journal 068 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 068 (19xx)(Atari Journal).st" size 737280 crc c0091508 md5 facd474f014ccea562c73840e0ef0137 )
+)
+
+game (
+	name "Atari Journal 069 (19xx)(Atari Journal)"
+	description "Atari Journal 069 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 069 (19xx)(Atari Journal).st" size 737280 crc 21310c14 md5 21e7bbfc55cc37126dbe949ffa055889 )
+)
+
+game (
+	name "Atari Journal 070 (19xx)(Atari Journal)"
+	description "Atari Journal 070 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 070 (19xx)(Atari Journal).st" size 737280 crc 4c3c0e73 md5 f7f9acd45675cb342473232f63003db9 )
+)
+
+game (
+	name "Atari Journal 071 (19xx)(Atari Journal)"
+	description "Atari Journal 071 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 071 (19xx)(Atari Journal).st" size 746496 crc 93b23e1d md5 f6efc56eb7da5a6726c74e6f0cc41625 )
+)
+
+game (
+	name "Atari Journal 072 (19xx)(Atari Journal)"
+	description "Atari Journal 072 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 072 (19xx)(Atari Journal).st" size 737280 crc ecb50a6d md5 ceec300c367393b37c24da18adc65261 )
+)
+
+game (
+	name "Atari Journal 073 (19xx)(Atari Journal)"
+	description "Atari Journal 073 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 073 (19xx)(Atari Journal).st" size 839680 crc 13388b7e md5 0111aa82d37d1dce9818709fe4c0e6d2 )
+)
+
+game (
+	name "Atari Journal 074 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 074 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 074 (19xx)(Atari Journal)[u].st" size 737280 crc 39b44d6a md5 c3ecb6a6d08c8d7e7138011cd1e41efa )
+)
+
+game (
+	name "Atari Journal 075 (19xx)(Atari Journal)"
+	description "Atari Journal 075 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 075 (19xx)(Atari Journal).st" size 737280 crc 9038111f md5 9e7fa39628e97e4a2691666d04b31555 )
+)
+
+game (
+	name "Atari Journal 076 (19xx)(Atari Journal)"
+	description "Atari Journal 076 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 076 (19xx)(Atari Journal).st" size 737280 crc 0b52fadd md5 fd4bbcfbe6f51f0fae523a7a6569be79 )
+)
+
+game (
+	name "Atari Journal 077 (19xx)(Atari Journal)"
+	description "Atari Journal 077 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 077 (19xx)(Atari Journal).st" size 737280 crc 35af22b3 md5 39b82171cacd4a6d2d03db51888e64c0 )
+)
+
+game (
+	name "Atari Journal 078 (19xx)(Atari Journal)"
+	description "Atari Journal 078 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 078 (19xx)(Atari Journal).st" size 737280 crc 4f7102a1 md5 8d78baf465c8ce3dcfc45e44d04d1cdf )
+)
+
+game (
+	name "Atari Journal 079 (19xx)(Atari Journal)"
+	description "Atari Journal 079 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 079 (19xx)(Atari Journal).st" size 737280 crc b79787d0 md5 e1a2c0c3df4c17eabc539b1592991853 )
+)
+
+game (
+	name "Atari Journal 080 (19xx)(Atari Journal)"
+	description "Atari Journal 080 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 080 (19xx)(Atari Journal).st" size 737280 crc 14b36fdb md5 fd94b4f789163d7e8ce49412a55f508b )
+)
+
+game (
+	name "Atari Journal 081 (19xx)(Atari Journal)"
+	description "Atari Journal 081 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 081 (19xx)(Atari Journal).st" size 737280 crc 39c2a284 md5 8469d80d5d5a05d3fff5eea979c3f3f6 )
+)
+
+game (
+	name "Atari Journal 082 (19xx)(Atari Journal)"
+	description "Atari Journal 082 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 082 (19xx)(Atari Journal).st" size 829440 crc 8f6b03e0 md5 0c401886236f99e8c3a6f4e18b73843e )
+)
+
+game (
+	name "Atari Journal 083 (19xx)(Atari Journal)"
+	description "Atari Journal 083 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 083 (19xx)(Atari Journal).st" size 737280 crc 2cec2574 md5 bf6c26a1d1bc19f6aae06af540918326 )
+)
+
+game (
+	name "Atari Journal 084 (19xx)(Atari Journal)"
+	description "Atari Journal 084 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 084 (19xx)(Atari Journal).st" size 737280 crc ac40fcf5 md5 418fe07e4c0e1211981e0e7712e51096 )
+)
+
+game (
+	name "Atari Journal 085 (19xx)(Atari Journal)"
+	description "Atari Journal 085 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 085 (19xx)(Atari Journal).st" size 746496 crc e965205a md5 963b91f065ff6b8a9a5efe4133ea1c4e )
+)
+
+game (
+	name "Atari Journal 086 (19xx)(Atari Journal)"
+	description "Atari Journal 086 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 086 (19xx)(Atari Journal).st" size 737280 crc 7c8ce051 md5 284bf3099687e78ed5800bf2cdf1ad9d )
+)
+
+game (
+	name "Atari Journal 087 (19xx)(Atari Journal)"
+	description "Atari Journal 087 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 087 (19xx)(Atari Journal).st" size 829440 crc 3dbc1b87 md5 707b19b54d2ff11b9da71c0be6c54ed9 )
+)
+
+game (
+	name "Atari Journal 088 (19xx)(Atari Journal)"
+	description "Atari Journal 088 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 088 (19xx)(Atari Journal).st" size 737280 crc 2b24d743 md5 3c2574449b0511bbd31fc458136357a2 )
+)
+
+game (
+	name "Atari Journal 089 (19xx)(Atari Journal)"
+	description "Atari Journal 089 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 089 (19xx)(Atari Journal).st" size 737280 crc bd4cd7ee md5 bcd780956e04eaa0e19c65566b0bda1e )
+)
+
+game (
+	name "Atari Journal 090 (19xx)(Atari Journal)"
+	description "Atari Journal 090 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 090 (19xx)(Atari Journal).st" size 737280 crc 80fda7ca md5 db9e6c701ba0ee42e4094a5684a3ba44 )
+)
+
+game (
+	name "Atari Journal 091 (19xx)(Atari Journal)"
+	description "Atari Journal 091 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 091 (19xx)(Atari Journal).st" size 737280 crc 734e3922 md5 487e4694b2cf63ea82869abbc2723255 )
+)
+
+game (
+	name "Atari Journal 092 (19xx)(Atari Journal)"
+	description "Atari Journal 092 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 092 (19xx)(Atari Journal).st" size 737280 crc c449cc59 md5 affbf9df081eec7bf6badb17897032d6 )
+)
+
+game (
+	name "Atari Journal 093 (19xx)(Atari Journal)"
+	description "Atari Journal 093 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 093 (19xx)(Atari Journal).st" size 737280 crc c2baa4b6 md5 6e060baebc812a80ede03adca19b3af0 )
+)
+
+game (
+	name "Atari Journal 094 (19xx)(Atari Journal)"
+	description "Atari Journal 094 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 094 (19xx)(Atari Journal).st" size 737280 crc 13bcd79a md5 08cb523171681ff31b8568064cd6e37f )
+)
+
+game (
+	name "Atari Journal 095 (19xx)(Atari Journal)"
+	description "Atari Journal 095 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 095 (19xx)(Atari Journal).st" size 737280 crc b11de4c7 md5 f9306633168a7a9823b9e6a1650eb05a )
+)
+
+game (
+	name "Atari Journal 096 (19xx)(Atari Journal)"
+	description "Atari Journal 096 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 096 (19xx)(Atari Journal).st" size 737280 crc a824adc3 md5 ea9d2c1c21942925f5516376ab62e02c )
+)
+
+game (
+	name "Atari Journal 097 (19xx)(Atari Journal)"
+	description "Atari Journal 097 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 097 (19xx)(Atari Journal).st" size 737280 crc bca52cd0 md5 8c1576a1b21ac56c4838feecbeae35d9 )
+)
+
+game (
+	name "Atari Journal 098 (19xx)(Atari Journal)"
+	description "Atari Journal 098 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 098 (19xx)(Atari Journal).st" size 737280 crc 0da5bfab md5 700b9612dbf16eebc8feb48b380b9e5e )
+)
+
+game (
+	name "Atari Journal 099 (19xx)(Atari Journal)"
+	description "Atari Journal 099 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 099 (19xx)(Atari Journal).st" size 737280 crc a8e339b7 md5 9948a3981d19f33c763a5a8632fabfc1 )
+)
+
+game (
+	name "Atari Journal 100 (19xx)(Atari Journal)"
+	description "Atari Journal 100 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 100 (19xx)(Atari Journal).st" size 737280 crc 1ddcee3d md5 141376f3e1c44046cd27ad7ffd6c1552 )
+)
+
+game (
+	name "Atari Journal 101 (19xx)(Atari Journal)"
+	description "Atari Journal 101 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 101 (19xx)(Atari Journal).st" size 737280 crc 17529ab5 md5 cb2f7353874e8fc22737c43e988ff908 )
+)
+
+game (
+	name "Atari Journal 102 (19xx)(Atari Journal)"
+	description "Atari Journal 102 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 102 (19xx)(Atari Journal).st" size 737280 crc 0980fead md5 8e40b69a5c442cda90408b69c50b7bf8 )
+)
+
+game (
+	name "Atari Journal 102 (19xx)(Atari Journal)[a]"
+	description "Atari Journal 102 (19xx)(Atari Journal)[a]"
+	rom ( name "Atari Journal 102 (19xx)(Atari Journal)[a].st" size 737280 crc a026adea md5 00449dc0dff403220173323ca9953ecb )
+)
+
+game (
+	name "Atari Journal 103 (19xx)(Atari Journal)"
+	description "Atari Journal 103 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 103 (19xx)(Atari Journal).st" size 737280 crc f8efa7f1 md5 7d0ff53a0f3bdc60c04b60a20086d5ed )
+)
+
+game (
+	name "Atari Journal 103 (19xx)(Atari Journal)[a]"
+	description "Atari Journal 103 (19xx)(Atari Journal)[a]"
+	rom ( name "Atari Journal 103 (19xx)(Atari Journal)[a].st" size 737280 crc b74ff60f md5 3cd9113406230eeadba55213ea805593 )
+)
+
+game (
+	name "Atari Journal 104 (19xx)(Atari Journal)"
+	description "Atari Journal 104 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 104 (19xx)(Atari Journal).st" size 737280 crc d19a1706 md5 1418e76428576ce027d501d9cca74037 )
+)
+
+game (
+	name "Atari Journal 105 (19xx)(Atari Journal)"
+	description "Atari Journal 105 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 105 (19xx)(Atari Journal).st" size 737280 crc 11822e11 md5 1d76da96a9d3fc5f452255d639dc8f92 )
+)
+
+game (
+	name "Atari Journal 106 (19xx)(Atari Journal)"
+	description "Atari Journal 106 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 106 (19xx)(Atari Journal).st" size 737280 crc abe1674a md5 a0c28744118f5cda9e9ed247d3978381 )
+)
+
+game (
+	name "Atari Journal 107 (19xx)(Atari Journal)"
+	description "Atari Journal 107 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 107 (19xx)(Atari Journal).st" size 737280 crc afe15057 md5 436fe930efbe9c933aeea5816cf3ebd8 )
+)
+
+game (
+	name "Atari Journal 108 (19xx)(Atari Journal)"
+	description "Atari Journal 108 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 108 (19xx)(Atari Journal).st" size 737280 crc 61f517f3 md5 b99147eacbc41118c23dd8c986ef21ab )
+)
+
+game (
+	name "Atari Journal 109 (19xx)(Atari Journal)"
+	description "Atari Journal 109 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 109 (19xx)(Atari Journal).st" size 737280 crc ffcea5e7 md5 9931aaaaaa8c695518b4143b83818948 )
+)
+
+game (
+	name "Atari Journal 110 (19xx)(Atari Journal)"
+	description "Atari Journal 110 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 110 (19xx)(Atari Journal).st" size 737280 crc 5eba266b md5 673d796861706c7ed373268002f7c86f )
+)
+
+game (
+	name "Atari Journal 111 (19xx)(Atari Journal)"
+	description "Atari Journal 111 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 111 (19xx)(Atari Journal).st" size 746496 crc c3e6309e md5 79b2830d1d598f8bc0fed7d7b091280d )
+)
+
+game (
+	name "Atari Journal 112 (19xx)(Atari Journal)"
+	description "Atari Journal 112 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 112 (19xx)(Atari Journal).st" size 737280 crc f0ecfac2 md5 1b6cfcece95e51850b9cf8a37fb8b2da )
+)
+
+game (
+	name "Atari Journal 113 (19xx)(Atari Journal)"
+	description "Atari Journal 113 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 113 (19xx)(Atari Journal).st" size 737280 crc de46afa3 md5 2445fcbc78167eaac88378e325fb0138 )
+)
+
+game (
+	name "Atari Journal 114 (19xx)(Atari Journal)"
+	description "Atari Journal 114 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 114 (19xx)(Atari Journal).st" size 737280 crc aa447eb3 md5 dc7a4679d7cfa445d2ae1b827ddb6517 )
+)
+
+game (
+	name "Atari Journal 115 (19xx)(Atari Journal)"
+	description "Atari Journal 115 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 115 (19xx)(Atari Journal).st" size 737280 crc ada6e5de md5 57ea68a15e9f081c6214ef3371045e63 )
+)
+
+game (
+	name "Atari Journal 116 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 116 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 116 (19xx)(Atari Journal)[u].st" size 737280 crc 92b77964 md5 9132ef917afec18f6ca5ce929ea401c4 )
+)
+
+game (
+	name "Atari Journal 117 (19xx)(Atari Journal)"
+	description "Atari Journal 117 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 117 (19xx)(Atari Journal).st" size 737280 crc 54da0f37 md5 27da3d7d08efe719cbd103ee363d16ca )
+)
+
+game (
+	name "Atari Journal 118 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 118 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 118 (19xx)(Atari Journal)[u].st" size 737280 crc ed79825c md5 00b4e97c4ae72fd895dab50e3f347667 )
+)
+
+game (
+	name "Atari Journal 119 (19xx)(Atari Journal)"
+	description "Atari Journal 119 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 119 (19xx)(Atari Journal).st" size 737280 crc f02e47be md5 9748270c47be74d51cbf2f5fa308ad64 )
+)
+
+game (
+	name "Atari Journal 120 (19xx)(Atari Journal)"
+	description "Atari Journal 120 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 120 (19xx)(Atari Journal).st" size 737280 crc 6e02b0d5 md5 30d04895b69004a102f8743aee83d4b0 )
+)
+
+game (
+	name "Atari Journal 121 (19xx)(Atari Journal)"
+	description "Atari Journal 121 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 121 (19xx)(Atari Journal).st" size 737280 crc b667b3df md5 5149ea80555539264f262091e1de0833 )
+)
+
+game (
+	name "Atari Journal 122 (19xx)(Atari Journal)"
+	description "Atari Journal 122 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 122 (19xx)(Atari Journal).st" size 737280 crc 9bce9198 md5 a68e7efc91ab1cd8155e81764630fc80 )
+)
+
+game (
+	name "Atari Journal 123 (19xx)(Atari Journal)"
+	description "Atari Journal 123 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 123 (19xx)(Atari Journal).st" size 737280 crc b89af328 md5 a337541b004f44852c7bf910652f6458 )
+)
+
+game (
+	name "Atari Journal 124 (19xx)(Atari Journal)"
+	description "Atari Journal 124 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 124 (19xx)(Atari Journal).st" size 737280 crc b4f37fb1 md5 edd3d7affcac8c019775ce37ab64217f )
+)
+
+game (
+	name "Atari Journal 125 (19xx)(Atari Journal)"
+	description "Atari Journal 125 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 125 (19xx)(Atari Journal).st" size 737280 crc 470da49d md5 8ad73939e66b9f0871e70b20383cd28b )
+)
+
+game (
+	name "Atari Journal 126 (19xx)(Atari Journal)"
+	description "Atari Journal 126 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 126 (19xx)(Atari Journal).st" size 737280 crc 6f0874eb md5 41f121da08a197c56d1abdb3073a981c )
+)
+
+game (
+	name "Atari Journal 127 (19xx)(Atari Journal)"
+	description "Atari Journal 127 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 127 (19xx)(Atari Journal).st" size 755712 crc d87f3bca md5 fa33416e4e34cc8fda7ea68b55572fe7 )
+)
+
+game (
+	name "Atari Journal 128 (19xx)(Atari Journal)"
+	description "Atari Journal 128 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 128 (19xx)(Atari Journal).st" size 737280 crc 5f8efa8b md5 89ed723bad38b188d077de4306bb81b6 )
+)
+
+game (
+	name "Atari Journal 129 (19xx)(Atari Journal)"
+	description "Atari Journal 129 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 129 (19xx)(Atari Journal).st" size 737280 crc 84aee808 md5 9b0c06f4e8f1e7770e2cb6b6d77f5d4b )
+)
+
+game (
+	name "Atari Journal 130 (19xx)(Atari Journal)"
+	description "Atari Journal 130 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 130 (19xx)(Atari Journal).st" size 737280 crc 57022ea2 md5 b7eb03849e3ac28b919c905115ea4e8a )
+)
+
+game (
+	name "Atari Journal 130 (19xx)(Atari Journal)[a]"
+	description "Atari Journal 130 (19xx)(Atari Journal)[a]"
+	rom ( name "Atari Journal 130 (19xx)(Atari Journal)[a].st" size 839680 crc 41fc1f34 md5 bcb4db0abe1300a7de4cf0e7f1d90568 )
+)
+
+game (
+	name "Atari Journal 131 (19xx)(Atari Journal)"
+	description "Atari Journal 131 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 131 (19xx)(Atari Journal).st" size 737280 crc 8ef88eb4 md5 8ed1e024b75007174aac08873c7e9c63 )
+)
+
+game (
+	name "Atari Journal 132 (19xx)(Atari Journal)"
+	description "Atari Journal 132 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 132 (19xx)(Atari Journal).st" size 737280 crc 0ed4efb3 md5 9425985f6bbf247045a4b7eb4dc9c843 )
+)
+
+game (
+	name "Atari Journal 133 (19xx)(Atari Journal)"
+	description "Atari Journal 133 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 133 (19xx)(Atari Journal).st" size 737280 crc 5c92d4e1 md5 33126b8146e691cec35c375d1df5c4e1 )
+)
+
+game (
+	name "Atari Journal 134 (19xx)(Atari Journal)"
+	description "Atari Journal 134 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 134 (19xx)(Atari Journal).st" size 737280 crc 44156f5d md5 a3da12ed43758eac0ac1ccf2b4014fa3 )
+)
+
+game (
+	name "Atari Journal 135 (19xx)(Atari Journal)"
+	description "Atari Journal 135 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 135 (19xx)(Atari Journal).st" size 737280 crc 3e49a023 md5 9b1b85ca42ab22d3a6d9e4112af6e12b )
+)
+
+game (
+	name "Atari Journal 136 (19xx)(Atari Journal)"
+	description "Atari Journal 136 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 136 (19xx)(Atari Journal).st" size 737280 crc e3ee30c6 md5 01715e1581d0e5723aa0e0becab481a2 )
+)
+
+game (
+	name "Atari Journal 137 (19xx)(Atari Journal)"
+	description "Atari Journal 137 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 137 (19xx)(Atari Journal).st" size 737280 crc 6797a089 md5 4218cd55160992af7020c8a0e36e4391 )
+)
+
+game (
+	name "Atari Journal 138 (19xx)(Atari Journal)"
+	description "Atari Journal 138 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 138 (19xx)(Atari Journal).st" size 737280 crc 6f65c662 md5 c34912958a923b4cb98b0cd52d82ef6b )
+)
+
+game (
+	name "Atari Journal 139 (19xx)(Atari Journal)"
+	description "Atari Journal 139 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 139 (19xx)(Atari Journal).st" size 737280 crc 5901d6f7 md5 12726e1e24b660ea748e418c356c055a )
+)
+
+game (
+	name "Atari Journal 140 (19xx)(Atari Journal)"
+	description "Atari Journal 140 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 140 (19xx)(Atari Journal).st" size 737280 crc 9b2b7889 md5 af37ef098bb7d5b8352842d61adfadc3 )
+)
+
+game (
+	name "Atari Journal 141 (19xx)(Atari Journal)"
+	description "Atari Journal 141 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 141 (19xx)(Atari Journal).st" size 737280 crc 19da8dda md5 5b53b3ba45f791575bb3a7e25171fcf9 )
+)
+
+game (
+	name "Atari Journal 142 (19xx)(Atari Journal)"
+	description "Atari Journal 142 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 142 (19xx)(Atari Journal).st" size 819200 crc edf517f9 md5 d80a42a231708bdf846d8f046cff9139 )
+)
+
+game (
+	name "Atari Journal 143 (19xx)(Atari Journal)"
+	description "Atari Journal 143 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 143 (19xx)(Atari Journal).st" size 737280 crc faa4e356 md5 2cf0f2113c0d7a639bd322566b7e97c3 )
+)
+
+game (
+	name "Atari Journal 144 (19xx)(Atari Journal)"
+	description "Atari Journal 144 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 144 (19xx)(Atari Journal).st" size 737280 crc ccac2553 md5 31da74e9b94ec8db5561635796932d8e )
+)
+
+game (
+	name "Atari Journal 145 (19xx)(Atari Journal)"
+	description "Atari Journal 145 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 145 (19xx)(Atari Journal).st" size 737280 crc b0cf2133 md5 fe075115d2768b25adf3c8903787fdd9 )
+)
+
+game (
+	name "Atari Journal 146 (19xx)(Atari Journal)"
+	description "Atari Journal 146 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 146 (19xx)(Atari Journal).st" size 737280 crc 17fd8017 md5 32337192ea8fb242c028328b6a964954 )
+)
+
+game (
+	name "Atari Journal 147 (19xx)(Atari Journal)"
+	description "Atari Journal 147 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 147 (19xx)(Atari Journal).st" size 737280 crc 492e9626 md5 a07ee003b0b0786b5eb87229ea0942b1 )
+)
+
+game (
+	name "Atari Journal 148 (19xx)(Atari Journal)"
+	description "Atari Journal 148 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 148 (19xx)(Atari Journal).st" size 737280 crc e4f26a4a md5 f2ee1a3b12542afa73ba3c61db149878 )
+)
+
+game (
+	name "Atari Journal 149 (19xx)(Atari Journal)"
+	description "Atari Journal 149 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 149 (19xx)(Atari Journal).st" size 819200 crc 900c372f md5 821e9032127e234ed26ff8a992e28520 )
+)
+
+game (
+	name "Atari Journal 150 (19xx)(Atari Journal)"
+	description "Atari Journal 150 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 150 (19xx)(Atari Journal).st" size 737280 crc f2c3bb6a md5 5d7e3ac08dab5e2549a37d804b69f074 )
+)
+
+game (
+	name "Atari Journal 151 (19xx)(Atari Journal)"
+	description "Atari Journal 151 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 151 (19xx)(Atari Journal).st" size 737280 crc 46a29f1d md5 72af1b0320905a1ce5b774f23ceffd40 )
+)
+
+game (
+	name "Atari Journal 152 (19xx)(Atari Journal)"
+	description "Atari Journal 152 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 152 (19xx)(Atari Journal).st" size 737280 crc d685612a md5 a10f229aeee0be1e9b16d1132bec43ea )
+)
+
+game (
+	name "Atari Journal 153 (19xx)(Atari Journal)"
+	description "Atari Journal 153 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 153 (19xx)(Atari Journal).st" size 737280 crc db537904 md5 441adfaaea2b4b39eea0f446c5bf8fd0 )
+)
+
+game (
+	name "Atari Journal 154 (19xx)(Atari Journal)"
+	description "Atari Journal 154 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 154 (19xx)(Atari Journal).st" size 819200 crc ee3c83fe md5 96884ae7c6c30c55e9af5a0b5c5c8132 )
+)
+
+game (
+	name "Atari Journal 155 (19xx)(Atari Journal)"
+	description "Atari Journal 155 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 155 (19xx)(Atari Journal).st" size 737280 crc 1aaee4cd md5 51956daa8a4b4345bc276cf41c19ee20 )
+)
+
+game (
+	name "Atari Journal 156 (19xx)(Atari Journal)"
+	description "Atari Journal 156 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 156 (19xx)(Atari Journal).st" size 737280 crc c4f5e9d3 md5 273dd29db67fd6773883cf32b4f0dbdd )
+)
+
+game (
+	name "Atari Journal 157 (19xx)(Atari Journal)"
+	description "Atari Journal 157 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 157 (19xx)(Atari Journal).st" size 737280 crc 803cb861 md5 383c3041301bc6c0d6998f88fdb4a1bd )
+)
+
+game (
+	name "Atari Journal 158 (19xx)(Atari Journal)"
+	description "Atari Journal 158 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 158 (19xx)(Atari Journal).st" size 737280 crc 74515501 md5 78f70569251ebf35173ed342a7bd1a51 )
+)
+
+game (
+	name "Atari Journal 159 (19xx)(Atari Journal)"
+	description "Atari Journal 159 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 159 (19xx)(Atari Journal).st" size 737280 crc 8ab77e3e md5 08c6d0f29450826e484d0f53589ce769 )
+)
+
+game (
+	name "Atari Journal 160 (19xx)(Atari Journal)"
+	description "Atari Journal 160 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 160 (19xx)(Atari Journal).st" size 737280 crc fe11e9cb md5 936c80e2f0367c9548b319678c782590 )
+)
+
+game (
+	name "Atari Journal 161 (19xx)(Atari Journal)"
+	description "Atari Journal 161 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 161 (19xx)(Atari Journal).st" size 737280 crc d72b22a5 md5 ad6b889a8952d894174670c2355220b3 )
+)
+
+game (
+	name "Atari Journal 162 (19xx)(Atari Journal)"
+	description "Atari Journal 162 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 162 (19xx)(Atari Journal).st" size 737280 crc dbb9499c md5 d3a5ec7bd6311f52af4437e907068616 )
+)
+
+game (
+	name "Atari Journal 163 (19xx)(Atari Journal)"
+	description "Atari Journal 163 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 163 (19xx)(Atari Journal).st" size 737280 crc a0393099 md5 7bc772e339258a202596e225a04c854c )
+)
+
+game (
+	name "Atari Journal 164 (19xx)(Atari Journal)"
+	description "Atari Journal 164 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 164 (19xx)(Atari Journal).st" size 737280 crc 40a35233 md5 bbfeb593972970006cc73db3d00710ab )
+)
+
+game (
+	name "Atari Journal 165 (19xx)(Atari Journal)"
+	description "Atari Journal 165 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 165 (19xx)(Atari Journal).st" size 737280 crc 12d2f92e md5 fc744d8086bab4a365fa1ca040c48a4c )
+)
+
+game (
+	name "Atari Journal 166 (19xx)(Atari Journal)"
+	description "Atari Journal 166 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 166 (19xx)(Atari Journal).st" size 737280 crc 5920f34d md5 38b2933df890a38831f198c3df6f9611 )
+)
+
+game (
+	name "Atari Journal 167 (19xx)(Atari Journal)"
+	description "Atari Journal 167 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 167 (19xx)(Atari Journal).st" size 829440 crc 091d3352 md5 fe26b404f14c7cc5f9ba456cde1fd0cd )
+)
+
+game (
+	name "Atari Journal 168 (19xx)(Atari Journal)"
+	description "Atari Journal 168 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 168 (19xx)(Atari Journal).st" size 737280 crc b5927d0c md5 8e808adb58c97adab3f6674a17cde7e1 )
+)
+
+game (
+	name "Atari Journal 169 (19xx)(Atari Journal)"
+	description "Atari Journal 169 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 169 (19xx)(Atari Journal).st" size 737280 crc 6a0e8bf9 md5 afdff88a67b14c91ab517a83d7921757 )
+)
+
+game (
+	name "Atari Journal 170 (19xx)(Atari Journal)"
+	description "Atari Journal 170 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 170 (19xx)(Atari Journal).st" size 819200 crc 645eced1 md5 62c72ccca83bc13215c621e373e15535 )
+)
+
+game (
+	name "Atari Journal 171 (19xx)(Atari Journal)"
+	description "Atari Journal 171 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 171 (19xx)(Atari Journal).st" size 737280 crc 863cb7fb md5 9b5677b77b66d80b9b365dce6f745d09 )
+)
+
+game (
+	name "Atari Journal 172 (19xx)(Atari Journal)"
+	description "Atari Journal 172 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 172 (19xx)(Atari Journal).st" size 737280 crc a2b97bc5 md5 488be9a850c4da94ceea5c003d3efb2b )
+)
+
+game (
+	name "Atari Journal 173 (19xx)(Atari Journal)"
+	description "Atari Journal 173 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 173 (19xx)(Atari Journal).st" size 737280 crc a5af202a md5 970d537589382b47f5ca142c355472de )
+)
+
+game (
+	name "Atari Journal 174 (19xx)(Atari Journal)"
+	description "Atari Journal 174 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 174 (19xx)(Atari Journal).st" size 819200 crc 69744b4b md5 b357055e02f200f2e343aed40c38b814 )
+)
+
+game (
+	name "Atari Journal 175 (19xx)(Atari Journal)"
+	description "Atari Journal 175 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 175 (19xx)(Atari Journal).st" size 737280 crc 88555a0b md5 b7e3e26d877f2824cce17d3e689f0467 )
+)
+
+game (
+	name "Atari Journal 176 (19xx)(Atari Journal)"
+	description "Atari Journal 176 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 176 (19xx)(Atari Journal).st" size 737280 crc b1b7cd7c md5 b7c38f9422b7b8854e43afbcac6cd10b )
+)
+
+game (
+	name "Atari Journal 177 (19xx)(Atari Journal)"
+	description "Atari Journal 177 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 177 (19xx)(Atari Journal).st" size 764928 crc da1d3571 md5 a8efcfe06ccdb6d36bd41f1ee101fb92 )
+)
+
+game (
+	name "Atari Journal 178 (19xx)(Atari Journal)"
+	description "Atari Journal 178 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 178 (19xx)(Atari Journal).st" size 737280 crc 686060c5 md5 8c83f354a1bce83e4ce1aa4380c655e8 )
+)
+
+game (
+	name "Atari Journal 179 (19xx)(Atari Journal)"
+	description "Atari Journal 179 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 179 (19xx)(Atari Journal).st" size 737280 crc 6abbc1c8 md5 844401e519e4c39b95798c4041fcccaf )
+)
+
+game (
+	name "Atari Journal 180 (19xx)(Atari Journal)"
+	description "Atari Journal 180 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 180 (19xx)(Atari Journal).st" size 737280 crc 5330a979 md5 a623d17bb593468d7e87992c2bae0238 )
+)
+
+game (
+	name "Atari Journal 181 (19xx)(Atari Journal)"
+	description "Atari Journal 181 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 181 (19xx)(Atari Journal).st" size 737280 crc b5a5417c md5 48655fdcbcc71407ea73ddd337aadc25 )
+)
+
+game (
+	name "Atari Journal 182 (19xx)(Atari Journal)"
+	description "Atari Journal 182 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 182 (19xx)(Atari Journal).st" size 737280 crc f9f7254e md5 f6b09691ef603e68c2dbc83a6f8d2e81 )
+)
+
+game (
+	name "Atari Journal 183 (19xx)(Atari Journal)"
+	description "Atari Journal 183 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 183 (19xx)(Atari Journal).st" size 737280 crc e59f825d md5 4eef3f87b25671429d27a2a847e372ba )
+)
+
+game (
+	name "Atari Journal 184 (19xx)(Atari Journal)"
+	description "Atari Journal 184 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 184 (19xx)(Atari Journal).st" size 737280 crc aeb88fbe md5 eaecae81bf0b83bd8f4aa5d0d9fc2fe4 )
+)
+
+game (
+	name "Atari Journal 185 (19xx)(Atari Journal)"
+	description "Atari Journal 185 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 185 (19xx)(Atari Journal).st" size 737280 crc 0df23304 md5 e521edb53702ea12d3a56428f724f9d0 )
+)
+
+game (
+	name "Atari Journal 186 (19xx)(Atari Journal)"
+	description "Atari Journal 186 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 186 (19xx)(Atari Journal).st" size 737280 crc 7745b8a4 md5 9278ea7e15c53ee9e3c849c4bf1fa57c )
+)
+
+game (
+	name "Atari Journal 187 (19xx)(Atari Journal)"
+	description "Atari Journal 187 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 187 (19xx)(Atari Journal).st" size 737280 crc a5d80d08 md5 c5541daac30a459853a7238995123890 )
+)
+
+game (
+	name "Atari Journal 188 (19xx)(Atari Journal)"
+	description "Atari Journal 188 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 188 (19xx)(Atari Journal).st" size 737280 crc c8133efa md5 e95d7c885f56a22ec5c0c490e3a576f8 )
+)
+
+game (
+	name "Atari Journal 189 (19xx)(Atari Journal)"
+	description "Atari Journal 189 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 189 (19xx)(Atari Journal).st" size 819200 crc 1e1c7820 md5 91a9de215dc2db4aa633a7a72588fe72 )
+)
+
+game (
+	name "Atari Journal 190 (19xx)(Atari Journal)"
+	description "Atari Journal 190 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 190 (19xx)(Atari Journal).st" size 737280 crc 8bf9b179 md5 c3d3e19147dba96fdf7acad7d9c8588b )
+)
+
+game (
+	name "Atari Journal 191 (19xx)(Atari Journal)"
+	description "Atari Journal 191 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 191 (19xx)(Atari Journal).st" size 737280 crc 9f75b62c md5 5b85ba3024a7cca587737785d67503f0 )
+)
+
+game (
+	name "Atari Journal 192 (19xx)(Atari Journal)"
+	description "Atari Journal 192 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 192 (19xx)(Atari Journal).st" size 737280 crc 024c5bd4 md5 76f520f086e9741c4ab3a77ac7c39408 )
+)
+
+game (
+	name "Atari Journal 193 (19xx)(Atari Journal)"
+	description "Atari Journal 193 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 193 (19xx)(Atari Journal).st" size 819200 crc 11bc0e67 md5 e97a302389669a2623593be8e1342992 )
+)
+
+game (
+	name "Atari Journal 194 (19xx)(Atari Journal)"
+	description "Atari Journal 194 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 194 (19xx)(Atari Journal).st" size 737280 crc cfe0221f md5 972815750aa2ed7a73ad743bd3ffab0c )
+)
+
+game (
+	name "Atari Journal 195 (19xx)(Atari Journal)"
+	description "Atari Journal 195 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 195 (19xx)(Atari Journal).st" size 737280 crc fbe2a519 md5 9e890cdbf035fcf64aaedc4411d0b738 )
+)
+
+game (
+	name "Atari Journal 196 (19xx)(Atari Journal)"
+	description "Atari Journal 196 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 196 (19xx)(Atari Journal).st" size 737280 crc 5f8296ed md5 62e47d620b616492fe362ea49cf5f0b4 )
+)
+
+game (
+	name "Atari Journal 197 (19xx)(Atari Journal)"
+	description "Atari Journal 197 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 197 (19xx)(Atari Journal).st" size 737280 crc 537f8093 md5 1a00724a55e035e0ea29a3a4a3499e0c )
+)
+
+game (
+	name "Atari Journal 198 (19xx)(Atari Journal)"
+	description "Atari Journal 198 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 198 (19xx)(Atari Journal).st" size 829440 crc 7aa33c2a md5 3ff30f643fbef88085c7519d201b9b02 )
+)
+
+game (
+	name "Atari Journal 199 (19xx)(Atari Journal)"
+	description "Atari Journal 199 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 199 (19xx)(Atari Journal).st" size 737280 crc c781cab7 md5 a07b3a49a2073f1503e9638835143bad )
+)
+
+game (
+	name "Atari Journal 200 (19xx)(Atari Journal)"
+	description "Atari Journal 200 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 200 (19xx)(Atari Journal).st" size 737280 crc a0119c41 md5 59d3575c063d2094ab1dd859db8a16cc )
+)
+
+game (
+	name "Atari Journal 201 (19xx)(Atari Journal)"
+	description "Atari Journal 201 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 201 (19xx)(Atari Journal).st" size 737280 crc 9d612b1f md5 2d4d545c3bddf04762ad5fce3c427219 )
+)
+
+game (
+	name "Atari Journal 202 (19xx)(Atari Journal)"
+	description "Atari Journal 202 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 202 (19xx)(Atari Journal).st" size 737280 crc 97331e71 md5 810a2ff5ae2cab028b1cff94febde8fe )
+)
+
+game (
+	name "Atari Journal 203 (19xx)(Atari Journal)"
+	description "Atari Journal 203 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 203 (19xx)(Atari Journal).st" size 737280 crc 92fcf70b md5 9c4ae14ef7a7872b08b702017aa39fd3 )
+)
+
+game (
+	name "Atari Journal 204 (19xx)(Atari Journal)"
+	description "Atari Journal 204 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 204 (19xx)(Atari Journal).st" size 737280 crc a8975247 md5 daabbaef6973bd3ae92ccc38dfd5b445 )
+)
+
+game (
+	name "Atari Journal 205 (19xx)(Atari Journal)"
+	description "Atari Journal 205 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 205 (19xx)(Atari Journal).st" size 737280 crc 4068f7c6 md5 7b9f266d9b95fb39a5c1482b4c3cd3c2 )
+)
+
+game (
+	name "Atari Journal 206 (19xx)(Atari Journal)"
+	description "Atari Journal 206 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 206 (19xx)(Atari Journal).st" size 737280 crc 5c29a340 md5 148e6bacf2f3b1c604a05bebafee5899 )
+)
+
+game (
+	name "Atari Journal 207 (19xx)(Atari Journal)"
+	description "Atari Journal 207 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 207 (19xx)(Atari Journal).st" size 737280 crc 31bc8470 md5 ebccdab926611451c802a4e705838504 )
+)
+
+game (
+	name "Atari Journal 208 (19xx)(Atari Journal)"
+	description "Atari Journal 208 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 208 (19xx)(Atari Journal).st" size 737280 crc 9c9cb200 md5 c63ee459b9ff5d9fce90ea5d95cd56b2 )
+)
+
+game (
+	name "Atari Journal 209 (19xx)(Atari Journal)"
+	description "Atari Journal 209 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 209 (19xx)(Atari Journal).st" size 737280 crc f40977d5 md5 5d198f96714bb8082c141602327d4107 )
+)
+
+game (
+	name "Atari Journal 210 (19xx)(Atari Journal)"
+	description "Atari Journal 210 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 210 (19xx)(Atari Journal).st" size 737280 crc 30a1d474 md5 888f18c450df41853f3432db2e46120f )
+)
+
+game (
+	name "Atari Journal 211 (19xx)(Atari Journal)"
+	description "Atari Journal 211 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 211 (19xx)(Atari Journal).st" size 737280 crc d2a6fec4 md5 09e41844734830a1a60bac66e4e21f8a )
+)
+
+game (
+	name "Atari Journal 212 (19xx)(Atari Journal)"
+	description "Atari Journal 212 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 212 (19xx)(Atari Journal).st" size 737280 crc 3fb0738a md5 6c2acac2b85a13385446ac25c4f5b7d4 )
+)
+
+game (
+	name "Atari Journal 213 (19xx)(Atari Journal)"
+	description "Atari Journal 213 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 213 (19xx)(Atari Journal).st" size 737280 crc f4dd217a md5 cfd21d9821a251000032013db059bed7 )
+)
+
+game (
+	name "Atari Journal 214 (19xx)(Atari Journal)"
+	description "Atari Journal 214 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 214 (19xx)(Atari Journal).st" size 737280 crc ceee8639 md5 72ef71c2baddc014742422c614f2b667 )
+)
+
+game (
+	name "Atari Journal 215 (19xx)(Atari Journal)"
+	description "Atari Journal 215 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 215 (19xx)(Atari Journal).st" size 746496 crc 84421d62 md5 29217dcc18bfedc018b96d12f26248ff )
+)
+
+game (
+	name "Atari Journal 216 (19xx)(Atari Journal)"
+	description "Atari Journal 216 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 216 (19xx)(Atari Journal).st" size 737280 crc 6994a6fe md5 0b34ed7b1e982a44e572039d3d4e9167 )
+)
+
+game (
+	name "Atari Journal 217 (19xx)(Atari Journal)"
+	description "Atari Journal 217 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 217 (19xx)(Atari Journal).st" size 737280 crc 3cc0514f md5 45585e12d7ed516c657b38f43e0548b2 )
+)
+
+game (
+	name "Atari Journal 218 (19xx)(Atari Journal)"
+	description "Atari Journal 218 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 218 (19xx)(Atari Journal).st" size 737280 crc 81c86435 md5 bebddaa241a31128abeec6b51fa78fb3 )
+)
+
+game (
+	name "Atari Journal 219 (19xx)(Atari Journal)"
+	description "Atari Journal 219 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 219 (19xx)(Atari Journal).st" size 737280 crc 65e6969b md5 33d9bf15247efe21be891938cc92c81c )
+)
+
+game (
+	name "Atari Journal 220 (19xx)(Atari Journal)"
+	description "Atari Journal 220 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 220 (19xx)(Atari Journal).st" size 737280 crc a8a7d704 md5 f5ed4e4cc3026a315d716108f9666eb7 )
+)
+
+game (
+	name "Atari Journal 221 (19xx)(Atari Journal)"
+	description "Atari Journal 221 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 221 (19xx)(Atari Journal).st" size 737280 crc d7a69717 md5 67864d331720f7ace8098e29c88a5ab0 )
+)
+
+game (
+	name "Atari Journal 222 (19xx)(Atari Journal)"
+	description "Atari Journal 222 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 222 (19xx)(Atari Journal).st" size 737280 crc 91f0256b md5 6b0e16d3b6881c0ac3fdb8a59ee6c400 )
+)
+
+game (
+	name "Atari Journal 223 (19xx)(Atari Journal)"
+	description "Atari Journal 223 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 223 (19xx)(Atari Journal).st" size 737280 crc aac97909 md5 02858eae11f036a3480ef6af0937564c )
+)
+
+game (
+	name "Atari Journal 224 (19xx)(Atari Journal)"
+	description "Atari Journal 224 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 224 (19xx)(Atari Journal).st" size 737280 crc 01a993d6 md5 685fd9834880d0588353b248c7d232d3 )
+)
+
+game (
+	name "Atari Journal 225 (19xx)(Atari Journal)"
+	description "Atari Journal 225 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 225 (19xx)(Atari Journal).st" size 737280 crc 82c0f634 md5 31d5de88c7242d278de0f521c70d0f23 )
+)
+
+game (
+	name "Atari Journal 226 (19xx)(Atari Journal)"
+	description "Atari Journal 226 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 226 (19xx)(Atari Journal).st" size 737280 crc 89a28cb2 md5 29b0a33c4d767b295d894ef8e300c6c4 )
+)
+
+game (
+	name "Atari Journal 227 (19xx)(Atari Journal)"
+	description "Atari Journal 227 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 227 (19xx)(Atari Journal).st" size 737280 crc 3822716f md5 30bb9b4e165a8bfa69d9ab6aea453f78 )
+)
+
+game (
+	name "Atari Journal 228 (19xx)(Atari Journal)"
+	description "Atari Journal 228 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 228 (19xx)(Atari Journal).st" size 737280 crc 6f7eb8e4 md5 119696f1ef35212f93a28a35d5c68425 )
+)
+
+game (
+	name "Atari Journal 229 (19xx)(Atari Journal)"
+	description "Atari Journal 229 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 229 (19xx)(Atari Journal).st" size 737280 crc b2ab850e md5 8f0dd216ac87891a34a4ffc2fc24587f )
+)
+
+game (
+	name "Atari Journal 230 (19xx)(Atari Journal)"
+	description "Atari Journal 230 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 230 (19xx)(Atari Journal).st" size 755712 crc dd79b1cb md5 f7709456fb6a300c353540e168e70490 )
+)
+
+game (
+	name "Atari Journal 231 (19xx)(Atari Journal)"
+	description "Atari Journal 231 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 231 (19xx)(Atari Journal).st" size 737280 crc 2916a049 md5 7bebdab7f46300ce49e3ff23dd95ae42 )
+)
+
+game (
+	name "Atari Journal 232 (19xx)(Atari Journal)"
+	description "Atari Journal 232 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 232 (19xx)(Atari Journal).st" size 737280 crc b033d353 md5 6e049ce529bf7609f07e52e6f652b39c )
+)
+
+game (
+	name "Atari Journal 233 (19xx)(Atari Journal)"
+	description "Atari Journal 233 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 233 (19xx)(Atari Journal).st" size 737280 crc 0410a403 md5 01deb689ca1b1072326364ea0250a38e )
+)
+
+game (
+	name "Atari Journal 234 (19xx)(Atari Journal)"
+	description "Atari Journal 234 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 234 (19xx)(Atari Journal).st" size 819200 crc 380a0f65 md5 5b59a65a3c03e5f9908026db9e9abca9 )
+)
+
+game (
+	name "Atari Journal 235 (19xx)(Atari Journal)"
+	description "Atari Journal 235 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 235 (19xx)(Atari Journal).st" size 737280 crc bc9b12bf md5 d465f533fc2698e35248bbca5a3a6cc3 )
+)
+
+game (
+	name "Atari Journal 236 (19xx)(Atari Journal)"
+	description "Atari Journal 236 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 236 (19xx)(Atari Journal).st" size 737280 crc 76eaae2a md5 221464de0ca99f990131ec261d3bed26 )
+)
+
+game (
+	name "Atari Journal 237 (19xx)(Atari Journal)"
+	description "Atari Journal 237 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 237 (19xx)(Atari Journal).st" size 737280 crc b4a9c61a md5 1ff8b6e1833178b8cad4226b5f0e557c )
+)
+
+game (
+	name "Atari Journal 238 (19xx)(Atari Journal)"
+	description "Atari Journal 238 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 238 (19xx)(Atari Journal).st" size 737280 crc 24ba7c59 md5 887048326af7d551ec8dfe16fa0962fa )
+)
+
+game (
+	name "Atari Journal 239 (19xx)(Atari Journal)"
+	description "Atari Journal 239 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 239 (19xx)(Atari Journal).st" size 737280 crc 9bfbca31 md5 98bfee9326d9e42991fa3d34df178a6a )
+)
+
+game (
+	name "Atari Journal 240 (19xx)(Atari Journal)"
+	description "Atari Journal 240 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 240 (19xx)(Atari Journal).st" size 737280 crc e1131999 md5 65170925669cb296ff680006b9e81b01 )
+)
+
+game (
+	name "Atari Journal 241 (19xx)(Atari Journal)"
+	description "Atari Journal 241 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 241 (19xx)(Atari Journal).st" size 737280 crc 121d5150 md5 007f4768d5d05b05f8d0829d1a51eb72 )
+)
+
+game (
+	name "Atari Journal 242 (19xx)(Atari Journal)"
+	description "Atari Journal 242 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 242 (19xx)(Atari Journal).st" size 737280 crc d8569943 md5 d7708e61200d2f82df27695ada501a4d )
+)
+
+game (
+	name "Atari Journal 243 (19xx)(Atari Journal)"
+	description "Atari Journal 243 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 243 (19xx)(Atari Journal).st" size 737280 crc cb6b0176 md5 f3fc9048dd5325c2bf8079662ea32731 )
+)
+
+game (
+	name "Atari Journal 244 (19xx)(Atari Journal)"
+	description "Atari Journal 244 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 244 (19xx)(Atari Journal).st" size 737280 crc 06d1c266 md5 5b3bae7da9385c70a98429560ddc38f3 )
+)
+
+game (
+	name "Atari Journal 245 (19xx)(Atari Journal)"
+	description "Atari Journal 245 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 245 (19xx)(Atari Journal).st" size 737280 crc 59756ebc md5 56f5805ef1a20a6be247f946c4125aa0 )
+)
+
+game (
+	name "Atari Journal 246 (19xx)(Atari Journal)"
+	description "Atari Journal 246 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 246 (19xx)(Atari Journal).st" size 737280 crc 0dfeb011 md5 07eda00c6555ef80a2298be4b949abe2 )
+)
+
+game (
+	name "Atari Journal 247 (19xx)(Atari Journal)"
+	description "Atari Journal 247 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 247 (19xx)(Atari Journal).st" size 737280 crc 39596612 md5 892b605bd49dcc22505dd9e0a4e7b59a )
+)
+
+game (
+	name "Atari Journal 248 (19xx)(Atari Journal)"
+	description "Atari Journal 248 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 248 (19xx)(Atari Journal).st" size 737280 crc e3b2a419 md5 8678808c7312c04dfb60b9d2b56c9911 )
+)
+
+game (
+	name "Atari Journal 249 (19xx)(Atari Journal)"
+	description "Atari Journal 249 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 249 (19xx)(Atari Journal).st" size 737280 crc c484abc2 md5 c38446766514f5a7d7fc5a212fbfa63e )
+)
+
+game (
+	name "Atari Journal 250 (19xx)(Atari Journal)"
+	description "Atari Journal 250 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 250 (19xx)(Atari Journal).st" size 737280 crc 86f2c83e md5 428f481edd6e5a714c0a427ddcc1bc30 )
+)
+
+game (
+	name "Atari Journal 251 (19xx)(Atari Journal)"
+	description "Atari Journal 251 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 251 (19xx)(Atari Journal).st" size 737280 crc cb167437 md5 424a5679703524b2c112b8bb2a264d7e )
+)
+
+game (
+	name "Atari Journal 252 (19xx)(Atari Journal)"
+	description "Atari Journal 252 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 252 (19xx)(Atari Journal).st" size 737280 crc cee240ee md5 499e25140450c875ffe25dd537d23ed4 )
+)
+
+game (
+	name "Atari Journal 253 (19xx)(Atari Journal)"
+	description "Atari Journal 253 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 253 (19xx)(Atari Journal).st" size 737280 crc e12f8741 md5 b0f79f680e519585803ff9f2cbb61c4e )
+)
+
+game (
+	name "Atari Journal 254 (19xx)(Atari Journal)"
+	description "Atari Journal 254 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 254 (19xx)(Atari Journal).st" size 737280 crc c71cd25b md5 d6697bfa1ab33eddeb2d1dd1feb59bd7 )
+)
+
+game (
+	name "Atari Journal 255 (19xx)(Atari Journal)"
+	description "Atari Journal 255 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 255 (19xx)(Atari Journal).st" size 737280 crc 8fd8328b md5 015f79d62baa4b97931f185bbc03c1a1 )
+)
+
+game (
+	name "Atari Journal 256 (19xx)(Atari Journal)"
+	description "Atari Journal 256 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 256 (19xx)(Atari Journal).st" size 737280 crc 9efe9d20 md5 681deaf126537a8f3e4c08c586b5e1d6 )
+)
+
+game (
+	name "Atari Journal 257 (19xx)(Atari Journal)"
+	description "Atari Journal 257 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 257 (19xx)(Atari Journal).st" size 737280 crc ffc00ac1 md5 5a3f5bf05b7b1266a45a3abc503dd662 )
+)
+
+game (
+	name "Atari Journal 258 (19xx)(Atari Journal)"
+	description "Atari Journal 258 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 258 (19xx)(Atari Journal).st" size 819200 crc 7f63d9d7 md5 1b9c3c2c6f39c2fce84eaefb878daa8a )
+)
+
+game (
+	name "Atari Journal 259 (19xx)(Atari Journal)"
+	description "Atari Journal 259 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 259 (19xx)(Atari Journal).st" size 737280 crc c467f385 md5 bf00c03904de113b6ab85abca2cf0923 )
+)
+
+game (
+	name "Atari Journal 260 (19xx)(Atari Journal)"
+	description "Atari Journal 260 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 260 (19xx)(Atari Journal).st" size 737280 crc e3c5f7f5 md5 3ca75648674d5e95bf75ff817505b667 )
+)
+
+game (
+	name "Atari Journal 261 (19xx)(Atari Journal)"
+	description "Atari Journal 261 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 261 (19xx)(Atari Journal).st" size 737280 crc 933a9022 md5 da45782c7e7174362e85b5e0af2c6c05 )
+)
+
+game (
+	name "Atari Journal 262 (19xx)(Atari Journal)"
+	description "Atari Journal 262 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 262 (19xx)(Atari Journal).st" size 737280 crc 147da0fe md5 85745c8c43ec7b4c6d6cc25b05351438 )
+)
+
+game (
+	name "Atari Journal 263 (19xx)(Atari Journal)"
+	description "Atari Journal 263 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 263 (19xx)(Atari Journal).st" size 737280 crc 414c5400 md5 dbe71cb5eb3a31a760a0cbd71a466690 )
+)
+
+game (
+	name "Atari Journal 264 (19xx)(Atari Journal)"
+	description "Atari Journal 264 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 264 (19xx)(Atari Journal).st" size 737280 crc 413337b2 md5 bfb9e28a05888ee347caf826a8a2c7eb )
+)
+
+game (
+	name "Atari Journal 265 (19xx)(Atari Journal)"
+	description "Atari Journal 265 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 265 (19xx)(Atari Journal).st" size 737280 crc f2263894 md5 c4a8c21c044dfd973cf8585d4620504f )
+)
+
+game (
+	name "Atari Journal 266 (19xx)(Atari Journal)"
+	description "Atari Journal 266 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 266 (19xx)(Atari Journal).st" size 737280 crc 42ca4915 md5 a18988c1804794063fec83fbb1a771fb )
+)
+
+game (
+	name "Atari Journal 267 (19xx)(Atari Journal)"
+	description "Atari Journal 267 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 267 (19xx)(Atari Journal).st" size 737280 crc 7fc549f9 md5 cf3eef76c19b018113ff7fbe06b4ff68 )
+)
+
+game (
+	name "Atari Journal 268 (19xx)(Atari Journal)"
+	description "Atari Journal 268 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 268 (19xx)(Atari Journal).st" size 737280 crc 746b3dec md5 3a8b91a3ba88a424d37e38d5dda30627 )
+)
+
+game (
+	name "Atari Journal 269 (19xx)(Atari Journal)"
+	description "Atari Journal 269 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 269 (19xx)(Atari Journal).st" size 819200 crc 014384f0 md5 d2b4a922ac1dd0dc20d9647633aea2ed )
+)
+
+game (
+	name "Atari Journal 270 (19xx)(Atari Journal)"
+	description "Atari Journal 270 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 270 (19xx)(Atari Journal).st" size 737280 crc d47869c4 md5 11985a34dcf6392707fde7ab8a437966 )
+)
+
+game (
+	name "Atari Journal 271 (19xx)(Atari Journal)"
+	description "Atari Journal 271 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 271 (19xx)(Atari Journal).st" size 737280 crc 2d1702ed md5 1ac42e3c54361e0b089cbb996ca447dc )
+)
+
+game (
+	name "Atari Journal 272 (19xx)(Atari Journal)"
+	description "Atari Journal 272 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 272 (19xx)(Atari Journal).st" size 737280 crc a1a1ba63 md5 28c33bc3dbe6f506b70eb4b24b7794f0 )
+)
+
+game (
+	name "Atari Journal 273 (19xx)(Atari Journal)"
+	description "Atari Journal 273 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 273 (19xx)(Atari Journal).st" size 737280 crc c338a117 md5 63b5b8f9893de5ddf9efe1b79e3b33ce )
+)
+
+game (
+	name "Atari Journal 274 (19xx)(Atari Journal)"
+	description "Atari Journal 274 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 274 (19xx)(Atari Journal).st" size 737280 crc 0be14e0d md5 be3fcda0c2d6fc2aec25078da39a33bb )
+)
+
+game (
+	name "Atari Journal 275 (19xx)(Atari Journal)"
+	description "Atari Journal 275 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 275 (19xx)(Atari Journal).st" size 737280 crc e95c707f md5 6546c5fdf60ab9285da93dbc773cc389 )
+)
+
+game (
+	name "Atari Journal 276 (19xx)(Atari Journal)[u]"
+	description "Atari Journal 276 (19xx)(Atari Journal)[u]"
+	rom ( name "Atari Journal 276 (19xx)(Atari Journal)[u].st" size 737280 crc 8b7bc871 md5 e7e7aa0df3a200d4930a067a26529806 )
+)
+
+game (
+	name "Atari Journal 277 (19xx)(Atari Journal)"
+	description "Atari Journal 277 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 277 (19xx)(Atari Journal).st" size 737280 crc f1d12ff3 md5 1aed0820e8a9f138d3c5a94f002315b0 )
+)
+
+game (
+	name "Atari Journal 278 (19xx)(Atari Journal)"
+	description "Atari Journal 278 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 278 (19xx)(Atari Journal).st" size 737280 crc ca4c0502 md5 95111e3736010617770501a30383fd91 )
+)
+
+game (
+	name "Atari Journal 279 (19xx)(Atari Journal)"
+	description "Atari Journal 279 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 279 (19xx)(Atari Journal).st" size 737280 crc 01335005 md5 15872a8c0fb5268d74d93a9b084463fa )
+)
+
+game (
+	name "Atari Journal 280 (19xx)(Atari Journal)"
+	description "Atari Journal 280 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 280 (19xx)(Atari Journal).st" size 737280 crc 2e247603 md5 2bac4b4a0f5b44d9d41cc40285714bea )
+)
+
+game (
+	name "Atari Journal 281 (19xx)(Atari Journal)"
+	description "Atari Journal 281 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 281 (19xx)(Atari Journal).st" size 737280 crc c246e7a1 md5 4e3d2c3a063a1016a1bcc07fa3f7c97e )
+)
+
+game (
+	name "Atari Journal 282 (19xx)(Atari Journal)"
+	description "Atari Journal 282 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 282 (19xx)(Atari Journal).st" size 737280 crc ce5c9bf8 md5 becae69b402f03eccbcb5686323283e1 )
+)
+
+game (
+	name "Atari Journal 283 (19xx)(Atari Journal)"
+	description "Atari Journal 283 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 283 (19xx)(Atari Journal).st" size 737280 crc ddc2ca02 md5 955181712fefc097d8efd380d289e829 )
+)
+
+game (
+	name "Atari Journal 284 (19xx)(Atari Journal)"
+	description "Atari Journal 284 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 284 (19xx)(Atari Journal).st" size 737280 crc b80118e9 md5 ec9db8653533ac82472c8275a97cd693 )
+)
+
+game (
+	name "Atari Journal 285 (19xx)(Atari Journal)"
+	description "Atari Journal 285 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 285 (19xx)(Atari Journal).st" size 737280 crc e319c02c md5 678993a701c6a5e3ca45986525366b13 )
+)
+
+game (
+	name "Atari Journal 286 (19xx)(Atari Journal)"
+	description "Atari Journal 286 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 286 (19xx)(Atari Journal).st" size 755712 crc eb8382ba md5 61ee40935b514609db6bc599e38f0ad6 )
+)
+
+game (
+	name "Atari Journal 287 (19xx)(Atari Journal)"
+	description "Atari Journal 287 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 287 (19xx)(Atari Journal).st" size 737280 crc 20b5e4b4 md5 e621724bdb85183cc758acc202c783dc )
+)
+
+game (
+	name "Atari Journal 288 (19xx)(Atari Journal)"
+	description "Atari Journal 288 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 288 (19xx)(Atari Journal).st" size 737280 crc 94135535 md5 8c134af6565a24599261cecf272587db )
+)
+
+game (
+	name "Atari Journal 289 (19xx)(Atari Journal)"
+	description "Atari Journal 289 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 289 (19xx)(Atari Journal).st" size 737280 crc f7f26148 md5 9f8a9f7980af388b4ecc085fccfdd1ab )
+)
+
+game (
+	name "Atari Journal 290 (19xx)(Atari Journal)"
+	description "Atari Journal 290 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 290 (19xx)(Atari Journal).st" size 737280 crc 68e99718 md5 10ab8f7c40bdefbeda0ddff62286b104 )
+)
+
+game (
+	name "Atari Journal 291 (19xx)(Atari Journal)"
+	description "Atari Journal 291 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 291 (19xx)(Atari Journal).st" size 737280 crc ae95065d md5 eb0524a52e37d30b29f93b5efb06b949 )
+)
+
+game (
+	name "Atari Journal 292 (19xx)(Atari Journal)"
+	description "Atari Journal 292 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 292 (19xx)(Atari Journal).st" size 737280 crc 57607da0 md5 ce92eee1d6a03cdf57f521e17c223c9a )
+)
+
+game (
+	name "Atari Journal 293 (19xx)(Atari Journal)"
+	description "Atari Journal 293 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 293 (19xx)(Atari Journal).st" size 737280 crc 5d06e446 md5 52d6406a25ec5ce5f4928c4c7f51c041 )
+)
+
+game (
+	name "Atari Journal 294 (19xx)(Atari Journal)"
+	description "Atari Journal 294 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 294 (19xx)(Atari Journal).st" size 737280 crc 817a5adb md5 ab61b7f368ac2e6d177c122738ac02b8 )
+)
+
+game (
+	name "Atari Journal 295 (19xx)(Atari Journal)"
+	description "Atari Journal 295 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 295 (19xx)(Atari Journal).st" size 737280 crc 7b43f108 md5 b3ace254fe3642fa88022329271f27a2 )
+)
+
+game (
+	name "Atari Journal 296 (19xx)(Atari Journal)"
+	description "Atari Journal 296 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 296 (19xx)(Atari Journal).st" size 737280 crc 820d0996 md5 f6a733a69e0bc07c06fc208c53470ae1 )
+)
+
+game (
+	name "Atari Journal 297 (19xx)(Atari Journal)"
+	description "Atari Journal 297 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 297 (19xx)(Atari Journal).st" size 737280 crc 648a639a md5 791b88e89caec739c4be61f8d8c73088 )
+)
+
+game (
+	name "Atari Journal 298 (19xx)(Atari Journal)"
+	description "Atari Journal 298 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 298 (19xx)(Atari Journal).st" size 737280 crc 68258f58 md5 ba29bbbd009c6532992f7a20af515893 )
+)
+
+game (
+	name "Atari Journal 299 (19xx)(Atari Journal)"
+	description "Atari Journal 299 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 299 (19xx)(Atari Journal).st" size 737280 crc 9c597d64 md5 3ed8841af531bf18566e22a66c495ecd )
+)
+
+game (
+	name "Atari Journal 300 (19xx)(Atari Journal)"
+	description "Atari Journal 300 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 300 (19xx)(Atari Journal).st" size 737280 crc dfc9b7bb md5 fb742789dab26a7fc852f4511a75ae16 )
+)
+
+game (
+	name "Atari Journal 301 (19xx)(Atari Journal)"
+	description "Atari Journal 301 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 301 (19xx)(Atari Journal).st" size 737280 crc 3b2a4037 md5 6a2556e90b41ce6cb8cd228274f0c19e )
+)
+
+game (
+	name "Atari Journal 302 (19xx)(Atari Journal)"
+	description "Atari Journal 302 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 302 (19xx)(Atari Journal).st" size 737280 crc 2c4dd8b6 md5 cdb61d56649af371727ec97cde2999ad )
+)
+
+game (
+	name "Atari Journal 303 (19xx)(Atari Journal)"
+	description "Atari Journal 303 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 303 (19xx)(Atari Journal).st" size 737280 crc 825a6a73 md5 66e85bf6d5b9428cdc18538b7a261d3d )
+)
+
+game (
+	name "Atari Journal 304 (19xx)(Atari Journal)"
+	description "Atari Journal 304 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 304 (19xx)(Atari Journal).st" size 819200 crc c3ddb3f9 md5 1da109c51046c63b2b979a0845c061f4 )
+)
+
+game (
+	name "Atari Journal 305 (19xx)(Atari Journal)"
+	description "Atari Journal 305 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 305 (19xx)(Atari Journal).st" size 737280 crc 949dd8a0 md5 13a081a24d732a1d082934000f7fa49a )
+)
+
+game (
+	name "Atari Journal 306 (19xx)(Atari Journal)"
+	description "Atari Journal 306 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 306 (19xx)(Atari Journal).st" size 819200 crc d210dc04 md5 f18e7eca1d5b544b5235b90fae2e53dd )
+)
+
+game (
+	name "Atari Journal 307 (19xx)(Atari Journal)"
+	description "Atari Journal 307 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 307 (19xx)(Atari Journal).st" size 737280 crc 113d412b md5 9032e38a43b5e88deaaa65607e4fcf53 )
+)
+
+game (
+	name "Atari Journal 308 (19xx)(Atari Journal)"
+	description "Atari Journal 308 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 308 (19xx)(Atari Journal).st" size 737280 crc 82b5bbee md5 340f480d77f6e5d68fa8484b7a75f347 )
+)
+
+game (
+	name "Atari Journal 309 (19xx)(Atari Journal)"
+	description "Atari Journal 309 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 309 (19xx)(Atari Journal).st" size 737280 crc 9209a8c9 md5 2fdebd96cfa9f23612cd097a074ecbfd )
+)
+
+game (
+	name "Atari Journal 310 (19xx)(Atari Journal)"
+	description "Atari Journal 310 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 310 (19xx)(Atari Journal).st" size 839680 crc f7d35c83 md5 bed4c68fdaac517a85b0a8b9989fb9f1 )
+)
+
+game (
+	name "Atari Journal 311 (19xx)(Atari Journal)"
+	description "Atari Journal 311 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 311 (19xx)(Atari Journal).st" size 737280 crc bc3aa3b6 md5 1d56ce71e467493367fb507d28f34cf2 )
+)
+
+game (
+	name "Atari Journal 312 (19xx)(Atari Journal)"
+	description "Atari Journal 312 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 312 (19xx)(Atari Journal).st" size 737280 crc 0bfe0ae0 md5 d3a49c5048cb06a33b04366edcdf47a2 )
+)
+
+game (
+	name "Atari Journal 313 (19xx)(Atari Journal)"
+	description "Atari Journal 313 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 313 (19xx)(Atari Journal).st" size 737280 crc f46cbc5d md5 4c2d7157da87e5ad9914ecbd4927346c )
+)
+
+game (
+	name "Atari Journal 314 (19xx)(Atari Journal)"
+	description "Atari Journal 314 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 314 (19xx)(Atari Journal).st" size 737280 crc 9634270c md5 20a1a85f2e84f8629d0e810c864a95a1 )
+)
+
+game (
+	name "Atari Journal 315 (19xx)(Atari Journal)"
+	description "Atari Journal 315 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 315 (19xx)(Atari Journal).st" size 737280 crc 6cb86853 md5 fbc5dd2681c562cff40cfe76a7219988 )
+)
+
+game (
+	name "Atari Journal 316 (19xx)(Atari Journal)"
+	description "Atari Journal 316 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 316 (19xx)(Atari Journal).st" size 737280 crc 2908304b md5 b644c0baeb632a1b87e2aafc41e7f9f8 )
+)
+
+game (
+	name "Atari Journal 317 (19xx)(Atari Journal)"
+	description "Atari Journal 317 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 317 (19xx)(Atari Journal).st" size 819200 crc 73780341 md5 18044e4d6a8093a9cc7b0da63721f9a7 )
+)
+
+game (
+	name "Atari Journal 318 (19xx)(Atari Journal)"
+	description "Atari Journal 318 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 318 (19xx)(Atari Journal).st" size 737280 crc efa44963 md5 483142f2db84bb0e1540efa0f525cbcf )
+)
+
+game (
+	name "Atari Journal 319 (19xx)(Atari Journal)"
+	description "Atari Journal 319 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 319 (19xx)(Atari Journal).st" size 737280 crc fd926a65 md5 e23d0cf074c14252ffcbe159c73b5d51 )
+)
+
+game (
+	name "Atari Journal 320 (19xx)(Atari Journal)"
+	description "Atari Journal 320 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 320 (19xx)(Atari Journal).st" size 849920 crc bfa58f08 md5 8a03944a47e353b13a04908bb6c27b2d )
+)
+
+game (
+	name "Atari Journal 321 (19xx)(Atari Journal)"
+	description "Atari Journal 321 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 321 (19xx)(Atari Journal).st" size 737280 crc 9a236ef9 md5 d1994510ef5b144bbdcb4972ea3df548 )
+)
+
+game (
+	name "Atari Journal 322 (19xx)(Atari Journal)"
+	description "Atari Journal 322 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 322 (19xx)(Atari Journal).st" size 737280 crc 5a104ce8 md5 7768723a7ea50b7e59690b1d857469c1 )
+)
+
+game (
+	name "Atari Journal 323 (19xx)(Atari Journal)"
+	description "Atari Journal 323 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 323 (19xx)(Atari Journal).st" size 737280 crc 7ea69d5a md5 09a40b0ce900ee419e3f874c00067f57 )
+)
+
+game (
+	name "Atari Journal 324 (19xx)(Atari Journal)"
+	description "Atari Journal 324 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 324 (19xx)(Atari Journal).st" size 737280 crc 0d7e4242 md5 79caaba02b9446d6a771fd0999e14ddf )
+)
+
+game (
+	name "Atari Journal 325 (19xx)(Atari Journal)"
+	description "Atari Journal 325 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 325 (19xx)(Atari Journal).st" size 737280 crc e9fcd145 md5 e6b33aecd7893e415606f4df2dc68bee )
+)
+
+game (
+	name "Atari Journal 326 (19xx)(Atari Journal)"
+	description "Atari Journal 326 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 326 (19xx)(Atari Journal).st" size 737280 crc 3736977f md5 f81b6557116756699155008ce91e629b )
+)
+
+game (
+	name "Atari Journal 327 (19xx)(Atari Journal)"
+	description "Atari Journal 327 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 327 (19xx)(Atari Journal).st" size 737280 crc ac423c8a md5 ca82f1029f23e757244fda29f6a7c7d7 )
+)
+
+game (
+	name "Atari Journal 328 (19xx)(Atari Journal)"
+	description "Atari Journal 328 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 328 (19xx)(Atari Journal).st" size 737280 crc c4360136 md5 14cf9216552f768c96c73c8c5c2ef4c8 )
+)
+
+game (
+	name "Atari Journal 329 (19xx)(Atari Journal)"
+	description "Atari Journal 329 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 329 (19xx)(Atari Journal).st" size 737280 crc e61949f0 md5 b2a721f073ac403db373e6ca2a4c1e8b )
+)
+
+game (
+	name "Atari Journal 330 (19xx)(Atari Journal)"
+	description "Atari Journal 330 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 330 (19xx)(Atari Journal).st" size 819200 crc 9e1c60d9 md5 e45a94e753acc78f5561acaa5cb2df0c )
+)
+
+game (
+	name "Atari Journal 331 (19xx)(Atari Journal)"
+	description "Atari Journal 331 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 331 (19xx)(Atari Journal).st" size 737280 crc cb457fd2 md5 89d6f995222d7e9a962e53ef68d25ae1 )
+)
+
+game (
+	name "Atari Journal 332 (19xx)(Atari Journal)"
+	description "Atari Journal 332 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 332 (19xx)(Atari Journal).st" size 737280 crc d437cee7 md5 975514f6b1518eed95f81b4efacdfd90 )
+)
+
+game (
+	name "Atari Journal 333 (19xx)(Atari Journal)"
+	description "Atari Journal 333 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 333 (19xx)(Atari Journal).st" size 737280 crc 2d0dd887 md5 3a8d14b8c4021c15e454abbc294663ed )
+)
+
+game (
+	name "Atari Journal 334 (19xx)(Atari Journal)"
+	description "Atari Journal 334 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 334 (19xx)(Atari Journal).st" size 737280 crc 618a5a56 md5 6dadb319df86817cca2e2952cced8ee2 )
+)
+
+game (
+	name "Atari Journal 335 (19xx)(Atari Journal)"
+	description "Atari Journal 335 (19xx)(Atari Journal)"
+	rom ( name "Atari Journal 335 (19xx)(Atari Journal).st" size 737280 crc 120dde86 md5 997d2d7ad84ac6a62acf9304a40a1419 )
+)

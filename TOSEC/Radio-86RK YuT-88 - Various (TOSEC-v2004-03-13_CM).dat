@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Radio-86RK YuT-88 - Various"
+	description "Radio-86RK YuT-88 - Various (TOSEC-v2004-03-13)"
+	category "Radio-86RK YuT-88 - Various"
+	version 2004-03-13
+	author "themabus"
+)
+
+game (
+	name "CPM 256k v2.2 (19xx)(Digital Research)[addr 0x4a00]"
+	description "CPM 256k v2.2 (19xx)(Digital Research)[addr 0x4a00]"
+	rom ( name "CPM 256k v2.2 (19xx)(Digital Research)[addr 0x4a00].rku" size 7945 crc 8041af21 md5 acd2fb3ff523c8f7ef38754672a48981 )
+)
+
+game (
+	name "CPM 35k v2.2 (19xx)(Digital Research)[addr 0x4a00]"
+	description "CPM 35k v2.2 (19xx)(Digital Research)[addr 0x4a00]"
+	rom ( name "CPM 35k v2.2 (19xx)(Digital Research)[addr 0x4a00].rku" size 6239 crc 655a749b md5 51517ebfda73d099d598cfbdf4a0238b )
+)
+
+game (
+	name "Changer 1.1 (19xx)(-)[CPM]"
+	description "Changer 1.1 (19xx)(-)[CPM]"
+	rom ( name "Changer 1.1 (19xx)(-)[CPM].rku" size 777 crc f2a598f4 md5 16a703c9d79838e0645a6fefcec68b51 )
+)
+
+game (
+	name "Tetris (19xx)(-)"
+	description "Tetris (19xx)(-)"
+	rom ( name "Tetris (19xx)(-).rku" size 1641 crc e7373ec6 md5 722c8bd4d743d9f8110353b87837a1f3 )
+)

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Epson PX-8, HC-88 & Geneva - Compilations - Applications - [TD0]"
+	description "Epson PX-8, HC-88 & Geneva - Compilations - Applications - [TD0] (TOSEC-v2011-11-27)"
+	category "Epson PX-8, HC-88 & Geneva - Compilations - Applications - [TD0]"
+	version 2011-11-27
+	author "TKaos"
+)
+
+game (
+	name "CP-M Utilities Disk (19xx)(-)"
+	description "CP-M Utilities Disk (19xx)(-)"
+	rom ( name "CP-M Utilities Disk (19xx)(-).td0" size 84356 crc ca0db987 md5 68ee8ef4b1a6c7c024b73647770fce99 sha1 6cfb21e4fb70cdec3aa9e1ee6d7af2cf69c7181a )
+)
+

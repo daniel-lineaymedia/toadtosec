@@ -1,0 +1,103 @@
+clrmamepro (
+	name "Acorn BBC - Magazines - [DSD]"
+	description "Acorn BBC - Magazines - [DSD] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Magazines - [DSD]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Acorn User 1987 Compilation (19xx)(-)"
+	description "Acorn User 1987 Compilation (19xx)(-)"
+	rom ( name "Acorn User 1987 Compilation (19xx)(-).dsd" size 409600 crc 357b63b0 md5 3cd893e61f460d8a5ceed49c5ea76cf0 )
+)
+
+game (
+	name "Acorn User 1988 Compilation (19xx)(-)"
+	description "Acorn User 1988 Compilation (19xx)(-)"
+	rom ( name "Acorn User 1988 Compilation (19xx)(-).dsd" size 204800 crc 7f3806ff md5 2e00c1290322cbdd93a8206dfb693272 )
+)
+
+game (
+	name "Beebug Magscan - Volumes 01 to 12 (19xx)(-)"
+	description "Beebug Magscan - Volumes 01 to 12 (19xx)(-)"
+	rom ( name "Beebug Magscan - Volumes 01 to 12 (19xx)(-).dsd" size 409600 crc e84790ac md5 5a031c277059accb2138d365f364e6ff )
+)
+
+game (
+	name "Eight Bit Magazine - Issue 16 (19xx)(-)"
+	description "Eight Bit Magazine - Issue 16 (19xx)(-)"
+	rom ( name "Eight Bit Magazine - Issue 16 (19xx)(-).dsd" size 409600 crc a39a18c9 md5 253ccbc3a290d03fcb9bd1c46d2157b2 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 01 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 01 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 01 (19xx)(-).dsd" size 409600 crc 646471ca md5 5ae4ba1b0efc2f77d6299214011cf369 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 02 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 02 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 02 (19xx)(-).dsd" size 409600 crc 3283e492 md5 dabd0cd08e5010b4072631d4b3019102 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 03 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 03 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 03 (19xx)(-).dsd" size 409600 crc 9c5fd0ac md5 4bbb69151cf1fd777d9c0942b0c5e8b4 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 04 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 04 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 04 (19xx)(-).dsd" size 409600 crc 9906a6e3 md5 9b82c5e851baccd5b0e7b5f8be868438 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 05 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 05 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 05 (19xx)(-).dsd" size 409600 crc 38a89836 md5 de8a4e525684f47c506a5ab301793428 )
+)
+
+game (
+	name "Fast Access - Volume 01 - Issue 06 (19xx)(-)"
+	description "Fast Access - Volume 01 - Issue 06 (19xx)(-)"
+	rom ( name "Fast Access - Volume 01 - Issue 06 (19xx)(-).dsd" size 409600 crc a01047e0 md5 ccd6283f3af5692d451ee362d005905b )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 01 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 01 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 01 (19xx)(-).dsd" size 409600 crc 20306101 md5 c6a415ba75636e962f0d403c185642e5 )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 02 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 02 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 02 (19xx)(-).dsd" size 409600 crc b41ba5c3 md5 4a97a4b1596e423e4b10b7b99689cb7c )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 03 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 03 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 03 (19xx)(-).dsd" size 409600 crc b7a437ab md5 6fcd5bda11522b812620235e88e08fc1 )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 04 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 04 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 04 (19xx)(-).dsd" size 409600 crc 0fb11cb3 md5 703afb0f31bc9b89f863200b5dbb41e2 )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 05 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 05 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 05 (19xx)(-).dsd" size 409600 crc 8fadda12 md5 8fb26c5c855ad1f513e47339caedf30b )
+)
+
+game (
+	name "Fast Access - Volume 02 - Issue 06 (19xx)(-)"
+	description "Fast Access - Volume 02 - Issue 06 (19xx)(-)"
+	rom ( name "Fast Access - Volume 02 - Issue 06 (19xx)(-).dsd" size 409600 crc 826adc52 md5 40cf662fedbb367438f1f2458820bffa )
+)

@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Nascom I & II - Games - [COM]"
+	description "Nascom I & II - Games - [COM] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Games - [COM]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Lords of Time (198x)(-)[includes BIOS]"
+	description "Lords of Time (198x)(-)[includes BIOS]"
+	rom ( name "Lords of Time (198x)(-)[includes BIOS].com" size 33920 crc 8b0a3526 md5 6bc23e0eb4e847352c4eceae423358a8 )
+)
+
+game (
+	name "Snowball (198x)(-)[includes BIOS]"
+	description "Snowball (198x)(-)[includes BIOS]"
+	rom ( name "Snowball (198x)(-)[includes BIOS].com" size 29824 crc 5e995d8f md5 e4c51d363d3e70a2c58c652dd99fe3f1 )
+)

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Galaksija Galaksija Plus - Games"
+	description "Galaksija Galaksija Plus - Games (TOSEC-v2009-04-27)"
+	category "Galaksija Galaksija Plus - Games"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en)"
+	description "Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en)"
+	rom ( name "Pac Man Plus (19xx)(Perusanec, Josip)(YU)(en).gtp" size 12572 crc cbb8af07 md5 19da067fe41da15a1a5ee3ecf543df8d )
+)
+
+game (
+	name "Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU)"
+	description "Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU)"
+	rom ( name "Svetleci Bicikli Plus (1986)(Balint, Nenad)(YU).gtp" size 2583 crc 2d4000fe md5 18ab44062534a04f04b62f53cc02a93f )
+)
+
+game (
+	name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	description "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en)"
+	rom ( name "Tetris (1988-07-21)(Obradovic, Dragoljub)(YU)(en).gtp" size 2706 crc 64015b12 md5 581e1c5d169f9f59c63e179d149b659a )
+)

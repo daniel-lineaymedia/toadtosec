@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Apple II - Magazines - [DSK]"
+	description "Apple II - Magazines - [DSK] (TOSEC-v2010-01-16)"
+	category "Apple II - Magazines - [DSK]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM]"
+	description "Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM]"
+	rom ( name "Peeker Nr. 03 (1985)(Dr. Alfred Huethig Verlag)(DE)[CPM].dsk" size 143360 crc 4b8b43de md5 13c1c113577a98e9c23b9ebe05c591e9 )
+)
+
+game (
+	name "Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]"
+	description "Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]"
+	rom ( name "Peeker Nr. 09 (1985)(Dr. Alfred Huethig Verlag)(DE)[PASCAL].dsk" size 143360 crc b0084186 md5 e8d89db444e0972c81488df204dbf34e )
+)
+
+game (
+	name "Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]"
+	description "Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL]"
+	rom ( name "Peeker Nr. 20 (1986)(Dr. Alfred Huethig Verlag)(DE)[PASCAL].dsk" size 143360 crc b7aa9ba4 md5 f1bef4042ee9e1f1d2f5622fb5a6479c )
+)

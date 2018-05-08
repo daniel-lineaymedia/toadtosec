@@ -1,0 +1,13 @@
+clrmamepro (
+	name "NEC PC-8201 - Firmware"
+	description "NEC PC-8201 - Firmware (TOSEC-v2009-06-25)"
+	category "NEC PC-8201 - Firmware"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "NEC PC-8201 BIOS (1983)(NEC)[BASIC ROM]"
+	description "NEC PC-8201 BIOS (1983)(NEC)[BASIC ROM]"
+	rom ( name "NEC PC-8201 BIOS (1983)(NEC)[BASIC ROM].bin" size 32768 crc 30555035 md5 4d23b4b1655f71cf3c8813f8e46d9353 )
+)

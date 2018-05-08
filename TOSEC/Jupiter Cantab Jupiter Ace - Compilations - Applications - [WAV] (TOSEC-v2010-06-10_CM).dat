@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Applications - [WAV]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Applications - [WAV] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Applications - [WAV]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(GB)[19K]"
+	description "Utilities (1985)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(GB)[19K].wav" size 6708638 crc f85a2002 md5 af619741b88cbafabe31cef49849b45f )
+)

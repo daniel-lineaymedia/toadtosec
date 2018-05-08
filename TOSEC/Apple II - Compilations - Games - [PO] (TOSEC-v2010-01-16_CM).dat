@@ -1,0 +1,49 @@
+clrmamepro (
+	name "Apple II - Compilations - Games - [PO]"
+	description "Apple II - Compilations - Games - [PO] (TOSEC-v2010-01-16)"
+	category "Apple II - Compilations - Games - [PO]"
+	version 2010-01-16
+	author "TKaos - Cassiel - jjs"
+)
+
+game (
+	name "ZZZ-UNK-games10"
+	description "ZZZ-UNK-games10"
+	rom ( name "ZZZ-UNK-games10.po" size 143360 crc a76aae75 md5 bfdd261d23841db1e314a7ddeff2741d )
+)
+
+game (
+	name "ZZZ-UNK-games11"
+	description "ZZZ-UNK-games11"
+	rom ( name "ZZZ-UNK-games11.po" size 143360 crc f524b917 md5 435d163cebb169df0f86fa57e82dfcdf )
+)
+
+game (
+	name "ZZZ-UNK-games4"
+	description "ZZZ-UNK-games4"
+	rom ( name "ZZZ-UNK-games4.po" size 143360 crc fc71415d md5 58b13c1539498c4b291e64d8543acf4d )
+)
+
+game (
+	name "ZZZ-UNK-games8"
+	description "ZZZ-UNK-games8"
+	rom ( name "ZZZ-UNK-games8.po" size 143360 crc 4e2a9e0d md5 75d51fdd7f83f8be054be69e7b5a8ca8 )
+)
+
+game (
+	name "ZZZ-UNK-games9"
+	description "ZZZ-UNK-games9"
+	rom ( name "ZZZ-UNK-games9.po" size 143360 crc dfa931fb md5 27f78ece8ef0ccce4f88727ad8a1990e )
+)
+
+game (
+	name "ZZZ-UNK-Jeux (19xx)(-)"
+	description "ZZZ-UNK-Jeux (19xx)(-)"
+	rom ( name "ZZZ-UNK-Jeux (19xx)(-).po" size 143360 crc f1e17365 md5 9f4592ec375715daf2ae362ce9998ec3 )
+)
+
+game (
+	name "ZZZ-UNK-Main Hall & Beginners Cave (-)"
+	description "ZZZ-UNK-Main Hall & Beginners Cave (-)"
+	rom ( name "ZZZ-UNK-Main Hall & Beginners Cave (-).po" size 143360 crc f9fd2b95 md5 017500aba03e2145275fba9dcb24e554 )
+)

@@ -1,0 +1,91 @@
+clrmamepro (
+	name "Atari 8bit - Applications - [CAS]"
+	description "Atari 8bit - Applications - [CAS] (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Applications - [CAS]"
+	version 2010-08-15
+	author "TKaos - gRzEnIu - Cassiel"
+)
+
+game (
+	name "Artist (198x)(Calisto Software)(GB)[CLOAD+RUN][BASIC]"
+	description "Artist (198x)(Calisto Software)(GB)[CLOAD+RUN][BASIC]"
+	rom ( name "Artist (198x)(Calisto Software)(GB)[CLOAD+RUN][BASIC].cas" size 12476 crc 8d77be52 md5 a03f88a12c8178077bff506d6b58a474 )
+)
+
+game (
+	name "Basic Turbo 2000 (19xx)(-)"
+	description "Basic Turbo 2000 (19xx)(-)"
+	rom ( name "Basic Turbo 2000 (19xx)(-).cas" size 2676 crc 782e9666 md5 7470990d3b04c735c62991eebe1b5d3c )
+)
+
+game (
+	name "Car Costs (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC]"
+	description "Car Costs (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC]"
+	rom ( name "Car Costs (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC].cas" size 9536 crc e9e49a29 md5 426de11e3f9d4e81aebf16b861e681e5 )
+)
+
+game (
+	name "Car Costs (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC]"
+	description "Car Costs (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC]"
+	rom ( name "Car Costs (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC].cas" size 8976 crc fddd41a5 md5 ac9f0a6640f82c65150ba68956faabc1 )
+)
+
+game (
+	name "Character Generator (19xx)(Datasoft)(US)[CLOAD+RUN][BASIC]"
+	description "Character Generator (19xx)(Datasoft)(US)[CLOAD+RUN][BASIC]"
+	rom ( name "Character Generator (19xx)(Datasoft)(US)[CLOAD+RUN][BASIC].cas" size 13176 crc 6707c14f md5 e8d1a38b2e83ddd560fdd465740a4236 )
+)
+
+game (
+	name "ES-Forth vC1.2 (1984)(English Software)(GB)"
+	description "ES-Forth vC1.2 (1984)(English Software)(GB)"
+	rom ( name "ES-Forth vC1.2 (1984)(English Software)(GB).cas" size 11076 crc a1dd2762 md5 cad44f64999f27afa896f5d4bd04927f )
+)
+
+game (
+	name "Home Financial Management (1982)(Thorn EMI)(GB)[req OSb]"
+	description "Home Financial Management (1982)(Thorn EMI)(GB)[req OSb]"
+	rom ( name "Home Financial Management (1982)(Thorn EMI)(GB)[req OSb].cas" size 12196 crc 5ee09e9b md5 f455a42b98aaece02612aa9f9f0f9e0f )
+)
+
+game (
+	name "Household Finance (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC]"
+	description "Household Finance (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC]"
+	rom ( name "Household Finance (1982)(Creative Software)(US)(Side A)[CLOAD+RUN][BASIC].cas" size 9676 crc b0886761 md5 3ee6ac7ef9b0c6e9643603048dfc8a79 )
+)
+
+game (
+	name "Household Finance (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC]"
+	description "Household Finance (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC]"
+	rom ( name "Household Finance (1982)(Creative Software)(US)(Side B)[CLOAD+RUN][BASIC].cas" size 11496 crc 20770d31 md5 9d5237dc40e3a039a611499b91152e16 )
+)
+
+game (
+	name "Magic Window (1982)(Quicksilva)(GB)[CLOAD+RUN][BASIC]"
+	description "Magic Window (1982)(Quicksilva)(GB)[CLOAD+RUN][BASIC]"
+	rom ( name "Magic Window (1982)(Quicksilva)(GB)[CLOAD+RUN][BASIC].cas" size 15276 crc d8f1b361 md5 7426afbf5bd68dbd140bfd1fedf7145a )
+)
+
+game (
+	name "Mailing List (1980)(Atari)(US)(Side A)[CLOAD+RUN][BASIC]"
+	description "Mailing List (1980)(Atari)(US)(Side A)[CLOAD+RUN][BASIC]"
+	rom ( name "Mailing List (1980)(Atari)(US)(Side A)[CLOAD+RUN][BASIC].cas" size 18916 crc 6ff70d9d md5 9db4a147ba42a810b9a0c94c3d8d58fc )
+)
+
+game (
+	name "Mailing List (1980)(Atari)(US)(Side B)[CLOAD+RUN][BASIC]"
+	description "Mailing List (1980)(Atari)(US)(Side B)[CLOAD+RUN][BASIC]"
+	rom ( name "Mailing List (1980)(Atari)(US)(Side B)[CLOAD+RUN][BASIC].cas" size 29136 crc adcefe07 md5 eb27a355eabc6a8fdc444d97fb9120d7 )
+)
+
+game (
+	name "Polskie LOGO (1986)(Bajtek)(PL)"
+	description "Polskie LOGO (1986)(Bajtek)(PL)"
+	rom ( name "Polskie LOGO (1986)(Bajtek)(PL).cas" size 20049 crc fb116220 md5 6b6b0d01a543c32c2a00513f5828eda2 )
+)
+
+game (
+	name "Softnote (1984)(Aackosoft)(NL)[CLOAD+RUN][BASIC]"
+	description "Softnote (1984)(Aackosoft)(NL)[CLOAD+RUN][BASIC]"
+	rom ( name "Softnote (1984)(Aackosoft)(NL)[CLOAD+RUN][BASIC].cas" size 6736 crc c108de05 md5 c47b3c75d02fd2009df4c25feadda441 )
+)

@@ -1,0 +1,709 @@
+clrmamepro (
+	name "Acorn Electron - Games - [SSD]"
+	description "Acorn Electron - Games - [SSD] (TOSEC-v2008-10-11)"
+	category "Acorn Electron - Games - [SSD]"
+	version 2008-10-11
+	author "Grendel - Tankgirl - CRSV - Cassiel"
+)
+
+game (
+	name "Adventure (1983)(Program Power)"
+	description "Adventure (1983)(Program Power)"
+	rom ( name "Adventure (1983)(Program Power).ssd" size 13568 crc beed46d2 md5 af584d783d99a23ff4d5c26b7125924c )
+)
+
+game (
+	name "Airlift (19xx)(Superior Software)[b]"
+	description "Airlift (19xx)(Superior Software)[b]"
+	rom ( name "Airlift (19xx)(Superior Software)[b].ssd" size 10752 crc f35433bd md5 d20ca56cd35167f01be71887513aa922 )
+)
+
+game (
+	name "Alien Dropout (1982)(Hanson, R.M.P.)"
+	description "Alien Dropout (1982)(Hanson, R.M.P.)"
+	rom ( name "Alien Dropout (1982)(Hanson, R.M.P.).ssd" size 9472 crc 3989ff1b md5 6f60c6e535437caa1911def9b083ec0c )
+)
+
+game (
+	name "Alphatron (19xx)(Program Power)"
+	description "Alphatron (19xx)(Program Power)"
+	rom ( name "Alphatron (19xx)(Program Power).ssd" size 22272 crc a402fa65 md5 f8937ecbd57b93ecd76a19d10294515d )
+)
+
+game (
+	name "Ballistix (1989)(Acornsoft - Superior Software)"
+	description "Ballistix (1989)(Acornsoft - Superior Software)"
+	rom ( name "Ballistix (1989)(Acornsoft - Superior Software).ssd" size 41472 crc e96fdfca md5 7dd8a4ea564cb556c2ebd61e4c792bc3 )
+)
+
+game (
+	name "Bar Billiards (1987)(Blue Riboon)"
+	description "Bar Billiards (1987)(Blue Riboon)"
+	rom ( name "Bar Billiards (1987)(Blue Riboon).ssd" size 12288 crc b0e84a03 md5 ac63c7a4a46977a2aee58feb8c5c0723 )
+)
+
+game (
+	name "Blast! (1989)(Audiogenic)"
+	description "Blast! (1989)(Audiogenic)"
+	rom ( name "Blast! (1989)(Audiogenic).ssd" size 29696 crc 250bfb11 md5 a5843b4c8287636aa1dd4ed3dc89594a )
+)
+
+game (
+	name "Blitzkrieg (1984)(Software Invasion)"
+	description "Blitzkrieg (1984)(Software Invasion)"
+	rom ( name "Blitzkrieg (1984)(Software Invasion).ssd" size 20992 crc c7b9e43f md5 5ab2356973d3c53ef9637e13ab614d97 )
+)
+
+game (
+	name "Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game)"
+	description "Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game)"
+	rom ( name "Boffins 2 - Brilliant Bouncing Boffins (1985)(Addictive Game).ssd" size 24320 crc 7798a933 md5 5e8268dfa39439ef043f83582b13d22e )
+)
+
+game (
+	name "Bonecruncher (19xx)(Superior Software)"
+	description "Bonecruncher (19xx)(Superior Software)"
+	rom ( name "Bonecruncher (19xx)(Superior Software).ssd" size 47104 crc bb7f2ba4 md5 c5195e06ebd255c7f45eaa8ca32b8d3b )
+)
+
+game (
+	name "Brian Jacks Superstar Challenge (1985)(Martech)"
+	description "Brian Jacks Superstar Challenge (1985)(Martech)"
+	rom ( name "Brian Jacks Superstar Challenge (1985)(Martech).ssd" size 22016 crc bdd2382a md5 5c9b746b0f4c141db35b5ea7d3756a38 )
+)
+
+game (
+	name "Bug Blaster (19xx)(Aligata)"
+	description "Bug Blaster (19xx)(Aligata)"
+	rom ( name "Bug Blaster (19xx)(Aligata).ssd" size 14336 crc d80291e0 md5 525b11ebe5fd34329d329ccda709bdff )
+)
+
+game (
+	name "Camelot (1989)(Acornsoft - Superior Software)"
+	description "Camelot (1989)(Acornsoft - Superior Software)"
+	rom ( name "Camelot (1989)(Acornsoft - Superior Software).ssd" size 28672 crc 3923af92 md5 1f15dd1bf086a9dd3e2b9d72fcce5105 )
+)
+
+game (
+	name "Caveman Capers (1985)(Icon)"
+	description "Caveman Capers (1985)(Icon)"
+	rom ( name "Caveman Capers (1985)(Icon).ssd" size 14592 crc 2d051198 md5 27f3f0ad61953335660ec2ba0d111c86 )
+)
+
+game (
+	name "Centibug (1982)(Hanson, R.M.P.)"
+	description "Centibug (1982)(Hanson, R.M.P.)"
+	rom ( name "Centibug (1982)(Hanson, R.M.P.).ssd" size 8960 crc 21dea59b md5 697cfbe8c9cff84219d0564959c0b6f1 )
+)
+
+game (
+	name "Chuckie Egg (1983)(A&F)"
+	description "Chuckie Egg (1983)(A&F)"
+	rom ( name "Chuckie Egg (1983)(A&F).ssd" size 12544 crc c3a75b02 md5 d7eccc4156e581bcf50cc820b49e4e36 )
+)
+
+game (
+	name "Circus Games (1988)(TyneSoft)"
+	description "Circus Games (1988)(TyneSoft)"
+	rom ( name "Circus Games (1988)(TyneSoft).ssd" size 88064 crc 9702bc5d md5 702b72e02894ac80bd92fb40e88dd3bd )
+)
+
+game (
+	name "Citadel (1985)(Superior Software)"
+	description "Citadel (1985)(Superior Software)"
+	rom ( name "Citadel (1985)(Superior Software).ssd" size 25088 crc af47851a md5 7f3d1fecf893b80a368bf245fb9ee229 )
+)
+
+game (
+	name "Commando (19xx)(Elite)"
+	description "Commando (19xx)(Elite)"
+	rom ( name "Commando (19xx)(Elite).ssd" size 29440 crc 9ab17cbb md5 a2d5adda422e4fdbdd3fe1e18b05d350 )
+)
+
+game (
+	name "Cops n' Robbers (1987)(Atlantis)"
+	description "Cops n' Robbers (1987)(Atlantis)"
+	rom ( name "Cops n' Robbers (1987)(Atlantis).ssd" size 12800 crc bf632d96 md5 505b99fcc5d4cefb7f4184613100ecca )
+)
+
+game (
+	name "Cosmic Camouflage (1988)(Acornsoft - Superior Software)"
+	description "Cosmic Camouflage (1988)(Acornsoft - Superior Software)"
+	rom ( name "Cosmic Camouflage (1988)(Acornsoft - Superior Software).ssd" size 21760 crc 1a3d5e04 md5 ccf0109b6347927c6edb69419d37ed13 )
+)
+
+game (
+	name "Crack-Up (1989)(Atlantis)"
+	description "Crack-Up (1989)(Atlantis)"
+	rom ( name "Crack-Up (1989)(Atlantis).ssd" size 12032 crc 893d6834 md5 a14bbec551a8e8a18b96f98932c66413 )
+)
+
+game (
+	name "Croaker (1983)(Program Power)"
+	description "Croaker (1983)(Program Power)"
+	rom ( name "Croaker (1983)(Program Power).ssd" size 9984 crc 8d4b8048 md5 e09fb649efff0b851869dc37759faff2 )
+)
+
+game (
+	name "Cybertron (1983)(Micropower - Program Power)"
+	description "Cybertron (1983)(Micropower - Program Power)"
+	rom ( name "Cybertron (1983)(Micropower - Program Power).ssd" size 14080 crc cd9453e3 md5 9a07f520f7260ec1a697a9181940b536 )
+)
+
+game (
+	name "Cyborg Warriors (19xx)(Superior Software)"
+	description "Cyborg Warriors (19xx)(Superior Software)"
+	rom ( name "Cyborg Warriors (19xx)(Superior Software).ssd" size 30464 crc 34e30337 md5 edea2bd22247074751841f6b96ff411e )
+)
+
+game (
+	name "Danger! UXB (19xx)(Program Power)"
+	description "Danger! UXB (19xx)(Program Power)"
+	rom ( name "Danger! UXB (19xx)(Program Power).ssd" size 9728 crc c3f8c47a md5 886ba63bbc116adf9574eabdbb3e3de2 )
+)
+
+game (
+	name "Darts (19xx)(Blue Ribbon)"
+	description "Darts (19xx)(Blue Ribbon)"
+	rom ( name "Darts (19xx)(Blue Ribbon).ssd" size 13312 crc a582d6b5 md5 70bca9ed4e88900ec658f84f5c5b64c3 )
+)
+
+game (
+	name "Deathstar (1985)(Superior Software)"
+	description "Deathstar (1985)(Superior Software)"
+	rom ( name "Deathstar (1985)(Superior Software).ssd" size 14848 crc b566bc14 md5 016e864aedd577f01c8ec1e310bdfdf0 )
+)
+
+game (
+	name "Diamond Mine (1986)(Aligata - Unicorn)"
+	description "Diamond Mine (1986)(Aligata - Unicorn)"
+	rom ( name "Diamond Mine (1986)(Aligata - Unicorn).ssd" size 18432 crc 3aa2e2ee md5 fc8ebfc398cc75223fd2983708c3b450 )
+)
+
+game (
+	name "Electron Invaders (19xx)(Micropower)"
+	description "Electron Invaders (19xx)(Micropower)"
+	rom ( name "Electron Invaders (19xx)(Micropower).ssd" size 12288 crc db33a3ea md5 0a3f83a17dcdc8beb36e8c66c1fc4c43 )
+)
+
+game (
+	name "Electron Meteors (1983)(Acornsoft)"
+	description "Electron Meteors (1983)(Acornsoft)"
+	rom ( name "Electron Meteors (1983)(Acornsoft).ssd" size 12288 crc 127cd9bd md5 5c25eb020aff479be2b17414595c10bb )
+)
+
+game (
+	name "European Knowledge (1984)(Micro Power)"
+	description "European Knowledge (1984)(Micro Power)"
+	rom ( name "European Knowledge (1984)(Micro Power).ssd" size 24576 crc 2220a6cd md5 58f23bdb20d6f0271d69b12b22358214 )
+)
+
+game (
+	name "Evil Weevil (1984)(Grove, J.)"
+	description "Evil Weevil (1984)(Grove, J.)"
+	rom ( name "Evil Weevil (1984)(Grove, J.).ssd" size 14848 crc bd8b25a5 md5 226b0a1fe04e92c4eea16ae6af50e07d )
+)
+
+game (
+	name "Frak (1986)(Aardvark)"
+	description "Frak (1986)(Aardvark)"
+	rom ( name "Frak (1986)(Aardvark).ssd" size 31232 crc c2db57b7 md5 cf9a7d543760b32eca4fe4436f55cbe3 )
+)
+
+game (
+	name "Frankenstein 2000 (1985)(Icon)"
+	description "Frankenstein 2000 (1985)(Icon)"
+	rom ( name "Frankenstein 2000 (1985)(Icon).ssd" size 21504 crc 1232d713 md5 78cae3e412f038de8bbb30bb6afc98da )
+)
+
+game (
+	name "Frenzy (19xx)(Micro Power)"
+	description "Frenzy (19xx)(Micro Power)"
+	rom ( name "Frenzy (19xx)(Micro Power).ssd" size 16128 crc 78d732a2 md5 5aa69e53353d1bc14ae371c68480d25c )
+)
+
+game (
+	name "Fruit Machine (1983)(Superior Software)"
+	description "Fruit Machine (1983)(Superior Software)"
+	rom ( name "Fruit Machine (1983)(Superior Software).ssd" size 9984 crc 8d2bc44d md5 936723c1f5f83b054b95bc574cb12b91 )
+)
+
+game (
+	name "Galaforce (1986)(Superior Software)"
+	description "Galaforce (1986)(Superior Software)"
+	rom ( name "Galaforce (1986)(Superior Software).ssd" size 58880 crc 884cf076 md5 2d93e4807d0c23d6ffde64ef3a4711f7 )
+)
+
+game (
+	name "Gauntlet (1984)(Micro Power)"
+	description "Gauntlet (1984)(Micro Power)"
+	rom ( name "Gauntlet (1984)(Micro Power).ssd" size 18432 crc 97cb3883 md5 a07519c017db7d656c4d0953c56e3167 )
+)
+
+game (
+	name "Goal (1986)(TyneSoft)"
+	description "Goal (1986)(TyneSoft)"
+	rom ( name "Goal (1986)(TyneSoft).ssd" size 21504 crc dc5783ec md5 6d03872ea5749ce4f8bbef5e0099a88c )
+)
+
+game (
+	name "Golf (1987)(Blue Ribbon)"
+	description "Golf (1987)(Blue Ribbon)"
+	rom ( name "Golf (1987)(Blue Ribbon).ssd" size 12032 crc a0d631c3 md5 1794dc53d17da5141461cf614c841cdf )
+)
+
+game (
+	name "Guardian (1984)(Aligata)"
+	description "Guardian (1984)(Aligata)"
+	rom ( name "Guardian (1984)(Aligata).ssd" size 21504 crc 34cd2f9e md5 61be76b8acd875e9c1d32cfc7db4e20f )
+)
+
+game (
+	name "Gunfighter (19xx)(Telegram)"
+	description "Gunfighter (19xx)(Telegram)"
+	rom ( name "Gunfighter (19xx)(Telegram).ssd" size 29440 crc 2ff804ef md5 9c6c6480e235cb4f39dff6cf7f19d951 )
+)
+
+game (
+	name "Hi-Q Quiz (1989)(Blue Ribbon)"
+	description "Hi-Q Quiz (1989)(Blue Ribbon)"
+	rom ( name "Hi-Q Quiz (1989)(Blue Ribbon).ssd" size 13568 crc 6392c6d8 md5 bdc0703f887762940c0a53541391814b )
+)
+
+game (
+	name "Hostages (1990)(Superior Software)"
+	description "Hostages (1990)(Superior Software)"
+	rom ( name "Hostages (1990)(Superior Software).ssd" size 72448 crc b5ee3084 md5 ac36bcec7db612f3710afeb75ac7c710 )
+)
+
+game (
+	name "Hunchback (198x)(Century Electronics - Ocean)"
+	description "Hunchback (198x)(Century Electronics - Ocean)"
+	rom ( name "Hunchback (198x)(Century Electronics - Ocean).ssd" size 19968 crc 36a86bba md5 dcf8579c906e29baa17beaef96dd6c34 )
+)
+
+game (
+	name "Indoor Soccer (19xx)(Alternative Software)"
+	description "Indoor Soccer (19xx)(Alternative Software)"
+	rom ( name "Indoor Soccer (19xx)(Alternative Software).ssd" size 29184 crc 5ad0ac9b md5 6a8861169d01c5497ee16b256184a4d8 )
+)
+
+game (
+	name "Jet Set Willy (198x)(Tynesoft)"
+	description "Jet Set Willy (198x)(Tynesoft)"
+	rom ( name "Jet Set Willy (198x)(Tynesoft).ssd" size 23808 crc 917a481d md5 b7950b74602b19ec72aa24e645e2a33f )
+)
+
+game (
+	name "Joe Blade (1999)(Players)[b]"
+	description "Joe Blade (1999)(Players)[b]"
+	rom ( name "Joe Blade (1999)(Players)[b].ssd" size 35072 crc 00b51379 md5 7b54aa74fbb10faf9eb078ea3965ff82 )
+)
+
+game (
+	name "Joe Blade 2 (1988)(Players)"
+	description "Joe Blade 2 (1988)(Players)"
+	rom ( name "Joe Blade 2 (1988)(Players).ssd" size 40448 crc 194830b0 md5 48c1a123ded5187e6dbfff274bd59beb )
+)
+
+game (
+	name "Kamikaze (1983)(A&F)"
+	description "Kamikaze (1983)(A&F)"
+	rom ( name "Kamikaze (1983)(A&F).ssd" size 10752 crc 7a0c5641 md5 eb737dddb2ffa00de655da7ef7a50065 )
+)
+
+game (
+	name "Kane (1986)(Mastertronic)"
+	description "Kane (1986)(Mastertronic)"
+	rom ( name "Kane (1986)(Mastertronic).ssd" size 17408 crc a853b73a md5 88774aac5073e8fdd8e7ade649205a51 )
+)
+
+game (
+	name "Kansas Collection Disk 1 (19xx)(Kansas City)"
+	description "Kansas Collection Disk 1 (19xx)(Kansas City)"
+	rom ( name "Kansas Collection Disk 1 (19xx)(Kansas City).ssd" size 102912 crc 5601689b md5 09a0d315b94feea4a97685daa8330d4c )
+)
+
+game (
+	name "Kansas Collection Disk 2 (19xx)(Kansas City)"
+	description "Kansas Collection Disk 2 (19xx)(Kansas City)"
+	rom ( name "Kansas Collection Disk 2 (19xx)(Kansas City).ssd" size 204800 crc a9adde4f md5 097257c9562d0b14e21839e750c0e6eb )
+)
+
+game (
+	name "Kansas Collection Disk 3 (19xx)(Kansas City)"
+	description "Kansas Collection Disk 3 (19xx)(Kansas City)"
+	rom ( name "Kansas Collection Disk 3 (19xx)(Kansas City).ssd" size 204800 crc dea5e9f2 md5 ad5b58358966b0b779bd4543d18bbbb3 )
+)
+
+game (
+	name "Kansas Collection Disk 4 (19xx)(Kansas City)"
+	description "Kansas Collection Disk 4 (19xx)(Kansas City)"
+	rom ( name "Kansas Collection Disk 4 (19xx)(Kansas City).ssd" size 204800 crc bbeb9f06 md5 9a131e2ffad7e31c44b9d10ac68d7115 )
+)
+
+game (
+	name "Killer Gorilla (198x)(Acornsoft - Superior Software)"
+	description "Killer Gorilla (198x)(Acornsoft - Superior Software)"
+	rom ( name "Killer Gorilla (198x)(Acornsoft - Superior Software).ssd" size 13312 crc a7db4323 md5 44a6922196ea01d0e3aa08e8f3ebd90e )
+)
+
+game (
+	name "Last Ninja Two (19xx)(Superior Software)"
+	description "Last Ninja Two (19xx)(Superior Software)"
+	rom ( name "Last Ninja Two (19xx)(Superior Software).ssd" size 75264 crc ac048572 md5 ebe60a0b5d12c23c7e8ff618051e97ca )
+)
+
+game (
+	name "Last Ninja, The (1988)(Superior Software)"
+	description "Last Ninja, The (1988)(Superior Software)"
+	rom ( name "Last Ninja, The (1988)(Superior Software).ssd" size 76032 crc 5410b94f md5 6b18745ca55901e72082b617bc638034 )
+)
+
+game (
+	name "League Challenge (1986)(Atlantis)"
+	description "League Challenge (1986)(Atlantis)"
+	rom ( name "League Challenge (1986)(Atlantis).ssd" size 16128 crc 963b20b0 md5 c4dcbb3b68a6ad607ff387912e4c570c )
+)
+
+game (
+	name "Magic Mushrooms (1985)(Acornsoft)"
+	description "Magic Mushrooms (1985)(Acornsoft)"
+	rom ( name "Magic Mushrooms (1985)(Acornsoft).ssd" size 13312 crc 72bcbcc9 md5 aa81321d1fd4da1a02d3c7b99433f121 )
+)
+
+game (
+	name "Mango (1987)(Blue Ribbon)"
+	description "Mango (1987)(Blue Ribbon)"
+	rom ( name "Mango (1987)(Blue Ribbon).ssd" size 11520 crc c03ac7da md5 b86ce497943993b71979f2986a4a1e52 )
+)
+
+game (
+	name "Master Break (19xx)(Acornsoft - Superior Software)[b]"
+	description "Master Break (19xx)(Acornsoft - Superior Software)[b]"
+	rom ( name "Master Break (19xx)(Acornsoft - Superior Software)[b].ssd" size 103168 crc 392117d9 md5 287c459d6262cd92471ec73bd8ad4f05 )
+)
+
+game (
+	name "Mine, The (1984)(Adventure Soft U.K.)"
+	description "Mine, The (1984)(Adventure Soft U.K.)"
+	rom ( name "Mine, The (1984)(Adventure Soft U.K.).ssd" size 16128 crc f92ca482 md5 297e990bf815bfb24a11011bddfa21ff )
+)
+
+game (
+	name "Mineshaft (1984)(Durell Software)"
+	description "Mineshaft (1984)(Durell Software)"
+	rom ( name "Mineshaft (1984)(Durell Software).ssd" size 21504 crc e538d8b1 md5 51512a66c4267afb2af6d431d025a202 )
+)
+
+game (
+	name "Monsters (1983)(Acornsoft)"
+	description "Monsters (1983)(Acornsoft)"
+	rom ( name "Monsters (1983)(Acornsoft).ssd" size 13824 crc 3143a9fa md5 ec0f41a8ae9060d5dfb9433221269650 )
+)
+
+game (
+	name "Moonbase Alpha (198x)(-)"
+	description "Moonbase Alpha (198x)(-)"
+	rom ( name "Moonbase Alpha (198x)(-).ssd" size 11776 crc 2a82a157 md5 8ef14dccb2ed7e45dcbec09eed2413ff )
+)
+
+game (
+	name "Mr. Wiz (1984)(Llewellyn, J.D.)"
+	description "Mr. Wiz (1984)(Llewellyn, J.D.)"
+	rom ( name "Mr. Wiz (1984)(Llewellyn, J.D.).ssd" size 11264 crc f24c95fe md5 ba4de6b593cce492e1e96cfeb1cdc1f7 )
+)
+
+game (
+	name "Network, The (1985)(Acornsoft - Superior Software)"
+	description "Network, The (1985)(Acornsoft - Superior Software)"
+	rom ( name "Network, The (1985)(Acornsoft - Superior Software).ssd" size 36864 crc 5b56b464 md5 2153b62d16367420a0e090d75791c13e )
+)
+
+game (
+	name "Overdrive (1984)(Pajsoft)"
+	description "Overdrive (1984)(Pajsoft)"
+	rom ( name "Overdrive (1984)(Pajsoft).ssd" size 11008 crc 3935dd31 md5 309f3459ff69a52067fc9d8d32b14302 )
+)
+
+game (
+	name "Palace of Magic (198x)(Howard, Martin)"
+	description "Palace of Magic (198x)(Howard, Martin)"
+	rom ( name "Palace of Magic (198x)(Howard, Martin).ssd" size 36864 crc 5e2cb433 md5 06036cf36058e378803b5e48dfdfba5e )
+)
+
+game (
+	name "Paperboy (198x)(Elite Systems)"
+	description "Paperboy (198x)(Elite Systems)"
+	rom ( name "Paperboy (198x)(Elite Systems).ssd" size 26624 crc 903d08fa md5 2012aab1f6f7279802d359d9e97c1326 )
+)
+
+game (
+	name "Perplexity (1989)(Acornsoft - Superior Software)"
+	description "Perplexity (1989)(Acornsoft - Superior Software)"
+	rom ( name "Perplexity (1989)(Acornsoft - Superior Software).ssd" size 36608 crc 9a90ffb4 md5 dce51e9a36a85c2fefb0f14f12cf2a88 )
+)
+
+game (
+	name "Planetoid (1984)(Acornsoft)"
+	description "Planetoid (1984)(Acornsoft)"
+	rom ( name "Planetoid (1984)(Acornsoft).ssd" size 14848 crc c289bea3 md5 2314c58c295d6837ead9d86a8f68c0f9 )
+)
+
+game (
+	name "Positron (1983)(Partis-Soft)"
+	description "Positron (1983)(Partis-Soft)"
+	rom ( name "Positron (1983)(Partis-Soft).ssd" size 10240 crc 50c3d85e md5 cd0b3f4a47cec1f930f39d527f894074 )
+)
+
+game (
+	name "Predator (19xx)(Activision - Superior Software)"
+	description "Predator (19xx)(Activision - Superior Software)"
+	rom ( name "Predator (19xx)(Activision - Superior Software).ssd" size 30976 crc 2f9a0e0b md5 6b8dd67b308493756f6167937c25b402 )
+)
+
+game (
+	name "Psycastria (1986)(Audiogenic)"
+	description "Psycastria (1986)(Audiogenic)"
+	rom ( name "Psycastria (1986)(Audiogenic).ssd" size 28160 crc 23c09d02 md5 d66dfb492147c44787ae8b48612e0f6b )
+)
+
+game (
+	name "Qbix (1985)(Unicorn)"
+	description "Qbix (1985)(Unicorn)"
+	rom ( name "Qbix (1985)(Unicorn).ssd" size 15104 crc d4a19465 md5 427ff4ef01896f378b44f5b0fd28b40f )
+)
+
+game (
+	name "Repton (1985)(Superior Software)"
+	description "Repton (1985)(Superior Software)"
+	rom ( name "Repton (1985)(Superior Software).ssd" size 25344 crc 36e54a61 md5 42585f6fbe9ff3edfa54da58ff28241e )
+)
+
+game (
+	name "Repton 2 (1985)(Superior Software)"
+	description "Repton 2 (1985)(Superior Software)"
+	rom ( name "Repton 2 (1985)(Superior Software).ssd" size 30976 crc 47faab60 md5 69cc4e2e27824ca031c0b10d2cb5ef88 )
+)
+
+game (
+	name "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2)"
+	description "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2)"
+	rom ( name "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 1 of 2).ssd" size 55808 crc cd1bc682 md5 db8d5e14d5a6f3ac2902590b510375ea )
+)
+
+game (
+	name "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2)"
+	description "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2)"
+	rom ( name "Repton Infinity (1988)(Acornsoft - Superior Software)(Disk 2 of 2).ssd" size 120576 crc f223bdfa md5 e15ec26019900d355518391bee72f819 )
+)
+
+game (
+	name "Return of R2 (1987)(Keyne, J.)"
+	description "Return of R2 (1987)(Keyne, J.)"
+	rom ( name "Return of R2 (1987)(Keyne, J.).ssd" size 24576 crc 98e9defe md5 d6428850d4c94df53257c00546327cdb )
+)
+
+game (
+	name "Ricochet (1989)(Superior Software)"
+	description "Ricochet (1989)(Superior Software)"
+	rom ( name "Ricochet (1989)(Superior Software).ssd" size 79104 crc 65ff100d md5 59a0d269f21fb0f4c46d0deef76c1bb4 )
+)
+
+game (
+	name "Rig Attack (198x)(Tynesoft)"
+	description "Rig Attack (198x)(Tynesoft)"
+	rom ( name "Rig Attack (198x)(Tynesoft).ssd" size 14848 crc e6dd7ae1 md5 9a63baa9bf65e9dc48ed9a81a7dc722e )
+)
+
+game (
+	name "Rodeo Games (1989)(Tynesoft)"
+	description "Rodeo Games (1989)(Tynesoft)"
+	rom ( name "Rodeo Games (1989)(Tynesoft).ssd" size 150784 crc 3dea3d3c md5 cff6a1fbd4b1d4121caf19c298b220fe )
+)
+
+game (
+	name "Rubble Trouble (1984)(Micropower)"
+	description "Rubble Trouble (1984)(Micropower)"
+	rom ( name "Rubble Trouble (1984)(Micropower).ssd" size 16896 crc 7b21a19f md5 d1f4ffa2f1f319f4c042a9e17560951e )
+)
+
+game (
+	name "Shanghai Warriors (1989)(English)"
+	description "Shanghai Warriors (1989)(English)"
+	rom ( name "Shanghai Warriors (1989)(English).ssd" size 35072 crc a1277779 md5 a269d1e3af690cf989fe46cb3077a874 )
+)
+
+game (
+	name "Simcity (1990)(Acornsoft - Superior Software)"
+	description "Simcity (1990)(Acornsoft - Superior Software)"
+	rom ( name "Simcity (1990)(Acornsoft - Superior Software).ssd" size 62976 crc eca98958 md5 7afcf9eb94b8ee52d10e095fcf2af0a8 )
+)
+
+game (
+	name "Smash & Grab (1984)(Superior Software)"
+	description "Smash & Grab (1984)(Superior Software)"
+	rom ( name "Smash & Grab (1984)(Superior Software).ssd" size 15104 crc 61119d67 md5 2eff6ca9c92970af8155f2e3a9e2844f )
+)
+
+game (
+	name "Snapper (1983)(Acornsoft)"
+	description "Snapper (1983)(Acornsoft)"
+	rom ( name "Snapper (1983)(Acornsoft).ssd" size 11264 crc 9eb24c75 md5 ee34a077c87437a64d6db66e12a04736 )
+)
+
+game (
+	name "Snooker (198x)(Visions)"
+	description "Snooker (198x)(Visions)"
+	rom ( name "Snooker (198x)(Visions).ssd" size 9216 crc 350d0ccd md5 22821a7c12f0fb1f1a91d5844db9919f )
+)
+
+game (
+	name "Space Caverns (1985)(Tynesoft)"
+	description "Space Caverns (1985)(Tynesoft)"
+	rom ( name "Space Caverns (1985)(Tynesoft).ssd" size 11776 crc 8034b605 md5 230a6a559cb26dc0c1c94bc597911cd4 )
+)
+
+game (
+	name "Spooksville (1988)(Blue Ribbon - Exasoft)"
+	description "Spooksville (1988)(Blue Ribbon - Exasoft)"
+	rom ( name "Spooksville (1988)(Blue Ribbon - Exasoft).ssd" size 17408 crc 63bd061f md5 0a5daf10a97227cb701d12ead918c0f9 )
+)
+
+game (
+	name "Star Force Seven (198x)(Bug Byte)"
+	description "Star Force Seven (198x)(Bug Byte)"
+	rom ( name "Star Force Seven (198x)(Bug Byte).ssd" size 34048 crc cce7581c md5 8a0f78b62140a272d375f9c890c16f08 )
+)
+
+game (
+	name "Steve Davis Snooker (1988)(Blue Ribbon)"
+	description "Steve Davis Snooker (1988)(Blue Ribbon)"
+	rom ( name "Steve Davis Snooker (1988)(Blue Ribbon).ssd" size 20736 crc 66fbb016 md5 28dc0a29628ceea80d3c82fa91628892 )
+)
+
+game (
+	name "Stormcycle (1989)(Atlantis)"
+	description "Stormcycle (1989)(Atlantis)"
+	rom ( name "Stormcycle (1989)(Atlantis).ssd" size 27648 crc bc03bcf5 md5 31ed6b1ff3e3fa17267ecaf08b13b0a1 )
+)
+
+game (
+	name "Strykers Run (1986)(Superior Software)"
+	description "Strykers Run (1986)(Superior Software)"
+	rom ( name "Strykers Run (1986)(Superior Software).ssd" size 29952 crc bdf12d3f md5 68d138e43d92ebb46af5a16b24bac64a )
+)
+
+game (
+	name "Subway Vigilante (1989)(Players)"
+	description "Subway Vigilante (1989)(Players)"
+	rom ( name "Subway Vigilante (1989)(Players).ssd" size 38912 crc 41d94153 md5 dd68c9d88b1846f3f440cd8fec4ac808 )
+)
+
+game (
+	name "Super Pool (1984)(Software Invasion)"
+	description "Super Pool (1984)(Software Invasion)"
+	rom ( name "Super Pool (1984)(Software Invasion).ssd" size 15616 crc d6f7fd2a md5 61d07829f3e1edadbd7d293e65a77e9d )
+)
+
+game (
+	name "Superior Soccer (1989)(Acornsoft - Superior Software)"
+	description "Superior Soccer (1989)(Acornsoft - Superior Software)"
+	rom ( name "Superior Soccer (1989)(Acornsoft - Superior Software).ssd" size 38656 crc 012b4dbe md5 3c38709ce9123a7a7a2f975d82517ccf )
+)
+
+game (
+	name "Survivor (1987)(Atlantis)[h S.A.M.]"
+	description "Survivor (1987)(Atlantis)[h S.A.M.]"
+	rom ( name "Survivor (1987)(Atlantis)[h S.A.M.].ssd" size 22528 crc 5681edae md5 d83c479ae69be502f55962fd7b976e0b )
+)
+
+game (
+	name "Swag! (19xx)(Micropower)"
+	description "Swag! (19xx)(Micropower)"
+	rom ( name "Swag! (19xx)(Micropower).ssd" size 17408 crc 10f4b281 md5 5b70a3a1be022eb0c76d95aad4e162c8 )
+)
+
+game (
+	name "Syncron (1986)(Superior Software)"
+	description "Syncron (1986)(Superior Software)"
+	rom ( name "Syncron (1986)(Superior Software).ssd" size 30976 crc 1a1aa002 md5 52f66f0bded400fb9791eea63cb35454 )
+)
+
+game (
+	name "System-8 (1988)(Blue Ribbon - Cygnus Software)"
+	description "System-8 (1988)(Blue Ribbon - Cygnus Software)"
+	rom ( name "System-8 (1988)(Blue Ribbon - Cygnus Software).ssd" size 12288 crc f78d7507 md5 5be3893a74cb52b4dd8f78ee547ff515 )
+)
+
+game (
+	name "Tempest (1985)(Atari - Superior Software)"
+	description "Tempest (1985)(Atari - Superior Software)"
+	rom ( name "Tempest (1985)(Atari - Superior Software).ssd" size 14592 crc 87da6c65 md5 61cb1bb3854a11f1c369624ff6770f69 )
+)
+
+game (
+	name "Templeton (1986)(JEC)"
+	description "Templeton (1986)(JEC)"
+	rom ( name "Templeton (1986)(JEC).ssd" size 14592 crc aec7f295 md5 adede6ea22ae4e8c24f50d271602372b )
+)
+
+game (
+	name "Thrust (1986)(Smith, Jeremy C.)"
+	description "Thrust (1986)(Smith, Jeremy C.)"
+	rom ( name "Thrust (1986)(Smith, Jeremy C.).ssd" size 20480 crc 6a1a9c0a md5 4a6a6e2b380f3933494b2a134b3eef0d )
+)
+
+game (
+	name "Trapper (1987)(Blue Ribbon)"
+	description "Trapper (1987)(Blue Ribbon)"
+	rom ( name "Trapper (1987)(Blue Ribbon).ssd" size 10752 crc a0cefba9 md5 b0a2a77f6f44bb111f1e5e2371672b63 )
+)
+
+game (
+	name "Turfform (1988)(Blue Ribbon - Cygnus Software)"
+	description "Turfform (1988)(Blue Ribbon - Cygnus Software)"
+	rom ( name "Turfform (1988)(Blue Ribbon - Cygnus Software).ssd" size 11008 crc 6bbca79e md5 18c874915367bfac3ac4561bcee08d2e )
+)
+
+game (
+	name "Twin Kingdom Valley (19xx)(Hall, Trevor)"
+	description "Twin Kingdom Valley (19xx)(Hall, Trevor)"
+	rom ( name "Twin Kingdom Valley (19xx)(Hall, Trevor).ssd" size 27904 crc 45bb6496 md5 667ab4ae90b6f0cc678578035692be5e )
+)
+
+game (
+	name "Vegas Jackpot (198x)(-)"
+	description "Vegas Jackpot (198x)(-)"
+	rom ( name "Vegas Jackpot (198x)(-).ssd" size 8960 crc 72449de3 md5 b5f54548bd017029a26725fc53ffe59d )
+)
+
+game (
+	name "Video Card Arcade v3.86 (1986)(Williams, M.)"
+	description "Video Card Arcade v3.86 (1986)(Williams, M.)"
+	rom ( name "Video Card Arcade v3.86 (1986)(Williams, M.).ssd" size 22784 crc 79fa77e6 md5 c89005335039ec65bfdc4c35a31aba8d )
+)
+
+game (
+	name "Wetzone (19xx)(Tynesoft)[b]"
+	description "Wetzone (19xx)(Tynesoft)[b]"
+	rom ( name "Wetzone (19xx)(Tynesoft)[b].ssd" size 12032 crc 504cb8f5 md5 a6e4d53868ef90aa4f34163dc9bd4fd9 )
+)
+
+game (
+	name "Wheel of Fortune, The (1984)(Epic)"
+	description "Wheel of Fortune, The (1984)(Epic)"
+	rom ( name "Wheel of Fortune, The (1984)(Epic).ssd" size 29440 crc e33391b1 md5 f53dfb8e05b4a003f953b7396b65fa4c )
+)
+
+game (
+	name "Where! (1982)(Roger, T. - Wilson, S.)"
+	description "Where! (1982)(Roger, T. - Wilson, S.)"
+	rom ( name "Where! (1982)(Roger, T. - Wilson, S.).ssd" size 11776 crc 0b8baafc md5 e6b71ef9568b9ba174390fee9c219d49 )
+)
+
+game (
+	name "Zalagan Hero (19xx)(Aardvark)"
+	description "Zalagan Hero (19xx)(Aardvark)"
+	rom ( name "Zalagan Hero (19xx)(Aardvark).ssd" size 23808 crc e391c6ee md5 d98b9a8254a38919ab111381a04e4fac )
+)

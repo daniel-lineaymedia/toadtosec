@@ -1,0 +1,3428 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Covertapes - [TAP]"
+	description "Sinclair ZX Spectrum - Covertapes - [TAP] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Covertapes - [TAP]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Zxyo - Dziuber - Cassiel"
+)
+
+game (
+	name "15 puzzle (1983)(Sinclair Programs)[16K]"
+	description "15 puzzle (1983)(Sinclair Programs)[16K]"
+	rom ( name "15 puzzle (1983)(Sinclair Programs)[16K].tap" size 2059 crc cf0dadf0 md5 d3590c8a799d7c350f1a4f195ab1e987 sha1 e2e4f588dad9b51c289a25808878cf86101e96b1 )
+)
+
+game (
+	name "19 Part 1 - Boot Camp (demo) (1988)(Cascade Games - Sinclair User)"
+	description "19 Part 1 - Boot Camp (demo) (1988)(Cascade Games - Sinclair User)"
+	rom ( name "19 Part 1 - Boot Camp (demo) (1988)(Cascade Games - Sinclair User).tap" size 58674 crc 893cb49a md5 52ad94bab805589ef1f966551ff9ef08 sha1 2878707c6971bf5098da71fff696da6c827993a6 )
+)
+
+game (
+	name "3D Drac Man (1984)(Your Computer)"
+	description "3D Drac Man (1984)(Your Computer)"
+	rom ( name "3D Drac Man (1984)(Your Computer).tap" size 8178 crc 3799ad36 md5 2ca17b3ef73b00f8477d017c4dac8c1b sha1 28074a445a1045e7a876896db663bf72a5d886c2 )
+)
+
+game (
+	name "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair)"
+	description "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair)"
+	rom ( name "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair).tap" size 45055 crc 391a9c4d md5 3cc37ad4872f05347795d62db204f489 sha1 4aa4c44ce84cc952908c2667e89d9b86d8f7fb1d )
+)
+
+game (
+	name "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair)[a]"
+	description "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair)[a]"
+	rom ( name "A Nightmare on Robinson Street (1990)(Players Premier Software - Your Sinclair)[a].tap" size 32396 crc 83af1cd3 md5 16afe3a160080ac22e02af217687d185 sha1 dea7ee070b48e215422897cecdc126cd01bab373 )
+)
+
+game (
+	name "A Whole New Ball Game (1989)(Crash)"
+	description "A Whole New Ball Game (1989)(Crash)"
+	rom ( name "A Whole New Ball Game (1989)(Crash).tap" size 40987 crc 575b13b8 md5 7652520a2134d5e986472b96551c6164 sha1 2460f363a106e427ff18bfa6e77ef1d345b34022 )
+)
+
+game (
+	name "Ack Ack Attack (1984)(ZX Computing)"
+	description "Ack Ack Attack (1984)(ZX Computing)"
+	rom ( name "Ack Ack Attack (1984)(ZX Computing).tap" size 4159 crc 46854f25 md5 0ae5b02a969aa0bc8d6412fbf94d97a1 sha1 48a29de1f2f2c06f07228f698cf57f383cb61370 )
+)
+
+game (
+	name "Action Farce II - Special Crash Edition (1989)(Crash)"
+	description "Action Farce II - Special Crash Edition (1989)(Crash)"
+	rom ( name "Action Farce II - Special Crash Edition (1989)(Crash).tap" size 48013 crc e1f014e8 md5 b1559333638130fcc44b96e9d077b44a sha1 238d3ed8a8d25e0403299e94d4daea71beaa6510 )
+)
+
+game (
+	name "Adidas Championship Football (demo) (1990)(Ocean - Sinclair User)[128K]"
+	description "Adidas Championship Football (demo) (1990)(Ocean - Sinclair User)[128K]"
+	rom ( name "Adidas Championship Football (demo) (1990)(Ocean - Sinclair User)[128K].tap" size 49513 crc 2b8e7ffa md5 6f6809f9c17f699587717e39de5cd2fd sha1 0e2218c924bd5919e663d46422faf54997ebb83e )
+)
+
+game (
+	name "Advanced Lawnmower Simulator (1988)(Your Sinclair)"
+	description "Advanced Lawnmower Simulator (1988)(Your Sinclair)"
+	rom ( name "Advanced Lawnmower Simulator (1988)(Your Sinclair).tap" size 4717 crc ed1b80ff md5 b9f6039917f6e647f55ac8feb5f40814 sha1 9c7d113e697a6393290e7881a8b3351155615a6a )
+)
+
+game (
+	name "Advent (1985)(16-48 Tape Magazine)"
+	description "Advent (1985)(16-48 Tape Magazine)"
+	rom ( name "Advent (1985)(16-48 Tape Magazine).tap" size 35174 crc 6f5d4c56 md5 10b242f18dc2f404c16dec60df8e32ed sha1 08e5e26538f4e5c45857f806467c9f0484cf7082 )
+)
+
+game (
+	name "Aftermath (1985)(Spectrum Computing)"
+	description "Aftermath (1985)(Spectrum Computing)"
+	rom ( name "Aftermath (1985)(Spectrum Computing).tap" size 48348 crc c65abdb0 md5 ddf74dae26d0b25f73802c412028b00a sha1 7fae50ddeac569bccd42f74e48dae237a24b45e4 )
+)
+
+game (
+	name "Air Raid (1984)(Sinclair Programs)"
+	description "Air Raid (1984)(Sinclair Programs)"
+	rom ( name "Air Raid (1984)(Sinclair Programs).tap" size 8226 crc b865affa md5 0f766716c10207fb7fc2c0e1ae729504 sha1 1124df3689a8df253f14334ca9c32f55cc3c4302 )
+)
+
+game (
+	name "Air Raid (1984)(Sinclair Programs)(nl)"
+	description "Air Raid (1984)(Sinclair Programs)(nl)"
+	rom ( name "Air Raid (1984)(Sinclair Programs)(nl).tap" size 9712 crc d94d9296 md5 6eb743a576327a0e0eb1dc76147bb282 sha1 3c531b98e71e50eb0aac8c8f1a5c2af5326ad5b5 )
+)
+
+game (
+	name "Alien Defence (1982)(Sinclair User)[16K]"
+	description "Alien Defence (1982)(Sinclair User)[16K]"
+	rom ( name "Alien Defence (1982)(Sinclair User)[16K].tap" size 4636 crc cca44a7c md5 b522e4fa7336cd2a4e2fb0f4e553844f sha1 e2bdae216d94ac2c49a1a3d64c3faa013eec0821 )
+)
+
+game (
+	name "Aliens (1986)(Your Sinclair)"
+	description "Aliens (1986)(Your Sinclair)"
+	rom ( name "Aliens (1986)(Your Sinclair).tap" size 8777 crc 5cd99a0d md5 e590269a6d657825c81e1e1660a9f59d sha1 61f4692edbe1842490da3b6176f954e29d01f1e6 )
+)
+
+game (
+	name "Aliens v3 (1986)(Your Sinclair)"
+	description "Aliens v3 (1986)(Your Sinclair)"
+	rom ( name "Aliens v3 (1986)(Your Sinclair).tap" size 9708 crc dcec3909 md5 0faca8890a1f52d54db7784dee85afed sha1 cedcf4222ecf7e54d81f1f91f300fb60206e233c )
+)
+
+game (
+	name "Aliquids Simplex (1984)(Your Computer)"
+	description "Aliquids Simplex (1984)(Your Computer)"
+	rom ( name "Aliquids Simplex (1984)(Your Computer).tap" size 9202 crc 2a891352 md5 a4050cab3ee0ea182ba7d3849e43b7c0 sha1 515f14f6d0332d00a7f976c2bc104b5d0e353e3d )
+)
+
+game (
+	name "Andre's Night Off (1984)(C&VG)"
+	description "Andre's Night Off (1984)(C&VG)"
+	rom ( name "Andre's Night Off (1984)(C&VG).tap" size 6653 crc e989efeb md5 dbba0f029a10ece94c56288c8d7f532c sha1 46bbaed9ee49240fce00d68d3ba3942120e8d065 )
+)
+
+game (
+	name "Ano Gaia (1992)(Your Sinclair)"
+	description "Ano Gaia (1992)(Your Sinclair)"
+	rom ( name "Ano Gaia (1992)(Your Sinclair).tap" size 31010 crc a032d914 md5 661ed3abfe8ed36c7ccc2ffbbd328390 sha1 fb9e258759d84a08e4a69aad231e4eea3d151c70 )
+)
+
+game (
+	name "Antares (1985)(MicroHobby)(es)"
+	description "Antares (1985)(MicroHobby)(es)"
+	rom ( name "Antares (1985)(MicroHobby)(es).tap" size 17476 crc 06efc4d3 md5 22f71a14a5f52069040d9810163d4e1b sha1 0ecf8fcb9d70a51650036ca69a77533dc8d6746e )
+)
+
+game (
+	name "Anti-Missile Defence (1983)(Sinclair Programs)[16K]"
+	description "Anti-Missile Defence (1983)(Sinclair Programs)[16K]"
+	rom ( name "Anti-Missile Defence (1983)(Sinclair Programs)[16K].tap" size 2953 crc 30830375 md5 4169368b8afe453e7dd0d94df265a54c sha1 7394c615a4884a6639e1706cdbb3384d6e3aa707 )
+)
+
+game (
+	name "Antimateria (1985)(Load 'n' Run)(es)[16K][aka Violent Universe]"
+	description "Antimateria (1985)(Load 'n' Run)(es)[16K][aka Violent Universe]"
+	rom ( name "Antimateria (1985)(Load 'n' Run)(es)[16K][aka Violent Universe].tap" size 12029 crc 96815191 md5 116dbbbaab7fb35db508544e30defd4d sha1 bd215d363bdab4f6d77836cb657351162750384a )
+)
+
+game (
+	name "Apple Thief (1983)(Sinclair Programs)[16K]"
+	description "Apple Thief (1983)(Sinclair Programs)[16K]"
+	rom ( name "Apple Thief (1983)(Sinclair Programs)[16K].tap" size 4545 crc 366f8973 md5 5f568b7f0ae8d24ea774f6dbafe76680 sha1 39507f0cc34c99f537544c0cfdec0539a8b33d2e )
+)
+
+game (
+	name "Appleman (1984)(Load 'n' Run)(it)[16K][aka Gulpman]"
+	description "Appleman (1984)(Load 'n' Run)(it)[16K][aka Gulpman]"
+	rom ( name "Appleman (1984)(Load 'n' Run)(it)[16K][aka Gulpman].tap" size 15591 crc 1f2833c6 md5 ee9216a35c495306f1358dfdd3eaa25b sha1 7dc7c156c3f0f1fbdd6caaf6e1f114aec955404c )
+)
+
+game (
+	name "Archaeologist, The (1985)(Spectrum Computing)"
+	description "Archaeologist, The (1985)(Spectrum Computing)"
+	rom ( name "Archaeologist, The (1985)(Spectrum Computing).tap" size 27136 crc 42aee51d md5 5eb4ebaccd9cbc23482e3b7f942cefac sha1 67080d3fd5d77faaabc0502954ce6bac196a15bf )
+)
+
+game (
+	name "Archaeologist, The (1985)(Spectrum Computing)[a]"
+	description "Archaeologist, The (1985)(Spectrum Computing)[a]"
+	rom ( name "Archaeologist, The (1985)(Spectrum Computing)[a].tap" size 26738 crc 08307eb0 md5 b0b88d0d5727dda05da312edc0b7304d sha1 8814dee926f53825a494b13664185300998cf2f8 )
+)
+
+game (
+	name "Archaic (1988)(Spectraxx Tape Magazine)"
+	description "Archaic (1988)(Spectraxx Tape Magazine)"
+	rom ( name "Archaic (1988)(Spectraxx Tape Magazine).tap" size 24461 crc ef4e4c6a md5 fbb0a5cd6702f2d171e2227c18a57532 sha1 0a31e01c492315df2008188805ceafa32d6414a3 )
+)
+
+game (
+	name "Arctic Antics (1985)(Spectrum Computing)"
+	description "Arctic Antics (1985)(Spectrum Computing)"
+	rom ( name "Arctic Antics (1985)(Spectrum Computing).tap" size 32652 crc 4348decf md5 add6400d7aaf9d067b388d922968167c sha1 a558409736fe935689ae2fb353e109d827732cc8 )
+)
+
+game (
+	name "Armalyte (demo) (1991)(Thalamus - Your Sinclair)[128K]"
+	description "Armalyte (demo) (1991)(Thalamus - Your Sinclair)[128K]"
+	rom ( name "Armalyte (demo) (1991)(Thalamus - Your Sinclair)[128K].tap" size 31345 crc faddecf0 md5 f7e7da7d03accd861dde28ad17537be2 sha1 5d12c126bae3c9513938eba9ede5419375468bc5 )
+)
+
+game (
+	name "Assassin (1990)(Psychaedelic Hedgehog Software - Crash)"
+	description "Assassin (1990)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Assassin (1990)(Psychaedelic Hedgehog Software - Crash).tap" size 48054 crc 7fa46a78 md5 b3ce70450dc21508c3c92a83649cb510 sha1 5fe23843a9e8e4672d693c37f7328b4fd8e830c9 )
+)
+
+game (
+	name "Assedio (1984)(Special Playgames)(it)[aka Orc Attack]"
+	description "Assedio (1984)(Special Playgames)(it)[aka Orc Attack]"
+	rom ( name "Assedio (1984)(Special Playgames)(it)[aka Orc Attack].tap" size 31223 crc 1b254293 md5 42732406dd9bc50c5a3afc5656ba5599 sha1 7f50cedd74df43e3aa035f48c8a1830a43acb2a9 )
+)
+
+game (
+	name "Astemex (1988)(Load 'n' Run)(it)[a][aka Terramex]"
+	description "Astemex (1988)(Load 'n' Run)(it)[a][aka Terramex]"
+	rom ( name "Astemex (1988)(Load 'n' Run)(it)[a][aka Terramex].tap" size 36943 crc 44813ecd md5 e5674f018e70c5713cb0c8642f5caa3a sha1 452a28c75623f4a6331787cfc8004241c59f48f5 )
+)
+
+game (
+	name "Astemex (1988)(Load 'n' Run)(it)[aka Terramex]"
+	description "Astemex (1988)(Load 'n' Run)(it)[aka Terramex]"
+	rom ( name "Astemex (1988)(Load 'n' Run)(it)[aka Terramex].tap" size 37376 crc a34dbfcf md5 930185b1e8a06ae5f1110fb464236cf9 sha1 5c7d2b65b705a49aae8a0ab7ba0e769c2d335ce2 )
+)
+
+game (
+	name "Asteroids (1985)(Your Computer)[16K]"
+	description "Asteroids (1985)(Your Computer)[16K]"
+	rom ( name "Asteroids (1985)(Your Computer)[16K].tap" size 6713 crc fb442885 md5 2c7ce9fb2c680bea1ee8426d5518864a sha1 1e5b4a94ed20b548b59af6b5600e32ba16c46217 )
+)
+
+game (
+	name "Astro (1985)(MicroHobby)(es)"
+	description "Astro (1985)(MicroHobby)(es)"
+	rom ( name "Astro (1985)(MicroHobby)(es).tap" size 15093 crc b967a60c md5 31dac2100c7d78f7e10060d2e567ac18 sha1 3392473c6bb96ddd814459b6c8add2a72e1335e5 )
+)
+
+game (
+	name "Attacco Alieno (1984)(Super Spectrum)(it)[16K][aka Spawn of Evil]"
+	description "Attacco Alieno (1984)(Super Spectrum)(it)[16K][aka Spawn of Evil]"
+	rom ( name "Attacco Alieno (1984)(Super Spectrum)(it)[16K][aka Spawn of Evil].tap" size 8625 crc 1659c831 md5 c27656e7a091c6ae4b62896ba201d38c sha1 1c6228dcb37ebeb3c28def3d7389ee2faec1116e )
+)
+
+game (
+	name "Autolabirinto (1984)(Load 'n' Run)(it)[a][aka Maze Death Race]"
+	description "Autolabirinto (1984)(Load 'n' Run)(it)[a][aka Maze Death Race]"
+	rom ( name "Autolabirinto (1984)(Load 'n' Run)(it)[a][aka Maze Death Race].tap" size 31651 crc 21b9255d md5 d93385419bec415b1954fe6d1426c6df sha1 1ce45c3cc7e8714bb8a6885d217d27c7d1fcc933 )
+)
+
+game (
+	name "Autolabirinto (1984)(Load 'n' Run)(it)[aka Maze Death Race]"
+	description "Autolabirinto (1984)(Load 'n' Run)(it)[aka Maze Death Race]"
+	rom ( name "Autolabirinto (1984)(Load 'n' Run)(it)[aka Maze Death Race].tap" size 31744 crc 9a7834f8 md5 b014ee8e769294a7ac2b77de90293bff sha1 e0ce3910cabcfcbfe878ed30c4d41ef6463bcd0a )
+)
+
+game (
+	name "Automatic Muse (1993)(Your Sinclair)"
+	description "Automatic Muse (1993)(Your Sinclair)"
+	rom ( name "Automatic Muse (1993)(Your Sinclair).tap" size 20983 crc 7154d161 md5 a7688a24037d2e68a764134ce6b8ad05 sha1 fc66430f5dc6fa5ff1049043adb610e63732f17d )
+)
+
+game (
+	name "Avalanche - The Struggle for Italy (demo) (1991)(CCS - Your Sinclair)"
+	description "Avalanche - The Struggle for Italy (demo) (1991)(CCS - Your Sinclair)"
+	rom ( name "Avalanche - The Struggle for Italy (demo) (1991)(CCS - Your Sinclair).tap" size 36121 crc 1c43fb1d md5 e436bf7d3b95afc57e31aa0011c4e1fc sha1 72d18b80f1bb8349935d024912bc0abf1210e8cf )
+)
+
+game (
+	name "Aventura en la Piramide (1984)(MicroHobby)(es)"
+	description "Aventura en la Piramide (1984)(MicroHobby)(es)"
+	rom ( name "Aventura en la Piramide (1984)(MicroHobby)(es).tap" size 12615 crc 3cf8985d md5 79d2ce5871c544bd1b82ed5dbebceb25 sha1 28536e9756c6176c0baf9ccd102e4122b0a57021 )
+)
+
+game (
+	name "Avior (1985)(16-48 Tape Magazine)"
+	description "Avior (1985)(16-48 Tape Magazine)"
+	rom ( name "Avior (1985)(16-48 Tape Magazine).tap" size 31883 crc 2de29276 md5 906d199921315fcdd900d2f131be78aa sha1 5b435f7022e18ddebe7ba343ddfb0201ef5c2a31 )
+)
+
+game (
+	name "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[a][aka Jack and the Beanstalk]"
+	description "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[a][aka Jack and the Beanstalk]"
+	rom ( name "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[a][aka Jack and the Beanstalk].tap" size 41316 crc ee6bef16 md5 f9d1f210ce0e4a1ac277d828764e1dab sha1 49d8729402403c897843e81f49b1c13264d126df )
+)
+
+game (
+	name "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[aka Jack and the Beanstalk]"
+	description "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[aka Jack and the Beanstalk]"
+	rom ( name "Avventura di Giacomo, L' (1985)(Linguaggio Macchina)(it)[aka Jack and the Beanstalk].tap" size 41472 crc accb1bfa md5 c463fb9d82edbc33f6650aed735e1f56 sha1 fd9fed651a8861460c0fa219574015c70354aadf )
+)
+
+game (
+	name "Awari (1983)(Sinclair Programs)[16K]"
+	description "Awari (1983)(Sinclair Programs)[16K]"
+	rom ( name "Awari (1983)(Sinclair Programs)[16K].tap" size 5111 crc 78108c85 md5 e557ca611668174a0834afca5fbec767 sha1 c4165eee886a35cd14adc87da95886c7e2af65ed )
+)
+
+game (
+	name "Babbo Natale (1984)(Special Playgames)(it)[aka Special Delivery]"
+	description "Babbo Natale (1984)(Special Playgames)(it)[aka Special Delivery]"
+	rom ( name "Babbo Natale (1984)(Special Playgames)(it)[aka Special Delivery].tap" size 27070 crc 96353183 md5 f9a4a769b0ed5c412f4c1186de3e3094 sha1 064fa13637ff1fc5c456968af090b49dd4a1ea0f )
+)
+
+game (
+	name "Back to the Future II (demo) (1990)(Image Works - Your Sinclair)"
+	description "Back to the Future II (demo) (1990)(Image Works - Your Sinclair)"
+	rom ( name "Back to the Future II (demo) (1990)(Image Works - Your Sinclair).tap" size 46853 crc c6546fec md5 d0d5d8473a3c87d5586d993612653a83 sha1 a7255725aad54351b6ee2c6f662cc88ca07756a1 )
+)
+
+game (
+	name "Back to the Future III (demo) (1991)(Image Works - Your Sinclair)"
+	description "Back to the Future III (demo) (1991)(Image Works - Your Sinclair)"
+	rom ( name "Back to the Future III (demo) (1991)(Image Works - Your Sinclair).tap" size 56732 crc 5c2a730f md5 475cea5bfe44d54c465d2b93b40bd258 sha1 d3e8dc7285a10eaa41da6194f188256c9261f69a )
+)
+
+game (
+	name "Back to the Future III (demo) (1991)(Image Works - Your Sinclair)[a]"
+	description "Back to the Future III (demo) (1991)(Image Works - Your Sinclair)[a]"
+	rom ( name "Back to the Future III (demo) (1991)(Image Works - Your Sinclair)[a].tap" size 56719 crc a3b6ebcc md5 a52537734311e395c43ca02e79910310 sha1 f34929fdf1cc8ad8a18f2ed9808439212bf999d0 )
+)
+
+game (
+	name "Ballista (1983)(16-48 Tape Magazine)[16K]"
+	description "Ballista (1983)(16-48 Tape Magazine)[16K]"
+	rom ( name "Ballista (1983)(16-48 Tape Magazine)[16K].tap" size 6241 crc 4970424e md5 ce467e96e8f78d56bd0d1db0dae75276 sha1 94643e5ccfcbf887565d6c569ede41d36c1cda0c )
+)
+
+game (
+	name "Balloon Hopper (1983)(Your Computer)(de)[16K]"
+	description "Balloon Hopper (1983)(Your Computer)(de)[16K]"
+	rom ( name "Balloon Hopper (1983)(Your Computer)(de)[16K].tap" size 6833 crc 430964e3 md5 ba7a85f370a07e185c54e66f0182a388 sha1 0168c7d22e821eb5dfe9026ea45fc380fd6180fb )
+)
+
+game (
+	name "Balloon Hopper (1983)(Your Computer)[16K]"
+	description "Balloon Hopper (1983)(Your Computer)[16K]"
+	rom ( name "Balloon Hopper (1983)(Your Computer)[16K].tap" size 6996 crc 6dceed8b md5 95c5cf2187d2f8fa8bdf349ab00ab279 sha1 fe1c47d7ed500a39abc2120cd3ce5d4a11df25e7 )
+)
+
+game (
+	name "Baloncesto (1986)(Load 'n' Run)(es)[aka World Series Basketball]"
+	description "Baloncesto (1986)(Load 'n' Run)(es)[aka World Series Basketball]"
+	rom ( name "Baloncesto (1986)(Load 'n' Run)(es)[aka World Series Basketball].tap" size 40962 crc 8f08d47d md5 33308222fa27cac2850a3715c20d6cef sha1 6850c800198446f0efb3b123e20ebe2fb4344236 )
+)
+
+game (
+	name "Bandera (1985)(MicroHobby)(es)"
+	description "Bandera (1985)(MicroHobby)(es)"
+	rom ( name "Bandera (1985)(MicroHobby)(es).tap" size 9857 crc ee9518bc md5 042bfe95006ee83bdaf2bf665c2abc8a sha1 81ff9181b80f75755c6c82f0b3326547323573ea )
+)
+
+game (
+	name "Bandit (1984)(Spectrum Computing)"
+	description "Bandit (1984)(Spectrum Computing)"
+	rom ( name "Bandit (1984)(Spectrum Computing).tap" size 8549 crc 1f973b3a md5 0f2eec7646792543601cc3ed857c8978 sha1 9416d1bda6375ed2807bf1690445e7e181fde874 )
+)
+
+game (
+	name "Barbarian II - The Dungeon of Drax (demo) (1988)(Palace Software - Sinclair User)"
+	description "Barbarian II - The Dungeon of Drax (demo) (1988)(Palace Software - Sinclair User)"
+	rom ( name "Barbarian II - The Dungeon of Drax (demo) (1988)(Palace Software - Sinclair User).tap" size 41166 crc cadfecdb md5 de6800e5da9fb66f37a59d7f0853d9e2 sha1 e760a7052097fa1ca66f4770ab8e5eaf7c58f7c4 )
+)
+
+game (
+	name "Bard's Tale, The (demo) (1988)(Electronic Arts - Sinclair User)"
+	description "Bard's Tale, The (demo) (1988)(Electronic Arts - Sinclair User)"
+	rom ( name "Bard's Tale, The (demo) (1988)(Electronic Arts - Sinclair User).tap" size 44244 crc a47b14fb md5 c13264c4065885bd40e27a9eab4f56f7 sha1 1f4be4000b1729ace37d7f864fc7d62769293b20 )
+)
+
+game (
+	name "Baseball (1986)(Load 'n' Run)(it)"
+	description "Baseball (1986)(Load 'n' Run)(it)"
+	rom ( name "Baseball (1986)(Load 'n' Run)(it).tap" size 29869 crc 063fe838 md5 79194831fcd19fb216e3095fa3f39ed6 sha1 f81b8ed4b74e52da4ffb6754ef0cca35986555c6 )
+)
+
+game (
+	name "Batman - The Caped Crusader - Part 3 - Idiots Play to Win (demo) (1989)(Ocean - Crash)"
+	description "Batman - The Caped Crusader - Part 3 - Idiots Play to Win (demo) (1989)(Ocean - Crash)"
+	rom ( name "Batman - The Caped Crusader - Part 3 - Idiots Play to Win (demo) (1989)(Ocean - Crash).tap" size 47796 crc 0b0df675 md5 5120338856ffd1479e75162e2a1d6c75 sha1 388ab4927bf5fb029692ec714ebbb1d0b3a1245c )
+)
+
+game (
+	name "Battle on Hoth (1983)(Your Computer)"
+	description "Battle on Hoth (1983)(Your Computer)"
+	rom ( name "Battle on Hoth (1983)(Your Computer).tap" size 14747 crc 14d7e45f md5 283bb1ac025c19bc9ea44bb2c57fbe13 sha1 68198e87948ad96252cb9a778ba69309d61a23c4 )
+)
+
+game (
+	name "Beacon Adventure (1984)(Sinclair User)[16K]"
+	description "Beacon Adventure (1984)(Sinclair User)[16K]"
+	rom ( name "Beacon Adventure (1984)(Sinclair User)[16K].tap" size 8605 crc 99e06d23 md5 462906eed59642796e333792c0f9b9f6 sha1 f873ae5fc05d7f9d595e3fc5069e55958741afbb )
+)
+
+game (
+	name "Bear a Grudge (1988)(Sinclair User)"
+	description "Bear a Grudge (1988)(Sinclair User)"
+	rom ( name "Bear a Grudge (1988)(Sinclair User).tap" size 40873 crc 25d6de9a md5 875fffe06a76e5512d25eb0d8b3ed98e sha1 174bfd39c6595fe34c8fe528754f4a56c199fac4 )
+)
+
+game (
+	name "Bear a Grudge (1988)(Sinclair User)[a2]"
+	description "Bear a Grudge (1988)(Sinclair User)[a2]"
+	rom ( name "Bear a Grudge (1988)(Sinclair User)[a2].tap" size 40863 crc b804a5d0 md5 6b9990d88fb30429ee95f16c8a935083 sha1 53445bd2838b32e3a697c6c59238aade3b7e1bb9 )
+)
+
+game (
+	name "Bear a Grudge (1988)(Sinclair User)[a]"
+	description "Bear a Grudge (1988)(Sinclair User)[a]"
+	rom ( name "Bear a Grudge (1988)(Sinclair User)[a].tap" size 40863 crc ced46cd3 md5 fa1b68a9fd17b3cd860a7243d3da78bd sha1 4a5f1b6e99fc07a2c522ce37a0529bf742d54efc )
+)
+
+game (
+	name "Beetle (1983)(ZX Computing)"
+	description "Beetle (1983)(ZX Computing)"
+	rom ( name "Beetle (1983)(ZX Computing).tap" size 7197 crc 4cae3094 md5 9fcbd573528032fc7e8dddab40d30bd7 sha1 bc9f8805ef74ce6c2aedbd6515bfee5b548d166c )
+)
+
+game (
+	name "Begin - Noughts and Crosses (1985)(16-48 Tape Magazine)[16K]"
+	description "Begin - Noughts and Crosses (1985)(16-48 Tape Magazine)[16K]"
+	rom ( name "Begin - Noughts and Crosses (1985)(16-48 Tape Magazine)[16K].tap" size 4903 crc 27730bbc md5 cf164fea98c63d245209c08e243dd530 sha1 c45fcb4cf9349f621eaf210baab980765ecd5356 )
+)
+
+game (
+	name "Bell Ringer (1984)(Sinclair User)[16K]"
+	description "Bell Ringer (1984)(Sinclair User)[16K]"
+	rom ( name "Bell Ringer (1984)(Sinclair User)[16K].tap" size 4333 crc 8f858585 md5 f5fd210b26bd6a3a6c36aa9df3ad3acb sha1 66d0e71c06a38c4dd52d8d96d5ede0ee0f3b4fe2 )
+)
+
+game (
+	name "BFX-1 (1985)(16-48 Tape Magazine)[16K]"
+	description "BFX-1 (1985)(16-48 Tape Magazine)[16K]"
+	rom ( name "BFX-1 (1985)(16-48 Tape Magazine)[16K].tap" size 12158 crc 1f274354 md5 c33711927a8b0f5a00611ccb6e6766d7 sha1 357d8ab931f3d2de6de3a916ab8378ee9098f3ce )
+)
+
+game (
+	name "Bite the Dust (1988)(Crash)"
+	description "Bite the Dust (1988)(Crash)"
+	rom ( name "Bite the Dust (1988)(Crash).tap" size 38266 crc bf35faad md5 76dd548ab32eda6c7f6b404feb473108 sha1 777b2e9847c9a6bfde586f58190a82beb006d6e0 )
+)
+
+game (
+	name "Bite the Dust (1988)(Crash)[a2]"
+	description "Bite the Dust (1988)(Crash)[a2]"
+	rom ( name "Bite the Dust (1988)(Crash)[a2].tap" size 49539 crc f829e9ec md5 12fc6bf7a1cda38451948c95e8ce3f08 sha1 af42b31315c2c27b65da497701cdd70120d39d50 )
+)
+
+game (
+	name "Bite the Dust (1988)(Crash)[a]"
+	description "Bite the Dust (1988)(Crash)[a]"
+	rom ( name "Bite the Dust (1988)(Crash)[a].tap" size 49664 crc 750aad54 md5 8deeb71e5f1f45067bb5c76465d2ab94 sha1 e42212b48a779e5887860c189cf54ec1716df31e )
+)
+
+game (
+	name "Blaster (1985)(Your Computer)"
+	description "Blaster (1985)(Your Computer)"
+	rom ( name "Blaster (1985)(Your Computer).tap" size 11180 crc d6b628b0 md5 2f31a7dfa249a61d35acf9672097e431 sha1 296a5173276572b6aa69ad83bf77110b758e22f3 )
+)
+
+game (
+	name "Blind Panic (1988)(Martech Games - Your Sinclair)"
+	description "Blind Panic (1988)(Martech Games - Your Sinclair)"
+	rom ( name "Blind Panic (1988)(Martech Games - Your Sinclair).tap" size 41576 crc 9b41171f md5 6f0f6bceab9fa3b839e4fcf453350b03 sha1 8e03f1df3b9a2c39e07f6972f1d7f5cb9b64ac0c )
+)
+
+game (
+	name "Blob the Cop (1989)(Players Software - Sinclair User)"
+	description "Blob the Cop (1989)(Players Software - Sinclair User)"
+	rom ( name "Blob the Cop (1989)(Players Software - Sinclair User).tap" size 42196 crc 09b3e306 md5 6b7b55c82b9c89fef6c4f9eba58f6364 sha1 4b9670efe5c2fe17e09943e27285f76fc59cbb3c )
+)
+
+game (
+	name "Block (1989)(MicroHobby)(es)"
+	description "Block (1989)(MicroHobby)(es)"
+	rom ( name "Block (1989)(MicroHobby)(es).tap" size 33047 crc 65ef11f9 md5 2810f13e3318c71724c2861f9009ed60 sha1 ee646aa0d8905526dd6060a0816f25196a68d038 )
+)
+
+game (
+	name "Block-Dizzy (1992)(Your Sinclair)"
+	description "Block-Dizzy (1992)(Your Sinclair)"
+	rom ( name "Block-Dizzy (1992)(Your Sinclair).tap" size 39286 crc 639b4fe8 md5 de35942ea789c6ffc4327af8a5cfcaa7 sha1 f40a0e7334289a0eb21cb6e87ad1a0cde3bf9a2e )
+)
+
+game (
+	name "Blokman (1984)(Your Computer)"
+	description "Blokman (1984)(Your Computer)"
+	rom ( name "Blokman (1984)(Your Computer).tap" size 12716 crc 6a394078 md5 7e582657a64bff0b5cf4fb26c3193f9f sha1 bd7abc25e813f982d03f7057f704b241b6acbb80 )
+)
+
+game (
+	name "Blokman (1984)(Your Computer)[16K]"
+	description "Blokman (1984)(Your Computer)[16K]"
+	rom ( name "Blokman (1984)(Your Computer)[16K].tap" size 7391 crc 68bbb4c1 md5 3ee8905f627cfc1ad49b1a11b06cc953 sha1 f43ad80217a83e448e206f37db7cd0980ba2c11d )
+)
+
+game (
+	name "Bloody-Eyes (1985)(Special Playgames)(it)[a][aka Bug-Eyes]"
+	description "Bloody-Eyes (1985)(Special Playgames)(it)[a][aka Bug-Eyes]"
+	rom ( name "Bloody-Eyes (1985)(Special Playgames)(it)[a][aka Bug-Eyes].tap" size 27648 crc 6d086e90 md5 e8145708d3f7d0b052778d3135838d0f sha1 35acb37ac66e6ab1558cc581f95ba5d1b30def4d )
+)
+
+game (
+	name "Bloody-Eyes (1985)(Special Playgames)(it)[aka Bug-Eyes]"
+	description "Bloody-Eyes (1985)(Special Playgames)(it)[aka Bug-Eyes]"
+	rom ( name "Bloody-Eyes (1985)(Special Playgames)(it)[aka Bug-Eyes].tap" size 27404 crc b514873a md5 fb5d8695921b8183505211d41edef7e2 sha1 dca4daf053854192d7ed0ec7e5e620c16655199c )
+)
+
+game (
+	name "BMX Rider (1983)(Sinclair Programs)[16K]"
+	description "BMX Rider (1983)(Sinclair Programs)[16K]"
+	rom ( name "BMX Rider (1983)(Sinclair Programs)[16K].tap" size 3185 crc f9c26ba8 md5 93f523059381d034cf4071590e3de65f sha1 c814c368bba159b36d28567fe78b61896be10e06 )
+)
+
+game (
+	name "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[a][aka Barmy Burgers]"
+	description "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[a][aka Barmy Burgers]"
+	rom ( name "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[a][aka Barmy Burgers].tap" size 24064 crc fc69d85a md5 91a7cc1b8a3d3daddafd0eaf168d58f2 sha1 2784afd02b8bfc00739b095c9385eb259236633c )
+)
+
+game (
+	name "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[aka Barmy Burgers]"
+	description "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[aka Barmy Burgers]"
+	rom ( name "Bobby Burgers - La Hamburguesa (1985)(Load 'n' Run)(es)[aka Barmy Burgers].tap" size 24045 crc bbcfaca3 md5 c669288eca07b842bcad42985263c655 sha1 65165c304f9e04c414c5c4f458a33fb07e3a12ec )
+)
+
+game (
+	name "Bobby Yazz Show, The (1991)(Crash)"
+	description "Bobby Yazz Show, The (1991)(Crash)"
+	rom ( name "Bobby Yazz Show, The (1991)(Crash).tap" size 47693 crc d978d659 md5 8dd772e63beccf62c2bdd716a0b8f605 sha1 8ad6d23b4ad14f73ca97b0b8d019f22b83bac286 )
+)
+
+game (
+	name "Boings (1986)(Special Playgames)(it)[aka Bounder]"
+	description "Boings (1986)(Special Playgames)(it)[aka Bounder]"
+	rom ( name "Boings (1986)(Special Playgames)(it)[aka Bounder].tap" size 46569 crc f930ac65 md5 774dc958786d07afa7e3f92b2d2bd245 sha1 b2c14e1ccae5ad19e14de2f53d0eab1eca7be9ad )
+)
+
+game (
+	name "Bomb Alley (1984)(Your Computer)"
+	description "Bomb Alley (1984)(Your Computer)"
+	rom ( name "Bomb Alley (1984)(Your Computer).tap" size 7843 crc d74b11e6 md5 e72ea35e30bbb1ca35da4c80b5f3563b sha1 3656eda0fe40d4020d3153339f5bdf2208f6bc4f )
+)
+
+game (
+	name "Bomb Alley (1984)(Your Computer)[a]"
+	description "Bomb Alley (1984)(Your Computer)[a]"
+	rom ( name "Bomb Alley (1984)(Your Computer)[a].tap" size 8512 crc cb7943c2 md5 4db4a67e4c438454d3267e49ed2e1bce sha1 7d3791b1cc27896483886eea9514d25502396362 )
+)
+
+game (
+	name "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr]"
+	description "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr]"
+	rom ( name "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr].tap" size 25959 crc c1366f31 md5 606b3c229cec464d5197952b84afdf0d sha1 e2c4091453341f099a774dabbdf5cf0131e7f5e8 )
+)
+
+game (
+	name "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr][a]"
+	description "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr][a]"
+	rom ( name "Bomb Ed (1992)(Hellenic Software - Sinclair User)[cr][a].tap" size 26112 crc 03a39327 md5 e9a6c25151132251c61c34a7149db405 sha1 c4a042d71fb1414c08a20eba1f5fa282335100ba )
+)
+
+game (
+	name "Bomber (1983)(Spectrum Computing)[16K]"
+	description "Bomber (1983)(Spectrum Computing)[16K]"
+	rom ( name "Bomber (1983)(Spectrum Computing)[16K].tap" size 4346 crc fe1391b7 md5 31c660b289da9ecfdd458a29cc3462f6 sha1 3009e73e5ef0631ff7cbe3255ed8441f0816b630 )
+)
+
+game (
+	name "Bomber (1983)(Spectrum Computing)[tr pl Jacek - Asia][16K]"
+	description "Bomber (1983)(Spectrum Computing)[tr pl Jacek - Asia][16K]"
+	rom ( name "Bomber (1983)(Spectrum Computing)[tr pl Jacek - Asia][16K].tap" size 4355 crc f3a9484a md5 f01daba7ec705f7da93ebc02fcfbb067 sha1 c4c66524ae81071531ad0b088b68c1dc43047f5c )
+)
+
+game (
+	name "Bouncing Ball (1984)(Sinclair Programs)[16K]"
+	description "Bouncing Ball (1984)(Sinclair Programs)[16K]"
+	rom ( name "Bouncing Ball (1984)(Sinclair Programs)[16K].tap" size 7003 crc d8d7c307 md5 410f0ed0f754aa557626237817c56422 sha1 ac15d52d4e9a61ba8391bc46c2949d88c9718069 )
+)
+
+game (
+	name "Brat Attack (1988)(Players Software - Sinclair User)"
+	description "Brat Attack (1988)(Players Software - Sinclair User)"
+	rom ( name "Brat Attack (1988)(Players Software - Sinclair User).tap" size 42678 crc 0cc23612 md5 eaf21dd5056a39dd7d3afa47bb68c1fc sha1 07324379ef3f0d0ea815d570a36071a3b503e939 )
+)
+
+game (
+	name "Brat Attack (1988)(Players Software - Sinclair User)[a2]"
+	description "Brat Attack (1988)(Players Software - Sinclair User)[a2]"
+	rom ( name "Brat Attack (1988)(Players Software - Sinclair User)[a2].tap" size 42678 crc 1bf3dfdc md5 fcdb10026bce74a06b8ab7efcd9a1f74 sha1 338e4437bda65cdca5e17249b04f240311604e3f )
+)
+
+game (
+	name "Brat Attack (1988)(Players Software - Sinclair User)[a3]"
+	description "Brat Attack (1988)(Players Software - Sinclair User)[a3]"
+	rom ( name "Brat Attack (1988)(Players Software - Sinclair User)[a3].tap" size 43008 crc 5b3a87cb md5 dbdc955e9e1dcef87fc0f196a1930662 sha1 9d6e7153e2e3007adb3dca512c34b3253134841f )
+)
+
+game (
+	name "Brat Attack (1988)(Players Software - Sinclair User)[a]"
+	description "Brat Attack (1988)(Players Software - Sinclair User)[a]"
+	rom ( name "Brat Attack (1988)(Players Software - Sinclair User)[a].tap" size 42740 crc c274d2f6 md5 eda3f5926ba7b60a8e58cec9b2f02752 sha1 f1a5ddd86e28576c36fd4dc4377a364228e7daab )
+)
+
+game (
+	name "Break Point - General Knowledge Edition (1990)(Top Ten Software - Crash)[aka Snookered]"
+	description "Break Point - General Knowledge Edition (1990)(Top Ten Software - Crash)[aka Snookered]"
+	rom ( name "Break Point - General Knowledge Edition (1990)(Top Ten Software - Crash)[aka Snookered].tap" size 45574 crc 74ea1441 md5 c1a4c606b9cc56c946675ffa21b76f93 sha1 7f30bc46ee9c1d519a059e31bd4dd27ac6d88b90 )
+)
+
+game (
+	name "Brick Bucket (1983)(Sinclair User)[16K]"
+	description "Brick Bucket (1983)(Sinclair User)[16K]"
+	rom ( name "Brick Bucket (1983)(Sinclair User)[16K].tap" size 1565 crc 52429abd md5 fe0470bc340c088cf37997510e82907d sha1 fbaba5d450f1f49330c80ba437a601bbcc0c5e7d )
+)
+
+game (
+	name "Brickyard Bill (1984)(ZX Computing)"
+	description "Brickyard Bill (1984)(ZX Computing)"
+	rom ( name "Brickyard Bill (1984)(ZX Computing).tap" size 5038 crc 05feb759 md5 6dbb14f1d17d441f56afe91b3568ea3d sha1 3a240c9604d988f713a81d94688a95c8fbf1de23 )
+)
+
+game (
+	name "Briscola (1985)(Load 'n' Run)(it)"
+	description "Briscola (1985)(Load 'n' Run)(it)"
+	rom ( name "Briscola (1985)(Load 'n' Run)(it).tap" size 19685 crc 2ffd31f1 md5 efc07326bca6a58e1afac512f5492786 sha1 d70b12fe21bb0fd1d584832e61bed9e75ea00fb6 )
+)
+
+game (
+	name "Bubble Trouble (1986)(Your Sinclair)"
+	description "Bubble Trouble (1986)(Your Sinclair)"
+	rom ( name "Bubble Trouble (1986)(Your Sinclair).tap" size 7390 crc cdf7b3a7 md5 bf9f52e0d17b49ee3039d406765c406c sha1 9a70d175308f54b5344868b357e841d01b3b4882 )
+)
+
+game (
+	name "Buffalo Bill's Wild West Show (demo) (1989)(TyneSoft - Your Sinclair)"
+	description "Buffalo Bill's Wild West Show (demo) (1989)(TyneSoft - Your Sinclair)"
+	rom ( name "Buffalo Bill's Wild West Show (demo) (1989)(TyneSoft - Your Sinclair).tap" size 33928 crc 9c9482c2 md5 03dd3ea20b9a2ca1fd1505f9de0c4f0b sha1 7d6c74162f16735c9caa7e983f74c48b400966e3 )
+)
+
+game (
+	name "Builder (1984)(Sinclair Programs)[16K]"
+	description "Builder (1984)(Sinclair Programs)[16K]"
+	rom ( name "Builder (1984)(Sinclair Programs)[16K].tap" size 8715 crc a13efa00 md5 078cd71be6de5c09dd69f7ed60c2e4fa sha1 e52ea287a9d3f91e76b8cd993fd9c94cbaa91fe2 )
+)
+
+game (
+	name "Bun Fight (1984)(Sinclair User)[16K]"
+	description "Bun Fight (1984)(Sinclair User)[16K]"
+	rom ( name "Bun Fight (1984)(Sinclair User)[16K].tap" size 1663 crc bc91ff97 md5 3af138a24efb5cecfa5c3e9ed5913989 sha1 7a70ceb9f4d5bf1aba0cae30b6a44922f3c18364 )
+)
+
+game (
+	name "Burger Bar (1984)(Sinclair Programs)[16K]"
+	description "Burger Bar (1984)(Sinclair Programs)[16K]"
+	rom ( name "Burger Bar (1984)(Sinclair Programs)[16K].tap" size 5833 crc 57e8ceb7 md5 5a7d2599c903f16c3fdd1768a108cf5a sha1 f496729d4d86ff08a12a7f6fa63a25b6de1da1c1 )
+)
+
+game (
+	name "C.P.U. Destroyer (1984)(Super Spectrum)(it)[a][aka Psytraxx]"
+	description "C.P.U. Destroyer (1984)(Super Spectrum)(it)[a][aka Psytraxx]"
+	rom ( name "C.P.U. Destroyer (1984)(Super Spectrum)(it)[a][aka Psytraxx].tap" size 48128 crc ffa850f7 md5 bd255444a88471ebd2e34a2fe8241a48 sha1 b869b754ff592bb34625f14a316f6fa7c6db12dc )
+)
+
+game (
+	name "C.P.U. Destroyer (1984)(Super Spectrum)(it)[aka Psytraxx]"
+	description "C.P.U. Destroyer (1984)(Super Spectrum)(it)[aka Psytraxx]"
+	rom ( name "C.P.U. Destroyer (1984)(Super Spectrum)(it)[aka Psytraxx].tap" size 48035 crc 6418fcad md5 8d0650f6767d93d277ccfba40f2c0655 sha1 a4175af9afd6bfd3134d44205ea17d1a919143f5 )
+)
+
+game (
+	name "Caco (1985)(Load 'n' Run)(es)[aka Robber]"
+	description "Caco (1985)(Load 'n' Run)(es)[aka Robber]"
+	rom ( name "Caco (1985)(Load 'n' Run)(es)[aka Robber].tap" size 17882 crc 57cf378a md5 f0e24cf0bb7c6d488f2a2ea588ca5ae2 sha1 bfb3a44063983bbd42f6abd631e7cf23da7c642e )
+)
+
+game (
+	name "Capman (1983)(Your Computer)"
+	description "Capman (1983)(Your Computer)"
+	rom ( name "Capman (1983)(Your Computer).tap" size 5915 crc cb29db5b md5 659a57485201cd667da538cce059c7bf sha1 5fb0647d75243efed10eac15a71b8ba9285b899f )
+)
+
+game (
+	name "Captain Blood (demo) (1988)(Exxos - Sinclair User)"
+	description "Captain Blood (demo) (1988)(Exxos - Sinclair User)"
+	rom ( name "Captain Blood (demo) (1988)(Exxos - Sinclair User).tap" size 54187 crc c3814b2f md5 002d8c395c70d39cbc0db7c50b38f203 sha1 aa97b33a89d01f13fdb37e565829336479a00275 )
+)
+
+game (
+	name "Captain Pytron (1990)(Sinclair User)"
+	description "Captain Pytron (1990)(Sinclair User)"
+	rom ( name "Captain Pytron (1990)(Sinclair User).tap" size 28715 crc c23d8015 md5 b340abec413ab388c3761f25a6d0800c sha1 a3e3ece7962fcf23cd1d837ad9795e0884b41eba )
+)
+
+game (
+	name "Captain Pytron (1990)(Sinclair User)[a]"
+	description "Captain Pytron (1990)(Sinclair User)[a]"
+	rom ( name "Captain Pytron (1990)(Sinclair User)[a].tap" size 41570 crc 53aac6dc md5 eb46bb9ba8d3b22b35c2f5ca4dec599b sha1 2c4951736c04984c8deae5e30cff25a098850ad8 )
+)
+
+game (
+	name "Carambola (1985)(Load 'n' Run)(es)[16K][aka Pool]"
+	description "Carambola (1985)(Load 'n' Run)(es)[16K][aka Pool]"
+	rom ( name "Carambola (1985)(Load 'n' Run)(es)[16K][aka Pool].tap" size 5388 crc 4c3cc59a md5 4946e774c311e7b80e93e99fee34c083 sha1 b9620e1588af3ffbeac676ad3ac8295421fb542c )
+)
+
+game (
+	name "Casa di Jonny, La (1985)(Special Program)(it)[aka House Jack Built, The]"
+	description "Casa di Jonny, La (1985)(Special Program)(it)[aka House Jack Built, The]"
+	rom ( name "Casa di Jonny, La (1985)(Special Program)(it)[aka House Jack Built, The].tap" size 48358 crc ff340eb1 md5 2656d16ce461fd9111a2d55620351b2e sha1 38b3ec5815e35d4a03ffc40ebf0059e036d8e23b )
+)
+
+game (
+	name "Cashflow (1983)(Sinclair User)[16K]"
+	description "Cashflow (1983)(Sinclair User)[16K]"
+	rom ( name "Cashflow (1983)(Sinclair User)[16K].tap" size 3121 crc 53b4c418 md5 eb410cf4d24a50cfa38ad11aca2bc054 sha1 d6a3041bb49e74fa06c17efa94e4f25b98aee994 )
+)
+
+game (
+	name "Cavalliere di Re Artu, Il (1987)(Load 'n' Run)(it)[aka Camelot Warriors]"
+	description "Cavalliere di Re Artu, Il (1987)(Load 'n' Run)(it)[aka Camelot Warriors]"
+	rom ( name "Cavalliere di Re Artu, Il (1987)(Load 'n' Run)(it)[aka Camelot Warriors].tap" size 42742 crc 30f97307 md5 514b7d9d7aa0104cdc34c1072e8d19db sha1 fae8f0d4d6352b9b5a0b4b989a8a4b870290c67d )
+)
+
+game (
+	name "Ceasefire (1991)(Sinclair User)"
+	description "Ceasefire (1991)(Sinclair User)"
+	rom ( name "Ceasefire (1991)(Sinclair User).tap" size 45568 crc eaf2134d md5 4fd03721165ee9dda97c91d9c218b608 sha1 ac989ae86f53955594188217d46d893a0cfa318b )
+)
+
+game (
+	name "Ceasefire (1991)(Sinclair User)[a]"
+	description "Ceasefire (1991)(Sinclair User)[a]"
+	rom ( name "Ceasefire (1991)(Sinclair User)[a].tap" size 45168 crc 103e3698 md5 8ac862ce1551668f3250b4860334180e sha1 fe40c1efc3e1e8658611bb577753d46e24be5b49 )
+)
+
+game (
+	name "Ceasefire II - Night Run (1992)(Sinclair User)[cr Tiger's Claw]"
+	description "Ceasefire II - Night Run (1992)(Sinclair User)[cr Tiger's Claw]"
+	rom ( name "Ceasefire II - Night Run (1992)(Sinclair User)[cr Tiger's Claw].tap" size 31125 crc 591a6b98 md5 f41f6fc3c4a631ee2aa2b3c4bf94b27e sha1 bebb4fe6b41bd620815c1a7d0fc9e48fc5873b51 )
+)
+
+game (
+	name "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[a][aka Airbase Invader]"
+	description "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[a][aka Airbase Invader]"
+	rom ( name "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[a][aka Airbase Invader].tap" size 27780 crc 9768a685 md5 34de987a49da288b18339bf986a641ce sha1 f0bc3be10bb8a263a852998ec0be199ed7603d66 )
+)
+
+game (
+	name "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[aka Airbase Invader]"
+	description "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[aka Airbase Invader]"
+	rom ( name "Centrale Nucleare, La (1985)(Load 'n' Run)(it)[aka Airbase Invader].tap" size 28160 crc c47596f7 md5 eef3fc0dc308f1ff1ff244a13471752b sha1 bd54163435e3890d43b0ec677eb95df89bd4acc5 )
+)
+
+game (
+	name "Chaser - Death Duel (1983)(Your Computer)[m Stefan Benk][16K]"
+	description "Chaser - Death Duel (1983)(Your Computer)[m Stefan Benk][16K]"
+	rom ( name "Chaser - Death Duel (1983)(Your Computer)[m Stefan Benk][16K].tap" size 2782 crc 3805a130 md5 d0291e82c9d40dde0c1057d4dcf261fb sha1 5e75a40557606c2523247dcb68e7ba7ac5552f7c )
+)
+
+game (
+	name "Cheese Thief (1984)(Sinclair Programs)[16K]"
+	description "Cheese Thief (1984)(Sinclair Programs)[16K]"
+	rom ( name "Cheese Thief (1984)(Sinclair Programs)[16K].tap" size 1902 crc 3af896a5 md5 a2acbdd78ad7a2502e466e71f5c6fb79 sha1 8a4e768f3222b16b70ef4b55be14aea4e37443a3 )
+)
+
+game (
+	name "Cherry Swipe (1984)(Sinclair User)[16K]"
+	description "Cherry Swipe (1984)(Sinclair User)[16K]"
+	rom ( name "Cherry Swipe (1984)(Sinclair User)[16K].tap" size 4659 crc 5a825be7 md5 ea3d2e3d596c63132f2997bc393dd17c sha1 63bca17416503c40bcc6f83363ef3ae2998cb79d )
+)
+
+game (
+	name "Chinos, Los (1985)(MicroHobby)(es)"
+	description "Chinos, Los (1985)(MicroHobby)(es)"
+	rom ( name "Chinos, Los (1985)(MicroHobby)(es).tap" size 11083 crc 64489edd md5 e4c84fff0e99f2736657aa7316e55735 sha1 9a716e5fd07fb7f5d7850df0de7e080e32f09a67 )
+)
+
+game (
+	name "Chip's Challenge (demo) (1990)(U.S. Gold - Crash)"
+	description "Chip's Challenge (demo) (1990)(U.S. Gold - Crash)"
+	rom ( name "Chip's Challenge (demo) (1990)(U.S. Gold - Crash).tap" size 40021 crc 2367b22e md5 85903177f15748f127dc56c0c1fee0a3 sha1 23b5f9014ba337a66d1abe4b2ccc66d97aaea4c4 )
+)
+
+game (
+	name "Chiron (1988)(Crash)"
+	description "Chiron (1988)(Crash)"
+	rom ( name "Chiron (1988)(Crash).tap" size 43084 crc c054d385 md5 02693ba50f7332286b15ee5a017d5fde sha1 e615f1fc2ffc6ff7e69397cfc29e2528699f73d3 )
+)
+
+game (
+	name "Chiron (1988)(Crash)[a]"
+	description "Chiron (1988)(Crash)[a]"
+	rom ( name "Chiron (1988)(Crash)[a].tap" size 42714 crc 743910be md5 f2c5b873696aab01f342d633727fa922 sha1 4d3f65d7d532a13ea24d36dd965b932ced17f328 )
+)
+
+game (
+	name "Chispa, El (1985)(Load 'n' Run)(es)[aka Automania]"
+	description "Chispa, El (1985)(Load 'n' Run)(es)[aka Automania]"
+	rom ( name "Chispa, El (1985)(Load 'n' Run)(es)[aka Automania].tap" size 39566 crc 73245dd6 md5 dac65227cb5c25432a3f87236eef5712 sha1 cca3b0c7bd33b4396e4dd70b85d6535449b1dd04 )
+)
+
+game (
+	name "Chomper (1983)(ZX Computing)(de)"
+	description "Chomper (1983)(ZX Computing)(de)"
+	rom ( name "Chomper (1983)(ZX Computing)(de).tap" size 7352 crc e1ecf4ba md5 affefab1db26fba8cc25bcbccb856dca sha1 a11132e623e7e97b8dc84b278ee40977957a74be )
+)
+
+game (
+	name "Chopper Mission (1986)(Your Sinclair)"
+	description "Chopper Mission (1986)(Your Sinclair)"
+	rom ( name "Chopper Mission (1986)(Your Sinclair).tap" size 11844 crc 3fb3429c md5 e119d84da3be8d15620b3ff5629d6539 sha1 8580a4018c709a14f3ab1a37de8eb8222e07278a )
+)
+
+game (
+	name "Ciclista (1985)(Load 'n' Run)(es)[aka BMX Racers]"
+	description "Ciclista (1985)(Load 'n' Run)(es)[aka BMX Racers]"
+	rom ( name "Ciclista (1985)(Load 'n' Run)(es)[aka BMX Racers].tap" size 45625 crc 01a1e143 md5 b87c5e0dbd89336281679c1012d769f0 sha1 6c3cf4fb36de537244acdfa6da47b853e26c1df3 )
+)
+
+game (
+	name "Circus Circus (demo) (1989)(Martech Games - Sinclair User)"
+	description "Circus Circus (demo) (1989)(Martech Games - Sinclair User)"
+	rom ( name "Circus Circus (demo) (1989)(Martech Games - Sinclair User).tap" size 55327 crc 4f2d99b4 md5 9d1b8d66e57242956aac26c6adc0c22f sha1 58b9a277bf1150a97cdd1c1ddb67d28289a71e16 )
+)
+
+game (
+	name "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a2]"
+	description "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a2]"
+	rom ( name "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a2].tap" size 55323 crc cf9fc832 md5 9eba684d50a653942fcb432e703f977c sha1 38a6ea6c1880bfebbdee12bef9bf4cd705db3f2c )
+)
+
+game (
+	name "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a]"
+	description "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a]"
+	rom ( name "Circus Circus (demo) (1989)(Martech Games - Sinclair User)[a].tap" size 55293 crc 1cf4f8b5 md5 e5e6900b61631e1c6e4912deb47807d8 sha1 e0b3b7f2e14f5e41a0d6ef3db1a4209bec3de805 )
+)
+
+game (
+	name "City Bomber (1982)(Sinclair Programs)[16K]"
+	description "City Bomber (1982)(Sinclair Programs)[16K]"
+	rom ( name "City Bomber (1982)(Sinclair Programs)[16K].tap" size 2543 crc c92c3b2a md5 1d6f54ae3c824cfca5f2f5c79c90c15b sha1 1c636759a8c464d86ea5fefd5067b6ebd3157d4b )
+)
+
+game (
+	name "City Lander (1983)(Sinclair User)[16K]"
+	description "City Lander (1983)(Sinclair User)[16K]"
+	rom ( name "City Lander (1983)(Sinclair User)[16K].tap" size 6643 crc f9cf1a41 md5 a55e44e8e0ceb4e756682c7b8cdcc24e sha1 edcfafba32b2239ceedce001162c299676d926bc )
+)
+
+game (
+	name "Cleaner (1984)(Sinclair User)[16K]"
+	description "Cleaner (1984)(Sinclair User)[16K]"
+	rom ( name "Cleaner (1984)(Sinclair User)[16K].tap" size 6589 crc 8fbe3715 md5 30ee9c7db7ebb105c8a5a04c31183dce sha1 27cc2ff9e1a1b91a176a0034de39ecdd75da30af )
+)
+
+game (
+	name "Cleaner (1984)(Sinclair User)[a][16K]"
+	description "Cleaner (1984)(Sinclair User)[a][16K]"
+	rom ( name "Cleaner (1984)(Sinclair User)[a][16K].tap" size 6410 crc 8a2fe867 md5 10726147755c0b1dc237733c8ca312c3 sha1 09b7efa873edcdb873baf842654f01a0e750372d )
+)
+
+game (
+	name "Clobber Castle (1983)(Sinclair Programs)[16K]"
+	description "Clobber Castle (1983)(Sinclair Programs)[16K]"
+	rom ( name "Clobber Castle (1983)(Sinclair Programs)[16K].tap" size 2596 crc 96c58bf7 md5 2f6f3e04cd2004ec4ada308167733be6 sha1 1d05e067892f2a747080e511f03a00672a895de5 )
+)
+
+game (
+	name "Coal Collector (1984)(Sinclair Programs)"
+	description "Coal Collector (1984)(Sinclair Programs)"
+	rom ( name "Coal Collector (1984)(Sinclair Programs).tap" size 9846 crc 3c6c57b7 md5 cd3da39495adb0f82d1ac6ee9de35f91 sha1 152d658c6afdcd1d5ef12e5941a886a84916dd70 )
+)
+
+game (
+	name "Coconut Climber (1984)(Sinclair Programs)[16K]"
+	description "Coconut Climber (1984)(Sinclair Programs)[16K]"
+	rom ( name "Coconut Climber (1984)(Sinclair Programs)[16K].tap" size 1955 crc 0ed9d760 md5 65c530df4401a53669b71ae10f9c26ad sha1 aa5e9d453c8602f0e10f629ee6ea025d609fb8fb )
+)
+
+game (
+	name "Collision Course (1987)(Sinclair User)"
+	description "Collision Course (1987)(Sinclair User)"
+	rom ( name "Collision Course (1987)(Sinclair User).tap" size 31387 crc 80c2a8d0 md5 57447a355b955d3af7d5d5facd14458d sha1 77a87919fd98c6a3b28dab8ebcde53625670dd9c )
+)
+
+game (
+	name "Colourthello 02 (1982)(ZX Computing)(de)[16K]"
+	description "Colourthello 02 (1982)(ZX Computing)(de)[16K]"
+	rom ( name "Colourthello 02 (1982)(ZX Computing)(de)[16K].tap" size 5480 crc a251c1c0 md5 f31935e98a393f508983e1224dc42d93 sha1 3a4611cdca86f069340362977aec2e43863793ea )
+)
+
+game (
+	name "Comecocos 3D (1989)(MicroHobby)(es)"
+	description "Comecocos 3D (1989)(MicroHobby)(es)"
+	rom ( name "Comecocos 3D (1989)(MicroHobby)(es).tap" size 9958 crc 38c6d7b5 md5 c0501e5b051fa0279750b68458758378 sha1 5d5270c87ed55826c63434dec09bb1e6a0440f25 )
+)
+
+game (
+	name "Comeme (1986)(MicroHobby)(es)"
+	description "Comeme (1986)(MicroHobby)(es)"
+	rom ( name "Comeme (1986)(MicroHobby)(es).tap" size 18705 crc d169ef98 md5 bab6f0bc3c84796ac0c271f8cc8e1e42 sha1 2599c213614e499670caf9e3b2dc865f27ec3ebc )
+)
+
+game (
+	name "Compact (1985)(Your Computer)"
+	description "Compact (1985)(Your Computer)"
+	rom ( name "Compact (1985)(Your Computer).tap" size 5207 crc 56a9f86e md5 e18db0881496c35ffa5be29ede3fbe09 sha1 ed9127a5df12e10810bd9118819b57c5ddec544d )
+)
+
+game (
+	name "Concentration (1984)(Sinclair Programs)[16K]"
+	description "Concentration (1984)(Sinclair Programs)[16K]"
+	rom ( name "Concentration (1984)(Sinclair Programs)[16K].tap" size 3170 crc 6c951ca5 md5 2f332f46e8e83547aee300a4d8dd7018 sha1 78b06e2ef7bc9c649aafa02ea811168858d6f173 )
+)
+
+game (
+	name "Confused (1991)(Crash)"
+	description "Confused (1991)(Crash)"
+	rom ( name "Confused (1991)(Crash).tap" size 43574 crc 8dd67c86 md5 856bf71d7b8a63b63cf7960dbf4b1301 sha1 5e2d25afabbcffb39e336a44905d9bf7df965890 )
+)
+
+game (
+	name "Conveyor-Belt Capers (1984)(Spectrum Computing)[16K]"
+	description "Conveyor-Belt Capers (1984)(Spectrum Computing)[16K]"
+	rom ( name "Conveyor-Belt Capers (1984)(Spectrum Computing)[16K].tap" size 11765 crc 6283a51c md5 c5609c1d84c1c170655f62acc5d59b3a sha1 b2cbae1381ad9e5dedb1e607e7bc2b865c5f82df )
+)
+
+game (
+	name "Conveyor-Belt Capers (1984)(Spectrum Computing)[a][16K]"
+	description "Conveyor-Belt Capers (1984)(Spectrum Computing)[a][16K]"
+	rom ( name "Conveyor-Belt Capers (1984)(Spectrum Computing)[a][16K].tap" size 11776 crc 4d0cbd39 md5 44ec4a1a862111bd5393911a6feceec8 sha1 9f2c7f3e821799a8c46ace980f6b0ffdbb98d63e )
+)
+
+game (
+	name "Copius (1984)(Poke Magazine)(it)[a][aka Sorcery]"
+	description "Copius (1984)(Poke Magazine)(it)[a][aka Sorcery]"
+	rom ( name "Copius (1984)(Poke Magazine)(it)[a][aka Sorcery].tap" size 33289 crc 553d2c8a md5 9d26dfeb4e0ed5f94db53b3ce8187609 sha1 8e8f0968e73db20f8a1be7263ae5c30c876f8237 )
+)
+
+game (
+	name "Copius (1984)(Poke Magazine)(it)[aka Sorcery]"
+	description "Copius (1984)(Poke Magazine)(it)[aka Sorcery]"
+	rom ( name "Copius (1984)(Poke Magazine)(it)[aka Sorcery].tap" size 33792 crc 960ef090 md5 05363d0ba679b79edc1a9060a497e4d5 sha1 01257ee9321d94cde8b511fefe2a1d5572765795 )
+)
+
+game (
+	name "Cosmazoigs (1983)(Your Computer)"
+	description "Cosmazoigs (1983)(Your Computer)"
+	rom ( name "Cosmazoigs (1983)(Your Computer).tap" size 8013 crc c6b69721 md5 fabfc4ef75636d9db756d29f0c23b76a sha1 9515c83209cf10234ab131a6fc77826c40c5bf6c )
+)
+
+game (
+	name "Cosmazoigs (1983)(Your Computer)[tr cs Petr Lukac]"
+	description "Cosmazoigs (1983)(Your Computer)[tr cs Petr Lukac]"
+	rom ( name "Cosmazoigs (1983)(Your Computer)[tr cs Petr Lukac].tap" size 6099 crc 3daf9dd7 md5 8ae707ed4796627d2e3de26a1953db58 sha1 6c171ff28f483b692e7e7b3a0a6c416b63721513 )
+)
+
+game (
+	name "Countdown to the Death (1990)(Crash)"
+	description "Countdown to the Death (1990)(Crash)"
+	rom ( name "Countdown to the Death (1990)(Crash).tap" size 48590 crc 30f6a44d md5 1998a404977eadcc1fd631feb917ca44 sha1 8967e403a2e1da91a9fc7e6d42f86f047aed11ff )
+)
+
+game (
+	name "Crash - Issue 66 - Presents 02 - Pokemania (1989)(Crash)"
+	description "Crash - Issue 66 - Presents 02 - Pokemania (1989)(Crash)"
+	rom ( name "Crash - Issue 66 - Presents 02 - Pokemania (1989)(Crash).tap" size 11794 crc 6ee8ce5c md5 9cecde57abc17f6e15fca6551399642e sha1 9a92f030b1f7391ef9ac8d3a64a737e4eda2b645 )
+)
+
+game (
+	name "Crash - Issue 68 - Presents 04 - Pokemania (1989)(Crash)"
+	description "Crash - Issue 68 - Presents 04 - Pokemania (1989)(Crash)"
+	rom ( name "Crash - Issue 68 - Presents 04 - Pokemania (1989)(Crash).tap" size 19372 crc 67b3634c md5 e515581f25a40e89cf35c4eafd2ad321 sha1 cccaeb3f7531397a130184a09895a3cfaf304d0b )
+)
+
+game (
+	name "Crash - Issue 69 - Presents 05 - Pokemania (1989)(Crash)"
+	description "Crash - Issue 69 - Presents 05 - Pokemania (1989)(Crash)"
+	rom ( name "Crash - Issue 69 - Presents 05 - Pokemania (1989)(Crash).tap" size 14850 crc ff6456c8 md5 be291ca31eaee30c244356797d9534ce sha1 b8e3c531c46a77f677b1c06e21e8f1c99067afcf )
+)
+
+game (
+	name "Crash - Issue 70 - Presents 06 - Pokemania (1989)(Crash)"
+	description "Crash - Issue 70 - Presents 06 - Pokemania (1989)(Crash)"
+	rom ( name "Crash - Issue 70 - Presents 06 - Pokemania (1989)(Crash).tap" size 11997 crc dcd70ec3 md5 b159aff08217f63ed5c27424c1c0bfba sha1 7d63dc9948d3067cff53566ee85df9e122698ab9 )
+)
+
+game (
+	name "Crash - Issue 77 - Presents 13 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 77 - Presents 13 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 77 - Presents 13 - Pokemania (1990)(Crash).tap" size 16880 crc 2fe5c523 md5 5b2e65f549939161b60efa4ae664b9d8 sha1 0e8825b625ee1b9d42b0e9356ebedf70eb117f95 )
+)
+
+game (
+	name "Crash - Issue 78 - Presents 14 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 78 - Presents 14 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 78 - Presents 14 - Pokemania (1990)(Crash).tap" size 18298 crc cf3549cd md5 94bf0474203087b2b28662e3e90e873e sha1 0202b370f21bbc7b6fe140b06553358715d81f37 )
+)
+
+game (
+	name "Crash - Issue 79 - Presents 15 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 79 - Presents 15 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 79 - Presents 15 - Pokemania (1990)(Crash).tap" size 15896 crc 042b44ad md5 01a7dfa26d575ad39d8681ffe687c1be sha1 9d469311bcd2c3e2f8f3a44b4ff33a397f200309 )
+)
+
+game (
+	name "Crash - Issue 80 - Presents 16 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 80 - Presents 16 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 80 - Presents 16 - Pokemania (1990)(Crash).tap" size 16419 crc 233bc26f md5 62fe1e2a3dc03eade918330b51d32802 sha1 e755573ba85eb0fa37e9784cadfd0aabe992e7a1 )
+)
+
+game (
+	name "Crash - Issue 81 - Presents 17 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 81 - Presents 17 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 81 - Presents 17 - Pokemania (1990)(Crash).tap" size 16958 crc 9cb9b8cf md5 07d5f964965ce313432d6c7c0f80445e sha1 0532d717bd94d2f56d550dd8d5681247eabe9926 )
+)
+
+game (
+	name "Crash - Issue 82 - Presents 18 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 82 - Presents 18 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 82 - Presents 18 - Pokemania (1990)(Crash).tap" size 15182 crc 30b6e36a md5 2ef99419174be3b0769e2fc4f4e00f85 sha1 5e6eac1931232a3f73fdba80fd52f6829b776461 )
+)
+
+game (
+	name "Crash - Issue 83 - Presents 19 - Pokemania (1990)(Crash)"
+	description "Crash - Issue 83 - Presents 19 - Pokemania (1990)(Crash)"
+	rom ( name "Crash - Issue 83 - Presents 19 - Pokemania (1990)(Crash).tap" size 17144 crc aa62bc21 md5 1f330e8e9029f6964150891f2eebeb94 sha1 5e75a2c08a2b1cb28bb8a7fbf0c47242c6c950a9 )
+)
+
+game (
+	name "Crash - Issue 84 - Presents 20 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 84 - Presents 20 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 84 - Presents 20 - Pokemania (1991)(Crash).tap" size 14208 crc 5b742cce md5 4146945effb71e5d85aa410b73a9449d sha1 7f5907b2143fc88080215089453edaa2a04a6ec8 )
+)
+
+game (
+	name "Crash - Issue 85 - Presents 21 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 85 - Presents 21 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 85 - Presents 21 - Pokemania (1991)(Crash).tap" size 18820 crc 01d875dd md5 3d2e82a0e1a5c1aa215d3aabbc5187ef sha1 d7400e0a37c40bc1905baea0fa7b503e6c726964 )
+)
+
+game (
+	name "Crash - Issue 86 - Presents 22 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 86 - Presents 22 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 86 - Presents 22 - Pokemania (1991)(Crash).tap" size 18724 crc 681152cf md5 5b45893854dee918f25d705cb5dd91f8 sha1 6b0e8115c530803f1836d895ccf2d45b35c2025f )
+)
+
+game (
+	name "Crash - Issue 88 - Powertape 01 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 88 - Powertape 01 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 88 - Powertape 01 - Pokemania (1991)(Crash).tap" size 11614 crc ebfac50c md5 2fa6cfd57665b7f5a7f8b507cf001c04 sha1 169c88eaaf12e30f4c698269eb0ac225a9fd0825 )
+)
+
+game (
+	name "Crash - Issue 89 - Powertape 02 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 89 - Powertape 02 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 89 - Powertape 02 - Pokemania (1991)(Crash).tap" size 16082 crc 65ce1ab2 md5 7f1bc6252c42e95f9052cc3a3e3b146f sha1 e1c64e941025ded378961a3b3c857622a2fd9988 )
+)
+
+game (
+	name "Crash - Issue 91 - Powertape 04 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 91 - Powertape 04 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 91 - Powertape 04 - Pokemania (1991)(Crash).tap" size 16581 crc ffa98fce md5 c3f9fa21e940091b0dc85e5921f605af sha1 99aaaa9cf4c0410888b9de6f2a1e5ec66ac707c2 )
+)
+
+game (
+	name "Crash - Issue 92 - Powertape 05 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 92 - Powertape 05 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 92 - Powertape 05 - Pokemania (1991)(Crash).tap" size 16731 crc d7e1ca3c md5 badcf2cf416088633fcbf8abbe977786 sha1 ba844d9a9e30ae0d8f3cb0ac689ae70951e7bdf6 )
+)
+
+game (
+	name "Crash - Issue 93 - Powertape 06 - Pokemania (1991)(Crash)"
+	description "Crash - Issue 93 - Powertape 06 - Pokemania (1991)(Crash)"
+	rom ( name "Crash - Issue 93 - Powertape 06 - Pokemania (1991)(Crash).tap" size 16423 crc 2ffc37a2 md5 f858732248f090ab87f6c18f76039d53 sha1 6889c898267aa6c168eae2f750f12940d834af7a )
+)
+
+game (
+	name "Crash Cars (1984)(Load 'n' Run)(it)[aka Race Fun]"
+	description "Crash Cars (1984)(Load 'n' Run)(it)[aka Race Fun]"
+	rom ( name "Crash Cars (1984)(Load 'n' Run)(it)[aka Race Fun].tap" size 10011 crc abdfbdd5 md5 b29e0e34b29c449d1bd58587860294ce sha1 aab7e774ea5e5c6b38490e0e0f39507f8434438c )
+)
+
+game (
+	name "Crazy Painter (1984)(Sinclair Programs)(nl)[16K]"
+	description "Crazy Painter (1984)(Sinclair Programs)(nl)[16K]"
+	rom ( name "Crazy Painter (1984)(Sinclair Programs)(nl)[16K].tap" size 3968 crc 10b4243c md5 d00c815c0883fd94764837f2a7164d46 sha1 2d12b9ec58a645d745ef55ab9be488cc9141129f )
+)
+
+game (
+	name "Crazy Painter (1984)(Sinclair Programs)[16K]"
+	description "Crazy Painter (1984)(Sinclair Programs)[16K]"
+	rom ( name "Crazy Painter (1984)(Sinclair Programs)[16K].tap" size 4220 crc badeb5ca md5 875a55046253d699322746a013329436 sha1 5c697a9d1ad43f38642f9c319ef00f6e8489eaa9 )
+)
+
+game (
+	name "Cribbage (1985)(Spectrum Computing)"
+	description "Cribbage (1985)(Spectrum Computing)"
+	rom ( name "Cribbage (1985)(Spectrum Computing).tap" size 28327 crc 0717d0bb md5 d4d1eaf01f214cf362e388e39fc9380d sha1 ae4e89f1cd3c6b139c4ae2040333d71e09a012b4 )
+)
+
+game (
+	name "Cricket (1983)(Sinclair Programs)"
+	description "Cricket (1983)(Sinclair Programs)"
+	rom ( name "Cricket (1983)(Sinclair Programs).tap" size 9360 crc cf945081 md5 e32635df32550ab990f73fdd501c87c0 sha1 ef1163d4ab8c68e57e551b450a8feb43d3dc11fd )
+)
+
+game (
+	name "Cricket Coach (1988)(Crash)"
+	description "Cricket Coach (1988)(Crash)"
+	rom ( name "Cricket Coach (1988)(Crash).tap" size 39176 crc d03f8ccb md5 5f6a3843617024930121af3735ea28a6 sha1 9a29ccbc8eec5a3e14ce8ce32ca9fd123c756256 )
+)
+
+game (
+	name "Cricket Coach (1988)(Crash)[a]"
+	description "Cricket Coach (1988)(Crash)[a]"
+	rom ( name "Cricket Coach (1988)(Crash)[a].tap" size 39176 crc 91993984 md5 36e0df23b3690d916eafb8573a346e14 sha1 60b2d234e082163d18381bf1b1d4ade27bfb9e21 )
+)
+
+game (
+	name "Crossfire (1985)(Your Computer)"
+	description "Crossfire (1985)(Your Computer)"
+	rom ( name "Crossfire (1985)(Your Computer).tap" size 6768 crc b1b00e93 md5 13f3a46f23994c20fe6c981f2358b7ba sha1 76b95e6a3bffaadd09e81765e38e72862b7cfe33 )
+)
+
+game (
+	name "Custard Pie (1985)(16-48 Tape Magazine)[tr cs][16K]"
+	description "Custard Pie (1985)(16-48 Tape Magazine)[tr cs][16K]"
+	rom ( name "Custard Pie (1985)(16-48 Tape Magazine)[tr cs][16K].tap" size 5951 crc 8c96f0d2 md5 d9bc14d339916afe283d6ad650684306 sha1 464251af229c20d5236ef1b5018070ea3e4c6f14 )
+)
+
+game (
+	name "Cybernoid II - The Revenge (demo) (1988)(Hewson Consultants - Your Sinclair)"
+	description "Cybernoid II - The Revenge (demo) (1988)(Hewson Consultants - Your Sinclair)"
+	rom ( name "Cybernoid II - The Revenge (demo) (1988)(Hewson Consultants - Your Sinclair).tap" size 40320 crc a084c042 md5 0cdd37afa7ed5308fa3f6f6caeda650c sha1 d280517e576f0073f6244bc0bb34be88c4d3797a )
+)
+
+game (
+	name "Dan Dare II - Mekon's Revenge - SU Edition (1988)(Virgin Games - Sinclair User)"
+	description "Dan Dare II - Mekon's Revenge - SU Edition (1988)(Virgin Games - Sinclair User)"
+	rom ( name "Dan Dare II - Mekon's Revenge - SU Edition (1988)(Virgin Games - Sinclair User).tap" size 39147 crc b2174a3b md5 34e200c519636b2edd33dac9f15135dd sha1 2480844aec521eb34c2db4116508db17e14021b2 )
+)
+
+game (
+	name "Dangerous Gardens (1984)(Your Computer)"
+	description "Dangerous Gardens (1984)(Your Computer)"
+	rom ( name "Dangerous Gardens (1984)(Your Computer).tap" size 6037 crc 4628b24d md5 640d60189c89cd7f37b4411758c360b2 sha1 26dc4c251a79f0cf469259184c52b79cfcb37d0d )
+)
+
+game (
+	name "Dardos (1985)(MicroHobby)(es)"
+	description "Dardos (1985)(MicroHobby)(es)"
+	rom ( name "Dardos (1985)(MicroHobby)(es).tap" size 22538 crc 212e9ac7 md5 b60928290ebae64ae012895eb9f42132 sha1 4950e36c20082451163d65926dec18f538b8ec3b )
+)
+
+game (
+	name "Dark Forest (1984)(Sinclair User)"
+	description "Dark Forest (1984)(Sinclair User)"
+	rom ( name "Dark Forest (1984)(Sinclair User).tap" size 10157 crc 2342ba2f md5 42944756f5cc638702361fad70537cf3 sha1 df55271ad1e61106b3bfa27e430d24add17c3fbb )
+)
+
+game (
+	name "Dark Forest (1984)(Sinclair User)[a]"
+	description "Dark Forest (1984)(Sinclair User)[a]"
+	rom ( name "Dark Forest (1984)(Sinclair User)[a].tap" size 11190 crc 357d46c7 md5 15c82b95eb908ff9baa28a97cb587cf8 sha1 6dea4f379a239e3240909f9b79b77dc7dd4f5230 )
+)
+
+game (
+	name "De Dos en Dos (1986)(Load 'n' Run)(es)"
+	description "De Dos en Dos (1986)(Load 'n' Run)(es)"
+	rom ( name "De Dos en Dos (1986)(Load 'n' Run)(es).tap" size 8135 crc 90fe70a1 md5 1a6a1286279f3340612b92e0797cf6be sha1 d321cbfb546ec34a5a9d1ff70fd04335d8e54082 )
+)
+
+game (
+	name "Dead Eyed Dick (1985)(Sinclair User)"
+	description "Dead Eyed Dick (1985)(Sinclair User)"
+	rom ( name "Dead Eyed Dick (1985)(Sinclair User).tap" size 17296 crc 34096109 md5 bdba2715f9c9ebd2255f7e04879ab0fb sha1 3f6d139f9940f704a72240bd19df49d3458b4f0c )
+)
+
+game (
+	name "Death Run (1983)(Sinclair User)[16K]"
+	description "Death Run (1983)(Sinclair User)[16K]"
+	rom ( name "Death Run (1983)(Sinclair User)[16K].tap" size 4007 crc 2c197d35 md5 d050dd95df25347d0523da8bce6eed14 sha1 8bdea95ddb7c0b0997e1c36b1075028df49f18ca )
+)
+
+game (
+	name "Death Zone (1989)(Sinclair User)"
+	description "Death Zone (1989)(Sinclair User)"
+	rom ( name "Death Zone (1989)(Sinclair User).tap" size 38006 crc ed802a07 md5 fd385bbcb8c9e54c63235c8c24eba988 sha1 8bd71a5f0f6487f01b9650eac0bba6317a029f5f )
+)
+
+game (
+	name "Defender (1983)(Popular Computing Weekly)"
+	description "Defender (1983)(Popular Computing Weekly)"
+	rom ( name "Defender (1983)(Popular Computing Weekly).tap" size 12840 crc 34d79f0f md5 83d138481c424b590c9b81b5ff5d7d07 sha1 a17891c2afbb29da715dc2a75d5186eb52d891d7 )
+)
+
+game (
+	name "Defender (1983)(Sinclair Programs)"
+	description "Defender (1983)(Sinclair Programs)"
+	rom ( name "Defender (1983)(Sinclair Programs).tap" size 16142 crc cd46e319 md5 b27b3c608341e74de90f00e9f59a3c94 sha1 983015908275ef19bd8b0b8af4e1c11232f4784a )
+)
+
+game (
+	name "Defender (1983)(Sinclair Programs)[a]"
+	description "Defender (1983)(Sinclair Programs)[a]"
+	rom ( name "Defender (1983)(Sinclair Programs)[a].tap" size 16384 crc a011b6bd md5 93b0acd603c56ffe86989ccc25b51fc1 sha1 8f01516621758344755efa3b9300334136372d46 )
+)
+
+game (
+	name "Deja Vu (1989)(Crash)"
+	description "Deja Vu (1989)(Crash)"
+	rom ( name "Deja Vu (1989)(Crash).tap" size 41221 crc af897141 md5 478fb512e1fbc74066597710d731da78 sha1 424a2365fea83be8f140967732537dd7478b1abb )
+)
+
+game (
+	name "Deja Vu - The Remix (1990)(Crash)"
+	description "Deja Vu - The Remix (1990)(Crash)"
+	rom ( name "Deja Vu - The Remix (1990)(Crash).tap" size 48266 crc 99700cd1 md5 24ee5a0cc3a01fe68cabde234eb11275 sha1 ecffa0e7c6b53ef7ce3d29498fa1f0758609b9ef )
+)
+
+game (
+	name "Deja Vu - The Remix (1990)(Crash)[a]"
+	description "Deja Vu - The Remix (1990)(Crash)[a]"
+	rom ( name "Deja Vu - The Remix (1990)(Crash)[a].tap" size 48244 crc 5447fd97 md5 d185f2e07d4c32a6e6eeb1aa45c15b4d sha1 af9d39d50e9ebbb7bd4a0bfce69e80163968479c )
+)
+
+game (
+	name "Demolition (1983)(Sinclair Programs)[16K]"
+	description "Demolition (1983)(Sinclair Programs)[16K]"
+	rom ( name "Demolition (1983)(Sinclair Programs)[16K].tap" size 3802 crc 8aa5e7db md5 72193015a29ba9df295a8640d0b7aef4 sha1 47a94e709faa2778a5be828240e5f79ad901293a )
+)
+
+game (
+	name "Demolition (1983)(ZX Computing)[16K]"
+	description "Demolition (1983)(ZX Computing)[16K]"
+	rom ( name "Demolition (1983)(ZX Computing)[16K].tap" size 3380 crc e56b3579 md5 a812c5730651824d4e1b10ef3a3859fa sha1 183f2362ccaecbd6bafb0cbab16a140ecaaaa156 )
+)
+
+game (
+	name "Demolition (1984)(C&VG)[16K]"
+	description "Demolition (1984)(C&VG)[16K]"
+	rom ( name "Demolition (1984)(C&VG)[16K].tap" size 8296 crc 72e43340 md5 99d957000f1929f58a6e4ca20a3df6d9 sha1 ee06af44940bf7331126cc0257e7bb94765d3830 )
+)
+
+game (
+	name "Destrux (1990)(Your Sinclair)"
+	description "Destrux (1990)(Your Sinclair)"
+	rom ( name "Destrux (1990)(Your Sinclair).tap" size 50050 crc d0fada2d md5 8253e11132459034375739e15764ce6b sha1 bf1b87adc57ef8271915f4f361df998fa733a9bd )
+)
+
+game (
+	name "Destrux (1990)(Your Sinclair)[a]"
+	description "Destrux (1990)(Your Sinclair)[a]"
+	rom ( name "Destrux (1990)(Your Sinclair)[a].tap" size 50050 crc f8d837cb md5 2b8c99425f8d6a99401ffd26e020541b sha1 e18b1450bf425f6d1fd821b9c9d5bf5df9f5db89 )
+)
+
+game (
+	name "Detective (1983)(Your Computer)"
+	description "Detective (1983)(Your Computer)"
+	rom ( name "Detective (1983)(Your Computer).tap" size 18410 crc 5d02e26b md5 952f6ba144e4817a21f7c1e04734371e sha1 4f9834b24d353a76105300103e87b6704847cb2c )
+)
+
+game (
+	name "Deviants (1988)(Players Software - Sinclair User)[48-128K]"
+	description "Deviants (1988)(Players Software - Sinclair User)[48-128K]"
+	rom ( name "Deviants (1988)(Players Software - Sinclair User)[48-128K].tap" size 48385 crc 747c6386 md5 c9a592beff9266a4da5514fa3f4163d4 sha1 bd379a85863ce8abbf5cc9d5e0f36bfe23e4b7b0 )
+)
+
+game (
+	name "District Line (1985)(16-48 Tape Magazine)"
+	description "District Line (1985)(16-48 Tape Magazine)"
+	rom ( name "District Line (1985)(16-48 Tape Magazine).tap" size 47498 crc 9099ba8c md5 a44e496064598d748ede612172947a12 sha1 2f7f19e5893631777bfce3ff77e290cc89430050 )
+)
+
+game (
+	name "Dizzy - Crash Special Edition (1987)(Codemasters - Crash)"
+	description "Dizzy - Crash Special Edition (1987)(Codemasters - Crash)"
+	rom ( name "Dizzy - Crash Special Edition (1987)(Codemasters - Crash).tap" size 48581 crc 83d585be md5 ed6954aa3345f3b753888a5501fb6c7b sha1 1e9aca96167e987769d0e0b687272bf16b776c3c )
+)
+
+game (
+	name "Dizzy - The Ultimate Cartoon Adventure (1990)(Codemasters - Your Sinclair)"
+	description "Dizzy - The Ultimate Cartoon Adventure (1990)(Codemasters - Your Sinclair)"
+	rom ( name "Dizzy - The Ultimate Cartoon Adventure (1990)(Codemasters - Your Sinclair).tap" size 49867 crc c13a5819 md5 084edbcd50f4daf61bb32de025352dbd sha1 98c1dca31d84f7c0aa2c767fbf4e72d7718b5e7e )
+)
+
+game (
+	name "Dizzy II - Treasure Island Dizzy - Crash Special Edition (1988)(Codemasters - Crash)"
+	description "Dizzy II - Treasure Island Dizzy - Crash Special Edition (1988)(Codemasters - Crash)"
+	rom ( name "Dizzy II - Treasure Island Dizzy - Crash Special Edition (1988)(Codemasters - Crash).tap" size 48511 crc c3dd81a2 md5 5fcc994b4e8035dffcec8123482c61d8 sha1 1d06bdd5b7e648835537fbf859f9a36a0db9da9f )
+)
+
+game (
+	name "Dizzy III and a Half (1991)(Codemasters - Crash)"
+	description "Dizzy III and a Half (1991)(Codemasters - Crash)"
+	rom ( name "Dizzy III and a Half (1991)(Codemasters - Crash).tap" size 25243 crc 1d89bdea md5 36e64d6e6a9f5649c248688613a5d5dd sha1 32f9b5ebb8f4e86b5da091392af03b87157f4ef9 )
+)
+
+game (
+	name "Dizzy III and a Half (1991)(Codemasters - Crash)[a]"
+	description "Dizzy III and a Half (1991)(Codemasters - Crash)[a]"
+	rom ( name "Dizzy III and a Half (1991)(Codemasters - Crash)[a].tap" size 25241 crc 8a82c837 md5 0c8988171ff9d78c09891b6ad52c84ec sha1 3a34843ed294192f8cc641d1857e5182768f003b )
+)
+
+game (
+	name "Docking (1984)(Your Computer)"
+	description "Docking (1984)(Your Computer)"
+	rom ( name "Docking (1984)(Your Computer).tap" size 14850 crc a3738997 md5 9d0c1c889ad97b68ea311aeed01545b1 sha1 04dbfe88106c39d343186a18bcfac28bf7b3b59d )
+)
+
+game (
+	name "Dominator (demo) (1989)(Electric Dreams Software - Your Sinclair)"
+	description "Dominator (demo) (1989)(Electric Dreams Software - Your Sinclair)"
+	rom ( name "Dominator (demo) (1989)(Electric Dreams Software - Your Sinclair).tap" size 34763 crc 61aec93b md5 877a40844f4801fd1f3a888d02991972 sha1 adae5275dc4d664f5f2590b9bc4c7eea074552ba )
+)
+
+game (
+	name "Dominion (demo) (1991)(Pandora - Your Sinclair)"
+	description "Dominion (demo) (1991)(Pandora - Your Sinclair)"
+	rom ( name "Dominion (demo) (1991)(Pandora - Your Sinclair).tap" size 41134 crc 05a35543 md5 07d864097ae8f3d858f9110c5f1e7450 sha1 4737d5f2f4e4c838d708c7db64576fb5367cb172 )
+)
+
+game (
+	name "Doomskulle (1990)(Crash)"
+	description "Doomskulle (1990)(Crash)"
+	rom ( name "Doomskulle (1990)(Crash).tap" size 48095 crc 174f29b5 md5 5f403371ca2f95f3370dcb0c88223204 sha1 0443b4e5c0430d1709f843211d837c8b6d69bb2a )
+)
+
+game (
+	name "Draughts (1985)(16-48 Tape Magazine)"
+	description "Draughts (1985)(16-48 Tape Magazine)"
+	rom ( name "Draughts (1985)(16-48 Tape Magazine).tap" size 9465 crc 6a435d82 md5 feeb5dedd175a3357916abfd8e569367 sha1 4a4723239c5530b3bb26095dc0d48d6ab4f187de )
+)
+
+game (
+	name "Driver (1983)(Sinclair Programs)"
+	description "Driver (1983)(Sinclair Programs)"
+	rom ( name "Driver (1983)(Sinclair Programs).tap" size 2762 crc 8d04c548 md5 ef44955bc539f7d7f6f7612e4ef9f1ba sha1 2dcc2fe48e8edcc79839cd7bc34fa093a1d17700 )
+)
+
+game (
+	name "Droid Wars (1986)(Your Sinclair)"
+	description "Droid Wars (1986)(Your Sinclair)"
+	rom ( name "Droid Wars (1986)(Your Sinclair).tap" size 10447 crc 42d5f669 md5 e42781bcca9795f86eb90e794eb92ddf sha1 72fff9c471d2e2f0106e30501f250fb164c7ec1e )
+)
+
+game (
+	name "Droids (1986)(Special Program)(it)[aka Deactivators]"
+	description "Droids (1986)(Special Program)(it)[aka Deactivators]"
+	rom ( name "Droids (1986)(Special Program)(it)[aka Deactivators].tap" size 43949 crc 6c050daf md5 f70a619388bb6bd0e61b12fb523a3fbf sha1 ddc53425885343902d6f7f0fa51d4994a5acd63f )
+)
+
+game (
+	name "Dungeon Danny (1986)(Sinclair User)"
+	description "Dungeon Danny (1986)(Sinclair User)"
+	rom ( name "Dungeon Danny (1986)(Sinclair User).tap" size 9329 crc 427b5566 md5 1dfb72f944591700632cef6f63d5a980 sha1 5cd62cccd2bee5171f1a51560bb11c846a66afb2 )
+)
+
+game (
+	name "Egg Catcher! (1984)(Sinclair Programs)[16K]"
+	description "Egg Catcher! (1984)(Sinclair Programs)[16K]"
+	rom ( name "Egg Catcher! (1984)(Sinclair Programs)[16K].tap" size 2741 crc 3eb246a7 md5 94a6d32c7eb7598657fc2cdad3595133 sha1 6aa175f58b33aa453cc9b6e0838a272825e03e25 )
+)
+
+game (
+	name "Egghead (1989)(Crash)"
+	description "Egghead (1989)(Crash)"
+	rom ( name "Egghead (1989)(Crash).tap" size 48076 crc 794d5953 md5 7aa6bedef8f3e6a626b78375ce481012 sha1 fd31784d67d7bfde232aa721c75ab91d7903ad88 )
+)
+
+game (
+	name "Egghead (1989)(Crash)[a]"
+	description "Egghead (1989)(Crash)[a]"
+	rom ( name "Egghead (1989)(Crash)[a].tap" size 48193 crc b3a33370 md5 8d34f23be174172cf247de7e6239ad59 sha1 67293312c06b12317c08cbe4897388a6cee60709 )
+)
+
+game (
+	name "Egghead II - To the Rescue (1990)(Crash)"
+	description "Egghead II - To the Rescue (1990)(Crash)"
+	rom ( name "Egghead II - To the Rescue (1990)(Crash).tap" size 46328 crc b854984a md5 c259c5fcde835a7a3d18641da19fe225 sha1 5da439d8a23f1f07d95e9c16b26aeb9ac3711abd )
+)
+
+game (
+	name "Egghead II - To the Rescue (1990)(Crash)[a]"
+	description "Egghead II - To the Rescue (1990)(Crash)[a]"
+	rom ( name "Egghead II - To the Rescue (1990)(Crash)[a].tap" size 46618 crc e7412b6b md5 ad4270c6a7af98437b40864651cd8c12 sha1 205d510296f07113f4455f43fcbbef32e6a1c8eb )
+)
+
+game (
+	name "Electro Bingo (1989)(Sinclair User)"
+	description "Electro Bingo (1989)(Sinclair User)"
+	rom ( name "Electro Bingo (1989)(Sinclair User).tap" size 31811 crc b542f002 md5 9b335a6c18f263172ca5c716e0a55f5f sha1 8a90b3889ef42e3b465c7371b835fdde4f28fea5 )
+)
+
+game (
+	name "Electro Bingo II (1989)(Sinclair User)"
+	description "Electro Bingo II (1989)(Sinclair User)"
+	rom ( name "Electro Bingo II (1989)(Sinclair User).tap" size 34690 crc 95609114 md5 36216a77e1563d8ba94d40a28a913bf8 sha1 34d58b29f1acecd048ff3e727422c131ae3b9b85 )
+)
+
+game (
+	name "Electro Bingo II (1989)(Sinclair User)[a]"
+	description "Electro Bingo II (1989)(Sinclair User)[a]"
+	rom ( name "Electro Bingo II (1989)(Sinclair User)[a].tap" size 34690 crc 46ffa76e md5 2d936597360732ac90ce3f62e3adfe0a sha1 9df9f8a95795789d1ca8e13278e21430fd4b8334 )
+)
+
+game (
+	name "Electro Bingo III (1989)(Sinclair User)"
+	description "Electro Bingo III (1989)(Sinclair User)"
+	rom ( name "Electro Bingo III (1989)(Sinclair User).tap" size 34762 crc 8028c705 md5 2c15be32acb49446880710840c125b3d sha1 d20d53be5969e7ae44425a70d96be9a70d8ecdbf )
+)
+
+game (
+	name "Emily's Tantrums (1984)(Sinclair Programs)[16K]"
+	description "Emily's Tantrums (1984)(Sinclair Programs)[16K]"
+	rom ( name "Emily's Tantrums (1984)(Sinclair Programs)[16K].tap" size 4295 crc 0625042d md5 a3f20052acd477ce00de1945386650c9 sha1 252435c0d5174334023c46ebdfb1ae25ebb03847 )
+)
+
+game (
+	name "Escoba, La (1985)(MicroHobby)(es)"
+	description "Escoba, La (1985)(MicroHobby)(es)"
+	rom ( name "Escoba, La (1985)(MicroHobby)(es).tap" size 23909 crc 1c9a745e md5 a5c405b528bb1108caeb696f688eeaac sha1 d367d7c36ea2acd5b8d19d8f9b0864330569bb4d )
+)
+
+game (
+	name "Ethnipod (1991)(Your Sinclair)"
+	description "Ethnipod (1991)(Your Sinclair)"
+	rom ( name "Ethnipod (1991)(Your Sinclair).tap" size 47389 crc ff54a3fc md5 e9d64c4477d35ec7341d96a9fc6ff317 sha1 6a67d2d81e0992e564efefb872a2a25793b48430 )
+)
+
+game (
+	name "Ethnipod (1991)(Your Sinclair)[a]"
+	description "Ethnipod (1991)(Your Sinclair)[a]"
+	rom ( name "Ethnipod (1991)(Your Sinclair)[a].tap" size 47345 crc 47743b14 md5 7469a1d242379ac4dd22802ab2c6174c sha1 339315f15b288f903511b42cdd1e52b25904297b )
+)
+
+game (
+	name "Ethnipod (1991)(Your Sinclair)[cr]"
+	description "Ethnipod (1991)(Your Sinclair)[cr]"
+	rom ( name "Ethnipod (1991)(Your Sinclair)[cr].tap" size 34686 crc ed8c7941 md5 3ff8180a0148f0ad909d5364e1861b30 sha1 d6dbc0a99149117568374c51949fb3d654a33239 )
+)
+
+game (
+	name "F-19 (1986)(Load 'n' Run)(es)[aka Flak]"
+	description "F-19 (1986)(Load 'n' Run)(es)[aka Flak]"
+	rom ( name "F-19 (1986)(Load 'n' Run)(es)[aka Flak].tap" size 37708 crc fdb280a9 md5 08c40b373eaca35171a19655153700c6 sha1 d1d6100f93e7049fba7f539e999bb342e443d490 )
+)
+
+game (
+	name "Fantomas (1984)(Special Program)(it)[16K][aka Haunted Hedges]"
+	description "Fantomas (1984)(Special Program)(it)[16K][aka Haunted Hedges]"
+	rom ( name "Fantomas (1984)(Special Program)(it)[16K][aka Haunted Hedges].tap" size 16570 crc a77fd958 md5 d641e9c3182cebdba322ae6bca72879b sha1 9a32e985502861d16b2933d2016926f27b406b36 )
+)
+
+game (
+	name "Fig Chess (1985)(16-48 Tape Magazine)"
+	description "Fig Chess (1985)(16-48 Tape Magazine)"
+	rom ( name "Fig Chess (1985)(16-48 Tape Magazine).tap" size 19441 crc 15dd06bc md5 5ae5ab4a0848871c5ecc0511a497f67c sha1 c0b95ab70125b350d3e944dff3574f8548013cdd )
+)
+
+game (
+	name "Fire Trap (1983)(Sinclair User)[16K]"
+	description "Fire Trap (1983)(Sinclair User)[16K]"
+	rom ( name "Fire Trap (1983)(Sinclair User)[16K].tap" size 3506 crc b28a5ed1 md5 bee3c17becc7c6a242eda9d6a49b51dc sha1 23c32e23cbaafe1124eecb15d38ca475caed34f5 )
+)
+
+game (
+	name "Fires (1984)(Sinclair User)[m]"
+	description "Fires (1984)(Sinclair User)[m]"
+	rom ( name "Fires (1984)(Sinclair User)[m].tap" size 9172 crc 786354b8 md5 ce719eb5fb2b06d489b374fb64897b1f sha1 843d0982513361cae327c9341128116a9e8e2cff )
+)
+
+game (
+	name "Fires UDG (1984)(Sinclair User)"
+	description "Fires UDG (1984)(Sinclair User)"
+	rom ( name "Fires UDG (1984)(Sinclair User).tap" size 193 crc b3ec7655 md5 fc1c0f3fb356b6697885c93f6410f4ab sha1 1cc88e0c246c38fa697315368d62b01441a8b467 )
+)
+
+game (
+	name "Flite (1984)(Sinclair Programs)[16K]"
+	description "Flite (1984)(Sinclair Programs)[16K]"
+	rom ( name "Flite (1984)(Sinclair Programs)[16K].tap" size 2343 crc 4d9653d8 md5 57e120f32b1ea432b46c934a71431cdb sha1 60dd1c7bc9def80aaf179e2a7f9f646edefecb04 )
+)
+
+game (
+	name "Flying Formula, The (1986)(ZX Computing)"
+	description "Flying Formula, The (1986)(ZX Computing)"
+	rom ( name "Flying Formula, The (1986)(ZX Computing).tap" size 28346 crc a7420f7a md5 66ef17abbc8f7e8f7fc6cee4a3e7a5d0 sha1 56c3b66c250be1ba99abe79e93fb294d2c40e7a7 )
+)
+
+game (
+	name "Frankie (1988)(MicroHobby)(es)"
+	description "Frankie (1988)(MicroHobby)(es)"
+	rom ( name "Frankie (1988)(MicroHobby)(es).tap" size 29636 crc 035a465a md5 dedd7971c0a18086ee073e5480613f9b sha1 d8e324f770f317731acb3093b23ab4480b8c4562 )
+)
+
+game (
+	name "Free Monty Game (1987)(Gremlin Graphics Software - Your Sinclair)"
+	description "Free Monty Game (1987)(Gremlin Graphics Software - Your Sinclair)"
+	rom ( name "Free Monty Game (1987)(Gremlin Graphics Software - Your Sinclair).tap" size 41361 crc ee9f536d md5 c9456d09021802a7f409de4c96c8ca83 sha1 31b3108ed8557a130931c38c43d3ad831bc17891 )
+)
+
+game (
+	name "Frogger (1983)(Sinclair Programs)"
+	description "Frogger (1983)(Sinclair Programs)"
+	rom ( name "Frogger (1983)(Sinclair Programs).tap" size 8839 crc 75b9f7b3 md5 d5a143dc519275261734eafdee2dcba1 sha1 04a86e35c3ba90b044f3f87f7ba15a02d452f619 )
+)
+
+game (
+	name "Frogger (1985)(MicroHobby)(es)"
+	description "Frogger (1985)(MicroHobby)(es)"
+	rom ( name "Frogger (1985)(MicroHobby)(es).tap" size 13658 crc 4be1f17d md5 804a5408f1b07427a7a3975ba72d63a7 sha1 98dbf319495a2d31aca7312f38aacf9d9c446c34 )
+)
+
+game (
+	name "Galactoids (1984)(ZX Computing)[16K]"
+	description "Galactoids (1984)(ZX Computing)[16K]"
+	rom ( name "Galactoids (1984)(ZX Computing)[16K].tap" size 1597 crc 5840a237 md5 50952186ed78141d1a91131da5450211 sha1 e7b1f7070380a5e95e3b907124db64dbc4fa3b0f )
+)
+
+game (
+	name "Gamma (1985)(Load 'n' Run)(es)[aka Havoc]"
+	description "Gamma (1985)(Load 'n' Run)(es)[aka Havoc]"
+	rom ( name "Gamma (1985)(Load 'n' Run)(es)[aka Havoc].tap" size 50739 crc 3a133371 md5 31a1396eccc0863b74ed5183e53fbe18 sha1 447dd670791046e8f760117142da0ad81ad51fc8 )
+)
+
+game (
+	name "Gato, El (1985)(Load 'n' Run)(es)[aka Catwalk]"
+	description "Gato, El (1985)(Load 'n' Run)(es)[aka Catwalk]"
+	rom ( name "Gato, El (1985)(Load 'n' Run)(es)[aka Catwalk].tap" size 43688 crc 835ec537 md5 e8e32295b8e101e9a0c9da8082aeec51 sha1 2318be733de815ec38407b65362ddc1de5ac3e8e )
+)
+
+game (
+	name "Gazza II (demo) (1990)(Empire Software - Your Sinclair)"
+	description "Gazza II (demo) (1990)(Empire Software - Your Sinclair)"
+	rom ( name "Gazza II (demo) (1990)(Empire Software - Your Sinclair).tap" size 11466 crc ad242896 md5 5e69888b0ff9c4a82c489905838d1c98 sha1 e34b3eaf60f5c15c2c5723f3b209fc2e73077a90 )
+)
+
+game (
+	name "Gazza II (demo) (1990)(Empire Software - Your Sinclair)[a]"
+	description "Gazza II (demo) (1990)(Empire Software - Your Sinclair)[a]"
+	rom ( name "Gazza II (demo) (1990)(Empire Software - Your Sinclair)[a].tap" size 11366 crc 505d8297 md5 817e45ecc6b15d37bec3b20fe84b5e37 sha1 725edbfb09d392e9d0e40c39e4fbcdf21cdfeac2 )
+)
+
+game (
+	name "Gazza's Super Soccer - 2 Players (demo) (1989)(Empire Software - Crash)"
+	description "Gazza's Super Soccer - 2 Players (demo) (1989)(Empire Software - Crash)"
+	rom ( name "Gazza's Super Soccer - 2 Players (demo) (1989)(Empire Software - Crash).tap" size 40120 crc 03dc050e md5 f28dccc2cbbf593e2ade6676d5aaec49 sha1 08fdef5781a910966fa9baca88d8d514020bfba0 )
+)
+
+game (
+	name "Gnoni (1988)(MicroHobby)(es)"
+	description "Gnoni (1988)(MicroHobby)(es)"
+	rom ( name "Gnoni (1988)(MicroHobby)(es).tap" size 17473 crc 14adb16f md5 cef32af1df00495a43a7e736f3ff3685 sha1 759cbd4d193490e16227d52ad3aae71f149e6ff9 )
+)
+
+game (
+	name "Go Bear Go! (1988)(Sinclair User)"
+	description "Go Bear Go! (1988)(Sinclair User)"
+	rom ( name "Go Bear Go! (1988)(Sinclair User).tap" size 25344 crc 8f837685 md5 95438eefbba3250221a64f18270f58f6 sha1 a5a9bc5a30860a0dcbb11e50306c8dd3c6f13eaa )
+)
+
+game (
+	name "Gods (1989)(Your Sinclair)"
+	description "Gods (1989)(Your Sinclair)"
+	rom ( name "Gods (1989)(Your Sinclair).tap" size 44429 crc f4ce699d md5 37b308db9b658775afe40146e6407717 sha1 22669d37029005b4ec1033c257e8aa8f49d112e1 )
+)
+
+game (
+	name "Gold Digger (1983)(Sinclair Programs)[16K]"
+	description "Gold Digger (1983)(Sinclair Programs)[16K]"
+	rom ( name "Gold Digger (1983)(Sinclair Programs)[16K].tap" size 5412 crc 4571fe52 md5 f4ed9b1f86217ccf09e2fa6a8e0ec47d sha1 296f8c81cff3c41c563374034ac320c6799aa350 )
+)
+
+game (
+	name "Golf 80 (1983)(Sinclair Programs)[16K]"
+	description "Golf 80 (1983)(Sinclair Programs)[16K]"
+	rom ( name "Golf 80 (1983)(Sinclair Programs)[16K].tap" size 1269 crc de512eb4 md5 6676a78c579ab3eec9954124e1d0a893 sha1 30b829a642b459fe0cce2d9268814d8c5e2cbb12 )
+)
+
+game (
+	name "Gonuffos (1985)(MicroHobby)(es)"
+	description "Gonuffos (1985)(MicroHobby)(es)"
+	rom ( name "Gonuffos (1985)(MicroHobby)(es).tap" size 6098 crc ebca3782 md5 ece8e4246f89ec224d37b63b6ffa6b04 sha1 5032666815c8d8a998bf268aa2fc2477edf9a587 )
+)
+
+game (
+	name "Gordello Incident, The (1989)(Tartan Software - Your Sinclair)"
+	description "Gordello Incident, The (1989)(Tartan Software - Your Sinclair)"
+	rom ( name "Gordello Incident, The (1989)(Tartan Software - Your Sinclair).tap" size 41460 crc 2ad44a98 md5 946bb869b51ea15a26fb447ac2432bdd sha1 2b731a0a05daca99d24f7fa4c126917d0baafe4d )
+)
+
+game (
+	name "Granja (1985)(MicroHobby)(es)"
+	description "Granja (1985)(MicroHobby)(es)"
+	rom ( name "Granja (1985)(MicroHobby)(es).tap" size 10602 crc c30b70d5 md5 d758e9878bbd78630233a590413ecf6e sha1 d78d71b236029d635b5fc607f99daff12fcaf897 )
+)
+
+game (
+	name "Grumphers (1983)(Sinclair Programs)[16K]"
+	description "Grumphers (1983)(Sinclair Programs)[16K]"
+	rom ( name "Grumphers (1983)(Sinclair Programs)[16K].tap" size 2471 crc cec6d9f3 md5 ad1ed3cc1cfe975d4615c8c0e65de78c sha1 747f66952bbd359d490e4d26d02891e3fb270b15 )
+)
+
+game (
+	name "Gu! (1984)(Hit Parade Spectrum)(it)[aka UGH!]"
+	description "Gu! (1984)(Hit Parade Spectrum)(it)[aka UGH!]"
+	rom ( name "Gu! (1984)(Hit Parade Spectrum)(it)[aka UGH!].tap" size 39364 crc 5aa49085 md5 54eb7047586a5d3c88b9fc2cfb2d076b sha1 33df5abe23bfd1d524301a494dda03812d540b53 )
+)
+
+game (
+	name "Hammerfist (demo) (1990)(Activision - Sinclair User)"
+	description "Hammerfist (demo) (1990)(Activision - Sinclair User)"
+	rom ( name "Hammerfist (demo) (1990)(Activision - Sinclair User).tap" size 43438 crc eabb2ed0 md5 5df07de5284bd785a7df33e549757abe sha1 45ff0f3d9cf8d3ba319d2d577abce72b0a00f57a )
+)
+
+game (
+	name "Haunted House (1984)(Your Sinclair)"
+	description "Haunted House (1984)(Your Sinclair)"
+	rom ( name "Haunted House (1984)(Your Sinclair).tap" size 8162 crc 8150e829 md5 195cdc7012e75c4ac841971724aeddaf sha1 474204d15aa6462a11e9e03cbc385b1418c25fc3 )
+)
+
+game (
+	name "Hero Quest (demo) (1991)(Gremlin Graphics Software - Crash)"
+	description "Hero Quest (demo) (1991)(Gremlin Graphics Software - Crash)"
+	rom ( name "Hero Quest (demo) (1991)(Gremlin Graphics Software - Crash).tap" size 47591 crc bbaf26d0 md5 e51a520041905c11eba36f376e4314dd sha1 9b45a1aa1e64b8a3e93c41101798dfabd6027254 )
+)
+
+game (
+	name "Hobby Suerte - Maquina (1985)(MicroHobby)(es)"
+	description "Hobby Suerte - Maquina (1985)(MicroHobby)(es)"
+	rom ( name "Hobby Suerte - Maquina (1985)(MicroHobby)(es).tap" size 12509 crc 48663739 md5 223628a2c6fb96a29da3aadc72e7fdcd sha1 96054e068a193cda2ae4cf716b98a31878f7a5be )
+)
+
+game (
+	name "Hobby Suerte - Moon Battle (1985)(MicroHobby)(es)"
+	description "Hobby Suerte - Moon Battle (1985)(MicroHobby)(es)"
+	rom ( name "Hobby Suerte - Moon Battle (1985)(MicroHobby)(es).tap" size 21440 crc 59d08fde md5 769f79a1fb48b958bad822fc0b4d03e0 sha1 a5a1a6b27529f235b25827d79fe027056319bad2 )
+)
+
+game (
+	name "Hooper (1989)(MicroHobby)(es)"
+	description "Hooper (1989)(MicroHobby)(es)"
+	rom ( name "Hooper (1989)(MicroHobby)(es).tap" size 41969 crc 4d928110 md5 75bad3cb584ba69574fb776e9378ee09 sha1 340b9d4591a99bb8c4bc0a5aa62db50ff8e3bb2e )
+)
+
+game (
+	name "Hot Rod Cars (1985)(16-48 Tape Magazine)"
+	description "Hot Rod Cars (1985)(16-48 Tape Magazine)"
+	rom ( name "Hot Rod Cars (1985)(16-48 Tape Magazine).tap" size 38933 crc 9205cc82 md5 8e953b00f9d1c54d3acf60356bf6c881 sha1 43d1b21ed2474a246d2b04b0ac9462adef85c260 )
+)
+
+game (
+	name "Hot-Shot (1986)(Your Sinclair)[16K]"
+	description "Hot-Shot (1986)(Your Sinclair)[16K]"
+	rom ( name "Hot-Shot (1986)(Your Sinclair)[16K].tap" size 4647 crc e1ee082f md5 4793b7914697e4476a75e9260a18152e sha1 be806462f0582fc00f95ba17d5c59da02e5a09c9 )
+)
+
+game (
+	name "Hotshot (demo) (1988)(Addictive Games - Sinclair User)[48-128K]"
+	description "Hotshot (demo) (1988)(Addictive Games - Sinclair User)[48-128K]"
+	rom ( name "Hotshot (demo) (1988)(Addictive Games - Sinclair User)[48-128K].tap" size 31749 crc 042f07c8 md5 1e1dfe9098f6ce90767a958c14d149a7 sha1 385a6ba80469fbef9318a4dd644017394afcea11 )
+)
+
+game (
+	name "Houdini (1984)(Sinclair User)[16K]"
+	description "Houdini (1984)(Sinclair User)[16K]"
+	rom ( name "Houdini (1984)(Sinclair User)[16K].tap" size 5311 crc be6a128f md5 6773e32817719b2076312d1af24e916a sha1 c638cd74d6d2dd0e9dde10513d12990bffd794f4 )
+)
+
+game (
+	name "House That Jack Built, The (1984)(Sinclair User)[16K]"
+	description "House That Jack Built, The (1984)(Sinclair User)[16K]"
+	rom ( name "House That Jack Built, The (1984)(Sinclair User)[16K].tap" size 4349 crc 0b44759b md5 8ca69b30ae77e7b2ebed80ee22518390 sha1 53647053894596e9f77742be67dd15cfd37729b5 )
+)
+
+game (
+	name "Hunchy (1983)(Your Computer)"
+	description "Hunchy (1983)(Your Computer)"
+	rom ( name "Hunchy (1983)(Your Computer).tap" size 9489 crc 81da0826 md5 e415decf05088430c961fc1439311dde sha1 dc24b4e6fe790f2ccf7e35563c60a996ede029b1 )
+)
+
+game (
+	name "Hurdler (1984)(Sinclair Programs)[16K]"
+	description "Hurdler (1984)(Sinclair Programs)[16K]"
+	rom ( name "Hurdler (1984)(Sinclair Programs)[16K].tap" size 3260 crc f753da48 md5 e7b31e2616da805d40d9e631491797f4 sha1 554c287a6a65689cd6939076e59540522eea8705 )
+)
+
+game (
+	name "Hyper Active (1988)(Sinclair User)"
+	description "Hyper Active (1988)(Sinclair User)"
+	rom ( name "Hyper Active (1988)(Sinclair User).tap" size 25305 crc b7aa30e8 md5 3ae881b29c733a204855577c23e944bd sha1 d820f657c69cdcdabc68f8aa2a895521b18e6cf5 )
+)
+
+game (
+	name "Hyper Active (1988)(Sinclair User)[a]"
+	description "Hyper Active (1988)(Sinclair User)[a]"
+	rom ( name "Hyper Active (1988)(Sinclair User)[a].tap" size 30780 crc aa7eeb5c md5 681bccf7c3561e9dc33c9b8eba9a5558 sha1 dc13238f34314d1a97dcf27d436f408dd20a6fe1 )
+)
+
+game (
+	name "Hyperlane (1989)(Crash)"
+	description "Hyperlane (1989)(Crash)"
+	rom ( name "Hyperlane (1989)(Crash).tap" size 26253 crc 4c9c1b37 md5 b41d84ea11c7c1e0e5fa962ae9bdb557 sha1 d944f1fe4ace8cf2a923f14ca97acf3a61de6584 )
+)
+
+game (
+	name "Hyperlane+ (1991)(Sinclair User)"
+	description "Hyperlane+ (1991)(Sinclair User)"
+	rom ( name "Hyperlane+ (1991)(Sinclair User).tap" size 29227 crc aa672035 md5 d9e36c631f9343cf702f99fc076495e0 sha1 caa54aae10fefb6af4ab92a4173aa2b83c75927e )
+)
+
+game (
+	name "Hyperlane+ (1991)(Sinclair User)[a]"
+	description "Hyperlane+ (1991)(Sinclair User)[a]"
+	rom ( name "Hyperlane+ (1991)(Sinclair User)[a].tap" size 28376 crc 39bba5da md5 91e110ed4251e5a849cefac7c1dbab3a sha1 7097e3894d4de6350784376d3be82e6b0938fa73 )
+)
+
+game (
+	name "International Cricket (1988)(Grandslam Entertainments - Your Sinclair)"
+	description "International Cricket (1988)(Grandslam Entertainments - Your Sinclair)"
+	rom ( name "International Cricket (1988)(Grandslam Entertainments - Your Sinclair).tap" size 44917 crc b11da1d7 md5 f2e2a581cd271cb6416d17731311a14a sha1 9920047539ad1c8bdc9acfd6379b3031f70dd4b9 )
+)
+
+game (
+	name "Invaders (1993)(Design Design Software - Your Sinclair)"
+	description "Invaders (1993)(Design Design Software - Your Sinclair)"
+	rom ( name "Invaders (1993)(Design Design Software - Your Sinclair).tap" size 5834 crc dce24736 md5 73b9f5318f16136dbcfcaf95a4e981ac sha1 09c178275ea36feaec6cad6853dd446cceaa26bb )
+)
+
+game (
+	name "Ivan 'Ironman' Stewart's Super Off Road Racer (demo) (1990)(Virgin Games - Your Sinclair)"
+	description "Ivan 'Ironman' Stewart's Super Off Road Racer (demo) (1990)(Virgin Games - Your Sinclair)"
+	rom ( name "Ivan 'Ironman' Stewart's Super Off Road Racer (demo) (1990)(Virgin Games - Your Sinclair).tap" size 37215 crc b6fc08f8 md5 64872c7e20efa94a6d5e68835b1afad8 sha1 63338271d99cd5a23e82dae89a2c180a099825a2 )
+)
+
+game (
+	name "Jam Sandwich (1984)(Sinclair Programs)[16K]"
+	description "Jam Sandwich (1984)(Sinclair Programs)[16K]"
+	rom ( name "Jam Sandwich (1984)(Sinclair Programs)[16K].tap" size 4165 crc 368c7441 md5 a17de314a2f8df0b4e14e518fe3f60e8 sha1 de8475f4651de3590371ef4ae4093c7af08660ac )
+)
+
+game (
+	name "Jaws (1984)(Sinclair User)[16K]"
+	description "Jaws (1984)(Sinclair User)[16K]"
+	rom ( name "Jaws (1984)(Sinclair User)[16K].tap" size 12780 crc 76375870 md5 3a7c93cdd7ba85da411164481768f29a sha1 60e92dd5042f72b2e142d8b3911ce4c0e495f0db )
+)
+
+game (
+	name "Jellyman (1983)(Sinclair Programs)[16K]"
+	description "Jellyman (1983)(Sinclair Programs)[16K]"
+	rom ( name "Jellyman (1983)(Sinclair Programs)[16K].tap" size 4824 crc b2d30bf3 md5 1260142a8d586a2efec917a02ce88d2c sha1 94f5822b58f6cc1e61980eb62b9518279833dfb9 )
+)
+
+game (
+	name "Jennifer's Dolly (1985)(Sinclair User)"
+	description "Jennifer's Dolly (1985)(Sinclair User)"
+	rom ( name "Jennifer's Dolly (1985)(Sinclair User).tap" size 13390 crc 0f884e1c md5 cb52781d7008c1d92f06047ad4841d76 sha1 67f9286ecca39251ebdc4d32ff86b63f6acd3ee2 )
+)
+
+game (
+	name "Jet Set Gertie (1985)(Spectrum Computing)"
+	description "Jet Set Gertie (1985)(Spectrum Computing)"
+	rom ( name "Jet Set Gertie (1985)(Spectrum Computing).tap" size 23828 crc d109d61c md5 85151d48d49f22bf8a0b66b105d52c93 sha1 a6fc86459ab38e7d45f8b083d4b8fec5517b87eb )
+)
+
+game (
+	name "Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing)"
+	description "Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing)"
+	rom ( name "Jet Set Willy - Spectrum Computing (1984)(Spectrum Computing).tap" size 33205 crc cd7741d3 md5 c946f5075d36d332914eb482d2c6773e sha1 eca520b1302efe76ef14d50ad62360111ad5fd93 )
+)
+
+game (
+	name "Jet Set Willy Editor (1985)(Spectrum Computing)"
+	description "Jet Set Willy Editor (1985)(Spectrum Computing)"
+	rom ( name "Jet Set Willy Editor (1985)(Spectrum Computing).tap" size 39776 crc 72a8352d md5 fc8833b5a0da4ca7e0c7ce52e2950c14 sha1 13629e5012b8708acb8b05692f39c1c84363ccbe )
+)
+
+game (
+	name "Joe Blade II (demo) (1988)(Players Software - Sinclair User)"
+	description "Joe Blade II (demo) (1988)(Players Software - Sinclair User)"
+	rom ( name "Joe Blade II (demo) (1988)(Players Software - Sinclair User).tap" size 35038 crc cfd366d4 md5 6504a890bed952bc6dd30b375951214b sha1 69f3ab9a9020869f96b72b7bc3f750d0ffa8fb7f )
+)
+
+game (
+	name "Jon the Jani (1985)(Your Computer)"
+	description "Jon the Jani (1985)(Your Computer)"
+	rom ( name "Jon the Jani (1985)(Your Computer).tap" size 9005 crc 132946c6 md5 1930f7ce8efa39a34d30f020e48f4f79 sha1 62059b2123685da18e2e0cff836b998ab764628b )
+)
+
+game (
+	name "Joya Misteriosa, La (1986)(Input Sinclair)(es)"
+	description "Joya Misteriosa, La (1986)(Input Sinclair)(es)"
+	rom ( name "Joya Misteriosa, La (1986)(Input Sinclair)(es).tap" size 16531 crc 00535a04 md5 51c81827e2ffca5c2e7900bdd8d515a4 sha1 b3f954074ce832fcffc8bda825021d616c7fd76d )
+)
+
+game (
+	name "Klimax (1991)(Rack-It - Your Sinclair)"
+	description "Klimax (1991)(Rack-It - Your Sinclair)"
+	rom ( name "Klimax (1991)(Rack-It - Your Sinclair).tap" size 49290 crc 5531ce0d md5 323162a73a676c9aede122e553796d90 sha1 51033780fa914c16bc7013cc8ae62092e6bdeacc )
+)
+
+game (
+	name "Klimax (1991)(Rack-It - Your Sinclair)[a]"
+	description "Klimax (1991)(Rack-It - Your Sinclair)[a]"
+	rom ( name "Klimax (1991)(Rack-It - Your Sinclair)[a].tap" size 49487 crc 5ac1822e md5 86f793b24ac263adaf7ff9307b1cd75e sha1 81cef35efe042699c44159aae7abb6c59dac671c )
+)
+
+game (
+	name "Klimax (1991)(Rack-It - Your Sinclair)[t]"
+	description "Klimax (1991)(Rack-It - Your Sinclair)[t]"
+	rom ( name "Klimax (1991)(Rack-It - Your Sinclair)[t].tap" size 35392 crc 9973e439 md5 c6d5050b1765cf93b514dff208aacb19 sha1 cc10ded8a491c05f6626f9fa44a0dcba59bd4955 )
+)
+
+game (
+	name "Krakatoa 2012 (1986)(Sinclair User)"
+	description "Krakatoa 2012 (1986)(Sinclair User)"
+	rom ( name "Krakatoa 2012 (1986)(Sinclair User).tap" size 14567 crc 7b65a71d md5 06910496e782131b186cd7fbd9985aad sha1 07deec6b09251611d3d16afb1209cdb467d5eaa4 )
+)
+
+game (
+	name "Krion (1986)(Special Program)(it)[a][aka Terra Cognita]"
+	description "Krion (1986)(Special Program)(it)[a][aka Terra Cognita]"
+	rom ( name "Krion (1986)(Special Program)(it)[a][aka Terra Cognita].tap" size 39424 crc cb1d3a87 md5 2a12142d3f3528ebd42224c890cf0163 sha1 040b4fdbe5ab7238ddbe4abaf143ac616c5b232a )
+)
+
+game (
+	name "Krion (1986)(Special Program)(it)[aka Terra Cognita]"
+	description "Krion (1986)(Special Program)(it)[aka Terra Cognita]"
+	rom ( name "Krion (1986)(Special Program)(it)[aka Terra Cognita].tap" size 39224 crc 42a59cab md5 1251b4858396c0ed31cd0a1fc8c3880c sha1 011beb19292c8cbc631edb536b88c62199a847af )
+)
+
+game (
+	name "Labyrinth (1984)(Sinclair Programs)"
+	description "Labyrinth (1984)(Sinclair Programs)"
+	rom ( name "Labyrinth (1984)(Sinclair Programs).tap" size 10098 crc be98f82d md5 4684588d24d7fe1ffe7984acfc3c736f sha1 2fe94a20ffae97a30f887a8a66d139020fe66510 )
+)
+
+game (
+	name "Laser Tower (1984)(Sinclair User)[16K]"
+	description "Laser Tower (1984)(Sinclair User)[16K]"
+	rom ( name "Laser Tower (1984)(Sinclair User)[16K].tap" size 4233 crc 832f4f3c md5 d08427fd5551c828b49d1f22ce48a5fa sha1 718b1531931b68ad51c94a4e83a8ac224f8feb71 )
+)
+
+game (
+	name "Laser Turret (1984)(Sinclair Programs)[16K]"
+	description "Laser Turret (1984)(Sinclair Programs)[16K]"
+	rom ( name "Laser Turret (1984)(Sinclair Programs)[16K].tap" size 4926 crc a49e9f36 md5 dc706b6f0a5406cc325b1660415832af sha1 cc3927230c7bfb29996a06a981736f75e7608150 )
+)
+
+game (
+	name "Laserkanon (1984)(Sinclair Programs)(nl)[16K][aka Laser Turret]"
+	description "Laserkanon (1984)(Sinclair Programs)(nl)[16K][aka Laser Turret]"
+	rom ( name "Laserkanon (1984)(Sinclair Programs)(nl)[16K][aka Laser Turret].tap" size 5763 crc 3d12a428 md5 51effadc01d7b21dd7b41633e92b8e18 sha1 270c4f8975b08269ce427f4fcc6969a947e3a482 )
+)
+
+game (
+	name "Lawn Mower (1983)(Sinclair Programs)[16K]"
+	description "Lawn Mower (1983)(Sinclair Programs)[16K]"
+	rom ( name "Lawn Mower (1983)(Sinclair Programs)[16K].tap" size 4992 crc 90bb8027 md5 5647d5cedc9cbcf06aea4a7699125ab3 sha1 603c7b0f6989e53c73634362f72e3d26304a8324 )
+)
+
+game (
+	name "Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[48-128K]"
+	description "Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[48-128K]"
+	rom ( name "Lemmings (demo) (1991)(Psygnosis - Your Sinclair)[48-128K].tap" size 73672 crc d85f8d46 md5 1eb8b9e2a066e29d81a0f5f4d5cbf475 sha1 f0aef38cbd8c75c8f0a9a712f03e4305a86ed5d0 )
+)
+
+game (
+	name "Light Bulbs (1984)(Sinclair User)[16K]"
+	description "Light Bulbs (1984)(Sinclair User)[16K]"
+	rom ( name "Light Bulbs (1984)(Sinclair User)[16K].tap" size 4578 crc ad3a9f4d md5 d6ef73fdb8c6b49ecce6a17badd6d8cc sha1 991895abc90cd7ff857276a94c9e2f41f86615d5 )
+)
+
+game (
+	name "Lone Attacker (1984)(Sinclair Programs)[16K]"
+	description "Lone Attacker (1984)(Sinclair Programs)[16K]"
+	rom ( name "Lone Attacker (1984)(Sinclair Programs)[16K].tap" size 2659 crc 38671ca2 md5 940c81b1b533f6a3ff5175d51e98c8b1 sha1 cd871801c0be8827d5c6b8dcf042cf87448d1653 )
+)
+
+game (
+	name "Long Way Home Volume 1 (1983)(16-48 Tape Magazine)"
+	description "Long Way Home Volume 1 (1983)(16-48 Tape Magazine)"
+	rom ( name "Long Way Home Volume 1 (1983)(16-48 Tape Magazine).tap" size 38611 crc 78a4d57c md5 de65f79cd6d61c3d745a1feb7fadadf4 sha1 e3349fe832160d00b394920326af3c02b88eacb8 )
+)
+
+game (
+	name "Long Way Home Volume 1 (1983)(16-48 Tape Magazine)[a]"
+	description "Long Way Home Volume 1 (1983)(16-48 Tape Magazine)[a]"
+	rom ( name "Long Way Home Volume 1 (1983)(16-48 Tape Magazine)[a].tap" size 128486 crc 86ef1215 md5 083356175c41c75517b660a3ef4ca473 sha1 66234d7d6de8280310a273135400df000483eb83 )
+)
+
+game (
+	name "Long Way Home Volume 2 - The Ludoids (1985)(16-48 Tape Magazine)"
+	description "Long Way Home Volume 2 - The Ludoids (1985)(16-48 Tape Magazine)"
+	rom ( name "Long Way Home Volume 2 - The Ludoids (1985)(16-48 Tape Magazine).tap" size 295968 crc 759899a3 md5 54e77b988a0204b9ae692caff038e16a sha1 5196aabe9395a613a03f1421ad1801700896ed44 )
+)
+
+game (
+	name "Lost City, The (1989)(Sinclair User)"
+	description "Lost City, The (1989)(Sinclair User)"
+	rom ( name "Lost City, The (1989)(Sinclair User).tap" size 36904 crc 5b92935c md5 f3f8766203be8d204b10e5504e877e08 sha1 40276eef5a6193c2957c72086373be732a7039d6 )
+)
+
+game (
+	name "Ludo (1985)(16-48 Tape Magazine)"
+	description "Ludo (1985)(16-48 Tape Magazine)"
+	rom ( name "Ludo (1985)(16-48 Tape Magazine).tap" size 17431 crc acfb5646 md5 4d6491eb105b0628dfdb88e475cf5bb7 sha1 5a73c18ecf2a2e66e86e6788a0cd667a350a1302 )
+)
+
+game (
+	name "Lure (1983)(Sinclair Programs)[16K]"
+	description "Lure (1983)(Sinclair Programs)[16K]"
+	rom ( name "Lure (1983)(Sinclair Programs)[16K].tap" size 4051 crc 5c598808 md5 901d240a50b75715a0d2d4cb7b004a48 sha1 d5177512681a7e83226a871d5179aa7f3bd21ca9 )
+)
+
+game (
+	name "Mac Man (1985)(Your Spectrum)"
+	description "Mac Man (1985)(Your Spectrum)"
+	rom ( name "Mac Man (1985)(Your Spectrum).tap" size 4945 crc 77baf05e md5 22e32ebe5f2428101de4a21ff8a03c8e sha1 a0bc8d1cdcc8b0a18b7e01a26a368a51ac2e0f5c )
+)
+
+game (
+	name "Mad Jumper (1984)(Sinclair Programs)[16K]"
+	description "Mad Jumper (1984)(Sinclair Programs)[16K]"
+	rom ( name "Mad Jumper (1984)(Sinclair Programs)[16K].tap" size 10725 crc 0cc1adc6 md5 1844ce54fb385d90137e922970ef8282 sha1 c8c70cfd81f96db565ceaf1e237133a476b729f4 )
+)
+
+game (
+	name "Magicland (1986)(Special Program)(it)[a][aka Pentagram]"
+	description "Magicland (1986)(Special Program)(it)[a][aka Pentagram]"
+	rom ( name "Magicland (1986)(Special Program)(it)[a][aka Pentagram].tap" size 31559 crc 63ede530 md5 8014649daf81d157c5496300e8213d10 sha1 6efc226ef915ad2a9e523ec839417c15150f4d46 )
+)
+
+game (
+	name "Magicland (1986)(Special Program)(it)[aka Pentagram]"
+	description "Magicland (1986)(Special Program)(it)[aka Pentagram]"
+	rom ( name "Magicland (1986)(Special Program)(it)[aka Pentagram].tap" size 31744 crc 3e71a72f md5 693fe2e2e2a539a8547d4a9ec79407da sha1 2bb1de1db5727407be82b5816f6da5d2733fb6df )
+)
+
+game (
+	name "Magma Man - The Vanishing Prof. (1987)(Spectraxx Tape Magazine)"
+	description "Magma Man - The Vanishing Prof. (1987)(Spectraxx Tape Magazine)"
+	rom ( name "Magma Man - The Vanishing Prof. (1987)(Spectraxx Tape Magazine).tap" size 47667 crc 32f8f389 md5 764d098454e2987ee1b2a6c83f529665 sha1 1b31baf6b2cd95e01d89f28565596e1cd2ca2039 )
+)
+
+game (
+	name "Mago, Il (1988)(Load 'n' Run)(it)[a][aka Merlin]"
+	description "Mago, Il (1988)(Load 'n' Run)(it)[a][aka Merlin]"
+	rom ( name "Mago, Il (1988)(Load 'n' Run)(it)[a][aka Merlin].tap" size 38935 crc 402f520d md5 e2714c771d657b47b188ecf70b23f939 sha1 01a311eed60fb83f6249c708cc9d0f76f36fa06e )
+)
+
+game (
+	name "Mago, Il (1988)(Load 'n' Run)(it)[aka Merlin]"
+	description "Mago, Il (1988)(Load 'n' Run)(it)[aka Merlin]"
+	rom ( name "Mago, Il (1988)(Load 'n' Run)(it)[aka Merlin].tap" size 39424 crc 8a8e7bd7 md5 5e5b064cc9f19bb0d6189afd8b363d84 sha1 3b338c645eef5f46cee57a07732d2ceea1a8e427 )
+)
+
+game (
+	name "Mango Jones (1990)(Psychaedelic Hedgehog Software - Crash)"
+	description "Mango Jones (1990)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Mango Jones (1990)(Psychaedelic Hedgehog Software - Crash).tap" size 53161 crc 3e199a7a md5 8db894d14806ff95f3fccec4ed44abbe sha1 3d39d24a2b761fcf2f6e55f662758506b4d6d6ec )
+)
+
+game (
+	name "Mango Jones II - Liberator (1990)(Remsoft Arcade Designs - Crash)"
+	description "Mango Jones II - Liberator (1990)(Remsoft Arcade Designs - Crash)"
+	rom ( name "Mango Jones II - Liberator (1990)(Remsoft Arcade Designs - Crash).tap" size 47044 crc 7f9e8bf8 md5 22080c25cb49bff35f636e99f1129cda sha1 0acf259af8c23055d731eac9420eca555f911428 )
+)
+
+game (
+	name "Maniac Square (1990)(MicroHobby)(es)"
+	description "Maniac Square (1990)(MicroHobby)(es)"
+	rom ( name "Maniac Square (1990)(MicroHobby)(es).tap" size 25675 crc 04875e70 md5 845750f35203b3e17b963ecde85c117d sha1 baebfbaf4cd26f25a546b32bfc68ee6911a30284 )
+)
+
+game (
+	name "Manic Mower (1992)(Sinclair User)"
+	description "Manic Mower (1992)(Sinclair User)"
+	rom ( name "Manic Mower (1992)(Sinclair User).tap" size 25914 crc 11d2e428 md5 8a17cda252e5650dc0704dc72c7298d7 sha1 9f6891e7c47bd23d7c32599dce5d51607434bd5e )
+)
+
+game (
+	name "Master Blaster (1990)(Crash)"
+	description "Master Blaster (1990)(Crash)"
+	rom ( name "Master Blaster (1990)(Crash).tap" size 47739 crc eeb2375c md5 5864f2bc3d03c498d91f0355e0b30bf4 sha1 936ff108529b7bcb1016286114707610486f08a8 )
+)
+
+game (
+	name "Master Blaster (1990)(Crash)[a]"
+	description "Master Blaster (1990)(Crash)[a]"
+	rom ( name "Master Blaster (1990)(Crash)[a].tap" size 49304 crc 83f104ce md5 b633328bc100a80de2c928f289db5fc7 sha1 7d0664405f6fe0cbe8ed03e7128af9f40c6e609e )
+)
+
+game (
+	name "Master Brain (1991)(Crash)"
+	description "Master Brain (1991)(Crash)"
+	rom ( name "Master Brain (1991)(Crash).tap" size 21436 crc 36427255 md5 ecb98d4083c7e3e3044072e238001171 sha1 17fa283fb736f3cf1ad992744e96bf404c88ec9e )
+)
+
+game (
+	name "Master Brain (1991)(Crash)[a]"
+	description "Master Brain (1991)(Crash)[a]"
+	rom ( name "Master Brain (1991)(Crash)[a].tap" size 21798 crc 3be04794 md5 0e59e98b58f538dbf22897d15208e305 sha1 4b49b33673b4d19ac3307436d8dae8c3b5ba510f )
+)
+
+game (
+	name "Maze Chase - Ghosts (1984)(Sinclair User)[16K]"
+	description "Maze Chase - Ghosts (1984)(Sinclair User)[16K]"
+	rom ( name "Maze Chase - Ghosts (1984)(Sinclair User)[16K].tap" size 4373 crc a925b601 md5 d26a884e3459f249051c0c3950d72548 sha1 03c060290ea23bcc4ca8c95c14fe7586542eb947 )
+)
+
+game (
+	name "Maze Mania (demo) (1989)(Hewson Consultants - Crash)"
+	description "Maze Mania (demo) (1989)(Hewson Consultants - Crash)"
+	rom ( name "Maze Mania (demo) (1989)(Hewson Consultants - Crash).tap" size 41215 crc d82f4877 md5 81616c902a8e101aa7dcc55c60916d99 sha1 8901e3fbeb92ebd583b91b805192c94b1e5f2c3b )
+)
+
+game (
+	name "Maze-Man (1982)(ZX Computing)[16K]"
+	description "Maze-Man (1982)(ZX Computing)[16K]"
+	rom ( name "Maze-Man (1982)(ZX Computing)[16K].tap" size 8035 crc e253f0b2 md5 b91ab38566b77c877c51a8bec735b325 sha1 87acd253825e3d1ef80b95f162fda53a2e4cbebb )
+)
+
+game (
+	name "Mazeman (1984)(Sinclair Programs)[16K]"
+	description "Mazeman (1984)(Sinclair Programs)[16K]"
+	rom ( name "Mazeman (1984)(Sinclair Programs)[16K].tap" size 2535 crc cc88adee md5 a45b65a9f8662af8a26bea1d049e3bce sha1 bb435e4427a4f9b9702519dcf9854b1141862eb7 )
+)
+
+game (
+	name "Meccanico, Il (1984)(Load 'n' Run)(it)[aka Automania]"
+	description "Meccanico, Il (1984)(Load 'n' Run)(it)[aka Automania]"
+	rom ( name "Meccanico, Il (1984)(Load 'n' Run)(it)[aka Automania].tap" size 39548 crc 7ed53690 md5 38293ff2a823b547031c4e11e16d9e25 sha1 921593461efc24ea8e357e0d7d18eac56e8a4047 )
+)
+
+game (
+	name "Megablast! (1990)(Your Sinclair)[48-128K]"
+	description "Megablast! (1990)(Your Sinclair)[48-128K]"
+	rom ( name "Megablast! (1990)(Your Sinclair)[48-128K].tap" size 15381 crc d7ac70ba md5 28e4a6a5723d863737c3c685225aa0f7 sha1 010f590ebfc60db69112a02d97e01908c9955eff )
+)
+
+game (
+	name "Merlin (1988)(MicroHobby)(es)"
+	description "Merlin (1988)(MicroHobby)(es)"
+	rom ( name "Merlin (1988)(MicroHobby)(es).tap" size 12656 crc db2eebed md5 c52b4dc4981b87482fcd40d1ed184d95 sha1 16224d872a72b36bb01dd0664048d14731785521 )
+)
+
+game (
+	name "Midnight Resistance (demo) (1990)(Ocean - Sinclair User)"
+	description "Midnight Resistance (demo) (1990)(Ocean - Sinclair User)"
+	rom ( name "Midnight Resistance (demo) (1990)(Ocean - Sinclair User).tap" size 43919 crc 508833cb md5 0f7f622ecedb2903b661ae284c5b5003 sha1 59f2c72f097ae506e2899582d49df5594b9891f3 )
+)
+
+game (
+	name "Mini Bank Raid (1983)(Sinclair Programs)[16K]"
+	description "Mini Bank Raid (1983)(Sinclair Programs)[16K]"
+	rom ( name "Mini Bank Raid (1983)(Sinclair Programs)[16K].tap" size 2750 crc a302bf1d md5 b339993cf3f32766dd7cc48fbea015b7 sha1 08c96dca559a8fa2400c44354673a239082f908d )
+)
+
+game (
+	name "Miniera, La (1984)(Special Program)(it)[a][aka Raider of the Cursed Mine]"
+	description "Miniera, La (1984)(Special Program)(it)[a][aka Raider of the Cursed Mine]"
+	rom ( name "Miniera, La (1984)(Special Program)(it)[a][aka Raider of the Cursed Mine].tap" size 25088 crc 5c5b4cac md5 0a9020ea1b67ddd186226a3077a1c335 sha1 5afa6bf1933ad20b40a217bda4ac9b3d6c18a577 )
+)
+
+game (
+	name "Miniera, La (1984)(Special Program)(it)[aka Raider of the Cursed Mine]"
+	description "Miniera, La (1984)(Special Program)(it)[aka Raider of the Cursed Mine]"
+	rom ( name "Miniera, La (1984)(Special Program)(it)[aka Raider of the Cursed Mine].tap" size 24799 crc 4845265b md5 c4a5743c1584fc1687bfc36efc7d40c9 sha1 084c06b8314bc8fc52443e9ac612d1c59d0495c7 )
+)
+
+game (
+	name "Missile (1982)(Sinclair User)[16K]"
+	description "Missile (1982)(Sinclair User)[16K]"
+	rom ( name "Missile (1982)(Sinclair User)[16K].tap" size 1734 crc dfb13be1 md5 69275d2001112bf58403f9f01993f92f sha1 d97c5b13f299b4ca73faf0f20779632494b02a7b )
+)
+
+game (
+	name "Missile (1984)(Sinclair Programs)[16K]"
+	description "Missile (1984)(Sinclair Programs)[16K]"
+	rom ( name "Missile (1984)(Sinclair Programs)[16K].tap" size 1410 crc be94ab10 md5 8da1c8153eca4fd0649e7bcaef0cd176 sha1 36f9e4c84b02bed4c64bebe35788e218a0062c71 )
+)
+
+game (
+	name "Missili (1985)(Load 'n' Run)(it)[aka Repulsar]"
+	description "Missili (1985)(Load 'n' Run)(it)[aka Repulsar]"
+	rom ( name "Missili (1985)(Load 'n' Run)(it)[aka Repulsar].tap" size 15649 crc c9030c23 md5 c385f77cbc3b1237b87c12762e1aa1a3 sha1 d8fec635c6b98f838e0adc45cc975e2b5724f43e )
+)
+
+game (
+	name "Mission 12 (1986)(Sinclair User)[16K]"
+	description "Mission 12 (1986)(Sinclair User)[16K]"
+	rom ( name "Mission 12 (1986)(Sinclair User)[16K].tap" size 4651 crc 83e0dbf3 md5 d03a1981089aeebbc73a430e14f7e20a sha1 bf13182b231fa5ef614e6b7c4e434eb9ebbcc7cb )
+)
+
+game (
+	name "Mission Fallout (1990)(Crash)"
+	description "Mission Fallout (1990)(Crash)"
+	rom ( name "Mission Fallout (1990)(Crash).tap" size 47514 crc e952fe3e md5 bc62e5d0bc7f8271ab7521bd6ba09a1b sha1 3b56f7591a5ad199dfb70a746843a987c3030700 )
+)
+
+game (
+	name "Mivisis (1989)(Special Program)(it)[aka Dominator]"
+	description "Mivisis (1989)(Special Program)(it)[aka Dominator]"
+	rom ( name "Mivisis (1989)(Special Program)(it)[aka Dominator].tap" size 28217 crc cf6e0320 md5 80e75c1a395045c60ce99c29c20525d0 sha1 f57dbdae2adfa4cef2ab2ae2f77ec88dc13d30ae )
+)
+
+game (
+	name "Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair)"
+	description "Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair)"
+	rom ( name "Moley Christmas (1987)(Gremlin Graphics Software - Your Sinclair).tap" size 41135 crc f8ba748b md5 d1c6e69426d9f8516b03a77dcdba2f49 sha1 87d2b75cf5bcabc11a838dc13256b363f17a088b )
+)
+
+game (
+	name "Money Bags (1984)(Sinclair Programs)[16K]"
+	description "Money Bags (1984)(Sinclair Programs)[16K]"
+	rom ( name "Money Bags (1984)(Sinclair Programs)[16K].tap" size 2457 crc 55c432db md5 9048ee31492e6ef2267b031dc56f79e4 sha1 495447df466a163436adacd262cc58bdc17b7dab )
+)
+
+game (
+	name "Monster Munch (1990)(Psychaedelic Hedgehog Software - Crash)"
+	description "Monster Munch (1990)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Monster Munch (1990)(Psychaedelic Hedgehog Software - Crash).tap" size 48158 crc 8a8363fe md5 3377a9b3bc6bde3664381d4b7848d01d sha1 5da51f3a73acb5ef6bb6d53bdacc6ac05473a612 )
+)
+
+game (
+	name "Moon Iron (1986)(Your Sinclair)"
+	description "Moon Iron (1986)(Your Sinclair)"
+	rom ( name "Moon Iron (1986)(Your Sinclair).tap" size 28397 crc a866fc4c md5 0692c88aef4bfcf6e583ea8c89dbcbe5 sha1 b86ee70e758f6156c42a12f2eceb14175ce6681f )
+)
+
+game (
+	name "Moon Magic (1991)(Psychaedelic Hedgehog Software - Crash)"
+	description "Moon Magic (1991)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Moon Magic (1991)(Psychaedelic Hedgehog Software - Crash).tap" size 35876 crc 7f81ef6c md5 02946dabe84f37b0a2f0da81fe8646fa sha1 a040f516f4002fac3f0df2452e29282646c858ba )
+)
+
+game (
+	name "Moon Magic II - Sponge (1991)(Psychaedelic Hedgehog Software - Crash)"
+	description "Moon Magic II - Sponge (1991)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Moon Magic II - Sponge (1991)(Psychaedelic Hedgehog Software - Crash).tap" size 36898 crc 8e39eba9 md5 356c8ae513a5deb0332bee55dc1a151f sha1 dababc3ee9544a04eedcb53949bb2416506a497e )
+)
+
+game (
+	name "Move It! (1983)(Sinclair Programs)[16K]"
+	description "Move It! (1983)(Sinclair Programs)[16K]"
+	rom ( name "Move It! (1983)(Sinclair Programs)[16K].tap" size 3178 crc 2b98c517 md5 099fa73d1cd208b2d0dbb0a05e381efd sha1 683079005ba18a958591477dc9b3e5d6b5bd0019 )
+)
+
+game (
+	name "Mow the Lawn (1984)(Sinclair Programs)[16K]"
+	description "Mow the Lawn (1984)(Sinclair Programs)[16K]"
+	rom ( name "Mow the Lawn (1984)(Sinclair Programs)[16K].tap" size 7576 crc aff09815 md5 4cd71243b0564760359a718097f375b1 sha1 738fdf477db049111066cb070a5874096d654575 )
+)
+
+game (
+	name "Mr. Dracula (1984)(Special Program)(it)[aka Frank N Stein]"
+	description "Mr. Dracula (1984)(Special Program)(it)[aka Frank N Stein]"
+	rom ( name "Mr. Dracula (1984)(Special Program)(it)[aka Frank N Stein].tap" size 41095 crc 3f5777d8 md5 17b1176360cf584f5c8ed78e466a9e07 sha1 9868a8ae3e054eecfd949e4e5a8fdf3b3d488985 )
+)
+
+game (
+	name "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User)"
+	description "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User)"
+	rom ( name "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User).tap" size 20288 crc 7fb2da3f md5 f770afa7985cbbbca6561d46c8f4e6ca sha1 2179808ee91defe22ccc5ac52ed95762ac061dff )
+)
+
+game (
+	name "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User)[a]"
+	description "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User)[a]"
+	rom ( name "Muncher Compo, The (1988)(Gremlin Graphics Software - Sinclair User)[a].tap" size 20283 crc 9de84c86 md5 c3d6d2f9f1e77dc2f3d743a6a0c47d31 sha1 d16c93b00660687d8c0a095804fe42eb55579c5f )
+)
+
+game (
+	name "Mutant Arachnid (1984)(Sinclair Programs)[16K]"
+	description "Mutant Arachnid (1984)(Sinclair Programs)[16K]"
+	rom ( name "Mutant Arachnid (1984)(Sinclair Programs)[16K].tap" size 4732 crc 6ab378fe md5 6eaec51ad3a7cebd6b44970e8b765562 sha1 aa8ce485462cc7cca66e5b8d50f5a2f389939a4f )
+)
+
+game (
+	name "Mutua - Ussl (1984)(Super Spectrum)(it)[a][aka Fantastic Voyage]"
+	description "Mutua - Ussl (1984)(Super Spectrum)(it)[a][aka Fantastic Voyage]"
+	rom ( name "Mutua - Ussl (1984)(Super Spectrum)(it)[a][aka Fantastic Voyage].tap" size 34909 crc dba09c04 md5 0ebb57f01863490d5dd52f3ca2688e0d sha1 e084eefdf5819959db0cbe624520edf3862684a0 )
+)
+
+game (
+	name "Mutua - Ussl (1984)(Super Spectrum)(it)[aka Fantastic Voyage]"
+	description "Mutua - Ussl (1984)(Super Spectrum)(it)[aka Fantastic Voyage]"
+	rom ( name "Mutua - Ussl (1984)(Super Spectrum)(it)[aka Fantastic Voyage].tap" size 35328 crc 8b422dd6 md5 8302051e31cdd5edc21f3ee2cc7d75c6 sha1 609983f42230ebaf057b144a5f1bedfea4ab36e7 )
+)
+
+game (
+	name "Mystical (demo) (1991)(Infogrames - Your Sinclair)"
+	description "Mystical (demo) (1991)(Infogrames - Your Sinclair)"
+	rom ( name "Mystical (demo) (1991)(Infogrames - Your Sinclair).tap" size 48830 crc 9912b254 md5 bf5104f806a8adc73bab0ecc80fd091f sha1 ef9601675fe32c62123f47381f0d3290120ad973 )
+)
+
+game (
+	name "Ned's Garden (1985)(16-48 Tape Magazine)"
+	description "Ned's Garden (1985)(16-48 Tape Magazine)"
+	rom ( name "Ned's Garden (1985)(16-48 Tape Magazine).tap" size 15241 crc c83de39f md5 7fac20a3fd258430980bbfef5600f778 sha1 a35e9a73b65463696e4c802e1acb96faee4a3f34 )
+)
+
+game (
+	name "Night Shift (demo) (1991)(U.S. Gold - Crash)"
+	description "Night Shift (demo) (1991)(U.S. Gold - Crash)"
+	rom ( name "Night Shift (demo) (1991)(U.S. Gold - Crash).tap" size 37499 crc 4942f2d7 md5 4d7c70b30619e365ae28b6b90e934c52 sha1 da7f5e61ac2481d0ea197e0ebf51fc6e03cca588 )
+)
+
+game (
+	name "North & South (demo) (1991)(Infogrames - Crash)[48-128K]"
+	description "North & South (demo) (1991)(Infogrames - Crash)[48-128K]"
+	rom ( name "North & South (demo) (1991)(Infogrames - Crash)[48-128K].tap" size 56767 crc 7ebd39e3 md5 0788bc7cc6e94779855fff56b01c3671 sha1 fb4669c6a2798b5f35149553daa0095dfd69cb60 )
+)
+
+game (
+	name "Oligopoly (1984)(Sinclair User)"
+	description "Oligopoly (1984)(Sinclair User)"
+	rom ( name "Oligopoly (1984)(Sinclair User).tap" size 31265 crc 887f17c9 md5 f208aee30674833fa2bafb5311b65d39 sha1 25baff6d1e375800a481237c9b29e235d54b64a2 )
+)
+
+game (
+	name "Operation Colossus (1986)(16-48 Tape Magazine)"
+	description "Operation Colossus (1986)(16-48 Tape Magazine)"
+	rom ( name "Operation Colossus (1986)(16-48 Tape Magazine).tap" size 40711 crc 84edcb1b md5 0c482f89feb35a850f15e9ed0da0a347 sha1 d7f21e37b9a08d6c59ad9f730f334496d611e8df )
+)
+
+game (
+	name "Orchard (1983)(Sinclair Programs)[16K]"
+	description "Orchard (1983)(Sinclair Programs)[16K]"
+	rom ( name "Orchard (1983)(Sinclair Programs)[16K].tap" size 4000 crc d7476a89 md5 cdd40216ded571e16b1ff7c0baafdef1 sha1 36ab40c3dfa45ccf9f7f27d4d434c61c5755e5d8 )
+)
+
+game (
+	name "Orient Gardens (1984)(Tutto Spectrum)(it)[a][aka Babaliba]"
+	description "Orient Gardens (1984)(Tutto Spectrum)(it)[a][aka Babaliba]"
+	rom ( name "Orient Gardens (1984)(Tutto Spectrum)(it)[a][aka Babaliba].tap" size 42928 crc ba6bfe78 md5 3aa00522b2ab5fabbb39210e1cfcaa32 sha1 f942175291edd5a9c1691193fe888e2365295db7 )
+)
+
+game (
+	name "Orient Gardens (1984)(Tutto Spectrum)(it)[aka Babaliba]"
+	description "Orient Gardens (1984)(Tutto Spectrum)(it)[aka Babaliba]"
+	rom ( name "Orient Gardens (1984)(Tutto Spectrum)(it)[aka Babaliba].tap" size 43008 crc 6c7dd550 md5 5eb001b655a24b87182a489356081162 sha1 9728c4e6d693747d58adda035115f1e387ea6102 )
+)
+
+game (
+	name "Orso, L' (1984)(Special Program)(it)[aka Bear Bovver]"
+	description "Orso, L' (1984)(Special Program)(it)[aka Bear Bovver]"
+	rom ( name "Orso, L' (1984)(Special Program)(it)[aka Bear Bovver].tap" size 33070 crc 6f6c0876 md5 cbc744b751e24a62623126ee6629f5af sha1 2d3f4f0612245287e8f44b2bc359f5c098277b99 )
+)
+
+game (
+	name "Overload (1985)(Sinclair User)[16K]"
+	description "Overload (1985)(Sinclair User)[16K]"
+	rom ( name "Overload (1985)(Sinclair User)[16K].tap" size 4984 crc d59590e3 md5 a3e28439161ad197c44f84d69c6a9556 sha1 81f595e9298287e753c56e5ed52ef950b1c803e1 )
+)
+
+game (
+	name "Pang (demo) (1990)(Ocean - Sinclair User)[128K]"
+	description "Pang (demo) (1990)(Ocean - Sinclair User)[128K]"
+	rom ( name "Pang (demo) (1990)(Ocean - Sinclair User)[128K].tap" size 32243 crc 988d22a4 md5 e9e25bf5e1c4965c9ac38b42ab5f5cf7 sha1 c23efa23af0a584187e073df18c29a76fbeb1f96 )
+)
+
+game (
+	name "Parap Shock (1989)(MicroHobby)(es)"
+	description "Parap Shock (1989)(MicroHobby)(es)"
+	rom ( name "Parap Shock (1989)(MicroHobby)(es).tap" size 34789 crc d7c12ab6 md5 f587a6d3ed36ca529ddfb74a7916373f sha1 7ed1956d06c2ba3b1b3cc5697b9e40229a971265 )
+)
+
+game (
+	name "Parchis (1985)(MicroHobby)(es)"
+	description "Parchis (1985)(MicroHobby)(es)"
+	rom ( name "Parchis (1985)(MicroHobby)(es).tap" size 38580 crc 3c2612a2 md5 9283545a647b7928b147eedb43ec4e2d sha1 76be56622cf0f825986b8d7e3b15e71efcf4b296 )
+)
+
+game (
+	name "Passing Shot (demo) (1989)(Image Works - Your Sinclair)"
+	description "Passing Shot (demo) (1989)(Image Works - Your Sinclair)"
+	rom ( name "Passing Shot (demo) (1989)(Image Works - Your Sinclair).tap" size 29017 crc 835dcb9a md5 87ec9b30c314c8ba6ece2ba1fec216c4 sha1 c688bef6ff520f5e22579da997160c41e51a2d60 )
+)
+
+game (
+	name "Pathetic Pablo Bros, The (1993)(Your Sinclair)"
+	description "Pathetic Pablo Bros, The (1993)(Your Sinclair)"
+	rom ( name "Pathetic Pablo Bros, The (1993)(Your Sinclair).tap" size 17098 crc bebf69cb md5 ef04a06f5e3589698dd93d6a5b3ec8f7 sha1 7724141cf1bcbc0d024ed69b528c767cd0a33dcc )
+)
+
+game (
+	name "Peking (1991)(Your Sinclair)"
+	description "Peking (1991)(Your Sinclair)"
+	rom ( name "Peking (1991)(Your Sinclair).tap" size 44577 crc 24e8d67d md5 f9be33b17320fe95468582939a134e5b sha1 ff3ccc604ed79a55a72bd3f9def361817689cc96 )
+)
+
+game (
+	name "Peking (1991)(Your Sinclair)[t +3 Matasoft - Tommysoft]"
+	description "Peking (1991)(Your Sinclair)[t +3 Matasoft - Tommysoft]"
+	rom ( name "Peking (1991)(Your Sinclair)[t +3 Matasoft - Tommysoft].tap" size 30887 crc 34e1d7aa md5 fc4e212f5805fd2215a20df57e27e876 sha1 254f5924e1417e7cc057b7bf34171f9b51dde33d )
+)
+
+game (
+	name "Penguins and Polars (1984)(Sinclair Programs)[16K]"
+	description "Penguins and Polars (1984)(Sinclair Programs)[16K]"
+	rom ( name "Penguins and Polars (1984)(Sinclair Programs)[16K].tap" size 4075 crc 353e0e6e md5 0feae5ae4a388b9ed09bc52ba1c98719 sha1 37b560a6f01db0554e068619a1832b305f884791 )
+)
+
+game (
+	name "Pennellix (1985)(Load 'n' Run)(es)[aka Colour Clash]"
+	description "Pennellix (1985)(Load 'n' Run)(es)[aka Colour Clash]"
+	rom ( name "Pennellix (1985)(Load 'n' Run)(es)[aka Colour Clash].tap" size 6898 crc d0e22dc1 md5 9f84f439533b0abc5e8578ee67bd9413 sha1 4e9b734d2df5c1031ba29e3c52b25b9e33b89985 )
+)
+
+game (
+	name "People from Sirius (1988)(U.S. Gold - Your Sinclair)"
+	description "People from Sirius (1988)(U.S. Gold - Your Sinclair)"
+	rom ( name "People from Sirius (1988)(U.S. Gold - Your Sinclair).tap" size 49080 crc bbe931a6 md5 ca4c50cfd561e39c7efda35d01438dd3 sha1 7be08963a1e3df2db535d38475dd261ff18ba043 )
+)
+
+game (
+	name "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a2]"
+	description "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a2]"
+	rom ( name "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a2].tap" size 49151 crc 3ad85a33 md5 2fd9d7be09d16f241a1e642d555d79ec sha1 eb14abc09650a9901473afbb1770b5fc90bda55e )
+)
+
+game (
+	name "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a]"
+	description "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a]"
+	rom ( name "People from Sirius (1988)(U.S. Gold - Your Sinclair)[a].tap" size 49251 crc 6c27257e md5 c047fd0f01443c464f15140b26287360 sha1 a2e18070ac035e24c8c0f6ffc88848b16b677f2c )
+)
+
+game (
+	name "Piggy Punks (1990)(Hellenic Software - Sinclair User)[48-128K]"
+	description "Piggy Punks (1990)(Hellenic Software - Sinclair User)[48-128K]"
+	rom ( name "Piggy Punks (1990)(Hellenic Software - Sinclair User)[48-128K].tap" size 39303 crc 5a569aa7 md5 7259edb08fad60b502d26f9ddfc4f2f5 sha1 5944e7926cb44677a48be447fb4e08c11a7605b1 )
+)
+
+game (
+	name "Pilot (1983)(Sinclair Programs)[16K]"
+	description "Pilot (1983)(Sinclair Programs)[16K]"
+	rom ( name "Pilot (1983)(Sinclair Programs)[16K].tap" size 1423 crc 9dddb1da md5 19518c758594d4bd6b072579f92434dd sha1 d1e04ebf6c7b754061baa7f265f2d1c207fa939d )
+)
+
+game (
+	name "Pipe Mania (demo) (1990)(Empire Software - Your Sinclair)[48-128K]"
+	description "Pipe Mania (demo) (1990)(Empire Software - Your Sinclair)[48-128K]"
+	rom ( name "Pipe Mania (demo) (1990)(Empire Software - Your Sinclair)[48-128K].tap" size 29989 crc 93b2b624 md5 088356d7994fc54409ab3473a5fa867a sha1 e4b4ddde31da7888943cbc9ef6df2d4f2c9fe362 )
+)
+
+game (
+	name "Pipeline (1983)(Sinclair Programs)"
+	description "Pipeline (1983)(Sinclair Programs)"
+	rom ( name "Pipeline (1983)(Sinclair Programs).tap" size 12073 crc 3acd1b20 md5 ec4e472548ba99f74db59dcab1362ea4 sha1 ac4fcc19fb7e976f33ca31b01f6f13bae2e1100c )
+)
+
+game (
+	name "Pipework (1991)(Your Sinclair)"
+	description "Pipework (1991)(Your Sinclair)"
+	rom ( name "Pipework (1991)(Your Sinclair).tap" size 11422 crc 0c1a215f md5 ee4511bfafb8d6024c6f5afb47bd5f20 sha1 5147f9b53da878c461af44e179e3718ff96dd3f6 )
+)
+
+game (
+	name "Piramide, La (1984)(Load 'n' Run)(it)[aka Pyramid, The]"
+	description "Piramide, La (1984)(Load 'n' Run)(it)[aka Pyramid, The]"
+	rom ( name "Piramide, La (1984)(Load 'n' Run)(it)[aka Pyramid, The].tap" size 32629 crc ae6b495f md5 1463c3fc36848e8f10e0422d99a1ba7a sha1 5fe29d065681583e008156c816ab6f031b2d5cda )
+)
+
+game (
+	name "Pixerama (1985)(Load 'n' Run)(es)"
+	description "Pixerama (1985)(Load 'n' Run)(es)"
+	rom ( name "Pixerama (1985)(Load 'n' Run)(es).tap" size 5317 crc 60b54017 md5 5205515ef88f9a8b36e3680a74da4e39 sha1 c9b97c7cad126f6729f5fe5c0905a38a1a0985b7 )
+)
+
+game (
+	name "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team]"
+	description "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team]"
+	rom ( name "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team].tap" size 38912 crc dd851668 md5 6511ea9ee492cc7872169fd15648f8f2 sha1 41f6f5982071349ddf263bbbaf110791b9aeb65e )
+)
+
+game (
+	name "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team][a]"
+	description "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team][a]"
+	rom ( name "Pixy the Microdot 2 (1989)(Your Sinclair)[cr TFF Team][a].tap" size 38646 crc 72f1dc84 md5 ef186acf79875da5bfc8ff2aba5ddec8 sha1 66db0ec8cdc57cac789a74dcf6397dd8886ec817 )
+)
+
+game (
+	name "Pizza Bar (1993)(Redwood Designs - Sinclair User)"
+	description "Pizza Bar (1993)(Redwood Designs - Sinclair User)"
+	rom ( name "Pizza Bar (1993)(Redwood Designs - Sinclair User).tap" size 40634 crc 0f96b4f0 md5 ed6022fa18947279095d05083d500c0d sha1 7f1537e30c86c4b9a726a57640fe4c27b3cd9147 )
+)
+
+game (
+	name "Planks (1983)(Sinclair Programs)"
+	description "Planks (1983)(Sinclair Programs)"
+	rom ( name "Planks (1983)(Sinclair Programs).tap" size 958 crc 90671b25 md5 20c0d17dad98f6e2bffe6c676e76ea79 sha1 e0eee6e238cfbee156b0692a8c06b01c56f648f1 )
+)
+
+game (
+	name "Play for Your Life (1988)(Imagine Software - Your Sinclair)"
+	description "Play for Your Life (1988)(Imagine Software - Your Sinclair)"
+	rom ( name "Play for Your Life (1988)(Imagine Software - Your Sinclair).tap" size 43626 crc 0ff50b4b md5 2d1ec8cd9dc4e7a87c348d4a9d61d518 sha1 b527b26a6427a3b9edf44c59ffb18264852eb4e8 )
+)
+
+game (
+	name "Pling! (1983)(Sinclair Programs)[16K]"
+	description "Pling! (1983)(Sinclair Programs)[16K]"
+	rom ( name "Pling! (1983)(Sinclair Programs)[16K].tap" size 2811 crc ceb24165 md5 66a72eb2665bc0b35af88e9e76d1533a sha1 6fc9c801b2168c388adbdbe71b66c017e81cf59a )
+)
+
+game (
+	name "Pokes y Cargadores - Especial Patas Arriba (1985)(Micromania)(es)"
+	description "Pokes y Cargadores - Especial Patas Arriba (1985)(Micromania)(es)"
+	rom ( name "Pokes y Cargadores - Especial Patas Arriba (1985)(Micromania)(es).tap" size 69192 crc 4d3f21b3 md5 e1bfc756d4311fca8ef6cd211434fda2 sha1 8ddf69adef8750f0e120672406a4d111a1a77968 )
+)
+
+game (
+	name "Ponlas en Raya (1986)(Load 'n' Run)(es)"
+	description "Ponlas en Raya (1986)(Load 'n' Run)(es)"
+	rom ( name "Ponlas en Raya (1986)(Load 'n' Run)(es).tap" size 32575 crc 0b6609fe md5 95824d6e82702a50a4ba0a7444b57f0c sha1 7b2751bca404f8f6fdc73c07e701c9d9be2a259c )
+)
+
+game (
+	name "Pontoon (1983)(Sinclair User)"
+	description "Pontoon (1983)(Sinclair User)"
+	rom ( name "Pontoon (1983)(Sinclair User).tap" size 9242 crc 6b423472 md5 e082c83009a3d526319231b0a78aa65f sha1 ef24b86fbe0f96ad86a9ff0868d59484d4cbdb00 )
+)
+
+game (
+	name "Pontoon (1983)(Sinclair User)[m Jim Waterman]"
+	description "Pontoon (1983)(Sinclair User)[m Jim Waterman]"
+	rom ( name "Pontoon (1983)(Sinclair User)[m Jim Waterman].tap" size 10242 crc 7d94f7be md5 4a0d1ee7d333a2d0840397ea94f3cebf sha1 c653f5627babb7a7a8c958044bb22b9709a70145 )
+)
+
+game (
+	name "Popeye 3 - Wrestle Crazy (demo) (1992)(Alternative Software - Sinclair User)[128K]"
+	description "Popeye 3 - Wrestle Crazy (demo) (1992)(Alternative Software - Sinclair User)[128K]"
+	rom ( name "Popeye 3 - Wrestle Crazy (demo) (1992)(Alternative Software - Sinclair User)[128K].tap" size 21129 crc 8da59440 md5 c7623b711eaf3c14d46b96eed56fcc75 sha1 e78b5e954294540b36347f127af680a377fc62f5 )
+)
+
+game (
+	name "Portals of P'Thaal (1987)(Sinclair User)"
+	description "Portals of P'Thaal (1987)(Sinclair User)"
+	rom ( name "Portals of P'Thaal (1987)(Sinclair User).tap" size 16364 crc 88443c66 md5 505ddf5b6db88e4fb4c017d3f29adeb1 sha1 887f412c56043d2ed81159d3a84ce13ac68b4ec7 )
+)
+
+game (
+	name "Portals of P'Thaal (1987)(Sinclair User)[a]"
+	description "Portals of P'Thaal (1987)(Sinclair User)[a]"
+	rom ( name "Portals of P'Thaal (1987)(Sinclair User)[a].tap" size 16364 crc a5f27d48 md5 0b6f6bbddc7317dc4a92f7530f24bbca sha1 6aff0447c3b62e94d5998d92ec003970e45ec694 )
+)
+
+game (
+	name "Post Mania (1985)(ZX Computing)"
+	description "Post Mania (1985)(ZX Computing)"
+	rom ( name "Post Mania (1985)(ZX Computing).tap" size 21784 crc d8bc87fa md5 e7ae8ba4e051c69981e41043b6d26f8c sha1 28be7415a6a6c61e10b63d1d27db77b0aac5ec76 )
+)
+
+game (
+	name "Prisas (1985)(Load 'n' Run)(es)[aka Treasure Hunt]"
+	description "Prisas (1985)(Load 'n' Run)(es)[aka Treasure Hunt]"
+	rom ( name "Prisas (1985)(Load 'n' Run)(es)[aka Treasure Hunt].tap" size 15949 crc e718f59b md5 089aa0efdba3f111e6edf14fe7aa4256 sha1 a699979b4b4d7c9733dfad390ea8f98a057fc278 )
+)
+
+game (
+	name "Prisoner, The (1985)(16-48 Tape Magazine)"
+	description "Prisoner, The (1985)(16-48 Tape Magazine)"
+	rom ( name "Prisoner, The (1985)(16-48 Tape Magazine).tap" size 31249 crc 7292b845 md5 2f92cf44aadc933019f90843a24ca508 sha1 9bbdca2348c74b0bc0d594869f6d01e1e4d6388c )
+)
+
+game (
+	name "Pronto Intervento (1986)(Load 'n' Run)(it)[aka Sky Ranger]"
+	description "Pronto Intervento (1986)(Load 'n' Run)(it)[aka Sky Ranger]"
+	rom ( name "Pronto Intervento (1986)(Load 'n' Run)(it)[aka Sky Ranger].tap" size 55652 crc bd1da055 md5 97a5dc0b7328bcddfb0babdc71e56d90 sha1 840eeacc5924570be78a15fd7475c5d425f987d9 )
+)
+
+game (
+	name "Puzznic (demo) (1990)(Ocean - Sinclair User)"
+	description "Puzznic (demo) (1990)(Ocean - Sinclair User)"
+	rom ( name "Puzznic (demo) (1990)(Ocean - Sinclair User).tap" size 14458 crc 33588c60 md5 7c99e2ff0e84358e73c45e6a538520e1 sha1 0602814cc5acfa72ac49901c763b9ba069cfd50c )
+)
+
+game (
+	name "Pyramania (1984)(16-48 Tape Magazine)"
+	description "Pyramania (1984)(16-48 Tape Magazine)"
+	rom ( name "Pyramania (1984)(16-48 Tape Magazine).tap" size 47353 crc 795a5707 md5 2606b2baae848724b6def2170b508ff3 sha1 4ab32d6551a6fd3ef56d067deb80946937b23dc3 )
+)
+
+game (
+	name "Pyramania (1984)(16-48 Tape Magazine)[a]"
+	description "Pyramania (1984)(16-48 Tape Magazine)[a]"
+	rom ( name "Pyramania (1984)(16-48 Tape Magazine)[a].tap" size 47108 crc 71a39dd2 md5 d82c2e0ad9c188edab0d68c3bb977f56 sha1 a6cb9bf986cea338d841035fe4e524ede09e3549 )
+)
+
+game (
+	name "Qarx (1988)(Your Sinclair)"
+	description "Qarx (1988)(Your Sinclair)"
+	rom ( name "Qarx (1988)(Your Sinclair).tap" size 35328 crc 0d84c47b md5 de290b5322859a45d4df3d3ca627c54e sha1 7db8191674d4be1ccf91058823c3a6a91b422d51 )
+)
+
+game (
+	name "Qarx (1988)(Your Sinclair)[a]"
+	description "Qarx (1988)(Your Sinclair)[a]"
+	rom ( name "Qarx (1988)(Your Sinclair)[a].tap" size 40714 crc 9fc4d1d2 md5 4fab323387de8785173198a902703331 sha1 679a2519801c4ac00b96e379fd4508805f6100e0 )
+)
+
+game (
+	name "Quadrajoin (1983)(16-48 Tape Magazine)"
+	description "Quadrajoin (1983)(16-48 Tape Magazine)"
+	rom ( name "Quadrajoin (1983)(16-48 Tape Magazine).tap" size 11280 crc 496c13eb md5 99243b816e8498c2ed9708e123cf0445 sha1 fad29ad5d61139fd26f2099f8080fb3551e8685f )
+)
+
+game (
+	name "Quasimodo (1983)(Sinclair Programs)[16K]"
+	description "Quasimodo (1983)(Sinclair Programs)[16K]"
+	rom ( name "Quasimodo (1983)(Sinclair Programs)[16K].tap" size 8371 crc 801bb1c3 md5 67e67ce9e0fdd1becaddef077d7f20ab sha1 7c945b58bf48d14f22376f110cc7dc79a38c4862 )
+)
+
+game (
+	name "Race, The (demo) (1990)(Players Premier Software - Your Sinclair)"
+	description "Race, The (demo) (1990)(Players Premier Software - Your Sinclair)"
+	rom ( name "Race, The (demo) (1990)(Players Premier Software - Your Sinclair).tap" size 25097 crc fd36a73f md5 9f6dc247332aecf97e9cb5cfd3eb8e69 sha1 0c1e7772579bfd23b89fda1182321e98a29383bf )
+)
+
+game (
+	name "Rally Moto (1988)(Load 'n' Run)(it)[t][aka Super Hang-On - Part 4 - Expert]"
+	description "Rally Moto (1988)(Load 'n' Run)(it)[t][aka Super Hang-On - Part 4 - Expert]"
+	rom ( name "Rally Moto (1988)(Load 'n' Run)(it)[t][aka Super Hang-On - Part 4 - Expert].tap" size 33962 crc be5cca3e md5 82601fa6d4412c1db9668190bc1a2c40 sha1 60b48d31cd8342cb9f72ef6cdf0aa4af0603f406 )
+)
+
+game (
+	name "Rambo III (demo) (1988)(Ocean - Your Sinclair)[48-128K]"
+	description "Rambo III (demo) (1988)(Ocean - Your Sinclair)[48-128K]"
+	rom ( name "Rambo III (demo) (1988)(Ocean - Your Sinclair)[48-128K].tap" size 49308 crc 26d07081 md5 0626db9a10d598c756a4692c6528a76e sha1 1d74dbb0384aa4cdd25c19dc98695d969702d946 )
+)
+
+game (
+	name "Rana, La (1984)(Load 'n' Run)(it)[aka Froggy]"
+	description "Rana, La (1984)(Load 'n' Run)(it)[aka Froggy]"
+	rom ( name "Rana, La (1984)(Load 'n' Run)(it)[aka Froggy].tap" size 9583 crc c67c8c7c md5 07513e0a349b48e5d9c1ce6b2575802f sha1 524a47672b6472c67977933a3266c6ddfbe592bf )
+)
+
+game (
+	name "Reversi (1982)(C&VG)[16K]"
+	description "Reversi (1982)(C&VG)[16K]"
+	rom ( name "Reversi (1982)(C&VG)[16K].tap" size 6727 crc d1e2088e md5 dda32c42bf018f5dbbdbdad8c6fe3cc8 sha1 7d186aec70031bd9bedcbefce8e5c74fdb3e9e7f )
+)
+
+game (
+	name "Reversi (1983)(Sinclair Programs)[16K]"
+	description "Reversi (1983)(Sinclair Programs)[16K]"
+	rom ( name "Reversi (1983)(Sinclair Programs)[16K].tap" size 2783 crc fbfb4b98 md5 37c92e8fc2793f0580fe011a2bd11da5 sha1 5281c6201cca2038e6e1d530dfa216e60170a28b )
+)
+
+game (
+	name "Reversi (1983)(Sinclair Programs)[a][16K]"
+	description "Reversi (1983)(Sinclair Programs)[a][16K]"
+	rom ( name "Reversi (1983)(Sinclair Programs)[a][16K].tap" size 2710 crc d8a56b25 md5 ff8ee1d0354cda39b7474268063c530e sha1 02329927d73a4ad25a097404c8307ad675a89be0 )
+)
+
+game (
+	name "Rex (demo) (1988)(Martech Games - Your Sinclair)"
+	description "Rex (demo) (1988)(Martech Games - Your Sinclair)"
+	rom ( name "Rex (demo) (1988)(Martech Games - Your Sinclair).tap" size 48169 crc 60af10dc md5 dba6bc22e496bacf073c2d0e06f4a69f sha1 3802ffc4b6f46e5d1af6544aeb31bd0601784626 )
+)
+
+game (
+	name "Ricostruzione (1985)(Linguaggio Macchina)(it)[16K][aka Nowotnik Puzzle, The]"
+	description "Ricostruzione (1985)(Linguaggio Macchina)(it)[16K][aka Nowotnik Puzzle, The]"
+	rom ( name "Ricostruzione (1985)(Linguaggio Macchina)(it)[16K][aka Nowotnik Puzzle, The].tap" size 7705 crc 4e718a28 md5 87a90aa6deb999bb3ce2c00385477ad2 sha1 8e031f6ec1661be25a26f034b3e742f3f458fc76 )
+)
+
+game (
+	name "Right Stuff, The (1984)(Sinclair User)"
+	description "Right Stuff, The (1984)(Sinclair User)"
+	rom ( name "Right Stuff, The (1984)(Sinclair User).tap" size 17530 crc 3bcf9ea4 md5 28ea5df7fc1dc9a1366228e6a93ca2f4 sha1 b067740b4142431d055a7bcf8e585922706cbde5 )
+)
+
+game (
+	name "Rikosphere (1992)(Your Sinclair)"
+	description "Rikosphere (1992)(Your Sinclair)"
+	rom ( name "Rikosphere (1992)(Your Sinclair).tap" size 34284 crc c12f7637 md5 171ae5dbabdad6cd82244db545279039 sha1 f2ff701821ebd3ecec1e11ec4dfde6205d2a578a )
+)
+
+game (
+	name "Rio Blanco (1989)(MicroHobby)(es)"
+	description "Rio Blanco (1989)(MicroHobby)(es)"
+	rom ( name "Rio Blanco (1989)(MicroHobby)(es).tap" size 48844 crc 720113d6 md5 1ca939b8afff74eeddacf71652d6acd8 sha1 5c7c350ead3554b0e4f5a095312e9b40a44145cb )
+)
+
+game (
+	name "Road Race (1987)(Ocean - Your Sinclair)"
+	description "Road Race (1987)(Ocean - Your Sinclair)"
+	rom ( name "Road Race (1987)(Ocean - Your Sinclair).tap" size 46100 crc a1daf3de md5 784456c2c3462b55136c9a8f8041e813 sha1 d0d7de6531ca1b72e0a7e36c0c3c98dfeb19791b )
+)
+
+game (
+	name "Road Racer (1984)(Your Spectrum)[16K]"
+	description "Road Racer (1984)(Your Spectrum)[16K]"
+	rom ( name "Road Racer (1984)(Your Spectrum)[16K].tap" size 5788 crc 66c12601 md5 85d110e025e20943035ca09bea443a74 sha1 687c06043596f2d0b14cb0733f1aa45e92633449 )
+)
+
+game (
+	name "Rocket Man Mike (1985)(Your Computer)"
+	description "Rocket Man Mike (1985)(Your Computer)"
+	rom ( name "Rocket Man Mike (1985)(Your Computer).tap" size 8601 crc 06d409e3 md5 6dda89909ccccb8c56337ffd846e21d7 sha1 493418c08203809c3f83001f14bcd589493a3e14 )
+)
+
+game (
+	name "Rockfall II - The Crash Readers Edition (1991)(Crash)"
+	description "Rockfall II - The Crash Readers Edition (1991)(Crash)"
+	rom ( name "Rockfall II - The Crash Readers Edition (1991)(Crash).tap" size 47727 crc 9707de19 md5 509cd091722d8253328abf65d2cfd732 sha1 f6c60f2e7fc5fbc5f410c7d4b48ff40e7453613a )
+)
+
+game (
+	name "Rocks (1985)(Load 'n' Run)(es)[aka Thrusta]"
+	description "Rocks (1985)(Load 'n' Run)(es)[aka Thrusta]"
+	rom ( name "Rocks (1985)(Load 'n' Run)(es)[aka Thrusta].tap" size 16502 crc ad2417c9 md5 96ad5946624aab56ccd465a6019d57a0 sha1 353668391a8b46f61e0528a0316c4841fecc9142 )
+)
+
+game (
+	name "Ruff and Reddy in The Space Adventure (demo) (1990)(Hi-Tec Software - Crash)"
+	description "Ruff and Reddy in The Space Adventure (demo) (1990)(Hi-Tec Software - Crash)"
+	rom ( name "Ruff and Reddy in The Space Adventure (demo) (1990)(Hi-Tec Software - Crash).tap" size 34240 crc fc1f569b md5 35f4f83aad0e41ff27058c15c7350464 sha1 6f6b095eaeb5aa911e4ff62d2c40c8a28003ff23 )
+)
+
+game (
+	name "Sabotaje (1985)(Load 'n' Run)(es)[aka Timebomb]"
+	description "Sabotaje (1985)(Load 'n' Run)(es)[aka Timebomb]"
+	rom ( name "Sabotaje (1985)(Load 'n' Run)(es)[aka Timebomb].tap" size 10155 crc c653c594 md5 32e5c096cefbad038888c419c263f2a3 sha1 b925a2c0c0085dfb0292cabd2415023c46618aec )
+)
+
+game (
+	name "Salteador (1985)(Load 'n' Run)(es)[aka Gilligan's Gold]"
+	description "Salteador (1985)(Load 'n' Run)(es)[aka Gilligan's Gold]"
+	rom ( name "Salteador (1985)(Load 'n' Run)(es)[aka Gilligan's Gold].tap" size 50119 crc a3217206 md5 fd04d1c2f2a2e54fa06e3dc829acab2f sha1 1215de84993ea9d07f3755fb1ddfd9c128992a9c )
+)
+
+game (
+	name "Sapphire (1985)(Special Program)(it)[a][aka Metabolis]"
+	description "Sapphire (1985)(Special Program)(it)[a][aka Metabolis]"
+	rom ( name "Sapphire (1985)(Special Program)(it)[a][aka Metabolis].tap" size 48057 crc c9a62d82 md5 e806f7c14971636fc104de288e34f3a4 sha1 7157880d32577035cb474fa8186096b03a967b1d )
+)
+
+game (
+	name "Sapphire (1985)(Special Program)(it)[aka Metabolis]"
+	description "Sapphire (1985)(Special Program)(it)[aka Metabolis]"
+	rom ( name "Sapphire (1985)(Special Program)(it)[aka Metabolis].tap" size 48128 crc 91beeb9d md5 5a0fc5a3a5e36c89a97046c38abae733 sha1 50dcf2d9f706a400b987d5842e1af9d52174d355 )
+)
+
+game (
+	name "Save the Dam (1983)(Sinclair User)[16K]"
+	description "Save the Dam (1983)(Sinclair User)[16K]"
+	rom ( name "Save the Dam (1983)(Sinclair User)[16K].tap" size 6491 crc 3dc67dbb md5 cf0db24efbbb2c827a553cc1f39747d6 sha1 dcd86fc388770a1b31d11d54e95aebd7e4aa0244 )
+)
+
+game (
+	name "Scientist Rescue (1984)(Sinclair Programs)[16K]"
+	description "Scientist Rescue (1984)(Sinclair Programs)[16K]"
+	rom ( name "Scientist Rescue (1984)(Sinclair Programs)[16K].tap" size 6019 crc 0537bb5a md5 a5a227be7f499ea97fec55373cafc4af sha1 e851226e665894b77d7eaf073040ee7310b178b0 )
+)
+
+game (
+	name "Scramble Spirits (demo) (1990)(Grandslam Entertainments - Your Sinclair)"
+	description "Scramble Spirits (demo) (1990)(Grandslam Entertainments - Your Sinclair)"
+	rom ( name "Scramble Spirits (demo) (1990)(Grandslam Entertainments - Your Sinclair).tap" size 45435 crc 734e5786 md5 f5b7c9e1c9e032b43a980ad6be59f9cc sha1 51dbf417423e2b6cf6c26c6e9c9b1285c01d8861 )
+)
+
+game (
+	name "Scrumper (1983)(Sinclair Programs)[16K]"
+	description "Scrumper (1983)(Sinclair Programs)[16K]"
+	rom ( name "Scrumper (1983)(Sinclair Programs)[16K].tap" size 3475 crc 3f7c2c99 md5 4d2825940c3428ac51fbc5dc99ec1422 sha1 4944cfee4140ad70021dc74201a435c886ce34f6 )
+)
+
+game (
+	name "Senku (1991)(MicroHobby)(es)"
+	description "Senku (1991)(MicroHobby)(es)"
+	rom ( name "Senku (1991)(MicroHobby)(es).tap" size 25435 crc b65489dd md5 7a80c1de4b7bda167f5b300b2778ac2a sha1 41895f1db566e36616a285bf77d620b03b7b9f82 )
+)
+
+game (
+	name "Seven Parchments of Kandos, The (1989)(Sinclair User)"
+	description "Seven Parchments of Kandos, The (1989)(Sinclair User)"
+	rom ( name "Seven Parchments of Kandos, The (1989)(Sinclair User).tap" size 37907 crc aa6dfdf5 md5 44c2d4075de3129544c45cdb30c31ac2 sha1 dcbfdd46b914ce3fab71165b65096352970723b0 )
+)
+
+game (
+	name "Seven Parchments of Kandos, The (1989)(Sinclair User)[a]"
+	description "Seven Parchments of Kandos, The (1989)(Sinclair User)[a]"
+	rom ( name "Seven Parchments of Kandos, The (1989)(Sinclair User)[a].tap" size 37907 crc a3dfd52d md5 e5a8a7fea5782b9ac09e8ffc5fb3c179 sha1 91753fafc25b53731ae6b620866573cf15d60a73 )
+)
+
+game (
+	name "Sexy Black Jack (1986)(Load 'n' Run)(it)"
+	description "Sexy Black Jack (1986)(Load 'n' Run)(it)"
+	rom ( name "Sexy Black Jack (1986)(Load 'n' Run)(it).tap" size 43229 crc 123dc233 md5 40828b95582ce7927fbdfb3fdfeb00d8 sha1 26393007b4b9524fd305718abae4097ac62f0172 )
+)
+
+game (
+	name "Sheep Dog (1984)(Sinclair Programs)[16K]"
+	description "Sheep Dog (1984)(Sinclair Programs)[16K]"
+	rom ( name "Sheep Dog (1984)(Sinclair Programs)[16K].tap" size 4785 crc 43ef3d64 md5 9bf53a58dafcb7eb2d12761ad811b86e sha1 772c526fe040436fbdd044222e08ffbee065364b )
+)
+
+game (
+	name "Short Circuit (1986)(Your Sinclair)"
+	description "Short Circuit (1986)(Your Sinclair)"
+	rom ( name "Short Circuit (1986)(Your Sinclair).tap" size 6815 crc 72fd0c65 md5 dddde36c9b0211abb454aa8302b1d93d sha1 3ed48a35715acfddf5c058d82f237aa053ca8a26 )
+)
+
+game (
+	name "Shuriken (1989)(Crash)"
+	description "Shuriken (1989)(Crash)"
+	rom ( name "Shuriken (1989)(Crash).tap" size 48287 crc cb1ab6f8 md5 c88c840b24666c58d4706e2e00e1b498 sha1 68d6fd60029e51e861e23c032fcbb79ee73966f2 )
+)
+
+game (
+	name "Shuttle Master (1983)(Sinclair Programs)[16K]"
+	description "Shuttle Master (1983)(Sinclair Programs)[16K]"
+	rom ( name "Shuttle Master (1983)(Sinclair Programs)[16K].tap" size 3464 crc 64d386da md5 4964279737d3fdc5318ca02d5a6d89c0 sha1 015b2f4dc1b7b4ca169da079d381e483664156c5 )
+)
+
+game (
+	name "Sideral (1985)(Load 'n' Run)(es)[aka Tempest]"
+	description "Sideral (1985)(Load 'n' Run)(es)[aka Tempest]"
+	rom ( name "Sideral (1985)(Load 'n' Run)(es)[aka Tempest].tap" size 25902 crc dd026bde md5 a997a505cd6f9773fad772c3d84b659e sha1 c97832dc79ce7770c47ff84b6778d6af53d7376a )
+)
+
+game (
+	name "Siege (1983)(Sinclair Programs)[16K]"
+	description "Siege (1983)(Sinclair Programs)[16K]"
+	rom ( name "Siege (1983)(Sinclair Programs)[16K].tap" size 2527 crc 536a46c8 md5 e45505d448c2fe973767521800ea9d10 sha1 0622863bb38afcc40656b57ba9afaa26b4add7bc )
+)
+
+game (
+	name "Siete y Medio (1985)(Load 'n' Run)(es)"
+	description "Siete y Medio (1985)(Load 'n' Run)(es)"
+	rom ( name "Siete y Medio (1985)(Load 'n' Run)(es).tap" size 18062 crc f664e037 md5 0b27703f4c118f06ebafc294b5168713 sha1 6e100f66dd0b4bba2244be16ed6279087c6deb14 )
+)
+
+game (
+	name "Sinclair User - Issue 072 - Megatape 01 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 072 - Megatape 01 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 072 - Megatape 01 - Poke City (1988)(Sinclair User).tap" size 5088 crc e3cdc9da md5 ed28a02041bb5b9a85cd08ea004343ee sha1 96338edd1a7c63e9d5193da54a8302471db48817 )
+)
+
+game (
+	name "Sinclair User - Issue 073 - Megatape 02 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 073 - Megatape 02 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 073 - Megatape 02 - Poke City (1988)(Sinclair User).tap" size 8088 crc 7721ab11 md5 90c459648ed5c8746c3d1bfba15d5bd5 sha1 3ee9d6908328cf14bc88fb078ad75846a828a16c )
+)
+
+game (
+	name "Sinclair User - Issue 074 - Megatape 03 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 074 - Megatape 03 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 074 - Megatape 03 - Poke City (1988)(Sinclair User).tap" size 18910 crc 7c6d0551 md5 74ab78bb741643cf7de701c3c9a95e1b sha1 98194c24dd87fcb51ec2dba6acec9fa91c83d0da )
+)
+
+game (
+	name "Sinclair User - Issue 075 - Megatape 04 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 075 - Megatape 04 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 075 - Megatape 04 - Poke City (1988)(Sinclair User).tap" size 11133 crc 90cd70da md5 75817ce99b5937362717f1c914843f24 sha1 35e148357079ddef438251b1780adc0f424a06b2 )
+)
+
+game (
+	name "Sinclair User - Issue 076 - Megatape 05 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 076 - Megatape 05 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 076 - Megatape 05 - Poke City (1988)(Sinclair User).tap" size 10171 crc 0c07f571 md5 687623be0fdfa4218bd07331ed76e8de sha1 912da63cf9969865d467b71f222a3cb66b563e96 )
+)
+
+game (
+	name "Sinclair User - Issue 077 - Megatape 06 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 077 - Megatape 06 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 077 - Megatape 06 - Poke City (1988)(Sinclair User).tap" size 9552 crc 1cd49f44 md5 60de0e31c8e0e80be67b6b037d6565bb sha1 e26ef0e162c14cdf9aad5bc1421ec2621e05fa50 )
+)
+
+game (
+	name "Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 078 - Megatape 07 - Poke City (1988)(Sinclair User).tap" size 7239 crc 876d9eff md5 d6a24eb0b1c380f750d5c5e5794e7d39 sha1 cc60d2c7d2f66f11df0cdbc6650a39d8c45b8c28 )
+)
+
+game (
+	name "Sinclair User - Issue 079 - Megatape 08 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 079 - Megatape 08 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 079 - Megatape 08 - Poke City (1988)(Sinclair User).tap" size 7982 crc 320fd11e md5 37102c97640e752c93ed1b83ff8108c4 sha1 034c3ead759a9284b2428b7fbb449e545c5dfb48 )
+)
+
+game (
+	name "Sinclair User - Issue 081 - Megatape 10 - Poke City (1988)(Sinclair User)"
+	description "Sinclair User - Issue 081 - Megatape 10 - Poke City (1988)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 081 - Megatape 10 - Poke City (1988)(Sinclair User).tap" size 6633 crc f0859530 md5 246eab259a70f8cea520e996cce3085a sha1 d662854a8fe6e6ce0761c0c495447bacb955b610 )
+)
+
+game (
+	name "Sinclair User - Issue 082 - Megatape 11 - Intro (1989)(Sinclair User)"
+	description "Sinclair User - Issue 082 - Megatape 11 - Intro (1989)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 082 - Megatape 11 - Intro (1989)(Sinclair User).tap" size 14044 crc cc8a06df md5 80a00904c8bd2cb73948c29cf4c92a6a sha1 ddcfa19403176f782bd8cb8456c702d1ace96e32 )
+)
+
+game (
+	name "Sinclair User - Issue 082 - Megatape 11 - Poke City (1989)(Sinclair User)"
+	description "Sinclair User - Issue 082 - Megatape 11 - Poke City (1989)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 082 - Megatape 11 - Poke City (1989)(Sinclair User).tap" size 7432 crc ff034542 md5 0f29e6e55ab613c18e639360f079bb0d sha1 bbc4db476b893207ca635377d9fe8c9eb21539b5 )
+)
+
+game (
+	name "Sinclair User - Issue 086 - Megatape 15 - Poke City (1989)(Sinclair User)"
+	description "Sinclair User - Issue 086 - Megatape 15 - Poke City (1989)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 086 - Megatape 15 - Poke City (1989)(Sinclair User).tap" size 8144 crc e6a51748 md5 ae9ac172b4d5d1f9d611275b3737d6b9 sha1 78a3b3be79fbbafebe90df692621a153d6cc847d )
+)
+
+game (
+	name "Sinclair User - Issue 092 - Megatape 21 - Poke City (1989)(Sinclair User)"
+	description "Sinclair User - Issue 092 - Megatape 21 - Poke City (1989)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 092 - Megatape 21 - Poke City (1989)(Sinclair User).tap" size 7355 crc 49a19610 md5 a4b16c3934b618b6a14bd479dd633663 sha1 21de46a140cb2f4a341339cae451757e2bd98d70 )
+)
+
+game (
+	name "Sinclair User - Issue 095 - Megatape 24 - Poke City (1990)(Sinclair User)"
+	description "Sinclair User - Issue 095 - Megatape 24 - Poke City (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 095 - Megatape 24 - Poke City (1990)(Sinclair User).tap" size 6822 crc 0b6c61c3 md5 72f872352bb464ac877570059fb67f57 sha1 25de0ed138e2539d1445279688e5b0293a25a379 )
+)
+
+game (
+	name "Sinclair User - Issue 101 - Double Hits 2 - Poke Thingy (1990)(Sinclair User)"
+	description "Sinclair User - Issue 101 - Double Hits 2 - Poke Thingy (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 101 - Double Hits 2 - Poke Thingy (1990)(Sinclair User).tap" size 4621 crc ddf543ad md5 cb74ba4856af65d0871a4b8062663ce8 sha1 23b235bd45d64977d4423891cb98251fe9c205f9 )
+)
+
+game (
+	name "Sinclair User - Issue 103 - Double Hits 4 - Poke Thingy (1990)(Sinclair User)"
+	description "Sinclair User - Issue 103 - Double Hits 4 - Poke Thingy (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 103 - Double Hits 4 - Poke Thingy (1990)(Sinclair User).tap" size 3767 crc 5a35d9df md5 489768f0630fc98cbce4cf80facd817f sha1 97644ea800c526338f4edff0016e14c9320ba4c2 )
+)
+
+game (
+	name "Sinclair User - Issue 104 - Double Hits 5 - Poke Thingy (1990)(Sinclair User)"
+	description "Sinclair User - Issue 104 - Double Hits 5 - Poke Thingy (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 104 - Double Hits 5 - Poke Thingy (1990)(Sinclair User).tap" size 3503 crc ad9e7f7f md5 0edd4d7b197d32330ac299f799b96e9d sha1 20cab2eabfe6b5552c16e73e63c29716eebdb2f5 )
+)
+
+game (
+	name "Sinclair User - Issue 104 - Double Hits 5 - Tips Amazing (1990)(Sinclair User)"
+	description "Sinclair User - Issue 104 - Double Hits 5 - Tips Amazing (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 104 - Double Hits 5 - Tips Amazing (1990)(Sinclair User).tap" size 33061 crc 078269b3 md5 5d92ab06f57ba38a2db690f2f85f323c sha1 eb0c59b301995f6af99dcb28ed7a076129d8fd46 )
+)
+
+game (
+	name "Sinclair User - Issue 106 - Six of the Best 2 - Poke Thingy (1990)(Sinclair User)"
+	description "Sinclair User - Issue 106 - Six of the Best 2 - Poke Thingy (1990)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 106 - Six of the Best 2 - Poke Thingy (1990)(Sinclair User).tap" size 2720 crc ac8e9e76 md5 9d046d005970d97be2f3b2f002b52ae1 sha1 8d07f1dba00c859c31bad72d36386d5fa4adc830 )
+)
+
+game (
+	name "Sinclair User - Issue 107 - Six of the Best 3 - Poke Thingy (1991)(Sinclair User)"
+	description "Sinclair User - Issue 107 - Six of the Best 3 - Poke Thingy (1991)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 107 - Six of the Best 3 - Poke Thingy (1991)(Sinclair User).tap" size 2019 crc 9008bdb0 md5 ba8590c9a53fe61eb6567b3aaea849fc sha1 ed53528900d2f5f14e13cb3d37352dc530920cab )
+)
+
+game (
+	name "Sinclair User - Issue 124 - Great Eight 13 - Tips Amazing (1992)(Sinclair User)"
+	description "Sinclair User - Issue 124 - Great Eight 13 - Tips Amazing (1992)(Sinclair User)"
+	rom ( name "Sinclair User - Issue 124 - Great Eight 13 - Tips Amazing (1992)(Sinclair User).tap" size 9823 crc 2e39c69f md5 b7b7bb4c78981757882f4398d39d234c sha1 6b7f01bbb860fea3c08eb45bcb80aeb11a343d50 )
+)
+
+game (
+	name "Skate Crazy (demo) (1988)(Gremlin Graphics Software - Sinclair User)"
+	description "Skate Crazy (demo) (1988)(Gremlin Graphics Software - Sinclair User)"
+	rom ( name "Skate Crazy (demo) (1988)(Gremlin Graphics Software - Sinclair User).tap" size 49016 crc 2405e0b0 md5 5769936bc2e1f659cea270e5ece4434b sha1 995f1d1929660e360e30ed1ef518d6ec98e0c85f )
+)
+
+game (
+	name "Skate or Die (demo) (1988)(Electronic Arts - Your Sinclair)"
+	description "Skate or Die (demo) (1988)(Electronic Arts - Your Sinclair)"
+	rom ( name "Skate or Die (demo) (1988)(Electronic Arts - Your Sinclair).tap" size 44579 crc 25edf27f md5 7a3de8f4bd63ad7cf8808927bf1526fd sha1 81caa6db023f13a7b96164d5156d22bfd4a7064d )
+)
+
+game (
+	name "Skateboard Stuntman (1984)(Sinclair Programs)[16K]"
+	description "Skateboard Stuntman (1984)(Sinclair Programs)[16K]"
+	rom ( name "Skateboard Stuntman (1984)(Sinclair Programs)[16K].tap" size 2595 crc 76f45d05 md5 830752716598be24b566c71bb0b30c64 sha1 eab76fcbc33cb0a2dcfe4dcb831bcb3596e60a85 )
+)
+
+game (
+	name "Ski Master (1985)(C&VG)"
+	description "Ski Master (1985)(C&VG)"
+	rom ( name "Ski Master (1985)(C&VG).tap" size 6851 crc e94817e3 md5 5d0a81c2b3c2fec5e97fb4147996a4ef sha1 1b0d7f6f6c4527073a9a16327c32ad85e60efce6 )
+)
+
+game (
+	name "Ski Run (1983)(ZX Computing)"
+	description "Ski Run (1983)(ZX Computing)"
+	rom ( name "Ski Run (1983)(ZX Computing).tap" size 2615 crc c735ed35 md5 4e5bb94c7c07a26ece0a42c575bc59a0 sha1 f51af687522d7b18a028840fd73d4ea3aa21278a )
+)
+
+game (
+	name "Ski Run (1983)(ZX Computing)(de)"
+	description "Ski Run (1983)(ZX Computing)(de)"
+	rom ( name "Ski Run (1983)(ZX Computing)(de).tap" size 2555 crc 4ecf3e82 md5 771ac1ef9bfef6bcce3fa6cc8319db67 sha1 ae996f7f35ec7c1d79881954251628d59f68f045 )
+)
+
+game (
+	name "Ski-Run (1983)(Sinclair User)[16K]"
+	description "Ski-Run (1983)(Sinclair User)[16K]"
+	rom ( name "Ski-Run (1983)(Sinclair User)[16K].tap" size 3374 crc e429d513 md5 e975631dc8b1ab3e749e21bd43984024 sha1 577d90201a7d5644f5cc6f022f288c62bb0555c5 )
+)
+
+game (
+	name "Snake (1984)(Sinclair User)[16K]"
+	description "Snake (1984)(Sinclair User)[16K]"
+	rom ( name "Snake (1984)(Sinclair User)[16K].tap" size 5496 crc b8ea04ca md5 d54beff3cd4950319be266c785bad0d2 sha1 ecb01b7de86eae524cb2041a53d6ce5b153a014c )
+)
+
+game (
+	name "Snake (1986)(Your Sinclair)[16K]"
+	description "Snake (1986)(Your Sinclair)[16K]"
+	rom ( name "Snake (1986)(Your Sinclair)[16K].tap" size 7566 crc 84a66f48 md5 b9523129212bd256f15fe3c7935bff71 sha1 35682b4e41af64fdeacf478fc9309d984ebcd140 )
+)
+
+game (
+	name "Snake Charmer (1984)(Sinclair User)[16K]"
+	description "Snake Charmer (1984)(Sinclair User)[16K]"
+	rom ( name "Snake Charmer (1984)(Sinclair User)[16K].tap" size 1827 crc c8e51d93 md5 69357bbda05c4d92a2756f73cec2ea88 sha1 cc546c69c426c4195e2d09582715281b3e1ec356 )
+)
+
+game (
+	name "Snakman (1983)(Your Computer)[16K]"
+	description "Snakman (1983)(Your Computer)[16K]"
+	rom ( name "Snakman (1983)(Your Computer)[16K].tap" size 6429 crc 688bd26e md5 b7f6aca13a93d43b703d3f2979df8670 sha1 a27583e64fc67999a0c91bfbaba1e41c17a8a39d )
+)
+
+game (
+	name "Snare (demo) (1992)(Beyond Belief - Sinclair User)[cr][48-128K]"
+	description "Snare (demo) (1992)(Beyond Belief - Sinclair User)[cr][48-128K]"
+	rom ( name "Snare (demo) (1992)(Beyond Belief - Sinclair User)[cr][48-128K].tap" size 20172 crc fb73e8ea md5 4110c12c6947f99b8772d8ef7ee86fa5 sha1 600d6e14903b405eb1165e064000ac5595786712 )
+)
+
+game (
+	name "Soccer Cup Quizmaster (1991)(Scope Designs - Crash)"
+	description "Soccer Cup Quizmaster (1991)(Scope Designs - Crash)"
+	rom ( name "Soccer Cup Quizmaster (1991)(Scope Designs - Crash).tap" size 48002 crc b5bcde58 md5 aa7bfe57be46367d58c712b5ae759b9e sha1 c7b16f3932a6de8cc8cf7618be514c022bcde9bb )
+)
+
+game (
+	name "Solador (1985)(MicroHobby)(es)"
+	description "Solador (1985)(MicroHobby)(es)"
+	rom ( name "Solador (1985)(MicroHobby)(es).tap" size 20234 crc 838f0942 md5 1ecb3d59c52269d187caf668c21ce5eb sha1 fde48d957cd7288778d88fc20fd2c409f0129a32 )
+)
+
+game (
+	name "Solaris (1989)(Hellenic Software - Sinclair User)"
+	description "Solaris (1989)(Hellenic Software - Sinclair User)"
+	rom ( name "Solaris (1989)(Hellenic Software - Sinclair User).tap" size 40744 crc 7fdf8ca9 md5 4d77699934f2f38f4bb1ab99219c6a75 sha1 390b0f83d77b6476e1a35efe0007e560bf21501e )
+)
+
+game (
+	name "Solaris II - Gunhed (1990)(Hellenic Software - Sinclair User)"
+	description "Solaris II - Gunhed (1990)(Hellenic Software - Sinclair User)"
+	rom ( name "Solaris II - Gunhed (1990)(Hellenic Software - Sinclair User).tap" size 47800 crc d1c99fb1 md5 fa750b54c4c3623b0da0d443d8f8fcb3 sha1 25c76097eef7e678ab958479173ac62e9166a537 )
+)
+
+game (
+	name "Soldier One (1993)(Beyond Belief - Your Sinclair)"
+	description "Soldier One (1993)(Beyond Belief - Your Sinclair)"
+	rom ( name "Soldier One (1993)(Beyond Belief - Your Sinclair).tap" size 30464 crc 85eef5b2 md5 7487a95f930b77cb55beaceb1740013f sha1 38e6fe7df56c4084487eddfcdaafa7db4f5837b3 )
+)
+
+game (
+	name "Space Defender (1983)(Spectrum Computing)[16K]"
+	description "Space Defender (1983)(Spectrum Computing)[16K]"
+	rom ( name "Space Defender (1983)(Spectrum Computing)[16K].tap" size 8080 crc df0a8ab2 md5 5266c9420b3de1c98d7ccc1fec9498cb sha1 fca930a0d49dee9b18c26a3c151beb1186fcef29 )
+)
+
+game (
+	name "Space Harrier II (demo) (1990)(Grandslam Entertainments - Sinclair User)"
+	description "Space Harrier II (demo) (1990)(Grandslam Entertainments - Sinclair User)"
+	rom ( name "Space Harrier II (demo) (1990)(Grandslam Entertainments - Sinclair User).tap" size 37404 crc f8cb4256 md5 99ff3c8d10b58efb7425e154df630d34 sha1 76844e77813535772458b62dfa49f92c51ee71d9 )
+)
+
+game (
+	name "Space Quest (1984)(Your Computer)"
+	description "Space Quest (1984)(Your Computer)"
+	rom ( name "Space Quest (1984)(Your Computer).tap" size 5212 crc 996a66b6 md5 c88df6d1a83bf69cc7b4f43c02d78905 sha1 239103e610d43b067bd17f48b1fc6d91666950b9 )
+)
+
+game (
+	name "Space Voyage (1984)(Sinclair Programs)[16K]"
+	description "Space Voyage (1984)(Sinclair Programs)[16K]"
+	rom ( name "Space Voyage (1984)(Sinclair Programs)[16K].tap" size 2315 crc c8027388 md5 6eca8d72d2e12d7eb9ef4893fe5658b4 sha1 f2629e7bdb74ab487e9ac4d3c06efe61f098ff29 )
+)
+
+game (
+	name "Space Worm (1991)(Psychaedelic Hedgehog Software - Crash)"
+	description "Space Worm (1991)(Psychaedelic Hedgehog Software - Crash)"
+	rom ( name "Space Worm (1991)(Psychaedelic Hedgehog Software - Crash).tap" size 47609 crc 4f64026a md5 57bd51821c788e99fb8fdb0d9a63ad59 sha1 5586df32b82813f50d2f3f9b89d9b712cbf85cc6 )
+)
+
+game (
+	name "Sparx (1984)(Sinclair User)[16K]"
+	description "Sparx (1984)(Sinclair User)[16K]"
+	rom ( name "Sparx (1984)(Sinclair User)[16K].tap" size 3641 crc 209eb833 md5 f973d7f655f92b6016f0b9c8dcac38c3 sha1 576e03c1e37aabc4a7cef7e971ca162376c320e9 )
+)
+
+game (
+	name "Specimen (1990)(Remsoft Arcade Designs - Crash)"
+	description "Specimen (1990)(Remsoft Arcade Designs - Crash)"
+	rom ( name "Specimen (1990)(Remsoft Arcade Designs - Crash).tap" size 45124 crc ce95724c md5 08f6ccfba71f6cf40e70e27f8e9858ed sha1 d8de9cb1a660ba8dfd08f2510b4cddf9aecaa781 )
+)
+
+game (
+	name "Specimen II - The Apple Quest (1991)(Remsoft Arcade Designs - Crash)"
+	description "Specimen II - The Apple Quest (1991)(Remsoft Arcade Designs - Crash)"
+	rom ( name "Specimen II - The Apple Quest (1991)(Remsoft Arcade Designs - Crash).tap" size 36990 crc 549bd6a9 md5 8fe1c33b218d6e42f5a1059d6ba7092f sha1 1f98b9f8d7bad03c66fa146a20bdb36843e06bfc )
+)
+
+game (
+	name "Specimen III - Demon Slayer (1992)(Psychaedelic Hedgehog Software - Sinclair User)"
+	description "Specimen III - Demon Slayer (1992)(Psychaedelic Hedgehog Software - Sinclair User)"
+	rom ( name "Specimen III - Demon Slayer (1992)(Psychaedelic Hedgehog Software - Sinclair User).tap" size 27581 crc daf87703 md5 181018b81a16b642abd3109bde48b76f sha1 1f6586f0e7eb8fc9df432de2134b4a3bba2eafe1 )
+)
+
+game (
+	name "Specimen IV - Termination (1992)(Psychaedelic Hedgehog Software - Sinclair User)[m]"
+	description "Specimen IV - Termination (1992)(Psychaedelic Hedgehog Software - Sinclair User)[m]"
+	rom ( name "Specimen IV - Termination (1992)(Psychaedelic Hedgehog Software - Sinclair User)[m].tap" size 32046 crc fa973ba4 md5 9d925285b5169511a6122c6e5ec7d3c9 sha1 c1525c28a066d799f755843db3386b1ae2759d95 )
+)
+
+game (
+	name "Spectrox (1987)(Load 'n' Run)(it)[aka Kirel]"
+	description "Spectrox (1987)(Load 'n' Run)(it)[aka Kirel]"
+	rom ( name "Spectrox (1987)(Load 'n' Run)(it)[aka Kirel].tap" size 36621 crc a7585517 md5 31ea9df3cbd4f5263b32751c791b4d48 sha1 018d7d28bea790f310e56a51fc7b47484413897a )
+)
+
+game (
+	name "Spectrum Chess (1982)(Sinclair User)[m Jim Waterman][16K]"
+	description "Spectrum Chess (1982)(Sinclair User)[m Jim Waterman][16K]"
+	rom ( name "Spectrum Chess (1982)(Sinclair User)[m Jim Waterman][16K].tap" size 4993 crc c2f8909f md5 50444681d68eab4bebe6959cd4426f71 sha1 ec433c276bf33ccab7219da3aecc824f388bdb84 )
+)
+
+game (
+	name "Spider Attack (1984)(Sinclair User)[16K]"
+	description "Spider Attack (1984)(Sinclair User)[16K]"
+	rom ( name "Spider Attack (1984)(Sinclair User)[16K].tap" size 6468 crc 20e0b010 md5 06101e8c8ebfbd84f22c463814e392dc sha1 9e4b7e47b3928cd90777c4b8b695907111c9785e )
+)
+
+game (
+	name "Spinvaders (1983)(Sinclair Programs)[16K]"
+	description "Spinvaders (1983)(Sinclair Programs)[16K]"
+	rom ( name "Spinvaders (1983)(Sinclair Programs)[16K].tap" size 5212 crc 25585344 md5 43ba7ffa1c9d5f68066a42dcb7441b20 sha1 4981e8959c8b8c60ceef43d6817a9c528d160eee )
+)
+
+game (
+	name "Spione, Lo (1985)(Load 'n' Run)(it)"
+	description "Spione, Lo (1985)(Load 'n' Run)(it)"
+	rom ( name "Spione, Lo (1985)(Load 'n' Run)(it).tap" size 40231 crc 3c96a75b md5 dcdc891b6634b0ba223b0ce67a1b6e27 sha1 95eb74ccf026d39523d6127d435e09128fa55630 )
+)
+
+game (
+	name "Starburst (1991)(Crash)"
+	description "Starburst (1991)(Crash)"
+	rom ( name "Starburst (1991)(Crash).tap" size 24817 crc abbecf9c md5 922558bb691f5d51a3633ef81af4936e sha1 9d7002798ceea5e2231ff14e91ad5bf62a490974 )
+)
+
+game (
+	name "Stellar Fighter (1984)(Sinclair User)"
+	description "Stellar Fighter (1984)(Sinclair User)"
+	rom ( name "Stellar Fighter (1984)(Sinclair User).tap" size 10437 crc 76caed9f md5 bd6cd6dc349c7a4cb79e2cb1647fcfab sha1 8d79a777cab01ddabe9f97363cba37ad5df6d23c )
+)
+
+game (
+	name "Stock Market (1984)(Your Spectrum)[16K]"
+	description "Stock Market (1984)(Your Spectrum)[16K]"
+	rom ( name "Stock Market (1984)(Your Spectrum)[16K].tap" size 7907 crc 45c69336 md5 1ab83d1e7e8e6055a7fe76c0d73f7da8 sha1 dcd026123bbaf4208b6a1b686e86882a03922c44 )
+)
+
+game (
+	name "Street Fighter (demo) (1988)(Go! - Sinclair User)"
+	description "Street Fighter (demo) (1988)(Go! - Sinclair User)"
+	rom ( name "Street Fighter (demo) (1988)(Go! - Sinclair User).tap" size 35827 crc c8200653 md5 708f0925f2740dfad696e3bb5c9466cb sha1 c4ef2d21c27abcdfb4975b05bf79601fa8a8f471 )
+)
+
+game (
+	name "Strip-Dice (1985)(Load 'n' Run)(it)"
+	description "Strip-Dice (1985)(Load 'n' Run)(it)"
+	rom ( name "Strip-Dice (1985)(Load 'n' Run)(it).tap" size 36738 crc 3547914c md5 23ca72cb05d7bda39ab6468483c9bf4f sha1 7e85e821f3c78e83954988e93ddc363e891242ee )
+)
+
+game (
+	name "Sub (1985)(Tutto Spectrum)(it)[aka Atlantis]"
+	description "Sub (1985)(Tutto Spectrum)(it)[aka Atlantis]"
+	rom ( name "Sub (1985)(Tutto Spectrum)(it)[aka Atlantis].tap" size 26932 crc 6471bda7 md5 ecc45bf1c5dfe0b15f8ba27e900459a2 sha1 3c29d65b4a3ffcf708346764947147f387149a7b )
+)
+
+game (
+	name "Submarine (1983)(Sinclair Programs)[16K]"
+	description "Submarine (1983)(Sinclair Programs)[16K]"
+	rom ( name "Submarine (1983)(Sinclair Programs)[16K].tap" size 4874 crc 39c9cbe3 md5 e773409fb2fe2062629ebc9fb3db46f4 sha1 47b30d9dc42b9f291bd0bdf76f76cae58a484d66 )
+)
+
+game (
+	name "Super Fruit Machine (1992)(Sinclair User)"
+	description "Super Fruit Machine (1992)(Sinclair User)"
+	rom ( name "Super Fruit Machine (1992)(Sinclair User).tap" size 31605 crc 7aff17e3 md5 9aaed6bba3246dc1ed96a07b323569c9 sha1 fe3618c1207b4686400be2686844328a6b857f42 )
+)
+
+game (
+	name "Superman-Olo (1989)(MicroHobby)(es)"
+	description "Superman-Olo (1989)(MicroHobby)(es)"
+	rom ( name "Superman-Olo (1989)(MicroHobby)(es).tap" size 13472 crc 174c4d6c md5 fcfc444f90d53e680b1243d8f1024ef2 sha1 fde40b6de13a3a2214a6424d965c18096a93219e )
+)
+
+game (
+	name "Supervivencia - El Firfurcio (1988)(MicroHobby)(es)"
+	description "Supervivencia - El Firfurcio (1988)(MicroHobby)(es)"
+	rom ( name "Supervivencia - El Firfurcio (1988)(MicroHobby)(es).tap" size 37364 crc c7f5990f md5 91eb617dc11c1c087c17b71737449fe6 sha1 8157943f46ccdc362608b45415979d41e167d6e6 )
+)
+
+game (
+	name "Surface Tension (1990)(Crash)[t]"
+	description "Surface Tension (1990)(Crash)[t]"
+	rom ( name "Surface Tension (1990)(Crash)[t].tap" size 35246 crc d45d3af5 md5 d08ea7424f4e4acf5722b49f68717a14 sha1 b17a50806cf02ca7feff4362aa9b93bf42ac5e7d )
+)
+
+game (
+	name "Switchblade (demo) (1991)(Gremlin Graphics Software - Your Sinclair)"
+	description "Switchblade (demo) (1991)(Gremlin Graphics Software - Your Sinclair)"
+	rom ( name "Switchblade (demo) (1991)(Gremlin Graphics Software - Your Sinclair).tap" size 25183 crc 6edfb209 md5 7f461ed4ce71a2ec1451991f7c182324 sha1 9471a98e195fee740c0a3fc28152597f9683fbb6 )
+)
+
+game (
+	name "Talisman (1991)(Crash)"
+	description "Talisman (1991)(Crash)"
+	rom ( name "Talisman (1991)(Crash).tap" size 32491 crc 1a611125 md5 677e45c1e0d286e14805a2325fc9c7de sha1 baa783eecc73917a7338b93bcc24414b05a47057 )
+)
+
+game (
+	name "Talking Hedz (1990)(Hellenic Software - Crash)"
+	description "Talking Hedz (1990)(Hellenic Software - Crash)"
+	rom ( name "Talking Hedz (1990)(Hellenic Software - Crash).tap" size 32831 crc 2eb29e71 md5 548244b683d0d33cba881e6a7b092940 sha1 10699f296fc563f5c9977ec1be574fe7af649bce )
+)
+
+game (
+	name "Tanker (1983)(C&VG)[16K]"
+	description "Tanker (1983)(C&VG)[16K]"
+	rom ( name "Tanker (1983)(C&VG)[16K].tap" size 3931 crc 6c34ed7d md5 b0ae8b3133eb341f3f76e56dae0f4506 sha1 7d6e2b785ed750de0ef33fcb8f68961f9d539811 )
+)
+
+game (
+	name "Tapeworm (1986)(Your Computer)"
+	description "Tapeworm (1986)(Your Computer)"
+	rom ( name "Tapeworm (1986)(Your Computer).tap" size 3497 crc f39daf8f md5 7cbfa0b15311f20fe163fdb3ea81a2b0 sha1 f33d20d0290277f36179acebc40d4907996c44d2 )
+)
+
+game (
+	name "Tejon (1985)(Load 'n' Run)(es)[aka Wanted! Monty Mole]"
+	description "Tejon (1985)(Load 'n' Run)(es)[aka Wanted! Monty Mole]"
+	rom ( name "Tejon (1985)(Load 'n' Run)(es)[aka Wanted! Monty Mole].tap" size 52276 crc fbee9dc7 md5 c285f349d8507437f38149de33a56c21 sha1 ce1aba4f3c61fef99a0e71ce0a3115c5268f5a07 )
+)
+
+game (
+	name "Templo Maldito, El (1984)(Micromania)(es)"
+	description "Templo Maldito, El (1984)(Micromania)(es)"
+	rom ( name "Templo Maldito, El (1984)(Micromania)(es).tap" size 15844 crc 7ef5a3d9 md5 17dcbd48861872f3b00ed20bc4f0f285 sha1 57ba12cacde2d6a67edbfe634fe2ebc654b15c7f )
+)
+
+game (
+	name "Terrapin (1985)(Your Computer)[16K]"
+	description "Terrapin (1985)(Your Computer)[16K]"
+	rom ( name "Terrapin (1985)(Your Computer)[16K].tap" size 5308 crc 3a00c51a md5 2cb9cf548313980ce2baacf8bb4168d3 sha1 27d60e835c2aed2c23e6cdf0570af07ee0035cc1 )
+)
+
+game (
+	name "Test Drive II - The Duel (demo) (1989)(Accolade - Crash)"
+	description "Test Drive II - The Duel (demo) (1989)(Accolade - Crash)"
+	rom ( name "Test Drive II - The Duel (demo) (1989)(Accolade - Crash).tap" size 46150 crc 0311a03a md5 84bdf0d1496a8337c61d55eca2858252 sha1 22421d4684ab7a225afeed3e463309eff2d1a1a7 )
+)
+
+game (
+	name "Thompson Twins Adventure, The (1984)(Quicksilva - C&VG)"
+	description "Thompson Twins Adventure, The (1984)(Quicksilva - C&VG)"
+	rom ( name "Thompson Twins Adventure, The (1984)(Quicksilva - C&VG).tap" size 38723 crc dea338b6 md5 9e55fa573c0096967e8869ae5f1e10cb sha1 18ba12ce3c13a11c08dceae2da9d8a6471c2d35d )
+)
+
+game (
+	name "Thunder Jaws (demo) (1991)(Domark - Crash)"
+	description "Thunder Jaws (demo) (1991)(Domark - Crash)"
+	rom ( name "Thunder Jaws (demo) (1991)(Domark - Crash).tap" size 44747 crc 1317ff5a md5 d699bd3ee9833651a5d1f5c858468331 sha1 d76a719ddba4907616bbf1b63df726bf9af6dbb1 )
+)
+
+game (
+	name "Timber! (1985)(Your Computer)"
+	description "Timber! (1985)(Your Computer)"
+	rom ( name "Timber! (1985)(Your Computer).tap" size 5408 crc be07d6ac md5 e36aaad9171c5850f56c1f30719755b6 sha1 c823888d34bc902af8374c715d8488b728fc2bdb )
+)
+
+game (
+	name "Time Switch (1983)(Your Computer)"
+	description "Time Switch (1983)(Your Computer)"
+	rom ( name "Time Switch (1983)(Your Computer).tap" size 9390 crc 8c37f8cd md5 c49b454a541d26c4985744c708b72f6b sha1 a0e5c1d7aeac098827d607a1aca8d6aa71307ee0 )
+)
+
+game (
+	name "Tiro de Pichon (1985)(MicroHobby)(es)"
+	description "Tiro de Pichon (1985)(MicroHobby)(es)"
+	rom ( name "Tiro de Pichon (1985)(MicroHobby)(es).tap" size 15107 crc 73c958fa md5 559b7919de10fc3495e41d2b9f1fe658 sha1 3828302a5f10657ced929d8080c1599aff9ceb11 )
+)
+
+game (
+	name "Toady (1983)(Spectrum Computing)[16K]"
+	description "Toady (1983)(Spectrum Computing)[16K]"
+	rom ( name "Toady (1983)(Spectrum Computing)[16K].tap" size 7358 crc 75a664d5 md5 1f6564d65f417d278c3fae3bdc85a280 sha1 a43e43762e3e1d11468cee9600ead53c497f972c )
+)
+
+game (
+	name "Top Fruit Machine, The (1991)(Your Sinclair)"
+	description "Top Fruit Machine, The (1991)(Your Sinclair)"
+	rom ( name "Top Fruit Machine, The (1991)(Your Sinclair).tap" size 42371 crc 4c4d624d md5 40f3433b2079e9d7f3e53efdbf8bfc03 sha1 b7cd9ab015e03df63d937a043e326d8529b4298b )
+)
+
+game (
+	name "Top Fruit Machine, The (1991)(Your Sinclair)[a]"
+	description "Top Fruit Machine, The (1991)(Your Sinclair)[a]"
+	rom ( name "Top Fruit Machine, The (1991)(Your Sinclair)[a].tap" size 42298 crc bde3164a md5 8950e70ee6241682e1ab6e84ed186c89 sha1 fd34d8a80d106f2ba344a5913998d0232967bc21 )
+)
+
+game (
+	name "Top Fruit Machine, The (1991)(Your Sinclair)[cr]"
+	description "Top Fruit Machine, The (1991)(Your Sinclair)[cr]"
+	rom ( name "Top Fruit Machine, The (1991)(Your Sinclair)[cr].tap" size 29365 crc f03e57da md5 fefb2c43b1f22b297b45b36f82d8458f sha1 f9ecccd202789fb979fc6fae8d67cfda02a29099 )
+)
+
+game (
+	name "Top Secret (1986)(Load 'n' Run)(es)"
+	description "Top Secret (1986)(Load 'n' Run)(es)"
+	rom ( name "Top Secret (1986)(Load 'n' Run)(es).tap" size 50777 crc ae196a19 md5 67bedce4b0385079af45d0cd1f9b0359 sha1 a85173c468405ed21cae3624c6b4f4de67c2275b )
+)
+
+game (
+	name "Top Secret (1986)(ZX Magazine)(es)"
+	description "Top Secret (1986)(ZX Magazine)(es)"
+	rom ( name "Top Secret (1986)(ZX Magazine)(es).tap" size 7295 crc b7ba8e89 md5 9d89f2f2d4f23dab798ceb2b8d677177 sha1 ecbf2fd43c91362149baca2d5d79a84f54ea87bc )
+)
+
+game (
+	name "Torre Embrujada, La (1986)(Load 'n' Run)(es)[aka Tower of Evil]"
+	description "Torre Embrujada, La (1986)(Load 'n' Run)(es)[aka Tower of Evil]"
+	rom ( name "Torre Embrujada, La (1986)(Load 'n' Run)(es)[aka Tower of Evil].tap" size 19634 crc 7d1bf8ca md5 56d9776b13807876bdcbc67be0014cfb sha1 282951374446ff590d6bdfa90bd7abcddbbc7813 )
+)
+
+game (
+	name "Total Eclipse (demo) (1988)(Incentive Software - Crash)[cr Andrew][t]"
+	description "Total Eclipse (demo) (1988)(Incentive Software - Crash)[cr Andrew][t]"
+	rom ( name "Total Eclipse (demo) (1988)(Incentive Software - Crash)[cr Andrew][t].tap" size 38319 crc 132acc2f md5 9049caca712f96f8f9934eb7d1e08aed sha1 f6f2479ad6f00812832dd5b06fc8f167cdbc1d0f )
+)
+
+game (
+	name "Tower of Doors, The (1986)(Sinclair User)"
+	description "Tower of Doors, The (1986)(Sinclair User)"
+	rom ( name "Tower of Doors, The (1986)(Sinclair User).tap" size 9415 crc 419815f9 md5 3034bf7d9dc9f4f9cb3e6fa6f41992fb sha1 c75a161078c06b23313d726f5164d8c101adf983 )
+)
+
+game (
+	name "Trailer II (1993)(Enigma Variations - Your Sinclair)[48-128K]"
+	description "Trailer II (1993)(Enigma Variations - Your Sinclair)[48-128K]"
+	rom ( name "Trailer II (1993)(Enigma Variations - Your Sinclair)[48-128K].tap" size 4009 crc 31024ff8 md5 b24258a4d5086e08d420799b1649faee sha1 238ea0b718992bf476888277b56221497e13ef99 )
+)
+
+game (
+	name "Tree Eaters (1984)(Sinclair Programs)[16K]"
+	description "Tree Eaters (1984)(Sinclair Programs)[16K]"
+	rom ( name "Tree Eaters (1984)(Sinclair Programs)[16K].tap" size 4678 crc aa4dc563 md5 ea13fa0c4b2d63a1c15e33b2db9cbb07 sha1 d210bdf8d522235e156fde434447d8a4bb34efe2 )
+)
+
+game (
+	name "Tubewar (1983)(Your Computer)[16K]"
+	description "Tubewar (1983)(Your Computer)[16K]"
+	rom ( name "Tubewar (1983)(Your Computer)[16K].tap" size 5443 crc 2a0563f4 md5 97d06527851ee769c9e05d1f65fda904 sha1 112a5cc18949bd2a9e3152846c5b97d70df994c3 )
+)
+
+game (
+	name "Tug of War (1983)(Sinclair User)[16K]"
+	description "Tug of War (1983)(Sinclair User)[16K]"
+	rom ( name "Tug of War (1983)(Sinclair User)[16K].tap" size 1827 crc 0cb79330 md5 f4d018ed41bf137c2793adacd038d2dd sha1 d2d7ea80fd14a79a745c023d3f0c5238d36b8dbb )
+)
+
+game (
+	name "Tumba de Ellak, La (1985)(Spectrum Computing)(es)"
+	description "Tumba de Ellak, La (1985)(Spectrum Computing)(es)"
+	rom ( name "Tumba de Ellak, La (1985)(Spectrum Computing)(es).tap" size 38910 crc 4a65477c md5 e292988c95ef2eb4c96dedbd4aac3eea sha1 18bfa0f548471f8d1aba30e29e74d60521bc3fc6 )
+)
+
+game (
+	name "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[48-128K]"
+	description "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[48-128K]"
+	rom ( name "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[48-128K].tap" size 49664 crc afa0fb91 md5 18c4094d375b8c21be6206bffcfa82fc sha1 3fe5542784335ad7d668acddcb85831b7de6a219 )
+)
+
+game (
+	name "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[a][48-128K]"
+	description "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[a][48-128K]"
+	rom ( name "Turrican II - The Final Fight (demo) (1991)(Rainbow Arts - Crash)[a][48-128K].tap" size 54955 crc b91ce582 md5 43a444ec0ec0c401a18839f436562e77 sha1 9820af6dba43563e0598cee2065896589d8be378 )
+)
+
+game (
+	name "Twinz! (1991)(Hellenic Software - Sinclair User)[48-128K]"
+	description "Twinz! (1991)(Hellenic Software - Sinclair User)[48-128K]"
+	rom ( name "Twinz! (1991)(Hellenic Software - Sinclair User)[48-128K].tap" size 47305 crc 0964b637 md5 818935dbb0e31ad310616d357ded9ed8 sha1 a9ee36523ae5dfd877992061cbf19c22eb33fc3d )
+)
+
+game (
+	name "Ultimate Warrior (1989)(Airline Software - Crash)"
+	description "Ultimate Warrior (1989)(Airline Software - Crash)"
+	rom ( name "Ultimate Warrior (1989)(Airline Software - Crash).tap" size 37855 crc 19648a42 md5 7148884190322760250ce9c52318e782 sha1 aef97330c1c615e7e76badf4337e68e449d57550 )
+)
+
+game (
+	name "Uve Atac - Cosme y los Alienigenas (1985)(MicroHobby)(es)"
+	description "Uve Atac - Cosme y los Alienigenas (1985)(MicroHobby)(es)"
+	rom ( name "Uve Atac - Cosme y los Alienigenas (1985)(MicroHobby)(es).tap" size 17979 crc 78f60aea md5 25000c27fed73bd8d3ab82c624591571 sha1 0e06696b1235f633c5eb47ce1acedd43544b8e64 )
+)
+
+game (
+	name "Virus (demo) (1988)(Firebird Software - Sinclair User)"
+	description "Virus (demo) (1988)(Firebird Software - Sinclair User)"
+	rom ( name "Virus (demo) (1988)(Firebird Software - Sinclair User).tap" size 35517 crc d1b3d2bd md5 10fa72ac84922274f86a528ab02dd702 sha1 d493516612ed3f25d623afe9bd2d67cfe6e8e61c )
+)
+
+game (
+	name "War Game (1985)(MicroHobby)(es)"
+	description "War Game (1985)(MicroHobby)(es)"
+	rom ( name "War Game (1985)(MicroHobby)(es).tap" size 17727 crc bc48b626 md5 ba4642fbca2dc2af7e58f5a021e7040d sha1 f4be94d4e90f849c58d1eb25dfe611780b02e09e )
+)
+
+game (
+	name "War of the Roses, The (demo) (1991)(CCS - Your Sinclair)"
+	description "War of the Roses, The (demo) (1991)(CCS - Your Sinclair)"
+	rom ( name "War of the Roses, The (demo) (1991)(CCS - Your Sinclair).tap" size 33822 crc 5ef2ba34 md5 149636bcf8338f34b086485e56274e68 sha1 c64e1de1b46f2b511dc3932bfcd75c1742fc20ef )
+)
+
+game (
+	name "Web Runner (1984)(Sinclair Programs)[16K]"
+	description "Web Runner (1984)(Sinclair Programs)[16K]"
+	rom ( name "Web Runner (1984)(Sinclair Programs)[16K].tap" size 2468 crc c064d905 md5 d5a32795b51cca2438044b1d4f48bd12 sha1 53f160aacf119beb581ad4a4ff0eb17c399328d3 )
+)
+
+game (
+	name "Weedkiller (1983)(Your Computer)[16K]"
+	description "Weedkiller (1983)(Your Computer)[16K]"
+	rom ( name "Weedkiller (1983)(Your Computer)[16K].tap" size 4257 crc 7bdd3a2b md5 47af20b4eb60e4f3f8b1e912e88f5bc5 sha1 7fb6f095bf227da472bdfd07da32087317c0cd9f )
+)
+
+game (
+	name "Wizard, The (1984)(Sinclair User)[16K]"
+	description "Wizard, The (1984)(Sinclair User)[16K]"
+	rom ( name "Wizard, The (1984)(Sinclair User)[16K].tap" size 7607 crc 194f1aaa md5 b547175248fb9c1d5e510482e69bcf97 sha1 6340b539c7a3082da8dfd9f53a6fedf96e96b1a6 )
+)
+
+game (
+	name "Worm (1983)(Sinclair Programs)[16K]"
+	description "Worm (1983)(Sinclair Programs)[16K]"
+	rom ( name "Worm (1983)(Sinclair Programs)[16K].tap" size 8313 crc 8bb4faf6 md5 f3615bf0dd05fcad2634e3ba8ae5a451 sha1 cee70ee3c227cfba2c95fcad165f847df15fca33 )
+)
+
+game (
+	name "Xenon (demo) (1988)(Melbourne House - Sinclair User)[48-128K]"
+	description "Xenon (demo) (1988)(Melbourne House - Sinclair User)[48-128K]"
+	rom ( name "Xenon (demo) (1988)(Melbourne House - Sinclair User)[48-128K].tap" size 47414 crc 9900060f md5 b22dfdb594864e8bddaec608cb7b0173 sha1 87cb1a9f517dcc1ba3c1c9ee44556eb60507f78c )
+)
+
+game (
+	name "Your Sinclair - Issue 40 - Smash Tape 16 - Practical Pokes (1989)(Your Sinclair)"
+	description "Your Sinclair - Issue 40 - Smash Tape 16 - Practical Pokes (1989)(Your Sinclair)"
+	rom ( name "Your Sinclair - Issue 40 - Smash Tape 16 - Practical Pokes (1989)(Your Sinclair).tap" size 19116 crc b340d4a1 md5 8bc74a7276c17713a555cb2cd23f126b sha1 3d45dc48b72b27f06bda5f008e20e1c46658777f )
+)
+
+game (
+	name "Your Sinclair - Issue 86 - Beaut Box 1 - Practical Pokes (1993)(Your Sinclair)"
+	description "Your Sinclair - Issue 86 - Beaut Box 1 - Practical Pokes (1993)(Your Sinclair)"
+	rom ( name "Your Sinclair - Issue 86 - Beaut Box 1 - Practical Pokes (1993)(Your Sinclair).tap" size 8351 crc 7792e88a md5 7bb86b7617de403e4697a31daae0ec73 sha1 1f8e6f860c0e7b51e6907e0e3af0cd1bf46a55f3 )
+)
+
+game (
+	name "Your Sinclair - Issue 87 - Beaut Box 2 - Practical Pokes (1993)(Your Sinclair)"
+	description "Your Sinclair - Issue 87 - Beaut Box 2 - Practical Pokes (1993)(Your Sinclair)"
+	rom ( name "Your Sinclair - Issue 87 - Beaut Box 2 - Practical Pokes (1993)(Your Sinclair).tap" size 9674 crc 32782502 md5 9ee2a58c2af3d529b659788f54622642 sha1 ef9bdb22976d59930c8f2b197548b7516981eb4f )
+)
+
+game (
+	name "Your Sinclair - Issue 88 - Beaut Box 3 - Practical Pokes (1993)(Your Sinclair)"
+	description "Your Sinclair - Issue 88 - Beaut Box 3 - Practical Pokes (1993)(Your Sinclair)"
+	rom ( name "Your Sinclair - Issue 88 - Beaut Box 3 - Practical Pokes (1993)(Your Sinclair).tap" size 7898 crc 442c5809 md5 91b2f2c76db225827f7b70c92ab43b82 sha1 8e84b9ebef9eb90c49e75e4ec5b4ff02c0c15656 )
+)
+
+game (
+	name "Your Sinclair - Issue 89 - Beaut Box 4 - Practical Pokes (1993)(Your Sinclair)"
+	description "Your Sinclair - Issue 89 - Beaut Box 4 - Practical Pokes (1993)(Your Sinclair)"
+	rom ( name "Your Sinclair - Issue 89 - Beaut Box 4 - Practical Pokes (1993)(Your Sinclair).tap" size 7926 crc 63451fa6 md5 8957344676bc9e4fd100b7ed1e79d814 sha1 1da520a4a2a6cb06b729e40eb1e328a2690e1680 )
+)
+
+game (
+	name "Your Sinclair Digitape - Issue 09 (19xx)(Your Sinclair)"
+	description "Your Sinclair Digitape - Issue 09 (19xx)(Your Sinclair)"
+	rom ( name "Your Sinclair Digitape - Issue 09 (19xx)(Your Sinclair).tap" size 66711 crc 5adbe52e md5 8d4a7b3cfa37885f54d9db14bfdae22c sha1 5421741f12fabd035adc156fbfbc36eeb41078da )
+)
+
+game (
+	name "YS Capers (1990)(Your Sinclair)"
+	description "YS Capers (1990)(Your Sinclair)"
+	rom ( name "YS Capers (1990)(Your Sinclair).tap" size 21639 crc 08a71abd md5 207c1cf4bd9aecb48e2b13ee76b7d822 sha1 c9642b5e6d1b7bd93059c5d0c8daa570fdfef8ef )
+)
+
+game (
+	name "Yucan (1989)(MicroHobby)"
+	description "Yucan (1989)(MicroHobby)"
+	rom ( name "Yucan (1989)(MicroHobby).tap" size 57764 crc 65bf43c4 md5 9b6c44f3994edc4cb38c6cae51cef523 sha1 cc5510f3e3e666f5f315885414b9e5f9cf6b54a9 )
+)
+
+game (
+	name "Zarjas (1988)(Sinclair User)"
+	description "Zarjas (1988)(Sinclair User)"
+	rom ( name "Zarjas (1988)(Sinclair User).tap" size 30384 crc a90b41ba md5 1912921f652533b15295e5103bba6be1 sha1 03a9de2e1262b65a999496e7364e6dfd65a2d12e )
+)
+
+game (
+	name "Zio Tom, Lo (1985)(Special Program)(it)[a][aka Super Sam]"
+	description "Zio Tom, Lo (1985)(Special Program)(it)[a][aka Super Sam]"
+	rom ( name "Zio Tom, Lo (1985)(Special Program)(it)[a][aka Super Sam].tap" size 48744 crc 1e44add8 md5 9960918682b3aaf0e20714b1a4bc8c45 sha1 549fa6018ca31b59c8058fcb94b275bce319f67a )
+)
+
+game (
+	name "Zio Tom, Lo (1985)(Special Program)(it)[aka Super Sam]"
+	description "Zio Tom, Lo (1985)(Special Program)(it)[aka Super Sam]"
+	rom ( name "Zio Tom, Lo (1985)(Special Program)(it)[aka Super Sam].tap" size 49152 crc 76e18b41 md5 4e3d93974a306e0a1f4646e1d4745c97 sha1 34672e569c53c2358c9af89d2ac3e0e58c8f96eb )
+)
+
+game (
+	name "ZX Defender (1983)(Sinclair Programs)[16K]"
+	description "ZX Defender (1983)(Sinclair Programs)[16K]"
+	rom ( name "ZX Defender (1983)(Sinclair Programs)[16K].tap" size 4957 crc f249e891 md5 d9515f6524b347af60db4191acc467e2 sha1 a7e7e1cf9d64d91e51e60b1f2d70f24e80642cc3 )
+)
+

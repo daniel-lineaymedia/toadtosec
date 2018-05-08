@@ -1,0 +1,139 @@
+clrmamepro (
+	name "Acorn BBC - Multimedia - [ADL]"
+	description "Acorn BBC - Multimedia - [ADL] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Multimedia - [ADL]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Plato Republic (19xx)(-)(PD)(Disk 1 of 2)[h 8-Bit][ADFS]"
+	description "Plato Republic (19xx)(-)(PD)(Disk 1 of 2)[h 8-Bit][ADFS]"
+	rom ( name "Plato Republic (19xx)(-)(PD)(Disk 1 of 2)[h 8-Bit][ADFS].adl" size 655360 crc c8f954cf md5 83fe3f7a2de005a4911bdff9632d05e1 )
+)
+
+game (
+	name "Plato Republic (19xx)(-)(PD)(Disk 2 of 2)[h 8-Bit][ADFS]"
+	description "Plato Republic (19xx)(-)(PD)(Disk 2 of 2)[h 8-Bit][ADFS]"
+	rom ( name "Plato Republic (19xx)(-)(PD)(Disk 2 of 2)[h 8-Bit][ADFS].adl" size 655360 crc 2c3144eb md5 46ce256486296cc6c48a059334cdeab7 )
+)
+
+game (
+	name "Printout of Humour (19xx)(-)(Disk 1 of 2)[h][ADFS]"
+	description "Printout of Humour (19xx)(-)(Disk 1 of 2)[h][ADFS]"
+	rom ( name "Printout of Humour (19xx)(-)(Disk 1 of 2)[h][ADFS].adl" size 655360 crc 06c46bfd md5 3136cad84910c640fec767c0cfb089f0 )
+)
+
+game (
+	name "Printout of Humour (19xx)(-)(Disk 2 of 2)[h][ADFS]"
+	description "Printout of Humour (19xx)(-)(Disk 2 of 2)[h][ADFS]"
+	rom ( name "Printout of Humour (19xx)(-)(Disk 2 of 2)[h][ADFS].adl" size 655360 crc 798776de md5 60eeb44eb0aee454a8caa371dbcf3953 )
+)
+
+game (
+	name "Slide Show - 8-Bit Software Roll 1 (19xx)(8-Bit)[ADFS]"
+	description "Slide Show - 8-Bit Software Roll 1 (19xx)(8-Bit)[ADFS]"
+	rom ( name "Slide Show - 8-Bit Software Roll 1 (19xx)(8-Bit)[ADFS].adl" size 655360 crc f9271872 md5 2b1911d6f6a5d2d647915da757b9c4b9 )
+)
+
+game (
+	name "Slide Show - 8-Bit Software Roll 2 (19xx)(8-Bit)[ADFS]"
+	description "Slide Show - 8-Bit Software Roll 2 (19xx)(8-Bit)[ADFS]"
+	rom ( name "Slide Show - 8-Bit Software Roll 2 (19xx)(8-Bit)[ADFS].adl" size 655360 crc 49c86da4 md5 83dcedb3e38486b6642a87b24f16b4a6 )
+)
+
+game (
+	name "Slide Show - ADFS Pictures 1 (19xx)(8-Bit)[ADFS]"
+	description "Slide Show - ADFS Pictures 1 (19xx)(8-Bit)[ADFS]"
+	rom ( name "Slide Show - ADFS Pictures 1 (19xx)(8-Bit)[ADFS].adl" size 655360 crc f265fe38 md5 e6cf75341aa7dc5339446cc38abc481d )
+)
+
+game (
+	name "Slide Show - ADFS Pictures 2 (19xx)(8-Bit)[ADFS]"
+	description "Slide Show - ADFS Pictures 2 (19xx)(8-Bit)[ADFS]"
+	rom ( name "Slide Show - ADFS Pictures 2 (19xx)(8-Bit)[ADFS].adl" size 655360 crc e7227a5c md5 89e534cb13fbc0420d01597d24fa1743 )
+)
+
+game (
+	name "Slide Show - Page 3 Pictures (19xx)(-)[ADFS]"
+	description "Slide Show - Page 3 Pictures (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Page 3 Pictures (19xx)(-)[ADFS].adl" size 655360 crc d3fe65e5 md5 672664501cd27d274bc418105de627e9 )
+)
+
+game (
+	name "Slide Show - Phoibos Graphics (1991)(-)[ADFS]"
+	description "Slide Show - Phoibos Graphics (1991)(-)[ADFS]"
+	rom ( name "Slide Show - Phoibos Graphics (1991)(-)[ADFS].adl" size 655360 crc d88618cd md5 0039f1d1516965c1ee8a0d9ef39692e3 )
+)
+
+game (
+	name "Slide Show - Ren & Stimpy 1 (19xx)(-)[ADFS]"
+	description "Slide Show - Ren & Stimpy 1 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Ren & Stimpy 1 (19xx)(-)[ADFS].adl" size 655360 crc ca7b9213 md5 d0b7a512ed26138a23df0f27833a7440 )
+)
+
+game (
+	name "Slide Show - Ren & Stimpy 2 (19xx)(-)[ADFS]"
+	description "Slide Show - Ren & Stimpy 2 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Ren & Stimpy 2 (19xx)(-)[ADFS].adl" size 655360 crc b22dae80 md5 24433d3dba00f4c5ccdfe6f9d5653b56 )
+)
+
+game (
+	name "Slide Show - Ren & Stimpy 3 (19xx)(-)[ADFS]"
+	description "Slide Show - Ren & Stimpy 3 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Ren & Stimpy 3 (19xx)(-)[ADFS].adl" size 655360 crc 740ce342 md5 1cf3817ad572b1e2a3a8ed811eeaf48b )
+)
+
+game (
+	name "Slide Show - Rogues Gallery (19xx)(8-Bit)[ADFS]"
+	description "Slide Show - Rogues Gallery (19xx)(8-Bit)[ADFS]"
+	rom ( name "Slide Show - Rogues Gallery (19xx)(8-Bit)[ADFS].adl" size 655360 crc 536c67da md5 396bd8e65f555f94ad8f9272ba18d276 )
+)
+
+game (
+	name "Slide Show - Time Cop Pictures (19xx)(-)[ADFS]"
+	description "Slide Show - Time Cop Pictures (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Time Cop Pictures (19xx)(-)[ADFS].adl" size 655360 crc b0cbabee md5 6de9875f62fd8349b771c26732ebd42f )
+)
+
+game (
+	name "Slide Show - Wapping Editor Pictures 1 (19xx)(-)[ADFS]"
+	description "Slide Show - Wapping Editor Pictures 1 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Wapping Editor Pictures 1 (19xx)(-)[ADFS].adl" size 655360 crc c877351c md5 0539fa6cc0b88a82fbe85c0b7fdd1b78 )
+)
+
+game (
+	name "Slide Show - Wapping Editor Pictures 2 (19xx)(-)[ADFS]"
+	description "Slide Show - Wapping Editor Pictures 2 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show - Wapping Editor Pictures 2 (19xx)(-)[ADFS].adl" size 655360 crc 63eb1916 md5 9f3609e0c360ec410467e6a1e2df480d )
+)
+
+game (
+	name "Slide Show 16 (19xx)(-)[ADFS]"
+	description "Slide Show 16 (19xx)(-)[ADFS]"
+	rom ( name "Slide Show 16 (19xx)(-)[ADFS].adl" size 655360 crc 8e2bd9d5 md5 2beba7181033c297561b1b2462749cda )
+)
+
+game (
+	name "Slimmer Recipes (19xx)(-)[ADFS]"
+	description "Slimmer Recipes (19xx)(-)[ADFS]"
+	rom ( name "Slimmer Recipes (19xx)(-)[ADFS].adl" size 655360 crc 45d784ce md5 fb434a8822aafd92e15c469bb6fe7aa9 )
+)
+
+game (
+	name "Sound Samples 1 (19xx)(Richardson, C.J.)[ADFS]"
+	description "Sound Samples 1 (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "Sound Samples 1 (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc 4078352a md5 96105173e75e1f8e4150dfd476138fe6 )
+)
+
+game (
+	name "Sound Samples 2 (19xx)(Richardson, C.J.)[ADFS]"
+	description "Sound Samples 2 (19xx)(Richardson, C.J.)[ADFS]"
+	rom ( name "Sound Samples 2 (19xx)(Richardson, C.J.)[ADFS].adl" size 655360 crc 07e170d7 md5 de101f923fa6819f2382a4cafd10bf91 )
+)
+
+game (
+	name "What Is Man by Mark Twain (19xx)(-)(PD)[h 8-Bit][ADFS]"
+	description "What Is Man by Mark Twain (19xx)(-)(PD)[h 8-Bit][ADFS]"
+	rom ( name "What Is Man by Mark Twain (19xx)(-)(PD)[h 8-Bit][ADFS].adl" size 655360 crc 05c810bf md5 a4b30d1ce03564af18f1db2a2c585f9b )
+)

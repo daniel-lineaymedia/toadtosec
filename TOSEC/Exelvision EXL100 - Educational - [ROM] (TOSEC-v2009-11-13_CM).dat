@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Exelvision EXL100 - Educational - [ROM]"
+	description "Exelvision EXL100 - Educational - [ROM] (TOSEC-v2009-11-13)"
+	category "Exelvision EXL100 - Educational - [ROM]"
+	version 2009-11-13
+	author "TKaos"
+)
+
+game (
+	name "Imagix (198x)(Exelvision)(FR)"
+	description "Imagix (198x)(Exelvision)(FR)"
+	rom ( name "Imagix (198x)(Exelvision)(FR).rom" size 8192 crc e5aa6d0b md5 8936b25299238dd39baa09e1770aae9d )
+)
+
+game (
+	name "Quizzy (198x)(Exelvision)(FR)"
+	description "Quizzy (198x)(Exelvision)(FR)"
+	rom ( name "Quizzy (198x)(Exelvision)(FR).rom" size 16384 crc 162b7584 md5 9cee8a3d2f296c2c179fcc11bb309946 )
+)

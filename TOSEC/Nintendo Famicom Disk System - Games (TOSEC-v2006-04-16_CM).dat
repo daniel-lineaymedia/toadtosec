@@ -1,0 +1,1975 @@
+clrmamepro (
+	name "Nintendo Famicom Disk System - Games"
+	description "Nintendo Famicom Disk System - Games (TOSEC-v2006-04-16)"
+	category "Nintendo Famicom Disk System - Games"
+	version 2006-04-16
+	author "Cassiel - yori yoshizuki"
+)
+
+game (
+	name "19 Neunzehn (1988)(Soft Pro)"
+	description "19 Neunzehn (1988)(Soft Pro)"
+	rom ( name "19 Neunzehn (1988)(Soft Pro).fds" size 131016 crc 2f98f5ab md5 34f025cb7479de80730c5f6c7e973ba3 )
+)
+
+game (
+	name "Adian no Tsue (1986)(Sunsoft)"
+	description "Adian no Tsue (1986)(Sunsoft)"
+	rom ( name "Adian no Tsue (1986)(Sunsoft).fds" size 131016 crc d208227f md5 fe795bb1f0d07c599dab39a0eb0a9ce8 )
+)
+
+game (
+	name "Ai Senshi Nicol (1987)(Konami)"
+	description "Ai Senshi Nicol (1987)(Konami)"
+	rom ( name "Ai Senshi Nicol (1987)(Konami).fds" size 131016 crc abafe245 md5 c263801f3b19b89159db089c039a1b16 )
+)
+
+game (
+	name "Aki to Tsukasa no Fushigi no Kabe (19xx)(Super PIG)"
+	description "Aki to Tsukasa no Fushigi no Kabe (19xx)(Super PIG)"
+	rom ( name "Aki to Tsukasa no Fushigi no Kabe (19xx)(Super PIG).fds" size 131016 crc 00b1edb8 md5 375e4b1678c6e215f3102dbe8721b377 )
+)
+
+game (
+	name "Akumajou Dracula v1.0 (1986)(Konami)"
+	description "Akumajou Dracula v1.0 (1986)(Konami)"
+	rom ( name "Akumajou Dracula v1.0 (1986)(Konami).fds" size 131016 crc 87b26063 md5 185927b9c651bb8676bdb7e796187224 )
+)
+
+game (
+	name "Akumajou Dracula v1.02 (1986)(Konami)"
+	description "Akumajou Dracula v1.02 (1986)(Konami)"
+	rom ( name "Akumajou Dracula v1.02 (1986)(Konami).fds" size 131016 crc 5f38d235 md5 ef4155f70f261a9c5868f3879dce6eff )
+)
+
+game (
+	name "Akumajou Dracula v1.02 (1986)(Konami)[a]"
+	description "Akumajou Dracula v1.02 (1986)(Konami)[a]"
+	rom ( name "Akumajou Dracula v1.02 (1986)(Konami)[a].fds" size 131016 crc 65c4f1c3 md5 e5c71649bbe726ca05152e5c6d450f0c )
+)
+
+game (
+	name "Akumajou Dracula v1.02 (1986)(Konami)[h]"
+	description "Akumajou Dracula v1.02 (1986)(Konami)[h]"
+	rom ( name "Akumajou Dracula v1.02 (1986)(Konami)[h].fds" size 131016 crc e5c99577 md5 4f7a1bd8374d8e52a4394a1e8cd28cfe )
+)
+
+game (
+	name "Akumajou Dracula v1.02 (1986)(Konami)[h2]"
+	description "Akumajou Dracula v1.02 (1986)(Konami)[h2]"
+	rom ( name "Akumajou Dracula v1.02 (1986)(Konami)[h2].fds" size 131016 crc f180be62 md5 62bdc40a354f7ae2a9b572a11b9ec4f8 )
+)
+
+game (
+	name "Akumajou Dracula v1.02 (1986)(Konami)[h3]"
+	description "Akumajou Dracula v1.02 (1986)(Konami)[h3]"
+	rom ( name "Akumajou Dracula v1.02 (1986)(Konami)[h3].fds" size 131016 crc 4f50e98e md5 34a10073000ad5a87f8d8a3d7b3bca68 )
+)
+
+game (
+	name "Akuu Senki Raijin (19xx)(Microcabin Square)"
+	description "Akuu Senki Raijin (19xx)(Microcabin Square)"
+	rom ( name "Akuu Senki Raijin (19xx)(Microcabin Square).fds" size 131016 crc a1cdd7cc md5 d5ec7d38a851a86c0bcb13bbd525711b )
+)
+
+game (
+	name "All Night Nippon Super Mario Bros. (1986)(Nintendo)"
+	description "All Night Nippon Super Mario Bros. (1986)(Nintendo)"
+	rom ( name "All Night Nippon Super Mario Bros. (1986)(Nintendo).fds" size 65516 crc b4d032ca md5 f0b981d00a0b3f87341f356f4480d8ce )
+)
+
+game (
+	name "Almana no Kiseki (1987)(Konami)"
+	description "Almana no Kiseki (1987)(Konami)"
+	rom ( name "Almana no Kiseki (1987)(Konami).fds" size 131016 crc 84952aa7 md5 28ad64cb1ec4098bae4c5a3dd42031d7 )
+)
+
+game (
+	name "Almana no Kiseki (1987)(Konami)[h]"
+	description "Almana no Kiseki (1987)(Konami)[h]"
+	rom ( name "Almana no Kiseki (1987)(Konami)[h].fds" size 131016 crc c3b05703 md5 7f9e9e1757f5e104ea6079935f689e78 )
+)
+
+game (
+	name "Ao no Senritsu (1987)(Gakken)"
+	description "Ao no Senritsu (1987)(Gakken)"
+	rom ( name "Ao no Senritsu (1987)(Gakken).fds" size 131016 crc e8773584 md5 f00dba68b43cfc42bf21ae122be64895 )
+)
+
+game (
+	name "Apple Town Story - Little Computer People (1987)(Square)"
+	description "Apple Town Story - Little Computer People (1987)(Square)"
+	rom ( name "Apple Town Story - Little Computer People (1987)(Square).fds" size 131016 crc f6222187 md5 e1b7699bdb405f043729f7100f9b4a86 )
+)
+
+game (
+	name "Aspic (1988)(Bothtec)"
+	description "Aspic (1988)(Bothtec)"
+	rom ( name "Aspic (1988)(Bothtec).fds" size 131016 crc b3f43216 md5 a1ae05b7f87c6023e22f3e01c5e6155c )
+)
+
+game (
+	name "Backgammon (1990)(Nintendo)"
+	description "Backgammon (1990)(Nintendo)"
+	rom ( name "Backgammon (1990)(Nintendo).fds" size 65516 crc 60c8a9ff md5 e7be86f0a7181ddc8ccac8d4c76986b7 )
+)
+
+game (
+	name "Bakutoushi Patton-Kun (1988)(Soft Pro)"
+	description "Bakutoushi Patton-Kun (1988)(Soft Pro)"
+	rom ( name "Bakutoushi Patton-Kun (1988)(Soft Pro).fds" size 131016 crc 7304e4c0 md5 35f87a9abe900d7a95c63974b939fd4b )
+)
+
+game (
+	name "Baseball (1984)(Nintendo)"
+	description "Baseball (1984)(Nintendo)"
+	rom ( name "Baseball (1984)(Nintendo).fds" size 65516 crc c77bc564 md5 bb720bff09d2f3b678e802a282fcf8a8 )
+)
+
+game (
+	name "Big Challenge! Dogfight Spirit (1988)(Jaleco)"
+	description "Big Challenge! Dogfight Spirit (1988)(Jaleco)"
+	rom ( name "Big Challenge! Dogfight Spirit (1988)(Jaleco).fds" size 131016 crc fcdb9fc9 md5 5fd146058f2c0498c2659d4866c063e0 )
+)
+
+game (
+	name "Big Challenge! Go! Go! Bowling (1989)(Jaleco)"
+	description "Big Challenge! Go! Go! Bowling (1989)(Jaleco)"
+	rom ( name "Big Challenge! Go! Go! Bowling (1989)(Jaleco).fds" size 131016 crc b9b78ff9 md5 c6d359fa7d2df74e981bfa2299e7d902 )
+)
+
+game (
+	name "Big Challenge! Gun Fighter (1989)(Jaleco)"
+	description "Big Challenge! Gun Fighter (1989)(Jaleco)"
+	rom ( name "Big Challenge! Gun Fighter (1989)(Jaleco).fds" size 131016 crc 067ef486 md5 51f25247c2d3b58aef9a857205f84499 )
+)
+
+game (
+	name "Big Challenge! Juudou Senshuken (1988)(Jaleco)"
+	description "Big Challenge! Juudou Senshuken (1988)(Jaleco)"
+	rom ( name "Big Challenge! Juudou Senshuken (1988)(Jaleco).fds" size 131016 crc 5716b501 md5 d1b688643328430b89235b6a0e634ad9 )
+)
+
+game (
+	name "Bio Miracle Bokutte Upa (1988)(Konami)"
+	description "Bio Miracle Bokutte Upa (1988)(Konami)"
+	rom ( name "Bio Miracle Bokutte Upa (1988)(Konami).fds" size 131016 crc 9cbd8207 md5 5a7079d78578d0bdabbc76a771802010 )
+)
+
+game (
+	name "Bio Miracle Bokutte Upa (1988)(Konami)[a]"
+	description "Bio Miracle Bokutte Upa (1988)(Konami)[a]"
+	rom ( name "Bio Miracle Bokutte Upa (1988)(Konami)[a].fds" size 131016 crc 88f4a912 md5 94274ff19a10694073b8a53d649635fc )
+)
+
+game (
+	name "Bishojou Control (19xx)(Wild)"
+	description "Bishojou Control (19xx)(Wild)"
+	rom ( name "Bishojou Control (19xx)(Wild).fds" size 131016 crc 216701ea md5 e9ea9dfd2ef1ad88e8278233d7466f7f )
+)
+
+game (
+	name "Bishojou Mahjong Club (19xx)(-)"
+	description "Bishojou Mahjong Club (19xx)(-)"
+	rom ( name "Bishojou Mahjong Club (19xx)(-).fds" size 131016 crc d22ade49 md5 ee892957589a61856935559ef61ce189 )
+)
+
+game (
+	name "Bishojou SF Alien Battle (19xx)(Hacker International)[b]"
+	description "Bishojou SF Alien Battle (19xx)(Hacker International)[b]"
+	rom ( name "Bishojou SF Alien Battle (19xx)(Hacker International)[b].fds" size 131016 crc 9774d2ef md5 7a9ed0eb73e5e2b763746cc3b7c5fc56 )
+)
+
+game (
+	name "Bishojou Sexy Derby (1988)(Super PIG)"
+	description "Bishojou Sexy Derby (1988)(Super PIG)"
+	rom ( name "Bishojou Sexy Derby (1988)(Super PIG).fds" size 131016 crc 0e290258 md5 7a239d934f3de2912d9dfae2af3ab9db )
+)
+
+game (
+	name "Bishojou Sexy Derby (1988)(Super PIG)[tr en]"
+	description "Bishojou Sexy Derby (1988)(Super PIG)[tr en]"
+	rom ( name "Bishojou Sexy Derby (1988)(Super PIG)[tr en].fds" size 131016 crc 09a398a1 md5 1024526ec89b4981c8f9052db48b4df7 )
+)
+
+game (
+	name "Bishojou Sexy Slot (19xx)(Super PIG)[b]"
+	description "Bishojou Sexy Slot (19xx)(Super PIG)[b]"
+	rom ( name "Bishojou Sexy Slot (19xx)(Super PIG)[b].fds" size 131016 crc c281b653 md5 a2522e2faf9009b3656bec84777454a9 )
+)
+
+game (
+	name "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix)"
+	description "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix)"
+	rom ( name "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix).fds" size 131016 crc 12bc3088 md5 8d2ce274b2e57be12e4f7adc009def5c )
+)
+
+game (
+	name "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix)[a]"
+	description "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix)[a]"
+	rom ( name "Bishojou Shashinkan - Studio Cut (19xx)(Phoenix)[a].fds" size 131016 crc 853a6e01 md5 29296d36f332a928710554c7f0ec94b7 )
+)
+
+game (
+	name "Bomberman (1985)(Hudson Soft)"
+	description "Bomberman (1985)(Hudson Soft)"
+	rom ( name "Bomberman (1985)(Hudson Soft).fds" size 65516 crc 7973c68d md5 5e462f92c9de21243576c84e045e1b1d )
+)
+
+game (
+	name "Breeder (1986)(Soft Pro)"
+	description "Breeder (1986)(Soft Pro)"
+	rom ( name "Breeder (1986)(Soft Pro).fds" size 131016 crc de8fe836 md5 bbe33b6e3aa21b10974694d5b27d8607 )
+)
+
+game (
+	name "Bubble Bobble (1987)(Taito Corp.)"
+	description "Bubble Bobble (1987)(Taito Corp.)"
+	rom ( name "Bubble Bobble (1987)(Taito Corp.).fds" size 131016 crc 3c12ca4c md5 9fbb665309b685b7552d863abb13839a )
+)
+
+game (
+	name "Bubble Bobble (1987)(Taito Corp.)[a]"
+	description "Bubble Bobble (1987)(Taito Corp.)[a]"
+	rom ( name "Bubble Bobble (1987)(Taito Corp.)[a].fds" size 131016 crc a3d0a7e3 md5 6dd591bc0a7975136bf487846fb54f0e )
+)
+
+game (
+	name "Burger Time (1985)(Data East Corp.)"
+	description "Burger Time (1985)(Data East Corp.)"
+	rom ( name "Burger Time (1985)(Data East Corp.).fds" size 65516 crc 44e41aba md5 b9f7f6d878a59ee9b741b461f65e3131 )
+)
+
+game (
+	name "Burger Time (1985)(Data East Corp.)[a]"
+	description "Burger Time (1985)(Data East Corp.)[a]"
+	rom ( name "Burger Time (1985)(Data East Corp.)[a].fds" size 65516 crc 538e4f8e md5 b89b69f924a8bde30792ecf85d243e37 )
+)
+
+game (
+	name "Casino de Pink (19xx)(Wild Turtle)"
+	description "Casino de Pink (19xx)(Wild Turtle)"
+	rom ( name "Casino de Pink (19xx)(Wild Turtle).fds" size 131016 crc 637c2230 md5 7f20f7dd01cd68431e354b0c2adf3f41 )
+)
+
+game (
+	name "Chitei Tairiku Orudoora (1987)(Sunsoft)"
+	description "Chitei Tairiku Orudoora (1987)(Sunsoft)"
+	rom ( name "Chitei Tairiku Orudoora (1987)(Sunsoft).fds" size 131016 crc c787a8ff md5 8e5b2287a46591a4b34b23f8a0c663c0 )
+)
+
+game (
+	name "City Connection (1989)(Hangsing)[p]"
+	description "City Connection (1989)(Hangsing)[p]"
+	rom ( name "City Connection (1989)(Hangsing)[p].fds" size 65516 crc b3a26b9b md5 06ca91f03b34733d1194ccdfe461e7b1 )
+)
+
+game (
+	name "Cleopatra no Mahou (1987)(Square)"
+	description "Cleopatra no Mahou (1987)(Square)"
+	rom ( name "Cleopatra no Mahou (1987)(Square).fds" size 131016 crc 06c1cc47 md5 277b34cdeeec1ccef06b2ca4e01760a9 )
+)
+
+game (
+	name "Clu Clu Land - Welcome to New Clu Clu Land (1988)(Nintendo)"
+	description "Clu Clu Land - Welcome to New Clu Clu Land (1988)(Nintendo)"
+	rom ( name "Clu Clu Land - Welcome to New Clu Clu Land (1988)(Nintendo).fds" size 65516 crc e588c55e md5 1f1ea7c7f84e95bc9d2b7db11b151b1d )
+)
+
+game (
+	name "Cocona World (19xx)(Sofel)"
+	description "Cocona World (19xx)(Sofel)"
+	rom ( name "Cocona World (19xx)(Sofel).fds" size 131016 crc f83a603d md5 4ca3d110a34f8412a16e87fd96e3da50 )
+)
+
+game (
+	name "Dandy (19xx)(Pony Canyon)"
+	description "Dandy (19xx)(Pony Canyon)"
+	rom ( name "Dandy (19xx)(Pony Canyon).fds" size 131016 crc f523a202 md5 4d7b4f86fee09d9dc324a4bdd9842673 )
+)
+
+game (
+	name "Date de Blackjack (19xx)(Hacker Int.)"
+	description "Date de Blackjack (19xx)(Hacker Int.)"
+	rom ( name "Date de Blackjack (19xx)(Hacker Int.).fds" size 131016 crc 1da9c040 md5 45494b105d0b3176a0ece4c88c053d9e )
+)
+
+game (
+	name "Date de Blackjack (19xx)(Hacker Int.)[a]"
+	description "Date de Blackjack (19xx)(Hacker Int.)[a]"
+	rom ( name "Date de Blackjack (19xx)(Hacker Int.)[a].fds" size 131016 crc 855c395d md5 18bcb379066f98cafed392284e41662f )
+)
+
+game (
+	name "Dead Zone (1986)(Sunsoft)"
+	description "Dead Zone (1986)(Sunsoft)"
+	rom ( name "Dead Zone (1986)(Sunsoft).fds" size 131016 crc 8205788c md5 11338aa4589877fad6e138c88f8b1709 )
+)
+
+game (
+	name "Dead Zone (1986)(Sunsoft)[a]"
+	description "Dead Zone (1986)(Sunsoft)[a]"
+	rom ( name "Dead Zone (1986)(Sunsoft)[a].fds" size 131016 crc e1bc5f30 md5 1fc9a6e3a8689ee6e8e49ef7d0312183 )
+)
+
+game (
+	name "Deep Dungeon (1986)(Humming Bird Soft)[b]"
+	description "Deep Dungeon (1986)(Humming Bird Soft)[b]"
+	rom ( name "Deep Dungeon (1986)(Humming Bird Soft)[b].fds" size 131016 crc 10d41d08 md5 77f989b096965d47325b023fb014d07d )
+)
+
+game (
+	name "Dig Dug (1990)(Namco Ltd.)"
+	description "Dig Dug (1990)(Namco Ltd.)"
+	rom ( name "Dig Dug (1990)(Namco Ltd.).fds" size 65516 crc 75836a46 md5 5b85f86549069763caf629821d78f7fb )
+)
+
+game (
+	name "Dig Dug II (1990)(Namco Ltd.)"
+	description "Dig Dug II (1990)(Namco Ltd.)"
+	rom ( name "Dig Dug II (1990)(Namco Ltd.).fds" size 65516 crc 76acb939 md5 89da6dd4e62ceee6d00da388ee8d9a5a )
+)
+
+game (
+	name "Dirty Pair - Project Eden (1987)(Bandai)"
+	description "Dirty Pair - Project Eden (1987)(Bandai)"
+	rom ( name "Dirty Pair - Project Eden (1987)(Bandai).fds" size 131016 crc 59f4e5e5 md5 d3822d2a44344dd7e06e06a62be7584e )
+)
+
+game (
+	name "Dirty Pair - Project Eden (1987)(Bandai)[tr en]"
+	description "Dirty Pair - Project Eden (1987)(Bandai)[tr en]"
+	rom ( name "Dirty Pair - Project Eden (1987)(Bandai)[tr en].fds" size 131016 crc f3dc053a md5 717bf55598d370b0c437db58c47928ee )
+)
+
+game (
+	name "Donkey Kong (1981)(Nintendo)"
+	description "Donkey Kong (1981)(Nintendo)"
+	rom ( name "Donkey Kong (1981)(Nintendo).fds" size 65516 crc 6c0740e9 md5 6333d48ce1c8e7f36adf83f5614ac194 )
+)
+
+game (
+	name "Donkey Kong Jr. (1982)(Nintendo)"
+	description "Donkey Kong Jr. (1982)(Nintendo)"
+	rom ( name "Donkey Kong Jr. (1982)(Nintendo).fds" size 65516 crc 3046966a md5 0d2f7a5ce1e3143f9e10a6e88606ffc7 )
+)
+
+game (
+	name "Doremikko (1987)(Konami)"
+	description "Doremikko (1987)(Konami)"
+	rom ( name "Doremikko (1987)(Konami).fds" size 131016 crc 0bd5ce13 md5 b3743b833aec387235045ec8ac9b09b2 )
+)
+
+game (
+	name "Dr. Chaos (19xx)(Pony Canyon)"
+	description "Dr. Chaos (19xx)(Pony Canyon)"
+	rom ( name "Dr. Chaos (19xx)(Pony Canyon).fds" size 131016 crc 121dff30 md5 8aa33f46ebde8fade02cf2271917d359 )
+)
+
+game (
+	name "Dr. Chaos (19xx)(Pony Canyon)[a]"
+	description "Dr. Chaos (19xx)(Pony Canyon)[a]"
+	rom ( name "Dr. Chaos (19xx)(Pony Canyon)[a].fds" size 131016 crc 5c13dd0f md5 7c957249d5e0cbfb7ad34a3bc263fb99 )
+)
+
+game (
+	name "Dracula II - Noroi no Fuuin (1987)(Konami)"
+	description "Dracula II - Noroi no Fuuin (1987)(Konami)"
+	rom ( name "Dracula II - Noroi no Fuuin (1987)(Konami).fds" size 131016 crc 2d1ec77c md5 a9cd16b5b37aee84a7899f93a00078a9 )
+)
+
+game (
+	name "Druid - Kyoufu no Tobira (1988)(Jaleco)"
+	description "Druid - Kyoufu no Tobira (1988)(Jaleco)"
+	rom ( name "Druid - Kyoufu no Tobira (1988)(Jaleco).fds" size 131016 crc e978a8ae md5 e5ed84d3877f23eab160575bafae61b4 )
+)
+
+game (
+	name "Eggerland (1987)(Hal Laboratory)"
+	description "Eggerland (1987)(Hal Laboratory)"
+	rom ( name "Eggerland (1987)(Hal Laboratory).fds" size 131016 crc 8df6cab8 md5 325d4d426e55d07413b28448191a0c7f )
+)
+
+game (
+	name "Eggerland (1987)(Hal Laboratory)[tr en]"
+	description "Eggerland (1987)(Hal Laboratory)[tr en]"
+	rom ( name "Eggerland (1987)(Hal Laboratory)[tr en].fds" size 131016 crc d9c2ce76 md5 f5db0efdb17ac43a04e5dd8e9b134aee )
+)
+
+game (
+	name "Eggerland - Souzouhe no Tabidachi (19xx)(HAL Laboratory)"
+	description "Eggerland - Souzouhe no Tabidachi (19xx)(HAL Laboratory)"
+	rom ( name "Eggerland - Souzouhe no Tabidachi (19xx)(HAL Laboratory).fds" size 131016 crc 1c4ad090 md5 a7e28b377cc09cf7f7a74e29f84d5101 )
+)
+
+game (
+	name "Electrician (1986)(Kemco)"
+	description "Electrician (1986)(Kemco)"
+	rom ( name "Electrician (1986)(Kemco).fds" size 131016 crc d0885dff md5 662633096ea53f7faf728935a44c2465 )
+)
+
+game (
+	name "Electrician (1986)(Kemco)[tr en]"
+	description "Electrician (1986)(Kemco)[tr en]"
+	rom ( name "Electrician (1986)(Kemco)[tr en].fds" size 131016 crc d8548182 md5 37b5694a634b103b64ba361c026472c9 )
+)
+
+game (
+	name "Esper Dream v1.0 (1987)(Konami)"
+	description "Esper Dream v1.0 (1987)(Konami)"
+	rom ( name "Esper Dream v1.0 (1987)(Konami).fds" size 131016 crc 637be7df md5 4655b34089837ab7d7b5c50818614b35 )
+)
+
+game (
+	name "Esper Dream v1.0 (1987)(Konami)[a]"
+	description "Esper Dream v1.0 (1987)(Konami)[a]"
+	rom ( name "Esper Dream v1.0 (1987)(Konami)[a].fds" size 131016 crc 3e339ccd md5 0e355eed9f084d5107ea5154de85511e )
+)
+
+game (
+	name "Esper Dream v1.0 (1987)(Konami)[a2]"
+	description "Esper Dream v1.0 (1987)(Konami)[a2]"
+	rom ( name "Esper Dream v1.0 (1987)(Konami)[a2].fds" size 131016 crc 3d3bdf63 md5 eb72dc9ba7ab406616f2b561fe4b4575 )
+)
+
+game (
+	name "Esper Dream v1.01 (1987)(Konami)"
+	description "Esper Dream v1.01 (1987)(Konami)"
+	rom ( name "Esper Dream v1.01 (1987)(Konami).fds" size 131016 crc af5e2ecc md5 6b3949487db9277474a25314d52b3677 )
+)
+
+game (
+	name "Esper Dream v1.01 (1987)(Konami)[a]"
+	description "Esper Dream v1.01 (1987)(Konami)[a]"
+	rom ( name "Esper Dream v1.01 (1987)(Konami)[a].fds" size 131016 crc eb7b4cee md5 f7bcffc5ac601822612574a613f09424 )
+)
+
+game (
+	name "Esper Dream v1.01 (1987)(Konami)[a2]"
+	description "Esper Dream v1.01 (1987)(Konami)[a2]"
+	rom ( name "Esper Dream v1.01 (1987)(Konami)[a2].fds" size 131016 crc 2b0b08fb md5 03c9b5fde0821e19acdb6d28617be0d6 )
+)
+
+game (
+	name "Esper Dream v1.01 (1987)(Konami)[b]"
+	description "Esper Dream v1.01 (1987)(Konami)[b]"
+	rom ( name "Esper Dream v1.01 (1987)(Konami)[b].fds" size 131016 crc b53a8eed md5 4e73384b7ebe99062b4b92e252152c2d )
+)
+
+game (
+	name "Exciting Baseball (1987)(Konami)"
+	description "Exciting Baseball (1987)(Konami)"
+	rom ( name "Exciting Baseball (1987)(Konami).fds" size 131016 crc fa860775 md5 c1759d01bbcf0746a9b5ac43919d9cda )
+)
+
+game (
+	name "Exciting Baseball (1987)(Konami)[a]"
+	description "Exciting Baseball (1987)(Konami)[a]"
+	rom ( name "Exciting Baseball (1987)(Konami)[a].fds" size 131016 crc 58ca21b9 md5 87c3e23d253c97344972f8b7591c5703 )
+)
+
+game (
+	name "Exciting Basket (1987)(Konami)"
+	description "Exciting Basket (1987)(Konami)"
+	rom ( name "Exciting Basket (1987)(Konami).fds" size 131016 crc ae5d2e58 md5 60fc7e1f6545910e8c1fb8a7bc7d4b12 )
+)
+
+game (
+	name "Exciting Basket (1987)(Konami)[a]"
+	description "Exciting Basket (1987)(Konami)[a]"
+	rom ( name "Exciting Basket (1987)(Konami)[a].fds" size 131016 crc ba14054d md5 da01d1568670110dfdbdc5a286124abc )
+)
+
+game (
+	name "Exciting Billiard (1987)(Konami)"
+	description "Exciting Billiard (1987)(Konami)"
+	rom ( name "Exciting Billiard (1987)(Konami).fds" size 131016 crc 9eee752a md5 752d2cfb7e3165e81894ca31b6ed694f )
+)
+
+game (
+	name "Exciting Soccer - Konami Cup (1988)(Konami)"
+	description "Exciting Soccer - Konami Cup (1988)(Konami)"
+	rom ( name "Exciting Soccer - Konami Cup (1988)(Konami).fds" size 131016 crc 9dc7c28b md5 57fa2611c400c8e8de7513f4fafeabce )
+)
+
+game (
+	name "Exciting Soccer - Konami Cup (1988)(Konami)[a]"
+	description "Exciting Soccer - Konami Cup (1988)(Konami)[a]"
+	rom ( name "Exciting Soccer - Konami Cup (1988)(Konami)[a].fds" size 131016 crc ccd05b07 md5 735d607dbf0f2277fdaf2172c54061ae )
+)
+
+game (
+	name "Exciting Soccer - Konami Cup (1988)(Konami)[b]"
+	description "Exciting Soccer - Konami Cup (1988)(Konami)[b]"
+	rom ( name "Exciting Soccer - Konami Cup (1988)(Konami)[b].fds" size 65516 crc 0b80e670 md5 411c17c12c3b963624dd4a5f0658e573 )
+)
+
+game (
+	name "Fairytale (1989)(Soft Pro)"
+	description "Fairytale (1989)(Soft Pro)"
+	rom ( name "Fairytale (1989)(Soft Pro).fds" size 131016 crc 617d445d md5 b5bd50e092327cc11879037fa3347ff6 )
+)
+
+game (
+	name "Falsion (1987)(Konami)"
+	description "Falsion (1987)(Konami)"
+	rom ( name "Falsion (1987)(Konami).fds" size 131016 crc de943d3e md5 fbb1801212511a54e214de65b3fd0327 )
+)
+
+game (
+	name "Falsion (1987)(Konami)[a]"
+	description "Falsion (1987)(Konami)[a]"
+	rom ( name "Falsion (1987)(Konami)[a].fds" size 131016 crc 3183be4e md5 e1f2d0fba2567e8af6651d038adf313c )
+)
+
+game (
+	name "Famicom Grand Prix - F1 Race (1987)(Nintendo)"
+	description "Famicom Grand Prix - F1 Race (1987)(Nintendo)"
+	rom ( name "Famicom Grand Prix - F1 Race (1987)(Nintendo).fds" size 131016 crc af349626 md5 ed224b3a0b1b6156f13d3c1d09a2def9 )
+)
+
+game (
+	name "Famicom Grand Prix - F1 Race (1987)(Nintendo)[a]"
+	description "Famicom Grand Prix - F1 Race (1987)(Nintendo)[a]"
+	rom ( name "Famicom Grand Prix - F1 Race (1987)(Nintendo)[a].fds" size 131016 crc bb7dbd33 md5 37f442af7488c7b9423198772e52fd20 )
+)
+
+game (
+	name "Famicom Grand Prix II - 3D Hot Rally (1988)(Nintendo)"
+	description "Famicom Grand Prix II - 3D Hot Rally (1988)(Nintendo)"
+	rom ( name "Famicom Grand Prix II - 3D Hot Rally (1988)(Nintendo).fds" size 131016 crc 85cdd2e9 md5 3ee175c4cfa5cb27fc6890a10c108841 )
+)
+
+game (
+	name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)"
+	description "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)"
+	rom ( name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo).fds" size 262016 crc 33d6591d md5 8c6ef8401bc07a8694be533d30559c79 )
+)
+
+game (
+	name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a]"
+	description "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a]"
+	rom ( name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a].fds" size 262016 crc 22af00fa md5 6837241545194b57cb25649d2ed6ff97 )
+)
+
+game (
+	name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a2]"
+	description "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a2]"
+	rom ( name "Famicom Mukashi Banashi - Shin Onigashima (1987)(Nintendo)[a2].fds" size 262016 crc 103bc1ec md5 4e163349153bed3ba1329a207231124e )
+)
+
+game (
+	name "Famicom Mukashi Banashi - Yuu Yuu Ki (1989)(Nintendo)"
+	description "Famicom Mukashi Banashi - Yuu Yuu Ki (1989)(Nintendo)"
+	rom ( name "Famicom Mukashi Banashi - Yuu Yuu Ki (1989)(Nintendo).fds" size 262016 crc f82d094e md5 6d163e56e38d4d0d265d058d1f5be997 )
+)
+
+game (
+	name "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo)"
+	description "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo)"
+	rom ( name "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo).fds" size 262016 crc 696f4781 md5 1c5038bcd7e38d28fb53ebb11167899d )
+)
+
+game (
+	name "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo)[a]"
+	description "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo)[a]"
+	rom ( name "Famicom Tantei Kurabu - Kieta Koukeisha (1988)(Nintendo)[a].fds" size 262016 crc 173ae747 md5 c28ae0a4e6c537e838fc4513629ea314 )
+)
+
+game (
+	name "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo)"
+	description "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo)"
+	rom ( name "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo).fds" size 262016 crc 431a3f83 md5 177c051ef020235557215fdc630ae159 )
+)
+
+game (
+	name "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo)[a]"
+	description "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo)[a]"
+	rom ( name "Famicom Tantei Kurabu Part II - Ushiro ni Tatsu Shoujo (1989)(Nintendo)[a].fds" size 262016 crc fa87f7b9 md5 23902c4dd1d42c490f187cd8a2a72b60 )
+)
+
+game (
+	name "Family Composer (1987)(Tokyo Shoseki)"
+	description "Family Composer (1987)(Tokyo Shoseki)"
+	rom ( name "Family Composer (1987)(Tokyo Shoseki).fds" size 131016 crc 90f4d3ed md5 2d10decf204cc3ce13c041e8c175cf67 )
+)
+
+game (
+	name "Family Computer Golf - Japan Course (1987)(Nintendo)"
+	description "Family Computer Golf - Japan Course (1987)(Nintendo)"
+	rom ( name "Family Computer Golf - Japan Course (1987)(Nintendo).fds" size 131016 crc 8f25b303 md5 e197d01826d3cfd37629409466bc0225 )
+)
+
+game (
+	name "Family Computer Golf - U.S. Course (1987)(Nintendo)"
+	description "Family Computer Golf - U.S. Course (1987)(Nintendo)"
+	rom ( name "Family Computer Golf - U.S. Course (1987)(Nintendo).fds" size 131016 crc a02bb651 md5 c04063d04c04ca638bb0ad4c0b6801c4 )
+)
+
+game (
+	name "Family Computer Othello (1986)(Kawada)"
+	description "Family Computer Othello (1986)(Kawada)"
+	rom ( name "Family Computer Othello (1986)(Kawada).fds" size 65516 crc b60e66b3 md5 2f2d94a0d1be100ffed07b0266ac364b )
+)
+
+game (
+	name "Famimaga Disk Vol. 1 - Hong Kong (1990)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 1 - Hong Kong (1990)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 1 - Hong Kong (1990)(Tokuma Shoten Intermedia).fds" size 65516 crc 4bb9f8b6 md5 ad80a43fbfbcf7fce17c51eea94c12c7 )
+)
+
+game (
+	name "Famimaga Disk Vol. 2 - Panic Space (1990)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 2 - Panic Space (1990)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 2 - Panic Space (1990)(Tokuma Shoten Intermedia).fds" size 131016 crc cbef3928 md5 74fb16524a29f92c1cb987bb77d0597e )
+)
+
+game (
+	name "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia).fds" size 65516 crc a4cc702b md5 457d04c1538120f2a3a308c9e8eb7751 )
+)
+
+game (
+	name "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia)[a]"
+	description "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia)[a]"
+	rom ( name "Famimaga Disk Vol. 3 - All One (1991)(Tokuma Shoten Intermedia)[a].fds" size 65516 crc 98c9ea35 md5 6928341b1dc69390d6b483881c273854 )
+)
+
+game (
+	name "Famimaga Disk Vol. 4 - Clox (1991)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 4 - Clox (1991)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 4 - Clox (1991)(Tokuma Shoten Intermedia).fds" size 65516 crc ab7eb51c md5 333f3ef112a2b14d25b0712849d24185 )
+)
+
+game (
+	name "Famimaga Disk Vol. 5 - Puyo Puyo (1991)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 5 - Puyo Puyo (1991)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 5 - Puyo Puyo (1991)(Tokuma Shoten Intermedia).fds" size 131016 crc 12a5eae2 md5 595a9763273178121cbd7610f6997b8d )
+)
+
+game (
+	name "Famimaga Disk Vol. 6 - Janken Disk Shiro (1992)(Tokuma Shoten Intermedia)"
+	description "Famimaga Disk Vol. 6 - Janken Disk Shiro (1992)(Tokuma Shoten Intermedia)"
+	rom ( name "Famimaga Disk Vol. 6 - Janken Disk Shiro (1992)(Tokuma Shoten Intermedia).fds" size 131016 crc 0be917ed md5 82f11d4b7c16fd683b838b1f84fb4df5 )
+)
+
+game (
+	name "Final Commando - Akai Yousai (1988)(Konami)"
+	description "Final Commando - Akai Yousai (1988)(Konami)"
+	rom ( name "Final Commando - Akai Yousai (1988)(Konami).fds" size 131016 crc b89d5131 md5 6416c69776acc64dddf7bb2af466ef2b )
+)
+
+game (
+	name "Final Commando - Akai Yousai (1988)(Konami)[a]"
+	description "Final Commando - Akai Yousai (1988)(Konami)[a]"
+	rom ( name "Final Commando - Akai Yousai (1988)(Konami)[a].fds" size 131016 crc fc47404c md5 b092e9c63f022aa67530d7b0dd957929 )
+)
+
+game (
+	name "Fire Bam (1988)(Hal Laboratory)"
+	description "Fire Bam (1988)(Hal Laboratory)"
+	rom ( name "Fire Bam (1988)(Hal Laboratory).fds" size 131016 crc 2407415b md5 54df87279347914686226d8eecb7849b )
+)
+
+game (
+	name "Fire Rock (1988)(System Sacom)"
+	description "Fire Rock (1988)(System Sacom)"
+	rom ( name "Fire Rock (1988)(System Sacom).fds" size 131016 crc 9ba34c1e md5 b7a75cb5ac048631e6d8e603fcdeffa9 )
+)
+
+game (
+	name "Fuuun Shaolin Kyo (1987)(Jaleco)"
+	description "Fuuun Shaolin Kyo (1987)(Jaleco)"
+	rom ( name "Fuuun Shaolin Kyo (1987)(Jaleco).fds" size 131016 crc 6804dcd5 md5 0569408c8a032f142080694ca13c2fde )
+)
+
+game (
+	name "Fuuun Shaolin Kyo - Ankoku no Maou (1988)(Jaleco)"
+	description "Fuuun Shaolin Kyo - Ankoku no Maou (1988)(Jaleco)"
+	rom ( name "Fuuun Shaolin Kyo - Ankoku no Maou (1988)(Jaleco).fds" size 131016 crc b12193e3 md5 001980653f7a3d24855061f77622ea7c )
+)
+
+game (
+	name "Galaga (1990)(Namco Ltd.)"
+	description "Galaga (1990)(Namco Ltd.)"
+	rom ( name "Galaga (1990)(Namco Ltd.).fds" size 65516 crc 2ad9a7fd md5 043421ca2a7263b3d50d5349319650ad )
+)
+
+game (
+	name "Galaxian (1990)(Namco Ltd.)"
+	description "Galaxian (1990)(Namco Ltd.)"
+	rom ( name "Galaxian (1990)(Namco Ltd.).fds" size 65516 crc 30ff4a34 md5 473490419aa6f8ce96e930146c3c3f7d )
+)
+
+game (
+	name "Gall Force - Eternal Story (19xx)(Hal - Sony)"
+	description "Gall Force - Eternal Story (19xx)(Hal - Sony)"
+	rom ( name "Gall Force - Eternal Story (19xx)(Hal - Sony).fds" size 131016 crc c864b2ff md5 8a448081f9170accf6c76a20a79efc1b )
+)
+
+game (
+	name "Game Tengoku (19xx)(Sofel)"
+	description "Game Tengoku (19xx)(Sofel)"
+	rom ( name "Game Tengoku (19xx)(Sofel).fds" size 131016 crc 9ae119de md5 4442f02179dba01f916e690f96747fb8 )
+)
+
+game (
+	name "Ginga Denshou - Galaxy Odyssey (1986)(Imagineer Co.)"
+	description "Ginga Denshou - Galaxy Odyssey (1986)(Imagineer Co.)"
+	rom ( name "Ginga Denshou - Galaxy Odyssey (1986)(Imagineer Co.).fds" size 131016 crc fd0384be md5 35493d1ca1db59d48119e109a6db742c )
+)
+
+game (
+	name "Golf (1984)(Nintendo)"
+	description "Golf (1984)(Nintendo)"
+	rom ( name "Golf (1984)(Nintendo).fds" size 65516 crc ce3404a8 md5 b5c7cd9e6c8c80a1138674992c9c0fd1 )
+)
+
+game (
+	name "Golf Japan Course - Nyuushou (1987)(Nintendo)[h2]"
+	description "Golf Japan Course - Nyuushou (1987)(Nintendo)[h2]"
+	rom ( name "Golf Japan Course - Nyuushou (1987)(Nintendo)[h2].fds" size 131016 crc 158c1de9 md5 84b67aa8c74407d293637b07674478bf )
+)
+
+game (
+	name "Golf Japan Course - Nyuushou (1987)(Nintendo)[h]"
+	description "Golf Japan Course - Nyuushou (1987)(Nintendo)[h]"
+	rom ( name "Golf Japan Course - Nyuushou (1987)(Nintendo)[h].fds" size 131016 crc ebb68138 md5 9170d43cf38d9b45ac86ded6b756cb8b )
+)
+
+game (
+	name "Goonies, The (1988)(Konami)"
+	description "Goonies, The (1988)(Konami)"
+	rom ( name "Goonies, The (1988)(Konami).fds" size 65516 crc 81b760a2 md5 3bc6b451078f776eb620bb22b1d42512 )
+)
+
+game (
+	name "Goonies, The (1988)(Konami)[a]"
+	description "Goonies, The (1988)(Konami)[a]"
+	rom ( name "Goonies, The (1988)(Konami)[a].fds" size 65516 crc 0d38943e md5 d30b2eeb6c804048f3882ed001aab840 )
+)
+
+game (
+	name "Green Beret (1987)(Konami)"
+	description "Green Beret (1987)(Konami)"
+	rom ( name "Green Beret (1987)(Konami).fds" size 131016 crc e7f0577b md5 49ce70b52b4fb58921bcc94c26a47f99 )
+)
+
+game (
+	name "Green Beret (1987)(Konami)[h]"
+	description "Green Beret (1987)(Konami)[h]"
+	rom ( name "Green Beret (1987)(Konami)[h].fds" size 131016 crc f226abaa md5 ba9bb4fef500d94c1a00571beb5956ad )
+)
+
+game (
+	name "Gun.Smoke (1988)(Capcom)"
+	description "Gun.Smoke (1988)(Capcom)"
+	rom ( name "Gun.Smoke (1988)(Capcom).fds" size 131016 crc 134f4e21 md5 e4534d48faa172e3bf6b014ffa49671a )
+)
+
+game (
+	name "Gun.Smoke (1988)(Capcom)[a]"
+	description "Gun.Smoke (1988)(Capcom)[a]"
+	rom ( name "Gun.Smoke (1988)(Capcom)[a].fds" size 131016 crc 4bfbd1b0 md5 610dfff53b2a96bcad4a29f819e0a6e3 )
+)
+
+game (
+	name "Gyruss (1988)(Konami)"
+	description "Gyruss (1988)(Konami)"
+	rom ( name "Gyruss (1988)(Konami).fds" size 131016 crc d2a68bdf md5 6145076372723ea085df28f9e7199f45 )
+)
+
+game (
+	name "Halley Wars (1989)(Taito Corp.)"
+	description "Halley Wars (1989)(Taito Corp.)"
+	rom ( name "Halley Wars (1989)(Taito Corp.).fds" size 131016 crc 08f9e8fc md5 56ee75e9fffe869f0a98770c2e4ed2b6 )
+)
+
+game (
+	name "Hao-Kun no Fushigina Tabi (1987)(DOG)"
+	description "Hao-Kun no Fushigina Tabi (1987)(DOG)"
+	rom ( name "Hao-Kun no Fushigina Tabi (1987)(DOG).fds" size 131016 crc 5a215391 md5 ab20abc798f925523b79d7c37c1a5274 )
+)
+
+game (
+	name "Hikari Genji - Roller Panic (1989)(Pony Canyon)"
+	description "Hikari Genji - Roller Panic (1989)(Pony Canyon)"
+	rom ( name "Hikari Genji - Roller Panic (1989)(Pony Canyon).fds" size 131016 crc 6973d378 md5 61c51a5d03eb3cd2640145f7d7789a84 )
+)
+
+game (
+	name "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo)"
+	description "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo)"
+	rom ( name "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo).fds" size 131016 crc aa05f769 md5 7b474d0d8f1776d0a646bafdf656d51b )
+)
+
+game (
+	name "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo)[a]"
+	description "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo)[a]"
+	rom ( name "Hikari Shinwa - Palutena no Kagami (1986)(Nintendo)[a].fds" size 131016 crc d3b6d15e md5 cdfb4bf4fd9b0c33b7cd073d713c3ed9 )
+)
+
+game (
+	name "I am a Teacher - Super Mario Seta (1986)(Nintendo)"
+	description "I am a Teacher - Super Mario Seta (1986)(Nintendo)"
+	rom ( name "I am a Teacher - Super Mario Seta (1986)(Nintendo).fds" size 131016 crc 7ee15943 md5 f235cce92127e711df23059c8e480671 )
+)
+
+game (
+	name "I am a Teacher - Teami no Kiso (1986)(Nintendo)"
+	description "I am a Teacher - Teami no Kiso (1986)(Nintendo)"
+	rom ( name "I am a Teacher - Teami no Kiso (1986)(Nintendo).fds" size 131016 crc da8b20dd md5 a502912a630c87ce18571af903351b96 )
+)
+
+game (
+	name "Ice Climber (1984)(Nintendo)"
+	description "Ice Climber (1984)(Nintendo)"
+	rom ( name "Ice Climber (1984)(Nintendo).fds" size 65516 crc a06045e9 md5 86e8823e09e918a71f9b006765df999d )
+)
+
+game (
+	name "Ice Climber (1984)(Nintendo)[a]"
+	description "Ice Climber (1984)(Nintendo)[a]"
+	rom ( name "Ice Climber (1984)(Nintendo)[a].fds" size 65516 crc c1a16c02 md5 77f6d3281ee5ff00944a9e8ceb628daf )
+)
+
+game (
+	name "Ice Hockey (1988)(Nintendo)"
+	description "Ice Hockey (1988)(Nintendo)"
+	rom ( name "Ice Hockey (1988)(Nintendo).fds" size 65516 crc 561fa0ac md5 61e67d97cdda59476d349f44b16445eb )
+)
+
+game (
+	name "Igo (1987)(Bps)"
+	description "Igo (1987)(Bps)"
+	rom ( name "Igo (1987)(Bps).fds" size 131016 crc fec8c7ed md5 e8634496355940feb4016adfe2e5ef41 )
+)
+
+game (
+	name "Ishido (1990)(Hiro Co. Ltd.)"
+	description "Ishido (1990)(Hiro Co. Ltd.)"
+	rom ( name "Ishido (1990)(Hiro Co. Ltd.).fds" size 131016 crc 9fc0aa70 md5 08ff284f740ad148919ebcc26f474c8f )
+)
+
+game (
+	name "Jaaman Tanteidan - Matonarikumi (1988)(Bandai)"
+	description "Jaaman Tanteidan - Matonarikumi (1988)(Bandai)"
+	rom ( name "Jaaman Tanteidan - Matonarikumi (1988)(Bandai).fds" size 131016 crc 80cd4d55 md5 a617789f76063888a2e22886d6e5648f )
+)
+
+game (
+	name "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.)"
+	description "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.)"
+	rom ( name "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.).fds" size 131016 crc 6f812f99 md5 951645b21479acad533c418e8b4c802d )
+)
+
+game (
+	name "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.)[b]"
+	description "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.)[b]"
+	rom ( name "Jikai Shounen Met Mag (1987)(Thinking Rabbit Co.)[b].fds" size 131016 crc e8459d42 md5 674f32669f67ceb55a0ff160927fc93f )
+)
+
+game (
+	name "Kaettekita Mario Bros. (1988)(Nintendo)"
+	description "Kaettekita Mario Bros. (1988)(Nintendo)"
+	rom ( name "Kaettekita Mario Bros. (1988)(Nintendo).fds" size 131016 crc 4f4aab3d md5 bcda7ce6eda75424655414af773ed121 )
+)
+
+game (
+	name "Kaettekita Mario Bros. (1988)(Nintendo)[a]"
+	description "Kaettekita Mario Bros. (1988)(Nintendo)[a]"
+	rom ( name "Kaettekita Mario Bros. (1988)(Nintendo)[a].fds" size 131016 crc db6c603d md5 c57784e24c3788b4a9095e815e20f6f3 )
+)
+
+game (
+	name "Kaettekita Mario Bros. (1988)(Nintendo)[a2]"
+	description "Kaettekita Mario Bros. (1988)(Nintendo)[a2]"
+	rom ( name "Kaettekita Mario Bros. (1988)(Nintendo)[a2].fds" size 131016 crc 69b9ff0d md5 28c50b8e952dc78487879f57af6a5753 )
+)
+
+game (
+	name "Kaettekita Mario Bros. (1988)(Nintendo)[a3]"
+	description "Kaettekita Mario Bros. (1988)(Nintendo)[a3]"
+	rom ( name "Kaettekita Mario Bros. (1988)(Nintendo)[a3].fds" size 131016 crc 99b838e5 md5 320b0fa5802a0e225442c4ca82694523 )
+)
+
+game (
+	name "Kaettekita Mario Bros. (1988)(Nintendo)[a4]"
+	description "Kaettekita Mario Bros. (1988)(Nintendo)[a4]"
+	rom ( name "Kaettekita Mario Bros. (1988)(Nintendo)[a4].fds" size 131016 crc 5b038028 md5 05b37f705123f4c9f95812bce911d295 )
+)
+
+game (
+	name "Kalin no Tsurugi (1987)(Xtalsoft - DOG)"
+	description "Kalin no Tsurugi (1987)(Xtalsoft - DOG)"
+	rom ( name "Kalin no Tsurugi (1987)(Xtalsoft - DOG).fds" size 131016 crc 0c398ce5 md5 b2989c72916c8e100753457d18e30e68 )
+)
+
+game (
+	name "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[a]"
+	description "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[a]"
+	rom ( name "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[a].fds" size 131016 crc cbf87119 md5 81ec0649d71b53fedf40db1fde95ed05 )
+)
+
+game (
+	name "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[b]"
+	description "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[b]"
+	rom ( name "Kalin no Tsurugi (1987)(Xtalsoft - DOG)[b].fds" size 131016 crc 518cde9e md5 75655c15e501b3a30ee093cd1991dd66 )
+)
+
+game (
+	name "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai)"
+	description "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai)"
+	rom ( name "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai).fds" size 131016 crc 79a4d387 md5 f793998b2a3ca5a096e3b8a8c4542038 )
+)
+
+game (
+	name "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai)[a]"
+	description "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai)[a]"
+	rom ( name "Kamen Rider Black - Taiketsu Shadow Moon (1988)(Bandai)[a].fds" size 131016 crc 82d2fb0f md5 cd4138523cea4cbbfce3fa9531f5aafb )
+)
+
+game (
+	name "Karate Champ (1986)(Data East Corp.)"
+	description "Karate Champ (1986)(Data East Corp.)"
+	rom ( name "Karate Champ (1986)(Data East Corp.).fds" size 131016 crc f868a8cb md5 eaea554028b0d92fe708c2eb5c916ca0 )
+)
+
+game (
+	name "Kattobi! Warabe Ko (19xx)(Pack-In-Video)"
+	description "Kattobi! Warabe Ko (19xx)(Pack-In-Video)"
+	rom ( name "Kattobi! Warabe Ko (19xx)(Pack-In-Video).fds" size 131016 crc f7e34b62 md5 2aa240ec69d5d2e43415fb188fe9a3ef )
+)
+
+game (
+	name "Kick and Run (1988)(Taito Corp.)"
+	description "Kick and Run (1988)(Taito Corp.)"
+	rom ( name "Kick and Run (1988)(Taito Corp.).fds" size 131016 crc 23befae6 md5 b8d31e6f65d2ba5a3933f3a97c94e878 )
+)
+
+game (
+	name "Kidou Keisatsu Patlabor (1989)(Bandai)"
+	description "Kidou Keisatsu Patlabor (1989)(Bandai)"
+	rom ( name "Kidou Keisatsu Patlabor (1989)(Bandai).fds" size 131016 crc ae2f1124 md5 56ba055cc0bd31437e0083f20d8022eb )
+)
+
+game (
+	name "Kieta Princess (19xx)(-)[b]"
+	description "Kieta Princess (19xx)(-)[b]"
+	rom ( name "Kieta Princess (19xx)(-)[b].fds" size 131016 crc e57ad002 md5 15c702474be1c12383007f99e3368b14 )
+)
+
+game (
+	name "Kiki Kaikai - Dotou Hen (1987)(Taito Corp.)"
+	description "Kiki Kaikai - Dotou Hen (1987)(Taito Corp.)"
+	rom ( name "Kiki Kaikai - Dotou Hen (1987)(Taito Corp.).fds" size 131016 crc 4c791779 md5 97c304b339f2db8632ef86f385086bad )
+)
+
+game (
+	name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)"
+	description "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)"
+	rom ( name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai).fds" size 131016 crc 5149b663 md5 7271dbdac815084f9b81d13ad274baba )
+)
+
+game (
+	name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[b]"
+	description "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[b]"
+	rom ( name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[b].fds" size 131016 crc 736ac5e9 md5 60f367dd4c6a3b5d84f85e301fa8de2a )
+)
+
+game (
+	name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[h]"
+	description "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[h]"
+	rom ( name "Kinniku Man - Kinniku Ookurai Soudatsusen (1987)(Bandai)[h].fds" size 131016 crc a496d2fa md5 9a24d070f3e74628395194b752ad9b9e )
+)
+
+game (
+	name "Knight Lore (1986)(Jaleco Ltd.)"
+	description "Knight Lore (1986)(Jaleco Ltd.)"
+	rom ( name "Knight Lore (1986)(Jaleco Ltd.).fds" size 131016 crc b7d99a11 md5 93194799e9dbb8a89456b64a98b6abf5 )
+)
+
+game (
+	name "Knight Move (1990)(Nintendo)"
+	description "Knight Move (1990)(Nintendo)"
+	rom ( name "Knight Move (1990)(Nintendo).fds" size 65516 crc 0a0ac522 md5 cdb58ff6c3077301613b6905873be579 )
+)
+
+game (
+	name "Knight Move (1990)(Nintendo)[tr en]"
+	description "Knight Move (1990)(Nintendo)[tr en]"
+	rom ( name "Knight Move (1990)(Nintendo)[tr en].fds" size 65516 crc b02fbe31 md5 986a1fd2a2982d62d407c3299e2a4bf1 )
+)
+
+game (
+	name "Kobayashi Hitomi no Hold Up (19xx)(Hacker Int.)"
+	description "Kobayashi Hitomi no Hold Up (19xx)(Hacker Int.)"
+	rom ( name "Kobayashi Hitomi no Hold Up (19xx)(Hacker Int.).fds" size 131016 crc 744ae42f md5 8abd3d6c8d6202a56be3fd5d2e7a592f )
+)
+
+game (
+	name "Konami Ice Hockey (1988)(Konami)"
+	description "Konami Ice Hockey (1988)(Konami)"
+	rom ( name "Konami Ice Hockey (1988)(Konami).fds" size 131016 crc 4256265b md5 da00495e73b2faaa96b4fd8dd2da5afa )
+)
+
+game (
+	name "Konami Tennis (1988)(Konami)"
+	description "Konami Tennis (1988)(Konami)"
+	rom ( name "Konami Tennis (1988)(Konami).fds" size 131016 crc ac4ed201 md5 a8b487a5ad7d6e00b8c6e2cf65663445 )
+)
+
+game (
+	name "Koneko Monogatari - The Adventures of Chatran (19xx)(Pony Inc.)"
+	description "Koneko Monogatari - The Adventures of Chatran (19xx)(Pony Inc.)"
+	rom ( name "Koneko Monogatari - The Adventures of Chatran (19xx)(Pony Inc.).fds" size 131016 crc 0b3b5780 md5 af2fea0b83e0db7681dc67f1e4d5d121 )
+)
+
+game (
+	name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)"
+	description "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)"
+	rom ( name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo).fds" size 131016 crc aceb8d17 md5 7fbf9cf4b5800b77ed07876fea48bd0e )
+)
+
+game (
+	name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a]"
+	description "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a]"
+	rom ( name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a].fds" size 131016 crc b486c634 md5 36d66bafbc7bc68860be8f90f95da3db )
+)
+
+game (
+	name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a2]"
+	description "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a2]"
+	rom ( name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a2].fds" size 131016 crc 7502ec82 md5 d1babd8efe660da307541c4c974f9792 )
+)
+
+game (
+	name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a3]"
+	description "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a3]"
+	rom ( name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a3].fds" size 131016 crc 1cb09e44 md5 aab717d9a12960524240c2f0794d7dbf )
+)
+
+game (
+	name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a4]"
+	description "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a4]"
+	rom ( name "Legend of Zelda 2, The - Link no Bouken (1987)(Nintendo)[a4].fds" size 131016 crc 13d56760 md5 91880222e02d9ba25df3255c4aaf756f )
+)
+
+game (
+	name "Lipstick #.1 - Lolita Hen (1988)(Mimi Pro)"
+	description "Lipstick #.1 - Lolita Hen (1988)(Mimi Pro)"
+	rom ( name "Lipstick #.1 - Lolita Hen (1988)(Mimi Pro).fds" size 131016 crc 80464b1e md5 b1984b61dc485b3de927611dc5aecb26 )
+)
+
+game (
+	name "Lipstick #.2 - Joshi Gakusei Hen (1988)(Mimi Pro)"
+	description "Lipstick #.2 - Joshi Gakusei Hen (1988)(Mimi Pro)"
+	rom ( name "Lipstick #.2 - Joshi Gakusei Hen (1988)(Mimi Pro).fds" size 131016 crc c8d136b7 md5 bf6cab3139e60ccb9638636c26ddaab7 )
+)
+
+game (
+	name "Lipstick #.3 - OL Hen (1988)(Mimi Pro)"
+	description "Lipstick #.3 - OL Hen (1988)(Mimi Pro)"
+	rom ( name "Lipstick #.3 - OL Hen (1988)(Mimi Pro).fds" size 131016 crc 0fb80911 md5 8f1697033016f7919e8c4324a46074ed )
+)
+
+game (
+	name "Lipstick #.4 - Hakui no Tenshi Hen (1988)(Mimi Pro)"
+	description "Lipstick #.4 - Hakui no Tenshi Hen (1988)(Mimi Pro)"
+	rom ( name "Lipstick #.4 - Hakui no Tenshi Hen (1988)(Mimi Pro).fds" size 131016 crc c201e3bc md5 afe77bbce54dfb4b5775616e127667f0 )
+)
+
+game (
+	name "Lipstick #.5 - Stewardess Hen (1988)(Mimi Pro)"
+	description "Lipstick #.5 - Stewardess Hen (1988)(Mimi Pro)"
+	rom ( name "Lipstick #.5 - Stewardess Hen (1988)(Mimi Pro).fds" size 131016 crc ce25a442 md5 f0e331338617551d9c8b46462952d0cf )
+)
+
+game (
+	name "Lutter (1989)(Athena)"
+	description "Lutter (1989)(Athena)"
+	rom ( name "Lutter (1989)(Athena).fds" size 131016 crc 53059198 md5 a938c0a5634609a7121e7c6d5c7e8754 )
+)
+
+game (
+	name "Lutter (1989)(Athena)[tr en]"
+	description "Lutter (1989)(Athena)[tr en]"
+	rom ( name "Lutter (1989)(Athena)[tr en].fds" size 131016 crc 934cfa97 md5 1c443b7974e82ecbb848f4b1b09518a3 )
+)
+
+game (
+	name "Magma Project - Hacker (1989)(Tokuma Shoten)"
+	description "Magma Project - Hacker (1989)(Tokuma Shoten)"
+	rom ( name "Magma Project - Hacker (1989)(Tokuma Shoten).fds" size 131016 crc 59d51115 md5 5a3545dbde55e3233b7dbafa6607a965 )
+)
+
+game (
+	name "Mahjong (1983)(Nintendo)"
+	description "Mahjong (1983)(Nintendo)"
+	rom ( name "Mahjong (1983)(Nintendo).fds" size 65516 crc 73d505ef md5 d4faa6f47c6943ed622f5e8f35e79ea5 )
+)
+
+game (
+	name "Mahjong (1983)(Nintendo)[a]"
+	description "Mahjong (1983)(Nintendo)[a]"
+	rom ( name "Mahjong (1983)(Nintendo)[a].fds" size 65516 crc 5de9add9 md5 3c9d6b066092cdf5a6478dc392ad9bbc )
+)
+
+game (
+	name "Mahjong Kazoku (1987)(Irem Corp.)"
+	description "Mahjong Kazoku (1987)(Irem Corp.)"
+	rom ( name "Mahjong Kazoku (1987)(Irem Corp.).fds" size 131016 crc 8ddc6d71 md5 b2ae897f11d6cbf9fa658ed715d992fa )
+)
+
+game (
+	name "Marchen Veil (1987)(Sunsoft)"
+	description "Marchen Veil (1987)(Sunsoft)"
+	rom ( name "Marchen Veil (1987)(Sunsoft).fds" size 131016 crc ad9713bc md5 44c955d706ebae541b4cd13d3e2224ab )
+)
+
+game (
+	name "Mario Bobble (1989)(Sun)"
+	description "Mario Bobble (1989)(Sun)"
+	rom ( name "Mario Bobble (1989)(Sun).fds" size 131016 crc a4082d7f md5 a54eb8521da091bc5c0c3edf03d59cf9 )
+)
+
+game (
+	name "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)"
+	description "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)"
+	rom ( name "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon).fds" size 131016 crc 4a3e7f59 md5 8c879205b07f2979d5ec277b3792f48c )
+)
+
+game (
+	name "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)[a]"
+	description "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)[a]"
+	rom ( name "Matou no Houkai - The Hero of Babel (1988)(Pony Canyon)[a].fds" size 131016 crc bfbf8fb5 md5 ae3dd2c4793a01d41362eac7ccc5f5a3 )
+)
+
+game (
+	name "Meikyuu Jiin Dababa (1987)(Konami)"
+	description "Meikyuu Jiin Dababa (1987)(Konami)"
+	rom ( name "Meikyuu Jiin Dababa (1987)(Konami).fds" size 131016 crc 16321dcb md5 656a06fa6f29cb4c7085959b0f317869 )
+)
+
+game (
+	name "Meikyuu Jiin Dababa (1987)(Konami)[a]"
+	description "Meikyuu Jiin Dababa (1987)(Konami)[a]"
+	rom ( name "Meikyuu Jiin Dababa (1987)(Konami)[a].fds" size 131016 crc 05aef576 md5 dd91375c57f48e48eb44ed0ffcbf20e1 )
+)
+
+game (
+	name "Metroid v1.01 (1986)(Nintendo)"
+	description "Metroid v1.01 (1986)(Nintendo)"
+	rom ( name "Metroid v1.01 (1986)(Nintendo).fds" size 131016 crc 8f10cdd1 md5 6e4c5e725c4fed54c5f6309ce3049b1b )
+)
+
+game (
+	name "Metroid v1.01 (1986)(Nintendo)[a]"
+	description "Metroid v1.01 (1986)(Nintendo)[a]"
+	rom ( name "Metroid v1.01 (1986)(Nintendo)[a].fds" size 131016 crc 8e266210 md5 69bf70887baa976fa82d2ca5e58f6c43 )
+)
+
+game (
+	name "Metroid v1.01 (demo) (1986)(Nintendo)"
+	description "Metroid v1.01 (demo) (1986)(Nintendo)"
+	rom ( name "Metroid v1.01 (demo) (1986)(Nintendo).fds" size 131016 crc 3af0d076 md5 52bce9cb915658ce10aac471c16e7a19 )
+)
+
+game (
+	name "Metroid v1.01 (demo) (1986)(Nintendo)[a]"
+	description "Metroid v1.01 (demo) (1986)(Nintendo)[a]"
+	rom ( name "Metroid v1.01 (demo) (1986)(Nintendo)[a].fds" size 131016 crc 3be38126 md5 d69c81d083451b2766cb48246a432bf4 )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)"
+	description "Metroid v1.02 (1986)(Nintendo)"
+	rom ( name "Metroid v1.02 (1986)(Nintendo).fds" size 131016 crc e575eae1 md5 1fac3397d4403e883e7ed819ce2ba210 )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)[a]"
+	description "Metroid v1.02 (1986)(Nintendo)[a]"
+	rom ( name "Metroid v1.02 (1986)(Nintendo)[a].fds" size 131016 crc 70d60944 md5 4a9cbdd4f153028ca3489c3d8b1781da )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)[h]"
+	description "Metroid v1.02 (1986)(Nintendo)[h]"
+	rom ( name "Metroid v1.02 (1986)(Nintendo)[h].fds" size 131016 crc 2c104ccd md5 9b33ee615588c54b3dd32afe9a27b1ae )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)[h2]"
+	description "Metroid v1.02 (1986)(Nintendo)[h2]"
+	rom ( name "Metroid v1.02 (1986)(Nintendo)[h2].fds" size 131016 crc 5f9960a9 md5 b7f8ab10ae2858456c97aa9163ff15ab )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)[h3]"
+	description "Metroid v1.02 (1986)(Nintendo)[h3]"
+	rom ( name "Metroid v1.02 (1986)(Nintendo)[h3].fds" size 131016 crc 4bd04bbc md5 72a33fae02bbfaa0289ca3f3f348ff51 )
+)
+
+game (
+	name "Metroid v1.01 (1986)(Nintendo)[tr en]"
+	description "Metroid v1.01 (1986)(Nintendo)[tr en]"
+	rom ( name "Metroid v1.01 (1986)(Nintendo)[tr en].fds" size 131016 crc 6b6ed55d md5 510e8b40b55532991fb8475dc17a6c20 )
+)
+
+game (
+	name "Metroid v1.02 (1986)(Nintendo)[tr en]"
+	description "Metroid v1.02 (1986)(Nintendo)[tr en]"
+	rom ( name "Metroid v1.02 (1986)(Nintendo)[tr en].fds" size 131016 crc e80b8e88 md5 687184ebbb78ff1e89cf43bd42adb146 )
+)
+
+game (
+	name "Michael English Daibouken (1987)(Scorpion Soft)"
+	description "Michael English Daibouken (1987)(Scorpion Soft)"
+	rom ( name "Michael English Daibouken (1987)(Scorpion Soft).fds" size 131016 crc b199123a md5 d709d38630ea442b408cbfccb62f3f25 )
+)
+
+game (
+	name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)"
+	description "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)"
+	rom ( name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami).fds" size 131016 crc 39f22b73 md5 50342218421f76293acc27c9d5e34444 )
+)
+
+game (
+	name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[a]"
+	description "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[a]"
+	rom ( name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[a].fds" size 131016 crc a3bf8d53 md5 f15d63b3b8dc7a0cae82e1beed81e3a0 )
+)
+
+game (
+	name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[h]"
+	description "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[h]"
+	rom ( name "Moero TwinBee - Cinnamon Hakase wo Sukue! (1986)(Konami)[h].fds" size 131016 crc 9bed54a4 md5 ef49c26e54e3da2018829a255fd8b568 )
+)
+
+game (
+	name "Moero Yakyuuken (19xx)(Super PIG)"
+	description "Moero Yakyuuken (19xx)(Super PIG)"
+	rom ( name "Moero Yakyuuken (19xx)(Super PIG).fds" size 131016 crc 3752b9a0 md5 a86bef5474447e75225f43d4f97f773e )
+)
+
+game (
+	name "Moero Yakyuuken (19xx)(Super PIG)[tr en]"
+	description "Moero Yakyuuken (19xx)(Super PIG)[tr en]"
+	rom ( name "Moero Yakyuuken (19xx)(Super PIG)[tr en].fds" size 131016 crc 46d44a35 md5 b106dc50d17c8ce247f7d2189bbbc973 )
+)
+
+game (
+	name "Monitor Puzzle, The - Kineko - Kinetic Connection (1986)(Irem Corp.)"
+	description "Monitor Puzzle, The - Kineko - Kinetic Connection (1986)(Irem Corp.)"
+	rom ( name "Monitor Puzzle, The - Kineko - Kinetic Connection (1986)(Irem Corp.).fds" size 131016 crc 6833b0eb md5 f5aafe06f52156dc4fea59cc580f296a )
+)
+
+game (
+	name "Monitor Puzzle, The - Kineko Vol. II - Kinetic Connection (1987)(Irem Corp.)"
+	description "Monitor Puzzle, The - Kineko Vol. II - Kinetic Connection (1987)(Irem Corp.)"
+	rom ( name "Monitor Puzzle, The - Kineko Vol. II - Kinetic Connection (1987)(Irem Corp.).fds" size 131016 crc 746f76b0 md5 4c037a0fcdc3e20d2e436c9e29ceb9b5 )
+)
+
+game (
+	name "Monty no Doki Doki Daisassou - Monty on the Run (1987)(Jaleco)"
+	description "Monty no Doki Doki Daisassou - Monty on the Run (1987)(Jaleco)"
+	rom ( name "Monty no Doki Doki Daisassou - Monty on the Run (1987)(Jaleco).fds" size 131016 crc 98f35cb4 md5 7632439bab5ef2efd6a2749e7c595cc0 )
+)
+
+game (
+	name "Moonball Magic (19xx)(-)"
+	description "Moonball Magic (19xx)(-)"
+	rom ( name "Moonball Magic (19xx)(-).fds" size 131016 crc 7c61b94d md5 aebf3285d30d4773f2c76dfa0882827b )
+)
+
+game (
+	name "Mr. Gold - Kinsan in the Space (19xx)(-)"
+	description "Mr. Gold - Kinsan in the Space (19xx)(-)"
+	rom ( name "Mr. Gold - Kinsan in the Space (19xx)(-).fds" size 131016 crc f795be0d md5 cff950e75865be15297bbb79e6e42890 )
+)
+
+game (
+	name "Nakayama Miho no Tokimeki High School (1987)(Nintendo)"
+	description "Nakayama Miho no Tokimeki High School (1987)(Nintendo)"
+	rom ( name "Nakayama Miho no Tokimeki High School (1987)(Nintendo).fds" size 131016 crc ad018fc3 md5 49c306d088747550a1c3924bc3dfd1a7 )
+)
+
+game (
+	name "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[a]"
+	description "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[a]"
+	rom ( name "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[a].fds" size 131016 crc a4e0e72f md5 b47c10006ee234251955a8c64dc8aa38 )
+)
+
+game (
+	name "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[b]"
+	description "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[b]"
+	rom ( name "Nakayama Miho no Tokimeki High School (1987)(Nintendo)[b].fds" size 131016 crc c4aab0ff md5 fc1987c68540156859fc2ab71cfdbff0 )
+)
+
+game (
+	name "Namida no Soukoban Special (1986)(ASCII Corp.)"
+	description "Namida no Soukoban Special (1986)(ASCII Corp.)"
+	rom ( name "Namida no Soukoban Special (1986)(ASCII Corp.).fds" size 131016 crc 24a387f0 md5 3dfab68e8c33035829a168be7c2e0805 )
+)
+
+game (
+	name "Namida no Soukoban Special (1986)(ASCII Corp.)[tr en]"
+	description "Namida no Soukoban Special (1986)(ASCII Corp.)[tr en]"
+	rom ( name "Namida no Soukoban Special (1986)(ASCII Corp.)[tr en].fds" size 131016 crc 704ae7b2 md5 be5d0645a2aea8f47b5b0a86fe36c79f )
+)
+
+game (
+	name "Nankin no Adventure (1988)(Sunsoft)"
+	description "Nankin no Adventure (1988)(Sunsoft)"
+	rom ( name "Nankin no Adventure (1988)(Sunsoft).fds" size 131016 crc 1ff768b3 md5 efa2962d53858e1251be7df96a2c311d )
+)
+
+game (
+	name "Nazo no Kabe - Block Kuzushi (1986)(Konami)"
+	description "Nazo no Kabe - Block Kuzushi (1986)(Konami)"
+	rom ( name "Nazo no Kabe - Block Kuzushi (1986)(Konami).fds" size 131016 crc 0d518ddc md5 855c5b1607ac0a3a89bedfe92b909205 )
+)
+
+game (
+	name "Nazo no Kabe - Block Kuzushi (1986)(Konami)[h]"
+	description "Nazo no Kabe - Block Kuzushi (1986)(Konami)[h]"
+	rom ( name "Nazo no Kabe - Block Kuzushi (1986)(Konami)[h].fds" size 131016 crc 2425834d md5 238b40a08d8527d43179c9bb7e762b76 )
+)
+
+game (
+	name "Nazo no Magazine Disk - Nazoraa Land Dai 2 Gou (1987)(Sunsoft)"
+	description "Nazo no Magazine Disk - Nazoraa Land Dai 2 Gou (1987)(Sunsoft)"
+	rom ( name "Nazo no Magazine Disk - Nazoraa Land Dai 2 Gou (1987)(Sunsoft).fds" size 131016 crc 71c77561 md5 7c9487ea327e94f913b40c6011c77fa2 )
+)
+
+game (
+	name "Nazo no Magazine Disk - Nazoraa Land Dai 3 Gou (1988)(Sunsoft)"
+	description "Nazo no Magazine Disk - Nazoraa Land Dai 3 Gou (1988)(Sunsoft)"
+	rom ( name "Nazo no Magazine Disk - Nazoraa Land Dai 3 Gou (1988)(Sunsoft).fds" size 131016 crc 4b781e6d md5 a34f184fedce6ca6dad5e73dbad09923 )
+)
+
+game (
+	name "Nazo no Magazine Disk - Nazoraa Land Soukan Gou (1987)(Sunsoft)"
+	description "Nazo no Magazine Disk - Nazoraa Land Soukan Gou (1987)(Sunsoft)"
+	rom ( name "Nazo no Magazine Disk - Nazoraa Land Soukan Gou (1987)(Sunsoft).fds" size 131016 crc 65285d1c md5 08a9d42f8ee5ae5cf679550601bc9cb9 )
+)
+
+game (
+	name "Nazo no Magazine Disk - Nazoraa Land Soukan Gou - Quiz Ou wo Sagase! (1987)(Sunsoft)"
+	description "Nazo no Magazine Disk - Nazoraa Land Soukan Gou - Quiz Ou wo Sagase! (1987)(Sunsoft)"
+	rom ( name "Nazo no Magazine Disk - Nazoraa Land Soukan Gou - Quiz Ou wo Sagase! (1987)(Sunsoft).fds" size 131016 crc fc08181d md5 556e4f364ba6f47f70d7ec80a8d7a94b )
+)
+
+game (
+	name "Nazo no Murasamejou (1986)(Nintendo)"
+	description "Nazo no Murasamejou (1986)(Nintendo)"
+	rom ( name "Nazo no Murasamejou (1986)(Nintendo).fds" size 131016 crc fa792599 md5 d0f8959b0cff6a324669d72cc3e54809 )
+)
+
+game (
+	name "Nazo no Murasamejou (1986)(Nintendo)[h]"
+	description "Nazo no Murasamejou (1986)(Nintendo)[h]"
+	rom ( name "Nazo no Murasamejou (1986)(Nintendo)[h].fds" size 131016 crc f8cbe356 md5 7dff5796d5e16d1f0f7988b058f93001 )
+)
+
+game (
+	name "Nazo no Murasamejou (1986)(Nintendo)[tr en]"
+	description "Nazo no Murasamejou (1986)(Nintendo)[tr en]"
+	rom ( name "Nazo no Murasamejou (1986)(Nintendo)[tr en].fds" size 131016 crc a2859015 md5 199711922a3803256e9fa385f9827f2e )
+)
+
+game (
+	name "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai)"
+	description "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai)"
+	rom ( name "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai).fds" size 131016 crc ec525a6b md5 d12c1fc4caa4c7ccb08d9c0a0759e599 )
+)
+
+game (
+	name "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai)[a]"
+	description "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai)[a]"
+	rom ( name "Omoikkiri Tanteidan Haado Gumi - Matenrou no Chousenjou (1988)(Bandai)[a].fds" size 131016 crc 1eff9ded md5 28d988b23f76f1d1fcb9c76c0dc2e067 )
+)
+
+game (
+	name "Otocky (1987)(SEDIC)"
+	description "Otocky (1987)(SEDIC)"
+	rom ( name "Otocky (1987)(SEDIC).fds" size 131016 crc 31dc1c4a md5 bec591ce76a189bed28c736added7d0f )
+)
+
+game (
+	name "Pac-Man (1990)(Namco Ltd.)"
+	description "Pac-Man (1990)(Namco Ltd.)"
+	rom ( name "Pac-Man (1990)(Namco Ltd.).fds" size 65516 crc 16f60a52 md5 b28ebef7fc1ab6ff0dfdf5d924b28d8f )
+)
+
+game (
+	name "Pachi Com (1985)(Toshiba Emi-Jpm)"
+	description "Pachi Com (1985)(Toshiba Emi-Jpm)"
+	rom ( name "Pachi Com (1985)(Toshiba Emi-Jpm).fds" size 65516 crc 65e47753 md5 deb9ac91bc420a23a2f9921de15acddc )
+)
+
+game (
+	name "Pachinko Grand Prix (1988)(Data East Corp.)"
+	description "Pachinko Grand Prix (1988)(Data East Corp.)"
+	rom ( name "Pachinko Grand Prix (1988)(Data East Corp.).fds" size 131016 crc 9902aa6f md5 306e3fa178ef1efacf863b134c20cea1 )
+)
+
+game (
+	name "Pinball (1983)(Nintendo)"
+	description "Pinball (1983)(Nintendo)"
+	rom ( name "Pinball (1983)(Nintendo).fds" size 65516 crc 5218d0a8 md5 98ee43cdbb68d5a463c5c6a9fba7810c )
+)
+
+game (
+	name "Pro Golfer Saru - Kage no Tournament (1987)(Bandai)"
+	description "Pro Golfer Saru - Kage no Tournament (1987)(Bandai)"
+	rom ( name "Pro Golfer Saru - Kage no Tournament (1987)(Bandai).fds" size 131016 crc 2a1336c0 md5 a512bd9c2e2d4381c45160b1f220ca17 )
+)
+
+game (
+	name "Professional Mahjong Gokuu (1986)(Chatnoir)"
+	description "Professional Mahjong Gokuu (1986)(Chatnoir)"
+	rom ( name "Professional Mahjong Gokuu (1986)(Chatnoir).fds" size 131016 crc 4b684fca md5 20af8428a8e86e688143701fde2a5f37 )
+)
+
+game (
+	name "Professional Mahjong Gokuu (1986)(Chatnoir)[a]"
+	description "Professional Mahjong Gokuu (1986)(Chatnoir)[a]"
+	rom ( name "Professional Mahjong Gokuu (1986)(Chatnoir)[a].fds" size 131016 crc d3a3ca73 md5 909cb4838c56c261c62de02735a7b243 )
+)
+
+game (
+	name "Pulsar no Hikari - Space Wars Simulation (1987)(Soft Pro Int.)"
+	description "Pulsar no Hikari - Space Wars Simulation (1987)(Soft Pro Int.)"
+	rom ( name "Pulsar no Hikari - Space Wars Simulation (1987)(Soft Pro Int.).fds" size 131016 crc 7abe8e70 md5 1921efa4043d147f77ee945c0c73344d )
+)
+
+game (
+	name "Puroresu - Famicom Wrestling Association (1986)(Nintendo)"
+	description "Puroresu - Famicom Wrestling Association (1986)(Nintendo)"
+	rom ( name "Puroresu - Famicom Wrestling Association (1986)(Nintendo).fds" size 65516 crc d870ebcc md5 1edc3fc9ce0a9ac8159acf17923599c2 )
+)
+
+game (
+	name "Putt Putt Golf (19xx)(Pack-in-Video)"
+	description "Putt Putt Golf (19xx)(Pack-in-Video)"
+	rom ( name "Putt Putt Golf (19xx)(Pack-in-Video).fds" size 131016 crc 30c08e14 md5 c18448865d7ca3fa5a4e98fe7665a869 )
+)
+
+game (
+	name "Puzzle Boys (1990)(Atlus Ltd.)"
+	description "Puzzle Boys (1990)(Atlus Ltd.)"
+	rom ( name "Puzzle Boys (1990)(Atlus Ltd.).fds" size 131016 crc 096dffe6 md5 c70973cc8d6079463df3f65e807280e1 )
+)
+
+game (
+	name "Radical Bomber!! Jirai Kun (1988)(Jaleco)"
+	description "Radical Bomber!! Jirai Kun (1988)(Jaleco)"
+	rom ( name "Radical Bomber!! Jirai Kun (1988)(Jaleco).fds" size 131016 crc 592d32bb md5 5d2e2cfafd224405321092713a27b719 )
+)
+
+game (
+	name "Reflect World (1987)(East Cube)"
+	description "Reflect World (1987)(East Cube)"
+	rom ( name "Reflect World (1987)(East Cube).fds" size 131016 crc e269fca3 md5 eeafc60997149249605967212abe01d5 )
+)
+
+game (
+	name "Relics - Ankoku Yousai (1987)(Bothtec)"
+	description "Relics - Ankoku Yousai (1987)(Bothtec)"
+	rom ( name "Relics - Ankoku Yousai (1987)(Bothtec).fds" size 131016 crc 7b9a7a32 md5 c356f8ee66bf4d224e0bc5cdbe72a5d0 )
+)
+
+game (
+	name "Replicart (1988)(Taito Corp.)"
+	description "Replicart (1988)(Taito Corp.)"
+	rom ( name "Replicart (1988)(Taito Corp.).fds" size 131016 crc e0da43f8 md5 16a36157eb40474c5b4aea986dffff09 )
+)
+
+game (
+	name "Risa no Yousei Densetsu - Risa Tachibana (1988)(Konami)"
+	description "Risa no Yousei Densetsu - Risa Tachibana (1988)(Konami)"
+	rom ( name "Risa no Yousei Densetsu - Risa Tachibana (1988)(Konami).fds" size 131016 crc 699b8dca md5 5bee8bcf8a48800d0f48705117381164 )
+)
+
+game (
+	name "Roger Rabbit (1989)(Kemco)"
+	description "Roger Rabbit (1989)(Kemco)"
+	rom ( name "Roger Rabbit (1989)(Kemco).fds" size 131016 crc 33cf8ae8 md5 ac51a5f6b0cbd3ff539b5738ba37c56f )
+)
+
+game (
+	name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)"
+	description "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)"
+	rom ( name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai).fds" size 131016 crc 2db7a34d md5 efb11d2fcdffee78c57188c7c0246fbc )
+)
+
+game (
+	name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a]"
+	description "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a]"
+	rom ( name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a].fds" size 131016 crc 71436896 md5 27f4a3730f1d252c69659ef24ecabf72 )
+)
+
+game (
+	name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a2]"
+	description "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a2]"
+	rom ( name "SD Gundam World - Gachapon Senshi - Scramble Wars (1987)(Bandai)[a2].fds" size 131016 crc 0b8a1b84 md5 5178f858025757cbf8961dd119effae2 )
+)
+
+game (
+	name "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai)"
+	description "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai)"
+	rom ( name "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai).fds" size 131016 crc a0887210 md5 3f2ccf8c86f2dba0a50a042266c5ce95 )
+)
+
+game (
+	name "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai)[a]"
+	description "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai)[a]"
+	rom ( name "SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (1989)(Bandai)[a].fds" size 131016 crc c419dedf md5 a4ee91615470487b8e5f3ceaece1410a )
+)
+
+game (
+	name "Sailor Fuku Bishoujo Zukan Vol. 1 (1989)(Mimi)"
+	description "Sailor Fuku Bishoujo Zukan Vol. 1 (1989)(Mimi)"
+	rom ( name "Sailor Fuku Bishoujo Zukan Vol. 1 (1989)(Mimi).fds" size 131016 crc 1627852a md5 00c3ce9fd4a438cdbe0f81df89dae3b3 )
+)
+
+game (
+	name "Sailor Fuku Bishoujo Zukan Vol. 3 (1989)(Mimi)"
+	description "Sailor Fuku Bishoujo Zukan Vol. 3 (1989)(Mimi)"
+	rom ( name "Sailor Fuku Bishoujo Zukan Vol. 3 (1989)(Mimi).fds" size 131016 crc 6aaba91b md5 e66f04ddc8854a532f25d39a150eda52 )
+)
+
+game (
+	name "Sailor Fuku Bishoujo Zukan Vol. 4 (1989)(Mimi)"
+	description "Sailor Fuku Bishoujo Zukan Vol. 4 (1989)(Mimi)"
+	rom ( name "Sailor Fuku Bishoujo Zukan Vol. 4 (1989)(Mimi).fds" size 131016 crc 18186367 md5 7e6b2fa671a7f920a1e806d7b05fdf5d )
+)
+
+game (
+	name "Sailor Fuku Bishoujo Zukan Vol. 5 (1989)(Mimi)"
+	description "Sailor Fuku Bishoujo Zukan Vol. 5 (1989)(Mimi)"
+	rom ( name "Sailor Fuku Bishoujo Zukan Vol. 5 (1989)(Mimi).fds" size 131016 crc 7008fedb md5 aa6c4e0f00effa60d2c852d34f38c6fb )
+)
+
+game (
+	name "Sailor Fuku Bishoujo Zukan Vol. 6 (1989)(Mimi)"
+	description "Sailor Fuku Bishoujo Zukan Vol. 6 (1989)(Mimi)"
+	rom ( name "Sailor Fuku Bishoujo Zukan Vol. 6 (1989)(Mimi).fds" size 131016 crc d929709f md5 15b5bf437f52a6f7decddc410137736d )
+)
+
+game (
+	name "Samurai Sword (1988)(Capcom)"
+	description "Samurai Sword (1988)(Capcom)"
+	rom ( name "Samurai Sword (1988)(Capcom).fds" size 131016 crc 5ca021ff md5 dd6e3da6aeb3a37a76ccb0a7f9dff960 )
+)
+
+game (
+	name "Santa Claus no Takarabako (1987)(Data East Corp.)"
+	description "Santa Claus no Takarabako (1987)(Data East Corp.)"
+	rom ( name "Santa Claus no Takarabako (1987)(Data East Corp.).fds" size 131016 crc c9289f7a md5 c94f48bd42f98bf3c51e80ec3d27efe1 )
+)
+
+game (
+	name "Section-Z (1987)(Capcom)"
+	description "Section-Z (1987)(Capcom)"
+	rom ( name "Section-Z (1987)(Capcom).fds" size 131016 crc 392488e2 md5 f0f2aeb1bc8fbb7ef5b0aa842c13b59b )
+)
+
+game (
+	name "Seiken - Psycho Calibur (1987)(Imagineer Co.)"
+	description "Seiken - Psycho Calibur (1987)(Imagineer Co.)"
+	rom ( name "Seiken - Psycho Calibur (1987)(Imagineer Co.).fds" size 131016 crc b130ee55 md5 94af3f079f8a48c5d5e01de5405453c3 )
+)
+
+game (
+	name "Seiken - Psycho Calibur (1987)(Imagineer Co.)[tr en]"
+	description "Seiken - Psycho Calibur (1987)(Imagineer Co.)[tr en]"
+	rom ( name "Seiken - Psycho Calibur (1987)(Imagineer Co.)[tr en].fds" size 131016 crc 0154d264 md5 18db908fbcf6328e31831bc5b8e33bfa )
+)
+
+game (
+	name "Silviana (19xx)(Pack-In-Video Co.)"
+	description "Silviana (19xx)(Pack-In-Video Co.)"
+	rom ( name "Silviana (19xx)(Pack-In-Video Co.).fds" size 131016 crc 6086d275 md5 4eb55747bfb8009e3b843430f19bcdfe )
+)
+
+game (
+	name "Silviana (19xx)(Pack-In-Video Co.)[tr en]"
+	description "Silviana (19xx)(Pack-In-Video Co.)[tr en]"
+	rom ( name "Silviana (19xx)(Pack-In-Video Co.)[tr en].fds" size 131016 crc e1835837 md5 7c5aad82a520f022279af9d74e815d07 )
+)
+
+game (
+	name "Smash Ping Pong (1987)(Nintendo)"
+	description "Smash Ping Pong (1987)(Nintendo)"
+	rom ( name "Smash Ping Pong (1987)(Nintendo).fds" size 65516 crc d4daaffc md5 f24f9ffa4fd1ed13636182580d67908a )
+)
+
+game (
+	name "Soccer (1985)(Nintendo)"
+	description "Soccer (1985)(Nintendo)"
+	rom ( name "Soccer (1985)(Nintendo).fds" size 65516 crc d2139dec md5 a75284f1f48695591d21acce69e32ada )
+)
+
+game (
+	name "Solomon no Kagi (1987)(Tecmo Ltd.)"
+	description "Solomon no Kagi (1987)(Tecmo Ltd.)"
+	rom ( name "Solomon no Kagi (1987)(Tecmo Ltd.).fds" size 65516 crc fe281a8e md5 636e7cca6fb1bdb71acd3cf83df46fe9 )
+)
+
+game (
+	name "Suishou no Ryuu (1986)(Square)"
+	description "Suishou no Ryuu (1986)(Square)"
+	rom ( name "Suishou no Ryuu (1986)(Square).fds" size 131016 crc ecd9ad23 md5 3a1ea524ace27936b1d8df4b6fe6c571 )
+)
+
+game (
+	name "Suishou no Ryuu (1986)(Square)[tr en]"
+	description "Suishou no Ryuu (1986)(Square)[tr en]"
+	rom ( name "Suishou no Ryuu (1986)(Square)[tr en].fds" size 131016 crc 41992a1a md5 d16a0819fb57453e1b47d2beff03da0c )
+)
+
+game (
+	name "Super Boy Allan (1987)(Sunsoft)"
+	description "Super Boy Allan (1987)(Sunsoft)"
+	rom ( name "Super Boy Allan (1987)(Sunsoft).fds" size 131016 crc 9237e34b md5 4495bd2ed9a6ed953cbf5e0ffd615ec6 )
+)
+
+game (
+	name "Super Lode Runner (1987)(Irem Corp.)"
+	description "Super Lode Runner (1987)(Irem Corp.)"
+	rom ( name "Super Lode Runner (1987)(Irem Corp.).fds" size 131016 crc 9064eccd md5 645305ea84c48d8bcb559b212b7261d0 )
+)
+
+game (
+	name "Super Lode Runner II (1987)(Irem Corp.)"
+	description "Super Lode Runner II (1987)(Irem Corp.)"
+	rom ( name "Super Lode Runner II (1987)(Irem Corp.).fds" size 131016 crc 40d11036 md5 d939d0d1ed52546f9ed24f3612082c05 )
+)
+
+game (
+	name "Super Mario Bros. (1985)(Nintendo)"
+	description "Super Mario Bros. (1985)(Nintendo)"
+	rom ( name "Super Mario Bros. (1985)(Nintendo).fds" size 65516 crc cd1d8ce3 md5 28df158b8b4f129d1070e47557c68d9b )
+)
+
+game (
+	name "Super Mario Bros. (1985)(Nintendo)[h]"
+	description "Super Mario Bros. (1985)(Nintendo)[h]"
+	rom ( name "Super Mario Bros. (1985)(Nintendo)[h].fds" size 65516 crc 74a70a81 md5 0614b9094a8cf41f8c0abb373aa24f34 )
+)
+
+game (
+	name "Super Mario Bros. 2 (1986)(Nintendo)"
+	description "Super Mario Bros. 2 (1986)(Nintendo)"
+	rom ( name "Super Mario Bros. 2 (1986)(Nintendo).fds" size 65516 crc 077b1892 md5 882bb4e73658d38483078fa227d58183 )
+)
+
+game (
+	name "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai)"
+	description "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai)"
+	rom ( name "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai).fds" size 131016 crc 4c6af0c5 md5 c6422edd681be40b3be446a28b17bec4 )
+)
+
+game (
+	name "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai)[a]"
+	description "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai)[a]"
+	rom ( name "Tama & Friends - 3 Choume Dai Bouken (1989)(Bandai)[a].fds" size 131016 crc 5823dbd0 md5 e8995285a8cf4c6f0c50d99e3d919c87 )
+)
+
+game (
+	name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)"
+	description "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)"
+	rom ( name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.).fds" size 131016 crc 60bd6a81 md5 07f23f70612cf3dda28b61df75f3502e )
+)
+
+game (
+	name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a]"
+	description "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a]"
+	rom ( name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a].fds" size 131016 crc 7a94fc72 md5 d2870fa007d8c0caa46c9bf60f07c184 )
+)
+
+game (
+	name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a2]"
+	description "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a2]"
+	rom ( name "Tanigawa Kouji no Shougi Shinan II (1987)(Pony Inc.)[a2].fds" size 131016 crc 075a76f4 md5 ea32254b11bf0f832edeecf4ef171f4d )
+)
+
+game (
+	name "Tantei Jinguuji Saburou - Kikenna Futari (1988)(Data East Corp.)"
+	description "Tantei Jinguuji Saburou - Kikenna Futari (1988)(Data East Corp.)"
+	rom ( name "Tantei Jinguuji Saburou - Kikenna Futari (1988)(Data East Corp.).fds" size 262016 crc cef9e908 md5 4b8dc01e3ffe37ca587f80575c4ce130 )
+)
+
+game (
+	name "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (1987)(Data East Corp.)"
+	description "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (1987)(Data East Corp.)"
+	rom ( name "Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (1987)(Data East Corp.).fds" size 131016 crc 5fb49958 md5 b4390819ec06e19b5ea42837feace370 )
+)
+
+game (
+	name "Tarot (19xx)(Scorpion Soft)"
+	description "Tarot (19xx)(Scorpion Soft)"
+	rom ( name "Tarot (19xx)(Scorpion Soft).fds" size 131016 crc 56e5cbe8 md5 20ac9b0707ace0d663452a4383c9a2a6 )
+)
+
+game (
+	name "Tennis (1983)(Nintendo)"
+	description "Tennis (1983)(Nintendo)"
+	rom ( name "Tennis (1983)(Nintendo).fds" size 65516 crc cb9a1ba3 md5 bb5a9944a43541b8eda767fc7bbac4e8 )
+)
+
+game (
+	name "Tennis (1983)(Nintendo)[a]"
+	description "Tennis (1983)(Nintendo)[a]"
+	rom ( name "Tennis (1983)(Nintendo)[a].fds" size 65516 crc 28705073 md5 43c6917792da3548e15ec09a97d15d1c )
+)
+
+game (
+	name "Tennis (1983)(Nintendo)[a2]"
+	description "Tennis (1983)(Nintendo)[a2]"
+	rom ( name "Tennis (1983)(Nintendo)[a2].fds" size 65516 crc 714061b6 md5 fc3376e601a7ac436fac39842aac1a40 )
+)
+
+game (
+	name "Time Twist - Rekishi no Katasumi de (1991)(Nintendo)"
+	description "Time Twist - Rekishi no Katasumi de (1991)(Nintendo)"
+	rom ( name "Time Twist - Rekishi no Katasumi de (1991)(Nintendo).fds" size 262016 crc 19d86d89 md5 4d519e36f976dcca8eb377ef6353f168 )
+)
+
+game (
+	name "Tobidase Daisakusen (1987)(Square)"
+	description "Tobidase Daisakusen (1987)(Square)"
+	rom ( name "Tobidase Daisakusen (1987)(Square).fds" size 131016 crc b1df87fe md5 bf5051b51122d76c6a4d116d93cf77f4 )
+)
+
+game (
+	name "Tobidase Daisakusen (1987)(Square)[a]"
+	description "Tobidase Daisakusen (1987)(Square)[a]"
+	rom ( name "Tobidase Daisakusen (1987)(Square)[a].fds" size 131016 crc 516d0d0b md5 1153ccb4c17604f5d76aab507be79692 )
+)
+
+game (
+	name "Tobidase Daisakusen (1987)(Square)[a2]"
+	description "Tobidase Daisakusen (1987)(Square)[a2]"
+	rom ( name "Tobidase Daisakusen (1987)(Square)[a2].fds" size 131016 crc 92f0c91e md5 d8c58509510d8d77707027207b589504 )
+)
+
+game (
+	name "Tobidase Daisakusen (1987)(Square)[b]"
+	description "Tobidase Daisakusen (1987)(Square)[b]"
+	rom ( name "Tobidase Daisakusen (1987)(Square)[b].fds" size 131016 crc 6984d1b6 md5 97202748bfd988d377f4bad61fa74be7 )
+)
+
+game (
+	name "Tobidase Daisakusen (1987)(Square)[h]"
+	description "Tobidase Daisakusen (1987)(Square)[h]"
+	rom ( name "Tobidase Daisakusen (1987)(Square)[h].fds" size 131016 crc 003c9640 md5 48495f7a7f2217cbcce39127762294db )
+)
+
+game (
+	name "Topple Zip (1987)(Bothtec)"
+	description "Topple Zip (1987)(Bothtec)"
+	rom ( name "Topple Zip (1987)(Bothtec).fds" size 131016 crc 7bf73c75 md5 f43cc3679742bd2b1bc568ec3e4ddc04 )
+)
+
+game (
+	name "Transformer - The Head Master (1987)(Takara Co. Ltd.)[b]"
+	description "Transformer - The Head Master (1987)(Takara Co. Ltd.)[b]"
+	rom ( name "Transformer - The Head Master (1987)(Takara Co. Ltd.)[b].fds" size 131016 crc 8bd904cd md5 91d1a2ea1a56e2a5747b6a0672130456 )
+)
+
+game (
+	name "TwinBee (1988)(Konami)"
+	description "TwinBee (1988)(Konami)"
+	rom ( name "TwinBee (1988)(Konami).fds" size 65516 crc 3688f585 md5 f098e2a0c52189f9479a56102aebb40e )
+)
+
+game (
+	name "TwinBee (1988)(Konami)[a]"
+	description "TwinBee (1988)(Konami)[a]"
+	rom ( name "TwinBee (1988)(Konami)[a].fds" size 65516 crc 5b54d1f1 md5 1edf737f0ba6f9f27e618ad4477c81a0 )
+)
+
+game (
+	name "TwinBee (1988)(Konami)[a2]"
+	description "TwinBee (1988)(Konami)[a2]"
+	rom ( name "TwinBee (1988)(Konami)[a2].fds" size 65516 crc 67ac10fd md5 19203dbb5494b9e543abaab48de35a66 )
+)
+
+game (
+	name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)"
+	description "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)"
+	rom ( name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai).fds" size 131016 crc 9ff61360 md5 ad46d99521097bf8d5285f4df501e171 )
+)
+
+game (
+	name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[a]"
+	description "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[a]"
+	rom ( name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[a].fds" size 131016 crc 1b535ecd md5 131d429f227ab66ded95e8ad5948b2d0 )
+)
+
+game (
+	name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[h]"
+	description "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[h]"
+	rom ( name "Ultraman - Kaijuu Teikoku no Gyakushuu (1986)(Bandai)[h].fds" size 131016 crc 5063f09e md5 53334c6edbc7fe69ca304ab3b91ae2e2 )
+)
+
+game (
+	name "Ultraman 2 - Shutsugeki Katoku Tai (1987)(Bandai)"
+	description "Ultraman 2 - Shutsugeki Katoku Tai (1987)(Bandai)"
+	rom ( name "Ultraman 2 - Shutsugeki Katoku Tai (1987)(Bandai).fds" size 131016 crc d62a2138 md5 a2c7f16ccf1afe35a4a554246210d634 )
+)
+
+game (
+	name "Ultraman Kurabu (1988)(Bandai)"
+	description "Ultraman Kurabu (1988)(Bandai)"
+	rom ( name "Ultraman Kurabu (1988)(Bandai).fds" size 131016 crc 02c28b17 md5 75f6e22633f1bbd5360cd1d2c7c97336 )
+)
+
+game (
+	name "Volleyball (1986)(Nintendo)"
+	description "Volleyball (1986)(Nintendo)"
+	rom ( name "Volleyball (1986)(Nintendo).fds" size 65516 crc b3c2e80d md5 3c0aeee1445df32d1ee43232a689a94d )
+)
+
+game (
+	name "Vs. Excitebike (1988)(Nintendo)"
+	description "Vs. Excitebike (1988)(Nintendo)"
+	rom ( name "Vs. Excitebike (1988)(Nintendo).fds" size 131016 crc 69050650 md5 65d1bc593f36ef7b2be350bbf09dafc1 )
+)
+
+game (
+	name "Vs. Excitebike (1988)(Nintendo)[a]"
+	description "Vs. Excitebike (1988)(Nintendo)[a]"
+	rom ( name "Vs. Excitebike (1988)(Nintendo)[a].fds" size 131016 crc 31b199c1 md5 1f4e639ac63894feb68ccf0edc913af9 )
+)
+
+game (
+	name "Vs. Excitebike (1988)(Nintendo)[a2]"
+	description "Vs. Excitebike (1988)(Nintendo)[a2]"
+	rom ( name "Vs. Excitebike (1988)(Nintendo)[a2].fds" size 131016 crc 5c6dbdb5 md5 e6a7d0fcf7008669c50551bf52cac27c )
+)
+
+game (
+	name "Vs. Excitebike (1988)(Nintendo)[a3]"
+	description "Vs. Excitebike (1988)(Nintendo)[a3]"
+	rom ( name "Vs. Excitebike (1988)(Nintendo)[a3].fds" size 131016 crc 2e0aaef1 md5 074a648b355f831f7a53e583445b0915 )
+)
+
+game (
+	name "Wardner no Mori (1988)(Taito Corp.)"
+	description "Wardner no Mori (1988)(Taito Corp.)"
+	rom ( name "Wardner no Mori (1988)(Taito Corp.).fds" size 131016 crc 9d9b3fed md5 ce27585102a56661ca8daedabc5ac9d0 )
+)
+
+game (
+	name "Wardner no Mori (1988)(Taito Corp.)[b]"
+	description "Wardner no Mori (1988)(Taito Corp.)[b]"
+	rom ( name "Wardner no Mori (1988)(Taito Corp.)[b].fds" size 131016 crc 39cceecd md5 b3934b6f2997ff66d54bfa31a082176e )
+)
+
+game (
+	name "Wardner no Mori (1988)(Taito Corp.)[b2]"
+	description "Wardner no Mori (1988)(Taito Corp.)[b2]"
+	rom ( name "Wardner no Mori (1988)(Taito Corp.)[b2].fds" size 131000 crc 8d1bd03f md5 81213b9f81a55bf8dfaebe84cfd0d84b )
+)
+
+game (
+	name "Winter Games (19xx)(Epyx - Pony Canyon)"
+	description "Winter Games (19xx)(Epyx - Pony Canyon)"
+	rom ( name "Winter Games (19xx)(Epyx - Pony Canyon).fds" size 131016 crc 82d28409 md5 e5a86e69c9611daeff3ee915092b414c )
+)
+
+game (
+	name "Wrecking Crew (1988)(Nintendo)"
+	description "Wrecking Crew (1988)(Nintendo)"
+	rom ( name "Wrecking Crew (1988)(Nintendo).fds" size 65516 crc f341f135 md5 c5c4e26e218223448c9d6dae46b96813 )
+)
+
+game (
+	name "Xevious (1990)(Namco Ltd.)"
+	description "Xevious (1990)(Namco Ltd.)"
+	rom ( name "Xevious (1990)(Namco Ltd.).fds" size 65516 crc ca9e574e md5 a513a9cdd31ea67a2e551ec9911f4c8a )
+)
+
+game (
+	name "Yasai no Kuni no Ashi Senshi (19xx)(Vap)"
+	description "Yasai no Kuni no Ashi Senshi (19xx)(Vap)"
+	rom ( name "Yasai no Kuni no Ashi Senshi (19xx)(Vap).fds" size 131016 crc f8f13e7c md5 2c2b139464bc34ac644aa078c9d5b312 )
+)
+
+game (
+	name "Youkai Yashiki (1987)(Irem Corp.)"
+	description "Youkai Yashiki (1987)(Irem Corp.)"
+	rom ( name "Youkai Yashiki (1987)(Irem Corp.).fds" size 131016 crc a888c6df md5 aa1f7c233aa9a13bba3752cfed9fcf95 )
+)
+
+game (
+	name "Yume Koujou Doki Doki Panic (1987)(Nintendo)"
+	description "Yume Koujou Doki Doki Panic (1987)(Nintendo)"
+	rom ( name "Yume Koujou Doki Doki Panic (1987)(Nintendo).fds" size 131016 crc 84018d5e md5 d90d6b2b666f27f1ff7b41a0dfc997fb )
+)
+
+game (
+	name "Yume Koujou Doki Doki Panic (1987)(Nintendo)[b]"
+	description "Yume Koujou Doki Doki Panic (1987)(Nintendo)[b]"
+	rom ( name "Yume Koujou Doki Doki Panic (1987)(Nintendo)[b].fds" size 262016 crc 00dfc038 md5 8c5cf294d29e3754ea82e543fa29aa46 )
+)
+
+game (
+	name "Yume Koujou Doki Doki Panic (1987)(Nintendo)[tr en]"
+	description "Yume Koujou Doki Doki Panic (1987)(Nintendo)[tr en]"
+	rom ( name "Yume Koujou Doki Doki Panic (1987)(Nintendo)[tr en].fds" size 131016 crc 0c5d7b83 md5 47d31128dce05a45d4a82f82d4fd6773 )
+)
+
+game (
+	name "Yuu Maze (1988)(Taito Corp.)"
+	description "Yuu Maze (1988)(Taito Corp.)"
+	rom ( name "Yuu Maze (1988)(Taito Corp.).fds" size 131016 crc 21b0a8c6 md5 c02f66b765d3d709559af3eb9ffe39bc )
+)
+
+game (
+	name "Yuu Maze (1988)(Taito Corp.)[a]"
+	description "Yuu Maze (1988)(Taito Corp.)[a]"
+	rom ( name "Yuu Maze (1988)(Taito Corp.)[a].fds" size 131016 crc 43de3884 md5 320869b70a7055cfbdab02e9a15c2287 )
+)
+
+game (
+	name "Yuushi no Monshou (1987)(Humming Bird Soft)[b]"
+	description "Yuushi no Monshou (1987)(Humming Bird Soft)[b]"
+	rom ( name "Yuushi no Monshou (1987)(Humming Bird Soft)[b].fds" size 131016 crc fecd4796 md5 593d179161bd330d06e916683e5a0e0d )
+)
+
+game (
+	name "Zanac (1988)(Pony Canyon)"
+	description "Zanac (1988)(Pony Canyon)"
+	rom ( name "Zanac (1988)(Pony Canyon).fds" size 65516 crc 349b244b md5 b152912ccd919322fa577470ac1f84f8 )
+)
+
+game (
+	name "Zatsugaku Olympic Part II (19xx)(Phoenix)"
+	description "Zatsugaku Olympic Part II (19xx)(Phoenix)"
+	rom ( name "Zatsugaku Olympic Part II (19xx)(Phoenix).fds" size 65516 crc c34ef097 md5 4fc0c2d109a66c5651db05a130d47e10 )
+)
+
+game (
+	name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)"
+	description "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)"
+	rom ( name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo).fds" size 131016 crc 7dde918e md5 56300ff512693fbe7ba166c875ec8257 )
+)
+
+game (
+	name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a]"
+	description "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a]"
+	rom ( name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a].fds" size 131016 crc 28ad571e md5 4da511d430597b96521ade4b68f19d38 )
+)
+
+game (
+	name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a2]"
+	description "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a2]"
+	rom ( name "Zelda no Densetsu - The Hyrule Fantasy (1986)(Nintendo)[a2].fds" size 131016 crc 79acc7b8 md5 7b9403635b97b0252b28ccfb158733d0 )
+)

@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Coleco ColecoVision ADAM - Games - [BIN]"
+	description "Coleco ColecoVision ADAM - Games - [BIN] (TOSEC-v2011-08-31)"
+	category "Coleco ColecoVision ADAM - Games - [BIN]"
+	version 2011-08-31
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Donkey Kong (1982)(Coleco - Nintendo)"
+	description "Donkey Kong (1982)(Coleco - Nintendo)"
+	rom ( name "Donkey Kong (1982)(Coleco - Nintendo).bin" size 24576 crc 94c4cd4a md5 8c61804e1ad57ef3d415d1ba11395507 sha1 795a63360e71e3a51317f108f504b21f5b11c3c9 )
+)
+
+game (
+	name "War Room (1983)(NAP Consumer Electronics)"
+	description "War Room (1983)(NAP Consumer Electronics)"
+	rom ( name "War Room (1983)(NAP Consumer Electronics).bin" size 32768 crc 308a949b md5 2916b15f23f910056cf75142f220a5af sha1 6a78dc759b3194699b15b00db34abef474ad3583 )
+)
+

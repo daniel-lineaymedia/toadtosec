@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Commodore C64 - Diskmags - Scene - [ARC]"
+	description "Commodore C64 - Diskmags - Scene - [ARC] (TOSEC-v2012-07-14)"
+	category "Commodore C64 - Diskmags - Scene - [ARC]"
+	version 2012-07-14
+	author "Duncan Twain"
+)
+
+game (
+	name "Driven #04 (1994-04-04)(Driven Magazine Staff)"
+	description "Driven #04 (1994-04-04)(Driven Magazine Staff)"
+	rom ( name "Driven #04 (1994-04-04)(Driven Magazine Staff).arc" size 41216 crc cb3374d9 md5 6a054553edd3d47330e704d404907465 sha1 ed9c1a0aa618cd67017903824ac738b0ac153a94 )
+)
+
+game (
+	name "Driven #05 (1994-12-18)(Driven Magazine Staff)"
+	description "Driven #05 (1994-12-18)(Driven Magazine Staff)"
+	rom ( name "Driven #05 (1994-12-18)(Driven Magazine Staff).arc" size 42240 crc ea1ce337 md5 42a875a4bdcf339954b3d65e08d043c4 sha1 622839eb11f58bc6c167dacba7dc082c73993c3f )
+)
+
+game (
+	name "Driven #06 (1995-02-06)(Driven Magazine Staff)"
+	description "Driven #06 (1995-02-06)(Driven Magazine Staff)"
+	rom ( name "Driven #06 (1995-02-06)(Driven Magazine Staff).arc" size 41728 crc b40789ec md5 7a96be510205b848a777d40106a7a32f sha1 27065a2ee52bcb7b876761ec2209c18ae522bda8 )
+)

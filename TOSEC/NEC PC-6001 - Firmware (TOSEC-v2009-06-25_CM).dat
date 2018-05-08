@@ -1,0 +1,85 @@
+clrmamepro (
+	name "NEC PC-6001 - Firmware"
+	description "NEC PC-6001 - Firmware (TOSEC-v2009-06-25)"
+	category "NEC PC-6001 - Firmware"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "NEC PC-6001 BIOS (1981)(NEC)[BASIC ROM]"
+	description "NEC PC-6001 BIOS (1981)(NEC)[BASIC ROM]"
+	rom ( name "NEC PC-6001 BIOS (1981)(NEC)[BASIC ROM].bin" size 16384 crc 54c03109 md5 2a13a60acf99a659144655b6c9e39b92 )
+)
+
+game (
+	name "NEC PC-6001 BIOS (1981)(NEC)[CG ROM]"
+	description "NEC PC-6001 BIOS (1981)(NEC)[CG ROM]"
+	rom ( name "NEC PC-6001 BIOS (1981)(NEC)[CG ROM].bin" size 4096 crc b0142d32 md5 9153f89e83f94f5d1cfe0a4e75d03372 )
+)
+
+game (
+	name "NEC PC-6001mkII BIOS (1983)(NEC)[BASIC ROM]"
+	description "NEC PC-6001mkII BIOS (1983)(NEC)[BASIC ROM]"
+	rom ( name "NEC PC-6001mkII BIOS (1983)(NEC)[BASIC ROM].bin" size 32768 crc 950ac401 md5 ec0fced1d7f242a823c6d6ebf9772045 )
+)
+
+game (
+	name "NEC PC-6001mkII BIOS (1983)(NEC)[CG ROM]"
+	description "NEC PC-6001mkII BIOS (1983)(NEC)[CG ROM]"
+	rom ( name "NEC PC-6001mkII BIOS (1983)(NEC)[CG ROM].bin" size 8192 crc 81eb5d95 md5 808a4172c0e9cf2adf7c44fc8c549151 )
+)
+
+game (
+	name "NEC PC-6001mkII BIOS (1983)(NEC)[Voice ROM]"
+	description "NEC PC-6001mkII BIOS (1983)(NEC)[Voice ROM]"
+	rom ( name "NEC PC-6001mkII BIOS (1983)(NEC)[Voice ROM].bin" size 16384 crc 49b4f917 md5 8b2e909ba293170e462057ba932ff57c )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[BASIC ROM]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[BASIC ROM]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[BASIC ROM].bin" size 32768 crc c0b01772 md5 273208623f155811dfeb7a1c222987aa )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 60]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 60]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 60].bin" size 8192 crc d2434f29 md5 1e1d6f1ad9245cf13cfa22a6c232fb16 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 66]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 66]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 66].bin" size 8192 crc 3ce48c33 md5 21f8cf17035d05e3b6b792f43246b1c0 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 68]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 68]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[CG ROM 68].bin" size 16384 crc 73bc3256 md5 9d61f3cbd47c4a281c5241c4f1d80919 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[Kanji ROM]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[Kanji ROM]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[Kanji ROM].bin" size 32768 crc 20c8f3eb md5 638ea8e59a73fa4d8c6a6153b500dab9 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 1]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 1]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 1].bin" size 65536 crc b6fc2db2 md5 bef7865bdc29009350e308935a8b2b17 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 2]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 2]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[System ROM 2].bin" size 65536 crc 55a62a1d md5 7eca26109db4c664826018a0d2e1d0d7 )
+)
+
+game (
+	name "NEC PC-6601SR BIOS (1985)(NEC)[Voice ROM]"
+	description "NEC PC-6601SR BIOS (1985)(NEC)[Voice ROM]"
+	rom ( name "NEC PC-6601SR BIOS (1985)(NEC)[Voice ROM].bin" size 16384 crc 91d078c1 md5 366acbd2924e081fef7d15f8279a1532 )
+)

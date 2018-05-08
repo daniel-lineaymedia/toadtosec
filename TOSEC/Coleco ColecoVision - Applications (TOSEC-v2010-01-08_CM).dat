@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Coleco ColecoVision - Applications"
+	description "Coleco ColecoVision - Applications (TOSEC-v2010-01-08)"
+	category "Coleco ColecoVision - Applications"
+	version 2010-01-08
+	author "Aral"
+)
+
+game (
+	name "CBS ColecoVision Monitor Test (1982)(CBS)"
+	description "CBS ColecoVision Monitor Test (1982)(CBS)"
+	rom ( name "CBS ColecoVision Monitor Test (1982)(CBS).bin" size 16384 crc 71ae16ed md5 84e6d14068843f74806fb92ad231255e sha1 5d0c451744b714514c3113a44320019c2457e52c )
+)
+
+game (
+	name "Final Test Cartridge (1982)(Coleco)"
+	description "Final Test Cartridge (1982)(Coleco)"
+	rom ( name "Final Test Cartridge (1982)(Coleco).bin" size 8192 crc 48ff87cf md5 0ab9243f927bdbd77a7b1e1668e9381d sha1 d28f866a931fb8b8c82509f3a563c4452302857a )
+)
+
+game (
+	name "Final Test Cartridge (1982)(Coleco)[a]"
+	description "Final Test Cartridge (1982)(Coleco)[a]"
+	rom ( name "Final Test Cartridge (1982)(Coleco)[a].bin" size 16384 crc aacd84df md5 c2e4f29fca6c0cfbef9db6d1bdb4277e sha1 e2a86e3119de8b44d14e048990dfccb30128d347 )
+)
+
+game (
+	name "Super Controller Test Cartridge (1983)(Coleco)"
+	description "Super Controller Test Cartridge (1983)(Coleco)"
+	rom ( name "Super Controller Test Cartridge (1983)(Coleco).bin" size 16384 crc eb6cb4d8 md5 1210396cb9af270285d25c66fa9c6f6a sha1 0c6840b7bc24a36529f0a80ccef85ee9f409a972 )
+)
+

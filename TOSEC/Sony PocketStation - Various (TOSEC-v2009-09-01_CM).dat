@@ -1,0 +1,667 @@
+clrmamepro (
+	name "Sony PocketStation - Various"
+	description "Sony PocketStation - Various (TOSEC-v2009-09-01)"
+	category "Sony PocketStation - Various"
+	version 2009-09-01
+	author "C0llector"
+)
+
+game (
+	name "15 Puzzle (19xx)(Nissie)"
+	description "15 Puzzle (19xx)(Nissie)"
+	rom ( name "15 Puzzle (19xx)(Nissie).gme" size 134976 crc a1ff042b md5 8d26cc20eeea83177dede0f30a7a9bb3 )
+)
+
+game (
+	name "Aliens (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Aliens (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Aliens (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 1795d329 md5 344185a12fc5454790de0caf33d64e80 )
+)
+
+game (
+	name "Ana-Digi Clock (19xx)(Mets)"
+	description "Ana-Digi Clock (19xx)(Mets)"
+	rom ( name "Ana-Digi Clock (19xx)(Mets).gme" size 134976 crc 5dee4ae6 md5 29cf6e898d24f2493c06520882eb972d )
+)
+
+game (
+	name "Ana-Digi Clock (19xx)(Mets)[a]"
+	description "Ana-Digi Clock (19xx)(Mets)[a]"
+	rom ( name "Ana-Digi Clock (19xx)(Mets)[a].gme" size 134976 crc 3087100c md5 6e5452ebc79452061a07b3e3ff1b7c03 )
+)
+
+game (
+	name "Apple (1999)(SN Systems)"
+	description "Apple (1999)(SN Systems)"
+	rom ( name "Apple (1999)(SN Systems).bin" size 8192 crc c83417bb md5 8cc4adf22e23fcd6445649c8378f1406 )
+)
+
+game (
+	name "Apple v0.2 (19xx)(Kami)"
+	description "Apple v0.2 (19xx)(Kami)"
+	rom ( name "Apple v0.2 (19xx)(Kami).gme" size 134976 crc f3b08985 md5 58f263f04c45dfb843285d3fa5f0fb94 )
+)
+
+game (
+	name "Astro Fighter (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Astro Fighter (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Astro Fighter (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc c0dc0158 md5 dcf648f400361fcbb1acb449cfb0196b )
+)
+
+game (
+	name "Beat Timer v0.02 (19xx)(-)"
+	description "Beat Timer v0.02 (19xx)(-)"
+	rom ( name "Beat Timer v0.02 (19xx)(-).gme" size 134976 crc c681ce86 md5 f9912bf04fe8e5eb41efa080f2481fad )
+)
+
+game (
+	name "Black Jack (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Black Jack (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Black Jack (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 85a6c1f9 md5 75caddacd4528a6413d82dfa4f20efef )
+)
+
+game (
+	name "Block Out 1 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Block Out 1 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Block Out 1 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc ad32768f md5 a7f00276ae0c42d4ff71050c0f3df2fd )
+)
+
+game (
+	name "Block Out 2 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Block Out 2 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Block Out 2 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc c8e65835 md5 5b8c047fa0db16183324cb11c46b0e01 )
+)
+
+game (
+	name "Block Out 3 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Block Out 3 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Block Out 3 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc b6ea0fbd md5 923555e1b4bde31b27b79c7026cbbbd5 )
+)
+
+game (
+	name "BreakThru (1999)(Jason)"
+	description "BreakThru (1999)(Jason)"
+	rom ( name "BreakThru (1999)(Jason).bin" size 5901 crc 94bd5907 md5 d5fdc440ac9a2cef0ab691f26470f113 )
+)
+
+game (
+	name "Brightis (1999)(SCEI)(JP)[Brightis]"
+	description "Brightis (1999)(SCEI)(JP)[Brightis]"
+	rom ( name "Brightis (1999)(SCEI)(JP)[Brightis].gme" size 134976 crc de121866 md5 18f32d95562d11084e5f3aab3ada21b9 )
+)
+
+game (
+	name "Calculator (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Calculator (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Calculator (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 357387a6 md5 01d3386b1c3501ca5544751a3523bb27 )
+)
+
+game (
+	name "Cars (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Cars (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Cars (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 0c8db211 md5 aa95ce67cc3aff531e359de66f028118 )
+)
+
+game (
+	name "Chaku v0.02t (19xx)(-)"
+	description "Chaku v0.02t (19xx)(-)"
+	rom ( name "Chaku v0.02t (19xx)(-).gme" size 134976 crc 68190009 md5 b59570c4c5584a5f1231e136218ac9e1 )
+)
+
+game (
+	name "Chivas 1-2-3 (1999)(Jaleco)[SeaBass 1-2-3]"
+	description "Chivas 1-2-3 (1999)(Jaleco)[SeaBass 1-2-3]"
+	rom ( name "Chivas 1-2-3 (1999)(Jaleco)[SeaBass 1-2-3].gme" size 134976 crc e0ca0121 md5 c33c4fb1ef58052bfafbfbab5fd5c194 )
+)
+
+game (
+	name "Chocobo Stallion (1999)(Square)[Chocobo Stallion]"
+	description "Chocobo Stallion (1999)(Square)[Chocobo Stallion]"
+	rom ( name "Chocobo Stallion (1999)(Square)[Chocobo Stallion].gme" size 134976 crc 648515fd md5 3bc9a18e983f4074df60d949f5ff5c09 )
+)
+
+game (
+	name "Chocobo World (1999)(Square)[Final Fantasy 8]"
+	description "Chocobo World (1999)(Square)[Final Fantasy 8]"
+	rom ( name "Chocobo World (1999)(Square)[Final Fantasy 8].gme" size 134976 crc 97f3ca8c md5 d145c28c2c610d901339fb83215652ef )
+)
+
+game (
+	name "Chocobo World Enhanced (1999)(Square)[Final Fantasy 8]"
+	description "Chocobo World Enhanced (1999)(Square)[Final Fantasy 8]"
+	rom ( name "Chocobo World Enhanced (1999)(Square)[Final Fantasy 8].gme" size 134976 crc 5dea35e9 md5 622aac097eb41fe8e06f8a6bab3020c5 )
+)
+
+game (
+	name "Copy Dance (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Copy Dance (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Copy Dance (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 778b477d md5 ad5530c0da599f8bf566678cfe036a24 )
+)
+
+game (
+	name "Curling (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Curling (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Curling (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc caa90fb1 md5 608dd3135a920456613eccc099e964eb )
+)
+
+game (
+	name "DTMF Hack Beta 2 (19xx)(Error)"
+	description "DTMF Hack Beta 2 (19xx)(Error)"
+	rom ( name "DTMF Hack Beta 2 (19xx)(Error).gme" size 134976 crc 7ea79d0f md5 762d41947204ea8184a3cafaa6e0714f )
+)
+
+game (
+	name "Dance Dance Revolution 2nd Mix (2000)(Konami)(JP)[Dance Dance Revolution 2nd Mix]"
+	description "Dance Dance Revolution 2nd Mix (2000)(Konami)(JP)[Dance Dance Revolution 2nd Mix]"
+	rom ( name "Dance Dance Revolution 2nd Mix (2000)(Konami)(JP)[Dance Dance Revolution 2nd Mix].gme" size 134976 crc 0f01baeb md5 0abc98af2c185d264517a6b97b7394a3 )
+)
+
+game (
+	name "Darts (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Darts (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Darts (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 9129af37 md5 6ee361da9a25339d08066b9a8f7ad420 )
+)
+
+game (
+	name "Denki (19xx)(-)"
+	description "Denki (19xx)(-)"
+	rom ( name "Denki (19xx)(-).gme" size 134976 crc 78bf7f6a md5 8cd92ed31a1f3d48b287d3d7a8d398c7 )
+)
+
+game (
+	name "Dice (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Dice (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Dice (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 102208 crc 6f438afd md5 5a67a4760a54f540d00a576103971881 )
+)
+
+game (
+	name "Doreamon 3 (2000)(Epoch)(JP)[Doraemon 3 - Makai no Dungeon]"
+	description "Doreamon 3 (2000)(Epoch)(JP)[Doraemon 3 - Makai no Dungeon]"
+	rom ( name "Doreamon 3 (2000)(Epoch)(JP)[Doraemon 3 - Makai no Dungeon].gme" size 134976 crc 5b5b6dbe md5 82b634ed60b77198b4121d5f5c9577cf )
+)
+
+game (
+	name "Drive 2000 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Drive 2000 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Drive 2000 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc c711f20e md5 ebc1b46f5d08cb47f9be32e27666d70c )
+)
+
+game (
+	name "Drop Ball (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Drop Ball (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Drop Ball (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 2f1f728c md5 8179c00cfe3f68487706ed7cbcb92bbc )
+)
+
+game (
+	name "Drop Zone (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Drop Zone (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Drop Zone (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 0ef50d42 md5 11e33fb98938dcfa7f52e3233276ea2f )
+)
+
+game (
+	name "Durama (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Durama (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Durama (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc e789f935 md5 99c645f96b892119d0415f4d972b0cc5 )
+)
+
+game (
+	name "EnPKclock v1.4 (19xx)(-)(JP)"
+	description "EnPKclock v1.4 (19xx)(-)(JP)"
+	rom ( name "EnPKclock v1.4 (19xx)(-)(JP).gme" size 134976 crc 74b33328 md5 4896322c916ab5c365744841bb9fca48 )
+)
+
+game (
+	name "Fishing (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Fishing (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Fishing (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 180866e0 md5 e61133e4700164ed6fd30d927d674003 )
+)
+
+game (
+	name "Fishing 2 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Fishing 2 (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Fishing 2 (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 36f2c1fa md5 7a69714e13432290c73030418b596ea8 )
+)
+
+game (
+	name "Go Go Digger (2000)(Square)[Saga Frontier 2]"
+	description "Go Go Digger (2000)(Square)[Saga Frontier 2]"
+	rom ( name "Go Go Digger (2000)(Square)[Saga Frontier 2].gme" size 134976 crc 49909924 md5 b42272f9f8e58f06adb70e0a13112631 )
+)
+
+game (
+	name "Golf (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Golf (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Golf (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc c37c560c md5 3c6493bad6a306c5f134664bd747d4fb )
+)
+
+game (
+	name "Hammer (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Hammer (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Hammer (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc daa9533f md5 720f3136678283f3c1c6de7d771c0f57 )
+)
+
+game (
+	name "Harvest Moon (2001)(Natsume)[Harvest Moon]"
+	description "Harvest Moon (2001)(Natsume)[Harvest Moon]"
+	rom ( name "Harvest Moon (2001)(Natsume)[Harvest Moon].gme" size 134976 crc 6311fd8d md5 12b4083158b122cebe22ea676e5d9a0d )
+)
+
+game (
+	name "Hata v0.02 (19xx)(-)"
+	description "Hata v0.02 (19xx)(-)"
+	rom ( name "Hata v0.02 (19xx)(-).gme" size 134976 crc e229eda2 md5 e9b6262820843f9f295f76bc829aa853 )
+)
+
+game (
+	name "Hit & Blow (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Hit & Blow (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Hit & Blow (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 27f4a5fb md5 3e27b984e6b872702feb5fab02dd6e3a )
+)
+
+game (
+	name "Hit And Blow v0.81 (19xx)(P. Katsu)"
+	description "Hit And Blow v0.81 (19xx)(P. Katsu)"
+	rom ( name "Hit And Blow v0.81 (19xx)(P. Katsu).gme" size 134976 crc 619a7ba3 md5 add0e0df2ba44a8afdc76aa92f965e9d )
+)
+
+game (
+	name "Hitman (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Hitman (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Hitman (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc a55123bb md5 1f3acd834c641131fc34321910914ec5 )
+)
+
+game (
+	name "Integral v0.02 (19xx)(-)"
+	description "Integral v0.02 (19xx)(-)"
+	rom ( name "Integral v0.02 (19xx)(-).gme" size 134976 crc 0023b583 md5 7b0f68e96f277ca46e8dd14202ef5296 )
+)
+
+game (
+	name "Japanese Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Japanese Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Japanese Quiz (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc f6aa7b2e md5 a33d4f59f98235f64054b78263ed34e1 )
+)
+
+game (
+	name "Jet De Go! (2000)(Taito)(JP)[Jet De Go!]"
+	description "Jet De Go! (2000)(Taito)(JP)[Jet De Go!]"
+	rom ( name "Jet De Go! (2000)(Taito)(JP)[Jet De Go!].gme" size 134976 crc b3cab7e9 md5 7f68ff66a82e3fd78150af440dd95678 )
+)
+
+game (
+	name "Kobun No Tokkun Zanmai (1999)(Capcom)(JP)[Tron ni Kobun]"
+	description "Kobun No Tokkun Zanmai (1999)(Capcom)(JP)[Tron ni Kobun]"
+	rom ( name "Kobun No Tokkun Zanmai (1999)(Capcom)(JP)[Tron ni Kobun].gme" size 134976 crc c6f359e7 md5 14f7331bcd34438cde07448bf9a64c3b )
+)
+
+game (
+	name "Lights Out (19xx)(-)"
+	description "Lights Out (19xx)(-)"
+	rom ( name "Lights Out (19xx)(-).gme" size 134976 crc 035f1767 md5 f701586b182339ebc43c4e8263cbe607 )
+)
+
+game (
+	name "Line Art v0.01t (19xx)(-)"
+	description "Line Art v0.01t (19xx)(-)"
+	rom ( name "Line Art v0.01t (19xx)(-).gme" size 134976 crc 4cac22f0 md5 3c317d411bcc23655a542373ea62b24c )
+)
+
+game (
+	name "Lo (1999)(SN Systems)"
+	description "Lo (1999)(SN Systems)"
+	rom ( name "Lo (1999)(SN Systems).bin" size 8192 crc cb610e61 md5 a72cd357b3951e02a7e4081e5554c03c )
+)
+
+game (
+	name "MGS Integral (1999)(Konami)[Metal Gear Solid Integral]"
+	description "MGS Integral (1999)(Konami)[Metal Gear Solid Integral]"
+	rom ( name "MGS Integral (1999)(Konami)[Metal Gear Solid Integral].gme" size 134976 crc eb787109 md5 34f9beb3ad1a2f2b5809a918e8a58466 )
+)
+
+game (
+	name "Math Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Math Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Math Quiz (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 23d18692 md5 0c8c2c28fd1d5bcb06ce6d02cb4f3ec9 )
+)
+
+game (
+	name "Maze Game (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Maze Game (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Maze Game (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 51c98875 md5 47966e6a5b8d02b7f4893976c5dfdac2 )
+)
+
+game (
+	name "Mimique (1999)(K-Comm)"
+	description "Mimique (1999)(K-Comm)"
+	rom ( name "Mimique (1999)(K-Comm).gme" size 134976 crc 0a86b217 md5 c0c23ac3b64816726dbc1d68e2fa8bac )
+)
+
+game (
+	name "Mine Sweeper (19xx)(P. Katsu)(PD)"
+	description "Mine Sweeper (19xx)(P. Katsu)(PD)"
+	rom ( name "Mine Sweeper (19xx)(P. Katsu)(PD).gme" size 134976 crc a719b863 md5 4167f997c3439f749e75d87464e54af5 )
+)
+
+game (
+	name "MoGuuRu Dabas (1999)(SCEI)(JP)[Legend Of Dragoon]"
+	description "MoGuuRu Dabas (1999)(SCEI)(JP)[Legend Of Dragoon]"
+	rom ( name "MoGuuRu Dabas (1999)(SCEI)(JP)[Legend Of Dragoon].gme" size 134976 crc 8a33a405 md5 a4c3d0d017ea9886d6039d78e0972ff5 )
+)
+
+game (
+	name "Monkey See Monkey Do (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Monkey See Monkey Do (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Monkey See Monkey Do (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc b2bdbdc8 md5 ff39cb4e8a9cdb18d91f6a3317946643 )
+)
+
+game (
+	name "Number (19xx)(-)"
+	description "Number (19xx)(-)"
+	rom ( name "Number (19xx)(-).gme" size 134976 crc 8c790582 md5 f307bfbeb9aca7ced14628b3d5baa9c4 )
+)
+
+game (
+	name "Odetake Chocobo (1999)(Square)[Final Fantasy 8]"
+	description "Odetake Chocobo (1999)(Square)[Final Fantasy 8]"
+	rom ( name "Odetake Chocobo (1999)(Square)[Final Fantasy 8].gme" size 134976 crc cc0ceb54 md5 b1891f1b651c556e85572df9513ba298 )
+)
+
+game (
+	name "PDA Calculator (1998)(SCEI)"
+	description "PDA Calculator (1998)(SCEI)"
+	rom ( name "PDA Calculator (1998)(SCEI).gme" size 134976 crc b289319a md5 1ab3169bce7330eb1c30de2e18e1a684 )
+)
+
+game (
+	name "PDA Remote 1 (1998)(SCEI)(JP)"
+	description "PDA Remote 1 (1998)(SCEI)(JP)"
+	rom ( name "PDA Remote 1 (1998)(SCEI)(JP).gme" size 134976 crc 9d618735 md5 6bdb4adf8c9c450a2d9b122263854a08 )
+)
+
+game (
+	name "PDA Remote 2 (1998)(SCEI)(JP)"
+	description "PDA Remote 2 (1998)(SCEI)(JP)"
+	rom ( name "PDA Remote 2 (1998)(SCEI)(JP).gme" size 134976 crc 55dc24e0 md5 1ee6669ea29c8a6b0c0ddd4af15dca9c )
+)
+
+game (
+	name "PDA Timer (1998)(SCEI)"
+	description "PDA Timer (1998)(SCEI)"
+	rom ( name "PDA Timer (1998)(SCEI).gme" size 134976 crc f9d3a708 md5 8e86a2321b25136fd11ea23e5c9e7ee6 )
+)
+
+game (
+	name "PacClone (1999)(Jason)"
+	description "PacClone (1999)(Jason)"
+	rom ( name "PacClone (1999)(Jason).bin" size 14064 crc 0dd202e1 md5 7c4aab4cca60479cda57bcfe922113e5 )
+)
+
+game (
+	name "Pairs (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Pairs (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Pairs (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 4af768b7 md5 312298f7b2e5b04e5d1886892370e686 )
+)
+
+game (
+	name "Parumui Parumui (19xx)(-)[Parumui Parumui]"
+	description "Parumui Parumui (19xx)(-)[Parumui Parumui]"
+	rom ( name "Parumui Parumui (19xx)(-)[Parumui Parumui].gme" size 134976 crc 611f5763 md5 115edc850ad3c3a67a4b31f2716af864 )
+)
+
+game (
+	name "Phone Book (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Phone Book (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Phone Book (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 0177b4b6 md5 aa88f6eb225f7d496562794929bb2223 )
+)
+
+game (
+	name "Pinball (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Pinball (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Pinball (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 1fe2ced2 md5 36778478fb73a25e1bbc1c3169380235 )
+)
+
+game (
+	name "Pockeler (1999)(Atlus)(JP)[Pockeler]"
+	description "Pockeler (1999)(Atlus)(JP)[Pockeler]"
+	rom ( name "Pockeler (1999)(Atlus)(JP)[Pockeler].gme" size 134976 crc 8e95a247 md5 8f5f85aacbfef49a3d3a8393a2b31575 )
+)
+
+game (
+	name "Pocket Digimon World - Agumon (2000)(Bandai)[Pocket Digimon World]"
+	description "Pocket Digimon World - Agumon (2000)(Bandai)[Pocket Digimon World]"
+	rom ( name "Pocket Digimon World - Agumon (2000)(Bandai)[Pocket Digimon World].gme" size 134976 crc 887eebe3 md5 d50c0b60eaa5c51202af863f318eb83e )
+)
+
+game (
+	name "Pocket Digimon World - Biyomon (2000)(Bandai)[Pocket Digimon World]"
+	description "Pocket Digimon World - Biyomon (2000)(Bandai)[Pocket Digimon World]"
+	rom ( name "Pocket Digimon World - Biyomon (2000)(Bandai)[Pocket Digimon World].gme" size 134976 crc fbe40cba md5 b7a6f00948ccba661ab71e1bcae74d73 )
+)
+
+game (
+	name "Pocket Fighter Alpha 3 - Part 1 (1999)(Capcom)[Street Fighter Alpha 3]"
+	description "Pocket Fighter Alpha 3 - Part 1 (1999)(Capcom)[Street Fighter Alpha 3]"
+	rom ( name "Pocket Fighter Alpha 3 - Part 1 (1999)(Capcom)[Street Fighter Alpha 3].gme" size 134976 crc e8c15c46 md5 cc9956c6162ff2c0bdab41d2b992a673 )
+)
+
+game (
+	name "Pocket Fighter Alpha 3 - Part 2 (1999)(Capcom)[Street Fighter Alpha 3]"
+	description "Pocket Fighter Alpha 3 - Part 2 (1999)(Capcom)[Street Fighter Alpha 3]"
+	rom ( name "Pocket Fighter Alpha 3 - Part 2 (1999)(Capcom)[Street Fighter Alpha 3].gme" size 134976 crc cfc2c152 md5 d794782bb810273424778b277026b683 )
+)
+
+game (
+	name "Pocket Fighter Zero 3 (1998)(Capcom)(JP)[Street Fighter Alpha 3]"
+	description "Pocket Fighter Zero 3 (1998)(Capcom)(JP)[Street Fighter Alpha 3]"
+	rom ( name "Pocket Fighter Zero 3 (1998)(Capcom)(JP)[Street Fighter Alpha 3].gme" size 134976 crc 43de18a7 md5 afb252c51c6b893cd94e718ce2e87c11 )
+)
+
+game (
+	name "Pocket Ray (2000)(Taito)[RayCrisis]"
+	description "Pocket Ray (2000)(Taito)[RayCrisis]"
+	rom ( name "Pocket Ray (2000)(Taito)[RayCrisis].gme" size 134976 crc 07e44cb1 md5 56c942cd680a80fed47baecadf3420e4 )
+)
+
+game (
+	name "Pocket Sokoban (19xx)(Mets)"
+	description "Pocket Sokoban (19xx)(Mets)"
+	rom ( name "Pocket Sokoban (19xx)(Mets).gme" size 134976 crc a4bf4092 md5 130ac558282bb9508a081ecb7e5d7db5 )
+)
+
+game (
+	name "Pocket Timer v1.11 (19xx)(-)"
+	description "Pocket Timer v1.11 (19xx)(-)"
+	rom ( name "Pocket Timer v1.11 (19xx)(-).gme" size 134976 crc 16f2687a md5 42c1239321924f97f626fa7eadcb24fe )
+)
+
+game (
+	name "PokeHito (1999)(SCEI)(JP)[PokeHito - Grey]"
+	description "PokeHito (1999)(SCEI)(JP)[PokeHito - Grey]"
+	rom ( name "PokeHito (1999)(SCEI)(JP)[PokeHito - Grey].gme" size 134976 crc 6a70c460 md5 265830bb9a66c94370fb9716c04a6922 )
+)
+
+game (
+	name "Poketro v1.1 (2001)(Credo)"
+	description "Poketro v1.1 (2001)(Credo)"
+	rom ( name "Poketro v1.1 (2001)(Credo).gme" size 134976 crc a2e5154a md5 11aff505d01745148841aac972e3050b )
+)
+
+game (
+	name "Pop n Music 2 (1999)(Konami)(JP)[Pop n Music 2]"
+	description "Pop n Music 2 (1999)(Konami)(JP)[Pop n Music 2]"
+	rom ( name "Pop n Music 2 (1999)(Konami)(JP)[Pop n Music 2].gme" size 134976 crc a03120cf md5 b9bf9a64ef0c391967c525e1dc40ec25 )
+)
+
+game (
+	name "Pumping Crash (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Pumping Crash (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Pumping Crash (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc f1806446 md5 a68128e2bd47a9081cf8bc0fef0bbd8a )
+)
+
+game (
+	name "Punch Block (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Punch Block (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Punch Block (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 174f9924 md5 fa730d1c98b949f259278dd45beb9f86 )
+)
+
+game (
+	name "Push (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Push (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Push (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 85aaeabd md5 8c61a692e609a778879eb1535001eb90 )
+)
+
+game (
+	name "Push Battle (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Push Battle (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Push Battle (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 2aa5c1ab md5 eaea63357dcee4e5bf4dc077770fcd7c )
+)
+
+game (
+	name "Pyramid (19xx)(P. Katsu)(JP)"
+	description "Pyramid (19xx)(P. Katsu)(JP)"
+	rom ( name "Pyramid (19xx)(P. Katsu)(JP).gme" size 134976 crc ed824640 md5 baad45b821b066227e19a6ce9cdeea09 )
+)
+
+game (
+	name "R4 Pocketstation (1998)(Namco)[R4 Ridge Racer Type 4]"
+	description "R4 Pocketstation (1998)(Namco)[R4 Ridge Racer Type 4]"
+	rom ( name "R4 Pocketstation (1998)(Namco)[R4 Ridge Racer Type 4].gme" size 134976 crc 39e75cfc md5 74426e280ac3819158353b3d0327c3c9 )
+)
+
+game (
+	name "RPG Dungeon (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "RPG Dungeon (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "RPG Dungeon (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 5ebf169d md5 a5a34baf0684cc8c61c4a5e9ec399872 )
+)
+
+game (
+	name "Rewrite ID (1999)(K-Comm)"
+	description "Rewrite ID (1999)(K-Comm)"
+	rom ( name "Rewrite ID (1999)(K-Comm).gme" size 134976 crc 0684961a md5 d01b02b03fa18266cb213a4f58ca8734 )
+)
+
+game (
+	name "Ring Ring Land (1999)(Square)(JP)[Seiken Densetsu - Legend of Mana]"
+	description "Ring Ring Land (1999)(Square)(JP)[Seiken Densetsu - Legend of Mana]"
+	rom ( name "Ring Ring Land (1999)(Square)(JP)[Seiken Densetsu - Legend of Mana].gme" size 134976 crc bcb80656 md5 85b5b70460d61e4e200e872d52250b53 )
+)
+
+game (
+	name "Rocket (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Rocket (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Rocket (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 1e63b676 md5 eac7d1aaecaa8357213ac23d411904c7 )
+)
+
+game (
+	name "Rockman 2 (1999)(Capcom)(JP)[Rockman 2]"
+	description "Rockman 2 (1999)(Capcom)(JP)[Rockman 2]"
+	rom ( name "Rockman 2 (1999)(Capcom)(JP)[Rockman 2].gme" size 134976 crc 08f8df74 md5 a217809c09e5a20a2f660c35d5eb17cd )
+)
+
+game (
+	name "Rockman 3 - Part 1 (1999)(Capcom)(JP)[Rockman 3]"
+	description "Rockman 3 - Part 1 (1999)(Capcom)(JP)[Rockman 3]"
+	rom ( name "Rockman 3 - Part 1 (1999)(Capcom)(JP)[Rockman 3].gme" size 134976 crc ee0df656 md5 d167e152bed77805d4e168aa3d20a5e3 )
+)
+
+game (
+	name "Rockman 3 - Part 2 (1999)(Capcom)(JP)[Rockman 3]"
+	description "Rockman 3 - Part 2 (1999)(Capcom)(JP)[Rockman 3]"
+	rom ( name "Rockman 3 - Part 2 (1999)(Capcom)(JP)[Rockman 3].gme" size 134976 crc cec6f9f0 md5 5505a615efab4e35d68f3b9a551c667f )
+)
+
+game (
+	name "Rockman 4 (1999)(Capcom)(JP)[Rockman 4]"
+	description "Rockman 4 (1999)(Capcom)(JP)[Rockman 4]"
+	rom ( name "Rockman 4 (1999)(Capcom)(JP)[Rockman 4].gme" size 134976 crc a62986ee md5 7d82de6a95b09cf77fc900ff8305ab49 )
+)
+
+game (
+	name "Rockman 5 (1999)(Capcom)(JP)[Rockman 5]"
+	description "Rockman 5 (1999)(Capcom)(JP)[Rockman 5]"
+	rom ( name "Rockman 5 (1999)(Capcom)(JP)[Rockman 5].gme" size 134976 crc b239a9f0 md5 dadb3182caa9af9009dbe6b9904c1056 )
+)
+
+game (
+	name "Rubato v0.03 (1999)(K-Comm)"
+	description "Rubato v0.03 (1999)(K-Comm)"
+	rom ( name "Rubato v0.03 (1999)(K-Comm).gme" size 134976 crc 30018cf8 md5 cc561966f3eefc5a96eb23ef3f7c23c2 )
+)
+
+game (
+	name "Sample (1999)(SN Systems)"
+	description "Sample (1999)(SN Systems)"
+	rom ( name "Sample (1999)(SN Systems).bin" size 7889 crc 54682050 md5 a46a085b6ea05a6befd634d01ace2496 )
+)
+
+game (
+	name "Ski Escape (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Ski Escape (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Ski Escape (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 59e022c7 md5 4ef9816a6e3d387c1465560b85dd9451 )
+)
+
+game (
+	name "Slot Machine (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Slot Machine (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Slot Machine (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc f057b5d1 md5 9ae5055455e979b14942b07a4fabca2f )
+)
+
+game (
+	name "Smash Game (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Smash Game (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Smash Game (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 8e30eeb0 md5 5aeb863fc893b5421d0b012ad2025684 )
+)
+
+game (
+	name "Sporting Clays (1999)(Charles Doty)"
+	description "Sporting Clays (1999)(Charles Doty)"
+	rom ( name "Sporting Clays (1999)(Charles Doty).bin" size 5730 crc 1f3429c3 md5 840e4770c708dff23fdf6c6152eae346 )
+)
+
+game (
+	name "Tank (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "Tank (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "Tank (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 7b16f188 md5 d6251ec130d308002cda75e4ab87559c )
+)
+
+game (
+	name "Tasumania (19xx)(-)"
+	description "Tasumania (19xx)(-)"
+	rom ( name "Tasumania (19xx)(-).gme" size 134976 crc b2fae93f md5 2caabe87213afcd83d7f96599fea8ebf )
+)
+
+game (
+	name "Tetris (1999)(SN Systems)"
+	description "Tetris (1999)(SN Systems)"
+	rom ( name "Tetris (1999)(SN Systems).bin" size 8192 crc c6be9877 md5 809004633b9d7217bc58cddffb905329 )
+)
+
+game (
+	name "Tetris (19xx)(-)"
+	description "Tetris (19xx)(-)"
+	rom ( name "Tetris (19xx)(-).gme" size 134976 crc 18336034 md5 a19a0ef169059bbfd99c994d5958ecee )
+)
+
+game (
+	name "Tic-Tac-Toe v1.00 (19xx)(-)"
+	description "Tic-Tac-Toe v1.00 (19xx)(-)"
+	rom ( name "Tic-Tac-Toe v1.00 (19xx)(-).gme" size 134976 crc 7f0c67cf md5 b2d888f779af8fe5760dea0a3b8146d5 )
+)
+
+game (
+	name "World Time (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	description "World Time (1999)(SCEI)(JP)[Pocket MuuMuu]"
+	rom ( name "World Time (1999)(SCEI)(JP)[Pocket MuuMuu].gme" size 134976 crc 5fd3aa1b md5 2d055d4503848a8a03cc25922f16b4fd )
+)
+
+game (
+	name "Wose (19xx)(-)(JP)"
+	description "Wose (19xx)(-)(JP)"
+	rom ( name "Wose (19xx)(-)(JP).gme" size 134976 crc 75e6b9e0 md5 f6abdc8e2b80f940d199c66386f7666a )
+)
+
+game (
+	name "Yubi v0.60 (19xx)(P. Katsu)(JP)"
+	description "Yubi v0.60 (19xx)(P. Katsu)(JP)"
+	rom ( name "Yubi v0.60 (19xx)(P. Katsu)(JP).gme" size 134976 crc 83f7967b md5 913e182f02f87e9b7d32b6fa7123f953 )
+)

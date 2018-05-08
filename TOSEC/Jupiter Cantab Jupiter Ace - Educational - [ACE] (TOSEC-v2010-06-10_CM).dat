@@ -1,0 +1,211 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Educational - [ACE]"
+	description "Jupiter Cantab Jupiter Ace - Educational - [ACE] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Educational - [ACE]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 11 (2007)(Lopes, Ricardo Fernandes)(PD)[mice][3K]"
+	description "Ace Manual Code Examples - Chapter 11 (2007)(Lopes, Ricardo Fernandes)(PD)[mice][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 11 (2007)(Lopes, Ricardo Fernandes)(PD)[mice][3K].ace" size 1918 crc 10cf997f md5 0259e3770e2e861d2146d997ed36ddb1 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[chars][3K]"
+	description "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[chars][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[chars][3K].ace" size 1675 crc 213b263b md5 7387acd640e36be1425cc20ca67b5b63 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[gr][3K]"
+	description "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[gr][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[gr][3K].ace" size 1677 crc f6ff669c md5 0b60a5bf06f5aafe37e03eedc3c88fef )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[tab][3K]"
+	description "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[tab][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[tab][3K].ace" size 1665 crc d54d9cff md5 aa45bfe61260ccd652c0eea8255c914b )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[draw][3K]"
+	description "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[draw][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[draw][3K].ace" size 1952 crc aa5ca3b3 md5 e2d928dea35945b5e536c416259923e0 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[random][3K]"
+	description "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[random][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[random][3K].ace" size 1778 crc fb4e8cab md5 0bbcdeae654b771f1472b6ee7ff344ac )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[2cells][3K]"
+	description "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[2cells][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[2cells][3K].ace" size 1801 crc 648cce84 md5 3bea0df6798aef67c19e9a4782df566f )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sqrt][3K]"
+	description "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sqrt][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sqrt][3K].ace" size 1845 crc f92d533c md5 d235c7e543714344c7ccf53b92190aaa )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[trig][3K]"
+	description "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[trig][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[trig][3K].ace" size 1975 crc 47fb3962 md5 620f10ea91d59fe457f1b9261268979b )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 6)[count][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 6)[count][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 6)[count][3K].ace" size 1667 crc 0e944b6f md5 6a2730291741572c8a397441f5e702e6 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 6)[input][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 6)[input][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 6)[input][3K].ace" size 1662 crc a2580aa7 md5 b939db04aae09f8424c29e5954d88b71 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 6)[integer][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 6)[integer][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 6)[integer][3K].ace" size 1710 crc d5046551 md5 2e47e7ace841ae2f6e3a93a6cf54f1f8 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 4 of 6)[key][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 4 of 6)[key][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 4 of 6)[key][3K].ace" size 1658 crc defc3340 md5 8a64985521f28b13d138dd3faeae894a )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 5 of 6)[wait][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 5 of 6)[wait][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 5 of 6)[wait][3K].ace" size 1662 crc 02bf42bc md5 00c06f366cbbe9828a7760ec1d4b6b07 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 6 of 6)[y-n][3K]"
+	description "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 6 of 6)[y-n][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 6 of 6)[y-n][3K].ace" size 1697 crc 4aff01de md5 7b5426cfa01d37041097b267d1f68aec )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 17 (2007)(Lopes, Ricardo Fernandes)(PD)[hex][3K]"
+	description "Ace Manual Code Examples - Chapter 17 (2007)(Lopes, Ricardo Fernandes)(PD)[hex][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 17 (2007)(Lopes, Ricardo Fernandes)(PD)[hex][3K].ace" size 1656 crc 13d95240 md5 fa267bf1386fd5f0fd6e6a5fac9cdf04 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[d][3K]"
+	description "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[d][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[d][3K].ace" size 1783 crc bf87f0a8 md5 e4421c7d2fd2d03c2735c24ec719846d )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[money][3K]"
+	description "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[money][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[money][3K].ace" size 1683 crc bc99cb18 md5 071ea6e92bf7b16f5e93606f4c0c1385 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]"
+	description "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K].ace" size 1712 crc 042ccf04 md5 a6663dd40cc9a8758d2b6d131e82280b )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[stringcomma][3K]"
+	description "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[stringcomma][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[stringcomma][3K].ace" size 1716 crc b3953776 md5 7b2bc7ac231bf91dcf107f00073c8bfd )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[tick][3K]"
+	description "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[tick][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[tick][3K].ace" size 1645 crc a86e02a0 md5 5536aec07fa2a1014f67dd229467cb55 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[2-d][3K]"
+	description "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[2-d][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[2-d][3K].ace" size 1942 crc 9a56c308 md5 5d628cff2ec8b0d6a688475ff8b13b43 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[string][3K]"
+	description "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[string][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[string][3K].ace" size 1998 crc 471daf8c md5 40e3cb122585d8ab655fa04cbfebf938 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 23 (2007)(Lopes, Ricardo Fernandes)(PD)[2literal][3K]"
+	description "Ace Manual Code Examples - Chapter 23 (2007)(Lopes, Ricardo Fernandes)(PD)[2literal][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 23 (2007)(Lopes, Ricardo Fernandes)(PD)[2literal][3K].ace" size 1694 crc d1b81eb3 md5 a571a3c00ef9f7d94ce01587e19539b8 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[dots][3K]"
+	description "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[dots][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[dots][3K].ace" size 1694 crc 08cc01c6 md5 e19661cf8411be9eab23bae77133183c )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sysvars][3K]"
+	description "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sysvars][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sysvars][3K].ace" size 1698 crc 4848d179 md5 f457a5c9ecee6dbbe8300ac5f11d31c4 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]"
+	description "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K].ace" size 1840 crc 1af90dda md5 89268d2655479d1e0251cfefe21cb9a3 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[code][3K]"
+	description "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[code][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[code][3K].ace" size 1664 crc 479a9a60 md5 e37d0866d6e292c5ba35cf369bf5dfde )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[pause][3K]"
+	description "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[pause][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[pause][3K].ace" size 1707 crc 8f9760a1 md5 65af83a11d5482cd43e57b52e78e5c17 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[noise][3K]"
+	description "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[noise][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[noise][3K].ace" size 1681 crc 2f490747 md5 0c884a3369790854bcb30d514de28f95 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[runlights][3K]"
+	description "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[runlights][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[runlights][3K].ace" size 1875 crc 013bc9a4 md5 417187d741410fd43d8ccb5dccdc0e18 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[switches][3K]"
+	description "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[switches][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[switches][3K].ace" size 1865 crc f7b1cc49 md5 4a03f43131cf89ad765402ddcd099c2f )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[plusstore][3K]"
+	description "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[plusstore][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[plusstore][3K].ace" size 1656 crc 55997521 md5 27b1e256cdbcd3e2f4e6152247ba4642 )
+)
+
+game (
+	name "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[queryvar][3K]"
+	description "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[queryvar][3K]"
+	rom ( name "Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[queryvar][3K].ace" size 1649 crc 5e6ef115 md5 e981a89575eae39713de52df915caa8f )
+)

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "MITS Altair 8800 - Demos - [BIN]"
+	description "MITS Altair 8800 - Demos - [BIN] (TOSEC-v2008-01-27)"
+	category "MITS Altair 8800 - Demos - [BIN]"
+	version 2008-01-27
+	author "TKaos"
+)
+
+game (
+	name "Writer (19xx)(-)[dazzler output][$5000]"
+	description "Writer (19xx)(-)[dazzler output][$5000]"
+	rom ( name "Writer (19xx)(-)[dazzler output][$5000].bin" size 1297 crc fd9844ca md5 0689fcdd5a120197bdf814e3fc37061c )
+)

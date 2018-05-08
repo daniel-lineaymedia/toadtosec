@@ -1,0 +1,37 @@
+clrmamepro (
+	name "DEC PDP-8 - Docs"
+	description "DEC PDP-8 - Docs (TOSEC-v2010-08-23)"
+	category "DEC PDP-8 - Docs"
+	version 2010-08-23
+	author "TKaos"
+)
+
+game (
+	name "NP-8 Inspection System Manual (19xx)(-)(Disk 1 of 2)"
+	description "NP-8 Inspection System Manual (19xx)(-)(Disk 1 of 2)"
+	rom ( name "NP-8 Inspection System Manual (19xx)(-)(Disk 1 of 2).rx1" size 256256 crc e473168b md5 a011ac2d93cff226d4d3c8e471dfbcc9 )
+)
+
+game (
+	name "NP-8 Inspection System Manual (19xx)(-)(Disk 2 of 2)"
+	description "NP-8 Inspection System Manual (19xx)(-)(Disk 2 of 2)"
+	rom ( name "NP-8 Inspection System Manual (19xx)(-)(Disk 2 of 2).rx1" size 256256 crc 2c1bd7a6 md5 f70bdfca5d9334fffbc8fe011544b403 )
+)
+
+game (
+	name "Sontara Manual 1 (19xx)(-)"
+	description "Sontara Manual 1 (19xx)(-)"
+	rom ( name "Sontara Manual 1 (19xx)(-).rx1" size 256256 crc 5c2a2dde md5 f50dbe5737c947271d25453ca1737a29 )
+)
+
+game (
+	name "Sontara Manual 2 (19xx)(-)"
+	description "Sontara Manual 2 (19xx)(-)"
+	rom ( name "Sontara Manual 2 (19xx)(-).rx1" size 256256 crc b161deb2 md5 f8015972123e7a4df3d2673d2b3d3f27 )
+)
+
+game (
+	name "WPS 8 Doc (19xx)(DEC)(US)"
+	description "WPS 8 Doc (19xx)(DEC)(US)"
+	rom ( name "WPS 8 Doc (19xx)(DEC)(US).rx1" size 256256 crc 99dfdc11 md5 1031fc0ceb7deabefcb277c49fb55f8c )
+)

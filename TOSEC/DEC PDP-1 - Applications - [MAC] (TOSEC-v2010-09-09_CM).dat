@@ -1,0 +1,25 @@
+clrmamepro (
+	name "DEC PDP-1 - Applications - [MAC]"
+	description "DEC PDP-1 - Applications - [MAC] (TOSEC-v2010-09-09)"
+	category "DEC PDP-1 - Applications - [MAC]"
+	version 2010-09-09
+	author "TKaos"
+)
+
+game (
+	name "DEC Debugging Tape (1966-08-20)(DEC)(US)"
+	description "DEC Debugging Tape (1966-08-20)(DEC)(US)"
+	rom ( name "DEC Debugging Tape (1966-08-20)(DEC)(US).mac" size 16821 crc 0b90cc53 md5 d6857d08bdb7184105907d5ad0e802c8 )
+)
+
+game (
+	name "DEC Debugging Tape (1966-08-20)(DEC)(US)[a]"
+	description "DEC Debugging Tape (1966-08-20)(DEC)(US)[a]"
+	rom ( name "DEC Debugging Tape (1966-08-20)(DEC)(US)[a].mac" size 15062 crc 1b131a23 md5 de2316262a38ad68afd0c38477f9a9f1 )
+)
+
+game (
+	name "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)"
+	description "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)"
+	rom ( name "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US).mac" size 19185 crc 9eca054f md5 4b96cdb4d708735a56a41d043a2100b5 )
+)

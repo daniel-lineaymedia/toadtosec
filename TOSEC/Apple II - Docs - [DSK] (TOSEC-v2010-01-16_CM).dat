@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Apple II - Docs - [DSK]"
+	description "Apple II - Docs - [DSK] (TOSEC-v2010-01-16)"
+	category "Apple II - Docs - [DSK]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "Autoduel Docs And Maps (19xx)(Crustaceo Mutoid)"
+	description "Autoduel Docs And Maps (19xx)(Crustaceo Mutoid)"
+	rom ( name "Autoduel Docs And Maps (19xx)(Crustaceo Mutoid).dsk" size 143360 crc 47b7a0c9 md5 05e943754f155652d0e61ecc4f4adc13 )
+)
+
+game (
+	name "Doc On The Rocks 10 (1987)(Godfather)(fr)[no boot]"
+	description "Doc On The Rocks 10 (1987)(Godfather)(fr)[no boot]"
+	rom ( name "Doc On The Rocks 10 (1987)(Godfather)(fr)[no boot].dsk" size 143360 crc 52d871b8 md5 638e07c46635f24cb91786fd654ab7a7 )
+)
+
+game (
+	name "Doc On The Rocks 11 (1987)(Godfather)(fr)[no boot]"
+	description "Doc On The Rocks 11 (1987)(Godfather)(fr)[no boot]"
+	rom ( name "Doc On The Rocks 11 (1987)(Godfather)(fr)[no boot].dsk" size 143360 crc c8cf803a md5 7eab251261f251e0f53b275b4af4f048 )
+)
+
+game (
+	name "Doc On The Rocks 13 (1987)(Godfather)(fr)[no boot]"
+	description "Doc On The Rocks 13 (1987)(Godfather)(fr)[no boot]"
+	rom ( name "Doc On The Rocks 13 (1987)(Godfather)(fr)[no boot].dsk" size 143360 crc ecc8d5be md5 8e5f5862d2099eab4eaf0ed25649d22f )
+)

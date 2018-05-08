@@ -1,0 +1,121 @@
+clrmamepro (
+	name "Exelvision EXL100 - Applications - [K7]"
+	description "Exelvision EXL100 - Applications - [K7] (TOSEC-v2010-05-24)"
+	category "Exelvision EXL100 - Applications - [K7]"
+	version 2010-05-24
+	author "TKaos"
+)
+
+game (
+	name "Analyse (19xx)(-)(FR)"
+	description "Analyse (19xx)(-)(FR)"
+	rom ( name "Analyse (19xx)(-)(FR).k7" size 1429 crc 3a8c89c7 md5 ff2efa8a2640aead4deda3297a0ff401 )
+)
+
+game (
+	name "Crayon Magique (198x)(Exelvision)(FR)"
+	description "Crayon Magique (198x)(Exelvision)(FR)"
+	rom ( name "Crayon Magique (198x)(Exelvision)(FR).k7" size 6278 crc 1f8bf3ac md5 874a81ed55b99173d62878d7f230dca0 )
+)
+
+game (
+	name "Creaphix (1985-07)(Exelvision)(FR)"
+	description "Creaphix (1985-07)(Exelvision)(FR)"
+	rom ( name "Creaphix (1985-07)(Exelvision)(FR).k7" size 8163 crc f66e913d md5 84228ab36beea601dda4f7f98c6fcc4f )
+)
+
+game (
+	name "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY]"
+	description "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY]"
+	rom ( name "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY].k7" size 7151 crc 7a1713cb md5 ba46afadb3b26cdf60ad7e697b8a93e0 )
+)
+
+game (
+	name "Dates (198x)(Minipuce)(FR)"
+	description "Dates (198x)(Minipuce)(FR)"
+	rom ( name "Dates (198x)(Minipuce)(FR).k7" size 3163 crc f9ee617a md5 afdd3d85284a791002f50575da792bc9 )
+)
+
+game (
+	name "Direct (198x)(Edition PUSSY)(FR)"
+	description "Direct (198x)(Edition PUSSY)(FR)"
+	rom ( name "Direct (198x)(Edition PUSSY)(FR).k7" size 7287 crc efbcc8fb md5 1882cf477c4ad09f16f8ed6779309dc4 )
+)
+
+game (
+	name "Editeur de Texte (1985-07)(Picard, Paul)(FR)"
+	description "Editeur de Texte (1985-07)(Picard, Paul)(FR)"
+	rom ( name "Editeur de Texte (1985-07)(Picard, Paul)(FR).k7" size 3736 crc de3f67ef md5 3be5253b2a54a1acb0141bf4f2cce15c )
+)
+
+game (
+	name "Exel Fichiers (1984)(Electron Software)(FR)"
+	description "Exel Fichiers (1984)(Electron Software)(FR)"
+	rom ( name "Exel Fichiers (1984)(Electron Software)(FR).k7" size 12311 crc d7194490 md5 f7066b517e37a33bb2ab1fdac65c2461 )
+)
+
+game (
+	name "Fixel (198x)(Exelvision)(FR)"
+	description "Fixel (198x)(Exelvision)(FR)"
+	rom ( name "Fixel (198x)(Exelvision)(FR).k7" size 9222 crc e359af4a md5 759df6fdc6461f31ccf87186c833ec3f )
+)
+
+game (
+	name "Fixel (198x)(Exelvision)(FR)[a]"
+	description "Fixel (198x)(Exelvision)(FR)[a]"
+	rom ( name "Fixel (198x)(Exelvision)(FR)[a].k7" size 9222 crc 615a88de md5 6eff90a1cff4d08b9ce46280c3f14ab6 )
+)
+
+game (
+	name "Fixtab (1985)(Initiel)(FR)"
+	description "Fixtab (1985)(Initiel)(FR)"
+	rom ( name "Fixtab (1985)(Initiel)(FR).k7" size 19147 crc 9e9b2714 md5 eef09d881c68c0f7be7bdc4a005999b6 )
+)
+
+game (
+	name "Frises (198x)(Cedic, Nathan)(FR)"
+	description "Frises (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Frises (198x)(Cedic, Nathan)(FR).k7" size 19176 crc 41c00f52 md5 60d38846045128fe782c94b7b6307c01 )
+)
+
+game (
+	name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A)"
+	description "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A)"
+	rom ( name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A).k7" size 18066 crc 3b45e034 md5 85e794171c3564ab96d9f6a6392d01fc )
+)
+
+game (
+	name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B)"
+	description "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B)"
+	rom ( name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B).k7" size 18066 crc 5c038236 md5 89215938075726036d4882a65ab32ae8 )
+)
+
+game (
+	name "Operal (198x)(Paralleles)(FR)[req 64kb]"
+	description "Operal (198x)(Paralleles)(FR)[req 64kb]"
+	rom ( name "Operal (198x)(Paralleles)(FR)[req 64kb].k7" size 26466 crc fe329146 md5 cf316f63e30eec2e03118f1278637c66 )
+)
+
+game (
+	name "Pascal Base v1 (1985)(Free Game Blot)(FR)"
+	description "Pascal Base v1 (1985)(Free Game Blot)(FR)"
+	rom ( name "Pascal Base v1 (1985)(Free Game Blot)(FR).k7" size 34675 crc b30d4dd1 md5 390fc477059a12e7bc30f5524119ad7e )
+)
+
+game (
+	name "Sommaire-Games (1988)(Edition PUSSY)(FR)"
+	description "Sommaire-Games (1988)(Edition PUSSY)(FR)"
+	rom ( name "Sommaire-Games (1988)(Edition PUSSY)(FR).k7" size 5344 crc cca06866 md5 725a732d0cb4dbd1edd5b9ce1af957bf )
+)
+
+game (
+	name "Sprite (198x)(Exelvision)(FR)[b]"
+	description "Sprite (198x)(Exelvision)(FR)[b]"
+	rom ( name "Sprite (198x)(Exelvision)(FR)[b].k7" size 16924 crc 8dbf5285 md5 41d087cc68712093df84c31336233e64 )
+)
+
+game (
+	name "Verlan (198x)(-)"
+	description "Verlan (198x)(-)"
+	rom ( name "Verlan (198x)(-).k7" size 2445 crc 7700d414 md5 d287463ef42680fb3e2ed72af5df74f5 )
+)

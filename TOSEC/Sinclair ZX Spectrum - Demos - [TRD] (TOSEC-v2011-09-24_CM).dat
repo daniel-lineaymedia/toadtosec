@@ -1,0 +1,782 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Demos - [TRD]"
+	description "Sinclair ZX Spectrum - Demos - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Demos - [TRD]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Zxyo - Dziuber - Cassiel"
+)
+
+game (
+	name "50-50 (1993)(Home Programs Soft)"
+	description "50-50 (1993)(Home Programs Soft)"
+	rom ( name "50-50 (1993)(Home Programs Soft).trd" size 46080 crc da34ff9a md5 01b021f1f75928ad360a8b74f524f690 sha1 68e2add1c3d070a646c6c9ee657dd95f90df2441 )
+)
+
+game (
+	name "Agony Megademo (1993)(Lodz City Coders)[h Phantasy]"
+	description "Agony Megademo (1993)(Lodz City Coders)[h Phantasy]"
+	rom ( name "Agony Megademo (1993)(Lodz City Coders)[h Phantasy].trd" size 655360 crc a52865de md5 be8e664cd8a3588f97bb91c00cea746b sha1 528b3e9293d3740848b4ebff875b5f82e49880ba )
+)
+
+game (
+	name "Agony Megademo (1993)(Lodz City Coders)[h2 Phantasy]"
+	description "Agony Megademo (1993)(Lodz City Coders)[h2 Phantasy]"
+	rom ( name "Agony Megademo (1993)(Lodz City Coders)[h2 Phantasy].trd" size 327680 crc 86c08d22 md5 6fee8142445e55798b9138517cdd08be sha1 fd615b0f4866690bc558489ab05471404b516b28 )
+)
+
+game (
+	name "Amiga World (19xx)(Oscar - Spilberg)"
+	description "Amiga World (19xx)(Oscar - Spilberg)"
+	rom ( name "Amiga World (19xx)(Oscar - Spilberg).trd" size 44544 crc 481cca1b md5 137451b9f855448e70816fd079b33ab1 sha1 18295844ac6650a5dd7d905c27a2544bdc05929e )
+)
+
+game (
+	name "Anamnesis (1999)(Real Masters)"
+	description "Anamnesis (1999)(Real Masters)"
+	rom ( name "Anamnesis (1999)(Real Masters).trd" size 655360 crc 13fb0c9b md5 21484477da4d7a115d5311b04bb98fd2 sha1 690f542c2b44ed4bead068b6bd9446f0d904d43c )
+)
+
+game (
+	name "Anamnesis (1999)(Real Masters)[a2]"
+	description "Anamnesis (1999)(Real Masters)[a2]"
+	rom ( name "Anamnesis (1999)(Real Masters)[a2].trd" size 655360 crc 1fcff08e md5 0036eca1ac8122c5d938172ede60e526 sha1 59aa5349c5a648d96d562da9be864d771eec9a85 )
+)
+
+game (
+	name "Anamnesis (1999)(Real Masters)[a3]"
+	description "Anamnesis (1999)(Real Masters)[a3]"
+	rom ( name "Anamnesis (1999)(Real Masters)[a3].trd" size 655360 crc b1f116ba md5 052320a1d53bcc18d1e7d3e4f407c743 sha1 a933044d5c418b8b96def0f591313c0cbcb7ab3b )
+)
+
+game (
+	name "Anamnesis (1999)(Real Masters)[a]"
+	description "Anamnesis (1999)(Real Masters)[a]"
+	rom ( name "Anamnesis (1999)(Real Masters)[a].trd" size 655360 crc 242fc3d5 md5 d015b597da6791b0fab3aa7b38ec0ac2 sha1 ee440cb2045278d650cb7ae4e76c7a444198d0d9 )
+)
+
+game (
+	name "Anekdotes 2,75 (1994)(Golden Disk)(ru)"
+	description "Anekdotes 2,75 (1994)(Golden Disk)(ru)"
+	rom ( name "Anekdotes 2,75 (1994)(Golden Disk)(ru).trd" size 38912 crc 44c867ac md5 e24f6968547d0d0889f6940a290a374b sha1 4460369f1d962526d47d8cb563f57dac410c3693 )
+)
+
+game (
+	name "Anekdotes 3 Kilodemo (1994)(Golden Disk)(ru)"
+	description "Anekdotes 3 Kilodemo (1994)(Golden Disk)(ru)"
+	rom ( name "Anekdotes 3 Kilodemo (1994)(Golden Disk)(ru).trd" size 138496 crc 87529249 md5 cf026f56427f64f1e2cad4196ef7aaf1 sha1 a8c076435b19ec775879e086378dce0c39a8a53c )
+)
+
+game (
+	name "Answer (1994)(Code Busters)(ru)"
+	description "Answer (1994)(Code Busters)(ru)"
+	rom ( name "Answer (1994)(Code Busters)(ru).trd" size 12800 crc b9c9ebfc md5 e71cc06edc6cc947d528313035ccba3a sha1 bcd35be334095c932d3922526a33e27463fb128c )
+)
+
+game (
+	name "Art Vision (1997)(Style)"
+	description "Art Vision (1997)(Style)"
+	rom ( name "Art Vision (1997)(Style).trd" size 655360 crc ed8fd0db md5 1b9bd561a07f4e1b5b83c290389317ce sha1 2ad8aade8e57f708b8944060cda417c3760680de )
+)
+
+game (
+	name "ARTe (1999)(Scene)"
+	description "ARTe (1999)(Scene)"
+	rom ( name "ARTe (1999)(Scene).trd" size 655360 crc 20e0b88a md5 2b241699496fbca8e20b20a9199087ac sha1 fa7bd8539747d83ebd772a967e603967f574eb7f )
+)
+
+game (
+	name "ARTe (1999)(Scene)[a]"
+	description "ARTe (1999)(Scene)[a]"
+	rom ( name "ARTe (1999)(Scene)[a].trd" size 655360 crc 0fa99bf5 md5 243578e26a87fcbf3c798c96830310b4 sha1 fcf52e9a6c675223053ff3eb3cd6cb0d1e70f899 )
+)
+
+game (
+	name "Assorty Megademo (1994)(Dream Makers Software)"
+	description "Assorty Megademo (1994)(Dream Makers Software)"
+	rom ( name "Assorty Megademo (1994)(Dream Makers Software).trd" size 86784 crc ce28deb4 md5 863be67d04de56cad4e332a3930fcb92 sha1 9eeb6938195ff4cf4f7a82557fb5ea9be66da5a4 )
+)
+
+game (
+	name "Bad Job (1992)(Pavel Nikitin)"
+	description "Bad Job (1992)(Pavel Nikitin)"
+	rom ( name "Bad Job (1992)(Pavel Nikitin).trd" size 18432 crc 124efe3c md5 5498fdddcbf546854a6fa96f704d0432 sha1 1e2e41aac4231cb0ec15247bc5ae4bb905085c5c )
+)
+
+game (
+	name "Ball Dreams (1994)(Flash)(ru)"
+	description "Ball Dreams (1994)(Flash)(ru)"
+	rom ( name "Ball Dreams (1994)(Flash)(ru).trd" size 27136 crc e0f0e49c md5 8f9ec54dc058412074bfeb1101fcbc63 sha1 b56167ddc3c0c565af75a3e01bec8068d40b7027 )
+)
+
+game (
+	name "Beatles - A Hard Day Night (1993)(Max Iwamoto)"
+	description "Beatles - A Hard Day Night (1993)(Max Iwamoto)"
+	rom ( name "Beatles - A Hard Day Night (1993)(Max Iwamoto).trd" size 43264 crc c7b01b0d md5 8743aac5aac336909ad06cef1aba6325 sha1 176d9427c7d7c3b6b29cdf55c84999a9ef32b661 )
+)
+
+game (
+	name "Best Music Demo 1 (1993)(THD - Alex Boy)(ru)"
+	description "Best Music Demo 1 (1993)(THD - Alex Boy)(ru)"
+	rom ( name "Best Music Demo 1 (1993)(THD - Alex Boy)(ru).trd" size 45824 crc 487c0ea8 md5 6c40afeaf93855e67e2136dedba71df1 sha1 a4a8d0f0b59f65eb332225d97e4531e7e64be372 )
+)
+
+game (
+	name "Best Music Demo 2 (1993)(THD - Alex Boy)(ru)"
+	description "Best Music Demo 2 (1993)(THD - Alex Boy)(ru)"
+	rom ( name "Best Music Demo 2 (1993)(THD - Alex Boy)(ru).trd" size 37888 crc c70f16ce md5 9f4ba9a677b21278a4dd7cf0293ad681 sha1 4d40bbca4bb0682831489e5c7c50c3548a0bfeeb )
+)
+
+game (
+	name "Best Music Demo 3 (1993)(THD - Alex Boy)(ru)"
+	description "Best Music Demo 3 (1993)(THD - Alex Boy)(ru)"
+	rom ( name "Best Music Demo 3 (1993)(THD - Alex Boy)(ru).trd" size 25856 crc 47bc497e md5 be4dcfba970ce896d5f7bd1b0f476b36 sha1 a8b2210fd14a6458df491e2b99ddc1fc4844e225 )
+)
+
+game (
+	name "Best Music Demo 5 (1993)(THD - Alex Boy)(ru)"
+	description "Best Music Demo 5 (1993)(THD - Alex Boy)(ru)"
+	rom ( name "Best Music Demo 5 (1993)(THD - Alex Boy)(ru).trd" size 25600 crc be2a19eb md5 3e0ee139acab7c57a9b64fe0cf48d639 sha1 12d2fd4042fc2062825290e2170e90b05285c66c )
+)
+
+game (
+	name "BOOM Trackmo (1998)(ETC Group)"
+	description "BOOM Trackmo (1998)(ETC Group)"
+	rom ( name "BOOM Trackmo (1998)(ETC Group).trd" size 655360 crc eba0c248 md5 5da83d55d007185ab8807be76c1420f6 sha1 db9e7742534a6914e4e0954dc1c81eec5863c0f2 )
+)
+
+game (
+	name "Brag (1994)(Dream Makers Software)"
+	description "Brag (1994)(Dream Makers Software)"
+	rom ( name "Brag (1994)(Dream Makers Software).trd" size 53504 crc b4e58770 md5 02c5b779faeabacfd81295890db9a6d5 sha1 e423caf6f2b190135f601f24d3c4758a7a0f807f )
+)
+
+game (
+	name "CD-Player (1988)(Players Software)"
+	description "CD-Player (1988)(Players Software)"
+	rom ( name "CD-Player (1988)(Players Software).trd" size 29184 crc 6229796b md5 8b8c125bc3467d20d765e5d266a4b76c sha1 c420121d15adb6bb3c3fa05f750f49ed863ffe62 )
+)
+
+game (
+	name "Centre Graphics, The (19xx)(Jacek Michalak)(pl)[h Alexey Ermakov]"
+	description "Centre Graphics, The (19xx)(Jacek Michalak)(pl)[h Alexey Ermakov]"
+	rom ( name "Centre Graphics, The (19xx)(Jacek Michalak)(pl)[h Alexey Ermakov].trd" size 28416 crc 67244944 md5 1c77e05cceacebb78155a3e69b94dc78 sha1 db13c2b69bdaee7810274d6dd8e5efb1bbe26d84 )
+)
+
+game (
+	name "Chaos Constructions '2000 Invitation Dentro (1999)(Eternity Industry)"
+	description "Chaos Constructions '2000 Invitation Dentro (1999)(Eternity Industry)"
+	rom ( name "Chaos Constructions '2000 Invitation Dentro (1999)(Eternity Industry).trd" size 655360 crc a6f7e082 md5 21612e026f1581fa308e29ad21f7b149 sha1 4819935819e1f262e163447e24d4550003e2d874 )
+)
+
+game (
+	name "Chaos Constructions '2000 Invitation Dentro - Melange (2000)(CyberJack - Diver)"
+	description "Chaos Constructions '2000 Invitation Dentro - Melange (2000)(CyberJack - Diver)"
+	rom ( name "Chaos Constructions '2000 Invitation Dentro - Melange (2000)(CyberJack - Diver).trd" size 655360 crc 4fca4db8 md5 96ec8eefaa2c300bb509efb5fac59e71 sha1 a4f129357497f87ce748f814e0fdef28567738e6 )
+)
+
+game (
+	name "Code X (2001)(Coders Academy)"
+	description "Code X (2001)(Coders Academy)"
+	rom ( name "Code X (2001)(Coders Academy).trd" size 655360 crc 20623972 md5 41ff14bbdcc3ecb95af7e6986dbf4f99 sha1 27d32746051187f30a41381de3f491310df3274d )
+)
+
+game (
+	name "Confusion (19xx)(Rush - ETC Group & Style)"
+	description "Confusion (19xx)(Rush - ETC Group & Style)"
+	rom ( name "Confusion (19xx)(Rush - ETC Group & Style).trd" size 655360 crc 941578eb md5 09279325388de72634fa1ee51970d0e7 sha1 98d748d1d565092c047162bb01227d42ea9ad6a0 )
+)
+
+game (
+	name "Crack Music Demo (19xx)(Oscar - Spilberg)"
+	description "Crack Music Demo (19xx)(Oscar - Spilberg)"
+	rom ( name "Crack Music Demo (19xx)(Oscar - Spilberg).trd" size 17408 crc 6b7e282a md5 1d2d5f218f3da1d097da95fba6160e13 sha1 c863460ac10d7de7b7b3369379832592478e1d7c )
+)
+
+game (
+	name "Crazy Butor (1994)(Flash)(ru)[h Cunt Dracotino]"
+	description "Crazy Butor (1994)(Flash)(ru)[h Cunt Dracotino]"
+	rom ( name "Crazy Butor (1994)(Flash)(ru)[h Cunt Dracotino].trd" size 35328 crc 809d531d md5 2cf09401e03a61c877c283cf481c8fdf sha1 6bf9b87d2d472ecd08eece0a2cda533f89b350ac )
+)
+
+game (
+	name "Crazy Sample II (1989)(The Lords)[h Gurin]"
+	description "Crazy Sample II (1989)(The Lords)[h Gurin]"
+	rom ( name "Crazy Sample II (1989)(The Lords)[h Gurin].trd" size 29184 crc 248e40f9 md5 a37702cd209b008169df150616b80e95 sha1 139a8294eb739769dd4fe75f5e8d59a42ee8e01e )
+)
+
+game (
+	name "Crossword v1.01a (1995)(Phantom)(ru)"
+	description "Crossword v1.01a (1995)(Phantom)(ru)"
+	rom ( name "Crossword v1.01a (1995)(Phantom)(ru).trd" size 63232 crc 84fc6709 md5 19825a060cef8e074fcd6f6011319247 sha1 9fdaeb88af5690670d12bb58770908800c571af6 )
+)
+
+game (
+	name "Diagram 1 (1990)(Frank Dux)[h Alexey Ermakov]"
+	description "Diagram 1 (1990)(Frank Dux)[h Alexey Ermakov]"
+	rom ( name "Diagram 1 (1990)(Frank Dux)[h Alexey Ermakov].trd" size 24064 crc 049c4710 md5 fab5da4c7ca8680e469b6bb273f44f06 sha1 efc97bc61c307e84e78d8bb32b306c8372e764bc )
+)
+
+game (
+	name "Disco Mania (19xx)(Smash Soft)"
+	description "Disco Mania (19xx)(Smash Soft)"
+	rom ( name "Disco Mania (19xx)(Smash Soft).trd" size 69632 crc fc4023df md5 134c0feb98f105ab7416c4a44d090441 sha1 9b7ea7e08f50d342783fcd4c30bf241cc401c708 )
+)
+
+game (
+	name "Dizzy R - In Rainbow (19xx)(Nexus - Rainbow Harmfuler)(ru)"
+	description "Dizzy R - In Rainbow (19xx)(Nexus - Rainbow Harmfuler)(ru)"
+	rom ( name "Dizzy R - In Rainbow (19xx)(Nexus - Rainbow Harmfuler)(ru).trd" size 61952 crc fd4624ec md5 85275d3bfc9d522514991df545d8d6a9 sha1 f0e5230f277256190c40b43487738b94c72b26da )
+)
+
+game (
+	name "Dobranocki (1989)(Kicia)(pl)"
+	description "Dobranocki (1989)(Kicia)(pl)"
+	rom ( name "Dobranocki (1989)(Kicia)(pl).trd" size 23808 crc 4d645307 md5 376447eeb75dd1ec8f1f37c0c32ccf3c sha1 b3cb2fd8698b40790dc23fff6390f02063f7fdcf )
+)
+
+game (
+	name "Doom Demo (1996)(Cobra Soft)"
+	description "Doom Demo (1996)(Cobra Soft)"
+	rom ( name "Doom Demo (1996)(Cobra Soft).trd" size 14848 crc 174a8d54 md5 a26a18deab19d0db3a24ff177abdbae1 sha1 fea7b8e9a193f7c0ae8c14267f730f5e30170265 )
+)
+
+game (
+	name "Dragon's Lair II Demo (1993)(Dimitry Kulikov)"
+	description "Dragon's Lair II Demo (1993)(Dimitry Kulikov)"
+	rom ( name "Dragon's Lair II Demo (1993)(Dimitry Kulikov).trd" size 44544 crc 7e51ea48 md5 8fe8febf34752299fb22280dd66a2efb sha1 f7186234b312d36e247501aea2f0b4f0dbba3afd )
+)
+
+game (
+	name "Egal (1993)(The Mad Guys)[h Phantasy]"
+	description "Egal (1993)(The Mad Guys)[h Phantasy]"
+	rom ( name "Egal (1993)(The Mad Guys)[h Phantasy].trd" size 163840 crc 43390656 md5 f4c8b60f234ccce7f5559b57a8672769 sha1 a5b8cf29a6a92a790dc5d1da213929dda2be0579 )
+)
+
+game (
+	name "Fantasy World Dizzy (1991)(Rus)"
+	description "Fantasy World Dizzy (1991)(Rus)"
+	rom ( name "Fantasy World Dizzy (1991)(Rus).trd" size 33280 crc 60d35ffb md5 8e0aead456f72a698d27f4f4a5cebfb2 sha1 fa6f8b174da23e1f2b5c430297eb5e5cf8b8e406 )
+)
+
+game (
+	name "First Association Preview (1997)(Omega Software GFX)(Disk 1 of 3)[cr Speed]"
+	description "First Association Preview (1997)(Omega Software GFX)(Disk 1 of 3)[cr Speed]"
+	rom ( name "First Association Preview (1997)(Omega Software GFX)(Disk 1 of 3)[cr Speed].trd" size 655360 crc 703b4b16 md5 be4498f194eb42fcea041b94daa14b2d sha1 9f8abb445eacdc7ed9e7ef7bd08796b0507f66c1 )
+)
+
+game (
+	name "First Association Preview (1997)(Omega Software GFX)(Disk 2 of 3)[cr Speed]"
+	description "First Association Preview (1997)(Omega Software GFX)(Disk 2 of 3)[cr Speed]"
+	rom ( name "First Association Preview (1997)(Omega Software GFX)(Disk 2 of 3)[cr Speed].trd" size 655360 crc a6323145 md5 a386edae6b4773caa627549c291d1515 sha1 789735997efb4d2e67747e02da05146def3e5dbe )
+)
+
+game (
+	name "First Association Preview (1997)(Omega Software GFX)(Disk 3 of 3)[cr Speed]"
+	description "First Association Preview (1997)(Omega Software GFX)(Disk 3 of 3)[cr Speed]"
+	rom ( name "First Association Preview (1997)(Omega Software GFX)(Disk 3 of 3)[cr Speed].trd" size 655360 crc e18a82e0 md5 054a3b3062efeaabc2d7e104ffa26b16 sha1 22c8cc7f7e4454abbb91c6dc937ba2f997a697a4 )
+)
+
+game (
+	name "First Music Demo (19xx)(Sergey Magera)(ru)"
+	description "First Music Demo (19xx)(Sergey Magera)(ru)"
+	rom ( name "First Music Demo (19xx)(Sergey Magera)(ru).trd" size 28928 crc 54c0349e md5 175831567db62c772782f5d5a785cf66 sha1 ec8bd30accadf147d7b89d8f7bcb2690aa6322ee )
+)
+
+game (
+	name "Forever Demo (1998)(Digital Reality)(ru)"
+	description "Forever Demo (1998)(Digital Reality)(ru)"
+	rom ( name "Forever Demo (1998)(Digital Reality)(ru).trd" size 655360 crc 13a7688f md5 8e497be659d87f14b6969dbeae90264f sha1 1d28a28c4d67c2a135be0ee4d8bdcc4ccf3da77f )
+)
+
+game (
+	name "Gemoroy GMD (1996)(General Group)(ru)"
+	description "Gemoroy GMD (1996)(General Group)(ru)"
+	rom ( name "Gemoroy GMD (1996)(General Group)(ru).trd" size 655360 crc 1ec340b7 md5 e8875a7ca7c65ca93b356bbb8138eefc sha1 137d40cbc64afa8cd0ab77778fe4fe26005707d2 )
+)
+
+game (
+	name "Gift & Fuck 4 J (2001)(Last Spectrum Group)(ru)"
+	description "Gift & Fuck 4 J (2001)(Last Spectrum Group)(ru)"
+	rom ( name "Gift & Fuck 4 J (2001)(Last Spectrum Group)(ru).trd" size 655360 crc 8d146674 md5 7d3ccef00906eed24bc77d14e1de760c sha1 ee1a20616510fae0fb2f4d70723d4a963378bbd6 )
+)
+
+game (
+	name "Gift for Graf (1998)(Alex Norman - GDM)(ru)"
+	description "Gift for Graf (1998)(Alex Norman - GDM)(ru)"
+	rom ( name "Gift for Graf (1998)(Alex Norman - GDM)(ru).trd" size 655360 crc 77bdfb27 md5 ed15a7188fcadb489788ef2bfcb713ad sha1 cb20ee247b63d643205cc15e630d12b7546a2d3e )
+)
+
+game (
+	name "Go to Hell II (19xx)(Fritle-Six)"
+	description "Go to Hell II (19xx)(Fritle-Six)"
+	rom ( name "Go to Hell II (19xx)(Fritle-Six).trd" size 33280 crc 87a7499a md5 9ac5683f908dd8aa95d9217050e8fb0a sha1 ce13c33b2f8300ae41ae1bc9a4d3e383a3c58e11 )
+)
+
+game (
+	name "Gop-Demo 1 (1992)(Gop-Company)"
+	description "Gop-Demo 1 (1992)(Gop-Company)"
+	rom ( name "Gop-Demo 1 (1992)(Gop-Company).trd" size 107264 crc 3800fed7 md5 9aca8bd99a803c04413ed8db3dde0f40 sha1 bacf4f73992ba51d68d0dd23a6ea670409ff1396 )
+)
+
+game (
+	name "Greatest Hits of Kolesnik Andrei (19xx)(Oscar - Spilberg)"
+	description "Greatest Hits of Kolesnik Andrei (19xx)(Oscar - Spilberg)"
+	rom ( name "Greatest Hits of Kolesnik Andrei (19xx)(Oscar - Spilberg).trd" size 22016 crc b02a299a md5 11cbf84fdb21c985ec6d70e483763ca6 sha1 732ad8e00309d5f91c78c5f3404dc8cff79c352b )
+)
+
+game (
+	name "Hudson Hawk Secret Demo (19xx)(Oscar - Spilberg)"
+	description "Hudson Hawk Secret Demo (19xx)(Oscar - Spilberg)"
+	rom ( name "Hudson Hawk Secret Demo (19xx)(Oscar - Spilberg).trd" size 18432 crc caf974f1 md5 2223e9b34bd1cf2f175cee03d3d5f406 sha1 a6d4e1ff260b88fd3e93f74b952cf6d128369428 )
+)
+
+game (
+	name "Idle Space 1 (1993)(Fire Angel Software)"
+	description "Idle Space 1 (1993)(Fire Angel Software)"
+	rom ( name "Idle Space 1 (1993)(Fire Angel Software).trd" size 24064 crc b86f6672 md5 2b86473e49a3f2365bfbb0f4693b06cc sha1 6f77d9729752d52606aaa4790a656d9a15ef2ac9 )
+)
+
+game (
+	name "Idle Space 2 (1993)(Fire Angel Software)"
+	description "Idle Space 2 (1993)(Fire Angel Software)"
+	rom ( name "Idle Space 2 (1993)(Fire Angel Software).trd" size 24832 crc 321f0472 md5 21e61352768e2cc438b08d82fe6bb3fd sha1 c4bcf8f530a676748e55e6a93776f6b21cf900b6 )
+)
+
+game (
+	name "Infamy (1990)(Sabe)"
+	description "Infamy (1990)(Sabe)"
+	rom ( name "Infamy (1990)(Sabe).trd" size 35072 crc 2419eedd md5 51397b6c15881f7faba57c6a8c0b315d sha1 69dae8f073aa301afc099025296f9be5aeb65ec6 )
+)
+
+game (
+	name "Inspiration (1992)(Klav)"
+	description "Inspiration (1992)(Klav)"
+	rom ( name "Inspiration (1992)(Klav).trd" size 94976 crc b5e70eed md5 ac5efbf5af50dbf79dfd10fc3844a285 sha1 2f9a89a830cc11cdfcb3334543d81a8fdfdcae9e )
+)
+
+game (
+	name "Jump to the Future (1992)(Klav)"
+	description "Jump to the Future (1992)(Klav)"
+	rom ( name "Jump to the Future (1992)(Klav).trd" size 110848 crc 90455cb1 md5 85ddabad24d018cab87deb88876f48cb sha1 6b1a58bdc449405aa6331b0cc756ea40faa406c2 )
+)
+
+game (
+	name "Kaz 5th Demo (1990)(Kassoft)(pl)[h]"
+	description "Kaz 5th Demo (1990)(Kassoft)(pl)[h]"
+	rom ( name "Kaz 5th Demo (1990)(Kassoft)(pl)[h].trd" size 34048 crc c57f0cd9 md5 1e0f3b020d7b4ea6d23d0b0f04ca47b2 sha1 c17696ef97e2342151f314e2785afa0a0d69e892 )
+)
+
+game (
+	name "Kix 128 (1988)(Hacker Chris)[h Gurin]"
+	description "Kix 128 (1988)(Hacker Chris)[h Gurin]"
+	rom ( name "Kix 128 (1988)(Hacker Chris)[h Gurin].trd" size 40192 crc 054e373f md5 db44864d9d2a64e9323c967fc5625159 sha1 1a3151688048a1571dbfdb00162ba1265a19afbd )
+)
+
+game (
+	name "Kock (1994)(Scorpion)(cs)"
+	description "Kock (1994)(Scorpion)(cs)"
+	rom ( name "Kock (1994)(Scorpion)(cs).trd" size 25344 crc 0d715124 md5 edcac1c0248c944b7d45be3557dd58af sha1 a78452b41129a3898b7fbf2795cedfeaed786895 )
+)
+
+game (
+	name "Lambada! (1990)(P.P. Minio)(pl)"
+	description "Lambada! (1990)(P.P. Minio)(pl)"
+	rom ( name "Lambada! (1990)(P.P. Minio)(pl).trd" size 47360 crc 37db1674 md5 4774c5c64ae2cfc5941be48706df571a sha1 63b5f10d8df6e4251df9e78c53dc42412f99938c )
+)
+
+game (
+	name "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru)"
+	description "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru)"
+	rom ( name "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru).trd" size 59392 crc 60c9e8ab md5 bd9a6d554d64af7f2fe29aa6b43e535e sha1 cf9401e9a42e5908cb942a8fa28c4593d6051deb )
+)
+
+game (
+	name "Leonardo (1993)(Smash Soft)(ru)"
+	description "Leonardo (1993)(Smash Soft)(ru)"
+	rom ( name "Leonardo (1993)(Smash Soft)(ru).trd" size 15872 crc 248600fa md5 1c78546a07237c196b9617ccb049e850 sha1 9ef2c97611808e7d7f29d45cea2b45d542ac4847 )
+)
+
+game (
+	name "Lily Gift (1999)(Hackers Design Software)(ru)"
+	description "Lily Gift (1999)(Hackers Design Software)(ru)"
+	rom ( name "Lily Gift (1999)(Hackers Design Software)(ru).trd" size 655360 crc ccebc26a md5 6683f1fdf90b52c2eeb000609acbfa85 sha1 271ef7c1632285d878606b5cdad467c8e99994b0 )
+)
+
+game (
+	name "Little Demo (19xx)(Dynamite Duo)"
+	description "Little Demo (19xx)(Dynamite Duo)"
+	rom ( name "Little Demo (19xx)(Dynamite Duo).trd" size 33792 crc 9eb8dbd4 md5 9fccaec3126f18c1daf470cf5e35f558 sha1 b0a4ad7d7d1cbce97e6cbd33ffaf71c2ad0ea875 )
+)
+
+game (
+	name "Logic 1 (1994)(Technotime)"
+	description "Logic 1 (1994)(Technotime)"
+	rom ( name "Logic 1 (1994)(Technotime).trd" size 45312 crc e74c7143 md5 2ab5f3aa3ca5e5a4f5436a47fc0d0244 sha1 f64d39ba3a6a6084f3b40d0c596ce8016f01f5dc )
+)
+
+game (
+	name "Logic 2 (1994)(Technotime)"
+	description "Logic 2 (1994)(Technotime)"
+	rom ( name "Logic 2 (1994)(Technotime).trd" size 19200 crc d4d2cc10 md5 5397c90e90daee334cc36d38091c1308 sha1 02a7d281bcb12164207b16a5994ee6f105ca9ba5 )
+)
+
+game (
+	name "Lords Demo, The (1990)(The Lords)[h]"
+	description "Lords Demo, The (1990)(The Lords)[h]"
+	rom ( name "Lords Demo, The (1990)(The Lords)[h].trd" size 45824 crc eb5b3fc2 md5 a07212d948d850bd0b4d6449289d7694 sha1 1b1c42471be2e05881272cdb552bdece6db3bcd2 )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)[h Andrew Strikes Code]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)[h Andrew Strikes Code]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)[h Andrew Strikes Code].trd" size 164864 crc 8cd43f45 md5 a355bc72e89648fcba194b4585016911 sha1 3aa2b53f81d3fa6361b54962e01715c21f000345 )
+)
+
+game (
+	name "Manhattan Music Demo 128k (1991)(Eugeny Koprov - Michael Makarevich)[h Softstar]"
+	description "Manhattan Music Demo 128k (1991)(Eugeny Koprov - Michael Makarevich)[h Softstar]"
+	rom ( name "Manhattan Music Demo 128k (1991)(Eugeny Koprov - Michael Makarevich)[h Softstar].trd" size 37632 crc fd2a848f md5 e2e854b94bf3d95d2c22469d10bebf56 sha1 7c23596daa3b11d9853b3d928b08b85634871af7 )
+)
+
+game (
+	name "Milky Way 1 (1994)(Flash)(ru)"
+	description "Milky Way 1 (1994)(Flash)(ru)"
+	rom ( name "Milky Way 1 (1994)(Flash)(ru).trd" size 28928 crc 7e6965a6 md5 d3bec7ba43ab6454fae40204f16cfe5f sha1 d912a318bd2c3d3fb28baa3fcb58dd3d44c4c093 )
+)
+
+game (
+	name "Mirage - Part 2 (1989)(Hacker Chris)"
+	description "Mirage - Part 2 (1989)(Hacker Chris)"
+	rom ( name "Mirage - Part 2 (1989)(Hacker Chris).trd" size 43520 crc 08bfcb68 md5 8cd766d41010c3021e5f4bfb93c3ee11 sha1 d3c3e758159275cddfb4fbb90874cdc0c0646b6d )
+)
+
+game (
+	name "Moon (1994)(RinsSoft)(ru)"
+	description "Moon (1994)(RinsSoft)(ru)"
+	rom ( name "Moon (1994)(RinsSoft)(ru).trd" size 44288 crc 5bd76923 md5 38bf3e89e1b980b5add46ca3a08dfc16 sha1 562f981022acc16171d8f3a7d26b6f6cb8031ab3 )
+)
+
+game (
+	name "Moon 2 (1994)(RinsSoft)(ru)"
+	description "Moon 2 (1994)(RinsSoft)(ru)"
+	rom ( name "Moon 2 (1994)(RinsSoft)(ru).trd" size 43776 crc 6d84aad7 md5 822ed0e38ea3947b19e6567a18ac74ce sha1 a678bccb83477d297bf0674be413a2d6f8fd8f6b )
+)
+
+game (
+	name "MSX 09 Music (1992)(Klav)"
+	description "MSX 09 Music (1992)(Klav)"
+	rom ( name "MSX 09 Music (1992)(Klav).trd" size 28160 crc 5216c7f4 md5 4dc8873d27bef9fbebd8d96792c3c8b4 sha1 29ef92514ce41ff684bdf7d493b189ebbf6241ca )
+)
+
+game (
+	name "MSX 10 Music (1993)(Klav)"
+	description "MSX 10 Music (1993)(Klav)"
+	rom ( name "MSX 10 Music (1993)(Klav).trd" size 44800 crc 6d420d16 md5 0379c88fe34df0c76233ec1de8c7cdd7 sha1 df587a6d05445ca3fc678bcb9170e36d084548a9 )
+)
+
+game (
+	name "MSX 12 Music (1993)(Max Iwamoto - RST7)(ru)"
+	description "MSX 12 Music (1993)(Max Iwamoto - RST7)(ru)"
+	rom ( name "MSX 12 Music (1993)(Max Iwamoto - RST7)(ru).trd" size 36352 crc 316bdb1f md5 b2c50745089f0ae26a22c111edfd4b51 sha1 0a7eb061292d92483f22a68411cf95ba22e0ee13 )
+)
+
+game (
+	name "Music Bank 2 (1991)(Mat - Maud'Dib)(pl)[h Alexey Ermakov]"
+	description "Music Bank 2 (1991)(Mat - Maud'Dib)(pl)[h Alexey Ermakov]"
+	rom ( name "Music Bank 2 (1991)(Mat - Maud'Dib)(pl)[h Alexey Ermakov].trd" size 27136 crc f7c5f94b md5 6c1435eb48c2ec999541368ba95e9299 sha1 f9e6c88656de94441e6710e5140705bfd59d7a2f )
+)
+
+game (
+	name "Nazi Demo (19xx)(Marysin - Jack Davis)"
+	description "Nazi Demo (19xx)(Marysin - Jack Davis)"
+	rom ( name "Nazi Demo (19xx)(Marysin - Jack Davis).trd" size 45568 crc 9f53bbfd md5 c0708200864448336350cd1f50d4dbb8 sha1 a3b04c7615ff1ceb3dcb91a7abf02fa5fd0beafb )
+)
+
+game (
+	name "Niszny Novgorod (1993)(ProfSoft)(ru)"
+	description "Niszny Novgorod (1993)(ProfSoft)(ru)"
+	rom ( name "Niszny Novgorod (1993)(ProfSoft)(ru).trd" size 52480 crc 44a57bad md5 6c93b03c636c9651dfbf119354fcd751 sha1 09035c31809e22469cbe728eccc053b441c319b1 )
+)
+
+game (
+	name "No Insight View (19xx)(The Lords)[h Gurin]"
+	description "No Insight View (19xx)(The Lords)[h Gurin]"
+	rom ( name "No Insight View (19xx)(The Lords)[h Gurin].trd" size 26880 crc a31ab590 md5 063f031c20b10a2c865e9a1be3213676 sha1 d4ea79f64d199bece82455792bf8becc70838e5f )
+)
+
+game (
+	name "Oasis 1 (1993)(Alex Kiselev)"
+	description "Oasis 1 (1993)(Alex Kiselev)"
+	rom ( name "Oasis 1 (1993)(Alex Kiselev).trd" size 53248 crc 628ca717 md5 be720495df19e05e7129daada88c57ba sha1 04e688cf7336280f3606d87c907472eba53a11eb )
+)
+
+game (
+	name "Our Life 3 (1994)(Flash)(ru)"
+	description "Our Life 3 (1994)(Flash)(ru)"
+	rom ( name "Our Life 3 (1994)(Flash)(ru).trd" size 62976 crc 3cf6a724 md5 ca608671639ba55a9b33587b054fce9d sha1 d58a39b2ed1bba7aa0d0ba8fe79af7ac61acc1a2 )
+)
+
+game (
+	name "Passion (1996)(Style)"
+	description "Passion (1996)(Style)"
+	rom ( name "Passion (1996)(Style).trd" size 655360 crc e10ef5d4 md5 41b31fa46f835c0bb778bae3d82c732b sha1 6d7d2bebba1c8247d9cecdddfe2f972ff97e8aea )
+)
+
+game (
+	name "Pigs in Space (1994)(KDF Soft)(ru)"
+	description "Pigs in Space (1994)(KDF Soft)(ru)"
+	rom ( name "Pigs in Space (1994)(KDF Soft)(ru).trd" size 13824 crc 36c37795 md5 05f614f578eab7c2d9c532b07d5f4b7b sha1 112cb7dec6f632c2ff327ff7f344af09cde00396 )
+)
+
+game (
+	name "Pooldemo I (1990)(Poolpet Software)(pl)[h Gurin]"
+	description "Pooldemo I (1990)(Poolpet Software)(pl)[h Gurin]"
+	rom ( name "Pooldemo I (1990)(Poolpet Software)(pl)[h Gurin].trd" size 42752 crc c3c80b90 md5 c2ded0649decb012b6d314f206940830 sha1 e3b80c247d47a9020852ec10f9a670834c7c3854 )
+)
+
+game (
+	name "Pops (1995)(Volga Soft)"
+	description "Pops (1995)(Volga Soft)"
+	rom ( name "Pops (1995)(Volga Soft).trd" size 655360 crc 65b89a0c md5 2bd4809a6bb74077067d3435fc15426e sha1 1aa05a611c55b96c62ad5a3c9d4259bdb2bc9d02 )
+)
+
+game (
+	name "Power Up (1997)(MegaCode - Extreme)"
+	description "Power Up (1997)(MegaCode - Extreme)"
+	rom ( name "Power Up (1997)(MegaCode - Extreme).trd" size 655360 crc 3c40464a md5 6d123cd49d4d7340dd7502f472ac935e sha1 f2ef2e8f94c14cc80a8db1727c392dc745fceaa7 )
+)
+
+game (
+	name "Pro Sounds (1991)(Rumatisoft - Your Sinclair)"
+	description "Pro Sounds (1991)(Rumatisoft - Your Sinclair)"
+	rom ( name "Pro Sounds (1991)(Rumatisoft - Your Sinclair).trd" size 23808 crc 07e21445 md5 95f966267b54ff0247efcfc9dccee648 sha1 52f39723e757d2926b1c1f2e8aadb55a426a4a00 )
+)
+
+game (
+	name "Rage (1997)(X-Trade Group)"
+	description "Rage (1997)(X-Trade Group)"
+	rom ( name "Rage (1997)(X-Trade Group).trd" size 655360 crc 2a3815c6 md5 a3d85860dc7825022e0076f9a3d1f86d sha1 73f5350882bccbadc82de0c6d6e6e465cc8ea808 )
+)
+
+game (
+	name "Real Robocop, The (19xx)(VVV Soft)"
+	description "Real Robocop, The (19xx)(VVV Soft)"
+	rom ( name "Real Robocop, The (19xx)(VVV Soft).trd" size 30464 crc e9289a84 md5 a2bd31888916bfd8cddd6295d5cf6c05 sha1 c5102ff88ccc5c02c7f1e20903392372f1ee941f )
+)
+
+game (
+	name "Rec Time 6 (1993)(Sim - BonySoft)(ru)"
+	description "Rec Time 6 (1993)(Sim - BonySoft)(ru)"
+	rom ( name "Rec Time 6 (1993)(Sim - BonySoft)(ru).trd" size 55808 crc 809fee43 md5 74d62c554088ba64cc91807852879f02 sha1 bad408d9f49e8a41df1c14b7c4a91476a71abb2e )
+)
+
+game (
+	name "Red Sector (19xx)(Herman Software)"
+	description "Red Sector (19xx)(Herman Software)"
+	rom ( name "Red Sector (19xx)(Herman Software).trd" size 14336 crc 561525ca md5 c96cc20dc493aaea7f8b63ff916225d0 sha1 9acd2d214e7b5a2acdbf1071972b55f7d4715e12 )
+)
+
+game (
+	name "Refresh (1998)(Extreme)"
+	description "Refresh (1998)(Extreme)"
+	rom ( name "Refresh (1998)(Extreme).trd" size 655360 crc 648d4dac md5 b6b0e383349e3b0e3bab9922b7991ce8 sha1 baa0109c429e4d38fc822870c1e1270a83ddeebf )
+)
+
+game (
+	name "Remember This (1994)(Flash)"
+	description "Remember This (1994)(Flash)"
+	rom ( name "Remember This (1994)(Flash).trd" size 28416 crc ae3b9f58 md5 8de1f8ecab4a771b65804adf3b8293f6 sha1 238201c9fef4e72ce105bf81aea9635315c55310 )
+)
+
+game (
+	name "Rendez-Vous in Black & White (1990)(The Lords)[h]"
+	description "Rendez-Vous in Black & White (1990)(The Lords)[h]"
+	rom ( name "Rendez-Vous in Black & White (1990)(The Lords)[h].trd" size 23808 crc 1474a1b9 md5 8308edc220de8d45c8ccde8bcf84ba0f sha1 53a85bc8301496b6641c0b86fa63af077b7b71f3 )
+)
+
+game (
+	name "Resound 1 (1993)(R-Soft)"
+	description "Resound 1 (1993)(R-Soft)"
+	rom ( name "Resound 1 (1993)(R-Soft).trd" size 112384 crc cb8861db md5 7a0b15680adc1cf0f335d6fe36b69dde sha1 62b3180468d97d2f302b911152b1931228a0b37c )
+)
+
+game (
+	name "RITM 1 (1993)(Fire Angel Software)"
+	description "RITM 1 (1993)(Fire Angel Software)"
+	rom ( name "RITM 1 (1993)(Fire Angel Software).trd" size 50688 crc 7762785b md5 5a151473e99e21c876ba6a6ac1fe6e91 sha1 6d6939a4dd11feed01bb4cd688c22e74dcfd839d )
+)
+
+game (
+	name "RITM 2 (1993)(Fire Angel Software)"
+	description "RITM 2 (1993)(Fire Angel Software)"
+	rom ( name "RITM 2 (1993)(Fire Angel Software).trd" size 51712 crc 2846ba25 md5 48dc3d6bae958a07018704866fa97da5 sha1 27298b00bf8bd919629ba20ceb93d8ac607e1804 )
+)
+
+game (
+	name "RITM 3 (1993)(Fire Angel Software)"
+	description "RITM 3 (1993)(Fire Angel Software)"
+	rom ( name "RITM 3 (1993)(Fire Angel Software).trd" size 49664 crc abc884a8 md5 efe46b86e38e8342d71ac77480f54252 sha1 d9324be75e6ea95bf8a0f430a4b419628c63a48f )
+)
+
+game (
+	name "RITM 4 (1993)(Fire Angel Software)"
+	description "RITM 4 (1993)(Fire Angel Software)"
+	rom ( name "RITM 4 (1993)(Fire Angel Software).trd" size 88832 crc 172848fc md5 d89b770f255b5295a9de9f2ba917c125 sha1 52c555fde0c024b2804683108470a8ec6a16078c )
+)
+
+game (
+	name "Robot (1996)(Inferno Software)[h Mafia]"
+	description "Robot (1996)(Inferno Software)[h Mafia]"
+	rom ( name "Robot (1996)(Inferno Software)[h Mafia].trd" size 35840 crc 9da6126a md5 b6a7b7c2b714b48e54bcf7e6bc8a8d0b sha1 63774f87adbcdffda6d94a897580ae291e53eedb )
+)
+
+game (
+	name "Satisfaction Megademo (1994)(Code Busters)"
+	description "Satisfaction Megademo (1994)(Code Busters)"
+	rom ( name "Satisfaction Megademo (1994)(Code Busters).trd" size 208128 crc fec8762b md5 d5d6e89aaeeb13581cee7e8b29d588ca sha1 68a1c29be4ee7981cf6df705d3b9c4347b6f4c1e )
+)
+
+game (
+	name "Sean Adams Demo (1991)(Eugene Stepanoff)"
+	description "Sean Adams Demo (1991)(Eugene Stepanoff)"
+	rom ( name "Sean Adams Demo (1991)(Eugene Stepanoff).trd" size 34816 crc e16a7829 md5 c13a5780e8ad24e519d6bd4c855317f2 sha1 debd15d05fffaf6ab944508c786725b69578bde0 )
+)
+
+game (
+	name "Shock (1992)(ESI)[h Vadim Eremeev]"
+	description "Shock (1992)(ESI)[h Vadim Eremeev]"
+	rom ( name "Shock (1992)(ESI)[h Vadim Eremeev].trd" size 100608 crc 315d4ebf md5 68b8d596066fbc97a82dc8b8c826e5a1 sha1 66f79d7c0eb9b20c397b90c51fee8ba85bb9c052 )
+)
+
+game (
+	name "Silly Demo I (1989)(The Lords)[h]"
+	description "Silly Demo I (1989)(The Lords)[h]"
+	rom ( name "Silly Demo I (1989)(The Lords)[h].trd" size 16128 crc 05a90dcb md5 05ab104bfb263a8581b925fb4a69eca4 sha1 c3aa26d23d2060ecf5e3d5dbee88d443cb285431 )
+)
+
+game (
+	name "Sky 128 (1988)(Hacker Chris)[h Gurin]"
+	description "Sky 128 (1988)(Hacker Chris)[h Gurin]"
+	rom ( name "Sky 128 (1988)(Hacker Chris)[h Gurin].trd" size 37888 crc d63b7230 md5 e437aa45189eacd115063562222c08ac sha1 108eb06e31203d76114e3923bca29c9e49d5851c )
+)
+
+game (
+	name "Sky 128 II (1988)(Hacker Chris)[h Gurin]"
+	description "Sky 128 II (1988)(Hacker Chris)[h Gurin]"
+	rom ( name "Sky 128 II (1988)(Hacker Chris)[h Gurin].trd" size 30720 crc 11b312ba md5 a341f3e484ed78cba88ec7b07d08c4e8 sha1 d46ea33e9980e0fac07656735de7067cd9fcd9e3 )
+)
+
+game (
+	name "Sky 128 III (1988)(Hacker Chris)[h Gurin]"
+	description "Sky 128 III (1988)(Hacker Chris)[h Gurin]"
+	rom ( name "Sky 128 III (1988)(Hacker Chris)[h Gurin].trd" size 33280 crc ec810365 md5 6af9130387b82c25b2f1d9d61eb7f59d sha1 0550b0de7b291da1fadd79c8614c6fcff13578ad )
+)
+
+game (
+	name "Sky 128 IV (1988)(Hacker Chris)[h Gurin]"
+	description "Sky 128 IV (1988)(Hacker Chris)[h Gurin]"
+	rom ( name "Sky 128 IV (1988)(Hacker Chris)[h Gurin].trd" size 36864 crc d9dd6671 md5 47b34bb05a24dd8ddc4332a28093f987 sha1 42b9acf03a54f21eb669441080998f7dc8b610d7 )
+)
+
+game (
+	name "Softland 1 (19xx)(Felix)"
+	description "Softland 1 (19xx)(Felix)"
+	rom ( name "Softland 1 (19xx)(Felix).trd" size 45824 crc 87f26aa5 md5 964c2792fea9e247b253b18ec926ef4a sha1 474a62628ce0211b70990d76bc7bddd218f7f057 )
+)
+
+game (
+	name "Softland 2 (19xx)(Felix)"
+	description "Softland 2 (19xx)(Felix)"
+	rom ( name "Softland 2 (19xx)(Felix).trd" size 45568 crc ae8f8143 md5 fc8d0466e3087c142974780fc1d445a9 sha1 5d303f0fc99e198b81c2c5c946173575a14ec737 )
+)
+
+game (
+	name "Song in Lines 4 (1990)(Busy Software)(cs)[h Vlad Kropachev]"
+	description "Song in Lines 4 (1990)(Busy Software)(cs)[h Vlad Kropachev]"
+	rom ( name "Song in Lines 4 (1990)(Busy Software)(cs)[h Vlad Kropachev].trd" size 31232 crc d97e410d md5 063692ed0532b4a0ca7df057483c2d2d sha1 4a4055c8fa115a7d2fc3637fe0b7245302a0cad5 )
+)
+
+game (
+	name "Squards (1996)(Spark)(ru)"
+	description "Squards (1996)(Spark)(ru)"
+	rom ( name "Squards (1996)(Spark)(ru).trd" size 17664 crc 8755252c md5 a5822ec9a2e810838a04331bf6c7f301 sha1 47c4e5fbf62e3d97d69909be055ab2d300ee9d88 )
+)
+
+game (
+	name "Super Sound 128 I (1989)(Jack Davis)[h Gurin]"
+	description "Super Sound 128 I (1989)(Jack Davis)[h Gurin]"
+	rom ( name "Super Sound 128 I (1989)(Jack Davis)[h Gurin].trd" size 31232 crc 2216b9ea md5 a3ec5e1d48f2f84d5746d692e366b595 sha1 f3517e9b40415c9d2193122f47e9ab579fa04d99 )
+)
+
+game (
+	name "Super Sound 128 Part II (1989)(Jack Davis)[h Gurin]"
+	description "Super Sound 128 Part II (1989)(Jack Davis)[h Gurin]"
+	rom ( name "Super Sound 128 Part II (1989)(Jack Davis)[h Gurin].trd" size 34816 crc afa5cb99 md5 a3cf2689490145266de5b9636332a01d sha1 2db163fbcae879c5648c9d7179712c0c197ce02c )
+)
+
+game (
+	name "Szafran Demo (19xx)(Szafran Soft)(pl)"
+	description "Szafran Demo (19xx)(Szafran Soft)(pl)"
+	rom ( name "Szafran Demo (19xx)(Szafran Soft)(pl).trd" size 38144 crc 63c6e981 md5 ec1948b77a2d23ecfe6bb290ac4e1d75 sha1 e55356bde2c6547eaa80b46f7fe7cb37cb84d94b )
+)
+
+game (
+	name "Tam (1993)(THD - Alex Boy)[h]"
+	description "Tam (1993)(THD - Alex Boy)[h]"
+	rom ( name "Tam (1993)(THD - Alex Boy)[h].trd" size 45568 crc f9964627 md5 2023180a5f0f764517e9b7df5f4338b5 sha1 24345b51eca1677a88ce48d85aec45b0603814eb )
+)
+
+game (
+	name "Techno (19xx)(Oscar - Spilberg)"
+	description "Techno (19xx)(Oscar - Spilberg)"
+	rom ( name "Techno (19xx)(Oscar - Spilberg).trd" size 15872 crc e1ad7d2a md5 c58d465f88667820ca5ec9c6079b6ffb sha1 bfeecd51737e0a7a5ece4de25121abedd62f6857 )
+)
+
+game (
+	name "Techno 2 (1993)(Technosoft)"
+	description "Techno 2 (1993)(Technosoft)"
+	rom ( name "Techno 2 (1993)(Technosoft).trd" size 30208 crc 88b1f30f md5 98e7de98d5db89d3e803a684dc05c24c sha1 93fd79f876c083f48211af67e264cf3465ff1d23 )
+)
+
+game (
+	name "Timoty Follin 2 (19xx)(Mat - Ziutek)(pl)[h Alex Ermakov]"
+	description "Timoty Follin 2 (19xx)(Mat - Ziutek)(pl)[h Alex Ermakov]"
+	rom ( name "Timoty Follin 2 (19xx)(Mat - Ziutek)(pl)[h Alex Ermakov].trd" size 23808 crc dfec0607 md5 82660969363e6944130b83d8ffbfeb08 sha1 98a5ff2a5af4e2f6f4b0e9a73807cef3f8209942 )
+)
+
+game (
+	name "Toilet Paper 1 (1993)(Pete Novak - Alex Kiselev)(ru)"
+	description "Toilet Paper 1 (1993)(Pete Novak - Alex Kiselev)(ru)"
+	rom ( name "Toilet Paper 1 (1993)(Pete Novak - Alex Kiselev)(ru).trd" size 45568 crc 9663e160 md5 592d788d04de69565a8c59a8e82ec217 sha1 1c20154557f196c10f9eabaa327f5d335a5178c4 )
+)
+
+game (
+	name "Tonakaz Muzakez (2000)(Hackers Design Software)"
+	description "Tonakaz Muzakez (2000)(Hackers Design Software)"
+	rom ( name "Tonakaz Muzakez (2000)(Hackers Design Software).trd" size 655360 crc 1b97651a md5 9f2340121222ae6b25a1e90bcfda246f sha1 cc4d4c7c22ba664e8e6cf12bf9ecfc9d235c5676 )
+)
+
+game (
+	name "Unknown (1993)(DMT)(ru)"
+	description "Unknown (1993)(DMT)(ru)"
+	rom ( name "Unknown (1993)(DMT)(ru).trd" size 35328 crc c7438726 md5 a5cbf24d0a29b600f4caed18a85dd957 sha1 4fab4fa2b2658601e457d89a69b923eb14794753 )
+)
+
+game (
+	name "Unlimited Speccy Minidemo (19xx)(Dream Makers Software)"
+	description "Unlimited Speccy Minidemo (19xx)(Dream Makers Software)"
+	rom ( name "Unlimited Speccy Minidemo (19xx)(Dream Makers Software).trd" size 14080 crc cb4b106f md5 bd263cdb2911fc53d55a62cf092fc0c5 sha1 f7cafa4240f83acdf1964b264d70408f81e404cc )
+)
+
+game (
+	name "VooDoo (2000)(Scene)"
+	description "VooDoo (2000)(Scene)"
+	rom ( name "VooDoo (2000)(Scene).trd" size 655360 crc 7de75638 md5 ccb8ad79532712e07918ac0b7728e4ef sha1 4d318c29f991f4ee30c4d65b05c9ae7e08485cbb )
+)
+
+game (
+	name "Welcome to Amiga World (19xx)(Fanatic Stas)"
+	description "Welcome to Amiga World (19xx)(Fanatic Stas)"
+	rom ( name "Welcome to Amiga World (19xx)(Fanatic Stas).trd" size 26880 crc cae005cc md5 69cbcf546565ab4377c6d12b3dfcd52c sha1 954a64bf075d20580afdd91b31cb0d8762568b6d )
+)
+

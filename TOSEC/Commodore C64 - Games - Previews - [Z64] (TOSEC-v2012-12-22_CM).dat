@@ -1,0 +1,152 @@
+clrmamepro (
+	name "Commodore C64 - Games - Previews - [Z64]"
+	description "Commodore C64 - Games - Previews - [Z64] (TOSEC-v2012-12-22)"
+	category "Commodore C64 - Games - Previews - [Z64]"
+	version 2012-12-22
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC]"
+	description "Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC]"
+	rom ( name "1!Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC].z64" size 41848 crc e8dfaeda md5 666a967b244720bd2750a9a858ac5aee sha1 b91537a804fc66373714549960c305af3233cbf8 )
+	rom ( name "2!Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC].z64" size 40969 crc 9a79cc1c md5 f336d8f39af822ed7d1f7ae9f8129ba6 sha1 62de4598e0e4e963ec6dcc986e7806288a209e0b )
+	rom ( name "3!Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC].z64" size 37285 crc edecac89 md5 b1499d6d2caf867d2dfd82c81439167e sha1 4575afa427e896cc02739797c6abaa9fad5435d7 )
+	rom ( name "4!Crazy News - Preview (1998)(Stefan Kluge)(de)[cr DTC].z64" size 44450 crc 7cf88f8b md5 1b20ca5bf2b6d2b5fa25f02b8ff8c8d2 sha1 fc252a2ce6d6e55d52b008fd370a7e45e3c9c7a6 )
+)
+
+game (
+	name "Drugbird- Preview (19xx)(-)[cr ONS]"
+	description "Drugbird- Preview (19xx)(-)[cr ONS]"
+	rom ( name "1!Drugbird- Preview (19xx)(-)[cr ONS].z64" size 508 crc cdc94190 md5 fb31a8d6ccd892cdc7ba2af4803284cf sha1 ef54d9ae37b950e4f32d07be0afd65023a42327c )
+	rom ( name "2!Drugbird- Preview (19xx)(-)[cr ONS].z64" size 506 crc 72d92239 md5 ef4bae7508940492d5452b4f13965cab sha1 cce3457bf3438387de045937efbb29777794819a )
+	rom ( name "3!Drugbird- Preview (19xx)(-)[cr ONS].z64" size 34427 crc 76e0c17b md5 896604e68be3db940dbc2b9c691a7a28 sha1 e8247e9b71f438b293748a50bfda790c3dd71b46 )
+	rom ( name "4!Drugbird- Preview (19xx)(-)[cr ONS].z64" size 35940 crc 302423bb md5 093373f2439133e0dd37c570040fb3e8 sha1 9c70d1506d650d351cfeb2f2cbe3271284be40be )
+)
+
+game (
+	name "Ice Guys - Preview (1997)(Classical Games)[cr ONS]"
+	description "Ice Guys - Preview (1997)(Classical Games)[cr ONS]"
+	rom ( name "1!Ice Guys - Preview (1997)(Classical Games)[cr ONS].z64" size 4192 crc 8f771bd7 md5 42966f648ce115f748bcd35af05c0a49 sha1 1870fedb0513affb5dcc6f939041503a49147deb )
+	rom ( name "2!Ice Guys - Preview (1997)(Classical Games)[cr ONS].z64" size 37942 crc 924871a5 md5 76fbf40847d88b3409eaabbe49c72f5d sha1 129d693ee0efc347f7112ac99721a4488a75260a )
+	rom ( name "3!Ice Guys - Preview (1997)(Classical Games)[cr ONS].z64" size 36919 crc b81356ad md5 33a9043eed895081498be224118cde22 sha1 d2972712d417156c787ea54b06b66c590f41c567 )
+	rom ( name "4!Ice Guys - Preview (1997)(Classical Games)[cr ONS].z64" size 8757 crc 4626c15b md5 adfaf083373dde5e6189bd5497b8438e sha1 d915989ecd1a2dfaf795df509c1b058de597f4d3 )
+)
+
+game (
+	name "Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR]"
+	description "Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR]"
+	rom ( name "1!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR].z64" size 37381 crc a9725986 md5 b163d63821bd3782ceeb1f1b10b2b652 sha1 ead5ca1c7d52250e4263fb200c8f4fc81c1576f3 )
+	rom ( name "2!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR].z64" size 34291 crc 09d47234 md5 36cc31b772deb2791e69e0118cc2ec09 sha1 9e238b8c53098b7d5cd87d68076460bc879e9730 )
+	rom ( name "3!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR].z64" size 32006 crc b66f2ef5 md5 117e07faf6960220a749fbfbc443e73b sha1 2abdc906646ed70fddff466a3185a96e5746b260 )
+	rom ( name "4!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side A)[cr LXT - DOR].z64" size 35187 crc bac9e146 md5 569f4a4df20f5ac2d33d44a38384caca sha1 ece1c488942cef4a5d9a02dff3c0c4ac83c0f895 )
+)
+
+game (
+	name "Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR]"
+	description "Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR]"
+	rom ( name "1!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR].z64" size 25943 crc f5cd6cee md5 e9637cf366503476d596c457590327f9 sha1 70f0a8be153c110d3c981dd94c178bc3978e586a )
+	rom ( name "2!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR].z64" size 26306 crc f8d44048 md5 75d01a6294a37c274f7b5ca0eb2aaf44 sha1 69e04079681f0610b684c81c6cb29febb47b023d )
+	rom ( name "3!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR].z64" size 29451 crc b2c79841 md5 51b026d7ddfdd2264edfcc0715871a99 sha1 012eba8501f71ecd1c3a8c02ff112779a94bef9c )
+	rom ( name "4!Imperium Romanum 2 - Preview (19xx)(-)(de)(Side B)[cr LXT - DOR].z64" size 20147 crc 77ed8dc3 md5 f1e649c823f0a55283f195097ad06ea3 sha1 1ed530ef4c2e6f76fb2d4a50384711690d403382 )
+)
+
+game (
+	name "Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC]"
+	description "Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC]"
+	rom ( name "1!Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC].z64" size 33664 crc ae7fdd4b md5 de4f49b641aeac62c56928c0256a5d7d sha1 d88c021ab12ff9b289c9295e1b135a8191a1105d )
+	rom ( name "2!Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC].z64" size 17408 crc 224d47e8 md5 36cc266394763fc1c6b45ff873c4e151 sha1 6bd3a249347539b1047226a039a2f117aaada76f )
+	rom ( name "3!Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC].z64" size 30336 crc 0f61d0e5 md5 2b332c6f6eb1318f1d94d48ea19500ca sha1 d1b45632860f5a40ea07d8b68841613f406a5ecf )
+	rom ( name "4!Jim Slim in Dragonland - Preview (1994)(Argus Press)[cr F4CG - NBC].z64" size 8704 crc 49b56160 md5 8b86eb6cb9503cc5f27aa147a4dd1c23 sha1 f9c4311f2f1e8f1718e25fc4b318521488f205bb )
+)
+
+game (
+	name "Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS]"
+	description "Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS]"
+	rom ( name "1!Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS].z64" size 43348 crc 7edf0adf md5 844937cae515c4253dd22a199e6eff99 sha1 6e8762dd431675d858ebb3395dd9a9bf0e170804 )
+	rom ( name "2!Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS].z64" size 43346 crc 724817ff md5 494a0014589d634b2244e8a58bbcf576 sha1 66f9a15bea5a8fa79465ed1fbb96e85d94512cd7 )
+	rom ( name "3!Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS].z64" size 31558 crc bb77f027 md5 52826aa63e513eada9e624695d1468c9 sha1 6ed8de35389c982e5119a8ea0dd348f01e031b86 )
+	rom ( name "4!Leo Feuerstein in The Secret of Maniac Island - Preview (1996)(Out of Order Softworks)(de)[cr ONS].z64" size 44902 crc 71f2783b md5 6d3b6b1008e6c5eae7ae09c99cdf44ff sha1 beb364b5d98b5c3b81181803ab4a8a9cb13f40f4 )
+)
+
+game (
+	name "Mood - Preview (1996)(NoName)"
+	description "Mood - Preview (1996)(NoName)"
+	rom ( name "1!Mood - Preview (1996)(NoName).z64" size 8924 crc d3295b46 md5 e61c8b08d5411b666ac635c55321b1b6 sha1 585dd4df3913b42516ea6c9d7f2054addcf8a3d2 )
+	rom ( name "2!Mood - Preview (1996)(NoName).z64" size 43222 crc 0f12b0e8 md5 2f2dded1d7d781951ae7b1b53e7f2024 sha1 fa1d25190234b4fa1a4e40c55e8c5eed49aa4032 )
+	rom ( name "3!Mood - Preview (1996)(NoName).z64" size 40090 crc 671d6fc3 md5 ffa74a4e5c5f439dc16b6110e086b4fd sha1 0886afc5e7da49a245d8b69b57f91eb49378a7bb )
+	rom ( name "4!Mood - Preview (1996)(NoName).z64" size 10541 crc 7b4a3f5f md5 5f97a04afab464f6ae5aeddb362485f3 sha1 b625373df314af70d7061467c6853585f742a232 )
+)
+
+game (
+	name "Nether (1996)(Computer Workshops)[cr FLT]"
+	description "Nether (1996)(Computer Workshops)[cr FLT]"
+	rom ( name "1!Nether (1996)(Computer Workshop)[cr FLT].z64" size 43208 crc 483121c0 md5 0463bf12517bdd2986972effbd7444bf sha1 b2e00713afd677e9c9e5c3d59cca3941271a4b4e )
+	rom ( name "2!Nether (1996)(Computer Workshop)[cr FLT].z64" size 28662 crc 785ae148 md5 c011ae439b501da55f124e48319c2964 sha1 d5339aa1dd07ebf1a4876685894da3ca70b71fa9 )
+	rom ( name "3!Nether (1996)(Computer Workshop)[cr FLT].z64" size 36902 crc e428eedb md5 c02ea9aad772100de39b6b443c375016 sha1 d9321f309cc1808c02fe0a168af4618f8b3cd9a2 )
+	rom ( name "4!Nether (1996)(Computer Workshop)[cr FLT].z64" size 19121 crc dd6808ad md5 b683e8e603240d4088c1f6aa9184cd07 sha1 f5c4355b9fe0e7c1d2912c5800804af08b291db6 )
+)
+
+game (
+	name "Nether - Preview (1996)(Computer Workshops)[cr CHR]"
+	description "Nether - Preview (1996)(Computer Workshops)[cr CHR]"
+	rom ( name "1!Nether - Preview (1996)(Computer Workshops)[cr CHR].z64" size 8962 crc 97f21ee4 md5 b72fcfa1cc07cf5425107b9ef2869131 sha1 b66aa9358f80378539805a348da8a99ae25d8990 )
+	rom ( name "2!Nether - Preview (1996)(Computer Workshops)[cr CHR].z64" size 36513 crc da3902a4 md5 f51a290aa5fdcbb25619f7479face9ba sha1 52ad789203727e312e58439d1f0e8c455845305f )
+	rom ( name "3!Nether - Preview (1996)(Computer Workshops)[cr CHR].z64" size 39827 crc 5e49ad1a md5 e08a1bf6b807d8f224b40d378be3d0a5 sha1 22f87e70272bb19c1d266f522c588291aa9234b2 )
+	rom ( name "4!Nether - Preview (1996)(Computer Workshops)[cr CHR].z64" size 12216 crc 4ced348a md5 7bd5c2b789156788cd6da7e6aaabc068 sha1 06be40e2a5d4555990874a1c431ad72c19e6e540 )
+)
+
+game (
+	name "Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT]"
+	description "Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT]"
+	rom ( name "1!Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT].z64" size 2816 crc 34a87fea md5 c1cef3539dbb7567876a40e09a0a17df sha1 c30ff5f8bdb915a6d6585021006edcae75732265 )
+	rom ( name "2!Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT].z64" size 43330 crc 141141fa md5 a2b9cccfbc706a0b93cebc71d6a48582 sha1 b0d9f528ee99ca8854d5cf30225ccc77273deb7a )
+	rom ( name "3!Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT].z64" size 39982 crc 79d6de9b md5 5d238c60a26194004ad81dd80dbfa5a0 sha1 9d9f19b17875738ea42e4b9df9f9502c6d2aef07 )
+	rom ( name "4!Pinz and their untouchable World, The - Preview (19xx)(-)[cr F4CG+AVT].z64" size 9604 crc 68e6935c md5 775af77b51a5d6887bc70af6745f23b1 sha1 24297fe7d0a41883e525afaab53c63ddc15f5d9f )
+)
+
+game (
+	name "Rigor - Preview (199x)(Nipson)[b]"
+	description "Rigor - Preview (199x)(Nipson)[b]"
+	rom ( name "1!Rigor - Preview (199x)(Nipson)[b].z64" size 43348 crc 0ef2400c md5 25445d5e98260ab701b093f639043cc7 sha1 af071082e5febe5ca19d27229939d0147ed1e664 )
+	rom ( name "2!Rigor - Preview (199x)(Nipson)[b].z64" size 43346 crc 3154d2a6 md5 21937294ca85d610313e319cb4a0533f sha1 02247dbead8ac06f95ae49eaef6a5a263742f851 )
+	rom ( name "3!Rigor - Preview (199x)(Nipson)[b].z64" size 40723 crc ba7019af md5 8a391f917019ca36cc7b6cc907fa552e sha1 eb365b21bd4b950ee991d4527551c3309001dfbc )
+	rom ( name "4!Rigor - Preview (199x)(Nipson)[b].z64" size 28058 crc bd2bb9d6 md5 09dfac33bad56e2e09152fc5962b25f0 sha1 539564c7f73dc9dedcfb67726660cf37d2663f25 )
+)
+
+game (
+	name "Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress]"
+	description "Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress]"
+	rom ( name "1!Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress].z64" size 32437 crc f4456d10 md5 af6920b0a78567eefe5d023a43570bd5 sha1 e7f0f1b50a2fdc172c380d5df1e1faed8f75b87a )
+	rom ( name "2!Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress].z64" size 36509 crc cbe51fe8 md5 c1b985850588e66fa38f62dafebad88d sha1 ecdfa50512b9eb9621493b9763e3babe51c3ffbd )
+	rom ( name "3!Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress].z64" size 40025 crc 7b19cdf2 md5 85b336819ac7e2869c71fb1cb11768f8 sha1 266cb65a1ac12386abe665f306bdd77bc97a8c93 )
+	rom ( name "4!Trainer - Preview (1988)(Andreas Koch)(de)[cr Fortress].z64" size 34408 crc e330a8b7 md5 de04a652fc348578ad53d43ab28882d7 sha1 87302b61372e08d0b96257060aa7abd3a75fed05 )
+)
+
+game (
+	name "Utopia - Preview (1997)(Hiram Kumper)(Side A)[cr Civitas - Willow][h Legend]"
+	description "Utopia - Preview (1997)(Hiram Kumper)(Side A)[cr Civitas - Willow][h Legend]"
+	rom ( name "1!ut_1.z64" size 23074 crc 61906d02 md5 6f27f5e844165479d3b834855ce655c7 sha1 fcf006e96f7824009e4b9e0d88e0277d869a0aea )
+	rom ( name "2!ut_1.z64" size 37295 crc 0a8a5fe0 md5 d4da470b6c138e8e566c361138874215 sha1 4c22a8a18137fcb4230cb8e3b1c71205043142e0 )
+	rom ( name "3!ut_1.z64" size 23319 crc 0afcefbe md5 9233d69ccac78075f2b4ca046313e708 sha1 780ea455752a55a733e57c033edb907295495258 )
+	rom ( name "4!ut_1.z64" size 34641 crc 60e59b3d md5 44bad11c01e79d3182157a71091c5d89 sha1 80f4b994bd9e48bcb1a5dbfe5f9cba37b84b8478 )
+)
+
+game (
+	name "Utopia - Preview (1997)(Hiram Kumper)(Side B)"
+	description "Utopia - Preview (1997)(Hiram Kumper)(Side B)"
+	rom ( name "1!Utopia - Preview (1997)(Hiram Kumper)(Side B).z64" size 32571 crc 02bfadb2 md5 c77f11fed83e46ec8215b0b5f4dfdbb9 sha1 a8691d9109d1f4b752976267201e81a997708ceb )
+	rom ( name "2!Utopia - Preview (1997)(Hiram Kumper)(Side B).z64" size 39474 crc 30b18d39 md5 0b2695d71d39b8bc75f34e12b722d944 sha1 e9846c183912663f9bf3395d02422a386621942c )
+	rom ( name "3!Utopia - Preview (1997)(Hiram Kumper)(Side B).z64" size 39352 crc 6e77505b md5 f13c583dc1e1aee4d144f6b103926fab sha1 201320a7799d02dfe8a264e2dc5ad41297f9fc6b )
+	rom ( name "4!Utopia - Preview (1997)(Hiram Kumper)(Side B).z64" size 44649 crc 6a84d5f8 md5 035c7c35f530d36795e0293c424dbf63 sha1 9bfa285e721a3ee8fab8451d5f3107d0fd1a58c9 )
+)
+
+game (
+	name "Utopia - Preview (1997)(Hiram Kumper)(Side B)[cr Civitas - Willow][h Legend]"
+	description "Utopia - Preview (1997)(Hiram Kumper)(Side B)[cr Civitas - Willow][h Legend]"
+	rom ( name "1!ut_2.z64" size 42927 crc f3a9e0ab md5 1c73411cbe9c61d21429c31335b25c78 sha1 ec5919175c9943ba414d93cbb506ed366263d3f7 )
+	rom ( name "2!ut_2.z64" size 42230 crc 72ec7ced md5 4cc57a576882368aa95c6ba5dc305782 sha1 30204880e5c304c7ec30747d686c412498358102 )
+	rom ( name "3!ut_2.z64" size 36715 crc 702960eb md5 bf3fb0a5c2bc90d9bc199f6915b39a8e sha1 34c7693b236fb96787c87cd14e1507b1e48db35b )
+	rom ( name "4!ut_2.z64" size 39975 crc 73690565 md5 83ad1090f40de891348a142bb60fc559 sha1 73d561a163c1d4f9f5c830d2873730c1042dd85b )
+)
+

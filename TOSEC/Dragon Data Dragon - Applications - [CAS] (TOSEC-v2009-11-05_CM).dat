@@ -1,0 +1,356 @@
+clrmamepro (
+	name "Dragon Data Dragon - Applications - [CAS]"
+	description "Dragon Data Dragon - Applications - [CAS] (TOSEC-v2009-11-05)"
+	category "Dragon Data Dragon - Applications - [CAS]"
+	version 2009-11-05
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "6809 Editor Assembler (1983)(Kerry, M.J.)"
+	description "6809 Editor Assembler (1983)(Kerry, M.J.)"
+	rom ( name "6809 Editor Assembler (1983)(Kerry, M.J.).cas" size 9381 crc 4b8a7a74 md5 043c15b560d23146962f2937d1302498 )
+)
+
+game (
+	name "6809 Editor Assembler (1983)(Kerry, M.J.)[a]"
+	description "6809 Editor Assembler (1983)(Kerry, M.J.)[a]"
+	rom ( name "6809 Editor Assembler (1983)(Kerry, M.J.)[a].cas" size 8265 crc b2b30c3f md5 3580bfee0075318a844b163abbf7a7c6 )
+)
+
+game (
+	name "6809 Express (198x)(-)"
+	description "6809 Express (198x)(-)"
+	rom ( name "6809 Express (198x)(-).cas" size 27273 crc 9eb144c9 md5 649c7bdb1aaff8a39a504047881a92ba )
+)
+
+game (
+	name "Adventure Writer (1984)(Twom Software)"
+	description "Adventure Writer (1984)(Twom Software)"
+	rom ( name "Adventure Writer (1984)(Twom Software).cas" size 41036 crc def44582 md5 1f530003f943ccc39291ff81026d9fe7 )
+)
+
+game (
+	name "Adventure Writer - Extended (1986)(Cowen Software)"
+	description "Adventure Writer - Extended (1986)(Cowen Software)"
+	rom ( name "Adventure Writer - Extended (1986)(Cowen Software).cas" size 12267 crc 7cee0d37 md5 e9a9668a1cad921de46fdc90e63ddaf5 )
+)
+
+game (
+	name "Anagram Solver (198x)(-)"
+	description "Anagram Solver (198x)(-)"
+	rom ( name "Anagram Solver (198x)(-).cas" size 2388 crc 6aa07470 md5 e35adb414fcfcaa43bedd411ae97ebea )
+)
+
+game (
+	name "Cassette Insert Card Designer (198x)(Beed, P.J.)"
+	description "Cassette Insert Card Designer (198x)(Beed, P.J.)"
+	rom ( name "Cassette Insert Card Designer (198x)(Beed, P.J.).cas" size 11613 crc 43aade07 md5 19ae89007a2854928900d8050e9a4354 )
+)
+
+game (
+	name "Computavoice (1982)(Dragon Data)"
+	description "Computavoice (1982)(Dragon Data)"
+	rom ( name "Computavoice (1982)(Dragon Data).cas" size 9251 crc 5fb27aec md5 a19c9eee21bd1c8492defa2514999fef )
+)
+
+game (
+	name "Copier (1984)(Microstar)"
+	description "Copier (1984)(Microstar)"
+	rom ( name "Copier (1984)(Microstar).cas" size 2917 crc 7dad8c12 md5 ca4f527752d5ad5580671f6d89f645cc )
+)
+
+game (
+	name "Database (198x)(-)"
+	description "Database (198x)(-)"
+	rom ( name "Database (198x)(-).cas" size 7941 crc 386eeec6 md5 ac877430744aa9d1492c9d3957a63df4 )
+)
+
+game (
+	name "Database (198x)(-)[a]"
+	description "Database (198x)(-)[a]"
+	rom ( name "Database (198x)(-)[a].cas" size 37849 crc 80a1a2b0 md5 c7121643485d19401f32b1b74c2bc22a )
+)
+
+game (
+	name "Datafall (1984)(Pocket Money Software)"
+	description "Datafall (1984)(Pocket Money Software)"
+	rom ( name "Datafall (1984)(Pocket Money Software).cas" size 13293 crc 53653368 md5 21937dbd09ea76fedb03901cc9e02119 )
+)
+
+game (
+	name "Datapen (198x)(Microtechnology)"
+	description "Datapen (198x)(Microtechnology)"
+	rom ( name "Datapen (198x)(Microtechnology).cas" size 14553 crc 047a8cc9 md5 0d53f8690452f7ae2bfba0834effb0a4 )
+)
+
+game (
+	name "Dataplan (1982)(Personal Software Services)"
+	description "Dataplan (1982)(Personal Software Services)"
+	rom ( name "Dataplan (1982)(Personal Software Services).cas" size 6299 crc be6951c5 md5 3a8ef8995c164c5a2e16ef2201aebf55 )
+)
+
+game (
+	name "Delta Utility - Disk 2 Tape (199x)(Bussell, J.C.)"
+	description "Delta Utility - Disk 2 Tape (199x)(Bussell, J.C.)"
+	rom ( name "Delta Utility - Disk 2 Tape (199x)(Bussell, J.C.).cas" size 963 crc 58b878ba md5 68915e3e6579be1a0497ba1c51abfacd )
+)
+
+game (
+	name "Delta Utility - File Address (199x)(Bussell, J.C.)"
+	description "Delta Utility - File Address (199x)(Bussell, J.C.)"
+	rom ( name "Delta Utility - File Address (199x)(Bussell, J.C.).cas" size 4525 crc 23364106 md5 8e8a4f7aff9b4d4685c19ad248b01d87 )
+)
+
+game (
+	name "Dragon Composer (1983)(Microdeal)"
+	description "Dragon Composer (1983)(Microdeal)"
+	rom ( name "Dragon Composer (1983)(Microdeal).cas" size 18318 crc 27ceaad2 md5 5d183820304f5909a0da1bd665e3dc20 )
+)
+
+game (
+	name "Dragon Selfrun (1985)(Coleman, K.)"
+	description "Dragon Selfrun (1985)(Coleman, K.)"
+	rom ( name "Dragon Selfrun (1985)(Coleman, K.).cas" size 2470 crc 5cad6cb7 md5 b0b70d84f47c0e769ae7a2d315642712 )
+)
+
+game (
+	name "Duplicas v3.0 (198x)(Quickbeam)"
+	description "Duplicas v3.0 (198x)(Quickbeam)"
+	rom ( name "Duplicas v3.0 (198x)(Quickbeam).cas" size 1091 crc 4fe6e3d1 md5 0ca55c3da1550fa46fc5561a5d7a07b0 )
+)
+
+game (
+	name "Duplicas v5.0 (198x)(Quickbeam)"
+	description "Duplicas v5.0 (198x)(Quickbeam)"
+	rom ( name "Duplicas v5.0 (198x)(Quickbeam).cas" size 2396 crc 7bdd5276 md5 84b44ff44080bb4264aa2828cff33fed )
+)
+
+game (
+	name "Duplidisk v1.0 (1986)(Quickbeam)"
+	description "Duplidisk v1.0 (1986)(Quickbeam)"
+	rom ( name "Duplidisk v1.0 (1986)(Quickbeam).cas" size 5383 crc 6e20c4a9 md5 0562fe7637abe1c6c7b49d5e4ffd60ce )
+)
+
+game (
+	name "Editor Assembler Monitor Disassembler (1983)(J. Morrison Micros)"
+	description "Editor Assembler Monitor Disassembler (1983)(J. Morrison Micros)"
+	rom ( name "Editor Assembler Monitor Disassembler (1983)(J. Morrison Micros).cas" size 8399 crc 6afaccf6 md5 eab978115ed4b73b7d36d383b7005075 )
+)
+
+game (
+	name "Electronic Author (1985)(Smithson Computing)"
+	description "Electronic Author (1985)(Smithson Computing)"
+	rom ( name "Electronic Author (1985)(Smithson Computing).cas" size 15370 crc bb16325d md5 e191adccd5c63bd15d30100f175917fc )
+)
+
+game (
+	name "Enhanced Character Interpreter (1997)(Jaap, Matthias)"
+	description "Enhanced Character Interpreter (1997)(Jaap, Matthias)"
+	rom ( name "Enhanced Character Interpreter (1997)(Jaap, Matthias).cas" size 1976 crc f9a650b0 md5 89a190916645171812caaa1648542432 )
+)
+
+game (
+	name "Face Maker (1983)(Applied Systems Knowledge)"
+	description "Face Maker (1983)(Applied Systems Knowledge)"
+	rom ( name "Face Maker (1983)(Applied Systems Knowledge).cas" size 27254 crc b5d96496 md5 9471a631a782af0f3f5938e6591d5e10 )
+)
+
+game (
+	name "Family Accounts (198x)(Dragon Data)"
+	description "Family Accounts (198x)(Dragon Data)"
+	rom ( name "Family Accounts (198x)(Dragon Data).cas" size 5106 crc 46e82d18 md5 0411d29c306c230f8f0c3250194db940 )
+)
+
+game (
+	name "Family Address (198x)(Dragon Data)"
+	description "Family Address (198x)(Dragon Data)"
+	rom ( name "Family Address (198x)(Dragon Data).cas" size 4216 crc eaec37d5 md5 1be6a068dfb047f605474c19333717ce )
+)
+
+game (
+	name "Family Banker (198x)(Dragon Data)"
+	description "Family Banker (198x)(Dragon Data)"
+	rom ( name "Family Banker (198x)(Dragon Data).cas" size 7085 crc b82e82b7 md5 2836f25f3594cbd8d1596cd490849fc2 )
+)
+
+game (
+	name "Family Budget (198x)(Dragon Data)"
+	description "Family Budget (198x)(Dragon Data)"
+	rom ( name "Family Budget (198x)(Dragon Data).cas" size 21288 crc dfc0be55 md5 847d5a25fd89804fd3e74c53270a24b8 )
+)
+
+game (
+	name "File Master (1983)(Microdeal)"
+	description "File Master (1983)(Microdeal)"
+	rom ( name "File Master (1983)(Microdeal).cas" size 9686 crc cb485ccb md5 3aeae13f7166889a78f6089d484744b0 )
+)
+
+game (
+	name "Graphic Animator (1982)(Spectral Associates)"
+	description "Graphic Animator (1982)(Spectral Associates)"
+	rom ( name "Graphic Animator (1982)(Spectral Associates).cas" size 5404 crc bc0f82be md5 8406e12907b9db7ee4065b6eb6314647 )
+)
+
+game (
+	name "Graphics System (1983)(Salamander Software)"
+	description "Graphics System (1983)(Salamander Software)"
+	rom ( name "Graphics System (1983)(Salamander Software).cas" size 9804 crc ba712db1 md5 ffa2bd8780133cf5d41ba0c208031ed4 )
+)
+
+game (
+	name "Inlay Card Printer v3.0 (198x)(Burgin, Paul)"
+	description "Inlay Card Printer v3.0 (198x)(Burgin, Paul)"
+	rom ( name "Inlay Card Printer v3.0 (198x)(Burgin, Paul).cas" size 9151 crc 3674729c md5 957ac5b6452d6f16cf86e15c0e4221bd )
+)
+
+game (
+	name "Invoices and Statements - Editor (1982)(MST Consultants)"
+	description "Invoices and Statements - Editor (1982)(MST Consultants)"
+	rom ( name "Invoices and Statements - Editor (1982)(MST Consultants).cas" size 2799 crc f8f47d34 md5 457aeffee020584201a2157e13f3bfa1 )
+)
+
+game (
+	name "Invoices and Statements - Viewer (1982)(MST Consultants)"
+	description "Invoices and Statements - Viewer (1982)(MST Consultants)"
+	rom ( name "Invoices and Statements - Viewer (1982)(MST Consultants).cas" size 8432 crc 0454422a md5 16e1d1a8c3d79b9232e860558d40af61 )
+)
+
+game (
+	name "Joystick Test (198x)(-)"
+	description "Joystick Test (198x)(-)"
+	rom ( name "Joystick Test (198x)(-).cas" size 1425 crc 4a07bd7f md5 ad0418fc684bddbd7d57d3402a356af2 )
+)
+
+game (
+	name "Load It v1.0 (198x)(KH)"
+	description "Load It v1.0 (198x)(KH)"
+	rom ( name "Load It v1.0 (198x)(KH).cas" size 1981 crc 89139d61 md5 446fe36c9174acb4b05a8d97c38d5762 )
+)
+
+game (
+	name "Medicalc Spreadsheet (1984)(Powis, Kevin)"
+	description "Medicalc Spreadsheet (1984)(Powis, Kevin)"
+	rom ( name "Medicalc Spreadsheet (1984)(Powis, Kevin).cas" size 20770 crc c4ba6365 md5 0f6642098f3dca7b345350ec314dee73 )
+)
+
+game (
+	name "Music Maker (1986)(Makin, David)"
+	description "Music Maker (1986)(Makin, David)"
+	rom ( name "Music Maker (1986)(Makin, David).cas" size 45029 crc f02148bf md5 815ec5dca223e6a8746280a647a9f7a5 )
+)
+
+game (
+	name "New Copy (199x)(Mills, Stuart)"
+	description "New Copy (199x)(Mills, Stuart)"
+	rom ( name "New Copy (199x)(Mills, Stuart).cas" size 761 crc 623276af md5 cdad2707d815c279ae02afc2e265dced )
+)
+
+game (
+	name "Picture Maker (1987)(Makin, David)"
+	description "Picture Maker (1987)(Makin, David)"
+	rom ( name "Picture Maker (1987)(Makin, David).cas" size 36065 crc 7537c914 md5 28d2793cd7253e33295274bad08ed002 )
+)
+
+game (
+	name "Pixel Editor (1983)(Applied Systems Knowledge)"
+	description "Pixel Editor (1983)(Applied Systems Knowledge)"
+	rom ( name "Pixel Editor (1983)(Applied Systems Knowledge).cas" size 27383 crc 3c643777 md5 5d81e20da0f59b5952f208921b22fc30 )
+)
+
+game (
+	name "Pixel Writer (1987)(Pamcomms)"
+	description "Pixel Writer (1987)(Pamcomms)"
+	rom ( name "Pixel Writer (1987)(Pamcomms).cas" size 25762 crc f441c8b4 md5 9474275656f205ecaac406d5cc496b4a )
+)
+
+game (
+	name "Pixel Writer (demo) (1987)(Pamcomms)"
+	description "Pixel Writer (demo) (1987)(Pamcomms)"
+	rom ( name "Pixel Writer (demo) (1987)(Pamcomms).cas" size 41282 crc 5eb2fcb9 md5 d4fb79dd77e9ffb4725deff8b25efa61 )
+)
+
+game (
+	name "Printer Prompt v2.6 (1986)(Dragonfire)"
+	description "Printer Prompt v2.6 (1986)(Dragonfire)"
+	rom ( name "Printer Prompt v2.6 (1986)(Dragonfire).cas" size 13597 crc 30d6a46c md5 aee9e816802cafb01774c8306bbf44bc )
+)
+
+game (
+	name "Rainbow Writer v1.3 (1983)(Rainbow)"
+	description "Rainbow Writer v1.3 (1983)(Rainbow)"
+	rom ( name "Rainbow Writer v1.3 (1983)(Rainbow).cas" size 8634 crc 4b70ae14 md5 9334d022d6fb7535afe881989e7a198f )
+)
+
+game (
+	name "Script (1988)(Dragonfire)"
+	description "Script (1988)(Dragonfire)"
+	rom ( name "Script (1988)(Dragonfire).cas" size 4390 crc f36cc9ca md5 5e447f8da82b44197b8679ad0d156141 )
+)
+
+game (
+	name "Seikosha Screen Dumper (1987)(Dragonfire)"
+	description "Seikosha Screen Dumper (1987)(Dragonfire)"
+	rom ( name "Seikosha Screen Dumper (1987)(Dragonfire).cas" size 6055 crc 5fe37d46 md5 520f137df823d7453a40540d2ef7fef5 )
+)
+
+game (
+	name "Spreadsheet Program (198x)(-)"
+	description "Spreadsheet Program (198x)(-)"
+	rom ( name "Spreadsheet Program (198x)(-).cas" size 6771 crc d50db6d1 md5 2854147078e942157b02a7f6c956342f )
+)
+
+game (
+	name "Sprite Magic v2.1 (1984)(Knight Software)"
+	description "Sprite Magic v2.1 (1984)(Knight Software)"
+	rom ( name "Sprite Magic v2.1 (1984)(Knight Software).cas" size 18564 crc 67c2668b md5 d09f29c37e4d2e8c8db2290fe96cedeb )
+)
+
+game (
+	name "Tape 2 Disk Transfer (1987)(Broomsoft)"
+	description "Tape 2 Disk Transfer (1987)(Broomsoft)"
+	rom ( name "Tape 2 Disk Transfer (1987)(Broomsoft).cas" size 19047 crc 9516da44 md5 5f499422c39b05414e7f3a0ec646a3ef )
+)
+
+game (
+	name "Tape Copy (1982)(Tom Mix Software)"
+	description "Tape Copy (1982)(Tom Mix Software)"
+	rom ( name "Tape Copy (1982)(Tom Mix Software).cas" size 568 crc f22d189a md5 d8ce2875c9c13a9d1c258cf824e9b003 )
+)
+
+game (
+	name "Tele Forth (1982)(Armadillo Software)"
+	description "Tele Forth (1982)(Armadillo Software)"
+	rom ( name "Tele Forth (1982)(Armadillo Software).cas" size 8198 crc e68f4a1b md5 c84aa3a566dfc9c0f0ac49722e20f0c9 )
+)
+
+game (
+	name "Tele Mod - Tele Forth Addon (1984)(Microdeal)"
+	description "Tele Mod - Tele Forth Addon (1984)(Microdeal)"
+	rom ( name "Tele Mod - Tele Forth Addon (1984)(Microdeal).cas" size 1678 crc 15d7f0d6 md5 ed7759d73293bd2bd292660f6c5083ae )
+)
+
+game (
+	name "Telewriter (1981)(Cognitec)"
+	description "Telewriter (1981)(Cognitec)"
+	rom ( name "Telewriter (1981)(Cognitec).cas" size 36571 crc f5552c30 md5 f35fc1fa2ab0ce330dd73a230394f2b0 )
+)
+
+game (
+	name "Textstar (1982)(Personal Software Services)"
+	description "Textstar (1982)(Personal Software Services)"
+	rom ( name "Textstar (1982)(Personal Software Services).cas" size 6313 crc beef5ae7 md5 42b9f2a8abc606c484181e037305e84b )
+)
+
+game (
+	name "Trojan Light Pen (1983)(Trojan)"
+	description "Trojan Light Pen (1983)(Trojan)"
+	rom ( name "Trojan Light Pen (1983)(Trojan).cas" size 15396 crc 07bb6d3c md5 1667b16fd9ace1da679169c8bec5de88 )
+)
+
+game (
+	name "Variable List (1987)(Orchard, S.)(PD)"
+	description "Variable List (1987)(Orchard, S.)(PD)"
+	rom ( name "Variable List (1987)(Orchard, S.)(PD).cas" size 1144 crc a2fefb06 md5 39e414d6dfd1cfd26553dd78d0fa22c6 )
+)
+

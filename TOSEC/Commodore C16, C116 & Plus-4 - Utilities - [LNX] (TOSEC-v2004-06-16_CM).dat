@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Utilities - [LNX]"
+	description "Commodore C16, C116 & Plus-4 - Utilities - [LNX] (TOSEC-v2004-06-16)"
+	category "Commodore C16, C116 & Plus-4 - Utilities - [LNX]"
+	version 2004-06-16
+	author "DesertWolf"
+)
+
+game (
+	name "Char Gen v3.5.1 (19xx)(-)(FW)"
+	description "Char Gen v3.5.1 (19xx)(-)(FW)"
+	rom ( name "Char Gen v3.5.1 (19xx)(-)(FW).lnx" size 90441 crc 01545ec2 md5 32cf943566dc09eb6df87a2848b82681 )
+)

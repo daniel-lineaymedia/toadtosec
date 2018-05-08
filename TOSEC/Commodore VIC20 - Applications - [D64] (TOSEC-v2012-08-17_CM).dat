@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Commodore VIC20 - Applications - [D64]"
+	description "Commodore VIC20 - Applications - [D64] (TOSEC-v2012-08-17)"
+	category "Commodore VIC20 - Applications - [D64]"
+	version 2012-08-17
+	author "Vicman"
+)
+
+game (
+	name "Dr. Watson Computer Learning Series Beginners Assembly Language Programming (1982)(Holmes, P.)(GB)"
+	description "Dr. Watson Computer Learning Series Beginners Assembly Language Programming (1982)(Holmes, P.)(GB)"
+	rom ( name "Dr. Watson Computer Learning Series Beginners Assembly Language Programming (1982)(Holmes, P.)(GB).d64" size 174848 crc aeda45ae md5 b513333c5e1dfe5a443a15820a029471 sha1 c4a0bc20d400cd80c664a6daf252957267395bb6 )
+)
+

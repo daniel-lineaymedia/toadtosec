@@ -1,0 +1,127 @@
+clrmamepro (
+	name "Enterprise 64 & 128 - Firmware"
+	description "Enterprise 64 & 128 - Firmware (TOSEC-v2006-05-05)"
+	category "Enterprise 64 & 128 - Firmware"
+	version 2006-05-05
+	author "Cid - Eldio - Cassiel"
+)
+
+game (
+	name "BASIC 1.0 - EPROM 1-2 (198x)(Enterprise)"
+	description "BASIC 1.0 - EPROM 1-2 (198x)(Enterprise)"
+	rom ( name "BASIC 1.0 - EPROM 1-2 (198x)(Enterprise).bin" size 8193 crc 37bf48e1 md5 4379a91ff2d02096ad31a2dde6285cd3 )
+)
+
+game (
+	name "BASIC 1.0 - EPROM 2-2 (198x)(Enterprise)"
+	description "BASIC 1.0 - EPROM 2-2 (198x)(Enterprise)"
+	rom ( name "BASIC 1.0 - EPROM 2-2 (198x)(Enterprise).bin" size 8193 crc c5298c79 md5 eaa21cf569e494ef4ed5cab71b781209 )
+)
+
+game (
+	name "BASIC 1.1 - EPROM 1.1 (198x)(Enterprise)"
+	description "BASIC 1.1 - EPROM 1.1 (198x)(Enterprise)"
+	rom ( name "BASIC 1.1 - EPROM 1.1 (198x)(Enterprise).bin" size 16385 crc c96b7602 md5 fbfb53de61b3f53d9dde804833fc8087 )
+)
+
+game (
+	name "BASIC Interpreter v2.1 (1985)(Intelligent Software)"
+	description "BASIC Interpreter v2.1 (1985)(Intelligent Software)"
+	rom ( name "BASIC Interpreter v2.1 (1985)(Intelligent Software).bin" size 16384 crc 55f96251 md5 e972fe42b398c9ff1d93ff014786aec6 )
+)
+
+game (
+	name "BASIC Interpreter v2.1 (1985)(Intelligent Software)[a]"
+	description "BASIC Interpreter v2.1 (1985)(Intelligent Software)[a]"
+	rom ( name "BASIC Interpreter v2.1 (1985)(Intelligent Software)[a].bin" size 16384 crc 683cf455 md5 7cd7268b9e4a4357fe401021df0335b5 )
+)
+
+game (
+	name "Disk Controller v1.3 (1985)(Intelligent Software)"
+	description "Disk Controller v1.3 (1985)(Intelligent Software)"
+	rom ( name "Disk Controller v1.3 (1985)(Intelligent Software).bin" size 32768 crc d1d7e157 md5 47258d03aec37bc24df5dbc5d50fc9f8 )
+)
+
+game (
+	name "EPDOS v1.7 (19xx)(Haluska, Laszlo)"
+	description "EPDOS v1.7 (19xx)(Haluska, Laszlo)"
+	rom ( name "EPDOS v1.7 (19xx)(Haluska, Laszlo).bin" size 32768 crc 201319eb md5 e390d30bfafed9d34714fa748dab3890 )
+)
+
+game (
+	name "EX-DOS EPROM (198x)(Enterprise)"
+	description "EX-DOS EPROM (198x)(Enterprise)"
+	rom ( name "EX-DOS EPROM (198x)(Enterprise).bin" size 16384 crc e6daa0e9 md5 849d8796d8d3e3fcf89f151b57db73b0 )
+)
+
+game (
+	name "EXDos BASIC+FORTH (198x)(Enterprise)"
+	description "EXDos BASIC+FORTH (198x)(Enterprise)"
+	rom ( name "EXDos BASIC+FORTH (198x)(Enterprise).bin" size 32768 crc 0cc38deb md5 de3e05eb8055be93f5b35f740a8413f2 )
+)
+
+game (
+	name "Exos (198x)(Enterprise)"
+	description "Exos (198x)(Enterprise)"
+	rom ( name "Exos (198x)(Enterprise).bin" size 32768 crc 30b26387 md5 96e8d757c46fcc0d0ccabadd9eaad470 )
+)
+
+game (
+	name "Expandible OS v2.0 (1984)(Intelligent Software)"
+	description "Expandible OS v2.0 (1984)(Intelligent Software)"
+	rom ( name "Expandible OS v2.0 (1984)(Intelligent Software).bin" size 32768 crc d421795f md5 5ad3baaad3b5156d6b60b34229a676fb )
+)
+
+game (
+	name "Expandible OS v2.1 (1985)(Intelligent Software)"
+	description "Expandible OS v2.1 (1985)(Intelligent Software)"
+	rom ( name "Expandible OS v2.1 (1985)(Intelligent Software).bin" size 32768 crc 982a3b44 md5 f36f24cbb87745fbd2714e4df881db09 )
+)
+
+game (
+	name "Expandible OS v2.3 (1987)(Intelligent Software)"
+	description "Expandible OS v2.3 (1987)(Intelligent Software)"
+	rom ( name "Expandible OS v2.3 (1987)(Intelligent Software).bin" size 65536 crc 24838410 md5 80115adf36136f30b23c10ea2dd83bef )
+)
+
+game (
+	name "Forth (198x)(Enterprise)"
+	description "Forth (198x)(Enterprise)"
+	rom ( name "Forth (198x)(Enterprise).bin" size 16384 crc 5077dc39 md5 69c69fa1bf1f5f78bf9d3253ee2bc1d2 )
+)
+
+game (
+	name "HP Enterprise v1.01 (1985)(Hisoft)"
+	description "HP Enterprise v1.01 (1985)(Hisoft)"
+	rom ( name "HP Enterprise v1.01 (1985)(Hisoft).bin" size 16384 crc 944c0baa md5 a2083e0195ef4e9fdc25e130728627bc )
+)
+
+game (
+	name "HiSoft Pascal Enterprise v1.01 (1985)(Hisoft)"
+	description "HiSoft Pascal Enterprise v1.01 (1985)(Hisoft)"
+	rom ( name "HiSoft Pascal Enterprise v1.01 (1985)(Hisoft).bin" size 32768 crc d62f2a46 md5 995511b8e30208cf186339e799fba494 )
+)
+
+game (
+	name "Turbo AsMon 1.5 (19xx)(Sandor Gyangy)"
+	description "Turbo AsMon 1.5 (19xx)(Sandor Gyangy)"
+	rom ( name "Turbo AsMon 1.5 (19xx)(Sandor Gyangy).bin" size 32768 crc 9bebc655 md5 5da096ddca5a04c327539e5cd70f3b53 )
+)
+
+game (
+	name "Turbo EXDOS+ISDOS (19xx)(Zoltan Nemeth)"
+	description "Turbo EXDOS+ISDOS (19xx)(Zoltan Nemeth)"
+	rom ( name "Turbo EXDOS+ISDOS (19xx)(Zoltan Nemeth).bin" size 32768 crc bc02efa9 md5 2b50e76868bb8e74a3b4e234b321142e )
+)
+
+game (
+	name "UELISP v0.6 (198x)(Enterprise)"
+	description "UELISP v0.6 (198x)(Enterprise)"
+	rom ( name "UELISP v0.6 (198x)(Enterprise).bin" size 16383 crc bf516194 md5 a942bfc260b888e44996f8978c36fb61 )
+)
+
+game (
+	name "ZozoTools v1.8 (19xx)(Zoltan Nemeth)"
+	description "ZozoTools v1.8 (19xx)(Zoltan Nemeth)"
+	rom ( name "ZozoTools v1.8 (19xx)(Zoltan Nemeth).bin" size 32768 crc 5e8d0aa9 md5 090b65a693d306c5ab674ac07cc6c640 )
+)

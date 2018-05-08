@@ -1,0 +1,73 @@
+clrmamepro (
+	name "Galaksija Galaksija - Demos"
+	description "Galaksija Galaksija - Demos (TOSEC-v2010-02-14)"
+	category "Galaksija Galaksija - Demos"
+	version 2010-02-14
+	author "TKaos"
+)
+
+game (
+	name "Bioritam (1984)(Galaxy Computer)(YU)"
+	description "Bioritam (1984)(Galaxy Computer)(YU)"
+	rom ( name "Bioritam (1984)(Galaxy Computer)(YU).gtp" size 2996 crc 86d9274a md5 491022fcfa99051de92225a299b246ab )
+)
+
+game (
+	name "Bioritam 2 (19xx)(-)(YU)[b]"
+	description "Bioritam 2 (19xx)(-)(YU)[b]"
+	rom ( name "Bioritam 2 (19xx)(-)(YU)[b].gtp" size 1366 crc 997e491e md5 cf622a163099f6b4505b498a42f72f92 )
+)
+
+game (
+	name "Chariots of Fire (19xx)(Vujkov, Dragan)(YU)(en)"
+	description "Chariots of Fire (19xx)(Vujkov, Dragan)(YU)(en)"
+	rom ( name "Chariots of Fire (19xx)(Vujkov, Dragan)(YU)(en).gtp" size 290 crc 33e9fad9 md5 713ca7053203d72a08a6c2bb156f3395 )
+)
+
+game (
+	name "Evolucija (1984-03-31)(Ristanovic, Dejan)(YU)"
+	description "Evolucija (1984-03-31)(Ristanovic, Dejan)(YU)"
+	rom ( name "Evolucija (1984-03-31)(Ristanovic, Dejan)(YU).gtp" size 1063 crc c3a8c0f1 md5 a684d38d0ad6f12c2e8002465726eeac )
+)
+
+game (
+	name "Fire (2007-06-27)(Solc, Tomaz)"
+	description "Fire (2007-06-27)(Solc, Tomaz)"
+	rom ( name "Fire (2007-06-27)(Solc, Tomaz).gtp" size 772 crc 4c5758a9 md5 cc20f87bdb1aa057e620c49dad168f7d )
+)
+
+game (
+	name "Hardware (2007-09-22)(Solc, Tomaz)"
+	description "Hardware (2007-09-22)(Solc, Tomaz)"
+	rom ( name "Hardware (2007-09-22)(Solc, Tomaz).gtp" size 670 crc daf12925 md5 e2c08ec9c6ab4b757e3bd787e291f850 )
+)
+
+game (
+	name "Highres (2009-01-22)(Solc, Tomaz)"
+	description "Highres (2009-01-22)(Solc, Tomaz)"
+	rom ( name "Highres (2009-01-22)(Solc, Tomaz).gtp" size 2838 crc 663aaef2 md5 7585b3c13911ba1ab7ce45d15eff41c5 )
+)
+
+game (
+	name "Light Show (1987)(Vujkov, Dragan)(YU)"
+	description "Light Show (1987)(Vujkov, Dragan)(YU)"
+	rom ( name "Light Show (1987)(Vujkov, Dragan)(YU).gtp" size 3001 crc 27ae9809 md5 689e19cd01f0896e396b0ced867010cb )
+)
+
+game (
+	name "Oscilacije (19xx)(Vujkov, Dragan)(YU)"
+	description "Oscilacije (19xx)(Vujkov, Dragan)(YU)"
+	rom ( name "Oscilacije (19xx)(Vujkov, Dragan)(YU).gtp" size 504 crc 83392fb3 md5 e0e301921900a0ea4ddf2e025235c1e8 )
+)
+
+game (
+	name "Particle (2007-07-12)(Solc, Tomaz)"
+	description "Particle (2007-07-12)(Solc, Tomaz)"
+	rom ( name "Particle (2007-07-12)(Solc, Tomaz).gtp" size 631 crc 7f9a2b90 md5 0af03dee787ed895412cf92972284c9c )
+)
+
+game (
+	name "Stars (2007-07-12)(Solc, Tomaz)"
+	description "Stars (2007-07-12)(Solc, Tomaz)"
+	rom ( name "Stars (2007-07-12)(Solc, Tomaz).gtp" size 573 crc 6329e68d md5 3d140b3b553191d0476b2bb88dd94a69 )
+)

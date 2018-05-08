@@ -1,0 +1,163 @@
+clrmamepro (
+	name "Sord M5 - Games - [BIN]"
+	description "Sord M5 - Games - [BIN] (TOSEC-v2009-09-01)"
+	category "Sord M5 - Games - [BIN]"
+	version 2009-09-01
+	author "Cid - mek1"
+)
+
+game (
+	name "Baseball (19xx)(-)"
+	description "Baseball (19xx)(-)"
+	rom ( name "Baseball (19xx)(-).bin" size 10904 crc 46e94dae md5 238f5ac7210474f4551c209a18753dd9 )
+)
+
+game (
+	name "Dragon Attack (1983)(Takara)(JP)"
+	description "Dragon Attack (1983)(Takara)(JP)"
+	rom ( name "Dragon Attack (1983)(Takara)(JP).bin" size 4096 crc 5862d06c md5 228d1651198e13c1674e52b50413208b )
+)
+
+game (
+	name "Drops (1986)(SPC)(JP)"
+	description "Drops (1986)(SPC)(JP)"
+	rom ( name "Drops (1986)(SPC)(JP).bin" size 6176 crc fa321348 md5 b548a560c60e96662d2fa552e37ed73a )
+)
+
+game (
+	name "Eskimon (1984)(Takara)(JP)"
+	description "Eskimon (1984)(Takara)(JP)"
+	rom ( name "Eskimon (1984)(Takara)(JP).bin" size 8192 crc 96931021 md5 f3753ae43653d725507763a86a4339dc )
+)
+
+game (
+	name "Fruit Search (1983)(Takara)(JP)"
+	description "Fruit Search (1983)(Takara)(JP)"
+	rom ( name "Fruit Search (1983)(Takara)(JP).bin" size 4096 crc 333ac50f md5 5b30d4ce291a10f9dac54bb900a6bfd0 )
+)
+
+game (
+	name "Funny Mouse (1983)(Takara)(JP)"
+	description "Funny Mouse (1983)(Takara)(JP)"
+	rom ( name "Funny Mouse (1983)(Takara)(JP).bin" size 8192 crc 94145074 md5 70cc1a571831cd93844ac091a98ca758 )
+)
+
+game (
+	name "Guttang Gottong (1981)(Konami)(JP)[b]"
+	description "Guttang Gottong (1981)(Konami)(JP)[b]"
+	rom ( name "Guttang Gottong (1981)(Konami)(JP)[b].bin" size 8192 crc 60ac9deb md5 1e09f39efc99705ebb2cfcab4e9d81ec )
+)
+
+game (
+	name "Guttang Gottong (1981)(Konami)(JP)"
+	description "Guttang Gottong (1981)(Konami)(JP)"
+	rom ( name "Guttang Gottong (1981)(Konami)(JP).bin" size 8448 crc 0f70fa69 md5 3877967bfde34f89430198f3b13523f2 )
+)
+
+game (
+	name "Heavy Boxing (1983)(Takara)(JP)"
+	description "Heavy Boxing (1983)(Takara)(JP)"
+	rom ( name "Heavy Boxing (1983)(Takara)(JP).bin" size 8192 crc 19540dce md5 72aaf74b69b5645dc684d77ebe0c27b1 )
+)
+
+game (
+	name "Jumping Jack (1986)(SPC)(JP)"
+	description "Jumping Jack (1986)(SPC)(JP)"
+	rom ( name "Jumping Jack (1986)(SPC)(JP).bin" size 5920 crc 49030973 md5 e93a97ee4ba0f9561765fa089ff68e43 )
+)
+
+game (
+	name "Life (19xx)(Hedisoft & Conway)(cs)"
+	description "Life (19xx)(Hedisoft & Conway)(cs)"
+	rom ( name "Life (19xx)(Hedisoft & Conway)(cs).bin" size 1070 crc 3014dfad md5 cf542cc5a7eb6e1a6fa14da525d0b7c0 )
+)
+
+game (
+	name "Masterchess (19xx)(-)"
+	description "Masterchess (19xx)(-)"
+	rom ( name "Masterchess (19xx)(-).bin" size 12288 crc c10a6e96 md5 647289441ffc51a6028c77ecadc12389 )
+)
+
+game (
+	name "Pooyan (1982)(Konami)(JP)"
+	description "Pooyan (1982)(Konami)(JP)"
+	rom ( name "Pooyan (1982)(Konami)(JP).bin" size 8192 crc ded8b4f4 md5 23fc9576af52d948e2177352ea5c6956 )
+)
+
+game (
+	name "Real Tennis (1983)(Takara)(JP)"
+	description "Real Tennis (1983)(Takara)(JP)"
+	rom ( name "Real Tennis (1983)(Takara)(JP).bin" size 8192 crc ed80d6c9 md5 9d846518bdf85da65862eb351609264c )
+)
+
+game (
+	name "Reversi (19xx)(Games of Skill)"
+	description "Reversi (19xx)(Games of Skill)"
+	rom ( name "Reversi (19xx)(Games of Skill).bin" size 6392 crc ca2cd257 md5 ce2a66e7d4bd116d6a61d0ddf15a86df )
+)
+
+game (
+	name "Step Up (1983)(Takara)(JP)"
+	description "Step Up (1983)(Takara)(JP)"
+	rom ( name "Step Up (1983)(Takara)(JP).bin" size 8192 crc 942cc7e8 md5 22b6f0a5159c0f4771284fb6f3678a6b )
+)
+
+game (
+	name "Super Cobra (1981)(Konami)(JP)"
+	description "Super Cobra (1981)(Konami)(JP)"
+	rom ( name "Super Cobra (1981)(Konami)(JP).bin" size 8192 crc 55cbd90b md5 eeb3815a17e5acd6b58934dbc059e005 )
+)
+
+game (
+	name "Tank Battlaion (1980)(Namco)(JP)"
+	description "Tank Battlaion (1980)(Namco)(JP)"
+	rom ( name "Tank Battlaion (1980)(Namco)(JP).bin" size 8192 crc daa0d610 md5 39a2dd4e6f95fa0b0badec1be75e1b34 )
+)
+
+game (
+	name "Up Up Balloon (1983)(Takara - Monkey Punch)(JP)"
+	description "Up Up Balloon (1983)(Takara - Monkey Punch)(JP)"
+	rom ( name "Up Up Balloon (1983)(Takara - Monkey Punch)(JP).bin" size 8320 crc 68c85890 md5 bb57863bc47643543ea048cc65ea9d79 )
+)
+
+game (
+	name "Wonder Hole (1982)(Irem)(JP)[a]"
+	description "Wonder Hole (1982)(Irem)(JP)[a]"
+	rom ( name "Wonder Hole (1982)(Irem)(JP)[a].bin" size 8192 crc 5274f575 md5 56252f734de4a0f235b29913434b3c20 )
+)
+
+game (
+	name "Wonder Hole (1982)(Irem)(JP)"
+	description "Wonder Hole (1982)(Irem)(JP)"
+	rom ( name "Wonder Hole (1982)(Irem)(JP).bin" size 8320 crc aba2cece md5 699f45d31e592c2ced497732cd1a3be1 )
+)
+
+game (
+	name "Word Maze (19xx)(Sord)(JP)"
+	description "Word Maze (19xx)(Sord)(JP)"
+	rom ( name "Word Maze (19xx)(Sord)(JP).bin" size 8192 crc fda88e0d md5 073b3513351bdb2e1062bd823d7bcb13 )
+)
+
+game (
+	name "ZZZ-UNK-Balloon"
+	description "ZZZ-UNK-Balloon"
+	rom ( name "ZZZ-UNK-Balloon.bin" size 8192 crc f44bbdad md5 74ba6e9d06ce5f68b24549b24cc695a3 )
+)
+
+game (
+	name "ZZZ-UNK-Csmaze"
+	description "ZZZ-UNK-Csmaze"
+	rom ( name "ZZZ-UNK-Csmaze.bin" size 8448 crc b7c9705b md5 22cfee9731d070d8d37b3cebb4216f58 )
+)
+
+game (
+	name "ZZZ-UNK-Intruder"
+	description "ZZZ-UNK-Intruder"
+	rom ( name "ZZZ-UNK-Intruder.bin" size 5376 crc 12859c5d md5 e4bcd33f7a1feb45ef7cdf906ac83a5a )
+)
+
+game (
+	name "Zac Banic (19xx)(-)"
+	description "Zac Banic (19xx)(-)"
+	rom ( name "Zac Banic (19xx)(-).bin" size 4400 crc fd421eea md5 a6a9fb252250dcb0bc9fdae840b5d235 )
+)

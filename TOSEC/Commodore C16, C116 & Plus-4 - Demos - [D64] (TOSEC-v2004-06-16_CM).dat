@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Demos - [D64]"
+	description "Commodore C16, C116 & Plus-4 - Demos - [D64] (TOSEC-v2004-06-16)"
+	category "Commodore C16, C116 & Plus-4 - Demos - [D64]"
+	version 2004-06-16
+	author "DesertWolf"
+)
+
+game (
+	name "Demo Disk (19xx)(SYN)[b]"
+	description "Demo Disk (19xx)(SYN)[b]"
+	rom ( name "Demo Disk (19xx)(SYN)[b].d64" size 174848 crc dbeb6ee9 md5 ff31f91347cd32c9f903151bda7690c2 )
+)

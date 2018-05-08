@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Commodore Amiga - Kickstart-Disks"
+	description "Commodore Amiga - Kickstart-Disks (TOSEC-v2011-11-01)"
+	category "Commodore Amiga - Kickstart-Disks"
+	version 2011-11-01
+	author "WindowsKiller"
+)
+
+game (
+	name "Kickstart-Disk v1.0 (1985)(Commodore)(A1000)(NTSC)"
+	description "Kickstart-Disk v1.0 (1985)(Commodore)(A1000)(NTSC)"
+	rom ( name "Kickstart-Disk v1.0 (1985)(Commodore)(A1000)(NTSC).adf" size 901120 crc fc1c4ce8 md5 2fb28e7bbab0d2eef00e742c7259a674 sha1 e2f7fd40b5f626f1719628e720bc4440cca7c961 )
+)
+
+game (
+	name "Kickstart-Disk v1.1 r31.34 (1985)(Commodore)(A1000)(NTSC)"
+	description "Kickstart-Disk v1.1 r31.34 (1985)(Commodore)(A1000)(NTSC)"
+	rom ( name "Kickstart-Disk v1.1 r31.34 (1985)(Commodore)(A1000)(NTSC).adf" size 901120 crc 73789bf8 md5 e52af0bd4f308a97bc4b86f18d14932a sha1 68b667395be3a50be86fb6ad78155e1741255822 )
+)
+
+game (
+	name "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL)"
+	description "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL)"
+	rom ( name "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL).adf" size 901120 crc b1a77036 md5 afbbc3df0a007486390251577f6e9935 sha1 498c1c5fb50f731514633e30ad47b4140df5b032 )
+)
+
+game (
+	name "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL)[a]"
+	description "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL)[a]"
+	rom ( name "Kickstart-Disk v1.1 r32.34 (1986)(Commodore)(A1000)(PAL)[a].adf" size 901120 crc 70d0030a md5 e841aac96835b23e438a98d3942d6fab sha1 0d79e2444421e5b66b5f295a5d3685d286208128 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)"
+	description "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)"
+	rom ( name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000).adf" size 901120 crc cf618a4d md5 ab4c822555dfc68ff55683df666c9088 sha1 33fb1ccbb8c4c013a0d5b947ea172b0789b09648 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[a]"
+	description "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[a]"
+	rom ( name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[a].adf" size 901120 crc 474d767b md5 5e33ef4c57fb6ea7bc24f1aa79217258 sha1 8d5de94f6f44a89f8642a6ec9c649c621822a1b1 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[b]"
+	description "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[b]"
+	rom ( name "Kickstart-Disk v1.2 r33.166 (1986)(Commodore)(A1000)[b].adf" size 901120 crc d4dcff3d md5 f7376f161a9cfc7c49e591ae8327207b sha1 13593e82a9b2933c364def78830f0778059d21ce )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)"
+	description "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)"
+	rom ( name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000).adf" size 901120 crc d6d706d3 md5 2ad0589900318dae2f578527f823b59b sha1 a7125a65539fb4ad2e79b618aa9315c6290fd505 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a2]"
+	description "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a2]"
+	rom ( name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a2].adf" size 901120 crc 79910e22 md5 7571aad07b863636d3087fe6810989a3 sha1 305f3d00e12d0b67cc6f5ed64e6b25577ab647de )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a]"
+	description "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a]"
+	rom ( name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[a].adf" size 901120 crc 9d68d211 md5 b1f0dfad019581f2950104ba5ed07236 sha1 44682d10a7f62896b46180491d60db4ee8c30529 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h HQC]"
+	description "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h HQC]"
+	rom ( name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h HQC].adf" size 901120 crc 74ed8398 md5 9e88aa227be23095cc4bc941e4c0fec6 sha1 db77f2be6cbe2f8bda91ce242c7f943cf9493da3 )
+)
+
+game (
+	name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h LEVEL42]"
+	description "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h LEVEL42]"
+	rom ( name "Kickstart-Disk v1.2 r33.180 (1986)(Commodore)(A1000)[h LEVEL42].adf" size 901120 crc d13ba347 md5 fef46b7217419b5ddfd0a65868438043 sha1 ebc43578be188d5817ae0ac72b8d6b82731a1e7e )
+)
+
+game (
+	name "Kickstart-Disk v1.3 r34.5 (1987)(Commodore)(A1000)"
+	description "Kickstart-Disk v1.3 r34.5 (1987)(Commodore)(A1000)"
+	rom ( name "Kickstart-Disk v1.3 r34.5 (1987)(Commodore)(A1000).adf" size 901120 crc 5fd0ef3b md5 695e5d058550fd3994137ceed1c1e7ba sha1 a80b001b98a997969bf709cecd07f8578f861148 )
+)
+
+game (
+	name "SuperKickstart-Disk v2.0 r36.143 (1990)(Commodore)(A3000)"
+	description "SuperKickstart-Disk v2.0 r36.143 (1990)(Commodore)(A3000)"
+	rom ( name "SuperKickstart-Disk v2.0 r36.143 (1990)(Commodore)(A3000).adf" size 901120 crc 79c58ce8 md5 53fe8878fa10e020bc2dafd0bf9bc2a8 sha1 8e738fb5a9d293c8321cf5055c06f368d43a6e2b )
+)
+
+game (
+	name "SuperKickstart-Disk v2.04 r37.175 (1991)(Commodore)(A3000)"
+	description "SuperKickstart-Disk v2.04 r37.175 (1991)(Commodore)(A3000)"
+	rom ( name "SuperKickstart-Disk v2.04 r37.175 (1991)(Commodore)(A3000).adf" size 901120 crc 87ad0c5b md5 1eabd3c6f9de47ba6aee5a9d2c84b57c sha1 922ec2776766a6568f3e2de37101c497067948e4 )
+)
+

@@ -1,0 +1,21 @@
+clrmamepro (
+	name "ETL Mark IV A - Applications"
+	description "ETL Mark IV A - Applications (TOSEC-v2005-03-01)"
+	category "ETL Mark IV A - Applications"
+	version 2005-03-01
+	author "Grendel"
+)
+
+game (
+	name "E Calculation (1996)(Seiichi Okoma)"
+	description "E Calculation (1996)(Seiichi Okoma)"
+	rom ( name "E.m4a" size 2189 crc 048c67e4 md5 3351ec855b6e9281ef3df15156d1dc7a )
+	rom ( name "E.out" size 189 crc 65d66dd5 md5 24f3e037acba111f9a5c69865555b1d8 )
+)
+
+game (
+	name "Square Root By Newton's Method (1996)(Seiichi Okoma)"
+	description "Square Root By Newton's Method (1996)(Seiichi Okoma)"
+	rom ( name "Newton.m4a" size 1341 crc 8c146768 md5 c28dd7d79164667685f5864f65126c2d )
+	rom ( name "Newton.out" size 126 crc 3a775b5e md5 0b55b6818ded6299aa3b7a88250dea93 )
+)

@@ -1,0 +1,487 @@
+clrmamepro (
+	name "Acorn BBC - Games - [UEF]"
+	description "Acorn BBC - Games - [UEF] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Games - [UEF]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "2002 Rendezvous and Docking Simulator (19xx)(Superior)[RUN]"
+	description "2002 Rendezvous and Docking Simulator (19xx)(Superior)[RUN]"
+	rom ( name "2002 Rendezvous and Docking Simulator (19xx)(Superior)[RUN].uef" size 9825 crc d1bec658 md5 f6a4d484c95180e6746cc0f52af464d9 )
+)
+
+game (
+	name "3D Convoy (1984)(Doctor Soft)"
+	description "3D Convoy (1984)(Doctor Soft)"
+	rom ( name "3D Convoy (1984)(Doctor Soft).uef" size 6198 crc 75b32812 md5 e56f8c3d8874d1d04a1cb89b813dce5e )
+)
+
+game (
+	name "3D Munchy (1985)(Blue Ribbon)"
+	description "3D Munchy (1985)(Blue Ribbon)"
+	rom ( name "3D Munchy (1985)(Blue Ribbon).uef" size 6123 crc 433c607d md5 c529738c255ce12132d2dc7480e169cc )
+)
+
+game (
+	name "747 (1983)(Doctor Soft)[Joystick Version]"
+	description "747 (1983)(Doctor Soft)[Joystick Version]"
+	rom ( name "747 (1983)(Doctor Soft)[Joystick Version].uef" size 7319 crc 904248e2 md5 34a59cff9ba3153576eb1bce5af0b066 )
+)
+
+game (
+	name "747 (1983)(Doctor Soft)[Keyboard Version]"
+	description "747 (1983)(Doctor Soft)[Keyboard Version]"
+	rom ( name "747 (1983)(Doctor Soft)[Keyboard Version].uef" size 8981 crc 11c96e96 md5 cd6a3d71768593788a0c88b5c461eca1 )
+)
+
+game (
+	name "ABC (19xx)(Acornsoft)"
+	description "ABC (19xx)(Acornsoft)"
+	rom ( name "ABC (19xx)(Acornsoft).uef" size 13886 crc 1da6a521 md5 944762f1623e0fd11b4198a294310f0f )
+)
+
+game (
+	name "Adventure (1982)(Program Power)"
+	description "Adventure (1982)(Program Power)"
+	rom ( name "Adventure (1982)(Program Power).uef" size 14798 crc 0848d152 md5 bb657c08c4bb45c1cba458e6b3db522a )
+)
+
+game (
+	name "Adventure 05 - The Count (1984)(Adams)"
+	description "Adventure 05 - The Count (1984)(Adams)"
+	rom ( name "Adventure 05 - The Count (1984)(Adams).uef" size 11205 crc 886f1f02 md5 b541c798432aedcf11bf31a2161ec152 )
+)
+
+game (
+	name "Adventure 07 - Mystery Fun House (1984)(Adams)"
+	description "Adventure 07 - Mystery Fun House (1984)(Adams)"
+	rom ( name "Adventure 07 - Mystery Fun House (1984)(Adams).uef" size 12251 crc ed6e9cb5 md5 ed062a29d8257b0eeec6490432e38436 )
+)
+
+game (
+	name "Adventure 13 - Sorceror of Claymorgue Castle (1984)(Adams)"
+	description "Adventure 13 - Sorceror of Claymorgue Castle (1984)(Adams)"
+	rom ( name "Adventure 13 - Sorceror of Claymorgue Castle (1984)(Adams).uef" size 10953 crc b40449e7 md5 d7f75a6690dd330ed4597d2ac73f4b69 )
+)
+
+game (
+	name "Airlift (19xx)(Superior)"
+	description "Airlift (19xx)(Superior)"
+	rom ( name "Airlift (19xx)(Superior).uef" size 6476 crc 46e03e02 md5 8695f62b390e26571ad5860db79e1d1d )
+)
+
+game (
+	name "Airlift (19xx)(Superior)[a]"
+	description "Airlift (19xx)(Superior)[a]"
+	rom ( name "Airlift (19xx)(Superior)[a].uef" size 6399 crc d4a083c5 md5 43afdf430567ec00796cbf13a036385f )
+)
+
+game (
+	name "Alien Dropout (1982)(Superior)[RUN]"
+	description "Alien Dropout (1982)(Superior)[RUN]"
+	rom ( name "Alien Dropout (1982)(Superior)[RUN].uef" size 7536 crc 1ef3e976 md5 53b7f28654572c7051acbdf33ea3179e )
+)
+
+game (
+	name "Alien from Outta Space (19xx)(Incentive)[b]"
+	description "Alien from Outta Space (19xx)(Incentive)[b]"
+	rom ( name "Alien from Outta Space (19xx)(Incentive)[b].uef" size 17269 crc caeccbc2 md5 01378a349907cb7cf9d166de0d2fd5dc )
+)
+
+game (
+	name "Apocalypse (19xx)(Red Shift)"
+	description "Apocalypse (19xx)(Red Shift)"
+	rom ( name "Apocalypse (19xx)(Red Shift).uef" size 24098 crc 0b9dfdaa md5 82a4609105c3e96f1a06c1f3be83d0d6 )
+)
+
+game (
+	name "Arcade Action v2.5 (19xx)(Acornsoft)"
+	description "Arcade Action v2.5 (19xx)(Acornsoft)"
+	rom ( name "Arcade Action v2.5 (19xx)(Acornsoft).uef" size 13352 crc 6c2db1cd md5 d244fd12db1e77c9c0234d87aa489311 )
+)
+
+game (
+	name "Arcadians (19xx)(Acornsoft)"
+	description "Arcadians (19xx)(Acornsoft)"
+	rom ( name "Arcadians (19xx)(Acornsoft).uef" size 13189 crc bed7b7f0 md5 be961cc8b54d7dc2ebc66db672e8ded5 )
+)
+
+game (
+	name "Arcadians v1.2 (19xx)(Acornsoft)"
+	description "Arcadians v1.2 (19xx)(Acornsoft)"
+	rom ( name "Arcadians v1.2 (19xx)(Acornsoft).uef" size 13255 crc e8418496 md5 c1ef38ef1c7d465c3d4e6023456a0b57 )
+)
+
+game (
+	name "Arkanoid (19xx)(Imagine)"
+	description "Arkanoid (19xx)(Imagine)"
+	rom ( name "Arkanoid (19xx)(Imagine).uef" size 10154 crc e73f9271 md5 38f3ddab5e03ab03d78dbf3dd5615a35 )
+)
+
+game (
+	name "Aviator v1.1 (19xx)(Acornsoft)[B&W Version]"
+	description "Aviator v1.1 (19xx)(Acornsoft)[B&W Version]"
+	rom ( name "Aviator v1.1 (19xx)(Acornsoft)[B&W Version].uef" size 18084 crc 8fe4373a md5 1a6ec02e612448e6223a47310b6efd2d )
+)
+
+game (
+	name "Awari (1984)(Understanding)"
+	description "Awari (1984)(Understanding)"
+	rom ( name "Awari (1984)(Understanding).uef" size 2579 crc 2bdc1d39 md5 94e81bee3ef13e9ce713681c8da6788e )
+)
+
+game (
+	name "Ballistix (19xx)(Acornsoft - Superior)"
+	description "Ballistix (19xx)(Acornsoft - Superior)"
+	rom ( name "Ballistix (19xx)(Acornsoft - Superior).uef" size 19618 crc fcf494c3 md5 5d1f2377eee5cb9143036fd27f095b2c )
+)
+
+game (
+	name "Banana Man (1985)(Blue Ribbon)"
+	description "Banana Man (1985)(Blue Ribbon)"
+	rom ( name "Banana Man (1985)(Blue Ribbon).uef" size 5160 crc 3488463e md5 b796e03fc862e6cd1fa0e05bd3462949 )
+)
+
+game (
+	name "Banjax (1985)(Robico)"
+	description "Banjax (1985)(Robico)"
+	rom ( name "Banjax (1985)(Robico).uef" size 12375 crc d8ab9146 md5 c235fe2ffc169674b8322d21d720417c )
+)
+
+game (
+	name "Barbarian - Combat Practice Version (1988)(Superior)"
+	description "Barbarian - Combat Practice Version (1988)(Superior)"
+	rom ( name "Barbarian - Combat Practice Version (1988)(Superior).uef" size 24764 crc 2e4d51e3 md5 f8f2b89e9dbc8d78b1386901f8f673fd )
+)
+
+game (
+	name "Barbarian - Fight to the Death Version (1988)(Superior)"
+	description "Barbarian - Fight to the Death Version (1988)(Superior)"
+	rom ( name "Barbarian - Fight to the Death Version (1988)(Superior).uef" size 24742 crc 4766f29c md5 eec1339a0fa813ff188275297b18f307 )
+)
+
+game (
+	name "Barbarian II (1989)(Superior)"
+	description "Barbarian II (1989)(Superior)"
+	rom ( name "Barbarian II (1989)(Superior).uef" size 41212 crc a3a316f8 md5 2048cd6a90eedfd6b2433741c019d29b )
+)
+
+game (
+	name "Baron (1989)(Acornsoft - Superior)"
+	description "Baron (1989)(Acornsoft - Superior)"
+	rom ( name "Baron (1989)(Acornsoft - Superior).uef" size 23101 crc d0c6807a md5 0e2234e780eb90cb07d650e0f3fff41e )
+)
+
+game (
+	name "Barrage (19xx)(Cox and Barrow)"
+	description "Barrage (19xx)(Cox and Barrow)"
+	rom ( name "Barrage (19xx)(Cox and Barrow).uef" size 4148 crc e6392872 md5 6679a5d28fd986e643750082403957af )
+)
+
+game (
+	name "Battle of Britain (19xx)(Betasoft)"
+	description "Battle of Britain (19xx)(Betasoft)"
+	rom ( name "Battle of Britain (19xx)(Betasoft).uef" size 7415 crc 8703c1f3 md5 ccd27e898492b7bf5cb85c3461f0a518 )
+)
+
+game (
+	name "Battle Tank (19xx)(Superior)"
+	description "Battle Tank (19xx)(Superior)"
+	rom ( name "Battle Tank (19xx)(Superior).uef" size 10594 crc 8a4ae39d md5 1aa8296c7e4368ee3c7b84e7641f5fa7 )
+)
+
+game (
+	name "Battle Tank (19xx)(Superior)[a]"
+	description "Battle Tank (19xx)(Superior)[a]"
+	rom ( name "Battle Tank (19xx)(Superior)[a].uef" size 11654 crc 7ebc7510 md5 d7daa8db1c1292ce28c6cc08e2104a70 )
+)
+
+game (
+	name "Beach-Head (19xx)(U.S.Gold)"
+	description "Beach-Head (19xx)(U.S.Gold)"
+	rom ( name "Beach-Head (19xx)(U.S.Gold).uef" size 26869 crc bd1a32f3 md5 a87d66c4f5c92a97a4d00cef74840482 )
+)
+
+game (
+	name "Beeline (1985)(Robico)"
+	description "Beeline (1985)(Robico)"
+	rom ( name "Beeline (1985)(Robico).uef" size 8458 crc 073ccb4a md5 c82536e3101a7e3f3853dad91648f07a )
+)
+
+game (
+	name "Blood of the Mutineers - A Captain Blizzard Adventure v1.0 (1988)(Robico)"
+	description "Blood of the Mutineers - A Captain Blizzard Adventure v1.0 (1988)(Robico)"
+	rom ( name "Blood of the Mutineers - A Captain Blizzard Adventure v1.0 (1988)(Robico).uef" size 22601 crc bd9272db md5 e97fd5ab77842a4db341fdc9e93ff977 )
+)
+
+game (
+	name "BMX on the Moon (19xx)(Superior)"
+	description "BMX on the Moon (19xx)(Superior)"
+	rom ( name "BMX on the Moon (19xx)(Superior).uef" size 8412 crc 1414d111 md5 b859a414b82d3fad4fd3e5ff923ebe47 )
+)
+
+game (
+	name "BMX on the Moon (19xx)(Superior)[a]"
+	description "BMX on the Moon (19xx)(Superior)[a]"
+	rom ( name "BMX on the Moon (19xx)(Superior)[a].uef" size 8374 crc e94aba44 md5 75e0e9fba9808a12ba1de99d0992c405 )
+)
+
+game (
+	name "Bomber Baron (19xx)(Optyx)"
+	description "Bomber Baron (19xx)(Optyx)"
+	rom ( name "Bomber Baron (19xx)(Optyx).uef" size 4997 crc b62d2e92 md5 de41c924eb4081fb9b50fd84c0fa83b6 )
+)
+
+game (
+	name "Bone Cruncher (19xx)(Acornsoft - Superior)"
+	description "Bone Cruncher (19xx)(Acornsoft - Superior)"
+	rom ( name "Bone Cruncher (19xx)(Acornsoft - Superior).uef" size 39351 crc 0583cf9f md5 7b5a074d7c06f9d38b70e7346ec90a92 )
+)
+
+game (
+	name "Boris in the Underworld (19xx)(Superior)"
+	description "Boris in the Underworld (19xx)(Superior)"
+	rom ( name "Boris in the Underworld (19xx)(Superior).uef" size 6330 crc c6a6660b md5 f8e29b8f7edb853acebd93085c2892e0 )
+)
+
+game (
+	name "Bouncer (1984)(Acornsoft)"
+	description "Bouncer (1984)(Acornsoft)"
+	rom ( name "Bouncer (1984)(Acornsoft).uef" size 8722 crc 6f68649c md5 bf1d497ba3e588756ec9b6f528c8c1a8 )
+)
+
+game (
+	name "Bozo the Brave (19xx)(Tynesoft)"
+	description "Bozo the Brave (19xx)(Tynesoft)"
+	rom ( name "Bozo the Brave (19xx)(Tynesoft).uef" size 4944 crc 6bb10f38 md5 013c8040b8b8ce5c44889d01fa3a7527 )
+)
+
+game (
+	name "Bridge to the East (19xx)(Ixion)"
+	description "Bridge to the East (19xx)(Ixion)"
+	rom ( name "Bridge to the East (19xx)(Ixion).uef" size 28785 crc da9c53a9 md5 13d3da893614fb0707e6cce0aa2b21ae )
+)
+
+game (
+	name "Camelot (19xx)(Acornsoft - Superior)"
+	description "Camelot (19xx)(Acornsoft - Superior)"
+	rom ( name "Camelot (19xx)(Acornsoft - Superior).uef" size 17376 crc 1e6f100f md5 11d7b8c1d78e85cbec6da72be4f58c95 )
+)
+
+game (
+	name "Carousel (19xx)(Acornsoft)"
+	description "Carousel (19xx)(Acornsoft)"
+	rom ( name "Carousel (19xx)(Acornsoft).uef" size 9733 crc c8937c86 md5 9ee2a0ab080250a6649dcd781c5e5a47 )
+)
+
+game (
+	name "Castle Dracula (1984)(Duckworth)"
+	description "Castle Dracula (1984)(Duckworth)"
+	rom ( name "Castle Dracula (1984)(Duckworth).uef" size 13721 crc ce5783fd md5 dcdb5537aed292957e9c998b692589b2 )
+)
+
+game (
+	name "Castle Frankenstein - Epic Adventure 1 (19xx)(Epic)"
+	description "Castle Frankenstein - Epic Adventure 1 (19xx)(Epic)"
+	rom ( name "Castle Frankenstein - Epic Adventure 1 (19xx)(Epic).uef" size 19283 crc 37fb734d md5 e733cba6f18c87877bc7dff87f431349 )
+)
+
+game (
+	name "Castle of Riddles v1 (1982)(Acornsoft)"
+	description "Castle of Riddles v1 (1982)(Acornsoft)"
+	rom ( name "Castle of Riddles v1 (1982)(Acornsoft).uef" size 15634 crc f61d67f7 md5 d252b8d9c27902f70718ecb1611b99b7 )
+)
+
+game (
+	name "Castle of Riddles v2 (1982)(Acornsoft)"
+	description "Castle of Riddles v2 (1982)(Acornsoft)"
+	rom ( name "Castle of Riddles v2 (1982)(Acornsoft).uef" size 15602 crc 339f7688 md5 64710f85b47588755a2efbb160184093 )
+)
+
+game (
+	name "Centipede (1982)(Superior)[RUN]"
+	description "Centipede (1982)(Superior)[RUN]"
+	rom ( name "Centipede (1982)(Superior)[RUN].uef" size 7205 crc bf06c1ca md5 df51991a7ae533aad8b563897c507686 )
+)
+
+game (
+	name "Chark (19xx)(Delta-4)"
+	description "Chark (19xx)(Delta-4)"
+	rom ( name "Chark (19xx)(Delta-4).uef" size 11177 crc 067d7c90 md5 daf84ad29736e58e264d9d7d49fb6567 )
+)
+
+game (
+	name "Chess v2.1 (19xx)(Acornsoft)"
+	description "Chess v2.1 (19xx)(Acornsoft)"
+	rom ( name "Chess v2.1 (19xx)(Acornsoft).uef" size 12900 crc cef54328 md5 9dea46383fe33e1b669657225848e3b5 )
+)
+
+game (
+	name "Chess v2.2 (19xx)(Acornsoft)"
+	description "Chess v2.2 (19xx)(Acornsoft)"
+	rom ( name "Chess v2.2 (19xx)(Acornsoft).uef" size 12900 crc 0ab8406d md5 63ed147c0d5231df664485244bfb2150 )
+)
+
+game (
+	name "Citadel (19xx)(Superior)"
+	description "Citadel (19xx)(Superior)"
+	rom ( name "Citadel (19xx)(Superior).uef" size 23868 crc 17f562ba md5 7c8866a1a05c052d5c1b2afd81ac96af )
+)
+
+game (
+	name "Codename Droid - Stryker's Run Part 2 (1987)(Superior)"
+	description "Codename Droid - Stryker's Run Part 2 (1987)(Superior)"
+	rom ( name "Codename Droid - Stryker's Run Part 2 (1987)(Superior).uef" size 25183 crc b7e596f0 md5 9b8178cfdce86f6e73845fedc2f38d0c )
+)
+
+game (
+	name "Colditz! (19xx)(LVL)"
+	description "Colditz! (19xx)(LVL)"
+	rom ( name "Colditz! (19xx)(LVL).uef" size 9197 crc 387cfdd8 md5 75695f190d8753cace50624a5bfb28cb )
+)
+
+game (
+	name "Commando (19xx)(Elite)"
+	description "Commando (19xx)(Elite)"
+	rom ( name "Commando (19xx)(Elite).uef" size 19228 crc a6b6161c md5 4c7f226951b350a66892375fa53a57bf )
+)
+
+game (
+	name "Confrontation - Scenarios (19xx)(Lothlorien, M.C.)"
+	description "Confrontation - Scenarios (19xx)(Lothlorien, M.C.)"
+	rom ( name "Confrontation - Scenarios (19xx)(Lothlorien, M.C.).uef" size 2426 crc 5d8a9b4b md5 5fe09d7549c60ffaa03accd614df0bc2 )
+)
+
+game (
+	name "Confrontation (19xx)(Lothlorien, M.C.)"
+	description "Confrontation (19xx)(Lothlorien, M.C.)"
+	rom ( name "Confrontation (19xx)(Lothlorien, M.C.).uef" size 10284 crc 8d7829df md5 46c2a4d6991d2ca1bc2e2a048fbf0006 )
+)
+
+game (
+	name "Conquering Everest (19xx)(ASP)[b]"
+	description "Conquering Everest (19xx)(ASP)[b]"
+	rom ( name "Conquering Everest (19xx)(ASP)[b].uef" size 6475 crc b23215e2 md5 f42bc2c3e9f30423d79a33622427e3cb )
+)
+
+game (
+	name "Contract Bridge (19xx)(Alligata)"
+	description "Contract Bridge (19xx)(Alligata)"
+	rom ( name "Contract Bridge (19xx)(Alligata).uef" size 13225 crc 5445d80c md5 a1b5b32586b543a829b568ad1aa4ac1d )
+)
+
+game (
+	name "Corn Cropper (1983)(CCS)"
+	description "Corn Cropper (1983)(CCS)"
+	rom ( name "Corn Cropper (1983)(CCS).uef" size 6475 crc 05e98b84 md5 f644e349ddec5f6984243f67a5af584a )
+)
+
+game (
+	name "Cosmic Camouflage (19xx)(Acornsoft - Superior)"
+	description "Cosmic Camouflage (19xx)(Acornsoft - Superior)"
+	rom ( name "Cosmic Camouflage (19xx)(Acornsoft - Superior).uef" size 12581 crc 4f53d6c3 md5 efa711ff4e7f35ba3bc05a51bb0c1466 )
+)
+
+game (
+	name "Cosmic Kidnap (1983)(Superior)"
+	description "Cosmic Kidnap (1983)(Superior)"
+	rom ( name "Cosmic Kidnap (1983)(Superior).uef" size 6629 crc a5aa31de md5 c2042f71c73960f041077babaf5361e8 )
+)
+
+game (
+	name "Countdown to Doom v3.2 (19xx)(Acornsoft)"
+	description "Countdown to Doom v3.2 (19xx)(Acornsoft)"
+	rom ( name "Countdown to Doom v3.2 (19xx)(Acornsoft).uef" size 18954 crc 3d9938d0 md5 c9f5378ffe3e8a9e2466773126783527 )
+)
+
+game (
+	name "Cranky (1983)(ASK)"
+	description "Cranky (1983)(ASK)"
+	rom ( name "Cranky (1983)(ASK).uef" size 5841 crc 5f3762eb md5 7504e1b2b863b274ecf793bf151ab144 )
+)
+
+game (
+	name "Crazee Rider (19xx)(Superior)"
+	description "Crazee Rider (19xx)(Superior)"
+	rom ( name "Crazee Rider (19xx)(Superior).uef" size 29012 crc accd74f9 md5 23bcb58a06a7867d9f33ff1d1814bf9b )
+)
+
+game (
+	name "Crazee Rider (19xx)(Superior)[a]"
+	description "Crazee Rider (19xx)(Superior)[a]"
+	rom ( name "Crazee Rider (19xx)(Superior)[a].uef" size 45446 crc 42b7b61d md5 74020f1f48c392e17d5e44ca893256c7 )
+)
+
+game (
+	name "Crazy Painter (19xx)(Superior)"
+	description "Crazy Painter (19xx)(Superior)"
+	rom ( name "Crazy Painter (19xx)(Superior).uef" size 8063 crc bfe423bb md5 d361cc519bbdc55ccb7db1615059bce8 )
+)
+
+game (
+	name "Crazy Painter (19xx)(Superior)[RUN]"
+	description "Crazy Painter (19xx)(Superior)[RUN]"
+	rom ( name "Crazy Painter (19xx)(Superior)[RUN].uef" size 10093 crc a62d912f md5 d81129e38cf0ebbba4a617ca23c805c9 )
+)
+
+game (
+	name "Cube Master (19xx)(Acornsoft)"
+	description "Cube Master (19xx)(Acornsoft)"
+	rom ( name "Cube Master (19xx)(Acornsoft).uef" size 5883 crc 0f4a40f6 md5 c29decfb4c601b8ebad55f9d7cc445e2 )
+)
+
+game (
+	name "Culbertson's Revenge - Brain Aerobics (1985)(Minic)"
+	description "Culbertson's Revenge - Brain Aerobics (1985)(Minic)"
+	rom ( name "Culbertson's Revenge - Brain Aerobics (1985)(Minic).uef" size 11800 crc 08953859 md5 a26ab9a01eb96b7d79a6d18f9d7115f7 )
+)
+
+game (
+	name "Cyborg Warriors (19xx)(Acornsoft - Superior)"
+	description "Cyborg Warriors (19xx)(Acornsoft - Superior)"
+	rom ( name "Cyborg Warriors (19xx)(Acornsoft - Superior).uef" size 15828 crc 8b045a6d md5 07bdcd23b7d2f6d0b237f1260d025254 )
+)
+
+game (
+	name "Cylon Attack (1983)(A&F)"
+	description "Cylon Attack (1983)(A&F)"
+	rom ( name "Cylon Attack (1983)(A&F).uef" size 18919 crc 3d7ae8af md5 8db9b1573dccbe9794a6f5fa669f857b )
+)
+
+game (
+	name "Cylon Invasion (19xx)(Tynesoft)"
+	description "Cylon Invasion (19xx)(Tynesoft)"
+	rom ( name "Cylon Invasion (19xx)(Tynesoft).uef" size 6307 crc c193bf2e md5 8277310563bbae7fbe0a6930f5a3f6e7 )
+)
+
+game (
+	name "Danger UXB (1983)(Averill, Peter)"
+	description "Danger UXB (1983)(Averill, Peter)"
+	rom ( name "Danger UXB (1983)(Averill, Peter).uef" size 5048 crc 11299e43 md5 8f53ee4185a9498253f4aa518f6eecda )
+)
+
+game (
+	name "Dare Devil Denis (19xx)(Visions)"
+	description "Dare Devil Denis (19xx)(Visions)"
+	rom ( name "Dare Devil Denis (19xx)(Visions).uef" size 7221 crc ad6b8ce9 md5 cab4a21c33139250446fb7806db555cd )
+)
+
+game (
+	name "Darts (19xx)(Owen, G.R.)"
+	description "Darts (19xx)(Owen, G.R.)"
+	rom ( name "Darts (19xx)(Owen, G.R.).uef" size 5900 crc 50f54df8 md5 d144c7ef8facfeb516d846015ac88680 )
+)
+
+game (
+	name "Draughts v2.1 (19xx)(Acornsoft)"
+	description "Draughts v2.1 (19xx)(Acornsoft)"
+	rom ( name "Draughts v2.1 (19xx)(Acornsoft).uef" size 6165 crc 35e365ed md5 7c78a7d3d10a5532040f258f2f945c75 )
+)
+
+game (
+	name "Neanderthal Man (1983)(Carlos, D.)"
+	description "Neanderthal Man (1983)(Carlos, D.)"
+	rom ( name "Neanderthal Man (1983)(Carlos, D.).uef" size 9060 crc d7697535 md5 0a8ccb97b336ddbcc8ca67848ee51f73 )
+)

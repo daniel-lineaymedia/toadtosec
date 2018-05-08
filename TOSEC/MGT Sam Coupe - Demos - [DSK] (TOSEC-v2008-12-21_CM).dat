@@ -1,0 +1,4273 @@
+clrmamepro (
+	name "MGT Sam Coupe - Demos - [DSK]"
+	description "MGT Sam Coupe - Demos - [DSK] (TOSEC-v2008-12-21)"
+	category "MGT Sam Coupe - Demos - [DSK]"
+	version 2008-12-21
+	author "dirkpitt - Grendel - Cowering - Cassiel"
+)
+
+game (
+	name "32-Colour Demo (1992)(Gordon Wallis)(PD)"
+	description "32-Colour Demo (1992)(Gordon Wallis)(PD)"
+	rom ( name "32-Colour Demo (1992)(Gordon Wallis)(PD).dsk" size 819200 crc 8900fbec md5 9289fe2fbc1febc70efe2c621e10edfe )
+)
+
+game (
+	name "Aliens vs Predator (1991)(Gordon Wallis)(PD)"
+	description "Aliens vs Predator (1991)(Gordon Wallis)(PD)"
+	rom ( name "Aliens vs Predator (1991)(Gordon Wallis)(PD).dsk" size 819200 crc 3b0f3a55 md5 781ea3e08eb8e209b496e0c5453d4c1b )
+)
+
+game (
+	name "Astroball (1992)(Balor Knight)"
+	description "Astroball (1992)(Balor Knight)"
+	rom ( name "Astroball (1992)(Balor Knight).dsk" size 819200 crc ca2f39e3 md5 6e08b04ca9792f043d40c340d458157b )
+)
+
+game (
+	name "Banzai - The Games (1994)(Dan Doore)(PD)"
+	description "Banzai - The Games (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai - The Games (1994)(Dan Doore)(PD).dsk" size 819200 crc 491db55f md5 96b3ebbf842f7b4c36a4fa0bbb6e1f5d )
+)
+
+game (
+	name "Banzai (1994)(Dan Doore)(PD)"
+	description "Banzai (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai (1994)(Dan Doore)(PD).dsk" size 819200 crc 9a394558 md5 de45a72764b20da5c5b14aa7132e485f )
+)
+
+game (
+	name "Banzai (1994)(Dan Doore)(PD)[a]"
+	description "Banzai (1994)(Dan Doore)(PD)[a]"
+	rom ( name "Banzai (1994)(Dan Doore)(PD)[a].dsk" size 819200 crc c644e19e md5 42cee322d9ccb4e170fa67e9247732c5 )
+)
+
+game (
+	name "Banzai Babes (1994)(Dan Doore)(PD)"
+	description "Banzai Babes (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Babes (1994)(Dan Doore)(PD).dsk" size 819200 crc 7ea8b3ff md5 ece6fbe32b8c411d34ef0f5204589182 )
+)
+
+game (
+	name "Banzai Babes II (1994)(Dan Doore)(PD)"
+	description "Banzai Babes II (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Babes II (1994)(Dan Doore)(PD).dsk" size 819200 crc 677510f5 md5 8db6dc6a534928804df99a0f031c4e7c )
+)
+
+game (
+	name "Banzai Pictures (1994)(Dan Doore)(PD)"
+	description "Banzai Pictures (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Pictures (1994)(Dan Doore)(PD).dsk" size 819200 crc 5fa8d3ce md5 f3f096704333e0987785489d0a1a707b )
+)
+
+game (
+	name "Banzai Pictures II - The Atari Job (1994)(Dan Doore)(PD)"
+	description "Banzai Pictures II - The Atari Job (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Pictures II - The Atari Job (1994)(Dan Doore)(PD).dsk" size 819200 crc 038c18a2 md5 493df85e566f8a64a1c7cef3f113706e )
+)
+
+game (
+	name "Banzai Pictures IV - Pics'R'Us (1994)(Dan Doore)(PD)"
+	description "Banzai Pictures IV - Pics'R'Us (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Pictures IV - Pics'R'Us (1994)(Dan Doore)(PD).dsk" size 819200 crc 2f4640fd md5 d0bfa12a5d162be1f1b9334fbeadc504 )
+)
+
+game (
+	name "Banzai Pictures V - Tell 'em Dan Sent Ya..... (1994)(Dan Doore)(PD)"
+	description "Banzai Pictures V - Tell 'em Dan Sent Ya..... (1994)(Dan Doore)(PD)"
+	rom ( name "Banzai Pictures V - Tell 'em Dan Sent Ya..... (1994)(Dan Doore)(PD).dsk" size 819200 crc fdfcdbda md5 37be02db559c0c694fb1de508116dedb )
+)
+
+game (
+	name "Banzai Pictures VII (1996)(Dan Doore)(PD)"
+	description "Banzai Pictures VII (1996)(Dan Doore)(PD)"
+	rom ( name "Banzai Pictures VII (1996)(Dan Doore)(PD).dsk" size 819200 crc c7046707 md5 62e5f79ce1814a86929a33e170a29719 )
+)
+
+game (
+	name "Batz'n'Balls Demo (1992)(Revelation)"
+	description "Batz'n'Balls Demo (1992)(Revelation)"
+	rom ( name "Batz'n'Balls Demo (1992)(Revelation).dsk" size 819200 crc 0ef487e4 md5 1d6aaa2b5a824d5406d1b68fc0cbd30b )
+)
+
+game (
+	name "B-DOS v1.5A (1997)(Martijn Groen & Edwin Blink)(PD)"
+	description "B-DOS v1.5A (1997)(Martijn Groen & Edwin Blink)(PD)"
+	rom ( name "B-DOS v1.5A (1997)(Martijn Groen & Edwin Blink)(PD).dsk" size 819200 crc e8215294 md5 6f4162cb8aef564ee8b8428de87ff188 )
+)
+
+game (
+	name "B-DOS v1.6C (1999)(Martijn Groen & Edwin Blink)(PD)"
+	description "B-DOS v1.6C (1999)(Martijn Groen & Edwin Blink)(PD)"
+	rom ( name "B-DOS v1.6C (1999)(Martijn Groen & Edwin Blink)(PD).dsk" size 819200 crc f164f99d md5 b09395558a2859cac6631e974ffdab85 )
+)
+
+game (
+	name "B-DOS v1.7D (1999)(Martijn Groen & Edwin Blink)(PD)"
+	description "B-DOS v1.7D (1999)(Martijn Groen & Edwin Blink)(PD)"
+	rom ( name "B-DOS v1.7D (1999)(Martijn Groen & Edwin Blink)(PD).dsk" size 819200 crc 6cc28f63 md5 531c3ead52bee66b6b723737eb958885 )
+)
+
+game (
+	name "B-DOS v1.7J (1999)(Martijn Groen & Edwin Blink)(PD)"
+	description "B-DOS v1.7J (1999)(Martijn Groen & Edwin Blink)(PD)"
+	rom ( name "B-DOS v1.7J (1999)(Martijn Groen & Edwin Blink)(PD).dsk" size 819200 crc 87c5922b md5 270fdd639dd78b2ce8765770dee73405 )
+)
+
+game (
+	name "B-DOS v1.7N (1999)(Martijn Groen & Edwin Blink)(PD)"
+	description "B-DOS v1.7N (1999)(Martijn Groen & Edwin Blink)(PD)"
+	rom ( name "B-DOS v1.7N (1999)(Martijn Groen & Edwin Blink)(PD).dsk" size 819200 crc 01188492 md5 0b99728cb273f3e8a041c1976e31c75f )
+)
+
+game (
+	name "Best of KAPSA I-V, The (1993)(KAPSA)"
+	description "Best of KAPSA I-V, The (1993)(KAPSA)"
+	rom ( name "Best of KAPSA I-V, The (1993)(KAPSA).dsk" size 819200 crc 069097e6 md5 ea699d105df7076f1634bc8d94b0d8b3 )
+)
+
+game (
+	name "Blagarama a.k.a. Banzai Pictures VI (1994)(Dan Doore)(PD)"
+	description "Blagarama a.k.a. Banzai Pictures VI (1994)(Dan Doore)(PD)"
+	rom ( name "Blagarama a.k.a. Banzai Pictures VI (1994)(Dan Doore)(PD).dsk" size 819200 crc 03c0f47c md5 07fd512df30e969e3b152c5f36f6a28e )
+)
+
+game (
+	name "Blinky Samples Disk 1 (19xx)(Edwin Blink)"
+	description "Blinky Samples Disk 1 (19xx)(Edwin Blink)"
+	rom ( name "Blinky Samples Disk 1 (19xx)(Edwin Blink).dsk" size 819200 crc 708a7928 md5 805ec446758c58c11ca370eed908e19a )
+)
+
+game (
+	name "Blinky Samples Disk 2 (19xx)(Edwin Blink)"
+	description "Blinky Samples Disk 2 (19xx)(Edwin Blink)"
+	rom ( name "Blinky Samples Disk 2 (19xx)(Edwin Blink).dsk" size 819200 crc 5caa67fc md5 a48a386b18852fe09169420605f1e6f5 )
+)
+
+game (
+	name "Blinky Samples Disk 3 (19xx)(Edwin Blink)"
+	description "Blinky Samples Disk 3 (19xx)(Edwin Blink)"
+	rom ( name "Blinky Samples Disk 3 (19xx)(Edwin Blink).dsk" size 819200 crc 43f84f62 md5 7590b9457226e15e1bac226ff4833f13 )
+)
+
+game (
+	name "Blinky Samples Disk 4 (19xx)(Edwin Blink)"
+	description "Blinky Samples Disk 4 (19xx)(Edwin Blink)"
+	rom ( name "Blinky Samples Disk 4 (19xx)(Edwin Blink).dsk" size 819200 crc 2698dfde md5 aa7bc9bea8d58a47e72231c3a6512476 )
+)
+
+game (
+	name "Blitz 6 (1997)(Edwin Blink)(PD)"
+	description "Blitz 6 (1997)(Edwin Blink)(PD)"
+	rom ( name "Blitz 6 (1997)(Edwin Blink)(PD).dsk" size 819200 crc 6609feaa md5 bf8ae01c7bf7d80ac7a7dfc99ac4ee8d )
+)
+
+game (
+	name "Bunnik2k MOD Slide (2000)(Edwin Blink)"
+	description "Bunnik2k MOD Slide (2000)(Edwin Blink)"
+	rom ( name "Bunnik2k MOD Slide (2000)(Edwin Blink).dsk" size 819200 crc b8a50272 md5 e6e205bf78610c54cbc4bd5813c683f4 )
+)
+
+game (
+	name "Colour Clipart Samples v1.0 (1995-11)(Steve's Software)"
+	description "Colour Clipart Samples v1.0 (1995-11)(Steve's Software)"
+	rom ( name "Colour Clipart Samples v1.0 (1995-11)(Steve's Software).dsk" size 819200 crc b39adaaa md5 1500c6ea26b0894cd01b0d8e7a9654cf )
+)
+
+game (
+	name "Craft! (1992)(ESI)(PD)"
+	description "Craft! (1992)(ESI)(PD)"
+	rom ( name "Craft! (1992)(ESI)(PD).dsk" size 819200 crc f69f5963 md5 9994b686dbb780ef0aafc420da5d9544 )
+)
+
+game (
+	name "Demo Collection 1 (19xx)(-)(PD)"
+	description "Demo Collection 1 (19xx)(-)(PD)"
+	rom ( name "Demo Collection 1 (19xx)(-)(PD).dsk" size 819200 crc 145ac562 md5 0f30cb436d9dd5832af54119b4b0c9e4 )
+)
+
+game (
+	name "Demo Collection 2 (19xx)(-)(PD)"
+	description "Demo Collection 2 (19xx)(-)(PD)"
+	rom ( name "Demo Collection 2 (19xx)(-)(PD).dsk" size 819200 crc a2f74fb8 md5 ab2ed4d235871a4b1edc1af7f3a17bdf )
+)
+
+game (
+	name "Demo Disk and Utils (19xx)(Integrated Logic)(PD)"
+	description "Demo Disk and Utils (19xx)(Integrated Logic)(PD)"
+	rom ( name "Demo Disk and Utils (19xx)(Integrated Logic)(PD).dsk" size 819200 crc 642ce688 md5 0489fdc370144a592908cadb04ff29f4 )
+)
+
+game (
+	name "E-Demo (1992)(Simon Cooke)"
+	description "E-Demo (1992)(Simon Cooke)"
+	rom ( name "E-Demo (1992)(Simon Cooke).dsk" size 819200 crc f0c4d5ac md5 6e8ad60acc55eac780c6887e5b2641e3 )
+)
+
+game (
+	name "Edition Three (1991)(Zenith Graphics)"
+	description "Edition Three (1991)(Zenith Graphics)"
+	rom ( name "Edition Three (1991)(Zenith Graphics).dsk" size 819200 crc 81be5801 md5 3658c3cbc0684ae854c7779f58666bf8 )
+)
+
+game (
+	name "E-Mag Demo (1993)(-)"
+	description "E-Mag Demo (1993)(-)"
+	rom ( name "E-Mag Demo (1993)(-).dsk" size 819200 crc 9d39a30b md5 86d53b7469ead2e9f177b2b2ea04aaed )
+)
+
+game (
+	name "Entro (19xx)(Entropy)(PD)"
+	description "Entro (19xx)(Entropy)(PD)"
+	rom ( name "Entro (19xx)(Entropy)(PD).dsk" size 819200 crc 9c870029 md5 3a8a3dba0e09cce7e6ef6ade1b71d998 )
+)
+
+game (
+	name "Entro 2 (1992)(Entropy)(PD)"
+	description "Entro 2 (1992)(Entropy)(PD)"
+	rom ( name "Entro 2 (1992)(Entropy)(PD).dsk" size 819200 crc fb6ed11e md5 94ca090cb031032561c4b380b822503d )
+)
+
+game (
+	name "Goblin Mountain Adventure (19xx)(-)"
+	description "Goblin Mountain Adventure (19xx)(-)"
+	rom ( name "Goblin Mountain Adventure (19xx)(-).dsk" size 819200 crc 6c745010 md5 a81ff56e0f829ae1d6a83e3248a7cd70 )
+)
+
+game (
+	name "Happy Birthday (19xx)(SamCo)[512K]"
+	description "Happy Birthday (19xx)(SamCo)[512K]"
+	rom ( name "Happy Birthday (19xx)(SamCo)[512K].dsk" size 819200 crc e58a2050 md5 2b7828005535ae7cb807f16a4a01751e )
+)
+
+game (
+	name "Haxagonia (1992)(Fuxoft)"
+	description "Haxagonia (1992)(Fuxoft)"
+	rom ( name "Haxagonia (1992)(Fuxoft).dsk" size 819200 crc a85cc5ea md5 94ef74e933045ee0a55d89fe71ee7d9f )
+)
+
+game (
+	name "Ice Chicken (1995)(ESI)"
+	description "Ice Chicken (1995)(ESI)"
+	rom ( name "Ice Chicken (1995)(ESI).dsk" size 819200 crc f86449e1 md5 0fd5ec8f5c0325f4d5095552686f4253 )
+)
+
+game (
+	name "Infinity - E-Tracker Crack (1993)(Entropy)"
+	description "Infinity - E-Tracker Crack (1993)(Entropy)"
+	rom ( name "Infinity - E-Tracker Crack (1993)(Entropy).dsk" size 819200 crc 2230b41d md5 0ba88ae1d963a36bf36ce0f171791fdc )
+)
+
+game (
+	name "Lettis Demo (1992)(Daniel Cannon)"
+	description "Lettis Demo (1992)(Daniel Cannon)"
+	rom ( name "Lettis Demo (1992)(Daniel Cannon).dsk" size 819200 crc 55829b77 md5 8dbf14018f72fdb9c2f10a439173cb39 )
+)
+
+game (
+	name "Little Joke - Lords Demo (1992)(Lord Insanity)"
+	description "Little Joke - Lords Demo (1992)(Lord Insanity)"
+	rom ( name "Little Joke - Lords Demo (1992)(Lord Insanity).dsk" size 819200 crc e0065408 md5 a6bfe125d08187948f17c9753fe71ab0 )
+)
+
+game (
+	name "Lyra 3 Megademo, The (1993)(ESI)"
+	description "Lyra 3 Megademo, The (1993)(ESI)"
+	rom ( name "Lyra 3 Megademo, The (1993)(ESI).dsk" size 819200 crc 2d833c39 md5 a0f58160a4da5a70c3c7c0cb251266f3 )
+)
+
+game (
+	name "Mega Demo 6 (1991)(Supplement Software - Daton)"
+	description "Mega Demo 6 (1991)(Supplement Software - Daton)"
+	rom ( name "Mega Demo 6 (1991)(Supplement Software - Daton).dsk" size 819200 crc 3613c40f md5 4fcd989ab39148383991c3b99fb16cfc )
+)
+
+game (
+	name "Mega Text Demo III (19xx)(Masters of Magic)"
+	description "Mega Text Demo III (19xx)(Masters of Magic)"
+	rom ( name "Mega Text Demo III (19xx)(Masters of Magic).dsk" size 819200 crc 2d25fe20 md5 3b35fc63504344a34bf63846bc655f83 )
+)
+
+game (
+	name "MNEMO Demo 1 (19xx)(MNEMOtech)"
+	description "MNEMO Demo 1 (19xx)(MNEMOtech)"
+	rom ( name "MNEMO Demo 1 (19xx)(MNEMOtech).dsk" size 819200 crc b2f93dad md5 9cef9f8dc54c2a1b22de2ec05543e3ee )
+)
+
+game (
+	name "MNEMO Demo 2 (19xx)(MNEMOtech)"
+	description "MNEMO Demo 2 (19xx)(MNEMOtech)"
+	rom ( name "MNEMO Demo 2 (19xx)(MNEMOtech).dsk" size 819200 crc 05779029 md5 dc415c0b82600ee890a40b13dbebd893 )
+)
+
+game (
+	name "Morse Code Tutor (1999)(R.J. Wilkinson)(PD)"
+	description "Morse Code Tutor (1999)(R.J. Wilkinson)(PD)"
+	rom ( name "Morse Code Tutor (1999)(R.J. Wilkinson)(PD).dsk" size 819200 crc 362ee4ec md5 e4825a68efc68cdd0093ed07e08eb6ff )
+)
+
+game (
+	name "Mouse Driver v2.0 (19xx)(Steve Taylor)"
+	description "Mouse Driver v2.0 (19xx)(Steve Taylor)"
+	rom ( name "Mouse Driver v2.0 (19xx)(Steve Taylor).dsk" size 819200 crc c9de6f30 md5 a08fb1c14e3fa42abf3ab7b54c80a967 )
+)
+
+game (
+	name "Occult Adventure (1993)(David Munden)(PD)"
+	description "Occult Adventure (1993)(David Munden)(PD)"
+	rom ( name "Occult Adventure (1993)(David Munden)(PD).dsk" size 819200 crc 81a5cb65 md5 f931d941136316d79539c075b6ed4a24 )
+)
+
+game (
+	name "PAW Convertor (19xx)(Martijn Groen)"
+	description "PAW Convertor (19xx)(Martijn Groen)"
+	rom ( name "PAW Convertor (19xx)(Martijn Groen).dsk" size 819200 crc d70ad207 md5 c27e1d7a15a6e1b7ff5f2e127cc6bf9b )
+)
+
+game (
+	name "PC2SAM Disk 1 (1994)(Colonysoft)"
+	description "PC2SAM Disk 1 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 1 (1994)(Colonysoft).dsk" size 819200 crc e59e0b5c md5 942a9282397dc740510b7e29817096be )
+)
+
+game (
+	name "PC2SAM Disk 2 (1994)(Colonysoft)"
+	description "PC2SAM Disk 2 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 2 (1994)(Colonysoft).dsk" size 819200 crc ecd1ca83 md5 8020cff0ecd19e6965e81dd99e196edc )
+)
+
+game (
+	name "PC2SAM Disk 3 (1994)(Colonysoft)"
+	description "PC2SAM Disk 3 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 3 (1994)(Colonysoft).dsk" size 819200 crc 58d7992a md5 46a10e63edb553c5c2314d22837a70d8 )
+)
+
+game (
+	name "PC2SAM Disk 4 (1994)(Colonysoft)"
+	description "PC2SAM Disk 4 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 4 (1994)(Colonysoft).dsk" size 819200 crc f3e42529 md5 00795bd2f7b3920196b39fbcfddc591d )
+)
+
+game (
+	name "PC2SAM Disk 5 (1994)(Colonysoft)"
+	description "PC2SAM Disk 5 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 5 (1994)(Colonysoft).dsk" size 819200 crc 5ecc3751 md5 8225d104ca08ebb4e4d7628cc272e319 )
+)
+
+game (
+	name "PC2SAM Disk 6 (1994)(Colonysoft)"
+	description "PC2SAM Disk 6 (1994)(Colonysoft)"
+	rom ( name "PC2SAM Disk 6 (1994)(Colonysoft).dsk" size 819200 crc 65737183 md5 b7f06a067c919f849051695e06d5b2d1 )
+)
+
+game (
+	name "Pictures & Demos (19xx)(Images SAM Software)"
+	description "Pictures & Demos (19xx)(Images SAM Software)"
+	rom ( name "Pictures & Demos (19xx)(Images SAM Software).dsk" size 819200 crc 8708db34 md5 39bd48f863d20bca1273d75d77643b12 )
+)
+
+game (
+	name "Raytrace Disk 1 (1994)(Colonysoft)"
+	description "Raytrace Disk 1 (1994)(Colonysoft)"
+	rom ( name "Raytrace Disk 1 (1994)(Colonysoft).dsk" size 819200 crc e48091e5 md5 0aaa2322056f1a816aa5fe70dcbfbd6e )
+)
+
+game (
+	name "Sam Adventure System Demo Disk (1992)(Axxent Software)"
+	description "Sam Adventure System Demo Disk (1992)(Axxent Software)"
+	rom ( name "Sam Adventure System Demo Disk (1992)(Axxent Software).dsk" size 819200 crc 64d385f0 md5 3229c0c77201a599ff1cfe1048c650d6 )
+)
+
+game (
+	name "Sam Fire Sample Demo (19xx)(-)"
+	description "Sam Fire Sample Demo (19xx)(-)"
+	rom ( name "Sam Fire Sample Demo (19xx)(-).dsk" size 819200 crc 98a7ccb4 md5 a38b7d159deeecfbe77858475efa00ad )
+)
+
+game (
+	name "Sam Mines (19xx)(MNEMOTech)(PD)"
+	description "Sam Mines (19xx)(MNEMOTech)(PD)"
+	rom ( name "Sam Mines (19xx)(MNEMOTech)(PD).dsk" size 819200 crc 3f557c1d md5 83060af31fe9a595d94e387d5089ecdd )
+)
+
+game (
+	name "SAMart and Slideshow (19xx)(-)"
+	description "SAMart and Slideshow (19xx)(-)"
+	rom ( name "SAMart and Slideshow (19xx)(-).dsk" size 819200 crc 2bcd42c9 md5 08009e1978c1529b52830ec2641f613c )
+)
+
+game (
+	name "SamDemo (1991)(SAM Computers LTD)"
+	description "SamDemo (1991)(SAM Computers LTD)"
+	rom ( name "SamDemo (1991)(SAM Computers LTD).dsk" size 819200 crc fa871802 md5 7645a3cc23afe5a2628c45b344957cb8 )
+)
+
+game (
+	name "Samsational Software (1992)(SCPDSA)"
+	description "Samsational Software (1992)(SCPDSA)"
+	rom ( name "Samsational Software (1992)(SCPDSA).dsk" size 819200 crc a41d5afa md5 77464447bf118eccfb1892152299ae58 )
+)
+
+game (
+	name "Sandman's Shadow (1993)(-)(PD)"
+	description "Sandman's Shadow (1993)(-)(PD)"
+	rom ( name "Sandman's Shadow (1993)(-)(PD).dsk" size 819200 crc 8e37ea6e md5 5080e780a23f95faebbaa32281220617 )
+)
+
+game (
+	name "Sandman's Shadow (1993)(1992)(PD)"
+	description "Sandman's Shadow (1993)(1992)(PD)"
+	rom ( name "Sandman's Shadow (1993)(1992)(PD).dsk" size 819200 crc 5b675b5a md5 cd02636e4d0eb7a43d6280158cda3b95 )
+)
+
+game (
+	name "Sandman's Shadow Level 2 (1993)(-)(PD)"
+	description "Sandman's Shadow Level 2 (1993)(-)(PD)"
+	rom ( name "Sandman's Shadow Level 2 (1993)(-)(PD).dsk" size 819200 crc 7e696b33 md5 896d198d56d785b941ed7012fe6d1f12 )
+)
+
+game (
+	name "SC PD 1 Disc Dir Util (1991)(Steve's Software)"
+	description "SC PD 1 Disc Dir Util (1991)(Steve's Software)"
+	rom ( name "SC PD 1 Disc Dir Util (1991)(Steve's Software).dsk" size 819200 crc fe241546 md5 7763cef4fabe87e7434dfdfee7283030 )
+)
+
+game (
+	name "SC PD 3 (1992)(Steve's Software)"
+	description "SC PD 3 (1992)(Steve's Software)"
+	rom ( name "SC PD 3 (1992)(Steve's Software).dsk" size 819200 crc 7cea153c md5 61ac4a1657a7af915289a5deba9e2a8b )
+)
+
+game (
+	name "Sci-Fi Screens Disk 1 (1994)(ColonySoft)"
+	description "Sci-Fi Screens Disk 1 (1994)(ColonySoft)"
+	rom ( name "Sci-Fi Screens Disk 1 (1994)(ColonySoft).dsk" size 819200 crc caee4ef1 md5 bc726c38b840a6e4efaf8c125d1362d3 )
+)
+
+game (
+	name "SCPDSA Demo (1992)(SCPDSA)"
+	description "SCPDSA Demo (1992)(SCPDSA)"
+	rom ( name "SCPDSA Demo (1992)(SCPDSA).dsk" size 819200 crc a7694b73 md5 0d6159e9f2689154b33b1fa1f72ca266 )
+)
+
+game (
+	name "Silly Demo (1990)(The Lords)"
+	description "Silly Demo (1990)(The Lords)"
+	rom ( name "Silly Demo (1990)(The Lords).dsk" size 819200 crc 9b03ab33 md5 0218ca0c2fa48d218c35fcc95d27ee08 )
+)
+
+game (
+	name "Silly Demo 1 (1990)(The Lords)"
+	description "Silly Demo 1 (1990)(The Lords)"
+	rom ( name "Silly Demo 1 (1990)(The Lords).dsk" size 819200 crc 70f903cf md5 5f709ffbd8d41939d75318020e0474f8 )
+)
+
+game (
+	name "Spectrum 128 Music Disk 1 (19xx)(-)(PD)"
+	description "Spectrum 128 Music Disk 1 (19xx)(-)(PD)"
+	rom ( name "Spectrum 128 Music Disk 1 (19xx)(-)(PD).dsk" size 819200 crc 2716f96c md5 43aebd1160f8cbc1849ba272e53ad42d )
+)
+
+game (
+	name "Spectrum 128 Music Disk 2 (19xx)(-)(PD)"
+	description "Spectrum 128 Music Disk 2 (19xx)(-)(PD)"
+	rom ( name "Spectrum 128 Music Disk 2 (19xx)(-)(PD).dsk" size 819200 crc 9ef17cc9 md5 06f8c302d0b5a1439447310efa89efb6 )
+)
+
+game (
+	name "Splat Demo (1991)(Colin Jordan)"
+	description "Splat Demo (1991)(Colin Jordan)"
+	rom ( name "Splat Demo (1991)(Colin Jordan).dsk" size 819200 crc c723ab70 md5 ec49548a46682cab4fa7f09d5dd33c8f )
+)
+
+game (
+	name "Star (19xx)(-)"
+	description "Star (19xx)(-)"
+	rom ( name "Star (19xx)(-).dsk" size 819200 crc 12d1d5aa md5 67d346946251c1f3ef7da7dbba9bb458 )
+)
+
+game (
+	name "Surprise (1992)(ESI)(PD)"
+	description "Surprise (1992)(ESI)(PD)"
+	rom ( name "Surprise (1992)(ESI)(PD).dsk" size 819200 crc 8457b096 md5 c6832111d4f08d85ee74e0d0212ce9d1 )
+)
+
+game (
+	name "Top Gun 1Mb Demo Disk 1 (19xx)(-)"
+	description "Top Gun 1Mb Demo Disk 1 (19xx)(-)"
+	rom ( name "Top Gun 1Mb Demo Disk 1 (19xx)(-).dsk" size 819200 crc 0194071a md5 4f9df3f52202d9e175310f6c3529d48d )
+)
+
+game (
+	name "Top Gun 1Mb Demo Disk 2 (19xx)(-)"
+	description "Top Gun 1Mb Demo Disk 2 (19xx)(-)"
+	rom ( name "Top Gun 1Mb Demo Disk 2 (19xx)(-).dsk" size 819200 crc 864f3407 md5 724ecfee456b874dbc477689354bf1b0 )
+)
+
+game (
+	name "Vegetable Vacation (19xx)(-)"
+	description "Vegetable Vacation (19xx)(-)"
+	rom ( name "Vegetable Vacation (19xx)(-).dsk" size 819200 crc 01788d33 md5 1b4229a72ac58847665845fe8ba8f267 )
+)
+
+game (
+	name "WaterWorks (19xx)(FRED Publishing)"
+	description "WaterWorks (19xx)(FRED Publishing)"
+	rom ( name "WaterWorks (19xx)(FRED Publishing).dsk" size 819200 crc 07024f2a md5 f0e3b1924c8f7acfa0e00baa7a0d51f1 )
+)
+
+game (
+	name "Witching Hour, The (1993)(John Vincent)"
+	description "Witching Hour, The (1993)(John Vincent)"
+	rom ( name "Witching Hour, The (1993)(John Vincent).dsk" size 819200 crc cb119b4d md5 1b0c727adc398d9300a6f112b2a291de )
+)
+
+game (
+	name "ZUB (1992)(Simon Cooke)"
+	description "ZUB (1992)(Simon Cooke)"
+	rom ( name "ZUB (1992)(Simon Cooke).dsk" size 819200 crc 5dab4338 md5 257cb8481b51381f8d945a2b4f5fa48c )
+)
+
+game (
+	name "ZZZ-UNK-+d-disciplefileconverterstefandrissen"
+	description "ZZZ-UNK-+d-disciplefileconverterstefandrissen"
+	rom ( name "ZZZ-UNK-+d-disciplefileconverterstefandrissen.dsk" size 819200 crc 8f7b4c67 md5 45dd02a4c52f82f6efcc99f77a6bbd5d )
+)
+
+game (
+	name "ZZZ-UNK-ajdisc1"
+	description "ZZZ-UNK-ajdisc1"
+	rom ( name "ZZZ-UNK-ajdisc1.dsk" size 819200 crc 13ad886e md5 a9f28a1cc3ac6f48fdf6f421c3348b5e )
+)
+
+game (
+	name "ZZZ-UNK-ajdisc7"
+	description "ZZZ-UNK-ajdisc7"
+	rom ( name "ZZZ-UNK-ajdisc7.dsk" size 819200 crc c70244aa md5 709a900e2ce2324d1a5c0c4718875721 )
+)
+
+game (
+	name "ZZZ-UNK-ajdisc8"
+	description "ZZZ-UNK-ajdisc8"
+	rom ( name "ZZZ-UNK-ajdisc8.dsk" size 819200 crc c7aba0cd md5 a650e7d2fb55bcbc0ce8c34cf7f3dce7 )
+)
+
+game (
+	name "ZZZ-UNK-aliensdemopart1"
+	description "ZZZ-UNK-aliensdemopart1"
+	rom ( name "ZZZ-UNK-aliensdemopart1.dsk" size 819200 crc 57bef393 md5 182f4fb70754018264d4abf5cd9125a3 )
+)
+
+game (
+	name "ZZZ-UNK-aliensdemopart2"
+	description "ZZZ-UNK-aliensdemopart2"
+	rom ( name "ZZZ-UNK-aliensdemopart2.dsk" size 819200 crc e6a9a85f md5 636afeaddd42af172c3f8f2a9ffe0cdd )
+)
+
+game (
+	name "ZZZ-UNK-all star belch by tobermory (2001) (pd)"
+	description "ZZZ-UNK-all star belch by tobermory (2001) (pd)"
+	rom ( name "ZZZ-UNK-all star belch by tobermory (2001) (pd).dsk" size 819200 crc c555c010 md5 d1881ae15722056477d195992a00d68b )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#gallery 1 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#gallery 1 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#gallery 1 (19xx).dsk" size 819200 crc 642df095 md5 7d145fd05d382cc50ffd9620f314142e )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#gallery 2 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#gallery 2 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#gallery 2 (19xx).dsk" size 819200 crc 62ead93d md5 f958140fd3e0daac1b0fe5583d595af2 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#gallery 3 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#gallery 3 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#gallery 3 (19xx).dsk" size 819200 crc 46e9eaa7 md5 c8487a5b5190350b5b876aca4a395f87 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#games disk 1 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#games disk 1 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#games disk 1 (19xx).dsk" size 819200 crc 168dcc94 md5 8ecdd322fb2e8e3126a78bb4b804864c )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#games disk 3 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#games disk 3 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#games disk 3 (19xx).dsk" size 819200 crc 135a3286 md5 c4fcb32f6dab13184adbee2aa8f54709 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#games disk 4 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#games disk 4 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#games disk 4 (19xx).dsk" size 819200 crc 10198dc3 md5 83084fb80f60eb2214938c1828735259 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 1 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 1 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 1 (19xx).dsk" size 819200 crc fda6f6bf md5 c7809f4f1938e50f474ade69c340995b )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 2 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 2 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 2 (19xx).dsk" size 819200 crc bbfd7eb8 md5 b43ed190de73a74e0a5f99a1b458ce4d )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 3 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 3 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 3 (19xx).dsk" size 819200 crc 5d7b3147 md5 85f0840dbd61008553367a55ed671b7f )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 4 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 4 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 4 (19xx).dsk" size 819200 crc ceea4967 md5 8b7aafa064aea601947a1ac7306b5510 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 5 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 5 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 5 (19xx).dsk" size 819200 crc aaf83e82 md5 9f935d4fef62f65de4899ebece8d6540 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#spectrum disk 6 (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#spectrum disk 6 (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#spectrum disk 6 (19xx).dsk" size 819200 crc 2aabe234 md5 49f5043e1d5867720a38e134e1850c3a )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens compilation#tunes (19xx)"
+	description "ZZZ-UNK-allan stevens compilation#tunes (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens compilation#tunes (19xx).dsk" size 819200 crc 83c5b7d6 md5 c98c574c013c14bfdcb9b0347ec16d6f )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#50 programs to play and write (19xx)"
+	description "ZZZ-UNK-allan stevens#50 programs to play and write (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens#50 programs to play and write (19xx).dsk" size 819200 crc 8f6a31b4 md5 e5fb9613eda270f9af19b5786071b8e3 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#capricorn software disk 1 (1994)"
+	description "ZZZ-UNK-allan stevens#capricorn software disk 1 (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#capricorn software disk 1 (1994).dsk" size 819200 crc 7ed001f5 md5 427f9a072272deefa27a71aa6fc62912 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#capricorn software disk 2 (1994)"
+	description "ZZZ-UNK-allan stevens#capricorn software disk 2 (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#capricorn software disk 2 (1994).dsk" size 819200 crc 02d03768 md5 11a16da648ac891bedc7d3dc151fe28f )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#capricorn software disk 3 unfinished (1994)"
+	description "ZZZ-UNK-allan stevens#capricorn software disk 3 unfinished (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#capricorn software disk 3 unfinished (1994).dsk" size 819200 crc 78e6e019 md5 61366bbfed9e905eb55648cf7e6864c0 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#colour cycle (19xx)"
+	description "ZZZ-UNK-allan stevens#colour cycle (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens#colour cycle (19xx).dsk" size 819200 crc 9566d2d6 md5 9703c0794bfd1698af81670981f2ca22 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#home utilities (1994)"
+	description "ZZZ-UNK-allan stevens#home utilities (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#home utilities (1994).dsk" size 819200 crc b8ee6218 md5 a234354a480da87cc23b169ac3d0bd5b )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#home utilities#seven pack (1994)"
+	description "ZZZ-UNK-allan stevens#home utilities#seven pack (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#home utilities#seven pack (1994).dsk" size 819200 crc 8713a2fd md5 82d4e73ad258e8a8dd4f36037cbd7738 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#learn with timmy under 6s (1994)"
+	description "ZZZ-UNK-allan stevens#learn with timmy under 6s (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#learn with timmy under 6s (1994).dsk" size 819200 crc d71fd169 md5 4861147909a7b15c3c912a8274353cc2 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#learning games (19xx)"
+	description "ZZZ-UNK-allan stevens#learning games (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens#learning games (19xx).dsk" size 819200 crc 03c0c1a8 md5 2b5d70c6e8e5262abef3e8aca5784de5 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#spectrum screens (19xx)"
+	description "ZZZ-UNK-allan stevens#spectrum screens (19xx)"
+	rom ( name "ZZZ-UNK-allan stevens#spectrum screens (19xx).dsk" size 819200 crc c4f81e31 md5 9aa5dd0ba582e20dd1ea41a05e735c84 )
+)
+
+game (
+	name "ZZZ-UNK-allan stevens#world finder (1994)"
+	description "ZZZ-UNK-allan stevens#world finder (1994)"
+	rom ( name "ZZZ-UNK-allan stevens#world finder (1994).dsk" size 819200 crc ef0d0455 md5 4dc00d9a6fff12dae27720e68959bbf7 )
+)
+
+game (
+	name "ZZZ-UNK-almmoduleplayerandtunes"
+	description "ZZZ-UNK-almmoduleplayerandtunes"
+	rom ( name "ZZZ-UNK-almmoduleplayerandtunes.dsk" size 819200 crc a968c508 md5 b04a676d96c434fd19663c6ae06d8eba )
+)
+
+game (
+	name "ZZZ-UNK-amiga mods disk (19xx)"
+	description "ZZZ-UNK-amiga mods disk (19xx)"
+	rom ( name "ZZZ-UNK-amiga mods disk (19xx).dsk" size 819200 crc ff60a5b3 md5 dac64c8706b95573fd007a713b131557 )
+)
+
+game (
+	name "ZZZ-UNK-amradamateurradiologbook"
+	description "ZZZ-UNK-amradamateurradiologbook"
+	rom ( name "ZZZ-UNK-amradamateurradiologbook.dsk" size 819200 crc 0e749e67 md5 cd478ff31722d6bb5fcafaba2d6cadc7 )
+)
+
+game (
+	name "ZZZ-UNK-andrewcollierillusionpd"
+	description "ZZZ-UNK-andrewcollierillusionpd"
+	rom ( name "ZZZ-UNK-andrewcollierillusionpd.dsk" size 819200 crc fc5d2595 md5 4b6a5654033402b071be9f927525cf28 )
+)
+
+game (
+	name "ZZZ-UNK-andrewcolliersampaintfonts"
+	description "ZZZ-UNK-andrewcolliersampaintfonts"
+	rom ( name "ZZZ-UNK-andrewcolliersampaintfonts.dsk" size 819200 crc ccfbac00 md5 41f88ff6e4d9a088fc4c0ba772997de3 )
+)
+
+game (
+	name "ZZZ-UNK-andymonksmusic"
+	description "ZZZ-UNK-andymonksmusic"
+	rom ( name "ZZZ-UNK-andymonksmusic.dsk" size 819200 crc 6f640a8d md5 63036ae7f5fba7fd920d8f5abb9d400e )
+)
+
+game (
+	name "ZZZ-UNK-animations1"
+	description "ZZZ-UNK-animations1"
+	rom ( name "ZZZ-UNK-animations1.dsk" size 819200 crc ffcd6c24 md5 5c50d696fb6dfc0111ee589e6802d0fe )
+)
+
+game (
+	name "ZZZ-UNK-animations2"
+	description "ZZZ-UNK-animations2"
+	rom ( name "ZZZ-UNK-animations2.dsk" size 819200 crc 94b6aa55 md5 3f288c9ecfb349d9caaa8732d84cf26f )
+)
+
+game (
+	name "ZZZ-UNK-animations3"
+	description "ZZZ-UNK-animations3"
+	rom ( name "ZZZ-UNK-animations3.dsk" size 819200 crc bd05a9bb md5 11cae0b315c6f2941d62aee642eb60de )
+)
+
+game (
+	name "ZZZ-UNK-archimedesgraphicsdiskdaveledburydanielcannon"
+	description "ZZZ-UNK-archimedesgraphicsdiskdaveledburydanielcannon"
+	rom ( name "ZZZ-UNK-archimedesgraphicsdiskdaveledburydanielcannon.dsk" size 819200 crc 071c296f md5 cc0d96f2d880e45e8f23f4ebc39e3d1a )
+)
+
+game (
+	name "ZZZ-UNK-assembledisk"
+	description "ZZZ-UNK-assembledisk"
+	rom ( name "ZZZ-UNK-assembledisk.dsk" size 819200 crc cd05bef4 md5 3c6e91b0b90a4c9419eec82ed07af5ff )
+)
+
+game (
+	name "ZZZ-UNK-assembledisk1"
+	description "ZZZ-UNK-assembledisk1"
+	rom ( name "ZZZ-UNK-assembledisk1.dsk" size 819200 crc 8ffd83e3 md5 5816126109fb8c6ed6d6e13fc96f505f )
+)
+
+game (
+	name "ZZZ-UNK-assembly&pokers"
+	description "ZZZ-UNK-assembly&pokers"
+	rom ( name "ZZZ-UNK-assembly&pokers.dsk" size 819200 crc 1f71ed0a md5 349e7a649f76385a661121c979dbefbd )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk12"
+	description "ZZZ-UNK-axoftdemocollectiondisk12"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk12.dsk" size 819200 crc 67fc0339 md5 a31429e77c59a40af53d00454a219679 )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk2"
+	description "ZZZ-UNK-axoftdemocollectiondisk2"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk2.dsk" size 819200 crc b2cdf271 md5 3b97f2f7acd3419fee8c8219096a9f66 )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk6"
+	description "ZZZ-UNK-axoftdemocollectiondisk6"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk6.dsk" size 819200 crc e94c131f md5 f8eeab3824b7f734fd6ddb3260766b28 )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk7"
+	description "ZZZ-UNK-axoftdemocollectiondisk7"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk7.dsk" size 819200 crc 5abead71 md5 1d3736cbd22aa8d8512fff103d95ac91 )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk8"
+	description "ZZZ-UNK-axoftdemocollectiondisk8"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk8.dsk" size 819200 crc d37bc6bd md5 693b8138af15e19839435cf96e264829 )
+)
+
+game (
+	name "ZZZ-UNK-axoftdemocollectiondisk9"
+	description "ZZZ-UNK-axoftdemocollectiondisk9"
+	rom ( name "ZZZ-UNK-axoftdemocollectiondisk9.dsk" size 819200 crc e8748614 md5 7d2f3cb6f2c580265107e678e942438b )
+)
+
+game (
+	name "ZZZ-UNK-ballsdemobygp"
+	description "ZZZ-UNK-ballsdemobygp"
+	rom ( name "ZZZ-UNK-ballsdemobygp.dsk" size 819200 crc 7b6b5a3e md5 5e389b684076e9199d3ea7a97dd7f53c )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 1"
+	description "ZZZ-UNK-banzai mods 1"
+	rom ( name "ZZZ-UNK-banzai mods 1.dsk" size 819200 crc f7fc8520 md5 c29b3d0951fda2946b48d34e893ef968 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 10"
+	description "ZZZ-UNK-banzai mods 10"
+	rom ( name "ZZZ-UNK-banzai mods 10.dsk" size 819200 crc 79318075 md5 6bb46d46d0330315fc43b9fa9f3f0c8d )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 11"
+	description "ZZZ-UNK-banzai mods 11"
+	rom ( name "ZZZ-UNK-banzai mods 11.dsk" size 819200 crc 23cb0dea md5 7fb12e97258693cb8a5a6ba4fcfbae15 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 12"
+	description "ZZZ-UNK-banzai mods 12"
+	rom ( name "ZZZ-UNK-banzai mods 12.dsk" size 819200 crc 6db77f3f md5 d55bef67058fffd4b7f955d6794648ac )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 13"
+	description "ZZZ-UNK-banzai mods 13"
+	rom ( name "ZZZ-UNK-banzai mods 13.dsk" size 819200 crc c75d40d9 md5 9ca519f2f480b851c186bf94a315c0ff )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 14"
+	description "ZZZ-UNK-banzai mods 14"
+	rom ( name "ZZZ-UNK-banzai mods 14.dsk" size 819200 crc dd413c5d md5 89efd14b7e2c80fb9872cb5dd097c126 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 15"
+	description "ZZZ-UNK-banzai mods 15"
+	rom ( name "ZZZ-UNK-banzai mods 15.dsk" size 819200 crc 894b1429 md5 f1e7af4eef47f0306a9b42e5cfc4ce99 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 16"
+	description "ZZZ-UNK-banzai mods 16"
+	rom ( name "ZZZ-UNK-banzai mods 16.dsk" size 819200 crc cd61cb70 md5 4f3b656c1c67145009d8ffa3a039d46a )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 17"
+	description "ZZZ-UNK-banzai mods 17"
+	rom ( name "ZZZ-UNK-banzai mods 17.dsk" size 819200 crc ebcc1ed3 md5 7809d6d62c4ffa94a52af61d1343e33d )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 18"
+	description "ZZZ-UNK-banzai mods 18"
+	rom ( name "ZZZ-UNK-banzai mods 18.dsk" size 819200 crc 8543bdc6 md5 8f40a336ab88fe65583a089288aef192 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 19"
+	description "ZZZ-UNK-banzai mods 19"
+	rom ( name "ZZZ-UNK-banzai mods 19.dsk" size 819200 crc 3d8cc52a md5 492a0ee7aa89a488a74714f86d280085 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 2"
+	description "ZZZ-UNK-banzai mods 2"
+	rom ( name "ZZZ-UNK-banzai mods 2.dsk" size 819200 crc 5bfba2ba md5 2be8c19ab70bf702c51cbac6dd1f52ff )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 20"
+	description "ZZZ-UNK-banzai mods 20"
+	rom ( name "ZZZ-UNK-banzai mods 20.dsk" size 819200 crc aef40bf8 md5 89bf53d611feac01beda1963b7e0e1c0 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 21"
+	description "ZZZ-UNK-banzai mods 21"
+	rom ( name "ZZZ-UNK-banzai mods 21.dsk" size 819200 crc 97337f25 md5 f97547108f350e4e44895f3457037c40 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 22"
+	description "ZZZ-UNK-banzai mods 22"
+	rom ( name "ZZZ-UNK-banzai mods 22.dsk" size 819200 crc 886fffe4 md5 3f3834a57635335067d235a80186a92f )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 23"
+	description "ZZZ-UNK-banzai mods 23"
+	rom ( name "ZZZ-UNK-banzai mods 23.dsk" size 819200 crc 34606bc8 md5 2e86445b6c1d435c56e383817cee58f5 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 24"
+	description "ZZZ-UNK-banzai mods 24"
+	rom ( name "ZZZ-UNK-banzai mods 24.dsk" size 819200 crc a24174e4 md5 1ceaad0d6857449c043d365490153031 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 25"
+	description "ZZZ-UNK-banzai mods 25"
+	rom ( name "ZZZ-UNK-banzai mods 25.dsk" size 819200 crc 2b569798 md5 f9d408cde3bc99c9b4e8ff0b4993d947 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 26"
+	description "ZZZ-UNK-banzai mods 26"
+	rom ( name "ZZZ-UNK-banzai mods 26.dsk" size 819200 crc 14709f00 md5 23b286b11ebe490435d8f8a530b2be4f )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 27"
+	description "ZZZ-UNK-banzai mods 27"
+	rom ( name "ZZZ-UNK-banzai mods 27.dsk" size 819200 crc 13551f22 md5 bae7a7f25b17f407d8b6b8cb4f7392ec )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 28"
+	description "ZZZ-UNK-banzai mods 28"
+	rom ( name "ZZZ-UNK-banzai mods 28.dsk" size 819200 crc bfc4fc71 md5 af9fa60bf8401b8b1c324b503d84a4ac )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 29"
+	description "ZZZ-UNK-banzai mods 29"
+	rom ( name "ZZZ-UNK-banzai mods 29.dsk" size 819200 crc 02dea40b md5 f8e58f7abe1e56524b6efc6f145e6b9f )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 3"
+	description "ZZZ-UNK-banzai mods 3"
+	rom ( name "ZZZ-UNK-banzai mods 3.dsk" size 819200 crc 1a7a90c7 md5 92e19dcc2a91cd24ac5e13b6dd8c7274 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 30"
+	description "ZZZ-UNK-banzai mods 30"
+	rom ( name "ZZZ-UNK-banzai mods 30.dsk" size 819200 crc 2873f1d0 md5 d115d22c8a9571ff6aa98072c433f690 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 31"
+	description "ZZZ-UNK-banzai mods 31"
+	rom ( name "ZZZ-UNK-banzai mods 31.dsk" size 819200 crc c791cb9d md5 41daab7c4c01697f3a605cb5ea1ed8bd )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 4"
+	description "ZZZ-UNK-banzai mods 4"
+	rom ( name "ZZZ-UNK-banzai mods 4.dsk" size 819200 crc 28cf6af9 md5 fc12e03b0357daee3f8f56961f4fc207 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 5"
+	description "ZZZ-UNK-banzai mods 5"
+	rom ( name "ZZZ-UNK-banzai mods 5.dsk" size 819200 crc dfc342ab md5 90241ff6eb707a6d17fc55eed0d9c706 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 6"
+	description "ZZZ-UNK-banzai mods 6"
+	rom ( name "ZZZ-UNK-banzai mods 6.dsk" size 819200 crc da5c073f md5 c49002c3cc382e1e9d4949659bf7e087 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 7"
+	description "ZZZ-UNK-banzai mods 7"
+	rom ( name "ZZZ-UNK-banzai mods 7.dsk" size 819200 crc ecefedf3 md5 2579ee6cd155fdcd8ee9876c37c6bc7e )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 8"
+	description "ZZZ-UNK-banzai mods 8"
+	rom ( name "ZZZ-UNK-banzai mods 8.dsk" size 819200 crc ab2c94c4 md5 db11f58fec468bdacff0cac01c06e8f6 )
+)
+
+game (
+	name "ZZZ-UNK-banzai mods 9"
+	description "ZZZ-UNK-banzai mods 9"
+	rom ( name "ZZZ-UNK-banzai mods 9.dsk" size 819200 crc dc8d446e md5 01b0d3e07cb4023b6df48fc7736f7b06 )
+)
+
+game (
+	name "ZZZ-UNK-banzai pictures iii#the pc blag by dan doore (1994) (pd)"
+	description "ZZZ-UNK-banzai pictures iii#the pc blag by dan doore (1994) (pd)"
+	rom ( name "ZZZ-UNK-banzai pictures iii#the pc blag by dan doore (1994) (pd).dsk" size 819200 crc 5bbfcfb6 md5 d62ccf710b45239d4de51fb20ca1d8a0 )
+)
+
+game (
+	name "ZZZ-UNK-banzai#the games compliation by dan doore (1995) (pd) [a]"
+	description "ZZZ-UNK-banzai#the games compliation by dan doore (1995) (pd) [a]"
+	rom ( name "ZZZ-UNK-banzai#the games compliation by dan doore (1995) (pd) [a].dsk" size 819200 crc 2aeb010f md5 ef3574e7afaa3c22956a08644d2ff026 )
+)
+
+game (
+	name "ZZZ-UNK-banzaispectiles1.2"
+	description "ZZZ-UNK-banzaispectiles1.2"
+	rom ( name "ZZZ-UNK-banzaispectiles1.2.dsk" size 819200 crc d299791b md5 e8e4ddddf08beb98be4081c64bffdd6f )
+)
+
+game (
+	name "ZZZ-UNK-basicmandelbrotgenerator"
+	description "ZZZ-UNK-basicmandelbrotgenerator"
+	rom ( name "ZZZ-UNK-basicmandelbrotgenerator.dsk" size 819200 crc 91c48bb5 md5 b59513fbbf3395e28cd3851e93600aca )
+)
+
+game (
+	name "ZZZ-UNK-basicprograms"
+	description "ZZZ-UNK-basicprograms"
+	rom ( name "ZZZ-UNK-basicprograms.dsk" size 819200 crc d22ddbc0 md5 9dd5a49f7ea501978509bf7b7628ede0 )
+)
+
+game (
+	name "ZZZ-UNK-basicscrollypokers"
+	description "ZZZ-UNK-basicscrollypokers"
+	rom ( name "ZZZ-UNK-basicscrollypokers.dsk" size 819200 crc d4cf02c4 md5 d4db8b39997384e5efce76595cc84ce7 )
+)
+
+game (
+	name "ZZZ-UNK-batsnballsdemo"
+	description "ZZZ-UNK-batsnballsdemo"
+	rom ( name "ZZZ-UNK-batsnballsdemo.dsk" size 819200 crc 2ea5d804 md5 e674523bd96750e615896947d1389a7d )
+)
+
+game (
+	name "ZZZ-UNK-batz 'n' balls demo.tap"
+	description "ZZZ-UNK-batz 'n' balls demo.tap"
+	rom ( name "ZZZ-UNK-batz 'n' balls demo.tap.dsk" size 39589 crc 719ad141 md5 86e90a16352be61b000eadb738ed17ff )
+)
+
+game (
+	name "ZZZ-UNK-bcdskv1.0arnedirusso"
+	description "ZZZ-UNK-bcdskv1.0arnedirusso"
+	rom ( name "ZZZ-UNK-bcdskv1.0arnedirusso.dsk" size 819200 crc 57533cc0 md5 407f0e15cbd06e26e1fa07a8b42c0d83 )
+)
+
+game (
+	name "ZZZ-UNK-bdos14e"
+	description "ZZZ-UNK-bdos14e"
+	rom ( name "ZZZ-UNK-bdos14e.dsk" size 819200 crc 89eeecde md5 5e547a7b65266fcc08ee7942b2ae0250 )
+)
+
+game (
+	name "ZZZ-UNK-bdos17g"
+	description "ZZZ-UNK-bdos17g"
+	rom ( name "ZZZ-UNK-bdos17g.dsk" size 819200 crc 9e14b283 md5 1edf822f0a8bbe4d2a78b01cede33877 )
+)
+
+game (
+	name "ZZZ-UNK-bdos17i"
+	description "ZZZ-UNK-bdos17i"
+	rom ( name "ZZZ-UNK-bdos17i.dsk" size 819200 crc 1d208e78 md5 5847aa932708e8cdb2b666ec9e42ab8e )
+)
+
+game (
+	name "ZZZ-UNK-bdos17q"
+	description "ZZZ-UNK-bdos17q"
+	rom ( name "ZZZ-UNK-bdos17q.dsk" size 819200 crc b4094eba md5 87b6026c9faec530d2af99f1c265e933 )
+)
+
+game (
+	name "ZZZ-UNK-best of kapsa i-v, the (1993) (kapsa) [a]"
+	description "ZZZ-UNK-best of kapsa i-v, the (1993) (kapsa) [a]"
+	rom ( name "ZZZ-UNK-best of kapsa i-v, the (1993) (kapsa) [a].dsk" size 819200 crc a34009af md5 41208d42a91da74737b56c7905fa381d )
+)
+
+game (
+	name "ZZZ-UNK-bestoffred"
+	description "ZZZ-UNK-bestoffred"
+	rom ( name "ZZZ-UNK-bestoffred.dsk" size 819200 crc 173017b8 md5 fd4e3b2d9c9673351e4c646401f0bfa9 )
+)
+
+game (
+	name "ZZZ-UNK-bestofkapsa"
+	description "ZZZ-UNK-bestofkapsa"
+	rom ( name "ZZZ-UNK-bestofkapsa.dsk" size 819200 crc 2289ff43 md5 e4a833661e8f44a6c0c904fbbd4f8b47 )
+)
+
+game (
+	name "ZZZ-UNK-bigscrollerdemogeoffwinkless"
+	description "ZZZ-UNK-bigscrollerdemogeoffwinkless"
+	rom ( name "ZZZ-UNK-bigscrollerdemogeoffwinkless.dsk" size 819200 crc 50690d6f md5 8205995e598af06534de8abb40eb36d5 )
+)
+
+game (
+	name "ZZZ-UNK-blancmange burps 2#smell the glove! by tobermory (2001) (pd)"
+	description "ZZZ-UNK-blancmange burps 2#smell the glove! by tobermory (2001) (pd)"
+	rom ( name "ZZZ-UNK-blancmange burps 2#smell the glove! by tobermory (2001) (pd).dsk" size 819200 crc 66fe5b2e md5 b61009c1c93afd86d2679ea27d069a67 )
+)
+
+game (
+	name "ZZZ-UNK-blancmange burps by tobermory (2001) (pd)"
+	description "ZZZ-UNK-blancmange burps by tobermory (2001) (pd)"
+	rom ( name "ZZZ-UNK-blancmange burps by tobermory (2001) (pd).dsk" size 819200 crc 45f3c484 md5 9ff79bae8973d022a3b357e99f301e7e )
+)
+
+game (
+	name "ZZZ-UNK-blast turbo! by james r curry (1995) (pd)"
+	description "ZZZ-UNK-blast turbo! by james r curry (1995) (pd)"
+	rom ( name "ZZZ-UNK-blast turbo! by james r curry (1995) (pd).dsk" size 819200 crc da07c55f md5 3fe459322db3fc47e02494d8e5849daa )
+)
+
+game (
+	name "ZZZ-UNK-blastturbo!"
+	description "ZZZ-UNK-blastturbo!"
+	rom ( name "ZZZ-UNK-blastturbo!.dsk" size 819200 crc 4cd996fd md5 831af953efa4a2d63a22c5199f77596c )
+)
+
+game (
+	name "ZZZ-UNK-blinky2"
+	description "ZZZ-UNK-blinky2"
+	rom ( name "ZZZ-UNK-blinky2.dsk" size 819200 crc 58318034 md5 c1421966427fa384b4d2a087cf75d982 )
+)
+
+game (
+	name "ZZZ-UNK-blinky4"
+	description "ZZZ-UNK-blinky4"
+	rom ( name "ZZZ-UNK-blinky4.dsk" size 819200 crc 95366f72 md5 32f0fe1c918ee557aedd2f2a6c3b4b93 )
+)
+
+game (
+	name "ZZZ-UNK-blondie and dagwood, arkanoid, prince of the yolk folk (199x)"
+	description "ZZZ-UNK-blondie and dagwood, arkanoid, prince of the yolk folk (199x)"
+	rom ( name "ZZZ-UNK-blondie and dagwood, arkanoid, prince of the yolk folk (199x).dsk" size 819200 crc ef743b1f md5 932afeef642bbf35a93f288a3b90f518 )
+)
+
+game (
+	name "ZZZ-UNK-blondieanddagwoodandscreens"
+	description "ZZZ-UNK-blondieanddagwoodandscreens"
+	rom ( name "ZZZ-UNK-blondieanddagwoodandscreens.dsk" size 819200 crc 8b4ff3d2 md5 c2d218e6f9c0669a9b64dd7e0a14443c )
+)
+
+game (
+	name "ZZZ-UNK-buzzdemo2lordblackadder"
+	description "ZZZ-UNK-buzzdemo2lordblackadder"
+	rom ( name "ZZZ-UNK-buzzdemo2lordblackadder.dsk" size 819200 crc b69d0ca5 md5 5f5af4c685263f749abc9411997cda8e )
+)
+
+game (
+	name "ZZZ-UNK-campionthespreadsheet"
+	description "ZZZ-UNK-campionthespreadsheet"
+	rom ( name "ZZZ-UNK-campionthespreadsheet.dsk" size 819200 crc 2727cbf4 md5 5424b3487d38b1d5c966cab1480c1384 )
+)
+
+game (
+	name "ZZZ-UNK-captaincomic"
+	description "ZZZ-UNK-captaincomic"
+	rom ( name "ZZZ-UNK-captaincomic.dsk" size 819200 crc ad5d7789 md5 c35d6b1d8996cc65e8444ba83f818b46 )
+)
+
+game (
+	name "ZZZ-UNK-cartoon"
+	description "ZZZ-UNK-cartoon"
+	rom ( name "ZZZ-UNK-cartoon.dsk" size 819200 crc 54d81344 md5 4c1372c4da8a65c76a384c190161af5b )
+)
+
+game (
+	name "ZZZ-UNK-cdplayermoduleplayer"
+	description "ZZZ-UNK-cdplayermoduleplayer"
+	rom ( name "ZZZ-UNK-cdplayermoduleplayer.dsk" size 819200 crc f2c9b9da md5 6953e1df521c9c546ce7c5888b9f32b0 )
+)
+
+game (
+	name "ZZZ-UNK-cheats by paul crompton (1994) (pd)"
+	description "ZZZ-UNK-cheats by paul crompton (1994) (pd)"
+	rom ( name "ZZZ-UNK-cheats by paul crompton (1994) (pd).dsk" size 819200 crc 6c44bc99 md5 7cd0f223b88da4f6d99698fdf51f7f3a )
+)
+
+game (
+	name "ZZZ-UNK-childishdemobydvb"
+	description "ZZZ-UNK-childishdemobydvb"
+	rom ( name "ZZZ-UNK-childishdemobydvb.dsk" size 819200 crc f5804456 md5 42fa3e8143747c6a6bdb2b34bb0a4599 )
+)
+
+game (
+	name "ZZZ-UNK-clock-mouse-prscr_emu_v1-0"
+	description "ZZZ-UNK-clock-mouse-prscr_emu_v1-0"
+	rom ( name "ZZZ-UNK-clock-mouse-prscr_emu_v1-0.dsk" size 819200 crc dc2cc389 md5 9fe2e7b3744d885b1392ca92d7faa590 )
+)
+
+game (
+	name "ZZZ-UNK-colinpiggotetrackermoduleextractor"
+	description "ZZZ-UNK-colinpiggotetrackermoduleextractor"
+	rom ( name "ZZZ-UNK-colinpiggotetrackermoduleextractor.dsk" size 819200 crc 5dc5eac4 md5 90423a1765b6ee1f6dfe6c239a3c5cd4 )
+)
+
+game (
+	name "ZZZ-UNK-colinpiggottmod-etrackerconverter"
+	description "ZZZ-UNK-colinpiggottmod-etrackerconverter"
+	rom ( name "ZZZ-UNK-colinpiggottmod-etrackerconverter.dsk" size 819200 crc 9033e716 md5 3b12b079c5f1a27b747a43664faf16ae )
+)
+
+game (
+	name "ZZZ-UNK-coloris"
+	description "ZZZ-UNK-coloris"
+	rom ( name "ZZZ-UNK-coloris.dsk" size 819200 crc eed84930 md5 79c9bffa62e176730478c75b0983214a )
+)
+
+game (
+	name "ZZZ-UNK-comet opcodes by tobermory (2001) (pd)"
+	description "ZZZ-UNK-comet opcodes by tobermory (2001) (pd)"
+	rom ( name "ZZZ-UNK-comet opcodes by tobermory (2001) (pd).dsk" size 819200 crc 9fd67b31 md5 8c0a50bc7a88e68c9c471414c22dc00f )
+)
+
+game (
+	name "ZZZ-UNK-comet to ascii by simon cooke (1995)"
+	description "ZZZ-UNK-comet to ascii by simon cooke (1995)"
+	rom ( name "ZZZ-UNK-comet to ascii by simon cooke (1995).dsk" size 819200 crc 4cfa842a md5 eac4a2553971017de55a82f27371f27d )
+)
+
+game (
+	name "ZZZ-UNK-comet_decompiler"
+	description "ZZZ-UNK-comet_decompiler"
+	rom ( name "ZZZ-UNK-comet_decompiler.dsk" size 819200 crc 32fd43bd md5 0e28b7bba397f1d86cd34e9a739230e4 )
+)
+
+game (
+	name "ZZZ-UNK-cometassembler1.8edwinblink"
+	description "ZZZ-UNK-cometassembler1.8edwinblink"
+	rom ( name "ZZZ-UNK-cometassembler1.8edwinblink.dsk" size 819200 crc ead0d420 md5 80c528943e790558a945d8a2d11fb451 )
+)
+
+game (
+	name "ZZZ-UNK-commix v2.00 by s. grodkowski (1995) (pd)"
+	description "ZZZ-UNK-commix v2.00 by s. grodkowski (1995) (pd)"
+	rom ( name "ZZZ-UNK-commix v2.00 by s. grodkowski (1995) (pd).dsk" size 819200 crc 6e0807b4 md5 7d104742b4d3bee245bd0054b7d2efcb )
+)
+
+game (
+	name "ZZZ-UNK-commix v2.01 by s. grodkowski (1995) (pd)"
+	description "ZZZ-UNK-commix v2.01 by s. grodkowski (1995) (pd)"
+	rom ( name "ZZZ-UNK-commix v2.01 by s. grodkowski (1995) (pd).dsk" size 819200 crc 332e1850 md5 d1b7ee3112c94455513305091c3768e6 )
+)
+
+game (
+	name "ZZZ-UNK-commix v2.02 by s. grodkowski (1995) (pd)"
+	description "ZZZ-UNK-commix v2.02 by s. grodkowski (1995) (pd)"
+	rom ( name "ZZZ-UNK-commix v2.02 by s. grodkowski (1995) (pd).dsk" size 819200 crc 28ee58d5 md5 953524ace176c40d5fca898ed5b92656 )
+)
+
+game (
+	name "ZZZ-UNK-commix#lcb won't unpack"
+	description "ZZZ-UNK-commix#lcb won't unpack"
+	rom ( name "ZZZ-UNK-commix#lcb won't unpack.dsk" size 819200 crc 703ab31d md5 4f6ca181f4e4a91c9a123c993f3899d6 )
+)
+
+game (
+	name "ZZZ-UNK-commix2.0"
+	description "ZZZ-UNK-commix2.0"
+	rom ( name "ZZZ-UNK-commix2.0.dsk" size 819200 crc 25dd15ae md5 ee6e8d13acff8a7a798b9613aff171eb )
+)
+
+game (
+	name "ZZZ-UNK-commix2.01"
+	description "ZZZ-UNK-commix2.01"
+	rom ( name "ZZZ-UNK-commix2.01.dsk" size 819200 crc b6fb3be7 md5 254d37111e07d1c908358cd3cebf6ad9 )
+)
+
+game (
+	name "ZZZ-UNK-commix2.02"
+	description "ZZZ-UNK-commix2.02"
+	rom ( name "ZZZ-UNK-commix2.02.dsk" size 819200 crc 55a1dbc5 md5 8cdf60dfa77630267d907203e42e9bb0 )
+)
+
+game (
+	name "ZZZ-UNK-comms loader (19xx)"
+	description "ZZZ-UNK-comms loader (19xx)"
+	rom ( name "ZZZ-UNK-comms loader (19xx).dsk" size 819200 crc df2584af md5 1e8b21090e1f4122a767a55815bc2a8b )
+)
+
+game (
+	name "ZZZ-UNK-contactbestofpd1990"
+	description "ZZZ-UNK-contactbestofpd1990"
+	rom ( name "ZZZ-UNK-contactbestofpd1990.dsk" size 819200 crc 5eba1531 md5 c3a2e3fcbcecdde95b141beb534cea61 )
+)
+
+game (
+	name "ZZZ-UNK-craigturberfieldlemmingstunes1"
+	description "ZZZ-UNK-craigturberfieldlemmingstunes1"
+	rom ( name "ZZZ-UNK-craigturberfieldlemmingstunes1.dsk" size 819200 crc 6ce311e7 md5 c19faf125dc4d9d787549308bb502f3e )
+)
+
+game (
+	name "ZZZ-UNK-craigturberfieldlemmingstunes2"
+	description "ZZZ-UNK-craigturberfieldlemmingstunes2"
+	rom ( name "ZZZ-UNK-craigturberfieldlemmingstunes2.dsk" size 819200 crc 5c47491b md5 d17c0ce4d58a6eaa3a42687678b9bbfd )
+)
+
+game (
+	name "ZZZ-UNK-craigturberfieldlemmingstunes3"
+	description "ZZZ-UNK-craigturberfieldlemmingstunes3"
+	rom ( name "ZZZ-UNK-craigturberfieldlemmingstunes3.dsk" size 819200 crc d610a726 md5 af79cdddd6032f44e939867422a1e93d )
+)
+
+game (
+	name "ZZZ-UNK-dabossdiaz2"
+	description "ZZZ-UNK-dabossdiaz2"
+	rom ( name "ZZZ-UNK-dabossdiaz2.dsk" size 819200 crc 36aa46e8 md5 c34a642a4fe34b5e3d49fb4e8a152635 )
+)
+
+game (
+	name "ZZZ-UNK-databeforecompression"
+	description "ZZZ-UNK-databeforecompression"
+	rom ( name "ZZZ-UNK-databeforecompression.dsk" size 819200 crc f3bb3c01 md5 8275a9dbeeac81d97886598201d5d477 )
+)
+
+game (
+	name "ZZZ-UNK-datonanglepoisedemo"
+	description "ZZZ-UNK-datonanglepoisedemo"
+	rom ( name "ZZZ-UNK-datonanglepoisedemo.dsk" size 819200 crc 5c4a6bca md5 a572ea934a1dbb79f01199156b817ff4 )
+)
+
+game (
+	name "ZZZ-UNK-datonmasterbasicdemos"
+	description "ZZZ-UNK-datonmasterbasicdemos"
+	rom ( name "ZZZ-UNK-datonmasterbasicdemos.dsk" size 819200 crc 9d615379 md5 7d071469de049fc161e4e9290d79954d )
+)
+
+game (
+	name "ZZZ-UNK-datonmasterdosutilitydiskv3.0"
+	description "ZZZ-UNK-datonmasterdosutilitydiskv3.0"
+	rom ( name "ZZZ-UNK-datonmasterdosutilitydiskv3.0.dsk" size 819200 crc 8f06ccfa md5 36209d287d13ae30c85c906c45646b40 )
+)
+
+game (
+	name "ZZZ-UNK-datonsamcolouringbook"
+	description "ZZZ-UNK-datonsamcolouringbook"
+	rom ( name "ZZZ-UNK-datonsamcolouringbook.dsk" size 819200 crc cc2e1f3a md5 61c96a4813f73890bddd5831fd57ce87 )
+)
+
+game (
+	name "ZZZ-UNK-datonswisscombatdemo"
+	description "ZZZ-UNK-datonswisscombatdemo"
+	rom ( name "ZZZ-UNK-datonswisscombatdemo.dsk" size 819200 crc 6f0f0191 md5 26caa41b033c1feaa524fe01771311b5 )
+)
+
+game (
+	name "ZZZ-UNK-datonwalker1mbdemo"
+	description "ZZZ-UNK-datonwalker1mbdemo"
+	rom ( name "ZZZ-UNK-datonwalker1mbdemo.dsk" size 819200 crc aceb0315 md5 f3df6f12dfa9463ba5bcb60f78e39429 )
+)
+
+game (
+	name "ZZZ-UNK-davelaundonquazarbspdemo"
+	description "ZZZ-UNK-davelaundonquazarbspdemo"
+	rom ( name "ZZZ-UNK-davelaundonquazarbspdemo.dsk" size 819200 crc 734c4137 md5 fdfd0b6632e74a147e0453b49ebdee66 )
+)
+
+game (
+	name "ZZZ-UNK-deadwildcatmarcbrostervectordemo"
+	description "ZZZ-UNK-deadwildcatmarcbrostervectordemo"
+	rom ( name "ZZZ-UNK-deadwildcatmarcbrostervectordemo.dsk" size 819200 crc 519a9521 md5 16b24e64b2bc041661951df8853651bf )
+)
+
+game (
+	name "ZZZ-UNK-defender compilation (19xx)"
+	description "ZZZ-UNK-defender compilation (19xx)"
+	rom ( name "ZZZ-UNK-defender compilation (19xx).dsk" size 819200 crc 2539b7b8 md5 f380230bafedad45dfe90b402d08f83e )
+)
+
+game (
+	name "ZZZ-UNK-deltasoftblitzissue1"
+	description "ZZZ-UNK-deltasoftblitzissue1"
+	rom ( name "ZZZ-UNK-deltasoftblitzissue1.dsk" size 819200 crc bf9e8b80 md5 70f12984741a2d689d4c7a103eea2f63 )
+)
+
+game (
+	name "ZZZ-UNK-deltasoftblitzissue2"
+	description "ZZZ-UNK-deltasoftblitzissue2"
+	rom ( name "ZZZ-UNK-deltasoftblitzissue2.dsk" size 819200 crc a731721c md5 480c0be297792512b73d856afa91e8cb )
+)
+
+game (
+	name "ZZZ-UNK-demo disk (1994) (pd)"
+	description "ZZZ-UNK-demo disk (1994) (pd)"
+	rom ( name "ZZZ-UNK-demo disk (1994) (pd).dsk" size 819200 crc b6ce836b md5 08a2e3ad7e0084fb1711cc0c0f11d942 )
+)
+
+game (
+	name "ZZZ-UNK-destroyerbydvb"
+	description "ZZZ-UNK-destroyerbydvb"
+	rom ( name "ZZZ-UNK-destroyerbydvb.dsk" size 819200 crc 117c944c md5 11c49f190079888bbbe9fd0d1b13318b )
+)
+
+game (
+	name "ZZZ-UNK-devast"
+	description "ZZZ-UNK-devast"
+	rom ( name "ZZZ-UNK-devast.dsk" size 819200 crc 88b42a0c md5 2c3769f452c1107ff919054160fb1846 )
+)
+
+game (
+	name "ZZZ-UNK-diaz demo 2 (19xx)"
+	description "ZZZ-UNK-diaz demo 2 (19xx)"
+	rom ( name "ZZZ-UNK-diaz demo 2 (19xx).dsk" size 819200 crc c0e02d87 md5 58923f413e406e02cf32c1bc10cbfa7c )
+)
+
+game (
+	name "ZZZ-UNK-dissasemblersource"
+	description "ZZZ-UNK-dissasemblersource"
+	rom ( name "ZZZ-UNK-dissasemblersource.dsk" size 819200 crc bf11aeba md5 af7ac6b5b9d2d57dad22dbb64ef7de38 )
+)
+
+game (
+	name "ZZZ-UNK-d-nutdemo"
+	description "ZZZ-UNK-d-nutdemo"
+	rom ( name "ZZZ-UNK-d-nutdemo.dsk" size 819200 crc bb6db7a5 md5 5c1cd85170bac34ef692043b653ea85b )
+)
+
+game (
+	name "ZZZ-UNK-dostestside1"
+	description "ZZZ-UNK-dostestside1"
+	rom ( name "ZZZ-UNK-dostestside1.dsk" size 819200 crc c4e8f246 md5 669e917ef7f3cd4b15d3066731545f78 )
+)
+
+game (
+	name "ZZZ-UNK-dougholmesgraphics"
+	description "ZZZ-UNK-dougholmesgraphics"
+	rom ( name "ZZZ-UNK-dougholmesgraphics.dsk" size 819200 crc 9531ddc5 md5 5f3c91d656bcacc4e0c044c5414df567 )
+)
+
+game (
+	name "ZZZ-UNK-dougholmes'sgfxdemo"
+	description "ZZZ-UNK-dougholmes'sgfxdemo"
+	rom ( name "ZZZ-UNK-dougholmes'sgfxdemo.dsk" size 819200 crc a779aaf7 md5 55cb2fa8ae7afbdc4f78691ea11756dc )
+)
+
+game (
+	name "ZZZ-UNK-drivermines"
+	description "ZZZ-UNK-drivermines"
+	rom ( name "ZZZ-UNK-drivermines.dsk" size 819200 crc eb5689da md5 1231f444050794de12ccc55ac562437c )
+)
+
+game (
+	name "ZZZ-UNK-driverv1.0wimpsystem"
+	description "ZZZ-UNK-driverv1.0wimpsystem"
+	rom ( name "ZZZ-UNK-driverv1.0wimpsystem.dsk" size 819200 crc c094c21f md5 e639f309afc6e6006d741b4688bfcd7d )
+)
+
+game (
+	name "ZZZ-UNK-ds12 duff capers music demo (2003) (pd)"
+	description "ZZZ-UNK-ds12 duff capers music demo (2003) (pd)"
+	rom ( name "ZZZ-UNK-ds12 duff capers music demo (2003) (pd).dsk" size 819200 crc 20244234 md5 6b32b8a543dfe4f9c5df208bb6fe691e )
+)
+
+game (
+	name "ZZZ-UNK-ds4 80 pixel demo by tobermory & andrew collier (2001) (pd)"
+	description "ZZZ-UNK-ds4 80 pixel demo by tobermory & andrew collier (2001) (pd)"
+	rom ( name "ZZZ-UNK-ds4 80 pixel demo by tobermory & andrew collier (2001) (pd).dsk" size 819200 crc bfc1ba31 md5 5746a1c54e8b74f6014b3a82eca6dcbd )
+)
+
+game (
+	name "ZZZ-UNK-ds5 sin wave distort toy by tobermory & steve taylor (2001) (pd)"
+	description "ZZZ-UNK-ds5 sin wave distort toy by tobermory & steve taylor (2001) (pd)"
+	rom ( name "ZZZ-UNK-ds5 sin wave distort toy by tobermory & steve taylor (2001) (pd).dsk" size 819200 crc ad923840 md5 aab269c8cf7e0e21677f36c8a0cf6b96 )
+)
+
+game (
+	name "ZZZ-UNK-ds7 rainbow scroller (2002) (pd)"
+	description "ZZZ-UNK-ds7 rainbow scroller (2002) (pd)"
+	rom ( name "ZZZ-UNK-ds7 rainbow scroller (2002) (pd).dsk" size 819200 crc 984bd93b md5 c242c1206759ccbc7c87a2386b56c53d )
+)
+
+game (
+	name "ZZZ-UNK-duff capers v0.51 by tobermory (2003) (pd)"
+	description "ZZZ-UNK-duff capers v0.51 by tobermory (2003) (pd)"
+	rom ( name "ZZZ-UNK-duff capers v0.51 by tobermory (2003) (pd).dsk" size 819200 crc 20a7d94e md5 10c1991d04d73602a8e9511520de7abd )
+)
+
+game (
+	name "ZZZ-UNK-easydiscv4.9"
+	description "ZZZ-UNK-easydiscv4.9"
+	rom ( name "ZZZ-UNK-easydiscv4.9.dsk" size 819200 crc c4837365 md5 14f5454285749ac241e9c60b97261869 )
+)
+
+game (
+	name "ZZZ-UNK-easydiscv5.0"
+	description "ZZZ-UNK-easydiscv5.0"
+	rom ( name "ZZZ-UNK-easydiscv5.0.dsk" size 819200 crc a128e9a9 md5 cb43b282d2445e1aee45a15fe617b0fb )
+)
+
+game (
+	name "ZZZ-UNK-e-copierv2.0"
+	description "ZZZ-UNK-e-copierv2.0"
+	rom ( name "ZZZ-UNK-e-copierv2.0.dsk" size 819200 crc 5aac9f68 md5 fb69892e4aac4b5725319187a7cf4914 )
+)
+
+game (
+	name "ZZZ-UNK-e-demo1"
+	description "ZZZ-UNK-e-demo1"
+	rom ( name "ZZZ-UNK-e-demo1.dsk" size 819200 crc 40ff881c md5 ef17d5c85b73dcfa4b6e69187f7f8a75 )
+)
+
+game (
+	name "ZZZ-UNK-edwinblinkspritedemo"
+	description "ZZZ-UNK-edwinblinkspritedemo"
+	rom ( name "ZZZ-UNK-edwinblinkspritedemo.dsk" size 819200 crc 87f6c71a md5 ff31d8a7c51c5510d0ffeed1cef940ce )
+)
+
+game (
+	name "ZZZ-UNK-edwinblinkxmassampledemo"
+	description "ZZZ-UNK-edwinblinkxmassampledemo"
+	rom ( name "ZZZ-UNK-edwinblinkxmassampledemo.dsk" size 819200 crc 16bc8500 md5 7867ab78ac1dcef3e7c3e29ef602845e )
+)
+
+game (
+	name "ZZZ-UNK-eggbum"
+	description "ZZZ-UNK-eggbum"
+	rom ( name "ZZZ-UNK-eggbum.dsk" size 819200 crc 4cf27a4a md5 2b6a5228306c96007da50cb8b9b6207d )
+)
+
+game (
+	name "ZZZ-UNK-e-mon.tap"
+	description "ZZZ-UNK-e-mon.tap"
+	rom ( name "ZZZ-UNK-e-mon.tap.dsk" size 8440 crc 1b64a3b0 md5 32f4e054e58d7ac6216e33ed920f0659 )
+)
+
+game (
+	name "ZZZ-UNK-entropy demo (1992) (pd) [a2]"
+	description "ZZZ-UNK-entropy demo (1992) (pd) [a2]"
+	rom ( name "ZZZ-UNK-entropy demo (1992) (pd) [a2].dsk" size 819200 crc a3210e59 md5 7a20db89a6095903c7560cee03a38d0e )
+)
+
+game (
+	name "ZZZ-UNK-entropyhiddendemos"
+	description "ZZZ-UNK-entropyhiddendemos"
+	rom ( name "ZZZ-UNK-entropyhiddendemos.dsk" size 819200 crc a738bd1f md5 1436369e66c502700747a46d79570a9c )
+)
+
+game (
+	name "ZZZ-UNK-entropyjokeinfinitycracktro"
+	description "ZZZ-UNK-entropyjokeinfinitycracktro"
+	rom ( name "ZZZ-UNK-entropyjokeinfinitycracktro.dsk" size 819200 crc e6bf3e33 md5 f6251add7074a93308ac19d6521c40f0 )
+)
+
+game (
+	name "ZZZ-UNK-entropyjokeinfinitye-trackerpirate"
+	description "ZZZ-UNK-entropyjokeinfinitye-trackerpirate"
+	rom ( name "ZZZ-UNK-entropyjokeinfinitye-trackerpirate.dsk" size 819200 crc 44ae0c60 md5 81eafb28bbd93f68a86cff7a37b29b23 )
+)
+
+game (
+	name "ZZZ-UNK-entropyzubdemo"
+	description "ZZZ-UNK-entropyzubdemo"
+	rom ( name "ZZZ-UNK-entropyzubdemo.dsk" size 819200 crc d783512b md5 abe250875d46138f8e202dfc2186d7c3 )
+)
+
+game (
+	name "ZZZ-UNK-esie-magdemo"
+	description "ZZZ-UNK-esie-magdemo"
+	rom ( name "ZZZ-UNK-esie-magdemo.dsk" size 819200 crc 59ded266 md5 f50994241196da66cd76d9d5fd801ce9 )
+)
+
+game (
+	name "ZZZ-UNK-esiemon2.09disassembler"
+	description "ZZZ-UNK-esiemon2.09disassembler"
+	rom ( name "ZZZ-UNK-esiemon2.09disassembler.dsk" size 819200 crc c7465a04 md5 383471eb09bc9f322d9555afa482d641 )
+)
+
+game (
+	name "ZZZ-UNK-esikassoftdemo"
+	description "ZZZ-UNK-esikassoftdemo"
+	rom ( name "ZZZ-UNK-esikassoftdemo.dsk" size 819200 crc cc8aaab1 md5 f234dc77f0b6166484a184b51833e274 )
+)
+
+game (
+	name "ZZZ-UNK-esistardemo"
+	description "ZZZ-UNK-esistardemo"
+	rom ( name "ZZZ-UNK-esistardemo.dsk" size 819200 crc 9c8d93b2 md5 ba5be1ece7110d3cce521d3deb793639 )
+)
+
+game (
+	name "ZZZ-UNK-esisuprisedemo"
+	description "ZZZ-UNK-esisuprisedemo"
+	rom ( name "ZZZ-UNK-esisuprisedemo.dsk" size 819200 crc ffa7a74c md5 714a28bfb1b6f001f044b5d1a52ea963 )
+)
+
+game (
+	name "ZZZ-UNK-e-tracker program disk v1.2 (19xx) (fred publishing)"
+	description "ZZZ-UNK-e-tracker program disk v1.2 (19xx) (fred publishing)"
+	rom ( name "ZZZ-UNK-e-tracker program disk v1.2 (19xx) (fred publishing).dsk" size 819200 crc 55d4e22c md5 f929e86e41e35415d673eb8897e58c2e )
+)
+
+game (
+	name "ZZZ-UNK-etracker2(samplebased)"
+	description "ZZZ-UNK-etracker2(samplebased)"
+	rom ( name "ZZZ-UNK-etracker2(samplebased).dsk" size 819200 crc 7b06331b md5 b867d8f52247803b4bf384a932fa39e1 )
+)
+
+game (
+	name "ZZZ-UNK-etracker2-samples1"
+	description "ZZZ-UNK-etracker2-samples1"
+	rom ( name "ZZZ-UNK-etracker2-samples1.dsk" size 819200 crc f23fa487 md5 28ac16afbb5bc3423e44b21f5af88230 )
+)
+
+game (
+	name "ZZZ-UNK-etracker2-samples2"
+	description "ZZZ-UNK-etracker2-samples2"
+	rom ( name "ZZZ-UNK-etracker2-samples2.dsk" size 819200 crc 0d4650bb md5 93a3ec0a7c820be06a3dc524f18ccde4 )
+)
+
+game (
+	name "ZZZ-UNK-etrackerdemo#cannot unpack"
+	description "ZZZ-UNK-etrackerdemo#cannot unpack"
+	rom ( name "ZZZ-UNK-etrackerdemo#cannot unpack.dsk" size 819200 crc ad802c7b md5 2ec76fec6df2d84edee6188812f2f5ce )
+)
+
+game (
+	name "ZZZ-UNK-etrackerv1.2.(fred)"
+	description "ZZZ-UNK-etrackerv1.2.(fred)"
+	rom ( name "ZZZ-UNK-etrackerv1.2.(fred).dsk" size 819200 crc aa87e942 md5 53ea33b4e28fe4252559bd4bd8aeaa7d )
+)
+
+game (
+	name "ZZZ-UNK-etrackerv2-3"
+	description "ZZZ-UNK-etrackerv2-3"
+	rom ( name "ZZZ-UNK-etrackerv2-3.dsk" size 819200 crc b8e78b31 md5 6ff5dcd66f84c20ae7bcce9d1902a8b7 )
+)
+
+game (
+	name "ZZZ-UNK-explosion melody disk#for select a create block (1996)"
+	description "ZZZ-UNK-explosion melody disk#for select a create block (1996)"
+	rom ( name "ZZZ-UNK-explosion melody disk#for select a create block (1996).dsk" size 819200 crc fccc1bdc md5 7cdbbb10c1a5ec71851aabb2c26ce811 )
+)
+
+game (
+	name "ZZZ-UNK-f-16 combat pilot demo (1991) (pd)"
+	description "ZZZ-UNK-f-16 combat pilot demo (1991) (pd)"
+	rom ( name "ZZZ-UNK-f-16 combat pilot demo (1991) (pd).dsk" size 819200 crc 0ff29d1b md5 80bed31fea35dc219cc4718b97d4397e )
+)
+
+game (
+	name "ZZZ-UNK-f-16 combat pilot.tap"
+	description "ZZZ-UNK-f-16 combat pilot.tap"
+	rom ( name "ZZZ-UNK-f-16 combat pilot.tap.dsk" size 91347 crc ca2102f1 md5 9d420b9482a7fa60e0925452dcd66b16 )
+)
+
+game (
+	name "ZZZ-UNK-fastline public domain library disk 10 (19xx)"
+	description "ZZZ-UNK-fastline public domain library disk 10 (19xx)"
+	rom ( name "ZZZ-UNK-fastline public domain library disk 10 (19xx).dsk" size 819200 crc 0288600e md5 137ea41d2522b3cd35221cdaccab4da7 )
+)
+
+game (
+	name "ZZZ-UNK-fastline public domain library disk 12 (19xx)"
+	description "ZZZ-UNK-fastline public domain library disk 12 (19xx)"
+	rom ( name "ZZZ-UNK-fastline public domain library disk 12 (19xx).dsk" size 819200 crc 7a2fb21e md5 73a3bf4540f28bda3ea1cf7ba3f9218a )
+)
+
+game (
+	name "ZZZ-UNK-fastline public domain library disk 13 (19xx)"
+	description "ZZZ-UNK-fastline public domain library disk 13 (19xx)"
+	rom ( name "ZZZ-UNK-fastline public domain library disk 13 (19xx).dsk" size 819200 crc efa1b13b md5 c0b67083e781ea46cac4f713e9ee4509 )
+)
+
+game (
+	name "ZZZ-UNK-fastline public domain library disk 16 (19xx)"
+	description "ZZZ-UNK-fastline public domain library disk 16 (19xx)"
+	rom ( name "ZZZ-UNK-fastline public domain library disk 16 (19xx).dsk" size 819200 crc f6902f58 md5 50d6ccc4f701ac6ae7b1730b70f9e520 )
+)
+
+game (
+	name "ZZZ-UNK-fdos-001"
+	description "ZZZ-UNK-fdos-001"
+	rom ( name "ZZZ-UNK-fdos-001.dsk" size 737280 crc 48a969a7 md5 b5febf0b6170e09e552cb5d3952b25d1 )
+)
+
+game (
+	name "ZZZ-UNK-fidzispeedtest"
+	description "ZZZ-UNK-fidzispeedtest"
+	rom ( name "ZZZ-UNK-fidzispeedtest.dsk" size 819200 crc bc299293 md5 464b307faade1a244f005b9218fc6327 )
+)
+
+game (
+	name "ZZZ-UNK-fileshredderv1.2"
+	description "ZZZ-UNK-fileshredderv1.2"
+	rom ( name "ZZZ-UNK-fileshredderv1.2.dsk" size 819200 crc 7b7c6f74 md5 0ed003c100ab6d6df7b29a01ac1c17a9 )
+)
+
+game (
+	name "ZZZ-UNK-firesampledemo"
+	description "ZZZ-UNK-firesampledemo"
+	rom ( name "ZZZ-UNK-firesampledemo.dsk" size 819200 crc 2887a8ee md5 75f7136ff7a4085a7746c860482e7df6 )
+)
+
+game (
+	name "ZZZ-UNK-flash!"
+	description "ZZZ-UNK-flash!"
+	rom ( name "ZZZ-UNK-flash!.dsk" size 819200 crc 2f93b0b8 md5 cde567529be766deccd720dbb6c0f817 )
+)
+
+game (
+	name "ZZZ-UNK-flightoffantasyadventure"
+	description "ZZZ-UNK-flightoffantasyadventure"
+	rom ( name "ZZZ-UNK-flightoffantasyadventure.dsk" size 819200 crc abc1880a md5 8497091e193f78773659b175519785e5 )
+)
+
+game (
+	name "ZZZ-UNK-fontloader"
+	description "ZZZ-UNK-fontloader"
+	rom ( name "ZZZ-UNK-fontloader.dsk" size 819200 crc 41bb6c81 md5 ff66945db834a3548764c7defb331615 )
+)
+
+game (
+	name "ZZZ-UNK-fredatives 3"
+	description "ZZZ-UNK-fredatives 3"
+	rom ( name "ZZZ-UNK-fredatives 3.dsk" size 819200 crc 0145220a md5 dd3afb61463931b9dcc889fcc8ff5e09 )
+)
+
+game (
+	name "ZZZ-UNK-fredatives 4"
+	description "ZZZ-UNK-fredatives 4"
+	rom ( name "ZZZ-UNK-fredatives 4.dsk" size 819200 crc b1e7b640 md5 63c277b43f847e954810f210c044f823 )
+)
+
+game (
+	name "ZZZ-UNK-fullerbrushman"
+	description "ZZZ-UNK-fullerbrushman"
+	rom ( name "ZZZ-UNK-fullerbrushman.dsk" size 819200 crc 4eab07ff md5 bc2deaaabec0c90a8c7ca1eee57aeff4 )
+)
+
+game (
+	name "ZZZ-UNK-game dos#dvar 8.92n3 (19xx)"
+	description "ZZZ-UNK-game dos#dvar 8.92n3 (19xx)"
+	rom ( name "ZZZ-UNK-game dos#dvar 8.92n3 (19xx).dsk" size 819200 crc c539874f md5 b8b5c4b044a157f0e1d624798cce83a8 )
+)
+
+game (
+	name "ZZZ-UNK-gamesmaster 1.2 (1992) (betasoft)"
+	description "ZZZ-UNK-gamesmaster 1.2 (1992) (betasoft)"
+	rom ( name "ZZZ-UNK-gamesmaster 1.2 (1992) (betasoft).dsk" size 819222 crc a17fffaf md5 12258634780935594eebb250308dcec6 )
+)
+
+game (
+	name "ZZZ-UNK-gamesmaster1.2"
+	description "ZZZ-UNK-gamesmaster1.2"
+	rom ( name "ZZZ-UNK-gamesmaster1.2.dsk" size 819200 crc 57bddd4a md5 69a45695ade6fb79e69a2be50d9aa81c )
+)
+
+game (
+	name "ZZZ-UNK-gamesmaster1.52"
+	description "ZZZ-UNK-gamesmaster1.52"
+	rom ( name "ZZZ-UNK-gamesmaster1.52.dsk" size 819200 crc 4f394364 md5 cdcbd5a64cbdf3c1faf140ca8c493a01 )
+)
+
+game (
+	name "ZZZ-UNK-geoffwinklessscrollybarsandbouncyballsdemo"
+	description "ZZZ-UNK-geoffwinklessscrollybarsandbouncyballsdemo"
+	rom ( name "ZZZ-UNK-geoffwinklessscrollybarsandbouncyballsdemo.dsk" size 819200 crc 675ac9d6 md5 57aeb04d0354f55b9bddd7e51efc38e4 )
+)
+
+game (
+	name "ZZZ-UNK-gfxiff"
+	description "ZZZ-UNK-gfxiff"
+	rom ( name "ZZZ-UNK-gfxiff.dsk" size 819200 crc d9a4c4f3 md5 744a47c280f90edfb17534e920bb127e )
+)
+
+game (
+	name "ZZZ-UNK-gfxiff2"
+	description "ZZZ-UNK-gfxiff2"
+	rom ( name "ZZZ-UNK-gfxiff2.dsk" size 819200 crc d9ba2aab md5 6b33824f3d1f6229df9f11807ef192ac )
+)
+
+game (
+	name "ZZZ-UNK-gfxiffs1"
+	description "ZZZ-UNK-gfxiffs1"
+	rom ( name "ZZZ-UNK-gfxiffs1.dsk" size 819200 crc 18fa82d9 md5 ca92c377308fe5981583b34c0b26dedc )
+)
+
+game (
+	name "ZZZ-UNK-gm-calcv1.2"
+	description "ZZZ-UNK-gm-calcv1.2"
+	rom ( name "ZZZ-UNK-gm-calcv1.2.dsk" size 819200 crc e492ce80 md5 cbc715a013f8bb93aa4229afc851c6eb )
+)
+
+game (
+	name "ZZZ-UNK-hexagoniademo"
+	description "ZZZ-UNK-hexagoniademo"
+	rom ( name "ZZZ-UNK-hexagoniademo.dsk" size 819200 crc 5e19d383 md5 8fa8666b2fd25cb400a5c4dadabe33ca )
+)
+
+game (
+	name "ZZZ-UNK-humphrey1.2"
+	description "ZZZ-UNK-humphrey1.2"
+	rom ( name "ZZZ-UNK-humphrey1.2.dsk" size 819200 crc 6cb571d7 md5 00b969af35910b94e21e8c172bf166be )
+)
+
+game (
+	name "ZZZ-UNK-iancollierless"
+	description "ZZZ-UNK-iancollierless"
+	rom ( name "ZZZ-UNK-iancollierless.dsk" size 819200 crc 0e061477 md5 034be15970a5d613db94ab4555fd10bf )
+)
+
+game (
+	name "ZZZ-UNK-infosoftdemodisk1"
+	description "ZZZ-UNK-infosoftdemodisk1"
+	rom ( name "ZZZ-UNK-infosoftdemodisk1.dsk" size 819200 crc 732f16c5 md5 8e2fb359307aec450ca8330f9d129905 )
+)
+
+game (
+	name "ZZZ-UNK-integrated logic's pd disk (1990) (pd)"
+	description "ZZZ-UNK-integrated logic's pd disk (1990) (pd)"
+	rom ( name "ZZZ-UNK-integrated logic's pd disk (1990) (pd).dsk" size 819200 crc 86d9e189 md5 5b7ba9664ab5f2ab3a8ebb11687cad92 )
+)
+
+game (
+	name "ZZZ-UNK-integratedlogic'smadonnastripshow"
+	description "ZZZ-UNK-integratedlogic'smadonnastripshow"
+	rom ( name "ZZZ-UNK-integratedlogic'smadonnastripshow.dsk" size 819200 crc 8a0c2686 md5 8ded81d9df8430e2057c804f475e776c )
+)
+
+game (
+	name "ZZZ-UNK-interlaced rgb viewer pics (19xx) (pd)"
+	description "ZZZ-UNK-interlaced rgb viewer pics (19xx) (pd)"
+	rom ( name "ZZZ-UNK-interlaced rgb viewer pics (19xx) (pd).dsk" size 819200 crc dca6c573 md5 30f42b12d1eda89bcc07ca3183fcd926 )
+)
+
+game (
+	name "ZZZ-UNK-interruptdrivensambusclock"
+	description "ZZZ-UNK-interruptdrivensambusclock"
+	rom ( name "ZZZ-UNK-interruptdrivensambusclock.dsk" size 819200 crc 204bd0c7 md5 316c7473d6fe91db2f53d16831c9a871 )
+)
+
+game (
+	name "ZZZ-UNK-invadersissue32-36"
+	description "ZZZ-UNK-invadersissue32-36"
+	rom ( name "ZZZ-UNK-invadersissue32-36.dsk" size 819200 crc 66c10c2f md5 6121eb67f5cff45b73c235d757a72d2c )
+)
+
+game (
+	name "ZZZ-UNK-iqtest"
+	description "ZZZ-UNK-iqtest"
+	rom ( name "ZZZ-UNK-iqtest.dsk" size 819200 crc 126f1b0c md5 4622edac83ba06ed68a93d9e2a10efca )
+)
+
+game (
+	name "ZZZ-UNK-ironman"
+	description "ZZZ-UNK-ironman"
+	rom ( name "ZZZ-UNK-ironman.dsk" size 819200 crc 9772c116 md5 8e9e150d9ef7a496a8d9aad0c51b445d )
+)
+
+game (
+	name "ZZZ-UNK-jupitersoftwareflags"
+	description "ZZZ-UNK-jupitersoftwareflags"
+	rom ( name "ZZZ-UNK-jupitersoftwareflags.dsk" size 819200 crc 4102f35a md5 692c69d5bf7782162ddce08ff0c8713d )
+)
+
+game (
+	name "ZZZ-UNK-kaboom.tap"
+	description "ZZZ-UNK-kaboom.tap"
+	rom ( name "ZZZ-UNK-kaboom.tap.dsk" size 17525 crc d9fefd49 md5 9ae439c19aba6f7906e1ec61eba6c051 )
+)
+
+game (
+	name "ZZZ-UNK-kapsa1"
+	description "ZZZ-UNK-kapsa1"
+	rom ( name "ZZZ-UNK-kapsa1.dsk" size 819200 crc 00ee1750 md5 caea30bc967d19699b1b3d8540131d95 )
+)
+
+game (
+	name "ZZZ-UNK-kapsa2"
+	description "ZZZ-UNK-kapsa2"
+	rom ( name "ZZZ-UNK-kapsa2.dsk" size 819200 crc 062c7112 md5 37e74e9675e297fb623924f38c3fae9d )
+)
+
+game (
+	name "ZZZ-UNK-kapsa3"
+	description "ZZZ-UNK-kapsa3"
+	rom ( name "ZZZ-UNK-kapsa3.dsk" size 819200 crc 488a223c md5 a432acbb77e0593015b5b2c73befd7ee )
+)
+
+game (
+	name "ZZZ-UNK-kapsa4"
+	description "ZZZ-UNK-kapsa4"
+	rom ( name "ZZZ-UNK-kapsa4.dsk" size 819200 crc 81f371aa md5 430e483c4fcfdcddd0d529bddb94a9bb )
+)
+
+game (
+	name "ZZZ-UNK-kapsa5"
+	description "ZZZ-UNK-kapsa5"
+	rom ( name "ZZZ-UNK-kapsa5.dsk" size 819200 crc e3b6b2a0 md5 4c69c1dee0b2e9551a6b56abc5ab0325 )
+)
+
+game (
+	name "ZZZ-UNK-kapsa6"
+	description "ZZZ-UNK-kapsa6"
+	rom ( name "ZZZ-UNK-kapsa6.dsk" size 819200 crc 53c73a65 md5 5acbd20bb9f3406f82fdf0a8e8da588f )
+)
+
+game (
+	name "ZZZ-UNK-kapsa7"
+	description "ZZZ-UNK-kapsa7"
+	rom ( name "ZZZ-UNK-kapsa7.dsk" size 819200 crc d86bced0 md5 3ddc6730cefa7b2559b3a303429b603d )
+)
+
+game (
+	name "ZZZ-UNK-kapsa8"
+	description "ZZZ-UNK-kapsa8"
+	rom ( name "ZZZ-UNK-kapsa8.dsk" size 819200 crc d3e359c1 md5 72519e66f1dff1bb6ee95d45d8194154 )
+)
+
+game (
+	name "ZZZ-UNK-kedisk v2.04 (19xx)"
+	description "ZZZ-UNK-kedisk v2.04 (19xx)"
+	rom ( name "ZZZ-UNK-kedisk v2.04 (19xx).dsk" size 819200 crc eb7a835d md5 770647436642c8e786ab7d7964595a9e )
+)
+
+game (
+	name "ZZZ-UNK-kedisk2.04"
+	description "ZZZ-UNK-kedisk2.04"
+	rom ( name "ZZZ-UNK-kedisk2.04.dsk" size 819200 crc f633618c md5 bb0c0f39c5e0e9661ef46c23f39f729e )
+)
+
+game (
+	name "ZZZ-UNK-kedisk2.04updatedwithpatch"
+	description "ZZZ-UNK-kedisk2.04updatedwithpatch"
+	rom ( name "ZZZ-UNK-kedisk2.04updatedwithpatch.dsk" size 819200 crc d5a71a16 md5 1afcba3ab4ed06a0ead1671672d53626 )
+)
+
+game (
+	name "ZZZ-UNK-kediskpatchfor2.04"
+	description "ZZZ-UNK-kediskpatchfor2.04"
+	rom ( name "ZZZ-UNK-kediskpatchfor2.04.dsk" size 819200 crc 5ac73a14 md5 2c3f47d7e1aa35877e11da8ef0b528b2 )
+)
+
+game (
+	name "ZZZ-UNK-killdisk1.0"
+	description "ZZZ-UNK-killdisk1.0"
+	rom ( name "ZZZ-UNK-killdisk1.0.dsk" size 819200 crc bc068c4c md5 597f8d2007b513dd01c15a5e9b130df0 )
+)
+
+game (
+	name "ZZZ-UNK-kreuzen.tap"
+	description "ZZZ-UNK-kreuzen.tap"
+	rom ( name "ZZZ-UNK-kreuzen.tap.dsk" size 37285 crc 7a3da36f md5 c594a63fcf9627f4871ccb03046586d5 )
+)
+
+game (
+	name "ZZZ-UNK-lordblackaddere-tunesdemo"
+	description "ZZZ-UNK-lordblackaddere-tunesdemo"
+	rom ( name "ZZZ-UNK-lordblackaddere-tunesdemo.dsk" size 819200 crc bf69e338 md5 d61e04b8ca6059472316759987e32945 )
+)
+
+game (
+	name "ZZZ-UNK-lordinsanityscreencruncher"
+	description "ZZZ-UNK-lordinsanityscreencruncher"
+	rom ( name "ZZZ-UNK-lordinsanityscreencruncher.dsk" size 819200 crc c5440aae md5 b50bb29fc0a051224d2445433241b76d )
+)
+
+game (
+	name "ZZZ-UNK-lordslittlejoke"
+	description "ZZZ-UNK-lordslittlejoke"
+	rom ( name "ZZZ-UNK-lordslittlejoke.dsk" size 819200 crc 6017366e md5 16135107bdaa2044a41e211aae4d8873 )
+)
+
+game (
+	name "ZZZ-UNK-lordssabrina"
+	description "ZZZ-UNK-lordssabrina"
+	rom ( name "ZZZ-UNK-lordssabrina.dsk" size 819200 crc d57fe6d9 md5 15d7d25413fdb398eb67573f34438c58 )
+)
+
+game (
+	name "ZZZ-UNK-lordssillydemo1"
+	description "ZZZ-UNK-lordssillydemo1"
+	rom ( name "ZZZ-UNK-lordssillydemo1.dsk" size 819200 crc 2c0222a2 md5 5c2f01c51d7f13152381cdca49a72c73 )
+)
+
+game (
+	name "ZZZ-UNK-lordstweetydemo"
+	description "ZZZ-UNK-lordstweetydemo"
+	rom ( name "ZZZ-UNK-lordstweetydemo.dsk" size 819200 crc b305f25a md5 c7a288e78c09f7e592b293d0f3535e1f )
+)
+
+game (
+	name "ZZZ-UNK-lovehearts (19xx) (supplement software)"
+	description "ZZZ-UNK-lovehearts (19xx) (supplement software)"
+	rom ( name "ZZZ-UNK-lovehearts (19xx) (supplement software).dsk" size 819200 crc 611fa525 md5 06883468e4f701755d0e4bb173466364 )
+)
+
+game (
+	name "ZZZ-UNK-lyra 3 megademo by esi (1993) (pd) [a2]"
+	description "ZZZ-UNK-lyra 3 megademo by esi (1993) (pd) [a2]"
+	rom ( name "ZZZ-UNK-lyra 3 megademo by esi (1993) (pd) [a2].dsk" size 819200 crc e737316b md5 1d135702bb23746c4282750c5e9f8b4b )
+)
+
+game (
+	name "ZZZ-UNK-makefiles"
+	description "ZZZ-UNK-makefiles"
+	rom ( name "ZZZ-UNK-makefiles.dsk" size 819200 crc 1f28e164 md5 de33ae7e8b8f91043d66002cb226e5b4 )
+)
+
+game (
+	name "ZZZ-UNK-makemasterside1&2"
+	description "ZZZ-UNK-makemasterside1&2"
+	rom ( name "ZZZ-UNK-makemasterside1&2.dsk" size 819200 crc 36ca9b98 md5 c7717fdbe7b17807f9d91d52786165f2 )
+)
+
+game (
+	name "ZZZ-UNK-manga01"
+	description "ZZZ-UNK-manga01"
+	rom ( name "ZZZ-UNK-manga01.dsk" size 819200 crc 84f5a626 md5 65d9c575610bcc31ee89bb5916f28bbe )
+)
+
+game (
+	name "ZZZ-UNK-manga02"
+	description "ZZZ-UNK-manga02"
+	rom ( name "ZZZ-UNK-manga02.dsk" size 819200 crc f72ce2b1 md5 f760b4b55c9e34928cbcec00ee5dc9d1 )
+)
+
+game (
+	name "ZZZ-UNK-manga07"
+	description "ZZZ-UNK-manga07"
+	rom ( name "ZZZ-UNK-manga07.dsk" size 819200 crc 1962c9a0 md5 88c4b47314242309dfa36be8a7779d68 )
+)
+
+game (
+	name "ZZZ-UNK-mapprintrouines"
+	description "ZZZ-UNK-mapprintrouines"
+	rom ( name "ZZZ-UNK-mapprintrouines.dsk" size 819200 crc d5abae08 md5 78af0964a7decf30ca75b7f390f25f79 )
+)
+
+game (
+	name "ZZZ-UNK-martijngroencutedemo"
+	description "ZZZ-UNK-martijngroencutedemo"
+	rom ( name "ZZZ-UNK-martijngroencutedemo.dsk" size 819200 crc f9c46ecf md5 fb9552c0bea25e67ce4793aba769ec71 )
+)
+
+game (
+	name "ZZZ-UNK-martijngroencyberdreamconversion"
+	description "ZZZ-UNK-martijngroencyberdreamconversion"
+	rom ( name "ZZZ-UNK-martijngroencyberdreamconversion.dsk" size 819200 crc 3dff6578 md5 b6fe1c560cfe7ac640bc9df12b2cf769 )
+)
+
+game (
+	name "ZZZ-UNK-martijngroenlightbulbsdemo"
+	description "ZZZ-UNK-martijngroenlightbulbsdemo"
+	rom ( name "ZZZ-UNK-martijngroenlightbulbsdemo.dsk" size 819200 crc da6ac325 md5 161fba5a1b823f69b6a9ca3e43243c4e )
+)
+
+game (
+	name "ZZZ-UNK-martijngroenmilkywayartvisionconversions"
+	description "ZZZ-UNK-martijngroenmilkywayartvisionconversions"
+	rom ( name "ZZZ-UNK-martijngroenmilkywayartvisionconversions.dsk" size 819200 crc b604a828 md5 7748dfb9e8cd5359113da24512d0d8cc )
+)
+
+game (
+	name "ZZZ-UNK-masterbasic1.5"
+	description "ZZZ-UNK-masterbasic1.5"
+	rom ( name "ZZZ-UNK-masterbasic1.5.dsk" size 819200 crc 03136e9e md5 932ea9d4e834f4a19ccb433719aa478a )
+)
+
+game (
+	name "ZZZ-UNK-masterdosfilemanager"
+	description "ZZZ-UNK-masterdosfilemanager"
+	rom ( name "ZZZ-UNK-masterdosfilemanager.dsk" size 819200 crc e1e358e0 md5 ebacfc1a29c5be92f0d4697ac0eb1120 )
+)
+
+game (
+	name "ZZZ-UNK-masterdosversion1.3"
+	description "ZZZ-UNK-masterdosversion1.3"
+	rom ( name "ZZZ-UNK-masterdosversion1.3.dsk" size 819200 crc 69588ed5 md5 a545f84cf93979e532dc8579f6b49541 )
+)
+
+game (
+	name "ZZZ-UNK-masterdosversion2.3"
+	description "ZZZ-UNK-masterdosversion2.3"
+	rom ( name "ZZZ-UNK-masterdosversion2.3.dsk" size 819200 crc cbf176e2 md5 2f56357e29eb98fabe171557b3d3dbb6 )
+)
+
+game (
+	name "ZZZ-UNK-mattroundsamcoupea-z"
+	description "ZZZ-UNK-mattroundsamcoupea-z"
+	rom ( name "ZZZ-UNK-mattroundsamcoupea-z.dsk" size 819200 crc 54ea1096 md5 f58df21917aa0cffc4a5b80c883cf330 )
+)
+
+game (
+	name "ZZZ-UNK-megadisk1"
+	description "ZZZ-UNK-megadisk1"
+	rom ( name "ZZZ-UNK-megadisk1.dsk" size 819200 crc 58c19212 md5 bf3166c70f7a295a736da95dcfcf2549 )
+)
+
+game (
+	name "ZZZ-UNK-metemp7"
+	description "ZZZ-UNK-metemp7"
+	rom ( name "ZZZ-UNK-metemp7.dsk" size 819200 crc 0ddc47e7 md5 01c3db8f32b21e3a376152a01c435d6d )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo 2 (19xx)"
+	description "ZZZ-UNK-metempsychosis demo 2 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo 2 (19xx).dsk" size 819200 crc 4a25aa48 md5 386348d219ec7a1797949aef5ef8ef6c )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo 4 (19xx)"
+	description "ZZZ-UNK-metempsychosis demo 4 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo 4 (19xx).dsk" size 819200 crc 4a3b5884 md5 cf84c967b9c65cdab20788eaf6e2eb7e )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo 5 (19xx)"
+	description "ZZZ-UNK-metempsychosis demo 5 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo 5 (19xx).dsk" size 819200 crc 67042c3c md5 e890b4eb681ea24475a5b08a0e7dad33 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo 6 (19xx)"
+	description "ZZZ-UNK-metempsychosis demo 6 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo 6 (19xx).dsk" size 819200 crc 2a17797b md5 56dd8cde10408f0949273719be222567 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo 7 (19xx)"
+	description "ZZZ-UNK-metempsychosis demo 7 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo 7 (19xx).dsk" size 819200 crc e62a94c7 md5 7d04b0e64fbb47148e8033896608d653 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo#christine (19xx)"
+	description "ZZZ-UNK-metempsychosis demo#christine (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo#christine (19xx).dsk" size 819200 crc f58f7c8e md5 0c51021cd849a5c318d05038a8cd759c )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis demo#highlander (19xx)"
+	description "ZZZ-UNK-metempsychosis demo#highlander (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis demo#highlander (19xx).dsk" size 819200 crc 5ed23352 md5 151bbcd5635c74c92b683d94c38cbf84 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm10 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm10 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm10 (19xx).dsk" size 819200 crc a4273fb2 md5 51588c54e79d14fd1989e54a5f649720 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm11 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm11 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm11 (19xx).dsk" size 819200 crc 9da4e38f md5 4dd17ea7ab368f184b439e2a18591d66 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm12 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm12 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm12 (19xx).dsk" size 819200 crc 24d918c2 md5 7e147baa2f40787cd0b2d35ed37b9e3b )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm7 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm7 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm7 (19xx).dsk" size 819200 crc 78ee0660 md5 72352950f70bee26dc2ad8d8063775b2 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm8 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm8 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm8 (19xx).dsk" size 819200 crc ed668d11 md5 dbc01006614904c98d36aa8e9f1ca0d8 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis pdm9 (19xx)"
+	description "ZZZ-UNK-metempsychosis pdm9 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis pdm9 (19xx).dsk" size 819200 crc fee387e0 md5 4099443663deb1208d6f317c0e8a97cd )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis promo1 (19xx)"
+	description "ZZZ-UNK-metempsychosis promo1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis promo1 (19xx).dsk" size 819200 crc f6880402 md5 06f879cdb3407f0e68b7db1254565a53 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis sample disk 7 (19xx)"
+	description "ZZZ-UNK-metempsychosis sample disk 7 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis sample disk 7 (19xx).dsk" size 819200 crc 1c7f74a9 md5 3c1e81651ded102816ea77366ca30a7a )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis slide_1 (19xx)"
+	description "ZZZ-UNK-metempsychosis slide_1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis slide_1 (19xx).dsk" size 819200 crc 2f038dfe md5 bcb68d4521e070090af567b6555fecb9 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis slide_2 (19xx)"
+	description "ZZZ-UNK-metempsychosis slide_2 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis slide_2 (19xx).dsk" size 819200 crc 4e61bb6a md5 48648ce402695e96afcd5dd1dd75e8d3 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis term_1a (19xx)"
+	description "ZZZ-UNK-metempsychosis term_1a (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis term_1a (19xx).dsk" size 819200 crc 9303b581 md5 916641b6a08461b7ab898fc2274a56f0 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis term_1b (19xx)"
+	description "ZZZ-UNK-metempsychosis term_1b (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis term_1b (19xx).dsk" size 819200 crc d08d7602 md5 5b4b199988053ac880227318046dfb20 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo 9 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo 9 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo 9 (19xx).dsk" size 819200 crc dba10b0f md5 4d808fda9eeee2f3e88c944195d65533 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#adrian_letter2 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#adrian_letter2 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#adrian_letter2 (19xx).dsk" size 819200 crc 1ec2e62e md5 1b08db044d1cf699ffa3f903f2c0d29f )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#cd_demo (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#cd_demo (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#cd_demo (19xx).dsk" size 819200 crc bdc37a56 md5 b9f37256f1ec9f2ee377d0c4a54716a1 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#demos4metemp (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#demos4metemp (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#demos4metemp (19xx).dsk" size 819200 crc 0d7639ca md5 94bae4a2f39c49d30f3f1e165904b35d )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#internal_advert (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#internal_advert (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#internal_advert (19xx).dsk" size 819200 crc 09e6452c md5 c1c6a65418636f6bb8a2d0519ebd2f8c )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#internal_digi_utils (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#internal_digi_utils (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#internal_digi_utils (19xx).dsk" size 819200 crc 1bfb88da md5 b724de934c4909ff980bbce03376cac8 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#internal_highlander (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#internal_highlander (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#internal_highlander (19xx).dsk" size 819200 crc 7b040964 md5 4fe13a8f11485adbc8da30221f618102 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#internal_joy_pen (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#internal_joy_pen (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#internal_joy_pen (19xx).dsk" size 819200 crc 19ee19fa md5 38a3267a7fdfed9ce45ba6710276f388 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#internal_small_demos (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#internal_small_demos (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#internal_small_demos (19xx).dsk" size 819200 crc 05004ee6 md5 efc25ea334fb7124f676a314d72cc017 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#jukebox (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#jukebox (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#jukebox (19xx).dsk" size 819200 crc 2498e662 md5 31959507ee2b1e2cdb3fb86ba32b42ec )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#kinetik (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#kinetik (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#kinetik (19xx).dsk" size 819200 crc ee5abfda md5 c085a8f9d64198be58bae7dd429d859c )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#mega_mix (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#mega_mix (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#mega_mix (19xx).dsk" size 819200 crc 4b668e6e md5 08f813def566e5fb81d2593c99b784fe )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#omnicide_3d (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#omnicide_3d (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#omnicide_3d (19xx).dsk" size 819200 crc 1a98bba3 md5 244a6a9863c0244516ffd695205e5ccf )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm1 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm1 (19xx).dsk" size 819200 crc d1f323d9 md5 45582380127b3862901473845d827f53 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm2 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm2 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm2 (19xx).dsk" size 819200 crc 74702514 md5 b5cbf774769b4a16e00a2b9a31cb7312 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm3 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm3 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#rtj_pdm3 (19xx).dsk" size 819200 crc ecde2ab4 md5 90dcd6845aa64582c6f320333584227b )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#samples1 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#samples1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#samples1 (19xx).dsk" size 819200 crc a6f46c05 md5 ab7562cadb1983a30705f814050bb54b )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#unknown1 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#unknown1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#unknown1 (19xx).dsk" size 819200 crc 1e3e5619 md5 ea98a5ee52d3598a127f92278759b0af )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#wip1 (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#wip1 (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#wip1 (19xx).dsk" size 819200 crc bd449c2c md5 742b4e6ba0f16c4b2aa3ffc17869e823 )
+)
+
+game (
+	name "ZZZ-UNK-metempsychosis unreleased demo#wizard (19xx)"
+	description "ZZZ-UNK-metempsychosis unreleased demo#wizard (19xx)"
+	rom ( name "ZZZ-UNK-metempsychosis unreleased demo#wizard (19xx).dsk" size 819200 crc da7f8010 md5 b7dbf450e7564159e78ac05518df059d )
+)
+
+game (
+	name "ZZZ-UNK-mike aj demo disk 1 (1991) [a]"
+	description "ZZZ-UNK-mike aj demo disk 1 (1991) [a]"
+	rom ( name "ZZZ-UNK-mike aj demo disk 1 (1991) [a].dsk" size 819200 crc 89816d37 md5 102a818cf9c67102a1fc3f213fc99582 )
+)
+
+game (
+	name "ZZZ-UNK-mike aj demo disk 1 (1991)"
+	description "ZZZ-UNK-mike aj demo disk 1 (1991)"
+	rom ( name "ZZZ-UNK-mike aj demo disk 1 (1991).dsk" size 819200 crc e21e7f2f md5 a8f0bf893b7c36e5f8fe0c35b0efb2d2 )
+)
+
+game (
+	name "ZZZ-UNK-mike aj demo disk 7 (1991)"
+	description "ZZZ-UNK-mike aj demo disk 7 (1991)"
+	rom ( name "ZZZ-UNK-mike aj demo disk 7 (1991).dsk" size 819200 crc 99fd6304 md5 c9a2bbead8774570e2cca0fca82a27be )
+)
+
+game (
+	name "ZZZ-UNK-mike aj demo disk 8 (1991)"
+	description "ZZZ-UNK-mike aj demo disk 8 (1991)"
+	rom ( name "ZZZ-UNK-mike aj demo disk 8 (1991).dsk" size 819200 crc 013a9567 md5 3e33151f147f70cb9d362bd303022192 )
+)
+
+game (
+	name "ZZZ-UNK-mike aj disc 5 (19xx)"
+	description "ZZZ-UNK-mike aj disc 5 (19xx)"
+	rom ( name "ZZZ-UNK-mike aj disc 5 (19xx).dsk" size 819200 crc 5d70f140 md5 4ffd732bd1a6ee45e442848810d00f65 )
+)
+
+game (
+	name "ZZZ-UNK-mike aj disc 5-edwin (19xx)"
+	description "ZZZ-UNK-mike aj disc 5-edwin (19xx)"
+	rom ( name "ZZZ-UNK-mike aj disc 5-edwin (19xx).dsk" size 819200 crc f3c42d69 md5 c273bad52b778d23568f3ad0f767edea )
+)
+
+game (
+	name "ZZZ-UNK-mike aj disc 6 (19xx)"
+	description "ZZZ-UNK-mike aj disc 6 (19xx)"
+	rom ( name "ZZZ-UNK-mike aj disc 6 (19xx).dsk" size 819200 crc a0163064 md5 9393b1b91727044040ef44b426442f2b )
+)
+
+game (
+	name "ZZZ-UNK-mike aj disc 6-edwin (19xx)"
+	description "ZZZ-UNK-mike aj disc 6-edwin (19xx)"
+	rom ( name "ZZZ-UNK-mike aj disc 6-edwin (19xx).dsk" size 819200 crc bb8dd385 md5 14de597ff493914fff2682bc75bb7e9c )
+)
+
+game (
+	name "ZZZ-UNK-mike aj disc 7 (19xx)"
+	description "ZZZ-UNK-mike aj disc 7 (19xx)"
+	rom ( name "ZZZ-UNK-mike aj disc 7 (19xx).dsk" size 819200 crc 5b18fcdf md5 93548f63d52d03af3f329016d4936eab )
+)
+
+game (
+	name "ZZZ-UNK-mikeajetrackermodules1#cannot unpack"
+	description "ZZZ-UNK-mikeajetrackermodules1#cannot unpack"
+	rom ( name "ZZZ-UNK-mikeajetrackermodules1#cannot unpack.dsk" size 819200 crc 86c73d1c md5 66f5fcca201734c1f7549dc158cc9a55 )
+)
+
+game (
+	name "ZZZ-UNK-mikeajetrackermodules2#cannot unpack"
+	description "ZZZ-UNK-mikeajetrackermodules2#cannot unpack"
+	rom ( name "ZZZ-UNK-mikeajetrackermodules2#cannot unpack.dsk" size 819200 crc 26476fcd md5 db30834e4f7c52af197bc89d19c3abf7 )
+)
+
+game (
+	name "ZZZ-UNK-misc"
+	description "ZZZ-UNK-misc"
+	rom ( name "ZZZ-UNK-misc.dsk" size 819200 crc 14debd3d md5 990f2dd8ddc61090cf58abf8f8cf19cc )
+)
+
+game (
+	name "ZZZ-UNK-misc1"
+	description "ZZZ-UNK-misc1"
+	rom ( name "ZZZ-UNK-misc1.dsk" size 819200 crc cb6e8dbc md5 a0b9788faed811e403e13d4823942566 )
+)
+
+game (
+	name "ZZZ-UNK-misc2"
+	description "ZZZ-UNK-misc2"
+	rom ( name "ZZZ-UNK-misc2.dsk" size 819200 crc 3d8540c5 md5 65ceefa3858863348ef587a33498fba8 )
+)
+
+game (
+	name "ZZZ-UNK-misc3"
+	description "ZZZ-UNK-misc3"
+	rom ( name "ZZZ-UNK-misc3.dsk" size 819200 crc aa868912 md5 659234d40b55f2a7a5cfd9b302dd99e6 )
+)
+
+game (
+	name "ZZZ-UNK-miscmusic1"
+	description "ZZZ-UNK-miscmusic1"
+	rom ( name "ZZZ-UNK-miscmusic1.dsk" size 819200 crc bbbd73f6 md5 78b0d8da617b33bf7cc94c12f4bae7a7 )
+)
+
+game (
+	name "ZZZ-UNK-miscmusic2"
+	description "ZZZ-UNK-miscmusic2"
+	rom ( name "ZZZ-UNK-miscmusic2.dsk" size 819200 crc 8fbd60f7 md5 ebfedc488852670cc6c69cbc198b58a6 )
+)
+
+game (
+	name "ZZZ-UNK-miscmusic3"
+	description "ZZZ-UNK-miscmusic3"
+	rom ( name "ZZZ-UNK-miscmusic3.dsk" size 819200 crc 8a082bb2 md5 f8bd6dd348c74c09879661d7a38c1b05 )
+)
+
+game (
+	name "ZZZ-UNK-misctextfiles"
+	description "ZZZ-UNK-misctextfiles"
+	rom ( name "ZZZ-UNK-misctextfiles.dsk" size 819200 crc 895463b5 md5 4700f6c6737631a045d86fea379d2a52 )
+)
+
+game (
+	name "ZZZ-UNK-mnemocompress201"
+	description "ZZZ-UNK-mnemocompress201"
+	rom ( name "ZZZ-UNK-mnemocompress201.dsk" size 819200 crc 55724d70 md5 8ce3a4e766828d9a840c3ea07704390e )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechdiskcompressorv1.00"
+	description "ZZZ-UNK-mnemotechdiskcompressorv1.00"
+	rom ( name "ZZZ-UNK-mnemotechdiskcompressorv1.00.dsk" size 819200 crc 179914d8 md5 7196a6cce9eebcf2a624e3ce17ad7ccd )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechetunes"
+	description "ZZZ-UNK-mnemotechetunes"
+	rom ( name "ZZZ-UNK-mnemotechetunes.dsk" size 819200 crc b6250e81 md5 b7402fdd5851d1405caf65d051e4fe1a )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechmenu53"
+	description "ZZZ-UNK-mnemotechmenu53"
+	rom ( name "ZZZ-UNK-mnemotechmenu53.dsk" size 819200 crc 7f5e9f70 md5 d634f6db55b02d7885206210545900b3 )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechmenu65"
+	description "ZZZ-UNK-mnemotechmenu65"
+	rom ( name "ZZZ-UNK-mnemotechmenu65.dsk" size 819200 crc 1d50b7c7 md5 5d223adce8d8f76465da4c3773f73641 )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechmnemotextdemo"
+	description "ZZZ-UNK-mnemotechmnemotextdemo"
+	rom ( name "ZZZ-UNK-mnemotechmnemotextdemo.dsk" size 819200 crc da50a7ad md5 349ac1212dd0aa110e94d803c40f7013 )
+)
+
+game (
+	name "ZZZ-UNK-mnemotechsammines"
+	description "ZZZ-UNK-mnemotechsammines"
+	rom ( name "ZZZ-UNK-mnemotechsammines.dsk" size 819200 crc dddffe93 md5 efd39a79e47a60bd5891ab6ac6595f10 )
+)
+
+game (
+	name "ZZZ-UNK-mode1animatedsexslideshow"
+	description "ZZZ-UNK-mode1animatedsexslideshow"
+	rom ( name "ZZZ-UNK-mode1animatedsexslideshow.dsk" size 819200 crc 8bba9442 md5 f0d6aef39d460bdf41b179e7e6521184 )
+)
+
+game (
+	name "ZZZ-UNK-modules1"
+	description "ZZZ-UNK-modules1"
+	rom ( name "ZZZ-UNK-modules1.dsk" size 819200 crc fcee46aa md5 22164fbea92ea437d22a7a8a730de324 )
+)
+
+game (
+	name "ZZZ-UNK-modules2"
+	description "ZZZ-UNK-modules2"
+	rom ( name "ZZZ-UNK-modules2.dsk" size 819200 crc eaff1a3d md5 7fd1c1d41b7e51e74ee20d15d916d19c )
+)
+
+game (
+	name "ZZZ-UNK-modules3"
+	description "ZZZ-UNK-modules3"
+	rom ( name "ZZZ-UNK-modules3.dsk" size 819200 crc 7aeaba7e md5 4f87d7b323c5357dc2ab5e28e8cb3578 )
+)
+
+game (
+	name "ZZZ-UNK-modules4"
+	description "ZZZ-UNK-modules4"
+	rom ( name "ZZZ-UNK-modules4.dsk" size 819200 crc 650b3a5e md5 654806c053f6e13e040e40775ef4c816 )
+)
+
+game (
+	name "ZZZ-UNK-net_01"
+	description "ZZZ-UNK-net_01"
+	rom ( name "ZZZ-UNK-net_01.dsk" size 819200 crc a7f27812 md5 c1657ff1f97f6f9fec375a9994e49102 )
+)
+
+game (
+	name "ZZZ-UNK-net_04"
+	description "ZZZ-UNK-net_04"
+	rom ( name "ZZZ-UNK-net_04.dsk" size 819200 crc fa525c7a md5 c868149bdd86b3acac8b18dea7b118c2 )
+)
+
+game (
+	name "ZZZ-UNK-net_06"
+	description "ZZZ-UNK-net_06"
+	rom ( name "ZZZ-UNK-net_06.dsk" size 819200 crc c0888c95 md5 332c7516fc32cf2a6017465f7603b765 )
+)
+
+game (
+	name "ZZZ-UNK-net_08"
+	description "ZZZ-UNK-net_08"
+	rom ( name "ZZZ-UNK-net_08.dsk" size 819200 crc 5f87584b md5 b92a47d95655fcbd2c0c650191d15579 )
+)
+
+game (
+	name "ZZZ-UNK-net_09"
+	description "ZZZ-UNK-net_09"
+	rom ( name "ZZZ-UNK-net_09.dsk" size 819200 crc 4305b7e5 md5 481d694d71aa5e52a355e163e84ec3a3 )
+)
+
+game (
+	name "ZZZ-UNK-net_10"
+	description "ZZZ-UNK-net_10"
+	rom ( name "ZZZ-UNK-net_10.dsk" size 819200 crc f122febd md5 cd75be9c884d0811bb75958c3fab22b0 )
+)
+
+game (
+	name "ZZZ-UNK-net_11"
+	description "ZZZ-UNK-net_11"
+	rom ( name "ZZZ-UNK-net_11.dsk" size 819200 crc bda4b59d md5 0fc61ba57c7132803d48c6e719bb5048 )
+)
+
+game (
+	name "ZZZ-UNK-net_12"
+	description "ZZZ-UNK-net_12"
+	rom ( name "ZZZ-UNK-net_12.dsk" size 819200 crc d2db0bd6 md5 b792c0e8e92fa9fb7ab2de2adec9006a )
+)
+
+game (
+	name "ZZZ-UNK-net_13"
+	description "ZZZ-UNK-net_13"
+	rom ( name "ZZZ-UNK-net_13.dsk" size 819200 crc c954c7cb md5 d0f1351a450f6bb9f722849e7ff31e7c )
+)
+
+game (
+	name "ZZZ-UNK-net_14"
+	description "ZZZ-UNK-net_14"
+	rom ( name "ZZZ-UNK-net_14.dsk" size 819200 crc 7ea58aca md5 5213b0d8810d09caf1dc288655d9d30a )
+)
+
+game (
+	name "ZZZ-UNK-net_15"
+	description "ZZZ-UNK-net_15"
+	rom ( name "ZZZ-UNK-net_15.dsk" size 819200 crc 4c9b1191 md5 751de10bd199ca141dd89007fdb3748b )
+)
+
+game (
+	name "ZZZ-UNK-net_16"
+	description "ZZZ-UNK-net_16"
+	rom ( name "ZZZ-UNK-net_16.dsk" size 819200 crc e7c6206b md5 79f18d07b8041f0a6c87073f3bae39e6 )
+)
+
+game (
+	name "ZZZ-UNK-net_17"
+	description "ZZZ-UNK-net_17"
+	rom ( name "ZZZ-UNK-net_17.dsk" size 819200 crc 41d72703 md5 f29951e4485c29e69e622d24b0b4d344 )
+)
+
+game (
+	name "ZZZ-UNK-net_18"
+	description "ZZZ-UNK-net_18"
+	rom ( name "ZZZ-UNK-net_18.dsk" size 819200 crc 73c9996b md5 22c902a3b4de440dcb0dbb27870be654 )
+)
+
+game (
+	name "ZZZ-UNK-net_19"
+	description "ZZZ-UNK-net_19"
+	rom ( name "ZZZ-UNK-net_19.dsk" size 819200 crc ebb707de md5 118cab5b643eb60f1c3442f75d72fb39 )
+)
+
+game (
+	name "ZZZ-UNK-net_20"
+	description "ZZZ-UNK-net_20"
+	rom ( name "ZZZ-UNK-net_20.dsk" size 819200 crc 98adefb8 md5 b592a519cf805c6e1fd035fd324315df )
+)
+
+game (
+	name "ZZZ-UNK-net_21"
+	description "ZZZ-UNK-net_21"
+	rom ( name "ZZZ-UNK-net_21.dsk" size 819200 crc babf8675 md5 197e740d40626648b78348fd258cc3fb )
+)
+
+game (
+	name "ZZZ-UNK-net_22"
+	description "ZZZ-UNK-net_22"
+	rom ( name "ZZZ-UNK-net_22.dsk" size 819200 crc bb606a2d md5 f5f7e8a035946c165a5e8d172a5c286d )
+)
+
+game (
+	name "ZZZ-UNK-net_24"
+	description "ZZZ-UNK-net_24"
+	rom ( name "ZZZ-UNK-net_24.dsk" size 819200 crc da73781b md5 26fb55b74420dd9b4160e4457e0f20bb )
+)
+
+game (
+	name "ZZZ-UNK-net_25"
+	description "ZZZ-UNK-net_25"
+	rom ( name "ZZZ-UNK-net_25.dsk" size 819200 crc 56bc6c28 md5 5b23523ff3cc5c06eb3eb2e646c6f19b )
+)
+
+game (
+	name "ZZZ-UNK-net_26"
+	description "ZZZ-UNK-net_26"
+	rom ( name "ZZZ-UNK-net_26.dsk" size 819200 crc 343c7dbc md5 00382a2acda62cf23249cd942e05be3a )
+)
+
+game (
+	name "ZZZ-UNK-networksigmaissue7"
+	description "ZZZ-UNK-networksigmaissue7"
+	rom ( name "ZZZ-UNK-networksigmaissue7.dsk" size 819200 crc 3897fa4b md5 12db9852163c90b81df914e1c335a9f2 )
+)
+
+game (
+	name "ZZZ-UNK-nightbreeddemo"
+	description "ZZZ-UNK-nightbreeddemo"
+	rom ( name "ZZZ-UNK-nightbreeddemo.dsk" size 819200 crc 2cc0551d md5 263d7bb3686be08faf4dd824a10312fe )
+)
+
+game (
+	name "ZZZ-UNK-nudes"
+	description "ZZZ-UNK-nudes"
+	rom ( name "ZZZ-UNK-nudes.dsk" size 819200 crc 3554ef70 md5 253995be9264ce6753b1341661c34e88 )
+)
+
+game (
+	name "ZZZ-UNK-octopus"
+	description "ZZZ-UNK-octopus"
+	rom ( name "ZZZ-UNK-octopus.dsk" size 819200 crc 5690f238 md5 31ad18a6e81b896e88c433f548da1c9b )
+)
+
+game (
+	name "ZZZ-UNK-officialsamcomputersdemo1991"
+	description "ZZZ-UNK-officialsamcomputersdemo1991"
+	rom ( name "ZZZ-UNK-officialsamcomputersdemo1991.dsk" size 819200 crc 515de624 md5 2dd372aa2419dba76ae4297f06775fc8 )
+)
+
+game (
+	name "ZZZ-UNK-oh no more lemmings#data before compression (19xx) (chris white)"
+	description "ZZZ-UNK-oh no more lemmings#data before compression (19xx) (chris white)"
+	rom ( name "ZZZ-UNK-oh no more lemmings#data before compression (19xx) (chris white).dsk" size 819222 crc 3c866d91 md5 e02692d941dce119e2bd639e75ded243 )
+)
+
+game (
+	name "ZZZ-UNK-oh no more lemmings#gfx iff (19xx) (chris white)"
+	description "ZZZ-UNK-oh no more lemmings#gfx iff (19xx) (chris white)"
+	rom ( name "ZZZ-UNK-oh no more lemmings#gfx iff (19xx) (chris white).dsk" size 819222 crc ef13c9eb md5 796feb49c2b267f5b504233d1b49ee7b )
+)
+
+game (
+	name "ZZZ-UNK-oh no more lemmings#make files (19xx) (chris white)"
+	description "ZZZ-UNK-oh no more lemmings#make files (19xx) (chris white)"
+	rom ( name "ZZZ-UNK-oh no more lemmings#make files (19xx) (chris white).dsk" size 819222 crc 79f5cff2 md5 c4b9e67350782dd8b3d2806f5fc13717 )
+)
+
+game (
+	name "ZZZ-UNK-oh no more lemmings#make master side 1&2 (19xx) (chris white)"
+	description "ZZZ-UNK-oh no more lemmings#make master side 1&2 (19xx) (chris white)"
+	rom ( name "ZZZ-UNK-oh no more lemmings#make master side 1&2 (19xx) (chris white).dsk" size 819222 crc 7010d197 md5 2c74931934ef1ae63bdb5df8afc5a1b3 )
+)
+
+game (
+	name "ZZZ-UNK-oh no more lemmings#raw data iffs (19xx) (chris white)"
+	description "ZZZ-UNK-oh no more lemmings#raw data iffs (19xx) (chris white)"
+	rom ( name "ZZZ-UNK-oh no more lemmings#raw data iffs (19xx) (chris white).dsk" size 819222 crc 3984ed8f md5 f929297e4a0c4dd851b7ac5f001648c9 )
+)
+
+game (
+	name "ZZZ-UNK-open 3d v082 by tobermory (2001) (pd)"
+	description "ZZZ-UNK-open 3d v082 by tobermory (2001) (pd)"
+	rom ( name "ZZZ-UNK-open 3d v082 by tobermory (2001) (pd).dsk" size 819200 crc 71362e3a md5 140c6c098b1919b75663b33219c57fdf )
+)
+
+game (
+	name "ZZZ-UNK-outlet33"
+	description "ZZZ-UNK-outlet33"
+	rom ( name "ZZZ-UNK-outlet33.dsk" size 819200 crc be439ee8 md5 2530a16467859badc637c019ece2c19e )
+)
+
+game (
+	name "ZZZ-UNK-outlet34"
+	description "ZZZ-UNK-outlet34"
+	rom ( name "ZZZ-UNK-outlet34.dsk" size 819200 crc 66342e2e md5 4ba16c9813ee0cca3698611cd8144c85 )
+)
+
+game (
+	name "ZZZ-UNK-outlet35"
+	description "ZZZ-UNK-outlet35"
+	rom ( name "ZZZ-UNK-outlet35.dsk" size 819200 crc 0959ba89 md5 ad5a7e7ee7ff446d83adc37a619292ed )
+)
+
+game (
+	name "ZZZ-UNK-outlet36"
+	description "ZZZ-UNK-outlet36"
+	rom ( name "ZZZ-UNK-outlet36.dsk" size 819200 crc 0fe1d70b md5 9bbf8f016b2e2a9abf4fa6e20c8a370d )
+)
+
+game (
+	name "ZZZ-UNK-outlet37"
+	description "ZZZ-UNK-outlet37"
+	rom ( name "ZZZ-UNK-outlet37.dsk" size 819200 crc 29aa6108 md5 ee9d8e05fc478b9a0e489508c03ab018 )
+)
+
+game (
+	name "ZZZ-UNK-outlet38"
+	description "ZZZ-UNK-outlet38"
+	rom ( name "ZZZ-UNK-outlet38.dsk" size 819200 crc eaad8b33 md5 4b52eccc7a7377235a3898e09b540932 )
+)
+
+game (
+	name "ZZZ-UNK-outlet39"
+	description "ZZZ-UNK-outlet39"
+	rom ( name "ZZZ-UNK-outlet39.dsk" size 819200 crc 31be8945 md5 318398201e54e942a320047e211e4151 )
+)
+
+game (
+	name "ZZZ-UNK-outlet40"
+	description "ZZZ-UNK-outlet40"
+	rom ( name "ZZZ-UNK-outlet40.dsk" size 819200 crc fa6e4e5e md5 45a97309a715c30b20f2a043eb628462 )
+)
+
+game (
+	name "ZZZ-UNK-outlet41"
+	description "ZZZ-UNK-outlet41"
+	rom ( name "ZZZ-UNK-outlet41.dsk" size 819200 crc d3677c7c md5 2acc39a892842ad863e609b0fc3c9efa )
+)
+
+game (
+	name "ZZZ-UNK-outlet42"
+	description "ZZZ-UNK-outlet42"
+	rom ( name "ZZZ-UNK-outlet42.dsk" size 819200 crc 4e2439b2 md5 718ce40c1e1777c153c1eee31d920ecb )
+)
+
+game (
+	name "ZZZ-UNK-outlet43"
+	description "ZZZ-UNK-outlet43"
+	rom ( name "ZZZ-UNK-outlet43.dsk" size 819200 crc 169f6419 md5 24f763779e9a1f82ffc68554647cb594 )
+)
+
+game (
+	name "ZZZ-UNK-outlet44"
+	description "ZZZ-UNK-outlet44"
+	rom ( name "ZZZ-UNK-outlet44.dsk" size 819200 crc f1c7ce2f md5 79df6dfa6500fdeb78a43d980c70aa64 )
+)
+
+game (
+	name "ZZZ-UNK-outlet45"
+	description "ZZZ-UNK-outlet45"
+	rom ( name "ZZZ-UNK-outlet45.dsk" size 819200 crc f982027b md5 13d41a1c62c35b6cde32d2c0ca6c1bee )
+)
+
+game (
+	name "ZZZ-UNK-outlet46"
+	description "ZZZ-UNK-outlet46"
+	rom ( name "ZZZ-UNK-outlet46.dsk" size 819200 crc 82dd0685 md5 b4c870c860156c8a01d5c2834421910e )
+)
+
+game (
+	name "ZZZ-UNK-outlet47"
+	description "ZZZ-UNK-outlet47"
+	rom ( name "ZZZ-UNK-outlet47.dsk" size 819200 crc 784b05b4 md5 355a185f807530b510744bc4004a3f6b )
+)
+
+game (
+	name "ZZZ-UNK-outlet48"
+	description "ZZZ-UNK-outlet48"
+	rom ( name "ZZZ-UNK-outlet48.dsk" size 819200 crc 06ccbee5 md5 0d55e7cb4625116ead2db4cb05742e35 )
+)
+
+game (
+	name "ZZZ-UNK-outlet49"
+	description "ZZZ-UNK-outlet49"
+	rom ( name "ZZZ-UNK-outlet49.dsk" size 819200 crc 0eb84f20 md5 c8eba50b5bc501f3d1c122149d5e7157 )
+)
+
+game (
+	name "ZZZ-UNK-outlet50"
+	description "ZZZ-UNK-outlet50"
+	rom ( name "ZZZ-UNK-outlet50.dsk" size 819200 crc bd122898 md5 576f3bdbaeafa5ff96471cb135d2b3e3 )
+)
+
+game (
+	name "ZZZ-UNK-outlet51"
+	description "ZZZ-UNK-outlet51"
+	rom ( name "ZZZ-UNK-outlet51.dsk" size 819200 crc 34a04887 md5 eef6ea82d6f5d4bccabf647b6aa86de0 )
+)
+
+game (
+	name "ZZZ-UNK-outlet52"
+	description "ZZZ-UNK-outlet52"
+	rom ( name "ZZZ-UNK-outlet52.dsk" size 819200 crc 908c7f60 md5 234fd4471d831865c0ae8620d6417454 )
+)
+
+game (
+	name "ZZZ-UNK-outlet53"
+	description "ZZZ-UNK-outlet53"
+	rom ( name "ZZZ-UNK-outlet53.dsk" size 819200 crc 50a7f2b6 md5 f8b515945a0f131a1e2ca8612bfb4e15 )
+)
+
+game (
+	name "ZZZ-UNK-outlet54"
+	description "ZZZ-UNK-outlet54"
+	rom ( name "ZZZ-UNK-outlet54.dsk" size 819200 crc fb8cf53b md5 cb33816307452908aa1244ba22679319 )
+)
+
+game (
+	name "ZZZ-UNK-outlet55"
+	description "ZZZ-UNK-outlet55"
+	rom ( name "ZZZ-UNK-outlet55.dsk" size 819200 crc 64fef5e8 md5 80e20e33d17ac450aa9a0be1e8160e48 )
+)
+
+game (
+	name "ZZZ-UNK-outlet56"
+	description "ZZZ-UNK-outlet56"
+	rom ( name "ZZZ-UNK-outlet56.dsk" size 819200 crc 762888f5 md5 0d48e450a04e7866332607a5ca0b84ef )
+)
+
+game (
+	name "ZZZ-UNK-outlet57"
+	description "ZZZ-UNK-outlet57"
+	rom ( name "ZZZ-UNK-outlet57.dsk" size 819200 crc 1e4e394c md5 748641d5293d1558b54b9364bbdda2ef )
+)
+
+game (
+	name "ZZZ-UNK-outlet58"
+	description "ZZZ-UNK-outlet58"
+	rom ( name "ZZZ-UNK-outlet58.dsk" size 819200 crc ad686cab md5 5020b438eb950ac57241082acf025c90 )
+)
+
+game (
+	name "ZZZ-UNK-outlet59"
+	description "ZZZ-UNK-outlet59"
+	rom ( name "ZZZ-UNK-outlet59.dsk" size 819200 crc 33bb15b3 md5 93c3201e49dc50e1bbc273ba920a283d )
+)
+
+game (
+	name "ZZZ-UNK-outlet60"
+	description "ZZZ-UNK-outlet60"
+	rom ( name "ZZZ-UNK-outlet60.dsk" size 819200 crc 030e68aa md5 3bbf4548b55f18cfc8d3d8d600c8dad8 )
+)
+
+game (
+	name "ZZZ-UNK-outlet61"
+	description "ZZZ-UNK-outlet61"
+	rom ( name "ZZZ-UNK-outlet61.dsk" size 819200 crc 972458e5 md5 acc8f290f02e242c0724200fdd5ac4f1 )
+)
+
+game (
+	name "ZZZ-UNK-outlet62"
+	description "ZZZ-UNK-outlet62"
+	rom ( name "ZZZ-UNK-outlet62.dsk" size 819200 crc 0678c670 md5 cc8ca95f196f874b27729ad8d1268382 )
+)
+
+game (
+	name "ZZZ-UNK-outlet63"
+	description "ZZZ-UNK-outlet63"
+	rom ( name "ZZZ-UNK-outlet63.dsk" size 819200 crc 7b7b90d1 md5 6c7f67323554dd2ad0d3c88992cfc7fa )
+)
+
+game (
+	name "ZZZ-UNK-outlet64"
+	description "ZZZ-UNK-outlet64"
+	rom ( name "ZZZ-UNK-outlet64.dsk" size 819200 crc 2fd8eadc md5 faf6fa4f59255812133bb67d43d3eee6 )
+)
+
+game (
+	name "ZZZ-UNK-outlet65"
+	description "ZZZ-UNK-outlet65"
+	rom ( name "ZZZ-UNK-outlet65.dsk" size 819200 crc 3b03e869 md5 04a4a78d945744796438cd5065552fb1 )
+)
+
+game (
+	name "ZZZ-UNK-outletgames1"
+	description "ZZZ-UNK-outletgames1"
+	rom ( name "ZZZ-UNK-outletgames1.dsk" size 819200 crc 0fe0f976 md5 2c5974ac2868598dc9f3f89bd4f2977c )
+)
+
+game (
+	name "ZZZ-UNK-outwritev3.0"
+	description "ZZZ-UNK-outwritev3.0"
+	rom ( name "ZZZ-UNK-outwritev3.0.dsk" size 819200 crc 9b8fa828 md5 365570feae704793335b68bb6948d920 )
+)
+
+game (
+	name "ZZZ-UNK-overland"
+	description "ZZZ-UNK-overland"
+	rom ( name "ZZZ-UNK-overland.dsk" size 819200 crc 528b6c52 md5 353c3b0b48d7ce9181d6a562b962ffba )
+)
+
+game (
+	name "ZZZ-UNK-pacemu by simon owen (2004) (pd)"
+	description "ZZZ-UNK-pacemu by simon owen (2004) (pd)"
+	rom ( name "ZZZ-UNK-pacemu by simon owen (2004) (pd).dsk" size 819200 crc bbde773d md5 0751d9a5aaf9ab4d1c9a8d12efcaa800 )
+)
+
+game (
+	name "ZZZ-UNK-pangconvertedbystefandrissen"
+	description "ZZZ-UNK-pangconvertedbystefandrissen"
+	rom ( name "ZZZ-UNK-pangconvertedbystefandrissen.dsk" size 819200 crc 96aaafeb md5 23dad1864a405b49ac49afa7267b006b )
+)
+
+game (
+	name "ZZZ-UNK-paulhorridgegi_monv3"
+	description "ZZZ-UNK-paulhorridgegi_monv3"
+	rom ( name "ZZZ-UNK-paulhorridgegi_monv3.dsk" size 819200 crc 3731b363 md5 b7af8b9b7152d6db46e110b8b4c75eb9 )
+)
+
+game (
+	name "ZZZ-UNK-paulhorridgegi_monv4.1"
+	description "ZZZ-UNK-paulhorridgegi_monv4.1"
+	rom ( name "ZZZ-UNK-paulhorridgegi_monv4.1.dsk" size 819200 crc 4ea13c2b md5 f9b75262b4731d2ab24cfc37f9472312 )
+)
+
+game (
+	name "ZZZ-UNK-pax disk 1 (1996) (glenco)"
+	description "ZZZ-UNK-pax disk 1 (1996) (glenco)"
+	rom ( name "ZZZ-UNK-pax disk 1 (1996) (glenco).dsk" size 819200 crc de47b6f0 md5 df5278774e1a182646a51e089d50cc89 )
+)
+
+game (
+	name "ZZZ-UNK-pax disk 2 (1996) (glenco)"
+	description "ZZZ-UNK-pax disk 2 (1996) (glenco)"
+	rom ( name "ZZZ-UNK-pax disk 2 (1996) (glenco).dsk" size 819200 crc a6abba63 md5 bfc64161004efd29e3e5d861ad7c4844 )
+)
+
+game (
+	name "ZZZ-UNK-paxscadsgame disk1"
+	description "ZZZ-UNK-paxscadsgame disk1"
+	rom ( name "ZZZ-UNK-paxscadsgame disk1.dsk" size 819200 crc 1f03dfd9 md5 4722e86ce54cf373daae1280e6f25a60 )
+)
+
+game (
+	name "ZZZ-UNK-paxscadsgame disk2"
+	description "ZZZ-UNK-paxscadsgame disk2"
+	rom ( name "ZZZ-UNK-paxscadsgame disk2.dsk" size 819200 crc 0980226d md5 050646ccfeff0408e5bcb95e8d6e4f30 )
+)
+
+game (
+	name "ZZZ-UNK-pcsuitev2.2"
+	description "ZZZ-UNK-pcsuitev2.2"
+	rom ( name "ZZZ-UNK-pcsuitev2.2.dsk" size 819200 crc 75bb0cdb md5 d544b74968f11ad4b87ce74fc3c1d02b )
+)
+
+game (
+	name "ZZZ-UNK-pd'90 the best of 1990 (1990) (pd)"
+	description "ZZZ-UNK-pd'90 the best of 1990 (1990) (pd)"
+	rom ( name "ZZZ-UNK-pd'90 the best of 1990 (1990) (pd).dsk" size 819200 crc e3a7afd7 md5 81d88e9b4df80f52a18cda7461e69a09 )
+)
+
+game (
+	name "ZZZ-UNK-pdsbootdisk"
+	description "ZZZ-UNK-pdsbootdisk"
+	rom ( name "ZZZ-UNK-pdsbootdisk.dsk" size 819200 crc ef142e7c md5 af40b32259d8c5f2f1bc3f6b49e3ce45 )
+)
+
+game (
+	name "ZZZ-UNK-perpetualsound"
+	description "ZZZ-UNK-perpetualsound"
+	rom ( name "ZZZ-UNK-perpetualsound.dsk" size 819200 crc 2efa2e57 md5 98f37abddc163eea64175e13d3fd4ebb )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 06 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 06 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 06 (19xx) (pd).dsk" size 819200 crc c419719e md5 d8f4b05aa65a8370c99291c0a3e6a582 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 08 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 08 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 08 (19xx) (pd).dsk" size 819200 crc 5996dc1e md5 7b9267f08c6481527be76485a7f5d829 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 09 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 09 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 09 (19xx) (pd).dsk" size 819200 crc 59e3970b md5 0df9d93d4fd439d893e37d2e213575bf )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 10 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 10 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 10 (19xx) (pd).dsk" size 819200 crc 4733cd0d md5 61381428cb2905f707b6b4095050334c )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 11 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 11 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 11 (19xx) (pd).dsk" size 819200 crc a8c43a9a md5 0cdf33845245b657fb9e45b0c02bad38 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 12 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 12 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 12 (19xx) (pd).dsk" size 819200 crc 4e546598 md5 cfe91e58faf6157f6f96c34d36eb9c42 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 13 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 13 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 13 (19xx) (pd).dsk" size 819200 crc c7ce2fdc md5 933376481e6e981fb9dba3f9fa7704aa )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 14 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 14 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 14 (19xx) (pd).dsk" size 819200 crc 34ed122f md5 fc4732a4a226ee62a6e68e77753c28c6 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 15 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 15 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 15 (19xx) (pd).dsk" size 819200 crc 761f8823 md5 daa3df5755c5a45ff0d0d4b2c44632db )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 16 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 16 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 16 (19xx) (pd).dsk" size 819200 crc 80792bc2 md5 c53ef4e6355132b64a58945cb4294a21 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 17 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 17 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 17 (19xx) (pd).dsk" size 819200 crc 4cc1fbef md5 7519282b812c8cba7f2229e02a81dfa0 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 18 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 18 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 18 (19xx) (pd).dsk" size 819200 crc 97961d86 md5 82043e3710a7e547aa444646e9647217 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 19 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 19 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 19 (19xx) (pd).dsk" size 819200 crc 5a309558 md5 7f1d91076917534dcd5173415c0c1a71 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 20 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 20 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 20 (19xx) (pd).dsk" size 819200 crc 275c7758 md5 f08511727169a5a00d69dd0d17524456 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 21 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 21 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 21 (19xx) (pd).dsk" size 819200 crc edd2815c md5 695d6f6674a8d73ebe208eea349b899d )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 22 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 22 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 22 (19xx) (pd).dsk" size 819200 crc 75b2ec96 md5 9f7fe291e0bc8e7fdf85b106998e3898 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 24 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 24 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 24 (19xx) (pd).dsk" size 819200 crc d5edec7c md5 2458546252e26310048ee754011a0d62 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 25 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 25 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 25 (19xx) (pd).dsk" size 819200 crc 34e492bd md5 13319c8a67721d4062a568bccdb80029 )
+)
+
+game (
+	name "ZZZ-UNK-pics from the net 26 (19xx) (pd)"
+	description "ZZZ-UNK-pics from the net 26 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-pics from the net 26 (19xx) (pd).dsk" size 819200 crc 5221784c md5 fa12e0b7cbec99ef8be6d5afa3f36b7e )
+)
+
+game (
+	name "ZZZ-UNK-plusd-disciplesnaploader"
+	description "ZZZ-UNK-plusd-disciplesnaploader"
+	rom ( name "ZZZ-UNK-plusd-disciplesnaploader.dsk" size 819200 crc 5937ef97 md5 69de65d083e6978a34ad37ca7dafb552 )
+)
+
+game (
+	name "ZZZ-UNK-popshowlevels"
+	description "ZZZ-UNK-popshowlevels"
+	rom ( name "ZZZ-UNK-popshowlevels.dsk" size 819200 crc d9f801da md5 21e99545e923e19856211c5a28de2384 )
+)
+
+game (
+	name "ZZZ-UNK-pornodisk1"
+	description "ZZZ-UNK-pornodisk1"
+	rom ( name "ZZZ-UNK-pornodisk1.dsk" size 819200 crc ccde58b3 md5 d59e7ccadb32b8798dd1d596258b7492 )
+)
+
+game (
+	name "ZZZ-UNK-pornotv"
+	description "ZZZ-UNK-pornotv"
+	rom ( name "ZZZ-UNK-pornotv.dsk" size 819200 crc c18ac96c md5 75cd9cc78017f788f399cb488b0ab97c )
+)
+
+game (
+	name "ZZZ-UNK-princeofpersiaanimationdemo"
+	description "ZZZ-UNK-princeofpersiaanimationdemo"
+	rom ( name "ZZZ-UNK-princeofpersiaanimationdemo.dsk" size 819200 crc 8d81a0ad md5 6c22872d409b0dae072ca33a11d5a42e )
+)
+
+game (
+	name "ZZZ-UNK-print routines+tables+testers by chris white (19xx)"
+	description "ZZZ-UNK-print routines+tables+testers by chris white (19xx)"
+	rom ( name "ZZZ-UNK-print routines+tables+testers by chris white (19xx).dsk" size 819222 crc 919a0b0e md5 9f3bd1951dad3426e8a38498186f922d )
+)
+
+game (
+	name "ZZZ-UNK-printrouines+tables+testers"
+	description "ZZZ-UNK-printrouines+tables+testers"
+	rom ( name "ZZZ-UNK-printrouines+tables+testers.dsk" size 819200 crc 96247999 md5 4943dab93a7df1b3aff5de652a6da655 )
+)
+
+game (
+	name "ZZZ-UNK-prntfx#won't unpack"
+	description "ZZZ-UNK-prntfx#won't unpack"
+	rom ( name "ZZZ-UNK-prntfx#won't unpack.dsk" size 819200 crc 1b26b6c8 md5 153755a9480fc6f3714fded615cbc1b4 )
+)
+
+game (
+	name "ZZZ-UNK-protracker#compiler"
+	description "ZZZ-UNK-protracker#compiler"
+	rom ( name "ZZZ-UNK-protracker#compiler.dsk" size 819200 crc 7e992768 md5 6cfc568326b940c0a986c45a90be7e81 )
+)
+
+game (
+	name "ZZZ-UNK-protracker#data disk"
+	description "ZZZ-UNK-protracker#data disk"
+	rom ( name "ZZZ-UNK-protracker#data disk.dsk" size 819200 crc 8f94ec12 md5 013b10c32e12fd327049316590bb09c0 )
+)
+
+game (
+	name "ZZZ-UNK-protype"
+	description "ZZZ-UNK-protype"
+	rom ( name "ZZZ-UNK-protype.dsk" size 819200 crc 587a2542 md5 078aea78079fd4d9f520c296a3aa0a29 )
+)
+
+game (
+	name "ZZZ-UNK-public the third (19xx)"
+	description "ZZZ-UNK-public the third (19xx)"
+	rom ( name "ZZZ-UNK-public the third (19xx).dsk" size 819200 crc 6631988a md5 fbb0e21386891ef78b0ef03e4f28f0b9 )
+)
+
+game (
+	name "ZZZ-UNK-quantumleapthemesoundsample"
+	description "ZZZ-UNK-quantumleapthemesoundsample"
+	rom ( name "ZZZ-UNK-quantumleapthemesoundsample.dsk" size 819200 crc 1d7d2aa9 md5 6c02d9b1edc86fe10eb2756e989beeed )
+)
+
+game (
+	name "ZZZ-UNK-rawdata(iffs)"
+	description "ZZZ-UNK-rawdata(iffs)"
+	rom ( name "ZZZ-UNK-rawdata(iffs).dsk" size 819200 crc 1368da29 md5 1c31a82797161e58e1e1c83fa5d9d63f )
+)
+
+game (
+	name "ZZZ-UNK-rawdata1"
+	description "ZZZ-UNK-rawdata1"
+	rom ( name "ZZZ-UNK-rawdata1.dsk" size 819200 crc 7b2ca3c4 md5 359f12e573203c41edb7257c5260e294 )
+)
+
+game (
+	name "ZZZ-UNK-rawdata2"
+	description "ZZZ-UNK-rawdata2"
+	rom ( name "ZZZ-UNK-rawdata2.dsk" size 819200 crc 062a3730 md5 4ee34c3b89b9218ee959aeb9b7f711e0 )
+)
+
+game (
+	name "ZZZ-UNK-rawdata3"
+	description "ZZZ-UNK-rawdata3"
+	rom ( name "ZZZ-UNK-rawdata3.dsk" size 819200 crc a4a7b2c0 md5 fefec00fd757cac980ff96cac21d594d )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 1 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 1 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 1 (19xx).dsk" size 819200 crc 330211d1 md5 9e25690cf16931587fdcee23362ee9e3 )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 2 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 2 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 2 (19xx).dsk" size 819200 crc 9abfc103 md5 3357e1979e9e46e949dab8fa2b5f2747 )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 3 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 3 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 3 (19xx).dsk" size 819200 crc 77e5d56d md5 c76aa0c5c89110c1510af080051a295b )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 4 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 4 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 4 (19xx).dsk" size 819200 crc 735e092d md5 e41cedda5dcee3fce24ee8b32feddce3 )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 5 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 5 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 5 (19xx).dsk" size 819200 crc 5a153238 md5 3aa170391286fc2e34514b8ef915967b )
+)
+
+game (
+	name "ZZZ-UNK-rgb viewer pics disk 6 (19xx)"
+	description "ZZZ-UNK-rgb viewer pics disk 6 (19xx)"
+	rom ( name "ZZZ-UNK-rgb viewer pics disk 6 (19xx).dsk" size 819200 crc 28f3804b md5 2fdeaf01faefd56d9e6be3f961360944 )
+)
+
+game (
+	name "ZZZ-UNK-rgb_1"
+	description "ZZZ-UNK-rgb_1"
+	rom ( name "ZZZ-UNK-rgb_1.dsk" size 819200 crc 80adfd4f md5 d9da2d0f92cf21495330011b67ed4593 )
+)
+
+game (
+	name "ZZZ-UNK-rgb_2"
+	description "ZZZ-UNK-rgb_2"
+	rom ( name "ZZZ-UNK-rgb_2.dsk" size 819200 crc 161f9a1d md5 1d9809225b9f67a470cf2442e3ad4371 )
+)
+
+game (
+	name "ZZZ-UNK-rgb_3"
+	description "ZZZ-UNK-rgb_3"
+	rom ( name "ZZZ-UNK-rgb_3.dsk" size 819200 crc c8137ca3 md5 2c254559999c9b4555c8e754a5e2e4e1 )
+)
+
+game (
+	name "ZZZ-UNK-rgb_4"
+	description "ZZZ-UNK-rgb_4"
+	rom ( name "ZZZ-UNK-rgb_4.dsk" size 819200 crc 30391f97 md5 3b878a8c201c7e2ce9a5214aa513fd9e )
+)
+
+game (
+	name "ZZZ-UNK-rgb_5"
+	description "ZZZ-UNK-rgb_5"
+	rom ( name "ZZZ-UNK-rgb_5.dsk" size 819200 crc 7ec29c6f md5 a7ce36e2d022da15662bcdf898864979 )
+)
+
+game (
+	name "ZZZ-UNK-rgb_6"
+	description "ZZZ-UNK-rgb_6"
+	rom ( name "ZZZ-UNK-rgb_6.dsk" size 819200 crc 51c77461 md5 3487dd8a77d571c290a1782c288e88f4 )
+)
+
+game (
+	name "ZZZ-UNK-rgbdemo"
+	description "ZZZ-UNK-rgbdemo"
+	rom ( name "ZZZ-UNK-rgbdemo.dsk" size 819200 crc 564b1d2f md5 42d2f7cdca0ed1172c936b52db80138a )
+)
+
+game (
+	name "ZZZ-UNK-rgbinterlaced"
+	description "ZZZ-UNK-rgbinterlaced"
+	rom ( name "ZZZ-UNK-rgbinterlaced.dsk" size 819200 crc 3e08e996 md5 aebd95445653f9a3314ae20d0ea4024b )
+)
+
+game (
+	name "ZZZ-UNK-robocopdigitisedfilmdemo"
+	description "ZZZ-UNK-robocopdigitisedfilmdemo"
+	rom ( name "ZZZ-UNK-robocopdigitisedfilmdemo.dsk" size 819200 crc f02872e2 md5 efe2b493a0715f6028d724b7228d6c4a )
+)
+
+game (
+	name "ZZZ-UNK-rumsoftsamccomplierv3.1"
+	description "ZZZ-UNK-rumsoftsamccomplierv3.1"
+	rom ( name "ZZZ-UNK-rumsoftsamccomplierv3.1.dsk" size 819200 crc df782294 md5 0d965388c3258bda6b1bc2f4d8bc6b6f )
+)
+
+game (
+	name "ZZZ-UNK-rumsoftsamccomplierv4.21"
+	description "ZZZ-UNK-rumsoftsamccomplierv4.21"
+	rom ( name "ZZZ-UNK-rumsoftsamccomplierv4.21.dsk" size 819200 crc 5cc8a2cb md5 fb774c699dd177ca20294ad10bfce553 )
+)
+
+game (
+	name "ZZZ-UNK-rumsoftsamvisionv1.0"
+	description "ZZZ-UNK-rumsoftsamvisionv1.0"
+	rom ( name "ZZZ-UNK-rumsoftsamvisionv1.0.dsk" size 819200 crc 72a95249 md5 7290686661068d00d59e4d84be869d62 )
+)
+
+game (
+	name "ZZZ-UNK-rumsoftzipperutilities"
+	description "ZZZ-UNK-rumsoftzipperutilities"
+	rom ( name "ZZZ-UNK-rumsoftzipperutilities.dsk" size 819200 crc 27b67d9b md5 05dc87c76842e3378d5d95150e996063 )
+)
+
+game (
+	name "ZZZ-UNK-sam cd2 utility (1990) (kobrahsoft)"
+	description "ZZZ-UNK-sam cd2 utility (1990) (kobrahsoft)"
+	rom ( name "ZZZ-UNK-sam cd2 utility (1990) (kobrahsoft).dsk" size 819200 crc 45e47c2f md5 1566d436daba08575326667bca20d46f )
+)
+
+game (
+	name "ZZZ-UNK-sam coupe demo collection disk 09 (1992) (pd)"
+	description "ZZZ-UNK-sam coupe demo collection disk 09 (1992) (pd)"
+	rom ( name "ZZZ-UNK-sam coupe demo collection disk 09 (1992) (pd).dsk" size 860182 crc dbcf9d46 md5 4a59b2e804bab990b0ec224d30f70d3c )
+)
+
+game (
+	name "ZZZ-UNK-sam coupe demo collection disk 10 (1992) (pd) [b]"
+	description "ZZZ-UNK-sam coupe demo collection disk 10 (1992) (pd) [b]"
+	rom ( name "ZZZ-UNK-sam coupe demo collection disk 10 (1992) (pd) [b].dsk" size 819222 crc d0b43d20 md5 56baa34f6a136609412bcc58541bc7ae )
+)
+
+game (
+	name "ZZZ-UNK-sam mouse disk v1.2 (19xx)"
+	description "ZZZ-UNK-sam mouse disk v1.2 (19xx)"
+	rom ( name "ZZZ-UNK-sam mouse disk v1.2 (19xx).dsk" size 819200 crc a42beceb md5 f8ce1e0ff5a74bc8ab2201795d7ba2ee )
+)
+
+game (
+	name "ZZZ-UNK-sam public quarterly issue 5 (19xx) [a]"
+	description "ZZZ-UNK-sam public quarterly issue 5 (19xx) [a]"
+	rom ( name "ZZZ-UNK-sam public quarterly issue 5 (19xx) [a].dsk" size 819200 crc a5482272 md5 43f1a485cd1f54fdf0fe80977b043544 )
+)
+
+game (
+	name "ZZZ-UNK-sam sound sampler software (blue alpha)"
+	description "ZZZ-UNK-sam sound sampler software (blue alpha)"
+	rom ( name "ZZZ-UNK-sam sound sampler software (blue alpha).dsk" size 819200 crc 5a1c5b63 md5 e0c435f409507981a21a2dc3b1df1131 )
+)
+
+game (
+	name "ZZZ-UNK-sam utils (1993)"
+	description "ZZZ-UNK-sam utils (1993)"
+	rom ( name "ZZZ-UNK-sam utils (1993).dsk" size 819200 crc 040e1580 md5 e35de35c26741dba26f2498fd1996086 )
+)
+
+game (
+	name "ZZZ-UNK-samco birthday pack best of enceledus"
+	description "ZZZ-UNK-samco birthday pack best of enceledus"
+	rom ( name "ZZZ-UNK-samco birthday pack best of enceledus.dsk" size 819200 crc 83399601 md5 a9e85f9d4290d14fd4f62701b165e4cb )
+)
+
+game (
+	name "ZZZ-UNK-samco birthday pack demo and previews"
+	description "ZZZ-UNK-samco birthday pack demo and previews"
+	rom ( name "ZZZ-UNK-samco birthday pack demo and previews.dsk" size 819200 crc ef83f799 md5 17a1f0dcfc7776995000481c4dfe82dd )
+)
+
+game (
+	name "ZZZ-UNK-samco birthday pack games and utilities"
+	description "ZZZ-UNK-samco birthday pack games and utilities"
+	rom ( name "ZZZ-UNK-samco birthday pack games and utilities.dsk" size 819200 crc a3a9b96d md5 7ad148822da314f5afa858e4d918ae98 )
+)
+
+game (
+	name "ZZZ-UNK-samconewsdisksamjuggler"
+	description "ZZZ-UNK-samconewsdisksamjuggler"
+	rom ( name "ZZZ-UNK-samconewsdisksamjuggler.dsk" size 819200 crc 22fc1f89 md5 4c64eaf73772d79f6dcc35064eeab826 )
+)
+
+game (
+	name "ZZZ-UNK-samdicev1.0"
+	description "ZZZ-UNK-samdicev1.0"
+	rom ( name "ZZZ-UNK-samdicev1.0.dsk" size 819200 crc b709eaf4 md5 e178ecb7b98db9f63153adbc3859e7fe )
+)
+
+game (
+	name "ZZZ-UNK-samdos2incometformatmasterv1.2"
+	description "ZZZ-UNK-samdos2incometformatmasterv1.2"
+	rom ( name "ZZZ-UNK-samdos2incometformatmasterv1.2.dsk" size 819200 crc e772016b md5 bbd5ddafc9d458a089c5a044dec5ff70 )
+)
+
+game (
+	name "ZZZ-UNK-samdos2incometformatworkcopyv1.2"
+	description "ZZZ-UNK-samdos2incometformatworkcopyv1.2"
+	rom ( name "ZZZ-UNK-samdos2incometformatworkcopyv1.2.dsk" size 819200 crc 44856ec0 md5 309572fd048514b24e8cfcd96806b2f3 )
+)
+
+game (
+	name "ZZZ-UNK-samdosversion1.1"
+	description "ZZZ-UNK-samdosversion1.1"
+	rom ( name "ZZZ-UNK-samdosversion1.1.dsk" size 819200 crc 2d871850 md5 900bbbf80dd951f44d91a96f5b48bd32 )
+)
+
+game (
+	name "ZZZ-UNK-samdosversion2.0"
+	description "ZZZ-UNK-samdosversion2.0"
+	rom ( name "ZZZ-UNK-samdosversion2.0.dsk" size 819200 crc 6634f061 md5 d579779e7fd909e59f85cb36f2df3a45 )
+)
+
+game (
+	name "ZZZ-UNK-samjuggler"
+	description "ZZZ-UNK-samjuggler"
+	rom ( name "ZZZ-UNK-samjuggler.dsk" size 819200 crc ee4513a2 md5 fe05d70c28eb7806919f0616dcd716ec )
+)
+
+game (
+	name "ZZZ-UNK-sampaint"
+	description "ZZZ-UNK-sampaint"
+	rom ( name "ZZZ-UNK-sampaint.dsk" size 819200 crc 67f3826a md5 d1fc7c6445fcaa1219b80676829f179f )
+)
+
+game (
+	name "ZZZ-UNK-sampaintdemoscreens"
+	description "ZZZ-UNK-sampaintdemoscreens"
+	rom ( name "ZZZ-UNK-sampaintdemoscreens.dsk" size 819200 crc 494bb5d3 md5 bebfb84d43a949583855521faede6f4d )
+)
+
+game (
+	name "ZZZ-UNK-sampaintfonts"
+	description "ZZZ-UNK-sampaintfonts"
+	rom ( name "ZZZ-UNK-sampaintfonts.dsk" size 819200 crc 24bfc560 md5 327727670d54d9992eb0cdceb8935b08 )
+)
+
+game (
+	name "ZZZ-UNK-sampainttips"
+	description "ZZZ-UNK-sampainttips"
+	rom ( name "ZZZ-UNK-sampainttips.dsk" size 819200 crc de0d14f1 md5 f804978339907c47a3a937a90c4dc411 )
+)
+
+game (
+	name "ZZZ-UNK-sampaper6"
+	description "ZZZ-UNK-sampaper6"
+	rom ( name "ZZZ-UNK-sampaper6.dsk" size 819200 crc 32e6d67b md5 5e9986f9793c746e258c4da150247584 )
+)
+
+game (
+	name "ZZZ-UNK-sampaper8"
+	description "ZZZ-UNK-sampaper8"
+	rom ( name "ZZZ-UNK-sampaper8.dsk" size 819200 crc f6bf0a4a md5 ecab29ce3fb11f97968b2455c27d5c22 )
+)
+
+game (
+	name "ZZZ-UNK-sampaper9"
+	description "ZZZ-UNK-sampaper9"
+	rom ( name "ZZZ-UNK-sampaper9.dsk" size 819200 crc 09ab3534 md5 d74660134c422450df611c022f35b756 )
+)
+
+game (
+	name "ZZZ-UNK-sampddiskcatalogue"
+	description "ZZZ-UNK-sampddiskcatalogue"
+	rom ( name "ZZZ-UNK-sampddiskcatalogue.dsk" size 819200 crc f047af84 md5 e07d7a4ae62c31212e4ee62803aff748 )
+)
+
+game (
+	name "ZZZ-UNK-sampublic3"
+	description "ZZZ-UNK-sampublic3"
+	rom ( name "ZZZ-UNK-sampublic3.dsk" size 819200 crc ef3b4060 md5 743f7386d83f1aff185b8510e4c1fca2 )
+)
+
+game (
+	name "ZZZ-UNK-samragmagissue8"
+	description "ZZZ-UNK-samragmagissue8"
+	rom ( name "ZZZ-UNK-samragmagissue8.dsk" size 819200 crc 0f57870d md5 3d9c6880f3a5fd8056b743ab3e4fd856 )
+)
+
+game (
+	name "ZZZ-UNK-samsnake"
+	description "ZZZ-UNK-samsnake"
+	rom ( name "ZZZ-UNK-samsnake.dsk" size 819200 crc da210c54 md5 e7be9c9b75e8d437bcbdc93c2c76bc01 )
+)
+
+game (
+	name "ZZZ-UNK-samsupplementclipartviewer"
+	description "ZZZ-UNK-samsupplementclipartviewer"
+	rom ( name "ZZZ-UNK-samsupplementclipartviewer.dsk" size 819200 crc 62bde2b6 md5 38f3ea19656541c92937705ee8097110 )
+)
+
+game (
+	name "ZZZ-UNK-samtrakkertunes"
+	description "ZZZ-UNK-samtrakkertunes"
+	rom ( name "ZZZ-UNK-samtrakkertunes.dsk" size 819200 crc 3c0f2ef0 md5 675448fdc80d53b905ba286917bb728f )
+)
+
+game (
+	name "ZZZ-UNK-samtrixunixemulator"
+	description "ZZZ-UNK-samtrixunixemulator"
+	rom ( name "ZZZ-UNK-samtrixunixemulator.dsk" size 819200 crc 22b10aaa md5 7db3b504f12533c4932d27ccb9ee4867 )
+)
+
+game (
+	name "ZZZ-UNK-samvast"
+	description "ZZZ-UNK-samvast"
+	rom ( name "ZZZ-UNK-samvast.dsk" size 819200 crc 690c681b md5 706782228c5bc8b454c759a4b78695d9 )
+)
+
+game (
+	name "ZZZ-UNK-satellite'92 (1992)"
+	description "ZZZ-UNK-satellite'92 (1992)"
+	rom ( name "ZZZ-UNK-satellite'92 (1992).dsk" size 819200 crc 89a15267 md5 66180f4e199c55bf69ec3e8a073bbe82 )
+)
+
+game (
+	name "ZZZ-UNK-sc_assemblerv1.1"
+	description "ZZZ-UNK-sc_assemblerv1.1"
+	rom ( name "ZZZ-UNK-sc_assemblerv1.1.dsk" size 819200 crc 68180ea9 md5 5c685917748610e2e885ca2ef1354290 )
+)
+
+game (
+	name "ZZZ-UNK-sc_demoutilities"
+	description "ZZZ-UNK-sc_demoutilities"
+	rom ( name "ZZZ-UNK-sc_demoutilities.dsk" size 819200 crc 68893606 md5 277ebf41b6a8f471e8dccb6fcb89cc33 )
+)
+
+game (
+	name "ZZZ-UNK-sc_screencompressor2"
+	description "ZZZ-UNK-sc_screencompressor2"
+	rom ( name "ZZZ-UNK-sc_screencompressor2.dsk" size 819200 crc dabdd1ce md5 7fe4e0a74cd4e7c426733f76d9aa6097 )
+)
+
+game (
+	name "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem"
+	description "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem"
+	rom ( name "ZZZ-UNK-scads-samcoupearcadedevelopmentsystem.dsk" size 819200 crc df058ca0 md5 bde3a767755d247d80924ca630bd1f08 )
+)
+
+game (
+	name "ZZZ-UNK-sci-fiscreensdisk1"
+	description "ZZZ-UNK-sci-fiscreensdisk1"
+	rom ( name "ZZZ-UNK-sci-fiscreensdisk1.dsk" size 819200 crc 57ef2c63 md5 432a4f9de33d2c63484b9960fb8ab15e )
+)
+
+game (
+	name "ZZZ-UNK-scpdsademocollectiondisk"
+	description "ZZZ-UNK-scpdsademocollectiondisk"
+	rom ( name "ZZZ-UNK-scpdsademocollectiondisk.dsk" size 819200 crc 6b43f6d8 md5 577b69601d0900b9ecb571b0e62dea38 )
+)
+
+game (
+	name "ZZZ-UNK-screen squash.tap"
+	description "ZZZ-UNK-screen squash.tap"
+	rom ( name "ZZZ-UNK-screen squash.tap.dsk" size 5923 crc 946880a8 md5 702f9c5fe0c2d0f643ac1195e150de89 )
+)
+
+game (
+	name "ZZZ-UNK-screens viewer disk 1 (19xx)"
+	description "ZZZ-UNK-screens viewer disk 1 (19xx)"
+	rom ( name "ZZZ-UNK-screens viewer disk 1 (19xx).dsk" size 819200 crc 33b537e7 md5 9da0dbabe5139119f435707929abf908 )
+)
+
+game (
+	name "ZZZ-UNK-screens viewer disk 2 (19xx)"
+	description "ZZZ-UNK-screens viewer disk 2 (19xx)"
+	rom ( name "ZZZ-UNK-screens viewer disk 2 (19xx).dsk" size 819200 crc 59197b45 md5 c00160ee968ae28b742b608ebd0862ef )
+)
+
+game (
+	name "ZZZ-UNK-screens viewer disk 3 (19xx)"
+	description "ZZZ-UNK-screens viewer disk 3 (19xx)"
+	rom ( name "ZZZ-UNK-screens viewer disk 3 (19xx).dsk" size 819200 crc abc1d6cf md5 821f6b1baa06e65a8990dd4b9bb0c329 )
+)
+
+game (
+	name "ZZZ-UNK-screens viewer disk 4 (19xx)"
+	description "ZZZ-UNK-screens viewer disk 4 (19xx)"
+	rom ( name "ZZZ-UNK-screens viewer disk 4 (19xx).dsk" size 819200 crc 8ccbff6d md5 e951707acb36eb9f1dc60eafde608f12 )
+)
+
+game (
+	name "ZZZ-UNK-screens"
+	description "ZZZ-UNK-screens"
+	rom ( name "ZZZ-UNK-screens.dsk" size 819200 crc 9cdd6ba1 md5 ac27f2e93e583caad149b5b43563b955 )
+)
+
+game (
+	name "ZZZ-UNK-screensshots1"
+	description "ZZZ-UNK-screensshots1"
+	rom ( name "ZZZ-UNK-screensshots1.dsk" size 819200 crc 88832b6c md5 05a645faabf15151552a5e0a0babf9f0 )
+)
+
+game (
+	name "ZZZ-UNK-screensshots2"
+	description "ZZZ-UNK-screensshots2"
+	rom ( name "ZZZ-UNK-screensshots2.dsk" size 819200 crc fd6b2d98 md5 b4b9d984fd5a4c09a2f019db5467abce )
+)
+
+game (
+	name "ZZZ-UNK-screensshots3"
+	description "ZZZ-UNK-screensshots3"
+	rom ( name "ZZZ-UNK-screensshots3.dsk" size 819200 crc 034acb7b md5 1319214ba30e09f0ed2532728fd0684c )
+)
+
+game (
+	name "ZZZ-UNK-screensshots4"
+	description "ZZZ-UNK-screensshots4"
+	rom ( name "ZZZ-UNK-screensshots4.dsk" size 819200 crc 11eb68e9 md5 8601efb0f099c8beb982d856f446d9b4 )
+)
+
+game (
+	name "ZZZ-UNK-screensshots5"
+	description "ZZZ-UNK-screensshots5"
+	rom ( name "ZZZ-UNK-screensshots5.dsk" size 819200 crc 0c715ba9 md5 351f2e0fa13f6c2a44105245859f2bf6 )
+)
+
+game (
+	name "ZZZ-UNK-sectoreditor"
+	description "ZZZ-UNK-sectoreditor"
+	rom ( name "ZZZ-UNK-sectoreditor.dsk" size 819200 crc 4a0d995e md5 8c3fd704c8c29c187e6830c25e7a76aa )
+)
+
+game (
+	name "ZZZ-UNK-segaconverters"
+	description "ZZZ-UNK-segaconverters"
+	rom ( name "ZZZ-UNK-segaconverters.dsk" size 819200 crc a4641f07 md5 b90b0695707979aa542071f8b2913572 )
+)
+
+game (
+	name "ZZZ-UNK-shanghai [warez version].tap"
+	description "ZZZ-UNK-shanghai [warez version].tap"
+	rom ( name "ZZZ-UNK-shanghai [warez version].tap.dsk" size 23568 crc f9217721 md5 0b44f838240c0d6e2c5c8efa2496b6fb )
+)
+
+game (
+	name "ZZZ-UNK-shanghai"
+	description "ZZZ-UNK-shanghai"
+	rom ( name "ZZZ-UNK-shanghai.dsk" size 819200 crc 7ccf96fc md5 dba3318fd5ef2d71ee4763f0e9e9d3d9 )
+)
+
+game (
+	name "ZZZ-UNK-simoncooke180793"
+	description "ZZZ-UNK-simoncooke180793"
+	rom ( name "ZZZ-UNK-simoncooke180793.dsk" size 819200 crc 3d890b19 md5 006f5937523937e45280a246e51d3f54 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookecleandos-qdos1.0"
+	description "ZZZ-UNK-simoncookecleandos-qdos1.0"
+	rom ( name "ZZZ-UNK-simoncookecleandos-qdos1.0.dsk" size 819200 crc 80fbe607 md5 d71af2d23ea7b84a4ba373cda6ba658c )
+)
+
+game (
+	name "ZZZ-UNK-simoncookecleandos-qdos1.1source"
+	description "ZZZ-UNK-simoncookecleandos-qdos1.1source"
+	rom ( name "ZZZ-UNK-simoncookecleandos-qdos1.1source.dsk" size 819200 crc 7f443831 md5 95bf039fd4751a4417b9bf35d2cc3d27 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookecomettoascii1.2andqdos1.2"
+	description "ZZZ-UNK-simoncookecomettoascii1.2andqdos1.2"
+	rom ( name "ZZZ-UNK-simoncookecomettoascii1.2andqdos1.2.dsk" size 819200 crc d061de5a md5 60c5baa483740750256bb4671169b56a )
+)
+
+game (
+	name "ZZZ-UNK-simoncookecomettoasciiv1.2"
+	description "ZZZ-UNK-simoncookecomettoasciiv1.2"
+	rom ( name "ZZZ-UNK-simoncookecomettoasciiv1.2.dsk" size 819200 crc 289e6e2b md5 d15208df98f37f7843a11f9aef8e4871 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookediscmessagecreator"
+	description "ZZZ-UNK-simoncookediscmessagecreator"
+	rom ( name "ZZZ-UNK-simoncookediscmessagecreator.dsk" size 819200 crc b21f1218 md5 d6257b2d94eef717fc78b99881337ad7 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookefastetrackerplayer"
+	description "ZZZ-UNK-simoncookefastetrackerplayer"
+	rom ( name "ZZZ-UNK-simoncookefastetrackerplayer.dsk" size 819200 crc ba6d41ef md5 6155fffe38052350b29125929ba52b2e )
+)
+
+game (
+	name "ZZZ-UNK-simoncookefred18freebie"
+	description "ZZZ-UNK-simoncookefred18freebie"
+	rom ( name "ZZZ-UNK-simoncookefred18freebie.dsk" size 819200 crc fc6f6544 md5 340812ff6540e8db24152a49556b8088 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookeholidayingatsamtech"
+	description "ZZZ-UNK-simoncookeholidayingatsamtech"
+	rom ( name "ZZZ-UNK-simoncookeholidayingatsamtech.dsk" size 819200 crc c4ee4df3 md5 bdc6e4f68f84cbc293fa4eea08699f78 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookeloadingtetris"
+	description "ZZZ-UNK-simoncookeloadingtetris"
+	rom ( name "ZZZ-UNK-simoncookeloadingtetris.dsk" size 819200 crc ca900e33 md5 4a52157196dff23eebce650e6518742a )
+)
+
+game (
+	name "ZZZ-UNK-simoncookerickdangerousstuff"
+	description "ZZZ-UNK-simoncookerickdangerousstuff"
+	rom ( name "ZZZ-UNK-simoncookerickdangerousstuff.dsk" size 819200 crc 5e153050 md5 c53560c6c09f5f8576001c56f77fc630 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookesamples"
+	description "ZZZ-UNK-simoncookesamples"
+	rom ( name "ZZZ-UNK-simoncookesamples.dsk" size 819200 crc 00637619 md5 8437c5a36c597846ce83fff56a629fc5 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookestuff"
+	description "ZZZ-UNK-simoncookestuff"
+	rom ( name "ZZZ-UNK-simoncookestuff.dsk" size 819200 crc e51f4d24 md5 1e8703d401a463d1ce0e952e3b91b7e4 )
+)
+
+game (
+	name "ZZZ-UNK-simoncookesysinforeporter1.0"
+	description "ZZZ-UNK-simoncookesysinforeporter1.0"
+	rom ( name "ZZZ-UNK-simoncookesysinforeporter1.0.dsk" size 819200 crc a5327971 md5 d4c9a36b0e3a607d6e026bcb35eae35d )
+)
+
+game (
+	name "ZZZ-UNK-simoncookeutilitycollection"
+	description "ZZZ-UNK-simoncookeutilitycollection"
+	rom ( name "ZZZ-UNK-simoncookeutilitycollection.dsk" size 819200 crc 655fc185 md5 1d09e434b8b2ce31d5287c7180d68f20 )
+)
+
+game (
+	name "ZZZ-UNK-simonowenpacman"
+	description "ZZZ-UNK-simonowenpacman"
+	rom ( name "ZZZ-UNK-simonowenpacman.dsk" size 819200 crc 0058f4ea md5 380fc65f0ce7c59a91bbfbf982b3d637 )
+)
+
+game (
+	name "ZZZ-UNK-skullybydvb"
+	description "ZZZ-UNK-skullybydvb"
+	rom ( name "ZZZ-UNK-skullybydvb.dsk" size 819200 crc 90676126 md5 65a2cbc03ac5c415f5420c67f2fce681 )
+)
+
+game (
+	name "ZZZ-UNK-snatosamsnapshotconverter"
+	description "ZZZ-UNK-snatosamsnapshotconverter"
+	rom ( name "ZZZ-UNK-snatosamsnapshotconverter.dsk" size 819200 crc f896871e md5 69a3ec91b43cdf185ee2aa836ff64755 )
+)
+
+game (
+	name "ZZZ-UNK-solarflare"
+	description "ZZZ-UNK-solarflare"
+	rom ( name "ZZZ-UNK-solarflare.dsk" size 819200 crc 137898fd md5 44c17ddc6e6155444e53a22902b53fb6 )
+)
+
+game (
+	name "ZZZ-UNK-solarflaremod-etrackerconverter"
+	description "ZZZ-UNK-solarflaremod-etrackerconverter"
+	rom ( name "ZZZ-UNK-solarflaremod-etrackerconverter.dsk" size 819200 crc 02448d92 md5 bba8535279ffaeee8d7b76f395d9e2ff )
+)
+
+game (
+	name "ZZZ-UNK-solarflaremodplayerv200demo"
+	description "ZZZ-UNK-solarflaremodplayerv200demo"
+	rom ( name "ZZZ-UNK-solarflaremodplayerv200demo.dsk" size 819200 crc f7ffc7fd md5 22160e16e50d8e497a3c97c4934c8756 )
+)
+
+game (
+	name "ZZZ-UNK-solarflaremodplayerv204"
+	description "ZZZ-UNK-solarflaremodplayerv204"
+	rom ( name "ZZZ-UNK-solarflaremodplayerv204.dsk" size 819200 crc 8de4b8e1 md5 75f658fdc4542c80f784bc4c9e38e2ff )
+)
+
+game (
+	name "ZZZ-UNK-solarflaremodplayerv210"
+	description "ZZZ-UNK-solarflaremodplayerv210"
+	rom ( name "ZZZ-UNK-solarflaremodplayerv210.dsk" size 819200 crc 37475866 md5 aa018937262832bce1dd447f5eec6b43 )
+)
+
+game (
+	name "ZZZ-UNK-soulmagician"
+	description "ZZZ-UNK-soulmagician"
+	rom ( name "ZZZ-UNK-soulmagician.dsk" size 819200 crc b8d3b9d9 md5 e74d8e76b3c70102530281db507c79fc )
+)
+
+game (
+	name "ZZZ-UNK-source"
+	description "ZZZ-UNK-source"
+	rom ( name "ZZZ-UNK-source.dsk" size 819200 crc 97e491fd md5 cb5456c3969914463480c2b0e3ae9bc6 )
+)
+
+game (
+	name "ZZZ-UNK-sourcedisk1"
+	description "ZZZ-UNK-sourcedisk1"
+	rom ( name "ZZZ-UNK-sourcedisk1.dsk" size 819200 crc ef8668e0 md5 89b52120481929c1834314ccbefcf548 )
+)
+
+game (
+	name "ZZZ-UNK-sourcedisk2"
+	description "ZZZ-UNK-sourcedisk2"
+	rom ( name "ZZZ-UNK-sourcedisk2.dsk" size 819200 crc ea1223be md5 bffd47416150707c0a887240b681fa39 )
+)
+
+game (
+	name "ZZZ-UNK-speccyemulators"
+	description "ZZZ-UNK-speccyemulators"
+	rom ( name "ZZZ-UNK-speccyemulators.dsk" size 819200 crc 0b4d5f31 md5 4cca9ed99761602ef4ccf15cef274813 )
+)
+
+game (
+	name "ZZZ-UNK-speccyemulfiles"
+	description "ZZZ-UNK-speccyemulfiles"
+	rom ( name "ZZZ-UNK-speccyemulfiles.dsk" size 819200 crc 99f668e2 md5 af718e6ab55767a26cd71675fbf47f28 )
+)
+
+game (
+	name "ZZZ-UNK-speccypopscreens 1"
+	description "ZZZ-UNK-speccypopscreens 1"
+	rom ( name "ZZZ-UNK-speccypopscreens 1.dsk" size 819200 crc 47cbf393 md5 552a25fff46dbff1be3fab1d8899b40c )
+)
+
+game (
+	name "ZZZ-UNK-speccypopscreens 2"
+	description "ZZZ-UNK-speccypopscreens 2"
+	rom ( name "ZZZ-UNK-speccypopscreens 2.dsk" size 819200 crc de7dd338 md5 02ec1c6d96fa1c852868b221190505bb )
+)
+
+game (
+	name "ZZZ-UNK-speccyutils"
+	description "ZZZ-UNK-speccyutils"
+	rom ( name "ZZZ-UNK-speccyutils.dsk" size 819200 crc 539bb2c8 md5 306ecd38afc89dc566cf5bd55068ca18 )
+)
+
+game (
+	name "ZZZ-UNK-spectrespectrumemulator"
+	description "ZZZ-UNK-spectrespectrumemulator"
+	rom ( name "ZZZ-UNK-spectrespectrumemulator.dsk" size 819200 crc 6a1a03e8 md5 11e2a906a12c94bd11561ef60969079f )
+)
+
+game (
+	name "ZZZ-UNK-speedkinghacking"
+	description "ZZZ-UNK-speedkinghacking"
+	rom ( name "ZZZ-UNK-speedkinghacking.dsk" size 819200 crc 664e924f md5 c4b7bf3cb9bd010b145258c176d6746d )
+)
+
+game (
+	name "ZZZ-UNK-spellmaster"
+	description "ZZZ-UNK-spellmaster"
+	rom ( name "ZZZ-UNK-spellmaster.dsk" size 819200 crc f58c4daa md5 206f4275a371e23722de312a0ddd2bb1 )
+)
+
+game (
+	name "ZZZ-UNK-star wars slideshow 1 (19xx) (pd)"
+	description "ZZZ-UNK-star wars slideshow 1 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-star wars slideshow 1 (19xx) (pd).dsk" size 819200 crc 82d66614 md5 b2b1ae31f4da34bf5daae7be999b7c3d )
+)
+
+game (
+	name "ZZZ-UNK-starwarsscreens1"
+	description "ZZZ-UNK-starwarsscreens1"
+	rom ( name "ZZZ-UNK-starwarsscreens1.dsk" size 819200 crc 9af1b5f5 md5 d14c5d2fae8fd6913139aad481a722e4 )
+)
+
+game (
+	name "ZZZ-UNK-statuesoficegameboytetris"
+	description "ZZZ-UNK-statuesoficegameboytetris"
+	rom ( name "ZZZ-UNK-statuesoficegameboytetris.dsk" size 819200 crc c6e3159c md5 d450e75e4c1bb318d7f6f8abc0b81b51 )
+)
+
+game (
+	name "ZZZ-UNK-stefandrissenetrackerplayerandtunes"
+	description "ZZZ-UNK-stefandrissenetrackerplayerandtunes"
+	rom ( name "ZZZ-UNK-stefandrissenetrackerplayerandtunes.dsk" size 819200 crc 8aba4a2f md5 ff1f35d131103f42aae6caae042023d2 )
+)
+
+game (
+	name "ZZZ-UNK-stevetaylormousedriver2.0"
+	description "ZZZ-UNK-stevetaylormousedriver2.0"
+	rom ( name "ZZZ-UNK-stevetaylormousedriver2.0.dsk" size 819200 crc 72c3a440 md5 cb6667d668c8d37d9c6ea4db1e536100 )
+)
+
+game (
+	name "ZZZ-UNK-stormlord2cyberniod128kconvertedbystefandrissen"
+	description "ZZZ-UNK-stormlord2cyberniod128kconvertedbystefandrissen"
+	rom ( name "ZZZ-UNK-stormlord2cyberniod128kconvertedbystefandrissen.dsk" size 819200 crc 252bf598 md5 f46bc089f619ac311a1c4466528a9cc1 )
+)
+
+game (
+	name "ZZZ-UNK-stuartsrotaterstuff"
+	description "ZZZ-UNK-stuartsrotaterstuff"
+	rom ( name "ZZZ-UNK-stuartsrotaterstuff.dsk" size 819200 crc 6ec5d535 md5 e2cbe6ff931f93bd2da5aa2ab8128030 )
+)
+
+game (
+	name "ZZZ-UNK-stuartsvectorstuff"
+	description "ZZZ-UNK-stuartsvectorstuff"
+	rom ( name "ZZZ-UNK-stuartsvectorstuff.dsk" size 819200 crc c3239703 md5 93c0df3371ea610b2c1f8c1f1ec47d62 )
+)
+
+game (
+	name "ZZZ-UNK-stufffromdma"
+	description "ZZZ-UNK-stufffromdma"
+	rom ( name "ZZZ-UNK-stufffromdma.dsk" size 819200 crc 139dcf07 md5 42b4d4fd20c60d762e515c8bef7ace1a )
+)
+
+game (
+	name "ZZZ-UNK-tasword2"
+	description "ZZZ-UNK-tasword2"
+	rom ( name "ZZZ-UNK-tasword2.dsk" size 819200 crc 2c8084fb md5 3fefdf4ce6b8321c36d78be71e6c97e9 )
+)
+
+game (
+	name "ZZZ-UNK-tetrislordinsanity"
+	description "ZZZ-UNK-tetrislordinsanity"
+	rom ( name "ZZZ-UNK-tetrislordinsanity.dsk" size 819200 crc a84cdc65 md5 5812c53599d3471c820d3c04856cb4bd )
+)
+
+game (
+	name "ZZZ-UNK-theaxecollection"
+	description "ZZZ-UNK-theaxecollection"
+	rom ( name "ZZZ-UNK-theaxecollection.dsk" size 819200 crc c57795b0 md5 4af715eb0aa81a74df5eff9a4814d9c6 )
+)
+
+game (
+	name "ZZZ-UNK-thebluediskshow"
+	description "ZZZ-UNK-thebluediskshow"
+	rom ( name "ZZZ-UNK-thebluediskshow.dsk" size 819200 crc 68f81dd7 md5 97c0f9aefa861d2ad443a352fcc83f67 )
+)
+
+game (
+	name "ZZZ-UNK-theentropyexperience"
+	description "ZZZ-UNK-theentropyexperience"
+	rom ( name "ZZZ-UNK-theentropyexperience.dsk" size 819200 crc 91823f13 md5 eb38d9f2284524ecafb45fd576b0ec32 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentbobbybrownsampledemo"
+	description "ZZZ-UNK-thepresidentbobbybrownsampledemo"
+	rom ( name "ZZZ-UNK-thepresidentbobbybrownsampledemo.dsk" size 819200 crc 7201c5b6 md5 29c96a42f2998d497f821e6d5e315faf )
+)
+
+game (
+	name "ZZZ-UNK-thepresidenthangingonsampledemo"
+	description "ZZZ-UNK-thepresidenthangingonsampledemo"
+	rom ( name "ZZZ-UNK-thepresidenthangingonsampledemo.dsk" size 819200 crc 5c3a3d1d md5 7074682523a66244167a315ac9080b35 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentoxygeneivsampledemo"
+	description "ZZZ-UNK-thepresidentoxygeneivsampledemo"
+	rom ( name "ZZZ-UNK-thepresidentoxygeneivsampledemo.dsk" size 819200 crc 0235e68b md5 7c78cb8c538d8219aaa60b4457cd2a29 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentscreens1"
+	description "ZZZ-UNK-thepresidentscreens1"
+	rom ( name "ZZZ-UNK-thepresidentscreens1.dsk" size 819200 crc fb6d0919 md5 5bd0c4b2632af036b2a982b4bb637026 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentscreens2"
+	description "ZZZ-UNK-thepresidentscreens2"
+	rom ( name "ZZZ-UNK-thepresidentscreens2.dsk" size 819200 crc a52efb1a md5 4c287b67e5f1300fd6c40d42ef450aa7 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentscreens3"
+	description "ZZZ-UNK-thepresidentscreens3"
+	rom ( name "ZZZ-UNK-thepresidentscreens3.dsk" size 819200 crc 02215bcf md5 e4329534dc0d6ac1e3ce9700615d68e8 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidentscreens4"
+	description "ZZZ-UNK-thepresidentscreens4"
+	rom ( name "ZZZ-UNK-thepresidentscreens4.dsk" size 819200 crc 04a025e2 md5 834e5702e170263514831dcbfbedfe07 )
+)
+
+game (
+	name "ZZZ-UNK-thepresidenttouchmesampledemo"
+	description "ZZZ-UNK-thepresidenttouchmesampledemo"
+	rom ( name "ZZZ-UNK-thepresidenttouchmesampledemo.dsk" size 819200 crc a42e5674 md5 7d4919c90fc1730c8cefefc19a9045a8 )
+)
+
+game (
+	name "ZZZ-UNK-thesecretary"
+	description "ZZZ-UNK-thesecretary"
+	rom ( name "ZZZ-UNK-thesecretary.dsk" size 819200 crc f144b5bd md5 e5af685a62edb257c9a185e0c620807f )
+)
+
+game (
+	name "ZZZ-UNK-tiff#lcb won't unpack"
+	description "ZZZ-UNK-tiff#lcb won't unpack"
+	rom ( name "ZZZ-UNK-tiff#lcb won't unpack.dsk" size 819200 crc e81fe46d md5 f4f0f4e1f7d1081c0ce8af68922c9494 )
+)
+
+game (
+	name "ZZZ-UNK-tinytermv1.3pdterminalemulator"
+	description "ZZZ-UNK-tinytermv1.3pdterminalemulator"
+	rom ( name "ZZZ-UNK-tinytermv1.3pdterminalemulator.dsk" size 819200 crc 81e63e64 md5 4865009953ef34c3a7319e0b906dbeb5 )
+)
+
+game (
+	name "ZZZ-UNK-topgun1mbdemodisk 2"
+	description "ZZZ-UNK-topgun1mbdemodisk 2"
+	rom ( name "ZZZ-UNK-topgun1mbdemodisk 2.dsk" size 819200 crc fb08864c md5 deab5f86e1b0a595e692dbd017d4ac74 )
+)
+
+game (
+	name "ZZZ-UNK-topgun1mbdemodisk1"
+	description "ZZZ-UNK-topgun1mbdemodisk1"
+	rom ( name "ZZZ-UNK-topgun1mbdemodisk1.dsk" size 819200 crc fb940cc2 md5 241e48cf04116d671da76e4e62fa4fc4 )
+)
+
+game (
+	name "ZZZ-UNK-towersofhanoi2"
+	description "ZZZ-UNK-towersofhanoi2"
+	rom ( name "ZZZ-UNK-towersofhanoi2.dsk" size 819200 crc 784e59bc md5 8abfadc5acf8c3029de620df5e78e402 )
+)
+
+game (
+	name "ZZZ-UNK-toxicelephantandesishockdemoconvertedbystefandrissen"
+	description "ZZZ-UNK-toxicelephantandesishockdemoconvertedbystefandrissen"
+	rom ( name "ZZZ-UNK-toxicelephantandesishockdemoconvertedbystefandrissen.dsk" size 819200 crc 21e69bea md5 16e9bd7dd0b456765b9a7d31fa1a70f6 )
+)
+
+game (
+	name "ZZZ-UNK-transdisk&gamedos"
+	description "ZZZ-UNK-transdisk&gamedos"
+	rom ( name "ZZZ-UNK-transdisk&gamedos.dsk" size 819200 crc 0671c036 md5 6e8e3be9d854572e84f699e0247cfc83 )
+)
+
+game (
+	name "ZZZ-UNK-treaty#cannot unpack"
+	description "ZZZ-UNK-treaty#cannot unpack"
+	rom ( name "ZZZ-UNK-treaty#cannot unpack.dsk" size 819200 crc c38e87a8 md5 82d99c0557d366920bcdd8d030015333 )
+)
+
+game (
+	name "ZZZ-UNK-turbomon v1.0 (19xx)"
+	description "ZZZ-UNK-turbomon v1.0 (19xx)"
+	rom ( name "ZZZ-UNK-turbomon v1.0 (19xx).dsk" size 819200 crc a7d513d8 md5 5eee5d67d6a7b32d41ca9a12e360676c )
+)
+
+game (
+	name "ZZZ-UNK-unerase"
+	description "ZZZ-UNK-unerase"
+	rom ( name "ZZZ-UNK-unerase.dsk" size 819200 crc a70415c0 md5 83fff134eea77443e8f296017f024fab )
+)
+
+game (
+	name "ZZZ-UNK-utilities-pak-lib-imploder"
+	description "ZZZ-UNK-utilities-pak-lib-imploder"
+	rom ( name "ZZZ-UNK-utilities-pak-lib-imploder.dsk" size 819200 crc dc9d1095 md5 0aea9a4fb30be3b9937a0227e9de260e )
+)
+
+game (
+	name "ZZZ-UNK-variousetrackerstuff"
+	description "ZZZ-UNK-variousetrackerstuff"
+	rom ( name "ZZZ-UNK-variousetrackerstuff.dsk" size 819200 crc e06fc7df md5 e9ebae182fdf0c627dc77e2b9e21f76f )
+)
+
+game (
+	name "ZZZ-UNK-variousunusedgfx"
+	description "ZZZ-UNK-variousunusedgfx"
+	rom ( name "ZZZ-UNK-variousunusedgfx.dsk" size 819200 crc 09dfc63e md5 119f5131d81457a7dbe91048d1ff083b )
+)
+
+game (
+	name "ZZZ-UNK-visually 1 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 1 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 1 (19xx) (zenith graphics).dsk" size 819200 crc c85b973e md5 73dd773b10746748ff19b28d4ded3e39 )
+)
+
+game (
+	name "ZZZ-UNK-visually 2 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 2 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 2 (19xx) (zenith graphics).dsk" size 819200 crc 7b0e4dea md5 55f02281601d05597860ae19a7f60481 )
+)
+
+game (
+	name "ZZZ-UNK-visually 3 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 3 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 3 (19xx) (zenith graphics).dsk" size 819200 crc bfe42f4e md5 e486311c79d84884091dcb60a0542eaf )
+)
+
+game (
+	name "ZZZ-UNK-visually 4 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 4 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 4 (19xx) (zenith graphics).dsk" size 819200 crc 1102fcf8 md5 d7404bb698cbe6fb8a3f2e9f33193f5c )
+)
+
+game (
+	name "ZZZ-UNK-visually 5 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 5 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 5 (19xx) (zenith graphics).dsk" size 819200 crc 42281c5c md5 d16d7b672b4e165e01fb9cf280ddfd58 )
+)
+
+game (
+	name "ZZZ-UNK-visually 6 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-visually 6 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-visually 6 (19xx) (zenith graphics).dsk" size 819200 crc a45072a0 md5 4597bf90c0b23fc11a4576392dc64f4e )
+)
+
+game (
+	name "ZZZ-UNK-wildbunchadventure"
+	description "ZZZ-UNK-wildbunchadventure"
+	rom ( name "ZZZ-UNK-wildbunchadventure.dsk" size 819200 crc 91d0f803 md5 c0c599e0d0886a0f0beecd6dec985705 )
+)
+
+game (
+	name "ZZZ-UNK-wobbles painful history, the (2001) (the wobbles)"
+	description "ZZZ-UNK-wobbles painful history, the (2001) (the wobbles)"
+	rom ( name "ZZZ-UNK-wobbles painful history, the (2001) (the wobbles).dsk" size 819200 crc 24aa4545 md5 da42c19d4593d9cfbbd0437ef2cc6151 )
+)
+
+game (
+	name "ZZZ-UNK-wombles-demodisk1"
+	description "ZZZ-UNK-wombles-demodisk1"
+	rom ( name "ZZZ-UNK-wombles-demodisk1.dsk" size 819200 crc 4289bc36 md5 5c2a69348a2c21900f1efe318c3f1691 )
+)
+
+game (
+	name "ZZZ-UNK-wombles-ds10-blancmangeburps"
+	description "ZZZ-UNK-wombles-ds10-blancmangeburps"
+	rom ( name "ZZZ-UNK-wombles-ds10-blancmangeburps.dsk" size 819200 crc 8fc4f113 md5 c794298e603e5712bc91a15755bde887 )
+)
+
+game (
+	name "ZZZ-UNK-wombles-ds11-blancmangeburpssmelltheglove"
+	description "ZZZ-UNK-wombles-ds11-blancmangeburpssmelltheglove"
+	rom ( name "ZZZ-UNK-wombles-ds11-blancmangeburpssmelltheglove.dsk" size 819200 crc 596f2df4 md5 561943b6909f7a92ff62d0105346afed )
+)
+
+game (
+	name "ZZZ-UNK-wombles-ds4-80pixelscroller"
+	description "ZZZ-UNK-wombles-ds4-80pixelscroller"
+	rom ( name "ZZZ-UNK-wombles-ds4-80pixelscroller.dsk" size 819200 crc b5f0a42f md5 dd5de3987b17058289c3ae99008165b3 )
+)
+
+game (
+	name "ZZZ-UNK-wombles-ds5-main"
+	description "ZZZ-UNK-wombles-ds5-main"
+	rom ( name "ZZZ-UNK-wombles-ds5-main.dsk" size 819200 crc 3a612670 md5 1241449b1e09e2b4bfb7929949160048 )
+)
+
+game (
+	name "ZZZ-UNK-wombles-ds9-allstarbeltch"
+	description "ZZZ-UNK-wombles-ds9-allstarbeltch"
+	rom ( name "ZZZ-UNK-wombles-ds9-allstarbeltch.dsk" size 819200 crc 32ad7d2c md5 3c55735cbbbb6a6074f9035f849b261f )
+)
+
+game (
+	name "ZZZ-UNK-wombles-open3dv082"
+	description "ZZZ-UNK-wombles-open3dv082"
+	rom ( name "ZZZ-UNK-wombles-open3dv082.dsk" size 819200 crc 5dcaa365 md5 94f4b2c99866898df95322b428169251 )
+)
+
+game (
+	name "ZZZ-UNK-wop gamma (1998) (andrew fish)"
+	description "ZZZ-UNK-wop gamma (1998) (andrew fish)"
+	rom ( name "ZZZ-UNK-wop gamma (1998) (andrew fish).dsk" size 819200 crc f792b389 md5 a0b29548ed803259b01d162a29cd32ec )
+)
+
+game (
+	name "ZZZ-UNK-wopgamma"
+	description "ZZZ-UNK-wopgamma"
+	rom ( name "ZZZ-UNK-wopgamma.dsk" size 819200 crc 467961ba md5 3a7f114a4a39b971fcc4038253ca171f )
+)
+
+game (
+	name "ZZZ-UNK-yscovermountdemo"
+	description "ZZZ-UNK-yscovermountdemo"
+	rom ( name "ZZZ-UNK-yscovermountdemo.dsk" size 819200 crc 335a6a48 md5 804047bbf8512a805ce3bc3ad2cace00 )
+)
+
+game (
+	name "ZZZ-UNK-z80_monitor"
+	description "ZZZ-UNK-z80_monitor"
+	rom ( name "ZZZ-UNK-z80_monitor.dsk" size 819200 crc 34c8c81d md5 b42be7b786900cac719e981bc18a8e27 )
+)
+
+game (
+	name "ZZZ-UNK-zeddy#zx81 emu and programs 1 (19xx) (pd)"
+	description "ZZZ-UNK-zeddy#zx81 emu and programs 1 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-zeddy#zx81 emu and programs 1 (19xx) (pd).dsk" size 819200 crc 743c648c md5 767a453528a079003596b019525b0edb )
+)
+
+game (
+	name "ZZZ-UNK-zeddy#zx81 emu and programs 2 (19xx) (pd)"
+	description "ZZZ-UNK-zeddy#zx81 emu and programs 2 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-zeddy#zx81 emu and programs 2 (19xx) (pd).dsk" size 819200 crc 8f95513b md5 c471188a6c4dc35d1200027684fe51dc )
+)
+
+game (
+	name "ZZZ-UNK-zeddy#zx81 emu and programs 3 (19xx) (pd)"
+	description "ZZZ-UNK-zeddy#zx81 emu and programs 3 (19xx) (pd)"
+	rom ( name "ZZZ-UNK-zeddy#zx81 emu and programs 3 (19xx) (pd).dsk" size 819200 crc 76de290b md5 7fe92bbd3f264c87131cf7b1f0a3b2e8 )
+)
+
+game (
+	name "ZZZ-UNK-zenith edition 1 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-zenith edition 1 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-zenith edition 1 (19xx) (zenith graphics).dsk" size 819200 crc 5f457bb7 md5 a5b6ccacead7f1e37efde588dd0907f4 )
+)
+
+game (
+	name "ZZZ-UNK-zenith edition 2 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-zenith edition 2 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-zenith edition 2 (19xx) (zenith graphics).dsk" size 819200 crc 40f39ff6 md5 536b28ef26624287c8a5e2cfe90bbb77 )
+)
+
+game (
+	name "ZZZ-UNK-zenith edition 2-5 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-zenith edition 2-5 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-zenith edition 2-5 (19xx) (zenith graphics).dsk" size 819200 crc 8d1d7e0a md5 8d4bcf297aeeeee92c4dcfaf1272e5ca )
+)
+
+game (
+	name "ZZZ-UNK-zenith edition 3 (19xx) (zenith graphics)"
+	description "ZZZ-UNK-zenith edition 3 (19xx) (zenith graphics)"
+	rom ( name "ZZZ-UNK-zenith edition 3 (19xx) (zenith graphics).dsk" size 819200 crc 32d52815 md5 a59c1db2683bef96fe2c6524e4e09b2b )
+)
+
+game (
+	name "ZZZ-UNK-zenithgraphicsedition1"
+	description "ZZZ-UNK-zenithgraphicsedition1"
+	rom ( name "ZZZ-UNK-zenithgraphicsedition1.dsk" size 819200 crc bcee53e6 md5 b28b7f4cdefa6d6c906c2497cb6440ed )
+)
+
+game (
+	name "ZZZ-UNK-zx81emulatorv2.3matijngroen"
+	description "ZZZ-UNK-zx81emulatorv2.3matijngroen"
+	rom ( name "ZZZ-UNK-zx81emulatorv2.3matijngroen.dsk" size 819200 crc 5ebe263f md5 6d6ef444f7b5963678cf61f992d0ecfb )
+)

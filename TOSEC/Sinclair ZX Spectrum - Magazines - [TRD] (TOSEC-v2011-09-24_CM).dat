@@ -1,0 +1,2336 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Magazines - [TRD]"
+	description "Sinclair ZX Spectrum - Magazines - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Magazines - [TRD]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "Adventurer 01 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 01 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 01 (1996)(Auryn Creative Group)(ru).trd" size 655360 crc 3395b3c6 md5 b61278a6e1c26cec06ad445ab8b17425 sha1 900a8203cf980afae6698af9cf66526f339846cd )
+)
+
+game (
+	name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a2]"
+	description "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a2]"
+	rom ( name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a2].trd" size 655360 crc fe289d74 md5 d1f532ef1b2cb5cd15200ce43164d685 sha1 799eccf802318a7ef0cc1ff4fc70edaa54a94ce4 )
+)
+
+game (
+	name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a3]"
+	description "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a3]"
+	rom ( name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a3].trd" size 655360 crc 4c34d14b md5 f99ac0fb80d7dfd43d980f8e8db1323f sha1 ce6612376985622123951fd66fedfaa8ed4c6a69 )
+)
+
+game (
+	name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 01 (1996)(Auryn Creative Group)(ru)[a].trd" size 655360 crc 53488518 md5 100f4e8ff6943537ba1d34dab38a9147 sha1 f9b5df1c2d2286e528ee5ea379e7740b27c0ece7 )
+)
+
+game (
+	name "Adventurer 02 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 02 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 02 (1996)(Auryn Creative Group)(ru).trd" size 655360 crc ab570b7e md5 87711875a9ba8f2c68c75081ada1e367 sha1 ac30b6a6ab5aaab18cadf985056c96255847b400 )
+)
+
+game (
+	name "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a2]"
+	description "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a2]"
+	rom ( name "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a2].trd" size 655360 crc c9ff1d2c md5 604fe8ee0ddf056aa31a7585346435a0 sha1 b6e4ede26506d91dc3b8de13915a17ab38176ecb )
+)
+
+game (
+	name "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 02 (1996)(Auryn Creative Group)(ru)[a].trd" size 655360 crc b909552c md5 432a09404324bfabcb640b1690e06f8f sha1 b1449a00a9272f274d3c04e652f9b5789efb871a )
+)
+
+game (
+	name "Adventurer 03 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 03 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 03 (1996)(Auryn Creative Group)(ru).trd" size 655360 crc 27bb8c6d md5 c1801f0ab5230a3db1a0fab4a0a72c8d sha1 0692832fb57830309dffbc0643bab03795217480 )
+)
+
+game (
+	name "Adventurer 03 (1996)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 03 (1996)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 03 (1996)(Auryn Creative Group)(ru)[a].trd" size 655360 crc 9f0de787 md5 7f8f078bd478595896c583457be772f8 sha1 8a9c27388ccfe24baf32f203e182572775575c1c )
+)
+
+game (
+	name "Adventurer 03 (1996)(Auryn Creative Group)(ru)[h]"
+	description "Adventurer 03 (1996)(Auryn Creative Group)(ru)[h]"
+	rom ( name "Adventurer 03 (1996)(Auryn Creative Group)(ru)[h].trd" size 655360 crc 636f8fc4 md5 53555a7a8a5cfb649ae24a59321af15d sha1 9053d8ff07aa7ef5a99200823d180438bf7056d5 )
+)
+
+game (
+	name "Adventurer 04 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 04 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 04 (1996)(Auryn Creative Group)(ru).trd" size 655360 crc e00fe78e md5 d4427b66522292227e571faed8e8e9b4 sha1 a1af383808627a415d959f173818caca238144f2 )
+)
+
+game (
+	name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a2]"
+	description "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a2]"
+	rom ( name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a2].trd" size 655360 crc 3fe78bbc md5 a6b5d81272e9ecc606902ccfb89c94ef sha1 195fe8f0fd40fa350506a8cd723565f878a0feb8 )
+)
+
+game (
+	name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[a].trd" size 655360 crc 715d5836 md5 60173521f2e4e4eb60e02eb7b25c7dae sha1 a52a2ab8f7f6c418a5ecea83320a44b038e0143a )
+)
+
+game (
+	name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[h Flex Software]"
+	description "Adventurer 04 (1996)(Auryn Creative Group)(ru)[h Flex Software]"
+	rom ( name "Adventurer 04 (1996)(Auryn Creative Group)(ru)[h Flex Software].trd" size 655360 crc 1b9179b8 md5 90f460eca3b2e984297431ca96494a7c sha1 d6ea29ccd2f9e59765cb87e0ed1be4a25b3195ad )
+)
+
+game (
+	name "Adventurer 05 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 05 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 05 (1996)(Auryn Creative Group)(ru).trd" size 655360 crc bdfc71b0 md5 d4d0b5a731dd6b0158979e3032d40227 sha1 8f1130b09aaed995e7b6584423cd09514077f24e )
+)
+
+game (
+	name "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a2]"
+	description "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a2]"
+	rom ( name "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a2].trd" size 655360 crc 4025e11d md5 2865e27a0b505f82e1d161bbb777d970 sha1 79028f296284f7e6209f118493d86bae4efd9a71 )
+)
+
+game (
+	name "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 05 (1996)(Auryn Creative Group)(ru)[a].trd" size 655360 crc e46360dd md5 d08cb3f8292c254001d51e3aa4b0c520 sha1 d8e7b963b3db87237dfb4c707a32d1e8707afd6d )
+)
+
+game (
+	name "Adventurer 06 (1997)(Auryn Creative Group)(ru)"
+	description "Adventurer 06 (1997)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 06 (1997)(Auryn Creative Group)(ru).trd" size 655360 crc 034096e9 md5 59f1d3e6a21d8a62efdc8cf0e061dc60 sha1 1735a5aa393c65f8172ae7631dd2d7a0f7c89ac5 )
+)
+
+game (
+	name "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a2]"
+	description "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a2]"
+	rom ( name "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a2].trd" size 655360 crc 1fc5226b md5 afb0c153c2da164f13280e449766d25b sha1 5cb84df1ea8e898cbc0c759170d4cbd3f5a9feb4 )
+)
+
+game (
+	name "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a]"
+	description "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a]"
+	rom ( name "Adventurer 06 (1997)(Auryn Creative Group)(ru)[a].trd" size 655360 crc f2f7f860 md5 5168007739d6b81cbf68999767ca8554 sha1 0341d6866538b210993b1ed354be41bb93ed5480 )
+)
+
+game (
+	name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	description "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	rom ( name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2).trd" size 655360 crc aaaab462 md5 e49ecf28b539d3dece1acb80514ee9db sha1 a865829236a9e7c16c0b004f9b7a46cceb1d3626 )
+)
+
+game (
+	name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2)[a]"
+	description "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2)[a]"
+	rom ( name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 1 of 2)[a].trd" size 655360 crc 9552e312 md5 a8e8e8f8ac3359ea06916d0f7204f612 sha1 b04e5a43d518d8a7f0169149136ea5c2b6fd6ed9 )
+)
+
+game (
+	name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	description "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	rom ( name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2).trd" size 655360 crc 7d329a77 md5 686e0bfff59cf957e2b14cfbc3857747 sha1 ab0c81a832a89ad69df80ebacf0ff65ad2d83c7d )
+)
+
+game (
+	name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a2]"
+	description "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a2]"
+	rom ( name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a2].trd" size 655360 crc f1ca4f21 md5 93bca53241ea5fe6435cdd7515189cde sha1 d6c01e843699a5b68ad2e93f190963058f7fa538 )
+)
+
+game (
+	name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a]"
+	description "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a]"
+	rom ( name "Adventurer 07 (1998)(Cyberpunks Unity)(ru)(Disk 2 of 2)[a].trd" size 655360 crc b980bf1c md5 d3d3d52714a9e36adc92b8c50934ee64 sha1 48457ffa1b11de14513ceff6641d389e85cb5620 )
+)
+
+game (
+	name "Adventurer 08 (1998)(Cyberpunks Unity)(ru)"
+	description "Adventurer 08 (1998)(Cyberpunks Unity)(ru)"
+	rom ( name "Adventurer 08 (1998)(Cyberpunks Unity)(ru).trd" size 655360 crc 279218bf md5 7d67f8584731bcf496e2fd1811a98151 sha1 2bcb3af1e916be017ed42f9c961aee62fe7b5663 )
+)
+
+game (
+	name "Adventurer 08 (1998)(Cyberpunks Unity)(ru)[a]"
+	description "Adventurer 08 (1998)(Cyberpunks Unity)(ru)[a]"
+	rom ( name "Adventurer 08 (1998)(Cyberpunks Unity)(ru)[a].trd" size 655360 crc fea8bf35 md5 d2421ee10d50fa3dcb06dd368f3d4860 sha1 35aabc4f179146a92ca9de5733de45f8a4257adf )
+)
+
+game (
+	name "Adventurer 09 (1999)(Cyberpunks Unity)(ru)"
+	description "Adventurer 09 (1999)(Cyberpunks Unity)(ru)"
+	rom ( name "Adventurer 09 (1999)(Cyberpunks Unity)(ru).trd" size 655360 crc 7ac91fd8 md5 efe1ee773953bdc1dc69458d7227d31d sha1 e92315b78c881b7b738171f554ff20fd8820001c )
+)
+
+game (
+	name "Adventurer 09 (1999)(Cyberpunks Unity)(ru)[a]"
+	description "Adventurer 09 (1999)(Cyberpunks Unity)(ru)[a]"
+	rom ( name "Adventurer 09 (1999)(Cyberpunks Unity)(ru)[a].trd" size 655360 crc 667a1c34 md5 3c7353631eeb0f53342c6ac3866a52a4 sha1 1dc6c3c142741676b875169d8ad47f1466ad1b50 )
+)
+
+game (
+	name "Adventurer 10 (1999)(Cyberpunks Unity)(ru)"
+	description "Adventurer 10 (1999)(Cyberpunks Unity)(ru)"
+	rom ( name "Adventurer 10 (1999)(Cyberpunks Unity)(ru).trd" size 655360 crc cec3cb3b md5 577de6c0ac3906797a946a22e0c7eb34 sha1 fb49d2f657a0dad9b751e6518bf7b6bdede6c1e1 )
+)
+
+game (
+	name "Adventurer 10 (1999)(Cyberpunks Unity)(ru)[b]"
+	description "Adventurer 10 (1999)(Cyberpunks Unity)(ru)[b]"
+	rom ( name "Adventurer 10 (1999)(Cyberpunks Unity)(ru)[b].trd" size 620158 crc 29592036 md5 2b1e94f492c4ea3832c29410b9518c9a sha1 f1151ecffcd66cdf5d4efdc76fa653739c46dada )
+)
+
+game (
+	name "Adventurer 11 (2000)(Cyberpunks Unity)(ru)"
+	description "Adventurer 11 (2000)(Cyberpunks Unity)(ru)"
+	rom ( name "Adventurer 11 (2000)(Cyberpunks Unity)(ru).trd" size 655360 crc 834ca1d8 md5 4a4d23566c81e22f1b5c539f94d37dda sha1 844be3331dc7fe348adab2a8d21ed76fbc3c29a1 )
+)
+
+game (
+	name "Adventurer 11 (2000)(Cyberpunks Unity)(ru)[a]"
+	description "Adventurer 11 (2000)(Cyberpunks Unity)(ru)[a]"
+	rom ( name "Adventurer 11 (2000)(Cyberpunks Unity)(ru)[a].trd" size 655360 crc eae680ef md5 526956cbbdb4892764402951c29f8d98 sha1 fca5447e2eb22625300442f79bebcd27d5c2f602 )
+)
+
+game (
+	name "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	description "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	rom ( name "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 1 of 2).trd" size 655360 crc 0dc2939b md5 30256ed3c84f673636c777b4014b61ea sha1 e92fa82e4f65c9e1a6f3f794b573b849f29be63b )
+)
+
+game (
+	name "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	description "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	rom ( name "Adventurer 12 (2000)(Cyberpunks Unity)(ru)(Disk 2 of 2).trd" size 655360 crc 1c8d42ab md5 7cb78c8a6537df076b54be07014c7b55 sha1 bb29e84ba0ca309571103bae000b307753d83ab7 )
+)
+
+game (
+	name "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	description "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 1 of 2)"
+	rom ( name "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 1 of 2).trd" size 655360 crc d5369188 md5 1dc3d071194934e267eb0f88fcaa884f sha1 04621ad8e73044ae073ed5dfc79ac52efa22dc5d )
+)
+
+game (
+	name "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	description "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 2 of 2)"
+	rom ( name "Adventurer 13 (2002)(Cyberpunks Unity)(ru)(Disk 2 of 2).trd" size 655360 crc e3a96bc8 md5 17c8c4829bc361a0b8a6b4b53d10b494 sha1 fde612fa94d9a188728b0f986f9e6692b9461cd9 )
+)
+
+game (
+	name "Black Crow 02 (2000)(Freestyle)(ru)(Disk 1 of 2)"
+	description "Black Crow 02 (2000)(Freestyle)(ru)(Disk 1 of 2)"
+	rom ( name "Black Crow 02 (2000)(Freestyle)(ru)(Disk 1 of 2).trd" size 655360 crc c53d1eff md5 bb28c12330c31dfb20506d2d91018497 sha1 19c6ed2a7278b8ce7cc1ae9fcfaae04ed83422b8 )
+)
+
+game (
+	name "Black Crow 02 (2000)(Freestyle)(ru)(Disk 2 of 2)"
+	description "Black Crow 02 (2000)(Freestyle)(ru)(Disk 2 of 2)"
+	rom ( name "Black Crow 02 (2000)(Freestyle)(ru)(Disk 2 of 2).trd" size 655360 crc 702d875b md5 390ca6cd0fc7a59c220e906d6ee0f2a8 sha1 406442a23a45552bf8842bcb1aebac936595ba74 )
+)
+
+game (
+	name "Black Crow 04 (2000)(Freestyle)(ru)"
+	description "Black Crow 04 (2000)(Freestyle)(ru)"
+	rom ( name "Black Crow 04 (2000)(Freestyle)(ru).trd" size 655360 crc 5016301c md5 d018959ba79f00ace3425352b856a750 sha1 b743fbdf8a0adf8f729874c0f886f9ca1a08c356 )
+)
+
+game (
+	name "Black Crow 04 (2000)(Freestyle)(ru)[a]"
+	description "Black Crow 04 (2000)(Freestyle)(ru)[a]"
+	rom ( name "Black Crow 04 (2000)(Freestyle)(ru)[a].trd" size 655360 crc aa0af087 md5 06ac1003969df3a8fbbb55249c71b7b5 sha1 c1762ef5af0be1cad71e7c5c30d98d5721d5abf6 )
+)
+
+game (
+	name "Black Crow 05 (2000)(Freestyle)(ru)(Disk 1 of 2)"
+	description "Black Crow 05 (2000)(Freestyle)(ru)(Disk 1 of 2)"
+	rom ( name "Black Crow 05 (2000)(Freestyle)(ru)(Disk 1 of 2).trd" size 655360 crc 8636a9c2 md5 c123dbf84ee0a77e1e50a8df1a6992e1 sha1 6debc2105fc74ce37f04a1d4706f09f7b55ede43 )
+)
+
+game (
+	name "Black Crow 05 (2000)(Freestyle)(ru)(Disk 2 of 2)"
+	description "Black Crow 05 (2000)(Freestyle)(ru)(Disk 2 of 2)"
+	rom ( name "Black Crow 05 (2000)(Freestyle)(ru)(Disk 2 of 2).trd" size 655360 crc 7f82e70d md5 a04a4a33d052fcd7376b88b077b404a6 sha1 9ad19551bfa5cb1085a47d7192bbd8d5ef1e3916 )
+)
+
+game (
+	name "Black Crow 06 (2000)(Freestyle)(ru)"
+	description "Black Crow 06 (2000)(Freestyle)(ru)"
+	rom ( name "Black Crow 06 (2000)(Freestyle)(ru).trd" size 655360 crc f1a8515a md5 e51f43fb2e0c040446d403c9c9192c04 sha1 ab66cf5e7cf9ce80b20e836d9764cf4568929a67 )
+)
+
+game (
+	name "Born Dead 05 (1999)(Sage Group - Extreme)(ru)"
+	description "Born Dead 05 (1999)(Sage Group - Extreme)(ru)"
+	rom ( name "Born Dead 05 (1999)(Sage Group - Extreme)(ru).trd" size 655360 crc 213af60d md5 23ea73ae224f3dc36183f16b8b633deb sha1 076b84465818b2ca21b94c4354ae3ca5f4a7ea8d )
+)
+
+game (
+	name "Born Dead 0F (2000)(Sage Group - Extreme)(ru)"
+	description "Born Dead 0F (2000)(Sage Group - Extreme)(ru)"
+	rom ( name "Born Dead 0F (2000)(Sage Group - Extreme)(ru).trd" size 655360 crc 444424ea md5 a1e5901feed7c53cb9a2b59da5d491be sha1 dc0ea6876237875173a23c6fee6fe52adc398780 )
+)
+
+game (
+	name "Born Dead 10 (2000)(Sage Group - Extreme)(ru)"
+	description "Born Dead 10 (2000)(Sage Group - Extreme)(ru)"
+	rom ( name "Born Dead 10 (2000)(Sage Group - Extreme)(ru).trd" size 655360 crc b71cf506 md5 a72c35ff6556a4119b6787f6cd00834c sha1 2f1ffcb285d3e41e24cd5f790db66e8fb5b9b2bd )
+)
+
+game (
+	name "Born Dead 10 (2000)(Sage Group - Extreme)(ru)[a]"
+	description "Born Dead 10 (2000)(Sage Group - Extreme)(ru)[a]"
+	rom ( name "Born Dead 10 (2000)(Sage Group - Extreme)(ru)[a].trd" size 655360 crc 99cce9e1 md5 ce6b2846cc92bb93494da5c16c8aa782 sha1 de1b183428a5fb22cfa30763b5420aa39da9d4ad )
+)
+
+game (
+	name "Buzz 16 (1998)(Eternity Industry)(ru)"
+	description "Buzz 16 (1998)(Eternity Industry)(ru)"
+	rom ( name "Buzz 16 (1998)(Eternity Industry)(ru).trd" size 655360 crc f93aad18 md5 1fc3fee0c4d72f6c0db284f14aa36949 sha1 3018f7b8c81a271cd1337c543a69be48cb284880 )
+)
+
+game (
+	name "Buzz 17 (1999)(Eternity Industry)(ru)"
+	description "Buzz 17 (1999)(Eternity Industry)(ru)"
+	rom ( name "Buzz 17 (1999)(Eternity Industry)(ru).trd" size 655360 crc 54254260 md5 10ed2ed6c9deed2cb8243ce9a85c5d50 sha1 43a9c7a6dfce65c1a165f26049a777caba632ea9 )
+)
+
+game (
+	name "Buzz 20 (2002)(Placebo)(ru)"
+	description "Buzz 20 (2002)(Placebo)(ru)"
+	rom ( name "Buzz 20 (2002)(Placebo)(ru).trd" size 655360 crc 272ee149 md5 00885b66f2f1b630b5bf86946f4730fd sha1 7399cfa47e64ae3a541dd612e20f4be5428aea32 )
+)
+
+game (
+	name "Cybersex 01 (19xx)(Red Limited)(ru)"
+	description "Cybersex 01 (19xx)(Red Limited)(ru)"
+	rom ( name "Cybersex 01 (19xx)(Red Limited)(ru).trd" size 655360 crc 633508ba md5 970a022451fd486ac4424dd72f443bc8 sha1 cc131ea0b410d8baef8502ac2c05381fb06127de )
+)
+
+game (
+	name "Cybersex 02 (19xx)(Red Limited)(ru)"
+	description "Cybersex 02 (19xx)(Red Limited)(ru)"
+	rom ( name "Cybersex 02 (19xx)(Red Limited)(ru).trd" size 655360 crc 5572b9a0 md5 ef144452b29ea75a649afb3efe543dd4 sha1 ea02253c7bdbc73f29f68cfc872fc64c8a1c5159 )
+)
+
+game (
+	name "Deja Vu (demo) (1997)(Binary Dimension)(ru)"
+	description "Deja Vu (demo) (1997)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu (demo) (1997)(Binary Dimension)(ru).trd" size 655360 crc 592b479e md5 175b8b98a39ef5f2233374bc9ba6085b sha1 feab1da85f089e3d999a5d2885d930e529edeab1 )
+)
+
+game (
+	name "Deja Vu 01 (1997)(Binary Dimension)(ru)"
+	description "Deja Vu 01 (1997)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 01 (1997)(Binary Dimension)(ru).trd" size 655360 crc 5e3c4295 md5 769c0c584097c985949b3daf0689ced8 sha1 ba90f7e65fd05a6441038aabd87d1290f14b7282 )
+)
+
+game (
+	name "Deja Vu 01 (1997)(Binary Dimension)(ru)[a2]"
+	description "Deja Vu 01 (1997)(Binary Dimension)(ru)[a2]"
+	rom ( name "Deja Vu 01 (1997)(Binary Dimension)(ru)[a2].trd" size 655360 crc 020173f3 md5 4a4a051356ef1a836fbd748d0604bf62 sha1 4ff05623e2c81e1eccfaef37f05f3484e8bc1b5d )
+)
+
+game (
+	name "Deja Vu 01 (1997)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 01 (1997)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 01 (1997)(Binary Dimension)(ru)[a].trd" size 655360 crc f5d72d67 md5 0f6c271fc538b44adc3e8441c96b8142 sha1 86b707a076769410289584bd54ed3fcafe436288 )
+)
+
+game (
+	name "Deja Vu 02 (1997)(Binary Dimension)(ru)"
+	description "Deja Vu 02 (1997)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 02 (1997)(Binary Dimension)(ru).trd" size 655360 crc 6f50d7f1 md5 da36ad2cf1843498c50c703304821e8f sha1 db50c123042154f1edcb9b0c61e5e5e2f801ff7d )
+)
+
+game (
+	name "Deja Vu 02 (1997)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 02 (1997)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 02 (1997)(Binary Dimension)(ru)[a].trd" size 655360 crc e24f8bdf md5 03e9f36f7d8cecf8847f1af36e3c1384 sha1 406bb5e0c4e267adfcc25d2816f1daaa45361519 )
+)
+
+game (
+	name "Deja Vu 03 (1998)(Binary Dimension)(ru)"
+	description "Deja Vu 03 (1998)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 03 (1998)(Binary Dimension)(ru).trd" size 655360 crc 37499d36 md5 35908a3479d05a4a1be14ac3fd904550 sha1 1e95197e948903e4961d8f264cd8b5e8ab86e70e )
+)
+
+game (
+	name "Deja Vu 03 (1998)(Binary Dimension)(ru)[a2]"
+	description "Deja Vu 03 (1998)(Binary Dimension)(ru)[a2]"
+	rom ( name "Deja Vu 03 (1998)(Binary Dimension)(ru)[a2].trd" size 655360 crc 44b92c90 md5 c62f9a31b3fd95ba04d288ee6f2cf135 sha1 fb4f4444b0039694511852b49f8d5754ecf54cbf )
+)
+
+game (
+	name "Deja Vu 03 (1998)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 03 (1998)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 03 (1998)(Binary Dimension)(ru)[a].trd" size 655360 crc e29583a2 md5 36fb52be2976d3e1f2ff9986a6308907 sha1 7b1ee3a82d9e21b5dcc11466fcbd779dc569a71d )
+)
+
+game (
+	name "Deja Vu 04 (1998)(Binary Dimension)(ru)"
+	description "Deja Vu 04 (1998)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 04 (1998)(Binary Dimension)(ru).trd" size 655360 crc 5b30eaaa md5 eab1c5d546d70e76edd6c67d5fc7007f sha1 1dded4d7675653351c18eb1fabc55e86814497b7 )
+)
+
+game (
+	name "Deja Vu 04 (1998)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 04 (1998)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 04 (1998)(Binary Dimension)(ru)[a].trd" size 655360 crc a49ceeb7 md5 2d8e2ae1b0bdbf180c7c6b745e42c78c sha1 50ef53f4bf0b754dd9196777c9f3a11ab5fd5ea6 )
+)
+
+game (
+	name "Deja Vu 05 (1998)(Binary Dimension)(ru)"
+	description "Deja Vu 05 (1998)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 05 (1998)(Binary Dimension)(ru).trd" size 655360 crc 9123b473 md5 54f4529382815ca42b4d4775374cedde sha1 df27f5f44b588afc83baab0591140d31038a3dcb )
+)
+
+game (
+	name "Deja Vu 06 (1998)(Binary Dimension)(ru)"
+	description "Deja Vu 06 (1998)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 06 (1998)(Binary Dimension)(ru).trd" size 655360 crc 112c0d76 md5 21eb555f69538300c1fd72bf6e3b2fb4 sha1 d19d15924155cc8d8ed17013eef072f289ab4d02 )
+)
+
+game (
+	name "Deja Vu 06 (1998)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 06 (1998)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 06 (1998)(Binary Dimension)(ru)[a].trd" size 655360 crc bc85afba md5 e0fbcadb00a7da19e2071f6c44787773 sha1 c03954fa6d010547c69b9a114187e7347e283dd0 )
+)
+
+game (
+	name "Deja Vu 07 (1999)(Binary Dimension)(ru)"
+	description "Deja Vu 07 (1999)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 07 (1999)(Binary Dimension)(ru).trd" size 655360 crc 95a2386a md5 90f237a55c1edac876dbc659c79f5430 sha1 2e22a4a9b46116b4bb47cf7144b6ffe0295eda0c )
+)
+
+game (
+	name "Deja Vu 08 (1999)(Binary Dimension)(ru)"
+	description "Deja Vu 08 (1999)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 08 (1999)(Binary Dimension)(ru).trd" size 655360 crc a291aa33 md5 4de74c861ad98241d3ba4c698016fef3 sha1 f6e5c927b3f579d4647adc1c3177af92b55c748f )
+)
+
+game (
+	name "Deja Vu 08 (1999)(Binary Dimension)(ru)[a]"
+	description "Deja Vu 08 (1999)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu 08 (1999)(Binary Dimension)(ru)[a].trd" size 655360 crc 56f8bafc md5 efbaf7cd899d324f5f3105009fdb4b5a sha1 37b7e9d65fad43a90189bc56a8ddd9b8e5a23b9a )
+)
+
+game (
+	name "Deja Vu 09 (1999)(Binary Dimension)(ru)"
+	description "Deja Vu 09 (1999)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 09 (1999)(Binary Dimension)(ru).trd" size 655360 crc dcb76ca0 md5 1deb8d81c706a089ec81bcd69daca32e sha1 1158fee564ecee726ebbb69ad108bd98ac6c0023 )
+)
+
+game (
+	name "Deja Vu 0A (1999)(Binary Dimension)(ru)"
+	description "Deja Vu 0A (1999)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu 0A (1999)(Binary Dimension)(ru).trd" size 655360 crc 3bba9301 md5 7511e04fca5235368195d5a7bf832439 sha1 4f66e037d29167ce65c107579d0a1062ff7255ce )
+)
+
+game (
+	name "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru)"
+	description "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru)"
+	rom ( name "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru).trd" size 655360 crc 67345977 md5 bafa2833e84a5b20fcac9f8addf87be3 sha1 09cdfc4a912c5e04227038564635bec140daa79a )
+)
+
+game (
+	name "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru)[a]"
+	description "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru)[a]"
+	rom ( name "Deja Vu XX - Party Version (2000)(Binary Dimension)(ru)[a].trd" size 655360 crc 1eec4db8 md5 355fc22473c62d08a7be07a3638925fe sha1 d3444494de318b5c800f8921c7c66ec95cbe1980 )
+)
+
+game (
+	name "Demo or Die 01 (1999)(Scene)(ru)"
+	description "Demo or Die 01 (1999)(Scene)(ru)"
+	rom ( name "Demo or Die 01 (1999)(Scene)(ru).trd" size 655360 crc 0a320fad md5 e1e597b81ec9992a45c23b3791145f29 sha1 68fc441cc4078ccbbe6a2a63a5a6fe961b97bbd6 )
+)
+
+game (
+	name "Demo or Die 02 (1999)(Scene)(ru)"
+	description "Demo or Die 02 (1999)(Scene)(ru)"
+	rom ( name "Demo or Die 02 (1999)(Scene)(ru).trd" size 655360 crc 08d13065 md5 aed2dded5612c52d4906010bd0dc78b6 sha1 fcbecb64efc4f93e9615ed68212b2c5dbecaf083 )
+)
+
+game (
+	name "Depth 01 (1997)(Crystal Dream)(ru)"
+	description "Depth 01 (1997)(Crystal Dream)(ru)"
+	rom ( name "Depth 01 (1997)(Crystal Dream)(ru).trd" size 655360 crc cf6c5ad3 md5 a8d6d8a258a0f5e28dcb357fea41ed01 sha1 2bf7aa08f87fa0d5073d84d8289d5144af231631 )
+)
+
+game (
+	name "Depth 01 (1997)(Crystal Dream)(ru)[a]"
+	description "Depth 01 (1997)(Crystal Dream)(ru)[a]"
+	rom ( name "Depth 01 (1997)(Crystal Dream)(ru)[a].trd" size 655360 crc 7c8f923e md5 05c5a4286d47d3b7b7f68ab0d417f788 sha1 1a4d4a272709ea6b0fbfaaa703f0a3dd5568e5e4 )
+)
+
+game (
+	name "Depth 02 (1998)(Crystal Dream)(ru)"
+	description "Depth 02 (1998)(Crystal Dream)(ru)"
+	rom ( name "Depth 02 (1998)(Crystal Dream)(ru).trd" size 655360 crc 5970cadf md5 4b0698601003b029cd27d2692af08c82 sha1 72949107934b4efb812e578a012077d3c4552c0a )
+)
+
+game (
+	name "Depth 02 (1998)(Crystal Dream)(ru)[a]"
+	description "Depth 02 (1998)(Crystal Dream)(ru)[a]"
+	rom ( name "Depth 02 (1998)(Crystal Dream)(ru)[a].trd" size 655360 crc de283fab md5 d12dcab093477878a8842a01c84da24e sha1 d0701769af3b41bbe90e2bd3b52b2e07f803f2a9 )
+)
+
+game (
+	name "Eldorado 01 (1996)(Red Scorpion)(ru)"
+	description "Eldorado 01 (1996)(Red Scorpion)(ru)"
+	rom ( name "Eldorado 01 (1996)(Red Scorpion)(ru).trd" size 655360 crc f021c333 md5 e0ffe2dddc24b4225a138aaaca288215 sha1 70d752650ce9f45f9b1adb7af366ce7390eca8b9 )
+)
+
+game (
+	name "Eldorado 02 (1996)(Red Scorpion)(ru)"
+	description "Eldorado 02 (1996)(Red Scorpion)(ru)"
+	rom ( name "Eldorado 02 (1996)(Red Scorpion)(ru).trd" size 655360 crc ee0cf917 md5 77897b7b3e43541f14b5a5bc6635421d sha1 54c249639331dad20a3135d55f67b9f03cc2f2fa )
+)
+
+game (
+	name "Electra 01 (19xx)(Daxy - World Soft)(lv)"
+	description "Electra 01 (19xx)(Daxy - World Soft)(lv)"
+	rom ( name "Electra 01 (19xx)(Daxy - World Soft)(lv).trd" size 655360 crc 8831e475 md5 7a8656f704a68da5ba99a1308d5af24d sha1 6f97e464229f20f7599d90d447b1528d6695b763 )
+)
+
+game (
+	name "Electra 02 (19xx)(Daxy - World Soft)(lv)"
+	description "Electra 02 (19xx)(Daxy - World Soft)(lv)"
+	rom ( name "Electra 02 (19xx)(Daxy - World Soft)(lv).trd" size 655360 crc ebbfe6d4 md5 48473bb189a2fdfd4dc669f41da230e8 sha1 75224af5fa69fb26adb99df178d5f708b57a8d30 )
+)
+
+game (
+	name "Enigma Tape Magazine - Issue 02 (19xx)(E.S.D.)[h Fanatic Stas]"
+	description "Enigma Tape Magazine - Issue 02 (19xx)(E.S.D.)[h Fanatic Stas]"
+	rom ( name "Enigma Tape Magazine - Issue 02 (19xx)(E.S.D.)[h Fanatic Stas].trd" size 123904 crc fa0743d1 md5 a6752397a669b8f4093e9143bef8ed78 sha1 b333192984bab8e60b19b5ffea59ebf9ea49585b )
+)
+
+game (
+	name "Faultless Magazine 01 (1996)(Mafia)(ru)"
+	description "Faultless Magazine 01 (1996)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 01 (1996)(Mafia)(ru).trd" size 655360 crc 4f110aef md5 73fbc925eb4fefc417f2498fa95920ee sha1 143c8f561fdac02075febd04f9488db8e1797a5e )
+)
+
+game (
+	name "Faultless Magazine 01 (1996)(Mafia)(ru)[a2]"
+	description "Faultless Magazine 01 (1996)(Mafia)(ru)[a2]"
+	rom ( name "Faultless Magazine 01 (1996)(Mafia)(ru)[a2].trd" size 655360 crc 198abc33 md5 548c4f567a80d4bdfab9852c08232dfb sha1 81069dd5d70fef7e65c33652bdf3b2dd5b3cabfb )
+)
+
+game (
+	name "Faultless Magazine 01 (1996)(Mafia)(ru)[a]"
+	description "Faultless Magazine 01 (1996)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 01 (1996)(Mafia)(ru)[a].trd" size 655360 crc 5fd66fea md5 bfc11c37b53d4774b2fbbbcc98a7d96d sha1 887041da7313ac864c6e8e38b29286467d734f32 )
+)
+
+game (
+	name "Faultless Magazine 02 (1996)(Mafia)(ru)"
+	description "Faultless Magazine 02 (1996)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 02 (1996)(Mafia)(ru).trd" size 655360 crc a2b1b8f3 md5 dd8623d404db234b6c60a90e2b15b859 sha1 1672bff66048a2f06e8fdda596b0e62db19ab968 )
+)
+
+game (
+	name "Faultless Magazine 02 (1996)(Mafia)(ru)[a]"
+	description "Faultless Magazine 02 (1996)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 02 (1996)(Mafia)(ru)[a].trd" size 655360 crc 335a9e09 md5 870a7fe95836c0c53a828333fa710ecb sha1 65198c3438a4495d5dd0837a97d192931b471482 )
+)
+
+game (
+	name "Faultless Magazine 03 (1996)(Mafia)(ru)"
+	description "Faultless Magazine 03 (1996)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 03 (1996)(Mafia)(ru).trd" size 655360 crc d2b81de0 md5 f5bde87b0f151e22ee87e310580af13c sha1 7115f5158bd9eb78fcc53bd5be361f805d9f080a )
+)
+
+game (
+	name "Faultless Magazine 03 (1996)(Mafia)(ru)[a]"
+	description "Faultless Magazine 03 (1996)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 03 (1996)(Mafia)(ru)[a].trd" size 655360 crc 4e72b962 md5 f3f042e0acb09317379dbff056edcd71 sha1 9718123098e512431dd3a036808255ef9fd4eaac )
+)
+
+game (
+	name "Faultless Magazine 04 (1996)(Mafia)(ru)"
+	description "Faultless Magazine 04 (1996)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 04 (1996)(Mafia)(ru).trd" size 655360 crc 3f7455a3 md5 7fcc02faad7bddeb38cc3fe13f6e5444 sha1 0a06745e29bd4cb4491bbc5258f3962f6a4a1bfc )
+)
+
+game (
+	name "Faultless Magazine 04 (1996)(Mafia)(ru)[a2]"
+	description "Faultless Magazine 04 (1996)(Mafia)(ru)[a2]"
+	rom ( name "Faultless Magazine 04 (1996)(Mafia)(ru)[a2].trd" size 655360 crc d083b31f md5 fdd415a83c2526757a4adf888e935f5b sha1 6410e247cc943d23431584a3a220e942aa7c28ef )
+)
+
+game (
+	name "Faultless Magazine 04 (1996)(Mafia)(ru)[a]"
+	description "Faultless Magazine 04 (1996)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 04 (1996)(Mafia)(ru)[a].trd" size 655360 crc d16e0861 md5 b4f0d7e71c1f0d7b76051d584158fcff sha1 de0433e5baa963495bdbe40ba5fbf0ac797a4d12 )
+)
+
+game (
+	name "Faultless Magazine 05 (1997)(Mafia)(ru)"
+	description "Faultless Magazine 05 (1997)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 05 (1997)(Mafia)(ru).trd" size 655360 crc 818febc9 md5 7d7b3af54e4134aee96116125265a4f2 sha1 82e6ca82aece077cce2e9f090da5b63de86963eb )
+)
+
+game (
+	name "Faultless Magazine 05 (1997)(Mafia)(ru)[a2]"
+	description "Faultless Magazine 05 (1997)(Mafia)(ru)[a2]"
+	rom ( name "Faultless Magazine 05 (1997)(Mafia)(ru)[a2].trd" size 655360 crc 51d36773 md5 8353a41a2b95a6854e5672cd2b85d077 sha1 54b09c838efd96da4aecc878ab473db8fdfeec52 )
+)
+
+game (
+	name "Faultless Magazine 05 (1997)(Mafia)(ru)[a3]"
+	description "Faultless Magazine 05 (1997)(Mafia)(ru)[a3]"
+	rom ( name "Faultless Magazine 05 (1997)(Mafia)(ru)[a3].trd" size 655360 crc c74719ce md5 6d9bba1b936cdc302f527b443bd1d7af sha1 08b46ce1b7023e6f424cd86afd31727151fae484 )
+)
+
+game (
+	name "Faultless Magazine 05 (1997)(Mafia)(ru)[a]"
+	description "Faultless Magazine 05 (1997)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 05 (1997)(Mafia)(ru)[a].trd" size 655360 crc fe4a0088 md5 49e31c3e4f0ab660b3dd0eae751754ae sha1 5085d07f56da60e2d2bca84b0d2bf05b8e0ff63f )
+)
+
+game (
+	name "Faultless Magazine 06 (1997)(Mafia)(ru)"
+	description "Faultless Magazine 06 (1997)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 06 (1997)(Mafia)(ru).trd" size 655360 crc d3f66b9a md5 0b3955ecd4c2a59651f2bec5e572899e sha1 08a4ca0e6846a5c79fa9b71df82296a0b94284b3 )
+)
+
+game (
+	name "Faultless Magazine 06 (1997)(Mafia)(ru)[a]"
+	description "Faultless Magazine 06 (1997)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 06 (1997)(Mafia)(ru)[a].trd" size 655360 crc 459b406a md5 de92d95b48645460a08d457052232543 sha1 5ddf141f438341a08882a4358c85d905fbc09f8b )
+)
+
+game (
+	name "Faultless Magazine 08 (1997)(Mafia)(ru)"
+	description "Faultless Magazine 08 (1997)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 08 (1997)(Mafia)(ru).trd" size 655360 crc d6392152 md5 51143312d4432d4b2c9f8b651da52df1 sha1 8bcf1baeae02f5716b1c0f409b07c108522235ce )
+)
+
+game (
+	name "Faultless Magazine 08 (1997)(Mafia)(ru)[a2]"
+	description "Faultless Magazine 08 (1997)(Mafia)(ru)[a2]"
+	rom ( name "Faultless Magazine 08 (1997)(Mafia)(ru)[a2].trd" size 655360 crc 6139f2bf md5 28aa0c3e1510358f9620554fb1712d55 sha1 57c6a7feb5fb7d4945ef4ad56fe94ceaede8ff96 )
+)
+
+game (
+	name "Faultless Magazine 08 (1997)(Mafia)(ru)[a]"
+	description "Faultless Magazine 08 (1997)(Mafia)(ru)[a]"
+	rom ( name "Faultless Magazine 08 (1997)(Mafia)(ru)[a].trd" size 655360 crc 905e25ef md5 15353a30bc6ba623de6c5ea3eaa821d8 sha1 dbdb69114ad6f9b0bbe72627a252f3fd5bba1983 )
+)
+
+game (
+	name "Faultless Magazine 09 (1998)(Reflection Group)(ru)"
+	description "Faultless Magazine 09 (1998)(Reflection Group)(ru)"
+	rom ( name "Faultless Magazine 09 (1998)(Reflection Group)(ru).trd" size 655360 crc 8e841e03 md5 3cd3b27adb5a18433cea1f363940bec1 sha1 d1840e768096aa36cb5c1f95dff2ffd99747e2fc )
+)
+
+game (
+	name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a2]"
+	description "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a2]"
+	rom ( name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a2].trd" size 655360 crc 8ee2ce3a md5 48a84e93c3015789b34c87c857093183 sha1 da8e11604e7baf3d56c7700695d0a0a38dd1dea0 )
+)
+
+game (
+	name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a3]"
+	description "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a3]"
+	rom ( name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a3].trd" size 655360 crc 9ee97001 md5 420e2f5faedba8628f7417fdabc9e66e sha1 a3ab0ea54b1fb83dfd49ea7b72117ab5809866dc )
+)
+
+game (
+	name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a]"
+	description "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a]"
+	rom ( name "Faultless Magazine 09 (1998)(Reflection Group)(ru)[a].trd" size 655360 crc 80f64767 md5 ced00581b3cc46568a63e2b10f00dec7 sha1 70c0edb4372e968ded432691292c5c0be3a31d69 )
+)
+
+game (
+	name "Flash Time 01 (1997)(Flash)(ru)(Disk 1 of 2)"
+	description "Flash Time 01 (1997)(Flash)(ru)(Disk 1 of 2)"
+	rom ( name "Flash Time 01 (1997)(Flash)(ru)(Disk 1 of 2).trd" size 655360 crc 1c0317a8 md5 f1ee21adf50aabe7935c129fb5c6fa08 sha1 d24e49f02236a433d9458c44288365a33c010a1c )
+)
+
+game (
+	name "Flash Time 01 (1997)(Flash)(ru)(Disk 2 of 2)"
+	description "Flash Time 01 (1997)(Flash)(ru)(Disk 2 of 2)"
+	rom ( name "Flash Time 01 (1997)(Flash)(ru)(Disk 2 of 2).trd" size 655360 crc 15f5e9c1 md5 d13ae2495067a519258474755dbe9ba3 sha1 e57a84ee272cd7989317d4296de2f0efbb773d33 )
+)
+
+game (
+	name "Generation Z 03 (2002)(Original Computers Association)(ru)"
+	description "Generation Z 03 (2002)(Original Computers Association)(ru)"
+	rom ( name "Generation Z 03 (2002)(Original Computers Association)(ru).trd" size 655360 crc 90abee6a md5 b6b28845ef24ec7a07f046a28d87b82c sha1 1b6cf30e8de4f65f659660f499b3cb7568371c6c )
+)
+
+game (
+	name "Heresy 07 (2002)(Techno Lab - Jeez)(ru)"
+	description "Heresy 07 (2002)(Techno Lab - Jeez)(ru)"
+	rom ( name "Heresy 07 (2002)(Techno Lab - Jeez)(ru).trd" size 655360 crc 2c32d6e5 md5 52f1b3ebfa5b7b3d5e7cc5e4e437ba52 sha1 36429330a10c59280d59462b48aa2351927d4494 )
+)
+
+game (
+	name "Heresy 07 (2002)(Techno Lab - Jeez)(ru)[a]"
+	description "Heresy 07 (2002)(Techno Lab - Jeez)(ru)[a]"
+	rom ( name "Heresy 07 (2002)(Techno Lab - Jeez)(ru)[a].trd" size 655360 crc b770830e md5 d0a90988e0944bc943b06f918ad27d63 sha1 2e3a4dc47245598f773bd555e78170cfd1a45a2c )
+)
+
+game (
+	name "Insanity 08 (2001)(Light Future Group)(ru)"
+	description "Insanity 08 (2001)(Light Future Group)(ru)"
+	rom ( name "Insanity 08 (2001)(Light Future Group)(ru).trd" size 655360 crc 79ae83d0 md5 a9779cd4cc4895f8a04f41ca0af8c7ce sha1 b3eae7e46519e0579318cbe55371642e3521da3e )
+)
+
+game (
+	name "Insanity 09 (2001)(Light Future Group)(ru)"
+	description "Insanity 09 (2001)(Light Future Group)(ru)"
+	rom ( name "Insanity 09 (2001)(Light Future Group)(ru).trd" size 655360 crc 7b7f9d72 md5 fee6d09ffd236b75d639a7d900d4329d sha1 4c30c965e9fe8d8741287ae360b01a5427512501 )
+)
+
+game (
+	name "KrNews 11 (2000)(Techno Lab)(ru)"
+	description "KrNews 11 (2000)(Techno Lab)(ru)"
+	rom ( name "KrNews 11 (2000)(Techno Lab)(ru).trd" size 655360 crc b69ad28a md5 adca3a302d594c99eed96465e558bbff sha1 6048ccc2087727379ca8c330e82ad36a5f0e76c2 )
+)
+
+game (
+	name "KrNews 14 (2000)(Techno Lab)(ru)"
+	description "KrNews 14 (2000)(Techno Lab)(ru)"
+	rom ( name "KrNews 14 (2000)(Techno Lab)(ru).trd" size 655360 crc d4ebdd9b md5 f9ac7858ba7a5d015486efacee3e2304 sha1 434b215d781e9dd3b3fd8373bde78708797a0b08 )
+)
+
+game (
+	name "Kruk 02 (2001)(Skrew)(ru)(Disk 1 of 2)"
+	description "Kruk 02 (2001)(Skrew)(ru)(Disk 1 of 2)"
+	rom ( name "Kruk 02 (2001)(Skrew)(ru)(Disk 1 of 2).trd" size 655360 crc 8f39b86f md5 9316f2e033b61d291739df228b62b08d sha1 767872f63cdc426fb7f43f942601b8bc9b47b4d4 )
+)
+
+game (
+	name "Kruk 02 (2001)(Skrew)(ru)(Disk 2 of 2)"
+	description "Kruk 02 (2001)(Skrew)(ru)(Disk 2 of 2)"
+	rom ( name "Kruk 02 (2001)(Skrew)(ru)(Disk 2 of 2).trd" size 655360 crc 3c101a6b md5 f7e0900b2ed13df07fc2f681eca79ca4 sha1 653457b04584563567fba8831ba8d72cb5525602 )
+)
+
+game (
+	name "Millennium Magazine 01 (2001)(Millennium Group)(ru)"
+	description "Millennium Magazine 01 (2001)(Millennium Group)(ru)"
+	rom ( name "Millennium Magazine 01 (2001)(Millennium Group)(ru).trd" size 655360 crc 9b2a3fbe md5 058244d77ff696430b4d22ba1ae1d89a sha1 74ee6f10aa5ba35ebf01927ca793f4e6ea46f984 )
+)
+
+game (
+	name "Miracle 01 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	description "Miracle 01 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	rom ( name "Miracle 01 (19xx)(Blade Software - Ice'Di Griz)(ru).trd" size 655360 crc 53d8444c md5 e0b82473d0bc61251f710a5b6173185f sha1 1209b1be13778c9dcf833d57f1fd64d7cc9f132b )
+)
+
+game (
+	name "Miracle 02 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	description "Miracle 02 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	rom ( name "Miracle 02 (19xx)(Blade Software - Ice'Di Griz)(ru).trd" size 655360 crc 995fd993 md5 398bd24cba21a40128ac4b539db11425 sha1 def2c9b1dba46cbc7f741c7f48905395514aad39 )
+)
+
+game (
+	name "Miracle 03 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	description "Miracle 03 (19xx)(Blade Software - Ice'Di Griz)(ru)"
+	rom ( name "Miracle 03 (19xx)(Blade Software - Ice'Di Griz)(ru).trd" size 655360 crc f19fb975 md5 e7e72b00925cdbff40b30ab18a1757a8 sha1 56db30d14ac986612eb28c430c5873f05caac4b3 )
+)
+
+game (
+	name "Mirikom 01 (1994)(Lotus Group)(ru)"
+	description "Mirikom 01 (1994)(Lotus Group)(ru)"
+	rom ( name "Mirikom 01 (1994)(Lotus Group)(ru).trd" size 655360 crc 97562020 md5 6a6453d2bfd7351cc5c5b2681cc99f37 sha1 b0e7f54a9f2144d86c22bbd482e259854f8a44ea )
+)
+
+game (
+	name "Mirikom 02 (1994)(Lotus Group)(ru)"
+	description "Mirikom 02 (1994)(Lotus Group)(ru)"
+	rom ( name "Mirikom 02 (1994)(Lotus Group)(ru).trd" size 655360 crc 1c3e19ac md5 1b91ff73deb65e6ddfa0e275e7ae04d7 sha1 a1ebeb451923bb8037fce11de495897f01a3ea92 )
+)
+
+game (
+	name "MSF 19 (2000)(Macros)(ru)"
+	description "MSF 19 (2000)(Macros)(ru)"
+	rom ( name "MSF 19 (2000)(Macros)(ru).trd" size 655360 crc 2e42347f md5 d9cd560e6e4ef4c9482fd8723cdaa778 sha1 e76245ee1e0f7604435e2e5872bad34a20ac53a0 )
+)
+
+game (
+	name "MSF 21 (2001)(Macros)(ru)"
+	description "MSF 21 (2001)(Macros)(ru)"
+	rom ( name "MSF 21 (2001)(Macros)(ru).trd" size 655360 crc 703ba574 md5 8eb4e7d267f7b5dbfc12bd6e2d805934 sha1 da077434cb872e36acfbf0830ed63c5388f80cfc )
+)
+
+game (
+	name "Nicron 119 (1999)(MDF Hacker)(ru)"
+	description "Nicron 119 (1999)(MDF Hacker)(ru)"
+	rom ( name "Nicron 119 (1999)(MDF Hacker)(ru).trd" size 655360 crc 30fcfc93 md5 b5fd7cc6cda983efb90efb5cbf039fb7 sha1 5cca3c57e434ac324c6de9569a12acfb3fef7f20 )
+)
+
+game (
+	name "Nicron 119 (1999)(MDF Hacker)(ru)[a]"
+	description "Nicron 119 (1999)(MDF Hacker)(ru)[a]"
+	rom ( name "Nicron 119 (1999)(MDF Hacker)(ru)[a].trd" size 655360 crc 3fcba67e md5 b649331412334e79f7802250580799f2 sha1 657d5a99e4bfa69197ed505b2d2652d15bf8308a )
+)
+
+game (
+	name "Oberon 01 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 01 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 01 (1996)(Stars of Keladan)(ru).trd" size 655360 crc 4952bbe3 md5 3f0b13ea26c1d0c83a28a15bacf8eae5 sha1 8e73c4d6faa225cb9eb6dbf31b540ec210ad95e4 )
+)
+
+game (
+	name "Oberon 01 (1996)(Stars of Keladan)(ru)[a]"
+	description "Oberon 01 (1996)(Stars of Keladan)(ru)[a]"
+	rom ( name "Oberon 01 (1996)(Stars of Keladan)(ru)[a].trd" size 655360 crc a4dd2d78 md5 fa57ded09d95367a83b74cdd653d7eca sha1 2ac6782d004a845acf17e4c8c86120baf02309f7 )
+)
+
+game (
+	name "Oberon 02 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 02 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 02 (1996)(Stars of Keladan)(ru).trd" size 655360 crc 2ae0d8fd md5 41c77515337152279f0c095f52c75229 sha1 62149cd03011ff09557880bc68fd7354b6427bd1 )
+)
+
+game (
+	name "Oberon 02 (1996)(Stars of Keladan)(ru)[a]"
+	description "Oberon 02 (1996)(Stars of Keladan)(ru)[a]"
+	rom ( name "Oberon 02 (1996)(Stars of Keladan)(ru)[a].trd" size 655360 crc 9aa2f18b md5 75ec49e39302984d15f8a3ca038bfe17 sha1 f1b4550ab6f594d3af660e9832e2c66d25ee8d46 )
+)
+
+game (
+	name "Oberon 03 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 03 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 03 (1996)(Stars of Keladan)(ru).trd" size 655360 crc 2bbba9c6 md5 7d00593a6d23a9a31dc2b4d45e9bde2f sha1 b5a163b7afb5472b5b70334566cf1e3662681820 )
+)
+
+game (
+	name "Oberon 03 (1996)(Stars of Keladan)(ru)[a2]"
+	description "Oberon 03 (1996)(Stars of Keladan)(ru)[a2]"
+	rom ( name "Oberon 03 (1996)(Stars of Keladan)(ru)[a2].trd" size 655360 crc 039dd139 md5 e228bb5bc6cbf5ab810a45eb4dfa46ac sha1 b155f43728cc415b29238e056f9bd04b0471a2cb )
+)
+
+game (
+	name "Oberon 03 (1996)(Stars of Keladan)(ru)[a]"
+	description "Oberon 03 (1996)(Stars of Keladan)(ru)[a]"
+	rom ( name "Oberon 03 (1996)(Stars of Keladan)(ru)[a].trd" size 655360 crc 08de82b9 md5 32648c965710bff58e316afff5a46b95 sha1 b234afa4866c5ec486c1d5dc0fb9a83b044c0988 )
+)
+
+game (
+	name "Oberon 04 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 04 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 04 (1996)(Stars of Keladan)(ru).trd" size 655360 crc e43d9f14 md5 d54abbf1d4bb1c6b94dc08c9b73200a6 sha1 c8f92112ffcd36ea7b945b673117a6598e4d04ff )
+)
+
+game (
+	name "Oberon 04 (1996)(Stars of Keladan)(ru)[a]"
+	description "Oberon 04 (1996)(Stars of Keladan)(ru)[a]"
+	rom ( name "Oberon 04 (1996)(Stars of Keladan)(ru)[a].trd" size 655360 crc 5d6d0761 md5 38d38e11a1c0be04cccd17b83156f3be sha1 03c4f9a92e4b305a57b9bd3dcfbba5d5823e1bd4 )
+)
+
+game (
+	name "Oberon 05 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 05 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 05 (1996)(Stars of Keladan)(ru).trd" size 655360 crc a8f2aff6 md5 94097b03cc3f89767fa00b9372d14996 sha1 f4133b211e025b0311975cb42decf5d0b45af43f )
+)
+
+game (
+	name "Oberon 05 (1996)(Stars of Keladan)(ru)[a]"
+	description "Oberon 05 (1996)(Stars of Keladan)(ru)[a]"
+	rom ( name "Oberon 05 (1996)(Stars of Keladan)(ru)[a].trd" size 655360 crc dd17ab75 md5 6bd3c8a153adb115620d7e7560d46e24 sha1 c0f1edcf7dc62550daaa3558881332ab55e47902 )
+)
+
+game (
+	name "Odyssey 00 (1996)(Accept)(ru)"
+	description "Odyssey 00 (1996)(Accept)(ru)"
+	rom ( name "Odyssey 00 (1996)(Accept)(ru).trd" size 655360 crc 51d142ad md5 e0b4c795f95ccf405abe6b1361646afa sha1 212799156c8c879e785d2c567b44ce825b6857fc )
+)
+
+game (
+	name "Odyssey 01 (1997)(Accept)(ru)"
+	description "Odyssey 01 (1997)(Accept)(ru)"
+	rom ( name "Odyssey 01 (1997)(Accept)(ru).trd" size 655360 crc 4c4a9cfd md5 d61a14c7876a0777d167af5bcab54e0e sha1 a845579d472739c738df5133fb1ab34be3192dca )
+)
+
+game (
+	name "Odyssey 02 (1997)(Accept)(ru)"
+	description "Odyssey 02 (1997)(Accept)(ru)"
+	rom ( name "Odyssey 02 (1997)(Accept)(ru).trd" size 655360 crc 75c925c2 md5 dc0834efbeeda0c6a66cd58c4a763d06 sha1 8ff50c1aafc543335d808ad2bef6132b2cf4b5e2 )
+)
+
+game (
+	name "Pilot 32 (1999)(Proxima Software)(cs)"
+	description "Pilot 32 (1999)(Proxima Software)(cs)"
+	rom ( name "Pilot 32 (1999)(Proxima Software)(cs).trd" size 186624 crc 0d37700a md5 d443f35f4f41185d326c2b39bb71389f sha1 a86ebce62280d7b1c4bdc5b45a1cfe2e9104692e )
+)
+
+game (
+	name "Pioneer 02 (1996)(Atek)(ru)"
+	description "Pioneer 02 (1996)(Atek)(ru)"
+	rom ( name "Pioneer 02 (1996)(Atek)(ru).trd" size 655360 crc 4ae5899e md5 76113f0e589909cdacb4dde02739a7d4 sha1 a91db83aa3fb2aa409b5a333e64205d3cd504afe )
+)
+
+game (
+	name "Pioneer 03 (1996)(Atek)(ru)"
+	description "Pioneer 03 (1996)(Atek)(ru)"
+	rom ( name "Pioneer 03 (1996)(Atek)(ru).trd" size 655360 crc 978d50bb md5 a818f2851c1a60ac40062d4860b9e0b6 sha1 bcc68439890fe10de4cc94afc971b24c2fa18046 )
+)
+
+game (
+	name "Platinum 01 (1996)(Black Eagle Company)(ru)"
+	description "Platinum 01 (1996)(Black Eagle Company)(ru)"
+	rom ( name "Platinum 01 (1996)(Black Eagle Company)(ru).trd" size 655360 crc aca66570 md5 22b92387033178a8ae57227041b26096 sha1 764f67351697385ddcb04e2ba473f3e94d0e52d7 )
+)
+
+game (
+	name "Platinum 01 (1996)(Black Eagle Company)(ru)[a]"
+	description "Platinum 01 (1996)(Black Eagle Company)(ru)[a]"
+	rom ( name "Platinum 01 (1996)(Black Eagle Company)(ru)[a].trd" size 655360 crc c691f95c md5 d129f12f706a17d622e4bd5318f971d6 sha1 5ab6b1cb36f9d8e0e3a0e5744db7295f1ea27cfb )
+)
+
+game (
+	name "Platinum 02 (1996)(Black Eagle Company)(ru)"
+	description "Platinum 02 (1996)(Black Eagle Company)(ru)"
+	rom ( name "Platinum 02 (1996)(Black Eagle Company)(ru).trd" size 655360 crc 8b0a85a2 md5 fc3e0b430b368aec6bdb93a8eb09e67d sha1 0839bf212a96179f90a50f35e3eccbd9ff6bfca4 )
+)
+
+game (
+	name "Platinum 02 (1996)(Black Eagle Company)(ru)[a2]"
+	description "Platinum 02 (1996)(Black Eagle Company)(ru)[a2]"
+	rom ( name "Platinum 02 (1996)(Black Eagle Company)(ru)[a2].trd" size 655360 crc 4738f2f5 md5 4a796b153798fd26782f22a30aa781d7 sha1 7ec57fea5f42fb9239ec4f3dbafe42728caa8a76 )
+)
+
+game (
+	name "Platinum 02 (1996)(Black Eagle Company)(ru)[a]"
+	description "Platinum 02 (1996)(Black Eagle Company)(ru)[a]"
+	rom ( name "Platinum 02 (1996)(Black Eagle Company)(ru)[a].trd" size 655360 crc 36323270 md5 bcec3a4a14d37231050be0a947790b21 sha1 a1a21cb3b7a232cbbfce42aa0407fb9fdbc175f5 )
+)
+
+game (
+	name "Playboy 01 (1997)(-)(ru)"
+	description "Playboy 01 (1997)(-)(ru)"
+	rom ( name "Playboy 01 (1997)(-)(ru).trd" size 655360 crc b0fce6cb md5 f8a890a85799733b03850d30bfa6d7b5 sha1 ea1ae35e49f715bda2578d16354d0cde6fc5bb8e )
+)
+
+game (
+	name "Playboy 01 (1997)(-)(ru)[a2]"
+	description "Playboy 01 (1997)(-)(ru)[a2]"
+	rom ( name "Playboy 01 (1997)(-)(ru)[a2].trd" size 655360 crc cca90400 md5 d7bcc60f16868e438141bc4387404a4b sha1 f685f998a1c7af6db1aae4ec4b9854d1066e6e7c )
+)
+
+game (
+	name "Playboy 01 (1997)(-)(ru)[a]"
+	description "Playboy 01 (1997)(-)(ru)[a]"
+	rom ( name "Playboy 01 (1997)(-)(ru)[a].trd" size 655360 crc 63d090ab md5 d4f3781316ccf9ec4ae6d8977a4fedca sha1 e0eb0d0516d2c068ed69d5d2db85440bfa888a3f )
+)
+
+game (
+	name "Playboy 02 (1997)(-)(ru)"
+	description "Playboy 02 (1997)(-)(ru)"
+	rom ( name "Playboy 02 (1997)(-)(ru).trd" size 655360 crc d0628f8d md5 6bb141abd1ec4c52d0edb2169447aaac sha1 c25cfafd38a6ae33938d0f1b6f2dddcfa5ab0199 )
+)
+
+game (
+	name "Playboy 03 (1997)(-)(ru)"
+	description "Playboy 03 (1997)(-)(ru)"
+	rom ( name "Playboy 03 (1997)(-)(ru).trd" size 655360 crc fbf800fb md5 33f61fb9aeaf19ef9ef09be680e82390 sha1 ede03e6463b15e617513558422f9744d8d2d2a64 )
+)
+
+game (
+	name "Playboy 03 (1997)(-)(ru)[a]"
+	description "Playboy 03 (1997)(-)(ru)[a]"
+	rom ( name "Playboy 03 (1997)(-)(ru)[a].trd" size 655360 crc 6c4a2f51 md5 dbf1eaa5655e675fa4a4a71d57b5e9fb sha1 43397f056a7dbc6672fd17ca6ae09bef678995b4 )
+)
+
+game (
+	name "Real Time 01 (1996)(Jurassic Software)(ru)"
+	description "Real Time 01 (1996)(Jurassic Software)(ru)"
+	rom ( name "Real Time 01 (1996)(Jurassic Software)(ru).trd" size 655360 crc 79eb276f md5 89304e98d37b08db0a9dfce6b8521daf sha1 a7cb1d9f990cd3b7ce0130793cc06c0469c14db9 )
+)
+
+game (
+	name "Real Time 01 (1996)(Jurassic Software)(ru)[a]"
+	description "Real Time 01 (1996)(Jurassic Software)(ru)[a]"
+	rom ( name "Real Time 01 (1996)(Jurassic Software)(ru)[a].trd" size 655360 crc 6ac50d9e md5 fcbf6afc05e16ac171df6d25422b16f1 sha1 7b7b06453bac910f5f21b77bba641c91b01ee7fa )
+)
+
+game (
+	name "Real Time 02 (1996)(Jurassic Software)(ru)"
+	description "Real Time 02 (1996)(Jurassic Software)(ru)"
+	rom ( name "Real Time 02 (1996)(Jurassic Software)(ru).trd" size 655360 crc 6f693796 md5 707172f5d975d844b75ea38c4a044a76 sha1 8fb0bd2b20ce4fa335722af7b28e147b7df3fa76 )
+)
+
+game (
+	name "Real Time 02 (1996)(Jurassic Software)(ru)[a]"
+	description "Real Time 02 (1996)(Jurassic Software)(ru)[a]"
+	rom ( name "Real Time 02 (1996)(Jurassic Software)(ru)[a].trd" size 655360 crc 79a1ead2 md5 834e3e9886568482f57e5ea9605fa617 sha1 ea8dd2c2ce6bf603d44371faa365dfc195b49635 )
+)
+
+game (
+	name "Rush 01 (1999)(Rush - Smash)(ru)"
+	description "Rush 01 (1999)(Rush - Smash)(ru)"
+	rom ( name "Rush 01 (1999)(Rush - Smash)(ru).trd" size 655360 crc 40cca4f5 md5 8b92249e18695e4884d7dbb5fb3c95bf sha1 c2b682d2bc215c45df3c36326828a7f5a91f3aeb )
+)
+
+game (
+	name "Rush 02 (1999)(Rush - Smash)(ru)"
+	description "Rush 02 (1999)(Rush - Smash)(ru)"
+	rom ( name "Rush 02 (1999)(Rush - Smash)(ru).trd" size 655360 crc 61fda950 md5 60e140bfaf631fa540d01769feb5ec10 sha1 0e6cfdddf2aaa35cdbe55db2e3c15979b8f9cfb2 )
+)
+
+game (
+	name "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 1 of 2)"
+	description "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 1 of 2)"
+	rom ( name "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 1 of 2).trd" size 655360 crc 870cd780 md5 468caa3633c06e4d0c34127b6e468ba8 sha1 83ab4cd58932824f84744957a24eaca429d9c542 )
+)
+
+game (
+	name "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 2 of 2)"
+	description "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 2 of 2)"
+	rom ( name "Scenergy 01 (1999)(Scenergy Team)(ru)(Disk 2 of 2).trd" size 655360 crc 4bf118d9 md5 ed8f18999790090dde88b24f5afc2722 sha1 785a7f25162620f006e2f42a82a6b81c72f2faeb )
+)
+
+game (
+	name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 1 of 3)"
+	description "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 1 of 3)"
+	rom ( name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 1 of 3).trd" size 655360 crc ee991f1d md5 a13dfa4073fe56ff8b1b34bbbf4c1a1d sha1 19c761cdfdf6485e24962ebb86be7a9fe74bdbd3 )
+)
+
+game (
+	name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 2 of 3)"
+	description "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 2 of 3)"
+	rom ( name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 2 of 3).trd" size 655360 crc d54ca365 md5 9048784b9c6542dd9dd2dc13f954c6d0 sha1 669cf2c0428b8c28ad2b0e35963acbc51da3d2cd )
+)
+
+game (
+	name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 3 of 3)"
+	description "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 3 of 3)"
+	rom ( name "Scenergy 02 (1999)(Scenergy Team)(ru)(Disk 3 of 3).trd" size 655360 crc 48ca328e md5 16154b6c5dac26c9df6ec80cbfb54fc2 sha1 d4d8f102a73b4052bde101db9680c06de77fad43 )
+)
+
+game (
+	name "Scream 01 (2001)(Scream Crew)(ru)"
+	description "Scream 01 (2001)(Scream Crew)(ru)"
+	rom ( name "Scream 01 (2001)(Scream Crew)(ru).trd" size 655360 crc 30fc4dcd md5 6bcc44a4bbc019d05479e04bcc0a1404 sha1 a9dbaa6bd672eec5837e26aa7dd031ca45d108e1 )
+)
+
+game (
+	name "Scream 01 (2001)(Scream Crew)(ru)[a]"
+	description "Scream 01 (2001)(Scream Crew)(ru)[a]"
+	rom ( name "Scream 01 (2001)(Scream Crew)(ru)[a].trd" size 655360 crc c28c51fa md5 aa4156621460e97a88213be2ba9cc7b2 sha1 947c7a3e5b7e0dceb8c69a18bfc5cdc7e2db11c5 )
+)
+
+game (
+	name "Sinclair Town 01 (1995)(Phantom)(ru)"
+	description "Sinclair Town 01 (1995)(Phantom)(ru)"
+	rom ( name "Sinclair Town 01 (1995)(Phantom)(ru).trd" size 655360 crc ab1f1f2d md5 f1ea22b273cbe2b8cf23fba3555edc73 sha1 cac432e07a365af1c330a544a8db5eeeeb9e5a69 )
+)
+
+game (
+	name "Speccy 01 (1995)(EMS Software)(ru)"
+	description "Speccy 01 (1995)(EMS Software)(ru)"
+	rom ( name "Speccy 01 (1995)(EMS Software)(ru).trd" size 655360 crc 5c24c528 md5 7f93429024ce4377f663a4fa6a369b75 sha1 3c8668cf98052b43da08c717808953b9afdf1f9a )
+)
+
+game (
+	name "Speccy 01 (1995)(EMS Software)(ru)[a]"
+	description "Speccy 01 (1995)(EMS Software)(ru)[a]"
+	rom ( name "Speccy 01 (1995)(EMS Software)(ru)[a].trd" size 655360 crc f973fb79 md5 495a5589c27fbf428da3994435bbe0b6 sha1 f361645a274937c9d1629910a5baa2f25426a1fb )
+)
+
+game (
+	name "Speccy 02 (1995)(EMS Software)(ru)"
+	description "Speccy 02 (1995)(EMS Software)(ru)"
+	rom ( name "Speccy 02 (1995)(EMS Software)(ru).trd" size 655360 crc c7159a6c md5 1be878aae61d84ba1be7cc4d00cff18c sha1 415504c7d48b42f4ac49d89718925cd43085b511 )
+)
+
+game (
+	name "Speccy 02 (1995)(EMS Software)(ru)[a]"
+	description "Speccy 02 (1995)(EMS Software)(ru)[a]"
+	rom ( name "Speccy 02 (1995)(EMS Software)(ru)[a].trd" size 655360 crc 888c551f md5 47239a26d7badab659a4cc0c07e26bc8 sha1 cd69e6fd26dc53f5bd7ef06db9c7cefa9ccfc8ea )
+)
+
+game (
+	name "Speccy 03 (1996)(EMS Software)(ru)"
+	description "Speccy 03 (1996)(EMS Software)(ru)"
+	rom ( name "Speccy 03 (1996)(EMS Software)(ru).trd" size 655360 crc 90c2be25 md5 009eb632a7671c03787e6e20e040496d sha1 7e2c7a764dfa74374296a6ce12092428c571e3be )
+)
+
+game (
+	name "Speccy 04 (1996)(EMS Software)(ru)"
+	description "Speccy 04 (1996)(EMS Software)(ru)"
+	rom ( name "Speccy 04 (1996)(EMS Software)(ru).trd" size 655360 crc 3df31362 md5 8f0eddc12c3a0afc1489d63e469ea906 sha1 35a390f636ce386dce3d6cbf102eccaeb37810eb )
+)
+
+game (
+	name "Speccy 05 (1996)(EMS Software)(ru)"
+	description "Speccy 05 (1996)(EMS Software)(ru)"
+	rom ( name "Speccy 05 (1996)(EMS Software)(ru).trd" size 655360 crc c764d768 md5 37a213fe4404bc05e76e6064bcea1e9c sha1 a97394b8bbc2f9c50748e8f056413bf4e91a91f6 )
+)
+
+game (
+	name "Speccy 05 (1996)(EMS Software)(ru)[a2]"
+	description "Speccy 05 (1996)(EMS Software)(ru)[a2]"
+	rom ( name "Speccy 05 (1996)(EMS Software)(ru)[a2].trd" size 655360 crc 14ddd887 md5 af2a53321b6e79c4a284c15cc4d79017 sha1 5bf054917a8671037eeb17cc230637bb9c303e4d )
+)
+
+game (
+	name "Speccy 05 (1996)(EMS Software)(ru)[a]"
+	description "Speccy 05 (1996)(EMS Software)(ru)[a]"
+	rom ( name "Speccy 05 (1996)(EMS Software)(ru)[a].trd" size 655360 crc 8616c2d1 md5 22ccf7be4e5a0d2827172217931a54c6 sha1 e0a7ce7f4b4cd0d4c46ae4d6e6d4c22dce84ddf2 )
+)
+
+game (
+	name "Speccy 06 (1996)(EMS Software)(ru)"
+	description "Speccy 06 (1996)(EMS Software)(ru)"
+	rom ( name "Speccy 06 (1996)(EMS Software)(ru).trd" size 655360 crc d239b2e1 md5 fb201ad5131b8d5e80ed103160965944 sha1 9da8970583dcc6eaf4e97bedc785b954e474df3e )
+)
+
+game (
+	name "Speccy 06 (1996)(EMS Software)(ru)[a2]"
+	description "Speccy 06 (1996)(EMS Software)(ru)[a2]"
+	rom ( name "Speccy 06 (1996)(EMS Software)(ru)[a2].trd" size 655360 crc 37fe6bd5 md5 881e4331afba1d6240dac43ab98ec6d1 sha1 8cf601438bbe788c90ad91cead66708749ca01bf )
+)
+
+game (
+	name "Speccy 06 (1996)(EMS Software)(ru)[a3]"
+	description "Speccy 06 (1996)(EMS Software)(ru)[a3]"
+	rom ( name "Speccy 06 (1996)(EMS Software)(ru)[a3].trd" size 655360 crc 65095c22 md5 6a239586de74647b741083fb2535985d sha1 fc0c6608ba89e30517ca796022aec167c0c29c10 )
+)
+
+game (
+	name "Speccy 06 (1996)(EMS Software)(ru)[a]"
+	description "Speccy 06 (1996)(EMS Software)(ru)[a]"
+	rom ( name "Speccy 06 (1996)(EMS Software)(ru)[a].trd" size 655360 crc e74205a3 md5 1149e15d8450711ca1f9ea6ab7faea5c sha1 6849b6142d635329503824acb07d9ba76e743a1e )
+)
+
+game (
+	name "Speccy 07 (1997)(EMS Software)(ru)"
+	description "Speccy 07 (1997)(EMS Software)(ru)"
+	rom ( name "Speccy 07 (1997)(EMS Software)(ru).trd" size 655360 crc e2e97daa md5 c37ed8a09845d50745a4a4ee206b71aa sha1 968e0c2ce32e7d7d6ad08b77637bec09b78abe42 )
+)
+
+game (
+	name "Speccy 07 (1997)(EMS Software)(ru)[a2]"
+	description "Speccy 07 (1997)(EMS Software)(ru)[a2]"
+	rom ( name "Speccy 07 (1997)(EMS Software)(ru)[a2].trd" size 655360 crc 769a581b md5 5aae885998d118eef3b75f3b89b6381a sha1 f0b94ef4b0c133748649469b327c28f5782778a3 )
+)
+
+game (
+	name "Speccy 07 (1997)(EMS Software)(ru)[a]"
+	description "Speccy 07 (1997)(EMS Software)(ru)[a]"
+	rom ( name "Speccy 07 (1997)(EMS Software)(ru)[a].trd" size 655360 crc 92bfca22 md5 ec27f5acfd3ece2e287d131177ef579b sha1 68d3a457f5b8636d31f5082aeb3f43764a810f79 )
+)
+
+game (
+	name "Speccy 07 (1997)(EMS Software)(ru)[h Fatality]"
+	description "Speccy 07 (1997)(EMS Software)(ru)[h Fatality]"
+	rom ( name "Speccy 07 (1997)(EMS Software)(ru)[h Fatality].trd" size 655360 crc b39dd0b5 md5 27a4227d5b692a929b7f853011b98818 sha1 45be7360ba2aceffea8cecc93aa221983c38eb5c )
+)
+
+game (
+	name "Spectrofon (demo) (1993)(Step Creative Group)(ru)"
+	description "Spectrofon (demo) (1993)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon (demo) (1993)(Step Creative Group)(ru).trd" size 655360 crc dcd36894 md5 f901c380226efe09f5080d2f7ef1a568 sha1 7a8660dbe9d07381cfe1eb1e8424c5a5861b70b6 )
+)
+
+game (
+	name "Spectrofon 01 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 01 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 01 (1994)(Step Creative Group)(ru).trd" size 655360 crc ba930665 md5 e127fb46d809ff124f207fd4ee3855ce sha1 a9946e486ed70fa1a903a7e7a12b76788ce71162 )
+)
+
+game (
+	name "Spectrofon 01 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 01 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 01 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 8e71a08d md5 9c742bdbfe2538ec8d00b3e340e69e7c sha1 61d1affb070cd8d39e0fa90c7bd88e3c6dd92b24 )
+)
+
+game (
+	name "Spectrofon 01 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 01 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 01 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc d06f2918 md5 20ac81772d088af5346a6c8b0a4e8698 sha1 501f2031b38c383af6fa26bf168608c6ca2f9943 )
+)
+
+game (
+	name "Spectrofon 01 (1994)(Step Creative Group)(ru)[h Alex Plusov]"
+	description "Spectrofon 01 (1994)(Step Creative Group)(ru)[h Alex Plusov]"
+	rom ( name "Spectrofon 01 (1994)(Step Creative Group)(ru)[h Alex Plusov].trd" size 655360 crc bd9f6cdd md5 f3740faf4afff6e57b66b5fb5bd68c65 sha1 6a88df355569f40a8d33f7d4e2d245bf6769ecc7 )
+)
+
+game (
+	name "Spectrofon 02 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 02 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 02 (1994)(Step Creative Group)(ru).trd" size 655360 crc 26ecfe4c md5 c2f66f02e43235c65dbb3dfe1a823fa8 sha1 37973e30cbc931de5b8b3299e314207c69e38367 )
+)
+
+game (
+	name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 02 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 3c0a0789 md5 04424068c85af688cf1e7745dc2f1f41 sha1 bfb9a4b870bf9d96a07d601a85c0876f3041e121 )
+)
+
+game (
+	name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 02 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc 0100aeba md5 1df37f49e9156a0c4caaa2b7de7ae897 sha1 c51f1c6105c9d60c27c5db9cf657cdcbcb67bfee )
+)
+
+game (
+	name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 02 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 02 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 0aa7f2ea md5 bb5e815c94bab330df236c241114807e sha1 0ddb43dbd202d41dd9171e8ea047202e604ebe35 )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru).trd" size 655360 crc d3a571e7 md5 9fcadf07e379b79622461960f313b18a sha1 3fe5a92b6273073b9a2b113a612423d69ac1819c )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc a711c4ae md5 faa93cb77538e8d2b0381d7b43d0eb19 sha1 668ad914844d2e906b6ae2259a840652d6bd01a3 )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc e36a2829 md5 99be4636605f6ad6a9bf2a8d9059f7dc sha1 e9cf099c5278fda0cd2b29f38e00fd32e0db50fc )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc f2951592 md5 54fc3fa126beb1f73eda45733b5d332c sha1 c5a053ca1aefd98e764ceb9b6ecdadab6b4a0a0a )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)[h2]"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)[h2]"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru)[h2].trd" size 655360 crc 5edcda14 md5 26007601f0b2f6d138130181040feed0 sha1 cb385ddd9c88d2a2c1e615de7df23ea80d66ab36 )
+)
+
+game (
+	name "Spectrofon 03 (1994)(Step Creative Group)(ru)[h]"
+	description "Spectrofon 03 (1994)(Step Creative Group)(ru)[h]"
+	rom ( name "Spectrofon 03 (1994)(Step Creative Group)(ru)[h].trd" size 655360 crc fae44464 md5 924cd89d2472281220e24358a0d5aec6 sha1 c6f4a71b0a38a8eb5fc8519b8259ff2ed2f087ad )
+)
+
+game (
+	name "Spectrofon 04 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 04 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 04 (1994)(Step Creative Group)(ru).trd" size 655360 crc 837cada4 md5 030003911be453a7428218162519e5cc sha1 d96d33f8147b24bd6caf28b3fe1b993ffb77178d )
+)
+
+game (
+	name "Spectrofon 04 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 04 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 04 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 0a336311 md5 e27301f9ca35f827d60064f06b5124cf sha1 0992e8b6ae767f6d269eaa91d445e92a0356a595 )
+)
+
+game (
+	name "Spectrofon 04 (1994)(Step Creative Group)(ru)[b]"
+	description "Spectrofon 04 (1994)(Step Creative Group)(ru)[b]"
+	rom ( name "Spectrofon 04 (1994)(Step Creative Group)(ru)[b].trd" size 655360 crc bf36cd08 md5 714d46975ab60c64dc0daabffcba047b sha1 48f6afedd5a09ca20055c4c872e8d8e33a6b89af )
+)
+
+game (
+	name "Spectrofon 04 (1994)(Step Creative Group)(ru)[h]"
+	description "Spectrofon 04 (1994)(Step Creative Group)(ru)[h]"
+	rom ( name "Spectrofon 04 (1994)(Step Creative Group)(ru)[h].trd" size 655360 crc e3c83a5c md5 8260137e2527e169ad56098ce23e1ee5 sha1 4ff5aa2a4d0894a44e495f47ecf8b7ab905d8be6 )
+)
+
+game (
+	name "Spectrofon 05 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 05 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 05 (1994)(Step Creative Group)(ru).trd" size 655360 crc 03b194dc md5 9903c591a938fa634d30a96f1b5f3272 sha1 17b7b8866666dd1fa1fe615b6785740548f6e732 )
+)
+
+game (
+	name "Spectrofon 05 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 05 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 05 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 0b5217db md5 9bfc50fdaeaf76d88382a2e1bfe60006 sha1 a4cda0816b49e3e3bd3c2bf21ae861d67732d3ff )
+)
+
+game (
+	name "Spectrofon 05 (1994)(Step Creative Group)(ru)[b]"
+	description "Spectrofon 05 (1994)(Step Creative Group)(ru)[b]"
+	rom ( name "Spectrofon 05 (1994)(Step Creative Group)(ru)[b].trd" size 655360 crc 33bf0aff md5 94c2088b6db05ebc0a274fe87af90d15 sha1 6b2462166ec8c6e975edb0cbd8bdef9ae01d0775 )
+)
+
+game (
+	name "Spectrofon 05 (1994)(Step Creative Group)(ru)[h]"
+	description "Spectrofon 05 (1994)(Step Creative Group)(ru)[h]"
+	rom ( name "Spectrofon 05 (1994)(Step Creative Group)(ru)[h].trd" size 655360 crc 4f565b17 md5 bfc23f973e9330ca46dee2743cc80c16 sha1 04a8e7f1c168ef0ee30f78d1b8bd89e00296e21f )
+)
+
+game (
+	name "Spectrofon 06 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 06 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 06 (1994)(Step Creative Group)(ru).trd" size 655360 crc 43d33d44 md5 7681c4c8b1629b0c725518e999ec7a8e sha1 9e334a1c21306c2046692c7d55b6736e6119f814 )
+)
+
+game (
+	name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 06 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 7b744046 md5 7bf0736eabb1340d97546357e0fa9139 sha1 eb2c90a43b860c3b736f57a17122b0183d4a1304 )
+)
+
+game (
+	name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 06 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc dd7e4060 md5 820256b7dfbffe59a8ed6f46e0762f30 sha1 fba16cb756d1927d651461bc30e7839a4ae956eb )
+)
+
+game (
+	name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 06 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 06 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc c3979eda md5 8f53b84a1bdb0343ec4573d0ab571e44 sha1 65038bc356b8d4320d113519bef97527e239ac66 )
+)
+
+game (
+	name "Spectrofon 06 (1994)(Step Creative Group)(ru)[h]"
+	description "Spectrofon 06 (1994)(Step Creative Group)(ru)[h]"
+	rom ( name "Spectrofon 06 (1994)(Step Creative Group)(ru)[h].trd" size 655360 crc 0b601ac6 md5 ddc0bf2c677e6eba3bdbcd44e4ea6de6 sha1 5dd1fc24fa8baa2182006d80bb308d9e7a66e0d1 )
+)
+
+game (
+	name "Spectrofon 07 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 07 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 07 (1994)(Step Creative Group)(ru).trd" size 655360 crc 7227f940 md5 19d8d7b2247343e6efd95c43d0e95c18 sha1 2a8d346cd668f608880af7dec33e032778128652 )
+)
+
+game (
+	name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 07 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 2b6bcf78 md5 b187d36478ce6978155aaaa1924555f9 sha1 083809b85fe20231f6c296d1af2ac4142b7b19b3 )
+)
+
+game (
+	name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 07 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc f947a335 md5 0732b3703372fd0c5a84e44e57f1d608 sha1 a821dad20b400052f2861d19eaee86a5230e990e )
+)
+
+game (
+	name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 07 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 07 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 97ec503b md5 96be88e7cd52e3406bacd6a92cd21c4e sha1 3b8d9f0bc7d7d36ecf4fddbd723de4fd09d63017 )
+)
+
+game (
+	name "Spectrofon 08 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 08 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 08 (1994)(Step Creative Group)(ru).trd" size 655360 crc ef0d5f26 md5 0cf9253c0eee2b16364b18d47e17e3a7 sha1 6ec15b5410efa60c5bf099b7613d31c3e806a162 )
+)
+
+game (
+	name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 08 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 54f9370e md5 50a58804219ddd496e2d8fcb2c274c76 sha1 3654e5c52a6d08b52b50c3b048b9dd8b2aeeabc5 )
+)
+
+game (
+	name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 08 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc 1eaed073 md5 760e9f5895f15541ff4f57eec9a78bd1 sha1 974113f82bfb55ddc8ca24ba4568050665a232ae )
+)
+
+game (
+	name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 08 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 08 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 94e80fce md5 194ede0b94470c01b4ab849143b2754f sha1 15bc40c2fe2dea0fdb9c77636a78ee4d1e1f7ba8 )
+)
+
+game (
+	name "Spectrofon 09 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 09 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 09 (1994)(Step Creative Group)(ru).trd" size 655360 crc b4581669 md5 de91c82f13974ed1379971e0ceaf330d sha1 d94bb51ed2283e7edb1be18720d6bfdf74f6c93d )
+)
+
+game (
+	name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 09 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc 446d9aa0 md5 09c4e97469093ab49f097315c2369e77 sha1 2c0b7feb2388e3b0cd35c8669f6a5a60ef19c33c )
+)
+
+game (
+	name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 09 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc bda53791 md5 e838d0fd6dc27d1b48dd51663a09b8ea sha1 bf4926f1e2b6c79b100fdc9e5070983f3df31515 )
+)
+
+game (
+	name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 09 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 09 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc 74edb564 md5 3c427f80719c5209822eb7a35b409caa sha1 3c5057c399a3bb8e97b1e4b65e46eeb2eda5b0ba )
+)
+
+game (
+	name "Spectrofon 10 (1994)(Step Creative Group)(ru)"
+	description "Spectrofon 10 (1994)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 10 (1994)(Step Creative Group)(ru).trd" size 655360 crc 09e30ffd md5 c00c1f0b15aad06da03d517387e3061d sha1 d7f4e214b8edcafde3ab240d3cc2f03f8cf0b286 )
+)
+
+game (
+	name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 10 (1994)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a2].trd" size 655360 crc e416813e md5 08b3a1f001c821e02d925283791063da sha1 47fd2ecea049bec1a1ec283b853940ddd4a14363 )
+)
+
+game (
+	name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 10 (1994)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a3].trd" size 655360 crc 6b826673 md5 b06da32bae8d69f562378dc62b38362a sha1 68741b796b07ea90c6a1e43c9e721e21085deaee )
+)
+
+game (
+	name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 10 (1994)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 10 (1994)(Step Creative Group)(ru)[a].trd" size 655360 crc a818cf04 md5 446967c1fc52e4e0de0fdf1ebe085252 sha1 6cacc424f66fd2cc3968b42b7e3d689d4caddf3d )
+)
+
+game (
+	name "Spectrofon 11 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 11 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 11 (1995)(Step Creative Group)(ru).trd" size 655360 crc a2d573bd md5 bb95f6f6bd1dee201a46fa027c220e45 sha1 2e72110d92d677f419e1e6aba558e4322bd2bc7b )
+)
+
+game (
+	name "Spectrofon 11 (1995)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 11 (1995)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 11 (1995)(Step Creative Group)(ru)[a2].trd" size 655360 crc 55a8a00a md5 9c349a09c463c2d8cbf8b2f1d581813f sha1 ae4a5ac1ad87513d04161486b51d24ec92360dec )
+)
+
+game (
+	name "Spectrofon 11 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 11 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 11 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc 638be8aa md5 18debe688e6a70af0e73b9ddaa76d1e5 sha1 ae1cab884bef5572d92009fac2815da83bafbb5b )
+)
+
+game (
+	name "Spectrofon 12 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 12 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 12 (1995)(Step Creative Group)(ru).trd" size 655360 crc 91e25c0e md5 27cda3622b7085d36ab41b1329e200fd sha1 4e49754340d9809b5856e78d2aa7ef731417a418 )
+)
+
+game (
+	name "Spectrofon 12 (1995)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 12 (1995)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 12 (1995)(Step Creative Group)(ru)[a2].trd" size 655360 crc 79ced2a6 md5 5516518ccf136741ec25a0d5f6554ef8 sha1 c2eb27eaaf8574a91229e292c23e40ffd7a1fa74 )
+)
+
+game (
+	name "Spectrofon 12 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 12 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 12 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc f919c909 md5 55cd0137b946e17fd32d2ad969a48129 sha1 4f8a62711dd06785e2089d70d392c8f504eef349 )
+)
+
+game (
+	name "Spectrofon 12 (1995)(Step Creative Group)(ru)[b]"
+	description "Spectrofon 12 (1995)(Step Creative Group)(ru)[b]"
+	rom ( name "Spectrofon 12 (1995)(Step Creative Group)(ru)[b].trd" size 655360 crc a783bb0f md5 e7276e0628e889469da509c7d439eebb sha1 64c998d7775329c483a9eadc6289c8accad835cc )
+)
+
+game (
+	name "Spectrofon 13 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 13 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 13 (1995)(Step Creative Group)(ru).trd" size 655360 crc 41470e45 md5 ed05460bc7b544eed4bb0c26927c53c6 sha1 683f52345a63102d39e651e963b5839326540cb9 )
+)
+
+game (
+	name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 13 (1995)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a2].trd" size 655360 crc b7e6330b md5 a2ac6f7498c77f2256bcd6ef4ac1bf40 sha1 e0039763123598e207074c0a6bd539526ef14427 )
+)
+
+game (
+	name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 13 (1995)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a3].trd" size 655360 crc 1e9d72f0 md5 90cc7e47ed89dab71a301ce44987d316 sha1 9b7c3e7ec4ef8d483f0b06d97324f995977d6206 )
+)
+
+game (
+	name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 13 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 13 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc dd9c4dcd md5 a3ecabca63c1e071ab8dd94a7d8e5f0a sha1 5ff004659b17e3ffbfda56feeda8d091c83bed50 )
+)
+
+game (
+	name "Spectrofon 13 (1995)(Step Creative Group)(ru)[h]"
+	description "Spectrofon 13 (1995)(Step Creative Group)(ru)[h]"
+	rom ( name "Spectrofon 13 (1995)(Step Creative Group)(ru)[h].trd" size 655360 crc 47801326 md5 70eaf816ef2220642c3485371ec35d4f sha1 49f91b0bc04f710857d4dead8cdb188fdf80a6ab )
+)
+
+game (
+	name "Spectrofon 14 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 14 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 14 (1995)(Step Creative Group)(ru).trd" size 655360 crc 4fe6b020 md5 b9d55a60d76c624c2a2f41ab55814499 sha1 76f2e7b4fd348c9200f54a28a033a77cda39dcef )
+)
+
+game (
+	name "Spectrofon 14 (1995)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 14 (1995)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 14 (1995)(Step Creative Group)(ru)[a2].trd" size 655360 crc 7b86b601 md5 85bc7b6bf0a8e519fa2b637c23bd3fd1 sha1 97ad5aade21f44865435819096d31c2cac33fb04 )
+)
+
+game (
+	name "Spectrofon 14 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 14 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 14 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc 91d09da5 md5 42db78bd2e36f31e8fef71a59f4a57e2 sha1 713d648095860655bc2d463d6b855d48948045da )
+)
+
+game (
+	name "Spectrofon 15 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 15 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 15 (1995)(Step Creative Group)(ru).trd" size 655360 crc 90c1b989 md5 b6bb952e2b67003a5eb06487c35409be sha1 c3f5ac3acff2f047b60c70c19896541d83239cc8 )
+)
+
+game (
+	name "Spectrofon 15 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 15 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 15 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc 88c2db2d md5 a0968e6d07bb0fc370940b9946354bca sha1 76ec7a95badc23a0ba9a20d5af21f93f8eed8435 )
+)
+
+game (
+	name "Spectrofon 15 (1995)(Step Creative Group)(ru)[h Spectrum World]"
+	description "Spectrofon 15 (1995)(Step Creative Group)(ru)[h Spectrum World]"
+	rom ( name "Spectrofon 15 (1995)(Step Creative Group)(ru)[h Spectrum World].trd" size 655360 crc 85c52577 md5 f6edaac2ee90facb6b40374a8358b8ed sha1 ec5939cab686e7842e480246f982aa527c25dbd9 )
+)
+
+game (
+	name "Spectrofon 16 (1995)(Step Creative Group)(ru)"
+	description "Spectrofon 16 (1995)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 16 (1995)(Step Creative Group)(ru).trd" size 655360 crc 55622f90 md5 e3911d8a080553b571ea6c78ae38583f sha1 d8e12901f30f5bf3d35d82242032d8539bedd124 )
+)
+
+game (
+	name "Spectrofon 16 (1995)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 16 (1995)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 16 (1995)(Step Creative Group)(ru)[a].trd" size 655360 crc 3e8701fc md5 86d213b3f8535efe45b5b01aa03ec7a5 sha1 8644c73933ab4a23b3adce4224087eafcaecf01c )
+)
+
+game (
+	name "Spectrofon 16 (1995)(Step Creative Group)(ru)[h MastSoft]"
+	description "Spectrofon 16 (1995)(Step Creative Group)(ru)[h MastSoft]"
+	rom ( name "Spectrofon 16 (1995)(Step Creative Group)(ru)[h MastSoft].trd" size 655360 crc bb5ddf08 md5 bdefeeb1de9dceb5864c35f819d9c65f sha1 5967b1dcc9a8886056a251db43868d871e8f99b6 )
+)
+
+game (
+	name "Spectrofon 17 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 17 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 17 (1996)(Step Creative Group)(ru).trd" size 655360 crc 3b8ff5a1 md5 7f809db459435cb750109917e087c01e sha1 83e1f532d74655a366c4128fa443abe58c1a0694 )
+)
+
+game (
+	name "Spectrofon 17 (1996)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 17 (1996)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 17 (1996)(Step Creative Group)(ru)[a2].trd" size 655360 crc b3ad71e7 md5 b81e3f2348cd510d20437483a77af11d sha1 f24e407c10a5d204307bd8d883e9e733e66cf5ec )
+)
+
+game (
+	name "Spectrofon 17 (1996)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 17 (1996)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 17 (1996)(Step Creative Group)(ru)[a].trd" size 655360 crc 061cb571 md5 b314d8c7152f63c96a309dc160f55a32 sha1 40abd49e89f171b1e249f7df8ab55ec21c9dbaa3 )
+)
+
+game (
+	name "Spectrofon 18 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 18 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 18 (1996)(Step Creative Group)(ru).trd" size 655360 crc 836b8887 md5 c57e61f01e931716618419e6d8a211e9 sha1 b65481322e2ab0fc0ba93bdda738b775735fe0e0 )
+)
+
+game (
+	name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 18 (1996)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a2].trd" size 655360 crc 35e95ddb md5 12f22f803a56eba2b8b113c9e5084858 sha1 6d99b48dae1d84a3cfe0b573c41bb09b2b779c3a )
+)
+
+game (
+	name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 18 (1996)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a3].trd" size 655360 crc e6bd8da6 md5 47bdc8cffd402bdb8e01e3aed6378087 sha1 1734ed4c4d056b7b176c0ec5bf300bb8472fc7a6 )
+)
+
+game (
+	name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 18 (1996)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 18 (1996)(Step Creative Group)(ru)[a].trd" size 655360 crc c305e715 md5 2ed80cb31cf17cf7e0c5d68504905031 sha1 21508853c3c9e9b65515fa0906278dee9c5aa6d5 )
+)
+
+game (
+	name "Spectrofon 19 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 19 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 19 (1996)(Step Creative Group)(ru).trd" size 655360 crc 239abc03 md5 eb55fd5189f184fc54034abc90be2559 sha1 bb69a4db20013a917014200bd2f3568b9bf9541a )
+)
+
+game (
+	name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 19 (1996)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a2].trd" size 655360 crc d0627978 md5 9a3a660f90145e15b3e784709663c48a sha1 e08a523b247c466b4af4c3e793360b0ae1c50246 )
+)
+
+game (
+	name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 19 (1996)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a3].trd" size 655360 crc cc4a4156 md5 03457b263f80db3ac85cc6831c40540b sha1 29955cdd6b2605c11b9119842802ee913ed006d0 )
+)
+
+game (
+	name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 19 (1996)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 19 (1996)(Step Creative Group)(ru)[a].trd" size 655360 crc 2bb8f41f md5 86a365e137ddc39060115d7719843c0f sha1 f1d9d64e1b51b1e2fcce739ed421e280ccffa838 )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru).trd" size 655360 crc 44158ca4 md5 969183b4671b9f140426c73e595b06c5 sha1 fa41b648aeac66590db22be918c2b33ff4766d1b )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a2].trd" size 655360 crc 43899cfa md5 11bd030f6c78043baa6e7f8a58d2add3 sha1 37bbf6fa57951615f8acca2e2981cda03e414987 )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a3]"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)[a3]"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a3].trd" size 655360 crc 357cea28 md5 410f857eee66061e3477a2d4ba186a49 sha1 03832fba32eb1ecf22a97a5d987c1fae03e73334 )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru)[a].trd" size 655360 crc 649b089e md5 d740d4256f9a225df924519f10d2368d sha1 d2002869cf5882594fbce8ed1abe460e8e4769f2 )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)[h Excess Group]"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)[h Excess Group]"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru)[h Excess Group].trd" size 655360 crc a5e415b3 md5 62f3ff6b01dcba8fc5ae94b00d9b51b1 sha1 2dff8b5a08109527942064b15446ae227827b175 )
+)
+
+game (
+	name "Spectrofon 21 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 21 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 21 (1996)(Step Creative Group)(ru).trd" size 655360 crc 6d1255fa md5 48218d1c3f37af23683d8cb6b76a51d4 sha1 e3cd4881c9272ce285d38fdc7a99d1a6bfc2aa09 )
+)
+
+game (
+	name "Spectrofon 21 (1996)(Step Creative Group)(ru)[a2]"
+	description "Spectrofon 21 (1996)(Step Creative Group)(ru)[a2]"
+	rom ( name "Spectrofon 21 (1996)(Step Creative Group)(ru)[a2].trd" size 655360 crc d776f4fb md5 8ed0b541f8929cab5dd3c93f7e7ffa28 sha1 2ce6120add0b0a799afe3baa04b2654855fca9ea )
+)
+
+game (
+	name "Spectrofon 21 (1996)(Step Creative Group)(ru)[a]"
+	description "Spectrofon 21 (1996)(Step Creative Group)(ru)[a]"
+	rom ( name "Spectrofon 21 (1996)(Step Creative Group)(ru)[a].trd" size 655360 crc b629d815 md5 fa639c9ec7fe9f9ae2da3ef8da055240 sha1 c2d7e3621da5879d22649bed7011279dbb100eb5 )
+)
+
+game (
+	name "Spectrofon 21 (1996)(Step Creative Group)(ru)[h Risc Technologies]"
+	description "Spectrofon 21 (1996)(Step Creative Group)(ru)[h Risc Technologies]"
+	rom ( name "Spectrofon 21 (1996)(Step Creative Group)(ru)[h Risc Technologies].trd" size 655360 crc d4be320b md5 0cfad8adc101922fa74cd9a54b2d9dfe sha1 f6f2585386965122577a7dc90498e971dc75a533 )
+)
+
+game (
+	name "Spectrofon 22 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 22 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 22 (1996)(Step Creative Group)(ru).trd" size 655360 crc 4fcc306f md5 9f2f3a952d2ef6615941bc07189142df sha1 4a3918968e7d45934fb58d06761f84700c4f98c3 )
+)
+
+game (
+	name "Spectrofon 23 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 23 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 23 (1996)(Step Creative Group)(ru).trd" size 655360 crc 6bc94894 md5 8fc460f80352bcdfdd52c17b64e12874 sha1 40235158c356703c8059f5fe0995fddd527e52e8 )
+)
+
+game (
+	name "Spectrophoby 01 (1995)(-)(ru)"
+	description "Spectrophoby 01 (1995)(-)(ru)"
+	rom ( name "Spectrophoby 01 (1995)(-)(ru).trd" size 655360 crc 4464bd21 md5 59bd6da4871f8e7f045dd0fe0d558dfa sha1 1a405bcbbb2d11d0baabe343decc9477d6e2a101 )
+)
+
+game (
+	name "Spectrophoby 02 (1995)(-)(ru)"
+	description "Spectrophoby 02 (1995)(-)(ru)"
+	rom ( name "Spectrophoby 02 (1995)(-)(ru).trd" size 655360 crc c18c9da8 md5 df09ace97dceb2360de808ad322d78fb sha1 1a7781dc836ac47b50f1fe27c3d3b187be29ad57 )
+)
+
+game (
+	name "Spectrophoby 03 (1995)(-)(ru)"
+	description "Spectrophoby 03 (1995)(-)(ru)"
+	rom ( name "Spectrophoby 03 (1995)(-)(ru).trd" size 655360 crc d526727f md5 fbeb39f2dec5f8a003fbaa78da32a470 sha1 4972c767771a4b154b038c8c86820b781b6236fe )
+)
+
+game (
+	name "Spectrophoby 04 (1996)(-)(ru)"
+	description "Spectrophoby 04 (1996)(-)(ru)"
+	rom ( name "Spectrophoby 04 (1996)(-)(ru).trd" size 655360 crc 5be46faf md5 15281877eeb2818aa4c7cf85eda61752 sha1 81240efc4bed946cda8c3da67a69bb91a58e6846 )
+)
+
+game (
+	name "Spectrophoby 05 (1996)(-)(ru)"
+	description "Spectrophoby 05 (1996)(-)(ru)"
+	rom ( name "Spectrophoby 05 (1996)(-)(ru).trd" size 655360 crc 51ea6bcf md5 3fdba6607bd7bfea902ae513991034b7 sha1 7e23c1f5c5ed2e7fd84808ab030c3c62a5feb5dc )
+)
+
+game (
+	name "Spectrophoby 05 (1996)(-)(ru)[a]"
+	description "Spectrophoby 05 (1996)(-)(ru)[a]"
+	rom ( name "Spectrophoby 05 (1996)(-)(ru)[a].trd" size 655360 crc c966d848 md5 1993fc15ec5607208d3a0d86453df74e sha1 ff7098146ec986a0a03de184b548815eba8d3e59 )
+)
+
+game (
+	name "Spectrophoby 06 (1996)(-)(ru)"
+	description "Spectrophoby 06 (1996)(-)(ru)"
+	rom ( name "Spectrophoby 06 (1996)(-)(ru).trd" size 655360 crc 03558e52 md5 cdf0082d189fdb61de05a6ca1aa58fad sha1 d2142610d7eeabc60bb243209cd43a7a088b9395 )
+)
+
+game (
+	name "Spectrophoby 06 (1996)(-)(ru)[a]"
+	description "Spectrophoby 06 (1996)(-)(ru)[a]"
+	rom ( name "Spectrophoby 06 (1996)(-)(ru)[a].trd" size 655360 crc f79e7806 md5 74ed9b8e3f0d2be91f8fd262efea47aa sha1 c5e335a248ea1e780b2045f434f9083fd25cf976 )
+)
+
+game (
+	name "Spectrum Progress 01 (1996)(Profsouse)"
+	description "Spectrum Progress 01 (1996)(Profsouse)"
+	rom ( name "Spectrum Progress 01 (1996)(Profsouse).trd" size 655360 crc c93b968e md5 a79a57db7b46e20caa48f10e05773d79 sha1 c6b8d8a562b181267c4b96c200828092f59b9388 )
+)
+
+game (
+	name "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 1 of 2)"
+	description "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 1 of 2)"
+	rom ( name "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 1 of 2).trd" size 655360 crc 3d6278d9 md5 5590931a3abafe1aa51dbc72345190b5 sha1 cef120b9f7581e4f8c0b00d31b177aff305ecb52 )
+)
+
+game (
+	name "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 2 of 2)"
+	description "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 2 of 2)"
+	rom ( name "Stab, The 02 (19xx)(ChemneSoft)(ru)(Disk 2 of 2).trd" size 655360 crc 4e476b1b md5 6625e4c3b7913a3a9da76d5951495991 sha1 dd51f4b992799766fabdfff70e7688e9a0335209 )
+)
+
+game (
+	name "Subliminal Extacy 03 (2001)(Raww Arse)[h Phantasy]"
+	description "Subliminal Extacy 03 (2001)(Raww Arse)[h Phantasy]"
+	rom ( name "Subliminal Extacy 03 (2001)(Raww Arse)[h Phantasy].trd" size 655360 crc 0795717a md5 4241886276de8ac2968fb6445e5647b1 sha1 7711c8f64b7be0e93f2bdf9592ceef0f8ffb0a8f )
+)
+
+game (
+	name "Target 10 (2002)(Savers Alliance)(ru)"
+	description "Target 10 (2002)(Savers Alliance)(ru)"
+	rom ( name "Target 10 (2002)(Savers Alliance)(ru).trd" size 655360 crc 522b41e9 md5 f96c9988793f2fb9f92eaaa016e3724c sha1 182aa7705ed301da9bd61b8624af1bbf54b507ac )
+)
+
+game (
+	name "Vogayer 00 (1998)(Dio-Gen)(ru)"
+	description "Vogayer 00 (1998)(Dio-Gen)(ru)"
+	rom ( name "Vogayer 00 (1998)(Dio-Gen)(ru).trd" size 655360 crc 08ef8514 md5 739f4688ad7825026e6ba9a53ef139f7 sha1 77759e17487fb753ec697de24b050070fd7a267b )
+)
+
+game (
+	name "Vogayer 00 (1998)(Dio-Gen)(ru)[a]"
+	description "Vogayer 00 (1998)(Dio-Gen)(ru)[a]"
+	rom ( name "Vogayer 00 (1998)(Dio-Gen)(ru)[a].trd" size 655360 crc 2aa38547 md5 b74d4167ca459325b40c23921a9c3935 sha1 9c7f86cdf92bf70ad6ca72b42ec5bc3097b757cd )
+)
+
+game (
+	name "Vogayer 01 (1998)(Dio-Gen)(ru)"
+	description "Vogayer 01 (1998)(Dio-Gen)(ru)"
+	rom ( name "Vogayer 01 (1998)(Dio-Gen)(ru).trd" size 655360 crc 11456aba md5 5d7eeae804f39141009a60859a4cde4c sha1 9f4bfc6355365b643fab2ecc0856b8ff0b414967 )
+)
+
+game (
+	name "Vogayer 01 (1998)(Dio-Gen)(ru)[a]"
+	description "Vogayer 01 (1998)(Dio-Gen)(ru)[a]"
+	rom ( name "Vogayer 01 (1998)(Dio-Gen)(ru)[a].trd" size 655360 crc 7ea9b042 md5 b079e2f9493e89f62c8b83d9dd7b0eea sha1 75e7c506043fec94378c4ced0d86e61ae332be7f )
+)
+
+game (
+	name "Vogayer 02 (1998)(Dio-Gen)(ru)"
+	description "Vogayer 02 (1998)(Dio-Gen)(ru)"
+	rom ( name "Vogayer 02 (1998)(Dio-Gen)(ru).trd" size 655360 crc 6e61264e md5 dadce593facf4877efa66ab4cb2f3970 sha1 cd8298107be08d699447cd63b603843a090cc261 )
+)
+
+game (
+	name "Vogayer 02 (1998)(Dio-Gen)(ru)[a2]"
+	description "Vogayer 02 (1998)(Dio-Gen)(ru)[a2]"
+	rom ( name "Vogayer 02 (1998)(Dio-Gen)(ru)[a2].trd" size 655360 crc 2cb46281 md5 58783601b62df3482814616af4a33962 sha1 980275e2229feb8e5f2afa4881b0cd1a43d4dad5 )
+)
+
+game (
+	name "Vogayer 02 (1998)(Dio-Gen)(ru)[a3]"
+	description "Vogayer 02 (1998)(Dio-Gen)(ru)[a3]"
+	rom ( name "Vogayer 02 (1998)(Dio-Gen)(ru)[a3].trd" size 655360 crc b1e79d50 md5 c07f7c8a2eac22bd6bf07c3539652d90 sha1 52c0b9d14528beb11da1164f61776cd0ec228ef8 )
+)
+
+game (
+	name "Vogayer 02 (1998)(Dio-Gen)(ru)[a]"
+	description "Vogayer 02 (1998)(Dio-Gen)(ru)[a]"
+	rom ( name "Vogayer 02 (1998)(Dio-Gen)(ru)[a].trd" size 655360 crc 238bc9d9 md5 a1dc8d2f3b3b856c89a4fa8308c68e1a sha1 f09854f76b449d77afbc0a2b218b369e83e955e1 )
+)
+
+game (
+	name "Vogayer 03 (1999)(Dio-Gen)(ru)"
+	description "Vogayer 03 (1999)(Dio-Gen)(ru)"
+	rom ( name "Vogayer 03 (1999)(Dio-Gen)(ru).trd" size 655360 crc b87bb7b3 md5 b01fb8f5e23929616cd2682e6ce4b312 sha1 774d16eb0486944783e93d40a2839ed818ab88ae )
+)
+
+game (
+	name "Vogayer 03 (1999)(Dio-Gen)(ru)[a]"
+	description "Vogayer 03 (1999)(Dio-Gen)(ru)[a]"
+	rom ( name "Vogayer 03 (1999)(Dio-Gen)(ru)[a].trd" size 655360 crc c0a69e7d md5 c14cd3a52b6f8f0ffbf500ddc39ce061 sha1 5fd3e6c5234f6db4f5adfbefc7f3469d2bbdfd87 )
+)
+
+game (
+	name "White Crow 01 (2001)(Ihor)(ru)"
+	description "White Crow 01 (2001)(Ihor)(ru)"
+	rom ( name "White Crow 01 (2001)(Ihor)(ru).trd" size 655360 crc e5abeb6d md5 d6af4de5776a6397d5ee00f959559115 sha1 588b58af6111dfbb1eb19a58622313381ed8d9e2 )
+)
+
+game (
+	name "X-Files 01 (1997)(Clevers Group)(ru)"
+	description "X-Files 01 (1997)(Clevers Group)(ru)"
+	rom ( name "X-Files 01 (1997)(Clevers Group)(ru).trd" size 655360 crc 16f18f19 md5 77cd8007544922c5d2deaf5605e5eb1c sha1 6d24c92462389613abe621685fef4522df6605b4 )
+)
+
+game (
+	name "X-Files 01 (1997)(Clevers Group)(ru)[a]"
+	description "X-Files 01 (1997)(Clevers Group)(ru)[a]"
+	rom ( name "X-Files 01 (1997)(Clevers Group)(ru)[a].trd" size 655360 crc 6cbbbd60 md5 4238e65a8b5cdeb9848eae6ee9fdba38 sha1 f748d2088d03160875d8573c1934bc0133e41eea )
+)
+
+game (
+	name "X-Files 02 (1998)(Clevers Group)(ru)"
+	description "X-Files 02 (1998)(Clevers Group)(ru)"
+	rom ( name "X-Files 02 (1998)(Clevers Group)(ru).trd" size 655360 crc 4adce95f md5 1d8f802ff6503f5bbbcfc0a09ed5ee72 sha1 df712c090b1cf97a242d1ecee5790caa3bd5a806 )
+)
+
+game (
+	name "X-Files 02 (1998)(Clevers Group)(ru)[a]"
+	description "X-Files 02 (1998)(Clevers Group)(ru)[a]"
+	rom ( name "X-Files 02 (1998)(Clevers Group)(ru)[a].trd" size 655360 crc 2612267f md5 a87fec5f150e33e2b574245e1fe65dba sha1 a35e8c4edad4f5499b91dc5495c21041a4a43494 )
+)
+
+game (
+	name "ZX Digest 01 (1995)(-)(ru)"
+	description "ZX Digest 01 (1995)(-)(ru)"
+	rom ( name "ZX Digest 01 (1995)(-)(ru).trd" size 655360 crc d76ebf3d md5 277d1e1197f02edf64e574b21771e658 sha1 5f385a8bc1db2f6bb96fc8776698373ef98e4a12 )
+)
+
+game (
+	name "ZX Digest 02 (1995)(-)(ru)"
+	description "ZX Digest 02 (1995)(-)(ru)"
+	rom ( name "ZX Digest 02 (1995)(-)(ru).trd" size 655360 crc 1051e3f2 md5 2bb7aafef806cb6d1aff13e4bfbf5063 sha1 330b6fa1f146eec16892a07ba1e00455207ecf72 )
+)
+
+game (
+	name "ZX Land - Issue 02 (1992)(Illusion Group)(pl)[h Rapeware]"
+	description "ZX Land - Issue 02 (1992)(Illusion Group)(pl)[h Rapeware]"
+	rom ( name "ZX Land - Issue 02 (1992)(Illusion Group)(pl)[h Rapeware].trd" size 655360 crc 52c4c48f md5 b74dd9c9f7a01453fd9c12a8b5cba825 sha1 4c51aa2a27de78d651bc6cf22374c3c401972f7a )
+)
+
+game (
+	name "ZX Time 05 (2001)(K.C.Soft)(ru)"
+	description "ZX Time 05 (2001)(K.C.Soft)(ru)"
+	rom ( name "ZX Time 05 (2001)(K.C.Soft)(ru).trd" size 655360 crc 357939a1 md5 143e29451a952736a07b177be464849f sha1 35b0f1408c666db62794fc2cae3c380a01a40319 )
+)
+
+game (
+	name "ZX-Chart 01 (2000)(The Chart Team)(ru)"
+	description "ZX-Chart 01 (2000)(The Chart Team)(ru)"
+	rom ( name "ZX-Chart 01 (2000)(The Chart Team)(ru).trd" size 655360 crc 639bafa7 md5 8bdb703799349aca2b40ea88ffa76f45 sha1 cebece94664e899ab71fff2c5cbca9f797b2b44b )
+)
+
+game (
+	name "ZX-Chart 01 (2000)(The Chart Team)(ru)[a]"
+	description "ZX-Chart 01 (2000)(The Chart Team)(ru)[a]"
+	rom ( name "ZX-Chart 01 (2000)(The Chart Team)(ru)[a].trd" size 655360 crc 0cba4dd0 md5 4dedf6ea3f16189215f7c61ca4ff8666 sha1 7fb23a1654794477968661df7fcb8f8ba5b08ec6 )
+)
+
+game (
+	name "ZX-Chart 02 (2001)(The Chart Team)(ru)"
+	description "ZX-Chart 02 (2001)(The Chart Team)(ru)"
+	rom ( name "ZX-Chart 02 (2001)(The Chart Team)(ru).trd" size 655360 crc 3cccb2aa md5 2fb331d60f4debb061584c6801b58e3d sha1 bd351f2b7a8c14dc4a07e3a469bb6fae3f6f7803 )
+)
+
+game (
+	name "ZX-Chart Patcher (2001)(Jeez)"
+	description "ZX-Chart Patcher (2001)(Jeez)"
+	rom ( name "ZX-Chart Patcher (2001)(Jeez).trd" size 655360 crc cb009d3e md5 bd29a7befade088c68ca11865eac72fe sha1 e4a6b218236661bd7ef5c051e5b63eff2a9fde09 )
+)
+
+game (
+	name "ZX-Club 07 (1998)(Elders Group)(ru)"
+	description "ZX-Club 07 (1998)(Elders Group)(ru)"
+	rom ( name "ZX-Club 07 (1998)(Elders Group)(ru).trd" size 655360 crc a25bae86 md5 549280f55b668dbcf51c0b951404304e sha1 40e981b928ec5a491e269b16272c3218cf2dbf95 )
+)
+
+game (
+	name "ZX-Club 07 (1998)(Elders Group)(ru)[h]"
+	description "ZX-Club 07 (1998)(Elders Group)(ru)[h]"
+	rom ( name "ZX-Club 07 (1998)(Elders Group)(ru)[h].trd" size 655360 crc e11078ed md5 9a1aa7b1c3b069b561d0e2581b397f45 sha1 7f9ac47457766f5b595f5848036fab1154b174bc )
+)
+
+game (
+	name "ZX-Club 08 (1998)(Elders Group)(ru)"
+	description "ZX-Club 08 (1998)(Elders Group)(ru)"
+	rom ( name "ZX-Club 08 (1998)(Elders Group)(ru).trd" size 655360 crc 753dc008 md5 86e430b3c4b6c7e6e30eadb67e3b27d5 sha1 d4ad3f32ca8a8cf0ac19322dfce47faad99ff364 )
+)
+
+game (
+	name "ZX-Club 08 (1998)(Elders Group)(ru)[h2]"
+	description "ZX-Club 08 (1998)(Elders Group)(ru)[h2]"
+	rom ( name "ZX-Club 08 (1998)(Elders Group)(ru)[h2].trd" size 655360 crc 667a884c md5 b4057c13c19bb2a93df83448774f9a66 sha1 afbb7a74c177ee8a8ea6b4bd80f8463598034a64 )
+)
+
+game (
+	name "ZX-Club 08 (1998)(Elders Group)(ru)[h]"
+	description "ZX-Club 08 (1998)(Elders Group)(ru)[h]"
+	rom ( name "ZX-Club 08 (1998)(Elders Group)(ru)[h].trd" size 655360 crc 9e0c2df2 md5 d42dd0f7cf01664488f880add05ef0e5 sha1 443c6eb3b9fc525b605de0f0d71583386e5d53c9 )
+)
+
+game (
+	name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2)"
+	description "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2).trd" size 655360 crc 9c8e0279 md5 b05c84e15bf31deee18f7850751652c0 sha1 08e925d8539fa0647ef41ba2ed97a50f11429b16 )
+)
+
+game (
+	name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2)[a]"
+	description "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2)[a]"
+	rom ( name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 1 of 2)[a].trd" size 655360 crc 864dcf6c md5 ca84945cd7ab0cd8bd6766c6502d7977 sha1 feb5a3c521085af643e14ce08af4fa5400365672 )
+)
+
+game (
+	name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2)"
+	description "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2).trd" size 655360 crc de259f04 md5 65128888e970f988506e170eaad4dba6 sha1 df1af9df067b95121332ad3769b17fced848719a )
+)
+
+game (
+	name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2)[a]"
+	description "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2)[a]"
+	rom ( name "ZX-Club 09 (1998)(Elders Group)(ru)(Disk 2 of 2)[a].trd" size 655360 crc e88db8f7 md5 41f71be66a5336ec466c936b92bd210f sha1 57e34558c7187b8a0b2e800a81948259d6c6d738 )
+)
+
+game (
+	name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)"
+	description "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)"
+	rom ( name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru).trd" size 655360 crc 8adcca68 md5 4f59210058e26a396141f27ba25d9d89 sha1 1007e08cb77b7916581408b5edb60c6df89c9c26 )
+)
+
+game (
+	name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a2]"
+	description "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a2]"
+	rom ( name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a2].trd" size 655364 crc dfb3e3e6 md5 b02787fe74947e02d711ba3b7f0ffc6b sha1 f304bb014ca227069516947d88810109a46ec6b6 )
+)
+
+game (
+	name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a3]"
+	description "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a3]"
+	rom ( name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a3].trd" size 655360 crc 53db6537 md5 670d2477735d09b0690d45ed77978a8f sha1 f34131edb988d2a1872f22a7f20b60cd38c32e34 )
+)
+
+game (
+	name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a]"
+	description "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a]"
+	rom ( name "ZX-Element 01 - Energy 09 (1997)(ZX-Legion)(ru)[a].trd" size 655360 crc 92a539d9 md5 8ecaa35940cc74d520de06f4633b8156 sha1 495fff8b56c5e8143acd7d20c4138066e3c878b4 )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[a][password MAJESTIC]"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[a][password MAJESTIC]"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[a][password MAJESTIC].trd" size 655360 crc 53b5dc6f md5 b13992f38db09296614b692f13171a80 sha1 76032c52dfe5b62d703b7b21a0b3d7cc3f45227c )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[h]"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[h]"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[h].trd" size 655360 crc 935fd4ac md5 3fed9c7a97b008ceed347efa1f2ff246 sha1 9042b652bc9b9396ceb99c9b4e14076d29a3be77 )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[password MAJESTIC]"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[password MAJESTIC]"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 1 of 2)[password MAJESTIC].trd" size 655360 crc ebb6fd04 md5 8fc99c032236d1916d7c5096329f2bb8 sha1 1afe202f36c0990b26ec42b7e25a87e58eb869e0 )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2).trd" size 655360 crc 6cd1dc90 md5 1a68d47165fca82eeac5c12900338125 sha1 0a7e7bdb8ee9b04047b921fa4606a07ee78cac53 )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a2]"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a2]"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a2].trd" size 655360 crc c593770b md5 06ed7748a804010f6bd2b7f86cc49c67 sha1 fa9caad208307a0377880c75345f89b8e21016e1 )
+)
+
+game (
+	name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a]"
+	description "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a]"
+	rom ( name "ZX-Element 02 (1997)(ZX-Legion)(ru)(Disk 2 of 2)[a].trd" size 655360 crc 14d8acf3 md5 aa6e9fcb02c4a90c1d8f4839c6f453fd sha1 a4ec6c0c0ec21991bd77dd987ff940306f6edf6f )
+)
+
+game (
+	name "ZX-Format 01 (1995)(XL-Design)(ru)[h Digital Reality]"
+	description "ZX-Format 01 (1995)(XL-Design)(ru)[h Digital Reality]"
+	rom ( name "ZX-Format 01 (1995)(XL-Design)(ru)[h Digital Reality].trd" size 655360 crc 82cb23cd md5 71ff7623e12d3e44b6b019f89aee4ff4 sha1 5b4e1aff1ab7f1f18db5e90eadc1b8eb7529a822 )
+)
+
+game (
+	name "ZX-Format 01 (1995)(XL-Design)(ru)[h Hacker Cris - John Stunner]"
+	description "ZX-Format 01 (1995)(XL-Design)(ru)[h Hacker Cris - John Stunner]"
+	rom ( name "ZX-Format 01 (1995)(XL-Design)(ru)[h Hacker Cris - John Stunner].trd" size 655360 crc 6a2df63f md5 9c92fba0b95a64238cc0f5808b959377 sha1 2a9575d555daed0fc99f0776149d17b2e8089e0d )
+)
+
+game (
+	name "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Digital Reality]"
+	description "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Digital Reality]"
+	rom ( name "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Digital Reality].trd" size 655360 crc 2050b87f md5 637de7ec06f8d75561c18ac1524c2e43 sha1 ec5ca49bfa5091bcbde2cedd96375ba3d14daf9d )
+)
+
+game (
+	name "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Hacker Cris - John Stunner]"
+	description "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Hacker Cris - John Stunner]"
+	rom ( name "ZX-Format 01 (1995)(XL-Design)(ru)[h2 Hacker Cris - John Stunner].trd" size 655360 crc 5ac6bcec md5 f43910bc9c66ad886f23351c6d16681d sha1 9f5468b941b9ddcd0ac4e722671aa4ae5c1b8620 )
+)
+
+game (
+	name "ZX-Format 01 (1995)(XL-Design)(ru)[h3 Hacker Cris - John Stunner]"
+	description "ZX-Format 01 (1995)(XL-Design)(ru)[h3 Hacker Cris - John Stunner]"
+	rom ( name "ZX-Format 01 (1995)(XL-Design)(ru)[h3 Hacker Cris - John Stunner].trd" size 655360 crc 601a1ff4 md5 6da7d574ff19eeaac08dc60ee129781d sha1 74aab79ee75c454eea47c43d884100533b5eb29e )
+)
+
+game (
+	name "ZX-Format 02 (1995)(XL-Design)(ru)[h Digital Reality]"
+	description "ZX-Format 02 (1995)(XL-Design)(ru)[h Digital Reality]"
+	rom ( name "ZX-Format 02 (1995)(XL-Design)(ru)[h Digital Reality].trd" size 655360 crc 56c7f56d md5 305f33405cb3409056e9782b171bccee sha1 02ca00dd4fee2c833fad5db3683efb5bbfe458bc )
+)
+
+game (
+	name "ZX-Format 02 (1995)(XL-Design)(ru)[h2 Digital Reality]"
+	description "ZX-Format 02 (1995)(XL-Design)(ru)[h2 Digital Reality]"
+	rom ( name "ZX-Format 02 (1995)(XL-Design)(ru)[h2 Digital Reality].trd" size 655360 crc ba830ca1 md5 dd3dab978ba7e56472582614ba107861 sha1 433dabb3e7855885fb19b00e8116a21c2022c7e0 )
+)
+
+game (
+	name "ZX-Format 02 (1995)(XL-Design)(ru)[h2]"
+	description "ZX-Format 02 (1995)(XL-Design)(ru)[h2]"
+	rom ( name "ZX-Format 02 (1995)(XL-Design)(ru)[h2].trd" size 655360 crc 46c94f39 md5 bf0b25143fa76b2a9b0d6bbeea2bfafd sha1 7b7585cf05e659e0762b60dc43078137ff280130 )
+)
+
+game (
+	name "ZX-Format 02 (1995)(XL-Design)(ru)[h3 Digital Reality]"
+	description "ZX-Format 02 (1995)(XL-Design)(ru)[h3 Digital Reality]"
+	rom ( name "ZX-Format 02 (1995)(XL-Design)(ru)[h3 Digital Reality].trd" size 655360 crc ae6c0871 md5 44c913b046b61e6093878ad009f65023 sha1 9668c67475fac866cd09eb55b336d26b302ffc54 )
+)
+
+game (
+	name "ZX-Format 02 (1995)(XL-Design)(ru)[h]"
+	description "ZX-Format 02 (1995)(XL-Design)(ru)[h]"
+	rom ( name "ZX-Format 02 (1995)(XL-Design)(ru)[h].trd" size 655360 crc 6891388e md5 478d283605a15ca7e395f416e953c1f0 sha1 e3b3db71cbdafa431d7672720ca133857658549c )
+)
+
+game (
+	name "ZX-Format 03 (1996)(XL-Design)(ru)"
+	description "ZX-Format 03 (1996)(XL-Design)(ru)"
+	rom ( name "ZX-Format 03 (1996)(XL-Design)(ru).trd" size 655360 crc b6dc1d51 md5 b3cab40385b26e7b4e127527a7e3faa4 sha1 400e5252dc8fd7785ceeec81bb3d37b6e208d588 )
+)
+
+game (
+	name "ZX-Format 03 (1996)(XL-Design)(ru)[a2]"
+	description "ZX-Format 03 (1996)(XL-Design)(ru)[a2]"
+	rom ( name "ZX-Format 03 (1996)(XL-Design)(ru)[a2].trd" size 655360 crc 6ef8db3f md5 7a1ff548d372265b204575d7893b8192 sha1 f17f2106e359b10af1ea0b87cf0699c9946afb01 )
+)
+
+game (
+	name "ZX-Format 03 (1996)(XL-Design)(ru)[a3]"
+	description "ZX-Format 03 (1996)(XL-Design)(ru)[a3]"
+	rom ( name "ZX-Format 03 (1996)(XL-Design)(ru)[a3].trd" size 655360 crc 5606093a md5 cae816d04d4ee85debbd2d984d367b02 sha1 d61e660d8202e4d95e1b9eaf45f081679e96d7da )
+)
+
+game (
+	name "ZX-Format 03 (1996)(XL-Design)(ru)[a]"
+	description "ZX-Format 03 (1996)(XL-Design)(ru)[a]"
+	rom ( name "ZX-Format 03 (1996)(XL-Design)(ru)[a].trd" size 655360 crc 72da4939 md5 a66049e0bb6285a3bb3d3e9cf63204e6 sha1 938bfd72e65530cdfa6fcc17d3ee1ed8ef1c5312 )
+)
+
+game (
+	name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2)"
+	description "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2).trd" size 655360 crc 2495319c md5 e1eec8c6d7e158b6b5938a1816f68036 sha1 f8325259e306bb99292b3dc5dba26aaab762753b )
+)
+
+game (
+	name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2)[a]"
+	description "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2)[a]"
+	rom ( name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 1 of 2)[a].trd" size 655360 crc d192b5e1 md5 0690581579796fd9c28f4b40a61303e7 sha1 088179a6692ef18d1f22aa5069e0f45839d5c149 )
+)
+
+game (
+	name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2)"
+	description "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2).trd" size 655360 crc dcb7c3ca md5 c110dcc3d5630f32ab0b47a6750a9a86 sha1 d73ccf0dbec74ffdcde13f2bfda1e6f6cbbbb631 )
+)
+
+game (
+	name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2)[a]"
+	description "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2)[a]"
+	rom ( name "ZX-Format 04 (1996)(XL-Design)(ru)(Disk 2 of 2)[a].trd" size 655360 crc 535491c5 md5 e9b89aac02d7f4c43f99887a2a63d843 sha1 a286a39eff869e9af00aa2daa0cbfb5dc312184f )
+)
+
+game (
+	name "ZX-Format 04.5 (1996)(XL-Design)(ru)"
+	description "ZX-Format 04.5 (1996)(XL-Design)(ru)"
+	rom ( name "ZX-Format 04.5 (1996)(XL-Design)(ru).trd" size 655360 crc a7445231 md5 540cd67875cda5a57acd8e21e564c6ee sha1 29bd24cface1e4ca92eb0fe6edb98b6fecba22fe )
+)
+
+game (
+	name "ZX-Format 04.5 (1996)(XL-Design)(ru)[a]"
+	description "ZX-Format 04.5 (1996)(XL-Design)(ru)[a]"
+	rom ( name "ZX-Format 04.5 (1996)(XL-Design)(ru)[a].trd" size 655360 crc 6543236f md5 cafaa3ab87aee808bf0d5b2d0d3e4c99 sha1 27e69cc27294d9c59faf9ceb1873aa48f5b7a9a8 )
+)
+
+game (
+	name "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 1 of 2)"
+	description "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 1 of 2).trd" size 655360 crc aa21e824 md5 def195e0b5262002c5ce0b853133f77d sha1 bc91dddc851e49f24536f77e4e447d68a70ab43b )
+)
+
+game (
+	name "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 2 of 2)"
+	description "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Format 05 (1996)(XL-Design)(ru)(Disk 2 of 2).trd" size 655360 crc 2c89a755 md5 547cb837bc666c313d9252df96031499 sha1 1e7fb49baff30fb40bb8a63f9c7be9562b0fa7ec )
+)
+
+game (
+	name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 1 of 3)"
+	description "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 1 of 3)"
+	rom ( name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 1 of 3).trd" size 655360 crc e9845293 md5 a6ec182cc324b27164f7710dab67d376 sha1 00984c96bc421156f81a2cb18063fcde92afa97a )
+)
+
+game (
+	name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 2 of 3)"
+	description "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 2 of 3)"
+	rom ( name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 2 of 3).trd" size 655360 crc 5d103c70 md5 a597065d7d64c2d3d863287ed832962e sha1 afc610b4f11fe6f5cd49d101ddd7ff9538b5d193 )
+)
+
+game (
+	name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 3 of 3)"
+	description "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 3 of 3)"
+	rom ( name "ZX-Format 06 (1997)(XL-Design)(ru)(Disk 3 of 3).trd" size 655360 crc 08c2deda md5 9850e55404f6a9cba3095cd5172552f6 sha1 6ca442ee81916706a15329e4a7e7c8c929aeaafc )
+)
+
+game (
+	name "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 1 of 2)"
+	description "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 1 of 2).trd" size 655360 crc a30940ab md5 2d38c227379956acbddacec5228eec1b sha1 a7348aedffc5db69dab9e48f922f0b8136b848fd )
+)
+
+game (
+	name "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 2 of 2)"
+	description "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Format 07 (1997)(XL-Design)(ru)(Disk 2 of 2).trd" size 655360 crc 136bfe47 md5 d64c6f5ab85ffd380b5feac14bed2cca sha1 d76548d084adc6ceb60c89b32daf3af11d31330c )
+)
+
+game (
+	name "ZX-Format 08 (1998)(XL-Design)(ru)[h Power Hackers Group]"
+	description "ZX-Format 08 (1998)(XL-Design)(ru)[h Power Hackers Group]"
+	rom ( name "ZX-Format 08 (1998)(XL-Design)(ru)[h Power Hackers Group].trd" size 655360 crc 1dd70920 md5 9056375a6876da98281fac32959a198c sha1 26431d51ae29ae02b8d92afdbe24734377cd6b49 )
+)
+
+game (
+	name "ZX-Format 08 (1998)(XL-Design)(ru)[h2 Power Hackers Group]"
+	description "ZX-Format 08 (1998)(XL-Design)(ru)[h2 Power Hackers Group]"
+	rom ( name "ZX-Format 08 (1998)(XL-Design)(ru)[h2 Power Hackers Group].trd" size 655360 crc 2a934644 md5 80f6124deb8f456178f9ef3ffc70e7cc sha1 8bb708f29191d9368f16fb924d01bf63dbcd5453 )
+)
+
+game (
+	name "ZX-Forum 04 (1997)(-)(ru)"
+	description "ZX-Forum 04 (1997)(-)(ru)"
+	rom ( name "ZX-Forum 04 (1997)(-)(ru).trd" size 655360 crc 593c55b7 md5 3fb1c8ae504e7d7b0cc19282a7b4522d sha1 5bb031792183009d098399f3f3e3dd91609f2e8a )
+)
+
+game (
+	name "ZX-Guide 01 (1998)(Alone Coder)(ru)"
+	description "ZX-Guide 01 (1998)(Alone Coder)(ru)"
+	rom ( name "ZX-Guide 01 (1998)(Alone Coder)(ru).trd" size 655360 crc c3c21192 md5 c54e199df32672a65c21daefde5b38dc sha1 017b8bf5d948ce12d4e7c799dcb307ad74f70b9c )
+)
+
+game (
+	name "ZX-Guide 01 (1998)(Alone Coder)(ru)[a]"
+	description "ZX-Guide 01 (1998)(Alone Coder)(ru)[a]"
+	rom ( name "ZX-Guide 01 (1998)(Alone Coder)(ru)[a].trd" size 655360 crc b856802a md5 25b89de1e62a805c2825eac81c1be658 sha1 a0976d09484b822f7e78776f572a5a3a11ade0ba )
+)
+
+game (
+	name "ZX-Guide 02 (1999)(Alone Coder)(ru)"
+	description "ZX-Guide 02 (1999)(Alone Coder)(ru)"
+	rom ( name "ZX-Guide 02 (1999)(Alone Coder)(ru).trd" size 655360 crc d0b7590c md5 fe10f5d91a72e9e20a47009067c84d96 sha1 3d53f4d6dea87b322b0f895a08a35caca2f5b239 )
+)
+
+game (
+	name "ZX-Guide 02 (1999)(Alone Coder)(ru)[a2]"
+	description "ZX-Guide 02 (1999)(Alone Coder)(ru)[a2]"
+	rom ( name "ZX-Guide 02 (1999)(Alone Coder)(ru)[a2].trd" size 655360 crc 3511cb7a md5 4fb4b7a39f9b300497f79c0ecbe1000d sha1 7906bd145aef67d110a7365eed1c46bb20c3240b )
+)
+
+game (
+	name "ZX-Guide 02 (1999)(Alone Coder)(ru)[a]"
+	description "ZX-Guide 02 (1999)(Alone Coder)(ru)[a]"
+	rom ( name "ZX-Guide 02 (1999)(Alone Coder)(ru)[a].trd" size 655360 crc 999e74c9 md5 16835556f59051f22549e45c5c5e6e59 sha1 3591b99e47b6f74cf0b55d0399baf6542bffd69e )
+)
+
+game (
+	name "ZX-Guide 03 (2000)(Alone Coder)(ru)"
+	description "ZX-Guide 03 (2000)(Alone Coder)(ru)"
+	rom ( name "ZX-Guide 03 (2000)(Alone Coder)(ru).trd" size 655360 crc e69107ed md5 61df09cfdcea48660113e70e0296bbfd sha1 f930eeaef8d16e60a1d7a4f9f6905780e1e07151 )
+)
+
+game (
+	name "ZX-Guide 03 (2000)(Alone Coder)(ru)[a]"
+	description "ZX-Guide 03 (2000)(Alone Coder)(ru)[a]"
+	rom ( name "ZX-Guide 03 (2000)(Alone Coder)(ru)[a].trd" size 655360 crc 3eafe257 md5 ba802f0233f8435702ed25019dc42fa9 sha1 50a84dadace781e11a4cf0ebaae34c594150447d )
+)
+
+game (
+	name "ZX-Guide 04 (2000)(Alone Coder)(ru)"
+	description "ZX-Guide 04 (2000)(Alone Coder)(ru)"
+	rom ( name "ZX-Guide 04 (2000)(Alone Coder)(ru).trd" size 655360 crc a814befe md5 b2c2a05db6f12de7e9f93897ff61426a sha1 d9654d0225970b40e3d917c35b9e6c29004c02e8 )
+)
+
+game (
+	name "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 1 of 2)"
+	description "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 1 of 2).trd" size 655360 crc 7955dcd1 md5 f1710cdfdcaec817dcf2ce5855af6fac sha1 6e9064ae0f02659166abf88a6bf0a5c56699ec0f )
+)
+
+game (
+	name "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 2 of 2)"
+	description "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Guide 04.5 (2002)(Alone Coder)(ru)(Disk 2 of 2).trd" size 655360 crc 2b561918 md5 a951d6478a418ff8269653844ded91aa sha1 dc8cb5a6974d65bd4f99f13f2b510c40d47cbe75 )
+)
+
+game (
+	name "ZX-Konig 03 (1995)(-)(ru)"
+	description "ZX-Konig 03 (1995)(-)(ru)"
+	rom ( name "ZX-Konig 03 (1995)(-)(ru).trd" size 655360 crc 8a66046e md5 44ac9a2872658e8f463eee83235350aa sha1 e59c18a80a2712b8bc9d87364d1bac1304aec8ca )
+)
+
+game (
+	name "ZX-Konig 04 (1996)(-)(ru)"
+	description "ZX-Konig 04 (1996)(-)(ru)"
+	rom ( name "ZX-Konig 04 (1996)(-)(ru).trd" size 655360 crc c5d2ecf1 md5 ee395463696f89127ff4df4d22b427d2 sha1 c25f9f5509bde23d7771513c1da58fd792c73986 )
+)
+
+game (
+	name "ZX-Magazine 01 (1995)(LOSW - Centronix)(ru)"
+	description "ZX-Magazine 01 (1995)(LOSW - Centronix)(ru)"
+	rom ( name "ZX-Magazine 01 (1995)(LOSW - Centronix)(ru).trd" size 655360 crc bc297edf md5 7c37693f534ff95ab9f7526ee069bba5 sha1 606d7d07dd9343b74a991090f6efe0e1ef5e6925 )
+)
+
+game (
+	name "ZX-Magazine 02 (1995)(LOSW - Centronix)(ru)"
+	description "ZX-Magazine 02 (1995)(LOSW - Centronix)(ru)"
+	rom ( name "ZX-Magazine 02 (1995)(LOSW - Centronix)(ru).trd" size 239360 crc 560403c0 md5 3a958ea3b86966948f0782dbe0eb7d0a sha1 1ab1675347f664d299b9ec7c88fb054855469eeb )
+)
+
+game (
+	name "ZX-News 02 (1996)(Crystal Dream)(ru)"
+	description "ZX-News 02 (1996)(Crystal Dream)(ru)"
+	rom ( name "ZX-News 02 (1996)(Crystal Dream)(ru).trd" size 655360 crc a1a9f992 md5 19bc0ea2cac49fff4b2b202c2ff6d184 sha1 900c3ca8febcb81e54f665ee8fc562f05c5bd1ab )
+)
+
+game (
+	name "ZX-News 02 (1996)(Crystal Dream)(ru)[h]"
+	description "ZX-News 02 (1996)(Crystal Dream)(ru)[h]"
+	rom ( name "ZX-News 02 (1996)(Crystal Dream)(ru)[h].trd" size 655360 crc c540c4d4 md5 105a0eccc5cb940579775ebbd00f1c60 sha1 272afa85830de420ba7829a1d3dd6f2b4c8df0b2 )
+)
+
+game (
+	name "ZX-News 03 (1997)(Crystal Dream)(ru)"
+	description "ZX-News 03 (1997)(Crystal Dream)(ru)"
+	rom ( name "ZX-News 03 (1997)(Crystal Dream)(ru).trd" size 655360 crc 734683ea md5 96337b67455da3109e4fc9647c2b78d8 sha1 85b2b533dc5d33882a828720da44545a4cf3b24b )
+)
+
+game (
+	name "ZX-News 03 (1997)(Crystal Dream)(ru)[a]"
+	description "ZX-News 03 (1997)(Crystal Dream)(ru)[a]"
+	rom ( name "ZX-News 03 (1997)(Crystal Dream)(ru)[a].trd" size 655360 crc 3e59679e md5 f5dc7e4a9217dfcf6a2eecf41811ae5e sha1 52440064d8e119e681c004f52f384b0e2fd0997e )
+)
+
+game (
+	name "ZX-News 53 (2000)(Artur Podtelkoff)(ru)"
+	description "ZX-News 53 (2000)(Artur Podtelkoff)(ru)"
+	rom ( name "ZX-News 53 (2000)(Artur Podtelkoff)(ru).trd" size 655360 crc bf8c91e0 md5 2bbfc07c97cf3b42aec33c14e65628c5 sha1 9e19fb9649eb40ceab3c95bca79fc91044b6a877 )
+)
+
+game (
+	name "ZX-Power 01 (1996)(United Coders Software)(ru)"
+	description "ZX-Power 01 (1996)(United Coders Software)(ru)"
+	rom ( name "ZX-Power 01 (1996)(United Coders Software)(ru).trd" size 655360 crc af7fcc67 md5 1176723e6cd0fca95b09a57d6ddfb60b sha1 aef5d54b1e7a498febbd805b7f0069445cff30c3 )
+)
+
+game (
+	name "ZX-Power 01 (1996)(United Coders Software)(ru)[a]"
+	description "ZX-Power 01 (1996)(United Coders Software)(ru)[a]"
+	rom ( name "ZX-Power 01 (1996)(United Coders Software)(ru)[a].trd" size 655360 crc cc658f07 md5 9da5aebfa513c2ab8e62ccb3db76c2f3 sha1 d3711c4f5d623a1cab172cdc87ce576158e76c72 )
+)
+
+game (
+	name "ZX-Power 02 (1997)(X-Project Association)(ru)"
+	description "ZX-Power 02 (1997)(X-Project Association)(ru)"
+	rom ( name "ZX-Power 02 (1997)(X-Project Association)(ru).trd" size 655360 crc b326b59e md5 76ab8ae81d14d3030a14d9a4474ae52d sha1 1c07f7523e5d135c0dc49141226bda4aa4684ded )
+)
+
+game (
+	name "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 1 of 2)"
+	description "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 1 of 2).trd" size 655360 crc b2df2ca8 md5 165cf734e9e5f75b9ededb74a64cec84 sha1 6348512551249a35c571248d7328a5ace489322d )
+)
+
+game (
+	name "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 2 of 2)"
+	description "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Power 03 (1998)(X-Project Association)(ru)(Disk 2 of 2).trd" size 655360 crc 8e88286b md5 6c72d50b4e85b213784117dbb4040b3c sha1 13c2ea69b20b2d20bb1f8fa3718b1db757dd18eb )
+)
+
+game (
+	name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2)"
+	description "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2).trd" size 655360 crc d0a4c40f md5 5fbe8932e3351188940b0d8413d02a98 sha1 c8e2e5bac5c34316417c4a8ed40cd8f5ad9fc71d )
+)
+
+game (
+	name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2)[a]"
+	description "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2)[a]"
+	rom ( name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 1 of 2)[a].trd" size 655360 crc 6713171f md5 0f550b483e479dd87f9eddcac4d33db5 sha1 7609380e376b19c464291480a8cbb6ccfa9d8af8 )
+)
+
+game (
+	name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2)"
+	description "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2).trd" size 655360 crc c19722c3 md5 934e65230d9da765699789ac1ce321ee sha1 24004d72ff0b73e00c4f9722da7617ff76c3281b )
+)
+
+game (
+	name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2)[a]"
+	description "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2)[a]"
+	rom ( name "ZX-Power 04 (1999)(X-Project Association)(ru)(Disk 2 of 2)[a].trd" size 655360 crc be250aa4 md5 bf3ef960144419582acb539d72eb3681 sha1 0ddbdcf56d1a8bf58db4099bf88b3d8e8e2aafa4 )
+)
+

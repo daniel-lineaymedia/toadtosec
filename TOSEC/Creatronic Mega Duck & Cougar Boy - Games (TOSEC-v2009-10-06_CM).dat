@@ -1,0 +1,61 @@
+clrmamepro (
+	name "Creatronic Mega Duck & Cougar Boy - Games"
+	description "Creatronic Mega Duck & Cougar Boy - Games (TOSEC-v2009-10-06)"
+	category "Creatronic Mega Duck & Cougar Boy - Games"
+	version 2009-10-06
+	author "Cid"
+)
+
+game (
+	name "Arctic Zone (1993)(Commin)"
+	description "Arctic Zone (1993)(Commin)"
+	rom ( name "Arctic Zone (1993)(Commin).bin" size 32768 crc f88f2d25 md5 d9206a9aa8a80650dc14467f1c3a1e9e )
+)
+
+game (
+	name "Commin 5 in 1 (1993)(Commin)"
+	description "Commin 5 in 1 (1993)(Commin)"
+	rom ( name "Commin 5 in 1 (1993)(Commin).bin" size 65536 crc ff0da355 md5 b9d32795ac1004892e7f75fbbabefcc6 )
+)
+
+game (
+	name "Magical Tower (1993)(Sachen)"
+	description "Magical Tower (1993)(Sachen)"
+	rom ( name "Magical Tower (1993)(Sachen).bin" size 65536 crc 98694021 md5 fecedeed294a15226bf83f6bdb9bd874 )
+)
+
+game (
+	name "Mega Duck 4 in 1 Game (1993)(Sachen)"
+	description "Mega Duck 4 in 1 Game (1993)(Sachen)"
+	rom ( name "Mega Duck 4 in 1 Game (1993)(Sachen).bin" size 65536 crc 8046ea70 md5 b69258fca964f04c09217318759a242b )
+)
+
+game (
+	name "Pile Wonder (1993)(Commin)"
+	description "Pile Wonder (1993)(Commin)"
+	rom ( name "Pile Wonder (1993)(Commin).bin" size 32768 crc 61c81e06 md5 41f5481a13c8e52aafe8266db52e622f )
+)
+
+game (
+	name "Railway (1993)(Sachen)"
+	description "Railway (1993)(Sachen)"
+	rom ( name "Railway (1993)(Sachen).bin" size 65536 crc 2bb6aeb9 md5 c217738067267475f86eec9bc19f462b )
+)
+
+game (
+	name "Street Rider (1993)(Commin)"
+	description "Street Rider (1993)(Commin)"
+	rom ( name "Street Rider (1993)(Commin).bin" size 32768 crc 74c3377f md5 284b8c671a7fb408aaa601be44e1f0b5 )
+)
+
+game (
+	name "Suleimans Treasure (1993)(Commin)"
+	description "Suleimans Treasure (1993)(Commin)"
+	rom ( name "Suleimans Treasure (1993)(Commin).bin" size 65536 crc cd2730ac md5 343da38521cbfb60df79a5e4eb392cf8 )
+)
+
+game (
+	name "Brick Wall, The (1993)(Timlex)"
+	description "Brick Wall, The (1993)(Timlex)"
+	rom ( name "Brick Wall, The (1993)(Timlex).bin" size 32768 crc 58efe338 md5 48170b7d77fc96d4f72adccb51299b87 )
+)

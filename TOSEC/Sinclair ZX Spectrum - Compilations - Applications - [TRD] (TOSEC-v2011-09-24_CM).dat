@@ -1,0 +1,554 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Applications - [TRD]"
+	description "Sinclair ZX Spectrum - Compilations - Applications - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Applications - [TRD]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "A.A. Barulin Utilities Collection (1992)(A.A. Barulin)(ru)"
+	description "A.A. Barulin Utilities Collection (1992)(A.A. Barulin)(ru)"
+	rom ( name "A.A. Barulin Utilities Collection (1992)(A.A. Barulin)(ru).trd" size 655360 crc a5f9d398 md5 3aef9486fb3a150b9c03c56ec664f096 sha1 4fa389e2b50bb03ad8fbda6f4f619af2ca74a9a9 )
+)
+
+game (
+	name "Utility Compilation 01 (19xx)(-)"
+	description "Utility Compilation 01 (19xx)(-)"
+	rom ( name "Utility Compilation 01 (19xx)(-).trd" size 655360 crc ca028aa7 md5 b374eb5ab480ac22df5a82760b3b0aa4 sha1 6019e142260faee402632463f9c4a1dc055932d8 )
+)
+
+game (
+	name "Utility Compilation 02 (19xx)(-)"
+	description "Utility Compilation 02 (19xx)(-)"
+	rom ( name "Utility Compilation 02 (19xx)(-).trd" size 655360 crc 3b432bb4 md5 392b898ede96aef148a06c676aa3a1db sha1 5cae0cbbcea67c3336141c74827b704638005cda )
+)
+
+game (
+	name "Utility Compilation 03 (19xx)(-)"
+	description "Utility Compilation 03 (19xx)(-)"
+	rom ( name "Utility Compilation 03 (19xx)(-).trd" size 655360 crc f511c248 md5 8b0f8a99d6f5c55e96e84bdeeb164c19 sha1 2acb4176af88576a8be103bdc76b45d21ef6ff93 )
+)
+
+game (
+	name "Utility Compilation 04 (19xx)(-)"
+	description "Utility Compilation 04 (19xx)(-)"
+	rom ( name "Utility Compilation 04 (19xx)(-).trd" size 655360 crc 5ce3cbc0 md5 853be530ab12ac45e655acdd3ddf684f sha1 9d4b1fdc5002ae0c3fea6afa6cd3bd819ebf7e24 )
+)
+
+game (
+	name "Utility Compilation 05 (19xx)(-)"
+	description "Utility Compilation 05 (19xx)(-)"
+	rom ( name "Utility Compilation 05 (19xx)(-).trd" size 655360 crc 2b0d4e27 md5 49cee9f1bb00baa1c09ddbb015fdd12d sha1 8726828c7868e0fcb2e8ed71fcae1a7e894019ab )
+)
+
+game (
+	name "Utility Compilation 06 (19xx)(-)"
+	description "Utility Compilation 06 (19xx)(-)"
+	rom ( name "Utility Compilation 06 (19xx)(-).trd" size 655360 crc 16e47923 md5 6f1f6cfc64be6e079013647686d7cc64 sha1 70c96b3df31de3808001169a456b62d3c53b6ce1 )
+)
+
+game (
+	name "Utility Compilation 07 (19xx)(-)"
+	description "Utility Compilation 07 (19xx)(-)"
+	rom ( name "Utility Compilation 07 (19xx)(-).trd" size 655360 crc e69e5846 md5 0f80ddc888138fa5209ab3c9b5195dc4 sha1 606d3dab1b084e99c3d5200457ada7cc8f82a474 )
+)
+
+game (
+	name "Utility Compilation 08 (19xx)(-)"
+	description "Utility Compilation 08 (19xx)(-)"
+	rom ( name "Utility Compilation 08 (19xx)(-).trd" size 655360 crc 1886338d md5 57bb59327f3330aae3d24231769734fe sha1 4d079298886fc650693081816fc8e3e3fcf9d83c )
+)
+
+game (
+	name "Utility Compilation 09 (19xx)(-)"
+	description "Utility Compilation 09 (19xx)(-)"
+	rom ( name "Utility Compilation 09 (19xx)(-).trd" size 655360 crc 74077cef md5 b3daf2c9cf64e17000a45cc41105b1c1 sha1 a5858515e62d202106ea6f5021bfd00fd84165aa )
+)
+
+game (
+	name "Utility Compilation 10 (19xx)(-)"
+	description "Utility Compilation 10 (19xx)(-)"
+	rom ( name "Utility Compilation 10 (19xx)(-).trd" size 655360 crc b4c4a9a9 md5 9c5bf315df090a5caa0ca4fffbc119b7 sha1 b2067b8b93761d11ead85789dc4bc3ab0ae2c1a8 )
+)
+
+game (
+	name "Utility Compilation 11 (19xx)(-)"
+	description "Utility Compilation 11 (19xx)(-)"
+	rom ( name "Utility Compilation 11 (19xx)(-).trd" size 655360 crc c16a19da md5 349f03d3c4f343ff241eab9766612bed sha1 72f8bc8786ef9d499783e37c652e14dcfd33d034 )
+)
+
+game (
+	name "Utility Compilation 12 (19xx)(-)"
+	description "Utility Compilation 12 (19xx)(-)"
+	rom ( name "Utility Compilation 12 (19xx)(-).trd" size 655360 crc 2b0b4b62 md5 e6abdf878b93de3b2b601117ea21556e sha1 443821f0a433546b4772bbaefaa98abcd9b857ce )
+)
+
+game (
+	name "Utility Compilation 13 (19xx)(-)"
+	description "Utility Compilation 13 (19xx)(-)"
+	rom ( name "Utility Compilation 13 (19xx)(-).trd" size 655360 crc 2ee0ee42 md5 9e8de1f320e8490fcdde062d0a5ab549 sha1 9165bc130ec24a2c0d4eeed4ba7fe2bf05f7893f )
+)
+
+game (
+	name "Utility Compilation 14 (19xx)(-)"
+	description "Utility Compilation 14 (19xx)(-)"
+	rom ( name "Utility Compilation 14 (19xx)(-).trd" size 655360 crc 8644d079 md5 88277f23741a898444d43eaee72198c3 sha1 ec7c67d2786be5db46d82c5e5abdb53e954532fc )
+)
+
+game (
+	name "Utility Compilation 15 (19xx)(-)"
+	description "Utility Compilation 15 (19xx)(-)"
+	rom ( name "Utility Compilation 15 (19xx)(-).trd" size 655360 crc f797870c md5 458034715bf36691e85cdb17d9816d69 sha1 b0f3ec31f18554901dd1bdb72262ba366f79ab7a )
+)
+
+game (
+	name "Utility Compilation 16 (19xx)(-)"
+	description "Utility Compilation 16 (19xx)(-)"
+	rom ( name "Utility Compilation 16 (19xx)(-).trd" size 655360 crc bc360b05 md5 6f427740d29201719209e4ff2ef329d2 sha1 0ec5748f1c6057aa9bc682893182b3c25d4e2582 )
+)
+
+game (
+	name "Utility Compilation 17 (19xx)(-)"
+	description "Utility Compilation 17 (19xx)(-)"
+	rom ( name "Utility Compilation 17 (19xx)(-).trd" size 655360 crc 23fe7dcf md5 6c1384bde37393b004bc865981629938 sha1 f5f4af99257031cf40764720b2c315c714eb7d99 )
+)
+
+game (
+	name "Utility Compilation 18 (19xx)(-)"
+	description "Utility Compilation 18 (19xx)(-)"
+	rom ( name "Utility Compilation 18 (19xx)(-).trd" size 655360 crc 68863754 md5 1a6c5fa394ff93365a285af641eaad53 sha1 9172292abb8205e60e550a73307ca0a2a5bbac27 )
+)
+
+game (
+	name "Utility Compilation 19 (19xx)(-)"
+	description "Utility Compilation 19 (19xx)(-)"
+	rom ( name "Utility Compilation 19 (19xx)(-).trd" size 655360 crc 220965be md5 03fe8bbad3937d11fd05b30c97b17b3e sha1 191cc28edf148604700670a31a7fa049886a66f8 )
+)
+
+game (
+	name "Utility Compilation 20 (19xx)(-)"
+	description "Utility Compilation 20 (19xx)(-)"
+	rom ( name "Utility Compilation 20 (19xx)(-).trd" size 655360 crc 627cf37f md5 d611840156a1969a018c73f93de812c5 sha1 5833f118f1f9183b2412ad06dbaba7a0491ad828 )
+)
+
+game (
+	name "Utility Compilation 21 (19xx)(-)"
+	description "Utility Compilation 21 (19xx)(-)"
+	rom ( name "Utility Compilation 21 (19xx)(-).trd" size 655360 crc 00dfea6c md5 0256082af662270c6a393acd5928affb sha1 b8c1d19173ff64e2ee7679b2df18cfa276b9e89e )
+)
+
+game (
+	name "Utility Compilation 22 (19xx)(-)"
+	description "Utility Compilation 22 (19xx)(-)"
+	rom ( name "Utility Compilation 22 (19xx)(-).trd" size 655360 crc e778043c md5 c369fb8285b8b9be8a4731704563cc3b sha1 732ab4fec0af386a6ae513e09de266ce11bf422e )
+)
+
+game (
+	name "Utility Compilation 23 (19xx)(-)"
+	description "Utility Compilation 23 (19xx)(-)"
+	rom ( name "Utility Compilation 23 (19xx)(-).trd" size 655360 crc 3a48b07f md5 2d43a8de8776dd56e824e9c373112bd2 sha1 d20a2600f7c0d88243196f3a333557ee04389b30 )
+)
+
+game (
+	name "Utility Compilation 24 (19xx)(-)"
+	description "Utility Compilation 24 (19xx)(-)"
+	rom ( name "Utility Compilation 24 (19xx)(-).trd" size 655360 crc a98560ca md5 d1c56112409a6d147ebada00c54ed665 sha1 12ca53da7bb3c13738dd178171d1b89f8c09dc2b )
+)
+
+game (
+	name "Utility Compilation 25 (19xx)(-)"
+	description "Utility Compilation 25 (19xx)(-)"
+	rom ( name "Utility Compilation 25 (19xx)(-).trd" size 655360 crc a982144d md5 a995aa9f7dfade602748f3d23fb7f50e sha1 a45f27fd00ca87795c1100d2e0b7460c201f3d1b )
+)
+
+game (
+	name "Utility Compilation 26 (19xx)(-)"
+	description "Utility Compilation 26 (19xx)(-)"
+	rom ( name "Utility Compilation 26 (19xx)(-).trd" size 655360 crc 4faf8372 md5 f49f9c3252d02b692fc097844c6bb13a sha1 914f555b5a574d4701ca7e97fd5ae3f46272e756 )
+)
+
+game (
+	name "Utility Compilation 27 (19xx)(-)"
+	description "Utility Compilation 27 (19xx)(-)"
+	rom ( name "Utility Compilation 27 (19xx)(-).trd" size 655360 crc 56355fa0 md5 faa0cab836b9e2a7e06964ab1328a1ce sha1 4bee294375806797f11fb07c789ad4ce1b3309c6 )
+)
+
+game (
+	name "Utility Compilation 28 (19xx)(-)"
+	description "Utility Compilation 28 (19xx)(-)"
+	rom ( name "Utility Compilation 28 (19xx)(-).trd" size 655360 crc 48094e59 md5 21511cad76734047dd0d75c51e8a6bed sha1 721752171144c785fd4ca50e03e3eb8f3c95b3bf )
+)
+
+game (
+	name "Utility Compilation 29 (19xx)(-)"
+	description "Utility Compilation 29 (19xx)(-)"
+	rom ( name "Utility Compilation 29 (19xx)(-).trd" size 655360 crc d51e798f md5 df5e21e979beff4c25f70da65460ada7 sha1 4057c911f521db1f919569838ca76104aee57c7a )
+)
+
+game (
+	name "Utility Compilation 30 (19xx)(-)"
+	description "Utility Compilation 30 (19xx)(-)"
+	rom ( name "Utility Compilation 30 (19xx)(-).trd" size 655360 crc 723a58cf md5 cb58fcf6f41dd5931899895a49143d3b sha1 aca53b6bcc1b8be9c70ea1a166c19f31c69f01ed )
+)
+
+game (
+	name "Utility Compilation 31 (19xx)(-)"
+	description "Utility Compilation 31 (19xx)(-)"
+	rom ( name "Utility Compilation 31 (19xx)(-).trd" size 655360 crc 4112a5e2 md5 19446470dfda927267acf8ba9d8a91da sha1 ea6d6036f021b469800428defb41b72ee42dd84e )
+)
+
+game (
+	name "Utility Compilation 32 (19xx)(-)"
+	description "Utility Compilation 32 (19xx)(-)"
+	rom ( name "Utility Compilation 32 (19xx)(-).trd" size 655360 crc 883faeb2 md5 89f2ef6ec63a080a893e779d11c5328c sha1 6e0bfcd8d90442762cfad2be18b0744968c14478 )
+)
+
+game (
+	name "Utility Compilation 33 (19xx)(-)"
+	description "Utility Compilation 33 (19xx)(-)"
+	rom ( name "Utility Compilation 33 (19xx)(-).trd" size 655360 crc 54fbed30 md5 f307acfba7dffcdb7552eccfa7718d92 sha1 7ce690b2df831043d9cd82ed6da16f5ebbdea769 )
+)
+
+game (
+	name "Utility Compilation 34 (19xx)(-)"
+	description "Utility Compilation 34 (19xx)(-)"
+	rom ( name "Utility Compilation 34 (19xx)(-).trd" size 655360 crc a4bf0852 md5 674dfbbff286cac21d40a206bcfdbe86 sha1 877f1c38a2d042d905ad69562ae9559972c441f7 )
+)
+
+game (
+	name "Utility Compilation 35 (19xx)(-)"
+	description "Utility Compilation 35 (19xx)(-)"
+	rom ( name "Utility Compilation 35 (19xx)(-).trd" size 655360 crc 1bbf8194 md5 53143718220dfe081765fa309c0fc866 sha1 5ddff40a31f1ebbb8f425e901370c4b360051be1 )
+)
+
+game (
+	name "Utility Compilation 36 (19xx)(-)"
+	description "Utility Compilation 36 (19xx)(-)"
+	rom ( name "Utility Compilation 36 (19xx)(-).trd" size 655360 crc 0ee3a3b8 md5 7c1fbe6dfad58b9b961ed5bb8bda04bc sha1 0cc929d85a36de90f41f100ad3be9493c40f30c9 )
+)
+
+game (
+	name "Utility Compilation 37 (19xx)(-)"
+	description "Utility Compilation 37 (19xx)(-)"
+	rom ( name "Utility Compilation 37 (19xx)(-).trd" size 655360 crc 8c1f30d9 md5 da05ec7a7e2abe1dbe2a213d0eda45db sha1 f595f86f8285ae4eaf5b25d86480346b1ef67b16 )
+)
+
+game (
+	name "Utility Compilation 38 (19xx)(-)"
+	description "Utility Compilation 38 (19xx)(-)"
+	rom ( name "Utility Compilation 38 (19xx)(-).trd" size 655360 crc ee874e98 md5 fd6d4717ceabf960b01f6781010e1b37 sha1 03e04a17ad32d784a4435d264ddd51ad090c0b96 )
+)
+
+game (
+	name "Utility Compilation 39 (19xx)(-)"
+	description "Utility Compilation 39 (19xx)(-)"
+	rom ( name "Utility Compilation 39 (19xx)(-).trd" size 655360 crc bc532aec md5 d060d7d9bbb9a211cddaa757999c9841 sha1 603e3f9e66ecba4530d97dba57d6a5b9a274516a )
+)
+
+game (
+	name "Utility Compilation 40 (19xx)(-)"
+	description "Utility Compilation 40 (19xx)(-)"
+	rom ( name "Utility Compilation 40 (19xx)(-).trd" size 655360 crc 6c547c88 md5 0a4685f036e569c0b7961664731a8acb sha1 5c7442b5fe1f5f8c98ee35a16d1f20256b2c2ce2 )
+)
+
+game (
+	name "Utility Compilation 41 (19xx)(-)"
+	description "Utility Compilation 41 (19xx)(-)"
+	rom ( name "Utility Compilation 41 (19xx)(-).trd" size 655360 crc 730f0d49 md5 c898bdb819ed865f9dd27a11ddbb8080 sha1 87c614a2ce88e2b3a0cf3f42f03b266eb675a573 )
+)
+
+game (
+	name "Utility Compilation 42 (19xx)(-)"
+	description "Utility Compilation 42 (19xx)(-)"
+	rom ( name "Utility Compilation 42 (19xx)(-).trd" size 655360 crc 6a56b739 md5 e4f308642eb686d257ef87c05c2b3fed sha1 27de871981cdfa723b598be4ec2f4aa1170a17d1 )
+)
+
+game (
+	name "Utility Compilation 43 (19xx)(-)"
+	description "Utility Compilation 43 (19xx)(-)"
+	rom ( name "Utility Compilation 43 (19xx)(-).trd" size 655360 crc 3f7f89f2 md5 49956eb8d4025a4a8e2c1fce9621cc74 sha1 55e9a898d5381f7c97f07477cad22c5ae60fca5e )
+)
+
+game (
+	name "Utility Compilation 44 (19xx)(-)"
+	description "Utility Compilation 44 (19xx)(-)"
+	rom ( name "Utility Compilation 44 (19xx)(-).trd" size 655360 crc 0fee1d9f md5 72f6298b8853e3e18b745c45f86ac659 sha1 7f9f4708f0e517f922bbfa600d677d57d3104d98 )
+)
+
+game (
+	name "Utility Compilation 45 (19xx)(-)"
+	description "Utility Compilation 45 (19xx)(-)"
+	rom ( name "Utility Compilation 45 (19xx)(-).trd" size 655360 crc aa04d7e1 md5 1cf889aafe2c42c40be7cbf475f43563 sha1 8ee12faa55e3bbd3ed1c671c315e39b61f95f47f )
+)
+
+game (
+	name "Utility Compilation 46 (19xx)(-)"
+	description "Utility Compilation 46 (19xx)(-)"
+	rom ( name "Utility Compilation 46 (19xx)(-).trd" size 655360 crc 0673aa29 md5 b673464636e76fe1184144ae244dead8 sha1 d2b19ea965eceaec1b74ec7e3ddff96424497b9e )
+)
+
+game (
+	name "Utility Compilation 47 (19xx)(-)"
+	description "Utility Compilation 47 (19xx)(-)"
+	rom ( name "Utility Compilation 47 (19xx)(-).trd" size 655360 crc 6b15707d md5 fc55ad27afc87401812906b8f7312e6c sha1 bc685aa315f27ccfde6a2b1591638dffe7eebe0b )
+)
+
+game (
+	name "Utility Compilation 48 (19xx)(-)"
+	description "Utility Compilation 48 (19xx)(-)"
+	rom ( name "Utility Compilation 48 (19xx)(-).trd" size 655360 crc 59988d35 md5 bcc7bd1ffeb2ae1786b3b809c1714777 sha1 e243de4f9c48e38f4ccbb29949e7bff92127c68d )
+)
+
+game (
+	name "Utility Compilation 49 (19xx)(-)"
+	description "Utility Compilation 49 (19xx)(-)"
+	rom ( name "Utility Compilation 49 (19xx)(-).trd" size 655360 crc e05d375f md5 799b691984a79fd16ba8db506e9e22cb sha1 b0bbdf5cded98d9114dae9c9158de82832559196 )
+)
+
+game (
+	name "Utility Compilation 50 (19xx)(-)"
+	description "Utility Compilation 50 (19xx)(-)"
+	rom ( name "Utility Compilation 50 (19xx)(-).trd" size 655360 crc e5385881 md5 6b8c4558e947fa6429948ccd36686831 sha1 9d8af1924e412e8a26f4b389a542d6e5f177c226 )
+)
+
+game (
+	name "Utility Compilation 51 (19xx)(-)"
+	description "Utility Compilation 51 (19xx)(-)"
+	rom ( name "Utility Compilation 51 (19xx)(-).trd" size 655360 crc 5393ec59 md5 ed49241e86a8290b07465b3f39c61c16 sha1 67ab0a990f8c5c59317975aa4b59949b33b51123 )
+)
+
+game (
+	name "Utility Compilation 52 (19xx)(-)"
+	description "Utility Compilation 52 (19xx)(-)"
+	rom ( name "Utility Compilation 52 (19xx)(-).trd" size 655360 crc 07eda7e0 md5 e2fe4df1c6824ebb9d771674c43ec0fa sha1 e050d8f00a13469f97770560c123790e4781e977 )
+)
+
+game (
+	name "Utility Compilation 53 (19xx)(-)"
+	description "Utility Compilation 53 (19xx)(-)"
+	rom ( name "Utility Compilation 53 (19xx)(-).trd" size 655360 crc a1291430 md5 52aed9e0417f72185a1706369585cdfc sha1 5c27a3d333f9f70ccf7df6f2fcd084140a54dc2e )
+)
+
+game (
+	name "Utility Compilation 54 (19xx)(-)"
+	description "Utility Compilation 54 (19xx)(-)"
+	rom ( name "Utility Compilation 54 (19xx)(-).trd" size 655360 crc a5e43980 md5 ba8aed0ef89be399a5572e36b48137e2 sha1 26c967a0dd86abeeb6da51839b29bb48b0dd1217 )
+)
+
+game (
+	name "Utility Compilation 55 (19xx)(-)"
+	description "Utility Compilation 55 (19xx)(-)"
+	rom ( name "Utility Compilation 55 (19xx)(-).trd" size 655360 crc 5e10cf3a md5 6a4f00e947e10a9f92d6d8a2b59ae869 sha1 8ae619c120026dea76fa3b42831f225c4065a2e5 )
+)
+
+game (
+	name "Utility Compilation 56 (19xx)(-)"
+	description "Utility Compilation 56 (19xx)(-)"
+	rom ( name "Utility Compilation 56 (19xx)(-).trd" size 655360 crc ff68d283 md5 d7fe2458cbdc830d2cf3b9985831edfb sha1 f912c373caeb49981b2ce98d52f252ad801765f4 )
+)
+
+game (
+	name "Utility Compilation 57 (19xx)(-)"
+	description "Utility Compilation 57 (19xx)(-)"
+	rom ( name "Utility Compilation 57 (19xx)(-).trd" size 655360 crc b8e85914 md5 fbc375cf8ca329a0ca9834162bcbad38 sha1 c26ad6fb772bcdb4924b90ffc2477615ad04074d )
+)
+
+game (
+	name "Utility Compilation 58 (19xx)(-)"
+	description "Utility Compilation 58 (19xx)(-)"
+	rom ( name "Utility Compilation 58 (19xx)(-).trd" size 655360 crc dfaba9af md5 e46e961d495eef26042cb114ba2baf0b sha1 dfa23994e31e6838ac36933026ace44ec67064f2 )
+)
+
+game (
+	name "Utility Compilation 59 (19xx)(-)"
+	description "Utility Compilation 59 (19xx)(-)"
+	rom ( name "Utility Compilation 59 (19xx)(-).trd" size 655360 crc a357a797 md5 4a3337b8e20fa2140ce20f2535951f93 sha1 4a203879feacd03edb59f552a785a69e0e5f2d56 )
+)
+
+game (
+	name "Utility Compilation 60 (19xx)(-)"
+	description "Utility Compilation 60 (19xx)(-)"
+	rom ( name "Utility Compilation 60 (19xx)(-).trd" size 655360 crc 9339aecb md5 996b8a4af3fb0d5a12d9691834693101 sha1 45144ea32491d0ae64f737b480bd8d30bb5433dd )
+)
+
+game (
+	name "Utility Compilation 61 (19xx)(-)"
+	description "Utility Compilation 61 (19xx)(-)"
+	rom ( name "Utility Compilation 61 (19xx)(-).trd" size 655360 crc 4d12b206 md5 b6308d3d7c4d466de928b20802c833f7 sha1 c00796682f14ca1cd2fe792116bdab4e258ebb4d )
+)
+
+game (
+	name "Utility Compilation 62 (19xx)(-)"
+	description "Utility Compilation 62 (19xx)(-)"
+	rom ( name "Utility Compilation 62 (19xx)(-).trd" size 655360 crc bdfbe306 md5 844cad46124bbc12340300c342dc8c77 sha1 35777a30b4595202a438527486971cc341c7eaef )
+)
+
+game (
+	name "Utility Compilation 63 (19xx)(-)"
+	description "Utility Compilation 63 (19xx)(-)"
+	rom ( name "Utility Compilation 63 (19xx)(-).trd" size 655360 crc 64001251 md5 7ca3657ba186d04f127104890f207cd1 sha1 2c96348ba3d41318dd939c5bd4b53cc94b1043df )
+)
+
+game (
+	name "Utility Compilation 64 (19xx)(-)"
+	description "Utility Compilation 64 (19xx)(-)"
+	rom ( name "Utility Compilation 64 (19xx)(-).trd" size 655360 crc 0f845c81 md5 5d6c825976bc52f698438c2e4894dcfb sha1 10868330f247311c96c336efd661bd3c229ce41c )
+)
+
+game (
+	name "Utility Compilation 65 (19xx)(-)"
+	description "Utility Compilation 65 (19xx)(-)"
+	rom ( name "Utility Compilation 65 (19xx)(-).trd" size 655360 crc d5847988 md5 8c7dd4bd84ce15e56fe545739a1fbdcf sha1 fba1e7a79e631b1d01278502bda360894144fe68 )
+)
+
+game (
+	name "Utility Compilation 66 (19xx)(-)"
+	description "Utility Compilation 66 (19xx)(-)"
+	rom ( name "Utility Compilation 66 (19xx)(-).trd" size 655360 crc 8cb4ed26 md5 ceacefef32b532b970ead7289519e897 sha1 2b5384e5a6a080fe462c69d3fa9beb987351d9b5 )
+)
+
+game (
+	name "Utility Compilation 67 (19xx)(-)"
+	description "Utility Compilation 67 (19xx)(-)"
+	rom ( name "Utility Compilation 67 (19xx)(-).trd" size 655360 crc c374488d md5 70d16484f36d426030adafc9bbb49584 sha1 41ea863438357b30340bb5d451cb516abdf8a98f )
+)
+
+game (
+	name "Utility Compilation 68 (19xx)(-)"
+	description "Utility Compilation 68 (19xx)(-)"
+	rom ( name "Utility Compilation 68 (19xx)(-).trd" size 655360 crc 00a25c07 md5 b5ad3408cd6dbeb2d5fcbed0e5fb43d6 sha1 54264b72ba73f557aea95c9088d0535fd3ff16c6 )
+)
+
+game (
+	name "Utility Compilation 69 (19xx)(-)"
+	description "Utility Compilation 69 (19xx)(-)"
+	rom ( name "Utility Compilation 69 (19xx)(-).trd" size 655360 crc 8d04d832 md5 9e25dd6f86d4c71698779157f9b0803c sha1 005f5494e955413d00151a78d7c12f80e25f485d )
+)
+
+game (
+	name "Utility Compilation 70 (19xx)(-)"
+	description "Utility Compilation 70 (19xx)(-)"
+	rom ( name "Utility Compilation 70 (19xx)(-).trd" size 655360 crc 8a3fbe43 md5 52f8a559002d30f70afbc959d2549e5f sha1 648ba7f110179f438722408aa517c2ef20637f1a )
+)
+
+game (
+	name "Utility Compilation 71 (19xx)(-)"
+	description "Utility Compilation 71 (19xx)(-)"
+	rom ( name "Utility Compilation 71 (19xx)(-).trd" size 655360 crc 7dc92b4d md5 608ff1c565ad1a22278a4dea5e35bb05 sha1 319c2de5ec7d10c0c4cca653d758bd236a5353c9 )
+)
+
+game (
+	name "Utility Compilation 72 (19xx)(-)"
+	description "Utility Compilation 72 (19xx)(-)"
+	rom ( name "Utility Compilation 72 (19xx)(-).trd" size 655360 crc 8db31f46 md5 10cf5e610281e82838c837dbb7b30298 sha1 9ddf2520286a1e8cee1a9c7754e3f43435077847 )
+)
+
+game (
+	name "Utility Compilation 73 (19xx)(-)"
+	description "Utility Compilation 73 (19xx)(-)"
+	rom ( name "Utility Compilation 73 (19xx)(-).trd" size 655360 crc a4ca1f95 md5 f8313045df21d25dd7088d4460261421 sha1 1f9712ee12d8d3208b5d0ddfb53b3dadf680492e )
+)
+
+game (
+	name "Utility Compilation 74 (19xx)(-)"
+	description "Utility Compilation 74 (19xx)(-)"
+	rom ( name "Utility Compilation 74 (19xx)(-).trd" size 655360 crc 79dbbe30 md5 7e7a0979c834b6be6770f8c12fd6f917 sha1 51c6f8d3e4b20a972c7229d35b6ef01d82477f77 )
+)
+
+game (
+	name "Utility Compilation 75 (19xx)(-)"
+	description "Utility Compilation 75 (19xx)(-)"
+	rom ( name "Utility Compilation 75 (19xx)(-).trd" size 655360 crc 49281d3d md5 22e9d23e5c9cc11e931732990b7151b1 sha1 cdb45874e331569879dfb7438a2070a431c0c94d )
+)
+
+game (
+	name "Utility Compilation 76 (19xx)(-)"
+	description "Utility Compilation 76 (19xx)(-)"
+	rom ( name "Utility Compilation 76 (19xx)(-).trd" size 655360 crc de45f83e md5 96661d541895e96c4a89f85bd273743c sha1 e2eab3c0de7d951b46e6bd261e816b5aa57d6797 )
+)
+
+game (
+	name "Utility Compilation 77 (19xx)(-)"
+	description "Utility Compilation 77 (19xx)(-)"
+	rom ( name "Utility Compilation 77 (19xx)(-).trd" size 655360 crc e36cd32b md5 4826e6053fc44a5b557b93afff976ecc sha1 00e23b3ad1c0724e9d7f5fcc7d5cc55f9dd9b951 )
+)
+
+game (
+	name "Utility Compilation 78 (19xx)(-)"
+	description "Utility Compilation 78 (19xx)(-)"
+	rom ( name "Utility Compilation 78 (19xx)(-).trd" size 655360 crc fe49d6d7 md5 f6a25c051440a960bf4d715324b31386 sha1 ce06717a4f16b2973d065595093ff30ca28867a8 )
+)
+
+game (
+	name "Utility Compilation 79 (19xx)(-)"
+	description "Utility Compilation 79 (19xx)(-)"
+	rom ( name "Utility Compilation 79 (19xx)(-).trd" size 655360 crc 99a366b9 md5 aa767b20f0aaeceaae38b96c59d69dd1 sha1 b2a89c8b89ee4d3a15897208e69d273f32857047 )
+)
+
+game (
+	name "Utility Compilation 80 (19xx)(-)"
+	description "Utility Compilation 80 (19xx)(-)"
+	rom ( name "Utility Compilation 80 (19xx)(-).trd" size 655360 crc b4a803f9 md5 02a6acf72a35e59f9c4ef3db06a02fc2 sha1 657c3769a4ff74a652e7ffad9f78ce8efeb32324 )
+)
+
+game (
+	name "Utility Compilation 81 (19xx)(-)"
+	description "Utility Compilation 81 (19xx)(-)"
+	rom ( name "Utility Compilation 81 (19xx)(-).trd" size 655360 crc 1ec44b19 md5 dbcaf7e9ef49e88dcd0231de1a77fc43 sha1 f6659e481604e78507a19f6755ab5533fc3ee85b )
+)
+
+game (
+	name "Utility Compilation 82 (19xx)(-)"
+	description "Utility Compilation 82 (19xx)(-)"
+	rom ( name "Utility Compilation 82 (19xx)(-).trd" size 655360 crc 3419d526 md5 95f99e41c1ed33ec941130da6afc7d9a sha1 9e7ea85a9a00c468c2bfe9dee8ec99981c7bd671 )
+)
+
+game (
+	name "Utility Compilation 83 (19xx)(-)"
+	description "Utility Compilation 83 (19xx)(-)"
+	rom ( name "Utility Compilation 83 (19xx)(-).trd" size 655360 crc 813eb0d0 md5 d9aa34795263cc9e7b5f542551bf0961 sha1 e015523119be42af22ab47ef2fc2fb3f86eaf0e3 )
+)
+
+game (
+	name "Utility Compilation 84 (19xx)(-)"
+	description "Utility Compilation 84 (19xx)(-)"
+	rom ( name "Utility Compilation 84 (19xx)(-).trd" size 655360 crc b96f9bc9 md5 4f212769999d1a780d9fddd305664264 sha1 8171238f774b953b4f9a60d9c3d66bc696ebc8aa )
+)
+
+game (
+	name "Utility Compilation 85 (19xx)(-)"
+	description "Utility Compilation 85 (19xx)(-)"
+	rom ( name "Utility Compilation 85 (19xx)(-).trd" size 655360 crc 1f8861ca md5 7e7171006808cadf7f2abee9e5c0ac7f sha1 cb85eb97e5360ac9b1506b27cc8649be7fe2f5bf )
+)
+
+game (
+	name "Utility Compilation 86 (19xx)(-)"
+	description "Utility Compilation 86 (19xx)(-)"
+	rom ( name "Utility Compilation 86 (19xx)(-).trd" size 655360 crc 2fc94550 md5 278be16b133d04dae70e1c2d51da743a sha1 924492a21f283b206df3f7e9c3d36ed48db12444 )
+)
+
+game (
+	name "Utility Compilation 87 (19xx)(-)"
+	description "Utility Compilation 87 (19xx)(-)"
+	rom ( name "Utility Compilation 87 (19xx)(-).trd" size 655360 crc 4c36d3d8 md5 c52bf8932616a238ac266a1cd081f917 sha1 3e088ac930ab05bc84bf46c1f737a6ab20810785 )
+)
+
+game (
+	name "Utility Compilation 88 (19xx)(-)"
+	description "Utility Compilation 88 (19xx)(-)"
+	rom ( name "Utility Compilation 88 (19xx)(-).trd" size 655360 crc 8a48c154 md5 46680d21b4543d291238660bd81422ac sha1 2a3620654c39fe405ef54addfe01516fe71901ce )
+)
+
+game (
+	name "Utility Compilation 89 (19xx)(-)"
+	description "Utility Compilation 89 (19xx)(-)"
+	rom ( name "Utility Compilation 89 (19xx)(-).trd" size 655360 crc 467ce285 md5 3acfcc5cb6b0e5ed3a3273d8e3798871 sha1 19624005056e5f95ea0b54911d89e758e4997bd8 )
+)
+
+game (
+	name "Utility Compilation 90 (19xx)(-)"
+	description "Utility Compilation 90 (19xx)(-)"
+	rom ( name "Utility Compilation 90 (19xx)(-).trd" size 655360 crc b57e64ab md5 ce17784ad6f04931ac2447d061b2066e sha1 2386d7e1f0f6fce81987bbff52a876ace1b51c1f )
+)
+

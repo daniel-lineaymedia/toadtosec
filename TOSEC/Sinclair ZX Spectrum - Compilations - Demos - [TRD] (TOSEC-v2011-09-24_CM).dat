@@ -1,0 +1,248 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Demos - [TRD]"
+	description "Sinclair ZX Spectrum - Compilations - Demos - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Demos - [TRD]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "4k Intros Collection (1999)(Kazan)"
+	description "4k Intros Collection (1999)(Kazan)"
+	rom ( name "4k Intros Collection (1999)(Kazan).trd" size 655360 crc aaa7a46f md5 4d9e772c78a67e8453edb0a26507d495 sha1 5ca5f0b9db47afa751226512229ca58abf64f062 )
+)
+
+game (
+	name "ASCII '2001 - Partyware Collection - Part 1 (2001)(Survivor)(ru)"
+	description "ASCII '2001 - Partyware Collection - Part 1 (2001)(Survivor)(ru)"
+	rom ( name "ASCII '2001 - Partyware Collection - Part 1 (2001)(Survivor)(ru).trd" size 655360 crc 5848edb0 md5 30c61197c824098c3701fcb2ec936a6e sha1 be4707246a5615e1419512bef18b927d60a3f880 )
+)
+
+game (
+	name "ASCII '2001 - Partyware Collection - Part 2 (2001)(Survivor)(ru)"
+	description "ASCII '2001 - Partyware Collection - Part 2 (2001)(Survivor)(ru)"
+	rom ( name "ASCII '2001 - Partyware Collection - Part 2 (2001)(Survivor)(ru).trd" size 655360 crc 540fcec5 md5 d29551022f3a10ff378d3d0d9ac3a336 sha1 dfac50f8e70c52b8d697beeb49dd570e6caf4526 )
+)
+
+game (
+	name "AY Music Collection (19xx)(-)(ru)"
+	description "AY Music Collection (19xx)(-)(ru)"
+	rom ( name "AY Music Collection (19xx)(-)(ru).trd" size 655360 crc 4ad5a824 md5 1b22a9677ae94189abe97cfddb47f92a sha1 ac789129a4f317d377b23040e5171794476e0049 )
+)
+
+game (
+	name "AY Music Collection (19xx)(-)(ru)[a]"
+	description "AY Music Collection (19xx)(-)(ru)[a]"
+	rom ( name "AY Music Collection (19xx)(-)(ru)[a].trd" size 655360 crc b1dff22b md5 432b5d453c31f3038027a6176839a95e sha1 a317448be39d4fb3d20fdb7b600e4b54cb140595 )
+)
+
+game (
+	name "CAFe '99 - 4k Intros Collection (1999)(Excess Team)"
+	description "CAFe '99 - 4k Intros Collection (1999)(Excess Team)"
+	rom ( name "CAFe '99 - 4k Intros Collection (1999)(Excess Team).trd" size 655360 crc 3f499ab7 md5 6c90d3f3fecc92b81b5773ac258e4373 sha1 245aca5d61e40811171cba9c56bb5e04531b0198 )
+)
+
+game (
+	name "CAFe '99 - 4k Intros Collection (1999)(Excess Team)[a]"
+	description "CAFe '99 - 4k Intros Collection (1999)(Excess Team)[a]"
+	rom ( name "CAFe '99 - 4k Intros Collection (1999)(Excess Team)[a].trd" size 655360 crc 7bfc3ea2 md5 d0989432253fdb9bad8c24e8f93619ba sha1 60c1b6e41e8f4f1dea6304235b7347f0e8031490 )
+)
+
+game (
+	name "Chaos Constructions '1999 - 16k Intros Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - 16k Intros Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - 16k Intros Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc c5abdae7 md5 7c5104283f8ab91349aae520a7b58c18 sha1 23986db71642794c12031730a67fdb0b003e6371 )
+)
+
+game (
+	name "Chaos Constructions '1999 - 4k Intros Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - 4k Intros Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - 4k Intros Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc f81a5cba md5 ff0cb2179d315c49e3db7a15c9f0a4b0 sha1 c0e355eb064fd57bba8de38211de187132dfaf21 )
+)
+
+game (
+	name "Chaos Constructions '1999 - 512b Intros Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - 512b Intros Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - 512b Intros Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc 8089e3f1 md5 991a13e0e5d3be7768c3763482b906ee sha1 a872e129b991991fed1309eb8e7d0b125fe36ee6 )
+)
+
+game (
+	name "Chaos Constructions '1999 - Demos Collection - Part 1 (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - Demos Collection - Part 1 (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - Demos Collection - Part 1 (1999)(Concern Chaos)(ru).trd" size 655360 crc a14af198 md5 3c22bb9cb7a6b5e5e0c8d08469e89b40 sha1 9b1f68dae2deca7b8c3cbe14ae8bbc46a1724446 )
+)
+
+game (
+	name "Chaos Constructions '1999 - Demos Collection - Part 2 (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - Demos Collection - Part 2 (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - Demos Collection - Part 2 (1999)(Concern Chaos)(ru).trd" size 655360 crc 0fa4e829 md5 8ebaf3eb81d10cd493ff64f006a16e5a sha1 6d877b8b96d5801e75b69c6d530f30ac5861ab8e )
+)
+
+game (
+	name "Chaos Constructions '1999 - Games Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - Games Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - Games Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc 9520ed66 md5 6d6e5b939ff1c8e6447786c66f214cdf sha1 22f68cf6f0e0aa9fb1d280538b3ee65b6e88fd9d )
+)
+
+game (
+	name "Chaos Constructions '1999 - GFX Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - GFX Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - GFX Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc d0201f1c md5 7558b237c5a820ca662806f823e8ab4b sha1 32d9d22ee616e27ab5412be420a67d2a0ae4bf8a )
+)
+
+game (
+	name "Chaos Constructions '1999 - MFX Collection (1999)(Concern Chaos)(ru)"
+	description "Chaos Constructions '1999 - MFX Collection (1999)(Concern Chaos)(ru)"
+	rom ( name "Chaos Constructions '1999 - MFX Collection (1999)(Concern Chaos)(ru).trd" size 655360 crc 5932b9d4 md5 2bc013b953ad3535f631d29152669bcb sha1 065f4305dffd1d51ca7c1e1f832cebd410860e71 )
+)
+
+game (
+	name "Chaos Constructions '2000 - 512b & 4k Intros Collection (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - 512b & 4k Intros Collection (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - 512b & 4k Intros Collection (2000)(Extreme)(ru).trd" size 655360 crc 4b279f04 md5 c0e237428bf059c50eb87294a0e77fab sha1 aa9a87acc74b2110c389298457a3b3d8d823ac76 )
+)
+
+game (
+	name "Chaos Constructions '2000 - AY Music Collection (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - AY Music Collection (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - AY Music Collection (2000)(Extreme)(ru).trd" size 655360 crc bb7aa1bf md5 ad671ce50489f7a607e321a0b077acb1 sha1 e00a009efa2cec2e14d176ff2862d9e536870215 )
+)
+
+game (
+	name "Chaos Constructions '2000 - Demos Collection - Part 1 (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - Demos Collection - Part 1 (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - Demos Collection - Part 1 (2000)(Extreme)(ru).trd" size 655360 crc 968c3890 md5 6105f07646b6f32a0fd54d76bfe2952f sha1 499aade5e0de4fde2ef5de07b76a43edbbeb628b )
+)
+
+game (
+	name "Chaos Constructions '2000 - Demos Collection - Part 2 (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - Demos Collection - Part 2 (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - Demos Collection - Part 2 (2000)(Extreme)(ru).trd" size 655360 crc dff90bbb md5 1cab9fa0031e1c43f5ac7e5a946b6a87 sha1 653c9fbdc7c0cf3a5d229d2e5f2e2383c77266dc )
+)
+
+game (
+	name "Chaos Constructions '2000 - GFX Collection (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - GFX Collection (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - GFX Collection (2000)(Extreme)(ru).trd" size 655360 crc 8067f454 md5 2dabc19474142f4d9d2050f366b9fe00 sha1 79e870f0879f0d9e3b75096b17bb1a8c02e16781 )
+)
+
+game (
+	name "Chaos Constructions '2000 - Invitation Dentros Collection (2000)(Extreme)(ru)"
+	description "Chaos Constructions '2000 - Invitation Dentros Collection (2000)(Extreme)(ru)"
+	rom ( name "Chaos Constructions '2000 - Invitation Dentros Collection (2000)(Extreme)(ru).trd" size 655360 crc cf6d485a md5 9165c60de18daf5c1339448b3f23aff3 sha1 7485677bff4089e2bd4572212d2d788b356502db )
+)
+
+game (
+	name "Crazy Siberian Party '2002 - Warez Pack (2002)(Not Soft)(ru)"
+	description "Crazy Siberian Party '2002 - Warez Pack (2002)(Not Soft)(ru)"
+	rom ( name "Crazy Siberian Party '2002 - Warez Pack (2002)(Not Soft)(ru).trd" size 655360 crc d170e624 md5 368bfa8d8a04f90f4853950615a60842 sha1 f38b2f1c6b426285f7e4d98e82ac3b62095850d1 )
+)
+
+game (
+	name "Doxycon '99 - GFX, MSX & 4k Intros Collection (1999)(Delta Hackers Group)"
+	description "Doxycon '99 - GFX, MSX & 4k Intros Collection (1999)(Delta Hackers Group)"
+	rom ( name "Doxycon '99 - GFX, MSX & 4k Intros Collection (1999)(Delta Hackers Group).trd" size 655360 crc 4ddf8242 md5 5fe85fc4f23edf303cfa77e7bd0dc358 sha1 ad8c073c725c2d7dbc2a2c0ab63546e8c6d53b6d )
+)
+
+game (
+	name "E-Mage Demos Collection (19xx)(-)(ru)"
+	description "E-Mage Demos Collection (19xx)(-)(ru)"
+	rom ( name "E-Mage Demos Collection (19xx)(-)(ru).trd" size 655360 crc 148a249e md5 179fd8cdca32d3a783d7e25f492b7288 sha1 e6eb2134fd20f9af45bfc893c4cb1fea91498551 )
+)
+
+game (
+	name "Enlight '97 - GFX Collection (1997)(Hacker Cris)(ru)"
+	description "Enlight '97 - GFX Collection (1997)(Hacker Cris)(ru)"
+	rom ( name "Enlight '97 - GFX Collection (1997)(Hacker Cris)(ru).trd" size 655360 crc 2f337446 md5 4c574c52f70c28cd0d8a42c9677fbc34 sha1 a13cb05aed4d5941aae91dc749e2f403a43a0614 )
+)
+
+game (
+	name "Fun Top '98 - Demos Collection (1998)(-)(ru)"
+	description "Fun Top '98 - Demos Collection (1998)(-)(ru)"
+	rom ( name "Fun Top '98 - Demos Collection (1998)(-)(ru).trd" size 655360 crc 7187e4e8 md5 984eefa27a696aa6c91344fa495b3f19 sha1 9446ccf5cb7b87c24f6d6330a33ebbe2669748ab )
+)
+
+game (
+	name "G.O.D. Demos Collection (1993)(Goddess of Destiny)(ru)"
+	description "G.O.D. Demos Collection (1993)(Goddess of Destiny)(ru)"
+	rom ( name "G.O.D. Demos Collection (1993)(Goddess of Destiny)(ru).trd" size 655360 crc 2505c8a6 md5 341a965e4b405bfe18002a2d3329f21b sha1 26e02b871136dfaafe83d0d39f64f9527f25bca3 )
+)
+
+game (
+	name "Gasman Demos Collection (19xx)(The Gasman)"
+	description "Gasman Demos Collection (19xx)(The Gasman)"
+	rom ( name "Gasman Demos Collection (19xx)(The Gasman).trd" size 655360 crc 6e6aa2c3 md5 9ba5ff25b74f8f60b3c5f95d34e9ebc7 sha1 50fcb5cfc45ca7180a1019794e2ead92adb6435a )
+)
+
+game (
+	name "JAX Digital Music Collection 1 (2000)(JAX)"
+	description "JAX Digital Music Collection 1 (2000)(JAX)"
+	rom ( name "JAX Digital Music Collection 1 (2000)(JAX).trd" size 655360 crc 7b1e20c7 md5 49d1a99555a2c5b3ac035025aaf08f82 sha1 f3a1d6c9ac8b0df711f19fa7655c71ceb424c00b )
+)
+
+game (
+	name "JAX Digital Music Collection 2 (2000)(JAX)"
+	description "JAX Digital Music Collection 2 (2000)(JAX)"
+	rom ( name "JAX Digital Music Collection 2 (2000)(JAX).trd" size 655360 crc 2b06053e md5 97049d566f5931c09ccff719246475c4 sha1 c617b110a5ef2566b2124315caa11e39e9f2aedf )
+)
+
+game (
+	name "JAX Digital Music Collection 3 (2000)(JAX)"
+	description "JAX Digital Music Collection 3 (2000)(JAX)"
+	rom ( name "JAX Digital Music Collection 3 (2000)(JAX).trd" size 655360 crc a3096bbc md5 c5b4d75f0b25a11576df4beab623930d sha1 346ebba612e83f72f784a8ab2ede6892dac660f7 )
+)
+
+game (
+	name "JAX Digital Music Collection 4 (2000)(JAX)"
+	description "JAX Digital Music Collection 4 (2000)(JAX)"
+	rom ( name "JAX Digital Music Collection 4 (2000)(JAX).trd" size 655360 crc a77eec52 md5 903509e82f3278047bc82fddef1e8854 sha1 f1db9d9858a162283062d1dbc0e15367011c9b78 )
+)
+
+game (
+	name "JAX Digital Music Collection 5 (2000)(JAX)"
+	description "JAX Digital Music Collection 5 (2000)(JAX)"
+	rom ( name "JAX Digital Music Collection 5 (2000)(JAX).trd" size 655360 crc 96ef7528 md5 ffc63497db8ab5e75102ef34da0ec80f sha1 4e071b354fbd93bb969c9f13ddfb37137dfd55dc )
+)
+
+game (
+	name "JAX Digital Music Collection 6 (2001)(JAX)"
+	description "JAX Digital Music Collection 6 (2001)(JAX)"
+	rom ( name "JAX Digital Music Collection 6 (2001)(JAX).trd" size 655360 crc 6898ad17 md5 97b0cc425cfddcfb9353ec2cc35e17fe sha1 9268e3a7adaebe60ba8e5e8e56d8f374c9d8aa99 )
+)
+
+game (
+	name "Little Music Demos 1-5 + Klav-Demo (1993)(Gotef)(ru)"
+	description "Little Music Demos 1-5 + Klav-Demo (1993)(Gotef)(ru)"
+	rom ( name "Little Music Demos 1-5 + Klav-Demo (1993)(Gotef)(ru).trd" size 655360 crc a53ad6dd md5 0d88416672d8d5698bd5fb42e1b6dde5 sha1 0ca39207de735ab7d4c81264122496bf0f64cf12 )
+)
+
+game (
+	name "MidiSoft Music Collection (1992)(X-Project Association)(ru)"
+	description "MidiSoft Music Collection (1992)(X-Project Association)(ru)"
+	rom ( name "MidiSoft Music Collection (1992)(X-Project Association)(ru).trd" size 655360 crc 3d7619f3 md5 8bc50e0aa3ddfd57db29340380b7d264 sha1 3f03862e9c94cccefa3423ae69eb03e57753179c )
+)
+
+game (
+	name "Millennium '1902 - AY Collection (2002)(-)"
+	description "Millennium '1902 - AY Collection (2002)(-)"
+	rom ( name "Millennium '1902 - AY Collection (2002)(-).trd" size 655360 crc b7b151af md5 ef493652993b298bb0d37640fa4943df sha1 a84ac3573c5f86b06045e1cf19cf63b5b3f3b2d3 )
+)
+
+game (
+	name "Millennium '1902 - GFX Collection (2002)(-)"
+	description "Millennium '1902 - GFX Collection (2002)(-)"
+	rom ( name "Millennium '1902 - GFX Collection (2002)(-).trd" size 655360 crc 80ef6a7d md5 7c6dbbfc5260e7522067862fd31bdffb sha1 25a466f4f7d0665752af6006bc707c97db13d492 )
+)
+
+game (
+	name "Millennium '1902 - GFX Collection (2002)(-)[a]"
+	description "Millennium '1902 - GFX Collection (2002)(-)[a]"
+	rom ( name "Millennium '1902 - GFX Collection (2002)(-)[a].trd" size 655360 crc 2dd72485 md5 9257d5ec26cd2b8dbb19d6a35d2c13eb sha1 0a94d96ee8e31dac178c14b486da52c92ff69ad7 )
+)
+
+game (
+	name "Shit '2002 - GFX Collection (2002)(Zpixel Stuff)"
+	description "Shit '2002 - GFX Collection (2002)(Zpixel Stuff)"
+	rom ( name "Shit '2002 - GFX Collection (2002)(Zpixel Stuff).trd" size 655360 crc 6978bee6 md5 4651f7d483d0a599f4a61dcf37c2cad4 sha1 ab1473c88f78834363633b49fc194ee9bac0d51e )
+)
+

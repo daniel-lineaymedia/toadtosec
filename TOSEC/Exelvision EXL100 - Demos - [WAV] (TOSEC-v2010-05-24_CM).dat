@@ -1,0 +1,73 @@
+clrmamepro (
+	name "Exelvision EXL100 - Demos - [WAV]"
+	description "Exelvision EXL100 - Demos - [WAV] (TOSEC-v2010-05-24)"
+	category "Exelvision EXL100 - Demos - [WAV]"
+	version 2010-05-24
+	author "TKaos"
+)
+
+game (
+	name "Amiga Music System (19xx)(Edition PUSSY)(FR)"
+	description "Amiga Music System (19xx)(Edition PUSSY)(FR)"
+	rom ( name "Amiga Music System (19xx)(Edition PUSSY)(FR).wav" size 2205422 crc 3328a2b2 md5 b0c2cc3aec757577669b7d32df357515 )
+)
+
+game (
+	name "Animation 640x250 (2010-01-01)(Daniel)"
+	description "Animation 640x250 (2010-01-01)(Daniel)"
+	rom ( name "Animation 640x250 (2010-01-01)(Daniel).wav" size 3054188 crc c1f71076 md5 bb98f9702fe71fca5f1b343f6fe417e7 )
+)
+
+game (
+	name "Bitmap 640x250 (2010-01-01)(Daniel)"
+	description "Bitmap 640x250 (2010-01-01)(Daniel)"
+	rom ( name "Bitmap 640x250 (2010-01-01)(Daniel).wav" size 1678824 crc dac3cd31 md5 647e07e2963889eff329bac9c74ae5f9 )
+)
+
+game (
+	name "Bobo Demo (19xx)(Edition PUSSY)(FR)"
+	description "Bobo Demo (19xx)(Edition PUSSY)(FR)"
+	rom ( name "Bobo Demo (19xx)(Edition PUSSY)(FR).wav" size 3177310 crc f35a94bb md5 0fe2451e8033405abc9f4050fc9bf5cc )
+)
+
+game (
+	name "Crack Demo (199x)(Edition PUSSY)(FR)(en)"
+	description "Crack Demo (199x)(Edition PUSSY)(FR)(en)"
+	rom ( name "Crack Demo (199x)(Edition PUSSY)(FR)(en).wav" size 1646134 crc 191c3e93 md5 7a12212994d8fb54c5ca8d0b97fc21ab )
+)
+
+game (
+	name "Faites Parler Votre EXL100 - Volume 1 v1.1 (198x)(Exelvision)(FR)"
+	description "Faites Parler Votre EXL100 - Volume 1 v1.1 (198x)(Exelvision)(FR)"
+	rom ( name "Faites Parler Votre EXL100 - Volume 1 v1.1 (198x)(Exelvision)(FR).wav" size 6656362 crc 4db6376f md5 c15d34d665fdd46d2bc4e36f236b5369 )
+)
+
+game (
+	name "Faites Parler Votre EXL100 - Volume 2 v1.1 (198x)(Exelvision)(FR)"
+	description "Faites Parler Votre EXL100 - Volume 2 v1.1 (198x)(Exelvision)(FR)"
+	rom ( name "Faites Parler Votre EXL100 - Volume 2 v1.1 (198x)(Exelvision)(FR).wav" size 4652842 crc 5db4c608 md5 c687a05a13e8d238c37ca5c233af2a6a )
+)
+
+game (
+	name "Message Defilant (198x)(Minipuce)(FR)"
+	description "Message Defilant (198x)(Minipuce)(FR)"
+	rom ( name "Message Defilant (198x)(Minipuce)(FR).wav" size 735082 crc 37931158 md5 3ac81dd8c5ee990824cd77d8ed7fdd13 )
+)
+
+game (
+	name "Show-Note (19xx)(Edition PUSSY)(FR)"
+	description "Show-Note (19xx)(Edition PUSSY)(FR)"
+	rom ( name "Show-Note (19xx)(Edition PUSSY)(FR).wav" size 5996008 crc ba7ee65a md5 443bd25c0e3f3f80deae478b0655811b )
+)
+
+game (
+	name "Slideshow Cassette (2010-01-01)(Fabrice)"
+	description "Slideshow Cassette (2010-01-01)(Fabrice)"
+	rom ( name "Slideshow Cassette (2010-01-01)(Fabrice).wav" size 4108892 crc 9955842d md5 c1a28696fbb3e36d52b39b50a0f65be1 )
+)
+
+game (
+	name "Slideshow Cassette (2010-01-26)(Fabrice)"
+	description "Slideshow Cassette (2010-01-26)(Fabrice)"
+	rom ( name "Slideshow Cassette (2010-01-26)(Fabrice).wav" size 5856392 crc 962aaec8 md5 60124074b94246826a3e40b94c89c9d9 )
+)

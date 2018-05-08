@@ -1,0 +1,20 @@
+clrmamepro (
+	name "RM Nimbus PC - Operating Systems"
+	description "RM Nimbus PC - Operating Systems (TOSEC-v2009-09-20)"
+	category "RM Nimbus PC - Operating Systems"
+	version 2009-09-20
+	author "Cid - Cassiel"
+)
+
+game (
+	name "RM Nimbus PC Welcome Disk v3.00c (199x)(RM)(GB)"
+	description "RM Nimbus PC Welcome Disk v3.00c (199x)(RM)(GB)"
+	rom ( name "RM Nimbus PC Welcome Disk v3.00c (199x)(RM)(GB).flp" size 737293 crc 33519213 md5 7dcbe3c47ad490c6f3cff9304c41f48d )
+)
+
+game (
+	name "RM Nimbus PC-186 Welcome Disk v3.00c (199x)(RM)(GB)"
+	description "RM Nimbus PC-186 Welcome Disk v3.00c (199x)(RM)(GB)"
+	rom ( name "RM Nimbus PC-186 Welcome Disk v3.00c (199x)(RM)(GB).flp" size 737293 crc a60fa2b4 md5 244385dbf31f4aeba6260c7f5645462f )
+)
+

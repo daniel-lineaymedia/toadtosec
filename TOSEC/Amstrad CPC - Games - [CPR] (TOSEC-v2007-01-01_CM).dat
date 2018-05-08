@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Amstrad CPC - Games - [CPR]"
+	description "Amstrad CPC - Games - [CPR] (TOSEC-v2007-01-01)"
+	category "Amstrad CPC - Games - [CPR]"
+	version 2007-01-01
+	author "jugaor - wattie"
+)
+
+game (
+	name "Batman - The Movie (1989)(Ocean Software)"
+	description "Batman - The Movie (1989)(Ocean Software)"
+	rom ( name "Batman - The Movie (1989)(Ocean Software).cpr" size 524556 crc e039fa68 md5 fd34b1c049fe780548e71e8d415ef366 )
+)
+
+game (
+	name "Burning Rubber (1990)(Ocean Software)"
+	description "Burning Rubber (1990)(Ocean Software)"
+	rom ( name "Burning Rubber (1990)(Ocean Software).cpr" size 131156 crc 61a448a4 md5 39b565e648172980aa552293e667070f )
+)
+
+game (
+	name "Copter 271 (1991)(Loriciels)"
+	description "Copter 271 (1991)(Loriciels)"
+	rom ( name "Copter 271 (1991)(Loriciels).cpr" size 524556 crc c60f0297 md5 81aa76bf8fb23bb7724a7c1add3d3370 )
+)
+
+game (
+	name "Crazy Cars II (1990)(Titus)"
+	description "Crazy Cars II (1990)(Titus)"
+	rom ( name "Crazy Cars II (1990)(Titus).cpr" size 524556 crc abf053e2 md5 5ece66a96beabcfdf0e8f1182ed5b3c9 )
+)
+
+game (
+	name "Epyx World of Sports (1990)(US Gold)"
+	description "Epyx World of Sports (1990)(US Gold)"
+	rom ( name "Epyx World of Sports (1990)(US Gold).cpr" size 131156 crc 541f78ae md5 5810ddd42cfb695509e57738aef54033 )
+)
+
+game (
+	name "Klax (1990)(Domark)"
+	description "Klax (1990)(Domark)"
+	rom ( name "Klax (1990)(Domark).cpr" size 131156 crc fa33b29c md5 1de6260ea8ff5a392e5fc6e5a6b90379 )
+)
+
+game (
+	name "Navy SEALs (1991)(Ocean Software)"
+	description "Navy SEALs (1991)(Ocean Software)"
+	rom ( name "Navy SEALs (1991)(Ocean Software).cpr" size 524556 crc de3a4ff6 md5 ef8edafa6349c8dd98cddd525a0ca3b2 )
+)
+
+game (
+	name "No Exit (1990)(CVS)"
+	description "No Exit (1990)(CVS)"
+	rom ( name "No Exit (1990)(CVS).cpr" size 524556 crc de25ee9d md5 106eff8ae55d16fad2d528625e41dd48 )
+)
+
+game (
+	name "Operation Thunderbolt (1991)(Ocean Software)"
+	description "Operation Thunderbolt (1991)(Ocean Software)"
+	rom ( name "Operation Thunderbolt (1991)(Ocean Software).cpr" size 524556 crc ab7cc2f4 md5 e0703ba12bb3c87057ae3fb963b7e096 )
+)
+
+game (
+	name "Pang (1990)(Ocean Software)"
+	description "Pang (1990)(Ocean Software)"
+	rom ( name "Pang (1990)(Ocean Software).cpr" size 524556 crc 87632953 md5 58612fb91920158f31b2d22c951d1506 )
+)
+
+game (
+	name "Plotting (1990)(Ocean Software)"
+	description "Plotting (1990)(Ocean Software)"
+	rom ( name "Plotting (1990)(Ocean Software).cpr" size 524556 crc 625d92d6 md5 27f343ce1f006fa3519a1947d496bd43 )
+)
+
+game (
+	name "Pro Tennis Tour (1990)(Ubi Soft)"
+	description "Pro Tennis Tour (1990)(Ubi Soft)"
+	rom ( name "Pro Tennis Tour (1990)(Ubi Soft).cpr" size 524556 crc 6a647a82 md5 a993d0bd3787f491c7e4d0ace98bc46c )
+)
+
+game (
+	name "Robocop 2 (1990)(Ocean Software)"
+	description "Robocop 2 (1990)(Ocean Software)"
+	rom ( name "Robocop 2 (1990)(Ocean Software).cpr" size 524556 crc 0ba0dc98 md5 59c4050f3aa02c692087302d90ea68ba )
+)
+
+game (
+	name "Switchblade (1991)(Gremlin Graphics Software)"
+	description "Switchblade (1991)(Gremlin Graphics Software)"
+	rom ( name "Switchblade (1991)(Gremlin Graphics Software).cpr" size 131156 crc 29e71f0c md5 599eed2f04995ee842163fd454654d59 )
+)
+
+game (
+	name "Wild Streets (1990)(Titus)"
+	description "Wild Streets (1990)(Titus)"
+	rom ( name "Wild Streets (1990)(Titus).cpr" size 524556 crc 946c80b4 md5 6c1ab447c191e12e0751ee85d46f77ea )
+)
+

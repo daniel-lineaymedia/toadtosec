@@ -1,0 +1,793 @@
+clrmamepro (
+	name "IBM PC Compatibles - Boot Disks"
+	description "IBM PC Compatibles - Boot Disks (TOSEC-v2009-09-01)"
+	category "IBM PC Compatibles - Boot Disks"
+	version 2009-09-01
+	author "borta"
+)
+
+game (
+	name "3-K Trivia (198x)(IBM)"
+	description "3-K Trivia (198x)(IBM)"
+	rom ( name "3-K Trivia (198x)(IBM).img" size 368640 crc 475920eb md5 09436d8437c4b5aac92a8f758bc7c354 )
+)
+
+game (
+	name "Adventure in Serenia (1982)(On-Line Systems - IBM Corp)"
+	description "Adventure in Serenia (1982)(On-Line Systems - IBM Corp)"
+	rom ( name "Adventure in Serenia (1982)(On-Line Systems - IBM Corp).img" size 163840 crc d05ae01e md5 8a270db00d9f42801072547b1725a1a0 )
+)
+
+game (
+	name "Alley Cat (1984)(IBM - SynSoft)"
+	description "Alley Cat (1984)(IBM - SynSoft)"
+	rom ( name "Alley Cat (1984)(IBM - SynSoft).img" size 184320 crc 23228e10 md5 5bbf1bd48e652c66cf704c2e1f80e9a7 )
+)
+
+game (
+	name "Archon (1983)(Electronic Arts - Free Fall Associates)"
+	description "Archon (1983)(Electronic Arts - Free Fall Associates)"
+	rom ( name "Archon (1983)(Electronic Arts - Free Fall Associates).img" size 204800 crc 484ebbbd md5 0b07b4c116cb8c611c316a36bbd14853 )
+)
+
+game (
+	name "BC's Quest for Tires (1984)(Sierra On-Line Inc)"
+	description "BC's Quest for Tires (1984)(Sierra On-Line Inc)"
+	rom ( name "BC's Quest for Tires (1984)(Sierra On-Line Inc).img" size 368640 crc c1cb107c md5 3b2ef91e5abd11ed5b496a491b54e460 )
+)
+
+game (
+	name "Battlezone (1983)(Atari)"
+	description "Battlezone (1983)(Atari)"
+	rom ( name "Battlezone (1983)(Atari).img" size 163840 crc 6d3f174b md5 67c3717acadcd5be941a6fbcf8c6bcad )
+)
+
+game (
+	name "Big Top (1983)(Funtastic, Inc)"
+	description "Big Top (1983)(Funtastic, Inc)"
+	rom ( name "Big Top (1983)(Funtastic, Inc).img" size 184320 crc b5ed200c md5 e12559622822c52045844a9438cf35fc )
+)
+
+game (
+	name "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 1 of 2)"
+	description "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 1 of 2)"
+	rom ( name "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 1 of 2).img" size 368640 crc acce36e4 md5 56860bc8a5e5eb92733970b9f08c027e )
+)
+
+game (
+	name "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 2 of 2)"
+	description "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 2 of 2)"
+	rom ( name "Black Cauldron v1.1k, The (1985)(Sierra On-Line)(Disk 2 of 2).img" size 368640 crc 1ebf83e2 md5 e0fe0b4298df89e6751d53a72f1296dd )
+)
+
+game (
+	name "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 1 of 2)"
+	description "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 1 of 2)"
+	rom ( name "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 1 of 2).img" size 368640 crc fa24b4eb md5 58dbc3256c00981d435502c464620963 )
+)
+
+game (
+	name "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 2 of 2)"
+	description "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 2 of 2)"
+	rom ( name "Black Cauldron v1.1m, The (1985)(Sierra On-Line)(Disk 2 of 2).img" size 368640 crc fdd97d57 md5 e44b42cf7ef7685bac7453105954f52f )
+)
+
+game (
+	name "Boulderdash I & II (1985)(Electronic Arts - First Star Software)"
+	description "Boulderdash I & II (1985)(Electronic Arts - First Star Software)"
+	rom ( name "Boulderdash I & II (1985)(Electronic Arts - First Star Software).img" size 368640 crc ad364736 md5 640a63409db6c739b5fe3c55caed3a88 )
+)
+
+game (
+	name "Buck Rogers - Planet of Doom (1984)(Sega Enterprises, Inc)"
+	description "Buck Rogers - Planet of Doom (1984)(Sega Enterprises, Inc)"
+	rom ( name "Buck Rogers - Planet of Doom (1984)(Sega Enterprises, Inc).img" size 163840 crc 09b4eb1a md5 3d1e764925724faff8811fe2e52e7b26 )
+)
+
+game (
+	name "Centipede (1983)(Atari Inc.)"
+	description "Centipede (1983)(Atari Inc.)"
+	rom ( name "Centipede (1983)(Atari Inc.).img" size 163840 crc fed8d765 md5 1e6605f647d88b7af31db3f0d7da7cca )
+)
+
+game (
+	name "Commando (1986)(Data East USA - CapCom USA - Quicksilver Software)"
+	description "Commando (1986)(Data East USA - CapCom USA - Quicksilver Software)"
+	rom ( name "Commando (1986)(Data East USA - CapCom USA - Quicksilver Software).img" size 163840 crc 400161de md5 7313de0e82b7c409e9ad79a2d13c09e1 )
+)
+
+game (
+	name "Conflict in Vietnam (198x)(Microprose)"
+	description "Conflict in Vietnam (198x)(Microprose)"
+	rom ( name "Conflict in Vietnam (198x)(Microprose).img" size 327680 crc 3c009966 md5 fc77fc0f539ad5aaf1230e35a5bd87a1 )
+)
+
+game (
+	name "Congo Bongo (1984)(Sega)"
+	description "Congo Bongo (1984)(Sega)"
+	rom ( name "Congo Bongo (1984)(Sega).img" size 368640 crc efbf2c8a md5 48e0fae8176be7942fe83ada244acdba )
+)
+
+game (
+	name "Conquest (1983)(Windmill Software)"
+	description "Conquest (1983)(Windmill Software)"
+	rom ( name "Conquest (1983)(Windmill Software).img" size 368640 crc bdbf6911 md5 f813bdfa27ac7914fff37c54cf1b16ef )
+)
+
+game (
+	name "Cosmic Crusader (1982)(Funtastic Inc)"
+	description "Cosmic Crusader (1982)(Funtastic Inc)"
+	rom ( name "Cosmic Crusader (1982)(Funtastic Inc).img" size 163840 crc d7f44e44 md5 65f932d6525f265b7106cf7f207d36d9 )
+)
+
+game (
+	name "Czorian Siege (1983)(Computer Applications Unlimited)"
+	description "Czorian Siege (1983)(Computer Applications Unlimited)"
+	rom ( name "Czorian Siege (1983)(Computer Applications Unlimited).img" size 163840 crc 0550c8f1 md5 a46cb46169ac1426e1cf3a84eccef298 )
+)
+
+game (
+	name "Deadline (198x)(Infocom)"
+	description "Deadline (198x)(Infocom)"
+	rom ( name "Deadline (198x)(Infocom).img" size 163840 crc 886eef78 md5 024f458513796358d65a97d65030eb72 )
+)
+
+game (
+	name "Defender (1983)(Williams - Atari)"
+	description "Defender (1983)(Williams - Atari)"
+	rom ( name "Defender (1983)(Williams - Atari).img" size 163840 crc 82caa523 md5 8f486e26739a25a2427138cda5bef29b )
+)
+
+game (
+	name "Demon's Forge (1987)(Mastertronics ltd)"
+	description "Demon's Forge (1987)(Mastertronics ltd)"
+	rom ( name "Demon's Forge (1987)(Mastertronics ltd).img" size 163840 crc 728a8706 md5 54eb9b07095798c828109bc4832740a1 )
+)
+
+game (
+	name "DigDug (1983)(Namco - Atari)"
+	description "DigDug (1983)(Namco - Atari)"
+	rom ( name "DigDug (1983)(Namco - Atari).img" size 368640 crc ee0aaa0a md5 d6ba8f30c501c70b54b0e60fcdab9066 )
+)
+
+game (
+	name "Digger (1983)(Windmill Software)"
+	description "Digger (1983)(Windmill Software)"
+	rom ( name "Digger (1983)(Windmill Software).img" size 163840 crc a983ea69 md5 bd701b3ffd550297bf73bdda48dca445 )
+)
+
+game (
+	name "Donald Duck's Playground (198x)(Sierra)"
+	description "Donald Duck's Playground (198x)(Sierra)"
+	rom ( name "Donald Duck's Playground (198x)(Sierra).img" size 368640 crc 88a1bd70 md5 908e57b0ee97c3691407436e51476204 )
+)
+
+game (
+	name "Donkey Kong (1983)(Nintendo - Atari)"
+	description "Donkey Kong (1983)(Nintendo - Atari)"
+	rom ( name "Donkey Kong (1983)(Nintendo - Atari).img" size 163840 crc dffb898a md5 76100d93029f79dcad57f52389e344d9 )
+)
+
+game (
+	name "Dunzhin - Warrior of Ras Volume I (1982)(Computer Applications Unlimited)"
+	description "Dunzhin - Warrior of Ras Volume I (1982)(Computer Applications Unlimited)"
+	rom ( name "Dunzhin - Warrior of Ras Volume I (1982)(Computer Applications Unlimited).img" size 163840 crc b9262dc3 md5 3d2074568a79d62a0365c895eb794653 )
+)
+
+game (
+	name "Enchanter (198x)(Infocom)"
+	description "Enchanter (198x)(Infocom)"
+	rom ( name "Enchanter (198x)(Infocom).img" size 163840 crc 13d252cc md5 b3d9f7b95abbc6b54ccfca699c81d956 )
+)
+
+game (
+	name "F-15 Strike Eagle (198x)(Microprose)[vid c]"
+	description "F-15 Strike Eagle (198x)(Microprose)[vid c]"
+	rom ( name "F-15 Strike Eagle (198x)(Microprose)[vid c].img" size 327680 crc bf4ed336 md5 6346d9d0600592fea559c4325d7eb68b )
+)
+
+game (
+	name "F-15 Strike Eagle (198x)(Microprose)[vid e]"
+	description "F-15 Strike Eagle (198x)(Microprose)[vid e]"
+	rom ( name "F-15 Strike Eagle (198x)(Microprose)[vid e].img" size 737280 crc a22616ed md5 a7ec4ffe29d9e6287eba0652c6d6b1ba )
+)
+
+game (
+	name "Five-A-Side Indoor Soccer (1986)(Mastertronic Software)"
+	description "Five-A-Side Indoor Soccer (1986)(Mastertronic Software)"
+	rom ( name "Five-A-Side Indoor Soccer (1986)(Mastertronic Software).img" size 368640 crc 75827d32 md5 e4cf892bdae16f9922a522e6a8a7792a )
+)
+
+game (
+	name "Fleet Sweep (1983)(Mirror Images Software)"
+	description "Fleet Sweep (1983)(Mirror Images Software)"
+	rom ( name "Fleet Sweep (1983)(Mirror Images Software).img" size 163840 crc 86736968 md5 ef9c407699e63298a374cc5515a6ec37 )
+)
+
+game (
+	name "Freddy Fish (1983)(Mirror Image Software)"
+	description "Freddy Fish (1983)(Mirror Image Software)"
+	rom ( name "Freddy Fish (1983)(Mirror Image Software).img" size 163840 crc e8413321 md5 9f44375b117a7e27bcbd7e59246ff7dd )
+)
+
+game (
+	name "Frogger (1983)(Sega - Sierra On-Line, Inc)"
+	description "Frogger (1983)(Sega - Sierra On-Line, Inc)"
+	rom ( name "Frogger (1983)(Sega - Sierra On-Line, Inc).img" size 368640 crc 00886c06 md5 9855860e35800cd4d2ff8d8265b717b8 )
+)
+
+game (
+	name "Frogger 2 - Three Deep (1984)(Sega Enterprises, Inc)"
+	description "Frogger 2 - Three Deep (1984)(Sega Enterprises, Inc)"
+	rom ( name "Frogger 2 - Three Deep (1984)(Sega Enterprises, Inc).img" size 368640 crc abcd0f8e md5 b167ed406b1aea14637ef31b622dc389 )
+)
+
+game (
+	name "Galaxian (1983)(Atari Inc.)"
+	description "Galaxian (1983)(Atari Inc.)"
+	rom ( name "Galaxian (1983)(Atari Inc.).img" size 163840 crc 1e03e31a md5 c54640ef6bb915953b4630d6e7782a4c )
+)
+
+game (
+	name "Galaxian (1983)(Atari, Inc.)[Tengen Version]"
+	description "Galaxian (1983)(Atari, Inc.)[Tengen Version]"
+	rom ( name "Galaxian (1983)(Atari, Inc.)[Tengen Version].img" size 184320 crc e1e76736 md5 d107c1eb48152100fcf7fce10f1077b1 )
+)
+
+game (
+	name "Gamma Force - The Pit of a Thousand Screams (198x)(Infocom)"
+	description "Gamma Force - The Pit of a Thousand Screams (198x)(Infocom)"
+	rom ( name "Gamma Force - The Pit of a Thousand Screams (198x)(Infocom).img" size 368640 crc fb1977f8 md5 ae1bbea543d3f25abcbd20fcbbf27bf4 )
+)
+
+game (
+	name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2)[360k version]"
+	description "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2)[360k version]"
+	rom ( name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2)[360k version].img" size 368640 crc 1ddc6b5b md5 ef47cd4d92b4d9c17680462b227f1490 )
+)
+
+game (
+	name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2)[360k version]"
+	description "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2)[360k version]"
+	rom ( name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2)[360k version].img" size 368640 crc 19d3f409 md5 4ae01d9d673e0defe5874a74145a55af )
+)
+
+game (
+	name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)[720k version]"
+	description "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)[720k version]"
+	rom ( name "Guerilla War (1987)(Data East USA - SNK - Quicksilver Software)[720k version].img" size 737280 crc ebb63563 md5 1f2e6ec7943f99c30f901355880725fe )
+)
+
+game (
+	name "Hard Hat Mack (1984)(Electronic Arts - TMQ Software)"
+	description "Hard Hat Mack (1984)(Electronic Arts - TMQ Software)"
+	rom ( name "Hard Hat Mack (1984)(Electronic Arts - TMQ Software).img" size 204800 crc 919b3aff md5 7378f23ecdb0fa5be76f6627eb3b5acd )
+)
+
+game (
+	name "Hellcat Ace (1984)(Microprose)"
+	description "Hellcat Ace (1984)(Microprose)"
+	rom ( name "Hellcat Ace (1984)(Microprose).img" size 327680 crc 4cab2a01 md5 d514e318691c9b14974bca4cdf9a96ae )
+)
+
+game (
+	name "Hitchhiker's Guide to the Galaxy, The (198x)(Infocom)"
+	description "Hitchhiker's Guide to the Galaxy, The (198x)(Infocom)"
+	rom ( name "Hitchhiker's Guide to the Galaxy, The (198x)(Infocom).img" size 368640 crc 83c27427 md5 30b158c13f8f6bcb9edb67466ba3f91b )
+)
+
+game (
+	name "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2)"
+	description "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2)"
+	rom ( name "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 1 of 2).img" size 409600 crc 3c45cfbb md5 e1d944c838c3a33a48bdeccc1f82e2b1 )
+)
+
+game (
+	name "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2)"
+	description "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2)"
+	rom ( name "Ikari Warriors (1986)(Data East USA - SNK - Quicksilver Software)(Disk 2 of 2).img" size 409600 crc a8ee4437 md5 10c4caa2348bd1a7c29b32f41834657a )
+)
+
+game (
+	name "Julius Erwing and Larry Bird Go One-on-One (198x)(Electronic Arts)[b]"
+	description "Julius Erwing and Larry Bird Go One-on-One (198x)(Electronic Arts)[b]"
+	rom ( name "Julius Erwing and Larry Bird Go One-on-One (198x)(Electronic Arts)[b].img" size 409600 crc 08977fce md5 bcca7e7ed21867f0837f36d8e373b30f )
+)
+
+game (
+	name "Jumpman (1983)(Epyx, Inc)"
+	description "Jumpman (1983)(Epyx, Inc)"
+	rom ( name "Jumpman (1983)(Epyx, Inc).img" size 327680 crc 6ca10992 md5 f692a3bf0a4261b71bfbbd93fbaabb93 )
+)
+
+game (
+	name "Jungle Hunt (1984)(Taito - Atari)[vid c]"
+	description "Jungle Hunt (1984)(Taito - Atari)[vid c]"
+	rom ( name "Jungle Hunt (1984)(Taito - Atari)[vid c].img" size 163840 crc 67302d10 md5 c4b77f7690ad71eb8806e5a01f9b9658 )
+)
+
+game (
+	name "Karnov (198x)(-)(Disk 1 of 2)"
+	description "Karnov (198x)(-)(Disk 1 of 2)"
+	rom ( name "Karnov (198x)(-)(Disk 1 of 2).img" size 368640 crc 7ff4c263 md5 5db4563463578c808db3ae7bf68b3a8e )
+)
+
+game (
+	name "Karnov (198x)(-)(Disk 2 of 2)"
+	description "Karnov (198x)(-)(Disk 2 of 2)"
+	rom ( name "Karnov (198x)(-)(Disk 2 of 2).img" size 368640 crc 8bf3bab8 md5 141c40440f84e58408f12ac525725e90 )
+)
+
+game (
+	name "King's Quest (198x)(Sierra)"
+	description "King's Quest (198x)(Sierra)"
+	rom ( name "King's Quest (198x)(Sierra).img" size 368640 crc a331a88b md5 14010a09c20de7a200af7212fd70c2b4 )
+)
+
+game (
+	name "King's Quest II - Romancing the Throne v1.0h (1985)(Sierra On-Line Inc)(Disk 1 of 2)"
+	description "King's Quest II - Romancing the Throne v1.0h (1985)(Sierra On-Line Inc)(Disk 1 of 2)"
+	rom ( name "King's Quest II - Romancing the Throne v1.0h (1985)(Sierra On-Line Inc)(Disk 1 of 2).img" size 368640 crc 4107b044 md5 a1fdc221b5ffc887efd547c206aac9cf )
+)
+
+game (
+	name "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 1 of 2)"
+	description "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 1 of 2)"
+	rom ( name "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 1 of 2).img" size 368640 crc b5569081 md5 9b7d69c3330a835dc2bf027c7a7ca89e )
+)
+
+game (
+	name "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 2 of 2)"
+	description "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 2 of 2)"
+	rom ( name "King's Quest II - Romancing the Throne v1.0w (1985)(Sierra On-Line Inc)(Disk 2 of 2).img" size 368640 crc 8e605724 md5 95f13a90953292ca492c6370aefd7ad7 )
+)
+
+game (
+	name "King's Quest II - Romancing the Throne v1.1h (1985)(Sierra On-Line Inc)(Disk 2 of 2)"
+	description "King's Quest II - Romancing the Throne v1.1h (1985)(Sierra On-Line Inc)(Disk 2 of 2)"
+	rom ( name "King's Quest II - Romancing the Throne v1.1h (1985)(Sierra On-Line Inc)(Disk 2 of 2).img" size 368640 crc 66d16848 md5 9be35324e698065b30b3db6f1b6c52bc )
+)
+
+game (
+	name "Kobayashi Naru (1987)(Mastertronic Ltd)"
+	description "Kobayashi Naru (1987)(Mastertronic Ltd)"
+	rom ( name "Kobayashi Naru (1987)(Mastertronic Ltd).img" size 368640 crc 3f32ce7e md5 9ecd3b754614fcf554a0c4a044c4afc1 )
+)
+
+game (
+	name "Lane Master Vs The Blubbermen (198x)(Infocom)"
+	description "Lane Master Vs The Blubbermen (198x)(Infocom)"
+	rom ( name "Lane Master Vs The Blubbermen (198x)(Infocom).img" size 368640 crc 9f4d2299 md5 3fd3c7a2462a834e910f9ff2e042cc5b )
+)
+
+game (
+	name "Lock-On (1986)(Tatsumi Corp.)(Disk 1 of 2)"
+	description "Lock-On (1986)(Tatsumi Corp.)(Disk 1 of 2)"
+	rom ( name "Lock-On (1986)(Tatsumi Corp.)(Disk 1 of 2).img" size 368640 crc 48b01e7f md5 cc7f760dc0ae88dcf2fa851dee2ddef2 )
+)
+
+game (
+	name "Lock-On (1986)(Tatsumi Corp.)(Disk 2 of 2)"
+	description "Lock-On (1986)(Tatsumi Corp.)(Disk 2 of 2)"
+	rom ( name "Lock-On (1986)(Tatsumi Corp.)(Disk 2 of 2).img" size 368640 crc 5e7df33e md5 55edcf1cedccf959bba052ada0f356ae )
+)
+
+game (
+	name "Lode Runner (1983)(Broderbund)"
+	description "Lode Runner (1983)(Broderbund)"
+	rom ( name "Lode Runner (1983)(Broderbund).img" size 368640 crc 284b4c71 md5 2f55f431bd31ff157a93578ed9eec87e )
+)
+
+game (
+	name "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 1 of 2)"
+	description "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 1 of 2)"
+	rom ( name "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 1 of 2).img" size 409600 crc 256bcd8c md5 a2fe1a77c29416559664a650636f153c )
+)
+
+game (
+	name "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 2 of 2)"
+	description "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 2 of 2)"
+	rom ( name "Marble Madness (1986)(Atari Games - Electronic Arts)(Disk 2 of 2).img" size 368640 crc a7489b5e md5 c2ab076da7eeb47eb7ed216bbbeb21b5 )
+)
+
+game (
+	name "Metropolis (198x)(Mastertronic)(Disk 1 of 2)"
+	description "Metropolis (198x)(Mastertronic)(Disk 1 of 2)"
+	rom ( name "Metropolis (198x)(Mastertronic)(Disk 1 of 2).img" size 368640 crc 867b674d md5 4c1d702de36de3038a25b99545e1718a )
+)
+
+game (
+	name "Metropolis (198x)(Mastertronic)(Disk 2 of 2)"
+	description "Metropolis (198x)(Mastertronic)(Disk 2 of 2)"
+	rom ( name "Metropolis (198x)(Mastertronic)(Disk 2 of 2).img" size 368640 crc 8faedec3 md5 51745c08f8a2aab374268b302ddf2487 )
+)
+
+game (
+	name "Microsoft Adventure (1981)(IBM Corp - Softwin Assoc.)"
+	description "Microsoft Adventure (1981)(IBM Corp - Softwin Assoc.)"
+	rom ( name "Microsoft Adventure (1981)(IBM Corp - Softwin Assoc.).img" size 184320 crc 7148422b md5 fad14205c36cc92610054520c4e3ebdd )
+)
+
+game (
+	name "Microsoft Decathlon (1982)(IBM Corpoation)"
+	description "Microsoft Decathlon (1982)(IBM Corpoation)"
+	rom ( name "Microsoft Decathlon (1982)(IBM Corpoation).img" size 184320 crc 34435a3c md5 4273f015c301dea1bde275b906e7ee89 )
+)
+
+game (
+	name "Microsoft Flight Simulator v1.05 (198x)(Microsoft Corporation)"
+	description "Microsoft Flight Simulator v1.05 (198x)(Microsoft Corporation)"
+	rom ( name "Microsoft Flight Simulator v1.05 (198x)(Microsoft Corporation).img" size 163840 crc a7b4b916 md5 3f4df6bfc9a6490b81d60daeca5865fe )
+)
+
+game (
+	name "Microsoft Flight Simulator v2.1 (198x)(Microsoft Corporation)"
+	description "Microsoft Flight Simulator v2.1 (198x)(Microsoft Corporation)"
+	rom ( name "Microsoft Flight Simulator v2.1 (198x)(Microsoft Corporation).img" size 368640 crc d9dbd43a md5 867d0514e7ff67ae3b477cab5a5769ac )
+)
+
+game (
+	name "Microsoft Flight Simulator v2.12 (198x)(Microsoft Corporation)"
+	description "Microsoft Flight Simulator v2.12 (198x)(Microsoft Corporation)"
+	rom ( name "Microsoft Flight Simulator v2.12 (198x)(Microsoft Corporation).img" size 368640 crc 39bf411c md5 4ab4bd4fefbb2093cfaf66a39da813df )
+)
+
+game (
+	name "Microsoft Flight Simulator v2.13 (1984)(Microsoft Corporation)"
+	description "Microsoft Flight Simulator v2.13 (1984)(Microsoft Corporation)"
+	rom ( name "Microsoft Flight Simulator v2.13 (1984)(Microsoft Corporation).img" size 368640 crc 1af20e34 md5 8734542c65816ffc0959a14df75cb5df )
+)
+
+game (
+	name "Mine Shaft (1983)(Sierra On-Line)[Ported from PCjr cartridge image]"
+	description "Mine Shaft (1983)(Sierra On-Line)[Ported from PCjr cartridge image]"
+	rom ( name "Mine Shaft (1983)(Sierra On-Line)[Ported from PCjr cartridge image].img" size 163840 crc b6838149 md5 98635fbad97d230a1c2db38775937800 )
+)
+
+game (
+	name "Montezuma's Revenge (1984)(Parker Brothers)"
+	description "Montezuma's Revenge (1984)(Parker Brothers)"
+	rom ( name "Montezuma's Revenge (1984)(Parker Brothers).img" size 184320 crc a6847754 md5 ca902e556e6700e73e40b65f307adf6b )
+)
+
+game (
+	name "Moon Patrol (1983)(Williams - Atari)"
+	description "Moon Patrol (1983)(Williams - Atari)"
+	rom ( name "Moon Patrol (1983)(Williams - Atari).img" size 368640 crc abba0f4a md5 a7d496e9f0fad38f07d80dc93b92140c )
+)
+
+game (
+	name "Ms. Pac-Man (1983)(Atari)"
+	description "Ms. Pac-Man (1983)(Atari)"
+	rom ( name "Ms. Pac-Man (1983)(Atari).img" size 163840 crc 29a7126d md5 749e40f79a391b8c395a8e2a39452819 )
+)
+
+game (
+	name "Ms. Pac-Man (1983)(Atari)[Namco Version]"
+	description "Ms. Pac-Man (1983)(Atari)[Namco Version]"
+	rom ( name "Ms. Pac-Man (1983)(Atari)[Namco Version].img" size 163840 crc 565eef6c md5 dffcffe0eb8848d66a9c04036c54b320 )
+)
+
+game (
+	name "Oil's Well (1984)(Sierra On-Line Inc)"
+	description "Oil's Well (1984)(Sierra On-Line Inc)"
+	rom ( name "Oil's Well (1984)(Sierra On-Line Inc).img" size 184320 crc f9bd3885 md5 2fa323bd67c246fe960ffe54c2018cdb )
+)
+
+game (
+	name "PC Pool Challenges (1984)(IBM Corp)"
+	description "PC Pool Challenges (1984)(IBM Corp)"
+	rom ( name "PC Pool Challenges (1984)(IBM Corp).img" size 184320 crc 3a3b51d5 md5 531c3c8b93f335746e7d8352b594595b )
+)
+
+game (
+	name "Pac-Man (198x)(atari)"
+	description "Pac-Man (198x)(atari)"
+	rom ( name "Pac-Man (198x)(atari).img" size 163840 crc 812d0781 md5 feb9f037c83a8e8c15498c87276e1b4d )
+)
+
+game (
+	name "Pinball Construction Set (198x)(Electronic Arts)"
+	description "Pinball Construction Set (198x)(Electronic Arts)"
+	rom ( name "Pinball Construction Set (198x)(Electronic Arts).img" size 409600 crc 6460e995 md5 87829e13826dd57872bf008209fec3ac )
+)
+
+game (
+	name "Pirates! (198x)(Microprose)(Disk 1 of 2)"
+	description "Pirates! (198x)(Microprose)(Disk 1 of 2)"
+	rom ( name "Pirates! (198x)(Microprose)(Disk 1 of 2).img" size 368640 crc db732151 md5 2f44de90f7ad76abc44dcd500dee67c0 )
+)
+
+game (
+	name "Pirates! (198x)(Microprose)(Disk 2 of 2)"
+	description "Pirates! (198x)(Microprose)(Disk 2 of 2)"
+	rom ( name "Pirates! (198x)(Microprose)(Disk 2 of 2).img" size 368640 crc 964cb6c9 md5 484a850da55f5c2fe2dcc4f80b1de7c9 )
+)
+
+game (
+	name "Pitstop 2 (198x)(Epyx - Synergistic Software)"
+	description "Pitstop 2 (198x)(Epyx - Synergistic Software)"
+	rom ( name "Pitstop 2 (198x)(Epyx - Synergistic Software).img" size 184320 crc 1313323e md5 1657a5a94b8659f1328f53174cf2ce54 )
+)
+
+game (
+	name "Prowler (1987)(Mastertronic)"
+	description "Prowler (1987)(Mastertronic)"
+	rom ( name "Prowler (1987)(Mastertronic).img" size 368640 crc 76bc5d26 md5 6ed8be1a47095a6cc9a4697c71593cb6 )
+)
+
+game (
+	name "Rasterscan (1987)(Mastertronic)"
+	description "Rasterscan (1987)(Mastertronic)"
+	rom ( name "Rasterscan (1987)(Mastertronic).img" size 184320 crc 7f516928 md5 78ce57b7423a6277779f74af85920550 )
+)
+
+game (
+	name "Robotron 2084 (1983)(Williams Electronics, Inc - Atari, Inc)"
+	description "Robotron 2084 (1983)(Williams Electronics, Inc - Atari, Inc)"
+	rom ( name "Robotron 2084 (1983)(Williams Electronics, Inc - Atari, Inc).img" size 163840 crc b27e3691 md5 b9738412093f2c4e6d5a98bb8d54e7cb )
+)
+
+game (
+	name "Rollo and the Brush Bros (1984)(Windmill Software)"
+	description "Rollo and the Brush Bros (1984)(Windmill Software)"
+	rom ( name "Rollo and the Brush Bros (1984)(Windmill Software).img" size 184320 crc 3c981642 md5 b7e9cf908421a22dcd8071cc40702594 )
+)
+
+game (
+	name "Seastalker (198x)(Infocom)"
+	description "Seastalker (198x)(Infocom)"
+	rom ( name "Seastalker (198x)(Infocom).img" size 163840 crc 18190a62 md5 44ac0e03a014d8fc3aebc695db2d4839 )
+)
+
+game (
+	name "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b]"
+	description "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b]"
+	rom ( name "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b].img" size 409600 crc 0a4a81d7 md5 5033e15f0c8fc28ed40f0e5e33b7c3b9 )
+)
+
+game (
+	name "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b][Histmap]"
+	description "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b][Histmap]"
+	rom ( name "Seven Cities Of Gold (1985)(Electronic Arts - Ozark Softscape)[b][Histmap].img" size 327680 crc 14f5c537 md5 1d81e5dd0471d1ff7d4f8e8879ad4e5e )
+)
+
+game (
+	name "Shamus (1984)(IBM Corp - SynSoft)"
+	description "Shamus (1984)(IBM Corp - SynSoft)"
+	rom ( name "Shamus (1984)(IBM Corp - SynSoft).img" size 184320 crc a3970236 md5 aaace77d7f10d716c59a79204fbf3ace )
+)
+
+game (
+	name "Silent Service (198x)(Microprose)"
+	description "Silent Service (198x)(Microprose)"
+	rom ( name "Silent Service (198x)(Microprose).img" size 368640 crc 00d5f3b5 md5 599ce6b63e1f0ecb6f5f47ad5c84d90a )
+)
+
+game (
+	name "Slugger, The (198x)(Mastertronic)"
+	description "Slugger, The (198x)(Mastertronic)"
+	rom ( name "Slugger, The (198x)(Mastertronic).img" size 368640 crc 87c26f8d md5 5761af56e0c55f0deed35c5375b346f8 )
+)
+
+game (
+	name "Space Strike (1982)(Funtastic, inc)"
+	description "Space Strike (1982)(Funtastic, inc)"
+	rom ( name "Space Strike (1982)(Funtastic, inc).img" size 163840 crc 89af96f6 md5 4a9bd86229170278628721608b4726f9 )
+)
+
+game (
+	name "Spiderbot (1988)(Epyx - Prism Software)"
+	description "Spiderbot (1988)(Epyx - Prism Software)"
+	rom ( name "Spiderbot (1988)(Epyx - Prism Software).img" size 368640 crc 053759a8 md5 d7939988bfd99af2160503daabe0bfb2 )
+)
+
+game (
+	name "Spitfire Ace (1984)(Microprose)"
+	description "Spitfire Ace (1984)(Microprose)"
+	rom ( name "Spitfire Ace (1984)(Microprose).img" size 327680 crc 52fe8abc md5 daedf9fed012f22ea0eafc661295f1ac )
+)
+
+game (
+	name "Storm (1986)(Mastertronic Ltd)"
+	description "Storm (1986)(Mastertronic Ltd)"
+	rom ( name "Storm (1986)(Mastertronic Ltd).img" size 184320 crc 34d9574c md5 d65d8b0d4cb0ca830621a3bb026ce26c )
+)
+
+game (
+	name "Styx (1983)(Windmill Software)"
+	description "Styx (1983)(Windmill Software)"
+	rom ( name "Styx (1983)(Windmill Software).img" size 368640 crc 3a26d545 md5 841d466d97c9beaa6ee67a1b660f5796 )
+)
+
+game (
+	name "Summer Games 2 (1986)(Epyx, Inc)"
+	description "Summer Games 2 (1986)(Epyx, Inc)"
+	rom ( name "Summer Games 2 (1986)(Epyx, Inc).img" size 368640 crc a9ebb8f5 md5 8ff3dd2d01b30fc67c5fcc860b47ed9e )
+)
+
+game (
+	name "Suspended (198x)(Infocom)"
+	description "Suspended (198x)(Infocom)"
+	rom ( name "Suspended (198x)(Infocom).img" size 163840 crc fc9cf67c md5 57d58d2b8144e439e18147c6067ef35b )
+)
+
+game (
+	name "TV and Cinema 101 (198x)(IBM)"
+	description "TV and Cinema 101 (198x)(IBM)"
+	rom ( name "TV and Cinema 101 (198x)(IBM).img" size 327680 crc de4e13e8 md5 7dcdd807be59e5fff7d92221469dd71e )
+)
+
+game (
+	name "Tag Team Wrestling (1986)(US Gold)"
+	description "Tag Team Wrestling (1986)(US Gold)"
+	rom ( name "Tag Team Wrestling (1986)(US Gold).img" size 327680 crc 93ed4c56 md5 e3af5bc46cd89823141b0e192d9ac13d )
+)
+
+game (
+	name "Timothy Leary's Mind Mirror (198x)(Electronic Arts)"
+	description "Timothy Leary's Mind Mirror (198x)(Electronic Arts)"
+	rom ( name "Timothy Leary's Mind Mirror (198x)(Electronic Arts).img" size 409600 crc 50e33532 md5 d0cf5613210f72b7579647d499bc0ba4 )
+)
+
+game (
+	name "Trilogy (198x)(Mastertronic)"
+	description "Trilogy (198x)(Mastertronic)"
+	rom ( name "Trilogy (198x)(Mastertronic).img" size 368640 crc 94a48b25 md5 7942fe992eb8eb2094f5124a96929b8a )
+)
+
+game (
+	name "Trivia 101 (198x)(IBM)"
+	description "Trivia 101 (198x)(IBM)"
+	rom ( name "Trivia 101 (198x)(IBM).img" size 327680 crc 51346a1f md5 8cb02c0efa32a5197d269275917281ca )
+)
+
+game (
+	name "Troll's Tale (1984)(Sierra On-Line Inc)"
+	description "Troll's Tale (1984)(Sierra On-Line Inc)"
+	rom ( name "Troll's Tale (1984)(Sierra On-Line Inc).img" size 184320 crc 8879486a md5 402de6d04737f8888e20ec2cd1335958 )
+)
+
+game (
+	name "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 1 of 2)"
+	description "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 1 of 2)"
+	rom ( name "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 1 of 2).img" size 163840 crc 9bae2a6a md5 fb8290633011e093ce67b0337b2ce2a4 )
+)
+
+game (
+	name "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 2 of 2)"
+	description "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 2 of 2)"
+	rom ( name "Ulysses and the Golden Fleece (1981)(Sierra On-Line Inc)(Disk 2 of 2).img" size 163840 crc 1158d503 md5 46508afcf3d308518735863d55635298 )
+)
+
+game (
+	name "Victory Road (1986)(SNK - Data East USA - Quicksilver Software)"
+	description "Victory Road (1986)(SNK - Data East USA - Quicksilver Software)"
+	rom ( name "Victory Road (1986)(SNK - Data East USA - Quicksilver Software).img" size 368640 crc da4e5f88 md5 2a5c6d72177b30c6cff3fd8c665564c7 )
+)
+
+game (
+	name "Winter Games (1986)(Epyx, Inc - Action Graphics)"
+	description "Winter Games (1986)(Epyx, Inc - Action Graphics)"
+	rom ( name "Winter Games (1986)(Epyx, Inc - Action Graphics).img" size 368640 crc 497d8e2a md5 5156aeb275f83a0db2d299fa1e523e91 )
+)
+
+game (
+	name "Witness, The (198x)(Infocom)"
+	description "Witness, The (198x)(Infocom)"
+	rom ( name "Witness, The (198x)(Infocom).img" size 163840 crc 2525eb36 md5 1938553ed907941caa9495b8b0dab671 )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Master Disk]"
+	description "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Master Disk]"
+	rom ( name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Master Disk].img" size 327680 crc c0a04c32 md5 7e1b98c90bcacdb786712531eb4bd14e )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Scenario Disk]"
+	description "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Scenario Disk]"
+	rom ( name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Orginal Release][Scenario Disk].img" size 327680 crc 4235ab09 md5 3fd8e759e465f7a64056105eeec0ca18 )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Master Disk]"
+	description "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Master Disk]"
+	rom ( name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Master Disk].img" size 327680 crc 9e782f77 md5 fbd869188556657d218432b8b109cf65 )
+)
+
+game (
+	name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Scenario Disk]"
+	description "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Scenario Disk]"
+	rom ( name "Wizardry - Proving Grounds of the Mad Overlord (198x)(Sir-Tech Software, Inc)[Re-Release][Scenario Disk].img" size 327680 crc bd217834 md5 21e1632a7d631cb8bf29e7731e206c1d )
+)
+
+game (
+	name "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Master Disk]"
+	description "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Master Disk]"
+	rom ( name "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Master Disk].img" size 737280 crc d2c5ab5c md5 7d75a610d4a769dbadb42023f4946b0e )
+)
+
+game (
+	name "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Scenario Disk]"
+	description "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Scenario Disk]"
+	rom ( name "Wizardry 2 - The Knight of Diamonds (198x)(Sir-Tech Software, Inc)[Scenario Disk].img" size 737280 crc 79c89e6a md5 1732ebfa3a1acb030cd1658dba782fb3 )
+)
+
+game (
+	name "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Master Disk]"
+	description "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Master Disk]"
+	rom ( name "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Master Disk].img" size 737280 crc 5509a2d2 md5 a256591cafdbd5b7645964ce650bc079 )
+)
+
+game (
+	name "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Scenario Disk]"
+	description "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Scenario Disk]"
+	rom ( name "Wizardry 3 - The Legacy of Llylgamyn (198x)(Sir-Tech Software, Inc)[Scenario Disk].img" size 737280 crc 86ff176f md5 93bfaa92086c44441dab1fe8b8d1f37a )
+)
+
+game (
+	name "Wizardry 4 - The Return of Werdna (198x)(Sir-Tech Software, Inc)"
+	description "Wizardry 4 - The Return of Werdna (198x)(Sir-Tech Software, Inc)"
+	rom ( name "Wizardry 4 - The Return of Werdna (198x)(Sir-Tech Software, Inc).img" size 737280 crc e33b0ade md5 ed3927d818ca46911404d71fec5ab6c3 )
+)
+
+game (
+	name "Wizardry 5 - Heart of the Maelstrom (198x)(Sir-Tech Software, Inc)"
+	description "Wizardry 5 - Heart of the Maelstrom (198x)(Sir-Tech Software, Inc)"
+	rom ( name "Wizardry 5 - Heart of the Maelstrom (198x)(Sir-Tech Software, Inc).img" size 737280 crc a85a5459 md5 0962b6867ec2e7c126b92901629ee079 )
+)
+
+game (
+	name "World Games (1986)(Epyx, Inc)"
+	description "World Games (1986)(Epyx, Inc)"
+	rom ( name "World Games (1986)(Epyx, Inc).img" size 368640 crc 6800b13d md5 0f4fd80ad7350ee1840e6ba296f41076 )
+)
+
+game (
+	name "World Karate Championship (1986)(Epyx, Inc)"
+	description "World Karate Championship (1986)(Epyx, Inc)"
+	rom ( name "World Karate Championship (1986)(Epyx, Inc).img" size 368640 crc 9dce18ed md5 ea71337a2205a33785f98d051aec9dee )
+)
+
+game (
+	name "World's Greatest Baseball Game, The (1985)(Epyx, Inc)"
+	description "World's Greatest Baseball Game, The (1985)(Epyx, Inc)"
+	rom ( name "World's Greatest Baseball Game, The (1985)(Epyx, Inc).img" size 368640 crc 80aba066 md5 197b5d295632db8588b7b34bed624936 )
+)
+
+game (
+	name "Zaxxon (1984)(Sega Enterprises Inc)"
+	description "Zaxxon (1984)(Sega Enterprises Inc)"
+	rom ( name "Zaxxon (1984)(Sega Enterprises Inc).img" size 163840 crc 07d22e2a md5 557769385d582fc453c33130fafa7bbb )
+)
+
+game (
+	name "Zork I - The Great Underground Empire (198x)(Infocom)"
+	description "Zork I - The Great Underground Empire (198x)(Infocom)"
+	rom ( name "Zork I - The Great Underground Empire (198x)(Infocom).img" size 163840 crc 05e849f6 md5 afe4a34fffdd87669078b70d6b860c52 )
+)
+
+game (
+	name "Zork III - The Dungeon Master (198x)(Infocom)"
+	description "Zork III - The Dungeon Master (198x)(Infocom)"
+	rom ( name "Zork III - The Dungeon Master (198x)(Infocom).img" size 163840 crc f996567f md5 8e70d3356c3698fe5025262c178834c8 )
+)
+
+game (
+	name "Zork Quest I - Assault on Egreth Castle (198x)(Infocom)"
+	description "Zork Quest I - Assault on Egreth Castle (198x)(Infocom)"
+	rom ( name "Zork Quest I - Assault on Egreth Castle (198x)(Infocom).img" size 368640 crc a3f35f67 md5 4ab4795df2956ae6e33d1338e72ee281 )
+)
+
+game (
+	name "Zork Quest II - The Crystal of Doom (198x)(Infocom)"
+	description "Zork Quest II - The Crystal of Doom (198x)(Infocom)"
+	rom ( name "Zork Quest II - The Crystal of Doom (198x)(Infocom).img" size 368640 crc 77b62719 md5 553006265c051bd55b29e2ca0ef6537e )
+)
+
+game (
+	name "Zyll (1984)(IBM Corp)"
+	description "Zyll (1984)(IBM Corp)"
+	rom ( name "Zyll (1984)(IBM Corp).img" size 163840 crc 2361a2ed md5 e472bd220cb7a3dbebef2b29c0eca52d )
+)

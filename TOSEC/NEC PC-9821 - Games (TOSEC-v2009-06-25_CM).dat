@@ -1,0 +1,73 @@
+clrmamepro (
+	name "NEC PC-9821 - Games"
+	description "NEC PC-9821 - Games (TOSEC-v2009-06-25)"
+	category "NEC PC-9821 - Games"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 01 of 10)(Disk A)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 01 of 10)(Disk A)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 01 of 10)(Disk A)[Req Install].fdd" size 1215484 crc 5bf8cc6e md5 02f9b4c008c987f568ded0358a87b0f5 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 02 of 10)(Disk B)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 02 of 10)(Disk B)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 02 of 10)(Disk B)[Req Install].fdd" size 1220604 crc 8160a833 md5 12f9836a1423ac003e5bc844eaca2fd3 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 03 of 10)(Disk C)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 03 of 10)(Disk C)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 03 of 10)(Disk C)[Req Install].fdd" size 1139708 crc 372a3fb0 md5 fc409ce3d6e4baf6637d0a4789e5c1b5 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 04 of 10)(Disk D)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 04 of 10)(Disk D)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 04 of 10)(Disk D)[Req Install].fdd" size 1203196 crc 8e3c48ac md5 63969cde6bc176cc44494d53382a457d )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 05 of 10)(Disk E)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 05 of 10)(Disk E)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 05 of 10)(Disk E)[Req Install].fdd" size 1112060 crc 9bbb44b4 md5 7609fe79828c75801a5387c7fd32cbb1 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 06 of 10)(Disk F)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 06 of 10)(Disk F)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 06 of 10)(Disk F)[Req Install].fdd" size 912380 crc 576d5a7c md5 725ac028cfc2daf6fdc5b3deec247f55 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 07 of 10)(Disk G)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 07 of 10)(Disk G)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 07 of 10)(Disk G)[Req Install].fdd" size 1132540 crc eec5024d md5 4c49a0dd26f344def049a92bdf83ee68 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 08 of 10)(Disk H)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 08 of 10)(Disk H)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 08 of 10)(Disk H)[Req Install].fdd" size 1196028 crc 22c20e65 md5 d702c273c3b2c3b52a297533c8662290 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 09 of 10)(Disk I)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 09 of 10)(Disk I)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 09 of 10)(Disk I)[Req Install].fdd" size 1139708 crc f4022203 md5 cf5328f8323fec2b989399f9c00b87d8 )
+)
+
+game (
+	name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 10 of 10)(Disk J)[Req Install]"
+	description "Battle Skin Panic 9821 (1993)(Gainax)(Disk 10 of 10)(Disk J)[Req Install]"
+	rom ( name "Battle Skin Panic 9821 (1993)(Gainax)(Disk 10 of 10)(Disk J)[Req Install].fdd" size 1094652 crc 2d328ee3 md5 2c52e7d36a391bfe64f02067c340e20e )
+)
+
+game (
+	name "Panic Bomber (19xx)(-)(JP)[p]"
+	description "Panic Bomber (19xx)(-)(JP)[p]"
+	rom ( name "Panic Bomber (19xx)(-)(JP)[p].fdd" size 1160188 crc 41c091f1 md5 0281afc99ad4a2bc244f3688a9c39977 )
+)

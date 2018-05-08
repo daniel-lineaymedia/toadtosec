@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Commodore C64 - Diskmags - Commercial - [LNX]"
+	description "Commodore C64 - Diskmags - Commercial - [LNX] (TOSEC-v2012-04-09)"
+	category "Commodore C64 - Diskmags - Commercial - [LNX]"
+	version 2012-04-09
+	author "Duncan Twain"
+)
+
+game (
+	name "Go64! 2000-08 (2000)(CSW)(Side A)"
+	description "Go64! 2000-08 (2000)(CSW)(Side A)"
+	rom ( name "Go64! 2000-08 (2000)(CSW)(Side A).lnx" size 167680 crc f30f7da7 md5 de16293086f888c3b5b86842d18435e6 sha1 d5f6ef107db6271971e5f9b0da0032b28c6f347e )
+)
+

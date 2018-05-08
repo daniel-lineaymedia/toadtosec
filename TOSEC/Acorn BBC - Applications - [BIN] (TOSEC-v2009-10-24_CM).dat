@@ -1,0 +1,3619 @@
+clrmamepro (
+	name "Acorn BBC - Applications - [BIN]"
+	description "Acorn BBC - Applications - [BIN] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Applications - [BIN]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "6502 2nd Processor BASIC Selector (1986)(Horsington, Gordon)"
+	description "6502 2nd Processor BASIC Selector (1986)(Horsington, Gordon)"
+	rom ( name "6502 2nd Processor BASIC Selector (1986)(Horsington, Gordon).bin" size 999 crc aa16cca4 md5 8c600bedc91d878c72ab881945d54265 )
+)
+
+game (
+	name "65C02 Assembler v1.60 (1987)(Phillips, A.)"
+	description "65C02 Assembler v1.60 (1987)(Phillips, A.)"
+	rom ( name "65C02 Assembler v1.60 (1987)(Phillips, A.).bin" size 16384 crc 2d0da038 md5 0affc4494b7b56ec2e8d9ed8f14285d9 )
+)
+
+game (
+	name "Accelerator v1.00 (1985)(Computer Concepts)"
+	description "Accelerator v1.00 (1985)(Computer Concepts)"
+	rom ( name "Accelerator v1.00 (1985)(Computer Concepts).bin" size 8192 crc ec9e1b6e md5 3df139fa58b51bbd66b334290d27f257 )
+)
+
+game (
+	name "Accelerator v1.02 (1985)(Computer Concepts)"
+	description "Accelerator v1.02 (1985)(Computer Concepts)"
+	rom ( name "Accelerator v1.02 (1985)(Computer Concepts).bin" size 8192 crc 49697bef md5 e1284377ba05ecb7293eb1d929f182c0 )
+)
+
+game (
+	name "Accelerator v1.05 (1985)(Computer Concepts)"
+	description "Accelerator v1.05 (1985)(Computer Concepts)"
+	rom ( name "Accelerator v1.05 (1985)(Computer Concepts).bin" size 16384 crc 0ca9c0dc md5 fb6aa40866aeb7529b6c90fe108201d1 )
+)
+
+game (
+	name "ADD Utils v1.03 (1995)(-)"
+	description "ADD Utils v1.03 (1995)(-)"
+	rom ( name "ADD Utils v1.03 (1995)(-).bin" size 16384 crc 23e7c367 md5 9e4c2307903456cd58e0ed542ad388fb )
+)
+
+game (
+	name "ADD Utils v2.02 (1995)(-)"
+	description "ADD Utils v2.02 (1995)(-)"
+	rom ( name "ADD Utils v2.02 (1995)(-).bin" size 16384 crc 0174209b md5 e93a326d30c11acd51bcd66b141c665b )
+)
+
+game (
+	name "ADDCOM v1.00 (19xx)(-)"
+	description "ADDCOM v1.00 (19xx)(-)"
+	rom ( name "ADDCOM v1.00 (19xx)(-).bin" size 8192 crc 10324741 md5 e41650ce3a26e22d8112f32f93e9a345 )
+)
+
+game (
+	name "ADE v1.00 (19xx)(-)"
+	description "ADE v1.00 (19xx)(-)"
+	rom ( name "ADE v1.00 (19xx)(-).bin" size 16384 crc 204453e2 md5 5c2a661d31b57d9e0b707e592bef6a73 )
+)
+
+game (
+	name "ADE v1.90 (1984)(System)"
+	description "ADE v1.90 (1984)(System)"
+	rom ( name "ADE v1.90 (1984)(System).bin" size 16384 crc 530c7543 md5 34b30c3cd94eac21e509a3dce895a8e9 )
+)
+
+game (
+	name "ADE v2.01 (19xx)(System)"
+	description "ADE v2.01 (19xx)(System)"
+	rom ( name "ADE v2.01 (19xx)(System).bin" size 16384 crc 13ab9b67 md5 f2943ece6bf72fdf0f52aa36fae5fa7d )
+)
+
+game (
+	name "ADFS 1770 v1.00 (1986)(ACP)"
+	description "ADFS 1770 v1.00 (1986)(ACP)"
+	rom ( name "ADFS 1770 v1.00 (1986)(ACP).bin" size 16384 crc 4d697343 md5 bc66c3bc0efd4dbd39c45b479c8201b3 )
+)
+
+game (
+	name "ADFS 1770 v1.04 (1986)(ACP)"
+	description "ADFS 1770 v1.04 (1986)(ACP)"
+	rom ( name "ADFS 1770 v1.04 (1986)(ACP).bin" size 16384 crc de3139d2 md5 a7e0ee76e01ea0b3c305276d1658933c )
+)
+
+game (
+	name "ADFS 1770 v1.08 (1986)(ACP)"
+	description "ADFS 1770 v1.08 (1986)(ACP)"
+	rom ( name "ADFS 1770 v1.08 (1986)(ACP).bin" size 16384 crc eb0eaa34 md5 5f6af203e8e3731828c406ef40d24b65 )
+)
+
+game (
+	name "ADFS 1770 v1.08 (1986)(ACP)[a]"
+	description "ADFS 1770 v1.08 (1986)(ACP)[a]"
+	rom ( name "ADFS 1770 v1.08 (1986)(ACP)[a].bin" size 16384 crc 4e1c89e3 md5 0d7cdedcff980c8711ca8312559447c9 )
+)
+
+game (
+	name "ADFS Utilities (1988)(Pineapple)"
+	description "ADFS Utilities (1988)(Pineapple)"
+	rom ( name "ADFS Utilities (1988)(Pineapple).bin" size 16384 crc f59389e4 md5 2b94222699f3d5603ddcaa7e9e40a707 )
+)
+
+game (
+	name "ADFS v1.00 (1983)(Acorn)"
+	description "ADFS v1.00 (1983)(Acorn)"
+	rom ( name "ADFS v1.00 (1983)(Acorn).bin" size 16384 crc 3289bdc6 md5 b60ee811f4b805638478acd5297b16e0 )
+)
+
+game (
+	name "ADFS v1.30 (1983)(Acorn)"
+	description "ADFS v1.30 (1983)(Acorn)"
+	rom ( name "ADFS v1.30 (1983)(Acorn).bin" size 16384 crc d3855588 md5 831ee90ac5d49ba5507252faf0c12536 )
+)
+
+game (
+	name "ADFS v1.31 (19xx)(Acorn)"
+	description "ADFS v1.31 (19xx)(Acorn)"
+	rom ( name "ADFS v1.31 (19xx)(Acorn).bin" size 16384 crc 6b03c82b md5 315d77d86e1461dae8f861ace270a327 )
+)
+
+game (
+	name "ADFS v1.40 (1984)(Acorn)"
+	description "ADFS v1.40 (1984)(Acorn)"
+	rom ( name "ADFS v1.40 (1984)(Acorn).bin" size 16384 crc c5cbf548 md5 a2a8d8e516b51dc47c60cacc2d1bb6ae )
+)
+
+game (
+	name "ADFS v1.50 (1984)(Acorn)"
+	description "ADFS v1.50 (1984)(Acorn)"
+	rom ( name "ADFS v1.50 (1984)(Acorn).bin" size 16384 crc 10583dfe md5 10f08b255d6a6e3e888631946b628f1a )
+)
+
+game (
+	name "ADFS v2.03 (1984)(Acorn)"
+	description "ADFS v2.03 (1984)(Acorn)"
+	rom ( name "ADFS v2.03 (1984)(Acorn).bin" size 16384 crc 55c22377 md5 fb8ceb72c5fbd9dd80eedd10d076b1a2 )
+)
+
+game (
+	name "ADFS v2.10 (1986)(Acorn)"
+	description "ADFS v2.10 (1986)(Acorn)"
+	rom ( name "ADFS v2.10 (1986)(Acorn).bin" size 16384 crc 45408fbb md5 c2afc1cabb135e6f2254bcf9300a9b83 )
+)
+
+game (
+	name "Advance File Manager v1.09 (19xx)(PRES)"
+	description "Advance File Manager v1.09 (19xx)(PRES)"
+	rom ( name "Advance File Manager v1.09 (19xx)(PRES).bin" size 16384 crc 64d7ff45 md5 3955953c97cad930e7b7a3b11a07898a )
+)
+
+game (
+	name "Advanced Control Panel v1.02 (1987)(ACP)"
+	description "Advanced Control Panel v1.02 (1987)(ACP)"
+	rom ( name "Advanced Control Panel v1.02 (1987)(ACP).bin" size 16384 crc cba57ba9 md5 736c6c70ab2b52b516bd573f62baa095 )
+)
+
+game (
+	name "Advanced Control Panel v1.03 (1987)(ACP)"
+	description "Advanced Control Panel v1.03 (1987)(ACP)"
+	rom ( name "Advanced Control Panel v1.03 (1987)(ACP).bin" size 16384 crc 61b95aaf md5 b31f2a3e3c316dbb3f1c081277b12707 )
+)
+
+game (
+	name "Advanced Control Panel v1.04 (1987)(ACP)"
+	description "Advanced Control Panel v1.04 (1987)(ACP)"
+	rom ( name "Advanced Control Panel v1.04 (1987)(ACP).bin" size 16384 crc 1ea4e844 md5 772dc9b503d4ea9de96b69e186cf04e6 )
+)
+
+game (
+	name "Advanced Control Panel v3.01 (1988)(PRES)"
+	description "Advanced Control Panel v3.01 (1988)(PRES)"
+	rom ( name "Advanced Control Panel v3.01 (1988)(PRES).bin" size 16384 crc 23ed10e2 md5 2cad8a038be284e7fd7b103a401b2047 )
+)
+
+game (
+	name "Advanced Disk Investigator v1.00 (1986)(ACP)"
+	description "Advanced Disk Investigator v1.00 (1986)(ACP)"
+	rom ( name "Advanced Disk Investigator v1.00 (1986)(ACP).bin" size 16384 crc cb3ce1b2 md5 20525e4f16a0f94430690dcfb05e971b )
+)
+
+game (
+	name "Advanced Disk Investigator v1.00 (1986)(ACP)[a]"
+	description "Advanced Disk Investigator v1.00 (1986)(ACP)[a]"
+	rom ( name "Advanced Disk Investigator v1.00 (1986)(ACP)[a].bin" size 16384 crc acfe8428 md5 ef67029e878a0ab8039b170c02c1f33d )
+)
+
+game (
+	name "Advanced Disk Investigator v1.00 (1986)(ACP)[a2]"
+	description "Advanced Disk Investigator v1.00 (1986)(ACP)[a2]"
+	rom ( name "Advanced Disk Investigator v1.00 (1986)(ACP)[a2].bin" size 16384 crc 87e7242f md5 d3558653fdfd1979f448cded5a73dd32 )
+)
+
+game (
+	name "Advanced Disk Investigator v1.10 (1986)(ACP)[h]"
+	description "Advanced Disk Investigator v1.10 (1986)(ACP)[h]"
+	rom ( name "Advanced Disk Investigator v1.10 (1986)(ACP)[h].bin" size 16384 crc 9cad0cb1 md5 3020459205aeaba99cbcf30d97cb47e2 )
+)
+
+game (
+	name "Advanced Disk Investigator v1.20 (1986)(ACP)"
+	description "Advanced Disk Investigator v1.20 (1986)(ACP)"
+	rom ( name "Advanced Disk Investigator v1.20 (1986)(ACP).bin" size 16384 crc 41ce3b44 md5 b281034860e51581a83a8fb7cb041cf1 )
+)
+
+game (
+	name "Advanced Disk Investigator v1.20 (1986)(ACP)[h]"
+	description "Advanced Disk Investigator v1.20 (1986)(ACP)[h]"
+	rom ( name "Advanced Disk Investigator v1.20 (1986)(ACP)[h].bin" size 16384 crc 4c932687 md5 ad486134dd54b3ee6aa97992d39c2475 )
+)
+
+game (
+	name "Advanced Disk Investigator v1.22 (1986)(ACP)[h]"
+	description "Advanced Disk Investigator v1.22 (1986)(ACP)[h]"
+	rom ( name "Advanced Disk Investigator v1.22 (1986)(ACP)[h].bin" size 16384 crc 68650e7b md5 99ee57a6a09a735b6ada4196b6a03c14 )
+)
+
+game (
+	name "Advanced Disk Investigator v2.00 (1988)(PRES)"
+	description "Advanced Disk Investigator v2.00 (1988)(PRES)"
+	rom ( name "Advanced Disk Investigator v2.00 (1988)(PRES).bin" size 16384 crc 78d06e56 md5 eb0804c8d8c372eac6753b2d6020366c )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.20 (1985)(ACP)"
+	description "Advanced Disk Toolkit v1.20 (1985)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.20 (1985)(ACP).bin" size 16384 crc 6b6361e0 md5 b4656da70a64a0880c81d48830c22ca9 )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.40 (1985)(ACP)[h]"
+	description "Advanced Disk Toolkit v1.40 (1985)(ACP)[h]"
+	rom ( name "Advanced Disk Toolkit v1.40 (1985)(ACP)[h].bin" size 16384 crc 8314fed0 md5 06c4104c60e6eacd29cc87d54aa7d224 )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.50 (1985)(ACP)"
+	description "Advanced Disk Toolkit v1.50 (1985)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.50 (1985)(ACP).bin" size 16384 crc 974eeaaf md5 29f11f81870f5aecefa2bee2e9154593 )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.60 (1985)(ACP)"
+	description "Advanced Disk Toolkit v1.60 (1985)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.60 (1985)(ACP).bin" size 16384 crc 23f253b1 md5 e492a67d9aa23af542393f14cbb3e8bd )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.72 (1986)(ACP)"
+	description "Advanced Disk Toolkit v1.72 (1986)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.72 (1986)(ACP).bin" size 16384 crc 6b2f5169 md5 96bd78a36dd10f362bf68fc84f2abf2e )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.74 (1986)(ACP)"
+	description "Advanced Disk Toolkit v1.74 (1986)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.74 (1986)(ACP).bin" size 16384 crc 8a410218 md5 ef42555cf1245fb218e79a473e684a8d )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.75 (1986)(ACP)"
+	description "Advanced Disk Toolkit v1.75 (1986)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.75 (1986)(ACP).bin" size 16384 crc 3a9ee778 md5 b8e2f5bb0a3d6bde653cda9fdf2f8d94 )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.76 (1986)(ACP)"
+	description "Advanced Disk Toolkit v1.76 (1986)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.76 (1986)(ACP).bin" size 16384 crc 41f8cb65 md5 8004790a3071037c39bcf35e9db24b70 )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.76 (1986)(ACP)[h]"
+	description "Advanced Disk Toolkit v1.76 (1986)(ACP)[h]"
+	rom ( name "Advanced Disk Toolkit v1.76 (1986)(ACP)[h].bin" size 16384 crc 4fec1cdb md5 569332f92fd607c64226c85d7924944d )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.77 (1986)(ACP)[h]"
+	description "Advanced Disk Toolkit v1.77 (1986)(ACP)[h]"
+	rom ( name "Advanced Disk Toolkit v1.77 (1986)(ACP)[h].bin" size 16384 crc f26bbdc3 md5 79ebdf4f953f8781ade1f3fe243d85bd )
+)
+
+game (
+	name "Advanced Disk Toolkit v1.78 (1986)(ACP)"
+	description "Advanced Disk Toolkit v1.78 (1986)(ACP)"
+	rom ( name "Advanced Disk Toolkit v1.78 (1986)(ACP).bin" size 16384 crc a75ac03f md5 4b074920e75e94b8da14f88dffff37c7 )
+)
+
+game (
+	name "Advanced Disk Toolkit v2.00 (1988)(PRES)"
+	description "Advanced Disk Toolkit v2.00 (1988)(PRES)"
+	rom ( name "Advanced Disk Toolkit v2.00 (1988)(PRES).bin" size 16384 crc 58280631 md5 ee15c90b4432b53cdf8a9a60e53b44f8 )
+)
+
+game (
+	name "Advanced Printer Buffer v1.01 (1986)(ACP)"
+	description "Advanced Printer Buffer v1.01 (1986)(ACP)"
+	rom ( name "Advanced Printer Buffer v1.01 (1986)(ACP).bin" size 8192 crc a323c1c4 md5 267541cb69f8b61fa97eb790086b7d4f )
+)
+
+game (
+	name "Advanced RAM Utils (1985)(Sandy & Andy Productions)"
+	description "Advanced RAM Utils (1985)(Sandy & Andy Productions)"
+	rom ( name "Advanced RAM Utils (1985)(Sandy & Andy Productions).bin" size 16384 crc 463adf82 md5 b026dc6417c6149629c193b406b4c209 )
+)
+
+game (
+	name "Advanced ROM Manager v1.00 (1986)(ACP)"
+	description "Advanced ROM Manager v1.00 (1986)(ACP)"
+	rom ( name "Advanced ROM Manager v1.00 (1986)(ACP).bin" size 16384 crc e7e2a294 md5 684c4a99a0e5f7899a4ba2040de3ad83 )
+)
+
+game (
+	name "Advanced ROM Manager v1.13 (1986)(ACP)"
+	description "Advanced ROM Manager v1.13 (1986)(ACP)"
+	rom ( name "Advanced ROM Manager v1.13 (1986)(ACP).bin" size 8192 crc 71827a15 md5 94ad2c29eadb60b258cbf879682f2b9b )
+)
+
+game (
+	name "Advanced ROM Manager v1.13 (1986)(ACP)[h]"
+	description "Advanced ROM Manager v1.13 (1986)(ACP)[h]"
+	rom ( name "Advanced ROM Manager v1.13 (1986)(ACP)[h].bin" size 8192 crc 0ce897c9 md5 2503f5934aa14ff7e25c584be816ef8f )
+)
+
+game (
+	name "Aerodrome Training Aid v1.4 (1986)(Crown)"
+	description "Aerodrome Training Aid v1.4 (1986)(Crown)"
+	rom ( name "Aerodrome Training Aid v1.4 (1986)(Crown).bin" size 16384 crc 2d4b41f0 md5 1d8d6d20319fdd32bf3653afd58fe286 )
+)
+
+game (
+	name "AFM v1.07 (1988)(PRES)"
+	description "AFM v1.07 (1988)(PRES)"
+	rom ( name "AFM v1.07 (1988)(PRES).bin" size 16384 crc 802a05f3 md5 da4a92e79368715a13f69ff0063dcfc7 )
+)
+
+game (
+	name "AFM v1.09 (19xx)(-)"
+	description "AFM v1.09 (19xx)(-)"
+	rom ( name "AFM v1.09 (19xx)(-).bin" size 16384 crc 70f16dc8 md5 63395b87fa355d4ad4d1dea6b6413f21 )
+)
+
+game (
+	name "AID v1.21 (1983)(Curtress, N.)"
+	description "AID v1.21 (1983)(Curtress, N.)"
+	rom ( name "AID v1.21 (1983)(Curtress, N.).bin" size 8192 crc 587d6f3d md5 729c8a68f6ef42d9bc191c7124b236cb )
+)
+
+game (
+	name "AIDS v1.0 (1983)(SoftSmith)"
+	description "AIDS v1.0 (1983)(SoftSmith)"
+	rom ( name "AIDS v1.0 (1983)(SoftSmith).bin" size 8192 crc e1f2bad7 md5 9f602f29f900d8d0288396dd3841847c )
+)
+
+game (
+	name "Alan's Tools (1986)(Usersoft)"
+	description "Alan's Tools (1986)(Usersoft)"
+	rom ( name "Alan's Tools (1986)(Usersoft).bin" size 16384 crc 7c79c5a4 md5 938e0f00cc190be531c698175c4c1ba5 )
+)
+
+game (
+	name "AMAX v1.2 (1986)(Elliot)"
+	description "AMAX v1.2 (1986)(Elliot)"
+	rom ( name "AMAX v1.2 (1986)(Elliot).bin" size 16384 crc c0773405 md5 5c1909848052bc50fa27e9faa8345281 )
+)
+
+game (
+	name "Amcom DFS 00000 (19xx)(Amcom)"
+	description "Amcom DFS 00000 (19xx)(Amcom)"
+	rom ( name "Amcom DFS 00000 (19xx)(Amcom).bin" size 8192 crc 28947e95 md5 9dd72823c9c2f2919f9009b70ffc56c0 )
+)
+
+game (
+	name "Amcom DFS A7259 (19xx)(Amcom)"
+	description "Amcom DFS A7259 (19xx)(Amcom)"
+	rom ( name "Amcom DFS A7259 (19xx)(Amcom).bin" size 8192 crc a3366a98 md5 e4247b61e6f1c348177fddcfcd26e1f3 )
+)
+
+game (
+	name "Amcom DFS B4084 (19xx)(Amcom)"
+	description "Amcom DFS B4084 (19xx)(Amcom)"
+	rom ( name "Amcom DFS B4084 (19xx)(Amcom).bin" size 8192 crc 487b049b md5 2b6825489151ce52cf133ff918338995 )
+)
+
+game (
+	name "Amcom E-Net v4.55 (19xx)(Amcom)"
+	description "Amcom E-Net v4.55 (19xx)(Amcom)"
+	rom ( name "Amcom E-Net v4.55 (19xx)(Amcom).bin" size 8192 crc 597ec355 md5 c2b8f5504d43ac7343c822fde295edb3 )
+)
+
+game (
+	name "Amcom E-Net v5.17 (19xx)(Amcom)"
+	description "Amcom E-Net v5.17 (19xx)(Amcom)"
+	rom ( name "Amcom E-Net v5.17 (19xx)(Amcom).bin" size 16384 crc 4fc809c7 md5 6fbeccefc65e12a6367f2f3277c3412e )
+)
+
+game (
+	name "Amcom E-Net v6.23m (1986)(Amcom)"
+	description "Amcom E-Net v6.23m (1986)(Amcom)"
+	rom ( name "Amcom E-Net v6.23m (1986)(Amcom).bin" size 16384 crc 961e6f87 md5 12c76a96c1967a5697559167affc550f )
+)
+
+game (
+	name "Ample Nucleus v1.00 (1986)(Hybrid Technology)"
+	description "Ample Nucleus v1.00 (1986)(Hybrid Technology)"
+	rom ( name "Ample Nucleus v1.00 (1986)(Hybrid Technology).bin" size 16384 crc 1d806bb6 md5 ca18eaf339157da7fda26e481b789320 )
+)
+
+game (
+	name "AMS Disc Utility v0.1 (1983)(AMS)"
+	description "AMS Disc Utility v0.1 (1983)(AMS)"
+	rom ( name "AMS Disc Utility v0.1 (1983)(AMS).bin" size 8192 crc 12b48a12 md5 b05c38e9c0d063887e40ea56b64892d8 )
+)
+
+game (
+	name "AMS Disc Utility v0.1 (1983)(AMS)[a]"
+	description "AMS Disc Utility v0.1 (1983)(AMS)[a]"
+	rom ( name "AMS Disc Utility v0.1 (1983)(AMS)[a].bin" size 8191 crc 0c093246 md5 3fe6717f4d37a5d32a5b33a9c2390da6 )
+)
+
+game (
+	name "AMT v1.04 (1983)(Harris, P.)"
+	description "AMT v1.04 (1983)(Harris, P.)"
+	rom ( name "AMT v1.04 (1983)(Harris, P.).bin" size 16383 crc 70d6693c md5 d376ebe2260914d14abf448bf8e29c4c )
+)
+
+game (
+	name "AMX Design v1.00 (1987)(Stylus)"
+	description "AMX Design v1.00 (1987)(Stylus)"
+	rom ( name "AMX Design v1.00 (1987)(Stylus).bin" size 16384 crc b8ab60bd md5 4fa05764abfe45eb322c7df8f8da510e )
+)
+
+game (
+	name "AMX Mouse Support v2.1 (1984)(AMS - Elliot)"
+	description "AMX Mouse Support v2.1 (1984)(AMS - Elliot)"
+	rom ( name "AMX Mouse Support v2.1 (1984)(AMS - Elliot).bin" size 8192 crc 921b9390 md5 f969b255844a7abf39eeb15a6263f89c )
+)
+
+game (
+	name "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a]"
+	description "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a]"
+	rom ( name "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a].bin" size 16384 crc 02d28676 md5 31abfacfa3f99939973c8638e51b90b8 )
+)
+
+game (
+	name "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a2]"
+	description "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a2]"
+	rom ( name "AMX Mouse Support v2.1 (1984)(AMS - Elliot)[a2].bin" size 8192 crc 13aaeaf1 md5 3c261df52cbde68a7685522058a131d2 )
+)
+
+game (
+	name "AMX Mouse Support v3.31 (1985)(Elliot)"
+	description "AMX Mouse Support v3.31 (1985)(Elliot)"
+	rom ( name "AMX Mouse Support v3.31 (1985)(Elliot).bin" size 16384 crc 25103b13 md5 fa4663b916790e3f80258267c74025b7 )
+)
+
+game (
+	name "AMX Mouse Support v3.31 (1985)(Elliot)[a]"
+	description "AMX Mouse Support v3.31 (1985)(Elliot)[a]"
+	rom ( name "AMX Mouse Support v3.31 (1985)(Elliot)[a].bin" size 16384 crc 482ec69c md5 b026f158f7cc003a6d2e33094a05b4b8 )
+)
+
+game (
+	name "AMX Mouse Support v3.31 (1985)(Elliot)[a2]"
+	description "AMX Mouse Support v3.31 (1985)(Elliot)[a2]"
+	rom ( name "AMX Mouse Support v3.31 (1985)(Elliot)[a2].bin" size 16384 crc d2959d5f md5 ac8c541b71e3263b9bdd93cc6ba22eaf )
+)
+
+game (
+	name "AMX Mouse Support v3.61 (1986)(Elliot)"
+	description "AMX Mouse Support v3.61 (1986)(Elliot)"
+	rom ( name "AMX Mouse Support v3.61 (1986)(Elliot).bin" size 16384 crc 547417f3 md5 795e2c16a8b06fad88b7c87f799bb638 )
+)
+
+game (
+	name "AMX Pagemaker Support ROM (1985)(Tecnation)"
+	description "AMX Pagemaker Support ROM (1985)(Tecnation)"
+	rom ( name "AMX Pagemaker Support ROM (1985)(Tecnation).bin" size 8192 crc 8e3a783b md5 fc943ecc83cd8e6c242be38dad94f758 )
+)
+
+game (
+	name "AMX Pagemaker Support ROM v1.2 (1985)(Tecnation)"
+	description "AMX Pagemaker Support ROM v1.2 (1985)(Tecnation)"
+	rom ( name "AMX Pagemaker Support ROM v1.2 (1985)(Tecnation).bin" size 16384 crc 8c4e6d87 md5 b647d28ffae0abd634b4620d31914df9 )
+)
+
+game (
+	name "AMX Pagemaker v1.0 (1985)(Tecnation)"
+	description "AMX Pagemaker v1.0 (1985)(Tecnation)"
+	rom ( name "AMX Pagemaker v1.0 (1985)(Tecnation).bin" size 16384 crc a283732b md5 227229722400299a579cbd5022299b54 )
+)
+
+game (
+	name "AMX Stop Press Support v1.9 (1987)(Tecnation)"
+	description "AMX Stop Press Support v1.9 (1987)(Tecnation)"
+	rom ( name "AMX Stop Press Support v1.9 (1987)(Tecnation).bin" size 16384 crc 21cb5808 md5 a538eb6e6337017ec851db7ab4fc50b1 )
+)
+
+game (
+	name "AMX Stop Press v1.9 (1987)(Tecnation)"
+	description "AMX Stop Press v1.9 (1987)(Tecnation)"
+	rom ( name "AMX Stop Press v1.9 (1987)(Tecnation).bin" size 16384 crc 900716e1 md5 4aa7313ff6faaa8fe26ae724960b0a65 )
+)
+
+game (
+	name "ANFS 4.21 (1986)(Acorn)"
+	description "ANFS 4.21 (1986)(Acorn)"
+	rom ( name "ANFS 4.21 (1986)(Acorn).bin" size 16384 crc 5ce00a41 md5 03371d224a8f048c129335682434d025 )
+)
+
+game (
+	name "ANFS 4.25 (1986)(Acorn)"
+	description "ANFS 4.25 (1986)(Acorn)"
+	rom ( name "ANFS 4.25 (1986)(Acorn).bin" size 16384 crc c2a6655e md5 306cb8ff6622dbfc79dc487ac4e407e1 )
+)
+
+game (
+	name "APB v1.01 (1986)(ACP)"
+	description "APB v1.01 (1986)(ACP)"
+	rom ( name "APB v1.01 (1986)(ACP).bin" size 1626 crc 8be1a45b md5 080c6ab612ab45b02d062ddf4b59e15a )
+)
+
+game (
+	name "Arabic v1.00 (19xx)(ALK)"
+	description "Arabic v1.00 (19xx)(ALK)"
+	rom ( name "Arabic v1.00 (19xx)(ALK).bin" size 16384 crc 94895cd3 md5 8be9387adf2a57fd88700164e1c6e6c9 )
+)
+
+game (
+	name "Aries B20 v2.2 (1983)(Barne, D. - Jordan, C.)"
+	description "Aries B20 v2.2 (1983)(Barne, D. - Jordan, C.)"
+	rom ( name "Aries B20 v2.2 (1983)(Barne, D. - Jordan, C.).bin" size 8192 crc c2f334a9 md5 90022a034825b4c82578c5aa3d726626 )
+)
+
+game (
+	name "AROM (19xx)(Davies, E. - Davies, P.)"
+	description "AROM (19xx)(Davies, E. - Davies, P.)"
+	rom ( name "AROM (19xx)(Davies, E. - Davies, P.).bin" size 8192 crc 58557a8c md5 4c6265c73a0dea4799c3193de1850f40 )
+)
+
+game (
+	name "Artist (1986)(Davies, E.)"
+	description "Artist (1986)(Davies, E.)"
+	rom ( name "Artist (1986)(Davies, E.).bin" size 16384 crc fbbfeabc md5 8b432f55cd50e2bacf47f11928272462 )
+)
+
+game (
+	name "Arts (1983)(-)"
+	description "Arts (1983)(-)"
+	rom ( name "Arts (1983)(-).bin" size 8192 crc d21ef847 md5 a3724d0570d7edd68dee8fafa807cdcf )
+)
+
+game (
+	name "ASM v1.1 (19xx)(PRES)"
+	description "ASM v1.1 (19xx)(PRES)"
+	rom ( name "ASM v1.1 (19xx)(PRES).bin" size 8192 crc 055fe924 md5 8afdb85b58053bd4be7e38388ff425c5 )
+)
+
+game (
+	name "ASROM Switch v3.10 (1985)(Astonsoft)"
+	description "ASROM Switch v3.10 (1985)(Astonsoft)"
+	rom ( name "ASROM Switch v3.10 (1985)(Astonsoft).bin" size 8192 crc a2dfb093 md5 5c4aa4f20906fe52879a89126f26e5cb )
+)
+
+game (
+	name "ATPL Mouse Pac Driver v1.2 (19xx)(ATPL)"
+	description "ATPL Mouse Pac Driver v1.2 (19xx)(ATPL)"
+	rom ( name "ATPL Mouse Pac Driver v1.2 (19xx)(ATPL).bin" size 8192 crc e6f5ac88 md5 3ce2d59880fa664871d1299f1540fdf7 )
+)
+
+game (
+	name "ATS v2.58 (19xx)(BBC)"
+	description "ATS v2.58 (19xx)(BBC)"
+	rom ( name "ATS v2.58 (19xx)(BBC).bin" size 16384 crc 2eb236ac md5 41f31ac5a3bedf7f7969b4d2c1217ad1 )
+)
+
+game (
+	name "ATS v2.59 (1987)(BBC)"
+	description "ATS v2.59 (1987)(BBC)"
+	rom ( name "ATS v2.59 (1987)(BBC).bin" size 16384 crc bb667bcf md5 8279e357ddd35d556789daa3ab7a5464 )
+)
+
+game (
+	name "AutoROM GM40FC RFS v1.00 (19xx)(-)"
+	description "AutoROM GM40FC RFS v1.00 (19xx)(-)"
+	rom ( name "AutoROM GM40FC RFS v1.00 (19xx)(-).bin" size 16384 crc 3e7e2814 md5 fe5706e24cab0e66367227d860b57a96 )
+)
+
+game (
+	name "AutoSave BASIC File (1986)(Horsington, Gordon)"
+	description "AutoSave BASIC File (1986)(Horsington, Gordon)"
+	rom ( name "AutoSave BASIC File (1986)(Horsington, Gordon).bin" size 16384 crc 20fecd2d md5 f7b25b67c5c1099e875b54624a1cba95 )
+)
+
+game (
+	name "BASIC (1981)(Acorn)"
+	description "BASIC (1981)(Acorn)"
+	rom ( name "BASIC (1981)(Acorn).bin" size 16384 crc b3364108 md5 521a197d3623682825f1042c1350feb4 )
+)
+
+game (
+	name "BASIC (1982)(Acorn)"
+	description "BASIC (1982)(Acorn)"
+	rom ( name "BASIC (1982)(Acorn).bin" size 32768 crc 9f356396 md5 0eb58f70c443a603762a634f2a239418 )
+)
+
+game (
+	name "BASIC 2 (1982)(Acorn)"
+	description "BASIC 2 (1982)(Acorn)"
+	rom ( name "BASIC 2 (1982)(Acorn).bin" size 16384 crc 79434781 md5 2cc67be4624df4dc66617742571a8e3d )
+)
+
+game (
+	name "BASIC 2 (1982)(Acorn)[a]"
+	description "BASIC 2 (1982)(Acorn)[a]"
+	rom ( name "BASIC 2 (1982)(Acorn)[a].bin" size 32768 crc f1417e1f md5 9400e534b0c55c8f8c97f8c12767263d )
+)
+
+game (
+	name "BASIC 2 65C02 (1982)(Acorn)"
+	description "BASIC 2 65C02 (1982)(Acorn)"
+	rom ( name "BASIC 2 65C02 (1982)(Acorn).bin" size 16384 crc 14ed1f28 md5 630f368aee0841febebb25e8c3c46ea7 )
+)
+
+game (
+	name "BASIC 3 (1983)(Acorn)"
+	description "BASIC 3 (1983)(Acorn)"
+	rom ( name "BASIC 3 (1983)(Acorn).bin" size 16384 crc 6ea7affc md5 68e79c8b6f46aa4f07a6dd687897229c )
+)
+
+game (
+	name "BASIC 4 (1984)(Acorn)"
+	description "BASIC 4 (1984)(Acorn)"
+	rom ( name "BASIC 4 (1984)(Acorn).bin" size 16384 crc 805529c7 md5 63a6f43cbf491533cb03ceca2d2728d4 )
+)
+
+game (
+	name "BASIC 4 (1984)(Acorn)[a]"
+	description "BASIC 4 (1984)(Acorn)[a]"
+	rom ( name "BASIC 4 (1984)(Acorn)[a].bin" size 16384 crc e08c3d53 md5 ff26ac3dfc49867e5cba5c2f33810942 )
+)
+
+game (
+	name "BASIC 4 (1986)(Acorn)[a2]"
+	description "BASIC 4 (1986)(Acorn)[a2]"
+	rom ( name "BASIC 4 (1986)(Acorn)[a2].bin" size 16384 crc c0ddabc4 md5 64b3cd52e36b5262ac6ca3a9823c6ee2 )
+)
+
+game (
+	name "BASIC Booster (1989)(Beebug)"
+	description "BASIC Booster (1989)(Beebug)"
+	rom ( name "BASIC Booster (1989)(Beebug).bin" size 8192 crc faff1bfa md5 98843393e220d034af5cf82663128706 )
+)
+
+game (
+	name "BASIC Editor v1.32 (1984)(Acornsoft)"
+	description "BASIC Editor v1.32 (1984)(Acornsoft)"
+	rom ( name "BASIC Editor v1.32 (1984)(Acornsoft).bin" size 16384 crc d6a9b4ba md5 621e1a431cfc133037bb7434fdeab9fa )
+)
+
+game (
+	name "BASIC Editor v1.32 (1984)(Acornsoft)[a]"
+	description "BASIC Editor v1.32 (1984)(Acornsoft)[a]"
+	rom ( name "BASIC Editor v1.32 (1984)(Acornsoft)[a].bin" size 16384 crc 1d8c88aa md5 102750302172edbc3b7d3b2f61ba42ed )
+)
+
+game (
+	name "BASIC Extensions v1.20 (1984)(Florance, R. - Harrison, R.)"
+	description "BASIC Extensions v1.20 (1984)(Florance, R. - Harrison, R.)"
+	rom ( name "BASIC Extensions v1.20 (1984)(Florance, R. - Harrison, R.).bin" size 8192 crc 0b992012 md5 56227c78c47504360f1572479d788f35 )
+)
+
+game (
+	name "BBC Terminal - Control Rom v0.23 (1983)(Cambridge)"
+	description "BBC Terminal - Control Rom v0.23 (1983)(Cambridge)"
+	rom ( name "BBC Terminal - Control Rom v0.23 (1983)(Cambridge).bin" size 8192 crc 32f9f7a7 md5 32ffe50b55604f8fc5cfb5c8335e96b3 )
+)
+
+game (
+	name "BCPL v7.0 (1982)(Richards Computer Products)"
+	description "BCPL v7.0 (1982)(Richards Computer Products)"
+	rom ( name "BCPL v7.0 (1982)(Richards Computer Products).bin" size 16384 crc 81c373b2 md5 3eb572ee49cf95e04f2793e25d89dacd )
+)
+
+game (
+	name "Beast v1.7 (19xx)(-)"
+	description "Beast v1.7 (19xx)(-)"
+	rom ( name "Beast v1.7 (19xx)(-).bin" size 8192 crc 03a3fe7e md5 c7344a4888aafae1595ad80ed64616f3 )
+)
+
+game (
+	name "BeeBASE v1.06 (1983)(Rae, T.)"
+	description "BeeBASE v1.06 (1983)(Rae, T.)"
+	rom ( name "BeeBASE v1.06 (1983)(Rae, T.).bin" size 8192 crc d80c6bcd md5 5f71f0d3ea90bf07355be3b9f9857d58 )
+)
+
+game (
+	name "BeeBASE v1.07 (1984)(Rae, T.)"
+	description "BeeBASE v1.07 (1984)(Rae, T.)"
+	rom ( name "BeeBASE v1.07 (1984)(Rae, T.).bin" size 8192 crc c3203fce md5 18140430884b472c8f39d716f6900456 )
+)
+
+game (
+	name "BeebCalc v1.2B (19xx)(-)"
+	description "BeebCalc v1.2B (19xx)(-)"
+	rom ( name "BeebCalc v1.2B (19xx)(-).bin" size 8192 crc 5df48818 md5 1358a7c792732372346660e2cad32e9f )
+)
+
+game (
+	name "BeebCalc v1.2D (19xx)(-)"
+	description "BeebCalc v1.2D (19xx)(-)"
+	rom ( name "BeebCalc v1.2D (19xx)(-).bin" size 8192 crc 7a1a0b48 md5 3066317e2951bed745c659312b418449 )
+)
+
+game (
+	name "BeebCalc v1.2E (19xx)(-)"
+	description "BeebCalc v1.2E (19xx)(-)"
+	rom ( name "BeebCalc v1.2E (19xx)(-).bin" size 8192 crc df656c8e md5 0ff09bce4b05bd0209cf45f8a3c95682 )
+)
+
+game (
+	name "BeebCOM (1986)(Brutantals)"
+	description "BeebCOM (1986)(Brutantals)"
+	rom ( name "BeebCOM (1986)(Brutantals).bin" size 10261 crc 09067c69 md5 c76f7d51214e3a55ad5b509109a70333 )
+)
+
+game (
+	name "BeebFlex CUBE 6809 Monitor (1984)(Control Universal)"
+	description "BeebFlex CUBE 6809 Monitor (1984)(Control Universal)"
+	rom ( name "BeebFlex CUBE 6809 Monitor (1984)(Control Universal).bin" size 8192 crc d9abe16b md5 9f155d5c7524b6ced897a6a3135c6bf3 )
+)
+
+game (
+	name "BeebFont (19xx)(Watford Electronics)"
+	description "BeebFont (19xx)(Watford Electronics)"
+	rom ( name "BeebFont (19xx)(Watford Electronics).bin" size 16384 crc 9711cb10 md5 945a7f86de8a4b6cd2bff1425eaa0a8e )
+)
+
+game (
+	name "BeebFont (19xx)(Watford Electronics)[a]"
+	description "BeebFont (19xx)(Watford Electronics)[a]"
+	rom ( name "BeebFont (19xx)(Watford Electronics)[a].bin" size 16384 crc eef67e99 md5 40cdd5aca968e2d0cf169b603a4a8319 )
+)
+
+game (
+	name "BeebMan v1.2 (1985)(Slogger)"
+	description "BeebMan v1.2 (1985)(Slogger)"
+	rom ( name "BeebMan v1.2 (1985)(Slogger).bin" size 8192 crc 1879117f md5 ad49a3b1510f8c3c8307e527bc4f2861 )
+)
+
+game (
+	name "BeebMon (1983)(Bray, A.C.)"
+	description "BeebMon (1983)(Bray, A.C.)"
+	rom ( name "BeebMon (1983)(Bray, A.C.).bin" size 8192 crc aa71ac07 md5 42a193d1b474fbac5de6744794cc9e2e )
+)
+
+game (
+	name "BeebPen v1.1 (1983)(Braintech)"
+	description "BeebPen v1.1 (1983)(Braintech)"
+	rom ( name "BeebPen v1.1 (1983)(Braintech).bin" size 8192 crc 0d34fbb4 md5 04b6414a6379d91bb01a266637e53d81 )
+)
+
+game (
+	name "BeebROM v1.00 (1983)(Soft, H.)"
+	description "BeebROM v1.00 (1983)(Soft, H.)"
+	rom ( name "BeebROM v1.00 (1983)(Soft, H.).bin" size 8192 crc cee8b36d md5 f7eefde33cb26b8750b5fad957e391b6 )
+)
+
+game (
+	name "BeebTel v2.00 (19xx)(Turtle)"
+	description "BeebTel v2.00 (19xx)(Turtle)"
+	rom ( name "BeebTel v2.00 (19xx)(Turtle).bin" size 16384 crc 46a738e0 md5 29f29f932c93dc7cb51530da7cdcefb3 )
+)
+
+game (
+	name "Bitstik ROM v2 (1985)(Robocom)"
+	description "Bitstik ROM v2 (1985)(Robocom)"
+	rom ( name "Bitstik ROM v2 (1985)(Robocom).bin" size 8192 crc a2b5a743 md5 c196c145b3de630f85f625ca762e5504 )
+)
+
+game (
+	name "Bitstik Service ROM v1.0 (19xx)(Robocom)"
+	description "Bitstik Service ROM v1.0 (19xx)(Robocom)"
+	rom ( name "Bitstik Service ROM v1.0 (19xx)(Robocom).bin" size 8192 crc a3c539f8 md5 baf5cb5564ff6e6b4400243e7612f323 )
+)
+
+game (
+	name "Blower (19xx)(Williams, G.P.)"
+	description "Blower (19xx)(Williams, G.P.)"
+	rom ( name "Blower (19xx)(Williams, G.P.).bin" size 16384 crc 736c480d md5 a3bf1663314dc207679d0df39d45e222 )
+)
+
+game (
+	name "BROM Plus v1.02 (1986)(Harley, B.)"
+	description "BROM Plus v1.02 (1986)(Harley, B.)"
+	rom ( name "BROM Plus v1.02 (1986)(Harley, B.).bin" size 16384 crc f4999360 md5 073ae0f675db3b92eacb1a8cf1f1e6bd )
+)
+
+game (
+	name "Buffer and Backup ROM (19xx)(Watford Electronics)"
+	description "Buffer and Backup ROM (19xx)(Watford Electronics)"
+	rom ( name "Buffer and Backup ROM (19xx)(Watford Electronics).bin" size 8192 crc 2b29750d md5 800a835a37009a158ca5ae0d82ca7257 )
+)
+
+game (
+	name "Buffer v1.0 (19xx)(Lawrence, D.)"
+	description "Buffer v1.0 (19xx)(Lawrence, D.)"
+	rom ( name "Buffer v1.0 (19xx)(Lawrence, D.).bin" size 768 crc 346ef313 md5 1e42ed62aea0cad0279bfaff17393fd7 )
+)
+
+game (
+	name "Caretaker v1.00 (1984)(Computer Concepts)"
+	description "Caretaker v1.00 (1984)(Computer Concepts)"
+	rom ( name "Caretaker v1.00 (1984)(Computer Concepts).bin" size 8192 crc 865e9b1d md5 e4cc55efb40cbe49df5ff247da2f9d73 )
+)
+
+game (
+	name "Caretaker v1.00 (1984)(Computer Concepts)[a]"
+	description "Caretaker v1.00 (1984)(Computer Concepts)[a]"
+	rom ( name "Caretaker v1.00 (1984)(Computer Concepts)[a].bin" size 8192 crc 4e920514 md5 907c839e45ee706b3a535e6784224b5a )
+)
+
+game (
+	name "Caretaker v1.02 (1984)(Computer Concepts)"
+	description "Caretaker v1.02 (1984)(Computer Concepts)"
+	rom ( name "Caretaker v1.02 (1984)(Computer Concepts).bin" size 8192 crc 3e7b5c87 md5 d502a21862d41550fd34b20b074b4a40 )
+)
+
+game (
+	name "Caretaker v1.03 (1984)(Computer Concepts)"
+	description "Caretaker v1.03 (1984)(Computer Concepts)"
+	rom ( name "Caretaker v1.03 (1984)(Computer Concepts).bin" size 8192 crc e5a62978 md5 693ff99c4f6a9ef2dfc78f6180b20484 )
+)
+
+game (
+	name "Cartridge - 64k (1987)(Peartree Technology)"
+	description "Cartridge - 64k (1987)(Peartree Technology)"
+	rom ( name "Cartridge - 64k (1987)(Peartree Technology).bin" size 16384 crc 28b4e469 md5 7a4b7a686617439b288b7970753c66f2 )
+)
+
+game (
+	name "CCCPN v1.02 (1982)(Torch)"
+	description "CCCPN v1.02 (1982)(Torch)"
+	rom ( name "CCCPN v1.02 (1982)(Torch).bin" size 8192 crc 334212ac md5 820dbbcbcab6c5768ed1754539d560af )
+)
+
+game (
+	name "CeeFAX Menu v3.00 (19xx)(Cummins, E.)"
+	description "CeeFAX Menu v3.00 (19xx)(Cummins, E.)"
+	rom ( name "CeeFAX Menu v3.00 (19xx)(Cummins, E.).bin" size 16384 crc c72602b6 md5 9cee0e8211656e37af1f7e87399cca7c )
+)
+
+game (
+	name "Centurion v1.03 (1987)(Chalice)"
+	description "Centurion v1.03 (1987)(Chalice)"
+	rom ( name "Centurion v1.03 (1987)(Chalice).bin" size 16384 crc 7fbb0b1b md5 fa165e08ee0e48e7a7e15e4e0a1abc34 )
+)
+
+game (
+	name "Centurion v1.05 (1987)(Chalice)"
+	description "Centurion v1.05 (1987)(Chalice)"
+	rom ( name "Centurion v1.05 (1987)(Chalice).bin" size 16384 crc 5d448b10 md5 1682d03dc7fb001ef2223b165f1fdcf8 )
+)
+
+game (
+	name "Chauffeur (1987)(Nidd Valley)"
+	description "Chauffeur (1987)(Nidd Valley)"
+	rom ( name "Chauffeur (1987)(Nidd Valley).bin" size 16384 crc edfa89c3 md5 3bc2f6847475ef264b516904e8b4f597 )
+)
+
+game (
+	name "Clock & Desk (1986)(STL)"
+	description "Clock & Desk (1986)(STL)"
+	rom ( name "Clock & Desk (1986)(STL).bin" size 16384 crc bc8eb078 md5 0f5fb0ad09bd373062298d81d9bd2628 )
+)
+
+game (
+	name "Clock & Desk (1986)(STL)[a]"
+	description "Clock & Desk (1986)(STL)[a]"
+	rom ( name "Clock & Desk (1986)(STL)[a].bin" size 16384 crc 16a8fde5 md5 e8cad866af43d566c603a8a898825427 )
+)
+
+game (
+	name "COMAL (19xx)(Acorn)"
+	description "COMAL (19xx)(Acorn)"
+	rom ( name "COMAL (19xx)(Acorn).bin" size 16384 crc 99f3b7dc md5 61a1f18300f85b2b1edf20e614e03b6c )
+)
+
+game (
+	name "COMAL (19xx)(Acorn)[a]"
+	description "COMAL (19xx)(Acorn)[a]"
+	rom ( name "COMAL (19xx)(Acorn)[a].bin" size 16384 crc eeb83f6f md5 fb1e6a628e802896fe2b7a9b08803ced )
+)
+
+game (
+	name "COMAL (19xx)(Acorn)[a2]"
+	description "COMAL (19xx)(Acorn)[a2]"
+	rom ( name "COMAL (19xx)(Acorn)[a2].bin" size 16384 crc e1aa54cf md5 2da92e7760254c9a4ada0d35b7b0083e )
+)
+
+game (
+	name "CombiROM v1.10 (1985)(Harley)"
+	description "CombiROM v1.10 (1985)(Harley)"
+	rom ( name "CombiROM v1.10 (1985)(Harley).bin" size 16384 crc 642e004a md5 4c542459c96da57ea41f1d019046e389 )
+)
+
+game (
+	name "Command Master v3.11 (1988)(Beebug)"
+	description "Command Master v3.11 (1988)(Beebug)"
+	rom ( name "Command Master v3.11 (1988)(Beebug).bin" size 16384 crc d0b47d9d md5 f217dd1fe1b84b4eb8a69758acc210a2 )
+)
+
+game (
+	name "Command v1.00 (1986)(Beebug)"
+	description "Command v1.00 (1986)(Beebug)"
+	rom ( name "Command v1.00 (1986)(Beebug).bin" size 16384 crc 50a304c6 md5 4c512f92e17809989cd2c3c2d14a8fe9 )
+)
+
+game (
+	name "Command v1.01 (1987)(Beebug)"
+	description "Command v1.01 (1987)(Beebug)"
+	rom ( name "Command v1.01 (1987)(Beebug).bin" size 16384 crc a40cb72e md5 6007ce1946dcf3c0d5016bd500ecde8f )
+)
+
+game (
+	name "Command v1.04 (1987)(Beebug)"
+	description "Command v1.04 (1987)(Beebug)"
+	rom ( name "Command v1.04 (1987)(Beebug).bin" size 16384 crc 67100043 md5 6b59631d729a85e700b2234896147b1a )
+)
+
+game (
+	name "CommPanion v8.5h (1985)(Soft Machinery)"
+	description "CommPanion v8.5h (1985)(Soft Machinery)"
+	rom ( name "CommPanion v8.5h (1985)(Soft Machinery).bin" size 16384 crc ebfdcf9b md5 3d502c3ef4c03f100b7955308115c259 )
+)
+
+game (
+	name "Comms Demo RFS v1.10 (19xx)(-)"
+	description "Comms Demo RFS v1.10 (19xx)(-)"
+	rom ( name "Comms Demo RFS v1.10 (19xx)(-).bin" size 16384 crc d4eb222a md5 d1db754fd4e471184f78d1e2755920a4 )
+)
+
+game (
+	name "CommSoft v8.6e (1985)(Soft Machinery)"
+	description "CommSoft v8.6e (1985)(Soft Machinery)"
+	rom ( name "CommSoft v8.6e (1985)(Soft Machinery).bin" size 16384 crc 4d1bc757 md5 af9020216b7405d6098b4e1780f310f8 )
+)
+
+game (
+	name "CommStar (1983)(Hood, A.)"
+	description "CommStar (1983)(Hood, A.)"
+	rom ( name "CommStar (1983)(Hood, A.).bin" size 8192 crc 93b2e2d1 md5 80dc79995ca80f197c6534836366d2d7 )
+)
+
+game (
+	name "CommStar 1051 (1983)(Hood, A.)"
+	description "CommStar 1051 (1983)(Hood, A.)"
+	rom ( name "CommStar 1051 (1983)(Hood, A.).bin" size 8192 crc 2016d4b1 md5 bf014eea560c938b55a1a0338906c7d0 )
+)
+
+game (
+	name "CommStar 3033 (1984)(Hood, A.)"
+	description "CommStar 3033 (1984)(Hood, A.)"
+	rom ( name "CommStar 3033 (1984)(Hood, A.).bin" size 8192 crc 4ce2f1f3 md5 85ddfc7cad33fefb0d431dc5ef00cd40 )
+)
+
+game (
+	name "CommStar 6973 (1984)(Hood, A.)"
+	description "CommStar 6973 (1984)(Hood, A.)"
+	rom ( name "CommStar 6973 (1984)(Hood, A.).bin" size 8192 crc 160b5d91 md5 b947223a963ceb4598bf7df1da8dc214 )
+)
+
+game (
+	name "CommStar 8179 (1984)(Hood, A.)"
+	description "CommStar 8179 (1984)(Hood, A.)"
+	rom ( name "CommStar 8179 (1984)(Hood, A.).bin" size 8192 crc 7f2462e7 md5 2efb5f7b5ee024cc0e8994032bac123b )
+)
+
+game (
+	name "CommStar 882A v1.40 (1985)(Hood, A.)"
+	description "CommStar 882A v1.40 (1985)(Hood, A.)"
+	rom ( name "CommStar 882A v1.40 (1985)(Hood, A.).bin" size 8192 crc fc830f9c md5 ecffab519d50f34f459d5f0dbf8e1f7e )
+)
+
+game (
+	name "CommStar 9057 (1985)(Hood, A.)"
+	description "CommStar 9057 (1985)(Hood, A.)"
+	rom ( name "CommStar 9057 (1985)(Hood, A.).bin" size 8192 crc bc9efdaf md5 5b553e97419ab958cf2b27eeee67febd )
+)
+
+game (
+	name "CommStar R032 (1983)(Hood, A.)"
+	description "CommStar R032 (1983)(Hood, A.)"
+	rom ( name "CommStar R032 (1983)(Hood, A.).bin" size 8192 crc cf51e9b5 md5 44b2ba5a8da0b4f372c819d42b729d7d )
+)
+
+game (
+	name "CommStar v2.22 (1986)(Hood, A.)"
+	description "CommStar v2.22 (1986)(Hood, A.)"
+	rom ( name "CommStar v2.22 (1986)(Hood, A.).bin" size 16384 crc 743d9255 md5 784036da164b91daf0b541febe0693b7 )
+)
+
+game (
+	name "CommStar v2.31 (1986)(Hood, A.)"
+	description "CommStar v2.31 (1986)(Hood, A.)"
+	rom ( name "CommStar v2.31 (1986)(Hood, A.).bin" size 16384 crc b5f5f042 md5 40a36fb2d10dc3bd2fabbd4afba08d1d )
+)
+
+game (
+	name "CommStar v2.40 (1986)(Hood, A.)"
+	description "CommStar v2.40 (1986)(Hood, A.)"
+	rom ( name "CommStar v2.40 (1986)(Hood, A.).bin" size 16384 crc 80ce15c0 md5 16b3a60f7263e122551463e16e45fd8c )
+)
+
+game (
+	name "Communicator v0.9 (1983)(Specialist Software Products)"
+	description "Communicator v0.9 (1983)(Specialist Software Products)"
+	rom ( name "Communicator v0.9 (1983)(Specialist Software Products).bin" size 16384 crc 23571dcd md5 def8fba00964f2b7c9f4caddfcb052a4 )
+)
+
+game (
+	name "Communicator v1.04a (1983)(Specialist Software Products)"
+	description "Communicator v1.04a (1983)(Specialist Software Products)"
+	rom ( name "Communicator v1.04a (1983)(Specialist Software Products).bin" size 16384 crc 65a19e0d md5 75ff0b39d76ed2c750f403f528e0cd90 )
+)
+
+game (
+	name "Communicator vA2.1 (1983)(Specialist Software Products)"
+	description "Communicator vA2.1 (1983)(Specialist Software Products)"
+	rom ( name "Communicator vA2.1 (1983)(Specialist Software Products).bin" size 16384 crc b34f47e5 md5 c4aabc317b97f4824099813ea082b82b )
+)
+
+game (
+	name "COMPAS 2D v1.0 (1983)(Autographics)"
+	description "COMPAS 2D v1.0 (1983)(Autographics)"
+	rom ( name "COMPAS 2D v1.0 (1983)(Autographics).bin" size 8192 crc 1e922157 md5 5cc1c38fe6d725998b8c24dc68bbf945 )
+)
+
+game (
+	name "Cookie ROM v0 (1984)(Davies, R.)"
+	description "Cookie ROM v0 (1984)(Davies, R.)"
+	rom ( name "Cookie ROM v0 (1984)(Davies, R.).bin" size 16384 crc f6a260ce md5 8227f5f8aceeef41683b0e05cfea1861 )
+)
+
+game (
+	name "Copyfile v1.00 (19xx)(Prentiss, O.)"
+	description "Copyfile v1.00 (19xx)(Prentiss, O.)"
+	rom ( name "Copyfile v1.00 (19xx)(Prentiss, O.).bin" size 8192 crc 86a0c064 md5 b23a770163887f7e40b7966552699e1a )
+)
+
+game (
+	name "CPR GM4OFC v1.00 (19xx)(-)"
+	description "CPR GM4OFC v1.00 (19xx)(-)"
+	rom ( name "CPR GM4OFC v1.00 (19xx)(-).bin" size 16384 crc 2cdf834f md5 4d964c3caff70c36812fa233f7ec3e40 )
+)
+
+game (
+	name "CP-ROM v1.01 (1985)(Pickering, R.)"
+	description "CP-ROM v1.01 (1985)(Pickering, R.)"
+	rom ( name "CP-ROM v1.01 (1985)(Pickering, R.).bin" size 8192 crc be307c3a md5 01ee1754e18d6a7f7b7e40f84a0df955 )
+)
+
+game (
+	name "CP-ROM v2.00 (1986)(Norwich Computer Services)"
+	description "CP-ROM v2.00 (1986)(Norwich Computer Services)"
+	rom ( name "CP-ROM v2.00 (1986)(Norwich Computer Services).bin" size 16384 crc 70ba1029 md5 e68093ca2dcc29d0c5ec03d586e80dba )
+)
+
+game (
+	name "DA UTIL 1D00 (1994)(-)"
+	description "DA UTIL 1D00 (1994)(-)"
+	rom ( name "DA UTIL 1D00 (1994)(-).bin" size 16384 crc 846a2b99 md5 ca119cbb740c08407abe6e38392eaddb )
+)
+
+game (
+	name "DataBeeb v1.2 (19xx)(-)"
+	description "DataBeeb v1.2 (19xx)(-)"
+	rom ( name "DataBeeb v1.2 (19xx)(-).bin" size 8192 crc 34e7eaa7 md5 abc657547911b1966ff5d32b995d8bf2 )
+)
+
+game (
+	name "DataGem v1.02F (1984)(-)"
+	description "DataGem v1.02F (1984)(-)"
+	rom ( name "DataGem v1.02F (1984)(-).bin" size 16384 crc bfb21e7e md5 516f275cd48816fd5cf4e914cfe17593 )
+)
+
+game (
+	name "DDFS (19xx)(-)"
+	description "DDFS (19xx)(-)"
+	rom ( name "DDFS (19xx)(-).bin" size 16384 crc 4dbbf2af md5 7c8ae5ed34fa7395a6510c3cbc6fd905 )
+)
+
+game (
+	name "DDFS v0.90 (19xx)(Microware)"
+	description "DDFS v0.90 (19xx)(Microware)"
+	rom ( name "DDFS v0.90 (19xx)(Microware).bin" size 16384 crc 700d50e5 md5 1498e4f47127328feed88d39b989d6f5 )
+)
+
+game (
+	name "DDFS v1.9 (19xx)(-)"
+	description "DDFS v1.9 (19xx)(-)"
+	rom ( name "DDFS v1.9 (19xx)(-).bin" size 8192 crc 7b0340c5 md5 f74296fb5ce97223c6a5350a204062d7 )
+)
+
+game (
+	name "DDOS v3.15 (1984)(Slogger)"
+	description "DDOS v3.15 (1984)(Slogger)"
+	rom ( name "DDOS v3.15 (1984)(Slogger).bin" size 16384 crc 5f06701c md5 ac6eb27e4376b5e7eb45c33a54729488 )
+)
+
+game (
+	name "DDOS v3.35 (1984)(Slogger)"
+	description "DDOS v3.35 (1984)(Slogger)"
+	rom ( name "DDOS v3.35 (1984)(Slogger).bin" size 16384 crc e33167fb md5 66e24d0f33e467d3bd0adceee5b24900 )
+)
+
+game (
+	name "DDOS v3.45 (1984)(Slogger)"
+	description "DDOS v3.45 (1984)(Slogger)"
+	rom ( name "DDOS v3.45 (1984)(Slogger).bin" size 16384 crc c0163b95 md5 d98316eaff56ceab4fe3bfe54d2f92b2 )
+)
+
+game (
+	name "Debug v0.01 (1983)(Computer Concepts)"
+	description "Debug v0.01 (1983)(Computer Concepts)"
+	rom ( name "Debug v0.01 (1983)(Computer Concepts).bin" size 16384 crc 6b9baa95 md5 bbd39bdee05fbb246841269ba1256b18 )
+)
+
+game (
+	name "DECCE v2.12 (19xx)(Nottingham University)"
+	description "DECCE v2.12 (19xx)(Nottingham University)"
+	rom ( name "DECCE v2.12 (19xx)(Nottingham University).bin" size 8192 crc 34ebdb17 md5 ea0defc1c373911aaf1899a2f8a47f11 )
+)
+
+game (
+	name "Demon Zromm v1.01 (1984)(Argonaut)"
+	description "Demon Zromm v1.01 (1984)(Argonaut)"
+	rom ( name "Demon Zromm v1.01 (1984)(Argonaut).bin" size 8192 crc 04ef9115 md5 8266bbee1f11f8b5150c8d72ca9b3014 )
+)
+
+game (
+	name "DESROM v1.00 (19xx)(MB)"
+	description "DESROM v1.00 (19xx)(MB)"
+	rom ( name "DESROM v1.00 (19xx)(MB).bin" size 16384 crc 7b99b6bf md5 8b6697f0e77e845de47c536454baaab1 )
+)
+
+game (
+	name "Detalker v1.00 (1984)(Revelstone)"
+	description "Detalker v1.00 (1984)(Revelstone)"
+	rom ( name "Detalker v1.00 (1984)(Revelstone).bin" size 8192 crc 7b232141 md5 3c71bede371e118ff50fc3d9b367c466 )
+)
+
+game (
+	name "DFS 1770 v1.00 (1986)(ACP)"
+	description "DFS 1770 v1.00 (1986)(ACP)"
+	rom ( name "DFS 1770 v1.00 (1986)(ACP).bin" size 16384 crc ab9cd63f md5 f4ec171bd44a49d0001cad995ebda0d8 )
+)
+
+game (
+	name "DFS 1770 v2.1 (19xx)(Solidisk)"
+	description "DFS 1770 v2.1 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.1 (19xx)(Solidisk).bin" size 16384 crc bb4f3620 md5 9ce739b97853fb2b25d9fdd54c9bcefd )
+)
+
+game (
+	name "DFS 1770 v2.1j Issue 1 (19xx)(Solidisk)"
+	description "DFS 1770 v2.1j Issue 1 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.1j Issue 1 (19xx)(Solidisk).bin" size 16384 crc d0ca13d0 md5 193fef97299f908fa5f4f8366b950229 )
+)
+
+game (
+	name "DFS 1770 v2.1j Issue 2 (19xx)(Solidisk)"
+	description "DFS 1770 v2.1j Issue 2 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.1j Issue 2 (19xx)(Solidisk).bin" size 16384 crc 1eeebe6f md5 daa54c08a2f8f53233a2e723f6cf0d6e )
+)
+
+game (
+	name "DFS 1770 v2.1m Issue 2 (19xx)(Solidisk)"
+	description "DFS 1770 v2.1m Issue 2 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.1m Issue 2 (19xx)(Solidisk).bin" size 16384 crc 7e11b872 md5 ccd1c5b109adc978b326a59fbd1104d9 )
+)
+
+game (
+	name "DFS 1770 v2.2d (19xx)(Solidisk)"
+	description "DFS 1770 v2.2d (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.2d (19xx)(Solidisk).bin" size 16384 crc 2a14d87f md5 ebfafe6189bcd301486a1bcb7f175e25 )
+)
+
+game (
+	name "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk)"
+	description "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk).bin" size 16384 crc 6b9b4237 md5 ef8bb721472181e205e044d43548a2ab )
+)
+
+game (
+	name "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk)[a]"
+	description "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk)[a]"
+	rom ( name "DFS 1770 v2.2j Issue 2 (19xx)(Solidisk)[a].bin" size 16384 crc 60098b81 md5 f7f0291092b73977811df570783f5c44 )
+)
+
+game (
+	name "DFS 1770 v2.2m Issue 2 (19xx)(Solidisk)"
+	description "DFS 1770 v2.2m Issue 2 (19xx)(Solidisk)"
+	rom ( name "DFS 1770 v2.2m Issue 2 (19xx)(Solidisk).bin" size 16384 crc defe42ec md5 24fd6cf0430b9258d55fcf3eb700ef48 )
+)
+
+game (
+	name "DFS 1770 v2.2n Issue 2 (1986)(Solidisk)"
+	description "DFS 1770 v2.2n Issue 2 (1986)(Solidisk)"
+	rom ( name "DFS 1770 v2.2n Issue 2 (1986)(Solidisk).bin" size 16384 crc 1a11646b md5 7c47918204b6d29b08bc787805786d2a )
+)
+
+game (
+	name "DFS 8271-1770 v2.00 (1985)(Acres, K.)"
+	description "DFS 8271-1770 v2.00 (1985)(Acres, K.)"
+	rom ( name "DFS 8271-1770 v2.00 (1985)(Acres, K.).bin" size 16384 crc f223d77d md5 d71e936f454b4119f085a0ab3b7331d7 )
+)
+
+game (
+	name "DFS 8271-1770 v2.0j (19xx)(Solidisk)"
+	description "DFS 8271-1770 v2.0j (19xx)(Solidisk)"
+	rom ( name "DFS 8271-1770 v2.0j (19xx)(Solidisk).bin" size 16384 crc 8068003f md5 45b1a195af190efdac78ac5a2d9e81d5 )
+)
+
+game (
+	name "DFS 8271-1770 v2.0l (19xx)(Solidisk)"
+	description "DFS 8271-1770 v2.0l (19xx)(Solidisk)"
+	rom ( name "DFS 8271-1770 v2.0l (19xx)(Solidisk).bin" size 16384 crc bb92b71f md5 607f49461c83d3fd345fb7b66b9b9e85 )
+)
+
+game (
+	name "DFS 8271-1770 v2.1 (1985)(Solidisk)"
+	description "DFS 8271-1770 v2.1 (1985)(Solidisk)"
+	rom ( name "DFS 8271-1770 v2.1 (1985)(Solidisk).bin" size 16384 crc cc3e6b4e md5 a8e84a42b48d75803837817869e98b27 )
+)
+
+game (
+	name "DFS NET - 1119E (19xx)(Roff)"
+	description "DFS NET - 1119E (19xx)(Roff)"
+	rom ( name "DFS NET - 1119E (19xx)(Roff).bin" size 16384 crc a77561a1 md5 9a597b9382125728829e7715c35a7cba )
+)
+
+game (
+	name "DFS NET - 1119E (19xx)(Roff)[a]"
+	description "DFS NET - 1119E (19xx)(Roff)[a]"
+	rom ( name "DFS NET - 1119E (19xx)(Roff)[a].bin" size 16384 crc 8ccd2157 md5 5daed103918277e2065dd7e8d23e57a5 )
+)
+
+game (
+	name "DFS v0.98 (19xx)(ACP)"
+	description "DFS v0.98 (19xx)(ACP)"
+	rom ( name "DFS v0.98 (19xx)(ACP).bin" size 8192 crc 90852e7d md5 5a3ddfae96178e025f27bf1f69bfa629 )
+)
+
+game (
+	name "DFS v1.21 (19xx)(-)"
+	description "DFS v1.21 (19xx)(-)"
+	rom ( name "DFS v1.21 (19xx)(-).bin" size 8192 crc 8d902529 md5 66307607e6b52c023c5b497ba3b3ebcb )
+)
+
+game (
+	name "DFS v2.10 (1985)(Acorn)"
+	description "DFS v2.10 (1985)(Acorn)"
+	rom ( name "DFS v2.10 (1985)(Acorn).bin" size 16384 crc 4f828787 md5 84c8b004b3c5394dbcda695c104e6364 )
+)
+
+game (
+	name "DFS v2.20 (1986)(ACP)"
+	description "DFS v2.20 (1986)(ACP)"
+	rom ( name "DFS v2.20 (1986)(ACP).bin" size 16384 crc f3dc9bc5 md5 45cb2472c83dae680d8b667a43e0f857 )
+)
+
+game (
+	name "DFS v2.20 (1986)(ACP)[a]"
+	description "DFS v2.20 (1986)(ACP)[a]"
+	rom ( name "DFS v2.20 (1986)(ACP)[a].bin" size 16384 crc 19ae5147 md5 eb927e755c1e23db8eb448d12b8c92ee )
+)
+
+game (
+	name "DFS v2.20 (1986)(ACP)[a2]"
+	description "DFS v2.20 (1986)(ACP)[a2]"
+	rom ( name "DFS v2.20 (1986)(ACP)[a2].bin" size 16384 crc 2844001e md5 e8aa51dd35661342ceb75d8f2d37ad46 )
+)
+
+game (
+	name "DFS v2.20 (1986)(ACP)[a3]"
+	description "DFS v2.20 (1986)(ACP)[a3]"
+	rom ( name "DFS v2.20 (1986)(ACP)[a3].bin" size 16384 crc c869b2de md5 02057643d901eadda2d940c380f5402d )
+)
+
+game (
+	name "DFS v2.22 (1985)(Acorn)"
+	description "DFS v2.22 (1985)(Acorn)"
+	rom ( name "DFS v2.22 (1985)(Acorn).bin" size 16384 crc f0b41875 md5 6db06ec46b52cb7a20b634d0ca56fe85 )
+)
+
+game (
+	name "DFS v2.23 (1985)(Acorn)"
+	description "DFS v2.23 (1985)(Acorn)"
+	rom ( name "DFS v2.23 (1985)(Acorn).bin" size 16384 crc 7891f9b7 md5 1b893f20c78b6c8160df482772efaf7e )
+)
+
+game (
+	name "DFS v2.24 (1985)(Acorn)"
+	description "DFS v2.24 (1985)(Acorn)"
+	rom ( name "DFS v2.24 (1985)(Acorn).bin" size 16384 crc 5e5d82ca md5 865a0f7a5d6f10f48798801bf514d761 )
+)
+
+game (
+	name "DFS v2.25 (1985)(Acorn)"
+	description "DFS v2.25 (1985)(Acorn)"
+	rom ( name "DFS v2.25 (1985)(Acorn).bin" size 16384 crc f855a75b md5 7fae1c10f145c6cd8881307e64cf7678 )
+)
+
+game (
+	name "DFS v2.26 (1985)(Acorn)"
+	description "DFS v2.26 (1985)(Acorn)"
+	rom ( name "DFS v2.26 (1985)(Acorn).bin" size 16384 crc 5ae33e94 md5 f083f49d6fe66344c650d7e74249cb96 )
+)
+
+game (
+	name "DFS v2.28 (1985)(Acorn)"
+	description "DFS v2.28 (1985)(Acorn)"
+	rom ( name "DFS v2.28 (1985)(Acorn).bin" size 16384 crc 8fb9b877 md5 222b0aac5d11ab7f1b5e22efcb7d37eb )
+)
+
+game (
+	name "DFS v2.42 (1985)(Acorn)"
+	description "DFS v2.42 (1985)(Acorn)"
+	rom ( name "DFS v2.42 (1985)(Acorn).bin" size 16384 crc 28b59373 md5 ae3cd8a4bcf604084640e3956fb7e937 )
+)
+
+game (
+	name "Diagram (1985)(Pineapple)"
+	description "Diagram (1985)(Pineapple)"
+	rom ( name "Diagram (1985)(Pineapple).bin" size 16384 crc 2d26a493 md5 c2f17c4f660c247fe6ac4b2167db6a0d )
+)
+
+game (
+	name "Digital Drawings DD-B834 (1983)(Ibbotson, E.)"
+	description "Digital Drawings DD-B834 (1983)(Ibbotson, E.)"
+	rom ( name "Digital Drawings DD-B834 (1983)(Ibbotson, E.).bin" size 16384 crc 7090b0ff md5 6a28bc72569ac43c21890b84e350682d )
+)
+
+game (
+	name "Digitiser v1.00 (1985)(Watford Electronics)"
+	description "Digitiser v1.00 (1985)(Watford Electronics)"
+	rom ( name "Digitiser v1.00 (1985)(Watford Electronics).bin" size 16384 crc 43c70d0e md5 879250b6b089a098384e7cb77c993a61 )
+)
+
+game (
+	name "Digitiser v1.00 (1985)(Watford Electronics)[a]"
+	description "Digitiser v1.00 (1985)(Watford Electronics)[a]"
+	rom ( name "Digitiser v1.00 (1985)(Watford Electronics)[a].bin" size 8192 crc a0a51cb2 md5 3df09391a26c1cfa005149433fd54393 )
+)
+
+game (
+	name "Dimage Processor v0.9a (1984)(Bradbury, I.)"
+	description "Dimage Processor v0.9a (1984)(Bradbury, I.)"
+	rom ( name "Dimage Processor v0.9a (1984)(Bradbury, I.).bin" size 8192 crc 95bc21cc md5 9001bdb40891304b74b0930e679f57db )
+)
+
+game (
+	name "DisAsm v0.10 (1995)(WHS)"
+	description "DisAsm v0.10 (1995)(WHS)"
+	rom ( name "DisAsm v0.10 (1995)(WHS).bin" size 7168 crc 7074a467 md5 cf0ff3a6839a2f22a286d84a25ffca30 )
+)
+
+game (
+	name "DISASM v2 (1984)(MDM)"
+	description "DISASM v2 (1984)(MDM)"
+	rom ( name "DISASM v2 (1984)(MDM).bin" size 8192 crc 4aef8a5b md5 9c61b8c9c007bfe9082f58461ce6a391 )
+)
+
+game (
+	name "Disc Doctor v1.05 (1983)(POM)"
+	description "Disc Doctor v1.05 (1983)(POM)"
+	rom ( name "Disc Doctor v1.05 (1983)(POM).bin" size 8192 crc 905b69de md5 25dd7fdf2cb967215464a067943a729c )
+)
+
+game (
+	name "Disc Doctor v1.07 (1983)(POM)"
+	description "Disc Doctor v1.07 (1983)(POM)"
+	rom ( name "Disc Doctor v1.07 (1983)(POM).bin" size 8192 crc 5e9194c7 md5 65e3053a11e01bc1b51cc402e9aae92c )
+)
+
+game (
+	name "Disc Doctor v1.09 (1983)(POM)"
+	description "Disc Doctor v1.09 (1983)(POM)"
+	rom ( name "Disc Doctor v1.09 (1983)(POM).bin" size 8192 crc 3fc454d7 md5 3decde2945e5a6fbab758c0fa3ed2a8d )
+)
+
+game (
+	name "Disc Doctor v1.09 (1983)(POM)[a]"
+	description "Disc Doctor v1.09 (1983)(POM)[a]"
+	rom ( name "Disc Doctor v1.09 (1983)(POM)[a].bin" size 16384 crc 36b8bc7e md5 7c1d543d03d98986f6db4ea81ed7b579 )
+)
+
+game (
+	name "Disc Doctor v1.0b (1983)(POM)"
+	description "Disc Doctor v1.0b (1983)(POM)"
+	rom ( name "Disc Doctor v1.0b (1983)(POM).bin" size 8192 crc c2b615b1 md5 de40fa841a9a9962b61064340c34589a )
+)
+
+game (
+	name "Disc Doctor v1.10 (1984)(POM)"
+	description "Disc Doctor v1.10 (1984)(POM)"
+	rom ( name "Disc Doctor v1.10 (1984)(POM).bin" size 16384 crc 541ea183 md5 c55730068b426f4ecc434edee049ab0f )
+)
+
+game (
+	name "Disc Doctor vR (1984)(POM)"
+	description "Disc Doctor vR (1984)(POM)"
+	rom ( name "Disc Doctor vR (1984)(POM).bin" size 16384 crc 34f4b809 md5 98e4803b9e32a34b9d2202acb56e7a77 )
+)
+
+game (
+	name "Disc Master v2.00 (1986)(R-Soft)"
+	description "Disc Master v2.00 (1986)(R-Soft)"
+	rom ( name "Disc Master v2.00 (1986)(R-Soft).bin" size 16384 crc 25d2bd67 md5 aacc6435e40ecd924b1d3d9d8de5d9d1 )
+)
+
+game (
+	name "Disc Utilities v2.19 (1983)(Clayton, B.)"
+	description "Disc Utilities v2.19 (1983)(Clayton, B.)"
+	rom ( name "Disc Utilities v2.19 (1983)(Clayton, B.).bin" size 8192 crc 5ccd7745 md5 59210184d409dbb925cc6cb17d8ad13d )
+)
+
+game (
+	name "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.)"
+	description "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.)"
+	rom ( name "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.).bin" size 16384 crc 8d7fb688 md5 318110070c136e2968d12875cb859ba2 )
+)
+
+game (
+	name "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.)[a]"
+	description "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.)[a]"
+	rom ( name "Disc-Aid (19xx)(Hutson, P. - Sullivan, J.)[a].bin" size 16384 crc 1e24985b md5 3c2a08e4d0a2403b492391549119a62b )
+)
+
+game (
+	name "Disc-ROM Utilities (1984)(Harris, R.)"
+	description "Disc-ROM Utilities (1984)(Harris, R.)"
+	rom ( name "Disc-ROM Utilities (1984)(Harris, R.).bin" size 8192 crc a22ecc2e md5 214e01a040b2a34934a6a0e054dd75ef )
+)
+
+game (
+	name "Disk Servant vA1.07 (1983)(Superior Systems)"
+	description "Disk Servant vA1.07 (1983)(Superior Systems)"
+	rom ( name "Disk Servant vA1.07 (1983)(Superior Systems).bin" size 8192 crc 5cbf9511 md5 880c0107b8f8cebf2cb0690b0d5b8e0e )
+)
+
+game (
+	name "DiskAid II (1985)(Harrison, M.)"
+	description "DiskAid II (1985)(Harrison, M.)"
+	rom ( name "DiskAid II (1985)(Harrison, M.).bin" size 16384 crc fbc48e89 md5 f14a751d09ffa25f25093b3ec3bdb548 )
+)
+
+game (
+	name "DMON vA1.14 (1983)(Superior Systems)"
+	description "DMON vA1.14 (1983)(Superior Systems)"
+	rom ( name "DMON vA1.14 (1983)(Superior Systems).bin" size 8192 crc f5a80ce0 md5 de56b9fd6d19cd38af01380f2aca1e6c )
+)
+
+game (
+	name "DotPrint-Plus v1.24 (1986)(Technomatic)"
+	description "DotPrint-Plus v1.24 (1986)(Technomatic)"
+	rom ( name "DotPrint-Plus v1.24 (1986)(Technomatic).bin" size 16384 crc 11a09cdf md5 707e8d99d5a2d88227355563c4d1ef6b )
+)
+
+game (
+	name "Double Precision v1.00 (1985)(Matzak, J.)"
+	description "Double Precision v1.00 (1985)(Matzak, J.)"
+	rom ( name "Double Precision v1.00 (1985)(Matzak, J.).bin" size 8192 crc a9024477 md5 12b74f4d58e8ac0eb1440d784cd4d8d7 )
+)
+
+game (
+	name "DoubleView v1.1.00 (19xx)(-)"
+	description "DoubleView v1.1.00 (19xx)(-)"
+	rom ( name "DoubleView v1.1.00 (19xx)(-).bin" size 16384 crc b13e6a6d md5 0beba3b06ba6b65bc717af0494c8fa92 )
+)
+
+game (
+	name "DoubleView v2.1.00 (19xx)(-)"
+	description "DoubleView v2.1.00 (19xx)(-)"
+	rom ( name "DoubleView v2.1.00 (19xx)(-).bin" size 16384 crc 62ba99bc md5 59a54d0d3e174bbf81a1791a8d4a90a7 )
+)
+
+game (
+	name "DumpMaster II v1.00 (1985)(Powys-Lybbe, T.)"
+	description "DumpMaster II v1.00 (1985)(Powys-Lybbe, T.)"
+	rom ( name "DumpMaster II v1.00 (1985)(Powys-Lybbe, T.).bin" size 16384 crc 79c22a3f md5 33b3bfae773c2e11509d4e12afebc4c4 )
+)
+
+game (
+	name "DumpMaster v2.00 (1986)(Powys-Lybbe, T.)"
+	description "DumpMaster v2.00 (1986)(Powys-Lybbe, T.)"
+	rom ( name "DumpMaster v2.00 (1986)(Powys-Lybbe, T.).bin" size 16384 crc ef9d8e6e md5 ab436c5e3b265945430fef3f1b14849a )
+)
+
+game (
+	name "DumpMaster v2.15 (1987)(Powys-Lybbe, T.)"
+	description "DumpMaster v2.15 (1987)(Powys-Lybbe, T.)"
+	rom ( name "DumpMaster v2.15 (1987)(Powys-Lybbe, T.).bin" size 16384 crc 1960e8af md5 9b5ef8c35e91f6997aa632d5efb6307c )
+)
+
+game (
+	name "Dumpout v0.5d (1983)(Watford Electronics)"
+	description "Dumpout v0.5d (1983)(Watford Electronics)"
+	rom ( name "Dumpout v0.5d (1983)(Watford Electronics).bin" size 8192 crc 163da26d md5 007b6e4806ad448e75a1012d53df98e7 )
+)
+
+game (
+	name "Dumpout v3.0m (1983)(Watford Electronics)"
+	description "Dumpout v3.0m (1983)(Watford Electronics)"
+	rom ( name "Dumpout v3.0m (1983)(Watford Electronics).bin" size 16384 crc 7bc54211 md5 80a7b86f2a4801c49737d3dedae6c2b6 )
+)
+
+game (
+	name "Dumpout v3.0p (1983)(Watford Electronics)"
+	description "Dumpout v3.0p (1983)(Watford Electronics)"
+	rom ( name "Dumpout v3.0p (1983)(Watford Electronics).bin" size 8192 crc b85fc2ca md5 3e5e30fc225e0002e4c4a0f0eb6e6393 )
+)
+
+game (
+	name "Dumpout v3.2g (1984)(Watford Electronics)"
+	description "Dumpout v3.2g (1984)(Watford Electronics)"
+	rom ( name "Dumpout v3.2g (1984)(Watford Electronics).bin" size 8192 crc 9f235548 md5 f1818819a81ac78c554d74feb6412ed9 )
+)
+
+game (
+	name "Dumpout v3.2j (1984)(Watford Electronics)"
+	description "Dumpout v3.2j (1984)(Watford Electronics)"
+	rom ( name "Dumpout v3.2j (1984)(Watford Electronics).bin" size 8192 crc 9552b2a7 md5 013c7cfa56a0271756f700276b12c334 )
+)
+
+game (
+	name "Dumpout v3.3 (1986)(Watford Electronics)"
+	description "Dumpout v3.3 (1986)(Watford Electronics)"
+	rom ( name "Dumpout v3.3 (1986)(Watford Electronics).bin" size 8192 crc b7f041c5 md5 b9d37cbe1d478d23f9826078e2558f1f )
+)
+
+game (
+	name "E2PCODE (1986)(Wike, J.)"
+	description "E2PCODE (1986)(Wike, J.)"
+	rom ( name "E2PCODE (1986)(Wike, J.).bin" size 8192 crc 05332a50 md5 c2e38c95d1e5d47826eab2b08ea880a4 )
+)
+
+game (
+	name "Easy Talk v1.01 (1984)(Galaxy)"
+	description "Easy Talk v1.01 (1984)(Galaxy)"
+	rom ( name "Easy Talk v1.01 (1984)(Galaxy).bin" size 8192 crc 584c6f92 md5 9a5d042a0517b9981ddb443c4e077b5b )
+)
+
+game (
+	name "Easy Talk v2.00 (1984)(Galaxy)"
+	description "Easy Talk v2.00 (1984)(Galaxy)"
+	rom ( name "Easy Talk v2.00 (1984)(Galaxy).bin" size 8192 crc 7f02a470 md5 93e292dd808d394a4f0f657fe5ba08d6 )
+)
+
+game (
+	name "Edit v1.00 (1984)(Acorn)"
+	description "Edit v1.00 (1984)(Acorn)"
+	rom ( name "Edit v1.00 (1984)(Acorn).bin" size 16384 crc 1a4a1113 md5 cb3d762eaab6130d1360e1ac575589de )
+)
+
+game (
+	name "EDWORD v1.02 (1982)(CET)"
+	description "EDWORD v1.02 (1982)(CET)"
+	rom ( name "EDWORD v1.02 (1982)(CET).bin" size 16384 crc 8159b93a md5 504e8a787888d2a975029eb2ca90ca07 )
+)
+
+game (
+	name "EDWORD v1.02e (1982)(CET)"
+	description "EDWORD v1.02e (1982)(CET)"
+	rom ( name "EDWORD v1.02e (1982)(CET).bin" size 16384 crc 8dbf816e md5 500ea8ac9c52b34ec0af98de157dd3b5 )
+)
+
+game (
+	name "EDWORD v2.00e (1982)(CET)"
+	description "EDWORD v2.00e (1982)(CET)"
+	rom ( name "EDWORD v2.00e (1982)(CET).bin" size 16384 crc 6e912b4c md5 5bf350b2933fc508fab64861ba6488ba )
+)
+
+game (
+	name "Elite Edit (19xx)(MacAdam, R.)"
+	description "Elite Edit (19xx)(MacAdam, R.)"
+	rom ( name "Elite Edit (19xx)(MacAdam, R.).bin" size 16384 crc b1766454 md5 a4708661d1c156e70f4cf87da27702d3 )
+)
+
+game (
+	name "Enigma Disc Imager v0.04 (1984)(-)"
+	description "Enigma Disc Imager v0.04 (1984)(-)"
+	rom ( name "Enigma Disc Imager v0.04 (1984)(-).bin" size 16384 crc 757002ae md5 83eadbe66805a630e3772d9a2ed0b227 )
+)
+
+game (
+	name "Enigma Disc Imager v0.04 (1984)(-)[h]"
+	description "Enigma Disc Imager v0.04 (1984)(-)[h]"
+	rom ( name "Enigma Disc Imager v0.04 (1984)(-)[h].bin" size 16384 crc d8bd5795 md5 2543cfa2f86e4751567526413989dad9 )
+)
+
+game (
+	name "Enigma Disc Imager v0.04 (1984)(-)[h2]"
+	description "Enigma Disc Imager v0.04 (1984)(-)[h2]"
+	rom ( name "Enigma Disc Imager v0.04 (1984)(-)[h2].bin" size 16384 crc a14e452d md5 022fdc12309efb5fbb6f3c91b86ec7fe )
+)
+
+game (
+	name "Enigma Disc Imager v1.05 (1985)(Altra)"
+	description "Enigma Disc Imager v1.05 (1985)(Altra)"
+	rom ( name "Enigma Disc Imager v1.05 (1985)(Altra).bin" size 16384 crc 5c68f7b0 md5 91419296740ac17796d6afbf2c178e6b )
+)
+
+game (
+	name "Enigma Disc Imager v1.06 (1985)(Altra)"
+	description "Enigma Disc Imager v1.06 (1985)(Altra)"
+	rom ( name "Enigma Disc Imager v1.06 (1985)(Altra).bin" size 16384 crc d90177cc md5 0c97c37683b4b9bf67aef47f8f735871 )
+)
+
+game (
+	name "Enigma Disc Imager v1.07 (1985)(Altra)"
+	description "Enigma Disc Imager v1.07 (1985)(Altra)"
+	rom ( name "Enigma Disc Imager v1.07 (1985)(Altra).bin" size 16384 crc 127a7fde md5 e0ee2c1bc2bcd9ade0d2780988dc8200 )
+)
+
+game (
+	name "Enigma Disc Imager v1.07 (1985)(Altra)[h]"
+	description "Enigma Disc Imager v1.07 (1985)(Altra)[h]"
+	rom ( name "Enigma Disc Imager v1.07 (1985)(Altra)[h].bin" size 16384 crc 96d06977 md5 a470199f50aa3db2646a188fd2a22f9f )
+)
+
+game (
+	name "Enigma Plus v2.4 (1984)(-)"
+	description "Enigma Plus v2.4 (1984)(-)"
+	rom ( name "Enigma Plus v2.4 (1984)(-).bin" size 16384 crc e661092b md5 ea44ad9a9754bd14407544f84b9c067c )
+)
+
+game (
+	name "Envelopes v2.4 (1984)(WYLD)"
+	description "Envelopes v2.4 (1984)(WYLD)"
+	rom ( name "Envelopes v2.4 (1984)(WYLD).bin" size 8192 crc adccec3d md5 95cb3a4bbcaea01778bfc01b97abeaf8 )
+)
+
+game (
+	name "EPIC v2.47 (19xx)(Manning, C.)"
+	description "EPIC v2.47 (19xx)(Manning, C.)"
+	rom ( name "EPIC v2.47 (19xx)(Manning, C.).bin" size 8192 crc d5a0f73d md5 db05c49eaf9426fc494f114dde0dab16 )
+)
+
+game (
+	name "EPROM Utility (1988)(Morley Electronics)"
+	description "EPROM Utility (1988)(Morley Electronics)"
+	rom ( name "EPROM Utility (1988)(Morley Electronics).bin" size 16384 crc dea984f0 md5 e01b64abfc523fa22d54465a0cf9116f )
+)
+
+game (
+	name "EPROM v1.04 (1984)(MDM)"
+	description "EPROM v1.04 (1984)(MDM)"
+	rom ( name "EPROM v1.04 (1984)(MDM).bin" size 8192 crc 5adab4b7 md5 89c4ba6124b87d0451894692f4b129a2 )
+)
+
+game (
+	name "EPROM v8 (19xx)(David, M.)"
+	description "EPROM v8 (19xx)(David, M.)"
+	rom ( name "EPROM v8 (19xx)(David, M.).bin" size 16384 crc 236f623c md5 c7af6b60a8b19e14de16b030d5ee426f )
+)
+
+game (
+	name "EPROMMER II (1985)(GsoFt)"
+	description "EPROMMER II (1985)(GsoFt)"
+	rom ( name "EPROMMER II (1985)(GsoFt).bin" size 16384 crc 8a3369a8 md5 e20f8ecfd59c1ea90fdee2c48af3eb84 )
+)
+
+game (
+	name "Epsom FX80 Screen Dump v3.10 (19xx)(Harrison, M.)"
+	description "Epsom FX80 Screen Dump v3.10 (19xx)(Harrison, M.)"
+	rom ( name "Epsom FX80 Screen Dump v3.10 (19xx)(Harrison, M.).bin" size 8192 crc 336a8cf5 md5 8b1d9af7c764bfe1ec07e80f5adcf4b4 )
+)
+
+game (
+	name "Epsom FX80 Screen Dump v3.20 (1983)(Harrison, M.)"
+	description "Epsom FX80 Screen Dump v3.20 (1983)(Harrison, M.)"
+	rom ( name "Epsom FX80 Screen Dump v3.20 (1983)(Harrison, M.).bin" size 3584 crc 3e32d835 md5 e8e118f09cde7230d00e293a03ac675e )
+)
+
+game (
+	name "Epsom FX80 Screen Dump v3.21 (1983)(Harrison, M.)"
+	description "Epsom FX80 Screen Dump v3.21 (1983)(Harrison, M.)"
+	rom ( name "Epsom FX80 Screen Dump v3.21 (1983)(Harrison, M.).bin" size 8448 crc 6c26d3bf md5 907ba550d2e7f61b4942ce7c129872db )
+)
+
+game (
+	name "Epson FX80 Styles v1.00 (1983)(Burstow, R.)"
+	description "Epson FX80 Styles v1.00 (1983)(Burstow, R.)"
+	rom ( name "Epson FX80 Styles v1.00 (1983)(Burstow, R.).bin" size 8192 crc 24265271 md5 5744d8e9ac8fda166214b306bd4693a5 )
+)
+
+game (
+	name "Epson FX80 Styles v1.00 (1983)(Burstow, R.)[a]"
+	description "Epson FX80 Styles v1.00 (1983)(Burstow, R.)[a]"
+	rom ( name "Epson FX80 Styles v1.00 (1983)(Burstow, R.)[a].bin" size 8192 crc 04a727d2 md5 5fd8d48464df9250a8aa03a2df2200fd )
+)
+
+game (
+	name "Epson NLQ v1.0 (1984)(Watford Electronics)"
+	description "Epson NLQ v1.0 (1984)(Watford Electronics)"
+	rom ( name "Epson NLQ v1.0 (1984)(Watford Electronics).bin" size 8192 crc 5e35ceae md5 d6090b190d59c5780a75bb0cf0062df2 )
+)
+
+game (
+	name "Euro-Beeb Terminal v2.1 (1986)(Control Universal)"
+	description "Euro-Beeb Terminal v2.1 (1986)(Control Universal)"
+	rom ( name "Euro-Beeb Terminal v2.1 (1986)(Control Universal).bin" size 8192 crc 5e80e864 md5 0e207e9617efd613284d854ca22d5aa2 )
+)
+
+game (
+	name "Everest (1986)(de Weger, M.)"
+	description "Everest (1986)(de Weger, M.)"
+	rom ( name "Everest (1986)(de Weger, M.).bin" size 16384 crc cdc0d4fd md5 768229d1854f44ce995be1645fd2349f )
+)
+
+game (
+	name "EXMON II v1.00 (1984)(Beebug)"
+	description "EXMON II v1.00 (1984)(Beebug)"
+	rom ( name "EXMON II v1.00 (1984)(Beebug).bin" size 8192 crc c823331a md5 cdb1b6e6540e527e4c5d546f446664c5 )
+)
+
+game (
+	name "EXMON II v1.00 (1984)(Beebug)[h]"
+	description "EXMON II v1.00 (1984)(Beebug)[h]"
+	rom ( name "EXMON II v1.00 (1984)(Beebug)[h].bin" size 8192 crc ceca0599 md5 2577acf86bd1faed0f61218fee8b85c9 )
+)
+
+game (
+	name "EXMON II v1.03 (1984)(Beebug)"
+	description "EXMON II v1.03 (1984)(Beebug)"
+	rom ( name "EXMON II v1.03 (1984)(Beebug).bin" size 8192 crc 1612511f md5 ba543e1b435214a7ce8d96f295ab1e34 )
+)
+
+game (
+	name "EXMON II v2.01 (1987)(Beebug)"
+	description "EXMON II v2.01 (1987)(Beebug)"
+	rom ( name "EXMON II v2.01 (1987)(Beebug).bin" size 16384 crc 9a50231f md5 c151e829004eebc2fa445f434fc9e8b8 )
+)
+
+game (
+	name "EXMON II v2.02 (1990)(Beebug)"
+	description "EXMON II v2.02 (1990)(Beebug)"
+	rom ( name "EXMON II v2.02 (1990)(Beebug).bin" size 16384 crc f0447739 md5 c90f21be0811ea671cce67f9672ea976 )
+)
+
+game (
+	name "EXMON v1.0a (1983)(Beebug)"
+	description "EXMON v1.0a (1983)(Beebug)"
+	rom ( name "EXMON v1.0a (1983)(Beebug).bin" size 8192 crc 36742b75 md5 08f4aaae2ee9a0047678420788402ba7 )
+)
+
+game (
+	name "EXMON v1.1a (1983)(Beebug)"
+	description "EXMON v1.1a (1983)(Beebug)"
+	rom ( name "EXMON v1.1a (1983)(Beebug).bin" size 8192 crc ef2cb052 md5 79c4a5c597aab1a6cfb428f315167d41 )
+)
+
+game (
+	name "Extras v1.01 (1983)(D.A. Computers)"
+	description "Extras v1.01 (1983)(D.A. Computers)"
+	rom ( name "Extras v1.01 (1983)(D.A. Computers).bin" size 8192 crc d05b04ed md5 7f86125408e3c53255024a281f247b87 )
+)
+
+game (
+	name "Extras v1.01 (1983)(D.A. Computers)[a]"
+	description "Extras v1.01 (1983)(D.A. Computers)[a]"
+	rom ( name "Extras v1.01 (1983)(D.A. Computers)[a].bin" size 16384 crc 5cde2eb4 md5 8a08cd553da95b9202ec2c48a764a737 )
+)
+
+game (
+	name "Fanfare v1.40 (1986)(Phillips, A.)"
+	description "Fanfare v1.40 (1986)(Phillips, A.)"
+	rom ( name "Fanfare v1.40 (1986)(Phillips, A.).bin" size 16384 crc 0b64c4f2 md5 4cb578081bb1af757bde5d22ac862013 )
+)
+
+game (
+	name "FBBS v3.0 (1986)(Penney, R.)"
+	description "FBBS v3.0 (1986)(Penney, R.)"
+	rom ( name "FBBS v3.0 (1986)(Penney, R.).bin" size 16384 crc 1d0e5b2d md5 96407f7b7c21ca01c99a6bb1108cee7e )
+)
+
+game (
+	name "File-Plus (1984)(Clark, G.)"
+	description "File-Plus (1984)(Clark, G.)"
+	rom ( name "File-Plus (1984)(Clark, G.).bin" size 16384 crc c7803e27 md5 65318557c4518974a51e5396e807b24d )
+)
+
+game (
+	name "Fileplus (1984)(Data Tap)"
+	description "Fileplus (1984)(Data Tap)"
+	rom ( name "Fileplus (1984)(Data Tap).bin" size 16384 crc e816f900 md5 ae813e3030efc7a78a283b207b7bb8ef )
+)
+
+game (
+	name "First Aid v1.1 (1985)(Altra)"
+	description "First Aid v1.1 (1985)(Altra)"
+	rom ( name "First Aid v1.1 (1985)(Altra).bin" size 16384 crc f968174c md5 b0cd220a46733c252fd174ea3b0530a3 )
+)
+
+game (
+	name "Floppy Copy v1.0 (19xx)(Magnum Electronics)"
+	description "Floppy Copy v1.0 (19xx)(Magnum Electronics)"
+	rom ( name "Floppy Copy v1.0 (19xx)(Magnum Electronics).bin" size 16384 crc 5717a4a6 md5 47cc3c7d411c4fba1f6dc0c6d5e35ec3 )
+)
+
+game (
+	name "Floppy Copy v1.2 (19xx)(Magnum Electronics)"
+	description "Floppy Copy v1.2 (19xx)(Magnum Electronics)"
+	rom ( name "Floppy Copy v1.2 (19xx)(Magnum Electronics).bin" size 2799 crc 0910cff9 md5 796a122ccd11ed7df02ceb60469f939f )
+)
+
+game (
+	name "Floppy Wise Plus v1.7 (1985)(Software Services)"
+	description "Floppy Wise Plus v1.7 (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v1.7 (1985)(Software Services).bin" size 16384 crc fa50e1b2 md5 d650c032fb50b5bb3f293ed74fbfe82b )
+)
+
+game (
+	name "Floppy Wise Plus v1.8 (1985)(Software Services)"
+	description "Floppy Wise Plus v1.8 (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v1.8 (1985)(Software Services).bin" size 16384 crc ee4883df md5 7a9a7e3a866b2642367894fbb05b52e4 )
+)
+
+game (
+	name "Floppy Wise Plus v1.9 (1985)(Software Services)"
+	description "Floppy Wise Plus v1.9 (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v1.9 (1985)(Software Services).bin" size 16384 crc 7a6bb61c md5 68f30e33b60c6f67678379b5584778f3 )
+)
+
+game (
+	name "Floppy Wise Plus v1.C (1985)(Software Services)"
+	description "Floppy Wise Plus v1.C (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v1.C (1985)(Software Services).bin" size 16384 crc 21ef8e6e md5 adf696df843704bb7df21d93599ed628 )
+)
+
+game (
+	name "Floppy Wise Plus v1.C (1985)(Software Services)[h]"
+	description "Floppy Wise Plus v1.C (1985)(Software Services)[h]"
+	rom ( name "Floppy Wise Plus v1.C (1985)(Software Services)[h].bin" size 16384 crc 4fb5d658 md5 13029ee9d2f2400c8a857abd8fdafc8d )
+)
+
+game (
+	name "Floppy Wise Plus v2.1 (1985)(Software Services)"
+	description "Floppy Wise Plus v2.1 (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v2.1 (1985)(Software Services).bin" size 8192 crc 618f1f97 md5 abaa679d76d35728652baacdb988419d )
+)
+
+game (
+	name "Floppy Wise Plus v2.3 (1985)(Software Services)"
+	description "Floppy Wise Plus v2.3 (1985)(Software Services)"
+	rom ( name "Floppy Wise Plus v2.3 (1985)(Software Services).bin" size 8192 crc 440a6ab7 md5 7dae4346d7cb8eeb274f0b72c4eb8223 )
+)
+
+game (
+	name "Floppy Wise Plus v2.3 (1985)(Software Services)[h]"
+	description "Floppy Wise Plus v2.3 (1985)(Software Services)[h]"
+	rom ( name "Floppy Wise Plus v2.3 (1985)(Software Services)[h].bin" size 16384 crc d263cfde md5 5fa489369e1a80072efea514d3c8e6f9 )
+)
+
+game (
+	name "Font ROM v1.0 (19xx)(Lawrence, D.)"
+	description "Font ROM v1.0 (19xx)(Lawrence, D.)"
+	rom ( name "Font ROM v1.0 (19xx)(Lawrence, D.).bin" size 16384 crc a8b2bb3c md5 7ef0c1da5ccd95263f78e308c0bef8ff )
+)
+
+game (
+	name "FontAid v1.01 (19xx)(C.J.E. Micro's)"
+	description "FontAid v1.01 (19xx)(C.J.E. Micro's)"
+	rom ( name "FontAid v1.01 (19xx)(C.J.E. Micro's).bin" size 8192 crc 9f827e27 md5 723f46bc6def1b8a5a5889ddd94d92cb )
+)
+
+game (
+	name "FontAid v1.10 (19xx)(C.J.E. Micro's)"
+	description "FontAid v1.10 (19xx)(C.J.E. Micro's)"
+	rom ( name "FontAid v1.10 (19xx)(C.J.E. Micro's).bin" size 8192 crc 549e82e4 md5 db2e4ff16fa006460e9325b783b97093 )
+)
+
+game (
+	name "Forth (1982)(J.W. Brown)"
+	description "Forth (1982)(J.W. Brown)"
+	rom ( name "Forth (1982)(J.W. Brown).bin" size 16384 crc 9a7c4baf md5 cb5a3a9283d7b7071cb689c93f2c9281 )
+)
+
+game (
+	name "Forth v1.03 (1983)(Acornsoft)"
+	description "Forth v1.03 (1983)(Acornsoft)"
+	rom ( name "Forth v1.03 (1983)(Acornsoft).bin" size 16384 crc 629ce95f md5 251879890f1a96dabd25183610c37c95 )
+)
+
+game (
+	name "Forth v2.4 (1982)(Brown, J.W.)"
+	description "Forth v2.4 (1982)(Brown, J.W.)"
+	rom ( name "Forth v2.4 (1982)(Brown, J.W.).bin" size 8192 crc 2e84e1a3 md5 5772aaf0df7efdf2660c35891962ca18 )
+)
+
+game (
+	name "Forth v2.5 (1982)(Brown, J.W.)"
+	description "Forth v2.5 (1982)(Brown, J.W.)"
+	rom ( name "Forth v2.5 (1982)(Brown, J.W.).bin" size 8192 crc 5fd97a23 md5 5495fa62f860c5e180c6dee5fecd6cf8 )
+)
+
+game (
+	name "Forth v79 (1986)(Jonkman)"
+	description "Forth v79 (1986)(Jonkman)"
+	rom ( name "Forth v79 (1986)(Jonkman).bin" size 16384 crc 2cdf04ab md5 45d23055578ff6cd0adf47a65780984d )
+)
+
+game (
+	name "G-Code Interpreter v1.00 (1985)(Computer Concepts)"
+	description "G-Code Interpreter v1.00 (1985)(Computer Concepts)"
+	rom ( name "G-Code Interpreter v1.00 (1985)(Computer Concepts).bin" size 16384 crc cd68c6df md5 d48653750f3687396ae922387df30048 )
+)
+
+game (
+	name "G-Code Interpreter v1.02 (1985)(Computer Concepts)"
+	description "G-Code Interpreter v1.02 (1985)(Computer Concepts)"
+	rom ( name "G-Code Interpreter v1.02 (1985)(Computer Concepts).bin" size 16384 crc 302b24a1 md5 3181e2b32b9d6654fe69f0122666398f )
+)
+
+game (
+	name "G-Code Interpreter v1.05 (1985)(Computer Concepts)"
+	description "G-Code Interpreter v1.05 (1985)(Computer Concepts)"
+	rom ( name "G-Code Interpreter v1.05 (1985)(Computer Concepts).bin" size 16384 crc e54f59db md5 e09306af4960b635d53ebde834120002 )
+)
+
+game (
+	name "G-Dump v1.01 (1983)(D.A. Computers)"
+	description "G-Dump v1.01 (1983)(D.A. Computers)"
+	rom ( name "G-Dump v1.01 (1983)(D.A. Computers).bin" size 16384 crc 2cfaac28 md5 8a95a0d045b37835e61d7d7dc414a504 )
+)
+
+game (
+	name "G-Dump v2.01 (1983)(D.A. Computers)"
+	description "G-Dump v2.01 (1983)(D.A. Computers)"
+	rom ( name "G-Dump v2.01 (1983)(D.A. Computers).bin" size 8192 crc 2a962023 md5 da02538b07c768c6319a8320469d693f )
+)
+
+game (
+	name "G-Forth v2.30 (1984)(Grandex Data Aps)"
+	description "G-Forth v2.30 (1984)(Grandex Data Aps)"
+	rom ( name "G-Forth v2.30 (1984)(Grandex Data Aps).bin" size 16384 crc 1af55d80 md5 d2ae5661341d9e4e88cd345e1ea58501 )
+)
+
+game (
+	name "Giant Text ROM v1.0 (1986)(Flight 19)"
+	description "Giant Text ROM v1.0 (1986)(Flight 19)"
+	rom ( name "Giant Text ROM v1.0 (1986)(Flight 19).bin" size 16384 crc ad37e119 md5 97297fa8107569d4fb38802c0188ba60 )
+)
+
+game (
+	name "Ginn Language Chip v2.1 (1985)(Sinta)"
+	description "Ginn Language Chip v2.1 (1985)(Sinta)"
+	rom ( name "Ginn Language Chip v2.1 (1985)(Sinta).bin" size 16384 crc e2b56e75 md5 e7ce19e53612cc68d3b7eb408a807986 )
+)
+
+game (
+	name "GrafPad 2 (1985)(British Micro)"
+	description "GrafPad 2 (1985)(British Micro)"
+	rom ( name "GrafPad 2 (1985)(British Micro).bin" size 8192 crc a7f37d30 md5 921cc5416a64867caf8e2675f2c471d5 )
+)
+
+game (
+	name "Graphic System vI-1.B0 (1986)(British Micro)"
+	description "Graphic System vI-1.B0 (1986)(British Micro)"
+	rom ( name "Graphic System vI-1.B0 (1986)(British Micro).bin" size 16384 crc b83be7e9 md5 0bd30ae16a5ec92446ae3175a4647de8 )
+)
+
+game (
+	name "Graphics Editer (19xx)(-)"
+	description "Graphics Editer (19xx)(-)"
+	rom ( name "Graphics Editer (19xx)(-).bin" size 6144 crc bbf3a1b3 md5 bb09edd684f455763a107fd1b8b8e54a )
+)
+
+game (
+	name "Graphics Extension v1.02 (1983)(Computer Concepts)"
+	description "Graphics Extension v1.02 (1983)(Computer Concepts)"
+	rom ( name "Graphics Extension v1.02 (1983)(Computer Concepts).bin" size 16384 crc 315ba160 md5 36bafcad35d843e2254d39dd1e7057f7 )
+)
+
+game (
+	name "Graphics Extension v1.03 (1983)(Computer Concepts)"
+	description "Graphics Extension v1.03 (1983)(Computer Concepts)"
+	rom ( name "Graphics Extension v1.03 (1983)(Computer Concepts).bin" size 8192 crc f012f8d1 md5 6bd253d3b92bd2779145e866f4fcc10c )
+)
+
+game (
+	name "Graphics Extension v2.09 (1983)(Computer Concepts)"
+	description "Graphics Extension v2.09 (1983)(Computer Concepts)"
+	rom ( name "Graphics Extension v2.09 (1983)(Computer Concepts).bin" size 8192 crc c4e34f78 md5 c4542cba7585c82b993a392834f3620a )
+)
+
+game (
+	name "Graphics Terminal v2.01 (1984)(Cambridge University)"
+	description "Graphics Terminal v2.01 (1984)(Cambridge University)"
+	rom ( name "Graphics Terminal v2.01 (1984)(Cambridge University).bin" size 8192 crc 29db98ec md5 c32134fe465a9511b3df0d629ec869de )
+)
+
+game (
+	name "Gremlin v1.20 (1983)(Computer Concepts)"
+	description "Gremlin v1.20 (1983)(Computer Concepts)"
+	rom ( name "Gremlin v1.20 (1983)(Computer Concepts).bin" size 8192 crc 995e07e7 md5 4a7f602f97bb4b1ca1c38f6967553081 )
+)
+
+game (
+	name "Gremlin v1.21 (1983)(Computer Concepts)"
+	description "Gremlin v1.21 (1983)(Computer Concepts)"
+	rom ( name "Gremlin v1.21 (1983)(Computer Concepts).bin" size 16384 crc 3f769690 md5 f045f8ce3f20caa024cc436e826b9e4c )
+)
+
+game (
+	name "GUM (19xx)(MacAdam, R.)"
+	description "GUM (19xx)(MacAdam, R.)"
+	rom ( name "GUM (19xx)(MacAdam, R.).bin" size 10789 crc 0b725d9c md5 585a8c695700fb0b2aa8e068513ea684 )
+)
+
+game (
+	name "Hackstar v2.2 (1984)(The Hacker)"
+	description "Hackstar v2.2 (1984)(The Hacker)"
+	rom ( name "Hackstar v2.2 (1984)(The Hacker).bin" size 16384 crc 6e47d108 md5 e749501c0315553149d70f444a556088 )
+)
+
+game (
+	name "Handy Plus v2.00 (1987)(McGuire, P.)"
+	description "Handy Plus v2.00 (1987)(McGuire, P.)"
+	rom ( name "Handy Plus v2.00 (1987)(McGuire, P.).bin" size 16384 crc 3ecc07e5 md5 e813a27fb7ec15857e891ee45d30dee7 )
+)
+
+game (
+	name "Handy Utils v256AA (19xx)(McGuire, P.)"
+	description "Handy Utils v256AA (19xx)(McGuire, P.)"
+	rom ( name "Handy Utils v256AA (19xx)(McGuire, P.).bin" size 16384 crc 11e658fd md5 d6dc6bcdeee99250694dadb72e5f0427 )
+)
+
+game (
+	name "Hans's ROM (1985)(HHW-soft)"
+	description "Hans's ROM (1985)(HHW-soft)"
+	rom ( name "Hans's ROM (1985)(HHW-soft).bin" size 16384 crc 07429dfe md5 ee7a03ecf729f06e6c712a27115556aa )
+)
+
+game (
+	name "HDFS v1.05 (1989)(AJCD)"
+	description "HDFS v1.05 (1989)(AJCD)"
+	rom ( name "HDFS v1.05 (1989)(AJCD).bin" size 16384 crc 48cc151e md5 3dbb21692ca50fabff7fc73ba631c0ea )
+)
+
+game (
+	name "Help ROM v2.1c4+ (19xx)(Lawrence, D.)"
+	description "Help ROM v2.1c4+ (19xx)(Lawrence, D.)"
+	rom ( name "Help ROM v2.1c4+ (19xx)(Lawrence, D.).bin" size 16384 crc 1a934cf9 md5 9260cd0b641fa2621bf73ce822fb93b4 )
+)
+
+game (
+	name "Help v1.00 (1984)(Beebug)"
+	description "Help v1.00 (1984)(Beebug)"
+	rom ( name "Help v1.00 (1984)(Beebug).bin" size 8192 crc a698f6d0 md5 a5139d6f8cf712c495490f1c0b713909 )
+)
+
+game (
+	name "Help v1.00 (1984)(Beebug)[h]"
+	description "Help v1.00 (1984)(Beebug)[h]"
+	rom ( name "Help v1.00 (1984)(Beebug)[h].bin" size 8192 crc f3da6615 md5 f5702a7a91ce8a7f4cb981e835111583 )
+)
+
+game (
+	name "Help v1.2 (1985)(Beebug)"
+	description "Help v1.2 (1985)(Beebug)"
+	rom ( name "Help v1.2 (1985)(Beebug).bin" size 16384 crc c1505821 md5 1eb2c411307a1086aaccc5a3381c1d88 )
+)
+
+game (
+	name "Help v1.2 (1985)(Beebug)[h]"
+	description "Help v1.2 (1985)(Beebug)[h]"
+	rom ( name "Help v1.2 (1985)(Beebug)[h].bin" size 16384 crc b9eed340 md5 f4b9dbb5bd39533c77ca99a2d39f8ce4 )
+)
+
+game (
+	name "Helping Hand v1.29 (1987)(JCD - LBL)"
+	description "Helping Hand v1.29 (1987)(JCD - LBL)"
+	rom ( name "Helping Hand v1.29 (1987)(JCD - LBL).bin" size 16384 crc 6d07ee7e md5 8c9040071fa96ac65b25404fee96b332 )
+)
+
+game (
+	name "Helping Hand v1.36 (1987)(JCD - LBL)"
+	description "Helping Hand v1.36 (1987)(JCD - LBL)"
+	rom ( name "Helping Hand v1.36 (1987)(JCD - LBL).bin" size 16384 crc a3b86fb2 md5 85bf2d26f5a14fd119c6038495f31119 )
+)
+
+game (
+	name "Hyperdriver GLP v1.11 (1987)(CSR)"
+	description "Hyperdriver GLP v1.11 (1987)(CSR)"
+	rom ( name "Hyperdriver GLP v1.11 (1987)(CSR).bin" size 16384 crc 9bc3de65 md5 9dfaf8b2b2a45115aa7d54270be0ecc6 )
+)
+
+game (
+	name "HyperDriver v1.1.0 (1987)(Burton, R.D.)"
+	description "HyperDriver v1.1.0 (1987)(Burton, R.D.)"
+	rom ( name "HyperDriver v1.1.0 (1987)(Burton, R.D.).bin" size 16384 crc 4a19ebca md5 97dfad7b38823a0f29f712ad29aa9e52 )
+)
+
+game (
+	name "Ice-Box v1.00 (1984)(Event One)"
+	description "Ice-Box v1.00 (1984)(Event One)"
+	rom ( name "Ice-Box v1.00 (1984)(Event One).bin" size 8192 crc 3c2833f7 md5 b860c59d0c1b2fc9fe94bbcb967b5e31 )
+)
+
+game (
+	name "Ice-Box v1.00 (1984)(Event One)[a]"
+	description "Ice-Box v1.00 (1984)(Event One)[a]"
+	rom ( name "Ice-Box v1.00 (1984)(Event One)[a].bin" size 8192 crc 6b1f2783 md5 9fc6f36ed2a0cbe7dc47dd94500a970a )
+)
+
+game (
+	name "Ice-Box v1.00 (1984)(Event One)[a2]"
+	description "Ice-Box v1.00 (1984)(Event One)[a2]"
+	rom ( name "Ice-Box v1.00 (1984)(Event One)[a2].bin" size 8192 crc 70504dd7 md5 30f3e6f619ef417b49db04094e2a8c8b )
+)
+
+game (
+	name "Ice-Box v1.00 (1984)(Event One)[a3]"
+	description "Ice-Box v1.00 (1984)(Event One)[a3]"
+	rom ( name "Ice-Box v1.00 (1984)(Event One)[a3].bin" size 8192 crc c059c9a0 md5 dea26911d5bcb564515df3c66af6acbc )
+)
+
+game (
+	name "Icon Master v1.00 (1984)(Beebug)"
+	description "Icon Master v1.00 (1984)(Beebug)"
+	rom ( name "Icon Master v1.00 (1984)(Beebug).bin" size 16384 crc e4d1fb9a md5 2c45f0e970aead7afac947ec14e9f944 )
+)
+
+game (
+	name "IEEE 488 Interface (1986)(Intelligent Interfaces)"
+	description "IEEE 488 Interface (1986)(Intelligent Interfaces)"
+	rom ( name "IEEE 488 Interface (1986)(Intelligent Interfaces).bin" size 8192 crc 0820a196 md5 370870d4fe24e1eaae1dbdc23d1e6350 )
+)
+
+game (
+	name "IEEE Filing System (1983)(Intelligent Interfaces - Acorn)"
+	description "IEEE Filing System (1983)(Intelligent Interfaces - Acorn)"
+	rom ( name "IEEE Filing System (1983)(Intelligent Interfaces - Acorn).bin" size 8192 crc 4c2e80ee md5 78529a605800a16ae69aa7fae164477d )
+)
+
+game (
+	name "Index (1984)(Solidisk)"
+	description "Index (1984)(Solidisk)"
+	rom ( name "Index (1984)(Solidisk).bin" size 16384 crc d3023582 md5 039e13258afae377ab52cc5882635f6d )
+)
+
+game (
+	name "Index Utility - MemEdit v3.00 (1984)(JMD)"
+	description "Index Utility - MemEdit v3.00 (1984)(JMD)"
+	rom ( name "Index Utility - MemEdit v3.00 (1984)(JMD).bin" size 8192 crc f8c98920 md5 f9678b95d94fa312d3313bac7dfdb206 )
+)
+
+game (
+	name "Index Utility v2.05b (1984)(JMD)"
+	description "Index Utility v2.05b (1984)(JMD)"
+	rom ( name "Index Utility v2.05b (1984)(JMD).bin" size 8192 crc 48bdb8ed md5 5e819243b48ae8470bee6618fb92c1c5 )
+)
+
+game (
+	name "Index Utility v3.03a (1984)(JMD)"
+	description "Index Utility v3.03a (1984)(JMD)"
+	rom ( name "Index Utility v3.03a (1984)(JMD).bin" size 8192 crc 912e6dff md5 b567fc101b9603f60bd2ca6c82ebb8d7 )
+)
+
+game (
+	name "Index Utility v3.03a (1984)(JMD)[a]"
+	description "Index Utility v3.03a (1984)(JMD)[a]"
+	rom ( name "Index Utility v3.03a (1984)(JMD)[a].bin" size 8192 crc 4e47845f md5 54f3e0c860dce28313e97e0841ec5523 )
+)
+
+game (
+	name "Inter-Chart v1.01 (19xx)(-)"
+	description "Inter-Chart v1.01 (19xx)(-)"
+	rom ( name "Inter-Chart v1.01 (19xx)(-).bin" size 16384 crc 873bae42 md5 461aa62adc4dfea0f96bddb9f37af9ec )
+)
+
+game (
+	name "Inter-Chart v1.02 (19xx)(-)"
+	description "Inter-Chart v1.02 (19xx)(-)"
+	rom ( name "Inter-Chart v1.02 (19xx)(-).bin" size 16384 crc b126ad8d md5 00101c31e0d71d6804badd3afb1be036 )
+)
+
+game (
+	name "Inter-Chart v1.03a (19xx)(-)"
+	description "Inter-Chart v1.03a (19xx)(-)"
+	rom ( name "Inter-Chart v1.03a (19xx)(-).bin" size 16384 crc 4afaf7dc md5 097a1aaf3ab5f8534d783e6e45df56f5 )
+)
+
+game (
+	name "Interpreter v1.05 (1983)(Slater, T.)"
+	description "Interpreter v1.05 (1983)(Slater, T.)"
+	rom ( name "Interpreter v1.05 (1983)(Slater, T.).bin" size 8192 crc 5ec6f9eb md5 faf14976a26326d103127bcecb38f05a )
+)
+
+game (
+	name "Inter-Sheet v0.47 (1985)(Computer Concepts)"
+	description "Inter-Sheet v0.47 (1985)(Computer Concepts)"
+	rom ( name "Inter-Sheet v0.47 (1985)(Computer Concepts).bin" size 8192 crc 302156d0 md5 d0d75d4db239d86761cdea3bd881acfa )
+)
+
+game (
+	name "Inter-Sheet v1.02 (1985)(Computer Concepts)"
+	description "Inter-Sheet v1.02 (1985)(Computer Concepts)"
+	rom ( name "Inter-Sheet v1.02 (1985)(Computer Concepts).bin" size 8192 crc 8ecd55e7 md5 281b1f3cc70bcbeb559b9394b304e308 )
+)
+
+game (
+	name "Inter-Sheet v1.03 (1985)(Computer Concepts)"
+	description "Inter-Sheet v1.03 (1985)(Computer Concepts)"
+	rom ( name "Inter-Sheet v1.03 (1985)(Computer Concepts).bin" size 8192 crc a3d24cbe md5 fbfddc0e7a1dcd1c2120d5dd9280873c )
+)
+
+game (
+	name "Inter-Sheet v1.06 (1986)(Computer Concepts)"
+	description "Inter-Sheet v1.06 (1986)(Computer Concepts)"
+	rom ( name "Inter-Sheet v1.06 (1986)(Computer Concepts).bin" size 16384 crc 3dc2bc50 md5 bae43480f8c98d42aa38919fda508e22 )
+)
+
+game (
+	name "Inter-Sheet v1.06 (1986)(Computer Concepts)[a]"
+	description "Inter-Sheet v1.06 (1986)(Computer Concepts)[a]"
+	rom ( name "Inter-Sheet v1.06 (1986)(Computer Concepts)[a].bin" size 16384 crc 75fae217 md5 43337555e4b7e29902cebcab0277c007 )
+)
+
+game (
+	name "Inter-Sheet v1.06c (1986)(Computer Concepts)"
+	description "Inter-Sheet v1.06c (1986)(Computer Concepts)"
+	rom ( name "Inter-Sheet v1.06c (1986)(Computer Concepts).bin" size 16384 crc 3af6ecc2 md5 a4b49ef4397cf6ba0b2787029e02b8e8 )
+)
+
+game (
+	name "Inter-Sheet v1.06s (1986)(Computer Concepts)"
+	description "Inter-Sheet v1.06s (1986)(Computer Concepts)"
+	rom ( name "Inter-Sheet v1.06s (1986)(Computer Concepts).bin" size 16384 crc 9e47c869 md5 0bca65737c22bb3915bd7d31dfdf741d )
+)
+
+game (
+	name "Inter-Word v1.02 (19xx)(Computer Concepts)"
+	description "Inter-Word v1.02 (19xx)(Computer Concepts)"
+	rom ( name "Inter-Word v1.02 (19xx)(Computer Concepts).bin" size 16384 crc 7e4daaac md5 ef2679b46eadd337878bee70e176301b )
+)
+
+game (
+	name "Inter-Word v1.02-Hi (1986)(Computer Concepts)"
+	description "Inter-Word v1.02-Hi (1986)(Computer Concepts)"
+	rom ( name "Inter-Word v1.02-Hi (1986)(Computer Concepts).bin" size 16384 crc 76a40640 md5 08a342bd37fed1f7a7a3b10726369ae7 )
+)
+
+game (
+	name "Inter-Word v1.02-Lo (1986)(Computer Concepts)"
+	description "Inter-Word v1.02-Lo (1986)(Computer Concepts)"
+	rom ( name "Inter-Word v1.02-Lo (1986)(Computer Concepts).bin" size 16384 crc 0d8c6671 md5 488b9380ed4ab448c0a683023f143407 )
+)
+
+game (
+	name "Inter-Word v1.02-Lo (1986)(Computer Concepts)[h Orko]"
+	description "Inter-Word v1.02-Lo (1986)(Computer Concepts)[h Orko]"
+	rom ( name "Inter-Word v1.02-Lo (1986)(Computer Concepts)[h Orko].bin" size 16384 crc f4465df3 md5 c6c2fe050df70550c81cf1752e6ed6fb )
+)
+
+game (
+	name "KCopy v1.03 (1985)(Thompson, Wynand)"
+	description "KCopy v1.03 (1985)(Thompson, Wynand)"
+	rom ( name "KCopy v1.03 (1985)(Thompson, Wynand).bin" size 8192 crc bc1b8279 md5 9cbff677f9d0168b1778e9f53449ed2e )
+)
+
+game (
+	name "Kermit v1.02 (1985)(CUCA)"
+	description "Kermit v1.02 (1985)(CUCA)"
+	rom ( name "Kermit v1.02 (1985)(CUCA).bin" size 16384 crc e9062dcb md5 83794f7158150c714752063403289874 )
+)
+
+game (
+	name "Kermit v1.30 (1986)(CUCA)"
+	description "Kermit v1.30 (1986)(CUCA)"
+	rom ( name "Kermit v1.30 (1986)(CUCA).bin" size 16384 crc 6a50db22 md5 f2bc60f5b5711ed262c62da8b9ca833d )
+)
+
+game (
+	name "Kermit v1.33 (1986)(CUCA)"
+	description "Kermit v1.33 (1986)(CUCA)"
+	rom ( name "Kermit v1.33 (1986)(CUCA).bin" size 16384 crc 305e4717 md5 7b63bacf48a5c06bbb3a927d9882090d )
+)
+
+game (
+	name "Kermit v1.45 (1987)(CUCA)"
+	description "Kermit v1.45 (1987)(CUCA)"
+	rom ( name "Kermit v1.45 (1987)(CUCA).bin" size 16384 crc 8a661f49 md5 65321edbdaca2985656909a734455d8d )
+)
+
+game (
+	name "Keyboard v0.1 (19xx)(Hermanrud, M.)"
+	description "Keyboard v0.1 (19xx)(Hermanrud, M.)"
+	rom ( name "Keyboard v0.1 (19xx)(Hermanrud, M.).bin" size 8192 crc 84a5bc67 md5 5f068b02659008c40ca7d52b569f536d )
+)
+
+game (
+	name "Label (1983)(Forrest, D.P.)"
+	description "Label (1983)(Forrest, D.P.)"
+	rom ( name "Label (1983)(Forrest, D.P.).bin" size 16384 crc 4496c7bb md5 7480c3a7b3897cb3f27e397e98f14690 )
+)
+
+game (
+	name "Modem, Le v1.00 (19xx)(Watford Electronics)"
+	description "Modem, Le v1.00 (19xx)(Watford Electronics)"
+	rom ( name "Modem, Le v1.00 (19xx)(Watford Electronics).bin" size 16384 crc 290096c6 md5 5a9f3228c3082ecf07179339617907fc )
+)
+
+game (
+	name "Lemon v2.26 (1983)(-)"
+	description "Lemon v2.26 (1983)(-)"
+	rom ( name "Lemon v2.26 (1983)(-).bin" size 8192 crc bcd55b62 md5 11a7b992c99a772ea1204df60974b217 )
+)
+
+game (
+	name "Lemon v4.00 (1985)(-)"
+	description "Lemon v4.00 (1985)(-)"
+	rom ( name "Lemon v4.00 (1985)(-).bin" size 16384 crc fd4b8e53 md5 b8fca03ff0f657ff260e07970f782e4c )
+)
+
+game (
+	name "LineMaster (1985)(Acres, K.T.)"
+	description "LineMaster (1985)(Acres, K.T.)"
+	rom ( name "LineMaster (1985)(Acres, K.T.).bin" size 16384 crc 7fd2694b md5 cf34804ad64ba4ce34362ddff88ff113 )
+)
+
+game (
+	name "Linemaster v0.10 (1985)(Solidisk)"
+	description "Linemaster v0.10 (1985)(Solidisk)"
+	rom ( name "Linemaster v0.10 (1985)(Solidisk).bin" size 16384 crc ed02a34f md5 408f360900b344672eba86d473c336ce )
+)
+
+game (
+	name "LISP v1.00 (1983)(Acorn)"
+	description "LISP v1.00 (1983)(Acorn)"
+	rom ( name "LISP v1.00 (1983)(Acorn).bin" size 16384 crc bfb7208d md5 367c3e4b9f50e46d68e22e98b228927a )
+)
+
+game (
+	name "Logo (1983)(Brown, J.W.)"
+	description "Logo (1983)(Brown, J.W.)"
+	rom ( name "Logo (1983)(Brown, J.W.).bin" size 16384 crc 4ebb654c md5 18cbe8b1253db26ad53f793946988684 )
+)
+
+game (
+	name "Logo (1984)(ACT - INF)"
+	description "Logo (1984)(ACT - INF)"
+	rom ( name "Logo (1984)(ACT - INF).bin" size 16384 crc 33a9b37a md5 f428bfaa191285be36c5ee70b7c6fe69 )
+)
+
+game (
+	name "Logo (1984)(ACT - INF)[a]"
+	description "Logo (1984)(ACT - INF)[a]"
+	rom ( name "Logo (1984)(ACT - INF)[a].bin" size 16384 crc 66b41e54 md5 0fc52a3118f84c1c3d35ac4a9185283d )
+)
+
+game (
+	name "Logo (1984)(RCP)"
+	description "Logo (1984)(RCP)"
+	rom ( name "Logo (1984)(RCP).bin" size 16384 crc bc3f0a09 md5 eade4eac796a618fdca5cf815844068e )
+)
+
+game (
+	name "Logo 2 (1984)(RCP)"
+	description "Logo 2 (1984)(RCP)"
+	rom ( name "Logo 2 (1984)(RCP).bin" size 16384 crc 753ab82e md5 2551d70d95c915723346a2b82904e191 )
+)
+
+game (
+	name "LOGO v1 (1984)(Richards Computer Products)"
+	description "LOGO v1 (1984)(Richards Computer Products)"
+	rom ( name "LOGO v1 (1984)(Richards Computer Products).bin" size 16384 crc a0defcf9 md5 94bdaae941349f81ce38fecec2025f24 )
+)
+
+game (
+	name "Logo v1.00 (1984)(Catsoft)"
+	description "Logo v1.00 (1984)(Catsoft)"
+	rom ( name "Logo v1.00 (1984)(Catsoft).bin" size 16384 crc 9577dc7e md5 dd4c52c2cbdfb71c8b78905e05ce170e )
+)
+
+game (
+	name "Logo v1.20 (1985)(Catsoft)"
+	description "Logo v1.20 (1985)(Catsoft)"
+	rom ( name "Logo v1.20 (1985)(Catsoft).bin" size 16384 crc f905a42c md5 3a8ff97d39af8fced469378934936b4c )
+)
+
+game (
+	name "LX Handy Utils v1.081 (1986)(McGuire, P.)"
+	description "LX Handy Utils v1.081 (1986)(McGuire, P.)"
+	rom ( name "LX Handy Utils v1.081 (1986)(McGuire, P.).bin" size 8192 crc ed129062 md5 77a406788683eaeeb15af383904ac03b )
+)
+
+game (
+	name "LX-80 Toolkit (1986)(Horsington, Gordon)"
+	description "LX-80 Toolkit (1986)(Horsington, Gordon)"
+	rom ( name "LX-80 Toolkit (1986)(Horsington, Gordon).bin" size 8192 crc 06ac5298 md5 6c767325e821504a66ce930ce1841663 )
+)
+
+game (
+	name "LX-80 Toolkit (1986)(Horsington, Gordon)[a]"
+	description "LX-80 Toolkit (1986)(Horsington, Gordon)[a]"
+	rom ( name "LX-80 Toolkit (1986)(Horsington, Gordon)[a].bin" size 8192 crc f9e87203 md5 3113b5e7fb77aa3b4647cb86a9f8e57c )
+)
+
+game (
+	name "MACH 1 v1.00 (1984)(Gnomica)"
+	description "MACH 1 v1.00 (1984)(Gnomica)"
+	rom ( name "MACH 1 v1.00 (1984)(Gnomica).bin" size 16384 crc 97124168 md5 8540a497025197cce837632d435be04c )
+)
+
+game (
+	name "Macsoft Utility v1.03 (1984)(Currey, M.)"
+	description "Macsoft Utility v1.03 (1984)(Currey, M.)"
+	rom ( name "Macsoft Utility v1.03 (1984)(Currey, M.).bin" size 16384 crc fcd79f16 md5 024d0ed018ac1a9c094e549f8b0a7c5b )
+)
+
+game (
+	name "Manager 128 (1987)(Solidisk)"
+	description "Manager 128 (1987)(Solidisk)"
+	rom ( name "Manager 128 (1987)(Solidisk).bin" size 4138 crc dbe84acb md5 19b43bec2f4a98a915748c9c0896bdc5 )
+)
+
+game (
+	name "Manager 256k (1985)(Acres, K.T.)"
+	description "Manager 256k (1985)(Acres, K.T.)"
+	rom ( name "Manager 256k (1985)(Acres, K.T.).bin" size 16384 crc 0ccae0ba md5 8c7016a3da5418ebdfbd3e2d792e5218 )
+)
+
+game (
+	name "Manager 256k (1985)(Acres, K.T.)[a]"
+	description "Manager 256k (1985)(Acres, K.T.)[a]"
+	rom ( name "Manager 256k (1985)(Acres, K.T.)[a].bin" size 16384 crc b93d67d9 md5 75587e7014c3818fbf44b78588d598fa )
+)
+
+game (
+	name "Manager 32k (1986)(Acres, K.T.)"
+	description "Manager 32k (1986)(Acres, K.T.)"
+	rom ( name "Manager 32k (1986)(Acres, K.T.).bin" size 16384 crc 2024cd0d md5 7a3c65c082e57ae2320bec363b57f6d1 )
+)
+
+game (
+	name "Master Emulation ROM v2.01 (1987)(Dabs Press)"
+	description "Master Emulation ROM v2.01 (1987)(Dabs Press)"
+	rom ( name "Master Emulation ROM v2.01 (1987)(Dabs Press).bin" size 16384 crc a11d80c6 md5 05903800278216df5afd88d7f1f49334 )
+)
+
+game (
+	name "Master ROM v1.01-1 (1987)(Beebug)"
+	description "Master ROM v1.01-1 (1987)(Beebug)"
+	rom ( name "Master ROM v1.01-1 (1987)(Beebug).bin" size 16384 crc 2b932ce9 md5 803743347dfb759a1a9716c0e06333a0 )
+)
+
+game (
+	name "Master ROM v1.01-2 (1987)(Beebug)"
+	description "Master ROM v1.01-2 (1987)(Beebug)"
+	rom ( name "Master ROM v1.01-2 (1987)(Beebug).bin" size 16384 crc fd437c6d md5 9f7c03e54fb255e9fec63856f834d055 )
+)
+
+game (
+	name "Master ROM v1.03-1 (1988)(Beebug)"
+	description "Master ROM v1.03-1 (1988)(Beebug)"
+	rom ( name "Master ROM v1.03-1 (1988)(Beebug).bin" size 16384 crc 5eb04e88 md5 958b8d82fa0bbc9e2731cb38adda6bc6 )
+)
+
+game (
+	name "Master ROM v1.03-2 (1988)(Beebug)"
+	description "Master ROM v1.03-2 (1988)(Beebug)"
+	rom ( name "Master ROM v1.03-2 (1988)(Beebug).bin" size 16384 crc 9b45e88e md5 0ba2d74a13cb47ff557a747be81c00a7 )
+)
+
+game (
+	name "Master v1.00 (1985)(Chalice)"
+	description "Master v1.00 (1985)(Chalice)"
+	rom ( name "Master v1.00 (1985)(Chalice).bin" size 8215 crc 5a036f31 md5 0e15fb0c0bc4dc0abcaf580208cf3d56 )
+)
+
+game (
+	name "MASTERboard v2.00 (19xx)(Morley Electronics)"
+	description "MASTERboard v2.00 (19xx)(Morley Electronics)"
+	rom ( name "MASTERboard v2.00 (19xx)(Morley Electronics).bin" size 16384 crc d93738ec md5 9d672eda4fc6f2f2bd8cabdc3405f0e5 )
+)
+
+game (
+	name "MBCopy v1.00 (19xx)(MB)"
+	description "MBCopy v1.00 (19xx)(MB)"
+	rom ( name "MBCopy v1.00 (19xx)(MB).bin" size 8192 crc 54fdd35d md5 a5e839224aad6f60677b6581bfab3d96 )
+)
+
+game (
+	name "MCP v0.41-CBL (1983)(Torch)"
+	description "MCP v0.41-CBL (1983)(Torch)"
+	rom ( name "MCP v0.41-CBL (1983)(Torch).bin" size 16384 crc b36f07f4 md5 fc5dbb4b022e845a54f778f55be53143 )
+)
+
+game (
+	name "MCP v1.01-AB (1984)(Torch)"
+	description "MCP v1.01-AB (1984)(Torch)"
+	rom ( name "MCP v1.01-AB (1984)(Torch).bin" size 16384 crc 1892d3ca md5 41d97645ce02abedb6f28022b480725c )
+)
+
+game (
+	name "MCP v1.20-CBL (1985)(Torch)"
+	description "MCP v1.20-CBL (1985)(Torch)"
+	rom ( name "MCP v1.20-CBL (1985)(Torch).bin" size 16384 crc 7df340d0 md5 42f92cb02602e903d7bdabb33bf30966 )
+)
+
+game (
+	name "MCP v1.21-ABW (1985)(Torch)"
+	description "MCP v1.21-ABW (1985)(Torch)"
+	rom ( name "MCP v1.21-ABW (1985)(Torch).bin" size 16384 crc 5e4a4a56 md5 aed11b33144d717b553437482ff2816e )
+)
+
+game (
+	name "MCP v1.22-ABW (1986)(Torch)"
+	description "MCP v1.22-ABW (1986)(Torch)"
+	rom ( name "MCP v1.22-ABW (1986)(Torch).bin" size 16385 crc edc6cdb9 md5 545ff33d8eb75ae907e680d0a21362b2 )
+)
+
+game (
+	name "MedMon (19xx)(-)"
+	description "MedMon (19xx)(-)"
+	rom ( name "MedMon (19xx)(-).bin" size 8192 crc c4141e62 md5 81424ccd14ca7739a8dfd6965d7a83a6 )
+)
+
+game (
+	name "Mega ROM v1.00 (1985)(Chalice)"
+	description "Mega ROM v1.00 (1985)(Chalice)"
+	rom ( name "Mega ROM v1.00 (1985)(Chalice).bin" size 16384 crc 765e5c48 md5 a98b572a4578c6f036c1de5816de1d58 )
+)
+
+game (
+	name "Mega ROM v1.00 (1985)(Chalice)[a]"
+	description "Mega ROM v1.00 (1985)(Chalice)[a]"
+	rom ( name "Mega ROM v1.00 (1985)(Chalice)[a].bin" size 16384 crc 000f958f md5 e53aaf2ab7e6b0a37ab721321ea2099d )
+)
+
+game (
+	name "Mega ROM v1.01 (1985)(Chalice)"
+	description "Mega ROM v1.01 (1985)(Chalice)"
+	rom ( name "Mega ROM v1.01 (1985)(Chalice).bin" size 16384 crc 5a9fdac5 md5 941f1fa26a0b70ef3e9082723b755ad3 )
+)
+
+game (
+	name "Menu ROM v1.00 (1985)(Intelligent Solutions)"
+	description "Menu ROM v1.00 (1985)(Intelligent Solutions)"
+	rom ( name "Menu ROM v1.00 (1985)(Intelligent Solutions).bin" size 8192 crc f477e52f md5 366de5c04623bfd1c55dd5142b9d822a )
+)
+
+game (
+	name "Menu ROM v1.20 (1985)(Intelligent Solutions)"
+	description "Menu ROM v1.20 (1985)(Intelligent Solutions)"
+	rom ( name "Menu ROM v1.20 (1985)(Intelligent Solutions).bin" size 16384 crc 9ce288d3 md5 a379bb5f8694523e3eebf913826973ab )
+)
+
+game (
+	name "MEP Util v2.00 (1994)(-)"
+	description "MEP Util v2.00 (1994)(-)"
+	rom ( name "MEP Util v2.00 (1994)(-).bin" size 16384 crc cff9376f md5 11e11fbcb0167cbbff66b324088f9667 )
+)
+
+game (
+	name "Merlin v1.08 (1986)(Clayton, R.)"
+	description "Merlin v1.08 (1986)(Clayton, R.)"
+	rom ( name "Merlin v1.08 (1986)(Clayton, R.).bin" size 16384 crc f92c96a3 md5 4ce401af7e8cf0fece2f2af586c6288a )
+)
+
+game (
+	name "Meta Assembler v2.13R (1985)(Crash Barrier)"
+	description "Meta Assembler v2.13R (1985)(Crash Barrier)"
+	rom ( name "Meta Assembler v2.13R (1985)(Crash Barrier).bin" size 16384 crc e22470dd md5 4789044fad9efbf3325900dfb1ea03c1 )
+)
+
+game (
+	name "Meta Assembler v2.13R (1985)(Crash Barrier)[a]"
+	description "Meta Assembler v2.13R (1985)(Crash Barrier)[a]"
+	rom ( name "Meta Assembler v2.13R (1985)(Crash Barrier)[a].bin" size 16384 crc 25b57649 md5 f05ec6350226cdae5712c75f41ada190 )
+)
+
+game (
+	name "Micro Prolog v3.1 (1984)(LPA)"
+	description "Micro Prolog v3.1 (1984)(LPA)"
+	rom ( name "Micro Prolog v3.1 (1984)(LPA).bin" size 16384 crc 08397bb7 md5 ac2714ef295dfe992a3ee65eed09cda9 )
+)
+
+game (
+	name "Micro-C v1.0 (1987)(Beebug)"
+	description "Micro-C v1.0 (1987)(Beebug)"
+	rom ( name "Micro-C v1.0 (1987)(Beebug).bin" size 16384 crc a8632713 md5 2a6251e8f5d77534303b059882e75a8f )
+)
+
+game (
+	name "Micron Plus EPROM Programmer v1.30 (1986)(HCR Electronic Services)"
+	description "Micron Plus EPROM Programmer v1.30 (1986)(HCR Electronic Services)"
+	rom ( name "Micron Plus EPROM Programmer v1.30 (1986)(HCR Electronic Services).bin" size 16384 crc 84788359 md5 dd8451eb60af2837327c16781157ba2a )
+)
+
+game (
+	name "Micron Plus EPROM Programmer v1.40 (1987)(HCR Electronic Services)"
+	description "Micron Plus EPROM Programmer v1.40 (1987)(HCR Electronic Services)"
+	rom ( name "Micron Plus EPROM Programmer v1.40 (1987)(HCR Electronic Services).bin" size 16384 crc 99b7b384 md5 cd5df5b30b79bd817a1e16f6738d81ea )
+)
+
+game (
+	name "Micronet 2000 v1.2 (1986)(Hood, A.)"
+	description "Micronet 2000 v1.2 (1986)(Hood, A.)"
+	rom ( name "Micronet 2000 v1.2 (1986)(Hood, A.).bin" size 8192 crc 18d07bbe md5 a78f0c044305c137d95d3141bf62f5b0 )
+)
+
+game (
+	name "Micronet v1.30 (1983)(Scicon)"
+	description "Micronet v1.30 (1983)(Scicon)"
+	rom ( name "Micronet v1.30 (1983)(Scicon).bin" size 16384 crc 22dfac6e md5 fdb0eb7e2590ae886bd6145b59cd37bd )
+)
+
+game (
+	name "Micronet v1.40 (1983)(Scicon)"
+	description "Micronet v1.40 (1983)(Scicon)"
+	rom ( name "Micronet v1.40 (1983)(Scicon).bin" size 8192 crc 85b17c92 md5 51dca21ab6e1f213a24e5925f4004183 )
+)
+
+game (
+	name "Microtext v3.1D (1983)(Crown)"
+	description "Microtext v3.1D (1983)(Crown)"
+	rom ( name "Microtext v3.1D (1983)(Crown).bin" size 16383 crc 44609207 md5 98bdf5c81669495b5489851ff6da52ce )
+)
+
+game (
+	name "Microtext v3.54 (1985)(Crown)"
+	description "Microtext v3.54 (1985)(Crown)"
+	rom ( name "Microtext v3.54 (1985)(Crown).bin" size 16384 crc 9b1182de md5 8bc708e97cd86b7257f61ea65d8f67ac )
+)
+
+game (
+	name "Microtext v3.55R (1985)(Crown)"
+	description "Microtext v3.55R (1985)(Crown)"
+	rom ( name "Microtext v3.55R (1985)(Crown).bin" size 16384 crc 1f47b426 md5 37dd20c11b8e190c74d21de8d24ede6f )
+)
+
+game (
+	name "Mode 7 Simulator v1.1 (1988)(JAFA Systems)"
+	description "Mode 7 Simulator v1.1 (1988)(JAFA Systems)"
+	rom ( name "Mode 7 Simulator v1.1 (1988)(JAFA Systems).bin" size 16384 crc 3d4bbd16 md5 34ee3b0b9852a055a89b5b8a1f391f17 )
+)
+
+game (
+	name "Mode 7 v1.1 (1989)(JAFA Systems)"
+	description "Mode 7 v1.1 (1989)(JAFA Systems)"
+	rom ( name "Mode 7 v1.1 (1989)(JAFA Systems).bin" size 16384 crc d5d7c7db md5 a7b205b40f7eeb54aeeb8d7b798c0b94 )
+)
+
+game (
+	name "Mode 7 v2.2 (1989)(JAFA Systems)"
+	description "Mode 7 v2.2 (1989)(JAFA Systems)"
+	rom ( name "Mode 7 v2.2 (1989)(JAFA Systems).bin" size 16384 crc 28792451 md5 c480f9ea12a6b3d930e9b83a0d86a2b0 )
+)
+
+game (
+	name "Monitor v0.01 (1983)(ISMEC)"
+	description "Monitor v0.01 (1983)(ISMEC)"
+	rom ( name "Monitor v0.01 (1983)(ISMEC).bin" size 16384 crc 315949c0 md5 afccb2faf034d2b59944da9107e27280 )
+)
+
+game (
+	name "Monitor v0.01 (1983)(ISMEC)[a]"
+	description "Monitor v0.01 (1983)(ISMEC)[a]"
+	rom ( name "Monitor v0.01 (1983)(ISMEC)[a].bin" size 16384 crc 513c4401 md5 33fcdc22089f9dd5f07899c104124d77 )
+)
+
+game (
+	name "Monitor v0.01 (1983)(ISMEC)[a2]"
+	description "Monitor v0.01 (1983)(ISMEC)[a2]"
+	rom ( name "Monitor v0.01 (1983)(ISMEC)[a2].bin" size 16384 crc 738ba529 md5 2f928f25c3766da4fc016c376f91caa8 )
+)
+
+game (
+	name "Monitor v1.09 (1983)(Humpherson & Bleasby)"
+	description "Monitor v1.09 (1983)(Humpherson & Bleasby)"
+	rom ( name "Monitor v1.09 (1983)(Humpherson & Bleasby).bin" size 8192 crc 1c0ef918 md5 02915f625909bcf718f74406c0d25606 )
+)
+
+game (
+	name "Monitor v1.60 (1984)(ISMEC)"
+	description "Monitor v1.60 (1984)(ISMEC)"
+	rom ( name "Monitor v1.60 (1984)(ISMEC).bin" size 16384 crc a18f5913 md5 e10cc0d60249e69b8efad252b8866147 )
+)
+
+game (
+	name "Monitor v2.01 (1985)(ISMEC)"
+	description "Monitor v2.01 (1985)(ISMEC)"
+	rom ( name "Monitor v2.01 (1985)(ISMEC).bin" size 16384 crc 0739205e md5 7ff926fac2a7fb2624812d2161fc179d )
+)
+
+game (
+	name "Movie Maker A v1.0 (1986)(Slippery Slug)"
+	description "Movie Maker A v1.0 (1986)(Slippery Slug)"
+	rom ( name "Movie Maker A v1.0 (1986)(Slippery Slug).bin" size 16384 crc 0818629b md5 1a7cd1f6fe1c6073dfbf6c31d52a2598 )
+)
+
+game (
+	name "Movie Maker B v1.1 (1986)(Slippery Slug)"
+	description "Movie Maker B v1.1 (1986)(Slippery Slug)"
+	rom ( name "Movie Maker B v1.1 (1986)(Slippery Slug).bin" size 16384 crc c5c28ae6 md5 35f81a3457066859157bd205f8ae40e8 )
+)
+
+game (
+	name "MultiBASIC (1985)(CMS)"
+	description "MultiBASIC (1985)(CMS)"
+	rom ( name "MultiBASIC (1985)(CMS).bin" size 16384 crc 02b476c1 md5 aaf6c3a18bca5e085f72c491ba304dfd )
+)
+
+game (
+	name "MultiBASIC (1985)(CMS)[a]"
+	description "MultiBASIC (1985)(CMS)[a]"
+	rom ( name "MultiBASIC (1985)(CMS)[a].bin" size 16384 crc fb2200df md5 15fd62a0cbe449a24eae50b75a769e85 )
+)
+
+game (
+	name "MultiFont NLQ v2.00 (19xx)(CJE Micro's)"
+	description "MultiFont NLQ v2.00 (19xx)(CJE Micro's)"
+	rom ( name "MultiFont NLQ v2.00 (19xx)(CJE Micro's).bin" size 16384 crc 8bbbbda1 md5 084818abcbebd7f8bf8203de45b396ac )
+)
+
+game (
+	name "MultiFont NTQ v1.3 (1986)(PMS)"
+	description "MultiFont NTQ v1.3 (1986)(PMS)"
+	rom ( name "MultiFont NTQ v1.3 (1986)(PMS).bin" size 16384 crc e3763f97 md5 1d073a921062e810335de79fa5f10121 )
+)
+
+game (
+	name "MultiFont v1.50 (1984)(Jane, R.)"
+	description "MultiFont v1.50 (1984)(Jane, R.)"
+	rom ( name "MultiFont v1.50 (1984)(Jane, R.).bin" size 16384 crc 5a84a856 md5 30d0bea45dddc6b4178affe6da3c6aaa )
+)
+
+game (
+	name "MultiFont v1.50 (1984)(Jane, R.)[a]"
+	description "MultiFont v1.50 (1984)(Jane, R.)[a]"
+	rom ( name "MultiFont v1.50 (1984)(Jane, R.)[a].bin" size 8192 crc 87b375ba md5 8fc98706eb4b1171b5f60bcba71f79e6 )
+)
+
+game (
+	name "MultiForth (1984)(Skywave)"
+	description "MultiForth (1984)(Skywave)"
+	rom ( name "MultiForth (1984)(Skywave).bin" size 16384 crc c7de445f md5 4b7ca60ecb53c1daa8c0b46b7ec4e327 )
+)
+
+game (
+	name "MultiForth (1984)(Skywave)[a]"
+	description "MultiForth (1984)(Skywave)[a]"
+	rom ( name "MultiForth (1984)(Skywave)[a].bin" size 16384 crc 4e199ed9 md5 afdcb70d86c7b42e3086198467bc79f0 )
+)
+
+game (
+	name "Music (19xx)(Acorn User)"
+	description "Music (19xx)(Acorn User)"
+	rom ( name "Music (19xx)(Acorn User).bin" size 15230 crc 79e46d1e md5 8f995014135be3a4b39420e5e2e65c4e )
+)
+
+game (
+	name "Music ROM (1984)(-)"
+	description "Music ROM (1984)(-)"
+	rom ( name "Music ROM (1984)(-).bin" size 16384 crc 91a9ab75 md5 503ce0078ea1cd4a43316499904e0cac )
+)
+
+game (
+	name "Music ROM v1.00 (1984)(Beebug)"
+	description "Music ROM v1.00 (1984)(Beebug)"
+	rom ( name "Music ROM v1.00 (1984)(Beebug).bin" size 16384 crc a6c25fbf md5 2896d867466802ecfadbeb5b516af172 )
+)
+
+game (
+	name "Music ROM v1.01 (1984)(Beebug)"
+	description "Music ROM v1.01 (1984)(Beebug)"
+	rom ( name "Music ROM v1.01 (1984)(Beebug).bin" size 16384 crc 52946236 md5 901e535aa1c7eee09b4ca7863c5a69af )
+)
+
+game (
+	name "Music ROM v1.10 (1985)(Beebug)"
+	description "Music ROM v1.10 (1985)(Beebug)"
+	rom ( name "Music ROM v1.10 (1985)(Beebug).bin" size 8192 crc 9bf7e519 md5 75dd7fae8437ddb3377182b49c0a1525 )
+)
+
+game (
+	name "Music ROM v1.20 (1985)(Beebug)"
+	description "Music ROM v1.20 (1985)(Beebug)"
+	rom ( name "Music ROM v1.20 (1985)(Beebug).bin" size 8192 crc 011abecf md5 6dcd76cfcbfb3c6d09aa1d3bdfc40e92 )
+)
+
+game (
+	name "Music ROM v1.20 (1985)(Beebug)[a]"
+	description "Music ROM v1.20 (1985)(Beebug)[a]"
+	rom ( name "Music ROM v1.20 (1985)(Beebug)[a].bin" size 8192 crc 02ba18d8 md5 22c63e944d70d3e47046098dccb9edee )
+)
+
+game (
+	name "MUSIC1 (19xx)(MacAdam, R.)"
+	description "MUSIC1 (19xx)(MacAdam, R.)"
+	rom ( name "MUSIC1 (19xx)(MacAdam, R.).bin" size 15689 crc 386e04b8 md5 5cd87102953c930ced423221ca9aed80 )
+)
+
+game (
+	name "NatMON (1983)(Sidwell, N.)"
+	description "NatMON (1983)(Sidwell, N.)"
+	rom ( name "NatMON (1983)(Sidwell, N.).bin" size 8192 crc a13a09c7 md5 2c8aea681c2a7041823c590c341f90ba )
+)
+
+game (
+	name "NEC PC-8023 Screen Dump (1983)(Computer User's Club)"
+	description "NEC PC-8023 Screen Dump (1983)(Computer User's Club)"
+	rom ( name "NEC PC-8023 Screen Dump (1983)(Computer User's Club).bin" size 8192 crc c3581ea5 md5 e2a08d5d9d9ce980c429940013eeefb3 )
+)
+
+game (
+	name "Net 1119E (19xx)(ROFF)"
+	description "Net 1119E (19xx)(ROFF)"
+	rom ( name "Net 1119E (19xx)(ROFF).bin" size 8192 crc 852810e4 md5 03b6f0a92809fc0f30854a667cdfc2b0 )
+)
+
+game (
+	name "NFS v3.34 (19xx)(-)"
+	description "NFS v3.34 (19xx)(-)"
+	rom ( name "NFS v3.34 (19xx)(-).bin" size 8192 crc a325335c md5 d6761cb566cd87b0c1117b5b600cff16 )
+)
+
+game (
+	name "NLQ Designer v1.2 (1985)(Watford Electronics)"
+	description "NLQ Designer v1.2 (1985)(Watford Electronics)"
+	rom ( name "NLQ Designer v1.2 (1985)(Watford Electronics).bin" size 8192 crc 433e44ed md5 5d84b03ba78263edf583ea50dc35bbc0 )
+)
+
+game (
+	name "NLQ Designer v1.3 (1985)(Watford Electronics)"
+	description "NLQ Designer v1.3 (1985)(Watford Electronics)"
+	rom ( name "NLQ Designer v1.3 (1985)(Watford Electronics).bin" size 8192 crc 4a907c9e md5 5c6c7fc0796daeea5bad16451d01c765 )
+)
+
+game (
+	name "Nova CAD 12TA (1985)(Nova Micro Systems)"
+	description "Nova CAD 12TA (1985)(Nova Micro Systems)"
+	rom ( name "Nova CAD 12TA (1985)(Nova Micro Systems).bin" size 16384 crc f14e55d6 md5 038c4b1ee47fdee1d8f802c9bcdbbda5 )
+)
+
+game (
+	name "Nova CAD 12TA (1985)(Nova Micro Systems)[a]"
+	description "Nova CAD 12TA (1985)(Nova Micro Systems)[a]"
+	rom ( name "Nova CAD 12TA (1985)(Nova Micro Systems)[a].bin" size 16384 crc fc188808 md5 430031e6956da54b430df1c211324004 )
+)
+
+game (
+	name "Nova CAD v1.06 (1985)(Nova Micro Systems)"
+	description "Nova CAD v1.06 (1985)(Nova Micro Systems)"
+	rom ( name "Nova CAD v1.06 (1985)(Nova Micro Systems).bin" size 16384 crc 22fc003b md5 a80a01501e765cbaf53206cc9ad9262f )
+)
+
+game (
+	name "Nova CAD v2.0N (1985)(Nova Micro Systems)"
+	description "Nova CAD v2.0N (1985)(Nova Micro Systems)"
+	rom ( name "Nova CAD v2.0N (1985)(Nova Micro Systems).bin" size 16384 crc bf63fccd md5 cef02e8a134562088bf77fc5a09c6236 )
+)
+
+game (
+	name "Nova CAD v3.3K (1985)(Nova Micro Systems)"
+	description "Nova CAD v3.3K (1985)(Nova Micro Systems)"
+	rom ( name "Nova CAD v3.3K (1985)(Nova Micro Systems).bin" size 16384 crc 6c0d684d md5 318abb373610d82be49485eef1813a3c )
+)
+
+game (
+	name "NTQ Font Extension ROM (1986)(PMS)"
+	description "NTQ Font Extension ROM (1986)(PMS)"
+	rom ( name "NTQ Font Extension ROM (1986)(PMS).bin" size 16384 crc 7f59fc64 md5 ad54b8d226f0a247c81344d7fce0c283 )
+)
+
+game (
+	name "NTQ Font Extension ROM (1986)(PMS)[a]"
+	description "NTQ Font Extension ROM (1986)(PMS)[a]"
+	rom ( name "NTQ Font Extension ROM (1986)(PMS)[a].bin" size 16384 crc 6f2fea09 md5 62925735b0cc572da99e4b29d50630cb )
+)
+
+game (
+	name "Numerator v1.00 (1988)(Logotron)"
+	description "Numerator v1.00 (1988)(Logotron)"
+	rom ( name "Numerator v1.00 (1988)(Logotron).bin" size 16384 crc add40442 md5 33bf6a4619a4d5879a8efbac5b911e36 )
+)
+
+game (
+	name "OrthoCAM v0.02 (1987)(BitWise)"
+	description "OrthoCAM v0.02 (1987)(BitWise)"
+	rom ( name "OrthoCAM v0.02 (1987)(BitWise).bin" size 16384 crc db8ef663 md5 7d727b97beaac51cf5738a195bab2213 )
+)
+
+game (
+	name "Overlay BASIC v1.1 (19xx)(Payne, S.)"
+	description "Overlay BASIC v1.1 (19xx)(Payne, S.)"
+	rom ( name "Overlay BASIC v1.1 (19xx)(Payne, S.).bin" size 8192 crc 3c5fb883 md5 b2cbc88368a9e92971f7ea4316907f85 )
+)
+
+game (
+	name "Oxford Pascal v1.0 (19xx)(Oxford Computers)"
+	description "Oxford Pascal v1.0 (19xx)(Oxford Computers)"
+	rom ( name "Oxford Pascal v1.0 (19xx)(Oxford Computers).bin" size 16384 crc fd6d1208 md5 598e15975094b6757f5233270defcb34 )
+)
+
+game (
+	name "Oxford Pascal v1.1 (19xx)(Oxford Computers)"
+	description "Oxford Pascal v1.1 (19xx)(Oxford Computers)"
+	rom ( name "Oxford Pascal v1.1 (19xx)(Oxford Computers).bin" size 16384 crc 2fd935c0 md5 44489d6a74b82fea06ce86a889c19b0d )
+)
+
+game (
+	name "Oxford Pascal v2.1 (19xx)(Oxford Computers)"
+	description "Oxford Pascal v2.1 (19xx)(Oxford Computers)"
+	rom ( name "Oxford Pascal v2.1 (19xx)(Oxford Computers).bin" size 16384 crc 771cd1da md5 167c5cbde3ed6efa99811a184c8a64b5 )
+)
+
+game (
+	name "Pascal (19xx)(-)"
+	description "Pascal (19xx)(-)"
+	rom ( name "Pascal (19xx)(-).bin" size 16384 crc 3c368f1c md5 6e7df0a2325b7e6c7f88593dc0ef1f1d )
+)
+
+game (
+	name "Pascal Errors v1.0 (1985)(Milsom, B.)"
+	description "Pascal Errors v1.0 (1985)(Milsom, B.)"
+	rom ( name "Pascal Errors v1.0 (1985)(Milsom, B.).bin" size 8192 crc 319c881e md5 c77523d67551435a1401aeec8f50fad7 )
+)
+
+game (
+	name "Pascal T v1.0 (1983)(Brown, J.W.)"
+	description "Pascal T v1.0 (1983)(Brown, J.W.)"
+	rom ( name "Pascal T v1.0 (1983)(Brown, J.W.).bin" size 16384 crc ff4f4214 md5 36091668196df15bec236c0cb5d93585 )
+)
+
+game (
+	name "Pascal v1.00 (1983)(Acorn)"
+	description "Pascal v1.00 (1983)(Acorn)"
+	rom ( name "Pascal v1.00 (1983)(Acorn).bin" size 16384 crc c4adeb8c md5 38d1f9f367705277ae9680fc5e349181 )
+)
+
+game (
+	name "Pascal v1.00-2 (19xx)(-)"
+	description "Pascal v1.00-2 (19xx)(-)"
+	rom ( name "Pascal v1.00-2 (19xx)(-).bin" size 16384 crc c77c1a40 md5 e30c6768cfa1e4f8629589a389cd4f40 )
+)
+
+game (
+	name "Pascal v1.00-2 (19xx)(-)[a]"
+	description "Pascal v1.00-2 (19xx)(-)[a]"
+	rom ( name "Pascal v1.00-2 (19xx)(-)[a].bin" size 16384 crc 11e1f5b7 md5 78f527709e2256bd199f1f7faf0c4e96 )
+)
+
+game (
+	name "Pascal v1.1-1 (19xx)(-)"
+	description "Pascal v1.1-1 (19xx)(-)"
+	rom ( name "Pascal v1.1-1 (19xx)(-).bin" size 16384 crc ed1a7497 md5 2171aa110b958d8c78eda541c217dba7 )
+)
+
+game (
+	name "Pascal v1.1-2 (19xx)(-)"
+	description "Pascal v1.1-2 (19xx)(-)"
+	rom ( name "Pascal v1.1-2 (19xx)(-).bin" size 16384 crc 73455b67 md5 63d8f8041dbb844ba10ecd36d8ff2511 )
+)
+
+game (
+	name "Pen Friend v1.20 (1986)(Handy, P.)"
+	description "Pen Friend v1.20 (1986)(Handy, P.)"
+	rom ( name "Pen Friend v1.20 (1986)(Handy, P.).bin" size 16384 crc a751aab2 md5 fb31423efb3baf9177b148ebf0450cd1 )
+)
+
+game (
+	name "Pen Friend v1.24 (1986)(Handy, P.)"
+	description "Pen Friend v1.24 (1986)(Handy, P.)"
+	rom ( name "Pen Friend v1.24 (1986)(Handy, P.).bin" size 16384 crc 34cb7bbb md5 bd869cfb1cb4c1ff96bd41cd6b5cbf97 )
+)
+
+game (
+	name "PenDown v1.13 (1986)(Logotron)"
+	description "PenDown v1.13 (1986)(Logotron)"
+	rom ( name "PenDown v1.13 (1986)(Logotron).bin" size 16384 crc cb542433 md5 5a4f7a14ca5afaa6167c3982a3895aba )
+)
+
+game (
+	name "PenDown v1.13 (1986)(Logotron)[a]"
+	description "PenDown v1.13 (1986)(Logotron)[a]"
+	rom ( name "PenDown v1.13 (1986)(Logotron)[a].bin" size 16384 crc afc19eb5 md5 5cf8e6a99c640ec41a1f0c9017c91237 )
+)
+
+game (
+	name "PHX v1.00 (19xx)(University of Cambridge)"
+	description "PHX v1.00 (19xx)(University of Cambridge)"
+	rom ( name "PHX v1.00 (19xx)(University of Cambridge).bin" size 16384 crc a16e3fb4 md5 8c549805804722dc83d9f0d2b4fd4f80 )
+)
+
+game (
+	name "PHX v2.00 (19xx)(University of Cambridge)"
+	description "PHX v2.00 (19xx)(University of Cambridge)"
+	rom ( name "PHX v2.00 (19xx)(University of Cambridge).bin" size 16384 crc 275cb817 md5 52e770bcef4941008e45324d7f76e557 )
+)
+
+game (
+	name "Pig ROM v1.0 (19xx)(Bugery)"
+	description "Pig ROM v1.0 (19xx)(Bugery)"
+	rom ( name "Pig ROM v1.0 (19xx)(Bugery).bin" size 8192 crc f0a4e5c6 md5 ee8e214c933cf51c532a309ff8fef102 )
+)
+
+game (
+	name "Pig ROM v1.1 (19xx)(Bugery)"
+	description "Pig ROM v1.1 (19xx)(Bugery)"
+	rom ( name "Pig ROM v1.1 (19xx)(Bugery).bin" size 8192 crc 1dcbd30e md5 ca9a60ef9ae1949a32c5bac00640d323 )
+)
+
+game (
+	name "Pineapple PCB 6333 v4.03 (1988)(Pineapple)"
+	description "Pineapple PCB 6333 v4.03 (1988)(Pineapple)"
+	rom ( name "Pineapple PCB 6333 v4.03 (1988)(Pineapple).bin" size 16384 crc 6a6a5628 md5 5e8ce8b4add0befb84257388ccb62f90 )
+)
+
+game (
+	name "Pineapple PCB v1.07 (1986)(Pineapple)"
+	description "Pineapple PCB v1.07 (1986)(Pineapple)"
+	rom ( name "Pineapple PCB v1.07 (1986)(Pineapple).bin" size 16384 crc f4f77082 md5 cd0f5a3eff1af9dfdd186561b6742ae2 )
+)
+
+game (
+	name "Pineapple PCB v3.02 (1986)(Pineapple)"
+	description "Pineapple PCB v3.02 (1986)(Pineapple)"
+	rom ( name "Pineapple PCB v3.02 (1986)(Pineapple).bin" size 16384 crc 7b3f778d md5 68e4c9e16774ce8a889dc6c10a5a7ca5 )
+)
+
+game (
+	name "Pineapple PCB-AR v1.04 (19xx)(Pineapple)"
+	description "Pineapple PCB-AR v1.04 (19xx)(Pineapple)"
+	rom ( name "Pineapple PCB-AR v1.04 (19xx)(Pineapple).bin" size 16384 crc d3b0fd86 md5 821393678e1357fcc6f38228d8bbcf5c )
+)
+
+game (
+	name "PMS Multi-Font NTQ (1986)(PMS)"
+	description "PMS Multi-Font NTQ (1986)(PMS)"
+	rom ( name "PMS Multi-Font NTQ (1986)(PMS).bin" size 16384 crc 96626c06 md5 ba7411bfbd44cf6190be4d7641ac9d21 )
+)
+
+game (
+	name "PowerFont NTQ v5.01 (1986)(PMS)"
+	description "PowerFont NTQ v5.01 (1986)(PMS)"
+	rom ( name "PowerFont NTQ v5.01 (1986)(PMS).bin" size 16384 crc 5d21bbe1 md5 3af7b41b3b65a756958cf9d9b40ec993 )
+)
+
+game (
+	name "PRES ADFS (1987)(-)"
+	description "PRES ADFS (1987)(-)"
+	rom ( name "PRES ADFS (1987)(-).bin" size 16384 crc 8d17de0e md5 d4cb1d6cdebd720dc653f64e988c36eb )
+)
+
+game (
+	name "PRES ADFS v1.10 (1983)(Acorn)"
+	description "PRES ADFS v1.10 (1983)(Acorn)"
+	rom ( name "PRES ADFS v1.10 (1983)(Acorn).bin" size 16384 crc bbae5114 md5 1088c94e1be55be86b574edb4b0f910c )
+)
+
+game (
+	name "PRES ADFS v3.31 (1983)(Acorn)"
+	description "PRES ADFS v3.31 (1983)(Acorn)"
+	rom ( name "PRES ADFS v3.31 (1983)(Acorn).bin" size 16384 crc 51523993 md5 92fc37df3597722d312600b800fee790 )
+)
+
+game (
+	name "Prestel v1.00 (19xx)(Watford Electronics)"
+	description "Prestel v1.00 (19xx)(Watford Electronics)"
+	rom ( name "Prestel v1.00 (19xx)(Watford Electronics).bin" size 8192 crc f16e4dec md5 c0b35dfb8025a4399a13bb2528228291 )
+)
+
+game (
+	name "Prestel v1.1 (1984)(SofMac)"
+	description "Prestel v1.1 (1984)(SofMac)"
+	rom ( name "Prestel v1.1 (1984)(SofMac).bin" size 16384 crc 7266f0af md5 9af4c1199ba641cc03a293111e7bb262 )
+)
+
+game (
+	name "Prestel v4.70n (1983)(SofMac)"
+	description "Prestel v4.70n (1983)(SofMac)"
+	rom ( name "Prestel v4.70n (1983)(SofMac).bin" size 8192 crc 0a67a386 md5 d09a653dcc4edcef1ebab945b1f0a752 )
+)
+
+game (
+	name "Prestel v4.8n (1984)(SofMac)"
+	description "Prestel v4.8n (1984)(SofMac)"
+	rom ( name "Prestel v4.8n (1984)(SofMac).bin" size 8192 crc 7b021ee3 md5 719cdf289cbecc7652a7c331c72e8fe3 )
+)
+
+game (
+	name "PrintBox v1.22 (19xx)(Logotron)"
+	description "PrintBox v1.22 (19xx)(Logotron)"
+	rom ( name "PrintBox v1.22 (19xx)(Logotron).bin" size 16384 crc 045f7460 md5 a3277a639803f601de3d8a18f2fd96aa )
+)
+
+game (
+	name "Printer Buffer (1984)(Solidisk)"
+	description "Printer Buffer (1984)(Solidisk)"
+	rom ( name "Printer Buffer (1984)(Solidisk).bin" size 8192 crc 577927e4 md5 8f58588af43109632e934bc33289550b )
+)
+
+game (
+	name "Printer Buffer (1984)(Solidisk)[a]"
+	description "Printer Buffer (1984)(Solidisk)[a]"
+	rom ( name "Printer Buffer (1984)(Solidisk)[a].bin" size 8192 crc a73810fd md5 bd3a4c17112036c2ec8b868cde747bdd )
+)
+
+game (
+	name "Printer Buffer (1984)(Solidisk)[a2]"
+	description "Printer Buffer (1984)(Solidisk)[a2]"
+	rom ( name "Printer Buffer (1984)(Solidisk)[a2].bin" size 512 crc 4862fbcf md5 1355424777c72a2ae4f42328a6dab208 )
+)
+
+game (
+	name "Printer Buffer v1.00 (1985)(Smith, I.)"
+	description "Printer Buffer v1.00 (1985)(Smith, I.)"
+	rom ( name "Printer Buffer v1.00 (1985)(Smith, I.).bin" size 1280 crc 2a219b6e md5 a0fba968f47bf5988b923df5939e6142 )
+)
+
+game (
+	name "Printer Buffer v2.10 (1985)(Smith, I.)"
+	description "Printer Buffer v2.10 (1985)(Smith, I.)"
+	rom ( name "Printer Buffer v2.10 (1985)(Smith, I.).bin" size 8192 crc 769ced81 md5 48ecf2284fd6adcd9dc7411a412f1705 )
+)
+
+game (
+	name "Printer Controller v1.0 (19xx)(Micone Computer)"
+	description "Printer Controller v1.0 (19xx)(Micone Computer)"
+	rom ( name "Printer Controller v1.0 (19xx)(Micone Computer).bin" size 8192 crc 0a65cc1d md5 2d219768ec7a7140470316d1b20ffe90 )
+)
+
+game (
+	name "Printer v1.0.0 (1985)(Slogger)"
+	description "Printer v1.0.0 (1985)(Slogger)"
+	rom ( name "Printer v1.0.0 (1985)(Slogger).bin" size 16384 crc db4b4c94 md5 225a512535f2e5633e8db56265a1fb3a )
+)
+
+game (
+	name "PrinterServer (1982)(Acorn)"
+	description "PrinterServer (1982)(Acorn)"
+	rom ( name "PrinterServer (1982)(Acorn).bin" size 8192 crc bf8d4ba5 md5 ff63e824ba6207456d9f35473ec77c66 )
+)
+
+game (
+	name "PrinterServer v1.11 (1982)(Acorn)"
+	description "PrinterServer v1.11 (1982)(Acorn)"
+	rom ( name "PrinterServer v1.11 (1982)(Acorn).bin" size 16384 crc a708e85e md5 435ea496e3c80eac79b6fd9dd7cf14ae )
+)
+
+game (
+	name "Printmaster Epson R v1.00 (1984)(Computer Concepts)"
+	description "Printmaster Epson R v1.00 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Epson R v1.00 (1984)(Computer Concepts).bin" size 8192 crc 444c2ae5 md5 89a220afad6dcba7278d80da2dc92e8e )
+)
+
+game (
+	name "Printmaster Epson v1.00 (1984)(Computer Concepts)"
+	description "Printmaster Epson v1.00 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Epson v1.00 (1984)(Computer Concepts).bin" size 8192 crc 9858235d md5 df99e5a4bbab3d6912bd9a369701e922 )
+)
+
+game (
+	name "Printmaster Epson v1.01 (1984)(Computer Concepts)"
+	description "Printmaster Epson v1.01 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Epson v1.01 (1984)(Computer Concepts).bin" size 16384 crc 8507d330 md5 28926cbd9f8caa5cae09cba0a507fcf4 )
+)
+
+game (
+	name "Printmaster Epson v1.08 (1984)(Computer Concepts)"
+	description "Printmaster Epson v1.08 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Epson v1.08 (1984)(Computer Concepts).bin" size 8192 crc d62709c7 md5 9442df86eefaf88923bc112ba9564669 )
+)
+
+game (
+	name "Printmaster Epson v1.08 (1984)(Computer Concepts)[a]"
+	description "Printmaster Epson v1.08 (1984)(Computer Concepts)[a]"
+	rom ( name "Printmaster Epson v1.08 (1984)(Computer Concepts)[a].bin" size 8192 crc ae2491f7 md5 c3ee25cf150f82eaf4171852d7cc09a7 )
+)
+
+game (
+	name "Printmaster Epson v1.08 (1984)(Computer Concepts)[a2]"
+	description "Printmaster Epson v1.08 (1984)(Computer Concepts)[a2]"
+	rom ( name "Printmaster Epson v1.08 (1984)(Computer Concepts)[a2].bin" size 8192 crc f7efea6c md5 2dd5bd49ed8e22344052bc38d389843f )
+)
+
+game (
+	name "Printmaster Epson v1.10 (1984)(Computer Concepts)"
+	description "Printmaster Epson v1.10 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Epson v1.10 (1984)(Computer Concepts).bin" size 8192 crc df873ea0 md5 ee5c62181d9a12c4a6d2b21652210d68 )
+)
+
+game (
+	name "Printmaster Star v1.10 (1984)(Computer Concepts)"
+	description "Printmaster Star v1.10 (1984)(Computer Concepts)"
+	rom ( name "Printmaster Star v1.10 (1984)(Computer Concepts).bin" size 8192 crc 95808eee md5 9cc819ad52f4c827e087d4f8b05534f9 )
+)
+
+game (
+	name "Printmaster Star v1.10 (1984)(Computer Concepts)[h]"
+	description "Printmaster Star v1.10 (1984)(Computer Concepts)[h]"
+	rom ( name "Printmaster Star v1.10 (1984)(Computer Concepts)[h].bin" size 8192 crc 0aabc324 md5 c76cb99383707a0b65707fb0446a8012 )
+)
+
+game (
+	name "Probe v4.02 (1984)(Altra)"
+	description "Probe v4.02 (1984)(Altra)"
+	rom ( name "Probe v4.02 (1984)(Altra).bin" size 16384 crc 6ad22fab md5 94b5ef6912043824e51d32910c404245 )
+)
+
+game (
+	name "Probe v4.05 (1984)(Altra)"
+	description "Probe v4.05 (1984)(Altra)"
+	rom ( name "Probe v4.05 (1984)(Altra).bin" size 16384 crc 311d51ac md5 55fd1353252730487bf94218646d23f9 )
+)
+
+game (
+	name "Procyon v1.81 (1985)(JK Programs)"
+	description "Procyon v1.81 (1985)(JK Programs)"
+	rom ( name "Procyon v1.81 (1985)(JK Programs).bin" size 8192 crc 467e478d md5 73c8fa06850af462e51386efc8b56dad )
+)
+
+game (
+	name "ProgramSmith v0.80 (1983)(Vision, A.J.)"
+	description "ProgramSmith v0.80 (1983)(Vision, A.J.)"
+	rom ( name "ProgramSmith v0.80 (1983)(Vision, A.J.).bin" size 8192 crc 4e8e637a md5 91d8cb88dc127e30eebd3783bb386a49 )
+)
+
+game (
+	name "Protect (19xx)(Lane, A.)"
+	description "Protect (19xx)(Lane, A.)"
+	rom ( name "Protect (19xx)(Lane, A.).bin" size 16384 crc 7aef21d2 md5 1808e2dee163ffb07c040f79ab4d4aaf )
+)
+
+game (
+	name "ProWord v1.2 (1985)(Hall, T.)"
+	description "ProWord v1.2 (1985)(Hall, T.)"
+	rom ( name "ProWord v1.2 (1985)(Hall, T.).bin" size 16384 crc ac887e56 md5 eef4f2840164f0180bc5b676d5f9539b )
+)
+
+game (
+	name "ProWord v1.3 (1985)(Hall, T.)"
+	description "ProWord v1.3 (1985)(Hall, T.)"
+	rom ( name "ProWord v1.3 (1985)(Hall, T.).bin" size 16384 crc 692a6913 md5 f4e8b4a62cedbd2b4f99ca2f7be99192 )
+)
+
+game (
+	name "QROM (1984)(Redvers Developments)"
+	description "QROM (1984)(Redvers Developments)"
+	rom ( name "QROM (1984)(Redvers Developments).bin" size 8192 crc 70689753 md5 3780e29893f3389a81504dcf4301aa4c )
+)
+
+game (
+	name "Quest Paint v1.10-1 (1986)(Bradbury, I.)"
+	description "Quest Paint v1.10-1 (1986)(Bradbury, I.)"
+	rom ( name "Quest Paint v1.10-1 (1986)(Bradbury, I.).bin" size 8192 crc 68590876 md5 fc3924f0b4acf632922630f472d47ff5 )
+)
+
+game (
+	name "Quest v2.1A (1984)(AUCBE)"
+	description "Quest v2.1A (1984)(AUCBE)"
+	rom ( name "Quest v2.1A (1984)(AUCBE).bin" size 16384 crc e093159f md5 b75cb83109ca9a77a984f6a189005611 )
+)
+
+game (
+	name "Quick Copy v1.0 (19xx)(Marshall, S.)"
+	description "Quick Copy v1.0 (19xx)(Marshall, S.)"
+	rom ( name "Quick Copy v1.0 (19xx)(Marshall, S.).bin" size 1280 crc 63ef9056 md5 523a1dcd7486348c2634c5f3e98e8d25 )
+)
+
+game (
+	name "QuikMon v1.10 (1984)(Hudson, P.)"
+	description "QuikMon v1.10 (1984)(Hudson, P.)"
+	rom ( name "QuikMon v1.10 (1984)(Hudson, P.).bin" size 8192 crc c25e6f9e md5 682f1fc40d17d4ad3d7b1bb970e53d4f )
+)
+
+game (
+	name "QuikMon v1.10 (1984)(Hudson, P.)[a]"
+	description "QuikMon v1.10 (1984)(Hudson, P.)[a]"
+	rom ( name "QuikMon v1.10 (1984)(Hudson, P.)[a].bin" size 8192 crc f1fd203d md5 8b85306ec4c45510b64358b57a8e1bd5 )
+)
+
+game (
+	name "RAMUtil (1994)(Walker, D.)"
+	description "RAMUtil (1994)(Walker, D.)"
+	rom ( name "RAMUtil (1994)(Walker, D.).bin" size 16384 crc 70232124 md5 919cfa130c0908386aff4f2193e8e57b )
+)
+
+game (
+	name "RCML8 & Graphics Extension v1.20 (1985)(Acornsoft)"
+	description "RCML8 & Graphics Extension v1.20 (1985)(Acornsoft)"
+	rom ( name "RCML8 & Graphics Extension v1.20 (1985)(Acornsoft).bin" size 16384 crc 78d52df9 md5 08ba9bde0f4a914a6fe51deabc657168 )
+)
+
+game (
+	name "RCML9 & Graphics Extension v1.20 (1985)(Acornsoft)"
+	description "RCML9 & Graphics Extension v1.20 (1985)(Acornsoft)"
+	rom ( name "RCML9 & Graphics Extension v1.20 (1985)(Acornsoft).bin" size 16384 crc c26f198b md5 82055d129d9aa834622319f7ecc45155 )
+)
+
+game (
+	name "Ripper ROM v1 (1985)(Dicksoft)"
+	description "Ripper ROM v1 (1985)(Dicksoft)"
+	rom ( name "Ripper ROM v1 (1985)(Dicksoft).bin" size 8192 crc 09bdfcad md5 a54ea63193b991fd3d7805016e1a9c2d )
+)
+
+game (
+	name "Ripper ROM v1 (1985)(Dicksoft)[a]"
+	description "Ripper ROM v1 (1985)(Dicksoft)[a]"
+	rom ( name "Ripper ROM v1 (1985)(Dicksoft)[a].bin" size 16384 crc 7e7a8d4e md5 7593a7efe33ee357f522b8bed1603ed2 )
+)
+
+game (
+	name "Ripper ROM v1 (1985)(Dicksoft)[a2]"
+	description "Ripper ROM v1 (1985)(Dicksoft)[a2]"
+	rom ( name "Ripper ROM v1 (1985)(Dicksoft)[a2].bin" size 16384 crc ded000f6 md5 e9d80154742007ba7e3731d617081743 )
+)
+
+game (
+	name "ROM Master v1.00 (1985)(Chalice)"
+	description "ROM Master v1.00 (1985)(Chalice)"
+	rom ( name "ROM Master v1.00 (1985)(Chalice).bin" size 8192 crc 0e7fea41 md5 439c0272c4a50c3e4666dc16f7a42b81 )
+)
+
+game (
+	name "ROMPlus RFS (19xx)(JAFA)"
+	description "ROMPlus RFS (19xx)(JAFA)"
+	rom ( name "ROMPlus RFS (19xx)(JAFA).bin" size 16384 crc 0e8b2bc3 md5 43a80d63dfe295448777e812aa0db9f5 )
+)
+
+game (
+	name "Selcopy v5.00 (1985)(Moss, I.)"
+	description "Selcopy v5.00 (1985)(Moss, I.)"
+	rom ( name "Selcopy v5.00 (1985)(Moss, I.).bin" size 8191 crc aa798274 md5 8b3d2367d30715c24a8be671e088030c )
+)
+
+game (
+	name "Slave v1.04 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.)"
+	description "Slave v1.04 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.)"
+	rom ( name "Slave v1.04 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.).bin" size 16384 crc 96c6f3d0 md5 b5f79942bac79c683fc99201b68a478d )
+)
+
+game (
+	name "Slave v1.34 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.)"
+	description "Slave v1.34 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.)"
+	rom ( name "Slave v1.34 (1985)(Aughton, J. - Pennington, G. - Piumarta, I.).bin" size 16384 crc ccc0817f md5 544c7d897363cf378836b16282991fb3 )
+)
+
+game (
+	name "Slogger T2P3 v2.02 (1987)(Slogger)"
+	description "Slogger T2P3 v2.02 (1987)(Slogger)"
+	rom ( name "Slogger T2P3 v2.02 (1987)(Slogger).bin" size 8192 crc fa6bad73 md5 c607799ec2bb52170e685a8d8c0d0690 )
+)
+
+game (
+	name "Speech! v1.03 (1985)(Superior)"
+	description "Speech! v1.03 (1985)(Superior)"
+	rom ( name "Speech! v1.03 (1985)(Superior).bin" size 8192 crc 38884b27 md5 57690708fec821204748e40cf9d25923 )
+)
+
+game (
+	name "StarBase v2.00 (1984)(Chalk, M.)"
+	description "StarBase v2.00 (1984)(Chalk, M.)"
+	rom ( name "StarBase v2.00 (1984)(Chalk, M.).bin" size 16384 crc 0302fa40 md5 f13a79ec4bf51a1d30fa81253859177e )
+)
+
+game (
+	name "StarGraph v2.01 (1985)(Slogger)"
+	description "StarGraph v2.01 (1985)(Slogger)"
+	rom ( name "StarGraph v2.01 (1985)(Slogger).bin" size 8192 crc 07c9169a md5 d01f4100e4d45b09afc300d35363a8a4 )
+)
+
+game (
+	name "StarMon v1.20b (19xx)(Slogger)"
+	description "StarMon v1.20b (19xx)(Slogger)"
+	rom ( name "StarMon v1.20b (19xx)(Slogger).bin" size 16384 crc 920da66b md5 851e06a41bde2a590423bf6c91e02ab7 )
+)
+
+game (
+	name "StarStore II (1986)(Tornado)"
+	description "StarStore II (1986)(Tornado)"
+	rom ( name "StarStore II (1986)(Tornado).bin" size 16384 crc 43314d69 md5 5d5e367cf9ea3b54b80fa1cf004bb93f )
+)
+
+game (
+	name "StarWord v1.01 (1985)(Slogger)"
+	description "StarWord v1.01 (1985)(Slogger)"
+	rom ( name "StarWord v1.01 (1985)(Slogger).bin" size 16384 crc eee36568 md5 0ff95986f59deffef8d2c79d87ede4a1 )
+)
+
+game (
+	name "T2 PEG400 v2.02 (1987)(Slogger)"
+	description "T2 PEG400 v2.02 (1987)(Slogger)"
+	rom ( name "T2 PEG400 v2.02 (1987)(Slogger).bin" size 16384 crc 7186b666 md5 3a8af7df02ad68dabe5cd7a213ae0eea )
+)
+
+game (
+	name "Terminal (1984)(Acorn)"
+	description "Terminal (1984)(Acorn)"
+	rom ( name "Terminal (1984)(Acorn).bin" size 16384 crc 353b46b0 md5 7e053353b78b4631c274280931d96f02 )
+)
+
+game (
+	name "Terminal Emulator (19xx)(QMC)"
+	description "Terminal Emulator (19xx)(QMC)"
+	rom ( name "Terminal Emulator (19xx)(QMC).bin" size 5632 crc 208a74ee md5 2604c1501cfba3a1d2c30f12879f22d3 )
+)
+
+game (
+	name "Trackerball v0.01 (1985)(Acorn)"
+	description "Trackerball v0.01 (1985)(Acorn)"
+	rom ( name "Trackerball v0.01 (1985)(Acorn).bin" size 16384 crc cfe39ce4 md5 0577f032b6738b8e7a7ed1c9a27b7ec1 )
+)
+
+game (
+	name "TREK - The Complete Disassembler (1986)(Tornado)"
+	description "TREK - The Complete Disassembler (1986)(Tornado)"
+	rom ( name "TREK - The Complete Disassembler (1986)(Tornado).bin" size 16384 crc f8c4ff20 md5 33951282968cd13e6bd7a8d1c34a1d44 )
+)
+
+game (
+	name "TUBE 6502 64k (19xx)(Acorn)"
+	description "TUBE 6502 64k (19xx)(Acorn)"
+	rom ( name "TUBE 6502 64k (19xx)(Acorn).bin" size 2048 crc 1408423a md5 5af065a48459b472f77df8f1fd6988fd )
+)
+
+game (
+	name "TUBE 6502 64k v1.1 (19xx)(Acorn)"
+	description "TUBE 6502 64k v1.1 (19xx)(Acorn)"
+	rom ( name "TUBE 6502 64k v1.1 (19xx)(Acorn).bin" size 4096 crc 98b5fe42 md5 8c3b9252ac812c892aa21b9252abf94c )
+)
+
+game (
+	name "Utils v1.0 (1986)(Acorn)"
+	description "Utils v1.0 (1986)(Acorn)"
+	rom ( name "Utils v1.0 (1986)(Acorn).bin" size 16384 crc 6b213924 md5 f5a07c8d6fce456f06392e31d9b7224e )
+)
+
+game (
+	name "UVIPROM v1E1 (1985)(Solidisk)"
+	description "UVIPROM v1E1 (1985)(Solidisk)"
+	rom ( name "UVIPROM v1E1 (1985)(Solidisk).bin" size 16384 crc c1cd2fea md5 84f89b2fc0dc6f38f22c7b76c30176a9 )
+)
+
+game (
+	name "View (1982)(Acornsoft)"
+	description "View (1982)(Acornsoft)"
+	rom ( name "View (1982)(Acornsoft).bin" size 16384 crc bdc9b5df md5 178d09285727d596f8863f94a2fc8dad )
+)
+
+game (
+	name "ViewSheet v1.0 (1984)(Acornsoft)"
+	description "ViewSheet v1.0 (1984)(Acornsoft)"
+	rom ( name "ViewSheet v1.0 (1984)(Acornsoft).bin" size 16384 crc 1a831564 md5 7d5a80a8ce929d0a0f6ca8626cb9f436 )
+)
+
+game (
+	name "ViewSpell v1.0 (1985)(Acornsoft)"
+	description "ViewSpell v1.0 (1985)(Acornsoft)"
+	rom ( name "ViewSpell v1.0 (1985)(Acornsoft).bin" size 16384 crc 224a0fbc md5 71da44c641393bc3bad453141379ec69 )
+)
+
+game (
+	name "Wapping Editor v1.30 High (1988)(-)"
+	description "Wapping Editor v1.30 High (1988)(-)"
+	rom ( name "Wapping Editor v1.30 High (1988)(-).bin" size 32768 crc 6eace1c6 md5 f98f80e8e2c4a77786887aa046864670 )
+)
+
+game (
+	name "Wapping Editor v1.30 Low (19xx)(-)"
+	description "Wapping Editor v1.30 Low (19xx)(-)"
+	rom ( name "Wapping Editor v1.30 Low (19xx)(-).bin" size 32768 crc 2133c6d1 md5 cddf9e788f252fd0af7fbf6d2903591d )
+)
+
+game (
+	name "Watford Electronics DDFS v1.40 (1984)(Bray, A.C.)"
+	description "Watford Electronics DDFS v1.40 (1984)(Bray, A.C.)"
+	rom ( name "Watford Electronics DDFS v1.40 (1984)(Bray, A.C.).bin" size 16384 crc 6c6eef94 md5 f784fd346bc737ab304995128630f226 )
+)
+
+game (
+	name "Watford Electronics DDFS v1.50 (1984)(Bray, A.C.)"
+	description "Watford Electronics DDFS v1.50 (1984)(Bray, A.C.)"
+	rom ( name "Watford Electronics DDFS v1.50 (1984)(Bray, A.C.).bin" size 16384 crc d2fff497 md5 02f3a2b22a5076316c74132a0fac9df8 )
+)
+
+game (
+	name "Watford Electronics DDFS v1.53 (1985)(Bray, A.C.)"
+	description "Watford Electronics DDFS v1.53 (1985)(Bray, A.C.)"
+	rom ( name "Watford Electronics DDFS v1.53 (1985)(Bray, A.C.).bin" size 16384 crc e1be4ee4 md5 d2b71fa664f6cdf8c24b9b304777998c )
+)
+
+game (
+	name "Watford Electronics DDFS v1.54T (1987)(Bray, A.C.)"
+	description "Watford Electronics DDFS v1.54T (1987)(Bray, A.C.)"
+	rom ( name "Watford Electronics DDFS v1.54T (1987)(Bray, A.C.).bin" size 16384 crc 6504c1ed md5 e73a0417278504a6dfac2ccd9a73e9a9 )
+)
+
+game (
+	name "Watford Electronics DDFS+ v0.91 (1985)(Bray, A.C.)"
+	description "Watford Electronics DDFS+ v0.91 (1985)(Bray, A.C.)"
+	rom ( name "Watford Electronics DDFS+ v0.91 (1985)(Bray, A.C.).bin" size 16384 crc 6f8040f8 md5 a8216ab77db5c228172491124f3a6ba3 )
+)
+
+game (
+	name "Watford Electronics DFS v1.10 (1983)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.10 (1983)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.10 (1983)(Bray, A.C.).bin" size 16384 crc 73c47a91 md5 6609497690ff872827bb431f58257fb3 )
+)
+
+game (
+	name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.).bin" size 16384 crc 153edf1f md5 79b31feacab0b1ccddf358be5dfb6241 )
+)
+
+game (
+	name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a]"
+	description "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a]"
+	rom ( name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a].bin" size 16384 crc 9add70e8 md5 1384f8cb0b91c8e0e9f1ec185bbf50d3 )
+)
+
+game (
+	name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a2]"
+	description "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a2]"
+	rom ( name "Watford Electronics DFS v1.30 (1983)(Bray, A.C.)[a2].bin" size 16384 crc 54b37d84 md5 ca9a010beb04df24dc9141c519e28c37 )
+)
+
+game (
+	name "Watford Electronics DFS v1.41 (1983)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.41 (1983)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.41 (1983)(Bray, A.C.).bin" size 16384 crc fda3f58d md5 24458ace9566a01d255bca16b46a960d )
+)
+
+game (
+	name "Watford Electronics DFS v1.42 (1983)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.42 (1983)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.42 (1983)(Bray, A.C.).bin" size 16384 crc aef838de md5 6e9356d0a5e7fbabb386824ec370d6f3 )
+)
+
+game (
+	name "Watford Electronics DFS v1.43 (1985)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.43 (1985)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.43 (1985)(Bray, A.C.).bin" size 16384 crc 11f4d22d md5 b500b0b1e82b156823f024c23c4894cd )
+)
+
+game (
+	name "Watford Electronics DFS v1.43 (1985)(Bray, A.C.)[a]"
+	description "Watford Electronics DFS v1.43 (1985)(Bray, A.C.)[a]"
+	rom ( name "Watford Electronics DFS v1.43 (1985)(Bray, A.C.)[a].bin" size 16384 crc 3755ee18 md5 990b8a9755af25452c85f23ceb344be4 )
+)
+
+game (
+	name "Watford Electronics DFS v1.44 (1986)(Bray, A.C.)"
+	description "Watford Electronics DFS v1.44 (1986)(Bray, A.C.)"
+	rom ( name "Watford Electronics DFS v1.44 (1986)(Bray, A.C.).bin" size 16384 crc 9fb8d13f md5 1d250b0242e447e9106e8bfd1f27ea84 )
+)
+
+game (
+	name "Watford Electronics DFS v1.44 (1986)(Bray, A.C.)[a]"
+	description "Watford Electronics DFS v1.44 (1986)(Bray, A.C.)[a]"
+	rom ( name "Watford Electronics DFS v1.44 (1986)(Bray, A.C.)[a].bin" size 16384 crc ca635ea7 md5 e6626ffd5096e529e22db643a25c8352 )
+)
+
+game (
+	name "Watford Print ROM v0.1C (1983)(Watford Electronics)"
+	description "Watford Print ROM v0.1C (1983)(Watford Electronics)"
+	rom ( name "Watford Print ROM v0.1C (1983)(Watford Electronics).bin" size 8192 crc cf1b8551 md5 917a8b2c0a7a8100b7aeebf83fb796ca )
+)
+
+game (
+	name "Watford Print ROM v0.1E (1983)(Watford Electronics)"
+	description "Watford Print ROM v0.1E (1983)(Watford Electronics)"
+	rom ( name "Watford Print ROM v0.1E (1983)(Watford Electronics).bin" size 8192 crc 2ca150a2 md5 b8130f68d5a988b68ca34954375dd811 )
+)
+
+game (
+	name "Wordwise v1.10 (1982)(Computer Concepts)"
+	description "Wordwise v1.10 (1982)(Computer Concepts)"
+	rom ( name "Wordwise v1.10 (1982)(Computer Concepts).bin" size 8192 crc eaf041fb md5 764bde6e5bcb84864061cb819a907d2e )
+)
+
+game (
+	name "Wordwise-Plus v1.4a (1984)(Computer Concepts)"
+	description "Wordwise-Plus v1.4a (1984)(Computer Concepts)"
+	rom ( name "Wordwise-Plus v1.4a (1984)(Computer Concepts).bin" size 16384 crc 3311e672 md5 9bf3dc37362532e644cba293f8247824 )
+)
+
+game (
+	name "Wordwise-Plus v1.4e (1984)(Computer Concepts)"
+	description "Wordwise-Plus v1.4e (1984)(Computer Concepts)"
+	rom ( name "Wordwise-Plus v1.4e (1984)(Computer Concepts).bin" size 16384 crc 066b8ee7 md5 fbf04bfa0ecddb5463be8ce65eafef95 )
+)
+
+game (
+	name "ZDFS v0.90 (19xx)(-)"
+	description "ZDFS v0.90 (19xx)(-)"
+	rom ( name "ZDFS v0.90 (19xx)(-).bin" size 8192 crc 944958b6 md5 73ce9cddd3322021640868deb4277182 )
+)
+
+game (
+	name "ZDFS v0.90 (19xx)(-)[a]"
+	description "ZDFS v0.90 (19xx)(-)[a]"
+	rom ( name "ZDFS v0.90 (19xx)(-)[a].bin" size 8192 crc 3ce609cf md5 803530149c274994fabc6d28cbe03679 )
+)
+
+game (
+	name "ZDFS v0.90 (19xx)(-)[b]"
+	description "ZDFS v0.90 (19xx)(-)[b]"
+	rom ( name "ZDFS v0.90 (19xx)(-)[b].bin" size 8236 crc 819e6bc8 md5 b1613b4cdba34faa5e718c522688a4c3 )
+)

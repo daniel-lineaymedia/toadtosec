@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Bondwell 12 - Operating Systems"
+	description "Bondwell 12 - Operating Systems (TOSEC-v2012-08-27)"
+	category "Bondwell 12 - Operating Systems"
+	version 2012-08-27
+	author "mictlantecuhtle"
+)
+
+game (
+	name "60K CPM v2.2 (1984)(Digital Research)"
+	description "60K CPM v2.2 (1984)(Digital Research)"
+	rom ( name "60K CPM v2.2 (1984)(Digital Research).imd" size 142458 crc 6858234c md5 a38f62afb3ba0d5906a5e30bdb469376 sha1 72981d1616402e5071a5364041694f156eafb3c5 )
+)
+

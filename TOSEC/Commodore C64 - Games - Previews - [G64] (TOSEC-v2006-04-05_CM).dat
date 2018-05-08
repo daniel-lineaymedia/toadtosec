@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Commodore C64 - Games - Previews - [G64]"
+	description "Commodore C64 - Games - Previews - [G64] (TOSEC-v2006-04-05)"
+	category "Commodore C64 - Games - Previews - [G64]"
+	version 2006-04-05
+	author "DesertWolf"
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side A)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side A)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side A).g64" size 317884 crc a7a0c5e5 md5 486a0ec2e14572936d507eefb2668bee )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side B)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side B)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 1 of 5 Side B).g64" size 317884 crc 6404f359 md5 ea0ac38462da6768583b9c033d16efb6 )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side A)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side A)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side A).g64" size 317884 crc 127eb377 md5 cb15ef635b63f163f7a16f99e43d70a5 )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side B)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side B)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 2 of 5 Side B).g64" size 317884 crc 63a98827 md5 3190f73db66be88fd4fae121c9a062bf )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side A)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side A)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side A).g64" size 317884 crc 190c66b5 md5 e3fd9c63b4fc57472646dc7861a58ca9 )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side B)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side B)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 3 of 5 Side B).g64" size 317884 crc 6ced5c5e md5 8df201484443423b51368615f9a97dd9 )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side A)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side A)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side A).g64" size 317884 crc 9b57d39d md5 e691e1d5ec5b5233f02bd5ae9700ec1d )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side B)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side B)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 4 of 5 Side B).g64" size 317884 crc d6613fee md5 568eac83f5e4e1b069ee5dfad1d8010a )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side A)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side A)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side A).g64" size 317884 crc 165d5eea md5 6283fe94783b5e75b902231e50b4ebdc )
+)
+
+game (
+	name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side B)"
+	description "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side B)"
+	rom ( name "Newcomer - Preview (1995)(Andras Lay)(hu)(Disk 5 of 5 Side B).g64" size 317884 crc 6e0e8c2c md5 144d4d49f7dad68f92965a6ac9b4f826 )
+)

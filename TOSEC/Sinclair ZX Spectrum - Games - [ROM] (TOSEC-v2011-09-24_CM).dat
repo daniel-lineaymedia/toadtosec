@@ -1,0 +1,140 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Games - [ROM]"
+	description "Sinclair ZX Spectrum - Games - [ROM] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Games - [ROM]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "Backgammon (1983)(Sinclair Research)(GB)"
+	description "Backgammon (1983)(Sinclair Research)(GB)"
+	rom ( name "Backgammon (1983)(Sinclair Research)(GB).rom" size 16384 crc 40e78b48 md5 2c8ed2fb3163dcc7e017707f96f57491 sha1 e6ede60bb5e08d7ead8343f8078834d2afb49c30 )
+)
+
+game (
+	name "Cookie (1983)(Sinclair Research)(GB)"
+	description "Cookie (1983)(Sinclair Research)(GB)"
+	rom ( name "Cookie (1983)(Sinclair Research)(GB).rom" size 16384 crc 7108e9a8 md5 81ce8fb19ccb4dba5095d944133fa82f sha1 fa5753133daa2a6b122948adf604c12ab70e2ce9 )
+)
+
+game (
+	name "Gyruss (1984)(Parker Software)(GB)(proto)[unreleased]"
+	description "Gyruss (1984)(Parker Software)(GB)(proto)[unreleased]"
+	rom ( name "Gyruss (1984)(Parker Software)(GB)(proto)[unreleased].rom" size 16384 crc 0dd3bceb md5 b72a8bf46e7f332d6d754176a29cc7e1 sha1 9745d1ee713b2c6d319752aee523105905cbf562 )
+)
+
+game (
+	name "Horace & the Spiders (1983)(Sinclair Research)(GB)"
+	description "Horace & the Spiders (1983)(Sinclair Research)(GB)"
+	rom ( name "Horace & the Spiders (1983)(Sinclair Research)(GB).rom" size 16384 crc 8ce28ffe md5 2e8724b7df5ae57772b331cd69828f76 sha1 805fcdf83c74937adffab97027310d8c8e431c5a )
+)
+
+game (
+	name "Hungry Horace (1982)(Sinclair Research)(GB)"
+	description "Hungry Horace (1982)(Sinclair Research)(GB)"
+	rom ( name "Hungry Horace (1982)(Sinclair Research)(GB).rom" size 16384 crc bef35699 md5 4ae6a0f9535f61b9d438ffd7f593279f sha1 00129d9a5094a91a6e7392245be5121d5d17adf0 )
+)
+
+game (
+	name "Jet Pac (1983)(Sinclair Research)(GB)"
+	description "Jet Pac (1983)(Sinclair Research)(GB)"
+	rom ( name "Jet Pac (1983)(Sinclair Research)(GB).rom" size 16384 crc 1d194e5b md5 a81ec6c707d37122197a5e66b81f2aa7 sha1 0f0ddb79bb6b052846e0419df231df44184fbca6 )
+)
+
+game (
+	name "Knight Lore (1984)(Ultimate Play The Game)(GB)[b]"
+	description "Knight Lore (1984)(Ultimate Play The Game)(GB)[b]"
+	rom ( name "Knight Lore (1984)(Ultimate Play The Game)(GB)[b].rom" size 32768 crc 7bcd642c md5 e1f94d1444f1ebf7320cad951758f6d0 sha1 0c1aeeabd77b179b343f86e1ccd89f340bfbb1f3 )
+)
+
+game (
+	name "Loco Motion (1984)(Amazon Software)(GB)(proto)[unreleased]"
+	description "Loco Motion (1984)(Amazon Software)(GB)(proto)[unreleased]"
+	rom ( name "Loco Motion (1984)(Amazon Software)(GB)(proto)[unreleased].rom" size 16384 crc 33b8ae50 md5 72e8e2d40d047d7b3239cc25a664baef sha1 230294b652250b975a84b8618a68a8e60729cc2b )
+)
+
+game (
+	name "Master Chess (1983)(Sinclair Research)(GB)"
+	description "Master Chess (1983)(Sinclair Research)(GB)"
+	rom ( name "Master Chess (1983)(Sinclair Research)(GB).rom" size 16384 crc 08c6a8c6 md5 f09ad307ad048022603980690b2925b1 sha1 bba6d31ff54d3009cc61ae767973aab492bb104c )
+)
+
+game (
+	name "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[a][aka Panama Joe]"
+	description "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[a][aka Panama Joe]"
+	rom ( name "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[a][aka Panama Joe].rom" size 16384 crc 5d73082e md5 185f9c43554464271db4e83aca878814 sha1 e8f1b6e6b8c8eb6de6a0c6d271351ca7056a39af )
+)
+
+game (
+	name "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[aka Panama Joe]"
+	description "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[aka Panama Joe]"
+	rom ( name "Montezuma's Revenge (1984)(Parker Software)(GB)(proto)[aka Panama Joe].rom" size 16384 crc ff8d7dc3 md5 dd7b946dc32449f8d070f3d36fb53788 sha1 b700e37f7e24adea6ba12cf0e935307bd006b9c9 )
+)
+
+game (
+	name "Planetoids (1982)(Sinclair Research)(GB)"
+	description "Planetoids (1982)(Sinclair Research)(GB)"
+	rom ( name "Planetoids (1982)(Sinclair Research)(GB).rom" size 16384 crc 06e43fa2 md5 2bbe82906c691a83e616642c3b78da89 sha1 da3041aa2f14abda0d2966e44fd2fd144bb3aa72 )
+)
+
+game (
+	name "Popeye (1984)(Parker Software)(GB)(proto)[unreleased]"
+	description "Popeye (1984)(Parker Software)(GB)(proto)[unreleased]"
+	rom ( name "Popeye (1984)(Parker Software)(GB)(proto)[unreleased].rom" size 16384 crc 85c189c1 md5 88e67a36632ed99ffecabb8eaba6ca8f sha1 5c185c7e3eed2c3379bf74bf522f95c32a730278 )
+)
+
+game (
+	name "Pssst (1983)(Sinclair Research)(GB)"
+	description "Pssst (1983)(Sinclair Research)(GB)"
+	rom ( name "Pssst (1983)(Sinclair Research)(GB).rom" size 16384 crc 464cd4f6 md5 a751d949cdec3bd40b01dfb8c27cf161 sha1 cebafa93c110eabb4b343e7a34175d77d0fd0797 )
+)
+
+game (
+	name "QBert (1984)(Parker Software)(GB)(proto)[unreleased]"
+	description "QBert (1984)(Parker Software)(GB)(proto)[unreleased]"
+	rom ( name "QBert (1984)(Parker Software)(GB)(proto)[unreleased].rom" size 16384 crc 5de868db md5 64a0a66f6b17adf25d2df4d82fa6fb61 sha1 777872a80411fd9c9653cc9c6dea1506b833d6b2 )
+)
+
+game (
+	name "Return of The Jedi - Death Star Battle (1984)(Parker Software)(GB)(proto)"
+	description "Return of The Jedi - Death Star Battle (1984)(Parker Software)(GB)(proto)"
+	rom ( name "Return of The Jedi - Death Star Battle (1984)(Parker Software)(GB)(proto).rom" size 16384 crc 5f5bf622 md5 ab458720723a024a942dff88b7060601 sha1 71e55eecb5f38338af8826ae743509d35250f20e )
+)
+
+game (
+	name "Shadow of the Unicorn ROM Loader (2001)(Ross, Fraser)(GB)"
+	description "Shadow of the Unicorn ROM Loader (2001)(Ross, Fraser)(GB)"
+	rom ( name "Shadow of the Unicorn ROM Loader (2001)(Ross, Fraser)(GB).rom" size 16384 crc 7085a0fd md5 cc69dab6b2f4df04c2200eddd87d8f91 sha1 66cc823587b520af9636eed7a342d69d3dd15123 )
+)
+
+game (
+	name "Sinclair ZX Spectrum Test ROM (1983)(Sinclair Research)(GB)[unpublished]"
+	description "Sinclair ZX Spectrum Test ROM (1983)(Sinclair Research)(GB)[unpublished]"
+	rom ( name "Sinclair ZX Spectrum Test ROM (1983)(Sinclair Research)(GB)[unpublished].rom" size 8192 crc 730bba9e md5 f51ffc41b98b2870b1df5403f868919b sha1 9e162a027e64ab57ccbedb7da86c2afc7ee44749 )
+)
+
+game (
+	name "Space Raiders (1982)(Sinclair Research)(GB)"
+	description "Space Raiders (1982)(Sinclair Research)(GB)"
+	rom ( name "Space Raiders (1982)(Sinclair Research)(GB).rom" size 16384 crc a570bd3d md5 ec356fc2c1ea1fd16ff83e320beb8ec9 sha1 f8359abdf50360261099460e48d440738109af1d )
+)
+
+game (
+	name "Star Wars (1984)(Parker Software)(GB)(proto)[a][unreleased]"
+	description "Star Wars (1984)(Parker Software)(GB)(proto)[a][unreleased]"
+	rom ( name "Star Wars (1984)(Parker Software)(GB)(proto)[a][unreleased].rom" size 16384 crc 90b61858 md5 2a066b8eab8bf5926b9bb1dc8b6d1137 sha1 29cbda204ea20d42429a723afe2d00b9edd0a04d )
+)
+
+game (
+	name "Star Wars (1984)(Parker Software)(GB)(proto)[unreleased]"
+	description "Star Wars (1984)(Parker Software)(GB)(proto)[unreleased]"
+	rom ( name "Star Wars (1984)(Parker Software)(GB)(proto)[unreleased].rom" size 16384 crc 732c6f5d md5 befae3af0173cd40fdcb1a5f3da86ff0 sha1 0ade16899c2e815ddfea6782618b0cdf760e6d54 )
+)
+
+game (
+	name "Tranz Am (1983)(Sinclair Research)(GB)"
+	description "Tranz Am (1983)(Sinclair Research)(GB)"
+	rom ( name "Tranz Am (1983)(Sinclair Research)(GB).rom" size 16384 crc 03da9be7 md5 b7172c44b16382590649caac5f2a4859 sha1 caf4441730a7032375d82edf385d5ac7f65c1dcd )
+)
+

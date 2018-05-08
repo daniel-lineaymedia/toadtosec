@@ -1,0 +1,92 @@
+clrmamepro (
+	name "Commodore C64 - Docs - [D64]"
+	description "Commodore C64 - Docs - [D64] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Docs - [D64]"
+	version 2012-12-17
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Basket Playoff - Docs (1992)(Simulmondo)"
+	description "Basket Playoff - Docs (1992)(Simulmondo)"
+	rom ( name "Basket Playoff - Docs (1992)(Simulmondo).d64" size 174848 crc a4249e10 md5 d9254ba8b61ef4e5b27dee4b0a03b7d2 sha1 1af300b1cb55d2efe39537f867a2dd4d2f2c8848 )
+)
+
+game (
+	name "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side A)"
+	description "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side A)"
+	rom ( name "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side A).d64" size 174848 crc c0ed2ac5 md5 35777ac0c0ff3907501aa7bcb6e73439 sha1 c6134c47ec144373b599b9200c0f9e5d7f477a50 )
+)
+
+game (
+	name "Curse of the Azure Bonds - Docs (1989)(Crazy)(Side A)[a]"
+	description "Curse of the Azure Bonds - Docs (1989)(Crazy)(Side A)[a]"
+	rom ( name "Curse of the Azure Bonds - Docs (1989)(Crazy)(Side A)[a].d64" size 174848 crc c8100f1d md5 ca58966b5ac4e8b258a58058d74e20c2 sha1 c4bc81ee2d1620c4471c2ae1fa7775c4d174cc27 )
+)
+
+game (
+	name "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side B)"
+	description "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side B)"
+	rom ( name "Curse of The Azure Bonds - Docs (1989)(Crazy)(Side B).d64" size 174848 crc a6c5b973 md5 ca87b8d5abf59209572358cedc9a4751 sha1 81a0bd0b08e91a7ee1a13c2f4a114b0c5f7aaff8 )
+)
+
+game (
+	name "Denaris Note (19xx)(Hotline)"
+	description "Denaris Note (19xx)(Hotline)"
+	rom ( name "Denaris Note (19xx)(Hotline).d64" size 174848 crc 288088bc md5 ab74a290a493fb444aea7595cfeebb55 sha1 42abd0d146ce7aea6130b0c8756be5ad6dfed0bb )
+)
+
+game (
+	name "Game Docs (19xx)(-)(Disk 1 of 2 Side A)"
+	description "Game Docs (19xx)(-)(Disk 1 of 2 Side A)"
+	rom ( name "Game Docs (19xx)(-)(Disk 1 of 2 Side A).d64" size 174848 crc aa70f7e1 md5 b1e04cc111bc9a81400695945174b618 sha1 46ed0d2d94bc0cbb113248b2436da56169e1d9fa )
+)
+
+game (
+	name "Game Docs (19xx)(-)(Disk 1 of 2 Side B)"
+	description "Game Docs (19xx)(-)(Disk 1 of 2 Side B)"
+	rom ( name "Game Docs (19xx)(-)(Disk 1 of 2 Side B).d64" size 174848 crc 29815e50 md5 153adea1115bb2c1a1e36f7190f2ef10 sha1 d8bacc6268e7cfe4fbc4838f68036c2d1cb763ee )
+)
+
+game (
+	name "Game Docs (19xx)(-)(Disk 2 of 2 Side A)"
+	description "Game Docs (19xx)(-)(Disk 2 of 2 Side A)"
+	rom ( name "Game Docs (19xx)(-)(Disk 2 of 2 Side A).d64" size 174848 crc 429fd267 md5 4cdbf956ea587fde2cfebac72759543c sha1 474feb3a94a0918c8a00eff36574fd8993a8559c )
+)
+
+game (
+	name "Manik's Games Collection (1999)(Remember)"
+	description "Manik's Games Collection (1999)(Remember)"
+	rom ( name "Manik's Games Collection (1999)(Remember).d64" size 174848 crc 72e34fa1 md5 1f2407e32c907cb0587cdded4bd35275 sha1 7191d80b26c5b238888d42715528fa9b14870859 )
+)
+
+game (
+	name "Quedex Writer Instructions (1987)(Fairlight)"
+	description "Quedex Writer Instructions (1987)(Fairlight)"
+	rom ( name "Quedex Writer Instructions (1987)(Fairlight).d64" size 174848 crc d660b535 md5 35fd050e61e586295813b5b55426c5db sha1 4a075279a33d2a084d3592ca4dcc6d8a38126588 )
+)
+
+game (
+	name "Rocket Ranger Docs (1988)(Cinemaware)(PD)[cr UCA]"
+	description "Rocket Ranger Docs (1988)(Cinemaware)(PD)[cr UCA]"
+	rom ( name "Rocket Ranger Docs (1988)(Cinemaware)(PD)[cr UCA].d64" size 174848 crc 800c2960 md5 3a535b754de65e3b29215ee295c80236 sha1 b6bf5441694a53fd997cfa9afb0f3031b8dca5bf )
+)
+
+game (
+	name "SCA C64 Software Anthology, The - Documentations Disk 1 (1983)(SCA)"
+	description "SCA C64 Software Anthology, The - Documentations Disk 1 (1983)(SCA)"
+	rom ( name "SCA C64 Software Anthology, The - Documentations Disk 1 (1983)(SCA).d64" size 174848 crc 730471ed md5 9193981ff032c31378a32de0d70681f0 sha1 3b5a167ae3c1fdd9d6ec5fb3e402cc7164434965 )
+)
+
+game (
+	name "Sword of Honour Instructions (1992)(Prestige Software)[by Ignorance]"
+	description "Sword of Honour Instructions (1992)(Prestige Software)[by Ignorance]"
+	rom ( name "Sword of Honour Instructions (1992)(Prestige Software)[by Ignorance].d64" size 174848 crc 6262fb2a md5 dc9b60cac221fe80d229261ea8a316e6 sha1 89ddc29ce8606caf01551c9b69d50eaeaaa5db80 )
+)
+
+game (
+	name "Test Drive II - The Duel Docs (1989)(NFI)"
+	description "Test Drive II - The Duel Docs (1989)(NFI)"
+	rom ( name "Test Drive II - The Duel Docs (1989)(NFI).d64" size 174848 crc b584f578 md5 289e9af439c24a27a3aa7780700b0586 sha1 3ab9559a747b2b667da06e90cf9be9fbc56cd821 )
+)
+

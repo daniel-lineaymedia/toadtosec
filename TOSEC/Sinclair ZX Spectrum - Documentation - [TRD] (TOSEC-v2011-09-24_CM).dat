@@ -1,0 +1,56 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Documentation - [TRD]"
+	description "Sinclair ZX Spectrum - Documentation - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Documentation - [TRD]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "48 Irons - Help (1996)(FFC Computers)(ru)"
+	description "48 Irons - Help (1996)(FFC Computers)(ru)"
+	rom ( name "48 Irons - Help (1996)(FFC Computers)(ru).trd" size 16640 crc 9db40b60 md5 ed180abe3608af9fc0ff7b0194e54dbb sha1 bf20cca3e893364d678c146258558f65c40c8ae3 )
+)
+
+game (
+	name "Gold Pokes Collection (1994)(AAA)(ru)"
+	description "Gold Pokes Collection (1994)(AAA)(ru)"
+	rom ( name "Gold Pokes Collection (1994)(AAA)(ru).trd" size 655360 crc 598bb23f md5 6bfb3b581e901b8d7bdebccc36c8d0b7 sha1 912ebe284e13529ef21ce748354bf3d54dda8e03 )
+)
+
+game (
+	name "Last Courier, The - Help (1997)(Perspective Group)(ru)"
+	description "Last Courier, The - Help (1997)(Perspective Group)(ru)"
+	rom ( name "Last Courier, The - Help (1997)(Perspective Group)(ru).trd" size 12288 crc 12353951 md5 09afaa875c66575fbe51374f76acd180 sha1 7214f7f99109185835e7f3a1dee7602bc9a71b91 )
+)
+
+game (
+	name "Murk 3320 - Help (1996)(Wanderer)(ru)"
+	description "Murk 3320 - Help (1996)(Wanderer)(ru)"
+	rom ( name "Murk 3320 - Help (1996)(Wanderer)(ru).trd" size 9984 crc deb4b03d md5 d83a8e66f38c4f5480691a6b45ccdd3c sha1 c83dbf0837f9c32abc9f74c18fde637b75e4aadd )
+)
+
+game (
+	name "News of the World - Help (1995)(Ptushka)(ru)"
+	description "News of the World - Help (1995)(Ptushka)(ru)"
+	rom ( name "News of the World - Help (1995)(Ptushka)(ru).trd" size 13056 crc b56fb810 md5 9c021a5ebb520d6a36ef61fb263831b6 sha1 2147ea12a5199a1a75840bfcc5a00fec040fba67 )
+)
+
+game (
+	name "Passiance - Help (1995)(Denis Rykov)(ru)"
+	description "Passiance - Help (1995)(Denis Rykov)(ru)"
+	rom ( name "Passiance - Help (1995)(Denis Rykov)(ru).trd" size 18176 crc 7a3ad39a md5 dc697f73ce99a065939f08eda7e52798 sha1 6f2122e37ecf4fc9c7290e7f6466db836e96e0d3 )
+)
+
+game (
+	name "Seymour 2 - Help (1993)(Sergey Lisitsin)"
+	description "Seymour 2 - Help (1993)(Sergey Lisitsin)"
+	rom ( name "Seymour 2 - Help (1993)(Sergey Lisitsin).trd" size 34048 crc 089762d6 md5 089742cb5990bc5ad1effcfaefbe4583 sha1 163b1e58ebd09e2bcbd0e3ae4e8ce0b2f7961b33 )
+)
+
+game (
+	name "Virus - Help (1995)(S.V. Kukoviakin)(ru)"
+	description "Virus - Help (1995)(S.V. Kukoviakin)(ru)"
+	rom ( name "Virus - Help (1995)(S.V. Kukoviakin)(ru).trd" size 9216 crc e6d721f7 md5 7993e2c797b8d62898d819ad23b86a00 sha1 cb800ed3260e7d43cce148bc752578c9cd13ea23 )
+)
+

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Sharp MZ-800 & MZ-1500 - Firmware"
+	description "Sharp MZ-800 & MZ-1500 - Firmware (TOSEC-v2007-08-22)"
+	category "Sharp MZ-800 & MZ-1500 - Firmware"
+	version 2007-08-22
+	author "Cassiel"
+)
+
+game (
+	name "Sharp MZ-1500 Monitor ROM (19xx)(-)"
+	description "Sharp MZ-1500 Monitor ROM (19xx)(-)"
+	rom ( name "Sharp MZ-1500 Monitor ROM (19xx)(-).bin" size 4096 crc ab1fbe6f md5 25dd40ffd9c61efa8ff338480088f551 )
+)
+
+game (
+	name "Sharp MZ-800 BIOS (19xx)(Sharp)"
+	description "Sharp MZ-800 BIOS (19xx)(Sharp)"
+	rom ( name "Sharp MZ-800 BIOS (19xx)(Sharp).bin" size 16384 crc 600d17e1 md5 7d3909267b3f3e6ce7aa999de0ded226 )
+)
+
+game (
+	name "Sharp MZ-800 Monitor ROM (19xx)(-)"
+	description "Sharp MZ-800 Monitor ROM (19xx)(-)"
+	rom ( name "Sharp MZ-800 Monitor ROM (19xx)(-).bin" size 4096 crc f3a39edc md5 ddcdc324a6d0536bc480a5608e515319 )
+)

@@ -1,0 +1,61 @@
+clrmamepro (
+	name "Commodore C64 - Docs - [LNX]"
+	description "Commodore C64 - Docs - [LNX] (TOSEC-v2006-03-30)"
+	category "Commodore C64 - Docs - [LNX]"
+	version 2006-03-30
+	author "DesertWolf"
+)
+
+game (
+	name "Airline Minianleitung (19xx)(Skyline)(de)"
+	description "Airline Minianleitung (19xx)(Skyline)(de)"
+	rom ( name "Airline Minianleitung (19xx)(Skyline)(de).lnx" size 5858 crc bc7aa5ba md5 e491818f75a733ef1aa851a3985bc054 )
+)
+
+game (
+	name "Atomino Passwords (19xx)(Sir 1992)"
+	description "Atomino Passwords (19xx)(Sir 1992)"
+	rom ( name "Atomino Passwords (19xx)(Sir 1992).lnx" size 490 crc fcf0c79d md5 de711627e4f38ae0d3bbc5436029a094 )
+)
+
+game (
+	name "Bard's Tale Dox (19xx)(-)"
+	description "Bard's Tale Dox (19xx)(-)"
+	rom ( name "Bard's Tale Dox (19xx)(-).lnx" size 8715 crc a854c422 md5 4c630b3160720e0df796073c95ae8ed0 )
+)
+
+game (
+	name "Challenge of the Gobots Docs (19xx)(-)"
+	description "Challenge of the Gobots Docs (19xx)(-)"
+	rom ( name "Challenge of the Gobots Docs (19xx)(-).lnx" size 9039 crc 2a673d5e md5 5e71b1897167835c44739e4608894964 )
+)
+
+game (
+	name "Colossus Chess 4 Anleitung (1984)(CDS Microsystems)"
+	description "Colossus Chess 4 Anleitung (1984)(CDS Microsystems)"
+	rom ( name "Colossus Chess 4 Anleitung (1984)(CDS Microsystems).lnx" size 1966 crc 815fadc5 md5 d1f25fb4fc53d64b9d7c5dfc6486c1af )
+)
+
+game (
+	name "Conflict In Vietnam - Codes (1986)(Microprose Software)[h Ratso]"
+	description "Conflict In Vietnam - Codes (1986)(Microprose Software)[h Ratso]"
+	rom ( name "Conflict In Vietnam - Codes (1986)(Microprose Software)[h Ratso].lnx" size 1342 crc c34ee2c8 md5 aae1dc381aecab15d1c652d1a6f7d4f8 )
+)
+
+game (
+	name "Cybernoid Dox (19xx)(Dominators)"
+	description "Cybernoid Dox (19xx)(Dominators)"
+	rom ( name "Cybernoid Dox (19xx)(Dominators).lnx" size 744 crc 32f62da2 md5 bda950f33b3ec1d89d17537b7d17169d )
+)
+
+game (
+	name "Gunship Docs (19xx)(-)"
+	description "Gunship Docs (19xx)(-)"
+	rom ( name "Gunship Docs (19xx)(-).lnx" size 5393 crc e5588848 md5 19e103b4fce3ad946d3ed65f2416820c )
+)
+
+game (
+	name "Night Shift Passwords (1992)(SIR)"
+	description "Night Shift Passwords (1992)(SIR)"
+	rom ( name "Night Shift Passwords (1992)(SIR).lnx" size 620 crc ab1770df md5 c3ae102d7fded5d1de5277957be6b096 )
+)

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-8 - Compilations - Applications - [TU6]"
+	description "DEC PDP-8 - Compilations - Applications - [TU6] (TOSEC-v2009-10-23)"
+	category "DEC PDP-8 - Compilations - Applications - [TU6]"
+	version 2009-10-23
+	author "TKaos"
+)
+
+game (
+	name "Diagnostics & Basic (19xx)(-)"
+	description "Diagnostics & Basic (19xx)(-)"
+	rom ( name "Diagnostics & Basic (19xx)(-).tu6" size 380292 crc 73d19fd3 md5 21228093958b2989232eaac0d6f27375 )
+)

@@ -1,0 +1,229 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Utilities - [TAP]"
+	description "Commodore C16, C116 & Plus-4 - Utilities - [TAP] (TOSEC-v2010-09-19)"
+	category "Commodore C16, C116 & Plus-4 - Utilities - [TAP]"
+	version 2010-09-19
+	author "TKaos"
+)
+
+game (
+	name "3+1 Magyarul (19xx)(Novotrade)(HU)"
+	description "3+1 Magyarul (19xx)(Novotrade)(HU)"
+	rom ( name "3+1 Magyarul (19xx)(Novotrade)(HU).tap" size 222557 crc f90508f6 md5 206528346287ee01e7538393660da38e )
+)
+
+game (
+	name "Adress C16 (1986)(ComputerSoft Jonigk)(C16)(DE)"
+	description "Adress C16 (1986)(ComputerSoft Jonigk)(C16)(DE)"
+	rom ( name "Adress C16 (1986)(ComputerSoft Jonigk)(C16)(DE).tap" size 333560 crc acdab778 md5 d6437c1363e8a4d3fa6fc2932a3632a4 )
+)
+
+game (
+	name "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side A)"
+	description "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side A)"
+	rom ( name "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side A).tap" size 1107286 crc 2b0d3b51 md5 5744419d87d850944c0b6398a4a8ff7f )
+)
+
+game (
+	name "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side B)"
+	description "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side B)"
+	rom ( name "Angol Teszt (1986)(Novotrade)(HU)(en)(PD)(Side B).tap" size 1078720 crc 77400d81 md5 daadc6bba60c4639720a83198fabd742 )
+)
+
+game (
+	name "Calendar Calculator (1984)(CBM)(US)"
+	description "Calendar Calculator (1984)(CBM)(US)"
+	rom ( name "Calendar Calculator (1984)(CBM)(US).tap" size 670729 crc ab3b9bb6 md5 9addff827f0f4d03117550cc89b19ebe )
+)
+
+game (
+	name "Color Test (1984)(CBM)(US)"
+	description "Color Test (1984)(CBM)(US)"
+	rom ( name "Color Test (1984)(CBM)(US).tap" size 145929 crc 2f01d165 md5 79810b14d326f8c17526eeece58aed38 )
+)
+
+game (
+	name "Depreciation Calc (1984)(CBM)(US)(PD)"
+	description "Depreciation Calc (1984)(CBM)(US)(PD)"
+	rom ( name "Depreciation Calc (1984)(CBM)(US)(PD).tap" size 647284 crc 7a3fe660 md5 93e7fd435f6ad9159c814ee506c8329b )
+)
+
+game (
+	name "Free Etch (1984)(CBM)(US)"
+	description "Free Etch (1984)(CBM)(US)"
+	rom ( name "Free Etch (1984)(CBM)(US).tap" size 214809 crc 466a5f80 md5 c66ee9987a593ac8872b61d302d9e996 )
+)
+
+game (
+	name "Grafik Designer (1984)(Kingsoft)(DE)"
+	description "Grafik Designer (1984)(Kingsoft)(DE)"
+	rom ( name "Grafik Designer (1984)(Kingsoft)(DE).tap" size 180674 crc 0e633318 md5 52771b66a146fd8927394a3b6f984802 )
+)
+
+game (
+	name "Graphics Master (1985)(Mr. Chip Software)(GB)"
+	description "Graphics Master (1985)(Mr. Chip Software)(GB)"
+	rom ( name "Graphics Master (1985)(Mr. Chip Software)(GB).tap" size 292047 crc 1177b4d3 md5 144ca0f641fc1157a68f4c7b623f4b11 )
+)
+
+game (
+	name "Home Office - Database (1985)(Audiogenic)(GB)"
+	description "Home Office - Database (1985)(Audiogenic)(GB)"
+	rom ( name "Home Office - Database (1985)(Audiogenic)(GB).tap" size 332512 crc 95f992a8 md5 a666b00438d29b4ea5a8fec65bb45752 )
+)
+
+game (
+	name "Home Office - Wordpro (1985)(Audiogenic)(GB)"
+	description "Home Office - Wordpro (1985)(Audiogenic)(GB)"
+	rom ( name "Home Office - Wordpro (1985)(Audiogenic)(GB).tap" size 385280 crc 8101d0d5 md5 78bffc5717cc75ea8ea306ce2044a526 )
+)
+
+game (
+	name "Karakter-Szerkeszto (1986)(Novotrade)(HU)"
+	description "Karakter-Szerkeszto (1986)(Novotrade)(HU)"
+	rom ( name "Karakter-Szerkeszto (1986)(Novotrade)(HU).tap" size 266059 crc 5b67d9c1 md5 9b5257e7be5a46a0ca9460dc20f34ac4 )
+)
+
+game (
+	name "King Size Turbo Accounts (1986)(Robtek)(DE)"
+	description "King Size Turbo Accounts (1986)(Robtek)(DE)"
+	rom ( name "King Size Turbo Accounts (1986)(Robtek)(DE).tap" size 162280 crc bd031b6b md5 48e47aad94ce9bb258ea454a80d9c95f )
+)
+
+game (
+	name "King Size Turbo Calc (1986)(Robtek)(GB)(de)"
+	description "King Size Turbo Calc (1986)(Robtek)(GB)(de)"
+	rom ( name "King Size Turbo Calc (1986)(Robtek)(GB)(de).tap" size 179955 crc 132ce76c md5 2ca4f3233f96df81352d20c4169d381e )
+)
+
+game (
+	name "Lottosysteme (1984)(UserSoft)(DE)(Side A)"
+	description "Lottosysteme (1984)(UserSoft)(DE)(Side A)"
+	rom ( name "Lottosysteme (1984)(UserSoft)(DE)(Side A).tap" size 246234 crc bc259866 md5 51201b9707ab2b366fd50b3f956d3f6c )
+)
+
+game (
+	name "Lottosysteme (1984)(UserSoft)(DE)(Side B)"
+	description "Lottosysteme (1984)(UserSoft)(DE)(Side B)"
+	rom ( name "Lottosysteme (1984)(UserSoft)(DE)(Side B).tap" size 428959 crc 0e84cb15 md5 97b7f782483bb52fb7cc71c8fe608a61 )
+)
+
+game (
+	name "Magyar ABC (1985)(Novotrade)(HU)(Side A)[1k version]"
+	description "Magyar ABC (1985)(Novotrade)(HU)(Side A)[1k version]"
+	rom ( name "Magyar ABC (1985)(Novotrade)(HU)(Side A)[1k version].tap" size 117105 crc 5b3341e0 md5 729fed3d0b4ed54e9c8e5ed87a401b91 )
+)
+
+game (
+	name "Magyar ABC (1985)(Novotrade)(HU)(Side B)[2k version]"
+	description "Magyar ABC (1985)(Novotrade)(HU)(Side B)[2k version]"
+	rom ( name "Magyar ABC (1985)(Novotrade)(HU)(Side B)[2k version].tap" size 168695 crc 643780a6 md5 a9ffe8b3273aa014e519da6a1c60b18e )
+)
+
+game (
+	name "Magyar ABC v2.2 (19xx)(Novotrade)(HU)"
+	description "Magyar ABC v2.2 (19xx)(Novotrade)(HU)"
+	rom ( name "Magyar ABC v2.2 (19xx)(Novotrade)(HU).tap" size 190726 crc abc69a8f md5 1edfb2a9a0bd4040500026bb1b263e14 )
+)
+
+game (
+	name "Mestopri (1986)(Kecskes, Istvan - Agocs, Laszlo)(RU)"
+	description "Mestopri (1986)(Kecskes, Istvan - Agocs, Laszlo)(RU)"
+	rom ( name "Mestopri (1986)(Kecskes, Istvan - Agocs, Laszlo)(RU).tap" size 916556 crc 283bbe67 md5 4b1082ef4054ad72b21c740d8f451f98 )
+)
+
+game (
+	name "Meteo 16 (1985)(Mantra Software)(IT)"
+	description "Meteo 16 (1985)(Mantra Software)(IT)"
+	rom ( name "Meteo 16 (1985)(Mantra Software)(IT).tap" size 795795 crc f92f2a8d md5 fbff98d68baf4df63bebc18055563c5f )
+)
+
+game (
+	name "Mortgage Calc (1984)(CBM)(US)"
+	description "Mortgage Calc (1984)(CBM)(US)"
+	rom ( name "Mortgage Calc (1984)(CBM)(US).tap" size 728564 crc fb63b06a md5 5bef6ad9822473b48def82d42f28361b )
+)
+
+game (
+	name "Paintbox (1985-05-01)(Audiogenic)(GB)"
+	description "Paintbox (1985-05-01)(Audiogenic)(GB)"
+	rom ( name "Paintbox (1985-05-01)(Audiogenic)(GB).tap" size 107827 crc 17d503f1 md5 dcea628f72ee738599f4f642577b2c81 )
+)
+
+game (
+	name "Paintbox (1985-05-01)(Kingsoft)(DE)(en)"
+	description "Paintbox (1985-05-01)(Kingsoft)(DE)(en)"
+	rom ( name "Paintbox (1985-05-01)(Kingsoft)(DE)(en).tap" size 164275 crc a779ed77 md5 9761e9ee84e90bd7e3530eca976cfaf5 )
+)
+
+game (
+	name "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[a]"
+	description "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[a]"
+	rom ( name "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[a].tap" size 164240 crc 0c3391ae md5 bf9fa250cb3ed0e8899181055925500e )
+)
+
+game (
+	name "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[with demo]"
+	description "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[with demo]"
+	rom ( name "Paintbox (1985-05-01)(Kingsoft)(DE)(en)[with demo].tap" size 456670 crc a192b4bf md5 c26fe31dbf63e3db6b23fb2f1ebd6025 )
+)
+
+game (
+	name "Psychedelia (1984)(Llamasoft)(GB)"
+	description "Psychedelia (1984)(Llamasoft)(GB)"
+	rom ( name "Psychedelia (1984)(Llamasoft)(GB).tap" size 132942 crc 60af0e3e md5 502680599ecd8de510e13962362b408c )
+)
+
+game (
+	name "Rolf Harris' Picture Builder (1984)(CBM)(GB)"
+	description "Rolf Harris' Picture Builder (1984)(CBM)(GB)"
+	rom ( name "Rolf Harris' Picture Builder (1984)(CBM)(GB).tap" size 825880 crc f802e6b5 md5 93437c5698954240e6d559b89a4086be )
+)
+
+game (
+	name "Startercalc (1984)(CBM)(US)"
+	description "Startercalc (1984)(CBM)(US)"
+	rom ( name "Startercalc (1984)(CBM)(US).tap" size 464244 crc 47fb5aee md5 5adb7588fc1b8af8e1a665787d2c77ee )
+)
+
+game (
+	name "Starterfile (1984)(CBM)(US)"
+	description "Starterfile (1984)(CBM)(US)"
+	rom ( name "Starterfile (1984)(CBM)(US).tap" size 432804 crc 61a53eae md5 71a8c0bbb41994913ca5e29660f25276 )
+)
+
+game (
+	name "Starterscript (1984)(CBM)(US)"
+	description "Starterscript (1984)(CBM)(US)"
+	rom ( name "Starterscript (1984)(CBM)(US).tap" size 676324 crc cc5bfbc3 md5 a607977f7f0174058dca8a77646b50be )
+)
+
+game (
+	name "System-8 (1988)(Blue Ribbon)(GB)"
+	description "System-8 (1988)(Blue Ribbon)(GB)"
+	rom ( name "System-8 (1988)(Blue Ribbon)(GB).tap" size 463188 crc 336698ea md5 5093ae4b04c69f0fa14a0023470802fc )
+)
+
+game (
+	name "Szociometria (19xx)(Deltasoft)(HU)"
+	description "Szociometria (19xx)(Deltasoft)(HU)"
+	rom ( name "Szociometria (19xx)(Deltasoft)(HU).tap" size 492355 crc c0da19c0 md5 80ac363ad22507eaa1176cddc84c1fe9 )
+)
+
+game (
+	name "Trojan Lightpen (1986)(Trojan Products)(C16)(GB)"
+	description "Trojan Lightpen (1986)(Trojan Products)(C16)(GB)"
+	rom ( name "Trojan Lightpen (1986)(Trojan Products)(C16)(GB).tap" size 186334 crc 71886ad8 md5 1ecdb2093c16ee3516330bb6a82ef9f9 )
+)
+
+game (
+	name "Trojan Lightpen (1986)(Trojan Products)(Plus-4)(GB)"
+	description "Trojan Lightpen (1986)(Trojan Products)(Plus-4)(GB)"
+	rom ( name "Trojan Lightpen (1986)(Trojan Products)(Plus-4)(GB).tap" size 382461 crc d502b452 md5 cb007cc53649e48c724187c59468ea6e )
+)
+
+game (
+	name "Vokabel C16 (1986)(ComputerSoft Jonigk)(C16)(DE)"
+	description "Vokabel C16 (1986)(ComputerSoft Jonigk)(C16)(DE)"
+	rom ( name "Vokabel C16 (1986)(ComputerSoft Jonigk)(C16)(DE).tap" size 333274 crc 72da30a8 md5 f8cf343d203cf8cc8df9fa630b25b7ea )
+)

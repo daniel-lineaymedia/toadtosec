@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Exelvision EXL100 - Demos - [FD]"
+	description "Exelvision EXL100 - Demos - [FD] (TOSEC-v2010-05-24)"
+	category "Exelvision EXL100 - Demos - [FD]"
+	version 2010-05-24
+	author "TKaos"
+)
+
+game (
+	name "Slideshow (2009-05-28)(6502man)"
+	description "Slideshow (2009-05-28)(6502man)"
+	rom ( name "Slideshow (2009-05-28)(6502man).fd" size 655360 crc 51033993 md5 463e0fd016def3fb11c588a39855bf58 )
+)

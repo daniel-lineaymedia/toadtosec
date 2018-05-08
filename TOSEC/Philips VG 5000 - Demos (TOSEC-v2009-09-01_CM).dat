@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Philips VG 5000 - Demos"
+	description "Philips VG 5000 - Demos (TOSEC-v2009-09-01)"
+	category "Philips VG 5000 - Demos"
+	version 2009-09-01
+	author "etabeta"
+)
+
+game (
+	name "Demo 27 Couleurs (2005-12-10)(Daniel Coulom)"
+	description "Demo 27 Couleurs (2005-12-10)(Daniel Coulom)"
+	rom ( name "Demo 27 Couleurs (2005-12-10)(Daniel Coulom).k7" size 1623 crc e34757ed md5 2995fbeee4f4514d87ea796c9ee3888b )
+)
+
+game (
+	name "Demo 3 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	description "Demo 3 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	rom ( name "Demo 3 Mode 80 Colonnes (2005-12)(Daniel Coulom).k7" size 1382 crc 427d0fab md5 cd76aa5e99256f8f8c4d6a09df599ad9 )
+)
+
+game (
+	name "Demo 4 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	description "Demo 4 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	rom ( name "Demo 4 Mode 80 Colonnes (2005-12)(Daniel Coulom).k7" size 1975 crc 2c3f7345 md5 025059a00f3367cbed23484f2f8b581b )
+)
+
+game (
+	name "Demo 5 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	description "Demo 5 Mode 80 Colonnes (2005-12)(Daniel Coulom)"
+	rom ( name "Demo 5 Mode 80 Colonnes (2005-12)(Daniel Coulom).k7" size 3622 crc ced6c4dd md5 885cf4a316430a6454dca04afbc6194a )
+)
+
+game (
+	name "Demo Mode 80 Colonnes (2005-11-30)(Daniel Coulom)"
+	description "Demo Mode 80 Colonnes (2005-11-30)(Daniel Coulom)"
+	rom ( name "Demo Mode 80 Colonnes (2005-11-30)(Daniel Coulom).k7" size 1159 crc d2447498 md5 83b154e782f178b6e8245853566be011 )
+)
+
+game (
+	name "Test Mode 80 Colonnes (2005-11-29)(Daniel Coulom)"
+	description "Test Mode 80 Colonnes (2005-11-29)(Daniel Coulom)"
+	rom ( name "Test Mode 80 Colonnes (2005-11-29)(Daniel Coulom).k7" size 521 crc 26c2d28b md5 6b05694b22db30d45f664859bf010a72 )
+)

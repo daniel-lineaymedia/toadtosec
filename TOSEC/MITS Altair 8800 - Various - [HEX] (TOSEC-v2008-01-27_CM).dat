@@ -1,0 +1,13 @@
+clrmamepro (
+	name "MITS Altair 8800 - Various - [HEX]"
+	description "MITS Altair 8800 - Various - [HEX] (TOSEC-v2008-01-27)"
+	category "MITS Altair 8800 - Various - [HEX]"
+	version 2008-01-27
+	author "TKaos"
+)
+
+game (
+	name "MITS 88-LPC Printer Test (2004-06-26)(LaBombard, Scott)"
+	description "MITS 88-LPC Printer Test (2004-06-26)(LaBombard, Scott)"
+	rom ( name "MITS 88-LPC Printer Test (2004-06-26)(LaBombard, Scott).hex" size 99 crc 8927f128 md5 1636b9eb2c3bb237a70c44e56671a423 )
+)

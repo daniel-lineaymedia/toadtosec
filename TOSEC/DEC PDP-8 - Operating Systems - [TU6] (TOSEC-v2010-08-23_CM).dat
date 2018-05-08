@@ -1,0 +1,55 @@
+clrmamepro (
+	name "DEC PDP-8 - Operating Systems - [TU6]"
+	description "DEC PDP-8 - Operating Systems - [TU6] (TOSEC-v2010-08-23)"
+	category "DEC PDP-8 - Operating Systems - [TU6]"
+	version 2010-08-23
+	author "TKaos"
+)
+
+game (
+	name "OS-8 & Basic v4a (19xx)(DEC)(US)"
+	description "OS-8 & Basic v4a (19xx)(DEC)(US)"
+	rom ( name "OS-8 & Basic v4a (19xx)(DEC)(US).tu6" size 380292 crc 5827aad2 md5 31d99bc293b2b47e35962ab32853d8d0 )
+)
+
+game (
+	name "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2)"
+	description "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2)"
+	rom ( name "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 1 of 2).tu6" size 380292 crc 608f09ff md5 dae7f072b9ea2f6eedba1a45995592f7 )
+)
+
+game (
+	name "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2)"
+	description "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2)"
+	rom ( name "OS-8 FR4 v3d (19xx)(DEC)(US)(Tape 2 of 2).tu6" size 380292 crc 2b38ba00 md5 9bfd4d5a63d789d95b08de3311dbd5ce )
+)
+
+game (
+	name "OS-8 v3b (19xx)(DEC)(US)"
+	description "OS-8 v3b (19xx)(DEC)(US)"
+	rom ( name "OS-8 v3b (19xx)(DEC)(US).tu6" size 380292 crc 43d98004 md5 1b2e8929b38ff67a401b44fef40df81e )
+)
+
+game (
+	name "OS-8 v3d (19xx)(DEC)(US)"
+	description "OS-8 v3d (19xx)(DEC)(US)"
+	rom ( name "OS-8 v3d (19xx)(DEC)(US).tu6" size 380292 crc dd3869a6 md5 fced22a4f752a60c2fc98fe0ca8218cb )
+)
+
+game (
+	name "OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US)"
+	description "OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US)"
+	rom ( name "OS-8 v3d Distribution Tape 2 (19xx)(DEC)(US).tu6" size 380292 crc 3b50843d md5 926a63756c0b406edd988c1479aa5ba8 )
+)
+
+game (
+	name "RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2)"
+	description "RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2)"
+	rom ( name "RTS-8 v2b (19xx)(DEC)(US)(Tape 1 of 2).tu6" size 380292 crc c2090815 md5 a978f9f9644cf1e0d779990b3ca5c970 )
+)
+
+game (
+	name "RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2)"
+	description "RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2)"
+	rom ( name "RTS-8 v2b (19xx)(DEC)(US)(Tape 2 of 2).tu6" size 380292 crc 1db2f25b md5 136812d3efed2eddef3b062738136ca6 )
+)

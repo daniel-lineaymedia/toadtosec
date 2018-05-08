@@ -1,0 +1,19 @@
+clrmamepro (
+	name "DEC PDP-1 - Games - [RIM]"
+	description "DEC PDP-1 - Games - [RIM] (TOSEC-v2010-09-09)"
+	category "DEC PDP-1 - Games - [RIM]"
+	version 2010-09-09
+	author "TKaos"
+)
+
+game (
+	name "Spacewar! (1962-02)(Tech Model Railroad Club)"
+	description "Spacewar! (1962-02)(Tech Model Railroad Club)"
+	rom ( name "Spacewar! (1962-02)(Tech Model Railroad Club).rim" size 15057 crc 2e2b9940 md5 45b80baa7a015eafdb9ce14da28e664d )
+)
+
+game (
+	name "Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US)"
+	description "Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US)"
+	rom ( name "Spacewar! v4.1 (2008-08-22)(Samson, Peter)(US).rim" size 8416 crc ba9eb3e0 md5 2887fefbae4543fd474cd741cdbebe9e )
+)

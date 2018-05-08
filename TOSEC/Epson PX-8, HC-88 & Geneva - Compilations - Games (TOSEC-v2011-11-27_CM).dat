@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Epson PX-8, HC-88 & Geneva - Compilations - Games"
+	description "Epson PX-8, HC-88 & Geneva - Compilations - Games (TOSEC-v2011-11-27)"
+	category "Epson PX-8, HC-88 & Geneva - Compilations - Games"
+	version 2011-11-27
+	author "TKaos"
+)
+
+game (
+	name "Snake Pit & Tank Attack (1984)(Unison World)"
+	description "Snake Pit & Tank Attack (1984)(Unison World)"
+	rom ( name "Snake Pit & Tank Attack (1984)(Unison World).rom" size 32768 crc 1f078a35 md5 df544a4fcc28cb90272785bad2d7d2eb sha1 f52559162f5b8dfe61ed76ac4a63c1d96fb85f77 )
+)
+
+game (
+	name "Tower & Sub Zone (1984)(Unison World)"
+	description "Tower & Sub Zone (1984)(Unison World)"
+	rom ( name "Tower & Sub Zone (1984)(Unison World).rom" size 32768 crc 6a7fd8d4 md5 59b2de1be135c0e3119b27334267575c sha1 2bf05c1a194b4a564db883695319d496c0f8a34f )
+)
+

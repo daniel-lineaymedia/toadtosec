@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-8 - Operating Systems - [BIN]"
+	description "DEC PDP-8 - Operating Systems - [BIN] (TOSEC-v2009-10-23)"
+	category "DEC PDP-8 - Operating Systems - [BIN]"
+	version 2009-10-23
+	author "TKaos"
+)
+
+game (
+	name "TSS-8 (19xx)(-)"
+	description "TSS-8 (19xx)(-)"
+	rom ( name "TSS-8 (19xx)(-).bin" size 5378 crc 47f0c4d8 md5 cc122c5582551353428fd1025ceb0276 )
+)

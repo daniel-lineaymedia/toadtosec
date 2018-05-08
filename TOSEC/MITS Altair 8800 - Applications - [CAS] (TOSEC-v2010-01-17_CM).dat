@@ -1,0 +1,13 @@
+clrmamepro (
+	name "MITS Altair 8800 - Applications - [CAS]"
+	description "MITS Altair 8800 - Applications - [CAS] (TOSEC-v2010-01-17)"
+	category "MITS Altair 8800 - Applications - [CAS]"
+	version 2010-01-17
+	author "TKaos"
+)
+
+game (
+	name "Altair Basic v3.2 (19xx)(MITS)[4k version]"
+	description "Altair Basic v3.2 (19xx)(MITS)[4k version]"
+	rom ( name "Altair Basic v3.2 (19xx)(MITS)[4k version].cas" size 4940 crc 252ef8cc md5 05d0bd54a688b73630d6690c98612161 )
+)

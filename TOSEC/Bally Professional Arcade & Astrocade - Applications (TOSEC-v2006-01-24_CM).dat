@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Bally Professional Arcade & Astrocade - Applications"
+	description "Bally Professional Arcade & Astrocade - Applications (TOSEC-v2006-01-24)"
+	category "Bally Professional Arcade & Astrocade - Applications"
+	version 2006-01-24
+	author "Grendel - BuckyB - Cassiel"
+)
+
+game (
+	name "Bally BASIC (19xx)(Bally)"
+	description "Bally BASIC (19xx)(Bally)"
+	rom ( name "Bally BASIC (19xx)(Bally).bin" size 4096 crc 70514687 md5 73625d40343e9097e5e81eb7ffd2e819 )
+)
+
+game (
+	name "Machine Language Manager (1981)(Bit Fiddlers)"
+	description "Machine Language Manager (1981)(Bit Fiddlers)"
+	rom ( name "Machine Language Manager (1981)(Bit Fiddlers).bin" size 2048 crc 5393f920 md5 9d72702c6097a2563c22cfb2170e14b7 )
+)

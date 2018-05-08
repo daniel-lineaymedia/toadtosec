@@ -1,0 +1,187 @@
+clrmamepro (
+	name "NEC PC-9801 - Magazines"
+	description "NEC PC-9801 - Magazines (TOSEC-v2009-06-25)"
+	category "NEC PC-9801 - Magazines"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "DS98 #10 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #10 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #10 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1151996 crc df307e8d md5 21bb39584677a8b3a1eef7d7541ac9a4 )
+)
+
+game (
+	name "DS98 #10 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #10 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #10 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1198076 crc 355fbe5f md5 c9a0b75c4b06b0049dec07b63a6e1a05 )
+)
+
+game (
+	name "DS98 #10 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #10 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #10 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1268732 crc 431dc9f2 md5 be1142d499dc93bcece4357d60a36c91 )
+)
+
+game (
+	name "DS98 #11 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #11 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #11 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1284092 crc a7000966 md5 f019cc1de2c90f41294bd700416fb711 )
+)
+
+game (
+	name "DS98 #11 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #11 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #11 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1271804 crc 22632b79 md5 1fa0ee35afa5c527acbe44c0e44d0957 )
+)
+
+game (
+	name "DS98 #11 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #11 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #11 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1231868 crc 5d607e89 md5 8788f76ec7ee6d7a272eaab3ac093db0 )
+)
+
+game (
+	name "DS98 #12 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #12 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #12 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1290236 crc 700313e3 md5 d5be8077595485e7fa189893b3ffc572 )
+)
+
+game (
+	name "DS98 #12 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #12 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #12 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1256444 crc e74ae872 md5 c8c44a2a719aa0e4b775190648cf0aec )
+)
+
+game (
+	name "DS98 #12 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #12 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #12 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1291260 crc ce248db5 md5 d40ce8a39edd5a19934d82a6fcb40b16 )
+)
+
+game (
+	name "DS98 #13 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #13 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #13 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1298428 crc bc9f496f md5 4c1e06be3252f009d178ba57ccc1addd )
+)
+
+game (
+	name "DS98 #13 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #13 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #13 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1253372 crc 81668224 md5 8266ee1b3c5dd01673e9f23b2824ba0e )
+)
+
+game (
+	name "DS98 #13 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #13 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #13 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1290236 crc 8347b061 md5 1f76f093822dcb283c88be1dcbb30e2a )
+)
+
+game (
+	name "DS98 #14 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #14 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #14 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1289212 crc acf62f33 md5 3d95223af2009e51b4a45fd7910f5c4f )
+)
+
+game (
+	name "DS98 #14 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #14 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #14 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1269756 crc 970a3e13 md5 89c4e9a12de1ef772168c34b7ee4d907 )
+)
+
+game (
+	name "DS98 #14 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #14 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #14 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1306620 crc 9c945a09 md5 08051a03676a018ddb63387c24885d69 )
+)
+
+game (
+	name "DS98 #15 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #15 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #15 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1306620 crc dbebeedf md5 0ee06ac1f16bd8f6331f53e2f2c30c8f )
+)
+
+game (
+	name "DS98 #15 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #15 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #15 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1275900 crc dbaa233f md5 eb0f9bdb3a1ea3f2a9b35d849db8f14c )
+)
+
+game (
+	name "DS98 #15 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #15 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #15 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1293308 crc 781d7319 md5 d46c7a2b9b2c44cc98dc745031996908 )
+)
+
+game (
+	name "DS98 #16 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #16 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #16 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1297404 crc d58b90df md5 5f667263d0bf1267b401a3096571739c )
+)
+
+game (
+	name "DS98 #16 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #16 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #16 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1289212 crc 7f7946b4 md5 d6d65c1d93ec07632d5719e499aab854 )
+)
+
+game (
+	name "DS98 #16 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #16 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #16 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1302524 crc 4c113aef md5 4db978ae8d8fe7116c27526e63df6c3f )
+)
+
+game (
+	name "DS98 #17 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #17 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #17 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1305596 crc 23002f6a md5 7e341f02e0b2524838dfe1def84faafd )
+)
+
+game (
+	name "DS98 #17 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #17 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #17 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1293308 crc 1cbd61ca md5 4263a658aed53d06af2a76088af9f082 )
+)
+
+game (
+	name "DS98 #17 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #17 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #17 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1299452 crc 5c4ab04e md5 bc4fe6a32e6d92c8e51879d8b2e47936 )
+)
+
+game (
+	name "DS98 #18 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #18 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #18 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1248252 crc 859d402d md5 5b0eac0c91a8572a1d84efed4a11eb81 )
+)
+
+game (
+	name "DS98 #18 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #18 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #18 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1306620 crc c6b484a7 md5 c9b07499cf77d47ee80dc70df0fec912 )
+)
+
+game (
+	name "DS98 #18 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #18 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #18 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1305596 crc a882e700 md5 9a6439d51c7b2a72a754ff8327ea7c2d )
+)
+
+game (
+	name "DS98 #9 (1992)(Compile)(JP)(Disk 1 of 3)"
+	description "DS98 #9 (1992)(Compile)(JP)(Disk 1 of 3)"
+	rom ( name "DS98 #9 (1992)(Compile)(JP)(Disk 1 of 3).fdd" size 1289212 crc 9a94f1c9 md5 1179eb6b1c50fdf890298c56b284601e )
+)
+
+game (
+	name "DS98 #9 (1992)(Compile)(JP)(Disk 2 of 3)"
+	description "DS98 #9 (1992)(Compile)(JP)(Disk 2 of 3)"
+	rom ( name "DS98 #9 (1992)(Compile)(JP)(Disk 2 of 3).fdd" size 1131516 crc 31ad9530 md5 d41cc6dc14da5d7bf9d46ebf0107bc13 )
+)
+
+game (
+	name "DS98 #9 (1992)(Compile)(JP)(Disk 3 of 3)"
+	description "DS98 #9 (1992)(Compile)(JP)(Disk 3 of 3)"
+	rom ( name "DS98 #9 (1992)(Compile)(JP)(Disk 3 of 3).fdd" size 1284092 crc 34c8b58b md5 bb997201b24cab83af4ac36d20bd420b )
+)

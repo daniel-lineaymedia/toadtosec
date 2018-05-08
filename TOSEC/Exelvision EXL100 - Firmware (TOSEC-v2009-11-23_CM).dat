@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Exelvision EXL100 - Firmware"
+	description "Exelvision EXL100 - Firmware (TOSEC-v2009-11-23)"
+	category "Exelvision EXL100 - Firmware"
+	version 2009-11-23
+	author "TKaos"
+)
+
+game (
+	name "Exelmemoria 64K (198x)(Exelvision)(FR)"
+	description "Exelmemoria 64K (198x)(Exelvision)(FR)"
+	rom ( name "Exelmemoria 64K (198x)(Exelvision)(FR).bin" size 8192 crc 5e38a0eb md5 10ad26aef7b5c8e6f2caeb10710e3ae6 )
+)
+
+game (
+	name "TMS-7020 (1984-09)(Exelvision)(FR)[WX302]"
+	description "TMS-7020 (1984-09)(Exelvision)(FR)[WX302]"
+	rom ( name "TMS-7020 (1984-09)(Exelvision)(FR)[WX302].bin" size 2048 crc 049109a3 md5 3e9c069b8de71af85c6162ae2167c1d6 )
+)
+
+game (
+	name "TMS-7041 (1984-09)(Exelvision)(FR)[WX227]"
+	description "TMS-7041 (1984-09)(Exelvision)(FR)[WX227]"
+	rom ( name "TMS-7041 (1984-09)(Exelvision)(FR)[WX227].bin" size 4096 crc a0163507 md5 a30c6f6bfbc1363ff99a579081b06fe0 )
+)

@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Educational - [PRG]"
+	description "Commodore C16, C116 & Plus-4 - Educational - [PRG] (TOSEC-v2011-02-09)"
+	category "Commodore C16, C116 & Plus-4 - Educational - [PRG]"
+	version 2011-02-09
+	author "TKaos - DesertWolf"
+)
+
+game (
+	name "Add and Subtract (1984)(CBM)(US)"
+	description "Add and Subtract (1984)(CBM)(US)"
+	rom ( name "Add and Subtract (1984)(CBM)(US).prg" size 7929 crc cdfa352c md5 99fc06f3d04aa6b23def74b69ce3a51f )
+)
+
+game (
+	name "Ampermero (19xx)(-)(HU)(FW)"
+	description "Ampermero (19xx)(-)(HU)(FW)"
+	rom ( name "Ampermero (19xx)(-)(HU)(FW).prg" size 1838 crc 57ad610e md5 45b1008d446c7bd964ee9349da965d14 )
+)
+
+game (
+	name "Eszak Amerika (19xx)(-)(hu)"
+	description "Eszak Amerika (19xx)(-)(hu)"
+	rom ( name "Eszak Amerika (19xx)(-)(hu).prg" size 12289 crc 1951dced md5 ffdb1f4911d3c2aafe5955f67dad67b9 )
+)

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sega Game Gear - Applications"
+	description "Sega Game Gear - Applications (TOSEC-v2011-08-13)"
+	category "Sega Game Gear - Applications"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)"
+	description "ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD)"
+	rom ( name "ToToTEK GG-PRO Multi Menu v1.5 (200x)(ToToTEK)(PD).bin" size 49152 crc 4e6d2014 md5 98ff604db918a25a0eb682bda8a15376 sha1 9b1ce393c0323ef5c801b8a8d8d1f71db417291b )
+)
+

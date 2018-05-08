@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Altos Computer Systems ACS-186, 586 & 986 - Operating Systems"
+	description "Altos Computer Systems ACS-186, 586 & 986 - Operating Systems (TOSEC-v2010-02-10)"
+	category "Altos Computer Systems ACS-186, 586 & 986 - Operating Systems"
+	version 2010-02-10
+	author "TKaos"
+)
+
+game (
+	name "Xenix Boot Disk (1983)(Microsoft)(586)"
+	description "Xenix Boot Disk (1983)(Microsoft)(586)"
+	rom ( name "Xenix Boot Disk (1983)(Microsoft)(586).imd" size 541219 crc c65e699d md5 fa21f26282405d5c1719a4a251645058 )
+)

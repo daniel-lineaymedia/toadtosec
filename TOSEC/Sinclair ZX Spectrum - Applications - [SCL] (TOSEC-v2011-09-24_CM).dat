@@ -1,0 +1,146 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Applications - [SCL]"
+	description "Sinclair ZX Spectrum - Applications - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Applications - [SCL]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "3D Construction Kit (1991)(Domark)[h]"
+	description "3D Construction Kit (1991)(Domark)[h]"
+	rom ( name "3D Construction Kit (1991)(Domark)[h].scl" size 33605 crc 7658471d md5 21960fe4d2765de04e1062248ac13795 sha1 6aa7c023dcb4aa18d6959d70ec35770e8bb7b619 )
+)
+
+game (
+	name "720copy v1.0 (1996)(Ivan Roshin)"
+	description "720copy v1.0 (1996)(Ivan Roshin)"
+	rom ( name "720copy v1.0 (1996)(Ivan Roshin).scl" size 12087 crc ad06dd81 md5 93dd2e983194bf4aae4a69a509dae240 sha1 59698adde0de4e103467f43505c3aac76bfed28e )
+)
+
+game (
+	name "AC Edit v0.61 (2002)(Alone Coder)[f]"
+	description "AC Edit v0.61 (2002)(Alone Coder)[f]"
+	rom ( name "AC Edit v0.61 (2002)(Alone Coder)[f].scl" size 32977 crc 634a0d98 md5 fe3e998fac02462706c9b444ad45e94d sha1 09e1c77af7dbefd22e6863115c620ad65041932f )
+)
+
+game (
+	name "AC Edit v0.62 (2002)(Alone Coder)"
+	description "AC Edit v0.62 (2002)(Alone Coder)"
+	rom ( name "AC Edit v0.62 (2002)(Alone Coder).scl" size 30007 crc 18ec12fc md5 2576bbc97f09d0f3d24f61e082716f6e sha1 277f998de936283e064a0dc12cd86074c2871b50 )
+)
+
+game (
+	name "AC Edit v0.64 (2002)(Alone Coder)"
+	description "AC Edit v0.64 (2002)(Alone Coder)"
+	rom ( name "AC Edit v0.64 (2002)(Alone Coder).scl" size 51851 crc 11572376 md5 4bb379cd6d611f32886accb129c70b25 sha1 54c09788105c97765a9889dfcebca1fc52019f5c )
+)
+
+game (
+	name "AC Edit v0.666 (2002)(Alone Coder)"
+	description "AC Edit v0.666 (2002)(Alone Coder)"
+	rom ( name "AC Edit v0.666 (2002)(Alone Coder).scl" size 35643 crc 5adc6b28 md5 de684223a1dc3e4a49fb9e74bc3866a5 sha1 6db60403c99712b87461f5b285b9e434aba209c8 )
+)
+
+game (
+	name "Advanced Art Studio v2.01 (1986)(Rainbird Software)[m Real Software]"
+	description "Advanced Art Studio v2.01 (1986)(Rainbird Software)[m Real Software]"
+	rom ( name "Advanced Art Studio v2.01 (1986)(Rainbird Software)[m Real Software].scl" size 31003 crc 3b32f707 md5 e614fc9a3238154af9fa25c86b4159fe sha1 ccaead1e8492cd050f8e102a5942202afd271630 )
+)
+
+game (
+	name "ALASM v4.44 (2002)(Capry)"
+	description "ALASM v4.44 (2002)(Capry)"
+	rom ( name "ALASM v4.44 (2002)(Capry).scl" size 118589 crc 8d66c00f md5 8349fe35b080a1b9137fef7cea98aa06 sha1 55f2bebff15c9990d1d8092866ade97a68fd75f7 )
+)
+
+game (
+	name "BK CardFile v2.3c (1994)(Inforcom)"
+	description "BK CardFile v2.3c (1994)(Inforcom)"
+	rom ( name "BK CardFile v2.3c (1994)(Inforcom).scl" size 294391 crc 26ca1c93 md5 8a8787b61b594ab448027fd0b22b5731 sha1 0b674852f811896517a4f776de629346b18989d3 )
+)
+
+game (
+	name "Boot 128 to 48 (19xx)(Proxima Software)"
+	description "Boot 128 to 48 (19xx)(Proxima Software)"
+	rom ( name "Boot 128 to 48 (19xx)(Proxima Software).scl" size 283 crc fef90c10 md5 0a2f5995b6fa9d33909dcda0fca1caa5 sha1 d5506f01bc341deec1edc9a3a155de1b99fd751f )
+)
+
+game (
+	name "Format Utility v2.01 (1994)(MI&DI)"
+	description "Format Utility v2.01 (1994)(MI&DI)"
+	rom ( name "Format Utility v2.01 (1994)(MI&DI).scl" size 16923 crc 38ccdc0a md5 e25c54321bed78756a25275c2b8629b7 sha1 efb383e327a8edc88bb685fd601c58f16b50b3b3 )
+)
+
+game (
+	name "Free Format v8.3 (1996)(ETC Group)"
+	description "Free Format v8.3 (1996)(ETC Group)"
+	rom ( name "Free Format v8.3 (1996)(ETC Group).scl" size 44841 crc 47de5bcc md5 0c0288eba57f3b694d5509dd300b7db4 sha1 97b79ccee393955592cab4406f4b7fed6efc864e )
+)
+
+game (
+	name "Hewle Font Editor v2.0 (2001)(Cyberpunks Unity)"
+	description "Hewle Font Editor v2.0 (2001)(Cyberpunks Unity)"
+	rom ( name "Hewle Font Editor v2.0 (2001)(Cyberpunks Unity).scl" size 49705 crc 28331e4e md5 09a39624a93a2767b1c1888bc6ec3a07 sha1 3481071670168dfc2d92175bf0c6b3a6b3af38da )
+)
+
+game (
+	name "Jpeg Viewer v0.1b (1999)(Alien Factory)"
+	description "Jpeg Viewer v0.1b (1999)(Alien Factory)"
+	rom ( name "Jpeg Viewer v0.1b (1999)(Alien Factory).scl" size 26153 crc 8d5702fe md5 442f33c69737f4adb88535ff3d0beb8e sha1 11c5bbef57ade05e513c26695a1819f2d8d7af85 )
+)
+
+game (
+	name "PCX Viewer v1.6 (1998)(Brain Wave)"
+	description "PCX Viewer v1.6 (1998)(Brain Wave)"
+	rom ( name "PCX Viewer v1.6 (1998)(Brain Wave).scl" size 4123 crc 0579a023 md5 a25cf835989e0538c4cd2ac3aa5bfc31 sha1 584405b513ac3da45371079d16fb359f4bbfa490 )
+)
+
+game (
+	name "Pozycj Mikosne (1987)(ERL Computer Software)(pl)[h]"
+	description "Pozycj Mikosne (1987)(ERL Computer Software)(pl)[h]"
+	rom ( name "Pozycj Mikosne (1987)(ERL Computer Software)(pl)[h].scl" size 35909 crc 6c8e05fe md5 0a56b40e7c617034b714c993ed1651fc sha1 bd50e9847cb210685d36cc733397b6747b6fe931 )
+)
+
+game (
+	name "Pro Tracker v3.53 Mouse (1997)(Golden Disk Corporation)[m Invaders]"
+	description "Pro Tracker v3.53 Mouse (1997)(Golden Disk Corporation)[m Invaders]"
+	rom ( name "Pro Tracker v3.53 Mouse (1997)(Golden Disk Corporation)[m Invaders].scl" size 38185 crc 6e3be089 md5 10fd2f5b8ea0df722230f378836d2090 sha1 3457fd143ca709c182697e7686992c6fe0918e58 )
+)
+
+game (
+	name "Real Information Packer v0.21 (2002)(Roman Petrov - Power of Sound)(beta)[b]"
+	description "Real Information Packer v0.21 (2002)(Roman Petrov - Power of Sound)(beta)[b]"
+	rom ( name "Real Information Packer v0.21 (2002)(Roman Petrov - Power of Sound)(beta)[b].scl" size 9019 crc 7b1601eb md5 59c45cbad397807745a166979b1813bd sha1 26cdc3d06c90f7b752f0c5ab29dbf036564387b8 )
+)
+
+game (
+	name "RV Print 2.11 Last (2002)(Recover)"
+	description "RV Print 2.11 Last (2002)(Recover)"
+	rom ( name "RV Print 2.11 Last (2002)(Recover).scl" size 16253 crc 7e46f120 md5 6c1c16c83767a12a9efcc11cb4255720 sha1 8ab18b0b60f22857ce868326e2dcc104a91eaaa6 )
+)
+
+game (
+	name "Sample Studio v1.1 (1998)(Power Haskers Group)"
+	description "Sample Studio v1.1 (1998)(Power Haskers Group)"
+	rom ( name "Sample Studio v1.1 (1998)(Power Haskers Group).scl" size 15387 crc 7cb78f9e md5 e91cad6a16fe7aeffbd34f8bdcad035c sha1 80e49f30de13541855d4c5de627c75ebb2d1b9c0 )
+)
+
+game (
+	name "Strange Player v2.0pro (1997)(Omega Hackers Group)"
+	description "Strange Player v2.0pro (1997)(Omega Hackers Group)"
+	rom ( name "Strange Player v2.0pro (1997)(Omega Hackers Group).scl" size 69999 crc 76a1704a md5 1760496847b4f294bfe6199dddfd8056 sha1 84cf6093506bf0467fc7c886baae33fe18d8f182 )
+)
+
+game (
+	name "TR-DOS Navigator v0.67b (2002)(CityAceE)"
+	description "TR-DOS Navigator v0.67b (2002)(CityAceE)"
+	rom ( name "TR-DOS Navigator v0.67b (2002)(CityAceE).scl" size 35937 crc d73289d3 md5 c25c6e5dcd27b618914077025b6042a5 sha1 4fc26eb2dce2283c6455cc054703326ed0d9616a )
+)
+
+game (
+	name "ZX Amp v1.00 (2000)(Stall Studio)(ru)"
+	description "ZX Amp v1.00 (2000)(Stall Studio)(ru)"
+	rom ( name "ZX Amp v1.00 (2000)(Stall Studio)(ru).scl" size 55877 crc c7bd0b5d md5 23148da4fece9354194b644115369335 sha1 653ecfca6180d60ff1f2bb88936b5b29576671b1 )
+)
+

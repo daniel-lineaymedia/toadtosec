@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Sharp MZ-700 - Firmware"
+	description "Sharp MZ-700 - Firmware (TOSEC-v2009-09-01)"
+	category "Sharp MZ-700 - Firmware"
+	version 2009-09-01
+	author "Cassiel"
+)
+
+game (
+	name "Sharp MZ-700 BIOS (19xx)(Sharp)"
+	description "Sharp MZ-700 BIOS (19xx)(Sharp)"
+	rom ( name "Sharp MZ-700 BIOS (19xx)(Sharp).bin" size 4096 crc d6b68a67 md5 daa1bc92e61725141409ab14a8f8e656 )
+)
+
+game (
+	name "Sharp MZ-700 BIOS (19xx)(Sharp)(JP)"
+	description "Sharp MZ-700 BIOS (19xx)(Sharp)(JP)"
+	rom ( name "Sharp MZ-700 BIOS (19xx)(Sharp)(JP).bin" size 4096 crc 697ec121 md5 e3affd9437d6c899cb702357af828147 )
+)
+
+game (
+	name "Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-)"
+	description "Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-)"
+	rom ( name "Sharp MZ-700 MZ-1E05 Floppy Disk Interface Card ROM (19xx)(-).bin" size 4096 crc 6bd86d01 md5 af4bdb8c11ea2e97132753289d61fc6d )
+)
+
+game (
+	name "Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-)"
+	description "Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-)"
+	rom ( name "Sharp MZ-700 MZ-1E14 Quick Disk Interface Card ROM (19xx)(-).bin" size 4096 crc 7f1ea53a md5 8a47670c4fa598704655aa91daee02a7 )
+)
+
+game (
+	name "Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-)"
+	description "Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-)"
+	rom ( name "Sharp MZ-700 MZ-1R12 RAM Extension Card ROM (19xx)(-).bin" size 4096 crc d669aad2 md5 b12a53f77fe81659366a8ebc2fc9fc48 )
+)
+
+game (
+	name "Sharp MZ-700 Monitor ROM (19xx)(-)(EU)"
+	description "Sharp MZ-700 Monitor ROM (19xx)(-)(EU)"
+	rom ( name "Sharp MZ-700 Monitor ROM (19xx)(-)(EU).bin" size 4096 crc 4c6c6b7b md5 27990ced7cb97dd80356f517aa705010 )
+)

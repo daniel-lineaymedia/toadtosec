@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Apple II - Educational - [NIB]"
+	description "Apple II - Educational - [NIB] (TOSEC-v2010-06-26)"
+	category "Apple II - Educational - [NIB]"
+	version 2010-06-26
+	author "TKaos - bigboo - Cassiel - jjs"
+)
+
+game (
+	name "Dataquest - The Fifty States v1.0 (1986)(MECC)(US)"
+	description "Dataquest - The Fifty States v1.0 (1986)(MECC)(US)"
+	rom ( name "Dataquest - The Fifty States v1.0 (1986)(MECC)(US).nib" size 232960 crc fd6c8d63 md5 1d274a33c80d2e816b3213224c164385 )
+)
+
+game (
+	name "Electronic Money v1.1 (1983)(MECC)(US)"
+	description "Electronic Money v1.1 (1983)(MECC)(US)"
+	rom ( name "Electronic Money v1.1 (1983)(MECC)(US).nib" size 232960 crc 62066e23 md5 c4a6009dc69ef92a1d9a31a7e8809ad7 )
+)
+
+game (
+	name "Elementary Volume 10 v1.0 (1981)(MECC)(US)"
+	description "Elementary Volume 10 v1.0 (1981)(MECC)(US)"
+	rom ( name "Elementary Volume 10 v1.0 (1981)(MECC)(US).nib" size 232960 crc 82e9700c md5 4c765125d05fd75f072d1085ea5067d5 )
+)
+
+game (
+	name "Elementary Volume 9 v2.1 (1981)(MECC)(US)"
+	description "Elementary Volume 9 v2.1 (1981)(MECC)(US)"
+	rom ( name "Elementary Volume 9 v2.1 (1981)(MECC)(US).nib" size 232960 crc d99a0f26 md5 84ca0bafaefb68ae98899a6460741481 )
+)
+
+game (
+	name "Estimation Activities v1.0 (1991)(MECC)(US)"
+	description "Estimation Activities v1.0 (1991)(MECC)(US)"
+	rom ( name "Estimation Activities v1.0 (1991)(MECC)(US).nib" size 232960 crc a799c62b md5 a0cb2ad1b42c18e185bc824034677be1 )
+)
+
+game (
+	name "Keyboarding Master - Games and Skills (1985-08)(MECC)(US)"
+	description "Keyboarding Master - Games and Skills (1985-08)(MECC)(US)"
+	rom ( name "Keyboarding Master - Games and Skills (1985-08)(MECC)(US).nib" size 232960 crc c4a6d8c6 md5 9ad26e96336048fc6d0564e24f0c9d0c )
+)
+
+game (
+	name "Mathematics Vol 1 (1980)(MECC)(US)"
+	description "Mathematics Vol 1 (1980)(MECC)(US)"
+	rom ( name "Mathematics Vol 1 (1980)(MECC)(US).nib" size 232960 crc 8010ad7d md5 0627a7aae4e482b4f39d2432842b1a11 )
+)
+
+game (
+	name "Special Needs Vol 1 v2.0 (1980)(MECC)(US)"
+	description "Special Needs Vol 1 v2.0 (1980)(MECC)(US)"
+	rom ( name "Special Needs Vol 1 v2.0 (1980)(MECC)(US).nib" size 232960 crc 76999a7e md5 4a57a5c26bf9bd8136c8539c896b8525 )
+)
+
+game (
+	name "Special Needs Vol 2 v1.0 (1982)(MECC)(US)"
+	description "Special Needs Vol 2 v1.0 (1982)(MECC)(US)"
+	rom ( name "Special Needs Vol 2 v1.0 (1982)(MECC)(US).nib" size 232960 crc aac5385e md5 e9f5103e539cc075369f25b91f05f3c1 )
+)
+
+game (
+	name "Writer and Speller v1.2 (1985)(MECC)(US)"
+	description "Writer and Speller v1.2 (1985)(MECC)(US)"
+	rom ( name "Writer and Speller v1.2 (1985)(MECC)(US).nib" size 232960 crc a6c2f49c md5 3f5c4e885702a93f1e85e0b593c58ab3 )
+)

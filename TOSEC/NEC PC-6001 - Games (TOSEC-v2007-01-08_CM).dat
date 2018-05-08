@@ -1,0 +1,487 @@
+clrmamepro (
+	name "NEC PC-6001 - Games"
+	description "NEC PC-6001 - Games (TOSEC-v2007-01-08)"
+	category "NEC PC-6001 - Games"
+	version 2007-01-08
+	author "Cassiel - Nesroms-o - Grendel"
+)
+
+game (
+	name "3D Golf (19xx)(T&E)[Mode 5, Page 3]"
+	description "3D Golf (19xx)(T&E)[Mode 5, Page 3]"
+	rom ( name "3D Golf (19xx)(T&E)[Mode 5, Page 3].cas" size 51682 crc e3e0e241 md5 21bbf80b96064bf1c35d8eee89f7b076 )
+)
+
+game (
+	name "Amazon, The (19xx)(-)[Mode 2, Page 3]"
+	description "Amazon, The (19xx)(-)[Mode 2, Page 3]"
+	rom ( name "Amazon, The (19xx)(-)[Mode 2, Page 3].cas" size 15260 crc 0b154850 md5 d440ee6c9feb40126e005474ecc27dcf )
+)
+
+game (
+	name "American Truck (19xx)(-)[Mode 5, Page 4]"
+	description "American Truck (19xx)(-)[Mode 5, Page 4]"
+	rom ( name "American Truck (19xx)(-)[Mode 5, Page 4].cas" size 43303 crc 8b50ad46 md5 eabd2757f42226e67bd0390769087c27 )
+)
+
+game (
+	name "Arabia (19xx)(-)[Mode 1, Page 1]"
+	description "Arabia (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Arabia (19xx)(-)[Mode 1, Page 1].cas" size 6301 crc e650de95 md5 c7fd2aece9c6bbda010ec4608c396d49 )
+)
+
+game (
+	name "Aspicp (19xx)(Xtal)(Side A)[Mode 5, Page 2]"
+	description "Aspicp (19xx)(Xtal)(Side A)[Mode 5, Page 2]"
+	rom ( name "Aspicp (19xx)(Xtal)(Side A)[Mode 5, Page 2].cas" size 47749 crc c89af7dd md5 b0801ae919c7949bae640f59402cceaf )
+)
+
+game (
+	name "Aspicp (19xx)(Xtal)(Side B)[Mode 5, Page 2]"
+	description "Aspicp (19xx)(Xtal)(Side B)[Mode 5, Page 2]"
+	rom ( name "Aspicp (19xx)(Xtal)(Side B)[Mode 5, Page 2].cas" size 13107 crc b35eb02b md5 1f66011c789a0c9d5d67a6a22ee590c4 )
+)
+
+game (
+	name "Astero (19xx)(-)[Mode 1, Page 1]"
+	description "Astero (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Astero (19xx)(-)[Mode 1, Page 1].cas" size 5477 crc 8a6ba775 md5 82d736801d672e9dca8decacece4f9b9 )
+)
+
+game (
+	name "Asteroid (19xx)(-)[Mode 2, Page 4]"
+	description "Asteroid (19xx)(-)[Mode 2, Page 4]"
+	rom ( name "Asteroid (19xx)(-)[Mode 2, Page 4].cas" size 6903 crc 354b9fb6 md5 e0f55139640d27e98ddc42d9b9f7872f )
+)
+
+game (
+	name "Barri (19xx)(-)[Mode 1, Page 2]"
+	description "Barri (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Barri (19xx)(-)[Mode 1, Page 2].cas" size 4167 crc a991614f md5 6f54b2fec85ef02c4867e150d76797c3 )
+)
+
+game (
+	name "Black Onyx, The (19xx)(ASCII)[Mode 5, Page 2]"
+	description "Black Onyx, The (19xx)(ASCII)[Mode 5, Page 2]"
+	rom ( name "Black Onyx, The (19xx)(ASCII)[Mode 5, Page 2].cas" size 45426 crc 661407f3 md5 976a8a34a4ca060f0e42e78b54990fca )
+)
+
+game (
+	name "Block (19xx)(-)[Mode 1, Page 2]"
+	description "Block (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Block (19xx)(-)[Mode 1, Page 2].cas" size 4837 crc b0bad3d9 md5 cd2ef1ecf2d6c59022321ba3c0eb6549 )
+)
+
+game (
+	name "Bokosuka (19xx)(ASCII)[Mode 5, Page 3]"
+	description "Bokosuka (19xx)(ASCII)[Mode 5, Page 3]"
+	rom ( name "Bokosuka (19xx)(ASCII)[Mode 5, Page 3].cas" size 22293 crc 7690032c md5 aea24f3ad6c6af2f4ad0dc41ba795bb5 )
+)
+
+game (
+	name "Bound (19xx)(-)[Mode 2, Page 2]"
+	description "Bound (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Bound (19xx)(-)[Mode 2, Page 2].cas" size 22441 crc ac0bb163 md5 5354ed867b4f3a982dda127c92b99c32 )
+)
+
+game (
+	name "Break Through (19xx)(Compac)[Mode 2, Page 2]"
+	description "Break Through (19xx)(Compac)[Mode 2, Page 2]"
+	rom ( name "Break Through (19xx)(Compac)[Mode 2, Page 2].cas" size 24029 crc 929dd694 md5 5a5538fa71682c55df45a60b6a88839d )
+)
+
+game (
+	name "Car (19xx)(-)[Mode 1, Page 2]"
+	description "Car (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Car (19xx)(-)[Mode 1, Page 2].cas" size 5717 crc a101aa0b md5 0ea4497be377849c2943906d491911fe )
+)
+
+game (
+	name "Castle Excellent (19xx)(-)[Mode 5, Page 2]"
+	description "Castle Excellent (19xx)(-)[Mode 5, Page 2]"
+	rom ( name "Castle Excellent (19xx)(-)[Mode 5, Page 2].cas" size 32980 crc dc356757 md5 201afbba91e0a5aa94bef2f361b1f390 )
+)
+
+game (
+	name "Chack 'n Pop (19xx)(-)[Mode5, Page 1]"
+	description "Chack 'n Pop (19xx)(-)[Mode5, Page 1]"
+	rom ( name "Chack 'n Pop (19xx)(-)[Mode5, Page 1].cas" size 46630 crc de769cca md5 df11aa7f5f3a8af744a8b0976a2991c1 )
+)
+
+game (
+	name "Chrith (19xx)(Comix)[Mode 5, Page 3]"
+	description "Chrith (19xx)(Comix)[Mode 5, Page 3]"
+	rom ( name "Chrith (19xx)(Comix)[Mode 5, Page 3].cas" size 26017 crc 8e72abd1 md5 2f2ef2db717ab623df96a87543d16c11 )
+)
+
+game (
+	name "Daidasso (19xx)(Carrylab)[Mode 5, Page 1]"
+	description "Daidasso (19xx)(Carrylab)[Mode 5, Page 1]"
+	rom ( name "Daidasso (19xx)(Carrylab)[Mode 5, Page 1].cas" size 41712 crc b0d7af71 md5 4cfcbceaa9d17ed8fdb6775864424542 )
+)
+
+game (
+	name "Dark Nebula (19xx)(T&E)(Tape 1 of 3)[Mode 5, Page 3]"
+	description "Dark Nebula (19xx)(T&E)(Tape 1 of 3)[Mode 5, Page 3]"
+	rom ( name "Dark Nebula (19xx)(T&E)(Tape 1 of 3)[Mode 5, Page 3].cas" size 83853 crc 825da3b3 md5 a086456aec1502243ecad3458d9d21e1 )
+)
+
+game (
+	name "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side A)[Mode 5, Page 3]"
+	description "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side A)[Mode 5, Page 3]"
+	rom ( name "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side A)[Mode 5, Page 3].cas" size 77741 crc 4f084f5a md5 ed59d27405a9cb584a73fba680c113f9 )
+)
+
+game (
+	name "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side B)[Mode 5, Page 3]"
+	description "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side B)[Mode 5, Page 3]"
+	rom ( name "Dark Nebula (19xx)(T&E)(Tape 2 of 3 Side B)[Mode 5, Page 3].cas" size 52374 crc f48a3fbd md5 f398720556361e8b91d1cad60a6edf6d )
+)
+
+game (
+	name "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side A)[Mode 5, Page 3]"
+	description "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side A)[Mode 5, Page 3]"
+	rom ( name "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side A)[Mode 5, Page 3].cas" size 81756 crc 112fda98 md5 3194618b8c474aaaf33a3b99ea8f1fef )
+)
+
+game (
+	name "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side B)[Mode 5, Page 3]"
+	description "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side B)[Mode 5, Page 3]"
+	rom ( name "Dark Nebula (19xx)(T&E)(Tape 3 of 3 Side B)[Mode 5, Page 3].cas" size 54518 crc 2c3149cc md5 73089df1ffa1e49eec873e51bbcf1f5a )
+)
+
+game (
+	name "Destroy (19xx)(-)[Mode 2, Page 3]"
+	description "Destroy (19xx)(-)[Mode 2, Page 3]"
+	rom ( name "Destroy (19xx)(-)[Mode 2, Page 3].cas" size 10925 crc 5326525a md5 c9c3064bcf9d6257b3a61655fce246a6 )
+)
+
+game (
+	name "Dual (19xx)(-)[Mode 1 , Page 1]"
+	description "Dual (19xx)(-)[Mode 1 , Page 1]"
+	rom ( name "Dual (19xx)(-)[Mode 1 , Page 1].cas" size 6414 crc 8a1557ab md5 fdf9265cc0c7cc938bae69eb34267b2b )
+)
+
+game (
+	name "Earth Bound (19xx)(Xtal)[Mode 2, Page 2]"
+	description "Earth Bound (19xx)(Xtal)[Mode 2, Page 2]"
+	rom ( name "Earth Bound (19xx)(Xtal)[Mode 2, Page 2].cas" size 41241 crc 1c4cafba md5 50ca78377bbcc1e9ca97706348bcb115 )
+)
+
+game (
+	name "Eggy (19xx)(Bothtech)[Mode 2, Page 1]"
+	description "Eggy (19xx)(Bothtech)[Mode 2, Page 1]"
+	rom ( name "Eggy (19xx)(Bothtech)[Mode 2, Page 1].cas" size 22307 crc 3c9e47d2 md5 e4eeee5af8f926f2cd54d4fc242ebc4a )
+)
+
+game (
+	name "Flappy (19xx)(DB-Soft)[Mode 5, Page 2]"
+	description "Flappy (19xx)(DB-Soft)[Mode 5, Page 2]"
+	rom ( name "Flappy (19xx)(DB-Soft)[Mode 5, Page 2].cas" size 71422 crc acaa6d1a md5 11863e856d83a9fa78c3a297b19705ac )
+)
+
+game (
+	name "Fls (19xx)(-)[Mode 2, Page 2]"
+	description "Fls (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Fls (19xx)(-)[Mode 2, Page 2].cas" size 10818 crc 102c36fe md5 59051700289bc70169c609ff44a5eacc )
+)
+
+game (
+	name "Foot (19xx)(-)[Mode 1, Page 1]"
+	description "Foot (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Foot (19xx)(-)[Mode 1, Page 1].cas" size 6840 crc fcba84bb md5 99953fececf24e0788e8b420e5818f0b )
+)
+
+game (
+	name "Galaxy (19xx)(-)(Tape 1 of 2)[Mode 2, Page 1]"
+	description "Galaxy (19xx)(-)(Tape 1 of 2)[Mode 2, Page 1]"
+	rom ( name "Galaxy (19xx)(-)(Tape 1 of 2)[Mode 2, Page 1].cas" size 23444 crc e6a91fd9 md5 b22a0bac316380aa638a694ae403b798 )
+)
+
+game (
+	name "Galaxy (19xx)(-)(Tape 2 of 2)[Mode 2, Page 1]"
+	description "Galaxy (19xx)(-)(Tape 2 of 2)[Mode 2, Page 1]"
+	rom ( name "Galaxy (19xx)(-)(Tape 2 of 2)[Mode 2, Page 1].cas" size 25764 crc 049fbe65 md5 98c68b7152b8417ecca58153d3707615 )
+)
+
+game (
+	name "Galaxy (19xx)(-)[Mode 1, Page 1]"
+	description "Galaxy (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Galaxy (19xx)(-)[Mode 1, Page 1].cas" size 6801 crc 2fbfa59f md5 d56fb316ee39a801232daa7ae4d745e1 )
+)
+
+game (
+	name "Godhar (19xx)(-)[Mode 1, Page 1]"
+	description "Godhar (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Godhar (19xx)(-)[Mode 1, Page 1].cas" size 6944 crc acac3902 md5 8900485e44dfd06f62ecb4f85c95d964 )
+)
+
+game (
+	name "H Fox (19xx)(Arrow Soft)[Mode 5 , Page 3]"
+	description "H Fox (19xx)(Arrow Soft)[Mode 5 , Page 3]"
+	rom ( name "H Fox (19xx)(Arrow Soft)[Mode 5 , Page 3].cas" size 60911 crc 2bd8a5c1 md5 e2b2825300b401f1a06be23034a1a3f6 )
+)
+
+game (
+	name "H Fox 2 (19xx)(Arrow Soft)[Mode 5 , Page 3]"
+	description "H Fox 2 (19xx)(Arrow Soft)[Mode 5 , Page 3]"
+	rom ( name "H Fox 2 (19xx)(Arrow Soft)[Mode 5 , Page 3].cas" size 58962 crc 84faa166 md5 a5fd92207d2601f6a08180abc8af0c6c )
+)
+
+game (
+	name "Headon (19xx)(-)[Mode 1, Page 1]"
+	description "Headon (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Headon (19xx)(-)[Mode 1, Page 1].cas" size 5711 crc 91f7d594 md5 470530d5f23e960be949d4be33c544a2 )
+)
+
+game (
+	name "Hisya (19xx)(-)[Mode 5 , Page 1]"
+	description "Hisya (19xx)(-)[Mode 5 , Page 1]"
+	rom ( name "Hisya (19xx)(-)[Mode 5 , Page 1].cas" size 30124 crc c3d88ac6 md5 f5ac19354391d11f968467b3fc77b6fe )
+)
+
+game (
+	name "Hydlide (19xx)(-)[Mode 5, Page 2]"
+	description "Hydlide (19xx)(-)[Mode 5, Page 2]"
+	rom ( name "Hydlide (19xx)(-)[Mode 5, Page 2].cas" size 44791 crc a2f16f83 md5 ec58b6696a3a0c581a2ddf9579c50eed )
+)
+
+game (
+	name "Ice Block (19xx)(DB-Soft)[Mode 5, Page 2]"
+	description "Ice Block (19xx)(DB-Soft)[Mode 5, Page 2]"
+	rom ( name "Ice Block (19xx)(DB-Soft)[Mode 5, Page 2].cas" size 28708 crc 90b5276e md5 8a354f9b4239448fbcad0c4947c5ad45 )
+)
+
+game (
+	name "Invaders (19xx)(-)[Mode 1, Page 2]"
+	description "Invaders (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Invaders (19xx)(-)[Mode 1, Page 2].cas" size 6346 crc bbf51641 md5 4dc77a5ea55986a5034c2e7da0b42c81 )
+)
+
+game (
+	name "Kita (19xx)(Falcom)[Mode 2, Page 3]"
+	description "Kita (19xx)(Falcom)[Mode 2, Page 3]"
+	rom ( name "Kita (19xx)(Falcom)[Mode 2, Page 3].cas" size 15697 crc 6b4d7d64 md5 703e062a09bcf6d8b096fc4b6d5a835e )
+)
+
+game (
+	name "Ledzone (19xx)(-)[Mode 5, Page 3]"
+	description "Ledzone (19xx)(-)[Mode 5, Page 3]"
+	rom ( name "Ledzone (19xx)(-)[Mode 5, Page 3].cas" size 16559 crc 14a58210 md5 19da029a826a5321c44fed3a9388f25b )
+)
+
+game (
+	name "Lights Out (19xx)(-)[Page 1]"
+	description "Lights Out (19xx)(-)[Page 1]"
+	rom ( name "Lights Out (19xx)(-)[Page 1].cas" size 4504 crc 53319d38 md5 0111d61f53c366e882f6ddb34e858f11 )
+)
+
+game (
+	name "Magnetic Field (19xx)(-)[Mode 2, Page 2]"
+	description "Magnetic Field (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Magnetic Field (19xx)(-)[Mode 2, Page 2].cas" size 15666 crc 55ad4690 md5 9393f74446aeead9bdf1d021b6f4a1c0 )
+)
+
+game (
+	name "Master (19xx)(-)[Mode 1, Page 1]"
+	description "Master (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Master (19xx)(-)[Mode 1, Page 1].cas" size 6841 crc 074faa75 md5 c619b4131df4cf1b448f48212422d784 )
+)
+
+game (
+	name "Mephius (19xx)(T&E Soft)(Tape 1 of 3)[Mode 5, Page 3]"
+	description "Mephius (19xx)(T&E Soft)(Tape 1 of 3)[Mode 5, Page 3]"
+	rom ( name "Mephius (19xx)(T&E Soft)(Tape 1 of 3)[Mode 5, Page 3].cas" size 28362 crc 53589958 md5 b4779f81fbdf01e907fb21101ea58c76 )
+)
+
+game (
+	name "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side A)[Mode 5, Page 3]"
+	description "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side A)[Mode 5, Page 3]"
+	rom ( name "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side A)[Mode 5, Page 3].cas" size 38417 crc ba718296 md5 762c94785ded1dd6c2bcfeae714aa710 )
+)
+
+game (
+	name "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side B)[Mode 5, Page 3]"
+	description "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side B)[Mode 5, Page 3]"
+	rom ( name "Mephius (19xx)(T&E Soft)(Tape 2 of 3 Side B)[Mode 5, Page 3].cas" size 8326 crc 4dd24f1c md5 4d7b1ca7acef225043f3792c6dee1166 )
+)
+
+game (
+	name "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side A)[Mode 5, Page 3]"
+	description "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side A)[Mode 5, Page 3]"
+	rom ( name "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side A)[Mode 5, Page 3].cas" size 34282 crc c098c637 md5 900be10a293f271d80da1328ae0c18b1 )
+)
+
+game (
+	name "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side B)[Mode 5, Page 3]"
+	description "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side B)[Mode 5, Page 3]"
+	rom ( name "Mephius (19xx)(T&E Soft)(Tape 3 of 3 Side B)[Mode 5, Page 3].cas" size 7079 crc 07284e34 md5 ba6876d6c52dc369a5bba7d63bf35c75 )
+)
+
+game (
+	name "Nostro (19xx)(-)[Mode 1, Page 1]"
+	description "Nostro (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Nostro (19xx)(-)[Mode 1, Page 1].cas" size 8843 crc 917001da md5 6e2c1a68a9d79014c6e98923111b3434 )
+)
+
+game (
+	name "Orion 3 (19xx)(ASCII)[Mode 2, Page 2]"
+	description "Orion 3 (19xx)(ASCII)[Mode 2, Page 2]"
+	rom ( name "Orion 3 (19xx)(ASCII)[Mode 2, Page 2].cas" size 16923 crc 35cb7301 md5 453c7d7f19b6ae26f1917b729c24f5d0 )
+)
+
+game (
+	name "Orion 4 (19xx)(ASCII)[Mode 2, Page 2]"
+	description "Orion 4 (19xx)(ASCII)[Mode 2, Page 2]"
+	rom ( name "Orion 4 (19xx)(ASCII)[Mode 2, Page 2].cas" size 16417 crc acd6e7b6 md5 f0a223b4817fad2a56c176c7945527aa )
+)
+
+game (
+	name "Outlaw (19xx)(-)[Mode 1, Page 1]"
+	description "Outlaw (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Outlaw (19xx)(-)[Mode 1, Page 1].cas" size 27138 crc a43a5369 md5 6b679aa0bc6291f29e82dd3f0061705a )
+)
+
+game (
+	name "Plazma Line (19xx)(-)[Mode 5, Page 3]"
+	description "Plazma Line (19xx)(-)[Mode 5, Page 3]"
+	rom ( name "Plazma Line (19xx)(-)[Mode 5, Page 3].cas" size 35744 crc 972adbaf md5 bdec5d7e3dd627f4d498391a7b9dbab5 )
+)
+
+game (
+	name "Pop (19xx)(-)[Mode 1, Page 1]"
+	description "Pop (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Pop (19xx)(-)[Mode 1, Page 1].cas" size 17696 crc fa49df9b md5 a162717d8f19810a0b9c08b02540389c )
+)
+
+game (
+	name "Porice (19xx)(-)[Mode 1, Page 1]"
+	description "Porice (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Porice (19xx)(-)[Mode 1, Page 1].cas" size 6163 crc 6beb7e0f md5 f134acf6924323e1f4dd2627d553a5d0 )
+)
+
+game (
+	name "Power (19xx)(-)[Mode 1, Page 1]"
+	description "Power (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Power (19xx)(-)[Mode 1, Page 1].cas" size 13612 crc 9252969e md5 ff5561088d8e3d1803a407631681996c )
+)
+
+game (
+	name "Punchball Mario (1983)(Nintendo)[Mode 5, Page 4]"
+	description "Punchball Mario (1983)(Nintendo)[Mode 5, Page 4]"
+	rom ( name "Punchball Mario (1983)(Nintendo)[Mode 5, Page 4].cas" size 30669 crc a57ba645 md5 0f26a135b363030270e0afa3471f7d5b )
+)
+
+game (
+	name "Pyramid 2 (19xx)(-)[Mode 4, Page 3]"
+	description "Pyramid 2 (19xx)(-)[Mode 4, Page 3]"
+	rom ( name "Pyramid 2 (19xx)(-)[Mode 4, Page 3].cas" size 18752 crc dcce31b0 md5 cf5c0a26fc6d3d7e6657ac412304b167 )
+)
+
+game (
+	name "Quest 3 (19xx)(ASCII)[Mode 2, Page 1]"
+	description "Quest 3 (19xx)(ASCII)[Mode 2, Page 1]"
+	rom ( name "Quest 3 (19xx)(ASCII)[Mode 2, Page 1].cas" size 29730 crc 45d891e4 md5 acc2e09632dcc95f44088925caf3f3dd )
+)
+
+game (
+	name "Quest 4 (19xx)(ASCII)[Mode 2, Page 1]"
+	description "Quest 4 (19xx)(ASCII)[Mode 2, Page 1]"
+	rom ( name "Quest 4 (19xx)(ASCII)[Mode 2, Page 1].cas" size 29730 crc 2b735197 md5 084d96826ac5f78ec4d03bead5da9ab6 )
+)
+
+game (
+	name "Risu (19xx)(-)[Mode 1, Page 1]"
+	description "Risu (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Risu (19xx)(-)[Mode 1, Page 1].cas" size 23387 crc e5194e79 md5 28c5dd95f219aa91d1b7539f23c298bb )
+)
+
+game (
+	name "Seven (19xx)(-)[Mode 1, Page 1]"
+	description "Seven (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Seven (19xx)(-)[Mode 1, Page 1].cas" size 15107 crc 2a155bac md5 1d34762793a9b0bdbd3eab6c018139ba )
+)
+
+game (
+	name "Shut (19xx)(-)[Mode 1, Page 1]"
+	description "Shut (19xx)(-)[Mode 1, Page 1]"
+	rom ( name "Shut (19xx)(-)[Mode 1, Page 1].cas" size 5863 crc 2f137847 md5 43a20345df09cb8315312d3a14ed03ae )
+)
+
+game (
+	name "Simon (19xx)(-)[Mode 1, Page 2]"
+	description "Simon (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Simon (19xx)(-)[Mode 1, Page 2].cas" size 4526 crc 4241fc84 md5 0159d1b4d752e65cd502d14a47519417 )
+)
+
+game (
+	name "Sky (19xx)(-)[Mode 2, Page 2]"
+	description "Sky (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Sky (19xx)(-)[Mode 2, Page 2].cas" size 13609 crc afc8448f md5 51e818f158796d9a59190fec6945d040 )
+)
+
+game (
+	name "Space (19xx)(-)[Mode 4, Page 3]"
+	description "Space (19xx)(-)[Mode 4, Page 3]"
+	rom ( name "Space (19xx)(-)[Mode 4, Page 3].cas" size 5579 crc 6601f428 md5 1524fa8ce22c15f4855522dde8ef84fb )
+)
+
+game (
+	name "Star Wrecker (19xx)(-)[Mode 2, Page 2]"
+	description "Star Wrecker (19xx)(-)[Mode 2, Page 2]"
+	rom ( name "Star Wrecker (19xx)(-)[Mode 2, Page 2].cas" size 17487 crc f768c6a8 md5 73d78765efb922c44ed35e988bf72a0f )
+)
+
+game (
+	name "Steal (19xx)(-)[Mode 1, Page 2]"
+	description "Steal (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Steal (19xx)(-)[Mode 1, Page 2].cas" size 6378 crc 0c3903fe md5 bdd1c35d1262732ff599c8474b9fd8e0 )
+)
+
+game (
+	name "Suidou (19xx)(-)[Mode 5 , Page 3]"
+	description "Suidou (19xx)(-)[Mode 5 , Page 3]"
+	rom ( name "Suidou (19xx)(-)[Mode 5 , Page 3].cas" size 27110 crc edf9e6ba md5 8927c0f9791b254627204142a5c12459 )
+)
+
+game (
+	name "Thunder Force (19xx)(Tecno Soft)[Mode 5, Pages 3]"
+	description "Thunder Force (19xx)(Tecno Soft)[Mode 5, Pages 3]"
+	rom ( name "Thunder Force (19xx)(Tecno Soft)[Mode 5, Pages 3].cas" size 35487 crc bfea6bac md5 7a9f55c049ad17f415ab5d9b5e8f8e8f )
+)
+
+game (
+	name "Tiny Xevious (19xx)(Namco)[Mode 4, Page 2]"
+	description "Tiny Xevious (19xx)(Namco)[Mode 4, Page 2]"
+	rom ( name "Tiny Xevious (19xx)(Namco)[Mode 4, Page 2].cas" size 17741 crc 5e9e2dbf md5 b86a149215af6380478ce64bc53c5659 )
+)
+
+game (
+	name "Trick Boy (19xx)(-)[Mode 2 , Page 2]"
+	description "Trick Boy (19xx)(-)[Mode 2 , Page 2]"
+	rom ( name "Trick Boy (19xx)(-)[Mode 2 , Page 2].cas" size 25800 crc dfad3c61 md5 0c9e9b230b23f2fad2dca95d09356085 )
+)
+
+game (
+	name "Tritorn (19xx)(Sein Soft)[Mode 5, Page 2]"
+	description "Tritorn (19xx)(Sein Soft)[Mode 5, Page 2]"
+	rom ( name "Tritorn (19xx)(Sein Soft)[Mode 5, Page 2].cas" size 45145 crc 82ce5954 md5 e689e307a5ac7b38e2e9e30e1879d749 )
+)
+
+game (
+	name "Volguard (1985)(DB-Soft)[Mode 5, Page 2]"
+	description "Volguard (1985)(DB-Soft)[Mode 5, Page 2]"
+	rom ( name "Volguard (1985)(DB-Soft)[Mode 5, Page 2].cas" size 48365 crc 05451d36 md5 42cb227e790b4bc04c1a418b284f09e3 )
+)
+
+game (
+	name "Woods (19xx)(-)[Mode 1, Page 2]"
+	description "Woods (19xx)(-)[Mode 1, Page 2]"
+	rom ( name "Woods (19xx)(-)[Mode 1, Page 2].cas" size 3611 crc b4e6d9c3 md5 39c95a479bedb0a8a7ef597919a35c24 )
+)
+
+game (
+	name "Yakyuk (19xx)(-)[Mode 5, Page 4]"
+	description "Yakyuk (19xx)(-)[Mode 5, Page 4]"
+	rom ( name "Yakyuk (19xx)(-)[Mode 5, Page 4].cas" size 41941 crc 566b0e1c md5 3288e2d3d0f620b0cc720f34e8ef8425 )
+)

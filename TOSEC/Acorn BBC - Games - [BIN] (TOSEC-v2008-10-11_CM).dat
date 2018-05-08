@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Acorn BBC - Games - [BIN]"
+	description "Acorn BBC - Games - [BIN] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Games - [BIN]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Dr. Who and the Mines of Terror! (19xx)(Micro Power)"
+	description "Dr. Who and the Mines of Terror! (19xx)(Micro Power)"
+	rom ( name "Dr. Who and the Mines of Terror! (19xx)(Micro Power).bin" size 16384 crc 9ce48a7e md5 1caceefd39065443099760aeddaba670 )
+)

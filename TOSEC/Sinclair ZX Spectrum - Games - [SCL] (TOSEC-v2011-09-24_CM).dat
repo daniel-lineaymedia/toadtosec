@@ -1,0 +1,1238 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Games - [SCL]"
+	description "Sinclair ZX Spectrum - Games - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Games - [SCL]"
+	version 2011-09-24
+	author "jugaor - Dziuber - Cassiel"
+)
+
+game (
+	name "007 - The Spy Who Loved Me (1990)(Domark)[h Vasilyev Anton][t]"
+	description "007 - The Spy Who Loved Me (1990)(Domark)[h Vasilyev Anton][t]"
+	rom ( name "007 - The Spy Who Loved Me (1990)(Domark)[h Vasilyev Anton][t].scl" size 101417 crc e382d41e md5 742ea074fb69f0a105fbfb6295df185e sha1 84c83b3246b10c8018aa50a919b754fe03de5fc3 )
+)
+
+game (
+	name "10th Frame (1986)(U.S. Gold)[h]"
+	description "10th Frame (1986)(U.S. Gold)[h]"
+	rom ( name "10th Frame (1986)(U.S. Gold)[h].scl" size 32069 crc b543128b md5 7b3fc9785f2fbb30da407d7d6e7e860f sha1 f1cae925f02ec4b7d6c84244f6a3bb0522b6f98e )
+)
+
+game (
+	name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t]"
+	description "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t]"
+	rom ( name "12 Mysterious Books (1998)(Demiurge Ash)(ru)[h Phantasy][t].scl" size 207443 crc f1474bbc md5 40b3d5ca39af19bbf47019f83b876b18 sha1 15b67574131b7c8e7e3c97fa2c7d8baf45894d40 )
+)
+
+game (
+	name "180 (1986)(Mastertronic Added Dimension)(ru)[h Roversoft]"
+	description "180 (1986)(Mastertronic Added Dimension)(ru)[h Roversoft]"
+	rom ( name "180 (1986)(Mastertronic Added Dimension)(ru)[h Roversoft].scl" size 33563 crc 5d2bed25 md5 8875bf1cc0f4b4cdb287f4268bd12755 sha1 2b2f9286ec95b6ca2fa0d563bb4a4a0359ba0e14 )
+)
+
+game (
+	name "180 (1986)(Mastertronic Added Dimension)[h Ars]"
+	description "180 (1986)(Mastertronic Added Dimension)[h Ars]"
+	rom ( name "180 (1986)(Mastertronic Added Dimension)[h Ars].scl" size 22555 crc f0806e9e md5 687a49605220ac8b016b9c2d66edf62f sha1 80b9a63f082d6b49db2c30243822693f110c0319 )
+)
+
+game (
+	name "180 (1986)(Mastertronic Added Dimension)[h Tornado Virtual Group][t]"
+	description "180 (1986)(Mastertronic Added Dimension)[h Tornado Virtual Group][t]"
+	rom ( name "180 (1986)(Mastertronic Added Dimension)[h Tornado Virtual Group][t].scl" size 37659 crc 6b73f299 md5 8f3ea90e5fc4d1507f10ac17fd74c390 sha1 efe708f24eb9c29fc9241ca300a4474062b12f20 )
+)
+
+game (
+	name "1942 (1986)(Elite Systems)[h Sliders][t]"
+	description "1942 (1986)(Elite Systems)[h Sliders][t]"
+	rom ( name "1942 (1986)(Elite Systems)[h Sliders][t].scl" size 26651 crc d6259ac3 md5 b2d2bbc277d1c11464095783be61d7cc sha1 321d994f15abb68618b894fcf233db6d24b9fcba )
+)
+
+game (
+	name "1942 (1986)(Elite Systems)[h]"
+	description "1942 (1986)(Elite Systems)[h]"
+	rom ( name "1942 (1986)(Elite Systems)[h].scl" size 49449 crc 8b90d0e9 md5 605ee2d4fef7460c5240ac9640291a12 sha1 cad4cd97bba22be0447bcfb7b672268d0c97f8bd )
+)
+
+game (
+	name "1943 - The Battle of Midway (1988)(Go!)[h Sliders][t]"
+	description "1943 - The Battle of Midway (1988)(Go!)[h Sliders][t]"
+	rom ( name "1943 - The Battle of Midway (1988)(Go!)[h Sliders][t].scl" size 31771 crc beeb774a md5 9a1699ec2f7f0f5d24134908dd0f6aed sha1 571b041d618e7cea021829a128551d08eca3727e )
+)
+
+game (
+	name "1943 - The Battle of Midway (1988)(Go!)[h]"
+	description "1943 - The Battle of Midway (1988)(Go!)[h]"
+	rom ( name "1943 - The Battle of Midway (1988)(Go!)[h].scl" size 34601 crc 165dfc54 md5 801c537728f3857e06948c8a61b70082 sha1 c8cab72681f50a675a4802d92bec108aac14b9cb )
+)
+
+game (
+	name "1999 (1987)(Alternative Software)[h Prophecy]"
+	description "1999 (1987)(Alternative Software)[h Prophecy]"
+	rom ( name "1999 (1987)(Alternative Software)[h Prophecy].scl" size 40475 crc 87c8b7ec md5 0106b1e2ee5b969621becbb3704ae14a sha1 464a3675ea4cdc25c6c28f3db220f85648c1c62b )
+)
+
+game (
+	name "1st Division Manager (1991)(Codemasters)[h Max Iwamoto]"
+	description "1st Division Manager (1991)(Codemasters)[h Max Iwamoto]"
+	rom ( name "1st Division Manager (1991)(Codemasters)[h Max Iwamoto].scl" size 47643 crc 147fb4f9 md5 3c74d96f4726c020d4f79808680ef127 sha1 57a1b0d6671716a03366164811c1e446b8343508 )
+)
+
+game (
+	name "2088 (1988)(Zeppelin Games)[h Flash][t]"
+	description "2088 (1988)(Zeppelin Games)[h Flash][t]"
+	rom ( name "2088 (1988)(Zeppelin Games)[h Flash][t].scl" size 16411 crc 7c3a7591 md5 256937d8933da05476a9b89ea537d0b0 sha1 8bce7c46fe234e8f4a22d072fe548db0574cae4e )
+)
+
+game (
+	name "2112 AD (1985)(Design Design Software)"
+	description "2112 AD (1985)(Design Design Software)"
+	rom ( name "2112 AD (1985)(Design Design Software).scl" size 42011 crc 7d80a703 md5 4d96140b27b063e5d57c3b7d64fed864 sha1 2c06dff7c5c1c4ba0e6b105a7058f8873186b536 )
+)
+
+game (
+	name "3D Grand Prix Championship (1991)(Zeppelin Games)[h]"
+	description "3D Grand Prix Championship (1991)(Zeppelin Games)[h]"
+	rom ( name "3D Grand Prix Championship (1991)(Zeppelin Games)[h].scl" size 36407 crc 0bba79ef md5 aa751e2e6056d8b68045127bb941c6d7 sha1 d559404dd57f20017e805c33c1be466b873da181 )
+)
+
+game (
+	name "3D Labyrint (1989)(Busy Software - Fuxoft)[h Flash][t]"
+	description "3D Labyrint (1989)(Busy Software - Fuxoft)[h Flash][t]"
+	rom ( name "3D Labyrint (1989)(Busy Software - Fuxoft)[h Flash][t].scl" size 21531 crc 159bbfe9 md5 15503115f0d4129b0d724cb957c99f74 sha1 e7eafb744c359e19a23b25cd67a0d773fd0be709 )
+)
+
+game (
+	name "3D Pool (1989)(Firebird Software)[h Beermans - Magic Soft]"
+	description "3D Pool (1989)(Firebird Software)[h Beermans - Magic Soft]"
+	rom ( name "3D Pool (1989)(Firebird Software)[h Beermans - Magic Soft].scl" size 23323 crc 942e0bbc md5 7c4f05aeb5a3c91640ccbf31d6e51fd7 sha1 61ad5fca1b98956616c1efd84c25787352612387 )
+)
+
+game (
+	name "3D Pool (1989)(Firebird Software)[h FFC Computers - Softstar]"
+	description "3D Pool (1989)(Firebird Software)[h FFC Computers - Softstar]"
+	rom ( name "3D Pool (1989)(Firebird Software)[h FFC Computers - Softstar].scl" size 26139 crc 61eeb2c3 md5 8d3202604ed342ea1769f28a6c6292d7 sha1 342a95812a74007fdaf1b314cfb7ed82ca0466b6 )
+)
+
+game (
+	name "3D Snooker (1990)(Players Premier Software)[h Mastsoft]"
+	description "3D Snooker (1990)(Players Premier Software)[h Mastsoft]"
+	rom ( name "3D Snooker (1990)(Players Premier Software)[h Mastsoft].scl" size 31515 crc 4a64e637 md5 45bfe1f541b5c73fea6d8fedba43f790 sha1 313544b7067a5f3269f29546b7f67ec523736a28 )
+)
+
+game (
+	name "3D Snooker (1990)(Players Premier Software)[h]"
+	description "3D Snooker (1990)(Players Premier Software)[h]"
+	rom ( name "3D Snooker (1990)(Players Premier Software)[h].scl" size 19995 crc 7c8ef2f4 md5 e34975ce50a9269b53fb1269bca32264 sha1 bc5a992324dea45fe3210035b5a229fe2534cc8e )
+)
+
+game (
+	name "3D Starfighter (1988)(Codemasters)[h Flash][t]"
+	description "3D Starfighter (1988)(Codemasters)[h Flash][t]"
+	rom ( name "3D Starfighter (1988)(Codemasters)[h Flash][t].scl" size 36891 crc 04ad7ace md5 85a0e3a50145f0303e04c026f8424f83 sha1 f3971508cae2958adc15d7eb57f5bf5f6b86c80d )
+)
+
+game (
+	name "3D Tank Duel (1984)(Realtime Games Software)[h Andy Tacker]"
+	description "3D Tank Duel (1984)(Realtime Games Software)[h Andy Tacker]"
+	rom ( name "3D Tank Duel (1984)(Realtime Games Software)[h Andy Tacker].scl" size 41015 crc 0cda5bf2 md5 b8def7358b338bd40b5668e99df17aee sha1 80a3286e19bab4a1c93ee179f8f51d2db4d1a969 )
+)
+
+game (
+	name "3D Tank Duel (1984)(Realtime Games Software)[h New Group][t]"
+	description "3D Tank Duel (1984)(Realtime Games Software)[h New Group][t]"
+	rom ( name "3D Tank Duel (1984)(Realtime Games Software)[h New Group][t].scl" size 28187 crc 728a8d6d md5 f88cdc16fbf1051dd6a2b70d4c9b2ad3 sha1 5d857dbb67b4a75b42c394f22e944618927008d3 )
+)
+
+game (
+	name "3D-Roost (19xx)(Fenomen)"
+	description "3D-Roost (19xx)(Fenomen)"
+	rom ( name "3D-Roost (19xx)(Fenomen).scl" size 46107 crc 963f0f84 md5 da2b0ebebd2405d810d427cd17f13ac5 sha1 b9fc4f6d8ddf206825d17a7903dd73ec9f86cb36 )
+)
+
+game (
+	name "3DC (1987)(Encore)[h Andrey Slabosnickiy]"
+	description "3DC (1987)(Encore)[h Andrey Slabosnickiy]"
+	rom ( name "3DC (1987)(Encore)[h Andrey Slabosnickiy].scl" size 42523 crc a8766ac6 md5 42b6c9010f995b21a7acae292d844cd4 sha1 90ec5ca7d4e1364be783c68ba9f599d82217d8d3 )
+)
+
+game (
+	name "4 Soccer Simulators (1989)(Codemasters Gold)[h Firesoft]"
+	description "4 Soccer Simulators (1989)(Codemasters Gold)[h Firesoft]"
+	rom ( name "4 Soccer Simulators (1989)(Codemasters Gold)[h Firesoft].scl" size 129577 crc adaff592 md5 6a890bc30a051cb1aceb8d863d60545b sha1 821729ed73f8bd812c3f5d9b066865d3ebc0d505 )
+)
+
+game (
+	name "4 Soccer Simulators (1989)(Codemasters Gold)[h Pavel Nikitin]"
+	description "4 Soccer Simulators (1989)(Codemasters Gold)[h Pavel Nikitin]"
+	rom ( name "4 Soccer Simulators (1989)(Codemasters Gold)[h Pavel Nikitin].scl" size 120403 crc a791c528 md5 34bcbf1b9695400eb54c67f263b0a4ef sha1 970342cffbee85fb43fbfe94143a37d4e7351851 )
+)
+
+game (
+	name "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h Flying Skull]"
+	description "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h Flying Skull]"
+	rom ( name "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h Flying Skull].scl" size 33819 crc 10d7b7b1 md5 f4de7967460ac9d879bc8ebfbcd61245 sha1 7afe176578d07f040a57fbf83278b063f70fec10 )
+)
+
+game (
+	name "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h]"
+	description "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h]"
+	rom ( name "4 Soccer Simulators - 11-a-Side Soccer (1989)(Codemasters Gold)[h].scl" size 35625 crc 9eb18935 md5 fc63bfc2c45bf8566adb18a8c9ccd0fe sha1 ce7931e6f3cb4283684aedbf285a38ae0ec6b74b )
+)
+
+game (
+	name "4 Soccer Simulators - Street Soccer (1989)(Codemasters Gold)[h Kamikaze]"
+	description "4 Soccer Simulators - Street Soccer (1989)(Codemasters Gold)[h Kamikaze]"
+	rom ( name "4 Soccer Simulators - Street Soccer (1989)(Codemasters Gold)[h Kamikaze].scl" size 37659 crc 701a645f md5 e5626ef80879815df63a0870d5409f24 sha1 b77d7b35d8329f1b96ab63955be03d6b40286b26 )
+)
+
+game (
+	name "48 Irons (1995)(Galaxy)(ru)"
+	description "48 Irons (1995)(Galaxy)(ru)"
+	rom ( name "48 Irons (1995)(Galaxy)(ru).scl" size 232517 crc 93672d21 md5 fcd598206deed82fb9238a89929c6cea sha1 7fe5ab655203dd11e14a332d241d2d998698ea8a )
+)
+
+game (
+	name "48 Irons (1995)(Galaxy)(ru)[h Mafia]"
+	description "48 Irons (1995)(Galaxy)(ru)[h Mafia]"
+	rom ( name "48 Irons (1995)(Galaxy)(ru)[h Mafia].scl" size 254021 crc 58984c8a md5 f9edfb5dbdbfcc3c7b6b4b83dafd60d0 sha1 e7abac06c9157a622ffbb01e5ae199803b84624c )
+)
+
+game (
+	name "4x4 Off-Road Racing (1988)(U.S. Gold)[h Delta Hackers Group]"
+	description "4x4 Off-Road Racing (1988)(U.S. Gold)[h Delta Hackers Group]"
+	rom ( name "4x4 Off-Road Racing (1988)(U.S. Gold)[h Delta Hackers Group].scl" size 51227 crc 0802fc80 md5 69b7598c20f00364fa9c9977cb86c108 sha1 fe31bece4365cd2941a8dd38f31ff877c9db5a3a )
+)
+
+game (
+	name "4x4 Off-Road Racing (1988)(U.S. Gold)[h Pavel Nikitin]"
+	description "4x4 Off-Road Racing (1988)(U.S. Gold)[h Pavel Nikitin]"
+	rom ( name "4x4 Off-Road Racing (1988)(U.S. Gold)[h Pavel Nikitin].scl" size 58395 crc 5cca2578 md5 322fd965f32d5c01526739fcfdb2122b sha1 022d27efcf11385ea1f51223d48f7ccd6a1cf427 )
+)
+
+game (
+	name "4x4 Off-Road Racing (1988)(U.S. Gold)[h]"
+	description "4x4 Off-Road Racing (1988)(U.S. Gold)[h]"
+	rom ( name "4x4 Off-Road Racing (1988)(U.S. Gold)[h].scl" size 87635 crc 7742f187 md5 aa980c85ef6f7e3f2783050bd516db21 sha1 a3213c2ddd52e67c1a49d99106cc127b704c2b39 )
+)
+
+game (
+	name "4x4 Puzzle (1999)(Triumph Game Labs)"
+	description "4x4 Puzzle (1999)(Triumph Game Labs)"
+	rom ( name "4x4 Puzzle (1999)(Triumph Game Labs).scl" size 116265 crc a36a9a9d md5 13946dcb48c0c3afd3674ec90cf82ffe sha1 55c902479e4001c541395d7664213c2000d3b952 )
+)
+
+game (
+	name "720 Degrees (1986)(U.S. Gold)[h Dmitiy Kulikov]"
+	description "720 Degrees (1986)(U.S. Gold)[h Dmitiy Kulikov]"
+	rom ( name "720 Degrees (1986)(U.S. Gold)[h Dmitiy Kulikov].scl" size 45339 crc 92f3ca6e md5 1b18d7a8ad245c9217c4643f3e166a81 sha1 f1daccf5c03c4e8d46ed259aae2bf5277966b4a8 )
+)
+
+game (
+	name "720 Degrees (1986)(U.S. Gold)[h King of Time]"
+	description "720 Degrees (1986)(U.S. Gold)[h King of Time]"
+	rom ( name "720 Degrees (1986)(U.S. Gold)[h King of Time].scl" size 42523 crc bd4e68d8 md5 18b84872a7b741709a61ce7bd4eaa488 sha1 74877b073da75dda8015309577f32c7283ca10d4 )
+)
+
+game (
+	name "750cc Grand Prix (1991)(Codemasters)[h Crushers][t]"
+	description "750cc Grand Prix (1991)(Codemasters)[h Crushers][t]"
+	rom ( name "750cc Grand Prix (1991)(Codemasters)[h Crushers][t].scl" size 36379 crc a3a7b758 md5 ca4669d1a7290390dda3e7b9a8973c55 sha1 9d82f125afcdb7eb6f2233f4f654d5ef9d0b1bfb )
+)
+
+game (
+	name "911 TS (1985)(Elite Systems)[h]"
+	description "911 TS (1985)(Elite Systems)[h]"
+	rom ( name "911 TS (1985)(Elite Systems)[h].scl" size 49449 crc 1f6336e3 md5 158a3ab61f896b2f3f52ed0b6d67c555 sha1 c0b4f2abf758221e5abb3bc5032bdf8902379606 )
+)
+
+game (
+	name "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Alex Leader]"
+	description "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Alex Leader]"
+	rom ( name "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Alex Leader].scl" size 46661 crc 3c9117a4 md5 66e4303eebf384d469e18ee90e63db62 sha1 235759d0731bd12f0e356b45dba234397d050ec0 )
+)
+
+game (
+	name "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Lensoft]"
+	description "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Lensoft]"
+	rom ( name "A-Team, The (1988)(Zafiro Software Division)(es)(Part 1 of 2)[h Lensoft].scl" size 34075 crc ec448b07 md5 5046e578c526ef373f8de4a3a698c64a sha1 6be7f3e67cfd7e293398ad3c52b3b3f5c33aa79d )
+)
+
+game (
+	name "A.T.A.C. - Air to Air Combat (1993)(Gadtek Games - Sinclair User)[h Rush][t]"
+	description "A.T.A.C. - Air to Air Combat (1993)(Gadtek Games - Sinclair User)[h Rush][t]"
+	rom ( name "A.T.A.C. - Air to Air Combat (1993)(Gadtek Games - Sinclair User)[h Rush][t].scl" size 21275 crc 05bc0a0f md5 c035975c8b17412e181639916d06be25 sha1 384aca820de7a8befba7a3f9086163a6418a153d )
+)
+
+game (
+	name "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Maxim Prohorov]"
+	description "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Maxim Prohorov]"
+	rom ( name "Abadia del Crimen, La (1988)(Opera Soft)(es)[h Maxim Prohorov].scl" size 65051 crc eb0b35e9 md5 eace2ed4d1e82f9a68c3f56b362d6319 sha1 c9b491728df345d94d33e11276b0998cc058f451 )
+)
+
+game (
+	name "Abe's Mission - Escape (demo) (2002)(Bothers)(ru)"
+	description "Abe's Mission - Escape (demo) (2002)(Bothers)(ru)"
+	rom ( name "Abe's Mission - Escape (demo) (2002)(Bothers)(ru).scl" size 105783 crc c854265a md5 0a2ed780e11da6c3e50fcb504aaa1c66 sha1 ac221c69b6aaada54b30490ddfc00dea1cbd4046 )
+)
+
+game (
+	name "Academy - Tau Ceti II (1987)(CRL Group)(ru)[h Chip'n'Dale]"
+	description "Academy - Tau Ceti II (1987)(CRL Group)(ru)[h Chip'n'Dale]"
+	rom ( name "Academy - Tau Ceti II (1987)(CRL Group)(ru)[h Chip'n'Dale].scl" size 74393 crc 07abbfa5 md5 6f64ec67aee40212b24a729714363d16 sha1 371005f4885bcb4e187fbb94bfdff2f7cbc6336c )
+)
+
+game (
+	name "Action Farce II - Special Crash Edition (1989)(Crash)[h Rush]"
+	description "Action Farce II - Special Crash Edition (1989)(Crash)[h Rush]"
+	rom ( name "Action Farce II - Special Crash Edition (1989)(Crash)[h Rush].scl" size 17947 crc 98b1778f md5 6b2afcef231e164fb35e5533e4a1bdb3 sha1 33b2dfcfe0ba1a080f89af5c834d78c8e94e4707 )
+)
+
+game (
+	name "Action Fighter (1989)(Firebird Software)[h FFC Computers - Softstar]"
+	description "Action Fighter (1989)(Firebird Software)[h FFC Computers - Softstar]"
+	rom ( name "Action Fighter (1989)(Firebird Software)[h FFC Computers - Softstar].scl" size 39451 crc b939c8c2 md5 93d0aaf3c76c6c8b6a7ec88a04b07488 sha1 11b48362dd40b8dce1a5f259f5456d323b26f553 )
+)
+
+game (
+	name "Action Fighter (1989)(Firebird Software)[h Mafia]"
+	description "Action Fighter (1989)(Firebird Software)[h Mafia]"
+	rom ( name "Action Fighter (1989)(Firebird Software)[h Mafia].scl" size 44315 crc e7b9105a md5 2f806d0708676316b81c4205111c8b75 sha1 02b2ff48ed23663686e9ae9165776f9b5ce72073 )
+)
+
+game (
+	name "Action Force (1987)(Virgin Games)[h]"
+	description "Action Force (1987)(Virgin Games)[h]"
+	rom ( name "Action Force (1987)(Virgin Games)[h].scl" size 20507 crc 8505f5b8 md5 2cc375f5a5621089e2bda6655ff640fd sha1 2ec299f88e6bd1fad2258051594d401277408979 )
+)
+
+game (
+	name "Action Force (1987)(Virgin Games)[h][t]"
+	description "Action Force (1987)(Virgin Games)[h][t]"
+	rom ( name "Action Force (1987)(Virgin Games)[h][t].scl" size 24617 crc 3f472caf md5 261c7ee5ec86c89fcf14e6b9b17e616d sha1 3cfa195f4f0e08bf2643ec2851f9e9fcf6a64fe3 )
+)
+
+game (
+	name "Action Reflex (1986)(Mirrorsoft)[h Omega Hackers Group][t]"
+	description "Action Reflex (1986)(Mirrorsoft)[h Omega Hackers Group][t]"
+	rom ( name "Action Reflex (1986)(Mirrorsoft)[h Omega Hackers Group][t].scl" size 34587 crc dcec28d6 md5 0ef56566316b26066aa70222e0450c9c sha1 044b4826e0ba6dd69fc18218ae12a08428fc5752 )
+)
+
+game (
+	name "Action Reflex (1986)(Mirrorsoft)[h]"
+	description "Action Reflex (1986)(Mirrorsoft)[h]"
+	rom ( name "Action Reflex (1986)(Mirrorsoft)[h].scl" size 45879 crc 3fcc37bf md5 2319eba945cc8121bf6c9f13873dfb7f sha1 6e03fe6619505c6e90be58656125bcfbc895fb07 )
+)
+
+game (
+	name "Addams Family, The (1991)(Ocean)[h Mortal Kombat][t]"
+	description "Addams Family, The (1991)(Ocean)[h Mortal Kombat][t]"
+	rom ( name "Addams Family, The (1991)(Ocean)[h Mortal Kombat][t].scl" size 98857 crc b5d4d660 md5 0b24074fcca49d11bd36d595419e0ae1 sha1 0c1826ed0af82fed71a7b644e84711415b733e53 )
+)
+
+game (
+	name "Advanced Nether Earth (1998)(Eternity Industry)(ru)"
+	description "Advanced Nether Earth (1998)(Eternity Industry)(ru)"
+	rom ( name "Advanced Nether Earth (1998)(Eternity Industry)(ru).scl" size 131141 crc 6afda743 md5 81a6278d05f539d25d64dd3c5a5c9337 sha1 5e12a67de4582f8f42fa3c0e07d7c160b6bb98f5 )
+)
+
+game (
+	name "Advanced Pinball Simulator (1990)(Codemasters)[h AMD]"
+	description "Advanced Pinball Simulator (1990)(Codemasters)[h AMD]"
+	rom ( name "Advanced Pinball Simulator (1990)(Codemasters)[h AMD].scl" size 35355 crc 614b6382 md5 4cc86cd6a4e796220d270402ce0bc0cb sha1 b3c022260c9b4e0e40fe9748f4cdd9b612ad60fc )
+)
+
+game (
+	name "African Trail Simulator (1990)(Positive)(es)[h A. Ermakov]"
+	description "African Trail Simulator (1990)(Positive)(es)[h A. Ermakov]"
+	rom ( name "African Trail Simulator (1990)(Positive)(es)[h A. Ermakov].scl" size 28699 crc 9bd75787 md5 014e5464235291beb3440f4eb35946d1 sha1 41ca1b8a62543f76d82653c2fcb0184255570ef3 )
+)
+
+game (
+	name "African Trail Simulator (1990)(Positive)(es)[h Alex Plusov]"
+	description "African Trail Simulator (1990)(Positive)(es)[h Alex Plusov]"
+	rom ( name "African Trail Simulator (1990)(Positive)(es)[h Alex Plusov].scl" size 44315 crc 0277dfd5 md5 1893b3c0dd8636da8d567b4927d6289d sha1 82e6526cde5dca670a385070d62a9a175a4d5e7a )
+)
+
+game (
+	name "After the War (1989)(Dinamic Software)(Part 1 of 2)[h AMD]"
+	description "After the War (1989)(Dinamic Software)(Part 1 of 2)[h AMD]"
+	rom ( name "After the War (1989)(Dinamic Software)(Part 1 of 2)[h AMD].scl" size 39451 crc 538c192b md5 79db06f41056b28cb2d7580d10e2c587 sha1 0644fb2a196882b474af3a42c3047f4a4f639051 )
+)
+
+game (
+	name "After the War (1989)(Dinamic Software)(Part 2 of 2)[h AMD]"
+	description "After the War (1989)(Dinamic Software)(Part 2 of 2)[h AMD]"
+	rom ( name "After the War (1989)(Dinamic Software)(Part 2 of 2)[h AMD].scl" size 39707 crc 74fd2ef8 md5 803cc8e8621d5ed256a60ba54e430929 sha1 20e4970f48621c10e39caf64bc1cf084804bacf7 )
+)
+
+game (
+	name "Afterburner (1988)(Activision)[h Pavel Nikitin][t]"
+	description "Afterburner (1988)(Activision)[h Pavel Nikitin][t]"
+	rom ( name "Afterburner (1988)(Activision)[h Pavel Nikitin][t].scl" size 119207 crc d178bf29 md5 ab7d63aeca82d4b288b538754f9432a2 sha1 7438b3b41c4b1c8a6d3c65ecd2393fe62884881b )
+)
+
+game (
+	name "Alien Storm (1991)(U.S. Gold)[h Mortal Kombat][t]"
+	description "Alien Storm (1991)(U.S. Gold)[h Mortal Kombat][t]"
+	rom ( name "Alien Storm (1991)(U.S. Gold)[h Mortal Kombat][t].scl" size 194871 crc 8f420380 md5 2f4ec1e40b270a92b7e3b963fd222135 sha1 7654c02ef3563f2e7d245c75f23a7b514dec3a0c )
+)
+
+game (
+	name "Alkash (2002)(Ellipse)(ru)"
+	description "Alkash (2002)(Ellipse)(ru)"
+	rom ( name "Alkash (2002)(Ellipse)(ru).scl" size 54853 crc 4ad2a61d md5 ad86f105e764e400aeb9f029440bf351 sha1 a1c5b0407cec121e562be9c917fe8359cef2ebd9 )
+)
+
+game (
+	name "Altered Beast (1988)(Activision)[h Digital Reality][t]"
+	description "Altered Beast (1988)(Activision)[h Digital Reality][t]"
+	rom ( name "Altered Beast (1988)(Activision)[h Digital Reality][t].scl" size 142391 crc 26a3c628 md5 83918c0689495ac4f3beaaf0d39744a7 sha1 efc81d27c0bfe702f8917efc8d6e0619ced75184 )
+)
+
+game (
+	name "Altered Beast (1988)(Activision)[h Fatality][t]"
+	description "Altered Beast (1988)(Activision)[h Fatality][t]"
+	rom ( name "Altered Beast (1988)(Activision)[h Fatality][t].scl" size 138807 crc 618644b4 md5 f3fc0065cafcfec25819589f879c29d3 sha1 6b3d9f314697a4a863a4413cf2113decde20ef0f )
+)
+
+game (
+	name "Alternative World Games (1987)(Gremlin Graphics Software)[h Max Iwamoto]"
+	description "Alternative World Games (1987)(Gremlin Graphics Software)[h Max Iwamoto]"
+	rom ( name "Alternative World Games (1987)(Gremlin Graphics Software)[h Max Iwamoto].scl" size 345781 crc 682dc447 md5 ea30e8767ad8bef73e581205bb24e604 sha1 328cff71e00efaa2fccbc7564437464d7393e312 )
+)
+
+game (
+	name "American Turbo King (1989)(Virgin Mastertronic)[h FLP][t]"
+	description "American Turbo King (1989)(Virgin Mastertronic)[h FLP][t]"
+	rom ( name "American Turbo King (1989)(Virgin Mastertronic)[h FLP][t].scl" size 32539 crc a22c147e md5 01a5e5fdb386133773657e1a2f426bbd sha1 462109296ede18a766e713d7ff4add6225dbc213 )
+)
+
+game (
+	name "Amo del Mundo (1990)(Positive)(es)[h Rush][t]"
+	description "Amo del Mundo (1990)(Positive)(es)[h Rush][t]"
+	rom ( name "Amo del Mundo (1990)(Positive)(es)[h Rush][t].scl" size 31259 crc 24918f92 md5 1cfc999126f2164179de137a885a78b1 sha1 b1a68893123e1b772378a5a2efdd7046cb5883f5 )
+)
+
+game (
+	name "Apollo (1996)(Jokersoft)(ru)"
+	description "Apollo (1996)(Jokersoft)(ru)"
+	rom ( name "Apollo (1996)(Jokersoft)(ru).scl" size 64539 crc 4efd9e70 md5 aafc7b79eb794e8fdb10e546c66118f6 sha1 91379dab3d95a7ed1acef077d10c0f95597acec6 )
+)
+
+game (
+	name "Arcade Flight Simulator (1989)(Codemasters)[h Cleopatra]"
+	description "Arcade Flight Simulator (1989)(Codemasters)[h Cleopatra]"
+	rom ( name "Arcade Flight Simulator (1989)(Codemasters)[h Cleopatra].scl" size 39963 crc 79e075be md5 394968d43eed8b6656b642ddcf182ce7 sha1 f9bcc5b423e4003f31a058eacc42dfd4461a4f75 )
+)
+
+game (
+	name "Arcade Flight Simulator (1989)(Codemasters)[h Flash][t]"
+	description "Arcade Flight Simulator (1989)(Codemasters)[h Flash][t]"
+	rom ( name "Arcade Flight Simulator (1989)(Codemasters)[h Flash][t].scl" size 33051 crc 177c3cad md5 bd77b263f5bfc118dd00e05f49a7cb03 sha1 d42a410369d592bfb0a8d2ad47e34c4680277402 )
+)
+
+game (
+	name "Arcade Volleyball (1997)(Romer's Software)(ru)"
+	description "Arcade Volleyball (1997)(Romer's Software)(ru)"
+	rom ( name "Arcade Volleyball (1997)(Romer's Software)(ru).scl" size 76329 crc c3c6d825 md5 2c29b9b2314acfd502f66e8f29a713e0 sha1 88e8a22c5175551c29ff982debd3b3170e5c9ebf )
+)
+
+game (
+	name "Assault Course (1990)(Players Premier Software)[h]"
+	description "Assault Course (1990)(Players Premier Software)[h]"
+	rom ( name "Assault Course (1990)(Players Premier Software)[h].scl" size 45595 crc 4ab4aa89 md5 6df480d2936f10056fe1469b97ce7f7b sha1 4c7986a82997ef131605183f2a3fc2613819d80f )
+)
+
+game (
+	name "Astro Marine Corps (1989)(Dinamic Software)[h Mortal Kombat][t +3]"
+	description "Astro Marine Corps (1989)(Dinamic Software)[h Mortal Kombat][t +3]"
+	rom ( name "Astro Marine Corps (1989)(Dinamic Software)[h Mortal Kombat][t +3].scl" size 81705 crc 59fcb4b6 md5 b5a6dfce46b78915cfdc13440ba824fb sha1 3024be7ca8b5a24f99f9b32e51e73bc9ddc9d036 )
+)
+
+game (
+	name "ATV Simulator - All Terrain Vehicle (1987)(Codemasters)[h Vitaly System]"
+	description "ATV Simulator - All Terrain Vehicle (1987)(Codemasters)[h Vitaly System]"
+	rom ( name "ATV Simulator - All Terrain Vehicle (1987)(Codemasters)[h Vitaly System].scl" size 47643 crc da98cd8d md5 d067f7dec9db63ffa4542095c84097a3 sha1 95381759409244bf7840b6f583e16d53c30e5d86 )
+)
+
+game (
+	name "Auf Weidersehen Monty (1987)(Gremlin Graphics Software)[h Inferno Software][t]"
+	description "Auf Weidersehen Monty (1987)(Gremlin Graphics Software)[h Inferno Software][t]"
+	rom ( name "Auf Weidersehen Monty (1987)(Gremlin Graphics Software)[h Inferno Software][t].scl" size 59163 crc a7c2ea71 md5 d096c868c5ce569b1681c05c99f1f267 sha1 f908a21ab3e2a541782be7ba7d4b61f658c1f6b3 )
+)
+
+game (
+	name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Ascendancy]"
+	description "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Ascendancy]"
+	rom ( name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Ascendancy].scl" size 23579 crc d0a36800 md5 d47c4df69b36e5955552e6fccaa7431a sha1 1c8f3be71f94bd1772096adb7ac8e7f84770d15d )
+)
+
+game (
+	name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Cleopatra]"
+	description "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Cleopatra]"
+	rom ( name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h Cleopatra].scl" size 38171 crc 11523466 md5 386cfed1ed9d7744d95a6b0012435be6 sha1 d71bc24fe5520e2625ec82b10213e9fa3d34c137 )
+)
+
+game (
+	name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h]"
+	description "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h]"
+	rom ( name "Australian Rules Football - The Victorian Football League (1989)(Again Again)[h].scl" size 37147 crc 5dd8b9c0 md5 e6d112dd5f6de708993b3bed4a6ef04f sha1 d41a90908268ae8aab62c604b356fcd6e2b0aedf )
+)
+
+game (
+	name "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t]"
+	description "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t]"
+	rom ( name "Battle City (1993)(A. Makushkin - M. Demyanko)(ru)[h Seamans][t].scl" size 23849 crc 54d815aa md5 a5f4e588ff91ff24448f5f65daa417d1 sha1 fe5cd5f9b27a2d11125f3291742c044fb68488c2 )
+)
+
+game (
+	name "Battle Field (1988)(Atlantis Software)[h AMD]"
+	description "Battle Field (1988)(Atlantis Software)[h AMD]"
+	rom ( name "Battle Field (1988)(Atlantis Software)[h AMD].scl" size 21019 crc b8244b18 md5 fc7aacaebf5f86c8cfc541a778625415 sha1 dd36629d3dbfc12ea3cbce6bc77a41dca571f342 )
+)
+
+game (
+	name "Battle Ships (1988)(Encore)[h Alexander Sharov]"
+	description "Battle Ships (1988)(Encore)[h Alexander Sharov]"
+	rom ( name "Battle Ships (1988)(Encore)[h Alexander Sharov].scl" size 33307 crc 747d39fb md5 a7e9ed908ddec6b3c3b9579211976c61 sha1 6e07ac038be1d1a59e25c50a0f649519de7d4537 )
+)
+
+game (
+	name "Bomb Jack II (1987)(Elite Systems)(ru)[h Boys Soft][t]"
+	description "Bomb Jack II (1987)(Elite Systems)(ru)[h Boys Soft][t]"
+	rom ( name "Bomb Jack II (1987)(Elite Systems)(ru)[h Boys Soft][t].scl" size 48951 crc fa191ec5 md5 f2438b8ea217d8fb56f4118baae119fb sha1 c38d1070ad2bf7a710bd8e36b7d2e5edd9f899dd )
+)
+
+game (
+	name "Brat Attack (1988)(Players Software - Sinclair User)[h]"
+	description "Brat Attack (1988)(Players Software - Sinclair User)[h]"
+	rom ( name "Brat Attack (1988)(Players Software - Sinclair User)[h].scl" size 42807 crc 227d06f1 md5 674f34d0bc258b9a57f877236b962da4 sha1 1ebdc7a9452138c886a5a79cad0ba91d4f7edb34 )
+)
+
+game (
+	name "Bumpy (1989)(Loriciels)[h Rush][t]"
+	description "Bumpy (1989)(Loriciels)[h Rush][t]"
+	rom ( name "Bumpy (1989)(Loriciels)[h Rush][t].scl" size 21531 crc 082723ec md5 85a668234196a77883c458ae9cccce49 sha1 0eb93a43d28ea9f73157ac6927b4ed4529c8ae82 )
+)
+
+game (
+	name "Bumpy 128 (1989)(Loriciels)(ru)[h Agayev Zldar]"
+	description "Bumpy 128 (1989)(Loriciels)(ru)[h Agayev Zldar]"
+	rom ( name "Bumpy 128 (1989)(Loriciels)(ru)[h Agayev Zldar].scl" size 51995 crc f1c4dc94 md5 1bf2aaeeeb48470c8796992333c00604 sha1 a4b3b81a6426a8c55607a97e4fd5bd6c64518095 )
+)
+
+game (
+	name "Captain Planet (1991)(Mindscape International)[h Triumph]"
+	description "Captain Planet (1991)(Mindscape International)[h Triumph]"
+	rom ( name "Captain Planet (1991)(Mindscape International)[h Triumph].scl" size 41001 crc 92c72eec md5 b244090fb31d83e6d01324f39c03bd24 sha1 92c04b66bfd4cd7e72b979fcfe25a13e91816fa6 )
+)
+
+game (
+	name "Catwalk (1984)(Power Software)[h Triumph]"
+	description "Catwalk (1984)(Power Software)[h Triumph]"
+	rom ( name "Catwalk (1984)(Power Software)[h Triumph].scl" size 30491 crc b5d47e54 md5 4a72d56d4628b296d40361d90ae57e2e sha1 bc486fb8f5c3a7ef9deb7805525b07cd2964202a )
+)
+
+game (
+	name "Ceasefire (1991)(Sinclair User)(ru)[h Chip][t]"
+	description "Ceasefire (1991)(Sinclair User)(ru)[h Chip][t]"
+	rom ( name "Ceasefire (1991)(Sinclair User)(ru)[h Chip][t].scl" size 43547 crc 0cee93a6 md5 901b6e89fa37b629809531305f2b73b0 sha1 9c8e29632465724fab4225f3e12a773719c31161 )
+)
+
+game (
+	name "Citadel (demo) (1996)(Stalker)(ru)"
+	description "Citadel (demo) (1996)(Stalker)(ru)"
+	rom ( name "Citadel (demo) (1996)(Stalker)(ru).scl" size 123689 crc 27c587f1 md5 b9a22215a8a1d77bdc0e1e674eb79124 sha1 93e5f74dea8d0e3c6133c3ce31e7a76e63f68bc7 )
+)
+
+game (
+	name "Courier (demo) (2002)(Perspective Group)(ru)"
+	description "Courier (demo) (2002)(Perspective Group)(ru)"
+	rom ( name "Courier (demo) (2002)(Perspective Group)(ru).scl" size 45339 crc 2c6458e0 md5 7e357460baec7997299bf97a4a13d762 sha1 e59c5b17295d4dc4d4eb1eb5fe3da84c78be644f )
+)
+
+game (
+	name "Crazy Cars (1988)(Titus)(ru)[h Boys Soft]"
+	description "Crazy Cars (1988)(Titus)(ru)[h Boys Soft]"
+	rom ( name "Crazy Cars (1988)(Titus)(ru)[h Boys Soft].scl" size 44855 crc f5ea11d2 md5 f1bc3872fcf0ce4ddec2a176050798ac sha1 7aa05d241be25b6032c6ff0e7c9d6302ef1a7fcd )
+)
+
+game (
+	name "Cyberbig (1989)(Animagic)[h Rush][t]"
+	description "Cyberbig (1989)(Animagic)[h Rush][t]"
+	rom ( name "Cyberbig (1989)(Animagic)[h Rush][t].scl" size 35099 crc dc904298 md5 d9550941c36df9a689b3f347046e13b9 sha1 c9559f0ba5416924434389bcae588f6f72f1c1c6 )
+)
+
+game (
+	name "Cycles, The (1989)(Accolade)[h AMD]"
+	description "Cycles, The (1989)(Accolade)[h AMD]"
+	rom ( name "Cycles, The (1989)(Accolade)[h AMD].scl" size 28443 crc 56ca43a1 md5 87f01312bff554c5a8c8ad01e339996d sha1 181618d356e869b59fea144fc353e361908b1bd8 )
+)
+
+game (
+	name "Dan Dare III - The Escape (1990)(Virgin Games)[h AMD]"
+	description "Dan Dare III - The Escape (1990)(Virgin Games)[h AMD]"
+	rom ( name "Dan Dare III - The Escape (1990)(Virgin Games)[h AMD].scl" size 35611 crc 04e9e562 md5 6d6b3fe25473a8a2336d5318e1551735 sha1 5f334143d7fe612b1fe1477dde0c9155ce0242dc )
+)
+
+game (
+	name "Danger Mouse in The Black Forest Chateau (1984)(Creative Sparks)(ru)[h]"
+	description "Danger Mouse in The Black Forest Chateau (1984)(Creative Sparks)(ru)[h]"
+	rom ( name "Danger Mouse in The Black Forest Chateau (1984)(Creative Sparks)(ru)[h].scl" size 36947 crc a9a9e511 md5 ae0c0a6bcc7247ddb9d881385d40b7e8 sha1 8680840b38f26793a023631785ded1e2c0168234 )
+)
+
+game (
+	name "Death Valley - Motion on Dead Tels (demo) (2002)(Green Bit Group)(ru)"
+	description "Death Valley - Motion on Dead Tels (demo) (2002)(Green Bit Group)(ru)"
+	rom ( name "Death Valley - Motion on Dead Tels (demo) (2002)(Green Bit Group)(ru).scl" size 19753 crc 7d14aaa9 md5 d88f2940fde064bf3a6ac89e0010f039 sha1 bbdcb5138a29a43670aa072f67e34c0d6086bf00 )
+)
+
+game (
+	name "Death Zone (1989)(Sinclair User)(ru)[h Seamans - Tap]"
+	description "Death Zone (1989)(Sinclair User)(ru)[h Seamans - Tap]"
+	rom ( name "Death Zone (1989)(Sinclair User)(ru)[h Seamans - Tap].scl" size 32027 crc c1198af8 md5 da5a34d4092fe8ca1450b91f6329d910 sha1 7a3ef1f9686f0b9c51781011c744ea6fd6505d83 )
+)
+
+game (
+	name "Defender of the Crown (1989)(The Cat)(ru)[h Fancy]"
+	description "Defender of the Crown (1989)(The Cat)(ru)[h Fancy]"
+	rom ( name "Defender of the Crown (1989)(The Cat)(ru)[h Fancy].scl" size 38683 crc 4abc9e94 md5 c2d133dfe5e09737c46edba084e14cd2 sha1 04c371ded5c098fd11d12128726ba9d6ca82de01 )
+)
+
+game (
+	name "Dizzy VII - Crystal Kingdom Dizzy (1992)(Codemasters)[h]"
+	description "Dizzy VII - Crystal Kingdom Dizzy (1992)(Codemasters)[h]"
+	rom ( name "Dizzy VII - Crystal Kingdom Dizzy (1992)(Codemasters)[h].scl" size 42011 crc ea764267 md5 e690836c94d40e52c203fa540e9e887e sha1 b3f13126186ecfedda2a0453fac05d26308bc404 )
+)
+
+game (
+	name "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h Max Iwamoto][t]"
+	description "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h Max Iwamoto][t]"
+	rom ( name "Dizzy X - Part 1 - Journey to Russia (1995)(Speed Code)(ru)[h Max Iwamoto][t].scl" size 47657 crc 66f54e3a md5 44dc0c15b5e3f98a73331031ba492558 sha1 c9944b47a39e363059091256ed8173ee6d69a1c0 )
+)
+
+game (
+	name "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Phantom Family]"
+	description "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Phantom Family]"
+	rom ( name "Dizzy X - Part 2 - Return to Russia (1995)(Speed Code)(ru)[h Phantom Family].scl" size 81719 crc 75764300 md5 5d48e8c815b9fddf37431cf4241f2925 sha1 cc01cce0e0859a893cd9cbfbd98401285549ed45 )
+)
+
+game (
+	name "DJ Puff's Volcanic Eruption (1992)(Codemasters)[h Cyberpunks Unity]"
+	description "DJ Puff's Volcanic Eruption (1992)(Codemasters)[h Cyberpunks Unity]"
+	rom ( name "DJ Puff's Volcanic Eruption (1992)(Codemasters)[h Cyberpunks Unity].scl" size 42011 crc 74f3c6ff md5 dcf74c488a1085815a89b2606956dc48 sha1 75063ce48447c9ab263b313431bfbd1f22077b97 )
+)
+
+game (
+	name "Dynamite Dan (1985)(Mirrorsoft)[h Universe Software Corporation][t]"
+	description "Dynamite Dan (1985)(Mirrorsoft)[h Universe Software Corporation][t]"
+	rom ( name "Dynamite Dan (1985)(Mirrorsoft)[h Universe Software Corporation][t].scl" size 38171 crc 44aa1f9f md5 37289a0eb5a5ae6795960b1a87a6fe77 sha1 c06f3dd5312da3e2d7ac419a691c2ca73cf608a8 )
+)
+
+game (
+	name "Earth Shaker (1990)(Michael Batty)[h Rush][t]"
+	description "Earth Shaker (1990)(Michael Batty)[h Rush][t]"
+	rom ( name "Earth Shaker (1990)(Michael Batty)[h Rush][t].scl" size 25115 crc bad1b542 md5 de7f43c4b4b949dfa0a3bcb1afdcf88d sha1 efd2c942d602595036f251a09e58a4decd866ad5 )
+)
+
+game (
+	name "Earth Shaker (1990)(Michael Batty)[h THD]"
+	description "Earth Shaker (1990)(Michael Batty)[h THD]"
+	rom ( name "Earth Shaker (1990)(Michael Batty)[h THD].scl" size 40247 crc 2fe9e79d md5 08131e87f659c7bd97fb0e68a2ffdffa sha1 96f2385f486d7fb4585368d21ddb660769627cd5 )
+)
+
+game (
+	name "Elite (1985)(Firebird Software)[h Ice'n'Green]"
+	description "Elite (1985)(Firebird Software)[h Ice'n'Green]"
+	rom ( name "Elite (1985)(Firebird Software)[h Ice'n'Green].scl" size 35453 crc 166bfba1 md5 6ebe8e3be3c49ecf8447374b11ce9dfe sha1 108518b6e5be23d26d6a036ec3fa3aca1f053cce )
+)
+
+game (
+	name "Elite (1985)(Firebird Software)[h]"
+	description "Elite (1985)(Firebird Software)[h]"
+	rom ( name "Elite (1985)(Firebird Software)[h].scl" size 46661 crc 64566a94 md5 e0ca12913cd993ee79b5ef21213547e4 sha1 d22ab2ab106ced0434533dda8d52a3c366c61107 )
+)
+
+game (
+	name "Elite 3 (1992)(Shadow Software)[h Tankard Soft]"
+	description "Elite 3 (1992)(Shadow Software)[h Tankard Soft]"
+	rom ( name "Elite 3 (1992)(Shadow Software)[h Tankard Soft].scl" size 57115 crc b0b70ab3 md5 960a8fd19f40e8328346eb65a516b4b5 sha1 5d4f6458947ff789249e4f8c461207c4f1304c59 )
+)
+
+game (
+	name "Equinox (1986)(Mikro-Gen)[h Universe Software Corporation][t]"
+	description "Equinox (1986)(Mikro-Gen)[h Universe Software Corporation][t]"
+	rom ( name "Equinox (1986)(Mikro-Gen)[h Universe Software Corporation][t].scl" size 35867 crc 6aee875c md5 168738307d09be54d609dd5d17c9d09e sha1 30061c7db1ff225066dd37cc90cf1cb228f54370 )
+)
+
+game (
+	name "European Five-a-Side (1988)(Silverbird Software)[h Softstar]"
+	description "European Five-a-Side (1988)(Silverbird Software)[h Softstar]"
+	rom ( name "European Five-a-Side (1988)(Silverbird Software)[h Softstar].scl" size 22299 crc 0ceae9aa md5 701236734ef85c79096a3efa14253e2d sha1 5e4a9b489d7b1e4776d7ab1334c0e4a7fc0a7c70 )
+)
+
+game (
+	name "Fall of Rome, The (1984)(ASP Software)[h Georgij Tryetchyev]"
+	description "Fall of Rome, The (1984)(ASP Software)[h Georgij Tryetchyev]"
+	rom ( name "Fall of Rome, The (1984)(ASP Software)[h Georgij Tryetchyev].scl" size 38697 crc b65c6fd1 md5 c3223631f4cccb0bc5897d005ccff2c9 sha1 6864ac12d38a66ae6bc86e98ef69feaf6c52737a )
+)
+
+game (
+	name "Fast Breed (1988)(Master Home Computers Group)[h Phantasy][t]"
+	description "Fast Breed (1988)(Master Home Computers Group)[h Phantasy][t]"
+	rom ( name "Fast Breed (1988)(Master Home Computers Group)[h Phantasy][t].scl" size 58651 crc aae76551 md5 25feb86eeb536aedd40a7dcd150d87ae sha1 c1606986cde25f4ec00e933799efe16d0b9b5e9b )
+)
+
+game (
+	name "Fast Breed (1988)(Master Home Computers Group)[h Phantom Family][t]"
+	description "Fast Breed (1988)(Master Home Computers Group)[h Phantom Family][t]"
+	rom ( name "Fast Breed (1988)(Master Home Computers Group)[h Phantom Family][t].scl" size 56105 crc 2ee7a231 md5 fb53565c9ab6ea2c5b544a0dc283486b sha1 6c513f113f54373cd02c154dded02ab5c208bbce )
+)
+
+game (
+	name "Fifth Quadrant, The (1987)(Bubblebus Software)[h Fatality][t]"
+	description "Fifth Quadrant, The (1987)(Bubblebus Software)[h Fatality][t]"
+	rom ( name "Fifth Quadrant, The (1987)(Bubblebus Software)[h Fatality][t].scl" size 33819 crc 5a3bbc51 md5 9222e781e5894448ca524fb43745894b sha1 60b3b1fc61c5e9b5419445a673a3a4271438da21 )
+)
+
+game (
+	name "Fillers (1995)(Oleg Sergeyev)"
+	description "Fillers (1995)(Oleg Sergeyev)"
+	rom ( name "Fillers (1995)(Oleg Sergeyev).scl" size 12073 crc 223f4b8b md5 a79eb51ae296d59088edf01e16dd4a6c sha1 aac20d11b859c5f469668b244bdb4e9b9b90d765 )
+)
+
+game (
+	name "Flea Adventure (1995)(Studio 7)[h Phantasy][t]"
+	description "Flea Adventure (1995)(Studio 7)[h Phantasy][t]"
+	rom ( name "Flea Adventure (1995)(Studio 7)[h Phantasy][t].scl" size 27419 crc fe3464e4 md5 477972288e394db4fba75af12bf8ce93 sha1 64f778d0170f754cc7acaa5dddd4e54b6e9b0c9a )
+)
+
+game (
+	name "Flying Shark (1987)(Firebird Software)[h AMD][t]"
+	description "Flying Shark (1987)(Firebird Software)[h AMD][t]"
+	rom ( name "Flying Shark (1987)(Firebird Software)[h AMD][t].scl" size 30235 crc 9c6fa11f md5 0e2195c633c86f61d7608d20f795d852 sha1 176a5b7a52d815d26d9b53ec63c7b3d93f4e2b10 )
+)
+
+game (
+	name "Forgotten Worlds (1989)(U.S. Gold)[h AMD][t]"
+	description "Forgotten Worlds (1989)(U.S. Gold)[h AMD][t]"
+	rom ( name "Forgotten Worlds (1989)(U.S. Gold)[h AMD][t].scl" size 84777 crc 4dcf375d md5 f3d2f644a3c593b03d1e2bed24814da0 sha1 ffaab66c3d93ada820e11f7669e6f10a70cd5262 )
+)
+
+game (
+	name "Four Minutes to Midnight (1987)(8th Day Software)[h]"
+	description "Four Minutes to Midnight (1987)(8th Day Software)[h]"
+	rom ( name "Four Minutes to Midnight (1987)(8th Day Software)[h].scl" size 36663 crc 4aa3fdb7 md5 0aba2fc54a2173f02250c312ca1b9196 sha1 992f1ec5cb72b31731c55ecb7449e587f69d11b2 )
+)
+
+game (
+	name "Four Row's Pasyance (1997)(Amazing Software Making)(ru)"
+	description "Four Row's Pasyance (1997)(Amazing Software Making)(ru)"
+	rom ( name "Four Row's Pasyance (1997)(Amazing Software Making)(ru).scl" size 23839 crc 9a994c9c md5 2ace7311535da8ec4fad8c0c7287641e sha1 b3c6133a7ed88795da9dd1b68b3c35550816200c )
+)
+
+game (
+	name "Frightmare (1988)(Cascade Games)[h Rush][t]"
+	description "Frightmare (1988)(Cascade Games)[h Rush][t]"
+	rom ( name "Frightmare (1988)(Cascade Games)[h Rush][t].scl" size 58907 crc 497f43b3 md5 de5bb2e1a2893a9f05bd650fbc35f878 sha1 dde1d6829065bf0aa3f5ee93d913b7518fcc2ead )
+)
+
+game (
+	name "Gazza II (1991)(Empire Software)[h Msoft]"
+	description "Gazza II (1991)(Empire Software)[h Msoft]"
+	rom ( name "Gazza II (1991)(Empire Software)[h Msoft].scl" size 24091 crc e8298e61 md5 0a3b0c52ebf9fb30435600a72f6c3b93 sha1 63854ae6f3ca9b5d06fb1c2c01fb4e6f003e0131 )
+)
+
+game (
+	name "Gunstar (1987)(Firebird Software)[h Rush][t]"
+	description "Gunstar (1987)(Firebird Software)[h Rush][t]"
+	rom ( name "Gunstar (1987)(Firebird Software)[h Rush][t].scl" size 23323 crc 555d4935 md5 c2a8a38eeb2c767c175568e9ccd5f0b0 sha1 6b1952049527bd20dab6e83961f30ea66566bddf )
+)
+
+game (
+	name "Gutz (1988)(Ocean)[h Universe Software Corporation][t]"
+	description "Gutz (1988)(Ocean)[h Universe Software Corporation][t]"
+	rom ( name "Gutz (1988)(Ocean)[h Universe Software Corporation][t].scl" size 37915 crc 5441cfb0 md5 050e702a71c3771285fd8cbb6be5bd01 sha1 3a2158c5c8cd4d4ffbe91935565b988952734441 )
+)
+
+game (
+	name "Heart Broken (1989)(Atlantis Software)(ru)[h S. Kolesnikov]"
+	description "Heart Broken (1989)(Atlantis Software)(ru)[h S. Kolesnikov]"
+	rom ( name "Heart Broken (1989)(Atlantis Software)(ru)[h S. Kolesnikov].scl" size 55379 crc 1e7cd025 md5 57e7dfe3f96867e7053f9d633d7a2463 sha1 ce712e06ba82831825ece6f4819ababbd1eb5728 )
+)
+
+game (
+	name "Hong Kong Phooey (1990)(Hi-Tec Software)[h AMD][t]"
+	description "Hong Kong Phooey (1990)(Hi-Tec Software)[h AMD][t]"
+	rom ( name "Hong Kong Phooey (1990)(Hi-Tec Software)[h AMD][t].scl" size 33819 crc 4d62aadf md5 8b4e8641f8be93ec71147f701f5e1fab sha1 ac34b2b227bc60488f6cc58da9d6cb6eeae8384e )
+)
+
+game (
+	name "Hong Kong Phooey (1990)(Hi-Tec Software)[h Rush][t]"
+	description "Hong Kong Phooey (1990)(Hi-Tec Software)[h Rush][t]"
+	rom ( name "Hong Kong Phooey (1990)(Hi-Tec Software)[h Rush][t].scl" size 24091 crc e34f8259 md5 cdb65fe8f73b5f0bcbe37b574dc05433 sha1 de00ee6ca60e7fae9c2a2a27a28b57904a950e50 )
+)
+
+game (
+	name "Ikari Warriors (1988)(Elite Systems)[h Stutterius]"
+	description "Ikari Warriors (1988)(Elite Systems)[h Stutterius]"
+	rom ( name "Ikari Warriors (1988)(Elite Systems)[h Stutterius].scl" size 33051 crc 53293793 md5 320b013742c196e0b1f7b3a6462020e6 sha1 4cbfb37709e3e910a475237424b533196e68f691 )
+)
+
+game (
+	name "Indiana Jones and the Fate of Atlantis (1992)(U.S. Gold)[h Prestige][t]"
+	description "Indiana Jones and the Fate of Atlantis (1992)(U.S. Gold)[h Prestige][t]"
+	rom ( name "Indiana Jones and the Fate of Atlantis (1992)(U.S. Gold)[h Prestige][t].scl" size 181303 crc 5ce68aa0 md5 2cce8ad7c5941e6e390e3803c8a9cb84 sha1 cbe96f27f66df55a329921fe98982322faabb71a )
+)
+
+game (
+	name "Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[h Queen Software]"
+	description "Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[h Queen Software]"
+	rom ( name "Indiana Jones and the Temple of Doom (1987)(U.S. Gold)[h Queen Software].scl" size 37147 crc 86e2b995 md5 cd4893b2f706e0f094d80b1427c50abf sha1 05296418fe14f002ebdac56f02f1a68ec24166a4 )
+)
+
+game (
+	name "Jackal (1986)(Konami)[h Rush][t]"
+	description "Jackal (1986)(Konami)[h Rush][t]"
+	rom ( name "Jackal (1986)(Konami)[h Rush][t].scl" size 23835 crc ec3b6fd7 md5 cfc482bb5a49f926f5f5443952284f44 sha1 fbc1b3c0f563c7be87b80a96d2ca8c972bf1fc0c )
+)
+
+game (
+	name "Knight Force (1990)(Titus)[h AMD][t]"
+	description "Knight Force (1990)(Titus)[h AMD][t]"
+	rom ( name "Knight Force (1990)(Titus)[h AMD][t].scl" size 60699 crc 0017ce5c md5 97ef149b01174820417be63d57d54084 sha1 6a1f5fae37a74c10e07fa108d3109f550ab2ea10 )
+)
+
+game (
+	name "LA Drugs Bust (1990)(Players Software)[h Triumph][t]"
+	description "LA Drugs Bust (1990)(Players Software)[h Triumph][t]"
+	rom ( name "LA Drugs Bust (1990)(Players Software)[h Triumph][t].scl" size 34843 crc 47dd8e6e md5 4cd1858a9ae7636a54d1041b9c6da3c7 sha1 b10d9783873e09665f764d75363d8ccfbfeba6fb )
+)
+
+game (
+	name "Margo Puzzle (1997)(Fatality)(ru)"
+	description "Margo Puzzle (1997)(Fatality)(ru)"
+	rom ( name "Margo Puzzle (1997)(Fatality)(ru).scl" size 26651 crc c82ff367 md5 ae98591be136dc0a2772f78cc0386022 sha1 9b76d31912d4e515948b174858931c0e0e6d36bc )
+)
+
+game (
+	name "Mario Islands (demo) (1997)(Omega Hackers Group)[h Phantasy][t]"
+	description "Mario Islands (demo) (1997)(Omega Hackers Group)[h Phantasy][t]"
+	rom ( name "Mario Islands (demo) (1997)(Omega Hackers Group)[h Phantasy][t].scl" size 56603 crc d25b3f75 md5 a855a9ebc7eb5906ad97c2976f0a5091 sha1 4e161eb1afce1f7e1fb9a43b48f0d9fac28142fb )
+)
+
+game (
+	name "Masters of the Universe - The Movie (1987)(Gremlin Graphics Software)[h Universe Software Corporation][t]"
+	description "Masters of the Universe - The Movie (1987)(Gremlin Graphics Software)[h Universe Software Corporation][t]"
+	rom ( name "Masters of the Universe - The Movie (1987)(Gremlin Graphics Software)[h Universe Software Corporation][t].scl" size 32795 crc 42c8d029 md5 192137f40daec4525a83d6ca8acde6d4 sha1 10e2ef8dbad92bb4a1fafe530a36854aa6b5c9d4 )
+)
+
+game (
+	name "Midnight Resistance (1990)(Ocean)[h AMD][t]"
+	description "Midnight Resistance (1990)(Ocean)[h AMD][t]"
+	rom ( name "Midnight Resistance (1990)(Ocean)[h AMD][t].scl" size 108329 crc 055c610a md5 3e7e37275fd8d09174b8b3c118d4e710 sha1 e9b2227e6264f66650f755e864f8b57b3d5da93f )
+)
+
+game (
+	name "Mig Busters (1990)(Players Premier Software)[h Triumph]"
+	description "Mig Busters (1990)(Players Premier Software)[h Triumph]"
+	rom ( name "Mig Busters (1990)(Players Premier Software)[h Triumph].scl" size 35099 crc e69ba5e7 md5 f52c87038638652c5d0292a333b4d25e sha1 d55b9ffcbc9724fdf76ec563254ac5cf98648bb4 )
+)
+
+game (
+	name "Moscow-Paris (1987)(Marck Kiszakicwicz - Jacek Mering)(pl)[h]"
+	description "Moscow-Paris (1987)(Marck Kiszakicwicz - Jacek Mering)(pl)[h]"
+	rom ( name "Moscow-Paris (1987)(Marck Kiszakicwicz - Jacek Mering)(pl)[h].scl" size 44087 crc e2271d54 md5 f634e4b91e20b0db9627f1e3c7a8d6a8 sha1 1ae4de02fb31c01ce7259252fc94bc65981a8440 )
+)
+
+game (
+	name "Mutan Zone (1989)(Opera Soft)(es)[h Rush]"
+	description "Mutan Zone (1989)(Opera Soft)(es)[h Rush]"
+	rom ( name "Mutan Zone (1989)(Opera Soft)(es)[h Rush].scl" size 60187 crc 4b5c10c4 md5 1dc6d26b541eb7bfa8bcedd6b1d210ac sha1 13e19c542d2d2b72d800523a29f63da32d249d84 )
+)
+
+game (
+	name "Mutants (1987)(Ocean)[h Ascendancy][t]"
+	description "Mutants (1987)(Ocean)[h Ascendancy][t]"
+	rom ( name "Mutants (1987)(Ocean)[h Ascendancy][t].scl" size 31771 crc 20563e9c md5 ab75c1cd71e100ca6be5451af64e69c2 sha1 e817ccab83dba2967909ec6d36fe52a2466797de )
+)
+
+game (
+	name "Necro Plasm (1989)(Grant Jaquest)[h AMD][t]"
+	description "Necro Plasm (1989)(Grant Jaquest)[h AMD][t]"
+	rom ( name "Necro Plasm (1989)(Grant Jaquest)[h AMD][t].scl" size 25883 crc 7af5f4fd md5 91cdbd3257799a66aac324cd087d3a41 sha1 14f6fecdbc97bbd6429006be650b8c784d45536f )
+)
+
+game (
+	name "Neuron Warriors (1992)(A-Soft)[h AMD]"
+	description "Neuron Warriors (1992)(A-Soft)[h AMD]"
+	rom ( name "Neuron Warriors (1992)(A-Soft)[h AMD].scl" size 14619 crc 1dcbbcf6 md5 3562dd387b150ad7f5c54fb91d1627ae sha1 3e86e89d0ddd6bd800c128747cdcf3084aad4347 )
+)
+
+game (
+	name "Nonamed (1986)(Dinamic Software)(es)[h Rush][t]"
+	description "Nonamed (1986)(Dinamic Software)(es)[h Rush][t]"
+	rom ( name "Nonamed (1986)(Dinamic Software)(es)[h Rush][t].scl" size 26651 crc a725372b md5 576b195576a14c95944f32a7f072291c sha1 49b92663e31896d5a38eaa841f419e29da87dc76 )
+)
+
+game (
+	name "North Star (1988)(Gremlin Graphics Software)[h Rush][t]"
+	description "North Star (1988)(Gremlin Graphics Software)[h Rush][t]"
+	rom ( name "North Star (1988)(Gremlin Graphics Software)[h Rush][t].scl" size 27163 crc df11aa65 md5 562be2dc63168d3a1532ad90bd41d317 sha1 2ee3256b48ef5debdc98d525662c89e64298cc70 )
+)
+
+game (
+	name "Oberon 69 (1990)(G.LL. Software)(es)[h Code Busters][t]"
+	description "Oberon 69 (1990)(G.LL. Software)(es)[h Code Busters][t]"
+	rom ( name "Oberon 69 (1990)(G.LL. Software)(es)[h Code Busters][t].scl" size 48411 crc a42d0c6d md5 f9b8676d09862174c8c84f9758e45412 sha1 097b457344d7ae2a4e4961532d3751760bfbcfd7 )
+)
+
+game (
+	name "Operation Gunship (1989)(Codemasters)[h Rush][t]"
+	description "Operation Gunship (1989)(Codemasters)[h Rush][t]"
+	rom ( name "Operation Gunship (1989)(Codemasters)[h Rush][t].scl" size 31515 crc cc913367 md5 2e26f9cf679ee31e4ae90e622369edde sha1 36f8eef1d7b1e189271b53ecd1e80f38d4fac02a )
+)
+
+game (
+	name "Operation Gunship (1989)(Codemasters)[h Stutterius]"
+	description "Operation Gunship (1989)(Codemasters)[h Stutterius]"
+	rom ( name "Operation Gunship (1989)(Codemasters)[h Stutterius].scl" size 36379 crc 698a3c10 md5 1f4a96602fef3a9ae432161f4699ebe3 sha1 8054e1f2c0390462a2261ec085e8df92142b7911 )
+)
+
+game (
+	name "Orbix the Terrorball (1986)(Streetwise)[h Brain Wave][t]"
+	description "Orbix the Terrorball (1986)(Streetwise)[h Brain Wave][t]"
+	rom ( name "Orbix the Terrorball (1986)(Streetwise)[h Brain Wave][t].scl" size 32539 crc a9125d41 md5 f8b7459e83a84bafabcf1f823ec210d0 sha1 daad57ebd8930bbc9c4c5983173f79ca7ea61461 )
+)
+
+game (
+	name "Otkryvaschka (2001)(Stall Studio)(ru)"
+	description "Otkryvaschka (2001)(Stall Studio)(ru)"
+	rom ( name "Otkryvaschka (2001)(Stall Studio)(ru).scl" size 109353 crc d20cc253 md5 e5cf849211125ae2293ab5fffa47502d sha1 116bf226a99da7771af4a03f1105778dcedf2f24 )
+)
+
+game (
+	name "Paperboy (1986)(Elite Systems)[h]"
+	description "Paperboy (1986)(Elite Systems)[h]"
+	rom ( name "Paperboy (1986)(Elite Systems)[h].scl" size 45125 crc ce55ca9b md5 4db5bc2a0f5fed247c22069782495284 sha1 cb7296d96c7f0e6196e887ec740b9c92618fb587 )
+)
+
+game (
+	name "Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[h FLP]"
+	description "Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[h FLP]"
+	rom ( name "Pedro na Ostrove Piratov (1992)(Ultrasoft)(sk)[h FLP].scl" size 39963 crc cc605fb4 md5 b43c14469f9e396763c149461c14b8e0 sha1 040add745165205d7f18b21f9953cf545ac1962a )
+)
+
+game (
+	name "Pentis Tetris (1988)(Tony Raugas)[h Fox]"
+	description "Pentis Tetris (1988)(Tony Raugas)[h Fox]"
+	rom ( name "Pentis Tetris (1988)(Tony Raugas)[h Fox].scl" size 6171 crc 42ffef3f md5 b1a9aebb918ed9450ec9673bb2535e2d sha1 1670d913718c6f2c53d1fce0bde658e3ece89858 )
+)
+
+game (
+	name "Phantomas (1986)(Dinamic Software)(es)[h Rush][t]"
+	description "Phantomas (1986)(Dinamic Software)(es)[h Rush][t]"
+	rom ( name "Phantomas (1986)(Dinamic Software)(es)[h Rush][t].scl" size 60955 crc 09a04102 md5 17f72818d22fb6e451411caf93de76bb sha1 c23ef397c97ad440b7d075a8b82034ea99781bca )
+)
+
+game (
+	name "Planet 10 (1989)(Mastertronic)[h AMD][t]"
+	description "Planet 10 (1989)(Mastertronic)[h AMD][t]"
+	rom ( name "Planet 10 (1989)(Mastertronic)[h AMD][t].scl" size 35099 crc a6894209 md5 1db4ca42fb00eb0bcd952e81d4df609c sha1 e6d6fe85c70f7ebd38af580b51dcad6e3b91b83f )
+)
+
+game (
+	name "Platoon (1988)(Ocean)[h X-Project Association]"
+	description "Platoon (1988)(Ocean)[h X-Project Association]"
+	rom ( name "Platoon (1988)(Ocean)[h X-Project Association].scl" size 73769 crc 656c61ea md5 b80f7a6350067718a572b6a0a2fc5882 sha1 9e240cbcdf7c3a71ee55d2c72e5349412a42bdd7 )
+)
+
+game (
+	name "Pulsoid (1988)(Mastertronic)[h][t]"
+	description "Pulsoid (1988)(Mastertronic)[h][t]"
+	rom ( name "Pulsoid (1988)(Mastertronic)[h][t].scl" size 15899 crc 35a6d13e md5 8f2c9b57d7a4e3f35b3117141b134f17 sha1 d9632356fbd11c25a916fb0c58f36bfc3c9d9ee4 )
+)
+
+game (
+	name "Ramon Rodriguez (1986)(Erbe Software)(es)[h Rush][t]"
+	description "Ramon Rodriguez (1986)(Erbe Software)(es)[h Rush][t]"
+	rom ( name "Ramon Rodriguez (1986)(Erbe Software)(es)[h Rush][t].scl" size 26139 crc 528dcd4a md5 b9850472a9edc2ce7d06cfa45444d8b7 sha1 be27b07e39808f17993e00356b83ea89fc0c008c )
+)
+
+game (
+	name "Rath-Tha (1989)(Positive)(es)[h Rush][t]"
+	description "Rath-Tha (1989)(Positive)(es)[h Rush][t]"
+	rom ( name "Rath-Tha (1989)(Positive)(es)[h Rush][t].scl" size 26139 crc 35527150 md5 b6e9fb9798bf54e89beddba938d03c99 sha1 774e4e8853b4332194370456a32941d612029692 )
+)
+
+game (
+	name "Roland's Rat Race (1985)(Ocean)[h AMD]"
+	description "Roland's Rat Race (1985)(Ocean)[h AMD]"
+	rom ( name "Roland's Rat Race (1985)(Ocean)[h AMD].scl" size 29723 crc e7650919 md5 d63384c21d2589d40d0c23b84841f6ad sha1 78fb740509355d5e593c8f1c0424865aff2f3258 )
+)
+
+game (
+	name "Ruff and Reddy in The Space Adventure (1990)(Hi-Tec Software)[h Rush][t]"
+	description "Ruff and Reddy in The Space Adventure (1990)(Hi-Tec Software)[h Rush][t]"
+	rom ( name "Ruff and Reddy in The Space Adventure (1990)(Hi-Tec Software)[h Rush][t].scl" size 28443 crc ad27a580 md5 934b3fab42330770b5e3ce56288b4876 sha1 3aa329c207d2ec3a916da3b153ad2783216f9979 )
+)
+
+game (
+	name "Santa's Christmas Capers (1991)(Zeppelin Games)[h AMD][t]"
+	description "Santa's Christmas Capers (1991)(Zeppelin Games)[h AMD][t]"
+	rom ( name "Santa's Christmas Capers (1991)(Zeppelin Games)[h AMD][t].scl" size 26395 crc c2b9a6f4 md5 697a8bf346526b9f616780334a6d4f15 sha1 70871b5c25691d10e5171b00afd6c4a4f9bb5c8e )
+)
+
+game (
+	name "Sceptre of Bagdad (1987)(Atlantis Software)[h Phantom Family][t][GS]"
+	description "Sceptre of Bagdad (1987)(Atlantis Software)[h Phantom Family][t][GS]"
+	rom ( name "Sceptre of Bagdad (1987)(Atlantis Software)[h Phantom Family][t][GS].scl" size 54341 crc 09708b5e md5 4708dee13a53936fc59844120d9de8b7 sha1 2d02eadbce7ae7d7acd1652ec73113f3d08b49eb )
+)
+
+game (
+	name "Sceptre of Bagdad (1987)(Atlantis Software)[h]"
+	description "Sceptre of Bagdad (1987)(Atlantis Software)[h]"
+	rom ( name "Sceptre of Bagdad (1987)(Atlantis Software)[h].scl" size 50785 crc 1867434b md5 247b48946f90c5308a9dfcdbf823f45e sha1 10ccf96d419fc475818344e0d99884dd8d5aa8ce )
+)
+
+game (
+	name "Scuba Kidz (1989)(Silverbird Software)[h AMD][t]"
+	description "Scuba Kidz (1989)(Silverbird Software)[h AMD][t]"
+	rom ( name "Scuba Kidz (1989)(Silverbird Software)[h AMD][t].scl" size 19227 crc 757e8f7b md5 6ecb915c95b181b2997a4120f08e6e1c sha1 3f124dba9120d6c3746fc2ee7a049903cb2159a2 )
+)
+
+game (
+	name "Shanghai Karate (1988)(Players Software)[h AMD]"
+	description "Shanghai Karate (1988)(Players Software)[h AMD]"
+	rom ( name "Shanghai Karate (1988)(Players Software)[h AMD].scl" size 85801 crc 7c82834d md5 c672ca1ce875a1d9604a52aad04946aa sha1 508b7831c317a73bdefeee558c90723c5ae1aa0e )
+)
+
+game (
+	name "Silkworm (1989)(Virgin Games)[h Phantasy][t]"
+	description "Silkworm (1989)(Virgin Games)[h Phantasy][t]"
+	rom ( name "Silkworm (1989)(Virgin Games)[h Phantasy][t].scl" size 33051 crc acf3123b md5 704e1f22cd88cc99afad8c2dc321e187 sha1 2db48be04a0385d102bbcee436ed5a8fb3724208 )
+)
+
+game (
+	name "Six Card Cribbage (1987)(Esem Software)[h Flash]"
+	description "Six Card Cribbage (1987)(Esem Software)[h Flash]"
+	rom ( name "Six Card Cribbage (1987)(Esem Software)[h Flash].scl" size 11547 crc 62726a37 md5 cddcf03fb7c7a0be1a0244536f74e6e8 sha1 f94c503077c293ae261649d1bf82dfed5bd67fb6 )
+)
+
+game (
+	name "Slug (1988)(Alternative Software)[h Rush][t]"
+	description "Slug (1988)(Alternative Software)[h Rush][t]"
+	rom ( name "Slug (1988)(Alternative Software)[h Rush][t].scl" size 15643 crc 62702461 md5 0698fd11e48d68d37fb75cdf0d281bf9 sha1 9d8984a22425a0210dace83d9fc2bfa36631908a )
+)
+
+game (
+	name "Snoball in Hell (1989)(Atlantis Software)[h AMD][t]"
+	description "Snoball in Hell (1989)(Atlantis Software)[h AMD][t]"
+	rom ( name "Snoball in Hell (1989)(Atlantis Software)[h AMD][t].scl" size 14619 crc 4b1b932a md5 2019a16d5ca94d313384b260d32311d8 sha1 3cdb52900ffde0b8119ad714f25aabc1df0f7370 )
+)
+
+game (
+	name "Soccer Challenge (1990)(Alternative Software)[h AMD]"
+	description "Soccer Challenge (1990)(Alternative Software)[h AMD]"
+	rom ( name "Soccer Challenge (1990)(Alternative Software)[h AMD].scl" size 33307 crc c9e2a535 md5 0d9028385307df2048d594d232d3643b sha1 80027618e7e5b71b1f94f34c2d8d0aaa034eb4cb )
+)
+
+game (
+	name "Solar Empire (1990)(Players Premier Software)[h Rush][t]"
+	description "Solar Empire (1990)(Players Premier Software)[h Rush][t]"
+	rom ( name "Solar Empire (1990)(Players Premier Software)[h Rush][t].scl" size 32283 crc 6d09c1f8 md5 31b205a438d2965e171ae9ff0c4a2cbd sha1 da57a57227245cee77059c754f2f48d76f2cae19 )
+)
+
+game (
+	name "Space Crusade (1992)(Gremlin Graphics Software)(ru)[h Voodoo People]"
+	description "Space Crusade (1992)(Gremlin Graphics Software)(ru)[h Voodoo People]"
+	rom ( name "Space Crusade (1992)(Gremlin Graphics Software)(ru)[h Voodoo People].scl" size 65307 crc f8c6a03a md5 68ae3b0910299302579dfff127de7dea sha1 56f2f4b1e1d29d380ad69635489d9040dfe02aaf )
+)
+
+game (
+	name "Star Raiders II (1987)(Electric Dreams Software)(ru)[h]"
+	description "Star Raiders II (1987)(Electric Dreams Software)(ru)[h]"
+	rom ( name "Star Raiders II (1987)(Electric Dreams Software)(ru)[h].scl" size 36449 crc 53ff5bc5 md5 4666672cb128e9cf8f8b1bf59a014872 sha1 178e828ed041b994853cd34e329616e0f8921de4 )
+)
+
+game (
+	name "Stifflip & Co. - Part 1 (1987)(Palace Software)[h AMD]"
+	description "Stifflip & Co. - Part 1 (1987)(Palace Software)[h AMD]"
+	rom ( name "Stifflip & Co. - Part 1 (1987)(Palace Software)[h AMD].scl" size 51227 crc 26f3cf0b md5 237419ed8b974f638bdb90eeead6ad8f sha1 1260e4d7c48c41e5ad166da5ec7a7286f8df09fc )
+)
+
+game (
+	name "Stifflip & Co. - Part 2 - Epilogue (1987)(Palace Software)[h AMD]"
+	description "Stifflip & Co. - Part 2 - Epilogue (1987)(Palace Software)[h AMD]"
+	rom ( name "Stifflip & Co. - Part 2 - Epilogue (1987)(Palace Software)[h AMD].scl" size 46363 crc 3c0e6b0f md5 494e78da07ee26fb8b1ed6722ec206b5 sha1 36d1e1ea5da5eed225175453254ef721fc387a97 )
+)
+
+game (
+	name "Stryker - In the Crypts of Trogan (1992)(Codemasters)[h AMD][t]"
+	description "Stryker - In the Crypts of Trogan (1992)(Codemasters)[h AMD][t]"
+	rom ( name "Stryker - In the Crypts of Trogan (1992)(Codemasters)[h AMD][t].scl" size 66089 crc a78b4b74 md5 a27832394aafeda32ebec7cb26e05569 sha1 83243240ad1b3b2347c1c24a1f22e8c5527d0e90 )
+)
+
+game (
+	name "Subbuteo - The Computer Game (1990)(Electronic Zoo)[h AMD]"
+	description "Subbuteo - The Computer Game (1990)(Electronic Zoo)[h AMD]"
+	rom ( name "Subbuteo - The Computer Game (1990)(Electronic Zoo)[h AMD].scl" size 41499 crc a57e9115 md5 6150bc850943c95bb7eb31cc2e3f8023 sha1 c13797068da9737e634c5731d3ade78b2171c97d )
+)
+
+game (
+	name "Super Ted - The Search for Spot (1990)(Alternative Software)[h AMD][t]"
+	description "Super Ted - The Search for Spot (1990)(Alternative Software)[h AMD][t]"
+	rom ( name "Super Ted - The Search for Spot (1990)(Alternative Software)[h AMD][t].scl" size 34075 crc e8ed6ffa md5 22e90d0d1ffc3b4c1bcfa593a30635a6 sha1 e0f12ca1d753a9576c3ed88f879352c994b8f85f )
+)
+
+game (
+	name "Sword of the Samurai (1992)(Zeppelin Games)[h AMD][t]"
+	description "Sword of the Samurai (1992)(Zeppelin Games)[h AMD][t]"
+	rom ( name "Sword of the Samurai (1992)(Zeppelin Games)[h AMD][t].scl" size 32539 crc 6549cd54 md5 aa7e6ce5c777646939ea146e30c6b2e4 sha1 88cd0f8da284cca498ad78c01f5dad806dd3ce45 )
+)
+
+game (
+	name "Tai-Chi Tortoise (1991)(Zeppelin Games)[h Rush][t]"
+	description "Tai-Chi Tortoise (1991)(Zeppelin Games)[h Rush][t]"
+	rom ( name "Tai-Chi Tortoise (1991)(Zeppelin Games)[h Rush][t].scl" size 47899 crc 85bd276a md5 273893d54df122861fca4b41743b9e04 sha1 1f3f1a07fee74662bc138fbc75ddc096c70c6bdb )
+)
+
+game (
+	name "Tanium (1988)(Players Software)[h Universe Software Corporation][t]"
+	description "Tanium (1988)(Players Software)[h Universe Software Corporation][t]"
+	rom ( name "Tanium (1988)(Players Software)[h Universe Software Corporation][t].scl" size 27675 crc 4cc3c8e1 md5 137e33895f8b583c73ade41b01364a5a sha1 3304c38d74c4562adc698328c0af043baed72a80 )
+)
+
+game (
+	name "Tapper (1985)(U.S. Gold)[h Universe Software Corporation][t]"
+	description "Tapper (1985)(U.S. Gold)[h Universe Software Corporation][t]"
+	rom ( name "Tapper (1985)(U.S. Gold)[h Universe Software Corporation][t].scl" size 37659 crc 9fb9f54e md5 2726b26178a1c401f8651bdf2bc3c7a1 sha1 c01b13732a4774d696554b884c5e46c51d8220c8 )
+)
+
+game (
+	name "Target (1989)(Martech Games)[h Fatality]"
+	description "Target (1989)(Martech Games)[h Fatality]"
+	rom ( name "Target (1989)(Martech Games)[h Fatality].scl" size 21787 crc e25d168b md5 5371b9ea4e10e3b0c9fd0559f3af4d89 sha1 81e8c314d753d047053167208abce640278de9a1 )
+)
+
+game (
+	name "Thomas the Tank Engine and Friends (1991)(Alternative Software)[h AMD]"
+	description "Thomas the Tank Engine and Friends (1991)(Alternative Software)[h AMD]"
+	rom ( name "Thomas the Tank Engine and Friends (1991)(Alternative Software)[h AMD].scl" size 32539 crc 374aade6 md5 9cbdb0d93b826a13be2fe12a07b04c18 sha1 55abf966183e86d7a482ad9a6221e693d5aa6840 )
+)
+
+game (
+	name "Tomb of Syrinx (1987)(The Power House)[h Rush][t]"
+	description "Tomb of Syrinx (1987)(The Power House)[h Rush][t]"
+	rom ( name "Tomb of Syrinx (1987)(The Power House)[h Rush][t].scl" size 18715 crc 53669ee9 md5 74f3ef3c6951f9dff52ff3a155ffb796 sha1 d77676ad2c5ef635e423d0e12c9a32ccf835f351 )
+)
+
+game (
+	name "Tomcat (1989)(Players Software)[h AMD][t]"
+	description "Tomcat (1989)(Players Software)[h AMD][t]"
+	rom ( name "Tomcat (1989)(Players Software)[h AMD][t].scl" size 27163 crc 7e0f09bc md5 eef3c18e633cb0c6cf42c95d5d456c70 sha1 d21d608f1ea37f1f416838e4565c06d271954914 )
+)
+
+game (
+	name "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality]"
+	description "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality]"
+	rom ( name "Twilight - Krajina Tienov (1995)(Ultrasoft)(sk)[h Fatality].scl" size 252741 crc e29a08ec md5 84aba58fd5ab7eb5ad48b370bfc99be2 sha1 9fc33fb0595eb471fb87d3a8a69fe40a99ee187c )
+)
+
+game (
+	name "Two Gun Turtle (1984)(MC Lothlorien)[h Flash]"
+	description "Two Gun Turtle (1984)(MC Lothlorien)[h Flash]"
+	rom ( name "Two Gun Turtle (1984)(MC Lothlorien)[h Flash].scl" size 17179 crc 862ba2b7 md5 7bb1b70d326f28805dfb71ace5118d84 sha1 94f24bef1169034cda5699ac4f10b2aaae0c9a3a )
+)
+
+game (
+	name "Ultimate Combat Mission (1987)(Mastertronic Added Dimension)[h AMD][t]"
+	description "Ultimate Combat Mission (1987)(Mastertronic Added Dimension)[h AMD][t]"
+	rom ( name "Ultimate Combat Mission (1987)(Mastertronic Added Dimension)[h AMD][t].scl" size 26139 crc 8d818cdb md5 3b9e87d68bffe6e6937a954f7c0b2e67 sha1 3b973befff10eb0a2bad39051aa2ff1452a40c3f )
+)
+
+game (
+	name "Vampire's Empire (1988)(Gremlin Graphics Software)[h Rush][t]"
+	description "Vampire's Empire (1988)(Gremlin Graphics Software)[h Rush][t]"
+	rom ( name "Vampire's Empire (1988)(Gremlin Graphics Software)[h Rush][t].scl" size 40475 crc 07bf4b4c md5 be253d95ae794fbb80c86751d5b8cf7a sha1 6704ffe5d47129f9329ebc6e490585e0c13368bf )
+)
+
+game (
+	name "Venganza de Johny Comomolo, La (1986)(Dro Soft)(es)[h Rush][t]"
+	description "Venganza de Johny Comomolo, La (1986)(Dro Soft)(es)[h Rush][t]"
+	rom ( name "Venganza de Johny Comomolo, La (1986)(Dro Soft)(es)[h Rush][t].scl" size 22555 crc a30c761a md5 307e9035cd7e25ff56ea32426dbc30d0 sha1 a5f46a436a6d32e843c85517de62878b7d3a6a73 )
+)
+
+game (
+	name "War Game 1812 (1985)(Reelax Games)[h]"
+	description "War Game 1812 (1985)(Reelax Games)[h]"
+	rom ( name "War Game 1812 (1985)(Reelax Games)[h].scl" size 46661 crc e5d3edb4 md5 55b9152de2e33ebc277af7c603ef6da0 sha1 ab7ab003885f07d831c8d6963dad94326a9c2161 )
+)
+
+game (
+	name "Way Out (1996)(KYO)[h Phantasy][t]"
+	description "Way Out (1996)(KYO)[h Phantasy][t]"
+	rom ( name "Way Out (1996)(KYO)[h Phantasy][t].scl" size 18203 crc 9bb99393 md5 2d93baa00ce7cb3cd1da0ded8ec3d56b sha1 5b81a36c43f967846fa30909d1815c7dd04126fc )
+)
+
+game (
+	name "Whopper Chase (1987)(Erbe Software)(es)[h Rush][t]"
+	description "Whopper Chase (1987)(Erbe Software)(es)[h Rush][t]"
+	rom ( name "Whopper Chase (1987)(Erbe Software)(es)[h Rush][t].scl" size 24603 crc 9e7b459e md5 1b26ecc57a4cecd27814225ef36e9260 sha1 2d7fcffc4a0690f28f14a4a6751c5dd0c4ce86f0 )
+)
+
+game (
+	name "World Series Baseball (1985)(Imagine Software)(ru)[h]"
+	description "World Series Baseball (1985)(Imagine Software)(ru)[h]"
+	rom ( name "World Series Baseball (1985)(Imagine Software)(ru)[h].scl" size 35369 crc 0e231afc md5 fb47b3fe9e87699c7d9b5438beafc2e1 sha1 fdf1ea3922fc6bd752cd798a08f2c48da7b2c383 )
+)
+
+game (
+	name "WWF Wrestle Mania (1991)(Ocean)[h Ice'n'Green]"
+	description "WWF Wrestle Mania (1991)(Ocean)[h Ice'n'Green]"
+	rom ( name "WWF Wrestle Mania (1991)(Ocean)[h Ice'n'Green].scl" size 119389 crc 7c93ecab md5 0b6d7c135f64dbe69717d2070bd7fa21 sha1 77ed22773a47877851a4b9ae9cef8d64d5145c10 )
+)
+
+game (
+	name "Xecutor (1987)(ACE Software)[h Rush][t]"
+	description "Xecutor (1987)(ACE Software)[h Rush][t]"
+	rom ( name "Xecutor (1987)(ACE Software)[h Rush][t].scl" size 25115 crc 032ae29a md5 19a5abb1665a1102e72beeb79327ae10 sha1 90b54f81407c8b038cf0d2e846dd79e33c0a34d3 )
+)
+
+game (
+	name "Yogi Bear (1987)(Piranha)[h AMD]"
+	description "Yogi Bear (1987)(Piranha)[h AMD]"
+	rom ( name "Yogi Bear (1987)(Piranha)[h AMD].scl" size 34331 crc 4b5dbc6a md5 2269ec65008cae290b1487d75380b374 sha1 702a07be6c1b1d4feb5405d33402e48ee778307a )
+)
+
+game (
+	name "Zhak (1989)(MicroHobby)(es)[h Flash][t]"
+	description "Zhak (1989)(MicroHobby)(es)[h Flash][t]"
+	rom ( name "Zhak (1989)(MicroHobby)(es)[h Flash][t].scl" size 19739 crc 7124f84e md5 4fd73621b3cbea409c6ea7f46d62d766 sha1 05fb6a21ea480db7814366994b07f11ea2e368d2 )
+)
+
+game (
+	name "Zly Sen Frantiska Kovdelky (1990)(Proxima Software)(cs)[h AMD]"
+	description "Zly Sen Frantiska Kovdelky (1990)(Proxima Software)(cs)[h AMD]"
+	rom ( name "Zly Sen Frantiska Kovdelky (1990)(Proxima Software)(cs)[h AMD].scl" size 30491 crc 9a916806 md5 62b1e055a488820af049c2b782505e5e sha1 d658d2407e50f36e049de6d9ca16193581acd4bd )
+)
+
+game (
+	name "Zombi (1990)(Ubi Soft)[h X-Project Association]"
+	description "Zombi (1990)(Ubi Soft)[h X-Project Association]"
+	rom ( name "Zombi (1990)(Ubi Soft)[h X-Project Association].scl" size 108855 crc 1a23e1e4 md5 70b85297b52bee3fd79a7b3a4e0cf5e4 sha1 ef3348dc4cfb824eefb86a7fbaa5bdaf629495c4 )
+)
+
+game (
+	name "Zone Trooper (1989)(Game Busters)[h Rush][t]"
+	description "Zone Trooper (1989)(Game Busters)[h Rush][t]"
+	rom ( name "Zone Trooper (1989)(Game Busters)[h Rush][t].scl" size 39707 crc c3e31d2c md5 3a8da40b31ec3f7bdd4daab1f79be6e6 sha1 1f44d30b931e0dc8a64e253d63b33c48104c7583 )
+)
+
+game (
+	name "ZX-Windows Passiance (1999)(Nagual)(ru)"
+	description "ZX-Windows Passiance (1999)(Nagual)(ru)"
+	rom ( name "ZX-Windows Passiance (1999)(Nagual)(ru).scl" size 6939 crc 19a098d2 md5 65f3e4743afd7b2326cf4e985209cdd0 sha1 a4208b9e21ca5d11bf237dddd79e8c1a6e85eb4a )
+)
+

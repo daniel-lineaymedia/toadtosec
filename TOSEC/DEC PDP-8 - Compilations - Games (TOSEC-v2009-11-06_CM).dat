@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-8 - Compilations - Games"
+	description "DEC PDP-8 - Compilations - Games (TOSEC-v2009-11-06)"
+	category "DEC PDP-8 - Compilations - Games"
+	version 2009-11-06
+	author "TKaos"
+)
+
+game (
+	name "Baird Games (19xx)(-)"
+	description "Baird Games (19xx)(-)"
+	rom ( name "Baird Games (19xx)(-).rx1" size 256256 crc e4839532 md5 eaa422036acec1d76cb5c0ba0b0c1187 )
+)

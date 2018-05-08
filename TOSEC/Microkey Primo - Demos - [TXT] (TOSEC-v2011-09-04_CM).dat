@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Microkey Primo - Demos - [TXT]"
+	description "Microkey Primo - Demos - [TXT] (TOSEC-v2011-09-04)"
+	category "Microkey Primo - Demos - [TXT]"
+	version 2011-09-04
+	author "Gruby"
+)
+
+game (
+	name "Loverseny Demo (1984)(Tiszai Tamas)"
+	description "Loverseny Demo (1984)(Tiszai Tamas)"
+	rom ( name "Loverseny Demo (1984)(Tiszai Tamas).txt" size 1227 crc 0ed292ea md5 46101e245d0b440b7c5a88e863e37709 sha1 187c985e57cfcd8355e066f02dc5619c898d0a13 )
+)
+

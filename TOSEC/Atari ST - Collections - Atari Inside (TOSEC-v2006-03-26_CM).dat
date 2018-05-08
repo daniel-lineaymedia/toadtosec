@@ -1,0 +1,619 @@
+clrmamepro (
+	name "Atari ST - Collections - Atari Inside"
+	description "Atari ST - Collections - Atari Inside (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Atari Inside"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Atari Inside 001 (19xx)(Atari Inside)"
+	description "Atari Inside 001 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 001 (19xx)(Atari Inside).st" size 737280 crc de1186ca md5 f2c9c18e4fa15bfbef8855e037a88e0d )
+)
+
+game (
+	name "Atari Inside 002 (19xx)(Atari Inside)"
+	description "Atari Inside 002 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 002 (19xx)(Atari Inside).st" size 737280 crc c425dd97 md5 d04c1e9e5c3a01cf76439637823ddfcd )
+)
+
+game (
+	name "Atari Inside 003 (19xx)(Atari Inside)"
+	description "Atari Inside 003 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 003 (19xx)(Atari Inside).st" size 746496 crc 767d9a43 md5 c776ed9c0b692110c622f9a1f79a7d05 )
+)
+
+game (
+	name "Atari Inside 004 (19xx)(Atari Inside)"
+	description "Atari Inside 004 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 004 (19xx)(Atari Inside).st" size 737280 crc 9316e837 md5 9c0c925a1382adc91cfecc3ea187b4dd )
+)
+
+game (
+	name "Atari Inside 005 (19xx)(Atari Inside)"
+	description "Atari Inside 005 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 005 (19xx)(Atari Inside).st" size 737280 crc 343bc9a9 md5 6e4752112cf5c7b1baad4cbe36579cdd )
+)
+
+game (
+	name "Atari Inside 007 (19xx)(Atari Inside)"
+	description "Atari Inside 007 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 007 (19xx)(Atari Inside).st" size 860160 crc 5a875dd9 md5 e1be642915e18d6503c780aa0e7ab753 )
+)
+
+game (
+	name "Atari Inside 008 (19xx)(Atari Inside)"
+	description "Atari Inside 008 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 008 (19xx)(Atari Inside).st" size 1146880 crc 05e57849 md5 832c808807c1768e385ea885841b1755 )
+)
+
+game (
+	name "Atari Inside 009 (19xx)(Atari Inside)"
+	description "Atari Inside 009 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 009 (19xx)(Atari Inside).st" size 737280 crc 227c55b8 md5 a8a5b3bd7f6b97300e298dcee8e27f86 )
+)
+
+game (
+	name "Atari Inside 010 (19xx)(Atari Inside)"
+	description "Atari Inside 010 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 010 (19xx)(Atari Inside).st" size 737280 crc 353dfbee md5 bf5eaa2218cd947726ab47da1dba09f7 )
+)
+
+game (
+	name "Atari Inside 011 (19xx)(Atari Inside)"
+	description "Atari Inside 011 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 011 (19xx)(Atari Inside).st" size 819200 crc 7026a50d md5 46863bbc4ce48b04a3f82b185e7ac2f3 )
+)
+
+game (
+	name "Atari Inside 012 (19xx)(Atari Inside)"
+	description "Atari Inside 012 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 012 (19xx)(Atari Inside).st" size 737280 crc 1d599fab md5 d32a5714ad7f22fffa386adfd2cfe313 )
+)
+
+game (
+	name "Atari Inside 013 (19xx)(Atari Inside)"
+	description "Atari Inside 013 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 013 (19xx)(Atari Inside).st" size 737280 crc 49753d8c md5 6082f9d4e1afb3c57b2024caa6484f3e )
+)
+
+game (
+	name "Atari Inside 014 (19xx)(Atari Inside)"
+	description "Atari Inside 014 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 014 (19xx)(Atari Inside).st" size 737280 crc da8bd8c6 md5 19e985a89049ded015257353c70cd008 )
+)
+
+game (
+	name "Atari Inside 015 (19xx)(Atari Inside)"
+	description "Atari Inside 015 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 015 (19xx)(Atari Inside).st" size 737280 crc 86f92b15 md5 9d40f70492e11637f4edee2ba899995a )
+)
+
+game (
+	name "Atari Inside 016 (19xx)(Atari Inside)"
+	description "Atari Inside 016 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 016 (19xx)(Atari Inside).st" size 737280 crc a534c1f0 md5 329ff8ead1c8e9bf412eab44e626c942 )
+)
+
+game (
+	name "Atari Inside 017 (19xx)(Atari Inside)"
+	description "Atari Inside 017 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 017 (19xx)(Atari Inside).st" size 746496 crc 27cb4b54 md5 35d6c2c7b56cca891b730bd8e3794ac8 )
+)
+
+game (
+	name "Atari Inside 018 (19xx)(Atari Inside)"
+	description "Atari Inside 018 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 018 (19xx)(Atari Inside).st" size 819200 crc f3140031 md5 a2947dcbd849ab16286dda7a761d2088 )
+)
+
+game (
+	name "Atari Inside 019 (19xx)(Atari Inside)"
+	description "Atari Inside 019 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 019 (19xx)(Atari Inside).st" size 737280 crc 6116517a md5 6ca189ed9287585bf000fb0df6e49c68 )
+)
+
+game (
+	name "Atari Inside 020 (19xx)(Atari Inside)"
+	description "Atari Inside 020 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 020 (19xx)(Atari Inside).st" size 737280 crc ad65246f md5 d2a8d331963b43e23c3c3087bcc8741d )
+)
+
+game (
+	name "Atari Inside 021 (19xx)(Atari Inside)"
+	description "Atari Inside 021 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 021 (19xx)(Atari Inside).st" size 737280 crc 10832d5a md5 789da34a0dc6023af3a40ebb372e4771 )
+)
+
+game (
+	name "Atari Inside 022 (19xx)(Atari Inside)"
+	description "Atari Inside 022 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 022 (19xx)(Atari Inside).st" size 737280 crc c253683d md5 b0b9edefc064e04a864c5a9ec3a1fd4f )
+)
+
+game (
+	name "Atari Inside 023 (19xx)(Atari Inside)"
+	description "Atari Inside 023 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 023 (19xx)(Atari Inside).st" size 737280 crc ebfdd316 md5 6793013f59e82faead4805f5bc59b2c8 )
+)
+
+game (
+	name "Atari Inside 024 (19xx)(Atari Inside)"
+	description "Atari Inside 024 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 024 (19xx)(Atari Inside).st" size 737280 crc cd33fe09 md5 fee5fd32e4d0123ca8e0b550763f379b )
+)
+
+game (
+	name "Atari Inside 025 (19xx)(Atari Inside)"
+	description "Atari Inside 025 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 025 (19xx)(Atari Inside).st" size 737280 crc 476445f5 md5 aad6d6d65b64d453860b44e53ee59359 )
+)
+
+game (
+	name "Atari Inside 026 (19xx)(Atari Inside)"
+	description "Atari Inside 026 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 026 (19xx)(Atari Inside).st" size 737280 crc 6921b0fa md5 40535c23a23007b6436795bfc735e139 )
+)
+
+game (
+	name "Atari Inside 027 (19xx)(Atari Inside)"
+	description "Atari Inside 027 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 027 (19xx)(Atari Inside).st" size 737280 crc c62950f8 md5 d87c2e69ff943412a32f6a8b9ddf27f4 )
+)
+
+game (
+	name "Atari Inside 028 (19xx)(Atari Inside)"
+	description "Atari Inside 028 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 028 (19xx)(Atari Inside).st" size 737280 crc 4b70ba6e md5 1a8a3b2fe73df7b7932b7c07640d662a )
+)
+
+game (
+	name "Atari Inside 029 (19xx)(Atari Inside)"
+	description "Atari Inside 029 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 029 (19xx)(Atari Inside).st" size 737280 crc 1fcf2d72 md5 569a88545400697fdca59828aec740ff )
+)
+
+game (
+	name "Atari Inside 031 (19xx)(Atari Inside)"
+	description "Atari Inside 031 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 031 (19xx)(Atari Inside).st" size 737280 crc f5bbe12d md5 675d3b07e36c6df1bbb4adafaa1bd580 )
+)
+
+game (
+	name "Atari Inside 032 (19xx)(Atari Inside)"
+	description "Atari Inside 032 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 032 (19xx)(Atari Inside).st" size 819200 crc 5fb4bfb5 md5 ceab1b0225cc0456cacc9103438ba714 )
+)
+
+game (
+	name "Atari Inside 033 (19xx)(Atari Inside)"
+	description "Atari Inside 033 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 033 (19xx)(Atari Inside).st" size 737280 crc 84c61e9e md5 97d2fc6ebe6d401f4587e4b3a118d941 )
+)
+
+game (
+	name "Atari Inside 035 (19xx)(Atari Inside)"
+	description "Atari Inside 035 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 035 (19xx)(Atari Inside).st" size 737280 crc e5237e8d md5 99841f3035cff74dc6131d7f7c6e9693 )
+)
+
+game (
+	name "Atari Inside 036 (19xx)(Atari Inside)"
+	description "Atari Inside 036 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 036 (19xx)(Atari Inside).st" size 737280 crc b2d00579 md5 93f6e80cfb9e8d764a9aacfe25decb5b )
+)
+
+game (
+	name "Atari Inside 037 (19xx)(Atari Inside)"
+	description "Atari Inside 037 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 037 (19xx)(Atari Inside).st" size 737280 crc 4c284142 md5 288a98c90d56906296e612c7fab905ba )
+)
+
+game (
+	name "Atari Inside 038 (19xx)(Atari Inside)"
+	description "Atari Inside 038 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 038 (19xx)(Atari Inside).st" size 737280 crc 4a1a3897 md5 2ba52840e2499f8d0595cca1b61a1ecf )
+)
+
+game (
+	name "Atari Inside 041 (19xx)(Atari Inside)"
+	description "Atari Inside 041 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 041 (19xx)(Atari Inside).st" size 737280 crc c325f986 md5 c46b2568c54ca46a880f6de29604a6c8 )
+)
+
+game (
+	name "Atari Inside 046 (19xx)(Atari Inside)"
+	description "Atari Inside 046 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 046 (19xx)(Atari Inside).st" size 737280 crc a333124e md5 9c47a18e00f889b16448b4e57db2dcae )
+)
+
+game (
+	name "Atari Inside 047 (19xx)(Atari Inside)"
+	description "Atari Inside 047 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 047 (19xx)(Atari Inside).st" size 819200 crc a055ac8c md5 69d926ad79010d78ae40ae68a8876780 )
+)
+
+game (
+	name "Atari Inside 048 (19xx)(Atari Inside)"
+	description "Atari Inside 048 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 048 (19xx)(Atari Inside).st" size 737280 crc 16a41137 md5 53d888b4c3d983a0de7249c4ad8a20c1 )
+)
+
+game (
+	name "Atari Inside 049 (19xx)(Atari Inside)"
+	description "Atari Inside 049 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 049 (19xx)(Atari Inside).st" size 755712 crc b0fca814 md5 f3a89ee5952a594d0d1857e743245f96 )
+)
+
+game (
+	name "Atari Inside 050 (19xx)(Atari Inside)"
+	description "Atari Inside 050 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 050 (19xx)(Atari Inside).st" size 737280 crc 855a032d md5 684b63d8aa78a1c630878851bdb8d838 )
+)
+
+game (
+	name "Atari Inside 051 (19xx)(Atari Inside)"
+	description "Atari Inside 051 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 051 (19xx)(Atari Inside).st" size 923648 crc f231294b md5 f91b972388372865efc404f95f34a0fe )
+)
+
+game (
+	name "Atari Inside 052 (19xx)(Atari Inside)"
+	description "Atari Inside 052 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 052 (19xx)(Atari Inside).st" size 737280 crc 70fc3120 md5 4732555848613bf633bf9f9e57208ad0 )
+)
+
+game (
+	name "Atari Inside 053 (19xx)(Atari Inside)"
+	description "Atari Inside 053 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 053 (19xx)(Atari Inside).st" size 923648 crc f793c1cf md5 636a94565e59709bd2518495fecc84f4 )
+)
+
+game (
+	name "Atari Inside 054 (19xx)(Atari Inside)"
+	description "Atari Inside 054 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 054 (19xx)(Atari Inside).st" size 737280 crc 25ec885b md5 95d261aece16bfc1a70fc9b7bedb8d6b )
+)
+
+game (
+	name "Atari Inside 055 (19xx)(Atari Inside)"
+	description "Atari Inside 055 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 055 (19xx)(Atari Inside).st" size 1638400 crc 2d24fd9f md5 e143b73ca0f9d723754a24d99b567d94 )
+)
+
+game (
+	name "Atari Inside 056 (19xx)(Atari Inside)"
+	description "Atari Inside 056 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 056 (19xx)(Atari Inside).st" size 737280 crc 11497378 md5 3f4dc144149d465c139b00c86a96c620 )
+)
+
+game (
+	name "Atari Inside 057 (19xx)(Atari Inside)"
+	description "Atari Inside 057 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 057 (19xx)(Atari Inside).st" size 737280 crc a50c3daf md5 cab0fb4eb3da67ae8d83c4b04c6df998 )
+)
+
+game (
+	name "Atari Inside 058 (19xx)(Atari Inside)"
+	description "Atari Inside 058 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 058 (19xx)(Atari Inside).st" size 1474560 crc 669003be md5 6dcf0138e02ffeae334c8224792924fb )
+)
+
+game (
+	name "Atari Inside 059 (19xx)(Atari Inside)"
+	description "Atari Inside 059 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 059 (19xx)(Atari Inside).st" size 737280 crc a97d45ea md5 5ce1164c4ae59e3996c08f5ec58bfc4b )
+)
+
+game (
+	name "Atari Inside 060 (19xx)(Atari Inside)"
+	description "Atari Inside 060 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 060 (19xx)(Atari Inside).st" size 737280 crc 6c52a1f0 md5 c31f4028341b2154a86a9556907a3b24 )
+)
+
+game (
+	name "Atari Inside 061 (19xx)(Atari Inside)"
+	description "Atari Inside 061 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 061 (19xx)(Atari Inside).st" size 1007616 crc f4a6ba9d md5 c717c0d6e2f5a25468fed559fc15fc3a )
+)
+
+game (
+	name "Atari Inside 062 (19xx)(Atari Inside)"
+	description "Atari Inside 062 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 062 (19xx)(Atari Inside).st" size 737280 crc d9b4b29b md5 a4067763670cbf0c35a567e3827643a4 )
+)
+
+game (
+	name "Atari Inside 063 (19xx)(Atari Inside)"
+	description "Atari Inside 063 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 063 (19xx)(Atari Inside).st" size 934912 crc 3c892ae5 md5 da8c72eb0b0f781e9088b6c5d3290abb )
+)
+
+game (
+	name "Atari Inside 064 (19xx)(Atari Inside)"
+	description "Atari Inside 064 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 064 (19xx)(Atari Inside).st" size 737280 crc c8eb078a md5 5f38033611a70cde5eee6c73544476e3 )
+)
+
+game (
+	name "Atari Inside 065 (19xx)(Atari Inside)"
+	description "Atari Inside 065 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 065 (19xx)(Atari Inside).st" size 755712 crc 7a1847ce md5 55d4d804a708150afa853b4644c420fa )
+)
+
+game (
+	name "Atari Inside 067 (19xx)(Atari Inside)"
+	description "Atari Inside 067 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 067 (19xx)(Atari Inside).st" size 737280 crc 10f85089 md5 4444159673814aff55a66c353b58d441 )
+)
+
+game (
+	name "Atari Inside 068 (19xx)(Atari Inside)"
+	description "Atari Inside 068 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 068 (19xx)(Atari Inside).st" size 737280 crc a8e2f1a8 md5 095e14cc83a7fc7b7833c29b9b4c1204 )
+)
+
+game (
+	name "Atari Inside 069 (19xx)(Atari Inside)"
+	description "Atari Inside 069 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 069 (19xx)(Atari Inside).st" size 737280 crc 72837fbd md5 173f074f125a04b36833a3fce168ad66 )
+)
+
+game (
+	name "Atari Inside 070 (19xx)(Atari Inside)"
+	description "Atari Inside 070 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 070 (19xx)(Atari Inside).st" size 901120 crc 1e480ca7 md5 3279e653ff2c24eca59127c11ff21c67 )
+)
+
+game (
+	name "Atari Inside 071 (19xx)(Atari Inside)"
+	description "Atari Inside 071 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 071 (19xx)(Atari Inside).st" size 737280 crc 4c7d8399 md5 9ce2afb3782a92d2f21715aa232134e7 )
+)
+
+game (
+	name "Atari Inside 072 (19xx)(Atari Inside)"
+	description "Atari Inside 072 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 072 (19xx)(Atari Inside).st" size 737280 crc b5b4a417 md5 82c4323aa2e1369f899e9d87a1e99914 )
+)
+
+game (
+	name "Atari Inside 073 (19xx)(Atari Inside)"
+	description "Atari Inside 073 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 073 (19xx)(Atari Inside).st" size 819200 crc a75d6324 md5 295601a673c139a4240ea798088f8a34 )
+)
+
+game (
+	name "Atari Inside 074 (19xx)(Atari Inside)"
+	description "Atari Inside 074 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 074 (19xx)(Atari Inside).st" size 737280 crc bbc15a26 md5 188f4b83b9797041309665321e953e48 )
+)
+
+game (
+	name "Atari Inside 075 (19xx)(Atari Inside)"
+	description "Atari Inside 075 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 075 (19xx)(Atari Inside).st" size 1474560 crc b2682e10 md5 12ae504b6009714e45b1470612a9d968 )
+)
+
+game (
+	name "Atari Inside 076 (19xx)(Atari Inside)"
+	description "Atari Inside 076 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 076 (19xx)(Atari Inside).st" size 1019904 crc 1f97681d md5 0dae430961c51caf4026dedc7a6a9858 )
+)
+
+game (
+	name "Atari Inside 077 (19xx)(Atari Inside)"
+	description "Atari Inside 077 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 077 (19xx)(Atari Inside).st" size 737280 crc add450e3 md5 2f5e418149f79fddba3a3a7181895a5e )
+)
+
+game (
+	name "Atari Inside 078 (19xx)(Atari Inside)"
+	description "Atari Inside 078 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 078 (19xx)(Atari Inside).st" size 737280 crc 91ea9bf4 md5 0f53f044a93b34444a3381bce7f0a662 )
+)
+
+game (
+	name "Atari Inside 079 (19xx)(Atari Inside)"
+	description "Atari Inside 079 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 079 (19xx)(Atari Inside).st" size 737280 crc c6b7d316 md5 ce68b4d926c77ad4117286f7c1f8604a )
+)
+
+game (
+	name "Atari Inside 080 (19xx)(Atari Inside)"
+	description "Atari Inside 080 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 080 (19xx)(Atari Inside).st" size 819200 crc 9ee98885 md5 b45e65c37a90d4b6155293f7c54b11f8 )
+)
+
+game (
+	name "Atari Inside 081 (19xx)(Atari Inside)"
+	description "Atari Inside 081 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 081 (19xx)(Atari Inside).st" size 746496 crc 7abf1443 md5 9435d26e22d3095e29b71a60ecb2f12b )
+)
+
+game (
+	name "Atari Inside 082 (19xx)(Atari Inside)"
+	description "Atari Inside 082 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 082 (19xx)(Atari Inside).st" size 737280 crc ac5a9c3b md5 ad0e6252ca8fcba04ab56a07365cccde )
+)
+
+game (
+	name "Atari Inside 083 (19xx)(Atari Inside)"
+	description "Atari Inside 083 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 083 (19xx)(Atari Inside).st" size 737280 crc 20a31729 md5 94751d435665797f6c326b0f5be617dc )
+)
+
+game (
+	name "Atari Inside 084 (19xx)(Atari Inside)"
+	description "Atari Inside 084 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 084 (19xx)(Atari Inside).st" size 737280 crc a1028bab md5 234c3d0126000fca3b3bcccbc5accd87 )
+)
+
+game (
+	name "Atari Inside 085 (19xx)(Atari Inside)[u]"
+	description "Atari Inside 085 (19xx)(Atari Inside)[u]"
+	rom ( name "Atari Inside 085 (19xx)(Atari Inside)[u].st" size 1492992 crc 0fc06454 md5 83fe9c9498b4a012916219168a058f79 )
+)
+
+game (
+	name "Atari Inside 086 (19xx)(Atari Inside)"
+	description "Atari Inside 086 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 086 (19xx)(Atari Inside).st" size 1474560 crc d8fc90b0 md5 a6fd276eaa0a1d1da3726b1b86bb44ce )
+)
+
+game (
+	name "Atari Inside 087 (19xx)(Atari Inside)"
+	description "Atari Inside 087 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 087 (19xx)(Atari Inside).st" size 737280 crc 322c0281 md5 4951de5d1501ed19bc0e0ac494bef6af )
+)
+
+game (
+	name "Atari Inside 088 (19xx)(Atari Inside)"
+	description "Atari Inside 088 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 088 (19xx)(Atari Inside).st" size 737280 crc 63fe0150 md5 eea1122b72dc872ffc8284ee85429905 )
+)
+
+game (
+	name "Atari Inside 089 (19xx)(Atari Inside)"
+	description "Atari Inside 089 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 089 (19xx)(Atari Inside).st" size 1474560 crc a8b8ea33 md5 1c98cd3e2ac168f2855b5afabe2dba2e )
+)
+
+game (
+	name "Atari Inside 090 (19xx)(Atari Inside)"
+	description "Atari Inside 090 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 090 (19xx)(Atari Inside).st" size 737280 crc acb6869d md5 433e9cfdb36bca01743d1d8692818dd2 )
+)
+
+game (
+	name "Atari Inside 091 (19xx)(Atari Inside)[u]"
+	description "Atari Inside 091 (19xx)(Atari Inside)[u]"
+	rom ( name "Atari Inside 091 (19xx)(Atari Inside)[u].st" size 737280 crc 78c279d1 md5 84c7836411925ec3389fbc4d737a172e )
+)
+
+game (
+	name "Atari Inside 092 (19xx)(Atari Inside)"
+	description "Atari Inside 092 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 092 (19xx)(Atari Inside).st" size 1575936 crc 65081cfc md5 f8f0072367c42b401cdd77d3f6089689 )
+)
+
+game (
+	name "Atari Inside 093 (19xx)(Atari Inside)"
+	description "Atari Inside 093 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 093 (19xx)(Atari Inside).st" size 737280 crc 091b440e md5 10c8807d256146545f86f665c95d1e96 )
+)
+
+game (
+	name "Atari Inside 094 (19xx)(Atari Inside)"
+	description "Atari Inside 094 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 094 (19xx)(Atari Inside).st" size 737280 crc f384cec1 md5 a3bea6d1c9a711495aa2167ff34b3f2b )
+)
+
+game (
+	name "Atari Inside 095 (19xx)(Atari Inside)"
+	description "Atari Inside 095 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 095 (19xx)(Atari Inside).st" size 737280 crc f86edcfa md5 501fb3daac8a13a63eda404967245cf5 )
+)
+
+game (
+	name "Atari Inside 096 (19xx)(Atari Inside)"
+	description "Atari Inside 096 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 096 (19xx)(Atari Inside).st" size 737280 crc 876bf116 md5 c81b32552816b9527b00ee0b37579caf )
+)
+
+game (
+	name "Atari Inside 097 (19xx)(Atari Inside)"
+	description "Atari Inside 097 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 097 (19xx)(Atari Inside).st" size 737280 crc 255a1e1b md5 65547938c2c4c933fd7247ab620f8f50 )
+)
+
+game (
+	name "Atari Inside 098 (19xx)(Atari Inside)"
+	description "Atari Inside 098 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 098 (19xx)(Atari Inside).st" size 1474560 crc 54d3a827 md5 2347389b0c8c91830efae3e3a4befd94 )
+)
+
+game (
+	name "Atari Inside 099 (19xx)(Atari Inside)"
+	description "Atari Inside 099 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 099 (19xx)(Atari Inside).st" size 1474560 crc 00f2ab41 md5 cf81368f8c911143b6c4d360dba96aff )
+)
+
+game (
+	name "Atari Inside 100 (19xx)(Atari Inside)"
+	description "Atari Inside 100 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 100 (19xx)(Atari Inside).st" size 1474560 crc 6816ba28 md5 c2b589e075cd0e77a8abf3dd6506fc11 )
+)
+
+game (
+	name "Atari Inside 101 (19xx)(Atari Inside)"
+	description "Atari Inside 101 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 101 (19xx)(Atari Inside).st" size 737280 crc ffd0928a md5 04d664947f07d9de27b3fb2b11145d0c )
+)
+
+game (
+	name "Atari Inside 102 (19xx)(Atari Inside)"
+	description "Atari Inside 102 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 102 (19xx)(Atari Inside).st" size 737280 crc fe2193af md5 59b5887284d024870113aa15d141df83 )
+)
+
+game (
+	name "Atari Inside 103 (19xx)(Atari Inside)"
+	description "Atari Inside 103 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 103 (19xx)(Atari Inside).st" size 737280 crc 592732f1 md5 6548e83fcb9dd4129012a691b0446281 )
+)
+
+game (
+	name "Atari Inside 104 (19xx)(Atari Inside)"
+	description "Atari Inside 104 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 104 (19xx)(Atari Inside).st" size 934912 crc 1ab4f0dc md5 af7d9de707dcf6fcf08fb6f7813791d5 )
+)
+
+game (
+	name "Atari Inside 105 (19xx)(Atari Inside)"
+	description "Atari Inside 105 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 105 (19xx)(Atari Inside).st" size 737280 crc 2cc331cc md5 d5f4be60542c362918796efd09602fb1 )
+)
+
+game (
+	name "Atari Inside 107 (19xx)(Atari Inside)"
+	description "Atari Inside 107 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 107 (19xx)(Atari Inside).st" size 737280 crc b1f7a95c md5 16e945c959afd6f835775799bad6188f )
+)
+
+game (
+	name "Atari Inside 108 (19xx)(Atari Inside)"
+	description "Atari Inside 108 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 108 (19xx)(Atari Inside).st" size 737280 crc 422a4dd9 md5 eae9f956e2ae4be65700578118186091 )
+)
+
+game (
+	name "Atari Inside 109 (19xx)(Atari Inside)"
+	description "Atari Inside 109 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 109 (19xx)(Atari Inside).st" size 737280 crc 4507d36a md5 270de11dd1ad098669bff3349272b8e9 )
+)
+
+game (
+	name "Atari Inside 110 (19xx)(Atari Inside)"
+	description "Atari Inside 110 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 110 (19xx)(Atari Inside).st" size 1511424 crc bc0660e9 md5 001cb62e6e15ade2d2526852e3b457f0 )
+)
+
+game (
+	name "Atari Inside 121 (19xx)(Atari Inside)"
+	description "Atari Inside 121 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 121 (19xx)(Atari Inside).st" size 737280 crc d32d4777 md5 507eb5890a5283b304f16c39890965b1 )
+)
+
+game (
+	name "Atari Inside 123 (19xx)(Atari Inside)"
+	description "Atari Inside 123 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 123 (19xx)(Atari Inside).st" size 1474560 crc 72e46f15 md5 5ac40867cbd0fd3c8594272bf2fbca70 )
+)
+
+game (
+	name "Atari Inside 130 (19xx)(Atari Inside)"
+	description "Atari Inside 130 (19xx)(Atari Inside)"
+	rom ( name "Atari Inside 130 (19xx)(Atari Inside).st" size 746496 crc 9b9b0fd7 md5 07e13aa47e8676cc15576715e66e3cbc )
+)

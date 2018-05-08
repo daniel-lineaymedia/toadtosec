@@ -1,0 +1,169 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Applications - [TAP]"
+	description "Jupiter Cantab Jupiter Ace - Applications - [TAP] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Applications - [TAP]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Ace Case (1984-03)(Personal Computer World)(GB)[3K]"
+	description "Ace Case (1984-03)(Personal Computer World)(GB)[3K]"
+	rom ( name "Ace Case (1984-03)(Personal Computer World)(GB)[3K].tap" size 332 crc 85ed47c5 md5 a59dbc78f8d28a920361fad908bf3aa2 )
+)
+
+game (
+	name "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]"
+	description "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]"
+	rom ( name "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K].tap" size 93 crc 5dc239b1 md5 b932b424e34dbbe058d0eaf37e91948c )
+)
+
+game (
+	name "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]"
+	description "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]"
+	rom ( name "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K].tap" size 85 crc 6764333f md5 a5c4785d1c86127e97cc3a5da5f7f818 )
+)
+
+game (
+	name "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]"
+	description "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]"
+	rom ( name "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K].tap" size 115 crc 587a7272 md5 b5d77dc653472fce1366590b710efafc )
+)
+
+game (
+	name "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K].tap" size 2103 crc 20cd6c82 md5 735671d79268561bd3f893cddcfbc0be )
+)
+
+game (
+	name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K]"
+	description "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K].tap" size 13501 crc bd1df519 md5 c858afd69aa05ced2d98146dc40b75b4 )
+)
+
+game (
+	name "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K].tap" size 549 crc f0952595 md5 578c1120ecb70316066fa61afdd93ba8 )
+)
+
+game (
+	name "Callisto (1983)(ACS Software)[16K]"
+	description "Callisto (1983)(ACS Software)[16K]"
+	rom ( name "Callisto (1983)(ACS Software)[16K].tap" size 8832 crc aa6ba879 md5 f02b7968451f95a6aff3be484759caa1 )
+)
+
+game (
+	name "Database (1985)(Boldfield Computing)(GB)[19K]"
+	description "Database (1985)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Database (1985)(Boldfield Computing)(GB)[19K].tap" size 7414 crc fd4d1d6b md5 ca21e042e7203808d9ae7052e58db941 )
+)
+
+game (
+	name "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K].tap" size 146 crc 0f72521b md5 e105c804d22d55d3555d65050a7b5d01 )
+)
+
+game (
+	name "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K].tap" size 4503 crc 726648b4 md5 a860c4749020eb3e730a21300e0e9a8d )
+)
+
+game (
+	name "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]"
+	description "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]"
+	rom ( name "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K].tap" size 2706 crc 1ca6ac21 md5 ee9f0ae8f5ea57fac622a50c46d9efbf )
+)
+
+game (
+	name "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K].tap" size 2494 crc e119eb90 md5 bac22637b33684c94d721b2c22de2a97 )
+)
+
+game (
+	name "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K].tap" size 2722 crc 9a8e3077 md5 d4c7b0af885d60dc6e16fa1edcea746a )
+)
+
+game (
+	name "HDRmon (2007)(Blink, Edwin)(PD)[3K]"
+	description "HDRmon (2007)(Blink, Edwin)(PD)[3K]"
+	rom ( name "HDRmon (2007)(Blink, Edwin)(PD)[3K].tap" size 272 crc d0e2b2fb md5 723ea433627c8aae8f947e571a126af8 )
+)
+
+game (
+	name "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]"
+	description "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K].tap" size 212 crc 89cf2815 md5 d14e54359d2593d6c54b46be08cf7f8c )
+)
+
+game (
+	name "Monitor (1983)(Jupiter Cantab)(GB)[3K]"
+	description "Monitor (1983)(Jupiter Cantab)(GB)[3K]"
+	rom ( name "Monitor (1983)(Jupiter Cantab)(GB)[3K].tap" size 651 crc 1cebd393 md5 0d5723f39135aa26d4ce2761a4e54bb8 )
+)
+
+game (
+	name "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]"
+	description "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K].tap" size 537 crc d3a5e73f md5 f2e97071789397aad9d58f9f9eb97370 )
+)
+
+game (
+	name "Morse Code Tutor (19xx)(-)[19K]"
+	description "Morse Code Tutor (19xx)(-)[19K]"
+	rom ( name "Morse Code Tutor (19xx)(-)[19K].tap" size 1265 crc e39c1d77 md5 5ce683e9822742bcc35c324cc66b3f4c )
+)
+
+game (
+	name "Music (1983)(Popular Computing Weekly)(GB)[3K]"
+	description "Music (1983)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Music (1983)(Popular Computing Weekly)(GB)[3K].tap" size 426 crc 2eabab10 md5 9e6ee57a3cab053c7f4ec556e5e5f2e9 )
+)
+
+game (
+	name "Scrambler (1982-05)(Electronics & Computing)(GB)[3K]"
+	description "Scrambler (1982-05)(Electronics & Computing)(GB)[3K]"
+	rom ( name "Scrambler (1982-05)(Electronics & Computing)(GB)[3K].tap" size 729 crc 7a06c3bc md5 845341945534472db9ae9d45555937e5 )
+)
+
+game (
+	name "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]"
+	description "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K].tap" size 116 crc 1e49ad67 md5 aa8e3cee27247db7ac2a797adb713008 )
+)
+
+game (
+	name "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K].tap" size 2160 crc 76a356e5 md5 cc7ae73a2312845c92f876aa189f0083 )
+)
+
+game (
+	name "Spreadsheet (1984)(Boldfield Computing)(GB)[19K]"
+	description "Spreadsheet (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Spreadsheet (1984)(Boldfield Computing)(GB)[19K].tap" size 9882 crc df789644 md5 b23812158630bd8395b000e73a65c100 )
+)
+
+game (
+	name "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]"
+	description "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K].tap" size 217 crc 26dde89c md5 9e2d1eb92c3de536cc7d45cf9ee95774 )
+)
+
+game (
+	name "WRD (2006)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "WRD (2006)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "WRD (2006)(Lopes, Ricardo Fernandes)(PD)[3K].tap" size 614 crc 11dfa38f md5 129f278d094d77009663e0ad38b62ff0 )
+)
+
+game (
+	name "ZX Printer Driver (1983)(Remsoft)(GB)[tape 11][3K]"
+	description "ZX Printer Driver (1983)(Remsoft)(GB)[tape 11][3K]"
+	rom ( name "ZX Printer Driver (1983)(Remsoft)(GB)[tape 11][3K].tap" size 2882 crc ed237c12 md5 646cf993b0d7e426c4150f7dafb8a3d1 )
+)

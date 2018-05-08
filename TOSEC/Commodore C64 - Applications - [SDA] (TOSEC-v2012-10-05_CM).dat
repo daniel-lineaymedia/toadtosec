@@ -1,0 +1,50 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [SDA]"
+	description "Commodore C64 - Applications - [SDA] (TOSEC-v2012-10-05)"
+	category "Commodore C64 - Applications - [SDA]"
+	version 2012-10-05
+	author "Duncan Twain - DesertWolf - Apache - Hunt4Gold"
+)
+
+game (
+	name "Abuze-Crunch v3.0 (1990)(Fairlight)"
+	description "Abuze-Crunch v3.0 (1990)(Fairlight)"
+	rom ( name "Abuze-Crunch v3.0 (1990)(Fairlight).sda" size 2944 crc 897014fb md5 1655fad9c3ff9644db93835e5ac47875 sha1 4788f1ba47c1e08eee44f4819b64fcc9368edb65 )
+)
+
+game (
+	name "GIFVert (19xx)(Randy Weems)"
+	description "GIFVert (19xx)(Randy Weems)"
+	rom ( name "GIFVert (19xx)(Randy Weems).sda" size 6400 crc daf3098d md5 199aca2cb4b4aa9950a5f4b7d6ee7dec sha1 4b96f53bf2ca82b29b9301ff80f18be270b0669f )
+)
+
+game (
+	name "Globus (1995)(Jens Roethke)"
+	description "Globus (1995)(Jens Roethke)"
+	rom ( name "Globus (1995)(Jens Roethke).sda" size 5120 crc 4af70e5f md5 8717bc625254c487812973a89ccb4266 sha1 18a63864e3595331ffdc4a0d9133c6354c751592 )
+)
+
+game (
+	name "MS DOS Copy (19xx)(-)"
+	description "MS DOS Copy (19xx)(-)"
+	rom ( name "MS DOS Copy (19xx)(-).sda" size 8890 crc 7c78183d md5 1f359281917ee9ea916d49c4479303e4 sha1 7bfeea7340fe036c21a53fa004560683c19dbbf4 )
+)
+
+game (
+	name "Ufo-Pack v1.0 (19xx)(-)"
+	description "Ufo-Pack v1.0 (19xx)(-)"
+	rom ( name "Ufo-Pack v1.0 (19xx)(-).sda" size 19524 crc 7d7a94f9 md5 c768c806b650f4dc3febc7112ede004b sha1 156add08ffdf7f00668bee80c8a65663367952aa )
+)
+
+game (
+	name "Wix Bouncer v4.3 (1993)(Style)"
+	description "Wix Bouncer v4.3 (1993)(Style)"
+	rom ( name "Wix Bouncer v4.3 (1993)(Style).sda" size 19304 crc 98d71901 md5 7205fc95a4edd4c386a351a2c4e7a29e sha1 e53846f8aa05ee15a31480c626835a571cbbe052 )
+)
+
+game (
+	name "Wix Bouncer v5.0 (1996)(Style)"
+	description "Wix Bouncer v5.0 (1996)(Style)"
+	rom ( name "Wix Bouncer v5.0 (1996)(Style).sda" size 18796 crc 3e21c79b md5 590464595a83835e1b0282130f34ebb3 sha1 d878a8f10baf499a3116ca8ba068d3a9b3eb64da )
+)
+

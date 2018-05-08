@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Magazines - [$X]"
+	description "Sinclair ZX Spectrum - Magazines - [$X] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Magazines - [$X]"
+	version 2011-09-24
+	author "jugaor - Dziuber - Cassiel"
+)
+
+game (
+	name "Aspect Digital Newspaper 05 - 2Screen Example Source (1998)(N-Discovery)(ru)[Gens]"
+	description "Aspect Digital Newspaper 05 - 2Screen Example Source (1998)(N-Discovery)(ru)[Gens]"
+	rom ( name "Aspect Digital Newspaper 05 - 2Screen Example Source (1998)(N-Discovery)(ru)[Gens].$x" size 2833 crc 446ed7c3 md5 5aa87f0d8820920fdfa16f1e0c914e01 sha1 b4210130aa57d95307c8440945104bb04df3afcd )
+)
+
+game (
+	name "Aspect Digital Newspaper 05 - CLS Example Source (1998)(N-Discovery)(ru)[Gens]"
+	description "Aspect Digital Newspaper 05 - CLS Example Source (1998)(N-Discovery)(ru)[Gens]"
+	rom ( name "Aspect Digital Newspaper 05 - CLS Example Source (1998)(N-Discovery)(ru)[Gens].$x" size 273 crc eb2c087b md5 81a17a6ca927ca7b636cd90bbaee1a7e sha1 85549769609ecba4ea5ff158fb2a3f545f6950d8 )
+)
+

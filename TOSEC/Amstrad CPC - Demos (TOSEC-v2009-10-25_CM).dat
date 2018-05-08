@@ -1,0 +1,2485 @@
+clrmamepro (
+	name "Amstrad CPC - Demos"
+	description "Amstrad CPC - Demos (TOSEC-v2009-10-25)"
+	category "Amstrad CPC - Demos"
+	version 2009-10-25
+	author "jugaor - wattie"
+)
+
+game (
+	name "10 Years CPC Demo (1995)(TGS)"
+	description "10 Years CPC Demo (1995)(TGS)"
+	rom ( name "10 Years CPC Demo (1995)(TGS).dsk" size 194816 crc b8062373 md5 e8b5b69ae830c04c76c32aef09c96553 )
+)
+
+game (
+	name "1943 Crack Intro (1988)(Exocet)"
+	description "1943 Crack Intro (1988)(Exocet)"
+	rom ( name "1943 Crack Intro (1988)(Exocet).dsk" size 194816 crc e5267e15 md5 d8d12fcf6392ff760fab8f6cb40ccdc8 )
+)
+
+game (
+	name "2nd Demo (1990)(Crystal)"
+	description "2nd Demo (1990)(Crystal)"
+	rom ( name "2nd Demo (1990)(Crystal).dsk" size 194816 crc 40ee4fea md5 a8d3bb1b43ec758826521e3880bf19a6 )
+)
+
+game (
+	name "3 Pouces Mag (19xx)(GPA)"
+	description "3 Pouces Mag (19xx)(GPA)"
+	rom ( name "3 Pouces Mag (19xx)(GPA).dsk" size 194816 crc 79d4fc3c md5 a1f35d14a2c77c131493c931f777dddb )
+)
+
+game (
+	name "39kb Shock (19xx)(RBS)"
+	description "39kb Shock (19xx)(RBS)"
+	rom ( name "39kb Shock (19xx)(RBS).dsk" size 194816 crc 2b5cfca5 md5 a160969f65f9ca0ff47080f75e7d2716 )
+)
+
+game (
+	name "3BPlane (1990)(Thriller)"
+	description "3BPlane (1990)(Thriller)"
+	rom ( name "3BPlane (1990)(Thriller).dsk" size 194816 crc 06529a9f md5 fc4d72f779ccaceee9cf7749e9dfe8a0 )
+)
+
+game (
+	name "3D Cube (1996)(Odiesoft)"
+	description "3D Cube (1996)(Odiesoft)"
+	rom ( name "3D Cube (1996)(Odiesoft).dsk" size 194816 crc 49563233 md5 e385dcc1bb6b31b6db965d401021c737 )
+)
+
+game (
+	name "3D-Scroll (19xx)(Logon System)"
+	description "3D-Scroll (19xx)(Logon System)"
+	rom ( name "3D-Scroll (19xx)(Logon System).dsk" size 194816 crc ccab5b2e md5 a2f63faa4823c0343588e96705b90cef )
+)
+
+game (
+	name "4 Sinus (19xx)(NWC)"
+	description "4 Sinus (19xx)(NWC)"
+	rom ( name "4 Sinus (19xx)(NWC).dsk" size 194816 crc b8b83ad1 md5 db364f1abd4a360a456157c404c27eab )
+)
+
+game (
+	name "5KB Demo 1 (19xx)(5KB)"
+	description "5KB Demo 1 (19xx)(5KB)"
+	rom ( name "5KB Demo 1 (19xx)(5KB).dsk" size 194816 crc 8d04afa8 md5 4654f3366f6940427a2398d14265c603 )
+)
+
+game (
+	name "5KB Demo 2 (19xx)(5KB)"
+	description "5KB Demo 2 (19xx)(5KB)"
+	rom ( name "5KB Demo 2 (19xx)(5KB).dsk" size 194816 crc 3c369f51 md5 8be215ab6fb9000d4c90b044284130a1 )
+)
+
+game (
+	name "6 Minuten Demo (19xx)(-)"
+	description "6 Minuten Demo (19xx)(-)"
+	rom ( name "6 Minuten Demo (19xx)(-).dsk" size 194816 crc 5c695be7 md5 815e561e15d535e77e468131a178dcd6 )
+)
+
+game (
+	name "68000 Killer Intro (1989)(Malibu Crackers)"
+	description "68000 Killer Intro (1989)(Malibu Crackers)"
+	rom ( name "68000 Killer Intro (1989)(Malibu Crackers).dsk" size 194816 crc 751f99e1 md5 231d37e3d4efa38a6013c86b37a28539 )
+)
+
+game (
+	name "68000 Killer Intro 2 (1988)(Malibu Crackers)"
+	description "68000 Killer Intro 2 (1988)(Malibu Crackers)"
+	rom ( name "68000 Killer Intro 2 (1988)(Malibu Crackers).dsk" size 194816 crc 2fac5ebd md5 1f90d59504b582e4b6b1d27bc89ddba1 )
+)
+
+game (
+	name "Gorgeous Demo, A (19xx)(UAC)"
+	description "Gorgeous Demo, A (19xx)(UAC)"
+	rom ( name "Gorgeous Demo, A (19xx)(UAC).dsk" size 194816 crc cc71a91d md5 c670ed293bfa4eb3148fa6571eaa6981 )
+)
+
+game (
+	name "Gorgeous Demo, A (19xx)(UAC)[a]"
+	description "Gorgeous Demo, A (19xx)(UAC)[a]"
+	rom ( name "Gorgeous Demo, A (19xx)(UAC)[a].dsk" size 194816 crc 8d96f336 md5 cba315644d2651ad805f05c62be498d1 )
+)
+
+game (
+	name "Graphic Demo, A (19xx)(42 Crew)"
+	description "Graphic Demo, A (19xx)(42 Crew)"
+	rom ( name "Graphic Demo, A (19xx)(42 Crew).dsk" size 194816 crc 911e391f md5 450b22b9676da8889229b0bc319415e4 )
+)
+
+game (
+	name "Legend Has Ended, A (19xx)(ESC)"
+	description "Legend Has Ended, A (19xx)(ESC)"
+	rom ( name "Legend Has Ended, A (19xx)(ESC).dsk" size 194816 crc 84096c5e md5 4a712c483c64ccd68dad7626642c3cb5 )
+)
+
+game (
+	name "ACS Intro (19xx)(ACS)"
+	description "ACS Intro (19xx)(ACS)"
+	rom ( name "ACS Intro (19xx)(ACS).dsk" size 194816 crc a989f4fc md5 e3cc3fe82c0c2a7ee277a971a375622d )
+)
+
+game (
+	name "AFC Expo Demo (1992)(Paradox)"
+	description "AFC Expo Demo (1992)(Paradox)"
+	rom ( name "AFC Expo Demo (1992)(Paradox).dsk" size 194816 crc 46b442c8 md5 2e8cac030ff212b425334963f9ded7d5 )
+)
+
+game (
+	name "ARFF (1989)(Fefesse)"
+	description "ARFF (1989)(Fefesse)"
+	rom ( name "ARFF (1989)(Fefesse).dsk" size 194816 crc ad0b6a1e md5 3d2b0b60712faa6645b1701fddcb2838 )
+)
+
+game (
+	name "Aaaaaaaa (19xx)(RBS)"
+	description "Aaaaaaaa (19xx)(RBS)"
+	rom ( name "Aaaaaaaa (19xx)(RBS).dsk" size 194816 crc 78924ab3 md5 4d1e2fb34d1634010d6d7c698f0e528b )
+)
+
+game (
+	name "Accolad (1993)(SM)"
+	description "Accolad (1993)(SM)"
+	rom ( name "Accolad (1993)(SM).dsk" size 194816 crc 08f813c3 md5 75a658939424ea1018f798e876cbf5f4 )
+)
+
+game (
+	name "Addams Family Crack Intro (1992)(The Equalizor)"
+	description "Addams Family Crack Intro (1992)(The Equalizor)"
+	rom ( name "Addams Family Crack Intro (1992)(The Equalizor).dsk" size 194816 crc bf518971 md5 b6df8f5ad90bb11bb980004bc538796e )
+)
+
+game (
+	name "Aids (19xx)(KKB)"
+	description "Aids (19xx)(KKB)"
+	rom ( name "Aids (19xx)(KKB).dsk" size 194816 crc 7a5621b1 md5 ca67b660a8b2fb780735000cc9d4ab1f )
+)
+
+game (
+	name "Alf Demo (1989)(42 Crew)"
+	description "Alf Demo (1989)(42 Crew)"
+	rom ( name "Alf Demo (1989)(42 Crew).dsk" size 194816 crc 72f3fc84 md5 0ba66f010b2cbe95a6a3111c7ca6242e )
+)
+
+game (
+	name "Alice Cooper (19xx)(-)"
+	description "Alice Cooper (19xx)(-)"
+	rom ( name "Alice Cooper (19xx)(-).dsk" size 194816 crc 55ed3b79 md5 d72152538f971577c55283fe3ac24faf )
+)
+
+game (
+	name "Alien Demo 3 (19xx)(TTC)"
+	description "Alien Demo 3 (19xx)(TTC)"
+	rom ( name "Alien Demo 3 (19xx)(TTC).dsk" size 194816 crc 4892b96b md5 33433a6f20e8593d163cd518ef127afa )
+)
+
+game (
+	name "Alien Demo II (19xx)(TTC)"
+	description "Alien Demo II (19xx)(TTC)"
+	rom ( name "Alien Demo II (19xx)(TTC).dsk" size 194816 crc 38234684 md5 31cdc5906c39d155aa414c566db9b22c )
+)
+
+game (
+	name "Alien Demo IV (19xx)(TTC)"
+	description "Alien Demo IV (19xx)(TTC)"
+	rom ( name "Alien Demo IV (19xx)(TTC).dsk" size 194816 crc 53236ea5 md5 ffd57c07644c9c092dce45ce3777777f )
+)
+
+game (
+	name "Am I Right (19xx)(Beng)"
+	description "Am I Right (19xx)(Beng)"
+	rom ( name "Am I Right (19xx)(Beng).dsk" size 194816 crc d8d8e45e md5 63f48197b15bab31c11a990a4b86661d )
+)
+
+game (
+	name "Amiga Demo 4 (19xx)(GCS)"
+	description "Amiga Demo 4 (19xx)(GCS)"
+	rom ( name "Amiga Demo 4 (19xx)(GCS).dsk" size 194816 crc 68551806 md5 cae56d4c348c520a05602a2b05b4e205 )
+)
+
+game (
+	name "Amiga Digi Show (19xx)(-)"
+	description "Amiga Digi Show (19xx)(-)"
+	rom ( name "Amiga Digi Show (19xx)(-).dsk" size 194816 crc 3e1e4812 md5 28767dad3ee0c74abbffd57167fb0d84 )
+)
+
+game (
+	name "Amiga Pictures Vol.2 (19xx)(Face Hugger)"
+	description "Amiga Pictures Vol.2 (19xx)(Face Hugger)"
+	rom ( name "Amiga Pictures Vol.2 (19xx)(Face Hugger).dsk" size 194816 crc 3ba6ee59 md5 e8ad7b57eb5af121c7ae0a01cdf1718e )
+)
+
+game (
+	name "Ams Vol.2 (1987)(Betasoft)"
+	description "Ams Vol.2 (1987)(Betasoft)"
+	rom ( name "Ams Vol.2 (1987)(Betasoft).dsk" size 194816 crc 01a8e2d4 md5 5b58acc09ef37e30d5a8f852d295b9d6 )
+)
+
+game (
+	name "Ams'Dem III Turn Disc (19xx)(Syntax Error)"
+	description "Ams'Dem III Turn Disc (19xx)(Syntax Error)"
+	rom ( name "Ams'Dem III Turn Disc (19xx)(Syntax Error).dsk" size 194816 crc 61e443e4 md5 999b0d714643ef87eccd1dca3b958ad4 )
+)
+
+game (
+	name "Amstar & CPC Info Demo (19xx)(Gozeur)"
+	description "Amstar & CPC Info Demo (19xx)(Gozeur)"
+	rom ( name "Amstar & CPC Info Demo (19xx)(Gozeur).dsk" size 194816 crc ddbb7c1c md5 06df8701339a26dce050592ef4624ec0 )
+)
+
+game (
+	name "Amstel Demo (19xx)(Tom & Jerry)"
+	description "Amstel Demo (19xx)(Tom & Jerry)"
+	rom ( name "Amstel Demo (19xx)(Tom & Jerry).dsk" size 194816 crc 906d1ced md5 83bbb17d398db5965e4170706f12e1c7 )
+)
+
+game (
+	name "Animated Escher (19xx)(Bev Mason)"
+	description "Animated Escher (19xx)(Bev Mason)"
+	rom ( name "Animated Escher (19xx)(Bev Mason).dsk" size 194816 crc 4222df35 md5 b653bd7a6653f759149d4140aed70e56 )
+)
+
+game (
+	name "Anti Jorn Mika Demo, The (19xx)(DSC)"
+	description "Anti Jorn Mika Demo, The (19xx)(DSC)"
+	rom ( name "Anti Jorn Mika Demo, The (19xx)(DSC).dsk" size 194816 crc 23c66913 md5 3f29e769829e04a972ee713b07b4553b )
+)
+
+game (
+	name "Anti Nazi Demo (1989)(PDW)"
+	description "Anti Nazi Demo (1989)(PDW)"
+	rom ( name "Anti Nazi Demo (1989)(PDW).dsk" size 194816 crc 7188b75b md5 1de65a9802522fe5e1bec7f1bb944dc3 )
+)
+
+game (
+	name "Anti Pfau Demo (19xx)(Sesamstrassen Crew)"
+	description "Anti Pfau Demo (19xx)(Sesamstrassen Crew)"
+	rom ( name "Anti Pfau Demo (19xx)(Sesamstrassen Crew).dsk" size 194816 crc 52e91c8b md5 248600a3c7153fb79db91682194fc8fe )
+)
+
+game (
+	name "Anti-Sinus (19xx)(GPA)"
+	description "Anti-Sinus (19xx)(GPA)"
+	rom ( name "Anti-Sinus (19xx)(GPA).dsk" size 194816 crc a429600c md5 82f75cb5a874263a4ad83328a7e61ed8 )
+)
+
+game (
+	name "Asterix (1991)(42 Crew)"
+	description "Asterix (1991)(42 Crew)"
+	rom ( name "Asterix (1991)(42 Crew).dsk" size 194816 crc 94018676 md5 4664070a317aad2b6550fc4b7721325c )
+)
+
+game (
+	name "BTA Demo 1 (19xx)(BTA)"
+	description "BTA Demo 1 (19xx)(BTA)"
+	rom ( name "BTA Demo 1 (19xx)(BTA).dsk" size 194816 crc a6765a11 md5 f7ca03cc1f1924b24244c74010bece7e )
+)
+
+game (
+	name "Bad Demo (19xx)(ALC)"
+	description "Bad Demo (19xx)(ALC)"
+	rom ( name "Bad Demo (19xx)(ALC).dsk" size 194816 crc ffe9cb28 md5 42e5f23d48586df43f57dff455d774f6 )
+)
+
+game (
+	name "Barbarian II Crack Intro (1988)(Section Jaguar)"
+	description "Barbarian II Crack Intro (1988)(Section Jaguar)"
+	rom ( name "Barbarian II Crack Intro (1988)(Section Jaguar).dsk" size 194816 crc 7e4e9cbd md5 53a486fc80b3ef8506b5307af76ec616 )
+)
+
+game (
+	name "Batman Caped Crusader Crack Intro (1988)(Exocet)"
+	description "Batman Caped Crusader Crack Intro (1988)(Exocet)"
+	rom ( name "Batman Caped Crusader Crack Intro (1988)(Exocet).dsk" size 194816 crc 171cab15 md5 d28ffbc70bd5afb766a8b85dd0b621f1 )
+)
+
+game (
+	name "Beng (19xx)(CPC-Mike)"
+	description "Beng (19xx)(CPC-Mike)"
+	rom ( name "Beng (19xx)(CPC-Mike).dsk" size 194816 crc 5edcf867 md5 1db9fe6967ab4c21bac35434a7edc321 )
+)
+
+game (
+	name "Better than Life Fanz Demo (19xx)(Equalizor)"
+	description "Better than Life Fanz Demo (19xx)(Equalizor)"
+	rom ( name "Better than Life Fanz Demo (19xx)(Equalizor).dsk" size 194816 crc f023cac1 md5 15422943695239965dd395beb3d91857 )
+)
+
+game (
+	name "Big Rasters (19xx)(42 Crew)"
+	description "Big Rasters (19xx)(42 Crew)"
+	rom ( name "Big Rasters (19xx)(42 Crew).dsk" size 194816 crc 98977bed md5 343047959925a916539452524665aba9 )
+)
+
+game (
+	name "Boys Demo (1989)(CCC)"
+	description "Boys Demo (1989)(CCC)"
+	rom ( name "Boys Demo (1989)(CCC).dsk" size 194816 crc 3dcca748 md5 8dfe14df9d406ab973c619d590652048 )
+)
+
+game (
+	name "Budget Intro 3 (1990)(Syntax Error)"
+	description "Budget Intro 3 (1990)(Syntax Error)"
+	rom ( name "Budget Intro 3 (1990)(Syntax Error).dsk" size 194816 crc 1d9cbe39 md5 6d5a059f8b1ddda50bc61c94b3aa4ccd )
+)
+
+game (
+	name "Buggy Ranger Crack Intro (19xx)(Espectros)"
+	description "Buggy Ranger Crack Intro (19xx)(Espectros)"
+	rom ( name "Buggy Ranger Crack Intro (19xx)(Espectros).dsk" size 194816 crc 93527691 md5 8cbd990cb722264efd58718970c5b5fb )
+)
+
+game (
+	name "Bugs Party 2 (19xx)(RBS)"
+	description "Bugs Party 2 (19xx)(RBS)"
+	rom ( name "Bugs Party 2 (19xx)(RBS).dsk" size 194816 crc d8c7ba6d md5 c72bb1644d137fadeab6c6a6f7547a92 )
+)
+
+game (
+	name "Bye Bye Good Old Ico (1990)(TPS)"
+	description "Bye Bye Good Old Ico (1990)(TPS)"
+	rom ( name "Bye Bye Good Old Ico (1990)(TPS).dsk" size 194816 crc 84f2d60b md5 b01260ae317844d45354b0419c29c139 )
+)
+
+game (
+	name "C64 (19xx)(-)"
+	description "C64 (19xx)(-)"
+	rom ( name "C64 (19xx)(-).dsk" size 194816 crc dd5d29dd md5 ce39a070f9c48daa5cd52e9c3c896fdf )
+)
+
+game (
+	name "CNR Nr.7 (19xx)(CNR)"
+	description "CNR Nr.7 (19xx)(CNR)"
+	rom ( name "CNR Nr.7 (19xx)(CNR).dsk" size 194816 crc 5cb3102e md5 997113736d62fa8994d0d9570af62c6c )
+)
+
+game (
+	name "CPC Power Intro 3 (1990)(CPC Power)"
+	description "CPC Power Intro 3 (1990)(CPC Power)"
+	rom ( name "CPC Power Intro 3 (1990)(CPC Power).dsk" size 194816 crc b1f984c6 md5 33eb54763a00d0d8e11fdc0235d0a651 )
+)
+
+game (
+	name "CSC Demo Nr.1 (19xx)(CSC)"
+	description "CSC Demo Nr.1 (19xx)(CSC)"
+	rom ( name "CSC Demo Nr.1 (19xx)(CSC).dsk" size 194816 crc 363d14ba md5 693c49fbd6b8aa91ba065c7314cc6051 )
+)
+
+game (
+	name "Castle Master (1990)(Vampire)"
+	description "Castle Master (1990)(Vampire)"
+	rom ( name "Castle Master (1990)(Vampire).dsk" size 194816 crc 4857bfdc md5 87ca381a0a6744ef996e8ec130fa74d8 )
+)
+
+game (
+	name "CeBIT 89 Demo (1989)(ESC KKB)"
+	description "CeBIT 89 Demo (1989)(ESC KKB)"
+	rom ( name "CeBIT 89 Demo (1989)(ESC KKB).dsk" size 194816 crc 0fd1e734 md5 97096dd4c69810937893df379240f651 )
+)
+
+game (
+	name "CeBIT 90 Demo (1990)(-)"
+	description "CeBIT 90 Demo (1990)(-)"
+	rom ( name "CeBIT 90 Demo (1990)(-).dsk" size 194816 crc 2023a0bd md5 6be10e680c998393e2e41a4f1010bebc )
+)
+
+game (
+	name "CeBIT 94 Demo (1994)(Mops)"
+	description "CeBIT 94 Demo (1994)(Mops)"
+	rom ( name "CeBIT 94 Demo (1994)(Mops).dsk" size 194816 crc 00bd3132 md5 445942b630627a0bdca1b6c859f96865 )
+)
+
+game (
+	name "CeBIT Party Demo 91 (1991)(The Raaahh Crew)"
+	description "CeBIT Party Demo 91 (1991)(The Raaahh Crew)"
+	rom ( name "CeBIT Party Demo 91 (1991)(The Raaahh Crew).dsk" size 194816 crc f96bd4b7 md5 f457d10f8dcbc1a21b1f279e6e127bdf )
+)
+
+game (
+	name "Chain Demo (1991)(EGS)"
+	description "Chain Demo (1991)(EGS)"
+	rom ( name "Chain Demo (1991)(EGS).dsk" size 194816 crc ba5192b5 md5 d56281e200a7322a12d03fad756f518c )
+)
+
+game (
+	name "Chany Dream 1 (19xx)(NPS)"
+	description "Chany Dream 1 (19xx)(NPS)"
+	rom ( name "Chany Dream 1 (19xx)(NPS).dsk" size 194816 crc 0551f8a0 md5 75e31e1848889681532262d7ab3cb02e )
+)
+
+game (
+	name "Chany Dream 2 (19xx)(NPS)"
+	description "Chany Dream 2 (19xx)(NPS)"
+	rom ( name "Chany Dream 2 (19xx)(NPS).dsk" size 194816 crc f440f0df md5 dff88ebf3a3e0c09d6aef357ae434b80 )
+)
+
+game (
+	name "Chany Dream 3 (19xx)(NPS)"
+	description "Chany Dream 3 (19xx)(NPS)"
+	rom ( name "Chany Dream 3 (19xx)(NPS).dsk" size 194816 crc 57b31d56 md5 210243756f9d53ad1a6d0a6efecf9e07 )
+)
+
+game (
+	name "Chany Dream 5 (19xx)(NPS)"
+	description "Chany Dream 5 (19xx)(NPS)"
+	rom ( name "Chany Dream 5 (19xx)(NPS).dsk" size 194816 crc 4c88d752 md5 789d853a53dc57fd64e3eeb56af82835 )
+)
+
+game (
+	name "Chany Sorry No Demo (19xx)(NPS)"
+	description "Chany Sorry No Demo (19xx)(NPS)"
+	rom ( name "Chany Sorry No Demo (19xx)(NPS).dsk" size 194816 crc 24c66cce md5 6fa617db351f944b0d62eda07aa00053 )
+)
+
+game (
+	name "Chill Out and Relax (19xx)(Atlantic Coding)"
+	description "Chill Out and Relax (19xx)(Atlantic Coding)"
+	rom ( name "Chill Out and Relax (19xx)(Atlantic Coding).dsk" size 194816 crc 0429f986 md5 c4d2eaed7be95e1b8837919c576b4520 )
+)
+
+game (
+	name "Christmas 2 (1993)(Catloc)"
+	description "Christmas 2 (1993)(Catloc)"
+	rom ( name "Christmas 2 (1993)(Catloc).dsk" size 194816 crc 818a95fb md5 e5e7ba1b8938d1bcdf7e9f9567f7d408 )
+)
+
+game (
+	name "Christmas Demo (1990)(JCP)"
+	description "Christmas Demo (1990)(JCP)"
+	rom ( name "Christmas Demo (1990)(JCP).dsk" size 194816 crc fc8b3b42 md5 2d44270844663de76d58cd74e23ef6b1 )
+)
+
+game (
+	name "Christmas Demo (1990)(PDW)"
+	description "Christmas Demo (1990)(PDW)"
+	rom ( name "Christmas Demo (1990)(PDW).dsk" size 194816 crc 38b85096 md5 371c21fd83edad0a3054dbaabf4aed78 )
+)
+
+game (
+	name "Christmas Demo (1991)(Paradox)"
+	description "Christmas Demo (1991)(Paradox)"
+	rom ( name "Christmas Demo (1991)(Paradox).dsk" size 194816 crc d2ddf1b3 md5 45c9e7f2df70e160cb99b2d27356a01e )
+)
+
+game (
+	name "Cisco Heat Crack Intro (19xx)(GPA)"
+	description "Cisco Heat Crack Intro (19xx)(GPA)"
+	rom ( name "Cisco Heat Crack Intro (19xx)(GPA).dsk" size 194816 crc 2f451173 md5 2ffb57d6053f107f0259c02a40006056 )
+)
+
+game (
+	name "Cocktail Shaker (19xx)(-)"
+	description "Cocktail Shaker (19xx)(-)"
+	rom ( name "Cocktail Shaker (19xx)(-).dsk" size 194816 crc 5745aadd md5 15897ad782ffa6263f98ad9bcac6da0c )
+)
+
+game (
+	name "Colors (19xx)(RBS)"
+	description "Colors (19xx)(RBS)"
+	rom ( name "Colors (19xx)(RBS).dsk" size 194816 crc 6c5f3cf5 md5 7295a8e24ca72d016f31f98e24870181 )
+)
+
+game (
+	name "Contact Demo (19xx)(FTS)"
+	description "Contact Demo (19xx)(FTS)"
+	rom ( name "Contact Demo (19xx)(FTS).dsk" size 194816 crc af714008 md5 692ebd36633be3ac610126472c092740 )
+)
+
+game (
+	name "Copy Party (1989)(CBS)"
+	description "Copy Party (1989)(CBS)"
+	rom ( name "Copy Party (1989)(CBS).dsk" size 194816 crc a2f1f4c1 md5 8b5f032ee3175465650bec59fedc63cb )
+)
+
+game (
+	name "Copy Party (1989)(TCW)"
+	description "Copy Party (1989)(TCW)"
+	rom ( name "Copy Party (1989)(TCW).dsk" size 194816 crc 5ee9e356 md5 2dd7a25c425ea270625b5c87e79900c6 )
+)
+
+game (
+	name "Crack Demo 2 (19xx)(Byte)"
+	description "Crack Demo 2 (19xx)(Byte)"
+	rom ( name "Crack Demo 2 (19xx)(Byte).dsk" size 194816 crc 8cade1fd md5 30895b9e44e0b84e981934546c49a81f )
+)
+
+game (
+	name "Crack Demo 3 (19xx)(Byte)"
+	description "Crack Demo 3 (19xx)(Byte)"
+	rom ( name "Crack Demo 3 (19xx)(Byte).dsk" size 194816 crc 3206c3e9 md5 d2773815ec8764bb52055e1e3c9ba595 )
+)
+
+game (
+	name "Crack Intro 1 (1990)(CACH)"
+	description "Crack Intro 1 (1990)(CACH)"
+	rom ( name "Crack Intro 1 (1990)(CACH).dsk" size 194816 crc c82e2f2f md5 9204636e97a1fb4741c91a1f2de73346 )
+)
+
+game (
+	name "Crack Intro 2 (19xx)(CACH)"
+	description "Crack Intro 2 (19xx)(CACH)"
+	rom ( name "Crack Intro 2 (19xx)(CACH).dsk" size 194816 crc e8a548d0 md5 541bfdcefc6dbe964fb8c3560239f9c6 )
+)
+
+game (
+	name "Crack Intro 3 (19xx)(CACH)"
+	description "Crack Intro 3 (19xx)(CACH)"
+	rom ( name "Crack Intro 3 (19xx)(CACH).dsk" size 194816 crc e3eaf038 md5 a4823b54bc563d66e04b798eb707addd )
+)
+
+game (
+	name "Crack Intro 4 (19xx)(CACH)"
+	description "Crack Intro 4 (19xx)(CACH)"
+	rom ( name "Crack Intro 4 (19xx)(CACH).dsk" size 194816 crc 5e6681f0 md5 3e2ddbda077ec36795787002e0a4274b )
+)
+
+game (
+	name "Crack Intro 5 (1990)(CACH)"
+	description "Crack Intro 5 (1990)(CACH)"
+	rom ( name "Crack Intro 5 (1990)(CACH).dsk" size 194816 crc f51ae99e md5 3df42a99dbe2ed1021bec1f95a099721 )
+)
+
+game (
+	name "Crack Intro 6 (19xx)(CACH)"
+	description "Crack Intro 6 (19xx)(CACH)"
+	rom ( name "Crack Intro 6 (19xx)(CACH).dsk" size 194816 crc d4603cab md5 403c8c70317fde63674b16d05068804a )
+)
+
+game (
+	name "Crack Intro 7 (19xx)(CACH)"
+	description "Crack Intro 7 (19xx)(CACH)"
+	rom ( name "Crack Intro 7 (19xx)(CACH).dsk" size 194816 crc df783360 md5 b15d355db599cfb1ab46f0577334a901 )
+)
+
+game (
+	name "Crack Intro Compilation 1 (1990)(-)"
+	description "Crack Intro Compilation 1 (1990)(-)"
+	rom ( name "Crack Intro Compilation 1 (1990)(-).dsk" size 194816 crc 57ec6f61 md5 0150076169cef7e5ab140026ed12d0a3 )
+)
+
+game (
+	name "Crack Intro Compilation 2 (19xx)(-)"
+	description "Crack Intro Compilation 2 (19xx)(-)"
+	rom ( name "Crack Intro Compilation 2 (19xx)(-).dsk" size 194816 crc 7bc8f899 md5 658898b7396f6afc5f999d226adbf0a8 )
+)
+
+game (
+	name "Crack Intro Compilation 3 (19xx)(-)"
+	description "Crack Intro Compilation 3 (19xx)(-)"
+	rom ( name "Crack Intro Compilation 3 (19xx)(-).dsk" size 194816 crc 34720906 md5 47e426bb40766c777d80324082fd6e8d )
+)
+
+game (
+	name "Cracking Demo (19xx)(The Dark Sector)"
+	description "Cracking Demo (19xx)(The Dark Sector)"
+	rom ( name "Cracking Demo (19xx)(The Dark Sector).dsk" size 194816 crc a9b2820f md5 bffe664f90a0e6671c17e972221be709 )
+)
+
+game (
+	name "Crazy Demo 12 (19xx)(42 Crew)"
+	description "Crazy Demo 12 (19xx)(42 Crew)"
+	rom ( name "Crazy Demo 12 (19xx)(42 Crew).dsk" size 194816 crc 0a6b183b md5 7f2e20c8a69f2ec951685708b1f81fdd )
+)
+
+game (
+	name "Crazy Demo 13 (19xx)(42 Crew)"
+	description "Crazy Demo 13 (19xx)(42 Crew)"
+	rom ( name "Crazy Demo 13 (19xx)(42 Crew).dsk" size 194816 crc 15449da3 md5 54ce47b519268c17ea8d1f07e03c4cdf )
+)
+
+game (
+	name "Crazy Demo 8 (19xx)(42 Crew)"
+	description "Crazy Demo 8 (19xx)(42 Crew)"
+	rom ( name "Crazy Demo 8 (19xx)(42 Crew).dsk" size 194816 crc 2f05750b md5 bd407bff023adef9dab8d391b83c295b )
+)
+
+game (
+	name "Crazy Demo 9 (19xx)(42 Crew)"
+	description "Crazy Demo 9 (19xx)(42 Crew)"
+	rom ( name "Crazy Demo 9 (19xx)(42 Crew).dsk" size 194816 crc db9d7d79 md5 6fed99945bb79c9c4c6f78e6069d5e1e )
+)
+
+game (
+	name "Crazy Scrolls (19xx)(Paradox)"
+	description "Crazy Scrolls (19xx)(Paradox)"
+	rom ( name "Crazy Scrolls (19xx)(Paradox).dsk" size 194816 crc 017b0083 md5 79e1ccad7647e556c8e41917658911b5 )
+)
+
+game (
+	name "Creation Meeting CPC Intro Demo (1991)(Paradox)"
+	description "Creation Meeting CPC Intro Demo (1991)(Paradox)"
+	rom ( name "Creation Meeting CPC Intro Demo (1991)(Paradox).dsk" size 194816 crc c72eac47 md5 1cd704ade3fee68dd6e0c0ce9be7f5ab )
+)
+
+game (
+	name "Croco Meeting Demo 3 (1991)(Logon System)"
+	description "Croco Meeting Demo 3 (1991)(Logon System)"
+	rom ( name "Croco Meeting Demo 3 (1991)(Logon System).dsk" size 194816 crc 825f9d2d md5 e4cf0db5cfc6848c085558886ea8309a )
+)
+
+game (
+	name "Croco Meeting Demo 4 (1992)(Logon System)"
+	description "Croco Meeting Demo 4 (1992)(Logon System)"
+	rom ( name "Croco Meeting Demo 4 (1992)(Logon System).dsk" size 194816 crc 39fcf85e md5 67185e7aeeaea575aad00c8fa824bba2 )
+)
+
+game (
+	name "Croco Meeting Demo 4 (1992)(Logon System)[a]"
+	description "Croco Meeting Demo 4 (1992)(Logon System)[a]"
+	rom ( name "Croco Meeting Demo 4 (1992)(Logon System)[a].dsk" size 194816 crc 249f3eb7 md5 7f6744f5bc8f9a224e75b4d1ed91cc5d )
+)
+
+game (
+	name "Crossfire the Desert Arabian Night Fever (19xx)(Beng)"
+	description "Crossfire the Desert Arabian Night Fever (19xx)(Beng)"
+	rom ( name "Crossfire the Desert Arabian Night Fever (19xx)(Beng).dsk" size 194816 crc 4a88786d md5 da6e823139c9e54871bf6552a742438c )
+)
+
+game (
+	name "Crow, The (19xx)(Razor)"
+	description "Crow, The (19xx)(Razor)"
+	rom ( name "Crow, The (19xx)(Razor).dsk" size 194816 crc ce80c1ac md5 bd1afe675385eca16631c60e82b226c3 )
+)
+
+game (
+	name "Deadcats Demo (19xx)(Deadcats Crackers)"
+	description "Deadcats Demo (19xx)(Deadcats Crackers)"
+	rom ( name "Deadcats Demo (19xx)(Deadcats Crackers).dsk" size 194816 crc 7e2a3e79 md5 24029508ed40ef7d2d25dbc0d5476120 )
+)
+
+game (
+	name "Death Head Intro (1989)(The Blood Brother's)"
+	description "Death Head Intro (1989)(The Blood Brother's)"
+	rom ( name "Death Head Intro (1989)(The Blood Brother's).dsk" size 194816 crc 3125473a md5 e6b6820f0c8c11b69bd185c8d7601a72 )
+)
+
+game (
+	name "Deep Space (1995)(GPA)"
+	description "Deep Space (1995)(GPA)"
+	rom ( name "Deep Space (1995)(GPA).dsk" size 194816 crc ec803d30 md5 f5f68b5667d57badb010b1d09a17e897 )
+)
+
+game (
+	name "Demo (19xx)(Dr. TKC)"
+	description "Demo (19xx)(Dr. TKC)"
+	rom ( name "Demo (19xx)(Dr. TKC).dsk" size 194816 crc a4d465f4 md5 7c0ad6b7935f839c2995e75cab04023f )
+)
+
+game (
+	name "Demo (19xx)(Dr. TKC)[a]"
+	description "Demo (19xx)(Dr. TKC)[a]"
+	rom ( name "Demo (19xx)(Dr. TKC)[a].dsk" size 194816 crc 2f49528e md5 211bdb79167063d0a1fe1a739e33e0a4 )
+)
+
+game (
+	name "Demo (19xx)(The Little Bear)"
+	description "Demo (19xx)(The Little Bear)"
+	rom ( name "Demo (19xx)(The Little Bear).dsk" size 194816 crc 8aedb6cb md5 cf16dc836fcef9dca4b9f03c61e6dc66 )
+)
+
+game (
+	name "Demo 1 (1986)(Darmon, David)"
+	description "Demo 1 (1986)(Darmon, David)"
+	rom ( name "Demo 1 (1986)(Darmon, David).dsk" size 194816 crc e80115f7 md5 921ebaff39072a755eac0a45c9a85cea )
+)
+
+game (
+	name "Demo 1 (1989)(GPA)"
+	description "Demo 1 (1989)(GPA)"
+	rom ( name "Demo 1 (1989)(GPA).dsk" size 194816 crc 501cc083 md5 f6dfe9ef3caa7a18b9ef1330ccd4305b )
+)
+
+game (
+	name "Demo 1 (1990)(IBC)"
+	description "Demo 1 (1990)(IBC)"
+	rom ( name "Demo 1 (1990)(IBC).dsk" size 194816 crc 0ca9a2dc md5 d316cb33d49df6d67eb1c5277f438db9 )
+)
+
+game (
+	name "Demo 1 (19xx)(50001)"
+	description "Demo 1 (19xx)(50001)"
+	rom ( name "Demo 1 (19xx)(50001).dsk" size 194816 crc c609055b md5 04ae51f714342203972071771fe9aa70 )
+)
+
+game (
+	name "Demo 1 (19xx)(FCC)"
+	description "Demo 1 (19xx)(FCC)"
+	rom ( name "Demo 1 (19xx)(FCC).dsk" size 194816 crc da74a100 md5 9097a246e794dc54a50b0eca52b5ed53 )
+)
+
+game (
+	name "Demo 1 (19xx)(Fefesse)"
+	description "Demo 1 (19xx)(Fefesse)"
+	rom ( name "Demo 1 (19xx)(Fefesse).dsk" size 194816 crc 6aa21ab9 md5 8e19a1aaf564e79fd5f0c2ce59b0ce5f )
+)
+
+game (
+	name "Demo 1 (19xx)(Helloween)"
+	description "Demo 1 (19xx)(Helloween)"
+	rom ( name "Demo 1 (19xx)(Helloween).dsk" size 194816 crc fe8afff6 md5 982fa7bfb4b9e4cf1e1204082794670f )
+)
+
+game (
+	name "Demo 1 (19xx)(IFE)"
+	description "Demo 1 (19xx)(IFE)"
+	rom ( name "Demo 1 (19xx)(IFE).dsk" size 194816 crc 07e41be4 md5 c8379b61e2662f80165d24ae0275d9c1 )
+)
+
+game (
+	name "Demo 1 (19xx)(TMS)"
+	description "Demo 1 (19xx)(TMS)"
+	rom ( name "Demo 1 (19xx)(TMS).dsk" size 194816 crc ca02b3c9 md5 19d4a0e7c4e16db89dcb625f44e5a4d5 )
+)
+
+game (
+	name "Demo 1 (19xx)(The Guild of Crackers)"
+	description "Demo 1 (19xx)(The Guild of Crackers)"
+	rom ( name "Demo 1 (19xx)(The Guild of Crackers).dsk" size 194816 crc 5ab9357f md5 06645f67bd365ca08113c68ff50f884a )
+)
+
+game (
+	name "Demo 1 (19xx)(Thriller)"
+	description "Demo 1 (19xx)(Thriller)"
+	rom ( name "Demo 1 (19xx)(Thriller).dsk" size 194816 crc 4b39d327 md5 ae8fdfaf298162e64959eef6a056d21e )
+)
+
+game (
+	name "Demo 1 (19xx)(Tom & Jerry)"
+	description "Demo 1 (19xx)(Tom & Jerry)"
+	rom ( name "Demo 1 (19xx)(Tom & Jerry).dsk" size 194816 crc 1789a174 md5 544624bcadc0b84c7525628f5a389d46 )
+)
+
+game (
+	name "Demo 2 (1989)(Gecco)"
+	description "Demo 2 (1989)(Gecco)"
+	rom ( name "Demo 2 (1989)(Gecco).dsk" size 194816 crc 10d6a5c6 md5 9f27d5b2dbdfce4aa57fe32df7772261 )
+)
+
+game (
+	name "Demo 2 (1989)(Weee)"
+	description "Demo 2 (1989)(Weee)"
+	rom ( name "Demo 2 (1989)(Weee).dsk" size 194816 crc be1be5d2 md5 8a18283d0ad9bb501f26e39351daa13d )
+)
+
+game (
+	name "Demo 2 (1990)(IBC)"
+	description "Demo 2 (1990)(IBC)"
+	rom ( name "Demo 2 (1990)(IBC).dsk" size 194816 crc c09d4023 md5 09f0a540328c1adff4968106cd132e0c )
+)
+
+game (
+	name "Demo 2 (19xx)(CMP)"
+	description "Demo 2 (19xx)(CMP)"
+	rom ( name "Demo 2 (19xx)(CMP).dsk" size 194816 crc 9f9ddca8 md5 52193e1b917e00d4b1c9ffe876284bda )
+)
+
+game (
+	name "Demo 2 (19xx)(DSC)"
+	description "Demo 2 (19xx)(DSC)"
+	rom ( name "Demo 2 (19xx)(DSC).dsk" size 194816 crc 4ba84337 md5 d218faa9bd05b0340e1963296588dbad )
+)
+
+game (
+	name "Demo 2 (19xx)(Dr. TKC)"
+	description "Demo 2 (19xx)(Dr. TKC)"
+	rom ( name "Demo 2 (19xx)(Dr. TKC).dsk" size 194816 crc 3563a1b0 md5 d88a35d186b33c345cb6523e834512da )
+)
+
+game (
+	name "Demo 2 (19xx)(TMS)"
+	description "Demo 2 (19xx)(TMS)"
+	rom ( name "Demo 2 (19xx)(TMS).dsk" size 194816 crc 2c92e92d md5 2e0190a5aaaccf4ab30092a45bd4ce90 )
+)
+
+game (
+	name "Demo 3 (1988)(Katto Cracking)"
+	description "Demo 3 (1988)(Katto Cracking)"
+	rom ( name "Demo 3 (1988)(Katto Cracking).dsk" size 194816 crc a654f515 md5 d4e07b59177f67ffdd4529306e65ccb3 )
+)
+
+game (
+	name "Demo 3 (19xx)(DSC)"
+	description "Demo 3 (19xx)(DSC)"
+	rom ( name "Demo 3 (19xx)(DSC).dsk" size 194816 crc 6a674718 md5 66f40866f7998768793951623a889594 )
+)
+
+game (
+	name "Demo 3 (19xx)(Thriller)"
+	description "Demo 3 (19xx)(Thriller)"
+	rom ( name "Demo 3 (19xx)(Thriller).dsk" size 194816 crc e59c2f0e md5 31b94dffd9f070a1c8c367471079d5cf )
+)
+
+game (
+	name "Demo 4 (1988)(Katto Cracking)"
+	description "Demo 4 (1988)(Katto Cracking)"
+	rom ( name "Demo 4 (1988)(Katto Cracking).dsk" size 194816 crc ba1c2ec3 md5 4a18b7d703088f79e087a0b17854a411 )
+)
+
+game (
+	name "Demo 4 (19xx)(DSC)"
+	description "Demo 4 (19xx)(DSC)"
+	rom ( name "Demo 4 (19xx)(DSC).dsk" size 194816 crc 0b5902f4 md5 d1fe98ac10248c35b1090ee38473202d )
+)
+
+game (
+	name "Demo 5 (19xx)(Gozeur)"
+	description "Demo 5 (19xx)(Gozeur)"
+	rom ( name "Demo 5 (19xx)(Gozeur).dsk" size 194816 crc 3aeff01a md5 72f0cf6efe92b940006dd26aae1c669c )
+)
+
+game (
+	name "Demo 6 (1989)(Tom & Jerry)"
+	description "Demo 6 (1989)(Tom & Jerry)"
+	rom ( name "Demo 6 (1989)(Tom & Jerry).dsk" size 194816 crc b83bf0be md5 67fe0711959114a5ecfdcd2c5ae5dc76 )
+)
+
+game (
+	name "Demo 6 (1991)(DSC)"
+	description "Demo 6 (1991)(DSC)"
+	rom ( name "Demo 6 (1991)(DSC).dsk" size 194816 crc bf9a460a md5 ae7538ca67531714b55544b504f8294e )
+)
+
+game (
+	name "Demo 7 (1988)(50001)"
+	description "Demo 7 (1988)(50001)"
+	rom ( name "Demo 7 (1988)(50001).dsk" size 194816 crc f9c60460 md5 37bda8430601d3357540413c5b403a15 )
+)
+
+game (
+	name "Demo 7 (19xx)(Tom & Jerry)"
+	description "Demo 7 (19xx)(Tom & Jerry)"
+	rom ( name "Demo 7 (19xx)(Tom & Jerry).dsk" size 194816 crc cbd3e326 md5 2c8eb03641a41fa66a7377ec0c92dbbb )
+)
+
+game (
+	name "Demo 8 (19xx)(50001)"
+	description "Demo 8 (19xx)(50001)"
+	rom ( name "Demo 8 (19xx)(50001).dsk" size 194816 crc 21d7a077 md5 2c68313729bb565fa6372267c8af3ec8 )
+)
+
+game (
+	name "Demo 8 (19xx)(Tom & Jerry)"
+	description "Demo 8 (19xx)(Tom & Jerry)"
+	rom ( name "Demo 8 (19xx)(Tom & Jerry).dsk" size 194816 crc d691b97a md5 d457735fc0de2b979078bc7c58c81acc )
+)
+
+game (
+	name "Demo Compilation 2 (19xx)(-)"
+	description "Demo Compilation 2 (19xx)(-)"
+	rom ( name "Demo Compilation 2 (19xx)(-).dsk" size 194816 crc 1040d4aa md5 5ef6e6b288510e35c7390c186da90494 )
+)
+
+game (
+	name "Demo Compilation 3 (19xx)(-)"
+	description "Demo Compilation 3 (19xx)(-)"
+	rom ( name "Demo Compilation 3 (19xx)(-).dsk" size 194816 crc 594c97d6 md5 d28cef0bfb38ad980527b3dfbb1b5c86 )
+)
+
+game (
+	name "Demo Compilation 4 (19xx)(-)"
+	description "Demo Compilation 4 (19xx)(-)"
+	rom ( name "Demo Compilation 4 (19xx)(-).dsk" size 194816 crc b62f981f md5 4571b10b9c95032fac0874dd44e15a39 )
+)
+
+game (
+	name "Demo IV (19xx)(Thriller)"
+	description "Demo IV (19xx)(Thriller)"
+	rom ( name "Demo IV (19xx)(Thriller).dsk" size 194816 crc 7b6c5d2a md5 80e25630acde5643cc4e8bbbf83edf24 )
+)
+
+game (
+	name "Demo IV (19xx)(Thriller)[a]"
+	description "Demo IV (19xx)(Thriller)[a]"
+	rom ( name "Demo IV (19xx)(Thriller)[a].dsk" size 194816 crc d17b8031 md5 9746c74253356c68ef2316c4450cd8a6 )
+)
+
+game (
+	name "Demo Nr.1 (19xx)(DCS)"
+	description "Demo Nr.1 (19xx)(DCS)"
+	rom ( name "Demo Nr.1 (19xx)(DCS).dsk" size 194816 crc b105699c md5 ac7a303524123b02dc0c3d5e33557569 )
+)
+
+game (
+	name "Demo Nr.2 (19xx)(DCS)"
+	description "Demo Nr.2 (19xx)(DCS)"
+	rom ( name "Demo Nr.2 (19xx)(DCS).dsk" size 194816 crc ca35ae57 md5 37c994857592d788f0ab93a1ddc63a07 )
+)
+
+game (
+	name "Demo Nr.5, The (1990)(Charleytronic)"
+	description "Demo Nr.5, The (1990)(Charleytronic)"
+	rom ( name "Demo Nr.5, The (1990)(Charleytronic).dsk" size 194816 crc a48b79b0 md5 7bf1dad782cd9f7e71db813911741fea )
+)
+
+game (
+	name "Demo Service (1990)(Crackers International)"
+	description "Demo Service (1990)(Crackers International)"
+	rom ( name "Demo Service (1990)(Crackers International).dsk" size 194816 crc a267b9f9 md5 5aa20b212e30eb3219f31eb468ba753a )
+)
+
+game (
+	name "Demo VII (1992)(Micro Escape)"
+	description "Demo VII (1992)(Micro Escape)"
+	rom ( name "Demo VII (1992)(Micro Escape).dsk" size 194816 crc 14d5806f md5 aa9bfd6d41af131fc53eb76f4b82e49d )
+)
+
+game (
+	name "Demonstration des Swapers Infernaux 6, La (1989)(Les Corons Gangs)(fr)"
+	description "Demonstration des Swapers Infernaux 6, La (1989)(Les Corons Gangs)(fr)"
+	rom ( name "Demonstration des Swapers Infernaux 6, La (1989)(Les Corons Gangs)(fr).dsk" size 194816 crc 308d3d4e md5 688f6f7d77b7c35994b562ba6f0001c1 )
+)
+
+game (
+	name "Depeche Mode Mix Vol.1, The (1988)(Erik Heneka)"
+	description "Depeche Mode Mix Vol.1, The (1988)(Erik Heneka)"
+	rom ( name "Depeche Mode Mix Vol.1, The (1988)(Erik Heneka).dsk" size 194816 crc d9365a5e md5 7e7d1c85c1902f709dcb672f0f14df00 )
+)
+
+game (
+	name "Depeche Mode Mix Vol.2, The (19xx)(Erik Heneka)"
+	description "Depeche Mode Mix Vol.2, The (19xx)(Erik Heneka)"
+	rom ( name "Depeche Mode Mix Vol.2, The (19xx)(Erik Heneka).dsk" size 194816 crc 58d69b6f md5 60878414413a7fcb7dcc4bd4c0611653 )
+)
+
+game (
+	name "Diashow (1985)(Uwe Furchheim)"
+	description "Diashow (1985)(Uwe Furchheim)"
+	rom ( name "Diashow (1985)(Uwe Furchheim).dsk" size 194816 crc a686df4c md5 74d59e465fe13cd87b8e003dd6f2e5e5 )
+)
+
+game (
+	name "Digidemo I (1989)(Killer)"
+	description "Digidemo I (1989)(Killer)"
+	rom ( name "Digidemo I (1989)(Killer).dsk" size 194816 crc 0cfccfe9 md5 9cea66e904dff98fd95e52f1f1df7df3 )
+)
+
+game (
+	name "Digidemo II (1989)(Killer)"
+	description "Digidemo II (1989)(Killer)"
+	rom ( name "Digidemo II (1989)(Killer).dsk" size 194816 crc 244c8b20 md5 9e1fa7e37889ee030b3215cd6594c8ea )
+)
+
+game (
+	name "Digidemo III (1989)(Killer)"
+	description "Digidemo III (1989)(Killer)"
+	rom ( name "Digidemo III (1989)(Killer).dsk" size 194816 crc 4a8aadbd md5 e07c9bf1bde2e6930426f5214d886007 )
+)
+
+game (
+	name "Digidrums (19xx)(Weee)"
+	description "Digidrums (19xx)(Weee)"
+	rom ( name "Digidrums (19xx)(Weee).dsk" size 194816 crc cd826b8e md5 36292ec9ce9e00c50f87b50d2c33c1d2 )
+)
+
+game (
+	name "Digital Demo 1 (1990)(TCD)"
+	description "Digital Demo 1 (1990)(TCD)"
+	rom ( name "Digital Demo 1 (1990)(TCD).dsk" size 194816 crc cbc048ef md5 238614589c0f4c2118192a751db46108 )
+)
+
+game (
+	name "Digital Demo 1 (1990)(TCD)[a]"
+	description "Digital Demo 1 (1990)(TCD)[a]"
+	rom ( name "Digital Demo 1 (1990)(TCD)[a].dsk" size 194816 crc 911c8d6f md5 a2373a68412d8c7ee56800d837c48d1c )
+)
+
+game (
+	name "Digital Orgasm (19xx)(Symbiosis)"
+	description "Digital Orgasm (19xx)(Symbiosis)"
+	rom ( name "Digital Orgasm (19xx)(Symbiosis).dsk" size 194816 crc 63456983 md5 83ecbf448760d7c39803bcb110405cc1 )
+)
+
+game (
+	name "Digitrakker Demo 1 (19xx)(MMPF)"
+	description "Digitrakker Demo 1 (19xx)(MMPF)"
+	rom ( name "Digitrakker Demo 1 (19xx)(MMPF).dsk" size 194816 crc 4bed2999 md5 2171071dea596414129a1f583886db12 )
+)
+
+game (
+	name "Digitrakker Demo 2 (19xx)(MMPF)"
+	description "Digitrakker Demo 2 (19xx)(MMPF)"
+	rom ( name "Digitrakker Demo 2 (19xx)(MMPF).dsk" size 194816 crc bb805cef md5 537e796ba33140ae33241131ca7b67e2 )
+)
+
+game (
+	name "Digitrakker Demo 3 (19xx)(MMPF)"
+	description "Digitrakker Demo 3 (19xx)(MMPF)"
+	rom ( name "Digitrakker Demo 3 (19xx)(MMPF).dsk" size 194816 crc e0e988bf md5 66d01808b0b72ed67216b955ef5a6ead )
+)
+
+game (
+	name "Disc Crack Intro (19xx)(GPA)"
+	description "Disc Crack Intro (19xx)(GPA)"
+	rom ( name "Disc Crack Intro (19xx)(GPA).dsk" size 194816 crc 3447bf9e md5 4137c730f7cc22c8ce9f8af299acd71e )
+)
+
+game (
+	name "Disc Full 6 Intro (19xx)(LBC)"
+	description "Disc Full 6 Intro (19xx)(LBC)"
+	rom ( name "Disc Full 6 Intro (19xx)(LBC).dsk" size 194816 crc 15034e27 md5 2f5d5b6ece3035b760013aebf8719a32 )
+)
+
+game (
+	name "Do Not Hack (1987)(KHR)"
+	description "Do Not Hack (1987)(KHR)"
+	rom ( name "Do Not Hack (1987)(KHR).dsk" size 194816 crc 88ee8857 md5 812e28b4d20dc696197ba72eb517162e )
+)
+
+game (
+	name "Double Dragon Crack Intro (19xx)(CACH)"
+	description "Double Dragon Crack Intro (19xx)(CACH)"
+	rom ( name "Double Dragon Crack Intro (19xx)(CACH).dsk" size 194816 crc e388a53d md5 f024d5221d3be13eabfac69f46e35ba2 )
+)
+
+game (
+	name "Dragon Ball Zeta II (19xx)(NPS)"
+	description "Dragon Ball Zeta II (19xx)(NPS)"
+	rom ( name "Dragon Ball Zeta II (19xx)(NPS).dsk" size 194816 crc f4b868bd md5 092a292322386c49d366beeac5c46db8 )
+)
+
+game (
+	name "Drapeau Noir Meeting Demo (19xx)(GPA)"
+	description "Drapeau Noir Meeting Demo (19xx)(GPA)"
+	rom ( name "Drapeau Noir Meeting Demo (19xx)(GPA).dsk" size 194816 crc 16c91e21 md5 8678326c2ae9d2522bc1d43528326a42 )
+)
+
+game (
+	name "Drapeau Noir Meeting Demo (19xx)(Syntax Error)"
+	description "Drapeau Noir Meeting Demo (19xx)(Syntax Error)"
+	rom ( name "Drapeau Noir Meeting Demo (19xx)(Syntax Error).dsk" size 194816 crc 378d7526 md5 ba3d5ab630b643badcc69375c8270741 )
+)
+
+game (
+	name "Dream 2 (19xx)(NPS)"
+	description "Dream 2 (19xx)(NPS)"
+	rom ( name "Dream 2 (19xx)(NPS).dsk" size 194816 crc 90fd5174 md5 3bdea69b89619af279956294f6ae38c5 )
+)
+
+game (
+	name "Dream 4 (19xx)(NPS)"
+	description "Dream 4 (19xx)(NPS)"
+	rom ( name "Dream 4 (19xx)(NPS).dsk" size 194816 crc 6b8d8e30 md5 a13a33eba063dc6916faaaa3be5c7402 )
+)
+
+game (
+	name "ESC Party 90 Demo (1990)(ESC)"
+	description "ESC Party 90 Demo (1990)(ESC)"
+	rom ( name "ESC Party 90 Demo (1990)(ESC).dsk" size 194816 crc fcada0fe md5 177c879c5ae29caab0fbdab0134c69e0 )
+)
+
+game (
+	name "Enolagay (19xx)(-)"
+	description "Enolagay (19xx)(-)"
+	rom ( name "Enolagay (19xx)(-).dsk" size 194816 crc 7b60b990 md5 bd76524560b7daf0d71ca5e0e4613c75 )
+)
+
+game (
+	name "Eurostrad Fanzine Demo (19xx)(Eurostrad)"
+	description "Eurostrad Fanzine Demo (19xx)(Eurostrad)"
+	rom ( name "Eurostrad Fanzine Demo (19xx)(Eurostrad).dsk" size 194816 crc 674e95fb md5 5ed55bb6511d0f54e97bceba5bd05814 )
+)
+
+game (
+	name "Fantasy Demo 1 (1992)(Magic Software)"
+	description "Fantasy Demo 1 (1992)(Magic Software)"
+	rom ( name "Fantasy Demo 1 (1992)(Magic Software).dsk" size 194816 crc 7ff420fc md5 7e3d631bcd2f3baa7884f03168c3b229 )
+)
+
+game (
+	name "Fat Ass (1995)(Donut System)"
+	description "Fat Ass (1995)(Donut System)"
+	rom ( name "Fat Ass (1995)(Donut System).dsk" size 194816 crc cf4b040b md5 4f11281a498f485f24f80bd001cdda5e )
+)
+
+game (
+	name "First Demo (1988)(Headhunter)"
+	description "First Demo (1988)(Headhunter)"
+	rom ( name "First Demo (1988)(Headhunter).dsk" size 194816 crc ca0931fe md5 0fffa913211ec5c83fe540a113ac4beb )
+)
+
+game (
+	name "First Demo (1989)(The Goblin Destroyer)"
+	description "First Demo (1989)(The Goblin Destroyer)"
+	rom ( name "First Demo (1989)(The Goblin Destroyer).dsk" size 194816 crc 6f0435cf md5 b4804cd4703d98aca4c2cb727fcf1916 )
+)
+
+game (
+	name "First Demo (1993)(Hage)"
+	description "First Demo (1993)(Hage)"
+	rom ( name "First Demo (1993)(Hage).dsk" size 194816 crc 980865eb md5 5cc045e5b888b9776249af4959e841e0 )
+)
+
+game (
+	name "First Demo (19xx)(BVB)"
+	description "First Demo (19xx)(BVB)"
+	rom ( name "First Demo (19xx)(BVB).dsk" size 194816 crc 221686fa md5 28bdcca8f21c8ca805a52a9d559d3d96 )
+)
+
+game (
+	name "First Demo (19xx)(Critter Soap)"
+	description "First Demo (19xx)(Critter Soap)"
+	rom ( name "First Demo (19xx)(Critter Soap).dsk" size 194816 crc a2cbba34 md5 b44f653bbeeb001f017e0cdd7e3b6ac0 )
+)
+
+game (
+	name "First Demo (19xx)(Critter Soap)[alt. music]"
+	description "First Demo (19xx)(Critter Soap)[alt. music]"
+	rom ( name "First Demo (19xx)(Critter Soap)[alt. music].dsk" size 194816 crc c0645295 md5 001fbf0957b8a588359ac61e6a64ddf4 )
+)
+
+game (
+	name "First Demo (19xx)(Michael Stevenson)"
+	description "First Demo (19xx)(Michael Stevenson)"
+	rom ( name "First Demo (19xx)(Michael Stevenson).dsk" size 194816 crc ed950690 md5 8ac4de6b407615fbdf64a4a316d55f36 )
+)
+
+game (
+	name "First Demo (19xx)(The Co-On)"
+	description "First Demo (19xx)(The Co-On)"
+	rom ( name "First Demo (19xx)(The Co-On).dsk" size 194816 crc 191e54d7 md5 0cc5fe28ad7fb4da6aecfa0a708657fb )
+)
+
+game (
+	name "First Intro (1990)(Technobyte)"
+	description "First Intro (1990)(Technobyte)"
+	rom ( name "First Intro (1990)(Technobyte).dsk" size 194816 crc 2e9f1669 md5 e9a30caea4afd1a2940947711cbb5a90 )
+)
+
+game (
+	name "First Intro (19xx)(Gallisoft)"
+	description "First Intro (19xx)(Gallisoft)"
+	rom ( name "First Intro (19xx)(Gallisoft).dsk" size 194816 crc 144393d8 md5 d2c5c8e6946b9b98879b4d829158c365 )
+)
+
+game (
+	name "First One-Screen Demo (19xx)(The Cool)"
+	description "First One-Screen Demo (19xx)(The Cool)"
+	rom ( name "First One-Screen Demo (19xx)(The Cool).dsk" size 194816 crc d27d84b9 md5 f7481eb8dc5a6c877b44d0b75fd0da25 )
+)
+
+game (
+	name "First Sound Sampler, The (1989)(42 Crew)"
+	description "First Sound Sampler, The (1989)(42 Crew)"
+	rom ( name "First Sound Sampler, The (1989)(42 Crew).dsk" size 194816 crc df301dae md5 90373d8194d22169743c5d8984939975 )
+)
+
+game (
+	name "Flag (19xx)(NWC)"
+	description "Flag (19xx)(NWC)"
+	rom ( name "Flag (19xx)(NWC).dsk" size 194816 crc 930f339a md5 cbebbcc4fabc26210b6c0b66f24bd2b9 )
+)
+
+game (
+	name "Floating Points (19xx)(Unique)"
+	description "Floating Points (19xx)(Unique)"
+	rom ( name "Floating Points (19xx)(Unique).dsk" size 194816 crc 29cd02e0 md5 5fc9498c5af40e3905be8ff0a2f753e2 )
+)
+
+game (
+	name "Flying Demo of Terzel (19xx)(Softfox)"
+	description "Flying Demo of Terzel (19xx)(Softfox)"
+	rom ( name "Flying Demo of Terzel (19xx)(Softfox).dsk" size 194816 crc d97ceb0b md5 7036585aa1797a444e89253e8e375739 )
+)
+
+game (
+	name "Fractals Show II (19xx)(42 Crew)"
+	description "Fractals Show II (19xx)(42 Crew)"
+	rom ( name "Fractals Show II (19xx)(42 Crew).dsk" size 194816 crc 462562c2 md5 da9bff56c302971bf37a9720c62690d1 )
+)
+
+game (
+	name "Freedelire Meeting (19xx)(AST)"
+	description "Freedelire Meeting (19xx)(AST)"
+	rom ( name "Freedelire Meeting (19xx)(AST).dsk" size 194816 crc 7c38a1b6 md5 7328473fa5b4f1b64f6661685149019c )
+)
+
+game (
+	name "Fuck Double A (1987)(Speedy)"
+	description "Fuck Double A (1987)(Speedy)"
+	rom ( name "Fuck Double A (1987)(Speedy).dsk" size 194816 crc 9293f42c md5 2fd760549d1a62152c1a0ec3ee42c009 )
+)
+
+game (
+	name "Fuck Double A (1987)(Speedy)[a]"
+	description "Fuck Double A (1987)(Speedy)[a]"
+	rom ( name "Fuck Double A (1987)(Speedy)[a].dsk" size 194816 crc 24c38bc5 md5 f462a341ba538a785dbdf78b409a1391 )
+)
+
+game (
+	name "Fucking Flohmarkt (19xx)(Zweisten)"
+	description "Fucking Flohmarkt (19xx)(Zweisten)"
+	rom ( name "Fucking Flohmarkt (19xx)(Zweisten).dsk" size 194816 crc 3bed8791 md5 f1f0f6410586104d4c635392f1624328 )
+)
+
+game (
+	name "Full Metall Jacked Demo II (19xx)(The Warrior of Death)"
+	description "Full Metall Jacked Demo II (19xx)(The Warrior of Death)"
+	rom ( name "Full Metall Jacked Demo II (19xx)(The Warrior of Death).dsk" size 194816 crc fd14c6a0 md5 04c1d16b6b1225048b6db6377bf275f0 )
+)
+
+game (
+	name "Fullscreen (1988)(TMC)"
+	description "Fullscreen (1988)(TMC)"
+	rom ( name "Fullscreen (1988)(TMC).dsk" size 194816 crc 943ce827 md5 8b4af51ffbeaf0ee5f727371bc4f4e62 )
+)
+
+game (
+	name "Futer Demo (1989)(Futer)"
+	description "Futer Demo (1989)(Futer)"
+	rom ( name "Futer Demo (1989)(Futer).dsk" size 194816 crc 12eec5e9 md5 c024172f65d1cd7e83274ce7c576bd6a )
+)
+
+game (
+	name "GOS Party IV Megademo (19xx)(Face Hugger)"
+	description "GOS Party IV Megademo (19xx)(Face Hugger)"
+	rom ( name "GOS Party IV Megademo (19xx)(Face Hugger).dsk" size 194816 crc 10885533 md5 2893a56199e62aed8b72ef87f72b6796 )
+)
+
+game (
+	name "GPA 2K2 (2002)(GPA)"
+	description "GPA 2K2 (2002)(GPA)"
+	rom ( name "GPA 2K2 (2002)(GPA).dsk" size 194816 crc 3bb9d38f md5 b9793d0d86380f9faa205d635bd60e25 )
+)
+
+game (
+	name "Galaxie (19xx)(Christian)"
+	description "Galaxie (19xx)(Christian)"
+	rom ( name "Galaxie (19xx)(Christian).dsk" size 194816 crc 3c1c6c39 md5 3027e6b3bc73735b02c924f01e5cc876 )
+)
+
+game (
+	name "Genesis (19xx)(-)"
+	description "Genesis (19xx)(-)"
+	rom ( name "Genesis (19xx)(-).dsk" size 194816 crc e866878d md5 ad0606d82308bdedc2714b5237185536 )
+)
+
+game (
+	name "Ghost Demo 2 (19xx)(Ghost)"
+	description "Ghost Demo 2 (19xx)(Ghost)"
+	rom ( name "Ghost Demo 2 (19xx)(Ghost).dsk" size 194816 crc 43d1e13b md5 e3705e64503a02c030ce3655666bcae5 )
+)
+
+game (
+	name "Giga Demo 1 (19xx)(Danish Demo Squad)"
+	description "Giga Demo 1 (19xx)(Danish Demo Squad)"
+	rom ( name "Giga Demo 1 (19xx)(Danish Demo Squad).dsk" size 194816 crc b326213a md5 900a86858a9ee369c504de5b4d24fca0 )
+)
+
+game (
+	name "Glob Scroll (19xx)(NWC)"
+	description "Glob Scroll (19xx)(NWC)"
+	rom ( name "Glob Scroll (19xx)(NWC).dsk" size 194816 crc d87e1237 md5 5da91c040f04887ba709173fa2116859 )
+)
+
+game (
+	name "Good Bye (1990)(Cobra)"
+	description "Good Bye (1990)(Cobra)"
+	rom ( name "Good Bye (1990)(Cobra).dsk" size 194816 crc b45893ff md5 9f303e5d0fba8225dc7e8ce31c8640e7 )
+)
+
+game (
+	name "Greek Meeting Demo (1994)(Chaos)"
+	description "Greek Meeting Demo (1994)(Chaos)"
+	rom ( name "Greek Meeting Demo (1994)(Chaos).dsk" size 194816 crc fe965089 md5 c63e3583b425a27e93766bd807308109 )
+)
+
+game (
+	name "Greek Meeting Demo 6 (2002)(-)"
+	description "Greek Meeting Demo 6 (2002)(-)"
+	rom ( name "Greek Meeting Demo 6 (2002)(-).dsk" size 194816 crc 724b0404 md5 71d3db2fff80152de353cbaba32864c0 )
+)
+
+game (
+	name "Haegar Demo II (19xx)(42 Crew)"
+	description "Haegar Demo II (19xx)(42 Crew)"
+	rom ( name "Haegar Demo II (19xx)(42 Crew).dsk" size 194816 crc c2386a96 md5 448b75a3b11b80a5265566e5bab09426 )
+)
+
+game (
+	name "Hall in Tirol (19xx)(TSC)"
+	description "Hall in Tirol (19xx)(TSC)"
+	rom ( name "Hall in Tirol (19xx)(TSC).dsk" size 194816 crc fa8c5a00 md5 004132ec42e6fb17ad4339cb1a097c12 )
+)
+
+game (
+	name "Handshaking Demo (19xx)(DSC)"
+	description "Handshaking Demo (19xx)(DSC)"
+	rom ( name "Handshaking Demo (19xx)(DSC).dsk" size 194816 crc c4984683 md5 8722ec4763bd2c95bdc45d45cb217ce0 )
+)
+
+game (
+	name "Happy Birthday Helmut (1991)(Fred Feuerstein)"
+	description "Happy Birthday Helmut (1991)(Fred Feuerstein)"
+	rom ( name "Happy Birthday Helmut (1991)(Fred Feuerstein).dsk" size 194816 crc be5bf014 md5 c2cabc810dc6cb503974cfa509f1ac1e )
+)
+
+game (
+	name "Hard Revenge (1993)(Factice)"
+	description "Hard Revenge (1993)(Factice)"
+	rom ( name "Hard Revenge (1993)(Factice).dsk" size 194816 crc 34baf556 md5 449da7eb8205faeb28c9bd0a73397454 )
+)
+
+game (
+	name "Highway to Hell (1993)(GPA)"
+	description "Highway to Hell (1993)(GPA)"
+	rom ( name "Highway to Hell (1993)(GPA).dsk" size 194816 crc 237ab1f9 md5 f9f17139e9677797920a462c8347fb8b )
+)
+
+game (
+	name "Highway to Hell (1995)(RDK)"
+	description "Highway to Hell (1995)(RDK)"
+	rom ( name "Highway to Hell (1995)(RDK).dsk" size 194816 crc d5854ce2 md5 e5a585c6a029c6f304634cca7c434fd2 )
+)
+
+game (
+	name "Horror Demo (19xx)(Goldwyn-Meier)"
+	description "Horror Demo (19xx)(Goldwyn-Meier)"
+	rom ( name "Horror Demo (19xx)(Goldwyn-Meier).dsk" size 194816 crc 0df7f5e7 md5 4f20f32404082d00f4f308cc3cd12aad )
+)
+
+game (
+	name "Hypnosis (19xx)(Ams Dem)"
+	description "Hypnosis (19xx)(Ams Dem)"
+	rom ( name "Hypnosis (19xx)(Ams Dem).dsk" size 194816 crc 1f4309ed md5 a9ac89f7eef595f941e6357ac3de95ff )
+)
+
+game (
+	name "ICO Message (19xx)(The Blood Brother's)"
+	description "ICO Message (19xx)(The Blood Brother's)"
+	rom ( name "ICO Message (19xx)(The Blood Brother's).dsk" size 194816 crc 0b6b77fe md5 ce5d0ce92ec2d2b52b01a94309f44e04 )
+)
+
+game (
+	name "Illusion Part I (19xx)(SEC)"
+	description "Illusion Part I (19xx)(SEC)"
+	rom ( name "Illusion Part I (19xx)(SEC).dsk" size 194816 crc c652083b md5 7b2e1bcfcb980f5af9694e972acdc8b0 )
+)
+
+game (
+	name "Immortal ICO, The (19xx)(The Blood Brother's)"
+	description "Immortal ICO, The (19xx)(The Blood Brother's)"
+	rom ( name "Immortal ICO, The (19xx)(The Blood Brother's).dsk" size 194816 crc cc15f4d0 md5 f7f97cdf6a5835abd5e43a7252fc1004 )
+)
+
+game (
+	name "Info (1990)(BSP)"
+	description "Info (1990)(BSP)"
+	rom ( name "Info (1990)(BSP).dsk" size 194816 crc e3b29b57 md5 c085fb268b9d30b85a2a4140a103f2a6 )
+)
+
+game (
+	name "Insanity (19xx)(Donut System)"
+	description "Insanity (19xx)(Donut System)"
+	rom ( name "Insanity (19xx)(Donut System).dsk" size 194816 crc 2951ccb9 md5 63f92b4b183d93c46687fa44413ab64d )
+)
+
+game (
+	name "Intro (19xx)(Tom & Jerry)"
+	description "Intro (19xx)(Tom & Jerry)"
+	rom ( name "Intro (19xx)(Tom & Jerry).dsk" size 194816 crc f4505349 md5 a068f5620460fcd40b22515e9b0c608d )
+)
+
+game (
+	name "Intro 1 (1988)(CBS)"
+	description "Intro 1 (1988)(CBS)"
+	rom ( name "Intro 1 (1988)(CBS).dsk" size 194816 crc 3bf33c02 md5 21b0d519d8936c170f8fcd4bc0be9cf5 )
+)
+
+game (
+	name "Intro 1 (19xx)(The Blood Brother's)"
+	description "Intro 1 (19xx)(The Blood Brother's)"
+	rom ( name "Intro 1 (19xx)(The Blood Brother's).dsk" size 194816 crc 9206d34b md5 a1425ccc0625ec7d1bf97d83345c84a9 )
+)
+
+game (
+	name "Intro 2 (1988)(CBS)"
+	description "Intro 2 (1988)(CBS)"
+	rom ( name "Intro 2 (1988)(CBS).dsk" size 194816 crc 5362ac57 md5 8bb1df3fc0220101474c196614790b74 )
+)
+
+game (
+	name "Intro 2 (1991)(The CGA)"
+	description "Intro 2 (1991)(The CGA)"
+	rom ( name "Intro 2 (1991)(The CGA).dsk" size 194816 crc 5abb6811 md5 5ea8c95c0f076a167134e476eb70a76d )
+)
+
+game (
+	name "Intro 2 (19xx)(Tom & Jerry)"
+	description "Intro 2 (19xx)(Tom & Jerry)"
+	rom ( name "Intro 2 (19xx)(Tom & Jerry).dsk" size 194816 crc f7db75cf md5 fddfb2daf54cef85b96028c13f02a5a9 )
+)
+
+game (
+	name "Intro 3 (1988)(CBS)"
+	description "Intro 3 (1988)(CBS)"
+	rom ( name "Intro 3 (1988)(CBS).dsk" size 194816 crc 3329d9e2 md5 056654095ff5aed291140f01b24bf9b3 )
+)
+
+game (
+	name "Intro 3 (1988)(Campino)"
+	description "Intro 3 (1988)(Campino)"
+	rom ( name "Intro 3 (1988)(Campino).dsk" size 194816 crc c16bba2e md5 c7e73dee5f72bd04bee3ca64d87278f6 )
+)
+
+game (
+	name "Intro 3 (19xx)(TGS)"
+	description "Intro 3 (19xx)(TGS)"
+	rom ( name "Intro 3 (19xx)(TGS).dsk" size 194816 crc 401a7e39 md5 f75f23b62f310a3e7b0debc4c276a778 )
+)
+
+game (
+	name "Intro 4 (1988)(Clouseau)"
+	description "Intro 4 (1988)(Clouseau)"
+	rom ( name "Intro 4 (1988)(Clouseau).dsk" size 194816 crc e76659f9 md5 faca91ac9c7589691600dd708fc04643 )
+)
+
+game (
+	name "Intro No 2 (19xx)(42 Crew)"
+	description "Intro No 2 (19xx)(42 Crew)"
+	rom ( name "Intro No 2 (19xx)(42 Crew).dsk" size 194816 crc e591a60e md5 1207c26fc8fb226591c03fecde43e157 )
+)
+
+game (
+	name "Intro No 3 (19xx)(42 Crew)"
+	description "Intro No 3 (19xx)(42 Crew)"
+	rom ( name "Intro No 3 (19xx)(42 Crew).dsk" size 194816 crc 35fd0ec4 md5 8bddf8935daf39c34f642702cde9086c )
+)
+
+game (
+	name "Intro No1 (19xx)(42 Crew)"
+	description "Intro No1 (19xx)(42 Crew)"
+	rom ( name "Intro No1 (19xx)(42 Crew).dsk" size 194816 crc c938534f md5 42fc5bf305684ccc2da2c6153a67c736 )
+)
+
+game (
+	name "Intro Number One (1988)(Yoda Cooperation)"
+	description "Intro Number One (1988)(Yoda Cooperation)"
+	rom ( name "Intro Number One (1988)(Yoda Cooperation).dsk" size 194816 crc 2a28b717 md5 c8ec59a2ff30d060efded666c2002138 )
+)
+
+game (
+	name "Introduction (1990)(Dino)"
+	description "Introduction (1990)(Dino)"
+	rom ( name "Introduction (1990)(Dino).dsk" size 194816 crc ceb8abac md5 337a7147a59e301544414a1b77b24e11 )
+)
+
+game (
+	name "Italy 90 Crack Intro (1990)(XOR)"
+	description "Italy 90 Crack Intro (1990)(XOR)"
+	rom ( name "Italy 90 Crack Intro (1990)(XOR).dsk" size 194816 crc 945a2e5a md5 05c1b7c83267bf7da5b30e3c77989773 )
+)
+
+game (
+	name "KCC Demo (1986)(Michael Goller)"
+	description "KCC Demo (1986)(Michael Goller)"
+	rom ( name "KCC Demo (1986)(Michael Goller).dsk" size 194816 crc d0013e2e md5 c47a958f1fc53406f2f4dceb0c371f45 )
+)
+
+game (
+	name "Knightgames Demo (1989)(Tom & Jerry)"
+	description "Knightgames Demo (1989)(Tom & Jerry)"
+	rom ( name "Knightgames Demo (1989)(Tom & Jerry).dsk" size 194816 crc ba898498 md5 0fa92bfc5ddb4298c062f84b905f849e )
+)
+
+game (
+	name "Kreator (1990)(Tom & Jerry)"
+	description "Kreator (1990)(Tom & Jerry)"
+	rom ( name "Kreator (1990)(Tom & Jerry).dsk" size 194816 crc 08826816 md5 3acdd6ed16cddf3e561549020a0e3578 )
+)
+
+game (
+	name "Kunst der Demo, Die (19xx)(OVL)"
+	description "Kunst der Demo, Die (19xx)(OVL)"
+	rom ( name "Kunst der Demo, Die (19xx)(OVL).dsk" size 194816 crc a80c3781 md5 8178c14ac50416886a15c4858fca4409 )
+)
+
+game (
+	name "L.E.D. Storm Crack Intro (1993)(GPA)"
+	description "L.E.D. Storm Crack Intro (1993)(GPA)"
+	rom ( name "L.E.D. Storm Crack Intro (1993)(GPA).dsk" size 194816 crc ee44ba09 md5 35fde85c10d569b7b37b0fc15c47803e )
+)
+
+game (
+	name "LOS Buggos Party (1994)(Mage)"
+	description "LOS Buggos Party (1994)(Mage)"
+	rom ( name "LOS Buggos Party (1994)(Mage).dsk" size 194816 crc 22f05e2b md5 cdafd1ee449198a13e0de9a4d52dda18 )
+)
+
+game (
+	name "Last Crazy Demo, The (19xx)(42 Crew)"
+	description "Last Crazy Demo, The (19xx)(42 Crew)"
+	rom ( name "Last Crazy Demo, The (19xx)(42 Crew).dsk" size 194816 crc abf63891 md5 4c43cf3b20d6a7b05b0f66147b924d37 )
+)
+
+game (
+	name "Last Demo (19xx)(DCS)"
+	description "Last Demo (19xx)(DCS)"
+	rom ( name "Last Demo (19xx)(DCS).dsk" size 194816 crc a4f75d0c md5 cc1d957ca9bf54e0d9d61a2e408eff91 )
+)
+
+game (
+	name "Last Demo, The (19xx)(Dax)"
+	description "Last Demo, The (19xx)(Dax)"
+	rom ( name "Last Demo, The (19xx)(Dax).dsk" size 194816 crc 38bacfc7 md5 a0671706f79efc9ab3014c223b660a13 )
+)
+
+game (
+	name "Last Ninja Remix Crack Intro (19xx)(CACH)"
+	description "Last Ninja Remix Crack Intro (19xx)(CACH)"
+	rom ( name "Last Ninja Remix Crack Intro (19xx)(CACH).dsk" size 194816 crc 301834ac md5 70162ca0be607e5012ceb082f47cf598 )
+)
+
+game (
+	name "Latest Demo (1998)(Flattermann)"
+	description "Latest Demo (1998)(Flattermann)"
+	rom ( name "Latest Demo (1998)(Flattermann).dsk" size 194816 crc 242c5c08 md5 b31c26f980a3b25213770ae024772106 )
+)
+
+game (
+	name "Light Corridor Crack Intro (1991)(JLCS)"
+	description "Light Corridor Crack Intro (1991)(JLCS)"
+	rom ( name "Light Corridor Crack Intro (1991)(JLCS).dsk" size 194816 crc eb4bfcf7 md5 497586ebf7626718d6e4bed472904522 )
+)
+
+game (
+	name "Little Demo 4 (19xx)(TMC)"
+	description "Little Demo 4 (19xx)(TMC)"
+	rom ( name "Little Demo 4 (19xx)(TMC).dsk" size 194816 crc 98575497 md5 f2b565ad7782b60b6e7d3359c8af87f4 )
+)
+
+game (
+	name "Look, The (19xx)(Thriller)"
+	description "Look, The (19xx)(Thriller)"
+	rom ( name "Look, The (19xx)(Thriller).dsk" size 194816 crc 563355d4 md5 0546ac21ab51b3cd7d897c9ad40f5b50 )
+)
+
+game (
+	name "MTI (19xx)(ACS)"
+	description "MTI (19xx)(ACS)"
+	rom ( name "MTI (19xx)(ACS).dsk" size 194816 crc 39648250 md5 31c134e654f463ae725de77043600632 )
+)
+
+game (
+	name "Mad Mix Crack Intro (1990)(ACE)"
+	description "Mad Mix Crack Intro (1990)(ACE)"
+	rom ( name "Mad Mix Crack Intro (1990)(ACE).dsk" size 194816 crc 3537e572 md5 011a1a00ae6098c93efd0d2aa7784677 )
+)
+
+game (
+	name "Magic (19xx)(TGS)"
+	description "Magic (19xx)(TGS)"
+	rom ( name "Magic (19xx)(TGS).dsk" size 194816 crc 2cc31213 md5 8c561e8d396c789c42708fa58563659c )
+)
+
+game (
+	name "Magic Demo 2 (19xx)(EGS)"
+	description "Magic Demo 2 (19xx)(EGS)"
+	rom ( name "Magic Demo 2 (19xx)(EGS).dsk" size 194816 crc cfab2e5a md5 a0ee8913a8e9e1897d89573f584298e2 )
+)
+
+game (
+	name "Magic Demo, The (1988)(TMC)"
+	description "Magic Demo, The (1988)(TMC)"
+	rom ( name "Magic Demo, The (1988)(TMC).dsk" size 194816 crc e0b316a4 md5 afe166859f342c4594c62ba281959bb4 )
+)
+
+game (
+	name "Marillion (1989)(FP7 & Nupe)"
+	description "Marillion (1989)(FP7 & Nupe)"
+	rom ( name "Marillion (1989)(FP7 & Nupe).dsk" size 194816 crc 081d8e06 md5 f0f0b5bd5d535ce6db82d265bc35fa4f )
+)
+
+game (
+	name "Master in Hiphouse (19xx)(D-Monsoon)"
+	description "Master in Hiphouse (19xx)(D-Monsoon)"
+	rom ( name "Master in Hiphouse (19xx)(D-Monsoon).dsk" size 194816 crc 977ab669 md5 1ca9aec8af3fe34556d028048a831306 )
+)
+
+game (
+	name "Mc Paddy 3 (1991)(Unix)"
+	description "Mc Paddy 3 (1991)(Unix)"
+	rom ( name "Mc Paddy 3 (1991)(Unix).dsk" size 194816 crc 3fb476e7 md5 ec70e0e337f0e96014c87620bd3e72f1 )
+)
+
+game (
+	name "Meeting Demo 1 (1993)(TGS)"
+	description "Meeting Demo 1 (1993)(TGS)"
+	rom ( name "Meeting Demo 1 (1993)(TGS).dsk" size 194816 crc bad65eda md5 8dcb7a7aadae180cae41f884949a95a2 )
+)
+
+game (
+	name "Meeting Demo 1 (1994)(Bordelik)"
+	description "Meeting Demo 1 (1994)(Bordelik)"
+	rom ( name "Meeting Demo 1 (1994)(Bordelik).dsk" size 194816 crc 04c7f067 md5 d8824190faaff5c67764bf00fdeef675 )
+)
+
+game (
+	name "Meeting Demo 3 (1994)(Bordelik)"
+	description "Meeting Demo 3 (1994)(Bordelik)"
+	rom ( name "Meeting Demo 3 (1994)(Bordelik).dsk" size 194816 crc 758a9a8b md5 37c875efdd1ae37aee6f761aa66ff393 )
+)
+
+game (
+	name "Meeting in 1991 (1991)(CPC-Mike & Gorden)"
+	description "Meeting in 1991 (1991)(CPC-Mike & Gorden)"
+	rom ( name "Meeting in 1991 (1991)(CPC-Mike & Gorden).dsk" size 194816 crc 92228d74 md5 53a48a6e17f38902dfef5488c7f9a8de )
+)
+
+game (
+	name "Mega Demo (1990)(Tag & JCP)"
+	description "Mega Demo (1990)(Tag & JCP)"
+	rom ( name "Mega Demo (1990)(Tag & JCP).dsk" size 194816 crc 572f0fe9 md5 5f249ee5230348c39c9173d5eb135bed )
+)
+
+game (
+	name "Mega Music Demo 1 (1990)(JCP)"
+	description "Mega Music Demo 1 (1990)(JCP)"
+	rom ( name "Mega Music Demo 1 (1990)(JCP).dsk" size 194816 crc 782307ec md5 99b77885ec3082c862b2eb66d140c567 )
+)
+
+game (
+	name "Mega Raster Demo, The (19xx)(Hackers)"
+	description "Mega Raster Demo, The (19xx)(Hackers)"
+	rom ( name "Mega Raster Demo, The (19xx)(Hackers).dsk" size 194816 crc 2c5508cf md5 1268c054e9d8195d6faec7314d93702b )
+)
+
+game (
+	name "Mega Sound Amiga, The (19xx)(CCC)"
+	description "Mega Sound Amiga, The (19xx)(CCC)"
+	rom ( name "Mega Sound Amiga, The (19xx)(CCC).dsk" size 194816 crc c1b695c8 md5 4125350aed37bad2640dcaac98167fd5 )
+)
+
+game (
+	name "Megaphoenix Crack Intro (1991)(The Spanish Hacker)"
+	description "Megaphoenix Crack Intro (1991)(The Spanish Hacker)"
+	rom ( name "Megaphoenix Crack Intro (1991)(The Spanish Hacker).dsk" size 194816 crc 2f36d297 md5 0ce54a0cca271b7b6152fa08a384bd9e )
+)
+
+game (
+	name "Megaschlecht Demo 1 (19xx)(TGM)"
+	description "Megaschlecht Demo 1 (19xx)(TGM)"
+	rom ( name "Megaschlecht Demo 1 (19xx)(TGM).dsk" size 194816 crc 91c7b9b6 md5 50e35613b3ae1d93f5950edeb4c12bcc )
+)
+
+game (
+	name "Megaschlecht Demo IV (19xx)(TGM)"
+	description "Megaschlecht Demo IV (19xx)(TGM)"
+	rom ( name "Megaschlecht Demo IV (19xx)(TGM).dsk" size 194816 crc 2332af7e md5 fe7b22e31444b0811cae571dfa4bd109 )
+)
+
+game (
+	name "Merry Xmas 93 (1993)(TGS)"
+	description "Merry Xmas 93 (1993)(TGS)"
+	rom ( name "Merry Xmas 93 (1993)(TGS).dsk" size 194816 crc 7091deaa md5 45f3abd85a242ee198406ca39d9e8022 )
+)
+
+game (
+	name "Message (1992)(Charleytronic)"
+	description "Message (1992)(Charleytronic)"
+	rom ( name "Message (1992)(Charleytronic).dsk" size 194816 crc 0c3f2f70 md5 42b075149f48c3ecc14dc5af0b0063b2 )
+)
+
+game (
+	name "Message (19xx)(Jim Woodall)"
+	description "Message (19xx)(Jim Woodall)"
+	rom ( name "Message (19xx)(Jim Woodall).dsk" size 194816 crc 7b908fe2 md5 c2f03aa7f59f20aabb04df218cf6117b )
+)
+
+game (
+	name "Message (19xx)(PDW)"
+	description "Message (19xx)(PDW)"
+	rom ( name "Message (19xx)(PDW).dsk" size 194816 crc 88c9ada2 md5 6935db98621c4cc56f46cfce77ec99e8 )
+)
+
+game (
+	name "Message No.2 (19xx)(Campino)"
+	description "Message No.2 (19xx)(Campino)"
+	rom ( name "Message No.2 (19xx)(Campino).dsk" size 194816 crc 5edd8bf9 md5 5d0815ac7e98b2438e1007c1b7032e38 )
+)
+
+game (
+	name "Messages (1991)(Joker)"
+	description "Messages (1991)(Joker)"
+	rom ( name "Messages (1991)(Joker).dsk" size 194816 crc 352ed17b md5 65a769bb95f2a529b7ba6d2a9156b065 )
+)
+
+game (
+	name "Metal Screamer (19xx)(AST System & Paradox)"
+	description "Metal Screamer (19xx)(AST System & Paradox)"
+	rom ( name "Metal Screamer (19xx)(AST System & Paradox).dsk" size 194816 crc c31ae301 md5 b696759a1c1ccb25c2a06072dda99315 )
+)
+
+game (
+	name "Metal Screamer 2 (19xx)(ZZ Top)"
+	description "Metal Screamer 2 (19xx)(ZZ Top)"
+	rom ( name "Metal Screamer 2 (19xx)(ZZ Top).dsk" size 194816 crc 8afb35f5 md5 282090f11247acd71ac6b11c50f47f50 )
+)
+
+game (
+	name "Mini Castle Meeting Demo (19xx)(-)"
+	description "Mini Castle Meeting Demo (19xx)(-)"
+	rom ( name "Mini Castle Meeting Demo (19xx)(-).dsk" size 194816 crc 5179b3f5 md5 ce2add48a93c09e9ec652de7f2b8f0aa )
+)
+
+game (
+	name "Misc Slideshow (19xx)(-)"
+	description "Misc Slideshow (19xx)(-)"
+	rom ( name "Misc Slideshow (19xx)(-).dsk" size 194816 crc adb2e19d md5 6067f9cd04cc3517616802bdab062d47 )
+)
+
+game (
+	name "Monsters of Darkness (19xx)(GPA)"
+	description "Monsters of Darkness (19xx)(GPA)"
+	rom ( name "Monsters of Darkness (19xx)(GPA).dsk" size 194816 crc 45c8b25f md5 941506b66f2614ea3579b8b6a74a2fa7 )
+)
+
+game (
+	name "Music Demo (19xx)(JLCS)"
+	description "Music Demo (19xx)(JLCS)"
+	rom ( name "Music Demo (19xx)(JLCS).dsk" size 194816 crc 32f36cba md5 633bf265f4653a2fcf0deb2b68eb7d9d )
+)
+
+game (
+	name "Music Demo 1 (19xx)(Charleytronic)"
+	description "Music Demo 1 (19xx)(Charleytronic)"
+	rom ( name "Music Demo 1 (19xx)(Charleytronic).dsk" size 194816 crc ac1df4dd md5 230949c020492498f65d39035734ee0a )
+)
+
+game (
+	name "Music Pack III (19xx)(Tom & Jerry)"
+	description "Music Pack III (19xx)(Tom & Jerry)"
+	rom ( name "Music Pack III (19xx)(Tom & Jerry).dsk" size 194816 crc 38dd4f61 md5 c731b31d0837831b0c7e51de0012043a )
+)
+
+game (
+	name "Music Sampler (1987)(CBS)"
+	description "Music Sampler (1987)(CBS)"
+	rom ( name "Music Sampler (1987)(CBS).dsk" size 194816 crc e7df6261 md5 1432450f7024d3aeb6993716d9df8b24 )
+)
+
+game (
+	name "Music Sampler II (1988)(CBS)"
+	description "Music Sampler II (1988)(CBS)"
+	rom ( name "Music Sampler II (1988)(CBS).dsk" size 194816 crc a44dc769 md5 af8b2ec8b2440672a006244947c2922f )
+)
+
+game (
+	name "NRJ (1989)(ICS & MCS)"
+	description "NRJ (1989)(ICS & MCS)"
+	rom ( name "NRJ (1989)(ICS & MCS).dsk" size 194816 crc 60ad06fe md5 f896e25359b7e379eb945c1a4969c8e5 )
+)
+
+game (
+	name "Nerven Zusammenbruch Party, The (19xx)(-)"
+	description "Nerven Zusammenbruch Party, The (19xx)(-)"
+	rom ( name "Nerven Zusammenbruch Party, The (19xx)(-).dsk" size 194816 crc 63063566 md5 188b3b5fba414c08325ef96ff93c23a0 )
+)
+
+game (
+	name "New Year Meeting Demo (19xx)(DSC)"
+	description "New Year Meeting Demo (19xx)(DSC)"
+	rom ( name "New Year Meeting Demo (19xx)(DSC).dsk" size 194816 crc f9422ffa md5 b40157ed2039df3874df90bd084f2ce1 )
+)
+
+game (
+	name "Ninja 2 Remix Crack Intro (19xx)(CACH)"
+	description "Ninja 2 Remix Crack Intro (19xx)(CACH)"
+	rom ( name "Ninja 2 Remix Crack Intro (19xx)(CACH).dsk" size 194816 crc 0d7b453e md5 2b58ca106377284b6ed9d81dff2cdcca )
+)
+
+game (
+	name "No Inspiration (1992)(AST System)"
+	description "No Inspiration (1992)(AST System)"
+	rom ( name "No Inspiration (1992)(AST System).dsk" size 194816 crc 904ff2be md5 6273e231f3dd6185c54bfbbc7657f343 )
+)
+
+game (
+	name "Notrantor-Demo 3 (19xx)(GOS)"
+	description "Notrantor-Demo 3 (19xx)(GOS)"
+	rom ( name "Notrantor-Demo 3 (19xx)(GOS).dsk" size 194816 crc 731134b2 md5 c14723ef0522bcd357548f29fd46afa5 )
+)
+
+game (
+	name "Number One Demo (19xx)(The Cranium)"
+	description "Number One Demo (19xx)(The Cranium)"
+	rom ( name "Number One Demo (19xx)(The Cranium).dsk" size 194816 crc 01c7770f md5 69984031c1ac522e4b75a2458dfbfe9c )
+)
+
+game (
+	name "Oechtel Demo II (19xx)(Kiki Malda)"
+	description "Oechtel Demo II (19xx)(Kiki Malda)"
+	rom ( name "Oechtel Demo II (19xx)(Kiki Malda).dsk" size 194816 crc dfc1cfa8 md5 792cd8feb6e2817121b97ba9b135b65d )
+)
+
+game (
+	name "Olympic Demo (19xx)(CBS)"
+	description "Olympic Demo (19xx)(CBS)"
+	rom ( name "Olympic Demo (19xx)(CBS).dsk" size 194816 crc f5cd473c md5 d1f90f5efc975cdd48cd51bc5bb1c526 )
+)
+
+game (
+	name "Only for Your Eyes 2 Illusion Part (1994)(AST)"
+	description "Only for Your Eyes 2 Illusion Part (1994)(AST)"
+	rom ( name "Only for Your Eyes 2 Illusion Part (1994)(AST).dsk" size 194816 crc 93a5d696 md5 b67de4c8b9ac6fc80ff93d6827700c81 )
+)
+
+game (
+	name "Open 2 (19xx)(STV)"
+	description "Open 2 (19xx)(STV)"
+	rom ( name "Open 2 (19xx)(STV).dsk" size 194816 crc d8d75149 md5 ac698368f111b927e0ec3a9662aa39ed )
+)
+
+game (
+	name "Other World, The (19xx)(Logon System)"
+	description "Other World, The (19xx)(Logon System)"
+	rom ( name "Other World, The (19xx)(Logon System).dsk" size 194816 crc a123f04f md5 ff403fb9a231d84433a601f807b456ea )
+)
+
+game (
+	name "Overscan Demo (19xx)(42 Crew)"
+	description "Overscan Demo (19xx)(42 Crew)"
+	rom ( name "Overscan Demo (19xx)(42 Crew).dsk" size 194816 crc df8bd896 md5 d080c8133a6b187a4eb6cc10af061cd6 )
+)
+
+game (
+	name "Panik Intro (19xx)(The Blood Brother's)"
+	description "Panik Intro (19xx)(The Blood Brother's)"
+	rom ( name "Panik Intro (19xx)(The Blood Brother's).dsk" size 194816 crc 7ddd29bc md5 dffb540a85b66b11be9bff99c730ebe7 )
+)
+
+game (
+	name "Paragliding Crack Intro (19xx)(XOR)"
+	description "Paragliding Crack Intro (19xx)(XOR)"
+	rom ( name "Paragliding Crack Intro (19xx)(XOR).dsk" size 194816 crc 3f7efb59 md5 56938828cfa31b1ae0e09ee28f832777 )
+)
+
+game (
+	name "Parental Advisory Explicit Demo (19xx)(Powerhowse)"
+	description "Parental Advisory Explicit Demo (19xx)(Powerhowse)"
+	rom ( name "Parental Advisory Explicit Demo (19xx)(Powerhowse).dsk" size 194816 crc 53ce0312 md5 71cdd587d8087ccd9e32b53de7aa2042 )
+)
+
+game (
+	name "Party 1 (1990)(CGC)"
+	description "Party 1 (1990)(CGC)"
+	rom ( name "Party 1 (1990)(CGC).dsk" size 194816 crc a7ae08b1 md5 f6d09bcbc93cba3594ea0a6543c89d3d )
+)
+
+game (
+	name "Plasma Demo (19xx)(Gozeur)"
+	description "Plasma Demo (19xx)(Gozeur)"
+	rom ( name "Plasma Demo (19xx)(Gozeur).dsk" size 194816 crc 29a094b9 md5 50212a2914e471593b82ef9c2ae411db )
+)
+
+game (
+	name "Premiere Demo (19xx)(The Flying Crackers)"
+	description "Premiere Demo (19xx)(The Flying Crackers)"
+	rom ( name "Premiere Demo (19xx)(The Flying Crackers).dsk" size 194816 crc 4a65ecc0 md5 0b62aac3f0d1c4474b65e1b0e771cf32 )
+)
+
+game (
+	name "Pro-RCA (19xx)(Thriller)"
+	description "Pro-RCA (19xx)(Thriller)"
+	rom ( name "Pro-RCA (19xx)(Thriller).dsk" size 194816 crc d5c0e1fe md5 9c1cfc75b23583c56be9c4a6938f19e8 )
+)
+
+game (
+	name "RSI Demo (19xx)(Genesis)"
+	description "RSI Demo (19xx)(Genesis)"
+	rom ( name "RSI Demo (19xx)(Genesis).dsk" size 194816 crc 2ee9969c md5 ed25553ad9697c1f0701d0f781440cac )
+)
+
+game (
+	name "Rainbow Island Crack Intro (19xx)(CACH)"
+	description "Rainbow Island Crack Intro (19xx)(CACH)"
+	rom ( name "Rainbow Island Crack Intro (19xx)(CACH).dsk" size 194816 crc 917e4362 md5 a04565f6a3f0a0a7c2baa71d4fa13924 )
+)
+
+game (
+	name "Rainbow Island Crack Intro (19xx)(CACH)[a]"
+	description "Rainbow Island Crack Intro (19xx)(CACH)[a]"
+	rom ( name "Rainbow Island Crack Intro (19xx)(CACH)[a].dsk" size 194816 crc acb25cb6 md5 47477657d261cfecc6bf737212cd6f7e )
+)
+
+game (
+	name "Rape (19xx)(50001)"
+	description "Rape (19xx)(50001)"
+	rom ( name "Rape (19xx)(50001).dsk" size 194816 crc 90d2d838 md5 90cc36fb15b5b2a0100ef50deb3d7248 )
+)
+
+game (
+	name "Rebel Universe, The (19xx)(Tru)"
+	description "Rebel Universe, The (19xx)(Tru)"
+	rom ( name "Rebel Universe, The (19xx)(Tru).dsk" size 194816 crc 5f8488ba md5 20e7063968c2ad9da9bc209c26ee3501 )
+)
+
+game (
+	name "Revolution of the Machines (19xx)(Beng)"
+	description "Revolution of the Machines (19xx)(Beng)"
+	rom ( name "Revolution of the Machines (19xx)(Beng).dsk" size 194816 crc 7826611a md5 22ef1737132c5c7ff3e041b9c7842989 )
+)
+
+game (
+	name "Robot PD (19xx)(Charleytronic)"
+	description "Robot PD (19xx)(Charleytronic)"
+	rom ( name "Robot PD (19xx)(Charleytronic).dsk" size 194816 crc 23fbd649 md5 f1dbc040747f36cece7d367a366ea0a9 )
+)
+
+game (
+	name "SCR (19xx)(Thriller)"
+	description "SCR (19xx)(Thriller)"
+	rom ( name "SCR (19xx)(Thriller).dsk" size 194816 crc c791ef82 md5 51a7fe4237311db5566f41f44f6d77db )
+)
+
+game (
+	name "SSS Demo 1 (19xx)(SSS)"
+	description "SSS Demo 1 (19xx)(SSS)"
+	rom ( name "SSS Demo 1 (19xx)(SSS).dsk" size 194816 crc 23fd8afe md5 c1a8faa9b0e5738c2ea26cff2da21508 )
+)
+
+game (
+	name "STS Music Demo (1992)(The Conspiracy)"
+	description "STS Music Demo (1992)(The Conspiracy)"
+	rom ( name "STS Music Demo (1992)(The Conspiracy).dsk" size 194816 crc d6fa9517 md5 68c2fc4b38fdf7f022693ff6552cfee9 )
+)
+
+game (
+	name "Sampler 1 (1990)(The Gho-Team)"
+	description "Sampler 1 (1990)(The Gho-Team)"
+	rom ( name "Sampler 1 (1990)(The Gho-Team).dsk" size 194816 crc c1c91b4f md5 b6574c66f695c45542717c9780098835 )
+)
+
+game (
+	name "Sampler 2 (1991)(The Gho-Team)"
+	description "Sampler 2 (1991)(The Gho-Team)"
+	rom ( name "Sampler 2 (1991)(The Gho-Team).dsk" size 194816 crc 2a5adbd6 md5 9a1edea44de15dd750e447924638be5f )
+)
+
+game (
+	name "Scandinavian Flag Demo (19xx)(-)"
+	description "Scandinavian Flag Demo (19xx)(-)"
+	rom ( name "Scandinavian Flag Demo (19xx)(-).dsk" size 194816 crc b1c0eb7f md5 ce06246130edd321b0d9cee93a42706a )
+)
+
+game (
+	name "Scroll (19xx)(DSC)"
+	description "Scroll (19xx)(DSC)"
+	rom ( name "Scroll (19xx)(DSC).dsk" size 194816 crc 099a0362 md5 3ba67a8e6329684a09c1072c37c92522 )
+)
+
+game (
+	name "Scroll (19xx)(Fefesse)"
+	description "Scroll (19xx)(Fefesse)"
+	rom ( name "Scroll (19xx)(Fefesse).dsk" size 194816 crc 225ab78c md5 b3af090f52d868bcbb7e8ee05500cbd5 )
+)
+
+game (
+	name "Scroll (19xx)(Spy Hunter)"
+	description "Scroll (19xx)(Spy Hunter)"
+	rom ( name "Scroll (19xx)(Spy Hunter).dsk" size 194816 crc 59d6ab18 md5 e7343b8d5aeb790f400cce51dfc6c9f9 )
+)
+
+game (
+	name "Second Demo (19xx)(Technobyte)"
+	description "Second Demo (19xx)(Technobyte)"
+	rom ( name "Second Demo (19xx)(Technobyte).dsk" size 194816 crc 5eea2745 md5 2b31e1b5e5b7cda1b242c1e9891655fc )
+)
+
+game (
+	name "Serviceline (19xx)(CCC)"
+	description "Serviceline (19xx)(CCC)"
+	rom ( name "Serviceline (19xx)(CCC).dsk" size 194816 crc 5ad3a801 md5 e592f6cf8bf399234cde14747cb1f9d1 )
+)
+
+game (
+	name "Short 50001 Demo (19xx)(50001)"
+	description "Short 50001 Demo (19xx)(50001)"
+	rom ( name "Short 50001 Demo (19xx)(50001).dsk" size 194816 crc 398bce91 md5 c6d0ada73cdcaec3a099d681cbf92673 )
+)
+
+game (
+	name "Silkworm Crack Intro (1989)(Cafe Kid Crackers)"
+	description "Silkworm Crack Intro (1989)(Cafe Kid Crackers)"
+	rom ( name "Silkworm Crack Intro (1989)(Cafe Kid Crackers).dsk" size 194816 crc c37bfd91 md5 5fc0def61dd6a75880abbe3763dc5d08 )
+)
+
+game (
+	name "Skweek Crack Intro (19xx)(Kino & Hufo)"
+	description "Skweek Crack Intro (19xx)(Kino & Hufo)"
+	rom ( name "Skweek Crack Intro (19xx)(Kino & Hufo).dsk" size 194816 crc d78b0659 md5 bcb8f628a7b158584a334bec1926b360 )
+)
+
+game (
+	name "Sky Demo (19xx)(NDC)"
+	description "Sky Demo (19xx)(NDC)"
+	rom ( name "Sky Demo (19xx)(NDC).dsk" size 194816 crc 351ebf1f md5 73e8599fb3985c76da56b647aca5f3a4 )
+)
+
+game (
+	name "Sky Demo 2 (19xx)(NDC)"
+	description "Sky Demo 2 (19xx)(NDC)"
+	rom ( name "Sky Demo 2 (19xx)(NDC).dsk" size 194816 crc a1f68813 md5 c097619818245bf7d3b66532f39e1f3d )
+)
+
+game (
+	name "Slideshow (19xx)(-)"
+	description "Slideshow (19xx)(-)"
+	rom ( name "Slideshow (19xx)(-).dsk" size 194816 crc 6a7ae518 md5 e7e0de62d431aa2da23c0e876e67115b )
+)
+
+game (
+	name "Slideshow (19xx)(Defcon-4)"
+	description "Slideshow (19xx)(Defcon-4)"
+	rom ( name "Slideshow (19xx)(Defcon-4).dsk" size 194816 crc 5614c3b5 md5 ec055be670d3c9a05d9f4273bcc6bfdd )
+)
+
+game (
+	name "Smash TV Crack Intro (19xx)(XOR)"
+	description "Smash TV Crack Intro (19xx)(XOR)"
+	rom ( name "Smash TV Crack Intro (19xx)(XOR).dsk" size 194816 crc 8bae6b72 md5 1c86d864105ebec5629be51228f215ab )
+)
+
+game (
+	name "Smiling Intro 1 (19xx)(Fishman)"
+	description "Smiling Intro 1 (19xx)(Fishman)"
+	rom ( name "Smiling Intro 1 (19xx)(Fishman).dsk" size 194816 crc 51b7346e md5 0b574602aeb2b73411c122771905b1e0 )
+)
+
+game (
+	name "Snake Toes (19xx)(Thriller)"
+	description "Snake Toes (19xx)(Thriller)"
+	rom ( name "Snake Toes (19xx)(Thriller).dsk" size 194816 crc de5c576a md5 cfbb14445e912592ebc79341d3ed2264 )
+)
+
+game (
+	name "Sons Chap 3 (1989)(Les Corons Gangs)"
+	description "Sons Chap 3 (1989)(Les Corons Gangs)"
+	rom ( name "Sons Chap 3 (1989)(Les Corons Gangs).dsk" size 194816 crc 9e6fc367 md5 141a1fa956e15122981e1a469d8ad4c2 )
+)
+
+game (
+	name "Sound & Grafik (19xx)(-)"
+	description "Sound & Grafik (19xx)(-)"
+	rom ( name "Sound & Grafik (19xx)(-).dsk" size 194816 crc 6104956f md5 670e44bcbafb83bd3e51eb404302a634 )
+)
+
+game (
+	name "Sound Ampler 1 (1988)(ESC)"
+	description "Sound Ampler 1 (1988)(ESC)"
+	rom ( name "Sound Ampler 1 (1988)(ESC).dsk" size 194816 crc 886b6ffa md5 b7eda3de110cfe58c81f60313e2582d3 )
+)
+
+game (
+	name "Sound Sampler (1990)(CGC)"
+	description "Sound Sampler (1990)(CGC)"
+	rom ( name "Sound Sampler (1990)(CGC).dsk" size 194816 crc 95fff5b3 md5 2321fc19bba4999f212e8f76cdee1300 )
+)
+
+game (
+	name "Sound Sampler (19xx)(Gho)"
+	description "Sound Sampler (19xx)(Gho)"
+	rom ( name "Sound Sampler (19xx)(Gho).dsk" size 194816 crc 4262d2b9 md5 dc498f0ae69469cfabd6a631c35e0393 )
+)
+
+game (
+	name "Sound Sampler 1 (19xx)(Tondjo)"
+	description "Sound Sampler 1 (19xx)(Tondjo)"
+	rom ( name "Sound Sampler 1 (19xx)(Tondjo).dsk" size 194816 crc 2e843ffb md5 276170f8205e708cf33f017492bac709 )
+)
+
+game (
+	name "Sound Sampler 2 (19xx)(Hellfire)"
+	description "Sound Sampler 2 (19xx)(Hellfire)"
+	rom ( name "Sound Sampler 2 (19xx)(Hellfire).dsk" size 194816 crc 17ccc731 md5 c7761014c7d985816b2489a3ec87e00f )
+)
+
+game (
+	name "Sound Sampler II (1992)(Gho)"
+	description "Sound Sampler II (1992)(Gho)"
+	rom ( name "Sound Sampler II (1992)(Gho).dsk" size 194816 crc e7b12725 md5 b1ee365f5d5057bfd91843bd2ba33e1e )
+)
+
+game (
+	name "Sound of Crossfire, The (19xx)(Beng)"
+	description "Sound of Crossfire, The (19xx)(Beng)"
+	rom ( name "Sound of Crossfire, The (19xx)(Beng).dsk" size 194816 crc f5f917a2 md5 0af5af253860861d9807372289b00cd5 )
+)
+
+game (
+	name "Soundtracks (19xx)(The Crown)"
+	description "Soundtracks (19xx)(The Crown)"
+	rom ( name "Soundtracks (19xx)(The Crown).dsk" size 194816 crc adb7d105 md5 529931ce3fe65fb93bc22cf687d59b00 )
+)
+
+game (
+	name "Soundtrakker 128k Intro (1993)(TGS)"
+	description "Soundtrakker 128k Intro (1993)(TGS)"
+	rom ( name "Soundtrakker 128k Intro (1993)(TGS).dsk" size 194816 crc 7390e787 md5 0618e211620c0854b5de1bcd343635c7 )
+)
+
+game (
+	name "Soundtrakker Demo v1.1 (19xx)(DSC)"
+	description "Soundtrakker Demo v1.1 (19xx)(DSC)"
+	rom ( name "Soundtrakker Demo v1.1 (19xx)(DSC).dsk" size 194816 crc 31e923e1 md5 128a523280e1c251efa82da0af942739 )
+)
+
+game (
+	name "Sowjet Sorli (19xx)(CBS)"
+	description "Sowjet Sorli (19xx)(CBS)"
+	rom ( name "Sowjet Sorli (19xx)(CBS).dsk" size 194816 crc 3865cc32 md5 49a2ef07ce272e68c3bb2d90f2568215 )
+)
+
+game (
+	name "Space (1989)(The News Company)"
+	description "Space (1989)(The News Company)"
+	rom ( name "Space (1989)(The News Company).dsk" size 194816 crc 8e93faff md5 a1c5894fcbe660074904a2e8717a4fb8 )
+)
+
+game (
+	name "Space Age Demo, The (19xx)(Sargon)"
+	description "Space Age Demo, The (19xx)(Sargon)"
+	rom ( name "Space Age Demo, The (19xx)(Sargon).dsk" size 194816 crc 35b745ee md5 aadecf3ea2610b62944335dc36b22e46 )
+)
+
+game (
+	name "Space Crusade Crack Intro (1992)(GPA)"
+	description "Space Crusade Crack Intro (1992)(GPA)"
+	rom ( name "Space Crusade Crack Intro (1992)(GPA).dsk" size 194816 crc 0212c3a3 md5 c32ba0e3dc89415c2f9a7f2f4859588b )
+)
+
+game (
+	name "Space Demo 1 (19xx)(EGS)"
+	description "Space Demo 1 (19xx)(EGS)"
+	rom ( name "Space Demo 1 (19xx)(EGS).dsk" size 194816 crc ef559d79 md5 dc9eff842f9edb306175ac5e59943069 )
+)
+
+game (
+	name "Space Glider Demo 5 (19xx)(EGS)"
+	description "Space Glider Demo 5 (19xx)(EGS)"
+	rom ( name "Space Glider Demo 5 (19xx)(EGS).dsk" size 194816 crc 9d8a8f7a md5 b6fd484a8678d32068839d6827999c7f )
+)
+
+game (
+	name "Spiral (19xx)(Face Hugger)"
+	description "Spiral (19xx)(Face Hugger)"
+	rom ( name "Spiral (19xx)(Face Hugger).dsk" size 194816 crc 65965adc md5 c16360ed8c9011fa6f0362bdddbe8cab )
+)
+
+game (
+	name "Sprite Demo (19xx)(BSC)"
+	description "Sprite Demo (19xx)(BSC)"
+	rom ( name "Sprite Demo (19xx)(BSC).dsk" size 194816 crc cde895a4 md5 fcea4415126c8114d153e461083dee48 )
+)
+
+game (
+	name "Spy Intro (19xx)(The Bitmasters)"
+	description "Spy Intro (19xx)(The Bitmasters)"
+	rom ( name "Spy Intro (19xx)(The Bitmasters).dsk" size 194816 crc cfeaff5c md5 db3bb725f4d0405aa42603ebac87707d )
+)
+
+game (
+	name "Squat Scroll (19xx)(SSS)"
+	description "Squat Scroll (19xx)(SSS)"
+	rom ( name "Squat Scroll (19xx)(SSS).dsk" size 194816 crc 5e9a81d2 md5 955e7e54cedcc432ab30c145733c4665 )
+)
+
+game (
+	name "Stars (19xx)(50001)"
+	description "Stars (19xx)(50001)"
+	rom ( name "Stars (19xx)(50001).dsk" size 194816 crc b526623c md5 ff30726114ce56277a8cd2ce5800540f )
+)
+
+game (
+	name "Start School 2 (19xx)(Catloc)"
+	description "Start School 2 (19xx)(Catloc)"
+	rom ( name "Start School 2 (19xx)(Catloc).dsk" size 194816 crc 7cce3ab9 md5 4a06081b3c3fcfda2732552b015dbff5 )
+)
+
+game (
+	name "Story 2 (19xx)(ECS)"
+	description "Story 2 (19xx)(ECS)"
+	rom ( name "Story 2 (19xx)(ECS).dsk" size 194816 crc cd6458ba md5 28d0244a405f51bd28c3ec1e81174265 )
+)
+
+game (
+	name "Stream II (19xx)(-)"
+	description "Stream II (19xx)(-)"
+	rom ( name "Stream II (19xx)(-).dsk" size 194816 crc 4b6a2aa2 md5 02cf11868f13cb91279c9b455264fc41 )
+)
+
+game (
+	name "Sugar Candy Demo (19xx)(GOS)"
+	description "Sugar Candy Demo (19xx)(GOS)"
+	rom ( name "Sugar Candy Demo (19xx)(GOS).dsk" size 194816 crc 6827718a md5 3d467f361d0f2b256ab77b697756b55b )
+)
+
+game (
+	name "Super Demo (19xx)(BSC)"
+	description "Super Demo (19xx)(BSC)"
+	rom ( name "Super Demo (19xx)(BSC).dsk" size 194816 crc ec13e5ca md5 e6960f40e1baefe97bff0f2d12ae6725 )
+)
+
+game (
+	name "Swapping Partner Demo, The (1991)(DSC)"
+	description "Swapping Partner Demo, The (1991)(DSC)"
+	rom ( name "Swapping Partner Demo, The (1991)(DSC).dsk" size 194816 crc 406e5279 md5 3a2d90a3c978eb98514bf6e348570ae5 )
+)
+
+game (
+	name "Synergy (1991)(Bunny & Duffy)"
+	description "Synergy (1991)(Bunny & Duffy)"
+	rom ( name "Synergy (1991)(Bunny & Duffy).dsk" size 194816 crc 027e57a7 md5 95c0fcb995ef98f11716df90fa4b5f1c )
+)
+
+game (
+	name "Syntax Error Demo (1989)(Rubi)"
+	description "Syntax Error Demo (1989)(Rubi)"
+	rom ( name "Syntax Error Demo (1989)(Rubi).dsk" size 194816 crc e87d481a md5 5849d830de000180e6d62d57526dd8d7 )
+)
+
+game (
+	name "TGS Intro 1 (1993)(TGS)"
+	description "TGS Intro 1 (1993)(TGS)"
+	rom ( name "TGS Intro 1 (1993)(TGS).dsk" size 194816 crc 852006df md5 f65f807ccff9913cdea959c55ee5b9c3 )
+)
+
+game (
+	name "TRU (19xx)(Helloween)"
+	description "TRU (19xx)(Helloween)"
+	rom ( name "TRU (19xx)(Helloween).dsk" size 194816 crc 07d86413 md5 6b40ec8a9947ddface36148d6704b326 )
+)
+
+game (
+	name "TSR (19xx)(KTC)"
+	description "TSR (19xx)(KTC)"
+	rom ( name "TSR (19xx)(KTC).dsk" size 194816 crc de22b49d md5 792fd26db402349f4913b19ab0c023c8 )
+)
+
+game (
+	name "Television (19xx)(Conspiracy)"
+	description "Television (19xx)(Conspiracy)"
+	rom ( name "Television (19xx)(Conspiracy).dsk" size 194816 crc 0ab24c0b md5 f1185b4dfb2dcfa4a099c21f8e9c8868 )
+)
+
+game (
+	name "Ten Years of CPC Megademo, The (19xx)(M&C)"
+	description "Ten Years of CPC Megademo, The (19xx)(M&C)"
+	rom ( name "Ten Years of CPC Megademo, The (19xx)(M&C).dsk" size 194816 crc 991dd232 md5 51de17ad2b3d9fdea6168c208f78a3ca )
+)
+
+game (
+	name "Terminator 2 Crack Intro (1995)(NPS)"
+	description "Terminator 2 Crack Intro (1995)(NPS)"
+	rom ( name "Terminator 2 Crack Intro (1995)(NPS).dsk" size 194816 crc 347719c5 md5 ffc6e7c50c2819f22dab564bd5c81425 )
+)
+
+game (
+	name "Third Intro (19xx)(Al Capone)"
+	description "Third Intro (19xx)(Al Capone)"
+	rom ( name "Third Intro (19xx)(Al Capone).dsk" size 194816 crc a8c982ce md5 9e676af296cbef2ff1cbf425870ed857 )
+)
+
+game (
+	name "Thriller (19xx)(Beng)"
+	description "Thriller (19xx)(Beng)"
+	rom ( name "Thriller (19xx)(Beng).dsk" size 194816 crc 4f7f2a40 md5 3c87bc62bde9e05a08ecdf924537ca12 )
+)
+
+game (
+	name "Tiger (19xx)(-)"
+	description "Tiger (19xx)(-)"
+	rom ( name "Tiger (19xx)(-).dsk" size 194816 crc 2f641953 md5 f79aac0b7cf47d9f19eb2c7243d77d0c )
+)
+
+game (
+	name "Time 2 Go (19xx)(IPM)"
+	description "Time 2 Go (19xx)(IPM)"
+	rom ( name "Time 2 Go (19xx)(IPM).dsk" size 194816 crc 12b38c11 md5 3bc2c550bbca99d81f2ce5567aace053 )
+)
+
+game (
+	name "Tir Au Flan (2002)(OVL)"
+	description "Tir Au Flan (2002)(OVL)"
+	rom ( name "Tir Au Flan (2002)(OVL).dsk" size 194816 crc f873f4ff md5 bb5cd38e047280d09b116ea0a4a736c6 )
+)
+
+game (
+	name "Total Eclipse (1996)(Power System)"
+	description "Total Eclipse (1996)(Power System)"
+	rom ( name "Total Eclipse (1996)(Power System).dsk" size 194816 crc f4ed79c6 md5 91eafc507895d7b1d84c654a3e189c0b )
+)
+
+game (
+	name "Trash Overscan Megademo (1989)(Crad Os Crack Ers)"
+	description "Trash Overscan Megademo (1989)(Crad Os Crack Ers)"
+	rom ( name "Trash Overscan Megademo (1989)(Crad Os Crack Ers).dsk" size 194816 crc d8712f4b md5 472a544406d3e9c4f213bc22d91daf79 )
+)
+
+game (
+	name "Triad Demo 1 (19xx)(Triad)"
+	description "Triad Demo 1 (19xx)(Triad)"
+	rom ( name "Triad Demo 1 (19xx)(Triad).dsk" size 194816 crc 532a526b md5 3a658ab08bc6513be878c83e3949afd2 )
+)
+
+game (
+	name "Tronic 4 (19xx)(Tronic)"
+	description "Tronic 4 (19xx)(Tronic)"
+	rom ( name "Tronic 4 (19xx)(Tronic).dsk" size 194816 crc 959c9b63 md5 03c31e36fcf0e352e73cbd07cdae4062 )
+)
+
+game (
+	name "Tube Scroll (19xx)(HDM)"
+	description "Tube Scroll (19xx)(HDM)"
+	rom ( name "Tube Scroll (19xx)(HDM).dsk" size 194816 crc a84407d3 md5 d9d6da54e0bf1d9947c6bc7ac3126bb0 )
+)
+
+game (
+	name "Tubulus Demo (1989)(BCAV)"
+	description "Tubulus Demo (1989)(BCAV)"
+	rom ( name "Tubulus Demo (1989)(BCAV).dsk" size 194816 crc 0dcb9061 md5 31e3977454a204f1b0cf3183472b5d8b )
+)
+
+game (
+	name "Turn Disc (19xx)(Logon System)"
+	description "Turn Disc (19xx)(Logon System)"
+	rom ( name "Turn Disc (19xx)(Logon System).dsk" size 194816 crc 45421b08 md5 9b5b10bb697ad17ca1a75a18c34d6c6c )
+)
+
+game (
+	name "U.N. Squadron Crack Intro (19xx)(Kino & Hufo)"
+	description "U.N. Squadron Crack Intro (19xx)(Kino & Hufo)"
+	rom ( name "U.N. Squadron Crack Intro (19xx)(Kino & Hufo).dsk" size 194816 crc 6d048fa5 md5 0c0ece08d78f8f1c73b06f39ef6268dc )
+)
+
+game (
+	name "UCW (19xx)(PDW)"
+	description "UCW (19xx)(PDW)"
+	rom ( name "UCW (19xx)(PDW).dsk" size 194816 crc 5a719e7f md5 bd01eb74b4aab78095dc2ad5726622bc )
+)
+
+game (
+	name "Ultimate Megademo (19xx)(Face Hugger)"
+	description "Ultimate Megademo (19xx)(Face Hugger)"
+	rom ( name "Ultimate Megademo (19xx)(Face Hugger).dsk" size 194816 crc 670654cf md5 1cc0518ff30013929a7354eff4912bf0 )
+)
+
+game (
+	name "Vacalak 4 (1992)(Uncle Mad)"
+	description "Vacalak 4 (1992)(Uncle Mad)"
+	rom ( name "Vacalak 4 (1992)(Uncle Mad).dsk" size 194816 crc a400c271 md5 cf003650f8fe56761d36853f6e10607f )
+)
+
+game (
+	name "Video Digi Show (1993)(TGS)"
+	description "Video Digi Show (1993)(TGS)"
+	rom ( name "Video Digi Show (1993)(TGS).dsk" size 194816 crc 998c2bde md5 c706416a7b5dee0d7a1a8dcae1c02909 )
+)
+
+game (
+	name "Violin (19xx)(-)"
+	description "Violin (19xx)(-)"
+	rom ( name "Violin (19xx)(-).dsk" size 194816 crc 6fb5a5fe md5 97065f33c07e8ab59b4e9def6ce02635 )
+)
+
+game (
+	name "Virus, The (19xx)(-)"
+	description "Virus, The (19xx)(-)"
+	rom ( name "Virus, The (19xx)(-).dsk" size 194816 crc cf07f88e md5 92a06593f9ace306297974d4f0c35ba6 )
+)
+
+game (
+	name "Visions (1991)(Sir of the Lordz)"
+	description "Visions (1991)(Sir of the Lordz)"
+	rom ( name "Visions (1991)(Sir of the Lordz).dsk" size 194816 crc f3c4916c md5 d2e047393e4b753d4b2565098c899b1f )
+)
+
+game (
+	name "Vulkan (19xx)(-)"
+	description "Vulkan (19xx)(-)"
+	rom ( name "Vulkan (19xx)(-).dsk" size 194816 crc 49200168 md5 69808414d63e8f3d8a8244c4e126c748 )
+)
+
+game (
+	name "WCM Ink-Split Demo (1993)(Wizcat WCM Systems)"
+	description "WCM Ink-Split Demo (1993)(Wizcat WCM Systems)"
+	rom ( name "WCM Ink-Split Demo (1993)(Wizcat WCM Systems).dsk" size 194816 crc a668b350 md5 38aa079bc2bcc16d71a918b183c50046 )
+)
+
+game (
+	name "Why Not (19xx)(Chany & AST System)"
+	description "Why Not (19xx)(Chany & AST System)"
+	rom ( name "Why Not (19xx)(Chany & AST System).dsk" size 194816 crc 8c59f690 md5 69e9a0ae0fe03862752a76b8c1ee37d0 )
+)
+
+game (
+	name "Wind Surf Willy Crack Intro (19xx)(XOR)"
+	description "Wind Surf Willy Crack Intro (19xx)(XOR)"
+	rom ( name "Wind Surf Willy Crack Intro (19xx)(XOR).dsk" size 194816 crc 89471e52 md5 5d6fc3efe6619433a35445d0a631226e )
+)
+
+game (
+	name "Wizard's Ultra Demo, The (1988)(Tyronesoft)"
+	description "Wizard's Ultra Demo, The (1988)(Tyronesoft)"
+	rom ( name "Wizard's Ultra Demo, The (1988)(Tyronesoft).dsk" size 194816 crc c6c3d785 md5 063d70665e9a69324e7ce96da97aac69 )
+)
+
+game (
+	name "World (19xx)(TMC)"
+	description "World (19xx)(TMC)"
+	rom ( name "World (19xx)(TMC).dsk" size 194816 crc 936d0691 md5 ce72b964cebfeaac59b59d7a9a41969f )
+)
+
+game (
+	name "X-File (19xx)(No Recess & Manly)"
+	description "X-File (19xx)(No Recess & Manly)"
+	rom ( name "X-File (19xx)(No Recess & Manly).dsk" size 194816 crc a83b051f md5 21e36d667055959f1f68c53635dc2ace )
+)
+
+game (
+	name "X-File 2 (19xx)(No Recess & Manly)"
+	description "X-File 2 (19xx)(No Recess & Manly)"
+	rom ( name "X-File 2 (19xx)(No Recess & Manly).dsk" size 194816 crc 401c5953 md5 73b4e3cecee6eccf5a7379b385117918 )
+)
+
+game (
+	name "Yao Demo (19xx)(Fefesse & Stephane Saint Martin)"
+	description "Yao Demo (19xx)(Fefesse & Stephane Saint Martin)"
+	rom ( name "Yao Demo (19xx)(Fefesse & Stephane Saint Martin).dsk" size 194816 crc d0df12e0 md5 12d5b4c224485d37b2e871ed7e0bae3f )
+)
+
+game (
+	name "Zang (19xx)(Thriller)"
+	description "Zang (19xx)(Thriller)"
+	rom ( name "Zang (19xx)(Thriller).dsk" size 194816 crc 4277fe17 md5 a3bc8961d14e42ee2784b4ee76631821 )
+)
+
+game (
+	name "Zaptballs Advanced Edition Crack Intro (1994)(NPS)"
+	description "Zaptballs Advanced Edition Crack Intro (1994)(NPS)"
+	rom ( name "Zaptballs Advanced Edition Crack Intro (1994)(NPS).dsk" size 194816 crc e60baf11 md5 879db0822b08a554f8a6eac692cae0d2 )
+)
+
+game (
+	name "Zaptballs Intro (19xx)(Dr. Felix)"
+	description "Zaptballs Intro (19xx)(Dr. Felix)"
+	rom ( name "Zaptballs Intro (19xx)(Dr. Felix).dsk" size 194816 crc 1bf4e16d md5 5b8b0d9f48a6248a1d717b97f07fe317 )
+)
+
+game (
+	name "Ze Meeting 97 (1997)(Chany)"
+	description "Ze Meeting 97 (1997)(Chany)"
+	rom ( name "Ze Meeting 97 (1997)(Chany).dsk" size 194816 crc 6685239d md5 f98b26c0317ab955dcfbc348adceceb3 )
+)
+
+game (
+	name "Zona 0 Crack Intro (1991)(The Spanish Hacker)"
+	description "Zona 0 Crack Intro (1991)(The Spanish Hacker)"
+	rom ( name "Zona 0 Crack Intro (1991)(The Spanish Hacker).dsk" size 194816 crc 62f10b10 md5 b3fb4b0aa13346798d50a3b6214a90f7 )
+)
+
+game (
+	name "isc - Demo Compilation 1 (19xx)(-)"
+	description "isc - Demo Compilation 1 (19xx)(-)"
+	rom ( name "isc - Demo Compilation 1 (19xx)(-).dsk" size 194816 crc c3b942ff md5 ddc267de04b2fcaad2fc723f9ba93df7 )
+)

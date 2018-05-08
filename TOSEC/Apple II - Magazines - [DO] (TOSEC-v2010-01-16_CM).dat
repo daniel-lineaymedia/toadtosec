@@ -1,0 +1,559 @@
+clrmamepro (
+	name "Apple II - Magazines - [DO]"
+	description "Apple II - Magazines - [DO] (TOSEC-v2010-01-16)"
+	category "Apple II - Magazines - [DO]"
+	version 2010-01-16
+	author "TKaos"
+)
+
+game (
+	name "A+ Disk Magazine Volume 1, No. 1 (1984)(Ziff-Davis)"
+	description "A+ Disk Magazine Volume 1, No. 1 (1984)(Ziff-Davis)"
+	rom ( name "A+ Disk Magazine Volume 1, No. 1 (1984)(Ziff-Davis).do" size 143360 crc 7ddf094f md5 77e4ba4e66a0c73c06e2c4e74d1ce826 )
+)
+
+game (
+	name "Bootlegger Magazine (1983)(Bootleg)"
+	description "Bootlegger Magazine (1983)(Bootleg)"
+	rom ( name "Bootlegger Magazine (1983)(Bootleg).do" size 143360 crc e2530dba md5 f8a81f408ceb28d1face3b901cff324c )
+)
+
+game (
+	name "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side A)[unk filesys]"
+	description "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side A)[unk filesys]"
+	rom ( name "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side A)[unk filesys].do" size 143360 crc 858c2630 md5 7c4de214849fb61bcd93922cedcd0bfa )
+)
+
+game (
+	name "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side B)"
+	description "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side B)"
+	rom ( name "Cool-Ware 1 (1988-07-13)(Brain Trust)(fr)(Side B).do" size 143360 crc 103a9bbc md5 e17b52392e075738edec6a8ae87e2063 )
+)
+
+game (
+	name "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side A)"
+	description "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side A)"
+	rom ( name "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side A).do" size 143360 crc 65007228 md5 fdf044e168506a58a72afc61f5f2b833 )
+)
+
+game (
+	name "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side B)[unk filesys]"
+	description "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side B)[unk filesys]"
+	rom ( name "Cool-Ware 2 (1989-01)(Brain Trust)(fr)(Side B)[unk filesys].do" size 143360 crc 0d04a6ab md5 8880311751cf8ff0d7f718a33109e02d )
+)
+
+game (
+	name "Micro on the Apple Volume 1 (1981)(Micro Ink)[no boot]"
+	description "Micro on the Apple Volume 1 (1981)(Micro Ink)[no boot]"
+	rom ( name "Micro on the Apple Volume 1 (1981)(Micro Ink)[no boot].do" size 143360 crc e898f08e md5 663c29b7599bcfd9c5ad635d8d376424 )
+)
+
+game (
+	name "Micro on the Apple Volume 2 (1981)(Micro Ink)"
+	description "Micro on the Apple Volume 2 (1981)(Micro Ink)"
+	rom ( name "Micro on the Apple Volume 2 (1981)(Micro Ink).do" size 143360 crc 1ca5b643 md5 bb27228f725e9c8218d88829ed79ab6e )
+)
+
+game (
+	name "Nibble Volume 07, No. 06 (1986-06)(MicroSPARC)(Side A)"
+	description "Nibble Volume 07, No. 06 (1986-06)(MicroSPARC)(Side A)"
+	rom ( name "Nibble Volume 07, No. 06 (1986-06)(MicroSPARC)(Side A).do" size 143360 crc f32278f8 md5 a9055d0099f677387fc3bdec437a075d )
+)
+
+game (
+	name "Nibble Volume 09, No. 03 (1988-03)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 03 (1988-03)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 03 (1988-03)(MicroSPARC)(Side B).do" size 143360 crc bdd86be3 md5 4371e662abfe0163bd79aaa59b2ad2f3 )
+)
+
+game (
+	name "Nibble Volume 09, No. 04 (1988-04)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 04 (1988-04)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 04 (1988-04)(MicroSPARC)(Side B).do" size 143360 crc 47786a92 md5 7b8b4ea19caf1f5a82a04da3fa253c29 )
+)
+
+game (
+	name "Nibble Volume 09, No. 05 (1988-05)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 05 (1988-05)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 05 (1988-05)(MicroSPARC)(Side B).do" size 143360 crc 879111ee md5 bc9919dd7cd0a516d477589e9d564def )
+)
+
+game (
+	name "Nibble Volume 09, No. 06 (1988-06)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 06 (1988-06)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 06 (1988-06)(MicroSPARC)(Side B).do" size 143360 crc 8238c0aa md5 adb996eac8da9aa7d6d8b227ce136161 )
+)
+
+game (
+	name "Nibble Volume 09, No. 07 (1988-07)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 07 (1988-07)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 07 (1988-07)(MicroSPARC)(Side B).do" size 143360 crc f16376d5 md5 07b2c2d87cb010fb6f91a4b5f444492e )
+)
+
+game (
+	name "Nibble Volume 09, No. 08 (1988-08)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 08 (1988-08)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 08 (1988-08)(MicroSPARC)(Side B).do" size 143360 crc 1ae7206c md5 2caf3f229bc66f8e2b220a22a7b6a908 )
+)
+
+game (
+	name "Nibble Volume 09, No. 09 (1988-09)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 09 (1988-09)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 09 (1988-09)(MicroSPARC)(Side B).do" size 143360 crc fa05b546 md5 bff0abcd248ee6d2dd0e3ddc95e982f5 )
+)
+
+game (
+	name "Nibble Volume 09, No. 10 (1988-10)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 10 (1988-10)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 10 (1988-10)(MicroSPARC)(Side B).do" size 143360 crc cc7c1eea md5 719c1ef9ab40c9a92095ac48a8dad3ed )
+)
+
+game (
+	name "Nibble Volume 09, No. 11 (1988-11)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 11 (1988-11)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 11 (1988-11)(MicroSPARC)(Side B).do" size 143360 crc 74d9337f md5 2938f20dcac64d43e8cb0288fd01d2fa )
+)
+
+game (
+	name "Nibble Volume 09, No. 12 (1988-12)(MicroSPARC)(Side B)"
+	description "Nibble Volume 09, No. 12 (1988-12)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 09, No. 12 (1988-12)(MicroSPARC)(Side B).do" size 143360 crc 3b09f2d6 md5 edb52107927816c60e990deda95390d1 )
+)
+
+game (
+	name "Nibble Volume 10, No. 01 (1989-01)(MicroSPARC)(Side B)"
+	description "Nibble Volume 10, No. 01 (1989-01)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 10, No. 01 (1989-01)(MicroSPARC)(Side B).do" size 143360 crc 250d306a md5 6b9f51e27e0aa398c957b77e4847718b )
+)
+
+game (
+	name "Nibble Volume 10, No. 02 (1989-02)(MicroSPARC)(Side B)"
+	description "Nibble Volume 10, No. 02 (1989-02)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 10, No. 02 (1989-02)(MicroSPARC)(Side B).do" size 143360 crc f18b1f55 md5 bf75b65df79313a846fe213bb66a8b81 )
+)
+
+game (
+	name "Nibble Volume 10, No. 03 (1989-03)(MicroSPARC)(Side B)"
+	description "Nibble Volume 10, No. 03 (1989-03)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 10, No. 03 (1989-03)(MicroSPARC)(Side B).do" size 143360 crc f42f2724 md5 5c256fa6cab400542d49f5d6b95e3ce3 )
+)
+
+game (
+	name "Nibble Volume 10, No. 05 (1989-05)(MicroSPARC)(Side B)"
+	description "Nibble Volume 10, No. 05 (1989-05)(MicroSPARC)(Side B)"
+	rom ( name "Nibble Volume 10, No. 05 (1989-05)(MicroSPARC)(Side B).do" size 143360 crc baf581b0 md5 3cddf6cd5f5826dd0c2f39609431404c )
+)
+
+game (
+	name "Nibble Volume 10, No. 06 (1989-06)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 06 (1989-06)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 06 (1989-06)(MindCraft Publishing)(Side B).do" size 143360 crc 99023c62 md5 3d791ae186670caad11af3a11c223119 )
+)
+
+game (
+	name "Nibble Volume 10, No. 07 (1989-07)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 07 (1989-07)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 07 (1989-07)(MindCraft Publishing)(Side B).do" size 143360 crc 3a93839e md5 b4fffcd9a25ed9e7bf7eb2906c40991b )
+)
+
+game (
+	name "Nibble Volume 10, No. 08 (1989-08)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 08 (1989-08)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 08 (1989-08)(MindCraft Publishing)(Side B).do" size 143360 crc 004de4de md5 ac50d2e1c0e0ae8e8eeb9360f1989e95 )
+)
+
+game (
+	name "Nibble Volume 10, No. 09 (1989-09)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 09 (1989-09)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 09 (1989-09)(MindCraft Publishing)(Side B).do" size 143360 crc 6f4a5b2f md5 c959ea7a69fad3431b7b856e26d478a2 )
+)
+
+game (
+	name "Nibble Volume 10, No. 10 (1989-10)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 10 (1989-10)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 10 (1989-10)(MindCraft Publishing)(Side B).do" size 143360 crc f11aa972 md5 ace67174e7a15cca6f313517dec95519 )
+)
+
+game (
+	name "Nibble Volume 10, No. 11 (1989-11)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 11 (1989-11)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 11 (1989-11)(MindCraft Publishing)(Side B).do" size 143360 crc a3bb5939 md5 fc45b3da7ad6067e571c94aa1cd8091c )
+)
+
+game (
+	name "Nibble Volume 10, No. 12 (1989-12)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 10, No. 12 (1989-12)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 10, No. 12 (1989-12)(MindCraft Publishing)(Side B).do" size 143360 crc 2c408d9c md5 3ae2ed28972ceb0a8113c927454daaa3 )
+)
+
+game (
+	name "Nibble Volume 11, No. 01 (1990-01)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 11, No. 01 (1990-01)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 11, No. 01 (1990-01)(MindCraft Publishing)(Side B).do" size 143360 crc 34c977e5 md5 455d30f54f75d6d64e8ed7972a4bbb04 )
+)
+
+game (
+	name "Nibble Volume 11, No. 02 (1990-02)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 11, No. 02 (1990-02)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 11, No. 02 (1990-02)(MindCraft Publishing)(Side B).do" size 143360 crc 45f20e3f md5 2bb75a5c50702c144ea9f71694782639 )
+)
+
+game (
+	name "Nibble Volume 11, No. 09 (1990-09)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 11, No. 09 (1990-09)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 11, No. 09 (1990-09)(MindCraft Publishing)(Side B).do" size 143360 crc 275b8f82 md5 87784e2fe33104632041b423650cc23f )
+)
+
+game (
+	name "Nibble Volume 12, No. 05 (1991-05)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 12, No. 05 (1991-05)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 12, No. 05 (1991-05)(MindCraft Publishing)(Side B).do" size 143360 crc 3a430c5a md5 6f0c81c082b082f73fc8f25db53ea140 )
+)
+
+game (
+	name "Nibble Volume 12, No. 08 (1991-08)(MindCraft Publishing)(Side B)"
+	description "Nibble Volume 12, No. 08 (1991-08)(MindCraft Publishing)(Side B)"
+	rom ( name "Nibble Volume 12, No. 08 (1991-08)(MindCraft Publishing)(Side B).do" size 143360 crc c8fe9e52 md5 bdcdacb60263f260ef70ff0f4eb8d72a )
+)
+
+game (
+	name "Peeker Nr. 01 (1984)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 01 (1984)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 01 (1984)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc a9fd967a md5 4f4d57b02def5dd88162a8f869ff8fde )
+)
+
+game (
+	name "Peeker Nr. 02 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 02 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 02 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 473e6072 md5 2cf6efd7325e13d61c49b7e569709ca4 )
+)
+
+game (
+	name "Peeker Nr. 04 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 04 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 04 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 1eec4bdb md5 10ada76b3a426abe1268024d38dec967 )
+)
+
+game (
+	name "Peeker Nr. 05 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 05 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 05 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc a36a2702 md5 1fd193934f6daedbe332e571189ee60e )
+)
+
+game (
+	name "Peeker Nr. 06 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 06 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 06 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 1239e7af md5 1abc6433e0fdc33b393f0540e56b2888 )
+)
+
+game (
+	name "Peeker Nr. 07 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 07 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 07 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 6338e92a md5 eaa8e04f76b9aa4c64a32b23c1ae6607 )
+)
+
+game (
+	name "Peeker Nr. 08 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 08 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 08 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 68d0e68d md5 33f142b88c0f3d1490016bfbac76b0f5 )
+)
+
+game (
+	name "Peeker Nr. 10 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 10 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 10 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 8047b3be md5 9432bcefc7093ba2828a7892383858a9 )
+)
+
+game (
+	name "Peeker Nr. 11 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 11 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 11 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc dff11fed md5 722a01bad17b7f0d61e64599bb113673 )
+)
+
+game (
+	name "Peeker Nr. 12 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 12 (1985)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 12 (1985)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 7022cc42 md5 b4c0cd5dd103d48b4c81e5ef3fa0160e )
+)
+
+game (
+	name "Peeker Nr. 13 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 13 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 13 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 670eb067 md5 85509a3d2fedb67e8f4236b1bb18a6cf )
+)
+
+game (
+	name "Peeker Nr. 14 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 14 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 14 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 9723cce8 md5 e31e24db853e30cefa54269571c35877 )
+)
+
+game (
+	name "Peeker Nr. 15 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 15 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 15 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc f9b161c9 md5 9b02b689850374fbad0610c92efce68f )
+)
+
+game (
+	name "Peeker Nr. 16 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 16 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 16 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 78f0c141 md5 35c302b95720cbf70b64f76ccff471fe )
+)
+
+game (
+	name "Peeker Nr. 17 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 17 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 17 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 9f176773 md5 1aa6a351812bfe96613f7117b3b9ec20 )
+)
+
+game (
+	name "Peeker Nr. 18 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 18 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 18 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 394b9982 md5 47f372a55c67a41d0a566fdd5feedc7c )
+)
+
+game (
+	name "Peeker Nr. 19 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 19 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 19 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 2db0b966 md5 a5eab9889710dfca15bb62bad2c16e22 )
+)
+
+game (
+	name "Peeker Nr. 21 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 21 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 21 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 6edcc265 md5 9bac944c67b6013f00fa71139703425a )
+)
+
+game (
+	name "Peeker Nr. 22 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 22 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 22 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 4d3b9d26 md5 7f7ff90cf35d99206be6be764ace1b9c )
+)
+
+game (
+	name "Peeker Nr. 23 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 23 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 23 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc cf9a5122 md5 ddc075d37a49603620c3b1b99d62fce4 )
+)
+
+game (
+	name "Peeker Nr. 24 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 24 (1986)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 24 (1986)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 8620164f md5 a048e8d97c732a60dda82f3f96078219 )
+)
+
+game (
+	name "Peeker Nr. 25 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 25 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 25 (1987)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc a2459176 md5 3ac60b96587dcca34e7873af5fc561e2 )
+)
+
+game (
+	name "Peeker Nr. 26 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 26 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 26 (1987)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 841b29ed md5 0a4da0082da4d22f3d92ec2824b9d1c2 )
+)
+
+game (
+	name "Peeker Nr. 27 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 27 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 27 (1987)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc 181207c2 md5 c06e8273fb90a14bfd448bb0012522d1 )
+)
+
+game (
+	name "Peeker Nr. 28 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	description "Peeker Nr. 28 (1987)(Dr. Alfred Huethig Verlag)(DE)"
+	rom ( name "Peeker Nr. 28 (1987)(Dr. Alfred Huethig Verlag)(DE).do" size 143360 crc c077b004 md5 38aa78b9c19e8b173fb7eca1f99c3d71 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side A).do" size 143360 crc 657746c0 md5 ab54251a3036102cb05e4716e569b253 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 05 (1982-01)(Softdisk)(Side B).do" size 143360 crc 2e8b08be md5 aa2e0bbb1a0a14139799176d623b9923 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side A)[b]"
+	description "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side A)[b]"
+	rom ( name "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side A)[b].do" size 143360 crc 26b08dba md5 a15cc92792579a55eeea2b0aae9aab0a )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 06 (1982-02)(Softdisk)(Side B).do" size 143360 crc 21fbe01c md5 d35fc749081ec7693e0a671f4e38f21d )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side A).do" size 143360 crc 070d702e md5 4973d83c5e80bce457a19fdcc8a4a12d )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 07 (1982-03)(Softdisk)(Side B).do" size 143360 crc 6e17e225 md5 b6cca1c0383dae3e8e580c6f349d452c )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side A).do" size 143360 crc 22844c04 md5 6cb4e3c4da33a641525dfaaa0ee1bc11 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 09 (1982-05)(Softdisk)(Side B).do" size 143360 crc f23266fb md5 7c3489a8faf06994dca2b8f6d3d832e9 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side A).do" size 143360 crc 6fb248af md5 ddec4195db0b66f9c43cf1dfc9f028b3 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 10 (1982-06)(Softdisk)(Side B).do" size 143360 crc 0deda75b md5 f24719a31610b4c05d5d271a9f19d798 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side A).do" size 143360 crc 4f73acfd md5 641a53e09652722477a5f07843bf07be )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 11 (1982-07)(Softdisk)(Side B).do" size 143360 crc 5988d0c8 md5 3b657f807340a5bcb99613b9f412de44 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side A).do" size 143360 crc 53a1494c md5 158202b6db834248e932bc2784197359 )
+)
+
+game (
+	name "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 1, No. 12 (1982-08)(Softdisk)(Side B).do" size 143360 crc 991ba70a md5 1001377362133f12255896517aa4c52f )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side A).do" size 143360 crc 9f0875b2 md5 d23614817fd1d7085c5e149846c01273 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 01 (1982-09)(Softdisk)(Side B).do" size 143360 crc 9c0098c6 md5 e6d77a4ee3060d8361e573d15b1f4ac4 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side A).do" size 143360 crc 1fe0c19d md5 08abafc7fd56add9406090566c150521 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 02 (1982-10)(Softdisk)(Side B).do" size 143360 crc fe4f3e99 md5 ce7e45f0aa1ac3bb541c09e9f9594228 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side A).do" size 143360 crc 9a0c28c6 md5 5bae72bc5e4dc307c85634811760de41 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 03 (1982-11)(Softdisk)(Side B).do" size 143360 crc 91c186c4 md5 f272645c491ec34a3a53a4b6883add54 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side A).do" size 143360 crc 38bdc595 md5 50e4524494022542fcb2587a009f98fd )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 04 (1982-12)(Softdisk)(Side B).do" size 143360 crc f281512d md5 6b689305162fdf2cbffbf4ac6d8ffddb )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side A).do" size 143360 crc c68a0a51 md5 69dbdf31c8bee7d7f429e287900fbdf3 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 05 (1983-01)(Softdisk)(Side B).do" size 143360 crc 4d7f4973 md5 781a4f6f7be93019a5cd0b1057874f96 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side A).do" size 143360 crc 7b46880b md5 230b6daa520256a3de71ba05b6627986 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 06 (1983-02)(Softdisk)(Side B).do" size 143360 crc 7286daac md5 b9cea8aa35094d2c2876f3389ce052a6 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side A)"
+	description "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side A).do" size 143360 crc 4e065f07 md5 2ade2fd3b81f3b26b7ecd8f7ab6084d7 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side B)"
+	description "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 07 (1983-03)(Softdisk)(Side B).do" size 143360 crc 7a809b3c md5 84739094139e6650b162df08696f45fd )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side A)"
+	description "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side A).do" size 143360 crc 745981f3 md5 a555c3bbda56cb0df1d8b4da06b19316 )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side B)"
+	description "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side B)"
+	rom ( name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 1 of 2 Side B).do" size 143360 crc c6831995 md5 6452a8c39a4c908fbb3ba33966a0257a )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side A)"
+	description "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side A)"
+	rom ( name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side A).do" size 143360 crc 28e13b1c md5 56c6fe20504fdcdaabb2a78e22506fbd )
+)
+
+game (
+	name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side B)[unk filesys]"
+	description "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side B)[unk filesys]"
+	rom ( name "Softdisk Magazette Volume 2, No. 08 (1983-04)(Softdisk)(Disk 2 of 2 Side B)[unk filesys].do" size 143360 crc 2b58f81b md5 76a686971a33b0d1a3af6ab85de8d8e6 )
+)

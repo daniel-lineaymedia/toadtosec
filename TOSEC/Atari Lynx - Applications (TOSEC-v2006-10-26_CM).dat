@@ -1,0 +1,61 @@
+clrmamepro (
+	name "Atari Lynx - Applications"
+	description "Atari Lynx - Applications (TOSEC-v2006-10-26)"
+	category "Atari Lynx - Applications"
+	version 2006-10-26
+	author "Cassiel"
+)
+
+game (
+	name "Atari Lynx II Production Test v0.02 (1989)(Atari)"
+	description "Atari Lynx II Production Test v0.02 (1989)(Atari)"
+	rom ( name "Atari Lynx II Production Test v0.02 (1989)(Atari).lnx" size 262208 crc e1d69a7e md5 e62f265035dd47284f069035f9452333 )
+)
+
+game (
+	name "BRK Server Installer (1996)(Schick, Bastian)(PD)"
+	description "BRK Server Installer (1996)(Schick, Bastian)(PD)"
+	rom ( name "BRK Server Installer (1996)(Schick, Bastian)(PD).lnx" size 511 crc fd415f22 md5 9f92d80585dfe4f2c4b943c9c695b832 )
+)
+
+game (
+	name "Chip-8 Emulator v0.1 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.1 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.1 (2004)(-)(PD).lnx" size 11949 crc d49ce27a md5 f1e803c97778a18e2c4ff6be6bd92a28 )
+)
+
+game (
+	name "Chip-8 Emulator v0.2 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.2 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.2 (2004)(-)(PD).lnx" size 11949 crc 4becc50c md5 3c2538149da3cd1bbe2b45d001a7b813 )
+)
+
+game (
+	name "Chip-8 Emulator v0.3 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.3 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.3 (2004)(-)(PD).lnx" size 15485 crc 171cb01e md5 53fb2b314e9eba49b8df651848719c3e )
+)
+
+game (
+	name "Chip-8 Emulator v0.4 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.4 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.4 (2004)(-)(PD).lnx" size 19665 crc ff35e5ae md5 393ab481b650836b5804953d9879736e )
+)
+
+game (
+	name "Chip-8 Emulator v0.5 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.5 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.5 (2004)(-)(PD).lnx" size 22720 crc 7955b897 md5 ffb38f92bf65e236aef6f84b56e859d4 )
+)
+
+game (
+	name "Chip-8 Emulator v0.6 (2004)(-)(PD)"
+	description "Chip-8 Emulator v0.6 (2004)(-)(PD)"
+	rom ( name "Chip-8 Emulator v0.6 (2004)(-)(PD).lnx" size 23511 crc ed70fbcc md5 3d4c70cba51a5c1f0e2fc3c1acb4be50 )
+)
+
+game (
+	name "Atari Lynx II Production Test v0.02 (1989)(Atari)[a]"
+	description "Atari Lynx II Production Test v0.02 (1989)(Atari)[a]"
+	rom ( name "Atari Lynx II Production Test v0.02 (1989)(Atari)[a].lnx" size 262208 crc 2fb445c9 md5 f71898733bbdaf152bf82de04fa8a072 )
+)

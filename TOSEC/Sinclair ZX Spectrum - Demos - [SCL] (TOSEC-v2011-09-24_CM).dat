@@ -1,0 +1,188 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Demos - [SCL]"
+	description "Sinclair ZX Spectrum - Demos - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Demos - [SCL]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Zxyo - Dziuber - Cassiel"
+)
+
+game (
+	name "15 Hits of Joker (1995)(Firesoft)"
+	description "15 Hits of Joker (1995)(Firesoft)"
+	rom ( name "15 Hits of Joker (1995)(Firesoft).scl" size 26651 crc ff9b4f60 md5 f615318aec77055fb4ad156b597b5664 sha1 5765dc82243ecc01686e09544bd678d82e14a6db )
+)
+
+game (
+	name "2 Sectors - 512 Bytes Intro (1999)(Ivan Roshin)"
+	description "2 Sectors - 512 Bytes Intro (1999)(Ivan Roshin)"
+	rom ( name "2 Sectors - 512 Bytes Intro (1999)(Ivan Roshin).scl" size 4919 crc cd87a44c md5 b39f742203a2481dc0340bb7166b2da8 sha1 3d8fbe94e7d8dcbf71c4a72e25d4e755a617e2be )
+)
+
+game (
+	name "5th Element, The (1998)(Eternity Industry)"
+	description "5th Element, The (1998)(Eternity Industry)"
+	rom ( name "5th Element, The (1998)(Eternity Industry).scl" size 106807 crc 780f4d8a md5 88a7c4aa691ad17438e3d353f679f360 sha1 6b712fbda43560011f831e89da8cf9362f459f35 )
+)
+
+game (
+	name "63 Bit 3 - Lethal Dream (1999)(Accept)"
+	description "63 Bit 3 - Lethal Dream (1999)(Accept)"
+	rom ( name "63 Bit 3 - Lethal Dream (1999)(Accept).scl" size 79415 crc 2dc7391c md5 9705bd75f501e460108428e1e855f77e sha1 14e6c854abc528695463db7271d1f38a8d98f7fc )
+)
+
+game (
+	name "63 Bit 4 - No Exit (1999)(Accept)(ru)"
+	description "63 Bit 4 - No Exit (1999)(Accept)(ru)"
+	rom ( name "63 Bit 4 - No Exit (1999)(Accept)(ru).scl" size 75631 crc a7ac495e md5 bbfd78e70f10bd57e47186340adcb48d sha1 55b934be3c7d5e794a94e6c406c2ef7a20ae52d9 )
+)
+
+game (
+	name "666 (1999)(Excess Team)"
+	description "666 (1999)(Excess Team)"
+	rom ( name "666 (1999)(Excess Team).scl" size 64367 crc ba2b6d5b md5 35e3b16f35c4747eb31b5a7cf730eec9 sha1 71bd82303f19a5fa3dd38c59bbc60de1d3c18523 )
+)
+
+game (
+	name "7th Reality (1996)(Digital Reality)"
+	description "7th Reality (1996)(Digital Reality)"
+	rom ( name "7th Reality (1996)(Digital Reality).scl" size 158519 crc 4ae2db3d md5 343f24ee85efe0f85086930d05c0b161 sha1 af714b21b3d74a544c9b29c2ffef22883f98db61 )
+)
+
+game (
+	name "7UP (1999)(Speedway)"
+	description "7UP (1999)(Speedway)"
+	rom ( name "7UP (1999)(Speedway).scl" size 166199 crc 432fc0cf md5 f60a5bf8ae4bc08242568d8bb257db13 sha1 4fd2af56a3db8e81fde7fccfd027d8616ea8276a )
+)
+
+game (
+	name "8 Marta Gift (19xx)(-)(ru)"
+	description "8 Marta Gift (19xx)(-)(ru)"
+	rom ( name "8 Marta Gift (19xx)(-)(ru).scl" size 12315 crc 34e1c4bc md5 895e288d1502ccb25c9ca08e8521ec0f sha1 5d9939bd0cbc985e3b93ad7fc90c94105c6b7866 )
+)
+
+game (
+	name "Art Vision (1997)(Style)"
+	description "Art Vision (1997)(Style)"
+	rom ( name "Art Vision (1997)(Style).scl" size 36137 crc ed6fe505 md5 1394abe3c8db960d894b145d426f815d sha1 1a61bb483173b6c20de95b0bcdab15c09c4a9deb )
+)
+
+game (
+	name "Chaos Megademo (1996)(Andy)(ru)"
+	description "Chaos Megademo (1996)(Andy)(ru)"
+	rom ( name "Chaos Megademo (1996)(Andy)(ru).scl" size 161847 crc b106d28f md5 a32619bb315616073ffaa95c952588b2 sha1 cee63356b7b15b19eb26142ac6c4133fec00a79b )
+)
+
+game (
+	name "Dragon's Lair II Demo (1993)(Dimitry Kulikov)"
+	description "Dragon's Lair II Demo (1993)(Dimitry Kulikov)"
+	rom ( name "Dragon's Lair II Demo (1993)(Dimitry Kulikov).scl" size 40219 crc 856cb1a5 md5 d68c0fff3c9bf6a2fe632f25a5261845 sha1 412be632a9de3eb8496fd437873318a9ea30db38 )
+)
+
+game (
+	name "First (1994)(Sergei Magera)(ru)"
+	description "First (1994)(Sergei Magera)(ru)"
+	rom ( name "First (1994)(Sergei Magera)(ru).scl" size 24603 crc 324362be md5 1c91ab9948d11942b483f87de308f242 sha1 c31ab23e8bc280d3e78e2547c5913b9feb11d4ef )
+)
+
+game (
+	name "Gift for Sergius Puzzler (2002)(Jeez)(ru)"
+	description "Gift for Sergius Puzzler (2002)(Jeez)(ru)"
+	rom ( name "Gift for Sergius Puzzler (2002)(Jeez)(ru).scl" size 22811 crc acb07e68 md5 726b1ccbbd6af8f1b98a62ead95da49c sha1 3a1bebbb8085c4ee5aabe626227587064391cf42 )
+)
+
+game (
+	name "Go to Hell II (19xx)(Fritle-Six)[h]"
+	description "Go to Hell II (19xx)(Fritle-Six)[h]"
+	rom ( name "Go to Hell II (19xx)(Fritle-Six)[h].scl" size 28969 crc 7051c39f md5 4e1831e531c22268eb424352bfd89cc2 sha1 ee8978e4bef14fe08794eda7afbb47cf7285f5e5 )
+)
+
+game (
+	name "Gop-Demo (1992)(RST7)"
+	description "Gop-Demo (1992)(RST7)"
+	rom ( name "Gop-Demo (1992)(RST7).scl" size 102953 crc a04b1c46 md5 1e2fd28b397b00e1f73e403b2735b2c4 sha1 384e4707d80104fd7a3b029d7d8cc694cd0f4f45 )
+)
+
+game (
+	name "Idle Space 1 (1993)(Fire Angel Software)"
+	description "Idle Space 1 (1993)(Fire Angel Software)"
+	rom ( name "Idle Space 1 (1993)(Fire Angel Software).scl" size 19739 crc 6de16ada md5 2ec38b1ac2f0c467c3cc61f9fdbdd9bf sha1 dfadd1cce5d95456650e4697437b72fc7a443aee )
+)
+
+game (
+	name "Idle Space 2 (1993)(Fire Angel Software)"
+	description "Idle Space 2 (1993)(Fire Angel Software)"
+	rom ( name "Idle Space 2 (1993)(Fire Angel Software).scl" size 20507 crc c6525376 md5 26dbaa13352930b477d1364ffac683ba sha1 6151cd4c1082e6388588e8ec1461407c2d43ad85 )
+)
+
+game (
+	name "Increase Intro (2002)(Psycho)"
+	description "Increase Intro (2002)(Psycho)"
+	rom ( name "Increase Intro (2002)(Psycho).scl" size 4435 crc f58cb8b7 md5 8147dd8e7209373fd7f0f430c4e1655d sha1 0a1c4959665894af7d18b5ed217262c6ebf93c79 )
+)
+
+game (
+	name "Iris (1997)(Flash)(ru)"
+	description "Iris (1997)(Flash)(ru)"
+	rom ( name "Iris (1997)(Flash)(ru).scl" size 465305 crc 4af2cf9f md5 3de2698f3d1a0b5e005223335e8a47ab sha1 0242f42e8e429cac3a32c4f59f29fcfde677beb1 )
+)
+
+game (
+	name "Jaundice (2001)(-)"
+	description "Jaundice (2001)(-)"
+	rom ( name "Jaundice (2001)(-).scl" size 43817 crc 9c1b1f19 md5 9b1aca3680bf434c43de32d9a996e312 sha1 57b04ee945d76bb1448414baa06cef52ec0597aa )
+)
+
+game (
+	name "Lambada (1989)(P.P. Minio)[h]"
+	description "Lambada (1989)(P.P. Minio)[h]"
+	rom ( name "Lambada (1989)(P.P. Minio)[h].scl" size 43077 crc 1aa45735 md5 11bd1bd631c581bec68e55dad8ab638c sha1 695b2f3b0f753a67468b405e19021047a5720b3e )
+)
+
+game (
+	name "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru)"
+	description "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru)"
+	rom ( name "Leningrad 128 Animation Demo (1994)(Edlar Agaev)(ru).scl" size 55067 crc a8df7f7c md5 b09269dc21c96d3912b26c1811194f01 sha1 5902d075c2e0518ac25564750d7fe75b83a46224 )
+)
+
+game (
+	name "Logic 1 (1994)(Technotime)"
+	description "Logic 1 (1994)(Technotime)"
+	rom ( name "Logic 1 (1994)(Technotime).scl" size 41001 crc 8c0072f4 md5 65ec16fb0ca39c077849fc29f4b13504 sha1 27af99093cf273a50644fbe36729c13f5c003d4c )
+)
+
+game (
+	name "Logic 2 (1994)(Technotime)"
+	description "Logic 2 (1994)(Technotime)"
+	rom ( name "Logic 2 (1994)(Technotime).scl" size 14875 crc 7b49411c md5 283a3a5e105201512eab37047c6ef389 sha1 558a2b308a122fd53900b58deddf00f5e848fbdb )
+)
+
+game (
+	name "Lords Demo, The (1990)(The Lords)[h]"
+	description "Lords Demo, The (1990)(The Lords)[h]"
+	rom ( name "Lords Demo, The (1990)(The Lords)[h].scl" size 41541 crc 3b832157 md5 3dc367fdf38155e5278de234199c2c0d sha1 a98c6bbb87f456a6740bb0d4854ca27584eb85a6 )
+)
+
+game (
+	name "Los (2002)(Savers Alliance)(ru)"
+	description "Los (2002)(Savers Alliance)(ru)"
+	rom ( name "Los (2002)(Savers Alliance)(ru).scl" size 42821 crc f9dd0aef md5 eab00a911493a3508df97a4a2e88ed49 sha1 79c5468646417e5f81fef70d5cd1ffde5cbf3fb6 )
+)
+
+game (
+	name "Lovemaker (2002)(Skrju)"
+	description "Lovemaker (2002)(Skrju)"
+	rom ( name "Lovemaker (2002)(Skrju).scl" size 16211 crc 91a8479a md5 5e940c2732847929232d188d79d6bb03 sha1 b59048953c34ecb5dd7c4e3359968c1780243f97 )
+)
+
+game (
+	name "Paranoia (1998)(Air & Rainbow)"
+	description "Paranoia (1998)(Air & Rainbow)"
+	rom ( name "Paranoia (1998)(Air & Rainbow).scl" size 81449 crc 86be786d md5 e7b5e5c0daf176cb2ac04f476ec7592e sha1 17f2a73ded7e37df9658b2d1a1333d803b712cd4 )
+)
+
+game (
+	name "Twilight Demoparty Invitation (2002)(Savers Alliance)"
+	description "Twilight Demoparty Invitation (2002)(Savers Alliance)"
+	rom ( name "Twilight Demoparty Invitation (2002)(Savers Alliance).scl" size 14633 crc 0b401f03 md5 b4998b67f8a81df5a6c4a640c9670b8e sha1 3ee3fa0f96f4da4240273fc50c1351c8a5b13be6 )
+)
+

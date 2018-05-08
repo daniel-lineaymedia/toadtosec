@@ -1,0 +1,343 @@
+clrmamepro (
+	name "Amstrad CPC - Applications - [ROM]"
+	description "Amstrad CPC - Applications - [ROM] (TOSEC-v2009-08-28)"
+	category "Amstrad CPC - Applications - [ROM]"
+	version 2009-08-28
+	author "jugaor - cbeard - Cassiel"
+)
+
+game (
+	name "Amram 2 - Sideways RAM Toolkit ROM (19xx)(Silicon Systems)[AMRAM2.ROM]"
+	description "Amram 2 - Sideways RAM Toolkit ROM (19xx)(Silicon Systems)[AMRAM2.ROM]"
+	rom ( name "Amram 2 - Sideways RAM Toolkit ROM (19xx)(Silicon Systems)[AMRAM2.ROM].rom" size 16384 crc 286b048a md5 6bc5333e3a819b3c2a9fa28aae9ce5ca )
+)
+
+game (
+	name "Amstrad EPROM Programmer (19xx)(Fleet Microsystems - F. Kup)[FLTEPRM.ROM]"
+	description "Amstrad EPROM Programmer (19xx)(Fleet Microsystems - F. Kup)[FLTEPRM.ROM]"
+	rom ( name "Amstrad EPROM Programmer (19xx)(Fleet Microsystems - F. Kup)[FLTEPRM.ROM].rom" size 16384 crc 5047f37b md5 13b262c6632c00f87fa4375bb8fd0f3e )
+)
+
+game (
+	name "Amstrad Toolkit v1.4 (1986)(Beebugsoft)[TOOLKIT.ROM]"
+	description "Amstrad Toolkit v1.4 (1986)(Beebugsoft)[TOOLKIT.ROM]"
+	rom ( name "Amstrad Toolkit v1.4 (1986)(Beebugsoft)[TOOLKIT.ROM].rom" size 16384 crc 923477f7 md5 1b5f3e40ebf46703a6aa0ddf17c34077 )
+)
+
+game (
+	name "Bos v2.1 (1987)(Vortex Software)[BOS21.ROM]"
+	description "Bos v2.1 (1987)(Vortex Software)[BOS21.ROM]"
+	rom ( name "Bos v2.1 (1987)(Vortex Software)[BOS21.ROM].rom" size 16384 crc 86687b14 md5 f286581eef2867de30ce7f9714bbb4bd )
+)
+
+game (
+	name "Amstrad CPC 464 BASIC (1985)(Amstrad)[BASIC.ROM]"
+	description "Amstrad CPC 464 BASIC (1985)(Amstrad)[BASIC.ROM]"
+	rom ( name "Amstrad CPC 464 BASIC (1985)(Amstrad)[BASIC.ROM].rom" size 16384 crc 7d9a3bac md5 f7f3b668537b135dd42195e76c5d490e )
+)
+
+game (
+	name "Amstrad CPC 464+ and 6128+ BASIC (1991)(Amstrad)[BASIC.ROM]"
+	description "Amstrad CPC 464+ and 6128+ BASIC (1991)(Amstrad)[BASIC.ROM]"
+	rom ( name "Amstrad CPC 464+ and 6128+ BASIC (1991)(Amstrad)[BASIC.ROM].rom" size 16384 crc c0cb1145 md5 8ec3f0906553dd5b4d7687b54db5953b )
+)
+
+game (
+	name "Amstrad CPC 6128 BASIC (1985)(Amstrad)(es)[BASIC.ROM]"
+	description "Amstrad CPC 6128 BASIC (1985)(Amstrad)(es)[BASIC.ROM]"
+	rom ( name "Amstrad CPC 6128 BASIC (1985)(Amstrad)(es)[BASIC.ROM].rom" size 16384 crc b6e4acd2 md5 8ba59e3889b049430e51b774c3b5d7e5 )
+)
+
+game (
+	name "Amstrad CPC 6128 BASIC (1985)(Amstrad)(fr)[FBASIC.ROM]"
+	description "Amstrad CPC 6128 BASIC (1985)(Amstrad)(fr)[FBASIC.ROM]"
+	rom ( name "Amstrad CPC 6128 BASIC (1985)(Amstrad)(fr)[FBASIC.ROM].rom" size 16384 crc 4ff8190c md5 21509a8c20e3f6d96f21af895b4ac632 )
+)
+
+game (
+	name "Amstrad CPC 6128 BASIC (1986)(Amstrad)[BASIC.ROM]"
+	description "Amstrad CPC 6128 BASIC (1986)(Amstrad)[BASIC.ROM]"
+	rom ( name "Amstrad CPC 6128 BASIC (1986)(Amstrad)[BASIC.ROM].rom" size 16384 crc ca6af63d md5 2cc1ba759f835c98a480a152d786b877 )
+)
+
+game (
+	name "Amstrad CPC 664 BASIC (1985)(Amstrad)[BASIC.ROM]"
+	description "Amstrad CPC 664 BASIC (1985)(Amstrad)[BASIC.ROM]"
+	rom ( name "Amstrad CPC 664 BASIC (1985)(Amstrad)[BASIC.ROM].rom" size 16384 crc 32fee492 md5 d81ab6eb0fa175124329bf56eec0a272 )
+)
+
+game (
+	name "CPM Accessory ROM 1 (1988)(Graduate Software)[CPMACC1.ROM]"
+	description "CPM Accessory ROM 1 (1988)(Graduate Software)[CPMACC1.ROM]"
+	rom ( name "CPM Accessory ROM 1 (1988)(Graduate Software)[CPMACC1.ROM].rom" size 16384 crc 3bdfdf2d md5 2bf44fa16fe1c3ee8d1ba523a726c6a9 )
+)
+
+game (
+	name "Cage Comms v1.1 (19xx)(D. Gorski - I. Hoare)[CAGE11.ROM]"
+	description "Cage Comms v1.1 (19xx)(D. Gorski - I. Hoare)[CAGE11.ROM]"
+	rom ( name "Cage Comms v1.1 (19xx)(D. Gorski - I. Hoare)[CAGE11.ROM].rom" size 16384 crc 4b8f0e42 md5 91bcce0c21b0a35dafb2c9d7dcd6467e )
+)
+
+game (
+	name "Communication Interface Unit Driver Softare 1.5 (1986)(Panda Electronics)[PIADR.ROM]"
+	description "Communication Interface Unit Driver Softare 1.5 (1986)(Panda Electronics)[PIADR.ROM]"
+	rom ( name "Communication Interface Unit Driver Softare 1.5 (1986)(Panda Electronics)[PIADR.ROM].rom" size 8192 crc d345187e md5 55a279b8a1568ae6484a75b0848fb7f0 )
+)
+
+game (
+	name "Comstar v1.25 #1 (1986)(Honeysoft - Pace)[COMSTAR1.ROM]"
+	description "Comstar v1.25 #1 (1986)(Honeysoft - Pace)[COMSTAR1.ROM]"
+	rom ( name "Comstar v1.25 #1 (1986)(Honeysoft - Pace)[COMSTAR1.ROM].rom" size 16384 crc ddcade50 md5 c1e41f458b23eb3ddcac0125271dd509 )
+)
+
+game (
+	name "Comstar v1.25 #2 (1986)(Honeysoft - Pace)[COMSTAR2.ROM]"
+	description "Comstar v1.25 #2 (1986)(Honeysoft - Pace)[COMSTAR2.ROM]"
+	rom ( name "Comstar v1.25 #2 (1986)(Honeysoft - Pace)[COMSTAR2.ROM].rom" size 16384 crc 664e788c md5 a51779ea054692cb8535b931ba0aaf8b )
+)
+
+game (
+	name "Copy Lock v6.0 (1988)(Romantic Robot UK)[COPYl60.ROM]"
+	description "Copy Lock v6.0 (1988)(Romantic Robot UK)[COPYl60.ROM]"
+	rom ( name "Copy Lock v6.0 (1988)(Romantic Robot UK)[COPYl60.ROM].rom" size 16384 crc feeef4ee md5 8bb853bdc3669e765c6218b9a8254d19 )
+)
+
+game (
+	name "Copymate+ v3.2 (1990)(Marco Vieth)(de)[COPYM32.ROM]"
+	description "Copymate+ v3.2 (1990)(Marco Vieth)(de)[COPYM32.ROM]"
+	rom ( name "Copymate+ v3.2 (1990)(Marco Vieth)(de)[COPYM32.ROM].rom" size 16384 crc 11633f36 md5 c1d3bd5a2d8fa58e6186062f451ed6e8 )
+)
+
+game (
+	name "DK'Tronics Speech ROM v1.1 (19xx)(DK'Tronics)[DKSPEECH.ROM]"
+	description "DK'Tronics Speech ROM v1.1 (19xx)(DK'Tronics)[DKSPEECH.ROM]"
+	rom ( name "DK'Tronics Speech ROM v1.1 (19xx)(DK'Tronics)[DKSPEECH.ROM].rom" size 16384 crc 4957c2f5 md5 9783aca18ce2f569936e818f9b6944e6 )
+)
+
+game (
+	name "Disc Demon v1.1 (1986)(Beebugsoft)[DDEMON.ROM]"
+	description "Disc Demon v1.1 (1986)(Beebugsoft)[DDEMON.ROM]"
+	rom ( name "Disc Demon v1.1 (1986)(Beebugsoft)[DDEMON.ROM].rom" size 16384 crc 3f8890d3 md5 bc80b8f8ae6f1f0b5709949d9421ac80 )
+)
+
+game (
+	name "Disc Power (19xx)(-)[DISCPWR.ROM]"
+	description "Disc Power (19xx)(-)[DISCPWR.ROM]"
+	rom ( name "Disc Power (19xx)(-)[DISCPWR.ROM].rom" size 16384 crc 1eb20f16 md5 12f5bda0a5d1b05e663637f1dfe861f4 )
+)
+
+game (
+	name "Discology Disccopier (1987)(Meridien Software)[DISCOLOG.ROM]"
+	description "Discology Disccopier (1987)(Meridien Software)[DISCOLOG.ROM]"
+	rom ( name "Discology Disccopier (1987)(Meridien Software)[DISCOLOG.ROM].rom" size 16384 crc b5c23549 md5 8a42dedb313b39245e48be5c60c03ceb )
+)
+
+game (
+	name "Discology Filecopier (19xx)(-)(fr)[DISCFILE.ROM]"
+	description "Discology Filecopier (19xx)(-)(fr)[DISCFILE.ROM]"
+	rom ( name "Discology Filecopier (19xx)(-)(fr)[DISCFILE.ROM].rom" size 16384 crc b8cb15dc md5 c259477af5eca8aa54e5ba20bbd29b8b )
+)
+
+game (
+	name "Discology v6.0 (19xx)(Meridien Software)[DOLOGY6.ROM]"
+	description "Discology v6.0 (19xx)(Meridien Software)[DOLOGY6.ROM]"
+	rom ( name "Discology v6.0 (19xx)(Meridien Software)[DOLOGY6.ROM].rom" size 16384 crc aa7b3c4f md5 25351d672613fc86e4cfe291c6057c7a )
+)
+
+game (
+	name "Dos Copy v1.3 and Crime v1.3 (1991)(-)[DOSCRIME.ROM][ROM v2.1]"
+	description "Dos Copy v1.3 and Crime v1.3 (1991)(-)[DOSCRIME.ROM][ROM v2.1]"
+	rom ( name "Dos Copy v1.3 and Crime v1.3 (1991)(-)[DOSCRIME.ROM][ROM v2.1].rom" size 16384 crc c2d8629e md5 2d98e873c68bc4713323196c1822511b )
+)
+
+game (
+	name "Dragon Breed ROM 1 (19xx)(Dragon Breed)[DBREED1.ROM]"
+	description "Dragon Breed ROM 1 (19xx)(Dragon Breed)[DBREED1.ROM]"
+	rom ( name "Dragon Breed ROM 1 (19xx)(Dragon Breed)[DBREED1.ROM].rom" size 16384 crc decb0867 md5 e9ca63730a6cb05e8bbaa3a8a9d1b39b )
+)
+
+game (
+	name "Extended BASIC v1.1 (1986)(John Morrison)[EXBASIC.ROM]"
+	description "Extended BASIC v1.1 (1986)(John Morrison)[EXBASIC.ROM]"
+	rom ( name "Extended BASIC v1.1 (1986)(John Morrison)[EXBASIC.ROM].rom" size 8192 crc 8f6bbc26 md5 51c33d0d1fe994ce116daff070b5cc0a )
+)
+
+game (
+	name "Hack It-Le Hackeur (19xx)(Siren Software)(en-fr)[HACKEUR.ROM]"
+	description "Hack It-Le Hackeur (19xx)(Siren Software)(en-fr)[HACKEUR.ROM]"
+	rom ( name "Hack It-Le Hackeur (19xx)(Siren Software)(en-fr)[HACKEUR.ROM].rom" size 16384 crc fcde9bc6 md5 efc9b1ff3f764caef76b3d39c5140613 )
+)
+
+game (
+	name "JL Utilities v1.2 (19xx)(JLCS)[JLUTIL12.ROM]"
+	description "JL Utilities v1.2 (19xx)(JLCS)[JLUTIL12.ROM]"
+	rom ( name "JL Utilities v1.2 (19xx)(JLCS)[JLUTIL12.ROM].rom" size 16384 crc 9efcf13b md5 d886f9e04c751ae17d9b58a8ec49fcf1 )
+)
+
+game (
+	name "JL Utilities v2.1 (19xx)(JLCS)[JLUTIL21.ROM]"
+	description "JL Utilities v2.1 (19xx)(JLCS)[JLUTIL21.ROM]"
+	rom ( name "JL Utilities v2.1 (19xx)(JLCS)[JLUTIL21.ROM].rom" size 16384 crc 96fe755c md5 db16477775c21b7d3c6aa60ac2ae3d62 )
+)
+
+game (
+	name "Jm EPROM Programmer (1985)(John Morrison)[JMPEPRM.ROM]"
+	description "Jm EPROM Programmer (1985)(John Morrison)[JMPEPRM.ROM]"
+	rom ( name "Jm EPROM Programmer (1985)(John Morrison)[JMPEPRM.ROM].rom" size 16384 crc be46df40 md5 b8cc10b74474afc16053ab8f92400321 )
+)
+
+game (
+	name "Jm Maxidos v1.2 (19xx)(Nemesis)[MAXIDOS.ROM]"
+	description "Jm Maxidos v1.2 (19xx)(Nemesis)[MAXIDOS.ROM]"
+	rom ( name "Jm Maxidos v1.2 (19xx)(Nemesis)[MAXIDOS.ROM].rom" size 12101 crc 27fe1ded md5 a6d20cf1b91ece10aef9f87fde4e4392 )
+)
+
+game (
+	name "KDS Serial Interface + Comms Pack 5 v4.2B (19xx)(KDS Electronics)[KSERIAL.ROM]"
+	description "KDS Serial Interface + Comms Pack 5 v4.2B (19xx)(KDS Electronics)[KSERIAL.ROM]"
+	rom ( name "KDS Serial Interface + Comms Pack 5 v4.2B (19xx)(KDS Electronics)[KSERIAL.ROM].rom" size 16384 crc fff63bf0 md5 f645759551059bfc84b40d908d940b05 )
+)
+
+game (
+	name "Kns ROM 6128 v1.01 (1989)(MFW)[KNSROM.ROM]"
+	description "Kns ROM 6128 v1.01 (1989)(MFW)[KNSROM.ROM]"
+	rom ( name "Kns ROM 6128 v1.01 (1989)(MFW)[KNSROM.ROM].rom" size 16384 crc 7d780ae2 md5 ce7c1ca8f5a6cfc61f6cb42f2f35edc4 )
+)
+
+game (
+	name "Lock Smith (1985)(Beebugsoft)[LOCKS.ROM]"
+	description "Lock Smith (1985)(Beebugsoft)[LOCKS.ROM]"
+	rom ( name "Lock Smith (1985)(Beebugsoft)[LOCKS.ROM].rom" size 16384 crc 5084d920 md5 e3e3d0d2b87d354c956ae374230c47c2 )
+)
+
+game (
+	name "Masterfile 128 v2.2 (1984)(Campbell Systems - GoldMark Systems)[MFILE128.ROM]"
+	description "Masterfile 128 v2.2 (1984)(Campbell Systems - GoldMark Systems)[MFILE128.ROM]"
+	rom ( name "Masterfile 128 v2.2 (1984)(Campbell Systems - GoldMark Systems)[MFILE128.ROM].rom" size 16384 crc bfaa87c0 md5 44ebaa8039d09a468204381744847a05 )
+)
+
+game (
+	name "Masterfile 464 v1.1 (1984)(Campbell Systems - Amsoft)[MFILE464.ROM]"
+	description "Masterfile 464 v1.1 (1984)(Campbell Systems - Amsoft)[MFILE464.ROM]"
+	rom ( name "Masterfile 464 v1.1 (1984)(Campbell Systems - Amsoft)[MFILE464.ROM].rom" size 16384 crc 323f210e md5 3a0c27486687e9af75c378e036ac8da2 )
+)
+
+game (
+	name "Micro Music Creator #1 (1988)(First Byte)[MMC1.ROM]"
+	description "Micro Music Creator #1 (1988)(First Byte)[MMC1.ROM]"
+	rom ( name "Micro Music Creator #1 (1988)(First Byte)[MMC1.ROM].rom" size 16384 crc 1e4ea136 md5 2f2d20c532f3a08d7f07149f8dd9c611 )
+)
+
+game (
+	name "Micro Music Creator #2 (1988)(First Byte)[MMC2.ROM]"
+	description "Micro Music Creator #2 (1988)(First Byte)[MMC2.ROM]"
+	rom ( name "Micro Music Creator #2 (1988)(First Byte)[MMC2.ROM].rom" size 16384 crc 6c7b343f md5 1ef0c8dafa1475c3fa97ac0d97342b72 )
+)
+
+game (
+	name "Micro Style ROM v2.11 (1989)(Micro Style - PotPlant Systems)[STYLE.ROM]"
+	description "Micro Style ROM v2.11 (1989)(Micro Style - PotPlant Systems)[STYLE.ROM]"
+	rom ( name "Micro Style ROM v2.11 (1989)(Micro Style - PotPlant Systems)[STYLE.ROM].rom" size 16384 crc 6b5e3307 md5 f7c0b231623fe55712928316cbd6ab88 )
+)
+
+game (
+	name "Multiface 2 (19xx)(Romantic Robot UK)[MULTFACE.ROM]"
+	description "Multiface 2 (19xx)(Romantic Robot UK)[MULTFACE.ROM]"
+	rom ( name "Multiface 2 (19xx)(Romantic Robot UK)[MULTFACE.ROM].rom" size 8192 crc f36086de md5 4c9f014e91d407cc6509fad0095ab909 )
+)
+
+game (
+	name "Nirvana v1.1 (1990)(GoldMark Systems)[NIRVANA.ROM]"
+	description "Nirvana v1.1 (1990)(GoldMark Systems)[NIRVANA.ROM]"
+	rom ( name "Nirvana v1.1 (1990)(GoldMark Systems)[NIRVANA.ROM].rom" size 16383 crc 235120e2 md5 8086b866e611514374f5cb660b346e26 )
+)
+
+game (
+	name "Nwc Utilities v1.1 (19xx)(Nwc)[NWCUTIL.ROM]"
+	description "Nwc Utilities v1.1 (19xx)(Nwc)[NWCUTIL.ROM]"
+	rom ( name "Nwc Utilities v1.1 (19xx)(Nwc)[NWCUTIL.ROM].rom" size 16384 crc fa0794ab md5 8d282b1243f0e589909fba05e34a360f )
+)
+
+game (
+	name "Odd Job v2.2 (1985)(Pride Utilities - GoldMark Systems)[ODDJOB22.ROM]"
+	description "Odd Job v2.2 (1985)(Pride Utilities - GoldMark Systems)[ODDJOB22.ROM]"
+	rom ( name "Odd Job v2.2 (1985)(Pride Utilities - GoldMark Systems)[ODDJOB22.ROM].rom" size 16384 crc b2ba61be md5 d4112df17dde28355e2e0ed00b26245a )
+)
+
+game (
+	name "Pro Skey - Procopy v1.2 and Speed Key (1990)(Nemesis)[PROSKEY.ROM]"
+	description "Pro Skey - Procopy v1.2 and Speed Key (1990)(Nemesis)[PROSKEY.ROM]"
+	rom ( name "Pro Skey - Procopy v1.2 and Speed Key (1990)(Nemesis)[PROSKEY.ROM].rom" size 16384 crc 6fc529a0 md5 9cf43af245bb9792b884407cd380d25a )
+)
+
+game (
+	name "Programmer's Toolbox v1.0a (19xx)(-)[TOOLBOX.ROM]"
+	description "Programmer's Toolbox v1.0a (19xx)(-)[TOOLBOX.ROM]"
+	rom ( name "Programmer's Toolbox v1.0a (19xx)(-)[TOOLBOX.ROM].rom" size 16384 crc 2b880481 md5 c4edb85430dcf1c328739c847325ac30 )
+)
+
+game (
+	name "Programmers Tool Box v1.2a (19xx)(-)[PT12A.ROM]"
+	description "Programmers Tool Box v1.2a (19xx)(-)[PT12A.ROM]"
+	rom ( name "Programmers Tool Box v1.2a (19xx)(-)[PT12A.ROM].rom" size 16384 crc 37f8dbcc md5 afd6c5ddd98be8b2be62b9fba49ae6bd )
+)
+
+game (
+	name "Super Power Mailing List (1985)(Micro Power)[MAIL.ROM]"
+	description "Super Power Mailing List (1985)(Micro Power)[MAIL.ROM]"
+	rom ( name "Super Power Mailing List (1985)(Micro Power)[MAIL.ROM].rom" size 16384 crc 0cc70138 md5 b33e4e00a9e8d099d96115e74c3cb88e )
+)
+
+game (
+	name "Super ROM v1.0 (1991)(Vorax)[SUPER.ROM]"
+	description "Super ROM v1.0 (1991)(Vorax)[SUPER.ROM]"
+	rom ( name "Super ROM v1.0 (1991)(Vorax)[SUPER.ROM].rom" size 16384 crc 2b146663 md5 dcf9d10a1e7dc88e8f2ef25c815e8a07 )
+)
+
+game (
+	name "Super Romplus - Auto Rom Control System v1.6 (1986)(Britannia Software)[ARCS16.ROM]"
+	description "Super Romplus - Auto Rom Control System v1.6 (1986)(Britannia Software)[ARCS16.ROM]"
+	rom ( name "Super Romplus - Auto Rom Control System v1.6 (1986)(Britannia Software)[ARCS16.ROM].rom" size 16384 crc 9e7ef185 md5 8108b05b220353d557f4c8dd95e7aa8c )
+)
+
+game (
+	name "System-X v2.1 (1985)(Pride Utilities)[SYSX21.ROM]"
+	description "System-X v2.1 (1985)(Pride Utilities)[SYSX21.ROM]"
+	rom ( name "System-X v2.1 (1985)(Pride Utilities)[SYSX21.ROM].rom" size 16384 crc eda5e818 md5 bfa1104cc305222a2b15c4a84d3d597d )
+)
+
+game (
+	name "T3m ROM (19xx)(-)[T3MROM.ROM]"
+	description "T3m ROM (19xx)(-)[T3MROM.ROM]"
+	rom ( name "T3m ROM (19xx)(-)[T3MROM.ROM].rom" size 16384 crc 6fdfe255 md5 20616170d0848d363afa35a4ac2b0e1d )
+)
+
+game (
+	name "Transmat v2.1 (1985)(Pride Utilities)[TMAT21.ROM]"
+	description "Transmat v2.1 (1985)(Pride Utilities)[TMAT21.ROM]"
+	rom ( name "Transmat v2.1 (1985)(Pride Utilities)[TMAT21.ROM].rom" size 8192 crc 38a5f5b3 md5 4f59c311341191f84ebae7e5a790c1cf )
+)
+
+game (
+	name "UNCR v2.4 - Cruncher Accessory ROM for CPM (1988)(Graduate Software)[CPMCRCH.ROM]"
+	description "UNCR v2.4 - Cruncher Accessory ROM for CPM (1988)(Graduate Software)[CPMCRCH.ROM]"
+	rom ( name "UNCR v2.4 - Cruncher Accessory ROM for CPM (1988)(Graduate Software)[CPMCRCH.ROM].rom" size 16384 crc 172c3349 md5 49757727f69c51cec73bdff42d41c623 )
+)
+
+game (
+	name "Utility Suite (19xx)(-)[ROB3ROM.ROM]"
+	description "Utility Suite (19xx)(-)[ROB3ROM.ROM]"
+	rom ( name "Utility Suite (19xx)(-)[ROB3ROM.ROM].rom" size 16384 crc cef3de4e md5 224b22e5aecd441deb3c1e3b6eccf848 )
+)
+
+game (
+	name "Vortex RAM - Expansion Card ID (19xx)(Vortex Software)(de)[VRAMID.ROM]"
+	description "Vortex RAM - Expansion Card ID (19xx)(Vortex Software)(de)[VRAMID.ROM]"
+	rom ( name "Vortex RAM - Expansion Card ID (19xx)(Vortex Software)(de)[VRAMID.ROM].rom" size 16384 crc 05459a4c md5 a00a6ff832c7fbdcfd68206912e7621c )
+)
+
+game (
+	name "XROM Eprommer v1.16 (1986)(Timatic Systems)[XROM.ROM]"
+	description "XROM Eprommer v1.16 (1986)(Timatic Systems)[XROM.ROM]"
+	rom ( name "XROM Eprommer v1.16 (1986)(Timatic Systems)[XROM.ROM].rom" size 16384 crc 507614b8 md5 9da6391ea1820cb41a08daf413a1d512 )
+)

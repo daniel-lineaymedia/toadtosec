@@ -1,0 +1,4399 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Games - [PRG]"
+	description "Commodore C16, C116 & Plus-4 - Games - [PRG] (TOSEC-v2011-03-13)"
+	category "Commodore C16, C116 & Plus-4 - Games - [PRG]"
+	version 2011-03-13
+	author "TKaos - Belgarath"
+)
+
+game (
+	name "0 and X (19xx)(-)(FW)"
+	description "0 and X (19xx)(-)(FW)"
+	rom ( name "0 and X (19xx)(-)(FW).prg" size 5606 crc 2a484304 md5 18c64f2a0cb55f79c60c613a8952d28f )
+)
+
+game (
+	name "007 (1987-02)(Commodore Welt)(DE)"
+	description "007 (1987-02)(Commodore Welt)(DE)"
+	rom ( name "007 (1987-02)(Commodore Welt)(DE).prg" size 8937 crc d1151fea md5 d5183811fcc536e6ae9405fb2b43b847 )
+)
+
+game (
+	name "1000 Miles (1984)(CBM)(US)"
+	description "1000 Miles (1984)(CBM)(US)"
+	rom ( name "1000 Miles (1984)(CBM)(US).prg" size 6203 crc f0a350fe md5 0bc3b9cfa7e483a511f5ed3d5ddaa624 )
+)
+
+game (
+	name "15'er Puzzle (1988-01)(Compute Mit)(DE)"
+	description "15'er Puzzle (1988-01)(Compute Mit)(DE)"
+	rom ( name "15'er Puzzle (1988-01)(Compute Mit)(DE).prg" size 1849 crc d5b8cc13 md5 89667c36089a9471bf30055acb999b07 )
+)
+
+game (
+	name "17 und 4 (1987-06)(Commodore Welt)(DE)"
+	description "17 und 4 (1987-06)(Commodore Welt)(DE)"
+	rom ( name "17 und 4 (1987-06)(Commodore Welt)(DE).prg" size 6585 crc dc4ff452 md5 1afc97710a1e55c266064f6b652d6b68 )
+)
+
+game (
+	name "1K-Mini-Bdash (2008)(Ian Coog)(IT)(en)(FW)"
+	description "1K-Mini-Bdash (2008)(Ian Coog)(IT)(en)(FW)"
+	rom ( name "1K-Mini-Bdash (2008)(Ian Coog)(IT)(en)(FW).prg" size 1068 crc 83139cc4 md5 bf819d6458986431930d43c98a6c08b9 )
+)
+
+game (
+	name "1K-Mini-Bdash (2008-06-29)(Stelling, Simon)(DE)(en)(FW)"
+	description "1K-Mini-Bdash (2008-06-29)(Stelling, Simon)(DE)(en)(FW)"
+	rom ( name "1K-Mini-Bdash (2008-06-29)(Stelling, Simon)(DE)(en)(FW).prg" size 1118 crc 56c1a673 md5 9f0992f12be426695351722abec0376d )
+)
+
+game (
+	name "2D Maze (1984)(Melbourne House)(GB)[b]"
+	description "2D Maze (1984)(Melbourne House)(GB)[b]"
+	rom ( name "2D Maze (1984)(Melbourne House)(GB)[b].prg" size 1704 crc 07320e49 md5 f69ab37102d677a05dad1df7d365ce06 )
+)
+
+game (
+	name "3 mal 16 (19xx)(Bergen, Peter)(DE)(FW)"
+	description "3 mal 16 (19xx)(Bergen, Peter)(DE)(FW)"
+	rom ( name "3 mal 16 (19xx)(Bergen, Peter)(DE)(FW).prg" size 8947 crc 0cecd2b3 md5 b33f2bed2590b8bb162c726de437b595 )
+)
+
+game (
+	name "3 of a Kind (19xx)(-)(FW)"
+	description "3 of a Kind (19xx)(-)(FW)"
+	rom ( name "3 of a Kind (19xx)(-)(FW).prg" size 2935 crc 5a645c97 md5 ac65db36870104ae568804182fab899d )
+)
+
+game (
+	name "3 Vetulet (1986)(Deltasoft)(HU)"
+	description "3 Vetulet (1986)(Deltasoft)(HU)"
+	rom ( name "3 Vetulet (1986)(Deltasoft)(HU).prg" size 12329 crc 0ae17865 md5 f7e427dd254a011074858972b7a3d221 )
+)
+
+game (
+	name "3D Construction Kit Demogame (19xx)(-)(FW)"
+	description "3D Construction Kit Demogame (19xx)(-)(FW)"
+	rom ( name "3D Construction Kit Demogame (19xx)(-)(FW).prg" size 32080 crc 36cfe7cc md5 f59885d9fdc4ab6807660bff0eb23982 )
+)
+
+game (
+	name "3D Ghost Chase (1987)(MicroValue)(GB)"
+	description "3D Ghost Chase (1987)(MicroValue)(GB)"
+	rom ( name "3D Ghost Chase (1987)(MicroValue)(GB).prg" size 9878 crc cdca3275 md5 3835843cef53b5f5cd67c27ebe145ab1 )
+)
+
+game (
+	name "3D Glooper (1988)(Audiogenic)(GB)"
+	description "3D Glooper (1988)(Audiogenic)(GB)"
+	rom ( name "3D Glooper (1988)(Audiogenic)(GB).prg" size 10241 crc 735c463e md5 a2f879aa46a9d4b6718a801acbb2e1fc )
+)
+
+game (
+	name "3D Glooper (1988)(Audiogenic)(GB)[cr Obelix]"
+	description "3D Glooper (1988)(Audiogenic)(GB)[cr Obelix]"
+	rom ( name "3D Glooper (1988)(Audiogenic)(GB)[cr Obelix].prg" size 7733 crc 93d27767 md5 a1a834b7a0c7eda44f116741b1b3f1f7 )
+)
+
+game (
+	name "3D Grandmaster (19xx)(Robot Software)[G3793]"
+	description "3D Grandmaster (19xx)(Robot Software)[G3793]"
+	rom ( name "3D Grandmaster (19xx)(Robot Software)[G3793].prg" size 16386 crc 191194d2 md5 544daf2e84bc0d5fd44795e72237bd25 )
+)
+
+game (
+	name "3D Irrgarten (19xx)(-)(DE)(FW)"
+	description "3D Irrgarten (19xx)(-)(DE)(FW)"
+	rom ( name "3D Irrgarten (19xx)(-)(DE)(FW).prg" size 9979 crc b6fd8c6e md5 0315c9d78463fc467f2fc245d083fd6e )
+)
+
+game (
+	name "3D Pool (1991)(Pigmy)(HU)(en)(FW)"
+	description "3D Pool (1991)(Pigmy)(HU)(en)(FW)"
+	rom ( name "3D Pool (1991)(Pigmy)(HU)(en)(FW).prg" size 13114 crc deb409b3 md5 73f746b81a39ea4ececcdca010b92057 )
+)
+
+game (
+	name "3D Pool (1991)(Pigmy)(HU)(en)(FW)[a]"
+	description "3D Pool (1991)(Pigmy)(HU)(en)(FW)[a]"
+	rom ( name "3D Pool (1991)(Pigmy)(HU)(en)(FW)[a].prg" size 13120 crc c573a478 md5 4db1ec341a5cfdaed5aee003824ad7f1 )
+)
+
+game (
+	name "3D Quasars (1986)(Solar Software)(GB)"
+	description "3D Quasars (1986)(Solar Software)(GB)"
+	rom ( name "3D Quasars (1986)(Solar Software)(GB).prg" size 12289 crc 474cd585 md5 ac8bab9f564e0a071692f4d023d2a23f )
+)
+
+game (
+	name "3D Quasars (1986)(Solar Software)(GB)[a]"
+	description "3D Quasars (1986)(Solar Software)(GB)[a]"
+	rom ( name "3D Quasars (1986)(Solar Software)(GB)[a].prg" size 12289 crc 063f6698 md5 0d209ff82f5ca17020dacbef493a77ff )
+)
+
+game (
+	name "3D Sakk (19xx)(Novotrade)(HU)"
+	description "3D Sakk (19xx)(Novotrade)(HU)"
+	rom ( name "3D Sakk (19xx)(Novotrade)(HU).prg" size 28544 crc ab7ee1dc md5 c4768037fa6b9d1bcc3e53edddb18a3d )
+)
+
+game (
+	name "3D Sakk (19xx)(Novotrade)(HU)[f]"
+	description "3D Sakk (19xx)(Novotrade)(HU)[f]"
+	rom ( name "3D Sakk (19xx)(Novotrade)(HU)[f].prg" size 16256 crc 99f681de md5 66c876436c0f76c0eb90e0cda1f029ba )
+)
+
+game (
+	name "3D Time Trek (1985)(Anirog)(GB)"
+	description "3D Time Trek (1985)(Anirog)(GB)"
+	rom ( name "3D Time Trek (1985)(Anirog)(GB).prg" size 4917 crc 32f1327d md5 568a18b9fff220c893aeba8df0e809be )
+)
+
+game (
+	name "3D Time Trek (1985)(Anirog)(GB)[G1000]"
+	description "3D Time Trek (1985)(Anirog)(GB)[G1000]"
+	rom ( name "3D Time Trek (1985)(Anirog)(GB)[G1000].prg" size 12290 crc be70aa4c md5 09be6e10fdcf37342d14ef6e54678620 )
+)
+
+game (
+	name "3x16 (19xx)(-)(DE)(FW)"
+	description "3x16 (19xx)(-)(DE)(FW)"
+	rom ( name "3x16 (19xx)(-)(DE)(FW).prg" size 4338 crc 32da5a3e md5 8709e38244648f13ca9cd280c07fa058 )
+)
+
+game (
+	name "7up Spot (1996)(Assassins)(HU)(en)(FW)"
+	description "7up Spot (1996)(Assassins)(HU)(en)(FW)"
+	rom ( name "7up Spot (1996)(Assassins)(HU)(en)(FW).prg" size 39875 crc 432246ad md5 0a8dbbefa2fd787c00d7af087fa59f47 )
+)
+
+game (
+	name "A Bolcsek Kove (1988)(Tihor, Miklos)[cr PPCS]"
+	description "A Bolcsek Kove (1988)(Tihor, Miklos)[cr PPCS]"
+	rom ( name "A Bolcsek Kove (1988)(Tihor, Miklos)[cr PPCS].prg" size 41981 crc 7973bf4c md5 57a84031ff75d0a1d1b769fe1fd9733b )
+)
+
+game (
+	name "A-07 (1987)(Braintron)(PL)(en)"
+	description "A-07 (1987)(Braintron)(PL)(en)"
+	rom ( name "A-07 (1987)(Braintron)(PL)(en).prg" size 36866 crc 2cf00650 md5 15db0d94495a5dd343d73c1d39356664 )
+)
+
+game (
+	name "A-07 (1987)(Braintron)(PL)(en)[a]"
+	description "A-07 (1987)(Braintron)(PL)(en)[a]"
+	rom ( name "A-07 (1987)(Braintron)(PL)(en)[a].prg" size 36374 crc 1d963868 md5 285292d87e5918461a37c86f50f38c85 )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(GB)(Part 1 of 2 )[SYS4992]"
+	description "Aardvark (1986)(Bug-Byte)(GB)(Part 1 of 2 )[SYS4992]"
+	rom ( name "Aardvark (1986)(Bug-Byte)(GB)(Part 1 of 2 )[SYS4992].prg" size 11394 crc 185d9ebf md5 6bc164c6da617b60f8ff13f6eab7452a )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(GB)(Part 2 of 2 )[SYS9458]"
+	description "Aardvark (1986)(Bug-Byte)(GB)(Part 2 of 2 )[SYS9458]"
+	rom ( name "Aardvark (1986)(Bug-Byte)(GB)(Part 2 of 2 )[SYS9458].prg" size 12290 crc 1b5d6240 md5 1b5703cbf82b60d93c8e78a28771c35c )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(GB)"
+	description "Aardvark (1986)(Bug-Byte)(GB)"
+	rom ( name "Aardvark (1986)(Bug-Byte)(GB).prg" size 12289 crc 51af7392 md5 36b7a8382f1d5f0b88998d5900951db9 )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(GB)[h Floppy Robby]"
+	description "Aardvark (1986)(Bug-Byte)(GB)[h Floppy Robby]"
+	rom ( name "Aardvark (1986)(Bug-Byte)(GB)[h Floppy Robby].prg" size 11503 crc af3f1afa md5 4916cde2c75bb72701398d41327c8584 )
+)
+
+game (
+	name "Aardvark (1986)(Bug-Byte)(GB)[title screen]"
+	description "Aardvark (1986)(Bug-Byte)(GB)[title screen]"
+	rom ( name "Aardvark (1986)(Bug-Byte)(GB)[title screen].prg" size 7321 crc 64fa84c9 md5 e14a1eb3caa1baa93e6d03870801d18c )
+)
+
+game (
+	name "ABC-Puzzle (19xx)(Unlimited)(DE)(FW)"
+	description "ABC-Puzzle (19xx)(Unlimited)(DE)(FW)"
+	rom ( name "ABC-Puzzle (19xx)(Unlimited)(DE)(FW).prg" size 2307 crc 2a3b8c0d md5 f64ae5670bcc76fb239d37c94f2530f6 )
+)
+
+game (
+	name "Absoluta (19xx)(HSO Software)(DE)"
+	description "Absoluta (19xx)(HSO Software)(DE)"
+	rom ( name "Absoluta (19xx)(HSO Software)(DE).prg" size 13019 crc bbf0ae81 md5 22004801d99a3457fe0771596a9a8082 )
+)
+
+game (
+	name "ACE (1985)(Cascade Games)(GB)"
+	description "ACE (1985)(Cascade Games)(GB)"
+	rom ( name "ACE (1985)(Cascade Games)(GB).prg" size 9046 crc e4ab7afa md5 c227936106e5344792a7cbca9aea3dd8 )
+)
+
+game (
+	name "ACE (1985)(Cascade Games)(GB)[cr Section 16]"
+	description "ACE (1985)(Cascade Games)(GB)[cr Section 16]"
+	rom ( name "ACE (1985)(Cascade Games)(GB)[cr Section 16].prg" size 11657 crc 58c34af0 md5 9adf2c9fc9c252039a00bdcb3d83f7af )
+)
+
+game (
+	name "ACE +4 (1986)(Cascade Games)(GB)[cr CMS - KNM]"
+	description "ACE +4 (1986)(Cascade Games)(GB)[cr CMS - KNM]"
+	rom ( name "ACE +4 (1986)(Cascade Games)(GB)[cr CMS - KNM].prg" size 47883 crc 362daf55 md5 7d1af04a1a017091b928ba674ac1e7fa )
+)
+
+game (
+	name "ACE +4 (1986)(Cascade Games)(GB)[G4800]"
+	description "ACE +4 (1986)(Cascade Games)(GB)[G4800]"
+	rom ( name "ACE +4 (1986)(Cascade Games)(GB)[G4800].prg" size 58369 crc 5c048525 md5 4aa615adf9b89b4b4df7840d507b58f1 )
+)
+
+game (
+	name "ACE 2 (1987)(Cascade Games)(GB)[cr Bitsoft]"
+	description "ACE 2 (1987)(Cascade Games)(GB)[cr Bitsoft]"
+	rom ( name "ACE 2 (1987)(Cascade Games)(GB)[cr Bitsoft].prg" size 39635 crc d05e23ab md5 0d15971e621227b2677922b463499d95 )
+)
+
+game (
+	name "ACE 2 Advanced (1992-07-16)(Bag)(HU)(en)(FW)[ACE 2 hack]"
+	description "ACE 2 Advanced (1992-07-16)(Bag)(HU)(en)(FW)[ACE 2 hack]"
+	rom ( name "ACE 2 Advanced (1992-07-16)(Bag)(HU)(en)(FW)[ACE 2 hack].prg" size 43280 crc 92c05562 md5 27a09f12fb3f1d90e2593750553a35e6 )
+)
+
+game (
+	name "Aces Up (19xx)(Thunderbirds)(GB)(FW)"
+	description "Aces Up (19xx)(Thunderbirds)(GB)(FW)"
+	rom ( name "Aces Up (19xx)(Thunderbirds)(GB)(FW).prg" size 20156 crc 9518bfd3 md5 31076cfff23e1936b0500c1f10760433 )
+)
+
+game (
+	name "Acid Flipper (1991)(Electronic Disaster Crew)(HU)(en)(FW)"
+	description "Acid Flipper (1991)(Electronic Disaster Crew)(HU)(en)(FW)"
+	rom ( name "Acid Flipper (1991)(Electronic Disaster Crew)(HU)(en)(FW).prg" size 37360 crc a9c9bfe8 md5 4073535bbb665524ebca81b7c2205e18 )
+)
+
+game (
+	name "Acidball (demo) (1995-02-21)(Gods of the Universe)(HU)(en)(FW)"
+	description "Acidball (demo) (1995-02-21)(Gods of the Universe)(HU)(en)(FW)"
+	rom ( name "Acidball (demo) (1995-02-21)(Gods of the Universe)(HU)(en)(FW).prg" size 25559 crc 7c41b220 md5 9a7a2f98fef393dd336c688b984ebfd5 )
+)
+
+game (
+	name "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB)"
+	description "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB)"
+	rom ( name "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB).prg" size 6105 crc 762989ef md5 4ab313753b335617ce96c1f19d100cfa )
+)
+
+game (
+	name "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB)[cr The Electronic Duo]"
+	description "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB)[cr The Electronic Duo]"
+	rom ( name "Ack Ack Attack (1988)(Tynesoft Computer Software)(GB)[cr The Electronic Duo].prg" size 16034 crc 91620d1d md5 13fb07c2f7de2ad63bf46b7c43612f77 )
+)
+
+game (
+	name "Action Blob (1985-05-01)(Commodore Horizons)(GB)"
+	description "Action Blob (1985-05-01)(Commodore Horizons)(GB)"
+	rom ( name "Action Blob (1985-05-01)(Commodore Horizons)(GB).prg" size 1495 crc 85300351 md5 1fac085511e8b8c8e47a30cc37932f41 )
+)
+
+game (
+	name "Action for Two (19xx)(-)(FW)"
+	description "Action for Two (19xx)(-)(FW)"
+	rom ( name "Action for Two (19xx)(-)(FW).prg" size 10078 crc 602c259a md5 a9a6f4b07aac6150901b0e9ef7cdb248 )
+)
+
+game (
+	name "Admiral (1987-08)(Compute Mit)(DE)[h KLC]"
+	description "Admiral (1987-08)(Compute Mit)(DE)[h KLC]"
+	rom ( name "Admiral (1987-08)(Compute Mit)(DE)[h KLC].prg" size 21992 crc 29ebae16 md5 9ff9af752a2c9e110de2eabeb43190e2 )
+)
+
+game (
+	name "Adventure (1987-08-01)(Edizioni Fermont)(IT)"
+	description "Adventure (1987-08-01)(Edizioni Fermont)(IT)"
+	rom ( name "Adventure (1987-08-01)(Edizioni Fermont)(IT).prg" size 7136 crc 36f05974 md5 ae97911ec8533aa5b0bbe474bfbeb32f )
+)
+
+game (
+	name "Adventure (19xx)(Schuerks, Jens - Meiswinkel, Arndt)(DE)"
+	description "Adventure (19xx)(Schuerks, Jens - Meiswinkel, Arndt)(DE)"
+	rom ( name "Adventure (19xx)(Schuerks, Jens - Meiswinkel, Arndt)(DE).prg" size 26867 crc 5b94a0ff md5 54f9013cde71a2a96a7f3795ba515465 )
+)
+
+game (
+	name "Adventure 1 (19xx)(O'Hare, John)(FW)"
+	description "Adventure 1 (19xx)(O'Hare, John)(FW)"
+	rom ( name "Adventure 1 (19xx)(O'Hare, John)(FW).prg" size 16993 crc fa7eae28 md5 4d63bf8e79633f1a841d3e066abc73c6 )
+)
+
+game (
+	name "Adventure 16 (1986)(TGS)(HU)(FW)"
+	description "Adventure 16 (1986)(TGS)(HU)(FW)"
+	rom ( name "Adventure 16 (1986)(TGS)(HU)(FW).prg" size 11550 crc 43788593 md5 9459c9791745aec5c153179eb9b70180 )
+)
+
+game (
+	name "Adventure 2 (19xx)(O'Hare, John)(FW)"
+	description "Adventure 2 (19xx)(O'Hare, John)(FW)"
+	rom ( name "Adventure 2 (19xx)(O'Hare, John)(FW).prg" size 16746 crc 85ff13cb md5 70dce6a47cfbd180c5e0528a7fa71ad1 )
+)
+
+game (
+	name "Adventure 2 (19xx)(O'Hare, John)(FW)[enhanced version]"
+	description "Adventure 2 (19xx)(O'Hare, John)(FW)[enhanced version]"
+	rom ( name "Adventure 2 (19xx)(O'Hare, John)(FW)[enhanced version].prg" size 16438 crc 3a64fea3 md5 d4f17dad110585477f0cd3a28ad5beb8 )
+)
+
+game (
+	name "Adventure 3 (19xx)(O'Hare, John)(FW)"
+	description "Adventure 3 (19xx)(O'Hare, John)(FW)"
+	rom ( name "Adventure 3 (19xx)(O'Hare, John)(FW).prg" size 21825 crc 39599b5e md5 0e7ab6bc9c03afe01547639469db9325 )
+)
+
+game (
+	name "Adventures Dream (19xx)(HSO Software)(DE)(FW)"
+	description "Adventures Dream (19xx)(HSO Software)(DE)(FW)"
+	rom ( name "Adventures Dream (19xx)(HSO Software)(DE)(FW).prg" size 12906 crc c13e0de7 md5 76bf51cd1368300e0e11ec8fbd1c3117 )
+)
+
+game (
+	name "Advinman (demo) (19xx)(-)(FW)"
+	description "Advinman (demo) (19xx)(-)(FW)"
+	rom ( name "Advinman (demo) (19xx)(-)(FW).prg" size 9840 crc f4b3fc33 md5 128a324628498f87c94a68608346bb79 )
+)
+
+game (
+	name "Affenwurf (1986-06)(Compute Mit)(DE)"
+	description "Affenwurf (1986-06)(Compute Mit)(DE)"
+	rom ( name "Affenwurf (1986-06)(Compute Mit)(DE).prg" size 4198 crc af2ef676 md5 82983c2dce8ec86f38ec618b62cc3db7 )
+)
+
+game (
+	name "AFL Boulderdash (1991)(The Great Hawk)(HU)(en)(FW)"
+	description "AFL Boulderdash (1991)(The Great Hawk)(HU)(en)(FW)"
+	rom ( name "AFL Boulderdash (1991)(The Great Hawk)(HU)(en)(FW).prg" size 31520 crc f3945ad3 md5 5ff52aa4cb2211519d49913750cf377b )
+)
+
+game (
+	name "African Adventure (19xx)(-)(FW)"
+	description "African Adventure (19xx)(-)(FW)"
+	rom ( name "African Adventure (19xx)(-)(FW).prg" size 22596 crc b4ad864e md5 70d953ae06623bc45fd757997068389b )
+)
+
+game (
+	name "African Safari (19xx)(-)(FW)"
+	description "African Safari (19xx)(-)(FW)"
+	rom ( name "African Safari (19xx)(-)(FW).prg" size 14078 crc 967864f0 md5 83c873f01e057b5d5494a2404a99090e )
+)
+
+game (
+	name "Against In The Underground (19xx)(SchinKengrell-Soft)[h Terrorists]"
+	description "Against In The Underground (19xx)(SchinKengrell-Soft)[h Terrorists]"
+	rom ( name "Against In The Underground (19xx)(SchinKengrell-Soft)[h Terrorists].prg" size 26407 crc 363ec57f md5 74833b438d75b428996cea4f8aa2ef85 )
+)
+
+game (
+	name "Agent (1989-01)(Compute Mit)(DE)"
+	description "Agent (1989-01)(Compute Mit)(DE)"
+	rom ( name "Agent (1989-01)(Compute Mit)(DE).prg" size 27902 crc 3bf8e32b md5 564b3baa5c751d34486c630deb8a1b76 )
+)
+
+game (
+	name "Air-Fire (19xx)(A.W-Soft)(DE)"
+	description "Air-Fire (19xx)(A.W-Soft)(DE)"
+	rom ( name "Air-Fire (19xx)(A.W-Soft)(DE).prg" size 1291 crc 0ebd6fcb md5 eb250f64a4a740c351dafb7fbc77ca9e )
+)
+
+game (
+	name "Airfox (19xx)(-)(FW)"
+	description "Airfox (19xx)(-)(FW)"
+	rom ( name "Airfox (19xx)(-)(FW).prg" size 7772 crc 1138e459 md5 8b7e7e2ba2af88bc66f5ea13c17c0599 )
+)
+
+game (
+	name "Airheroe (19xx)(-)(IT)(en)[G3600]"
+	description "Airheroe (19xx)(-)(IT)(en)[G3600]"
+	rom ( name "Airheroe (19xx)(-)(IT)(en)[G3600].prg" size 12289 crc d0090b38 md5 f05b0d7b51a8075a5c4e43a3944a40bd )
+)
+
+game (
+	name "Airport (1985-04-01)(D., Wolfgang)(DE)(FW)"
+	description "Airport (1985-04-01)(D., Wolfgang)(DE)(FW)"
+	rom ( name "Airport (1985-04-01)(D., Wolfgang)(DE)(FW).prg" size 1439 crc 15e963bd md5 7bd3a4c66016012131b16a9675c24880 )
+)
+
+game (
+	name "Airwolf (1985)(Angel-Soft)"
+	description "Airwolf (1985)(Angel-Soft)"
+	rom ( name "Airwolf (1985)(Angel-Soft).prg" size 7117 crc 2fa39c4e md5 26fe4aa46d2ff557a7f3111379d51b8a )
+)
+
+game (
+	name "Airwolf (1985)(Elite)(GB)"
+	description "Airwolf (1985)(Elite)(GB)"
+	rom ( name "Airwolf (1985)(Elite)(GB).prg" size 12289 crc 1e67a441 md5 682c61798435c400a3a52dba5eb11d33 )
+)
+
+game (
+	name "Airwolf (1985)(Elite)(GB)[t +1 Terminal Technics]"
+	description "Airwolf (1985)(Elite)(GB)[t +1 Terminal Technics]"
+	rom ( name "Airwolf (1985)(Elite)(GB)[t +1 Terminal Technics].prg" size 13504 crc f682798d md5 a7be2bce31b370b0720b9748966e1277 )
+)
+
+game (
+	name "Airwolf (19xx)(-)(IT)(FW)[a][battle star hack]"
+	description "Airwolf (19xx)(-)(IT)(FW)[a][battle star hack]"
+	rom ( name "Airwolf (19xx)(-)(IT)(FW)[a][battle star hack].prg" size 10875 crc 25a97be0 md5 0207c44f60998972b118205ee02b5a5a )
+)
+
+game (
+	name "Airwolf (19xx)(-)(IT)(FW)[battle star hack]"
+	description "Airwolf (19xx)(-)(IT)(FW)[battle star hack]"
+	rom ( name "Airwolf (19xx)(-)(IT)(FW)[battle star hack].prg" size 12981 crc 2711af29 md5 69a2c2a52d0694f79262ea2de2d8181c )
+)
+
+game (
+	name "Airwolf 2 (1987)(Elite)(GB)"
+	description "Airwolf 2 (1987)(Elite)(GB)"
+	rom ( name "Airwolf 2 (1987)(Elite)(GB).prg" size 10560 crc 87d7aed9 md5 01ae7883990b9ffed48c0906e1973060 )
+)
+
+game (
+	name "Airwolf 2 (1987)(Elite)(GB)[t +1 Ed-Softworx]"
+	description "Airwolf 2 (1987)(Elite)(GB)[t +1 Ed-Softworx]"
+	rom ( name "Airwolf 2 (1987)(Elite)(GB)[t +1 Ed-Softworx].prg" size 8640 crc 28ce750e md5 e1565f8ae9ec90cf36951eedc7a33d44 )
+)
+
+game (
+	name "Akasztott Ember (19xx)(-)(HU)(FW)"
+	description "Akasztott Ember (19xx)(-)(HU)(FW)"
+	rom ( name "Akasztott Ember (19xx)(-)(HU)(FW).prg" size 8883 crc f53b4a0d md5 deeddac3032fb84f2864b0b6182dc8a7 )
+)
+
+game (
+	name "Aktien-Hai (19xx)(Home-Soft)(DE)"
+	description "Aktien-Hai (19xx)(Home-Soft)(DE)"
+	rom ( name "Aktien-Hai (19xx)(Home-Soft)(DE).prg" size 11250 crc 1c2143bd md5 f0058a21024d9f0d27fbad9685ec9cda )
+)
+
+game (
+	name "Al Ladro (19xx)(Editoriale Fogila)(IT)[p]"
+	description "Al Ladro (19xx)(Editoriale Fogila)(IT)[p]"
+	rom ( name "Al Ladro (19xx)(Editoriale Fogila)(IT)[p].prg" size 12289 crc 739419b3 md5 8969464e9240c87f49a56be6bda90603 )
+)
+
+game (
+	name "Aladin (1987-04-01)(Commodore Welt)(DE)"
+	description "Aladin (1987-04-01)(Commodore Welt)(DE)"
+	rom ( name "Aladin (1987-04-01)(Commodore Welt)(DE).prg" size 9066 crc 9852cac0 md5 a2e031641ea6fad16336985b79fb1375 )
+)
+
+game (
+	name "Alex (1988)(Novotrade)(HU)"
+	description "Alex (1988)(Novotrade)(HU)"
+	rom ( name "Alex (1988)(Novotrade)(HU).prg" size 28929 crc c30b7ebc md5 cf1a60de5bafc38051eaecf3829b1d1d )
+)
+
+game (
+	name "Alien Attack (1985)(Solar Software)(GB)[SYS8446]"
+	description "Alien Attack (1985)(Solar Software)(GB)[SYS8446]"
+	rom ( name "Alien Attack (1985)(Solar Software)(GB)[SYS8446].prg" size 12289 crc 276970d3 md5 9b8c66e01421b713b40cb4316bb724f8 )
+)
+
+game (
+	name "Alien Attack (1987-01)(Commodore Welt)(DE)"
+	description "Alien Attack (1987-01)(Commodore Welt)(DE)"
+	rom ( name "Alien Attack (1987-01)(Commodore Welt)(DE).prg" size 4251 crc 4ff7a7d1 md5 39255aee274165a83ef415899d9a946a )
+)
+
+game (
+	name "Alien Invasion (1988)(Kingsoft)(DE)(en)"
+	description "Alien Invasion (1988)(Kingsoft)(DE)(en)"
+	rom ( name "Alien Invasion (1988)(Kingsoft)(DE)(en).prg" size 23469 crc aa73c142 md5 152a4d7c4786794ea2805371f65a5cdf )
+)
+
+game (
+	name "Alien Invasion (1988)(Kingsoft)(DE)(en)[t +1 BEK]"
+	description "Alien Invasion (1988)(Kingsoft)(DE)(en)[t +1 BEK]"
+	rom ( name "Alien Invasion (1988)(Kingsoft)(DE)(en)[t +1 BEK].prg" size 26993 crc 3d60aa6e md5 196c9c8ea70c22c60cfc2737afea13a7 )
+)
+
+game (
+	name "Alien Overrun (1984)(Melbourne House)(GB)"
+	description "Alien Overrun (1984)(Melbourne House)(GB)"
+	rom ( name "Alien Overrun (1984)(Melbourne House)(GB).prg" size 1961 crc 3d68008b md5 d1968e1c3ed6fe6d875f4af9d9e0ead5 )
+)
+
+game (
+	name "Alien Overrun (1984)(Melbourne House)(GB)[f]"
+	description "Alien Overrun (1984)(Melbourne House)(GB)[f]"
+	rom ( name "Alien Overrun (1984)(Melbourne House)(GB)[f].prg" size 1961 crc a086aa68 md5 ac9d3c6380854a6f1708f59573c0566e )
+)
+
+game (
+	name "Aliens (1987)(Electric Dreams)(GB)"
+	description "Aliens (1987)(Electric Dreams)(GB)"
+	rom ( name "Aliens (1987)(Electric Dreams)(GB).prg" size 11846 crc 24c658fb md5 210987e1aa843acd977a1f1b05a91f8b )
+)
+
+game (
+	name "Aliens (1987)(Electric Dreams)(GB)[cr]"
+	description "Aliens (1987)(Electric Dreams)(GB)[cr]"
+	rom ( name "Aliens (1987)(Electric Dreams)(GB)[cr].prg" size 15446 crc 6087821c md5 6c63c9f523af5379ea46a21d553db07a )
+)
+
+game (
+	name "Aliens (1987)(Electric Dreams)(GB)[t +1 Coby]"
+	description "Aliens (1987)(Electric Dreams)(GB)[t +1 Coby]"
+	rom ( name "Aliens (1987)(Electric Dreams)(GB)[t +1 Coby].prg" size 13914 crc b8ac45d2 md5 f1c30d09cc62be9bb4dbb421c65fcb28 )
+)
+
+game (
+	name "Alligator Swamp (2008-10-05)(Unlimited)(DE)(FW)"
+	description "Alligator Swamp (2008-10-05)(Unlimited)(DE)(FW)"
+	rom ( name "Alligator Swamp (2008-10-05)(Unlimited)(DE)(FW).prg" size 4757 crc 3094ee29 md5 69cd370115bbd069dcef65f14566fc7c )
+)
+
+game (
+	name "Almacska (19xx)(LEH)(HU)(FW)"
+	description "Almacska (19xx)(LEH)(HU)(FW)"
+	rom ( name "Almacska (19xx)(LEH)(HU)(FW).prg" size 8274 crc fbc5a9bf md5 7a405d1d31c022ead6b8ec9b7c95db57 )
+)
+
+game (
+	name "Almatura (1987)(Novotrade)(HU)"
+	description "Almatura (1987)(Novotrade)(HU)"
+	rom ( name "Almatura (1987)(Novotrade)(HU).prg" size 8350 crc 86e913fe md5 49df1dc382574a56d199ab87f5cecded )
+)
+
+game (
+	name "Alom Edes Alom (1990)(Winnetou)(HU)(FW)"
+	description "Alom Edes Alom (1990)(Winnetou)(HU)(FW)"
+	rom ( name "Alom Edes Alom (1990)(Winnetou)(HU)(FW).prg" size 23623 crc 4175fff8 md5 898d674e2a66f3d5ad91f1a1e8ef2bcd )
+)
+
+game (
+	name "Alpha Jet (1986)(Valentine Soft)(DE)(en)"
+	description "Alpha Jet (1986)(Valentine Soft)(DE)(en)"
+	rom ( name "Alpha Jet (1986)(Valentine Soft)(DE)(en).prg" size 10441 crc 77864af5 md5 dcc06892120c2d6c1cf70374e332eae0 )
+)
+
+game (
+	name "Alpha Moonbase (1986)(Kosa, Zoltan)(HU)(FW)"
+	description "Alpha Moonbase (1986)(Kosa, Zoltan)(HU)(FW)"
+	rom ( name "Alpha Moonbase (1986)(Kosa, Zoltan)(HU)(FW).prg" size 2435 crc cb608350 md5 9b7652207791427dc25baa48ac229b9f )
+)
+
+game (
+	name "Ambush! (1980)(Bayman, Phil)(FW)"
+	description "Ambush! (1980)(Bayman, Phil)(FW)"
+	rom ( name "Ambush! (1980)(Bayman, Phil)(FW).prg" size 3372 crc 50169fdf md5 6dc07aecbddf09889effd08f58766ee0 )
+)
+
+game (
+	name "Amerikai Kocka (19xx)(-)(HU)"
+	description "Amerikai Kocka (19xx)(-)(HU)"
+	rom ( name "Amerikai Kocka (19xx)(-)(HU).prg" size 15500 crc 25afe137 md5 022ca1beadc8580752959fe78cc5f40c )
+)
+
+game (
+	name "Amoba (1986)(City Software)(HU)"
+	description "Amoba (1986)(City Software)(HU)"
+	rom ( name "Amoba (1986)(City Software)(HU).prg" size 12288 crc 0ea32bc8 md5 8aad4c6faf77a39ca790aae95dec0a83 )
+)
+
+game (
+	name "Amoba (1992)(The Punk Software House)(HU)(en)(FW)"
+	description "Amoba (1992)(The Punk Software House)(HU)(en)(FW)"
+	rom ( name "Amoba (1992)(The Punk Software House)(HU)(en)(FW).prg" size 25280 crc 7580bc4f md5 83da867fa614e2697808e0ca0246fd41 )
+)
+
+game (
+	name "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW)"
+	description "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW)"
+	rom ( name "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW).prg" size 25120 crc a1cada4c md5 23241bab7db05642dba3b0e0c0ca0780 )
+)
+
+game (
+	name "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW)[a]"
+	description "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW)[a]"
+	rom ( name "Amoba (1992-01-27)(Electronic Dissaster Crew)(HU)(en)(FW)[a].prg" size 25120 crc 571e558c md5 7ffa65693a46b8e7ce3a9efda91e930f )
+)
+
+game (
+	name "Amoba (1995-12-01)(Scorpions)(HU)(en)(FW)"
+	description "Amoba (1995-12-01)(Scorpions)(HU)(en)(FW)"
+	rom ( name "Amoba (1995-12-01)(Scorpions)(HU)(en)(FW).prg" size 23680 crc 235dc087 md5 fa177efcc3be5c0dc7400caf8ea2ecd3 )
+)
+
+game (
+	name "Amoba (19xx)(Novotrade)(HU)"
+	description "Amoba (19xx)(Novotrade)(HU)"
+	rom ( name "Amoba (19xx)(Novotrade)(HU).prg" size 6145 crc 677accda md5 6300a1a50e4ec018bd73c8ef96564677 )
+)
+
+game (
+	name "Amoba 2 (1996)(Scorpions)(Plus4)(HU)(en)(FW)"
+	description "Amoba 2 (1996)(Scorpions)(Plus4)(HU)(en)(FW)"
+	rom ( name "Amoba 2 (1996)(Scorpions)(Plus4)(HU)(en)(FW).prg" size 28560 crc 437330ae md5 994aae4fb4d57caabdcb4d738e882603 )
+)
+
+game (
+	name "Amoba II (19xx)(-)(HU)(FW)"
+	description "Amoba II (19xx)(-)(HU)(FW)"
+	rom ( name "Amoba II (19xx)(-)(HU)(FW).prg" size 2874 crc 55efbfc9 md5 f1570ffa2e1da4e7695a04913527280e )
+)
+
+game (
+	name "Amoba Professional (19xx)(Joker)(HU)(FW)"
+	description "Amoba Professional (19xx)(Joker)(HU)(FW)"
+	rom ( name "Amoba Professional (19xx)(Joker)(HU)(FW).prg" size 28800 crc e5ed24b0 md5 464de51d83a577cbd8e19898d9df579a )
+)
+
+game (
+	name "Anaconda (1984)(Dunczewski, Wolfgang)(DE)"
+	description "Anaconda (1984)(Dunczewski, Wolfgang)(DE)"
+	rom ( name "Anaconda (1984)(Dunczewski, Wolfgang)(DE).prg" size 1851 crc 30bf391b md5 c522167b059a95126a55727b9d8f1990 )
+)
+
+game (
+	name "Android Nim (1984)(CBM)(US)"
+	description "Android Nim (1984)(CBM)(US)"
+	rom ( name "Android Nim (1984)(CBM)(US).prg" size 5751 crc 15f349b4 md5 723565eb47a2d01c511c54b7fcd34da7 )
+)
+
+game (
+	name "Andromeda (1985)(Mantra Software)(IT)[p]"
+	description "Andromeda (1985)(Mantra Software)(IT)[p]"
+	rom ( name "Andromeda (1985)(Mantra Software)(IT)[p].prg" size 6769 crc 209acfe6 md5 fadebbe9971cadd886eeb2ec36e891fb )
+)
+
+game (
+	name "Apokalipse (19xx)(Orban, Krisztian)(FW)"
+	description "Apokalipse (19xx)(Orban, Krisztian)(FW)"
+	rom ( name "Apokalipse (19xx)(Orban, Krisztian)(FW).prg" size 3861 crc 9ffdd1a2 md5 cb58a9bf6983bc7d4193d6ecd0b39cef )
+)
+
+game (
+	name "Apollo Mission (1985)(Tynesoft Computer Software)(GB)"
+	description "Apollo Mission (1985)(Tynesoft Computer Software)(GB)"
+	rom ( name "Apollo Mission (1985)(Tynesoft Computer Software)(GB).prg" size 6493 crc fabb6169 md5 3a4c181c6a56de5ea74f67f7dbe9e904 )
+)
+
+game (
+	name "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[a]"
+	description "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[a]"
+	rom ( name "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[a].prg" size 9924 crc 517c6307 md5 747e9918e26cbece7048906da1d5057a )
+)
+
+game (
+	name "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[b font]"
+	description "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[b font]"
+	rom ( name "Apollo Mission (1985)(Tynesoft Computer Software)(GB)[b font].prg" size 12288 crc 7b6663a7 md5 7d6188c11e36c386f15998ddb74155d5 )
+)
+
+game (
+	name "Arak (19xx)(Balazs, Refi)(HU)(FW)"
+	description "Arak (19xx)(Balazs, Refi)(HU)(FW)"
+	rom ( name "Arak (19xx)(Balazs, Refi)(HU)(FW).prg" size 15662 crc 9e9d7af9 md5 49a9ca0c9e651d275f7353fb8d5d0066 )
+)
+
+game (
+	name "Aranybanya (1980)(Ulbrich-Software)(HU)(FW)"
+	description "Aranybanya (1980)(Ulbrich-Software)(HU)(FW)"
+	rom ( name "Aranybanya (1980)(Ulbrich-Software)(HU)(FW).prg" size 5396 crc 58713b42 md5 0fdae1ecae48256664dadd4e6b0d968b )
+)
+
+game (
+	name "Arcade Video Classic (1990)(The Creative Fantasy System)(HU)(en)(FW)"
+	description "Arcade Video Classic (1990)(The Creative Fantasy System)(HU)(en)(FW)"
+	rom ( name "Arcade Video Classic (1990)(The Creative Fantasy System)(HU)(en)(FW).prg" size 46214 crc 41efd710 md5 03629fb53a7c9525348de116ee8090ef )
+)
+
+game (
+	name "Arca-Noid (19xx)(M&M)(FW)"
+	description "Arca-Noid (19xx)(M&M)(FW)"
+	rom ( name "Arca-Noid (19xx)(M&M)(FW).prg" size 18388 crc 4b89f0b9 md5 0fcca4e1542160a0a0c3067cf62f238d )
+)
+
+game (
+	name "Arca-Noid (19xx)(M&M)(FW)[a]"
+	description "Arca-Noid (19xx)(M&M)(FW)[a]"
+	rom ( name "Arca-Noid (19xx)(M&M)(FW)[a].prg" size 43450 crc 1bad5b8e md5 06bf4eac1af337480ccad2d7965a689b )
+)
+
+game (
+	name "Arcanoid 2 Sky (19xx)(-)(FW)"
+	description "Arcanoid 2 Sky (19xx)(-)(FW)"
+	rom ( name "Arcanoid 2 Sky (19xx)(-)(FW).prg" size 18678 crc 660cf5df md5 2cb106b58d4f868198ecbd048283b9a9 )
+)
+
+game (
+	name "Arcanoid 3 (19xx)(-)(FW)"
+	description "Arcanoid 3 (19xx)(-)(FW)"
+	rom ( name "Arcanoid 3 (19xx)(-)(FW).prg" size 19504 crc b1e7c75d md5 7edb4854327aaffd81acec71db8f9ad0 )
+)
+
+game (
+	name "Archivum (1988)(Boszik, Istvan)(HU)"
+	description "Archivum (1988)(Boszik, Istvan)(HU)"
+	rom ( name "Archivum (1988)(Boszik, Istvan)(HU).prg" size 47798 crc 42aa99ab md5 87568ca3d63580ebaa36f4beae24a6db )
+)
+
+game (
+	name "Arena 3000 (1985)(Microdeal)(GB)"
+	description "Arena 3000 (1985)(Microdeal)(GB)"
+	rom ( name "Arena 3000 (1985)(Microdeal)(GB).prg" size 6300 crc 718565f5 md5 e8cb1a7d4f0e8e4dd3aa2b99d8a4b540 )
+)
+
+game (
+	name "Arena 3000 (1985)(Microdeal)(GB)[SYS9708]"
+	description "Arena 3000 (1985)(Microdeal)(GB)[SYS9708]"
+	rom ( name "Arena 3000 (1985)(Microdeal)(GB)[SYS9708].prg" size 12289 crc 3f72ae5b md5 ee686eab5a42c66b645a74440959bced )
+)
+
+game (
+	name "Armor (19xx)(GuentherSoft-Berlin)(DE)(en)(FW)"
+	description "Armor (19xx)(GuentherSoft-Berlin)(DE)(en)(FW)"
+	rom ( name "Armor (19xx)(GuentherSoft-Berlin)(DE)(en)(FW).prg" size 12289 crc 08e1c308 md5 b64a5d0ac6a72764e446b8c42802d144 )
+)
+
+game (
+	name "Army Force (19xx)(-)(PAL)(FW)[cr Section 9]"
+	description "Army Force (19xx)(-)(PAL)(FW)[cr Section 9]"
+	rom ( name "Army Force (19xx)(-)(PAL)(FW)[cr Section 9].prg" size 7061 crc e294b6bc md5 2d02949a526eb31986022f0778bc4272 )
+)
+
+game (
+	name "Army Force (19xx)(-)(PAL)(FW)[SYS9610]"
+	description "Army Force (19xx)(-)(PAL)(FW)[SYS9610]"
+	rom ( name "Army Force (19xx)(-)(PAL)(FW)[SYS9610].prg" size 12289 crc 0d269e64 md5 be6b7c771e67e5ac0576187e66679077 )
+)
+
+game (
+	name "Aromo (1986)(Novotrade)(HU)"
+	description "Aromo (1986)(Novotrade)(HU)"
+	rom ( name "Aromo (1986)(Novotrade)(HU).prg" size 11809 crc e0edf4a4 md5 760237ce8bcb1df79ced1d4d37daa985 )
+)
+
+game (
+	name "Arrow (19xx)(CBM)(CA)"
+	description "Arrow (19xx)(CBM)(CA)"
+	rom ( name "Arrow (19xx)(CBM)(CA).prg" size 6975 crc e67e9e78 md5 bcfec58b26fc3f2bcca20d28001a6e23 )
+)
+
+game (
+	name "Arrow C16 (1985-10)(Commodore User)(GB)"
+	description "Arrow C16 (1985-10)(Commodore User)(GB)"
+	rom ( name "Arrow C16 (1985-10)(Commodore User)(GB).prg" size 1877 crc 9770c118 md5 e79e6e7c098a7327dc237897818cb05a )
+)
+
+game (
+	name "Arrow of Death (1990)(Pigmy)(HU)(en)(FW)"
+	description "Arrow of Death (1990)(Pigmy)(HU)(en)(FW)"
+	rom ( name "Arrow of Death (1990)(Pigmy)(HU)(en)(FW).prg" size 30507 crc 7967b148 md5 58dd15ddf73bc75303072e62bf0ef981 )
+)
+
+game (
+	name "Arrow of Death 2 (1990)(Pigmy)(HU)(en)(FW)"
+	description "Arrow of Death 2 (1990)(Pigmy)(HU)(en)(FW)"
+	rom ( name "Arrow of Death 2 (1990)(Pigmy)(HU)(en)(FW).prg" size 33869 crc 9aa3cf5d md5 edfa38a5ff93a17cf929136c4c94fa35 )
+)
+
+game (
+	name "Arrow Shooting (19xx)(M., Hubert)(DE)"
+	description "Arrow Shooting (19xx)(M., Hubert)(DE)"
+	rom ( name "Arrow Shooting (19xx)(M., Hubert)(DE).prg" size 3598 crc 07601387 md5 309aad392d864c683e9e76ea890ca710 )
+)
+
+game (
+	name "Arthur Noid (1988)(Alternative Software)(GB)"
+	description "Arthur Noid (1988)(Alternative Software)(GB)"
+	rom ( name "Arthur Noid (1988)(Alternative Software)(GB).prg" size 11360 crc 55e9405d md5 f91afdaf02f7d3bdf667a4f761471a3b )
+)
+
+game (
+	name "Arthur Noid (1988)(Alternative Software)(GB)[t EDS]"
+	description "Arthur Noid (1988)(Alternative Software)(GB)[t EDS]"
+	rom ( name "Arthur Noid (1988)(Alternative Software)(GB)[t EDS].prg" size 11838 crc 9988fce6 md5 dd74c087f455fa9cf270762b335fb14d )
+)
+
+game (
+	name "Arthur Noid 2 (1990)(The Great Hawk)(HU)(en)(FW)[Arthur Noid hack]"
+	description "Arthur Noid 2 (1990)(The Great Hawk)(HU)(en)(FW)[Arthur Noid hack]"
+	rom ( name "Arthur Noid 2 (1990)(The Great Hawk)(HU)(en)(FW)[Arthur Noid hack].prg" size 9554 crc 415f423a md5 52eec8b5822b53a6bfa6e8b23a20b96e )
+)
+
+game (
+	name "Arthur Noid 98 (1998-10-06)(C., Luca)(IT)(en)(FW)"
+	description "Arthur Noid 98 (1998-10-06)(C., Luca)(IT)(en)(FW)"
+	rom ( name "Arthur Noid 98 (1998-10-06)(C., Luca)(IT)(en)(FW).prg" size 12727 crc 6db9d872 md5 509c9bdc1271265d0342a20c0a70778d )
+)
+
+game (
+	name "Arthur Noid Editor (1989-07-29)(-)(HU)(FW)"
+	description "Arthur Noid Editor (1989-07-29)(-)(HU)(FW)"
+	rom ( name "Arthur Noid Editor (1989-07-29)(-)(HU)(FW).prg" size 13313 crc 5caed628 md5 9abe6e56f2b2d7b56264c6d56c7c5a20 )
+)
+
+game (
+	name "Arthur Noid Pro (1990)(Ratt)(HU)(en)(FW)[Arthur Noid hack]"
+	description "Arthur Noid Pro (1990)(Ratt)(HU)(en)(FW)[Arthur Noid hack]"
+	rom ( name "Arthur Noid Pro (1990)(Ratt)(HU)(en)(FW)[Arthur Noid hack].prg" size 13129 crc eed1bc80 md5 7fee444e60c18b57fa461d3e1ce36f9e )
+)
+
+game (
+	name "Artur Kalandjai (1988)(Stevo - Mucsi)(HU)[cr Batya]"
+	description "Artur Kalandjai (1988)(Stevo - Mucsi)(HU)[cr Batya]"
+	rom ( name "Artur Kalandjai (1988)(Stevo - Mucsi)(HU)[cr Batya].prg" size 25010 crc e7fb11f2 md5 43ea872fea23a83a7765b5ebac7be1b8 )
+)
+
+game (
+	name "Assault of the Cosmic Nipplezipps (1986)(Computronic)(DE)"
+	description "Assault of the Cosmic Nipplezipps (1986)(Computronic)(DE)"
+	rom ( name "Assault of the Cosmic Nipplezipps (1986)(Computronic)(DE).prg" size 8332 crc 09eda205 md5 33b130af49c7de83f935905a90232f20 )
+)
+
+game (
+	name "Assedio (1985-05-17)(Papersoft)(IT)[p]"
+	description "Assedio (1985-05-17)(Papersoft)(IT)[p]"
+	rom ( name "Assedio (1985-05-17)(Papersoft)(IT)[p].prg" size 2913 crc 5526049a md5 9b9419989bf26063ac49a0ea1c604bfa )
+)
+
+game (
+	name "Asterocks (19xx)(Edizioni Fermont)(IT)"
+	description "Asterocks (19xx)(Edizioni Fermont)(IT)"
+	rom ( name "Asterocks (19xx)(Edizioni Fermont)(IT).prg" size 3922 crc 8607c7ec md5 39d5d6b6e07fc77c10760ef059e33de5 )
+)
+
+game (
+	name "Asteroid (1987-09-15)(Many Clever Boys)(HU)"
+	description "Asteroid (1987-09-15)(Many Clever Boys)(HU)"
+	rom ( name "Asteroid (1987-09-15)(Many Clever Boys)(HU).prg" size 8872 crc 7e10298e md5 32da7910cf061fceb0dc593948be3754 )
+)
+
+game (
+	name "Astral Attack (1986)(Condor Soft)(IT)(en)(FW)"
+	description "Astral Attack (1986)(Condor Soft)(IT)(en)(FW)"
+	rom ( name "Astral Attack (1986)(Condor Soft)(IT)(en)(FW).prg" size 4995 crc 9ee21755 md5 baa845db16424f6443c77af22868392a )
+)
+
+game (
+	name "Astrapede (19xx)(Astralog)"
+	description "Astrapede (19xx)(Astralog)"
+	rom ( name "Astrapede (19xx)(Astralog).prg" size 5301 crc c51c04f1 md5 4fa490399ebed79299c1e94d487c2861 )
+)
+
+game (
+	name "Astro Dif (19xx)(-)(IT)[p]"
+	description "Astro Dif (19xx)(-)(IT)[p]"
+	rom ( name "Astro Dif (19xx)(-)(IT)[p].prg" size 12288 crc e33985a4 md5 5d12dd8dc0342b35cbd49b2905bfa715 )
+)
+
+game (
+	name "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software]"
+	description "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software]"
+	rom ( name "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software].prg" size 12290 crc 723c7991 md5 36b20b9c25af7dbfafb98bc8b63c7c7c )
+)
+
+game (
+	name "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software][a]"
+	description "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software][a]"
+	rom ( name "Astro Plumber (1985)(Blue Ribbon Software)(GB)[h Wise Owl Software][a].prg" size 12289 crc 2e1af2de md5 d7331316083ac2c20d2b20cf1716736d )
+)
+
+game (
+	name "Astroid Belt (1985)(Bug Byte)(GB)[SYS11739]"
+	description "Astroid Belt (1985)(Bug Byte)(GB)[SYS11739]"
+	rom ( name "Astroid Belt (1985)(Bug Byte)(GB)[SYS11739].prg" size 9850 crc e1282477 md5 141a27f5253a294b8d743e401616b419 )
+)
+
+game (
+	name "ATA (1992)(Greyrat)(DE)(en)(FW)"
+	description "ATA (1992)(Greyrat)(DE)(en)(FW)"
+	rom ( name "ATA (1992)(Greyrat)(DE)(en)(FW).prg" size 15648 crc 39052583 md5 df5f833055317bc14b5c115f9229497e )
+)
+
+game (
+	name "ATA (1992)(Greyrat)(DE)(en)(FW)[h The Dream Co-op]"
+	description "ATA (1992)(Greyrat)(DE)(en)(FW)[h The Dream Co-op]"
+	rom ( name "ATA (1992)(Greyrat)(DE)(en)(FW)[h The Dream Co-op].prg" size 18240 crc ed219f44 md5 d0a5103e5d5e856e935fdbecf28f1494 )
+)
+
+game (
+	name "ATA (199x)(-)(NTSC)(FW)"
+	description "ATA (199x)(-)(NTSC)(FW)"
+	rom ( name "ATA (199x)(-)(NTSC)(FW).prg" size 15860 crc cd103286 md5 4dfcac34d07459f856e6833bfcacf743 )
+)
+
+game (
+	name "Atari Golf (19xx)(Moldi)(HU)(FW)"
+	description "Atari Golf (19xx)(Moldi)(HU)(FW)"
+	rom ( name "Atari Golf (19xx)(Moldi)(HU)(FW).prg" size 5620 crc 1a3c69a0 md5 9db88237460eb71fedf28254f91f56fb )
+)
+
+game (
+	name "Atlantic Patrol (19xx)(-)(DE)(FW)"
+	description "Atlantic Patrol (19xx)(-)(DE)(FW)"
+	rom ( name "Atlantic Patrol (19xx)(-)(DE)(FW).prg" size 6565 crc d3ecc952 md5 58667bc20d7922214d42725b937f0bb9 )
+)
+
+game (
+	name "Atlantik Krieg (1986-11)(Commodore Welt)(DE)"
+	description "Atlantik Krieg (1986-11)(Commodore Welt)(DE)"
+	rom ( name "Atlantik Krieg (1986-11)(Commodore Welt)(DE).prg" size 6148 crc db1c868a md5 07c19bb7bdaeda927978efa8baf65325 )
+)
+
+game (
+	name "Atlantik Krieg II (19xx)(-)(DE)(FW)"
+	description "Atlantik Krieg II (19xx)(-)(DE)(FW)"
+	rom ( name "Atlantik Krieg II (19xx)(-)(DE)(FW).prg" size 45547 crc b4cdbaea md5 9669910de574f8593b951cd05d280ff9 )
+)
+
+game (
+	name "Atlantis (1985)(Anirog)(GB)"
+	description "Atlantis (1985)(Anirog)(GB)"
+	rom ( name "Atlantis (1985)(Anirog)(GB).prg" size 9937 crc 83b216f8 md5 1032858e9ebbfb126838f10dc9c7644b )
+)
+
+game (
+	name "Atlantis (1985)(Anirog)(GB)[a]"
+	description "Atlantis (1985)(Anirog)(GB)[a]"
+	rom ( name "Atlantis (1985)(Anirog)(GB)[a].prg" size 14433 crc 1db0a55c md5 0567afa3b66a34a2970445b02c5d8478 )
+)
+
+game (
+	name "Atlantis (1985)(Anirog)(GB)[cr Bramasoft Cracker Service]"
+	description "Atlantis (1985)(Anirog)(GB)[cr Bramasoft Cracker Service]"
+	rom ( name "Atlantis (1985)(Anirog)(GB)[cr Bramasoft Cracker Service].prg" size 12052 crc 18006c75 md5 cebc856fc9792e5ef9dc1f9d0ed89023 )
+)
+
+game (
+	name "Atom Man (19xx)(Astralog)[b]"
+	description "Atom Man (19xx)(Astralog)[b]"
+	rom ( name "Atom Man (19xx)(Astralog)[b].prg" size 4859 crc 91822647 md5 6ae27c319d9099442f47d8fddfe177be )
+)
+
+game (
+	name "Atomic (19xx)(-)(DE)(FW)"
+	description "Atomic (19xx)(-)(DE)(FW)"
+	rom ( name "Atomic (19xx)(-)(DE)(FW).prg" size 6235 crc e4a4d8c3 md5 65bcc0591b816fa220e5ad121b5714cb )
+)
+
+game (
+	name "Atomic Mission (1984)(CBM)[b]"
+	description "Atomic Mission (1984)(CBM)[b]"
+	rom ( name "Atomic Mission (1984)(CBM)[b].prg" size 16386 crc fc68dc9c md5 75a4dbe8a449c6fe6baac023b548428e )
+)
+
+game (
+	name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)"
+	description "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)"
+	rom ( name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW).prg" size 33411 crc d64d4755 md5 b394ddb034a28dc07aa38fd353b4f9c1 )
+)
+
+game (
+	name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[f sfx TMCH][t +1 TMCH]"
+	description "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[f sfx TMCH][t +1 TMCH]"
+	rom ( name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[f sfx TMCH][t +1 TMCH].prg" size 22042 crc ad78cdd9 md5 4ca42c052f5aaf875e3049dca7c2c04b )
+)
+
+game (
+	name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[m SID]"
+	description "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[m SID]"
+	rom ( name "Atomix (1990-07-22)(VHS Team)(HU)(en)(FW)[m SID].prg" size 40329 crc 270192c4 md5 2bc819845fc11c268847dd837ec5722c )
+)
+
+game (
+	name "Attack of the Mutant Camels (19xx)(Hecht, Ulrich)"
+	description "Attack of the Mutant Camels (19xx)(Hecht, Ulrich)"
+	rom ( name "Attack of the Mutant Camels (19xx)(Hecht, Ulrich).prg" size 8043 crc 42951599 md5 84b1f9540cad011c920340a442f43b95 )
+)
+
+game (
+	name "Attack of the Mutant Camels (2007-03-16)(FIRE)(IT)(en)(FW)[enhanced version]"
+	description "Attack of the Mutant Camels (2007-03-16)(FIRE)(IT)(en)(FW)[enhanced version]"
+	rom ( name "Attack of the Mutant Camels (2007-03-16)(FIRE)(IT)(en)(FW)[enhanced version].prg" size 15194 crc 2a06ff15 md5 e66212bbb83c852f49397f3ac7391a7d )
+)
+
+game (
+	name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)"
+	description "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)"
+	rom ( name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB).prg" size 9861 crc 9837bb6c md5 9892b734d7b791022930172c5ebbb4f1 )
+)
+
+game (
+	name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven]"
+	description "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven]"
+	rom ( name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven].prg" size 14624 crc 1df02cf8 md5 a9130a3bc202f36e3f7ae5c0fe2ea165 )
+)
+
+game (
+	name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven][a]"
+	description "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven][a]"
+	rom ( name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[cr The Raven][a].prg" size 13079 crc f91655aa md5 2a214d83a23bc3b3e850eb943670a10a )
+)
+
+game (
+	name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[t +2 The Pink Panther Cracker]"
+	description "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[t +2 The Pink Panther Cracker]"
+	rom ( name "Auf Wiedersehen Monty (1987)(Gremlin Graphics)(GB)[t +2 The Pink Panther Cracker].prg" size 13425 crc ce5d9e35 md5 a508a774c5624a9b68ff733270d7c32d )
+)
+
+game (
+	name "Auriga (1986)(Players)(GB)"
+	description "Auriga (1986)(Players)(GB)"
+	rom ( name "Auriga (1986)(Players)(GB).prg" size 10150 crc 8c3ec0ae md5 29991dce68afb1c7464607695f456668 )
+)
+
+game (
+	name "Auriga (1986)(Players)(GB)[tr it]"
+	description "Auriga (1986)(Players)(GB)[tr it]"
+	rom ( name "Auriga (1986)(Players)(GB)[tr it].prg" size 10146 crc c25c872a md5 dbec2f48f1ca35cd48f7b7a6255dcf7e )
+)
+
+game (
+	name "Ausweichmanoewer (1987-10)(Compute Mit)(DE)"
+	description "Ausweichmanoewer (1987-10)(Compute Mit)(DE)"
+	rom ( name "Ausweichmanoewer (1987-10)(Compute Mit)(DE).prg" size 3490 crc 6e745958 md5 d5dea8bb2377dfc04303a1ce2a21c777 )
+)
+
+game (
+	name "Auto Mania (1984)(D., Wolfgang)(DE)(en)"
+	description "Auto Mania (1984)(D., Wolfgang)(DE)(en)"
+	rom ( name "Auto Mania (1984)(D., Wolfgang)(DE)(en).prg" size 6479 crc acbb5465 md5 85be0c0593ff2005de5e083b5460b78d )
+)
+
+game (
+	name "Auto Zone (1987)(Players)(GB)"
+	description "Auto Zone (1987)(Players)(GB)"
+	rom ( name "Auto Zone (1987)(Players)(GB).prg" size 9896 crc 3d5c1e1f md5 38ee99f784a75d3591c5d4c19a870fa9 )
+)
+
+game (
+	name "Auto Zone (1987)(Players)(GB)[t +1]"
+	description "Auto Zone (1987)(Players)(GB)[t +1]"
+	rom ( name "Auto Zone (1987)(Players)(GB)[t +1].prg" size 10263 crc 5767cb9a md5 f090a293a943363d3d724cb6434334fe )
+)
+
+game (
+	name "Auto Zone 2 (19xx)(The Cobra Soft)(FW)[Auto Zone hack]"
+	description "Auto Zone 2 (19xx)(The Cobra Soft)(FW)[Auto Zone hack]"
+	rom ( name "Auto Zone 2 (19xx)(The Cobra Soft)(FW)[Auto Zone hack].prg" size 16420 crc 39f585f0 md5 8bfb302de2e12001d6358749b0d3bbd1 )
+)
+
+game (
+	name "Auto Zone 3 (19xx)(-)(FW)[Auto Zone hack]"
+	description "Auto Zone 3 (19xx)(-)(FW)[Auto Zone hack]"
+	rom ( name "Auto Zone 3 (19xx)(-)(FW)[Auto Zone hack].prg" size 13863 crc c4ab6b57 md5 c7815f60bd5a96af1c3c04c23a01a68e )
+)
+
+game (
+	name "Autobahn (1986)(Tynesoft Computer Software)(GB)"
+	description "Autobahn (1986)(Tynesoft Computer Software)(GB)"
+	rom ( name "Autobahn (1986)(Tynesoft Computer Software)(GB).prg" size 9659 crc 2385dd08 md5 346c8b11a0350ab883c0e2b1df3f1413 )
+)
+
+game (
+	name "Autozone Editor (1988-12-17)(The Creative Fantasy System)(HU)(en)(FW)"
+	description "Autozone Editor (1988-12-17)(The Creative Fantasy System)(HU)(en)(FW)"
+	rom ( name "Autozone Editor (1988-12-17)(The Creative Fantasy System)(HU)(en)(FW).prg" size 20226 crc e1373c5c md5 16595f693d6009bccd623de94fff4c74 )
+)
+
+game (
+	name "Avontuur (1984)(Courbois, Hans)(NL)(FW)"
+	description "Avontuur (1984)(Courbois, Hans)(NL)(FW)"
+	rom ( name "Avontuur (1984)(Courbois, Hans)(NL)(FW).prg" size 18383 crc 941cb6f1 md5 30cf5ab7cf85614ca7bddf218c0da0cc )
+)
+
+game (
+	name "Avventura nei Feudi (1985)(Mantra Software)(IT)"
+	description "Avventura nei Feudi (1985)(Mantra Software)(IT)"
+	rom ( name "Avventura nei Feudi (1985)(Mantra Software)(IT).prg" size 8429 crc 7a475b05 md5 bc9b6d016030f6b92ac591f269d9bbd4 )
+)
+
+game (
+	name "Awari (19xx)(-)(HU)(FW)"
+	description "Awari (19xx)(-)(HU)(FW)"
+	rom ( name "Awari (19xx)(-)(HU)(FW).prg" size 3704 crc 615bf66c md5 c75561db3a243caa40520960f8548221 )
+)
+
+game (
+	name "Axxon (19xx)(Edizioni Fermont)(IT)(en)"
+	description "Axxon (19xx)(Edizioni Fermont)(IT)(en)"
+	rom ( name "Axxon (19xx)(Edizioni Fermont)(IT)(en).prg" size 12289 crc 80520da4 md5 f6da128a7353227e4bcdbc098bd74fa0 )
+)
+
+game (
+	name "Az Elveszett Frigylada Fosztogatoja (19xx)(-)(HU)(FW)"
+	description "Az Elveszett Frigylada Fosztogatoja (19xx)(-)(HU)(FW)"
+	rom ( name "Az Elveszett Frigylada Fosztogatoja (19xx)(-)(HU)(FW).prg" size 1353 crc 5fefd19a md5 5025fb542611a45817d03feec1f9e5fa )
+)
+
+game (
+	name "Aztec Tomb (19xx)(Pigmy)(HU)(en)(FW)"
+	description "Aztec Tomb (19xx)(Pigmy)(HU)(en)(FW)"
+	rom ( name "Aztec Tomb (19xx)(Pigmy)(HU)(en)(FW).prg" size 25906 crc dd405442 md5 dc39420a8ac8cf38df2ca342725f1644 )
+)
+
+game (
+	name "Aztek (1986-11-21)(Feszthammer, Andras)(HU)(FW)"
+	description "Aztek (1986-11-21)(Feszthammer, Andras)(HU)(FW)"
+	rom ( name "Aztek (1986-11-21)(Feszthammer, Andras)(HU)(FW).prg" size 4957 crc 1b054a86 md5 e3f84de26c7ad8740d55302d2b8d7933 )
+)
+
+game (
+	name "Baby Berks (1985)(Williams, Jon)"
+	description "Baby Berks (1985)(Williams, Jon)"
+	rom ( name "Baby Berks (1985)(Williams, Jon).prg" size 12289 crc d1080769 md5 fe39ed3818fb2e0891914f63fff6f9c1 )
+)
+
+game (
+	name "Baby Berks (1985)(Williams, Jon)[a]"
+	description "Baby Berks (1985)(Williams, Jon)[a]"
+	rom ( name "Baby Berks (1985)(Williams, Jon)[a].prg" size 6251 crc d2fb07f8 md5 93608cb6ce1fdf8af1e5d3b671fab038 )
+)
+
+game (
+	name "Ball (1996)(Scorpions)(PD)"
+	description "Ball (1996)(Scorpions)(PD)"
+	rom ( name "Ball (1996)(Scorpions)(PD).prg" size 32880 crc c80dd76b md5 98aeb60d27b5e90f3a5909d7deabadde )
+)
+
+game (
+	name "Balloon Shoot (1986)(Markert, Wolfgang)[b]"
+	description "Balloon Shoot (1986)(Markert, Wolfgang)[b]"
+	rom ( name "Balloon Shoot (1986)(Markert, Wolfgang)[b].prg" size 9264 crc 1c637196 md5 a6b04a449bc36a93c9afdc827fb455d4 )
+)
+
+game (
+	name "Ball-X (1991)(TCFS)(PD)"
+	description "Ball-X (1991)(TCFS)(PD)"
+	rom ( name "Ball-X (1991)(TCFS)(PD).prg" size 36189 crc afbb089c md5 c724f36807803c38d577984e45b6864d )
+)
+
+game (
+	name "Bandits At Zero (1986)(Mastertronic)"
+	description "Bandits At Zero (1986)(Mastertronic)"
+	rom ( name "Bandits At Zero (1986)(Mastertronic).prg" size 11143 crc 1297f3b7 md5 6c084216cfac6a6f2916ff935e57051e )
+)
+
+game (
+	name "Barbarian (1990)(Muffbusters)(Plus4)[p]"
+	description "Barbarian (1990)(Muffbusters)(Plus4)[p]"
+	rom ( name "Barbarian (1990)(Muffbusters)(Plus4)[p].prg" size 48060 crc 5729edc0 md5 1b2e02b66b140e6beab8614813390752 )
+)
+
+game (
+	name "Barbarian (1990)(SF)(Plus4)[p]"
+	description "Barbarian (1990)(SF)(Plus4)[p]"
+	rom ( name "Barbarian (1990)(SF)(Plus4)[p].prg" size 36042 crc 5bc32ded md5 a1d7c27cc8bb04703f7d00f00c75a6bb )
+)
+
+game (
+	name "Barbarian 3 (19xx)(Terrorists)[p][b]"
+	description "Barbarian 3 (19xx)(Terrorists)[p][b]"
+	rom ( name "Barbarian 3 (19xx)(Terrorists)[p][b].prg" size 41046 crc c5cfcb89 md5 dc966ecfbac394358cd3a43bf07d5d82 )
+)
+
+game (
+	name "Baseball (19xx)(-)"
+	description "Baseball (19xx)(-)"
+	rom ( name "Baseball (19xx)(-).prg" size 13040 crc de610f38 md5 67c0f4b7f5336598d551a7918644b904 )
+)
+
+game (
+	name "Baseball (19xx)(-)[a]"
+	description "Baseball (19xx)(-)[a]"
+	rom ( name "Baseball (19xx)(-)[a].prg" size 12034 crc 7c6f4842 md5 69b49dc285393dc53b9a5f250fecac43 )
+)
+
+game (
+	name "Battle (1987)(Mastertronic)"
+	description "Battle (1987)(Mastertronic)"
+	rom ( name "Battle (1987)(Mastertronic).prg" size 12289 crc 45a0afdd md5 283cbf0462c4bc1c5a14440f3186b48b )
+)
+
+game (
+	name "Battle Star (1987)(Tynesoft Computer Software)(GB)"
+	description "Battle Star (1987)(Tynesoft Computer Software)(GB)"
+	rom ( name "Battle Star (1987)(Tynesoft Computer Software)(GB).prg" size 12290 crc 4b542192 md5 8bb90ff554267f3184b846f0f3f83a87 )
+)
+
+game (
+	name "Beamphobia (1994-02-05)(GOTU)(PD)"
+	description "Beamphobia (1994-02-05)(GOTU)(PD)"
+	rom ( name "Beamphobia (1994-02-05)(GOTU)(PD).prg" size 26080 crc c3877267 md5 3c4cdedce2cf2324d22ca9495b4c0753 )
+)
+
+game (
+	name "Berks (1985)(CRL Group)"
+	description "Berks (1985)(CRL Group)"
+	rom ( name "Berks (1985)(CRL Group).prg" size 12289 crc 2c6ae504 md5 1bfab79038f253bf8051d8a41a41a1d2 )
+)
+
+game (
+	name "Berks III (1985)(CRL Group)"
+	description "Berks III (1985)(CRL Group)"
+	rom ( name "Berks III (1985)(CRL Group).prg" size 12288 crc e79ca874 md5 d0343c7d285a8ddb9e6049fe424b177e )
+)
+
+game (
+	name "Bernat A Nyomozo (1989)(Novotrade)(hu)"
+	description "Bernat A Nyomozo (1989)(Novotrade)(hu)"
+	rom ( name "Bernat A Nyomozo (1989)(Novotrade)(hu).prg" size 17449 crc 4c230e78 md5 42e07353afd2071859dfe4ed0340015b )
+)
+
+game (
+	name "Big Apple (1988)(Berger, Guido)"
+	description "Big Apple (1988)(Berger, Guido)"
+	rom ( name "Big Apple (1988)(Berger, Guido).prg" size 10290 crc 1491040d md5 eb9c826dd2491f1850933091ce47803d )
+)
+
+game (
+	name "Big Mac (1986-10-01)(Mastertronics)"
+	description "Big Mac (1986-10-01)(Mastertronics)"
+	rom ( name "Big Mac (1986-10-01)(Mastertronics).prg" size 12289 crc d49cd8ea md5 56abd01b1ab888ef5ae9be326fcd8ab8 )
+)
+
+game (
+	name "Big Mac (1986-10-01)(Mastertronics)[a]"
+	description "Big Mac (1986-10-01)(Mastertronics)[a]"
+	rom ( name "Big Mac (1986-10-01)(Mastertronics)[a].prg" size 12288 crc 25f2430e md5 7cf269cac7cd976632ec93f0efea882c )
+)
+
+game (
+	name "Bigyulabolt (1985)(Novotrade)(hu)[b]"
+	description "Bigyulabolt (1985)(Novotrade)(hu)[b]"
+	rom ( name "Bigyulabolt (1985)(Novotrade)(hu)[b].prg" size 10053 crc e3a07156 md5 45ce076c9e3c6c067cc78e9dc9337e2b )
+)
+
+game (
+	name "Bio Invaders (19xx)(Systems)"
+	description "Bio Invaders (19xx)(Systems)"
+	rom ( name "Bio Invaders (19xx)(Systems).prg" size 3873 crc a010e290 md5 3543bfb25a65d1080cf6f1ed0e60cb0c )
+)
+
+game (
+	name "Black Thunder (19xx)(Braintron)"
+	description "Black Thunder (19xx)(Braintron)"
+	rom ( name "Black Thunder (19xx)(Braintron).prg" size 6400 crc 5288026d md5 377efb785085d93a3d3a59aceacb3d53 )
+)
+
+game (
+	name "Blagger (1985)(Alligata Software)"
+	description "Blagger (1985)(Alligata Software)"
+	rom ( name "Blagger (1985)(Alligata Software).prg" size 11179 crc 47d9c069 md5 d6fbabc1c00473b5c20d535caaa8babb )
+)
+
+game (
+	name "Blaze (1985)(Romik Software)"
+	description "Blaze (1985)(Romik Software)"
+	rom ( name "Blaze (1985)(Romik Software).prg" size 9199 crc 6e157708 md5 567b37fbc7ecff07de1dd2c28e6baa1a )
+)
+
+game (
+	name "Blitz 16 (1985)(CBM)"
+	description "Blitz 16 (1985)(CBM)"
+	rom ( name "Blitz 16 (1985)(CBM).prg" size 12289 crc f880b4ba md5 81497c22e4ea889a302a6e01760f356e )
+)
+
+game (
+	name "Block Memory (1997-05-11)(Assassin)(PD)"
+	description "Block Memory (1997-05-11)(Assassin)(PD)"
+	rom ( name "Block Memory (1997-05-11)(Assassin)(PD).prg" size 27476 crc 5b87e4de md5 3e45432bb709f5fa03c115970fbd6f61 )
+)
+
+game (
+	name "Block Shoot (19xx)(NST)(PD)"
+	description "Block Shoot (19xx)(NST)(PD)"
+	rom ( name "Block Shoot (19xx)(NST)(PD).prg" size 29040 crc 3ee5d9f1 md5 8502dc4bd3acdc1d6aa5063a05a2e33d )
+)
+
+game (
+	name "Blockout (19xx)(Csory)[p]"
+	description "Blockout (19xx)(Csory)[p]"
+	rom ( name "Blockout (19xx)(Csory)[p].prg" size 26052 crc 38ed0c75 md5 7756b73a7ee4b5f9e31c4534ab30b3a6 )
+)
+
+game (
+	name "Blue Angel (1991)(Vortex)(PD)"
+	description "Blue Angel (1991)(Vortex)(PD)"
+	rom ( name "Blue Angel (1991)(Vortex)(PD).prg" size 24666 crc d25befe7 md5 9cf2b502a0debf0ca914377dc80bd27b )
+)
+
+game (
+	name "BMX Simulator (1986)(Codemasters)"
+	description "BMX Simulator (1986)(Codemasters)"
+	rom ( name "BMX Simulator (1986)(Codemasters).prg" size 14899 crc 9502d5e2 md5 fbd53a36a0a48314bf5aae4d46dd36ba )
+)
+
+game (
+	name "BMX Simulator (1986)(Codemasters)[cr N.I.K.S.]"
+	description "BMX Simulator (1986)(Codemasters)[cr N.I.K.S.]"
+	rom ( name "BMX Simulator (1986)(Codemasters)[cr N.I.K.S.].prg" size 15109 crc ed5eb7f6 md5 006de8bc4dde98526a70b62016b1d1de )
+)
+
+game (
+	name "Bobby Bearing (19xx)(Plasma + Ceekay)[p]"
+	description "Bobby Bearing (19xx)(Plasma + Ceekay)[p]"
+	rom ( name "Bobby Bearing (19xx)(Plasma + Ceekay)[p].prg" size 43350 crc c4f29e40 md5 3a6778ed6a96151fd1395456816313c4 )
+)
+
+game (
+	name "Bombjack (1986)(Elite)(Side A)"
+	description "Bombjack (1986)(Elite)(Side A)"
+	rom ( name "Bombjack (1986)(Elite)(Side A).prg" size 16385 crc f348cf21 md5 7c15abdd11f2660442502b97248e7c01 )
+)
+
+game (
+	name "Bombjack (1986)(Elite)(Side B)"
+	description "Bombjack (1986)(Elite)(Side B)"
+	rom ( name "Bombjack (1986)(Elite)(Side B).prg" size 16385 crc a7db3657 md5 2e981034c36bafcf111f20aaa3533689 )
+)
+
+game (
+	name "Bombjack II (1986)(Elite)"
+	description "Bombjack II (1986)(Elite)"
+	rom ( name "Bombjack II (1986)(Elite).prg" size 12095 crc fe3308c3 md5 a476790a363e240ce6a8e9f553bc05d9 )
+)
+
+game (
+	name "Bongo (1986)(Anco)"
+	description "Bongo (1986)(Anco)"
+	rom ( name "Bongo (1986)(Anco).prg" size 12289 crc 58578048 md5 3abc8c75bddf5ce0bfdd8604fd8ba5b7 )
+)
+
+game (
+	name "Boogieball (19xx)(Delta System)(PD)"
+	description "Boogieball (19xx)(Delta System)(PD)"
+	rom ( name "Boogieball (19xx)(Delta System)(PD).prg" size 18960 crc d84a78b9 md5 56bb13a87f1adb2fe1f26020f4379211 )
+)
+
+game (
+	name "Boogie-Woogie Spiders (1986)(Braintron)"
+	description "Boogie-Woogie Spiders (1986)(Braintron)"
+	rom ( name "Boogie-Woogie Spiders (1986)(Braintron).prg" size 28702 crc b1b4a547 md5 64b3ef4657d46928e0a7c66c44ffcbf0 )
+)
+
+game (
+	name "Boogie-Woogie Spiders (1986)(Braintron)[a]"
+	description "Boogie-Woogie Spiders (1986)(Braintron)[a]"
+	rom ( name "Boogie-Woogie Spiders (1986)(Braintron)[a].prg" size 23079 crc 0a3ed97b md5 24b2e4abe708c77a4f230d48c4f1ca37 )
+)
+
+game (
+	name "Boomber II (1993)(Delta System)(hu)(PD)"
+	description "Boomber II (1993)(Delta System)(hu)(PD)"
+	rom ( name "Boomber II (1993)(Delta System)(hu)(PD).prg" size 21200 crc 24513ef0 md5 72c1c914de75169c37d1b452d49654d1 )
+)
+
+game (
+	name "Booty (1986)(Firebird)[SYS4120]"
+	description "Booty (1986)(Firebird)[SYS4120]"
+	rom ( name "Booty (1986)(Firebird)[SYS4120].prg" size 12289 crc 8868829e md5 5996174a68e7c92590a616f4943b944a )
+)
+
+game (
+	name "Bosszu, A (19xx)(Science Fiction)(Plus4)(hu)[p]"
+	description "Bosszu, A (19xx)(Science Fiction)(Plus4)(hu)[p]"
+	rom ( name "Bosszu, A (19xx)(Science Fiction)(Plus4)(hu)[p].prg" size 44413 crc 5eef6555 md5 178f886dfa9ee8d66ac587deca040c72 )
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)"
+	description "Boulder Dash (1984)(First Star Software)"
+	rom ( name "Boulder Dash (1984)(First Star Software).prg" size 17153 crc dbdeef8b md5 d4294e7f60ac4943a1f1ad4974e4615e )
+)
+
+game (
+	name "Boulder Dash II (1985)(First Star Software)"
+	description "Boulder Dash II (1985)(First Star Software)"
+	rom ( name "Boulder Dash II (1985)(First Star Software).prg" size 27393 crc f741e4cf md5 1276cd6695d31f798b7d1075e7524a9b )
+)
+
+game (
+	name "Bounder (1986)(Gremlin Graphics)[tr it]"
+	description "Bounder (1986)(Gremlin Graphics)[tr it]"
+	rom ( name "Bounder (1986)(Gremlin Graphics)[tr it].prg" size 10184 crc 5c865972 md5 b4c1c5d3747df0091601d755ec6f872e )
+)
+
+game (
+	name "Bowling (19xx)(-)"
+	description "Bowling (19xx)(-)"
+	rom ( name "Bowling (19xx)(-).prg" size 4599 crc f22f625d md5 a24e664ad960ab99794f443c603cc247 )
+)
+
+game (
+	name "Brainfade (1992-02-01)(Skull Team)(PD)"
+	description "Brainfade (1992-02-01)(Skull Team)(PD)"
+	rom ( name "Brainfade (1992-02-01)(Skull Team)(PD).prg" size 35471 crc 800517e2 md5 96445fcf5ab34bf0be03cb31d309f20b )
+)
+
+game (
+	name "Braintech (1995)(Mayday Software)[cr Absence][b]"
+	description "Braintech (1995)(Mayday Software)[cr Absence][b]"
+	rom ( name "Braintech (1995)(Mayday Software)[cr Absence][b].prg" size 36880 crc 8e1d6cf1 md5 4763f1c425ae55f960cec5220ffc3d70 )
+)
+
+game (
+	name "Break Dance (1989)(A.C. Softgroup)(hu)[cr Headbanger Crackers]"
+	description "Break Dance (1989)(A.C. Softgroup)(hu)[cr Headbanger Crackers]"
+	rom ( name "Break Dance (1989)(A.C. Softgroup)(hu)[cr Headbanger Crackers].prg" size 18913 crc c3003951 md5 4ca7e18b6f143851b67b97cc96f5d9be )
+)
+
+game (
+	name "Break Out Construction Kit (1988)(Thomas Bohlen)"
+	description "Break Out Construction Kit (1988)(Thomas Bohlen)"
+	rom ( name "Break Out Construction Kit (1988)(Thomas Bohlen).prg" size 14594 crc bbdf3efb md5 0fcbec613a8108faf2fe2c6e70fbd4f6 )
+)
+
+game (
+	name "Brians Soccer (1987)(CDS)(Plus4)"
+	description "Brians Soccer (1987)(CDS)(Plus4)"
+	rom ( name "Brians Soccer (1987)(CDS)(Plus4).prg" size 32782 crc 8fb867b9 md5 e12495cac3586a9f2015dfdadc6f3631 )
+)
+
+game (
+	name "Bridgehead - Legionnaire 2 (1986)(Anco)"
+	description "Bridgehead - Legionnaire 2 (1986)(Anco)"
+	rom ( name "Bridgehead - Legionnaire 2 (1986)(Anco).prg" size 27910 crc fa08b5d7 md5 0beb38077a246a3fcaaab8fc4f209f0c )
+)
+
+game (
+	name "Bubble Trouble (1986)(Players)"
+	description "Bubble Trouble (1986)(Players)"
+	rom ( name "Bubble Trouble (1986)(Players).prg" size 8800 crc fab98064 md5 988705fd52ad594b904a2182f261d139 )
+)
+
+game (
+	name "Bubble Trouble (1986)(Players)[a]"
+	description "Bubble Trouble (1986)(Players)[a]"
+	rom ( name "Bubble Trouble (1986)(Players)[a].prg" size 8623 crc 03f21023 md5 3f481d629e2f58dec0eecacce4d45318 )
+)
+
+game (
+	name "Bubble Works (1990)(TCFS)(PD)"
+	description "Bubble Works (1990)(TCFS)(PD)"
+	rom ( name "Bubble Works (1990)(TCFS)(PD).prg" size 29941 crc c16490da md5 77bab2b9207626f0bcaff93fd9ef5597 )
+)
+
+game (
+	name "Bugs Bunny (1988)(Kienberger, J.)"
+	description "Bugs Bunny (1988)(Kienberger, J.)"
+	rom ( name "Bugs Bunny (1988)(Kienberger, J.).prg" size 6997 crc 0449e963 md5 ab95782fd6dffd6f1609cf1a4669ffbf )
+)
+
+game (
+	name "Burger House (1986)(Ed. Foglia)(it)"
+	description "Burger House (1986)(Ed. Foglia)(it)"
+	rom ( name "Burger House (1986)(Ed. Foglia)(it).prg" size 12289 crc 818ecaad md5 21e19787185254afc484792b6f756b87 )
+)
+
+game (
+	name "Cannon (1986)(-)"
+	description "Cannon (1986)(-)"
+	rom ( name "Cannon (1986)(-).prg" size 1494 crc 984edc36 md5 53d09a49605d7cfad910178a5b5ec19c )
+)
+
+game (
+	name "Canoe Slalom (1986)(Anco)"
+	description "Canoe Slalom (1986)(Anco)"
+	rom ( name "Canoe Slalom (1986)(Anco).prg" size 7873 crc c8eeb7cd md5 7577df26f2156ffe3a89ddb27a7ce299 )
+)
+
+game (
+	name "Captain Fizz Meets The Blaster-Trons (1990)(Muffbusters)[p]"
+	description "Captain Fizz Meets The Blaster-Trons (1990)(Muffbusters)[p]"
+	rom ( name "Captain Fizz Meets The Blaster-Trons (1990)(Muffbusters)[p].prg" size 42049 crc 23ee2b46 md5 f295c572b41ae3372498e57aa5f34e06 )
+)
+
+game (
+	name "Carnage (1994)(Scorpions)(PD)"
+	description "Carnage (1994)(Scorpions)(PD)"
+	rom ( name "Carnage (1994)(Scorpions)(PD).prg" size 16400 crc b83ef251 md5 5ec1f796e72315d6e306c67f8fb87b89 )
+)
+
+game (
+	name "Castle Master (1992)(TGMS)(en-hu)[docs]"
+	description "Castle Master (1992)(TGMS)(en-hu)[docs]"
+	rom ( name "Castle Master (1992)(TGMS)(en-hu)[docs].prg" size 9222 crc 2bedbf8b md5 966a09609beadca3e55e959960bf7c1b )
+)
+
+game (
+	name "Castle Master (1992)(TGMS)[p][b]"
+	description "Castle Master (1992)(TGMS)[p][b]"
+	rom ( name "Castle Master (1992)(TGMS)[p][b].prg" size 44747 crc 9293304d md5 51d8e23732984efdc13403d384e75f36 )
+)
+
+game (
+	name "Catacomb (1988)(-)"
+	description "Catacomb (1988)(-)"
+	rom ( name "Catacomb (1988)(-).prg" size 12067 crc 079c41ba md5 2c5b8ad337c23b1aab51a925e023c50c )
+)
+
+game (
+	name "Cave Fighter (1985)(Bubble Bus Software)(Side A)[SYS8192]"
+	description "Cave Fighter (1985)(Bubble Bus Software)(Side A)[SYS8192]"
+	rom ( name "Cave Fighter (1985)(Bubble Bus Software)(Side A)[SYS8192].prg" size 12289 crc b35cbdc3 md5 a9f686455fc7427af147965e93d5ef69 )
+)
+
+game (
+	name "Cave Fighter (1985)(Bubble Bus Software)(Side B)"
+	description "Cave Fighter (1985)(Bubble Bus Software)(Side B)"
+	rom ( name "Cave Fighter (1985)(Bubble Bus Software)(Side B).prg" size 11962 crc e5eeaee2 md5 e095661e49a56bf5e7c96a0252bd64fd )
+)
+
+game (
+	name "Cave Guennie (1990)(A-System)(PD)"
+	description "Cave Guennie (1990)(A-System)(PD)"
+	rom ( name "Cave Guennie (1990)(A-System)(PD).prg" size 15184 crc 2de1570f md5 0491710a0633d00d7047a2ace9654835 )
+)
+
+game (
+	name "Championship Chase (19xx)(Plus 4 Club)(PD)"
+	description "Championship Chase (19xx)(Plus 4 Club)(PD)"
+	rom ( name "Championship Chase (19xx)(Plus 4 Club)(PD).prg" size 44356 crc 78e6b4f0 md5 7c931523a7b3650fdf59c383717779e2 )
+)
+
+game (
+	name "Championship Wrestling (1987)(U.S. Gold)[cr HCS]"
+	description "Championship Wrestling (1987)(U.S. Gold)[cr HCS]"
+	rom ( name "Championship Wrestling (1987)(U.S. Gold)[cr HCS].prg" size 25842 crc 53ebbe15 md5 2485da67422f9a6456d59d42c7c5396d )
+)
+
+game (
+	name "Chaos (1993)(MUFF)(PD)"
+	description "Chaos (1993)(MUFF)(PD)"
+	rom ( name "Chaos (1993)(MUFF)(PD).prg" size 19631 crc 8fe71189 md5 c6ec336a40b6feb93592c56680ed66b5 )
+)
+
+game (
+	name "Chip Factory, The (1985)(Audiogenic)"
+	description "Chip Factory, The (1985)(Audiogenic)"
+	rom ( name "Chip Factory, The (1985)(Audiogenic).prg" size 12290 crc b2791735 md5 6f8e470f9a5dd034ae64b41bd27517d3 )
+)
+
+game (
+	name "Chip Factory, The (1985)(Audiogenic)[a]"
+	description "Chip Factory, The (1985)(Audiogenic)[a]"
+	rom ( name "Chip Factory, The (1985)(Audiogenic)[a].prg" size 11892 crc 0e7badd2 md5 cdc2159508ef66db61e9b1a21ce8f479 )
+)
+
+game (
+	name "Chipy (1989)(Kingsoft)[cr Obelix]"
+	description "Chipy (1989)(Kingsoft)[cr Obelix]"
+	rom ( name "Chipy (1989)(Kingsoft)[cr Obelix].prg" size 8270 crc 64bb7e6c md5 4f12057347ef842bceea0a296e7dece9 )
+)
+
+game (
+	name "Choplifter (1990)(Muffbusters)[p]"
+	description "Choplifter (1990)(Muffbusters)[p]"
+	rom ( name "Choplifter (1990)(Muffbusters)[p].prg" size 21681 crc 48f34ebb md5 a3248c166a3b74c4502b233bc688cac5 )
+)
+
+game (
+	name "Chopper War (1986)(Illusion Software)"
+	description "Chopper War (1986)(Illusion Software)"
+	rom ( name "Chopper War (1986)(Illusion Software).prg" size 12289 crc aea38043 md5 a8bbcecad3ef918f3bd5051666cbefc9 )
+)
+
+game (
+	name "Circus (1998)(Crown)[p]"
+	description "Circus (1998)(Crown)[p]"
+	rom ( name "Circus (1998)(Crown)[p].prg" size 24424 crc f5ba82e1 md5 b86a41d12dad2e4c6e6702a4f1c38c3b )
+)
+
+game (
+	name "Citadel of Chaos (1992)(FYC)(hu)(PD)"
+	description "Citadel of Chaos (1992)(FYC)(hu)(PD)"
+	rom ( name "Citadel of Chaos (1992)(FYC)(hu)(PD).prg" size 39119 crc 617e328f md5 05ef683f3d0cc25eb25ac31b2e18fa95 )
+)
+
+game (
+	name "Climb It (1984)(Tynesoft Computer Software)(GB)"
+	description "Climb It (1984)(Tynesoft Computer Software)(GB)"
+	rom ( name "Climb It (1984)(Tynesoft Computer Software)(GB).prg" size 12289 crc a4d4c474 md5 fd1d4fc7e5dd84baf5fd03fc856a1860 )
+)
+
+game (
+	name "Clowns (19xx)(-)[b]"
+	description "Clowns (19xx)(-)[b]"
+	rom ( name "Clowns (19xx)(-)[b].prg" size 8458 crc 82f444cc md5 1deb758bf019458928e7ce2e4dd11e3c )
+)
+
+game (
+	name "Coloris (1992)(Genius)(PD)"
+	description "Coloris (1992)(Genius)(PD)"
+	rom ( name "Coloris (1992)(Genius)(PD).prg" size 22784 crc ef59a427 md5 d48acfea7a291e9851b1184967d808c9 )
+)
+
+game (
+	name "Colossus Chess +4 (1985)(Bryant, M.)"
+	description "Colossus Chess +4 (1985)(Bryant, M.)"
+	rom ( name "Colossus Chess +4 (1985)(Bryant, M.).prg" size 36718 crc a3390e3f md5 78a281c945e3e12a91a8ececc4e7463f )
+)
+
+game (
+	name "Colossus Chess +4 (1985)(Bryant, M.)[a]"
+	description "Colossus Chess +4 (1985)(Bryant, M.)[a]"
+	rom ( name "Colossus Chess +4 (1985)(Bryant, M.)[a].prg" size 36719 crc b4a7ed49 md5 0349048f6bfddd68777626979a4cb9e7 )
+)
+
+game (
+	name "Columns (1992)(Synergy)[p]"
+	description "Columns (1992)(Synergy)[p]"
+	rom ( name "Columns (1992)(Synergy)[p].prg" size 17607 crc 18d0a2c7 md5 babcc8c7f16a81ad0890bd50863d1066 )
+)
+
+game (
+	name "Commando (1986)(Elite)"
+	description "Commando (1986)(Elite)"
+	rom ( name "Commando (1986)(Elite).prg" size 11025 crc 3dd8b9c9 md5 17ace3f92881c93678264a8d209f93ac )
+)
+
+game (
+	name "Commando (1992)(TCFS)(Plus4)[p]"
+	description "Commando (1992)(TCFS)(Plus4)[p]"
+	rom ( name "Commando (1992)(TCFS)(Plus4)[p].prg" size 22658 crc 5ea8fc60 md5 4e6980fed9f0f8f6a074bf23746c5f08 )
+)
+
+game (
+	name "Commando (1992)(TCFS)(Plus4)[p][a]"
+	description "Commando (1992)(TCFS)(Plus4)[p][a]"
+	rom ( name "Commando (1992)(TCFS)(Plus4)[p][a].prg" size 22658 crc b04ed388 md5 f16e5b575544328cf2f6e33bef36ff52 )
+)
+
+game (
+	name "Convoy (1987)(Colossus-Soft)"
+	description "Convoy (1987)(Colossus-Soft)"
+	rom ( name "Convoy (1987)(Colossus-Soft).prg" size 8733 crc c786a5e9 md5 0aaf0d834423b0921beefe2c76c2bfab )
+)
+
+game (
+	name "Cops N' Robbers (1986)(Atlantis Software)"
+	description "Cops N' Robbers (1986)(Atlantis Software)"
+	rom ( name "Cops N' Robbers (1986)(Atlantis Software).prg" size 12290 crc 0fe6c679 md5 ebde3c485cd93d1d1427db23c9d12a61 )
+)
+
+game (
+	name "Corman (1985)(CBM)"
+	description "Corman (1985)(CBM)"
+	rom ( name "Corman (1985)(CBM).prg" size 12288 crc 8e6cf6bf md5 28399d47e86756043d0b3699f39131c2 )
+)
+
+game (
+	name "Corman (1985)(CBM)[a]"
+	description "Corman (1985)(CBM)[a]"
+	rom ( name "Corman (1985)(CBM)[a].prg" size 12289 crc 8c8bf818 md5 e8bd423a1cb1a89246af3894fc59ee43 )
+)
+
+game (
+	name "Cosmic Terror (1986)(-)(en-de)"
+	description "Cosmic Terror (1986)(-)(en-de)"
+	rom ( name "Cosmic Terror (1986)(-)(en-de).prg" size 12289 crc a6e0a6a6 md5 2c7c12323dc697f518c95d20424ea05b )
+)
+
+game (
+	name "Cowboy Duell (1986)(-)(de)"
+	description "Cowboy Duell (1986)(-)(de)"
+	rom ( name "Cowboy Duell (1986)(-)(de).prg" size 5572 crc 6ef89548 md5 f4118ad7ff9e3bd9bdec5c7155b45e40 )
+)
+
+game (
+	name "Crackball - The Second Version (1988)(48-TPI)[p]"
+	description "Crackball - The Second Version (1988)(48-TPI)[p]"
+	rom ( name "Crackball - The Second Version (1988)(48-TPI)[p].prg" size 30012 crc 6a598ccd md5 52cc234ec74bbba52aad0cdd981dbc32 )
+)
+
+game (
+	name "Cracks of Fire (19xx)(Supersoft)"
+	description "Cracks of Fire (19xx)(Supersoft)"
+	rom ( name "Cracks of Fire (19xx)(Supersoft).prg" size 28774 crc 923fd5fb md5 fb8e28618194cf81ddb91e6411ac0781 )
+)
+
+game (
+	name "Crater (1990)(CSM)(PD)"
+	description "Crater (1990)(CSM)(PD)"
+	rom ( name "Crater (1990)(CSM)(PD).prg" size 21362 crc c137245a md5 f4566505d2fafc77b8d0c51633622b0b )
+)
+
+game (
+	name "Crazy Factory (1988)(Reinke, Carsten)(de)"
+	description "Crazy Factory (1988)(Reinke, Carsten)(de)"
+	rom ( name "Crazy Factory (1988)(Reinke, Carsten)(de).prg" size 4169 crc e70b49e3 md5 b080f7161dbd1e8c5f45dc86060bb204 )
+)
+
+game (
+	name "Crazy Golf (1984)(CBM)"
+	description "Crazy Golf (1984)(CBM)"
+	rom ( name "Crazy Golf (1984)(CBM).prg" size 5640 crc caf65407 md5 185a27929066c607672b2e5f58e18f0b )
+)
+
+game (
+	name "Crazy Tennis (1988)(Toman Zoltan)"
+	description "Crazy Tennis (1988)(Toman Zoltan)"
+	rom ( name "Crazy Tennis (1988)(Toman Zoltan).prg" size 19088 crc a67dd7af md5 8de7092ef4d614e6d3af45dedacc292f )
+)
+
+game (
+	name "Creature Crawl (19xx)(-)"
+	description "Creature Crawl (19xx)(-)"
+	rom ( name "Creature Crawl (19xx)(-).prg" size 12034 crc 787ed184 md5 de58e6d8a28243b72b487594002333db )
+)
+
+game (
+	name "Crillion (1989)(Kingsoft)[cr Obelix]"
+	description "Crillion (1989)(Kingsoft)[cr Obelix]"
+	rom ( name "Crillion (1989)(Kingsoft)[cr Obelix].prg" size 11280 crc e717c21b md5 c90006b082adba62a4a7a0b8ad8382f8 )
+)
+
+game (
+	name "Crillion (1989)(Kingsoft)[cr Obelix][a]"
+	description "Crillion (1989)(Kingsoft)[cr Obelix][a]"
+	rom ( name "Crillion (1989)(Kingsoft)[cr Obelix][a].prg" size 8729 crc ab08bac1 md5 a4907957d76472d25726a48312a53576 )
+)
+
+game (
+	name "Cross It II (1994)(Gentlemen Software)(PD)"
+	description "Cross It II (1994)(Gentlemen Software)(PD)"
+	rom ( name "Cross It II (1994)(Gentlemen Software)(PD).prg" size 23760 crc 7a2d6c96 md5 261420a316e741ee174336ded00f5c4a )
+)
+
+game (
+	name "Cruncher (1985)(Solar Software)"
+	description "Cruncher (1985)(Solar Software)"
+	rom ( name "Cruncher (1985)(Solar Software).prg" size 9208 crc ab302f47 md5 936923cfe4498b10fbc20edf4f18649f )
+)
+
+game (
+	name "Crystals (1990)(Olly)(PD)"
+	description "Crystals (1990)(Olly)(PD)"
+	rom ( name "Crystals (1990)(Olly)(PD).prg" size 16251 crc f1bf54b7 md5 8cc90255c51f964a69c71ad5e2a06ae4 )
+)
+
+game (
+	name "Csavargas A Gombak Birodalmaban (1988)(Novotrade)(hu)"
+	description "Csavargas A Gombak Birodalmaban (1988)(Novotrade)(hu)"
+	rom ( name "Csavargas A Gombak Birodalmaban (1988)(Novotrade)(hu).prg" size 53542 crc 12f9a797 md5 f40a49da5ada08622ca765fcce37a93e )
+)
+
+game (
+	name "Csillagharcos (19xx)(-)(hu)[mega zap hack]"
+	description "Csillagharcos (19xx)(-)(hu)[mega zap hack]"
+	rom ( name "Csillagharcos (19xx)(-)(hu)[mega zap hack].prg" size 11558 crc 92bd166e md5 fddab3d460414c8b316d21bb98e15d0f )
+)
+
+game (
+	name "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal)"
+	description "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal)"
+	rom ( name "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal).prg" size 8534 crc de65ac10 md5 f5f7a53d6864fef7b04a3610b543ee25 )
+)
+
+game (
+	name "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal)[a]"
+	description "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal)[a]"
+	rom ( name "Cuthbert - Enters the Tombs of Doom (1984)(Microdeal)[a].prg" size 14385 crc 30bbcad2 md5 4f6a3f2555947efd24e0eeb05312ced8 )
+)
+
+game (
+	name "Cuthbert in Space (1985)(Microdeal)"
+	description "Cuthbert in Space (1985)(Microdeal)"
+	rom ( name "Cuthbert in Space (1985)(Microdeal).prg" size 11864 crc 9070ef01 md5 9119f4b074344ac835097df3cae50946 )
+)
+
+game (
+	name "Cyber Hordes Gold (1999)(GOTU)(PD)"
+	description "Cyber Hordes Gold (1999)(GOTU)(PD)"
+	rom ( name "Cyber Hordes Gold (1999)(GOTU)(PD).prg" size 60673 crc e082b55a md5 0e95f7f288d0d0bf37a106463e08ea34 )
+)
+
+game (
+	name "Cyborg (1985)(Rino Marketing)"
+	description "Cyborg (1985)(Rino Marketing)"
+	rom ( name "Cyborg (1985)(Rino Marketing).prg" size 10907 crc e2c8f9be md5 c67f6a9c4397e5029870a3e94833c115 )
+)
+
+game (
+	name "Cyborg (1985)(Rino Marketing)[b]"
+	description "Cyborg (1985)(Rino Marketing)[b]"
+	rom ( name "Cyborg (1985)(Rino Marketing)[b].prg" size 11280 crc 1b9dfd9f md5 3e539c232aa33a82e1d1d26cf8d45153 )
+)
+
+game (
+	name "Cyborg Wars (19xx)(-)(en-de)"
+	description "Cyborg Wars (19xx)(-)(en-de)"
+	rom ( name "Cyborg Wars (19xx)(-)(en-de).prg" size 12581 crc 3e9b6785 md5 481e6fa8f73fd7058f255ade0a76235e )
+)
+
+game (
+	name "Daley Thompson's Star Events (1985)(Ocean)(Side A)[G2111]"
+	description "Daley Thompson's Star Events (1985)(Ocean)(Side A)[G2111]"
+	rom ( name "Daley Thompson's Star Events (1985)(Ocean)(Side A)[G2111].prg" size 13314 crc 6e48db14 md5 1f3e19ed5b339c389d69a69b61099112 )
+)
+
+game (
+	name "Daley Thompson's Star Events (1985)(Ocean)(Side B)"
+	description "Daley Thompson's Star Events (1985)(Ocean)(Side B)"
+	rom ( name "Daley Thompson's Star Events (1985)(Ocean)(Side B).prg" size 9333 crc fd557690 md5 b3b59a39e10c41b72c3d27af80ad68dc )
+)
+
+game (
+	name "Dame (1993)(Wilds)(PD)"
+	description "Dame (1993)(Wilds)(PD)"
+	rom ( name "Dame (1993)(Wilds)(PD).prg" size 10842 crc 76243127 md5 f7d684c154343bf5c931d9cd300852f4 )
+)
+
+game (
+	name "Dame (1993)(Wilds)(PD)[docs]"
+	description "Dame (1993)(Wilds)(PD)[docs]"
+	rom ( name "Dame (1993)(Wilds)(PD)[docs].prg" size 6747 crc 916ad568 md5 4de7180492094451aca893a57cdf88f9 )
+)
+
+game (
+	name "Danger Diamonds (1986)(ComputerSoft Jonigk)"
+	description "Danger Diamonds (1986)(ComputerSoft Jonigk)"
+	rom ( name "Danger Diamonds (1986)(ComputerSoft Jonigk).prg" size 12290 crc 210a3aaf md5 9e7317693bdaa6e95e5f9e90854fa290 )
+)
+
+game (
+	name "Danger Zone (1986)(Codemasters)"
+	description "Danger Zone (1986)(Codemasters)"
+	rom ( name "Danger Zone (1986)(Codemasters).prg" size 12290 crc e07fd388 md5 d2bf40f422aa58e714c883bb9245b5ca )
+)
+
+game (
+	name "Dangerous Mission (1992)(Moldi)(PD)"
+	description "Dangerous Mission (1992)(Moldi)(PD)"
+	rom ( name "Dangerous Mission (1992)(Moldi)(PD).prg" size 33875 crc cc3110f5 md5 db3fb4492697e05dd4ac8f4f182c967d )
+)
+
+game (
+	name "Dangerous Pyramid (1984)(AMA-Productions)(de)"
+	description "Dangerous Pyramid (1984)(AMA-Productions)(de)"
+	rom ( name "Dangerous Pyramid (1984)(AMA-Productions)(de).prg" size 15706 crc 138202a8 md5 364a6cd37d5c0a8ac1658a74f532721e )
+)
+
+game (
+	name "Danger-Willi (1987)(Potsch, Michael)[cr Kali - PPCS]"
+	description "Danger-Willi (1987)(Potsch, Michael)[cr Kali - PPCS]"
+	rom ( name "Danger-Willi (1987)(Potsch, Michael)[cr Kali - PPCS].prg" size 12289 crc 4287454d md5 83c98a8229ddda8009e54526d0502ce4 )
+)
+
+game (
+	name "Dark Side, The (1991)(Tarzan)(PD)[b]"
+	description "Dark Side, The (1991)(Tarzan)(PD)[b]"
+	rom ( name "Dark Side, The (1991)(Tarzan)(PD)[b].prg" size 43440 crc 15b4c9ff md5 343f6231498395f44e0ff9947b96ca88 )
+)
+
+game (
+	name "David's Midnight Magic (1987)(-)[cr TPPC]"
+	description "David's Midnight Magic (1987)(-)[cr TPPC]"
+	rom ( name "David's Midnight Magic (1987)(-)[cr TPPC].prg" size 45056 crc 27498929 md5 35aae06f0047eda3084d6a9274cb4ee2 )
+)
+
+game (
+	name "Death Race (1985)(Atlantis Software)"
+	description "Death Race (1985)(Atlantis Software)"
+	rom ( name "Death Race (1985)(Atlantis Software).prg" size 11727 crc 77dbedab md5 259e66cf7c8315fb0e6943cc41f4c49d )
+)
+
+game (
+	name "Death River (1986)(Optyx Software)[G1000]"
+	description "Death River (1986)(Optyx Software)[G1000]"
+	rom ( name "Death River (1986)(Optyx Software)[G1000].prg" size 12290 crc 402dfbb9 md5 4cebf60f3e9915f21e72d34709075345 )
+)
+
+game (
+	name "DeathShips (1993)(Kuni)(PD)"
+	description "DeathShips (1993)(Kuni)(PD)"
+	rom ( name "DeathShips (1993)(Kuni)(PD).prg" size 33680 crc e21fcf2d md5 4c464f49bc3aed8ffade361537affd3a )
+)
+
+game (
+	name "DecStone (1992)(TGH)(PD)"
+	description "DecStone (1992)(TGH)(PD)"
+	rom ( name "DecStone (1992)(TGH)(PD).prg" size 35440 crc 098f963e md5 2adeaa76a34a4048f648135af4ae7596 )
+)
+
+game (
+	name "Decton (1991)(TGH)(PD)"
+	description "Decton (1991)(TGH)(PD)"
+	rom ( name "Decton (1991)(TGH)(PD).prg" size 30961 crc 958f1f0b md5 95acf4688e7d7a48304d269e233859c3 )
+)
+
+game (
+	name "Deeper Dungeon (19xx)(International Education)(it)"
+	description "Deeper Dungeon (19xx)(International Education)(it)"
+	rom ( name "Deeper Dungeon (19xx)(International Education)(it).prg" size 10960 crc 2b621d94 md5 0f7a701966c77a68e12110f8ba4cab57 )
+)
+
+game (
+	name "Defender of the Crown (1991)(SCH)[p]"
+	description "Defender of the Crown (1991)(SCH)[p]"
+	rom ( name "Defender of the Crown (1991)(SCH)[p].prg" size 12289 crc d6fa479e md5 b088e0c45b8b50270776d6e4b83607c0 )
+)
+
+game (
+	name "Defender of the Crown (19xx)(SCH + TMCH)[p]"
+	description "Defender of the Crown (19xx)(SCH + TMCH)[p]"
+	rom ( name "Defender of the Crown (19xx)(SCH + TMCH)[p].prg" size 31443 crc 151957c8 md5 083a441717b42c1c75dedbd7b5398f25 )
+)
+
+game (
+	name "Demolition (1987)(Anco)[cr Bitsoft]"
+	description "Demolition (1987)(Anco)[cr Bitsoft]"
+	rom ( name "Demolition (1987)(Anco)[cr Bitsoft].prg" size 12679 crc b4fe0472 md5 48e42f4ba33664e0f0343851444d4f47 )
+)
+
+game (
+	name "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT]"
+	description "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT]"
+	rom ( name "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT].prg" size 46790 crc b5fa6ae9 md5 02bc82b36cbd8d7381b10dae1ebd3a97 )
+)
+
+game (
+	name "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT][intro]"
+	description "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT][intro]"
+	rom ( name "Demonok Birodalma (1989)(Novotrade)(hu)[cr DDT][t +1 DDT][intro].prg" size 22800 crc 0dd663c0 md5 2a64c182a0a7e4a2ade4768e2692d14b )
+)
+
+game (
+	name "Demonsdom (1991)(CSM)(PD)"
+	description "Demonsdom (1991)(CSM)(PD)"
+	rom ( name "Demonsdom (1991)(CSM)(PD).prg" size 22982 crc 9ea5a9cf md5 580831827b40793212dd56ba1682a4cd )
+)
+
+game (
+	name "Destructor (1985)(Bug-Byte)"
+	description "Destructor (1985)(Bug-Byte)"
+	rom ( name "Destructor (1985)(Bug-Byte).prg" size 8961 crc 9defc04e md5 dc458435d813c19fe7bc68dc2d9ca98f )
+)
+
+game (
+	name "Dex (1989)(Novotrade)(hu)[cr TTS][t +1 TTS]"
+	description "Dex (1989)(Novotrade)(hu)[cr TTS][t +1 TTS]"
+	rom ( name "Dex (1989)(Novotrade)(hu)[cr TTS][t +1 TTS].prg" size 44207 crc 7703d1f8 md5 56c17bc43ffa5a9e39ed832e8c651749 )
+)
+
+game (
+	name "Dex II (1990)(TTS)(hu)(PD)"
+	description "Dex II (1990)(TTS)(hu)(PD)"
+	rom ( name "Dex II (1990)(TTS)(hu)(PD).prg" size 21461 crc 8cb97f8a md5 0ccfe3029f5f74e2fd6547489bc3ef8b )
+)
+
+game (
+	name "Diabolo (1985)(Engel, Jens)"
+	description "Diabolo (1985)(Engel, Jens)"
+	rom ( name "Diabolo (1985)(Engel, Jens).prg" size 6851 crc 87d30658 md5 f925276210f5dfb19fcf2f71f4077b60 )
+)
+
+game (
+	name "Diagon (1984)(Bug-Byte)"
+	description "Diagon (1984)(Bug-Byte)"
+	rom ( name "Diagon (1984)(Bug-Byte).prg" size 12289 crc bcd4fb81 md5 42e9fdac5d528bcc612802b7a9572c96 )
+)
+
+game (
+	name "Diamantenfieber (1988)(-)(de)"
+	description "Diamantenfieber (1988)(-)(de)"
+	rom ( name "Diamantenfieber (1988)(-)(de).prg" size 7194 crc 8d84826f md5 f1e839ee7c73854db9e61e7c6ec1d3bf )
+)
+
+game (
+	name "Diamond Mine (1986)(Blue Ribbon Software)"
+	description "Diamond Mine (1986)(Blue Ribbon Software)"
+	rom ( name "Diamond Mine (1986)(Blue Ribbon Software).prg" size 12290 crc a0a95790 md5 56a6b773031a9ce10d50018d7e503c8d )
+)
+
+game (
+	name "Diamond Mine II (1986)(Blue Ribbon Software)[cr Great Byte Ltd.]"
+	description "Diamond Mine II (1986)(Blue Ribbon Software)[cr Great Byte Ltd.]"
+	rom ( name "Diamond Mine II (1986)(Blue Ribbon Software)[cr Great Byte Ltd.].prg" size 15362 crc f80672b8 md5 95a3b95872372ccac7e9b032b7fb1515 )
+)
+
+game (
+	name "Diamond Town (1991)(Terrorists)(hu)[b]"
+	description "Diamond Town (1991)(Terrorists)(hu)[b]"
+	rom ( name "Diamond Town (1991)(Terrorists)(hu)[b].prg" size 20593 crc bad148fd md5 3a8c965473d295f97cba93db53d560be )
+)
+
+game (
+	name "Die Seefahrt (1989)(Kingsoft)[cr Obelix]"
+	description "Die Seefahrt (1989)(Kingsoft)[cr Obelix]"
+	rom ( name "Die Seefahrt (1989)(Kingsoft)[cr Obelix].prg" size 39998 crc 72a86192 md5 6361699c17075180489fc42296819dbb )
+)
+
+game (
+	name "Digital Ball (1989)(Kosir, Attila)"
+	description "Digital Ball (1989)(Kosir, Attila)"
+	rom ( name "Digital Ball (1989)(Kosir, Attila).prg" size 53120 crc 6b219448 md5 4d7f7e1610ac3c15bf2ba25b0b9eb7ec )
+)
+
+game (
+	name "Digital Ball (1989)(Kosir, Attila)[a]"
+	description "Digital Ball (1989)(Kosir, Attila)[a]"
+	rom ( name "Digital Ball (1989)(Kosir, Attila)[a].prg" size 56752 crc 2c4656c9 md5 ae09cc2557bf7c1927ba8196b0f4ba64 )
+)
+
+game (
+	name "Dingbat (1988)(Mastertronic)[cr Great Byte Ltd.]"
+	description "Dingbat (1988)(Mastertronic)[cr Great Byte Ltd.]"
+	rom ( name "Dingbat (1988)(Mastertronic)[cr Great Byte Ltd.].prg" size 15361 crc 9768e165 md5 01751a3cfb1ad2e68ebc58697e7ab8fa )
+)
+
+game (
+	name "Dingbat (1988)(Mastertronic)[G3000]"
+	description "Dingbat (1988)(Mastertronic)[G3000]"
+	rom ( name "Dingbat (1988)(Mastertronic)[G3000].prg" size 12289 crc 3ca6df71 md5 8b0104a1a1fe2f4c1f5948fb018cd6cb )
+)
+
+game (
+	name "Dirty Den (1986)(Probe Software)"
+	description "Dirty Den (1986)(Probe Software)"
+	rom ( name "Dirty Den (1986)(Probe Software).prg" size 11214 crc 44b4de27 md5 5359871eda30294becdb86ad72dcd9a5 )
+)
+
+game (
+	name "Dixi a Megmento (1987)(Kosir, Attila)(hu)(PD)"
+	description "Dixi a Megmento (1987)(Kosir, Attila)(hu)(PD)"
+	rom ( name "Dixi a Megmento (1987)(Kosir, Attila)(hu)(PD).prg" size 12289 crc 6b18f397 md5 4797b4c2d899356abc829b8d591127ce )
+)
+
+game (
+	name "DizasterBlaster (1987)(Americana Software)"
+	description "DizasterBlaster (1987)(Americana Software)"
+	rom ( name "DizasterBlaster (1987)(Americana Software).prg" size 10150 crc 795a0056 md5 a012fd564dfc270f6879ac78326b06a6 )
+)
+
+game (
+	name "Dizzy - Prince Of The Yolkfolk (19xx)(TGMS)[p]"
+	description "Dizzy - Prince Of The Yolkfolk (19xx)(TGMS)[p]"
+	rom ( name "Dizzy - Prince Of The Yolkfolk (19xx)(TGMS)[p].prg" size 48960 crc 43a50ab3 md5 45e41f6c9ba54bbbc6d3becc1b8efc85 )
+)
+
+game (
+	name "Dizzy 3 (1992)(TGMS)[f][p]"
+	description "Dizzy 3 (1992)(TGMS)[f][p]"
+	rom ( name "Dizzy 3 (1992)(TGMS)[f][p].prg" size 46970 crc eab9f1a5 md5 9a9213d55c2c3e55b8056ed6aefb90fe )
+)
+
+game (
+	name "Dizzy 3 (1992)(TGMS)[p]"
+	description "Dizzy 3 (1992)(TGMS)[p]"
+	rom ( name "Dizzy 3 (1992)(TGMS)[p].prg" size 42000 crc 4d412798 md5 dcf2f814b51bc9cefeccaf7eb5048aa2 )
+)
+
+game (
+	name "Dizzy 4 (1992)(TGMS)[p]"
+	description "Dizzy 4 (1992)(TGMS)[p]"
+	rom ( name "Dizzy 4 (1992)(TGMS)[p].prg" size 47520 crc 36e7a74e md5 0ade7a65c54b69ad6ff203cd51dcf2fa )
+)
+
+game (
+	name "Dizzy Dice (1988)(Players)"
+	description "Dizzy Dice (1988)(Players)"
+	rom ( name "Dizzy Dice (1988)(Players).prg" size 10936 crc 5f0b96ba md5 7aed5ee844736982b873ddaa62320e66 )
+)
+
+game (
+	name "Dizzy Dice (1988)(Players)[SYS4136]"
+	description "Dizzy Dice (1988)(Players)[SYS4136]"
+	rom ( name "Dizzy Dice (1988)(Players)[SYS4136].prg" size 10936 crc 174d5617 md5 880ae1b49a14ac059cddee5658fda1aa )
+)
+
+game (
+	name "Domingo (1989)(Wolfsoft Supertronic)(de)"
+	description "Domingo (1989)(Wolfsoft Supertronic)(de)"
+	rom ( name "Domingo (1989)(Wolfsoft Supertronic)(de).prg" size 9526 crc b53658a9 md5 02297cfb0260126556470856c62fac7e )
+)
+
+game (
+	name "Domino (1991)(TGMS)(Plus4)[p]"
+	description "Domino (1991)(TGMS)(Plus4)[p]"
+	rom ( name "Domino (1991)(TGMS)(Plus4)[p].prg" size 20026 crc f5465cbb md5 2086f13c6a6c8f101ffc8e2c7b318c92 )
+)
+
+game (
+	name "Dooly (1987)(Falcon Software)[t +1 Coby]"
+	description "Dooly (1987)(Falcon Software)[t +1 Coby]"
+	rom ( name "Dooly (1987)(Falcon Software)[t +1 Coby].prg" size 11354 crc 9f8e99f1 md5 4c54c6b61a6d8c81f154f2515b1f0cc8 )
+)
+
+game (
+	name "Doomdark's Revenge (19xx)(Pigmy)[p]"
+	description "Doomdark's Revenge (19xx)(Pigmy)[p]"
+	rom ( name "Doomdark's Revenge (19xx)(Pigmy)[p].prg" size 30738 crc a95daeef md5 3a9846174a936b85d326d5d2f739c45b )
+)
+
+game (
+	name "Dork's Dilemma (1985)(Gremlin Graphics)"
+	description "Dork's Dilemma (1985)(Gremlin Graphics)"
+	rom ( name "Dork's Dilemma (1985)(Gremlin Graphics).prg" size 12288 crc 1b299bf8 md5 23f855787dd725e0af23f36b904b8112 )
+)
+
+game (
+	name "Dork's Dilemma (1985)(Gremlin Graphics)[m 25-levels RoePipi]"
+	description "Dork's Dilemma (1985)(Gremlin Graphics)[m 25-levels RoePipi]"
+	rom ( name "Dork's Dilemma (1985)(Gremlin Graphics)[m 25-levels RoePipi].prg" size 12101 crc 6730d6b7 md5 ca902039f1b39e91603feb985c8d5f01 )
+)
+
+game (
+	name "Double Blocks (1993)(TBC)(PD)"
+	description "Double Blocks (1993)(TBC)(PD)"
+	rom ( name "Double Blocks (1993)(TBC)(PD).prg" size 32646 crc 70c6aced md5 ca7118426cdd4dc3908e164483a637e3 )
+)
+
+game (
+	name "Driller (1990)(Pigmy)(Plus4)[f][p]"
+	description "Driller (1990)(Pigmy)(Plus4)[f][p]"
+	rom ( name "Driller (1990)(Pigmy)(Plus4)[f][p].prg" size 49718 crc 89c6b598 md5 71b3e1b1c6c75b3b7da02dbeeaa8681f )
+)
+
+game (
+	name "Driller (1990)(Pigmy)(Plus4)[p]"
+	description "Driller (1990)(Pigmy)(Plus4)[p]"
+	rom ( name "Driller (1990)(Pigmy)(Plus4)[p].prg" size 48880 crc 32c4d6d1 md5 1be74e6d91c90822e64db64eeff3aac9 )
+)
+
+game (
+	name "Droid One (1986)(Bug-Byte)"
+	description "Droid One (1986)(Bug-Byte)"
+	rom ( name "Droid One (1986)(Bug-Byte).prg" size 12289 crc 390b8c90 md5 91ba3f23fccfdd26ad1fa58086003d02 )
+)
+
+game (
+	name "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters]"
+	description "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters]"
+	rom ( name "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters].prg" size 30488 crc c7a9167c md5 96f63be0a1a6e728c33b15a24f2180d7 )
+)
+
+game (
+	name "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters][a]"
+	description "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters][a]"
+	rom ( name "Dudaorru Patric (1989)(Novotrade)(hu)[cr Muffbusters][a].prg" size 40112 crc 752e1456 md5 ca5128005b7fe9a87ef9afa07b5170c1 )
+)
+
+game (
+	name "Duotris (1992)(TYCB)(Plus4)(PD)"
+	description "Duotris (1992)(TYCB)(Plus4)(PD)"
+	rom ( name "Duotris (1992)(TYCB)(Plus4)(PD).prg" size 24720 crc 6bc9742e md5 02b819dde2190a68f735ca98e6fe2e44 )
+)
+
+game (
+	name "Dynamoid (1990)(CSM)"
+	description "Dynamoid (1990)(CSM)"
+	rom ( name "Dynamoid (1990)(CSM).prg" size 32841 crc 5ddf1c26 md5 008f264b9b89e6452d3bae18a9db3554 )
+)
+
+game (
+	name "Dynamoid (1990)(CSM)[b]"
+	description "Dynamoid (1990)(CSM)[b]"
+	rom ( name "Dynamoid (1990)(CSM)[b].prg" size 32880 crc b8b1b4cd md5 33a07ac13f714ddb127fd568b8112433 )
+)
+
+game (
+	name "Earth Invaders (1992)(MOI)(PD)"
+	description "Earth Invaders (1992)(MOI)(PD)"
+	rom ( name "Earth Invaders (1992)(MOI)(PD).prg" size 17178 crc c9a082cb md5 3f37a2bf643375a34cdcf7bacd8b062f )
+)
+
+game (
+	name "Egyptian Tomb (1986)(Jones, Julian)"
+	description "Egyptian Tomb (1986)(Jones, Julian)"
+	rom ( name "Egyptian Tomb (1986)(Jones, Julian).prg" size 6146 crc bfa6ae42 md5 f9551d091c50b1b5c73de0bd9903ad14 )
+)
+
+game (
+	name "Eierlaufen (1987)(Moell, Oliver)"
+	description "Eierlaufen (1987)(Moell, Oliver)"
+	rom ( name "Eierlaufen (1987)(Moell, Oliver).prg" size 3446 crc f958f15a md5 4793b13ed23591b4b7d4131009e6e4ab )
+)
+
+game (
+	name "Elite (1989)(Pigmy)(Plus4)[p]"
+	description "Elite (1989)(Pigmy)(Plus4)[p]"
+	rom ( name "Elite (1989)(Pigmy)(Plus4)[p].prg" size 48392 crc 5871386b md5 f87f76234c0e764d5df324cf6f8972d7 )
+)
+
+game (
+	name "Elite Squad (1991)(EVS)[p]"
+	description "Elite Squad (1991)(EVS)[p]"
+	rom ( name "Elite Squad (1991)(EVS)[p].prg" size 40720 crc eb8891f2 md5 a40db483871285ace7dc0ca5a6c2142a )
+)
+
+game (
+	name "Elvarazsolt Kastely (1987)(Novotrade)(hu)"
+	description "Elvarazsolt Kastely (1987)(Novotrade)(hu)"
+	rom ( name "Elvarazsolt Kastely (1987)(Novotrade)(hu).prg" size 42819 crc 8ec37ab9 md5 189ab4b58cb4d6512195d17bf7a32f68 )
+)
+
+game (
+	name "Emerald Mine I (1988)(Kingsoft)[cr Cracker Duo]"
+	description "Emerald Mine I (1988)(Kingsoft)[cr Cracker Duo]"
+	rom ( name "Emerald Mine I (1988)(Kingsoft)[cr Cracker Duo].prg" size 33526 crc a944a1a6 md5 85dac0c67fa09b46fd7d7dbc9601c6c7 )
+)
+
+game (
+	name "Emerald Mine I (1988)(Kingsoft)[cr Masters of Dragon]"
+	description "Emerald Mine I (1988)(Kingsoft)[cr Masters of Dragon]"
+	rom ( name "Emerald Mine I (1988)(Kingsoft)[cr Masters of Dragon].prg" size 40861 crc f1c1a63c md5 71a3d7958be660b9b31efa82e9652f20 )
+)
+
+game (
+	name "Emerald Mine II (1989)(Kingsoft)[cr Obelix]"
+	description "Emerald Mine II (1989)(Kingsoft)[cr Obelix]"
+	rom ( name "Emerald Mine II (1989)(Kingsoft)[cr Obelix].prg" size 27289 crc 16fddd83 md5 dfc8f580e05989794af75dc0d231758e )
+)
+
+game (
+	name "Enchanted Isle (19xx)(Crackerbox)(PD)"
+	description "Enchanted Isle (19xx)(Crackerbox)(PD)"
+	rom ( name "Enchanted Isle (19xx)(Crackerbox)(PD).prg" size 17674 crc eb2cfd14 md5 e8a2a555ab4017d2a3955e3fed503a6a )
+)
+
+game (
+	name "Endzone 2 (19xx)(Alternative)[p]"
+	description "Endzone 2 (19xx)(Alternative)[p]"
+	rom ( name "Endzone 2 (19xx)(Alternative)[p].prg" size 18720 crc b64278d3 md5 30c8a8aa9c07185431705a73211e36fd )
+)
+
+game (
+	name "Enterprise (19xx)(-)"
+	description "Enterprise (19xx)(-)"
+	rom ( name "Enterprise (19xx)(-).prg" size 23966 crc ba2c5e7a md5 8488bebc9ab45a2a9c81b8f7c5867177 )
+)
+
+game (
+	name "Eoroid Professional (1993)(Delta System)"
+	description "Eoroid Professional (1993)(Delta System)"
+	rom ( name "Eoroid Professional (1993)(Delta System).prg" size 21993 crc 9a4d2fd4 md5 5527d0920423a2a9c059b921347c80a7 )
+)
+
+game (
+	name "Eoroid Professional (1993)(Delta System)[b][docs]"
+	description "Eoroid Professional (1993)(Delta System)[b][docs]"
+	rom ( name "Eoroid Professional (1993)(Delta System)[b][docs].prg" size 695 crc c60007e8 md5 e1918f8f18ca12133498cabc3ce946d0 )
+)
+
+game (
+	name "Erik The Viking (1990)(Pigmy)[p]"
+	description "Erik The Viking (1990)(Pigmy)[p]"
+	rom ( name "Erik The Viking (1990)(Pigmy)[p].prg" size 29161 crc 15fe0e43 md5 29f94bb151e723d14d0c13ac26d148e1 )
+)
+
+game (
+	name "Escape (1993)(Genius)"
+	description "Escape (1993)(Genius)"
+	rom ( name "Escape (1993)(Genius).prg" size 24635 crc 85b62c00 md5 17716486606d8e70a6ac0f5100707ec5 )
+)
+
+game (
+	name "European Games (1987)(Tynesoft Computer Software)(GB)[cr CMS]"
+	description "European Games (1987)(Tynesoft Computer Software)(GB)[cr CMS]"
+	rom ( name "European Games (1987)(Tynesoft Computer Software)(GB)[cr CMS].prg" size 45569 crc 0fca8fec md5 356a14c3feecf2e75fe748c630b46bd8 )
+)
+
+game (
+	name "Ewox (1993)(GOTU)(hu)(PD)"
+	description "Ewox (1993)(GOTU)(hu)(PD)"
+	rom ( name "Ewox (1993)(GOTU)(hu)(PD).prg" size 25440 crc 9799a314 md5 d8046aed213a65368155094d8ba2976a )
+)
+
+game (
+	name "Exorcist, The (1984)(CBM)"
+	description "Exorcist, The (1984)(CBM)"
+	rom ( name "Exorcist, The (1984)(CBM).prg" size 12289 crc 72128cc8 md5 ce14e1e6b29a668f06c7b5a0cf229aa8 )
+)
+
+game (
+	name "Exorcist, The (1984)(CBM)[a]"
+	description "Exorcist, The (1984)(CBM)[a]"
+	rom ( name "Exorcist, The (1984)(CBM)[a].prg" size 7880 crc 6c25cc33 md5 0eb87aaad24f03e80a41d235a83e69bb )
+)
+
+game (
+	name "Explosive Net (1994)(Moldi)(PD)"
+	description "Explosive Net (1994)(Moldi)(PD)"
+	rom ( name "Explosive Net (1994)(Moldi)(PD).prg" size 33040 crc 5de5e1f9 md5 9977f8357aef7da3782bc7c7b643ae7a )
+)
+
+game (
+	name "Exsperma (1990)(FYC)(PD)"
+	description "Exsperma (1990)(FYC)(PD)"
+	rom ( name "Exsperma (1990)(FYC)(PD).prg" size 22543 crc 14e25901 md5 7c1f9b29196e487c86fe487fbdd471c8 )
+)
+
+game (
+	name "Extasy (19xx)(Muffbusters)(PD)"
+	description "Extasy (19xx)(Muffbusters)(PD)"
+	rom ( name "Extasy (19xx)(Muffbusters)(PD).prg" size 44720 crc 8c7988e9 md5 59a3e8fb2968757af9d386274b501e6c )
+)
+
+game (
+	name "Extasy (19xx)(Muffbusters)(PD)[m Terrorists]"
+	description "Extasy (19xx)(Muffbusters)(PD)[m Terrorists]"
+	rom ( name "Extasy (19xx)(Muffbusters)(PD)[m Terrorists].prg" size 30560 crc 9cd7dd0a md5 60c76751bf54a92ad11f944d544d1965 )
+)
+
+game (
+	name "Fantasmi (1986)(Editions Fermont)(it)[exorcist hack]"
+	description "Fantasmi (1986)(Editions Fermont)(it)[exorcist hack]"
+	rom ( name "Fantasmi (1986)(Editions Fermont)(it)[exorcist hack].prg" size 12320 crc a2fe0828 md5 0dd33a9bad407ac4508859f376d68540 )
+)
+
+game (
+	name "Ferrox (1984)(CBM)"
+	description "Ferrox (1984)(CBM)"
+	rom ( name "Ferrox (1984)(CBM).prg" size 26014 crc fc8f4f19 md5 4325e1c8852692cdefe973a0acba68ad )
+)
+
+game (
+	name "Finders Keepers (1986)(Mastertronic)[h Micro Maniac]"
+	description "Finders Keepers (1986)(Mastertronic)[h Micro Maniac]"
+	rom ( name "Finders Keepers (1986)(Mastertronic)[h Micro Maniac].prg" size 16000 crc 2ede8121 md5 ef9a49298e7d92494b6e0cff465714fa )
+)
+
+game (
+	name "Fire Ant (1984)(CBM)"
+	description "Fire Ant (1984)(CBM)"
+	rom ( name "Fire Ant (1984)(CBM).prg" size 11644 crc ad981b20 md5 8adf50a4c1803457ec59e13ae9e67c82 )
+)
+
+game (
+	name "Fire Ant (1984)(CBM)[SYS6915]"
+	description "Fire Ant (1984)(CBM)[SYS6915]"
+	rom ( name "Fire Ant (1984)(CBM)[SYS6915].prg" size 12289 crc cb93bfc8 md5 546f377b1acb2e2478d7587d9f1a4d4e )
+)
+
+game (
+	name "Firm Base (1990)(CSM)(Plus4)(PD)[cr Skoro][t +1 Skoro]"
+	description "Firm Base (1990)(CSM)(Plus4)(PD)[cr Skoro][t +1 Skoro]"
+	rom ( name "Firm Base (1990)(CSM)(Plus4)(PD)[cr Skoro][t +1 Skoro].prg" size 26378 crc 920e5634 md5 79e9a7de6c6d37ea58954f480f822d5c )
+)
+
+game (
+	name "Flash Gordon (1990)(TCFS)(PD)"
+	description "Flash Gordon (1990)(TCFS)(PD)"
+	rom ( name "Flash Gordon (1990)(TCFS)(PD).prg" size 44853 crc 5b5c9339 md5 eb9ef2f38e708531f18a85048b37b365 )
+)
+
+game (
+	name "Flipper Environment Editor (1992)(TCFS)(PD)"
+	description "Flipper Environment Editor (1992)(TCFS)(PD)"
+	rom ( name "Flipper Environment Editor (1992)(TCFS)(PD).prg" size 27237 crc 303ffe2e md5 fa4c52528517dea87103f2fdec7a83af )
+)
+
+game (
+	name "Flipper Environment Editor (1992)(TCFS)(PD)[a]"
+	description "Flipper Environment Editor (1992)(TCFS)(PD)[a]"
+	rom ( name "Flipper Environment Editor (1992)(TCFS)(PD)[a].prg" size 27280 crc fcbada60 md5 70add80a76e7f43e41378dcc0715fadd )
+)
+
+game (
+	name "Footballer Of The Year (1986)(Gremlin Graphics)"
+	description "Footballer Of The Year (1986)(Gremlin Graphics)"
+	rom ( name "Footballer Of The Year (1986)(Gremlin Graphics).prg" size 35444 crc f216a9d2 md5 23e7b519f85bfcf9fe4a1ade90ff8001 )
+)
+
+game (
+	name "Formula 1 Simulator (1985)(Mastertronic)"
+	description "Formula 1 Simulator (1985)(Mastertronic)"
+	rom ( name "Formula 1 Simulator (1985)(Mastertronic).prg" size 10160 crc 0a739b6d md5 2bb0376c54bc84ab20c351ffc817d06b )
+)
+
+game (
+	name "Fortress Underground (1987)(Kingsoft)"
+	description "Fortress Underground (1987)(Kingsoft)"
+	rom ( name "Fortress Underground (1987)(Kingsoft).prg" size 12445 crc 78c76313 md5 d2d6cf08170f204bd263726cca87fb74 )
+)
+
+game (
+	name "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p]"
+	description "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p]"
+	rom ( name "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p].prg" size 41130 crc 7023454f md5 7a10899ae33c497d6e44f885e03b4dc3 )
+)
+
+game (
+	name "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p][a]"
+	description "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p][a]"
+	rom ( name "Freddy Hardest in South Manhattan (1990)(TGMS)(Plus4)[p][a].prg" size 41130 crc 67d43214 md5 14bcef93a8406b1d6bea3412cf8bf5bc )
+)
+
+game (
+	name "Frenesis (1987)(Mastertronic)"
+	description "Frenesis (1987)(Mastertronic)"
+	rom ( name "Frenesis (1987)(Mastertronic).prg" size 10800 crc e009c31c md5 f5597af1d39ff66d11c285b3de6184e3 )
+)
+
+game (
+	name "Frog Jump (19xx)(Playvision)"
+	description "Frog Jump (19xx)(Playvision)"
+	rom ( name "Frog Jump (19xx)(Playvision).prg" size 4209 crc fc4de529 md5 df487aa65908dee53eea6eef8404dc5a )
+)
+
+game (
+	name "Fury (1986)(Firebird)"
+	description "Fury (1986)(Firebird)"
+	rom ( name "Fury (1986)(Firebird).prg" size 12289 crc c276efd9 md5 f80107a8bd307fde601af4898d32b6c5 )
+)
+
+game (
+	name "Future Knight (1986)(Gremlin Graphics)[cr TTL]"
+	description "Future Knight (1986)(Gremlin Graphics)[cr TTL]"
+	rom ( name "Future Knight (1986)(Gremlin Graphics)[cr TTL].prg" size 16160 crc 66bcb18a md5 e9f9331d376bc164200f8dc8977d0fdc )
+)
+
+game (
+	name "Galaxians (1984)(Solar Software)"
+	description "Galaxians (1984)(Solar Software)"
+	rom ( name "Galaxians (1984)(Solar Software).prg" size 12289 crc d2827ef6 md5 db9f1fc8514df47a63836cf3723f5971 )
+)
+
+game (
+	name "Galaxians (1984)(Solar Software)[a]"
+	description "Galaxians (1984)(Solar Software)[a]"
+	rom ( name "Galaxians (1984)(Solar Software)[a].prg" size 9079 crc a6adda2a md5 d1d60613da14d467860804de89307375 )
+)
+
+game (
+	name "Galaxians (1984)(Solar Software)[no title]"
+	description "Galaxians (1984)(Solar Software)[no title]"
+	rom ( name "Galaxians (1984)(Solar Software)[no title].prg" size 12288 crc 725de0e1 md5 32f9ce9d5c9a4b26c37052bd79c5db76 )
+)
+
+game (
+	name "Gengszter (19xx)(-)(hu)"
+	description "Gengszter (19xx)(-)(hu)"
+	rom ( name "Gengszter (19xx)(-)(hu).prg" size 20992 crc 44e77b2a md5 82df1a52153258000b5f42a8cee07ed4 )
+)
+
+game (
+	name "Giana Sister (1989)(T+K Software)"
+	description "Giana Sister (1989)(T+K Software)"
+	rom ( name "Giana Sister (1989)(T+K Software).prg" size 20444 crc a7e90cb4 md5 401a8b1c14e600f66d0e169f6a89f8c7 )
+)
+
+game (
+	name "Gibson Game '92 v1.1 (19xx)(Coroners)"
+	description "Gibson Game '92 v1.1 (19xx)(Coroners)"
+	rom ( name "Gibson Game '92 v1.1 (19xx)(Coroners).prg" size 26640 crc 19a1d3ff md5 a169d110b4e4e2543f3ef692cf4ed277 )
+)
+
+game (
+	name "G-Man (1986)(Codemasters)"
+	description "G-Man (1986)(Codemasters)"
+	rom ( name "G-Man (1986)(Codemasters).prg" size 12292 crc 8366e6aa md5 cbae305bb4a4f73a56fdaad0f0b06cbc )
+)
+
+game (
+	name "G-man Editor (1990-08-21)(Wacky)(hu)(PD)"
+	description "G-man Editor (1990-08-21)(Wacky)(hu)(PD)"
+	rom ( name "G-man Editor (1990-08-21)(Wacky)(hu)(PD).prg" size 27773 crc bac04c0e md5 bf4ed38deefed4459d665fe9bb670e57 )
+)
+
+game (
+	name "Go Ahead! (1994-05-30)(Gentlemen Software)(PD)"
+	description "Go Ahead! (1994-05-30)(Gentlemen Software)(PD)"
+	rom ( name "Go Ahead! (1994-05-30)(Gentlemen Software)(PD).prg" size 16415 crc 3954e852 md5 eb0c08ef30bbac43efd599661296af05 )
+)
+
+game (
+	name "Golden Baton (1998)(Crown)[p]"
+	description "Golden Baton (1998)(Crown)[p]"
+	rom ( name "Golden Baton (1998)(Crown)[p].prg" size 27615 crc 14943785 md5 a97edbfbb84bb9e02c3802cc049c9956 )
+)
+
+game (
+	name "Golf Royal (1989)(-)[cr Fish - Wolf]"
+	description "Golf Royal (1989)(-)[cr Fish - Wolf]"
+	rom ( name "Golf Royal (1989)(-)[cr Fish - Wolf].prg" size 39760 crc b65037c8 md5 467b9b0d589e19a09a09e599fc6c42b8 )
+)
+
+game (
+	name "Grand Master (1982)(Kingsoft)"
+	description "Grand Master (1982)(Kingsoft)"
+	rom ( name "Grand Master (1982)(Kingsoft).prg" size 12290 crc 3c182dd7 md5 1eeaef15a1db1e543ebb210af590476f )
+)
+
+game (
+	name "Grand Master (1985)(Kingsoft)[SYS14226]"
+	description "Grand Master (1985)(Kingsoft)[SYS14226]"
+	rom ( name "Grand Master (1985)(Kingsoft)[SYS14226].prg" size 12290 crc a54d80ff md5 ea5d1669e20d5536c2fee22a00d30965 )
+)
+
+game (
+	name "Gremlins (1989)(Pigmy)(Plus4)[p]"
+	description "Gremlins (1989)(Pigmy)(Plus4)[p]"
+	rom ( name "Gremlins (1989)(Pigmy)(Plus4)[p].prg" size 50053 crc 65272dbe md5 3966f0d43a1cda0284cbeb3ccf92a27b )
+)
+
+game (
+	name "Gridrunner (1989)(Muffbusters)[p]"
+	description "Gridrunner (1989)(Muffbusters)[p]"
+	rom ( name "Gridrunner (1989)(Muffbusters)[p].prg" size 13089 crc 9e655776 md5 7829af5e0ccb8078e6732897dd8dc4e6 )
+)
+
+game (
+	name "Gunlaw (1987)(Mastertronic)"
+	description "Gunlaw (1987)(Mastertronic)"
+	rom ( name "Gunlaw (1987)(Mastertronic).prg" size 12289 crc 320616cc md5 5ba76680efd0911aabaebf9307d86497 )
+)
+
+game (
+	name "Gunslinger (1984)(Tynesoft Computer Software)(GB)"
+	description "Gunslinger (1984)(Tynesoft Computer Software)(GB)"
+	rom ( name "Gunslinger (1984)(Tynesoft Computer Software)(GB).prg" size 12288 crc 5aae4b93 md5 b547e5c80b393da611478bb51d200b5d )
+)
+
+game (
+	name "Guzzler (1986)(Players)"
+	description "Guzzler (1986)(Players)"
+	rom ( name "Guzzler (1986)(Players).prg" size 12324 crc 71371ac5 md5 ff86735e924f0ad7b74b5e367e9b1f6b )
+)
+
+game (
+	name "Gwnn (1987)(Mastertronic)"
+	description "Gwnn (1987)(Mastertronic)"
+	rom ( name "Gwnn (1987)(Mastertronic).prg" size 12320 crc c9271aaf md5 9f9e8a61538cf7b2b1d7bb0c0baa337c )
+)
+
+game (
+	name "Halallabirinthus (1989)(Novotrade)(hu)"
+	description "Halallabirinthus (1989)(Novotrade)(hu)"
+	rom ( name "Halallabirinthus (1989)(Novotrade)(hu).prg" size 22209 crc 3c1893ed md5 7741562d081b396e6593540d9b6775bd )
+)
+
+game (
+	name "Harvey Headbanger (1986)(Firebird)"
+	description "Harvey Headbanger (1986)(Firebird)"
+	rom ( name "Harvey Headbanger (1986)(Firebird).prg" size 12320 crc e40fd12b md5 25fbee2221023fc17a60b8d24697eeb2 )
+)
+
+game (
+	name "Head Over Heels (1990)(Muffbusters)[p]"
+	description "Head Over Heels (1990)(Muffbusters)[p]"
+	rom ( name "Head Over Heels (1990)(Muffbusters)[p].prg" size 48081 crc 29685fa6 md5 ce42dec339558b789ef2c1cb7ea1f261 )
+)
+
+game (
+	name "Headhunters (1992)(Kuni)(PD)"
+	description "Headhunters (1992)(Kuni)(PD)"
+	rom ( name "Headhunters (1992)(Kuni)(PD).prg" size 27280 crc 9cf54630 md5 74345f42b99e030629af7379303e34e4 )
+)
+
+game (
+	name "Helicopters (1993)(Skoro)(en-hu)(PD)"
+	description "Helicopters (1993)(Skoro)(en-hu)(PD)"
+	rom ( name "Helicopters (1993)(Skoro)(en-hu)(PD).prg" size 28421 crc 60a2e74e md5 044125a369282a846b508bcea1072f25 )
+)
+
+game (
+	name "Helicopters 2 (1994)(Synergy)(PD)"
+	description "Helicopters 2 (1994)(Synergy)(PD)"
+	rom ( name "Helicopters 2 (1994)(Synergy)(PD).prg" size 27116 crc 83a36008 md5 7e907562a26c22dfa9bda06e6db7513a )
+)
+
+game (
+	name "Helix (1988)(Falcon Software)(NTSC)"
+	description "Helix (1988)(Falcon Software)(NTSC)"
+	rom ( name "Helix (1988)(Falcon Software)(NTSC).prg" size 7121 crc f91a4e39 md5 a2e9e98cbba18123ab40f4777c035cfc )
+)
+
+game (
+	name "Helix (1988)(Falcon Software)(PAL)"
+	description "Helix (1988)(Falcon Software)(PAL)"
+	rom ( name "Helix (1988)(Falcon Software)(PAL).prg" size 7125 crc e2a049a0 md5 76b5aaadab174fb96e50ac8b90221a37 )
+)
+
+game (
+	name "Helix (1988)(Falcon Software)(PAL)[a]"
+	description "Helix (1988)(Falcon Software)(PAL)[a]"
+	rom ( name "Helix (1988)(Falcon Software)(PAL)[a].prg" size 6537 crc 7b8676a5 md5 8eaf676c9adfe2ea814cc46f71187feb )
+)
+
+game (
+	name "Hell 2, The (19xx)(Scorpions)(PD)"
+	description "Hell 2, The (19xx)(Scorpions)(PD)"
+	rom ( name "Hell 2, The (19xx)(Scorpions)(PD).prg" size 19600 crc fc481415 md5 2c67a7a929d0e004723f649423aae1be )
+)
+
+game (
+	name "Hell 3, The (1995)(Scorpions)(PD)"
+	description "Hell 3, The (1995)(Scorpions)(PD)"
+	rom ( name "Hell 3, The (1995)(Scorpions)(PD).prg" size 27200 crc add13e37 md5 49afa232df8150f7961c5cb7a34cc06c )
+)
+
+game (
+	name "Hell, The (19xx)(Assassin)(PD)[b]"
+	description "Hell, The (19xx)(Assassin)(PD)[b]"
+	rom ( name "Hell, The (19xx)(Assassin)(PD)[b].prg" size 27200 crc 0db4a7f6 md5 e63d6977293fa7d71d3eff270be01e91 )
+)
+
+game (
+	name "Hexaeder (1989)(Boszik, Istvan)(hu)"
+	description "Hexaeder (1989)(Boszik, Istvan)(hu)"
+	rom ( name "Hexaeder (1989)(Boszik, Istvan)(hu).prg" size 27040 crc 38973611 md5 c3ebb0c768b71e4d620c87523381fa3b )
+)
+
+game (
+	name "Hexenkueche (1990)(TCFS)(PD)"
+	description "Hexenkueche (1990)(TCFS)(PD)"
+	rom ( name "Hexenkueche (1990)(TCFS)(PD).prg" size 42064 crc dab82f4b md5 fddf9c302cc236ee584471fce31e98be )
+)
+
+game (
+	name "Hobbit, The (1989)(Pigmy)[p]"
+	description "Hobbit, The (1989)(Pigmy)[p]"
+	rom ( name "Hobbit, The (1989)(Pigmy)[p].prg" size 43361 crc c67dfc47 md5 ee4066ce9a3dfc474955e6c1f1a3da84 )
+)
+
+game (
+	name "Hollywood Poker - Denise (1987)(Golden Games)[h H.C.S.]"
+	description "Hollywood Poker - Denise (1987)(Golden Games)[h H.C.S.]"
+	rom ( name "Hollywood Poker - Denise (1987)(Golden Games)[h H.C.S.].prg" size 24039 crc ba0c7827 md5 ed0434b21a5f1f79b3526b3814e3e34b )
+)
+
+game (
+	name "Hollywood Poker - Isabell (1987)(Golden Games)[h H.C.S.]"
+	description "Hollywood Poker - Isabell (1987)(Golden Games)[h H.C.S.]"
+	rom ( name "Hollywood Poker - Isabell (1987)(Golden Games)[h H.C.S.].prg" size 24040 crc fd3a33e7 md5 ebeee9bbfba71e0eb39aaca5847b23e1 )
+)
+
+game (
+	name "Hollywood Poker - Lorence (1987)(Golden Games)[h H.C.S.]"
+	description "Hollywood Poker - Lorence (1987)(Golden Games)[h H.C.S.]"
+	rom ( name "Hollywood Poker - Lorence (1987)(Golden Games)[h H.C.S.].prg" size 25190 crc 3c4c6530 md5 f2fd8a75fdfa7371455ee642b4787795 )
+)
+
+game (
+	name "Hollywood Poker - Stephanie (1987)(Golden Games)[h H.C.S.]"
+	description "Hollywood Poker - Stephanie (1987)(Golden Games)[h H.C.S.]"
+	rom ( name "Hollywood Poker - Stephanie (1987)(Golden Games)[h H.C.S.].prg" size 25993 crc 10a50fce md5 31cd57cb1fdb229b0be7925dec5cd0f7 )
+)
+
+game (
+	name "Hos Lovag, A (1986)(Tihor, Miklos)[b]"
+	description "Hos Lovag, A (1986)(Tihor, Miklos)[b]"
+	rom ( name "Hos Lovag, A (1986)(Tihor, Miklos)[b].prg" size 9181 crc 57d6748b md5 b4b915ce66abda0ed999dcac9ba00611 )
+)
+
+game (
+	name "Hos Lovag, A (1986)(Tihor, Miklos)[f TomHX]"
+	description "Hos Lovag, A (1986)(Tihor, Miklos)[f TomHX]"
+	rom ( name "Hos Lovag, A (1986)(Tihor, Miklos)[f TomHX].prg" size 12289 crc 151e3715 md5 849ff72b83705870e905185b376916bf )
+)
+
+game (
+	name "Hunter (1993)(GOTU)(PD)[b]"
+	description "Hunter (1993)(GOTU)(PD)[b]"
+	rom ( name "Hunter (1993)(GOTU)(PD)[b].prg" size 31200 crc d38c50ce md5 5d6936aae29799f10c6aa0912a6a39c8 )
+)
+
+game (
+	name "Hustler (1985)(Bubble Bus Software)"
+	description "Hustler (1985)(Bubble Bus Software)"
+	rom ( name "Hustler (1985)(Bubble Bus Software).prg" size 12288 crc 3ad0ed2a md5 c53b9cf8cf5380e661e101349d01509a )
+)
+
+game (
+	name "Hustler (1985)(Bubble Bus Software)[a]"
+	description "Hustler (1985)(Bubble Bus Software)[a]"
+	rom ( name "Hustler (1985)(Bubble Bus Software)[a].prg" size 9888 crc 8975fa0f md5 83483d527e84e7f8ee01b3d9aa37c6f8 )
+)
+
+game (
+	name "Icicle Works (1985)(CBM)"
+	description "Icicle Works (1985)(CBM)"
+	rom ( name "Icicle Works (1985)(CBM).prg" size 40036 crc f2ceca22 md5 7aa239209e36cb8549be7b2c4ec5ac07 )
+)
+
+game (
+	name "Idolabirintus (1987)(Novotrade)(hu)[cr KNM - CMS]"
+	description "Idolabirintus (1987)(Novotrade)(hu)[cr KNM - CMS]"
+	rom ( name "Idolabirintus (1987)(Novotrade)(hu)[cr KNM - CMS].prg" size 50117 crc 64f43ff4 md5 a4b3177a0447a09b1c42cb896c7e1f13 )
+)
+
+game (
+	name "Idoregesz (1989)(Muffbusters)(Plus4)(hu)(PD)"
+	description "Idoregesz (1989)(Muffbusters)(Plus4)(hu)(PD)"
+	rom ( name "Idoregesz (1989)(Muffbusters)(Plus4)(hu)(PD).prg" size 39141 crc 73269557 md5 fd209c7320aa06db7286bc316e03e3bb )
+)
+
+game (
+	name "Ikari Warriors (1987)(Elite)"
+	description "Ikari Warriors (1987)(Elite)"
+	rom ( name "Ikari Warriors (1987)(Elite).prg" size 13520 crc 635b998c md5 3649173b6a9ce9eacb1383be66746ddc )
+)
+
+game (
+	name "Indoor Soccer (1986)(Magnificent 7 Software)"
+	description "Indoor Soccer (1986)(Magnificent 7 Software)"
+	rom ( name "Indoor Soccer (1986)(Magnificent 7 Software).prg" size 13520 crc 1dbefc8c md5 7ff8e4a159ecb39b5bd5f9d214515402 )
+)
+
+game (
+	name "Indoor Sports (198x)(Tynesoft Computer Software)(GB)"
+	description "Indoor Sports (198x)(Tynesoft Computer Software)(GB)"
+	rom ( name "Indoor Sports (198x)(Tynesoft Computer Software)(GB).prg" size 24320 crc 1a94e482 md5 62a1beacfc6b6f0af93f92d5f250713a )
+)
+
+game (
+	name "Into The Deep (1986)(Firebird)"
+	description "Into The Deep (1986)(Firebird)"
+	rom ( name "Into The Deep (1986)(Firebird).prg" size 9830 crc 60838134 md5 1eca17ff25d1c67afe041354ca601818 )
+)
+
+game (
+	name "Into the Eagles Nest (1990)(Muffbusters)[p]"
+	description "Into the Eagles Nest (1990)(Muffbusters)[p]"
+	rom ( name "Into the Eagles Nest (1990)(Muffbusters)[p].prg" size 41286 crc 75e2c439 md5 36467326a0f4d83b247f406e0f131064 )
+)
+
+game (
+	name "Invaders (1984)(CBM)"
+	description "Invaders (1984)(CBM)"
+	rom ( name "Invaders (1984)(CBM).prg" size 12289 crc 48022ca2 md5 96d57280452ca83908a9af9fbde88c1b )
+)
+
+game (
+	name "Invincible, The (1988)(Novotrade)(hu)(PD)"
+	description "Invincible, The (1988)(Novotrade)(hu)(PD)"
+	rom ( name "Invincible, The (1988)(Novotrade)(hu)(PD).prg" size 44754 crc 6df6fb5a md5 6aaceb0b65ef6aa5dd3f5c7c248670cf )
+)
+
+game (
+	name "Jack Attack (1984)(CBM)"
+	description "Jack Attack (1984)(CBM)"
+	rom ( name "Jack Attack (1984)(CBM).prg" size 25040 crc 9618d1ac md5 bf204b1b96d013a32bbadddab8a96989 )
+)
+
+game (
+	name "Jet Man (19xx)(-)(it)[dingbat hack]"
+	description "Jet Man (19xx)(-)(it)[dingbat hack]"
+	rom ( name "Jet Man (19xx)(-)(it)[dingbat hack].prg" size 10480 crc 56ee3f1f md5 9831a8d44cbd2a7e1cfa8f903787e42e )
+)
+
+game (
+	name "Jet Set Willy (1986)(Tynesoft Computer Software)(GB)"
+	description "Jet Set Willy (1986)(Tynesoft Computer Software)(GB)"
+	rom ( name "Jet Set Willy (1986)(Tynesoft Computer Software)(GB).prg" size 12289 crc 0b81225a md5 fa21ccb07fee5ad8f87cf4a98a53f40b )
+)
+
+game (
+	name "Jetbrix (1986)(Gremlin Graphics)"
+	description "Jetbrix (1986)(Gremlin Graphics)"
+	rom ( name "Jetbrix (1986)(Gremlin Graphics).prg" size 12303 crc b298a8ed md5 56711ae97055eb2aec13b8401201e770 )
+)
+
+game (
+	name "Jetbrix (1986)(Gremlin Graphics)[b]"
+	description "Jetbrix (1986)(Gremlin Graphics)[b]"
+	rom ( name "Jetbrix (1986)(Gremlin Graphics)[b].prg" size 8480 crc 174326a0 md5 eb5a4879f58f463a0b94f2914a3580f4 )
+)
+
+game (
+	name "Jumbo (1988)(Novotrade)(hu)"
+	description "Jumbo (1988)(Novotrade)(hu)"
+	rom ( name "Jumbo (1988)(Novotrade)(hu).prg" size 10182 crc 30675b8a md5 4a56483c72c953419869553bf308c4d6 )
+)
+
+game (
+	name "Kane (1986)(Mastertronic)[SYS15868]"
+	description "Kane (1986)(Mastertronic)[SYS15868]"
+	rom ( name "Kane (1986)(Mastertronic)[SYS15868].prg" size 12289 crc cfa2c1d5 md5 f7f7b9e76361e667a367bb1aad7be47f )
+)
+
+game (
+	name "Karate King (1986)(Kingsoft)"
+	description "Karate King (1986)(Kingsoft)"
+	rom ( name "Karate King (1986)(Kingsoft).prg" size 20880 crc 06f09ca2 md5 8455bf5143874638ddd32d023cb067b7 )
+)
+
+game (
+	name "Kazik and the Ghosts (1986)(Braintron)"
+	description "Kazik and the Ghosts (1986)(Braintron)"
+	rom ( name "Kazik and the Ghosts (1986)(Braintron).prg" size 8780 crc 324e23a0 md5 9d81847191e8d3fff4bb01f5419299de )
+)
+
+game (
+	name "Kenny Dalglish Soccer Manager (1990)(TGMS)(Plus4)[p]"
+	description "Kenny Dalglish Soccer Manager (1990)(TGMS)(Plus4)[p]"
+	rom ( name "Kenny Dalglish Soccer Manager (1990)(TGMS)(Plus4)[p].prg" size 37600 crc 56a86c7f md5 535b3905eeab0abbb380a36d9b64a6ee )
+)
+
+game (
+	name "Kikstart - Off-Road Simulator (1986)(Mastertronic)"
+	description "Kikstart - Off-Road Simulator (1986)(Mastertronic)"
+	rom ( name "Kikstart - Off-Road Simulator (1986)(Mastertronic).prg" size 9559 crc 901f9cb0 md5 1c6d444f0b608dec87f0b4db00d90cde )
+)
+
+game (
+	name "Kikstart - Off-Road Simulator (1986)(Mastertronic)[SYS8192]"
+	description "Kikstart - Off-Road Simulator (1986)(Mastertronic)[SYS8192]"
+	rom ( name "Kikstart - Off-Road Simulator (1986)(Mastertronic)[SYS8192].prg" size 12313 crc a9d4d592 md5 e113ae5c213e439825eccb0df292cc79 )
+)
+
+game (
+	name "Kikstart Editor (1988)(TCFS)(hu)"
+	description "Kikstart Editor (1988)(TCFS)(hu)"
+	rom ( name "Kikstart Editor (1988)(TCFS)(hu).prg" size 15841 crc 88396994 md5 8e63ee9cdcbbc56cfe7ee021df2cbd7f )
+)
+
+game (
+	name "Kikstart Strecken Editor (1988)(TCFS)[tr de Werner]"
+	description "Kikstart Strecken Editor (1988)(TCFS)[tr de Werner]"
+	rom ( name "Kikstart Strecken Editor (1988)(TCFS)[tr de Werner].prg" size 13680 crc 813e48cd md5 3e05b38cbf3d8c2392d3914d6ceddab0 )
+)
+
+game (
+	name "Killapede (1986)(Players)"
+	description "Killapede (1986)(Players)"
+	rom ( name "Killapede (1986)(Players).prg" size 12289 crc 278323d1 md5 8faa579a7d92ea705572ba900af6cd9f )
+)
+
+game (
+	name "King of Kings, The (1989)(Ott, Hartmut)"
+	description "King of Kings, The (1989)(Ott, Hartmut)"
+	rom ( name "King of Kings, The (1989)(Ott, Hartmut).prg" size 12289 crc 0f30fdef md5 2f9d9ad4054b663c57a1a59f6815224b )
+)
+
+game (
+	name "Knight's Move (1986)(Livewire Software)"
+	description "Knight's Move (1986)(Livewire Software)"
+	rom ( name "Knight's Move (1986)(Livewire Software).prg" size 3966 crc 945fc57b md5 2a22bbb61409f888479a15d07f9bbd14 )
+)
+
+game (
+	name "Krakout (1992)(Sasvari, Thomas)(PD)[t +4 TCFS]"
+	description "Krakout (1992)(Sasvari, Thomas)(PD)[t +4 TCFS]"
+	rom ( name "Krakout (1992)(Sasvari, Thomas)(PD)[t +4 TCFS].prg" size 32504 crc c937d1e4 md5 c0fdffa1586e7093f40e663957670cc8 )
+)
+
+game (
+	name "Kryptonite (1991)(Terrorists)(PD)"
+	description "Kryptonite (1991)(Terrorists)(PD)"
+	rom ( name "Kryptonite (1991)(Terrorists)(PD).prg" size 28101 crc 66ba3da1 md5 0c593008e2594da25e3ebdae9330cd03 )
+)
+
+game (
+	name "Kung-Fu Kid (1986)(Gremlin Graphics)"
+	description "Kung-Fu Kid (1986)(Gremlin Graphics)"
+	rom ( name "Kung-Fu Kid (1986)(Gremlin Graphics).prg" size 12290 crc 63fedee9 md5 693fc4089a8abf35b74ceed799b37a76 )
+)
+
+game (
+	name "Kung-Fu Kid (1986)(Gremlin Graphics)[b]"
+	description "Kung-Fu Kid (1986)(Gremlin Graphics)[b]"
+	rom ( name "Kung-Fu Kid (1986)(Gremlin Graphics)[b].prg" size 11360 crc 3618a861 md5 c6085252bdceb83cea081171263c46ec )
+)
+
+game (
+	name "Labirinth (1993-08-24)(Skoro)"
+	description "Labirinth (1993-08-24)(Skoro)"
+	rom ( name "Labirinth (1993-08-24)(Skoro).prg" size 32640 crc 5cbf3090 md5 d07b33a882c74e8ed9209b27b8bb9378 )
+)
+
+game (
+	name "Lancer-Lord (1990)(Muffbusters)(Plus4)[p]"
+	description "Lancer-Lord (1990)(Muffbusters)(Plus4)[p]"
+	rom ( name "Lancer-Lord (1990)(Muffbusters)(Plus4)[p].prg" size 20624 crc 451cd932 md5 8b7866f98701b472fdbf85850e16c8da )
+)
+
+game (
+	name "Laser Squad II (1992)(TGMS)[p]"
+	description "Laser Squad II (1992)(TGMS)[p]"
+	rom ( name "Laser Squad II (1992)(TGMS)[p].prg" size 40590 crc 4f28bee6 md5 586f471a8e10d9021976816af7473157 )
+)
+
+game (
+	name "Laza! (1986)(Mr. Chip Software)[cr Mr. Mask-Soft]"
+	description "Laza! (1986)(Mr. Chip Software)[cr Mr. Mask-Soft]"
+	rom ( name "Laza! (1986)(Mr. Chip Software)[cr Mr. Mask-Soft].prg" size 10483 crc f800e836 md5 dc40e60ad9f4eec6304bd249831c21ca )
+)
+
+game (
+	name "Laza! (1986)(Mr. Chip Software)[cr Section 9]"
+	description "Laza! (1986)(Mr. Chip Software)[cr Section 9]"
+	rom ( name "Laza! (1986)(Mr. Chip Software)[cr Section 9].prg" size 9753 crc 42994f13 md5 c1a99f8f078c08da8f26adcf2d2abe97 )
+)
+
+game (
+	name "Leaper (1986)(Bug-Byte)"
+	description "Leaper (1986)(Bug-Byte)"
+	rom ( name "Leaper (1986)(Bug-Byte).prg" size 26206 crc 813b99c2 md5 d981be0519e00d112bce3741281a0873 )
+)
+
+game (
+	name "Legionnaire (1986)(Anco)"
+	description "Legionnaire (1986)(Anco)"
+	rom ( name "Legionnaire (1986)(Anco).prg" size 12289 crc 42ada415 md5 323878316cbb00c3d680e5c90f445d6c )
+)
+
+game (
+	name "Leonardo (1993)(Coroners)[f][p]"
+	description "Leonardo (1993)(Coroners)[f][p]"
+	rom ( name "Leonardo (1993)(Coroners)[f][p].prg" size 42583 crc d08aa391 md5 a62060d4aedc9b7c018af027337a58c3 )
+)
+
+game (
+	name "Liberator (1986)(Magnificent 7 Software)"
+	description "Liberator (1986)(Magnificent 7 Software)"
+	rom ( name "Liberator (1986)(Magnificent 7 Software).prg" size 10145 crc 524f558b md5 3f66c4e4e413065d9841c699d678829b )
+)
+
+game (
+	name "Lloyd Game (1992)(Methabolix)(PD)"
+	description "Lloyd Game (1992)(Methabolix)(PD)"
+	rom ( name "Lloyd Game (1992)(Methabolix)(PD).prg" size 38960 crc 494620b9 md5 cc0b73347e297ff747e291b698cce84c )
+)
+
+game (
+	name "Loco Co-Co (1986)(Illusion Software)[b]"
+	description "Loco Co-Co (1986)(Illusion Software)[b]"
+	rom ( name "Loco Co-Co (1986)(Illusion Software)[b].prg" size 6914 crc eca1ef95 md5 e6ab31ba444ccc2339829382a465b501 )
+)
+
+game (
+	name "Loco Co-Co (1986)(Illusion Software)[SYS5389]"
+	description "Loco Co-Co (1986)(Illusion Software)[SYS5389]"
+	rom ( name "Loco Co-Co (1986)(Illusion Software)[SYS5389].prg" size 12289 crc 46245f03 md5 34dac51112e374a2644598eecb0266c1 )
+)
+
+game (
+	name "Locomotion (1985)(CBM)"
+	description "Locomotion (1985)(CBM)"
+	rom ( name "Locomotion (1985)(CBM).prg" size 12288 crc eee0d518 md5 cec706fec8a8c099a768d0b68abf5560 )
+)
+
+game (
+	name "Logic (1990)(CSM)(PD)"
+	description "Logic (1990)(CSM)(PD)"
+	rom ( name "Logic (1990)(CSM)(PD).prg" size 13760 crc b279ba9a md5 f594013134d48bb5022b83d96d9dbd69 )
+)
+
+game (
+	name "Logical Ball (1992)(EDC)(PD)"
+	description "Logical Ball (1992)(EDC)(PD)"
+	rom ( name "Logical Ball (1992)(EDC)(PD).prg" size 35290 crc 462ff391 md5 75b2099ea5a7d2192e209fb344a9e4aa )
+)
+
+game (
+	name "Logictrainer (19xx)(GOTU)[needs password]"
+	description "Logictrainer (19xx)(GOTU)[needs password]"
+	rom ( name "Logictrainer (19xx)(GOTU)[needs password].prg" size 30997 crc d4ec881d md5 dab571eb18491268fdae04511b9ab9aa )
+)
+
+game (
+	name "Logomaze (1996)(Assassin)(PD)"
+	description "Logomaze (1996)(Assassin)(PD)"
+	rom ( name "Logomaze (1996)(Assassin)(PD).prg" size 33880 crc 31916a75 md5 0ec5ef265bd804fb0d957d19018106ae )
+)
+
+game (
+	name "L'uomo (19xx)(-)(it)[SYS6500][uxb hack]"
+	description "L'uomo (19xx)(-)(it)[SYS6500][uxb hack]"
+	rom ( name "L'uomo (19xx)(-)(it)[SYS6500][uxb hack].prg" size 12288 crc a5a15a6e md5 0c034246055b707e8d226df1cd7d4013 )
+)
+
+game (
+	name "Mad Maze (1986)(Axel Computing)"
+	description "Mad Maze (1986)(Axel Computing)"
+	rom ( name "Mad Maze (1986)(Axel Computing).prg" size 20483 crc 8d10ba40 md5 a5bfe7d23870952b9bb6e4229a5566a2 )
+)
+
+game (
+	name "Magician's Curse 3, The (1988)(H., Gabor)"
+	description "Magician's Curse 3, The (1988)(H., Gabor)"
+	rom ( name "Magician's Curse 3, The (1988)(H., Gabor).prg" size 14162 crc d26af22d md5 367948723f31274d13ba12bc6f8f884f )
+)
+
+game (
+	name "Magician's Curse, The (1986)(Gremlin Graphics)"
+	description "Magician's Curse, The (1986)(Gremlin Graphics)"
+	rom ( name "Magician's Curse, The (1986)(Gremlin Graphics).prg" size 11302 crc 0096ab84 md5 2d16e369b1394e78f5412868bafc49a4 )
+)
+
+game (
+	name "Magician's Curse, The (1986)(Gremlin Graphics)[a]"
+	description "Magician's Curse, The (1986)(Gremlin Graphics)[a]"
+	rom ( name "Magician's Curse, The (1986)(Gremlin Graphics)[a].prg" size 14061 crc a9c20568 md5 8a6441c25b451110b07cdd87ef16258c )
+)
+
+game (
+	name "Magnet-X (19xx)(EVS)[p]"
+	description "Magnet-X (19xx)(EVS)[p]"
+	rom ( name "Magnet-X (19xx)(EVS)[p].prg" size 38960 crc 8ea1b13e md5 41b0b3bbb625adc3a3bbcfe877337f9e )
+)
+
+game (
+	name "Major Blink (1985)(CRL Group)"
+	description "Major Blink (1985)(CRL Group)"
+	rom ( name "Major Blink (1985)(CRL Group).prg" size 12288 crc b6cc2ea3 md5 e063a540f16501e3504def9b8da68a54 )
+)
+
+game (
+	name "Major Blink (1985)(CRL Group)[t +2 TTC]"
+	description "Major Blink (1985)(CRL Group)[t +2 TTC]"
+	rom ( name "Major Blink (1985)(CRL Group)[t +2 TTC].prg" size 14121 crc fb26d669 md5 ad2ec7926b2439e58d4c0265a7bf1c3c )
+)
+
+game (
+	name "Maniac Garden, The (1989)(New Multisoft)"
+	description "Maniac Garden, The (1989)(New Multisoft)"
+	rom ( name "Maniac Garden, The (1989)(New Multisoft).prg" size 9520 crc 87fe0f5a md5 6d070b0a620c5a741a3dd29d8c885aa3 )
+)
+
+game (
+	name "Maniax (1988)(Kingsoft)[cr Men Of Science]"
+	description "Maniax (1988)(Kingsoft)[cr Men Of Science]"
+	rom ( name "Maniax (1988)(Kingsoft)[cr Men Of Science].prg" size 38403 crc fdcae5f5 md5 01bc1d817c1fd81dcf0f36aac0608c55 )
+)
+
+game (
+	name "Master Golf (1987)(Hans Magnus Rohleder)[cr Terrorists][b]"
+	description "Master Golf (1987)(Hans Magnus Rohleder)[cr Terrorists][b]"
+	rom ( name "Master Golf (1987)(Hans Magnus Rohleder)[cr Terrorists][b].prg" size 20959 crc c842724a md5 07e76f6bf7d6c946db826a41950cc603 )
+)
+
+game (
+	name "Master Mind (1986)(-)[b]"
+	description "Master Mind (1986)(-)[b]"
+	rom ( name "Master Mind (1986)(-)[b].prg" size 10000 crc 246ce78e md5 17269068d9cb0a26453636ed691d4b2a )
+)
+
+game (
+	name "Master-Dame (1989)(Wirbelauer, Peter)(de)"
+	description "Master-Dame (1989)(Wirbelauer, Peter)(de)"
+	rom ( name "Master-Dame (1989)(Wirbelauer, Peter)(de).prg" size 25611 crc 39c1000d md5 633efd41bbb10338f15127cf9e0eb222 )
+)
+
+game (
+	name "Matrix (1986)(Llamasoft)"
+	description "Matrix (1986)(Llamasoft)"
+	rom ( name "Matrix (1986)(Llamasoft).prg" size 10560 crc 56d242d5 md5 0da99d3a2499ef0e88a531fe003c182f )
+)
+
+game (
+	name "Matrix (1986)(Llamasoft)[t +2 TTC]"
+	description "Matrix (1986)(Llamasoft)[t +2 TTC]"
+	rom ( name "Matrix (1986)(Llamasoft)[t +2 TTC].prg" size 12919 crc 76d098c0 md5 651a412f8737a525411bf087a5f8d371 )
+)
+
+game (
+	name "Matrix (1995)(Moldi)(PD)"
+	description "Matrix (1995)(Moldi)(PD)"
+	rom ( name "Matrix (1995)(Moldi)(PD).prg" size 40720 crc 08128bad md5 4031fdb1756c4b1188a569baf63e63d0 )
+)
+
+game (
+	name "Maurer, Der (19xx)(J Goy Guben)(de)"
+	description "Maurer, Der (19xx)(J Goy Guben)(de)"
+	rom ( name "Maurer, Der (19xx)(J Goy Guben)(de).prg" size 11858 crc 80d9b2ac md5 3349666fe04f5d55ab1de77d34a57753 )
+)
+
+game (
+	name "Maus, Die (1988)(TW-Software)(de)"
+	description "Maus, Die (1988)(TW-Software)(de)"
+	rom ( name "Maus, Die (1988)(TW-Software)(de).prg" size 19698 crc d0ad4287 md5 63413bcea47c1f8a8e521b862e9f7727 )
+)
+
+game (
+	name "Melyur (1992)(GOTU)(hu)[b]"
+	description "Melyur (1992)(GOTU)(hu)[b]"
+	rom ( name "Melyur (1992)(GOTU)(hu)[b].prg" size 26894 crc 43c876aa md5 d0dc550def74f32f8543f4822419f4a0 )
+)
+
+game (
+	name "Meno Jeno (1988)(Novotrade)(hu)"
+	description "Meno Jeno (1988)(Novotrade)(hu)"
+	rom ( name "Meno Jeno (1988)(Novotrade)(hu).prg" size 26247 crc 94ff916e md5 69e844cb65582f0ee6219dd958ee3bdf )
+)
+
+game (
+	name "Mesel Az Erdo (1988)(Novotrade)(hu)"
+	description "Mesel Az Erdo (1988)(Novotrade)(hu)"
+	rom ( name "Mesel Az Erdo (1988)(Novotrade)(hu).prg" size 53074 crc 3b48ecde md5 180cbbbc087fe1c83b90fed2218b1ae4 )
+)
+
+game (
+	name "Microchess #3 (1988)(Pigmy)(Plus4)"
+	description "Microchess #3 (1988)(Pigmy)(Plus4)"
+	rom ( name "Microchess #3 (1988)(Pigmy)(Plus4).prg" size 18723 crc 6c7ef828 md5 63b21d65c0c6c22358b4762e9d1f4e61 )
+)
+
+game (
+	name "Mindbreaker (19xx)(United Force)(Plus4)[p]"
+	description "Mindbreaker (19xx)(United Force)(Plus4)[p]"
+	rom ( name "Mindbreaker (19xx)(United Force)(Plus4)[p].prg" size 18400 crc 807fe750 md5 74fe58c4e5472ba9896320c15461d380 )
+)
+
+game (
+	name "Mine Field (19xx)(Synergy)(PD)"
+	description "Mine Field (19xx)(Synergy)(PD)"
+	rom ( name "Mine Field (19xx)(Synergy)(PD).prg" size 10960 crc a2ea86f4 md5 ede5ce2102382a764f2399e8037b9ce3 )
+)
+
+game (
+	name "Mine Sweeper (1995)(Ati)(Plus4)(PD)"
+	description "Mine Sweeper (1995)(Ati)(Plus4)(PD)"
+	rom ( name "Mine Sweeper (1995)(Ati)(Plus4)(PD).prg" size 21280 crc ac0d06aa md5 d5ce174971dcada402dadea96c7ab830 )
+)
+
+game (
+	name "Mine Sweeper (1995)(Ati)(Plus4)(PD)[a]"
+	description "Mine Sweeper (1995)(Ati)(Plus4)(PD)[a]"
+	rom ( name "Mine Sweeper (1995)(Ati)(Plus4)(PD)[a].prg" size 21257 crc 9fe58636 md5 f330a6606ef4bc6a27a4da17d97f6e86 )
+)
+
+game (
+	name "Mitoszok Gyemantja (1991)(Lavina)(hu)[b]"
+	description "Mitoszok Gyemantja (1991)(Lavina)(hu)[b]"
+	rom ( name "Mitoszok Gyemantja (1991)(Lavina)(hu)[b].prg" size 14465 crc 5e38f147 md5 a1f670a1f609833f7e04688d493896ab )
+)
+
+game (
+	name "Molecule Man (1987)(Mastertronic)(Plus4)[cr Ko-Ko - Boomby]"
+	description "Molecule Man (1987)(Mastertronic)(Plus4)[cr Ko-Ko - Boomby]"
+	rom ( name "Molecule Man (1987)(Mastertronic)(Plus4)[cr Ko-Ko - Boomby].prg" size 13906 crc 2b7ce5a9 md5 26e9e201e3459ddd546cf2bf38617698 )
+)
+
+game (
+	name "Monkey Magic (1985)(Solar Software)[needs SYS]"
+	description "Monkey Magic (1985)(Solar Software)[needs SYS]"
+	rom ( name "Monkey Magic (1985)(Solar Software)[needs SYS].prg" size 12288 crc 5d122ff9 md5 4ccfa2f3f51df1249c899737721137a8 )
+)
+
+game (
+	name "Monty on the Run (1986)(Gremlin Graphics)"
+	description "Monty on the Run (1986)(Gremlin Graphics)"
+	rom ( name "Monty on the Run (1986)(Gremlin Graphics).prg" size 16385 crc 1347fce9 md5 7492498aefc42bb5003135cde951bea1 )
+)
+
+game (
+	name "Moon Buggy (1985)(Anirog)[cr Opi]"
+	description "Moon Buggy (1985)(Anirog)[cr Opi]"
+	rom ( name "Moon Buggy (1985)(Anirog)[cr Opi].prg" size 12288 crc c17e86a5 md5 4b2f729866c1967fdfc23cd4a5e0239d )
+)
+
+game (
+	name "Motor Mania (1990)(Muffbusters)(PD)"
+	description "Motor Mania (1990)(Muffbusters)(PD)"
+	rom ( name "Motor Mania (1990)(Muffbusters)(PD).prg" size 49581 crc 3bcfc50d md5 72b17cf00fa6d870a6524f4743101799 )
+)
+
+game (
+	name "Mr. Puniverse (1986)(Mastertronic)"
+	description "Mr. Puniverse (1986)(Mastertronic)"
+	rom ( name "Mr. Puniverse (1986)(Mastertronic).prg" size 12289 crc 7f122861 md5 b0fbc6624b471141d786ea057f3e5927 )
+)
+
+game (
+	name "Mr. Puniverse (1986)(Mastertronic)[m levels][SYS6900]"
+	description "Mr. Puniverse (1986)(Mastertronic)[m levels][SYS6900]"
+	rom ( name "Mr. Puniverse (1986)(Mastertronic)[m levels][SYS6900].prg" size 12288 crc c193730b md5 b482a7df899c572f690fbb401d40fc7b )
+)
+
+game (
+	name "Mysterious Adventure No. 8 (1989)(Pigmy)[p]"
+	description "Mysterious Adventure No. 8 (1989)(Pigmy)[p]"
+	rom ( name "Mysterious Adventure No. 8 (1989)(Pigmy)[p].prg" size 36469 crc 4280deb5 md5 98cb468016e6f4db0854350c6b92db9e )
+)
+
+game (
+	name "Nathrium Chlorid (1989)(FYC)(PD)"
+	description "Nathrium Chlorid (1989)(FYC)(PD)"
+	rom ( name "Nathrium Chlorid (1989)(FYC)(PD).prg" size 42369 crc 0b575907 md5 910405b8114405880e2437b4cdaddfdb )
+)
+
+game (
+	name "Nautilus (1988)(MCB)[t +1 Dokysoft]"
+	description "Nautilus (1988)(MCB)[t +1 Dokysoft]"
+	rom ( name "Nautilus (1988)(MCB)[t +1 Dokysoft].prg" size 31539 crc b7eecafe md5 8e8e065c44539014094fd9cc6ec83d13 )
+)
+
+game (
+	name "Nautilus (1988)(MCB)[t +1 Dokysoft][a]"
+	description "Nautilus (1988)(MCB)[t +1 Dokysoft][a]"
+	rom ( name "Nautilus (1988)(MCB)[t +1 Dokysoft][a].prg" size 31540 crc a0176ca4 md5 08ee81fee8f109dd1ede721178c6da48 )
+)
+
+game (
+	name "Nectar of the Gods, The (19xx)(Rogers, Doug)"
+	description "Nectar of the Gods, The (19xx)(Rogers, Doug)"
+	rom ( name "Nectar of the Gods, The (19xx)(Rogers, Doug).prg" size 33971 crc fee328a7 md5 6a8fca6ac7c5026f04402f0e4908e24d )
+)
+
+game (
+	name "Nest of Fleas, The (1991)(Billy Yards)"
+	description "Nest of Fleas, The (1991)(Billy Yards)"
+	rom ( name "Nest of Fleas, The (1991)(Billy Yards).prg" size 25520 crc e119f395 md5 95774ca3553aacfaddc896cd8f20c3f8 )
+)
+
+game (
+	name "Nibbly '92 (1992)(Double Destiny)[cr Success][p][t Success]"
+	description "Nibbly '92 (1992)(Double Destiny)[cr Success][p][t Success]"
+	rom ( name "Nibbly '92 (1992)(Double Destiny)[cr Success][p][t Success].prg" size 36690 crc 6e9ec264 md5 7c5fb858ccaf8b74b57b06242ea04727 )
+)
+
+game (
+	name "Nibbly '92 (19xx)(Pussycats)[p]"
+	description "Nibbly '92 (19xx)(Pussycats)[p]"
+	rom ( name "Nibbly '92 (19xx)(Pussycats)[p].prg" size 37368 crc e8c64ab0 md5 fd3def422eb42d0edc57a535548a91ed )
+)
+
+game (
+	name "Ninja Master (1986)(Firebird)"
+	description "Ninja Master (1986)(Firebird)"
+	rom ( name "Ninja Master (1986)(Firebird).prg" size 10880 crc c1a31a74 md5 37ac664a378918b409a606112bd9845f )
+)
+
+game (
+	name "Nintendo Worx (1992)(GOTU)(PD)"
+	description "Nintendo Worx (1992)(GOTU)(PD)"
+	rom ( name "Nintendo Worx (1992)(GOTU)(PD).prg" size 26800 crc d17e269e md5 4412f55ce4b94170fb43e79db32dcd3f )
+)
+
+game (
+	name "Nuclear Ball (1991)(TGH)(PD)"
+	description "Nuclear Ball (1991)(TGH)(PD)"
+	rom ( name "Nuclear Ball (1991)(TGH)(PD).prg" size 28720 crc 20449c8b md5 b0917b890c9427a79e8885841f3dadb0 )
+)
+
+game (
+	name "Nucleon (1990)(TCFS)(PD)"
+	description "Nucleon (1990)(TCFS)(PD)"
+	rom ( name "Nucleon (1990)(TCFS)(PD).prg" size 36882 crc 7b89682f md5 a7e1eaafee23fb202509ca39d938bca4 )
+)
+
+game (
+	name "Oliver Otthona (1988)(Novotrade)(hu)"
+	description "Oliver Otthona (1988)(Novotrade)(hu)"
+	rom ( name "Oliver Otthona (1988)(Novotrade)(hu).prg" size 15220 crc d6fe2322 md5 8047251f937dca5ff147225996271df0 )
+)
+
+game (
+	name "Olympic Skier (1985)(Mr. Chip Software)"
+	description "Olympic Skier (1985)(Mr. Chip Software)"
+	rom ( name "Olympic Skier (1985)(Mr. Chip Software).prg" size 12289 crc 7677333a md5 82adfb41ad29cb14da5e604369910b6a )
+)
+
+game (
+	name "One on One (1989)(Crown)[p]"
+	description "One on One (1989)(Crown)[p]"
+	rom ( name "One on One (1989)(Crown)[p].prg" size 35115 crc b998c8cc md5 9dbfad4b0c9372c0306a5aad48d1c74c )
+)
+
+game (
+	name "Othello (1993)(Ati)(PD)"
+	description "Othello (1993)(Ati)(PD)"
+	rom ( name "Othello (1993)(Ati)(PD).prg" size 18847 crc 420bc558 md5 c621d0351b2d6a24875df911b47c60f9 )
+)
+
+game (
+	name "Out On A Limb 1 (1984)(Anirog)[SYS4100]"
+	description "Out On A Limb 1 (1984)(Anirog)[SYS4100]"
+	rom ( name "Out On A Limb 1 (1984)(Anirog)[SYS4100].prg" size 12289 crc f75fa86e md5 58296f18f659f61810fe82d052992c8e )
+)
+
+game (
+	name "Out On A Limb 2 (1984)(Anirog)[SYS4100]"
+	description "Out On A Limb 2 (1984)(Anirog)[SYS4100]"
+	rom ( name "Out On A Limb 2 (1984)(Anirog)[SYS4100].prg" size 12289 crc 86377a40 md5 7357ee5cb9ffd3b03e1d39d5c22cd333 )
+)
+
+game (
+	name "Out On A Limb 3 (1984)(Anirog)[SYS4100]"
+	description "Out On A Limb 3 (1984)(Anirog)[SYS4100]"
+	rom ( name "Out On A Limb 3 (1984)(Anirog)[SYS4100].prg" size 12289 crc cde22c53 md5 4b6615ed55f59e05a13b231a93a4ffe1 )
+)
+
+game (
+	name "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW]"
+	description "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW]"
+	rom ( name "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW].prg" size 11594 crc b4af6cd2 md5 fc8ee625eb60fa9de409ae3c4c4ab7b3 )
+)
+
+game (
+	name "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW][a]"
+	description "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW][a]"
+	rom ( name "Overload (19xx)(Sex'n'Spirit)[cr SLW][t +1 SLW][a].prg" size 11600 crc 95511ed2 md5 a95aaca1717071a34b695e2eb3566c62 )
+)
+
+game (
+	name "P.O.D. - Proof Of Destruction (1986)(Mastertronic)"
+	description "P.O.D. - Proof Of Destruction (1986)(Mastertronic)"
+	rom ( name "P.O.D. - Proof Of Destruction (1986)(Mastertronic).prg" size 8160 crc 40f14d47 md5 d181b9a9b54b26e34ff898c2942dcf36 )
+)
+
+game (
+	name "Pac Man (1993)(Charon)(PD)"
+	description "Pac Man (1993)(Charon)(PD)"
+	rom ( name "Pac Man (1993)(Charon)(PD).prg" size 12113 crc 145f091d md5 cbdb1796d002b865ba9ab724953252a7 )
+)
+
+game (
+	name "Pacmania (1985)(Mr. Chip Software)"
+	description "Pacmania (1985)(Mr. Chip Software)"
+	rom ( name "Pacmania (1985)(Mr. Chip Software).prg" size 10287 crc 6450d87f md5 b80874f22898f2a46945484a4dd1bc16 )
+)
+
+game (
+	name "Pacmania (1985)(Mr. Chip Software)[b]"
+	description "Pacmania (1985)(Mr. Chip Software)[b]"
+	rom ( name "Pacmania (1985)(Mr. Chip Software)[b].prg" size 10400 crc 63baf46b md5 79cec469cebbf1ece73dc147396d0e4d )
+)
+
+game (
+	name "Pancho (1985)(CBM)"
+	description "Pancho (1985)(CBM)"
+	rom ( name "Pancho (1985)(CBM).prg" size 12288 crc 92235780 md5 ed08aeed60b37dd2c5144cf5d7abb297 )
+)
+
+game (
+	name "Panik! (1986)(Atlantis Software)"
+	description "Panik! (1986)(Atlantis Software)"
+	rom ( name "Panik! (1986)(Atlantis Software).prg" size 12290 crc 9443c327 md5 e650bb192ed91c3b676d3fb3e6b35bfa )
+)
+
+game (
+	name "Paperboy (1986)(Elite)"
+	description "Paperboy (1986)(Elite)"
+	rom ( name "Paperboy (1986)(Elite).prg" size 16157 crc de2b272d md5 831f1083e9411fc09e9e53210c119f7b )
+)
+
+game (
+	name "Paratroopers (1989)(Muffbusters)(Plus4)[p]"
+	description "Paratroopers (1989)(Muffbusters)(Plus4)[p]"
+	rom ( name "Paratroopers (1989)(Muffbusters)(Plus4)[p].prg" size 11541 crc 99c30eac md5 61c7cabd29adef970158d9100ffe2650 )
+)
+
+game (
+	name "Paratroopers (1992)(FYC)(Plus4)[p]"
+	description "Paratroopers (1992)(FYC)(Plus4)[p]"
+	rom ( name "Paratroopers (1992)(FYC)(Plus4)[p].prg" size 30160 crc 57b25fb2 md5 cd9c6fca1b1aafbea6ac4cd73c7cde50 )
+)
+
+game (
+	name "Patt Ball (1989)(TCFS)(hu)(PD)"
+	description "Patt Ball (1989)(TCFS)(hu)(PD)"
+	rom ( name "Patt Ball (1989)(TCFS)(hu)(PD).prg" size 47040 crc e0429153 md5 e781e2a4a1e494a50b69e6aa8e7cc617 )
+)
+
+game (
+	name "Pegged (1997)(Assassin)(PD)"
+	description "Pegged (1997)(Assassin)(PD)"
+	rom ( name "Pegged (1997)(Assassin)(PD).prg" size 36969 crc d133723c md5 23c4c4e709bf62befe14b04580fdd04f )
+)
+
+game (
+	name "Pengo (1996)(Absence)(PD)"
+	description "Pengo (1996)(Absence)(PD)"
+	rom ( name "Pengo (1996)(Absence)(PD).prg" size 45462 crc de72806e md5 069d7cedb3e49a4f560e74423e69fda6 )
+)
+
+game (
+	name "Petch (1985)(Anirog)"
+	description "Petch (1985)(Anirog)"
+	rom ( name "Petch (1985)(Anirog).prg" size 16683 crc 9110f059 md5 62f565e0e5576b41d5b9de2d851ad8be )
+)
+
+game (
+	name "PETChess 4000 (19xx)(Scorpions)[p]"
+	description "PETChess 4000 (19xx)(Scorpions)[p]"
+	rom ( name "PETChess 4000 (19xx)(Scorpions)[p].prg" size 25280 crc 2e15b004 md5 2076d8871b2824e11a142a2a3dc41435 )
+)
+
+game (
+	name "PETChess 4000 (19xx)(Scorpions)[p][a]"
+	description "PETChess 4000 (19xx)(Scorpions)[p][a]"
+	rom ( name "PETChess 4000 (19xx)(Scorpions)[p][a].prg" size 25210 crc d1a7c9be md5 696a886ea58853090529aea7b74b5a20 )
+)
+
+game (
+	name "Pheenix (1986)(Alternative Software)"
+	description "Pheenix (1986)(Alternative Software)"
+	rom ( name "Pheenix (1986)(Alternative Software).prg" size 12320 crc e959d6d9 md5 ee143998f8d9d095ca0bbebadd506761 )
+)
+
+game (
+	name "Pin Point (1986)(Anco)"
+	description "Pin Point (1986)(Anco)"
+	rom ( name "Pin Point (1986)(Anco).prg" size 12289 crc 89cdb317 md5 3f6f95a24279bf639eb94c4cc8f81d80 )
+)
+
+game (
+	name "Pince, A (1988)(Angyal Jozsef)(hu)"
+	description "Pince, A (1988)(Angyal Jozsef)(hu)"
+	rom ( name "Pince, A (1988)(Angyal Jozsef)(hu).prg" size 21096 crc 7f0f2226 md5 7e4fec5adf5b07c2a67120119e47d69a )
+)
+
+game (
+	name "Ping (1992)(Synergy)(PD)"
+	description "Ping (1992)(Synergy)(PD)"
+	rom ( name "Ping (1992)(Synergy)(PD).prg" size 24909 crc b7b61621 md5 cfe5b74dfcfb5aaf52a7eee30f2a5a52 )
+)
+
+game (
+	name "Ping (1992)(Synergy)(PD)[b]"
+	description "Ping (1992)(Synergy)(PD)[b]"
+	rom ( name "Ping (1992)(Synergy)(PD)[b].prg" size 8427 crc 29767e9b md5 0540d4331e546d9024af54d76654fde8 )
+)
+
+game (
+	name "Pipe Dream (1992)(TLS)(PD)"
+	description "Pipe Dream (1992)(TLS)(PD)"
+	rom ( name "Pipe Dream (1992)(TLS)(PD).prg" size 40827 crc 1f89024a md5 1cd7d120d5de319bf207670357f38aef )
+)
+
+game (
+	name "Pipe Mania (1992)(TCFS)[p]"
+	description "Pipe Mania (1992)(TCFS)[p]"
+	rom ( name "Pipe Mania (1992)(TCFS)[p].prg" size 30160 crc 196797ab md5 f15150d0ea30e7cc4c64ffb82944bee3 )
+)
+
+game (
+	name "Planet Search (1986)(Gremlin Graphics)"
+	description "Planet Search (1986)(Gremlin Graphics)"
+	rom ( name "Planet Search (1986)(Gremlin Graphics).prg" size 12289 crc e8de7553 md5 a3d9c6ecbf9e36812cef895b2843cc18 )
+)
+
+game (
+	name "Platina (1989)(Novotrade)(hu)[cr PPCS]"
+	description "Platina (1989)(Novotrade)(hu)[cr PPCS]"
+	rom ( name "Platina (1989)(Novotrade)(hu)[cr PPCS].prg" size 32480 crc cc6d7efa md5 6b692f23edf78835709292fb12efafb4 )
+)
+
+game (
+	name "Play Your Cards Right (19xx)(CSM)[p]"
+	description "Play Your Cards Right (19xx)(CSM)[p]"
+	rom ( name "Play Your Cards Right (19xx)(CSM)[p].prg" size 37867 crc 5507d6b5 md5 436183185408b0bcdd0ec72d36724e2b )
+)
+
+game (
+	name "Poker (1989)(LBM)(hu)"
+	description "Poker (1989)(LBM)(hu)"
+	rom ( name "Poker (1989)(LBM)(hu).prg" size 11358 crc bef8d18e md5 c0fa7a663d5cf991072712c957478e8d )
+)
+
+game (
+	name "Pokoli Torony (1988)(Mucsi)(hu)"
+	description "Pokoli Torony (1988)(Mucsi)(hu)"
+	rom ( name "Pokoli Torony (1988)(Mucsi)(hu).prg" size 12275 crc 60be655b md5 e829e359bc22c1e5988ac5729e3793b5 )
+)
+
+game (
+	name "Ponk (1995)(MUFF)(PD)"
+	description "Ponk (1995)(MUFF)(PD)"
+	rom ( name "Ponk (1995)(MUFF)(PD).prg" size 25690 crc 4210ac22 md5 490e302b144994f742a07e7f3064e8ff )
+)
+
+game (
+	name "Powerball (1986)(Mastertronic)"
+	description "Powerball (1986)(Mastertronic)"
+	rom ( name "Powerball (1986)(Mastertronic).prg" size 12288 crc 62a54ceb md5 e4f5a2b9b0f12943cd14ce7bf22908f9 )
+)
+
+game (
+	name "Prisoner (1991)(-)(PD)"
+	description "Prisoner (1991)(-)(PD)"
+	rom ( name "Prisoner (1991)(-)(PD).prg" size 8080 crc 3d901210 md5 64db2018ed59d3eaf5be6ea897ecc1b5 )
+)
+
+game (
+	name "Professional Amoeba (1991)(TCFS)(PD)"
+	description "Professional Amoeba (1991)(TCFS)(PD)"
+	rom ( name "Professional Amoeba (1991)(TCFS)(PD).prg" size 13811 crc 0f87ebc9 md5 50153d96414b04a0e8aa431d482fb331 )
+)
+
+game (
+	name "Project Nova (1986)(Gremlin Graphics)"
+	description "Project Nova (1986)(Gremlin Graphics)"
+	rom ( name "Project Nova (1986)(Gremlin Graphics).prg" size 14720 crc edf798dc md5 df75c8859014de9507325938deff26ed )
+)
+
+game (
+	name "Pulsar (1984)(Kingsoft)[SYS16304]"
+	description "Pulsar (1984)(Kingsoft)[SYS16304]"
+	rom ( name "Pulsar (1984)(Kingsoft)[SYS16304].prg" size 12289 crc 46b3da05 md5 88fb90f48ad74b32e10040939b88ac48 )
+)
+
+game (
+	name "Punchy (1984)(CBM)"
+	description "Punchy (1984)(CBM)"
+	rom ( name "Punchy (1984)(CBM).prg" size 12288 crc 832a8e23 md5 8ed8dcef04f84c4eac7cdd652f9e9a5f )
+)
+
+game (
+	name "Punchy (1984)(CBM)[t +1 Chronos]"
+	description "Punchy (1984)(CBM)[t +1 Chronos]"
+	rom ( name "Punchy (1984)(CBM)[t +1 Chronos].prg" size 8169 crc d17ace90 md5 2f33eb98a07302801899c4d0b9d84484 )
+)
+
+game (
+	name "Punk Puzzle (1992)(FYC)(PD)"
+	description "Punk Puzzle (1992)(FYC)(PD)"
+	rom ( name "Punk Puzzle (1992)(FYC)(PD).prg" size 23363 crc 422e63e7 md5 8e20da40eb5890daad36452c7bbc93ff )
+)
+
+game (
+	name "Purple Turtles (1984)(CBM)"
+	description "Purple Turtles (1984)(CBM)"
+	rom ( name "Purple Turtles (1984)(CBM).prg" size 16690 crc a3ea88ea md5 ae7dee7fc2ccc93d2590d21374b1f1c2 )
+)
+
+game (
+	name "Purple Turtles (1984)(CBM)[h][tr it]"
+	description "Purple Turtles (1984)(CBM)[h][tr it]"
+	rom ( name "Purple Turtles (1984)(CBM)[h][tr it].prg" size 10000 crc 75baadfc md5 7130eb4204e09fcf56d69b0881e81552 )
+)
+
+game (
+	name "Puzzle (1994)(Core)(PD)"
+	description "Puzzle (1994)(Core)(PD)"
+	rom ( name "Puzzle (1994)(Core)(PD).prg" size 51446 crc cc90d436 md5 d8418e664b3f48bff502243696122cba )
+)
+
+game (
+	name "Puzzle 2 (1994)(Synergy)(PD)"
+	description "Puzzle 2 (1994)(Synergy)(PD)"
+	rom ( name "Puzzle 2 (1994)(Synergy)(PD).prg" size 29752 crc 9c6b3417 md5 ce80c3bc6aee176ca2e2a08979a23d6f )
+)
+
+game (
+	name "Puzzle 3 (1995)(Scorpions)(PD)"
+	description "Puzzle 3 (1995)(Scorpions)(PD)"
+	rom ( name "Puzzle 3 (1995)(Scorpions)(PD).prg" size 24640 crc 0808f065 md5 0ff4c2c503745c51c3037d24bed031ad )
+)
+
+game (
+	name "Puzzle 4 (19xx)(Scorpions)(PD)"
+	description "Puzzle 4 (19xx)(Scorpions)(PD)"
+	rom ( name "Puzzle 4 (19xx)(Scorpions)(PD).prg" size 29200 crc b53d28b8 md5 4cce24e1bbca5f4f2127fb66ae9131cd )
+)
+
+game (
+	name "Puzzle Shuffle (1990)(Muffbusters)(PD)"
+	description "Puzzle Shuffle (1990)(Muffbusters)(PD)"
+	rom ( name "Puzzle Shuffle (1990)(Muffbusters)(PD).prg" size 35176 crc 9356f6f7 md5 7932b2d3fb3e5c5581688027eb15af7a )
+)
+
+game (
+	name "Puzzlenoid (1991)(TGH)(PD)"
+	description "Puzzlenoid (1991)(TGH)(PD)"
+	rom ( name "Puzzlenoid (1991)(TGH)(PD).prg" size 31200 crc 33b195c4 md5 ceb201679e46b59842058f12b5d94f2a )
+)
+
+game (
+	name "Puzznic (1993)(TCFS)[cr Chromance][p][t +3 Chromance]"
+	description "Puzznic (1993)(TCFS)[cr Chromance][p][t +3 Chromance]"
+	rom ( name "Puzznic (1993)(TCFS)[cr Chromance][p][t +3 Chromance].prg" size 26080 crc 38db5520 md5 96bef123935ff5c8355c8526302ed993 )
+)
+
+game (
+	name "Pyramid Guy (19xx)(Terrorists)(PD)"
+	description "Pyramid Guy (19xx)(Terrorists)(PD)"
+	rom ( name "Pyramid Guy (19xx)(Terrorists)(PD).prg" size 14275 crc 26dec0f8 md5 9fa5cde73e6004c526182622a40044af )
+)
+
+game (
+	name "Rablo-Rulett (1987)(Novotrade)(hu)"
+	description "Rablo-Rulett (1987)(Novotrade)(hu)"
+	rom ( name "Rablo-Rulett (1987)(Novotrade)(hu).prg" size 10034 crc 9d0f6fe0 md5 b6e90ae1e77806b43a8d3f5aeb955897 )
+)
+
+game (
+	name "Raffles (1985)(Tynesoft Computer Software)(GB)"
+	description "Raffles (1985)(Tynesoft Computer Software)(GB)"
+	rom ( name "Raffles (1985)(Tynesoft Computer Software)(GB).prg" size 11616 crc 95ef82ef md5 16f7953ee2feed3a405d3c4c87826b20 )
+)
+
+game (
+	name "Raid Over Russia (1985)(Scarabaeus)[cr Dr. Mabuse]"
+	description "Raid Over Russia (1985)(Scarabaeus)[cr Dr. Mabuse]"
+	rom ( name "Raid Over Russia (1985)(Scarabaeus)[cr Dr. Mabuse].prg" size 10381 crc ad0257c3 md5 b08dc5272d808a406fc8b368024d3350 )
+)
+
+game (
+	name "Rakontakota (1988)(Riszpong Tilogramma Software)(hu)"
+	description "Rakontakota (1988)(Riszpong Tilogramma Software)(hu)"
+	rom ( name "Rakontakota (1988)(Riszpong Tilogramma Software)(hu).prg" size 24797 crc b33675e4 md5 5c6e0787082ead7a20fd4d55a8024d43 )
+)
+
+game (
+	name "Ramazuri (1988)(Muffbusters)(Plus4)(hu)(PD)"
+	description "Ramazuri (1988)(Muffbusters)(Plus4)(hu)(PD)"
+	rom ( name "Ramazuri (1988)(Muffbusters)(Plus4)(hu)(PD).prg" size 9217 crc 96c23be1 md5 e868a17b5b4c97e19a6be90b5b00b895 )
+)
+
+game (
+	name "Raster Runner (1992)(TCFS)[p]"
+	description "Raster Runner (1992)(TCFS)[p]"
+	rom ( name "Raster Runner (1992)(TCFS)[p].prg" size 30320 crc d539d0a2 md5 204f0e733e6e6290aa694ea9b8d9ce20 )
+)
+
+game (
+	name "Reach for the Sky (1986)(Gremlin Graphics)[SYS8192]"
+	description "Reach for the Sky (1986)(Gremlin Graphics)[SYS8192]"
+	rom ( name "Reach for the Sky (1986)(Gremlin Graphics)[SYS8192].prg" size 12289 crc c5e4e1b4 md5 91edec82083a1bfe56080727cc708286 )
+)
+
+game (
+	name "Reflex (1988)(Players)"
+	description "Reflex (1988)(Players)"
+	rom ( name "Reflex (1988)(Players).prg" size 11680 crc 2d06240a md5 8efc4a0ef5a0e1778dd46cebaa26d556 )
+)
+
+game (
+	name "Renaissance (1982)(FYC)[p]"
+	description "Renaissance (1982)(FYC)[p]"
+	rom ( name "Renaissance (1982)(FYC)[p].prg" size 22960 crc b3744c56 md5 b6056c2fec83ed3f6e317bb6ca16216f )
+)
+
+game (
+	name "Rescue from Zylon (1985)(Gremlin Graphics)"
+	description "Rescue from Zylon (1985)(Gremlin Graphics)"
+	rom ( name "Rescue from Zylon (1985)(Gremlin Graphics).prg" size 12289 crc f919fea6 md5 d79e244bc81d198c7662eb430662ac93 )
+)
+
+game (
+	name "Revs (1988)(Pigmy)[p]"
+	description "Revs (1988)(Pigmy)[p]"
+	rom ( name "Revs (1988)(Pigmy)[p].prg" size 39121 crc 19b95c36 md5 5a2b58a3cc8789d93ac7d00c75a83443 )
+)
+
+game (
+	name "Rig Attack (1984)(Tynesoft Computer Software)(GB)"
+	description "Rig Attack (1984)(Tynesoft Computer Software)(GB)"
+	rom ( name "Rig Attack (1984)(Tynesoft Computer Software)(GB).prg" size 12289 crc 2f12401d md5 e5c14c255e428bcd8dd11c33abc8b376 )
+)
+
+game (
+	name "Road Warrior (19xx)(TYCB)"
+	description "Road Warrior (19xx)(TYCB)"
+	rom ( name "Road Warrior (19xx)(TYCB).prg" size 33440 crc 91923add md5 702588bc6ee3104ed7c6688800951303 )
+)
+
+game (
+	name "Robin of Sherwood (1989)(Pigmy)[p]"
+	description "Robin of Sherwood (1989)(Pigmy)[p]"
+	rom ( name "Robin of Sherwood (1989)(Pigmy)[p].prg" size 49248 crc ec4a4af6 md5 7176a5d29c8364d5e9d2bdf3b1a40725 )
+)
+
+game (
+	name "Robo Knight (1986)(Americana Software)"
+	description "Robo Knight (1986)(Americana Software)"
+	rom ( name "Robo Knight (1986)(Americana Software).prg" size 13569 crc 3690e047 md5 a5825cc41613dca62fd28ab843668183 )
+)
+
+game (
+	name "Rockmania (1990)(TCFS)(PD)"
+	description "Rockmania (1990)(TCFS)(PD)"
+	rom ( name "Rockmania (1990)(TCFS)(PD).prg" size 31957 crc 8ed8c6f8 md5 9bf1cc8db48c877594e950523f3152d1 )
+)
+
+game (
+	name "Rogue Trooper (1993)(CSORY)[p]"
+	description "Rogue Trooper (1993)(CSORY)[p]"
+	rom ( name "Rogue Trooper (1993)(CSORY)[p].prg" size 25310 crc 325b6c60 md5 3dea722a9aedec9acb7140f50d628cca )
+)
+
+game (
+	name "Roller Kong (1985)(Melbourne House)"
+	description "Roller Kong (1985)(Melbourne House)"
+	rom ( name "Roller Kong (1985)(Melbourne House).prg" size 8537 crc 792c6930 md5 7de16ff5c4e8f0d6a61379acd7279a82 )
+)
+
+game (
+	name "Rolling Stones 2, The (19xx)(GFW)(PD)"
+	description "Rolling Stones 2, The (19xx)(GFW)(PD)"
+	rom ( name "Rolling Stones 2, The (19xx)(GFW)(PD).prg" size 33410 crc 3d8ab2d4 md5 0b138be5b0e0ea0ffa6d195f33c28fe6 )
+)
+
+game (
+	name "Room Ten (1987)(CRL Group)[SYS16330]"
+	description "Room Ten (1987)(CRL Group)[SYS16330]"
+	rom ( name "Room Ten (1987)(CRL Group)[SYS16330].prg" size 12297 crc 7d78024f md5 084a652088f9419dfcd439f701a3d6c8 )
+)
+
+game (
+	name "Rozsaszin Parduc (1988)(Novotrade)(hu)"
+	description "Rozsaszin Parduc (1988)(Novotrade)(hu)"
+	rom ( name "Rozsaszin Parduc (1988)(Novotrade)(hu).prg" size 42347 crc c1448849 md5 d0c07fe392ef4a171dee70e80afd0e56 )
+)
+
+game (
+	name "Rubik Kocka (1989)(Batya)(hu)(PD)"
+	description "Rubik Kocka (1989)(Batya)(hu)(PD)"
+	rom ( name "Rubik Kocka (1989)(Batya)(hu)(PD).prg" size 50720 crc 02b1da24 md5 faa6e8d6026425f6bdb871a69462836e )
+)
+
+game (
+	name "Saboteur (1987)(Alternative Software)"
+	description "Saboteur (1987)(Alternative Software)"
+	rom ( name "Saboteur (1987)(Alternative Software).prg" size 43673 crc 7d3e5f28 md5 ec6dbea8bb7b09c74cc0f2e6c32bf636 )
+)
+
+game (
+	name "Safeguard (1989)(Drees, Guenter)[cr Skoro]"
+	description "Safeguard (1989)(Drees, Guenter)[cr Skoro]"
+	rom ( name "Safeguard (1989)(Drees, Guenter)[cr Skoro].prg" size 15600 crc c2d45280 md5 ddd55159326019229f238852292baa09 )
+)
+
+game (
+	name "Saloon Shootout (1987)(-)(PD)"
+	description "Saloon Shootout (1987)(-)(PD)"
+	rom ( name "Saloon Shootout (1987)(-)(PD).prg" size 11264 crc b4e9621b md5 9c562f40b140b22fa657b00c2982f05b )
+)
+
+game (
+	name "Sanxion (1991)(TYCB)[p]"
+	description "Sanxion (1991)(TYCB)[p]"
+	rom ( name "Sanxion (1991)(TYCB)[p].prg" size 46923 crc ec582481 md5 24e0a3e50e09be4667a835718cf01203 )
+)
+
+game (
+	name "Scroll Adventure (1989)(Muffbusters)[p]"
+	description "Scroll Adventure (1989)(Muffbusters)[p]"
+	rom ( name "Scroll Adventure (1989)(Muffbusters)[p].prg" size 28437 crc 0c2d7339 md5 6c4f9c70131c8a05e86715025f4e204b )
+)
+
+game (
+	name "Secret Mission (1988)(Pigmy)[p]"
+	description "Secret Mission (1988)(Pigmy)[p]"
+	rom ( name "Secret Mission (1988)(Pigmy)[p].prg" size 31088 crc ec1982cf md5 f587e2bbcc2eaf30bcffa17b3afb39e3 )
+)
+
+game (
+	name "Sensible Hugo In Transylvania (19xx)(EVS)(PD)"
+	description "Sensible Hugo In Transylvania (19xx)(EVS)(PD)"
+	rom ( name "Sensible Hugo In Transylvania (19xx)(EVS)(PD).prg" size 37200 crc 3afba053 md5 a18ac192f51c14d5fe43ab78fade4d17 )
+)
+
+game (
+	name "Sensitive (19xx)(W.C. Club)[p][t +2 Chromance]"
+	description "Sensitive (19xx)(W.C. Club)[p][t +2 Chromance]"
+	rom ( name "Sensitive (19xx)(W.C. Club)[p][t +2 Chromance].prg" size 18880 crc 903d1b5c md5 ea22fcdbab6f5351378929e0b184d491 )
+)
+
+game (
+	name "Shark Attack (1986)(Firebird)"
+	description "Shark Attack (1986)(Firebird)"
+	rom ( name "Shark Attack (1986)(Firebird).prg" size 12289 crc 1ef59e57 md5 528053a2602c47de07db54c618cfef7b )
+)
+
+game (
+	name "Shit Game (1991)(220V)(PD)"
+	description "Shit Game (1991)(220V)(PD)"
+	rom ( name "Shit Game (1991)(220V)(PD).prg" size 20498 crc 5da588b5 md5 ffab46991b89f272c315937ea78dbc84 )
+)
+
+game (
+	name "Shoot Down (1990)(CSM)(PD)"
+	description "Shoot Down (1990)(CSM)(PD)"
+	rom ( name "Shoot Down (1990)(CSM)(PD).prg" size 16941 crc a02936fb md5 426ba1558d0607e4f0c36f7fc1c6bf56 )
+)
+
+game (
+	name "Simple Puzzle (1992)(Moldi)(PD)"
+	description "Simple Puzzle (1992)(Moldi)(PD)"
+	rom ( name "Simple Puzzle (1992)(Moldi)(PD).prg" size 38096 crc 67dbf9fb md5 e3a095289e77905ec2e94bc40e9e7ad7 )
+)
+
+game (
+	name "Sir Knight (19xx)(Tynesoft Computer Software)(GB)"
+	description "Sir Knight (19xx)(Tynesoft Computer Software)(GB)"
+	rom ( name "Sir Knight (19xx)(Tynesoft Computer Software)(GB).prg" size 7073 crc 450c921d md5 b62990ddabef80319746208b71798f8d )
+)
+
+game (
+	name "Skramble (19xx)(-)(it)"
+	description "Skramble (19xx)(-)(it)"
+	rom ( name "Skramble (19xx)(-)(it).prg" size 11280 crc cb712948 md5 a9654a5444e51f2dd47a8c91da6a2985 )
+)
+
+game (
+	name "Skyhawk (1986)(Bug-Byte)"
+	description "Skyhawk (1986)(Bug-Byte)"
+	rom ( name "Skyhawk (1986)(Bug-Byte).prg" size 12289 crc d708c7f1 md5 25d98721067020fdbf1692dc7ccb6dff )
+)
+
+game (
+	name "Slipper (1993)(Scorpions)(PD)"
+	description "Slipper (1993)(Scorpions)(PD)"
+	rom ( name "Slipper (1993)(Scorpions)(PD).prg" size 16960 crc 229537a0 md5 ea843d621965259a94954e1ebeb0c6c6 )
+)
+
+game (
+	name "Snooker (1987)(Anco)"
+	description "Snooker (1987)(Anco)"
+	rom ( name "Snooker (1987)(Anco).prg" size 10320 crc 65ee674a md5 ef022f1291f24e9187d4ad258b4f7bcf )
+)
+
+game (
+	name "Snowball (1992)(TGMS)"
+	description "Snowball (1992)(TGMS)"
+	rom ( name "Snowball (1992)(TGMS).prg" size 24240 crc 308feaab md5 c63094a922d977af88112194b3c8e642 )
+)
+
+game (
+	name "Soccer Boss (1990)(HOT)(Plus4)[p]"
+	description "Soccer Boss (1990)(HOT)(Plus4)[p]"
+	rom ( name "Soccer Boss (1990)(HOT)(Plus4)[p].prg" size 25855 crc 2cb6245f md5 2139227a6ead084dfa099a4efc7b4230 )
+)
+
+game (
+	name "Soccer Director (1990)(Muffbusters)[p]"
+	description "Soccer Director (1990)(Muffbusters)[p]"
+	rom ( name "Soccer Director (1990)(Muffbusters)[p].prg" size 35617 crc 284fd1a1 md5 b672b1458755b9d3d87f15b212d3e9cc )
+)
+
+game (
+	name "Soko-ban (1988)(Kocka)(hu)"
+	description "Soko-ban (1988)(Kocka)(hu)"
+	rom ( name "Soko-ban (1988)(Kocka)(hu).prg" size 24845 crc 4f3ae334 md5 6a34df65748aa298e54302b4ba7056ad )
+)
+
+game (
+	name "Sotet Mancs (1991)(-)[cr Black Sector][t +1 Black Sector][CD TBF]"
+	description "Sotet Mancs (1991)(-)[cr Black Sector][t +1 Black Sector][CD TBF]"
+	rom ( name "Sotet Mancs (1991)(-)[cr Black Sector][t +1 Black Sector][CD TBF].prg" size 30909 crc bd268a8c md5 28aa7e48c49869fcfe950745062a041c )
+)
+
+game (
+	name "Space Fiends (1985)(Magnificent 7 Software)"
+	description "Space Fiends (1985)(Magnificent 7 Software)"
+	rom ( name "Space Fiends (1985)(Magnificent 7 Software).prg" size 12289 crc 904ec576 md5 debcba45efd4a85ba41545ef54402369 )
+)
+
+game (
+	name "Space Warrior (1992)(Kuni)(PD)"
+	description "Space Warrior (1992)(Kuni)(PD)"
+	rom ( name "Space Warrior (1992)(Kuni)(PD).prg" size 29360 crc 4709ea36 md5 75255d2f9ea3a06e574d039259e98945 )
+)
+
+game (
+	name "Spectipede (1985)(Mastertronic)"
+	description "Spectipede (1985)(Mastertronic)"
+	rom ( name "Spectipede (1985)(Mastertronic).prg" size 12288 crc 1d78b8e5 md5 599b06783f9029e0a19ef4863fdd869e )
+)
+
+game (
+	name "Speed King (1986)(Mastertronic)"
+	description "Speed King (1986)(Mastertronic)"
+	rom ( name "Speed King (1986)(Mastertronic).prg" size 10018 crc 930aed6b md5 029c0d5c517bfd5308ebfc219f174abc )
+)
+
+game (
+	name "Spiky Harold (1986)(Firebird)"
+	description "Spiky Harold (1986)(Firebird)"
+	rom ( name "Spiky Harold (1986)(Firebird).prg" size 12289 crc 5cef0065 md5 7d7b06dba81bdc72f429c16133baf12b )
+)
+
+game (
+	name "Spiky Harold 2 (19xx)(-)"
+	description "Spiky Harold 2 (19xx)(-)"
+	rom ( name "Spiky Harold 2 (19xx)(-).prg" size 11673 crc 217392fe md5 49d725d0b35c81d6e34d751fe08f851e )
+)
+
+game (
+	name "Squirm (1985)(Mastertronic)"
+	description "Squirm (1985)(Mastertronic)"
+	rom ( name "Squirm (1985)(Mastertronic).prg" size 12287 crc 5ffdf742 md5 711dcdc6a5e34a71782bac1e6aea22e8 )
+)
+
+game (
+	name "Star Wars (19xx)(-)[b]"
+	description "Star Wars (19xx)(-)[b]"
+	rom ( name "Star Wars (19xx)(-)[b].prg" size 41356 crc 3e295884 md5 55a0d2728649badd2481a7018663f3e7 )
+)
+
+game (
+	name "Starfight II (1987)(Kosir, Attila)(hu)"
+	description "Starfight II (1987)(Kosir, Attila)(hu)"
+	rom ( name "Starfight II (1987)(Kosir, Attila)(hu).prg" size 12287 crc 3e09c35f md5 a6ec730be9c25004d9b9d081a0321006 )
+)
+
+game (
+	name "Starforce Nova (1987)(Mastertronic)"
+	description "Starforce Nova (1987)(Mastertronic)"
+	rom ( name "Starforce Nova (1987)(Mastertronic).prg" size 11360 crc 97611bc2 md5 12d9289973fa774a598d1237b112d5dc )
+)
+
+game (
+	name "Stellar 7 (1990)(Bubi)[p]"
+	description "Stellar 7 (1990)(Bubi)[p]"
+	rom ( name "Stellar 7 (1990)(Bubi)[p].prg" size 34400 crc b6c24f50 md5 4c6ec7c99b009d38c4515ea1c6195dbe )
+)
+
+game (
+	name "Stone Age (1994)(WLS)(PD)"
+	description "Stone Age (1994)(WLS)(PD)"
+	rom ( name "Stone Age (1994)(WLS)(PD).prg" size 29843 crc 6f581af4 md5 3f3467dcf7176ccb01d2dc547d88d6f9 )
+)
+
+game (
+	name "Stone Age (1994)(WLS)(PD)[docs]"
+	description "Stone Age (1994)(WLS)(PD)[docs]"
+	rom ( name "Stone Age (1994)(WLS)(PD)[docs].prg" size 3773 crc e392aa7f md5 95dc699373116fc850cb44d628e98c34 )
+)
+
+game (
+	name "Stonepuzzle (1991)(FYC)[t Skoro]"
+	description "Stonepuzzle (1991)(FYC)[t Skoro]"
+	rom ( name "Stonepuzzle (1991)(FYC)[t Skoro].prg" size 13849 crc 31cfbf63 md5 243bd1f867d52512227759f8c8b81f8b )
+)
+
+game (
+	name "Stonepuzzle Editor v1.1 (1993)(Skoro)(hu)"
+	description "Stonepuzzle Editor v1.1 (1993)(Skoro)(hu)"
+	rom ( name "Stonepuzzle Editor v1.1 (1993)(Skoro)(hu).prg" size 22640 crc 999ebfd5 md5 4301042c7cedee3e72d62af6b05e7ac0 )
+)
+
+game (
+	name "Strawberry Fields (1986)(Bingley, Frank)"
+	description "Strawberry Fields (1986)(Bingley, Frank)"
+	rom ( name "Strawberry Fields (1986)(Bingley, Frank).prg" size 7916 crc 8c2a661d md5 e3f41587775af7e9152c1428db726b96 )
+)
+
+game (
+	name "Street Olympics (1986)(Mastertronic)"
+	description "Street Olympics (1986)(Mastertronic)"
+	rom ( name "Street Olympics (1986)(Mastertronic).prg" size 12289 crc 2b340ad6 md5 cf87552277ad3dad3a73504c6e5f9832 )
+)
+
+game (
+	name "Summer Time (1993)(Coroners)(hu)(PD)"
+	description "Summer Time (1993)(Coroners)(hu)(PD)"
+	rom ( name "Summer Time (1993)(Coroners)(hu)(PD).prg" size 35069 crc ce92ea57 md5 f942faf6d9ec6fc00122bb67c533beb8 )
+)
+
+game (
+	name "Sun Star (1987)(CRL Group)[cr Bitsoft]"
+	description "Sun Star (1987)(CRL Group)[cr Bitsoft]"
+	rom ( name "Sun Star (1987)(CRL Group)[cr Bitsoft].prg" size 18516 crc 9520bd80 md5 5cb373726938fba1034b30156450270e )
+)
+
+game (
+	name "Super Cobra (1987)(Novotrade)(hu)[cr Supy]"
+	description "Super Cobra (1987)(Novotrade)(hu)[cr Supy]"
+	rom ( name "Super Cobra (1987)(Novotrade)(hu)[cr Supy].prg" size 39938 crc 6c5a9b61 md5 a438d928528c539b6afa3c1072da553b )
+)
+
+game (
+	name "Super Pipeline (1993)(Coroners)[p]"
+	description "Super Pipeline (1993)(Coroners)[p]"
+	rom ( name "Super Pipeline (1993)(Coroners)[p].prg" size 40961 crc f4cda4fa md5 d8ce78145b5a75adb3ace054876c9593 )
+)
+
+game (
+	name "Sword Of Destiny (1985)(Gremlin Graphics)"
+	description "Sword Of Destiny (1985)(Gremlin Graphics)"
+	rom ( name "Sword Of Destiny (1985)(Gremlin Graphics).prg" size 12289 crc eb9c984f md5 68b603efebd36a49c0babf0c30fc9281 )
+)
+
+game (
+	name "Tapper (19xx)(Braintron)"
+	description "Tapper (19xx)(Braintron)"
+	rom ( name "Tapper (19xx)(Braintron).prg" size 12289 crc 2c181957 md5 fc43914c60dc971fda9c65e9371a032d )
+)
+
+game (
+	name "Taskforce (1989)(Players)[cr Obelix]"
+	description "Taskforce (1989)(Players)[cr Obelix]"
+	rom ( name "Taskforce (1989)(Players)[cr Obelix].prg" size 20869 crc 4d01ec90 md5 e395e99fa1027f79b7ebd4f1fa4dae3f )
+)
+
+game (
+	name "Taskforce (1989)(Players)[t +1 Obelix]"
+	description "Taskforce (1989)(Players)[t +1 Obelix]"
+	rom ( name "Taskforce (1989)(Players)[t +1 Obelix].prg" size 16980 crc 12f92085 md5 0c1b61a16411be404eeb77d0909a0008 )
+)
+
+game (
+	name "Tazz (1986)(Bubble Bus Software)"
+	description "Tazz (1986)(Bubble Bus Software)"
+	rom ( name "Tazz (1986)(Bubble Bus Software).prg" size 12290 crc 9c36b90c md5 e23fe6bcddb328a5a5ec448d6772dc1f )
+)
+
+game (
+	name "Terra Cognita (1986)(Codemasters)[cr Cola]"
+	description "Terra Cognita (1986)(Codemasters)[cr Cola]"
+	rom ( name "Terra Cognita (1986)(Codemasters)[cr Cola].prg" size 12320 crc 04b9c7fe md5 c2a8eccc5b7a53ae4cd634cab033bd46 )
+)
+
+game (
+	name "Terra-X (1990)(TCFS)(PD)"
+	description "Terra-X (1990)(TCFS)(PD)"
+	rom ( name "Terra-X (1990)(TCFS)(PD).prg" size 47972 crc e915859a md5 b6609ebdeaa8289065cb7d70313f4fc1 )
+)
+
+game (
+	name "Tervihar (1991)(GOTU)(hu)[b]"
+	description "Tervihar (1991)(GOTU)(hu)[b]"
+	rom ( name "Tervihar (1991)(GOTU)(hu)[b].prg" size 31830 crc fb77182a md5 a4c1202802e11cf8984cbcaea3de918a )
+)
+
+game (
+	name "Tetris (1990)(VTX)(PD)"
+	description "Tetris (1990)(VTX)(PD)"
+	rom ( name "Tetris (1990)(VTX)(PD).prg" size 38468 crc cb5aef3c md5 95cab41fc7805ffe3cec7f5908e79002 )
+)
+
+game (
+	name "Thrust (1987)(Firebird)"
+	description "Thrust (1987)(Firebird)"
+	rom ( name "Thrust (1987)(Firebird).prg" size 12608 crc 71bcb178 md5 4647d0b0aa9b348bab44358008f72d81 )
+)
+
+game (
+	name "Time Cristal (1994)(Scorpions)(PD)"
+	description "Time Cristal (1994)(Scorpions)(PD)"
+	rom ( name "Time Cristal (1994)(Scorpions)(PD).prg" size 19760 crc 1ac2e9b3 md5 60067ca4939264a28d7269c1dff9d4ab )
+)
+
+game (
+	name "Timeslip (1985)(English Software)[cr Floppy Robby]"
+	description "Timeslip (1985)(English Software)[cr Floppy Robby]"
+	rom ( name "Timeslip (1985)(English Software)[cr Floppy Robby].prg" size 12287 crc 1083a5db md5 74e1e7982439ea595a16daaa4bbd9bee )
+)
+
+game (
+	name "Time-Zone (1990)(T+K Software)[p]"
+	description "Time-Zone (1990)(T+K Software)[p]"
+	rom ( name "Time-Zone (1990)(T+K Software)[p].prg" size 27733 crc 0d5ccb57 md5 354982245a184da7947217cfc2ac89e5 )
+)
+
+game (
+	name "Tir Na Nog (1988)(Pigmy)[p]"
+	description "Tir Na Nog (1988)(Pigmy)[p]"
+	rom ( name "Tir Na Nog (1988)(Pigmy)[p].prg" size 36603 crc d71f6bed md5 64839dc8ce05f12309188b16d4ff82ea )
+)
+
+game (
+	name "Tom Thumb (1986)(Anirog)[b]"
+	description "Tom Thumb (1986)(Anirog)[b]"
+	rom ( name "Tom Thumb (1986)(Anirog)[b].prg" size 15120 crc f88d4462 md5 8503ba30e998a23a5b3fdbe01f64d827 )
+)
+
+game (
+	name "Tom Thumb (1986)(Anirog)[b][a]"
+	description "Tom Thumb (1986)(Anirog)[b][a]"
+	rom ( name "Tom Thumb (1986)(Anirog)[b][a].prg" size 15933 crc 2933f99d md5 09499a44f9751faa4b065bc274dc7bfc )
+)
+
+game (
+	name "Tomb of Tarrabash, The (1986)(Audiogenic)"
+	description "Tomb of Tarrabash, The (1986)(Audiogenic)"
+	rom ( name "Tomb of Tarrabash, The (1986)(Audiogenic).prg" size 12289 crc eace1f08 md5 6e2304d7f203bcd277f28b2bc6e525ab )
+)
+
+game (
+	name "Torpedo Alley (1986)(Firebird)"
+	description "Torpedo Alley (1986)(Firebird)"
+	rom ( name "Torpedo Alley (1986)(Firebird).prg" size 12288 crc d896f339 md5 25e398657e1d39723adf87a25f72cb4d )
+)
+
+game (
+	name "Total Eclipse (19xx)(-)[p]"
+	description "Total Eclipse (19xx)(-)[p]"
+	rom ( name "Total Eclipse (19xx)(-)[p].prg" size 37878 crc d90350d3 md5 85ee39bbd53086c43cb9e8be7a0818a9 )
+)
+
+game (
+	name "Total Eclipse 2 (1991)(Terrorists)[p]"
+	description "Total Eclipse 2 (1991)(Terrorists)[p]"
+	rom ( name "Total Eclipse 2 (1991)(Terrorists)[p].prg" size 52959 crc 13b646f3 md5 404614f2554afdf74b3a9bc0ec748265 )
+)
+
+game (
+	name "Toyballs (1992)(Delta System)(Plus4)(PD)"
+	description "Toyballs (1992)(Delta System)(Plus4)(PD)"
+	rom ( name "Toyballs (1992)(Delta System)(Plus4)(PD).prg" size 32320 crc 1f5ac5bb md5 6b21d37b3ea057f1694365a3c89fb2f7 )
+)
+
+game (
+	name "Trailblazer - The Megablazer (1991)(TCFS)(PD)"
+	description "Trailblazer - The Megablazer (1991)(TCFS)(PD)"
+	rom ( name "Trailblazer - The Megablazer (1991)(TCFS)(PD).prg" size 24515 crc cbe5d6a7 md5 71f78378cb78831af2287ccb43e38bd3 )
+)
+
+game (
+	name "Trailblazer (1986)(Gremlin Graphics)"
+	description "Trailblazer (1986)(Gremlin Graphics)"
+	rom ( name "Trailblazer (1986)(Gremlin Graphics).prg" size 12289 crc 35823faa md5 31951ab2e988b9345d49b6ea0cfb90f2 )
+)
+
+game (
+	name "Trailblazer (1986)(Gremlin Graphics)[cr Luca][b]"
+	description "Trailblazer (1986)(Gremlin Graphics)[cr Luca][b]"
+	rom ( name "Trailblazer (1986)(Gremlin Graphics)[cr Luca][b].prg" size 841 crc 31290c3e md5 2ca4026c1a41c30586955e186c626e64 )
+)
+
+game (
+	name "Tramp Kid (1991)(EDC)(PD)"
+	description "Tramp Kid (1991)(EDC)(PD)"
+	rom ( name "Tramp Kid (1991)(EDC)(PD).prg" size 33466 crc 8df88ba6 md5 fd78f4c5ac8921f5b74b89c84f986de4 )
+)
+
+game (
+	name "Trans Logic (1995)(Gentlemen Software)(PD)"
+	description "Trans Logic (1995)(Gentlemen Software)(PD)"
+	rom ( name "Trans Logic (1995)(Gentlemen Software)(PD).prg" size 26240 crc 01144902 md5 953f0b8c37c5d25da2d190ab54afc27c )
+)
+
+game (
+	name "Trans Logic 2 (2008-10-12)(Assassin)"
+	description "Trans Logic 2 (2008-10-12)(Assassin)"
+	rom ( name "Trans Logic 2 (2008-10-12)(Assassin).prg" size 11265 crc 4a5cddc7 md5 26fc1cab0c2164a9d55245cc1651361f )
+)
+
+game (
+	name "Trans World (1991)(Pigmy)[p]"
+	description "Trans World (1991)(Pigmy)[p]"
+	rom ( name "Trans World (1991)(Pigmy)[p].prg" size 30480 crc 8cd57648 md5 bc0167f2b03f65694be271e28ef2442d )
+)
+
+game (
+	name "Trap (1992)(TGH)(PD)"
+	description "Trap (1992)(TGH)(PD)"
+	rom ( name "Trap (1992)(TGH)(PD).prg" size 35120 crc 79145e81 md5 b1098f63e947b278fff9392128ae5456 )
+)
+
+game (
+	name "Trap (1992)(TGH)(PD)[t +1 Genius]"
+	description "Trap (1992)(TGH)(PD)[t +1 Genius]"
+	rom ( name "Trap (1992)(TGH)(PD)[t +1 Genius].prg" size 35297 crc 06bf2bbf md5 ef2b6b7db64cdab07f7a800abaddf49b )
+)
+
+game (
+	name "Treasure Island (1985)(CBM)"
+	description "Treasure Island (1985)(CBM)"
+	rom ( name "Treasure Island (1985)(CBM).prg" size 28595 crc c1f79360 md5 247948dda7d84a894c01b5195cc73dc0 )
+)
+
+game (
+	name "Trouble For Bubble (1987)(Ott, Hartmut)"
+	description "Trouble For Bubble (1987)(Ott, Hartmut)"
+	rom ( name "Trouble For Bubble (1987)(Ott, Hartmut).prg" size 12161 crc 959f531f md5 6134ab1fb872c1ef8557781dd03070c9 )
+)
+
+game (
+	name "Tube Runner (1988)(Gremlin Graphics)"
+	description "Tube Runner (1988)(Gremlin Graphics)"
+	rom ( name "Tube Runner (1988)(Gremlin Graphics).prg" size 10400 crc 1ecbcc76 md5 a94d4ecc320c273771a515150cdfbdd8 )
+)
+
+game (
+	name "Tutti Frutti (1985)(Mr. Chip Software)"
+	description "Tutti Frutti (1985)(Mr. Chip Software)"
+	rom ( name "Tutti Frutti (1985)(Mr. Chip Software).prg" size 12288 crc 36e85f83 md5 8ce1719f0b98522ffe7d311229d80f27 )
+)
+
+game (
+	name "Twin Kingdom Valley (1985)(Bug-Byte)"
+	description "Twin Kingdom Valley (1985)(Bug-Byte)"
+	rom ( name "Twin Kingdom Valley (1985)(Bug-Byte).prg" size 14082 crc 1b228c8d md5 439337c3677c29e679239a93ed628885 )
+)
+
+game (
+	name "Twin Kingdom Valley (1989)(Crown)[p]"
+	description "Twin Kingdom Valley (1989)(Crown)[p]"
+	rom ( name "Twin Kingdom Valley (1989)(Crown)[p].prg" size 43494 crc 5fbb030f md5 be21cea513309705b67ad549a3f94ee0 )
+)
+
+game (
+	name "Twin-down (19xx)(Argus Designs)"
+	description "Twin-down (19xx)(Argus Designs)"
+	rom ( name "Twin-down (19xx)(Argus Designs).prg" size 28636 crc 2e65f2a9 md5 2c4899ab401210b7d4a9c5dbb16b6d61 )
+)
+
+game (
+	name "Two To One (1990)(Kingsoft)[t +1 Obelix]"
+	description "Two To One (1990)(Kingsoft)[t +1 Obelix]"
+	rom ( name "Two To One (1990)(Kingsoft)[t +1 Obelix].prg" size 27617 crc b5e08701 md5 2665fda04cb0a503e88f083f2cf29df5 )
+)
+
+game (
+	name "Tycoon Tex (1985)(Gremlin Graphics)[cr Illegal Alien]"
+	description "Tycoon Tex (1985)(Gremlin Graphics)[cr Illegal Alien]"
+	rom ( name "Tycoon Tex (1985)(Gremlin Graphics)[cr Illegal Alien].prg" size 12287 crc d942c4a1 md5 5e20a53016a1719e21dfb5b5f034edcb )
+)
+
+game (
+	name "Tycoon Tex (1985)(Gremlin Graphics)[t +1 TTC]"
+	description "Tycoon Tex (1985)(Gremlin Graphics)[t +1 TTC]"
+	rom ( name "Tycoon Tex (1985)(Gremlin Graphics)[t +1 TTC].prg" size 13611 crc 3bb74f59 md5 be2816a9ce95ef5448e7c856593cf866 )
+)
+
+game (
+	name "UFO Vadasz (1988)(Novotrade)(hu)[cr CSM]"
+	description "UFO Vadasz (1988)(Novotrade)(hu)[cr CSM]"
+	rom ( name "UFO Vadasz (1988)(Novotrade)(hu)[cr CSM].prg" size 15920 crc 91e7eaaa md5 34cffc9096b3afc9710db6488d0e3095 )
+)
+
+game (
+	name "Uj Vadnyugat (1990)(SF)(Plus4)(hu)[p]"
+	description "Uj Vadnyugat (1990)(SF)(Plus4)(hu)[p]"
+	rom ( name "Uj Vadnyugat (1990)(SF)(Plus4)(hu)[p].prg" size 45731 crc e77848d7 md5 ac500a83ae35e041f8f76408bd39e00f )
+)
+
+game (
+	name "Ultimate Tron II (1990)(Kosir, Attila)(PD)"
+	description "Ultimate Tron II (1990)(Kosir, Attila)(PD)"
+	rom ( name "Ultimate Tron II (1990)(Kosir, Attila)(PD).prg" size 5388 crc 0f0a805e md5 6beb599da8ade3280d343033be6cd66b )
+)
+
+game (
+	name "Urkaland (1989)(Novotrade)(hu)"
+	description "Urkaland (1989)(Novotrade)(hu)"
+	rom ( name "Urkaland (1989)(Novotrade)(hu).prg" size 29210 crc c4fce6a8 md5 392c1469a8597145104a17f18442df4d )
+)
+
+game (
+	name "Uveggolyo (1989)(TCFS)(Plus4)(hu)(PD)"
+	description "Uveggolyo (1989)(TCFS)(Plus4)(hu)(PD)"
+	rom ( name "Uveggolyo (1989)(TCFS)(Plus4)(hu)(PD).prg" size 29041 crc f7d033fb md5 ff625383963ee6618cc1470485dae2d6 )
+)
+
+game (
+	name "Vegas Jackpot (1985)(Mastertronic)"
+	description "Vegas Jackpot (1985)(Mastertronic)"
+	rom ( name "Vegas Jackpot (1985)(Mastertronic).prg" size 7593 crc 44895cf2 md5 8c60bdb94fc074296ed8b3a9e2a48627 )
+)
+
+game (
+	name "Very Shit Game (1993)(Skoro)(PD)"
+	description "Very Shit Game (1993)(Skoro)(PD)"
+	rom ( name "Very Shit Game (1993)(Skoro)(PD).prg" size 23022 crc 299093d5 md5 1974e9e66d0bd164a4a69ac21bacf96a )
+)
+
+game (
+	name "Video Meanies (1986)(Mastertronic)"
+	description "Video Meanies (1986)(Mastertronic)"
+	rom ( name "Video Meanies (1986)(Mastertronic).prg" size 12288 crc 3b14f110 md5 95778a46cf8b24aa660af23b62a857d9 )
+)
+
+game (
+	name "Video Poker (1986)(Mastertronic)"
+	description "Video Poker (1986)(Mastertronic)"
+	rom ( name "Video Poker (1986)(Mastertronic).prg" size 11040 crc 34abc532 md5 926ae9b115a3ecb1e6000f7921995fe5 )
+)
+
+game (
+	name "Voidrunner (1986)(Llamasoft)(PD)"
+	description "Voidrunner (1986)(Llamasoft)(PD)"
+	rom ( name "Voidrunner (1986)(Llamasoft)(PD).prg" size 11840 crc 99e2198d md5 9a05d37b7c7dcb4805f43614a48d0b37 )
+)
+
+game (
+	name "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(en-hu)(PD)[docs]"
+	description "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(en-hu)(PD)[docs]"
+	rom ( name "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(en-hu)(PD)[docs].prg" size 1444 crc 395b762c md5 479f2880770729bb911953b2639f05ae )
+)
+
+game (
+	name "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(PD)"
+	description "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(PD)"
+	rom ( name "Volleyball - The Arcade Game (1997)(Assassin)(Plus4)(PD).prg" size 19552 crc ac6495f5 md5 e67a36dfe965f3ef89cfffa84c82132f )
+)
+
+game (
+	name "Walaki (1987)(Novotrade)(hu)[cr TPPC]"
+	description "Walaki (1987)(Novotrade)(hu)[cr TPPC]"
+	rom ( name "Walaki (1987)(Novotrade)(hu)[cr TPPC].prg" size 25683 crc af241ff7 md5 a59485ec2129a868af2f7c070aa3870f )
+)
+
+game (
+	name "Way To Running (1994)(Synergy)(PD)"
+	description "Way To Running (1994)(Synergy)(PD)"
+	rom ( name "Way To Running (1994)(Synergy)(PD).prg" size 34491 crc 599c1ad2 md5 e21d735fafba8db7353b50784b084e61 )
+)
+
+game (
+	name "Who Dares Wins II (1986)(Tynesoft Computer Software)(GB)"
+	description "Who Dares Wins II (1986)(Tynesoft Computer Software)(GB)"
+	rom ( name "Who Dares Wins II (1986)(Tynesoft Computer Software)(GB).prg" size 12802 crc 59d7ed5b md5 b36cf62eb90f7a23397f5f5848acd213 )
+)
+
+game (
+	name "Wildfire (1992)(TCFS)(PD)"
+	description "Wildfire (1992)(TCFS)(PD)"
+	rom ( name "Wildfire (1992)(TCFS)(PD).prg" size 12800 crc 4d7f54e1 md5 e39a9a418887e5133082f22fe19ea993 )
+)
+
+game (
+	name "Wimbledon (1986)(Gremlin Graphics)"
+	description "Wimbledon (1986)(Gremlin Graphics)"
+	rom ( name "Wimbledon (1986)(Gremlin Graphics).prg" size 12288 crc dda6d7a5 md5 c8a3fabb5f4380e4d24420b6feddecd8 )
+)
+
+game (
+	name "Wizard of Wor (1984)(TCFS)[p]"
+	description "Wizard of Wor (1984)(TCFS)[p]"
+	rom ( name "Wizard of Wor (1984)(TCFS)[p].prg" size 44097 crc b465d144 md5 813f5a8c38f8c9bb459e32fa236d69fa )
+)
+
+game (
+	name "Wolf Pack (1985)(Illusion Software)"
+	description "Wolf Pack (1985)(Illusion Software)"
+	rom ( name "Wolf Pack (1985)(Illusion Software).prg" size 12288 crc 51e27d59 md5 28dfe771aa8e6eb11157c0c003304ee9 )
+)
+
+game (
+	name "World Cup (1985)(Artic Computing)[SYS14100]"
+	description "World Cup (1985)(Artic Computing)[SYS14100]"
+	rom ( name "World Cup (1985)(Artic Computing)[SYS14100].prg" size 12288 crc ecbe359f md5 9d1923c11e56f6c9e659b1c673493a3a )
+)
+
+game (
+	name "Wrath of Kahn, The (1987)(Robsoft Programming)"
+	description "Wrath of Kahn, The (1987)(Robsoft Programming)"
+	rom ( name "Wrath of Kahn, The (1987)(Robsoft Programming).prg" size 22206 crc 6b3ba726 md5 bc6d04afeeaeba77e47bfce78b7ef7e3 )
+)
+
+game (
+	name "Xargon Wars (1984)(Gremlin Graphics)"
+	description "Xargon Wars (1984)(Gremlin Graphics)"
+	rom ( name "Xargon Wars (1984)(Gremlin Graphics).prg" size 12288 crc c253c650 md5 a9c5591edb90aec2f9219a832d6c997c )
+)
+
+game (
+	name "Xargon's Revenge (1985)(Gremlin Graphics)[cr Opi]"
+	description "Xargon's Revenge (1985)(Gremlin Graphics)[cr Opi]"
+	rom ( name "Xargon's Revenge (1985)(Gremlin Graphics)[cr Opi].prg" size 16674 crc 17c8dba5 md5 08bff096ebc1734ed90b71f21887c39b )
+)
+
+game (
+	name "XCellor 8 (1986)(Gremlin Graphics)"
+	description "XCellor 8 (1986)(Gremlin Graphics)"
+	rom ( name "XCellor 8 (1986)(Gremlin Graphics).prg" size 10560 crc b64c055d md5 64c714531e3278a74b72d1605648b55d )
+)
+
+game (
+	name "Xzap (1984)(CBM)"
+	description "Xzap (1984)(CBM)"
+	rom ( name "Xzap (1984)(CBM).prg" size 12288 crc 6c65e40c md5 45b56f3c583b23681e3d42c5ce482512 )
+)
+
+game (
+	name "Yie Ar Kung Fu (1986)(Imagine Software)[cr CMS]"
+	description "Yie Ar Kung Fu (1986)(Imagine Software)[cr CMS]"
+	rom ( name "Yie Ar Kung Fu (1986)(Imagine Software)[cr CMS].prg" size 24682 crc e19a28c6 md5 6cd21554aafc10dddeec6a953394742f )
+)
+
+game (
+	name "Zolyx (1987)(Firebird)"
+	description "Zolyx (1987)(Firebird)"
+	rom ( name "Zolyx (1987)(Firebird).prg" size 4345 crc 7138bca8 md5 b13f9f48fe43e2aa6d97b2a86ab3e51c )
+)
+
+game (
+	name "Zombie (1991)(Terrorists)[p]"
+	description "Zombie (1991)(Terrorists)[p]"
+	rom ( name "Zombie (1991)(Terrorists)[p].prg" size 47840 crc 23b59e02 md5 b8d3f41b8e32c1c3eb8277835f10cdd4 )
+)

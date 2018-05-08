@@ -1,0 +1,842 @@
+clrmamepro (
+	name "Commodore VIC20 - Games - [D64]"
+	description "Commodore VIC20 - Games - [D64] (TOSEC-v2012-08-17)"
+	category "Commodore VIC20 - Games - [D64]"
+	version 2012-08-17
+	author "Vicman"
+)
+
+game (
+	name "AE (1982)(Broderbund)[use memory setting block 3,5]"
+	description "AE (1982)(Broderbund)[use memory setting block 3,5]"
+	rom ( name "AE (1982)(Broderbund)[use memory setting block 3,5].d64" size 174848 crc 0aa13fc8 md5 9ef3971f115e891b6002bfa4db567b4b sha1 66b113953248af4136850bc9e90ae14af622902b )
+)
+
+game (
+	name "Alien Armada (1985-05)(Compute!'s Gazette)[type-in]"
+	description "Alien Armada (1985-05)(Compute!'s Gazette)[type-in]"
+	rom ( name "Alien Armada (1985-05)(Compute!'s Gazette)[type-in].d64" size 174848 crc 4eb8a23f md5 d9ebdedd68e9d73023a09394b014fcee sha1 d4b23ff4b0bc00ee6fe59783a65e700eca982438 )
+)
+
+game (
+	name "Alien Demon (1983)(K-Tel)[8k]"
+	description "Alien Demon (1983)(K-Tel)[8k]"
+	rom ( name "Alien Demon (1983)(K-Tel)[8k].d64" size 174848 crc 6383bd16 md5 3444069c139c8cb70a9545dabd4eaf2c sha1 c7eac521275811dd138ca4600ffb7891cfddfe5d )
+)
+
+game (
+	name "Alien Hunter (1983)(Abrasco)"
+	description "Alien Hunter (1983)(Abrasco)"
+	rom ( name "Alien Hunter (1983)(Abrasco).d64" size 174848 crc 7968941d md5 d36140cfab0eb1f80c925ca26627c0b5 sha1 d58e24fbe7b510e3e990943e99127bf2adafa1cd )
+)
+
+game (
+	name "Alien Vortex (1983)(Temptation)"
+	description "Alien Vortex (1983)(Temptation)"
+	rom ( name "Alien Vortex (1983)(Temptation).d64" size 174848 crc 554debb1 md5 56d275a4130b6132e43f8bbf2203350c sha1 52049449fc260a593ef043618bec0ad5937b13c1 )
+)
+
+game (
+	name "Android Attack (1983)(Abrasco)"
+	description "Android Attack (1983)(Abrasco)"
+	rom ( name "Android Attack (1983)(Abrasco).d64" size 174848 crc b0f41ada md5 d47f7d2dae3076fbbd1ad61291167c3e sha1 467b4f692b5a1175589a94655b1654b3f5b4e2ea )
+)
+
+game (
+	name "Android Attack (1983)(Abrasco)[a]"
+	description "Android Attack (1983)(Abrasco)[a]"
+	rom ( name "Android Attack (1983)(Abrasco)[a].d64" size 174848 crc 3fff4e0d md5 413f2230651c2907c247f7baa65e6869 sha1 43ebc1ab53f3b37148e26aea1eb3bb3267ec8ade )
+)
+
+game (
+	name "Asteroids (1982)(Arcadia)"
+	description "Asteroids (1982)(Arcadia)"
+	rom ( name "Asteroids (1982)(Arcadia).d64" size 174848 crc 8d4910c9 md5 4c2276a4a8c179b95ac6692018c4232d sha1 411f8ec4ca355963289d427ae1dd426857256d8b )
+)
+
+game (
+	name "Atom Smasher (1983)(Romic)"
+	description "Atom Smasher (1983)(Romic)"
+	rom ( name "Atom Smasher (1983)(Romic).d64" size 174848 crc 455cfcb4 md5 f831c4521ac4a543de4d132f9d403198 sha1 d083549606891b695fe6b78e98e94b3d2bf9d52b )
+)
+
+game (
+	name "Autobaun (2006)(Murphy, Rob)[8k]"
+	description "Autobaun (2006)(Murphy, Rob)[8k]"
+	rom ( name "Autobaun (2006)(Murphy, Rob)[8k].d64" size 174848 crc b44fd098 md5 d46c354c0b0eb46e298c0346e49aad65 sha1 8e7dc29f562e29b2cd138693aea42f1a45622e8f )
+)
+
+game (
+	name "Bagdad (1984-11)(Compute!'s Gazette)[type-in]"
+	description "Bagdad (1984-11)(Compute!'s Gazette)[type-in]"
+	rom ( name "Bagdad (1984-11)(Compute!'s Gazette)[type-in].d64" size 174848 crc f3ca6937 md5 db0cb1102fece424277b2e47ff8253aa sha1 d4c61235bb4e73f093df19e2ef3cc154a047f229 )
+)
+
+game (
+	name "Balloon Blitz (1984-08)(Compute!'s Gazette)[type-in][8k]"
+	description "Balloon Blitz (1984-08)(Compute!'s Gazette)[type-in][8k]"
+	rom ( name "Balloon Blitz (1984-08)(Compute!'s Gazette)[type-in][8k].d64" size 174848 crc 812f7d69 md5 0aa9f8fe0e561b473e7dfd53efd10fa7 sha1 63b5d5df78e9d8679199eca53e4643e60eceed33 )
+)
+
+game (
+	name "Bomber Run (1983)(K-Tel)"
+	description "Bomber Run (1983)(K-Tel)"
+	rom ( name "Bomber Run (1983)(K-Tel).d64" size 174848 crc 0832b899 md5 96d43eefaace0ab9bbdc2fd34bf48e4d sha1 daa3343acc193b23c52ea6a39024e007444c496b )
+)
+
+game (
+	name "Bounce (1995)(Denial)(NTSC)"
+	description "Bounce (1995)(Denial)(NTSC)"
+	rom ( name "Bounce (1995)(Denial)(NTSC).d64" size 174848 crc fbe3e762 md5 c4052c60086532c5a8fa19414a27ec55 sha1 49be57504ab4616a9a2e94dface0bc6bec6aeee6 )
+)
+
+game (
+	name "Bugsy (1983)(Mr. Chip)"
+	description "Bugsy (1983)(Mr. Chip)"
+	rom ( name "Bugsy (1983)(Mr. Chip).d64" size 174848 crc ba3aa784 md5 5f8e18907ca89550b6472e56b19384ec sha1 6cbd03bafe6920dc75583549f382972a1df89058 )
+)
+
+game (
+	name "Bugsy (1983)(Mr. Chip)[a]"
+	description "Bugsy (1983)(Mr. Chip)[a]"
+	rom ( name "Bugsy (1983)(Mr. Chip)[a].d64" size 174848 crc 8d416830 md5 f27da563579c7a83eaa2867eb4977874 sha1 3f2d00fa03e712541b9a54942010854d64b7cfda )
+)
+
+game (
+	name "Cabby (1984-10)(Compute!'s Gazette)[type-in][8k]"
+	description "Cabby (1984-10)(Compute!'s Gazette)[type-in][8k]"
+	rom ( name "Cabby (1984-10)(Compute!'s Gazette)[type-in][8k].d64" size 174848 crc dc21c459 md5 beab3edaae0007fee6758f3e2545f81d sha1 33f0e1471e1dafb4324cce22ea9a6b2a724e98bd )
+)
+
+game (
+	name "Cavern Runner (19xx)(-)(nl)[8k]"
+	description "Cavern Runner (19xx)(-)(nl)[8k]"
+	rom ( name "Cavern Runner (19xx)(-)(nl)[8k].d64" size 174848 crc 788239ad md5 35a3ba36ca100df0145f3bbdd7c66845 sha1 d1644f849d05272f6e9cd40f55e0cf040e8e2659 )
+)
+
+game (
+	name "Checkers (1982)(Warnke, Wolfgang)(de)"
+	description "Checkers (1982)(Warnke, Wolfgang)(de)"
+	rom ( name "Checkers (1982)(Warnke, Wolfgang)(de).d64" size 174848 crc 1273a07f md5 a174f14fb24708203c6695231bc4b5be sha1 4c441aa42c9d889b65938cc5257e3823f09735b5 )
+)
+
+game (
+	name "Chess (1984-12)(Compute!)[type-in][8k]"
+	description "Chess (1984-12)(Compute!)[type-in][8k]"
+	rom ( name "Chess (1984-12)(Compute!)[type-in][8k].d64" size 174848 crc d089a2dd md5 3ae013cf9f85aaf60e1a1b91d499b6da sha1 4d0c06d92325bd1f0482154584551db35c9d2b2a )
+)
+
+game (
+	name "City Crusher (19xx)(-)"
+	description "City Crusher (19xx)(-)"
+	rom ( name "City Crusher (19xx)(-).d64" size 174848 crc 42391d76 md5 1c495666bfdcefbfbdce64e5b9d2b4c0 sha1 1d9d98ef73f158ff7cc276a42157d103a283ece7 )
+)
+
+game (
+	name "City Crusher (19xx)(-)[a]"
+	description "City Crusher (19xx)(-)[a]"
+	rom ( name "City Crusher (19xx)(-)[a].d64" size 174848 crc 29b32771 md5 8afb506ff9f668712606055ea9a76abe sha1 77cfaf98260cd31cd797b062f5c4b1bc73cb17d0 )
+)
+
+game (
+	name "Closeout! (1983)(Compute!)(US)[type-in]"
+	description "Closeout! (1983)(Compute!)(US)[type-in]"
+	rom ( name "Closeout! (1983)(Compute!)(US)[type-in].d64" size 174848 crc 2d11c440 md5 237b7ce0ee7133f0ab1856824bccc090 sha1 744f7a03f46687f5eb2fa76e239b7796665e230a )
+)
+
+game (
+	name "Cosmic Battle (1982)(Rabbit)"
+	description "Cosmic Battle (1982)(Rabbit)"
+	rom ( name "Cosmic Battle (1982)(Rabbit).d64" size 174848 crc ae0ee2fa md5 58b607f0f1655bda674affd448cfe343 sha1 29330402f25ba0c83a265d24235a7b3fc510ab8d )
+)
+
+game (
+	name "Cosmic Combat (1984-12)(Compute!'s Gazette)[a][type-in]"
+	description "Cosmic Combat (1984-12)(Compute!'s Gazette)[a][type-in]"
+	rom ( name "Cosmic Combat (1984-12)(Compute!'s Gazette)[a][type-in].d64" size 174848 crc bd0dd0be md5 092427735c0ee63650426d7b114f0824 sha1 bcb973c957fcefc4ca158d2f35945bc77ae3ff03 )
+)
+
+game (
+	name "Cosmic Combat (1984-12)(Compute!'s Gazette)[type-in]"
+	description "Cosmic Combat (1984-12)(Compute!'s Gazette)[type-in]"
+	rom ( name "Cosmic Combat (1984-12)(Compute!'s Gazette)[type-in].d64" size 174848 crc c06b6179 md5 bb93e08f17fed5d358c4807d7dcf939c sha1 f1622be7b4516b25988ce1ded72735a8165ce24e )
+)
+
+game (
+	name "Crazy Kong (19xx)(Gertz, Udo)[16k]"
+	description "Crazy Kong (19xx)(Gertz, Udo)[16k]"
+	rom ( name "Crazy Kong (19xx)(Gertz, Udo)[16k].d64" size 174848 crc 42e4ae63 md5 574cbc684ff6804d9d825bb02a02b120 sha1 4b1ae63a7277eb69e23a4aaa653b3e4a6fd568aa )
+)
+
+game (
+	name "Cyclons (1983)(Rabbit)[8k]"
+	description "Cyclons (1983)(Rabbit)[8k]"
+	rom ( name "Cyclons (1983)(Rabbit)[8k].d64" size 174848 crc f4b00fa6 md5 a7e30a08d7a4c993560623db85c976a7 sha1 a8a5321ac03adab77c981bc83770e2a59d015065 )
+)
+
+game (
+	name "Devastator (1984-08)(Compute!)[type-in]"
+	description "Devastator (1984-08)(Compute!)[type-in]"
+	rom ( name "Devastator (1984-08)(Compute!)[type-in].d64" size 174848 crc c65d230f md5 4634862f0e3e4c1fc504f981192680ca sha1 a94933fd49d3e08093c5c0ef34be70470bb92511 )
+)
+
+game (
+	name "Diamond Hunt (19xx)(Murphy, Rob)[v1.29][8k]"
+	description "Diamond Hunt (19xx)(Murphy, Rob)[v1.29][8k]"
+	rom ( name "Diamond Hunt (19xx)(Murphy, Rob)[v1.29][8k].d64" size 174848 crc f489fffa md5 40a1910d4945372d8ade8d08391dbb9f sha1 9c725e1c0957c4169c6ea3c025af1dde8f98e358 )
+)
+
+game (
+	name "Dragon Master (1983-11)(Compute!)[type-in]"
+	description "Dragon Master (1983-11)(Compute!)[type-in]"
+	rom ( name "Dragon Master (1983-11)(Compute!)[type-in].d64" size 174848 crc 85adc381 md5 5f822ce7092d9a46d44fdef14cef93f4 sha1 e84f941bf05ccfb95be041e57dd98a8a5fc6fd72 )
+)
+
+game (
+	name "Draw Poker (1981)(Commodore)[use memory setting block 5]"
+	description "Draw Poker (1981)(Commodore)[use memory setting block 5]"
+	rom ( name "Draw Poker (1981)(Commodore)[use memory setting block 5].d64" size 174848 crc c217f43a md5 325e5d88d1c8b975c937ba8e49fa950b sha1 a2237aa63f400dcf9f5f826712242ac9327485e8 )
+)
+
+game (
+	name "E.T. - The Extra Terrestrial (1983)(Jans, H.)[use memory setting block 5]"
+	description "E.T. - The Extra Terrestrial (1983)(Jans, H.)[use memory setting block 5]"
+	rom ( name "E.T. - The Extra Terrestrial (1983)(Jans, H.)[use memory setting block 5].d64" size 174848 crc f8718c11 md5 5018f0f810d4b2d572c067fb281f44d8 sha1 770a6f37dff78882290e4c50a57e5b15d69a6bd5 )
+)
+
+game (
+	name "Escape MCP (1982)(Rabbit)"
+	description "Escape MCP (1982)(Rabbit)"
+	rom ( name "Escape MCP (1982)(Rabbit).d64" size 174848 crc af153664 md5 56bbbdba4e7867d2363bbbf3510ab9e6 sha1 5e082900bc09cdf1d46cde4d6dda222c0e2d643f )
+)
+
+game (
+	name "Frantic Fisherman, The (1984-06)(Compute!'s Gazette)[type-in]"
+	description "Frantic Fisherman, The (1984-06)(Compute!'s Gazette)[type-in]"
+	rom ( name "Frantic Fisherman, The (1984-06)(Compute!'s Gazette)[type-in].d64" size 174848 crc 7eddeae3 md5 e9ce710f13d509a814fb8db552e49515 sha1 0847e637665d87c18bf41d41560df28ded33b611 )
+)
+
+game (
+	name "Frogger '07 (2007)(Richards, Glen)[16k]"
+	description "Frogger '07 (2007)(Richards, Glen)[16k]"
+	rom ( name "Frogger '07 (2007)(Richards, Glen)[16k].d64" size 174848 crc f07cbbc6 md5 6f0198ab874cdbf46bac942a9d7d32a2 sha1 96714fc88ade7bcd1a01e39ad1f0d12fef360730 )
+)
+
+game (
+	name "Frogrun (1983)(Anirog)"
+	description "Frogrun (1983)(Anirog)"
+	rom ( name "Frogrun (1983)(Anirog).d64" size 174848 crc c5501452 md5 16f298601bd36749409dc86c4ea69f01 sha1 8fc5d99c3fe7201b7e7a07797508fda6ea868ce8 )
+)
+
+game (
+	name "Frogrun (1983)(Anirog)[a]"
+	description "Frogrun (1983)(Anirog)[a]"
+	rom ( name "Frogrun (1983)(Anirog)[a].d64" size 174848 crc 93dbc23a md5 60becaf4223e20101e153b6a39d07201 sha1 94fa1639e57b898920d07aef4986d178a12cda08 )
+)
+
+game (
+	name "Galaxia (1983)(Romik)"
+	description "Galaxia (1983)(Romik)"
+	rom ( name "Galaxia (1983)(Romik).d64" size 174848 crc 25e9c186 md5 ec002adf2becec7ec80c9411f822b472 sha1 b11ed3a1cf6c7dfc5ee6bc111dd9a3ab307fd77a )
+)
+
+game (
+	name "Galaxions (1982)(Soloar)"
+	description "Galaxions (1982)(Soloar)"
+	rom ( name "Galaxions (1982)(Soloar).d64" size 174848 crc 1479d346 md5 b6c5a07bc4a4839e5e55e009b3ee73c6 sha1 aa4f795fe50f545a95e8e82b73fa6b991acdebaf )
+)
+
+game (
+	name "Galaxions (1982)(Soloar)[a]"
+	description "Galaxions (1982)(Soloar)[a]"
+	rom ( name "Galaxions (1982)(Soloar)[a].d64" size 174848 crc 5815acd8 md5 9602e43ec6fd73758c1778eb237931a5 sha1 876869128f0f8ed6a882126ec9cccc906a089194 )
+)
+
+game (
+	name "Hangman (19xx)(Galluchon, Andrew J.)[8k]"
+	description "Hangman (19xx)(Galluchon, Andrew J.)[8k]"
+	rom ( name "Hangman (19xx)(Galluchon, Andrew J.)[8k].d64" size 174848 crc 9229c0e6 md5 a716465c9a846923489264b2c69e8308 sha1 acbaa856d5e9fb1b29a63bcd75af242dce736680 )
+)
+
+game (
+	name "Haunted House (1990)(System Four)"
+	description "Haunted House (1990)(System Four)"
+	rom ( name "Haunted House (1990)(System Four).d64" size 174848 crc 2ad4d899 md5 4b3146ad2eb3bef00986ac66115c07a3 sha1 3a385c73fc2ce565d26823bb6ba9b56e0ecf2c49 )
+)
+
+game (
+	name "Hunchback (198x)(Ocean)"
+	description "Hunchback (198x)(Ocean)"
+	rom ( name "Hunchback (198x)(Ocean).d64" size 174848 crc 6080d02f md5 a2563e816d50454e6eba9490303fb3ff sha1 92a3187d96bdd9edb1e710a78df0a08c2ed4cf10 )
+)
+
+game (
+	name "Hunter (1983)(Argus Press)"
+	description "Hunter (1983)(Argus Press)"
+	rom ( name "Hunter (1983)(Argus Press).d64" size 174848 crc e2863e30 md5 89ba6918475814aaabb877638e72ca4b sha1 6e25383684f447a2ef01a1963f447b3514f17602 )
+)
+
+game (
+	name "Ice Hockey (1996)(System Four)"
+	description "Ice Hockey (1996)(System Four)"
+	rom ( name "Ice Hockey (1996)(System Four).d64" size 174848 crc 810224e3 md5 ab128d8d83a44b6b8f392fa076cedc67 sha1 9f5f58b251585408b537aeb01ef80ebf12644546 )
+)
+
+game (
+	name "Jump (19xx)(-)"
+	description "Jump (19xx)(-)"
+	rom ( name "Jump (19xx)(-).d64" size 174848 crc 364351e8 md5 21039d71484d270ce24e24f08e57d10f sha1 f565f84617507a2ea0bd4684144f23a233161f2b )
+)
+
+game (
+	name "Jumping Jack (1985)(Papersoft)(IT)[type-in]"
+	description "Jumping Jack (1985)(Papersoft)(IT)[type-in]"
+	rom ( name "Jumping Jack (1985)(Papersoft)(IT)[type-in].d64" size 174848 crc a62cc084 md5 2f01365ae8a6e3b2271a2f51a8100ba8 sha1 482acab3c0df6a3e105474d65fa32ee948f63ccb )
+)
+
+game (
+	name "Kwazy Kwaks (1983)(Mr. Chip)"
+	description "Kwazy Kwaks (1983)(Mr. Chip)"
+	rom ( name "Kwazy Kwaks (1983)(Mr. Chip).d64" size 174848 crc efaf7802 md5 9bfdfc5c1a1af92683c6e2a0d41d2724 sha1 a3124d4edaf1a87855b53a31bc47a20ccbcb9045 )
+)
+
+game (
+	name "Ladders (1983)(Your Computer)[type-in][8k]"
+	description "Ladders (1983)(Your Computer)[type-in][8k]"
+	rom ( name "Ladders (1983)(Your Computer)[type-in][8k].d64" size 174848 crc 2e404e94 md5 fcdb0f562d827c3fce7c5ce21c279d56 sha1 af17576957f16f9328efcc4be3e55eff5bc6510b )
+)
+
+game (
+	name "Looper (19xx)(Thacker, David)"
+	description "Looper (19xx)(Thacker, David)"
+	rom ( name "Looper (19xx)(Thacker, David).d64" size 174848 crc ae2cbed8 md5 559316530ed5820af189b978afeb35e2 sha1 907506b28b319c0c03ca5fef17b2c9dbbf2e0c1d )
+)
+
+game (
+	name "Lunar Rescue (1983)(Rabbit)[8k]"
+	description "Lunar Rescue (1983)(Rabbit)[8k]"
+	rom ( name "Lunar Rescue (1983)(Rabbit)[8k].d64" size 174848 crc ed1a8e7f md5 29c2fa535fa5229e85c2d468d96933d3 sha1 6e6aa1c5d5a6afa1dcb8b6432102cf4b9c026828 )
+)
+
+game (
+	name "Mastermind (19xx)(-)"
+	description "Mastermind (19xx)(-)"
+	rom ( name "Mastermind (19xx)(-).d64" size 174848 crc f204e480 md5 8fe70f7894ca644e8b77500319397bf0 sha1 d5fae81310743f4d1a9f6971d072f0ac2ebb3b7f )
+)
+
+game (
+	name "Meteor Zone (1996)(System Four)"
+	description "Meteor Zone (1996)(System Four)"
+	rom ( name "Meteor Zone (1996)(System Four).d64" size 174848 crc fb40675f md5 0cbd7dbd8808649cbe94700eb6c0da98 sha1 3a892d08c8164816a2a49566586ff96baa342666 )
+)
+
+game (
+	name "Meter Mania (19xx)(Abrasco)"
+	description "Meter Mania (19xx)(Abrasco)"
+	rom ( name "Meter Mania (19xx)(Abrasco).d64" size 174848 crc d33c35dd md5 83ebfaf2082f95c3e1d1a8af998575d9 sha1 d2ce68310fcb0ce3f9c00708e4659ac9eaddf6d9 )
+)
+
+game (
+	name "Meter Mania (19xx)(Abrasco)[a]"
+	description "Meter Mania (19xx)(Abrasco)[a]"
+	rom ( name "Meter Mania (19xx)(Abrasco)[a].d64" size 174848 crc 51482b5b md5 424be5ee67a8472e431cb2214c377325 sha1 08a2cd25df426fdf0dcbbd2d079c7e12901cf2ef )
+)
+
+game (
+	name "Mine Field 80 (1983-03)(Commander)(US)[type in]"
+	description "Mine Field 80 (1983-03)(Commander)(US)[type in]"
+	rom ( name "Mine Field 80 (1983-03)(Commander)(US)[type in].d64" size 174848 crc 0b172f14 md5 2a089d4ff745eafaa33194754e06a9cb sha1 baa0eed5643ee480105cad8dab2907509b6518be )
+)
+
+game (
+	name "Mini Kong (1983)(Anirog)"
+	description "Mini Kong (1983)(Anirog)"
+	rom ( name "Mini Kong (1983)(Anirog).d64" size 174848 crc 5fd2502e md5 e7253d44bee89f26ce5c4e71f3a92c33 sha1 109808332c7fd0e5e194726c760cbb66284b9a91 )
+)
+
+game (
+	name "Minitron (1984)(Anirog)"
+	description "Minitron (1984)(Anirog)"
+	rom ( name "Minitron (1984)(Anirog).d64" size 174848 crc d32eed61 md5 6fb230ca5d7e5608c961caa7d3684249 sha1 caf1ddedcd86fc8cf9721604cda50c9ccdd4eaff )
+)
+
+game (
+	name "Minitron (1984)(Anirog)[a]"
+	description "Minitron (1984)(Anirog)[a]"
+	rom ( name "Minitron (1984)(Anirog)[a].d64" size 174848 crc f5c09925 md5 d12191eb9ba9fbb33383616e124ad0a3 sha1 fa1c58b8a3f273f3145afe9fccf65905bdab0f41 )
+)
+
+game (
+	name "Mission Mercury (1983)(Virgin)"
+	description "Mission Mercury (1983)(Virgin)"
+	rom ( name "Mission Mercury (1983)(Virgin).d64" size 174848 crc e3ec4c7b md5 735300cc9dadedd056e01be408b8d96c sha1 e8aca3bbad836374f90701c63c8e93736a8dc94b )
+)
+
+game (
+	name "Mission Mercury (1983)(Virgin)[a]"
+	description "Mission Mercury (1983)(Virgin)[a]"
+	rom ( name "Mission Mercury (1983)(Virgin)[a].d64" size 174848 crc 06ce5c6f md5 34a07cab11f29f86283e5f2063240375 sha1 1a92d03b8806f3f9ae4afece8372659f8b360557 )
+)
+
+game (
+	name "Mister Cubo (1985-07)(PaperSoft)(it)[type-in][8k]"
+	description "Mister Cubo (1985-07)(PaperSoft)(it)[type-in][8k]"
+	rom ( name "Mister Cubo (1985-07)(PaperSoft)(it)[type-in][8k].d64" size 174848 crc 048ff686 md5 fc00df04d541c7b17cf616bb25726ede sha1 d6faf910c0ac1a778c3775ecb9ed4763e7e3fb3b )
+)
+
+game (
+	name "Monkey Kong (1993)(System Four)"
+	description "Monkey Kong (1993)(System Four)"
+	rom ( name "Monkey Kong (1993)(System Four).d64" size 174848 crc 5024ecb8 md5 7a50e5a4e1b12989076e24ce73c32331 sha1 832ddbf825f7d8ffdd53bc042a3f6cd21681aa1e )
+)
+
+game (
+	name "Moon Patrol (1995)(Kircher, Michael)"
+	description "Moon Patrol (1995)(Kircher, Michael)"
+	rom ( name "Moon Patrol (1995)(Kircher, Michael).d64" size 174848 crc b5f1014a md5 1dcc91cd689ccb23a517d04ade91a295 sha1 03b274255f9aebd7a91fca0e7c9e4bd6291a624b )
+)
+
+game (
+	name "Moon Shuttle (19xx)(-)(en-nl)"
+	description "Moon Shuttle (19xx)(-)(en-nl)"
+	rom ( name "Moon Shuttle (19xx)(-)(en-nl).d64" size 174848 crc 73b2d858 md5 d825defa64edb44caf94d1e26ee2419e sha1 57e618960308e6cd80b73d8980f760f371b8ace0 )
+)
+
+game (
+	name "Moon Shuttle (19xx)(-)(en-nl)[a]"
+	description "Moon Shuttle (19xx)(-)(en-nl)[a]"
+	rom ( name "Moon Shuttle (19xx)(-)(en-nl)[a].d64" size 174848 crc 46978570 md5 a623d64cd332034c1dcbf8674c18005c sha1 3716f3eb6711fc6b372332194d2a994c21cb3283 )
+)
+
+game (
+	name "MSTI-Attack (19xx)(MSTI)(de)"
+	description "MSTI-Attack (19xx)(MSTI)(de)"
+	rom ( name "MSTI-Attack (19xx)(MSTI)(de).d64" size 174848 crc 77e78a44 md5 90b08ab835d820ba20c36046edacc92c sha1 604ca7cc967680fec1335215c0e500834bf16347 )
+)
+
+game (
+	name "Mysterious Island, The (1982)(Mr. Micro)[16k]"
+	description "Mysterious Island, The (1982)(Mr. Micro)[16k]"
+	rom ( name "Mysterious Island, The (1982)(Mr. Micro)[16k].d64" size 174848 crc 1d3b75dd md5 295227143e3d91b0eeeed9a80156a520 sha1 2c53b38ac2f393be1c4b7e205f558d790f562457 )
+)
+
+game (
+	name "Nibblers Two! (1983)(Computer Games)"
+	description "Nibblers Two! (1983)(Computer Games)"
+	rom ( name "Nibblers Two! (1983)(Computer Games).d64" size 174848 crc 2633560d md5 f9b061bb93071ec1ef47765df34f43f1 sha1 d6dafbec8d198d62b4eac581eb63e873840fbf67 )
+)
+
+game (
+	name "Olympiad (1984-06)(Compute!)[type-in][8k]"
+	description "Olympiad (1984-06)(Compute!)[type-in][8k]"
+	rom ( name "Olympiad (1984-06)(Compute!)[type-in][8k].d64" size 174848 crc e3277d87 md5 6405a67b969a8525f6bd9d645d795a50 sha1 8bc443b4cca6b01d6551e325d4592cfe39f3f449 )
+)
+
+game (
+	name "Omnitron (1983)(Atlantic)"
+	description "Omnitron (1983)(Atlantic)"
+	rom ( name "Omnitron (1983)(Atlantic).d64" size 174848 crc b7ff94dd md5 77c46df22f5febc36d12b007c03d5db4 sha1 3bae912745e94957d6005c9a657021b7f8a5d705 )
+)
+
+game (
+	name "Othello (19xx)(-)(nl)"
+	description "Othello (19xx)(-)(nl)"
+	rom ( name "Othello (19xx)(-)(nl).d64" size 174848 crc ed688a21 md5 25aa38e4b187b8ba75c4d08cfd3d960d sha1 08697a3e38ea9d779208e4c677a9f3bca55f24aa )
+)
+
+game (
+	name "Pan Attack (1983)(Cascade)"
+	description "Pan Attack (1983)(Cascade)"
+	rom ( name "Pan Attack (1983)(Cascade).d64" size 174848 crc 8828483e md5 4df0837c4a8f660b2448d5dcf98f3833 sha1 08fff0b6088c895d6767ecea40c9653f55a3c582 )
+)
+
+game (
+	name "Paratroopers (1982)(Rabbit)[h]"
+	description "Paratroopers (1982)(Rabbit)[h]"
+	rom ( name "Paratroopers (1982)(Rabbit)[h].d64" size 174848 crc 9fd9d6d8 md5 56c9de07ffedbe544f1b63eccf6952eb sha1 2635a66926fb95a2222693893ca2375ff6d44796 )
+)
+
+game (
+	name "Pests (1984-06)(Compute!)[type-in][8k]"
+	description "Pests (1984-06)(Compute!)[type-in][8k]"
+	rom ( name "Pests (1984-06)(Compute!)[type-in][8k].d64" size 174848 crc ac858bef md5 d99d62d2a572a35c35b7a298d18389a5 sha1 bf0fdfdabdbd7c8f550c2d20515b3e7a9e02feb9 )
+)
+
+game (
+	name "Pitfall (1993)(System Four)"
+	description "Pitfall (1993)(System Four)"
+	rom ( name "Pitfall (1993)(System Four).d64" size 174848 crc 3824b8a9 md5 c6d1b0a9e0cc817a96cdece908c8ad3d sha1 1fd4b16757304b774ca64e33f3e920d924f59f20 )
+)
+
+game (
+	name "Plague (1983)(K-Tel)"
+	description "Plague (1983)(K-Tel)"
+	rom ( name "Plague (1983)(K-Tel).d64" size 174848 crc 6c7d8e4b md5 a681178847338284208dd3dce7fcbc7b sha1 3d17dd733fe30937a00d7f1955c58ed6cdf4ea2f )
+)
+
+game (
+	name "Plague (1983)(K-Tel)[a]"
+	description "Plague (1983)(K-Tel)[a]"
+	rom ( name "Plague (1983)(K-Tel)[a].d64" size 174848 crc f24ad824 md5 a22498ab6a1fc0d2a10ba72a3da24be0 sha1 3a7cd9281f6693c522124e71bf728a8eeb53c283 )
+)
+
+game (
+	name "Power Blaster (1983)(Romik)"
+	description "Power Blaster (1983)(Romik)"
+	rom ( name "Power Blaster (1983)(Romik).d64" size 174848 crc c8aee4a7 md5 44b608e49d27c4d0a65644a3dca36f25 sha1 4993e1cfc24f0458764016d8a446fff360162c15 )
+)
+
+game (
+	name "Quadrant (1983)(Romik)"
+	description "Quadrant (1983)(Romik)"
+	rom ( name "Quadrant (1983)(Romik).d64" size 174848 crc 252a8383 md5 be290560b241d89a5ba12478606d8167 sha1 fb796ba91e6d2cf36540ff7409f6d065b830741d )
+)
+
+game (
+	name "Rabbit Chase (1983)(ABI)"
+	description "Rabbit Chase (1983)(ABI)"
+	rom ( name "Rabbit Chase (1983)(ABI).d64" size 174848 crc e7e32aaf md5 07c712d7a3882f88bdb4579522df2e2b sha1 8fb553e7e208fbc098740b3cf11883d352675c45 )
+)
+
+game (
+	name "Realms of Quest 1 (1992)(System Four)"
+	description "Realms of Quest 1 (1992)(System Four)"
+	rom ( name "Realms of Quest 1 (1992)(System Four).d64" size 174848 crc 10296409 md5 80c7374f3c8508cdf87560f3ae2ae9b7 sha1 97648d1642c8c5d1626d0f5922cdfeda880c7488 )
+)
+
+game (
+	name "Realms of Quest 2 (2003)(System Four)"
+	description "Realms of Quest 2 (2003)(System Four)"
+	rom ( name "Realms of Quest 2 (2003)(System Four).d64" size 174848 crc 7676d76c md5 85e7137ad20f8f8e174b721811a48568 sha1 585161b381b8c793fb12f4e89ea2d47f9d53fb4d )
+)
+
+game (
+	name "Realms of Quest 2 SE (2006)(de Blois, Ghislain)"
+	description "Realms of Quest 2 SE (2006)(de Blois, Ghislain)"
+	rom ( name "Realms of Quest 2 SE (2006)(de Blois, Ghislain).d64" size 174848 crc 8e320808 md5 0948dc9e794f64c43a9e6d30cb44628a sha1 38552c6f4886460789b76293318042680cca7952 )
+)
+
+game (
+	name "Realms of Quest 3 (2009)(de Blois, Ghislain)[32k]"
+	description "Realms of Quest 3 (2009)(de Blois, Ghislain)[32k]"
+	rom ( name "Realms of Quest 3 (2009)(de Blois, Ghislain)[32k].d64" size 174848 crc 5c7ef6b7 md5 a4680dbd6c6fe672a1fb762659bc1ebf sha1 901c22e7c7e960f9122cadaa2d41b062555c4759 )
+)
+
+game (
+	name "Rescue (1984)(Commander)(US)[type-in]"
+	description "Rescue (1984)(Commander)(US)[type-in]"
+	rom ( name "Rescue (1984)(Commander)(US)[type-in].d64" size 174848 crc 5ba3f335 md5 6e5fd3edef04d0ea6b5d64335cf37872 sha1 613f72624074e4647598e7066ce9d2fcf45472a1 )
+)
+
+game (
+	name "Rescue (1984)(Commander)(US)[a][type-in]"
+	description "Rescue (1984)(Commander)(US)[a][type-in]"
+	rom ( name "Rescue (1984)(Commander)(US)[a][type-in].d64" size 174848 crc 10767715 md5 a5226e5758d5ea4eff61b09f4a53f9af sha1 af006a1840d3bde766f9478d96856564e17c3dd4 )
+)
+
+game (
+	name "Ringside Boxing (1996)(System Four)"
+	description "Ringside Boxing (1996)(System Four)"
+	rom ( name "Ringside Boxing (1996)(System Four).d64" size 174848 crc 3c3f58e5 md5 ecee6b7eb90ef354c56ac12ab0dc3e4e sha1 ebbb65e5b03ac189c74fd5440872d11a5b83f0f9 )
+)
+
+game (
+	name "Ringside Wrestling (1990)(System Four)"
+	description "Ringside Wrestling (1990)(System Four)"
+	rom ( name "Ringside Wrestling (1990)(System Four).d64" size 174848 crc 81d5c820 md5 5708af668797a62a5e75c732af70734b sha1 bb59db1779ef29920e69fb0317adbd168bb96d9a )
+)
+
+game (
+	name "Robot (1985)(van Schooten, B.W.)"
+	description "Robot (1985)(van Schooten, B.W.)"
+	rom ( name "Robot (1985)(van Schooten, B.W.).d64" size 174848 crc 74af3f67 md5 aec2b594015039fb48ca362a16bdb096 sha1 b7c4408a724b9a1c23008f8e4a25c8dbb1fd6c33 )
+)
+
+game (
+	name "Robot (1985)(van Schooten, B.W.)[a]"
+	description "Robot (1985)(van Schooten, B.W.)[a]"
+	rom ( name "Robot (1985)(van Schooten, B.W.)[a].d64" size 174848 crc b3b9aafa md5 cb7fc745f704e821fd74c37134e96e5e sha1 e2aea6869403b5a2f8e5d4582d21b4bc396fdb27 )
+)
+
+game (
+	name "Rox III (1982)(Llamasoft)[8k][needs poke 44,36 - run]"
+	description "Rox III (1982)(Llamasoft)[8k][needs poke 44,36 - run]"
+	rom ( name "Rox III (1982)(Llamasoft)[8k][needs poke 44,36 - run].d64" size 174848 crc 28c231f3 md5 1cb5d2cde055aa8d201d9aff55c0e2bd sha1 ebadfdce8167a98673ec3e4111934304206ff726 )
+)
+
+game (
+	name "Sea Invasion (1983)(Romik)"
+	description "Sea Invasion (1983)(Romik)"
+	rom ( name "Sea Invasion (1983)(Romik).d64" size 174848 crc 16243f47 md5 4acab87bdca5e1cc58ea09c8417a7410 sha1 7980027b9f36a6081679e9721e2f68f62cf3bb1a )
+)
+
+game (
+	name "Serpent of Death, The (19xx)(-)[8k]"
+	description "Serpent of Death, The (19xx)(-)[8k]"
+	rom ( name "Serpent of Death, The (19xx)(-)[8k].d64" size 174848 crc c0f21e4c md5 29bda179ebbc767382a9a9f00a5b157d sha1 7951aa071b9a8e6a456e43884d54a915ccaac642 )
+)
+
+game (
+	name "Serpent of Death, The (19xx)(-)[a][8k]"
+	description "Serpent of Death, The (19xx)(-)[a][8k]"
+	rom ( name "Serpent of Death, The (19xx)(-)[a][8k].d64" size 174848 crc 5431c374 md5 a9dce5c024818c1b139301c950e5a84c sha1 24f5d5ce01e0b096463bcb801eb89c23c79dd057 )
+)
+
+game (
+	name "Shark Attack (1982)(Romik)"
+	description "Shark Attack (1982)(Romik)"
+	rom ( name "Shark Attack (1982)(Romik).d64" size 174848 crc f581f0d4 md5 9e025a075dbfd5dcc0180fa96859dd35 sha1 272d1d2c1e3a18b491b8ece9243007b0107b47b9 )
+)
+
+game (
+	name "Shooting Gallery (19xx)(Rocke, Joe)"
+	description "Shooting Gallery (19xx)(Rocke, Joe)"
+	rom ( name "Shooting Gallery (19xx)(Rocke, Joe).d64" size 174848 crc 50da9be8 md5 70ec5ede2e2000c7a6580571fdd4e76c sha1 38e69e9edf9bc05d59c8ba3669a25b4d760b6bec )
+)
+
+game (
+	name "Skiing (20xx)(Denial)"
+	description "Skiing (20xx)(Denial)"
+	rom ( name "Skiing (20xx)(Denial).d64" size 174848 crc af8b1eea md5 b98c2edea987f6e689d415f3f8a310d4 sha1 a65eae579350128f781523432c8ce1fb832ec05f )
+)
+
+game (
+	name "Slang (19xx)(-)(nl)"
+	description "Slang (19xx)(-)(nl)"
+	rom ( name "Slang (19xx)(-)(nl).d64" size 174848 crc 58de2368 md5 0fec572c0a3c65fab1aacd5c9f0fd4ef sha1 73d6fb307baba73793f1525b70bc6a025ae284c3 )
+)
+
+game (
+	name "Slap Dab (1983)(Anirog)"
+	description "Slap Dab (1983)(Anirog)"
+	rom ( name "Slap Dab (1983)(Anirog).d64" size 174848 crc 3af00d4b md5 938722f7c6bb790997abbff24ff3b896 sha1 863c0117c5e3be6f9e5240dc6b1e7756fca48c61 )
+)
+
+game (
+	name "Snake (1985)(van Schooten, B.W.)"
+	description "Snake (1985)(van Schooten, B.W.)"
+	rom ( name "Snake (1985)(van Schooten, B.W.).d64" size 174848 crc 26de9e88 md5 eeffa4e35acb07d3e39fe6beaefc3bb5 sha1 ab6b842e5b4521203310d1201aef94311d0a00d2 )
+)
+
+game (
+	name "Snake (1985)(van Schooten, B.W.)[a]"
+	description "Snake (1985)(van Schooten, B.W.)[a]"
+	rom ( name "Snake (1985)(van Schooten, B.W.)[a].d64" size 174848 crc e59963d3 md5 2fc3c5c90d17b50746995b0d5a5204d4 sha1 22393e8c88d3e21f07e662b63542e166bf3aaaf9 )
+)
+
+game (
+	name "Sno-Cat (1984-08)(Compute!'s Gazette)[type-in]"
+	description "Sno-Cat (1984-08)(Compute!'s Gazette)[type-in]"
+	rom ( name "Sno-Cat (1984-08)(Compute!'s Gazette)[type-in].d64" size 174848 crc e823bbf0 md5 5e13b2452b428c6f35b71412fe891287 sha1 7ce4c228f1645371508349ed9864229780c49b9c )
+)
+
+game (
+	name "Sokoban (2009)(Kircher, Michael)"
+	description "Sokoban (2009)(Kircher, Michael)"
+	rom ( name "Sokoban (2009)(Kircher, Michael).d64" size 174848 crc 843c2f8c md5 eb80cadc42143cfb8a22ff80daee6902 sha1 43b059f09f8b394638ef4fc11808e2acebc5c914 )
+)
+
+game (
+	name "Space Patrol (1984-08)(Compute!'s Gazette)[a][type-in]"
+	description "Space Patrol (1984-08)(Compute!'s Gazette)[a][type-in]"
+	rom ( name "Space Patrol (1984-08)(Compute!'s Gazette)[a][type-in].d64" size 174848 crc dfaeebbc md5 fd08fb9195114bd3be5f80ea4d4f3ef3 sha1 a514eae3848c5ac2e1f192317af3e3c0ccc769ef )
+)
+
+game (
+	name "Space Patrol (1984-08)(Compute!'s Gazette)[type-in]"
+	description "Space Patrol (1984-08)(Compute!'s Gazette)[type-in]"
+	rom ( name "Space Patrol (1984-08)(Compute!'s Gazette)[type-in].d64" size 174848 crc 37bb28f2 md5 93e076acc807f46871017b57542bc248 sha1 adf79fc59e948882ba0724e72aca3709a49c70a7 )
+)
+
+game (
+	name "Space Storm (1982)(Rabbit)"
+	description "Space Storm (1982)(Rabbit)"
+	rom ( name "Space Storm (1982)(Rabbit).d64" size 174848 crc 2495a862 md5 1dc8a7d07f9551fda5dbd455723d86c0 sha1 ea4b3913d8f628255c0a803f2286a105ee6f0970 )
+)
+
+game (
+	name "Space Zap (1982)(VIC-Soft)"
+	description "Space Zap (1982)(VIC-Soft)"
+	rom ( name "Space Zap (1982)(VIC-Soft).d64" size 174848 crc 2d652312 md5 5b2d8959201196032d04c7c29e299187 sha1 e4a44b0b80252c751fbd53c9b693f39d5399950f )
+)
+
+game (
+	name "Squirrel Quest I (2003)(Richards, James)[8k]"
+	description "Squirrel Quest I (2003)(Richards, James)[8k]"
+	rom ( name "Squirrel Quest I (2003)(Richards, James)[8k].d64" size 174848 crc b2c455e7 md5 d68eb62e45e2c6e2873feae2e30e7544 sha1 15c488ba63cb3a496315de873b582f923b1c295f )
+)
+
+game (
+	name "Star Wars II (1982)(Titan)"
+	description "Star Wars II (1982)(Titan)"
+	rom ( name "Star Wars II (1982)(Titan).d64" size 174848 crc d0ff1187 md5 a1660cb8e5756a8490555452957dd2cc sha1 13dd5cc474b3eb8f9d1bfb7a250d7c29b2a8328b )
+)
+
+game (
+	name "Super Kong (19xx)(Galluchon, Andrew)"
+	description "Super Kong (19xx)(Galluchon, Andrew)"
+	rom ( name "Super Kong (19xx)(Galluchon, Andrew).d64" size 174848 crc f130f07e md5 1e4fd79e58594ec07429a186b79bd7aa sha1 0a77fb1f3f6a0b645a32e6f8b3e9c65be83783cd )
+)
+
+game (
+	name "Tammerfors (2003)(Eeben, Aleksi)"
+	description "Tammerfors (2003)(Eeben, Aleksi)"
+	rom ( name "Tammerfors (2003)(Eeben, Aleksi).d64" size 174848 crc 7694527f md5 58855afc368f3eea82368b8c38686e56 sha1 840fff67130435681875c63bdd11d145ea19f5bb )
+)
+
+game (
+	name "Temple of Apshai, The (1983)(Epyx)[16k]"
+	description "Temple of Apshai, The (1983)(Epyx)[16k]"
+	rom ( name "Temple of Apshai, The (1983)(Epyx)[16k].d64" size 174848 crc d43d2859 md5 d856ecafe751e20d43d54eb796b6f3a3 sha1 e2e73511c1e0d8ee50af9308f61a77eea1de08cd )
+)
+
+game (
+	name "Tetris+ (2008)(Porcino, Antonino - Di Battista, Nicola)[3k]"
+	description "Tetris+ (2008)(Porcino, Antonino - Di Battista, Nicola)[3k]"
+	rom ( name "Tetris+ (2008)(Porcino, Antonino - Di Battista, Nicola)[3k].d64" size 174848 crc 1d66e5da md5 dc24f33170c50c208655f598cae4034c sha1 33459603cba977c9916924dc82f410f0f76c5a7b )
+)
+
+game (
+	name "Thriller (19xx)(Wiebelt, Bernd)(de)[16k]"
+	description "Thriller (19xx)(Wiebelt, Bernd)(de)[16k]"
+	rom ( name "Thriller (19xx)(Wiebelt, Bernd)(de)[16k].d64" size 174848 crc 700d95b2 md5 7adc52c0be844bbe45d75d28edd5eaf3 sha1 8ec6cbc7aff50d2ca7c57dc36ee145f2edaf5599 )
+)
+
+game (
+	name "Tomb of Drewan, The (1982)(Audiogenic)[16k]"
+	description "Tomb of Drewan, The (1982)(Audiogenic)[16k]"
+	rom ( name "Tomb of Drewan, The (1982)(Audiogenic)[16k].d64" size 174848 crc 246024d3 md5 c04baacfd886eedc4233f180be3e2fc2 sha1 4ba3176f4963f27814ecd158bc5304503f58fdf2 )
+)
+
+game (
+	name "Topografie (19xx)(-)(nl)"
+	description "Topografie (19xx)(-)(nl)"
+	rom ( name "Topografie (19xx)(-)(nl).d64" size 174848 crc fdc60003 md5 7c86bdb6d23b75a6145ed042d8da026a sha1 5db1036ad3ed271429a2fac7010931d866dd33ee )
+)
+
+game (
+	name "Topografie (19xx)(-)(nl)[a]"
+	description "Topografie (19xx)(-)(nl)[a]"
+	rom ( name "Topografie (19xx)(-)(nl)[a].d64" size 174848 crc 5472e2c2 md5 0aeab80cf5796590b604f97424bb6219 sha1 722c7625acdf931b771a032f422a7da1ae3887c8 )
+)
+
+game (
+	name "Trader Trilogy, The (1982)(Pixel)[16k]"
+	description "Trader Trilogy, The (1982)(Pixel)[16k]"
+	rom ( name "Trader Trilogy, The (1982)(Pixel)[16k].d64" size 174848 crc 7fd61ef0 md5 2448eb036e5afa0dacc313fcf4aeb4ce sha1 2dd8bb8441d3445028b62d51241fa1ef48bf6f7e )
+)
+
+game (
+	name "Trader Trilogy, The (1982)(Pixel)[a][16k]"
+	description "Trader Trilogy, The (1982)(Pixel)[a][16k]"
+	rom ( name "Trader Trilogy, The (1982)(Pixel)[a][16k].d64" size 174848 crc a22a02ea md5 d18322f8349fae29b11453ec6a997cef sha1 1415d6ddda0966ff48138dd16d839e02898779a6 )
+)
+
+game (
+	name "Treasure Hunt (1984-09)(Compute!'s Gazette)[a][type-in][8k]"
+	description "Treasure Hunt (1984-09)(Compute!'s Gazette)[a][type-in][8k]"
+	rom ( name "Treasure Hunt (1984-09)(Compute!'s Gazette)[a][type-in][8k].d64" size 174848 crc 9363a142 md5 c2965d6d32061751de1a2a88686cd6f6 sha1 7994342437c7b1287c54989302e1cd92d0fb1512 )
+)
+
+game (
+	name "Trivia Hangman (1985-03-06)(Galluchon, Mike)[16k]"
+	description "Trivia Hangman (1985-03-06)(Galluchon, Mike)[16k]"
+	rom ( name "Trivia Hangman (1985-03-06)(Galluchon, Mike)[16k].d64" size 174848 crc c8c470cf md5 11f97757c8462c626407b4541c91052d sha1 c2f011a9d9d0982422ad39d1cf9eb0ea59b41f8e )
+)
+
+game (
+	name "U-Boat (1983-11)(Compute!)[f][Dr. B.][type-in]"
+	description "U-Boat (1983-11)(Compute!)[f][Dr. B.][type-in]"
+	rom ( name "U-Boat (1983-11)(Compute!)[f][Dr. B.][type-in].d64" size 174848 crc d25c6860 md5 c9234ab9ec2b132123f5086fa505c48c sha1 f1f1d62503a38bacd2360ab01e8690edd8995b38 )
+)
+
+game (
+	name "Ultima - Escape From Mount Drash (1983)(Sierra)(NTSC)[8k]"
+	description "Ultima - Escape From Mount Drash (1983)(Sierra)(NTSC)[8k]"
+	rom ( name "Ultima - Escape From Mount Drash (1983)(Sierra)(NTSC)[8k].d64" size 174848 crc 3a5f161c md5 973e3e7b5ccbccc4bfb76906b7adb0ae sha1 7540185f61d8633f74c6f68e7321f3101b183a67 )
+)
+
+game (
+	name "VIC Downs (1983-11)(Compute!)[f][a][Dr. B.][type-in]"
+	description "VIC Downs (1983-11)(Compute!)[f][a][Dr. B.][type-in]"
+	rom ( name "VIC Downs (1983-11)(Compute!)[f][a][Dr. B.][type-in].d64" size 174848 crc 6cbb437d md5 63714dc448443ee2c483507b41890651 sha1 b4f7ab75ef2deb21582e7374044e8d5e25eb9f0d )
+)
+
+game (
+	name "VIC Downs (1983-11)(Compute!)[f][Dr. B.][type-in]"
+	description "VIC Downs (1983-11)(Compute!)[f][Dr. B.][type-in]"
+	rom ( name "VIC Downs (1983-11)(Compute!)[f][Dr. B.][type-in].d64" size 174848 crc 89056690 md5 2d3831255f22c47127809e4263c9cf0e sha1 1a2eb45a2fe4bbc0108a4a361cdb81aad4651b25 )
+)
+
+game (
+	name "Vicfall (2006)(System Four)"
+	description "Vicfall (2006)(System Four)"
+	rom ( name "Vicfall (2006)(System Four).d64" size 174848 crc 33f50f8c md5 b9f60a3f159b7e444dcbbbe813a18f20 sha1 a3db57722e39bb3532956c058a417fe54fc0efaf )
+)
+
+game (
+	name "Vicfall 2 (2009)(System Four)"
+	description "Vicfall 2 (2009)(System Four)"
+	rom ( name "Vicfall 2 (2009)(System Four).d64" size 174848 crc fed1f299 md5 24062aee50a18481b4ed6da2f3fd8bf2 sha1 b11697ac9a88aa7d6c0483dce6e404173b8de57e )
+)
+
+game (
+	name "VICtoria (2008)(Ubiali, Alessandro)[8k]"
+	description "VICtoria (2008)(Ubiali, Alessandro)[8k]"
+	rom ( name "VICtoria (2008)(Ubiali, Alessandro)[8k].d64" size 174848 crc 50863793 md5 cfe3e7fef4131a91911e34b8043313ce sha1 6aa535768eaff160885ccebd653d108a12854662 )
+)
+
+game (
+	name "VICtoria - Gold Edition (2008)(Ubiali, Alessandro)[16k]"
+	description "VICtoria - Gold Edition (2008)(Ubiali, Alessandro)[16k]"
+	rom ( name "VICtoria - Gold Edition (2008)(Ubiali, Alessandro)[16k].d64" size 174848 crc 489361a9 md5 04e45458a72b63f67036a77bd3356e8f sha1 e7cb9d9668f88376324b9de0b58c8993495977cd )
+)
+
+game (
+	name "Volcano Blast (1983)(ALA)[8k]"
+	description "Volcano Blast (1983)(ALA)[8k]"
+	rom ( name "Volcano Blast (1983)(ALA)[8k].d64" size 174848 crc d826ec0e md5 8d254380ee7245569db18eaee950ad19 sha1 bda473da8ea7434a630e852c68be1802d508bffc )
+)
+
+game (
+	name "Whack (2003)(Eeben, Aleksi)[NTSC & PAL version]"
+	description "Whack (2003)(Eeben, Aleksi)[NTSC & PAL version]"
+	rom ( name "Whack (2003)(Eeben, Aleksi)[NTSC & PAL version].d64" size 174848 crc 598e1427 md5 7cdc55c99adfb5c34374886b686037e5 sha1 913501ff5c196313b39f55a4249f3011779cbc1d )
+)
+
+game (
+	name "Worm of Bemer (1984-04)(Compute!)[type-in][8k]"
+	description "Worm of Bemer (1984-04)(Compute!)[type-in][8k]"
+	rom ( name "Worm of Bemer (1984-04)(Compute!)[type-in][8k].d64" size 174848 crc 4124008b md5 49b4f483344ec416bc7448d21ae37bc8 sha1 d1b1c12560d7c7cbfa5c99d51bbafc7da644ed30 )
+)
+
+game (
+	name "Wurmi (1987)(Hunold, Peter)[16k]"
+	description "Wurmi (1987)(Hunold, Peter)[16k]"
+	rom ( name "Wurmi (1987)(Hunold, Peter)[16k].d64" size 174848 crc 4a8be4ed md5 fe1c232f4ab1a381434f0c7cc70524d3 sha1 3c62e42e2d809d9f159922ef25e7261a08bb2df9 )
+)
+
+game (
+	name "Wurmi (1987)(Hunold, Peter)[a][16k]"
+	description "Wurmi (1987)(Hunold, Peter)[a][16k]"
+	rom ( name "Wurmi (1987)(Hunold, Peter)[a][16k].d64" size 174848 crc fa96b502 md5 3c4eddf4e5f71b74356fa8c9a9666735 sha1 78b48ad4c146d28d11eacd82ad97afae26d4ba41 )
+)
+
+game (
+	name "Xeno II (1982)(Anirog)[16k]"
+	description "Xeno II (1982)(Anirog)[16k]"
+	rom ( name "Xeno II (1982)(Anirog)[16k].d64" size 174848 crc 5904f601 md5 6b2e14ec6b4258df2c7e4f7287bf4fda sha1 00f8ba6caa48e76b2314c905ce893e65e6f1050d )
+)
+
+game (
+	name "Zorgon's Kingdom (19xx)(Romik)[8k]"
+	description "Zorgon's Kingdom (19xx)(Romik)[8k]"
+	rom ( name "Zorgon's Kingdom (19xx)(Romik)[8k].d64" size 174848 crc b39aceef md5 56bff4b3db65847da48589116a072d91 sha1 594b4184e88dd8499ba37f1b701ce6c3b83bbd4e )
+)
+
+game (
+	name "Zorgon's Kingdom (19xx)(Romik)[a][8k]"
+	description "Zorgon's Kingdom (19xx)(Romik)[a][8k]"
+	rom ( name "Zorgon's Kingdom (19xx)(Romik)[a][8k].d64" size 174848 crc 88cadb56 md5 1904e004463724b88b9e1a6d125f34ca sha1 0e014fd2a8cb0443fbf69f7cc65f46b168d21fc0 )
+)
+

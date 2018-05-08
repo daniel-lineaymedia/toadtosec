@@ -1,0 +1,25 @@
+clrmamepro (
+	name "DEC PDP-1 - Demos - [MAC]"
+	description "DEC PDP-1 - Demos - [MAC] (TOSEC-v2010-09-09)"
+	category "DEC PDP-1 - Demos - [MAC]"
+	version 2010-09-09
+	author "TKaos"
+)
+
+game (
+	name "Display Hacks (19xx)(Samson, Peter)(US)"
+	description "Display Hacks (19xx)(Samson, Peter)(US)"
+	rom ( name "Display Hacks (19xx)(Samson, Peter)(US).mac" size 2919 crc b2823864 md5 ed2f0cd95a799dfc41b574ff0e845276 )
+)
+
+game (
+	name "Lives (2006-06-14)(Samson, Peter)(US)"
+	description "Lives (2006-06-14)(Samson, Peter)(US)"
+	rom ( name "Lives (2006-06-14)(Samson, Peter)(US).mac" size 735 crc 0eb31c78 md5 426e6d7a148e32553ccdaa51c37d3f4f )
+)
+
+game (
+	name "Music 13 (19xx)(Samson, Peter)(US)"
+	description "Music 13 (19xx)(Samson, Peter)(US)"
+	rom ( name "Music 13 (19xx)(Samson, Peter)(US).mac" size 12289 crc d5d6c680 md5 a35ed3b5e6f3f13d54ff30184c8e3981 )
+)

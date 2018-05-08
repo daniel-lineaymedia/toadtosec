@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Cybiko Cybiko - Demos"
+	description "Cybiko Cybiko - Demos (TOSEC-v2009-09-01)"
+	category "Cybiko Cybiko - Demos"
+	version 2009-09-01
+	author "Apache - Cassiel"
+)
+
+game (
+	name "Mages 2 (200x)(Jace D.)"
+	description "Mages 2 (200x)(Jace D.)"
+	rom ( name "Mages 2 (200x)(Jace D.).app" size 18983 crc 99819852 md5 c5b8d169bd523d935de28fe0a90b1743 )
+)

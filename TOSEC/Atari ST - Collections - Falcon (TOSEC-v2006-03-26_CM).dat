@@ -1,0 +1,91 @@
+clrmamepro (
+	name "Atari ST - Collections - Falcon"
+	description "Atari ST - Collections - Falcon (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Falcon"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 01 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 01 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 01 of 10).st" size 737280 crc 38847017 md5 22e1f5a250db40150608b266ad2a8204 )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 02 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 02 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 02 of 10).st" size 737280 crc e2f72363 md5 6aba6ef7554e978b682152cff151abde )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 03 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 03 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 03 of 10).st" size 737280 crc d3eba170 md5 24aad567199867d448b1919bc402c428 )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 04 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 04 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 04 of 10).st" size 737280 crc 6e48b263 md5 f39621fb672a77b227ad4425f1ca89c7 )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 05 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 05 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 05 of 10).st" size 737280 crc d43b4c52 md5 39438dc0bd7e9b8e4888a945d4b06bac )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 06 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 06 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 06 of 10).st" size 737280 crc b589b886 md5 f38380f6ba578efacfd9cdede2749cee )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 07 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 07 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 07 of 10).st" size 737280 crc c8aa8b38 md5 579c76b03e4e275d059cb045f34dc97a )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 08 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 08 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 08 of 10).st" size 737280 crc 0e9eff4b md5 f04cfd0bf5d4ba668245a5de24acc8fe )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 09 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 09 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 09 of 10).st" size 737280 crc 0bf09370 md5 e1f0953a3972e5ef78cf9759895f2a05 )
+)
+
+game (
+	name "Falcon 1 PD Collection (19xx)(-)(Disk 10 of 10)"
+	description "Falcon 1 PD Collection (19xx)(-)(Disk 10 of 10)"
+	rom ( name "Falcon 1 PD Collection (19xx)(-)(Disk 10 of 10).st" size 737280 crc ad3fba74 md5 54daa3113b3f212be47df3b249d0c4f8 )
+)
+
+game (
+	name "Falcon 2 PD Collection (19xx)(-)(Disk 01 of 10)[Disk 05-10 missing]"
+	description "Falcon 2 PD Collection (19xx)(-)(Disk 01 of 10)[Disk 05-10 missing]"
+	rom ( name "Falcon 2 PD Collection (19xx)(-)(Disk 01 of 10)[Disk 05-10 missing].st" size 737280 crc c03f0e72 md5 745c56841e18022f16ab5af9343fe5e6 )
+)
+
+game (
+	name "Falcon 2 PD Collection (19xx)(-)(Disk 02 of 10)[Disk 05-10 missing]"
+	description "Falcon 2 PD Collection (19xx)(-)(Disk 02 of 10)[Disk 05-10 missing]"
+	rom ( name "Falcon 2 PD Collection (19xx)(-)(Disk 02 of 10)[Disk 05-10 missing].st" size 737280 crc 586775ce md5 6b59c26336152ee11c18e0d4bff2953f )
+)
+
+game (
+	name "Falcon 2 PD Collection (19xx)(-)(Disk 03 of 10)[Disk 05-10 missing]"
+	description "Falcon 2 PD Collection (19xx)(-)(Disk 03 of 10)[Disk 05-10 missing]"
+	rom ( name "Falcon 2 PD Collection (19xx)(-)(Disk 03 of 10)[Disk 05-10 missing].st" size 737280 crc 52d4be24 md5 e5c075771d82d403f357e4ea62834d1f )
+)
+
+game (
+	name "Falcon 2 PD Collection (19xx)(-)(Disk 04 of 10)[Disk 05-10 missing]"
+	description "Falcon 2 PD Collection (19xx)(-)(Disk 04 of 10)[Disk 05-10 missing]"
+	rom ( name "Falcon 2 PD Collection (19xx)(-)(Disk 04 of 10)[Disk 05-10 missing].st" size 737280 crc 026d1599 md5 38118bf2d138c87b113272164d970623 )
+)

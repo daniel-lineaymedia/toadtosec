@@ -1,0 +1,19 @@
+clrmamepro (
+	name "DEC PDP-8 - Games - [TU6]"
+	description "DEC PDP-8 - Games - [TU6] (TOSEC-v2009-10-23)"
+	category "DEC PDP-8 - Games - [TU6]"
+	version 2009-10-23
+	author "TKaos"
+)
+
+game (
+	name "Chekmo (19xx)(-)"
+	description "Chekmo (19xx)(-)"
+	rom ( name "Chekmo (19xx)(-).tu6" size 591872 crc ddb237d9 md5 c8bb39dea198c60eaf8488291268fa6e )
+)
+
+game (
+	name "Chekmo II (19xx)(Comeau, John E.)"
+	description "Chekmo II (19xx)(Comeau, John E.)"
+	rom ( name "Chekmo II (19xx)(Comeau, John E.).tu6" size 380292 crc 30bddd12 md5 cf927b8283a2ee6e048ac4ca79ecde33 )
+)

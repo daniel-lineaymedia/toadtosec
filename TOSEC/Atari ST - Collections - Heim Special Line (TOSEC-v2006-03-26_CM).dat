@@ -1,0 +1,529 @@
+clrmamepro (
+	name "Atari ST - Collections - Heim Special Line"
+	description "Atari ST - Collections - Heim Special Line (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Heim Special Line"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Heim Special Line 01 (19xx)(Heim Special Line)"
+	description "Heim Special Line 01 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 01 (19xx)(Heim Special Line).st" size 368640 crc e659d5a1 md5 967d515539d9fa5d64a0311e6ba5dd88 )
+)
+
+game (
+	name "Heim Special Line 01 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 01 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 01 (19xx)(Heim Special Line)[a].st" size 368640 crc 0e1d2d81 md5 5189080c29068fb0c40a42a0d9670084 )
+)
+
+game (
+	name "Heim Special Line 02 (19xx)(Heim Special Line)"
+	description "Heim Special Line 02 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 02 (19xx)(Heim Special Line).st" size 368640 crc 72db48e9 md5 fabf7f86782edf463d7a226a2aab9893 )
+)
+
+game (
+	name "Heim Special Line 03 (19xx)(Heim Special Line)"
+	description "Heim Special Line 03 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 03 (19xx)(Heim Special Line).st" size 368640 crc 695d16b3 md5 8c85ea1dc6a3a2ba4002d6d8cca241de )
+)
+
+game (
+	name "Heim Special Line 03 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 03 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 03 (19xx)(Heim Special Line)[a].st" size 368640 crc 265b4a73 md5 604040b9ae40abecda705ddf3f99d642 )
+)
+
+game (
+	name "Heim Special Line 04 (19xx)(Heim Special Line)"
+	description "Heim Special Line 04 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 04 (19xx)(Heim Special Line).st" size 368640 crc dea6b1da md5 a1fce4db75a82a73a11c5a4e7566cde4 )
+)
+
+game (
+	name "Heim Special Line 04 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 04 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 04 (19xx)(Heim Special Line)[a].st" size 368640 crc 41db0d12 md5 b09b2e64221d54a018beea5b8b61848b )
+)
+
+game (
+	name "Heim Special Line 05 (19xx)(Heim Special Line)"
+	description "Heim Special Line 05 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 05 (19xx)(Heim Special Line).st" size 368640 crc 281391c9 md5 a7abefd59c841f302c1d0ed545a75b40 )
+)
+
+game (
+	name "Heim Special Line 06 (19xx)(Heim Special Line)"
+	description "Heim Special Line 06 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 06 (19xx)(Heim Special Line).st" size 368640 crc 95197012 md5 9fba7328f26f4ab650688ea66a68c9e9 )
+)
+
+game (
+	name "Heim Special Line 06 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 06 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 06 (19xx)(Heim Special Line)[a].st" size 368640 crc 66e052a1 md5 3bf8b2908b74de3cda7d4d31de1852b0 )
+)
+
+game (
+	name "Heim Special Line 07 (19xx)(Heim Special Line)"
+	description "Heim Special Line 07 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 07 (19xx)(Heim Special Line).st" size 368640 crc b5ed0de7 md5 2d18a977789a228533d042017711d39d )
+)
+
+game (
+	name "Heim Special Line 08 (19xx)(Heim Special Line)"
+	description "Heim Special Line 08 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 08 (19xx)(Heim Special Line).st" size 737280 crc b301d8ab md5 d18977bcd515a6b1ef714a973ba6c188 )
+)
+
+game (
+	name "Heim Special Line 08 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 08 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 08 (19xx)(Heim Special Line)[a].st" size 737280 crc 7b14bb73 md5 50115bbb42c68a5bbf651e69607b71fe )
+)
+
+game (
+	name "Heim Special Line 10 (19xx)(Heim Special Line)"
+	description "Heim Special Line 10 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 10 (19xx)(Heim Special Line).st" size 368640 crc 13873339 md5 97396f73213bd6c587b4fa43f670bfdb )
+)
+
+game (
+	name "Heim Special Line 10 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 10 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 10 (19xx)(Heim Special Line)[a].st" size 368640 crc 58ee3d26 md5 98c3447a3a812b6658414fffadce176d )
+)
+
+game (
+	name "Heim Special Line 11 (19xx)(Heim Special Line)"
+	description "Heim Special Line 11 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 11 (19xx)(Heim Special Line).st" size 368640 crc 22d77922 md5 16348b8495058e9cf713853a14fcedae )
+)
+
+game (
+	name "Heim Special Line 11 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 11 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 11 (19xx)(Heim Special Line)[a].st" size 368640 crc 8f991fae md5 89ce6acf527cc2f388e302206a5b4f74 )
+)
+
+game (
+	name "Heim Special Line 12 (19xx)(Heim Special Line)"
+	description "Heim Special Line 12 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 12 (19xx)(Heim Special Line).st" size 368640 crc d52c4c57 md5 641ddf1b12e17f534958d1cdb49fa793 )
+)
+
+game (
+	name "Heim Special Line 13 (19xx)(Heim Special Line)"
+	description "Heim Special Line 13 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 13 (19xx)(Heim Special Line).st" size 368640 crc 875567ac md5 69e2017b9095b0170b2f010d04f557ef )
+)
+
+game (
+	name "Heim Special Line 14 (19xx)(Heim Special Line)"
+	description "Heim Special Line 14 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 14 (19xx)(Heim Special Line).st" size 368640 crc ed372c28 md5 13d96bcaef518b7886e73d4b9577e2d4 )
+)
+
+game (
+	name "Heim Special Line 15 (19xx)(Heim Special Line)"
+	description "Heim Special Line 15 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 15 (19xx)(Heim Special Line).st" size 368640 crc 4cf17ddc md5 c02ee40adcc2afb9ae13db978e056a43 )
+)
+
+game (
+	name "Heim Special Line 15 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 15 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 15 (19xx)(Heim Special Line)[a].st" size 368640 crc 92d98c53 md5 5964a366a3e56bacea620dd4acff38c9 )
+)
+
+game (
+	name "Heim Special Line 16 (19xx)(Heim Special Line)"
+	description "Heim Special Line 16 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 16 (19xx)(Heim Special Line).st" size 368640 crc 245ff7df md5 b66ac5387f36ed6c8d646b9215cef615 )
+)
+
+game (
+	name "Heim Special Line 16 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 16 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 16 (19xx)(Heim Special Line)[a].st" size 368640 crc b23e48c6 md5 9e67f732212b25e1ebb88648ec4caac0 )
+)
+
+game (
+	name "Heim Special Line 17 (19xx)(Heim Special Line)"
+	description "Heim Special Line 17 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 17 (19xx)(Heim Special Line).st" size 368640 crc f3a687b0 md5 7864d05dfa87b28cf65bdbb9068b98dd )
+)
+
+game (
+	name "Heim Special Line 17 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 17 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 17 (19xx)(Heim Special Line)[a].st" size 368640 crc c042fe41 md5 78c52d5ef0894f1c183205c8546b8a2f )
+)
+
+game (
+	name "Heim Special Line 18 (19xx)(Heim Special Line)"
+	description "Heim Special Line 18 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 18 (19xx)(Heim Special Line).st" size 737280 crc 82f2a1a6 md5 f76200b04a9d432042f5e5c526ad0428 )
+)
+
+game (
+	name "Heim Special Line 18 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 18 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 18 (19xx)(Heim Special Line)[a].st" size 819200 crc 8691f71b md5 e8d76c474a36008022a74b0978497ce2 )
+)
+
+game (
+	name "Heim Special Line 19 (19xx)(Heim Special Line)"
+	description "Heim Special Line 19 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 19 (19xx)(Heim Special Line).st" size 368640 crc 1fad5a7b md5 47e3f0172fe97ea765d84bd34a5ea6de )
+)
+
+game (
+	name "Heim Special Line 20 (19xx)(Heim Special Line)"
+	description "Heim Special Line 20 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 20 (19xx)(Heim Special Line).st" size 368640 crc b699d071 md5 4dce0797a1c3fd135b28d783b650c50d )
+)
+
+game (
+	name "Heim Special Line 21 (19xx)(Heim Special Line)"
+	description "Heim Special Line 21 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 21 (19xx)(Heim Special Line).st" size 368640 crc a7c7bee4 md5 cb59a1e90f5d67b7f9f5a8f42283c4a0 )
+)
+
+game (
+	name "Heim Special Line 21 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 21 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 21 (19xx)(Heim Special Line)[a].st" size 368640 crc ecce95e5 md5 6bd48aaac625d535739cac1e86464a72 )
+)
+
+game (
+	name "Heim Special Line 22 (19xx)(Heim Special Line)"
+	description "Heim Special Line 22 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 22 (19xx)(Heim Special Line).st" size 737280 crc 383f9ac1 md5 3075dc5cbfb535666a9b4fc5ee1345b6 )
+)
+
+game (
+	name "Heim Special Line 22 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 22 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 22 (19xx)(Heim Special Line)[a].st" size 737280 crc 55d797f9 md5 1fa96ae36353e948a95c378365ff8710 )
+)
+
+game (
+	name "Heim Special Line 23 (19xx)(Heim Special Line)"
+	description "Heim Special Line 23 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 23 (19xx)(Heim Special Line).st" size 368640 crc 35a7eb6e md5 e13d711d63a3244ec54970e0153b9283 )
+)
+
+game (
+	name "Heim Special Line 23 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 23 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 23 (19xx)(Heim Special Line)[a].st" size 368640 crc 06143820 md5 5cb858545fdfae612f9f7ed7f410d64c )
+)
+
+game (
+	name "Heim Special Line 24 (19xx)(Heim Special Line)"
+	description "Heim Special Line 24 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 24 (19xx)(Heim Special Line).st" size 368640 crc 67477b82 md5 cd4e17783bf103208ead6ab1867b1b18 )
+)
+
+game (
+	name "Heim Special Line 24 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 24 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 24 (19xx)(Heim Special Line)[a].st" size 368640 crc 7312b24d md5 606d2e1d27920f193fbc0c78f4548313 )
+)
+
+game (
+	name "Heim Special Line 25 (19xx)(Heim Special Line)"
+	description "Heim Special Line 25 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 25 (19xx)(Heim Special Line).st" size 368640 crc f4080088 md5 8d86be8b702f86596c7e2da19f6558d5 )
+)
+
+game (
+	name "Heim Special Line 26 (19xx)(Heim Special Line)"
+	description "Heim Special Line 26 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 26 (19xx)(Heim Special Line).st" size 368640 crc 995c6875 md5 88e9b50648621b9929fba5b00e4043fa )
+)
+
+game (
+	name "Heim Special Line 26 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 26 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 26 (19xx)(Heim Special Line)[a].st" size 1410048 crc 8f6d72e3 md5 9dd76b3713614e922be9f77ae8ae8543 )
+)
+
+game (
+	name "Heim Special Line 27 (19xx)(Heim Special Line)"
+	description "Heim Special Line 27 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 27 (19xx)(Heim Special Line).st" size 368640 crc f11aa25b md5 614908bd7a7d7ef2c0f16c0fa7d4e4d6 )
+)
+
+game (
+	name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 1 of 2)"
+	description "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 1 of 2)"
+	rom ( name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 1 of 2).st" size 737280 crc f3c7f733 md5 9e499cf655f557e9ec4c52ade63ca220 )
+)
+
+game (
+	name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 2 of 2)"
+	description "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 2 of 2)"
+	rom ( name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk 2 of 2).st" size 368640 crc 3888d4d2 md5 e450811be6148e3733a56e777f0e5ff0 )
+)
+
+game (
+	name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk x of 2)"
+	description "Heim Special Line 28 (19xx)(Heim Special Line)(Disk x of 2)"
+	rom ( name "Heim Special Line 28 (19xx)(Heim Special Line)(Disk x of 2).st" size 737280 crc b1265bcd md5 eb4dcca70e4250e8069b35ecad06fc71 )
+)
+
+game (
+	name "Heim Special Line 29 (19xx)(Heim Special Line)"
+	description "Heim Special Line 29 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 29 (19xx)(Heim Special Line).st" size 368640 crc 0372e499 md5 b129af6a9b92a1274b80c333be2e701e )
+)
+
+game (
+	name "Heim Special Line 29 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 29 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 29 (19xx)(Heim Special Line)[a].st" size 368640 crc 291af34b md5 655433a7b3b8114bbc87af6f0d60ba3a )
+)
+
+game (
+	name "Heim Special Line 30 (19xx)(Heim Special Line)"
+	description "Heim Special Line 30 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 30 (19xx)(Heim Special Line).st" size 368640 crc e7562a77 md5 da8365a6e7caed3c518b602da84637f3 )
+)
+
+game (
+	name "Heim Special Line 30 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 30 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 30 (19xx)(Heim Special Line)[a].st" size 368640 crc 1af31232 md5 5af9ad5b70ca0650cf69c10a3752b8ec )
+)
+
+game (
+	name "Heim Special Line 31 (19xx)(Heim Special Line)"
+	description "Heim Special Line 31 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 31 (19xx)(Heim Special Line).st" size 368640 crc 51e07eac md5 f3786f446c00753c7d6667d2d7b2d03d )
+)
+
+game (
+	name "Heim Special Line 31 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 31 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 31 (19xx)(Heim Special Line)[a].st" size 368640 crc 3b634d99 md5 ec5dcc3e231f38cc025a01eb63ac862a )
+)
+
+game (
+	name "Heim Special Line 32 (19xx)(Heim Special Line)"
+	description "Heim Special Line 32 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 32 (19xx)(Heim Special Line).st" size 368640 crc f6478a8a md5 0f40b4f1226495fb3c7657027d096eb5 )
+)
+
+game (
+	name "Heim Special Line 32 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 32 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 32 (19xx)(Heim Special Line)[a].st" size 368640 crc e025be13 md5 9c27d517a9def9bdc01f4bac750b0c32 )
+)
+
+game (
+	name "Heim Special Line 33 (19xx)(Heim Special Line)"
+	description "Heim Special Line 33 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 33 (19xx)(Heim Special Line).st" size 737280 crc e49f887a md5 01df8ac365c465e42b126cf772808a1c )
+)
+
+game (
+	name "Heim Special Line 33 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 33 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 33 (19xx)(Heim Special Line)[a].st" size 737280 crc 83ef9e7e md5 4b3e8e0932bd6a9a84297a3732f79a0c )
+)
+
+game (
+	name "Heim Special Line 34 (19xx)(Heim Special Line)"
+	description "Heim Special Line 34 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 34 (19xx)(Heim Special Line).st" size 368640 crc 93b2982b md5 1652e85c1baf9af15647acf05c965cb9 )
+)
+
+game (
+	name "Heim Special Line 34 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 34 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 34 (19xx)(Heim Special Line)[a].st" size 368640 crc c3a6af5c md5 4505cfb9305d91f5b38d004379a42f35 )
+)
+
+game (
+	name "Heim Special Line 35 (19xx)(Heim Special Line)"
+	description "Heim Special Line 35 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 35 (19xx)(Heim Special Line).st" size 737280 crc fd5b048d md5 f85a256b5e40dfe11297f9c18868ac7c )
+)
+
+game (
+	name "Heim Special Line 35 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 35 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 35 (19xx)(Heim Special Line)[a].st" size 737280 crc cee4f592 md5 bdd4d05309744f06133c7694906e4562 )
+)
+
+game (
+	name "Heim Special Line 36 (19xx)(Heim Special Line)"
+	description "Heim Special Line 36 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 36 (19xx)(Heim Special Line).st" size 368640 crc 07612d03 md5 4e234d2900db987bb311c0cbdcdec3b5 )
+)
+
+game (
+	name "Heim Special Line 37 (19xx)(Heim Special Line)"
+	description "Heim Special Line 37 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 37 (19xx)(Heim Special Line).st" size 737280 crc 82653a6b md5 e0b752f9e36375e134ac24f3d1e6b2b8 )
+)
+
+game (
+	name "Heim Special Line 38 (19xx)(Heim Special Line)"
+	description "Heim Special Line 38 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 38 (19xx)(Heim Special Line).st" size 737280 crc 95c041e8 md5 236cb08f6fe42f39fc4c2b54ace2b04d )
+)
+
+game (
+	name "Heim Special Line 38 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 38 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 38 (19xx)(Heim Special Line)[a].st" size 737280 crc 0980c70f md5 bf63153d7901f517257042c606e96e3a )
+)
+
+game (
+	name "Heim Special Line 39 (19xx)(Heim Special Line)"
+	description "Heim Special Line 39 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 39 (19xx)(Heim Special Line).st" size 368640 crc 82e970fa md5 97c21858bac446513a147379ea032fad )
+)
+
+game (
+	name "Heim Special Line 39 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 39 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 39 (19xx)(Heim Special Line)[a].st" size 368640 crc 2d7d7593 md5 ca7a48f3375ea41e4bf887ac020101ba )
+)
+
+game (
+	name "Heim Special Line 40 (19xx)(Heim Special Line)"
+	description "Heim Special Line 40 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 40 (19xx)(Heim Special Line).st" size 368640 crc 52074295 md5 ec3a86b0b5e711eb5f042b01dab9b9a1 )
+)
+
+game (
+	name "Heim Special Line 40 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 40 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 40 (19xx)(Heim Special Line)[a].st" size 368640 crc 135a95e8 md5 a6007a0bc121acb25a46ff86ff20c64c )
+)
+
+game (
+	name "Heim Special Line 41 (19xx)(Heim Special Line)"
+	description "Heim Special Line 41 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 41 (19xx)(Heim Special Line).st" size 368640 crc 4ec26559 md5 e31a40611239997bf3b59c2752870d75 )
+)
+
+game (
+	name "Heim Special Line 41 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 41 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 41 (19xx)(Heim Special Line)[a].st" size 368640 crc 57791b8f md5 9f21f5f856d53a8c50ed091711522ff8 )
+)
+
+game (
+	name "Heim Special Line 42 (19xx)(Heim Special Line)"
+	description "Heim Special Line 42 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 42 (19xx)(Heim Special Line).st" size 368640 crc a6e5631f md5 d8ebe770c94f0d68e207ca7c93a83443 )
+)
+
+game (
+	name "Heim Special Line 42 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 42 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 42 (19xx)(Heim Special Line)[a].st" size 450560 crc 4568baee md5 4095f6f201eb6e0278d183f63b5823cf )
+)
+
+game (
+	name "Heim Special Line 43 (19xx)(Heim Special Line)"
+	description "Heim Special Line 43 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 43 (19xx)(Heim Special Line).st" size 737280 crc 49253ec4 md5 f119fb8c6fa936081cf0f5d766eb40b0 )
+)
+
+game (
+	name "Heim Special Line 44 (19xx)(Heim Special Line)"
+	description "Heim Special Line 44 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 44 (19xx)(Heim Special Line).st" size 368640 crc 0930d668 md5 6a3291068381097358be3a7134da236e )
+)
+
+game (
+	name "Heim Special Line 44 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 44 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 44 (19xx)(Heim Special Line)[a].st" size 368640 crc 3698926e md5 303f14c01039fa960e326d43c2ebc633 )
+)
+
+game (
+	name "Heim Special Line 45 (19xx)(Heim Special Line)"
+	description "Heim Special Line 45 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 45 (19xx)(Heim Special Line).st" size 368640 crc 98262c65 md5 c2c534de38f31fa96ffc20f34815f7ff )
+)
+
+game (
+	name "Heim Special Line 45 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 45 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 45 (19xx)(Heim Special Line)[a].st" size 368640 crc 37475b4c md5 36387099df1a46c92f3177a56539f6fe )
+)
+
+game (
+	name "Heim Special Line 46 (19xx)(Heim Special Line)"
+	description "Heim Special Line 46 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 46 (19xx)(Heim Special Line).st" size 737280 crc cac5af45 md5 f51206be3975dfe03a3aed3087272746 )
+)
+
+game (
+	name "Heim Special Line 46 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 46 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 46 (19xx)(Heim Special Line)[a].st" size 414720 crc 55ec9d73 md5 7beea866aa2b33a5138aa92c99cb8d8d )
+)
+
+game (
+	name "Heim Special Line 47 (19xx)(Heim Special Line)"
+	description "Heim Special Line 47 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 47 (19xx)(Heim Special Line).st" size 368640 crc 62e275d7 md5 5de223a623a41758404f11d2cb9c851d )
+)
+
+game (
+	name "Heim Special Line 47 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 47 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 47 (19xx)(Heim Special Line)[a].st" size 368640 crc 91759781 md5 f88b7e55d4fd044ce1464e31b71671f8 )
+)
+
+game (
+	name "Heim Special Line 48 (19xx)(Heim Special Line)"
+	description "Heim Special Line 48 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 48 (19xx)(Heim Special Line).st" size 737280 crc cb7e41d6 md5 f4822d39518627442cdaca2369e25b9b )
+)
+
+game (
+	name "Heim Special Line 49 (19xx)(Heim Special Line)"
+	description "Heim Special Line 49 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 49 (19xx)(Heim Special Line).st" size 737280 crc 7542652a md5 556edf16d5d333672a9004301bcb1aaf )
+)
+
+game (
+	name "Heim Special Line 49 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 49 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 49 (19xx)(Heim Special Line)[a].st" size 737280 crc 1fffdfe2 md5 6070e5f38d2b48e108a71d4a984d6ca2 )
+)
+
+game (
+	name "Heim Special Line 50 (19xx)(Heim Special Line)"
+	description "Heim Special Line 50 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 50 (19xx)(Heim Special Line).st" size 737280 crc 524c5159 md5 8f718d511565200ce9d27dea120ef702 )
+)
+
+game (
+	name "Heim Special Line 50 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 50 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 50 (19xx)(Heim Special Line)[a].st" size 737280 crc c3340283 md5 81ae00323a2a88b9de5987524888e9d6 )
+)
+
+game (
+	name "Heim Special Line 51 (19xx)(Heim Special Line)"
+	description "Heim Special Line 51 (19xx)(Heim Special Line)"
+	rom ( name "Heim Special Line 51 (19xx)(Heim Special Line).st" size 737280 crc 7c1923ef md5 1f94da6e37af51a882610060d5e915d5 )
+)
+
+game (
+	name "Heim Special Line 51 (19xx)(Heim Special Line)[a]"
+	description "Heim Special Line 51 (19xx)(Heim Special Line)[a]"
+	rom ( name "Heim Special Line 51 (19xx)(Heim Special Line)[a].st" size 737280 crc dd3484c2 md5 bfe79989a8a64c8cb0fb1543d85e09f0 )
+)

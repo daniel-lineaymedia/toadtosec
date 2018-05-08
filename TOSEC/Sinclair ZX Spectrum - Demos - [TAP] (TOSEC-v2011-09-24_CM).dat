@@ -1,0 +1,2078 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Demos - [TAP]"
+	description "Sinclair ZX Spectrum - Demos - [TAP] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Demos - [TAP]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Zxyo - Dziuber - Cassiel"
+)
+
+game (
+	name "128 Demo (1987)(Castor Cracking Group)[128K]"
+	description "128 Demo (1987)(Castor Cracking Group)[128K]"
+	rom ( name "128 Demo (1987)(Castor Cracking Group)[128K].tap" size 38395 crc 69821bd5 md5 61506bef3b5ba21f0b077577d6df24f8 sha1 b8cc13be29706382c8c967e09d5d379eed50cd92 )
+)
+
+game (
+	name "128 Music (1987)(Castor Cracking Group)[128K]"
+	description "128 Music (1987)(Castor Cracking Group)[128K]"
+	rom ( name "128 Music (1987)(Castor Cracking Group)[128K].tap" size 12153 crc 48b9575d md5 568fa8663d4f4cee7849db42469cc66d sha1 1dfd0b7d44260bc5356619eb9b4dadf8290b6dbe )
+)
+
+game (
+	name "128 Music II (1987)(Castor Cracking Group)[128K]"
+	description "128 Music II (1987)(Castor Cracking Group)[128K]"
+	rom ( name "128 Music II (1987)(Castor Cracking Group)[128K].tap" size 12200 crc aa673d0b md5 b297d080788bd054fb12d9f9acc81729 sha1 3bf1a464b8dcf9ea642f2ed34df97b62a3f847f9 )
+)
+
+game (
+	name "128 Shop Manager Demo (19xx)(Sinclair Research)[128K]"
+	description "128 Shop Manager Demo (19xx)(Sinclair Research)[128K]"
+	rom ( name "128 Shop Manager Demo (19xx)(Sinclair Research)[128K].tap" size 86995 crc 804d2171 md5 159c96f697cadf88f302bcf58bc55872 sha1 06c461b3d010c1baf1f191fc0979feb895385c17 )
+)
+
+game (
+	name "1998 Demo 2 (1998)(Hooy-Program)[128K]"
+	description "1998 Demo 2 (1998)(Hooy-Program)[128K]"
+	rom ( name "1998 Demo 2 (1998)(Hooy-Program)[128K].tap" size 56919 crc a4c8e69b md5 515f85d1b16ad2f3d39041aa449dcce1 sha1 9456d3d0251e82a9afa5c299b411ab8d0f65269b )
+)
+
+game (
+	name "3D Show (19xx)(Vektor Grafix)[128K]"
+	description "3D Show (19xx)(Vektor Grafix)[128K]"
+	rom ( name "3D Show (19xx)(Vektor Grafix)[128K].tap" size 24253 crc 9fedefea md5 d19b4e0b21da92e0c0304ef40d7dab96 sha1 fd889a46726d9569e8990f359bea3f178156b4c0 )
+)
+
+game (
+	name "63 Bit 3 - Lethal Dream (1999)(Accept)[128K]"
+	description "63 Bit 3 - Lethal Dream (1999)(Accept)[128K]"
+	rom ( name "63 Bit 3 - Lethal Dream (1999)(Accept)[128K].tap" size 76083 crc 18c1b8aa md5 a789812e260524d7dfeb515c5496a4f0 sha1 54eb2ea1cbe4904a7e6313cbc9bb7b120302dc50 )
+)
+
+game (
+	name "7th Reality (1996)(Digital Reality)[128K]"
+	description "7th Reality (1996)(Digital Reality)[128K]"
+	rom ( name "7th Reality (1996)(Digital Reality)[128K].tap" size 158148 crc b00ff605 md5 6e589a2b19f19f74caddbd587289e94e sha1 a611f82b024eec9f3cd42642f1734c23fcd8ef5b )
+)
+
+game (
+	name "Acid Andy (1994)(The United Minds)[128K]"
+	description "Acid Andy (1994)(The United Minds)[128K]"
+	rom ( name "Acid Andy (1994)(The United Minds)[128K].tap" size 14520 crc 5b347b6f md5 f908447ecfda58edd1644d0b8d335d4d sha1 469de643b5e8c325d7d373848bf0b3d2373ce18d )
+)
+
+game (
+	name "Acid Andy (1994)(The United Minds)[a][128K]"
+	description "Acid Andy (1994)(The United Minds)[a][128K]"
+	rom ( name "Acid Andy (1994)(The United Minds)[a][128K].tap" size 14520 crc b9a448a1 md5 8ea93e7d4534d72959e7f6860bd324af sha1 51ff152703f2d076e4aef6a1b596eafd5d253963 )
+)
+
+game (
+	name "Acoustic Dreams (1997)(The Gasman)[48-128K]"
+	description "Acoustic Dreams (1997)(The Gasman)[48-128K]"
+	rom ( name "Acoustic Dreams (1997)(The Gasman)[48-128K].tap" size 28690 crc e63f88a7 md5 bd2ed61cd221ede27dfa095c4d5d1456 sha1 c57c1bec4db51b7cf0d946f566b292d88e0ae9d9 )
+)
+
+game (
+	name "Action (1996)(Megacode)[128K]"
+	description "Action (1996)(Megacode)[128K]"
+	rom ( name "Action (1996)(Megacode)[128K].tap" size 31656 crc ce460f41 md5 e32118c20ceb2f329ae01f516421ed00 sha1 9f4f2e82a57de1957389252a1cc9e25ba9e2b2b5 )
+)
+
+game (
+	name "Adriano's First Demo (1993)(Adriano)"
+	description "Adriano's First Demo (1993)(Adriano)"
+	rom ( name "Adriano's First Demo (1993)(Adriano).tap" size 14942 crc 5ab12449 md5 0de520c2e9af86d83fb417ae760f71eb sha1 24db3dd27d2af9210a35b2ae8907c59bbf5903bd )
+)
+
+game (
+	name "Agonia AY Demo (1995)(K3L)[128K]"
+	description "Agonia AY Demo (1995)(K3L)[128K]"
+	rom ( name "Agonia AY Demo (1995)(K3L)[128K].tap" size 29277 crc adaf17e1 md5 ab06009b4f9357adba4aaf0029b5a7f0 sha1 10d694c4de12371a4b303c0ce5ecae8803249570 )
+)
+
+game (
+	name "Agony Megademo Preview (1993)(Lodz City Coders)[128K]"
+	description "Agony Megademo Preview (1993)(Lodz City Coders)[128K]"
+	rom ( name "Agony Megademo Preview (1993)(Lodz City Coders)[128K].tap" size 15152 crc aa3f6c0d md5 786ab59a5b82865a14e27ba1909bec8a sha1 6d085dd5b45413a159f004855bf091c1276532c0 )
+)
+
+game (
+	name "Air on a G String (19xx)(Garry Rowland)[128K]"
+	description "Air on a G String (19xx)(Garry Rowland)[128K]"
+	rom ( name "Air on a G String (19xx)(Garry Rowland)[128K].tap" size 14750 crc e85750c0 md5 594e22aa149bfbff35019718f590e5c8 sha1 452908aa2d8921a8698bf5a7a5e8f356c458edd6 )
+)
+
+game (
+	name "Air Space Demo 128k (1998)(Ivan Roshin)[128K]"
+	description "Air Space Demo 128k (1998)(Ivan Roshin)[128K]"
+	rom ( name "Air Space Demo 128k (1998)(Ivan Roshin)[128K].tap" size 27373 crc fc11e96b md5 4a8522d8fc6697d31b1ccbd12de24a63 sha1 8e2ff273a07fbf0e600f5a244dbdf41f53267029 )
+)
+
+game (
+	name "Alfa Soft - Heart (19xx)(Alfa Soft)"
+	description "Alfa Soft - Heart (19xx)(Alfa Soft)"
+	rom ( name "Alfa Soft - Heart (19xx)(Alfa Soft).tap" size 43850 crc 5ab33bab md5 4b895da4f559fdd2811cd7a96f9ea750 sha1 3a133c25aec231d1fa59a4394d6be29df00aaf63 )
+)
+
+game (
+	name "Alienate (2003)(Hooy-Program)[128K][GS]"
+	description "Alienate (2003)(Hooy-Program)[128K][GS]"
+	rom ( name "Alienate (2003)(Hooy-Program)[128K][GS].tap" size 378641 crc fa903f4b md5 e1dd502a92dab646e79ecda80a224686 sha1 7ba00d02546fe8237cac1dafb4cb0e7815e87e0d )
+)
+
+game (
+	name "Amiga Advert (19xx)(-)(sr)"
+	description "Amiga Advert (19xx)(-)(sr)"
+	rom ( name "Amiga Advert (19xx)(-)(sr).tap" size 8202 crc 88e9b31d md5 354c4e75ad72d8c37090188cb56e6068 sha1 c2159b184c54c1ab28fb77f5a5ea20e3f2c7cb85 )
+)
+
+game (
+	name "Amigball (19xx)(-)"
+	description "Amigball (19xx)(-)"
+	rom ( name "Amigball (19xx)(-).tap" size 18080 crc ecb5552d md5 0c728f6102ed39a173c8b16b699440ba sha1 f71db62c9f6ac4f213cc5284f3fb3527f79f6f4e )
+)
+
+game (
+	name "Animotor (19xx)(Chezron Software)"
+	description "Animotor (19xx)(Chezron Software)"
+	rom ( name "Animotor (19xx)(Chezron Software).tap" size 19378 crc fbbafdea md5 b30ba4a8fcc49dd5055825285bf6f13f sha1 bc694600a0730bbc999b91a7ef7b0e5895228ea2 )
+)
+
+game (
+	name "Antares II AY and Beep Demo (1993)(Profsoft)[128K]"
+	description "Antares II AY and Beep Demo (1993)(Profsoft)[128K]"
+	rom ( name "Antares II AY and Beep Demo (1993)(Profsoft)[128K].tap" size 27844 crc 3f5814dc md5 0454a127ce7ebfd5c536fd7211bb18a1 sha1 2f5bb1cd52b83437eb8f5bcfdd2966a5c02106ee )
+)
+
+game (
+	name "Apanage (1996)(Mr. Incognito)"
+	description "Apanage (1996)(Mr. Incognito)"
+	rom ( name "Apanage (1996)(Mr. Incognito).tap" size 32394 crc 9ab91acb md5 d79ec35d1005e45132d17c36cdc4659f sha1 d4234a98b6e1f8c87d6246def346b07968ab58b4 )
+)
+
+game (
+	name "Art Experience Preview (1995)(KID Software)[128K]"
+	description "Art Experience Preview (1995)(KID Software)[128K]"
+	rom ( name "Art Experience Preview (1995)(KID Software)[128K].tap" size 59667 crc a5b082ed md5 ac4f8d21ff299d132caee68ba2d924bf sha1 30682717ed081de6b85260b5fa2d808a8e8d44e9 )
+)
+
+game (
+	name "ASC Demo (1996)(Tiger's Claw)"
+	description "ASC Demo (1996)(Tiger's Claw)"
+	rom ( name "ASC Demo (1996)(Tiger's Claw).tap" size 22925 crc 90ffbbe6 md5 21e751c2a90abe920e6dbfe67f28436f sha1 162c176350cf3783c8374db61045818ce81bc07f )
+)
+
+game (
+	name "Auf Wiedersehen Monty (19xx)(The Creative Technology Institute)[128K]"
+	description "Auf Wiedersehen Monty (19xx)(The Creative Technology Institute)[128K]"
+	rom ( name "Auf Wiedersehen Monty (19xx)(The Creative Technology Institute)[128K].tap" size 13358 crc faa1bea3 md5 3d7cf6088cc0e4e2e675391cf4dae898 sha1 cf6e2a58ba835c3d9209a5b267788dd1ae9db7b1 )
+)
+
+game (
+	name "Ball Dreams (1996)(Flash)"
+	description "Ball Dreams (1996)(Flash)"
+	rom ( name "Ball Dreams (1996)(Flash).tap" size 22706 crc 8adae1ef md5 71bfc6981022fe95d94fe4955710d5f0 sha1 4315ae67c34d8a1075fefc77aef1454c60a89eb3 )
+)
+
+game (
+	name "Ball Dreams 2 (1996)(Flash)"
+	description "Ball Dreams 2 (1996)(Flash)"
+	rom ( name "Ball Dreams 2 (1996)(Flash).tap" size 67179 crc 989b1bab md5 3f8f54872569a4cc2d13d123c0988232 sha1 9c032ba34f8483271726694e6c53cd8c1b1900d6 )
+)
+
+game (
+	name "Balls Demo Part 1 (1992)(Miker)"
+	description "Balls Demo Part 1 (1992)(Miker)"
+	rom ( name "Balls Demo Part 1 (1992)(Miker).tap" size 36832 crc f5e5e678 md5 e6e563e28132b3a9606eb11af02237c0 sha1 841a35bd49a8c5c89342ec79ea33db4d55b5149d )
+)
+
+game (
+	name "Beaming Anim (19xx)(LCD)"
+	description "Beaming Anim (19xx)(LCD)"
+	rom ( name "Beaming Anim (19xx)(LCD).tap" size 15224 crc 03a5b43c md5 9e6d37200be18afd02410091f9a7b8d9 sha1 237c546e5616d5939d42d1c3f555125412aa2f08 )
+)
+
+game (
+	name "Beatles Remix, The (1989)(Sgt. Pepper)"
+	description "Beatles Remix, The (1989)(Sgt. Pepper)"
+	rom ( name "Beatles Remix, The (1989)(Sgt. Pepper).tap" size 49652 crc 8352cd08 md5 dd3c42bed0ed133939c018f8d8cab368 sha1 c8640f225b2fe44868e9229c1d6f5af8f8ca0e05 )
+)
+
+game (
+	name "Beethoven's Arrangement (19xx)(Maiolino)"
+	description "Beethoven's Arrangement (19xx)(Maiolino)"
+	rom ( name "Beethoven's Arrangement (19xx)(Maiolino).tap" size 23496 crc 0e2007c3 md5 85a5b812272b3b9ca3258cdf3af7644a sha1 bc385400fffe5f864a4addb6f3ed31bcf927c626 )
+)
+
+game (
+	name "Beethoven's Arrangement (19xx)(Maiolino)[a]"
+	description "Beethoven's Arrangement (19xx)(Maiolino)[a]"
+	rom ( name "Beethoven's Arrangement (19xx)(Maiolino)[a].tap" size 28773 crc 0d296dd5 md5 60539773a81206ad1da20e14306f10f8 sha1 ffe0be93158d2730ec2b9e24835ae3a8f154e5ed )
+)
+
+game (
+	name "Best Hits of M&Z Musics, The (1987)(M&Z)[128K]"
+	description "Best Hits of M&Z Musics, The (1987)(M&Z)[128K]"
+	rom ( name "Best Hits of M&Z Musics, The (1987)(M&Z)[128K].tap" size 17982 crc 8547da39 md5 ed68a6329c3e502d19debb27f1edcb22 sha1 046b169eb519846f21be523e55323fc8a6a523ae )
+)
+
+game (
+	name "Bicie Demo (19xx)(Skusoft)[128K]"
+	description "Bicie Demo (19xx)(Skusoft)[128K]"
+	rom ( name "Bicie Demo (19xx)(Skusoft)[128K].tap" size 11405 crc 455a43e7 md5 c9d5d11edf783a75ee5be4a97851d0eb sha1 7e3cdf698a0f686c073fdcc7d6001cabd9457731 )
+)
+
+game (
+	name "Big Bang (19xx)(The Lords)[128K]"
+	description "Big Bang (19xx)(The Lords)[128K]"
+	rom ( name "Big Bang (19xx)(The Lords)[128K].tap" size 11801 crc 66b3589a md5 b9bc4248ee06f9bd1ed8d5faf6dda5b9 sha1 8f3cdf5ca9c7534156eebb557bcf156ed0bb8b1d )
+)
+
+game (
+	name "Big Shit (1987)(Hacker Chris)"
+	description "Big Shit (1987)(Hacker Chris)"
+	rom ( name "Big Shit (1987)(Hacker Chris).tap" size 22677 crc d1e9e95e md5 14c21fbca6859578af8aa7fc1413c460 sha1 f1825f837cd23b9d87b2de95a72172d13937f991 )
+)
+
+game (
+	name "Bim-Bam (19xx)(Tanod)[128K]"
+	description "Bim-Bam (19xx)(Tanod)[128K]"
+	rom ( name "Bim-Bam (19xx)(Tanod)[128K].tap" size 17242 crc 1dca01e8 md5 36d014b9058cb9370a3aefc1e19ddb19 sha1 f79de57c1a71adbd96a5ede952cb6db30f5b619b )
+)
+
+game (
+	name "Binary Love (1997)(Digital Reality)[128K]"
+	description "Binary Love (1997)(Digital Reality)[128K]"
+	rom ( name "Binary Love (1997)(Digital Reality)[128K].tap" size 211270 crc 110d5e3c md5 62967257f0199dbc3ef5053a8444ec39 sha1 e8d5ed9ec766a82818dc5438032ad1b613fbf7af )
+)
+
+game (
+	name "Bizarre Construction (1997)(Extreme)[128K]"
+	description "Bizarre Construction (1997)(Extreme)[128K]"
+	rom ( name "Bizarre Construction (1997)(Extreme)[128K].tap" size 56945 crc 8e0188fd md5 350ec97cba0b2d3405fcfd44e5797cd9 sha1 30127b83d88dd2ea9051bedd7d9073a9b3e9e220 )
+)
+
+game (
+	name "Bob's Music Collection (1994)(Technium 220)"
+	description "Bob's Music Collection (1994)(Technium 220)"
+	rom ( name "Bob's Music Collection (1994)(Technium 220).tap" size 65388 crc 628d99de md5 f5443f1911e106541c50d10bf5bea6b3 sha1 5d3fa59e24e631c3bf03d48062db16a25e5ebd67 )
+)
+
+game (
+	name "Boom Box (1987)(Digital Design)"
+	description "Boom Box (1987)(Digital Design)"
+	rom ( name "Boom Box (1987)(Digital Design).tap" size 17704 crc 7df5a44a md5 8e5c3f2b7d935a4096dce5bae90d22ea sha1 7f0d829765c2596b5525502cd731002183171e64 )
+)
+
+game (
+	name "Brag (1994)(Dream Makers Software)[128K]"
+	description "Brag (1994)(Dream Makers Software)[128K]"
+	rom ( name "Brag (1994)(Dream Makers Software)[128K].tap" size 48055 crc f651e5ec md5 50b134712e401a898fe5cb2d4d7a99c6 sha1 c4807c397dca2fe53a2d9c0705d0d24aadf3ef4e )
+)
+
+game (
+	name "Brain Crash Demo (1996)(Progress Software Makers Team)[128K]"
+	description "Brain Crash Demo (1996)(Progress Software Makers Team)[128K]"
+	rom ( name "Brain Crash Demo (1996)(Progress Software Makers Team)[128K].tap" size 45067 crc 826e3006 md5 628e2aa1050c20aaa567e56b185e11c3 sha1 371674c496a659453f1e683ed4aec8f6e31815ff )
+)
+
+game (
+	name "Brain Surgery (1997)(Dream Makers Software)[128K]"
+	description "Brain Surgery (1997)(Dream Makers Software)[128K]"
+	rom ( name "Brain Surgery (1997)(Dream Makers Software)[128K].tap" size 34278 crc c0961079 md5 dba3b51f95605a476911a0a79e5eb5f0 sha1 afaa20d1fdfa69a2a37bf9e2f5021c1b6d2e6666 )
+)
+
+game (
+	name "Branch of Mind Demo (1993)(Pentagram)[128K]"
+	description "Branch of Mind Demo (1993)(Pentagram)[128K]"
+	rom ( name "Branch of Mind Demo (1993)(Pentagram)[128K].tap" size 135989 crc 4fb42d78 md5 c710580e36faf85a4fe739366555ca4f sha1 e09b521d2fe1de7ae93d7106557eeeed474d6e59 )
+)
+
+game (
+	name "Bright Demo (19xx)(Big Man - Cat-Man)[128K]"
+	description "Bright Demo (19xx)(Big Man - Cat-Man)[128K]"
+	rom ( name "Bright Demo (19xx)(Big Man - Cat-Man)[128K].tap" size 25227 crc c85b553a md5 465ee088f98db4067d49f302cf2e9853 sha1 d0db5aad2294c7501180c957c56fdb562903ca89 )
+)
+
+game (
+	name "British Battle Tracker (1996)(Technium 220)[128K]"
+	description "British Battle Tracker (1996)(Technium 220)[128K]"
+	rom ( name "British Battle Tracker (1996)(Technium 220)[128K].tap" size 114094 crc aa53d8c7 md5 bf5e376749140e2ca7c6414220cba01b sha1 3699b4e20c5d3a7f844c53f386ec355284e0ada9 )
+)
+
+game (
+	name "Bunch of Arse (19xx)(Raww Arse)"
+	description "Bunch of Arse (19xx)(Raww Arse)"
+	rom ( name "Bunch of Arse (19xx)(Raww Arse).tap" size 18901 crc 4cbd2a65 md5 98b244b34adb79c4e5c838d24404c9b6 sha1 25b028999fbed917a9682c7e93476e718454085e )
+)
+
+game (
+	name "Bunch of Arse (19xx)(Raww Arse)[a]"
+	description "Bunch of Arse (19xx)(Raww Arse)[a]"
+	rom ( name "Bunch of Arse (19xx)(Raww Arse)[a].tap" size 23553 crc e4c7f481 md5 1a0ed91cb3e75ade1d14ae6a4866b0f8 sha1 27a5e98224abd2ddf0f448c0c43cebc52196cd79 )
+)
+
+game (
+	name "Bura - Hocus Pokus (19xx)(Flash)"
+	description "Bura - Hocus Pokus (19xx)(Flash)"
+	rom ( name "Bura - Hocus Pokus (19xx)(Flash).tap" size 23432 crc 120c9b6e md5 eb066804895e2e11bcc078063794f810 sha1 4f9c8c80c443ba8d5a23ff765054b8e3b773397d )
+)
+
+game (
+	name "Burdensome Dream (1997)(K3L)"
+	description "Burdensome Dream (1997)(K3L)"
+	rom ( name "Burdensome Dream (1997)(K3L).tap" size 57433 crc e6914033 md5 3b3aef816606cd33486cf8c0a457b30f sha1 66a58445e73ce975e3c78d82b085f27364332f4f )
+)
+
+game (
+	name "Bye Bye (1996)(Mr. Incognito)[128K]"
+	description "Bye Bye (1996)(Mr. Incognito)[128K]"
+	rom ( name "Bye Bye (1996)(Mr. Incognito)[128K].tap" size 33793 crc 8dbcdc57 md5 9de3ca2e08e92300023f53e13cc597f0 sha1 8bd2189cf46c8b61590b43d28ab9be257e48875a )
+)
+
+game (
+	name "C64 Dia Show (19xx)(-)"
+	description "C64 Dia Show (19xx)(-)"
+	rom ( name "C64 Dia Show (19xx)(-).tap" size 44348 crc 79f4cf22 md5 a9eadb3365c6817ac1383495b1fe242c sha1 2afaa0ea5dc7afe0abd458add34d155a68c0c9f7 )
+)
+
+game (
+	name "Candy Girl (19xx)(-)"
+	description "Candy Girl (19xx)(-)"
+	rom ( name "Candy Girl (19xx)(-).tap" size 37483 crc 8f0c3890 md5 1d31b6436b4fcfbd2f8aac059928748a sha1 b9239ff55494dd5ddd8e10ca0a2cfad13d2925d1 )
+)
+
+game (
+	name "Cannonball (19xx)(Hooy-Program)[128K]"
+	description "Cannonball (19xx)(Hooy-Program)[128K]"
+	rom ( name "Cannonball (19xx)(Hooy-Program)[128K].tap" size 57681 crc 506a563f md5 1c7aa96587774ade24dbddf51ab93111 sha1 72e7501abb0fe2d84434579356974eb8c6b0f3b0 )
+)
+
+game (
+	name "Castor Intro II - Trap Door (1987)(Castor Cracking Group)"
+	description "Castor Intro II - Trap Door (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro II - Trap Door (1987)(Castor Cracking Group).tap" size 31977 crc 1c609660 md5 872820e434dd142e091d93534a24dee1 sha1 90f3e313404cad956678c12992182a27bfb04bfb )
+)
+
+game (
+	name "Castor Intro III - Ocean (1987)(Castor Cracking Group)"
+	description "Castor Intro III - Ocean (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro III - Ocean (1987)(Castor Cracking Group).tap" size 16845 crc 0edd2813 md5 66e0cbe28223d8c2f9e2f15e32b1846e sha1 f0210c3473c9535dd8bdd363a3605f1a2e7b23c7 )
+)
+
+game (
+	name "Castor Intro IV - Balls (1987)(Castor Cracking Group)"
+	description "Castor Intro IV - Balls (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro IV - Balls (1987)(Castor Cracking Group).tap" size 24754 crc 9c91e694 md5 70a9324105be885adcd72f9a5003bc7b sha1 b766bfd83e2261897a52316f84afac5ff0f04531 )
+)
+
+game (
+	name "Castor Intro IX - Move That Army (1987)(Castor Cracking Group)"
+	description "Castor Intro IX - Move That Army (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro IX - Move That Army (1987)(Castor Cracking Group).tap" size 26864 crc caebf617 md5 bf9d1d54dbd3f058a3cb0c9f8755354d sha1 6a26e7ec24d9f3272df14ab50f48e7a6d8e8933a )
+)
+
+game (
+	name "Castor Intro V - Boing Boomchack (1987)(Castor Cracking Group)"
+	description "Castor Intro V - Boing Boomchack (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro V - Boing Boomchack (1987)(Castor Cracking Group).tap" size 36959 crc 21d15351 md5 0bc36f10d42beb40dd4dbfedc0f0fbfe sha1 1674c5ee5cdc6af14e911cae62111f9c5e396b71 )
+)
+
+game (
+	name "Castor Intro VI - Monster Banquet (1987)(Castor Cracking Group)"
+	description "Castor Intro VI - Monster Banquet (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro VI - Monster Banquet (1987)(Castor Cracking Group).tap" size 20716 crc cd9ee640 md5 88137680654a308570feb5400f793c8a sha1 96e6c5e70c4ce4abfa780c73d3d2cb35dce2b65a )
+)
+
+game (
+	name "Castor Intro VIII - Dan There (1987)(Castor Cracking Group)"
+	description "Castor Intro VIII - Dan There (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro VIII - Dan There (1987)(Castor Cracking Group).tap" size 9920 crc a0497925 md5 4bb67d67068ee6956b198fb17e65e943 sha1 f9199dd5d2771cb72ab56c02648044031b8f732d )
+)
+
+game (
+	name "Castor Intro X - Auf Wiedersehen Castor (1987)(Castor Cracking Group)"
+	description "Castor Intro X - Auf Wiedersehen Castor (1987)(Castor Cracking Group)"
+	rom ( name "Castor Intro X - Auf Wiedersehen Castor (1987)(Castor Cracking Group).tap" size 22941 crc 6440c5fb md5 4cc0e4b8ff88d1ebe0ac8a916b71715a sha1 32ccf200bf05adf7393eda7273287b8c67f9ceb0 )
+)
+
+game (
+	name "CD-Player (1988)(Players Software)"
+	description "CD-Player (1988)(Players Software)"
+	rom ( name "CD-Player (1988)(Players Software).tap" size 40037 crc a44d6174 md5 77fabc81e2891dfee0efe903beb51ed6 sha1 18f91923d280dd9fa137658e3e8ccfe6d854b676 )
+)
+
+game (
+	name "Cerebral (1995)(The United Minds)"
+	description "Cerebral (1995)(The United Minds)"
+	rom ( name "Cerebral (1995)(The United Minds).tap" size 88352 crc 22243e00 md5 f719a8b7565e02e532d7d458b820c8f1 sha1 0fd075d63bcfb7667cf124c5b7586fd95b2d15b6 )
+)
+
+game (
+	name "Chaos (19xx)(Illusion Group)[128K]"
+	description "Chaos (19xx)(Illusion Group)[128K]"
+	rom ( name "Chaos (19xx)(Illusion Group)[128K].tap" size 10965 crc c1469231 md5 90d540fcf0f2811ec317dfccf0f811f1 sha1 1132f4d59a625b63fa9546ab299ea86db1848c40 )
+)
+
+game (
+	name "Chocolate Demo (1995)(The United Minds)"
+	description "Chocolate Demo (1995)(The United Minds)"
+	rom ( name "Chocolate Demo (1995)(The United Minds).tap" size 39518 crc 8a82e75f md5 5c187c5aee76aa0bb02c3796a016568a sha1 affd7242681025ecbaa77164178f42962e67205c )
+)
+
+game (
+	name "Christmas - New Year Demo (1998)(Hooy-Program)[128K]"
+	description "Christmas - New Year Demo (1998)(Hooy-Program)[128K]"
+	rom ( name "Christmas - New Year Demo (1998)(Hooy-Program)[128K].tap" size 19244 crc 362ba7b5 md5 83675c1399c43cc0a50f5df9c4decbdf sha1 f722d7ae40ab81b2a4fbd17cf26b97d827d7e44f )
+)
+
+game (
+	name "Christmas Tunes - Volume 1 (19xx)(Matthew Howel)"
+	description "Christmas Tunes - Volume 1 (19xx)(Matthew Howel)"
+	rom ( name "Christmas Tunes - Volume 1 (19xx)(Matthew Howel).tap" size 11021 crc 7194a929 md5 5c154d5278cc6a599c99d90a94effa3d sha1 5c6fcccbd67e6f4bbaf9c730e69c03a33f95af0d )
+)
+
+game (
+	name "CIR-Demo 2 (1991)(CIR)"
+	description "CIR-Demo 2 (1991)(CIR)"
+	rom ( name "CIR-Demo 2 (1991)(CIR).tap" size 9953 crc ea80a99c md5 8dad42e82c0bc7fa9aa54a0ab77ca6ab sha1 31476a481eb720b339239162a7eaf9041b0098fd )
+)
+
+game (
+	name "Circlelusions (1998)(Speccy Boyz)[128K]"
+	description "Circlelusions (1998)(Speccy Boyz)[128K]"
+	rom ( name "Circlelusions (1998)(Speccy Boyz)[128K].tap" size 14860 crc cb0fac4b md5 da7debcc764cbdfd587d2c2a3d6744c6 sha1 2d90ecf6ade64944015bf06c956e2bb1c0468e74 )
+)
+
+game (
+	name "Circles (1984)(Sinclair User)[16K]"
+	description "Circles (1984)(Sinclair User)[16K]"
+	rom ( name "Circles (1984)(Sinclair User)[16K].tap" size 1104 crc 72a7fca8 md5 e166708010d737a036bbac35d8706c4b sha1 984683184ccb577113406de4e7350a6ba50e0496 )
+)
+
+game (
+	name "Circles, The (1991)(Jacek Michalak)"
+	description "Circles, The (1991)(Jacek Michalak)"
+	rom ( name "Circles, The (1991)(Jacek Michalak).tap" size 9346 crc 2b52162a md5 589a0c7a72dc8dd4cd0efd018c0c5047 sha1 49ba97169d856a8cb7fd471083455646972b5a45 )
+)
+
+game (
+	name "Cliff (1995)(Cliff Tate)"
+	description "Cliff (1995)(Cliff Tate)"
+	rom ( name "Cliff (1995)(Cliff Tate).tap" size 25256 crc 9f256daf md5 7b309d86cd15a584a87902b9d4159185 sha1 2eef162c1f449107d071bfae4328b8f3e293b21c )
+)
+
+game (
+	name "Clot 4k (1998)(Image Crew)"
+	description "Clot 4k (1998)(Image Crew)"
+	rom ( name "Clot 4k (1998)(Image Crew).tap" size 4310 crc 32fbb906 md5 3b214248e7528d150876a56bc3707f42 sha1 9ad3cff7efc5f69dbab4979b31dd98cf1f64d0fd )
+)
+
+game (
+	name "Cockshow Demo (19xx)(Theo Devil)"
+	description "Cockshow Demo (19xx)(Theo Devil)"
+	rom ( name "Cockshow Demo (19xx)(Theo Devil).tap" size 36480 crc 1516ab96 md5 9e688cdc6c3ab6882236780e94b8c366 sha1 1a21d2a518b9a24d801826b3ef5970b969ca1c56 )
+)
+
+game (
+	name "Cool Cliff (1995)(Cliff Tate)"
+	description "Cool Cliff (1995)(Cliff Tate)"
+	rom ( name "Cool Cliff (1995)(Cliff Tate).tap" size 20380 crc 3a4ff66f md5 a8134db01ca454e89af50059368e8a06 sha1 2bd8401bce964f321074544ec52ea6889e677190 )
+)
+
+game (
+	name "Crapest Demo This Side of Beatleguise (19xx)(Phantom)"
+	description "Crapest Demo This Side of Beatleguise (19xx)(Phantom)"
+	rom ( name "Crapest Demo This Side of Beatleguise (19xx)(Phantom).tap" size 8111 crc 86009055 md5 f8916b55ab3f8fa1b8b8c813086ba0c2 sha1 85207a0de12a782ba49767ec32171263485285f8 )
+)
+
+game (
+	name "Crazy Love Demo (1998)(Power Group)[128K]"
+	description "Crazy Love Demo (1998)(Power Group)[128K]"
+	rom ( name "Crazy Love Demo (1998)(Power Group)[128K].tap" size 79582 crc b729042c md5 91c25281e53546c2ed9aa72bd3eb262a sha1 c4e2494e6e1fa8a4f197ef39addb3987a455bff5 )
+)
+
+game (
+	name "Crazy Sound Analyser (1991)(MrSoft)"
+	description "Crazy Sound Analyser (1991)(MrSoft)"
+	rom ( name "Crazy Sound Analyser (1991)(MrSoft).tap" size 19228 crc f79f6337 md5 f6bbb79ec21c5ea700c7aee25c300e03 sha1 3d25fad46713358c0d83fe68bc008210a9b142bf )
+)
+
+game (
+	name "Crocket's Theme (19xx)(Technium 220)"
+	description "Crocket's Theme (19xx)(Technium 220)"
+	rom ( name "Crocket's Theme (19xx)(Technium 220).tap" size 15812 crc 3b0b50c1 md5 24ae393f284909d819aa0787e7651dfc sha1 a04021557c88c9e411e50e12b4b70f20f18bfc1e )
+)
+
+game (
+	name "Crockett's Theme (1999)(Coolguys)"
+	description "Crockett's Theme (1999)(Coolguys)"
+	rom ( name "Crockett's Theme (1999)(Coolguys).tap" size 35605 crc 1c0d709b md5 9634df9cea905a635087e0ba25133425 sha1 7bed06004c12e3b9ed44db086f8fbfa6cbe26c17 )
+)
+
+game (
+	name "Crystal Kilodemo, The (1993)(Zack)[128K]"
+	description "Crystal Kilodemo, The (1993)(Zack)[128K]"
+	rom ( name "Crystal Kilodemo, The (1993)(Zack)[128K].tap" size 58911 crc 6c6d9d78 md5 5a1921c075c640a620f34d0e3499b591 sha1 9bb5f632fe5cb80b195322692f00d6f3e68ce53f )
+)
+
+game (
+	name "Cube, The (1997)(TGM Crew)"
+	description "Cube, The (1997)(TGM Crew)"
+	rom ( name "Cube, The (1997)(TGM Crew).tap" size 79330 crc b898b054 md5 4160cf962451a041d500478270b21aeb sha1 6f50ae3893ad55c8a484b091878a1e981af08ee8 )
+)
+
+game (
+	name "Dack Demo, The (1988)(Coolguys)"
+	description "Dack Demo, The (1988)(Coolguys)"
+	rom ( name "Dack Demo, The (1988)(Coolguys).tap" size 24868 crc 1de1b115 md5 9c440175367e80a3925ee6a908fbfac5 sha1 3bb5f9af2bafaf1f15f3b56c383fd03288fa944a )
+)
+
+game (
+	name "Dada Demo (19xx)(Busy Software)"
+	description "Dada Demo (19xx)(Busy Software)"
+	rom ( name "Dada Demo (19xx)(Busy Software).tap" size 14903 crc fa9be055 md5 6f3c7096ebdd05bc7ac6e4765adc8fdc sha1 289ef351f38e78d13db97eaa54225e17fa26fca8 )
+)
+
+game (
+	name "Das Broot (1994)(Coo Coo Soft)"
+	description "Das Broot (1994)(Coo Coo Soft)"
+	rom ( name "Das Broot (1994)(Coo Coo Soft).tap" size 32142 crc 62358686 md5 b28aa2580dbf2a4fd0c68a1e795d4b6c sha1 e9bda2335d7692310b4325b827e78dde35cd5fa4 )
+)
+
+game (
+	name "Debut (1983)(Dubre)"
+	description "Debut (1983)(Dubre)"
+	rom ( name "Debut (1983)(Dubre).tap" size 54469 crc 282f1d6e md5 3573040d7ff841903838ab73bb6ca202 sha1 5f3f2ee140e6386bbc40961fe8d3ac8f5f4c7bac )
+)
+
+game (
+	name "Delirio Mind (1996)(Illusion Group)"
+	description "Delirio Mind (1996)(Illusion Group)"
+	rom ( name "Delirio Mind (1996)(Illusion Group).tap" size 44599 crc 1d4fbb2a md5 fce063bcc418713604be85e673750c6b sha1 cdfd98d9523d7b30008d4ca77fb73b2a561a81d7 )
+)
+
+game (
+	name "Demagogia (1992)(Omega)[128K]"
+	description "Demagogia (1992)(Omega)[128K]"
+	rom ( name "Demagogia (1992)(Omega)[128K].tap" size 14257 crc 361767aa md5 c27e15db6dc4f99e9d44ec62e5787b7e sha1 7896154be387b6b97eb97f134268cf7b776fdc8b )
+)
+
+game (
+	name "Demo C's (1993)(Datasoft)"
+	description "Demo C's (1993)(Datasoft)"
+	rom ( name "Demo C's (1993)(Datasoft).tap" size 44170 crc 9e33fc66 md5 2ec1acd834572b81758674895255dd99 sha1 8a618692f532adf96cef7db878df8f7b38d1bc41 )
+)
+
+game (
+	name "Demo for FPD Team (1995)(The United Minds)[128K]"
+	description "Demo for FPD Team (1995)(The United Minds)[128K]"
+	rom ( name "Demo for FPD Team (1995)(The United Minds)[128K].tap" size 33378 crc 095df05d md5 26d6f7a0817c64b57d81d480a7af005f sha1 8047ec533c983e3e0c0dea76a18ec4b185f1d0cb )
+)
+
+game (
+	name "Demo-lition (1993)(Tiger's Claw)"
+	description "Demo-lition (1993)(Tiger's Claw)"
+	rom ( name "Demo-lition (1993)(Tiger's Claw).tap" size 11706 crc f6d12066 md5 787ab9cf514ee70e76faf53e815973be sha1 11f4496268330f3fb1ccda4b7d242573d2998c4f )
+)
+
+game (
+	name "Demobit 96 - Invitation Intro v1.00 (1996)(7 Gods)"
+	description "Demobit 96 - Invitation Intro v1.00 (1996)(7 Gods)"
+	rom ( name "Demobit 96 - Invitation Intro v1.00 (1996)(7 Gods).tap" size 45081 crc d9bca704 md5 e4e7b1bc145d30b7b40e16299530fbf2 sha1 d9a3c231855b9e7de5b0eed29eec425e7d147d5c )
+)
+
+game (
+	name "Demomaker (1992)(Poxoft)"
+	description "Demomaker (1992)(Poxoft)"
+	rom ( name "Demomaker (1992)(Poxoft).tap" size 9359 crc 573287c1 md5 5a905beb61b445e4810c128682648ae9 sha1 d7235682251a3c79c600ba2f8ec2b307f300ca0c )
+)
+
+game (
+	name "Diagram 128 Part 1 (1990)(Frank Dux)"
+	description "Diagram 128 Part 1 (1990)(Frank Dux)"
+	rom ( name "Diagram 128 Part 1 (1990)(Frank Dux).tap" size 18300 crc 08933834 md5 0535ae6151b8feb42543da1fef41ca5b sha1 6a3fcab1c5ba9fc30bf92ae7526f90e6b8eedad7 )
+)
+
+game (
+	name "Dies Irae (1996)(Exodus)[128K]"
+	description "Dies Irae (1996)(Exodus)[128K]"
+	rom ( name "Dies Irae (1996)(Exodus)[128K].tap" size 91008 crc 774ea621 md5 42d174657ab9d87567170570ce0907ba sha1 a85fbde29f1623450e896d27ac825fe1be7330ff )
+)
+
+game (
+	name "Digi Porno Demo (1985)(Knudde)(nl)"
+	description "Digi Porno Demo (1985)(Knudde)(nl)"
+	rom ( name "Digi Porno Demo (1985)(Knudde)(nl).tap" size 26070 crc ece9e9ea md5 500960e297b4f3730557be2322fb173a sha1 2beb7b8bf4c4f19bc4770d083a4db3a0ba21b53d )
+)
+
+game (
+	name "Digi Synth 3 (1997)(K3L)"
+	description "Digi Synth 3 (1997)(K3L)"
+	rom ( name "Digi Synth 3 (1997)(K3L).tap" size 118399 crc 8d6c9402 md5 9adf2531e5fc14b5ed466edb0a44d31a sha1 d39b52373bcb8811bca7a30900bce54aa3c2f735 )
+)
+
+game (
+	name "Digital Arts Fantasy (1996)(Digital Arts Group)[128K]"
+	description "Digital Arts Fantasy (1996)(Digital Arts Group)[128K]"
+	rom ( name "Digital Arts Fantasy (1996)(Digital Arts Group)[128K].tap" size 28005 crc 39b5ed94 md5 476e0c2e466d8456b027659aa1df7cfc sha1 03b498b92582116b6a9100d3b230affce86e5245 )
+)
+
+game (
+	name "Diva Sex (19xx)(-)"
+	description "Diva Sex (19xx)(-)"
+	rom ( name "Diva Sex (19xx)(-).tap" size 8148 crc 484d18c1 md5 b6b26b2e3e4d5e11e3545b2dd90f1492 sha1 5f651132b459852e96055fd53b7ba881fb4f646c )
+)
+
+game (
+	name "Dizzy 4k Intro (1998)(Serzhsoft)"
+	description "Dizzy 4k Intro (1998)(Serzhsoft)"
+	rom ( name "Dizzy 4k Intro (1998)(Serzhsoft).tap" size 4311 crc 3f57d49d md5 804b7b35b95669092a8515c7fa3082a5 sha1 363fb27f9f70c0ba5f065a71f33dc7fbbc450f18 )
+)
+
+game (
+	name "DJV (1995)(Icabod)[128K]"
+	description "DJV (1995)(Icabod)[128K]"
+	rom ( name "DJV (1995)(Icabod)[128K].tap" size 50005 crc b41f09a9 md5 cc528711b690a10cba4fed4ed873d992 sha1 607b5b50a92fc21b94eff57b3806025264e7dab0 )
+)
+
+game (
+	name "Do-Little (1998)(Adam - Hooy-Program)[128K]"
+	description "Do-Little (1998)(Adam - Hooy-Program)[128K]"
+	rom ( name "Do-Little (1998)(Adam - Hooy-Program)[128K].tap" size 36199 crc e82bed62 md5 5cb24a9b4bf0c63c83d103dc6cbf2acf sha1 68b42dd105ca0bca903c39c4745902449f65dfe0 )
+)
+
+game (
+	name "Don't Pull It Too Much George (19xx)(Sygma Press)[128K]"
+	description "Don't Pull It Too Much George (19xx)(Sygma Press)[128K]"
+	rom ( name "Don't Pull It Too Much George (19xx)(Sygma Press)[128K].tap" size 24910 crc 59701b16 md5 b3670118687c847d66b8ba1579101c1d sha1 74a493f8f0f09d749b266dcfb9f1ecdd55d58f25 )
+)
+
+game (
+	name "Don't Stop the Music (1987)(Castor Cracking Group)"
+	description "Don't Stop the Music (1987)(Castor Cracking Group)"
+	rom ( name "Don't Stop the Music (1987)(Castor Cracking Group).tap" size 7200 crc 2e188344 md5 07e551a75248ddae5f52f41216598d7e sha1 5f5a038a87fbaf09fa76d7c9d03d0861ebcf2c71 )
+)
+
+game (
+	name "Doody Gei Party Demo (1995)(The United Minds)"
+	description "Doody Gei Party Demo (1995)(The United Minds)"
+	rom ( name "Doody Gei Party Demo (1995)(The United Minds).tap" size 125189 crc 83fa15df md5 66a15fae24e47355de61f8fed639322a sha1 178f7c6c4e502a8752829808ade8dd1acf2137a1 )
+)
+
+game (
+	name "Doom 2 (19xx)(JSH Company)"
+	description "Doom 2 (19xx)(JSH Company)"
+	rom ( name "Doom 2 (19xx)(JSH Company).tap" size 1884 crc e94a4b7d md5 09232245813ff17105e15f5aaf67aeca sha1 19b05e770e25ea98ea7f1a15af6596fc855480d3 )
+)
+
+game (
+	name "Doom Demo (1996)(Cobra Soft)[128K]"
+	description "Doom Demo (1996)(Cobra Soft)[128K]"
+	rom ( name "Doom Demo (1996)(Cobra Soft)[128K].tap" size 10475 crc 18d98d41 md5 fe31cc8d8c1bf71e038559c7f161493e sha1 91b0147f962e7d74a3e34cb004abb04893ba0c1a )
+)
+
+game (
+	name "Dow Joined (1992)(Total Eclipse)[128K]"
+	description "Dow Joined (1992)(Total Eclipse)[128K]"
+	rom ( name "Dow Joined (1992)(Total Eclipse)[128K].tap" size 15227 crc ad165411 md5 c6857a04d3ae952a12f306523691549d sha1 d35e8c31a1a2525b9ff319bc445d107382def89c )
+)
+
+game (
+	name "Duckmania (1993)(Depeche Code)"
+	description "Duckmania (1993)(Depeche Code)"
+	rom ( name "Duckmania (1993)(Depeche Code).tap" size 14858 crc 35908de0 md5 0c742c5411bf75e1286fd0c519b45936 sha1 a462334936c2cd06a003705329f72511d76aaee3 )
+)
+
+game (
+	name "E.S.P. - Emitting Sexual Pleasure (1995)(Conventional Extacy Production)"
+	description "E.S.P. - Emitting Sexual Pleasure (1995)(Conventional Extacy Production)"
+	rom ( name "E.S.P. - Emitting Sexual Pleasure (1995)(Conventional Extacy Production).tap" size 22010 crc 02901357 md5 4442bf81d56368ab98ae7f9f23c7c5af sha1 408e4dfcbf929774aafed4ee083e836135b12a25 )
+)
+
+game (
+	name "Earth Demo, The (1992)(CBM Software)(ru)"
+	description "Earth Demo, The (1992)(CBM Software)(ru)"
+	rom ( name "Earth Demo, The (1992)(CBM Software)(ru).tap" size 34367 crc c13cba3a md5 1bc4fcbfe93a37709efe2970d6a74aec sha1 a78d6f01caca6b1daf4719278efb465c06212834 )
+)
+
+game (
+	name "Echologia (1995)(Busy - Noro)"
+	description "Echologia (1995)(Busy - Noro)"
+	rom ( name "Echologia (1995)(Busy - Noro).tap" size 121648 crc 20efb8d2 md5 3970e0c0b11197e4eef9e7fe5e454f5b sha1 5ea15cfea05a026766042e2892ba5fc74e3aa703 )
+)
+
+game (
+	name "Ecstasy Mega Demo (1996)(Dream Makers Software)"
+	description "Ecstasy Mega Demo (1996)(Dream Makers Software)"
+	rom ( name "Ecstasy Mega Demo (1996)(Dream Makers Software).tap" size 344676 crc dfcc9be2 md5 3a64ed557ea2e18c4766fd4a75a5d539 sha1 92704ca06768ccd9a961ffafeb0d07da3b592488 )
+)
+
+game (
+	name "Egal (1993)(The Mad Guys)[128K]"
+	description "Egal (1993)(The Mad Guys)[128K]"
+	rom ( name "Egal (1993)(The Mad Guys)[128K].tap" size 32123 crc 02d63bc3 md5 e4c5433c4ec12bb95cf1919d45479951 sha1 fe9cee7c3d2edd0f97ce70d3b5d972dfe1663431 )
+)
+
+game (
+	name "Electric Reindeer Maniacs (1996)(The Gasman)[48-128K]"
+	description "Electric Reindeer Maniacs (1996)(The Gasman)[48-128K]"
+	rom ( name "Electric Reindeer Maniacs (1996)(The Gasman)[48-128K].tap" size 80869 crc b1ffd584 md5 3d333df8dc8258d1d7e65fc529c48f8f sha1 780cf8a91a84b38aa3699fbd2620a9c0c56830f2 )
+)
+
+game (
+	name "Emergency Demo 128 (1998)(Real Masters)"
+	description "Emergency Demo 128 (1998)(Real Masters)"
+	rom ( name "Emergency Demo 128 (1998)(Real Masters).tap" size 57478 crc 291cfbe7 md5 539a432b61187ee1627064d94d28b404 sha1 5009c79c6ccb2f71d21d9f4b2992331d53974014 )
+)
+
+game (
+	name "Emulate (1997)(Phantasy)[cr X-Agon][128K]"
+	description "Emulate (1997)(Phantasy)[cr X-Agon][128K]"
+	rom ( name "Emulate (1997)(Phantasy)[cr X-Agon][128K].tap" size 42231 crc 27a1944d md5 7e5aad0ff00b998f0eaa19c41a24a0da sha1 45c2995943747addf0330753dffb97f410503a27 )
+)
+
+game (
+	name "Enlight' 96 Graphix (1996)(Hacker Chris)"
+	description "Enlight' 96 Graphix (1996)(Hacker Chris)"
+	rom ( name "Enlight' 96 Graphix (1996)(Hacker Chris).tap" size 119089 crc b00bbb50 md5 9f648631c06a2c9fa255cdc5d777067d sha1 d64b22af631297d58bb4ab451a06cf92cedda0f4 )
+)
+
+game (
+	name "Entropy (1998)(ZX Maniacs)[128K]"
+	description "Entropy (1998)(ZX Maniacs)[128K]"
+	rom ( name "Entropy (1998)(ZX Maniacs)[128K].tap" size 104208 crc 1209f799 md5 d1b491a686069dce03e0eb3bfa0f9fea sha1 877cf8945fd512f88806b1416eab75524b44bfb6 )
+)
+
+game (
+	name "ESI Demo (19xx)(ESI)"
+	description "ESI Demo (19xx)(ESI)"
+	rom ( name "ESI Demo (19xx)(ESI).tap" size 18055 crc afb020ce md5 e765933f211ea89b5f27bf649aa19566 sha1 882ad18d8c9b45a149f801f361bc0ac92f097a50 )
+)
+
+game (
+	name "Evil Demo (1995)(The United Minds)"
+	description "Evil Demo (1995)(The United Minds)"
+	rom ( name "Evil Demo (1995)(The United Minds).tap" size 57863 crc cc516abd md5 068ddf781c058832701812ef9d8294dd sha1 8eb4cbe72f4b56afbadcffa3f83f502a56d0acc1 )
+)
+
+game (
+	name "Ex-Alf (1996)(The Gasman)[48-128K]"
+	description "Ex-Alf (1996)(The Gasman)[48-128K]"
+	rom ( name "Ex-Alf (1996)(The Gasman)[48-128K].tap" size 28125 crc 78cd969a md5 ff0d6ab43e54529c6e29b1bdc07b5d77 sha1 7a0f1cf7714411f779bac9d3e872d490bef870c3 )
+)
+
+game (
+	name "Excess (1997)(Zer0)[128K]"
+	description "Excess (1997)(Zer0)[128K]"
+	rom ( name "Excess (1997)(Zer0)[128K].tap" size 72899 crc 0ad8de81 md5 d6d70e5b0bb64ae8cd616d59c2daea91 sha1 ddab812953a834df4d56f0982514806a23f3f296 )
+)
+
+game (
+	name "Exodus 1995 (1995)(Exodus)"
+	description "Exodus 1995 (1995)(Exodus)"
+	rom ( name "Exodus 1995 (1995)(Exodus).tap" size 28752 crc 53a2d0e3 md5 febe5723505070249ea125f2f0322252 sha1 7cfc1c6a11eb8f4f7dd97f4f22de4e52c81afea7 )
+)
+
+game (
+	name "Eye Ache (1996)(Code Busters)[128K]"
+	description "Eye Ache (1996)(Code Busters)[128K]"
+	rom ( name "Eye Ache (1996)(Code Busters)[128K].tap" size 35941 crc b08e6173 md5 01db40706e28e7ed8622068716ae261b sha1 8d0ba39b629274296220efa314f9bb799daeb637 )
+)
+
+game (
+	name "Eye of the Beholder (1993)(Cassiopeia)"
+	description "Eye of the Beholder (1993)(Cassiopeia)"
+	rom ( name "Eye of the Beholder (1993)(Cassiopeia).tap" size 24629 crc 7e44102e md5 7c96b127028f26ac30dddd7019659f2d sha1 7a5be62b21a985599b7a1d825ab93e87dcb6ae25 )
+)
+
+game (
+	name "F.B.I. (1996)(The Unbelievables)[128K]"
+	description "F.B.I. (1996)(The Unbelievables)[128K]"
+	rom ( name "F.B.I. (1996)(The Unbelievables)[128K].tap" size 11151 crc b0e37849 md5 9b6833b0ccbb85f48abe3de94310d25d sha1 5419b3eef9ef57fb06b0fa79cf19f9fa17501d75 )
+)
+
+game (
+	name "F.D.A.I. - First Demo for AY Interface (1994)(Sauron)[128K]"
+	description "F.D.A.I. - First Demo for AY Interface (1994)(Sauron)[128K]"
+	rom ( name "F.D.A.I. - First Demo for AY Interface (1994)(Sauron)[128K].tap" size 42671 crc a5fc5b1e md5 3353444555ce0e31c3e4df43126d20fe sha1 f0396e66977ea54b8d38153f66ba4b0b8bdaece4 )
+)
+
+game (
+	name "Fantasy (1990)(Rafii Soft)(pl)[128K]"
+	description "Fantasy (1990)(Rafii Soft)(pl)[128K]"
+	rom ( name "Fantasy (1990)(Rafii Soft)(pl)[128K].tap" size 39512 crc c3c20fce md5 a29e6ffb72b0a2ccc90462af953b68cc sha1 9d243d4a841ac848d759c6ddbda0f0fd535f7d23 )
+)
+
+game (
+	name "Fearzone (1998)(Naughty Crew)"
+	description "Fearzone (1998)(Naughty Crew)"
+	rom ( name "Fearzone (1998)(Naughty Crew).tap" size 83796 crc 154203b2 md5 83b6f822ac5d69a5baeafcf8a3ac93b7 sha1 727c3b1757be3fa0b10c50d28b51d7f57fbfce87 )
+)
+
+game (
+	name "Figment (1995)(Flash)"
+	description "Figment (1995)(Flash)"
+	rom ( name "Figment (1995)(Flash).tap" size 61883 crc be40ca9d md5 413d966c36140ac1edc4be019e6ded2b sha1 e1f964d3a96798a3bd9b35d2c28ac666f136789d )
+)
+
+game (
+	name "Fikus Pikus Gift (19xx)(Flash)[128K]"
+	description "Fikus Pikus Gift (19xx)(Flash)[128K]"
+	rom ( name "Fikus Pikus Gift (19xx)(Flash)[128K].tap" size 117159 crc 96c80623 md5 d5a415c437a90b36c43a63eac12d8218 sha1 4cd236e5a7e7c52c06feee1056b5b8452a0bd4da )
+)
+
+game (
+	name "Final Strike 1 (19xx)(The Unbelievables)"
+	description "Final Strike 1 (19xx)(The Unbelievables)"
+	rom ( name "Final Strike 1 (19xx)(The Unbelievables).tap" size 5554 crc 6b74678b md5 95778f8c13bcee431f28ff9723043f99 sha1 9882ad9b006f010ecc42f9b32317ec9875ae76a0 )
+)
+
+game (
+	name "Final Strike 2 (19xx)(The Unbelievables)"
+	description "Final Strike 2 (19xx)(The Unbelievables)"
+	rom ( name "Final Strike 2 (19xx)(The Unbelievables).tap" size 18441 crc ef3ef665 md5 c66ea4768c0da606ebfe499664765a6f sha1 339997d8b9cb6642aa881ae4bf4ac4a8fdb0d2cd )
+)
+
+game (
+	name "Firebird Announcement (1985)(Firebird Software)"
+	description "Firebird Announcement (1985)(Firebird Software)"
+	rom ( name "Firebird Announcement (1985)(Firebird Software).tap" size 39432 crc a798db0c md5 9294aa40d60012ef342ef36767f46752 sha1 643a81b577fd097fb5fa726bda7b0dae8e1ed8a3 )
+)
+
+game (
+	name "Firebird Announcement (1985)(Firebird Software)[a]"
+	description "Firebird Announcement (1985)(Firebird Software)[a]"
+	rom ( name "Firebird Announcement (1985)(Firebird Software)[a].tap" size 39432 crc b579ae53 md5 297559ebdb0aa2b044d08623415fda04 sha1 9842a64677821345703d188ad57936041de87a80 )
+)
+
+game (
+	name "First Association Preview (1997)(Omega Software GFX)[128K]"
+	description "First Association Preview (1997)(Omega Software GFX)[128K]"
+	rom ( name "First Association Preview (1997)(Omega Software GFX)[128K].tap" size 41559 crc c0427c22 md5 19d4e8f2921db2648344b4ca5b9832f1 sha1 f7103b601415539a597139a2285ee134ba622403 )
+)
+
+game (
+	name "First Association Preview (1997)(Omega Software GFX)[a][128K]"
+	description "First Association Preview (1997)(Omega Software GFX)[a][128K]"
+	rom ( name "First Association Preview (1997)(Omega Software GFX)[a][128K].tap" size 41559 crc afdfe269 md5 16d89640c826c7cd29a361e5233ec025 sha1 3edf038015785ce2a712b29d0879a665b6015789 )
+)
+
+game (
+	name "First Slovak Real Demo (1995)(7 Gods)"
+	description "First Slovak Real Demo (1995)(7 Gods)"
+	rom ( name "First Slovak Real Demo (1995)(7 Gods).tap" size 116769 crc 5367aa27 md5 ee7c0317dd56c099f82743a4f3678fca sha1 82272aaa2a9513479114de5acb896ff4785c21a5 )
+)
+
+game (
+	name "FLP 18 (1996)(Gambler)"
+	description "FLP 18 (1996)(Gambler)"
+	rom ( name "FLP 18 (1996)(Gambler).tap" size 60506 crc bb5eb448 md5 ee6ac76fb969e777df5814f71675f1ec sha1 def56589b07391110fb76c53b7156b2b17dfa4d8 )
+)
+
+game (
+	name "For Alex (19xx)(Flash)[128K]"
+	description "For Alex (19xx)(Flash)[128K]"
+	rom ( name "For Alex (19xx)(Flash)[128K].tap" size 9556 crc a0927676 md5 21c1fa7c4606b0b496bf811caf57bdb4 sha1 95f7dee26a789bda1a18a3b0f6a36cf7d8c92c6c )
+)
+
+game (
+	name "For Peace in Yugoslavia (19xx)(Destroyer)(M6)"
+	description "For Peace in Yugoslavia (19xx)(Destroyer)(M6)"
+	rom ( name "For Peace in Yugoslavia (19xx)(Destroyer)(M6).tap" size 4223 crc 93595283 md5 a4f1644c97f1f1ba854a50427c02a96a sha1 260771cce6a4cab52c0e81035fb0cae06af69d1c )
+)
+
+game (
+	name "For the United Minds (1995)(The Yolpa Brothers)[128K]"
+	description "For the United Minds (1995)(The Yolpa Brothers)[128K]"
+	rom ( name "For the United Minds (1995)(The Yolpa Brothers)[128K].tap" size 68725 crc 2069a1ad md5 2d13b7fa2ba5bce4818ace3ef0199567 sha1 966d0eb4f51564d6634017f9406fc4416d9a9428 )
+)
+
+game (
+	name "Fun Part Demo, The (1993)(The Unbelievables)[128K]"
+	description "Fun Part Demo, The (1993)(The Unbelievables)[128K]"
+	rom ( name "Fun Part Demo, The (1993)(The Unbelievables)[128K].tap" size 33358 crc 703a20bb md5 1ffb43f9e8f219f6d8b9ffd020474084 sha1 68bd353a367ac6c1b2cc4ab45766c3653bdc0fb5 )
+)
+
+game (
+	name "Fuxoft Soundtrack IV (1989)(Fuxoft)(cs)"
+	description "Fuxoft Soundtrack IV (1989)(Fuxoft)(cs)"
+	rom ( name "Fuxoft Soundtrack IV (1989)(Fuxoft)(cs).tap" size 37257 crc 1b588694 md5 da31db9497eccd417f55f01d5b69110f sha1 1e979e99128c8744be258fe6fbee339db3d30edf )
+)
+
+game (
+	name "Fuxoft Soundtrack IV (1991)(Fuxoft - Sinclair User)"
+	description "Fuxoft Soundtrack IV (1991)(Fuxoft - Sinclair User)"
+	rom ( name "Fuxoft Soundtrack IV (1991)(Fuxoft - Sinclair User).tap" size 39701 crc e67f5531 md5 f3f6e6839e44408e4daa975619b59d54 sha1 4adf763788e083da3b734fe00740c0d71aa8c139 )
+)
+
+game (
+	name "Galaxy 3 (1994)(Flash)[128K]"
+	description "Galaxy 3 (1994)(Flash)[128K]"
+	rom ( name "Galaxy 3 (1994)(Flash)[128K].tap" size 32695 crc a153319e md5 7854bd7e3a3f552bdb5dfebcca7899aa sha1 965e77060a5fe7d08fd979973b815a2b9237cf86 )
+)
+
+game (
+	name "Galope (19xx)(EP Software)(es)"
+	description "Galope (19xx)(EP Software)(es)"
+	rom ( name "Galope (19xx)(EP Software)(es).tap" size 2388 crc 814fbc60 md5 4c91a6ab43553e14bffcc545ec84c62d sha1 f00c9c38c443e625ec890448da673cc200a0bde7 )
+)
+
+game (
+	name "Garlic Respiration (1998)(UFO Group)"
+	description "Garlic Respiration (1998)(UFO Group)"
+	rom ( name "Garlic Respiration (1998)(UFO Group).tap" size 62195 crc 2b663b51 md5 e30c3a0195fd8dd275d8f0a25ac67daa sha1 cf1f4c62f2fb7fcfbf23fb059a4eb8e40e771be4 )
+)
+
+game (
+	name "Gift for Alex (1995)(Flash)[128K]"
+	description "Gift for Alex (1995)(Flash)[128K]"
+	rom ( name "Gift for Alex (1995)(Flash)[128K].tap" size 9398 crc ecce5734 md5 225ccabb607b646d39c5979f4b51002c sha1 84eb31ae98db9177bb40843c0e1fd616e9e337b5 )
+)
+
+game (
+	name "Gift for Alex Raider (19xx)(Flash)[128K]"
+	description "Gift for Alex Raider (19xx)(Flash)[128K]"
+	rom ( name "Gift for Alex Raider (19xx)(Flash)[128K].tap" size 147237 crc 893670de md5 76ecd28db23f5d198dca8027ea53867e sha1 45a5072e368fa30c5e98c8b6c84563284b17b9ee )
+)
+
+game (
+	name "Got to Get (1990)(The President)[128K]"
+	description "Got to Get (1990)(The President)[128K]"
+	rom ( name "Got to Get (1990)(The President)[128K].tap" size 122502 crc 92c4f0ae md5 7455535bf02861f762ba79df2d8299db sha1 9459fe3cd43959e7c05671aac67ace7add778872 )
+)
+
+game (
+	name "Great Shit 48 (1988)(Hacker Chris)"
+	description "Great Shit 48 (1988)(Hacker Chris)"
+	rom ( name "Great Shit 48 (1988)(Hacker Chris).tap" size 22966 crc c0852881 md5 a456f338517a96e30837b3bc3cf9d359 sha1 ccd68f3e7a7bdbc9d5bc7dc211f909e4321d11c9 )
+)
+
+game (
+	name "H-Core (1994)(Fudgepacker)"
+	description "H-Core (1994)(Fudgepacker)"
+	rom ( name "H-Core (1994)(Fudgepacker).tap" size 23104 crc a364cd7d md5 3feddca230c0cff29356426eb418bb72 sha1 0931933ea1cb0138253510d1e8b4137431ec0762 )
+)
+
+game (
+	name "Happy (1997)(Accept)[128K]"
+	description "Happy (1997)(Accept)[128K]"
+	rom ( name "Happy (1997)(Accept)[128K].tap" size 21058 crc f6b16b5c md5 b3b503ee045a2d6ff406057fc10bc4b3 sha1 44022df9474fca847bd05eb7503285e43958442b )
+)
+
+game (
+	name "Happy Birthday Alex (1996)(Progress)[128K]"
+	description "Happy Birthday Alex (1996)(Progress)[128K]"
+	rom ( name "Happy Birthday Alex (1996)(Progress)[128K].tap" size 6949 crc c71d66e2 md5 46b1ffcf5498c0ce13e47b8138f4229f sha1 ddc0f44d16ce31c1841a5c5dbea7af24fcf4db8d )
+)
+
+game (
+	name "Happy Birthday Demo, The (1992)(The Unbelievables)[128K]"
+	description "Happy Birthday Demo, The (1992)(The Unbelievables)[128K]"
+	rom ( name "Happy Birthday Demo, The (1992)(The Unbelievables)[128K].tap" size 15069 crc 38444d72 md5 9fa126f90db76764585842341ca18c1b sha1 92e658b026adf7c0b8d443c41f5837ecc2c4eaca )
+)
+
+game (
+	name "Happy Birthday Mic (1997)(Progress)[128K]"
+	description "Happy Birthday Mic (1997)(Progress)[128K]"
+	rom ( name "Happy Birthday Mic (1997)(Progress)[128K].tap" size 9139 crc 033e6dee md5 8d696b97754da9626058e4cd49aecc83 sha1 34dd25e8b97659923bce50812a494adf9ce25a7a )
+)
+
+game (
+	name "Happy Birthday to Yurik (1995)(Flash)[128K]"
+	description "Happy Birthday to Yurik (1995)(Flash)[128K]"
+	rom ( name "Happy Birthday to Yurik (1995)(Flash)[128K].tap" size 57680 crc 5cfef0a2 md5 ddb1a4d8609f7ccb00d3a3bbe9a36aaa sha1 e30acc270136f419d83e549fcfccbe60d0bdb532 )
+)
+
+game (
+	name "Harmonic Horror (1986)(Sinclair User)[16K]"
+	description "Harmonic Horror (1986)(Sinclair User)[16K]"
+	rom ( name "Harmonic Horror (1986)(Sinclair User)[16K].tap" size 2121 crc 24d369c2 md5 62e786567a27e5138268b55465b80fea sha1 3c75db29128f88e7e65108d2a94939b48bfe2efd )
+)
+
+game (
+	name "Hercules (19xx)(Busy Software)[128K]"
+	description "Hercules (19xx)(Busy Software)[128K]"
+	rom ( name "Hercules (19xx)(Busy Software)[128K].tap" size 10157 crc 448eb60c md5 fb5e7d1726c145d14bb91b3cc5075c01 sha1 1b9d94726ee5e4defb4119abd426fa10556ac23e )
+)
+
+game (
+	name "Higher State (1998)(3SC Software)[128K]"
+	description "Higher State (1998)(3SC Software)[128K]"
+	rom ( name "Higher State (1998)(3SC Software)[128K].tap" size 77429 crc 44450196 md5 36092028900df845de7bc172c33f36be sha1 8801f051d04515de94c9fac513c962980c608db6 )
+)
+
+game (
+	name "Hollis-Buster (19xx)(The Unbelievables)[128K]"
+	description "Hollis-Buster (19xx)(The Unbelievables)[128K]"
+	rom ( name "Hollis-Buster (19xx)(The Unbelievables)[128K].tap" size 27755 crc 155ff23e md5 70a17039e16d0b34cb432bfb7d20a6f0 sha1 c80f1d8278e4d72df8291d6be2fdd2675ac479c9 )
+)
+
+game (
+	name "Horny Hary (19xx)(X-Rated Software)"
+	description "Horny Hary (19xx)(X-Rated Software)"
+	rom ( name "Horny Hary (19xx)(X-Rated Software).tap" size 22868 crc 75d72117 md5 2dabe0353140e43dd313cadb14a17be8 sha1 cc2b66b778371db32caa90999eff9fdecb76f0aa )
+)
+
+game (
+	name "Hot Joystick (19xx)(Digital Design)"
+	description "Hot Joystick (19xx)(Digital Design)"
+	rom ( name "Hot Joystick (19xx)(Digital Design).tap" size 31433 crc 5143fd24 md5 f3535b3ae592b71ba1e7944484ee25aa sha1 6f200126f46883ee116b7fb7975b0f70e842f393 )
+)
+
+game (
+	name "Hotel Love (19xx)(Dimasoft)"
+	description "Hotel Love (19xx)(Dimasoft)"
+	rom ( name "Hotel Love (19xx)(Dimasoft).tap" size 10375 crc eb822f7c md5 71f90a37692f7fb05845611e364c96bb sha1 06113b2242d2aac49affea875b3eac60dbdb18e5 )
+)
+
+game (
+	name "Hurricanes Digi Slideshow, The (1995)(Technium 220)"
+	description "Hurricanes Digi Slideshow, The (1995)(Technium 220)"
+	rom ( name "Hurricanes Digi Slideshow, The (1995)(Technium 220).tap" size 21139 crc 1a81a010 md5 48305e2e280ad3d63b601b75aae4365f sha1 71a795f09554a4c7120c7cde3633a67c3874c172 )
+)
+
+game (
+	name "Hypersonic 2 (1992)(Pentagram)"
+	description "Hypersonic 2 (1992)(Pentagram)"
+	rom ( name "Hypersonic 2 (1992)(Pentagram).tap" size 40216 crc b80dde90 md5 7ac6d05dd027cadef17226a3e3473b8e sha1 f99420918819226501032ee3eeca8d55a39df7db )
+)
+
+game (
+	name "Hypersonic 2 (1992)(Pentagram)[128K]"
+	description "Hypersonic 2 (1992)(Pentagram)[128K]"
+	rom ( name "Hypersonic 2 (1992)(Pentagram)[128K].tap" size 127069 crc e5255b79 md5 d81d5cdd3621bff7bf40613668973bdf sha1 7f6efd6cf20557db5466432d273cc2b5498181b8 )
+)
+
+game (
+	name "Hypnotic World (1995)(Triton Software)[128K]"
+	description "Hypnotic World (1995)(Triton Software)[128K]"
+	rom ( name "Hypnotic World (1995)(Triton Software)[128K].tap" size 83178 crc 6d5ba051 md5 ed3c4da1197363fd19bf9aafec1a454f sha1 6c13d4fde7b6570d0b92e1fc0ec138cfcc0314f2 )
+)
+
+game (
+	name "I O U Nothing (19xx)(Coolguys)"
+	description "I O U Nothing (19xx)(Coolguys)"
+	rom ( name "I O U Nothing (19xx)(Coolguys).tap" size 45275 crc c53dad26 md5 a2a9ea636d4693412e5f5d2479bffd16 sha1 60e7e65c00a4a7adcf6a8f059f4ec709c3fdbee5 )
+)
+
+game (
+	name "Ice Cream (1996)(World Eyes Group)[128K]"
+	description "Ice Cream (1996)(World Eyes Group)[128K]"
+	rom ( name "Ice Cream (1996)(World Eyes Group)[128K].tap" size 75310 crc cb6a558b md5 5cd8143dfebf85570edd769bca81e2b0 sha1 4d7d208d1945797bcdc07433ee97ee6e952c7df2 )
+)
+
+game (
+	name "ID-Demo 1 (1993)(Icabod)[128K]"
+	description "ID-Demo 1 (1993)(Icabod)[128K]"
+	rom ( name "ID-Demo 1 (1993)(Icabod)[128K].tap" size 31272 crc 267ee346 md5 cb3952e8cbe485f602a8601778e2ac72 sha1 3e853f6f5219c324744852f707fad388e867a1a1 )
+)
+
+game (
+	name "ID-Demo 2 (1993)(Icabod)[128K]"
+	description "ID-Demo 2 (1993)(Icabod)[128K]"
+	rom ( name "ID-Demo 2 (1993)(Icabod)[128K].tap" size 26383 crc 0c83e753 md5 69da490aceaf9243e48f631f2ebe8ab6 sha1 7447820748b874827fc71b9896bd4d8586baeecf )
+)
+
+game (
+	name "Illusion (1996)(X-Trade Group)"
+	description "Illusion (1996)(X-Trade Group)"
+	rom ( name "Illusion (1996)(X-Trade Group).tap" size 40018 crc fe7bd9a1 md5 f5e253f7d21cf0b7ca3f69c733621394 sha1 afe5dde9c7d6f07afc685c15816dbcdc3d6c8ad9 )
+)
+
+game (
+	name "In the Army Now Demo (1994)(The Unbelievables)[128K]"
+	description "In the Army Now Demo (1994)(The Unbelievables)[128K]"
+	rom ( name "In the Army Now Demo (1994)(The Unbelievables)[128K].tap" size 10209 crc bbbe9aee md5 355519b832d5cd39d5a7142096e95952 sha1 6042ea4e3de33fd4b381e023c471cbd076a8ffd6 )
+)
+
+game (
+	name "Industrial Paradayzzz (1998)(Hooy-Program)[128K]"
+	description "Industrial Paradayzzz (1998)(Hooy-Program)[128K]"
+	rom ( name "Industrial Paradayzzz (1998)(Hooy-Program)[128K].tap" size 153639 crc b86dca39 md5 091cc02f620a1db86559f08a925d0cf1 sha1 e0bf985a989cda24d5e58d1eb30aa2d8226fcd30 )
+)
+
+game (
+	name "Influence v1.01 (1996)(Seamans)[128K]"
+	description "Influence v1.01 (1996)(Seamans)[128K]"
+	rom ( name "Influence v1.01 (1996)(Seamans)[128K].tap" size 74695 crc 4c5f6efd md5 317522e6a3aaa17f14fa09793d62485e sha1 4726b8a18d03ad2b9c6040e9efa27d1b09e7cd81 )
+)
+
+game (
+	name "Inner Space 5 (1994)(Convention)[128K]"
+	description "Inner Space 5 (1994)(Convention)[128K]"
+	rom ( name "Inner Space 5 (1994)(Convention)[128K].tap" size 53343 crc d532d58a md5 4ef20d0b866dad37528f279ab0d3fb9d sha1 ac5b7a1c2d972d185f45d84bf892c7d823772299 )
+)
+
+game (
+	name "Inner Universe (1994)(Extacy-3)"
+	description "Inner Universe (1994)(Extacy-3)"
+	rom ( name "Inner Universe (1994)(Extacy-3).tap" size 199440 crc f0593364 md5 88a33c10071b7a345fbbdec61720eb23 sha1 a2801a3dd745ed985abd6dcd0111cb122d28ff41 )
+)
+
+game (
+	name "Insane (1996)(3SC Software)[h Phantasy][128K]"
+	description "Insane (1996)(3SC Software)[h Phantasy][128K]"
+	rom ( name "Insane (1996)(3SC Software)[h Phantasy][128K].tap" size 113004 crc 3862bf22 md5 4f5e01a8f09fc9f2ce7db579139b7bc5 sha1 d13814143ccb4920223c15fb2939aa07ce399823 )
+)
+
+game (
+	name "Insanity Part 1 (1994)(Extacy-3)[128K]"
+	description "Insanity Part 1 (1994)(Extacy-3)[128K]"
+	rom ( name "Insanity Part 1 (1994)(Extacy-3)[128K].tap" size 36246 crc a9bdae20 md5 29bd76dc426d5a26582962f7f2da9f14 sha1 18c6b3b0bc4b5cbf5c978b3ff43e3c6606153c28 )
+)
+
+game (
+	name "Interlace Demo (1992)(Busy Software)[128K]"
+	description "Interlace Demo (1992)(Busy Software)[128K]"
+	rom ( name "Interlace Demo (1992)(Busy Software)[128K].tap" size 29330 crc 51514531 md5 bae8f8007eb0da0f145c18966ee371c8 sha1 312d3fd7fc0bccfb8ec5654e558ad1efa9025772 )
+)
+
+game (
+	name "Israeli Team Demo 2, The (1989)(The Israeli Team)"
+	description "Israeli Team Demo 2, The (1989)(The Israeli Team)"
+	rom ( name "Israeli Team Demo 2, The (1989)(The Israeli Team).tap" size 27326 crc 7d388668 md5 e43317ce0f7280662c954b0ddb6ef8e7 sha1 7fd0d7845f77fa4dae6b6a4db053a5097b6c9aa4 )
+)
+
+game (
+	name "Jarre-Live (1994)(TRENSoft)[128K]"
+	description "Jarre-Live (1994)(TRENSoft)[128K]"
+	rom ( name "Jarre-Live (1994)(TRENSoft)[128K].tap" size 21073 crc 84a76002 md5 dd65378d845e6e9d68fbb3598f03f86a sha1 1d14ba0defb4b25e65ce517f7be11fae07fc082a )
+)
+
+game (
+	name "Jerusalem (1996)(The Yolpa Brothers)[128K]"
+	description "Jerusalem (1996)(The Yolpa Brothers)[128K]"
+	rom ( name "Jerusalem (1996)(The Yolpa Brothers)[128K].tap" size 16919 crc daa29ef7 md5 055502bf468a43b756cc9a3b00b8f75c sha1 8b14cc778e26ccdc2079f4bbbb8b6adab45c6488 )
+)
+
+game (
+	name "Jesus On-E's (1996)(Technium 220)"
+	description "Jesus On-E's (1996)(Technium 220)"
+	rom ( name "Jesus On-E's (1996)(Technium 220).tap" size 27857 crc 6ac50390 md5 70c8d5cc24bf8b2da31b101e350c8747 sha1 c127974e96ffa10f7306994c33f2c6db72d63e14 )
+)
+
+game (
+	name "Jukebox (19xx)(Gavin Hamill - Richard Crawford)[128K]"
+	description "Jukebox (19xx)(Gavin Hamill - Richard Crawford)[128K]"
+	rom ( name "Jukebox (19xx)(Gavin Hamill - Richard Crawford)[128K].tap" size 15172 crc f7559d71 md5 d466b92bd05623a6ceea455cfdc83777 sha1 6fbef3156497f997db5e8804a4a7957a6b6435ff )
+)
+
+game (
+	name "Katharsis (1998)(Master Home Computers Group)[128K]"
+	description "Katharsis (1998)(Master Home Computers Group)[128K]"
+	rom ( name "Katharsis (1998)(Master Home Computers Group)[128K].tap" size 79585 crc c629f362 md5 4f1fc9302af0dbd128013f4aa379da45 sha1 a3f26e18745d983e0e9d97059f30e50caaee6343 )
+)
+
+game (
+	name "Koledy 128 (1989)(Kicia)[128K]"
+	description "Koledy 128 (1989)(Kicia)[128K]"
+	rom ( name "Koledy 128 (1989)(Kicia)[128K].tap" size 7724 crc 01a4bc79 md5 cd882c7283577a1a76ecdc650f22b392 sha1 6bf07f7ecbd6995143e597790cc93b23cd7a792a )
+)
+
+game (
+	name "Kraft Megademo (1993)(Extacy-3)"
+	description "Kraft Megademo (1993)(Extacy-3)"
+	rom ( name "Kraft Megademo (1993)(Extacy-3).tap" size 78262 crc 47e48d32 md5 4632bd2c5e321bebdc2061a6a56dc63e sha1 8fe05eb0ae38518330e26c9a76dd443520b38c7b )
+)
+
+game (
+	name "Kraft Megademo (1993)(Extacy-3)[128K]"
+	description "Kraft Megademo (1993)(Extacy-3)[128K]"
+	rom ( name "Kraft Megademo (1993)(Extacy-3)[128K].tap" size 78985 crc 50d81027 md5 774ca9a18034fdfabd27bc6de7199df9 sha1 0fa7ccfd7024c8388d6adbd373c7065879e49ac8 )
+)
+
+game (
+	name "Kraft Megademo (1993)(Extacy-3)[b]"
+	description "Kraft Megademo (1993)(Extacy-3)[b]"
+	rom ( name "Kraft Megademo (1993)(Extacy-3)[b].tap" size 78336 crc 3b667479 md5 c58995d94eeef66f36ff98813e092aff sha1 86cc3d2401e245b2409c7a46ca68e6eb50e30dbc )
+)
+
+game (
+	name "Last, The (1994)(Icabod)[128K]"
+	description "Last, The (1994)(Icabod)[128K]"
+	rom ( name "Last, The (1994)(Icabod)[128K].tap" size 19219 crc 61daeaf5 md5 29d82991e4ccfa00beb13c30a4c4a8e7 sha1 a205fbe01a3d99bb2e823676805cfcdb7ca55c6d )
+)
+
+game (
+	name "Last, The (1998)(E.S.A. Productions)[128K]"
+	description "Last, The (1998)(E.S.A. Productions)[128K]"
+	rom ( name "Last, The (1998)(E.S.A. Productions)[128K].tap" size 118898 crc 2a4d7263 md5 714c3b1c4be54a1038102cb106028f2c sha1 b910e78e86b434b7c91b48da04eef2865887ca3b )
+)
+
+game (
+	name "Lazarus (1998)(Claw)"
+	description "Lazarus (1998)(Claw)"
+	rom ( name "Lazarus (1998)(Claw).tap" size 66689 crc 31465807 md5 ebd479af43b731d86c4bd0f3fdb3994e sha1 8d97cf24e70acad4eb80e76c9f8428ec2e7f051c )
+)
+
+game (
+	name "Legion (1995)(Alchemist Research)[128K]"
+	description "Legion (1995)(Alchemist Research)[128K]"
+	rom ( name "Legion (1995)(Alchemist Research)[128K].tap" size 25079 crc 26b87dd0 md5 225b6b276086b9e088de2c0e5c63e322 sha1 88dd9db60ff027361b540e764e8ce92d1387b6cd )
+)
+
+game (
+	name "Let There Be Drums (1996)(Fudgepacker)"
+	description "Let There Be Drums (1996)(Fudgepacker)"
+	rom ( name "Let There Be Drums (1996)(Fudgepacker).tap" size 35815 crc 8eed10c7 md5 fa5409f0790e93372d45d5e7e60c05d3 sha1 99c3230efbcc5407412e697cc35ab647df7f3ded )
+)
+
+game (
+	name "Light and Sound Volume 02 (1988)(Theo Devil)(+2)"
+	description "Light and Sound Volume 02 (1988)(Theo Devil)(+2)"
+	rom ( name "Light and Sound Volume 02 (1988)(Theo Devil)(+2).tap" size 74210 crc a89ba994 md5 54be24f0f515139f7d1e19a89251e634 sha1 599364b4bfda68f5883a7b618846a760fc725ed0 )
+)
+
+game (
+	name "Light and Sound Volume 03 (1988)(Theo Devil)(+2)"
+	description "Light and Sound Volume 03 (1988)(Theo Devil)(+2)"
+	rom ( name "Light and Sound Volume 03 (1988)(Theo Devil)(+2).tap" size 77308 crc e06fdd86 md5 bd18135fd7ecdc1095c28d972c471435 sha1 d7e03cb36467beb1ec37be14c429c062c1c8cfec )
+)
+
+game (
+	name "Light and Sound Volume 04 (1988)(Theo Devil)(+2)"
+	description "Light and Sound Volume 04 (1988)(Theo Devil)(+2)"
+	rom ( name "Light and Sound Volume 04 (1988)(Theo Devil)(+2).tap" size 115415 crc da872736 md5 c084f2b68bbf1c239bca0b9985b69616 sha1 4c139c1aa4a438ed872bb9b3be7c8020550795fd )
+)
+
+game (
+	name "Linez (1993)(Extacy III)"
+	description "Linez (1993)(Extacy III)"
+	rom ( name "Linez (1993)(Extacy III).tap" size 23243 crc 263324f0 md5 a6f67aebc16e5ef0b468eda31fddd8ac sha1 0a783a1a8ad95b5c4e661ce59a2cd412721c0409 )
+)
+
+game (
+	name "Little Miss Candymouth (1987)(Digital Design)"
+	description "Little Miss Candymouth (1987)(Digital Design)"
+	rom ( name "Little Miss Candymouth (1987)(Digital Design).tap" size 2657 crc 420d5085 md5 209bf7dab146fcbd23a140430633da9d sha1 c3a9ba48be5ddb7d9db86a1552ab912155ebb4ef )
+)
+
+game (
+	name "Loco, El (1990)(The Lords)[128K]"
+	description "Loco, El (1990)(The Lords)[128K]"
+	rom ( name "Loco, El (1990)(The Lords)[128K].tap" size 13376 crc 6195859b md5 53ee5585ddaac574ff8a7085d779e79d sha1 9308c6e60c8983fa86419b522ca81d184076e936 )
+)
+
+game (
+	name "Logic II, The (1989)(Kassoft)"
+	description "Logic II, The (1989)(Kassoft)"
+	rom ( name "Logic II, The (1989)(Kassoft).tap" size 22213 crc 248b6e96 md5 422e4386952e041878ddc85cc82a1770 sha1 940324c3efa5b63b2a6a78f839f92a29cdec9efb )
+)
+
+game (
+	name "Logo (1990)(Your Sinclair)[128K]"
+	description "Logo (1990)(Your Sinclair)[128K]"
+	rom ( name "Logo (1990)(Your Sinclair)[128K].tap" size 37317 crc 98327874 md5 d246b91f9732539661c68e09027be1b6 sha1 fb2d0a0519b307be3ae5fe159ba21582379c68ba )
+)
+
+game (
+	name "Lollipop (1994)(The Knuckle Girls)[128K]"
+	description "Lollipop (1994)(The Knuckle Girls)[128K]"
+	rom ( name "Lollipop (1994)(The Knuckle Girls)[128K].tap" size 24925 crc 56587e32 md5 bdc84b4f0331438efa1ecbdd82e22cb6 sha1 718eb76dcf7f7145633d87ed65afe50529d4755c )
+)
+
+game (
+	name "Lollipop - The Second Spunker (1995)(The Knuckle Girls)[128K]"
+	description "Lollipop - The Second Spunker (1995)(The Knuckle Girls)[128K]"
+	rom ( name "Lollipop - The Second Spunker (1995)(The Knuckle Girls)[128K].tap" size 31388 crc c076f045 md5 57612bcf60a0a2509c4af8dc013f2968 sha1 d58b4e6912ac941041a3a51da9316e077e4551bb )
+)
+
+game (
+	name "Love Me Baby (1985)(Phil Hard Productions)"
+	description "Love Me Baby (1985)(Phil Hard Productions)"
+	rom ( name "Love Me Baby (1985)(Phil Hard Productions).tap" size 49451 crc 0eb70801 md5 4f4ebc2780d1e04dc29a574846d1a5f8 sha1 838e3b01fc988566a393a2e4c02940c2b0a800ca )
+)
+
+game (
+	name "LSD Megademo (1992)(Pentagram)[128K]"
+	description "LSD Megademo (1992)(Pentagram)[128K]"
+	rom ( name "LSD Megademo (1992)(Pentagram)[128K].tap" size 253071 crc 6bbaf78d md5 df2bde83826f20f2eef16ecd4350637f sha1 64cf725fc8fe47a2917d3a4832de437698f5b69b )
+)
+
+game (
+	name "Lyra II Megademo, The (1991)(Sinclair User)[128K]"
+	description "Lyra II Megademo, The (1991)(Sinclair User)[128K]"
+	rom ( name "Lyra II Megademo, The (1991)(Sinclair User)[128K].tap" size 207762 crc e0a4d1a6 md5 71a337ac66061d4ec2972b6366876771 sha1 63fb3b2dc00efa132377c335a1d8afd5641f68a1 )
+)
+
+game (
+	name "Made in Kazan (1996)(Excess Megagroup)"
+	description "Made in Kazan (1996)(Excess Megagroup)"
+	rom ( name "Made in Kazan (1996)(Excess Megagroup).tap" size 46227 crc 71338451 md5 d153cf1a2bb43cd819c062d5f2df7e8c sha1 f75f3d1de6d6e35c2e4944d1b532aa6f011489fa )
+)
+
+game (
+	name "Magic Ball Trilogy - Part III (1993)(Spectec)"
+	description "Magic Ball Trilogy - Part III (1993)(Spectec)"
+	rom ( name "Magic Ball Trilogy - Part III (1993)(Spectec).tap" size 26325 crc 4765ad41 md5 2b732ed3d4c6711f0da940d0643d4412 sha1 d3f39b669be567eac52291fb4cb2ad4cb0802f82 )
+)
+
+game (
+	name "Manhattan Demo (1990)(Dynamic)(pl)[128K]"
+	description "Manhattan Demo (1990)(Dynamic)(pl)[128K]"
+	rom ( name "Manhattan Demo (1990)(Dynamic)(pl)[128K].tap" size 21879 crc b8f2f4aa md5 3c4b4d1defd6d75546f911f771861ad9 sha1 eef8930b53ac855e5b1f9bccde96197fab7ef3ee )
+)
+
+game (
+	name "Mania (19xx)(Icabod)[128K]"
+	description "Mania (19xx)(Icabod)[128K]"
+	rom ( name "Mania (19xx)(Icabod)[128K].tap" size 16835 crc 398bbc66 md5 511031b16db19917d64805ecbabd7148 sha1 fdc6de9d0a1c7706a08781bf0e4383c35d094f42 )
+)
+
+game (
+	name "Maria (19xx)(-)"
+	description "Maria (19xx)(-)"
+	rom ( name "Maria (19xx)(-).tap" size 21762 crc ace1628c md5 64c6364a3d05099f8b84b67ff911ff28 sha1 6f1a6b25bbbca21fc04f9021b289050416608f60 )
+)
+
+game (
+	name "Marwin's Gallery (1997)(K3L)[48-128K]"
+	description "Marwin's Gallery (1997)(K3L)[48-128K]"
+	rom ( name "Marwin's Gallery (1997)(K3L)[48-128K].tap" size 37737 crc 874562e9 md5 a72546143530f60179bd1743210b0625 sha1 ee2a6c15532445a1a38aa9259912133b8eee1767 )
+)
+
+game (
+	name "MDA Demo (1991)(Busy Software)[128K]"
+	description "MDA Demo (1991)(Busy Software)[128K]"
+	rom ( name "MDA Demo (1991)(Busy Software)[128K].tap" size 71238 crc 758b84cd md5 65b6aa648c2b3dc6f9381d593980f86c sha1 5e9d78d4027a389a4efe5cbb5116e81fed062632 )
+)
+
+game (
+	name "Meeting (1993)(The Unbelievables)[128K]"
+	description "Meeting (1993)(The Unbelievables)[128K]"
+	rom ( name "Meeting (1993)(The Unbelievables)[128K].tap" size 47557 crc 472826c9 md5 34e911e2ce202807452edfb14d9d10ca sha1 27f1f5ca1d5e8c1206117979cc7a1f5c7df4393c )
+)
+
+game (
+	name "Mega Sound III (1991)(Studio Computerowe Koala)[128K]"
+	description "Mega Sound III (1991)(Studio Computerowe Koala)[128K]"
+	rom ( name "Mega Sound III (1991)(Studio Computerowe Koala)[128K].tap" size 25637 crc 07eb7595 md5 c0db81c090ffbda156b23ff428ad0152 sha1 018c16e77e5bdea536e37317506493d45cc09fbd )
+)
+
+game (
+	name "Megalomania (1993)(The Mad Guys)[128K]"
+	description "Megalomania (1993)(The Mad Guys)[128K]"
+	rom ( name "Megalomania (1993)(The Mad Guys)[128K].tap" size 117926 crc f2a88062 md5 08a9199578928168927b63c5051a973b sha1 2b257e84333f5e9cbf41816faebf7b30fe588e81 )
+)
+
+game (
+	name "Melody Music (1987)(Unisoft)"
+	description "Melody Music (1987)(Unisoft)"
+	rom ( name "Melody Music (1987)(Unisoft).tap" size 26862 crc 23fb68e6 md5 552a8e782d828b41ea7257086abbf869 sha1 c3bc22b2ccf9c0a750e7e8766fe0eb63a65faf2c )
+)
+
+game (
+	name "Mental Masturbation (1996)(Dream Makers Software)[128K]"
+	description "Mental Masturbation (1996)(Dream Makers Software)[128K]"
+	rom ( name "Mental Masturbation (1996)(Dream Makers Software)[128K].tap" size 20142 crc c089d9a1 md5 46a8c5e479e443cdad449e7f1c601563 sha1 9bbed39a56adf197325bfa685210a0fde104f753 )
+)
+
+game (
+	name "Merry Christmas (19xx)(-)"
+	description "Merry Christmas (19xx)(-)"
+	rom ( name "Merry Christmas (19xx)(-).tap" size 3368 crc 79a4e483 md5 6cbc67007f6bddeeffa636b1465c2b88 sha1 64afd8c9b6be98c0c02782752ff2f9c9770e794e )
+)
+
+game (
+	name "Mic (1996)(Progress)"
+	description "Mic (1996)(Progress)"
+	rom ( name "Mic (1996)(Progress).tap" size 5553 crc 886bd1b1 md5 3ad9294b5c44ecf19db82bf7ef915745 sha1 85451e737f642e2b37474fbeda2ca42a86985007 )
+)
+
+game (
+	name "Microcosm (2003)(Cyberpunks Unity)"
+	description "Microcosm (2003)(Cyberpunks Unity)"
+	rom ( name "Microcosm (2003)(Cyberpunks Unity).tap" size 36718 crc a05ff8f9 md5 0fb9f1ee8854240459b76b525def59fd sha1 ad2f35223683782d8a4d9c85fb67809ad80b0d0a )
+)
+
+game (
+	name "Milky Way - Part 1 (1994)(Flash)[128K]"
+	description "Milky Way - Part 1 (1994)(Flash)[128K]"
+	rom ( name "Milky Way - Part 1 (1994)(Flash)[128K].tap" size 24164 crc 4572aceb md5 8ee4275a5b0dbe773786f2c3f9da181c sha1 0d19d48965c4e0283f69bbd9f4d0fd4c9c647538 )
+)
+
+game (
+	name "Milky Way - Part 2 (1994)(Flash)[128K]"
+	description "Milky Way - Part 2 (1994)(Flash)[128K]"
+	rom ( name "Milky Way - Part 2 (1994)(Flash)[128K].tap" size 32683 crc f85ca894 md5 1b67559f1f79bf595f0ad2e939f3ca07 sha1 3bc22bb522799d916803c259a01aaee756c95723 )
+)
+
+game (
+	name "Mind-Warp (1993)(Extacy-3)[128K]"
+	description "Mind-Warp (1993)(Extacy-3)[128K]"
+	rom ( name "Mind-Warp (1993)(Extacy-3)[128K].tap" size 28370 crc 043dad13 md5 3a1559165079204579ef1e6b1a3cd4ec sha1 515003049372aeb6fcfdab6059b46bbc1cdc8e24 )
+)
+
+game (
+	name "Mindless (1994)(Extacy-3)[128K]"
+	description "Mindless (1994)(Extacy-3)[128K]"
+	rom ( name "Mindless (1994)(Extacy-3)[128K].tap" size 12573 crc 71d45568 md5 e42fa037499e22fa733222efd1aa86cf sha1 716e862ba3cf1bbe236fd31057ba432367983055 )
+)
+
+game (
+	name "Miracle (1996)(Warlocks)[128K]"
+	description "Miracle (1996)(Warlocks)[128K]"
+	rom ( name "Miracle (1996)(Warlocks)[128K].tap" size 81455 crc 86d448cd md5 3bdb44323b9a558d757a19aca6b47969 sha1 e5323eec070559ed6c37b02873ff415785bbe7bb )
+)
+
+game (
+	name "Mirage 2 (1989)(RAF)"
+	description "Mirage 2 (1989)(RAF)"
+	rom ( name "Mirage 2 (1989)(RAF).tap" size 17099 crc 4a9ed78a md5 4f155c55bf5876723aeb6600989b24c0 sha1 42cdc34dc5e66ec49935a77775bc895c61c7151d )
+)
+
+game (
+	name "Mix 2 (1988)(Szafran Soft)"
+	description "Mix 2 (1988)(Szafran Soft)"
+	rom ( name "Mix 2 (1988)(Szafran Soft).tap" size 33856 crc f242fc22 md5 197273df2be5b22dc8f934d792b6e511 sha1 9b4aae68a46d97d5e5cdea7a6a9a3de4f2b2ae0c )
+)
+
+game (
+	name "Morbid Visions (1997)(Asphyxia)[128K]"
+	description "Morbid Visions (1997)(Asphyxia)[128K]"
+	rom ( name "Morbid Visions (1997)(Asphyxia)[128K].tap" size 30077 crc d61757c6 md5 f2bb5679c7763674dde054b9ee8f431e sha1 6f66db1abfaff63ba677c406394c9ff165951af9 )
+)
+
+game (
+	name "More than NOP (1994)(Jacek Michalak)[128K]"
+	description "More than NOP (1994)(Jacek Michalak)[128K]"
+	rom ( name "More than NOP (1994)(Jacek Michalak)[128K].tap" size 56097 crc 2838a531 md5 3b49fea74df7a1f9fd6af5810aa20f4e sha1 f8f9e8b0064b5e81ceae03f65862f947f11769b0 )
+)
+
+game (
+	name "Mozart (1984)(Octopus Software)"
+	description "Mozart (1984)(Octopus Software)"
+	rom ( name "Mozart (1984)(Octopus Software).tap" size 7660 crc 3365282e md5 ebd75de38bed8e7263e9bb37af1b6756 sha1 54ca4faede1109cb34e9bc53dde6cfe656659b1f )
+)
+
+game (
+	name "Mozart (1984)(Octopus Software)[a]"
+	description "Mozart (1984)(Octopus Software)[a]"
+	rom ( name "Mozart (1984)(Octopus Software)[a].tap" size 7125 crc 164d3d10 md5 74ae303194d8e701f437eda2c14d4036 sha1 dffcd7cd94b711be031b2bedef9204e41615d5a3 )
+)
+
+game (
+	name "MQM 5 (1993)(MQM Team)[128K]"
+	description "MQM 5 (1993)(MQM Team)[128K]"
+	rom ( name "MQM 5 (1993)(MQM Team)[128K].tap" size 651919 crc 1d9aa041 md5 a75b68c2e8f82d02481a33eeed680369 sha1 3ef9ede8d325fa4c9ecaac5d530cd79055c67683 )
+)
+
+game (
+	name "MQM Demo (1992)(MQM Team)[128K]"
+	description "MQM Demo (1992)(MQM Team)[128K]"
+	rom ( name "MQM Demo (1992)(MQM Team)[128K].tap" size 39336 crc 84bd0931 md5 8af3a23c562af4e954ae445a7f4fc2f1 sha1 72dc2017318506236d39ff710905bb8d24f0e4bb )
+)
+
+game (
+	name "MQM Demo II (1992)(MQM Team)[128K]"
+	description "MQM Demo II (1992)(MQM Team)[128K]"
+	rom ( name "MQM Demo II (1992)(MQM Team)[128K].tap" size 42176 crc dccd1fc7 md5 ccad15c3753a7da3e15456969dff511f sha1 8655c0f146008d31d1eb55bf15d18421041485b2 )
+)
+
+game (
+	name "Music Bank 4 (1992)(Agent-X)[128K]"
+	description "Music Bank 4 (1992)(Agent-X)[128K]"
+	rom ( name "Music Bank 4 (1992)(Agent-X)[128K].tap" size 28421 crc 0b22425a md5 76fc89e8c9741b7d7a4d186ccd5c6ebb sha1 fea41cbbb55e7bcc4f5a9350fe7a6eb9458b5538 )
+)
+
+game (
+	name "Music Bank 5 (1992)(ESI)[128K]"
+	description "Music Bank 5 (1992)(ESI)[128K]"
+	rom ( name "Music Bank 5 (1992)(ESI)[128K].tap" size 33203 crc 35d9febc md5 4bf3afca8fac3a9c3306458e1e38a6cd sha1 c099f3fa8f00c073c1baddb689154f2d8c72e01b )
+)
+
+game (
+	name "Music Menu (19xx)(Tomaz Iskra)"
+	description "Music Menu (19xx)(Tomaz Iskra)"
+	rom ( name "Music Menu (19xx)(Tomaz Iskra).tap" size 23392 crc 95467e51 md5 4302c6772300d2d2afe4cb29540650b6 sha1 57315a311ceaea416bddc706932244ec759628fd )
+)
+
+game (
+	name "Music on Interrupt (1996)(Enlight Party 1996)[128K]"
+	description "Music on Interrupt (1996)(Enlight Party 1996)[128K]"
+	rom ( name "Music on Interrupt (1996)(Enlight Party 1996)[128K].tap" size 44632 crc 99dda884 md5 968f1528d030f8dfa13f2dab979afbf7 sha1 6e1a057c456e2ff558c967f29505f498bc2fb6d3 )
+)
+
+game (
+	name "Music Snapshots (19xx)(Garry Rowland)[128K]"
+	description "Music Snapshots (19xx)(Garry Rowland)[128K]"
+	rom ( name "Music Snapshots (19xx)(Garry Rowland)[128K].tap" size 64552 crc ad529639 md5 e75da78cf46e31796ece29029a6ff754 sha1 2434001df414f299e3388d7cfed0720da1f80271 )
+)
+
+game (
+	name "Musical Christmas Greeting (19xx)(Alchemist Research)"
+	description "Musical Christmas Greeting (19xx)(Alchemist Research)"
+	rom ( name "Musical Christmas Greeting (19xx)(Alchemist Research).tap" size 26464 crc e8ea67d1 md5 24eb2d859917bb49282153e2c69694aa sha1 bf1c316fceeb3eed3a7061e56a3aea9bbd2d4fae )
+)
+
+game (
+	name "Musical Explosion, The (1990)(The Nightman)[128K]"
+	description "Musical Explosion, The (1990)(The Nightman)[128K]"
+	rom ( name "Musical Explosion, The (1990)(The Nightman)[128K].tap" size 130731 crc 5c3faa7e md5 d798c1af896674e7cf0ae5c33d4b7643 sha1 b5c7157c729ac369ea385c6501ec94f82d269905 )
+)
+
+game (
+	name "Musical Snowmen, The (1999)(CSSCGC)[128K]"
+	description "Musical Snowmen, The (1999)(CSSCGC)[128K]"
+	rom ( name "Musical Snowmen, The (1999)(CSSCGC)[128K].tap" size 12585 crc 374bfc36 md5 512d6d928e951780b5804a6da4a66143 sha1 a65a0f7bdbc79e95c6450030c019c5bea3627574 )
+)
+
+game (
+	name "Nameless Demo, The (1995)(The Knights)[128K]"
+	description "Nameless Demo, The (1995)(The Knights)[128K]"
+	rom ( name "Nameless Demo, The (1995)(The Knights)[128K].tap" size 84370 crc 0aadd1f8 md5 e2a4d3e83be3cc2f2c47829486097076 sha1 82c144874aac7100d286e7415c3d111fd7089278 )
+)
+
+game (
+	name "Naughty Crew Info (1997)(Naughty Crew)[128K]"
+	description "Naughty Crew Info (1997)(Naughty Crew)[128K]"
+	rom ( name "Naughty Crew Info (1997)(Naughty Crew)[128K].tap" size 20119 crc 6a549eef md5 ce835a1ce4cde21713c86bf60b6da0c1 sha1 3d6e8f9444c7f324d81f807771517cf66a391b29 )
+)
+
+game (
+	name "Nibble Dreams (19xx)(Tankard - Hammer - Kamikaze)[128K]"
+	description "Nibble Dreams (19xx)(Tankard - Hammer - Kamikaze)[128K]"
+	rom ( name "Nibble Dreams (19xx)(Tankard - Hammer - Kamikaze)[128K].tap" size 27992 crc 383b6e72 md5 79c751808e6ba417966222402ed8ef26 sha1 6944ffbed412a78fe7d28bf982554bb2fb8d1829 )
+)
+
+game (
+	name "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K]"
+	description "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K]"
+	rom ( name "No More Intelligence 2 (1991)(Dynamite Dynasty)[128K].tap" size 31736 crc 8a71f993 md5 ee44311810148165a7f377a4dfbcf272 sha1 5929e8dcdc941a17eb476ab807bcf4489845468a )
+)
+
+game (
+	name "No More Intelligence 3 - No Panic (1991)(Dynamite Dynasty)"
+	description "No More Intelligence 3 - No Panic (1991)(Dynamite Dynasty)"
+	rom ( name "No More Intelligence 3 - No Panic (1991)(Dynamite Dynasty).tap" size 133241 crc d1dabbb1 md5 8f78761be413e9680e59f49eaad7ae39 sha1 8e16991107b1ec363017a0f838accaa0cd9c5e9b )
+)
+
+game (
+	name "No More Intelligence 3 - No Panic - Note (1991)(Dynamite Dynasty)"
+	description "No More Intelligence 3 - No Panic - Note (1991)(Dynamite Dynasty)"
+	rom ( name "No More Intelligence 3 - No Panic - Note (1991)(Dynamite Dynasty).tap" size 4626 crc 427e55bd md5 5bf7bbb46f18985bc6f346cc815cfee7 sha1 f759994b0312982512b43a7e65aeea26a300a501 )
+)
+
+game (
+	name "No Nazis (1993)(The Mad Guys)[128K]"
+	description "No Nazis (1993)(The Mad Guys)[128K]"
+	rom ( name "No Nazis (1993)(The Mad Guys)[128K].tap" size 10357 crc 1d1ea651 md5 d8d1b8581ec23358926d7b77bceabb9b sha1 ff499140658a979ecae5d0d87a11c741987a66a6 )
+)
+
+game (
+	name "No Nonsense (1995)(The United Minds)[128K]"
+	description "No Nonsense (1995)(The United Minds)[128K]"
+	rom ( name "No Nonsense (1995)(The United Minds)[128K].tap" size 44993 crc d26a9f5e md5 872a47df15cd3ddcedfd0414aba444a9 sha1 f95770d59478e6ba3605181558e9ffbb8d5eb85b )
+)
+
+game (
+	name "Not Dead (1994)(Datasoft)"
+	description "Not Dead (1994)(Datasoft)"
+	rom ( name "Not Dead (1994)(Datasoft).tap" size 17270 crc 0034bfea md5 a1d282818ba85d403742d173f68e913a sha1 8e577666ea2bbe2345b773a0270f43f6ad4ec658 )
+)
+
+game (
+	name "Oi! (1995)(Convention)[128K]"
+	description "Oi! (1995)(Convention)[128K]"
+	rom ( name "Oi! (1995)(Convention)[128K].tap" size 32783 crc 601a9ae2 md5 d04e87b174a4f3d1de6c2e86e392ae44 sha1 5e3a95c82a02093aa03c4f5ef61529c6e8772261 )
+)
+
+game (
+	name "Ommadawn (2000)(Ignacio Prini Garcia)[128K]"
+	description "Ommadawn (2000)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Ommadawn (2000)(Ignacio Prini Garcia)[128K].tap" size 32913 crc c87bed8a md5 fb4f00964d2ec14de0447b9d86c16080 sha1 1c8e8a2fc60f39e2eb1f49350442741006491b6d )
+)
+
+game (
+	name "One Day Demo (1985)(7 Gods)[128K]"
+	description "One Day Demo (1985)(7 Gods)[128K]"
+	rom ( name "One Day Demo (1985)(7 Gods)[128K].tap" size 7487 crc 23ef3973 md5 a27e5df62ad3bf5a48e09453a8da1259 sha1 a9fc8bbf582ed48e39f04792a9d87acf531d0c30 )
+)
+
+game (
+	name "One Too Many 2 - The Total Piss-Up (1994)(Extacy-3)[128K]"
+	description "One Too Many 2 - The Total Piss-Up (1994)(Extacy-3)[128K]"
+	rom ( name "One Too Many 2 - The Total Piss-Up (1994)(Extacy-3)[128K].tap" size 36375 crc 71902110 md5 f82d8b18bd5bc1b2855a3fbc280bf831 sha1 503a635a6bd6206d11b3e3f60433959eb62d0fc4 )
+)
+
+game (
+	name "One Too Many 3 (1996)(Extacy-3)[128K]"
+	description "One Too Many 3 (1996)(Extacy-3)[128K]"
+	rom ( name "One Too Many 3 (1996)(Extacy-3)[128K].tap" size 45107 crc 4012d428 md5 9f6224059dede2eb7b10cb2dfa648076 sha1 530d49a4f5e6afdf0b3cee4baf4508543c47d76b )
+)
+
+game (
+	name "Out of ZSL (1992)(TAD)"
+	description "Out of ZSL (1992)(TAD)"
+	rom ( name "Out of ZSL (1992)(TAD).tap" size 82197 crc e09f5cc0 md5 55399d8e2d60bcff896ae5dbc3db952c sha1 1d5c76ef96db5ef0a5da67f30d4557286353b665 )
+)
+
+game (
+	name "Oversun 4K (1998)(Global Corporation)[128K]"
+	description "Oversun 4K (1998)(Global Corporation)[128K]"
+	rom ( name "Oversun 4K (1998)(Global Corporation)[128K].tap" size 4070 crc 3e796b74 md5 6d6bafe6cd8507c0d63bccfd7d63bdf2 sha1 a5ad200e38ade9abed0d665b4750fab1a2a16a01 )
+)
+
+game (
+	name "Ozone (1998)(Ignacio Prini Garcia)[128K]"
+	description "Ozone (1998)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Ozone (1998)(Ignacio Prini Garcia)[128K].tap" size 2496 crc 1dfe2d3d md5 8f86277bb00f7a19d9638aab647735de sha1 122664c8e4875bb3d5769aaaba1b11af23efc013 )
+)
+
+game (
+	name "Paroxyzm (19xx)(Dream Makers Software)[128K]"
+	description "Paroxyzm (19xx)(Dream Makers Software)[128K]"
+	rom ( name "Paroxyzm (19xx)(Dream Makers Software)[128K].tap" size 23065 crc 0674fab8 md5 50eec2e7fff785a214d44ddac458f7f3 sha1 cc4517777e794fbdbeffc4541f27a58e86d86b84 )
+)
+
+game (
+	name "Peepshow Slideshow (1986)(TCS)"
+	description "Peepshow Slideshow (1986)(TCS)"
+	rom ( name "Peepshow Slideshow (1986)(TCS).tap" size 18742 crc 8a25a221 md5 6fe88148878c8ebacf9f1684837b98ab sha1 e6a696869795c9a2e0b75535881fd7947bc35d17 )
+)
+
+game (
+	name "Peng II (1997)(The Mad Guys)(de)"
+	description "Peng II (1997)(The Mad Guys)(de)"
+	rom ( name "Peng II (1997)(The Mad Guys)(de).tap" size 25961 crc 24239247 md5 a6e7352f11a5875a8e16af7d43feb01a sha1 72e01b33bc67b36f0f7dd1bbfaeddec965ea4016 )
+)
+
+game (
+	name "Pianola (1984)(De Wit Productions)(nl)"
+	description "Pianola (1984)(De Wit Productions)(nl)"
+	rom ( name "Pianola (1984)(De Wit Productions)(nl).tap" size 14121 crc 358b3c07 md5 e9b44e8af4e7ce76941754955abab40d sha1 710fbbc9ef0106c60fd98bc481ea326ad9c70e77 )
+)
+
+game (
+	name "Pippillea (1995)(The Yolpa Brothers)[128K]"
+	description "Pippillea (1995)(The Yolpa Brothers)[128K]"
+	rom ( name "Pippillea (1995)(The Yolpa Brothers)[128K].tap" size 93596 crc 948b4b71 md5 6e827bfb3e059b3add51220990e5332c sha1 fb5a659a73c17f98ce0ea08beb3ff889b39a1857 )
+)
+
+game (
+	name "Poocake (1995)(The United Minds - Extacy-3)[128K]"
+	description "Poocake (1995)(The United Minds - Extacy-3)[128K]"
+	rom ( name "Poocake (1995)(The United Minds - Extacy-3)[128K].tap" size 29446 crc ec2f6248 md5 140f0ad505d3f4950e53b703bc1a8417 sha1 624b5d3b53575f60b047e2985177301e33633ce5 )
+)
+
+game (
+	name "Popsnog (1994)(The Knuckle Girls)[128K]"
+	description "Popsnog (1994)(The Knuckle Girls)[128K]"
+	rom ( name "Popsnog (1994)(The Knuckle Girls)[128K].tap" size 17696 crc 2dcd851a md5 143dcb2a1dd7c87c669bd6dce12a897e sha1 d27c7bdc7afe37e66133287db78427fadb49b8df )
+)
+
+game (
+	name "Power of Illusion (1995)(Illusion Group)[128K]"
+	description "Power of Illusion (1995)(Illusion Group)[128K]"
+	rom ( name "Power of Illusion (1995)(Illusion Group)[128K].tap" size 25023 crc 4af0f190 md5 bc34614c4392fc4b0e2983c40cc9c0b1 sha1 6ed1e68f35d7764e6edb6250199ee4137f0b9261 )
+)
+
+game (
+	name "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K]"
+	description "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K]"
+	rom ( name "Pro Sounds (1991)(Rumatisoft - Your Sinclair)[128K].tap" size 30644 crc 306a69f9 md5 1f3e19558ddeca9060fe5f6fdcbc3867 sha1 a572e8801a2fbfaf01cd78dcbb977978b3b9222d )
+)
+
+game (
+	name "Psychedelia (1984)(Llamasoft)"
+	description "Psychedelia (1984)(Llamasoft)"
+	rom ( name "Psychedelia (1984)(Llamasoft).tap" size 37370 crc ca98035f md5 c1bec56b106844e7c49858e6e79d1ae3 sha1 ffd8f1cc0f41664369b8a1614f326f30a6cc2cee )
+)
+
+game (
+	name "Psycho 1 (1995)(Convention)"
+	description "Psycho 1 (1995)(Convention)"
+	rom ( name "Psycho 1 (1995)(Convention).tap" size 12918 crc 6ffa60ed md5 aaafdaac2599c7cce8c10906167ffc87 sha1 cc708c8e65395558e6c47791ab17440981889ed7 )
+)
+
+game (
+	name "Quark (1992)(Dominic Morris)[128K]"
+	description "Quark (1992)(Dominic Morris)[128K]"
+	rom ( name "Quark (1992)(Dominic Morris)[128K].tap" size 23442 crc 98f474f9 md5 f55b68060c8b53b8ea119ca99fb56532 sha1 7b34f24f9e8fb4eae5c4a0e8de3f7a9b58ce0e97 )
+)
+
+game (
+	name "Quinquagesima (1989)(The Lords)[128K]"
+	description "Quinquagesima (1989)(The Lords)[128K]"
+	rom ( name "Quinquagesima (1989)(The Lords)[128K].tap" size 23578 crc 16bc0e20 md5 79d7b3f8c05654b96e94af78dd0fe6df sha1 87f3647e8792f4f0534e46d6211b016ced33be62 )
+)
+
+game (
+	name "Ravers Paradise, The (1996)(Illusion Group)"
+	description "Ravers Paradise, The (1996)(Illusion Group)"
+	rom ( name "Ravers Paradise, The (1996)(Illusion Group).tap" size 144655 crc b9e2ed40 md5 2086e565935c3a6bbe5c2b12ac9401f6 sha1 7ad471387c4127853d8a47dd64ebb5df7ac3ea14 )
+)
+
+game (
+	name "Really Sad Demo ..., The (1996)(The United Minds)"
+	description "Really Sad Demo ..., The (1996)(The United Minds)"
+	rom ( name "Really Sad Demo ..., The (1996)(The United Minds).tap" size 46992 crc 2d9539ed md5 89b761cb4dadfaf1562e91e82d80dd3f sha1 e3027d19bc9077a2a61ddc0d035986694dc716fa )
+)
+
+game (
+	name "Roy Benson Show, The (1996)(Technium 220)[128K]"
+	description "Roy Benson Show, The (1996)(Technium 220)[128K]"
+	rom ( name "Roy Benson Show, The (1996)(Technium 220)[128K].tap" size 82346 crc 68e1ed8d md5 28b61ead627649d98b9d59b1434694c1 sha1 abf55a75aaad73e7798bf22d05ff171165a89639 )
+)
+
+game (
+	name "Rude Pictures Demo 1 (1990)(Tinbin Garbage Production)[128K]"
+	description "Rude Pictures Demo 1 (1990)(Tinbin Garbage Production)[128K]"
+	rom ( name "Rude Pictures Demo 1 (1990)(Tinbin Garbage Production)[128K].tap" size 32079 crc 50c89244 md5 842a761a867f5df9a3091c0443222231 sha1 283c280ab3f28bd1cdc45d2f1c03e1a89fc8adcb )
+)
+
+game (
+	name "Rude Pictures Demo 2 (1991)(Tinbin Garbage Production)[128K]"
+	description "Rude Pictures Demo 2 (1991)(Tinbin Garbage Production)[128K]"
+	rom ( name "Rude Pictures Demo 2 (1991)(Tinbin Garbage Production)[128K].tap" size 41847 crc ae507360 md5 074816db11bf1f7ed4a58fb267d8f630 sha1 bc2cf040dc5f1c37dce87350b977554891589694 )
+)
+
+game (
+	name "Rude Pictures Demo 3 (1991)(Tinbin Garbage Production)[128K]"
+	description "Rude Pictures Demo 3 (1991)(Tinbin Garbage Production)[128K]"
+	rom ( name "Rude Pictures Demo 3 (1991)(Tinbin Garbage Production)[128K].tap" size 43707 crc 95069161 md5 7ee24398be700810096aa00aaebe4868 sha1 63c1d47313dea3d0e7ee96a23b8c680ba1d9a088 )
+)
+
+game (
+	name "Rugrats (1996)(Technium 220)[128K]"
+	description "Rugrats (1996)(Technium 220)[128K]"
+	rom ( name "Rugrats (1996)(Technium 220)[128K].tap" size 130022 crc 12790004 md5 fe699b5745742268d65308bb60114a95 sha1 8b1676b90fe4e39a02b5320c361bac841141be50 )
+)
+
+game (
+	name "Russion Prestige (1996)(Black Shark)[128K]"
+	description "Russion Prestige (1996)(Black Shark)[128K]"
+	rom ( name "Russion Prestige (1996)(Black Shark)[128K].tap" size 34922 crc ac20e309 md5 54987003628272c44abacb730c5ce99a sha1 dd316c1167dc74899234d06af4c33512f4d8158b )
+)
+
+game (
+	name "Samantha Fox 2 (19xx)(-)[128K]"
+	description "Samantha Fox 2 (19xx)(-)[128K]"
+	rom ( name "Samantha Fox 2 (19xx)(-)[128K].tap" size 49458 crc e7572777 md5 100f251920d509106b4c2b2fee88bc3b sha1 e5ee0a0fb901ab153dc299071e1b34137e78b880 )
+)
+
+game (
+	name "Scalexiada (1993)(NOP)[128K]"
+	description "Scalexiada (1993)(NOP)[128K]"
+	rom ( name "Scalexiada (1993)(NOP)[128K].tap" size 11918 crc 75dfc505 md5 88c027b5813b34294259957e95329923 sha1 46d2d169e6ff41b68e1e6078de7db66662dafb42 )
+)
+
+game (
+	name "Schizophrenia 128 (19xx)(-)[128K]"
+	description "Schizophrenia 128 (19xx)(-)[128K]"
+	rom ( name "Schizophrenia 128 (19xx)(-)[128K].tap" size 111095 crc 15d57d43 md5 19793b4ef83170e8bbd8d41981bb74f6 sha1 ba70fe2e3b7c92a7d96a4f6840999b5601179b47 )
+)
+
+game (
+	name "Schizophrenia 48 (19xx)(-)"
+	description "Schizophrenia 48 (19xx)(-)"
+	rom ( name "Schizophrenia 48 (19xx)(-).tap" size 86885 crc f3ff253d md5 4c8e339b7886b32a02a0b7fa3fce8171 sha1 4e899757b350bf60c03661ad98f8829ff4e4007b )
+)
+
+game (
+	name "Second Attempt on Speccy (1994)(TRENSoft)[128K]"
+	description "Second Attempt on Speccy (1994)(TRENSoft)[128K]"
+	rom ( name "Second Attempt on Speccy (1994)(TRENSoft)[128K].tap" size 22725 crc 43ce3625 md5 35806df44139b0b1494b0201d6b820ad sha1 d5179286822473dd11d9cd208ad94b50669cd026 )
+)
+
+game (
+	name "Sexdemo (19xx)(The Lids)[128K]"
+	description "Sexdemo (19xx)(The Lids)[128K]"
+	rom ( name "Sexdemo (19xx)(The Lids)[128K].tap" size 30683 crc da020853 md5 c6455aaa3deacbc881f5b3036ab801e6 sha1 0fb05759fe07b7fce1934d77e0feed447f4a0ec1 )
+)
+
+game (
+	name "SF Games Art Demo (1995)(Exodus)"
+	description "SF Games Art Demo (1995)(Exodus)"
+	rom ( name "SF Games Art Demo (1995)(Exodus).tap" size 32546 crc 3be4f592 md5 1f82003b6edfb5ec42f7d339db59623e sha1 b242ab499d3a3cd942a74d710603770507c730ff )
+)
+
+game (
+	name "Shock Megademo (1992)(ESI)[128K]"
+	description "Shock Megademo (1992)(ESI)[128K]"
+	rom ( name "Shock Megademo (1992)(ESI)[128K].tap" size 99937 crc 9b57915e md5 bdb59a83d6984a7a4e6668c3b5ed772e sha1 0de0e9703dfb767a57e5778ac1c5a790d0b88c82 )
+)
+
+game (
+	name "Small 1 (1995)(The United Minds - Extacy-3)[128K]"
+	description "Small 1 (1995)(The United Minds - Extacy-3)[128K]"
+	rom ( name "Small 1 (1995)(The United Minds - Extacy-3)[128K].tap" size 12563 crc d6b2133c md5 7c64a9f32745c4b8118cbc20fb8f721a sha1 0d311f9f780b64d2866f41a637fa77afdc06a951 )
+)
+
+game (
+	name "Smash (1996)(E.S.A. Productions)[128K]"
+	description "Smash (1996)(E.S.A. Productions)[128K]"
+	rom ( name "Smash (1996)(E.S.A. Productions)[128K].tap" size 721303 crc 2fd37237 md5 17a840286f115a679d6f0cc212072b3f sha1 1fbec3fe08900cf8578a4d403085abb4f2af8ec3 )
+)
+
+game (
+	name "Sonic the Hedgehog (1993)(Convention)"
+	description "Sonic the Hedgehog (1993)(Convention)"
+	rom ( name "Sonic the Hedgehog (1993)(Convention).tap" size 16029 crc e95d7256 md5 8e10e02f0d50335d372cfdb62142d84c sha1 efb61edf31941cb05aead044854d57c76e8ac4d4 )
+)
+
+game (
+	name "Sorry (1996)(Claw)[128K]"
+	description "Sorry (1996)(Claw)[128K]"
+	rom ( name "Sorry (1996)(Claw)[128K].tap" size 42048 crc 37506aeb md5 14d86ecb4e5179bfdd587ffef8cfd801 sha1 a13b8d971324878e1bfda21ecfe0274570315c1d )
+)
+
+game (
+	name "Soundrive v1.02 Doc (1996)(Flash)(ru)[128K]"
+	description "Soundrive v1.02 Doc (1996)(Flash)(ru)[128K]"
+	rom ( name "Soundrive v1.02 Doc (1996)(Flash)(ru)[128K].tap" size 30851 crc 4e1146e0 md5 7a18b21dc285e7146c2457937ffa01f1 sha1 96287ed945239a2ef9e22c196b54ca37fe521db0 )
+)
+
+game (
+	name "Soundrive v1.5 Info (1996)(Flash)(ru)[128K]"
+	description "Soundrive v1.5 Info (1996)(Flash)(ru)[128K]"
+	rom ( name "Soundrive v1.5 Info (1996)(Flash)(ru)[128K].tap" size 41139 crc ce2188c1 md5 65c08bb0cb6dcd00d8021e700b35bfd4 sha1 4895cb7e49a692103063cb120ae6255b0e0b415f )
+)
+
+game (
+	name "Spectrum 128k Music Demo (1988)(Sinclair User)[128K]"
+	description "Spectrum 128k Music Demo (1988)(Sinclair User)[128K]"
+	rom ( name "Spectrum 128k Music Demo (1988)(Sinclair User)[128K].tap" size 15741 crc 84630994 md5 bf24778b356137ec4cccb40ad23833c3 sha1 f741d4d634ee597e7344ac742dca935136a61f64 )
+)
+
+game (
+	name "Spectrum Juggler (1987)(UK Lead)"
+	description "Spectrum Juggler (1987)(UK Lead)"
+	rom ( name "Spectrum Juggler (1987)(UK Lead).tap" size 8930 crc 634b34c2 md5 d1598cde01a775a7c5fb886c4c5ac756 sha1 046940fb1266dcd42b9cad00449d66313ac28a5f )
+)
+
+game (
+	name "Speedy Tomatoes on Acid (1994)(The United Minds)[128K]"
+	description "Speedy Tomatoes on Acid (1994)(The United Minds)[128K]"
+	rom ( name "Speedy Tomatoes on Acid (1994)(The United Minds)[128K].tap" size 10264 crc 3a14db64 md5 0c39a133d55a0e13f3875dbe542ee970 sha1 e84248177fd70f83840ad3eab66c098939d7fcc0 )
+)
+
+game (
+	name "Sphinx (1998)(Ignacio Prini Garcia)[128K]"
+	description "Sphinx (1998)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Sphinx (1998)(Ignacio Prini Garcia)[128K].tap" size 2981 crc 4614ab1f md5 e0b1a54b918c21d714c1489808fae035 sha1 c2751ff2850cefadae21644a33a2f6e8ffa55c9e )
+)
+
+game (
+	name "Star Heaven (1990)(Johnny Hazzard)[128K]"
+	description "Star Heaven (1990)(Johnny Hazzard)[128K]"
+	rom ( name "Star Heaven (1990)(Johnny Hazzard)[128K].tap" size 14840 crc 87ee1c4f md5 83b6c5f13094b811cabc58c1cb03baea sha1 70941a04112993dae091b8d3d23594e0335094e8 )
+)
+
+game (
+	name "Stolen Data (1994)(Extacy-3)"
+	description "Stolen Data (1994)(Extacy-3)"
+	rom ( name "Stolen Data (1994)(Extacy-3).tap" size 72715 crc fe3865c2 md5 68911788b3222f9ac21b39f466ef6951 sha1 71adc87e2d786eacef8e874049e6cc7ac1e7f522 )
+)
+
+game (
+	name "Stoned on Bananas (1995)(The United Minds)[128K]"
+	description "Stoned on Bananas (1995)(The United Minds)[128K]"
+	rom ( name "Stoned on Bananas (1995)(The United Minds)[128K].tap" size 24653 crc d1e40bbf md5 48ddfb38c1e95e81976d4c9631c51d53 sha1 1599e9856d319f932ef13a4d99e5dec45606f01b )
+)
+
+game (
+	name "Strawberry Fields (1995)(The United Minds)[128K]"
+	description "Strawberry Fields (1995)(The United Minds)[128K]"
+	rom ( name "Strawberry Fields (1995)(The United Minds)[128K].tap" size 16439 crc 4786ea30 md5 8bcaabe197ded21c581fff02714cbedc sha1 0cab748fe2f915e2cb8bd0e4d744cd98ac8690c8 )
+)
+
+game (
+	name "Sub-Sonic (1993)(Extacy-3)"
+	description "Sub-Sonic (1993)(Extacy-3)"
+	rom ( name "Sub-Sonic (1993)(Extacy-3).tap" size 15803 crc 38c733af md5 3de3a5cec450accb0e0ccbcfb8418671 sha1 8b1996a39752e388b6f89f8f7cf7e2e15cffbe30 )
+)
+
+game (
+	name "Sub-Sonic 2 (1993)(Extacy-3)"
+	description "Sub-Sonic 2 (1993)(Extacy-3)"
+	rom ( name "Sub-Sonic 2 (1993)(Extacy-3).tap" size 30492 crc f9b3f7d8 md5 f55817340b8a048cdfacd33c1a32c20b sha1 4916b848951665247d4d7725ff5979e4bba59bff )
+)
+
+game (
+	name "Sucker Demo, The (1995)(The United Minds)[128K]"
+	description "Sucker Demo, The (1995)(The United Minds)[128K]"
+	rom ( name "Sucker Demo, The (1995)(The United Minds)[128K].tap" size 26303 crc 537733af md5 68ed5121ffa3593791eec34e45e79824 sha1 5cb9b18d2cd2416f1592b83c7b61163cd9dd754a )
+)
+
+game (
+	name "Target Earth (1994)(The United Minds)[128K]"
+	description "Target Earth (1994)(The United Minds)[128K]"
+	rom ( name "Target Earth (1994)(The United Minds)[128K].tap" size 45811 crc 0d14a5cd md5 57e200e1b011f06a0ed2967431bf7fe0 sha1 fd0669734fc1e85a61ebf34be33204ea515f7305 )
+)
+
+game (
+	name "Tattoo (1999)(Ignacio Prini Garcia)[128K]"
+	description "Tattoo (1999)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Tattoo (1999)(Ignacio Prini Garcia)[128K].tap" size 3170 crc 1c4332b2 md5 186de71f2dcc78171a7de10a7eeded10 sha1 972216ad35eda6964fafe49239d0081f41b1b42c )
+)
+
+game (
+	name "Techno Chaos (1993)(CBM Software)"
+	description "Techno Chaos (1993)(CBM Software)"
+	rom ( name "Techno Chaos (1993)(CBM Software).tap" size 99352 crc 0632694f md5 20317cd81131652fa2e69396079bd444 sha1 65f84af7763920eaf6ff0d4afa1a8bba1b00ebb2 )
+)
+
+game (
+	name "Techno93 Demo (1993)(Oleg Moskalenko)"
+	description "Techno93 Demo (1993)(Oleg Moskalenko)"
+	rom ( name "Techno93 Demo (1993)(Oleg Moskalenko).tap" size 31590 crc d22b8a59 md5 6f33da20c5221d36e34e993905f6b603 sha1 ba22bcab8967327ef0b640e027186fe33ade1322 )
+)
+
+game (
+	name "Tesla (19xx)(Softhouse)(sk)[128K]"
+	description "Tesla (19xx)(Softhouse)(sk)[128K]"
+	rom ( name "Tesla (19xx)(Softhouse)(sk)[128K].tap" size 30030 crc bf10ba73 md5 be2557588aea2d780f5aef2494d29d7d sha1 71f28dd409708f3ca74ef194523310ae121b7c97 )
+)
+
+game (
+	name "TFF 6 (1989)(TFF Team)[128K]"
+	description "TFF 6 (1989)(TFF Team)[128K]"
+	rom ( name "TFF 6 (1989)(TFF Team)[128K].tap" size 68455 crc 7956e1dd md5 1e71e2ecc9fe9cd921db559a6bd74429 sha1 5982656377ea28301d120ddea709acff8c182c67 )
+)
+
+game (
+	name "Thieves Like Us (1989)(Coolguys)"
+	description "Thieves Like Us (1989)(Coolguys)"
+	rom ( name "Thieves Like Us (1989)(Coolguys).tap" size 29890 crc 8713e99d md5 7520fc3e3b341edadb5200474eb3e8df sha1 ba40aabf962292380724db43464f901a56017636 )
+)
+
+game (
+	name "Tim Follin's Music (1997)(TDM Software)[128K]"
+	description "Tim Follin's Music (1997)(TDM Software)[128K]"
+	rom ( name "Tim Follin's Music (1997)(TDM Software)[128K].tap" size 66985 crc 439d0840 md5 04eeee5f2f26b7a1248c5d60b5e168ab sha1 d816a0bbb06941d1b098d8aa39cbf292015348ea )
+)
+
+game (
+	name "To Je Jedno (1996)(The Unbelievables)[128K]"
+	description "To Je Jedno (1996)(The Unbelievables)[128K]"
+	rom ( name "To Je Jedno (1996)(The Unbelievables)[128K].tap" size 60072 crc 262920b6 md5 90353db434af5575bd45ce896d4773f5 sha1 250d3a2dadf85176f00d266a060cea4e52aa1531 )
+)
+
+game (
+	name "Total Eclipse's Talisman Demo (1991)(Total Eclipse)[128K]"
+	description "Total Eclipse's Talisman Demo (1991)(Total Eclipse)[128K]"
+	rom ( name "Total Eclipse's Talisman Demo (1991)(Total Eclipse)[128K].tap" size 18340 crc 22e5a4a1 md5 51c42447cbe91647f0ae377293d22c26 sha1 f615f0be4700406fd29b932f6be877e444c6b581 )
+)
+
+game (
+	name "Total Recall Animation (1991)(Outlet Disk Magazine)"
+	description "Total Recall Animation (1991)(Outlet Disk Magazine)"
+	rom ( name "Total Recall Animation (1991)(Outlet Disk Magazine).tap" size 36186 crc 69f90f30 md5 5464fa550d914623ce06a41195b7a0c0 sha1 f366aaeb58eb1cea8ecfbe887b1e95f0aea0b1d9 )
+)
+
+game (
+	name "Tubular Bells - Part 1 (1999)(Ignacio Prini Garcia)[128K]"
+	description "Tubular Bells - Part 1 (1999)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Tubular Bells - Part 1 (1999)(Ignacio Prini Garcia)[128K].tap" size 21306 crc 5e15c664 md5 a3835ce638468a32ac5a0ceca7aa1f93 sha1 9f49ab312f659e31d6c8ffae58377699b27932f8 )
+)
+
+game (
+	name "Tubular Bells - Part 2 (1999)(Ignacio Prini Garcia)[128K]"
+	description "Tubular Bells - Part 2 (1999)(Ignacio Prini Garcia)[128K]"
+	rom ( name "Tubular Bells - Part 2 (1999)(Ignacio Prini Garcia)[128K].tap" size 18198 crc 30d24370 md5 a77d17cb49c931851fe21cf081f86b59 sha1 c51b36455654729e05b16ebacd6f3f3d59e12c50 )
+)
+
+game (
+	name "Twin Sounds (1991)(Rumatisoft)[128K]"
+	description "Twin Sounds (1991)(Rumatisoft)[128K]"
+	rom ( name "Twin Sounds (1991)(Rumatisoft)[128K].tap" size 32291 crc 98e3c8d4 md5 4097239e25351bd93ea8f6a28fb57d4e sha1 78112591c4f132669acdf1ba8f932fd27fa8df36 )
+)
+
+game (
+	name "Typical Arcade Player, The (1984)(Spectrum Computing)"
+	description "Typical Arcade Player, The (1984)(Spectrum Computing)"
+	rom ( name "Typical Arcade Player, The (1984)(Spectrum Computing).tap" size 14614 crc 99601c74 md5 8e75127beed38361d0b4b017bca5e29e sha1 d4792d194fe81d3c5c9f89a94f22d70854f34cf7 )
+)
+
+game (
+	name "Ugly Blaster (1997)(Stupidius)[128K]"
+	description "Ugly Blaster (1997)(Stupidius)[128K]"
+	rom ( name "Ugly Blaster (1997)(Stupidius)[128K].tap" size 40536 crc 9714d016 md5 c005f633e19f103634603178d7b0a11f sha1 4a8534be99fd4d0c3f83ce1b7ad92f9b942cabec )
+)
+
+game (
+	name "Ultima II (1988)(TUC)"
+	description "Ultima II (1988)(TUC)"
+	rom ( name "Ultima II (1988)(TUC).tap" size 16597 crc 45cf40ee md5 477feb0cc40fb98406c94c8a82565ccf sha1 83d7fc47929d3d415fda52a210f6ba5a481efdfd )
+)
+
+game (
+	name "Uncle Ben's Bordello Beauties (1989)(Spermasoft Masturbatories)"
+	description "Uncle Ben's Bordello Beauties (1989)(Spermasoft Masturbatories)"
+	rom ( name "Uncle Ben's Bordello Beauties (1989)(Spermasoft Masturbatories).tap" size 33739 crc 8f9d28a0 md5 78f141f880af5fd0659fadbbcd261917 sha1 5e9876030dc2ed63d2b6f62b179b0d7c95432ffc )
+)
+
+game (
+	name "Vaseline (1994)(The Knuckle Girls)[128K]"
+	description "Vaseline (1994)(The Knuckle Girls)[128K]"
+	rom ( name "Vaseline (1994)(The Knuckle Girls)[128K].tap" size 20738 crc 7a95fbe5 md5 1dc7c499575575d81cf769cb37df264e sha1 0f255928b118194d55d7c7c946bcee766ceff771 )
+)
+
+game (
+	name "Verisimilitude (1995)(Zack)[128K]"
+	description "Verisimilitude (1995)(Zack)[128K]"
+	rom ( name "Verisimilitude (1995)(Zack)[128K].tap" size 13181 crc ec2b3bdd md5 f0b54fd6f31f085d913d9d7232eb538f sha1 b93e7165197947df91a940424f22261cc2b5ddf0 )
+)
+
+game (
+	name "Vidi Party Show (1991)(Pentagram)[128K]"
+	description "Vidi Party Show (1991)(Pentagram)[128K]"
+	rom ( name "Vidi Party Show (1991)(Pentagram)[128K].tap" size 95162 crc 84b05dff md5 38b29553aa303775f2304e075cf1725b sha1 c422739e4c98c32ee5e1f8774d68f02fb45337c7 )
+)
+
+game (
+	name "Walkman (19xx)(Softhouse)[128K]"
+	description "Walkman (19xx)(Softhouse)[128K]"
+	rom ( name "Walkman (19xx)(Softhouse)[128K].tap" size 29426 crc 66b65b47 md5 5d0182f23d3ebc3bc16f1803676533b8 sha1 2abfedeca89b62dca70abe06efca42f7b72a8d50 )
+)
+
+game (
+	name "Wall (19xx)(Softhouse)[128K]"
+	description "Wall (19xx)(Softhouse)[128K]"
+	rom ( name "Wall (19xx)(Softhouse)[128K].tap" size 25228 crc 7f945df6 md5 3ef92d3a8eed5af2cc4662457986fec8 sha1 a6de6f0970fc8905ef2a4e6a5478d0b9c7848339 )
+)
+
+game (
+	name "Warning Demo (1996)(Flash)[128K]"
+	description "Warning Demo (1996)(Flash)[128K]"
+	rom ( name "Warning Demo (1996)(Flash)[128K].tap" size 15719 crc d094c371 md5 c15a239c08bbaea25f114d85a2a5e734 sha1 3b9354219321bf96705ace30010a8e20e81f6817 )
+)
+
+game (
+	name "We're Called Gondolieri (19xx)(Garry Rowland)[128K]"
+	description "We're Called Gondolieri (19xx)(Garry Rowland)[128K]"
+	rom ( name "We're Called Gondolieri (19xx)(Garry Rowland)[128K].tap" size 22123 crc 2ba09eb1 md5 08adf3647807f17d613592285ff8f083 sha1 70f4a0d306002961be264c0eb74a6620841c3c01 )
+)
+
+game (
+	name "Wild Cat Part 1 (1990)(Sean Adams)[128K]"
+	description "Wild Cat Part 1 (1990)(Sean Adams)[128K]"
+	rom ( name "Wild Cat Part 1 (1990)(Sean Adams)[128K].tap" size 22909 crc ec46caf1 md5 bbe9a449ef402eddc5abf7ef103ea901 sha1 cfbc87bc9965d8656f12af9c7fe28fe2956b5d8f )
+)
+
+game (
+	name "X-Files (1995)(Paul Howard)"
+	description "X-Files (1995)(Paul Howard)"
+	rom ( name "X-Files (1995)(Paul Howard).tap" size 23470 crc 585fbdbb md5 dfb2d78dbc9e9e6df5f8bf37804d6696 sha1 08a65521f2e08979c95d4723335e3faacadc3ec1 )
+)
+
+game (
+	name "Zaphod Beeblebrox Intro 2 (1990)(The Mad Guys)"
+	description "Zaphod Beeblebrox Intro 2 (1990)(The Mad Guys)"
+	rom ( name "Zaphod Beeblebrox Intro 2 (1990)(The Mad Guys).tap" size 39884 crc c6acd4fd md5 87994e82eb17a4dc462f558c98983c41 sha1 0600533feb8cafa88079a337d33c147594927a27 )
+)
+
+game (
+	name "Zcroll 1 (1994)(Icabod)[128K]"
+	description "Zcroll 1 (1994)(Icabod)[128K]"
+	rom ( name "Zcroll 1 (1994)(Icabod)[128K].tap" size 18885 crc 070d58d9 md5 2a64a47c2e0ce27f653740867f91be47 sha1 7a2f2757063c8f21c6083c4610c5c8105436a013 )
+)
+
+game (
+	name "Zcroll 2 (1994)(Icabod)[128K]"
+	description "Zcroll 2 (1994)(Icabod)[128K]"
+	rom ( name "Zcroll 2 (1994)(Icabod)[128K].tap" size 28153 crc 3ffa227d md5 c90ebb224c44e0be184f237e4ae7c60f sha1 ba74754f37fc45281bdfa88d497a7a5cc2bc5ec1 )
+)
+

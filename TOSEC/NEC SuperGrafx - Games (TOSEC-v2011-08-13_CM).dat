@@ -1,0 +1,44 @@
+clrmamepro (
+	name "NEC SuperGrafx - Games"
+	description "NEC SuperGrafx - Games (TOSEC-v2011-08-13)"
+	category "NEC SuperGrafx - Games"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)"
+	description "Aldynes (1991)(Hudson)(JP)(en)"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en).bin" size 1048576 crc 4c2126b0 md5 8ce21667658ef9c025ad007f65147c6d sha1 d876248ee1b80ad11633fd4be8aa21a187b52193 )
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)[b2]"
+	description "Aldynes (1991)(Hudson)(JP)(en)[b2]"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en)[b2].bin" size 1048576 crc 6d97373e md5 b0ef4278ba450af3240976a2a1defea6 sha1 4789d6328b9c6befb72ed7192d09d3f2545c7a15 )
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)[b3]"
+	description "Aldynes (1991)(Hudson)(JP)(en)[b3]"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en)[b3].bin" size 1048576 crc fa143ea3 md5 09807004b6ea33cfc341645b9f45f6ce sha1 64d4e67305b1daaa803b2a3d52c2e784799719d8 )
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)[b4]"
+	description "Aldynes (1991)(Hudson)(JP)(en)[b4]"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en)[b4].bin" size 1048576 crc 4a0eaf7d md5 f5983cbb058d3abc86dc9bc48d1661b8 sha1 30f90a490a45867a812bd85497c7a8ff996f3637 )
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)[b5]"
+	description "Aldynes (1991)(Hudson)(JP)(en)[b5]"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en)[b5].bin" size 786432 crc 10bcd11c md5 2ee2eeeb4691add82a86ccfe5dcc9d3e sha1 fff9be7864bd789307adca6bd79e2e88d35b7cf1 )
+)
+
+game (
+	name "Aldynes (1991)(Hudson)(JP)(en)[b]"
+	description "Aldynes (1991)(Hudson)(JP)(en)[b]"
+	rom ( name "Aldynes (1991)(Hudson)(JP)(en)[b].bin" size 360448 crc 2ee73183 md5 30226111516f9d6b23f375f1c0082bb1 sha1 74bfbf1b0cccf854c5d205893b9488f3810a6d9a )
+)
+

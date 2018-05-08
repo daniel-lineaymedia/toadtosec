@@ -1,0 +1,487 @@
+clrmamepro (
+	name "Apple II - Applications - [DSK]"
+	description "Apple II - Applications - [DSK] (TOSEC-v2010-01-16)"
+	category "Apple II - Applications - [DSK]"
+	version 2010-01-16
+	author "TKaos - bigboo - Cassiel - jjs"
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6).dsk" size 143360 crc ea739508 md5 57c35e24e470873a3634f4d987fbf6cd )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Black Bag]"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Black Bag]"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Black Bag].dsk" size 143360 crc f2b2b2d5 md5 b131217d227add979d50c6e5fa2be262 )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Blade]"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Blade]"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 1 of 6)[cr Blade].dsk" size 143360 crc 52637d17 md5 b6b352de388d6c55315a7f7d5399fedd )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6).dsk" size 143360 crc 612c2b59 md5 6656de8fdf0dfa8dc881cbf56b444daf )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6)[o]"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6)[o]"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 2 of 6)[o].dsk" size 145089 crc 5752d7bd md5 60fa9307cb8b9b437d6400d9121c2116 )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 3 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 3 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 3 of 6).dsk" size 143360 crc 54030240 md5 0e6e14a8901e26b05c3f353bec2e5ceb )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 4 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 4 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 4 of 6).dsk" size 143360 crc fc6d82b3 md5 fe6b35b6927ecbeb05a00073a5da76e0 )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 5 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 5 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 5 of 6).dsk" size 143360 crc f4994398 md5 bacacc13f33890aae16b6905212eacdf )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6)"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6)"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6).dsk" size 143360 crc 2ed60917 md5 f3da41243586c7527163f96f0df47bfd )
+)
+
+game (
+	name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6)[o]"
+	description "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6)[o]"
+	rom ( name "Adventure Constuction Set (1985)(Electronic Arts)(Disk 6 of 6)[o].dsk" size 143943 crc 6ce2ab32 md5 d78081dd29f2407da0bbeef9dccb24b4 )
+)
+
+game (
+	name "Apple II Pascal v1.1 (1980)(Apple)(Disk 1 of 4)[PASCAL]"
+	description "Apple II Pascal v1.1 (1980)(Apple)(Disk 1 of 4)[PASCAL]"
+	rom ( name "Apple II Pascal v1.1 (1980)(Apple)(Disk 1 of 4)[PASCAL].dsk" size 143360 crc 7c8685bb md5 61cb58e0c34e12f81d51c61fa6169d06 )
+)
+
+game (
+	name "Apple II Pascal v1.1 (1980)(Apple)(Disk 2 of 4)[Boot][PASCAL]"
+	description "Apple II Pascal v1.1 (1980)(Apple)(Disk 2 of 4)[Boot][PASCAL]"
+	rom ( name "Apple II Pascal v1.1 (1980)(Apple)(Disk 2 of 4)[Boot][PASCAL].dsk" size 143360 crc 60c2f4e2 md5 d6a90b800135d5154b9e6d3017d08b91 )
+)
+
+game (
+	name "Apple II Pascal v1.1 (1980)(Apple)(Disk 3 of 4)[PASCAL]"
+	description "Apple II Pascal v1.1 (1980)(Apple)(Disk 3 of 4)[PASCAL]"
+	rom ( name "Apple II Pascal v1.1 (1980)(Apple)(Disk 3 of 4)[PASCAL].dsk" size 143360 crc 91f5cb30 md5 a6421797a2234632dec069a3e099bc3b )
+)
+
+game (
+	name "Apple II Pascal v1.1 (1980)(Apple)(Disk 4 of 4)[PASCAL]"
+	description "Apple II Pascal v1.1 (1980)(Apple)(Disk 4 of 4)[PASCAL]"
+	rom ( name "Apple II Pascal v1.1 (1980)(Apple)(Disk 4 of 4)[PASCAL].dsk" size 143360 crc 2caf0bdd md5 5cf3baa6c22aa95472861d6e2ce060a3 )
+)
+
+game (
+	name "Apple II Pascal v1.3 (198x)(Apple)(Disk 1 of 2)[PASCAL]"
+	description "Apple II Pascal v1.3 (198x)(Apple)(Disk 1 of 2)[PASCAL]"
+	rom ( name "Apple II Pascal v1.3 (198x)(Apple)(Disk 1 of 2)[PASCAL].dsk" size 143360 crc e88662cc md5 fbbc5cf41a035f7826def948894fcb2c )
+)
+
+game (
+	name "Apple II Pascal v1.3 (198x)(Apple)(Disk 2 of 2)[PASCAL]"
+	description "Apple II Pascal v1.3 (198x)(Apple)(Disk 2 of 2)[PASCAL]"
+	rom ( name "Apple II Pascal v1.3 (198x)(Apple)(Disk 2 of 2)[PASCAL].dsk" size 143360 crc be6b4172 md5 a0edef728e910c272bd04547c3801eb7 )
+)
+
+game (
+	name "Apple Presents... Apple (1982)(Apple)[PASCAL]"
+	description "Apple Presents... Apple (1982)(Apple)[PASCAL]"
+	rom ( name "Apple Presents... Apple (1982)(Apple)[PASCAL].dsk" size 143360 crc a5ca61d6 md5 36c1f7772439fb25878143ea113ebd67 )
+)
+
+game (
+	name "Bank Street Writer (1984)(Broderbund)[cr Blade]"
+	description "Bank Street Writer (1984)(Broderbund)[cr Blade]"
+	rom ( name "Bank Street Writer (1984)(Broderbund)[cr Blade].dsk" size 143360 crc 434670a1 md5 a4eb529f6222cd685d86a36da5ed740f )
+)
+
+game (
+	name "CAMPS (1982)(M. Guenin - W. Schwartz)[PASCAL]"
+	description "CAMPS (1982)(M. Guenin - W. Schwartz)[PASCAL]"
+	rom ( name "CAMPS (1982)(M. Guenin - W. Schwartz)[PASCAL].dsk" size 143360 crc 2e16adaa md5 eba6366b571ea94e447e9ac80b8c68f2 )
+)
+
+game (
+	name "Datalife Disk Drive Analyzer (1983)(Data-Encore)[cr SSPC]"
+	description "Datalife Disk Drive Analyzer (1983)(Data-Encore)[cr SSPC]"
+	rom ( name "Datalife Disk Drive Analyzer (1983)(Data-Encore)[cr SSPC].dsk" size 143360 crc c0f8c7b0 md5 8c141d6b96083f054c584b116bba7edd )
+)
+
+game (
+	name "Datapro (1985)(Cosmi)"
+	description "Datapro (1985)(Cosmi)"
+	rom ( name "Datapro (1985)(Cosmi).dsk" size 143360 crc b09e93a5 md5 4303591e47fe08313d8cdf78b10adb6d )
+)
+
+game (
+	name "Decouvrir Apple Logo (1983)(Apple)(fr)[PASCAL]"
+	description "Decouvrir Apple Logo (1983)(Apple)(fr)[PASCAL]"
+	rom ( name "Decouvrir Apple Logo (1983)(Apple)(fr)[PASCAL].dsk" size 143360 crc 93a604fe md5 b46967d40bf1e9a39ccb2f3b8f1ad74f )
+)
+
+game (
+	name "Disk Drive Analyzer v7.0 (1991)(Nickrom Technical Products)"
+	description "Disk Drive Analyzer v7.0 (1991)(Nickrom Technical Products)"
+	rom ( name "Disk Drive Analyzer v7.0 (1991)(Nickrom Technical Products).dsk" size 143360 crc 1086f663 md5 a0146a545f0c534eeda9aa199f445620 )
+)
+
+game (
+	name "Frameup v1.3 (1982)(Beagle Bros)"
+	description "Frameup v1.3 (1982)(Beagle Bros)"
+	rom ( name "Frameup v1.3 (1982)(Beagle Bros).dsk" size 143360 crc 2835fc7b md5 64d95dbc0df84b25377c922f77e1ad01 )
+)
+
+game (
+	name "GetDOS (1982-04)(Matthews, John B.)[PASCAL]"
+	description "GetDOS (1982-04)(Matthews, John B.)[PASCAL]"
+	rom ( name "GetDOS (1982-04)(Matthews, John B.)[PASCAL].dsk" size 143360 crc e81aa8b7 md5 a61004e4f28c193ff28b51d27d68fead )
+)
+
+game (
+	name "HFS Assembler Disk (1984)(Honeyfold Software)[h][b gfx]"
+	description "HFS Assembler Disk (1984)(Honeyfold Software)[h][b gfx]"
+	rom ( name "HFS Assembler Disk (1984)(Honeyfold Software)[h][b gfx].dsk" size 143360 crc a1263db1 md5 90b3f77f9d22f375c713b6b00246ae88 )
+)
+
+game (
+	name "HomeWord Speller v1.0 (1984)(Sierra On-Line)"
+	description "HomeWord Speller v1.0 (1984)(Sierra On-Line)"
+	rom ( name "HomeWord Speller v1.0 (1984)(Sierra On-Line).dsk" size 143360 crc 41d9b653 md5 7643929abd59d487dc96435eba91c436 )
+)
+
+game (
+	name "Locksmith v6.0 (1986)(Alpha Logic Business Systems)"
+	description "Locksmith v6.0 (1986)(Alpha Logic Business Systems)"
+	rom ( name "Locksmith v6.0 (1986)(Alpha Logic Business Systems).dsk" size 143360 crc 310e026d md5 73a3ea4634e2f3df37659701f37436d0 )
+)
+
+game (
+	name "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a]"
+	description "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a]"
+	rom ( name "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a].dsk" size 143360 crc 4f2c1d7d md5 730d39af4849dd5cc7ffef16c9f842ca )
+)
+
+game (
+	name "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a2]"
+	description "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a2]"
+	rom ( name "Locksmith v6.0 (1986)(Alpha Logic Business Systems)[a2].dsk" size 143360 crc 34d245ef md5 7e429d038d3a05099a13b43620d1e325 )
+)
+
+game (
+	name "MegaWorks v1.0 (1984)(Megahaus)(Disk 1 of 2)(Program)[PASCAL]"
+	description "MegaWorks v1.0 (1984)(Megahaus)(Disk 1 of 2)(Program)[PASCAL]"
+	rom ( name "MegaWorks v1.0 (1984)(Megahaus)(Disk 1 of 2)(Program)[PASCAL].dsk" size 143360 crc d4692ce1 md5 02a62d5cd35b49c4c93399ce1f985a20 )
+)
+
+game (
+	name "MegaWorks v1.0 (1984)(Megahaus)(Disk 2 of 2)(Dictionary)[PASCAL]"
+	description "MegaWorks v1.0 (1984)(Megahaus)(Disk 2 of 2)(Dictionary)[PASCAL]"
+	rom ( name "MegaWorks v1.0 (1984)(Megahaus)(Disk 2 of 2)(Dictionary)[PASCAL].dsk" size 143360 crc 53aa450f md5 78952573055904a29411f7b14eaf6cd8 )
+)
+
+game (
+	name "Mr. Pixel's Cartoon Kit (1985)(Master Software)[cr The Bushwhacker]"
+	description "Mr. Pixel's Cartoon Kit (1985)(Master Software)[cr The Bushwhacker]"
+	rom ( name "Mr. Pixel's Cartoon Kit (1985)(Master Software)[cr The Bushwhacker].dsk" size 143360 crc 0715fa31 md5 d24b9008eaf4014ef6eb1cf61bf7b41c )
+)
+
+game (
+	name "Netmaster v1.1 (1983)(Zoom Telephonics)"
+	description "Netmaster v1.1 (1983)(Zoom Telephonics)"
+	rom ( name "Netmaster v1.1 (1983)(Zoom Telephonics).dsk" size 143360 crc 103bd9cf md5 cdc715aba82c346a3753e6822428b607 )
+)
+
+game (
+	name "PFS - Database (1982)(Software Publishing Corporation)[PASCAL]"
+	description "PFS - Database (1982)(Software Publishing Corporation)[PASCAL]"
+	rom ( name "PFS - Database (1982)(Software Publishing Corporation)[PASCAL].dsk" size 143360 crc ab135df3 md5 f23cb55e23ff2b7caa4cf6fa82118bf8 )
+)
+
+game (
+	name "Print Shop, The (1984)(Broderbund)"
+	description "Print Shop, The (1984)(Broderbund)"
+	rom ( name "Print Shop, The (1984)(Broderbund).dsk" size 143360 crc 7204e4a7 md5 818113dfb178d053a9894f8a3fcf1185 )
+)
+
+game (
+	name "Print Shop, The (1984)(Broderbund)[a]"
+	description "Print Shop, The (1984)(Broderbund)[a]"
+	rom ( name "Print Shop, The (1984)(Broderbund)[a].dsk" size 143360 crc 8ed93130 md5 119078126a017746d08ef016dea08fce )
+)
+
+game (
+	name "Quick File II (1982)(Apple)[PASCAL]"
+	description "Quick File II (1982)(Apple)[PASCAL]"
+	rom ( name "Quick File II (1982)(Apple)[PASCAL].dsk" size 143360 crc d645bdec md5 41f90b70f39b961e0cfd71331421cd39 )
+)
+
+game (
+	name "Rainbow Painter (19xx)(-)[cr Pirate Trek][b]"
+	description "Rainbow Painter (19xx)(-)[cr Pirate Trek][b]"
+	rom ( name "Rainbow Painter (19xx)(-)[cr Pirate Trek][b].dsk" size 143360 crc 7ff8433f md5 fc403ae6675180429bd1c78261af2268 )
+)
+
+game (
+	name "RDOS 3.3 (1986)(-)[RDOS]"
+	description "RDOS 3.3 (1986)(-)[RDOS]"
+	rom ( name "RDOS 3.3 (1986)(-)[RDOS].dsk" size 143360 crc 1415c7d4 md5 22f1f86400479029e1da841b52b78877 )
+)
+
+game (
+	name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A)"
+	description "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A)"
+	rom ( name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A).dsk" size 143360 crc 55e1fa1c md5 5a5fb35be056096c881eea47bb124f38 )
+)
+
+game (
+	name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A)[cr Mr. Clean]"
+	description "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A)[cr Mr. Clean]"
+	rom ( name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side A)[cr Mr. Clean].dsk" size 143360 crc 8d54f640 md5 a92cf867403fa52a10369c099fe2140a )
+)
+
+game (
+	name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B)"
+	description "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B)"
+	rom ( name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B).dsk" size 143360 crc 831ca3fc md5 57336e8e0f1fb1e6a2967caa61070c32 )
+)
+
+game (
+	name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B)[cr Mr. Clean]"
+	description "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B)[cr Mr. Clean]"
+	rom ( name "Robot Odyssey I v1.0 (1984)(Learning Company)(Side B)[cr Mr. Clean].dsk" size 143360 crc d865f83e md5 4c416010fbab2d81e39174db13ec2bbd )
+)
+
+game (
+	name "Rocky's Boots (1982)(Learning Company)"
+	description "Rocky's Boots (1982)(Learning Company)"
+	rom ( name "Rocky's Boots (1982)(Learning Company).dsk" size 143360 crc 8047545d md5 1c4b183ed850f3d5541959e59cdc7e07 )
+)
+
+game (
+	name "Sky Travel (1988)(Deltron)"
+	description "Sky Travel (1988)(Deltron)"
+	rom ( name "Sky Travel (1988)(Deltron).dsk" size 143360 crc c5874421 md5 af4339d928930bc2c6e0b0a535e8e133 )
+)
+
+game (
+	name "Spellakazam (1993)(DesignWare)"
+	description "Spellakazam (1993)(DesignWare)"
+	rom ( name "Spellakazam (1993)(DesignWare).dsk" size 143360 crc a8ac9614 md5 dc91cc868ee666715d2c84c22165d327 )
+)
+
+game (
+	name "Spellbinder Word Processing System v5.30 (1982)(Lexisoft)[CPM]"
+	description "Spellbinder Word Processing System v5.30 (1982)(Lexisoft)[CPM]"
+	rom ( name "Spellbinder Word Processing System v5.30 (1982)(Lexisoft)[CPM].dsk" size 143360 crc e50e45a4 md5 4b4f011fe9c435ed9bd07a229b35c6e7 )
+)
+
+game (
+	name "Stardisk 1 (1987)(Ferg Brand)[CPM]"
+	description "Stardisk 1 (1987)(Ferg Brand)[CPM]"
+	rom ( name "Stardisk 1 (1987)(Ferg Brand)[CPM].dsk" size 143360 crc 6a77618b md5 703d2a79807c98537698966b0b75ade3 )
+)
+
+game (
+	name "Textpro Word Processor (1985)(Cosmi)"
+	description "Textpro Word Processor (1985)(Cosmi)"
+	rom ( name "Textpro Word Processor (1985)(Cosmi).dsk" size 143360 crc 342e7730 md5 03d79d53ad5e1d656469fa58d6b6cd51 )
+)
+
+game (
+	name "Think Tank v1.001 (1983)(-)(Disk 1 of 2)[PASCAL]"
+	description "Think Tank v1.001 (1983)(-)(Disk 1 of 2)[PASCAL]"
+	rom ( name "Think Tank v1.001 (1983)(-)(Disk 1 of 2)[PASCAL].dsk" size 143360 crc d61ce2bf md5 6a3a3a1dc930abad5d2b9372b627a885 )
+)
+
+game (
+	name "Think Tank v1.001 (1983)(-)(Disk 2 of 2)[PASCAL]"
+	description "Think Tank v1.001 (1983)(-)(Disk 2 of 2)[PASCAL]"
+	rom ( name "Think Tank v1.001 (1983)(-)(Disk 2 of 2)[PASCAL].dsk" size 143360 crc 9a21c03f md5 28432d6972908f69f4c6c7c580d73f8e )
+)
+
+game (
+	name "Time Is Money (19xx)(-)[no boot]"
+	description "Time Is Money (19xx)(-)[no boot]"
+	rom ( name "Time Is Money (19xx)(-)[no boot].dsk" size 143360 crc e6def058 md5 2214b693e774b5a39535908fe17e05df )
+)
+
+game (
+	name "Typewriter (1985)(Software Publishing Corporation)[PASCAL]"
+	description "Typewriter (1985)(Software Publishing Corporation)[PASCAL]"
+	rom ( name "Typewriter (1985)(Software Publishing Corporation)[PASCAL].dsk" size 143360 crc f8d7a155 md5 b8b1578185184c14392ecc01f2cac348 )
+)
+
+game (
+	name "XPS Diagnostic (19xx)(XPS)"
+	description "XPS Diagnostic (19xx)(XPS)"
+	rom ( name "XPS Diagnostic (19xx)(XPS).dsk" size 143360 crc 9600b939 md5 29e06813bf269575de7234ccf4689ea9 )
+)
+
+game (
+	name "XPS Diagnostic v1.05 (1983)(XPS)"
+	description "XPS Diagnostic v1.05 (1983)(XPS)"
+	rom ( name "XPS Diagnostic v1.05 (1983)(XPS).dsk" size 143360 crc 00380153 md5 a5e7cd69b1b3352cbb74568e0c729e0b )
+)
+
+game (
+	name "X-Term v2.2 (19xx)(-)[b]"
+	description "X-Term v2.2 (19xx)(-)[b]"
+	rom ( name "X-Term v2.2 (19xx)(-)[b].dsk" size 143312 crc 52ae6cbe md5 d144933cff24d6b560b9ea19306f4580 )
+)
+
+game (
+	name "ZZZ-UNK-Chatmau (19xx)(-)(Side A)(fr)[b][PASCAL]"
+	description "ZZZ-UNK-Chatmau (19xx)(-)(Side A)(fr)[b][PASCAL]"
+	rom ( name "ZZZ-UNK-Chatmau (19xx)(-)(Side A)(fr)[b][PASCAL].dsk" size 143360 crc 3440e451 md5 dee3ca0b02ec2ff43618884b60443234 )
+)
+
+game (
+	name "ZZZ-UNK-Cp-m v2.20 (1980)(-)[Z80][CPM]"
+	description "ZZZ-UNK-Cp-m v2.20 (1980)(-)[Z80][CPM]"
+	rom ( name "ZZZ-UNK-Cp-m v2.20 (1980)(-)[Z80][CPM].dsk" size 143360 crc 5020bf8d md5 1d40d6888305f6a3e59cfbfa99f03d6c )
+)
+
+game (
+	name "ZZZ-UNK-Cp-m v2.23 (1982)(-)[Z80][CPM]"
+	description "ZZZ-UNK-Cp-m v2.23 (1982)(-)[Z80][CPM]"
+	rom ( name "ZZZ-UNK-Cp-m v2.23 (1982)(-)[Z80][CPM].dsk" size 143360 crc dba3f8be md5 18a6f7b191712fcfb1f8a2e30540ad2e )
+)
+
+game (
+	name "ZZZ-UNK-Cpsmultifunctionpasc (19xx)(-)[nb][PASCAL]"
+	description "ZZZ-UNK-Cpsmultifunctionpasc (19xx)(-)[nb][PASCAL]"
+	rom ( name "ZZZ-UNK-Cpsmultifunctionpasc (19xx)(-)[nb][PASCAL].dsk" size 143360 crc 4ef8ef0e md5 62f5a31a513da9c7c2a54a2b1ec70c9b )
+)
+
+game (
+	name "ZZZ-UNK-Cpsmultifunctionz80 (19xx)(-)[nb][CPM]"
+	description "ZZZ-UNK-Cpsmultifunctionz80 (19xx)(-)[nb][CPM]"
+	rom ( name "ZZZ-UNK-Cpsmultifunctionz80 (19xx)(-)[nb][CPM].dsk" size 143360 crc 935a8c25 md5 ab11febfc6f0704ac20702781a3fb170 )
+)
+
+game (
+	name "ZZZ-UNK-Cue C13_gm Sunraycer Disk 1 (19xx)(-)"
+	description "ZZZ-UNK-Cue C13_gm Sunraycer Disk 1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Cue C13_gm Sunraycer Disk 1 (19xx)(-).dsk" size 143360 crc f4152522 md5 cc44e59cf4e341b9d74a8d31283f1aaa )
+)
+
+game (
+	name "ZZZ-UNK-Cue C14_gm Sunraycer Disk 2 (19xx)(-)"
+	description "ZZZ-UNK-Cue C14_gm Sunraycer Disk 2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Cue C14_gm Sunraycer Disk 2 (19xx)(-).dsk" size 143360 crc 9d882de1 md5 db00ab59b45db66eda280d4c6bfc57f8 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utility Disk 1 [o]"
+	description "ZZZ-UNK-Eamon Utility Disk 1 [o]"
+	rom ( name "ZZZ-UNK-Eamon Utility Disk 1 [o].dsk" size 144254 crc ccbba625 md5 70e5adf22786ddd71af3782fa4d97f3e )
+)
+
+game (
+	name "ZZZ-UNK-Locksmith_v6.0_library_1 (19xx)(-)"
+	description "ZZZ-UNK-Locksmith_v6.0_library_1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Locksmith_v6.0_library_1 (19xx)(-).dsk" size 143360 crc 3778f110 md5 38887b6bff412cd0d88001b0575f3100 )
+)
+
+game (
+	name "ZZZ-UNK-Locksmith_v6.0_library_1d (19xx)(-)"
+	description "ZZZ-UNK-Locksmith_v6.0_library_1d (19xx)(-)"
+	rom ( name "ZZZ-UNK-Locksmith_v6.0_library_1d (19xx)(-).dsk" size 143360 crc dc090c0c md5 0c5ab706e2ec5c3e960fcbde67c4f6c9 )
+)
+
+game (
+	name "ZZZ-UNK-mot-a [nb]"
+	description "ZZZ-UNK-mot-a [nb]"
+	rom ( name "ZZZ-UNK-mot-a [nb].do" size 143354 crc 404257b9 md5 2751279396c044496ec9d86ce6f190e3 )
+)
+
+game (
+	name "ZZZ-UNK-Newsroom_clip_art1 (19xx)(-)"
+	description "ZZZ-UNK-Newsroom_clip_art1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Newsroom_clip_art1 (19xx)(-).dsk" size 143360 crc 6c6529dd md5 8d71fa312faa9c4be54cc124524de064 )
+)
+
+game (
+	name "ZZZ-UNK-Newsroom_clip_art2 (19xx)(-)"
+	description "ZZZ-UNK-Newsroom_clip_art2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Newsroom_clip_art2 (19xx)(-).dsk" size 143360 crc 99742901 md5 5e18b5477d0ead4c6a4d63772f6b50e0 )
+)
+
+game (
+	name "ZZZ-UNK-Pascal Profile Manager1 (19xx)(-)[PASCAL]"
+	description "ZZZ-UNK-Pascal Profile Manager1 (19xx)(-)[PASCAL]"
+	rom ( name "ZZZ-UNK-Pascal Profile Manager1 (19xx)(-)[PASCAL].dsk" size 143360 crc bc5aa035 md5 8e695845acc6a4bf4f3a147f41c21490 )
+)
+
+game (
+	name "ZZZ-UNK-Pascal Profile Manager2 (19xx)(-)[PASCAL]"
+	description "ZZZ-UNK-Pascal Profile Manager2 (19xx)(-)[PASCAL]"
+	rom ( name "ZZZ-UNK-Pascal Profile Manager2 (19xx)(-)[PASCAL].dsk" size 143360 crc 36f92715 md5 93a1e2c570028181eccd91ff320c7596 )
+)
+
+game (
+	name "ZZZ-UNK-Printshop Graphics O6b (19xx)(-)"
+	description "ZZZ-UNK-Printshop Graphics O6b (19xx)(-)"
+	rom ( name "ZZZ-UNK-Printshop Graphics O6b (19xx)(-).dsk" size 143360 crc d4d91caa md5 f64ab88bf6599a5dc8dd6c94604f821c )
+)
+
+game (
+	name "ZZZ-UNK-Sensible Speller Dictionary (d1)"
+	description "ZZZ-UNK-Sensible Speller Dictionary (d1)"
+	rom ( name "ZZZ-UNK-Sensible Speller Dictionary (d1).dsk" size 143360 crc 17b0807d md5 8b607825857f8bcbf9b3d8ab663acfb4 )
+)
+
+game (
+	name "ZZZ-UNK-Sensible Speller Dictionary (d2)"
+	description "ZZZ-UNK-Sensible Speller Dictionary (d2)"
+	rom ( name "ZZZ-UNK-Sensible Speller Dictionary (d2).dsk" size 143360 crc a730b5ae md5 754d88a2e5d910130a67c94f3c556533 )
+)
+
+game (
+	name "ZZZ-UNK-Typehype2 (19xx)(-)"
+	description "ZZZ-UNK-Typehype2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Typehype2 (19xx)(-).dsk" size 143360 crc 7a8746c0 md5 735e817c7824954c73923173e6b6a2ea )
+)
+
+game (
+	name "ZZZ-UNK-Universal_file_converter (19xx)(-)[PASCAL]"
+	description "ZZZ-UNK-Universal_file_converter (19xx)(-)[PASCAL]"
+	rom ( name "ZZZ-UNK-Universal_file_converter (19xx)(-)[PASCAL].dsk" size 143360 crc 50bb7dbe md5 d7fb18dde848b59a9af6646eab2b7dbe )
+)
+
+game (
+	name "ZZZ-UNK-Word Star Install v3.0 (1983)(Micropro)[CPM]"
+	description "ZZZ-UNK-Word Star Install v3.0 (1983)(Micropro)[CPM]"
+	rom ( name "ZZZ-UNK-Word Star Install v3.0 (1983)(Micropro)[CPM].dsk" size 143360 crc 633600a3 md5 d0c11ed8a467290563da591739c7939f )
+)
+
+game (
+	name "ZZZ-UNK-Word Star v3.01 (1981)(Micropro)[CPM]"
+	description "ZZZ-UNK-Word Star v3.01 (1981)(Micropro)[CPM]"
+	rom ( name "ZZZ-UNK-Word Star v3.01 (1981)(Micropro)[CPM].dsk" size 143360 crc 09859b06 md5 4afa3705bce4a5715a0135906eb4ccde )
+)
+
+game (
+	name "ZZZ-UNK-Word Star v3.02b (1981)(Micropro)[CPM]"
+	description "ZZZ-UNK-Word Star v3.02b (1981)(Micropro)[CPM]"
+	rom ( name "ZZZ-UNK-Word Star v3.02b (1981)(Micropro)[CPM].dsk" size 143360 crc 5cdd3211 md5 f8aaa0dc23bc1b47c7259d8e86174bc7 )
+)

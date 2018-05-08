@@ -1,0 +1,69 @@
+clrmamepro (
+	name "RM Nimbus PC - Applications"
+	description "RM Nimbus PC - Applications (TOSEC-v2009-09-20)"
+	category "RM Nimbus PC - Applications"
+	version 2009-09-20
+	author "Cid - Cassiel"
+)
+
+game (
+	name "DOSLOGON v2.00k (1993)(RM)(GB)"
+	description "DOSLOGON v2.00k (1993)(RM)(GB)"
+	rom ( name 33221.DOC size 53356 crc 4c14a469 md5 f5ce5853f92606ce24c61ad9b3ec3d2d )
+	rom ( name DOSLOGON.EXE size 92156 crc 85ed4581 md5 1f56e20aee6a905f391a0faef5abaee9 )
+	rom ( name README.TXT size 241 crc 55bbc5da md5 dc393e5b5cdab8c2c54085463200c92e )
+)
+
+game (
+	name "RM BBC IO Port Driver v1.00c (1994)(RM)(GB)"
+	description "RM BBC IO Port Driver v1.00c (1994)(RM)(GB)"
+	rom ( name BBCBASIC.EXE size 23424 crc 49b96dff md5 16993ac6ee310db33695ea87eee588ba )
+	rom ( name BBCLOAD.EXE size 34684 crc a379c0e5 md5 4a97cf1153cfe07a2615a2ec8d815d19 )
+	rom ( name BBCSFV.EXE size 35040 crc 966c53f2 md5 efc9e198cbe6739a4417594c4e3e21db )
+	rom ( name GETBASE.EXE size 2356 crc 2cfedabd md5 5f9ecedb39bde01a0d92df5825c8a3a5 )
+	rom ( name RMBBCIO.SYS size 1303 crc 30734fb9 md5 29f488fe7af24d10aa107f474813241a )
+)
+
+game (
+	name "RM Nimbus BBC BASIC v1.10a (1987)(Russell, R.T.)(GB)"
+	description "RM Nimbus BBC BASIC v1.10a (1987)(Russell, R.T.)(GB)"
+	rom ( name BBCBASIC.EXE size 23424 crc 49b96dff md5 16993ac6ee310db33695ea87eee588ba )
+	rom ( name BBCLOAD.EXE size 34684 crc a379c0e5 md5 4a97cf1153cfe07a2615a2ec8d815d19 )
+	rom ( name CHKLIST.MS size 54 crc 0a8d17f2 md5 560003738d0a7b1497bebbcaf1443986 )
+	rom ( name KSCOPE.BBC size 628 crc b0c67c4e md5 1b0b96621dac26558b17234b0f7fcd68 )
+	rom ( name MERGE.BBC size 675 crc 4c2de88f md5 d90509847290702075bcd2c4fd844e43 )
+	rom ( name PERSIAN.BBC size 318 crc c3800d08 md5 4ea9c56cb97fa25f4ba3d5e94a9070ff )
+	rom ( name POLYGON.BBC size 660 crc ea22d3a4 md5 95d4b4f92a94099bc2dc5f7b7390503e )
+	rom ( name PRIMES.BBC size 255 crc ad37646e md5 e22fa3c14f68a71b98709fe8b77f1769 )
+	rom ( name TS5.CMT size 650 crc b3da0bd7 md5 94aee3374081be383eeccdcb326e90cf )
+)
+
+game (
+	name "RM Nimbus PC-186 IBM Mode Support v3.00 (1992)(RM)(GB)"
+	description "RM Nimbus PC-186 IBM Mode Support v3.00 (1992)(RM)(GB)"
+	rom ( name SETPC3.EXE size 65018 crc 23feb1ea md5 f1cb5cbc9d371ac30e675ae31142a509 )
+)
+
+game (
+	name "RM Parallel Printer Driver v1.00l (1990)(RM)(GB)"
+	description "RM Parallel Printer Driver v1.00l (1990)(RM)(GB)"
+	rom ( name PARALLEL.SYS size 2521 crc 828ac828 md5 acf9015cc4b777a583b2e859c867d1ee )
+)
+
+game (
+	name "RMLOGON v1.00b (1992)(RM)(GB)"
+	description "RMLOGON v1.00b (1992)(RM)(GB)"
+	rom ( name RMLOGON.COM size 3836 crc 20be56eb md5 f32cb1157a8666c53efc9629e8029160 )
+)
+
+game (
+	name "RUNPC186 v1.05 (1992)(RM)(GB)"
+	description "RUNPC186 v1.05 (1992)(RM)(GB)"
+	rom ( name BARRELS.EXE size 31104 crc 72d5332c md5 92f23e56b886bc95868c55bb129f76c9 )
+	rom ( name RUNPC186.COM size 4780 crc 37912b19 md5 eb66d848f1aee212aa1922e69a6eabfb )
+	rom ( name RUNPC186.EXE size 76184 crc c1fa64a4 md5 b8fdd9124f17f9aaa75ef9c419bb470d )
+	rom ( name RUNPC186.ORG size 76184 crc 5bdc15a0 md5 d203696b6293a1f1de73ecf69a32c261 )
+	rom ( name RUNPC186.TXT size 1086 crc 29675372 md5 a0b895badef4232591807c1da9cc6aba )
+	rom ( name WORM.EXE size 14096 crc 317645e5 md5 ba92915082d15ef518ee019809b5df30 )
+)
+

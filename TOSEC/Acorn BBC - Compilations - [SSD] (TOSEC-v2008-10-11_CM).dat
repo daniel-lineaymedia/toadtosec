@@ -1,0 +1,2197 @@
+clrmamepro (
+	name "Acorn BBC - Compilations - [SSD]"
+	description "Acorn BBC - Compilations - [SSD] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Compilations - [SSD]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "10 of the Best Games (19xx)(Database)[h TSTH]"
+	description "10 of the Best Games (19xx)(Database)[h TSTH]"
+	rom ( name "10 of the Best Games (19xx)(Database)[h TSTH].ssd" size 111104 crc 8e13fe5f md5 aecf78fb39043648b67d8d3cc23f098b )
+)
+
+game (
+	name "8-Bit Software - Issue 05 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 05 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 05 (19xx)(Webster, Duncan).ssd" size 204800 crc 158bf805 md5 c78dd5f209073ac39528e01fe67e2636 )
+)
+
+game (
+	name "8-Bit Software - Issue 06 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 06 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 06 (19xx)(Webster, Duncan).ssd" size 204800 crc c834045c md5 cb721e0832c656ab8ae4804c25d49f2a )
+)
+
+game (
+	name "8-Bit Software - Issue 07 (19xx)(Webster, Duncan)"
+	description "8-Bit Software - Issue 07 (19xx)(Webster, Duncan)"
+	rom ( name "8-Bit Software - Issue 07 (19xx)(Webster, Duncan).ssd" size 204800 crc 394e254a md5 fd9ff1e4638f5aab07cc78c241f4ed0f )
+)
+
+game (
+	name "8-Bit Software Compilation (19xx)(8-Bit)"
+	description "8-Bit Software Compilation (19xx)(8-Bit)"
+	rom ( name "8-Bit Software Compilation (19xx)(8-Bit).ssd" size 204800 crc 0e8a26cf md5 36b77731b34a7366f81621e6137607eb )
+)
+
+game (
+	name "8-Bit Software Info & Utilities (1997)(Richardson, C.)"
+	description "8-Bit Software Info & Utilities (1997)(Richardson, C.)"
+	rom ( name "8-Bit Software Info & Utilities (1997)(Richardson, C.).ssd" size 204800 crc 7c5a513b md5 02f1a6deeebe9e426d763d67b630797e )
+)
+
+game (
+	name "Acorn BBC ROMs (19xx)(-)"
+	description "Acorn BBC ROMs (19xx)(-)"
+	rom ( name "Acorn BBC ROMs (19xx)(-).ssd" size 56832 crc eea882f2 md5 4444f94dd49c7cc2fc438ae6ad896880 )
+)
+
+game (
+	name "Acornsoft Arcade Games (19xx)(-)"
+	description "Acornsoft Arcade Games (19xx)(-)"
+	rom ( name "Acornsoft Arcade Games (19xx)(-).ssd" size 21248 crc db6d26d7 md5 076f0c280857231cada118167b828f59 )
+)
+
+game (
+	name "Acornsoft Games 1 (19xx)(-)(Side 0)"
+	description "Acornsoft Games 1 (19xx)(-)(Side 0)"
+	rom ( name "Acornsoft Games 1 (19xx)(-)(Side 0).ssd" size 204800 crc 1f5aec73 md5 6c0b7028a8d76f3eee3fe34aa66cd1c9 )
+)
+
+game (
+	name "Acornsoft Games 1 (19xx)(-)(Side 1)"
+	description "Acornsoft Games 1 (19xx)(-)(Side 1)"
+	rom ( name "Acornsoft Games 1 (19xx)(-)(Side 1).ssd" size 204800 crc cb83c741 md5 e8d5918a0ee007c500160148a5bc7d21 )
+)
+
+game (
+	name "Acornsoft Games 2 (19xx)(-)(Side 0)"
+	description "Acornsoft Games 2 (19xx)(-)(Side 0)"
+	rom ( name "Acornsoft Games 2 (19xx)(-)(Side 0).ssd" size 204800 crc 4edd559f md5 9821d486caf30b7bfac6ec338283e7e6 )
+)
+
+game (
+	name "Acornsoft Games 2 (19xx)(-)(Side 1)"
+	description "Acornsoft Games 2 (19xx)(-)(Side 1)"
+	rom ( name "Acornsoft Games 2 (19xx)(-)(Side 1).ssd" size 204800 crc 778c075d md5 f03fd0d17a7c61434adf57af4ef40639 )
+)
+
+game (
+	name "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 0)"
+	description "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 0)"
+	rom ( name "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 0).ssd" size 204800 crc 83ea83d1 md5 9eec3738500e39723ca889a17a0b2d13 )
+)
+
+game (
+	name "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 1)"
+	description "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 1)"
+	rom ( name "Acornsoft, Alligata & Atarisoft Games (19xx)(-)(Side 1).ssd" size 204800 crc 3a7e946a md5 15cbe0244ab5f0f8f63d0b7e677a585a )
+)
+
+game (
+	name "Adrian Mole Menu (1987)(MacAdam, R.)[Req Ice-Box]"
+	description "Adrian Mole Menu (1987)(MacAdam, R.)[Req Ice-Box]"
+	rom ( name "Adrian Mole Menu (1987)(MacAdam, R.)[Req Ice-Box].ssd" size 204800 crc 6dc0ac3d md5 1db47fbd3a286c1f0808a3145f4dbecf )
+)
+
+game (
+	name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)"
+	description "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)"
+	rom ( name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.).ssd" size 128256 crc fa9bc4c6 md5 3920021906a25bb651d7b3ca46ee6bcf )
+)
+
+game (
+	name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[a]"
+	description "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[a]"
+	rom ( name "Adult Basic Education Disks 34, 36 & Talking Disc (19xx)(Davy, P.)[a].ssd" size 128256 crc 60d293dc md5 7359a4807c46ba805c0208e8445aeee5 )
+)
+
+game (
+	name "Adventure Games (19xx)(8-Bit)"
+	description "Adventure Games (19xx)(8-Bit)"
+	rom ( name "Adventure Games (19xx)(8-Bit).ssd" size 204800 crc 304f679f md5 db7ea6d18d07f5ec71cb8d0812a0c01f )
+)
+
+game (
+	name "Alligata Games (19xx)(-)(Side 0)"
+	description "Alligata Games (19xx)(-)(Side 0)"
+	rom ( name "Alligata Games (19xx)(-)(Side 0).ssd" size 204800 crc 636fadaa md5 214cdad6001d93f551214df859303967 )
+)
+
+game (
+	name "Alligata Games (19xx)(-)(Side 1)"
+	description "Alligata Games (19xx)(-)(Side 1)"
+	rom ( name "Alligata Games (19xx)(-)(Side 1).ssd" size 204800 crc b5d21cf5 md5 54ee55a5f543caf2caf5dd3090ee8d66 )
+)
+
+game (
+	name "Alligata Games (19xx)(8-Bit)"
+	description "Alligata Games (19xx)(8-Bit)"
+	rom ( name "Alligata Games (19xx)(8-Bit).ssd" size 204800 crc 66a1fdfe md5 5bef963fd1d9b99c92b5cb2e96622536 )
+)
+
+game (
+	name "Amateur Radio (19xx)(-)"
+	description "Amateur Radio (19xx)(-)"
+	rom ( name "Amateur Radio (19xx)(-).ssd" size 204800 crc c3e128d3 md5 c60ac086f71703d460acdd83a1a54b46 )
+)
+
+game (
+	name "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 0)[FONTCON]"
+	description "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 0)[FONTCON]"
+	rom ( name "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 0)[FONTCON].ssd" size 204800 crc 96157138 md5 c0c32405d6e499b235aae817bb88e204 )
+)
+
+game (
+	name "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 1)"
+	description "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 1)"
+	rom ( name "AMX Extras - Font Convertor (19xx)(Tecnation)(Side 1).ssd" size 204800 crc 058041e9 md5 097f0ea854a58e945b93a3728ee82848 )
+)
+
+game (
+	name "AMX Fonts 2 (19xx)(-)(Side 0)"
+	description "AMX Fonts 2 (19xx)(-)(Side 0)"
+	rom ( name "AMX Fonts 2 (19xx)(-)(Side 0).ssd" size 204800 crc e4e5f612 md5 3084714054e21b3fa508957a948dfbd6 )
+)
+
+game (
+	name "AMX Fonts 2 (19xx)(-)(Side 1)"
+	description "AMX Fonts 2 (19xx)(-)(Side 1)"
+	rom ( name "AMX Fonts 2 (19xx)(-)(Side 1).ssd" size 204800 crc 80b2c9da md5 cffdac9f15f3210d321d391f9b0cac04 )
+)
+
+game (
+	name "AMX Fonts 3 (19xx)(-)(Side 0)"
+	description "AMX Fonts 3 (19xx)(-)(Side 0)"
+	rom ( name "AMX Fonts 3 (19xx)(-)(Side 0).ssd" size 204800 crc eb352880 md5 75b1ee68f27a5fbfb30ffcfbe4cf7827 )
+)
+
+game (
+	name "AMX Fonts 3 (19xx)(-)(Side 1)"
+	description "AMX Fonts 3 (19xx)(-)(Side 1)"
+	rom ( name "AMX Fonts 3 (19xx)(-)(Side 1).ssd" size 204800 crc e9d217b3 md5 af42c2454546d7beddf46bcf4c578d3e )
+)
+
+game (
+	name "AMX Pagemaker Extras (1986)(Tecnation)"
+	description "AMX Pagemaker Extras (1986)(Tecnation)"
+	rom ( name "AMX Pagemaker Extras (1986)(Tecnation).ssd" size 204800 crc ddf1480d md5 fad50a58a33be57a759ace080947ad95 )
+)
+
+game (
+	name "Artist Utilities (19xx)(-)[b]"
+	description "Artist Utilities (19xx)(-)[b]"
+	rom ( name "Artist Utilities (19xx)(-)[b].ssd" size 90368 crc 0051dfc6 md5 90d07d2c3369a7a40635f093bc6f958f )
+)
+
+game (
+	name "ASCII & Disc Utilities (19xx)(-)[h 8-Bit]"
+	description "ASCII & Disc Utilities (19xx)(-)[h 8-Bit]"
+	rom ( name "ASCII & Disc Utilities (19xx)(-)[h 8-Bit].ssd" size 204800 crc 46f9a0a8 md5 24774506e312f17d152bc3ed3fa6ed45 )
+)
+
+game (
+	name "Audiogenic Games (19xx)(-)(Side 0)"
+	description "Audiogenic Games (19xx)(-)(Side 0)"
+	rom ( name "Audiogenic Games (19xx)(-)(Side 0).ssd" size 204800 crc e6b697e0 md5 6a2caee51984d29eb5aecb91f022b57d )
+)
+
+game (
+	name "Audiogenic Games (19xx)(-)(Side 1)"
+	description "Audiogenic Games (19xx)(-)(Side 1)"
+	rom ( name "Audiogenic Games (19xx)(-)(Side 1).ssd" size 204800 crc b23e3236 md5 a117ee05dfc2d0075be31445b240583d )
+)
+
+game (
+	name "Bazzasoft Compilation (19xx)(Bazzasoft)[h 8-Bit]"
+	description "Bazzasoft Compilation (19xx)(Bazzasoft)[h 8-Bit]"
+	rom ( name "Bazzasoft Compilation (19xx)(Bazzasoft)[h 8-Bit].ssd" size 204800 crc e97b7f0b md5 dba552bb94d87e39081d00f227cec57e )
+)
+
+game (
+	name "BBC Bonanza (1987)(Audiogenic)(Side 1 of 2)[h TSTH]"
+	description "BBC Bonanza (1987)(Audiogenic)(Side 1 of 2)[h TSTH]"
+	rom ( name "BBC Bonanza (1987)(Audiogenic)(Side 1 of 2)[h TSTH].ssd" size 84992 crc 71430bd4 md5 0f9d13263a07d01226882e9d2f639b50 )
+)
+
+game (
+	name "BBC Bonanza (1987)(Audiogenic)(Side 2 of 2)[h TSTH]"
+	description "BBC Bonanza (1987)(Audiogenic)(Side 2 of 2)[h TSTH]"
+	rom ( name "BBC Bonanza (1987)(Audiogenic)(Side 2 of 2)[h TSTH].ssd" size 64512 crc 9b686175 md5 29a9413b78d8d6f61e5211048e27e5fd )
+)
+
+game (
+	name "BBC Demos Disk (19xx)(-)"
+	description "BBC Demos Disk (19xx)(-)"
+	rom ( name "BBC Demos Disk (19xx)(-).ssd" size 52480 crc cdf3bf92 md5 07d49647f110b33321891a795051789d )
+)
+
+game (
+	name "BBC Demos Disk (19xx)(-)[a]"
+	description "BBC Demos Disk (19xx)(-)[a]"
+	rom ( name "BBC Demos Disk (19xx)(-)[a].ssd" size 52480 crc fa1f23cc md5 bc738b513fd3ce54853701f3e12a477f )
+)
+
+game (
+	name "BBC PD Disk 132 - Disk Duplicator III (19xx)(-)"
+	description "BBC PD Disk 132 - Disk Duplicator III (19xx)(-)"
+	rom ( name "BBC PD Disk 132 - Disk Duplicator III (19xx)(-).ssd" size 204800 crc ddbfae40 md5 e138e6e90dcfa9b264b46f3e10d39af4 )
+)
+
+game (
+	name "BBC PD Disk 155 - A to Z of Game Cheats (1993)(SmylieSoft)"
+	description "BBC PD Disk 155 - A to Z of Game Cheats (1993)(SmylieSoft)"
+	rom ( name "BBC PD Disk 155 - A to Z of Game Cheats (1993)(SmylieSoft).ssd" size 204800 crc 304c5da9 md5 8e97c43d28cbb72b1035b5145adb87bd )
+)
+
+game (
+	name "Beebug Demonstration Disk (19xx)(Beebug)"
+	description "Beebug Demonstration Disk (19xx)(Beebug)"
+	rom ( name "Beebug Demonstration Disk (19xx)(Beebug).ssd" size 204800 crc 07c600d5 md5 7d92e3c893271b8dd2d4015759d9666b )
+)
+
+game (
+	name "Beebug Programs (19xx)(-)(Side 0)"
+	description "Beebug Programs (19xx)(-)(Side 0)"
+	rom ( name "Beebug Programs (19xx)(-)(Side 0).ssd" size 204800 crc b348fe0f md5 bc40c9b1c361a0d8df6d4160bbf8c63e )
+)
+
+game (
+	name "Beebug Programs (19xx)(-)(Side 1)"
+	description "Beebug Programs (19xx)(-)(Side 1)"
+	rom ( name "Beebug Programs (19xx)(-)(Side 1).ssd" size 204800 crc e3b8634d md5 d4a420b623c5562debac87634877d589 )
+)
+
+game (
+	name "Best of Beebug - 10th Year Anniversary (19xx)(Beebug)[MENU]"
+	description "Best of Beebug - 10th Year Anniversary (19xx)(Beebug)[MENU]"
+	rom ( name "Best of Beebug - 10th Year Anniversary (19xx)(Beebug)[MENU].ssd" size 204800 crc 5a4a9646 md5 f7aaf493464baf91d1606199bc2fe6ba )
+)
+
+game (
+	name "Best of Beebug - Applications (19xx)(Beebug)[MENU]"
+	description "Best of Beebug - Applications (19xx)(Beebug)[MENU]"
+	rom ( name "Best of Beebug - Applications (19xx)(Beebug)[MENU].ssd" size 204800 crc 31c160d1 md5 6cef5ab8473a14f3586cb254ac66b0e6 )
+)
+
+game (
+	name "Best of Beebug - Applications II (19xx)(Beebug)"
+	description "Best of Beebug - Applications II (19xx)(Beebug)"
+	rom ( name "Best of Beebug - Applications II (19xx)(Beebug).ssd" size 204800 crc 78e924a2 md5 bdeb07da96ee0e1a0469a65c5de201a6 )
+)
+
+game (
+	name "Best of Beebug - Arcade Games (19xx)(Beebug)[MENU]"
+	description "Best of Beebug - Arcade Games (19xx)(Beebug)[MENU]"
+	rom ( name "Best of Beebug - Arcade Games (19xx)(Beebug)[MENU].ssd" size 204800 crc 3bd3fd4c md5 81a5df62a0f94a072d579a1cdfd53533 )
+)
+
+game (
+	name "Best of Beebug - Card & Board Games (19xx)(Beebug)[MENU]"
+	description "Best of Beebug - Card & Board Games (19xx)(Beebug)[MENU]"
+	rom ( name "Best of Beebug - Card & Board Games (19xx)(Beebug)[MENU].ssd" size 204800 crc 1d13c226 md5 1cbddcdf0ad7e094cc609f903d5f869b )
+)
+
+game (
+	name "Best of Beebug - Games Compilation (19xx)(Beebug)"
+	description "Best of Beebug - Games Compilation (19xx)(Beebug)"
+	rom ( name "Best of Beebug - Games Compilation (19xx)(Beebug).ssd" size 204800 crc 891c46f5 md5 4226bd587c8e9c0dee2c04584fbbba06 )
+)
+
+game (
+	name "Best of Beebug - General Utilities (19xx)(Beebug)[MENU]"
+	description "Best of Beebug - General Utilities (19xx)(Beebug)[MENU]"
+	rom ( name "Best of Beebug - General Utilities (19xx)(Beebug)[MENU].ssd" size 204800 crc a757d983 md5 8e378528013a1e1871d31f2e0562752f )
+)
+
+game (
+	name "Best of Beebug - Utility Compilation (19xx)(Beebug)"
+	description "Best of Beebug - Utility Compilation (19xx)(Beebug)"
+	rom ( name "Best of Beebug - Utility Compilation (19xx)(Beebug).ssd" size 204800 crc cd6b2be0 md5 87a33841c6c99c07660be07b9cb92172 )
+)
+
+game (
+	name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 1 of 3)[h TSTH]"
+	description "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 1 of 3)[h TSTH]"
+	rom ( name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 1 of 3)[h TSTH].ssd" size 90880 crc 0c8878fe md5 9d8da25d8d2cccb4c95c2b2b8476c70d )
+)
+
+game (
+	name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 2 of 3)[h TSTH]"
+	description "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 2 of 3)[h TSTH]"
+	rom ( name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 2 of 3)[h TSTH].ssd" size 67584 crc d2e910a6 md5 2f786e26185cce85e265e7a3bb948af4 )
+)
+
+game (
+	name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 3 of 3)[h TSTH]"
+	description "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 3 of 3)[h TSTH]"
+	rom ( name "Blue Ribbon Software Games (1985)(Blue Ribbon)(Disk 3 of 3)[h TSTH].ssd" size 73728 crc ae52b9b9 md5 98b380d09acc50f71091b4b6aa8ed705 )
+)
+
+game (
+	name "Bug Byte Games 1 (19xx)(-)(Side 0)"
+	description "Bug Byte Games 1 (19xx)(-)(Side 0)"
+	rom ( name "Bug Byte Games 1 (19xx)(-)(Side 0).ssd" size 204800 crc 0f8f820f md5 5833391f7a31d85967ff110cf4dfecff )
+)
+
+game (
+	name "Bug Byte Games 1 (19xx)(-)(Side 1)"
+	description "Bug Byte Games 1 (19xx)(-)(Side 1)"
+	rom ( name "Bug Byte Games 1 (19xx)(-)(Side 1).ssd" size 204800 crc fbcedaa6 md5 e6e907004ed3632a903ebce86ca0818d )
+)
+
+game (
+	name "Bug Byte Games 2 (19xx)(-)(Side 0)"
+	description "Bug Byte Games 2 (19xx)(-)(Side 0)"
+	rom ( name "Bug Byte Games 2 (19xx)(-)(Side 0).ssd" size 204800 crc d0e4f34a md5 f30b74472866461c4630897567b2cf50 )
+)
+
+game (
+	name "Bug Byte Games 2 (19xx)(-)(Side 1)"
+	description "Bug Byte Games 2 (19xx)(-)(Side 1)"
+	rom ( name "Bug Byte Games 2 (19xx)(-)(Side 1).ssd" size 204800 crc 15a08464 md5 665db6ceb04accc5602546dd9db46470 )
+)
+
+game (
+	name "C Tutorials (19xx)(-)[h 8-Bit]"
+	description "C Tutorials (19xx)(-)[h 8-Bit]"
+	rom ( name "C Tutorials (19xx)(-)[h 8-Bit].ssd" size 204800 crc 1b8b8faf md5 aa59f0df7ab03948766ab54763be39c4 )
+)
+
+game (
+	name "Colour Printer Dump Utilities (19xx)(8-Bit)"
+	description "Colour Printer Dump Utilities (19xx)(8-Bit)"
+	rom ( name "Colour Printer Dump Utilities (19xx)(8-Bit).ssd" size 204800 crc d2802aeb md5 439518af0259f4ea23b16046b25fc40b )
+)
+
+game (
+	name "Complete Home Entertainment Centre, The (19xx)(-)[h TSTH]"
+	description "Complete Home Entertainment Centre, The (19xx)(-)[h TSTH]"
+	rom ( name "Complete Home Entertainment Centre, The (19xx)(-)[h TSTH].ssd" size 162560 crc 362611ad md5 a428ab7363113e11700e79097c3af2e3 )
+)
+
+game (
+	name "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 0)"
+	description "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 0)"
+	rom ( name "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 0).ssd" size 204800 crc 796a9092 md5 2cbcc05f562e5c803830b93dea6f2d34 )
+)
+
+game (
+	name "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 1)"
+	description "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 1)"
+	rom ( name "Computer Concepts ROMs (19xx)(Computer Concepts)(Side 1).ssd" size 204800 crc 125057bf md5 6ecc8832bb982378168af6cb30d570c3 )
+)
+
+game (
+	name "Computer Hits 2 (19xx)(-)"
+	description "Computer Hits 2 (19xx)(-)"
+	rom ( name "Computer Hits 2 (19xx)(-).ssd" size 204800 crc b4a39b58 md5 473f580df85733581c81a8a502874d6e )
+)
+
+game (
+	name "Dave Griffin Game Collection (19xx)(Griffin, Dave)"
+	description "Dave Griffin Game Collection (19xx)(Griffin, Dave)"
+	rom ( name "Dave Griffin Game Collection (19xx)(Griffin, Dave).ssd" size 204800 crc f6e6489c md5 3f19a01b36855ccbdca58d3cf40e4962 )
+)
+
+game (
+	name "Denkspellen (19xx)(-)"
+	description "Denkspellen (19xx)(-)"
+	rom ( name "Denkspellen (19xx)(-).ssd" size 51712 crc 968177d6 md5 63e6ccc76b4ca355d82fdce75fbbc7d1 )
+)
+
+game (
+	name "Digital Waveforms (1985)(Allen, Darren)"
+	description "Digital Waveforms (1985)(Allen, Darren)"
+	rom ( name "Digital Waveforms (1985)(Allen, Darren).ssd" size 204800 crc 085d56b6 md5 cd5f54b851ef22b00b23646dcac3044a )
+)
+
+game (
+	name "Digital Waveforms (1985)(Allen, Darren)[a]"
+	description "Digital Waveforms (1985)(Allen, Darren)[a]"
+	rom ( name "Digital Waveforms (1985)(Allen, Darren)[a].ssd" size 204800 crc 274e924f md5 c8128338445455a80b782ad11e1782f6 )
+)
+
+game (
+	name "Discmaster (19xx)(Beebug)(Side 0)"
+	description "Discmaster (19xx)(Beebug)(Side 0)"
+	rom ( name "Discmaster (19xx)(Beebug)(Side 0).ssd" size 204800 crc 57ec7fee md5 91559936ab522ef451cd53ab82ca269f )
+)
+
+game (
+	name "Discmaster (19xx)(Beebug)(Side 1)"
+	description "Discmaster (19xx)(Beebug)(Side 1)"
+	rom ( name "Discmaster (19xx)(Beebug)(Side 1).ssd" size 204800 crc ba8318e2 md5 ae9044d6f5435d2f57ab937562359bc8 )
+)
+
+game (
+	name "Disk Utilities (19xx)(-)"
+	description "Disk Utilities (19xx)(-)"
+	rom ( name "Disk Utilities (19xx)(-).ssd" size 204800 crc 4b709d7f md5 8927e3541cce00c78db40ab4455be72c )
+)
+
+game (
+	name "Drive 0D Games (1984)(Hoornik, H.)"
+	description "Drive 0D Games (1984)(Hoornik, H.)"
+	rom ( name "Drive 0D Games (1984)(Hoornik, H.).ssd" size 72192 crc 71caaec5 md5 64f3f9c78b474ba17ee80c1e50948a1c )
+)
+
+game (
+	name "Drive 2D Games (19xx)(-)"
+	description "Drive 2D Games (19xx)(-)"
+	rom ( name "Drive 2D Games (19xx)(-).ssd" size 84224 crc a58e2520 md5 e8b03d301f75e30a05d4545ac9a75147 )
+)
+
+game (
+	name "Education - Math (19xx)(8-Bit)"
+	description "Education - Math (19xx)(8-Bit)"
+	rom ( name "Education - Math (19xx)(8-Bit).ssd" size 204800 crc a7f70cfc md5 54628e9f3b40da81170bbf6253905fbf )
+)
+
+game (
+	name "Education (19xx)(-)"
+	description "Education (19xx)(-)"
+	rom ( name "Education (19xx)(-).ssd" size 204800 crc 949143df md5 e48931f0f0bae651041cc76460236a67 )
+)
+
+game (
+	name "Education 02 (1995)(8-Bit)"
+	description "Education 02 (1995)(8-Bit)"
+	rom ( name "Education 02 (1995)(8-Bit).ssd" size 204800 crc 87a920e4 md5 0865ab6d4d190037f3b31b2f0c8782fe )
+)
+
+game (
+	name "Educational Games (1996)(8-Bit)"
+	description "Educational Games (1996)(8-Bit)"
+	rom ( name "Educational Games (1996)(8-Bit).ssd" size 204800 crc 7c6d7155 md5 3be899b4cd312bebdcdd95c5026797ba )
+)
+
+game (
+	name "Elite Variants (19xx)(-)"
+	description "Elite Variants (19xx)(-)"
+	rom ( name "Elite Variants (19xx)(-).ssd" size 198144 crc 83858816 md5 dce695b0b7661313df41e74fe6128257 )
+)
+
+game (
+	name "Even Even More BASIC Games (19xx)(-)(Side 0)"
+	description "Even Even More BASIC Games (19xx)(-)(Side 0)"
+	rom ( name "Even Even More BASIC Games (19xx)(-)(Side 0).ssd" size 204800 crc d0bf5008 md5 f8275dc2fab983778d6ee7824fc67c5c )
+)
+
+game (
+	name "Even Even More BASIC Games (19xx)(-)(Side 1)"
+	description "Even Even More BASIC Games (19xx)(-)(Side 1)"
+	rom ( name "Even Even More BASIC Games (19xx)(-)(Side 1).ssd" size 204800 crc 83e0b0e7 md5 e0f6c96c0ffc54b8baf570a23db15a1e )
+)
+
+game (
+	name "Even More BASIC Games (19xx)(-)(Side 0)"
+	description "Even More BASIC Games (19xx)(-)(Side 0)"
+	rom ( name "Even More BASIC Games (19xx)(-)(Side 0).ssd" size 204800 crc 318bba94 md5 bca3a1c8020c4105e1c6fe2b15599e0b )
+)
+
+game (
+	name "Even More BASIC Games (19xx)(-)(Side 1)"
+	description "Even More BASIC Games (19xx)(-)(Side 1)"
+	rom ( name "Even More BASIC Games (19xx)(-)(Side 1).ssd" size 204800 crc 10b9d5d5 md5 6d583ddd996a5a86b17c7cb71d749dbd )
+)
+
+game (
+	name "Fast Access Demo Disk (19xx)(-)"
+	description "Fast Access Demo Disk (19xx)(-)"
+	rom ( name "Fast Access Demo Disk (19xx)(-).ssd" size 204800 crc a4edfaec md5 15088bb374ded77dc8c9c015fcd8f25c )
+)
+
+game (
+	name "Firebird Games (19xx)(-)(Side 0)"
+	description "Firebird Games (19xx)(-)(Side 0)"
+	rom ( name "Firebird Games (19xx)(-)(Side 0).ssd" size 204800 crc a8668f66 md5 ffb8c57c56628a58e04a5013042493ba )
+)
+
+game (
+	name "Firebird Games (19xx)(-)(Side 1)"
+	description "Firebird Games (19xx)(-)(Side 1)"
+	rom ( name "Firebird Games (19xx)(-)(Side 1).ssd" size 204800 crc c881374e md5 406fc07c6c597dcae7da36d4f8f4ac91 )
+)
+
+game (
+	name "Five Star PD Games Volume 1 (19xx)(-)[E00DFS]"
+	description "Five Star PD Games Volume 1 (19xx)(-)[E00DFS]"
+	rom ( name "Five Star PD Games Volume 1 (19xx)(-)[E00DFS].ssd" size 204800 crc 75802baf md5 b41f082daf943716270fa7c8e3ee3669 )
+)
+
+game (
+	name "Games #01 (19xx)(-)"
+	description "Games #01 (19xx)(-)"
+	rom ( name "Games #01 (19xx)(-).ssd" size 204800 crc b9c2d1b6 md5 ff09d23ed1eeb27badef50880bd175a6 )
+)
+
+game (
+	name "Games #02 (19xx)(-)"
+	description "Games #02 (19xx)(-)"
+	rom ( name "Games #02 (19xx)(-).ssd" size 204800 crc 50e682b8 md5 3e80597aaafda64bc5214448bd522ee5 )
+)
+
+game (
+	name "Games #03 (19xx)(-)"
+	description "Games #03 (19xx)(-)"
+	rom ( name "Games #03 (19xx)(-).ssd" size 204800 crc ec6561d9 md5 77ee63cae103d8b5760bff8380c25f97 )
+)
+
+game (
+	name "Games #03 (19xx)(-)[a]"
+	description "Games #03 (19xx)(-)[a]"
+	rom ( name "Games #03 (19xx)(-)[a].ssd" size 204800 crc ea8db9a0 md5 ea136024949dbe2524c4434772b8f52f )
+)
+
+game (
+	name "Games #04 (19xx)(-)"
+	description "Games #04 (19xx)(-)"
+	rom ( name "Games #04 (19xx)(-).ssd" size 204800 crc 97763ceb md5 671d1e2c0063498d66b12cd7f95a9721 )
+)
+
+game (
+	name "Games #12 (19xx)(-)"
+	description "Games #12 (19xx)(-)"
+	rom ( name "Games #12 (19xx)(-).ssd" size 204800 crc d4aa395a md5 9134b2859c6075887011ad127e390cdc )
+)
+
+game (
+	name "Games #13 (19xx)(-)"
+	description "Games #13 (19xx)(-)"
+	rom ( name "Games #13 (19xx)(-).ssd" size 204800 crc 700baf3a md5 be56a836952f058eefd89b5d81f023b5 )
+)
+
+game (
+	name "Games #14 (19xx)(-)"
+	description "Games #14 (19xx)(-)"
+	rom ( name "Games #14 (19xx)(-).ssd" size 204800 crc 49180604 md5 0196019213fc8fccbcade2f4910db2e6 )
+)
+
+game (
+	name "Games #15 (19xx)(-)"
+	description "Games #15 (19xx)(-)"
+	rom ( name "Games #15 (19xx)(-).ssd" size 204800 crc 211d03c7 md5 19fb5f7e6d648e01511bdeb5d787d6d4 )
+)
+
+game (
+	name "Games #20 (19xx)(-)"
+	description "Games #20 (19xx)(-)"
+	rom ( name "Games #20 (19xx)(-).ssd" size 204800 crc 4c74080a md5 1483a6ae0739cf2347f2622bf7e9fd2f )
+)
+
+game (
+	name "Games #21 (19xx)(-)"
+	description "Games #21 (19xx)(-)"
+	rom ( name "Games #21 (19xx)(-).ssd" size 204800 crc b258aaf6 md5 1c0113c9d75ff1eb5abe5523a91ff4b0 )
+)
+
+game (
+	name "Games #22 (19xx)(-)"
+	description "Games #22 (19xx)(-)"
+	rom ( name "Games #22 (19xx)(-).ssd" size 204800 crc 876fef22 md5 27cf92a7e867f1fb180b23d42be8408e )
+)
+
+game (
+	name "Games #23 (19xx)(-)"
+	description "Games #23 (19xx)(-)"
+	rom ( name "Games #23 (19xx)(-).ssd" size 204800 crc 087313cc md5 0a1cc5da1053e30ab1c082aee6c11185 )
+)
+
+game (
+	name "Games #24 (19xx)(-)"
+	description "Games #24 (19xx)(-)"
+	rom ( name "Games #24 (19xx)(-).ssd" size 204800 crc 32938a3c md5 7ccc002a0525beba3a135810f4192a56 )
+)
+
+game (
+	name "Games #25 (19xx)(-)"
+	description "Games #25 (19xx)(-)"
+	rom ( name "Games #25 (19xx)(-).ssd" size 204800 crc 418ac373 md5 5706bfc300672b2f975edab8fe87983f )
+)
+
+game (
+	name "Games #26 (19xx)(-)"
+	description "Games #26 (19xx)(-)"
+	rom ( name "Games #26 (19xx)(-).ssd" size 204800 crc 61e05bfb md5 cd33aad630adebd719622f406c61905c )
+)
+
+game (
+	name "Games #27 (19xx)(-)"
+	description "Games #27 (19xx)(-)"
+	rom ( name "Games #27 (19xx)(-).ssd" size 204800 crc ad74c088 md5 e01d27377f3f29eb5c34bd9eeb26b98b )
+)
+
+game (
+	name "Games #28 (19xx)(-)"
+	description "Games #28 (19xx)(-)"
+	rom ( name "Games #28 (19xx)(-).ssd" size 204800 crc 128ab633 md5 6afd376ef2b0d0dca19bef4f70f135fa )
+)
+
+game (
+	name "Games #28 (19xx)(-)[a]"
+	description "Games #28 (19xx)(-)[a]"
+	rom ( name "Games #28 (19xx)(-)[a].ssd" size 204800 crc 35bd713f md5 b552c6dc2b1ae45c141e18cf38ff7d18 )
+)
+
+game (
+	name "Games #29 (19xx)(-)"
+	description "Games #29 (19xx)(-)"
+	rom ( name "Games #29 (19xx)(-).ssd" size 204800 crc cfddef46 md5 9ed235ee5da746203de72516f0e5eb5c )
+)
+
+game (
+	name "Games #30 (19xx)(-)"
+	description "Games #30 (19xx)(-)"
+	rom ( name "Games #30 (19xx)(-).ssd" size 204800 crc 62a5f931 md5 93be7a3c804f9ff4d1139be6d1d3645b )
+)
+
+game (
+	name "Games #30 (19xx)(-)[a]"
+	description "Games #30 (19xx)(-)[a]"
+	rom ( name "Games #30 (19xx)(-)[a].ssd" size 204800 crc fed39ba6 md5 a9c591c0c0b0cc0b4b95142bca6ddcb0 )
+)
+
+game (
+	name "Games #31 (19xx)(-)"
+	description "Games #31 (19xx)(-)"
+	rom ( name "Games #31 (19xx)(-).ssd" size 204800 crc 8f901e21 md5 57f2efcb0c45653d9d9ff7aa1d2487cf )
+)
+
+game (
+	name "Games #32 (19xx)(-)"
+	description "Games #32 (19xx)(-)"
+	rom ( name "Games #32 (19xx)(-).ssd" size 204800 crc 5bfb0394 md5 999e3d1581414d1e01d48629a66b0976 )
+)
+
+game (
+	name "Games #33 (19xx)(-)"
+	description "Games #33 (19xx)(-)"
+	rom ( name "Games #33 (19xx)(-).ssd" size 204800 crc ff29bbc4 md5 ed5b06926e4ba7426fce7f0583c083c8 )
+)
+
+game (
+	name "Games #35 (19xx)(-)"
+	description "Games #35 (19xx)(-)"
+	rom ( name "Games #35 (19xx)(-).ssd" size 204800 crc 7bec42ca md5 39cbee311d8b5cf4c6116cdcf9c03e36 )
+)
+
+game (
+	name "Games #36 (19xx)(-)"
+	description "Games #36 (19xx)(-)"
+	rom ( name "Games #36 (19xx)(-).ssd" size 204800 crc d1c7a1e3 md5 35164722b4afba6da67319b581ff2434 )
+)
+
+game (
+	name "Games 65 (19xx)(-)(Side 0)"
+	description "Games 65 (19xx)(-)(Side 0)"
+	rom ( name "Games 65 (19xx)(-)(Side 0).ssd" size 204800 crc 88427cce md5 93a325c1eff88496a77146ebeb034ed5 )
+)
+
+game (
+	name "Games 65 (19xx)(-)(Side 1)"
+	description "Games 65 (19xx)(-)(Side 1)"
+	rom ( name "Games 65 (19xx)(-)(Side 1).ssd" size 204800 crc 37ecaedc md5 be82a6605fe0d04e4319d9e98470ab72 )
+)
+
+game (
+	name "Games A-1 (19xx)(-)(Side 0)"
+	description "Games A-1 (19xx)(-)(Side 0)"
+	rom ( name "Games A-1 (19xx)(-)(Side 0).ssd" size 204800 crc 8c567d00 md5 94cf6bf6d899dad3c27dfdb0f8084954 )
+)
+
+game (
+	name "Games A-1 (19xx)(-)(Side 1)"
+	description "Games A-1 (19xx)(-)(Side 1)"
+	rom ( name "Games A-1 (19xx)(-)(Side 1).ssd" size 204800 crc e1d2816d md5 174e8e81391124174b6985e32f6b490a )
+)
+
+game (
+	name "Games A-2 (19xx)(-)(Side 0)"
+	description "Games A-2 (19xx)(-)(Side 0)"
+	rom ( name "Games A-2 (19xx)(-)(Side 0).ssd" size 204800 crc b4a6333e md5 a0de91111b7d255b856e2f7483681917 )
+)
+
+game (
+	name "Games B-C (19xx)(-)(Side 0)"
+	description "Games B-C (19xx)(-)(Side 0)"
+	rom ( name "Games B-C (19xx)(-)(Side 0).ssd" size 204800 crc 1655fa5d md5 6aced235a2428cc58909d9d3f196fc24 )
+)
+
+game (
+	name "Games B-C (19xx)(-)(Side 1)"
+	description "Games B-C (19xx)(-)(Side 1)"
+	rom ( name "Games B-C (19xx)(-)(Side 1).ssd" size 204800 crc c36e59d7 md5 f67264b433bc6516616c19dbc5065661 )
+)
+
+game (
+	name "Games Compendium 1 (19xx)(-)(Side 0)"
+	description "Games Compendium 1 (19xx)(-)(Side 0)"
+	rom ( name "Games Compendium 1 (19xx)(-)(Side 0).ssd" size 204800 crc e015e04f md5 b8bbc28e4263ae63cfc8cc920978dd9f )
+)
+
+game (
+	name "Games Compendium 1 (19xx)(-)(Side 1)"
+	description "Games Compendium 1 (19xx)(-)(Side 1)"
+	rom ( name "Games Compendium 1 (19xx)(-)(Side 1).ssd" size 204800 crc 53e456b3 md5 c34be2adc3c24358a292741c4b4f1fb9 )
+)
+
+game (
+	name "Games D-1 (19xx)(-)(Side 0)"
+	description "Games D-1 (19xx)(-)(Side 0)"
+	rom ( name "Games D-1 (19xx)(-)(Side 0).ssd" size 204800 crc 5519b2a3 md5 32b3ef7bd9cc2e7e4dd329ac8aadf2f3 )
+)
+
+game (
+	name "Games D-1 (19xx)(-)(Side 1)"
+	description "Games D-1 (19xx)(-)(Side 1)"
+	rom ( name "Games D-1 (19xx)(-)(Side 1).ssd" size 204800 crc c34b6246 md5 bae69d09a08a1fed43c29ecef9c59986 )
+)
+
+game (
+	name "Games D-2 (19xx)(-)(Side 0)"
+	description "Games D-2 (19xx)(-)(Side 0)"
+	rom ( name "Games D-2 (19xx)(-)(Side 0).ssd" size 204800 crc 37ba5ea8 md5 845cfc3082a3e5062017c0a6773bcc5a )
+)
+
+game (
+	name "Games D-2 (19xx)(-)(Side 1)"
+	description "Games D-2 (19xx)(-)(Side 1)"
+	rom ( name "Games D-2 (19xx)(-)(Side 1).ssd" size 204800 crc c2dffc5f md5 6f6618383a93018da7888af5ec0c46e9 )
+)
+
+game (
+	name "Games D-3 (19xx)(-)"
+	description "Games D-3 (19xx)(-)"
+	rom ( name "Games D-3 (19xx)(-).ssd" size 204800 crc 3e00a9c4 md5 3772abf6d74dbecf125e77d8fd25a157 )
+)
+
+game (
+	name "Games Disk 001 - 3 Games (19xx)(-)"
+	description "Games Disk 001 - 3 Games (19xx)(-)"
+	rom ( name "Games Disk 001 - 3 Games (19xx)(-).ssd" size 75264 crc 0593df80 md5 64fe6ea1172c0e7e91f3a12822d23e66 )
+)
+
+game (
+	name "Games Disk 002 - 4 Games (19xx)(-)"
+	description "Games Disk 002 - 4 Games (19xx)(-)"
+	rom ( name "Games Disk 002 - 4 Games (19xx)(-).ssd" size 78848 crc 359b8bc5 md5 3772fee7c48aff3031047740a9affd47 )
+)
+
+game (
+	name "Games Disk 003 - 4 Games (19xx)(-)"
+	description "Games Disk 003 - 4 Games (19xx)(-)"
+	rom ( name "Games Disk 003 - 4 Games (19xx)(-).ssd" size 102912 crc ff4760ff md5 b400e1cc2cc2ad321a31fdaad412fb1f )
+)
+
+game (
+	name "Games Disk 004 - 3 Games (19xx)(-)"
+	description "Games Disk 004 - 3 Games (19xx)(-)"
+	rom ( name "Games Disk 004 - 3 Games (19xx)(-).ssd" size 75520 crc b9a8deee md5 1f12956ecc2fe69ad0a1c8f0200d6b6d )
+)
+
+game (
+	name "Games Disk 007 - 4 Games (19xx)(-)"
+	description "Games Disk 007 - 4 Games (19xx)(-)"
+	rom ( name "Games Disk 007 - 4 Games (19xx)(-).ssd" size 101888 crc d81caae7 md5 9721b4890b14ba554312279e32453af5 )
+)
+
+game (
+	name "Games Disk 008 - 5 Games (19xx)(-)"
+	description "Games Disk 008 - 5 Games (19xx)(-)"
+	rom ( name "Games Disk 008 - 5 Games (19xx)(-).ssd" size 102912 crc 873af538 md5 c4d4449ffe9a7f02e436eb2fa38503ac )
+)
+
+game (
+	name "Games Disk 009 - 3 Games (19xx)(-)"
+	description "Games Disk 009 - 3 Games (19xx)(-)"
+	rom ( name "Games Disk 009 - 3 Games (19xx)(-).ssd" size 74240 crc 6da5e06b md5 92f12f8aee41a4666dcf551464a86ea2 )
+)
+
+game (
+	name "Games Disk 010 - 3 Games (19xx)(-)"
+	description "Games Disk 010 - 3 Games (19xx)(-)"
+	rom ( name "Games Disk 010 - 3 Games (19xx)(-).ssd" size 102912 crc 15755fe1 md5 492a16acaa3146e03f5ba6ae14ed33ca )
+)
+
+game (
+	name "Games Disk Blandet (19xx)(-)(Side 0)"
+	description "Games Disk Blandet (19xx)(-)(Side 0)"
+	rom ( name "Games Disk Blandet (19xx)(-)(Side 0).ssd" size 204800 crc 969a9ab1 md5 ce1fdf2d04cedd5dc2297e8cd63962bc )
+)
+
+game (
+	name "Games Disk Blandet (19xx)(-)(Side 1)"
+	description "Games Disk Blandet (19xx)(-)(Side 1)"
+	rom ( name "Games Disk Blandet (19xx)(-)(Side 1).ssd" size 204800 crc 338ba775 md5 36834b31e3cd575a067430e5eb19135f )
+)
+
+game (
+	name "Games E-1 (19xx)(-)(Side 0)"
+	description "Games E-1 (19xx)(-)(Side 0)"
+	rom ( name "Games E-1 (19xx)(-)(Side 0).ssd" size 204800 crc 41e438d5 md5 d16a6a652ab39c07ca9ef2d2c0165bdc )
+)
+
+game (
+	name "Games E-1 (19xx)(-)(Side 1)"
+	description "Games E-1 (19xx)(-)(Side 1)"
+	rom ( name "Games E-1 (19xx)(-)(Side 1).ssd" size 204800 crc e5a77888 md5 029e08baabe8b16d95d3318a6764c39f )
+)
+
+game (
+	name "Games for Cheaters (19xx)(-)(Side 0)"
+	description "Games for Cheaters (19xx)(-)(Side 0)"
+	rom ( name "Games for Cheaters (19xx)(-)(Side 0).ssd" size 204800 crc af6eb8fb md5 d1d4d856ceaae0611f84c444bb6a5eb5 )
+)
+
+game (
+	name "Games for Cheaters (19xx)(-)(Side 1)"
+	description "Games for Cheaters (19xx)(-)(Side 1)"
+	rom ( name "Games for Cheaters (19xx)(-)(Side 1).ssd" size 204800 crc 833ac9ae md5 77f8651582a227342839d3a77b64d932 )
+)
+
+game (
+	name "Games from Magazines (19xx)(-)(Side 0)"
+	description "Games from Magazines (19xx)(-)(Side 0)"
+	rom ( name "Games from Magazines (19xx)(-)(Side 0).ssd" size 204800 crc 2b6399a8 md5 e1bf0236806f95299b5e1ff5529280e8 )
+)
+
+game (
+	name "Games from Magazines (19xx)(-)(Side 1)"
+	description "Games from Magazines (19xx)(-)(Side 1)"
+	rom ( name "Games from Magazines (19xx)(-)(Side 1).ssd" size 204800 crc 76a1a107 md5 682dd6576d39982ea098c1d6c3418bea )
+)
+
+game (
+	name "Games Galore (19xx)(Olssoft)[GALORE]"
+	description "Games Galore (19xx)(Olssoft)[GALORE]"
+	rom ( name "Games Galore (19xx)(Olssoft)[GALORE].ssd" size 23296 crc 9e8bd224 md5 174af9e6220bfe36477369ea0768c4fe )
+)
+
+game (
+	name "Games Galore (19xx)(Olssoft)[h TSTH]"
+	description "Games Galore (19xx)(Olssoft)[h TSTH]"
+	rom ( name "Games Galore (19xx)(Olssoft)[h TSTH].ssd" size 24064 crc be41a585 md5 0f7ef9df3e27a7861d0723c70dbfdaec )
+)
+
+game (
+	name "Games Games Games VIII (19xx)(-)"
+	description "Games Games Games VIII (19xx)(-)"
+	rom ( name "Games Games Games VIII (19xx)(-).ssd" size 102912 crc 9abecc09 md5 a86f3abae96675fb2ec2914a2674e1f6 )
+)
+
+game (
+	name "Games G-H (19xx)(-)(Side 0)"
+	description "Games G-H (19xx)(-)(Side 0)"
+	rom ( name "Games G-H (19xx)(-)(Side 0).ssd" size 204800 crc f5ff5001 md5 9e92aee97fe96460c5c886b47ea1d50a )
+)
+
+game (
+	name "Games G-H (19xx)(-)(Side 1)"
+	description "Games G-H (19xx)(-)(Side 1)"
+	rom ( name "Games G-H (19xx)(-)(Side 1).ssd" size 204800 crc f7ee4c22 md5 ca731b5344a2849227bedb3baed95e46 )
+)
+
+game (
+	name "Games I-J (19xx)(-)(Side 0)"
+	description "Games I-J (19xx)(-)(Side 0)"
+	rom ( name "Games I-J (19xx)(-)(Side 0).ssd" size 204800 crc c314dad3 md5 cb8fe2993072abc8c552631ce8ecdf56 )
+)
+
+game (
+	name "Games I-J (19xx)(-)(Side 1)"
+	description "Games I-J (19xx)(-)(Side 1)"
+	rom ( name "Games I-J (19xx)(-)(Side 1).ssd" size 204800 crc 0c525ee2 md5 2914f96e453439fb1566783abe10f478 )
+)
+
+game (
+	name "Games K-L (19xx)(-)(Side 0)"
+	description "Games K-L (19xx)(-)(Side 0)"
+	rom ( name "Games K-L (19xx)(-)(Side 0).ssd" size 204800 crc dff1f65a md5 71f12c3cefc24f408c040ca303c5f318 )
+)
+
+game (
+	name "Games K-L (19xx)(-)(Side 1)"
+	description "Games K-L (19xx)(-)(Side 1)"
+	rom ( name "Games K-L (19xx)(-)(Side 1).ssd" size 204800 crc 8cc8bbc7 md5 c5d8844de3070d6a8e66c224f12e9e08 )
+)
+
+game (
+	name "Games M-1 (19xx)(-)(Side 0)"
+	description "Games M-1 (19xx)(-)(Side 0)"
+	rom ( name "Games M-1 (19xx)(-)(Side 0).ssd" size 204800 crc d58d9a66 md5 56ccf6418e73ea5c27276eebff908f6c )
+)
+
+game (
+	name "Games M-1 (19xx)(-)(Side 1)"
+	description "Games M-1 (19xx)(-)(Side 1)"
+	rom ( name "Games M-1 (19xx)(-)(Side 1).ssd" size 204800 crc 0efb8e17 md5 22a81f5f256d12e898f11a87c8971b51 )
+)
+
+game (
+	name "Games M-2 (19xx)(-)(Side 0)"
+	description "Games M-2 (19xx)(-)(Side 0)"
+	rom ( name "Games M-2 (19xx)(-)(Side 0).ssd" size 204800 crc 1a543a48 md5 03feba63ccbba99ec2090ecd05c2344a )
+)
+
+game (
+	name "Games M-2 (19xx)(-)(Side 1)"
+	description "Games M-2 (19xx)(-)(Side 1)"
+	rom ( name "Games M-2 (19xx)(-)(Side 1).ssd" size 204800 crc a1f6f521 md5 62b49f1a36357c78ca717b38293492bc )
+)
+
+game (
+	name "Games N-O (19xx)(-)(Side 0)"
+	description "Games N-O (19xx)(-)(Side 0)"
+	rom ( name "Games N-O (19xx)(-)(Side 0).ssd" size 204800 crc 1337714d md5 9da2dacc4819e2a37153661821886cf7 )
+)
+
+game (
+	name "Games N-O (19xx)(-)(Side 1)"
+	description "Games N-O (19xx)(-)(Side 1)"
+	rom ( name "Games N-O (19xx)(-)(Side 1).ssd" size 204800 crc 6d95b240 md5 fb0d0620bbc22257ced7958df2a565e9 )
+)
+
+game (
+	name "Games of Strategy (1982)(BBC)[h TSTH]"
+	description "Games of Strategy (1982)(BBC)[h TSTH]"
+	rom ( name "Games of Strategy (1982)(BBC)[h TSTH].ssd" size 26624 crc 7d3a889c md5 626a22187ef10b267d9b10708e802036 )
+)
+
+game (
+	name "Games P-Q (19xx)(-)(Side 0)"
+	description "Games P-Q (19xx)(-)(Side 0)"
+	rom ( name "Games P-Q (19xx)(-)(Side 0).ssd" size 204800 crc b67cf2ce md5 d94b00dea168d23e17dfe62ee35b1af6 )
+)
+
+game (
+	name "Games P-Q (19xx)(-)(Side 1)"
+	description "Games P-Q (19xx)(-)(Side 1)"
+	rom ( name "Games P-Q (19xx)(-)(Side 1).ssd" size 204800 crc 6e2400e1 md5 eb0a5cb375483e5a66c77ea57422a9f0 )
+)
+
+game (
+	name "Games R-S (19xx)(-)(Side 0)"
+	description "Games R-S (19xx)(-)(Side 0)"
+	rom ( name "Games R-S (19xx)(-)(Side 0).ssd" size 204800 crc 99675f86 md5 e834966e688f7c018d7925576cd34282 )
+)
+
+game (
+	name "Games R-S (19xx)(-)(Side 1)"
+	description "Games R-S (19xx)(-)(Side 1)"
+	rom ( name "Games R-S (19xx)(-)(Side 1).ssd" size 204800 crc 1a61d188 md5 83a59dd3281fbe37c0b753ec73af9882 )
+)
+
+game (
+	name "Games T-U (19xx)(-)(Side 0)"
+	description "Games T-U (19xx)(-)(Side 0)"
+	rom ( name "Games T-U (19xx)(-)(Side 0).ssd" size 204800 crc fca4fad1 md5 b04b4fc9dd389f54751de2a13a917838 )
+)
+
+game (
+	name "Games T-U (19xx)(-)(Side 1)"
+	description "Games T-U (19xx)(-)(Side 1)"
+	rom ( name "Games T-U (19xx)(-)(Side 1).ssd" size 204800 crc f245a66c md5 ac58d7ea209e4e702d86cf1d2f8c9668 )
+)
+
+game (
+	name "Games V-W (19xx)(-)(Side 0)"
+	description "Games V-W (19xx)(-)(Side 0)"
+	rom ( name "Games V-W (19xx)(-)(Side 0).ssd" size 204800 crc 2f209965 md5 2daeb5c530e5b075d6cd883960d1919c )
+)
+
+game (
+	name "Games V-W (19xx)(-)(Side 1)"
+	description "Games V-W (19xx)(-)(Side 1)"
+	rom ( name "Games V-W (19xx)(-)(Side 1).ssd" size 204800 crc 2c741cbf md5 90ac280e4accb75ba4e64d3f55cac7fc )
+)
+
+game (
+	name "Gold Collection (19xx)(-)"
+	description "Gold Collection (19xx)(-)"
+	rom ( name "Gold Collection (19xx)(-).ssd" size 204800 crc 6b715172 md5 74986822c489ba9104f49142cc058e01 )
+)
+
+game (
+	name "Gold Collection 3, The (19xx)(U.S. Gold)[h TSTH]"
+	description "Gold Collection 3, The (19xx)(U.S. Gold)[h TSTH]"
+	rom ( name "Gold Collection 3, The (19xx)(U.S. Gold)[h TSTH].ssd" size 167168 crc 69987390 md5 3c2e6dc6b56361d6218446607c239c28 )
+)
+
+game (
+	name "Grfx & Snd1 (19xx)(-)(Side 0)"
+	description "Grfx & Snd1 (19xx)(-)(Side 0)"
+	rom ( name "Grfx & Snd1 (19xx)(-)(Side 0).ssd" size 204800 crc 4b042032 md5 2d8eed02d8569ac52616153d4fea3152 )
+)
+
+game (
+	name "Grfx & Snd1 (19xx)(-)(Side 1)"
+	description "Grfx & Snd1 (19xx)(-)(Side 1)"
+	rom ( name "Grfx & Snd1 (19xx)(-)(Side 1).ssd" size 204800 crc 40d8256d md5 ddaaa91a975b50d57c42d693cd1b2c5c )
+)
+
+game (
+	name "Harston PD Library - Archive Utilities (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Archive Utilities (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Archive Utilities (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 286271f8 md5 3d381bc8080d151914c7c9373494e587 )
+)
+
+game (
+	name "Harston PD Library - Black & CJR File Archiver v2.00 (19xx)(Harston, J.G.)(PD)[ARCHIVE]"
+	description "Harston PD Library - Black & CJR File Archiver v2.00 (19xx)(Harston, J.G.)(PD)[ARCHIVE]"
+	rom ( name "Harston PD Library - Black & CJR File Archiver v2.00 (19xx)(Harston, J.G.)(PD)[ARCHIVE].ssd" size 204800 crc 6b3e6130 md5 9f86d3b0c72b847298c9b3b7c5165891 )
+)
+
+game (
+	name "Harston PD Library - Database Utilities (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Database Utilities (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Database Utilities (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc c831d595 md5 0426275f35eb5ffbdd91a91223379091 )
+)
+
+game (
+	name "Harston PD Library - DOS Utilities (19xx)(Harston, J.G.)(PD)[INTRO]"
+	description "Harston PD Library - DOS Utilities (19xx)(Harston, J.G.)(PD)[INTRO]"
+	rom ( name "Harston PD Library - DOS Utilities (19xx)(Harston, J.G.)(PD)[INTRO].ssd" size 204800 crc 3d1cb1a1 md5 cc46b0f78e033fa25e127425f9f17069 )
+)
+
+game (
+	name "Harston PD Library - EcoMenu (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - EcoMenu (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - EcoMenu (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 34e6a9a6 md5 19f692d10bd0c49e579776565b4d0da6 )
+)
+
+game (
+	name "Harston PD Library - Gobbler and Life (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Gobbler and Life (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Gobbler and Life (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc c3be6aa9 md5 6723b9631e06e04470c280df3d601d86 )
+)
+
+game (
+	name "Harston PD Library - HADFS Disk (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - HADFS Disk (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - HADFS Disk (19xx)(Harston, J.G.)(PD).ssd" size 409600 crc 7968e897 md5 851dd0dea1fa948b6c5ef6381014bbec )
+)
+
+game (
+	name "Harston PD Library - Ikon System (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Ikon System (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Ikon System (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 45688edc md5 60de373f6a5ea9872dad415904058f87 )
+)
+
+game (
+	name "Harston PD Library - Music Programs (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Music Programs (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Music Programs (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 699332e2 md5 0eadf5a48117e1212b5389c2cd03f364 )
+)
+
+game (
+	name "Harston PD Library - Music Programs 2 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Music Programs 2 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Music Programs 2 (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc fe859cc6 md5 f8ce12b6a7c1f61f198c1e32b12bacc0 )
+)
+
+game (
+	name "Harston PD Library - Music Utilities (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Music Utilities (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Music Utilities (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc cf419271 md5 821e66dd84b26ba14dcd90aea8e13742 )
+)
+
+game (
+	name "Harston PD Library - Paint (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Paint (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Paint (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc b5d38e29 md5 f5261c68e0076f188e2c94859d2dca6d )
+)
+
+game (
+	name "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 83281d65 md5 3ead97e756acba3e5d0e29c333deba5e )
+)
+
+game (
+	name "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD)[a]"
+	description "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD)[a]"
+	rom ( name "Harston PD Library - Screen Pictures (19xx)(Harston, J.G.)(PD)[a].ssd" size 204800 crc bc0fa104 md5 726531a9bd4338a5b699ac7ce6c495a3 )
+)
+
+game (
+	name "Harston PD Library - Telextext Programs (1991)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Telextext Programs (1991)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Telextext Programs (1991)(Harston, J.G.)(PD).ssd" size 204800 crc fb390791 md5 705c5c7be5e045f1e144f0257cf8ab9d )
+)
+
+game (
+	name "Harston PD Library - Utilities 01 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Utilities 01 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Utilities 01 (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 9c1f1970 md5 335d14c09316669264fffd9100121bb6 )
+)
+
+game (
+	name "Harston PD Library - Utilities 02 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Utilities 02 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Utilities 02 (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 1e4f97dd md5 71b4e338c2ae54083355a3ec90678712 )
+)
+
+game (
+	name "Harston PD Library - Utilities 03 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Utilities 03 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Utilities 03 (19xx)(Harston, J.G.)(PD).ssd" size 409600 crc 4864dbdd md5 358d00822767844a8c056a11d0d7e700 )
+)
+
+game (
+	name "Harston PD Library - Utilities 04 (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - Utilities 04 (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - Utilities 04 (19xx)(Harston, J.G.)(PD).ssd" size 409600 crc cf56c9c6 md5 92d5ec7cf785a1822c01fb9b1cf2d620 )
+)
+
+game (
+	name "Harston PD Library - View Utilities and Programs (19xx)(Harston, J.G.)(PD)"
+	description "Harston PD Library - View Utilities and Programs (19xx)(Harston, J.G.)(PD)"
+	rom ( name "Harston PD Library - View Utilities and Programs (19xx)(Harston, J.G.)(PD).ssd" size 204800 crc 73a9f994 md5 e308c24125aed6fdf657d48b37f6d675 )
+)
+
+game (
+	name "HeadFirst PD (19xx)(HeadFirst)(PD)[h 8-Bit][!MENU]"
+	description "HeadFirst PD (19xx)(HeadFirst)(PD)[h 8-Bit][!MENU]"
+	rom ( name "HeadFirst PD (19xx)(HeadFirst)(PD)[h 8-Bit][!MENU].ssd" size 204800 crc 4f419685 md5 2c219f0bfd4eccc6210e86b1c9ad7d12 )
+)
+
+game (
+	name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 0)"
+	description "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 0)"
+	rom ( name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 0).ssd" size 204800 crc 4072e420 md5 bc30d89ca34d68e9f4271f09ac43213a )
+)
+
+game (
+	name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 1)"
+	description "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 1)"
+	rom ( name "HeroZoft Graphic Utilities Disk (19xx)(HeroZoft)(Side 1).ssd" size 204800 crc 7a2f595f md5 ce1e1aca10d2c3112de63642a3288e5f )
+)
+
+game (
+	name "History of Micro User Games - Vol 1 (19xx)(Europress)[h TSTH]"
+	description "History of Micro User Games - Vol 1 (19xx)(Europress)[h TSTH]"
+	rom ( name "History of Micro User Games - Vol 1 (19xx)(Europress)[h TSTH].ssd" size 84736 crc 645874d6 md5 a80d69c8ca5c3af337f22b55ab403473 )
+)
+
+game (
+	name "IJK Games (19xx)(-)"
+	description "IJK Games (19xx)(-)"
+	rom ( name "IJK Games (19xx)(-).ssd" size 204800 crc 6ac022da md5 c080482029d653b3cb96e6f812d382b9 )
+)
+
+game (
+	name "Imagine Games (19xx)(-)(Side 0)"
+	description "Imagine Games (19xx)(-)(Side 0)"
+	rom ( name "Imagine Games (19xx)(-)(Side 0).ssd" size 204800 crc f1eeb342 md5 7777e9439502b31ada475b3e2e9cda65 )
+)
+
+game (
+	name "Imagine Games (19xx)(-)(Side 1)"
+	description "Imagine Games (19xx)(-)(Side 1)"
+	rom ( name "Imagine Games (19xx)(-)(Side 1).ssd" size 204800 crc efe2359e md5 92b047b36bfe75fd17920d34d43d8ccc )
+)
+
+game (
+	name "JJF PD Disk 10 - Wordsquare 1 (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 10 - Wordsquare 1 (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 10 - Wordsquare 1 (19xx)(Farmer, J.)(PD).ssd" size 204800 crc 0d72a09a md5 88cb3a91cd7d199f9050f404bf109bac )
+)
+
+game (
+	name "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD)"
+	description "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD)"
+	rom ( name "JJF PD Disk 58 - Aeronautical Dogfight 2 (19xx)(Farmer, J.)(PD).ssd" size 204800 crc dc412054 md5 ff97e1766726abba96982d9cf63b9a65 )
+)
+
+game (
+	name "Kees van Oss Compilation (19xx)(van Oss, Kees)[b]"
+	description "Kees van Oss Compilation (19xx)(van Oss, Kees)[b]"
+	rom ( name "Kees van Oss Compilation (19xx)(van Oss, Kees)[b].ssd" size 102400 crc 7dee50a9 md5 9c2b34c6a74b7c67e7cb1a4d94d647b8 )
+)
+
+game (
+	name "Kopi Desk (19xx)(-)(Side 0)"
+	description "Kopi Desk (19xx)(-)(Side 0)"
+	rom ( name "Kopi Desk (19xx)(-)(Side 0).ssd" size 204800 crc 43d8d881 md5 57c77200ee1ea8a162fad86418c1051f )
+)
+
+game (
+	name "Kopi Desk (19xx)(-)(Side 1)"
+	description "Kopi Desk (19xx)(-)(Side 1)"
+	rom ( name "Kopi Desk (19xx)(-)(Side 1).ssd" size 204800 crc 783d99bb md5 00faa9eff18968487a1542ee010cb694 )
+)
+
+game (
+	name "Martech & MRM Games (19xx)(-)(Side 0)"
+	description "Martech & MRM Games (19xx)(-)(Side 0)"
+	rom ( name "Martech & MRM Games (19xx)(-)(Side 0).ssd" size 204800 crc 8c5e0590 md5 c006720521f3e881997fbafc2cc6cb59 )
+)
+
+game (
+	name "Martech & MRM Games (19xx)(-)(Side 1)"
+	description "Martech & MRM Games (19xx)(-)(Side 1)"
+	rom ( name "Martech & MRM Games (19xx)(-)(Side 1).ssd" size 204800 crc 0c0e0534 md5 41234e658b60aed28a8043dbbc90d0a5 )
+)
+
+game (
+	name "Megaplay Volume 1 (19xx)(-)[h TSTH]"
+	description "Megaplay Volume 1 (19xx)(-)[h TSTH]"
+	rom ( name "Megaplay Volume 1 (19xx)(-)[h TSTH].ssd" size 122112 crc 266e4c42 md5 5d21e921cc4a9d0dce7c7728af2b0f80 )
+)
+
+game (
+	name "Micro Power Magic I (19xx)(-)[h TSTH]"
+	description "Micro Power Magic I (19xx)(-)[h TSTH]"
+	rom ( name "Micro Power Magic I (19xx)(-)[h TSTH].ssd" size 152576 crc b597e788 md5 578250e3122aa4b160e1d9e797cc8a4c )
+)
+
+game (
+	name "Micro Power Magic II (19xx)(-)[h TSTH]"
+	description "Micro Power Magic II (19xx)(-)[h TSTH]"
+	rom ( name "Micro Power Magic II (19xx)(-)[h TSTH].ssd" size 155392 crc 4ccde4b5 md5 9e02f725808a7de14da1adf59e7b29db )
+)
+
+game (
+	name "Miscellany 2 (19xx)(GLM)"
+	description "Miscellany 2 (19xx)(GLM)"
+	rom ( name "Miscellany 2 (19xx)(GLM).ssd" size 204800 crc b3850378 md5 f700f0928a94b5042fab54d908625cf4 )
+)
+
+game (
+	name "MRPD (19xx)(-)[h 8-Bit]"
+	description "MRPD (19xx)(-)[h 8-Bit]"
+	rom ( name "MRPD (19xx)(-)[h 8-Bit].ssd" size 204800 crc 95980013 md5 3d48798bfe372b7a6563e74d11315223 )
+)
+
+game (
+	name "Mysterious Adventure 02 & 03 (19xx)(Digital Fantasia)"
+	description "Mysterious Adventure 02 & 03 (19xx)(Digital Fantasia)"
+	rom ( name "Mysterious Adventure 02 & 03 (19xx)(Digital Fantasia).ssd" size 28928 crc 6719314c md5 8d16d86ecbe4b20e9f4700b5a5a5860d )
+)
+
+game (
+	name "National Lottery Programs (19xx)(8-Bit)"
+	description "National Lottery Programs (19xx)(8-Bit)"
+	rom ( name "National Lottery Programs (19xx)(8-Bit).ssd" size 204800 crc 7f2c4f39 md5 911fb1c0a0c2fbd626e859175cc759fc )
+)
+
+game (
+	name "Packet Text Files (19xx)(-)[h 8-Bit]"
+	description "Packet Text Files (19xx)(-)[h 8-Bit]"
+	rom ( name "Packet Text Files (19xx)(-)[h 8-Bit].ssd" size 204800 crc 32e9e6ab md5 7fd6aeb70ffee95d7d38f7c80ee3c4ed )
+)
+
+game (
+	name "Pagerom & Kangaterm (19xx)(-)[h 8-Bit]"
+	description "Pagerom & Kangaterm (19xx)(-)[h 8-Bit]"
+	rom ( name "Pagerom & Kangaterm (19xx)(-)[h 8-Bit].ssd" size 204800 crc 057a97d5 md5 d49d4f484b319b750355e79dd2473064 )
+)
+
+game (
+	name "Pokes Disc, The - Issue 1 (19xx)(-)"
+	description "Pokes Disc, The - Issue 1 (19xx)(-)"
+	rom ( name "Pokes Disc, The - Issue 1 (19xx)(-).ssd" size 204800 crc ed96bf98 md5 a9e04454fd8d40bf448b6bba0a4a0577 )
+)
+
+game (
+	name "Print Replay, Speech & Other ROMs (19xx)(-)(Side 0)"
+	description "Print Replay, Speech & Other ROMs (19xx)(-)(Side 0)"
+	rom ( name "Print Replay, Speech & Other ROMs (19xx)(-)(Side 0).ssd" size 204800 crc b258a6f2 md5 711cc89da2d518e176166471ec1eb1cf )
+)
+
+game (
+	name "Print Replay, Speech & Other ROMs (19xx)(-)(Side 1)"
+	description "Print Replay, Speech & Other ROMs (19xx)(-)(Side 1)"
+	rom ( name "Print Replay, Speech & Other ROMs (19xx)(-)(Side 1).ssd" size 204800 crc 48904ff0 md5 db55012113bd9cf61ef2d65de0250294 )
+)
+
+game (
+	name "Program Power 1 (19xx)(-)(Side 0)"
+	description "Program Power 1 (19xx)(-)(Side 0)"
+	rom ( name "Program Power 1 (19xx)(-)(Side 0).ssd" size 204800 crc 25689f77 md5 3d7fe524a166a9be7f71d6513fd24ae0 )
+)
+
+game (
+	name "Program Power 1 (19xx)(-)(Side 1)"
+	description "Program Power 1 (19xx)(-)(Side 1)"
+	rom ( name "Program Power 1 (19xx)(-)(Side 1).ssd" size 204800 crc 4b6979d7 md5 090f1349e864a606ead0ab758660850b )
+)
+
+game (
+	name "Program Power 2 (19xx)(-)(Side 0)"
+	description "Program Power 2 (19xx)(-)(Side 0)"
+	rom ( name "Program Power 2 (19xx)(-)(Side 0).ssd" size 204800 crc fc9a249d md5 9c9e699601e3888509a1ef1f0b395075 )
+)
+
+game (
+	name "Program Power 2 (19xx)(-)(Side 1)"
+	description "Program Power 2 (19xx)(-)(Side 1)"
+	rom ( name "Program Power 2 (19xx)(-)(Side 1).ssd" size 204800 crc 583b23bc md5 1d3dd16199f952732b2c19f1949f5cd0 )
+)
+
+game (
+	name "Program Power 3 (19xx)(-)"
+	description "Program Power 3 (19xx)(-)"
+	rom ( name "Program Power 3 (19xx)(-).ssd" size 204800 crc 521e2b44 md5 b6bdcbb14ec807d633cff32e567ce362 )
+)
+
+game (
+	name "Programs Vol. 2 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	description "Programs Vol. 2 (19xx)(Dewhurst, C.)[h 8-Bit]"
+	rom ( name "Programs Vol. 2 (19xx)(Dewhurst, C.)[h 8-Bit].ssd" size 102400 crc b121ee77 md5 803d69b22bc6917fc789546bd4375969 )
+)
+
+game (
+	name "Repton 1 & 2 & Editor (19xx)(-)[h TSTH]"
+	description "Repton 1 & 2 & Editor (19xx)(-)[h TSTH]"
+	rom ( name "Repton 1 & 2 & Editor (19xx)(-)[h TSTH].ssd" size 69888 crc e66525d2 md5 5e1f0aab9c1d096eeb7e597039e9f2dc )
+)
+
+game (
+	name "Russian Language and Culture Resources (19xx)(-)"
+	description "Russian Language and Culture Resources (19xx)(-)"
+	rom ( name "Russian Language and Culture Resources (19xx)(-).ssd" size 91904 crc b40bbfa0 md5 93e2e83560a67610dd019c4720815fdc )
+)
+
+game (
+	name "SBPD Disk 74 - Beebnet Col. Vol 1 (19xx)(SBPD)[h 8-Bit]"
+	description "SBPD Disk 74 - Beebnet Col. Vol 1 (19xx)(SBPD)[h 8-Bit]"
+	rom ( name "SBPD Disk 74 - Beebnet Col. Vol 1 (19xx)(SBPD)[h 8-Bit].ssd" size 204800 crc 5a54e0d6 md5 3c8f343fbe7812c57167a912529eab6e )
+)
+
+game (
+	name "Sharx Place 00 - Disk Filing System (19xx)(-)"
+	description "Sharx Place 00 - Disk Filing System (19xx)(-)"
+	rom ( name "Sharx Place 00 - Disk Filing System (19xx)(-).ssd" size 204800 crc 27921a6d md5 0c1644f674b17d4f53cc84e2b05fb609 )
+)
+
+game (
+	name "Sharx Place 01 - 21 Items (19xx)(-)"
+	description "Sharx Place 01 - 21 Items (19xx)(-)"
+	rom ( name "Sharx Place 01 - 21 Items (19xx)(-).ssd" size 204800 crc fe0e7a54 md5 af43d3d1131ccf46752e0597766b312c )
+)
+
+game (
+	name "Sharx Place 02 - 20 Items (19xx)(-)"
+	description "Sharx Place 02 - 20 Items (19xx)(-)"
+	rom ( name "Sharx Place 02 - 20 Items (19xx)(-).ssd" size 204800 crc c07a98a3 md5 8a71bb6ec0deb207f8a33490c70f1a8e )
+)
+
+game (
+	name "Sharx Place 03 - 30 Items (19xx)(-)"
+	description "Sharx Place 03 - 30 Items (19xx)(-)"
+	rom ( name "Sharx Place 03 - 30 Items (19xx)(-).ssd" size 204800 crc 04a81efb md5 2771b0d94356ff7e8ee548d0819e9e4a )
+)
+
+game (
+	name "Sharx Place 04 - 29 Items (19xx)(-)"
+	description "Sharx Place 04 - 29 Items (19xx)(-)"
+	rom ( name "Sharx Place 04 - 29 Items (19xx)(-).ssd" size 204800 crc f2ff6548 md5 8c847174efb9f8e3d34e219c8b83b019 )
+)
+
+game (
+	name "Sharx Place 05 - 29 Items (19xx)(-)"
+	description "Sharx Place 05 - 29 Items (19xx)(-)"
+	rom ( name "Sharx Place 05 - 29 Items (19xx)(-).ssd" size 204800 crc 59524c59 md5 85efa1a8e486e06296117f9a50d8e614 )
+)
+
+game (
+	name "Sharx Place 06 - 21 Items (19xx)(-)"
+	description "Sharx Place 06 - 21 Items (19xx)(-)"
+	rom ( name "Sharx Place 06 - 21 Items (19xx)(-).ssd" size 204800 crc 5074fb6a md5 d2621d901f18353779cb8fed3fb8f4b1 )
+)
+
+game (
+	name "Sharx Place 07 - 16 Items (19xx)(-)"
+	description "Sharx Place 07 - 16 Items (19xx)(-)"
+	rom ( name "Sharx Place 07 - 16 Items (19xx)(-).ssd" size 204800 crc 810b0acf md5 0e732ac00ff074be99be38240b917751 )
+)
+
+game (
+	name "Sharx Place 08 - 12 Items (19xx)(-)"
+	description "Sharx Place 08 - 12 Items (19xx)(-)"
+	rom ( name "Sharx Place 08 - 12 Items (19xx)(-).ssd" size 204800 crc 87957151 md5 bab32c25148388d0d9496df2ba2c4c85 )
+)
+
+game (
+	name "Sharx Place 09 - 21 Items (19xx)(-)"
+	description "Sharx Place 09 - 21 Items (19xx)(-)"
+	rom ( name "Sharx Place 09 - 21 Items (19xx)(-).ssd" size 204800 crc 2d776d8d md5 76649fbc2f367d3e992ae39824e44e68 )
+)
+
+game (
+	name "Sharx Place 10 - 12 Items (19xx)(-)"
+	description "Sharx Place 10 - 12 Items (19xx)(-)"
+	rom ( name "Sharx Place 10 - 12 Items (19xx)(-).ssd" size 204800 crc f88664b9 md5 b2d62d1a3059337b44dac5fdc9c4f752 )
+)
+
+game (
+	name "Sharx Place 11 - 14 Items (19xx)(-)"
+	description "Sharx Place 11 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 11 - 14 Items (19xx)(-).ssd" size 204800 crc e7c65097 md5 aa1560eb2088c6fbefa832d3fbb386cd )
+)
+
+game (
+	name "Sharx Place 12 - 20 Items (19xx)(-)"
+	description "Sharx Place 12 - 20 Items (19xx)(-)"
+	rom ( name "Sharx Place 12 - 20 Items (19xx)(-).ssd" size 204800 crc 6147c63e md5 00b41d0a67c55867268409e945aa5373 )
+)
+
+game (
+	name "Sharx Place 13 - 24 Items (19xx)(-)"
+	description "Sharx Place 13 - 24 Items (19xx)(-)"
+	rom ( name "Sharx Place 13 - 24 Items (19xx)(-).ssd" size 204800 crc 05a60064 md5 4d7bbb2509ddf10c0eef2e038e8f93a7 )
+)
+
+game (
+	name "Sharx Place 14 - 23 Items (19xx)(-)"
+	description "Sharx Place 14 - 23 Items (19xx)(-)"
+	rom ( name "Sharx Place 14 - 23 Items (19xx)(-).ssd" size 204800 crc ac7de274 md5 8dca2c148ccb3b1eede2738c7539f57d )
+)
+
+game (
+	name "Sharx Place 15 - 31 Items (19xx)(-)"
+	description "Sharx Place 15 - 31 Items (19xx)(-)"
+	rom ( name "Sharx Place 15 - 31 Items (19xx)(-).ssd" size 204800 crc c0cdd4f3 md5 fc061db2c1ebf79d67f03ba0230bc749 )
+)
+
+game (
+	name "Sharx Place 16 - 14 Items (19xx)(-)"
+	description "Sharx Place 16 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 16 - 14 Items (19xx)(-).ssd" size 204800 crc a9c796b5 md5 f395b737c8332fecc4810f0125852618 )
+)
+
+game (
+	name "Sharx Place 17 - 13 Items (19xx)(-)"
+	description "Sharx Place 17 - 13 Items (19xx)(-)"
+	rom ( name "Sharx Place 17 - 13 Items (19xx)(-).ssd" size 204800 crc b37f8866 md5 b2fe93ff8294ae2287d592e17f46934d )
+)
+
+game (
+	name "Sharx Place 18 - 13 Items (19xx)(-)"
+	description "Sharx Place 18 - 13 Items (19xx)(-)"
+	rom ( name "Sharx Place 18 - 13 Items (19xx)(-).ssd" size 204800 crc a1e5ec67 md5 d5f0a46b57efc3d56d693a769b6d9312 )
+)
+
+game (
+	name "Sharx Place 19 - 29 Items (19xx)(-)"
+	description "Sharx Place 19 - 29 Items (19xx)(-)"
+	rom ( name "Sharx Place 19 - 29 Items (19xx)(-).ssd" size 204800 crc 5e18385d md5 00bc7c2e7482f15ff0cf335c8c749999 )
+)
+
+game (
+	name "Sharx Place 20 - 14 Items (19xx)(-)"
+	description "Sharx Place 20 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 20 - 14 Items (19xx)(-).ssd" size 204800 crc eb7d7a92 md5 39b7eb8dffd1fb3b618a5309c1ad6d8f )
+)
+
+game (
+	name "Sharx Place 21 - 31 Items (19xx)(-)"
+	description "Sharx Place 21 - 31 Items (19xx)(-)"
+	rom ( name "Sharx Place 21 - 31 Items (19xx)(-).ssd" size 204800 crc 584e1135 md5 e83c0f660918edf847aa3722d2eb6d7b )
+)
+
+game (
+	name "Sharx Place 22 - 16 Items (19xx)(-)"
+	description "Sharx Place 22 - 16 Items (19xx)(-)"
+	rom ( name "Sharx Place 22 - 16 Items (19xx)(-).ssd" size 204800 crc f0ee743d md5 8886ed08485595c0f0e07fe9e60e7c91 )
+)
+
+game (
+	name "Sharx Place 23 - 14 Items (19xx)(-)"
+	description "Sharx Place 23 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 23 - 14 Items (19xx)(-).ssd" size 204800 crc a775acce md5 8aa1e5ccbeb8bcd11a0917f414061475 )
+)
+
+game (
+	name "Sharx Place 24 - 15 Items (19xx)(-)"
+	description "Sharx Place 24 - 15 Items (19xx)(-)"
+	rom ( name "Sharx Place 24 - 15 Items (19xx)(-).ssd" size 204800 crc 16677c80 md5 a2271cc0179b6d2f6035bf676256e377 )
+)
+
+game (
+	name "Sharx Place 25 - 14 Items (19xx)(-)"
+	description "Sharx Place 25 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 25 - 14 Items (19xx)(-).ssd" size 204800 crc 2daa4d80 md5 92a678263280b8f627effbc0c9a8020f )
+)
+
+game (
+	name "Sharx Place 26 - 12 Items (19xx)(-)"
+	description "Sharx Place 26 - 12 Items (19xx)(-)"
+	rom ( name "Sharx Place 26 - 12 Items (19xx)(-).ssd" size 204800 crc 141a7df0 md5 ce9f3308e6d209c799dbcdd2698dbbab )
+)
+
+game (
+	name "Sharx Place 27 - 17 Items (19xx)(-)"
+	description "Sharx Place 27 - 17 Items (19xx)(-)"
+	rom ( name "Sharx Place 27 - 17 Items (19xx)(-).ssd" size 204800 crc 21854bae md5 b11d1fcbd64918adde55d1b6e9bb81d6 )
+)
+
+game (
+	name "Sharx Place 28 - 17 Items (19xx)(-)"
+	description "Sharx Place 28 - 17 Items (19xx)(-)"
+	rom ( name "Sharx Place 28 - 17 Items (19xx)(-).ssd" size 204800 crc 3cea608d md5 d57ea0669e4fdfb647f1fbdc14b9c688 )
+)
+
+game (
+	name "Sharx Place 29 - 17 Items (19xx)(-)"
+	description "Sharx Place 29 - 17 Items (19xx)(-)"
+	rom ( name "Sharx Place 29 - 17 Items (19xx)(-).ssd" size 204800 crc e87bd9d1 md5 3287c7be4e793795cbf5f2be3a07bc2e )
+)
+
+game (
+	name "Sharx Place 30 - 15 Items (19xx)(-)"
+	description "Sharx Place 30 - 15 Items (19xx)(-)"
+	rom ( name "Sharx Place 30 - 15 Items (19xx)(-).ssd" size 204800 crc 136e3a94 md5 f8746a57d538ea973f31c4017b077372 )
+)
+
+game (
+	name "Sharx Place 31 - 11 Items (19xx)(-)"
+	description "Sharx Place 31 - 11 Items (19xx)(-)"
+	rom ( name "Sharx Place 31 - 11 Items (19xx)(-).ssd" size 204800 crc 980a3557 md5 7a233d13e944aef897e0ed507516137b )
+)
+
+game (
+	name "Sharx Place 32 - 01 Item (19xx)(-)"
+	description "Sharx Place 32 - 01 Item (19xx)(-)"
+	rom ( name "Sharx Place 32 - 01 Item (19xx)(-).ssd" size 204800 crc 8f55f8b3 md5 465008b63a617c6d48ff1a21781ebfc9 )
+)
+
+game (
+	name "Sharx Place 33 - 16 Items (19xx)(-)"
+	description "Sharx Place 33 - 16 Items (19xx)(-)"
+	rom ( name "Sharx Place 33 - 16 Items (19xx)(-).ssd" size 204800 crc 1c5fbcc3 md5 44815051ed18e1f6aebbc111a4af5d85 )
+)
+
+game (
+	name "Sharx Place 34 - 15 Items (19xx)(-)"
+	description "Sharx Place 34 - 15 Items (19xx)(-)"
+	rom ( name "Sharx Place 34 - 15 Items (19xx)(-).ssd" size 204800 crc aef8c637 md5 ca1f0b225e9753d401bf8f331a3ae01c )
+)
+
+game (
+	name "Sharx Place 35 - 16 Items (19xx)(-)"
+	description "Sharx Place 35 - 16 Items (19xx)(-)"
+	rom ( name "Sharx Place 35 - 16 Items (19xx)(-).ssd" size 204800 crc f17b569b md5 a7dab260ecc7ad0699ae6a073aebeaf5 )
+)
+
+game (
+	name "Sharx Place 36 - 04 Items (19xx)(-)"
+	description "Sharx Place 36 - 04 Items (19xx)(-)"
+	rom ( name "Sharx Place 36 - 04 Items (19xx)(-).ssd" size 204800 crc 2d804237 md5 f6b3ba92c79190df2e1661b54d9debef )
+)
+
+game (
+	name "Sharx Place 37 - 21 Items (19xx)(-)"
+	description "Sharx Place 37 - 21 Items (19xx)(-)"
+	rom ( name "Sharx Place 37 - 21 Items (19xx)(-).ssd" size 204800 crc f31a2101 md5 b62ef6f6cf2f9c71199361159f7ce1b3 )
+)
+
+game (
+	name "Sharx Place 38 - 12 Items (19xx)(-)"
+	description "Sharx Place 38 - 12 Items (19xx)(-)"
+	rom ( name "Sharx Place 38 - 12 Items (19xx)(-).ssd" size 204800 crc 8270fd8c md5 e4d9e63d1e13b7148bec7f6c757372da )
+)
+
+game (
+	name "Sharx Place 39 - 20 Items (19xx)(-)"
+	description "Sharx Place 39 - 20 Items (19xx)(-)"
+	rom ( name "Sharx Place 39 - 20 Items (19xx)(-).ssd" size 204800 crc 4feadeed md5 0ed7b4b326056d5642f2f0d1e274abe3 )
+)
+
+game (
+	name "Sharx Place 40 - 14 Items (19xx)(-)"
+	description "Sharx Place 40 - 14 Items (19xx)(-)"
+	rom ( name "Sharx Place 40 - 14 Items (19xx)(-).ssd" size 204800 crc e9c910f0 md5 0198703b25685a78fb348aed95b64819 )
+)
+
+game (
+	name "Sharx Place 41 - 07 Items (19xx)(-)"
+	description "Sharx Place 41 - 07 Items (19xx)(-)"
+	rom ( name "Sharx Place 41 - 07 Items (19xx)(-).ssd" size 204800 crc 13cdcafd md5 49959977fa405af65cb025522c758fa7 )
+)
+
+game (
+	name "Sharx Place 42 - 20 Items (19xx)(-)"
+	description "Sharx Place 42 - 20 Items (19xx)(-)"
+	rom ( name "Sharx Place 42 - 20 Items (19xx)(-).ssd" size 204800 crc 8d438a52 md5 ff071293d62c2567a8b82253b53e54f6 )
+)
+
+game (
+	name "Sharx Place 43 - 25 Items (19xx)(-)"
+	description "Sharx Place 43 - 25 Items (19xx)(-)"
+	rom ( name "Sharx Place 43 - 25 Items (19xx)(-).ssd" size 204800 crc a22efed8 md5 4ffcf2efc34472bbcb566c24f5bee195 )
+)
+
+game (
+	name "Sharx Place 44 - 13 Items (19xx)(-)"
+	description "Sharx Place 44 - 13 Items (19xx)(-)"
+	rom ( name "Sharx Place 44 - 13 Items (19xx)(-).ssd" size 204800 crc d2747955 md5 4610381b1447d7879fb5a8248300032b )
+)
+
+game (
+	name "Sharx Place 45 - 11 Items (19xx)(-)"
+	description "Sharx Place 45 - 11 Items (19xx)(-)"
+	rom ( name "Sharx Place 45 - 11 Items (19xx)(-).ssd" size 204800 crc 59654848 md5 9fc39a50374bd3473016026432dc0e9e )
+)
+
+game (
+	name "Sharx Place 46 - 11 Items (19xx)(-)"
+	description "Sharx Place 46 - 11 Items (19xx)(-)"
+	rom ( name "Sharx Place 46 - 11 Items (19xx)(-).ssd" size 204800 crc 8ca741c9 md5 4837d0db707fd823f1c11f97cedead64 )
+)
+
+game (
+	name "Sharx Place 47 - 09 Items (19xx)(-)"
+	description "Sharx Place 47 - 09 Items (19xx)(-)"
+	rom ( name "Sharx Place 47 - 09 Items (19xx)(-).ssd" size 204800 crc aebbdf6c md5 699107e738970fad8c516c795ceaeac8 )
+)
+
+game (
+	name "Sharx Place 48 - 07 Items (19xx)(-)"
+	description "Sharx Place 48 - 07 Items (19xx)(-)"
+	rom ( name "Sharx Place 48 - 07 Items (19xx)(-).ssd" size 204800 crc ed733db3 md5 ada065cd11ab5e1334eb82d0febde419 )
+)
+
+game (
+	name "Sharx Place 49 - 06 Items (19xx)(-)"
+	description "Sharx Place 49 - 06 Items (19xx)(-)"
+	rom ( name "Sharx Place 49 - 06 Items (19xx)(-).ssd" size 204800 crc 43ef8551 md5 aa006cc0abbcfcae74f193f0fca3860a )
+)
+
+game (
+	name "Sharx Place 51 - 07 Items (19xx)(-)"
+	description "Sharx Place 51 - 07 Items (19xx)(-)"
+	rom ( name "Sharx Place 51 - 07 Items (19xx)(-).ssd" size 204800 crc 6a99be9f md5 930e7ea77c062a54f0fda70098d2688a )
+)
+
+game (
+	name "Sharx Place 52 - 15 Items (19xx)(-)"
+	description "Sharx Place 52 - 15 Items (19xx)(-)"
+	rom ( name "Sharx Place 52 - 15 Items (19xx)(-).ssd" size 204800 crc 7d3ce561 md5 0b6764cf11672c66daaa68415927ab9d )
+)
+
+game (
+	name "Sharx Place 53 - 09 Items (19xx)(-)"
+	description "Sharx Place 53 - 09 Items (19xx)(-)"
+	rom ( name "Sharx Place 53 - 09 Items (19xx)(-).ssd" size 204800 crc 8b64d521 md5 f9669f76936cb1cd229e80cdf6b06b51 )
+)
+
+game (
+	name "Sharx Place 54 - 16 Items (19xx)(-)"
+	description "Sharx Place 54 - 16 Items (19xx)(-)"
+	rom ( name "Sharx Place 54 - 16 Items (19xx)(-).ssd" size 204800 crc a0334f19 md5 63fa6c6741543dbea5b9dc5f13d8331d )
+)
+
+game (
+	name "Sharx Place 55 - 01 Item (19xx)(-)"
+	description "Sharx Place 55 - 01 Item (19xx)(-)"
+	rom ( name "Sharx Place 55 - 01 Item (19xx)(-).ssd" size 204800 crc 1efcf7c7 md5 2ceb0026f8f6dd77fcc25e6f9ddfe3b9 )
+)
+
+game (
+	name "Sharx Place 57 - xx Items (19xx)(-)[b]"
+	description "Sharx Place 57 - xx Items (19xx)(-)[b]"
+	rom ( name "Sharx Place 57 - xx Items (19xx)(-)[b].ssd" size 204800 crc 8417c037 md5 5ea7f74bc3fc3a025b37af9eb4a769e3 )
+)
+
+game (
+	name "Sharx Place 58 - 10 Items (19xx)(-)"
+	description "Sharx Place 58 - 10 Items (19xx)(-)"
+	rom ( name "Sharx Place 58 - 10 Items (19xx)(-).ssd" size 204800 crc f54e5891 md5 dd61865875a8fe6584fdd2353dcf5195 )
+)
+
+game (
+	name "Sharx Place 59 - 05 Items (19xx)(-)"
+	description "Sharx Place 59 - 05 Items (19xx)(-)"
+	rom ( name "Sharx Place 59 - 05 Items (19xx)(-).ssd" size 204800 crc 6aedd3d3 md5 e88392a0825ce3890b4724828cd34dd2 )
+)
+
+game (
+	name "Sharx Place 60 - 11 Items (19xx)(-)"
+	description "Sharx Place 60 - 11 Items (19xx)(-)"
+	rom ( name "Sharx Place 60 - 11 Items (19xx)(-).ssd" size 204800 crc 048fe981 md5 6156767b2d50298fa75b988c14136319 )
+)
+
+game (
+	name "Sharx Place 61 - 11 Items (19xx)(-)"
+	description "Sharx Place 61 - 11 Items (19xx)(-)"
+	rom ( name "Sharx Place 61 - 11 Items (19xx)(-).ssd" size 204800 crc 875040b9 md5 985022abe251ab03f589605bd6e0f4b7 )
+)
+
+game (
+	name "Sharx Place 63 - 02 Items (19xx)(-)"
+	description "Sharx Place 63 - 02 Items (19xx)(-)"
+	rom ( name "Sharx Place 63 - 02 Items (19xx)(-).ssd" size 204800 crc 2ab2658c md5 feffd6360c8e776764fd4b198d9aaf40 )
+)
+
+game (
+	name "Sharx Place 64 - 04 Items (19xx)(-)"
+	description "Sharx Place 64 - 04 Items (19xx)(-)"
+	rom ( name "Sharx Place 64 - 04 Items (19xx)(-).ssd" size 204800 crc 012a0511 md5 abf06186e7a22391269675fc4a4c64a3 )
+)
+
+game (
+	name "Smash 7 - Part 1 (19xx)(-)[h TSTH]"
+	description "Smash 7 - Part 1 (19xx)(-)[h TSTH]"
+	rom ( name "Smash 7 - Part 1 (19xx)(-)[h TSTH].ssd" size 86784 crc 1d894da1 md5 6e60e64766e7425c3aca78b09c275838 )
+)
+
+game (
+	name "Smash 7 - Part 2 (19xx)(-)[h TSTH]"
+	description "Smash 7 - Part 2 (19xx)(-)[h TSTH]"
+	rom ( name "Smash 7 - Part 2 (19xx)(-)[h TSTH].ssd" size 49920 crc 7f252928 md5 2d3370a669e15ca0d2a75b209673a03c )
+)
+
+game (
+	name "Smash 7 (19xx)(-)"
+	description "Smash 7 (19xx)(-)"
+	rom ( name "Smash 7 (19xx)(-).ssd" size 204800 crc 8cf1d13d md5 edf6de01bac73e533c0bdd30e3ac197f )
+)
+
+game (
+	name "Smash 7 (19xx)(-)[h TSTH]"
+	description "Smash 7 (19xx)(-)[h TSTH]"
+	rom ( name "Smash 7 (19xx)(-)[h TSTH].ssd" size 132608 crc a2dd7965 md5 edcf225a1a868b68763edd63021222ba )
+)
+
+game (
+	name "Software Invasion Games (19xx)(-)(Side 0)"
+	description "Software Invasion Games (19xx)(-)(Side 0)"
+	rom ( name "Software Invasion Games (19xx)(-)(Side 0).ssd" size 204800 crc 7a7efc59 md5 b80cb816ddbae9d20d283ec2fdecaa59 )
+)
+
+game (
+	name "Software Invasion Games (19xx)(-)(Side 1)"
+	description "Software Invasion Games (19xx)(-)(Side 1)"
+	rom ( name "Software Invasion Games (19xx)(-)(Side 1).ssd" size 204800 crc c1f43c4d md5 65b08e43197a105ae5d4b48218867f9d )
+)
+
+game (
+	name "Software Invasion Smash 7 (19xx)(-)"
+	description "Software Invasion Smash 7 (19xx)(-)"
+	rom ( name "Software Invasion Smash 7 (19xx)(-).ssd" size 132608 crc 6e42340d md5 95cdd946f55421caa7ad7b82feded72a )
+)
+
+game (
+	name "Solidisk and Assorted ROMs (19xx)(-)(Side 0)"
+	description "Solidisk and Assorted ROMs (19xx)(-)(Side 0)"
+	rom ( name "Solidisk and Assorted ROMs (19xx)(-)(Side 0).ssd" size 204800 crc 80b8a306 md5 75ef24a522e018fc2a907f0ee8d2146b )
+)
+
+game (
+	name "Solidisk and Assorted ROMs (19xx)(-)(Side 1)"
+	description "Solidisk and Assorted ROMs (19xx)(-)(Side 1)"
+	rom ( name "Solidisk and Assorted ROMs (19xx)(-)(Side 1).ssd" size 204800 crc 91a9cc04 md5 aeaac635dff178edff66f61b5642eabf )
+)
+
+game (
+	name "Spel 01 (19xx)(-)"
+	description "Spel 01 (19xx)(-)"
+	rom ( name "Spel 01 (19xx)(-).ssd" size 102400 crc 9fafa087 md5 b628d6d1489665905d78a19cbb92f91a )
+)
+
+game (
+	name "Spel 02 (19xx)(-)"
+	description "Spel 02 (19xx)(-)"
+	rom ( name "Spel 02 (19xx)(-).ssd" size 102400 crc 10980f9e md5 e544396111d6c3e97da70a345138e92d )
+)
+
+game (
+	name "Spel 03 (19xx)(-)"
+	description "Spel 03 (19xx)(-)"
+	rom ( name "Spel 03 (19xx)(-).ssd" size 102400 crc 6c7ebddb md5 28d4adbd14ac0377af75b446553500e4 )
+)
+
+game (
+	name "Spel 06 (19xx)(-)"
+	description "Spel 06 (19xx)(-)"
+	rom ( name "Spel 06 (19xx)(-).ssd" size 100864 crc 664d4674 md5 5633df114703339e1559229a90b6fa9c )
+)
+
+game (
+	name "Spel 09 (19xx)(-)"
+	description "Spel 09 (19xx)(-)"
+	rom ( name "Spel 09 (19xx)(-).ssd" size 180224 crc 0c40a957 md5 db41e55a59c88fc1c10f945dcf71b9a5 )
+)
+
+game (
+	name "Spel 12 (19xx)(-)"
+	description "Spel 12 (19xx)(-)"
+	rom ( name "Spel 12 (19xx)(-).ssd" size 180224 crc fa7e921c md5 e6fa5e764067565fb00a243cc09d775c )
+)
+
+game (
+	name "Spil Disk #46 (19xx)(-)(Side 0)"
+	description "Spil Disk #46 (19xx)(-)(Side 0)"
+	rom ( name "Spil Disk #46 (19xx)(-)(Side 0).ssd" size 204800 crc 0da1ecfc md5 1586eb2a46c99d6d9af475c79ba08d8a )
+)
+
+game (
+	name "Spil Disk #46 (19xx)(-)(Side 1)"
+	description "Spil Disk #46 (19xx)(-)(Side 1)"
+	rom ( name "Spil Disk #46 (19xx)(-)(Side 1).ssd" size 204800 crc d0a4331d md5 9f117f5bc34f38b94c2d2cf65a9870f1 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc 4D3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc 4D3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc 4D3-r1 (19xx)(-).ssd" size 89856 crc c711406f md5 30769ea86cb0d07d5ac1fdb45297b2fb )
+)
+
+game (
+	name "Stairway to Hell - Games Disc 4D4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc 4D4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc 4D4-r1 (19xx)(-).ssd" size 99584 crc cc98dfc0 md5 4c31c1b8952e7a5668c02508af81a52a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc 4D5-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc 4D5-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc 4D5-r1 (19xx)(-).ssd" size 99584 crc 9730b6c3 md5 47ccaf1969b5f4c68569abfb9a4f27d5 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AL2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AL2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AL2-r1 (19xx)(-).ssd" size 176128 crc 67b9c1dc md5 3d19859a879b3e15b67845e51a54fd24 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc AS2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc AS2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc AS2-r1 (19xx)(-).ssd" size 181248 crc 124b5dc7 md5 feefa4c5305869b76643b3f4456323e1 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BB2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BB2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BB2-r1 (19xx)(-).ssd" size 82176 crc 7b3f704b md5 3a1c95fe88ad9a7702cc377b72467e17 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BUDJ1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BUDJ1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BUDJ1-r1 (19xx)(-).ssd" size 72192 crc 130a9e54 md5 ac647ef5504d28b8b273468a22ea022b )
+)
+
+game (
+	name "Stairway to Hell - Games Disc BUDJ2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc BUDJ2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc BUDJ2-r1 (19xx)(-).ssd" size 92672 crc 5cec3e16 md5 aadefad42aecfa429afe9e851fb59f01 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc COHCD-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc COHCD-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc COHCD-r1 (19xx)(-).ssd" size 101632 crc a453c69d md5 50a076020d82d1d0fdebddd54cbb8749 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc F1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc F1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc F1-r1 (19xx)(-).ssd" size 130560 crc 10fb00c0 md5 9de88f33be36bb9771594d98637c6acd )
+)
+
+game (
+	name "Stairway to Hell - Games Disc G2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc G2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc G2-r1 (19xx)(-).ssd" size 159488 crc 8ed22988 md5 8a5f40defbcbd2d8d7fd08d58bececfe )
+)
+
+game (
+	name "Stairway to Hell - Games Disc I2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc I2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc I2-r1 (19xx)(-).ssd" size 44544 crc 25ebe685 md5 ba324393abdb7c205ba19c64a5f79d01 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc K1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc K1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc K1-r1 (19xx)(-).ssd" size 86016 crc 48b625b3 md5 9fc592454ddff3af34119e37a1037739 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc M4-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc M4-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc M4-r1 (19xx)(-).ssd" size 196608 crc 7a5a04f2 md5 1cbe16c006699308641ebd3f73869f24 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc PQ3-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc PQ3-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc PQ3-r1 (19xx)(-).ssd" size 123136 crc 19eb72ec md5 9d02c4fbffa250db6485e2bf981fb21a )
+)
+
+game (
+	name "Stairway to Hell - Games Disc T2-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc T2-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc T2-r1 (19xx)(-).ssd" size 87296 crc 901ea834 md5 ae7658ba1aba2713e7db75ea80ac8880 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc TY6-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc TY6-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc TY6-r1 (19xx)(-).ssd" size 155904 crc 5f028cbe md5 1475a13786da900b876b2809b4412936 )
+)
+
+game (
+	name "Stairway to Hell - Games Disc VS1-r1 (19xx)(-)"
+	description "Stairway to Hell - Games Disc VS1-r1 (19xx)(-)"
+	rom ( name "Stairway to Hell - Games Disc VS1-r1 (19xx)(-).ssd" size 135168 crc 3176787d md5 5929ed03382099b6f6f059655e67065a )
+)
+
+game (
+	name "Superior Collection - Vol 1 (19xx)(Superior)(Disk 1 of 2)[h TSTH]"
+	description "Superior Collection - Vol 1 (19xx)(Superior)(Disk 1 of 2)[h TSTH]"
+	rom ( name "Superior Collection - Vol 1 (19xx)(Superior)(Disk 1 of 2)[h TSTH].ssd" size 82688 crc ab2cea40 md5 83ef6ef7f2a9a1782ac555fdcb9f6de6 )
+)
+
+game (
+	name "Superior Collection - Vol 1 (19xx)(Superior)(Disk 2 of 2)[h TSTH]"
+	description "Superior Collection - Vol 1 (19xx)(Superior)(Disk 2 of 2)[h TSTH]"
+	rom ( name "Superior Collection - Vol 1 (19xx)(Superior)(Disk 2 of 2)[h TSTH].ssd" size 99840 crc 3702bcca md5 ec187e5dae541745788abcc0eb67076c )
+)
+
+game (
+	name "Superior Collection - Vol 2 (19xx)(Superior)(Disk 1 of 2)[h TSTH]"
+	description "Superior Collection - Vol 2 (19xx)(Superior)(Disk 1 of 2)[h TSTH]"
+	rom ( name "Superior Collection - Vol 2 (19xx)(Superior)(Disk 1 of 2)[h TSTH].ssd" size 79104 crc 203d27b6 md5 cfbf9b983993b8841e0a0bfa404cc0d7 )
+)
+
+game (
+	name "Superior Collection - Vol 2 (19xx)(Superior)(Disk 2 of 2)[h TSTH]"
+	description "Superior Collection - Vol 2 (19xx)(Superior)(Disk 2 of 2)[h TSTH]"
+	rom ( name "Superior Collection - Vol 2 (19xx)(Superior)(Disk 2 of 2)[h TSTH].ssd" size 90880 crc 5c784da3 md5 7cb44076a40ade9affa7f0875c238928 )
+)
+
+game (
+	name "Superior Demonstration Disc (19xx)(Superior)"
+	description "Superior Demonstration Disc (19xx)(Superior)"
+	rom ( name "Superior Demonstration Disc (19xx)(Superior).ssd" size 204800 crc 48f42d61 md5 06df89345e6f567c736e5fdd3462aa3c )
+)
+
+game (
+	name "Switch Programs (2000)(Care, Thurrock)"
+	description "Switch Programs (2000)(Care, Thurrock)"
+	rom ( name "Switch Programs (2000)(Care, Thurrock).ssd" size 204800 crc 04627ec7 md5 a133cf951f64a1dd2a65e07e3b8a0ba6 )
+)
+
+game (
+	name "Tape to Disc Utilities (19xx)(8-Bit)"
+	description "Tape to Disc Utilities (19xx)(8-Bit)"
+	rom ( name "Tape to Disc Utilities (19xx)(8-Bit).ssd" size 204800 crc 3d554217 md5 a6bb991c46707a6702f05c85d615ff56 )
+)
+
+game (
+	name "TMS Utilities (19xx)(-)"
+	description "TMS Utilities (19xx)(-)"
+	rom ( name "TMS Utilities (19xx)(-).ssd" size 204800 crc 6414241b md5 c3d9c69b96b15f6e320eec3abf64221f )
+)
+
+game (
+	name "Traditional Games (19xx)(-)[h TSTH]"
+	description "Traditional Games (19xx)(-)[h TSTH]"
+	rom ( name "Traditional Games (19xx)(-)[h TSTH].ssd" size 28416 crc 7161a82b md5 fe6fe7ff1f0d38bc4c7fbcd95e574f98 )
+)
+
+game (
+	name "Transfer Utilities (19xx)(8-Bit)"
+	description "Transfer Utilities (19xx)(8-Bit)"
+	rom ( name "Transfer Utilities (19xx)(8-Bit).ssd" size 204800 crc 1a39783b md5 3fba7c48ad8bfa44ad89cf6e9ec692ad )
+)
+
+game (
+	name "Triple Decker 01 (19xx)(-)[h TSTH]"
+	description "Triple Decker 01 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 01 (19xx)(-)[h TSTH].ssd" size 27392 crc 1aa3d6c6 md5 d48ca25fff1f102ceeaa16e78a4ce623 )
+)
+
+game (
+	name "Triple Decker 02 (19xx)(-)[h TSTH]"
+	description "Triple Decker 02 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 02 (19xx)(-)[h TSTH].ssd" size 27904 crc b10d2467 md5 d95740d2d751c09bf12fb5472ebc7bde )
+)
+
+game (
+	name "Triple Decker 04 (19xx)(-)[h TSTH]"
+	description "Triple Decker 04 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 04 (19xx)(-)[h TSTH].ssd" size 24064 crc 03395da1 md5 ed18c8d6883b5b139a222a3f4fc43a88 )
+)
+
+game (
+	name "Triple Decker 05 (19xx)(-)[h TSTH]"
+	description "Triple Decker 05 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 05 (19xx)(-)[h TSTH].ssd" size 36096 crc aff52755 md5 99cb46aeec2f2f28394f690fd934cc91 )
+)
+
+game (
+	name "Triple Decker 06 (19xx)(-)[h TSTH]"
+	description "Triple Decker 06 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 06 (19xx)(-)[h TSTH].ssd" size 32000 crc bc79388c md5 5e2b97468018d9fb105d4afc1113fbad )
+)
+
+game (
+	name "Triple Decker 07 (19xx)(-)[h TSTH]"
+	description "Triple Decker 07 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 07 (19xx)(-)[h TSTH].ssd" size 22528 crc c1e460b1 md5 a924ffd2f261af641c5afaa622835820 )
+)
+
+game (
+	name "Triple Decker 09 (19xx)(-)[h TSTH]"
+	description "Triple Decker 09 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 09 (19xx)(-)[h TSTH].ssd" size 16384 crc 3ef5e337 md5 b6959d60808bfad72457dd6d46d54ae8 )
+)
+
+game (
+	name "Triple Decker 10 (19xx)(-)[h TSTH]"
+	description "Triple Decker 10 (19xx)(-)[h TSTH]"
+	rom ( name "Triple Decker 10 (19xx)(-)[h TSTH].ssd" size 18688 crc 14acfe03 md5 91ffd5398fbf2dec055f948e5f7075f5 )
+)
+
+game (
+	name "Tynesoft 1 (19xx)(-)(Side 0)"
+	description "Tynesoft 1 (19xx)(-)(Side 0)"
+	rom ( name "Tynesoft 1 (19xx)(-)(Side 0).ssd" size 204800 crc f761fdad md5 09d607aeefcba9f77f026a5462290c91 )
+)
+
+game (
+	name "Tynesoft 1 (19xx)(-)(Side 1)"
+	description "Tynesoft 1 (19xx)(-)(Side 1)"
+	rom ( name "Tynesoft 1 (19xx)(-)(Side 1).ssd" size 204800 crc 37f72343 md5 84eec36b9e908ac27fe8d8db879a66f5 )
+)
+
+game (
+	name "Tynesoft 2 (19xx)(-)(Side 0)"
+	description "Tynesoft 2 (19xx)(-)(Side 0)"
+	rom ( name "Tynesoft 2 (19xx)(-)(Side 0).ssd" size 204800 crc 70b3f484 md5 3aee3cd38fe5c31b445ffecd65644def )
+)
+
+game (
+	name "Tynesoft 2 (19xx)(-)(Side 1)"
+	description "Tynesoft 2 (19xx)(-)(Side 1)"
+	rom ( name "Tynesoft 2 (19xx)(-)(Side 1).ssd" size 204800 crc c68e1c68 md5 514a486c96a76e476b5795faca61a403 )
+)
+
+game (
+	name "U.S. Gold Games (19xx)(-)(Side 0)"
+	description "U.S. Gold Games (19xx)(-)(Side 0)"
+	rom ( name "U.S. Gold Games (19xx)(-)(Side 0).ssd" size 204800 crc 3b5fb6e3 md5 bbaf40b975cfced3f720c08641278c09 )
+)
+
+game (
+	name "U.S. Gold Games (19xx)(-)(Side 1)"
+	description "U.S. Gold Games (19xx)(-)(Side 1)"
+	rom ( name "U.S. Gold Games (19xx)(-)(Side 1).ssd" size 204800 crc a6df7cab md5 28aafd580b78126ed15b3b6e9e1493fd )
+)
+
+game (
+	name "Ultimate PD Games (19xx)(GLM)(PD)"
+	description "Ultimate PD Games (19xx)(GLM)(PD)"
+	rom ( name "Ultimate PD Games (19xx)(GLM)(PD).ssd" size 204800 crc aa7af67d md5 68267fb41f85adfd44d895e95f087ff5 )
+)
+
+game (
+	name "Utilities (19xx)(8-Bit)"
+	description "Utilities (19xx)(8-Bit)"
+	rom ( name "Utilities (19xx)(8-Bit).ssd" size 204800 crc 98de7214 md5 70fbdcb55e340c051821d0d43d2f7088 )
+)
+
+game (
+	name "Utilities 1 (19xx)(Red Shift)[h 8-Bit]"
+	description "Utilities 1 (19xx)(Red Shift)[h 8-Bit]"
+	rom ( name "Utilities 1 (19xx)(Red Shift)[h 8-Bit].ssd" size 204800 crc fd17ea5a md5 7eb85ca3e0b4db92446f951c5a048b28 )
+)
+
+game (
+	name "Utilities Disk 5 (1991)(GLM)[MENU]"
+	description "Utilities Disk 5 (1991)(GLM)[MENU]"
+	rom ( name "Utilities Disk 5 (1991)(GLM)[MENU].ssd" size 204800 crc 36f905eb md5 12dbb00fea52d7f7f53cefca8727bc3c )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)(Side 0)"
+	description "Utility & Language ROMs (19xx)(-)(Side 0)"
+	rom ( name "Utility & Language ROMs (19xx)(-)(Side 0).ssd" size 204800 crc 41d991fe md5 c4efafd92ab84eec7425b5dd49256215 )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)(Side 0)[a]"
+	description "Utility & Language ROMs (19xx)(-)(Side 0)[a]"
+	rom ( name "Utility & Language ROMs (19xx)(-)(Side 0)[a].ssd" size 204800 crc a43d890d md5 9a6135e3a8bb1a7de31dc92249c1e1d0 )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)(Side 1)"
+	description "Utility & Language ROMs (19xx)(-)(Side 1)"
+	rom ( name "Utility & Language ROMs (19xx)(-)(Side 1).ssd" size 204800 crc 47bf0aeb md5 aa4c9ca624e7160bdddc49076d42da76 )
+)
+
+game (
+	name "Utility & Language ROMs (19xx)(-)(Side 1)[a]"
+	description "Utility & Language ROMs (19xx)(-)(Side 1)[a]"
+	rom ( name "Utility & Language ROMs (19xx)(-)(Side 1)[a].ssd" size 204800 crc dc121d9b md5 88b65baffc3b526629032b2fd8c4ffe6 )
+)
+
+game (
+	name "View Printer Drivers (19xx)(-)[h 8-Bit]"
+	description "View Printer Drivers (19xx)(-)[h 8-Bit]"
+	rom ( name "View Printer Drivers (19xx)(-)[h 8-Bit].ssd" size 204800 crc 215f6c73 md5 e481460f74444bfc05c42e90cf4ce982 )
+)
+
+game (
+	name "Viking Collection, The (19xx)(-)[b]"
+	description "Viking Collection, The (19xx)(-)[b]"
+	rom ( name "Viking Collection, The (19xx)(-)[b].ssd" size 204800 crc f8876721 md5 5564937bf37bd1dd8492f59c666cb915 )
+)
+
+game (
+	name "War Games - Tobruk & Salamanca (19xx)(-)[h TSTH]"
+	description "War Games - Tobruk & Salamanca (19xx)(-)[h TSTH]"
+	rom ( name "War Games - Tobruk & Salamanca (19xx)(-)[h TSTH].ssd" size 27136 crc 73de7ac8 md5 b1b4bb7c3b3720e305f56e072ddc5f77 )
+)
+
+game (
+	name "Watford ROMs (19xx)(-)(Side 0)"
+	description "Watford ROMs (19xx)(-)(Side 0)"
+	rom ( name "Watford ROMs (19xx)(-)(Side 0).ssd" size 204800 crc 25dc7403 md5 1f5ee6d7449fc341ee0eeb79af609b8d )
+)
+
+game (
+	name "Watford ROMs (19xx)(-)(Side 1)"
+	description "Watford ROMs (19xx)(-)(Side 1)"
+	rom ( name "Watford ROMs (19xx)(-)(Side 1).ssd" size 204800 crc f9dee99a md5 9694d90b28bd43b51c7e46cba5cbd227 )
+)
+
+game (
+	name "WBMUG MR-8 - ACSII Files & Texts (19xx)(Mad Rabbit)[h 8-Bit]"
+	description "WBMUG MR-8 - ACSII Files & Texts (19xx)(Mad Rabbit)[h 8-Bit]"
+	rom ( name "WBMUG MR-8 - ACSII Files & Texts (19xx)(Mad Rabbit)[h 8-Bit].ssd" size 204800 crc 0847f00a md5 4d86db4f8eee09ec8bde423fdedd78c8 )
+)
+
+game (
+	name "WBMUG MR-8 - Communications (19xx)(Mad Rabbit)[h 8-Bit]"
+	description "WBMUG MR-8 - Communications (19xx)(Mad Rabbit)[h 8-Bit]"
+	rom ( name "WBMUG MR-8 - Communications (19xx)(Mad Rabbit)[h 8-Bit].ssd" size 204800 crc 2d39605c md5 72d9b97530d2f53a00a560ce0acc305e )
+)
+
+game (
+	name "Zap Pak - Cavey & Killapede (1987)(Players)[a][PLAYER]"
+	description "Zap Pak - Cavey & Killapede (1987)(Players)[a][PLAYER]"
+	rom ( name "Zap Pak - Cavey & Killapede (1987)(Players)[a][PLAYER].ssd" size 28160 crc 8039f25a md5 7cf7f65e6ff430890af95da2d95e5aed )
+)
+
+game (
+	name "Zap Pak - Cavey & Killapede (1987)(Players)[h TSTH]"
+	description "Zap Pak - Cavey & Killapede (1987)(Players)[h TSTH]"
+	rom ( name "Zap Pak - Cavey & Killapede (1987)(Players)[h TSTH].ssd" size 45056 crc 9cd0ddb8 md5 6917b48c27f0d222ca30b6e4ebfe8bef )
+)
+
+game (
+	name "Zap Pak - Cavey & Killapede (1987)(Players)[PLAYER]"
+	description "Zap Pak - Cavey & Killapede (1987)(Players)[PLAYER]"
+	rom ( name "Zap Pak - Cavey & Killapede (1987)(Players)[PLAYER].ssd" size 28160 crc 2f6df702 md5 8ea95b0337830b5cd57890f6d9864e71 )
+)

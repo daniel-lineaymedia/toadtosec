@@ -1,0 +1,221 @@
+clrmamepro (
+	name "Epoch Super Cassette Vision - Games"
+	description "Epoch Super Cassette Vision - Games (TOSEC-v2010-09-06)"
+	category "Epoch Super Cassette Vision - Games"
+	version 2010-09-06
+	author "Diaboł"
+)
+
+game (
+	name "Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)"
+	description "Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en)"
+	rom ( name "Astro Wars - Invaders from Space (1984)(Epoch)(JP)(en).bin" size 8192 crc 2dbdb166 md5 5c0a8b9e0ae3bdc62cf758c8de3c621c )
+)
+
+game (
+	name "Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)"
+	description "Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en)"
+	rom ( name "Astro Wars 2 - Battle in Galaxy (1984)(Epoch)(JP)(en).bin" size 8192 crc 34781de1 md5 28b41f62cefae2524f6ae1b980d054d7 )
+)
+
+game (
+	name "BASIC Nyuumon (1985)(Epoch)(JP)(en)"
+	description "BASIC Nyuumon (1985)(Epoch)(JP)(en)"
+	rom ( name "BASIC Nyuumon (1985)(Epoch)(JP)(en).bin" size 32768 crc ca965c2b md5 6da4e79f9dd60abe222ae8f95023ad48 )
+)
+
+game (
+	name "Boulder Dash (1985)(Epoch)(JP)(en)"
+	description "Boulder Dash (1985)(Epoch)(JP)(en)"
+	rom ( name "Boulder Dash (1985)(Epoch)(JP)(en).bin" size 16384 crc e045884c md5 4471a0938102c21a49635d3e4efb61bc )
+)
+
+game (
+	name "Comic Circus (1985)(Epoch)(JP)(en)"
+	description "Comic Circus (1985)(Epoch)(JP)(en)"
+	rom ( name "Comic Circus (1985)(Epoch)(JP)(en).bin" size 16384 crc ea55faed md5 ec261a6208094fceb7a4f8cc60db24b4 )
+)
+
+game (
+	name "Doraemon (1985)(Epoch)(JP)(en)"
+	description "Doraemon (1985)(Epoch)(JP)(en)"
+	rom ( name doraemon.0 size 32768 crc ee0b874d md5 8928d34618d98384119ffa351d0293cf )
+	rom ( name doraemon.1 size 32768 crc d2de91a6 md5 3ac9c39b019a81fabb1e26f75292827c )
+)
+
+game (
+	name "Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)"
+	description "Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en)"
+	rom ( name "Dragon Ball - Dragon Dai Hikyou (1986)(Epoch)(JP)(en).bin" size 131072 crc ea251664 md5 6d11d49390d0946501b39d9f9688ae9d )
+)
+
+game (
+	name "Dragon Slayer (1986)(Epoch)(JP)(en)"
+	description "Dragon Slayer (1986)(Epoch)(JP)(en)"
+	rom ( name "Dragon Slayer (1986)(Epoch)(JP)(en).bin" size 32768 crc 5971940f md5 9c688c8f43b142a84b90181d717df6d2 )
+)
+
+game (
+	name "Elevator Fight (1984)(Epoch)(JP)(en)"
+	description "Elevator Fight (1984)(Epoch)(JP)(en)"
+	rom ( name "Elevator Fight (1984)(Epoch)(JP)(en).bin" size 16384 crc 72dd6031 md5 3ac6b89ba13e57100d522921abb7319c )
+)
+
+game (
+	name "Lupin III (1984)(Epoch)(JP)(en)"
+	description "Lupin III (1984)(Epoch)(JP)(en)"
+	rom ( name "Lupin III (1984)(Epoch)(JP)(en).bin" size 16384 crc 16d7eb4a md5 e1547118cf5a9e88825408f12550b890 )
+)
+
+game (
+	name "Mappy (1986)(Epoch)(JP)(en)"
+	description "Mappy (1986)(Epoch)(JP)(en)"
+	rom ( name "Mappy (1986)(Epoch)(JP)(en).bin" size 32768 crc 605829bb md5 801619e946eb962fe13f4582751c7588 )
+)
+
+game (
+	name "Milky Princess (1985)(Epoch)(JP)"
+	description "Milky Princess (1985)(Epoch)(JP)"
+	rom ( name "Milky Princess (1985)(Epoch)(JP).bin" size 32768 crc b2457990 md5 9449bddc1056d51c7147dc2e6329d2ed )
+)
+
+game (
+	name "Miner 2049er (1985)(Epoch)(JP)(en)"
+	description "Miner 2049er (1985)(Epoch)(JP)(en)"
+	rom ( name "Miner 2049er (1985)(Epoch)(JP)(en).bin" size 16384 crc b0ffc6e2 md5 f4a3f4f5a08a15ec62a32e959a528eac )
+)
+
+game (
+	name "Nebula (1984)(Epoch)(JP)(en)"
+	description "Nebula (1984)(Epoch)(JP)(en)"
+	rom ( name "Nebula (1984)(Epoch)(JP)(en).bin" size 16384 crc 5e6a4caf md5 e86aab083fc9722f8a44b356139522c2 )
+)
+
+game (
+	name "Nebula (1984)(Epoch)(JP)(en)[a]"
+	description "Nebula (1984)(Epoch)(JP)(en)[a]"
+	rom ( name "Nebula (1984)(Epoch)(JP)(en)[a].bin" size 16384 crc efb4bdcd md5 ac629947980bbd14478c29c1645efa41 )
+)
+
+game (
+	name "Nekketsu Kung Fu Road (1985)(Epoch)(JP)(en)"
+	description "Nekketsu Kung Fu Road (1985)(Epoch)(JP)(en)"
+	rom ( name kungfurd.0 size 32768 crc 9cfc5a67 md5 364c7dae2b5ee1d0525906c501b276a5 )
+	rom ( name kungfurd.1 size 8192 crc a895375a md5 4b2f0e32943ed64561a03e267d6f3fd9 )
+)
+
+game (
+	name "Pole Position II (1985)(Epoch)(JP)(en)"
+	description "Pole Position II (1985)(Epoch)(JP)(en)"
+	rom ( name "Pole Position II (1985)(Epoch)(JP)(en).bin" size 131072 crc cb69903d md5 78249cfb10962347a8001ba102992503 )
+)
+
+game (
+	name "Pole Position II (1985)(Epoch)(JP)(en)[a]"
+	description "Pole Position II (1985)(Epoch)(JP)(en)[a]"
+	rom ( name "Pole Position II (1985)(Epoch)(JP)(en)[a].bin" size 32768 crc 5b3a04e0 md5 7c3cb94c676502b8b149afdbf6fbd3f0 )
+)
+
+game (
+	name "Pop & Chips (1985)(Epoch)(JP)(en)"
+	description "Pop & Chips (1985)(Epoch)(JP)(en)"
+	rom ( name "Pop & Chips (1985)(Epoch)(JP)(en).bin" size 32768 crc cc4fb04d md5 e2488c33d92ef9985e6b62b45644303c )
+)
+
+game (
+	name "Professional Wrestling (1986)(Epoch)(JP)(en)"
+	description "Professional Wrestling (1986)(Epoch)(JP)(en)"
+	rom ( name "Professional Wrestling (1986)(Epoch)(JP)(en).bin" size 131072 crc 5b1fb2a8 md5 44d432cb0093a1992beb806a68e7aaad )
+)
+
+game (
+	name "Punch Boy (1984)(Epoch)(JP)(en)"
+	description "Punch Boy (1984)(Epoch)(JP)(en)"
+	rom ( name "Punch Boy (1984)(Epoch)(JP)(en).bin" size 16384 crc 4107f03a md5 7c10f8df512ce0bbfad7505ccca88827 )
+)
+
+game (
+	name "Real Graphic Mahjongg (1984)(Epoch)(JP)(en)"
+	description "Real Graphic Mahjongg (1984)(Epoch)(JP)(en)"
+	rom ( name "Real Graphic Mahjongg (1984)(Epoch)(JP)(en).bin" size 16384 crc d3d9106c md5 c9e1042402b5a0ff6f75b737fec8a08a )
+)
+
+game (
+	name "Sansupyuta (1985)(Epoch)(JP)(en)"
+	description "Sansupyuta (1985)(Epoch)(JP)(en)"
+	rom ( name "Sansupyuta (1985)(Epoch)(JP)(en).bin" size 32768 crc 6e7e01b5 md5 05f2b3b1a5e450c8ead224c3ebf5b75f )
+)
+
+game (
+	name "Shogi Nyuumon (1985)(Epoch)(JP)(en)"
+	description "Shogi Nyuumon (1985)(Epoch)(JP)(en)"
+	rom ( name "Shogi Nyuumon (1985)(Epoch)(JP).bin" size 32768 crc 84005c4c md5 b248fff8526d5c3cfba82a6e036815ca )
+)
+
+game (
+	name "Sky Kid (1986)(Epoch)(JP)(en)"
+	description "Sky Kid (1986)(Epoch)(JP)(en)"
+	rom ( name "Sky Kid (1986)(Epoch)(JP)(en).bin" size 65536 crc f49f2085 md5 9b6dd35dd278bcfaa98d4ecf531654cf )
+)
+
+game (
+	name "Star Speeder (1985)(Epoch)(JP)(en)"
+	description "Star Speeder (1985)(Epoch)(JP)(en)"
+	rom ( name starspeeder.0 size 32768 crc 511576ee md5 3060d95c563115bde239375518ee6b1d )
+	rom ( name starspeeder.1 size 8192 crc 7978c4a6 md5 19c339d88cef61bde7048409828a42e7 )
+)
+
+game (
+	name "Super Baseball (1984)(Epoch)(JP)(en)"
+	description "Super Baseball (1984)(Epoch)(JP)(en)"
+	rom ( name "Super Baseball (1984)(Epoch)(JP)(en).bin" size 16384 crc 56f1c473 md5 c800d70c4a1f9600407d8392b9455015 )
+)
+
+game (
+	name "Super Golf (1984)(Epoch)(JP)(en)"
+	description "Super Golf (1984)(Epoch)(JP)(en)"
+	rom ( name "Super Golf (1984)(Epoch)(JP)(en).bin" size 16384 crc 0c0581c9 md5 734091f00d410fc4251f0aae7d47e4c1 )
+)
+
+game (
+	name "Super Sansuu Puter (1985)(Epoch)(JP)(en)"
+	description "Super Sansuu Puter (1985)(Epoch)(JP)(en)"
+	rom ( name "Super Sansuu Puter (1985)(Epoch)(JP)(en).bin" size 32768 crc 6e7e01b5 md5 05f2b3b1a5e450c8ead224c3ebf5b75f )
+)
+
+game (
+	name "Super Soccer (1985)(Epoch)(JP)(en)"
+	description "Super Soccer (1985)(Epoch)(JP)(en)"
+	rom ( name "Super Soccer (1985)(Epoch)(JP)(en).bin" size 16384 crc 590eeefd md5 5cd60ad0a9bfb818db9c4e5accc05537 )
+)
+
+game (
+	name "Super Soccer (1985)(Epoch)(JP)(en)[a]"
+	description "Super Soccer (1985)(Epoch)(JP)(en)[a]"
+	rom ( name "Super Soccer (1985)(Epoch)(JP)(en)[a].bin" size 16384 crc 8283907c md5 dd60e91b361fdc8bc8ead3d76c45897c )
+)
+
+game (
+	name "Ton Ton Ball (1985)(Epoch)(JP)(en)"
+	description "Ton Ton Ball (1985)(Epoch)(JP)(en)"
+	rom ( name "Ton Ton Ball (1985)(Epoch)(JP)(en).bin" size 16384 crc 7f873bfa md5 622cbb0451fbf82b9b7834c5ca589443 )
+)
+
+game (
+	name "Wheelie Racer (1985)(Epoch)(JP)(en)"
+	description "Wheelie Racer (1985)(Epoch)(JP)(en)"
+	rom ( name "Wheelie Racer (1985)(Epoch)(JP)(en).bin" size 16384 crc 9d9b29db md5 ef4ab0300b9e056d1ba9873b63a1b6cf )
+)
+
+game (
+	name "Wheelie Racer (1985)(Epoch)(JP)(en)[a]"
+	description "Wheelie Racer (1985)(Epoch)(JP)(en)[a]"
+	rom ( name "Wheelie Racer (1985)(Epoch)(JP)(en)[a].bin" size 16330 crc 04860245 md5 c6a2d7b69be41d1de936c7643527f842 )
+)
+
+game (
+	name "Y2 Monster Land (1986)(Epoch)(JP)(en)"
+	description "Y2 Monster Land (1986)(Epoch)(JP)(en)"
+	rom ( name "Y2 Monster Land (1986)(Epoch)(JP)(en).bin" size 131072 crc 3ac28fe0 md5 64d6268aebabedb1552c2cd565ec32a7 )
+)
+

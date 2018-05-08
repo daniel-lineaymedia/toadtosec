@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Commodore C128 - Magazines - [TAP]"
+	description "Commodore C128 - Magazines - [TAP] (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Magazines - [TAP]"
+	version 2011-10-06
+	author "DesertWolf - Apache"
+)
+
+game (
+	name "Programmi per Commodore 128 (19xx)(Jackson)(it)"
+	description "Programmi per Commodore 128 (19xx)(Jackson)(it)"
+	rom ( name "Programmi per Commodore 128 (19xx)(Jackson)(it).tap" size 2446284 crc c2e6b114 md5 5f1a11a0c52aa3185e914ea7bd31d997 sha1 4c6705eeb89840804e642e9abf51203c1f5d9438 )
+)
+

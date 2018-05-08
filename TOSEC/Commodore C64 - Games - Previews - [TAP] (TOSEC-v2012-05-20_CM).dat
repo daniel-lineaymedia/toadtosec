@@ -1,0 +1,37 @@
+clrmamepro (
+	name "Commodore C64 - Games - Previews - [TAP]"
+	description "Commodore C64 - Games - Previews - [TAP] (TOSEC-v2012-05-20)"
+	category "Commodore C64 - Games - Previews - [TAP]"
+	version 2012-05-20
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Delta - Mix-E-Load - Preview (1987)(Thalamus)"
+	description "Delta - Mix-E-Load - Preview (1987)(Thalamus)"
+	rom ( name "Delta - Mix-E-Load - Preview (1987)(Thalamus).tap" size 156098 crc 747c7646 md5 ff032ceae3ac6dbf6352041cd114f77a sha1 23939ebcb8de6a4630ed1a2a246b00696fe1b730 )
+)
+
+game (
+	name "In the Beginning (198x)(Mosaic Publishing)"
+	description "In the Beginning (198x)(Mosaic Publishing)"
+	rom ( name "In the Beginning (198x)(Mosaic Publishing).tap" size 1635624 crc 946bd6b7 md5 731a515eeb6f175cc9c49edd8f288a97 sha1 4b32f033833180fd941bb0580429505ddbce51b7 )
+)
+
+game (
+	name "Last Ninja, The - Preview (1987)(System 3)"
+	description "Last Ninja, The - Preview (1987)(System 3)"
+	rom ( name "Last Ninja, The - Preview (1987)(System 3).tap" size 393600 crc 749794cc md5 958b2d5a59819970542c72d452775b60 sha1 f44d8a24094e2eb2f6c2c05cf7d11fc894c4c240 )
+)
+
+game (
+	name "Robocop - Preview (1988)(Ocean Software)"
+	description "Robocop - Preview (1988)(Ocean Software)"
+	rom ( name "Robocop - Preview (1988)(Ocean Software).tap" size 723701 crc f373980c md5 bb2af827c5cf3efa032016c725afaabc sha1 cf1956a853078cdc8e987954f1a7f9f3608924ea )
+)
+
+game (
+	name "Robocop - Preview (1988)(Ocean Software)[u]"
+	description "Robocop - Preview (1988)(Ocean Software)[u]"
+	rom ( name "Robocop - Preview (1988)(Ocean Software)[u].tap" size 131072 crc 2e16cb92 md5 8b60d3c5b12d75084350961d6113865d sha1 91cd60993dcf7534ef8693aab198d4c7d488eb71 )
+)

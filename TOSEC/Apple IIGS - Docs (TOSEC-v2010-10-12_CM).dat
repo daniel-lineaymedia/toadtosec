@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Apple IIGS - Docs"
+	description "Apple IIGS - Docs (TOSEC-v2010-10-12)"
+	category "Apple IIGS - Docs"
+	version 2010-10-12
+	author "TKaos"
+)
+
+game (
+	name "Animasia 3D Manual (1994)(Animasia)(Disk 1 of 2)"
+	description "Animasia 3D Manual (1994)(Animasia)(Disk 1 of 2)"
+	rom ( name "Animasia 3D Manual (1994)(Animasia)(Disk 1 of 2).2mg" size 819264 crc 0e45edd3 md5 9867508953957a9a0bed48711d7abee0 )
+)
+
+game (
+	name "Animasia 3D Manual (1994)(Animasia)(Disk 2 of 2)"
+	description "Animasia 3D Manual (1994)(Animasia)(Disk 2 of 2)"
+	rom ( name "Animasia 3D Manual (1994)(Animasia)(Disk 2 of 2).2mg" size 819264 crc 315504c5 md5 1998f823773fdbf7dfdf7acb92e03a03 )
+)
+
+game (
+	name "Dungeon Master Hints (19xx)(-)"
+	description "Dungeon Master Hints (19xx)(-)"
+	rom ( name "Dungeon Master Hints (19xx)(-).2mg" size 819264 crc 1a60602f md5 e535f0081fa367d04010ebaa49b4d349 )
+)
+
+game (
+	name "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 1 of 2)"
+	description "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 1 of 2)"
+	rom ( name "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 1 of 2).2mg" size 819264 crc a0a655fb md5 41ca6870a9db54e879aa2e51c20116bc )
+)
+
+game (
+	name "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 2 of 2)"
+	description "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 2 of 2)"
+	rom ( name "TML Basic Documentation (1987)(TML Systems)(fr)(Disk 2 of 2).2mg" size 819264 crc a7fc9f7e md5 614029d251e67ffae392062d3dd55e0e )
+)
+
+game (
+	name "Utility Works Docs (1992)(Wilde, George R.)(SW)"
+	description "Utility Works Docs (1992)(Wilde, George R.)(SW)"
+	rom ( name "Utility Works Docs (1992)(Wilde, George R.)(SW).2mg" size 819264 crc 9478cb9b md5 e7bf8bd53a02bb08624b752b715b3da7 )
+)

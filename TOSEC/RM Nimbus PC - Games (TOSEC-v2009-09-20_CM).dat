@@ -1,0 +1,81 @@
+clrmamepro (
+	name "RM Nimbus PC - Games"
+	description "RM Nimbus PC - Games (TOSEC-v2009-09-20)"
+	category "RM Nimbus PC - Games"
+	version 2009-09-20
+	author "Grendel - Cassiel"
+)
+
+game (
+	name "Acheton (1987)(Topologika)(GB)"
+	description "Acheton (1987)(Topologika)(GB)"
+	rom ( name ACHETON.COM size 10240 crc c7dde01a md5 43fcfc4b8844ee976b23be733045c377 )
+	rom ( name ACHETON.DAT size 126976 crc 578d4b14 md5 c5b1314c9d69cb21d39f5e6cfcc3b859 )
+	rom ( name ACHETON.DYN size 4096 crc c151fced md5 d660c7395f6138919d970926e4463a32 )
+)
+
+game (
+	name "Avon (1989)(Topologika)(GB)"
+	description "Avon (1989)(Topologika)(GB)"
+	rom ( name AVON.ADV size 2176 crc 77569c1e md5 c637eb713f73d215e780d9a011404c63 )
+	rom ( name AVON.COM size 11904 crc f1a1e7f1 md5 4f4f792a94917ec2881d47c7fa9f8ea2 )
+	rom ( name AVON.DAT size 66048 crc bcec7b8f md5 6d2950a011c07fc0ce086625ad4ab86e )
+	rom ( name AVON.DYN size 1710 crc 672c4c03 md5 f2968fb437067e009d311b15110acadf )
+)
+
+game (
+	name "Countdown to Doom (1987)(Topologika)(GB)"
+	description "Countdown to Doom (1987)(Topologika)(GB)"
+	rom ( name COUNTDWN.DAT size 57344 crc fc0bcb8c md5 3fc5209fd04faacf3a9b61505294941d )
+	rom ( name COUNTDWN.DYN size 2048 crc 6daaeedc md5 cd8b26d60b82cdbdf8bb7719a3b29880 )
+	rom ( name DOOM.COM size 10240 crc ae822798 md5 32dfd54cd72d3a1f7afa4886e2dc292e )
+)
+
+game (
+	name "Hamil (1987)(Topologika)(GB)"
+	description "Hamil (1987)(Topologika)(GB)"
+	rom ( name HAMIL.COM size 10240 crc e6367c8e md5 0571b0e782254d78f11d92401e53f248 )
+	rom ( name HAMIL.DAT size 47104 crc a554e1ba md5 6f4652ebb7549f00590b52ae574cbc34 )
+	rom ( name HAMIL.DYN size 2048 crc ef7eea48 md5 b1596a5d7b3bd8a756c32db1502d5321 )
+)
+
+game (
+	name "Hezarin (1990)(Topologika)(GB)"
+	description "Hezarin (1990)(Topologika)(GB)"
+	rom ( name HEZARIN.COM size 9735 crc ffc430c0 md5 a7d4dfa325fa16ee8bb24620a02f6c8c )
+	rom ( name HEZARIN.DAT size 167168 crc 9cc55d3c md5 d9b8f7966d3f6acd93a8506c31e52723 )
+	rom ( name HEZARIN.DYN size 3418 crc 52335302 md5 889868150ba13fe153ecb49107679118 )
+)
+
+game (
+	name "Last Days of Doom (1990)(Topologika)(GB)"
+	description "Last Days of Doom (1990)(Topologika)(GB)"
+	rom ( name LASTDAYS.COM size 10165 crc 22c8bfbc md5 0418fb9e0e0ff6eed3519a997d000b1f )
+	rom ( name LASTDAYS.DAT size 117248 crc 78dc9d3a md5 ac25297d424e78f85460476cf96b4606 )
+	rom ( name LASTDAYS.DYN size 2216 crc b655f5f3 md5 814e9eefcb06701895ea3d953415aa21 )
+)
+
+game (
+	name "Philosopher's Quest (1987)(Topologika)(GB)"
+	description "Philosopher's Quest (1987)(Topologika)(GB)"
+	rom ( name PQUEST.COM size 10240 crc 31f552e2 md5 c5931a93dd4c2d7f639d30fba1cfcf03 )
+	rom ( name QUEST.DAT size 66560 crc 338c5332 md5 ca90a88de901c79e4db3fa0290a254f8 )
+	rom ( name QUEST.DYN size 2048 crc bc899599 md5 d4f6d46f3dd8a094fd3df8807448fe4f )
+)
+
+game (
+	name "Return to Doom (1988)(Topologika)(GB)"
+	description "Return to Doom (1988)(Topologika)(GB)"
+	rom ( name RETURN.COM size 10240 crc 2089b499 md5 17726f69e0dab8794785d38a3ec0ea6e )
+	rom ( name RETURN.DAT size 95232 crc 40c50d5b md5 14b2df920ce091f2d44625a508202043 )
+	rom ( name RETURN.DYN size 2048 crc 3087d465 md5 4ca9832f2c398ea76c6559bb238c5741 )
+)
+
+game (
+	name "Spy Snatcher (1993)(Topologika)(GB)"
+	description "Spy Snatcher (1993)(Topologika)(GB)"
+	rom ( name SNATCHER.DAT size 85248 crc aa44dfdd md5 d3e993200a45800e777208002bbf267a )
+	rom ( name SNATCHER.DYN size 1193 crc b3f34c3f md5 a18a17fdaf35ff8ab7c84187da1073cc )
+	rom ( name SPY.COM size 11835 crc a0ab0d8a md5 3ffdb032048721e87b8a1da5b41774be )
+)
+

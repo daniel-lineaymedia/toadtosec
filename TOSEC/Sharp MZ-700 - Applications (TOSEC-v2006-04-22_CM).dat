@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Sharp MZ-700 - Applications"
+	description "Sharp MZ-700 - Applications (TOSEC-v2006-04-22)"
+	category "Sharp MZ-700 - Applications"
+	version 2006-04-22
+	author "Grendel - Cassiel"
+)
+
+game (
+	name "Account Management (19xx)(-)"
+	description "Account Management (19xx)(-)"
+	rom ( name "Account Management (19xx)(-).mzf" size 6612 crc 2dff3622 md5 9894a3dbc749cf6c66822e66ddb35bdd )
+)
+
+game (
+	name "BASIC Interpreter 1Z-013B v1.0 (1983)(Sharp Corp)"
+	description "BASIC Interpreter 1Z-013B v1.0 (1983)(Sharp Corp)"
+	rom ( name "BASIC Interpreter 1Z-013B v1.0 (1983)(Sharp Corp).mzf" size 27680 crc 2d1a7697 md5 927c33ddd4ae916ca2852207abf0be64 )
+)
+
+game (
+	name "Calendar (19xx)(-)(PD)"
+	description "Calendar (19xx)(-)(PD)"
+	rom ( name "Calendar (19xx)(-)(PD).mzf" size 1430 crc 34885b69 md5 24efd9457805e2ccb9c2e24f10e65ee3 )
+)
+
+game (
+	name "Insertion Sort (19xx)(-)(PD)"
+	description "Insertion Sort (19xx)(-)(PD)"
+	rom ( name "Insertion Sort (19xx)(-)(PD).mzf" size 923 crc 74656e75 md5 b801f4ad93db9501f6e6462ee62d9dff )
+)
+
+game (
+	name "Knights MZ-700 Forth (19xx)(Knights)"
+	description "Knights MZ-700 Forth (19xx)(Knights)"
+	rom ( name "Knights MZ-700 Forth (19xx)(Knights).mzf" size 5329 crc bf45d5ed md5 28c5fa3a72e2a04d4735ac98cc18ee5c )
+)
+
+game (
+	name "Knights Wee Pascal v7.00 (19xx)(Knights)"
+	description "Knights Wee Pascal v7.00 (19xx)(Knights)"
+	rom ( name "Knights Wee Pascal v7.00 (19xx)(Knights).mzf" size 5507 crc a3dc7360 md5 afd810f931c6295ed3bd3ac322b88645 )
+)
+
+game (
+	name "Message Print (19xx)(-)(PD)"
+	description "Message Print (19xx)(-)(PD)"
+	rom ( name "Message Print (19xx)(-)(PD).mzf" size 313 crc 96ace245 md5 679ca691f2185f45123c5b5e0fd8be69 )
+)
+
+game (
+	name "Moving Searcher (1983)(Oak Corp)"
+	description "Moving Searcher (1983)(Oak Corp)"
+	rom ( name "Moving Searcher (1983)(Oak Corp).mzf" size 8480 crc ec11c6b0 md5 8d9b0559377cb326184e8f164a54d0c8 )
+)
+
+game (
+	name "Screenpainter (19xx)(-)(PD)"
+	description "Screenpainter (19xx)(-)(PD)"
+	rom ( name "Screenpainter (19xx)(-)(PD).mzf" size 460 crc 9f031811 md5 8c226cca2dcc0838227ec46bdbdd3c90 )
+)
+
+game (
+	name "Send v0.1 (19xx)(Zatsoft)"
+	description "Send v0.1 (19xx)(Zatsoft)"
+	rom ( name "Send v0.1 (19xx)(Zatsoft).mzf" size 11799 crc ad162095 md5 ea0d3aa5a3388975a41425e265351e46 )
+)

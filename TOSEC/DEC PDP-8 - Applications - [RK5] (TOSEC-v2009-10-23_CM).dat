@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-8 - Applications - [RK5]"
+	description "DEC PDP-8 - Applications - [RK5] (TOSEC-v2009-10-23)"
+	category "DEC PDP-8 - Applications - [RK5]"
+	version 2009-10-23
+	author "TKaos"
+)
+
+game (
+	name "Multos-8 (1985)(-)"
+	description "Multos-8 (1985)(-)"
+	rom ( name "Multos-8 (1985)(-).rk5" size 3325952 crc f9ae0ae7 md5 fca7070e2bd465cd483f1f4aeb1cb0b9 )
+)

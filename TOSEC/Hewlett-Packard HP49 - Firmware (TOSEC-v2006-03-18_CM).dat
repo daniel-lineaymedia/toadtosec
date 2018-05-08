@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Hewlett-Packard HP49 - Firmware"
+	description "Hewlett-Packard HP49 - Firmware (TOSEC-v2006-03-18)"
+	category "Hewlett-Packard HP49 - Firmware"
+	version 2006-03-18
+	author "Leto_II - Cassiel"
+)
+
+game (
+	name "Hewlett-Packard HP49-B v1.19-5 (2000)(HP)"
+	description "Hewlett-Packard HP49-B v1.19-5 (2000)(HP)"
+	rom ( name "Hewlett-Packard HP49-B v1.19-5 (2000)(HP).bin" size 4194304 crc 23931d57 md5 905f9c2fb399514547ccd1973c9071a0 )
+)

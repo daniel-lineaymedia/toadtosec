@@ -1,0 +1,25 @@
+clrmamepro (
+	name "DEC PDP-8 - Compilations - Applications - [RK5]"
+	description "DEC PDP-8 - Compilations - Applications - [RK5] (TOSEC-v2010-08-23)"
+	category "DEC PDP-8 - Compilations - Applications - [RK5]"
+	version 2010-08-23
+	author "TKaos"
+)
+
+game (
+	name "Diagnostic Pack (19xx)(DEC)(US)"
+	description "Diagnostic Pack (19xx)(DEC)(US)"
+	rom ( name "Diagnostic Pack (19xx)(DEC)(US).rk5" size 3325952 crc 39020daf md5 06e7f438d203809195d9da4b7a26c443 )
+)
+
+game (
+	name "Diagnostics (19xx)(-)"
+	description "Diagnostics (19xx)(-)"
+	rom ( name "Diagnostics (19xx)(-).rk5" size 3325952 crc 16050afa md5 9d4e6c9fa59332bbb88991127d415a52 )
+)
+
+game (
+	name "Information Systems Editor & Assembler (19xx)(-)"
+	description "Information Systems Editor & Assembler (19xx)(-)"
+	rom ( name "Information Systems Editor & Assembler (19xx)(-).rk5" size 3325952 crc 31d5645b md5 d46fded3fb3f86494475852695d0d03f )
+)

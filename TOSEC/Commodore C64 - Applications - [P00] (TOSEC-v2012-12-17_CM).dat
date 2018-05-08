@@ -1,0 +1,320 @@
+clrmamepro (
+	name "Commodore C64 - Applications - [P00]"
+	description "Commodore C64 - Applications - [P00] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Applications - [P00]"
+	version 2012-12-17
+	author "Duncan Twain - DesertWolf - Apache - Hunt4Gold"
+)
+
+game (
+	name "15 Seconds Copy 256K Ram Version (19xx)(QLT)"
+	description "15 Seconds Copy 256K Ram Version (19xx)(QLT)"
+	rom ( name "15 Seconds Copy 256K Ram Version (19xx)(QLT).p00" size 3622 crc 797bc526 md5 194ec8f4cda8177e28c54c0cc75a6dc0 sha1 d5885931777fa5d87fecf9e1b330f7dde7e3c8b0 )
+)
+
+game (
+	name "Action Replay v3.0 Loader (19xx)(-)"
+	description "Action Replay v3.0 Loader (19xx)(-)"
+	rom ( name "Action Replay v3.0 Loader (19xx)(-).p00" size 1515 crc dbe18466 md5 eb846d5b36d719762213a85581a735ae sha1 7b8e73303b2946e823de46cc3a38ce744407b22d )
+)
+
+game (
+	name "Action Replay v3.0 Loader (19xx)(-)[a]"
+	description "Action Replay v3.0 Loader (19xx)(-)[a]"
+	rom ( name "Action Replay v3.0 Loader (19xx)(-)[a].p00" size 1515 crc f34979b3 md5 479085ae0d1bcb4a420397ca6cc70190 sha1 499aff48292343f95db987575f30d40a1da6f664 )
+)
+
+game (
+	name "Animator (1987)(The Highlanders)"
+	description "Animator (1987)(The Highlanders)"
+	rom ( name "Animator (1987)(The Highlanders).p00" size 9336 crc 51f92fcb md5 ec87c6a69350fe831ce200003c755352 sha1 d8ff1de8f29633d3ac8ece970d7c2bbeb1c339a7 )
+)
+
+game (
+	name "Art Studio, The v1.2 (1986)(CCS)"
+	description "Art Studio, The v1.2 (1986)(CCS)"
+	rom ( name "Art Studio, The v1.2 (1986)(CCS).p00" size 24986 crc 33a5cca5 md5 38622cd4dd5675b02b881fcc0153989d sha1 dcea37e13ed627b681d7c9d2d2e695064c0c6cd2 )
+)
+
+game (
+	name "Art Studio, The v1.2 (1986)(CCS)[a]"
+	description "Art Studio, The v1.2 (1986)(CCS)[a]"
+	rom ( name "Art Studio, The v1.2 (1986)(CCS)[a].p00" size 24986 crc d4b1f208 md5 6e95da177479f1ef20a0d486e342a433 sha1 217f96d7bef845204660e740c888b27ce8f2bf95 )
+)
+
+game (
+	name "Commodore 64 LOGO (1982)(Terrapin Inc.)"
+	description "Commodore 64 LOGO (1982)(Terrapin Inc.)"
+	rom ( name "Commodore 64 LOGO (1982)(Terrapin Inc.).p00" size 33273 crc 47edb13e md5 f01fc8e6123cdbfe947d3fa4bd847798 sha1 f224f3fefc065cf991e1c6ac42e8331292775019 )
+)
+
+game (
+	name "Dik.Copy.All (19xx)(Jim Butterfield)"
+	description "Dik.Copy.All (19xx)(Jim Butterfield)"
+	rom ( name "Dik.Copy.All (19xx)(Jim Butterfield).p00" size 2570 crc 40dbae2b md5 328c8573a1d7a609413ff39e580213c5 sha1 b994e5763124d84a4f0f2212ea01831f44033f4e )
+)
+
+game (
+	name "Dir Master v8.4 (19xx)(Hitmen)"
+	description "Dir Master v8.4 (19xx)(Hitmen)"
+	rom ( name "Dir Master v8.4 (19xx)(Hitmen).p00" size 17956 crc 802591a5 md5 7863cd532b49a42bd79a4ba973fb019e sha1 f347ace52715d2b2a98abcfe3e68d806f31995b1 )
+)
+
+game (
+	name "Directory Filer (19xx)(Bigt-Phun Soft)"
+	description "Directory Filer (19xx)(Bigt-Phun Soft)"
+	rom ( name "Directory Filer (19xx)(Bigt-Phun Soft).p00" size 8916 crc eacf5d40 md5 2aaa606ff23bbcc538f7eb4e587fd642 sha1 abe4da8c77ac2f0b78163d1f934ed241059f0ba4 )
+)
+
+game (
+	name "Dirmaster v8.0 (1998)(Erol Tahirovic)"
+	description "Dirmaster v8.0 (1998)(Erol Tahirovic)"
+	rom ( name "Dirmaster v8.0 (1998)(Erol Tahirovic).p00" size 19963 crc 8f13c12f md5 70d5190c67ee6e32e7db59f6dc802674 sha1 61cb341f1c62c44d68e3d9e7ff9ee76c3d747e15 )
+)
+
+game (
+	name "Disc Wizard, The v2.0 (1986)(Hermann-Josef Rottkemper)"
+	description "Disc Wizard, The v2.0 (1986)(Hermann-Josef Rottkemper)"
+	rom ( name "Disc Wizard, The v2.0 (1986)(Hermann-Josef Rottkemper).p00" size 10566 crc 8013f415 md5 da2bd8c26fb0c815837514002bb020ba sha1 af0ff5e0e40988d5f66de98235d2998dfdf35368 )
+)
+
+game (
+	name "Disk Checker (19xx)(Mr. Wegi)"
+	description "Disk Checker (19xx)(Mr. Wegi)"
+	rom ( name "Disk Checker (19xx)(Mr. Wegi).p00" size 4032 crc 0d5b7164 md5 d8dfa0534bfe5e02bce7a3438a8c18a6 sha1 b756c131d9116adc586d990a4552b8e2fd98e7ea )
+)
+
+game (
+	name "Disk-ID Changer (19xx)(-)"
+	description "Disk-ID Changer (19xx)(-)"
+	rom ( name "Disk-ID Changer (19xx)(-).p00" size 1845 crc d775935e md5 ab8d1297f43074ed6c452df2b240d870 sha1 562ec76da774c63885c63564ad368d2c13a173ee )
+)
+
+game (
+	name "Filecopy (19xx)(-)"
+	description "Filecopy (19xx)(-)"
+	rom ( name "Filecopy (19xx)(-).p00" size 4185 crc cbce34d9 md5 9b226999da20fab930d604135b5f266b sha1 d93578dc4e49271ba02e1c88cce1afc858ef125e )
+)
+
+game (
+	name "Freak Load (19xx)(-)"
+	description "Freak Load (19xx)(-)"
+	rom ( name "Freak Load (19xx)(-).p00" size 1307 crc c94d1877 md5 c6db899eaa224959f7da18fec0822294 sha1 08d395f025351769174452de3161db54104c1def )
+)
+
+game (
+	name "Games-Trainer Kollosion (1985)(Section 8)"
+	description "Games-Trainer Kollosion (1985)(Section 8)"
+	rom ( name "Games-Trainer Kollosion (1985)(Section 8).p00" size 747 crc d84991c6 md5 5451939993e5a3554961ec06909937f2 sha1 faa512054bdf2064f0568a622d8314b482950252 )
+)
+
+game (
+	name "Gyroscope Construction Set (1986-04-01)(Don JP-Maffia)"
+	description "Gyroscope Construction Set (1986-04-01)(Don JP-Maffia)"
+	rom ( name "Gyroscope Construction Set (1986-04-01)(Don JP-Maffia).p00" size 20778 crc f014b5ee md5 619865f7d6d7a86e93cbd6825931a110 sha1 8276df51aa98daffc0e944f7640c0435eb0d534d )
+)
+
+game (
+	name "Hackpack IV (1994)(Oneway)"
+	description "Hackpack IV (1994)(Oneway)"
+	rom ( name "Hackpack IV (1994)(Oneway).p00" size 17737 crc baf2f5c0 md5 a4e5749086ce85b93f79e0b76b09e3f6 sha1 cd2e81c9883f3b107b221a09e9fabdea0877ddc5 )
+)
+
+game (
+	name "Halycon Writer (1994)(Tempest)"
+	description "Halycon Writer (1994)(Tempest)"
+	rom ( name "Halycon Writer (1994)(Tempest).p00" size 5606 crc fe3ebaed md5 81699a55af2004adba7201d688b569da sha1 6a9f98ada7f9076c2dc30db0521ff84534536d7f )
+)
+
+game (
+	name "Helmet v2.0 (1995)(Tempest)"
+	description "Helmet v2.0 (1995)(Tempest)"
+	rom ( name "Helmet v2.0 (1995)(Tempest).p00" size 2556 crc fcfe896d md5 c28620ef3153bd1e66180674b29851e4 sha1 5d1da3d98bca257b756e97a89a0aaa115b1ef756 )
+)
+
+game (
+	name "Helmet v2.1 (1995-07-10)(Tempest)"
+	description "Helmet v2.1 (1995-07-10)(Tempest)"
+	rom ( name "Helmet v2.1 (1995-07-10)(Tempest).p00" size 8431 crc a9b91644 md5 297a0ebcf26c2e0e4de507c621be3c0c sha1 c3f4b8ae975a9ba7bcabebed6e05b5c3bded198e )
+)
+
+game (
+	name "Intromaker v1.0 (1987)(Doctor Bit)"
+	description "Intromaker v1.0 (1987)(Doctor Bit)"
+	rom ( name "Intromaker v1.0 (1987)(Doctor Bit).p00" size 24648 crc 5b82ecc6 md5 e58854848ed2f2a9c4b8ec7682733efd sha1 1e550116bf74418557f57597b9d91ba07b0c6ad0 )
+)
+
+game (
+	name "Isepic Defroster (19xx)(Isepic)"
+	description "Isepic Defroster (19xx)(Isepic)"
+	rom ( name "Isepic Defroster (19xx)(Isepic).p00" size 1041 crc a1d2bd67 md5 aa6c161da48d607eb0ec85714932c36a sha1 d23153fc5891a7845548ef0d72a4bab62ee00a53 )
+)
+
+game (
+	name "Krejzi Packer $005E-$FFFF (1991)(Science 451)"
+	description "Krejzi Packer $005E-$FFFF (1991)(Science 451)"
+	rom ( name "Krejzi Packer $005E-$FFFF (1991)(Science 451).p00" size 2068 crc a3f6ac7a md5 9bdde63bb394ecf925b2a567fb0b06d6 sha1 9f19682896cc40f25adbe1e49cee3c8fd325da1c )
+)
+
+game (
+	name "Logo Converter v4.1 (19xx)(Faces)"
+	description "Logo Converter v4.1 (19xx)(Faces)"
+	rom ( name "Logo Converter v4.1 (19xx)(Faces).p00" size 3026 crc 172b5554 md5 9c196dc3db4b2a7107a87eef88a77026 sha1 77cc4c25fb6f0f8ec224faa70a31821a92963f88 )
+)
+
+game (
+	name "Mad Format (19xx)(Proxyon)"
+	description "Mad Format (19xx)(Proxyon)"
+	rom ( name "Mad Format (19xx)(Proxyon).p00" size 2000 crc 3d95aeb5 md5 d22015de28de10abc641a1384df2eaa2 sha1 c5e6d6f4cf1177116648a3ce1baf02082535c84c )
+)
+
+game (
+	name "Merger V1 (1991)(Fairlight)"
+	description "Merger V1 (1991)(Fairlight)"
+	rom ( name "Merger V1 (1991)(Fairlight).p00" size 12770 crc 5e635250 md5 30eb14bba18a2555989cf5ec08ab580c sha1 b39eef3314adaed5974ff4b9773d0c9dc7639bc1 )
+)
+
+game (
+	name "Multicopy Deluxe (19xx)(QLT)"
+	description "Multicopy Deluxe (19xx)(QLT)"
+	rom ( name "Multicopy Deluxe (19xx)(QLT).p00" size 3686 crc ec124f7e md5 6178af40dedd44c32c47fe322b6b6eb8 sha1 7467bc42662fba0c29cfd7d38a824a9c1ce19c08 )
+)
+
+game (
+	name "Multicopy Deluxe (19xx)(QLT)[a]"
+	description "Multicopy Deluxe (19xx)(QLT)[a]"
+	rom ( name "Multicopy Deluxe (19xx)(QLT)[a].p00" size 3686 crc 8a839273 md5 54cfdfe9781bc426bfb61f78357766be sha1 7161d0b4dbda756c7de0435cf50368248fbba866 )
+)
+
+game (
+	name "NCL Joystick Tester (1997)(TempesT)"
+	description "NCL Joystick Tester (1997)(TempesT)"
+	rom ( name "NCL Joystick Tester (1997)(TempesT).p00" size 2881 crc 9037bb3b md5 cf00c9f687558fbbd95e743c263dfea1 sha1 726e2102888012c8414190ecc2c75efcb3fd8f06 )
+)
+
+game (
+	name "NCL Noter v1.0 (1997)(Tempest)"
+	description "NCL Noter v1.0 (1997)(Tempest)"
+	rom ( name "NCL Noter v1.0 (1997)(Tempest).p00" size 3036 crc 69007f38 md5 011a6cc405113402d191fa48b0651bb5 sha1 7372ec637dfead3a76b2e4d9952bfbc3ff8cf206 )
+)
+
+game (
+	name "Power-Cartidge Simulator, The (1986)(Commodore)"
+	description "Power-Cartidge Simulator, The (1986)(Commodore)"
+	rom ( name "Power-Cartidge Simulator, The (1986)(Commodore).p00" size 24559 crc aabf54a3 md5 ae3375cb3492f104afc29b62eb9b5023 sha1 ee208a0d722e023a4d2c6b7252368e3cacc28ad4 )
+)
+
+game (
+	name "Raver v1.0 (1998)(SaMaR)"
+	description "Raver v1.0 (1998)(SaMaR)"
+	rom ( name "Raver v1.0 (1998)(SaMaR).p00" size 18653 crc 44e96ab0 md5 aca216e30b39a0490d742cb50c8991b4 sha1 74688142806789f2afe7fde83e3c369aa194dd22 )
+)
+
+game (
+	name "Sequence File Packer (1987)(Scouse Cracking Group)"
+	description "Sequence File Packer (1987)(Scouse Cracking Group)"
+	rom ( name "Sequence File Packer (1987)(Scouse Cracking Group).p00" size 3002 crc 8d848d08 md5 2c96acef7139cd0eeb0696f5a4a3b3a5 sha1 8e55e5f5cb13dca89f5a57c8517eee1d8bad15ac )
+)
+
+game (
+	name "Single DiskCopy 64 (1983)(Kevin Pickell)"
+	description "Single DiskCopy 64 (1983)(Kevin Pickell)"
+	rom ( name "Single DiskCopy 64 (1983)(Kevin Pickell).p00" size 2745 crc f33b2fd9 md5 89176a7980aad2a4c7606da1f6122d5b sha1 4268631a83a2ac2ebf3d1be3eb182f012745b62a )
+)
+
+game (
+	name "Sinus Editor v1.0 (1993-05-01)(TempesT)"
+	description "Sinus Editor v1.0 (1993-05-01)(TempesT)"
+	rom ( name "Sinus Editor v1.0 (1993-05-01)(TempesT).p00" size 7166 crc c3695044 md5 ba2435e8fc1806e113035381de83cf0b sha1 72c1d9959a5a90eafeb7577260afd206e2404bdd )
+)
+
+game (
+	name "Soundmonitor v1.0 (19xx)(Works Industries)"
+	description "Soundmonitor v1.0 (19xx)(Works Industries)"
+	rom ( name "Soundmonitor v1.0 (19xx)(Works Industries).p00" size 13982 crc 9e9c0ce3 md5 5d591e277200b13dd22cb0ff9d0a9c81 sha1 085d3f7c008d201172495b9b819ba53163ad55d4 )
+)
+
+game (
+	name "Synth Sample (1985)(Glen Bredon)"
+	description "Synth Sample (1985)(Glen Bredon)"
+	rom ( name "Synth Sample (1985)(Glen Bredon).p00" size 18643 crc 4bff1c37 md5 9c890e74462223789659ff1467a59e1d sha1 d867b96517fe89d8e986a0d8efa1be6d439f057c )
+)
+
+game (
+	name "Synth Sample (1985)(Glen Bredon)[a]"
+	description "Synth Sample (1985)(Glen Bredon)[a]"
+	rom ( name "Synth Sample (1985)(Glen Bredon)[a].p00" size 18643 crc f499afcd md5 12eabcdfe8281b7d603f884924b0406c sha1 a2645f1010cb48f1b8bef57bba7d0a47d5c68bf7 )
+)
+
+game (
+	name "Tank War Construction Set (1984)(Matthias & Thomas Wisniewski)"
+	description "Tank War Construction Set (1984)(Matthias & Thomas Wisniewski)"
+	rom ( name "Tank War Construction Set (1984)(Matthias & Thomas Wisniewski).p00" size 37502 crc 42867ebb md5 71829cba2b8e960e4553996b093f70df sha1 907d374adaf0ff30e380dfa4c9b130e65dae1d04 )
+)
+
+game (
+	name "Tempest Writer v1.2 (1994-02-01)(Tempest)"
+	description "Tempest Writer v1.2 (1994-02-01)(Tempest)"
+	rom ( name "Tempest Writer v1.2 (1994-02-01)(Tempest).p00" size 13481 crc 080873e5 md5 b8bac048857b20d3d95b01020fc43c2b sha1 9871a637451d8789cb6090c34eaa7428a0f005ad )
+)
+
+game (
+	name "Tempest Writer v2.3 (1996-01-05)(Tempest)"
+	description "Tempest Writer v2.3 (1996-01-05)(Tempest)"
+	rom ( name "Tempest Writer v2.3 (1996-01-05)(Tempest).p00" size 9171 crc 4fa4c7e6 md5 b43512fff10969c023a4dcc74685765a sha1 6a0872025b6ff0ecf980a76b4224726a62806939 )
+)
+
+game (
+	name "Trilogics Expert File Fast Loader (19xx)(-)"
+	description "Trilogics Expert File Fast Loader (19xx)(-)"
+	rom ( name "Trilogics Expert File Fast Loader (19xx)(-).p00" size 1874 crc 292d5ac3 md5 9a5bbecb0f7ee45abe7d3698096330f4 sha1 8a7e82189c2b87ef5986b941035d9ce80cd3c64d )
+)
+
+game (
+	name "Trilogics Expert File Fast Loader (19xx)(-)[a]"
+	description "Trilogics Expert File Fast Loader (19xx)(-)[a]"
+	rom ( name "Trilogics Expert File Fast Loader (19xx)(-)[a].p00" size 1874 crc b67c97d1 md5 1b3001c06f47cd2d534dbf7c1646fe3e sha1 48755b1c741df120896373f1ee347807a450c3a3 )
+)
+
+game (
+	name "Turbo 250 G (19xx)(-)"
+	description "Turbo 250 G (19xx)(-)"
+	rom ( name "Turbo 250 G (19xx)(-).p00" size 871 crc d87fa6d6 md5 bad606fa8e4d34f3206aba41780a490c sha1 08a71902e9817846bac523a6c7c5b2e04babab2f )
+)
+
+game (
+	name "Turbo 250 LDP (19xx)(Tom-Cat)"
+	description "Turbo 250 LDP (19xx)(Tom-Cat)"
+	rom ( name "Turbo 250 LDP (19xx)(Tom-Cat).p00" size 1003 crc 2e02dbdf md5 848bb51fbf83accef014c76835b1cad8 sha1 5255a08ae193639b5c6bdc6ef167ea37159eefd1 )
+)
+
+game (
+	name "Ultracomp V3.0 (1986)(German Spreading Service)"
+	description "Ultracomp V3.0 (1986)(German Spreading Service)"
+	rom ( name "Ultracomp V3.0 (1986)(German Spreading Service).p00" size 5043 crc 70ab432b md5 cca06a3fc7b9ea1ac7dd9a96942272f6 sha1 aea41374358f98fc1dece0239ad585e55544de24 )
+)
+
+game (
+	name "Ultrafont ++ (1986)(Thunderbolt Cracking Crew)"
+	description "Ultrafont ++ (1986)(Thunderbolt Cracking Crew)"
+	rom ( name "Ultrafont ++ (1986)(Thunderbolt Cracking Crew).p00" size 4065 crc 8e4699ca md5 556647c505face485d9f4fba033c7315 sha1 67972290997a3167f8429ec0cf102bc0c9141a2d )
+)
+
+game (
+	name "Unzip64 v2.12 (1988)(Errol Smith)"
+	description "Unzip64 v2.12 (1988)(Errol Smith)"
+	rom ( name "Unzip64 v2.12 (1988)(Errol Smith).p00" size 5447 crc a8f247c4 md5 f4a7c6a1830fef91187a4047f49d9dbe sha1 64069104004cc6d67e8bac17441ddd2de68a8181 )
+)
+
+game (
+	name "ZAP 1501 Fast Loader (19xx)(-)"
+	description "ZAP 1501 Fast Loader (19xx)(-)"
+	rom ( name "ZAP 1501 Fast Loader (19xx)(-).p00" size 2565 crc 18d09ed8 md5 4970d278245739ef49066dc767e8776d sha1 a6144f6ac951e7f8ae55870fec5f75c0612ee53e )
+)
+
+game (
+	name "Zoomatic (19xx)(Panoramic Designs)"
+	description "Zoomatic (19xx)(Panoramic Designs)"
+	rom ( name "Zoomatic (19xx)(Panoramic Designs).p00" size 9673 crc c3b14f21 md5 0846cee83050a591af00545ae483bfbd sha1 fdd2f74e21366a0e4b77cb246def84466842afd4 )
+)
+

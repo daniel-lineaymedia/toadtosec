@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Atari 7800 - Applications"
+	description "Atari 7800 - Applications (TOSEC-v2005-10-05)"
+	category "Atari 7800 - Applications"
+	version 2005-10-05
+	author "Belgarath - Cassiel"
+)
+
+game (
+	name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)"
+	description "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)"
+	rom ( name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC).a78" size 16512 crc c6c94823 md5 019e0e83252d54f6db71b5b4f0e9a710 )
+)
+
+game (
+	name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[h John Saeger][encryption checker]"
+	description "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[h John Saeger][encryption checker]"
+	rom ( name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[h John Saeger][encryption checker].a78" size 16512 crc 82c14c21 md5 d60de300a15ae659ab045e7bf0ad676f )
+)
+
+game (
+	name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[b]"
+	description "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[b]"
+	rom ( name "Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[b].a78" size 16512 crc 1d241371 md5 4b6c8de8af386a8d97c730ead43d6d0a )
+)
+
+game (
+	name "Color Selector (1987)(Atari)"
+	description "Color Selector (1987)(Atari)"
+	rom ( name "Color Selector (1987)(Atari).a78" size 8320 crc e79309c9 md5 51b1b519e9ff6cf2d43d135cb91cc15b )
+)
+
+game (
+	name "Diagnostic Test Cartridge (1984)(Atari)(NTSC)[a]"
+	description "Diagnostic Test Cartridge (1984)(Atari)(NTSC)[a]"
+	rom ( name "Diagnostic Test Cartridge (1984)(Atari)(NTSC)[a].a78" size 32896 crc f6cc9b1c md5 8df5c10517da1c001072fd5526e4a683 )
+)
+
+game (
+	name "Diagnostic Test Cartridge (1984)(Atari)(NTSC)"
+	description "Diagnostic Test Cartridge (1984)(Atari)(NTSC)"
+	rom ( name "Diagnostic Test Cartridge (1984)(Atari)(NTSC).a78" size 32896 crc 491c2055 md5 601fad0083f166e5022e4612caa42d42 )
+)

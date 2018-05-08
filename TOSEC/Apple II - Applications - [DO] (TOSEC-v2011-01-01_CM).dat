@@ -1,0 +1,2887 @@
+clrmamepro (
+	name "Apple II - Applications - [DO]"
+	description "Apple II - Applications - [DO] (TOSEC-v2011-01-01)"
+	category "Apple II - Applications - [DO]"
+	version 2011-01-01
+	author "TKaos - bigboo - Cassiel - jjs"
+)
+
+game (
+	name "Address Book (19xx)(O'Malley, Michael)"
+	description "Address Book (19xx)(O'Malley, Michael)"
+	rom ( name "Address Book (19xx)(O'Malley, Michael).do" size 143360 crc bc49ed75 md5 4447279f2bd0c7b1395af8e89346af3e )
+)
+
+game (
+	name "Address Book, The (1980)(Muse)[cr Whip]"
+	description "Address Book, The (1980)(Muse)[cr Whip]"
+	rom ( name "Address Book, The (1980)(Muse)[cr Whip].do" size 143360 crc d37417db md5 69bf4493794f7d670a577c61c7ad17f4 )
+)
+
+game (
+	name "Advanced Disk Editor (1982)(Dynacomp)(PD)"
+	description "Advanced Disk Editor (1982)(Dynacomp)(PD)"
+	rom ( name "Advanced Disk Editor (1982)(Dynacomp)(PD).do" size 143360 crc 220e2271 md5 57941b29f848201a757da8f199181664 )
+)
+
+game (
+	name "Adventure Master (1984)(CBS Software)(Side A)"
+	description "Adventure Master (1984)(CBS Software)(Side A)"
+	rom ( name "Adventure Master (1984)(CBS Software)(Side A).do" size 143360 crc 4550d5da md5 ec1dbc2b7b8329d74f8f45421b289d44 )
+)
+
+game (
+	name "Adventure Master (1984)(CBS Software)(Side B)"
+	description "Adventure Master (1984)(CBS Software)(Side B)"
+	rom ( name "Adventure Master (1984)(CBS Software)(Side B).do" size 143360 crc 081d9886 md5 d4efc5d0d577dceeb8f08ca2c9cbb53d )
+)
+
+game (
+	name "Adventure Solve Disk (1991-01-17)(Lonesome, The)"
+	description "Adventure Solve Disk (1991-01-17)(Lonesome, The)"
+	rom ( name "Adventure Solve Disk (1991-01-17)(Lonesome, The).do" size 143360 crc a2ed624b md5 6e03ef977f887935d550ff07b96b815f )
+)
+
+game (
+	name "Adventure Solve Disk 2 (1992)(Lonesome, The - English Man, The)"
+	description "Adventure Solve Disk 2 (1992)(Lonesome, The - English Man, The)"
+	rom ( name "Adventure Solve Disk 2 (1992)(Lonesome, The - English Man, The).do" size 143360 crc 405fd0a9 md5 b1483d10e94d5e304d4a40e86f7e3ce2 )
+)
+
+game (
+	name "Adventure Solver II (19xx)(-)"
+	description "Adventure Solver II (19xx)(-)"
+	rom ( name "Adventure Solver II (19xx)(-).do" size 143360 crc a653ccda md5 afc4314fab14e287ae46576e78c20dfe )
+)
+
+game (
+	name "Adventure Teacher 4 (198x)(Crackophil's Gang)"
+	description "Adventure Teacher 4 (198x)(Crackophil's Gang)"
+	rom ( name "Adventure Teacher 4 (198x)(Crackophil's Gang).do" size 143360 crc f32e0db7 md5 af9b48e91f663fac2fe322a4799ec2b6 )
+)
+
+game (
+	name "Adventure Teacher 5 (1986)(Crackophil's Gang)"
+	description "Adventure Teacher 5 (1986)(Crackophil's Gang)"
+	rom ( name "Adventure Teacher 5 (1986)(Crackophil's Gang).do" size 143360 crc 17a13f19 md5 7e8a42e4294a8a73900ac2e08bb93bbd )
+)
+
+game (
+	name "Adventure Teacher 6 (1986)(Crackophil's Gang)"
+	description "Adventure Teacher 6 (1986)(Crackophil's Gang)"
+	rom ( name "Adventure Teacher 6 (1986)(Crackophil's Gang).do" size 143360 crc 8262e0d0 md5 85023b4e955571b75e75a0ed21ca9124 )
+)
+
+game (
+	name "Agriculture (1983)(Powell, Alan)"
+	description "Agriculture (1983)(Powell, Alan)"
+	rom ( name "Agriculture (1983)(Powell, Alan).do" size 143360 crc 4d8194a3 md5 988769b6e5df26e34f209136df2bc6c5 )
+)
+
+game (
+	name "Alpha Plot (1982)(Beagle Bros)"
+	description "Alpha Plot (1982)(Beagle Bros)"
+	rom ( name "Alpha Plot (1982)(Beagle Bros).do" size 143360 crc 7aab641d md5 92e838de94c4812e6a60eb4efef7a0ea )
+)
+
+game (
+	name "Alpha Plot (1982)(Beagle Bros)[a]"
+	description "Alpha Plot (1982)(Beagle Bros)[a]"
+	rom ( name "Alpha Plot (1982)(Beagle Bros)[a].do" size 143360 crc c0194d24 md5 e7bbb767b2c6641295f0166386875aa2 )
+)
+
+game (
+	name "Altair Basic Programs (2002)(O'Malley, Michael)"
+	description "Altair Basic Programs (2002)(O'Malley, Michael)"
+	rom ( name "Altair Basic Programs (2002)(O'Malley, Michael).do" size 143360 crc 03664806 md5 d753ce4c9d5b1e2832b5e2655a33965d )
+)
+
+game (
+	name "Amper Magic (1982)(Anthro-Digital)"
+	description "Amper Magic (1982)(Anthro-Digital)"
+	rom ( name "Amper Magic (1982)(Anthro-Digital).do" size 143360 crc 81156352 md5 97a487d361625f648ac60c4dc5692aef )
+)
+
+game (
+	name "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side A)"
+	description "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side A)"
+	rom ( name "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side A).do" size 143360 crc 4a37d539 md5 2b47ef4b23fc1c9b7850cb82466adf97 )
+)
+
+game (
+	name "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side B)"
+	description "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side B)"
+	rom ( name "Ampersand and Toolbox Subroutines (19xx)(Wagner, R.)(Side B).do" size 143360 crc d81959a1 md5 306a61616193a84ff16de0d2f8ec6f1c )
+)
+
+game (
+	name "An Apple A Day (19xx)(-)(Disk 1 of 2)"
+	description "An Apple A Day (19xx)(-)(Disk 1 of 2)"
+	rom ( name "An Apple A Day (19xx)(-)(Disk 1 of 2).do" size 143360 crc 12168c57 md5 ea665e88be78635a449e54f9a2ed73eb )
+)
+
+game (
+	name "An Apple A Day (19xx)(-)(Disk 2 of 2)"
+	description "An Apple A Day (19xx)(-)(Disk 2 of 2)"
+	rom ( name "An Apple A Day (19xx)(-)(Disk 2 of 2).do" size 143360 crc 1e8e2ed1 md5 7f7fa20b0dca7ede60883f820ca936cf )
+)
+
+game (
+	name "Apple Disk Transfer 1.22 (1994)(Guertin, Paul)"
+	description "Apple Disk Transfer 1.22 (1994)(Guertin, Paul)"
+	rom ( name "Apple Disk Transfer 1.22 (1994)(Guertin, Paul).do" size 143360 crc 72f69517 md5 712cb25f532e0e2828de873f95fb7bf7 )
+)
+
+game (
+	name "Apple Disk Transfer 1.22 (1994)(Guertin, Paul)[a]"
+	description "Apple Disk Transfer 1.22 (1994)(Guertin, Paul)[a]"
+	rom ( name "Apple Disk Transfer 1.22 (1994)(Guertin, Paul)[a].do" size 143360 crc d10c3011 md5 d6e5b1530e05afc795c4f78b8dcae070 )
+)
+
+game (
+	name "Apple Extended 80-Column Text - AppleColor Card Demo, The (1984)(Apple)(Disk 1 of 2)"
+	description "Apple Extended 80-Column Text - AppleColor Card Demo, The (1984)(Apple)(Disk 1 of 2)"
+	rom ( name "Apple Extended 80-Column Text - AppleColor Card Demo, The (1984)(Apple)(Disk 1 of 2).do" size 143360 crc dbe53751 md5 ac514ba502c13941abf4b5eab324b9b0 )
+)
+
+game (
+	name "Apple Grader v4.0 (1990)(Vance, Adrian)"
+	description "Apple Grader v4.0 (1990)(Vance, Adrian)"
+	rom ( name "Apple Grader v4.0 (1990)(Vance, Adrian).do" size 143360 crc d72b1be2 md5 7992f6f0e9e8c4389e451a3445a064ce )
+)
+
+game (
+	name "Apple Grader v4.0 (1998)(Hall, Richard)"
+	description "Apple Grader v4.0 (1998)(Hall, Richard)"
+	rom ( name "Apple Grader v4.0 (1998)(Hall, Richard).do" size 143360 crc 58626143 md5 98f9521b3cfb84160446117ff218ed22 )
+)
+
+game (
+	name "Apple Mechanic (1982)(Beagle Bros)"
+	description "Apple Mechanic (1982)(Beagle Bros)"
+	rom ( name "Apple Mechanic (1982)(Beagle Bros).do" size 143360 crc cf7b6661 md5 185bfddacd3f3384794d706fffd00c52 )
+)
+
+game (
+	name "Apple Mechanic Typefaces (1982)(Beagle Bros)"
+	description "Apple Mechanic Typefaces (1982)(Beagle Bros)"
+	rom ( name "Apple Mechanic Typefaces (1982)(Beagle Bros).do" size 143360 crc 63be8d16 md5 3d9ab4fb39b82381b15192cfbd0b7392 )
+)
+
+game (
+	name "Apple Mechanic Typefaces (1982)(Beagle Bros)[a]"
+	description "Apple Mechanic Typefaces (1982)(Beagle Bros)[a]"
+	rom ( name "Apple Mechanic Typefaces (1982)(Beagle Bros)[a].do" size 143360 crc 1839bab0 md5 83de1ffb6cd3eabc7c458ac645385cd2 )
+)
+
+game (
+	name "Apple Mechanic v0.1 (1982)(Beagle Bros)"
+	description "Apple Mechanic v0.1 (1982)(Beagle Bros)"
+	rom ( name "Apple Mechanic v0.1 (1982)(Beagle Bros).do" size 143360 crc ad8536e0 md5 24cbcba921a671a939fcda98b6e375e8 )
+)
+
+game (
+	name "Apple Organ (19xx)(-)"
+	description "Apple Organ (19xx)(-)"
+	rom ( name "Apple Organ (19xx)(-).do" size 143360 crc 8921d8cf md5 93733a2d493dbf8495885e2f358eedce )
+)
+
+game (
+	name "Apple PrintMaster (19xx)(Unison World)(Side A)[cr Student]"
+	description "Apple PrintMaster (19xx)(Unison World)(Side A)[cr Student]"
+	rom ( name "Apple PrintMaster (19xx)(Unison World)(Side A)[cr Student].do" size 143360 crc c89d102d md5 eebdd7c02856369d1d48c4dda29a3f0a )
+)
+
+game (
+	name "Apple PrintMaster (19xx)(Unison World)(Side B)[cr Student]"
+	description "Apple PrintMaster (19xx)(Unison World)(Side B)[cr Student]"
+	rom ( name "Apple PrintMaster (19xx)(Unison World)(Side B)[cr Student].do" size 143360 crc fe996343 md5 bf15dcee76cac56552f6c0e289c5bbbc )
+)
+
+game (
+	name "Apple World (1979)(Lutus, Paul)[cr Mulcher]"
+	description "Apple World (1979)(Lutus, Paul)[cr Mulcher]"
+	rom ( name "Apple World (1979)(Lutus, Paul)[cr Mulcher].do" size 143360 crc 17ec0efb md5 dcfda1cb5ae9f74ffc84aa88487f93cb )
+)
+
+game (
+	name "Artist, The v1.1 (1982)(On-Line Systems)[cr Catcher]"
+	description "Artist, The v1.1 (1982)(On-Line Systems)[cr Catcher]"
+	rom ( name "Artist, The v1.1 (1982)(On-Line Systems)[cr Catcher].do" size 143360 crc 8a2c1618 md5 5534cdcd5ce0f100e0b93fc7199e5105 )
+)
+
+game (
+	name "Ascii Express - The Professional v3.46 (1982)(Southwestern Data Systems)"
+	description "Ascii Express - The Professional v3.46 (1982)(Southwestern Data Systems)"
+	rom ( name "Ascii Express - The Professional v3.46 (1982)(Southwestern Data Systems).do" size 143360 crc 4a262d0f md5 f8cdb893e59dc5cfbd373c0eed6c4a10 )
+)
+
+game (
+	name "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 1 of 2)"
+	description "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 1 of 2)"
+	rom ( name "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 1 of 2).do" size 143360 crc 1c0d49a6 md5 7f0006c983b421b261f24b958645ba54 )
+)
+
+game (
+	name "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 2 of 2)"
+	description "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 2 of 2)"
+	rom ( name "Ascii Express The Professional v4.20 (1984)(United Software Industries)(Disk 2 of 2).do" size 143360 crc ac9610b2 md5 0e42f3561bf7cbbf8516bfd2867d3e69 )
+)
+
+game (
+	name "Assembler, The v1.0c (1983)(MicroSPARC)"
+	description "Assembler, The v1.0c (1983)(MicroSPARC)"
+	rom ( name "Assembler, The v1.0c (1983)(MicroSPARC).do" size 143360 crc 1c50831e md5 6b524857b08186742faa012672cf790d )
+)
+
+game (
+	name "Astro Calc v5.5 (19xx)(-)"
+	description "Astro Calc v5.5 (19xx)(-)"
+	rom ( name "Astro Calc v5.5 (19xx)(-).do" size 143360 crc 04de9534 md5 9ad4f636a2d0d0c4ab2c4aefd843f50d )
+)
+
+game (
+	name "Astroscope (19xx)(AGS Software)"
+	description "Astroscope (19xx)(AGS Software)"
+	rom ( name "Astroscope (19xx)(AGS Software).do" size 143360 crc 03770162 md5 949a9f1df2b8d12eda27e209f7b7224c )
+)
+
+game (
+	name "Audex (1982)(Sirius Software)"
+	description "Audex (1982)(Sirius Software)"
+	rom ( name "Audex (1982)(Sirius Software).do" size 143360 crc 6af1d4c8 md5 b10142ff4ed3dcda41c4d86e20fbbbe2 )
+)
+
+game (
+	name "Audex (1982)(Sirius Software)[a]"
+	description "Audex (1982)(Sirius Software)[a]"
+	rom ( name "Audex (1982)(Sirius Software)[a].do" size 143360 crc cf3e60cd md5 f7ca1217d74e800a5ec062a0a75cd423 )
+)
+
+game (
+	name "Auto Atlas (1983)(Datamost)(Disk 1 of 2)"
+	description "Auto Atlas (1983)(Datamost)(Disk 1 of 2)"
+	rom ( name "Auto Atlas (1983)(Datamost)(Disk 1 of 2).do" size 143360 crc 65d558f8 md5 576ec300e805e411d06eef321267cd28 )
+)
+
+game (
+	name "Auto Atlas (1983)(Datamost)(Disk 2 of 2)"
+	description "Auto Atlas (1983)(Datamost)(Disk 2 of 2)"
+	rom ( name "Auto Atlas (1983)(Datamost)(Disk 2 of 2).do" size 143360 crc 729a8ece md5 af7fa5c08ae01508edff8356a5277644 )
+)
+
+game (
+	name "Auto-dialer (19xx)(-)[no boot]"
+	description "Auto-dialer (19xx)(-)[no boot]"
+	rom ( name "Auto-dialer (19xx)(-)[no boot].do" size 143360 crc 660a6616 md5 10b356c5f1d830f62b766231ad6d55ff )
+)
+
+game (
+	name "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2)"
+	description "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2)"
+	rom ( name "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2).do" size 143360 crc 1a3c89af md5 08f133688d3070095d921c0084a0d104 )
+)
+
+game (
+	name "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2)[a]"
+	description "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2)[a]"
+	rom ( name "AwardWare (1986)(Hi Tech Expressions)(Disk 1 of 2)[a].do" size 143360 crc 5743edd0 md5 b04ed85328fc52da262a5e00b802c107 )
+)
+
+game (
+	name "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2)"
+	description "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2)"
+	rom ( name "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2).do" size 143360 crc 58c3814f md5 03ea86cce0fd0a9e55bd0a12f7ba1f7f )
+)
+
+game (
+	name "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2)[a]"
+	description "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2)[a]"
+	rom ( name "AwardWare (1986)(Hi Tech Expressions)(Disk 2 of 2)[a].do" size 143360 crc 6df329c7 md5 33f7a386c05c45eb2b0e8c4cfbbd4d40 )
+)
+
+game (
+	name "Awesome Phreaker, The (1986-10-02)(Mr Awesome)"
+	description "Awesome Phreaker, The (1986-10-02)(Mr Awesome)"
+	rom ( name "Awesome Phreaker, The (1986-10-02)(Mr Awesome).do" size 143360 crc e51d0225 md5 d671215f072a0f14599d5df1e8ac072a )
+)
+
+game (
+	name "Axe Packer Utility, The (19xx)(-)[h Whip]"
+	description "Axe Packer Utility, The (19xx)(-)[h Whip]"
+	rom ( name "Axe Packer Utility, The (19xx)(-)[h Whip].do" size 143360 crc d0bace05 md5 bd3d2dbe23d3f05faa957c11afb7797d )
+)
+
+game (
+	name "Bag of Tricks (1982)(Quality Software)"
+	description "Bag of Tricks (1982)(Quality Software)"
+	rom ( name "Bag of Tricks (1982)(Quality Software).do" size 143360 crc 3fc713df md5 bc185ff40490ce2d2bd446945bad5d01 )
+)
+
+game (
+	name "Bag of Tricks (1982)(Quality Software)[a]"
+	description "Bag of Tricks (1982)(Quality Software)[a]"
+	rom ( name "Bag of Tricks (1982)(Quality Software)[a].do" size 143360 crc 508c51f7 md5 1121009f80996bf26c8121eb045530c1 )
+)
+
+game (
+	name "Bank Street Speller (1984)(Broderbund)(Disk 1 of 2)[cr Apple Mafia]"
+	description "Bank Street Speller (1984)(Broderbund)(Disk 1 of 2)[cr Apple Mafia]"
+	rom ( name "Bank Street Speller (1984)(Broderbund)(Disk 1 of 2)[cr Apple Mafia].do" size 143360 crc 6fdbc9c2 md5 b6dfa9ebdf0c54f225888cf14229cc84 )
+)
+
+game (
+	name "Bank Street Speller (1984)(Broderbund)(Disk 2 of 2)[cr Apple Mafia][unk filesys]"
+	description "Bank Street Speller (1984)(Broderbund)(Disk 2 of 2)[cr Apple Mafia][unk filesys]"
+	rom ( name "Bank Street Speller (1984)(Broderbund)(Disk 2 of 2)[cr Apple Mafia][unk filesys].do" size 143360 crc c8ea5481 md5 4df732c14653b09c0038b0ef78f8e50d )
+)
+
+game (
+	name "Bank Street Writer (1982)(Broderbund)(Disk 1 of 2)"
+	description "Bank Street Writer (1982)(Broderbund)(Disk 1 of 2)"
+	rom ( name "Bank Street Writer (1982)(Broderbund)(Disk 1 of 2).do" size 143360 crc 8c187176 md5 060b0467cbc7f2db49cf1ff59d5cd49f )
+)
+
+game (
+	name "Bank Street Writer (1982)(Broderbund)(Disk 2 of 2)"
+	description "Bank Street Writer (1982)(Broderbund)(Disk 2 of 2)"
+	rom ( name "Bank Street Writer (1982)(Broderbund)(Disk 2 of 2).do" size 143360 crc c5f8c7d5 md5 346a866046a9954cf79abc4ac7f96686 )
+)
+
+game (
+	name "Bank Street Writer IIc (1984)(Broderbund)(Side A)[cr Gadget Master][unk filesys]"
+	description "Bank Street Writer IIc (1984)(Broderbund)(Side A)[cr Gadget Master][unk filesys]"
+	rom ( name "Bank Street Writer IIc (1984)(Broderbund)(Side A)[cr Gadget Master][unk filesys].do" size 143360 crc e17cd537 md5 3bda7d4c45a7b42a2cd470f1e13a32cf )
+)
+
+game (
+	name "Bank Street Writer IIc (1984)(Broderbund)(Side A)[unk filesys]"
+	description "Bank Street Writer IIc (1984)(Broderbund)(Side A)[unk filesys]"
+	rom ( name "Bank Street Writer IIc (1984)(Broderbund)(Side A)[unk filesys].do" size 143360 crc ddffc759 md5 15c686d40a962fee95a594eea838cc31 )
+)
+
+game (
+	name "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial)"
+	description "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial)"
+	rom ( name "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial).do" size 143360 crc 19f36451 md5 e083096712033b227a1016a07198a863 )
+)
+
+game (
+	name "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial)[cr Gadget Master]"
+	description "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial)[cr Gadget Master]"
+	rom ( name "Bank Street Writer IIc (1984)(Broderbund)(Side B)(Tutorial)[cr Gadget Master].do" size 143360 crc 84cff436 md5 e9de042082c85e5edc293e7e71dd0cda )
+)
+
+game (
+	name "Beagle Bag (1982)(Beagle Bros)"
+	description "Beagle Bag (1982)(Beagle Bros)"
+	rom ( name "Beagle Bag (1982)(Beagle Bros).do" size 143360 crc f2e4bd18 md5 81d7b7c0b04e1081464cb864a6df82c3 )
+)
+
+game (
+	name "Beagle Basic (1983)(Beagle Bros)"
+	description "Beagle Basic (1983)(Beagle Bros)"
+	rom ( name "Beagle Basic (1983)(Beagle Bros).do" size 143360 crc 2acb5a2d md5 343df4143dec7c823d206df61bd7f237 )
+)
+
+game (
+	name "Beagle Basic (1985)(Beagle Bros)"
+	description "Beagle Basic (1985)(Beagle Bros)"
+	rom ( name "Beagle Basic (1985)(Beagle Bros).do" size 143360 crc 3b1b63c1 md5 409e77c690e112e41226a9c1cdfe6c20 )
+)
+
+game (
+	name "Beagle Graphics (1984)(Beagle Bros)"
+	description "Beagle Graphics (1984)(Beagle Bros)"
+	rom ( name "Beagle Graphics (1984)(Beagle Bros).do" size 143360 crc ee3f4d1d md5 e8c479449bafdaef84b96f78f2060af7 )
+)
+
+game (
+	name "Beagle Graphics (1984)(Beagle Bros)[a]"
+	description "Beagle Graphics (1984)(Beagle Bros)[a]"
+	rom ( name "Beagle Graphics (1984)(Beagle Bros)[a].do" size 143360 crc 57c98c50 md5 823cb097779f61c69284bb7ec47b916a )
+)
+
+game (
+	name "Beagle Graphics (1984)(Beagle Bros)[a2]"
+	description "Beagle Graphics (1984)(Beagle Bros)[a2]"
+	rom ( name "Beagle Graphics (1984)(Beagle Bros)[a2].do" size 143360 crc f55119e3 md5 576a7ac4c0065f520983e7d80cf7f38e )
+)
+
+game (
+	name "Beastiary (1986)(Game Designers Workshop)"
+	description "Beastiary (1986)(Game Designers Workshop)"
+	rom ( name "Beastiary (1986)(Game Designers Workshop).do" size 143360 crc e9b1b1ec md5 63350292d050e43ddcd8d47167436c4b )
+)
+
+game (
+	name "Biology (19xx)(-)"
+	description "Biology (19xx)(-)"
+	rom ( name "Biology (19xx)(-).do" size 143360 crc 9ded18dc md5 bd8b41fc934c9dcee7dbc8461ac432d0 )
+)
+
+game (
+	name "Biology 1A (19xx)(-)"
+	description "Biology 1A (19xx)(-)"
+	rom ( name "Biology 1A (19xx)(-).do" size 143360 crc da4c15b4 md5 0d519b287470af82de8a453f543baa25 )
+)
+
+game (
+	name "Bizi Calc (1982)(El Dorado Software)[no boot]"
+	description "Bizi Calc (1982)(El Dorado Software)[no boot]"
+	rom ( name "Bizi Calc (1982)(El Dorado Software)[no boot].do" size 143360 crc 0f0502c7 md5 ecd6e5deb5f82f789c3c46a0482ed33d )
+)
+
+game (
+	name "Blazing Paddles (1984)(Baudville)[cr Blade]"
+	description "Blazing Paddles (1984)(Baudville)[cr Blade]"
+	rom ( name "Blazing Paddles (1984)(Baudville)[cr Blade].do" size 143360 crc aed1e528 md5 1e6eadde7e3f2e541c2a4ab2b06fceb2 )
+)
+
+game (
+	name "Blazing Paddles (1984)(Baudville)[cr Ronald Wilson]"
+	description "Blazing Paddles (1984)(Baudville)[cr Ronald Wilson]"
+	rom ( name "Blazing Paddles (1984)(Baudville)[cr Ronald Wilson].do" size 143360 crc a4c29b7a md5 cda93244241d531ae0d6e8e906192148 )
+)
+
+game (
+	name "Blazzing Paddles (1984)(Baudville)"
+	description "Blazzing Paddles (1984)(Baudville)"
+	rom ( name "Blazzing Paddles (1984)(Baudville).do" size 143360 crc f0187cf1 md5 69cd408015a3475857093cda04e857ac )
+)
+
+game (
+	name "Buick Dimensions (19xx)(-)(Side A)"
+	description "Buick Dimensions (19xx)(-)(Side A)"
+	rom ( name "Buick Dimensions (19xx)(-)(Side A).do" size 143360 crc bbdc87a9 md5 8ab32e572b2bd00fbeb7e54aba9858ed )
+)
+
+game (
+	name "Buick Dimensions (19xx)(-)(Side B)"
+	description "Buick Dimensions (19xx)(-)(Side B)"
+	rom ( name "Buick Dimensions (19xx)(-)(Side B).do" size 143360 crc 191e90b3 md5 975e8b3b7d6f895d0c3ced5564dc6540 )
+)
+
+game (
+	name "Business Utilities v1.0 (1985)(MECC)(US)"
+	description "Business Utilities v1.0 (1985)(MECC)(US)"
+	rom ( name "Business Utilities v1.0 (1985)(MECC)(US).do" size 143360 crc 5efc004b md5 7a3a9c73cac169ca07fce1b94714df13 )
+)
+
+game (
+	name "C.I.A. (19xx)(-)"
+	description "C.I.A. (19xx)(-)"
+	rom ( name "C.I.A. (19xx)(-).do" size 143360 crc 7682ab93 md5 a8ed259e78ca7f99b0b0e33a58854c13 )
+)
+
+game (
+	name "Cat Graphics (1984)(Penguin Software)[cr Syndicate - Whip]"
+	description "Cat Graphics (1984)(Penguin Software)[cr Syndicate - Whip]"
+	rom ( name "Cat Graphics (1984)(Penguin Software)[cr Syndicate - Whip].do" size 143360 crc 686912a8 md5 5f45ce3fd73139d78e482853138f8c98 )
+)
+
+game (
+	name "Cat-Fur 2.0 (19xx)(Black Bag)"
+	description "Cat-Fur 2.0 (19xx)(Black Bag)"
+	rom ( name "Cat-Fur 2.0 (19xx)(Black Bag).do" size 143360 crc 2e3fa8ea md5 1a1279a12edd89f4915aa6e1101d9d9e )
+)
+
+game (
+	name "Checkbook Analyzer (1983)(Windcrest Software)"
+	description "Checkbook Analyzer (1983)(Windcrest Software)"
+	rom ( name "Checkbook Analyzer (1983)(Windcrest Software).do" size 143360 crc 2c431b7b md5 54cdb8a9e492382fc4101b10188a3b5c )
+)
+
+game (
+	name "Common Basic Programs (19xx)(Osborne)"
+	description "Common Basic Programs (19xx)(Osborne)"
+	rom ( name "Common Basic Programs (19xx)(Osborne).do" size 143360 crc 8ffd74b2 md5 355711eb9266327209677a8401582666 )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 1 of 5)"
+	description "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 1 of 5)"
+	rom ( name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 1 of 5).do" size 143360 crc 9729d8dc md5 5233c44adf7bce77ea7363384f4e4ac2 )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 2 of 5)(Large Fonts)"
+	description "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 2 of 5)(Large Fonts)"
+	rom ( name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 2 of 5)(Large Fonts).do" size 143360 crc e1cc233f md5 a681e6cd799761b0116abed6f43ecd21 )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 3 of 5)(Large Typesets)"
+	description "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 3 of 5)(Large Typesets)"
+	rom ( name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 3 of 5)(Large Typesets).do" size 143360 crc aa171792 md5 f8677c3573be2ba713591999939d2bc3 )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 4 of 5)(Small Fonts)"
+	description "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 4 of 5)(Small Fonts)"
+	rom ( name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 4 of 5)(Small Fonts).do" size 143360 crc 5375f3f4 md5 d7191e92cef76255e9058aafcb36af82 )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 5 of 5)(Small Typesets)"
+	description "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 5 of 5)(Small Typesets)"
+	rom ( name "Complete Graphics System II, The (1982)(M. Pelczarski)(Disk 5 of 5)(Small Typesets).do" size 143360 crc ad7fa6a9 md5 5e4a574774475a1b7ff288ac4224caff )
+)
+
+game (
+	name "Complete Graphics System II, The (1982)(Mark Pelczarski)"
+	description "Complete Graphics System II, The (1982)(Mark Pelczarski)"
+	rom ( name "Complete Graphics System II, The (1982)(Mark Pelczarski).do" size 143360 crc d3f5e555 md5 620709c5b8d3e4305958e476026ff2fa )
+)
+
+game (
+	name "Computer Dating (1984)(M.A.C. Software)"
+	description "Computer Dating (1984)(M.A.C. Software)"
+	rom ( name "Computer Dating (1984)(M.A.C. Software).do" size 143360 crc b02c9798 md5 82c6f61d148bd0cb8424a9ce850e8362 )
+)
+
+game (
+	name "Computer Inspector v1.0 (1988)(MECC)(US)"
+	description "Computer Inspector v1.0 (1988)(MECC)(US)"
+	rom ( name "Computer Inspector v1.0 (1988)(MECC)(US).do" size 143360 crc 88c9ca53 md5 044c75618f9d526e3a24f701c0cf911f )
+)
+
+game (
+	name "Computist's Starter Kit v2.02 (1989)(Softkey Publishing)"
+	description "Computist's Starter Kit v2.02 (1989)(Softkey Publishing)"
+	rom ( name "Computist's Starter Kit v2.02 (1989)(Softkey Publishing).do" size 143360 crc ea7a6323 md5 a941dbf057125d986cf87335a1dfbe38 )
+)
+
+game (
+	name "Correspondent, The v4.4 (1984)(Roger Wagner Publishing)"
+	description "Correspondent, The v4.4 (1984)(Roger Wagner Publishing)"
+	rom ( name "Correspondent, The v4.4 (1984)(Roger Wagner Publishing).do" size 143360 crc 099cdee7 md5 3af04346ca25be377b31d58e00fedc83 )
+)
+
+game (
+	name "CPS Multifunction Card v2.0 (1981)(Mountain Computer)"
+	description "CPS Multifunction Card v2.0 (1981)(Mountain Computer)"
+	rom ( name "CPS Multifunction Card v2.0 (1981)(Mountain Computer).do" size 143360 crc 88cbed81 md5 2877608dcb0b92400669cf0b470643c4 )
+)
+
+game (
+	name "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side A)"
+	description "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side A)"
+	rom ( name "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side A).do" size 143360 crc d35d0e62 md5 20d5c83732f44ef990b76cfad4aad64f )
+)
+
+game (
+	name "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side B)"
+	description "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side B)"
+	rom ( name "Cracking Disk v1.1 (1983)(Hunter, Marco)(Side B).do" size 143360 crc 96f1451c md5 9029c491bdca917b04d1d5de172d7b48 )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 2 of 7)(Data Disk)[unk filesys]"
+	description "Create a Calendar (1987)(Epyx)(Disk 2 of 7)(Data Disk)[unk filesys]"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 2 of 7)(Data Disk)[unk filesys].do" size 143360 crc 83d107a1 md5 4856a16aef60121de30583ce539de0d8 )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 3 of 7)(Graphix)"
+	description "Create a Calendar (1987)(Epyx)(Disk 3 of 7)(Graphix)"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 3 of 7)(Graphix).do" size 143360 crc d8f96ed1 md5 6a9ebe05c848fdebcd8fa32ce2e04fb7 )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 4 of 7)(Graphix 1)"
+	description "Create a Calendar (1987)(Epyx)(Disk 4 of 7)(Graphix 1)"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 4 of 7)(Graphix 1).do" size 143360 crc 2fcb6bba md5 38e4c196aff9f68ddae20a6877b9865a )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 5 of 7)(Graphix 2)"
+	description "Create a Calendar (1987)(Epyx)(Disk 5 of 7)(Graphix 2)"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 5 of 7)(Graphix 2).do" size 143360 crc 3638e535 md5 b0e6c5120501020107f0687d446eaf90 )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 6 of 7)(Sports Graphix)"
+	description "Create a Calendar (1987)(Epyx)(Disk 6 of 7)(Sports Graphix)"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 6 of 7)(Sports Graphix).do" size 143360 crc 4e701e9c md5 ae5487697c5873b3f468c3cd514fab43 )
+)
+
+game (
+	name "Create a Calendar (1987)(Epyx)(Disk 7 of 7)(Wall Graphix)"
+	description "Create a Calendar (1987)(Epyx)(Disk 7 of 7)(Wall Graphix)"
+	rom ( name "Create a Calendar (1987)(Epyx)(Disk 7 of 7)(Wall Graphix).do" size 143360 crc 7eb19cdb md5 fb504073f74be7a958ff401003ba8d37 )
+)
+
+game (
+	name "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 1 of 2)[cr Foreign Boys]"
+	description "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 1 of 2)[cr Foreign Boys]"
+	rom ( name "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 1 of 2)[cr Foreign Boys].do" size 143360 crc 84b88cf3 md5 8c02836ae48aec820927f4a03b01c2b4 )
+)
+
+game (
+	name "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 2 of 2)[cr Foreign Boys]"
+	description "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 2 of 2)[cr Foreign Boys]"
+	rom ( name "Create with Garfield! - Deluxe Edition (1987)(Ahead Designs)(Disk 2 of 2)[cr Foreign Boys].do" size 143360 crc a84f7767 md5 54b5527f553b99f0e3827d4f43b622a7 )
+)
+
+game (
+	name "Create with Garfield! (1986)(Ahead Designs)[b]"
+	description "Create with Garfield! (1986)(Ahead Designs)[b]"
+	rom ( name "Create with Garfield! (1986)(Ahead Designs)[b].do" size 143360 crc ee0baf70 md5 67a93fe2955ee04c7c287b1f3a776ab1 )
+)
+
+game (
+	name "Create with Garfield! (1986)(Ahead Designs)[cr Extension 1200]"
+	description "Create with Garfield! (1986)(Ahead Designs)[cr Extension 1200]"
+	rom ( name "Create with Garfield! (1986)(Ahead Designs)[cr Extension 1200].do" size 143360 crc 03055fd7 md5 c1e03e29a08018499c8c76cfc825b7c3 )
+)
+
+game (
+	name "Cumsea (1986)(Custom Micro Systems)[cr Bunnymen]"
+	description "Cumsea (1986)(Custom Micro Systems)[cr Bunnymen]"
+	rom ( name "Cumsea (1986)(Custom Micro Systems)[cr Bunnymen].do" size 143360 crc 42859cf8 md5 625ebd7c84462864f2aa330d62068cac )
+)
+
+game (
+	name "Cut and Paste (1983)(Electronic Arts)[cr Midwest Pirates Guild]"
+	description "Cut and Paste (1983)(Electronic Arts)[cr Midwest Pirates Guild]"
+	rom ( name "Cut and Paste (1983)(Electronic Arts)[cr Midwest Pirates Guild].do" size 143360 crc e6e5b46f md5 1e8e939de8c50e90b34f36c2e544b177 )
+)
+
+game (
+	name "D Code v1.0 (1984)(Beagle Bros)"
+	description "D Code v1.0 (1984)(Beagle Bros)"
+	rom ( name "D Code v1.0 (1984)(Beagle Bros).do" size 143360 crc 0d637be4 md5 2cc732658f2ab474387ac62c00b87cff )
+)
+
+game (
+	name "D Code v1.0 (1985)(Beagle Bros)"
+	description "D Code v1.0 (1985)(Beagle Bros)"
+	rom ( name "D Code v1.0 (1985)(Beagle Bros).do" size 143360 crc a08178c9 md5 8efaa1e2682e7ec9958e48aa8dfb23e6 )
+)
+
+game (
+	name "Datalife Disk Drive Analyzer (1983)(Data-Encore)(fr)"
+	description "Datalife Disk Drive Analyzer (1983)(Data-Encore)(fr)"
+	rom ( name "Datalife Disk Drive Analyzer (1983)(Data-Encore)(fr).do" size 143360 crc f4adceaf md5 25923ab7177ae76fe69b1118e9374bb1 )
+)
+
+game (
+	name "Data-Plot (1980)(Muse)[cr Whip]"
+	description "Data-Plot (1980)(Muse)[cr Whip]"
+	rom ( name "Data-Plot (1980)(Muse)[cr Whip].do" size 143360 crc 2cbb0a66 md5 b1d2670cf0131070d2c96d5332ba17c0 )
+)
+
+game (
+	name "Designer's Pencil, The (19xx)(Activision)[cr Connection - Atlantic Pirates Guild]"
+	description "Designer's Pencil, The (19xx)(Activision)[cr Connection - Atlantic Pirates Guild]"
+	rom ( name "Designer's Pencil, The (19xx)(Activision)[cr Connection - Atlantic Pirates Guild].do" size 143360 crc 0a99c6b8 md5 153f179de44923e2fe8e1c94b87cce42 )
+)
+
+game (
+	name "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis)"
+	description "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis)"
+	rom ( name "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis).do" size 143360 crc 69ded4b7 md5 edb12ca85ecb26715b9294b6d12d44d9 )
+)
+
+game (
+	name "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis)[a]"
+	description "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis)[a]"
+	rom ( name "Digicorder v1.0 (demo) (1991)(Zuhyde Cybergenesis)[a].do" size 143360 crc 9ec28345 md5 ff7c5c8a9bff3da8a818d9d3aca5d3d1 )
+)
+
+game (
+	name "Digital Paintbrush System, The (1984)(Jandel)(Disk 1 of 2)[cr Dr. Encinitas]"
+	description "Digital Paintbrush System, The (1984)(Jandel)(Disk 1 of 2)[cr Dr. Encinitas]"
+	rom ( name "Digital Paintbrush System, The (1984)(Jandel)(Disk 1 of 2)[cr Dr. Encinitas].do" size 143360 crc 5b247fed md5 545d2f27d8f02a6dc88456b2a27d0187 )
+)
+
+game (
+	name "Digital Paintbrush System, The (1984)(Jandel)(Disk 2 of 2)[cr Dr. Encinitas]"
+	description "Digital Paintbrush System, The (1984)(Jandel)(Disk 2 of 2)[cr Dr. Encinitas]"
+	rom ( name "Digital Paintbrush System, The (1984)(Jandel)(Disk 2 of 2)[cr Dr. Encinitas].do" size 143360 crc 1c67e52f md5 3a0d647567f9220ed357b3322f433905 )
+)
+
+game (
+	name "Discovery Dinosaurs (1985)(Jacaranda Wiley)"
+	description "Discovery Dinosaurs (1985)(Jacaranda Wiley)"
+	rom ( name "Discovery Dinosaurs (1985)(Jacaranda Wiley).do" size 143360 crc 4de741fc md5 d5a097fecb18c7e815994c03aaa8fbbb )
+)
+
+game (
+	name "Disk Muncher v1.0 (1983)(The Stack - Corrupt Computing)"
+	description "Disk Muncher v1.0 (1983)(The Stack - Corrupt Computing)"
+	rom ( name "Disk Muncher v1.0 (1983)(The Stack - Corrupt Computing).do" size 143360 crc 5829c640 md5 ff5bebdd340366c9811e236660433bf2 )
+)
+
+game (
+	name "Disk Repair Kit, The v2.4 (1984)(Winzler, Dave)"
+	description "Disk Repair Kit, The v2.4 (1984)(Winzler, Dave)"
+	rom ( name "Disk Repair Kit, The v2.4 (1984)(Winzler, Dave).do" size 143360 crc 8e848687 md5 4750f7b90d962fc1a9e7b45e38fc7052 )
+)
+
+game (
+	name "Diversi-DOS (198x)(Dynacomp)(PD)"
+	description "Diversi-DOS (198x)(Dynacomp)(PD)"
+	rom ( name "Diversi-DOS (198x)(Dynacomp)(PD).do" size 143360 crc b6e093c3 md5 d6daf6062693d65f68b591b6aa865bf6 )
+)
+
+game (
+	name "D-Labels Plus v2.0 (1982)(J.W. Flowers)"
+	description "D-Labels Plus v2.0 (1982)(J.W. Flowers)"
+	rom ( name "D-Labels Plus v2.0 (1982)(J.W. Flowers).do" size 143360 crc 0405bc6b md5 9365a494211fd24e5b436b97d8a30408 )
+)
+
+game (
+	name "DOS Boss (1981)(Beagle Bros)"
+	description "DOS Boss (1981)(Beagle Bros)"
+	rom ( name "DOS Boss (1981)(Beagle Bros).do" size 143360 crc 87cb8a27 md5 a26ae4e42dab2472259755ce1d7d49aa )
+)
+
+game (
+	name "DOS Files Exchange II (1983)(Alpha Logic Business Systems)"
+	description "DOS Files Exchange II (1983)(Alpha Logic Business Systems)"
+	rom ( name "DOS Files Exchange II (1983)(Alpha Logic Business Systems).do" size 143360 crc 32cca09a md5 6a222c044b6c3d12c4770e346ad2aae1 )
+)
+
+game (
+	name "DOS Tool Kit v1.0 (1980)(Apple)"
+	description "DOS Tool Kit v1.0 (1980)(Apple)"
+	rom ( name "DOS Tool Kit v1.0 (1980)(Apple).do" size 143360 crc 3f8014fb md5 e45b86e97c95ccec92e8ffac997c9f64 )
+)
+
+game (
+	name "DOS Tool Kit v1.0 (1980)(Apple)[a]"
+	description "DOS Tool Kit v1.0 (1980)(Apple)[a]"
+	rom ( name "DOS Tool Kit v1.0 (1980)(Apple)[a].do" size 143360 crc 91332446 md5 cbf936629cadd09137d77dfb9befd5e0 )
+)
+
+game (
+	name "Dot Writer (19xx)(-)[cr Intense]"
+	description "Dot Writer (19xx)(-)[cr Intense]"
+	rom ( name "Dot Writer (19xx)(-)[cr Intense].do" size 143360 crc df5756bf md5 1a68265055869f905641a535892ec5a2 )
+)
+
+game (
+	name "Double-Take v1.4 (1983)(Beagle Bros)"
+	description "Double-Take v1.4 (1983)(Beagle Bros)"
+	rom ( name "Double-Take v1.4 (1983)(Beagle Bros).do" size 143360 crc 150781ee md5 da74f5136e4c13b48cb8990d6dd357fe )
+)
+
+game (
+	name "Double-Take v2.1 (1985)(Beagle Bros)"
+	description "Double-Take v2.1 (1985)(Beagle Bros)"
+	rom ( name "Double-Take v2.1 (1985)(Beagle Bros).do" size 143360 crc 1684dffe md5 30dff684bf23e3377f980e4fb55fd1b6 )
+)
+
+game (
+	name "Dream House (1984)(CBS Software)(Disk 1 of 2)[cr Black Widow]"
+	description "Dream House (1984)(CBS Software)(Disk 1 of 2)[cr Black Widow]"
+	rom ( name "Dream House (1984)(CBS Software)(Disk 1 of 2)[cr Black Widow].do" size 143360 crc 454e4a5b md5 4c6f2ea9ad70f5c2be0d8b79ff878323 )
+)
+
+game (
+	name "Dream House (1984)(CBS Software)(Disk 2 of 2)[cr Black Widow]"
+	description "Dream House (1984)(CBS Software)(Disk 2 of 2)[cr Black Widow]"
+	rom ( name "Dream House (1984)(CBS Software)(Disk 2 of 2)[cr Black Widow].do" size 143360 crc 3eebce08 md5 c2525fe778d9febf0e6fe7e5a0a07995 )
+)
+
+game (
+	name "Dubbeldos (1981)(Schlyter, Paul)"
+	description "Dubbeldos (1981)(Schlyter, Paul)"
+	rom ( name "Dubbeldos (1981)(Schlyter, Paul).do" size 143360 crc 4143bf0f md5 43fd55e81aac27e0524811be97b0ccf4 )
+)
+
+game (
+	name "Eamon Dungeon Designer v6.0 (1984-02-28)(Nelson, John)[no boot]"
+	description "Eamon Dungeon Designer v6.0 (1984-02-28)(Nelson, John)[no boot]"
+	rom ( name "Eamon Dungeon Designer v6.0 (1984-02-28)(Nelson, John)[no boot].do" size 143360 crc d3b4b7b0 md5 8ba48b18ddb9e5ebf2b69449171f7975 )
+)
+
+game (
+	name "Eamon Dungeon Designer v6.2 (1990)(Nelson, John)[no boot]"
+	description "Eamon Dungeon Designer v6.2 (1990)(Nelson, John)[no boot]"
+	rom ( name "Eamon Dungeon Designer v6.2 (1990)(Nelson, John)[no boot].do" size 143360 crc d59d7be5 md5 9ed8dc51cc7f0a1e89dc00e9990500de )
+)
+
+game (
+	name "Eamon Dungeon Designer v7.1 (1996)(Nelson, John)[no boot]"
+	description "Eamon Dungeon Designer v7.1 (1996)(Nelson, John)[no boot]"
+	rom ( name "Eamon Dungeon Designer v7.1 (1996)(Nelson, John)[no boot].do" size 143360 crc 25c9b4ce md5 05a86ac46ec79e754dfac3361420de64 )
+)
+
+game (
+	name "Eamon Graphics Main Hall (1989)(-)[no boot]"
+	description "Eamon Graphics Main Hall (1989)(-)[no boot]"
+	rom ( name "Eamon Graphics Main Hall (1989)(-)[no boot].do" size 143360 crc b449c326 md5 f7eb7103c607d1dcc036e29e9dbd4a78 )
+)
+
+game (
+	name "Eamon Multi Disk Suplement v7.1 (1993)(-)[no boot]"
+	description "Eamon Multi Disk Suplement v7.1 (1993)(-)[no boot]"
+	rom ( name "Eamon Multi Disk Suplement v7.1 (1993)(-)[no boot].do" size 143360 crc 1374ff49 md5 bf8c6834089fc0b6eac0efeb947e893b )
+)
+
+game (
+	name "Eamon Utilities (1996-02-28)(Moore, Phillip)"
+	description "Eamon Utilities (1996-02-28)(Moore, Phillip)"
+	rom ( name "Eamon Utilities (1996-02-28)(Moore, Phillip).do" size 143360 crc 9e23e210 md5 fda0c3e09d25f18caad20bd8e3aa2079 )
+)
+
+game (
+	name "Electric Duet, The (19xx)(Blacksmith Market)"
+	description "Electric Duet, The (19xx)(Blacksmith Market)"
+	rom ( name "Electric Duet, The (19xx)(Blacksmith Market).do" size 143360 crc da53a4a2 md5 bb8a5f55d74f8f0fb7eaa04041c09c9f )
+)
+
+game (
+	name "Electric Duet, The (19xx)(Blacksmith Market)[cr Dr. Death]"
+	description "Electric Duet, The (19xx)(Blacksmith Market)[cr Dr. Death]"
+	rom ( name "Electric Duet, The (19xx)(Blacksmith Market)[cr Dr. Death].do" size 143360 crc 79a8646a md5 eca919c33948f21db90e3d2fdb76c821 )
+)
+
+game (
+	name "Electronic Playground (1983)(Software Entertainment Company)[cr Blind Thief - Sponge]"
+	description "Electronic Playground (1983)(Software Entertainment Company)[cr Blind Thief - Sponge]"
+	rom ( name "Electronic Playground (1983)(Software Entertainment Company)[cr Blind Thief - Sponge].do" size 143360 crc 0e84a976 md5 feb58bf903fa111d39c8f40a4bfe8030 )
+)
+
+game (
+	name "Emulator Speed Test (19xx)(-)"
+	description "Emulator Speed Test (19xx)(-)"
+	rom ( name "Emulator Speed Test (19xx)(-).do" size 143360 crc d45df7df md5 4b2e56c890bb1d57e517eb4f215737e8 )
+)
+
+game (
+	name "EPF IV v1.0A (19xx)(-)[cr Krakowicz]"
+	description "EPF IV v1.0A (19xx)(-)[cr Krakowicz]"
+	rom ( name "EPF IV v1.0A (19xx)(-)[cr Krakowicz].do" size 143360 crc d3db18e6 md5 b2cc2538f19889375e76fef96032cee8 )
+)
+
+game (
+	name "Family Album (1985)(Millenium)(Side A)"
+	description "Family Album (1985)(Millenium)(Side A)"
+	rom ( name "Family Album (1985)(Millenium)(Side A).do" size 143360 crc 5b91114b md5 a17f517e5c37dcc8421382222f1a1dcf )
+)
+
+game (
+	name "Family Album (1985)(Millenium)(Side B)"
+	description "Family Album (1985)(Millenium)(Side B)"
+	rom ( name "Family Album (1985)(Millenium)(Side B).do" size 143360 crc 2a0e13fa md5 1fae2d1e9982130dfc5114a0cbf33ec8 )
+)
+
+game (
+	name "Family Roots (1982)(Quinsept)(Disk 1 of 2)"
+	description "Family Roots (1982)(Quinsept)(Disk 1 of 2)"
+	rom ( name "Family Roots (1982)(Quinsept)(Disk 1 of 2).do" size 143360 crc 1330ebb9 md5 92f789efc4119ab43c5f77213f66013f )
+)
+
+game (
+	name "Family Roots (1982)(Quinsept)(Disk 2 of 2)"
+	description "Family Roots (1982)(Quinsept)(Disk 2 of 2)"
+	rom ( name "Family Roots (1982)(Quinsept)(Disk 2 of 2).do" size 143360 crc 82400796 md5 145f6f3fe0d8e41d134257c0948567cb )
+)
+
+game (
+	name "Far Star (1984)(Random House)[cr Eastern Pirates Association]"
+	description "Far Star (1984)(Random House)[cr Eastern Pirates Association]"
+	rom ( name "Far Star (1984)(Random House)[cr Eastern Pirates Association].do" size 143360 crc 57b7cb3d md5 89298935a0789700b8302866fe63e496 )
+)
+
+game (
+	name "Fast Catalog (19xx)(J.E. Valois)"
+	description "Fast Catalog (19xx)(J.E. Valois)"
+	rom ( name "Fast Catalog (19xx)(J.E. Valois).do" size 143360 crc ed1805af md5 22a8019a8382aecbbcd79d6de2493ed4 )
+)
+
+game (
+	name "Fatcat (1984)(Beagle Bros)"
+	description "Fatcat (1984)(Beagle Bros)"
+	rom ( name "Fatcat (1984)(Beagle Bros).do" size 143360 crc 8df9de64 md5 d7693b25e4661942a2474f64c6f0ae50 )
+)
+
+game (
+	name "Fatcat (1984)(Beagle Bros)[a]"
+	description "Fatcat (1984)(Beagle Bros)[a]"
+	rom ( name "Fatcat (1984)(Beagle Bros)[a].do" size 143360 crc 99ce4b2a md5 005cea716efb4855303b32b370842ece )
+)
+
+game (
+	name "Flex Type v2.0 (demo) (1982)(Beagle Bros)"
+	description "Flex Type v2.0 (demo) (1982)(Beagle Bros)"
+	rom ( name "Flex Type v2.0 (demo) (1982)(Beagle Bros).do" size 143360 crc 323e0074 md5 3f713fb600b419e9225735919b5a446e )
+)
+
+game (
+	name "Flex Type v2.1b (demo) (1984)(Beagle Bros)"
+	description "Flex Type v2.1b (demo) (1984)(Beagle Bros)"
+	rom ( name "Flex Type v2.1b (demo) (1984)(Beagle Bros).do" size 143360 crc c5010041 md5 f945134364cbb0ad18392293dbb4bfd8 )
+)
+
+game (
+	name "Flying Colors (1983)(Jandel Corporation)"
+	description "Flying Colors (1983)(Jandel Corporation)"
+	rom ( name "Flying Colors (1983)(Jandel Corporation).do" size 143360 crc 1ec60cb3 md5 ffff4aad2032b121e5dd1fd5d5962aa7 )
+)
+
+game (
+	name "Font Mechanic (1985)(Beagle Bros)(Side A)"
+	description "Font Mechanic (1985)(Beagle Bros)(Side A)"
+	rom ( name "Font Mechanic (1985)(Beagle Bros)(Side A).do" size 143360 crc 1feabf88 md5 34d7b1afb5c87bb84c5b21056b976dea )
+)
+
+game (
+	name "Font Mechanic (1985)(Beagle Bros)(Side B)"
+	description "Font Mechanic (1985)(Beagle Bros)(Side B)"
+	rom ( name "Font Mechanic (1985)(Beagle Bros)(Side B).do" size 143360 crc 5f351fa5 md5 f5c358e31344b9e24fd5f0a649c34501 )
+)
+
+game (
+	name "Fontrix Font Pak 00 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 00 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 00 (1983)(Data Transforms).do" size 143360 crc a5638643 md5 a99611662b7684bf15497bc523155745 )
+)
+
+game (
+	name "Fontrix Font Pak 01 - 02 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 01 - 02 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 01 - 02 (1983)(Data Transforms).do" size 143360 crc f619d027 md5 f5ea71e0c2d46136bb1053e6d5fc0592 )
+)
+
+game (
+	name "Fontrix Font Pak 03 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 03 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 03 (1983)(Data Transforms).do" size 143360 crc e7d9685a md5 672542168653ffeb1ec4c5801697ce32 )
+)
+
+game (
+	name "Fontrix Font Pak 04 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 04 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 04 (1983)(Data Transforms).do" size 143360 crc 54ee2ab1 md5 29fe216c42e31ec103d5533c18d781ab )
+)
+
+game (
+	name "Fontrix Font Pak 05 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 05 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 05 (1983)(Data Transforms).do" size 143360 crc bb191f6d md5 14be857cc3578b9c571fe2405474b868 )
+)
+
+game (
+	name "Fontrix Font Pak 06 - 07 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 06 - 07 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 06 - 07 (1983)(Data Transforms).do" size 143360 crc 1cb050d2 md5 c4c0ba95baadfbf5b40103675c9891fb )
+)
+
+game (
+	name "Fontrix Font Pak 08 - 09 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 08 - 09 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 08 - 09 (1983)(Data Transforms).do" size 143360 crc 3cc75094 md5 ce69231fd56fdd0ab6623257f4920737 )
+)
+
+game (
+	name "Fontrix Font Pak 10 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 10 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 10 (1983)(Data Transforms).do" size 143360 crc 0233e391 md5 8f33be7dc8e9007412e48c816962a914 )
+)
+
+game (
+	name "Fontrix Font Pak 11 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 11 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 11 (1983)(Data Transforms).do" size 143360 crc 4343cd63 md5 c63be60720abda15d21d2a41a4c3df02 )
+)
+
+game (
+	name "Fontrix Font Pak 14 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 14 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 14 (1983)(Data Transforms).do" size 143360 crc 6ae35a4e md5 9a86d77734f64800b28b39277ef2f28c )
+)
+
+game (
+	name "Fontrix Font Pak 15 (1983)(Data Transforms)"
+	description "Fontrix Font Pak 15 (1983)(Data Transforms)"
+	rom ( name "Fontrix Font Pak 15 (1983)(Data Transforms).do" size 143360 crc 050a6f8d md5 1d448a82c0a1fa7fc0abde0f72382891 )
+)
+
+game (
+	name "Fontrix v1.2 (1983)(Data Transforms)"
+	description "Fontrix v1.2 (1983)(Data Transforms)"
+	rom ( name "Fontrix v1.2 (1983)(Data Transforms).do" size 143360 crc b7db6b30 md5 4961ab8f9d078c563f05fd10bcce086a )
+)
+
+game (
+	name "Format II Enhanced v1.20 (1983)(Microware)"
+	description "Format II Enhanced v1.20 (1983)(Microware)"
+	rom ( name "Format II Enhanced v1.20 (1983)(Microware).do" size 143360 crc fd964729 md5 56b3836c96602faa0c140f0f7e8ce5ce )
+)
+
+game (
+	name "Forth II v3.2 (1980)(Graves, William G.)(Disk 1 of 2)"
+	description "Forth II v3.2 (1980)(Graves, William G.)(Disk 1 of 2)"
+	rom ( name "Forth II v3.2 (1980)(Graves, William G.)(Disk 1 of 2).do" size 143360 crc 19d678fe md5 1f87241e8d24090e93504a76e735d67b )
+)
+
+game (
+	name "Forth II v3.2 (1980)(Graves, William G.)(Disk 2 of 2)"
+	description "Forth II v3.2 (1980)(Graves, William G.)(Disk 2 of 2)"
+	rom ( name "Forth II v3.2 (1980)(Graves, William G.)(Disk 2 of 2).do" size 143360 crc c2ff99fb md5 81ae5eccac6329bf8996478830c3d0ea )
+)
+
+game (
+	name "FPBasic (19xx)(-)(Side A)[m Toomey, Warren]"
+	description "FPBasic (19xx)(-)(Side A)[m Toomey, Warren]"
+	rom ( name "FPBasic (19xx)(-)(Side A)[m Toomey, Warren].do" size 143360 crc 1781c632 md5 6ecf1758bd341b276e2ce6c48da8934a )
+)
+
+game (
+	name "FPBasic (19xx)(-)(Side B)[m Toomey, Warren]"
+	description "FPBasic (19xx)(-)(Side B)[m Toomey, Warren]"
+	rom ( name "FPBasic (19xx)(-)(Side B)[m Toomey, Warren].do" size 143360 crc bee4a105 md5 12cd3334ae6bfcf71071b4bb015bc554 )
+)
+
+game (
+	name "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[b]"
+	description "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[b]"
+	rom ( name "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[b].do" size 143360 crc 05fc61f4 md5 1319a8942df390879f15a451c08ed82d )
+)
+
+game (
+	name "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[f boot]"
+	description "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[f boot]"
+	rom ( name "Franklin ACE 1000 Master Diskette v004 (1982-09-21)(-)[f boot].do" size 143360 crc c717c13f md5 505bbc4be78eb07a09a19853f594b997 )
+)
+
+game (
+	name "Function Drawing (19xx)(-)"
+	description "Function Drawing (19xx)(-)"
+	rom ( name "Function Drawing (19xx)(-).do" size 143360 crc 5ae85954 md5 bb1f5feffa7b1240a71b2f7324d85590 )
+)
+
+game (
+	name "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side A)"
+	description "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side A)"
+	rom ( name "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side A).do" size 143360 crc ea25afbb md5 3ffdb56ed18375a7baf5b4a3a31885d2 )
+)
+
+game (
+	name "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side B)"
+	description "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side B)"
+	rom ( name "Gardener's Assistant, The v1.1 (1984)(Microsoft)(Side B).do" size 143360 crc 70478836 md5 061aa18a7e95abe21349be67e4d81080 )
+)
+
+game (
+	name "Garfield Double Dares (1985)(Random House)"
+	description "Garfield Double Dares (1985)(Random House)"
+	rom ( name "Garfield Double Dares (1985)(Random House).do" size 143360 crc 2c0b8fe8 md5 44473c358f8e64dab2003f59dd39868a )
+)
+
+game (
+	name "Garfield, Eat Your Words (1985)(Random House)"
+	description "Garfield, Eat Your Words (1985)(Random House)"
+	rom ( name "Garfield, Eat Your Words (1985)(Random House).do" size 143360 crc 8a6d5cc7 md5 bfae23519f0cdc09c4549eed3f07fa5f )
+)
+
+game (
+	name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2)"
+	description "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2)"
+	rom ( name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2).do" size 143360 crc 8b7c051c md5 32ab83955138e79672007f5a395d2fc4 )
+)
+
+game (
+	name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2)[cr Blade]"
+	description "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2)[cr Blade]"
+	rom ( name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 1 of 2)[cr Blade].do" size 143360 crc db368b3d md5 f08f34da012c44e4a54bfe17df023e3a )
+)
+
+game (
+	name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2)"
+	description "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2)"
+	rom ( name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2).do" size 143360 crc e7827578 md5 d9725cc3e2b10a6b223dbe9158bf34d7 )
+)
+
+game (
+	name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2)[cr Blade]"
+	description "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2)[cr Blade]"
+	rom ( name "Garry Kitchen's Gamemaker (1985)(Activision)(Disk 2 of 2)[cr Blade].do" size 143360 crc 3896dea6 md5 5b649585da83b854a99e6449b8a38c3a )
+)
+
+game (
+	name "Gears (1985)(Sunburst)[cr Copycatter]"
+	description "Gears (1985)(Sunburst)[cr Copycatter]"
+	rom ( name "Gears (1985)(Sunburst)[cr Copycatter].do" size 143360 crc a8b0d0c5 md5 07df894548814388c64565cdcb6eae9e )
+)
+
+game (
+	name "General Manager (1981)(Brillig Systems)(Side A)[no boot]"
+	description "General Manager (1981)(Brillig Systems)(Side A)[no boot]"
+	rom ( name "General Manager (1981)(Brillig Systems)(Side A)[no boot].do" size 143360 crc 0bc0ff60 md5 eb6eedc6151197ddb5e29efbed484dc0 )
+)
+
+game (
+	name "General Manager (1981)(Brillig Systems)(Side B)[no boot]"
+	description "General Manager (1981)(Brillig Systems)(Side B)[no boot]"
+	rom ( name "General Manager (1981)(Brillig Systems)(Side B)[no boot].do" size 143360 crc f5fce2bb md5 fd6415428d8307ec14ea383688f85ca9 )
+)
+
+game (
+	name "GetPAS (1982-04)(Matthews, John B.)"
+	description "GetPAS (1982-04)(Matthews, John B.)"
+	rom ( name "GetPAS (1982-04)(Matthews, John B.).do" size 143360 crc 2bbd4de3 md5 c941d2d4a9361001a2af2309ec0f56ce )
+)
+
+game (
+	name "Global Program Line Editor (1983)(Beagle Bros)"
+	description "Global Program Line Editor (1983)(Beagle Bros)"
+	rom ( name "Global Program Line Editor (1983)(Beagle Bros).do" size 143360 crc df066683 md5 51b73aa4a51967305a23f80a122e36fd )
+)
+
+game (
+	name "Global Program Line Editor (1983)(Beagle Bros)[b]"
+	description "Global Program Line Editor (1983)(Beagle Bros)[b]"
+	rom ( name "Global Program Line Editor (1983)(Beagle Bros)[b].do" size 143360 crc a32b9626 md5 32886996dfe0d2db294d6deb04c9fee8 )
+)
+
+game (
+	name "Grade Manager v2.3 (1985)(MECC)(US)"
+	description "Grade Manager v2.3 (1985)(MECC)(US)"
+	rom ( name "Grade Manager v2.3 (1985)(MECC)(US).do" size 143360 crc 156b62e9 md5 a0474acc886e56cdfa29034a62cb334e )
+)
+
+game (
+	name "GraFORTH (1981)(Lutus, Paul)"
+	description "GraFORTH (1981)(Lutus, Paul)"
+	rom ( name "GraFORTH (1981)(Lutus, Paul).do" size 143360 crc f4066f5b md5 87cb28040a3c9b4863f943ebe9923a59 )
+)
+
+game (
+	name "GraFORTH (1981)(Lutus, Paul)[b]"
+	description "GraFORTH (1981)(Lutus, Paul)[b]"
+	rom ( name "GraFORTH (1981)(Lutus, Paul)[b].do" size 143360 crc 9d8410e7 md5 ac895f4d07d8ca6c549bf83e58bafb67 )
+)
+
+game (
+	name "Grahics Magician, The v6.82.1 (1982)(Penguin Software)"
+	description "Grahics Magician, The v6.82.1 (1982)(Penguin Software)"
+	rom ( name "Grahics Magician, The v6.82.1 (1982)(Penguin Software).do" size 143360 crc 9481d169 md5 350772895a8d6dceb33de057c4cdd6ca )
+)
+
+game (
+	name "Graphic Grabber v3.0 (19xx)(Hardcore Computist)"
+	description "Graphic Grabber v3.0 (19xx)(Hardcore Computist)"
+	rom ( name "Graphic Grabber v3.0 (19xx)(Hardcore Computist).do" size 143360 crc bff9f446 md5 cff8ac6326de44792c6469dcb564bc4e )
+)
+
+game (
+	name "Graphic Miracles (1984)(Foxxvision)[cr L.S.D.]"
+	description "Graphic Miracles (1984)(Foxxvision)[cr L.S.D.]"
+	rom ( name "Graphic Miracles (1984)(Foxxvision)[cr L.S.D.].do" size 143360 crc db09bc93 md5 60a1fcb010df05dbb27443f14d8923d4 )
+)
+
+game (
+	name "Graphic Solution (1982)(Accent Software)(Disk 1 of 2)"
+	description "Graphic Solution (1982)(Accent Software)(Disk 1 of 2)"
+	rom ( name "Graphic Solution (1982)(Accent Software)(Disk 1 of 2).do" size 143360 crc 30a727ea md5 7e624f3900f356a0489aedbd97ab6776 )
+)
+
+game (
+	name "Graphic Solution (1982)(Accent Software)(Disk 2 of 2)"
+	description "Graphic Solution (1982)(Accent Software)(Disk 2 of 2)"
+	rom ( name "Graphic Solution (1982)(Accent Software)(Disk 2 of 2).do" size 143360 crc 640432ef md5 6d7cf5acecdef345974b132e60685410 )
+)
+
+game (
+	name "Graphics Exhibitor (1984)(Koala Technologies)"
+	description "Graphics Exhibitor (1984)(Koala Technologies)"
+	rom ( name "Graphics Exhibitor (1984)(Koala Technologies).do" size 143360 crc 2ade8199 md5 cbaf71bd872a86db98829c6a8e3bfa12 )
+)
+
+game (
+	name "Graphics Magician (1983)(Penguin Software)"
+	description "Graphics Magician (1983)(Penguin Software)"
+	rom ( name "Graphics Magician (1983)(Penguin Software).do" size 143360 crc c68658fe md5 15a4abc5415542a4e05d262838075ef0 )
+)
+
+game (
+	name "Graphics Magician Animation System, The v12.84 (1984)(Penguin Software)"
+	description "Graphics Magician Animation System, The v12.84 (1984)(Penguin Software)"
+	rom ( name "Graphics Magician Animation System, The v12.84 (1984)(Penguin Software).do" size 143360 crc 0760c672 md5 df61f0119a2277ff60edd556af64b1a0 )
+)
+
+game (
+	name "Graphics Magician v5.84 (1984)(Penguin Software)(Disk 1 of 2)"
+	description "Graphics Magician v5.84 (1984)(Penguin Software)(Disk 1 of 2)"
+	rom ( name "Graphics Magician v5.84 (1984)(Penguin Software)(Disk 1 of 2).do" size 143360 crc 7ceef38a md5 e577e0a9e132f005366358f71068cead )
+)
+
+game (
+	name "Graphics Magician, The v12.82 (1982)(Penguin Software)"
+	description "Graphics Magician, The v12.82 (1982)(Penguin Software)"
+	rom ( name "Graphics Magician, The v12.82 (1982)(Penguin Software).do" size 143360 crc 48a1ce34 md5 027a28316b7592da15ec833559934161 )
+)
+
+game (
+	name "Graphics Magician, The v9.84 (1984)(Penguin Software)"
+	description "Graphics Magician, The v9.84 (1984)(Penguin Software)"
+	rom ( name "Graphics Magician, The v9.84 (1984)(Penguin Software).do" size 143360 crc 6661e0e9 md5 46009ec861e7128f35b283ff01b775f9 )
+)
+
+game (
+	name "Graphics on Display (1983)(D2 Systems)"
+	description "Graphics on Display (1983)(D2 Systems)"
+	rom ( name "Graphics on Display (1983)(D2 Systems).do" size 143360 crc 3b031e92 md5 b7a21a683d6fe4dfc9858c0ce869103a )
+)
+
+game (
+	name "Hacking Construction Set IIe (1986)(Cyborg)"
+	description "Hacking Construction Set IIe (1986)(Cyborg)"
+	rom ( name "Hacking Construction Set IIe (1986)(Cyborg).do" size 143360 crc 3f90de86 md5 2796209c061b4be686d1e489b772f7a5 )
+)
+
+game (
+	name "Handwriting Analysis (1980)(Micro Lipps)"
+	description "Handwriting Analysis (1980)(Micro Lipps)"
+	rom ( name "Handwriting Analysis (1980)(Micro Lipps).do" size 143360 crc 5b3bb9f9 md5 c4f3c806af0aecc9492d86b9fc6623e7 )
+)
+
+game (
+	name "Hatmaker's Graph Pack (19xx)(-)"
+	description "Hatmaker's Graph Pack (19xx)(-)"
+	rom ( name "Hatmaker's Graph Pack (19xx)(-).do" size 143360 crc e5b39c2a md5 64a93ec133017e37fbaae5968018640f )
+)
+
+game (
+	name "Hayden Applesoft Compiler Plus v4.0 (1982-10)(Hayden Software)"
+	description "Hayden Applesoft Compiler Plus v4.0 (1982-10)(Hayden Software)"
+	rom ( name "Hayden Applesoft Compiler Plus v4.0 (1982-10)(Hayden Software).do" size 143360 crc 747927e0 md5 b3ed9a62afe62ac3997c650ed7e1c1ab )
+)
+
+game (
+	name "Health Test (1986)(Create II)"
+	description "Health Test (1986)(Create II)"
+	rom ( name "Health Test (1986)(Create II).do" size 143360 crc 96bfbd73 md5 748281d0546367bf78b1afe3ee9df334 )
+)
+
+game (
+	name "Hi Res Architectural Design (1982)(Avant-Garde Creations)"
+	description "Hi Res Architectural Design (1982)(Avant-Garde Creations)"
+	rom ( name "Hi Res Architectural Design (1982)(Avant-Garde Creations).do" size 143360 crc ae3f01d4 md5 653c47e66f5eb766d251f66eae3d30b0 )
+)
+
+game (
+	name "Higher Text (1980)(Synergistic Software)[b]"
+	description "Higher Text (1980)(Synergistic Software)[b]"
+	rom ( name "Higher Text (1980)(Synergistic Software)[b].do" size 143360 crc 0e9e3991 md5 572fdfe2e7135a01b74544e179c12078 )
+)
+
+game (
+	name "Higher Text II (19xx)(Synergistic Software)"
+	description "Higher Text II (19xx)(Synergistic Software)"
+	rom ( name "Higher Text II (19xx)(Synergistic Software).do" size 143360 crc 8cf77acb md5 bc0e237c48f22adc56d59a5a78f1deec )
+)
+
+game (
+	name "Hi-Res Scroller (1985-04-13)(Digital Gang)"
+	description "Hi-Res Scroller (1985-04-13)(Digital Gang)"
+	rom ( name "Hi-Res Scroller (1985-04-13)(Digital Gang).do" size 143360 crc 87ff0bab md5 5901656369f338483b4a9cc353c23f5d )
+)
+
+game (
+	name "Home Accountant, The v2.0 (1981)(Continental Software)"
+	description "Home Accountant, The v2.0 (1981)(Continental Software)"
+	rom ( name "Home Accountant, The v2.0 (1981)(Continental Software).do" size 143360 crc b60a7b6e md5 2e7811c32d2c95c5b7e9b2982a2f86a7 )
+)
+
+game (
+	name "Home Pak (1984)(Star Systems Software)[b gfx]"
+	description "Home Pak (1984)(Star Systems Software)[b gfx]"
+	rom ( name "Home Pak (1984)(Star Systems Software)[b gfx].do" size 143360 crc 16f4b043 md5 a3cd8166ce3cf3f9538e0932fd16f009 )
+)
+
+game (
+	name "Homefiler v1.0 (1984)(Microlab)"
+	description "Homefiler v1.0 (1984)(Microlab)"
+	rom ( name "Homefiler v1.0 (1984)(Microlab).do" size 143360 crc 157ebeec md5 1470f1ad0c841753c4f5534a3b17f32c )
+)
+
+game (
+	name "Homefiler V6.0 Demo (1984)(Microlab)"
+	description "Homefiler V6.0 Demo (1984)(Microlab)"
+	rom ( name "Homefiler V6.0 Demo (1984)(Microlab).do" size 143360 crc 957f0d78 md5 6f06242f7d16b914a3c934a884ca503b )
+)
+
+game (
+	name "House Call - Home Medical Encyclopedia (1986)(Rocky Mountain Medical)(Disk 1 of 2)[cr Surfer Bill]"
+	description "House Call - Home Medical Encyclopedia (1986)(Rocky Mountain Medical)(Disk 1 of 2)[cr Surfer Bill]"
+	rom ( name "House Call - Home Medical Encyclopedia (1986)(Rocky Mountain Medical)(Disk 1 of 2)[cr Surfer Bill].do" size 143360 crc 49ede865 md5 8ffc5fc2c21c6c57e7c5919250b16115 )
+)
+
+game (
+	name "House Call Data (19xx)(-)(Disk 1 of 2)[h Surfer Bill][no boot]"
+	description "House Call Data (19xx)(-)(Disk 1 of 2)[h Surfer Bill][no boot]"
+	rom ( name "House Call Data (19xx)(-)(Disk 1 of 2)[h Surfer Bill][no boot].do" size 143360 crc 10f5f9b9 md5 e2125a310c4d62e634b83f396a572e92 )
+)
+
+game (
+	name "House Call Data (19xx)(-)(Disk 2 of 2)[h Surfer Bill][no boot]"
+	description "House Call Data (19xx)(-)(Disk 2 of 2)[h Surfer Bill][no boot]"
+	rom ( name "House Call Data (19xx)(-)(Disk 2 of 2)[h Surfer Bill][no boot].do" size 143360 crc 698dbe4f md5 42a88b18ce2b35fa44b7dd752bfbceaa )
+)
+
+game (
+	name "Integer Basic Files (19xx)(-)"
+	description "Integer Basic Files (19xx)(-)"
+	rom ( name "Integer Basic Files (19xx)(-).do" size 143360 crc 0047b011 md5 a4e2e1b2e1e989372cd5e13880f64ee7 )
+)
+
+game (
+	name "Key Perfect v2.0 (19xx)(Key Mccandless)[cr Mr. Electron]"
+	description "Key Perfect v2.0 (19xx)(Key Mccandless)[cr Mr. Electron]"
+	rom ( name "Key Perfect v2.0 (19xx)(Key Mccandless)[cr Mr. Electron].do" size 143360 crc ab583115 md5 88aa824dc457ce7af5bdead77df97923 )
+)
+
+game (
+	name "Key Perfect v5.0 (1985)(Microsparc)"
+	description "Key Perfect v5.0 (1985)(Microsparc)"
+	rom ( name "Key Perfect v5.0 (1985)(Microsparc).do" size 143360 crc ba07f871 md5 19bad1fa6d9492e3dd30541d68e70fbe )
+)
+
+game (
+	name "Koala Micro Illustrator, The (1983)(Koala)"
+	description "Koala Micro Illustrator, The (1983)(Koala)"
+	rom ( name "Koala Micro Illustrator, The (1983)(Koala).do" size 143360 crc 2c6bdfbc md5 09b86696ec11564ddf64330a8ab711db )
+)
+
+game (
+	name "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[data disk]"
+	description "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[data disk]"
+	rom ( name "Labels, Letters, and Lists v1.2 (1985)(MECC)(US)[data disk].do" size 143360 crc 976a2942 md5 412e7ee4cb5fca785cbfb9ba5cbbb242 )
+)
+
+game (
+	name "Lazer Pascal (19xx)(-)(Disk 1 of 2)"
+	description "Lazer Pascal (19xx)(-)(Disk 1 of 2)"
+	rom ( name "Lazer Pascal (19xx)(-)(Disk 1 of 2).do" size 143360 crc 88f410c9 md5 6175c88faa3b7e7cb807abbbae8ec74e )
+)
+
+game (
+	name "Lazer Pascal (19xx)(-)(Disk 2 of 2)"
+	description "Lazer Pascal (19xx)(-)(Disk 2 of 2)"
+	rom ( name "Lazer Pascal (19xx)(-)(Disk 2 of 2).do" size 143360 crc 95ce383b md5 6e495955f826dd48cc6dc0dbb99876e5 )
+)
+
+game (
+	name "Let's Talk Music (19xx)(Round Table - Rebel Alliance)"
+	description "Let's Talk Music (19xx)(Round Table - Rebel Alliance)"
+	rom ( name "Let's Talk Music (19xx)(Round Table - Rebel Alliance).do" size 143360 crc de7b7990 md5 1760d29778da4cdd0e43fc81e0daef47 )
+)
+
+game (
+	name "Lexicom v3.0 (19xx)(Szetela, David)[cr Copycatter]"
+	description "Lexicom v3.0 (19xx)(Szetela, David)[cr Copycatter]"
+	rom ( name "Lexicom v3.0 (19xx)(Szetela, David)[cr Copycatter].do" size 143360 crc cd7ade33 md5 443ceff4c2d03d90db4501c875cb60b4 )
+)
+
+game (
+	name "Life Routines (1987)(Toomey, Warren)(Side A)"
+	description "Life Routines (1987)(Toomey, Warren)(Side A)"
+	rom ( name "Life Routines (1987)(Toomey, Warren)(Side A).do" size 143360 crc 47a565d4 md5 96f296f925615dd5c52132a54ae1416e )
+)
+
+game (
+	name "Life Routines (1987)(Toomey, Warren)(Side B)"
+	description "Life Routines (1987)(Toomey, Warren)(Side B)"
+	rom ( name "Life Routines (1987)(Toomey, Warren)(Side B).do" size 143360 crc e4bf8af0 md5 02bee59e92ae2946f13596852c2bd9c2 )
+)
+
+game (
+	name "LISA Assembler (1981)(Lazer)"
+	description "LISA Assembler (1981)(Lazer)"
+	rom ( name "LISA Assembler (1981)(Lazer).do" size 143360 crc fc3c646a md5 2b42a9f6c099cc49efd0d038120b31b1 )
+)
+
+game (
+	name "LISA Files (19xx)(-)(Side A)"
+	description "LISA Files (19xx)(-)(Side A)"
+	rom ( name "LISA Files (19xx)(-)(Side A).do" size 143360 crc 43710145 md5 71bc23ec8d7ea0c69b24b14b4c4ec728 )
+)
+
+game (
+	name "LISA Files (19xx)(-)(Side B)"
+	description "LISA Files (19xx)(-)(Side B)"
+	rom ( name "LISA Files (19xx)(-)(Side B).do" size 143360 crc 5d7cc319 md5 befe1b86b6609593c9144620e06c068e )
+)
+
+game (
+	name "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 1 of 2)"
+	description "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 1 of 2)"
+	rom ( name "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 1 of 2).do" size 143360 crc 1b9b65bb md5 6c2e6a0ff5926599a57de564cfc9661a )
+)
+
+game (
+	name "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 2 of 2)"
+	description "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 2 of 2)"
+	rom ( name "Locksmith, The v5.0 Revision Level F (1983)(Omega Microware)(Disk 2 of 2).do" size 143360 crc de7a010d md5 4f3a73b76bdb5e784efd0d88197954f5 )
+)
+
+game (
+	name "Looney Tunes Print Kit (1989)(High Tech Expressions)"
+	description "Looney Tunes Print Kit (1989)(High Tech Expressions)"
+	rom ( name "Looney Tunes Print Kit (1989)(High Tech Expressions).do" size 143360 crc 6fe2d19c md5 157719ce0f0ce80cee4ce74ccffc24b1 )
+)
+
+game (
+	name "Macrosoft v1.0c (1983)(Microsparc)"
+	description "Macrosoft v1.0c (1983)(Microsparc)"
+	rom ( name "Macrosoft v1.0c (1983)(Microsparc).do" size 143360 crc eee1b571 md5 8e7bc88b48b1452d07384c34cd2e2685 )
+)
+
+game (
+	name "Magic Office system (1984)(Artsci)(Disk 1 of 2)"
+	description "Magic Office system (1984)(Artsci)(Disk 1 of 2)"
+	rom ( name "Magic Office system (1984)(Artsci)(Disk 1 of 2).do" size 143360 crc ac76e083 md5 8ba632517d95e8dc89e652716975caa6 )
+)
+
+game (
+	name "Magic Office system (1984)(Artsci)(Disk 2 of 2)"
+	description "Magic Office system (1984)(Artsci)(Disk 2 of 2)"
+	rom ( name "Magic Office system (1984)(Artsci)(Disk 2 of 2).do" size 143360 crc 6bd51193 md5 96831a742c82e3d953c451bfa3559edc )
+)
+
+game (
+	name "Magic Window II (1982)(Artsci)"
+	description "Magic Window II (1982)(Artsci)"
+	rom ( name "Magic Window II (1982)(Artsci).do" size 143360 crc 0a1f03ac md5 64bccb8ebe76c5052ba221c7333ebaf7 )
+)
+
+game (
+	name "Managing For Success People Management (1983)(CBS Software)(Disk 1 of 4)"
+	description "Managing For Success People Management (1983)(CBS Software)(Disk 1 of 4)"
+	rom ( name "Managing For Success People Management (1983)(CBS Software)(Disk 1 of 4).do" size 143360 crc fcd39343 md5 9a33b35ea2c0fb5912f2f17c7af392bd )
+)
+
+game (
+	name "Managing For Success People Management (1983)(CBS Software)(Disk 2 of 4)"
+	description "Managing For Success People Management (1983)(CBS Software)(Disk 2 of 4)"
+	rom ( name "Managing For Success People Management (1983)(CBS Software)(Disk 2 of 4).do" size 143360 crc 7b8d9dc1 md5 9e262617fe6b6812eea86d2e00971dc7 )
+)
+
+game (
+	name "Managing For Success People Management (1983)(CBS Software)(Disk 3 of 4)"
+	description "Managing For Success People Management (1983)(CBS Software)(Disk 3 of 4)"
+	rom ( name "Managing For Success People Management (1983)(CBS Software)(Disk 3 of 4).do" size 143360 crc ddde9016 md5 19632e857378f002c001f2830d7c581b )
+)
+
+game (
+	name "Managing For Success People Management (1983)(CBS Software)(Disk 4 of 4)"
+	description "Managing For Success People Management (1983)(CBS Software)(Disk 4 of 4)"
+	rom ( name "Managing For Success People Management (1983)(CBS Software)(Disk 4 of 4).do" size 143360 crc 85545ae3 md5 f2679c6fba38818cf603fa06027ab47d )
+)
+
+game (
+	name "Manx C Compiler (1983)(Manx Software)(Side A)"
+	description "Manx C Compiler (1983)(Manx Software)(Side A)"
+	rom ( name "Manx C Compiler (1983)(Manx Software)(Side A).do" size 143360 crc 2f76c6c1 md5 abc4e93ed15ff4d5711ca763baee2613 )
+)
+
+game (
+	name "Manx C Compiler (1983)(Manx Software)(Side B)"
+	description "Manx C Compiler (1983)(Manx Software)(Side B)"
+	rom ( name "Manx C Compiler (1983)(Manx Software)(Side B).do" size 143360 crc 1abaa2ee md5 207787b55153fe0ad78cf906da611f91 )
+)
+
+game (
+	name "Map Pack (1984)(Penguin Software)(Disk 1 of 2)"
+	description "Map Pack (1984)(Penguin Software)(Disk 1 of 2)"
+	rom ( name "Map Pack (1984)(Penguin Software)(Disk 1 of 2).do" size 143360 crc 7c956a23 md5 5962203d0414b049f16e54caadc56761 )
+)
+
+game (
+	name "Map Pack (1984)(Penguin Software)(Disk 2 of 2)"
+	description "Map Pack (1984)(Penguin Software)(Disk 2 of 2)"
+	rom ( name "Map Pack (1984)(Penguin Software)(Disk 2 of 2).do" size 143360 crc 33b9f263 md5 594175acffcbcd572e53c55cfbe83cd1 )
+)
+
+game (
+	name "Master Bartender, The (1985)(Engineering Computer Applications)"
+	description "Master Bartender, The (1985)(Engineering Computer Applications)"
+	rom ( name "Master Bartender, The (1985)(Engineering Computer Applications).do" size 143360 crc 3516eb50 md5 fb4eff8ae131267a61f92c5484189be9 )
+)
+
+game (
+	name "Master Diagnostics IIe (198x)(-)(IIe)[cr Sector Smasher]"
+	description "Master Diagnostics IIe (198x)(-)(IIe)[cr Sector Smasher]"
+	rom ( name "Master Diagnostics IIe (198x)(-)(IIe)[cr Sector Smasher].do" size 143360 crc 78f37ea7 md5 19889f738a76d895792efcd242c64b82 )
+)
+
+game (
+	name "Masterchart (1983)(Spectral Graphics)"
+	description "Masterchart (1983)(Spectral Graphics)"
+	rom ( name "Masterchart (1983)(Spectral Graphics).do" size 143360 crc 22c1966a md5 735836beba563b43e16e0ffd4af0da0a )
+)
+
+game (
+	name "Match Wits (1983)(CBS Software)"
+	description "Match Wits (1983)(CBS Software)"
+	rom ( name "Match Wits (1983)(CBS Software).do" size 143360 crc fc9f8d78 md5 369e5d8a6d3f9c39dc1d53c1474f975e )
+)
+
+game (
+	name "Mathemagic v1.6A (1981)(International Software Marketing)"
+	description "Mathemagic v1.6A (1981)(International Software Marketing)"
+	rom ( name "Mathemagic v1.6A (1981)(International Software Marketing).do" size 143360 crc c0700ce1 md5 7f2b46a5b5dfe75f4aa668bbbb0cba71 )
+)
+
+game (
+	name "MECC Backup Utility (1983)(MECC)(US)"
+	description "MECC Backup Utility (1983)(MECC)(US)"
+	rom ( name "MECC Backup Utility (1983)(MECC)(US).do" size 143360 crc ca51c19e md5 f238a02442752914a9a9c5247575c9fa )
+)
+
+game (
+	name "MECC Graph (1985)(MECC)(US)"
+	description "MECC Graph (1985)(MECC)(US)"
+	rom ( name "MECC Graph (1985)(MECC)(US).do" size 143360 crc 2a5117e9 md5 414d3cd823cc9d4a5e3f6f922c8ca140 )
+)
+
+game (
+	name "Mega Music v2.0 (19xx)(Dr.Crunch)"
+	description "Mega Music v2.0 (19xx)(Dr.Crunch)"
+	rom ( name "Mega Music v2.0 (19xx)(Dr.Crunch).do" size 143360 crc 61585e30 md5 99cec840a7c08f5e5cd0e3773cb1b6ae )
+)
+
+game (
+	name "Megaterm v3.0 (1984)(Novation)"
+	description "Megaterm v3.0 (1984)(Novation)"
+	rom ( name "Megaterm v3.0 (1984)(Novation).do" size 143360 crc 1e49ba05 md5 31cb09cc27ca11c6d1b13b06b239f65a )
+)
+
+game (
+	name "Merlin-8 v2.47 (19xx)(Bredon, Glen E.)"
+	description "Merlin-8 v2.47 (19xx)(Bredon, Glen E.)"
+	rom ( name "Merlin-8 v2.47 (19xx)(Bredon, Glen E.).do" size 143360 crc 6fbf32c0 md5 c621a5357b64aa7116fcf0732a020eb4 )
+)
+
+game (
+	name "Merlin-Pro v2.43 (1985)(Bredon, Glen E.)(Disk 1 of 3)"
+	description "Merlin-Pro v2.43 (1985)(Bredon, Glen E.)(Disk 1 of 3)"
+	rom ( name "Merlin-Pro v2.43 (1985)(Bredon, Glen E.)(Disk 1 of 3).do" size 143360 crc 8d3c9de6 md5 c97ce6b0f281895b0c546db7aa0486ea )
+)
+
+game (
+	name "Metatrack (1982)(Syntauri)(Side A)"
+	description "Metatrack (1982)(Syntauri)(Side A)"
+	rom ( name "Metatrack (1982)(Syntauri)(Side A).do" size 143360 crc eec7a94e md5 82106e392f73508b8c520a2ef5aad7bf )
+)
+
+game (
+	name "Metatrack (1982)(Syntauri)(Side B)"
+	description "Metatrack (1982)(Syntauri)(Side B)"
+	rom ( name "Metatrack (1982)(Syntauri)(Side B).do" size 143360 crc 904121d9 md5 52ce5d64cd388b7db406e00c4bd7d09d )
+)
+
+game (
+	name "Micro Diary (1984)(Expertel)"
+	description "Micro Diary (1984)(Expertel)"
+	rom ( name "Micro Diary (1984)(Expertel).do" size 143360 crc 60215b99 md5 fadfd59186c14a9c363bd046cea9d5fc )
+)
+
+game (
+	name "Microcomputer Graphics (1982)(Roy Myers)"
+	description "Microcomputer Graphics (1982)(Roy Myers)"
+	rom ( name "Microcomputer Graphics (1982)(Roy Myers).do" size 143360 crc 93c739fa md5 a7497b2a019c39dd8144d600e3e0938b )
+)
+
+game (
+	name "Micro-Ed - Library Disk #1 (1984-10)(Micro Educational)"
+	description "Micro-Ed - Library Disk #1 (1984-10)(Micro Educational)"
+	rom ( name "Micro-Ed - Library Disk #1 (1984-10)(Micro Educational).do" size 143360 crc 989e9caa md5 5452d441f3f174d613c1382d21e66473 )
+)
+
+game (
+	name "Micro-Ed - Library Disk #2 (1985)(Micro Educational)"
+	description "Micro-Ed - Library Disk #2 (1985)(Micro Educational)"
+	rom ( name "Micro-Ed - Library Disk #2 (1985)(Micro Educational).do" size 143360 crc 4e7c97cf md5 e4f77f7e3af547e42eaf63cff7a5d11f )
+)
+
+game (
+	name "Micro-Ed - Library Disk #3 (1986)(Micro Educational)"
+	description "Micro-Ed - Library Disk #3 (1986)(Micro Educational)"
+	rom ( name "Micro-Ed - Library Disk #3 (1986)(Micro Educational).do" size 143360 crc 9bfe1182 md5 ff8adc4e99aced845e78603c580a530b )
+)
+
+game (
+	name "Micro-Ed - Library Disk #4 (1986)(Micro Educational)"
+	description "Micro-Ed - Library Disk #4 (1986)(Micro Educational)"
+	rom ( name "Micro-Ed - Library Disk #4 (1986)(Micro Educational).do" size 143360 crc b00a01a1 md5 aba5b0d6e8c9ce4fbe424298e9ff2092 )
+)
+
+game (
+	name "Mind Mirror (1985)(Electronic Arts)(Disk 1 of 3)[cr Digital Gang]"
+	description "Mind Mirror (1985)(Electronic Arts)(Disk 1 of 3)[cr Digital Gang]"
+	rom ( name "Mind Mirror (1985)(Electronic Arts)(Disk 1 of 3)[cr Digital Gang].do" size 143360 crc d7cdabff md5 a556948e301f0b95a643441e05521fb2 )
+)
+
+game (
+	name "Mind Mirror (1985)(Electronic Arts)(Disk 2 of 3)[cr Digital Gang]"
+	description "Mind Mirror (1985)(Electronic Arts)(Disk 2 of 3)[cr Digital Gang]"
+	rom ( name "Mind Mirror (1985)(Electronic Arts)(Disk 2 of 3)[cr Digital Gang].do" size 143360 crc 50ac904a md5 01b3c1fd1c6bde5f2736efbec63329e6 )
+)
+
+game (
+	name "Mind Mirror (1985)(Electronic Arts)(Disk 3 of 3)[cr Digital Gang]"
+	description "Mind Mirror (1985)(Electronic Arts)(Disk 3 of 3)[cr Digital Gang]"
+	rom ( name "Mind Mirror (1985)(Electronic Arts)(Disk 3 of 3)[cr Digital Gang].do" size 143360 crc 92a6fa3b md5 243c28268a667c22bd0f73bb408c9fd6 )
+)
+
+game (
+	name "Mind Prober (1984)(Human Edge)(Side A)"
+	description "Mind Prober (1984)(Human Edge)(Side A)"
+	rom ( name "Mind Prober (1984)(Human Edge)(Side A).do" size 143360 crc af3fbaf3 md5 4585a69402079bb2303993157d4a8177 )
+)
+
+game (
+	name "Mind Prober (1984)(Human Edge)(Side A)[a]"
+	description "Mind Prober (1984)(Human Edge)(Side A)[a]"
+	rom ( name "Mind Prober (1984)(Human Edge)(Side A)[a].do" size 143360 crc c1f66ad1 md5 7363ae6179b25b91f3eba99ddfe4cb52 )
+)
+
+game (
+	name "Mind Prober (1984)(Human Edge)(Side A)[a2]"
+	description "Mind Prober (1984)(Human Edge)(Side A)[a2]"
+	rom ( name "Mind Prober (1984)(Human Edge)(Side A)[a2].do" size 143360 crc 3b9c972c md5 afaa2a35230c6b63e88cfb7355c7be11 )
+)
+
+game (
+	name "Mind Prober (1984)(Human Edge)(Side B)"
+	description "Mind Prober (1984)(Human Edge)(Side B)"
+	rom ( name "Mind Prober (1984)(Human Edge)(Side B).do" size 143360 crc b0a32712 md5 e11a08e51383ec57f4ee975f83060c36 )
+)
+
+game (
+	name "Mind Prober (1984)(Human Edge)(Side B)[a]"
+	description "Mind Prober (1984)(Human Edge)(Side B)[a]"
+	rom ( name "Mind Prober (1984)(Human Edge)(Side B)[a].do" size 143360 crc 2375754b md5 840b25b1ab44679380ddfa7a420c6d05 )
+)
+
+game (
+	name "Mockingboard (19xx)(Sweet Micro Systems)(Disk 1 of 2)"
+	description "Mockingboard (19xx)(Sweet Micro Systems)(Disk 1 of 2)"
+	rom ( name "Mockingboard (19xx)(Sweet Micro Systems)(Disk 1 of 2).do" size 143360 crc 71dacc46 md5 c20f8bd2a0e6374e308280c15001e2a3 )
+)
+
+game (
+	name "Mockingboard (19xx)(Sweet Micro Systems)(Disk 2 of 2)"
+	description "Mockingboard (19xx)(Sweet Micro Systems)(Disk 2 of 2)"
+	rom ( name "Mockingboard (19xx)(Sweet Micro Systems)(Disk 2 of 2).do" size 143360 crc 30e76207 md5 12b698d96203a48ce497afa9b38ce613 )
+)
+
+game (
+	name "Molecular Animator, The v1.0 (1982)(Howbert, Jeff)"
+	description "Molecular Animator, The v1.0 (1982)(Howbert, Jeff)"
+	rom ( name "Molecular Animator, The v1.0 (1982)(Howbert, Jeff).do" size 143360 crc 39fa5ad7 md5 ed64c5418c65cef317f59222e5b2f392 )
+)
+
+game (
+	name "Movie Maker (1984)(Interactive Picture Systems)(Disk 1 of 2)[cr Disk Jockey]"
+	description "Movie Maker (1984)(Interactive Picture Systems)(Disk 1 of 2)[cr Disk Jockey]"
+	rom ( name "Movie Maker (1984)(Interactive Picture Systems)(Disk 1 of 2)[cr Disk Jockey].do" size 143360 crc 80d78188 md5 aecf87d94120c4145e9a09786e964bea )
+)
+
+game (
+	name "Movie Maker (1984)(Interactive Picture Systems)(Disk 2 of 2)[cr Disk Jockey]"
+	description "Movie Maker (1984)(Interactive Picture Systems)(Disk 2 of 2)[cr Disk Jockey]"
+	rom ( name "Movie Maker (1984)(Interactive Picture Systems)(Disk 2 of 2)[cr Disk Jockey].do" size 143360 crc 94b7623d md5 7ece0fc26684304cf3dd87766217c64a )
+)
+
+game (
+	name "Music Construction Set (1983)(Electronic Arts)"
+	description "Music Construction Set (1983)(Electronic Arts)"
+	rom ( name "Music Construction Set (1983)(Electronic Arts).do" size 143360 crc db894153 md5 f9fb23149f216f769965d1ce1e25e630 )
+)
+
+game (
+	name "Music Construction Set (1983)(Electronic Arts)[cr ASCII-Moe]"
+	description "Music Construction Set (1983)(Electronic Arts)[cr ASCII-Moe]"
+	rom ( name "Music Construction Set (1983)(Electronic Arts)[cr ASCII-Moe].do" size 143360 crc 0eef9b20 md5 22ee4945b4f941bea5379501920e9908 )
+)
+
+game (
+	name "Music Construction Set (1983)(Electronic Arts)[cr Midwest Pirates Guild]"
+	description "Music Construction Set (1983)(Electronic Arts)[cr Midwest Pirates Guild]"
+	rom ( name "Music Construction Set (1983)(Electronic Arts)[cr Midwest Pirates Guild].do" size 143360 crc 3e75dec9 md5 28fc07726f0f7cde3173933aacba27dd )
+)
+
+game (
+	name "Music Disk, The (1982)(Walter Marcinko Jr.)"
+	description "Music Disk, The (1982)(Walter Marcinko Jr.)"
+	rom ( name "Music Disk, The (1982)(Walter Marcinko Jr.).do" size 143360 crc a6ad9366 md5 37e49a1cf154be9eb200e19cab82a419 )
+)
+
+game (
+	name "Music Made Easy (1984)(ECS)[cr 1200 Club]"
+	description "Music Made Easy (1984)(ECS)[cr 1200 Club]"
+	rom ( name "Music Made Easy (1984)(ECS)[cr 1200 Club].do" size 143360 crc 28971c1a md5 ff22969a8aa78b638c6f461680e7bf4b )
+)
+
+game (
+	name "MusiComp (1980)(Apple)"
+	description "MusiComp (1980)(Apple)"
+	rom ( name "MusiComp (1980)(Apple).do" size 143360 crc 4ac9f539 md5 68fe999115fbc5da384c328ad253b812 )
+)
+
+game (
+	name "Networker - Communications Software, The v1.0 (1983)(Zoom Telephonics)"
+	description "Networker - Communications Software, The v1.0 (1983)(Zoom Telephonics)"
+	rom ( name "Networker - Communications Software, The v1.0 (1983)(Zoom Telephonics).do" size 143360 crc eb1ae16a md5 67d4ad3dd41f22f9dc4be3afb466c933 )
+)
+
+game (
+	name "Newsroom (1984)(Springboard Software)[cr Ripper]"
+	description "Newsroom (1984)(Springboard Software)[cr Ripper]"
+	rom ( name "Newsroom (1984)(Springboard Software)[cr Ripper].do" size 143360 crc 4c373031 md5 d985d8db308a3c64db67748f374a6e3a )
+)
+
+game (
+	name "Newsroom Banner Datadisk (198x)(-)"
+	description "Newsroom Banner Datadisk (198x)(-)"
+	rom ( name "Newsroom Banner Datadisk (198x)(-).do" size 143360 crc eb00f65f md5 aa2b75a555ffcbe06629161b788303c5 )
+)
+
+game (
+	name "Newsroom v1.0 (1984)(Springboard Software)[cr Midwest Pirates Guild]"
+	description "Newsroom v1.0 (1984)(Springboard Software)[cr Midwest Pirates Guild]"
+	rom ( name "Newsroom v1.0 (1984)(Springboard Software)[cr Midwest Pirates Guild].do" size 143360 crc c2b92af4 md5 b29c1da496c9e7ec460a8ecbebd693c5 )
+)
+
+game (
+	name "Nibbles Away II vA1 (19xx)(-)"
+	description "Nibbles Away II vA1 (19xx)(-)"
+	rom ( name "Nibbles Away II vA1 (19xx)(-).do" size 143360 crc 19481ed9 md5 fa19b4162215fdc698035013a163d523 )
+)
+
+game (
+	name "Novation Comware II v5.1 (19xx)(Novation)"
+	description "Novation Comware II v5.1 (19xx)(Novation)"
+	rom ( name "Novation Comware II v5.1 (19xx)(Novation).do" size 143360 crc 50c561d5 md5 be4978763630f8f14dd1451a22112bd7 )
+)
+
+game (
+	name "Operation- Frog (1984)(Scholastic)(Disk 1 of 2)[cr Atlantic Pirates Guild]"
+	description "Operation- Frog (1984)(Scholastic)(Disk 1 of 2)[cr Atlantic Pirates Guild]"
+	rom ( name "Operation- Frog (1984)(Scholastic)(Disk 1 of 2)[cr Atlantic Pirates Guild].do" size 143360 crc 3567e492 md5 ffeea441202495fd10c950713337f87a )
+)
+
+game (
+	name "Operation- Frog (1984)(Scholastic)(Disk 2 of 2)[cr Atlantic Pirates Guild]"
+	description "Operation- Frog (1984)(Scholastic)(Disk 2 of 2)[cr Atlantic Pirates Guild]"
+	rom ( name "Operation- Frog (1984)(Scholastic)(Disk 2 of 2)[cr Atlantic Pirates Guild].do" size 143360 crc 40886088 md5 b1d6594581ce1ec073cdd800220aefdf )
+)
+
+game (
+	name "Passport to London v1.3 (1986)(Sharedata)[cr Blade]"
+	description "Passport to London v1.3 (1986)(Sharedata)[cr Blade]"
+	rom ( name "Passport to London v1.3 (1986)(Sharedata)[cr Blade].do" size 143360 crc 439fd228 md5 8d2790f87fb4c8c73c12701ba5393583 )
+)
+
+game (
+	name "Pattern Maker (1984)(Scarborough Systems)[cr Atlantic Pirates Guild - 1200 Club]"
+	description "Pattern Maker (1984)(Scarborough Systems)[cr Atlantic Pirates Guild - 1200 Club]"
+	rom ( name "Pattern Maker (1984)(Scarborough Systems)[cr Atlantic Pirates Guild - 1200 Club].do" size 143360 crc bf64563c md5 956310e5a6a18adb983050a2d8028109 )
+)
+
+game (
+	name "Person to Person (19xx)(-)[cr High Society]"
+	description "Person to Person (19xx)(-)[cr High Society]"
+	rom ( name "Person to Person (19xx)(-)[cr High Society].do" size 143360 crc 7281598c md5 f632ad448e47fc62d60d55c9b292d87d )
+)
+
+game (
+	name "Picture Writer (1983)(Scarborough Systems)"
+	description "Picture Writer (1983)(Scarborough Systems)"
+	rom ( name "Picture Writer (1983)(Scarborough Systems).do" size 143360 crc 34ccbad4 md5 1d4aa627576b82e3eb564cbfe37ae3ff )
+)
+
+game (
+	name "Pie Writer - Word Processing System (1983)(Hayden Book)"
+	description "Pie Writer - Word Processing System (1983)(Hayden Book)"
+	rom ( name "Pie Writer - Word Processing System (1983)(Hayden Book).do" size 143360 crc 1fed08ea md5 c7ec377621598e9ab924b7e638e828df )
+)
+
+game (
+	name "Pirate's Signature v1.0 (1984)(Johnney Appleseed)"
+	description "Pirate's Signature v1.0 (1984)(Johnney Appleseed)"
+	rom ( name "Pirate's Signature v1.0 (1984)(Johnney Appleseed).do" size 143360 crc 7faae48a md5 3e33042a191b677f9d68a6c1b18e58fb )
+)
+
+game (
+	name "Pixit (1983)(Baudville)"
+	description "Pixit (1983)(Baudville)"
+	rom ( name "Pixit (1983)(Baudville).do" size 143360 crc 056572e4 md5 15edb56a5560a44eca0229b18228fa21 )
+)
+
+game (
+	name "Playwriter (1984)(Woodbury)[cr Mr. Krac-Man][b]"
+	description "Playwriter (1984)(Woodbury)[cr Mr. Krac-Man][b]"
+	rom ( name "Playwriter (1984)(Woodbury)[cr Mr. Krac-Man][b].do" size 143360 crc b0ba6b41 md5 171d79e5e62efbdee5e542ce1f954f75 )
+)
+
+game (
+	name "Practical Guide to Cracking, The (1985)(6502 Brigand - Waremonger)"
+	description "Practical Guide to Cracking, The (1985)(6502 Brigand - Waremonger)"
+	rom ( name "Practical Guide to Cracking, The (1985)(6502 Brigand - Waremonger).do" size 143360 crc 348a94b2 md5 b8101169f0022327abbbbe7304bd652b )
+)
+
+game (
+	name "Practicalc II LC (1983)(CSA)"
+	description "Practicalc II LC (1983)(CSA)"
+	rom ( name "Practicalc II LC (1983)(CSA).do" size 143360 crc e3f37bb9 md5 4b08187e4edea32d7bb648ade16bd65a )
+)
+
+game (
+	name "Print Magic (1987)(Epyx)(Disk 1 of 5)"
+	description "Print Magic (1987)(Epyx)(Disk 1 of 5)"
+	rom ( name "Print Magic (1987)(Epyx)(Disk 1 of 5).do" size 143360 crc 99d2ff68 md5 a17f86d0d45c8ce920e698b4c37fa5bd )
+)
+
+game (
+	name "Print Magic (1987)(Epyx)(Disk 2 of 5)"
+	description "Print Magic (1987)(Epyx)(Disk 2 of 5)"
+	rom ( name "Print Magic (1987)(Epyx)(Disk 2 of 5).do" size 143360 crc 588127e7 md5 f2ffb80e8c6ae673aa42cd6764e72874 )
+)
+
+game (
+	name "Print Magic (1987)(Epyx)(Disk 3 of 5)"
+	description "Print Magic (1987)(Epyx)(Disk 3 of 5)"
+	rom ( name "Print Magic (1987)(Epyx)(Disk 3 of 5).do" size 143360 crc 9f104fac md5 1eaf337eb740315067bf2bed7e87bec9 )
+)
+
+game (
+	name "Print Magic (1987)(Epyx)(Disk 4 of 5)"
+	description "Print Magic (1987)(Epyx)(Disk 4 of 5)"
+	rom ( name "Print Magic (1987)(Epyx)(Disk 4 of 5).do" size 143360 crc 3f4b54d7 md5 9cb3cd517e73af8b03c40d7b8c582c53 )
+)
+
+game (
+	name "Print Magic (1987)(Epyx)(Disk 5 of 5)"
+	description "Print Magic (1987)(Epyx)(Disk 5 of 5)"
+	rom ( name "Print Magic (1987)(Epyx)(Disk 5 of 5).do" size 143360 crc cc471bcc md5 8c883d82b50b7a98384cb9637816755b )
+)
+
+game (
+	name "Print Shop - Data Disk (19xx)(Broderbund)"
+	description "Print Shop - Data Disk (19xx)(Broderbund)"
+	rom ( name "Print Shop - Data Disk (19xx)(Broderbund).do" size 143360 crc df566dd1 md5 51ed8a0197fee6792f9914746ae4746d )
+)
+
+game (
+	name "Print Shop Companion, The (1985)(Broderbund)(Side A)[cr Sheik]"
+	description "Print Shop Companion, The (1985)(Broderbund)(Side A)[cr Sheik]"
+	rom ( name "Print Shop Companion, The (1985)(Broderbund)(Side A)[cr Sheik].do" size 143360 crc 1b559232 md5 08b7948823a6d8f7b8915f9230a3d760 )
+)
+
+game (
+	name "Print Shop Companion, The (1985)(Broderbund)(Side B)[cr Sheik]"
+	description "Print Shop Companion, The (1985)(Broderbund)(Side B)[cr Sheik]"
+	rom ( name "Print Shop Companion, The (1985)(Broderbund)(Side B)[cr Sheik].do" size 143360 crc ae06cd64 md5 59cf0e50376edc450f9bb99fe947d0a4 )
+)
+
+game (
+	name "Print Shop Companion, The (1985)(Broderbund)"
+	description "Print Shop Companion, The (1985)(Broderbund)"
+	rom ( name "Print Shop Companion, The (1985)(Broderbund).do" size 143360 crc 9a319afb md5 a5940eaa0d0c0cb8307f4405fc316317 )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side A)"
+	description "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side A)"
+	rom ( name "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side A).do" size 143360 crc 2248516d md5 a908d3522ec0e806124b9a781daf97e5 )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side B)"
+	description "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side B)"
+	rom ( name "Print Shop Graphics Library - Volume 1 (19xx)(Broderbund)(Side B).do" size 143360 crc ab37f22a md5 9c96431a42837fa279645b5991e19c91 )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side A)"
+	description "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side A)"
+	rom ( name "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side A).do" size 143360 crc 17ec9bb7 md5 228b321dcdfa02dda2205f5ec0b50704 )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side B)"
+	description "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side B)"
+	rom ( name "Print Shop Graphics Library - Volume 2 (19xx)(Broderbund)(Side B).do" size 143360 crc 2b2f2ef0 md5 b4208d05e9421524469a965a5e22480a )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side A)[b]"
+	description "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side A)[b]"
+	rom ( name "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side A)[b].do" size 143360 crc 885983cf md5 19e5eebc54f18a06c63f7e81389d656d )
+)
+
+game (
+	name "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side B)[b]"
+	description "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side B)[b]"
+	rom ( name "Print Shop Graphics Library - Volume 3 (19xx)(Broderbund)(Side B)[b].do" size 143360 crc 1ad9da60 md5 95ea3add1b5392429be7c0330c45a095 )
+)
+
+game (
+	name "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side A)"
+	description "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side A)"
+	rom ( name "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side A).do" size 143360 crc 69c7bfc9 md5 547adc00836d7c1a5fac2e9a01eaba93 )
+)
+
+game (
+	name "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side B)"
+	description "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side B)"
+	rom ( name "Print Shop Graphics Library, The - Holiday Edition (1986)(Broderbund)(Side B).do" size 143360 crc 27502d6b md5 d9dec52b1bf4c73e1731f871a21f0cc3 )
+)
+
+game (
+	name "Printographer, The (1984)(Roger Wagner Publishing)"
+	description "Printographer, The (1984)(Roger Wagner Publishing)"
+	rom ( name "Printographer, The (1984)(Roger Wagner Publishing).do" size 143360 crc 03df387c md5 c46f40fd0cdb39e615d99bec29e62968 )
+)
+
+game (
+	name "Professional Sign Maker (1983)(Frostbyte)[cr Copycatter]"
+	description "Professional Sign Maker (1983)(Frostbyte)[cr Copycatter]"
+	rom ( name "Professional Sign Maker (1983)(Frostbyte)[cr Copycatter].do" size 143360 crc 979b8a89 md5 8c91286c19f617b7f91c074bd8007b2d )
+)
+
+game (
+	name "Program Writer (1989)(Bird, Alan)"
+	description "Program Writer (1989)(Bird, Alan)"
+	rom ( name "Program Writer (1989)(Bird, Alan).do" size 143360 crc 4927e8ef md5 ed16e9371085a049684273f4a5824881 )
+)
+
+game (
+	name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 1 of 5)"
+	description "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 1 of 5)"
+	rom ( name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 1 of 5).do" size 143360 crc 67bce4c2 md5 eb454dd95ee9e640c4a48c15ef39ab85 )
+)
+
+game (
+	name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 2 of 5)"
+	description "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 2 of 5)"
+	rom ( name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 2 of 5).do" size 143360 crc f5dde166 md5 29e3dea56d79a65f2cea1fe4dba6e59f )
+)
+
+game (
+	name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 3 of 5)"
+	description "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 3 of 5)"
+	rom ( name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 3 of 5).do" size 143360 crc 66ca2cde md5 c99210ce96631b167f708268fac4eb0a )
+)
+
+game (
+	name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 4 of 5)"
+	description "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 4 of 5)"
+	rom ( name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 4 of 5).do" size 143360 crc 5bcaf82c md5 6628b6985659f0cd1255846de0d55edd )
+)
+
+game (
+	name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 5 of 5)"
+	description "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 5 of 5)"
+	rom ( name "QTips in the Computer World (1986-01)(QTips)(fr)(Disk 5 of 5).do" size 143360 crc 0766f91c md5 8c92353c663aadf320a4d537d5c13c5e )
+)
+
+game (
+	name "Quick-Draw Adventure Mapper vA.1 (19xx)(Tellus Systems)[cr Apple Mafia]"
+	description "Quick-Draw Adventure Mapper vA.1 (19xx)(Tellus Systems)[cr Apple Mafia]"
+	rom ( name "Quick-Draw Adventure Mapper vA.1 (19xx)(Tellus Systems)[cr Apple Mafia].do" size 143360 crc c3e9a12e md5 1607a63199e4f70290d70c9b6295f2b0 )
+)
+
+game (
+	name "Railroad Works, The (19xx)(CBS Software)[cr Connection]"
+	description "Railroad Works, The (19xx)(CBS Software)[cr Connection]"
+	rom ( name "Railroad Works, The (19xx)(CBS Software)[cr Connection].do" size 143360 crc 2e4610c3 md5 79ce6c13bfb43aaee2f85cb50cc0ebe1 )
+)
+
+game (
+	name "Ram Disk Emulator (19xx)(-)"
+	description "Ram Disk Emulator (19xx)(-)"
+	rom ( name "Ram Disk Emulator (19xx)(-).do" size 143360 crc fa34cf1f md5 60998cbeea9f334002910fede216f897 )
+)
+
+game (
+	name "Ramdrive IIe (1983)(Precision Software)"
+	description "Ramdrive IIe (1983)(Precision Software)"
+	rom ( name "Ramdrive IIe (1983)(Precision Software).do" size 143360 crc c6d1993c md5 a9d021f0c2713593a7023520ffef0e24 )
+)
+
+game (
+	name "Roadsearch-Plus - USA - Canada (1985)(Columbia)"
+	description "Roadsearch-Plus - USA - Canada (1985)(Columbia)"
+	rom ( name "Roadsearch-Plus - USA - Canada (1985)(Columbia).do" size 143360 crc b564bf0c md5 9ed157b89b1a62ade309b92c8fdfff69 )
+)
+
+game (
+	name "Rocky's Boots (1982)(Learning Company)"
+	description "Rocky's Boots (1982)(Learning Company)"
+	rom ( name "Rocky's Boots (1982)(Learning Company).do" size 143360 crc f82507c9 md5 f4c5e062dea4b37bee0fb8859a995714 )
+)
+
+game (
+	name "Sandy's Word Processor (19xx)(Donald, Sandy)(Side A)"
+	description "Sandy's Word Processor (19xx)(Donald, Sandy)(Side A)"
+	rom ( name "Sandy's Word Processor (19xx)(Donald, Sandy)(Side A).do" size 143360 crc 4271f23d md5 94ac15faa6ea219b3887faf428fdb2f4 )
+)
+
+game (
+	name "Sandy's Word Processor (19xx)(Donald, Sandy)(Side B)"
+	description "Sandy's Word Processor (19xx)(Donald, Sandy)(Side B)"
+	rom ( name "Sandy's Word Processor (19xx)(Donald, Sandy)(Side B).do" size 143360 crc 9d48e0a0 md5 03468b18c9711515e1f2f7f7e310af80 )
+)
+
+game (
+	name "S-C Assembler II v4.0 (1980)(S-C Software)"
+	description "S-C Assembler II v4.0 (1980)(S-C Software)"
+	rom ( name "S-C Assembler II v4.0 (1980)(S-C Software).do" size 143360 crc e1f94929 md5 e2d6ea8e0edd5c62c29916b0d3d5c74a )
+)
+
+game (
+	name "S-C Assembler II v4.0 (1980)(S-C Software)[6809 version]"
+	description "S-C Assembler II v4.0 (1980)(S-C Software)[6809 version]"
+	rom ( name "S-C Assembler II v4.0 (1980)(S-C Software)[6809 version].do" size 143360 crc cd666202 md5 4c1425fabcfdb8bc6f6e5630f2b8b803 )
+)
+
+game (
+	name "S-C Assembler II v4.0 (1980)(S-C Software)[a]"
+	description "S-C Assembler II v4.0 (1980)(S-C Software)[a]"
+	rom ( name "S-C Assembler II v4.0 (1980)(S-C Software)[a].do" size 143360 crc 8ccaa2e8 md5 13ab727f45489e878f68893830542e80 )
+)
+
+game (
+	name "S-C Macro Assembler v1.0 (1982)(S-C Software)"
+	description "S-C Macro Assembler v1.0 (1982)(S-C Software)"
+	rom ( name "S-C Macro Assembler v1.0 (1982)(S-C Software).do" size 143360 crc df653848 md5 691cc66599d1b01125096403ab11fcce )
+)
+
+game (
+	name "S-C Macro Assembler v1.1e (1983)(S-C Software)"
+	description "S-C Macro Assembler v1.1e (1983)(S-C Software)"
+	rom ( name "S-C Macro Assembler v1.1e (1983)(S-C Software).do" size 143360 crc 19210294 md5 e5fca28d9fb337ac0fd906e2f26f9579 )
+)
+
+game (
+	name "Screenwriter v2.2 (1983)(Sierra)"
+	description "Screenwriter v2.2 (1983)(Sierra)"
+	rom ( name "Screenwriter v2.2 (1983)(Sierra).do" size 143360 crc f14eac78 md5 486a290bbc5324bd2aa68cdb54ef3791 )
+)
+
+game (
+	name "Serial Disk Routines (19xx)(-)"
+	description "Serial Disk Routines (19xx)(-)"
+	rom ( name "Serial Disk Routines (19xx)(-).do" size 143360 crc 23f77b20 md5 64455564c84988f02b2ed7b2d1df6a1c )
+)
+
+game (
+	name "Serial Disk Routines (19xx)(-)[a]"
+	description "Serial Disk Routines (19xx)(-)[a]"
+	rom ( name "Serial Disk Routines (19xx)(-)[a].do" size 143360 crc ca7939be md5 4b8deccaaf4d31f89d3e6947771ce49d )
+)
+
+game (
+	name "Sex-O-Scope (19xx)(AGS Software)"
+	description "Sex-O-Scope (19xx)(AGS Software)"
+	rom ( name "Sex-O-Scope (19xx)(AGS Software).do" size 143360 crc a338c54d md5 730401224095f2d4169c79a175c1fc6b )
+)
+
+game (
+	name "Sexuality Life Dynamic, The (1981)(Avantgarde Creations)"
+	description "Sexuality Life Dynamic, The (1981)(Avantgarde Creations)"
+	rom ( name "Sexuality Life Dynamic, The (1981)(Avantgarde Creations).do" size 143360 crc ee6b0373 md5 5ceb59eaf8359d61554166f1ab5e2ef4 )
+)
+
+game (
+	name "Shifty Sam (1983)(Random House)"
+	description "Shifty Sam (1983)(Random House)"
+	rom ( name "Shifty Sam (1983)(Random House).do" size 143360 crc e21f64c9 md5 fed14a1c7cd8f2d49b01c1b72ae07543 )
+)
+
+game (
+	name "Shortcuts (1983)(Penguin Software)"
+	description "Shortcuts (1983)(Penguin Software)"
+	rom ( name "Shortcuts (1983)(Penguin Software).do" size 143360 crc 22171535 md5 6b84b96627bf5fb19710e2c54a8a1df2 )
+)
+
+game (
+	name "Sideways v1.0 (1984)(Funk Software)[cr A.P.P.L.E.]"
+	description "Sideways v1.0 (1984)(Funk Software)[cr A.P.P.L.E.]"
+	rom ( name "Sideways v1.0 (1984)(Funk Software)[cr A.P.P.L.E.].do" size 143360 crc 03277ff7 md5 f3d9d3b8694215bfc54c8fa32a3ac0de )
+)
+
+game (
+	name "Silicon Salad (1983)(Beagle Bros)"
+	description "Silicon Salad (1983)(Beagle Bros)"
+	rom ( name "Silicon Salad (1983)(Beagle Bros).do" size 143360 crc fc0cd305 md5 37fddf9d1fa6a9687848acf5c1557a60 )
+)
+
+game (
+	name "Simply Perfect (19xx)(-)"
+	description "Simply Perfect (19xx)(-)"
+	rom ( name "Simply Perfect (19xx)(-).do" size 143360 crc 205cd00c md5 56ec0b3f7d5040d0060365d314f29cc7 )
+)
+
+game (
+	name "Sistema Set-Bit v1.0 (1986)(Plus Informatica)(it)"
+	description "Sistema Set-Bit v1.0 (1986)(Plus Informatica)(it)"
+	rom ( name "Sistema Set-Bit v1.0 (1986)(Plus Informatica)(it).do" size 143360 crc c5443e2b md5 2567c7991548fd0480bf7b3950c87add )
+)
+
+game (
+	name "Songwriter (1983)(Scarborough Systems)"
+	description "Songwriter (1983)(Scarborough Systems)"
+	rom ( name "Songwriter (1983)(Scarborough Systems).do" size 143360 crc 7f7a0e60 md5 9330fe4740fb959789fc92f57a3b631e )
+)
+
+game (
+	name "Special Effects v6.82 (1981)(Penguin Software)"
+	description "Special Effects v6.82 (1981)(Penguin Software)"
+	rom ( name "Special Effects v6.82 (1981)(Penguin Software).do" size 143360 crc 149dcbdb md5 f6fa49b93cbbef715ce5d91951a22c34 )
+)
+
+game (
+	name "Speed Reader, The (1981)(Special Delivery Software)(Disk 1 of 2)"
+	description "Speed Reader, The (1981)(Special Delivery Software)(Disk 1 of 2)"
+	rom ( name "Speed Reader, The (1981)(Special Delivery Software)(Disk 1 of 2).do" size 143360 crc ed12e5ad md5 d3c7566c7482d914c6431d74b12a87bc )
+)
+
+game (
+	name "Speed Reader, The (1981)(Special Delivery Software)(Disk 2 of 2)"
+	description "Speed Reader, The (1981)(Special Delivery Software)(Disk 2 of 2)"
+	rom ( name "Speed Reader, The (1981)(Special Delivery Software)(Disk 2 of 2).do" size 143360 crc 84eae025 md5 103f392a6a260902018c6da035804f95 )
+)
+
+game (
+	name "Sports Stats v1.0 (1985-03)(MECC)(US)"
+	description "Sports Stats v1.0 (1985-03)(MECC)(US)"
+	rom ( name "Sports Stats v1.0 (1985-03)(MECC)(US).do" size 143360 crc ad8490db md5 da2d3c8a26f2ab1e38533e818005175a )
+)
+
+game (
+	name "StarPlot (19xx)(-)(Side A)"
+	description "StarPlot (19xx)(-)(Side A)"
+	rom ( name "StarPlot (19xx)(-)(Side A).do" size 143360 crc 10e14186 md5 d79dc6c22da4944795d6fd1744158c80 )
+)
+
+game (
+	name "StarPlot (19xx)(-)(Side B)"
+	description "StarPlot (19xx)(-)(Side B)"
+	rom ( name "StarPlot (19xx)(-)(Side B).do" size 143360 crc 1da1e6f1 md5 45bbecc33f7fd1fd4c9d79b48e093b47 )
+)
+
+game (
+	name "Storytree (1984)(George Brackett)[cr L.S.D.]"
+	description "Storytree (1984)(George Brackett)[cr L.S.D.]"
+	rom ( name "Storytree (1984)(George Brackett)[cr L.S.D.].do" size 143360 crc 3ca31649 md5 36d19c607d9113a13e9bea16809456c7 )
+)
+
+game (
+	name "SubLogic A2-3D2 (1981)(subLOGIC)"
+	description "SubLogic A2-3D2 (1981)(subLOGIC)"
+	rom ( name "SubLogic A2-3D2 (1981)(subLOGIC).do" size 143360 crc b35b58d7 md5 aab96aae0d6d00a50808a467012939d4 )
+)
+
+game (
+	name "Super IOB Collection #1 (19xx)(Darrah, Ray)"
+	description "Super IOB Collection #1 (19xx)(Darrah, Ray)"
+	rom ( name "Super IOB Collection #1 (19xx)(Darrah, Ray).do" size 143360 crc 4d7859cc md5 07ab70f2e593763c50d96bc5d6d0c694 )
+)
+
+game (
+	name "Super IOB Collection #2 (19xx)(Darrah, Ray)"
+	description "Super IOB Collection #2 (19xx)(Darrah, Ray)"
+	rom ( name "Super IOB Collection #2 (19xx)(Darrah, Ray).do" size 143360 crc d347fb24 md5 af362f4b4f76986ce95082cd362b54f7 )
+)
+
+game (
+	name "Superbase v2.0 (1983)(Precision)[cr Midwest Pirates Guild]"
+	description "Superbase v2.0 (1983)(Precision)[cr Midwest Pirates Guild]"
+	rom ( name "Superbase v2.0 (1983)(Precision)[cr Midwest Pirates Guild].do" size 143360 crc b3a46004 md5 663514a1128fc48a30d01b286a775757 )
+)
+
+game (
+	name "SuperPlotter, The v2.2 (1981)(Gl. Dickens III)"
+	description "SuperPlotter, The v2.2 (1981)(Gl. Dickens III)"
+	rom ( name "SuperPlotter, The v2.2 (1981)(Gl. Dickens III).do" size 143360 crc ed61775c md5 81f8500fc25aec36c29f4ab8e3e80835 )
+)
+
+game (
+	name "Super-Text Home-Office (1982)(Muse)[cr Whip]"
+	description "Super-Text Home-Office (1982)(Muse)[cr Whip]"
+	rom ( name "Super-Text Home-Office (1982)(Muse)[cr Whip].do" size 143360 crc 1d634b04 md5 399f4bb394d5eea5fa3ac2d96ecc7950 )
+)
+
+game (
+	name "Super-Text Professional (1982)(Muse)[cr Whip]"
+	description "Super-Text Professional (1982)(Muse)[cr Whip]"
+	rom ( name "Super-Text Professional (1982)(Muse)[cr Whip].do" size 143360 crc e278cb05 md5 ca457dfcad9b241869a33a5d7df429bf )
+)
+
+game (
+	name "Take 1 (1984)(Baudville)(Side A)[cr Cataholics Anonymous]"
+	description "Take 1 (1984)(Baudville)(Side A)[cr Cataholics Anonymous]"
+	rom ( name "Take 1 (1984)(Baudville)(Side A)[cr Cataholics Anonymous].do" size 143360 crc 79f30d67 md5 943b3170d97089616e1b4d71be60891d )
+)
+
+game (
+	name "Take 1 (1984)(Baudville)(Side B)"
+	description "Take 1 (1984)(Baudville)(Side B)"
+	rom ( name "Take 1 (1984)(Baudville)(Side B).do" size 143360 crc 65047d11 md5 38e086f3f1266749aad0995d19d5e84c )
+)
+
+game (
+	name "Take One - Animation Library #1 (1985)(Baudville)"
+	description "Take One - Animation Library #1 (1985)(Baudville)"
+	rom ( name "Take One - Animation Library #1 (1985)(Baudville).do" size 143360 crc 0eab6885 md5 c776447459fd9ed5e40b5543777aa00f )
+)
+
+game (
+	name "Take One - Animation Library #1 (1985)(Baudville)[a]"
+	description "Take One - Animation Library #1 (1985)(Baudville)[a]"
+	rom ( name "Take One - Animation Library #1 (1985)(Baudville)[a].do" size 143360 crc 0b446312 md5 37ce74830c89b29ef10dc134332b90bb )
+)
+
+game (
+	name "TASC Compiler (19xx)(-)"
+	description "TASC Compiler (19xx)(-)"
+	rom ( name "TASC Compiler (19xx)(-).do" size 143360 crc 76a4f094 md5 701a26e2d2e361bc621bd1a839864a69 )
+)
+
+game (
+	name "Tellstar (1980-04)(Scharf Software Systems)"
+	description "Tellstar (1980-04)(Scharf Software Systems)"
+	rom ( name "Tellstar (1980-04)(Scharf Software Systems).do" size 143360 crc 0ae14fcf md5 07259b8e7db2235d0ba2825e1e732bf8 )
+)
+
+game (
+	name "Ticket to London (1986)(Blue Lion)(Disk 1 of 2)"
+	description "Ticket to London (1986)(Blue Lion)(Disk 1 of 2)"
+	rom ( name "Ticket to London (1986)(Blue Lion)(Disk 1 of 2).do" size 143360 crc 6ae363aa md5 f3ca1a7f47217ba898c01344820986a8 )
+)
+
+game (
+	name "Ticket to London (1986)(Blue Lion)(Disk 2 of 2)"
+	description "Ticket to London (1986)(Blue Lion)(Disk 2 of 2)"
+	rom ( name "Ticket to London (1986)(Blue Lion)(Disk 2 of 2).do" size 143360 crc 8640d343 md5 a908a423f0286c18f84d6462f3c5107e )
+)
+
+game (
+	name "Ticket to Paris (1986)(Blue Lion)(Disk 1 of 2)"
+	description "Ticket to Paris (1986)(Blue Lion)(Disk 1 of 2)"
+	rom ( name "Ticket to Paris (1986)(Blue Lion)(Disk 1 of 2).do" size 143360 crc 117a97d8 md5 60b3cc78c6d5a41add18894ac5e0904b )
+)
+
+game (
+	name "Ticket to Paris (1986)(Blue Lion)(Disk 2 of 2)"
+	description "Ticket to Paris (1986)(Blue Lion)(Disk 2 of 2)"
+	rom ( name "Ticket to Paris (1986)(Blue Lion)(Disk 2 of 2).do" size 143360 crc 1a061d9d md5 35abc28d7861cd339cfbc4645e83e976 )
+)
+
+game (
+	name "Trader Disk No. 254 (1985-08-15)(Game Designers Workshop)"
+	description "Trader Disk No. 254 (1985-08-15)(Game Designers Workshop)"
+	rom ( name "Trader Disk No. 254 (1985-08-15)(Game Designers Workshop).do" size 143360 crc 562ef673 md5 396c03e0b42f77b71a273ba5b4ee8fa0 )
+)
+
+game (
+	name "Trader Disk No. 254 (1985-12-31)(Game Designers Workshop)"
+	description "Trader Disk No. 254 (1985-12-31)(Game Designers Workshop)"
+	rom ( name "Trader Disk No. 254 (1985-12-31)(Game Designers Workshop).do" size 143360 crc a1b50303 md5 8cacb14141f23419f51580961d1fab0b )
+)
+
+game (
+	name "Transitions (1983)(Penguin Software)(Disk 1 of 2)"
+	description "Transitions (1983)(Penguin Software)(Disk 1 of 2)"
+	rom ( name "Transitions (1983)(Penguin Software)(Disk 1 of 2).do" size 143360 crc 8d26ead4 md5 c5abdd1a8d74c3f0eb64a84eede2284f )
+)
+
+game (
+	name "Transitions (1983)(Penguin Software)(Disk 2 of 2)"
+	description "Transitions (1983)(Penguin Software)(Disk 2 of 2)"
+	rom ( name "Transitions (1983)(Penguin Software)(Disk 2 of 2).do" size 143360 crc 0e9662e4 md5 b032b9a352a73ef10c54c8b80e7bafc1 )
+)
+
+game (
+	name "Trax Disk Utility (1983)(Kneusel, Ron)"
+	description "Trax Disk Utility (1983)(Kneusel, Ron)"
+	rom ( name "Trax Disk Utility (1983)(Kneusel, Ron).do" size 143360 crc 7e39368e md5 58eabb3624e083647ab231f3b061649b )
+)
+
+game (
+	name "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side A)"
+	description "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side A)"
+	rom ( name "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side A).do" size 143360 crc 7dce5542 md5 1067a4617737aeef889b8e3cba646dae )
+)
+
+game (
+	name "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side B)"
+	description "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side B)"
+	rom ( name "Trip Into Space (2000-04-14)(McRae, Alan)(FW)(Side B).do" size 143360 crc 964e50a0 md5 52e31d01974edd617d37810443c2bcdd )
+)
+
+game (
+	name "Triple Dump (1984)(Beagle Bros)(Side A)"
+	description "Triple Dump (1984)(Beagle Bros)(Side A)"
+	rom ( name "Triple Dump (1984)(Beagle Bros)(Side A).do" size 143360 crc a6cec599 md5 50fd2a123ec0137b738b744a017102e3 )
+)
+
+game (
+	name "Triple Dump (1984)(Beagle Bros)(Side B)"
+	description "Triple Dump (1984)(Beagle Bros)(Side B)"
+	rom ( name "Triple Dump (1984)(Beagle Bros)(Side B).do" size 143360 crc ca636c41 md5 573378929c2d7b2dc0c1df775a25a0cf )
+)
+
+game (
+	name "Turbocharger, The (1982)(Silicon Valley Systems)"
+	description "Turbocharger, The (1982)(Silicon Valley Systems)"
+	rom ( name "Turbocharger, The (1982)(Silicon Valley Systems).do" size 143360 crc 4dba5a18 md5 562f93464a62973bda9da58f34dd3f1c )
+)
+
+game (
+	name "Type! (1986)(Broderbund)[cr 800 Club]"
+	description "Type! (1986)(Broderbund)[cr 800 Club]"
+	rom ( name "Type! (1986)(Broderbund)[cr 800 Club].do" size 143360 crc ed709584 md5 ca6cf39c953718fdf5d53bb4d96f591e )
+)
+
+game (
+	name "Under Fire (1985)(Avalon Hill)"
+	description "Under Fire (1985)(Avalon Hill)"
+	rom ( name "Under Fire (1985)(Avalon Hill).do" size 143360 crc 16262985 md5 55e5d639b60a32b5a1a383de598d48ae )
+)
+
+game (
+	name "Under Fire (1985)(Avalon Hill)[Savedisk Extension 2A]"
+	description "Under Fire (1985)(Avalon Hill)[Savedisk Extension 2A]"
+	rom ( name "Under Fire (1985)(Avalon Hill)[Savedisk Extension 2A].do" size 143360 crc 8210f0ec md5 4034f407f7e6162020f0743219445d31 )
+)
+
+game (
+	name "Videotexto - Vxrec v2.50 (19xx)(Videosoft)(it)"
+	description "Videotexto - Vxrec v2.50 (19xx)(Videosoft)(it)"
+	rom ( name "Videotexto - Vxrec v2.50 (19xx)(Videosoft)(it).do" size 143360 crc 2b1ff4e3 md5 95c5f78b225eb062a47e8a8a56dcf109 )
+)
+
+game (
+	name "Visible Computer v1.0 (1982-12-12)(-)[cr Reset Vector]"
+	description "Visible Computer v1.0 (1982-12-12)(-)[cr Reset Vector]"
+	rom ( name "Visible Computer v1.0 (1982-12-12)(-)[cr Reset Vector].do" size 143360 crc 27f1a071 md5 31787b2cfe3be3fa7a52da8ccec1dfe8 )
+)
+
+game (
+	name "VisiCalc (1984)(Software Arts)"
+	description "VisiCalc (1984)(Software Arts)"
+	rom ( name "VisiCalc (1984)(Software Arts).do" size 143360 crc 09b7e7bb md5 f4abdbaa7beb7e62c76302b40b5e2f16 )
+)
+
+game (
+	name "VisiCalc v1.6 (198x)(Software Arts)[no boot]"
+	description "VisiCalc v1.6 (198x)(Software Arts)[no boot]"
+	rom ( name "VisiCalc v1.6 (198x)(Software Arts)[no boot].do" size 143360 crc 6a395181 md5 f0c8ece91b290f7745a30b12984c0a92 )
+)
+
+game (
+	name "Visiterm (1981)(Personal Software)"
+	description "Visiterm (1981)(Personal Software)"
+	rom ( name "Visiterm (1981)(Personal Software).do" size 143360 crc 156bb198 md5 60e1cc311f90d69ad61f4bc6dc4f4c19 )
+)
+
+game (
+	name "Warez Lister-Sorter v2.3 (1986-06-14)(Den of the Firefox)"
+	description "Warez Lister-Sorter v2.3 (1986-06-14)(Den of the Firefox)"
+	rom ( name "Warez Lister-Sorter v2.3 (1986-06-14)(Den of the Firefox).do" size 143360 crc 64e7407e md5 d27f93a5316f798202abf661bc7259eb )
+)
+
+game (
+	name "Welcome at Board (19xx)(Broderbund)(Side B)[cr Digital Gang]"
+	description "Welcome at Board (19xx)(Broderbund)(Side B)[cr Digital Gang]"
+	rom ( name "Welcome at Board (19xx)(Broderbund)(Side B)[cr Digital Gang].do" size 143360 crc efc16003 md5 b3e421c6c0b2d41979cca0d80023e2d5 )
+)
+
+game (
+	name "Willie Answer (1986)(Steestrudler Enterprises)"
+	description "Willie Answer (1986)(Steestrudler Enterprises)"
+	rom ( name "Willie Answer (1986)(Steestrudler Enterprises).do" size 143360 crc 582aad75 md5 be15e26b9b7f41a75c89ef00482e54a6 )
+)
+
+game (
+	name "Wizard of Words (1983)(CAI)(Disk 1 of 2)[cr Safe Cracker]"
+	description "Wizard of Words (1983)(CAI)(Disk 1 of 2)[cr Safe Cracker]"
+	rom ( name "Wizard of Words (1983)(CAI)(Disk 1 of 2)[cr Safe Cracker].do" size 143360 crc de1faa60 md5 4021d9f63d44029b9f3d6763c6ba8ccd )
+)
+
+game (
+	name "Wizard of Words (1983)(CAI)(Disk 2 of 2)(Royal Registry of Words)[cr Safe Cracker]"
+	description "Wizard of Words (1983)(CAI)(Disk 2 of 2)(Royal Registry of Words)[cr Safe Cracker]"
+	rom ( name "Wizard of Words (1983)(CAI)(Disk 2 of 2)(Royal Registry of Words)[cr Safe Cracker].do" size 143360 crc 7979b23f md5 1b5bc83a56e57e331435e20359e9d523 )
+)
+
+game (
+	name "Wizards Workbench (1984)(Magicsoft)"
+	description "Wizards Workbench (1984)(Magicsoft)"
+	rom ( name "Wizards Workbench (1984)(Magicsoft).do" size 143360 crc a5db6cad md5 f2b6fcb9c0605e9353b8f7cd6b4938e7 )
+)
+
+game (
+	name "Wizards Workbench (1984)(Magicsoft)[a]"
+	description "Wizards Workbench (1984)(Magicsoft)[a]"
+	rom ( name "Wizards Workbench (1984)(Magicsoft)[a].do" size 143360 crc e4366286 md5 f960c75de87cfc81d7f0cc207a03d4ca )
+)
+
+game (
+	name "Wizards Workbench (1984)(Magicsoft)[f]"
+	description "Wizards Workbench (1984)(Magicsoft)[f]"
+	rom ( name "Wizards Workbench (1984)(Magicsoft)[f].do" size 143360 crc b63e13a9 md5 28cb101da03f97c92a43746063d97eb2 )
+)
+
+game (
+	name "Wiztype (1984)(Sierra)[cr Disk Jockey]"
+	description "Wiztype (1984)(Sierra)[cr Disk Jockey]"
+	rom ( name "Wiztype (1984)(Sierra)[cr Disk Jockey].do" size 143360 crc d8474d73 md5 d979cd5cd5819f47ad73a92bfa8eca65 )
+)
+
+game (
+	name "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Myspellery)[cr Whip]"
+	description "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Myspellery)[cr Whip]"
+	rom ( name "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Myspellery)[cr Whip].do" size 143360 crc 17e89763 md5 313463d91d62a54bed6c408699983f3b )
+)
+
+game (
+	name "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Sentence Maker)[cr Whip]"
+	description "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Sentence Maker)[cr Whip]"
+	rom ( name "Wordworx (1983)(Intentional Educations)(Disk 1 of 2)(Sentence Maker)[cr Whip].do" size 143360 crc 7a181110 md5 470a72df7005ac6eb4dd8852c7eae8db )
+)
+
+game (
+	name "Works, The (1985)(First Star Software)(Side A)[cr Extension 1200 - Circle K]"
+	description "Works, The (1985)(First Star Software)(Side A)[cr Extension 1200 - Circle K]"
+	rom ( name "Works, The (1985)(First Star Software)(Side A)[cr Extension 1200 - Circle K].do" size 143360 crc 68869ceb md5 62402799bce7e347eb11a3e5aa3f21d7 )
+)
+
+game (
+	name "Works, The (1985)(First Star Software)(Side B)[cr Extension 1200 - Circle K][unk filesys]"
+	description "Works, The (1985)(First Star Software)(Side B)[cr Extension 1200 - Circle K][unk filesys]"
+	rom ( name "Works, The (1985)(First Star Software)(Side B)[cr Extension 1200 - Circle K][unk filesys].do" size 143360 crc eb485c0c md5 1ad99597bc9ba2472602eaaccf080581 )
+)
+
+game (
+	name "Worksheet Generator (1985)(MECC)(US)[no boot]"
+	description "Worksheet Generator (1985)(MECC)(US)[no boot]"
+	rom ( name "Worksheet Generator (1985)(MECC)(US)[no boot].do" size 143360 crc b24aa8b4 md5 02a1f33e49e9d16d9908202c541dbe14 )
+)
+
+game (
+	name "World Atlas Action (1985)(DLM)"
+	description "World Atlas Action (1985)(DLM)"
+	rom ( name "World Atlas Action (1985)(DLM).do" size 143360 crc 51978dfc md5 c76c9fe9f5f95f6f41e9b5d8fbe0f9d4 )
+)
+
+game (
+	name "Write Away (1983)(Midwest Software Associates)"
+	description "Write Away (1983)(Midwest Software Associates)"
+	rom ( name "Write Away (1983)(Midwest Software Associates).do" size 143360 crc 495e1898 md5 970696e25221b8038c6f7b9031cc2f2d )
+)
+
+game (
+	name "Writer, The (1983)(Hayden Book Company)"
+	description "Writer, The (1983)(Hayden Book Company)"
+	rom ( name "Writer, The (1983)(Hayden Book Company).do" size 143360 crc f84a759b md5 e35304f8bd35eb119c635c30a63a4210 )
+)
+
+game (
+	name "Xinu OS (19xx)(Toomey, Warren)(Disk 1 of 3)"
+	description "Xinu OS (19xx)(Toomey, Warren)(Disk 1 of 3)"
+	rom ( name "Xinu OS (19xx)(Toomey, Warren)(Disk 1 of 3).do" size 143360 crc eda67223 md5 aa88352afece92554d04cd34063c4ed8 )
+)
+
+game (
+	name "Xinu OS (19xx)(Toomey, Warren)(Disk 2 of 3)"
+	description "Xinu OS (19xx)(Toomey, Warren)(Disk 2 of 3)"
+	rom ( name "Xinu OS (19xx)(Toomey, Warren)(Disk 2 of 3).do" size 143360 crc 36924a3c md5 2c663d74f55aaac29e1d70716c652c45 )
+)
+
+game (
+	name "Zardax v5.2 (1982)(Computer Solutions)(Disk 1 of 3)"
+	description "Zardax v5.2 (1982)(Computer Solutions)(Disk 1 of 3)"
+	rom ( name "Zardax v5.2 (1982)(Computer Solutions)(Disk 1 of 3).do" size 143360 crc 84f78440 md5 71c042393cda2f8cfd98bd984dbf1e01 )
+)
+
+game (
+	name "Zardax v5.2 (1982)(Computer Solutions)(Disk 2 of 3)"
+	description "Zardax v5.2 (1982)(Computer Solutions)(Disk 2 of 3)"
+	rom ( name "Zardax v5.2 (1982)(Computer Solutions)(Disk 2 of 3).do" size 143360 crc c3855d02 md5 de5c1e0352f82acf017f4800468020ff )
+)
+
+game (
+	name "Zardax v5.2 (1982)(Computer Solutions)(Disk 3 of 3)"
+	description "Zardax v5.2 (1982)(Computer Solutions)(Disk 3 of 3)"
+	rom ( name "Zardax v5.2 (1982)(Computer Solutions)(Disk 3 of 3).do" size 143360 crc 23c20c51 md5 e4acd958a48ce6ea59ac8de88c098cca )
+)
+
+game (
+	name "Zoom Grafix (1982)(Phoenix Software)[cr Whip]"
+	description "Zoom Grafix (1982)(Phoenix Software)[cr Whip]"
+	rom ( name "Zoom Grafix (1982)(Phoenix Software)[cr Whip].do" size 143360 crc 872e5a75 md5 62974338a37ea4e80d8455a28e2048a6 )
+)
+
+game (
+	name "ZZZ-UNK-ALE [nb]"
+	description "ZZZ-UNK-ALE [nb]"
+	rom ( name "ZZZ-UNK-ALE [nb].do" size 143360 crc 5913ff3a md5 1557e3a29da5e85d7dbc9d87e5cbe0f3 )
+)
+
+game (
+	name "ZZZ-UNK-Basic Programs - Hellos - D02s2 (19xx)(-)[Name unknown]"
+	description "ZZZ-UNK-Basic Programs - Hellos - D02s2 (19xx)(-)[Name unknown]"
+	rom ( name "ZZZ-UNK-Basic Programs - Hellos - D02s2 (19xx)(-)[Name unknown].do" size 143360 crc 6b7e2f91 md5 9fb67b085e4f49d3007dec5299f9039a )
+)
+
+game (
+	name "ZZZ-UNK-Boot62f2 (1995)(Deckard)[no boot]"
+	description "ZZZ-UNK-Boot62f2 (1995)(Deckard)[no boot]"
+	rom ( name "ZZZ-UNK-Boot62f2 (1995)(Deckard)[no boot].do" size 143360 crc 0fb0784b md5 5a5b0a460028f46eae02588356d8580a )
+)
+
+game (
+	name "ZZZ-UNK-Eamon House (19xx)(-)[nb]"
+	description "ZZZ-UNK-Eamon House (19xx)(-)[nb]"
+	rom ( name "ZZZ-UNK-Eamon House (19xx)(-)[nb].do" size 143360 crc 8858b3fa md5 ea37412fc1f0334045632d6398640804 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Quest (19xx)(-)[nb]"
+	description "ZZZ-UNK-Eamon Quest (19xx)(-)[nb]"
+	rom ( name "ZZZ-UNK-Eamon Quest (19xx)(-)[nb].do" size 143360 crc cae8f30b md5 30e7e4dfffa6bf15cde9538191b5dec0 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utilities Design5 (19xx)(-)[nb]"
+	description "ZZZ-UNK-Eamon Utilities Design5 (19xx)(-)[nb]"
+	rom ( name "ZZZ-UNK-Eamon Utilities Design5 (19xx)(-)[nb].do" size 143360 crc 946f3c52 md5 e80c3ef2cdd5d26e2da0e40739dbd32f )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utilities Modmast2 (19xx)(-)"
+	description "ZZZ-UNK-Eamon Utilities Modmast2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Eamon Utilities Modmast2 (19xx)(-).do" size 143360 crc 79051d1b md5 0d8c6049a36e7639e16d0d98ba3964f4 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utilities Util2 (19xx)(-)"
+	description "ZZZ-UNK-Eamon Utilities Util2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Eamon Utilities Util2 (19xx)(-).do" size 143360 crc 01cd903b md5 2f1309396c00e74f616b73af96b05e8e )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utilities Util3 (19xx)(-)"
+	description "ZZZ-UNK-Eamon Utilities Util3 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Eamon Utilities Util3 (19xx)(-).do" size 143360 crc a22da3c5 md5 085b89c7dbaee7ca23ae66b07faa64ba )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utilities Util8 (19xx)(-)"
+	description "ZZZ-UNK-Eamon Utilities Util8 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Eamon Utilities Util8 (19xx)(-).do" size 143360 crc cea7c3db md5 e10b164e3ce63865465a1cfdf6907491 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utility Disk 4"
+	description "ZZZ-UNK-Eamon Utility Disk 4"
+	rom ( name "ZZZ-UNK-Eamon Utility Disk 4.do" size 143360 crc 6cd95dbe md5 6535015120bfe03a6e3153803e7a2e99 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon Utility Master (Disk 1 of 2)"
+	description "ZZZ-UNK-Eamon Utility Master (Disk 1 of 2)"
+	rom ( name "ZZZ-UNK-Eamon Utility Master (Disk 1 of 2).do" size 143360 crc 23d29f8f md5 fc485c224d18b28ac02a5d82b98c30f6 )
+)
+
+game (
+	name "ZZZ-UNK-Eamon-ddd 7.1 Multi-disk Supplement (93)"
+	description "ZZZ-UNK-Eamon-ddd 7.1 Multi-disk Supplement (93)"
+	rom ( name "ZZZ-UNK-Eamon-ddd 7.1 Multi-disk Supplement (93).do" size 143360 crc cd137c68 md5 b818d781c442a5b86ac0c86788fdc0c9 )
+)
+
+game (
+	name "ZZZ-UNK-Eddv3_nibblesawayc3_diversicopy_daviddos_dm31 (19xx)(-)"
+	description "ZZZ-UNK-Eddv3_nibblesawayc3_diversicopy_daviddos_dm31 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Eddv3_nibblesawayc3_diversicopy_daviddos_dm31 (19xx)(-).do" size 143360 crc 60213446 md5 c8c81523d731f613d38fce966779ddf5 )
+)
+
+game (
+	name "ZZZ-UNK-Formulae (19xx)(-)[Name unknown]"
+	description "ZZZ-UNK-Formulae (19xx)(-)[Name unknown]"
+	rom ( name "ZZZ-UNK-Formulae (19xx)(-)[Name unknown].do" size 143360 crc 6d38a021 md5 9394561649d826e05f11aa1b4047cf0b )
+)
+
+game (
+	name "ZZZ-UNK-Franklin Ace Dos (19xx)(-)"
+	description "ZZZ-UNK-Franklin Ace Dos (19xx)(-)"
+	rom ( name "ZZZ-UNK-Franklin Ace Dos (19xx)(-).do" size 143360 crc 85a9d14e md5 31e89a4a9688365e34eb77efbbeb7a78 )
+)
+
+game (
+	name "ZZZ-UNK-Graphics Processing System"
+	description "ZZZ-UNK-Graphics Processing System"
+	rom ( name "ZZZ-UNK-Graphics Processing System.do" size 143360 crc 1ed71eb4 md5 38048f7fac5ba98e0cf7f9cde24d6c24 )
+)
+
+game (
+	name "ZZZ-UNK-grn_02b"
+	description "ZZZ-UNK-grn_02b"
+	rom ( name "ZZZ-UNK-grn_02b.do" size 143360 crc 95aeaa5f md5 438941122355825bd29a281a7721c788 )
+)
+
+game (
+	name "ZZZ-UNK-Grn_03a (19xx)(-)"
+	description "ZZZ-UNK-Grn_03a (19xx)(-)"
+	rom ( name "ZZZ-UNK-Grn_03a (19xx)(-).do" size 143360 crc 09663a4d md5 141f9db064476079ffb3f55edb7675c9 )
+)
+
+game (
+	name "ZZZ-UNK-Grn_03b (19xx)(-)"
+	description "ZZZ-UNK-Grn_03b (19xx)(-)"
+	rom ( name "ZZZ-UNK-Grn_03b (19xx)(-).do" size 143360 crc aa1b11d5 md5 39402d3c9f8ef210f1382ab8d052c21b )
+)
+
+game (
+	name "ZZZ-UNK-Grn_04a (19xx)(-)"
+	description "ZZZ-UNK-Grn_04a (19xx)(-)"
+	rom ( name "ZZZ-UNK-Grn_04a (19xx)(-).do" size 143360 crc bf588375 md5 2fffb48c2d2b7ca6c48c19518536ac59 )
+)
+
+game (
+	name "ZZZ-UNK-Grn_04b (19xx)(-)"
+	description "ZZZ-UNK-Grn_04b (19xx)(-)"
+	rom ( name "ZZZ-UNK-Grn_04b (19xx)(-).do" size 143360 crc 93897b15 md5 274c095cfb885b13efbb7bc38f905097 )
+)
+
+game (
+	name "ZZZ-UNK-Lifesaver_dark_darkii_diskorganizer2_dm11 (19xx)(-)"
+	description "ZZZ-UNK-Lifesaver_dark_darkii_diskorganizer2_dm11 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Lifesaver_dark_darkii_diskorganizer2_dm11 (19xx)(-).do" size 143360 crc 2108d570 md5 6436f84490be5b857a3fb6e9c67d5218 )
+)
+
+game (
+	name "ZZZ-UNK-List Handler Master and Utilities"
+	description "ZZZ-UNK-List Handler Master and Utilities"
+	rom ( name "ZZZ-UNK-List Handler Master and Utilities.do" size 143360 crc 039b3379 md5 84a5c2595b28b3fcc38340c5d9721f1b )
+)
+
+game (
+	name "ZZZ-UNK-Looney Tunes Graphics Disk O4b (19xx)(-)"
+	description "ZZZ-UNK-Looney Tunes Graphics Disk O4b (19xx)(-)"
+	rom ( name "ZZZ-UNK-Looney Tunes Graphics Disk O4b (19xx)(-).do" size 143360 crc 60f27468 md5 c18a997f123d6c6558d1f46e37090958 )
+)
+
+game (
+	name "ZZZ-UNK-Misc Catdialers"
+	description "ZZZ-UNK-Misc Catdialers"
+	rom ( name "ZZZ-UNK-Misc Catdialers.do" size 143360 crc 4334bfe3 md5 ad5b3a6f4dd9a99f1472e662d9a0f17e )
+)
+
+game (
+	name "ZZZ-UNK-Misc Disk Utils (19xx)(-)"
+	description "ZZZ-UNK-Misc Disk Utils (19xx)(-)"
+	rom ( name "ZZZ-UNK-Misc Disk Utils (19xx)(-).do" size 143360 crc 2097138c md5 91a25f95043e4935b122f3260a8bd4f4 )
+)
+
+game (
+	name "ZZZ-UNK-Misc Disk Utils (beautiful Boot Etc.) (19xx)(-)"
+	description "ZZZ-UNK-Misc Disk Utils (beautiful Boot Etc.) (19xx)(-)"
+	rom ( name "ZZZ-UNK-Misc Disk Utils (beautiful Boot Etc.) (19xx)(-).do" size 143360 crc 1886ec1c md5 5e77a99346e386549f1526130337a849 )
+)
+
+game (
+	name "ZZZ-UNK-mot-a [nb]"
+	description "ZZZ-UNK-mot-a [nb]"
+	rom ( name "ZZZ-UNK-mot-a [nb].do" size 143354 crc 404257b9 md5 2751279396c044496ec9d86ce6f190e3 )
+)
+
+game (
+	name "ZZZ-UNK-My Favorite Disk Copier Disk (19xx)(-)"
+	description "ZZZ-UNK-My Favorite Disk Copier Disk (19xx)(-)"
+	rom ( name "ZZZ-UNK-My Favorite Disk Copier Disk (19xx)(-).do" size 143360 crc 0c3e6396 md5 0b1493be9e75b5e3ede91e6830c16429 )
+)
+
+game (
+	name "ZZZ-UNK-Navigator (basic Flowcharter) (19xx)(-)"
+	description "ZZZ-UNK-Navigator (basic Flowcharter) (19xx)(-)"
+	rom ( name "ZZZ-UNK-Navigator (basic Flowcharter) (19xx)(-).do" size 143360 crc 4ddff6b4 md5 f4fe1808f80ca5815136c95ed13e59e8 )
+)
+
+game (
+	name "ZZZ-UNK-Profix_1 (19xx)(-)"
+	description "ZZZ-UNK-Profix_1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Profix_1 (19xx)(-).do" size 143360 crc b058975a md5 34061d3195529a1c6e890101c664f5c7 )
+)
+
+game (
+	name "ZZZ-UNK-Profix_2 (19xx)(-)"
+	description "ZZZ-UNK-Profix_2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Profix_2 (19xx)(-).do" size 143360 crc ae60c1ee md5 ba4ba180b531bcc0f50446511a4deef4 )
+)
+
+game (
+	name "ZZZ-UNK-Protection Thrasher I (cracking Pbi) (19xx)(-)"
+	description "ZZZ-UNK-Protection Thrasher I (cracking Pbi) (19xx)(-)"
+	rom ( name "ZZZ-UNK-Protection Thrasher I (cracking Pbi) (19xx)(-).do" size 143360 crc 4fbf231b md5 68b965e80fd8d0aaf465e20a7ba12781 )
+)
+
+game (
+	name "ZZZ-UNK-Provgr1 (19xx)(-)"
+	description "ZZZ-UNK-Provgr1 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Provgr1 (19xx)(-).do" size 143360 crc c8c6c950 md5 057e4d3bc9a7604d4ddfe3182ee115ab )
+)
+
+game (
+	name "ZZZ-UNK-Provgr2 (19xx)(-)"
+	description "ZZZ-UNK-Provgr2 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Provgr2 (19xx)(-).do" size 143360 crc b3974efe md5 03b6efbca1fdca252d29147704e5faa4 )
+)
+
+game (
+	name "ZZZ-UNK-Provgr3 (19xx)(-)"
+	description "ZZZ-UNK-Provgr3 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Provgr3 (19xx)(-).do" size 143360 crc 300ef470 md5 9934d7b205e6321e5e0d50c4a4db9f3a )
+)
+
+game (
+	name "ZZZ-UNK-Rdos and Some Cracking Programs (19xx)(-)"
+	description "ZZZ-UNK-Rdos and Some Cracking Programs (19xx)(-)"
+	rom ( name "ZZZ-UNK-Rdos and Some Cracking Programs (19xx)(-).do" size 143360 crc 17da4b26 md5 c59edfe5b963e66912e813ffed5bc5fa )
+)
+
+game (
+	name "ZZZ-UNK-River Rats (the Nut Cracker's Test Gbbs Bbs) (19xx)(-)"
+	description "ZZZ-UNK-River Rats (the Nut Cracker's Test Gbbs Bbs) (19xx)(-)"
+	rom ( name "ZZZ-UNK-River Rats (the Nut Cracker's Test Gbbs Bbs) (19xx)(-).do" size 143360 crc c496bf31 md5 e84b6628aa035d82e60b11dec1d3d2e3 )
+)
+
+game (
+	name "ZZZ-UNK-Spanish_bilingual (19xx)(-)"
+	description "ZZZ-UNK-Spanish_bilingual (19xx)(-)"
+	rom ( name "ZZZ-UNK-Spanish_bilingual (19xx)(-).do" size 143360 crc c287672a md5 dc0e958c014b2792bfb9b18ddfc6aad1 )
+)
+
+game (
+	name "ZZZ-UNK-Spanish_la Piramide (19xx)(-)"
+	description "ZZZ-UNK-Spanish_la Piramide (19xx)(-)"
+	rom ( name "ZZZ-UNK-Spanish_la Piramide (19xx)(-).do" size 143360 crc de4b4c8c md5 361d94d988a847c2387e90709eabd6f9 )
+)
+
+game (
+	name "ZZZ-UNK-speedway classic (19xx)(-)[b]"
+	description "ZZZ-UNK-speedway classic (19xx)(-)[b]"
+	rom ( name "ZZZ-UNK-speedway classic (19xx)(-)[b].do" size 143360 crc 3f458c04 md5 2883e2a3312f7ce528af1566b4e7123c )
+)
+
+game (
+	name "ZZZ-UNK-ssb-apple (disk 1 of 4)"
+	description "ZZZ-UNK-ssb-apple (disk 1 of 4)"
+	rom ( name "ZZZ-UNK-ssb-apple (disk 1 of 4).do" size 143360 crc f18cac14 md5 e529719ab0144e91ce48d6f2fef19612 )
+)
+
+game (
+	name "ZZZ-UNK-ssb-apple (disk 2 of 4)"
+	description "ZZZ-UNK-ssb-apple (disk 2 of 4)"
+	rom ( name "ZZZ-UNK-ssb-apple (disk 2 of 4).do" size 143360 crc 442203d0 md5 2b85a5243c932651b4d099f07568e753 )
+)
+
+game (
+	name "ZZZ-UNK-ssb-apple (disk 3 of 4)"
+	description "ZZZ-UNK-ssb-apple (disk 3 of 4)"
+	rom ( name "ZZZ-UNK-ssb-apple (disk 3 of 4).do" size 143360 crc e32de0b6 md5 baa3edf64506795051ed0c02bf6349d7 )
+)
+
+game (
+	name "ZZZ-UNK-ssb-apple (disk 4 of 4)"
+	description "ZZZ-UNK-ssb-apple (disk 4 of 4)"
+	rom ( name "ZZZ-UNK-ssb-apple (disk 4 of 4).do" size 143360 crc bbfa2314 md5 4e96454cc1cb4ea2a300191785ecb054 )
+)
+
+game (
+	name "ZZZ-UNK-Superiobv1.5 (19xx)(-)"
+	description "ZZZ-UNK-Superiobv1.5 (19xx)(-)"
+	rom ( name "ZZZ-UNK-Superiobv1.5 (19xx)(-).do" size 143360 crc e01dd0a0 md5 d06fee5d449843f01cd9d3ff55e03f1e )
+)
+
+game (
+	name "ZZZ-UNK-Synergistic Programming Utilities"
+	description "ZZZ-UNK-Synergistic Programming Utilities"
+	rom ( name "ZZZ-UNK-Synergistic Programming Utilities.do" size 143360 crc 75ab18e3 md5 33518f1ae5fb959a6a1744cc112484b3 )
+)
+
+game (
+	name "ZZZ-UNK-Teletext Applepie"
+	description "ZZZ-UNK-Teletext Applepie"
+	rom ( name "ZZZ-UNK-Teletext Applepie.do" size 143360 crc 25c7dfbc md5 e9cc9c1026a579c2200cc2c0ce3d08c7 )
+)
+
+game (
+	name "ZZZ-UNK-Timeship (Boot) (Disk 1 of 3)"
+	description "ZZZ-UNK-Timeship (Boot) (Disk 1 of 3)"
+	rom ( name "ZZZ-UNK-Timeship (Boot) (Disk 1 of 3).do" size 143360 crc b156960c md5 183666f5991e773d71156aa28bbd0be2 )
+)
+
+game (
+	name "ZZZ-UNK-Timeship (Data) (Disk 3 of 3)"
+	description "ZZZ-UNK-Timeship (Data) (Disk 3 of 3)"
+	rom ( name "ZZZ-UNK-Timeship (Data) (Disk 3 of 3).do" size 143360 crc 61e502b2 md5 a6762bd5f5d0e73f5d84957a97dbb005 )
+)
+
+game (
+	name "ZZZ-UNK-Timeship (Player) (Disk 2 of 3)"
+	description "ZZZ-UNK-Timeship (Player) (Disk 2 of 3)"
+	rom ( name "ZZZ-UNK-Timeship (Player) (Disk 2 of 3).do" size 143360 crc 28dc460e md5 dc4a8700a32307d223f7e8e821b0f2e1 )
+)
+
+game (
+	name "ZZZ-UNK-Typequick (19xx)(-)"
+	description "ZZZ-UNK-Typequick (19xx)(-)"
+	rom ( name "ZZZ-UNK-Typequick (19xx)(-).do" size 143360 crc e8433e3d md5 ebe60884ee71f77e1a9fac6131f68fed )
+)
+
+game (
+	name "ZZZ-UNK-Various (19xx)(-)"
+	description "ZZZ-UNK-Various (19xx)(-)"
+	rom ( name "ZZZ-UNK-Various (19xx)(-).do" size 143360 crc 0e399ec2 md5 d54ab22fc4142948e6b2320ac983275b )
+)
+
+game (
+	name "ZZZ-UNK-visicalc visidex basiccalc (19xx)(-)"
+	description "ZZZ-UNK-visicalc visidex basiccalc (19xx)(-)"
+	rom ( name "ZZZ-UNK-visicalc visidex basiccalc (19xx)(-).do" size 143360 crc c5547da7 md5 3d65d353a9cfd7a283ec164a5bee3154 )
+)
+
+game (
+	name "ZZZ-UNK-Washington Apple Pi (-)(-)[user group - games disk]"
+	description "ZZZ-UNK-Washington Apple Pi (-)(-)[user group - games disk]"
+	rom ( name "ZZZ-UNK-Washington Apple Pi (-)(-)[user group - games disk].do" size 143360 crc 7ff6de84 md5 12dc77e7babcd5378dbeb5079b34007d )
+)
+
+game (
+	name "ZZZ-UNK-Welcomeaboarda (19xx)(-)"
+	description "ZZZ-UNK-Welcomeaboarda (19xx)(-)"
+	rom ( name "ZZZ-UNK-Welcomeaboarda (19xx)(-).do" size 143360 crc 371a3452 md5 f0fe8182e9d64502a9199dcea050b0dd )
+)
+
+game (
+	name "ZZZ-UNK-Welcomeaboardb (19xx)(-)"
+	description "ZZZ-UNK-Welcomeaboardb (19xx)(-)"
+	rom ( name "ZZZ-UNK-Welcomeaboardb (19xx)(-).do" size 143360 crc 038a353e md5 b037c72e17952686d79851ab0b276203 )
+)
+
+game (
+	name "ZZZ-UNK-Welcomeaboardc (19xx)(-)"
+	description "ZZZ-UNK-Welcomeaboardc (19xx)(-)"
+	rom ( name "ZZZ-UNK-Welcomeaboardc (19xx)(-).do" size 143360 crc 2c0b2ac9 md5 a10ab07a24c73950eb6c29eb9db50b06 )
+)
+
+game (
+	name "ZZZ-UNK-Wildcard (19xx)(-)"
+	description "ZZZ-UNK-Wildcard (19xx)(-)"
+	rom ( name "ZZZ-UNK-Wildcard (19xx)(-).do" size 143360 crc 2de37918 md5 8af941478ff17055ca51737aee0ca7ce )
+)

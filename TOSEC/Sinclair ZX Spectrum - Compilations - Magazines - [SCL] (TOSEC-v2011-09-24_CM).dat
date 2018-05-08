@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Magazines - [SCL]"
+	description "Sinclair ZX Spectrum - Compilations - Magazines - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Magazines - [SCL]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "BBS Top 01-02 (1997)(Beard)(ru)[h Evil Brain]"
+	description "BBS Top 01-02 (1997)(Beard)(ru)[h Evil Brain]"
+	rom ( name "BBS Top 01-02 (1997)(Beard)(ru)[h Evil Brain].scl" size 50459 crc 1488b68c md5 b182182b5cbd1f6bba5390da3f71ce94 sha1 11ef2bc1812bab7d399f4a96ff656a2ca089944a )
+)
+

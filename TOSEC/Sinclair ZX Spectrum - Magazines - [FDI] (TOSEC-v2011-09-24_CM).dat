@@ -1,0 +1,236 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Magazines - [FDI]"
+	description "Sinclair ZX Spectrum - Magazines - [FDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Magazines - [FDI]"
+	version 2011-09-24
+	author "jugaor - Dziuber - Cassiel"
+)
+
+game (
+	name "Adventurer 05 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 05 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 05 (1996)(Auryn Creative Group)(ru).fdi" size 674688 crc d1254957 md5 0acb0f5442398a229385e8feff7fa07d sha1 ac2bb5418f8ebd7f76fbabc52cfba2abbf63df5d )
+)
+
+game (
+	name "Adventurer 06 (1996)(Auryn Creative Group)(ru)"
+	description "Adventurer 06 (1996)(Auryn Creative Group)(ru)"
+	rom ( name "Adventurer 06 (1996)(Auryn Creative Group)(ru).fdi" size 674688 crc 9f20d3b5 md5 047cc3c44d873c2dd284d8688e9069e1 sha1 fa51c4abdced0449351f49b60403ef9eb65f3932 )
+)
+
+game (
+	name "Amazing 02 (1998)(Last Masters Group - Red Limited)(ru)"
+	description "Amazing 02 (1998)(Last Masters Group - Red Limited)(ru)"
+	rom ( name "Amazing 02 (1998)(Last Masters Group - Red Limited)(ru).fdi" size 674688 crc 48d59e62 md5 f797b599f771ce6773006c0bd420b46d sha1 1fb2cb499b7861387cbb7a2b6b51d3c818fe6817 )
+)
+
+game (
+	name "Black Crow 01 (2000)(Freestyle)(ru)"
+	description "Black Crow 01 (2000)(Freestyle)(ru)"
+	rom ( name "Black Crow 01 (2000)(Freestyle)(ru).fdi" size 778650 crc a4da3b0b md5 9f1948db87ce021c56fb97ce55d06cbe sha1 d60b1146b995c4ca3efd5bde476fed67d0a41440 )
+)
+
+game (
+	name "Faultless Magazine 04 (1996)(Mafia)(ru)"
+	description "Faultless Magazine 04 (1996)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 04 (1996)(Mafia)(ru).fdi" size 674688 crc 197b651f md5 15c105dab57ee0df34b3b386ced89106 sha1 c7b93c56b70a26b32e955893768528bb1af0fcf4 )
+)
+
+game (
+	name "Faultless Magazine 05 (1997)(Mafia)(ru)"
+	description "Faultless Magazine 05 (1997)(Mafia)(ru)"
+	rom ( name "Faultless Magazine 05 (1997)(Mafia)(ru).fdi" size 674688 crc 62fd6e22 md5 945766e85d2985813c752c153cbf5191 sha1 fccef6e18ca3a247fd24e0b1e49bfabac3b04365 )
+)
+
+game (
+	name "Oberon 03 (1996)(Stars of Keladan)(ru)"
+	description "Oberon 03 (1996)(Stars of Keladan)(ru)"
+	rom ( name "Oberon 03 (1996)(Stars of Keladan)(ru).fdi" size 674688 crc f3ed49f3 md5 f05d699fc4db1b3d7f73726127a5f192 sha1 6fd26f9cc3b2b372adb5f21d6227664d4f8b58be )
+)
+
+game (
+	name "Open Letters 01 - Part 1 (1998)(Nemo)(ru)"
+	description "Open Letters 01 - Part 1 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 01 - Part 1 (1998)(Nemo)(ru).fdi" size 815661 crc 5ba54e81 md5 c12063a92591d3dc5a9c5b78f54191cc sha1 ae9621d56466dd2d2edf82831086447dd0743e1f )
+)
+
+game (
+	name "Open Letters 02 - Part 1 (1998)(Nemo)(ru)"
+	description "Open Letters 02 - Part 1 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 02 - Part 1 (1998)(Nemo)(ru).fdi" size 835200 crc 039f6de3 md5 c3810e36640cc29678c16763c26beae1 sha1 87253d396350682b731b62dcad00c61afa9d68b9 )
+)
+
+game (
+	name "Open Letters 03 - Part 1 (1998)(Nemo)(ru)"
+	description "Open Letters 03 - Part 1 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 03 - Part 1 (1998)(Nemo)(ru).fdi" size 815661 crc 3e08d92a md5 cf20467c754411b2d64985763c2dd2de sha1 7bf782d53117fa694de9cb5ae517afe9c43afdfa )
+)
+
+game (
+	name "Open Letters 03 - Part 1 (1998)(Nemo)(ru)[a]"
+	description "Open Letters 03 - Part 1 (1998)(Nemo)(ru)[a]"
+	rom ( name "Open Letters 03 - Part 1 (1998)(Nemo)(ru)[a].fdi" size 978559 crc fef26835 md5 2b9fad9b351233af83c38229c90426ee sha1 f9e7196f97582f3bf2f96bce194458a634f71f1b )
+)
+
+game (
+	name "Open Letters 03 - Part 2 (1998)(Nemo)(ru)"
+	description "Open Letters 03 - Part 2 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 03 - Part 2 (1998)(Nemo)(ru).fdi" size 815661 crc f9b39347 md5 6f3336ea15dd566a98abbeddab1cd1f2 sha1 d4eec51be45cc6693fff30c933414e5e0c29719f )
+)
+
+game (
+	name "Open Letters 04 (1998)(Nemo)(ru)"
+	description "Open Letters 04 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 04 (1998)(Nemo)(ru).fdi" size 815661 crc 7c3c8c3b md5 0c123ecee36f87db49f977f8d35205ad sha1 95eac6dd5a78f1358aba2b300cc8ddb2c9fb65ef )
+)
+
+game (
+	name "Open Letters 07 (1998)(Nemo)(ru)"
+	description "Open Letters 07 (1998)(Nemo)(ru)"
+	rom ( name "Open Letters 07 (1998)(Nemo)(ru).fdi" size 978559 crc 0cef634d md5 1fbbc9ffc1c29cf2bdc6b61420d5ff3c sha1 c25cca240b09c676345418a44c5bb307cf3b48ac )
+)
+
+game (
+	name "Public Spirit 01 (1997)(Coders Academy)(ru)"
+	description "Public Spirit 01 (1997)(Coders Academy)(ru)"
+	rom ( name "Public Spirit 01 (1997)(Coders Academy)(ru).fdi" size 662144 crc b44f80c9 md5 94235839068ad2cadc2d5805b7f2c3c2 sha1 281887bfeff25ce4a792f302d2910cae6bcaea62 )
+)
+
+game (
+	name "Spectrofon 20 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 20 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 20 (1996)(Step Creative Group)(ru).fdi" size 674688 crc 866a470a md5 e9a8bcc7758a39162064fbfa8cedc42b sha1 f45ff8d794ade4ae34a93addd0568b0e32deb6cd )
+)
+
+game (
+	name "Spectrofon 21 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 21 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 21 (1996)(Step Creative Group)(ru).fdi" size 674688 crc 88b97083 md5 e2f60eab8c498c8a4d7fe35dced05453 sha1 ef299204c3f2ec7b4f4a4240d3ee1d8d4549f7fd )
+)
+
+game (
+	name "Spectrofon 23 (1996)(Step Creative Group)(ru)"
+	description "Spectrofon 23 (1996)(Step Creative Group)(ru)"
+	rom ( name "Spectrofon 23 (1996)(Step Creative Group)(ru).fdi" size 674688 crc a9b6833a md5 397f468d1889b998ae8acc9bf7194ead sha1 27db58e60bd770d5be6cb8df0bf281d780fa6c93 )
+)
+
+game (
+	name "Spectrum Progress 01 (1995)(Profsouse)(ru)"
+	description "Spectrum Progress 01 (1995)(Profsouse)(ru)"
+	rom ( name "Spectrum Progress 01 (1995)(Profsouse)(ru).fdi" size 669568 crc d7ce47ff md5 1083e3e2a54451db3372e2c10d5623a4 sha1 09d666744163a312c263988a956f42b0daed0427 )
+)
+
+game (
+	name "Spectrum Progress 02 (1995)(Profsouse)(ru)"
+	description "Spectrum Progress 02 (1995)(Profsouse)(ru)"
+	rom ( name "Spectrum Progress 02 (1995)(Profsouse)(ru).fdi" size 644224 crc cb8a8505 md5 f3a7e858bb8c6ec74042e158e8b0631e sha1 02bb014f27a49df2a9e66d1426c65ea6807bf42f )
+)
+
+game (
+	name "ZX-Format 03 (1996)(XL-Design)(ru)"
+	description "ZX-Format 03 (1996)(XL-Design)(ru)"
+	rom ( name "ZX-Format 03 (1996)(XL-Design)(ru).fdi" size 674688 crc 4c3ee2d3 md5 1e225a3e1ebf718be8a93905ba3468ac sha1 9883944f7b0dee4252afa7905f17fbc8e6b15c88 )
+)
+
+game (
+	name "ZX-Format 05 (1996)(XL-Design)(ru)[h Phantom Family]"
+	description "ZX-Format 05 (1996)(XL-Design)(ru)[h Phantom Family]"
+	rom ( name "ZX-Format 05 (1996)(XL-Design)(ru)[h Phantom Family].fdi" size 674688 crc 40c35bb5 md5 4614b85eb2e5043da668e96bf04cc453 sha1 bdb76a293c0ab9841bb47aed2a3f748b79ea0846 )
+)
+
+game (
+	name "ZX-Format 07 (1996)(XL-Design)(ru)[h Phantom Family][b]"
+	description "ZX-Format 07 (1996)(XL-Design)(ru)[h Phantom Family][b]"
+	rom ( name "ZX-Format 07 (1996)(XL-Design)(ru)[h Phantom Family][b].fdi" size 61312 crc d684ee37 md5 f3f31002e406b425d009f8a30463b26e sha1 443d29412ce34bb1566ce20e4530d7d94e6b2478 )
+)
+
+game (
+	name "ZX-Review 1994.01 (1994)(Inforkom)(ru)"
+	description "ZX-Review 1994.01 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1994.01 (1994)(Inforkom)(ru).fdi" size 674688 crc 8cf9ffe2 md5 e8757dcc1fdbab4e17798e604280422e sha1 904a84be7d848975ad69e28e82e5d76c5442c2f5 )
+)
+
+game (
+	name "ZX-Review 1994.02 (1994)(Inforkom)(ru)"
+	description "ZX-Review 1994.02 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1994.02 (1994)(Inforkom)(ru).fdi" size 674688 crc fdcff848 md5 f6159f492969ecd45d17418998a9bf75 sha1 df324612affedebb27c4724a67e7314b8059d67b )
+)
+
+game (
+	name "ZX-Review 1994.03 (1994)(Inforkom)(ru)"
+	description "ZX-Review 1994.03 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1994.03 (1994)(Inforkom)(ru).fdi" size 674688 crc 8ac5a994 md5 89ffbaf745dea4226991cf718439d770 sha1 e2d46e5660fbd046abd140c537834e49c38bb7f8 )
+)
+
+game (
+	name "ZX-Review 1995.01 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.01 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.01 (1995)(Inforkom)(ru).fdi" size 674688 crc 4a52b83a md5 2e49b4b34546226cee01c2f2bc53eb6b sha1 937107d5481bf8a7730bdcbaa161ecef9698a68a )
+)
+
+game (
+	name "ZX-Review 1995.02 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.02 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.02 (1995)(Inforkom)(ru).fdi" size 674688 crc a6b2ded2 md5 35a285a6f7e7f265a3a013111cc48370 sha1 1cb1fe1a1b59f2009001f33fb9380dfce8b697b2 )
+)
+
+game (
+	name "ZX-Review 1995.03 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.03 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.03 (1995)(Inforkom)(ru).fdi" size 674688 crc 33a7f55b md5 ef23bf76c1f23af2dd92fc0ddc484e33 sha1 da19454d00712c3228d3f0052f2a9fb5ed5e05de )
+)
+
+game (
+	name "ZX-Review 1995.04 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.04 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.04 (1995)(Inforkom)(ru).fdi" size 674688 crc 2d5f8dc6 md5 8209c57528f1081bc3c8e6c21b7a1621 sha1 5eae76e5f5a438754f56d8905ce37ce180e69ae7 )
+)
+
+game (
+	name "ZX-Review 1995.05 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.05 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.05 (1995)(Inforkom)(ru).fdi" size 674688 crc d0128104 md5 2bd27e50a549dba2a1f7bdfcfc2c1e4d sha1 29ff1eb0dc107e3ec0425e9bbb592d7e95daa81c )
+)
+
+game (
+	name "ZX-Review 1995.06 (1995)(Inforkom)(ru)"
+	description "ZX-Review 1995.06 (1995)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1995.06 (1995)(Inforkom)(ru).fdi" size 674688 crc 1bea7e6a md5 2c1aaee54a8fc2ba0ed66da4e558a9a9 sha1 569d9af33f7a8d570f5c4c6dcd36612c9c181d91 )
+)
+
+game (
+	name "ZX-Review 1996.03 (1996)(Inforkom)(ru)"
+	description "ZX-Review 1996.03 (1996)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1996.03 (1996)(Inforkom)(ru).fdi" size 674688 crc bdcef60b md5 fbd8378b60510fadd001a2216b37a65a sha1 04c5f532d4fedd775022924fce5d2a0c506cea4a )
+)
+
+game (
+	name "ZX-Review 1996.04-05 (1996)(Inforkom)(ru)"
+	description "ZX-Review 1996.04-05 (1996)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1996.04-05 (1996)(Inforkom)(ru).fdi" size 674688 crc 42e08996 md5 fa1368d3e764ee525b12c4d58574f0a5 sha1 6b556baf51f8ec4fc358f0a33de5c29b60d417f6 )
+)
+
+game (
+	name "ZX-Review 1996.07-08 (1996)(Inforkom)(ru)"
+	description "ZX-Review 1996.07-08 (1996)(Inforkom)(ru)"
+	rom ( name "ZX-Review 1996.07-08 (1996)(Inforkom)(ru).fdi" size 674688 crc 699d5927 md5 b14dae99913119ac3b3ff8eeaf8d52db sha1 d5da96202e0600a4d777ecdb1255f77440c702d1 )
+)
+
+game (
+	name "ZX-Review Forum 01 (1994)(Inforkom)(ru)"
+	description "ZX-Review Forum 01 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review Forum 01 (1994)(Inforkom)(ru).fdi" size 674688 crc 22606308 md5 23115982d7e643272af21e6e5afc8ce9 sha1 ad61a9b90eae9dca45781ac5874110bd1c3c600c )
+)
+
+game (
+	name "ZX-Review Forum 02 - Part 1 (1994)(Inforkom)(ru)"
+	description "ZX-Review Forum 02 - Part 1 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review Forum 02 - Part 1 (1994)(Inforkom)(ru).fdi" size 674688 crc 9f852f1a md5 052b0cdbb10fff3fce84e041b46f7906 sha1 522883810c7ecf38bffcf00fd5e45b86d530c563 )
+)
+
+game (
+	name "ZX-Review Forum 02 - Part 2 (1994)(Inforkom)(ru)"
+	description "ZX-Review Forum 02 - Part 2 (1994)(Inforkom)(ru)"
+	rom ( name "ZX-Review Forum 02 - Part 2 (1994)(Inforkom)(ru).fdi" size 674688 crc 7ae76be3 md5 6d9fed58cdc6d5ea5df5147612ca7bce sha1 8a2f28db149fd6fcce8293fcdc6cd02825b15401 )
+)
+

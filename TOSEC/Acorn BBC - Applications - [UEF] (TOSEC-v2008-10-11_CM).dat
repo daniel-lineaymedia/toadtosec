@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Acorn BBC - Applications - [UEF]"
+	description "Acorn BBC - Applications - [UEF] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Applications - [UEF]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Beebcalc Spreadsheet (demo) (1983)(Gemini)"
+	description "Beebcalc Spreadsheet (demo) (1983)(Gemini)"
+	rom ( name "Beebcalc Spreadsheet (demo) (1983)(Gemini).uef" size 7951 crc 5e515fc6 md5 435538e18df94d1107bf0aa94dee82c5 )
+)
+
+game (
+	name "BeebTalk (1984)(Cheetah)"
+	description "BeebTalk (1984)(Cheetah)"
+	rom ( name "BeebTalk (1984)(Cheetah).uef" size 3559 crc 79a38b4b md5 0951e49789f68dd10bdb45a198eb3a9f )
+)
+
+game (
+	name "Commercial Accounts (1982)(Gemini)"
+	description "Commercial Accounts (1982)(Gemini)"
+	rom ( name "Commercial Accounts (1982)(Gemini).uef" size 5322 crc 676f1d29 md5 6cfe047895d6505f4f2290c147482c90 )
+)

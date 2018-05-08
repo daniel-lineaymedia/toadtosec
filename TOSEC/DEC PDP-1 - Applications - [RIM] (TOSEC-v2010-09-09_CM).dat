@@ -1,0 +1,25 @@
+clrmamepro (
+	name "DEC PDP-1 - Applications - [RIM]"
+	description "DEC PDP-1 - Applications - [RIM] (TOSEC-v2010-09-09)"
+	category "DEC PDP-1 - Applications - [RIM]"
+	version 2010-09-09
+	author "TKaos"
+)
+
+game (
+	name "DEC Debugging Tape (1966-08-20)(DEC)(US)"
+	description "DEC Debugging Tape (1966-08-20)(DEC)(US)"
+	rom ( name "DEC Debugging Tape (1966-08-20)(DEC)(US).rim" size 6657 crc ff77b3b6 md5 24192432a1c514c68c74123390fbb5ab )
+)
+
+game (
+	name "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)"
+	description "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US)"
+	rom ( name "Harmony Compiler Phase 1 (1963-05-21)(Samson, Peter)(US).rim" size 6662 crc ef3a81ae md5 a2a31d4fc47970dcdc7ba85e6f8b735e )
+)
+
+game (
+	name "LISP (1964-03)(DECUS)"
+	description "LISP (1964-03)(DECUS)"
+	rom ( name "LISP (1964-03)(DECUS).rim" size 11323 crc b3504cbb md5 d28b55e02dcb402a93194a94dfea5bbc )
+)

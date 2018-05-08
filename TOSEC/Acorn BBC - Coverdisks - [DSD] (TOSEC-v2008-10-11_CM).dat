@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Acorn BBC - Coverdisks - [DSD]"
+	description "Acorn BBC - Coverdisks - [DSD] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Coverdisks - [DSD]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Acorn User Games Disc (19xx)(Redwood Publishing)"
+	description "Acorn User Games Disc (19xx)(Redwood Publishing)"
+	rom ( name "Acorn User Games Disc (19xx)(Redwood Publishing).dsd" size 409600 crc a5baba67 md5 39edb15cf7e9a63f280557e2eafd5dfb )
+)
+
+game (
+	name "Acorn User Printer Help Disc (19xx)(Redwood Publishing)"
+	description "Acorn User Printer Help Disc (19xx)(Redwood Publishing)"
+	rom ( name "Acorn User Printer Help Disc (19xx)(Redwood Publishing).dsd" size 409600 crc 5815cf70 md5 ea3dbb60421f5341e2af973fd3298f7e )
+)
+
+game (
+	name "Micro User, The - Issue 1984-01 (1984)(Micro User)"
+	description "Micro User, The - Issue 1984-01 (1984)(Micro User)"
+	rom ( name "Micro User, The - Issue 1984-01 (1984)(Micro User).dsd" size 49664 crc 0a8cbe97 md5 fa6f5d67b88ead137a08647fc133dd0a )
+)

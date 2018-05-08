@@ -1,0 +1,127 @@
+clrmamepro (
+	name "Altos Computer Systems ACS-186, 586 & 986 - Applications"
+	description "Altos Computer Systems ACS-186, 586 & 986 - Applications (TOSEC-v2010-06-19)"
+	category "Altos Computer Systems ACS-186, 586 & 986 - Applications"
+	version 2010-06-19
+	author "TKaos"
+)
+
+game (
+	name "A.Out C Compiler v2.4S0 (1983)(Altos Computer Systems)(586-986)(Serial No. XEN-01262)"
+	description "A.Out C Compiler v2.4S0 (1983)(Altos Computer Systems)(586-986)(Serial No. XEN-01262)"
+	rom ( name "A.Out C Compiler v2.4S0 (1983)(Altos Computer Systems)(586-986)(Serial No. XEN-01262).imd" size 358529 crc 2a99e04d md5 953bf541d62fe19c880b0e9a3c676be9 )
+)
+
+game (
+	name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 05569)"
+	description "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 05569)"
+	rom ( name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 05569).imd" size 210698 crc 379d32b3 md5 b2798c21b2969a5c15863237437d04e5 )
+)
+
+game (
+	name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 10887)"
+	description "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 10887)"
+	rom ( name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 10887).imd" size 210748 crc 431aeb7c md5 0ec8cb8533ea3ecd8c8f5dd51469d098 )
+)
+
+game (
+	name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 13532)"
+	description "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 13532)"
+	rom ( name "ADX v1.3S0 (1983)(Altos Computer Systems)(586-986)(Serial No. 13532).imd" size 210748 crc 28f98617 md5 214cebe494f9b917a8e43a26480b4aaa )
+)
+
+game (
+	name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 1 of 5)(Serial No. 3.1-062684)"
+	description "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 1 of 5)(Serial No. 3.1-062684)"
+	rom ( name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 1 of 5)(Serial No. 3.1-062684).imd" size 695237 crc e11af77f md5 bf174df1ab39dccc1986228044a7ccac )
+)
+
+game (
+	name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 2 of 5)(Serial No. 3.1-062684)"
+	description "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 2 of 5)(Serial No. 3.1-062684)"
+	rom ( name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 2 of 5)(Serial No. 3.1-062684).imd" size 683484 crc 6d1e212e md5 12867887788280698b0da5e24920ea9d )
+)
+
+game (
+	name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 3 of 5)(Serial No. 3.1-062684)"
+	description "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 3 of 5)(Serial No. 3.1-062684)"
+	rom ( name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 3 of 5)(Serial No. 3.1-062684).imd" size 669176 crc dba28758 md5 26a736821de737f7c13cc28ce8e1e63e )
+)
+
+game (
+	name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 4 of 5)(Serial No. 3.1-062684)"
+	description "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 4 of 5)(Serial No. 3.1-062684)"
+	rom ( name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 4 of 5)(Serial No. 3.1-062684).imd" size 625741 crc 47be9f01 md5 10e53d350fb9d722e4d3c8c4c97a135e )
+)
+
+game (
+	name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 5 of 5)(Serial No. 3.1-062684)"
+	description "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 5 of 5)(Serial No. 3.1-062684)"
+	rom ( name "Altos 586 Database Management System (1983)(UNIFY)(586)(Disk 5 of 5)(Serial No. 3.1-062684).imd" size 473463 crc c61a6315 md5 0a3094de458e32dfbc9216bda8778649 )
+)
+
+game (
+	name "Fortran 77 v1.2B0 (198x)(-)(586)(Serial No. XEN-00201)"
+	description "Fortran 77 v1.2B0 (198x)(-)(586)(Serial No. XEN-00201)"
+	rom ( name "Fortran 77 v1.2B0 (198x)(-)(586)(Serial No. XEN-00201).imd" size 313365 crc 5b4e5ea1 md5 7a696ea7b98cc0af580b1c23d2afefbd )
+)
+
+game (
+	name "Informix DBMS v3.11B (198x)(-)(586)(Disk 1 of 2)(Serial No. 010959)"
+	description "Informix DBMS v3.11B (198x)(-)(586)(Disk 1 of 2)(Serial No. 010959)"
+	rom ( name "Informix DBMS v3.11B (198x)(-)(586)(Disk 1 of 2)(Serial No. 010959).imd" size 735979 crc 99f2586a md5 985f1722020385e3899adde3a30a3f82 )
+)
+
+game (
+	name "Informix DBMS v3.11B (198x)(-)(586)(Disk 2 of 2)(Serial No. 010959)"
+	description "Informix DBMS v3.11B (198x)(-)(586)(Disk 2 of 2)(Serial No. 010959)"
+	rom ( name "Informix DBMS v3.11B (198x)(-)(586)(Disk 2 of 2)(Serial No. 010959).imd" size 299067 crc acbd1de9 md5 db2f626f23454881b16af4aa41f542e6 )
+)
+
+game (
+	name "Level-II COBOL v2.02S0 (1984)(Santa Cruz Operation)(186-586-986)(Serial No. 068)"
+	description "Level-II COBOL v2.02S0 (1984)(Santa Cruz Operation)(186-586-986)(Serial No. 068)"
+	rom ( name "Level-II COBOL v2.02S0 (1984)(Santa Cruz Operation)(186-586-986)(Serial No. 068).imd" size 389101 crc 4bade92f md5 364a5b7a322cc4c13a513e38e82ff9fc )
+)
+
+game (
+	name "MP-M-86 v2.1 (198x)(Digital Research)(586)"
+	description "MP-M-86 v2.1 (198x)(Digital Research)(586)"
+	rom ( name "MP-M-86 v2.1 (198x)(Digital Research)(586).imd" size 507499 crc 1dc22209 md5 3c8278795c4ef2026bfc76e028e74c27 )
+)
+
+game (
+	name "X.Out C Compiler (1984)(Control Data)(586)(Disk 1 of 2)(Part No. 15202196)"
+	description "X.Out C Compiler (1984)(Control Data)(586)(Disk 1 of 2)(Part No. 15202196)"
+	rom ( name "X.Out C Compiler (1984)(Control Data)(586)(Disk 1 of 2)(Part No. 15202196).imd" size 717068 crc f3df086d md5 0969b1a113727ba9876610703698de39 )
+)
+
+game (
+	name "X.Out C Compiler (1984)(Control Data)(586)(Disk 2 of 2)(Part No. 15202197)"
+	description "X.Out C Compiler (1984)(Control Data)(586)(Disk 2 of 2)(Part No. 15202197)"
+	rom ( name "X.Out C Compiler (1984)(Control Data)(586)(Disk 2 of 2)(Part No. 15202197).imd" size 584719 crc 70711e82 md5 c72d1d44eb3beba0d54809c6e04090f7 )
+)
+
+game (
+	name "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 1 of 2)(Serial No. X03-201)"
+	description "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 1 of 2)(Serial No. X03-201)"
+	rom ( name "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 1 of 2)(Serial No. X03-201).imd" size 710938 crc b54df53b md5 602d6ebd775768f9894768d83d277459 )
+)
+
+game (
+	name "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 2 of 2)(Serial No. X03-201)"
+	description "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 2 of 2)(Serial No. X03-201)"
+	rom ( name "X.Out C Compiler 2 v3.0BS1 (198x)(-)(586)(Disk 2 of 2)(Serial No. X03-201).imd" size 604138 crc ef412cda md5 a71a03261d760dc0ad260467fc6ef717 )
+)
+
+game (
+	name "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 1 of 2)(Serial No. XEN-01262)"
+	description "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 1 of 2)(Serial No. XEN-01262)"
+	rom ( name "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 1 of 2)(Serial No. XEN-01262).imd" size 733093 crc 61cac538 md5 98623874d34b5d3e4e76498b13e6d7cb )
+)
+
+game (
+	name "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 2 of 2)(Serial No. XEN-01262)"
+	description "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 2 of 2)(Serial No. XEN-01262)"
+	rom ( name "X.Out C Compiler v1.0aS0 (1983)(Altos Computer Systems)(586-986)(Disk 2 of 2)(Serial No. XEN-01262).imd" size 103030 crc 26346ab7 md5 11a0a8ee19b7d81c9a6855a2db7ac299 )
+)

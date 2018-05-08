@@ -1,0 +1,13 @@
+clrmamepro (
+	name "DEC PDP-1 - Games - [MAC]"
+	description "DEC PDP-1 - Games - [MAC] (TOSEC-v2010-09-09)"
+	category "DEC PDP-1 - Games - [MAC]"
+	version 2010-09-09
+	author "TKaos"
+)
+
+game (
+	name "Spacewar v4.1 (2008-08-22)(Samson, Peter)(US)"
+	description "Spacewar v4.1 (2008-08-22)(Samson, Peter)(US)"
+	rom ( name "Spacewar v4.1 (2008-08-22)(Samson, Peter)(US).mac" size 29421 crc cac84066 md5 96889831b6a977a09115c0f2e8dee69a )
+)

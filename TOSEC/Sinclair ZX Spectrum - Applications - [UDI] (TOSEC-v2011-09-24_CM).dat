@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Applications - [UDI]"
+	description "Sinclair ZX Spectrum - Applications - [UDI] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Applications - [UDI]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Profi CP-M (1992)(Micco Software)"
+	description "Profi CP-M (1992)(Micco Software)"
+	rom ( name "Profi CP-M (1992)(Micco Software).udi" size 1125620 crc ca8291f1 md5 55fa83b9cf4ac983136866e3b5bd14df sha1 5cedc60674ea9482d8a914416cdf61d605b75298 )
+)
+
+game (
+	name "Profi CP-M (1992)(Micco Software)[b][old UDI version]"
+	description "Profi CP-M (1992)(Micco Software)[b][old UDI version]"
+	rom ( name "Profi CP-M (1992)(Micco Software)[b][old UDI version].udi" size 1111550 crc 7d9520d0 md5 44d1c026219f460557a590aae1a653d8 sha1 62422fbe22303320ee25b1ab92897fe6d264e818 )
+)
+
+game (
+	name "Profi CP-M (1992)(Micco Software)[old UDI version]"
+	description "Profi CP-M (1992)(Micco Software)[old UDI version]"
+	rom ( name "Profi CP-M (1992)(Micco Software)[old UDI version].udi" size 1111550 crc 315817f6 md5 7870e98a64eb8a00d8783408cc3eb0cd sha1 e15f56f5d8c4bd626f17693b2794994da4570c01 )
+)
+

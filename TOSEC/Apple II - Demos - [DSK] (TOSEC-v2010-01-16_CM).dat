@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Apple II - Demos - [DSK]"
+	description "Apple II - Demos - [DSK] (TOSEC-v2010-01-16)"
+	category "Apple II - Demos - [DSK]"
+	version 2010-01-16
+	author "TKaos - jjs"
+)
+
+game (
+	name "Defender of the Crown (19xx)(Hackerforce)"
+	description "Defender of the Crown (19xx)(Hackerforce)"
+	rom ( name "Defender of the Crown (19xx)(Hackerforce).dsk" size 143360 crc 99d2beb9 md5 6b384e562ac4f18b87a366ae1aac72c4 )
+)
+
+game (
+	name "Hackerforce Megademo (1991)(Hackerforce)"
+	description "Hackerforce Megademo (1991)(Hackerforce)"
+	rom ( name "Hackerforce Megademo (1991)(Hackerforce).dsk" size 143360 crc cb38604a md5 ff4e26cc2f14f610d37d97906e59abe6 )
+)
+
+game (
+	name "Introduction a l'Apple IIc (1984)(Apple)[PASCAL]"
+	description "Introduction a l'Apple IIc (1984)(Apple)[PASCAL]"
+	rom ( name "Introduction a l'Apple IIc (1984)(Apple)[PASCAL].dsk" size 143360 crc 9da11453 md5 8b4f2e1b7d0e6b5e57dc78072af5dbcb )
+)
+
+game (
+	name "Musical Land (19xx)(Warriors of Destiny)"
+	description "Musical Land (19xx)(Warriors of Destiny)"
+	rom ( name "Musical Land (19xx)(Warriors of Destiny).dsk" size 143360 crc 0470d77c md5 8b1a2810c9eb8839c95908369121be3f )
+)

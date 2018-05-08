@@ -1,0 +1,1369 @@
+clrmamepro (
+	name "Atari ST - Collections - Delta Labs"
+	description "Atari ST - Collections - Delta Labs (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Delta Labs"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Delta Labs 001 (19xx)(Delta Labs)"
+	description "Delta Labs 001 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 001 (19xx)(Delta Labs).st" size 737280 crc 79dbca2c md5 20fbbee46163c2f3b244bb89c2074e8a )
+)
+
+game (
+	name "Delta Labs 002 (19xx)(Delta Labs)"
+	description "Delta Labs 002 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 002 (19xx)(Delta Labs).st" size 737280 crc 50a218bd md5 69f57f73ba90d31d2df14b0fd19a8854 )
+)
+
+game (
+	name "Delta Labs 003 (19xx)(Delta Labs)"
+	description "Delta Labs 003 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 003 (19xx)(Delta Labs).st" size 819200 crc cdeefd20 md5 18117a7d4592c6157f6656c598f09d2f )
+)
+
+game (
+	name "Delta Labs 004 (19xx)(Delta Labs)"
+	description "Delta Labs 004 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 004 (19xx)(Delta Labs).st" size 849920 crc 394f7a5f md5 03228545bd73b772c0e5fcb4742f18ff )
+)
+
+game (
+	name "Delta Labs 005 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 005 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 005 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1575936 crc 40c8acdd md5 fee1f961c545892b89818deb6136e25e )
+)
+
+game (
+	name "Delta Labs 005 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 005 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 005 (19xx)(Delta Labs)(Disk 2 of 2).st" size 1556480 crc 004227b3 md5 1ef6d71c693a1e14f2e1f78d8d3b2236 )
+)
+
+game (
+	name "Delta Labs 006 (19xx)(Delta Labs)"
+	description "Delta Labs 006 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 006 (19xx)(Delta Labs).st" size 737280 crc ac984aa5 md5 66e24fabc78293d293aefc035c1c59aa )
+)
+
+game (
+	name "Delta Labs 007 (19xx)(Delta Labs)"
+	description "Delta Labs 007 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 007 (19xx)(Delta Labs).st" size 737280 crc 0054d382 md5 3fece32bdc3daa192c90930aa3f60f73 )
+)
+
+game (
+	name "Delta Labs 008 (19xx)(Delta Labs)"
+	description "Delta Labs 008 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 008 (19xx)(Delta Labs).st" size 1474560 crc 04aec793 md5 f8b4cb8e3035bc87dd5e60a95995a1d7 )
+)
+
+game (
+	name "Delta Labs 009 (19xx)(Delta Labs)"
+	description "Delta Labs 009 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 009 (19xx)(Delta Labs).st" size 1474560 crc c7ee13c7 md5 86b2ad6f6811fe01eb5c2bc6576026e6 )
+)
+
+game (
+	name "Delta Labs 010 (19xx)(Delta Labs)"
+	description "Delta Labs 010 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 010 (19xx)(Delta Labs).st" size 737280 crc 32db799e md5 5d1e66aa8f0ad1416e7ca10be3954b45 )
+)
+
+game (
+	name "Delta Labs 011 (19xx)(Delta Labs)"
+	description "Delta Labs 011 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 011 (19xx)(Delta Labs).st" size 737280 crc e22d2acf md5 637847b4bdc4737182cbe29e894c4010 )
+)
+
+game (
+	name "Delta Labs 012 (19xx)(Delta Labs)"
+	description "Delta Labs 012 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 012 (19xx)(Delta Labs).st" size 737280 crc 01f5bf2d md5 ea428950a0c9747a78c7c112a7047bf8 )
+)
+
+game (
+	name "Delta Labs 013 (19xx)(Delta Labs)"
+	description "Delta Labs 013 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 013 (19xx)(Delta Labs).st" size 819200 crc 82277745 md5 3fd48e7246434a3e116ca7a53415492b )
+)
+
+game (
+	name "Delta Labs 014 (19xx)(Delta Labs)"
+	description "Delta Labs 014 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 014 (19xx)(Delta Labs).st" size 737280 crc 24c88955 md5 44e74cbfc3b1f9699a764afeef1fd92c )
+)
+
+game (
+	name "Delta Labs 015 (19xx)(Delta Labs)"
+	description "Delta Labs 015 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 015 (19xx)(Delta Labs).st" size 737280 crc 82a834ed md5 f7fa21b8f10c44c2b0bb4bb6ab80c211 )
+)
+
+game (
+	name "Delta Labs 016 (19xx)(Delta Labs)"
+	description "Delta Labs 016 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 016 (19xx)(Delta Labs).st" size 737280 crc b67b9a88 md5 6bfcf8185596db77e43657e386ff07e7 )
+)
+
+game (
+	name "Delta Labs 017 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 017 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 017 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc 25a3ce92 md5 bb1e1ed7bf84eb37f01b6ac6b0105896 )
+)
+
+game (
+	name "Delta Labs 017 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 017 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 017 (19xx)(Delta Labs)(Disk 2 of 2).st" size 737280 crc f120339e md5 4eda4d8b9d7312962b8daf6583fe54ea )
+)
+
+game (
+	name "Delta Labs 018 (19xx)(Delta Labs)"
+	description "Delta Labs 018 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 018 (19xx)(Delta Labs).st" size 737280 crc 9f7a451a md5 1f9986e4b00cfb6c01a0d728201416b3 )
+)
+
+game (
+	name "Delta Labs 019 (19xx)(Delta Labs)"
+	description "Delta Labs 019 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 019 (19xx)(Delta Labs).st" size 737280 crc ea0f1856 md5 cbf519afbc2c05887bb9670dc5ed2c4a )
+)
+
+game (
+	name "Delta Labs 020 (19xx)(Delta Labs)"
+	description "Delta Labs 020 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 020 (19xx)(Delta Labs).st" size 1492992 crc c570cc22 md5 f564dfb0c20cfb23c74a7276ceef395b )
+)
+
+game (
+	name "Delta Labs 021 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 021 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 021 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc 87d32b17 md5 0e82341991eb1db4522b2e7325bf7af9 )
+)
+
+game (
+	name "Delta Labs 021 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 021 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 021 (19xx)(Delta Labs)(Disk 2 of 2).st" size 923648 crc b0b840a0 md5 20ad96978f1102fcc1c4f0ed9fe9ac9e )
+)
+
+game (
+	name "Delta Labs 022 (19xx)(Delta Labs)"
+	description "Delta Labs 022 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 022 (19xx)(Delta Labs).st" size 737280 crc f96dc42b md5 0f22b61178fb8fbaaee756c8004ce63f )
+)
+
+game (
+	name "Delta Labs 023 (19xx)(Delta Labs)"
+	description "Delta Labs 023 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 023 (19xx)(Delta Labs).st" size 737280 crc 9926efd2 md5 c5cab4e691ca4ba1137533930c4abc66 )
+)
+
+game (
+	name "Delta Labs 024 (19xx)(Delta Labs)"
+	description "Delta Labs 024 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 024 (19xx)(Delta Labs).st" size 946176 crc d974a533 md5 61121a2d89f226425baf724ca0452d52 )
+)
+
+game (
+	name "Delta Labs 025 (19xx)(Delta Labs)"
+	description "Delta Labs 025 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 025 (19xx)(Delta Labs).st" size 737280 crc d1428974 md5 26915149d6f2f02ac1be090a21e9b70d )
+)
+
+game (
+	name "Delta Labs 026 (19xx)(Delta Labs)"
+	description "Delta Labs 026 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 026 (19xx)(Delta Labs).st" size 819200 crc 556208d7 md5 97ec9a19c7311895f93767021659a11e )
+)
+
+game (
+	name "Delta Labs 027 (19xx)(Delta Labs)"
+	description "Delta Labs 027 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 027 (19xx)(Delta Labs).st" size 737280 crc aeeb32b0 md5 e22ad3347594ad6a3860e704350a46b9 )
+)
+
+game (
+	name "Delta Labs 028 (19xx)(Delta Labs)"
+	description "Delta Labs 028 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 028 (19xx)(Delta Labs).st" size 737280 crc 90404f11 md5 9ee64db1d1aeafca1a029d3abb1e39f5 )
+)
+
+game (
+	name "Delta Labs 029 (19xx)(Delta Labs)"
+	description "Delta Labs 029 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 029 (19xx)(Delta Labs).st" size 737280 crc 1e74ade8 md5 ed033d59f027e7ca528f667739355d7b )
+)
+
+game (
+	name "Delta Labs 030 (19xx)(Delta Labs)"
+	description "Delta Labs 030 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 030 (19xx)(Delta Labs).st" size 737280 crc 5cb44b6e md5 f41469c449c149d8ae888b3ddb9174be )
+)
+
+game (
+	name "Delta Labs 031 (19xx)(Delta Labs)"
+	description "Delta Labs 031 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 031 (19xx)(Delta Labs).st" size 737280 crc 9a53b9f8 md5 eacd1e69fe5bfbcb4f228e401a8951b6 )
+)
+
+game (
+	name "Delta Labs 032 (19xx)(Delta Labs)"
+	description "Delta Labs 032 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 032 (19xx)(Delta Labs).st" size 737280 crc e7bb0cf3 md5 6fd26cf666acc19d6c0e93363ae162b7 )
+)
+
+game (
+	name "Delta Labs 033 (19xx)(Delta Labs)"
+	description "Delta Labs 033 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 033 (19xx)(Delta Labs).st" size 819200 crc d17913ed md5 76432c7b62b83ead29471790561578a7 )
+)
+
+game (
+	name "Delta Labs 034 (19xx)(Delta Labs)"
+	description "Delta Labs 034 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 034 (19xx)(Delta Labs).st" size 860160 crc 1c9e56ac md5 3289e8215c6f33bc4292d0de3d724aef )
+)
+
+game (
+	name "Delta Labs 035 (19xx)(Delta Labs)"
+	description "Delta Labs 035 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 035 (19xx)(Delta Labs).st" size 737280 crc 697898d2 md5 8c08c95e97164f051250002d8658ebfd )
+)
+
+game (
+	name "Delta Labs 036 (19xx)(Delta Labs)"
+	description "Delta Labs 036 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 036 (19xx)(Delta Labs).st" size 819200 crc dbd26b7d md5 3807a3709faef86ef855c4c6e3b4e73b )
+)
+
+game (
+	name "Delta Labs 037 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 037 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 037 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc 2459ea2a md5 eada8480ed15472c348d25ad8f5c0432 )
+)
+
+game (
+	name "Delta Labs 037 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 037 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 037 (19xx)(Delta Labs)(Disk 2 of 2).st" size 1474560 crc 7a1a61e3 md5 6f6b2669274c5c01275b22e12a112d15 )
+)
+
+game (
+	name "Delta Labs 038 (19xx)(Delta Labs)"
+	description "Delta Labs 038 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 038 (19xx)(Delta Labs).st" size 901120 crc 31280cf3 md5 ae2bf6f2276266f4280bd17e0b401cdb )
+)
+
+game (
+	name "Delta Labs 039 (19xx)(Delta Labs)"
+	description "Delta Labs 039 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 039 (19xx)(Delta Labs).st" size 737280 crc 190313b5 md5 749dc95deb19e4582d59fb447716bdfa )
+)
+
+game (
+	name "Delta Labs 040 (19xx)(Delta Labs)"
+	description "Delta Labs 040 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 040 (19xx)(Delta Labs).st" size 1474560 crc 91ea728c md5 d70ead535a7e28d6b8b081f19aaac2e4 )
+)
+
+game (
+	name "Delta Labs 041 (19xx)(Delta Labs)"
+	description "Delta Labs 041 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 041 (19xx)(Delta Labs).st" size 737280 crc 1ac35f9b md5 27568edbf0dd71d640786e7b1f0a8e7e )
+)
+
+game (
+	name "Delta Labs 042 (19xx)(Delta Labs)"
+	description "Delta Labs 042 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 042 (19xx)(Delta Labs).st" size 737280 crc a2cecb60 md5 912da9a46e6315e718a271c42d91b718 )
+)
+
+game (
+	name "Delta Labs 043 (19xx)(Delta Labs)"
+	description "Delta Labs 043 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 043 (19xx)(Delta Labs).st" size 737280 crc 22904007 md5 4a6dce58fe4ad51eb590584312c56567 )
+)
+
+game (
+	name "Delta Labs 044 (19xx)(Delta Labs)"
+	description "Delta Labs 044 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 044 (19xx)(Delta Labs).st" size 737280 crc 0fb41e13 md5 332f8958da3133e29f84c83fe4654fba )
+)
+
+game (
+	name "Delta Labs 045 (19xx)(Delta Labs)"
+	description "Delta Labs 045 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 045 (19xx)(Delta Labs).st" size 737280 crc 47dc70ba md5 2d35f06bebcb54f65107eecfe95fa76d )
+)
+
+game (
+	name "Delta Labs 046 (19xx)(Delta Labs)"
+	description "Delta Labs 046 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 046 (19xx)(Delta Labs).st" size 737280 crc 11aae9de md5 0e890204ba786fdc2387763f5935e765 )
+)
+
+game (
+	name "Delta Labs 047 (19xx)(Delta Labs)"
+	description "Delta Labs 047 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 047 (19xx)(Delta Labs).st" size 737280 crc 7b00a082 md5 c3f59eb95c8dafb42dc8b9ea9e576c67 )
+)
+
+game (
+	name "Delta Labs 048 (19xx)(Delta Labs)"
+	description "Delta Labs 048 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 048 (19xx)(Delta Labs).st" size 737280 crc 3d5ab0b1 md5 4983fbf9fb60cc2d02320a55729df9e6 )
+)
+
+game (
+	name "Delta Labs 049 (19xx)(Delta Labs)"
+	description "Delta Labs 049 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 049 (19xx)(Delta Labs).st" size 901120 crc 41e92a6e md5 d04de10ccd4bd3daf8eaa2d639d03f6d )
+)
+
+game (
+	name "Delta Labs 050 (19xx)(Delta Labs)"
+	description "Delta Labs 050 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 050 (19xx)(Delta Labs).st" size 737280 crc 519ae6aa md5 5d2da15ab6fd4c4d73a34887d922c28c )
+)
+
+game (
+	name "Delta Labs 051 (19xx)(Delta Labs)"
+	description "Delta Labs 051 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 051 (19xx)(Delta Labs).st" size 737280 crc 3926fa4f md5 5e0fb4d05f0d617e2e48a2e2c948d816 )
+)
+
+game (
+	name "Delta Labs 052 (19xx)(Delta Labs)"
+	description "Delta Labs 052 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 052 (19xx)(Delta Labs).st" size 737280 crc 5e7a0fec md5 b55c49a304b45e24f252b5d6cbc7b098 )
+)
+
+game (
+	name "Delta Labs 053 (19xx)(Delta Labs)"
+	description "Delta Labs 053 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 053 (19xx)(Delta Labs).st" size 737280 crc 1a6033d9 md5 c2bbbae5eb4eb7b9e0c0accae5c33441 )
+)
+
+game (
+	name "Delta Labs 054 (19xx)(Delta Labs)"
+	description "Delta Labs 054 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 054 (19xx)(Delta Labs).st" size 737280 crc 4e0e6f55 md5 723f5f4b15c8c39c1693fd5777687ad6 )
+)
+
+game (
+	name "Delta Labs 055 (19xx)(Delta Labs)"
+	description "Delta Labs 055 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 055 (19xx)(Delta Labs).st" size 829440 crc d428f00e md5 3225e032c2c397d52adf094e535b83a9 )
+)
+
+game (
+	name "Delta Labs 056 (19xx)(Delta Labs)"
+	description "Delta Labs 056 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 056 (19xx)(Delta Labs).st" size 737280 crc cc29648e md5 37a190c469655ecd3da2ecbb419de0c0 )
+)
+
+game (
+	name "Delta Labs 057 (19xx)(Delta Labs)"
+	description "Delta Labs 057 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 057 (19xx)(Delta Labs).st" size 737280 crc b77b1baf md5 0da17eacd091d8c3a859b9d0cba4df87 )
+)
+
+game (
+	name "Delta Labs 058 (19xx)(Delta Labs)"
+	description "Delta Labs 058 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 058 (19xx)(Delta Labs).st" size 737280 crc 1645b3cd md5 fd965f63c96a4b52c7852ce4635232ed )
+)
+
+game (
+	name "Delta Labs 059 (19xx)(Delta Labs)"
+	description "Delta Labs 059 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 059 (19xx)(Delta Labs).st" size 901120 crc b8ffadd5 md5 5be1dbdc98d0d60b1a7e75e27ce85edd )
+)
+
+game (
+	name "Delta Labs 060 (19xx)(Delta Labs)"
+	description "Delta Labs 060 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 060 (19xx)(Delta Labs).st" size 737280 crc d4f5fad2 md5 cf942addf24684633271293fc1cf4401 )
+)
+
+game (
+	name "Delta Labs 061 (19xx)(Delta Labs)"
+	description "Delta Labs 061 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 061 (19xx)(Delta Labs).st" size 737280 crc b0c90841 md5 38df77a0db7b486799ee2d2da7925fa9 )
+)
+
+game (
+	name "Delta Labs 062 (19xx)(Delta Labs)"
+	description "Delta Labs 062 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 062 (19xx)(Delta Labs).st" size 737280 crc 0eb6ef61 md5 c376554a5c888e9415e298d798181d90 )
+)
+
+game (
+	name "Delta Labs 063 (19xx)(Delta Labs)"
+	description "Delta Labs 063 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 063 (19xx)(Delta Labs).st" size 764928 crc 4a40c58a md5 555fa435d5c6bbc629c8c484939849a2 )
+)
+
+game (
+	name "Delta Labs 064 (19xx)(Delta Labs)"
+	description "Delta Labs 064 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 064 (19xx)(Delta Labs).st" size 737280 crc c7ad465f md5 07af9dcee660c763209bfa2f9cf07c2f )
+)
+
+game (
+	name "Delta Labs 065 (19xx)(Delta Labs)"
+	description "Delta Labs 065 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 065 (19xx)(Delta Labs).st" size 737280 crc 2f00e8bc md5 50be87e3a41acfb07fbf3c9bf80dbef6 )
+)
+
+game (
+	name "Delta Labs 066 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 066 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 066 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1492992 crc 89d55920 md5 1335d42f64d0c35708bdecfb2372d1c5 )
+)
+
+game (
+	name "Delta Labs 066 (19xx)(Delta Labs)(Disk 2 of 5)"
+	description "Delta Labs 066 (19xx)(Delta Labs)(Disk 2 of 5)"
+	rom ( name "Delta Labs 066 (19xx)(Delta Labs)(Disk 2 of 5).st" size 1474560 crc ec976a20 md5 0c75ceaf471011ba59d8c6bcd50397b8 )
+)
+
+game (
+	name "Delta Labs 066 (19xx)(Delta Labs)(Disk 3 of 5)"
+	description "Delta Labs 066 (19xx)(Delta Labs)(Disk 3 of 5)"
+	rom ( name "Delta Labs 066 (19xx)(Delta Labs)(Disk 3 of 5).st" size 737280 crc 22a2b48f md5 c2e45263e81c8da043338f7606973d9b )
+)
+
+game (
+	name "Delta Labs 066 (19xx)(Delta Labs)(Disk 4 of 5)"
+	description "Delta Labs 066 (19xx)(Delta Labs)(Disk 4 of 5)"
+	rom ( name "Delta Labs 066 (19xx)(Delta Labs)(Disk 4 of 5).st" size 1474560 crc af19e4e0 md5 3b442e2958d031147980234720754524 )
+)
+
+game (
+	name "Delta Labs 066 (19xx)(Delta Labs)(Disk 5 of 5)"
+	description "Delta Labs 066 (19xx)(Delta Labs)(Disk 5 of 5)"
+	rom ( name "Delta Labs 066 (19xx)(Delta Labs)(Disk 5 of 5).st" size 1474560 crc 7d036a00 md5 bd272a786a6d814b23a3a04bf5fd1462 )
+)
+
+game (
+	name "Delta Labs 067 (19xx)(Delta Labs)"
+	description "Delta Labs 067 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 067 (19xx)(Delta Labs).st" size 737280 crc 44bcf790 md5 9efc288166710462ac8f8ad709cbfa0e )
+)
+
+game (
+	name "Delta Labs 068 (19xx)(Delta Labs)"
+	description "Delta Labs 068 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 068 (19xx)(Delta Labs).st" size 819200 crc 053e5e6a md5 7943b767206877c244649b5d1fd0d346 )
+)
+
+game (
+	name "Delta Labs 069 (19xx)(Delta Labs)"
+	description "Delta Labs 069 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 069 (19xx)(Delta Labs).st" size 737280 crc d785be58 md5 dcd36489795ebf2e1a50b7dbaa3f2b0c )
+)
+
+game (
+	name "Delta Labs 070 (19xx)(Delta Labs)"
+	description "Delta Labs 070 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 070 (19xx)(Delta Labs).st" size 737280 crc 3d3a4646 md5 51704355425a585ae005bb6511f612c2 )
+)
+
+game (
+	name "Delta Labs 071 (19xx)(Delta Labs)"
+	description "Delta Labs 071 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 071 (19xx)(Delta Labs).st" size 737280 crc 1f544c13 md5 36be33dc8c1350518ede8b27f7f7eb05 )
+)
+
+game (
+	name "Delta Labs 072 (19xx)(Delta Labs)"
+	description "Delta Labs 072 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 072 (19xx)(Delta Labs).st" size 737280 crc 26283977 md5 b3dfbb3c437a39f972885ed330476c71 )
+)
+
+game (
+	name "Delta Labs 073 (19xx)(Delta Labs)"
+	description "Delta Labs 073 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 073 (19xx)(Delta Labs).st" size 737280 crc 8ecd49b1 md5 4fb12f233e4d632b6dc318e7548f8538 )
+)
+
+game (
+	name "Delta Labs 074 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 074 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 074 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc e5ad60ec md5 ee06087e4b29f390f3a7056e81ebe815 )
+)
+
+game (
+	name "Delta Labs 074 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 074 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 074 (19xx)(Delta Labs)(Disk 2 of 2).st" size 901120 crc a9bc33cb md5 5456383c15d9d27b8b06c4d626ee4632 )
+)
+
+game (
+	name "Delta Labs 077 (19xx)(Delta Labs)"
+	description "Delta Labs 077 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 077 (19xx)(Delta Labs).st" size 737280 crc 0535d37b md5 c23284e7df5a596ffacd870100ea9fde )
+)
+
+game (
+	name "Delta Labs 078 (19xx)(Delta Labs)"
+	description "Delta Labs 078 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 078 (19xx)(Delta Labs).st" size 1474560 crc 6fe54634 md5 6791fce7820a477aab8a522b4e5502a2 )
+)
+
+game (
+	name "Delta Labs 079 (19xx)(Delta Labs)"
+	description "Delta Labs 079 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 079 (19xx)(Delta Labs).st" size 737280 crc 81a1554b md5 97a3cb741d337b978b631186763d5da6 )
+)
+
+game (
+	name "Delta Labs 080 (19xx)(Delta Labs)"
+	description "Delta Labs 080 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 080 (19xx)(Delta Labs).st" size 737280 crc 8f63ef34 md5 f313da279c006fe411bd2b0c3d686c93 )
+)
+
+game (
+	name "Delta Labs 081 (19xx)(Delta Labs)"
+	description "Delta Labs 081 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 081 (19xx)(Delta Labs).st" size 1474560 crc 3700603c md5 a420f5845b420794064b1d5a528eb1d1 )
+)
+
+game (
+	name "Delta Labs 082 (19xx)(Delta Labs)"
+	description "Delta Labs 082 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 082 (19xx)(Delta Labs).st" size 819200 crc bb82ec74 md5 777ae45ecc36c3ba0ac4abe54486b813 )
+)
+
+game (
+	name "Delta Labs 083 (19xx)(Delta Labs)"
+	description "Delta Labs 083 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 083 (19xx)(Delta Labs).st" size 819200 crc a1a8cd22 md5 a8f87a8819e992e74844b5721f6e2e36 )
+)
+
+game (
+	name "Delta Labs 084 (19xx)(Delta Labs)"
+	description "Delta Labs 084 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 084 (19xx)(Delta Labs).st" size 755712 crc c78a1994 md5 dd3e7f4a30461d0cb2de648db9d3575d )
+)
+
+game (
+	name "Delta Labs 085 (19xx)(Delta Labs)"
+	description "Delta Labs 085 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 085 (19xx)(Delta Labs).st" size 737280 crc 5892b2de md5 5e87f1c5d0f0153b8b2b654a8d8b542f )
+)
+
+game (
+	name "Delta Labs 086 (19xx)(Delta Labs)"
+	description "Delta Labs 086 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 086 (19xx)(Delta Labs).st" size 946176 crc 347d79ba md5 145b394e79cccc47631233d007d2ab26 )
+)
+
+game (
+	name "Delta Labs 087 (19xx)(Delta Labs)"
+	description "Delta Labs 087 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 087 (19xx)(Delta Labs).st" size 901120 crc 1b61f49a md5 07dbb6cd375afb9b0039ed946e90d55b )
+)
+
+game (
+	name "Delta Labs 088 (19xx)(Delta Labs)"
+	description "Delta Labs 088 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 088 (19xx)(Delta Labs).st" size 737280 crc da55d344 md5 6fe63b1ba13aea13a20120ea2dad5855 )
+)
+
+game (
+	name "Delta Labs 089 (19xx)(Delta Labs)"
+	description "Delta Labs 089 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 089 (19xx)(Delta Labs).st" size 1474560 crc 113051a0 md5 3442ca37112627fe7b45dc4b4aeb22b3 )
+)
+
+game (
+	name "Delta Labs 090 (19xx)(Delta Labs)"
+	description "Delta Labs 090 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 090 (19xx)(Delta Labs).st" size 737280 crc 5f639b43 md5 c7087374db178eff8c106667ddfde128 )
+)
+
+game (
+	name "Delta Labs 091 (19xx)(Delta Labs)"
+	description "Delta Labs 091 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 091 (19xx)(Delta Labs).st" size 737280 crc 44976992 md5 421acf535fcbe19b2032ffd871f96d47 )
+)
+
+game (
+	name "Delta Labs 092 (19xx)(Delta Labs)"
+	description "Delta Labs 092 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 092 (19xx)(Delta Labs).st" size 737280 crc e725ec68 md5 cc95eb8e8bdedf1957e022ada6817946 )
+)
+
+game (
+	name "Delta Labs 093 (19xx)(Delta Labs)"
+	description "Delta Labs 093 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 093 (19xx)(Delta Labs).st" size 737280 crc 3963ee33 md5 17c0200280acc08e6919ab965e003f9e )
+)
+
+game (
+	name "Delta Labs 094 (19xx)(Delta Labs)"
+	description "Delta Labs 094 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 094 (19xx)(Delta Labs).st" size 934912 crc 00f23da0 md5 bbff85102ba0372bc4eebd26b48470ec )
+)
+
+game (
+	name "Delta Labs 095 (19xx)(Delta Labs)"
+	description "Delta Labs 095 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 095 (19xx)(Delta Labs).st" size 1474560 crc baa8e5e3 md5 af38ab0d6cb9eb55f3e99cbeeaa67b8b )
+)
+
+game (
+	name "Delta Labs 096 (19xx)(Delta Labs)"
+	description "Delta Labs 096 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 096 (19xx)(Delta Labs).st" size 1474560 crc aa234e1f md5 8d62fb7866c41c802d605ab8ea51cbfe )
+)
+
+game (
+	name "Delta Labs 097 (19xx)(Delta Labs)"
+	description "Delta Labs 097 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 097 (19xx)(Delta Labs).st" size 737280 crc 0e79445c md5 c6b489655fa56007655f430a422d39f3 )
+)
+
+game (
+	name "Delta Labs 098 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 098 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 098 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc 8a3ba9b6 md5 65c5fc41b364be5da52af6d5bb5fb3f7 )
+)
+
+game (
+	name "Delta Labs 098 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 098 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 098 (19xx)(Delta Labs)(Disk 2 of 2).st" size 737280 crc 0abfe78b md5 da2b9b31338e350a0920766597a01608 )
+)
+
+game (
+	name "Delta Labs 099 (19xx)(Delta Labs)"
+	description "Delta Labs 099 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 099 (19xx)(Delta Labs).st" size 737280 crc 3ec9f8a8 md5 7e9bbde53bb042124d3269837a8bcaec )
+)
+
+game (
+	name "Delta Labs 100 (19xx)(Delta Labs)"
+	description "Delta Labs 100 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 100 (19xx)(Delta Labs).st" size 737280 crc ded6eb9a md5 d9a93884b8dec7694a67b9109c5a52cd )
+)
+
+game (
+	name "Delta Labs 101 (19xx)(Delta Labs)"
+	description "Delta Labs 101 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 101 (19xx)(Delta Labs).st" size 737280 crc 449ea467 md5 b36052a1c2ef8d3c6d4d4b5ae8b6afe0 )
+)
+
+game (
+	name "Delta Labs 102 (19xx)(Delta Labs)"
+	description "Delta Labs 102 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 102 (19xx)(Delta Labs).st" size 737280 crc 1c711339 md5 5883862021e6a6dc0190462f55c2e70f )
+)
+
+game (
+	name "Delta Labs 103 (19xx)(Delta Labs)"
+	description "Delta Labs 103 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 103 (19xx)(Delta Labs).st" size 737280 crc efbc2749 md5 66f7e23a44bf1a0621edfda81cfe20ae )
+)
+
+game (
+	name "Delta Labs 104 (19xx)(Delta Labs)"
+	description "Delta Labs 104 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 104 (19xx)(Delta Labs).st" size 737280 crc 83285acd md5 43c62dc168043799792cc3f1bbac55e8 )
+)
+
+game (
+	name "Delta Labs 105 (19xx)(Delta Labs)"
+	description "Delta Labs 105 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 105 (19xx)(Delta Labs).st" size 1474560 crc cbaade12 md5 9a3937984e80a054e992940be09a4729 )
+)
+
+game (
+	name "Delta Labs 106 (19xx)(Delta Labs)"
+	description "Delta Labs 106 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 106 (19xx)(Delta Labs).st" size 737280 crc 2626079e md5 adbae8f8f6dbc0e4d41e587345604835 )
+)
+
+game (
+	name "Delta Labs 107 (19xx)(Delta Labs)(Disk 1 of 4)"
+	description "Delta Labs 107 (19xx)(Delta Labs)(Disk 1 of 4)"
+	rom ( name "Delta Labs 107 (19xx)(Delta Labs)(Disk 1 of 4).st" size 737280 crc 98de6031 md5 4930ebf889b224f15e647c4de0bb8dcd )
+)
+
+game (
+	name "Delta Labs 107 (19xx)(Delta Labs)(Disk 2 of 4)"
+	description "Delta Labs 107 (19xx)(Delta Labs)(Disk 2 of 4)"
+	rom ( name "Delta Labs 107 (19xx)(Delta Labs)(Disk 2 of 4).st" size 901120 crc a00773fb md5 01f5071d12f661e75957538d3495e299 )
+)
+
+game (
+	name "Delta Labs 107 (19xx)(Delta Labs)(Disk 3 of 4)"
+	description "Delta Labs 107 (19xx)(Delta Labs)(Disk 3 of 4)"
+	rom ( name "Delta Labs 107 (19xx)(Delta Labs)(Disk 3 of 4).st" size 901120 crc 973d9fb3 md5 a8e832a9b482d6f1395b2f16103be048 )
+)
+
+game (
+	name "Delta Labs 107 (19xx)(Delta Labs)(Disk 4 of 4)"
+	description "Delta Labs 107 (19xx)(Delta Labs)(Disk 4 of 4)"
+	rom ( name "Delta Labs 107 (19xx)(Delta Labs)(Disk 4 of 4).st" size 901120 crc 805fd612 md5 f87fd922139d70bb0cbd70860ea5383d )
+)
+
+game (
+	name "Delta Labs 108 (19xx)(Delta Labs)"
+	description "Delta Labs 108 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 108 (19xx)(Delta Labs).st" size 819200 crc 9d7aa4f4 md5 3874f58ede05687779edfa93b41fe1bd )
+)
+
+game (
+	name "Delta Labs 109 (19xx)(Delta Labs)"
+	description "Delta Labs 109 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 109 (19xx)(Delta Labs).st" size 737280 crc ab3c6caf md5 bc467dcc340ed433161daecbd51f5675 )
+)
+
+game (
+	name "Delta Labs 110 (19xx)(Delta Labs)"
+	description "Delta Labs 110 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 110 (19xx)(Delta Labs).st" size 1492992 crc 8b16228b md5 a3d2fbb0fc3c6e794cd37998017fe476 )
+)
+
+game (
+	name "Delta Labs 111 (19xx)(Delta Labs)"
+	description "Delta Labs 111 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 111 (19xx)(Delta Labs).st" size 737280 crc 3655fa77 md5 52fd7aec5777a4196cd203c69fe725ef )
+)
+
+game (
+	name "Delta Labs 112 (19xx)(Delta Labs)"
+	description "Delta Labs 112 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 112 (19xx)(Delta Labs).st" size 901120 crc 7a1a8a96 md5 6e996ff0ae8a9b6961edb5319e47353c )
+)
+
+game (
+	name "Delta Labs 113 (19xx)(Delta Labs)"
+	description "Delta Labs 113 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 113 (19xx)(Delta Labs).st" size 737280 crc 8d8f6c7d md5 b7023e371e4f78ab8d95f820c0eba4fb )
+)
+
+game (
+	name "Delta Labs 114 (19xx)(Delta Labs)"
+	description "Delta Labs 114 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 114 (19xx)(Delta Labs).st" size 737280 crc 1194570e md5 6801c850580af22eba7c780a7e3df312 )
+)
+
+game (
+	name "Delta Labs 115 (19xx)(Delta Labs)"
+	description "Delta Labs 115 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 115 (19xx)(Delta Labs).st" size 737280 crc acd7d8ed md5 624ed580a7386003dd6abe8983edd011 )
+)
+
+game (
+	name "Delta Labs 116 (19xx)(Delta Labs)"
+	description "Delta Labs 116 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 116 (19xx)(Delta Labs).st" size 1474560 crc c375f0b5 md5 b055d9b016a8be47428b207fa606128f )
+)
+
+game (
+	name "Delta Labs 117 (19xx)(Delta Labs)"
+	description "Delta Labs 117 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 117 (19xx)(Delta Labs).st" size 737280 crc 46104e12 md5 3f7ec08c4e1d56edbbd4e8bebeeb17b4 )
+)
+
+game (
+	name "Delta Labs 118 (19xx)(Delta Labs)"
+	description "Delta Labs 118 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 118 (19xx)(Delta Labs).st" size 737280 crc 19d5ca3f md5 51f08f168b5d43f6873878364caca38a )
+)
+
+game (
+	name "Delta Labs 119 (19xx)(Delta Labs)"
+	description "Delta Labs 119 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 119 (19xx)(Delta Labs).st" size 1474560 crc 5efea7f0 md5 5e3f76e72e1c0bde3dfc957d7091d9dd )
+)
+
+game (
+	name "Delta Labs 120 (19xx)(Delta Labs)"
+	description "Delta Labs 120 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 120 (19xx)(Delta Labs).st" size 737280 crc 790e3196 md5 ad525da037eac67d9e506950bd121a5e )
+)
+
+game (
+	name "Delta Labs 121 (19xx)(Delta Labs)"
+	description "Delta Labs 121 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 121 (19xx)(Delta Labs).st" size 839680 crc cf6bab80 md5 348a473a4387cac150723a9a123fbdb6 )
+)
+
+game (
+	name "Delta Labs 122 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 122 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 122 (19xx)(Delta Labs)(Disk 1 of 2).st" size 1474560 crc 8993111a md5 79391605815ebba0ee48a88e3c99a6a1 )
+)
+
+game (
+	name "Delta Labs 122 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 122 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 122 (19xx)(Delta Labs)(Disk 2 of 2).st" size 819200 crc e121c0d0 md5 a5ebba2149bfa0eafe6ec9ca0861ee59 )
+)
+
+game (
+	name "Delta Labs 123 (19xx)(Delta Labs)"
+	description "Delta Labs 123 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 123 (19xx)(Delta Labs).st" size 819200 crc 9d8cf2d4 md5 f0401d5b99e2f7de1b4ce54106d3e74f )
+)
+
+game (
+	name "Delta Labs 124 (19xx)(Delta Labs)"
+	description "Delta Labs 124 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 124 (19xx)(Delta Labs).st" size 737280 crc 2019a7df md5 3309287a0ed19871d399539909f39fc1 )
+)
+
+game (
+	name "Delta Labs 125 (19xx)(Delta Labs)"
+	description "Delta Labs 125 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 125 (19xx)(Delta Labs).st" size 737280 crc 926f81bf md5 162af32dccf86ca41dd77ea63298a880 )
+)
+
+game (
+	name "Delta Labs 126 (19xx)(Delta Labs)"
+	description "Delta Labs 126 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 126 (19xx)(Delta Labs).st" size 755712 crc 0b3da987 md5 1822077ea38ada6310bf8dcebd0dfffa )
+)
+
+game (
+	name "Delta Labs 127 (19xx)(Delta Labs)"
+	description "Delta Labs 127 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 127 (19xx)(Delta Labs).st" size 829440 crc ece7b7c9 md5 c730d8c6dd31642749db952ca70d750b )
+)
+
+game (
+	name "Delta Labs 128 (19xx)(Delta Labs)"
+	description "Delta Labs 128 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 128 (19xx)(Delta Labs).st" size 819200 crc c894aabf md5 c766f98ebc1f1978484239602aa0e513 )
+)
+
+game (
+	name "Delta Labs 129 (19xx)(Delta Labs)"
+	description "Delta Labs 129 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 129 (19xx)(Delta Labs).st" size 737280 crc 74bf92a5 md5 0347763c2d0a904190048fe44502e864 )
+)
+
+game (
+	name "Delta Labs 130 (19xx)(Delta Labs)"
+	description "Delta Labs 130 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 130 (19xx)(Delta Labs).st" size 819200 crc d3396773 md5 e504574bdbaf2521032e85832d49025f )
+)
+
+game (
+	name "Delta Labs 131 (19xx)(Delta Labs)"
+	description "Delta Labs 131 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 131 (19xx)(Delta Labs).st" size 737280 crc ba9f7ec8 md5 b839c3a13c27a890a31660d61fef92e4 )
+)
+
+game (
+	name "Delta Labs 132 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 132 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 132 (19xx)(Delta Labs)(Disk 1 of 2).st" size 901120 crc ee86bff7 md5 1b20228250b7719ebc58bf7702d87ee3 )
+)
+
+game (
+	name "Delta Labs 132 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 132 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 132 (19xx)(Delta Labs)(Disk 2 of 2).st" size 901120 crc d4b71019 md5 fd15ac5138a9aad5e79ee1759f4ff2df )
+)
+
+game (
+	name "Delta Labs 133 (19xx)(Delta Labs)"
+	description "Delta Labs 133 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 133 (19xx)(Delta Labs).st" size 946176 crc f84693a4 md5 2a0c58030274588265a06fac62457f7f )
+)
+
+game (
+	name "Delta Labs 134 (19xx)(Delta Labs)[u]"
+	description "Delta Labs 134 (19xx)(Delta Labs)[u]"
+	rom ( name "Delta Labs 134 (19xx)(Delta Labs)[u].st" size 737280 crc a476595d md5 3a6f7c53f98754acf6c451d547e99d23 )
+)
+
+game (
+	name "Delta Labs 135 (19xx)(Delta Labs)"
+	description "Delta Labs 135 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 135 (19xx)(Delta Labs).st" size 737280 crc 75bbc967 md5 73acd2f99ee4bc217c336549735a8f3c )
+)
+
+game (
+	name "Delta Labs 136 (19xx)(Delta Labs)"
+	description "Delta Labs 136 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 136 (19xx)(Delta Labs).st" size 737280 crc 708c94c9 md5 2ea222c6deaa9e1ec48ff2daa5423b04 )
+)
+
+game (
+	name "Delta Labs 137 (19xx)(Delta Labs)"
+	description "Delta Labs 137 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 137 (19xx)(Delta Labs).st" size 737280 crc f3d5fbd9 md5 142d957b60b9569f63018cc2bfc702c7 )
+)
+
+game (
+	name "Delta Labs 138 (19xx)(Delta Labs)"
+	description "Delta Labs 138 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 138 (19xx)(Delta Labs).st" size 746496 crc 19bbcb55 md5 9ef05318fd3d95cc776e7b3ab654fc48 )
+)
+
+game (
+	name "Delta Labs 139 (19xx)(Delta Labs)"
+	description "Delta Labs 139 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 139 (19xx)(Delta Labs).st" size 737280 crc 49d1fd60 md5 6f54844706c6661e222a0aced533b96e )
+)
+
+game (
+	name "Delta Labs 140 (19xx)(Delta Labs)"
+	description "Delta Labs 140 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 140 (19xx)(Delta Labs).st" size 737280 crc 0e6ea113 md5 e28d9e7f841894188611c5a2508b5f28 )
+)
+
+game (
+	name "Delta Labs 141 (19xx)(Delta Labs)"
+	description "Delta Labs 141 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 141 (19xx)(Delta Labs).st" size 737280 crc 22fbdfa0 md5 b6d22aa807e9be5beed2327d4c7bd682 )
+)
+
+game (
+	name "Delta Labs 142 (19xx)(Delta Labs)"
+	description "Delta Labs 142 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 142 (19xx)(Delta Labs).st" size 819200 crc ce98f7c0 md5 86b452cfc197ebbb74190ca92a29c3e2 )
+)
+
+game (
+	name "Delta Labs 143 (19xx)(Delta Labs)(Disk 1 of 4)"
+	description "Delta Labs 143 (19xx)(Delta Labs)(Disk 1 of 4)"
+	rom ( name "Delta Labs 143 (19xx)(Delta Labs)(Disk 1 of 4).st" size 737280 crc 2624dc2a md5 b8ba0c7d4b6e4cd4354e2b02c461397d )
+)
+
+game (
+	name "Delta Labs 143 (19xx)(Delta Labs)(Disk 2 of 4)"
+	description "Delta Labs 143 (19xx)(Delta Labs)(Disk 2 of 4)"
+	rom ( name "Delta Labs 143 (19xx)(Delta Labs)(Disk 2 of 4).st" size 829440 crc 59e68a02 md5 9a0c42aec1f4a469fd3af4bc38828bce )
+)
+
+game (
+	name "Delta Labs 143 (19xx)(Delta Labs)(Disk 3 of 4)"
+	description "Delta Labs 143 (19xx)(Delta Labs)(Disk 3 of 4)"
+	rom ( name "Delta Labs 143 (19xx)(Delta Labs)(Disk 3 of 4).st" size 737280 crc 59392e7d md5 b77912b216a4cf6367985119e29f38ae )
+)
+
+game (
+	name "Delta Labs 143 (19xx)(Delta Labs)(Disk 4 of 4)"
+	description "Delta Labs 143 (19xx)(Delta Labs)(Disk 4 of 4)"
+	rom ( name "Delta Labs 143 (19xx)(Delta Labs)(Disk 4 of 4).st" size 737280 crc d79b178f md5 3de3758a257294037f6af3380d5bcc1b )
+)
+
+game (
+	name "Delta Labs 144 (19xx)(Delta Labs)"
+	description "Delta Labs 144 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 144 (19xx)(Delta Labs).st" size 737280 crc c35b15cb md5 169933c58aca94a36aac190c75f7c049 )
+)
+
+game (
+	name "Delta Labs 145 (19xx)(Delta Labs)"
+	description "Delta Labs 145 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 145 (19xx)(Delta Labs).st" size 737280 crc 4ecece67 md5 89a1fc56890ef1d8d0016752d19d8395 )
+)
+
+game (
+	name "Delta Labs 146 (19xx)(Delta Labs)"
+	description "Delta Labs 146 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 146 (19xx)(Delta Labs).st" size 1474560 crc 2025a9fd md5 458718e5b3cc1a08fc0ec402743b67f3 )
+)
+
+game (
+	name "Delta Labs 147 (19xx)(Delta Labs)"
+	description "Delta Labs 147 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 147 (19xx)(Delta Labs).st" size 1474560 crc edb830d3 md5 5d4bcd78e825335d984cd7bedc460ca9 )
+)
+
+game (
+	name "Delta Labs 148 (19xx)(Delta Labs)"
+	description "Delta Labs 148 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 148 (19xx)(Delta Labs).st" size 934912 crc ea56dc8f md5 169d353916af6a2dbdd71e5bdbb70ee6 )
+)
+
+game (
+	name "Delta Labs 149 (19xx)(Delta Labs)"
+	description "Delta Labs 149 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 149 (19xx)(Delta Labs).st" size 737280 crc 6bd0b385 md5 1c1582fd9eb8af5762a8088cecfaa3cc )
+)
+
+game (
+	name "Delta Labs 150 (19xx)(Delta Labs)"
+	description "Delta Labs 150 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 150 (19xx)(Delta Labs).st" size 737280 crc 35f941c9 md5 929c3657f4b808c6037dff03d80f894b )
+)
+
+game (
+	name "Delta Labs 151 (19xx)(Delta Labs)"
+	description "Delta Labs 151 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 151 (19xx)(Delta Labs).st" size 737280 crc 19534121 md5 9ea4b469a6221dafe7d3a5eda63eaffa )
+)
+
+game (
+	name "Delta Labs 152 (19xx)(Delta Labs)"
+	description "Delta Labs 152 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 152 (19xx)(Delta Labs).st" size 901120 crc 81c21202 md5 a1ab5931ca31dce0fc0d9c2713c385c9 )
+)
+
+game (
+	name "Delta Labs 153 (19xx)(Delta Labs)"
+	description "Delta Labs 153 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 153 (19xx)(Delta Labs).st" size 1474560 crc 9e44efc7 md5 3a2d102becca55b1133fbe912c65c59b )
+)
+
+game (
+	name "Delta Labs 154 (19xx)(Delta Labs)"
+	description "Delta Labs 154 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 154 (19xx)(Delta Labs).st" size 819200 crc 13538b68 md5 d86d7dc85b6421ef4a979ef179837ee7 )
+)
+
+game (
+	name "Delta Labs 155 (19xx)(Delta Labs)"
+	description "Delta Labs 155 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 155 (19xx)(Delta Labs).st" size 737280 crc 8f9ea271 md5 c5bd57d0a407c59c42a3b645e577df1c )
+)
+
+game (
+	name "Delta Labs 156 (19xx)(Delta Labs)"
+	description "Delta Labs 156 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 156 (19xx)(Delta Labs).st" size 737280 crc 9ae895db md5 72dbfb0c38ec76f63585565ad0f5496b )
+)
+
+game (
+	name "Delta Labs 157 (19xx)(Delta Labs)"
+	description "Delta Labs 157 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 157 (19xx)(Delta Labs).st" size 737280 crc feedd1a8 md5 54ff0568b0f867e964250fd9c2127f0b )
+)
+
+game (
+	name "Delta Labs 158 (19xx)(Delta Labs)"
+	description "Delta Labs 158 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 158 (19xx)(Delta Labs).st" size 1474560 crc 9bf5faa8 md5 5b573a3ef1ccd6aaa7ed32decb8b2998 )
+)
+
+game (
+	name "Delta Labs 159 (19xx)(Delta Labs)(Disk 1 of 3)"
+	description "Delta Labs 159 (19xx)(Delta Labs)(Disk 1 of 3)"
+	rom ( name "Delta Labs 159 (19xx)(Delta Labs)(Disk 1 of 3).st" size 1474560 crc 62364a93 md5 5aa1e541e2857c320c72da926f45bd4d )
+)
+
+game (
+	name "Delta Labs 159 (19xx)(Delta Labs)(Disk 2 of 3)"
+	description "Delta Labs 159 (19xx)(Delta Labs)(Disk 2 of 3)"
+	rom ( name "Delta Labs 159 (19xx)(Delta Labs)(Disk 2 of 3).st" size 819200 crc 6c0fa0e6 md5 eef5e86d4faf93101948b2d6a4c38778 )
+)
+
+game (
+	name "Delta Labs 159 (19xx)(Delta Labs)(Disk 3 of 3)"
+	description "Delta Labs 159 (19xx)(Delta Labs)(Disk 3 of 3)"
+	rom ( name "Delta Labs 159 (19xx)(Delta Labs)(Disk 3 of 3).st" size 901120 crc 5f995fbd md5 cd2da94c4708e91729c558af4f9e56fa )
+)
+
+game (
+	name "Delta Labs 160 (19xx)(Delta Labs)"
+	description "Delta Labs 160 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 160 (19xx)(Delta Labs).st" size 923648 crc 80a59d01 md5 dae2386b6d37d2be773558a67bbcd0ac )
+)
+
+game (
+	name "Delta Labs 161 (19xx)(Delta Labs)"
+	description "Delta Labs 161 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 161 (19xx)(Delta Labs).st" size 737280 crc 987d2e4d md5 c07fc6a61f1d63336d8bfe348afdfaf9 )
+)
+
+game (
+	name "Delta Labs 162 (19xx)(Delta Labs)"
+	description "Delta Labs 162 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 162 (19xx)(Delta Labs).st" size 737280 crc ff8fa57e md5 b187c68d2d1efca57f9752a8fdd60068 )
+)
+
+game (
+	name "Delta Labs 163 (19xx)(Delta Labs)"
+	description "Delta Labs 163 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 163 (19xx)(Delta Labs).st" size 746496 crc 600ebcba md5 e7f8bdc7e9f37285b621d1266f56f4ab )
+)
+
+game (
+	name "Delta Labs 164 (19xx)(Delta Labs)(Disk 1 of 3)"
+	description "Delta Labs 164 (19xx)(Delta Labs)(Disk 1 of 3)"
+	rom ( name "Delta Labs 164 (19xx)(Delta Labs)(Disk 1 of 3).st" size 1474560 crc 7baa549e md5 35a674783b7c3e2f0038b106b3f78abf )
+)
+
+game (
+	name "Delta Labs 164 (19xx)(Delta Labs)(Disk 2 of 3)"
+	description "Delta Labs 164 (19xx)(Delta Labs)(Disk 2 of 3)"
+	rom ( name "Delta Labs 164 (19xx)(Delta Labs)(Disk 2 of 3).st" size 737280 crc c6466d78 md5 b017022d0e72676d25db749b99d15f26 )
+)
+
+game (
+	name "Delta Labs 164 (19xx)(Delta Labs)(Disk 3 of 3)"
+	description "Delta Labs 164 (19xx)(Delta Labs)(Disk 3 of 3)"
+	rom ( name "Delta Labs 164 (19xx)(Delta Labs)(Disk 3 of 3).st" size 901120 crc 2db3d742 md5 b225a0925982c837bf86a4ee9fd68a26 )
+)
+
+game (
+	name "Delta Labs 165 (19xx)(Delta Labs)"
+	description "Delta Labs 165 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 165 (19xx)(Delta Labs).st" size 755712 crc 905fef5f md5 955003f33bd7bb1d5f82c4921f501afd )
+)
+
+game (
+	name "Delta Labs 166 (19xx)(Delta Labs)"
+	description "Delta Labs 166 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 166 (19xx)(Delta Labs).st" size 737280 crc a1db039d md5 5d375fe01b9197b3988e7d997cb27951 )
+)
+
+game (
+	name "Delta Labs 167 (19xx)(Delta Labs)"
+	description "Delta Labs 167 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 167 (19xx)(Delta Labs).st" size 737280 crc af4f5d15 md5 5b8b1c99d2356d816af44ca42a56b0d8 )
+)
+
+game (
+	name "Delta Labs 168 (19xx)(Delta Labs)"
+	description "Delta Labs 168 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 168 (19xx)(Delta Labs).st" size 737280 crc d142079d md5 644584fe09f4b2154a6e36ff9166d3b4 )
+)
+
+game (
+	name "Delta Labs 169 (19xx)(Delta Labs)"
+	description "Delta Labs 169 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 169 (19xx)(Delta Labs).st" size 737280 crc 5b22bf30 md5 e3f32836b49b0d58d3d20dfff17c71da )
+)
+
+game (
+	name "Delta Labs 170 (19xx)(Delta Labs)"
+	description "Delta Labs 170 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 170 (19xx)(Delta Labs).st" size 737280 crc 5377d039 md5 63c6bf052ce802e1198df20b0a0b305e )
+)
+
+game (
+	name "Delta Labs 171 (19xx)(Delta Labs)"
+	description "Delta Labs 171 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 171 (19xx)(Delta Labs).st" size 737280 crc 86e0aedb md5 0d260faf8d0033a33403d24865061122 )
+)
+
+game (
+	name "Delta Labs 172 (19xx)(Delta Labs)"
+	description "Delta Labs 172 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 172 (19xx)(Delta Labs).st" size 737280 crc ac5b8a18 md5 701f82680513e46ff7c3ee9d02d0d8b2 )
+)
+
+game (
+	name "Delta Labs 173 (19xx)(Delta Labs)"
+	description "Delta Labs 173 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 173 (19xx)(Delta Labs).st" size 737280 crc 8be11ebb md5 0332fcb209ddff48475de28fb972b09c )
+)
+
+game (
+	name "Delta Labs 174 (19xx)(Delta Labs)"
+	description "Delta Labs 174 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 174 (19xx)(Delta Labs).st" size 737280 crc 34400ea9 md5 440653871f0d34eadf3d4664a4f9ac8d )
+)
+
+game (
+	name "Delta Labs 175 (19xx)(Delta Labs)"
+	description "Delta Labs 175 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 175 (19xx)(Delta Labs).st" size 737280 crc 7c52bf2f md5 40b3f909bc6048047b5fa922d9d9905f )
+)
+
+game (
+	name "Delta Labs 176 (19xx)(Delta Labs)"
+	description "Delta Labs 176 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 176 (19xx)(Delta Labs).st" size 1474560 crc a312ed3b md5 97fe7e821c6aeaaf30f5fffd415a43b1 )
+)
+
+game (
+	name "Delta Labs 177 (19xx)(Delta Labs)"
+	description "Delta Labs 177 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 177 (19xx)(Delta Labs).st" size 737280 crc b6c0d1bf md5 2751c27305eb7c53cf6cf413c21d3136 )
+)
+
+game (
+	name "Delta Labs 178 (19xx)(Delta Labs)"
+	description "Delta Labs 178 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 178 (19xx)(Delta Labs).st" size 737280 crc 722f9839 md5 4c18993afec3e2e190e56d28bd27f2ef )
+)
+
+game (
+	name "Delta Labs 179 (19xx)(Delta Labs)"
+	description "Delta Labs 179 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 179 (19xx)(Delta Labs).st" size 737280 crc c73a850e md5 622663eec4bc4f641566cf55e148a2bf )
+)
+
+game (
+	name "Delta Labs 180 (19xx)(Delta Labs)"
+	description "Delta Labs 180 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 180 (19xx)(Delta Labs).st" size 901120 crc 035e3716 md5 59ca01adc34cfba9cc64c23f245317b5 )
+)
+
+game (
+	name "Delta Labs 181 (19xx)(Delta Labs)(Disk 1 of 2)"
+	description "Delta Labs 181 (19xx)(Delta Labs)(Disk 1 of 2)"
+	rom ( name "Delta Labs 181 (19xx)(Delta Labs)(Disk 1 of 2).st" size 737280 crc f39cc5c0 md5 669b7f13c18bcddb83a003885768505f )
+)
+
+game (
+	name "Delta Labs 181 (19xx)(Delta Labs)(Disk 2 of 2)"
+	description "Delta Labs 181 (19xx)(Delta Labs)(Disk 2 of 2)"
+	rom ( name "Delta Labs 181 (19xx)(Delta Labs)(Disk 2 of 2).st" size 1474560 crc 65b55d7b md5 09f1671b0633a513e247d6fc84929591 )
+)
+
+game (
+	name "Delta Labs 182 (19xx)(Delta Labs)"
+	description "Delta Labs 182 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 182 (19xx)(Delta Labs).st" size 819200 crc 1bb14fa9 md5 44457443bd86ce8234bbd125b85af3a2 )
+)
+
+game (
+	name "Delta Labs 183 (19xx)(Delta Labs)"
+	description "Delta Labs 183 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 183 (19xx)(Delta Labs).st" size 755712 crc 953d9d4e md5 30b7aa4e133430250808944a91187b1d )
+)
+
+game (
+	name "Delta Labs 184 (19xx)(Delta Labs)"
+	description "Delta Labs 184 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 184 (19xx)(Delta Labs).st" size 737280 crc b65c20e6 md5 51465bcc64307e2e08efc45f87b34b7a )
+)
+
+game (
+	name "Delta Labs 185 (19xx)(Delta Labs)"
+	description "Delta Labs 185 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 185 (19xx)(Delta Labs).st" size 901120 crc ba58722e md5 e6512a501655961de822ae678c2fd803 )
+)
+
+game (
+	name "Delta Labs 186 (19xx)(Delta Labs)"
+	description "Delta Labs 186 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 186 (19xx)(Delta Labs).st" size 1474560 crc 12e7fa2a md5 fd6f5afad9ebec6843fde153c26c0929 )
+)
+
+game (
+	name "Delta Labs 187 (19xx)(Delta Labs)"
+	description "Delta Labs 187 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 187 (19xx)(Delta Labs).st" size 737280 crc 141d2732 md5 98e6eb388a55d670a7c18e66bac7f506 )
+)
+
+game (
+	name "Delta Labs 188 (19xx)(Delta Labs)"
+	description "Delta Labs 188 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 188 (19xx)(Delta Labs).st" size 737280 crc 7e528077 md5 a7621b3c995f722e219e7af2b2b2039b )
+)
+
+game (
+	name "Delta Labs 189 (19xx)(Delta Labs)"
+	description "Delta Labs 189 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 189 (19xx)(Delta Labs).st" size 819200 crc 9ae724cb md5 cbcd94ce042f469fe82864c382f583f9 )
+)
+
+game (
+	name "Delta Labs 190 (19xx)(Delta Labs)"
+	description "Delta Labs 190 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 190 (19xx)(Delta Labs).st" size 819200 crc 81e95f4f md5 0e16f9a8bd0da15e4a4d94b6d614795b )
+)
+
+game (
+	name "Delta Labs 191 (19xx)(Delta Labs)"
+	description "Delta Labs 191 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 191 (19xx)(Delta Labs).st" size 764928 crc 511d1c47 md5 e46d8ee1bbfca768a4fff6c2e9920849 )
+)
+
+game (
+	name "Delta Labs 192 (19xx)(Delta Labs)"
+	description "Delta Labs 192 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 192 (19xx)(Delta Labs).st" size 737280 crc e337a587 md5 15002b4528967d09ceb827e8dcfa9366 )
+)
+
+game (
+	name "Delta Labs 193 (19xx)(Delta Labs)"
+	description "Delta Labs 193 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 193 (19xx)(Delta Labs).st" size 860160 crc 0219e734 md5 7cbb2f0384781d295612e2f104506a21 )
+)
+
+game (
+	name "Delta Labs 194 (19xx)(Delta Labs)"
+	description "Delta Labs 194 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 194 (19xx)(Delta Labs).st" size 737280 crc 7e02b3ea md5 1e5d13971571a2d6664b8a007031035a )
+)
+
+game (
+	name "Delta Labs 195 (19xx)(Delta Labs)"
+	description "Delta Labs 195 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 195 (19xx)(Delta Labs).st" size 737280 crc cfccc94a md5 22c4c4c2aa4442e09dd846470b6613a2 )
+)
+
+game (
+	name "Delta Labs 196 (19xx)(Delta Labs)"
+	description "Delta Labs 196 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 196 (19xx)(Delta Labs).st" size 860160 crc 6f485dd4 md5 be581bcd7b1d7fea45ed9cc201de0160 )
+)
+
+game (
+	name "Delta Labs 197 (19xx)(Delta Labs)"
+	description "Delta Labs 197 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 197 (19xx)(Delta Labs).st" size 737280 crc 9f2e8d72 md5 69a5a13bdfb00574b3eb818b45b9e9c1 )
+)
+
+game (
+	name "Delta Labs 198 (19xx)(Delta Labs)"
+	description "Delta Labs 198 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 198 (19xx)(Delta Labs).st" size 1474560 crc f3df0002 md5 28da8174631393b2f995409842f9d870 )
+)
+
+game (
+	name "Delta Labs 199 (19xx)(Delta Labs)"
+	description "Delta Labs 199 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 199 (19xx)(Delta Labs).st" size 737280 crc e108c958 md5 858e44a189c9f409681e016f37eab757 )
+)
+
+game (
+	name "Delta Labs 200 (19xx)(Delta Labs)"
+	description "Delta Labs 200 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 200 (19xx)(Delta Labs).st" size 737280 crc 267ee81d md5 3b93cd93a53325c35d50ec532dab650f )
+)
+
+game (
+	name "Delta Labs 201 (19xx)(Delta Labs)"
+	description "Delta Labs 201 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 201 (19xx)(Delta Labs).st" size 901120 crc 839a95af md5 3d2ddde431e91166c28d1ec90fe80d74 )
+)
+
+game (
+	name "Delta Labs 202 (19xx)(Delta Labs)"
+	description "Delta Labs 202 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 202 (19xx)(Delta Labs).st" size 901120 crc 5ab1207a md5 3a29efd9194fa2aa2895d04792e200c2 )
+)
+
+game (
+	name "Delta Labs 203 (19xx)(Delta Labs)(Disk 1 of 3)"
+	description "Delta Labs 203 (19xx)(Delta Labs)(Disk 1 of 3)"
+	rom ( name "Delta Labs 203 (19xx)(Delta Labs)(Disk 1 of 3).st" size 901120 crc 5458ef1a md5 0888bc305bb76c260c2f46de2a6e5f63 )
+)
+
+game (
+	name "Delta Labs 203 (19xx)(Delta Labs)(Disk 2 of 3)"
+	description "Delta Labs 203 (19xx)(Delta Labs)(Disk 2 of 3)"
+	rom ( name "Delta Labs 203 (19xx)(Delta Labs)(Disk 2 of 3).st" size 746496 crc 44f47a36 md5 ea06efd6a3bec5a26c3a9f627a539b65 )
+)
+
+game (
+	name "Delta Labs 203 (19xx)(Delta Labs)(Disk 3 of 3)"
+	description "Delta Labs 203 (19xx)(Delta Labs)(Disk 3 of 3)"
+	rom ( name "Delta Labs 203 (19xx)(Delta Labs)(Disk 3 of 3).st" size 819200 crc 65ef98dc md5 37ad676da4fb951bbe5a3e7afb46b742 )
+)
+
+game (
+	name "Delta Labs 204 (19xx)(Delta Labs)"
+	description "Delta Labs 204 (19xx)(Delta Labs)"
+	rom ( name "Delta Labs 204 (19xx)(Delta Labs).st" size 737280 crc 1e7cf963 md5 781915e776ec888d30ca15e1573c1959 )
+)

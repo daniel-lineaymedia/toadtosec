@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Acorn BBC - Compilations - [UEF]"
+	description "Acorn BBC - Compilations - [UEF] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Compilations - [UEF]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "10 of the Best Games (19xx)(Database)"
+	description "10 of the Best Games (19xx)(Database)"
+	rom ( name "10 of the Best Games (19xx)(Database).uef" size 44861 crc b91766da md5 b02579488aba9d172fbff31e6c2fc81a )
+)
+
+game (
+	name "Best of Acorn User, The (19xx)(Acorn User)"
+	description "Best of Acorn User, The (19xx)(Acorn User)"
+	rom ( name "Best of Acorn User, The (19xx)(Acorn User).uef" size 39886 crc 9fa31048 md5 ffb57cf25d95bdb85b34bc3e1a07f9fc )
+)

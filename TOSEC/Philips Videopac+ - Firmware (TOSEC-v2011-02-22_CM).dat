@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Philips Videopac+ - Firmware"
+	description "Philips Videopac+ - Firmware (TOSEC-v2011-02-22)"
+	category "Philips Videopac+ - Firmware"
+	version 2011-02-22
+	author "Cassiel"
+)
+
+game (
+	name "Brandt Jopac (198x)(Philips)(FR)"
+	description "Brandt Jopac (198x)(Philips)(FR)"
+	rom ( name "Brandt Jopac (198x)(Philips)(FR).bin" size 1024 crc 11647ca5 md5 279008e4a0db2dc5f1c048853b033828 sha1 54b8d2c1317628de51a85fc1c424423a986775e4 )
+)
+
+game (
+	name "Philips Videopac+ (198x)(Philips)(EU)"
+	description "Philips Videopac+ (198x)(Philips)(EU)"
+	rom ( name "Philips Videopac+ (198x)(Philips)(EU).bin" size 1024 crc e20a9f41 md5 c500ff71236068e0dc0d0603d265ae76 sha1 5130243429b40b01a14e1304d0394b8459a6fbae )
+)
+

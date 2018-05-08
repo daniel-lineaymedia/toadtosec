@@ -1,0 +1,278 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [T64]"
+	description "Commodore C64 - Educational - [T64] (TOSEC-v2012-12-20)"
+	category "Commodore C64 - Educational - [T64]"
+	version 2012-12-20
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Balance (1984)(Granada Publishing)"
+	description "Balance (1984)(Granada Publishing)"
+	rom ( name "Balance (1984)(Granada Publishing).t64" size 3141 crc 52730721 md5 581b8fb568c3437db07772e3d1b93234 sha1 9f35268ef44c93cc15a1fa9379eb630d9dc112f5 )
+)
+
+game (
+	name "Balance Chemical Equations (1983)(CES)"
+	description "Balance Chemical Equations (1983)(CES)"
+	rom ( name "Balance Chemical Equations (1983)(CES).t64" size 15466 crc 4bef699e md5 dbf1a3366bd757e2b66addb5872456e9 sha1 d566180eb6d7743ff35c94a03fdea309e0efc033 )
+)
+
+game (
+	name "Bandiere (198x)(CESE S.R.L.)(it)"
+	description "Bandiere (198x)(CESE S.R.L.)(it)"
+	rom ( name "Bandiere (198x)(CESE S.R.L.)(it).t64" size 13876 crc 77fa8391 md5 78010c548b82f6bd0d05eaf30012f6e0 sha1 d82329d4ec36435837aeb1df41a2c60dc9cd76bb )
+)
+
+game (
+	name "Bar Chart (1984)(Granada Publishing)"
+	description "Bar Chart (1984)(Granada Publishing)"
+	rom ( name "Bar Chart (1984)(Granada Publishing).t64" size 1427 crc da5a2b9e md5 83f975e00f682f83f537136ed38aac3f sha1 b7f92e93c190f47a4c09fef8030563fa3028c9c4 )
+)
+
+game (
+	name "Basic Math (198x)(Dhaliwal, G.)"
+	description "Basic Math (198x)(Dhaliwal, G.)"
+	rom ( name "Basic Math (198x)(Dhaliwal, G.).t64" size 8140 crc e8bc1ce4 md5 13a94dcbcfdbd6033e23c8fd238965de sha1 5664f35f7f38e51da577184cfa000752b571ea2f )
+)
+
+game (
+	name "Big Alphabet (1988)(UpTime Magazine)"
+	description "Big Alphabet (1988)(UpTime Magazine)"
+	rom ( name "Big Alphabet (1988)(UpTime Magazine).t64" size 4676 crc e262e096 md5 62692f22ccf954a6b72ca60211af290e sha1 c512d011baf6faea8ed6673ba756613bb36b2adf )
+)
+
+game (
+	name "Big Math (1983)(CES)"
+	description "Big Math (1983)(CES)"
+	rom ( name "Big Math (1983)(CES).t64" size 10256 crc 7bc394c5 md5 b9f68aeff87cbbe9193801c5dc8f53d9 sha1 0518f11e0f0cc23fe5eb66b6a66cefad7d2d35be )
+)
+
+game (
+	name "Big Ohm's Law (1983)(CES)"
+	description "Big Ohm's Law (1983)(CES)"
+	rom ( name "Big Ohm's Law (1983)(CES).t64" size 8002 crc f53d2f6b md5 d8c227d40163ba472321df1fee5997ef sha1 f4ac9104318149e2e74f000ea0728f04ee19c053 )
+)
+
+game (
+	name "Biology Test - 'O' Level (1983)(Calisto Ltd.)"
+	description "Biology Test - 'O' Level (1983)(Calisto Ltd.)"
+	rom ( name "Biology Test - 'O' Level (1983)(Calisto Ltd.).t64" size 21265 crc 421d683c md5 16ebf2e3d2b6341f2e9ed30ba2cdde6a sha1 a1a57fbaa7642cccb824b9600dcf1cff8d40fa43 )
+)
+
+game (
+	name "Braille (1983)(CES)"
+	description "Braille (1983)(CES)"
+	rom ( name "Braille (1983)(CES).t64" size 13666 crc 5d0154e3 md5 3fd23338c3ecd2520ceab62d1be17923 sha1 1c9253d11d80b074e9d484d2fd70d0a052e195e0 )
+)
+
+game (
+	name "Brain Teaser (2008)(Maly, J.)(de)"
+	description "Brain Teaser (2008)(Maly, J.)(de)"
+	rom ( name "Brain Teaser (2008)(Maly, J.)(de).t64" size 33694 crc 41788ba2 md5 e988ff8c740e26d4f6c1db60d2769c36 sha1 99c1c01da34ac710759065034c14def8871dc3c4 )
+)
+
+game (
+	name "Brownian Motion (1983)(CES)"
+	description "Brownian Motion (1983)(CES)"
+	rom ( name "Brownian Motion (1983)(CES).t64" size 7616 crc d3ef481d md5 0224af38385fa06a96538aeb9daf0566 sha1 ade97e62565eb32560f1f9b26b7411d7a64cb06d )
+)
+
+game (
+	name "Buchstabierbienchen (1984)(Markt & Technik)(de)"
+	description "Buchstabierbienchen (1984)(Markt & Technik)(de)"
+	rom ( name "Buchstabierbienchen (1984)(Markt & Technik)(de).t64" size 1685 crc 88296dd8 md5 2bf05a8645cb93adfaac8df4e2696ae5 sha1 3e933aa5e66458e8c29b529868c8eff569d25195 )
+)
+
+game (
+	name "Buoyancy (1983)(CES)"
+	description "Buoyancy (1983)(CES)"
+	rom ( name "Buoyancy (1983)(CES).t64" size 20328 crc aa5c4e01 md5 2a8ca19ca39deeea7e76835f673459f7 sha1 c58e41178cb71ab036669c491d20158b3aac7f99 )
+)
+
+game (
+	name "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan]"
+	description "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan]"
+	rom ( name "Calcul (1983)(Hebdogiciel)(fr)[cr Rio Baan].t64" size 4189 crc ceb6b202 md5 6765b7ed3db6bca02e52a29e20e0dce7 sha1 cffbbed89239cdb85222d69cbcb43facdf884c7b )
+)
+
+game (
+	name "Capitals (1983)(Phoenix Publishing Associates)"
+	description "Capitals (1983)(Phoenix Publishing Associates)"
+	rom ( name "Capitals (1983)(Phoenix Publishing Associates).t64" size 997 crc 845b42b6 md5 52f10c0961b7111e1940e035ab38c3f4 sha1 03a4b8c629e1fcfee36cbd59d4c5d62051c4f9e7 )
+)
+
+game (
+	name "Cascade (1983)(CES)"
+	description "Cascade (1983)(CES)"
+	rom ( name "Cascade (1983)(CES).t64" size 5893 crc 1cd2e5fd md5 3288c409156598d05e7f964743cdffcb sha1 812e4390be2601404e508a19dd1088d1e375726b )
+)
+
+game (
+	name "Charged Particles (1983)(CES)"
+	description "Charged Particles (1983)(CES)"
+	rom ( name "Charged Particles (1983)(CES).t64" size 20768 crc 6a31a504 md5 ce7e3e886eaca2a66a8935351bf0338a sha1 5c68240af6131d2645c1a757f9317dbd37a727ff )
+)
+
+game (
+	name "Chem-12 (1983)(CES)"
+	description "Chem-12 (1983)(CES)"
+	rom ( name "Chem-12 (1983)(CES).t64" size 11612 crc 27dd3979 md5 f65d1bd42aa97949b51cd49e796a6931 sha1 09d6abd804edadc1d3e1fe0ab6754c44aa4cec9c )
+)
+
+game (
+	name "Chemist (1983)(CES)"
+	description "Chemist (1983)(CES)"
+	rom ( name "Chemist (1983)(CES).t64" size 6585 crc ab16dbfb md5 8c78292e51febc495eda8d3cbfcdba43 sha1 c4f87d0c99e1ef350ba5c2ddbe19bfdaa0ef44db )
+)
+
+game (
+	name "Chemist (1984)(Granada Publishing)"
+	description "Chemist (1984)(Granada Publishing)"
+	rom ( name "Chemist (1984)(Granada Publishing).t64" size 2290 crc 23783af3 md5 17278db9f40c62affd38cf0f1f2c0b08 sha1 c0dc2e750ad20cfc7026da350962f62c6107040e )
+)
+
+game (
+	name "Chemistry (1983)(CES)"
+	description "Chemistry (1983)(CES)"
+	rom ( name "Chemistry (1983)(CES).t64" size 8605 crc f365a5d9 md5 e28fa4a4063d5b1ef525870cc007ef6a sha1 36308336ca14dec6a845815b9de2b6d29429ac94 )
+)
+
+game (
+	name "Chemistry Calc (1983)(CES)"
+	description "Chemistry Calc (1983)(CES)"
+	rom ( name "Chemistry Calc (1983)(CES).t64" size 6879 crc a0c4a926 md5 f9b8cec91e8ca0b4a31f2ea95cb6044f sha1 0495f682d70f067bc893b617d2dcfb90a1f1e6eb )
+)
+
+game (
+	name "Chemistry Test - 'O' Level (1983)(Calisto)"
+	description "Chemistry Test - 'O' Level (1983)(Calisto)"
+	rom ( name "Chemistry Test - 'O' Level (1983)(Calisto).t64" size 21875 crc 4b698d05 md5 355e7a76ae96fc7209a0ca5473be3126 sha1 df6fbca3ed5c2f848b3546d6b71ef3f8bc3148f8 )
+)
+
+game (
+	name "Chief (1978)(Creative Computing)[cr Rio Baan]"
+	description "Chief (1978)(Creative Computing)[cr Rio Baan]"
+	rom ( name "Chief (1978)(Creative Computing)[cr Rio Baan].t64" size 1466 crc e97a95f8 md5 4ebb8c36ecc2c12687ddcb8ec0c77a2d sha1 f1e70924bb59f7494e7675e010c96b7b4e19aa59 )
+)
+
+game (
+	name "Child Abuse (1983)(CES)"
+	description "Child Abuse (1983)(CES)"
+	rom ( name "Child Abuse (1983)(CES).t64" size 9466 crc dd6fe410 md5 80da1e75f7bb2685d891aafff0a0c46b sha1 4ae966964427a44f2ad0d986491bcfa1f18876d2 )
+)
+
+game (
+	name "Circuits (1983)(CES)"
+	description "Circuits (1983)(CES)"
+	rom ( name "Circuits (1983)(CES).t64" size 12775 crc 9cd092d8 md5 1bc72ca5c34c1b94b34d53a2db605205 sha1 16bf96d552739989cf14e6079ad64c65141539ef )
+)
+
+game (
+	name "Clues (1986)(Alpha Software)"
+	description "Clues (1986)(Alpha Software)"
+	rom ( name "Clues (1986)(Alpha Software).t64" size 2099 crc fc6f7680 md5 ef2136c9504c7d16d4a043ec5d7d03c3 sha1 95d26ab28c564eb553134c4c61d85defe688e25a )
+)
+
+game (
+	name "Coco (1982)(ISA Software)[cr j0x]"
+	description "Coco (1982)(ISA Software)[cr j0x]"
+	rom ( name "Coco (1982)(ISA Software)[cr j0x].t64" size 31160 crc 7b6993ed md5 3556eb30ead92f4f5f1c8b842c880246 sha1 6cf4a3e3d746dbbf60e06efcf7f8929218217cbd )
+)
+
+game (
+	name "Computer Haiku (19xx)(-)"
+	description "Computer Haiku (19xx)(-)"
+	rom ( name "Computer Haiku (19xx)(-).t64" size 3285 crc b1fe8228 md5 071e381f903279a955d256a84b23a11a sha1 73f3416b17cc14b624c79b5eaf5b39d6bd7611d1 )
+)
+
+game (
+	name "Computer History (1982)(CES)"
+	description "Computer History (1982)(CES)"
+	rom ( name "Computer History (1982)(CES).t64" size 23266 crc d058ad7b md5 c1a57d64f08c2f6522a16875156ef37b sha1 377b1aad5f6372801551bed83e6d04e7ae61ba16 )
+)
+
+game (
+	name "Computer History (1982)(CES)[a]"
+	description "Computer History (1982)(CES)[a]"
+	rom ( name "Computer History (1982)(CES)[a].t64" size 23266 crc 76601439 md5 471272bc13de2172fde3eea9d90d0759 sha1 931ac4da657d14643d56eeb0927baa6754dcedb1 )
+)
+
+game (
+	name "Computer Poetry (1983)(CES)"
+	description "Computer Poetry (1983)(CES)"
+	rom ( name "Computer Poetry (1983)(CES).t64" size 13895 crc 5ad27376 md5 a52ebb4e5f035e437a26b23d68ba0405 sha1 b2b3588b556c59be52a774335c0012fc36288219 )
+)
+
+game (
+	name "Constellations (1984)(Granada Publishing)"
+	description "Constellations (1984)(Granada Publishing)"
+	rom ( name "Constellations (1984)(Granada Publishing).t64" size 1574 crc 0674922e md5 f33d299b3384b1b07e6aef3f42226cd3 sha1 1da239353a730ab7546f9dc4b30354cd6a9d93f0 )
+)
+
+game (
+	name "Cops and Robbers - Police Subtraction (198x)(CES)"
+	description "Cops and Robbers - Police Subtraction (198x)(CES)"
+	rom ( name "Cops and Robbers - Police Subtraction (198x)(CES).t64" size 10188 crc 43bba4fe md5 ec072b59f58b6f094de039f2ab6e2cc5 sha1 d1004186a5c27c7bd11907c39985f5674695878e )
+)
+
+game (
+	name "Countabout (1983)(Pan Books)"
+	description "Countabout (1983)(Pan Books)"
+	rom ( name "Countabout (1983)(Pan Books).t64" size 3376 crc 8d815302 md5 58ab0a9b3ae0ed40a5ca4a81f673ba82 sha1 cba2dcf25893e3a5b5d650e588903d81ea3216b6 )
+)
+
+game (
+	name "Countdown (1986)(TV Games)[cr ASS]"
+	description "Countdown (1986)(TV Games)[cr ASS]"
+	rom ( name "Countdown (1986)(TV Games)[cr ASS].t64" size 33484 crc 4376bf21 md5 9557f9bf69dca93b3f39ca8e6034b756 sha1 893cd309e0098f205017cdd0f8d2f15041a76609 )
+)
+
+game (
+	name "Counties (1984)(Granada Publishing)"
+	description "Counties (1984)(Granada Publishing)"
+	rom ( name "Counties (1984)(Granada Publishing).t64" size 3700 crc e6bd1e32 md5 a58fb1f0a7c62fdf2497f9856cc3f40e sha1 598ca31f86806881b1331a66f50bc7e40634b12b )
+)
+
+game (
+	name "Counting (1983)(CES)"
+	description "Counting (1983)(CES)"
+	rom ( name "Counting (1983)(CES).t64" size 9627 crc 1a28c243 md5 02664943570430231bddf4cec5f067bc sha1 e0afce57e50078a673012fbfe5b51c7b890d9cd6 )
+)
+
+game (
+	name "Cylinders (1983)(CES)"
+	description "Cylinders (1983)(CES)"
+	rom ( name "Cylinders (1983)(CES).t64" size 15142 crc 344fbf25 md5 114332dcf9c7c096d74cbc7cf8f8049b sha1 8391ecef99b78cd6c9c47d1443c05e2f11b7973f )
+)
+
+game (
+	name "Duck Shoot (1984)(Granada Publishing)"
+	description "Duck Shoot (1984)(Granada Publishing)"
+	rom ( name "Duck Shoot (1984)(Granada Publishing).t64" size 1965 crc 7c0012af md5 2fee63905b66117b847772669d0889ac sha1 a234ba3c6f28e02f76553e70fbb6ef48ddf9b69d )
+)
+
+game (
+	name "Fast Math (1982)(Commodore)"
+	description "Fast Math (1982)(Commodore)"
+	rom ( name "Fast Math (1982)(Commodore).t64" size 11150 crc 65ea62be md5 a9e5187242a5e09413c197aaec4ced32 sha1 f7b0eae4ed1549b7f118271ac8994f441a5ba376 )
+)
+
+game (
+	name "Fast Math (1982)(Commodore)[a]"
+	description "Fast Math (1982)(Commodore)[a]"
+	rom ( name "Fast Math (1982)(Commodore)[a].t64" size 10222 crc e0c923f8 md5 194d04b85c0fb2106ccded174df256ab sha1 3c56b1a8e912489986f12b4511080b11fd9e49ef )
+)
+
+game (
+	name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)"
+	description "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)"
+	rom ( name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl).t64" size 16318 crc b5701651 md5 c407d9a4849a37fa5e90c74227683e33 sha1 9002c1020f391ba8cff3001b61a754d8e05f7cda )
+)
+
+game (
+	name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)[a]"
+	description "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)[a]"
+	rom ( name "Irregular Verbs (1982)(Malmbergs Educatieve Software)(nl)[a].t64" size 9639 crc 3ef3249a md5 b24d9f7364620c3b2d1775ee0530a768 sha1 5ab8c9e85192ac76c670a6118b1ac67a692157f3 )
+)
+

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Amstrad CPC - Operating Systems - [DSK]"
+	description "Amstrad CPC - Operating Systems - [DSK] (TOSEC-v2009-08-28)"
+	category "Amstrad CPC - Operating Systems - [DSK]"
+	version 2009-08-28
+	author "jugaor - wattie - Cassiel"
+)
+
+game (
+	name "SymbOS (demo) (2001)(SymbiosiS)"
+	description "SymbOS (demo) (2001)(SymbiosiS)"
+	rom ( name "SymbOS (demo) (2001)(SymbiosiS).dsk" size 194816 crc 0566076d md5 af6d6920130f7bdb83c3f1c2ec88149c )
+)

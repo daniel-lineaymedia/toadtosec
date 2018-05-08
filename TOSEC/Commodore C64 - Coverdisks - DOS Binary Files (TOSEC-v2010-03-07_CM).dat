@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Commodore C64 - Coverdisks - DOS Binary Files"
+	description "Commodore C64 - Coverdisks - DOS Binary Files (TOSEC-v2010-03-07)"
+	category "Commodore C64 - Coverdisks - DOS Binary Files"
+	version 2010-03-07
+	author "DesertWolf - Apache - Duncan Twain"
+)
+
+game (
+	name "Discovery #1 (1996-05-17)(-)"
+	description "Discovery #1 (1996-05-17)(-)"
+	rom ( name "Discovery #1 (1996-05-17)(-).txt" size 194191 crc 90ba6b17 md5 8250ee439dbc3e3f9759953ec3e7d1eb )
+)
+
+game (
+	name "Discovery #2 (1996-10-01)(-)"
+	description "Discovery #2 (1996-10-01)(-)"
+	rom ( name "Discovery #2 (1996-10-01)(-).txt" size 334731 crc e32a170b md5 a796506c99c1b65d2f1628ddec7ba477 )
+)
+
+game (
+	name "Discovery #3 (1997-05-26)(-)"
+	description "Discovery #3 (1997-05-26)(-)"
+	rom ( name "Discovery #3 (1997-05-26)(-).txt" size 244852 crc b71838b1 md5 ce987783733363dee786b304e640c613 )
+)
+

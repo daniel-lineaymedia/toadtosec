@@ -1,0 +1,37 @@
+clrmamepro (
+	name "Nascom I & II - Applications - [DSK]"
+	description "Nascom I & II - Applications - [DSK] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Applications - [DSK]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas)"
+	description "NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas)"
+	rom ( name "NAS-Sembler v1.5 (1982)(Watson, P. - Logic, Lucas).dsk" size 655360 crc e5b38cc4 md5 87f101805c7a803b1a5fb18f376a7393 )
+)
+
+game (
+	name "NCB (1979)(Digital Research)"
+	description "NCB (1979)(Digital Research)"
+	rom ( name "NCB (1979)(Digital Research).dsk" size 788480 crc 1ad7424d md5 1b128c70cd0519d0e32e30612616e4bd )
+)
+
+game (
+	name "Utilities v1.6 (1982)(Vidth, Margin)[a]"
+	description "Utilities v1.6 (1982)(Vidth, Margin)[a]"
+	rom ( name "Utilities v1.6 (1982)(Vidth, Margin)[a].dsk" size 655360 crc 58751dc6 md5 73c7209525d487c8ac9f89f32063995f )
+)
+
+game (
+	name "Utilities v1.6 (1982)(Vidth, Margin)"
+	description "Utilities v1.6 (1982)(Vidth, Margin)"
+	rom ( name "Utilities v1.6 (1982)(Vidth, Margin).dsk" size 655360 crc 81877f78 md5 116deb9166e40838fc3b28fdfce5691a )
+)
+
+game (
+	name "Serial Printer Driver (1982)(Fhessey, M.)"
+	description "Serial Printer Driver (1982)(Fhessey, M.)"
+	rom ( name "Serial Printer Driver (1982)(Fhessey, M.).dsk" size 655360 crc 997e014a md5 91eaa27c2a3bf20d6e203533daa8d1d8 )
+)

@@ -1,0 +1,860 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Magazines - [TAP]"
+	description "Sinclair ZX Spectrum - Magazines - [TAP] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Magazines - [TAP]"
+	version 2011-09-24
+	author "jugaor - Zxyo - Cassiel"
+)
+
+game (
+	name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine).tap" size 90472 crc d40704aa md5 6fadbf06cdf5f3500752d5798b77fb80 sha1 9514dd6c29d4c78d119985fcf2e0ab0ab4386426 )
+)
+
+game (
+	name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a2]"
+	description "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a2]"
+	rom ( name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a2].tap" size 85974 crc 0361bc35 md5 ab5244832780deb20c78043a6e615b8b sha1 4ca4e27c049f60f728c279eae877df2a3e4bd88c )
+)
+
+game (
+	name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 01 (1983)(16-48 Tape Magazine)[a].tap" size 79827 crc 74be8dd9 md5 9fb08790c527cd1f1dd7f95145b29418 sha1 57ea542a7ef53f9c31562e80fe249e2788d7bc59 )
+)
+
+game (
+	name "16-48 Magazine - Issue 02 (1983)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 02 (1983)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 02 (1983)(16-48 Tape Magazine).tap" size 102724 crc 510b5b69 md5 0534995aec6dea73b98a284a9bc15f17 sha1 cc8cd6791ea44fb7c01d82ceea69db632e7c87d8 )
+)
+
+game (
+	name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine).tap" size 138165 crc 6ae19f6e md5 d489706e5761b32a011a265cf0d9c692 sha1 5e310cc7573dab5ee0957e8fda0ef163ff0cc371 )
+)
+
+game (
+	name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a2]"
+	description "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a2]"
+	rom ( name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a2].tap" size 139236 crc 2b2acb0a md5 35ecb450cf43d2f6cef3d0c3e759e50c sha1 f7ee58cd8ebf0143d98077de2befafbb14a8f0b4 )
+)
+
+game (
+	name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 03 (1984)(16-48 Tape Magazine)[a].tap" size 124227 crc d0ac5fb2 md5 22a4934ba2305dc2e75380edc9d00f77 sha1 45ecbdf9e62937819dda6bb093952d9617f03ac0 )
+)
+
+game (
+	name "16-48 Magazine - Issue 04 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 04 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 04 (1984)(16-48 Tape Magazine).tap" size 122081 crc 94860295 md5 835f2e1425446846405bfccd3512fc2e sha1 42ea9401613873d9598f4ee956a7175c5e5e9385 )
+)
+
+game (
+	name "16-48 Magazine - Issue 05 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 05 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 05 (1984)(16-48 Tape Magazine).tap" size 106475 crc c88970b7 md5 e3baa576a2e0419a6527d44f47f622d4 sha1 09c7b98acb975b3aeec8040e342a2da67134c42b )
+)
+
+game (
+	name "16-48 Magazine - Issue 06 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 06 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 06 (1984)(16-48 Tape Magazine).tap" size 134106 crc ebdd8ed0 md5 27b6ec8ce303947ffe8d67d21aa90fa1 sha1 0012f8c6b447660db99293a6841acd9f2a962d35 )
+)
+
+game (
+	name "16-48 Magazine - Issue 07 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 07 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 07 (1984)(16-48 Tape Magazine).tap" size 107165 crc fbbdc6bc md5 cf264b5ea79f7a1b480937739df8a2bf sha1 054e0d06e9f6874bc523971ffcfff206e6592467 )
+)
+
+game (
+	name "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine).tap" size 130926 crc 87514f7f md5 65c903c782c6b70bd252cb115b6a2446 sha1 96a65bc9503981edd09b4254b3c1f28c4addc182 )
+)
+
+game (
+	name "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 08 (1984)(16-48 Tape Magazine)[a].tap" size 130926 crc fe7a79e4 md5 c7f101f626c24a3e0372638f49562f32 sha1 97c10cde8bef2ddc14f1198a578a210d87d041a4 )
+)
+
+game (
+	name "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine).tap" size 141526 crc e72d4e0c md5 e227eddac7461d3b806470375126b142 sha1 b5586a62e23f2672163d62ce57a8038346862baa )
+)
+
+game (
+	name "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 09 (1984)(16-48 Tape Magazine)[a].tap" size 171133 crc 85ba6f44 md5 08e24fdce26c731526864736d8e4eff9 sha1 a51791e20cf09554247638b33759c221d47ce9b8 )
+)
+
+game (
+	name "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine).tap" size 126803 crc d72162a4 md5 0d122b3f5c03a66ead8ff9f67276d182 sha1 1cd587e51ce352432e614890e28a7eaa24735321 )
+)
+
+game (
+	name "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 10 (1984)(16-48 Tape Magazine)[a].tap" size 219901 crc 5bd0cc51 md5 606187a4cf53e689a954e6650b11b405 sha1 8d00c8e4b3f1f159b947c86dc0f125619e826b5e )
+)
+
+game (
+	name "16-48 Magazine - Issue 11 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 11 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 11 (1984)(16-48 Tape Magazine).tap" size 257038 crc c423712a md5 c39b58a96a488792b8c5d4c36b8be786 sha1 d602fa0c53933fef3fb50c2599c4ca7f3cc58a1e )
+)
+
+game (
+	name "16-48 Magazine - Issue 12 (1984)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 12 (1984)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 12 (1984)(16-48 Tape Magazine).tap" size 246985 crc c8335d85 md5 9b1940818913f60f8298fea7e14c1c35 sha1 a82b334c571c2ce08eeca73ca749d33b63e58f87 )
+)
+
+game (
+	name "16-48 Magazine - Issue 13 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 13 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 13 (1985)(16-48 Tape Magazine).tap" size 142336 crc fa90dd9c md5 f271de70bb49a3c5b43e1fc9535c46f4 sha1 b374bbf8581ac4fd0708afef960aed1c88eecdd8 )
+)
+
+game (
+	name "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine).tap" size 38684 crc da34e5af md5 0fa2c95ddc3b1ab51946c671bd5ee891 sha1 8883b7fd2a6a434a39af00cf9ce17c90de4797fa )
+)
+
+game (
+	name "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 14 (1985)(16-48 Tape Magazine)[a].tap" size 169092 crc 58d3339c md5 615eff27887685a96adfe5e2bcac68e9 sha1 338dfb9e6cf6ae2c310b9747fb6fad2f74e96168 )
+)
+
+game (
+	name "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine).tap" size 110528 crc 3d7532a0 md5 46aa9ef7aca4f0dcbe4aeba243399e0c sha1 5eaba867ee18108ca9f033690c07d01675c4732c )
+)
+
+game (
+	name "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 15 (1985)(16-48 Tape Magazine)[a].tap" size 198273 crc dc796242 md5 b37cd5d981ec4aff8712aaf77147b2cb sha1 6a1f61d4014808408b4f6b4b7b8f8592c78bcef2 )
+)
+
+game (
+	name "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine).tap" size 56441 crc af71aaf7 md5 076ba3a09ac34b4c928ab420bc4bff00 sha1 b655dc4c6559d572634f2478745094f9740c4676 )
+)
+
+game (
+	name "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 16 (1985)(16-48 Tape Magazine)[a].tap" size 186117 crc a6863a77 md5 cab1bd4db141471f518c1b51c765ed5b sha1 fdfeefaf0fc57c63e9e3b5fca15300eb41394bfc )
+)
+
+game (
+	name "16-48 Magazine - Issue 17 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 17 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 17 (1985)(16-48 Tape Magazine).tap" size 199650 crc d630aeaf md5 612f00eb3865ce0fcb3055353478fd15 sha1 623e858944cd73820e42641434f956a5a29ff144 )
+)
+
+game (
+	name "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine).tap" size 155665 crc 9a3968e9 md5 c0ff36cb81c203e07c7bd080522f86e7 sha1 8f54800122792ca52179767dbfcc8496625b2640 )
+)
+
+game (
+	name "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 18 (1985)(16-48 Tape Magazine)[a].tap" size 212957 crc 5204fda1 md5 7b8b5da8bfa41f1dd7ca24d721e6ac1d sha1 b0a4c928bbde9f28ff279d858ebff5c43eea9945 )
+)
+
+game (
+	name "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine).tap" size 157163 crc 117a6d95 md5 9ca18fdf92ce1862472df9e08f8dcf4e sha1 0604a7b01ad0edcd1de015ee0dd00f71958f2c98 )
+)
+
+game (
+	name "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 19 (1985)(16-48 Tape Magazine)[a].tap" size 158073 crc fa628807 md5 f35ac57289b465aa22edb28917e70999 sha1 9b322c4f2d6feb89edd222c578c6aeecbb2c2e09 )
+)
+
+game (
+	name "16-48 Magazine - Issue 20 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 20 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 20 (1985)(16-48 Tape Magazine).tap" size 204782 crc 4f18a547 md5 4f3851fa32f41f14e165a34cd52c88bd sha1 a03d07cc5dbddaa0344637ab6e06103f7144bd82 )
+)
+
+game (
+	name "16-48 Magazine - Issue 21 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 21 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 21 (1985)(16-48 Tape Magazine).tap" size 201240 crc afa17f7e md5 4a4c7c0f67980e4dd5a518029e611563 sha1 d04ccebffdf035a6165088347584fb6cd9d444dd )
+)
+
+game (
+	name "16-48 Magazine - Issue 22 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 22 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 22 (1985)(16-48 Tape Magazine).tap" size 231780 crc f32217a9 md5 98f4e040465237df9e0bf601983e78dd sha1 80f3a375d4592a6b7a17d04f90e327f36b26c182 )
+)
+
+game (
+	name "16-48 Magazine - Issue 23 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 23 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 23 (1985)(16-48 Tape Magazine).tap" size 183705 crc 4a4ccc27 md5 096c78e004703ddd5bac3b8c985a0ae3 sha1 40d4386cd43513d2533a0ac25a58998550f7bd4c )
+)
+
+game (
+	name "16-48 Magazine - Issue 24 (1985)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 24 (1985)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 24 (1985)(16-48 Tape Magazine).tap" size 192538 crc b0a05374 md5 6f34e8ce8cfceedf5e9457400012a7fd sha1 a25b04e998ee576aa86a40b0b77ddc2768b99dd3 )
+)
+
+game (
+	name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine).tap" size 97708 crc ede4ed5e md5 6cec839a8c77b787eec67bae58d0b830 sha1 e9f239b9a3d9b144fa02aed7eb854e96488daee2 )
+)
+
+game (
+	name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a2]"
+	description "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a2]"
+	rom ( name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a2].tap" size 214310 crc 58149801 md5 e0e7c1f9bc445f0f32d51347198fe541 sha1 c75d5eed0c9eef600497d28c8edfc7e8987cda4b )
+)
+
+game (
+	name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a]"
+	description "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a]"
+	rom ( name "16-48 Magazine - Issue 25 (1986)(16-48 Tape Magazine)[a].tap" size 96660 crc 3da9a87d md5 ebba560f55b613cb1f584810a46c0de6 sha1 9496850d419ed49dfd046734d77985bb3c873123 )
+)
+
+game (
+	name "16-48 Magazine - Issue 26 (1986)(16-48 Tape Magazine)"
+	description "16-48 Magazine - Issue 26 (1986)(16-48 Tape Magazine)"
+	rom ( name "16-48 Magazine - Issue 26 (1986)(16-48 Tape Magazine).tap" size 188020 crc 496cd32b md5 9a427d6a36fe6123e7df019998fd8772 sha1 828a4948acf6b075283d5bcb3fb6e4f1398e0efc )
+)
+
+game (
+	name "48k - Issue 06 - Especial Marcianitos (1985)(Monser)[16K]"
+	description "48k - Issue 06 - Especial Marcianitos (1985)(Monser)[16K]"
+	rom ( name "48k - Issue 06 - Especial Marcianitos (1985)(Monser)[16K].tap" size 45185 crc 00b8585d md5 819fe20c98ed2c435e36fd91ebba974a sha1 d7d2560bc549a886c5c83293f274923eabb8f36d )
+)
+
+game (
+	name "Alchemist News - Issue 01 (1991)(Alchemist Research)"
+	description "Alchemist News - Issue 01 (1991)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 01 (1991)(Alchemist Research).tap" size 16127 crc f14cec04 md5 cdb3bd0cf4dc44e982003730401c7f13 sha1 9ac4d5b9b58ce4e14322dab1c890c5c87fbe5d88 )
+)
+
+game (
+	name "Alchemist News - Issue 02 (1992)(Alchemist Research)"
+	description "Alchemist News - Issue 02 (1992)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 02 (1992)(Alchemist Research).tap" size 34651 crc c8a43ff0 md5 412d996c82f43e99d9fa877d3859abdb sha1 ffa73b84e305384ae6a55b9461a597bf23a3d4b8 )
+)
+
+game (
+	name "Alchemist News - Issue 03 (1992)(Alchemist Research)"
+	description "Alchemist News - Issue 03 (1992)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 03 (1992)(Alchemist Research).tap" size 32645 crc d264d696 md5 7842167deb55ad046e8f105ef0fa24ec sha1 38d50c5af66ec50bf6ce8f7c17b6d5d176aae5c3 )
+)
+
+game (
+	name "Alchemist News - Issue 04 (1992)(Alchemist Research)"
+	description "Alchemist News - Issue 04 (1992)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 04 (1992)(Alchemist Research).tap" size 20198 crc 81dcfbb2 md5 ddd643d70979b82b568729d82fb4f689 sha1 c631bf8b0a8079d740143ed87d1d96c81fe0016c )
+)
+
+game (
+	name "Alchemist News - Issue 04 (1992)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 04 (1992)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 04 (1992)(Alchemist Research)[a].tap" size 20198 crc 87f3cda2 md5 166421f7611659e502674f51cf59f6ea sha1 3b4a67a9b37eab33b3b1732122a328614ab83074 )
+)
+
+game (
+	name "Alchemist News - Issue 05 (1992)(Alchemist Research)"
+	description "Alchemist News - Issue 05 (1992)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 05 (1992)(Alchemist Research).tap" size 31289 crc e2f05813 md5 57fde4f2faa43c635a6219a27210c67c sha1 8004af51d05fe6e7f30fc009509414d9d2f7ecdf )
+)
+
+game (
+	name "Alchemist News - Issue 06 (1992)(Alchemist Research)"
+	description "Alchemist News - Issue 06 (1992)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 06 (1992)(Alchemist Research).tap" size 32766 crc b764e495 md5 6bfdd03a4580c1a98a8684686aa31f5e sha1 c7bff1dbc840dab24219f8fac712953c3ef382ea )
+)
+
+game (
+	name "Alchemist News - Issue 07 (1993)(Alchemist Research)"
+	description "Alchemist News - Issue 07 (1993)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 07 (1993)(Alchemist Research).tap" size 30286 crc 0a03b8a2 md5 fcf5f881fb7944bff6f033707ce435ee sha1 b1294ba255383e814702964a887288bc7cb7c931 )
+)
+
+game (
+	name "Alchemist News - Issue 08 (1993)(Alchemist Research)"
+	description "Alchemist News - Issue 08 (1993)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 08 (1993)(Alchemist Research).tap" size 35437 crc 9b58a9c7 md5 f7256d23bc0b58b6aa2a03e03e0f6e70 sha1 5978260f4d8271c0752252235c6bf41b80ee3a24 )
+)
+
+game (
+	name "Alchemist News - Issue 09 (1993)(Alchemist Research)"
+	description "Alchemist News - Issue 09 (1993)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 09 (1993)(Alchemist Research).tap" size 54865 crc 65b58e25 md5 43ab5741b209732424466835b230e976 sha1 b73744b87c529eeb6c9dfeb640f6075a17f312aa )
+)
+
+game (
+	name "Alchemist News - Issue 09 (1993)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 09 (1993)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 09 (1993)(Alchemist Research)[a].tap" size 57746 crc 95553f81 md5 7ffddb541f9a863e6986e314817779c2 sha1 c55b2df1f1d40b454ba2e7bb846c47bfda7ac2f9 )
+)
+
+game (
+	name "Alchemist News - Issue 10 (1993)(Alchemist Research)"
+	description "Alchemist News - Issue 10 (1993)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 10 (1993)(Alchemist Research).tap" size 102425 crc aef312ed md5 d4c0eac3c0798daba19432738651453e sha1 7e1f1a33c34c315ee8a1ef9068a9713c821c8087 )
+)
+
+game (
+	name "Alchemist News - Issue 10 (1993)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 10 (1993)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 10 (1993)(Alchemist Research)[a].tap" size 101016 crc 985a7a6a md5 29b396fe33ba414c35025c700fd393ad sha1 b88f01100bf5b6ed430fd839cee57f9c55ce0031 )
+)
+
+game (
+	name "Alchemist News - Issue 11 (1994)(Alchemist Research)"
+	description "Alchemist News - Issue 11 (1994)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 11 (1994)(Alchemist Research).tap" size 88813 crc e0839966 md5 bf37bc94ace6748dce6d61597d49bd36 sha1 ac6b54180b96012de4d76c9476a905d53e394015 )
+)
+
+game (
+	name "Alchemist News - Issue 11 (1994)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 11 (1994)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 11 (1994)(Alchemist Research)[a].tap" size 87050 crc 1d9a6abd md5 9023e46e092cd724146749517b213680 sha1 c83e0c2ff3974f36537ddf878916afda25c2761f )
+)
+
+game (
+	name "Alchemist News - Issue 12 (1994)(Alchemist Research)"
+	description "Alchemist News - Issue 12 (1994)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 12 (1994)(Alchemist Research).tap" size 108294 crc 53b5d610 md5 62780995f8e1f1a9465e748ccb697a51 sha1 63918dddaa7aa2c7e5f3a15368ada6792ff7dfab )
+)
+
+game (
+	name "Alchemist News - Issue 12 (1994)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 12 (1994)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 12 (1994)(Alchemist Research)[a].tap" size 108311 crc b341b888 md5 914e6302585495bf45fd795f978b635c sha1 c46430a9fb23f987ed1499caf0c09706acecb079 )
+)
+
+game (
+	name "Alchemist News - Issue 13 (1994)(Alchemist Research)"
+	description "Alchemist News - Issue 13 (1994)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 13 (1994)(Alchemist Research).tap" size 208945 crc c0e384e7 md5 494dc8c5225c7f52858bbbcdfb0b2dba sha1 b3919e400cd81f18335437b5036bf2ed864c96df )
+)
+
+game (
+	name "Alchemist News - Issue 13 (1994)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 13 (1994)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 13 (1994)(Alchemist Research)[a].tap" size 211602 crc 6cc8a773 md5 0e0891a90b5af3c5b7301b31089d099c sha1 590a16b316c4e80f29e925af6beec01c17d24149 )
+)
+
+game (
+	name "Alchemist News - Issue 14 (1994)(Alchemist Research)"
+	description "Alchemist News - Issue 14 (1994)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 14 (1994)(Alchemist Research).tap" size 288345 crc 8bb14622 md5 f251911894e2b890833c23ac6da38b08 sha1 b0e724003cfc25f2b1e48e3344b2c55fa241803b )
+)
+
+game (
+	name "Alchemist News - Issue 14 (1994)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 14 (1994)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 14 (1994)(Alchemist Research)[a].tap" size 288993 crc 3e94305d md5 d49a4cb360e04c220435edb5b9c8e99b sha1 d05ce6e9ea8d1c92705433c032d9fe810e93dac9 )
+)
+
+game (
+	name "Alchemist News - Issue 15 (1995)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 15 (1995)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 15 (1995)(Alchemist Research)[a].tap" size 323899 crc ae9dc4da md5 a64bf9775750098942e7fcdd837b8cbc sha1 66e5edaae09a7a0aee35962e28a630e9b794ef24 )
+)
+
+game (
+	name "Alchemist News - Issue 16 (1995)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 16 (1995)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 16 (1995)(Alchemist Research)[a].tap" size 413701 crc 4febd35f md5 9b08b45b7549c3c58840fe1cd6b88239 sha1 38752ad2009cd1c7d784abf43c43505cdaa28b3a )
+)
+
+game (
+	name "Alchemist News - Issue 17 (1995)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 17 (1995)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 17 (1995)(Alchemist Research)[a].tap" size 218353 crc 0df7fc9e md5 1ea2ee987641978259ba760229c25abc sha1 4f7a55ceb7fa3cfa67363fa615f71a0b11fa7204 )
+)
+
+game (
+	name "Alchemist News - Issue 18 (1995)(Alchemist Research)"
+	description "Alchemist News - Issue 18 (1995)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 18 (1995)(Alchemist Research).tap" size 338285 crc 9db1756f md5 fccd75f47518668e47cea070c5bb2ca4 sha1 26fd17d6facf4283ad38efe8876c71328941ec42 )
+)
+
+game (
+	name "Alchemist News - Issue 19 (1996)(Alchemist Research)"
+	description "Alchemist News - Issue 19 (1996)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 19 (1996)(Alchemist Research).tap" size 345653 crc 017114c8 md5 2a94e6559e6a384265d66a76e12d84f3 sha1 0d2392c4432fa8b141a5039f9af8f280f3564df5 )
+)
+
+game (
+	name "Alchemist News - Issue 19 (1996)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 19 (1996)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 19 (1996)(Alchemist Research)[a].tap" size 338341 crc 83712261 md5 b936d95121ee254a5d3b5f63e4be5cc3 sha1 23cab19d455f212fea5c1184789994a84de35095 )
+)
+
+game (
+	name "Alchemist News - Issue 20 (1996)(Alchemist Research)"
+	description "Alchemist News - Issue 20 (1996)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 20 (1996)(Alchemist Research).tap" size 345746 crc 19b3127f md5 6812f09581a83386fa7711701e1491b2 sha1 e6171d15a5ef1f8899cfc45e3b77890bbd5927a5 )
+)
+
+game (
+	name "Alchemist News - Issue 20 (1996)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 20 (1996)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 20 (1996)(Alchemist Research)[a].tap" size 346852 crc 1f4713d3 md5 040dc94e323016ad19d2d523e5c536db sha1 4db89357d72f898661101c0d10fa38d1ab2ed034 )
+)
+
+game (
+	name "Alchemist News - Issue 21 (1996)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 21 (1996)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 21 (1996)(Alchemist Research)[a].tap" size 264192 crc ad98b682 md5 cf405495bc30901a962e82e90beb2052 sha1 ea0f1adbaad073277b97b376714959a5e8970ba3 )
+)
+
+game (
+	name "Alchemist News - Issue 22 (1997)(Alchemist Research)[a]"
+	description "Alchemist News - Issue 22 (1997)(Alchemist Research)[a]"
+	rom ( name "Alchemist News - Issue 22 (1997)(Alchemist Research)[a].tap" size 458371 crc aef86916 md5 5942db579943eb025e001b3088cb0659 sha1 6299a1eeca048b011654e3e0d590a7c9b84297a4 )
+)
+
+game (
+	name "Alchemist News - Issue 23 (1997)(Alchemist Research)"
+	description "Alchemist News - Issue 23 (1997)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 23 (1997)(Alchemist Research).tap" size 422104 crc f8a991b2 md5 b4572ed2fda7b406a9b91271804602b7 sha1 4aea5f626a6e825e5a1099e7d06e7cf00e237de7 )
+)
+
+game (
+	name "Alchemist News - Issue 24 (1997)(Alchemist Research)"
+	description "Alchemist News - Issue 24 (1997)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 24 (1997)(Alchemist Research).tap" size 440356 crc 86ce00f2 md5 d72f2f917feeb8e861f545d59ee4b4cb sha1 b4664322211d7f29d1cff90b8f49520096e19421 )
+)
+
+game (
+	name "Alchemist News - Issue 25 (1997)(Alchemist Research)"
+	description "Alchemist News - Issue 25 (1997)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 25 (1997)(Alchemist Research).tap" size 329341 crc 90d020c4 md5 4aa2a0eac50afd61bd88f8e0dd437efd sha1 57930d02788fb2818cf65f8857630ae68a555491 )
+)
+
+game (
+	name "Alchemist News - Issue 26 (1998)(Alchemist Research)"
+	description "Alchemist News - Issue 26 (1998)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 26 (1998)(Alchemist Research).tap" size 327778 crc ea7e05a7 md5 3da5d63f7b590250e087dbb8d820a1f9 sha1 bca622b5eeb1335e9143199696a40fbf70e76f93 )
+)
+
+game (
+	name "Alchemist News - Issue 27 (1998)(Alchemist Research)"
+	description "Alchemist News - Issue 27 (1998)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 27 (1998)(Alchemist Research).tap" size 308119 crc 32f1d508 md5 4959ab3ac6595f96c5557c67e80bce48 sha1 74dcfdee3de992b869c075f02975e5668aba01a1 )
+)
+
+game (
+	name "Alchemist News - Issue 28 (1998)(Alchemist Research)"
+	description "Alchemist News - Issue 28 (1998)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 28 (1998)(Alchemist Research).tap" size 411594 crc 459ed17a md5 a4d271cd1c6c1165593f176fe12d222c sha1 774e2b54cbe9d5c66843310db3a29832472b6311 )
+)
+
+game (
+	name "Alchemist News - Issue 29 (1999)(Alchemist Research)"
+	description "Alchemist News - Issue 29 (1999)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 29 (1999)(Alchemist Research).tap" size 304344 crc 43ebce82 md5 e3fc7a3c91c7b860419bf887d4c0ea0d sha1 81e6675e4ab5939a9f89b9f54c4aaf34c825f403 )
+)
+
+game (
+	name "Alchemist News - Issue 30 (1999)(Alchemist Research)"
+	description "Alchemist News - Issue 30 (1999)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 30 (1999)(Alchemist Research).tap" size 272351 crc b7935571 md5 2d8627f747307324f5f39b5f54b2a047 sha1 1144b0963d25ec5c115b5bd12b3dca13ed4ef295 )
+)
+
+game (
+	name "Alchemist News - Issue 31 (1999)(Alchemist Research)"
+	description "Alchemist News - Issue 31 (1999)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 31 (1999)(Alchemist Research).tap" size 337801 crc 740cb087 md5 7a41667bb28e45cb7e3fbfaac8e547b4 sha1 542860f180eea23e899636f43a899f0ef49d5605 )
+)
+
+game (
+	name "Alchemist News - Issue 32 (1999)(Alchemist Research)"
+	description "Alchemist News - Issue 32 (1999)(Alchemist Research)"
+	rom ( name "Alchemist News - Issue 32 (1999)(Alchemist Research).tap" size 341596 crc aa4ec159 md5 c0f6b1b0b5342b5d1264803be8295e5e sha1 2aaba2ce3d58812f4b3a0fd4e31d08eb00a394ca )
+)
+
+game (
+	name "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.)"
+	description "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.)"
+	rom ( name "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.).tap" size 76118 crc f1b77878 md5 5f8ff584b07a59f193b14357a32138d3 sha1 7327eac7ed4c60469f1a3c215091ce9b2a289b84 )
+)
+
+game (
+	name "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.)[h]"
+	description "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.)[h]"
+	rom ( name "Enigma Tape Magazine - Issue 08 (1990)(E.S.D.)[h].tap" size 78855 crc 23bd108f md5 8af794394eb17ce684a0daaa5e21b2cf sha1 7dcc6306c997676c95d23358fe85bdb627fdd90a )
+)
+
+game (
+	name "Enigma Tape Magazine - Issue 09 (1990)(E.S.D.)"
+	description "Enigma Tape Magazine - Issue 09 (1990)(E.S.D.)"
+	rom ( name "Enigma Tape Magazine - Issue 09 (1990)(E.S.D.).tap" size 121603 crc c20b1074 md5 2169648ebe3ec9f87d9a3f1dad392388 sha1 f24d1745aa4cda469f4c06af0181071f74d439d5 )
+)
+
+game (
+	name "Joystick - Issue 1 (1987)(Joystick Electronic Magazine)(sv)"
+	description "Joystick - Issue 1 (1987)(Joystick Electronic Magazine)(sv)"
+	rom ( name "Joystick - Issue 1 (1987)(Joystick Electronic Magazine)(sv).tap" size 84762 crc 5d6fc8da md5 4681cc0067544f7835625c53a129cc8e sha1 228cb244516bea669fe3c274cba154aa7f25446f )
+)
+
+game (
+	name "Joystick - Issue 2 (1987)(Joystick Electronic Magazine)(sv)"
+	description "Joystick - Issue 2 (1987)(Joystick Electronic Magazine)(sv)"
+	rom ( name "Joystick - Issue 2 (1987)(Joystick Electronic Magazine)(sv).tap" size 98582 crc 75506457 md5 0a9ebed7291d14f8af54a3f5eb5cd611 sha1 491265804f9ef23d65e6bd0953f42dcb99dc7095 )
+)
+
+game (
+	name "Joystick - Issue 4 (1987)(Joystick Electronic Magazine)(sv)"
+	description "Joystick - Issue 4 (1987)(Joystick Electronic Magazine)(sv)"
+	rom ( name "Joystick - Issue 4 (1987)(Joystick Electronic Magazine)(sv).tap" size 152178 crc e78afa83 md5 f46c8257b64bee4bad00fb953561654d sha1 99a3af441743279df4a4164bf9359f3b3ac651a0 )
+)
+
+game (
+	name "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side A)"
+	description "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side A)"
+	rom ( name "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side A).tap" size 44836 crc 60559153 md5 623312852ba998a71258431752a813a9 sha1 337f108a352b338628fe2b9e19eff3e6bcaa6252 )
+)
+
+game (
+	name "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side B)"
+	description "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side B)"
+	rom ( name "Libreria de Software Spectrum - Issue 04 (1985)(Grupo de Trabajo Software)(es)(Side B).tap" size 47061 crc e17cdc8d md5 85ead76c491b06c4587601c197c7cb85 sha1 c5e7ce738cc57e68ed528d61d3e5eed90145d35e )
+)
+
+game (
+	name "Load 'n' Run - I Epoca - Issue 12 - Super Quiniela (1985)(Load 'n' Run)(es)"
+	description "Load 'n' Run - I Epoca - Issue 12 - Super Quiniela (1985)(Load 'n' Run)(es)"
+	rom ( name "Load 'n' Run - I Epoca - Issue 12 - Super Quiniela (1985)(Load 'n' Run)(es).tap" size 27273 crc e71dfa3d md5 b697251d1627acc26c943f034b786de2 sha1 c774a7349ba31b67f85f6afb8127514de09e39f9 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side A).tap" size 60142 crc 1cb3afa5 md5 06331a320c8c595ea719e9e04e573ebd sha1 361e1ab760190c563d8b83cb537f98868d8a06d3 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 01 (1985)(Hobby Press)(es)(Side B).tap" size 62131 crc 7699931d md5 178b4366bdd2e8f7933b949865d0bc80 sha1 ff17075cd66b40ecc9f625b7396c4fd31b771146 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side A).tap" size 58883 crc 3ca51878 md5 6c122fbc773e9dae42773eecdbf6bb02 sha1 3cc084994275c2a3cd3b14d8c8a38170e9eaa097 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 02 (1985)(Hobby Press)(es)(Side B).tap" size 50690 crc 01f9c298 md5 44df5ff9ccade71dcd5afa45f1db6a65 sha1 5558950758b27d24e0958d2ff7c53818095eabcc )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side A).tap" size 68951 crc bb20ca56 md5 6d8a09831e0b1a2e3a8a36a1cc936521 sha1 a822aef5c3064723f61dea52d3aa5d0cad244960 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 03 (1985)(Hobby Press)(es)(Side B).tap" size 65191 crc ad6fb17f md5 2597ba17f8a469a46a00b4027ab087cb sha1 29cbeaa1699dfed7fc220e8fcc69e3f1537d23ff )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side A).tap" size 33632 crc fd1fe8df md5 a05a766dcd817aada253c4a850047b4d sha1 1990dee461a817976409e930258ba2121da39224 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 04 (1985)(Hobby Press)(es)(Side B).tap" size 58946 crc c5be8a00 md5 5b14e8379193d41096d831d4b46515e1 sha1 14cc84e8ffb4f2e3ffa29be58a611c97a5965e1b )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side A).tap" size 60178 crc 5b694883 md5 4924e8e1c8161884020119b8193838b1 sha1 d4a249bfd8db47eabd81a3bf725c60a888edd68e )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 05 (1985)(Hobby Press)(es)(Side B).tap" size 64271 crc d8a9d252 md5 09240b818527d9a11d4c83efae8638f0 sha1 b25016485812d05a300a6f083dc27dbc138eeb45 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side A).tap" size 64613 crc d85fdeda md5 f1ee6274aee472d03c33744041994c85 sha1 5ac93e362a3baa7b91df8c6c88ff2b7c1dde5b06 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 06 (1985)(Hobby Press)(es)(Side B).tap" size 53571 crc f337606a md5 261a830f6bbc6b4b3fac9b47ae0fd31f sha1 8e2705cbf3d82e53f7a10763404cf5d05e33e937 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side A).tap" size 80029 crc 14113d49 md5 5170cbdea6e424e719fd149a024d2c1a sha1 dda5efee49436ed66489e307886c2662be20bb3d )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 07 (1985)(Hobby Press)(es)(Side B).tap" size 74702 crc 5baab365 md5 45632f02d2da2912541fd3e65a036330 sha1 99f05d0cd3c55d0983afc5e17e9ab3989925b8d5 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side A).tap" size 105047 crc 3c05e9c7 md5 85d82fcc05c089daa1689104412e75f0 sha1 fbeebe6300246f88202716dc9a71f446e0339679 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 08 (1985)(Hobby Press)(es)(Side B).tap" size 123805 crc f9b4f21f md5 db7566c07c9eceafd0d7a365e72be9f7 sha1 73c3a4ce0b207887c3ea4ab2c2ea56a9626d9232 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side A)"
+	description "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side A)"
+	rom ( name "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side A).tap" size 86631 crc 71ea3bf3 md5 def24581c133ea2a63ea488d9b8751e0 sha1 2cd9d854073abf7ef626ff7b7326bc173e609a50 )
+)
+
+game (
+	name "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side B)"
+	description "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side B)"
+	rom ( name "MicroHobby Cassette - Issue 09 (1985)(Hobby Press)(es)(Side B).tap" size 72343 crc 0775647c md5 7678e7fc3f1f0ae2c5c04f4e1da3cbcc sha1 9bf575bd6dda10d36ccc41d620eb09d1ef382a4d )
+)
+
+game (
+	name "Outlet - Issue 78 (1994)(Chezron Software)"
+	description "Outlet - Issue 78 (1994)(Chezron Software)"
+	rom ( name "Outlet - Issue 78 (1994)(Chezron Software).tap" size 267848 crc f7c79377 md5 c2628e10048cadede9ad6e57d363b166 sha1 b545c829994c579bc09fa5c82b9c5b6745a5cb0f )
+)
+
+game (
+	name "Run - Issue 01 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 01 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 01 (19xx)(Ediciones Ingelek)(es).tap" size 29493 crc 28fe67db md5 aa43b719c4a2362ee1397160c22ad60d sha1 18574024f4e103a59b27b3c5371573ff2f1f405f )
+)
+
+game (
+	name "Run - Issue 02 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 02 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 02 (19xx)(Ediciones Ingelek)(es).tap" size 24469 crc c4061345 md5 345f42328d0dd74767582859563885c5 sha1 b8cd9253d9681f2d8c98d100358f8fc2f44349e7 )
+)
+
+game (
+	name "Run - Issue 03 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 03 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 03 (19xx)(Ediciones Ingelek)(es).tap" size 27480 crc eec3068e md5 9ff54faee3657e40bfb1a4991011d71b sha1 db8a553d9b1abe113ab5ce80d9965e4135d635b4 )
+)
+
+game (
+	name "Run - Issue 04 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 04 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 04 (19xx)(Ediciones Ingelek)(es).tap" size 21662 crc aae6c962 md5 3ac87f63b545727b361a45a3e2105e15 sha1 b31397c0448fe037718d3e604c1367e35b6794f7 )
+)
+
+game (
+	name "Run - Issue 05 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 05 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 05 (19xx)(Ediciones Ingelek)(es).tap" size 25864 crc a8c892e0 md5 3dc38f3716eb6b003419108771a67b1b sha1 acbeb5768a59fa50a6bf6ebdf6e30b85eb0f270a )
+)
+
+game (
+	name "Run - Issue 06 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 06 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 06 (19xx)(Ediciones Ingelek)(es).tap" size 15663 crc 21df1505 md5 869bd44167507891fc0dcb08b2ce85ef sha1 f73c6d1667d7e2fba8f62dfc64ef3af101ec7475 )
+)
+
+game (
+	name "Run - Issue 07 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 07 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 07 (19xx)(Ediciones Ingelek)(es).tap" size 21270 crc aee1b990 md5 abdece12f8b1aa8c6a5e4db440a454f1 sha1 df66bdb08bce417af12258e112e3e4ccf8c27664 )
+)
+
+game (
+	name "Run - Issue 08 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 08 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 08 (19xx)(Ediciones Ingelek)(es).tap" size 28578 crc 90eef22d md5 ae35e41d6bca8eaf6aecd71d5c17cf47 sha1 fe389c25744d35a115f02eb79e60829ca04a3a5e )
+)
+
+game (
+	name "Run - Issue 09 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 09 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 09 (19xx)(Ediciones Ingelek)(es).tap" size 18293 crc dd174013 md5 3b0922e0d0d1833102e79be9de9c0925 sha1 e5496f31eac6dc9b8810a899c903382206d9b62a )
+)
+
+game (
+	name "Run - Issue 10 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 10 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 10 (19xx)(Ediciones Ingelek)(es).tap" size 19703 crc ea6cc1da md5 4e50258ad5a6ab6898f27ce33eefe96d sha1 ad5d3f51f746ddd16739fc0c1ad498b66b7043a9 )
+)
+
+game (
+	name "Run - Issue 11 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 11 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 11 (19xx)(Ediciones Ingelek)(es).tap" size 24484 crc 88c36930 md5 dc83f718d3ff551bcf3a23d28ef4b714 sha1 938bfa7df02067ddc4b236149a98b7f84c53c7e1 )
+)
+
+game (
+	name "Run - Issue 12 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 12 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 12 (19xx)(Ediciones Ingelek)(es).tap" size 18395 crc be672684 md5 09f7f4580355936997a4c8b6e1ad3149 sha1 0224fe35897a1dbffd8f7b4c71b79455667c080d )
+)
+
+game (
+	name "Run - Issue 13 (19xx)(Ediciones Ingelek)(es)"
+	description "Run - Issue 13 (19xx)(Ediciones Ingelek)(es)"
+	rom ( name "Run - Issue 13 (19xx)(Ediciones Ingelek)(es).tap" size 19877 crc 7121867b md5 c88f081c8cfa3c4c5fbb510718fc19ef sha1 77be09684d9397fc88a6ce6c7ce20781fb0b66a0 )
+)
+
+game (
+	name "Soft Spectrum - Issue 17 - Fredy (1987)(Grupo de Trabajo Software)(es)"
+	description "Soft Spectrum - Issue 17 - Fredy (1987)(Grupo de Trabajo Software)(es)"
+	rom ( name "Soft Spectrum - Issue 17 - Fredy (1987)(Grupo de Trabajo Software)(es).tap" size 37715 crc e41b3133 md5 5059ccd86a63f9e34cc44e91200d847b sha1 47eb869286986aad0a6962139a5b5c3a47c1eb2c )
+)
+
+game (
+	name "Software Magazine - Issue 00 - Quinielas (1984)(Monser)(es)"
+	description "Software Magazine - Issue 00 - Quinielas (1984)(Monser)(es)"
+	rom ( name "Software Magazine - Issue 00 - Quinielas (1984)(Monser)(es).tap" size 25504 crc e7ab654c md5 fe537a48f317e6c57c75c8ed84f0ee0b sha1 5a599ce6f8e9160669a7ee907aab52a1bbe101af )
+)
+
+game (
+	name "Software Magazine - Issue 02a - Anttown-3D (1984)(Monser)(es)[aka Ant Attack]"
+	description "Software Magazine - Issue 02a - Anttown-3D (1984)(Monser)(es)[aka Ant Attack]"
+	rom ( name "Software Magazine - Issue 02a - Anttown-3D (1984)(Monser)(es)[aka Ant Attack].tap" size 48083 crc 04a31230 md5 0a1a2ae9ffe2155660f343eef2848c26 sha1 6c6b49dc68a315d0ff3c7984e147c0db00bf0d5b )
+)
+
+game (
+	name "Software Magazine - Issue 03a - Galax (1984)(Monser)(es)[aka Xadom]"
+	description "Software Magazine - Issue 03a - Galax (1984)(Monser)(es)[aka Xadom]"
+	rom ( name "Software Magazine - Issue 03a - Galax (1984)(Monser)(es)[aka Xadom].tap" size 44871 crc f29c42f7 md5 c3f4ef389f187efe5eccb903a961f650 sha1 2a7e62c43bd05342b795c6eca1983616b86db1cd )
+)
+
+game (
+	name "Software Magazine - Issue 03b - Borer Deep (1984)(Monser)[aka Sheer Panic]"
+	description "Software Magazine - Issue 03b - Borer Deep (1984)(Monser)[aka Sheer Panic]"
+	rom ( name "Software Magazine - Issue 03b - Borer Deep (1984)(Monser)[aka Sheer Panic].tap" size 13823 crc b18fba39 md5 d974bed82b88317cfd314499297544ef sha1 00a2a7cf49b94a7d3026b4caf7e3988e08ecfd49 )
+)
+
+game (
+	name "Software Magazine - Issue 04b - Lunar Landing (1984)(Monser)(es)[aka Loony Lander]"
+	description "Software Magazine - Issue 04b - Lunar Landing (1984)(Monser)(es)[aka Loony Lander]"
+	rom ( name "Software Magazine - Issue 04b - Lunar Landing (1984)(Monser)(es)[aka Loony Lander].tap" size 10742 crc 05d4aa19 md5 71094a2b38871af276af3733a8e86fcd sha1 6f15fec798b5a178af8634dc11fdaac67743ab29 )
+)
+
+game (
+	name "Software Magazine - Issue 05a - Aqua Ski (1985)(Monser)[aka Aquaplane]"
+	description "Software Magazine - Issue 05a - Aqua Ski (1985)(Monser)[aka Aquaplane]"
+	rom ( name "Software Magazine - Issue 05a - Aqua Ski (1985)(Monser)[aka Aquaplane].tap" size 20408 crc 20bc884f md5 3c8be957799cd1f2a0d664b8fdea72be sha1 94d080091cc5b56d1a31bd96b25ca14308faf635 )
+)
+
+game (
+	name "Software Magazine - Issue 06a - Panico en el Express (1985)(Monser)(es)[aka Stop the Express]"
+	description "Software Magazine - Issue 06a - Panico en el Express (1985)(Monser)(es)[aka Stop the Express]"
+	rom ( name "Software Magazine - Issue 06a - Panico en el Express (1985)(Monser)(es)[aka Stop the Express].tap" size 50639 crc d2445994 md5 cae541356f01453304f33ebc874c0930 sha1 cd01d5d0b0dcb862d79b099bfba0f467f9d6a9bd )
+)
+
+game (
+	name "Spectrum Computing - Issue 01 (1983)(ASP Software)"
+	description "Spectrum Computing - Issue 01 (1983)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 01 (1983)(ASP Software).tap" size 84017 crc 6445c6b8 md5 a11352cdb55f0e16033a3443a06ab105 sha1 f072e8bb940bd3fdb32f08014e4130285d35a7fe )
+)
+
+game (
+	name "Spectrum Computing - Issue 02 (1983)(ASP Software)"
+	description "Spectrum Computing - Issue 02 (1983)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 02 (1983)(ASP Software).tap" size 100867 crc c52b7498 md5 04648baa978a684d04681edafa06de16 sha1 df46d288c39b8324545736b1fd083d784fb1e2a7 )
+)
+
+game (
+	name "Spectrum Computing - Issue 03 (1983)(ASP Software)"
+	description "Spectrum Computing - Issue 03 (1983)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 03 (1983)(ASP Software).tap" size 127047 crc 30a12d3e md5 5cefc23364855c4b4d79075b242f3950 sha1 923643e150012c277d3ff56fdebe38c256d4fbb5 )
+)
+
+game (
+	name "Spectrum Computing - Issue 05 (1984)(ASP Software)"
+	description "Spectrum Computing - Issue 05 (1984)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 05 (1984)(ASP Software).tap" size 141066 crc bb386965 md5 2df4f5f183c9cb24422ea6fb1b2e6f9f sha1 375e9cacbf1bf69825c23a8ba56545ae98fef48c )
+)
+
+game (
+	name "Spectrum Computing - Issue 05 (1984)(ASP Software)[a]"
+	description "Spectrum Computing - Issue 05 (1984)(ASP Software)[a]"
+	rom ( name "Spectrum Computing - Issue 05 (1984)(ASP Software)[a].tap" size 141065 crc 3c441693 md5 e658426daab7128ad57ea97910ff8051 sha1 4e502269ee90d25bbdff87b83422487a0fdde646 )
+)
+
+game (
+	name "Spectrum Computing - Issue 06 (1984)(ASP Software)"
+	description "Spectrum Computing - Issue 06 (1984)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 06 (1984)(ASP Software).tap" size 146974 crc ded09237 md5 3cf607b05f6739c4b6ed306954bb7925 sha1 03ad7baa0c553835f4f84b3d7895a7ee3b8c0abf )
+)
+
+game (
+	name "Spectrum Computing - Issue 07 (1984)(ASP Software)"
+	description "Spectrum Computing - Issue 07 (1984)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 07 (1984)(ASP Software).tap" size 177556 crc b9a6097e md5 32c0a75eaf44a5d8222d7390afde4360 sha1 9046ed53d0b60e5fe8ecd99c8807fd95c8e38d37 )
+)
+
+game (
+	name "Spectrum Computing - Issue 08 (1984)(ASP Software)"
+	description "Spectrum Computing - Issue 08 (1984)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 08 (1984)(ASP Software).tap" size 150669 crc fefaea1f md5 36dd7b68138e3a314eac927315c8c207 sha1 45ed80a0190e47d743e24e56a8440858959bce5b )
+)
+
+game (
+	name "Spectrum Computing - Issue 12 (1985)(ASP Software)"
+	description "Spectrum Computing - Issue 12 (1985)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 12 (1985)(ASP Software).tap" size 175575 crc fe9ca49a md5 7f791624dbfa4af4b1689e008dcd664f sha1 fd133c883e9485f97c988c69f37405f1fa563d9e )
+)
+
+game (
+	name "Spectrum Computing - Issue 13 (1985)(ASP Software)"
+	description "Spectrum Computing - Issue 13 (1985)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 13 (1985)(ASP Software).tap" size 127266 crc 01a57ed2 md5 5a3751d3c379a967d9ae35056b1a6dea sha1 7d223c6dfd2803c13a1b325b8579191a354db40a )
+)
+
+game (
+	name "Spectrum Computing - Issue 16 (1985)(ASP Software)"
+	description "Spectrum Computing - Issue 16 (1985)(ASP Software)"
+	rom ( name "Spectrum Computing - Issue 16 (1985)(ASP Software).tap" size 115156 crc 01c70c3d md5 c6634fac4f6a5ee9e9d601d65f179701 sha1 5a0be7ce2c4f9117c062fcb0735ca5a5857005ec )
+)
+

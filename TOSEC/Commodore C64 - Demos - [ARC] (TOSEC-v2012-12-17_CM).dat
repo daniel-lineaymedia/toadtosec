@@ -1,0 +1,32 @@
+clrmamepro (
+	name "Commodore C64 - Demos - [ARC]"
+	description "Commodore C64 - Demos - [ARC] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Demos - [ARC]"
+	version 2012-12-17
+	author "Duncan Twain"
+)
+
+game (
+	name "BlackIce3 (19xx)(Eclipse)"
+	description "BlackIce3 (19xx)(Eclipse)"
+	rom ( name "BlackIce3 (19xx)(Eclipse).arc" size 26240 crc 2ed7175c md5 566c8ff800b30b2e4a7a98d79607e1bb sha1 fdf0d92ce24c7d7cfe82fdc6686ae83d6825dcab )
+)
+
+game (
+	name "Last Traktor III, The (1992)(Horizon)"
+	description "Last Traktor III, The (1992)(Horizon)"
+	rom ( name "Last Traktor III, The (1992)(Horizon).arc" size 52352 crc 0d1e1505 md5 6468b01c7216710e0ad41549ad03b66d sha1 ece3de2c40e30b233669754ffc7e5a10ea92ecab )
+)
+
+game (
+	name "Musicpack (19xx)(Pegasus)"
+	description "Musicpack (19xx)(Pegasus)"
+	rom ( name "Musicpack (19xx)(Pegasus).arc" size 27264 crc 0bf593d3 md5 e2d7bb8725ac171f2540069639085cf1 sha1 0f92e58f8a0a891bce30cb76d10ec60391e9bb3c )
+)
+
+game (
+	name "Space Movie (19xx)(-)"
+	description "Space Movie (19xx)(-)"
+	rom ( name "Space Movie (19xx)(-).arc" size 11008 crc 8eb33dcc md5 0e66798ec6a3e522f9d8d08e8f77c82c sha1 8427a70fdf6739740f26e7f7de11e14768384648 )
+)
+

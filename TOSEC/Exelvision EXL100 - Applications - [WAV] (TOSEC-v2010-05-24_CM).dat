@@ -1,0 +1,97 @@
+clrmamepro (
+	name "Exelvision EXL100 - Applications - [WAV]"
+	description "Exelvision EXL100 - Applications - [WAV] (TOSEC-v2010-05-24)"
+	category "Exelvision EXL100 - Applications - [WAV]"
+	version 2010-05-24
+	author "TKaos"
+)
+
+game (
+	name "Crayon Magique (198x)(Exelvision)(FR)"
+	description "Crayon Magique (198x)(Exelvision)(FR)"
+	rom ( name "Crayon Magique (198x)(Exelvision)(FR).wav" size 3202028 crc 8f39f9c4 md5 3cd4d4f3a8de452c610be43baa4fb19f )
+)
+
+game (
+	name "Creaphix (1985-07)(Exelvision)(FR)"
+	description "Creaphix (1985-07)(Exelvision)(FR)"
+	rom ( name "Creaphix (1985-07)(Exelvision)(FR).wav" size 4145624 crc a8fe7df8 md5 373a0be537f48bcddce50ee2cdbaf5e2 )
+)
+
+game (
+	name "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY]"
+	description "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY]"
+	rom ( name "Creaphix (1985-07)(Exelvision)(FR)[h Edition PUSSY].wav" size 3334004 crc edbcf516 md5 3a7c0a0e261ce4a8e0247fea0681ec2d )
+)
+
+game (
+	name "Dates (198x)(Minipuce)(FR)"
+	description "Dates (198x)(Minipuce)(FR)"
+	rom ( name "Dates (198x)(Minipuce)(FR).wav" size 1472804 crc 7e08013d md5 d7091ca30b2c76b03411642adbb60c4b )
+)
+
+game (
+	name "Direct (198x)(Edition PUSSY)(FR)"
+	description "Direct (198x)(Edition PUSSY)(FR)"
+	rom ( name "Direct (198x)(Edition PUSSY)(FR).wav" size 3444028 crc 072be14d md5 6c3de552c524918f9480fade22f97a87 )
+)
+
+game (
+	name "ExelBASIC (198x)(Exelvision)(FR)"
+	description "ExelBASIC (198x)(Exelvision)(FR)"
+	rom ( name "ExelBASIC (198x)(Exelvision)(FR).wav" size 363574 crc 527d5503 md5 d529021efc9760c264fe7f6d230c3041 )
+)
+
+game (
+	name "ExelBASIC+ (198x)(Exelvision)(FR)"
+	description "ExelBASIC+ (198x)(Exelvision)(FR)"
+	rom ( name "ExelBASIC+ (198x)(Exelvision)(FR).wav" size 550482 crc 5164703b md5 6a4de698fdaaed1b845fac7844aa532c )
+)
+
+game (
+	name "Fixel (198x)(Exelvision)(FR)"
+	description "Fixel (198x)(Exelvision)(FR)"
+	rom ( name "Fixel (198x)(Exelvision)(FR).wav" size 507696 crc 72eebea2 md5 5d4add4d6b38f6e6b8a259961aa07baf )
+)
+
+game (
+	name "Fixel (198x)(Exelvision)(FR)[a]"
+	description "Fixel (198x)(Exelvision)(FR)[a]"
+	rom ( name "Fixel (198x)(Exelvision)(FR)[a].wav" size 4568948 crc 67641ecb md5 f728bb42885a0950a6031a4ea6df67dd )
+)
+
+game (
+	name "Fixtab (1985)(Initiel)(FR)"
+	description "Fixtab (1985)(Initiel)(FR)"
+	rom ( name "Fixtab (1985)(Initiel)(FR).wav" size 9411452 crc 5c6d1eed md5 4b1df6f2da55ca110f6e99c90fd9bac0 )
+)
+
+game (
+	name "Frises (198x)(Cedic, Nathan)(FR)"
+	description "Frises (198x)(Cedic, Nathan)(FR)"
+	rom ( name "Frises (198x)(Cedic, Nathan)(FR).wav" size 9396908 crc e50c83d8 md5 d7c8f68d1a2e9dfd0c89fb5759c92394 )
+)
+
+game (
+	name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A)"
+	description "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A)"
+	rom ( name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side A).wav" size 8120312 crc 883a0329 md5 01965759cbbd85805379a2f2ab273aec )
+)
+
+game (
+	name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B)"
+	description "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B)"
+	rom ( name "Generateur de Caracteres en Espagnol (198x)(Exelvision)(FR)(Side B).wav" size 8120240 crc 48d8415f md5 54c1e01d52cb548df658c2577b107b90 )
+)
+
+game (
+	name "Operal (198x)(Paralleles)(FR)[req 64kb]"
+	description "Operal (198x)(Paralleles)(FR)[req 64kb]"
+	rom ( name "Operal (198x)(Paralleles)(FR)[req 64kb].wav" size 12608144 crc 6cc8d5ad md5 e9d085e8f7fa4b180ff9db6e8d5a688f )
+)
+
+game (
+	name "Sommaire-Games (1988)(Edition PUSSY)(FR)"
+	description "Sommaire-Games (1988)(Edition PUSSY)(FR)"
+	rom ( name "Sommaire-Games (1988)(Edition PUSSY)(FR).wav" size 2533512 crc 7eca55ad md5 fe96ae343d6afddf9a576833ae989622 )
+)

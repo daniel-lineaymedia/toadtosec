@@ -1,0 +1,127 @@
+clrmamepro (
+	name "Acorn BBC - Games - [DSD]"
+	description "Acorn BBC - Games - [DSD] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Games - [DSD]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "Dunjunz (1987)(Bug Byte)[b]"
+	description "Dunjunz (1987)(Bug Byte)[b]"
+	rom ( name "Dunjunz (1987)(Bug Byte)[b].dsd" size 184832 crc 24ef780d md5 fb04b90817a84b16ffaff7e8381fc57d )
+)
+
+game (
+	name "Dunjunz (1987)(Bug Byte)[DUNJUNZ]"
+	description "Dunjunz (1987)(Bug Byte)[DUNJUNZ]"
+	rom ( name "Dunjunz (1987)(Bug Byte)[DUNJUNZ].dsd" size 185344 crc 6d77f67d md5 0820b090d74459308cb0d0242ce2c2e1 )
+)
+
+game (
+	name "Dunjunz (1987)(Bug Byte)[h TSTH]"
+	description "Dunjunz (1987)(Bug Byte)[h TSTH]"
+	rom ( name "Dunjunz (1987)(Bug Byte)[h TSTH].dsd" size 189440 crc 5c529c87 md5 d07fdb3e69d6b2f851b5f5d7e74873ce )
+)
+
+game (
+	name "Dunjunz (1987)(Bug Byte)[h TSTH][a]"
+	description "Dunjunz (1987)(Bug Byte)[h TSTH][a]"
+	rom ( name "Dunjunz (1987)(Bug Byte)[h TSTH][a].dsd" size 58880 crc 7f9c137b md5 7bb3cbc2ae4e16a93427fbc5fd51c07c )
+)
+
+game (
+	name "Elite (1984)(Acornsoft)[h 8-Bit]"
+	description "Elite (1984)(Acornsoft)[h 8-Bit]"
+	rom ( name "Elite (1984)(Acornsoft)[h 8-Bit].dsd" size 409600 crc 6c46b258 md5 db974b35f1e2dbf66226b9329909052a )
+)
+
+game (
+	name "Hostages (1990)(Superior)"
+	description "Hostages (1990)(Superior)"
+	rom ( name "Hostages (1990)(Superior).dsd" size 146688 crc c7cdd8fc md5 33bf72cd89f0b51abdd527109420d236 )
+)
+
+game (
+	name "Lancelot (1988)(Level 9 - Mandarin)[!BOOT]"
+	description "Lancelot (1988)(Level 9 - Mandarin)[!BOOT]"
+	rom ( name "Lancelot (1988)(Level 9 - Mandarin)[!BOOT].dsd" size 409600 crc 867b0945 md5 96cfb2bc6adcd726f0d07789015c6fd1 )
+)
+
+game (
+	name "Last Ninja 2, The (19xx)(Superior)"
+	description "Last Ninja 2, The (19xx)(Superior)"
+	rom ( name "Last Ninja 2, The (19xx)(Superior).dsd" size 152320 crc 3b8e5675 md5 5d540567844796d45dd0421d4270755c )
+)
+
+game (
+	name "Last Ninja, The (1988)(Superior)"
+	description "Last Ninja, The (1988)(Superior)"
+	rom ( name "Last Ninja, The (1988)(Superior).dsd" size 153088 crc 7a780ad2 md5 49097d1717aeef13fe803bded827fdde )
+)
+
+game (
+	name "Master Break (19xx)(Superior)"
+	description "Master Break (19xx)(Superior)"
+	rom ( name "Master Break (19xx)(Superior).dsd" size 208128 crc ab71460c md5 949ce23186a14711adeb6104cf708e15 )
+)
+
+game (
+	name "Master Break (19xx)(Superior)[h TSTH]"
+	description "Master Break (19xx)(Superior)[h TSTH]"
+	rom ( name "Master Break (19xx)(Superior)[h TSTH].dsd" size 104960 crc 93b6db07 md5 57472847cb026070c19145a2ae27641c )
+)
+
+game (
+	name "Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit]"
+	description "Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit]"
+	rom ( name "Mix Mania II (1991)(Yorkshire Boys)[h 8-Bit].dsd" size 409600 crc d597b0a2 md5 1a87b2880f78cf1399dbbf7bd8b77102 )
+)
+
+game (
+	name "Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH]"
+	description "Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH]"
+	rom ( name "Powerplay - The Game of the Gods (1985)(Arcana)[h TSTH].dsd" size 128512 crc 23107f27 md5 771bb02dba09d435df58ac76abc38aa8 )
+)
+
+game (
+	name "Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT]"
+	description "Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT]"
+	rom ( name "Powerplay - The Game of the Gods (1985)(Arcana)[RUN !BOOT].dsd" size 409600 crc 427211df md5 793bf2364dd4423b8cb5ebad8e952c24 )
+)
+
+game (
+	name "Repton Infinity (1988)(Superior)[b]"
+	description "Repton Infinity (1988)(Superior)[b]"
+	rom ( name "Repton Infinity (1988)(Superior)[b].dsd" size 243456 crc 6c77848c md5 88be57ec3b248e4d7df721c348263473 )
+)
+
+game (
+	name "Repton Infinity (1988)(Superior)[h]"
+	description "Repton Infinity (1988)(Superior)[h]"
+	rom ( name "Repton Infinity (1988)(Superior)[h].dsd" size 246272 crc 415eba66 md5 9463a3c7bb5b421b3dc329334ae25b46 )
+)
+
+game (
+	name "Secret Diary of Adrian Mole, The (1985)(Level 9)"
+	description "Secret Diary of Adrian Mole, The (1985)(Level 9)"
+	rom ( name "Secret Diary of Adrian Mole, The (1985)(Level 9).dsd" size 324608 crc c5c97078 md5 a978b6cb04d9af0d677a805012f186e4 )
+)
+
+game (
+	name "Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH]"
+	description "Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH]"
+	rom ( name "Secret Diary of Adrian Mole, The (1985)(Level 9)[h TSTH].dsd" size 324608 crc dbfb5f38 md5 b59caac5d288ff2f27d72e20b9fff5a0 )
+)
+
+game (
+	name "Superman - Man of Steel (1989)(Tynesoft)"
+	description "Superman - Man of Steel (1989)(Tynesoft)"
+	rom ( name "Superman - Man of Steel (1989)(Tynesoft).dsd" size 352768 crc a0fa518f md5 2da965c953cc8d7c8ce7570398f48e37 )
+)
+
+game (
+	name "Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit]"
+	description "Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit]"
+	rom ( name "Worm Book, The (19xx)(Ahlberg, A. - Ahlberg, J.)[h 8-Bit].dsd" size 409600 crc 8fad7a8b md5 865dd67cfd16d245af2de067dfb797a6 )
+)

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Games - [SCL]"
+	description "Sinclair ZX Spectrum - Compilations - Games - [SCL] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Games - [SCL]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Trap Door Collection (19xx)(-)[h AMD][t]"
+	description "Trap Door Collection (19xx)(-)[h AMD][t]"
+	rom ( name "Trap Door Collection (19xx)(-)[h AMD][t].scl" size 61467 crc fcf4f3e7 md5 bf5e2e517492f412f16002b2d6dfbac1 sha1 5fbdf6d5771642296d71aeeb333b7ee2545c09c0 )
+)
+

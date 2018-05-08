@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Pokemon Mini - Firmware"
+	description "Nintendo Pokemon Mini - Firmware (TOSEC-v2011-08-13)"
+	category "Nintendo Pokemon Mini - Firmware"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Nintendo Pokemon Mini BIOS (2001)(Nintendo)"
+	description "Nintendo Pokemon Mini BIOS (2001)(Nintendo)"
+	rom ( name "Nintendo Pokemon Mini BIOS (2001)(Nintendo).bin" size 4096 crc aed3c14d md5 1e4fb124a3a886865acb574f388c803d sha1 daad4113713ed776fbd47727762bca81ba74915f )
+)
+

@@ -1,0 +1,259 @@
+clrmamepro (
+	name "MGT Sam Coupe - Applications - [SAD]"
+	description "MGT Sam Coupe - Applications - [SAD] (TOSEC-v2008-12-21)"
+	category "MGT Sam Coupe - Applications - [SAD]"
+	version 2008-12-21
+	author "dirkpitt - Grendel - Cowering - Cassiel"
+)
+
+game (
+	name "Alternative Module Player - ALM & Tunes v1.2 (1994)(Aley Keprt)"
+	description "Alternative Module Player - ALM & Tunes v1.2 (1994)(Aley Keprt)"
+	rom ( name "Alternative Module Player - ALM & Tunes v1.2 (1994)(Aley Keprt).sad" size 819222 crc 0736739f md5 36d1ed21bf7b6fb66dfa0dd8aa10baf7 )
+)
+
+game (
+	name "Boing! Graphics (19xx)(Samtech)"
+	description "Boing! Graphics (19xx)(Samtech)"
+	rom ( name "Boing! Graphics (19xx)(Samtech).sad" size 819222 crc bd5eb2fe md5 3efefec20d7a06d3c74b2f2c10d26869 )
+)
+
+game (
+	name "Dissasembler (1993)(Chris White)"
+	description "Dissasembler (1993)(Chris White)"
+	rom ( name "Dissasembler (1993)(Chris White).sad" size 819222 crc a5e1a7a1 md5 8333a7ac46a403de2663000398be56d0 )
+)
+
+game (
+	name "E-Copier v2.0 (1993)(Chris White)"
+	description "E-Copier v2.0 (1993)(Chris White)"
+	rom ( name "E-Copier v2.0 (1993)(Chris White).sad" size 819222 crc cc8eb00d md5 5d9469e250fc6cbbb0ce60dd57aaa4f3 )
+)
+
+game (
+	name "Fast E-Tracker Player (19xx)(Simon Cooke)"
+	description "Fast E-Tracker Player (19xx)(Simon Cooke)"
+	rom ( name "Fast E-Tracker Player (19xx)(Simon Cooke).sad" size 819222 crc 135c0494 md5 a2a900b47c87caacff4d196d327028c0 )
+)
+
+game (
+	name "Font Loader (1991)(Phantom Software)"
+	description "Font Loader (1991)(Phantom Software)"
+	rom ( name "Font Loader (1991)(Phantom Software).sad" size 819222 crc f8433fc0 md5 c6ed5d85e45829933fafdbad2121b476 )
+)
+
+game (
+	name "Fred 18 Freebie (19xx)(Simon Cooke)"
+	description "Fred 18 Freebie (19xx)(Simon Cooke)"
+	rom ( name "Fred 18 Freebie (19xx)(Simon Cooke).sad" size 819222 crc 72ddf067 md5 621c5090c23db91513c89bc446ece679 )
+)
+
+game (
+	name "Graphic Converters (1993)(Simon Cooke)"
+	description "Graphic Converters (1993)(Simon Cooke)"
+	rom ( name "Graphic Converters (1993)(Simon Cooke).sad" size 819222 crc a542a318 md5 d2a805984c1dbcbb704ca763cb014111 )
+)
+
+game (
+	name "Holidaying At SamTech (19xx)(Simon Cooke)"
+	description "Holidaying At SamTech (19xx)(Simon Cooke)"
+	rom ( name "Holidaying At SamTech (19xx)(Simon Cooke).sad" size 819222 crc 94600d7a md5 2d4e64a6f97cf46ce8c3e9a36b41e014 )
+)
+
+game (
+	name "ICONMASTER v1.0 (1993)(Revelation - Steve Taylor)"
+	description "ICONMASTER v1.0 (1993)(Revelation - Steve Taylor)"
+	rom ( name "ICONMASTER v1.0 (1993)(Revelation - Steve Taylor).sad" size 819222 crc d784b7f9 md5 7aa478dbe754e4c0cf40f290b1c4c6be )
+)
+
+game (
+	name "In Comet Format Master v1.2 (19xx)(-)"
+	description "In Comet Format Master v1.2 (19xx)(-)"
+	rom ( name "In Comet Format Master v1.2 (19xx)(-).sad" size 819222 crc 164b4de6 md5 dbb1f5edd8c53819567106378fd3a0a7 )
+)
+
+game (
+	name "In Comet Format Work Copy v1.2 (19xx)(-)"
+	description "In Comet Format Work Copy v1.2 (19xx)(-)"
+	rom ( name "In Comet Format Work Copy v1.2 (19xx)(-).sad" size 819222 crc 74fd5546 md5 76263e0e735d82534a91d9a8af2db572 )
+)
+
+game (
+	name "Loading Tetris (19xx)(Simon Cooke)"
+	description "Loading Tetris (19xx)(Simon Cooke)"
+	rom ( name "Loading Tetris (19xx)(Simon Cooke).sad" size 819222 crc f7152f66 md5 d2aaf6593a7600c464410b3bfb8c4226 )
+)
+
+game (
+	name "MasterBASIC Maker (1994)(Betasoft)"
+	description "MasterBASIC Maker (1994)(Betasoft)"
+	rom ( name "MasterBASIC Maker (1994)(Betasoft).sad" size 819222 crc 77ff573d md5 51e088b81aca550893767fe43214e813 )
+)
+
+game (
+	name "MasterDOS Utility Disk v3.0 (199x)(-)"
+	description "MasterDOS Utility Disk v3.0 (199x)(-)"
+	rom ( name "MasterDOS Utility Disk v3.0 (199x)(-).sad" size 819222 crc 31a208e6 md5 0ae4f56db201003d14e413f770dcca5d )
+)
+
+game (
+	name "Misc. Text Files for Secretary Word Processor (19xx)(-)"
+	description "Misc. Text Files for Secretary Word Processor (19xx)(-)"
+	rom ( name "Misc. Text Files for Secretary Word Processor (19xx)(-).sad" size 819222 crc 65f2053b md5 6b89f735d74868a86eddaa37f861841f )
+)
+
+game (
+	name "Misc. Utilities 1 (19xx)(-)"
+	description "Misc. Utilities 1 (19xx)(-)"
+	rom ( name "Misc. Utilities 1 (19xx)(-).sad" size 819222 crc 6b211d9c md5 f5eecf74377caa7ddb5964f7f12689c6 )
+)
+
+game (
+	name "Misc. Utilities 2 (19xx)(-)"
+	description "Misc. Utilities 2 (19xx)(-)"
+	rom ( name "Misc. Utilities 2 (19xx)(-).sad" size 819222 crc 5c82c014 md5 4e54e0a591a6d9c21df73077f65fe95f )
+)
+
+game (
+	name "Misc. Utilities 3 (19xx)(-)"
+	description "Misc. Utilities 3 (19xx)(-)"
+	rom ( name "Misc. Utilities 3 (19xx)(-).sad" size 819222 crc c17cb175 md5 348c2cb26bc65d13ab33f9ee98c852d7 )
+)
+
+game (
+	name "Misc. Utilities 4 (19xx)(-)"
+	description "Misc. Utilities 4 (19xx)(-)"
+	rom ( name "Misc. Utilities 4 (19xx)(-).sad" size 819222 crc f633fd69 md5 fd04bd6e516efe8eb9f31cd4bcee7252 )
+)
+
+game (
+	name "Music & Samples (19xx)(-)"
+	description "Music & Samples (19xx)(-)"
+	rom ( name "Music & Samples (19xx)(-).sad" size 819222 crc c201ddb8 md5 29eafe930741e8e8c69f482ae550d038 )
+)
+
+game (
+	name "PC Contract Set (19xx)(-)"
+	description "PC Contract Set (19xx)(-)"
+	rom ( name "PC Contract Set (19xx)(-).sad" size 819222 crc f5e20064 md5 dd2b7bc90c9c0b6e5e57dc361aff9708 )
+)
+
+game (
+	name "PC Suite v2.2 (1991)(Spencer)"
+	description "PC Suite v2.2 (1991)(Spencer)"
+	rom ( name "PC Suite v2.2 (1991)(Spencer).sad" size 819222 crc d82640bf md5 d4df83b06339f35fe51117955e83e609 )
+)
+
+game (
+	name "Raw Data 1 (19xx)(-)"
+	description "Raw Data 1 (19xx)(-)"
+	rom ( name "Raw Data 1 (19xx)(-).sad" size 819222 crc c68c3da1 md5 56e958aead3850daed9730648a16db4f )
+)
+
+game (
+	name "Rick Dangerous Stuff (19xx)(Simon Cooke)"
+	description "Rick Dangerous Stuff (19xx)(Simon Cooke)"
+	rom ( name "Rick Dangerous Stuff (19xx)(Simon Cooke).sad" size 819222 crc 77f52d74 md5 b7b82477016dbd611f3d7fba88a7eec9 )
+)
+
+game (
+	name "SAM MOD Player v2.1 (1996)(Stefan Drissen)"
+	description "SAM MOD Player v2.1 (1996)(Stefan Drissen)"
+	rom ( name "SAM MOD Player v2.1 (1996)(Stefan Drissen).sad" size 819222 crc 0b70c8e8 md5 c5c6824968c32d72bd169491a0aa18c4 )
+)
+
+game (
+	name "Sam Paint (19xx)(-)"
+	description "Sam Paint (19xx)(-)"
+	rom ( name "Sam Paint (19xx)(-).sad" size 819200 crc bb7f35f9 md5 14b96686ebb003406da72fefc6c8b8ad )
+)
+
+game (
+	name "Samples (19xx)(Simon Cooke)"
+	description "Samples (19xx)(Simon Cooke)"
+	rom ( name "Samples (19xx)(Simon Cooke).sad" size 819222 crc 8b0e54f7 md5 bed5fbde62b84679f0b3e39dc990a2cb )
+)
+
+game (
+	name "Samples and Instruments (19xx)(-)"
+	description "Samples and Instruments (19xx)(-)"
+	rom ( name "Samples and Instruments (19xx)(-).sad" size 819222 crc 5b5d7bf1 md5 92dbffb3f155cda09286792bfeb59839 )
+)
+
+game (
+	name "SC_DTP v1.02 (1993-04)(Steve's Software)[512k]"
+	description "SC_DTP v1.02 (1993-04)(Steve's Software)[512k]"
+	rom ( name "SC_DTP v1.02 (1993-04)(Steve's Software)[512k].sad" size 819222 crc 4463a868 md5 974aae253085a788a703918c1a22195d )
+)
+
+game (
+	name "Secretary, The (1992)(A.N.Stevens)"
+	description "Secretary, The (1992)(A.N.Stevens)"
+	rom ( name "Secretary, The (1992)(A.N.Stevens).sad" size 819222 crc 4f784ccf md5 5e003452df60f68f445427e14902d3c7 )
+)
+
+game (
+	name "Small C (1995)(Rumsoft)"
+	description "Small C (1995)(Rumsoft)"
+	rom ( name "Small C (1995)(Rumsoft).sad" size 819222 crc a00c1e68 md5 eef641b8fe4c0de3eff5d5394071fa0a )
+)
+
+game (
+	name "Sound Machine (1991)(Paul Angel)"
+	description "Sound Machine (1991)(Paul Angel)"
+	rom ( name "Sound Machine (1991)(Paul Angel).sad" size 819222 crc 4bf12513 md5 cd13fa639b232eb231f6ba35e8457051 )
+)
+
+game (
+	name "Source Code Samples Disk 1 (19xx)(-)"
+	description "Source Code Samples Disk 1 (19xx)(-)"
+	rom ( name "Source Code Samples Disk 1 (19xx)(-).sad" size 819222 crc 25a75d1f md5 489c8b2bcd072080971d19da046594fa )
+)
+
+game (
+	name "Source Code Samples Disk 2 (19xx)(-)"
+	description "Source Code Samples Disk 2 (19xx)(-)"
+	rom ( name "Source Code Samples Disk 2 (19xx)(-).sad" size 819222 crc d2ebb544 md5 e3d86fe2ab0577301a091596d6c8e8cc )
+)
+
+game (
+	name "Speccy Emulators (19xx)(-)"
+	description "Speccy Emulators (19xx)(-)"
+	rom ( name "Speccy Emulators (19xx)(-).sad" size 819222 crc 292690e2 md5 d8da94665a151beba05ffe17b8ff6fc5 )
+)
+
+game (
+	name "Speccy EmulFiles (19xx)(-)"
+	description "Speccy EmulFiles (19xx)(-)"
+	rom ( name "Speccy EmulFiles (19xx)(-).sad" size 819222 crc 13b8b3fa md5 758d6a7783c1cb16b20313cc5ed90734 )
+)
+
+game (
+	name "Speccy Utils (19xx)(-)"
+	description "Speccy Utils (19xx)(-)"
+	rom ( name "Speccy Utils (19xx)(-).sad" size 819222 crc 44fc5d3a md5 99fed5aae2e8df87e53176bfd77fe696 )
+)
+
+game (
+	name "Speed King Hacking (19xx)(-)"
+	description "Speed King Hacking (19xx)(-)"
+	rom ( name "Speed King Hacking (19xx)(-).sad" size 819222 crc 77422fed md5 8756012985d42b28cd4186bdfc669a54 )
+)
+
+game (
+	name "SpellMaster (1992)(FRED Publishing)"
+	description "SpellMaster (1992)(FRED Publishing)"
+	rom ( name "SpellMaster (1992)(FRED Publishing).sad" size 819200 crc 161cd00f md5 ee0add099546db7433b29b3f36b48b30 )
+)
+
+game (
+	name "Stuff (19xx)(Simon Cooke)"
+	description "Stuff (19xx)(Simon Cooke)"
+	rom ( name "Stuff (19xx)(Simon Cooke).sad" size 819222 crc 5a7c6f00 md5 11d9e9f8ca4d0899d96709603760b4c5 )
+)
+
+game (
+	name "Work Disk (19xx)(Simon Cooke)"
+	description "Work Disk (19xx)(Simon Cooke)"
+	rom ( name "Work Disk (19xx)(Simon Cooke).sad" size 819222 crc 85db5a1e md5 83790d27543d2b4383bf3fd880203749 )
+)

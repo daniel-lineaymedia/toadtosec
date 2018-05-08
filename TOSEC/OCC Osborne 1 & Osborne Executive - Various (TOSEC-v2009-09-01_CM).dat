@@ -1,0 +1,622 @@
+clrmamepro (
+	name "OCC Osborne 1 & Osborne Executive - Various"
+	description "OCC Osborne 1 & Osborne Executive - Various (TOSEC-v2009-09-01)"
+	category "OCC Osborne 1 & Osborne Executive - Various"
+	version 2009-09-01
+	author "Cid - Grendel"
+)
+
+game (
+	name "ADM 3 Animal Selected (1985)(Borland)"
+	description "ADM 3 Animal Selected (1985)(Borland)"
+	rom ( name "ADM 3 Animal Selected (1985)(Borland).com" size 14592 crc b4d03772 md5 586e9dc7b8a3f86a001869f30ad5ac8f )
+)
+
+game (
+	name "BDS C Standard I-O Header File (19xx)(Dan Sunday)"
+	description "BDS C Standard I-O Header File (19xx)(Dan Sunday)"
+	rom ( name "BDS C Standard I-O Header File (19xx)(Dan Sunday).osb" size 5360 crc e311dba6 md5 d5f43de57f6862e612568813c919a5b8 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)"
+	description "CP-M v3.0 (1982)(Digital Research)"
+	rom ( name "CP-M v3.0 (1982)(Digital Research).com" size 3072 crc c3a661d5 md5 20d2d11d0aacb4a74f9fecf42f2bae32 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a10]"
+	description "CP-M v3.0 (1982)(Digital Research)[a10]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a10].com" size 7424 crc cf3de4f2 md5 edf4b5382cee21089583183fd21fdfcf )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a11]"
+	description "CP-M v3.0 (1982)(Digital Research)[a11]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a11].com" size 14592 crc a62baadd md5 5aa2df9f161fb21d45328823dcb22bfc )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a12]"
+	description "CP-M v3.0 (1982)(Digital Research)[a12]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a12].com" size 9344 crc b814560d md5 feef2aaafb84212b2fe9f675628dcf08 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a13]"
+	description "CP-M v3.0 (1982)(Digital Research)[a13]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a13].com" size 3712 crc f7bb99dc md5 bca73b6ed41cd090f38acdc206419f64 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a14]"
+	description "CP-M v3.0 (1982)(Digital Research)[a14]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a14].com" size 14848 crc 79ed00b8 md5 6c7042ef759f6107595808def5c97f25 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a15]"
+	description "CP-M v3.0 (1982)(Digital Research)[a15]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a15].com" size 6528 crc 150e989e md5 bb5109f87ddb65737f687c230ae1abcb )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a16]"
+	description "CP-M v3.0 (1982)(Digital Research)[a16]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a16].com" size 7168 crc f76cb445 md5 268a403d9532b50e84d587bc4abd05b0 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a17]"
+	description "CP-M v3.0 (1982)(Digital Research)[a17]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a17].com" size 1152 crc 84811afc md5 ae941901508cb5b4de3749633b3ee3e5 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a18]"
+	description "CP-M v3.0 (1982)(Digital Research)[a18]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a18].com" size 32000 crc b09736a6 md5 e677305291811fd7d49f035951d8295e )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a2]"
+	description "CP-M v3.0 (1982)(Digital Research)[a2]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a2].com" size 7936 crc d14ac344 md5 c4bafdefdc2dd09e43afc8b94cc2aba1 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a3]"
+	description "CP-M v3.0 (1982)(Digital Research)[a3]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a3].com" size 8448 crc 04c6dabd md5 9c18dbf03ff97e7c2f5b20571adbbb44 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a4]"
+	description "CP-M v3.0 (1982)(Digital Research)[a4]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a4].com" size 4096 crc cd3af984 md5 6b6f6a4cb3da57cb6c605871a9cb7cff )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a5]"
+	description "CP-M v3.0 (1982)(Digital Research)[a5]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a5].com" size 10368 crc df438f12 md5 259ba157730b8188482d5849a7eedd5d )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a6]"
+	description "CP-M v3.0 (1982)(Digital Research)[a6]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a6].com" size 2944 crc d7c1f36d md5 7d8dac8f877243f41fef66f4c16554cb )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a7]"
+	description "CP-M v3.0 (1982)(Digital Research)[a7]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a7].com" size 7040 crc 390efb4d md5 68ceab1c71f138fd77f003b53a626b54 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a8]"
+	description "CP-M v3.0 (1982)(Digital Research)[a8]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a8].com" size 8704 crc 217590fc md5 691f25b0b567fd64a1d47163c8deda66 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a9]"
+	description "CP-M v3.0 (1982)(Digital Research)[a9]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a9].com" size 2816 crc c57ab204 md5 2bf5b11a5874f000d9807bcf07b1a7f7 )
+)
+
+game (
+	name "CP-M v3.0 (1982)(Digital Research)[a]"
+	description "CP-M v3.0 (1982)(Digital Research)[a]"
+	rom ( name "CP-M v3.0 (1982)(Digital Research)[a].com" size 5376 crc f79f63c7 md5 fb82ec01e0cf374dfc485f6bc5febaba )
+)
+
+game (
+	name "CP-M 3 SAW v3.0 (19xx)(Digital Research)"
+	description "CP-M 3 SAW v3.0 (19xx)(Digital Research)"
+	rom ( name "CP-M 3 SAW v3.0 (19xx)(Digital Research).com" size 1792 crc e4b76038 md5 d888e731391fb60682a4d32f091aea2e )
+)
+
+game (
+	name "City Kilobyte Driver Capacity 32byte (19xx)(-)"
+	description "City Kilobyte Driver Capacity 32byte (19xx)(-)"
+	rom ( name "City Kilobyte Driver Capacity 32byte (19xx)(-).com" size 8448 crc a38fe306 md5 ce254cf59d75f2adb98900194800d4fc )
+)
+
+game (
+	name "Cros Stalk (1981)(Microstuf Inc.)"
+	description "Cros Stalk (1981)(Microstuf Inc.)"
+	rom ( name "Cros Stalk (1981)(Microstuf Inc.).com" size 11008 crc 026a4b03 md5 4d523a124e2744a655766bb028b3b146 )
+)
+
+game (
+	name "Disk Utility v7.5 + Mods (1981)(-)"
+	description "Disk Utility v7.5 + Mods (1981)(-)"
+	rom ( name "Disk Utility v7.5 + Mods (1981)(-).com" size 6912 crc 45a20592 md5 bf988078a79fe6767d9edfe324bae6d2 )
+)
+
+game (
+	name "Disk Utility Program (1983)(Osborne Computer Corp.)"
+	description "Disk Utility Program (1983)(Osborne Computer Corp.)"
+	rom ( name "Disk Utility Program (1983)(Osborne Computer Corp.).com" size 7936 crc f42f3bdb md5 be7416da5b84fa4ba6419d81db9f9bd3 )
+)
+
+game (
+	name "Dump v3.0 (1982)(Digital Research)"
+	description "Dump v3.0 (1982)(Digital Research)"
+	rom ( name "Dump v3.0 (1982)(Digital Research).com" size 1024 crc 7a424d3c md5 77c30e1189e78edb66135d249fca8503 )
+)
+
+game (
+	name "End of Execution (1980)(Digital Research)"
+	description "End of Execution (1980)(Digital Research)"
+	rom ( name "End of Execution (1980)(Digital Research).com" size 15488 crc 56a2ec91 md5 233700737fb1b467aa5bde5d011418a6 )
+)
+
+game (
+	name "Exclock (19xx)(George F. Peace)"
+	description "Exclock (19xx)(George F. Peace)"
+	rom ( name "Exclock (19xx)(George F. Peace).com" size 1664 crc 1efabe18 md5 7f266e03d6be9c10afd5b78575d320b9 )
+)
+
+game (
+	name "Execst v1.0 (1983)(Osborne Computer Corp.)"
+	description "Execst v1.0 (1983)(Osborne Computer Corp.)"
+	rom ( name "Execst v1.0 (1983)(Osborne Computer Corp.).com" size 2560 crc b16b7221 md5 434467b4ed13e1111bc95118478118bf )
+)
+
+game (
+	name "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.)"
+	description "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.)"
+	rom ( name "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.).com" size 10624 crc 347589c1 md5 f3e34d8a86716f18d28ead0fef4166de )
+)
+
+game (
+	name "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.)[a]"
+	description "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.)[a]"
+	rom ( name "Executive Configuration Program v1.2 (1983)(Osborne Computer Corp.)[a].com" size 10368 crc 01a58c35 md5 302c4b5bc306b8a99f737e96bc0a1114 )
+)
+
+game (
+	name "Exkermit-80 v4.05 (1986)(-)"
+	description "Exkermit-80 v4.05 (1986)(-)"
+	rom ( name "Exkermit-80 v4.05 (1986)(-).lbr" size 16256 crc 6a31e52c md5 47e55a622aee64633487e7550cda59a7 )
+)
+
+game (
+	name "Find Character (1984)(William Van Ripper)(Osbourne 1)(PD)"
+	description "Find Character (1984)(William Van Ripper)(Osbourne 1)(PD)"
+	rom ( name "Find Character (1984)(William Van Ripper)(Osbourne 1)(PD).bas" size 2560 crc 88008d7a md5 0ce8f687574841e891b4d6b600fde868 )
+)
+
+game (
+	name "Font RAM Character (19xx)(-)"
+	description "Font RAM Character (19xx)(-)"
+	rom ( name "Font RAM Character (19xx)(-).com" size 29184 crc 1eb8052c md5 b05b0747f6dd2af3c1fc9503a70883cc )
+)
+
+game (
+	name "Initialization for the OSBORNE Executive v1.0 (1982)(Mocrstuf Inc.)"
+	description "Initialization for the OSBORNE Executive v1.0 (1982)(Mocrstuf Inc.)"
+	rom ( name "Initialization for the OSBORNE Executive v1.0 (1982)(Mocrstuf Inc.).com" size 1024 crc 84696892 md5 d83d9efa36b08a190767efe1f8b99c95 )
+)
+
+game (
+	name "Linking (1980)(Digital Research)"
+	description "Linking (1980)(Digital Research)"
+	rom ( name "Linking (1980)(Digital Research).com" size 15744 crc 15948135 md5 c3daddec0614d3d37a67d2d1698a2d0f )
+)
+
+game (
+	name "MGAT Catalog PGM v4.3 (1984)(-)"
+	description "MGAT Catalog PGM v4.3 (1984)(-)"
+	rom ( name "MGAT Catalog PGM v4.3 (1984)(-).com" size 6912 crc 7e142604 md5 2713eaaa7ea9867ae90c9f6996244ac0 )
+)
+
+game (
+	name "Micro Resources (1982)(Michael J.Karas)"
+	description "Micro Resources (1982)(Michael J.Karas)"
+	rom ( name "Micro Resources (1982)(Michael J.Karas).com" size 7936 crc fcfc9cae md5 ce15d5571b6b9e1a5c7dfc4c8526ac16 )
+)
+
+game (
+	name "MicroPro WordStar v2.26 (1981)(MicoPro International Inc.)"
+	description "MicroPro WordStar v2.26 (1981)(MicoPro International Inc.)"
+	rom ( name "MicroPro WordStar v2.26 (1981)(MicoPro International Inc.).com" size 16128 crc 8695c5b2 md5 95f02a6ad0f151ad47dc65ce03c573bc )
+)
+
+game (
+	name "MicroPro WordStar v2.26 (1981)(MicroPro International Corp.)"
+	description "MicroPro WordStar v2.26 (1981)(MicroPro International Corp.)"
+	rom ( name "MicroPro WordStar v2.26 (1981)(MicroPro International Corp.).com" size 32000 crc c4877e7b md5 7c78a21a736be37eeec08389b8eb98e9 )
+)
+
+game (
+	name "NSWP (1983)(Dave Rand)"
+	description "NSWP (1983)(Dave Rand)"
+	rom ( name "NSWP (1983)(Dave Rand).com" size 11776 crc d8fef128 md5 a3831a3427e3ebe6e83ac9f8e4cccf5c )
+)
+
+game (
+	name "NSWP (1983)(Dave Rand)[a]"
+	description "NSWP (1983)(Dave Rand)[a]"
+	rom ( name "NSWP (1983)(Dave Rand)[a].com" size 11008 crc 79257d14 md5 d61db07b96c84e1b6e48785dc93a8d74 )
+)
+
+game (
+	name "Null File Utility v1.0 (1984)(Null)"
+	description "Null File Utility v1.0 (1984)(Null)"
+	rom ( name "Null File Utility v1.0 (1984)(Null).com" size 640 crc 4c918a07 md5 9189f27938887f4db8123337a24a5e4d )
+)
+
+game (
+	name "Operating System Program (1983)(Osborne Computer Corp.)"
+	description "Operating System Program (1983)(Osborne Computer Corp.)"
+	rom ( name "Operating System Program (1983)(Osborne Computer Corp.).com" size 4352 crc 2f2c9512 md5 3f387054d0350caba95c019022aab7a9 )
+)
+
+game (
+	name "Osbourne 1 RS-232 UART Data (1984)(-)"
+	description "Osbourne 1 RS-232 UART Data (1984)(-)"
+	rom ( name "Osbourne 1 RS-232 UART Data (1984)(-).dzc" size 2176 crc 6f12597e md5 d2892171096a278b4421bcc736777fe9 )
+)
+
+game (
+	name "Osbourne Executive Clock Setting Utility (1989)(-)[fix]"
+	description "Osbourne Executive Clock Setting Utility (1989)(-)[fix]"
+	rom ( name "Osbourne Executive Clock Setting Utility (1989)(-)[fix].lbr" size 5760 crc 3bb68179 md5 4b617149cfed2a27f4312024935ad95c )
+)
+
+game (
+	name "Osbourne Modem routines (19xx)(Dan Sunday)"
+	description "Osbourne Modem routines (19xx)(Dan Sunday)"
+	rom ( name "Osbourne Modem routines (19xx)(Dan Sunday).osb" size 2751 crc 9749cf9c md5 bde2bb909ecf897d0f6a2e732eb65a66 )
+)
+
+game (
+	name "Osbourne and WS4 Patches (19xx)(-)"
+	description "Osbourne and WS4 Patches (19xx)(-)"
+	rom ( name "Osbourne and WS4 Patches (19xx)(-).lbr" size 11776 crc 23e5985f md5 e601732aadc9b639fd1f576c7f78bc3a )
+)
+
+game (
+	name "S Dump v1.1 (19xx)(-)(Executive)"
+	description "S Dump v1.1 (19xx)(-)(Executive)"
+	rom ( name "S Dump v1.1 (19xx)(-)(Executive).lbr" size 10624 crc 25136ebe md5 349464db378e5b4a2564c2aaa54bae7a )
+)
+
+game (
+	name "TeleDisk Version 2.15 (1992)(Sydex)"
+	description "TeleDisk Version 2.15 (1992)(Sydex)"
+	rom ( name "LZHE.COM" size 5636 crc 7de01d6a md5 6f5ba33a94c4f1a0cdbf6634e5d82e2f )
+	rom ( name "RTCH215.LZH" size 13073 crc 8fce8950 md5 c1ba030ccf0f79063870cc83a7c93485 )
+	rom ( name "RTDB215.LZH" size 67931 crc ef1881a3 md5 825b634f665863358f271d009d4139b4 )
+	rom ( name "RTDD215.LZH" size 70121 crc d626117e md5 8821d659608e6e55d4ab5df779c5b8b5 )
+)
+
+game (
+	name "Televideo 900 Series (1983)(Borland Inc.)"
+	description "Televideo 900 Series (1983)(Borland Inc.)"
+	rom ( name "Televideo 900 Series (1983)(Borland Inc.).com" size 15232 crc c2f794c4 md5 1745fc953f738450ef991a06f2be479f )
+)
+
+game (
+	name "Term v4.01 (1982)(M.M. Rubenstein)"
+	description "Term v4.01 (1982)(M.M. Rubenstein)"
+	rom ( name "Term v4.01 (1982)(M.M. Rubenstein).dqc" size 27136 crc 8f8828a2 md5 22b8b5a82fc04f1e5bb5349a2550c49b )
+)
+
+game (
+	name "Termine Daily Calendar (1988)(-)"
+	description "Termine Daily Calendar (1988)(-)"
+	rom ( name "Termine Daily Calendar (1988)(-).com" size 896 crc 5b4f2126 md5 37cb862e4701bdee0af6d6f5ad03ca3a )
+)
+
+game (
+	name "Turbo (1985)(Borland Inc.)"
+	description "Turbo (1985)(Borland Inc.)"
+	rom ( name "Turbo (1985)(Borland Inc.).com" size 30848 crc ff1e5518 md5 121f48690cc83feca49a7993ff45f12b )
+)
+
+game (
+	name "Turbo Pascal Patch (19xx)(Tim Vold)(Executive)"
+	description "Turbo Pascal Patch (19xx)(Tim Vold)(Executive)"
+	rom ( name "Turbo Pascal Patch (19xx)(Tim Vold)(Executive).lbr" size 1664 crc 73172cba md5 cff6c094a0d0fd6b784060afc6ce7386 )
+)
+
+game (
+	name "Welcome (19xx)(-)"
+	description "Welcome (19xx)(-)"
+	rom ( name "Welcome (19xx)(-).com" size 16128 crc 5886c5b4 md5 46db4cf61e9158a612b870ac5f1d17c5 )
+)
+
+game (
+	name "Word Start v2.2.6 (1981)(Micropro International)"
+	description "Word Start v2.2.6 (1981)(Micropro International)"
+	rom ( name "Word Start v2.2.6 (1981)(Micropro International).com" size 27648 crc d26cde8d md5 09a7593a9498b40028fb02cb3bb22c79 )
+)
+
+game (
+	name "Word Start v2.2x Message Texts (1981)(Micropro International)"
+	description "Word Start v2.2x Message Texts (1981)(Micropro International)"
+	rom ( name "Word Start v2.2x Message Texts (1981)(Micropro International).com" size 24576 crc 31a0e319 md5 2b28147832165510bea017bf5b3ca4e2 )
+)
+
+game (
+	name "ZZZ-UNK-ALMAZAR"
+	description "ZZZ-UNK-ALMAZAR"
+	rom ( name "ZZZ-UNK-ALMAZAR.lbr" size 26112 crc b2c41942 md5 89298e602dc7dd9b50537f9cd60a4d9c )
+)
+
+game (
+	name "ZZZ-UNK-CLOCK"
+	description "ZZZ-UNK-CLOCK"
+	rom ( name "ZZZ-UNK-CLOCK.lbr" size 13568 crc 057e387a md5 7eb899385067571182937ce7efba508a )
+)
+
+game (
+	name "ZZZ-UNK-EXRDTRAK"
+	description "ZZZ-UNK-EXRDTRAK"
+	rom ( name "ZZZ-UNK-EXRDTRAK.lbr" size 4608 crc c881a9f7 md5 962ca78cd59ae28e65efb39fdaf7492c )
+)
+
+game (
+	name "ZZZ-UNK-EXWINDOW"
+	description "ZZZ-UNK-EXWINDOW"
+	rom ( name "ZZZ-UNK-EXWINDOW.lbr" size 5120 crc 5f131dea md5 80f9368a6f1cdd0c4998daacb2579e7d )
+)
+
+game (
+	name "ZZZ-UNK-FLIPKEYS"
+	description "ZZZ-UNK-FLIPKEYS"
+	rom ( name "ZZZ-UNK-FLIPKEYS.lbr" size 7552 crc 35e52fd0 md5 2a5a86fa8b8ada8120d045306a98e13c )
+)
+
+game (
+	name "ZZZ-UNK-ROX"
+	description "ZZZ-UNK-ROX"
+	rom ( name "ZZZ-UNK-ROX.lbr" size 124416 crc fdde9dc4 md5 d53c27f758b7ef9f9bc3b5fed527056c )
+)
+
+game (
+	name "ZZZ-UNK-basic"
+	description "ZZZ-UNK-basic"
+	rom ( name "ZZZ-UNK-basic.td0" size 57070 crc 8d84da83 md5 3b7f012e9db2b6176183f629e64bef18 )
+)
+
+game (
+	name "ZZZ-UNK-calendr"
+	description "ZZZ-UNK-calendr"
+	rom ( name "ZZZ-UNK-calendr.v00" size 128 crc 8ab47ea8 md5 945efa8cbeed6b71bcc4fbf648031356 )
+)
+
+game (
+	name "ZZZ-UNK-d"
+	description "ZZZ-UNK-d"
+	rom ( name "ZZZ-UNK-d.com" size 3072 crc 9c51674e md5 b7788033cbf98c8de536155405bd6056 )
+)
+
+game (
+	name "ZZZ-UNK-d [a]"
+	description "ZZZ-UNK-d [a]"
+	rom ( name "ZZZ-UNK-d [a].com" size 3200 crc 605303be md5 268c14e306be24a8bf8b012a5cfee96b )
+)
+
+game (
+	name "ZZZ-UNK-dbase"
+	description "ZZZ-UNK-dbase"
+	rom ( name "ZZZ-UNK-dbase.td0" size 56706 crc 1266f67c md5 b5885a035f3b81971dfda14882344621 )
+)
+
+game (
+	name "ZZZ-UNK-dias"
+	description "ZZZ-UNK-dias"
+	rom ( name "ZZZ-UNK-dias.td0" size 46760 crc 04b4bec8 md5 0099e93c86d0861fa04a1c0315bc48af )
+)
+
+game (
+	name "ZZZ-UNK-exec-1"
+	description "ZZZ-UNK-exec-1"
+	rom ( name "ZZZ-UNK-exec-1.td0" size 119631 crc 6d635a91 md5 bfbe7a5404a810006d7df0e206073522 )
+)
+
+game (
+	name "ZZZ-UNK-exec-2"
+	description "ZZZ-UNK-exec-2"
+	rom ( name "ZZZ-UNK-exec-2.td0" size 173335 crc a18a4066 md5 514799dc8ebad7f47067c07966ab5f1e )
+)
+
+game (
+	name "ZZZ-UNK-exec_3"
+	description "ZZZ-UNK-exec_3"
+	rom ( name "ZZZ-UNK-exec_3.td0" size 111318 crc c65f7f78 md5 26925e753df95fc75b7dc2e32b2f11c5 )
+)
+
+game (
+	name "ZZZ-UNK-executiv"
+	description "ZZZ-UNK-executiv"
+	rom ( name "ZZZ-UNK-executiv.td0" size 66610 crc 5ec1a3c7 md5 3eb379d81a511eef37b6bf086d03f4bf )
+)
+
+game (
+	name "ZZZ-UNK-lib (1980)(Digital Research)"
+	description "ZZZ-UNK-lib (1980)(Digital Research)"
+	rom ( name "ZZZ-UNK-lib (1980)(Digital Research).com" size 7168 crc 90799a84 md5 57f6e9fae87a669ed75ea51776cb798a )
+)
+
+game (
+	name "ZZZ-UNK-mac (1977)(Digital Research)"
+	description "ZZZ-UNK-mac (1977)(Digital Research)"
+	rom ( name "ZZZ-UNK-mac (1977)(Digital Research).com" size 11776 crc 90ddc3a9 md5 6a78b46dd455ed809baa858d81b2c254 )
+)
+
+game (
+	name "ZZZ-UNK-mcal"
+	description "ZZZ-UNK-mcal"
+	rom ( name "ZZZ-UNK-mcal.td0" size 40392 crc ee61a8e9 md5 4cb9f984f28081e13003fedbaf4f5b44 )
+)
+
+game (
+	name "ZZZ-UNK-mdm7"
+	description "ZZZ-UNK-mdm7"
+	rom ( name "ZZZ-UNK-mdm7.td0" size 46928 crc 2a6383d2 md5 a923433a2b2a8175c103bd8ef9136d28 )
+)
+
+game (
+	name "ZZZ-UNK-mm"
+	description "ZZZ-UNK-mm"
+	rom ( name "ZZZ-UNK-mm.com" size 37376 crc c7fc03d3 md5 4bf01c549684d5d2428b2f41747ffae4 )
+)
+
+game (
+	name "ZZZ-UNK-nuevo"
+	description "ZZZ-UNK-nuevo"
+	rom ( name "ZZZ-UNK-nuevo.td0" size 48930 crc 56f7b99d md5 db1bf6687d152483166aee85827c6cfc )
+)
+
+game (
+	name "ZZZ-UNK-pearldf"
+	description "ZZZ-UNK-pearldf"
+	rom ( name "ZZZ-UNK-pearldf.com" size 21760 crc 5ea45ef8 md5 df43522d58ae2ca4414a643616a05089 )
+)
+
+game (
+	name "ZZZ-UNK-pearldr"
+	description "ZZZ-UNK-pearldr"
+	rom ( name "ZZZ-UNK-pearldr.com" size 23424 crc 818d76ee md5 03db96e07cf2e4b4d24944b950ec0c96 )
+)
+
+game (
+	name "ZZZ-UNK-pearled"
+	description "ZZZ-UNK-pearled"
+	rom ( name "ZZZ-UNK-pearled.com" size 13696 crc 512d917d md5 4d0cd1c9853c47e4b8ee240c3bc553d4 )
+)
+
+game (
+	name "ZZZ-UNK-pearlfm"
+	description "ZZZ-UNK-pearlfm"
+	rom ( name "ZZZ-UNK-pearlfm.com" size 15360 crc cdca6d7b md5 1498989dcfabc7d592cdada4f53ae787 )
+)
+
+game (
+	name "ZZZ-UNK-pearli"
+	description "ZZZ-UNK-pearli"
+	rom ( name "ZZZ-UNK-pearli.com" size 20608 crc 8b13120b md5 51f032e995dcc72ffd8434270d5a2541 )
+)
+
+game (
+	name "ZZZ-UNK-pearlpr"
+	description "ZZZ-UNK-pearlpr"
+	rom ( name "ZZZ-UNK-pearlpr.com" size 15744 crc 18bdacc2 md5 370b059b86d2fc4f647cccb3a702c86f )
+)
+
+game (
+	name "ZZZ-UNK-pearlpr [a]"
+	description "ZZZ-UNK-pearlpr [a]"
+	rom ( name "ZZZ-UNK-pearlpr [a].com" size 15744 crc 06168e5e md5 391cc112eb53a8794585c51f78fcb4cd )
+)
+
+game (
+	name "ZZZ-UNK-psort"
+	description "ZZZ-UNK-psort"
+	rom ( name "ZZZ-UNK-psort.com" size 11648 crc 8c21a790 md5 0a55d7c98df86372fdc658fc09aef406 )
+)
+
+game (
+	name "ZZZ-UNK-rmac (1980)(Digital Research)"
+	description "ZZZ-UNK-rmac (1980)(Digital Research)"
+	rom ( name "ZZZ-UNK-rmac (1980)(Digital Research).com" size 13568 crc 11cf0283 md5 efa3954b9b1ef02230f4776dd6e3b1f6 )
+)
+
+game (
+	name "ZZZ-UNK-rom11 (19xx)(Osborne Computer Corp.)"
+	description "ZZZ-UNK-rom11 (19xx)(Osborne Computer Corp.)"
+	rom ( name "ZZZ-UNK-rom11 (19xx)(Osborne Computer Corp.).typ" size 8192 crc c5f73fc8 md5 c2485f27f2e2e7f481b9acc455bea4a6 )
+)
+
+game (
+	name "ZZZ-UNK-sysd"
+	description "ZZZ-UNK-sysd"
+	rom ( name "ZZZ-UNK-sysd.td0" size 57670 crc 8b67b9cc md5 2bdae911e4a0b149704b845bbe79e160 )
+)
+
+game (
+	name "ZZZ-UNK-syss"
+	description "ZZZ-UNK-syss"
+	rom ( name "ZZZ-UNK-syss.td0" size 49640 crc 47fcb5a7 md5 ceab12426b895536e6d363ee58133d1c )
+)
+
+game (
+	name "ZZZ-UNK-utils"
+	description "ZZZ-UNK-utils"
+	rom ( name "ZZZ-UNK-utils.td0" size 55960 crc 65fc65e4 md5 27ff7d8614947625dba65d5e747fc914 )
+)
+
+game (
+	name "ZZZ-UNK-winstall"
+	description "ZZZ-UNK-winstall"
+	rom ( name "ZZZ-UNK-winstall.com" size 29184 crc 264f1d7c md5 838af133f615c110f7d65cc4990718f8 )
+)
+
+game (
+	name "ZZZ-UNK-wrdst"
+	description "ZZZ-UNK-wrdst"
+	rom ( name "ZZZ-UNK-wrdst.td0" size 62774 crc 147a38ba md5 8560bf1620a827e58dcedc9c9b4ba0a9 )
+)
+
+game (
+	name "ZZZ-UNK-xdir"
+	description "ZZZ-UNK-xdir"
+	rom ( name "ZZZ-UNK-xdir.com" size 2304 crc 985cd99a md5 7f9d81557d8ff1f1e95c5f71a79bba7f )
+)
+
+game (
+	name "ZZZ-UNK-xutils"
+	description "ZZZ-UNK-xutils"
+	rom ( name "ZZZ-UNK-xutils.td0" size 35382 crc 630d7091 md5 8c7895696dd62e5633432bef36f68a12 )
+)
+
+game (
+	name "Exkermit - modified (1986)(Paul Woodie)"
+	description "Exkermit - modified (1986)(Paul Woodie)"
+	rom ( name "Exkermit - modified (1986)(Paul Woodie).lbr" size 26880 crc 62afa882 md5 6656f8527f2795d07e863fe9fd87041b )
+)
+
+game (
+	name "Function controller (1984)(William Van Ripper)(Osbourne 1)(PD)"
+	description "Function controller (1984)(William Van Ripper)(Osbourne 1)(PD)"
+	rom ( name "Function controller (1984)(William Van Ripper)(Osbourne 1)(PD).bas" size 1792 crc 233e00e5 md5 53421cf65f56e5855a3477a796de30d6 )
+)
+
+game (
+	name "Videonum (1984)(William Van Ripper)(Executive)(PD)"
+	description "Videonum (1984)(William Van Ripper)(Executive)(PD)"
+	rom ( name "Videonum (1984)(William Van Ripper)(Executive)(PD).bas" size 1024 crc 06a63716 md5 fb304326d3c69d84e7ae892efd0edeef )
+)
+
+game (
+	name "Window (1984)(William Van Ripper)(Executive)(PD)"
+	description "Window (1984)(William Van Ripper)(Executive)(PD)"
+	rom ( name "Window (1984)(William Van Ripper)(Executive)(PD).bas" size 3328 crc ea3322e6 md5 c491bbf2627a8dd53a771e9a92267b44 )
+)

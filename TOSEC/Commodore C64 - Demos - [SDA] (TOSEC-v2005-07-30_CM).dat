@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Commodore C64 - Demos - [SDA]"
+	description "Commodore C64 - Demos - [SDA] (TOSEC-v2005-07-30)"
+	category "Commodore C64 - Demos - [SDA]"
+	version 2005-07-30
+	author "DesertWolf"
+)
+
+game (
+	name "Blizzard (19xx)(Arson)"
+	description "Blizzard (19xx)(Arson)"
+	rom ( name "Blizzard (19xx)(Arson).sda" size 46080 crc e06fdf6f md5 4c6db7bd5e6f936c351abdf4a251453b )
+)
+
+game (
+	name "Inferno (1995)(Carcass)"
+	description "Inferno (1995)(Carcass)"
+	rom ( name "Inferno (1995)(Carcass).sda" size 15240 crc 77190225 md5 f90a95e2a6e8ed3faa890742d01ed0d6 )
+)

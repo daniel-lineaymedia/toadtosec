@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Coleco ColecoVision ADAM - Educational - [DDP]"
+	description "Coleco ColecoVision ADAM - Educational - [DDP] (TOSEC-v2011-08-31)"
+	category "Coleco ColecoVision ADAM - Educational - [DDP]"
+	version 2011-08-31
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Expertype - Smart Writer Typing Tuition Program (19xx)(-)"
+	description "Expertype - Smart Writer Typing Tuition Program (19xx)(-)"
+	rom ( name "Expertype - Smart Writer Typing Tuition Program (19xx)(-).ddp" size 262144 crc e02fa52d md5 3e2f172919886e1a8b0026d0bd6306c5 sha1 3fb29729ed0634ef6cca1753cc992dcf5c7d66c1 )
+)
+

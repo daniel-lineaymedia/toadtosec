@@ -1,0 +1,44 @@
+clrmamepro (
+	name "Commodore C64 - Demos - [G64]"
+	description "Commodore C64 - Demos - [G64] (TOSEC-v2012-04-08)"
+	category "Commodore C64 - Demos - [G64]"
+	version 2012-04-08
+	author "Duncan Twain - DesertWolf - Apache - wreg - greatxerox - image - tawt"
+)
+
+game (
+	name "Dexion Meeting Demo Disk (1988)(Dexion)(Side A)"
+	description "Dexion Meeting Demo Disk (1988)(Dexion)(Side A)"
+	rom ( name "Dexion Meeting Demo Disk (1988)(Dexion)(Side A).g64" size 666804 crc 0eb3a72e md5 81cef783c58757aa9fa9687472b2a21d sha1 c0a7754f1703eb3ca32ccafb1c7717dd0b967c6b )
+)
+
+game (
+	name "Dexion Meeting Demo Disk (1988)(Dexion)(Side B)"
+	description "Dexion Meeting Demo Disk (1988)(Dexion)(Side B)"
+	rom ( name "Dexion Meeting Demo Disk (1988)(Dexion)(Side B).g64" size 666804 crc a646bcbe md5 441c61148addbbc8537ce3d71c74d67b sha1 740565d8b0e51b7606d65b8d080f7f0800f100fe )
+)
+
+game (
+	name "Digital World (19xx)(Samar)(Side A)"
+	description "Digital World (19xx)(Samar)(Side A)"
+	rom ( name "Digital World (19xx)(Samar)(Side A).g64" size 333744 crc 7fdb694f md5 cf2dcb5370745c779fb1de8f3af3f919 sha1 3ec97194ca4d82977cc97cbc50871018d62eb5cd )
+)
+
+game (
+	name "Digital World (19xx)(Samar)(Side B)"
+	description "Digital World (19xx)(Samar)(Side B)"
+	rom ( name "Digital World (19xx)(Samar)(Side B).g64" size 333744 crc 920201fb md5 0a56543dddaf6f701217c8fb96693c5b sha1 f9c6f8ec389f9460887d15d4d6b7e0c98c1c2002 )
+)
+
+game (
+	name "Krestology 100% (1996)(Crest)(Side A)"
+	description "Krestology 100% (1996)(Crest)(Side A)"
+	rom ( name "Krestology 100% (1996)(Crest)(Side A).g64" size 333744 crc 0cb62e37 md5 476adba3f65d093e67582235118d02a6 sha1 e49b54244e28c5c23879db1ca414641da4da2bd0 )
+)
+
+game (
+	name "Krestology 100% (1996)(Crest)(Side B)"
+	description "Krestology 100% (1996)(Crest)(Side B)"
+	rom ( name "Krestology 100% (1996)(Crest)(Side B).g64" size 333744 crc f2e08d1e md5 eca6e6292a6cb939a09e082c1284811f sha1 e9c4e44438734ee3db0069bfb6728ad3597f68e0 )
+)
+

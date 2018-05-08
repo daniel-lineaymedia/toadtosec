@@ -1,0 +1,127 @@
+clrmamepro (
+	name "DEC PDP-7 - Collections - Digital - [BIN]"
+	description "DEC PDP-7 - Collections - Digital - [BIN] (TOSEC-v2010-08-25)"
+	category "DEC PDP-7 - Collections - Digital - [BIN]"
+	version 2010-08-25
+	author "TKaos"
+)
+
+game (
+	name "Digital-7-11-I-IO-ASCII-1 (1964-12-12)(DEC)(US)[Tic Toc Subroutines]"
+	description "Digital-7-11-I-IO-ASCII-1 (1964-12-12)(DEC)(US)[Tic Toc Subroutines]"
+	rom ( name "Digital-7-11-I-IO-ASCII-1 (1964-12-12)(DEC)(US)[Tic Toc Subroutines].bin" size 3888 crc 88a7d6cd md5 427bdc9f1674e7d2dbdfe37e17a43af0 )
+)
+
+game (
+	name "Digital-7-11-I-IO-ASCII-2 (1964-12-12)(DEC)(US)[Tic Toc Input]"
+	description "Digital-7-11-I-IO-ASCII-2 (1964-12-12)(DEC)(US)[Tic Toc Input]"
+	rom ( name "Digital-7-11-I-IO-ASCII-2 (1964-12-12)(DEC)(US)[Tic Toc Input].bin" size 3805 crc dc4906e5 md5 6f497fd60c43e64a2761eb6bda9b3b79 )
+)
+
+game (
+	name "Digital-7-11-I-IO-ASCII-3 (1964-12-12)(DEC)(US)[Tic Toc Output]"
+	description "Digital-7-11-I-IO-ASCII-3 (1964-12-12)(DEC)(US)[Tic Toc Output]"
+	rom ( name "Digital-7-11-I-IO-ASCII-3 (1964-12-12)(DEC)(US)[Tic Toc Output].bin" size 3258 crc befe9746 md5 fb9bb9d94505c790a40280a47c6a92b9 )
+)
+
+game (
+	name "Digital-7-14-O-ASCII (196x)(DEC)(US)[Octal Print Subroutine]"
+	description "Digital-7-14-O-ASCII (196x)(DEC)(US)[Octal Print Subroutine]"
+	rom ( name "Digital-7-14-O-ASCII (196x)(DEC)(US)[Octal Print Subroutine].bin" size 799 crc e0787419 md5 4363c8dda7bd197f707b647c9735e0e1 )
+)
+
+game (
+	name "Digital-7-15-O-ASCII (196x)(DEC)(US)[Decimal Integer Print]"
+	description "Digital-7-15-O-ASCII (196x)(DEC)(US)[Decimal Integer Print]"
+	rom ( name "Digital-7-15-O-ASCII (196x)(DEC)(US)[Decimal Integer Print].bin" size 1245 crc 4f36b424 md5 f0d96d255727132bdbf1bcf5e60b9167 )
+)
+
+game (
+	name "Digital-7-1-S-FB (1965-06-15)(DEC)(US)[Symbolic Tape Editor]"
+	description "Digital-7-1-S-FB (1965-06-15)(DEC)(US)[Symbolic Tape Editor]"
+	rom ( name "Digital-7-1-S-FB (1965-06-15)(DEC)(US)[Symbolic Tape Editor].bin" size 13589 crc 777b572a md5 d6815f8ad92dadb61e6e242ebd401fc4 )
+)
+
+game (
+	name "Digital-7-22A-IO-ASCII (1966-01-21)(DEC)(US)[PDP-7 Bi-Directional DECtape Routines]"
+	description "Digital-7-22A-IO-ASCII (1966-01-21)(DEC)(US)[PDP-7 Bi-Directional DECtape Routines]"
+	rom ( name "Digital-7-22A-IO-ASCII (1966-01-21)(DEC)(US)[PDP-7 Bi-Directional DECtape Routines].bin" size 13494 crc 084620f0 md5 e3729b678a2bfd79a60e0e6b0f19065c )
+)
+
+game (
+	name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 6DD Library]"
+	description "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 6DD Library]"
+	rom ( name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 6DD Library].bin" size 7277 crc d177f0d0 md5 5007265befb5a864d3535b5ab0c7481c )
+)
+
+game (
+	name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 9DD Library]"
+	description "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 9DD Library]"
+	rom ( name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran 9DD Library].bin" size 8334 crc 944fd3fa md5 2ade0d08a4daa3a6dd284bacce3af5e1 )
+)
+
+game (
+	name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Assembler]"
+	description "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Assembler]"
+	rom ( name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Assembler].bin" size 15590 crc cd85ad87 md5 12cb2d225ee9adac21281ff48d9b6afb )
+)
+
+game (
+	name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Compiler]"
+	description "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Compiler]"
+	rom ( name "Digital-7-2-S-BIN (1965-12-30)(DEC)(US)[Fortran Compiler].bin" size 17798 crc 08be5d3e md5 96dc720dda925b85045038d313672ee5 )
+)
+
+game (
+	name "Digital-7-2-S-BIN (1966-03-24)(DEC)(US)[Fortran OTS]"
+	description "Digital-7-2-S-BIN (1966-03-24)(DEC)(US)[Fortran OTS]"
+	rom ( name "Digital-7-2-S-BIN (1966-03-24)(DEC)(US)[Fortran OTS].bin" size 12745 crc d59e6cf4 md5 592aed8b14f13b203263ca1786cf6509 )
+)
+
+game (
+	name "Digital-7-2-S-BIN (196x)(DEC)(US)[Fortran IO Library]"
+	description "Digital-7-2-S-BIN (196x)(DEC)(US)[Fortran IO Library]"
+	rom ( name "Digital-7-2-S-BIN (196x)(DEC)(US)[Fortran IO Library].bin" size 16664 crc 032a9f94 md5 9ceb4fb3549446c2dcf9b41c93fe0c4e )
+)
+
+game (
+	name "Digital-7-3-S-BIN (1966-02-07)(DEC)(US)[Symbols for Basic 4K Machine]"
+	description "Digital-7-3-S-BIN (1966-02-07)(DEC)(US)[Symbols for Basic 4K Machine]"
+	rom ( name "Digital-7-3-S-BIN (1966-02-07)(DEC)(US)[Symbols for Basic 4K Machine].bin" size 14650 crc 1282977e md5 0467c7fe9ae6509ca10b61dcc8f65979 )
+)
+
+game (
+	name "Digital-7-4-S-BIN (1966-02-10)(DEC)(US)[Basic DDT for Basic 4K Machine]"
+	description "Digital-7-4-S-BIN (1966-02-10)(DEC)(US)[Basic DDT for Basic 4K Machine]"
+	rom ( name "Digital-7-4-S-BIN (1966-02-10)(DEC)(US)[Basic DDT for Basic 4K Machine].bin" size 8615 crc e7e06e71 md5 e4bfc9ab988146db3c208d57d2dfd3e8 )
+)
+
+game (
+	name "Digital-7-54-M-RIM (1966-03-11)(DEC)(US)[MainDEC 701 Instruction Test]"
+	description "Digital-7-54-M-RIM (1966-03-11)(DEC)(US)[MainDEC 701 Instruction Test]"
+	rom ( name "Digital-7-54-M-RIM (1966-03-11)(DEC)(US)[MainDEC 701 Instruction Test].bin" size 7867 crc 8b1792a7 md5 a8a6f5912e33b4c8b4cdf2851d97d10d )
+)
+
+game (
+	name "Digital-7-5-S-BIN (1965-09-25)(DEC)(US)[Bus Pak II]"
+	description "Digital-7-5-S-BIN (1965-09-25)(DEC)(US)[Bus Pak II]"
+	rom ( name "Digital-7-5-S-BIN (1965-09-25)(DEC)(US)[Bus Pak II].bin" size 21323 crc c7efa643 md5 4bb628e1442f3ff8c8b5be4eb9ee6190 )
+)
+
+game (
+	name "Digital-7-87-U-ASCII (1965-09-23)(DEC)(US)(Tape 1 of 2)[Test Function - Test Subroutine]"
+	description "Digital-7-87-U-ASCII (1965-09-23)(DEC)(US)(Tape 1 of 2)[Test Function - Test Subroutine]"
+	rom ( name "Digital-7-87-U-ASCII (1965-09-23)(DEC)(US)(Tape 1 of 2)[Test Function - Test Subroutine].bin" size 1112 crc 48aa366e md5 24f0a928b53058d5450a8b0e36c36d91 )
+)
+
+game (
+	name "Digital-7-87-U-ASCII (1966-01-10)(DEC)(US)(Tape 2 of 2)[Fortran Operating Test]"
+	description "Digital-7-87-U-ASCII (1966-01-10)(DEC)(US)(Tape 2 of 2)[Fortran Operating Test]"
+	rom ( name "Digital-7-87-U-ASCII (1966-01-10)(DEC)(US)(Tape 2 of 2)[Fortran Operating Test].bin" size 3990 crc 25ace3e1 md5 cdf50febf13f8c49a3c74633cd116450 )
+)
+
+game (
+	name "Digital-7-94-U-BIN (1966-01-21)(DEC)(US)[DEC Tape Copy Program]"
+	description "Digital-7-94-U-BIN (1966-01-21)(DEC)(US)[DEC Tape Copy Program]"
+	rom ( name "Digital-7-94-U-BIN (1966-01-21)(DEC)(US)[DEC Tape Copy Program].bin" size 4748 crc 78aaa8ec md5 52a791b0394681029f8d061742a40722 )
+)

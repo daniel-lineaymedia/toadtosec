@@ -1,0 +1,73 @@
+clrmamepro (
+	name "MITS Altair 8800 - Applications - [DSK]"
+	description "MITS Altair 8800 - Applications - [DSK] (TOSEC-v2010-01-17)"
+	category "MITS Altair 8800 - Applications - [DSK]"
+	version 2010-01-17
+	author "TKaos"
+)
+
+game (
+	name "Altair Basic v4.1 (1977)(MITS)[disk extended version]"
+	description "Altair Basic v4.1 (1977)(MITS)[disk extended version]"
+	rom ( name "Altair Basic v4.1 (1977)(MITS)[disk extended version].dsk" size 337664 crc a2c7c1d0 md5 bbb2eed6fe4bb8177f29c9d0519531b3 )
+)
+
+game (
+	name "Altair Basic v5.0 (1978-07-14)(MITS)[disk extended version]"
+	description "Altair Basic v5.0 (1978-07-14)(MITS)[disk extended version]"
+	rom ( name "Altair Basic v5.0 (1978-07-14)(MITS)[disk extended version].dsk" size 337664 crc fff67e6f md5 16cd4b12b377404f0aec30f7d9878d52 )
+)
+
+game (
+	name "Altair Disk Extended Basic v300-5-C (1978-11-01)(MITS)"
+	description "Altair Disk Extended Basic v300-5-C (1978-11-01)(MITS)"
+	rom ( name "Altair Disk Extended Basic v300-5-C (1978-11-01)(MITS).dsk" size 337664 crc dbda4aaa md5 d82c22c260ac188c209bbca1b27356e8 )
+)
+
+game (
+	name "Cobol v4.65 (1980)(Microsoft)"
+	description "Cobol v4.65 (1980)(Microsoft)"
+	rom ( name "Cobol v4.65 (1980)(Microsoft).dsk" size 1113536 crc 5fd0da4e md5 997510e337606c11bc397a810e9fa3f2 )
+)
+
+game (
+	name "CP-M v2.2 (19xx)(Digital Research)"
+	description "CP-M v2.2 (19xx)(Digital Research)"
+	rom ( name "CP-M v2.2 (19xx)(Digital Research).dsk" size 337664 crc ba502b0e md5 e9f47fb032f568cfb6233368e0c3734e )
+)
+
+game (
+	name "CP-M v2.2 (19xx)(Digital Research)[HD]"
+	description "CP-M v2.2 (19xx)(Digital Research)[HD]"
+	rom ( name "CP-M v2.2 (19xx)(Digital Research)[HD].dsk" size 1113536 crc 5d347d00 md5 2ef8192d6b4a6af0a5e185e2cc11d276 )
+)
+
+game (
+	name "Dos Monitor v1.0 (1977)(MITS)"
+	description "Dos Monitor v1.0 (1977)(MITS)"
+	rom ( name "Dos Monitor v1.0 (1977)(MITS).dsk" size 337664 crc a5fea65d md5 af07b73e746867adad7c30a5d46cbc42 )
+)
+
+game (
+	name "Felix v2.1 (1979-08-14)(-)[dazzler output]"
+	description "Felix v2.1 (1979-08-14)(-)[dazzler output]"
+	rom ( name "Felix v2.1 (1979-08-14)(-)[dazzler output].dsk" size 337664 crc a4e3772c md5 a55c3e9cdad5b2ce4e02beba35689d1b )
+)
+
+game (
+	name "Fortran-80 (1977-07-01)(Microsoft)"
+	description "Fortran-80 (1977-07-01)(Microsoft)"
+	rom ( name "Fortran-80 (1977-07-01)(Microsoft).dsk" size 1113536 crc 2ea2348b md5 2f342a5acc31f7f9ce630143e1fe3f55 )
+)
+
+game (
+	name "Super Calc 2 v1.0 (1983)(Sorcim)"
+	description "Super Calc 2 v1.0 (1983)(Sorcim)"
+	rom ( name "Super Calc 2 v1.0 (1983)(Sorcim).dsk" size 1113536 crc 9386632d md5 977ab4dbeb98c940885c8dd2597e1d0c )
+)
+
+game (
+	name "WordStar v4.0 (1979)(MicroPro)"
+	description "WordStar v4.0 (1979)(MicroPro)"
+	rom ( name "WordStar v4.0 (1979)(MicroPro).dsk" size 1113536 crc a4cb5f52 md5 373cf207bfc8558ccff6d957cdf13258 )
+)

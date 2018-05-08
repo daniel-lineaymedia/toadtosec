@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Fairchild VES & Channel F - Firmware"
+	description "Fairchild VES & Channel F - Firmware (TOSEC-v2009-09-26)"
+	category "Fairchild VES & Channel F - Firmware"
+	version 2009-09-26
+	author "Cid - Cassiel"
+)
+
+game (
+	name "Fairchild VES & Channel F BIOS (1976)(Fairchild)"
+	description "Fairchild VES & Channel F BIOS (1976)(Fairchild)"
+	rom ( name "Fairchild VES & Channel F BIOS (1976)(Fairchild).bin" size 1024 crc 04694ed9 md5 ac9804d4c0e9d07e33472e3726ed15c3 )
+)
+
+game (
+	name "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a2]"
+	description "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a2]"
+	rom ( name "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a2].bin" size 2048 crc 2882c02d md5 495aa78eefd90504a15e20dddcc4943f )
+)
+
+game (
+	name "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a]"
+	description "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a]"
+	rom ( name "Fairchild VES & Channel F BIOS (1976)(Fairchild)[a].bin" size 1024 crc 9c047ba3 md5 da98f4bb3242ab80d76629021bb27585 )
+)
+

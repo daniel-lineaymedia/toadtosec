@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Virtual Boy - Applications"
+	description "Nintendo Virtual Boy - Applications (TOSEC-v2011-08-13)"
+	category "Nintendo Virtual Boy - Applications"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Etch-A-Sketch (2003)(Daderko, Pat)(PD)"
+	description "Etch-A-Sketch (2003)(Daderko, Pat)(PD)"
+	rom ( name "Etch-A-Sketch (2003)(Daderko, Pat)(PD).bin" size 65536 crc b0c92776 md5 f23ee05a508ad73bf1961586e119cecb sha1 e404988011048a766c371ed5497a4166799a408e )
+)
+

@@ -1,0 +1,49 @@
+clrmamepro (
+	name "Atari Jaguar - Firmware"
+	description "Atari Jaguar - Firmware (TOSEC-v2006-02-17)"
+	category "Atari Jaguar - Firmware"
+	version 2006-02-17
+	author "Cid - Cassiel"
+)
+
+game (
+	name "Atari Jaguar BIOS (1994)(Atari)"
+	description "Atari Jaguar BIOS (1994)(Atari)"
+	rom ( name "Atari Jaguar BIOS (1994)(Atari).bin" size 131072 crc ae25bdf5 md5 6e844759720226e58d55ecaf33608a13 )
+)
+
+game (
+	name "Atari Jaguar Boot Image (1993)(Atari)"
+	description "Atari Jaguar Boot Image (1993)(Atari)"
+	rom ( name "Atari Jaguar Boot Image (1993)(Atari).bin" size 131072 crc fb731aaa md5 bcfe348c565d9dedb173822ee6850dea )
+)
+
+game (
+	name "Atari Jaguar CD BIOS (1994)(Atari)[b]"
+	description "Atari Jaguar CD BIOS (1994)(Atari)[b]"
+	rom ( name "Atari Jaguar CD BIOS (1994)(Atari)[b].bin" size 262144 crc b9d14132 md5 88b05d5fb1adc3cf21c38eb4142b00f8 )
+)
+
+game (
+	name "Atari Jaguar CD Developer BIOS (1994)(Atari)"
+	description "Atari Jaguar CD Developer BIOS (1994)(Atari)"
+	rom ( name "Atari Jaguar CD Developer BIOS (1994)(Atari).bin" size 262144 crc 55a0669c md5 578de34498cb9a40c5368b6f5ca80484 )
+)
+
+game (
+	name "Atari Jaguar Stubulator '93 BIOS (199x)(Atari)"
+	description "Atari Jaguar Stubulator '93 BIOS (199x)(Atari)"
+	rom ( name "Atari Jaguar Stubulator '93 BIOS (199x)(Atari).bin" size 131072 crc e60277bb md5 b509e9c13bdc527ee7ce25c5b558bc0d )
+)
+
+game (
+	name "Atari Jaguar Stubulator '94 BIOS (1994)(Atari)"
+	description "Atari Jaguar Stubulator '94 BIOS (1994)(Atari)"
+	rom ( name "Atari Jaguar Stubulator '94 BIOS (1994)(Atari).bin" size 131072 crc 8d15dbc6 md5 25ca8d058ed03bda3b357b7fa6a56970 )
+)
+
+game (
+	name "Atari Jaguar Universal Cartridge Validation (199x)(-)"
+	description "Atari Jaguar Universal Cartridge Validation (199x)(-)"
+	rom ( name "Atari Jaguar Universal Cartridge Validation (199x)(-).bin" size 8192 crc 8eaf6e58 md5 3e22e83457c1c769480fd14be054f741 )
+)

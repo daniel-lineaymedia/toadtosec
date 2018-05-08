@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Nintendo Famicom Disk System - Firmware"
+	description "Nintendo Famicom Disk System - Firmware (TOSEC-v2009-12-24)"
+	category "Nintendo Famicom Disk System - Firmware"
+	version 2009-12-24
+	author "Cassiel"
+)
+
+game (
+	name "Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en)"
+	description "Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en)"
+	rom ( name "Nintendo Famicom Disk System BIOS (198x)(Nintendo)(JP)(en).bin" size 8192 crc 5e607dcf md5 ca30b50f880eb660a320674ed365ef7a )
+)
+
+game (
+	name "Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en)"
+	description "Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en)"
+	rom ( name "Sharp Twin Famicom BIOS (198x)(Nintendo)(JP)(en).bin" size 8192 crc 4df24a6c md5 c1a9e9415a6adde3c8563c622d4c9fce )
+)
+

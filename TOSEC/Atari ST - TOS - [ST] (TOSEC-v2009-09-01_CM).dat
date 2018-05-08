@@ -1,0 +1,67 @@
+clrmamepro (
+	name "Atari ST - TOS - [ST]"
+	description "Atari ST - TOS - [ST] (TOSEC-v2009-09-01)"
+	category "Atari ST - TOS - [ST]"
+	version 2009-09-01
+	author "Keili - Gucek - Leto_II"
+)
+
+game (
+	name "TOS v4.92 (199x)(Atari Corp)[Falcon only]"
+	description "TOS v4.92 (199x)(Atari Corp)[Falcon only]"
+	rom ( name "TOS v4.92 (199x)(Atari Corp)[Falcon only].st" size 737280 crc 1e1f4f43 md5 83d559f1666397bc25c61e39c300fb4e )
+)
+
+game (
+	name "TOS v4.92 (199x)(Atari Corp)[a][Falcon only]"
+	description "TOS v4.92 (199x)(Atari Corp)[a][Falcon only]"
+	rom ( name "TOS v4.92 (199x)(Atari Corp)[a][Falcon only].st" size 839680 crc bdbb2ddb md5 0995926fc2f31c7ce709bdb86e527e70 )
+)
+
+game (
+	name "TOS v1.00 (1985)(Atari Corp)(ST)(de)[a][boot disk]"
+	description "TOS v1.00 (1985)(Atari Corp)(ST)(de)[a][boot disk]"
+	rom ( name "TOS v1.00 (1985)(Atari Corp)(ST)(de)[a][boot disk].st" size 368640 crc e84d0dcd md5 164d2489b8c8c5ea9f517c797343d43e )
+)
+
+game (
+	name "TOS v1.00 (1985)(Atari Corp)(ST)(de)[boot disk]"
+	description "TOS v1.00 (1985)(Atari Corp)(ST)(de)[boot disk]"
+	rom ( name "TOS v1.00 (1985)(Atari Corp)(ST)(de)[boot disk].st" size 368640 crc 6aae1f4c md5 b8fe69ce3489ee36d48e918c55c1a0a5 )
+)
+
+game (
+	name "TOS v1.00 (1985)(Atari Corp)(ST)[a][boot disk]"
+	description "TOS v1.00 (1985)(Atari Corp)(ST)[a][boot disk]"
+	rom ( name "TOS v1.00 (1985)(Atari Corp)(ST)[a][boot disk].st" size 368640 crc 659b078b md5 bafab3746b044b0bb66409b0a39a6400 )
+)
+
+game (
+	name "TOS v1.00 (1985)(Atari Corp)(ST)[boot disk]"
+	description "TOS v1.00 (1985)(Atari Corp)(ST)[boot disk]"
+	rom ( name "TOS v1.00 (1985)(Atari Corp)(ST)[boot disk].st" size 737280 crc b47cdd29 md5 284bce346a18c573d895b70018d823f4 )
+)
+
+game (
+	name "TOS v1.04 (1988-08-08)(fr)[Developer Release]"
+	description "TOS v1.04 (1988-08-08)(fr)[Developer Release]"
+	rom ( name "TOS v1.04 (1988-08-08)(fr)[Developer Release].st" size 368640 crc cef67a6c md5 41f9ad196bab70489276afa200799b57 )
+)
+
+game (
+	name "TOS v2.06 (1991)(Atari Corp)(Mega-STE)"
+	description "TOS v2.06 (1991)(Atari Corp)(Mega-STE)"
+	rom ( name "TOS v2.06 (1991)(Atari Corp)(Mega-STE).st" size 368640 crc 57c43390 md5 0693ce34a1a005913f1aff2b221f3351 )
+)
+
+game (
+	name "TOS v2.06 (1991)(Atari Corp)(Mega-STE)[a]"
+	description "TOS v2.06 (1991)(Atari Corp)(Mega-STE)[a]"
+	rom ( name "TOS v2.06 (1991)(Atari Corp)(Mega-STE)[a].st" size 368640 crc e4e4b553 md5 ae849d1c737ad69d304ec941e7fa123e )
+)
+
+game (
+	name "bmTOS v2.06 Rev. B (1990)(Atari Corp.)(de)"
+	description "bmTOS v2.06 Rev. B (1990)(Atari Corp.)(de)"
+	rom ( name "bmTOS v2.06 Rev. B (1990)(Atari Corp.)(de).st" size 737280 crc 7475c4b6 md5 35c83c14d013b6a6c20ea099efaa9858 )
+)

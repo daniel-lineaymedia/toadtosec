@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Pioneer LaserActive - Firmware"
+	description "Pioneer LaserActive - Firmware (TOSEC-v2011-06-20)"
+	category "Pioneer LaserActive - Firmware"
+	version 2011-06-20
+	author "Cassiel"
+)
+
+game (
+	name "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja)"
+	description "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja)"
+	rom ( name "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(JP)(en-ja).bin" size 131072 crc 00eedb3a md5 a5a2f9aae57d464bc66b80ee79c3da6e sha1 26237b333db4a4c6770297fa5e655ea95840d5d9 )
+)
+
+game (
+	name "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US)"
+	description "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US)"
+	rom ( name "Pioneer LaserActive Sega PAC Boot ROM v1.02 (1993)(Pioneer - Sega)(US).bin" size 131072 crc 3b10cf41 md5 691c3fd368211280d268645c0efd2eff sha1 8af162223bb12fc19b414f126022910372790103 )
+)
+
+game (
+	name "Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US)"
+	description "Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US)"
+	rom ( name "Pioneer LaserActive Sega PAC Boot ROM v1.04 (1993)(Pioneer - Sega)(US).bin" size 131072 crc 50cd3d23 md5 0e7393cd0951d6dde818fcd4cd819466 sha1 aa811861f8874775075bd3f53008c8aaf59b07db )
+)
+

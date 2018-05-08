@@ -1,0 +1,253 @@
+clrmamepro (
+	name "NEC PC-8801 - Firmware"
+	description "NEC PC-8801 - Firmware (TOSEC-v2009-06-25)"
+	category "NEC PC-8801 - Firmware"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "NEC PC-8801 BIOS (1981)(NEC)[4TH ROM]"
+	description "NEC PC-8801 BIOS (1981)(NEC)[4TH ROM]"
+	rom ( name "NEC PC-8801 BIOS (1981)(NEC)[4TH ROM].bin" size 8192 crc 61984bab md5 e28fe3f520bea594350ea8fb00395370 )
+)
+
+game (
+	name "NEC PC-8801 BIOS (1981)(NEC)[N80 BASIC ROM]"
+	description "NEC PC-8801 BIOS (1981)(NEC)[N80 BASIC ROM]"
+	rom ( name "NEC PC-8801 BIOS (1981)(NEC)[N80 BASIC ROM].bin" size 32768 crc 5cb8b584 md5 5d6854624dd01cd791f58727fc43a525 )
+)
+
+game (
+	name "NEC PC-8801 BIOS (1981)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801 BIOS (1981)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801 BIOS (1981)(NEC)[N88 BASIC ROM].bin" size 32768 crc ffd68be0 md5 22be239bc0c4298bc0561252eed98633 )
+)
+
+game (
+	name "NEC PC-8801MA BIOS (1987)(NEC)[Jisho ROM]"
+	description "NEC PC-8801MA BIOS (1987)(NEC)[Jisho ROM]"
+	rom ( name "NEC PC-8801MA BIOS (1987)(NEC)[Jisho ROM].bin" size 524288 crc a6108f4d md5 cbcade0d0057bb9eee79a6b370b4dd3a )
+)
+
+game (
+	name "NEC PC-8801MA BIOS (1987)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801MA BIOS (1987)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801MA BIOS (1987)(NEC)[N88 BASIC ROM].bin" size 32768 crc 73573432 md5 f7cba6a308c2718dbe97e60e46ddd66a )
+)
+
+game (
+	name "NEC PC-8801MA BIOS (1987)(NEC)[N88 E1 ROM]"
+	description "NEC PC-8801MA BIOS (1987)(NEC)[N88 E1 ROM]"
+	rom ( name "NEC PC-8801MA BIOS (1987)(NEC)[N88 E1 ROM].bin" size 8192 crc 7ad5d943 md5 a8e298da7ac947669bcb1ff25cee0a83 )
+)
+
+game (
+	name "NEC PC-8801MA BIOS (1987)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801MA BIOS (1987)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801MA BIOS (1987)(NEC)[N88 E2 ROM].bin" size 8192 crc 6aee9a4e md5 9d03154fd9abfc28c4e6d4dc705e6e23 )
+)
+
+game (
+	name "NEC PC-8801MA2 BIOS (1988)(NEC)[Jisho ROM]"
+	description "NEC PC-8801MA2 BIOS (1988)(NEC)[Jisho ROM]"
+	rom ( name "NEC PC-8801MA2 BIOS (1988)(NEC)[Jisho ROM].bin" size 524288 crc 856459af md5 b4d66a04e8ce3ec00410d397e04f549e )
+)
+
+game (
+	name "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 1]"
+	description "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 1]"
+	rom ( name "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 1].bin" size 131072 crc 6178bd43 md5 d81c6d5d7ad1a4bbbd6ae22a01257603 )
+)
+
+game (
+	name "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 2]"
+	description "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 2]"
+	rom ( name "NEC PC-8801MA2 BIOS (1988)(NEC)[Kanji ROM 2].bin" size 131072 crc 376eb677 md5 d8b9f259ce354dc8ca40af0e851a0528 )
+)
+
+game (
+	name "NEC PC-8801MA2 BIOS (1988)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801MA2 BIOS (1988)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801MA2 BIOS (1988)(NEC)[N88 BASIC ROM].bin" size 32768 crc ae1a6ebc md5 681e37570581cc43c785bae53eefa155 )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[CD ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[CD ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[CD ROM].bin" size 65536 crc 5c230221 md5 5b2cbbf67d9a6478cd2602017745c0e2 )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[Jisho ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[Jisho ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[Jisho ROM].bin" size 524288 crc bd6eb062 md5 2e548679423370262f36cbde38a22789 )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[N80 BASIC ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[N80 BASIC ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[N80 BASIC ROM].bin" size 32768 crc 8a2a1e17 md5 93cd1d78b7b9c50b80041ed330332ece )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[N88 BASIC ROM].bin" size 32768 crc 356d5719 md5 55e75c0799e1e1907745276baec43753 )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E0 ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[N88 E0 ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E0 ROM].bin" size 8192 crc a72697d7 md5 c254685f00ca9c31b97203d6ef19f5e2 )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E2 ROM].bin" size 8192 crc 1d6277b6 md5 87bc14a8a9ec66a99e89561bca4bda9b )
+)
+
+game (
+	name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E3 ROM]"
+	description "NEC PC-8801MC BIOS (1989)(NEC)[N88 E3 ROM]"
+	rom ( name "NEC PC-8801MC BIOS (1989)(NEC)[N88 E3 ROM].bin" size 8192 crc 692cbcd8 md5 e1791f8154f1cdf22b576a1a365b6e1f )
+)
+
+game (
+	name "NEC PC-8801MH BIOS (1986)(NEC)[Disk ROM]"
+	description "NEC PC-8801MH BIOS (1986)(NEC)[Disk ROM]"
+	rom ( name "NEC PC-8801MH BIOS (1986)(NEC)[Disk ROM].bin" size 8192 crc a222ecf0 md5 890b304e719974e53ff0d4d99c878d96 )
+)
+
+game (
+	name "NEC PC-8801MH BIOS (1986)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801MH BIOS (1986)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801MH BIOS (1986)(NEC)[N88 BASIC ROM].bin" size 32768 crc 64c5d162 md5 aa86b1bfaa88c2f92c8b3b450907ed0f )
+)
+
+game (
+	name "NEC PC-8801MH BIOS (1986)(NEC)[N88 E0 ROM]"
+	description "NEC PC-8801MH BIOS (1986)(NEC)[N88 E0 ROM]"
+	rom ( name "NEC PC-8801MH BIOS (1986)(NEC)[N88 E0 ROM].bin" size 8192 crc deb384fb md5 7d8febc688590d03708f45fac54de7dd )
+)
+
+game (
+	name "NEC PC-8801MH BIOS (1986)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801MH BIOS (1986)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801MH BIOS (1986)(NEC)[N88 E2 ROM].bin" size 8192 crc 6aa6b6d8 md5 800e173d37789b5a954b8fbbc86993cb )
+)
+
+game (
+	name "NEC PC-8801mkII BIOS (19xx)(NEC)[4TH ROM]"
+	description "NEC PC-8801mkII BIOS (19xx)(NEC)[4TH ROM]"
+	rom ( name "NEC PC-8801mkII BIOS (19xx)(NEC)[4TH ROM].bin" size 8192 crc 5eb7a8d0 md5 f198cae1050af141dd3c09f0b2c6facf )
+)
+
+game (
+	name "NEC PC-8801mkII BIOS (19xx)(NEC)[N80 BASIC ROM]"
+	description "NEC PC-8801mkII BIOS (19xx)(NEC)[N80 BASIC ROM]"
+	rom ( name "NEC PC-8801mkII BIOS (19xx)(NEC)[N80 BASIC ROM].bin" size 32768 crc 91d84b1a md5 6f2cd5b887c80a18cf60e6758d195c46 )
+)
+
+game (
+	name "NEC PC-8801mkII BIOS (19xx)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801mkII BIOS (19xx)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801mkII BIOS (19xx)(NEC)[N88 BASIC ROM].bin" size 32768 crc f35169eb md5 16b4f08338382e0fe21b6c244f1b9c96 )
+)
+
+game (
+	name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[Disk ROM]"
+	description "NEC PC-8801mkIIFR BIOS (1985)(NEC)[Disk ROM]"
+	rom ( name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[Disk ROM].bin" size 2048 crc 2163b304 md5 fbb43de2ebd228e9b769c64631cb13be )
+)
+
+game (
+	name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 BASIC ROM].bin" size 32768 crc b9daf1aa md5 59da45572acfe7f6da809a97b74d758f )
+)
+
+game (
+	name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801mkIIFR BIOS (1985)(NEC)[N88 E2 ROM].bin" size 8192 crc 98c3a7b2 md5 272bf8e6ca45ed06384e5b7c1d35715f )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[Font ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[Font ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[Font ROM].bin" size 6144 crc 7a6edb47 md5 14bc9e267cf0cb56d22d5c470f582d53 )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N80 BASIC ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[N80 BASIC ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N80 BASIC ROM].bin" size 32768 crc 27e1857d md5 2ff07b8769367321128e03924af668a0 )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 BASIC ROM].bin" size 32768 crc a0fc0473 md5 4f984e04a99d56c4cfe36115415d6eb8 )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E1 ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E1 ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E1 ROM].bin" size 8192 crc c0bd2aa6 md5 e844534dfe5744b381444dbe61ef1b66 )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E2 ROM].bin" size 8192 crc af2b6efa md5 6548fa45061274dee1ea8ae1e9e93910 )
+)
+
+game (
+	name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E3 ROM]"
+	description "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E3 ROM]"
+	rom ( name "NEC PC-8801mkIISR BIOS (1985)(NEC)[N88 E3 ROM].bin" size 8192 crc 7713c519 md5 fc4b76a402ba501e6ba6de4b3e8b4273 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[Disk ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[Disk ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[Disk ROM].bin" size 8192 crc 2447516b md5 f553ae258c4a93de4e64dc35830d9737 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N80 BASIC ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N80 BASIC ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N80 BASIC ROM].bin" size 32768 crc f074b515 md5 c3e24966b51cc2f6533fa6e4de1c7bfe )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N88 BASIC ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N88 BASIC ROM].bin" size 32768 crc 69caa38e md5 8d31c7597c17411558ff17a8f98940e0 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E0 ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N88 E0 ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E0 ROM].bin" size 8192 crc 710a63ec md5 d675a2ca186c6efcd6277b835de4c7e5 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E1 ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N88 E1 ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E1 ROM].bin" size 8192 crc e3e78a37 md5 dc7afa99838daa1dad9bfab9027881b0 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E2 ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N88 E2 ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E2 ROM].bin" size 8192 crc 11176e0b md5 3959c68a87490b8a3f7fae86ffd50814 )
+)
+
+game (
+	name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E3 ROM]"
+	description "NEC PC-8801MR BIOS (1985)(NEC)[N88 E3 ROM]"
+	rom ( name "NEC PC-8801MR BIOS (1985)(NEC)[N88 E3 ROM].bin" size 8192 crc 0ca08abd md5 3ba670725fb95b3675fcbc75b8b0f49f )
+)

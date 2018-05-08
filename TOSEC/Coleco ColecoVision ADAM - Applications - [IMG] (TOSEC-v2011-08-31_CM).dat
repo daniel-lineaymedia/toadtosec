@@ -1,0 +1,38 @@
+clrmamepro (
+	name "Coleco ColecoVision ADAM - Applications - [IMG]"
+	description "Coleco ColecoVision ADAM - Applications - [IMG] (TOSEC-v2011-08-31)"
+	category "Coleco ColecoVision ADAM - Applications - [IMG]"
+	version 2011-08-31
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "ADAMLink III Xmodem Patch (1988)(Clary, Thomas E.)"
+	description "ADAMLink III Xmodem Patch (1988)(Clary, Thomas E.)"
+	rom ( name "ADAMLink III Xmodem Patch (1988)(Clary, Thomas E.).img" size 13568 crc 324541eb md5 f42d4a643e26843569f41333a4038057 sha1 0cea8f7ede4b6173b4339e548fc35f3df40934c9 )
+)
+
+game (
+	name "Dice (demo) (198x)(-)"
+	description "Dice (demo) (198x)(-)"
+	rom ( name "Dice (demo) (198x)(-).img" size 31744 crc f62948de md5 ec816f506c747cfe9302fba7cc895d3c sha1 8b3af6b685d462ec07aed55eb159c57d99872440 )
+)
+
+game (
+	name "Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve)"
+	description "Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve)"
+	rom ( name "Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve).img" size 18560 crc ff5c3bcc md5 7bc4f948da761abd24f20c30fb6dea31 sha1 4bd446a0ae9abb33f811bbce5961726c1c1b7efb )
+)
+
+game (
+	name "MIDIBasic (1990)(Bonafide Systems)(PD)"
+	description "MIDIBasic (1990)(Bonafide Systems)(PD)"
+	rom ( name "MIDIBasic (1990)(Bonafide Systems)(PD).img" size 18432 crc 937f11a2 md5 77d65bca0aaadc90623760f40b399859 sha1 12f63320f7d8b5f3c1c9d8136b8a0567e714dd06 )
+)
+
+game (
+	name "Quick Copy (1987)(GJMG Enterprises)"
+	description "Quick Copy (1987)(GJMG Enterprises)"
+	rom ( name "Quick Copy (1987)(GJMG Enterprises).img" size 25600 crc daf4121a md5 dc4a92f807909e9576a18277e96109cd sha1 f05c89774788ec1ce018361467ecab061c399819 )
+)
+

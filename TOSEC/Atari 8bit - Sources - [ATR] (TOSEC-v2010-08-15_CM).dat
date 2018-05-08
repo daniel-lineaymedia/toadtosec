@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Atari 8bit - Sources - [ATR]"
+	description "Atari 8bit - Sources - [ATR] (TOSEC-v2010-08-15)"
+	category "Atari 8bit - Sources - [ATR]"
+	version 2010-08-15
+	author "TKaos"
+)
+
+game (
+	name "3D Balls Source Code (19xx)(NG)(pl)"
+	description "3D Balls Source Code (19xx)(NG)(pl)"
+	rom ( name "3D Balls Source Code (19xx)(NG)(pl).atr" size 143376 crc 7346a78b md5 311e6b19456f6ba33fa3ef92a20a08e5 )
+)
+
+game (
+	name "Qwk8 Offline Reader - Sources (19xx)(Stout, Bob)"
+	description "Qwk8 Offline Reader - Sources (19xx)(Stout, Bob)"
+	rom ( name "Qwk8 Offline Reader - Sources (19xx)(Stout, Bob).atr" size 92176 crc e7a20fff md5 1a0d6d2d7878fac16f750ed4e7b2c406 )
+)

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Nascom I & II - Games - [TAP]"
+	description "Nascom I & II - Games - [TAP] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Games - [TAP]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Hangman (198x)(Birkett, Howard)"
+	description "Hangman (198x)(Birkett, Howard)"
+	rom ( name "Hangman (198x)(Birkett, Howard).tap" size 2723 crc 8b1a62b1 md5 0c022efabc73e881eaf64a4635d7b514 )
+)

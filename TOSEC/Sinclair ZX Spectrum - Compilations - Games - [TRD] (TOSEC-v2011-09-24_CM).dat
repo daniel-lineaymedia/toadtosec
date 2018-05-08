@@ -1,0 +1,1430 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Games - [TRD]"
+	description "Sinclair ZX Spectrum - Compilations - Games - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Games - [TRD]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Classic Games Collection 01 (19xx)(-)"
+	description "Classic Games Collection 01 (19xx)(-)"
+	rom ( name "Classic Games Collection 01 (19xx)(-).trd" size 655360 crc b9a44636 md5 87c13833b683527a1a783a376cdb4158 sha1 0dbd09d29cb864a94aab9ebc384c9ac683f04e96 )
+)
+
+game (
+	name "Classic Games Collection 02 (19xx)(-)"
+	description "Classic Games Collection 02 (19xx)(-)"
+	rom ( name "Classic Games Collection 02 (19xx)(-).trd" size 655360 crc 8a8ee5bf md5 bae072d2a98866797bfa44c6c855017e sha1 e11c33f521d1c4d784a312b8bae2f378e388fc2a )
+)
+
+game (
+	name "Classic Games Collection 03 (19xx)(-)"
+	description "Classic Games Collection 03 (19xx)(-)"
+	rom ( name "Classic Games Collection 03 (19xx)(-).trd" size 655360 crc 571560bc md5 bbe67dfd6b429ceceb876926d3d14c30 sha1 6d8223b7f9daed1c13e4f45c6be3088ea0aa21c1 )
+)
+
+game (
+	name "Classic Games Collection 04 (19xx)(-)"
+	description "Classic Games Collection 04 (19xx)(-)"
+	rom ( name "Classic Games Collection 04 (19xx)(-).trd" size 655360 crc d529087f md5 695dcc9d84e40630e6d4325e2ba61d0d sha1 884b390b7df53b39197f25027f17245d5e4e21ec )
+)
+
+game (
+	name "Classic Games Collection 05 (19xx)(-)"
+	description "Classic Games Collection 05 (19xx)(-)"
+	rom ( name "Classic Games Collection 05 (19xx)(-).trd" size 655360 crc 9935ca9a md5 b8bb6f69b262f5e431df7497138b4510 sha1 297237531e5796f2979a22521efaa350c84243fd )
+)
+
+game (
+	name "Classic Games Collection 06 (19xx)(-)"
+	description "Classic Games Collection 06 (19xx)(-)"
+	rom ( name "Classic Games Collection 06 (19xx)(-).trd" size 576001 crc 7e7fab35 md5 c938bc8f7cfa278209dbff82172d0a92 sha1 169f38f6f9e73e0bfdaf383459b55fc69b36d541 )
+)
+
+game (
+	name "Classic Games Collection 07 (19xx)(-)"
+	description "Classic Games Collection 07 (19xx)(-)"
+	rom ( name "Classic Games Collection 07 (19xx)(-).trd" size 655360 crc 31937e09 md5 2be31e6b797caee1345a19a09e99ef1e sha1 aa9b68b095b778d2ca84d0667ee951cdfc812d58 )
+)
+
+game (
+	name "Classic Games Collection 08 (19xx)(-)"
+	description "Classic Games Collection 08 (19xx)(-)"
+	rom ( name "Classic Games Collection 08 (19xx)(-).trd" size 655360 crc 20a9134a md5 b5c42f69151639b5ea2dd1bfae869d1d sha1 e855dc013f87bbae169024326a2bd4e7e7918186 )
+)
+
+game (
+	name "Classic Games Collection 09 (19xx)(-)"
+	description "Classic Games Collection 09 (19xx)(-)"
+	rom ( name "Classic Games Collection 09 (19xx)(-).trd" size 655360 crc 3a13e998 md5 dbe6486b4372cbda83d5f933c8e4f584 sha1 6240cfc261778b1c74cecd0ccb93073fb67888ee )
+)
+
+game (
+	name "Classic Games Collection 10 (19xx)(-)"
+	description "Classic Games Collection 10 (19xx)(-)"
+	rom ( name "Classic Games Collection 10 (19xx)(-).trd" size 655360 crc 3fed2ac0 md5 c88b63a67ea431c4c454722a17a7ce1b sha1 c4c032ac643f07ac44338516cd51e358cd2ab42b )
+)
+
+game (
+	name "Classic Games Collection 11 (19xx)(-)"
+	description "Classic Games Collection 11 (19xx)(-)"
+	rom ( name "Classic Games Collection 11 (19xx)(-).trd" size 655360 crc 0bd079b2 md5 d15185ff74f1223f631dbc4a41637008 sha1 7eda6c856867484d3442e99629aefda532cf6c68 )
+)
+
+game (
+	name "Classic Games Collection 12 (19xx)(-)"
+	description "Classic Games Collection 12 (19xx)(-)"
+	rom ( name "Classic Games Collection 12 (19xx)(-).trd" size 655360 crc b7f8cf33 md5 a56db17aca0172d75e2c05ea1af617fb sha1 49564075169a6693f68cff4485e1bd5a72f22f36 )
+)
+
+game (
+	name "Classic Games Collection 13 (19xx)(-)"
+	description "Classic Games Collection 13 (19xx)(-)"
+	rom ( name "Classic Games Collection 13 (19xx)(-).trd" size 655360 crc 70cde7d4 md5 6f6b5f39dd18d9e7dc733d6d61570557 sha1 c4f8aeef202c4a557b1b311085fb106be562986c )
+)
+
+game (
+	name "Classic Games Collection 14 (19xx)(-)"
+	description "Classic Games Collection 14 (19xx)(-)"
+	rom ( name "Classic Games Collection 14 (19xx)(-).trd" size 655360 crc 608c2715 md5 7633bb40124cceb3561f1f27aa67b7d0 sha1 c506d9ca258f877d5755f42b900bcd4cc5a22111 )
+)
+
+game (
+	name "Classic Games Collection 15 (19xx)(-)"
+	description "Classic Games Collection 15 (19xx)(-)"
+	rom ( name "Classic Games Collection 15 (19xx)(-).trd" size 655360 crc 4c037d90 md5 d392ad6848eb21ae6a94af8ae388271f sha1 1c2ac0519c00575c8b133e9264123c64d97cdb73 )
+)
+
+game (
+	name "Classic Games Collection 16 (19xx)(-)"
+	description "Classic Games Collection 16 (19xx)(-)"
+	rom ( name "Classic Games Collection 16 (19xx)(-).trd" size 655360 crc 0efda936 md5 1c0e2b0cf82954a1292f6e04e4b3cc9a sha1 ec9bbd3764c20c910ba3e0d044d82994feb47ad0 )
+)
+
+game (
+	name "Classic Games Collection 17 (19xx)(-)"
+	description "Classic Games Collection 17 (19xx)(-)"
+	rom ( name "Classic Games Collection 17 (19xx)(-).trd" size 655360 crc fdf7d937 md5 1016dcced92770783b63a5749b905a88 sha1 f75bb0c4445220fb72a7af27347da3aab569c706 )
+)
+
+game (
+	name "Classic Games Collection 18 (19xx)(-)"
+	description "Classic Games Collection 18 (19xx)(-)"
+	rom ( name "Classic Games Collection 18 (19xx)(-).trd" size 655360 crc a57c5212 md5 800c0a5861a3bad507a3e70b29956eb0 sha1 2d2f1651006eb5c460096f5404f64b330c701027 )
+)
+
+game (
+	name "Classic Games Collection 19 (19xx)(-)"
+	description "Classic Games Collection 19 (19xx)(-)"
+	rom ( name "Classic Games Collection 19 (19xx)(-).trd" size 507393 crc 07107ae9 md5 cead2a026a4ada4c6aba051eb5ca601c sha1 fbc5ae0cfd1f7b1e87a3e3e157ddd9e01912a465 )
+)
+
+game (
+	name "Classic Games Collection 20 (19xx)(-)"
+	description "Classic Games Collection 20 (19xx)(-)"
+	rom ( name "Classic Games Collection 20 (19xx)(-).trd" size 655360 crc 32faec8f md5 2450cfa7394e5cff691b9c1a726ca871 sha1 6b6fa1bb1d6bc944ac06aff8d839cbeb5b99c034 )
+)
+
+game (
+	name "Classic Games Collection 21 (19xx)(-)"
+	description "Classic Games Collection 21 (19xx)(-)"
+	rom ( name "Classic Games Collection 21 (19xx)(-).trd" size 655360 crc c5aabafd md5 0c27e796676f525116ae567048133d8a sha1 586cddd0cc0d768f192631bfbd320490d3556339 )
+)
+
+game (
+	name "Classic Games Collection 22 (19xx)(-)"
+	description "Classic Games Collection 22 (19xx)(-)"
+	rom ( name "Classic Games Collection 22 (19xx)(-).trd" size 655360 crc b1e4b5c8 md5 0cd68a2326442f9032777275ffc99c2f sha1 b869e40f49e8250146ca0028e01be04f75888e7d )
+)
+
+game (
+	name "Classic Games Collection 23 (19xx)(-)"
+	description "Classic Games Collection 23 (19xx)(-)"
+	rom ( name "Classic Games Collection 23 (19xx)(-).trd" size 655360 crc 63c6e63f md5 ae3812e611cfb9ed62c2d86eff1791c5 sha1 66bfef685d306d493f62270e4292ac943e30b96c )
+)
+
+game (
+	name "Classic Games Collection 24 (19xx)(-)"
+	description "Classic Games Collection 24 (19xx)(-)"
+	rom ( name "Classic Games Collection 24 (19xx)(-).trd" size 655360 crc b82b661d md5 f0a238b63586887fc566a5313be7255c sha1 835884357b2ba945011ea678456f2db6763606e9 )
+)
+
+game (
+	name "Classic Games Collection 25 (19xx)(-)"
+	description "Classic Games Collection 25 (19xx)(-)"
+	rom ( name "Classic Games Collection 25 (19xx)(-).trd" size 655360 crc 453047c5 md5 50abeeebcec66fffbfef6db138697ec0 sha1 ff6f5b53b89c329b915ca23eda9d85db3a9c2f0c )
+)
+
+game (
+	name "Codemasters Games Collection 01 (19xx)(-)"
+	description "Codemasters Games Collection 01 (19xx)(-)"
+	rom ( name "Codemasters Games Collection 01 (19xx)(-).trd" size 655360 crc a6879888 md5 19f73d54250ac1bb3b52302247729341 sha1 af20a2c036a73848e24121ced5b72b698c8fd55e )
+)
+
+game (
+	name "Codemasters Games Collection 02 (19xx)(-)"
+	description "Codemasters Games Collection 02 (19xx)(-)"
+	rom ( name "Codemasters Games Collection 02 (19xx)(-).trd" size 655360 crc f0a3ca62 md5 9a315176f6b59932d5b9185aff6299c0 sha1 5a30f0bab9e182cf02b11b73d3dbf2de2d6380d4 )
+)
+
+game (
+	name "Codemasters Games Collection 03 (19xx)(-)"
+	description "Codemasters Games Collection 03 (19xx)(-)"
+	rom ( name "Codemasters Games Collection 03 (19xx)(-).trd" size 655360 crc c09ad66b md5 18217a773694ddaf96520045c97fd4c3 sha1 d3e750cc02c9c449d40ecfeb74f1efcad664e1ad )
+)
+
+game (
+	name "Crime of the Santa Claus Deja Vu Collection (19xx)(-)(ru)"
+	description "Crime of the Santa Claus Deja Vu Collection (19xx)(-)(ru)"
+	rom ( name "Crime of the Santa Claus Deja Vu Collection (19xx)(-)(ru).trd" size 655360 crc 5e4083f5 md5 2adfd76d698e9f284822f9ff0ae7568f sha1 fa25945a6d3a6e19f0ad55e2479d008884d91229 )
+)
+
+game (
+	name "Dizzy Collection 01 (19xx)(-)(ru)"
+	description "Dizzy Collection 01 (19xx)(-)(ru)"
+	rom ( name "Dizzy Collection 01 (19xx)(-)(ru).trd" size 452352 crc c4585260 md5 14617980780576a5f165e60fd0dc0b3e sha1 f5bfdc743e8b0a97d2a469ac9934f8c226026651 )
+)
+
+game (
+	name "Dizzy Collection 02 (19xx)(-)(ru)"
+	description "Dizzy Collection 02 (19xx)(-)(ru)"
+	rom ( name "Dizzy Collection 02 (19xx)(-)(ru).trd" size 223232 crc a014bbf4 md5 a7c1a0ccdc5915fcb089ff89a1b00264 sha1 ac45588408d970c97900d48c86b46cf9f996383a )
+)
+
+game (
+	name "Dizzy Russian Collection (19xx)(-)(ru)"
+	description "Dizzy Russian Collection (19xx)(-)(ru)"
+	rom ( name "Dizzy Russian Collection (19xx)(-)(ru).trd" size 655360 crc c552fe15 md5 f24958a4a64cc56f68fa39bd36712152 sha1 954fa2f871a1fc7b166dcd2bcb3a1b5959b3d413 )
+)
+
+game (
+	name "Fatality Cracks Collection 01 (19xx)(Fatality)"
+	description "Fatality Cracks Collection 01 (19xx)(Fatality)"
+	rom ( name "Fatality Cracks Collection 01 (19xx)(Fatality).trd" size 655360 crc e2375c33 md5 ea7d3bbba550a0425b35059d24688f23 sha1 7bd76d488d8e8472408dd59b88b3a35bf7350dfb )
+)
+
+game (
+	name "Fatality Cracks Collection 02 (19xx)(Fatality)"
+	description "Fatality Cracks Collection 02 (19xx)(Fatality)"
+	rom ( name "Fatality Cracks Collection 02 (19xx)(Fatality).trd" size 655360 crc b2d2001a md5 f52deeea5e2542ce38328f2a3480ec4d sha1 673f7b055a43b7eeeebb39781657866617ab5098 )
+)
+
+game (
+	name "Fatality Cracks Collection 03 (19xx)(Fatality)"
+	description "Fatality Cracks Collection 03 (19xx)(Fatality)"
+	rom ( name "Fatality Cracks Collection 03 (19xx)(Fatality).trd" size 655360 crc ff8cf0f7 md5 18deff214bee930b6bfadf86957b019b sha1 bfd03bda699637ea39ee5cf8f857c979879d77f3 )
+)
+
+game (
+	name "Fatality Cracks Collection 04 (19xx)(Fatality)"
+	description "Fatality Cracks Collection 04 (19xx)(Fatality)"
+	rom ( name "Fatality Cracks Collection 04 (19xx)(Fatality).trd" size 655360 crc 66009e1c md5 d5cca2d51831a4ac43fc447b32f5f059 sha1 4fc542b11fcaa3955c99d3235633f015bfb153ef )
+)
+
+game (
+	name "Flash New Games Collection 21 (19xx)(Flash)"
+	description "Flash New Games Collection 21 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 21 (19xx)(Flash).trd" size 655360 crc 47da745c md5 e3d5649ebf3b7764a2445a80ca9123d0 sha1 3774384d6a46cd386c6cd75bbce68741c2d1da24 )
+)
+
+game (
+	name "Flash New Games Collection 22 (19xx)(Flash)"
+	description "Flash New Games Collection 22 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 22 (19xx)(Flash).trd" size 655360 crc 3c3b1af5 md5 b5db9bc18852abe0092b90a0eaea0a70 sha1 928d0e8b24676b3f14b7baacc290827277031744 )
+)
+
+game (
+	name "Flash New Games Collection 23 (19xx)(Flash)"
+	description "Flash New Games Collection 23 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 23 (19xx)(Flash).trd" size 655360 crc 012b84d6 md5 dbb87a0eb4a40c6f2748987b250d30c5 sha1 e0f42a607a365eed7fc5604e2bbdf28c74a90ad4 )
+)
+
+game (
+	name "Flash New Games Collection 24 (19xx)(Flash)"
+	description "Flash New Games Collection 24 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 24 (19xx)(Flash).trd" size 655360 crc e36d5f44 md5 46fa42c66e3b649e8e097ee62da842b9 sha1 b06707c1223f1e7b041930d72fe16beb68dfcbf3 )
+)
+
+game (
+	name "Flash New Games Collection 25 (19xx)(Flash)"
+	description "Flash New Games Collection 25 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 25 (19xx)(Flash).trd" size 655360 crc af903558 md5 024d279f926f9c7bb32f291a6492a5fa sha1 eda3fef9c0564f9523bb9a3d60b2549df0c53840 )
+)
+
+game (
+	name "Flash New Games Collection 26 (19xx)(Flash)"
+	description "Flash New Games Collection 26 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 26 (19xx)(Flash).trd" size 655360 crc 449d57cc md5 c806bc7691f256e7d05e1c17e30bc2c9 sha1 107d36f904b244b0758805ab93dd1493ea61afe3 )
+)
+
+game (
+	name "Flash New Games Collection 27 (19xx)(Flash)"
+	description "Flash New Games Collection 27 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 27 (19xx)(Flash).trd" size 655360 crc 9c3269a0 md5 799365c90ff520c030e649628f22fdc4 sha1 df7344d0a770a929cc80109ecacfefeccb62fc1c )
+)
+
+game (
+	name "Flash New Games Collection 28 (19xx)(Flash)"
+	description "Flash New Games Collection 28 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 28 (19xx)(Flash).trd" size 655360 crc ec9d98f8 md5 11ab4180a4b51ae61510da7d8046bbf5 sha1 33eae6e95ec80cd4e7eca2efd2a3456f588ed621 )
+)
+
+game (
+	name "Flash New Games Collection 29 (19xx)(Flash)"
+	description "Flash New Games Collection 29 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 29 (19xx)(Flash).trd" size 655360 crc a9f4d0f1 md5 a35ca9b73662f3c1b72650c4103235d6 sha1 e2ad94fa217dbf3d64d7057487fc6f777291d6a3 )
+)
+
+game (
+	name "Flash New Games Collection 30 (19xx)(Flash)"
+	description "Flash New Games Collection 30 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 30 (19xx)(Flash).trd" size 655360 crc 5a59e07c md5 cb8152771d33ece1b48a96c5d39ab739 sha1 88d819ac28eb1b68475bbad39bf8e705be8c829e )
+)
+
+game (
+	name "Flash New Games Collection 31 (19xx)(Flash)"
+	description "Flash New Games Collection 31 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 31 (19xx)(Flash).trd" size 655360 crc 3b02c62d md5 99bacd781c0048d81e9791bd3610f768 sha1 e6c26cf230a259ead03ae442775a351161d21d37 )
+)
+
+game (
+	name "Flash New Games Collection 32 (19xx)(Flash)"
+	description "Flash New Games Collection 32 (19xx)(Flash)"
+	rom ( name "Flash New Games Collection 32 (19xx)(Flash).trd" size 655360 crc 8c6b76dd md5 16cc6df6802ff6461314b6ebcd5bd6a4 sha1 4bca62d73ef4642bd818b6ce8a44435033199846 )
+)
+
+game (
+	name "Game Box (1991)(Copper Feet)(ru)"
+	description "Game Box (1991)(Copper Feet)(ru)"
+	rom ( name "Game Box (1991)(Copper Feet)(ru).trd" size 23040 crc caf2b1b0 md5 f605b2d574de4deaf78223d1df01c1f0 sha1 e3d537e2767e6036a37e80d3601a61dffa197394 )
+)
+
+game (
+	name "Games Compilation - 007 - Live and Let Die (1992)(PSW Soft)"
+	description "Games Compilation - 007 - Live and Let Die (1992)(PSW Soft)"
+	rom ( name "Games Compilation - 007 - Live and Let Die (1992)(PSW Soft).trd" size 655360 crc 81a25174 md5 24f8cf91ef6907451c327c6a21c09500 sha1 96d9e9d63e3508089e8f34cc6ea64e8ad51b942d )
+)
+
+game (
+	name "Games Compilation - 007 - The Spy Who Loved Me (19xx)(-)"
+	description "Games Compilation - 007 - The Spy Who Loved Me (19xx)(-)"
+	rom ( name "Games Compilation - 007 - The Spy Who Loved Me (19xx)(-).trd" size 655360 crc e8d9cd5a md5 3bba1d46866490719087b6c778f1effa sha1 23666d1c41a561a7592ba240701eaea612a958f9 )
+)
+
+game (
+	name "Games Compilation - 1942 (19xx)(Lion 17)"
+	description "Games Compilation - 1942 (19xx)(Lion 17)"
+	rom ( name "Games Compilation - 1942 (19xx)(Lion 17).trd" size 655360 crc 1c9db2db md5 691faf4238e20435e79d4607bca6b5d3 sha1 de5784a9aa46a221bc8935248854cc8f4eeff7a5 )
+)
+
+game (
+	name "Games Compilation - 48 Irons (1994)(Technotime)"
+	description "Games Compilation - 48 Irons (1994)(Technotime)"
+	rom ( name "Games Compilation - 48 Irons (1994)(Technotime).trd" size 655360 crc 1a6b9218 md5 68511fd8cac37799788329033202611c sha1 f7075fd950761daa23d37a7bd56f816a94e4dc74 )
+)
+
+game (
+	name "Games Compilation - Aaargh! (1994)(Zyx)"
+	description "Games Compilation - Aaargh! (1994)(Zyx)"
+	rom ( name "Games Compilation - Aaargh! (1994)(Zyx).trd" size 655360 crc 42f5c4da md5 470132e531b37b077df8d657a4f2fbcd sha1 b6e60472831eedfce927c574b341e15c9a0b1cdb )
+)
+
+game (
+	name "Games Compilation - Academy - Tau Ceti II (19xx)(Inforcom)"
+	description "Games Compilation - Academy - Tau Ceti II (19xx)(Inforcom)"
+	rom ( name "Games Compilation - Academy - Tau Ceti II (19xx)(Inforcom).trd" size 655360 crc f7ac2cd9 md5 fa773c74c9cde2c723af0bd3103f34ab sha1 e3236d59bdfd51113d6f7b033833463ecdb2fbf1 )
+)
+
+game (
+	name "Games Compilation - Academy+ (19xx)(-)"
+	description "Games Compilation - Academy+ (19xx)(-)"
+	rom ( name "Games Compilation - Academy+ (19xx)(-).trd" size 655360 crc a930aac6 md5 a30f7e1638b583ce605ee01fdaed77d9 sha1 42fc77d9cbd94e779a4e912fb4c4e2b877b5568b )
+)
+
+game (
+	name "Games Compilation - Adventureland (1995)(Softstar)"
+	description "Games Compilation - Adventureland (1995)(Softstar)"
+	rom ( name "Games Compilation - Adventureland (1995)(Softstar).trd" size 655360 crc 6c4079ca md5 2b6b5f5f5da2906b11f998bfffb5ec2a sha1 1b23eec879462e98f03e467cf6b5d575634929d4 )
+)
+
+game (
+	name "Games Compilation - Adventureland (19xx)(-)"
+	description "Games Compilation - Adventureland (19xx)(-)"
+	rom ( name "Games Compilation - Adventureland (19xx)(-).trd" size 655360 crc 2ff9560b md5 5218c2df41bd6b9fcdee740bcb914399 sha1 9b6a20bbacb7e77807b8f55924006da1445be21c )
+)
+
+game (
+	name "Games Compilation - Alien (19xx)(Lion 17)"
+	description "Games Compilation - Alien (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Alien (19xx)(Lion 17).trd" size 655360 crc 503fece9 md5 bfb81e5c826340e79d8be8101f620e3c sha1 3107338b5e5c460fd74801b3a9c7444164477eab )
+)
+
+game (
+	name "Games Compilation - Altered Beast (1994)(Rod Jer)"
+	description "Games Compilation - Altered Beast (1994)(Rod Jer)"
+	rom ( name "Games Compilation - Altered Beast (1994)(Rod Jer).trd" size 655360 crc 78ce049b md5 6d3c4a5726bece0163cee17ca594e3b7 sha1 7f13cb9cb0cf351db1d5d53d68da283c36be35e1 )
+)
+
+game (
+	name "Games Compilation - Arkanoid 128 (19xx)(Boot)"
+	description "Games Compilation - Arkanoid 128 (19xx)(Boot)"
+	rom ( name "Games Compilation - Arkanoid 128 (19xx)(Boot).trd" size 655360 crc bc83a096 md5 feff3652d4c91a2cc8a3449fc7ba42aa sha1 4f21d20e15d7282b70d0db8ade4da9e0dca477ca )
+)
+
+game (
+	name "Games Compilation - Arkanoid II - Revenge of Doh (19xx)(PS)"
+	description "Games Compilation - Arkanoid II - Revenge of Doh (19xx)(PS)"
+	rom ( name "Games Compilation - Arkanoid II - Revenge of Doh (19xx)(PS).trd" size 655360 crc c5c60102 md5 92aed579e036374d368b66451cacfc8d sha1 1e41c155538ee010aa4b349559a7e36a34e7255d )
+)
+
+game (
+	name "Games Compilation - Army Moves (19xx)(-)"
+	description "Games Compilation - Army Moves (19xx)(-)"
+	rom ( name "Games Compilation - Army Moves (19xx)(-).trd" size 655360 crc c005748b md5 6c8c7f2304b88c25b5e099ff15526fc4 sha1 c4f9e08509ded6f1d85428a795978ed01d365ddf )
+)
+
+game (
+	name "Games Compilation - Auf Wiedersehen Monty (19xx)(STN Beer Users)"
+	description "Games Compilation - Auf Wiedersehen Monty (19xx)(STN Beer Users)"
+	rom ( name "Games Compilation - Auf Wiedersehen Monty (19xx)(STN Beer Users).trd" size 655360 crc c49b6a10 md5 716115d4db2206e5e09f01ab6402e883 sha1 fe0be3a12f34f2bf5e9ce8e3806fc2f9eae2a552 )
+)
+
+game (
+	name "Games Compilation - Awantura (19xx)(Lion 17)"
+	description "Games Compilation - Awantura (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Awantura (19xx)(Lion 17).trd" size 655360 crc f00f984f md5 ea63aaedb7bfd9885bc8ef5bb8569a6a sha1 20e9f719a4f95f8c9d81d382cfdae5d6b6d83f4b )
+)
+
+game (
+	name "Games Compilation - Back to the Future III (1992)(PSW Soft)"
+	description "Games Compilation - Back to the Future III (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Back to the Future III (1992)(PSW Soft).trd" size 655360 crc 53186fb5 md5 b44d8d63c221a5d44c4c7396e591a5cd sha1 70f0f13817d7c1a978bac5cdcf3480d47fc58b14 )
+)
+
+game (
+	name "Games Compilation - Ball Breaker (1995)(Softstar)"
+	description "Games Compilation - Ball Breaker (1995)(Softstar)"
+	rom ( name "Games Compilation - Ball Breaker (1995)(Softstar).trd" size 655360 crc d138163b md5 4e52c87f60340953f8845ad23bcaa301 sha1 17e4157adb130f35a186cf3ea211580a061d9f8d )
+)
+
+game (
+	name "Games Compilation - Bank 25 (19xx)(Valery)"
+	description "Games Compilation - Bank 25 (19xx)(Valery)"
+	rom ( name "Games Compilation - Bank 25 (19xx)(Valery).trd" size 655360 crc d12c338c md5 33e01303b1815758aa4fd18185b229fc sha1 c7d39801900e6553d8b7a597151b424d08a36feb )
+)
+
+game (
+	name "Games Compilation - Bismarck (19xx)(-)"
+	description "Games Compilation - Bismarck (19xx)(-)"
+	rom ( name "Games Compilation - Bismarck (19xx)(-).trd" size 655360 crc 44b6e22e md5 ba49b30e5576d8c835cdfe6f96a123f0 sha1 1ebe228e84b04ff439a2538a8c3b70e0068c341c )
+)
+
+game (
+	name "Games Compilation - Blazing Thunder (1993)(-)"
+	description "Games Compilation - Blazing Thunder (1993)(-)"
+	rom ( name "Games Compilation - Blazing Thunder (1993)(-).trd" size 655360 crc c02caaef md5 cfac7884141730be0f914d67c32869ca sha1 ae0dc7b4ff25a865a0686f3ba21fac0681a38573 )
+)
+
+game (
+	name "Games Compilation - Blue Thunder (1992)(PSW Soft)"
+	description "Games Compilation - Blue Thunder (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Blue Thunder (1992)(PSW Soft).trd" size 655360 crc f4498085 md5 344da17b5b123d18c2438081d02f95b7 sha1 b5b0be4aae8333b32bfcb24ad03cd28dfc7b0d05 )
+)
+
+game (
+	name "Games Compilation - Brain Sport (1992)(PSW Soft)"
+	description "Games Compilation - Brain Sport (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Brain Sport (1992)(PSW Soft).trd" size 655360 crc 9b508f15 md5 1c2782dc3c989f9abfc26f470410fbcf sha1 98a75269040bda7d9ed084eb1770a95b08c0e418 )
+)
+
+game (
+	name "Games Compilation - Bumby (19xx)(Recly Company)"
+	description "Games Compilation - Bumby (19xx)(Recly Company)"
+	rom ( name "Games Compilation - Bumby (19xx)(Recly Company).trd" size 655360 crc 317aa995 md5 31eb1e950f5f28b2c5fa145e5d0768a5 sha1 aa182f747ca5f048d4f5490fcefdbaaa5f243df7 )
+)
+
+game (
+	name "Games Compilation - By Fair Means or Foul (19xx)(Computer Life)"
+	description "Games Compilation - By Fair Means or Foul (19xx)(Computer Life)"
+	rom ( name "Games Compilation - By Fair Means or Foul (19xx)(Computer Life).trd" size 655360 crc d2210700 md5 07d271b0af6831d5a7db5bcd36e7ca35 sha1 4981e61beb25f59b96d6c744d403abe448a14f38 )
+)
+
+game (
+	name "Games Compilation - Cabal (1994)(Zyx)"
+	description "Games Compilation - Cabal (1994)(Zyx)"
+	rom ( name "Games Compilation - Cabal (1994)(Zyx).trd" size 655360 crc 29610c9a md5 71c323d2c0a3bf0802a9b72812ef72c6 sha1 6d6f6329d8c663e611b3c9b3a690ca3582f8cabb )
+)
+
+game (
+	name "Games Compilation - Chase H.Q. (1994)(Zyx)"
+	description "Games Compilation - Chase H.Q. (1994)(Zyx)"
+	rom ( name "Games Compilation - Chase H.Q. (1994)(Zyx).trd" size 655360 crc 01ae85f4 md5 0a405d7e52b9da091347ac6281f84b62 sha1 4c000715a008615533c8bdca3a630cb3ffb05938 )
+)
+
+game (
+	name "Games Compilation - Chessmaster (1994)(Zyx)"
+	description "Games Compilation - Chessmaster (1994)(Zyx)"
+	rom ( name "Games Compilation - Chessmaster (1994)(Zyx).trd" size 655360 crc 846542db md5 9fe10fc97d20f939b05577de37a3507a sha1 e5544fc2a92e6e0c5bf7371062b9be7a8ec941e4 )
+)
+
+game (
+	name "Games Compilation - Colony (1994)(Zyx)"
+	description "Games Compilation - Colony (1994)(Zyx)"
+	rom ( name "Games Compilation - Colony (1994)(Zyx).trd" size 655360 crc f9b34700 md5 42cae62e414b5c74eb95b8cdfe3e607d sha1 2e2ae1132ec88e628e0cca0be3fe51f37f85357f )
+)
+
+game (
+	name "Games Compilation - Combat School (1994)(Code Busters)"
+	description "Games Compilation - Combat School (1994)(Code Busters)"
+	rom ( name "Games Compilation - Combat School (1994)(Code Busters).trd" size 655360 crc bd5de302 md5 377352dc962dd2307183c31be11bce03 sha1 1050eccb4799156a9aca2abb2352055b65a289ce )
+)
+
+game (
+	name "Games Compilation - Commando (19xx)(-)"
+	description "Games Compilation - Commando (19xx)(-)"
+	rom ( name "Games Compilation - Commando (19xx)(-).trd" size 655360 crc 069c2bdd md5 982c312c1ee518cf35482e07ce43b632 sha1 a961ce4db55eac326042e31037309b1515d2900b )
+)
+
+game (
+	name "Games Compilation - Corsarios - Part 2 (1992)(PSW Soft)"
+	description "Games Compilation - Corsarios - Part 2 (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Corsarios - Part 2 (1992)(PSW Soft).trd" size 655360 crc e1baba20 md5 83de5906bc17e80225df9acd197d99d6 sha1 fe96a5b2188d6a3ad38a1303039d4f51a96865ac )
+)
+
+game (
+	name "Games Compilation - Cybernoid - The Fighting Machine (1991)(Kordial)"
+	description "Games Compilation - Cybernoid - The Fighting Machine (1991)(Kordial)"
+	rom ( name "Games Compilation - Cybernoid - The Fighting Machine (1991)(Kordial).trd" size 655360 crc d43c400f md5 b9d8f4b9663de09cbb341ea5e503258e sha1 e1f06919f54c39a58473af13a928f811b05a2cc0 )
+)
+
+game (
+	name "Games Compilation - Darkman (19xx)(-)"
+	description "Games Compilation - Darkman (19xx)(-)"
+	rom ( name "Games Compilation - Darkman (19xx)(-).trd" size 655360 crc 1137e2ac md5 40d258d71a7227122764ec4cd4b494f8 sha1 49249086d8c41a358ab3b6299f5b5dde1e89c464 )
+)
+
+game (
+	name "Games Compilation - Deactivators (19xx)(Lion 17)"
+	description "Games Compilation - Deactivators (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Deactivators (19xx)(Lion 17).trd" size 655360 crc f4448258 md5 476cd8c1ce424c7fdcd31032b41970da sha1 36ebe6ab7506812547c3efe2029d6ff942a47a1d )
+)
+
+game (
+	name "Games Compilation - Death Wish 3 (19xx)(Recly Company)"
+	description "Games Compilation - Death Wish 3 (19xx)(Recly Company)"
+	rom ( name "Games Compilation - Death Wish 3 (19xx)(Recly Company).trd" size 655360 crc 0c9ff55b md5 5a5a0f87804c82ce6c398a8cde165888 sha1 1992a2e942c8faa8e64691124836e8d414375e59 )
+)
+
+game (
+	name "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1994)(Zyx)"
+	description "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1994)(Zyx)"
+	rom ( name "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1994)(Zyx).trd" size 655360 crc e9d556e9 md5 18547f6fa08f850c65ecb6219a4c0e75 sha1 3a508b7351b37c7b3abed556ea5168b0cec1917e )
+)
+
+game (
+	name "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1995)(Softstar)"
+	description "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1995)(Softstar)"
+	rom ( name "Games Compilation - Dizzy - The Ultimate Cartoon Adventure (1995)(Softstar).trd" size 655360 crc ac72b69c md5 61c176afb08a586812e4fa6fbbb466b0 sha1 78694d8baf10c232d6b7e33291da8679d5597a50 )
+)
+
+game (
+	name "Games Compilation - Dizzy Collection (1994)(Zyx)"
+	description "Games Compilation - Dizzy Collection (1994)(Zyx)"
+	rom ( name "Games Compilation - Dizzy Collection (1994)(Zyx).trd" size 655360 crc 2815c397 md5 3a63950340dfbbc6cad61d4f4651bf77 sha1 158f4a25ea3df180a964cd07f286cde06983c7a7 )
+)
+
+game (
+	name "Games Compilation - Dizzy IV - Magicland Dizzy (19xx)(Inforcom)"
+	description "Games Compilation - Dizzy IV - Magicland Dizzy (19xx)(Inforcom)"
+	rom ( name "Games Compilation - Dizzy IV - Magicland Dizzy (19xx)(Inforcom).trd" size 655360 crc 08e3a014 md5 fabbe2545f9a9f08f14a46225cc9fb51 sha1 b20ef5dbda630e3d05f06d43a293747d619cdc7d )
+)
+
+game (
+	name "Games Compilation - Dizzy X - Part 1 - Journey to Russia (1995)(Zyx)"
+	description "Games Compilation - Dizzy X - Part 1 - Journey to Russia (1995)(Zyx)"
+	rom ( name "Games Compilation - Dizzy X - Part 1 - Journey to Russia (1995)(Zyx).trd" size 655360 crc a49514d3 md5 2c0a1cbf36753e1fade3b35a024313c1 sha1 916fd11301e123a98e03bf1206824c4ae81adcee )
+)
+
+game (
+	name "Games Compilation - Dizzy X - Part 1 - Journey to Russia (19xx)(Lion 17)"
+	description "Games Compilation - Dizzy X - Part 1 - Journey to Russia (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Dizzy X - Part 1 - Journey to Russia (19xx)(Lion 17).trd" size 655360 crc 9f23a1b0 md5 be7c24f2b02872b6ea575520075375dd sha1 5a5e2158c9681f2392658ee49c0cbf1ef59a9b8e )
+)
+
+game (
+	name "Games Compilation - Dizzy X - Part 2 - Return to Russia (1995)(Technotime)"
+	description "Games Compilation - Dizzy X - Part 2 - Return to Russia (1995)(Technotime)"
+	rom ( name "Games Compilation - Dizzy X - Part 2 - Return to Russia (1995)(Technotime).trd" size 655360 crc 903862d0 md5 3723ba10c23ca0388d7dc5c4fe4360cf sha1 932a83ff69f62953112164302f5a60e0c53df177 )
+)
+
+game (
+	name "Games Compilation - Duck Out (19xx)(Lion 17)"
+	description "Games Compilation - Duck Out (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Duck Out (19xx)(Lion 17).trd" size 655360 crc 19470cc1 md5 f3837d3f01a1658bc5f3531fa074aee8 sha1 9e4f4f468dd2734169530f5040824477432e615d )
+)
+
+game (
+	name "Games Compilation - Dynasty Wars (1994)(Code Busters)"
+	description "Games Compilation - Dynasty Wars (1994)(Code Busters)"
+	rom ( name "Games Compilation - Dynasty Wars (1994)(Code Busters).trd" size 655360 crc 309fab9c md5 6c690ac76440d91659d1c021925cd662 sha1 4e6b85e1ce77fdc65280d994358e85a947c82cca )
+)
+
+game (
+	name "Games Compilation - Echelon (1992)(PSW Soft)"
+	description "Games Compilation - Echelon (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Echelon (1992)(PSW Soft).trd" size 655360 crc 87cf6f29 md5 901b30f0f30c9b5d3a962339581c1b99 sha1 5eb6ee1d6396a34cfb7bfc35f0c85fec0c94b38f )
+)
+
+game (
+	name "Games Compilation - Eidolon (1994)(Zyx)"
+	description "Games Compilation - Eidolon (1994)(Zyx)"
+	rom ( name "Games Compilation - Eidolon (1994)(Zyx).trd" size 655360 crc e3662339 md5 66042cfb620ee9eccdf7ccdd03b17085 sha1 2136571e9d9830bfe95b0ba008c12988099340d1 )
+)
+
+game (
+	name "Games Compilation - Eidolon (19xx)(In Company)"
+	description "Games Compilation - Eidolon (19xx)(In Company)"
+	rom ( name "Games Compilation - Eidolon (19xx)(In Company).trd" size 655360 crc 2d6cb50c md5 61cf9979cefa5b6811a884bf21820d75 sha1 37acd35d74844ab9c74a5fe68fa505d2f1447ea2 )
+)
+
+game (
+	name "Games Compilation - Elite 2 (1992)(PSW Soft)"
+	description "Games Compilation - Elite 2 (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Elite 2 (1992)(PSW Soft).trd" size 655360 crc 61ece548 md5 5d1f85828a5e2d2f11340ec12fb5e5d1 sha1 3992fd8d82bb65084c8ca3649a8452bc40c3f625 )
+)
+
+game (
+	name "Games Compilation - Elite 2 (19xx)(-)"
+	description "Games Compilation - Elite 2 (19xx)(-)"
+	rom ( name "Games Compilation - Elite 2 (19xx)(-).trd" size 655360 crc c8400626 md5 4fc5ec3291257879c52c441864dc5319 sha1 5be3250745b856cbe4cea7678debc030ac57adf5 )
+)
+
+game (
+	name "Games Compilation - Elite 3 (1994)(Zyx)"
+	description "Games Compilation - Elite 3 (1994)(Zyx)"
+	rom ( name "Games Compilation - Elite 3 (1994)(Zyx).trd" size 655360 crc 22974b3e md5 67d244667448d8f30ef5e9356cf46cf3 sha1 1568f579e3e24318e5be17308086bbb4888c2694 )
+)
+
+game (
+	name "Games Compilation - Elite Service (1994)(Zyx)"
+	description "Games Compilation - Elite Service (1994)(Zyx)"
+	rom ( name "Games Compilation - Elite Service (1994)(Zyx).trd" size 655360 crc 26c272c7 md5 17d10762cbf3d266c6de2a473fa7ad62 sha1 b7fcc1990c5c09df9edd1c7ea2d301f7bcbd1506 )
+)
+
+game (
+	name "Games Compilation - Ember (1994)(Zyx)"
+	description "Games Compilation - Ember (1994)(Zyx)"
+	rom ( name "Games Compilation - Ember (1994)(Zyx).trd" size 655360 crc d4806b04 md5 2479bd91c75f5bbbbc62d6224d6afc4d sha1 d68bcef78dcc0d2899e3d9a781e0900241144d06 )
+)
+
+game (
+	name "Games Compilation - Explorer (1994)(Zyx)"
+	description "Games Compilation - Explorer (1994)(Zyx)"
+	rom ( name "Games Compilation - Explorer (1994)(Zyx).trd" size 655360 crc 2f0895cf md5 2cb9aa930a4b290e13e10f087d01edab sha1 93d9a636b5eefbebbab2eba1b3da4b5d97bdb87c )
+)
+
+game (
+	name "Games Compilation - Exterminator (1994)(Zyx)"
+	description "Games Compilation - Exterminator (1994)(Zyx)"
+	rom ( name "Games Compilation - Exterminator (1994)(Zyx).trd" size 655360 crc 2c4a04d3 md5 4d83a5b952f200bd7dd9e9488050f5aa sha1 b1054952356b96a470656426b5379bcaa13d01e7 )
+)
+
+game (
+	name "Games Compilation - Faultless Magazine (1994)(Code Busters)"
+	description "Games Compilation - Faultless Magazine (1994)(Code Busters)"
+	rom ( name "Games Compilation - Faultless Magazine (1994)(Code Busters).trd" size 655360 crc f45970b8 md5 4ed2283c61e0100d8513bd88c936502c sha1 2fb415eaefccd9fedcf073705da422cb6a61bb05 )
+)
+
+game (
+	name "Games Compilation - Fernando Martin Basket Master (1992)(PSW Soft)"
+	description "Games Compilation - Fernando Martin Basket Master (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Fernando Martin Basket Master (1992)(PSW Soft).trd" size 655360 crc 33699ff6 md5 82ad69f3f0516ae6fbff1ef255280af7 sha1 7c88a5a8c23bcb82bdb6dd993368874e7dbd4bd7 )
+)
+
+game (
+	name "Games Compilation - Freez (19xx)(Lion 17)"
+	description "Games Compilation - Freez (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Freez (19xx)(Lion 17).trd" size 655360 crc 5881f10d md5 bb73bfa543a86484295edc4299533620 sha1 a579640a2ab0ad0ec8cfaae673d47a58018daae0 )
+)
+
+game (
+	name "Games Compilation - Galix (1994)(Magic Soft)"
+	description "Games Compilation - Galix (1994)(Magic Soft)"
+	rom ( name "Games Compilation - Galix (1994)(Magic Soft).trd" size 655360 crc f61f941b md5 045ab33aa3d1e8885503939107dbf62e sha1 5cb6b1809e6e484a4739e5af5d0ab1b5a960190a )
+)
+
+game (
+	name "Games Compilation - Ghosts 'n' Goblins (1994)(Code Busters)"
+	description "Games Compilation - Ghosts 'n' Goblins (1994)(Code Busters)"
+	rom ( name "Games Compilation - Ghosts 'n' Goblins (1994)(Code Busters).trd" size 655360 crc dabd60fe md5 70fa6f0ebd1aec58160c39e001f4e6ec sha1 88891273cd2739b59152045a702a4e4bd02092ee )
+)
+
+game (
+	name "Games Compilation - Golden X (1994)(Zyx)"
+	description "Games Compilation - Golden X (1994)(Zyx)"
+	rom ( name "Games Compilation - Golden X (1994)(Zyx).trd" size 655360 crc c2ce2da1 md5 82d45e1d96d9a7a1d63ba10595f8efa7 sha1 6f30512318a0e94cfa804646fb6a7c11166b73c1 )
+)
+
+game (
+	name "Games Compilation - Grid Iron 2 (1994)(Code Busters)"
+	description "Games Compilation - Grid Iron 2 (1994)(Code Busters)"
+	rom ( name "Games Compilation - Grid Iron 2 (1994)(Code Busters).trd" size 655360 crc cd87b3ca md5 0ab9c9b6026c43a7e821237b22bd0f8f sha1 9957edf5dc6fc4164ed057b711e6a779fc4cba31 )
+)
+
+game (
+	name "Games Compilation - Gunfright (1994)(Zyx)"
+	description "Games Compilation - Gunfright (1994)(Zyx)"
+	rom ( name "Games Compilation - Gunfright (1994)(Zyx).trd" size 655360 crc 7bd00d9f md5 f0ec21a8330df54799b2ee582af2a182 sha1 4f0aacf7d78847732b82eedd3a8027be1dc8bcda )
+)
+
+game (
+	name "Games Compilation - Gunship (1995)(Softstar)"
+	description "Games Compilation - Gunship (1995)(Softstar)"
+	rom ( name "Games Compilation - Gunship (1995)(Softstar).trd" size 655360 crc cb39b1f1 md5 2385841e61a297c041ab4022d678f61b sha1 6fbf8784e17a13a0ccc081932f2fcb66edf9f4ee )
+)
+
+game (
+	name "Games Compilation - Gunship (1995)(Softstar)[a]"
+	description "Games Compilation - Gunship (1995)(Softstar)[a]"
+	rom ( name "Games Compilation - Gunship (1995)(Softstar)[a].trd" size 655360 crc 41e0a0eb md5 6e109ffd6a9751cfbca674135c67a595 sha1 c1d5b0fa46141ba3abc8da4872fae297a9635c93 )
+)
+
+game (
+	name "Games Compilation - Harhan (19xx)(-)"
+	description "Games Compilation - Harhan (19xx)(-)"
+	rom ( name "Games Compilation - Harhan (19xx)(-).trd" size 655360 crc 78ce7170 md5 d62647838d52e545c1685ba211b4a59b sha1 03c7868fc238be15d8717543371ad72ff97d322c )
+)
+
+game (
+	name "Games Compilation - Head over Heels (1994)(Zyx)"
+	description "Games Compilation - Head over Heels (1994)(Zyx)"
+	rom ( name "Games Compilation - Head over Heels (1994)(Zyx).trd" size 655360 crc 6028f956 md5 779da2d60e3ca602165fb746cbd741c3 sha1 0d97e95211510780f69a1c14aafcb4ee8c6f3001 )
+)
+
+game (
+	name "Games Compilation - Head the Ball (19xx)(-)"
+	description "Games Compilation - Head the Ball (19xx)(-)"
+	rom ( name "Games Compilation - Head the Ball (19xx)(-).trd" size 655360 crc 6216c8ad md5 2b104ee538868f321c917ab27f512d0d sha1 9672e800810437038933bf1f36a153ab09b007bf )
+)
+
+game (
+	name "Games Compilation - Hero Quest (19xx)(-)"
+	description "Games Compilation - Hero Quest (19xx)(-)"
+	rom ( name "Games Compilation - Hero Quest (19xx)(-).trd" size 655360 crc c767fd3f md5 d52389a754b5d4199fec7dde81aa3550 sha1 63eb6874cfdf7cc37d2f1f22536e9e5e3545ced9 )
+)
+
+game (
+	name "Games Compilation - Hero Quest (19xx)(Recly Company)"
+	description "Games Compilation - Hero Quest (19xx)(Recly Company)"
+	rom ( name "Games Compilation - Hero Quest (19xx)(Recly Company).trd" size 655360 crc be30bccb md5 ec57e666a0e51c5702232380f7989c6a sha1 37ee18d61b0361e4f32587c4f09adca3eefadef1 )
+)
+
+game (
+	name "Games Compilation - Heroes of the Lance (19xx)(-)"
+	description "Games Compilation - Heroes of the Lance (19xx)(-)"
+	rom ( name "Games Compilation - Heroes of the Lance (19xx)(-).trd" size 655360 crc 6a1452e1 md5 6419e6e58067105f34e10a01bbf070f2 sha1 46d782da528a189343e3114998cd0a4bafe08814 )
+)
+
+game (
+	name "Games Compilation - High Pro (1995)(Softstar)"
+	description "Games Compilation - High Pro (1995)(Softstar)"
+	rom ( name "Games Compilation - High Pro (1995)(Softstar).trd" size 655360 crc d257a407 md5 213732b1ddb643e686589ef07834064f sha1 3ae8f28a036cd44c13834721740487ffc2e1f868 )
+)
+
+game (
+	name "Games Compilation - High Steel (1994)(Zyx)"
+	description "Games Compilation - High Steel (1994)(Zyx)"
+	rom ( name "Games Compilation - High Steel (1994)(Zyx).trd" size 655360 crc b124f545 md5 98ab310a6f12747c6db101b964de52de sha1 e0ad4adfbc9a389edda7dc5959db51e7cd82822b )
+)
+
+game (
+	name "Games Compilation - Homer Simpson (19xx)(-)"
+	description "Games Compilation - Homer Simpson (19xx)(-)"
+	rom ( name "Games Compilation - Homer Simpson (19xx)(-).trd" size 655360 crc 9e42dcf2 md5 5644ecd86cc728924ae39b590d01ab4b sha1 7825c8986bf343310d9f1f803e51882d2cd4b245 )
+)
+
+game (
+	name "Games Compilation - Hyper Active (1994)(Zyx)"
+	description "Games Compilation - Hyper Active (1994)(Zyx)"
+	rom ( name "Games Compilation - Hyper Active (1994)(Zyx).trd" size 655360 crc 497358c2 md5 ee129a7dacb81fdf7f7e06d060ff2a92 sha1 2a28b059e7011ab4bd07dffffee246d6235d69b5 )
+)
+
+game (
+	name "Games Compilation - I, Ball (1994)(Zyx)"
+	description "Games Compilation - I, Ball (1994)(Zyx)"
+	rom ( name "Games Compilation - I, Ball (1994)(Zyx).trd" size 655360 crc 85a3271f md5 58af01bc234097024e00d03d9c2c7f59 sha1 42ea244e235498a69d25bbd2f8ca9c47fd8ca742 )
+)
+
+game (
+	name "Games Compilation - Ice Climber (1994)(Zyx)"
+	description "Games Compilation - Ice Climber (1994)(Zyx)"
+	rom ( name "Games Compilation - Ice Climber (1994)(Zyx).trd" size 655360 crc 99928e49 md5 8392bc238536640c782bb8e86713577d sha1 4697e901ea5b6b2f97b6a995545f80a19d417ec4 )
+)
+
+game (
+	name "Games Compilation - Ice Temple (1992)(PSW Soft)"
+	description "Games Compilation - Ice Temple (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Ice Temple (1992)(PSW Soft).trd" size 655360 crc 0b6dc3ec md5 37c21943aabd541774d9add70c12941b sha1 951dfd7da94b79011355e49722b806b8ba8783b2 )
+)
+
+game (
+	name "Games Compilation - ID (19xx)(-)"
+	description "Games Compilation - ID (19xx)(-)"
+	rom ( name "Games Compilation - ID (19xx)(-).trd" size 655360 crc e1f2c80d md5 82ca65a585c816d1290b9766bff5a6f9 sha1 9aed161bea54e20bdb6edf5b7b30153270073414 )
+)
+
+game (
+	name "Games Compilation - International Karate+ (1990)(ZX Top Service)"
+	description "Games Compilation - International Karate+ (1990)(ZX Top Service)"
+	rom ( name "Games Compilation - International Karate+ (1990)(ZX Top Service).trd" size 655360 crc 4314895b md5 90db5e94b612d060b12a752fd6feb790 sha1 fa94b9f46c41d240e32cfac9e024bb1f26839b78 )
+)
+
+game (
+	name "Games Compilation - Ivan 'Ironman' Stewart's Super Off Road Racer (19xx)(-)"
+	description "Games Compilation - Ivan 'Ironman' Stewart's Super Off Road Racer (19xx)(-)"
+	rom ( name "Games Compilation - Ivan 'Ironman' Stewart's Super Off Road Racer (19xx)(-).trd" size 655360 crc fd0916af md5 5c3209c3c71cd7340c352364037849b4 sha1 0faf36a9f5717d675731eaecb265a82e673b772d )
+)
+
+game (
+	name "Games Compilation - Ivan Isarevich (19xx)(-)"
+	description "Games Compilation - Ivan Isarevich (19xx)(-)"
+	rom ( name "Games Compilation - Ivan Isarevich (19xx)(-).trd" size 655360 crc 8eee9ba7 md5 9d9158db463f9e86761e1f8aea4d1026 sha1 b5c4ec076fcb33e5ac46ebdf5a2edff343d3cd40 )
+)
+
+game (
+	name "Games Compilation - Kane (19xx)(-)"
+	description "Games Compilation - Kane (19xx)(-)"
+	rom ( name "Games Compilation - Kane (19xx)(-).trd" size 655360 crc 4fb133e3 md5 a9f1db8585abbadbc5791fb51c9dfdd8 sha1 67eae89e6379515b70418ad5aefdac7aa34bdc3f )
+)
+
+game (
+	name "Games Compilation - Karnov (1994)(Magic Soft)"
+	description "Games Compilation - Karnov (1994)(Magic Soft)"
+	rom ( name "Games Compilation - Karnov (1994)(Magic Soft).trd" size 655360 crc 8dd22fd1 md5 4adbf38de384f07ad1881013891352de sha1 3e84f3a257c5b41e86294a637f20445638fac435 )
+)
+
+game (
+	name "Games Compilation - Kendo (1994)(Code Busters)"
+	description "Games Compilation - Kendo (1994)(Code Busters)"
+	rom ( name "Games Compilation - Kendo (1994)(Code Busters).trd" size 655360 crc 363ead12 md5 b8ab3e70757eb0166a152e3a189c6d15 sha1 83f9f19e2f711347de7f4f0cdcf6f90aa5e5e496 )
+)
+
+game (
+	name "Games Compilation - KGB Superspy (1994)(Zyx)"
+	description "Games Compilation - KGB Superspy (1994)(Zyx)"
+	rom ( name "Games Compilation - KGB Superspy (1994)(Zyx).trd" size 655360 crc ebc12fc5 md5 fc25cb1da15fca98110b76689291a54c sha1 bcb7e24fbbf7360edd4327c0a3eea967254fa370 )
+)
+
+game (
+	name "Games Compilation - King's Bounty (19xx)(Softstar)"
+	description "Games Compilation - King's Bounty (19xx)(Softstar)"
+	rom ( name "Games Compilation - King's Bounty (19xx)(Softstar).trd" size 655360 crc 9ae42496 md5 13364c26a0ccb7cb057448aaebb70974 sha1 43a3674c7432837c776023799bf3bd6bf68c4ba7 )
+)
+
+game (
+	name "Games Compilation - Klax (1994)(Code Busters)"
+	description "Games Compilation - Klax (1994)(Code Busters)"
+	rom ( name "Games Compilation - Klax (1994)(Code Busters).trd" size 655360 crc fc7ac911 md5 ab614d1569259ba14bd0021ee0f15cb2 sha1 d5a684cb0a25a39e0ded225bc5ef728fce2563a5 )
+)
+
+game (
+	name "Games Compilation - Klax (19xx)(Vitaly Computer Company)"
+	description "Games Compilation - Klax (19xx)(Vitaly Computer Company)"
+	rom ( name "Games Compilation - Klax (19xx)(Vitaly Computer Company).trd" size 655360 crc baa546fb md5 e103da040adab444e57e96896cd09195 sha1 980252c528324f805eb13b0c19fa5570e3473233 )
+)
+
+game (
+	name "Games Compilation - Klingsor the Evil Magician (19xx)(Softstar)"
+	description "Games Compilation - Klingsor the Evil Magician (19xx)(Softstar)"
+	rom ( name "Games Compilation - Klingsor the Evil Magician (19xx)(Softstar).trd" size 655360 crc 40c7fd18 md5 6b5d2dbb099010b242509dd0b68b3b3c sha1 e43d87e9a22b2b1bec44f47668c4dba069a17952 )
+)
+
+game (
+	name "Games Compilation - Laser Wheel (19xx)(-)"
+	description "Games Compilation - Laser Wheel (19xx)(-)"
+	rom ( name "Games Compilation - Laser Wheel (19xx)(-).trd" size 655360 crc 657adcb2 md5 a2c6120fd1273683976c61a086ceaa23 sha1 b5e54db89c71e0bf0654cfb260c4c44d5c06c630 )
+)
+
+game (
+	name "Games Compilation - Last Battle (19xx)(-)"
+	description "Games Compilation - Last Battle (19xx)(-)"
+	rom ( name "Games Compilation - Last Battle (19xx)(-).trd" size 655360 crc 1ad1061a md5 eac17bed1290acda6a15ea3bd94ad320 sha1 73c01f881ae6acb19fd6f153afb33f1ee90654bb )
+)
+
+game (
+	name "Games Compilation - Last Battle (19xx)(Lion 17)"
+	description "Games Compilation - Last Battle (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Last Battle (19xx)(Lion 17).trd" size 655360 crc 48b2addb md5 bf298178a25f62da730fd069c70f4bac sha1 1067b3142a75ba65fbd089fdc29ac733d692fe49 )
+)
+
+game (
+	name "Games Compilation - Legend of the Amazon Women (1994)(Zyx)"
+	description "Games Compilation - Legend of the Amazon Women (1994)(Zyx)"
+	rom ( name "Games Compilation - Legend of the Amazon Women (1994)(Zyx).trd" size 655360 crc e477814c md5 a72bf34b5d0dd18e7e40a438139125d9 sha1 733d02452369d91223000b2a2db0d897e252b788 )
+)
+
+game (
+	name "Games Compilation - Lemmings (1993)(-)"
+	description "Games Compilation - Lemmings (1993)(-)"
+	rom ( name "Games Compilation - Lemmings (1993)(-).trd" size 655360 crc c7f04ba7 md5 c19350a9409bc9d6d8d991607e14554d sha1 1a88493aebb38230787256f0ee61b92dee479b29 )
+)
+
+game (
+	name "Games Compilation - Lemmings 2 (19xx)(STN Beer Users)"
+	description "Games Compilation - Lemmings 2 (19xx)(STN Beer Users)"
+	rom ( name "Games Compilation - Lemmings 2 (19xx)(STN Beer Users).trd" size 655360 crc edbf4d0a md5 e37f56a5c746a9a9988d0660c99d3536 sha1 21efcbf447c43921e0681e32c73171dd34062e13 )
+)
+
+game (
+	name "Games Compilation - Manchester United (19xx)(-)"
+	description "Games Compilation - Manchester United (19xx)(-)"
+	rom ( name "Games Compilation - Manchester United (19xx)(-).trd" size 655360 crc c63e1655 md5 08a46b3ba04595acf897b20199249c95 sha1 498caff853e08fbb622f5d70b948a99c41eb3a96 )
+)
+
+game (
+	name "Games Compilation - Marauder (19xx)(-)"
+	description "Games Compilation - Marauder (19xx)(-)"
+	rom ( name "Games Compilation - Marauder (19xx)(-).trd" size 655360 crc 358cb1ca md5 9305676b0b2f7e61ebad621ae9808609 sha1 00b0103c2ab4ea9c8b6c1fc62e2a64c167169166 )
+)
+
+game (
+	name "Games Compilation - Master Chess (1994)(Zyx)"
+	description "Games Compilation - Master Chess (1994)(Zyx)"
+	rom ( name "Games Compilation - Master Chess (1994)(Zyx).trd" size 655360 crc e462503b md5 c49357896306fb4c7e3bbadd2b70d230 sha1 978d56dc3ae0520851dcb43233787564b7a15e69 )
+)
+
+game (
+	name "Games Compilation - Megasmoke 2994 (19xx)(-)"
+	description "Games Compilation - Megasmoke 2994 (19xx)(-)"
+	rom ( name "Games Compilation - Megasmoke 2994 (19xx)(-).trd" size 655360 crc 14625266 md5 58e72d9135e23a2c93d771389fb84446 sha1 b2456cdf34ed1838bd4e542b0ddde6b37ff9177c )
+)
+
+game (
+	name "Games Compilation - Miami Cobra GT (1994)(Zyx)"
+	description "Games Compilation - Miami Cobra GT (1994)(Zyx)"
+	rom ( name "Games Compilation - Miami Cobra GT (1994)(Zyx).trd" size 655360 crc e6d291b5 md5 97886a399ab5f5ae84072344300a034f sha1 8fe59adf5612320f4178efc9acc20d6de4e01a85 )
+)
+
+game (
+	name "Games Compilation - Mig 29 Soviet Fighter (1994)(Zyx)"
+	description "Games Compilation - Mig 29 Soviet Fighter (1994)(Zyx)"
+	rom ( name "Games Compilation - Mig 29 Soviet Fighter (1994)(Zyx).trd" size 655360 crc 6f4ebddd md5 3375ac55148decfe3dbf6c4d22f6fa11 sha1 1acb5edd80fd51d4133f54e55d33caac484e311f )
+)
+
+game (
+	name "Games Compilation - Mirror (19xx)(Prestige)"
+	description "Games Compilation - Mirror (19xx)(Prestige)"
+	rom ( name "Games Compilation - Mirror (19xx)(Prestige).trd" size 655360 crc bae85a1a md5 3e99afcbf9f4176be541f1b332d5a26f sha1 13ad6badbe0a04f53eccbdff6f59129bc8e1df2c )
+)
+
+game (
+	name "Games Compilation - Monte Carlo Casino (1994)(Zyx)"
+	description "Games Compilation - Monte Carlo Casino (1994)(Zyx)"
+	rom ( name "Games Compilation - Monte Carlo Casino (1994)(Zyx).trd" size 655360 crc dac4c8e2 md5 34fbb93ffa9919cbc3fc857ee6a74e8d sha1 b8b09f46409cb310b39f89f66d2d17992ecb1aef )
+)
+
+game (
+	name "Games Compilation - Ms. Pac-Man (1994)(Code Busters)"
+	description "Games Compilation - Ms. Pac-Man (1994)(Code Busters)"
+	rom ( name "Games Compilation - Ms. Pac-Man (1994)(Code Busters).trd" size 655360 crc 41126b1e md5 63d541ab8f64461a0e3b3326a2538606 sha1 509adda78f3100a8301777bb2096d12ec91bbeb3 )
+)
+
+game (
+	name "Games Compilation - Nodes of Yesod (1994)(Zyx)"
+	description "Games Compilation - Nodes of Yesod (1994)(Zyx)"
+	rom ( name "Games Compilation - Nodes of Yesod (1994)(Zyx).trd" size 655360 crc 2205ce4a md5 a34d8b78bf450f528d27b7bf3a28ccc9 sha1 264f87f3295d8597bc53bf678027cc7b6a41c264 )
+)
+
+game (
+	name "Games Compilation - North & South (19xx)(-)"
+	description "Games Compilation - North & South (19xx)(-)"
+	rom ( name "Games Compilation - North & South (19xx)(-).trd" size 655360 crc 4ec90992 md5 1f5664532e3beec3a7ee757606e29893 sha1 2e650ea9e35b55278c6276f3b11bb19448c53594 )
+)
+
+game (
+	name "Games Compilation - Olli & Lissa III - The Candlelight Adventure (1994)(Zyx)"
+	description "Games Compilation - Olli & Lissa III - The Candlelight Adventure (1994)(Zyx)"
+	rom ( name "Games Compilation - Olli & Lissa III - The Candlelight Adventure (1994)(Zyx).trd" size 655360 crc 980a5755 md5 23a898226f8d1a09f478c5f0b4a9f6de sha1 7bd9285a487039a52ab6a4ff8107891fb402eeb7 )
+)
+
+game (
+	name "Games Compilation - Pac-Land (1994)(Zyx)"
+	description "Games Compilation - Pac-Land (1994)(Zyx)"
+	rom ( name "Games Compilation - Pac-Land (1994)(Zyx).trd" size 655360 crc da1acc72 md5 7d1b8227b53c64b73483e307ae094bdd sha1 15e1af9d11cc76a987e15c3b5b41e0e5f0cf26ec )
+)
+
+game (
+	name "Games Compilation - Phantom F4 (19xx)(KSA Software)"
+	description "Games Compilation - Phantom F4 (19xx)(KSA Software)"
+	rom ( name "Games Compilation - Phantom F4 (19xx)(KSA Software).trd" size 655360 crc 6b964176 md5 a2a3821ffc1b9cbea6b72a81367d9a93 sha1 fc7603e7ec5c9a96d78265b13f162980117c47d0 )
+)
+
+game (
+	name "Games Compilation - Planet Patrol (19xx)(-)"
+	description "Games Compilation - Planet Patrol (19xx)(-)"
+	rom ( name "Games Compilation - Planet Patrol (19xx)(-).trd" size 655360 crc f5ff924f md5 dfcfddf1a69ef9f3ee38205336acd894 sha1 ff930c947c21d4d37874156524c3e412f5866394 )
+)
+
+game (
+	name "Games Compilation - Pole (1994)(Zyx)"
+	description "Games Compilation - Pole (1994)(Zyx)"
+	rom ( name "Games Compilation - Pole (1994)(Zyx).trd" size 655360 crc c4de75b5 md5 bfbcf44d8201c38c7c98a1b224682cbe sha1 bff0409fd09ea2b8ca29c754ae8dcaf777c437d9 )
+)
+
+game (
+	name "Games Compilation - Predator (1991)(Kordial)"
+	description "Games Compilation - Predator (1991)(Kordial)"
+	rom ( name "Games Compilation - Predator (1991)(Kordial).trd" size 655360 crc 2fac0bd7 md5 d531af6b16f086412538af16df323cbd sha1 7221596f2b2e5156a0ceca8d5111c66f34ba801f )
+)
+
+game (
+	name "Games Compilation - Prince of Persia (demo) (1994)(Zyx)"
+	description "Games Compilation - Prince of Persia (demo) (1994)(Zyx)"
+	rom ( name "Games Compilation - Prince of Persia (demo) (1994)(Zyx).trd" size 655360 crc de0eb1eb md5 cc0f34bed7b618e0d083b47a8db6a112 sha1 ccff7551eb57f2d0adca5f5d7bd00f52bf9239a7 )
+)
+
+game (
+	name "Games Compilation - Project Stealth Fighter (1994)(Magic Soft)"
+	description "Games Compilation - Project Stealth Fighter (1994)(Magic Soft)"
+	rom ( name "Games Compilation - Project Stealth Fighter (1994)(Magic Soft).trd" size 655360 crc 7cb5f049 md5 291dca441754bd7ce41d228b737f3cf8 sha1 9f2247dacb4e4ea1b341fc130a81575f00f25dc8 )
+)
+
+game (
+	name "Games Compilation - Project Stealth Fighter (1995)(Magic Soft)"
+	description "Games Compilation - Project Stealth Fighter (1995)(Magic Soft)"
+	rom ( name "Games Compilation - Project Stealth Fighter (1995)(Magic Soft).trd" size 655360 crc 0de3f31d md5 656df0098d4a1544233abe39903733ff sha1 f5a884e937359615b184aaa9694cf16167a92006 )
+)
+
+game (
+	name "Games Compilation - Quazatron (1994)(Zyx)"
+	description "Games Compilation - Quazatron (1994)(Zyx)"
+	rom ( name "Games Compilation - Quazatron (1994)(Zyx).trd" size 655360 crc a6495930 md5 e6647385238480f9622f797465c1253f sha1 7daa1fb2552612ade2b8784209bc099a770a8ea0 )
+)
+
+game (
+	name "Games Compilation - R-Type (1994)(Zyx)"
+	description "Games Compilation - R-Type (1994)(Zyx)"
+	rom ( name "Games Compilation - R-Type (1994)(Zyx).trd" size 655360 crc f32b4693 md5 be3403ab105492d31d8c30554a523d58 sha1 76d1cca243c630b106acd09c87adbb99c25741f1 )
+)
+
+game (
+	name "Games Compilation - Rainbow Islands - The Story of Bubble Bobble 2 (1994)(Zyx)"
+	description "Games Compilation - Rainbow Islands - The Story of Bubble Bobble 2 (1994)(Zyx)"
+	rom ( name "Games Compilation - Rainbow Islands - The Story of Bubble Bobble 2 (1994)(Zyx).trd" size 655360 crc 7070125a md5 8ebda851ee861e146bca251b1a9ec23c sha1 5ee3fb1ec0c77df17d202a193127238845923275 )
+)
+
+game (
+	name "Games Compilation - Red Heat (1994)(Zyx)"
+	description "Games Compilation - Red Heat (1994)(Zyx)"
+	rom ( name "Games Compilation - Red Heat (1994)(Zyx).trd" size 655360 crc 18232da1 md5 e39402b1ee4bbc80de0c0392cd29cd06 sha1 fe54f7312a327730b38f90416cacf0429c3a1dd2 )
+)
+
+game (
+	name "Games Compilation - Renegade III - The Final Chapter (19xx)(-)"
+	description "Games Compilation - Renegade III - The Final Chapter (19xx)(-)"
+	rom ( name "Games Compilation - Renegade III - The Final Chapter (19xx)(-).trd" size 655360 crc 6f9dcbb3 md5 41df87c599a6e10de7a09c745fe3bf64 sha1 12ec3c8ef6e12102cd65c6258155758ce60a0d85 )
+)
+
+game (
+	name "Games Compilation - Robin of Sherwood (1990)(GMR)"
+	description "Games Compilation - Robin of Sherwood (1990)(GMR)"
+	rom ( name "Games Compilation - Robin of Sherwood (1990)(GMR).trd" size 655360 crc d4692bee md5 88d2c473aaa0fd1534e1cdfe4edafedf sha1 9bdb3d2f86385cd3aae7074cfaf82ad210196c89 )
+)
+
+game (
+	name "Games Compilation - Robocop (1994)(Code Busters)"
+	description "Games Compilation - Robocop (1994)(Code Busters)"
+	rom ( name "Games Compilation - Robocop (1994)(Code Busters).trd" size 655360 crc f3a61b9a md5 8c45fafebe473f2ee555a3a7e693fb21 sha1 1f1dc14d9296192a1efcaef087a746f614acda8f )
+)
+
+game (
+	name "Games Compilation - Robocop (19xx)(-)"
+	description "Games Compilation - Robocop (19xx)(-)"
+	rom ( name "Games Compilation - Robocop (19xx)(-).trd" size 655360 crc 1de8d00b md5 c976fac2cbb7cf0e6b1bcaabc2e40920 sha1 16a1dd7318ee6fcae21a31aa8e160587b80638e5 )
+)
+
+game (
+	name "Games Compilation - Rocky Horrow Show (19xx)(-)"
+	description "Games Compilation - Rocky Horrow Show (19xx)(-)"
+	rom ( name "Games Compilation - Rocky Horrow Show (19xx)(-).trd" size 655360 crc 12a11d55 md5 946e179d12aefe0907ab7303f97879c2 sha1 d40b84ebe2ca86ee4ac112fab88bbf7dd0637394 )
+)
+
+game (
+	name "Games Compilation - Runes of Zendos (19xx)(-)"
+	description "Games Compilation - Runes of Zendos (19xx)(-)"
+	rom ( name "Games Compilation - Runes of Zendos (19xx)(-).trd" size 655360 crc 1fb93ee6 md5 a1dc62b90cc0280be51294ae2bed9085 sha1 64f8999879a7e8dc9559de8722c605e194fad610 )
+)
+
+game (
+	name "Games Compilation - Running Man (1994)(Zyx)"
+	description "Games Compilation - Running Man (1994)(Zyx)"
+	rom ( name "Games Compilation - Running Man (1994)(Zyx).trd" size 655360 crc b01a223f md5 e7a08dad13f08e09a467c6ae83efa352 sha1 c931e3c0864013a8f48a44fb06b7278ef3130d52 )
+)
+
+game (
+	name "Games Compilation - Saboteur II - Avenging Angel (1992)(PSW Soft)"
+	description "Games Compilation - Saboteur II - Avenging Angel (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Saboteur II - Avenging Angel (1992)(PSW Soft).trd" size 655360 crc 68f34c3c md5 0ff0f1595ac332e6ed5129df201cc8d7 sha1 ed45a17ce66c834b1fc82e906ba243a51bceeb2c )
+)
+
+game (
+	name "Games Compilation - Samantha Fox Strip Poker (1994)(Zyx)"
+	description "Games Compilation - Samantha Fox Strip Poker (1994)(Zyx)"
+	rom ( name "Games Compilation - Samantha Fox Strip Poker (1994)(Zyx).trd" size 655360 crc 1ba5e4dc md5 cbdac338e445939acfb7bf24d57f9d45 sha1 17902acdced465dd2d02d7bc6a36e28010a86b8c )
+)
+
+game (
+	name "Games Compilation - Samurai Trilogy (1991)(Kordial)"
+	description "Games Compilation - Samurai Trilogy (1991)(Kordial)"
+	rom ( name "Games Compilation - Samurai Trilogy (1991)(Kordial).trd" size 655360 crc 91a6574f md5 79a4edb12cf9e99759ca38a1078531fd sha1 ff73a9822f3fd4873ad07e6478850870e6bea618 )
+)
+
+game (
+	name "Games Compilation - Sex Simulator II (1994)(Zyx)"
+	description "Games Compilation - Sex Simulator II (1994)(Zyx)"
+	rom ( name "Games Compilation - Sex Simulator II (1994)(Zyx).trd" size 655360 crc 0c22b30d md5 caee42c222f73aef561e9a4689eb10d7 sha1 b7ad67eb36bfd7867b3df54b8b7342c64f190823 )
+)
+
+game (
+	name "Games Compilation - Sextris (19xx)(Megacode Hackers Group)"
+	description "Games Compilation - Sextris (19xx)(Megacode Hackers Group)"
+	rom ( name "Games Compilation - Sextris (19xx)(Megacode Hackers Group).trd" size 655360 crc 6aebecfd md5 9b2203d434bb14b353cac9a25db52bbe sha1 d1e92e01fd1f3c1e446ef1de4b85016b4571742a )
+)
+
+game (
+	name "Games Compilation - Shadow of the Beast (1994)(Zyx)"
+	description "Games Compilation - Shadow of the Beast (1994)(Zyx)"
+	rom ( name "Games Compilation - Shadow of the Beast (1994)(Zyx).trd" size 655360 crc 4d5b4d4a md5 6a09b82e16cf0339cc8106f60df41ac0 sha1 6436b60a98b9d835dceb5979ffb290e0ab1c1f2c )
+)
+
+game (
+	name "Games Compilation - Shockway Rider (1994)(Zyx)"
+	description "Games Compilation - Shockway Rider (1994)(Zyx)"
+	rom ( name "Games Compilation - Shockway Rider (1994)(Zyx).trd" size 655360 crc bc74a276 md5 bb3e51637898101ed285011bbe7f9f94 sha1 d7615fa73422ad1bd4ec77310ffb50c81dc49af0 )
+)
+
+game (
+	name "Games Compilation - Shockway Rider (19xx)(-)"
+	description "Games Compilation - Shockway Rider (19xx)(-)"
+	rom ( name "Games Compilation - Shockway Rider (19xx)(-).trd" size 655360 crc 39179d57 md5 c1e37d8346da92d42bc2e8c15ca120e4 sha1 c495dc81d8f1d29f24813d030e3a3c5b06e5a135 )
+)
+
+game (
+	name "Games Compilation - Shoot Out (1994)(Code Busters)"
+	description "Games Compilation - Shoot Out (1994)(Code Busters)"
+	rom ( name "Games Compilation - Shoot Out (1994)(Code Busters).trd" size 655360 crc 21ea8cc2 md5 32e59729950d3fb5d15c6e5455f08413 sha1 b6d923422754a18852275c6e036be6d117d0b56f )
+)
+
+game (
+	name "Games Compilation - Shoot Out (1994)(Code Busters)[a]"
+	description "Games Compilation - Shoot Out (1994)(Code Busters)[a]"
+	rom ( name "Games Compilation - Shoot Out (1994)(Code Busters)[a].trd" size 655360 crc 2ab107fe md5 a39895cca1dd503f12892804e9907c59 sha1 c9118804002f0e57a35fe191f835b6926e46a4d2 )
+)
+
+game (
+	name "Games Compilation - Sim City (19xx)(-)"
+	description "Games Compilation - Sim City (19xx)(-)"
+	rom ( name "Games Compilation - Sim City (19xx)(-).trd" size 655360 crc 4b5c21ef md5 0a507d5f9de31259cd768f90e164228c sha1 291a8d401e340e4eaba85d7503e41abcb5f8d3cc )
+)
+
+game (
+	name "Games Compilation - Simpsons - Bart vs the Space Mutants (19xx)(Destroy Soft)"
+	description "Games Compilation - Simpsons - Bart vs the Space Mutants (19xx)(Destroy Soft)"
+	rom ( name "Games Compilation - Simpsons - Bart vs the Space Mutants (19xx)(Destroy Soft).trd" size 655360 crc 21c5b0db md5 a5ebea814fcf3338c11f56bcf0b23850 sha1 10510219231a58a2613930ecb587ea2a728c3268 )
+)
+
+game (
+	name "Games Compilation - Sinclair User Photo Album - The Game (19xx)(-)"
+	description "Games Compilation - Sinclair User Photo Album - The Game (19xx)(-)"
+	rom ( name "Games Compilation - Sinclair User Photo Album - The Game (19xx)(-).trd" size 655360 crc 804b2eec md5 d24d4e5344aa197ad8c5fb1551728fe2 sha1 689778935dbbb433c5d0eb1b174de479855683a4 )
+)
+
+game (
+	name "Games Compilation - Slab Age (1995)(Softstar)"
+	description "Games Compilation - Slab Age (1995)(Softstar)"
+	rom ( name "Games Compilation - Slab Age (1995)(Softstar).trd" size 655360 crc 5a6347f0 md5 6af8326cd298ce3f581e3ab5dacef11a sha1 e98d24ea1e814391752c4444ac589bf281ef280e )
+)
+
+game (
+	name "Games Compilation - Space Crusade (1990)(MOA Service)"
+	description "Games Compilation - Space Crusade (1990)(MOA Service)"
+	rom ( name "Games Compilation - Space Crusade (1990)(MOA Service).trd" size 655360 crc 7a5e9067 md5 33e32b03656816234e2568c5da525582 sha1 d6e9af71a81a0786328dde853ed7279b77eec540 )
+)
+
+game (
+	name "Games Compilation - Spectrum News 1 (1995)(Softstar)"
+	description "Games Compilation - Spectrum News 1 (1995)(Softstar)"
+	rom ( name "Games Compilation - Spectrum News 1 (1995)(Softstar).trd" size 655360 crc 321dc510 md5 ae6c1516ce17f08ffd62be6844a27dfc sha1 866c1e6c6682184003ad8fe17bd4a5e75e7f819b )
+)
+
+game (
+	name "Games Compilation - Spitfire '40 (1994)(Code Busters)"
+	description "Games Compilation - Spitfire '40 (1994)(Code Busters)"
+	rom ( name "Games Compilation - Spitfire '40 (1994)(Code Busters).trd" size 655360 crc b37e0b77 md5 b6862a4ee68c567b3e85892fe76d5731 sha1 ac4932dfec105ec78b4332ffd6354e5067f139f1 )
+)
+
+game (
+	name "Games Compilation - Spy Hunter (1994)(Zyx)"
+	description "Games Compilation - Spy Hunter (1994)(Zyx)"
+	rom ( name "Games Compilation - Spy Hunter (1994)(Zyx).trd" size 655360 crc 9d11d9f3 md5 2f4c8030dad59ab1cbdd16fc9a07d87a sha1 bbc3c0b266e8d09bf740ae4195a270b7d852c32d )
+)
+
+game (
+	name "Games Compilation - Starglider (1994)(Magic Soft)"
+	description "Games Compilation - Starglider (1994)(Magic Soft)"
+	rom ( name "Games Compilation - Starglider (1994)(Magic Soft).trd" size 655360 crc a44c618e md5 8c65c8294e8745a829e2c0c39e4f2d74 sha1 cd0c3bb51f0640dfa8a94b22e0324aaead550f32 )
+)
+
+game (
+	name "Games Compilation - Stormlord (1994)(Zyx)"
+	description "Games Compilation - Stormlord (1994)(Zyx)"
+	rom ( name "Games Compilation - Stormlord (1994)(Zyx).trd" size 655360 crc c2c77280 md5 677cfe07a1259d4e25e07dd0826c09cd sha1 bd78805f641773e7efa1c8a33abf701122ffddb3 )
+)
+
+game (
+	name "Games Compilation - Strike Force Cobra (1995)(Softstar)"
+	description "Games Compilation - Strike Force Cobra (1995)(Softstar)"
+	rom ( name "Games Compilation - Strike Force Cobra (1995)(Softstar).trd" size 655360 crc 87632307 md5 833f05005788cd3aaaf55b00f434d5fb sha1 696463084061d91e646dbd4343a9ebd0269b7c91 )
+)
+
+game (
+	name "Games Compilation - Strike Force Harrier (19xx)(Lion 17)"
+	description "Games Compilation - Strike Force Harrier (19xx)(Lion 17)"
+	rom ( name "Games Compilation - Strike Force Harrier (19xx)(Lion 17).trd" size 655360 crc 6fee56b1 md5 6e1bd101e95e735d09ff3c0ea29e087a sha1 bbe4e555833ec51dac22b3cdcc3c1da831dc4129 )
+)
+
+game (
+	name "Games Compilation - Summer Games (19xx)(Recly Company)"
+	description "Games Compilation - Summer Games (19xx)(Recly Company)"
+	rom ( name "Games Compilation - Summer Games (19xx)(Recly Company).trd" size 655360 crc c3431adf md5 8a5289ec687fb58d663c783eef876c8f sha1 25e11483477928769658a9bcde8c31eb4fb993f8 )
+)
+
+game (
+	name "Games Compilation - Super Hang-On (1995)(Softstar)"
+	description "Games Compilation - Super Hang-On (1995)(Softstar)"
+	rom ( name "Games Compilation - Super Hang-On (1995)(Softstar).trd" size 655360 crc c68e34b4 md5 edaef2cc024555534d46593dafde7ad4 sha1 95bfd822e5c109087130355e27837b805fd71fb1 )
+)
+
+game (
+	name "Games Compilation - Super Prezident (19xx)(-)"
+	description "Games Compilation - Super Prezident (19xx)(-)"
+	rom ( name "Games Compilation - Super Prezident (19xx)(-).trd" size 655360 crc 9d65f386 md5 c92ede7943a389b7e8974496ed2f8f9c sha1 89eb7d4b805b0e5735c9b0f5c0a584e42708c6e8 )
+)
+
+game (
+	name "Games Compilation - Sword Slayer (1992)(DJS)"
+	description "Games Compilation - Sword Slayer (1992)(DJS)"
+	rom ( name "Games Compilation - Sword Slayer (1992)(DJS).trd" size 655360 crc 45546618 md5 1479e2022fb2fbeed75311583ef1c2bf sha1 17b57d06780340028ae2b910d0572e04c771126d )
+)
+
+game (
+	name "Games Compilation - Sword Slayer (1992)(DJS)[a]"
+	description "Games Compilation - Sword Slayer (1992)(DJS)[a]"
+	rom ( name "Games Compilation - Sword Slayer (1992)(DJS)[a].trd" size 655360 crc eef20ffb md5 69347dfd68633ec80c6a8a292e27b831 sha1 7078b69567c0c0f26631f1394398081cc8b24e77 )
+)
+
+game (
+	name "Games Compilation - Tank (1994)(Zyx)"
+	description "Games Compilation - Tank (1994)(Zyx)"
+	rom ( name "Games Compilation - Tank (1994)(Zyx).trd" size 655360 crc 49a64f7d md5 45e922e3da95dfe5c2eaf89e50f0355b sha1 4b2213d0907b63ed06d9d4b5030df40dea706912 )
+)
+
+game (
+	name "Games Compilation - Tank (19xx)(-)"
+	description "Games Compilation - Tank (19xx)(-)"
+	rom ( name "Games Compilation - Tank (19xx)(-).trd" size 655360 crc f3146f86 md5 ada5e8a1486c98035f99bbf71737523e sha1 309ba9ea690155d866a2b1ae30b656af25733004 )
+)
+
+game (
+	name "Games Compilation - Terrormolinos (19xx)(-)"
+	description "Games Compilation - Terrormolinos (19xx)(-)"
+	rom ( name "Games Compilation - Terrormolinos (19xx)(-).trd" size 655360 crc 330cb44b md5 958b1c38f49a6b9d6c3b2bc4102a41ee sha1 1e08f1bd4a0480883ec346074b1d34d2c4ecca05 )
+)
+
+game (
+	name "Games Compilation - The Curse of Sherwood (1992)(PSW Soft)"
+	description "Games Compilation - The Curse of Sherwood (1992)(PSW Soft)"
+	rom ( name "Games Compilation - The Curse of Sherwood (1992)(PSW Soft).trd" size 655360 crc d34fe27d md5 9fadb0129178758f40742cdaaccb61ac sha1 3b723397d1adf14fec1167d0e3b2358f1b809de5 )
+)
+
+game (
+	name "Games Compilation - The Curse of Sherwood (1995)(Softstar)"
+	description "Games Compilation - The Curse of Sherwood (1995)(Softstar)"
+	rom ( name "Games Compilation - The Curse of Sherwood (1995)(Softstar).trd" size 655360 crc 8e7885c3 md5 ebc8f0e0ac13a78ec01a533b764a71af sha1 bba9a5841d25b061ff611a78844c646f8487e9e8 )
+)
+
+game (
+	name "Games Compilation - The Deep (1994)(Code Busters)"
+	description "Games Compilation - The Deep (1994)(Code Busters)"
+	rom ( name "Games Compilation - The Deep (1994)(Code Busters).trd" size 655360 crc 11c872e3 md5 ab89b415a3443b2f6fdec36e828786e6 sha1 77ebb7ae4db856ffc8c2773699b6a7074318e8bd )
+)
+
+game (
+	name "Games Compilation - The Hobbit Collection (1995)(SIV Blader)"
+	description "Games Compilation - The Hobbit Collection (1995)(SIV Blader)"
+	rom ( name "Games Compilation - The Hobbit Collection (1995)(SIV Blader).trd" size 655360 crc 433e82ed md5 d9c7a45949c3f7767ea27dd7585cc88c sha1 16f13903e1f145af386a83e9d7cfe275cf65a6fa )
+)
+
+game (
+	name "Games Compilation - The Jetsons (19xx)(Cobra)"
+	description "Games Compilation - The Jetsons (19xx)(Cobra)"
+	rom ( name "Games Compilation - The Jetsons (19xx)(Cobra).trd" size 655360 crc 701cda21 md5 e0b31a52a8994299d71f57c2f797bdbc sha1 f4e4765d6934becaaf196ca1c395f4a7a4f243c1 )
+)
+
+game (
+	name "Games Compilation - The Main Blow (19xx)(Inforcom)"
+	description "Games Compilation - The Main Blow (19xx)(Inforcom)"
+	rom ( name "Games Compilation - The Main Blow (19xx)(Inforcom).trd" size 655360 crc cb21b937 md5 01b81f5e913de9c916ab5fad3aa1df3b sha1 0ed34a1de592cc42c12a5449c95a21e1c81843bf )
+)
+
+game (
+	name "Games Compilation - The New Zealand Story (1995)(Softstar)"
+	description "Games Compilation - The New Zealand Story (1995)(Softstar)"
+	rom ( name "Games Compilation - The New Zealand Story (1995)(Softstar).trd" size 655360 crc 50db82ea md5 e0a221706c096bd80748fc60b798fe06 sha1 8c537ad99313a3bf84e725c86e58160eb65da9eb )
+)
+
+game (
+	name "Games Compilation - The Real Ghostbusters (1992)(PSW Soft)"
+	description "Games Compilation - The Real Ghostbusters (1992)(PSW Soft)"
+	rom ( name "Games Compilation - The Real Ghostbusters (1992)(PSW Soft).trd" size 655360 crc 8f0024d9 md5 c70394f142c5f3ffef6ada52fa5a817a sha1 94da1cab40a243238862907df45408cbd435ef9a )
+)
+
+game (
+	name "Games Compilation - The Train - Escape to Normandy (19xx)(-)"
+	description "Games Compilation - The Train - Escape to Normandy (19xx)(-)"
+	rom ( name "Games Compilation - The Train - Escape to Normandy (19xx)(-).trd" size 655360 crc e969d47f md5 6db6f70f481fdc9492f9b1a34f79597f sha1 9bed28e9f271d8c3d619d3d03d32ace8117355c6 )
+)
+
+game (
+	name "Games Compilation - The Untouchables (19xx)(-)"
+	description "Games Compilation - The Untouchables (19xx)(-)"
+	rom ( name "Games Compilation - The Untouchables (19xx)(-).trd" size 655360 crc 99f63c73 md5 ad76a5e78f2ab6cc1340fc0c87dec2da sha1 b238c3c6a9d5b80c0b2621abfe6065ed51ccb054 )
+)
+
+game (
+	name "Games Compilation - Thor (1992)(PSW Soft)"
+	description "Games Compilation - Thor (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Thor (1992)(PSW Soft).trd" size 655360 crc 475af5d9 md5 76e1d9bc99b349a9da4d8c3ae6a08da9 sha1 bb51865510b0c90e0e19f2518a6ec9b5a298ceb4 )
+)
+
+game (
+	name "Games Compilation - Time Cop (19xx)(-)"
+	description "Games Compilation - Time Cop (19xx)(-)"
+	rom ( name "Games Compilation - Time Cop (19xx)(-).trd" size 655360 crc d4343495 md5 affeb50f8c50f5c1e056237a5c6c0ea9 sha1 2afba3ef8a02b85a7506ea91cdd4d0a102837db4 )
+)
+
+game (
+	name "Games Compilation - Trubis (19xx)(Inforcom)"
+	description "Games Compilation - Trubis (19xx)(Inforcom)"
+	rom ( name "Games Compilation - Trubis (19xx)(Inforcom).trd" size 655360 crc 61a3bd99 md5 c6441efee29341e2b64cf73e0cfef2fa sha1 7260fe6f446e33cedc58c7cc2bcfefb72a8ecef9 )
+)
+
+game (
+	name "Games Compilation - Twilight (19xx)(Prestige)"
+	description "Games Compilation - Twilight (19xx)(Prestige)"
+	rom ( name "Games Compilation - Twilight (19xx)(Prestige).trd" size 655360 crc 5b88902f md5 365431b7a4aa6f966889d567be88afca sha1 7b26359d5483d4e0f27d442ac692d6441a034243 )
+)
+
+game (
+	name "Games Compilation - Twin World (1994)(Code Busters)"
+	description "Games Compilation - Twin World (1994)(Code Busters)"
+	rom ( name "Games Compilation - Twin World (1994)(Code Busters).trd" size 655360 crc efaf3936 md5 f60d22731ca1e5036f8802aa04b4f7ec sha1 334e00c1a7af281547feebdfb1b78a2b18b71509 )
+)
+
+game (
+	name "Games Compilation - Two Gun Turtle (19xx)(-)"
+	description "Games Compilation - Two Gun Turtle (19xx)(-)"
+	rom ( name "Games Compilation - Two Gun Turtle (19xx)(-).trd" size 655360 crc 13b71a62 md5 c838cc93555e0268731db11ac367d81e sha1 9c2573732ec5a0d0d48c23e321e411a889e9080f )
+)
+
+game (
+	name "Games Compilation - UFO - Enemy Unknown v1.5 (19xx)(Cobra)"
+	description "Games Compilation - UFO - Enemy Unknown v1.5 (19xx)(Cobra)"
+	rom ( name "Games Compilation - UFO - Enemy Unknown v1.5 (19xx)(Cobra).trd" size 655360 crc 179404a8 md5 36623da37ec8911cbebc192520ff66f0 sha1 6ef4c295b9b2fd887915e725d8b6e778f2ed98de )
+)
+
+game (
+	name "Games Compilation - Ultimate Combat Mission (19xx)(Prestige)"
+	description "Games Compilation - Ultimate Combat Mission (19xx)(Prestige)"
+	rom ( name "Games Compilation - Ultimate Combat Mission (19xx)(Prestige).trd" size 655360 crc 0cdb72e3 md5 4b6e6a6179dc04575073f4bef216e17c sha1 d5f416b2a3e709b1ac167da6ca41d9e758ef8b11 )
+)
+
+game (
+	name "Games Compilation - Vigilante (1992)(PSW Soft)"
+	description "Games Compilation - Vigilante (1992)(PSW Soft)"
+	rom ( name "Games Compilation - Vigilante (1992)(PSW Soft).trd" size 655360 crc 9d42f7e1 md5 407f36f97da9101fb8c8881f82fb354b sha1 11d4198504cd0e64e9d4384dc9015958c25d2f38 )
+)
+
+game (
+	name "Games Compilation - Vinny Puh (19xx)(-)"
+	description "Games Compilation - Vinny Puh (19xx)(-)"
+	rom ( name "Games Compilation - Vinny Puh (19xx)(-).trd" size 655360 crc 23f30049 md5 bc88c107eca811b1a0b6f211f1d6e0eb sha1 ef1d9f4252e043157f93465e48dec1663283efa0 )
+)
+
+game (
+	name "Games Compilation - Virgin Atlantic Challenge (1994)(Zyx)"
+	description "Games Compilation - Virgin Atlantic Challenge (1994)(Zyx)"
+	rom ( name "Games Compilation - Virgin Atlantic Challenge (1994)(Zyx).trd" size 655360 crc f6fcfb25 md5 a0ee09b7da17b6c3adac0023161114fc sha1 55f3e0802f3099b24bf0c9a55f6b0d75ddbb6a33 )
+)
+
+game (
+	name "Games Compilation - War Cars Construction Set (1994)(Zyx)"
+	description "Games Compilation - War Cars Construction Set (1994)(Zyx)"
+	rom ( name "Games Compilation - War Cars Construction Set (1994)(Zyx).trd" size 655360 crc a589c909 md5 312bb732d0b0ef1da5ac5ab84b1b19e5 sha1 ffbd2c96c1862085aa002a0ed9f6eecbe2bc6426 )
+)
+
+game (
+	name "Games Compilation - WEC Le Mans (19xx)(Sergey Krutyko)"
+	description "Games Compilation - WEC Le Mans (19xx)(Sergey Krutyko)"
+	rom ( name "Games Compilation - WEC Le Mans (19xx)(Sergey Krutyko).trd" size 655360 crc 576b8043 md5 f24fecf4bc5d9f3ff8c6f2167a22806a sha1 7433777a1a82c39f994cd08b4e33ba324c68d0cc )
+)
+
+game (
+	name "Games Compilation - WWF Wrestle Mania (1994)(Code Busters)"
+	description "Games Compilation - WWF Wrestle Mania (1994)(Code Busters)"
+	rom ( name "Games Compilation - WWF Wrestle Mania (1994)(Code Busters).trd" size 655360 crc 7b0af6f1 md5 0e417ca869bc7798a68d259b3b0fd0b4 sha1 615c34d105021e61ffb91bf88012751be3eae5d4 )
+)
+
+game (
+	name "Games Compilation - Xeno (1994)(Code Busters)"
+	description "Games Compilation - Xeno (1994)(Code Busters)"
+	rom ( name "Games Compilation - Xeno (1994)(Code Busters).trd" size 655360 crc dfb49a82 md5 be4c3c080ff1c9249d210af93141310f sha1 9925d785acb733debfc55f0b02775f1aab289a0b )
+)
+
+game (
+	name "Games Compilation - Zzzzz (19xx)(Recly Company)"
+	description "Games Compilation - Zzzzz (19xx)(Recly Company)"
+	rom ( name "Games Compilation - Zzzzz (19xx)(Recly Company).trd" size 655360 crc 9fb25fc5 md5 e58b2da9534a8357c956543fefac3212 sha1 48aa707baf7e21d97aa9f7fff43844451c1aee93 )
+)
+
+game (
+	name "Logic Games Collection (1995)(V. Minevsky)(ru)"
+	description "Logic Games Collection (1995)(V. Minevsky)(ru)"
+	rom ( name "Logic Games Collection (1995)(V. Minevsky)(ru).trd" size 423168 crc ae00983a md5 e746b1a16f0f78155464bf2469ccf4d7 sha1 d35c9a896d93cdabb196a6e968e3fb0c5bf88838 )
+)
+
+game (
+	name "Playgear Software Collection (19xx)(-)"
+	description "Playgear Software Collection (19xx)(-)"
+	rom ( name "Playgear Software Collection (19xx)(-).trd" size 655360 crc be37f636 md5 23f6144393153044d9b0d814dcf0d160 sha1 49f39eac8d21765859d7622e0767c9c2f968a9cb )
+)
+
+game (
+	name "Project X + Cybereal (demo) (1998)(Laser Dreams)"
+	description "Project X + Cybereal (demo) (1998)(Laser Dreams)"
+	rom ( name "Project X + Cybereal (demo) (1998)(Laser Dreams).trd" size 81152 crc 986219c6 md5 ee37ab99c617a427b1bc2678f82c0ada sha1 2eb0b32db5197363115dfe1ea7e482d5324881a6 )
+)
+
+game (
+	name "Smagly 1+2+3 - Kill'em All! (2000)(CryptoGraphics)(ru)"
+	description "Smagly 1+2+3 - Kill'em All! (2000)(CryptoGraphics)(ru)"
+	rom ( name "Smagly 1+2+3 - Kill'em All! (2000)(CryptoGraphics)(ru).trd" size 655360 crc 2c6e2322 md5 e976ac080cf28d4a62d39377ad901119 sha1 a72ff337fc5382b63e25d8c97ddde23c2e75bfb0 )
+)
+
+game (
+	name "Snake + Supaplex (1999)(X-Project Association - ZX Power)(ru)"
+	description "Snake + Supaplex (1999)(X-Project Association - ZX Power)(ru)"
+	rom ( name "Snake + Supaplex (1999)(X-Project Association - ZX Power)(ru).trd" size 492544 crc ea3019b2 md5 82daa5911f0c7c965131e7837cbcb010 sha1 6a07ee9b31de57e67e0662f284f622fce771bf26 )
+)
+

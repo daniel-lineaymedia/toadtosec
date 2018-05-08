@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Sharp X1 Turbo - Firmware"
+	description "Sharp X1 Turbo - Firmware (TOSEC-v2006-04-22)"
+	category "Sharp X1 Turbo - Firmware"
+	version 2006-04-22
+	author "Cassiel"
+)
+
+game (
+	name "Sharp X1 Turbo Font ROM (19xx)(-)"
+	description "Sharp X1 Turbo Font ROM (19xx)(-)"
+	rom ( name "Sharp X1 Turbo Font ROM (19xx)(-).bin" size 2048 crc 84a47530 md5 bb6100cae865e43688dd9d1ca5537091 )
+)
+
+game (
+	name "Sharp X1 Turbo IPL ROM (19xx)(-)"
+	description "Sharp X1 Turbo IPL ROM (19xx)(-)"
+	rom ( name "Sharp X1 Turbo IPL ROM (19xx)(-).bin" size 32768 crc 2e8b767c md5 56c28adcf1f3a2f87cf3d57c378013f5 )
+)

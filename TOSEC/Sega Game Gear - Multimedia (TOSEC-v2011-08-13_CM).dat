@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Sega Game Gear - Multimedia"
+	description "Sega Game Gear - Multimedia (TOSEC-v2011-08-13)"
+	category "Sega Game Gear - Multimedia"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "GG Portrait - Pai Chen (1996)(Sega)(JP)"
+	description "GG Portrait - Pai Chen (1996)(Sega)(JP)"
+	rom ( name "GG Portrait - Pai Chen (1996)(Sega)(JP).bin" size 524288 crc 695cc120 md5 3dbd51ce27c7eeee98aaeccdb96affb6 sha1 cf752897523814951401994c95de299cd42fdb50 )
+)
+
+game (
+	name "GG Portrait - Yuuki Akira (1996)(Sega)(JP)"
+	description "GG Portrait - Yuuki Akira (1996)(Sega)(JP)"
+	rom ( name "GG Portrait - Yuuki Akira (1996)(Sega)(JP).bin" size 524288 crc 51159f8f md5 82d3c23cf9617174aa47bed8e76438df sha1 4cbb453663665a06e986a6ab015a041463b48373 )
+)
+

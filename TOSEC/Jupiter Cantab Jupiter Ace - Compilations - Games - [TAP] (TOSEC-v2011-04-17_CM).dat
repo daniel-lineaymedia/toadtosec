@@ -1,0 +1,181 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP] (TOSEC-v2011-04-17)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Games - [TAP]"
+	version 2011-04-17
+	author "TKaos"
+)
+
+game (
+	name "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side A)[champs de mines][3K]"
+	description "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side A)[champs de mines][3K]"
+	rom ( name "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side A)[champs de mines][3K].tap" size 1009 crc 4bb3e7d8 md5 4a502ebec6b71e2a8c8e956504ed577e )
+)
+
+game (
+	name "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side B)[casse briques][3K]"
+	description "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side B)[casse briques][3K]"
+	rom ( name "Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side B)[casse briques][3K].tap" size 1706 crc 1e184506 md5 f8f44cf85e118972102f9e9720b460d8 )
+)
+
+game (
+	name "Dessin + Cargen (1983)(ERE)(FR)(Side A)[dessin][3K]"
+	description "Dessin + Cargen (1983)(ERE)(FR)(Side A)[dessin][3K]"
+	rom ( name "Dessin + Cargen (1983)(ERE)(FR)(Side A)[dessin][3K].tap" size 796 crc ae7a3ee1 md5 6cfa8004a7106695dbeb69dc5705dd1c )
+)
+
+game (
+	name "Dessin + Cargen (1983)(ERE)(FR)(Side B)[cargen][3K]"
+	description "Dessin + Cargen (1983)(ERE)(FR)(Side B)[cargen][3K]"
+	rom ( name "Dessin + Cargen (1983)(ERE)(FR)(Side B)[cargen][3K].tap" size 807 crc 87bd3a13 md5 b19e00c72291760059bb3458d026d388 )
+)
+
+game (
+	name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]"
+	description "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]"
+	rom ( name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K].tap" size 1053 crc ad4da76f md5 cbd23d3ff060e3ec39b524070c2fc85c )
+)
+
+game (
+	name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]"
+	description "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]"
+	rom ( name "Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K].tap" size 1012 crc eb6e3931 md5 36b2e7704abd35efeef8c81b98edb4c0 )
+)
+
+game (
+	name "Five Compact Games (1983)(Remsoft)(GB)[3K]"
+	description "Five Compact Games (1983)(Remsoft)(GB)[3K]"
+	rom ( name "Five Compact Games (1983)(Remsoft)(GB)[3K].tap" size 7775 crc 1a3907b0 md5 4eb99171f993c6559558b07270677a25 )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K].tap" size 1089 crc da6c588b md5 039f2705d7248a73f42b42acf1fac058 )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K].tap" size 872 crc 7556a88e md5 f52bf3deb0fa1da54f1901db9d7b44cf )
+)
+
+game (
+	name "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]"
+	description "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]"
+	rom ( name "Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K].tap" size 1563 crc c1d26d3c md5 718fa4e0861418dfb95ba4b1e6a6c384 )
+)
+
+game (
+	name "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]"
+	description "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]"
+	rom ( name "Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K].tap" size 1320 crc a97802b9 md5 84385b327273e4c93779265006ed82f3 )
+)
+
+game (
+	name "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]"
+	description "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]"
+	rom ( name "Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K].tap" size 1979 crc 80b93e84 md5 2b19e93861c7b11ebd5c6672d3743d38 )
+)
+
+game (
+	name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]"
+	description "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]"
+	rom ( name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K].tap" size 1632 crc fa1cd2dd md5 dffb6c949d0da1538360927874508a17 )
+)
+
+game (
+	name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]"
+	description "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]"
+	rom ( name "Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K].tap" size 855 crc 5c1d617c md5 b0521879a1c4395ec75e6a1c78b76297 )
+)
+
+game (
+	name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]"
+	description "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]"
+	rom ( name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K].tap" size 855 crc eee45ab4 md5 4daf05e682297fdb57a479f5bf06fed7 )
+)
+
+game (
+	name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]"
+	description "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]"
+	rom ( name "Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K].tap" size 1612 crc 6ec4cd1b md5 d4b9d7b7f4fca89332eb2971c74c8f5c )
+)
+
+game (
+	name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]"
+	description "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]"
+	rom ( name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K].tap" size 867 crc 4e89bbf3 md5 4be86501da3a68caa866139ad30d252e )
+)
+
+game (
+	name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]"
+	description "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]"
+	rom ( name "Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K].tap" size 1113 crc 3403a247 md5 31fd9b09b7bec67e3318c8367530116f )
+)
+
+game (
+	name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]"
+	description "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]"
+	rom ( name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k].tap" size 896 crc 0734cac9 md5 ba5de0045c3e970007df72c3bc24868a )
+)
+
+game (
+	name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]"
+	description "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]"
+	rom ( name "Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k].tap" size 897 crc 0cc21258 md5 db5a8a16a991640083d84059c185daed )
+)
+
+game (
+	name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]"
+	description "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]"
+	rom ( name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K].tap" size 1686 crc 594132c8 md5 bd19c8e018bee6f7fa20c0dff7abb512 )
+)
+
+game (
+	name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]"
+	description "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]"
+	rom ( name "Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K].tap" size 1693 crc f78a48f9 md5 50c6333dc70e97ce411bf7cda172d8ae )
+)
+
+game (
+	name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]"
+	description "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]"
+	rom ( name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K].tap" size 5909 crc 691e427f md5 dbe64edca75084a4e65ab5fc3f002efb )
+)
+
+game (
+	name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]"
+	description "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]"
+	rom ( name "Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K].tap" size 1575 crc de48091a md5 d5188c49dd4ac1453692fdf61bd19908 )
+)
+
+game (
+	name "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]"
+	description "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]"
+	rom ( name "Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K].tap" size 16538 crc 0b0da908 md5 906d7cb06593181c12c14351ff7d6b42 )
+)
+
+game (
+	name "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]"
+	description "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]"
+	rom ( name "Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K].tap" size 3692 crc abde8634 md5 e5c3d047c62f723ffe01ac3ab7c0fc68 )
+)
+
+game (
+	name "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]"
+	description "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]"
+	rom ( name "Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K].tap" size 801 crc ab09efb0 md5 8f23b12543bc490f2995731aae4bc168 )
+)
+
+game (
+	name "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]"
+	description "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]"
+	rom ( name "Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K].tap" size 887 crc 7d01c879 md5 4e94b9876bfa76faa4c2aeb0c166c836 )
+)
+
+game (
+	name "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]"
+	description "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]"
+	rom ( name "Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K].tap" size 12855 crc fb1ed671 md5 c337c5a068ce341f1cbd94b9f563e3a5 )
+)

@@ -1,0 +1,1075 @@
+clrmamepro (
+	name "Apple IIGS - Educational"
+	description "Apple IIGS - Educational (TOSEC-v2011-03-26)"
+	category "Apple IIGS - Educational"
+	version 2011-03-26
+	author "TKaos"
+)
+
+game (
+	name "Adventures of Sinbad (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Adventures of Sinbad (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Adventures of Sinbad (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc f17b9f38 md5 c00bb65c6a42024fab611c01b3442037 )
+)
+
+game (
+	name "Adventures of Sinbad (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Adventures of Sinbad (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Adventures of Sinbad (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc db032980 md5 2fa95209bbb11605a481e9e7fd8b7737 )
+)
+
+game (
+	name "Aesop's Fables (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Aesop's Fables (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Aesop's Fables (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc 45bde0a4 md5 d7806636ac8c69644098d5bc878924a4 )
+)
+
+game (
+	name "Aesop's Fables (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Aesop's Fables (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Aesop's Fables (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc 37c77c85 md5 9d25294e63a8fdd3a977690d86ce3260 )
+)
+
+game (
+	name "All About America (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "All About America (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "All About America (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc fe6caad4 md5 5105dc5fbffb4bd786b4ae2661f33698 )
+)
+
+game (
+	name "All About America (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "All About America (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "All About America (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc dbc50936 md5 3a5743c93c5b30d345b97bd711446ff1 )
+)
+
+game (
+	name "Animal Kingdom (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Animal Kingdom (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Animal Kingdom (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc fbe79519 md5 1547f1aab7ed127894ba1d720e454da1 )
+)
+
+game (
+	name "Animal Kingdom (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Animal Kingdom (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Animal Kingdom (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc efbc1c99 md5 22fab8b62d775073b1c4d141e3c106c9 )
+)
+
+game (
+	name "Animal Tracker (1988)(Nature Boy Software)(Disk 1 of 4)(Orange)"
+	description "Animal Tracker (1988)(Nature Boy Software)(Disk 1 of 4)(Orange)"
+	rom ( name "Animal Tracker (1988)(Nature Boy Software)(Disk 1 of 4)(Orange).2mg" size 819264 crc fe01b486 md5 27723d95aa4f01815077a8cb2c35a17b )
+)
+
+game (
+	name "Animal Tracker (1988)(Nature Boy Software)(Disk 2 of 4)(Red)"
+	description "Animal Tracker (1988)(Nature Boy Software)(Disk 2 of 4)(Red)"
+	rom ( name "Animal Tracker (1988)(Nature Boy Software)(Disk 2 of 4)(Red).2mg" size 819264 crc 1210d6fe md5 4d450cb86926dced68072f329f0fa10a )
+)
+
+game (
+	name "Animal Tracker (1988)(Nature Boy Software)(Disk 3 of 4)(Blue)"
+	description "Animal Tracker (1988)(Nature Boy Software)(Disk 3 of 4)(Blue)"
+	rom ( name "Animal Tracker (1988)(Nature Boy Software)(Disk 3 of 4)(Blue).2mg" size 819264 crc 477843a6 md5 8023200f8ac103ccc617db5d07ea40d2 )
+)
+
+game (
+	name "Animal Tracker (1988)(Nature Boy Software)(Disk 4 of 4)(Green)"
+	description "Animal Tracker (1988)(Nature Boy Software)(Disk 4 of 4)(Green)"
+	rom ( name "Animal Tracker (1988)(Nature Boy Software)(Disk 4 of 4)(Green).2mg" size 819264 crc 426101fd md5 98fc22afe3ff6bff21750520787efd60 )
+)
+
+game (
+	name "Arabian Nights (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Arabian Nights (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Arabian Nights (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc 30db61df md5 eb4c6a9f303fa6725ef5d554a9ada784 )
+)
+
+game (
+	name "Arabian Nights (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Arabian Nights (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Arabian Nights (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc 830a2ff1 md5 49bf00b9f5a09bc0469e849bc5ff878e )
+)
+
+game (
+	name "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 1 of 2)"
+	description "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 1 of 2)"
+	rom ( name "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 1 of 2).2mg" size 819264 crc 99b3972a md5 69ecf2a954a1b23434357f8a3641667b )
+)
+
+game (
+	name "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 2 of 2)"
+	description "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 2 of 2)"
+	rom ( name "Charlie Brown's ABC's (1990)(School Publishing Company)(Disk 2 of 2).2mg" size 819264 crc aa13d88c md5 1de12f1098fc71eb9f9391a579847cf7 )
+)
+
+game (
+	name "Color'n'Canvas (1990)(Sunburst Communications)"
+	description "Color'n'Canvas (1990)(Sunburst Communications)"
+	rom ( name "Color'n'Canvas (1990)(Sunburst Communications).2mg" size 819264 crc b49cd260 md5 e939850a6749485f8f34ee8c66270ec2 )
+)
+
+game (
+	name "Designasaurus (1988)(Designware)(Disk 1 of 3)(Program)"
+	description "Designasaurus (1988)(Designware)(Disk 1 of 3)(Program)"
+	rom ( name "Designasaurus (1988)(Designware)(Disk 1 of 3)(Program).2mg" size 819264 crc 71c118dd md5 919c705857f37ebff8e3b7cfc0543f91 )
+)
+
+game (
+	name "Designasaurus (1988)(Designware)(Disk 2 of 3)(Dino Walk)"
+	description "Designasaurus (1988)(Designware)(Disk 2 of 3)(Dino Walk)"
+	rom ( name "Designasaurus (1988)(Designware)(Disk 2 of 3)(Dino Walk).2mg" size 819264 crc e704da7e md5 18f68e1f2feb4fc7539e2e1b3b6f3b9b )
+)
+
+game (
+	name "Designasaurus (1988)(Designware)(Disk 3 of 3)(Build Dino)"
+	description "Designasaurus (1988)(Designware)(Disk 3 of 3)(Build Dino)"
+	rom ( name "Designasaurus (1988)(Designware)(Disk 3 of 3)(Build Dino).2mg" size 819264 crc 240512f2 md5 ed3e37cd26065c136cdd40504a9880d0 )
+)
+
+game (
+	name "Dueling Questions (1988)(Coyote Computing)"
+	description "Dueling Questions (1988)(Coyote Computing)"
+	rom ( name "Dueling Questions (1988)(Coyote Computing).2mg" size 819264 crc 5ff0ae32 md5 d77c35d24ae199c7e66e17e1bae14f72 )
+)
+
+game (
+	name "Electric Crayon (19xx)(-)"
+	description "Electric Crayon (19xx)(-)"
+	rom ( name "Electric Crayon (19xx)(-).2mg" size 819264 crc 2fa4a415 md5 1f3a4fe01c6748b7a89f5dfa267145fd )
+)
+
+game (
+	name "First Letters & Words (1987)(First Byte)"
+	description "First Letters & Words (1987)(First Byte)"
+	rom ( name "First Letters & Words (1987)(First Byte).2mg" size 819264 crc d09526fd md5 362c02e0eec7bb3795058b031cb8dd37 )
+)
+
+game (
+	name "First Shapes (1987)(First Byte)"
+	description "First Shapes (1987)(First Byte)"
+	rom ( name "First Shapes (1987)(First Byte).2mg" size 819264 crc a058b6af md5 bce8df82e03d09d44d09ef27f4a51ff1 )
+)
+
+game (
+	name "Formulate (1991)(Seven Hills Software)(Disk 1 of 2)"
+	description "Formulate (1991)(Seven Hills Software)(Disk 1 of 2)"
+	rom ( name "Formulate (1991)(Seven Hills Software)(Disk 1 of 2).2mg" size 819264 crc 30624ab4 md5 970fa5913d2316f11bfb00ec012fcd4a )
+)
+
+game (
+	name "Formulate (1991)(Seven Hills Software)(Disk 2 of 2)"
+	description "Formulate (1991)(Seven Hills Software)(Disk 2 of 2)"
+	rom ( name "Formulate (1991)(Seven Hills Software)(Disk 2 of 2).2mg" size 819264 crc e27b138e md5 e5f60a5286bc0f0e87c13cb87990c78f )
+)
+
+game (
+	name "Fractal Explorer (1988)(Micro Eclat)"
+	description "Fractal Explorer (1988)(Micro Eclat)"
+	rom ( name "Fractal Explorer (1988)(Micro Eclat).2mg" size 819264 crc 7f2b3025 md5 265a5eb2a74b23984b5447545cf44b89 )
+)
+
+game (
+	name "Geo Puzzle USA (1990)(PC Globe)"
+	description "Geo Puzzle USA (1990)(PC Globe)"
+	rom ( name "Geo Puzzle USA (1990)(PC Globe).2mg" size 819264 crc 2e38c964 md5 d069aa90ab6d6aaff600e9be8965241c )
+)
+
+game (
+	name "Geo Quiz (1990)(PC Globe)"
+	description "Geo Quiz (1990)(PC Globe)"
+	rom ( name "Geo Quiz (1990)(PC Globe).2mg" size 819264 crc 4e280b67 md5 c3c49abe4acaa094e17e8b9d9a58b80e )
+)
+
+game (
+	name "Geographic Jigsaw (199x)(Eclat Microproducts)"
+	description "Geographic Jigsaw (199x)(Eclat Microproducts)"
+	rom ( name "Geographic Jigsaw (199x)(Eclat Microproducts).2mg" size 819264 crc 43b85433 md5 61029028fc78df4fe7ac27e7789e087d )
+)
+
+game (
+	name "Geometry (1988)(Broderbund)(Disk 1 of 3)"
+	description "Geometry (1988)(Broderbund)(Disk 1 of 3)"
+	rom ( name "Geometry (1988)(Broderbund)(Disk 1 of 3).2mg" size 819264 crc d0a2e6a0 md5 0a0f4eaf1da2821209e55fd8e16c7f02 )
+)
+
+game (
+	name "Geometry (1988)(Broderbund)(Disk 2 of 3)"
+	description "Geometry (1988)(Broderbund)(Disk 2 of 3)"
+	rom ( name "Geometry (1988)(Broderbund)(Disk 2 of 3).2mg" size 819264 crc 3448ff84 md5 4e44d06a1783748cfaf2315eeac7c079 )
+)
+
+game (
+	name "Geometry (1988)(Broderbund)(Disk 3 of 3)"
+	description "Geometry (1988)(Broderbund)(Disk 3 of 3)"
+	rom ( name "Geometry (1988)(Broderbund)(Disk 3 of 3).2mg" size 819264 crc 79ec23f0 md5 64cd85fa65195c78cfd67caf098b30d7 )
+)
+
+game (
+	name "Global Express Atlas (1989)(Orange Cherry)(Disk 1 of 5)"
+	description "Global Express Atlas (1989)(Orange Cherry)(Disk 1 of 5)"
+	rom ( name "Global Express Atlas (1989)(Orange Cherry)(Disk 1 of 5).2mg" size 819264 crc 585894ef md5 14c369711079b901fc9c00faa46b44f6 )
+)
+
+game (
+	name "Global Express Atlas (1989)(Orange Cherry)(Disk 2 of 5)"
+	description "Global Express Atlas (1989)(Orange Cherry)(Disk 2 of 5)"
+	rom ( name "Global Express Atlas (1989)(Orange Cherry)(Disk 2 of 5).2mg" size 819264 crc 7845f4ec md5 ea5bab548edffec97549d1bbe40302e2 )
+)
+
+game (
+	name "Global Express Atlas (1989)(Orange Cherry)(Disk 3 of 5)"
+	description "Global Express Atlas (1989)(Orange Cherry)(Disk 3 of 5)"
+	rom ( name "Global Express Atlas (1989)(Orange Cherry)(Disk 3 of 5).2mg" size 819264 crc ef52682a md5 05b7a43ee1d6593fcebe7e6b82af3c70 )
+)
+
+game (
+	name "Global Express Atlas (1989)(Orange Cherry)(Disk 4 of 5)"
+	description "Global Express Atlas (1989)(Orange Cherry)(Disk 4 of 5)"
+	rom ( name "Global Express Atlas (1989)(Orange Cherry)(Disk 4 of 5).2mg" size 819264 crc 672f35b1 md5 a084bf1d9cad4cd17a26eededc3e7470 )
+)
+
+game (
+	name "Global Express Atlas (1989)(Orange Cherry)(Disk 5 of 5)"
+	description "Global Express Atlas (1989)(Orange Cherry)(Disk 5 of 5)"
+	rom ( name "Global Express Atlas (1989)(Orange Cherry)(Disk 5 of 5).2mg" size 819264 crc fe049da7 md5 867d9536c92031d970f916b0bdfd4b3d )
+)
+
+game (
+	name "Greek Mythology (1991)(Orange Cherry)(Disk 1 of 3)"
+	description "Greek Mythology (1991)(Orange Cherry)(Disk 1 of 3)"
+	rom ( name "Greek Mythology (1991)(Orange Cherry)(Disk 1 of 3).2mg" size 819264 crc c6afd4b1 md5 8bac7bb768852128cae05b091af49188 )
+)
+
+game (
+	name "Greek Mythology (1991)(Orange Cherry)(Disk 2 of 3)"
+	description "Greek Mythology (1991)(Orange Cherry)(Disk 2 of 3)"
+	rom ( name "Greek Mythology (1991)(Orange Cherry)(Disk 2 of 3).2mg" size 819264 crc 7dcd8281 md5 fb049e404f57a2ed2f44ebbb2e2d2ecf )
+)
+
+game (
+	name "Greek Mythology (1991)(Orange Cherry)(Disk 3 of 3)"
+	description "Greek Mythology (1991)(Orange Cherry)(Disk 3 of 3)"
+	rom ( name "Greek Mythology (1991)(Orange Cherry)(Disk 3 of 3).2mg" size 819264 crc dc32966b md5 2cc3768a45c75ec68c26a0bc7747dc04 )
+)
+
+game (
+	name "Grizzly Bears (1988)(Advanced Ideas)(Disk 1 of 2)"
+	description "Grizzly Bears (1988)(Advanced Ideas)(Disk 1 of 2)"
+	rom ( name "Grizzly Bears (1988)(Advanced Ideas)(Disk 1 of 2).2mg" size 819264 crc 4f3c544a md5 1583fbe674bd1faa0ac5ed45a3de9b2f )
+)
+
+game (
+	name "Grizzly Bears (1988)(Advanced Ideas)(Disk 2 of 2)"
+	description "Grizzly Bears (1988)(Advanced Ideas)(Disk 2 of 2)"
+	rom ( name "Grizzly Bears (1988)(Advanced Ideas)(Disk 2 of 2).2mg" size 819264 crc 9ce42d1e md5 92ca7f99628cd38fcff369f59a98b073 )
+)
+
+game (
+	name "GSNumerics (1990)(Spring Branch Software)(FW)"
+	description "GSNumerics (1990)(Spring Branch Software)(FW)"
+	rom ( name "GSNumerics (1990)(Spring Branch Software)(FW).2mg" size 819264 crc c71cf102 md5 9f6f08fee72b8f85dd347f72ac0a77ee )
+)
+
+game (
+	name "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2)"
+	description "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2)"
+	rom ( name "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2).2mg" size 819264 crc eabedb91 md5 7aa8ec4a34456d46fe7822e190d0a3bf )
+)
+
+game (
+	name "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2)"
+	description "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2)"
+	rom ( name "InfoLab Chemistry (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2).2mg" size 819264 crc 83f16f51 md5 35429149d8aca5d161435bc262b9ac74 )
+)
+
+game (
+	name "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2)"
+	description "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2)"
+	rom ( name "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 1 of 2).2mg" size 819264 crc 72b7ae0e md5 65674018d2733c34fc3cf3a5e01db567 )
+)
+
+game (
+	name "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2)"
+	description "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2)"
+	rom ( name "InfoLab Life Science (1988)(West, Clifford - Zamora, Ramon)(Disk 2 of 2).2mg" size 819264 crc d6318c37 md5 ad1f1f64b7787d16cc83f87f122ea530 )
+)
+
+game (
+	name "Jungle Safari (1991)(Orange Cherry)(Disk 1 of 2)"
+	description "Jungle Safari (1991)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Jungle Safari (1991)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 5456843a md5 47be41042f4540615b838cbdcbfc23e7 )
+)
+
+game (
+	name "Jungle Safari (1991)(Orange Cherry)(Disk 2 of 2)"
+	description "Jungle Safari (1991)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Jungle Safari (1991)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc e70d3e35 md5 11b96db143f1063210ac7f32193a352b )
+)
+
+game (
+	name "Katie's Farm (1990)(Lawrence Productions)(Disk 1 of 2)"
+	description "Katie's Farm (1990)(Lawrence Productions)(Disk 1 of 2)"
+	rom ( name "Katie's Farm (1990)(Lawrence Productions)(Disk 1 of 2).2mg" size 819264 crc 40f3b658 md5 8cd5b539c545363e0808182ef3530a6f )
+)
+
+game (
+	name "Katie's Farm (1990)(Lawrence Productions)(Disk 2 of 2)"
+	description "Katie's Farm (1990)(Lawrence Productions)(Disk 2 of 2)"
+	rom ( name "Katie's Farm (1990)(Lawrence Productions)(Disk 2 of 2).2mg" size 819264 crc cfb1ad63 md5 0828aa58dd8ee3b3c9dc4ef7800b38bc )
+)
+
+game (
+	name "Kid Talk (1987)(First Byte)"
+	description "Kid Talk (1987)(First Byte)"
+	rom ( name "Kid Talk (1987)(First Byte).2mg" size 819264 crc dd542562 md5 3ace7a1389f5a8d21fc7bf27c6e969c8 )
+)
+
+game (
+	name "Kid Writer Gold (1989)(Spinnaker Software)"
+	description "Kid Writer Gold (1989)(Spinnaker Software)"
+	rom ( name "Kid Writer Gold (1989)(Spinnaker Software).2mg" size 819264 crc ac126901 md5 54fbc4bbed9b16db6f5fd7368d7c6a66 )
+)
+
+game (
+	name "KidsTime II (1986)(Great Wave Software)"
+	description "KidsTime II (1986)(Great Wave Software)"
+	rom ( name "KidsTime II (1986)(Great Wave Software).2mg" size 819264 crc ce54dfc8 md5 30adcda63ad4a28b8606b069efade29b )
+)
+
+game (
+	name "Kinderama (1989)(Unicorn Software)(Disk 1 of 2)"
+	description "Kinderama (1989)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Kinderama (1989)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc f8759767 md5 e1901374db5d6de8fc5156788e190980 )
+)
+
+game (
+	name "Kinderama (1989)(Unicorn Software)(Disk 2 of 2)"
+	description "Kinderama (1989)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Kinderama (1989)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc 356f8b75 md5 c795484633a1b0734a9d12472188ca47 )
+)
+
+game (
+	name "Land of the Unicorn (1988)(Unicorn Software)(Disk 1 of 4)"
+	description "Land of the Unicorn (1988)(Unicorn Software)(Disk 1 of 4)"
+	rom ( name "Land of the Unicorn (1988)(Unicorn Software)(Disk 1 of 4).2mg" size 819264 crc b2c9e12e md5 3a372f020170c84b4e09953660b479a7 )
+)
+
+game (
+	name "Land of the Unicorn (1988)(Unicorn Software)(Disk 2 of 4)"
+	description "Land of the Unicorn (1988)(Unicorn Software)(Disk 2 of 4)"
+	rom ( name "Land of the Unicorn (1988)(Unicorn Software)(Disk 2 of 4).2mg" size 819264 crc 51951d03 md5 bcb022e328aaa423699a8aca5ba9776c )
+)
+
+game (
+	name "Land of the Unicorn (1988)(Unicorn Software)(Disk 3 of 4)"
+	description "Land of the Unicorn (1988)(Unicorn Software)(Disk 3 of 4)"
+	rom ( name "Land of the Unicorn (1988)(Unicorn Software)(Disk 3 of 4).2mg" size 819264 crc d65a159f md5 b2b650448919016c8e6ff5f83a2a2e77 )
+)
+
+game (
+	name "Land of the Unicorn (1988)(Unicorn Software)(Disk 4 of 4)"
+	description "Land of the Unicorn (1988)(Unicorn Software)(Disk 4 of 4)"
+	rom ( name "Land of the Unicorn (1988)(Unicorn Software)(Disk 4 of 4).2mg" size 819264 crc c36e084f md5 3fda0386cf1be0a7773b3ea7e15f7433 )
+)
+
+game (
+	name "Learning Spoken English (1986)(CourseMaker International)"
+	description "Learning Spoken English (1986)(CourseMaker International)"
+	rom ( name "Learning Spoken English (1986)(CourseMaker International).2mg" size 819264 crc 2c7d9a21 md5 de8cad284324d02ef276b91bdbd86438 )
+)
+
+game (
+	name "Magical Myths (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Magical Myths (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Magical Myths (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc 0c0ace78 md5 d4c358a56c60cf764c277fe04e08e8ce )
+)
+
+game (
+	name "Magical Myths (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Magical Myths (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Magical Myths (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc bf41ab59 md5 28ec0caeb37c023bbec1b5aa81b31b39 )
+)
+
+game (
+	name "Math and Me (1988)(Davidson and Associates)"
+	description "Math and Me (1988)(Davidson and Associates)"
+	rom ( name "Math and Me (1988)(Davidson and Associates).2mg" size 819264 crc f254c619 md5 37e412ec9e7bc85da9d00e2f6d7169c8 )
+)
+
+game (
+	name "Math Blaster Plus! IIGS (1989)(Davidson and Associates)"
+	description "Math Blaster Plus! IIGS (1989)(Davidson and Associates)"
+	rom ( name "Math Blaster Plus! IIGS (1989)(Davidson and Associates).2mg" size 819264 crc 5596d376 md5 b3a53fd1e85661d0e47d241fce95bcb7 )
+)
+
+game (
+	name "Math Wizard (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Math Wizard (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Math Wizard (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc 29d5cd96 md5 03634f1350f42c928350a191d41a0828 )
+)
+
+game (
+	name "Math Wizard (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Math Wizard (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Math Wizard (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc 42bef2fc md5 05b8b5eec451f5bd6f5c374f35ab6bda )
+)
+
+game (
+	name "MathTalk (1987)(First Byte)"
+	description "MathTalk (1987)(First Byte)"
+	rom ( name "MathTalk (1987)(First Byte).2mg" size 819264 crc 793462bc md5 a3f8f52ace8dfd82423497cd798316ca )
+)
+
+game (
+	name "MathTalk Fractions (1987)(First Byte)"
+	description "MathTalk Fractions (1987)(First Byte)"
+	rom ( name "MathTalk Fractions (1987)(First Byte).2mg" size 819264 crc e15e0c7c md5 f1adb6105c506539216bbc5bf33b4655 )
+)
+
+game (
+	name "Mavis Beacon (1987)(Software Toolworks)(Disk 1 of 2)"
+	description "Mavis Beacon (1987)(Software Toolworks)(Disk 1 of 2)"
+	rom ( name "Mavis Beacon (1987)(Software Toolworks)(Disk 1 of 2).2mg" size 819264 crc 577e43b9 md5 c6b9f09095f803d6870fab9910f50e75 )
+)
+
+game (
+	name "Mavis Beacon (1987)(Software Toolworks)(Disk 2 of 2)"
+	description "Mavis Beacon (1987)(Software Toolworks)(Disk 2 of 2)"
+	rom ( name "Mavis Beacon (1987)(Software Toolworks)(Disk 2 of 2).2mg" size 819264 crc a2e98efe md5 56b79649ea6757a5488295c78651c892 )
+)
+
+game (
+	name "McGee (1990)(Lawrence Productions)(Disk 1 of 2)"
+	description "McGee (1990)(Lawrence Productions)(Disk 1 of 2)"
+	rom ( name "McGee (1990)(Lawrence Productions)(Disk 1 of 2).2mg" size 819264 crc 73e3d557 md5 19be5c651be089c72a7aeec83f6399dd )
+)
+
+game (
+	name "McGee (1990)(Lawrence Productions)(Disk 2 of 2)"
+	description "McGee (1990)(Lawrence Productions)(Disk 2 of 2)"
+	rom ( name "McGee (1990)(Lawrence Productions)(Disk 2 of 2).2mg" size 819264 crc ee76706c md5 2595d5c9ff263e81ff964ae60d702b4b )
+)
+
+game (
+	name "McGee at the Funfair (1990)(Lawrence Productions)(Disk 1 of 2)"
+	description "McGee at the Funfair (1990)(Lawrence Productions)(Disk 1 of 2)"
+	rom ( name "McGee at the Funfair (1990)(Lawrence Productions)(Disk 1 of 2).2mg" size 819264 crc 558a788e md5 6389235773ac61568736939ce0ce729a )
+)
+
+game (
+	name "McGee at the Funfair (1990)(Lawrence Productions)(Disk 2 of 2)"
+	description "McGee at the Funfair (1990)(Lawrence Productions)(Disk 2 of 2)"
+	rom ( name "McGee at the Funfair (1990)(Lawrence Productions)(Disk 2 of 2).2mg" size 819264 crc 3d88d520 md5 3150905f21a0e129578221c63382edb0 )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 1 of 7)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 1 of 7)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 1 of 7).2mg" size 819264 crc b5093d46 md5 7202d862d97a009a1fa1c32ef579f13c )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 2 of 7)(Aladdin & the Magic Lamp)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 2 of 7)(Aladdin & the Magic Lamp)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 2 of 7)(Aladdin & the Magic Lamp).2mg" size 819264 crc aa1e4487 md5 0d2802cc5312e8f88d6375eaedf96295 )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 3 of 7)(Henny Penny)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 3 of 7)(Henny Penny)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 3 of 7)(Henny Penny).2mg" size 819264 crc e07c2f32 md5 ae3c28170bee03bd7956f2c940f03cee )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 4 of 7)(Jack & the Bean Stalk)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 4 of 7)(Jack & the Bean Stalk)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 4 of 7)(Jack & the Bean Stalk).2mg" size 819264 crc faefe752 md5 8284afe1aa9f50ea2ffaf52cf3b8125f )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 5 of 7)(Little Red Riding Hood)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 5 of 7)(Little Red Riding Hood)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 5 of 7)(Little Red Riding Hood).2mg" size 819264 crc d3560e81 md5 ad9dbcd3762a400d27078ba6b831ae55 )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 6 of 7)(Peter Rabbit)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 6 of 7)(Peter Rabbit)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 6 of 7)(Peter Rabbit).2mg" size 819264 crc abc54515 md5 edacef052f3e6e711e5cd4f931835066 )
+)
+
+game (
+	name "Milliken Story Teller (1989)(Milliken)(Disk 7 of 7)(The Ugly Duckling)"
+	description "Milliken Story Teller (1989)(Milliken)(Disk 7 of 7)(The Ugly Duckling)"
+	rom ( name "Milliken Story Teller (1989)(Milliken)(Disk 7 of 7)(The Ugly Duckling).2mg" size 819264 crc 09472971 md5 2f27965ea6c61429a93369dd32d2a66e )
+)
+
+game (
+	name "Mr Py and I (1989)(Pygraphics)(Disk 1 of 2)"
+	description "Mr Py and I (1989)(Pygraphics)(Disk 1 of 2)"
+	rom ( name "Mr Py and I (1989)(Pygraphics)(Disk 1 of 2).2mg" size 819264 crc 79eecb0a md5 f4d832722cd4035af956b8ebe81655ec )
+)
+
+game (
+	name "Mr Py and I (1989)(Pygraphics)(Disk 2 of 2)"
+	description "Mr Py and I (1989)(Pygraphics)(Disk 2 of 2)"
+	rom ( name "Mr Py and I (1989)(Pygraphics)(Disk 2 of 2).2mg" size 819264 crc d4a87e25 md5 e0d911b5d43e6a4f8e9ea1dcd7a6c9de )
+)
+
+game (
+	name "My Paint (1990)(Saddleback Graphics)(Disk 1 of 3)"
+	description "My Paint (1990)(Saddleback Graphics)(Disk 1 of 3)"
+	rom ( name "My Paint (1990)(Saddleback Graphics)(Disk 1 of 3).2mg" size 819264 crc 520e554e md5 9083764e1d66851113ca8cf9fbef66be )
+)
+
+game (
+	name "My Paint (1990)(Saddleback Graphics)(Disk 2 of 3)(Alphabet)"
+	description "My Paint (1990)(Saddleback Graphics)(Disk 2 of 3)(Alphabet)"
+	rom ( name "My Paint (1990)(Saddleback Graphics)(Disk 2 of 3)(Alphabet).2mg" size 819264 crc 836a6212 md5 f220e47c8e934db83e1c574c6718373b )
+)
+
+game (
+	name "My Paint (1990)(Saddleback Graphics)(Disk 3 of 3)(Majelix)"
+	description "My Paint (1990)(Saddleback Graphics)(Disk 3 of 3)(Majelix)"
+	rom ( name "My Paint (1990)(Saddleback Graphics)(Disk 3 of 3)(Majelix).2mg" size 819264 crc 7a6dc2d3 md5 54cfdcc87c397a8e2f8cbbe50afc4e9c )
+)
+
+game (
+	name "National Geographic Kids Network (1989)(National Geographic Society)"
+	description "National Geographic Kids Network (1989)(National Geographic Society)"
+	rom ( name "National Geographic Kids Network (1989)(National Geographic Society).2mg" size 819264 crc 520d3b06 md5 5d673c74edc98cdf86705daecff6caf9 )
+)
+
+game (
+	name "Newspaper Maker (1990)(Orange Cherry)(Disk 1 of 2)"
+	description "Newspaper Maker (1990)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Newspaper Maker (1990)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc ff9c6388 md5 90fc983fc262d571f626009e82e7029e )
+)
+
+game (
+	name "Newspaper Maker (1990)(Orange Cherry)(Disk 2 of 2)"
+	description "Newspaper Maker (1990)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Newspaper Maker (1990)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 07d4fd63 md5 901003bba07dfece2ae04fc0d35864af )
+)
+
+game (
+	name "Once Upon a Time (1988)(Compu-Teach)(Disk 1 of 2)"
+	description "Once Upon a Time (1988)(Compu-Teach)(Disk 1 of 2)"
+	rom ( name "Once Upon a Time (1988)(Compu-Teach)(Disk 1 of 2).2mg" size 819264 crc d22caf84 md5 a56609a9704a0459ca566932355052cf )
+)
+
+game (
+	name "Once Upon a Time (1988)(Compu-Teach)(Disk 2 of 2)"
+	description "Once Upon a Time (1988)(Compu-Teach)(Disk 2 of 2)"
+	rom ( name "Once Upon a Time (1988)(Compu-Teach)(Disk 2 of 2).2mg" size 819264 crc b0eb9303 md5 fb9d2c280a021c20d8557e99ac60f4da )
+)
+
+game (
+	name "Once Upon a Time II (1989)(Compu-Teach)(Disk 1 of 2)"
+	description "Once Upon a Time II (1989)(Compu-Teach)(Disk 1 of 2)"
+	rom ( name "Once Upon a Time II (1989)(Compu-Teach)(Disk 1 of 2).2mg" size 819264 crc c952f77f md5 b89917af2c6dea5118e08f4681ab54e0 )
+)
+
+game (
+	name "Once Upon a Time II (1989)(Compu-Teach)(Disk 2 of 2)"
+	description "Once Upon a Time II (1989)(Compu-Teach)(Disk 2 of 2)"
+	rom ( name "Once Upon a Time II (1989)(Compu-Teach)(Disk 2 of 2).2mg" size 819264 crc 73a842e3 md5 2ad9684080a92dfa52bae20a63c7cba0 )
+)
+
+game (
+	name "Once Upon a Time III (1990)(Compu-Teach)(Disk 1 of 3)"
+	description "Once Upon a Time III (1990)(Compu-Teach)(Disk 1 of 3)"
+	rom ( name "Once Upon a Time III (1990)(Compu-Teach)(Disk 1 of 3).2mg" size 819264 crc 5775a4d8 md5 fb2f26bcda7103164fe806b34b51439a )
+)
+
+game (
+	name "Once Upon a Time III (1990)(Compu-Teach)(Disk 2 of 3)"
+	description "Once Upon a Time III (1990)(Compu-Teach)(Disk 2 of 3)"
+	rom ( name "Once Upon a Time III (1990)(Compu-Teach)(Disk 2 of 3).2mg" size 819264 crc afa03615 md5 ace89796162878227089b761f1b377a8 )
+)
+
+game (
+	name "Once Upon a Time III (1990)(Compu-Teach)(Disk 3 of 3)"
+	description "Once Upon a Time III (1990)(Compu-Teach)(Disk 3 of 3)"
+	rom ( name "Once Upon a Time III (1990)(Compu-Teach)(Disk 3 of 3).2mg" size 819264 crc 36a674fc md5 cb36f0251aff3765fc9cdc039fe71fc5 )
+)
+
+game (
+	name "Read & Rhyme (1988)(Unicorn Software)(Disk 1 of 2)"
+	description "Read & Rhyme (1988)(Unicorn Software)(Disk 1 of 2)"
+	rom ( name "Read & Rhyme (1988)(Unicorn Software)(Disk 1 of 2).2mg" size 819264 crc bdbe9e0d md5 90043e1d90bf68b5c234f2298d7a055c )
+)
+
+game (
+	name "Read & Rhyme (1988)(Unicorn Software)(Disk 2 of 2)"
+	description "Read & Rhyme (1988)(Unicorn Software)(Disk 2 of 2)"
+	rom ( name "Read & Rhyme (1988)(Unicorn Software)(Disk 2 of 2).2mg" size 819264 crc 8ae94e23 md5 b79cfa47fa33f16c8ec39b62974e0b6d )
+)
+
+game (
+	name "Readable Classic Tales (1991)(Orange Cherry)(Disk 1 of 3)"
+	description "Readable Classic Tales (1991)(Orange Cherry)(Disk 1 of 3)"
+	rom ( name "Readable Classic Tales (1991)(Orange Cherry)(Disk 1 of 3).2mg" size 819264 crc ffb4ac50 md5 8bc76a7b0509275e603a1338a9d7f83b )
+)
+
+game (
+	name "Readable Classic Tales (1991)(Orange Cherry)(Disk 2 of 3)"
+	description "Readable Classic Tales (1991)(Orange Cherry)(Disk 2 of 3)"
+	rom ( name "Readable Classic Tales (1991)(Orange Cherry)(Disk 2 of 3).2mg" size 819264 crc f48aa1b0 md5 e187d6f4802e341ce646985435549716 )
+)
+
+game (
+	name "Readable Classic Tales (1991)(Orange Cherry)(Disk 3 of 3)"
+	description "Readable Classic Tales (1991)(Orange Cherry)(Disk 3 of 3)"
+	rom ( name "Readable Classic Tales (1991)(Orange Cherry)(Disk 3 of 3).2mg" size 819264 crc 6a22c8ba md5 b8cf2fe9008b4749cab12f50df49412d )
+)
+
+game (
+	name "Read-a-Rama (1989)(Unicorn Software)(Disk 1 of 3)"
+	description "Read-a-Rama (1989)(Unicorn Software)(Disk 1 of 3)"
+	rom ( name "Read-a-Rama (1989)(Unicorn Software)(Disk 1 of 3).2mg" size 819264 crc 75856d20 md5 23cc74dc4e028e2d664bf36c97ac3028 )
+)
+
+game (
+	name "Read-a-Rama (1989)(Unicorn Software)(Disk 2 of 3)"
+	description "Read-a-Rama (1989)(Unicorn Software)(Disk 2 of 3)"
+	rom ( name "Read-a-Rama (1989)(Unicorn Software)(Disk 2 of 3).2mg" size 819264 crc eb760bb3 md5 734e4bc88a31fb80ebdacda9fdca5ce5 )
+)
+
+game (
+	name "Read-a-Rama (1989)(Unicorn Software)(Disk 3 of 3)"
+	description "Read-a-Rama (1989)(Unicorn Software)(Disk 3 of 3)"
+	rom ( name "Read-a-Rama (1989)(Unicorn Software)(Disk 3 of 3).2mg" size 819264 crc 38800083 md5 b85f8bccadce8ea52e7aee4f64a2012a )
+)
+
+game (
+	name "Reader Rabbit (1987)(The Learning Company)"
+	description "Reader Rabbit (1987)(The Learning Company)"
+	rom ( name "Reader Rabbit (1987)(The Learning Company).2mg" size 819264 crc f7f762e7 md5 ac1674854b8921c697e2d6d9a0d7914e )
+)
+
+game (
+	name "Reading About Fish (1988)(Orange Cherry)"
+	description "Reading About Fish (1988)(Orange Cherry)"
+	rom ( name "Reading About Fish (1988)(Orange Cherry).2mg" size 819264 crc a72d6bb8 md5 d3e595edbe2ff3733c33723f4ad05ffc )
+)
+
+game (
+	name "Reading About Reptiles (1988)(Orange Cherry)"
+	description "Reading About Reptiles (1988)(Orange Cherry)"
+	rom ( name "Reading About Reptiles (1988)(Orange Cherry).2mg" size 819264 crc 2dbc2722 md5 d18bf85b83015cba854df11cddbeee19 )
+)
+
+game (
+	name "Reading Magic (1989)(Tom Snyder Productions)"
+	description "Reading Magic (1989)(Tom Snyder Productions)"
+	rom ( name "Reading Magic (1989)(Tom Snyder Productions).2mg" size 819264 crc 32d6b363 md5 7f70574e6101fcc75d2fba48f9153aa1 )
+)
+
+game (
+	name "SmoothTalker (1987)(First Byte)(fr)"
+	description "SmoothTalker (1987)(First Byte)(fr)"
+	rom ( name "SmoothTalker (1987)(First Byte)(fr).2mg" size 819264 crc 02edaf52 md5 59d594dcd7cc8306decbdc90ac3be40f )
+)
+
+game (
+	name "SmoothTalker (1987)(First Byte)"
+	description "SmoothTalker (1987)(First Byte)"
+	rom ( name "SmoothTalker (1987)(First Byte).2mg" size 819264 crc 76dcacb0 md5 a969f61bf6798db871813a8c4ad36e86 )
+)
+
+game (
+	name "Snoopy's Reading Machine (1990)(School Publishing Company)"
+	description "Snoopy's Reading Machine (1990)(School Publishing Company)"
+	rom ( name "Snoopy's Reading Machine (1990)(School Publishing Company).2mg" size 819264 crc f8e59e62 md5 c60e10a7184487f7ced29f8b575799a7 )
+)
+
+game (
+	name "Space Shuttle Word Problems (1991)(Orange Cherry)"
+	description "Space Shuttle Word Problems (1991)(Orange Cherry)"
+	rom ( name "Space Shuttle Word Problems (1991)(Orange Cherry).2mg" size 819264 crc b4f2d437 md5 fe65110ff568ba57b7392d39f17e0a5c )
+)
+
+game (
+	name "Spelling Bee (1987)(First Byte)"
+	description "Spelling Bee (1987)(First Byte)"
+	rom ( name "Spelling Bee (1987)(First Byte).2mg" size 819264 crc 820dda85 md5 e5752030d4f052597b02c206d1d39d4f )
+)
+
+game (
+	name "Stars & Planets (1990)(Advanced Ideas)"
+	description "Stars & Planets (1990)(Advanced Ideas)"
+	rom ( name "Stars & Planets (1990)(Advanced Ideas).2mg" size 819264 crc 3603f687 md5 84457d5f6e8371d86143431d20cdec8b )
+)
+
+game (
+	name "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 1 of 2)"
+	description "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 1 of 2)"
+	rom ( name "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 1 of 2).2mg" size 819264 crc 9369ab5d md5 8c686b4757d34d42b6082e6356df4673 )
+)
+
+game (
+	name "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 2 of 2)"
+	description "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 2 of 2)"
+	rom ( name "Stickybear Talking ABC (1988)(Weekly Reader Software)(Disk 2 of 2).2mg" size 819264 crc 4273bbc9 md5 d0b8132a6b1a3451c042db02925a74e0 )
+)
+
+game (
+	name "Stickybear Talking Opposites (1988)(Weekly Reader Software)"
+	description "Stickybear Talking Opposites (1988)(Weekly Reader Software)"
+	rom ( name "Stickybear Talking Opposites (1988)(Weekly Reader Software).2mg" size 819264 crc fa04836d md5 15ad99b3d4f02dc9814cd174a7ab44eb )
+)
+
+game (
+	name "Stickybear Talking Shapes (1988)(Weekly Reader Software)"
+	description "Stickybear Talking Shapes (1988)(Weekly Reader Software)"
+	rom ( name "Stickybear Talking Shapes (1988)(Weekly Reader Software).2mg" size 819264 crc ec1a4c06 md5 dd2d17b793da547f0b17df0c3e72e717 )
+)
+
+game (
+	name "Storybook Weaver (1990)(MECC)(US)"
+	description "Storybook Weaver (1990)(MECC)(US)"
+	rom ( name "Storybook Weaver (1990)(MECC)(US).2mg" size 819264 crc a2e718c7 md5 ebd5d8e9c10e5af9d168eb4d0536780c )
+)
+
+game (
+	name "Storybook Weaver World of Adventure (1991)(MECC)(US)"
+	description "Storybook Weaver World of Adventure (1991)(MECC)(US)"
+	rom ( name "Storybook Weaver World of Adventure (1991)(MECC)(US).2mg" size 819264 crc 1ec8f7e1 md5 565ed793a1a7d008e5edc29881bff02a )
+)
+
+game (
+	name "Storybook Weaver World of Make Believe (1991)(MECC)(US)"
+	description "Storybook Weaver World of Make Believe (1991)(MECC)(US)"
+	rom ( name "Storybook Weaver World of Make Believe (1991)(MECC)(US).2mg" size 819264 crc 1846d0a5 md5 55fb9e10135e849807b0ec64c66d2cb3 )
+)
+
+game (
+	name "Super Award Maker (1990)(Orange Cherry)(Disk 1 of 2)"
+	description "Super Award Maker (1990)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Super Award Maker (1990)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 21b35927 md5 4e975da0f51670f42d8edc8c33637a0e )
+)
+
+game (
+	name "Super Award Maker (1990)(Orange Cherry)(Disk 2 of 2)"
+	description "Super Award Maker (1990)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Super Award Maker (1990)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 1ce5d230 md5 0b5dac25d35e97a8f3640fd71fa735bb )
+)
+
+game (
+	name "Symbolix v1.9 (199x)(Seven Hills Software)(SW)"
+	description "Symbolix v1.9 (199x)(Seven Hills Software)(SW)"
+	rom ( name "Symbolix v1.9 (199x)(Seven Hills Software)(SW).2mg" size 819264 crc 232c6309 md5 90bf25e6ced59d91695198988fe137d5 )
+)
+
+game (
+	name "Talking ABC's (1988)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking ABC's (1988)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking ABC's (1988)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 7129df54 md5 0a398e93230f739726ca4a09a0f044dc )
+)
+
+game (
+	name "Talking ABC's (1988)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking ABC's (1988)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking ABC's (1988)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 603b98f8 md5 b686adef90a8ea1090eec4c012ef1a22 )
+)
+
+game (
+	name "Talking Addition & Subtract (1990)(Orange Cherry)"
+	description "Talking Addition & Subtract (1990)(Orange Cherry)"
+	rom ( name "Talking Addition & Subtract (1990)(Orange Cherry).2mg" size 819264 crc 6a9d3e98 md5 e7cb0d2030337365e5e9b5d6adecda08 )
+)
+
+game (
+	name "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 09f67c50 md5 eaf801c343427751219369a9432258f1 )
+)
+
+game (
+	name "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking Alpha Chimp (1989)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 86bdf526 md5 b0ca1de632065e1ddf28090b57addd4d )
+)
+
+game (
+	name "Talking Animals (1989)(Orange Cherry)"
+	description "Talking Animals (1989)(Orange Cherry)"
+	rom ( name "Talking Animals (1989)(Orange Cherry).2mg" size 819264 crc 48979c71 md5 295350a247f0147e2d134803db35d7f8 )
+)
+
+game (
+	name "Talking Classroom (1990)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking Classroom (1990)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking Classroom (1990)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc ff139a28 md5 0d6492685eb034ef9576b85ac699dca9 )
+)
+
+game (
+	name "Talking Classroom (1990)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking Classroom (1990)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking Classroom (1990)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 03bc3902 md5 5d4e9bf5dde276dfe9d271d293994d85 )
+)
+
+game (
+	name "Talking Clock (1988)(Orange Cherry)"
+	description "Talking Clock (1988)(Orange Cherry)"
+	rom ( name "Talking Clock (1988)(Orange Cherry).2mg" size 819264 crc 45a45d14 md5 65724ed4daadec425fbd39225e900f68 )
+)
+
+game (
+	name "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 9d718e30 md5 defd9a193519ca4fed01dfb4616db748 )
+)
+
+game (
+	name "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking Colors and Shapes (1988)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 97017395 md5 2b68dfd524b8bd5b98734f9dfe866922 )
+)
+
+game (
+	name "Talking Dinosaurs (1989)(Orange Cherry)"
+	description "Talking Dinosaurs (1989)(Orange Cherry)"
+	rom ( name "Talking Dinosaurs (1989)(Orange Cherry).2mg" size 819264 crc 4f8b1f57 md5 e2630120f9b87d578f323e1664f7a466 )
+)
+
+game (
+	name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 1 of 3)"
+	description "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 1 of 3)"
+	rom ( name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 1 of 3).2mg" size 819264 crc 331abf62 md5 62e3cd902ffd9929462d84e911175640 )
+)
+
+game (
+	name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 2 of 3)"
+	description "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 2 of 3)"
+	rom ( name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 2 of 3).2mg" size 819264 crc 2e3cab73 md5 2dc6a4d31a24f0c0ccbad2ff027b8e92 )
+)
+
+game (
+	name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 3 of 3)"
+	description "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 3 of 3)"
+	rom ( name "Talking First Dinosaur Reader (1991)(Orange Cherry)(Disk 3 of 3).2mg" size 819264 crc 7f798966 md5 2d934ff7eb2437b32313afea3991620b )
+)
+
+game (
+	name "Talking First Reader (1989)(Orange Cherry)"
+	description "Talking First Reader (1989)(Orange Cherry)"
+	rom ( name "Talking First Reader (1989)(Orange Cherry).2mg" size 819264 crc aff85697 md5 761b36baa916b5c93cb6e9271063e64d )
+)
+
+game (
+	name "Talking First Words (1990)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking First Words (1990)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking First Words (1990)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc e5cf147a md5 4351aa4aed810a9055af34589059303b )
+)
+
+game (
+	name "Talking First Words (1990)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking First Words (1990)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking First Words (1990)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc ac605ee7 md5 9869f75294f7f994f1ebd84a89176c51 )
+)
+
+game (
+	name "Talking First Writer (1989)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking First Writer (1989)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking First Writer (1989)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 7d5fd6e0 md5 c1aa9bcbb563ad623b7590b2995d633b )
+)
+
+game (
+	name "Talking First Writer (1989)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking First Writer (1989)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking First Writer (1989)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc b9caac87 md5 7db6b8afde67a6caaa271dc54633c839 )
+)
+
+game (
+	name "Talking Money (1988)(Orange Cherry)"
+	description "Talking Money (1988)(Orange Cherry)"
+	rom ( name "Talking Money (1988)(Orange Cherry).2mg" size 819264 crc 349f4a61 md5 8daf1bf1fc0fb2ec4544c0d582e43959 )
+)
+
+game (
+	name "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc c7b9e717 md5 d1389e46daaf65c75358ae1622f1f6ea )
+)
+
+game (
+	name "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking Multiplications and Division (1990)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 4e0f166e md5 e5ae5b1c1747dc77b80e16926c424211 )
+)
+
+game (
+	name "Talking Numbers (1989)(Orange Cherry)"
+	description "Talking Numbers (1989)(Orange Cherry)"
+	rom ( name "Talking Numbers (1989)(Orange Cherry).2mg" size 819264 crc 26c9c407 md5 d117801a96500ee75371c47664304bb1 )
+)
+
+game (
+	name "Talking Reading Railroad (1989)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking Reading Railroad (1989)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking Reading Railroad (1989)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc f48c0ab6 md5 25a6ee385e6fb76763d58cced9b116f9 )
+)
+
+game (
+	name "Talking Reading Railroad (1989)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking Reading Railroad (1989)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking Reading Railroad (1989)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 4a292c02 md5 773fd5bc0bdb61c0b5d9042e7b1f6d19 )
+)
+
+game (
+	name "Talking School Bus (1989)(Orange Cherry)(Disk 1 of 2)"
+	description "Talking School Bus (1989)(Orange Cherry)(Disk 1 of 2)"
+	rom ( name "Talking School Bus (1989)(Orange Cherry)(Disk 1 of 2).2mg" size 819264 crc 44ed2cf9 md5 014b13b065335ba8563813632ea0ff15 )
+)
+
+game (
+	name "Talking School Bus (1989)(Orange Cherry)(Disk 2 of 2)"
+	description "Talking School Bus (1989)(Orange Cherry)(Disk 2 of 2)"
+	rom ( name "Talking School Bus (1989)(Orange Cherry)(Disk 2 of 2).2mg" size 819264 crc 0899cb31 md5 3248b057a4dfa09920e65ec5fca170a6 )
+)
+
+game (
+	name "Talking Speller (1989)(Orange Cherry)"
+	description "Talking Speller (1989)(Orange Cherry)"
+	rom ( name "Talking Speller (1989)(Orange Cherry).2mg" size 819264 crc 8fbea93f md5 6a1b9540f47a1b72b64da034c19d4e42 )
+)
+
+game (
+	name "Talking Speller II (1990)(Orange Cherry)"
+	description "Talking Speller II (1990)(Orange Cherry)"
+	rom ( name "Talking Speller II (1990)(Orange Cherry).2mg" size 819264 crc 9eaee85f md5 b76fdf0083cce1f5b20ee80a0878bf85 )
+)
+
+game (
+	name "Typing Tutor IV (1989)(Simon & Schuster)"
+	description "Typing Tutor IV (1989)(Simon & Schuster)"
+	rom ( name "Typing Tutor IV (1989)(Simon & Schuster).2mg" size 819264 crc 2d65b96c md5 99dee3688720362f317495a94951f1f2 )
+)
+
+game (
+	name "Ugly Duckling, The (1989)(Byte Works)(Disk 1 of 2)"
+	description "Ugly Duckling, The (1989)(Byte Works)(Disk 1 of 2)"
+	rom ( name "Ugly Duckling, The (1989)(Byte Works)(Disk 1 of 2).2mg" size 819264 crc 3e66e476 md5 aa74f33e4df11e7ee2382a3acbf47e7b )
+)
+
+game (
+	name "Ugly Duckling, The (1989)(Byte Works)(Disk 2 of 2)"
+	description "Ugly Duckling, The (1989)(Byte Works)(Disk 2 of 2)"
+	rom ( name "Ugly Duckling, The (1989)(Byte Works)(Disk 2 of 2).2mg" size 819264 crc f4f53fab md5 95c0047f416932ec4f709ab35e5d32c6 )
+)
+
+game (
+	name "USA GeoGraph (1989)(MECC)(US)(Disk 1 of 2)"
+	description "USA GeoGraph (1989)(MECC)(US)(Disk 1 of 2)"
+	rom ( name "USA GeoGraph (1989)(MECC)(US)(Disk 1 of 2).2mg" size 819264 crc fbdeb34d md5 168e124ecc22f64ba6cc8935199aa09f )
+)
+
+game (
+	name "USA GeoGraph (1989)(MECC)(US)(Disk 2 of 2)"
+	description "USA GeoGraph (1989)(MECC)(US)(Disk 2 of 2)"
+	rom ( name "USA GeoGraph (1989)(MECC)(US)(Disk 2 of 2).2mg" size 819264 crc 3087aac3 md5 c0a8beb9afbbca0579a381084d4fb3e4 )
+)
+
+game (
+	name "Volcanoes Deluxe (1988)(Earthwave Services)"
+	description "Volcanoes Deluxe (1988)(Earthwave Services)"
+	rom ( name "Volcanoes Deluxe (1988)(Earthwave Services).2mg" size 819264 crc 09518649 md5 9f4025c9f53d8b7241eb86be0404bf38 )
+)
+
+game (
+	name "Weather Forecast (1988)(Orange Cherry)"
+	description "Weather Forecast (1988)(Orange Cherry)"
+	rom ( name "Weather Forecast (1988)(Orange Cherry).2mg" size 819264 crc 86ca6751 md5 852c6fcef5ff49317e820cf87577642c )
+)
+
+game (
+	name "Weather Station (1988)(Orange Cherry)"
+	description "Weather Station (1988)(Orange Cherry)"
+	rom ( name "Weather Station (1988)(Orange Cherry).2mg" size 819264 crc 9ba13224 md5 4bacb49b67fb0244d48cb87438e99182 )
+)
+
+game (
+	name "Whales (1989)(Advanced Ideas)(Disk 1 of 2)"
+	description "Whales (1989)(Advanced Ideas)(Disk 1 of 2)"
+	rom ( name "Whales (1989)(Advanced Ideas)(Disk 1 of 2).2mg" size 819264 crc a2557554 md5 ba7a5257417d728d0b918352b8af54ac )
+)
+
+game (
+	name "Whales (1989)(Advanced Ideas)(Disk 2 of 2)"
+	description "Whales (1989)(Advanced Ideas)(Disk 2 of 2)"
+	rom ( name "Whales (1989)(Advanced Ideas)(Disk 2 of 2).2mg" size 819264 crc b267272f md5 c3f4928a6852dff968d1007538793356 )
+)
+
+game (
+	name "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 1 of 2)"
+	description "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 1 of 2)"
+	rom ( name "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 1 of 2).2mg" size 819264 crc 685addc9 md5 d9b2fd1e9986f9bd61cc9c2eb1a9d94a )
+)
+
+game (
+	name "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 2 of 2)"
+	description "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 2 of 2)"
+	rom ( name "Where in the USA is Carmen Sandiego (1990)(Broderbund)(Disk 2 of 2).2mg" size 819264 crc d43580e7 md5 ce1aad06b29f7c022a0baa67c25a7865 )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 1 of 2)(System)"
+	description "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 1 of 2)(System)"
+	rom ( name "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 1 of 2)(System).2mg" size 819264 crc b14edea8 md5 dc8c4c78c87ad272be7911852405ae34 )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 2 of 2)"
+	description "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 2 of 2)"
+	rom ( name "Where in the World is Carmen Sandiego (1989)(Broderbund)(Disk 2 of 2).2mg" size 819264 crc 8ee2b37c md5 42bb5a691b8dbe3a9b3c76f0849773d2 )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1989)(Broderbund)(fr)(Disk 2 of 2)"
+	description "Where in the World is Carmen Sandiego (1989)(Broderbund)(fr)(Disk 2 of 2)"
+	rom ( name "Where in the World is Carmen Sandiego (1989)(Broderbund)(fr)(Disk 2 of 2).2mg" size 819264 crc 01401dec md5 ea3fdf6c100520378e2646dee3c91269 )
+)
+
+game (
+	name "Word Master (1989)(Unicorn Software)"
+	description "Word Master (1989)(Unicorn Software)"
+	rom ( name "Word Master (1989)(Unicorn Software).2mg" size 819264 crc 24fd8822 md5 32641f387cb191d836dfac9c84438a9e )
+)
+
+game (
+	name "World GeoGraph (1989)(MECC)(US)(Disk 1 of 2)"
+	description "World GeoGraph (1989)(MECC)(US)(Disk 1 of 2)"
+	rom ( name "World GeoGraph (1989)(MECC)(US)(Disk 1 of 2).2mg" size 819264 crc c56e1f36 md5 0561eb4cc807bb7ec8cfdbd67cccd3e6 )
+)
+
+game (
+	name "World GeoGraph (1989)(MECC)(US)(Disk 2 of 2)"
+	description "World GeoGraph (1989)(MECC)(US)(Disk 2 of 2)"
+	rom ( name "World GeoGraph (1989)(MECC)(US)(Disk 2 of 2).2mg" size 819264 crc c154bcf6 md5 ce48cf691d0b1a0b6a6b1932c1b8a9f4 )
+)
+
+game (
+	name "Your Tour of The Apple IIGS (1986)(Apple)(FW)"
+	description "Your Tour of The Apple IIGS (1986)(Apple)(FW)"
+	rom ( name "Your Tour of The Apple IIGS (1986)(Apple)(FW).2mg" size 819264 crc 61272323 md5 99a63037b4e4a6ab8c3dc555d991994e )
+)
+
+game (
+	name "Your Tour of The Apple IIGS (1988)(Apple)(FW)"
+	description "Your Tour of The Apple IIGS (1988)(Apple)(FW)"
+	rom ( name "Your Tour of The Apple IIGS (1988)(Apple)(FW).2mg" size 819264 crc e1ac8646 md5 c1875902f082ed9a8d4fd486f85e4231 )
+)
+
+game (
+	name "Your Tour of The Apple IIGS (1989)(Apple)(FW)"
+	description "Your Tour of The Apple IIGS (1989)(Apple)(FW)"
+	rom ( name "Your Tour of The Apple IIGS (1989)(Apple)(FW).2mg" size 819264 crc 2055e71d md5 70a5a2bcfee29abb6b09109f3672fc85 )
+)
+
+game (
+	name "Your Tour of The Apple IIGS (demo) (1989)(Apple)(FW)"
+	description "Your Tour of The Apple IIGS (demo) (1989)(Apple)(FW)"
+	rom ( name "Your Tour of The Apple IIGS (demo) (1989)(Apple)(FW).2mg" size 819264 crc f4edee6d md5 b9adc4012ea6021cae5cf196a5fe003c )
+)

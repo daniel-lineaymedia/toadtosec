@@ -1,0 +1,164 @@
+clrmamepro (
+	name "Amstrad GX4000 - Games - [BIN]"
+	description "Amstrad GX4000 - Games - [BIN] (TOSEC-v2010-12-08)"
+	category "Amstrad GX4000 - Games - [BIN]"
+	version 2010-12-08
+	author "Diaboł"
+)
+
+game (
+	name "Barbarian II (1990)(Ocean)"
+	description "Barbarian II (1990)(Ocean)"
+	rom ( name "Barbarian II (1990)(Ocean).bin" size 131072 crc 8d5d8466 md5 fc89eea6bedca7ad15ebbda838a2a103 )
+)
+
+game (
+	name "Batman the Movie (1990)(Ocean)"
+	description "Batman the Movie (1990)(Ocean)"
+	rom ( name "Batman the Movie (1990)(Ocean).bin" size 131072 crc fed2468e md5 50fbd88a8039077edf89adf2fdb394a8 )
+)
+
+game (
+	name "Burnin' Rubber (1990)(Ocean)"
+	description "Burnin' Rubber (1990)(Ocean)"
+	rom ( name "Burnin' Rubber (1990)(Ocean).bin" size 131072 crc bb0752e7 md5 cd08124728b66dea9c1a858e64532f5f )
+)
+
+game (
+	name "Copter 271 (1991)(Loriciel)"
+	description "Copter 271 (1991)(Loriciel)"
+	rom ( name "Copter 271 (1991)(Loriciel).bin" size 131072 crc 3f9d0682 md5 9f7590818f5f9e712b5fa87d22722bd4 )
+)
+
+game (
+	name "Crazy Cars 2 (1990)(Titus)"
+	description "Crazy Cars 2 (1990)(Titus)"
+	rom ( name "Crazy Cars 2 (1990)(Titus).bin" size 131072 crc 4bf81a5e md5 db735e726d785ff3924906d7dafb2ff7 )
+)
+
+game (
+	name "Dick Tracy (1990)(Titus)"
+	description "Dick Tracy (1990)(Titus)"
+	rom ( name "Dick Tracy (1990)(Titus).bin" size 131072 crc b5c29fd0 md5 378dcb360f350fa268371f132b07176d )
+)
+
+game (
+	name "Enforcer, The (1990)(Trojan)"
+	description "Enforcer, The (1990)(Trojan)"
+	rom ( name "Enforcer, The (1990)(Trojan).bin" size 131072 crc 69f813a7 md5 b975b23c9369df71533aea58647880fe )
+)
+
+game (
+	name "Fire and Forget 2 (1990)(Titus)"
+	description "Fire and Forget 2 (1990)(Titus)"
+	rom ( name "Fire and Forget 2 (1990)(Titus).bin" size 131072 crc 5a6329eb md5 efdc2468e1c90ed3ffe0ea41b77eb51b )
+)
+
+game (
+	name "Klax (1990)(Domark)"
+	description "Klax (1990)(Domark)"
+	rom ( name "Klax (1990)(Domark).bin" size 131072 crc 94356097 md5 661e5515df7ecc592191d047e58db1ba )
+)
+
+game (
+	name "Mystical (1990)(Infogrames)"
+	description "Mystical (1990)(Infogrames)"
+	rom ( name "Mystical (1990)(Infogrames).bin" size 131072 crc b98b11f5 md5 51f5e14006ac81698595718a6690c884 )
+)
+
+game (
+	name "Navy Seals (1990)(Ocean)"
+	description "Navy Seals (1990)(Ocean)"
+	rom ( name "Navy Seals (1990)(Ocean).bin" size 131072 crc 92b77f03 md5 5ae0a926b53c3df6f56a1ea776fca8d4 )
+)
+
+game (
+	name "No Exit (1990)(Tomahawk)"
+	description "No Exit (1990)(Tomahawk)"
+	rom ( name "No Exit (1990)(Tomahawk).bin" size 131072 crc 28f64ce1 md5 37ef67aefff8fca9685d320cd330c357 )
+)
+
+game (
+	name "Operation Thunderbolt (1990)(Ocean)"
+	description "Operation Thunderbolt (1990)(Ocean)"
+	rom ( name "Operation Thunderbolt (1990)(Ocean).bin" size 131072 crc 9d5a4f42 md5 a9892500f22e6f7518f21f3fcacd18a3 )
+)
+
+game (
+	name "Pang (1990)(Ocean)"
+	description "Pang (1990)(Ocean)"
+	rom ( name "Pang (1990)(Ocean).bin" size 131072 crc b6a33a07 md5 010ec62cf5253c09742d34403a3085ce )
+)
+
+game (
+	name "Pang (1990)(Ocean)[a]"
+	description "Pang (1990)(Ocean)[a]"
+	rom ( name "Pang (1990)(Ocean)[a].bin" size 131072 crc a2820e48 md5 3ec08b18a7e66fb130b63a7dfb6cdfcf )
+)
+
+game (
+	name "Panza Kick Boxing (1991)(Loriciel)"
+	description "Panza Kick Boxing (1991)(Loriciel)"
+	rom ( name "Panza Kick Boxing (1991)(Loriciel).bin" size 131072 crc 996c30ce md5 828f0c3054e8a5c76202176a14d19b38 )
+)
+
+game (
+	name "Plotting (1990)(Ocean)"
+	description "Plotting (1990)(Ocean)"
+	rom ( name "Plotting (1990)(Ocean).bin" size 131072 crc f7a73aaa md5 0e209bada0b36e1c2e7f22461d121fe6 )
+)
+
+game (
+	name "Pro Tennis Tour (1990)(UBI Soft)"
+	description "Pro Tennis Tour (1990)(UBI Soft)"
+	rom ( name "Pro Tennis Tour (1990)(UBI Soft).bin" size 131072 crc 64d996f7 md5 529c8ed15a5a97c63c9c939ed311c468 )
+)
+
+game (
+	name "Robocop 2 (1990)(Ocean)"
+	description "Robocop 2 (1990)(Ocean)"
+	rom ( name "Robocop 2 (1990)(Ocean).bin" size 131072 crc 426bfabc md5 febe0c1814b0707c39532519865973d3 )
+)
+
+game (
+	name "Skeet Shoot (1990)(Trojan)"
+	description "Skeet Shoot (1990)(Trojan)"
+	rom ( name "Skeet Shoot (1990)(Trojan).bin" size 131072 crc 24e7334d md5 4edb88a9477ac6e577bf86b415a6a88a )
+)
+
+game (
+	name "Super Pinball Magic (1991)(Loricel)"
+	description "Super Pinball Magic (1991)(Loricel)"
+	rom ( name "Super Pinball Magic (1991)(Loricel).bin" size 131072 crc e7500c93 md5 586668666e2b36ff0fa9b1d915f2488b )
+)
+
+game (
+	name "Switchblade (1990)(Gremlin)"
+	description "Switchblade (1990)(Gremlin)"
+	rom ( name "Switchblade (1990)(Gremlin).bin" size 131072 crc 32ea852d md5 037368b0311c1b8b751dbeb261af31c6 )
+)
+
+game (
+	name "Tennis Cup 2 (1990)(Loriciel)"
+	description "Tennis Cup 2 (1990)(Loriciel)"
+	rom ( name "Tennis Cup 2 (1990)(Loriciel).bin" size 131072 crc 10e9d90f md5 a202ef4ce9f2e6d55304711b77c1a2f6 )
+)
+
+game (
+	name "Tin Tin on the Moon (1990)(Infogrames)"
+	description "Tin Tin on the Moon (1990)(Infogrames)"
+	rom ( name "Tin Tin on the Moon (1990)(Infogrames).bin" size 131072 crc 72320df4 md5 d9005fad361cd5b41f26da4517e59287 )
+)
+
+game (
+	name "Wild Streets (19xx)(Titus)"
+	description "Wild Streets (19xx)(Titus)"
+	rom ( name "Wild Streets (19xx)(Titus).bin" size 131072 crc bcbae03b md5 b6f11c0d3f502a8863fec1cb271cdd8f )
+)
+
+game (
+	name "World of Sports (1990)(Epyx)"
+	description "World of Sports (1990)(Epyx)"
+	rom ( name "World of Sports (1990)(Epyx).bin" size 131072 crc 5cecc439 md5 8b367f13fe1dddad393615a01be82e9c )
+)
+

@@ -1,0 +1,31 @@
+clrmamepro (
+	name "MITS Altair 8800 - Boot Loader"
+	description "MITS Altair 8800 - Boot Loader (TOSEC-v2010-01-17)"
+	category "MITS Altair 8800 - Boot Loader"
+	version 2010-01-17
+	author "TKaos"
+)
+
+game (
+	name "4k Basic Cassette Loader (19xx)(MITS)"
+	description "4k Basic Cassette Loader (19xx)(MITS)"
+	rom ( name "4k Basic Cassette Loader (19xx)(MITS).hex" size 115 crc 952e7fef md5 9f8feccf052fb24c57354b8a3068f48d )
+)
+
+game (
+	name "4k Basic Papertape Loader (19xx)(MITS)"
+	description "4k Basic Papertape Loader (19xx)(MITS)"
+	rom ( name "4k Basic Papertape Loader (19xx)(MITS).hex" size 66 crc 4b3a6944 md5 9bfa445eeb36c813d909bf602f0ae526 )
+)
+
+game (
+	name "8k Basic Cassette Loader (19xx)(MITS)"
+	description "8k Basic Cassette Loader (19xx)(MITS)"
+	rom ( name "8k Basic Cassette Loader (19xx)(MITS).hex" size 115 crc eb580def md5 44e7f9b0601850b14df1c479eb1e0026 )
+)
+
+game (
+	name "8k Basic Papertape Loader (19xx)(MITS)"
+	description "8k Basic Papertape Loader (19xx)(MITS)"
+	rom ( name "8k Basic Papertape Loader (19xx)(MITS).hex" size 66 crc 10910cab md5 07a632ada9a2019419f889e6f67c446a )
+)

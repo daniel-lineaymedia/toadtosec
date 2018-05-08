@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Sharp X1 - Applications"
+	description "Sharp X1 - Applications (TOSEC-v2006-04-22)"
+	category "Sharp X1 - Applications"
+	version 2006-04-22
+	author "Grendel - Cassiel"
+)
+
+game (
+	name "File Master X1, The v0.8 (1987)(Kyoto Media)"
+	description "File Master X1, The v0.8 (1987)(Kyoto Media)"
+	rom ( name "File Master X1, The v0.8 (1987)(Kyoto Media).2d" size 327680 crc cc83176a md5 79bdb7f12c1e97d1342074de868a3edf )
+)
+
+game (
+	name "ZZZ-UNK-HuBASIC"
+	description "ZZZ-UNK-HuBASIC"
+	rom ( name "ZZZ-UNK-HuBASIC.2d" size 327680 crc f567794d md5 4cecb2aba45619852778fbc26c953587 )
+)

@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [CRT]"
+	description "Commodore C64 - Educational - [CRT] (TOSEC-v2006-03-30)"
+	category "Commodore C64 - Educational - [CRT]"
+	version 2006-03-30
+	author "DesertWolf"
+)
+
+game (
+	name "Der Rechenloewe Multiplikation-Division 3-4 Schuljahr (1984)(Commodore)(de)"
+	description "Der Rechenloewe Multiplikation-Division 3-4 Schuljahr (1984)(Commodore)(de)"
+	rom ( name "Der Rechenloewe Multiplikation-Division 3-4 Schuljahr (1984)(Commodore)(de).crt" size 16464 crc 8bab5b67 md5 83093681421248e6ce24bf37a7dc6d16 )
+)
+
+game (
+	name "Fit in der Rechtschreibung (1983)(Westermann Verlag)(de)"
+	description "Fit in der Rechtschreibung (1983)(Westermann Verlag)(de)"
+	rom ( name "Fit in der Rechtschreibung (1983)(Westermann Verlag)(de).crt" size 16464 crc 8bab3a70 md5 c35435592fe4ae82b206680ffe4e1699 )
+)

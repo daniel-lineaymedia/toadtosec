@@ -1,0 +1,80 @@
+clrmamepro (
+	name "Commodore C64 - Games - Boulder Dash - [P00]"
+	description "Commodore C64 - Games - Boulder Dash - [P00] (TOSEC-v2012-11-03)"
+	category "Commodore C64 - Games - Boulder Dash - [P00]"
+	version 2012-11-03
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)[cr Nova]"
+	description "Boulder Dash (1984)(First Star Software)[cr Nova]"
+	rom ( name "Boulder Dash (1984)(First Star Software)[cr Nova].p00" size 16283 crc 16f374d2 md5 dd4eb338e200ebe618b38d8937f1e970 sha1 1b209024700819aa1739143ccd7e5da977b4ebcd )
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)[cr Nova][a]"
+	description "Boulder Dash (1984)(First Star Software)[cr Nova][a]"
+	rom ( name "Boulder Dash (1984)(First Star Software)[cr Nova][a].p00" size 16283 crc 02f865f4 md5 8f6a394e03751b1f1df9386d330ecb6b sha1 c4f03f01c9e73ae01a47703a7838c38c2d5fe678 )
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)[h Nova]"
+	description "Boulder Dash (1984)(First Star Software)[h Nova]"
+	rom ( name "Boulder Dash (1984)(First Star Software)[h Nova].p00" size 16283 crc 5f9b7423 md5 11ccbae60ac9555171c50c0b98d46b39 sha1 3e1203cb7da2cc5cb218302858691d9605d18ffd )
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)[h Mr. M]"
+	description "Boulder Dash 01 (1984)(First Star Software)[h Mr. M]"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software)[h Mr. M].p00" size 16476 crc 675623d3 md5 4672e8b446a0406f408140a9098de4fa sha1 98568cd5c5368b53480598858b0fd444c9a92503 )
+)
+
+game (
+	name "Boulder Dash 06 (1986)(First Star Software)(PD)"
+	description "Boulder Dash 06 (1986)(First Star Software)(PD)"
+	rom ( name "Boulder Dash 06 (1986)(First Star Software)(PD).p00" size 24860 crc b76fa13e md5 3d3e8e6485ec79aa0004c4b5db661ff4 sha1 ca3027d49eab66518424ae895877cbf12e34b8b4 )
+)
+
+game (
+	name "Boulder Dash 08 (1986)(First Star Software)[h Zombie]"
+	description "Boulder Dash 08 (1986)(First Star Software)[h Zombie]"
+	rom ( name "Boulder Dash 08 (1986)(First Star Software)[h Zombie].p00" size 24860 crc 34986dda md5 f424e47062ed91fa78c34b2f19c1d44b sha1 f98e26924afee6bf0c04a4d712354d9aad428947 )
+)
+
+game (
+	name "Boulder Dash Brutalo (19xx)(-)[h Sub7]"
+	description "Boulder Dash Brutalo (19xx)(-)[h Sub7]"
+	rom ( name "Boulder Dash Brutalo (19xx)(-)[h Sub7].p00" size 24719 crc 92f6ab73 md5 8ac98639a3ee0bd092459dd8e881bbe9 sha1 a629ce8e1456408edda75eb3610ba6be988995dd )
+)
+
+game (
+	name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte]"
+	description "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte]"
+	rom ( name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte].p00" size 22569 crc 17aee0f8 md5 5fee62553b93e2d51ef012745a58758b sha1 88c073905c15b52abf96d37935b294f1a1e95369 )
+)
+
+game (
+	name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte][a]"
+	description "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte][a]"
+	rom ( name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte][a].p00" size 22569 crc 6d922687 md5 a822e13c1ed0df2f07ba4cdc3754b3df sha1 11504011812ba127fbcea3d220a5e749ea9ec0e9 )
+)
+
+game (
+	name "No One's 16 Game Boulderdash (1983)(No One)"
+	description "No One's 16 Game Boulderdash (1983)(No One)"
+	rom ( name "No One's 16 Game Boulderdash (1983)(No One).p00" size 45022 crc 8ca3df69 md5 b0b11a370b70b07906dab4da7b318f34 sha1 e03ed8621e772d02cbae153ae64ff8ba2c7e8b8c )
+)
+
+game (
+	name "No One's 16 Game Boulderdash (1983)(No One)[a]"
+	description "No One's 16 Game Boulderdash (1983)(No One)[a]"
+	rom ( name "No One's 16 Game Boulderdash (1983)(No One)[a].p00" size 45022 crc 96db8692 md5 51140048834c0b3155f0d0233f1b3bfe sha1 a7dad76f4cbdd5c4c70e864dec888a4257e28a21 )
+)
+
+game (
+	name "Super Boulder Dash (1984)(First Star Software)"
+	description "Super Boulder Dash (1984)(First Star Software)"
+	rom ( name "Super Boulder Dash (1984)(First Star Software).p00" size 17916 crc fbffae8f md5 06891f4dd2b19c8a4d40b2bb32b2fb60 sha1 ba448794a0e1689a6867ce920279ee566a2ee1b1 )
+)
+

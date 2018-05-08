@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Atari 5200 - Applications"
+	description "Atari 5200 - Applications (TOSEC-v2005-10-05)"
+	category "Atari 5200 - Applications"
+	version 2005-10-05
+	author "Belgarath - Cassiel"
+)
+
+game (
+	name "Diagnostic Cartridge v2.3 (1983)(Atari)"
+	description "Diagnostic Cartridge v2.3 (1983)(Atari)"
+	rom ( name "Diagnostic Cartridge v2.3 (1983)(Atari).bin" size 16384 crc ce07d9ad md5 32a6d0de4f1728dee163eb2d4b3f49f1 )
+)
+
+game (
+	name "PAM - Pete's Test (1982)(Atari)"
+	description "PAM - Pete's Test (1982)(Atari)"
+	rom ( name "PAM - Pete's Test (1982)(Atari).bin" size 8192 crc 28278cd6 md5 ccd35e9ea3b3c5824214d88a6d8d8f7e )
+)
+
+game (
+	name "PAM - Pete's Test (1982)(Atari)[o]"
+	description "PAM - Pete's Test (1982)(Atari)[o]"
+	rom ( name "PAM - Pete's Test (1982)(Atari)[o].bin" size 16384 crc e9f826bd md5 840b08d6b25f8040f167c410a0c3aded )
+)
+
+game (
+	name "PAM Diag v2.0 (1982)(Atari)"
+	description "PAM Diag v2.0 (1982)(Atari)"
+	rom ( name "PAM Diag v2.0 (1982)(Atari).bin" size 16384 crc e8b130c4 md5 78ccbcbb6b4d17b749ebb012e4878008 )
+)
+
+game (
+	name "PAM SALT v1.0 (1982)(Atari)"
+	description "PAM SALT v1.0 (1982)(Atari)"
+	rom ( name "PAM SALT v1.0 (1982)(Atari).bin" size 8192 crc 7ea86e87 md5 21ab49f7c7e245c1e12e606641788a45 )
+)
+
+game (
+	name "PAM SALT v1.0 (1982)(Atari)[o]"
+	description "PAM SALT v1.0 (1982)(Atari)[o]"
+	rom ( name "PAM SALT v1.0 (1982)(Atari)[o].bin" size 16384 crc a3a8850a md5 ec0a5a88fdf1d0d9f17c3d55a2ba1ef1 )
+)

@@ -1,0 +1,14 @@
+clrmamepro (
+	name "MSX MSX2+ - Applications"
+	description "MSX MSX2+ - Applications (TOSEC-v2012-04-15)"
+	category "MSX MSX2+ - Applications"
+	version 2012-04-15
+	author "XakMSX - VG8020 - jugaor - Grendel"
+)
+
+game (
+	name "EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS]"
+	description "EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS]"
+	rom ( name "EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS].dsk" size 737280 crc 3d125143 md5 2d3e476b4ead534a48bcfb21c964c557 sha1 b87dafb0bddd3134d3c08cbcd697b954c1870587 )
+)
+

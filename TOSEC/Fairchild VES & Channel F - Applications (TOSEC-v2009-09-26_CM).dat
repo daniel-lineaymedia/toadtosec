@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Fairchild VES & Channel F - Applications"
+	description "Fairchild VES & Channel F - Applications (TOSEC-v2009-09-26)"
+	category "Fairchild VES & Channel F - Applications"
+	version 2009-09-26
+	author "Cassiel"
+)
+
+game (
+	name "Test Controls (200x)(e5frog)(PD)"
+	description "Test Controls (200x)(e5frog)(PD)"
+	rom ( name "Test Controls (200x)(e5frog)(PD).bin" size 2048 crc bc3cfdcf md5 f680225a38c3c4a66e30dbca8d351407 )
+)
+

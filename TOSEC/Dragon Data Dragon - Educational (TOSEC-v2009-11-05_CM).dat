@@ -1,0 +1,140 @@
+clrmamepro (
+	name "Dragon Data Dragon - Educational"
+	description "Dragon Data Dragon - Educational (TOSEC-v2009-11-05)"
+	category "Dragon Data Dragon - Educational"
+	version 2009-11-05
+	author "Eldio - Cassiel"
+)
+
+game (
+	name "BASIC Tutorial Advanced - Part 1 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Advanced - Part 1 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Advanced - Part 1 (1983)(Ampalsoft).cas" size 30297 crc 37c2df6d md5 3c9483dd7eb6a041e543a48c53bdd185 )
+)
+
+game (
+	name "BASIC Tutorial Advanced - Part 2 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Advanced - Part 2 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Advanced - Part 2 (1983)(Ampalsoft).cas" size 30019 crc bf1f1f65 md5 f0c8063e160f1c6c81915ccf0dfb1b46 )
+)
+
+game (
+	name "BASIC Tutorial Advanced - Part 3 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Advanced - Part 3 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Advanced - Part 3 (1983)(Ampalsoft).cas" size 25489 crc daee7ca3 md5 81fa9515dff53ce7439c9075053fc924 )
+)
+
+game (
+	name "BASIC Tutorial Advanced - Practical (1983)(Ampalsoft)"
+	description "BASIC Tutorial Advanced - Practical (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Advanced - Practical (1983)(Ampalsoft).cas" size 21694 crc b6d93241 md5 f0f69b6d5163d61eba366dc7a8520b07 )
+)
+
+game (
+	name "BASIC Tutorial Beginners - Part 1 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Beginners - Part 1 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Beginners - Part 1 (1983)(Ampalsoft).cas" size 26603 crc f58cfebb md5 d70685b53eaefc47a6870dabe41677df )
+)
+
+game (
+	name "BASIC Tutorial Beginners - Part 2 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Beginners - Part 2 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Beginners - Part 2 (1983)(Ampalsoft).cas" size 23726 crc 4982ecbf md5 289839832b1ca07f8c1d791c56f19d7e )
+)
+
+game (
+	name "BASIC Tutorial Beginners - Practical 1 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Beginners - Practical 1 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Beginners - Practical 1 (1983)(Ampalsoft).cas" size 16038 crc 7ef751f8 md5 e38c867b8d1602489c10c74ad7dfe1ab )
+)
+
+game (
+	name "BASIC Tutorial Beginners - Practical 2 (1983)(Ampalsoft)"
+	description "BASIC Tutorial Beginners - Practical 2 (1983)(Ampalsoft)"
+	rom ( name "BASIC Tutorial Beginners - Practical 2 (1983)(Ampalsoft).cas" size 22253 crc 6d1db922 md5 55f191faa4e84193ebfe9ae895343bc9 )
+)
+
+game (
+	name "Computer Studies - Part 1 (1984)(Ampalsoft)"
+	description "Computer Studies - Part 1 (1984)(Ampalsoft)"
+	rom ( name "Computer Studies - Part 1 (1984)(Ampalsoft).cas" size 30217 crc 73b6cf5a md5 b6b9c6940718aedb6efd1f36fd832faf )
+)
+
+game (
+	name "Computer Studies - Part 2 (1984)(Ampalsoft)"
+	description "Computer Studies - Part 2 (1984)(Ampalsoft)"
+	rom ( name "Computer Studies - Part 2 (1984)(Ampalsoft).cas" size 54621 crc cc9e9602 md5 246afd479bd779196f21deb092e1406a )
+)
+
+game (
+	name "Computer Studies - Part 3 (1984)(Ampalsoft)"
+	description "Computer Studies - Part 3 (1984)(Ampalsoft)"
+	rom ( name "Computer Studies - Part 3 (1984)(Ampalsoft).cas" size 60541 crc aeb1c943 md5 fb188288ed9ec473e46e106e171fffcf )
+)
+
+game (
+	name "Computer Studies - Part 4 (1984)(Ampalsoft)"
+	description "Computer Studies - Part 4 (1984)(Ampalsoft)"
+	rom ( name "Computer Studies - Part 4 (1984)(Ampalsoft).cas" size 50785 crc f9338430 md5 8e1e4b09daefa89775c733497d0aab10 )
+)
+
+game (
+	name "Maths 0 Level Revision Course - Arithmetic 1 (1983)(Ampalsoft)"
+	description "Maths 0 Level Revision Course - Arithmetic 1 (1983)(Ampalsoft)"
+	rom ( name "Maths 0 Level Revision Course - Arithmetic 1 (1983)(Ampalsoft).cas" size 25490 crc 931e23c4 md5 9dcf243c6dd17db52dc8d9b742c83d43 )
+)
+
+game (
+	name "Maths 0 Level Revision Course - Arithmetic 2 & Calculus 2 (1983)(Ampalsoft)"
+	description "Maths 0 Level Revision Course - Arithmetic 2 & Calculus 2 (1983)(Ampalsoft)"
+	rom ( name "Maths 0 Level Revision Course - Arithmetic 2 & Calculus 2 (1983)(Ampalsoft).cas" size 25639 crc f4675d85 md5 1f432ef666226bfa3a04bb25d056647e )
+)
+
+game (
+	name "Maths 0 Level Revision Course - Calculus 1 (1983)(Ampalsoft)"
+	description "Maths 0 Level Revision Course - Calculus 1 (1983)(Ampalsoft)"
+	rom ( name "Maths 0 Level Revision Course - Calculus 1 (1983)(Ampalsoft).cas" size 25636 crc 2c9f170a md5 532fe68f6398fe7afe1cb93ecefe2d30 )
+)
+
+game (
+	name "Maths 0 Level Revision Course - Construction (1983)(Ampalsoft)"
+	description "Maths 0 Level Revision Course - Construction (1983)(Ampalsoft)"
+	rom ( name "Maths 0 Level Revision Course - Construction (1983)(Ampalsoft).cas" size 23604 crc 406bf2b0 md5 67cecd7d45441a31880997bc4b29d7da )
+)
+
+game (
+	name "Maths Level 2 - Excercises 1 to 4 (1983)(Ampalsoft)"
+	description "Maths Level 2 - Excercises 1 to 4 (1983)(Ampalsoft)"
+	rom ( name "Maths Level 2 - Excercises 1 to 4 (1983)(Ampalsoft).cas" size 24272 crc c7668680 md5 9238f922242334d9381c00fbf61d071e )
+)
+
+game (
+	name "Maths Level 2 - Excercises 14 to 19 (1983)(Ampalsoft)"
+	description "Maths Level 2 - Excercises 14 to 19 (1983)(Ampalsoft)"
+	rom ( name "Maths Level 2 - Excercises 14 to 19 (1983)(Ampalsoft).cas" size 22274 crc d671aeef md5 85a5d29722033dd9f3f4cf5cab72efcc )
+)
+
+game (
+	name "Maths Level 2 - Excercises 5 to 8 (1983)(Ampalsoft)"
+	description "Maths Level 2 - Excercises 5 to 8 (1983)(Ampalsoft)"
+	rom ( name "Maths Level 2 - Excercises 5 to 8 (1983)(Ampalsoft).cas" size 23124 crc 2f150efb md5 1cbab8b0e9be68dcd00520b980e2c38e )
+)
+
+game (
+	name "Maths Level 2 - Excercises 9 to 13 (1983)(Ampalsoft)"
+	description "Maths Level 2 - Excercises 9 to 13 (1983)(Ampalsoft)"
+	rom ( name "Maths Level 2 - Excercises 9 to 13 (1983)(Ampalsoft).cas" size 24450 crc 16d2b4f8 md5 2c4f97a265c9ed15f872c9544930bbbe )
+)
+
+game (
+	name "Monster Maths (198x)(Shards Software)"
+	description "Monster Maths (198x)(Shards Software)"
+	rom ( name "Monster Maths (198x)(Shards Software).cas" size 18994 crc 4e8b05df md5 d35c1d47bec006b9e9f30868e41f170d )
+)
+
+game (
+	name "Touch Typing Tutor (1984)(Microdeal)"
+	description "Touch Typing Tutor (1984)(Microdeal)"
+	rom ( name "Touch Typing Tutor (1984)(Microdeal).cas" size 17451 crc ae67715b md5 cc337ca5767d0db8d919147cd41014d5 )
+)
+

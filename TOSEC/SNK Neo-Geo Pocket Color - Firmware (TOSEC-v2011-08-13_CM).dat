@@ -1,0 +1,14 @@
+clrmamepro (
+	name "SNK Neo-Geo Pocket Color - Firmware"
+	description "SNK Neo-Geo Pocket Color - Firmware (TOSEC-v2011-08-13)"
+	category "SNK Neo-Geo Pocket Color - Firmware"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja)"
+	description "SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja)"
+	rom ( name "SNK Neo-Geo Pocket Color BIOS (1999)(SNK)(en-ja).bin" size 65536 crc 6eeb6f40 md5 3655aacebb43a963607d4cf821fc1301 sha1 edc13192054a59be49c6d55f83b70e2510968e86 )
+)
+

@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Altos Computer Systems ACS-8000 - Applications"
+	description "Altos Computer Systems ACS-8000 - Applications (TOSEC-v2010-02-10)"
+	category "Altos Computer Systems ACS-8000 - Applications"
+	version 2010-02-10
+	author "TKaos"
+)
+
+game (
+	name "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[DMA][DD]"
+	description "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[DMA][DD]"
+	rom ( name "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[DMA][DD].td0" size 88237 crc 6d1663c2 md5 72e8c154dfffc1e9c9f90aa99236c065 )
+)
+
+game (
+	name "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[non DMA][SD]"
+	description "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[non DMA][SD]"
+	rom ( name "Altos Diagnostic (19xx)(Altos Computer Systems)(Serial No. ADX-2596)[non DMA][SD].td0" size 43028 crc eccf1efa md5 d25d43484bee3faa87037ecc13886be2 )
+)
+
+game (
+	name "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[DMA][DD]"
+	description "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[DMA][DD]"
+	rom ( name "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[DMA][DD].td0" size 190284 crc aa5d0a8e md5 79e24cede754e2625267484067cf1b87 )
+)
+
+game (
+	name "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[non DMA][SD]"
+	description "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[non DMA][SD]"
+	rom ( name "CP-M v2.21 (19xx)(Digital Research)(Serial No. 25-1489)[non DMA][SD].td0" size 165124 crc aa086940 md5 4c8b605f9a8bd75dcc9d287ad2979f72 )
+)

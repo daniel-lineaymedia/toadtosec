@@ -1,0 +1,15 @@
+clrmamepro (
+	name "Fujitsu FM Towns - Applications - [BIN]"
+	description "Fujitsu FM Towns - Applications - [BIN] (TOSEC-v2011-02-07)"
+	category "Fujitsu FM Towns - Applications - [BIN]"
+	version 2011-02-07
+	author "Aral"
+)
+
+
+game (
+	name "Music Pro-Towns (1989)(Musical Plan)(JP)"
+	description "Music Pro-Towns (1989)(Musical Plan)(JP)"
+	rom ( name "Music Pro-Towns (1989)(Musical Plan)(JP).bin" size 1261568 crc f5f61d98 md5 2ece6bf7019f6aba90c4d4df06eee7f3 sha1 2abb5e9042d8aae0480b551568ac2f8053126209 )
+)
+

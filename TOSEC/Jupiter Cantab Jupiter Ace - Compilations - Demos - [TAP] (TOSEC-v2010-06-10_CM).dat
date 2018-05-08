@@ -1,0 +1,37 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Demos - [TAP]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 1 of 5)[banner][3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 1 of 5)[banner][3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 1 of 5)[banner][3K].tap" size 993 crc 9a416b66 md5 6a17a2800203f8200e3fcfd22ea2b66a )
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 2 of 5)[lunar lander][3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 2 of 5)[lunar lander][3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 2 of 5)[lunar lander][3K].tap" size 823 crc e9298f7d md5 126777a669b146c7a44def210a330006 )
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 3 of 5)[music][3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 3 of 5)[music][3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 3 of 5)[music][3K].tap" size 791 crc e88b1ffa md5 ca0ed8d0a1ef96cc028dc104b9d0fe14 )
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 4 of 5)[stack demonstration][3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 4 of 5)[stack demonstration][3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 4 of 5)[stack demonstration][3K].tap" size 528 crc c540cba5 md5 9148ae4444092238c9ab3bedadf68d76 )
+)
+
+game (
+	name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 5 of 5)[worms][3K]"
+	description "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 5 of 5)[worms][3K]"
+	rom ( name "Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 5 of 5)[worms][3K].tap" size 937 crc 1b0ea860 md5 27d0882e24178ae0d404ec35e391ab01 )
+)

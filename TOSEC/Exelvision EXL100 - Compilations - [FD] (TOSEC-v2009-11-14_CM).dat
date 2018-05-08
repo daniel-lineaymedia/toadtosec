@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Exelvision EXL100 - Compilations - [FD]"
+	description "Exelvision EXL100 - Compilations - [FD] (TOSEC-v2009-11-14)"
+	category "Exelvision EXL100 - Compilations - [FD]"
+	version 2009-11-14
+	author "TKaos"
+)
+
+game (
+	name "Jeux (198x)(Exelvision)(FR)"
+	description "Jeux (198x)(Exelvision)(FR)"
+	rom ( name "Jeux (198x)(Exelvision)(FR).fd" size 655360 crc 9c7fdb39 md5 c45c1d5695b8dd0c2417149846c66e79 )
+)

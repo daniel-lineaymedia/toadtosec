@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Emerson Arcadia 2001 - Demos"
+	description "Emerson Arcadia 2001 - Demos (TOSEC-v2011-02-22)"
+	category "Emerson Arcadia 2001 - Demos"
+	version 2011-02-22
+	author "Cassiel"
+)
+
+game (
+	name "Colours Demo (19xx)(-)(PD)"
+	description "Colours Demo (19xx)(-)(PD)"
+	rom ( name "Colours Demo (19xx)(-)(PD).bin" size 2048 crc b191b1dc md5 6496e13928b32726c042c73912f3a663 sha1 2339e68db23e2257a07616e340085d42aaa5ebdb )
+)
+

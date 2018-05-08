@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Sord M5 - Applications - [CAS]"
+	description "Sord M5 - Applications - [CAS] (TOSEC-v2009-09-01)"
+	category "Sord M5 - Applications - [CAS]"
+	version 2009-09-01
+	author "Cid - mek1"
+)
+
+game (
+	name "Biorhythm Diagnosis (19xx)(-)[chain]"
+	description "Biorhythm Diagnosis (19xx)(-)[chain]"
+	rom ( name "Biorhythm Diagnosis (19xx)(-)[chain].cas" size 19071 crc 7fdf95ff md5 2ea96ba784648d98c0b7774691aba52f )
+)
+
+game (
+	name "Graphics Editor (19xx)(-)[tape]"
+	description "Graphics Editor (19xx)(-)[tape]"
+	rom ( name "Graphics Editor (19xx)(-)[tape].cas" size 3417 crc c57f6d10 md5 80b609f8cf2b34756982381da7799291 )
+)
+
+game (
+	name "Music Tone (19xx)(-)[chain]"
+	description "Music Tone (19xx)(-)[chain]"
+	rom ( name "Music Tone (19xx)(-)[chain].cas" size 3423 crc 296671e0 md5 60b35c3705b2cf2137baedcaeaf27fd5 )
+)
+
+game (
+	name "TV Adjust (19xx)(-)[tape]"
+	description "TV Adjust (19xx)(-)[tape]"
+	rom ( name "TV Adjust (19xx)(-)[tape].cas" size 1345 crc 6b2980fc md5 fe17bb91211dc75ea52fe813e4c7f01c )
+)

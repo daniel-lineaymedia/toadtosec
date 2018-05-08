@@ -1,0 +1,379 @@
+clrmamepro (
+	name "Acorn BBC - Educational - [SSD]"
+	description "Acorn BBC - Educational - [SSD] (TOSEC-v2009-10-24)"
+	category "Acorn BBC - Educational - [SSD]"
+	version 2009-10-24
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "8-Bit Software - Hints and Tips (19xx)(8-Bit)"
+	description "8-Bit Software - Hints and Tips (19xx)(8-Bit)"
+	rom ( name "8-Bit Software - Hints and Tips (19xx)(8-Bit).ssd" size 204800 crc ee4fa983 md5 1fda5b8a17ac744ef6f6adbf4ad86863 )
+)
+
+game (
+	name "Caption - Work Disk 1 (1990)(NCET)"
+	description "Caption - Work Disk 1 (1990)(NCET)"
+	rom ( name "Caption - Work Disk 1 (1990)(NCET).ssd" size 71168 crc 5e4c742f md5 a2adc2c54066f9f60d16c3bcb84398d8 )
+)
+
+game (
+	name "Caption - Work Disk 2 (1990)(NCET)"
+	description "Caption - Work Disk 2 (1990)(NCET)"
+	rom ( name "Caption - Work Disk 2 (1990)(NCET).ssd" size 70400 crc 34a1aff1 md5 f8bbb444c3b349986dacc2979227aa0d )
+)
+
+game (
+	name "Caption - Work Disk 3 (1990)(NCET)"
+	description "Caption - Work Disk 3 (1990)(NCET)"
+	rom ( name "Caption - Work Disk 3 (1990)(NCET).ssd" size 64512 crc 5cd77a9c md5 7e9b0f8a7bcb4f3e82adab084f63a979 )
+)
+
+game (
+	name "Caption v3.02 (1990)(NCET)"
+	description "Caption v3.02 (1990)(NCET)"
+	rom ( name "Caption v3.02 (1990)(NCET).ssd" size 101376 crc d9ed72cb md5 57de8fa1d36f403d0bec3373bf1573fa )
+)
+
+game (
+	name "Ceefax in Grade II Braille v1C (1985)(University of Birmingham)"
+	description "Ceefax in Grade II Braille v1C (1985)(University of Birmingham)"
+	rom ( name "Ceefax in Grade II Braille v1C (1985)(University of Birmingham).ssd" size 28928 crc eb66c06e md5 10e03c581c4eaae0890ee8296dcc162b )
+)
+
+game (
+	name "CeeFAX Lightpen Notes (19xx)(-)[h 8-Bit]"
+	description "CeeFAX Lightpen Notes (19xx)(-)[h 8-Bit]"
+	rom ( name "CeeFAX Lightpen Notes (19xx)(-)[h 8-Bit].ssd" size 204800 crc b4cf250d md5 7aba3b0d144eb4d472ad58c49d74c001 )
+)
+
+game (
+	name "CeeFAX Mouse Notes (19xx)(-)[h 8-Bit]"
+	description "CeeFAX Mouse Notes (19xx)(-)[h 8-Bit]"
+	rom ( name "CeeFAX Mouse Notes (19xx)(-)[h 8-Bit].ssd" size 204800 crc 843ab96e md5 967083fa73ebbd2528e7cc61b415bdf0 )
+)
+
+game (
+	name "CeeFAX Opcodes Course - DFS (19xx)(-)[h 8-Bit]"
+	description "CeeFAX Opcodes Course - DFS (19xx)(-)[h 8-Bit]"
+	rom ( name "CeeFAX Opcodes Course - DFS (19xx)(-)[h 8-Bit].ssd" size 409600 crc e274b612 md5 91986a1004af37289c483680dded54d2 )
+)
+
+game (
+	name "CeeFAX SWR Notes (19xx)(-)[h 8-Bit]"
+	description "CeeFAX SWR Notes (19xx)(-)[h 8-Bit]"
+	rom ( name "CeeFAX SWR Notes (19xx)(-)[h 8-Bit].ssd" size 204800 crc 7d9ac980 md5 15f897ae13a8fb75609c1f39d1d503ad )
+)
+
+game (
+	name "Complete Cocktail Maker, The (19xx)(Acornsoft)[h Olsen]"
+	description "Complete Cocktail Maker, The (19xx)(Acornsoft)[h Olsen]"
+	rom ( name "Complete Cocktail Maker, The (19xx)(Acornsoft)[h Olsen].ssd" size 24832 crc 42c25a33 md5 9c84c5b53135e2b4a18cfeb9829a91ab )
+)
+
+game (
+	name "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy)"
+	description "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy)"
+	rom ( name "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy).ssd" size 87296 crc b6a728de md5 8ac0515db26db576ba8d1d8fe6cb9c55 )
+)
+
+game (
+	name "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy)[a]"
+	description "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy)[a]"
+	rom ( name "Emergency First Aid - Cardiopulmonary Resuscitation (1986)(Rennison, Andy)[a].ssd" size 87296 crc d2eb5d93 md5 5df912dbd9a514a3e39158e244584ffb )
+)
+
+game (
+	name "Fun School III (19xx)(-)"
+	description "Fun School III (19xx)(-)"
+	rom ( name "Fun School III (19xx)(-).ssd" size 124928 crc 79d748ea md5 4fb84eec1955bda1660a1440892bfdd3 )
+)
+
+game (
+	name "Griffin Basic Mathematics (19xx)(Griffin)"
+	description "Griffin Basic Mathematics (19xx)(Griffin)"
+	rom ( name "Griffin Basic Mathematics (19xx)(Griffin).ssd" size 189184 crc 5ac36767 md5 fd072dcf55a5bdb9bb75638a8e5d410e )
+)
+
+game (
+	name "Griffin Basic Mathematics (19xx)(Griffin)[a]"
+	description "Griffin Basic Mathematics (19xx)(Griffin)[a]"
+	rom ( name "Griffin Basic Mathematics (19xx)(Griffin)[a].ssd" size 189184 crc ef3f12cd md5 de734f04fc082adac7c8249cc568cea5 )
+)
+
+game (
+	name "Hacker Jargon (1985)(8-Bit)(Disk 4 of 4)"
+	description "Hacker Jargon (1985)(8-Bit)(Disk 4 of 4)"
+	rom ( name "Hacker Jargon (1985)(8-Bit)(Disk 4 of 4).ssd" size 204800 crc 82b29877 md5 b81af65955c84cb7dd2d87513c475587 )
+)
+
+game (
+	name "Help Yourself - Maths (19xx)(-)"
+	description "Help Yourself - Maths (19xx)(-)"
+	rom ( name "Help Yourself - Maths (19xx)(-).ssd" size 89344 crc ee00cdfc md5 1b15183dd4d6ea3ab4740bd7205aee10 )
+)
+
+game (
+	name "Keyboard Skills Course (19xx)(-)"
+	description "Keyboard Skills Course (19xx)(-)"
+	rom ( name "Keyboard Skills Course (19xx)(-).ssd" size 77824 crc 454a1631 md5 b01bd82627776c2c5c2716384baa3c1c )
+)
+
+game (
+	name "Knitwear Designer (1987)(Database Publications)"
+	description "Knitwear Designer (1987)(Database Publications)"
+	rom ( name "Knitwear Designer (1987)(Database Publications).ssd" size 50688 crc acf253be md5 95c7b8fa4d27546f0a1734d88735075d )
+)
+
+game (
+	name "Knitwear Designer (1987)(Database Publications)[a]"
+	description "Knitwear Designer (1987)(Database Publications)[a]"
+	rom ( name "Knitwear Designer (1987)(Database Publications)[a].ssd" size 50688 crc b978c60f md5 481d5448983f8a38029f59a27c9535fb )
+)
+
+game (
+	name "L - A Mathematical Adventure (1984)(ATM)"
+	description "L - A Mathematical Adventure (1984)(ATM)"
+	rom ( name "L - A Mathematical Adventure (1984)(ATM).ssd" size 204800 crc c997a276 md5 4b967af2c5af456f9bdc72b0e4d5f949 )
+)
+
+game (
+	name "L - A Mathematical Adventure (1984)(ATM)[h TSTH]"
+	description "L - A Mathematical Adventure (1984)(ATM)[h TSTH]"
+	rom ( name "L - A Mathematical Adventure (1984)(ATM)[h TSTH].ssd" size 78080 crc 4b5e3cd1 md5 c02a18a5746e8ecb2774823c3e56547e )
+)
+
+game (
+	name "Let's Count (1984)(Acornsoft)[a][COUNT]"
+	description "Let's Count (1984)(Acornsoft)[a][COUNT]"
+	rom ( name "Let's Count (1984)(Acornsoft)[a][COUNT].ssd" size 11264 crc 331ffee2 md5 83cf7bb1824262a8e0d5c44f6c1c3b50 )
+)
+
+game (
+	name "Let's Count (1984)(Acornsoft)[COUNT]"
+	description "Let's Count (1984)(Acornsoft)[COUNT]"
+	rom ( name "Let's Count (1984)(Acornsoft)[COUNT].ssd" size 11264 crc 96c0b899 md5 287f7796ff7ff06255ed26f1b9f29470 )
+)
+
+game (
+	name "Let's Count (1984)(Acornsoft)[h TSTH]"
+	description "Let's Count (1984)(Acornsoft)[h TSTH]"
+	rom ( name "Let's Count (1984)(Acornsoft)[h TSTH].ssd" size 11520 crc aaa623c5 md5 d299692a10511e3fc4d1a64a230bf07d )
+)
+
+game (
+	name "Linkword French (1983)(Acornsoft)"
+	description "Linkword French (1983)(Acornsoft)"
+	rom ( name "Linkword French (1983)(Acornsoft).ssd" size 169728 crc 6b2a8617 md5 76b129157a95518790ce58579c92f44b )
+)
+
+game (
+	name "Mathemagical Adventure, A (1984)(ATM)"
+	description "Mathemagical Adventure, A (1984)(ATM)"
+	rom ( name "Mathemagical Adventure, A (1984)(ATM).ssd" size 77568 crc 7564f6bc md5 48371d25348760eab5ca68287415243e )
+)
+
+game (
+	name "Mathemagical Adventure, A (1984)(ATM)[a]"
+	description "Mathemagical Adventure, A (1984)(ATM)[a]"
+	rom ( name "Mathemagical Adventure, A (1984)(ATM)[a].ssd" size 77568 crc 6f8df630 md5 ec9cd1af65ce162b1e48d3afa4d6d6bc )
+)
+
+game (
+	name "Mr. T's - Alphabet Games - Drawing Letters (1983)(Ebury)"
+	description "Mr. T's - Alphabet Games - Drawing Letters (1983)(Ebury)"
+	rom ( name "Mr. T's - Alphabet Games - Drawing Letters (1983)(Ebury).ssd" size 28672 crc a16a783a md5 96d04c23e5c44b860591de2bb99d8edc )
+)
+
+game (
+	name "Mr. T's - Alphabet Games - Letter Factory (1983)(Ebury)"
+	description "Mr. T's - Alphabet Games - Letter Factory (1983)(Ebury)"
+	rom ( name "Mr. T's - Alphabet Games - Letter Factory (1983)(Ebury).ssd" size 45824 crc d69505ca md5 320e3c0aec66c44c6d941d2aee700191 )
+)
+
+game (
+	name "Mr. T's - In the Mystery Maze - Explore (1984)(Ebury)"
+	description "Mr. T's - In the Mystery Maze - Explore (1984)(Ebury)"
+	rom ( name "Mr. T's - In the Mystery Maze - Explore (1984)(Ebury).ssd" size 29952 crc 91c459c4 md5 70c71707565ae6bee4d69efa35bea6da )
+)
+
+game (
+	name "Mr. T's - In the Mystery Maze - Pathfinder (1984)(Ebury)"
+	description "Mr. T's - In the Mystery Maze - Pathfinder (1984)(Ebury)"
+	rom ( name "Mr. T's - In the Mystery Maze - Pathfinder (1984)(Ebury).ssd" size 29184 crc 21078198 md5 c4bb20123e30583e9de8cb58657fea28 )
+)
+
+game (
+	name "Mr. T's - Measuring Games - Growing (19xx)(Ebury)"
+	description "Mr. T's - Measuring Games - Growing (19xx)(Ebury)"
+	rom ( name "Mr. T's - Measuring Games - Growing (19xx)(Ebury).ssd" size 42240 crc 494b5358 md5 d163fb3ddf4b0de1be8ff23838c9353a )
+)
+
+game (
+	name "Mr. T's - Measuring Games - Measuring (19xx)(Ebury)"
+	description "Mr. T's - Measuring Games - Measuring (19xx)(Ebury)"
+	rom ( name "Mr. T's - Measuring Games - Measuring (19xx)(Ebury).ssd" size 33280 crc dd85c4c5 md5 fcf6696eb4f63ba0c8e77b481c34a4a6 )
+)
+
+game (
+	name "Mr. T's - Money Box - Money (19xx)(Ebury)"
+	description "Mr. T's - Money Box - Money (19xx)(Ebury)"
+	rom ( name "Mr. T's - Money Box - Money (19xx)(Ebury).ssd" size 20992 crc 69e37957 md5 0c790870a7dc245f5776a0d806d73832 )
+)
+
+game (
+	name "Mr. T's - Money Box - Money Box (19xx)(Ebury)"
+	description "Mr. T's - Money Box - Money Box (19xx)(Ebury)"
+	rom ( name "Mr. T's - Money Box - Money Box (19xx)(Ebury).ssd" size 20992 crc 976b08fc md5 3ad34b0ca04dfa72bb4940a3734b69da )
+)
+
+game (
+	name "Mr. T's - Number Games - Elephant (19xx)(Ebury)"
+	description "Mr. T's - Number Games - Elephant (19xx)(Ebury)"
+	rom ( name "Mr. T's - Number Games - Elephant (19xx)(Ebury).ssd" size 38912 crc cfac551a md5 3daf629235152dbea100ae0f2b415ef8 )
+)
+
+game (
+	name "Mr. T's - Number Games - Lady Bug (19xx)(Ebury)"
+	description "Mr. T's - Number Games - Lady Bug (19xx)(Ebury)"
+	rom ( name "Mr. T's - Number Games - Lady Bug (19xx)(Ebury).ssd" size 38144 crc f3d1c756 md5 bfae8595d779e6c815e13ec22a258f03 )
+)
+
+game (
+	name "Mr. T's - Shape Games - Jigsaw (19xx)(Ebury)"
+	description "Mr. T's - Shape Games - Jigsaw (19xx)(Ebury)"
+	rom ( name "Mr. T's - Shape Games - Jigsaw (19xx)(Ebury).ssd" size 31744 crc 84d9f9fb md5 a8edb4ba52b5af4138b32ea150a5665f )
+)
+
+game (
+	name "Mr. T's - Shape Games - Shapes (19xx)(Ebury)"
+	description "Mr. T's - Shape Games - Shapes (19xx)(Ebury)"
+	rom ( name "Mr. T's - Shape Games - Shapes (19xx)(Ebury).ssd" size 29952 crc 9f8cb926 md5 1977ef21022b93a0b381feec34dbcfee )
+)
+
+game (
+	name "Periodic Table, The (19xx)(-)[a][CHEMIST]"
+	description "Periodic Table, The (19xx)(-)[a][CHEMIST]"
+	rom ( name "Periodic Table, The (19xx)(-)[a][CHEMIST].ssd" size 11776 crc 7cbf2dce md5 38edbbdbf5cf53611e479b5685501630 )
+)
+
+game (
+	name "Periodic Table, The (19xx)(-)[CHEMIST]"
+	description "Periodic Table, The (19xx)(-)[CHEMIST]"
+	rom ( name "Periodic Table, The (19xx)(-)[CHEMIST].ssd" size 11776 crc 4a5994ca md5 6e00ad19b9651a861ec8db04a93bc936 )
+)
+
+game (
+	name "Physics (19xx)(Harley, Andrew)[PHYSICS]"
+	description "Physics (19xx)(Harley, Andrew)[PHYSICS]"
+	rom ( name "Physics (19xx)(Harley, Andrew)[PHYSICS].ssd" size 5120 crc a934a791 md5 fcecc194ad72dc6f195f3bbbe3ad1243 )
+)
+
+game (
+	name "Programming the BBC's Chips (19xx)(-)"
+	description "Programming the BBC's Chips (19xx)(-)"
+	rom ( name "Programming the BBC's Chips (19xx)(-).ssd" size 21248 crc 5cff8190 md5 37bf49f999787389930ea58810b8ead5 )
+)
+
+game (
+	name "Revise GCE-CSE Mathematics 1 (1984)(Acornsoft)"
+	description "Revise GCE-CSE Mathematics 1 (1984)(Acornsoft)"
+	rom ( name "Revise GCE-CSE Mathematics 1 (1984)(Acornsoft).ssd" size 72448 crc 53a82ccb md5 a54416fed884f5a42c080b5d2ce13d7b )
+)
+
+game (
+	name "Revise GCE-CSE Mathematics 2 (1984)(Acornsoft)"
+	description "Revise GCE-CSE Mathematics 2 (1984)(Acornsoft)"
+	rom ( name "Revise GCE-CSE Mathematics 2 (1984)(Acornsoft).ssd" size 65024 crc bcd45088 md5 7aca900ab28a0e7898d9c77b73c552f4 )
+)
+
+game (
+	name "Science Topics - Bonding (19xx)(BBC)"
+	description "Science Topics - Bonding (19xx)(BBC)"
+	rom ( name "Science Topics - Bonding (19xx)(BBC).ssd" size 65024 crc b9815466 md5 1fc68b8a43e8dc0e6d51f14d38c157a5 )
+)
+
+game (
+	name "Science Topics - Classification and the PeriodicTable (19xx)(BBC)"
+	description "Science Topics - Classification and the PeriodicTable (19xx)(BBC)"
+	rom ( name "Science Topics - Classification and the PeriodicTable (19xx)(BBC).ssd" size 81664 crc f8da0cf1 md5 e03229c9cc914f707423b2533b5e7f24 )
+)
+
+game (
+	name "Science Topics - Ecology and Conservation (19xx)(BBC)"
+	description "Science Topics - Ecology and Conservation (19xx)(BBC)"
+	rom ( name "Science Topics - Ecology and Conservation (19xx)(BBC).ssd" size 92160 crc 397c8890 md5 aa7ad4575d9c862af03498ffcc016e34 )
+)
+
+game (
+	name "Science Topics - Electromagnetic Spectrum (19xx)(BBC)"
+	description "Science Topics - Electromagnetic Spectrum (19xx)(BBC)"
+	rom ( name "Science Topics - Electromagnetic Spectrum (19xx)(BBC).ssd" size 92928 crc 76892559 md5 b5d2f1dc8d23bd710474af3bbca89055 )
+)
+
+game (
+	name "Science Topics - Food and Population (19xx)(BBC)"
+	description "Science Topics - Food and Population (19xx)(BBC)"
+	rom ( name "Science Topics - Food and Population (19xx)(BBC).ssd" size 101632 crc a1b89cde md5 4004e0b9b3aa064200831aa5264c76d1 )
+)
+
+game (
+	name "Science Topics - Newton and the Space Shuttle (19xx)(BBC)"
+	description "Science Topics - Newton and the Space Shuttle (19xx)(BBC)"
+	rom ( name "Science Topics - Newton and the Space Shuttle (19xx)(BBC).ssd" size 54272 crc 8615cba2 md5 73f23ef28d83d32c754c2357b33492db )
+)
+
+game (
+	name "Science Topics - Polymers (19xx)(BBC)"
+	description "Science Topics - Polymers (19xx)(BBC)"
+	rom ( name "Science Topics - Polymers (19xx)(BBC).ssd" size 90368 crc ababa75e md5 47d31a76f8910c9ec325ee264886d40a )
+)
+
+game (
+	name "Secondary Science - The Mole Concept (19xx)(Harris, F.)"
+	description "Secondary Science - The Mole Concept (19xx)(Harris, F.)"
+	rom ( name "Secondary Science - The Mole Concept (19xx)(Harris, F.).ssd" size 88832 crc 8dc71e5c md5 d0f7ec4a288c944ccc0f4bd14c8a1462 )
+)
+
+game (
+	name "Secondary Science - Uniformly Accelerated Motion (19xx)(-)"
+	description "Secondary Science - Uniformly Accelerated Motion (19xx)(-)"
+	rom ( name "Secondary Science - Uniformly Accelerated Motion (19xx)(-).ssd" size 94720 crc e06ce278 md5 565a3ad3d5f5cb21872c7c9bba14bff3 )
+)
+
+game (
+	name "Touch Typing Tutor (1983)(Computer Concepts)[TYPE]"
+	description "Touch Typing Tutor (1983)(Computer Concepts)[TYPE]"
+	rom ( name "Touch Typing Tutor (1983)(Computer Concepts)[TYPE].ssd" size 9984 crc 60a635c8 md5 88a27e54a414e9fbcd9445ac9a912fa7 )
+)
+
+game (
+	name "Traffic Education Program (1984)(CET)"
+	description "Traffic Education Program (1984)(CET)"
+	rom ( name "Traffic Education Program (1984)(CET).ssd" size 204800 crc 848ff1aa md5 b86c3e2211000d7487329e3f064fcd33 )
+)
+
+game (
+	name "World Geography (19xx)(-)[a][LOADER]"
+	description "World Geography (19xx)(-)[a][LOADER]"
+	rom ( name "World Geography (19xx)(-)[a][LOADER].ssd" size 15872 crc 3a51e690 md5 33a2160192ae1db882f58e831ed81868 )
+)
+
+game (
+	name "World Geography (19xx)(-)[GEO]"
+	description "World Geography (19xx)(-)[GEO]"
+	rom ( name "World Geography (19xx)(-)[GEO].ssd" size 16128 crc 1e14b465 md5 83001b1a44f665bc6adbe58726f0eef8 )
+)
+
+game (
+	name "World Geography (19xx)(-)[GEOG]"
+	description "World Geography (19xx)(-)[GEOG]"
+	rom ( name "World Geography (19xx)(-)[GEOG].ssd" size 23808 crc f82b8c9b md5 4e3de60161d6e6e6a0ece87918841f36 )
+)
+
+game (
+	name "World Geography (19xx)(-)[LOADER]"
+	description "World Geography (19xx)(-)[LOADER]"
+	rom ( name "World Geography (19xx)(-)[LOADER].ssd" size 15872 crc ce7b932a md5 4880163e9e5d59ca59c46bda3ecd05d6 )
+)

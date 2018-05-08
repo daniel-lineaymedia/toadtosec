@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Utilities - [G64]"
+	description "Commodore C16, C116 & Plus-4 - Utilities - [G64] (TOSEC-v2010-09-19)"
+	category "Commodore C16, C116 & Plus-4 - Utilities - [G64]"
+	version 2010-09-19
+	author "TKaos"
+)
+
+game (
+	name "Micro Illustrator (1984)(CBM)(US)"
+	description "Micro Illustrator (1984)(CBM)(US)"
+	rom ( name "Micro Illustrator (1984)(CBM)(US).g64" size 333744 crc d1781539 md5 e07f3c3674f4b109d5c6b7fce4d1aa97 )
+)

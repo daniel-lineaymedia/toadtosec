@@ -1,0 +1,73 @@
+clrmamepro (
+	name "Acorn Archimedes - Demos"
+	description "Acorn Archimedes - Demos (TOSEC-v2008-10-11)"
+	category "Acorn Archimedes - Demos"
+	version 2008-10-11
+	author "C0llector - Cassiel"
+)
+
+game (
+	name "Audio Demo (19xx)(-)[b]"
+	description "Audio Demo (19xx)(-)[b]"
+	rom ( name "Audio Demo (19xx)(-)[b].adf" size 42712 crc ded3524a md5 116bb6124a23042f867dbe289dbb6d3b )
+)
+
+game (
+	name "Cryton Demo (1989)(Cryton)[b]"
+	description "Cryton Demo (1989)(Cryton)[b]"
+	rom ( name "Cryton Demo (1989)(Cryton)[b].adf" size 305528 crc 0aed18d4 md5 b94bf332a6c75f40320448c698e5028b )
+)
+
+game (
+	name "My Marvellous Demo (1991)(Kloster, Oddvar)(PD)"
+	description "My Marvellous Demo (1991)(Kloster, Oddvar)(PD)"
+	rom ( name "My Marvellous Demo (1991)(Kloster, Oddvar)(PD).adf" size 819200 crc 2590e148 md5 70549759f280e4c1924d583333919178 )
+)
+
+game (
+	name "RiscDream (1991)(Armaxess)"
+	description "RiscDream (1991)(Armaxess)"
+	rom ( name "RiscDream (1991)(Armaxess).adf" size 819200 crc 46921c12 md5 9ba2fe68af4a5437520b38e9e6a1a66f )
+)
+
+game (
+	name "RiscDream (1991)(Armaxess)[b]"
+	description "RiscDream (1991)(Armaxess)[b]"
+	rom ( name "RiscDream (1991)(Armaxess)[b].adf" size 281890 crc 0372e7de md5 69bc519a0200ddef28e1e6aca9c20cc5 )
+)
+
+game (
+	name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)"
+	description "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)"
+	rom ( name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain).adf" size 819200 crc 52b7b1ac md5 7e77a5562c4028cb456f774e48711acf )
+)
+
+game (
+	name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a]"
+	description "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a]"
+	rom ( name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a].adf" size 819200 crc e3dd7901 md5 8059d6458beb6ac948614fac93002e97 )
+)
+
+game (
+	name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a2]"
+	description "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a2]"
+	rom ( name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a2].adf" size 819200 crc 24683c11 md5 34e7ebe31d42fae7daa6c5b10d2529b4 )
+)
+
+game (
+	name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a3]"
+	description "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a3]"
+	rom ( name "Spheres of Chaos (1992)(Black, Matt - McLeod, Iain)[a3].adf" size 819200 crc 1490e86a md5 586d11283de87da195c2e5d5d1238b79 )
+)
+
+game (
+	name "System Interrupt Demos 1-5 (1989)(System Interrupt)"
+	description "System Interrupt Demos 1-5 (1989)(System Interrupt)"
+	rom ( name "System Interrupt Demos 1-5 (1989)(System Interrupt).adf" size 819200 crc 06f5cb69 md5 e004c321bae179dc9d8332dda5a0d7f5 )
+)
+
+game (
+	name "TCD Demo (19xx)(-)[b]"
+	description "TCD Demo (19xx)(-)[b]"
+	rom ( name "TCD Demo (19xx)(-)[b].adf" size 226628 crc c8721c48 md5 bfbf494afb35ed3505df0b2f3bbb712e )
+)

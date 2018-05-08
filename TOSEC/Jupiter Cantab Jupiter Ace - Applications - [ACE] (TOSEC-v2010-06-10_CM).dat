@@ -1,0 +1,229 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Applications - [ACE]"
+	description "Jupiter Cantab Jupiter Ace - Applications - [ACE] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Applications - [ACE]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Ace Case (1984-03)(Personal Computer World)(GB)[3K]"
+	description "Ace Case (1984-03)(Personal Computer World)(GB)[3K]"
+	rom ( name "Ace Case (1984-03)(Personal Computer World)(GB)[3K].ace" size 1949 crc 8214785d md5 b7e02cf530e12f192c21a245407a0832 )
+)
+
+game (
+	name "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]"
+	description "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]"
+	rom ( name "Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K].ace" size 1706 crc ce3b86d1 md5 8c056c18502dd83e637298404a230007 )
+)
+
+game (
+	name "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]"
+	description "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]"
+	rom ( name "Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K].ace" size 1710 crc 68be123c md5 9277dd01513028a680801905141a85bf )
+)
+
+game (
+	name "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]"
+	description "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]"
+	rom ( name "Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K].ace" size 1732 crc cb033c50 md5 019ed7c45b839a3ac92dc314e2b05ddd )
+)
+
+game (
+	name "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K].ace" size 3438 crc 03f9d573 md5 c4685c4eff48f689ec0359f63cf33271 )
+)
+
+game (
+	name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K]"
+	description "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[19K].ace" size 10753 crc ee7bcc2e md5 bbda99c151bd43ecb06035ecaae2ee8b )
+)
+
+game (
+	name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[a loaded examples][19K]"
+	description "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[a loaded examples][19K]"
+	rom ( name "Assembler & Dis-assembler (1984)(Boldfield Computing)(GB)[a loaded examples][19K].ace" size 12012 crc b8c16324 md5 7b655e843f5e727d8551ecb0593caff6 )
+)
+
+game (
+	name "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K].ace" size 2497 crc 45e19239 md5 2371e502cbe7553175afd974945d1599 )
+)
+
+game (
+	name "Callisto (1983)(ACS Software)[16K]"
+	description "Callisto (1983)(ACS Software)[16K]"
+	rom ( name "Callisto (1983)(ACS Software)[16K].ace" size 9615 crc 48a23af8 md5 5f495e6feba3be1ac7d5b376988b3a7c )
+)
+
+game (
+	name "Cargen (1983)(ERE)(FR)[3K]"
+	description "Cargen (1983)(ERE)(FR)[3K]"
+	rom ( name "Cargen (1983)(ERE)(FR)[3K].ace" size 2384 crc af42d84f md5 0ce61b5a9452d058f1c2444b6abb3a10 )
+)
+
+game (
+	name "Character-Forming Exercises (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]"
+	description "Character-Forming Exercises (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]"
+	rom ( name "Character-Forming Exercises (1983-02)(Your Computer)(File 1 of 2)(GB)[3K].ace" size 1698 crc 13f41738 md5 430e002691f7b6161fffae2191723989 )
+)
+
+game (
+	name "Character-Forming Exercises (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]"
+	description "Character-Forming Exercises (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]"
+	rom ( name "Character-Forming Exercises (1983-02)(Your Computer)(File 2 of 2)(GB)[3K].ace" size 2320 crc 10e9452a md5 901e628827e2ccf531cc535edf3a4b67 )
+)
+
+game (
+	name "Chords (1983-04)(Your Computer)(GB)[3K]"
+	description "Chords (1983-04)(Your Computer)(GB)[3K]"
+	rom ( name "Chords (1983-04)(Your Computer)(GB)[3K].ace" size 3502 crc 6a52906a md5 3346065103e72762cb42718f96ab764d )
+)
+
+game (
+	name "Database (1985)(Boldfield Computing)(GB)[19K]"
+	description "Database (1985)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Database (1985)(Boldfield Computing)(GB)[19K].ace" size 8865 crc 9680ec52 md5 a444d222c6ba1017ab9a9d5e42b74650 )
+)
+
+game (
+	name "Dessin (1983)(ERE)(FR)[3K]"
+	description "Dessin (1983)(ERE)(FR)[3K]"
+	rom ( name "Dessin (1983)(ERE)(FR)[3K].ace" size 2327 crc 4ad0b639 md5 ad82b88fb076d9840352ab5c7206e175 )
+)
+
+game (
+	name "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K].ace" size 1741 crc 7a35659b md5 60bf6528972d2fee66af0ec48c3f7f4d )
+)
+
+game (
+	name "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 2313 crc 704cb2c1 md5 6712f630dfa7a4d9b707ac600181c19e )
+)
+
+game (
+	name "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	description "Faster Ace (1983)(Your Computer)(GB)[3K]"
+	rom ( name "Faster Ace (1983)(Your Computer)(GB)[3K].ace" size 2330 crc 2beecd59 md5 64816f5c553d98fd49b753d6d711a6d1 )
+)
+
+game (
+	name "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]"
+	description "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]"
+	rom ( name "Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K].ace" size 4288 crc db9d982e md5 bd0c850494c496322b223857f63fd95f )
+)
+
+game (
+	name "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K].ace" size 4613 crc 2245c1a9 md5 b94f8f48e408de9019223044c8e311d6 )
+)
+
+game (
+	name "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 4618 crc bf8e26f2 md5 1ede153b48e22726ff45f39be3344fea )
+)
+
+game (
+	name "Forth Draw (1983-02)(Your Computer)(GB)[3K]"
+	description "Forth Draw (1983-02)(Your Computer)(GB)[3K]"
+	rom ( name "Forth Draw (1983-02)(Your Computer)(GB)[3K].ace" size 2575 crc 3b29e053 md5 999fc5fa5200913124a926530c628177 )
+)
+
+game (
+	name "HDRmon (2007)(Blink, Edwin)(PD)[3K]"
+	description "HDRmon (2007)(Blink, Edwin)(PD)[3K]"
+	rom ( name "HDRmon (2007)(Blink, Edwin)(PD)[3K].ace" size 1868 crc 588fe687 md5 c4409414877bb4454ad1fa1c7b48dbb4 )
+)
+
+game (
+	name "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]"
+	description "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K].ace" size 1821 crc 04e299eb md5 a3b4e4279607d2d0b230e1c7093d79e6 )
+)
+
+game (
+	name "Mathematical & Trigonometrical Functions (1983)(Remsoft)(GB)[tape 21][19K]"
+	description "Mathematical & Trigonometrical Functions (1983)(Remsoft)(GB)[tape 21][19K]"
+	rom ( name "Mathematical & Trigonometrical Functions (1983)(Remsoft)(GB)[tape 21][19K].ace" size 12536 crc 48099c06 md5 d2ea547d804b7856208ddf067185e399 )
+)
+
+game (
+	name "Monitor (1983)(Jupiter Cantab)(GB)[3K]"
+	description "Monitor (1983)(Jupiter Cantab)(GB)[3K]"
+	rom ( name "Monitor (1983)(Jupiter Cantab)(GB)[3K].ace" size 1937 crc f56e82ca md5 eb9de3ba0ae6c24b463c5839a5b28dae )
+)
+
+game (
+	name "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]"
+	description "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K].ace" size 2154 crc 6dfda318 md5 365ddfd435740f8558b7c999b1ce9ad1 )
+)
+
+game (
+	name "Morse Code Tutor (19xx)(-)(File 1 of 4)[19K]"
+	description "Morse Code Tutor (19xx)(-)(File 1 of 4)[19K]"
+	rom ( name "Morse Code Tutor (19xx)(-)(File 1 of 4)[19K].ace" size 1798 crc 175b61c1 md5 0b01aa87edd5b987db568a58c54ee23d )
+)
+
+game (
+	name "Morse Code Tutor (19xx)(-)(File 2 of 4)[19K]"
+	description "Morse Code Tutor (19xx)(-)(File 2 of 4)[19K]"
+	rom ( name "Morse Code Tutor (19xx)(-)(File 2 of 4)[19K].ace" size 1881 crc b5c6b7b9 md5 e2565ca16640fe88904e6c3d2e69e936 )
+)
+
+game (
+	name "Morse Code Tutor (19xx)(-)(File 3 of 4)[19K]"
+	description "Morse Code Tutor (19xx)(-)(File 3 of 4)[19K]"
+	rom ( name "Morse Code Tutor (19xx)(-)(File 3 of 4)[19K].ace" size 2858 crc 3e11b1bd md5 9b78f842f7a5de92dc6321f468df1281 )
+)
+
+game (
+	name "Morse Code Tutor (19xx)(-)(File 4 of 4)[19K]"
+	description "Morse Code Tutor (19xx)(-)(File 4 of 4)[19K]"
+	rom ( name "Morse Code Tutor (19xx)(-)(File 4 of 4)[19K].ace" size 2857 crc 2806c75e md5 4e4b8b86e08d459142b34df98f63c2d1 )
+)
+
+game (
+	name "Music (1983)(Popular Computing Weekly)(GB)[3K]"
+	description "Music (1983)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Music (1983)(Popular Computing Weekly)(GB)[3K].ace" size 2048 crc 4d081ae9 md5 8388b3278090545a3da4e99a1c7eaabb )
+)
+
+game (
+	name "Scrambler (1982-05)(Electronics & Computing)(GB)[3K]"
+	description "Scrambler (1982-05)(Electronics & Computing)(GB)[3K]"
+	rom ( name "Scrambler (1982-05)(Electronics & Computing)(GB)[3K].ace" size 2345 crc 4169e7ec md5 784cd67875c4a730d6f53bacd4417e3f )
+)
+
+game (
+	name "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]"
+	description "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Security (1982-09-01)(Popular Computing Weekly)(GB)[3K].ace" size 1737 crc 8ef19448 md5 c81cef4291ab721c4965f53ad0340dc9 )
+)
+
+game (
+	name "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 3551 crc 195300a6 md5 8b5cad23adae3d2d3c13aaf9ed93a27a )
+)
+
+game (
+	name "Spreadsheet (1984)(Boldfield Computing)(GB)[19K]"
+	description "Spreadsheet (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Spreadsheet (1984)(Boldfield Computing)(GB)[19K].ace" size 11106 crc 6c14ff52 md5 777a23da1028bac1783cab07a7cb7972 )
+)
+
+game (
+	name "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]"
+	description "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Words (1983-10-27)(Popular Computing Weekly)(GB)[3K].ace" size 1823 crc 593dec5c md5 8cecead5b4f36ea67c0c6ba6f2f3ba08 )
+)

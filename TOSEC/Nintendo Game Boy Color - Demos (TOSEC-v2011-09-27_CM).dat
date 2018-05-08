@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Nintendo Game Boy Color - Demos"
+	description "Nintendo Game Boy Color - Demos (TOSEC-v2011-09-27)"
+	category "Nintendo Game Boy Color - Demos"
+	version 2011-09-27
+	author "Cassiel"
+)
+
+game (
+	name "2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)"
+	description "2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD)"
+	rom ( name "2560 Colors Simultaneously! Demo (1999)(Icarus Productions)(PD).bin" size 32768 crc 8f501a1a md5 1271ddb6d46cb59af6b5cfe02408e03a sha1 50d9c00fad01c962a1fe8e7b4a72633c7b2ebc97 )
+)
+

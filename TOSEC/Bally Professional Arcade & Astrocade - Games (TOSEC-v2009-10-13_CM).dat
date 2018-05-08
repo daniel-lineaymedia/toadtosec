@@ -1,0 +1,127 @@
+clrmamepro (
+	name "Bally Professional Arcade & Astrocade - Games"
+	description "Bally Professional Arcade & Astrocade - Games (TOSEC-v2009-10-13)"
+	category "Bally Professional Arcade & Astrocade - Games"
+	version 2009-10-13
+	author "Grendel - BuckyB - Cassiel"
+)
+
+game (
+	name "280 Zzzap + Dodgem (19xx)(Bally)"
+	description "280 Zzzap + Dodgem (19xx)(Bally)"
+	rom ( name "280 Zzzap + Dodgem (19xx)(Bally).bin" size 2048 crc e4d285e5 md5 095d466bbbd595ff004379a8bfad4a9c )
+)
+
+game (
+	name "Amazing Maze + Tic-Tac-Toe (19xx)(Bally)"
+	description "Amazing Maze + Tic-Tac-Toe (19xx)(Bally)"
+	rom ( name "Amazing Maze + Tic-Tac-Toe (19xx)(Bally).bin" size 2048 crc cd57c485 md5 b748311138c62f384f493b7b41d48317 )
+)
+
+game (
+	name "Artillery Duel (1982)(Bally)"
+	description "Artillery Duel (1982)(Bally)"
+	rom ( name "Artillery Duel (1982)(Bally).bin" size 4096 crc 4f372019 md5 685b88389264115b03fa9b38a7602799 )
+)
+
+game (
+	name "Astro Battle (1981)(Astrovision)[b]"
+	description "Astro Battle (1981)(Astrovision)[b]"
+	rom ( name "Astro Battle (1981)(Astrovision)[b].bin" size 8192 crc 1a050094 md5 4c6620906f35540f599002d98b92f7c7 )
+)
+
+game (
+	name "Bally Pinball (1981)(Bally)[b]"
+	description "Bally Pinball (1981)(Bally)[b]"
+	rom ( name "Bally Pinball (1981)(Bally)[b].bin" size 8192 crc fb652bac md5 f9cbf48164a442b5a6da5c9ad8157dbf )
+)
+
+game (
+	name "Blackjack + Poker + Acey-Duecy (19xx)(Bally)"
+	description "Blackjack + Poker + Acey-Duecy (19xx)(Bally)"
+	rom ( name "Blackjack + Poker + Acey-Duecy (19xx)(Bally).bin" size 4096 crc 78d45a11 md5 89fb2c1681c2bcf58dff969f346c7fd0 )
+)
+
+game (
+	name "Blast Droids (19xx)(Esoterica)"
+	description "Blast Droids (19xx)(Esoterica)"
+	rom ( name "Blast Droids (19xx)(Esoterica).bin" size 4096 crc 79fe386b md5 8a0ff74bf056414e8e0918a7c1595d79 )
+)
+
+game (
+	name "Clowns + Brickyard (19xx)(Bally)"
+	description "Clowns + Brickyard (19xx)(Bally)"
+	rom ( name "Clowns + Brickyard (19xx)(Bally).bin" size 4096 crc 28f9e502 md5 45abd4a70efda818606ff10aa9272b48 )
+)
+
+game (
+	name "Cosmic Raider (19xx)(Astrovision)"
+	description "Cosmic Raider (19xx)(Astrovision)"
+	rom ( name "Cosmic Raider (19xx)(Astrovision).bin" size 8192 crc 2a77b3fb md5 9b431d6bc67c66ed432827d01cbb17f9 )
+)
+
+game (
+	name "Dogpatch (19xx)(Bally)"
+	description "Dogpatch (19xx)(Bally)"
+	rom ( name "Dogpatch (19xx)(Bally).bin" size 2048 crc 77bed6ba md5 c70af94d26cbbecdda7a0dfb3551881b )
+)
+
+game (
+	name "Football (19xx)(Bally)"
+	description "Football (19xx)(Bally)"
+	rom ( name "Football (19xx)(Bally).bin" size 4096 crc fc8998a9 md5 d2d5e1a343d61f8fe9f34425ed66efdf )
+)
+
+game (
+	name "Galaxian (1981)(Astrovision)[p]"
+	description "Galaxian (1981)(Astrovision)[p]"
+	rom ( name "Galaxian (1981)(Astrovision)[p].bin" size 4096 crc d75e9672 md5 7efc92b2988ec3e00647af740550e3a5 )
+)
+
+game (
+	name "Grand Prix + Demolition Derby (19xx)(Bally)"
+	description "Grand Prix + Demolition Derby (19xx)(Bally)"
+	rom ( name "Grand Prix + Demolition Derby (19xx)(Bally).bin" size 4096 crc 7b3b7b70 md5 aaf74ec30a85bb268b729c4b8a719131 )
+)
+
+game (
+	name "Incredible Wizard, The (1981)(Astrovision)"
+	description "Incredible Wizard, The (1981)(Astrovision)"
+	rom ( name "Incredible Wizard, The (1981)(Astrovision).bin" size 8192 crc 1395b130 md5 6048d68aa01850cbb089bc278afc5853 )
+)
+
+game (
+	name "Muncher (19xx)(Esoterica)"
+	description "Muncher (19xx)(Esoterica)"
+	rom ( name "Muncher (19xx)(Esoterica).bin" size 8192 crc e4726657 md5 6e32c8d7cc29b4ed1a032c063fe7dda4 )
+)
+
+game (
+	name "Panzer Attack + Red Baron (19xx)(Bally)"
+	description "Panzer Attack + Red Baron (19xx)(Bally)"
+	rom ( name "Panzer Attack + Red Baron (19xx)(Bally).bin" size 4096 crc a1c7e129 md5 04b9ede2208708933899685d1b40d1b0 )
+)
+
+game (
+	name "Seawolf + Missile (19xx)(Bally)[b]"
+	description "Seawolf + Missile (19xx)(Bally)[b]"
+	rom ( name "Seawolf + Missile (19xx)(Bally)[b].bin" size 8192 crc ee3489ea md5 8cf9186e72cc0c9c324eca3bf6c5d566 )
+)
+
+game (
+	name "Space Fortress (19xx)(Bally)"
+	description "Space Fortress (19xx)(Bally)"
+	rom ( name "Space Fortress (19xx)(Bally).bin" size 4096 crc 519cc707 md5 f1dfb3bcafcae67cc42eb328ec445491 )
+)
+
+game (
+	name "Star Battle (19xx)(Astrovision)[b]"
+	description "Star Battle (19xx)(Astrovision)[b]"
+	rom ( name "Star Battle (19xx)(Astrovision)[b].bin" size 8192 crc ce15563b md5 e6ebe48ec24d1170f7e2c09e1f169e73 )
+)
+
+game (
+	name "Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)"
+	description "Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally)"
+	rom ( name "Tornado Baseball + Tennis + Hockey + Handball (19xx)(Bally).bin" size 4096 crc 5be548cc md5 ad08e7a20ffc67ea7c8f069ef354eec6 )
+)

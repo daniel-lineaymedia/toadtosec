@@ -1,0 +1,421 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Games - [ACE]"
+	description "Jupiter Cantab Jupiter Ace - Games - [ACE] (TOSEC-v2010-12-06)"
+	category "Jupiter Cantab Jupiter Ace - Games - [ACE]"
+	version 2010-12-06
+	author "TKaos"
+)
+
+game (
+	name "3D Maze (2007-05)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "3D Maze (2007-05)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "3D Maze (2007-05)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 6287 crc da4d3bf3 md5 483c7cd9276ed7b0aace79929529f714 )
+)
+
+game (
+	name "Ace Avoider (1984-07)(Personal Computer World)(GB)[3K]"
+	description "Ace Avoider (1984-07)(Personal Computer World)(GB)[3K]"
+	rom ( name "Ace Avoider (1984-07)(Personal Computer World)(GB)[3K].ace" size 2495 crc 8a4288b3 md5 964ba0cbcd5661a695a528fb299a5eb3 )
+)
+
+game (
+	name "Ace Invaders (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	description "Ace Invaders (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	rom ( name "Ace Invaders (1982)(Hi-Tech Microsoft)(GB)[3K].ace" size 2612 crc 777d7cf2 md5 947224032047c321b438a1c652b31723 )
+)
+
+game (
+	name "Ace Invaders (1983)(Forth Dimension)[1K]"
+	description "Ace Invaders (1983)(Forth Dimension)[1K]"
+	rom ( name "Ace Invaders (1983)(Forth Dimension)[1K].ace" size 23820 crc 9f24682b md5 f794ce51819364dc8963bc128d821d56 )
+)
+
+game (
+	name "Ace Mines (2004)(Lopes, Ricardo Fernandes)[19K]"
+	description "Ace Mines (2004)(Lopes, Ricardo Fernandes)[19K]"
+	rom ( name "Ace Mines (2004)(Lopes, Ricardo Fernandes)[19K].ace" size 4665 crc b3485a68 md5 82af8378d32b0f16a3815e35eb912358 )
+)
+
+game (
+	name "Ace Star (2010)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "Ace Star (2010)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "Ace Star (2010)(Jupiter Ace Archive Team)(GB)(PD)[19K].ace" size 22968 crc 7e7e0818 md5 5fa6f07df84cdcb7bc8a9fae7638beaa )
+)
+
+game (
+	name "Acevaders (1983)(Micro Marketing)(GB)[3K]"
+	description "Acevaders (1983)(Micro Marketing)(GB)[3K]"
+	rom ( name "Acevaders (1983)(Micro Marketing)(GB)[3K].ace" size 2160 crc 029d3a4a md5 d5305fa6aa775f685b5e585039b0a139 )
+)
+
+game (
+	name "Adventure A - Planet of Death (2008)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "Adventure A - Planet of Death (2008)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "Adventure A - Planet of Death (2008)(Jupiter Ace Archive Team)(GB)(PD)[19K].ace" size 23579 crc 52e4032e md5 40433a429e80a83e789d750613732fcc )
+)
+
+game (
+	name "Alien Defender (1984)(Boldfield Computing)(GB)[19K]"
+	description "Alien Defender (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Alien Defender (1984)(Boldfield Computing)(GB)[19K].ace" size 4375 crc cc3b91f0 md5 4cd5762240602aceab4d99c96a6614e9 )
+)
+
+game (
+	name "Alien Swarm (1983-01-20)(Popular Computing Weekly)(GB)[3K]"
+	description "Alien Swarm (1983-01-20)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Alien Swarm (1983-01-20)(Popular Computing Weekly)(GB)[3K].ace" size 2538 crc 9c244b42 md5 617e2e4a2c721688375d25e6158a1b2e )
+)
+
+game (
+	name "Amazing Maze (1984)(Boldfield Computing)(GB)[19K]"
+	description "Amazing Maze (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Amazing Maze (1984)(Boldfield Computing)(GB)[19K].ace" size 4344 crc 9226420e md5 7b613ea999976e53aa6ed16216ad5fa0 )
+)
+
+game (
+	name "Astrian Descent (1983-08)(Bates, Brian)[unreleased][19K]"
+	description "Astrian Descent (1983-08)(Bates, Brian)[unreleased][19K]"
+	rom ( name "Astrian Descent (1983-08)(Bates, Brian)[unreleased][19K].ace" size 23552 crc be7f273b md5 1652c011ed0cdae71aaeebf7e034ca7f )
+)
+
+game (
+	name "Atic Raid (1984)(Boldfield Computing)(GB)(PD)[19K]"
+	description "Atic Raid (1984)(Boldfield Computing)(GB)(PD)[19K]"
+	rom ( name "Atic Raid (1984)(Boldfield Computing)(GB)(PD)[19K].ace" size 15813 crc d6948d00 md5 efe071f318c600b8cd8e1d3ce4b99614 )
+)
+
+game (
+	name "Black Island Adventure (1984)(Boldfield Computing)(GB)(Part 1 of 4)[19K]"
+	description "Black Island Adventure (1984)(Boldfield Computing)(GB)(Part 1 of 4)[19K]"
+	rom ( name "Black Island Adventure (1984)(Boldfield Computing)(GB)(Part 1 of 4)[19K].ace" size 15286 crc 1433a2bc md5 97cb83eb9f0cd33070265f408c9dc821 )
+)
+
+game (
+	name "Bomber (1997)(Robson, Paul)(PD)[3K]"
+	description "Bomber (1997)(Robson, Paul)(PD)[3K]"
+	rom ( name "Bomber (1997)(Robson, Paul)(PD)[3K].ace" size 6420 crc 3e3ffb80 md5 2c8bb52777568b20159885946a07174c )
+)
+
+game (
+	name "Breakout (1983-03-17)(Popular Computing Weekly)(GB)[3K]"
+	description "Breakout (1983-03-17)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Breakout (1983-03-17)(Popular Computing Weekly)(GB)[3K].ace" size 2448 crc 2c25c404 md5 35f9ded6195473ddd8cb400326890fdf )
+)
+
+game (
+	name "Casse Briques (1983)(ERE)(FR)[3K]"
+	description "Casse Briques (1983)(ERE)(FR)[3K]"
+	rom ( name "Casse Briques (1983)(ERE)(FR)[3K].ace" size 2572 crc d2bc5b51 md5 1bdd60d9697f7be7ea5d05b52adf739f )
+)
+
+game (
+	name "Cavern Attack (1983)(Hi-Tech Microsoft)(GB)[3K]"
+	description "Cavern Attack (1983)(Hi-Tech Microsoft)(GB)[3K]"
+	rom ( name "Cavern Attack (1983)(Hi-Tech Microsoft)(GB)[3K].ace" size 2490 crc 722cc804 md5 50a52c55ffab42e6ef8226d574a1de36 )
+)
+
+game (
+	name "Cenipede (1984)(Boldfield Computing)(GB)[19K]"
+	description "Cenipede (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Cenipede (1984)(Boldfield Computing)(GB)[19K].ace" size 6926 crc 449a0fe9 md5 a32350026360099a4568be31ced296fc )
+)
+
+game (
+	name "Champs De Mines (1983)(ERE)(FR)[3K]"
+	description "Champs De Mines (1983)(ERE)(FR)[3K]"
+	rom ( name "Champs De Mines (1983)(ERE)(FR)[3K].ace" size 2768 crc f6249f68 md5 03c77a73c835e0d52946178e66defd7d )
+)
+
+game (
+	name "Chase (1983-01-27)(Popular Computing Weekly)(GB)[3K]"
+	description "Chase (1983-01-27)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Chase (1983-01-27)(Popular Computing Weekly)(GB)[3K].ace" size 2173 crc df6aa106 md5 c0f30dda11fe50bc987db14a611575ef )
+)
+
+game (
+	name "Chess (1984)(Boldfield Computing)(GB)[19K]"
+	description "Chess (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Chess (1984)(Boldfield Computing)(GB)[19K].ace" size 14252 crc 5e0a470f md5 cd825894d9f164177f729bd094a8f839 )
+)
+
+game (
+	name "Cygnus (1984)(Boldfield Computing)(GB)[19K]"
+	description "Cygnus (1984)(Boldfield Computing)(GB)[19K]"
+	rom ( name "Cygnus (1984)(Boldfield Computing)(GB)[19K].ace" size 16848 crc c9f5beb7 md5 72fcc2a6509ff1b46185ca8e60a72a35 )
+)
+
+game (
+	name "Dodge (1983-07)(Bates, Brian)[unreleased][19K]"
+	description "Dodge (1983-07)(Bates, Brian)[unreleased][19K]"
+	rom ( name "Dodge (1983-07)(Bates, Brian)[unreleased][19K].ace" size 23276 crc 86fa90ff md5 bdce111433c5f14ffa066241547f4bc7 )
+)
+
+game (
+	name "Dot Man (1983)(Micro Marketing)(GB)[3K]"
+	description "Dot Man (1983)(Micro Marketing)(GB)[3K]"
+	rom ( name "Dot Man (1983)(Micro Marketing)(GB)[3K].ace" size 2179 crc 96798a5d md5 fbea27d313d739bafb996b1c0eef9d00 )
+)
+
+game (
+	name "Duckshoot (1983)(Micro Marketing)(GB)[3K]"
+	description "Duckshoot (1983)(Micro Marketing)(GB)[3K]"
+	rom ( name "Duckshoot (1983)(Micro Marketing)(GB)[3K].ace" size 2063 crc a81e7178 md5 bdd96f89de72f77a3216724e46b31560 )
+)
+
+game (
+	name "Firebird (1983)(Voyager Software)(GB)[19K]"
+	description "Firebird (1983)(Voyager Software)(GB)[19K]"
+	rom ( name "Firebird (1983)(Voyager Software)(GB)[19K].ace" size 13482 crc 532e0ccf md5 a33562e2e77085f1ace878f3df365b47 )
+)
+
+game (
+	name "Forth Surround (1983-06)(Your Computer)(GB)[3K]"
+	description "Forth Surround (1983-06)(Your Computer)(GB)[3K]"
+	rom ( name "Forth Surround (1983-06)(Your Computer)(GB)[3K].ace" size 2047 crc 65e618de md5 b025b5c0ae0957ba70955e73926252e5 )
+)
+
+game (
+	name "Frogger (1984)(Boldfield Computing)(GB)(PD)[16K]"
+	description "Frogger (1984)(Boldfield Computing)(GB)(PD)[16K]"
+	rom ( name "Frogger (1984)(Boldfield Computing)(GB)(PD)[16K].ace" size 8373 crc 66635d5f md5 228e570a5f59b57f9ab51032fd749796 )
+)
+
+game (
+	name "Frogger (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Frogger (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Frogger (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 10939 crc 84357571 md5 dcf0b6b37478cbf1b4fa83216f1fa9d7 )
+)
+
+game (
+	name "Fungle Monster (1983)(Voyager Software)(GB)[unreleased][19K]"
+	description "Fungle Monster (1983)(Voyager Software)(GB)[unreleased][19K]"
+	rom ( name "Fungle Monster (1983)(Voyager Software)(GB)[unreleased][19K].ace" size 8951 crc 58baec55 md5 9c277c36a59e96d582349b166498501e )
+)
+
+game (
+	name "Gobbledegook (1983)(Jupiter Cantab)(GB)[19K]"
+	description "Gobbledegook (1983)(Jupiter Cantab)(GB)[19K]"
+	rom ( name "Gobbledegook (1983)(Jupiter Cantab)(GB)[19K].ace" size 17432 crc 9a9455dd md5 415ee749cf954d74aaab2431bfa97261 )
+)
+
+game (
+	name "Grandprix (1983)(Plasma Software)(GB)(alpha)[unreleased][19K]"
+	description "Grandprix (1983)(Plasma Software)(GB)(alpha)[unreleased][19K]"
+	rom ( name "Grandprix (1983)(Plasma Software)(GB)(alpha)[unreleased][19K].ace" size 8397 crc a41ebbb8 md5 b0ce1d148ef60904943eba000a7bd2c3 )
+)
+
+game (
+	name "Green X Frog (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	description "Green X Frog (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	rom ( name "Green X Frog (1982)(Hi-Tech Microsoft)(GB)[3K].ace" size 2552 crc 4c02a497 md5 7dff8df3426be627810b2d0522a6f7ce )
+)
+
+game (
+	name "Guessing Game (1983-05)(Practical Computing)(GB)[3K]"
+	description "Guessing Game (1983-05)(Practical Computing)(GB)[3K]"
+	rom ( name "Guessing Game (1983-05)(Practical Computing)(GB)[3K].ace" size 2171 crc 27924051 md5 90a6d1fe3382e36e41d55d42ff28f97d )
+)
+
+game (
+	name "Invaders (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Invaders (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Invaders (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 11314 crc 8168c0fb md5 26491229507f484321adf11f25a6d15b )
+)
+
+game (
+	name "Jumpman (1984)(Callisto Software)[32K]"
+	description "Jumpman (1984)(Callisto Software)[32K]"
+	rom ( name "Jumpman (1984)(Callisto Software)[32K].ace" size 23561 crc 32851aee md5 e5f661065ee95c76aeb925bd288d1d3d )
+)
+
+game (
+	name "Krazy Kong (19xx)(Voyager Software)(GB)[unreleased][19K]"
+	description "Krazy Kong (19xx)(Voyager Software)(GB)[unreleased][19K]"
+	rom ( name "Krazy Kong (19xx)(Voyager Software)(GB)[unreleased][19K].ace" size 8683 crc 3144cdd0 md5 d2ae2c5efe3130368ef9a5686b6b9c69 )
+)
+
+game (
+	name "Light Racer (1983-10)(Bates, Brian)[unreleased][19K]"
+	description "Light Racer (1983-10)(Bates, Brian)[unreleased][19K]"
+	rom ( name "Light Racer (1983-10)(Bates, Brian)[unreleased][19K].ace" size 23497 crc 5990b8c5 md5 3f698361f9e275c8a0899db482f37161 )
+)
+
+game (
+	name "Lunar Lander (1983-04-21)(Popular Computing Weekly)(GB)[3K]"
+	description "Lunar Lander (1983-04-21)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Lunar Lander (1983-04-21)(Popular Computing Weekly)(GB)[3K].ace" size 2195 crc 73b90176 md5 758213081f745322c3a1cfeb20574b15 )
+)
+
+game (
+	name "Memory Stars (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	description "Memory Stars (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	rom ( name "Memory Stars (1982)(Hi-Tech Microsoft)(GB)[3K].ace" size 2416 crc 7e885194 md5 0cf663e23eaa5b38b65a363c0c1cea72 )
+)
+
+game (
+	name "Meteor (1983-03-24)(Popular Computing Weekly)(GB)[3K]"
+	description "Meteor (1983-03-24)(Popular Computing Weekly)(GB)[3K]"
+	rom ( name "Meteor (1983-03-24)(Popular Computing Weekly)(GB)[3K].ace" size 2233 crc 44dc21fd md5 fe414adb798dbdc00713bdf132894797 )
+)
+
+game (
+	name "Meteor Racer (1983)(Forth Dimension)[1K]"
+	description "Meteor Racer (1983)(Forth Dimension)[1K]"
+	rom ( name "Meteor Racer (1983)(Forth Dimension)[1K].ace" size 23753 crc abddcbc8 md5 4ff9f76be4e9b6b9cff9cb3110f0c43f )
+)
+
+game (
+	name "Meteors (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Meteors (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Meteors (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 10200 crc 2043b61c md5 2bcea78db525c1678bdd07b835cb479c )
+)
+
+game (
+	name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 1 of 3)[3K]"
+	description "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 1 of 3)[3K]"
+	rom ( name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 1 of 3)[3K].ace" size 2208 crc 96256165 md5 e109619e73987ab1b4d043ace219db23 )
+)
+
+game (
+	name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 2 of 3)[3K]"
+	description "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 2 of 3)[3K]"
+	rom ( name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 2 of 3)[3K].ace" size 2334 crc cf75e7af md5 d3f92cb60b66912b1bbe175e3e795557 )
+)
+
+game (
+	name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 3 of 3)[3K]"
+	description "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 3 of 3)[3K]"
+	rom ( name "Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 3 of 3)[3K].ace" size 2340 crc 6d1b26e1 md5 8abe38a4e9d67b4e88e49d617408dd9a )
+)
+
+game (
+	name "Millipede (1983-04)(Your Computer)(GB)[3K]"
+	description "Millipede (1983-04)(Your Computer)(GB)[3K]"
+	rom ( name "Millipede (1983-04)(Your Computer)(GB)[3K].ace" size 4166 crc 466ff760 md5 0b440fcd620e5c4fc4cd8856ee9d798e )
+)
+
+game (
+	name "Minefield (1983)(Micro Marketing)(GB)[3K]"
+	description "Minefield (1983)(Micro Marketing)(GB)[3K]"
+	rom ( name "Minefield (1983)(Micro Marketing)(GB)[3K].ace" size 2060 crc 184431e3 md5 9d3cc1d3cc80d8c39701926f0f958221 )
+)
+
+game (
+	name "Moon Buggy (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Moon Buggy (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Moon Buggy (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 13763 crc 02173f54 md5 d898aeb1becc14a04305ac9c76e19a80 )
+)
+
+game (
+	name "Othello (1983)(Jupiter Cantab)(GB)[19K]"
+	description "Othello (1983)(Jupiter Cantab)(GB)[19K]"
+	rom ( name "Othello (1983)(Jupiter Cantab)(GB)[19K].ace" size 4070 crc 0a6a2c48 md5 69e4befc5c4727fdd499cb249731c025 )
+)
+
+game (
+	name "Owler (1984)(Callisto Software)[32K]"
+	description "Owler (1984)(Callisto Software)[32K]"
+	rom ( name "Owler (1984)(Callisto Software)[32K].ace" size 23320 crc b3e69f4a md5 2963d85faa019898c1902c573ffbfb31 )
+)
+
+game (
+	name "Pacman (1983-03)(Your Computer)(GB)[3K]"
+	description "Pacman (1983-03)(Your Computer)(GB)[3K]"
+	rom ( name "Pacman (1983-03)(Your Computer)(GB)[3K].ace" size 3197 crc 68d096a9 md5 ab8454d3495b2c69abbd16e8fa401f02 )
+)
+
+game (
+	name "Quick-Draw (1983-11)(Bates, Brian)[unreleased][19K]"
+	description "Quick-Draw (1983-11)(Bates, Brian)[unreleased][19K]"
+	rom ( name "Quick-Draw (1983-11)(Bates, Brian)[unreleased][19K].ace" size 23380 crc 41994b12 md5 d9e8dee20ac15036fe18e77d89d11e10 )
+)
+
+game (
+	name "Quick-Draw Practice (1983-11)(Bates, Brian)[unreleased][19K]"
+	description "Quick-Draw Practice (1983-11)(Bates, Brian)[unreleased][19K]"
+	rom ( name "Quick-Draw Practice (1983-11)(Bates, Brian)[unreleased][19K].ace" size 23393 crc 077f239e md5 df5d8675652c87f7eb833443fdd38cf8 )
+)
+
+game (
+	name "Robohench (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Robohench (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Robohench (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 12714 crc 90a75be0 md5 939c759e993c488213f94cdf981454b9 )
+)
+
+game (
+	name "Robohunt (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Robohunt (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Robohunt (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 10108 crc 9f5e2ad7 md5 3c6bc0f07cd89e26e4417c88854dba50 )
+)
+
+game (
+	name "Sam and the Time Bombs (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Sam and the Time Bombs (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Sam and the Time Bombs (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 13177 crc f8a237be md5 b87d822c3d58f86fe7261a01f5e74f2e )
+)
+
+game (
+	name "SokoACE (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "SokoACE (2006)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "SokoACE (2006)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 9421 crc 8b4b633c md5 0ee2e520365f1667f3b543c60d7372c8 )
+)
+
+game (
+	name "Space Battle (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	description "Space Battle (1982)(Hi-Tech Microsoft)(GB)[3K]"
+	rom ( name "Space Battle (1982)(Hi-Tech Microsoft)(GB)[3K].ace" size 2531 crc 64b8fa9b md5 d4b3a99a6ea8829192bd21cc93f74d26 )
+)
+
+game (
+	name "Star Trek (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Star Trek (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Star Trek (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 13538 crc d173fc82 md5 1523335bb0932b6fa78ec53bc9b80433 )
+)
+
+game (
+	name "Sudoku (2007)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	description "Sudoku (2007)(Lopes, Ricardo Fernandes)(PD)[19K]"
+	rom ( name "Sudoku (2007)(Lopes, Ricardo Fernandes)(PD)[19K].ace" size 5130 crc 3a7c0627 md5 2473344b459252b44517b319fad6cf57 )
+)
+
+game (
+	name "Superchess II (1983)(CP Software)[19K]"
+	description "Superchess II (1983)(CP Software)[19K]"
+	rom ( name "Superchess II (1983)(CP Software)[19K].ace" size 21996 crc c687f876 md5 390e0ffa890eedf855a4f3cdaeca92d6 )
+)
+
+game (
+	name "Tank Battle (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Tank Battle (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Tank Battle (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 11208 crc 1d3c4fe2 md5 3b278f98dbd7bc9e97f5a8b1c50e16fb )
+)
+
+game (
+	name "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	description "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]"
+	rom ( name "Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K].ace" size 23682 crc 0846a64b md5 f9aae9a4ee7c476903569fbc1da6637a )
+)
+
+game (
+	name "Towers of Hanoi (2006)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	description "Towers of Hanoi (2006)(Lopes, Ricardo Fernandes)(PD)[3K]"
+	rom ( name "Towers of Hanoi (2006)(Lopes, Ricardo Fernandes)(PD)[3K].ace" size 2398 crc 7c9316ff md5 db167ededc6d4c593dffd57c7fe72481 )
+)
+
+game (
+	name "Turbo (1984)(Plasma Software)(GB)[unreleased][19K]"
+	description "Turbo (1984)(Plasma Software)(GB)[unreleased][19K]"
+	rom ( name "Turbo (1984)(Plasma Software)(GB)[unreleased][19K].ace" size 9267 crc c9b6bc69 md5 59f60bb77b995483c6c308903faada39 )
+)
+
+game (
+	name "Zapem (1983)(Micro Marketing)(GB)[3K]"
+	description "Zapem (1983)(Micro Marketing)(GB)[3K]"
+	rom ( name "Zapem (1983)(Micro Marketing)(GB)[3K].ace" size 2064 crc 3a867670 md5 98c66c16ca2a9ecb97bf057be0c9dff9 )
+)
+
+game (
+	name "Zombies & Potholes (1983)(Jupiter Cantab)(GB)[19K]"
+	description "Zombies & Potholes (1983)(Jupiter Cantab)(GB)[19K]"
+	rom ( name "Zombies & Potholes (1983)(Jupiter Cantab)(GB)[19K].ace" size 9354 crc f1dc7a47 md5 b39432a54e79bab10aead68ee066cc3c )
+)

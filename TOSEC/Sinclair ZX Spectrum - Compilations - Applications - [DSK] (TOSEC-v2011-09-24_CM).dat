@@ -1,0 +1,38 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Compilations - Applications - [DSK]"
+	description "Sinclair ZX Spectrum - Compilations - Applications - [DSK] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Compilations - Applications - [DSK]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Gary Lancaster Tools Collection (19xx)(Gary Lancaster)"
+	description "Gary Lancaster Tools Collection (19xx)(Gary Lancaster)"
+	rom ( name "Gary Lancaster Tools Collection (19xx)(Gary Lancaster).dsk" size 194816 crc be29a003 md5 2d387191b42c9b14938df2a570e6f824 sha1 5b58aa747dccb2c9b5e0bcdb5d93aca895b77dad )
+)
+
+game (
+	name "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc 22714808 md5 a396521c619e5d951e9345f2821a0ea6 sha1 7ba4cf9653d771a5b3b8a0134e0a838bd3797b12 )
+)
+
+game (
+	name "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Tools Collection 01 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc 071a42f1 md5 bf91674b20db9240550f678c9a93a586 sha1 89fb642e4b84f5bfc2f10d1d19453810d5d71edf )
+)
+
+game (
+	name "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side A)"
+	description "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side A)"
+	rom ( name "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side A).dsk" size 194816 crc cfc5778a md5 7626ac92475ba06d7ef94e0362967255 sha1 e83b1a3e44f20a6be456ba0ef37853d0f29bad87 )
+)
+
+game (
+	name "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side B)"
+	description "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side B)"
+	rom ( name "Jesus Tejero Tools Collection 02 (19xx)(Jesus Tejero)(es)(Side B).dsk" size 194816 crc 48a98df6 md5 22a8e65619c9771f95a9227ead9a1ee9 sha1 9dbf4ad35f9ed5f948f6b9962498a29e6a1b9ba9 )
+)
+

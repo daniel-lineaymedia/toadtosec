@@ -1,0 +1,356 @@
+clrmamepro (
+	name "Commodore C64 - Games - Boulder Dash - [PRG]"
+	description "Commodore C64 - Games - Boulder Dash - [PRG] (TOSEC-v2012-12-17)"
+	category "Commodore C64 - Games - Boulder Dash - [PRG]"
+	version 2012-12-17
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "16 Boulderdash Games (1987)(-)[h No1]"
+	description "16 Boulderdash Games (1987)(-)[h No1]"
+	rom ( name "16 Boulderdash Games (1987)(-)[h No1].prg" size 29838 crc f3c0c6cf md5 2a39579e3c412ea63050bcdf9a2f6f81 sha1 e3456e66ad32e9e4cfb165a0041db4e3e132465c )
+)
+
+game (
+	name "16 Boulderdash Games (1987)(-)[h No1][a]"
+	description "16 Boulderdash Games (1987)(-)[h No1][a]"
+	rom ( name "16 Boulderdash Games (1987)(-)[h No1][a].prg" size 44996 crc e85165e2 md5 2624173d0f2ea2fafdb32038dcb23eaa sha1 f5f0194f8a0bb0506009fd79ede2cac5b6ec194b )
+)
+
+game (
+	name "AFL Boulderdash (1987)(Blockheads & No-One)"
+	description "AFL Boulderdash (1987)(Blockheads & No-One)"
+	rom ( name "AFL Boulderdash (1987)(Blockheads & No-One).prg" size 33239 crc 0cf2fa68 md5 9e271356173598deb8f56f355674220e sha1 98eb8e91e4bbe408c679cea3e9bf016710faffe7 )
+)
+
+game (
+	name "AFL Boulderdash (1987)(Blockheads & No-One)[t +1 AFL]"
+	description "AFL Boulderdash (1987)(Blockheads & No-One)[t +1 AFL]"
+	rom ( name "AFL Boulderdash (1987)(Blockheads & No-One)[t +1 AFL].prg" size 27904 crc 3ceeaeec md5 34cedf83872e871b45748b39f8aa18e7 sha1 219989f219e07a80d81b151594ae3252bdac7d99 )
+)
+
+game (
+	name "Angels' Boulder Dash (1998)(Peter Liepa, Index & Black)"
+	description "Angels' Boulder Dash (1998)(Peter Liepa, Index & Black)"
+	rom ( name "Angels' Boulder Dash (1998)(Peter Liepa, Index & Black).prg" size 18115 crc 863f0480 md5 945f0800729593bb14b79d73f02a909a sha1 0aeec6dd754aef86cba447c5209aaf4e120a942c )
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)[cr Nova]"
+	description "Boulder Dash (1984)(First Star Software)[cr Nova]"
+	rom ( name "Boulder Dash (1984)(First Star Software)[cr Nova].prg" size 21377 crc eaaaa5cd md5 bf4f3dbed8670430922d4430e24dfd3b sha1 7beb1db46704fcecca70cf192d6c2159951531db )
+)
+
+game (
+	name "Boulder Dash (1984)(First Star Software)[cr Nova][a]"
+	description "Boulder Dash (1984)(First Star Software)[cr Nova][a]"
+	rom ( name "Boulder Dash (1984)(First Star Software)[cr Nova][a].prg" size 16256 crc a21f1039 md5 2aeb12b6442506549b791062f2a33504 sha1 b3400df5526615d886219646c49ad4af980ca1eb )
+)
+
+game (
+	name "Boulder Dash - Construction Kit (1986)(First Star Software)[cr CFO]"
+	description "Boulder Dash - Construction Kit (1986)(First Star Software)[cr CFO]"
+	rom ( name "Boulder Dash - Construction Kit (1986)(First Star Software)[cr CFO].prg" size 27819 crc 45776ce7 md5 32d4c853bbf83955db417463aba6c1f7 sha1 250a6702ddbc51ef0977ec4b0be7f73e836cef3c )
+)
+
+game (
+	name "Boulder Dash - God's Boulderdash (1985)(First Star Software)[h Gods]"
+	description "Boulder Dash - God's Boulderdash (1985)(First Star Software)[h Gods]"
+	rom ( name "Boulder Dash - God's Boulderdash (1985)(First Star Software)[h Gods].prg" size 19988 crc 864cd98b md5 7efd973f5d5d8a330381e84a1bebd820 sha1 913a73abe97cbedcb7aad100373db2aab305f17b )
+)
+
+game (
+	name "Boulder Dash - God's Boulderdash 2 (1985)(First Star Software)[h Gods]"
+	description "Boulder Dash - God's Boulderdash 2 (1985)(First Star Software)[h Gods]"
+	rom ( name "Boulder Dash - God's Boulderdash 2 (1985)(First Star Software)[h Gods].prg" size 18831 crc 40d2b3bc md5 750d89cf2d802011c08ace7b49394948 sha1 f5fd53635c3725027593600aa596a09145f3acb9 )
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)"
+	description "Boulder Dash 01 (1984)(First Star Software)"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software).prg" size 23395 crc 59438c31 md5 0450195cd7a3a06fa109892b110cfc09 sha1 7e874eb32f9583a34ff1b90a7b4a2317e6f76840 )
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)[h Micro Fun]"
+	description "Boulder Dash 01 (1984)(First Star Software)[h Micro Fun]"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software)[h Micro Fun].prg" size 16257 crc 8da57895 md5 12ed3af3a5ca7d84a0ac18f07aad38b6 sha1 b85ec2921b87ab900150fcc9810ea97156db53dc )
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)[h Mr. M]"
+	description "Boulder Dash 01 (1984)(First Star Software)[h Mr. M]"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software)[h Mr. M].prg" size 16450 crc 9682e276 md5 e332c4a663a327a70c0f1987795a5bc3 sha1 3658703a40191021fe35b592622e8dd177825b12 )
+)
+
+game (
+	name "Boulder Dash 01 (1984)(First Star Software)[h Statesoft]"
+	description "Boulder Dash 01 (1984)(First Star Software)[h Statesoft]"
+	rom ( name "Boulder Dash 01 (1984)(First Star Software)[h Statesoft].prg" size 22105 crc a01462da md5 a8eca6283a123083309860cce8ad4d84 sha1 999929b9788528207ac7796f393dcc89b469ea70 )
+)
+
+game (
+	name "Boulder Dash 02 (1986)(First Star Software)"
+	description "Boulder Dash 02 (1986)(First Star Software)"
+	rom ( name "Boulder Dash 02 (1986)(First Star Software).prg" size 18276 crc 5899f4c4 md5 d0e3bfd28ee2f298c4ee4a4aabec154a sha1 2ffa7592d806fcd0f3f69c41668fea3981241a4b )
+)
+
+game (
+	name "Boulder Dash 02 (1986)(First Star Software)[cr SWAT]"
+	description "Boulder Dash 02 (1986)(First Star Software)[cr SWAT]"
+	rom ( name "Boulder Dash 02 (1986)(First Star Software)[cr SWAT].prg" size 24496 crc 9d18beff md5 bb3106141526cd90aefb4ccbc70d11ab sha1 c733d7b75ff9ae33fc7f77745f03f3b32b598149 )
+)
+
+game (
+	name "Boulder Dash 03 (1986)(First Star Software)[h ACE]"
+	description "Boulder Dash 03 (1986)(First Star Software)[h ACE]"
+	rom ( name "Boulder Dash 03 (1986)(First Star Software)[h ACE].prg" size 32723 crc 70b52460 md5 90b6ea97d0e4cae21d0222e3e8bb4b34 sha1 ae5cb0615bd17206a2d10841ea73277b23909ae5 )
+)
+
+game (
+	name "Boulder Dash 03 (1986)(First Star Software)[h Enterprises 41]"
+	description "Boulder Dash 03 (1986)(First Star Software)[h Enterprises 41]"
+	rom ( name "Boulder Dash 03 (1986)(First Star Software)[h Enterprises 41].prg" size 20795 crc ac76d56b md5 8d33120ff7ae2f433aba38bfbf6f29ad sha1 79f1e468980e32db9fbe797513b62a8c0e150573 )
+)
+
+game (
+	name "Boulder Dash 03 (1986)(First Star Software)[h Flash]"
+	description "Boulder Dash 03 (1986)(First Star Software)[h Flash]"
+	rom ( name "Boulder Dash 03 (1986)(First Star Software)[h Flash].prg" size 32365 crc 234286a8 md5 0393890dad3d328745665dac47b7118f sha1 bc81711ad6d7559066aeff8683216e8febd7b01a )
+)
+
+game (
+	name "Boulder Dash 03 (1986)(First Star Software)[h RAD]"
+	description "Boulder Dash 03 (1986)(First Star Software)[h RAD]"
+	rom ( name "Boulder Dash 03 (1986)(First Star Software)[h RAD].prg" size 26689 crc 19062033 md5 8b6a2c968ee061ad6999357074f53b11 sha1 e16e8dc7787d51053cee4f6f694946050c1d99ac )
+)
+
+game (
+	name "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro]"
+	description "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro]"
+	rom ( name "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro].prg" size 24834 crc 9e32ec58 md5 48f0587bfd49897003dd2ccb274562eb sha1 c337366240bde66d1a628167d19d4c3fced6661b )
+)
+
+game (
+	name "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro][a]"
+	description "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro][a]"
+	rom ( name "Boulder Dash 06 (1986)(First Star Software)[h Don Pedro][a].prg" size 15203 crc e51126d7 md5 50831ae853719401c8e0e00d3a2d6690 sha1 1a7453a0731efd7cfc76bc708490420930eedc81 )
+)
+
+game (
+	name "Boulder Dash 07 (1986)(First Star Software)[h Zombie]"
+	description "Boulder Dash 07 (1986)(First Star Software)[h Zombie]"
+	rom ( name "Boulder Dash 07 (1986)(First Star Software)[h Zombie].prg" size 24834 crc cf790493 md5 9d4c7e88b1ad140c62a81a5e60fa7337 sha1 e9ab196129dface15f75141a89ee2988764d2473 )
+)
+
+game (
+	name "Boulder Dash 08 (1986)(First Star Software)[h Don Pedro]"
+	description "Boulder Dash 08 (1986)(First Star Software)[h Don Pedro]"
+	rom ( name "Boulder Dash 08 (1986)(First Star Software)[h Don Pedro].prg" size 24834 crc 270e084c md5 c3aff1807ac135e76da2e3ef67847579 sha1 3792b070fa9eebc773745d9a532f7ac582408673 )
+)
+
+game (
+	name "Boulder Dash 08 (1986)(First Star Software)[h Zombie]"
+	description "Boulder Dash 08 (1986)(First Star Software)[h Zombie]"
+	rom ( name "Boulder Dash 08 (1986)(First Star Software)[h Zombie].prg" size 24834 crc 4064272e md5 137e9462f679abf23e589688b87cc270 sha1 65869d698422c8e932213e21231683eec26aaadc )
+)
+
+game (
+	name "Boulder Dash 09 (1986)(First Star Software)[h Zombie]"
+	description "Boulder Dash 09 (1986)(First Star Software)[h Zombie]"
+	rom ( name "Boulder Dash 09 (1986)(First Star Software)[h Zombie].prg" size 25090 crc 11f3b6f5 md5 6b9d1611ec17d99180ae82974612d161 sha1 8e9e394f1509b8a891c1859d0910df212a16fb28 )
+)
+
+game (
+	name "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro]"
+	description "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro]"
+	rom ( name "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro].prg" size 17503 crc cd2c6484 md5 eb2dd7a7aa6f0b211506f11e7f95c82b sha1 11ecef93ef9e0806f66d19cfb3f44b40a9854851 )
+)
+
+game (
+	name "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro][a]"
+	description "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro][a]"
+	rom ( name "Boulder Dash 10 (1986)(First Star Software)[h Don Pedro][a].prg" size 25090 crc 707de1f0 md5 1e7dde78359dac76182e0fd89abc42ef sha1 7be122e9f582f61eac3001bb98b2cfdc3030bbfd )
+)
+
+game (
+	name "Boulder Dash 11 (1986)(-)[h Zombie]"
+	description "Boulder Dash 11 (1986)(-)[h Zombie]"
+	rom ( name "Boulder Dash 11 (1986)(-)[h Zombie].prg" size 25090 crc 912871fd md5 40cd9d781f78273784291b14b626d239 sha1 3f79be85a3a903fed6a1873b8636f3fcb9fb3e0c )
+)
+
+game (
+	name "Boulder Dash 12 (1986)(First Star Software)[cr TX]"
+	description "Boulder Dash 12 (1986)(First Star Software)[cr TX]"
+	rom ( name "Boulder Dash 12 (1986)(First Star Software)[cr TX].prg" size 16320 crc e95af2fc md5 fcdc10c3adb8f6a3e3b1e3610df2ed60 sha1 bbab2d74a837b8b4d631557bd8a72a316f903d46 )
+)
+
+game (
+	name "Boulder Dash 16 (1986)(First Star Software)"
+	description "Boulder Dash 16 (1986)(First Star Software)"
+	rom ( name "Boulder Dash 16 (1986)(First Star Software).prg" size 35043 crc 66674fe7 md5 89df7772d3a924dd31427883709a10c2 sha1 d42435ae152580b8db1197b1b848fb960e551e12 )
+)
+
+game (
+	name "Boulder Dash 16 (1986)(First Star Software)[cr CMM]"
+	description "Boulder Dash 16 (1986)(First Star Software)[cr CMM]"
+	rom ( name "Boulder Dash 16 (1986)(First Star Software)[cr CMM].prg" size 35421 crc a60288d9 md5 3640410ba8fe351f42530f934721355d sha1 7c6fb5105c00b794e727e45ab347f151710955a2 )
+)
+
+game (
+	name "Boulder Dash 16 Compilation (1987)(-)[h GSS+RCC]"
+	description "Boulder Dash 16 Compilation (1987)(-)[h GSS+RCC]"
+	rom ( name "Boulder Dash 16 Compilation (1987)(-)[h GSS+RCC].prg" size 36303 crc 2c9d97a4 md5 313f468955f23a8464fad8b28d6b259b sha1 d4429777ba2e90b271c8952ba81293916226ce9c )
+)
+
+game (
+	name "Boulder Dash 2000 (2000)(Peter Liepa & H.M. Murdock)[cr TX]"
+	description "Boulder Dash 2000 (2000)(Peter Liepa & H.M. Murdock)[cr TX]"
+	rom ( name "Boulder Dash 2000 (2000)(Peter Liepa & H.M. Murdock)[cr TX].prg" size 19695 crc efe46278 md5 2e4e58e727209ae34c927eb0691889d4 sha1 16dfc506a380c5836be3f5318fe0c16e83a628bb )
+)
+
+game (
+	name "Boulder Dash Construction Kit (19xx)(-)[h SCI]"
+	description "Boulder Dash Construction Kit (19xx)(-)[h SCI]"
+	rom ( name "Boulder Dash Construction Kit (19xx)(-)[h SCI].prg" size 19761 crc 34a7713e md5 9e2a02ea6610cbef18d5c898b7fa2b6e sha1 88e2679b0eb75c3d50763a4fb4068a93e41590af )
+)
+
+game (
+	name "Boulder Dash DTV (2008)(Liepa, P. & Peiselulli)"
+	description "Boulder Dash DTV (2008)(Liepa, P. & Peiselulli)"
+	rom ( name "Boulder Dash DTV (2008)(Liepa, P. & Peiselulli).prg" size 48977 crc 66987ab6 md5 0996ed6ec9c993da4f419899b00f699f sha1 2b4ed037ee846ae2b6a6224a684fc1bb93e02d48 )
+)
+
+game (
+	name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte]"
+	description "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte]"
+	rom ( name "Boulder Dash II - Rockford's Revenge (1985)(First Star Software)[h Megabyte].prg" size 22543 crc 1de75699 md5 9a3b48c495a13c5f50fd6a31da84cec0 sha1 635ccad068b94ff9280638e8cacf20fa45d995fe )
+)
+
+game (
+	name "Boulder Dash III (1986)(First Star Software)[cr FCG]"
+	description "Boulder Dash III (1986)(First Star Software)[cr FCG]"
+	rom ( name "Boulder Dash III (1986)(First Star Software)[cr FCG].prg" size 32364 crc d5e9297d md5 cda7de3636f4628586a44da27a81cd6f sha1 67105f13ce0982bf63e45101c738fbcd5a75f8e4 )
+)
+
+game (
+	name "Boulder Dash IV (1986)(First Star Software)[h Dr Watson]"
+	description "Boulder Dash IV (1986)(First Star Software)[h Dr Watson]"
+	rom ( name "Boulder Dash IV (1986)(First Star Software)[h Dr Watson].prg" size 23031 crc 48f6b17c md5 6f6ade12ec5983b3efe4cce95661a64f sha1 b1df720ff98d0a0636a66d15358571e739226d4e )
+)
+
+game (
+	name "Boulder Dash IV (1986)(First Star Software)[h Dr. Watson]"
+	description "Boulder Dash IV (1986)(First Star Software)[h Dr. Watson]"
+	rom ( name "Boulder Dash IV (1986)(First Star Software)[h Dr. Watson].prg" size 38352 crc 938b8ab5 md5 756389a0507f05584028d53fda754d4d sha1 73aebb8d217ef588286c9810f73b4ff18ba35d0a )
+)
+
+game (
+	name "Boulder Dash Professional (1985)(-)[h Sijben]"
+	description "Boulder Dash Professional (1985)(-)[h Sijben]"
+	rom ( name "Boulder Dash Professional (1985)(-)[h Sijben].prg" size 11691 crc 5a2ec3ef md5 66b6c4cc8b04386ab6e9acb69049dea5 sha1 81cfae7524c11f9bd1d7402cab57b6fd1b3c9cea )
+)
+
+game (
+	name "Boulder Dash Twelve (19xx)(Liepa, P. & Wolfsoft)"
+	description "Boulder Dash Twelve (19xx)(Liepa, P. & Wolfsoft)"
+	rom ( name "Boulder Dash Twelve (19xx)(Liepa, P. & Wolfsoft).prg" size 21169 crc 48199a0d md5 41b1a1b93b2be333c1b9dbe953f8ed1c sha1 ce92852c77daba987f4b91eb21a4c58e9093a2b7 )
+)
+
+game (
+	name "Boulder Dash V (1986)(First Star Software)[h Zombie Crackers]"
+	description "Boulder Dash V (1986)(First Star Software)[h Zombie Crackers]"
+	rom ( name "Boulder Dash V (1986)(First Star Software)[h Zombie Crackers].prg" size 26624 crc cb14ee63 md5 be3e8179e2d01337d285ab966555811f sha1 31340280e6edc3ae3610491883ebd27977cbb0af )
+)
+
+game (
+	name "Boulder Dash V (1986)(First Star Software)[h Zombie]"
+	description "Boulder Dash V (1986)(First Star Software)[h Zombie]"
+	rom ( name "Boulder Dash V (1986)(First Star Software)[h Zombie].prg" size 17510 crc 541856ef md5 9d7250044f18d36d1bf7a783f824061e sha1 2fe4ddcb6441b7248e2655b3e2a7b02c04615573 )
+)
+
+game (
+	name "Boulderhead 1 (1987)(Peter Liepa & The Blockheads)"
+	description "Boulderhead 1 (1987)(Peter Liepa & The Blockheads)"
+	rom ( name "Boulderhead 1 (1987)(Peter Liepa & The Blockheads).prg" size 18225 crc ab3a207b md5 5c668685675ae8c27f51622fd9744d6e sha1 c6e683187967ccf850ee7a9d7b52b60c5fd85946 )
+)
+
+game (
+	name "Boulderhead 2 (1987)(Peter Liepa & The Blockheads)"
+	description "Boulderhead 2 (1987)(Peter Liepa & The Blockheads)"
+	rom ( name "Boulderhead 2 (1987)(Peter Liepa & The Blockheads).prg" size 18432 crc 6d417f1b md5 f735428cbdda80668d2bf72d0575b53b sha1 94f63a242c60ca85c01634789e8f32fee188847e )
+)
+
+game (
+	name "Boulderhead 3 (1987)(Peter Liepa & The Blockheads)"
+	description "Boulderhead 3 (1987)(Peter Liepa & The Blockheads)"
+	rom ( name "Boulderhead 3 (1987)(Peter Liepa & The Blockheads).prg" size 18432 crc 59a26353 md5 b2456c2de4b2af0de6afc985ce318a8c sha1 905a67cd6d8770febf0ea99b91fa8d6a8a16d801 )
+)
+
+game (
+	name "Brutalo Boulder Dash (19xx)(First Star Software)"
+	description "Brutalo Boulder Dash (19xx)(First Star Software)"
+	rom ( name "Brutalo Boulder Dash (19xx)(First Star Software).prg" size 24693 crc 34d9bad1 md5 ffb95d3204921f469f3d83d53b86fec9 sha1 d02203aa33cc90749b4104222c22c43a8078c460 )
+)
+
+game (
+	name "Cheech & Chongs Boulder Dash 2 (19xx)(Peter Liepa, Cheech & Chong)"
+	description "Cheech & Chongs Boulder Dash 2 (19xx)(Peter Liepa, Cheech & Chong)"
+	rom ( name "Cheech & Chongs Boulder Dash 2 (19xx)(Peter Liepa, Cheech & Chong).prg" size 28351 crc 8378fe9c md5 0b219480b0478f4487018580af5bd9c9 sha1 040b8f6a9e76d52043ba4540916c5a219f66e4a3 )
+)
+
+game (
+	name "Crazy Dash 1 (1988)(Stormbringer)"
+	description "Crazy Dash 1 (1988)(Stormbringer)"
+	rom ( name "Crazy Dash 1 (1988)(Stormbringer).prg" size 30571 crc 6624e3aa md5 94af83615e2716bca4c76141b4cc2280 sha1 1d5b373587ead05d60b9d4fd17ee5f46ede4ecd8 )
+)
+
+game (
+	name "Professional Boulder Dash (1985)(Sijben Soft)"
+	description "Professional Boulder Dash (1985)(Sijben Soft)"
+	rom ( name "Professional Boulder Dash (1985)(Sijben Soft).prg" size 16640 crc b454640f md5 841524af9db6b81f2794df700b9364b7 sha1 028ade1ca228ae01257c9a1f8512e95233599c40 )
+)
+
+game (
+	name "Quolder Dash 25 (1995)(Peter Liepa & Klaus Quindt)"
+	description "Quolder Dash 25 (1995)(Peter Liepa & Klaus Quindt)"
+	rom ( name "Quolder Dash 25 (1995)(Peter Liepa & Klaus Quindt).prg" size 36865 crc dbbd4331 md5 a6030a0e1f1bc8fa9703b6532565d0f1 sha1 c8b451adcc9f15f802518681bdc74bdbbd74da21 )
+)
+
+game (
+	name "Schaik Mix A (200x)(-)"
+	description "Schaik Mix A (200x)(-)"
+	rom ( name "Schaik Mix A (200x)(-).prg" size 29265 crc c37e8e10 md5 2b0cf34316e92db1f7a5bb7fd075d6f3 sha1 c500b087d5adb71021204ffd8367b7d8e1505814 )
+)
+
+game (
+	name "Schaik Mix B (200x)(-)"
+	description "Schaik Mix B (200x)(-)"
+	rom ( name "Schaik Mix B (200x)(-).prg" size 29382 crc 65eebd7b md5 8b93d75b462a7f44717cae2a2fdf9e9d sha1 04c4858cdd4595198cfe812bdd692ef9871c03cb )
+)
+
+game (
+	name "Schaik Mix C (200x)(-)"
+	description "Schaik Mix C (200x)(-)"
+	rom ( name "Schaik Mix C (200x)(-).prg" size 30077 crc c5d00310 md5 316b090d54b7ee9eee7db726f0d56ffc sha1 010287691d5e184fb778045836b46925a3511e2d )
+)
+
+game (
+	name "Super Boulder Dash (1984)(First Star Software)"
+	description "Super Boulder Dash (1984)(First Star Software)"
+	rom ( name "Super Boulder Dash (1984)(First Star Software).prg" size 17890 crc bc333be6 md5 80d2f599394b0db5990246cfaec99a5c sha1 e10ee6a9d1f2831b13f40f8cc78f55d17bf982c7 )
+)
+
+game (
+	name "Swedish Boulder Dash (19xx)(Peter Liepa)"
+	description "Swedish Boulder Dash (19xx)(Peter Liepa)"
+	rom ( name "Swedish Boulder Dash (19xx)(Peter Liepa).prg" size 25760 crc 2815f0a6 md5 1ffd9ea0c1c35e5a491c2ce46af5f175 sha1 9d6d6df09da50e922e1862a70514805ace70d5da )
+)
+
+game (
+	name "Werner Dash 4 (19xx)(-)"
+	description "Werner Dash 4 (19xx)(-)"
+	rom ( name "Werner Dash 4 (19xx)(-).prg" size 23269 crc c17a3ff6 md5 9e9a78f8e32c035e97a046dd46309c67 sha1 8bcf869cc0e5a055a685edfc491316f9bf46bbe4 )
+)
+

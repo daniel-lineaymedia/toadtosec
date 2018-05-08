@@ -1,0 +1,43 @@
+clrmamepro (
+	name "NEC PC-9801 - Multimedia"
+	description "NEC PC-9801 - Multimedia (TOSEC-v2009-06-25)"
+	category "NEC PC-9801 - Multimedia"
+	version 2009-06-25
+	author "Cassiel"
+)
+
+game (
+	name "C.G. Gallery 7 - Escort (1992)(Studio Z&3N)(JP)"
+	description "C.G. Gallery 7 - Escort (1992)(Studio Z&3N)(JP)"
+	rom ( name "C.G. Gallery 7 - Escort (1992)(Studio Z&3N)(JP).fdd" size 1480188 crc 1a20e731 md5 972cb12ab020b0d4c0994221e6c8a80d )
+)
+
+game (
+	name "CG Gallery Vol. 1 (19xx)(BTB)(JP)"
+	description "CG Gallery Vol. 1 (19xx)(BTB)(JP)"
+	rom ( name "CG Gallery Vol. 1 (19xx)(BTB)(JP).fdd" size 1475580 crc 6cc26745 md5 259762cdd278990edfcb0ede5b786250 )
+)
+
+game (
+	name "Erika (1991)(Explorer)(JP)"
+	description "Erika (1991)(Explorer)(JP)"
+	rom ( name "Erika (1991)(Explorer)(JP).fdd" size 1425404 crc 18a9fed0 md5 6573c0605bda2c98943b47a278464233 )
+)
+
+game (
+	name "LEX (1993)(Studio Sold Out)(JP)"
+	description "LEX (1993)(Studio Sold Out)(JP)"
+	rom ( name "LEX (1993)(Studio Sold Out)(JP).fdd" size 1497084 crc 8f19d42d md5 d6d17cff81c21f61abd89a6404c5fd36 )
+)
+
+game (
+	name "Sentimental Graphics Vol. 1 (19xx)(Team Zero)"
+	description "Sentimental Graphics Vol. 1 (19xx)(Team Zero)"
+	rom ( name "Sentimental Graphics Vol. 1 (19xx)(Team Zero).fdd" size 1496060 crc aa23c87d md5 f6a234b41bada7f890b28aba20c67b90 )
+)
+
+game (
+	name "Warlpurgis Night 3 (19xx)(Proper)(JP)"
+	description "Warlpurgis Night 3 (19xx)(Proper)(JP)"
+	rom ( name "Warlpurgis Night 3 (19xx)(Proper)(JP).fdd" size 1487356 crc 1be6e289 md5 d0f2bec6f6a0a7cc3b04a5dd4c32aa5f )
+)

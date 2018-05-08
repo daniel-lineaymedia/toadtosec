@@ -1,0 +1,43 @@
+clrmamepro (
+	name "Acorn BBC - Educational - [ADL]"
+	description "Acorn BBC - Educational - [ADL] (TOSEC-v2008-10-11)"
+	category "Acorn BBC - Educational - [ADL]"
+	version 2008-10-11
+	author "CRSV - Cassiel"
+)
+
+game (
+	name "CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS]"
+	description "CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "CeeFAX Advanced Teletext Receiver Course (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc c312332f md5 2733ea8634a04de90cd5f9e981e51aaf )
+)
+
+game (
+	name "CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS]"
+	description "CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "CeeFAX ASM Notes (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc d9a9630f md5 7723985ef628bec15d6542aa8fb9181a )
+)
+
+game (
+	name "CeeFAX DFS & Speech (19xx)(-)[h 8-Bit][ADFS]"
+	description "CeeFAX DFS & Speech (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "CeeFAX DFS & Speech (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc 39ab0fc3 md5 8a3efb42fab49278160d92353bf0a2c5 )
+)
+
+game (
+	name "CeeFAX Mouse & Lightpen Notes (19xx)(-)[h 8-Bit][ADFS]"
+	description "CeeFAX Mouse & Lightpen Notes (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "CeeFAX Mouse & Lightpen Notes (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc b7a258ba md5 d4eeed5c44fb92c73c67df4c1d41bfc5 )
+)
+
+game (
+	name "CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS]"
+	description "CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS]"
+	rom ( name "CeeFAX SWR Notes (19xx)(-)[h 8-Bit][ADFS].adl" size 655360 crc 52a2d690 md5 fded9f80aad2bb78ec877a407d114113 )
+)
+
+game (
+	name "Interbase Programming Manual (19xx)(-)[ADFS]"
+	description "Interbase Programming Manual (19xx)(-)[ADFS]"
+	rom ( name "Interbase Programming Manual (19xx)(-)[ADFS].adl" size 655360 crc 761d8e9d md5 f79471e9fd009e47062011cebc438bae )
+)

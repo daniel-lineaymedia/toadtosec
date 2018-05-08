@@ -1,0 +1,13 @@
+clrmamepro (
+	name "NCR Decision Mate V - Games"
+	description "NCR Decision Mate V - Games (TOSEC-v2006-03-18)"
+	category "NCR Decision Mate V - Games"
+	version 2006-03-18
+	author "Grendel"
+)
+
+game (
+	name "Ladder (1982)(Yahoo Software)"
+	description "Ladder (1982)(Yahoo Software)"
+	rom ( name "Ladder (1982)(Yahoo Software).com" size 40448 crc 8f5d1160 md5 34ad4a97b1dffeae8a24146543d022f5 )
+)

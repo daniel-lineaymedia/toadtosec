@@ -1,0 +1,26 @@
+clrmamepro (
+	name "HomeLab BraiLab - Educational"
+	description "HomeLab BraiLab - Educational (TOSEC-v2011-09-04)"
+	category "HomeLab BraiLab - Educational"
+	version 2011-09-04
+	author "Gruby"
+)
+
+game (
+	name "Basic I. (1990)(Vakoda Software)(hu)[pw - gepida]"
+	description "Basic I. (1990)(Vakoda Software)(hu)[pw - gepida]"
+	rom ( name "Basic I. (1990)(Vakoda Software)(hu)[pw - gepida].htp" size 5840 crc 3cdfc683 md5 fd39d902c23d8137753d3d9e19a00dc0 sha1 164765b6ad00f99c920a389227a0ddb7a59a17ac )
+)
+
+game (
+	name "Basic IV. (1990)(Vakoda Software)(hu)[pw - bunko']"
+	description "Basic IV. (1990)(Vakoda Software)(hu)[pw - bunko']"
+	rom ( name "Basic IV. (1990)(Vakoda Software)(hu)[pw - bunko'].htp" size 7432 crc f86fdbab md5 77e39bbf0c0f93aa0f705ad048691f97 sha1 ae19ca5028ab691f40162523092d694e397f6b43 )
+)
+
+game (
+	name "Basic V. (1990)(Vakoda Software)(hu)[pw - patka'ny]"
+	description "Basic V. (1990)(Vakoda Software)(hu)[pw - patka'ny]"
+	rom ( name "Basic V. (1990)(Vakoda Software)(hu)[pw - patka'ny].htp" size 8838 crc ee8ac05f md5 8f6cb1f9a89f11b3d9cc4e88ad2339a0 sha1 ed7ac813c99dea6e90f523e76afd1712a92e9d60 )
+)
+

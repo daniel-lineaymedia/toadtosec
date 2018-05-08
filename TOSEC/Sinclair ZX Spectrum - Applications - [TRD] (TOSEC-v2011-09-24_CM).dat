@@ -1,0 +1,212 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Applications - [TRD]"
+	description "Sinclair ZX Spectrum - Applications - [TRD] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Applications - [TRD]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "ALASM v4.1 (1997)(Alem)"
+	description "ALASM v4.1 (1997)(Alem)"
+	rom ( name "ALASM v4.1 (1997)(Alem).trd" size 655360 crc e214cefd md5 8e13bd5fe4e781a4371ef6d2d6fcee6e sha1 b20d3208025a63f6f61d3e670320152cdc65d826 )
+)
+
+game (
+	name "Colorful v1.0 (1999)(Moroz)(ru)"
+	description "Colorful v1.0 (1999)(Moroz)(ru)"
+	rom ( name "Colorful v1.0 (1999)(Moroz)(ru).trd" size 655360 crc bfa6dad9 md5 3f164119509f20342e20bd8c93c58be6 sha1 9e89451ebf84999bcccf5177ec72f25a54333093 )
+)
+
+game (
+	name "Dinosaurs (1993)(Sinclair User)"
+	description "Dinosaurs (1993)(Sinclair User)"
+	rom ( name "Dinosaurs (1993)(Sinclair User).trd" size 89856 crc fc855139 md5 a669e0fcbbeaff8f125b06b551ec0fea sha1 a5f75d492d03919a4106895b5bbce8bc274f3e28 )
+)
+
+game (
+	name "Disk Editor v1.1 (1997)(M.V. Spiridonenko)"
+	description "Disk Editor v1.1 (1997)(M.V. Spiridonenko)"
+	rom ( name "Disk Editor v1.1 (1997)(M.V. Spiridonenko).trd" size 655360 crc 4e21177b md5 7848fcf9c5046715242f2ed3ebfbd3ab sha1 e4918713882d5df4b9f1dfb9488198d19fa6e320 )
+)
+
+game (
+	name "English-Russian Dictionary (1997)(Rylskih-ICB)(ru)"
+	description "English-Russian Dictionary (1997)(Rylskih-ICB)(ru)"
+	rom ( name "English-Russian Dictionary (1997)(Rylskih-ICB)(ru).trd" size 655360 crc a18dade0 md5 1a9945d03b55ec01aaa7fd8734baa9fa sha1 ad974c2a9947fe97ce0c22df1c8ccfd39c484648 )
+)
+
+game (
+	name "Excess Deluxe Paint (2001)(Excess Team)(ru)"
+	description "Excess Deluxe Paint (2001)(Excess Team)(ru)"
+	rom ( name "Excess Deluxe Paint (2001)(Excess Team)(ru).trd" size 655360 crc 78df9be1 md5 b7202425fe5813e7965fa1f67629864b sha1 f093f77af409701eac3418c2469024ccb4838943 )
+)
+
+game (
+	name "Excess Sample Editor v1.4.253 (1998)(Excess Team - ZX System)"
+	description "Excess Sample Editor v1.4.253 (1998)(Excess Team - ZX System)"
+	rom ( name "Excess Sample Editor v1.4.253 (1998)(Excess Team - ZX System).trd" size 655360 crc d2761547 md5 9890f637c6399f2ea479f884491eb60f sha1 5a18da44abac63b5d2982ed15e8da302d3c97495 )
+)
+
+game (
+	name "Flash Tracker v2.1 for SounDrive (1996)(Flash)(ru)"
+	description "Flash Tracker v2.1 for SounDrive (1996)(Flash)(ru)"
+	rom ( name "Flash Tracker v2.1 for SounDrive (1996)(Flash)(ru).trd" size 655360 crc c8e47722 md5 f1e42bc4a167ea16bc33804771ac6654 sha1 8215ed671141968fd0e6b8e2ceb3592d391e51c0 )
+)
+
+game (
+	name "Graphic Station v1.21 (1999)(Stels)"
+	description "Graphic Station v1.21 (1999)(Stels)"
+	rom ( name "Graphic Station v1.21 (1999)(Stels).trd" size 655360 crc 42cf66bd md5 f4b5b8734be7117ba4db78bae4ba19bc sha1 f3d6b9ae087b145b852355554c3cd6ef89cb08e8 )
+)
+
+game (
+	name "Gun Commander v1.06 (demo) (1999)(-)"
+	description "Gun Commander v1.06 (demo) (1999)(-)"
+	rom ( name "Gun Commander v1.06 (demo) (1999)(-).trd" size 655360 crc bf2b7a6d md5 c2120dfe0ca706436f700eee46737fdb sha1 1a5ee0245451fd0049f1e12385800ccfcabadd7b )
+)
+
+game (
+	name "IF Creator (2002)(N-Discovery)(ru)"
+	description "IF Creator (2002)(N-Discovery)(ru)"
+	rom ( name "IF Creator (2002)(N-Discovery)(ru).trd" size 655360 crc 15e3a0fa md5 fb33600513dc50cc221b97edaace8346 sha1 f2306e839beb4181888af619f02c0ff6a9871a59 )
+)
+
+game (
+	name "Inter Mode Player v1.2 (1997)(RDG)(ru)"
+	description "Inter Mode Player v1.2 (1997)(RDG)(ru)"
+	rom ( name "Inter Mode Player v1.2 (1997)(RDG)(ru).trd" size 655360 crc eb623c2b md5 6261dca4c6a7542ef67aa474c1dd0c59 sha1 471d9707330a7730209bb032e65b2659698eea93 )
+)
+
+game (
+	name "Krossword Editor v3.0 (2000)(Metabolizm)(ru)"
+	description "Krossword Editor v3.0 (2000)(Metabolizm)(ru)"
+	rom ( name "Krossword Editor v3.0 (2000)(Metabolizm)(ru).trd" size 655360 crc 53a9187a md5 7f53b96fbe2c3b715e985743d51a49fe sha1 27a51f346534aba4ef73c238ea850841950f35de )
+)
+
+game (
+	name "Noter v1.0 (2000)(Hackers Design Software)"
+	description "Noter v1.0 (2000)(Hackers Design Software)"
+	rom ( name "Noter v1.0 (2000)(Hackers Design Software).trd" size 655360 crc ec2cf148 md5 166d82a886d6cf847d7371def8e2b025 sha1 30d0209fd7f442870da9c8d17179bd851cf16fe0 )
+)
+
+game (
+	name "Phone Databook v2.03 (2000)(Moonlight)(ru)"
+	description "Phone Databook v2.03 (2000)(Moonlight)(ru)"
+	rom ( name "Phone Databook v2.03 (2000)(Moonlight)(ru).trd" size 655360 crc 0a42a69e md5 b20d5457c3fab879cd6ba2f36c5177e1 sha1 961e9737702b6bb590c42ec7b4810a62f16d543e )
+)
+
+game (
+	name "Pravila Dorozhnogo Dvizhyeniya (demo) (1998)(ALS - RLS)(ru)"
+	description "Pravila Dorozhnogo Dvizhyeniya (demo) (1998)(ALS - RLS)(ru)"
+	rom ( name "Pravila Dorozhnogo Dvizhyeniya (demo) (1998)(ALS - RLS)(ru).trd" size 35840 crc 704e0321 md5 d22798bfb6b68b0d67c46c8578bc88d8 sha1 bb6aaf12a9a372ee1eb94fd6d9d8ef9db5902960 )
+)
+
+game (
+	name "Pravila Dorozhnogo Dvizhyeniya v1.0 (demo) (2000)(Perspective Group)(ru)"
+	description "Pravila Dorozhnogo Dvizhyeniya v1.0 (demo) (2000)(Perspective Group)(ru)"
+	rom ( name "Pravila Dorozhnogo Dvizhyeniya v1.0 (demo) (2000)(Perspective Group)(ru).trd" size 655360 crc f483fda3 md5 4af8ed40b461065f0c0363cb72d3a63e sha1 8457e60bb1c5179cfea25251c1f2f38df5ef2228 )
+)
+
+game (
+	name "Soundtracker (demo) (1991)(Pentagram)[h Eugene Stepanoff]"
+	description "Soundtracker (demo) (1991)(Pentagram)[h Eugene Stepanoff]"
+	rom ( name "Soundtracker (demo) (1991)(Pentagram)[h Eugene Stepanoff].trd" size 19968 crc 98d2ac58 md5 2dd7d159af1fdbd838738c6afa9486f2 sha1 278e83de38600baf44071e4d98baa1a6adf01e36 )
+)
+
+game (
+	name "Soundtracker v3.0 (19xx)(KSA Software)(ru)"
+	description "Soundtracker v3.0 (19xx)(KSA Software)(ru)"
+	rom ( name "Soundtracker v3.0 (19xx)(KSA Software)(ru).trd" size 655360 crc 0d7784a3 md5 353a8eff3729e385e2ae6d52f8ab16b3 sha1 7a8f0141d1eedadd8e4e1f79adb5a03a3225b93b )
+)
+
+game (
+	name "Super Sonic Music Editor v1.01 (demo) (1993)(Klav)(ru)"
+	description "Super Sonic Music Editor v1.01 (demo) (1993)(Klav)(ru)"
+	rom ( name "Super Sonic Music Editor v1.01 (demo) (1993)(Klav)(ru).trd" size 39168 crc f1007dd0 md5 fe3d6050a90d397e1da71bb328ab5299 sha1 9456aea83c76881440c5a56a89e52a2f9724290e )
+)
+
+game (
+	name "Teach Words (1998)(Avalon Software)(ru)"
+	description "Teach Words (1998)(Avalon Software)(ru)"
+	rom ( name "Teach Words (1998)(Avalon Software)(ru).trd" size 30464 crc e793adea md5 f3c8917ea2a2b4e4ec08ce051b01932e sha1 db13b75936a7c6b568c4af4e5ea2103b219cc1f6 )
+)
+
+game (
+	name "Ten Fingers (1997)(Digital Reality)(ru)"
+	description "Ten Fingers (1997)(Digital Reality)(ru)"
+	rom ( name "Ten Fingers (1997)(Digital Reality)(ru).trd" size 36608 crc 808302c3 md5 3229f51d9743b66201d7fc4b63633e16 sha1 5461e4c1bcb902e06f2ac8c705aae8c555f8dd31 )
+)
+
+game (
+	name "Ultra Sonic v1.03 (1999)(Omega Hackers Group)"
+	description "Ultra Sonic v1.03 (1999)(Omega Hackers Group)"
+	rom ( name "Ultra Sonic v1.03 (1999)(Omega Hackers Group).trd" size 655360 crc b12fdb39 md5 172993513e347accf661c246a03c9bfb sha1 d50c18c47fd7a5be1045ebc0952e1f7a19ee2e80 )
+)
+
+game (
+	name "Virtual Z-Machine Emulator v0.60 (2001)(M.V. Vishnevsky)(ru)"
+	description "Virtual Z-Machine Emulator v0.60 (2001)(M.V. Vishnevsky)(ru)"
+	rom ( name "Virtual Z-Machine Emulator v0.60 (2001)(M.V. Vishnevsky)(ru).trd" size 655360 crc 04b48934 md5 665fe4b3f81b2646ffc7a6fa687feafe sha1 d41c24dbd62988e9f75372d00c6a301ce705b195 )
+)
+
+game (
+	name "Virtual Z-Machine Emulator v0.62 (2001)(M.V. Vishnevsky)(ru)"
+	description "Virtual Z-Machine Emulator v0.62 (2001)(M.V. Vishnevsky)(ru)"
+	rom ( name "Virtual Z-Machine Emulator v0.62 (2001)(M.V. Vishnevsky)(ru).trd" size 655360 crc bacb437d md5 d700f93d11272398c30f29230a88c9dc sha1 b3bbd94ebeb87f1ca50915ebe5db629e3bd0a273 )
+)
+
+game (
+	name "Virtual Z-Machine Emulator v0.63 (2001)(M.V. Vishnevsky)(ru)"
+	description "Virtual Z-Machine Emulator v0.63 (2001)(M.V. Vishnevsky)(ru)"
+	rom ( name "Virtual Z-Machine Emulator v0.63 (2001)(M.V. Vishnevsky)(ru).trd" size 655360 crc 33f5c405 md5 54e341e0ecdb095b258c20e091ba22c0 sha1 95cff9a344104f5b7073bcbcd7638534cfc6f80d )
+)
+
+game (
+	name "Virtual Z-Machine Emulator v0.64 (2001)(M.V. Vishnevsky)(ru)"
+	description "Virtual Z-Machine Emulator v0.64 (2001)(M.V. Vishnevsky)(ru)"
+	rom ( name "Virtual Z-Machine Emulator v0.64 (2001)(M.V. Vishnevsky)(ru).trd" size 655360 crc 0d598b6e md5 0937c5f63c52ef48986e5717db1bde6e sha1 4f8ab86d10cb489e5b0fe32f2b01e94cc9aeeba9 )
+)
+
+game (
+	name "ZX Amp v1.00 (2000)(Stall Studio)(ru)"
+	description "ZX Amp v1.00 (2000)(Stall Studio)(ru)"
+	rom ( name "ZX Amp v1.00 (2000)(Stall Studio)(ru).trd" size 655360 crc 18ca87b0 md5 ed63d424023ea9bc6c5281b75277d72c sha1 4c200ebdc9a58ed5badee103ecf25486eb88f89e )
+)
+
+game (
+	name "ZX Turbo Assembler v3.0 (19xx)(-)(ru)"
+	description "ZX Turbo Assembler v3.0 (19xx)(-)(ru)"
+	rom ( name "ZX Turbo Assembler v3.0 (19xx)(-)(ru).trd" size 655360 crc 89f00392 md5 b187ed5d33f8c84ef25a997451a1bde9 sha1 d904322fb462fbf9743b775581baaa36178d7620 )
+)
+
+game (
+	name "ZX-Navigator v1.2 (2001)(Explosive Team)(ru)"
+	description "ZX-Navigator v1.2 (2001)(Explosive Team)(ru)"
+	rom ( name "ZX-Navigator v1.2 (2001)(Explosive Team)(ru).trd" size 655360 crc 0eb17338 md5 98c490d461373e0401fbb4e3e9fa0de7 sha1 f8d2600e9daae0bda48d54b5081a261c05a16137 )
+)
+
+game (
+	name "ZX-Navigator v1.3 (2001)(Explosive Team)(ru)"
+	description "ZX-Navigator v1.3 (2001)(Explosive Team)(ru)"
+	rom ( name "ZX-Navigator v1.3 (2001)(Explosive Team)(ru).trd" size 655360 crc 76fb604a md5 11418b2c5aa7e87a0bef76714483a105 sha1 b3a8faf0c1eacca3134d112c4c128025997c16fb )
+)
+
+game (
+	name "ZX-Windows v1.4 (1999)(Myth)(ru)"
+	description "ZX-Windows v1.4 (1999)(Myth)(ru)"
+	rom ( name "ZX-Windows v1.4 (1999)(Myth)(ru).trd" size 655360 crc 1d27166a md5 a0dabbc3c275aecaee92dbc216877b5a sha1 50e3c0abc3ecbeddc1cbc30889ff794b317e2c64 )
+)
+
+game (
+	name "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 1 of 2)"
+	description "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 1 of 2)"
+	rom ( name "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 1 of 2).trd" size 655360 crc 2b0ae2ba md5 def0a3a7c0834c35d6bf00445c931c31 sha1 ba99578402fa6146f55f60521088c10fd97392a9 )
+)
+
+game (
+	name "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 2 of 2)"
+	description "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 2 of 2)"
+	rom ( name "ZX-Windows v1.6 (2001)(Myth)(ru)(Disk 2 of 2).trd" size 655360 crc 3628d37d md5 4cdd620dc67ae2beb52121d91a876273 sha1 d5e8b7d96c46df87007591409471cd78cdc82ea8 )
+)
+

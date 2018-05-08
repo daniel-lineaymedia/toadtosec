@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Nascom I & II - Games - [DSK]"
+	description "Nascom I & II - Games - [DSK] (TOSEC-v2009-08-25)"
+	category "Nascom I & II - Games - [DSK]"
+	version 2009-08-25
+	author "Grendel - Cid - Cassiel"
+)
+
+game (
+	name "Adventure (1983)(Espley, Richard)"
+	description "Adventure (1983)(Espley, Richard)"
+	rom ( name "Adventure (1983)(Espley, Richard).dsk" size 655360 crc bd37aa35 md5 c0f20c1b183ec09cc7b41cdd62bab175 )
+)
+
+game (
+	name "Asteroids (1985)(Espley, Richard)"
+	description "Asteroids (1985)(Espley, Richard)"
+	rom ( name "Asteroids (1985)(Espley, Richard).dsk" size 655360 crc 96d6b7b6 md5 46da8b82caa0c5e0b09bc4315009d5ab )
+)

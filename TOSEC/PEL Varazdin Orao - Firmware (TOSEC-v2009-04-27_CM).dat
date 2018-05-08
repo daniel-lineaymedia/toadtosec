@@ -1,0 +1,31 @@
+clrmamepro (
+	name "PEL Varazdin Orao - Firmware"
+	description "PEL Varazdin Orao - Firmware (TOSEC-v2009-04-27)"
+	category "PEL Varazdin Orao - Firmware"
+	version 2009-04-27
+	author "TKaos"
+)
+
+game (
+	name "Eagle Extended Basic v1.0 (1985)(PEL Varazdin)"
+	description "Eagle Extended Basic v1.0 (1985)(PEL Varazdin)"
+	rom ( name "Eagle Extended Basic v1.0 (1985)(PEL Varazdin).rom" size 8192 crc 35daf5da md5 d3f6d641504df432c2442d9eb6db90f3 )
+)
+
+game (
+	name "Monitor ROM v1.2 (19xx)(PEL Varazdin)"
+	description "Monitor ROM v1.2 (19xx)(PEL Varazdin)"
+	rom ( name "Monitor ROM v1.2 (19xx)(PEL Varazdin).rom" size 8192 crc 94ebdc94 md5 2a5f716f70cbcf733a2e04219358ac14 )
+)
+
+game (
+	name "Monitor ROM v1.3 (19xx)(PEL Varazdin)"
+	description "Monitor ROM v1.3 (19xx)(PEL Varazdin)"
+	rom ( name "Monitor ROM v1.3 (19xx)(PEL Varazdin).rom" size 8192 crc e7076014 md5 8481f2f1b580b70b8920891ab676aa59 )
+)
+
+game (
+	name "Orao Basic 1.2 (19xx)(PEL Varazdin)"
+	description "Orao Basic 1.2 (19xx)(PEL Varazdin)"
+	rom ( name "Orao Basic 1.2 (19xx)(PEL Varazdin).rom" size 8192 crc 42ae6f69 md5 ccea82a1eaaede7664057ed5484bc386 )
+)

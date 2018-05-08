@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Sega Game Gear - Samplers"
+	description "Sega Game Gear - Samplers (TOSEC-v2011-06-20)"
+	category "Sega Game Gear - Samplers"
+	version 2011-06-20
+	author "Cassiel"
+)
+
+game (
+	name "Sonic & Tails (demo-kiosk) (1993)(Sega)(JP)(en)"
+	description "Sonic & Tails (demo-kiosk) (1993)(Sega)(JP)(en)"
+	rom ( name "Sonic & Tails (demo-kiosk) (1993)(Sega)(JP)(en).bin" size 524288 crc e0e3fb6a md5 f26a5632af1edbca9951a53bbaa68210 sha1 cb09f304f3da4bb23fe70abec4b94b4826c41111 )
+)
+
+game (
+	name "Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en)"
+	description "Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en)"
+	rom ( name "Sonic Drift (demo-kiosk) (1994)(Sega)(JP)(en).bin" size 524288 crc baac1fc0 md5 db3e87dc719c5d6f13859eee81cca297 sha1 462bdf9bfac3eb9b389142b55be39608c3343223 )
+)
+

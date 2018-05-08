@@ -1,0 +1,289 @@
+clrmamepro (
+	name "Atari ST - Collections - Kontrast"
+	description "Atari ST - Collections - Kontrast (TOSEC-v2006-03-26)"
+	category "Atari ST - Collections - Kontrast"
+	version 2006-03-26
+	author "Keili"
+)
+
+game (
+	name "Kontrast 7001 (19xx)(Kontrast)"
+	description "Kontrast 7001 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7001 (19xx)(Kontrast).st" size 819200 crc fcd3afc4 md5 42c0118bc2bbad0afdf30174a4bbab27 )
+)
+
+game (
+	name "Kontrast 7002 (19xx)(Kontrast)"
+	description "Kontrast 7002 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7002 (19xx)(Kontrast).st" size 737280 crc c5b64f9e md5 89c3f9718313a0a6c5a39d56e829fcd7 )
+)
+
+game (
+	name "Kontrast 7003 (19xx)(Kontrast)"
+	description "Kontrast 7003 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7003 (19xx)(Kontrast).st" size 737280 crc 6c4b5da4 md5 c7f636d501f17d9ace462f42fce02299 )
+)
+
+game (
+	name "Kontrast 7004 (19xx)(Kontrast)"
+	description "Kontrast 7004 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7004 (19xx)(Kontrast).st" size 755712 crc fc76e0ab md5 347336ec80462d0e779163b23f307d31 )
+)
+
+game (
+	name "Kontrast 7005 (19xx)(Kontrast)"
+	description "Kontrast 7005 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7005 (19xx)(Kontrast).st" size 737280 crc 611e3f5a md5 c425741c4169a0c019dc956be7449db6 )
+)
+
+game (
+	name "Kontrast 7006 (19xx)(Kontrast)"
+	description "Kontrast 7006 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7006 (19xx)(Kontrast).st" size 737280 crc 0bf86606 md5 39166b99b25d3cd28d5b73af7914e6e1 )
+)
+
+game (
+	name "Kontrast 7008 (19xx)(Kontrast)"
+	description "Kontrast 7008 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7008 (19xx)(Kontrast).st" size 737280 crc 67cc7651 md5 a3f8ee267eaeaf5d68ed29d49007bc6b )
+)
+
+game (
+	name "Kontrast 7009 (19xx)(Kontrast)"
+	description "Kontrast 7009 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7009 (19xx)(Kontrast).st" size 829440 crc 51dd6d50 md5 e14ff3dedaadcec18ca46de0faf27cc8 )
+)
+
+game (
+	name "Kontrast 7010 (19xx)(Kontrast)"
+	description "Kontrast 7010 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7010 (19xx)(Kontrast).st" size 737280 crc a2b70584 md5 3f482cf0da8e76ebd599e322a27998df )
+)
+
+game (
+	name "Kontrast 7011 (19xx)(Kontrast)"
+	description "Kontrast 7011 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7011 (19xx)(Kontrast).st" size 737280 crc e0344f1f md5 412ca5eb8ed28541a84e1b8e2e5da162 )
+)
+
+game (
+	name "Kontrast 7012 (19xx)(Kontrast)"
+	description "Kontrast 7012 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7012 (19xx)(Kontrast).st" size 737280 crc b5a7aef9 md5 e491ee04fe28b6541b325e77719c6b67 )
+)
+
+game (
+	name "Kontrast 7013 (19xx)(Kontrast)"
+	description "Kontrast 7013 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7013 (19xx)(Kontrast).st" size 737280 crc 18f7a6b2 md5 88e887f39d263f2553c63b29f8772a96 )
+)
+
+game (
+	name "Kontrast 7014 (19xx)(Kontrast)"
+	description "Kontrast 7014 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7014 (19xx)(Kontrast).st" size 737280 crc eb48f8d2 md5 a5ce80502367d45c58c75e3fbea5ee26 )
+)
+
+game (
+	name "Kontrast 7016 (19xx)(Kontrast)"
+	description "Kontrast 7016 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7016 (19xx)(Kontrast).st" size 737280 crc e015e14c md5 30bab4c79f15d7118cd5331d7264886b )
+)
+
+game (
+	name "Kontrast 7017 (19xx)(Kontrast)"
+	description "Kontrast 7017 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7017 (19xx)(Kontrast).st" size 819200 crc 9b4e222e md5 dfcde0ced00e265a7a6e8d34db511bc4 )
+)
+
+game (
+	name "Kontrast 7018 (19xx)(Kontrast)"
+	description "Kontrast 7018 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7018 (19xx)(Kontrast).st" size 737280 crc 76b58bd1 md5 98ee9699cdde1e52e604dbb5a0dd60df )
+)
+
+game (
+	name "Kontrast 7019 (19xx)(Kontrast)"
+	description "Kontrast 7019 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7019 (19xx)(Kontrast).st" size 829440 crc 179566f0 md5 2ea8893e3378dca448fd1e5623cf1add )
+)
+
+game (
+	name "Kontrast 7020 (19xx)(Kontrast)"
+	description "Kontrast 7020 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7020 (19xx)(Kontrast).st" size 737280 crc ade3b21f md5 65c33c6af1b22fdca5bc511375408c62 )
+)
+
+game (
+	name "Kontrast 7021 (19xx)(Kontrast)"
+	description "Kontrast 7021 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7021 (19xx)(Kontrast).st" size 737280 crc f98c458e md5 1392be0ab8f64b7ef195e16e81b7a3a9 )
+)
+
+game (
+	name "Kontrast 7022 (19xx)(Kontrast)"
+	description "Kontrast 7022 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7022 (19xx)(Kontrast).st" size 737280 crc bca83f86 md5 968820364b2d777b72b4a534a5d834fc )
+)
+
+game (
+	name "Kontrast 7023 (19xx)(Kontrast)"
+	description "Kontrast 7023 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7023 (19xx)(Kontrast).st" size 737280 crc 2d378062 md5 66e2c33f8a1a2a6b36c9d0b49c538116 )
+)
+
+game (
+	name "Kontrast 7024 (19xx)(Kontrast)"
+	description "Kontrast 7024 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7024 (19xx)(Kontrast).st" size 737280 crc a74d9b57 md5 89535edf64a34f7b0eda5a78c5935eec )
+)
+
+game (
+	name "Kontrast 7026 (19xx)(Kontrast)"
+	description "Kontrast 7026 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7026 (19xx)(Kontrast).st" size 737280 crc 1d86cf0b md5 259a2373960fea880a13f82832c4de49 )
+)
+
+game (
+	name "Kontrast 7027 (19xx)(Kontrast)"
+	description "Kontrast 7027 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7027 (19xx)(Kontrast).st" size 737280 crc 11572cb2 md5 26edf37fd8eb173975ab4c926772395d )
+)
+
+game (
+	name "Kontrast 7028 (19xx)(Kontrast)"
+	description "Kontrast 7028 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7028 (19xx)(Kontrast).st" size 737280 crc 3a8a9145 md5 470d3710994b983674df630ccf13a78c )
+)
+
+game (
+	name "Kontrast 7029 (19xx)(Kontrast)"
+	description "Kontrast 7029 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7029 (19xx)(Kontrast).st" size 737280 crc 77846407 md5 c65c5e891795941bf87fb7ba047a25e0 )
+)
+
+game (
+	name "Kontrast 7030 (19xx)(Kontrast)"
+	description "Kontrast 7030 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7030 (19xx)(Kontrast).st" size 737280 crc ef222863 md5 7f28e6e92bf0544dc9ac50be8905fc4c )
+)
+
+game (
+	name "Kontrast 7031 (19xx)(Kontrast)"
+	description "Kontrast 7031 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7031 (19xx)(Kontrast).st" size 819200 crc 05eee55e md5 7c85b2d355afcd3d6a91614035b20950 )
+)
+
+game (
+	name "Kontrast 7032 (19xx)(Kontrast)"
+	description "Kontrast 7032 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7032 (19xx)(Kontrast).st" size 819200 crc 214d23b1 md5 0e0ed6bb5d3e64d183deec0656f026d5 )
+)
+
+game (
+	name "Kontrast 7033 (19xx)(Kontrast)"
+	description "Kontrast 7033 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7033 (19xx)(Kontrast).st" size 819200 crc 58e49bce md5 6b57f98fa8d5d5f03abfa3bc553b0f69 )
+)
+
+game (
+	name "Kontrast 7034 (19xx)(Kontrast)"
+	description "Kontrast 7034 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7034 (19xx)(Kontrast).st" size 819200 crc d7831959 md5 f4ce45bdefc5fcb8736ecbee776eff14 )
+)
+
+game (
+	name "Kontrast 7035 (19xx)(Kontrast)"
+	description "Kontrast 7035 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7035 (19xx)(Kontrast).st" size 737280 crc 9ae5ccc4 md5 1edca3a04e1daac81c3d524b9f8d76eb )
+)
+
+game (
+	name "Kontrast 7036 (19xx)(Kontrast)"
+	description "Kontrast 7036 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7036 (19xx)(Kontrast).st" size 737280 crc fcc2f046 md5 b9a665ab1b06d3f0e9cf2f89168ccb2b )
+)
+
+game (
+	name "Kontrast 7037 (19xx)(Kontrast)"
+	description "Kontrast 7037 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7037 (19xx)(Kontrast).st" size 737280 crc e094ea08 md5 21b280f2016925c19f04f8de786a0b42 )
+)
+
+game (
+	name "Kontrast 7038 (19xx)(Kontrast)"
+	description "Kontrast 7038 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7038 (19xx)(Kontrast).st" size 737280 crc 1e21c752 md5 6139df84dba4c4d4f5c1703b9d545c2a )
+)
+
+game (
+	name "Kontrast 7039 (19xx)(Kontrast)"
+	description "Kontrast 7039 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7039 (19xx)(Kontrast).st" size 737280 crc 85287c3d md5 e2f47d7c5328477ce8943c6232bba896 )
+)
+
+game (
+	name "Kontrast 7040 (19xx)(Kontrast)"
+	description "Kontrast 7040 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7040 (19xx)(Kontrast).st" size 737280 crc 7d96563e md5 6c79bc9d4f514c0079e18ee838e53f60 )
+)
+
+game (
+	name "Kontrast 7041 (19xx)(Kontrast)"
+	description "Kontrast 7041 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7041 (19xx)(Kontrast).st" size 737280 crc 9de3f9dd md5 c65439a58abd11a4fd31dc4a00357049 )
+)
+
+game (
+	name "Kontrast 7042 (19xx)(Kontrast)"
+	description "Kontrast 7042 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7042 (19xx)(Kontrast).st" size 737280 crc 94f357a0 md5 cb819cc526f2da85cccd0346cee045c7 )
+)
+
+game (
+	name "Kontrast 7043 (19xx)(Kontrast)"
+	description "Kontrast 7043 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7043 (19xx)(Kontrast).st" size 746496 crc 28bb5d45 md5 e018074fc4253bd03f83b955dd870d67 )
+)
+
+game (
+	name "Kontrast 7044 (19xx)(Kontrast)"
+	description "Kontrast 7044 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7044 (19xx)(Kontrast).st" size 737280 crc b99ef1f6 md5 5acf69503ecdf2b9cbfb4b5913cdc8f5 )
+)
+
+game (
+	name "Kontrast 7045 (19xx)(Kontrast)"
+	description "Kontrast 7045 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7045 (19xx)(Kontrast).st" size 755712 crc 572cdee1 md5 9da554e9729c29ccb3578f7d2c07110c )
+)
+
+game (
+	name "Kontrast 7046 (19xx)(Kontrast)"
+	description "Kontrast 7046 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7046 (19xx)(Kontrast).st" size 737280 crc 616d0d49 md5 e6a4807899cb11ef0cc105538ebbb567 )
+)
+
+game (
+	name "Kontrast 7047 (19xx)(Kontrast)"
+	description "Kontrast 7047 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7047 (19xx)(Kontrast).st" size 737280 crc 8ac5f378 md5 4d3fbff9a281f3342bd5823cc296c96d )
+)
+
+game (
+	name "Kontrast 7048 (19xx)(Kontrast)"
+	description "Kontrast 7048 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7048 (19xx)(Kontrast).st" size 737280 crc a1c3d22a md5 a9ba61effef0be7adc4700966d6b95f7 )
+)
+
+game (
+	name "Kontrast 7049 (19xx)(Kontrast)"
+	description "Kontrast 7049 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7049 (19xx)(Kontrast).st" size 737280 crc 8b6473ae md5 f413dca326445a1e27cf2ec01527dfdb )
+)
+
+game (
+	name "Kontrast 7050 (19xx)(Kontrast)"
+	description "Kontrast 7050 (19xx)(Kontrast)"
+	rom ( name "Kontrast 7050 (19xx)(Kontrast).st" size 737280 crc 904c7ccd md5 80be5eee33a507a0762192eeb713fdc5 )
+)

@@ -1,0 +1,13 @@
+clrmamepro (
+	name "Sord M5 - Firmware"
+	description "Sord M5 - Firmware (TOSEC-v2009-09-01)"
+	category "Sord M5 - Firmware"
+	version 2009-09-01
+	author "Cid - Cassiel - mek1"
+)
+
+game (
+	name "Sord M5 BIOS (19xx)(Sord)(JP)"
+	description "Sord M5 BIOS (19xx)(Sord)(JP)"
+	rom ( name "Sord M5 BIOS (19xx)(Sord)(JP).bin" size 8192 crc 78848d39 md5 466c33583113d61fce0f04bfb1707eca )
+)

@@ -1,0 +1,19 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [P00]"
+	description "Commodore C64 - Educational - [P00] (TOSEC-v2005-07-30)"
+	category "Commodore C64 - Educational - [P00]"
+	version 2005-07-30
+	author "DesertWolf"
+)
+
+game (
+	name "Kids on Keys (1983)(Spinnaker Software)"
+	description "Kids on Keys (1983)(Spinnaker Software)"
+	rom ( name "Kids on Keys (1983)(Spinnaker Software).p00" size 16450 crc 1451c89b md5 705dcbe4fbe5e07057e40cde660fddd6 )
+)
+
+game (
+	name "Kindercomp (1983)(Spinnaker Software)"
+	description "Kindercomp (1983)(Spinnaker Software)"
+	rom ( name "Kindercomp (1983)(Spinnaker Software).p00" size 16450 crc e347126b md5 2a172045dea78a805e6ea04c001fd8d9 )
+)

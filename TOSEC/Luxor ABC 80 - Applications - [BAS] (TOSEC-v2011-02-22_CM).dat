@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Luxor ABC 80 - Applications - [BAS]"
+	description "Luxor ABC 80 - Applications - [BAS] (TOSEC-v2011-02-22)"
+	category "Luxor ABC 80 - Applications - [BAS]"
+	version 2011-02-22
+	author "Cid - Cassiel"
+)
+
+game (
+	name "Scrolled v1.02 (1986)(Eriksson, Kristoffer)(SE)"
+	description "Scrolled v1.02 (1986)(Eriksson, Kristoffer)(SE)"
+	rom ( name "Scrolled v1.02 (1986)(Eriksson, Kristoffer)(SE).bas" size 9000 crc d7f21a4c md5 bb511c743826b04d9f1928ac7d6b6d22 sha1 347e04734b929952a85c298a6364e2c9bedf8cb4 )
+)
+

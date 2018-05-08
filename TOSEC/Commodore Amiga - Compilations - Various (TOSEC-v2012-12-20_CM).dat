@@ -1,0 +1,626 @@
+clrmamepro (
+	name "Commodore Amiga - Compilations - Various"
+	description "Commodore Amiga - Compilations - Various (TOSEC-v2012-12-20)"
+	category "Commodore Amiga - Compilations - Various"
+	version 2012-12-20
+	author "idoru - CRSV - DesertWolf - morph72 - mai - Crashdisk"
+)
+
+game (
+	name "Acid Mix 1, The (1989)(Sargon)"
+	description "Acid Mix 1, The (1989)(Sargon)"
+	rom ( name "Acid Mix 1, The (1989)(Sargon).adf" size 901120 crc a2718b53 md5 08a8abbf8fbe4c450a97e5521548dfec sha1 065806bf7fdfbd58286d52b4cc72bcfd7e7ae7e3 )
+)
+
+game (
+	name "Acid Mix 5, The (1989)(Sargon)[b corrupt files]"
+	description "Acid Mix 5, The (1989)(Sargon)[b corrupt files]"
+	rom ( name "Acid Mix 5, The (1989)(Sargon)[b corrupt files].adf" size 901120 crc d2315a15 md5 613aaf38fa6c8211f7802dfa5bc2747f sha1 4ef71530f7b8d32e378e0d20da58f7e45008df55 )
+)
+
+game (
+	name "ACU - Comp 7 (19xx)(Australian Crackers United)[v AmigaMan][b virus damage]"
+	description "ACU - Comp 7 (19xx)(Australian Crackers United)[v AmigaMan][b virus damage]"
+	rom ( name "ACU - Comp 7 (19xx)(Australian Crackers United)[v AmigaMan][b virus damage].adf" size 901120 crc 0f801686 md5 11936d561d4acf5b98dd1ed45c104e39 sha1 960cc4657d7809bf2399efd0d2bcb742563df2f4 )
+)
+
+game (
+	name "Alpha Flight & Spy-Mind - Compacted Disk Number 107 (19xx)(Alpha Flight - Spy-Mind)"
+	description "Alpha Flight & Spy-Mind - Compacted Disk Number 107 (19xx)(Alpha Flight - Spy-Mind)"
+	rom ( name "Alpha Flight & Spy-Mind - Compacted Disk Number 107 (19xx)(Alpha Flight - Spy-Mind).adf" size 901120 crc 8dd23341 md5 16873a9932c629718923f35cc476d011 sha1 ec56f155db56f1c7cdddee7e433a6d813674fe28 )
+)
+
+game (
+	name "Alpha Flight - Compacted Disk No. 104 (1988-09-05)(Alpha Flight)[b virus damage]"
+	description "Alpha Flight - Compacted Disk No. 104 (1988-09-05)(Alpha Flight)[b virus damage]"
+	rom ( name "Alpha Flight - Compacted Disk No. 104 (1988-09-05)(Alpha Flight)[b virus damage].adf" size 901120 crc 07934bb3 md5 7af554d08792f5fc466ccb07057f1af0 sha1 550370338af427d3b945d34ac266a29c65b7e9e9 )
+)
+
+game (
+	name "Alpha Flight - Compacted Disk No. 158 (1989)(Alpha Flight)"
+	description "Alpha Flight - Compacted Disk No. 158 (1989)(Alpha Flight)"
+	rom ( name "Alpha Flight - Compacted Disk No. 158 (1989)(Alpha Flight).adf" size 901120 crc 736bc616 md5 9414e1cee789592e2d573f8b87d7c450 sha1 8b6ca41f3ad8072cdd09b747553810391d326dfe )
+)
+
+game (
+	name "Alpha Flight - Compacted Disk No. 166 (1989)(Alpha Flight)"
+	description "Alpha Flight - Compacted Disk No. 166 (1989)(Alpha Flight)"
+	rom ( name "Alpha Flight - Compacted Disk No. 166 (1989)(Alpha Flight).adf" size 901120 crc 8f73f83b md5 a0bd5917ea3e724419c8c887672a4836 sha1 2894fb846a2b92f35310ae257507ba4fcdfcb05b )
+)
+
+game (
+	name "Alpha Flight - Compacted Disk No. 186 (19xx)(Alpha Flight)"
+	description "Alpha Flight - Compacted Disk No. 186 (19xx)(Alpha Flight)"
+	rom ( name "Alpha Flight - Compacted Disk No. 186 (19xx)(Alpha Flight).adf" size 901120 crc aae39cfd md5 b7a55d622cadab580988c517ead179b3 sha1 918182a455afb4ad3156069ca23b74270d4e6a1d )
+)
+
+game (
+	name "Amiga Dream Compil 01 (199x)(-)"
+	description "Amiga Dream Compil 01 (199x)(-)"
+	rom ( name "Amiga Dream Compil 01 (199x)(-).adf" size 901120 crc 88a1ce95 md5 c3ea28a2a8cb4e242f4a09c000855836 sha1 d78761ffc37bedd94748240d1960f22ced2311fe )
+)
+
+game (
+	name "Amiga Dream Compil 02 (199x)(-)"
+	description "Amiga Dream Compil 02 (199x)(-)"
+	rom ( name "Amiga Dream Compil 02 (199x)(-).adf" size 901120 crc 9798adc8 md5 e05bb0d563f9ab1881b63d982cf2c05e sha1 8ba66b397c20c6aaae63281d5df87b21b347e244 )
+)
+
+game (
+	name "Amiga Dream Compil 12 (199x)(-)"
+	description "Amiga Dream Compil 12 (199x)(-)"
+	rom ( name "Amiga Dream Compil 12 (199x)(-).adf" size 901120 crc 4bb3ea66 md5 cdc29e7b64f94732909718ff0ca9942d sha1 400325f2b8cad3755be173a4738886a98be79e6d )
+)
+
+game (
+	name "Amiga Dream Compil 13 (199x)(-)"
+	description "Amiga Dream Compil 13 (199x)(-)"
+	rom ( name "Amiga Dream Compil 13 (199x)(-).adf" size 901120 crc b99cf822 md5 045fdf7e43adc6acc90130a781e7c6be sha1 df6f680c973ed84c53d19dbd678dac027366ecad )
+)
+
+game (
+	name "Another Compilation (19xx)(Protocol)[h Biotech]"
+	description "Another Compilation (19xx)(Protocol)[h Biotech]"
+	rom ( name "Another Compilation (19xx)(Protocol)[h Biotech].adf" size 901120 crc cec90325 md5 a7703ffe74f6961661ffb4968ce0984d sha1 e19c0d2104e552beae2ecb80daf9d336dcdb05b6 )
+)
+
+game (
+	name "Armageddon Man, The & Pool & Quadlite Demo (19xx)(A-Ha)"
+	description "Armageddon Man, The & Pool & Quadlite Demo (19xx)(A-Ha)"
+	rom ( name "Armageddon Man, The & Pool & Quadlite Demo (19xx)(A-Ha).adf" size 901120 crc 317c0b4b md5 9f7025ac5afeeecfe4821edfa1ed392d sha1 d157bbddfeb488785c523a5cf9b0ffb4f6a91039 )
+)
+
+game (
+	name "Astronut & Wise Man - Great Napoleonic Battles & GBroutePlus (19xx)(-)"
+	description "Astronut & Wise Man - Great Napoleonic Battles & GBroutePlus (19xx)(-)"
+	rom ( name "Astronut & Wise Man - Great Napoleonic Battles & GBroutePlus (19xx)(-).adf" size 901120 crc e548ebc7 md5 44cde803536d03876327a6e81008e06f sha1 c8133e8c48557fe138cd25ed0b02036d6aba6180 )
+)
+
+game (
+	name "Astronut & Wise Man - Ice Runner & 3 Others (19xx)(-)[m Duplicators]"
+	description "Astronut & Wise Man - Ice Runner & 3 Others (19xx)(-)[m Duplicators]"
+	rom ( name "Astronut & Wise Man - Ice Runner & 3 Others (19xx)(-)[m Duplicators].adf" size 901120 crc 12821565 md5 5050c81afab0ad92e95757d7bff97519 sha1 508994e7a91c6782cc0c942281f3aa1691fe77a4 )
+)
+
+game (
+	name "Astronut & Wise Man - Mixed-Up Mother Goose & Biorythmn Programme & Typhoon of Steel (1990)(Valhalla)"
+	description "Astronut & Wise Man - Mixed-Up Mother Goose & Biorythmn Programme & Typhoon of Steel (1990)(Valhalla)"
+	rom ( name "Astronut & Wise Man - Mixed-Up Mother Goose & Biorythmn Programme & Typhoon of Steel (1990)(Valhalla).adf" size 901120 crc 2f9147fb md5 84ece7fc88183f16cea471c4c376268c sha1 565cf12de539d5ac68d36c448845d5f235fb7cec )
+)
+
+game (
+	name "Astronut & Wise Man - Nishiran & Screaming Wings & Conquerer & Casino 2000 & ACU 1989 Xmas Demo (19xx)(-)"
+	description "Astronut & Wise Man - Nishiran & Screaming Wings & Conquerer & Casino 2000 & ACU 1989 Xmas Demo (19xx)(-)"
+	rom ( name "Astronut & Wise Man - Nishiran & Screaming Wings & Conquerer & Casino 2000 & ACU 1989 Xmas Demo (19xx)(-).adf" size 901120 crc ddd1df67 md5 0dd261a1429539e54e9ffc1fb8a2cc96 sha1 7e3fc816db84c660461550b0b5751a4365f7e517 )
+)
+
+game (
+	name "Astronut & Wise Man - Tracksuit Manager 91 & 2 Others (19xx)(-)"
+	description "Astronut & Wise Man - Tracksuit Manager 91 & 2 Others (19xx)(-)"
+	rom ( name "Astronut & Wise Man - Tracksuit Manager 91 & 2 Others (19xx)(-).adf" size 901120 crc 47b19afd md5 699a9c701e47294d00c461d06193ac59 sha1 097860b683451fe361a0e3955964db711ef4bf91 )
+)
+
+game (
+	name "Astronut & Wise Man - Wordsearch Maker & Velcro & Amiga Defender & Spellfire the Sorceror (19xx)(-)"
+	description "Astronut & Wise Man - Wordsearch Maker & Velcro & Amiga Defender & Spellfire the Sorceror (19xx)(-)"
+	rom ( name "Astronut & Wise Man - Wordsearch Maker & Velcro & Amiga Defender & Spellfire the Sorceror (19xx)(-).adf" size 901120 crc f19e797c md5 1e82dbab05fdce1d1f564b35207b98fc sha1 beb9b819663ec014fee54fc84bc2dc5f40a1c9c8 )
+)
+
+game (
+	name "Astronut - Compilation 56 (19xx)(-)"
+	description "Astronut - Compilation 56 (19xx)(-)"
+	rom ( name "Astronut - Compilation 56 (19xx)(-).adf" size 901120 crc cee73a3f md5 44eb7c0f6e05c8e26cd55a15711836e2 sha1 54ade26f181568eeb9e2e73cbce052dcd88d2ba7 )
+)
+
+game (
+	name "Astronut - Crazy Cars II - F40 Pursuit Simulator & Obsess-O-Matic & My Room (1990)(-)"
+	description "Astronut - Crazy Cars II - F40 Pursuit Simulator & Obsess-O-Matic & My Room (1990)(-)"
+	rom ( name "Astronut - Crazy Cars II - F40 Pursuit Simulator & Obsess-O-Matic & My Room (1990)(-).adf" size 901120 crc abb6346c md5 178eb845350efb14a8d8395dcc33e575 sha1 6a8aecf75dfb26627e5abaf3fdecca00c3922c20 )
+)
+
+game (
+	name "Astronut - Dungeon Masters Assistant Volume II & 3 Others (1990)(-)"
+	description "Astronut - Dungeon Masters Assistant Volume II & 3 Others (1990)(-)"
+	rom ( name "Astronut - Dungeon Masters Assistant Volume II & 3 Others (1990)(-).adf" size 901120 crc 6bab2d89 md5 1d90d1215bc6ec482dbcbb4d6c9dee82 sha1 6f2afbfde0b9b531548c0dbe646d4bf7a516f07c )
+)
+
+game (
+	name "Astronut - Micro Mix Demo & Deflektor & Yelp (1989)(-)"
+	description "Astronut - Micro Mix Demo & Deflektor & Yelp (1989)(-)"
+	rom ( name "Astronut - Micro Mix Demo & Deflektor & Yelp (1989)(-).adf" size 901120 crc 25cd242e md5 ad2fb7aea37dfe431118aefb030f2e27 sha1 8349c4c234a534dc4ad2f83fccf288137803ad17 )
+)
+
+game (
+	name "Astronut of the Attic - Game and Demo Disk 58 (19xx)(Attic)"
+	description "Astronut of the Attic - Game and Demo Disk 58 (19xx)(Attic)"
+	rom ( name "Astronut of the Attic - Game and Demo Disk 58 (19xx)(Attic).adf" size 901120 crc 5f2135c7 md5 ea8572810b3ddfd42fbd1eb1a4f46030 sha1 b4beb1f6d418a426b3cc1fde8731c487cba14974 )
+)
+
+game (
+	name "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 1 of 3)"
+	description "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 1 of 3)"
+	rom ( name "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 1 of 3).adf" size 901120 crc c0f916d7 md5 7ce095eefdd6ce5d53d5341218c85ab4 sha1 eb4fe91b33d56639743e29142da376b3f464230a )
+)
+
+game (
+	name "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 3 of 3)"
+	description "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 3 of 3)"
+	rom ( name "Astronut of the Attic - Ninjawarriors & 4 Others (1990)(Attic)(Disk 3 of 3).adf" size 901120 crc 52c019b6 md5 bc3e967d999e29a729c549eafbf58412 sha1 89b33b16be8d83d6eba4bdc96e2e17e61cfea343 )
+)
+
+game (
+	name "Astronut of the Attic - Speedboat Assassin & Batdance Demo & Risk (1989)(Attic)"
+	description "Astronut of the Attic - Speedboat Assassin & Batdance Demo & Risk (1989)(Attic)"
+	rom ( name "Astronut of the Attic - Speedboat Assassin & Batdance Demo & Risk (1989)(Attic).adf" size 901120 crc 9f13e676 md5 61a961c84bc77214f9b1ea0290bd5e8a sha1 40097db3636d4604da4186def4eef5c8516a1a88 )
+)
+
+game (
+	name "Astronut of the Attic - Tetris Sex & Exodus Tiger Demo (1989)(Attic)"
+	description "Astronut of the Attic - Tetris Sex & Exodus Tiger Demo (1989)(Attic)"
+	rom ( name "Astronut of the Attic - Tetris Sex & Exodus Tiger Demo (1989)(Attic).adf" size 901120 crc 7fdf816c md5 07f49c8632b0368725c2d9dd58455b17 sha1 a9292df7321b9ce542fc8350a213800df83df4a4 )
+)
+
+game (
+	name "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts)"
+	description "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts)"
+	rom ( name "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts).adf" size 901120 crc 0e2cd7e1 md5 f139de10adbca451adc8ccdf914edaa6 sha1 7f78e66ff885c5469ee938e9c8917714493e7046 )
+)
+
+game (
+	name "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts)[a]"
+	description "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts)[a]"
+	rom ( name "Astronuts - Game & Demo Disk 3 (19xx)(Astronuts)[a].adf" size 901120 crc 17478dac md5 d9af858566dadde150b1d0c8d398dc06 sha1 c27a9989c1ac0f7cb4c90f5950391fc7fafd0ae4 )
+)
+
+game (
+	name "Astronuts - Game & Demo Disk 33 (1988)(Astronuts)"
+	description "Astronuts - Game & Demo Disk 33 (1988)(Astronuts)"
+	rom ( name "Astronuts - Game & Demo Disk 33 (1988)(Astronuts).adf" size 901120 crc 97e086da md5 c4c9137737e335266d2328927de909ef sha1 cbac6a418dcce24af5487f8027f881961d95d2f9 )
+)
+
+game (
+	name "Astronuts - Game & Music Disk 22 (1988)(Astronuts)"
+	description "Astronuts - Game & Music Disk 22 (1988)(Astronuts)"
+	rom ( name "Astronuts - Game & Music Disk 22 (1988)(Astronuts).adf" size 901120 crc be00c379 md5 2a7ccfd44d9eb5abc673d3e770abbfbb sha1 684e8e10485182e625296f8e813e9d7558f693a8 )
+)
+
+game (
+	name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)"
+	description "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)"
+	rom ( name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks).adf" size 901120 crc 3f9dcc32 md5 3c0ebfef5454660998a999aadabb3efb sha1 847ce56ad43b59c8e9a2fdc3623459eb838b17da )
+)
+
+game (
+	name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[a]"
+	description "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[a]"
+	rom ( name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[a].adf" size 901120 crc 57f4572f md5 44c6e43d7f4ef7fb3d07612b6bffb20e sha1 a1c8c02930feb6c1dd863ff6edc93634448aff10 )
+)
+
+game (
+	name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[b virus damage]"
+	description "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[b virus damage]"
+	rom ( name "Black Monks - Sculpt Animation 01 & Ultima & Power-Packer (19xx)(Black Monks)[b virus damage].adf" size 901120 crc fb3b6f0c md5 89ce4482d715e5b8ff2886c8db993aa2 sha1 e5c1936182579be2fd11547794fb0769fad05947 )
+)
+
+game (
+	name "Byte-Fighter Compact (1990)(Byte-Fighter)"
+	description "Byte-Fighter Compact (1990)(Byte-Fighter)"
+	rom ( name "Byte-Fighter Compact (1990)(Byte-Fighter).adf" size 901120 crc 720e7e05 md5 8d7d4ca8d9911ed97b3ea147df2979d5 sha1 65c0b26654f2831b06c4364bef432578186a3357 )
+)
+
+game (
+	name "Capitals & Elements & Globe & GeoTime & Drawmap (19xx)(17-Bit Software)(PD)[WB]"
+	description "Capitals & Elements & Globe & GeoTime & Drawmap (19xx)(17-Bit Software)(PD)[WB]"
+	rom ( name "Capitals & Elements & Globe & GeoTime & Drawmap (19xx)(17-Bit Software)(PD)[WB].adf" size 901120 crc 7acecdaa md5 79ef4da076319a65c64f768ed859744e sha1 1ddc27244341948c85eee3198d2d7345dcc84f4a )
+)
+
+game (
+	name "Charts - Issue 6 & Debut & Gosh! I Think I Ate My Baby Sister! (19xx)(-)"
+	description "Charts - Issue 6 & Debut & Gosh! I Think I Ate My Baby Sister! (19xx)(-)"
+	rom ( name "Charts - Issue 6 & Debut & Gosh! I Think I Ate My Baby Sister! (19xx)(-).adf" size 901120 crc 59e1f662 md5 7b1b9efedd76309b615a9f95ffd5c8f1 sha1 6e269a03f427d27c457e85d1e94bd4b7db1cf34a )
+)
+
+game (
+	name "Chip Chop 3 (19xx)(Desire) & Charts, The - Issue 04 (1993-06-17)(Ram Jam) & It's Tricky (1992)(Scoopex)"
+	description "Chip Chop 3 (19xx)(Desire) & Charts, The - Issue 04 (1993-06-17)(Ram Jam) & It's Tricky (1992)(Scoopex)"
+	rom ( name "Chip Chop 3 (19xx)(Desire) & Charts, The - Issue 04 (1993-06-17)(Ram Jam) & It's Tricky (1992)(Scoopex).adf" size 901120 crc 827a8917 md5 301d527e4b71393c9e59bbb73fc42d4a sha1 1fe74e3bc3c2a4e515b0f9580f401c21242b3072 )
+)
+
+game (
+	name "Compact No. 26 (199x)(Dictators)"
+	description "Compact No. 26 (199x)(Dictators)"
+	rom ( name "Compact No. 26 (199x)(Dictators).adf" size 901120 crc 55366a4f md5 7c24911a3b37a61d82e4eb269902e0eb sha1 d831ff7826d2b8969ed50b5bd6137db836210944 )
+)
+
+game (
+	name "Cracker Journal 2 & InovaTools 2 & Amiga-ST Emulator (19xx)(A-Ha)"
+	description "Cracker Journal 2 & InovaTools 2 & Amiga-ST Emulator (19xx)(A-Ha)"
+	rom ( name "Cracker Journal 2 & InovaTools 2 & Amiga-ST Emulator (19xx)(A-Ha).adf" size 901120 crc ff3d566a md5 956b30ce91b43779898e45060963cef2 sha1 448be4d8a88479d521f846af3e1ee78e02cbf600 )
+)
+
+game (
+	name "Cybergammon & Sys & Deathbringers from Space & Picture Show (19xx)(-)"
+	description "Cybergammon & Sys & Deathbringers from Space & Picture Show (19xx)(-)"
+	rom ( name "Cybergammon & Sys & Deathbringers from Space & Picture Show (19xx)(-).adf" size 901120 crc 40d4cb03 md5 a5ef638668f14d69c1373d871e6c1de8 sha1 ce04c779e7108b52fa2c0770afcb0f340ff9e6a1 )
+)
+
+game (
+	name "Day After Paranoimia Copy Party (1989)(GOD)[b virus damage]"
+	description "Day After Paranoimia Copy Party (1989)(GOD)[b virus damage]"
+	rom ( name "Day After Paranoimia Copy Party (1989)(GOD)[b virus damage].adf" size 901120 crc 9215584c md5 df9483221140cb5cc6cff0a2fc871939 sha1 e6c2bd666f3dda7505387def77c64d5fcc1897f1 )
+)
+
+game (
+	name "Dinosaur Discovery Kit, The (1989)(First Byte)[h ACU] & Fraction Action (1986)(Unicorn Software)[h ACU]"
+	description "Dinosaur Discovery Kit, The (1989)(First Byte)[h ACU] & Fraction Action (1986)(Unicorn Software)[h ACU]"
+	rom ( name "Dinosaur Discovery Kit, The (1989)(First Byte)[h ACU] & Fraction Action (1986)(Unicorn Software)[h ACU].adf" size 901120 crc 52182d8c md5 e03009e828abfd38c67a4908299eaaeb sha1 1bf7d933ad4ed64bb2e5f9eab5af0b35443152cb )
+)
+
+game (
+	name "Disasterware Disk 1 (1990)(R. Burrows)(PD)"
+	description "Disasterware Disk 1 (1990)(R. Burrows)(PD)"
+	rom ( name "Disasterware Disk 1 (1990)(R. Burrows)(PD).adf" size 901120 crc a9041d25 md5 a3be698167178d31fe59acd63ac0ae4c sha1 a11a5eabb74689fb1083cf6680527211f387afb8 )
+)
+
+game (
+	name "Discovery Software Demo Disk (1989)(Discovery Software)"
+	description "Discovery Software Demo Disk (1989)(Discovery Software)"
+	rom ( name "Discovery Software Demo Disk (1989)(Discovery Software).adf" size 901120 crc 9e400305 md5 917512be6ef669eed4b407483faa7d61 sha1 7f54acc6c7c4a224c4fcea38184892218e5ac9bf )
+)
+
+game (
+	name "Double Density & The Guide Compilation 4 (19xx)(Double Density)[h][Platou only]"
+	description "Double Density & The Guide Compilation 4 (19xx)(Double Density)[h][Platou only]"
+	rom ( name "Double Density & The Guide Compilation 4 (19xx)(Double Density)[h][Platou only].adf" size 901120 crc c1b84058 md5 69878fb2f7ae3a58878a56131b180b8b sha1 ae853b2963bed4905348a4bfe78033446abdea34 )
+)
+
+game (
+	name "Double Density Crew Collection Disk 05 (19xx)(Double Density Crew)"
+	description "Double Density Crew Collection Disk 05 (19xx)(Double Density Crew)"
+	rom ( name "Double Density Crew Collection Disk 05 (19xx)(Double Density Crew).adf" size 901120 crc f27b1a56 md5 dd8be3dbcacbbfe938880f66fcc5c7e3 sha1 8e6beb67eebe3985698d7837efb48cb021ad094a )
+)
+
+game (
+	name "Electronic Body Music, Diamond Paint, Trivial Pursuit 2 & Ageline Intro (1988)(Madonna Assoc)"
+	description "Electronic Body Music, Diamond Paint, Trivial Pursuit 2 & Ageline Intro (1988)(Madonna Assoc)"
+	rom ( name "Electronic Body Music, Diamond Paint, Trivial Pursuit 2 & Ageline Intro (1988)(Madonna Assoc).adf" size 901120 crc 111426e7 md5 5f03902a1284e16cabd512d900041869 sha1 2ff2bc1fa2c601585a3497583862a0a5838f3174 )
+)
+
+game (
+	name "Fresh (19xx)(Eskimos) & Voices - Issue 1 (199x)(Iris - Avantgarde Production)(AGA)"
+	description "Fresh (19xx)(Eskimos) & Voices - Issue 1 (199x)(Iris - Avantgarde Production)(AGA)"
+	rom ( name "Fresh (19xx)(Eskimos) & Voices - Issue 1 (199x)(Iris - Avantgarde Production)(AGA).adf" size 901120 crc 2b5f6abd md5 6515a902e0087138d1f164d0e4671922 sha1 7745ce3e6d87da6ea8d67ab354f4ec3e9e10aa81 )
+)
+
+game (
+	name "Generation - Issue 16 & German Charts - Issue 1 (1994)(Scoopex)[b corrupt files]"
+	description "Generation - Issue 16 & German Charts - Issue 1 (1994)(Scoopex)[b corrupt files]"
+	rom ( name "Generation - Issue 16 & German Charts - Issue 1 (1994)(Scoopex)[b corrupt files].adf" size 901120 crc 1b23cb36 md5 9126a4a70aef2c5e79420da802553955 sha1 36809b0753b926d086f52163c512edae24f9ecdf )
+)
+
+game (
+	name "Hellbent & Star Wars - Return of Jedi & Megaforce Intro (1988)(Megaforce)"
+	description "Hellbent & Star Wars - Return of Jedi & Megaforce Intro (1988)(Megaforce)"
+	rom ( name "Hellbent & Star Wars - Return of Jedi & Megaforce Intro (1988)(Megaforce).adf" size 901120 crc dd206ded md5 5d6c98592a73c2dddb34bc8cdd0d80d6 sha1 5b41ac6fe79d9d38adf1b629de96c6a42060e74c )
+)
+
+game (
+	name "Hellfire Attack & Crash & Burn & Chart-Chat 1 (19xx)(A-Ha)"
+	description "Hellfire Attack & Crash & Burn & Chart-Chat 1 (19xx)(A-Ha)"
+	rom ( name "Hellfire Attack & Crash & Burn & Chart-Chat 1 (19xx)(A-Ha).adf" size 901120 crc a241a16d md5 46bbb44109b990d5513152f1efb532bf sha1 890ac1f1cef0fa6251e775a9668778515f401a06 )
+)
+
+game (
+	name "IK+ & SNK Soccer & CrossDOS & Transformer v2.0 & DOS-to-DOS (19xx)(Code Engineers)[v SystemZ v5.4]"
+	description "IK+ & SNK Soccer & CrossDOS & Transformer v2.0 & DOS-to-DOS (19xx)(Code Engineers)[v SystemZ v5.4]"
+	rom ( name "IK+ & SNK Soccer & CrossDOS & Transformer v2.0 & DOS-to-DOS (19xx)(Code Engineers)[v SystemZ v5.4].adf" size 901120 crc f98ba0c3 md5 a94065bcb0dd2def7edb990c7d355415 sha1 511750175c6960d9f70a21a95391c2d74a01fd2d )
+)
+
+game (
+	name "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks)"
+	description "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks)"
+	rom ( name "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks).adf" size 901120 crc e5fdc0a3 md5 0c6726683ebdee6edfe596b77e21b181 sha1 b178bf44a90c4ad221888ab3511583430fb83dbf )
+)
+
+game (
+	name "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks)[b]"
+	description "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks)[b]"
+	rom ( name "Ikari Warriors & Thundercats & Vixen & Zitrax & Viruskiller Pro v1.3 (19xx)(Mad Monks)[b].adf" size 901120 crc 930b3a6e md5 81531feda53eb2d427d54da0d48183b3 sha1 e744a5a89dd5713e54a39fcfd53f1e1365252cd7 )
+)
+
+game (
+	name "Into The Eagle's Nest & Space Math (19xx)(Commodore Guys)"
+	description "Into The Eagle's Nest & Space Math (19xx)(Commodore Guys)"
+	rom ( name "Into The Eagle's Nest & Space Math (19xx)(Commodore Guys).adf" size 901120 crc db1f1454 md5 60c3d01a61e464e6e3d9a15df8ba0f08 sha1 1c8c919b3731c272ed155239df881435e78dce0e )
+)
+
+game (
+	name "James Pond & Full Speed & Plotting & Powerslaves IFF Converter & Mayhem New Intro (1990)(Byte Busters)"
+	description "James Pond & Full Speed & Plotting & Powerslaves IFF Converter & Mayhem New Intro (1990)(Byte Busters)"
+	rom ( name "James Pond & Full Speed & Plotting & Powerslaves IFF Converter & Mayhem New Intro (1990)(Byte Busters).adf" size 901120 crc 0588b37d md5 b820f3440ca69bd3b0450f4544c8c57a sha1 902f58ca73de0f0e7a3546908aed263ceed1d74f )
+)
+
+game (
+	name "Kebab Magazine 4 & Fill the Power & Off Road & Pang & Hacks & Othello (1990)(-)"
+	description "Kebab Magazine 4 & Fill the Power & Off Road & Pang & Hacks & Othello (1990)(-)"
+	rom ( name "Kebab Magazine 4 & Fill the Power & Off Road & Pang & Hacks & Othello (1990)(-).adf" size 901120 crc 2c6ff3e7 md5 f8c432b2f485d0919cd687bc0c7551f9 sha1 4fb2f9060dbfa9dc833cf153de59de804853a2fc )
+)
+
+game (
+	name "Knax Computerspiel, Das (1992)(-)[tr en Cabbie] & My Pocket-Money Manager (19xx)(Art Department)"
+	description "Knax Computerspiel, Das (1992)(-)[tr en Cabbie] & My Pocket-Money Manager (19xx)(Art Department)"
+	rom ( name "Knax Computerspiel, Das (1992)(-)[tr en Cabbie] & My Pocket-Money Manager (19xx)(Art Department).adf" size 901120 crc 6e6d0a43 md5 a0f7ea624392dd5f607ac46daf81b993 sha1 b96b1efd77f32ec884acd0d380a42453febbcb87 )
+)
+
+game (
+	name "KT's PD Mega Disk 3 (19xx)(KT)"
+	description "KT's PD Mega Disk 3 (19xx)(KT)"
+	rom ( name "KT's PD Mega Disk 3 (19xx)(KT).adf" size 901120 crc fac999f5 md5 63a320ffb2b8ab2a68575b6a59db46dd sha1 bab4394bf972e3b344d61769409c60eeb4f75648 )
+)
+
+game (
+	name "L..A..D..S Compact No 60, The (19xx)(L..A..D..S)"
+	description "L..A..D..S Compact No 60, The (19xx)(L..A..D..S)"
+	rom ( name "L..A..D..S Compact No 60, The (19xx)(L..A..D..S).adf" size 901120 crc 0f9baa79 md5 5f68560531c180f0e851f9625c37e04b sha1 d7af9c1107c50cb97302690bdf9da7c5b2de3354 )
+)
+
+game (
+	name "Magbox - Issue 4 (1991-01-30)(Balance) & Jungle Demo (19xx)(Southern Guild) & Would You Be My Donut (19xx)(Arise)"
+	description "Magbox - Issue 4 (1991-01-30)(Balance) & Jungle Demo (19xx)(Southern Guild) & Would You Be My Donut (19xx)(Arise)"
+	rom ( name "Magbox - Issue 4 (1991-01-30)(Balance) & Jungle Demo (19xx)(Southern Guild) & Would You Be My Donut (19xx)(Arise).adf" size 901120 crc aa4a9d5f md5 2f6ca9c8f604b176413a69f076f64337 sha1 391668dca4547e5d329594734e4aa5c26b13bc15 )
+)
+
+game (
+	name "Magnetic Fields - Compact 36 (1990)(Magnetic Fields)"
+	description "Magnetic Fields - Compact 36 (1990)(Magnetic Fields)"
+	rom ( name "Magnetic Fields - Compact 36 (1990)(Magnetic Fields).adf" size 901120 crc aa2348e9 md5 c234465e7e061e009f9ab269964d5157 sha1 6007bb258f2f3b6be1263f8979ef9c954a847f3a )
+)
+
+game (
+	name "Match-It & Magic Bag (1997)(ACS Germany)"
+	description "Match-It & Magic Bag (1997)(ACS Germany)"
+	rom ( name "Match-It & Magic Bag (1997)(ACS Germany).adf" size 901120 crc adacb2c3 md5 2b05a70231f5021669d364b54eea5fd4 sha1 4860113fa7557e0f049cf974529adf224a3dcd93 )
+)
+
+game (
+	name "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 1 of 2)"
+	description "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 1 of 2)"
+	rom ( name "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 1 of 2).adf" size 901120 crc 9796358c md5 a90656f90a297c75a3b8d728436474c7 sha1 01895730466ae05e40234de5b9330b8aedd777af )
+)
+
+game (
+	name "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 2 of 2)"
+	description "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 2 of 2)"
+	rom ( name "Medway Boys & Ikari, The - Mega Menu 010 (19xx)(Medway Boys - Ikari)(Disk 2 of 2).adf" size 901120 crc 9071393c md5 59538a665c1b5830c4b13ee162788c0d sha1 37cf3c310a89a1b5939c061174cab01e715dc135 )
+)
+
+game (
+	name "Medway Boys & Ikari, The - Mega Menu 012 (19xx)(Medway Boys - Ikari)"
+	description "Medway Boys & Ikari, The - Mega Menu 012 (19xx)(Medway Boys - Ikari)"
+	rom ( name "Medway Boys & Ikari, The - Mega Menu 012 (19xx)(Medway Boys - Ikari).adf" size 901120 crc 40a14101 md5 67e1ccc67015da5367ec4dff640bfcb6 sha1 081b94f3acb60d5623b28f239e54a7bae3a4a17c )
+)
+
+game (
+	name "Medway Boys & Ikari, The - Mega Menu 014 (19xx)(Medway Boys - Ikari)"
+	description "Medway Boys & Ikari, The - Mega Menu 014 (19xx)(Medway Boys - Ikari)"
+	rom ( name "Medway Boys & Ikari, The - Mega Menu 014 (19xx)(Medway Boys - Ikari).adf" size 901120 crc f08b86e1 md5 ae3a5fad067378d899648b030d7f0913 sha1 d835f2f2901ca220511b47e36bb76af95383e674 )
+)
+
+game (
+	name "Medway Boys & Ikari, The - Menu 015 (19xx)(Medway Boys - Ikari)"
+	description "Medway Boys & Ikari, The - Menu 015 (19xx)(Medway Boys - Ikari)"
+	rom ( name "Medway Boys & Ikari, The - Menu 015 (19xx)(Medway Boys - Ikari).adf" size 901120 crc 2b11339d md5 1e3f0cbfc4d4dfa429de790614dc8215 sha1 47c1fe3fdb264ca6591a554c1a0a09a76af3894f )
+)
+
+game (
+	name "New Productions (1990)(Elite Inc)"
+	description "New Productions (1990)(Elite Inc)"
+	rom ( name "New Productions (1990)(Elite Inc).adf" size 901120 crc fbb70399 md5 6227070a18f5e9f33884f9f60c3d7b8c sha1 a38abbec797848a96755272b123f4a9962b1e61d )
+)
+
+game (
+	name "Nibbly Nibbly & Rollerpede & Chrome Demo (19xx)(Turb-Soft)"
+	description "Nibbly Nibbly & Rollerpede & Chrome Demo (19xx)(Turb-Soft)"
+	rom ( name "Nibbly Nibbly & Rollerpede & Chrome Demo (19xx)(Turb-Soft).adf" size 901120 crc 08b91802 md5 44d9fcf1196a08de14f0e81e31a4d7cf sha1 3d06f529f6c2e4a3a5d2f1f77188fb524a1ec36d )
+)
+
+game (
+	name "Night Walk & Paperboy & Stein Schlag & Maksoft Group Rome Demo (1989)(Medway Boys - Ikari)"
+	description "Night Walk & Paperboy & Stein Schlag & Maksoft Group Rome Demo (1989)(Medway Boys - Ikari)"
+	rom ( name "Night Walk & Paperboy & Stein Schlag & Maksoft Group Rome Demo (1989)(Medway Boys - Ikari).adf" size 901120 crc e9943fdb md5 1c53429672fa7c48868d2e4d934914b9 sha1 cc062fec13c70cd86ff64c875a32acfcf31a1c86 )
+)
+
+game (
+	name "Pacman 87 & MathTalk - Fractions (1990)(AAJ)"
+	description "Pacman 87 & MathTalk - Fractions (1990)(AAJ)"
+	rom ( name "Pacman 87 & MathTalk - Fractions (1990)(AAJ).adf" size 901120 crc 1c4f7ec1 md5 5875c3e7e2bb6101031a2f7be0b2f988 sha1 44302410573251d6be562ab0a80ef350f6fe6db9 )
+)
+
+game (
+	name "Paperboy & Mission & PT-45 & Postman Pat & Vektor Scroller (19xx)(Phantasie)"
+	description "Paperboy & Mission & PT-45 & Postman Pat & Vektor Scroller (19xx)(Phantasie)"
+	rom ( name "Paperboy & Mission & PT-45 & Postman Pat & Vektor Scroller (19xx)(Phantasie).adf" size 901120 crc a70502b7 md5 38599498d4d206ccf888ab735cfbeb79 sha1 f0d87d98c5938108bf262e5b3ac21f07fab6b4b5 )
+)
+
+game (
+	name "Paradroid 90 & F.O.F.T. & Black Lamp & QED v2.05-(19xx)(-)[h][FOFT only]"
+	description "Paradroid 90 & F.O.F.T. & Black Lamp & QED v2.05-(19xx)(-)[h][FOFT only]"
+	rom ( name "Paradroid 90 & F.O.F.T. & Black Lamp & QED v2.05-(19xx)(-)[h][FOFT only].adf" size 901120 crc 1f5ded07 md5 4933569db9a2476faf94ee944c52469e sha1 17ab4ff609fe87e2923bc4cfd4b194293491734d )
+)
+
+game (
+	name "Pics & IFF Fonts Disk (19xx)(Big-Byte)"
+	description "Pics & IFF Fonts Disk (19xx)(Big-Byte)"
+	rom ( name "Pics & IFF Fonts Disk (19xx)(Big-Byte).adf" size 901120 crc ea0f36bb md5 f995413189d099ba3c7e3ea754460c1f sha1 1d59eba6a8b3812ee99acfffbf25c9e33380274b )
+)
+
+game (
+	name "Pull Over Suckers 4 (199x)(Legend)"
+	description "Pull Over Suckers 4 (199x)(Legend)"
+	rom ( name "Pull Over Suckers 4 (199x)(Legend).adf" size 901120 crc 291b4ffb md5 daabd7a97ab65bd69df740b4ff816b58 sha1 454da8e8eee51d3299da2a018edd24353b858e66 )
+)
+
+game (
+	name "Punk Croc Compilation Disk - Winter Games & Dr. Xes (19xx)(Punk Croc Crew)"
+	description "Punk Croc Compilation Disk - Winter Games & Dr. Xes (19xx)(Punk Croc Crew)"
+	rom ( name "Punk Croc Compilation Disk - Winter Games & Dr. Xes (19xx)(Punk Croc Crew).adf" size 901120 crc b403fa4f md5 b539c85c2ffdcbf5ef1e1efb1e9fbcf6 sha1 2ff8e570e0901235dd82143fa862bc755db00bc9 )
+)
+
+game (
+	name "Quartz & Soundtracker v2.5 & Terry's Adventure (19xx)(TWI)"
+	description "Quartz & Soundtracker v2.5 & Terry's Adventure (19xx)(TWI)"
+	rom ( name "Quartz & Soundtracker v2.5 & Terry's Adventure (19xx)(TWI).adf" size 901120 crc 94422dc2 md5 efb5ef9b5d8c73a57c9d9fdee230660b sha1 0af4182070593863e41f57d652114e5a23de29aa )
+)
+
+game (
+	name "Reflections Converter v2.0 & Too Late Intro (19xx)(SCX)"
+	description "Reflections Converter v2.0 & Too Late Intro (19xx)(SCX)"
+	rom ( name "Reflections Converter v2.0 & Too Late Intro (19xx)(SCX).adf" size 901120 crc 3e8d0c71 md5 551ad7d1b5fd460dc7adc6ddcadc03ab sha1 c429e11c726431e3fdefaed575afd4ce1c3ea4b4 )
+)
+
+game (
+	name "Sanxion-Demo & Roadwars & Starglider & Giganoid & Mercenary Compendium & Powerful Demo (19xx)(Defjam)"
+	description "Sanxion-Demo & Roadwars & Starglider & Giganoid & Mercenary Compendium & Powerful Demo (19xx)(Defjam)"
+	rom ( name "Sanxion-Demo & Roadwars & Starglider & Giganoid & Mercenary Compendium & Powerful Demo (19xx)(Defjam).adf" size 901120 crc b30766c8 md5 7904bf107e9b1ae1feb5e63668061fa8 sha1 8db1af78a3ff3816114895d845aac8d692efa821 )
+)
+
+game (
+	name "Scene Lyrics - Issue 4 (19xx)(Energy) & King's Quest (1986)(Sierra)[h Trax][b]"
+	description "Scene Lyrics - Issue 4 (19xx)(Energy) & King's Quest (1986)(Sierra)[h Trax][b]"
+	rom ( name "Scene Lyrics - Issue 4 (19xx)(Energy) & King's Quest (1986)(Sierra)[h Trax][b].adf" size 901120 crc d0d5c910 md5 a11fc526fb105e424ec34eee7d7c6407 sha1 85fa56e1e37ef4f8764fbb84e0c80225cf4920dd )
+)
+
+game (
+	name "Simpsons Demo & Spellfire the Sorceror (1991)(Decay)"
+	description "Simpsons Demo & Spellfire the Sorceror (1991)(Decay)"
+	rom ( name "Simpsons Demo & Spellfire the Sorceror (1991)(Decay).adf" size 901120 crc 0cc2500d md5 05cee704de540b2815296324458d36a4 sha1 34b926c6cb75e8620dca94193e864a91580df055 )
+)
+
+game (
+	name "Slide-Show III & Plasma Disk Mag - Issue 2 (1995-09)(Plasma Pictures)[b]"
+	description "Slide-Show III & Plasma Disk Mag - Issue 2 (1995-09)(Plasma Pictures)[b]"
+	rom ( name "Slide-Show III & Plasma Disk Mag - Issue 2 (1995-09)(Plasma Pictures)[b].adf" size 901120 crc 345ce6f0 md5 576dd5578a03a109367add1b26115879 sha1 0af939db54151665a2ccb54f1b34f0821ab3d6c8 )
+)
+
+game (
+	name "Some News for Sun and Fun (19xx)(Savage)"
+	description "Some News for Sun and Fun (19xx)(Savage)"
+	rom ( name "Some News for Sun and Fun (19xx)(Savage).adf" size 901120 crc 2cf8cce3 md5 65889a0e55e514de098d1ace3f173bff sha1 f4cdc54797070416efbdf775e051901daf422633 )
+)
+
+game (
+	name "Star Goose & Cybernoid & Major Motion & Virus & Whirligig & Trilogy Demo (1988)(Trilogy)"
+	description "Star Goose & Cybernoid & Major Motion & Virus & Whirligig & Trilogy Demo (1988)(Trilogy)"
+	rom ( name "Star Goose & Cybernoid & Major Motion & Virus & Whirligig & Trilogy Demo (1988)(Trilogy).adf" size 901120 crc a6fb8321 md5 96d6f25d83d61b5ebe485a839edb2eca sha1 08a252d5efff455958da16f8971fe7eccb680ad2 )
+)
+
+game (
+	name "Star Wars - The Empire Strikes Back & Bermuda Project & Programming in C (19xx)(-)"
+	description "Star Wars - The Empire Strikes Back & Bermuda Project & Programming in C (19xx)(-)"
+	rom ( name "Star Wars - The Empire Strikes Back & Bermuda Project & Programming in C (19xx)(-).adf" size 901120 crc d4910cc3 md5 5544a7a9dc37f69d7aab272f3e66f6f2 sha1 00003c7a670015935e0d97041714b9b02296f5ce )
+)
+
+game (
+	name "Strip Poker II+ (1988)(Anco)[cr FLT] & ScrollWave demo (19xx)(Warlock) & 2mods (19xx)(MarkII)"
+	description "Strip Poker II+ (1988)(Anco)[cr FLT] & ScrollWave demo (19xx)(Warlock) & 2mods (19xx)(MarkII)"
+	rom ( name "Strip Poker II+ (1988)(Anco)[cr FLT] & ScrollWave demo (19xx)(Warlock) & 2mods (19xx)(MarkII).adf" size 901120 crc 94a09358 md5 508a33cf420decac67bdd3271cde23fd sha1 18d8ee9fb9f6a25ee0645b01bf68e6bf2a7444e6 )
+)
+
+game (
+	name "Subsoftware CD 117 (1990)(Subsoftware)"
+	description "Subsoftware CD 117 (1990)(Subsoftware)"
+	rom ( name "Subsoftware CD 117 (1990)(Subsoftware).adf" size 901120 crc 83038e1c md5 3e78403b9e68c8d68842e52684f04404 sha1 9b4193b7595a32f4b4bc5afcfdb94fc5bcb74d30 )
+)
+
+game (
+	name "Team-X - Party Compact Nr. 1 (19xx)(Team-X)[b virus damage]"
+	description "Team-X - Party Compact Nr. 1 (19xx)(Team-X)[b virus damage]"
+	rom ( name "Team-X - Party Compact Nr. 1 (19xx)(Team-X)[b virus damage].adf" size 901120 crc 02958c00 md5 5618c5c24a20178fb073c6a2924a2417 sha1 e221a666b49c4a052a8afe446fbf645fa4d9f4de )
+)
+
+game (
+	name "TFD Compact (19xx)(TFD)[v Sinister Syndicate 1]"
+	description "TFD Compact (19xx)(TFD)[v Sinister Syndicate 1]"
+	rom ( name "TFD Compact (19xx)(TFD)[v Sinister Syndicate 1].adf" size 901120 crc 8f6ae09e md5 d982414d8eba559e38c2b61bff5a2cdb sha1 56d33169d6f4fb71799cccbe8005de23d9eb2bd8 )
+)
+
+game (
+	name "Time 63 (19xx)(APS)"
+	description "Time 63 (19xx)(APS)"
+	rom ( name "Time 63 (19xx)(APS).adf" size 901120 crc e508f7e3 md5 0575e68e8119f6275102b2c2fb9fa997 sha1 e512f914fc83c038fda624e52e526ce17d582890 )
+)
+
+game (
+	name "TNM Compactings 1 (1988)(TNM - Taurus 1 - Steel Pulse)"
+	description "TNM Compactings 1 (1988)(TNM - Taurus 1 - Steel Pulse)"
+	rom ( name "TNM Compactings 1 (1988)(TNM - Taurus 1 - Steel Pulse).adf" size 901120 crc 58cd0efc md5 83611f8c5540f212af4ad759811e3145 sha1 b418ff53e3fbb7d74289ec2f49cd6b1a5dbbaa62 )
+)
+
+game (
+	name "Tool Chest Sampler #2 (19xx)(Amiga World)"
+	description "Tool Chest Sampler #2 (19xx)(Amiga World)"
+	rom ( name "Tool Chest Sampler #2 (19xx)(Amiga World).adf" size 901120 crc 0db2280f md5 18b8657c64f3921e9529302cce516068 sha1 351201cbcc704340687cc10f73b3eae985235658 )
+)
+
+game (
+	name "Vulcan Compilation (19xx)(Vicious)"
+	description "Vulcan Compilation (19xx)(Vicious)"
+	rom ( name "Vulcan Compilation (19xx)(Vicious).adf" size 901120 crc d7b4c962 md5 c94a0b410ea2e49b3614d8156bdeceb1 sha1 def7b8c52169572d6fec26db1c0271af7b02e681 )
+)
+
+game (
+	name "World Data Bank & Calendar & Plot & Sherlock & Wavemaker (19xx)(17-Bit Software)(PD)[WB]"
+	description "World Data Bank & Calendar & Plot & Sherlock & Wavemaker (19xx)(17-Bit Software)(PD)[WB]"
+	rom ( name "World Data Bank & Calendar & Plot & Sherlock & Wavemaker (19xx)(17-Bit Software)(PD)[WB].adf" size 901120 crc 63e2dbeb md5 4fbf93338f94b6b7d15e0d339444e670 sha1 0386a5ee4b56199239f0877e3ccd44fd5fda2394 )
+)
+
+game (
+	name "WPJ Garbage Collection (1991)(WPJ)"
+	description "WPJ Garbage Collection (1991)(WPJ)"
+	rom ( name "WPJ Garbage Collection (1991)(WPJ).adf" size 901120 crc bd967805 md5 1599c2b08686e43e94258512ce0aa24b sha1 05f36dad0d707e10c9098b58572c2593ce04088e )
+)
+
+game (
+	name "X-Copy III v1.0 (1990)(Cachet)[h PDX] & Drunk Desert Demo v9.4 (1990)(PDX)"
+	description "X-Copy III v1.0 (1990)(Cachet)[h PDX] & Drunk Desert Demo v9.4 (1990)(PDX)"
+	rom ( name "X-Copy III v1.0 (1990)(Cachet)[h PDX] & Drunk Desert Demo v9.4 (1990)(PDX).adf" size 901120 crc c093aa36 md5 46db9c022da2167ddd97f7f4ed18ed4d sha1 b572561588b9f0622fc187529467c925f660ad3b )
+)
+
+game (
+	name "X-Copy III v1.0 (1990)(Cachet)[h PDX][m Beta5] & Mute 101 intro (1990-05)(Mute 101)"
+	description "X-Copy III v1.0 (1990)(Cachet)[h PDX][m Beta5] & Mute 101 intro (1990-05)(Mute 101)"
+	rom ( name "X-Copy III v1.0 (1990)(Cachet)[h PDX][m Beta5] & Mute 101 intro (1990-05)(Mute 101).adf" size 901120 crc d8643339 md5 aa76c7e79b86d3d5538df40146ed93f9 sha1 c055d800d13421a4e016d27eca68df3aa279e205 )
+)
+
+game (
+	name "Xmas Lemmings & Lemmings 2 - Judge the Play (19xx)(-)"
+	description "Xmas Lemmings & Lemmings 2 - Judge the Play (19xx)(-)"
+	rom ( name "Xmas Lemmings & Lemmings 2 - Judge the Play (19xx)(-).adf" size 901120 crc b8ae246d md5 a8805b3792154e64451d7ff64074637e sha1 d98f37fad4aa63d617e442e5b448357a76fc7cdc )
+)
+
+game (
+	name "Zarch - Another Fan-Dabby-Dosy Compilation (1992)(Zarch)"
+	description "Zarch - Another Fan-Dabby-Dosy Compilation (1992)(Zarch)"
+	rom ( name "Zarch - Another Fan-Dabby-Dosy Compilation (1992)(Zarch).adf" size 901120 crc 852b7bac md5 c92644b29f6ccec82fb1e74e91c586ba sha1 495813bc46daedb0d497f73fa1e1dc5136e3080f )
+)
+

@@ -1,0 +1,98 @@
+clrmamepro (
+	name "Commodore PET - Games"
+	description "Commodore PET - Games (TOSEC-v2011-10-06)"
+	category "Commodore PET - Games"
+	version 2011-10-06
+	author "DesertWolf - Cassiel"
+)
+
+game (
+	name "17 und 4 (19xx)(-)(de)"
+	description "17 und 4 (19xx)(-)(de)"
+	rom ( name "17 und 4 (19xx)(-)(de).prg" size 5806 crc 4beaba9c md5 59ede080a00a8cc493d867232a090257 sha1 3e807f9d4bf952a7e11f2f7022ccde4e295e0215 )
+)
+
+game (
+	name "Bomber (19xx)(-)(de)"
+	description "Bomber (19xx)(-)(de)"
+	rom ( name "Bomber (19xx)(-)(de).prg" size 4998 crc 7cbfb531 md5 db206f04c84435487b0cb490e43e987c sha1 d58cfc860387fe2a2a87e33f87bbf4e5037e6769 )
+)
+
+game (
+	name "Cursor #15 - Dungeon (1979)(Sawyer, Brian)"
+	description "Cursor #15 - Dungeon (1979)(Sawyer, Brian)"
+	rom ( name "Cursor #15 - Dungeon (1979)(Sawyer, Brian).prg" size 4671 crc 069f8c8d md5 ef2442efe02c5f24d35a32520eb3bcd8 sha1 abce94001767aea6a2f4433db20a244fa850d63c )
+)
+
+game (
+	name "Cursor #16 - Fire! (1980)(Sawyer, Brian)"
+	description "Cursor #16 - Fire! (1980)(Sawyer, Brian)"
+	rom ( name "Cursor #16 - Fire! (1980)(Sawyer, Brian).prg" size 4341 crc 2e61376c md5 c2dd229b51610321d875b8960b39327f sha1 1fb2474f15aea2eb44a21ccd1999a29041af2c91 )
+)
+
+game (
+	name "Cursor #19 - Miner (1980)(Longfellow, Ron)"
+	description "Cursor #19 - Miner (1980)(Longfellow, Ron)"
+	rom ( name "Cursor #19 - Miner (1980)(Longfellow, Ron).prg" size 5741 crc 7fd98d6d md5 7507ac961349550506970c542849bec3 sha1 0238e5a696c0b2219de11347d264e5e178c3b43e )
+)
+
+game (
+	name "Cursor #21 - Ouranos! (1980)(Higby, Kathy)"
+	description "Cursor #21 - Ouranos! (1980)(Higby, Kathy)"
+	rom ( name "Cursor #21 - Ouranos! (1980)(Higby, Kathy).prg" size 5637 crc cf5dd7bc md5 310ed2c682f81ba26ce55fe6a5ead4a9 sha1 ac6fb475042076edb71d8e5dcb5a176384b082d7 )
+)
+
+game (
+	name "Fluglandung (19xx)(-)(de)"
+	description "Fluglandung (19xx)(-)(de)"
+	rom ( name "Fluglandung (19xx)(-)(de).prg" size 6643 crc 954bf1a9 md5 1d3a9bb824e8e4fdfb40e8eeece7d145 sha1 2148df18e53a0da7b02b9ea5b8c8e9a8f88986ad )
+)
+
+game (
+	name "Microchess 2.0 (1978)(Jennings, Peter)"
+	description "Microchess 2.0 (1978)(Jennings, Peter)"
+	rom ( name "Microchess 2.0 (1978)(Jennings, Peter).prg" size 7506 crc 49b495e5 md5 181cfdc425014a32d99340dc4adeab2e sha1 7bee1d5d417b8faeb76ef1fe62050038595bf018 )
+)
+
+game (
+	name "Microchess 2.0 (1978)(Jennings, Peter)[a]"
+	description "Microchess 2.0 (1978)(Jennings, Peter)[a]"
+	rom ( name "Microchess 2.0 (1978)(Jennings, Peter)[a].prg" size 7249 crc 7a1f55d7 md5 07d8379bccba936511cb2d8660d8e3e4 sha1 76bf3cfeb3d36dc5eb50b68cf21abbdd95f75c5b )
+)
+
+game (
+	name "Schlange (19xx)(-)(de)"
+	description "Schlange (19xx)(-)(de)"
+	rom ( name "Schlange (19xx)(-)(de).prg" size 4179 crc 079af1e5 md5 d72e93563de6c2dd441ba2c77ebc6979 sha1 fba514cc63126f1dc12d944f5f33ad27f7be0995 )
+)
+
+game (
+	name "Space Invaders (19xx)(-)"
+	description "Space Invaders (19xx)(-)"
+	rom ( name "Space Invaders (19xx)(-).prg" size 7169 crc ae18b292 md5 8cb3b4d93ef36edd43da614753a0f83b sha1 e8894f47d5a6d541b50e423bb865bc11664fd65d )
+)
+
+game (
+	name "Space Invaders (19xx)(-)[b]"
+	description "Space Invaders (19xx)(-)[b]"
+	rom ( name "Space Invaders (19xx)(-)[b].prg" size 5783 crc a53b0b5d md5 ab7def3ec9dd28b0916f1662ccde45f7 sha1 d7999c63da5fd585747453b49e97f06396e7b2b6 )
+)
+
+game (
+	name "Space War (19xx)(-)"
+	description "Space War (19xx)(-)"
+	rom ( name "Space War (19xx)(-).prg" size 4393 crc b7f6c737 md5 4c60fde70460516ba0450c8b3bccec47 sha1 51d9caa7f31c355ed6d479f5466a5414916e290d )
+)
+
+game (
+	name "Star Wars (19xx)(-)[b]"
+	description "Star Wars (19xx)(-)[b]"
+	rom ( name "Star Wars (19xx)(-)[b].prg" size 7169 crc 6e307504 md5 3f341d678c294e56c78176bd3e16fb53 sha1 6ee4e85b7886f9bf55eeaa19470dad0e6d620303 )
+)
+
+game (
+	name "Sternenfalle (19xx)(-)(de)"
+	description "Sternenfalle (19xx)(-)(de)"
+	rom ( name "Sternenfalle (19xx)(-)(de).prg" size 770 crc 1b58ee72 md5 f8628dcda1b5cf016de6cbf6f0faa2a0 sha1 4efdf1a1d87660ddf2f0e89f254625fd88346288 )
+)
+

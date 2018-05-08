@@ -1,0 +1,13 @@
+clrmamepro (
+	name "MITS Altair 8800 - Various - [BIN]"
+	description "MITS Altair 8800 - Various - [BIN] (TOSEC-v2008-01-27)"
+	category "MITS Altair 8800 - Various - [BIN]"
+	version 2008-01-27
+	author "TKaos"
+)
+
+game (
+	name "Doodle (19xx)(-)[dazzler output][$0200]"
+	description "Doodle (19xx)(-)[dazzler output][$0200]"
+	rom ( name "Doodle (19xx)(-)[dazzler output][$0200].bin" size 537 crc a164c028 md5 af079df6dcf32f846a9203376d62790c )
+)

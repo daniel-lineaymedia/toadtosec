@@ -1,0 +1,14 @@
+clrmamepro (
+	name "SNK Neo-Geo Pocket Color - Educational"
+	description "SNK Neo-Geo Pocket Color - Educational (TOSEC-v2011-08-13)"
+	category "SNK Neo-Geo Pocket Color - Educational"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Mezase! Kanji Ou (2000)(SNK)(JP)"
+	description "Mezase! Kanji Ou (2000)(SNK)(JP)"
+	rom ( name "Mezase! Kanji Ou (2000)(SNK)(JP).bin" size 2097152 crc c3c9992e md5 84c3fc57deb3573b742a495753bb2926 sha1 2e6c314a7915ed2f0e2471814790f257b470a499 )
+)
+

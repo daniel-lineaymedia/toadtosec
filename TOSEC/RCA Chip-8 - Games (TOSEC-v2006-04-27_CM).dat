@@ -1,0 +1,361 @@
+clrmamepro (
+	name "RCA Chip-8 - Games"
+	description "RCA Chip-8 - Games (TOSEC-v2006-04-27)"
+	category "RCA Chip-8 - Games"
+	version 2006-04-27
+	author "Cid - Grendel - Cassiel"
+)
+
+game (
+	name "15 Puzzles (19xx)(-)"
+	description "15 Puzzles (19xx)(-)"
+	rom ( name "15 Puzzles (19xx)(-).bin" size 384 crc 4e8693f1 md5 aaf7c09c7f5f952d0f0c326f9e01b5c0 )
+)
+
+game (
+	name "15 Puzzles (19xx)(-)[a]"
+	description "15 Puzzles (19xx)(-)[a]"
+	rom ( name "15 Puzzles (19xx)(-)[a].bin" size 264 crc 30ce37b1 md5 45f9c5f9cd88a744b67f368a0c1b925c )
+)
+
+game (
+	name "Blitz (19xx)(Winter, David)"
+	description "Blitz (19xx)(Winter, David)"
+	rom ( name "Blitz (19xx)(Winter, David).bin" size 394 crc 92b85bd2 md5 0c5f8681336e867cf38ad68f4b5f01ec )
+)
+
+game (
+	name "Blitz (19xx)(Winter, David)[a]"
+	description "Blitz (19xx)(Winter, David)[a]"
+	rom ( name "Blitz (19xx)(Winter, David)[a].bin" size 391 crc d106c808 md5 8180b836eeb629ba93583519a5fb7b38 )
+)
+
+game (
+	name "Break Out (19xx)(-)"
+	description "Break Out (19xx)(-)"
+	rom ( name "Break Out (19xx)(-).bin" size 280 crc a6bca0f7 md5 3b26819c641e08cce4559aa1c68b09b1 )
+)
+
+game (
+	name "Brix (19xx)(-)"
+	description "Brix (19xx)(-)"
+	rom ( name "Brix (19xx)(-).bin" size 280 crc aaa44d0b md5 d677c1b9de941484d718799aebafebf3 )
+)
+
+game (
+	name "Connect 4 (19xx)(Winter, David)"
+	description "Connect 4 (19xx)(Winter, David)"
+	rom ( name "Connect 4 (19xx)(Winter, David).bin" size 194 crc 9858889b md5 29c5bf2d8f754dfe923923934513fb2d )
+)
+
+game (
+	name "Connect 4 (19xx)(Winter, David)[b]"
+	description "Connect 4 (19xx)(Winter, David)[b]"
+	rom ( name "Connect 4 (19xx)(Winter, David)[b].bin" size 197 crc cf0c4f92 md5 7cd5fce868d363a36b6ad78124be6c72 )
+)
+
+game (
+	name "Guess The Number (19xx)(-)"
+	description "Guess The Number (19xx)(-)"
+	rom ( name "Guess The Number (19xx)(-).bin" size 150 crc f25ce7d1 md5 1128f812f5f1d3468a82d3629696e132 )
+)
+
+game (
+	name "Guess The Number (19xx)(-)[a]"
+	description "Guess The Number (19xx)(-)[a]"
+	rom ( name "Guess The Number (19xx)(-)[a].bin" size 148 crc 432e2fe1 md5 0e1e9fcffa803d75d81bc42f25e4b95b )
+)
+
+game (
+	name "Guess The Number (19xx)(-)[a2]"
+	description "Guess The Number (19xx)(-)[a2]"
+	rom ( name "Guess The Number (19xx)(-)[a2].bin" size 150 crc 0501cecb md5 896831cac662cb5d315f9141d826eb5c )
+)
+
+game (
+	name "Hidden v1.0 (19xx)(Winter, David)"
+	description "Hidden v1.0 (19xx)(Winter, David)"
+	rom ( name "Hidden v1.0 (19xx)(Winter, David).bin" size 856 crc 8925e33a md5 758a9faace9db7e329b565cb8b5ccc4e )
+)
+
+game (
+	name "Hidden v1.0 (19xx)(Winter, David)[a]"
+	description "Hidden v1.0 (19xx)(Winter, David)[a]"
+	rom ( name "Hidden v1.0 (19xx)(Winter, David)[a].bin" size 850 crc 61861ae5 md5 d3f623110c962a28b86fc63e64bf33f0 )
+)
+
+game (
+	name "Kaleidoscope (19xx)(-)"
+	description "Kaleidoscope (19xx)(-)"
+	rom ( name "Kaleidoscope (19xx)(-).bin" size 120 crc 08a93fae md5 847317965a219266a19d47eb29e72096 )
+)
+
+game (
+	name "Magic Square v1.0 (19xx)(Winter, David)"
+	description "Magic Square v1.0 (19xx)(Winter, David)"
+	rom ( name "Magic Square v1.0 (19xx)(Winter, David).bin" size 637 crc 1a7f6694 md5 6e307d93b8ecdb7d20360b097bd52d3a )
+)
+
+game (
+	name "Maze (19xx)(-)"
+	description "Maze (19xx)(-)"
+	rom ( name "Maze (19xx)(-).bin" size 40 crc 5f3ae0c4 md5 524050e432bf64e2575020544a490069 )
+)
+
+game (
+	name "Maze (19xx)(-)[a]"
+	description "Maze (19xx)(-)[a]"
+	rom ( name "Maze (19xx)(-)[a].bin" size 38 crc 39199fe2 md5 cfbb22d907dcc760179077726a795192 )
+)
+
+game (
+	name "Merlin (19xx)(Winter, David)"
+	description "Merlin (19xx)(Winter, David)"
+	rom ( name "Merlin (19xx)(Winter, David).bin" size 354 crc be6b193d md5 d4534aedd1bfce00b092fcdacb69138f )
+)
+
+game (
+	name "Merlin (19xx)(Winter, David)[a]"
+	description "Merlin (19xx)(Winter, David)[a]"
+	rom ( name "Merlin (19xx)(Winter, David)[a].bin" size 345 crc 1096c3d5 md5 51ca9370c219355e4b61bb13c3e4fb37 )
+)
+
+game (
+	name "Mines! v1.0 (19xx)(Winter, David)"
+	description "Mines! v1.0 (19xx)(Winter, David)"
+	rom ( name "Mines! v1.0 (19xx)(Winter, David).bin" size 1875 crc 6976c87d md5 3cca7c0b301256d0930232468a68c378 )
+)
+
+game (
+	name "Missile Command (19xx)(Winter, David)"
+	description "Missile Command (19xx)(Winter, David)"
+	rom ( name "Missile Command (19xx)(Winter, David).bin" size 181 crc 0beac605 md5 e88f62187bbcda94fb81490cd9de5f23 )
+)
+
+game (
+	name "Missile Command (19xx)(Winter, David)[a]"
+	description "Missile Command (19xx)(Winter, David)[a]"
+	rom ( name "Missile Command (19xx)(Winter, David)[a].bin" size 180 crc 6e485c29 md5 ccf8de6e6fe799b56e27b6761251b107 )
+)
+
+game (
+	name "Pong (19xx)(-)"
+	description "Pong (19xx)(-)"
+	rom ( name "Pong (19xx)(-).bin" size 246 crc 7d75a857 md5 873436fe95dbed9c43c41673e9edfd4f )
+)
+
+game (
+	name "Pong (19xx)(-)[a]"
+	description "Pong (19xx)(-)[a]"
+	rom ( name "Pong (19xx)(-)[a].bin" size 247 crc 39b416ae md5 281befbb4a6ffa910211a1650ae1afac )
+)
+
+game (
+	name "Pong (19xx)(-)[a2]"
+	description "Pong (19xx)(-)[a2]"
+	rom ( name "Pong (19xx)(-)[a2].bin" size 264 crc 69970ad2 md5 e66b29e565b741710eb6d48a3c6757ad )
+)
+
+game (
+	name "Pong (19xx)(-)[a3]"
+	description "Pong (19xx)(-)[a3]"
+	rom ( name "Pong (19xx)(-)[a3].bin" size 294 crc ac46b66d md5 dc0cf425bef93a9ecf09fff4565e7410 )
+)
+
+game (
+	name "Pong (19xx)(-)[b]"
+	description "Pong (19xx)(-)[b]"
+	rom ( name "Pong (19xx)(-)[b].bin" size 265 crc 25e550eb md5 bcfb47d0db2e8af616f2c085f66e1642 )
+)
+
+game (
+	name "Puzzle (19xx)(-)"
+	description "Puzzle (19xx)(-)"
+	rom ( name "Puzzle (19xx)(-).bin" size 186 crc 851b2163 md5 f62d228f4955d0162bf4a4b64ca1ca25 )
+)
+
+game (
+	name "Puzzle (19xx)(-)[a]"
+	description "Puzzle (19xx)(-)[a]"
+	rom ( name "Puzzle (19xx)(-)[a].bin" size 184 crc 040ca946 md5 28a67d7f503fe66b999b189848127678 )
+)
+
+game (
+	name "Random Maze Generator (19xx)(-)"
+	description "Random Maze Generator (19xx)(-)"
+	rom ( name "Random Maze Generator (19xx)(-).bin" size 34 crc 37a658a2 md5 ea281bb152c94c22b9855a796ff982bd )
+)
+
+game (
+	name "Space Invaders v0.8 (19xx)(Winter, David)"
+	description "Space Invaders v0.8 (19xx)(Winter, David)"
+	rom ( name "Space Invaders v0.8 (19xx)(Winter, David).bin" size 1279 crc 465b9713 md5 da7d3bfb53d25a60531748cd39753c96 )
+)
+
+game (
+	name "Space Invaders v0.9 (19xx)(Winter, David)"
+	description "Space Invaders v0.9 (19xx)(Winter, David)"
+	rom ( name "Space Invaders v0.9 (19xx)(Winter, David).bin" size 1287 crc 47acb53b md5 ce117c37cdfb15931b9e9fb98df34978 )
+)
+
+game (
+	name "Space Invaders v0.9 (19xx)(Winter, David)[a]"
+	description "Space Invaders v0.9 (19xx)(Winter, David)[a]"
+	rom ( name "Space Invaders v0.9 (19xx)(Winter, David)[a].bin" size 1283 crc ead625b8 md5 4fe20b951dbc801d7f682b88e672626c )
+)
+
+game (
+	name "Space Invaders v0.91 (19xx)(Winter, David)"
+	description "Space Invaders v0.91 (19xx)(Winter, David)"
+	rom ( name "Space Invaders v0.91 (19xx)(Winter, David).bin" size 1301 crc 6ff0a017 md5 a67f58742cff77702cc64c64413dc37d )
+)
+
+game (
+	name "Syzygy (1990)(RTT)"
+	description "Syzygy (1990)(RTT)"
+	rom ( name "Syzygy (1990)(RTT).bin" size 949 crc eaa9502f md5 b9382a9dd206da2493c7aed9730a97ff )
+)
+
+game (
+	name "Syzygy (1990)(RTT)[a]"
+	description "Syzygy (1990)(RTT)[a]"
+	rom ( name "Syzygy (1990)(RTT)[a].bin" size 946 crc 67e4bf9c md5 9440bf0cda416b3ecf568cfaa349d4fc )
+)
+
+game (
+	name "Tank Battle (19xx)(-)"
+	description "Tank Battle (19xx)(-)"
+	rom ( name "Tank Battle (19xx)(-).bin" size 560 crc a929cb73 md5 0ac0fd0d309c21a6cad14bb28217f5e4 )
+)
+
+game (
+	name "Tank Battle (19xx)(-)[a]"
+	description "Tank Battle (19xx)(-)[a]"
+	rom ( name "Tank Battle (19xx)(-)[a].bin" size 759 crc 3162521c md5 11cb25b13fbdbfabc510ad27aeb68d1a )
+)
+
+game (
+	name "Tank Battle (19xx)(-)[b]"
+	description "Tank Battle (19xx)(-)[b]"
+	rom ( name "Tank Battle (19xx)(-)[b].bin" size 564 crc f5853530 md5 07eb6e57514898ca8bfe32f426fe3151 )
+)
+
+game (
+	name "Tetris (19xx)(-)"
+	description "Tetris (19xx)(-)"
+	rom ( name "Tetris (19xx)(-).bin" size 494 crc 0ce70772 md5 aef4fc8c2a5e8431f5e0736ab281f2ee )
+)
+
+game (
+	name "Tetris (19xx)(-)[b]"
+	description "Tetris (19xx)(-)[b]"
+	rom ( name "Tetris (19xx)(-)[b].bin" size 495 crc 47b16c3a md5 cc8f2428238f9eeb7da9a9d28acd6c7e )
+)
+
+game (
+	name "Tic-Tac-Toe (19xx)(Winter, David)"
+	description "Tic-Tac-Toe (19xx)(Winter, David)"
+	rom ( name "Tic-Tac-Toe (19xx)(Winter, David).bin" size 486 crc 3a297a10 md5 4e5b1b1730cfa85e68a43e4766814a98 )
+)
+
+game (
+	name "Tic-Tac-Toe (19xx)(Winter, David)[b]"
+	description "Tic-Tac-Toe (19xx)(Winter, David)[b]"
+	rom ( name "Tic-Tac-Toe (19xx)(Winter, David)[b].bin" size 490 crc 12f2f0e5 md5 496908552899ba314a692e1066dbecb4 )
+)
+
+game (
+	name "UFO (19xx)(-)"
+	description "UFO (19xx)(-)"
+	rom ( name "UFO (19xx)(-).bin" size 224 crc 331413e7 md5 7e35f93c5a788e7e0027c78e8b76c8fb )
+)
+
+game (
+	name "V-Brix (19xx)(-)"
+	description "V-Brix (19xx)(-)"
+	rom ( name "V-Brix (19xx)(-).bin" size 507 crc 608c6ab0 md5 9ec0fe6b275220f2c8821889a5a7fcab )
+)
+
+game (
+	name "V-Brix (19xx)(-)[b]"
+	description "V-Brix (19xx)(-)[b]"
+	rom ( name "V-Brix (19xx)(-)[b].bin" size 513 crc 78aa5eea md5 24284b580485306578fd4f5f556ab650 )
+)
+
+game (
+	name "Wall (19xx)(-)"
+	description "Wall (19xx)(-)"
+	rom ( name "Wall (19xx)(-).bin" size 229 crc 64a9054b md5 8ef214bf9bcf8d038702af3dccb60a01 )
+)
+
+game (
+	name "Wipe Off (19xx)(-)"
+	description "Wipe Off (19xx)(-)"
+	rom ( name "Wipe Off (19xx)(-).bin" size 206 crc b2696048 md5 41d64f82dc3c457e4f8543e081ae8e85 )
+)
+
+game (
+	name "Wipe Off (19xx)(-)[b]"
+	description "Wipe Off (19xx)(-)[b]"
+	rom ( name "Wipe Off (19xx)(-)[b].bin" size 208 crc 8ebda3bb md5 506fff3cc6840e87a8bcc29659cf659b )
+)
+
+game (
+	name "ZZZ-UNK-C8pic"
+	description "ZZZ-UNK-C8pic"
+	rom ( name "ZZZ-UNK-C8pic.bin" size 164 crc 9e738d35 md5 d8a0b597809dd34f885544d2b0d9df89 )
+)
+
+game (
+	name "ZZZ-UNK-Cave"
+	description "ZZZ-UNK-Cave"
+	rom ( name "ZZZ-UNK-Cave.bin" size 882 crc 3bc80ce8 md5 bea7fdce1ef1733f9298dbbe2257cb9c )
+)
+
+game (
+	name "ZZZ-UNK-DRAGON1"
+	description "ZZZ-UNK-DRAGON1"
+	rom ( name "ZZZ-UNK-DRAGON1.bin" size 2656 crc 1802d315 md5 fe8ceb6f01450079b54936e5e3c6887b )
+)
+
+game (
+	name "ZZZ-UNK-DRAGON2"
+	description "ZZZ-UNK-DRAGON2"
+	rom ( name "ZZZ-UNK-DRAGON2.bin" size 262 crc c551af2f md5 433d7af3ae7ef71ad7cb52038620bff9 )
+)
+
+game (
+	name "ZZZ-UNK-Filter"
+	description "ZZZ-UNK-Filter"
+	rom ( name "ZZZ-UNK-Filter.bin" size 198 crc fb592cc5 md5 e0d2f1471b860bb99ce3d5a38d6eb2ac )
+)
+
+game (
+	name "ZZZ-UNK-Ibm"
+	description "ZZZ-UNK-Ibm"
+	rom ( name "ZZZ-UNK-Ibm.bin" size 132 crc c46ca868 md5 2dbace8066709ac9a264d23281820d32 )
+)
+
+game (
+	name "ZZZ-UNK-Rocket"
+	description "ZZZ-UNK-Rocket"
+	rom ( name "ZZZ-UNK-Rocket.bin" size 112 crc 027e5abb md5 e551a30b32b45451b0b67931744244e1 )
+)
+
+game (
+	name "ZZZ-UNK-SQUASH"
+	description "ZZZ-UNK-SQUASH"
+	rom ( name "ZZZ-UNK-SQUASH.bin" size 211 crc 801843e0 md5 4a1b1a19be22acd4b82b68dd2399fe68 )
+)
+
+game (
+	name "ZZZ-UNK-Tapeworm"
+	description "ZZZ-UNK-Tapeworm"
+	rom ( name "ZZZ-UNK-Tapeworm.bin" size 284 crc c77a1852 md5 dadaaf440809732d51485a2bc9410781 )
+)
+
+game (
+	name "ZZZ-UNK-X-mirror"
+	description "ZZZ-UNK-X-mirror"
+	rom ( name "ZZZ-UNK-X-mirror.bin" size 106 crc 0dc70d2f md5 ae22ff9a0fcdd4ffd9be340f1ae3c8ed )
+)

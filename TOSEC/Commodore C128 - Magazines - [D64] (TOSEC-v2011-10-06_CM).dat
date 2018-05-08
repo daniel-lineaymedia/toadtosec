@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Commodore C128 - Magazines - [D64]"
+	description "Commodore C128 - Magazines - [D64] (TOSEC-v2011-10-06)"
+	category "Commodore C128 - Magazines - [D64]"
+	version 2011-10-06
+	author "DesertWolf - Apache"
+)
+
+game (
+	name "Compute!'s Gazette Sid Player (19xx)(Compute!)"
+	description "Compute!'s Gazette Sid Player (19xx)(Compute!)"
+	rom ( name "Compute!'s Gazette Sid Player (19xx)(Compute!).d64" size 174848 crc 5b37ae48 md5 8b6c83f452681dce46c748812a6679f1 sha1 ade75c3f92e44b60137f002c26fd90340100eba9 )
+)
+
+game (
+	name "Power 128 #1 (19xx)(-)"
+	description "Power 128 #1 (19xx)(-)"
+	rom ( name "Power 128 #1 (19xx)(-).d64" size 174848 crc 811bdb6d md5 bfa1ed32081493a535949e0b2288505a sha1 5dc641fa9fde470153f8c261bc8dd05ca0225dd3 )
+)
+

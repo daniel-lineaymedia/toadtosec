@@ -1,0 +1,289 @@
+clrmamepro (
+	name "Apple IIGS - Demos"
+	description "Apple IIGS - Demos (TOSEC-v2010-10-12)"
+	category "Apple IIGS - Demos"
+	version 2010-10-12
+	author "TKaos"
+)
+
+game (
+	name "ACS Musique Disk (1989)(Apple Chemical Software)"
+	description "ACS Musique Disk (1989)(Apple Chemical Software)"
+	rom ( name "ACS Musique Disk (1989)(Apple Chemical Software).2mg" size 819264 crc 78e350e8 md5 f8f5611df829cf1d74db7b500563c8e1 )
+)
+
+game (
+	name "Beam, The (1989-12)(Apple Chemical Software)"
+	description "Beam, The (1989-12)(Apple Chemical Software)"
+	rom ( name "Beam, The (1989-12)(Apple Chemical Software).2mg" size 819264 crc ce5c5962 md5 9bcf2014d72d1770ac3d09348113df39 )
+)
+
+game (
+	name "Bulla (1990-12)(Free Tools Association)"
+	description "Bulla (1990-12)(Free Tools Association)"
+	rom ( name "Bulla (1990-12)(Free Tools Association).2mg" size 819264 crc 0d2a7a41 md5 d12a91f35e9e2bab65da707f1fd9c1ce )
+)
+
+game (
+	name "California (1990-04)(Mister Z)"
+	description "California (1990-04)(Mister Z)"
+	rom ( name "California (1990-04)(Mister Z).2mg" size 819264 crc 3b83080c md5 d277431e6716212a464d3a20f0e130f8 )
+)
+
+game (
+	name "California (1990-04)(Mister Z)[b]"
+	description "California (1990-04)(Mister Z)[b]"
+	rom ( name "California (1990-04)(Mister Z)[b].2mg" size 819279 crc 046a72e3 md5 5bb4750b6b0d68feef9100f9eb90de40 )
+)
+
+game (
+	name "California (1990-04)(Mister Z)[b2]"
+	description "California (1990-04)(Mister Z)[b2]"
+	rom ( name "California (1990-04)(Mister Z)[b2].2mg" size 819264 crc 2a59a4d3 md5 de025b99bb779c8c9e3d16371246f38c )
+)
+
+game (
+	name "Cliche (1992)(GS--IRC)"
+	description "Cliche (1992)(GS--IRC)"
+	rom ( name "Cliche (1992)(GS--IRC).2mg" size 819264 crc a1797d2d md5 12410a3db1b78924c1849e032a0f67d8 )
+)
+
+game (
+	name "Cliche (1992)(GS--IRC)[a]"
+	description "Cliche (1992)(GS--IRC)[a]"
+	rom ( name "Cliche (1992)(GS--IRC)[a].2mg" size 819264 crc a0c4903b md5 83c0995b807d19f9fb898d5bdfd996c3 )
+)
+
+game (
+	name "DE Xmas (1993-12)(Digital Exodus)"
+	description "DE Xmas (1993-12)(Digital Exodus)"
+	rom ( name "DE Xmas (1993-12)(Digital Exodus).2mg" size 819264 crc d1f3929c md5 35d09f9029dad81a8ab621b30f79ad5c )
+)
+
+game (
+	name "Delta (1991-07)(Free Tools Association - Mister Z)"
+	description "Delta (1991-07)(Free Tools Association - Mister Z)"
+	rom ( name "Delta (1991-07)(Free Tools Association - Mister Z).2mg" size 819264 crc d3ccc4c8 md5 be9bf00e4710fb38228da634076b31d5 )
+)
+
+game (
+	name "Delta (1991-07)(Free Tools Association - Mister Z)[b]"
+	description "Delta (1991-07)(Free Tools Association - Mister Z)[b]"
+	rom ( name "Delta (1991-07)(Free Tools Association - Mister Z)[b].2mg" size 819264 crc f2d0fa78 md5 11c404f3d1cbec6479fd452522b53215 )
+)
+
+game (
+	name "Demo Disk 1 (1988)(Apple Chemical Software)"
+	description "Demo Disk 1 (1988)(Apple Chemical Software)"
+	rom ( name "Demo Disk 1 (1988)(Apple Chemical Software).2mg" size 819264 crc 2d60e1de md5 2c206386250312406b793b35e792dcd0 )
+)
+
+game (
+	name "Demo Disk 2 (1989)(Apple Chemical Software)"
+	description "Demo Disk 2 (1989)(Apple Chemical Software)"
+	rom ( name "Demo Disk 2 (1989)(Apple Chemical Software).2mg" size 819264 crc d480e6a0 md5 9f46d4fe6457f8ab9a222b404daee578 )
+)
+
+game (
+	name "Dream Vision (1991)(Dreamworld)"
+	description "Dream Vision (1991)(Dreamworld)"
+	rom ( name "Dream Vision (1991)(Dreamworld).2mg" size 819264 crc 843e717c md5 c151446cda48b58d4db53497de1e4b09 )
+)
+
+game (
+	name "ECC Demo (1990)(East-Coast Connection)"
+	description "ECC Demo (1990)(East-Coast Connection)"
+	rom ( name "ECC Demo (1990)(East-Coast Connection).2mg" size 819264 crc 7d453910 md5 b5e98f0737a4b39e8a36df03edede90e )
+)
+
+game (
+	name "FUN Instruments Volume 1 (19xx)(-)"
+	description "FUN Instruments Volume 1 (19xx)(-)"
+	rom ( name "FUN Instruments Volume 1 (19xx)(-).2mg" size 819264 crc 7551d7d6 md5 e8f810cd077f34aa92e87c097e182503 )
+)
+
+game (
+	name "FUN Instruments Volume 2 (19xx)(-)"
+	description "FUN Instruments Volume 2 (19xx)(-)"
+	rom ( name "FUN Instruments Volume 2 (19xx)(-).2mg" size 819264 crc 9db4f2c0 md5 c1ca7751f8a8439f9672ff56fb67d433 )
+)
+
+game (
+	name "FUN Instruments Volume 3 (19xx)(-)"
+	description "FUN Instruments Volume 3 (19xx)(-)"
+	rom ( name "FUN Instruments Volume 3 (19xx)(-).2mg" size 819264 crc b1953692 md5 028fdb73d40924154f807d92ec92af70 )
+)
+
+game (
+	name "FUN Instruments Volume 4 (19xx)(-)"
+	description "FUN Instruments Volume 4 (19xx)(-)"
+	rom ( name "FUN Instruments Volume 4 (19xx)(-).2mg" size 819264 crc 541ce3ab md5 ead5131929e11b408c9433dc9b04cd94 )
+)
+
+game (
+	name "FUN Instruments Volume 5 (19xx)(-)"
+	description "FUN Instruments Volume 5 (19xx)(-)"
+	rom ( name "FUN Instruments Volume 5 (19xx)(-).2mg" size 819264 crc f92019bf md5 ab412b4fc784ce247b31cfb47ac134ac )
+)
+
+game (
+	name "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b]"
+	description "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b]"
+	rom ( name "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b].2mg" size 819264 crc 878fcaeb md5 57cff2c6879073d0be37f4488e29576b )
+)
+
+game (
+	name "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b2]"
+	description "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b2]"
+	rom ( name "GS Sales Demo (19xx)(-)(Disk 1 of 2)[b2].2mg" size 819264 crc 4286cd51 md5 37f0c23e4c9afe5dbffd1335a5941e80 )
+)
+
+game (
+	name "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b]"
+	description "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b]"
+	rom ( name "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b].2mg" size 819264 crc bd3ee778 md5 871bdf7ef1a55a85a57abe20231df241 )
+)
+
+game (
+	name "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b2]"
+	description "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b2]"
+	rom ( name "GS Sales Demo (19xx)(-)(Disk 2 of 2)[b2].2mg" size 819264 crc 143d2466 md5 802ac2276db50cdfe6917003477ccc15 )
+)
+
+game (
+	name "Last Rites Demo (19xx)(Bullwinkle Moose - Corrosive Software)[b]"
+	description "Last Rites Demo (19xx)(Bullwinkle Moose - Corrosive Software)[b]"
+	rom ( name "Last Rites Demo (19xx)(Bullwinkle Moose - Corrosive Software)[b].2mg" size 819264 crc f3cc3e67 md5 166b280b6a140235875a9412ca8d1f39 )
+)
+
+game (
+	name "Macs Headroom (1993)(Imperial Guild Kansas)(PD)"
+	description "Macs Headroom (1993)(Imperial Guild Kansas)(PD)"
+	rom ( name "Macs Headroom (1993)(Imperial Guild Kansas)(PD).2mg" size 819264 crc 9f4823d1 md5 98734a9be8a475567a3c688f24eb1b8d )
+)
+
+game (
+	name "Modulae (1990)(Free Tools Association)"
+	description "Modulae (1990)(Free Tools Association)"
+	rom ( name "Modulae (1990)(Free Tools Association).2mg" size 819264 crc 6c241f57 md5 f103a8da167343177b632e9ce328d02e )
+)
+
+game (
+	name "Modulae (1990)(Free Tools Association)[a]"
+	description "Modulae (1990)(Free Tools Association)[a]"
+	rom ( name "Modulae (1990)(Free Tools Association)[a].2mg" size 819264 crc 9f03ce1d md5 bcbdecb941a483eff0e3d24e9c573f39 )
+)
+
+game (
+	name "NFC Megademo (1997-04)(Ninjaforce)(Disk 1 of 2)[b]"
+	description "NFC Megademo (1997-04)(Ninjaforce)(Disk 1 of 2)[b]"
+	rom ( name "NFC Megademo (1997-04)(Ninjaforce)(Disk 1 of 2)[b].2mg" size 819264 crc dd1c0c8f md5 09c81ef5f9d6e99f22bda4835634ca22 )
+)
+
+game (
+	name "NFC Megademo (1997-04)(Ninjaforce)(Disk 2 of 2)[b]"
+	description "NFC Megademo (1997-04)(Ninjaforce)(Disk 2 of 2)[b]"
+	rom ( name "NFC Megademo (1997-04)(Ninjaforce)(Disk 2 of 2)[b].2mg" size 819264 crc fc0e8897 md5 87bc9624a8d25effd7347b6a20f21650 )
+)
+
+game (
+	name "Nucleus (1989-08)(Free Tools Association)"
+	description "Nucleus (1989-08)(Free Tools Association)"
+	rom ( name "Nucleus (1989-08)(Free Tools Association).2mg" size 819264 crc 0352ac9e md5 0a46c877bee5f9c377824b3e42725f51 )
+)
+
+game (
+	name "Nucleus (1989-08)(Free Tools Association)[b]"
+	description "Nucleus (1989-08)(Free Tools Association)[b]"
+	rom ( name "Nucleus (1989-08)(Free Tools Association)[b].2mg" size 819264 crc 337e14d3 md5 b18d0193716023f0470f01e534f21f7c )
+)
+
+game (
+	name "Revenge of the Bobs, The (1992-08)(Ninjaforce)"
+	description "Revenge of the Bobs, The (1992-08)(Ninjaforce)"
+	rom ( name "Revenge of the Bobs, The (1992-08)(Ninjaforce).2mg" size 819264 crc cee98919 md5 bdb6a7444fe8a030f8ab2d989089ebd1 )
+)
+
+game (
+	name "Revenge of the Bobs, The (1992-08)(Ninjaforce)[b]"
+	description "Revenge of the Bobs, The (1992-08)(Ninjaforce)[b]"
+	rom ( name "Revenge of the Bobs, The (1992-08)(Ninjaforce)[b].2mg" size 819264 crc badc6393 md5 ba9d2d32812393df2a23b5f44b14de9d )
+)
+
+game (
+	name "Sound Smith Xmas Songs (19xx)(-)"
+	description "Sound Smith Xmas Songs (19xx)(-)"
+	rom ( name "Sound Smith Xmas Songs (19xx)(-).2mg" size 819264 crc 5b34092c md5 ba777c4897b0ca2d15a9bdac08c3952c )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 1 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 1 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 1 of 8).2mg" size 819264 crc 17c5511f md5 597d82d9fc826f082c0f717edc743ac9 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 2 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 2 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 2 of 8).2mg" size 819264 crc 2be883ff md5 abc28dad781e4f64e5a0bc446e3b6d91 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 3 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 3 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 3 of 8).2mg" size 819264 crc 7c94a734 md5 4872b8274146b36dda2b39e75db875a5 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 4 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 4 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 4 of 8).2mg" size 819264 crc 79afdb89 md5 6793d52d9a2559797f48af95ce6d1174 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 5 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 5 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 5 of 8).2mg" size 819264 crc 6fadb900 md5 04883b712e4cbfc069980192b56e05bd )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 6 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 6 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 6 of 8).2mg" size 819264 crc c72bfd8d md5 04f0c34a760dd12dc3b8331f814b4e38 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 7 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 7 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 7 of 8).2mg" size 819264 crc e42947a8 md5 cb352aef966dc8c9bd16082271292442 )
+)
+
+game (
+	name "SoundSmith Data (19xx)(-)(Disk 8 of 8)"
+	description "SoundSmith Data (19xx)(-)(Disk 8 of 8)"
+	rom ( name "SoundSmith Data (19xx)(-)(Disk 8 of 8).2mg" size 819264 crc e14ffb78 md5 6f748c577a5f1ffe61ade9c3591a8b2e )
+)
+
+game (
+	name "Summer 1990 (1990)(Bullwinkle Moose)"
+	description "Summer 1990 (1990)(Bullwinkle Moose)"
+	rom ( name "Summer 1990 (1990)(Bullwinkle Moose).2mg" size 819264 crc f838d6d4 md5 9fe47beeb7603155841fe74aeb0ed0d2 )
+)
+
+game (
+	name "Summer 1990 (1990)(Bullwinkle Moose)[a]"
+	description "Summer 1990 (1990)(Bullwinkle Moose)[a]"
+	rom ( name "Summer 1990 (1990)(Bullwinkle Moose)[a].2mg" size 819264 crc 39288241 md5 1b1fc9a07ef64029b11ecef3c0882553 )
+)
+
+game (
+	name "TTC Demo (1991-01-12)(TTC)[b]"
+	description "TTC Demo (1991-01-12)(TTC)[b]"
+	rom ( name "TTC Demo (1991-01-12)(TTC)[b].2mg" size 819264 crc 05f67d07 md5 954d32cf198ec8c8b4d4389a68f3b214 )
+)
+
+game (
+	name "Xmas Demo (1990-12)(GS Alliance - Free Tools Association)"
+	description "Xmas Demo (1990-12)(GS Alliance - Free Tools Association)"
+	rom ( name "Xmas Demo (1990-12)(GS Alliance - Free Tools Association).2mg" size 819264 crc 4317de8c md5 7b7b253e77f050433740e6b6f59f0a89 )
+)

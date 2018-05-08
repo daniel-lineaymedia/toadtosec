@@ -1,0 +1,55 @@
+clrmamepro (
+	name "Exelvision EXL100 - Applications - [ROM]"
+	description "Exelvision EXL100 - Applications - [ROM] (TOSEC-v2009-11-13)"
+	category "Exelvision EXL100 - Applications - [ROM]"
+	version 2009-11-13
+	author "TKaos"
+)
+
+game (
+	name "ExelBASIC (198x)(Exelvision)(FR)"
+	description "ExelBASIC (198x)(Exelvision)(FR)"
+	rom ( name "ExelBASIC (198x)(Exelvision)(FR).rom" size 32256 crc 1e92fe55 md5 505d099f2a121cc8b1367cc486c62af6 )
+)
+
+game (
+	name "ExelBASIC+ (198x)(Exelvision)(FR)"
+	description "ExelBASIC+ (198x)(Exelvision)(FR)"
+	rom ( name "ExelBASIC+ (198x)(Exelvision)(FR).rom" size 32256 crc a0300b3c md5 334bc213f12c874f579b2e736571541f )
+)
+
+game (
+	name "Exeldrums (198x)(Exelvision)(FR)"
+	description "Exeldrums (198x)(Exelvision)(FR)"
+	rom ( name "Exeldrums (198x)(Exelvision)(FR).rom" size 16384 crc 8f757196 md5 d195e32d3d3d5faf1d9e4727d59b308e )
+)
+
+game (
+	name "Exelmax v1.6 (1986)(Exelvision)(FR)(en)"
+	description "Exelmax v1.6 (1986)(Exelvision)(FR)(en)"
+	rom ( name "Exelmax v1.6 (1986)(Exelvision)(FR)(en).rom" size 32256 crc 5e031175 md5 0980df595ff3122e387f023e697c3655 )
+)
+
+game (
+	name "Exelmodem (198x)(Exelvision)(FR)"
+	description "Exelmodem (198x)(Exelvision)(FR)"
+	rom ( name "Exelmodem (198x)(Exelvision)(FR).rom" size 32256 crc 884ce574 md5 d17f2c37cd87668274b3bac2fac14f4f )
+)
+
+game (
+	name "Exelogo v1.0 (1985)(Exelvision)(FR)"
+	description "Exelogo v1.0 (1985)(Exelvision)(FR)"
+	rom ( name "Exelogo v1.0 (1985)(Exelvision)(FR).rom" size 32256 crc 2f7e8074 md5 321db1a924266b66ccd367b14b452e84 )
+)
+
+game (
+	name "Exelpaint v1.0 (198x)(Exelvision)(FR)"
+	description "Exelpaint v1.0 (198x)(Exelvision)(FR)"
+	rom ( name "Exelpaint v1.0 (198x)(Exelvision)(FR).rom" size 32768 crc 9f0e6866 md5 20704ce8b44ed042cf77d1fd7d4d6bd9 )
+)
+
+game (
+	name "Exeltexte (1985)(Exelvision)(FR)"
+	description "Exeltexte (1985)(Exelvision)(FR)"
+	rom ( name "Exeltexte (1985)(Exelvision)(FR).rom" size 32768 crc 165b6003 md5 9dff5d6842cc5df1c601e8fe8b128b45 )
+)

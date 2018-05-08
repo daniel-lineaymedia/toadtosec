@@ -1,0 +1,146 @@
+clrmamepro (
+	name "Atari 8bit - Applications - [ROM]"
+	description "Atari 8bit - Applications - [ROM] (TOSEC-v2011-08-24)"
+	category "Atari 8bit - Applications - [ROM]"
+	version 2011-08-24
+	author "TKaos - Gucek - gRzEnIu - Cassiel"
+)
+
+game (
+	name "810 Diagnostic Cartridge (1982)(Atari)(US)"
+	description "810 Diagnostic Cartridge (1982)(Atari)(US)"
+	rom ( name "810 Diagnostic Cartridge (1982)(Atari)(US).rom" size 8192 crc b61f2a16 md5 b12765d2c7fc2c18d1f7096e976be3ee sha1 768299b3ca5bf391eeb0ac34dc3d94b5f31c0e91 )
+)
+
+game (
+	name "Adventure Creator (1984)(Spinnaker Software)(US)"
+	description "Adventure Creator (1984)(Spinnaker Software)(US)"
+	rom ( name "Adventure Creator (1984)(Spinnaker Software)(US).rom" size 16384 crc 8746d9da md5 a52665456ecbf02758053300579f2b21 sha1 2e457c53969f6d8995049ce89b13204fcb79627d )
+)
+
+game (
+	name "Atari LOGO (1983)(Atari)"
+	description "Atari LOGO (1983)(Atari)"
+	rom ( name "Atari LOGO (1983)(Atari).rom" size 16384 crc 5bdff48f md5 a102e9bb29d23db5a98a941a5d425716 sha1 df116fff10084a97c82e4ea74b8cba50fd808d46 )
+)
+
+game (
+	name "BASIC - Revision A (1979)(Atari)(US)(400-800)"
+	description "BASIC - Revision A (1979)(Atari)(US)(400-800)"
+	rom ( name "BASIC - Revision A (1979)(Atari)(US)(400-800).rom" size 8192 crc 4bec4de2 md5 a4dc52536d526ecc51ea857b9fa2b90f sha1 70cdf57469a208528f78a14275837352e90e20f1 )
+)
+
+game (
+	name "BASIC Revision B (19xx)(Atari)[XL]"
+	description "BASIC Revision B (19xx)(Atari)[XL]"
+	rom ( name "BASIC Revision B (19xx)(Atari)[XL].rom" size 8192 crc f0202fb3 md5 04ea6a4e386601445ca5bfc8e37fb620 sha1 7ad88dd99ff4a6ee66f6d162074db6f8bef7a9b6 )
+)
+
+game (
+	name "BASIC Revision C (19xx)(Atari)[XL-XE]"
+	description "BASIC Revision C (19xx)(Atari)[XL-XE]"
+	rom ( name "BASIC Revision C (19xx)(Atari)[XL-XE].rom" size 8192 crc 7d684184 md5 0bac0c6a50104045d902df4503a4c30b sha1 3693c9cb9bf3b41bae1150f7a8264992468fc8c0 )
+)
+
+game (
+	name "Basic XE v4.1 (1985)(OSS)(US)"
+	description "Basic XE v4.1 (1985)(OSS)(US)"
+	rom ( name "Basic XE v4.1 (1985)(OSS)(US).rom" size 16384 crc 003d3a36 md5 7c8cf09fe8f1b537fe9b1ffdf65ab942 sha1 76f06d212c5f972f9540bee26b23ecc010f3b535 )
+)
+
+game (
+	name "Basic XL v1.03 (1983)(OSS)(US)"
+	description "Basic XL v1.03 (1983)(OSS)(US)"
+	rom ( name "Basic XL v1.03 (1983)(OSS)(US).rom" size 16384 crc 94a05568 md5 5c1e4a062de3f2f8a26d31b2533e7465 sha1 01eefc1ed8625cf264a00b15acd6c3698cebfdcc )
+)
+
+game (
+	name "Expando-Vision - Control Drinking + Responsibility (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	description "Expando-Vision - Control Drinking + Responsibility (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	rom ( name "Expando-Vision - Control Drinking + Responsibility (1983)(Stimutech)(US)[req Expando-Vision Device].rom" size 8192 crc 2343acf3 md5 51959bd681380a2cf300c2430ee4f844 sha1 1cea338dabfbf22ec9be0a76796e3fee6d4e78b6 )
+)
+
+game (
+	name "Expando-Vision - Control Smoking + Calm Nerves (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	description "Expando-Vision - Control Smoking + Calm Nerves (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	rom ( name "Expando-Vision - Control Smoking + Calm Nerves (1983)(Stimutech)(US)[req Expando-Vision Device].rom" size 8192 crc eb8b49b9 md5 49d62f3333c6dd6c4bd27feb1bced497 sha1 662613be02f401407686c11e5653c460487cb9c4 )
+)
+
+game (
+	name "Expando-Vision - Stress Control + Positive Thinking (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	description "Expando-Vision - Stress Control + Positive Thinking (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	rom ( name "Expando-Vision - Stress Control + Positive Thinking (1983)(Stimutech)(US)[req Expando-Vision Device].rom" size 8192 crc b68b0a9b md5 f3a95f1da262d39de27b35b15bd5f95f sha1 5095dc591f7209e55c4d754110f427d23a1abb10 )
+)
+
+game (
+	name "Expando-Vision - Weight Control + Exercise (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	description "Expando-Vision - Weight Control + Exercise (1983)(Stimutech)(US)[req Expando-Vision Device]"
+	rom ( name "Expando-Vision - Weight Control + Exercise (1983)(Stimutech)(US)[req Expando-Vision Device].rom" size 8192 crc 1b5848c0 md5 2dd84ffd2418499ff2b426ce4566b49a sha1 929d9d2d7f523e0a3bb86bb08d90905e60fd4e0b )
+)
+
+game (
+	name "Homebase (1982)(Citibank)(US)"
+	description "Homebase (1982)(Citibank)(US)"
+	rom ( name "Homebase (1982)(Citibank)(US).rom" size 8192 crc b792d41e md5 059170f5701e5566076d637a1a9e9e9f sha1 e0bb722b4f1f0b6be893a0e4c565b0233b49bc76 )
+)
+
+game (
+	name "INFO-soft 5000 v5.3 (1986)(INFO-soft Technology)(US)"
+	description "INFO-soft 5000 v5.3 (1986)(INFO-soft Technology)(US)"
+	rom ( name "INFO-soft 5000 v5.3 (1986)(INFO-soft Technology)(US).rom" size 16384 crc 66a53fa1 md5 19012857de51631787537364ee2705ed sha1 7be942cf2c66305bbf9575f57c7155953f50e8a8 )
+)
+
+game (
+	name "Letter Perfect (1981)(LJK)(US)"
+	description "Letter Perfect (1981)(LJK)(US)"
+	rom ( name "Letter Perfect (1981)(LJK)(US).rom" size 8192 crc 34c1701a md5 b445ec505c7de00036e84c766411dc77 sha1 325fad1512c8cff544f0e706eecd0c98ef2e0d1e )
+)
+
+game (
+	name "MAC-65 v1.01 (1984)(OSS)(US)"
+	description "MAC-65 v1.01 (1984)(OSS)(US)"
+	rom ( name "MAC-65 v1.01 (1984)(OSS)(US).rom" size 16384 crc 4102ca4f md5 56355fd6d944615080507ecbe6402fab sha1 2143a8317e85ec7eb27770a9f38e63867e41014b )
+)
+
+game (
+	name "MAC-65 v1.01 (1984)(OSS)(US)[a]"
+	description "MAC-65 v1.01 (1984)(OSS)(US)[a]"
+	rom ( name "MAC-65 v1.01 (1984)(OSS)(US)[a].rom" size 16400 crc 7e66b2f7 md5 3ed4a7a61b0a14d396619e448ee11c4c sha1 45a4f3b6b587db3431bf6444e0b36040621230d3 )
+)
+
+game (
+	name "MultiFicha v1.0 (1985)(Grupo SITSA)(MX)"
+	description "MultiFicha v1.0 (1985)(Grupo SITSA)(MX)"
+	rom ( name "MultiFicha v1.0 (1985)(Grupo SITSA)(MX).rom" size 8192 crc 78e680da md5 6595c77551fd1e6dfb96f3fcb321c4a7 sha1 c477b08c709d662b4e769b83be239776ae66a25d )
+)
+
+game (
+	name "Paddle Jitter Test rev C (1982-11-24)(Atari)(US)"
+	description "Paddle Jitter Test rev C (1982-11-24)(Atari)(US)"
+	rom ( name "Paddle Jitter Test rev C (1982-11-24)(Atari)(US).rom" size 16384 crc 0366db59 md5 7c262bf3d3ca2e7cb3a976f9c9aad486 sha1 7424663cdf6087a0fbce51bb9ba7cc8be135997d )
+)
+
+game (
+	name "PILOT (1981)(Atari)(US)"
+	description "PILOT (1981)(Atari)(US)"
+	rom ( name "PILOT (1981)(Atari)(US).rom" size 8192 crc 3a695b4c md5 481c58c24d14d428fff5939a923c5bca sha1 8a11ed7befcd5919440db16734d41c5c4e5c1776 )
+)
+
+game (
+	name "Pronto (1985)(Pronto)(US)[req modem]"
+	description "Pronto (1985)(Pronto)(US)[req modem]"
+	rom ( name "Pronto (1985)(Pronto)(US)[req modem].rom" size 16384 crc f87e5a14 md5 409d6c99b6a233d5ad12d74a42023008 sha1 dbea9539300f676e659f71c2ff9b808d77fc7bc4 )
+)
+
+game (
+	name "Target v1.15 (1986)(COVIDEA)(US)[req modem]"
+	description "Target v1.15 (1986)(COVIDEA)(US)[req modem]"
+	rom ( name "Target v1.15 (1986)(COVIDEA)(US)[req modem].rom" size 16384 crc 60c2a5ae md5 2930fd43de22e40591f178caaf05abcb sha1 3c4976c118a9aefba8f8895e9b8c818dbc641371 )
+)
+
+game (
+	name "Test Atari 65-130XE R.2 (19xx)(-)"
+	description "Test Atari 65-130XE R.2 (19xx)(-)"
+	rom ( name "Test Atari 65-130XE R.2 (19xx)(-).rom" size 8192 crc 0b0b43f8 md5 ece8991bf1f1a9e7f9a51fee123c48cc sha1 c20394f2a9c9a8bd8228dd09a33ed92abb0c685d )
+)
+

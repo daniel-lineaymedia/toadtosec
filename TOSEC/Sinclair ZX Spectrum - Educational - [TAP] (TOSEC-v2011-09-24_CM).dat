@@ -1,0 +1,374 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Educational - [TAP]"
+	description "Sinclair ZX Spectrum - Educational - [TAP] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Educational - [TAP]"
+	version 2011-09-24
+	author "jugaor - gorski - Vaxalon - Zxyo - Dziuber - StefaN - Cassiel"
+)
+
+game (
+	name "Body Works - Cells (1985)(Genesis Productions)"
+	description "Body Works - Cells (1985)(Genesis Productions)"
+	rom ( name "Body Works - Cells (1985)(Genesis Productions).tap" size 49070 crc 9a2e21e1 md5 f6125e1dbde809c29e3ffb85d0f69722 sha1 f221f9297c225faabb2a190f9850efd982ed5104 )
+)
+
+game (
+	name "Body Works - Circulation (1985)(Genesis Productions)"
+	description "Body Works - Circulation (1985)(Genesis Productions)"
+	rom ( name "Body Works - Circulation (1985)(Genesis Productions).tap" size 49070 crc 42aaedd1 md5 492bac670aa9b1cafeb337f649393c6a sha1 8eec3a46747d885295bb0b82caca19dc39092bf8 )
+)
+
+game (
+	name "Body Works - Digestion (1985)(Genesis Productions)"
+	description "Body Works - Digestion (1985)(Genesis Productions)"
+	rom ( name "Body Works - Digestion (1985)(Genesis Productions).tap" size 49070 crc 63cd943d md5 d7e6741b54d6a00016686d3c91f9c50e sha1 e5e92d8e7bdddc2c6dc53b7a40a992bbbc28d1db )
+)
+
+game (
+	name "Body Works - Digestivo (1985)(Genesis Productions)(es)"
+	description "Body Works - Digestivo (1985)(Genesis Productions)(es)"
+	rom ( name "Body Works - Digestivo (1985)(Genesis Productions)(es).tap" size 14910 crc 4db0a3e0 md5 cd60bd363e7047395d04abc86c4ced60 sha1 1a3407ab94596ab13e997fe577cc9a0b1e94dce8 )
+)
+
+game (
+	name "Body Works - Marathon (1985)(Genesis Productions)"
+	description "Body Works - Marathon (1985)(Genesis Productions)"
+	rom ( name "Body Works - Marathon (1985)(Genesis Productions).tap" size 49070 crc 5e354e5e md5 b265d8d020f2477d773469fc1367b96d sha1 6acbb0292415a4d395cf12fb961b8675dc938f63 )
+)
+
+game (
+	name "Body Works - Muscles (1985)(Genesis Productions)"
+	description "Body Works - Muscles (1985)(Genesis Productions)"
+	rom ( name "Body Works - Muscles (1985)(Genesis Productions).tap" size 49070 crc 77e09aa6 md5 52dcb8065cd0dc76d613b5e50758dd76 sha1 9e9e6d588d3153c5e578857b699142c46e166847 )
+)
+
+game (
+	name "Body Works - Nerves (1985)(Genesis Productions)"
+	description "Body Works - Nerves (1985)(Genesis Productions)"
+	rom ( name "Body Works - Nerves (1985)(Genesis Productions).tap" size 49070 crc 11f5fc71 md5 8e703a63e7d80dd5490335d888ea099e sha1 a747dc9dcfe7d75e46503f86f81f9b8c5c316325 )
+)
+
+game (
+	name "Body Works - Respiration (1985)(Genesis Productions)"
+	description "Body Works - Respiration (1985)(Genesis Productions)"
+	rom ( name "Body Works - Respiration (1985)(Genesis Productions).tap" size 49070 crc ec47de47 md5 0cfc6a54a979603a3c478f3145fb5063 sha1 15e41f3da3b501e25f81744e50bdb048dc2fe64a )
+)
+
+game (
+	name "Bridge Tutor Advanced (1983)(CP Software)[16K]"
+	description "Bridge Tutor Advanced (1983)(CP Software)[16K]"
+	rom ( name "Bridge Tutor Advanced (1983)(CP Software)[16K].tap" size 53688 crc cbe979d0 md5 8c765dec518f1f10259758c44e01cf75 sha1 fe53595b38d4451b4ff6d679f38ea1e5d0cc9e28 )
+)
+
+game (
+	name "Bridge Tutor Beginners (1983)(CP Software)[16K]"
+	description "Bridge Tutor Beginners (1983)(CP Software)[16K]"
+	rom ( name "Bridge Tutor Beginners (1983)(CP Software)[16K].tap" size 19590 crc 2fae77e0 md5 5cbe39219db078ada3880ef662ed01c0 sha1 6ad5fc478d3bd264430c41b102d97ea180dbaa8f )
+)
+
+game (
+	name "Chess Tutor (1983)(Artic Computing)[16K]"
+	description "Chess Tutor (1983)(Artic Computing)[16K]"
+	rom ( name "Chess Tutor (1983)(Artic Computing)[16K].tap" size 8549 crc 30962b50 md5 c7d7a87d584afc96ad614f6cf5828e58 sha1 649be0ac12fc49ee1557510173d37c5e2b7d5d90 )
+)
+
+game (
+	name "Chess Tutor 1 (1983)(Sinclair Research)"
+	description "Chess Tutor 1 (1983)(Sinclair Research)"
+	rom ( name "Chess Tutor 1 (1983)(Sinclair Research).tap" size 121562 crc e034f208 md5 5f5f9d7c406205190a3fde289bcc5ced sha1 95dfc9d95ad9c79499d5647bb9ec4473ee55c9b8 )
+)
+
+game (
+	name "Chess Tutor 1 (1983)(Sinclair Research)[b]"
+	description "Chess Tutor 1 (1983)(Sinclair Research)[b]"
+	rom ( name "Chess Tutor 1 (1983)(Sinclair Research)[b].tap" size 121546 crc b62a16f7 md5 f5d2f8eebcb5aa4b25c29e260350e55b sha1 e198efa33282ce9268641a711b2d5650f862a0b5 )
+)
+
+game (
+	name "First Numbers - 11 Up (1983)(Collins Educational)"
+	description "First Numbers - 11 Up (1983)(Collins Educational)"
+	rom ( name "First Numbers - 11 Up (1983)(Collins Educational).tap" size 5362 crc 93657de9 md5 a9dbcf2c1b14c37dc135480109928a7c sha1 aba03db6995f450f96fa5af24284b6319a8837f7 )
+)
+
+game (
+	name "First Numbers - Race (1983)(Collins Educational)"
+	description "First Numbers - Race (1983)(Collins Educational)"
+	rom ( name "First Numbers - Race (1983)(Collins Educational).tap" size 5420 crc 4e94020f md5 e999cc7b1bcca4704a41e75fe63aa2e5 sha1 68b69386f544f2ab2b4ef8fcf99567062795fd94 )
+)
+
+game (
+	name "First Numbers - Up to 10 (1983)(Collins Educational)"
+	description "First Numbers - Up to 10 (1983)(Collins Educational)"
+	rom ( name "First Numbers - Up to 10 (1983)(Collins Educational).tap" size 8478 crc 12162170 md5 1d0c78a11c32d1cc3dad2d33b92ca575 sha1 e233cba4cb9c4bee67308e22fe4a745705d21db7 )
+)
+
+game (
+	name "First Numbers - Up to 5 (1983)(Collins Educational)"
+	description "First Numbers - Up to 5 (1983)(Collins Educational)"
+	rom ( name "First Numbers - Up to 5 (1983)(Collins Educational).tap" size 8503 crc f3164bf6 md5 6e9347ebd63d090d2c5c7401dbeca2fe sha1 9b8c035e88863418b03d5a3e8f246c67f36e1d33 )
+)
+
+game (
+	name "First Numbers - Writing Numbers (1983)(Collins Educational)"
+	description "First Numbers - Writing Numbers (1983)(Collins Educational)"
+	rom ( name "First Numbers - Writing Numbers (1983)(Collins Educational).tap" size 8604 crc 3f530f28 md5 dcffce6ea7fb27728c3fa8661aa674f8 sha1 90b26f7117a83ea07abb553c81f263b56b8337e0 )
+)
+
+game (
+	name "Fun Maths (19xx)(-)"
+	description "Fun Maths (19xx)(-)"
+	rom ( name "Fun Maths (19xx)(-).tap" size 20853 crc 34422c91 md5 9fa56abca1455b77ceac6e6db1de7205 sha1 bb440913457dfd95541dec7680de4528b9a243af )
+)
+
+game (
+	name "Fun School 2 for 6-8 Year Olds (1989)(Database Software)"
+	description "Fun School 2 for 6-8 Year Olds (1989)(Database Software)"
+	rom ( name "Fun School 2 for 6-8 Year Olds (1989)(Database Software).tap" size 77103 crc 5cba8fe8 md5 3aa681b27d07cdf62b4413bd8c7296d0 sha1 f699ea1de496c3be16452d56255055cd8b3340c6 )
+)
+
+game (
+	name "Fun to Learn (1984)(Shards Software)"
+	description "Fun to Learn (1984)(Shards Software)"
+	rom ( name "Fun to Learn (1984)(Shards Software).tap" size 26244 crc 5640cf6f md5 74f9642086723e79e61c6c1ceee17266 sha1 dfa14c867667e16bfc832d9017bb53ad2168c525 )
+)
+
+game (
+	name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - Geography 1 (1982)(Sinclair Research)[16K].tap" size 5937 crc 6c4752b7 md5 f4689a97ad053b31a48d1fe0dc45e5a0 sha1 0e906424a929d3803d9322e1569cf4933fff1735 )
+)
+
+game (
+	name "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K]"
+	description "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K]"
+	rom ( name "Fun to Learn - Music 1 (1982)(Sinclair Research)[16K].tap" size 7845 crc 70041358 md5 652caeba3fde8ca3cb17ad955227fee7 sha1 2c41ed5c3af58e4926037ce1042c6d88d2c26806 )
+)
+
+game (
+	name "Intermediate English 1 (1982)(Rose Software)[16K]"
+	description "Intermediate English 1 (1982)(Rose Software)[16K]"
+	rom ( name "Intermediate English 1 (1982)(Rose Software)[16K].tap" size 176068 crc dcb7c0ec md5 7ea3eedcbf4dca7dfb26b11c4ebede68 sha1 a30f5c8d5362c277245d2b2c8cbbba5f583c88ff )
+)
+
+game (
+	name "Intermediate English 2 (1982)(Rose Software)[16K]"
+	description "Intermediate English 2 (1982)(Rose Software)[16K]"
+	rom ( name "Intermediate English 2 (1982)(Rose Software)[16K].tap" size 89670 crc 3e6fc645 md5 812b1f6c0ceabb8748639e78879fadf0 sha1 872d5d5dae2c68ff2b33f52b22c478d05f36feaf )
+)
+
+game (
+	name "Intermediate Maths 1 - Fractions 1 (1982)(Rose Software)"
+	description "Intermediate Maths 1 - Fractions 1 (1982)(Rose Software)"
+	rom ( name "Intermediate Maths 1 - Fractions 1 (1982)(Rose Software).tap" size 18730 crc 61efe00f md5 47533ba0ed7f2b98cd489ec135c4ba47 sha1 dbcfe6ee8a67f41d018a8ce35e06def502d85b73 )
+)
+
+game (
+	name "Intermediate Maths 1 - Fractions 2 (1982)(Rose Software)"
+	description "Intermediate Maths 1 - Fractions 2 (1982)(Rose Software)"
+	rom ( name "Intermediate Maths 1 - Fractions 2 (1982)(Rose Software).tap" size 21688 crc 6a1a24bf md5 bec0869f35053cab195a577d27d4da45 sha1 b358d030c5c2ad37508343210445a24c9b0aec4d )
+)
+
+game (
+	name "Intermediate Maths 1 - Long Division (1982)(Rose Software)"
+	description "Intermediate Maths 1 - Long Division (1982)(Rose Software)"
+	rom ( name "Intermediate Maths 1 - Long Division (1982)(Rose Software).tap" size 15403 crc 2030fdb2 md5 640482f29ab07248852419d3d64d5e70 sha1 250dac5bb493d6835ac6cc2200867d173e9d5675 )
+)
+
+game (
+	name "Intermediate Maths 1 - Long Multiplication (1982)(Rose Software)"
+	description "Intermediate Maths 1 - Long Multiplication (1982)(Rose Software)"
+	rom ( name "Intermediate Maths 1 - Long Multiplication (1982)(Rose Software).tap" size 16441 crc ddaa77fa md5 32d90b4e524ecedb29919b3a8f1d7574 sha1 7751af8921c5fe141eea9e6618b6bc0e96084b57 )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side A)"
+	description "Know Your Tables (1983)(Collins Educational)(Side A)"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side A).tap" size 6766 crc fb15ff42 md5 2c204b6cde24ba3b3159baa6650773f6 sha1 af8f81dc90dd72879f5dd00cbd12b2f6eeb8ce18 )
+)
+
+game (
+	name "Know Your Tables (1983)(Collins Educational)(Side B)"
+	description "Know Your Tables (1983)(Collins Educational)(Side B)"
+	rom ( name "Know Your Tables (1983)(Collins Educational)(Side B).tap" size 7472 crc 2aff6ce0 md5 e902b0d07e12a037f3cd9dde4e977b1e sha1 c94363acf18ce74650ccf7406ad994823e1cd9d1 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side A).tap" size 38324 crc b053316d md5 33effe2dad618a0df5325ea9a3e0f95e sha1 98daf82e7e553409b80c6f1023a12ef63beb0e1f )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 1 of 2 Side B).tap" size 23214 crc c2fc6550 md5 746d1c8d01f7381f8e6f36fcb4e2c443 sha1 02cecce918014a6af8c92c101e21794b9b9c8dfd )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side A).tap" size 10576 crc eab382ff md5 fc2e1ab24ec1aa12e8e26474ec3b1882 sha1 0f824a0a3f57150b2414676bd172a7e96cbbd1d4 )
+)
+
+game (
+	name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)"
+	description "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B)"
+	rom ( name "Learn BASIC Programming on the Sinclair ZX Spectrum (1984)(Logic 3)(Tape 2 of 2 Side B).tap" size 6876 crc 2eafaf34 md5 0aacb4a6da408d009630e6e11f6b5532 sha1 14be4b77b8c2fc1203a6b53daedd8a22d2095d1e )
+)
+
+game (
+	name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)"
+	description "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research)"
+	rom ( name "Learn to Read 2 (1984)(Macmillan Software - Sinclair Research).tap" size 32431 crc 94c7ad5a md5 be03c6ebaaed96465eaf56dd2aa93a5d sha1 16039eb17651d38dbd71bf72380dfc810b33081f )
+)
+
+game (
+	name "Learner Driver (1983)(ZX Computing)[16K]"
+	description "Learner Driver (1983)(ZX Computing)[16K]"
+	rom ( name "Learner Driver (1983)(ZX Computing)[16K].tap" size 6778 crc a3d3385e md5 1d7e71ad2bd2193997db2f5d26097872 sha1 2dc1a6fc7e0600c1b1b487bc383f6a2a04cbe2ef )
+)
+
+game (
+	name "Learning (1982)(AVC Software)"
+	description "Learning (1982)(AVC Software)"
+	rom ( name "Learning (1982)(AVC Software).tap" size 17436 crc d9d12bf1 md5 8d5568984f33fb7704e3514607323d81 sha1 b63b7ffbe68d617d531b7e2490e20e80febefc9e )
+)
+
+game (
+	name "Learning to Read Music (1984)(Rose Software)[16K]"
+	description "Learning to Read Music (1984)(Rose Software)[16K]"
+	rom ( name "Learning to Read Music (1984)(Rose Software)[16K].tap" size 15043 crc f2c5b7f0 md5 263cf7f68e99c0fb94f9357589903df3 sha1 84f0508c9c799c4b597c2d9a86d6984d892fe2c7 )
+)
+
+game (
+	name "North American Indians (1983)(Calpac Educational Software)"
+	description "North American Indians (1983)(Calpac Educational Software)"
+	rom ( name "North American Indians (1983)(Calpac Educational Software).tap" size 6895 crc 0816c13b md5 7c163795dc317b4e8bf382113ccedbc4 sha1 84d659e32f9c379b8f5515d0388c2fe30eec856d )
+)
+
+game (
+	name "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K]"
+	description "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K]"
+	rom ( name "O'Level French Revision - Vocabulary (1985)(Rose Software)[16K].tap" size 89076 crc 54533579 md5 9b4c40b52b10cb37f00478da88535a15 sha1 63a4c22c74b19a16db724d7898cbe2ac24fa65bf )
+)
+
+game (
+	name "O'Level French Revision - Vocabulary (1985)(Rose Software)[a][16K]"
+	description "O'Level French Revision - Vocabulary (1985)(Rose Software)[a][16K]"
+	rom ( name "O'Level French Revision - Vocabulary (1985)(Rose Software)[a][16K].tap" size 86116 crc fce6c67e md5 520b15a9f976c00285d6b94dad0cec3a sha1 b9479636f65a1405ca0e46f20342e5b6be796f29 )
+)
+
+game (
+	name "O'Level French Revision - Vocabulary 5 - Common Words (1985)(Rose Software)[16K]"
+	description "O'Level French Revision - Vocabulary 5 - Common Words (1985)(Rose Software)[16K]"
+	rom ( name "O'Level French Revision - Vocabulary 5 - Common Words (1985)(Rose Software)[16K].tap" size 14130 crc 8fc5e12d md5 ebfa9e20b0b643670a77f4e076282354 sha1 4b8c37cf7f5f11fb3abba5904ba9becae7bd9261 )
+)
+
+game (
+	name "O'Level Maths Revision - Equations & Inequalities + Intermediate Maths 2 (1984)(Rose Software)"
+	description "O'Level Maths Revision - Equations & Inequalities + Intermediate Maths 2 (1984)(Rose Software)"
+	rom ( name "O'Level Maths Revision - Equations & Inequalities + Intermediate Maths 2 (1984)(Rose Software).tap" size 198108 crc b83e885a md5 417cebf80a5edae8c42de724d8f4b8c8 sha1 907e8c11e7efe1a1cc739ff22746071d6712c1a9 )
+)
+
+game (
+	name "O'Level Physics Revision - Light & Heat (1984)(Rose Software)"
+	description "O'Level Physics Revision - Light & Heat (1984)(Rose Software)"
+	rom ( name "O'Level Physics Revision - Light & Heat (1984)(Rose Software).tap" size 187797 crc b61a67a9 md5 e9bfcb2b0d2b483b93320595f4996893 sha1 ac879c5f8b0c1529bcfb4729644eb5933975a0af )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Circuits (1985)(Longman Software).tap" size 29550 crc 60e03fd9 md5 684dcd91c7ad83485344b58348b59899 sha1 3c2141056b8d371bc40ba79d0044e110c6887eb6 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Formulae (1985)(Longman Software).tap" size 17936 crc 87ad515e md5 91039337f42b66543f6793e79acab9ee sha1 e1d74160c07db027f8f8462f10405090ee06e8c0 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Light (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Light (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Light (1985)(Longman Software).tap" size 29608 crc b6170085 md5 7d3a0325eb07d2da8e983e861d705f97 sha1 bd07cdbb97e34aa808b7d615ee5cf78ba00cb665 )
+)
+
+game (
+	name "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software)"
+	description "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software)"
+	rom ( name "Physics - O-Level Revision and CSE - Machine (1985)(Longman Software).tap" size 26428 crc 0073c532 md5 f5fdf061ddffc742face3af8c9734988 sha1 0cc36c101ea84f1b8ac402679a8cb578a32b6079 )
+)
+
+game (
+	name "Physics 10 (1987)(Vision Software)(ru)"
+	description "Physics 10 (1987)(Vision Software)(ru)"
+	rom ( name "Physics 10 (1987)(Vision Software)(ru).tap" size 28903 crc d4aee4ca md5 7a8abc7ee0897431fc046dc0ee869016 sha1 c383138e63504a50080f0e8364abeff917ad1711 )
+)
+
+game (
+	name "Physics 11 (1987)(Vision Software)(ru)"
+	description "Physics 11 (1987)(Vision Software)(ru)"
+	rom ( name "Physics 11 (1987)(Vision Software)(ru).tap" size 21947 crc a67f4b73 md5 693e28adb1760d16775e8a35d4f103d1 sha1 9a599c5d4d08912440772862121baf17a65464fe )
+)
+
+game (
+	name "Study Chemistry - 13 years+ (1983)(Scisoft)"
+	description "Study Chemistry - 13 years+ (1983)(Scisoft)"
+	rom ( name "Study Chemistry - 13 years+ (1983)(Scisoft).tap" size 96161 crc ebf4413c md5 9d55c92eab5063b24d6e4e483a10fa00 sha1 dd1398c467849794b4eb7984cdb65605b4ce538d )
+)
+
+game (
+	name "Study Maths 1 - 13 years+ - Battleships (1983)(Scisoft)"
+	description "Study Maths 1 - 13 years+ - Battleships (1983)(Scisoft)"
+	rom ( name "Study Maths 1 - 13 years+ - Battleships (1983)(Scisoft).tap" size 6772 crc e8651263 md5 3dbb3876a89818d31ec8b07307056c88 sha1 a5e644bbd66162ccf0f6d01f96626c0699959b87 )
+)
+
+game (
+	name "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft)"
+	description "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft)"
+	rom ( name "Study Maths 1 - 13 years+ - Fractions (1983)(Scisoft).tap" size 7369 crc bd466519 md5 a5c50320eb0ebb52bcac9cfbee88da6d sha1 5d9cfc9c51f87992eba2803bd22d38afa9708981 )
+)
+
+game (
+	name "Study Maths 2 - 9-13 years - Estimate the Angle (1983)(Scisoft)"
+	description "Study Maths 2 - 9-13 years - Estimate the Angle (1983)(Scisoft)"
+	rom ( name "Study Maths 2 - 9-13 years - Estimate the Angle (1983)(Scisoft).tap" size 6801 crc 73e3aff7 md5 c32067f6c0db6afcf3ae8ee1ba3b1522 sha1 1b904dccd242abda01f4d14522e506f67f0e58d3 )
+)
+
+game (
+	name "Study Maths 2 - 9-13 years - Glass Design (1983)(Scisoft)"
+	description "Study Maths 2 - 9-13 years - Glass Design (1983)(Scisoft)"
+	rom ( name "Study Maths 2 - 9-13 years - Glass Design (1983)(Scisoft).tap" size 7601 crc 87f9e4e1 md5 e7f747196cfbf82ebdb2a2f1eeb4ba13 sha1 9aaa5759f225b87a377c29b2c5697891bff709fb )
+)
+
+game (
+	name "Study Maths 2 - 9-13 years - Lemonade Stand (1983)(Scisoft)"
+	description "Study Maths 2 - 9-13 years - Lemonade Stand (1983)(Scisoft)"
+	rom ( name "Study Maths 2 - 9-13 years - Lemonade Stand (1983)(Scisoft).tap" size 7712 crc cfca418b md5 afa28f275ae7bf209d1d7c2713572bbd sha1 81169d2c9a635a314451741059ab9f60afb761b7 )
+)
+
+game (
+	name "Study Maths 2 - 9-13 years - Percentages (1983)(Scisoft)"
+	description "Study Maths 2 - 9-13 years - Percentages (1983)(Scisoft)"
+	rom ( name "Study Maths 2 - 9-13 years - Percentages (1983)(Scisoft).tap" size 13730 crc 91b9ab79 md5 e61ac71a940d51ec519f2a65150d2bd7 sha1 65767348e905e9a5291451d8380a0e71a4735ab2 )
+)
+
+game (
+	name "Study Maths 2 - 9-13 years - Towers of Hanoi (1983)(Scisoft)"
+	description "Study Maths 2 - 9-13 years - Towers of Hanoi (1983)(Scisoft)"
+	rom ( name "Study Maths 2 - 9-13 years - Towers of Hanoi (1983)(Scisoft).tap" size 8281 crc 39f5636b md5 ce9cd827797fb065fd62c23ad6e5ea40 sha1 ee29caff6f5510266acc987deb92c7134f22fcf0 )
+)
+
+game (
+	name "Study Physics - 13 years+ (1983)(Scisoft)"
+	description "Study Physics - 13 years+ (1983)(Scisoft)"
+	rom ( name "Study Physics - 13 years+ (1983)(Scisoft).tap" size 112484 crc 2ee562cf md5 48dff8f7fc40bb027ae52f72af88bfb4 sha1 5cc4be1f4373a1e72d8f3ac2879d84ba423ab502 )
+)
+
+game (
+	name "Tablesums (1982)(Griffin Software)"
+	description "Tablesums (1982)(Griffin Software)"
+	rom ( name "Tablesums (1982)(Griffin Software).tap" size 14186 crc 568a8b54 md5 dc646bdb5bbefdd71032a332a4afac69 sha1 7bc5a055679cb969ff12b86a75339fb4059f433c )
+)
+

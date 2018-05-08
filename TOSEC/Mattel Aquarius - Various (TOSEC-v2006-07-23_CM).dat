@@ -1,0 +1,337 @@
+clrmamepro (
+	name "Mattel Aquarius - Various"
+	description "Mattel Aquarius - Various (TOSEC-v2006-07-23)"
+	category "Mattel Aquarius - Various"
+	version 2006-07-23
+	author "Sea7 - Cid"
+)
+
+game (
+	name "3D Battle Zone (1984)(Add On Electronics)(Tape 1 of 2)"
+	description "3D Battle Zone (1984)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "3D Battle Zone (1984)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc c814617f md5 0e7c55a973f94e06767b6077f94d18f0 )
+)
+
+game (
+	name "3D Battle Zone (1984)(Add On Electronics)(Tape 2 of 2)"
+	description "3D Battle Zone (1984)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "3D Battle Zone (1984)(Add On Electronics)(Tape 2 of 2).caq" size 8130 crc 0d180c56 md5 8f800c9b65b1b12697bd6d862f7b7fd2 )
+)
+
+game (
+	name "Advanced Dungeons & Dragons (1982)(Mattel)"
+	description "Advanced Dungeons & Dragons (1982)(Mattel)"
+	rom ( name "Advanced Dungeons & Dragons (1982)(Mattel).bin" size 16384 crc 2fe95594 md5 d0deffb195d1d3fa3a2ba9a301ff671d )
+)
+
+game (
+	name "Alien Quest (19xx)(-)(Tape 1 of 2)"
+	description "Alien Quest (19xx)(-)(Tape 1 of 2)"
+	rom ( name "Alien Quest (19xx)(-)(Tape 1 of 2).caq" size 145 crc 5dd79191 md5 c61d8afdbd58c05e71f615018ca6bced )
+)
+
+game (
+	name "Alien Quest (19xx)(-)(Tape 2 of 2)"
+	description "Alien Quest (19xx)(-)(Tape 2 of 2)"
+	rom ( name "Alien Quest (19xx)(-)(Tape 2 of 2).caq" size 1506 crc 689f7866 md5 779ffd816646399a2e2c53a84764d9d3 )
+)
+
+game (
+	name "Aliens (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Aliens (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Aliens (1983)(Add On Electronics)(Tape 1 of 2).caq" size 145 crc 223aa099 md5 9c7d503c4c7c466763e172ce79cc6113 )
+)
+
+game (
+	name "Aliens (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Aliens (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Aliens (1983)(Add On Electronics)(Tape 2 of 2).caq" size 1990 crc d9a6fbb7 md5 ff3427868e62afa0fb97f4a65c3febcc )
+)
+
+game (
+	name "Aquarius BASIC (1982)(Microsoft)"
+	description "Aquarius BASIC (1982)(Microsoft)"
+	rom ( name "Aquarius BASIC (1982)(Microsoft).bin" size 8192 crc 5cfa5b42 md5 c88469aa8d204ea2c80fbfc09df45839 )
+)
+
+game (
+	name "Aquarius Logo (1982)(Mattel)"
+	description "Aquarius Logo (1982)(Mattel)"
+	rom ( name "Aquarius Logo (1982)(Mattel).bin" size 16384 crc 0b8d198e md5 fda17bf5f2e0dc5cc78879c6ee2cfe4c )
+)
+
+game (
+	name "Astrosmash (1982)(Mattel)"
+	description "Astrosmash (1982)(Mattel)"
+	rom ( name "Astrosmash (1982)(Mattel).bin" size 16384 crc ce76c898 md5 045e9a70b1d62c0a104a9739528dd02a )
+)
+
+game (
+	name "Biorhythms (1983)(Mattel)"
+	description "Biorhythms (1983)(Mattel)"
+	rom ( name "Biorhythms (1983)(Mattel).bin" size 16384 crc 47e1c47b md5 064ce3d5a5652b4658e8b68dcb590099 )
+)
+
+game (
+	name "Bounder (1984)(Add On Electronics)(Tape 1 of 2)"
+	description "Bounder (1984)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Bounder (1984)(Add On Electronics)(Tape 1 of 2).caq" size 145 crc aa7fd815 md5 e2ee7ab0f8ad89d268f58520265e9535 )
+)
+
+game (
+	name "Bounder (1984)(Add On Electronics)(Tape 2 of 2)"
+	description "Bounder (1984)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Bounder (1984)(Add On Electronics)(Tape 2 of 2).caq" size 2786 crc 7fd21646 md5 00cfbdfd4ec2b4454d910976e2cb0614 )
+)
+
+game (
+	name "Breakout (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Breakout (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Breakout (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc ddfd4267 md5 6f1056d6a0f3a94b5665c2a38156372c )
+)
+
+game (
+	name "Breakout (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Breakout (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Breakout (1983)(Add On Electronics)(Tape 2 of 2).caq" size 5054 crc f1dc4b6e md5 1384e7161bc8ef6b20bbf7e7378c1833 )
+)
+
+game (
+	name "Chess (1982)(Mattel)(proto)"
+	description "Chess (1982)(Mattel)(proto)"
+	rom ( name "Chess (1982)(Mattel)(proto).bin" size 16384 crc 0243e59f md5 4d41df193e455d142bcf264d8360d4a0 )
+)
+
+game (
+	name "Chuckman (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Chuckman (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Chuckman (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc 3881292e md5 3c04b4ac18b49dff020763c82480bd9e )
+)
+
+game (
+	name "Chuckman (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Chuckman (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Chuckman (1983)(Add On Electronics)(Tape 2 of 2).caq" size 5878 crc 4e13945d md5 a14912d4346a19e47b4c182f1f746e13 )
+)
+
+game (
+	name "Cute Cubes (19xx)(K. Baker)(Tape 1 of 2)"
+	description "Cute Cubes (19xx)(K. Baker)(Tape 1 of 2)"
+	rom ( name "Cute Cubes (19xx)(K. Baker)(Tape 1 of 2).caq" size 145 crc 11332b7b md5 70495a7dfac656449e7bf37381d13902 )
+)
+
+game (
+	name "Cute Cubes (19xx)(K. Baker)(Tape 2 of 2)"
+	description "Cute Cubes (19xx)(K. Baker)(Tape 2 of 2)"
+	rom ( name "Cute Cubes (19xx)(K. Baker)(Tape 2 of 2).caq" size 1378 crc c06bb781 md5 73a8ca88cf4031b75849928ace8ff3c5 )
+)
+
+game (
+	name "D-Fenders (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "D-Fenders (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "D-Fenders (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc 3264697c md5 1ea9ef0da40ae75bf54738e6c9fb4b5f )
+)
+
+game (
+	name "D-Fenders (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "D-Fenders (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "D-Fenders (1983)(Add On Electronics)(Tape 2 of 2).caq" size 9754 crc e4204461 md5 cfc684340290e59da18069e43d4cb276 )
+)
+
+game (
+	name "Ed-On (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Ed-On (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Ed-On (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc 00d17c04 md5 10ee2f14f697258725a56e77dcee2ba1 )
+)
+
+game (
+	name "Ed-On (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Ed-On (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Ed-On (1983)(Add On Electronics)(Tape 2 of 2).caq" size 5674 crc 5fe187f0 md5 76f6d91417e829296a06f06e0ad0207a )
+)
+
+game (
+	name "Fileform (1982)(Mattel)"
+	description "Fileform (1982)(Mattel)"
+	rom ( name "Fileform (1982)(Mattel).bin" size 16384 crc a7d29abd md5 aae015b91357f35e3ef3cb425b157675 )
+)
+
+game (
+	name "Fileform (1982)(Mattel)[a]"
+	description "Fileform (1982)(Mattel)[a]"
+	rom ( name "Fileform (1982)(Mattel)[a].bin" size 16384 crc 366a6a5b md5 3823ba0bcae8546bf1b5f12e8e4249c1 )
+)
+
+game (
+	name "Gridbug (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Gridbug (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Gridbug (1983)(Add On Electronics)(Tape 1 of 2).caq" size 145 crc 79b51b77 md5 38364a37ec9cf3812cc191db84c08552 )
+)
+
+game (
+	name "Gridbug (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Gridbug (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Gridbug (1983)(Add On Electronics)(Tape 2 of 2).caq" size 3078 crc 912ff4fe md5 0dc09efe24019aa70e80ae894fcaf158 )
+)
+
+game (
+	name "Macho Man (19xx)(K. Baker)(Tape 1 of 2)"
+	description "Macho Man (19xx)(K. Baker)(Tape 1 of 2)"
+	rom ( name "Macho Man (19xx)(K. Baker)(Tape 1 of 2).caq" size 145 crc 218ccb45 md5 ef080bd39a8c7700f4b8d9a0243c29f4 )
+)
+
+game (
+	name "Macho Man (19xx)(K. Baker)(Tape 2 of 2)"
+	description "Macho Man (19xx)(K. Baker)(Tape 2 of 2)"
+	rom ( name "Macho Man (19xx)(K. Baker)(Tape 2 of 2).caq" size 1518 crc 0556d6bb md5 2bb1a1a44ef8269fb50d42bce78354a5 )
+)
+
+game (
+	name "Mazantics (1984)(Add On Electronics)(Tape 1 of 2)"
+	description "Mazantics (1984)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Mazantics (1984)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc bac5773c md5 72fced6097f98da5b167935521b8b097 )
+)
+
+game (
+	name "Mazantics (1984)(Add On Electronics)(Tape 2 of 2)"
+	description "Mazantics (1984)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Mazantics (1984)(Add On Electronics)(Tape 2 of 2).caq" size 11982 crc f8538136 md5 06f8a02aa7b0eacb4488c88a289313cf )
+)
+
+game (
+	name "Melody Chase (1982)(Mattel)"
+	description "Melody Chase (1982)(Mattel)"
+	rom ( name "Melody Chase (1982)(Mattel).bin" size 16384 crc 6f99dbaf md5 d671fa68b189230d41ceb48358c5819c )
+)
+
+game (
+	name "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[CAQ]"
+	description "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[CAQ]"
+	rom ( name "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[CAQ].caq" size 146 crc 2d5b7ad8 md5 5e07a9c66604a34d56b2f7a5e5e30818 )
+)
+
+game (
+	name "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[WAV]"
+	description "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[WAV]"
+	rom ( name "Millypede (1983)(Add On Electronics)(Tape 1 of 2)[WAV].wav" size 162850 crc 8e1e0241 md5 2c85d26f9ed18a0f19a4cc59d74f6ca1 )
+)
+
+game (
+	name "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[CAQ]"
+	description "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[CAQ]"
+	rom ( name "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[CAQ].caq" size 4394 crc 6423ac3c md5 d5f8f6e4b42f6541b770236e7113f07f )
+)
+
+game (
+	name "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[WAV]"
+	description "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[WAV]"
+	rom ( name "Millypede (1983)(Add On Electronics)(Tape 2 of 2)[WAV].wav" size 3614386 crc 6da838a5 md5 ecb8abd72c395df43eb07ffb0340f0bc )
+)
+
+game (
+	name "Mould (19xx)(-)(Tape 1 of 2)"
+	description "Mould (19xx)(-)(Tape 1 of 2)"
+	rom ( name "Mould (19xx)(-)(Tape 1 of 2).caq" size 145 crc 608efa0a md5 24d048489c40ca0b8bc9158032037aaa )
+)
+
+game (
+	name "Mould (19xx)(-)(Tape 2 of 2)"
+	description "Mould (19xx)(-)(Tape 2 of 2)"
+	rom ( name "Mould (19xx)(-)(Tape 2 of 2).caq" size 1502 crc 931d2378 md5 27dd881a30b0344fe624844c79aaea93 )
+)
+
+game (
+	name "N-Vaders (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "N-Vaders (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "N-Vaders (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc 1491ccf0 md5 b93b9a941b6408ddbfccfe6c893cb1f9 )
+)
+
+game (
+	name "N-Vaders (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "N-Vaders (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "N-Vaders (1983)(Add On Electronics)(Tape 2 of 2).caq" size 5254 crc 6bcaa4f8 md5 ad07373fd88a9ffb8d15d9e7ce8171f8 )
+)
+
+game (
+	name "Night Stalker (1982)(Mattel)"
+	description "Night Stalker (1982)(Mattel)"
+	rom ( name "Night Stalker (1982)(Mattel).bin" size 16384 crc 032ae514 md5 aba7a0aebf74c46f3e200b0da9d34dc0 )
+)
+
+game (
+	name "Pack Mr. (1983)(Add On Electronics)(Tape 1 of 2)"
+	description "Pack Mr. (1983)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Pack Mr. (1983)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc 7d736b60 md5 b35ad651484d873c02e305da44a98ce5 )
+)
+
+game (
+	name "Pack Mr. (1983)(Add On Electronics)(Tape 2 of 2)"
+	description "Pack Mr. (1983)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Pack Mr. (1983)(Add On Electronics)(Tape 2 of 2).caq" size 6202 crc 90d94a50 md5 04c32eb263f0ebc043307ecfa563755a )
+)
+
+game (
+	name "Postman Pot (1984)(Add On Electronics)(Tape 1 of 2)"
+	description "Postman Pot (1984)(Add On Electronics)(Tape 1 of 2)"
+	rom ( name "Postman Pot (1984)(Add On Electronics)(Tape 1 of 2).caq" size 146 crc fcba8a36 md5 ddc927031e45b892aca8a680359c03c7 )
+)
+
+game (
+	name "Postman Pot (1984)(Add On Electronics)(Tape 2 of 2)"
+	description "Postman Pot (1984)(Add On Electronics)(Tape 2 of 2)"
+	rom ( name "Postman Pot (1984)(Add On Electronics)(Tape 2 of 2).caq" size 10846 crc 5c955d42 md5 bd7c54af4677dd46c66fbe8619f7939d )
+)
+
+game (
+	name "Snafu (1982)(Mattel)"
+	description "Snafu (1982)(Mattel)"
+	rom ( name "Snafu (1982)(Mattel).bin" size 16384 crc aed0ea34 md5 be9401f863b151ee7400fb466c03be67 )
+)
+
+game (
+	name "Stalactites (1984)(K. Baker)(Tape 1 of 2)"
+	description "Stalactites (1984)(K. Baker)(Tape 1 of 2)"
+	rom ( name "Stalactites (1984)(K. Baker)(Tape 1 of 2).caq" size 145 crc a99430b3 md5 c8808b2f3ac46743fefc4e41996a8230 )
+)
+
+game (
+	name "Stalactites (1984)(K. Baker)(Tape 2 of 2)"
+	description "Stalactites (1984)(K. Baker)(Tape 2 of 2)"
+	rom ( name "Stalactites (1984)(K. Baker)(Tape 2 of 2).caq" size 1474 crc 97db4daf md5 ca8c8b13020ea367cf14204c5c0ccdb6 )
+)
+
+game (
+	name "Torment (19xx)(-)(Tape 1 of 2)"
+	description "Torment (19xx)(-)(Tape 1 of 2)"
+	rom ( name "Torment (19xx)(-)(Tape 1 of 2).caq" size 145 crc 9674f096 md5 28d2d6092dc75655c6ea4de3fbb36611 )
+)
+
+game (
+	name "Torment (19xx)(-)(Tape 2 of 2)"
+	description "Torment (19xx)(-)(Tape 2 of 2)"
+	rom ( name "Torment (19xx)(-)(Tape 2 of 2).caq" size 1382 crc 53b0fdf1 md5 edc5ec2fe08bf35d1403ed02810f9e43 )
+)
+
+game (
+	name "Tron - Deadly Discs (1982)(Mattel)"
+	description "Tron - Deadly Discs (1982)(Mattel)"
+	rom ( name "Tron - Deadly Discs (1982)(Mattel).bin" size 16384 crc 6d6ebd1d md5 1ab15854f4cd5fe275dfbb1250672f82 )
+)
+
+game (
+	name "Utopia (1982)(Mattel)"
+	description "Utopia (1982)(Mattel)"
+	rom ( name "Utopia (1982)(Mattel).bin" size 16384 crc 1fc3002e md5 ac9cb55ef156dd19165a67f81c7d4030 )
+)
+
+game (
+	name "Window (2000)(-)(PD)"
+	description "Window (2000)(-)(PD)"
+	rom ( name "Window (2000)(-)(PD).caq" size 1381 crc 469222ab md5 d54031c6db0627553676791958e8f82c )
+)
+
+game (
+	name "Zero-In (1983)(Mattel)"
+	description "Zero-In (1983)(Mattel)"
+	rom ( name "Zero-In (1983)(Mattel).bin" size 16384 crc 06241b20 md5 8cce3189525386168fa5ddd170f2de38 )
+)

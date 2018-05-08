@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Microkey Primo - Educational - [TXT]"
+	description "Microkey Primo - Educational - [TXT] (TOSEC-v2011-09-04)"
+	category "Microkey Primo - Educational - [TXT]"
+	version 2011-09-04
+	author "Gruby"
+)
+
+game (
+	name "Magyarorszag Foldrajza (198x)(-)"
+	description "Magyarorszag Foldrajza (198x)(-)"
+	rom ( name "Magyarorszag Foldrajza (198x)(-).txt" size 10789 crc c08de776 md5 971698bf0aaf08625c69bb1a316bf755 sha1 0bbe17418e7ac4da86733905f488cc701cef80ab )
+)
+

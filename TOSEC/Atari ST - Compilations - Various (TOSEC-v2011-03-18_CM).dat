@@ -1,0 +1,176 @@
+clrmamepro (
+	name "Atari ST - Compilations - Various"
+	description "Atari ST - Compilations - Various (TOSEC-v2011-03-18)"
+	category "Atari ST - Compilations - Various"
+	version 2011-03-18
+	author "jjs - Keili - dirkpitt - Laokoon - Grendel - Gucek - Leto_II - steph - Diaboł"
+)
+
+game (
+	name "ST Collection 01 (1994)(Epsilon Crew)"
+	description "ST Collection 01 (1994)(Epsilon Crew)"
+	rom ( name "ST Collection 01 (1994)(Epsilon Crew).st" size 829440 crc 9fee80a1 md5 f9442ffaad6d06f4dd2265a6eee08fcf sha1 e84426146239ff8c364d890aed586f6a84b40e9b )
+)
+
+game (
+	name "ST Collection 02 (1994)(Epsilon Crew)"
+	description "ST Collection 02 (1994)(Epsilon Crew)"
+	rom ( name "ST Collection 02 (1994)(Epsilon Crew).st" size 839680 crc 408e1f2e md5 8beefd62f8f32646d6aad246b40a7613 sha1 7e04c2e42516197202361fd6a655dd93324b3873 )
+)
+
+game (
+	name "ST Collection 03 (1994)(Epsilon Crew)"
+	description "ST Collection 03 (1994)(Epsilon Crew)"
+	rom ( name "ST Collection 03 (1994)(Epsilon Crew).st" size 839680 crc 1d3bf89f md5 d4a61bb49c70e54742e84a14e84dc1e2 sha1 4714ac8dad8df4b9cc46e5d1558428109451fac1 )
+)
+
+game (
+	name "ST Collection 04 (1994)(Epsilon Crew)"
+	description "ST Collection 04 (1994)(Epsilon Crew)"
+	rom ( name "ST Collection 04 (1994)(Epsilon Crew).st" size 839680 crc fe2b80f7 md5 94124755b5a273b70b9e16a71a29f3a4 sha1 f65941a13c033972c62642b2d4889557cc9dd230 )
+)
+
+game (
+	name "ST Collection 05 (1994)(Beast)"
+	description "ST Collection 05 (1994)(Beast)"
+	rom ( name "ST Collection 05 (1994)(Beast).st" size 839680 crc fccb05df md5 80eaf8cd9477deb5bbe5c615dd36ebf2 sha1 ba81085c68fede5e516d6bcc489166e27d7bb37f )
+)
+
+game (
+	name "ST Collection 06 (1994)(Beast)"
+	description "ST Collection 06 (1994)(Beast)"
+	rom ( name "ST Collection 06 (1994)(Beast).st" size 839680 crc 81132756 md5 75e284b7cca7f1c4472257d5c4ba1579 sha1 440405415ad51217f71a268e020eddfeac9c4c8b )
+)
+
+game (
+	name "ST Collection 07 (1994)(Beast)"
+	description "ST Collection 07 (1994)(Beast)"
+	rom ( name "ST Collection 07 (1994)(Beast).st" size 839680 crc 0ccb6917 md5 896213892ff144d98d39f36363d7c139 sha1 09b20c7c50b7b9933626bf2285f7cbdff7b78b02 )
+)
+
+game (
+	name "ST Collection 07 (1995)(Typhoon)(FW)"
+	description "ST Collection 07 (1995)(Typhoon)(FW)"
+	rom ( name "ST Collection 07 (1995)(Typhoon)(FW).st" size 839680 crc 19b86391 md5 5ee2da2e8056bccd3dc08dfa1c44751c sha1 4178466a92332525c642a045165f764a69c0e142 )
+)
+
+game (
+	name "ST Collection 07 (1995)(Typhoon)(FW)[a]"
+	description "ST Collection 07 (1995)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 07 (1995)(Typhoon)(FW)[a].st" size 839680 crc 51eccc9a md5 b90f3d4f75d889393d3cf5de17a0f20b sha1 1fc07861e46ad8a0b87b96d94f596b09c46ea585 )
+)
+
+game (
+	name "ST Collection 08 (1995)(Typhoon)(FW)[a]"
+	description "ST Collection 08 (1995)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 08 (1995)(Typhoon)(FW)[a].st" size 839680 crc 99c428cc md5 09e8665e1b223277ed6a201c64ad480e sha1 078b9369bc3aff2939c81a4a6bd10495ae953ec3 )
+)
+
+game (
+	name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)"
+	description "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)"
+	rom ( name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW).st" size 839680 crc f543dd34 md5 a6221eb7a55c4406d3aeee4f99bf4f11 sha1 8393197f2dce0b27d44358c71b5c251a47226d3e )
+)
+
+game (
+	name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a2]"
+	description "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a2]"
+	rom ( name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a2].st" size 839680 crc f097270d md5 1f86b339984c55f31306137763b62de0 sha1 c5ce67cef58a666562d0aa5d80128724b71aadfe )
+)
+
+game (
+	name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a]"
+	description "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 08 v2 (1996-01-01)(Typhoon)(FW)[a].st" size 839680 crc 60853437 md5 b2592e70e90cc9ed0b5fa16b47d8477d sha1 9136cca7b1f2e78436eb2633c3e03952e34d3cbb )
+)
+
+game (
+	name "ST Collection 09 (1996)(Typhoon)(FW)"
+	description "ST Collection 09 (1996)(Typhoon)(FW)"
+	rom ( name "ST Collection 09 (1996)(Typhoon)(FW).st" size 829440 crc d6a63755 md5 71f7d759c30d88c447665e6375787204 sha1 759caf5092ffec547c5917b15d1adac856e5431c )
+)
+
+game (
+	name "ST Collection 09 (1997)(Typhoon)(FW)[a]"
+	description "ST Collection 09 (1997)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 09 (1997)(Typhoon)(FW)[a].st" size 829440 crc 5003a32b md5 c1f55c0c841bbc8fb3dab19331986cef sha1 770d346aacc5ccf7745de954626e177ffa0ad941 )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2).st" size 819200 crc dbbe2cfc md5 7760f9656dff06ffa94c84c693f20405 sha1 ca30b45d487e4642a303b51e5fc98b258f6e1f0e )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a2]"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a2]"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a2].st" size 839680 crc ac241fc2 md5 7c7ba81f131e2c33ea652b6b0e5659f4 sha1 284424953bd8d1e09d4c3f026771d27f277afc5f )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a]"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a]"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 1 of 2)[a].st" size 839680 crc d81b18e0 md5 53abb1070ab7376c1e8f08232a933b53 sha1 1bf06ceb731c760f3a0f7292bdb7385c245921de )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2).st" size 829440 crc f1226b73 md5 de58e28b72b9867841adebd37ec1bdf4 sha1 53ba6540e94b6a2c350ef0d50361e03b36ad7c9e )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a2]"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a2]"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a2].st" size 839680 crc b6ed8d37 md5 dc19a048ca1d1c310a5df309c40e6ea0 sha1 fb22c2a035937f39f2752d09eac570a3ecc792c8 )
+)
+
+game (
+	name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a]"
+	description "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a]"
+	rom ( name "ST Collection 10 (1997)(Typhoon)(FW)(Disk 2 of 2)[a].st" size 839680 crc d610a11f md5 eee045befc9136f498bdf6bfbc14d9e7 sha1 41a98fd52d15e9e4d9871bb1f45c38c4ceeb10fd )
+)
+
+game (
+	name "ST Collection 11 (19xx)(Typhoon)(FW)"
+	description "ST Collection 11 (19xx)(Typhoon)(FW)"
+	rom ( name "ST Collection 11 (19xx)(Typhoon)(FW).st" size 839680 crc eb42abc4 md5 209bf01ec8fdad1952243ce51277ab3f sha1 8cb843fe912d62faec74e465ded1c09905494248 )
+)
+
+game (
+	name "ST Collection 11 (19xx)(Typhoon)(FW)[m KOBOLD]"
+	description "ST Collection 11 (19xx)(Typhoon)(FW)[m KOBOLD]"
+	rom ( name "ST Collection 11 (19xx)(Typhoon)(FW)[m KOBOLD].st" size 839680 crc fa60c1e6 md5 96b1986c4849d822d34d3f60482996c1 sha1 32036a481ccdb6aae134d1dc91e5c94096192a25 )
+)
+
+game (
+	name "ST Collection 12 (19xx)(Typhoon)(FW)"
+	description "ST Collection 12 (19xx)(Typhoon)(FW)"
+	rom ( name "ST Collection 12 (19xx)(Typhoon)(FW).st" size 839680 crc dab04ede md5 277d2fa4c24f6128c2de1dc58dcab091 sha1 07321ab32bd23023f95c39daebb7dcb7ba40ee62 )
+)
+
+game (
+	name "ST Collection 12 (19xx)(Typhoon)(FW)[a]"
+	description "ST Collection 12 (19xx)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 12 (19xx)(Typhoon)(FW)[a].st" size 839680 crc 3a39c482 md5 02f8ee31674c06188591e272c3380d4e sha1 3bf4229ade328a76f6dbd8d6ed065d7a81514fa1 )
+)
+
+game (
+	name "ST Collection 12 (19xx)(Typhoon)(FW)[m KOBOLD][a2]"
+	description "ST Collection 12 (19xx)(Typhoon)(FW)[m KOBOLD][a2]"
+	rom ( name "ST Collection 12 (19xx)(Typhoon)(FW)[m KOBOLD][a2].st" size 839680 crc 32f6aaf2 md5 d3f7cfb9b8c6e52c406e3e827340073f sha1 3442ec91f683d95d03f58cae839c85a9d8193008 )
+)
+
+game (
+	name "ST Collection 13 (1999)(Typhoon)(FW)"
+	description "ST Collection 13 (1999)(Typhoon)(FW)"
+	rom ( name "ST Collection 13 (1999)(Typhoon)(FW).st" size 839680 crc e5ec8663 md5 afca3fe624c9381f19067907c2735716 sha1 cc3d97ea896c23112efac7a5cd2dd95194e3a81e )
+)
+
+game (
+	name "ST Collection 13 (1999)(Typhoon)(FW)[a]"
+	description "ST Collection 13 (1999)(Typhoon)(FW)[a]"
+	rom ( name "ST Collection 13 (1999)(Typhoon)(FW)[a].st" size 839680 crc 4e49efa6 md5 7b188dcbc85d7bbf326c4b0e83266f06 sha1 57cdda0c585c992358596def981c74b9388ae501 )
+)
+

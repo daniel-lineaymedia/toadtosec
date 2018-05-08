@@ -1,0 +1,91 @@
+clrmamepro (
+	name "Jupiter Cantab Jupiter Ace - Compilations - Applications - [TAP]"
+	description "Jupiter Cantab Jupiter Ace - Compilations - Applications - [TAP] (TOSEC-v2010-06-10)"
+	category "Jupiter Cantab Jupiter Ace - Compilations - Applications - [TAP]"
+	version 2010-06-10
+	author "TKaos"
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 01 of 15)(GB)[turtle][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 01 of 15)(GB)[turtle][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 01 of 15)(GB)[turtle][19K].tap" size 6993 crc 76f6d6fa md5 a175651639d372d675002cdb0def470b )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 02 of 15)(GB)[copy][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 02 of 15)(GB)[copy][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 02 of 15)(GB)[copy][19K].tap" size 370 crc 19c0c6c4 md5 00d88ce61b32f3d4e061c74b544160e3 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 03 of 15)(GB)[lprint][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 03 of 15)(GB)[lprint][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 03 of 15)(GB)[lprint][19K].tap" size 455 crc 5183a818 md5 9b0f721106112320a43d33ec23374748 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 04 of 15)(GB)[invert][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 04 of 15)(GB)[invert][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 04 of 15)(GB)[invert][19K].tap" size 153 crc 15d5e373 md5 66c3552de5e1c4a8d71024a46fa74bc3 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 06 of 15)(GB)[wordace][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 06 of 15)(GB)[wordace][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 06 of 15)(GB)[wordace][19K].tap" size 16448 crc 4c67cba4 md5 1cfc6b4d8de0b01ccd496d703be0071a )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 07 of 15)(GB)[printline][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 07 of 15)(GB)[printline][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 07 of 15)(GB)[printline][19K].tap" size 396 crc 167c1b3a md5 245acc790fe71f7a7c53f82f3d521839 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 08 of 15)(GB)[ace-logo][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 08 of 15)(GB)[ace-logo][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 08 of 15)(GB)[ace-logo][19K].tap" size 814 crc f9282553 md5 f3ea02ac4789295d269eecaf2c323a72 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[b][charset][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[b][charset][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[b][charset][19K].tap" size 183 crc 54eb5546 md5 0d6565a5eda28bfd89280daf2ffee6a3 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 10 of 15)(GB)[printscan][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 10 of 15)(GB)[printscan][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 10 of 15)(GB)[printscan][19K].tap" size 492 crc c83f0b99 md5 80490671ae56a673ca761309e7d3d57e )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 11 of 15)(GB)[lprint-42][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 11 of 15)(GB)[lprint-42][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 11 of 15)(GB)[lprint-42][19K].tap" size 1373 crc 3f174d26 md5 26a709e47bf5507785c5010c6e35b85e )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[b][centronics][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[b][centronics][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[b][centronics][19K].tap" size 152 crc b5e91ad7 md5 0755da0a655e7988064e6558beb17d97 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 13 of 15)(GB)[rs232][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 13 of 15)(GB)[rs232][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 13 of 15)(GB)[rs232][19K].tap" size 961 crc 6d5bba35 md5 ad016c7c8460f49272da652b25cd64e0 )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 14 of 15)(GB)[soundbox][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 14 of 15)(GB)[soundbox][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 14 of 15)(GB)[soundbox][19K].tap" size 1213 crc 0da77372 md5 02068e4096511b1de3ecc4cb08b25ecc )
+)
+
+game (
+	name "Utilities (1985)(Boldfield Computing)(File 15 of 15)(GB)[bagpipes][19K]"
+	description "Utilities (1985)(Boldfield Computing)(File 15 of 15)(GB)[bagpipes][19K]"
+	rom ( name "Utilities (1985)(Boldfield Computing)(File 15 of 15)(GB)[bagpipes][19K].tap" size 394 crc 7dc04697 md5 ba7f9f4406a67958eae53a399bf38864 )
+)

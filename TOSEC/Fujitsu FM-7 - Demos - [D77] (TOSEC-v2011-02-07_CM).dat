@@ -1,0 +1,26 @@
+clrmamepro (
+	name "Fujitsu FM-7 - Demos - [D77]"
+	description "Fujitsu FM-7 - Demos - [D77] (TOSEC-v2011-02-07)"
+	category "Fujitsu FM-7 - Demos - [D77]"
+	version 2011-02-07
+	author "Aral"
+)
+
+game (
+	name "FM77AV DEMO (1985)(Fujitsu)(JP)"
+	description "FM77AV DEMO (1985)(Fujitsu)(JP)"
+	rom ( name "FM77AV DEMO (1985)(Fujitsu)(JP).d77" size 353200 crc 7046810d md5 a03b5f3c76296ef32acb37a0a19649fb sha1 116a422147107943c0d378e99923cb14cd31a13f )
+)
+
+game (
+	name "FM77AV DEMO (1985)(Fujitsu)(JP)[a]"
+	description "FM77AV DEMO (1985)(Fujitsu)(JP)[a]"
+	rom ( name "FM77AV DEMO (1985)(Fujitsu)(JP)[a].d77" size 353200 crc 58087f4a md5 261f2b1bcce86b1e3ed90f2e8b3766e1 sha1 b9099d6a250fcd4bba5e8d541efea4c839aaf18c )
+)
+
+game (
+	name "FM77AV40SX Nyumon Disk (1988)(Fujitsu)(JP)"
+	description "FM77AV40SX Nyumon Disk (1988)(Fujitsu)(JP)"
+	rom ( name "FM77AV40SX Nyumon Disk (1988)(Fujitsu)(JP).d77" size 701360 crc afae2446 md5 b83acad67468f2fcaf15bb63236b434d sha1 89fa7ee1fccdd38be3131cffe12924e4d5d65477 )
+)
+

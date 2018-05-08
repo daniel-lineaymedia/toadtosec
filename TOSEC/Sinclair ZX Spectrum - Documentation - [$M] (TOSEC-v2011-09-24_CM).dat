@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sinclair ZX Spectrum - Documentation - [$M]"
+	description "Sinclair ZX Spectrum - Documentation - [$M] (TOSEC-v2011-09-24)"
+	category "Sinclair ZX Spectrum - Documentation - [$M]"
+	version 2011-09-24
+	author "jugaor - Vaxalon - Dziuber - Cassiel"
+)
+
+game (
+	name "Anaconda Advanced Text Editor v1.32 - User's Manual (1995)(Alem)(ru)"
+	description "Anaconda Advanced Text Editor v1.32 - User's Manual (1995)(Alem)(ru)"
+	rom ( name "Anaconda Advanced Text Editor v1.32 - User's Manual (1995)(Alem)(ru).$m" size 32529 crc 6ce9751d md5 487477bfb9becd53971bc6fad6bd8162 sha1 7c41a47cae1ed6d2697539aaace3766ced9576cb )
+)
+

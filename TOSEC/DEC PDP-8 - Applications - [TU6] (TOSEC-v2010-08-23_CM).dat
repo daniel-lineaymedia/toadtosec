@@ -1,0 +1,61 @@
+clrmamepro (
+	name "DEC PDP-8 - Applications - [TU6]"
+	description "DEC PDP-8 - Applications - [TU6] (TOSEC-v2010-08-23)"
+	category "DEC PDP-8 - Applications - [TU6]"
+	version 2010-08-23
+	author "TKaos"
+)
+
+game (
+	name "EDU System 30 Basic (19xx)(-)"
+	description "EDU System 30 Basic (19xx)(-)"
+	rom ( name "EDU System 30 Basic (19xx)(-).tu6" size 380292 crc 333ba2d2 md5 c8031df9240639a583862a72b0716ba5 )
+)
+
+game (
+	name "Focal 71 & TECO Source (19xx)(DEC)(US)"
+	description "Focal 71 & TECO Source (19xx)(DEC)(US)"
+	rom ( name "Focal 71 & TECO Source (19xx)(DEC)(US).tu6" size 380292 crc 166319ac md5 3f4fe0dad9c53b41ce920390bacd2fcc )
+)
+
+game (
+	name "Focal 71 (1971)(DEC)(US)"
+	description "Focal 71 (1971)(DEC)(US)"
+	rom ( name "Focal 71 (1971)(DEC)(US).tu6" size 380292 crc 9d6e0bd6 md5 60e464a695370fa7de854283a3e716e7 )
+)
+
+game (
+	name "Focal 71 (1971)(DEC)(US)[a]"
+	description "Focal 71 (1971)(DEC)(US)[a]"
+	rom ( name "Focal 71 (1971)(DEC)(US)[a].tu6" size 380292 crc b33de678 md5 f57566983c941bfc8e7f5577ece897f9 )
+)
+
+game (
+	name "Fortran IV (1973)(DEC)(US)"
+	description "Fortran IV (1973)(DEC)(US)"
+	rom ( name "Fortran IV (1973)(DEC)(US).tu6" size 380292 crc 606a7df3 md5 6d8f6d97ed55eae152a963dd4812fc81 )
+)
+
+game (
+	name "Fortran Plotting Routines (19xx)(-)"
+	description "Fortran Plotting Routines (19xx)(-)"
+	rom ( name "Fortran Plotting Routines (19xx)(-).tu6" size 380292 crc 957caf7b md5 caf3ba967ae564152a1509e9b412dc2e )
+)
+
+game (
+	name "OMSI Basic (19xx)(Baccus, Don)"
+	description "OMSI Basic (19xx)(Baccus, Don)"
+	rom ( name "OMSI Basic (19xx)(Baccus, Don).tu6" size 380292 crc 888a0faf md5 824645dfc2ae93a334d144efe4be784e )
+)
+
+game (
+	name "OS-8 Fortran IV Plotter Routines (19xx)(-)"
+	description "OS-8 Fortran IV Plotter Routines (19xx)(-)"
+	rom ( name "OS-8 Fortran IV Plotter Routines (19xx)(-).tu6" size 380292 crc a08b4268 md5 c24897a03ea2c45f244bc33fa0952ce2 )
+)
+
+game (
+	name "Tektronix 4010 Drawing Program (19xx)(-)"
+	description "Tektronix 4010 Drawing Program (19xx)(-)"
+	rom ( name "Tektronix 4010 Drawing Program (19xx)(-).tu6" size 380292 crc 2ce367c5 md5 1d167ce551832a0d3b360f7e9fa589fe )
+)

@@ -1,0 +1,625 @@
+clrmamepro (
+	name "Commodore C16, C116 & Plus-4 - Utilities - [D64]"
+	description "Commodore C16, C116 & Plus-4 - Utilities - [D64] (TOSEC-v2010-09-19)"
+	category "Commodore C16, C116 & Plus-4 - Utilities - [D64]"
+	version 2010-09-19
+	author "TKaos - DesertWolf"
+)
+
+game (
+	name "3D Construction Kit (19xx)(Csory)(HU)(en)(FW)"
+	description "3D Construction Kit (19xx)(Csory)(HU)(en)(FW)"
+	rom ( name "3D Construction Kit (19xx)(Csory)(HU)(en)(FW).d64" size 174848 crc b8bf679b md5 fdfca37df38aff4475a41201ed8a95b9 )
+)
+
+game (
+	name "Advanced D&D Character Generator (19xx)(-)(FW)"
+	description "Advanced D&D Character Generator (19xx)(-)(FW)"
+	rom ( name "Advanced D&D Character Generator (19xx)(-)(FW).d64" size 174848 crc 31b6efeb md5 9077d6620d0bbe165bff712695341a04 )
+)
+
+game (
+	name "Adventure Building System (1993)(Methabolix)(en-hu)(FW)"
+	description "Adventure Building System (1993)(Methabolix)(en-hu)(FW)"
+	rom ( name "Adventure Building System (1993)(Methabolix)(en-hu)(FW).d64" size 174848 crc c7875f4f md5 0aba25fd7c42db970c5dcfbb146b5db1 )
+)
+
+game (
+	name "Best Writer, The (19xx)(-)"
+	description "Best Writer, The (19xx)(-)"
+	rom ( name "Best Writer, The (19xx)(-).d64" size 174848 crc 688386fe md5 e01b96459d795f3214ca40af54a54b50 )
+)
+
+game (
+	name "Botticelli (19xx)(Dottersoft)"
+	description "Botticelli (19xx)(Dottersoft)"
+	rom ( name "Botticelli (19xx)(Dottersoft).d64" size 174848 crc 26273f36 md5 2f45d65e476f2d57e64fd9f9c045bd63 )
+)
+
+game (
+	name "Calc-Plus (1984)(CBM)(US)"
+	description "Calc-Plus (1984)(CBM)(US)"
+	rom ( name "Calc-Plus (1984)(CBM)(US).d64" size 174848 crc af9c6702 md5 a38c423948be182102eecf3acf93465a )
+)
+
+game (
+	name "CEEP Utilities Disk 4AA (19xx)(-)"
+	description "CEEP Utilities Disk 4AA (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AA (19xx)(-).d64" size 174848 crc 8767e9e2 md5 d10b8574dacf014fa3cf5b2dc1b788c3 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AB (19xx)(-)"
+	description "CEEP Utilities Disk 4AB (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AB (19xx)(-).d64" size 174848 crc 04c22b83 md5 8008cdb1f5498d751a152dc431a25c87 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AC (19xx)(-)"
+	description "CEEP Utilities Disk 4AC (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AC (19xx)(-).d64" size 174848 crc 1f25ebc1 md5 b3521519c8e5d8485a7a568209a23b1b )
+)
+
+game (
+	name "CEEP Utilities Disk 4AD (19xx)(-)"
+	description "CEEP Utilities Disk 4AD (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AD (19xx)(-).d64" size 174848 crc 66564e51 md5 70e1a2e512062bcc12f5bd05d6b29a35 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AE (19xx)(-)"
+	description "CEEP Utilities Disk 4AE (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AE (19xx)(-).d64" size 174848 crc 5c404b14 md5 49887c73dfdf2d4565599baed810f1bc )
+)
+
+game (
+	name "CEEP Utilities Disk 4AF (19xx)(-)"
+	description "CEEP Utilities Disk 4AF (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AF (19xx)(-).d64" size 174848 crc 1b99a96c md5 563b601ed2b16038b2417544b33dac24 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AG (19xx)(-)"
+	description "CEEP Utilities Disk 4AG (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AG (19xx)(-).d64" size 174848 crc 9733a832 md5 6b729010101759b71c233dc8062c5ae9 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AH (19xx)(-)"
+	description "CEEP Utilities Disk 4AH (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AH (19xx)(-).d64" size 174848 crc b446bc54 md5 ebe7497f722ac619a01c1bc2b109e598 )
+)
+
+game (
+	name "CEEP Utilities Disk 4AI (19xx)(-)"
+	description "CEEP Utilities Disk 4AI (19xx)(-)"
+	rom ( name "CEEP Utilities Disk 4AI (19xx)(-).d64" size 174848 crc ef6afc70 md5 3f1c35904a5048a12cc8fccd08988ef1 )
+)
+
+game (
+	name "Cinemaster v1.0 (1994)(TCFS)(HU)(en)"
+	description "Cinemaster v1.0 (1994)(TCFS)(HU)(en)"
+	rom ( name "Cinemaster v1.0 (1994)(TCFS)(HU)(en).d64" size 174848 crc 66768029 md5 0864e48217f3254df32bc3c8b2f0a193 )
+)
+
+game (
+	name "Ciril Karakterek (19xx)(-)(HU)(FW)"
+	description "Ciril Karakterek (19xx)(-)(HU)(FW)"
+	rom ( name "Ciril Karakterek (19xx)(-)(HU)(FW).d64" size 174848 crc 1905001d md5 3d9f1259f9923240e8850d5d4790ad20 )
+)
+
+game (
+	name "Cool Tools (1995)(ACE)(FW)"
+	description "Cool Tools (1995)(ACE)(FW)"
+	rom ( name "Cool Tools (1995)(ACE)(FW).d64" size 174848 crc 1f54e05d md5 802511d28bda50c03c41506e21d04986 )
+)
+
+game (
+	name "Diagramm Creator (2006)(Eiken, Alexander)(DE)(FW)"
+	description "Diagramm Creator (2006)(Eiken, Alexander)(DE)(FW)"
+	rom ( name "Diagramm Creator (2006)(Eiken, Alexander)(DE)(FW).d64" size 174848 crc bca7f635 md5 6183c5637300826c1ef6ca255b27d892 )
+)
+
+game (
+	name "DS-Animater v1.0 (1993)(DS)(HU)(en)(FW)"
+	description "DS-Animater v1.0 (1993)(DS)(HU)(en)(FW)"
+	rom ( name "DS-Animater v1.0 (1993)(DS)(HU)(en)(FW).d64" size 174848 crc 60ea250a md5 ada436c70c40d7425d52ae71052a10e2 )
+)
+
+game (
+	name "DS-CharEditor v1.2 (1992)(DS)(HU)(en)(FW)"
+	description "DS-CharEditor v1.2 (1992)(DS)(HU)(en)(FW)"
+	rom ( name "DS-CharEditor v1.2 (1992)(DS)(HU)(en)(FW).d64" size 174848 crc 3b1f8e7f md5 8a93a8d236d0dbeacb5554aeeca402de )
+)
+
+game (
+	name "Dynamic System (1990)(CCW)(FW)"
+	description "Dynamic System (1990)(CCW)(FW)"
+	rom ( name "Dynamic System (1990)(CCW)(FW).d64" size 174848 crc 905a6cc3 md5 66ca9ed570206f764d86221abfead041 )
+)
+
+game (
+	name "File Print Expander +4 (19xx)(BushRat)(US)(PD)"
+	description "File Print Expander +4 (19xx)(BushRat)(US)(PD)"
+	rom ( name "File Print Expander +4 (19xx)(BushRat)(US)(PD).d64" size 174848 crc 289c236b md5 f805aec0b05cde02ca91360647ee09b1 )
+)
+
+game (
+	name "Financial Advisor (1984)(CBM)(US)"
+	description "Financial Advisor (1984)(CBM)(US)"
+	rom ( name "Financial Advisor (1984)(CBM)(US).d64" size 174848 crc fcbcd56a md5 ef44e4a7527391590f01931114bad43b )
+)
+
+game (
+	name "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side A)"
+	description "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side A)"
+	rom ( name "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side A).d64" size 174848 crc 3d02a348 md5 066e7683543b4e031fd27471cc5bde3f )
+)
+
+game (
+	name "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side B)"
+	description "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side B)"
+	rom ( name "General View Extended v1.1 (2006)(ULTD)(DE)(FW)(Side B).d64" size 174848 crc d8b568f3 md5 5b6c45721a7200c824e4b0c4d459b071 )
+)
+
+game (
+	name "General View v1.1 (2006)(ULTD)(DE)(FW)"
+	description "General View v1.1 (2006)(ULTD)(DE)(FW)"
+	rom ( name "General View v1.1 (2006)(ULTD)(DE)(FW).d64" size 174848 crc f0f289ac md5 120ce5aa4b1fc5b0289f5bfb2fc007ef )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side A)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side A)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side A).d64" size 174848 crc 34f812a3 md5 b3243aaa8b5a5969b3119387840f9fe8 )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side B)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side B)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 1 of 4 Side B).d64" size 174848 crc 691aea07 md5 1eae47dc168226af90348aeb6f7e7e71 )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side A)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side A)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side A).d64" size 174848 crc 3598c8ec md5 d0741ae9f623e6c08c71ab7d52d891ff )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side B)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side B)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 2 of 4 Side B).d64" size 174848 crc 1516b1d3 md5 bba9af29fc4a48e9cb79a4b17d58cb2f )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side A)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side A)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side A).d64" size 174848 crc 9fbccf64 md5 b056a073340459f055ce6ef9314b34cb )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side B)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side B)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 3 of 4 Side B).d64" size 174848 crc 8aac719b md5 0bd0c27e0f812eecfdeaa904b26bf47a )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side A)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side A)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side A).d64" size 174848 crc c12a4423 md5 3f8365ffed2c532c5519159a7ab9c2c7 )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side B)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side B)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(DE)(Disk 4 of 4 Side B).d64" size 174848 crc 9ebc0692 md5 3b388e4a3b922312aca4a8c1072117aa )
+)
+
+game (
+	name "GEOS v3.5 (1985)(CBM264 Software)(Disk 1 of 4 Side A)"
+	description "GEOS v3.5 (1985)(CBM264 Software)(Disk 1 of 4 Side A)"
+	rom ( name "GEOS v3.5 (1985)(CBM264 Software)(Disk 1 of 4 Side A).d64" size 174848 crc 6dc5edd4 md5 092d607ed45f6447b44034efcaee9694 )
+)
+
+game (
+	name "Grafix (19xx)(Crodel, A.)(DE)(FW)"
+	description "Grafix (19xx)(Crodel, A.)(DE)(FW)"
+	rom ( name "Grafix (19xx)(Crodel, A.)(DE)(FW).d64" size 174848 crc afacde18 md5 da485a3541815956d6fc2d2eac98acf8 )
+)
+
+game (
+	name "Graphics (1987)(Fire)(IT)(en)"
+	description "Graphics (1987)(Fire)(IT)(en)"
+	rom ( name "Graphics (1987)(Fire)(IT)(en).d64" size 175531 crc 7c8fc796 md5 f6392af7f6897ed341ba2be0962b0e7c )
+)
+
+game (
+	name "Graphics Master (1985)(Mr. Chip Software)(GB)"
+	description "Graphics Master (1985)(Mr. Chip Software)(GB)"
+	rom ( name "Graphics Master (1985)(Mr. Chip Software)(GB).d64" size 174848 crc 0587407a md5 cfe9aa22678360a45cf0e8942d5a1e7e )
+)
+
+game (
+	name "Ham Radio (198x)(BushRat)(US)(FW)(Side A)[o]"
+	description "Ham Radio (198x)(BushRat)(US)(FW)(Side A)[o]"
+	rom ( name "Ham Radio (198x)(BushRat)(US)(FW)(Side A)[o].d64" size 175531 crc 2ffeeb45 md5 2c3b16f18c4bb2595e1d29e5fba82734 )
+)
+
+game (
+	name "Ham Radio (198x)(BushRat)(US)(FW)(Side B)[o]"
+	description "Ham Radio (198x)(BushRat)(US)(FW)(Side B)[o]"
+	rom ( name "Ham Radio (198x)(BushRat)(US)(FW)(Side B)[o].d64" size 175531 crc b8155bf7 md5 1c8be91ce95cca2fb405ef74998bd58b )
+)
+
+game (
+	name "Higgyterm (1984)(CBM)(US)(FW)"
+	description "Higgyterm (1984)(CBM)(US)(FW)"
+	rom ( name "Higgyterm (1984)(CBM)(US)(FW).d64" size 174848 crc 8fcbce01 md5 0af90638779b2cf203d5be53231bce05 )
+)
+
+game (
+	name "I Hate You (1990-01-13)(BOM)(DE)(en)(FW)"
+	description "I Hate You (1990-01-13)(BOM)(DE)(en)(FW)"
+	rom ( name "I Hate You (1990-01-13)(BOM)(DE)(en)(FW).d64" size 174848 crc 29db2066 md5 6e283b4d0bc6ca9ef2584abc3cd6ce02 )
+)
+
+game (
+	name "Intro Boss (1989)(TEC)(FW)"
+	description "Intro Boss (1989)(TEC)(FW)"
+	rom ( name "Intro Boss (1989)(TEC)(FW).d64" size 174848 crc 2c185566 md5 30bd9a3f6f78dba971e7fbb1e9a94dd7 )
+)
+
+game (
+	name "Intro Maker (1987-12-20)(TSC)(HU)(FW)"
+	description "Intro Maker (1987-12-20)(TSC)(HU)(FW)"
+	rom ( name "Intro Maker (1987-12-20)(TSC)(HU)(FW).d64" size 174848 crc 101a1512 md5 1e89c873efa8587d05b0e76025c32c2f )
+)
+
+game (
+	name "Intro-Designer II (1990)(MOS)(DE)(en)(FW)"
+	description "Intro-Designer II (1990)(MOS)(DE)(en)(FW)"
+	rom ( name "Intro-Designer II (1990)(MOS)(DE)(en)(FW).d64" size 174848 crc da3c2b37 md5 b3b7a96f1cd5dae4fc661878a7e4dc93 )
+)
+
+game (
+	name "Kalender (2007)(-)(DE)(FW)"
+	description "Kalender (2007)(-)(DE)(FW)"
+	rom ( name "Kalender (2007)(-)(DE)(FW).d64" size 174848 crc 4511502e md5 b7e1ff684072e3bc0b080e60a3957d2d )
+)
+
+game (
+	name "Karakterszerkeszto (19xx)(-)(HU)(FW)"
+	description "Karakterszerkeszto (19xx)(-)(HU)(FW)"
+	rom ( name "Karakterszerkeszto (19xx)(-)(HU)(FW).d64" size 174848 crc de24404b md5 2715c526f5f9450651a8ad91108c7da3 )
+)
+
+game (
+	name "Logo Mutator (1990-09-22)(A-Sys)(DE)(en)(FW)"
+	description "Logo Mutator (1990-09-22)(A-Sys)(DE)(en)(FW)"
+	rom ( name "Logo Mutator (1990-09-22)(A-Sys)(DE)(en)(FW).d64" size 174848 crc a08a01e9 md5 2eeb6a232a5c5c025a00e2b36e797bdb )
+)
+
+game (
+	name "Logo Mutator v4.0 (19xx)(Beast)(HU)(en)(FW)"
+	description "Logo Mutator v4.0 (19xx)(Beast)(HU)(en)(FW)"
+	rom ( name "Logo Mutator v4.0 (19xx)(Beast)(HU)(en)(FW).d64" size 174848 crc 794409ca md5 257f13c41b32036a8ad1a220079074a6 )
+)
+
+game (
+	name "Lotus 123 v1.3 (1992)(TLC)(DE)(FW)"
+	description "Lotus 123 v1.3 (1992)(TLC)(DE)(FW)"
+	rom ( name "Lotus 123 v1.3 (1992)(TLC)(DE)(FW).d64" size 174848 crc ce192fbd md5 2816c2dde29b6d3280464e03c88604ea )
+)
+
+game (
+	name "Magic Animations Creator v2.0 (1994-07-11)(GFW)(HU)(en)(FW)"
+	description "Magic Animations Creator v2.0 (1994-07-11)(GFW)(HU)(en)(FW)"
+	rom ( name "Magic Animations Creator v2.0 (1994-07-11)(GFW)(HU)(en)(FW).d64" size 174848 crc 561da0dc md5 46869875df41b1598d6bb6870a49988b )
+)
+
+game (
+	name "Master Library (19xx)(-)(HU)(FW)"
+	description "Master Library (19xx)(-)(HU)(FW)"
+	rom ( name "Master Library (19xx)(-)(HU)(FW).d64" size 174848 crc b00b47fc md5 46f41ebb33fecfce1396c46b23a92c77 )
+)
+
+game (
+	name "Mega Assembler v5.2 (19xx)(-)"
+	description "Mega Assembler v5.2 (19xx)(-)"
+	rom ( name "Mega Assembler v5.2 (19xx)(-).d64" size 174848 crc 09df743e md5 d12f26b9ccaa40ebcb3a915cbca28c59 )
+)
+
+game (
+	name "Mega Assembler v5.3 (19xx)(-)"
+	description "Mega Assembler v5.3 (19xx)(-)"
+	rom ( name "Mega Assembler v5.3 (19xx)(-).d64" size 174848 crc a8429825 md5 911af6a8f931bdd7b31b15537a4e3cdf )
+)
+
+game (
+	name "Mega Assembler v5.4 (19xx)(-)"
+	description "Mega Assembler v5.4 (19xx)(-)"
+	rom ( name "Mega Assembler v5.4 (19xx)(-).d64" size 174848 crc 325de856 md5 3d050150e98d1e0889872b9e788768fb )
+)
+
+game (
+	name "ML Relocator+4 (1995)(BushRat)(US)"
+	description "ML Relocator+4 (1995)(BushRat)(US)"
+	rom ( name "ML Relocator+4 (1995)(BushRat)(US).d64" size 174848 crc 3a41948c md5 6296b270db34398f9e1c6fb42fe82233 )
+)
+
+game (
+	name "Molecule Editor v1.10 (1992-04-22)(Ceekay)(DE)(en)(FW)"
+	description "Molecule Editor v1.10 (1992-04-22)(Ceekay)(DE)(en)(FW)"
+	rom ( name "Molecule Editor v1.10 (1992-04-22)(Ceekay)(DE)(en)(FW).d64" size 174848 crc 50e12ac1 md5 1024249e02646c8ed65aad3e6245e0f4 )
+)
+
+game (
+	name "Multi Botticelli (19xx)(-)"
+	description "Multi Botticelli (19xx)(-)"
+	rom ( name "Multi Botticelli (19xx)(-).d64" size 174848 crc 5a3274e1 md5 baab83c737d34980e55378b40f274dc5 )
+)
+
+game (
+	name "Multicolor Editor (1989)(Meyer, Bernd)(DE)(FW)"
+	description "Multicolor Editor (1989)(Meyer, Bernd)(DE)(FW)"
+	rom ( name "Multicolor Editor (1989)(Meyer, Bernd)(DE)(FW).d64" size 174848 crc 61b2d9ab md5 1e74306515bb3a744ac2543a62d1f14f )
+)
+
+game (
+	name "Music Converters (19xx)(-)"
+	description "Music Converters (19xx)(-)"
+	rom ( name "Music Converters (19xx)(-).d64" size 174848 crc 8e1df17b md5 dd56f9c2b5b096c17e7f7c03a154d643 )
+)
+
+game (
+	name "New-ROM (1994-07)(UF)(HU)(en)"
+	description "New-ROM (1994-07)(UF)(HU)(en)"
+	rom ( name "New-ROM (1994-07)(UF)(HU)(en).d64" size 174848 crc 1bdca925 md5 3647d8bca680e7c196fd98737cd1095a )
+)
+
+game (
+	name "Pagemaker +4 PIC-Konverter (19xx)(-)(HU)(FW)"
+	description "Pagemaker +4 PIC-Konverter (19xx)(-)(HU)(FW)"
+	rom ( name "Pagemaker +4 PIC-Konverter (19xx)(-)(HU)(FW).d64" size 174848 crc d58c2b73 md5 2889dd359c43518d139596f6125445f3 )
+)
+
+game (
+	name "Pensoft C16 (19xx)(Jacobs, Rainer)(DE)"
+	description "Pensoft C16 (19xx)(Jacobs, Rainer)(DE)"
+	rom ( name "Pensoft C16 (19xx)(Jacobs, Rainer)(DE).d64" size 174848 crc 07a4ae71 md5 af1b0806d352e9a57bd1eb73178c01dc )
+)
+
+game (
+	name "Picture 3.5 (1990)(Severin, Carsten)(DE)(FW)"
+	description "Picture 3.5 (1990)(Severin, Carsten)(DE)(FW)"
+	rom ( name "Picture 3.5 (1990)(Severin, Carsten)(DE)(FW).d64" size 174848 crc d0c66f86 md5 70f09f638247def8b3b33c3c909e274c )
+)
+
+game (
+	name "Platine +4 (1989)(Crown)(HU)(en)(FW)"
+	description "Platine +4 (1989)(Crown)(HU)(en)(FW)"
+	rom ( name "Platine +4 (1989)(Crown)(HU)(en)(FW).d64" size 174848 crc 7259be21 md5 2b14de4e38dfa28e91b7bd062025d9a0 )
+)
+
+game (
+	name "Plus-4 Online (1994)(SYN)(DE)(FW)"
+	description "Plus-4 Online (1994)(SYN)(DE)(FW)"
+	rom ( name "Plus-4 Online (1994)(SYN)(DE)(FW).d64" size 174848 crc 1b425018 md5 a500845cd8d2ad7dab3e3532c004e81d )
+)
+
+game (
+	name "Plus-Extra (2002)(FIRE)(IT)(en)(FW)[f SVS]"
+	description "Plus-Extra (2002)(FIRE)(IT)(en)(FW)[f SVS]"
+	rom ( name "Plus-Extra (2002)(FIRE)(IT)(en)(FW)[f SVS].d64" size 174848 crc c55a7fd5 md5 64642b445020f51d6dc53de6aabb9d8c )
+)
+
+game (
+	name "Port Backup (19xx)(TomHX)(HU)(en)(FW)"
+	description "Port Backup (19xx)(TomHX)(HU)(en)(FW)"
+	rom ( name "Port Backup (19xx)(TomHX)(HU)(en)(FW).d64" size 174848 crc 21cce50e md5 4ca0d1eddd86b332c8625b2a71dcf242 )
+)
+
+game (
+	name "Prosort+ (1989)(Bubu-Soft)(HU)(FW)[o]"
+	description "Prosort+ (1989)(Bubu-Soft)(HU)(FW)[o]"
+	rom ( name "Prosort+ (1989)(Bubu-Soft)(HU)(FW)[o].d64" size 175531 crc ae453400 md5 8d458a5cd7895c2da2f4368b37cfd3e2 )
+)
+
+game (
+	name "Psyclone (19xx)(Intellect Software)(GB)[b]"
+	description "Psyclone (19xx)(Intellect Software)(GB)[b]"
+	rom ( name "Psyclone (19xx)(Intellect Software)(GB)[b].d64" size 174848 crc 6cc6eb25 md5 f524d4db4e326a0535403d8137c99148 )
+)
+
+game (
+	name "Rastermaker (1990)(Xerox)(DE)(en)(FW)"
+	description "Rastermaker (1990)(Xerox)(DE)(en)(FW)"
+	rom ( name "Rastermaker (1990)(Xerox)(DE)(en)(FW).d64" size 174848 crc 1ce6cf26 md5 450eceb7ec64c575355945cb9da9739a )
+)
+
+game (
+	name "Rastermaker (1990)(Xerox)(DE)(en)(FW)[a]"
+	description "Rastermaker (1990)(Xerox)(DE)(en)(FW)[a]"
+	rom ( name "Rastermaker (1990)(Xerox)(DE)(en)(FW)[a].d64" size 174848 crc 27a0dafe md5 50f4a7267c220dc1aa210aff6fc22431 )
+)
+
+game (
+	name "ROM Control Plusz (19xx)(Commodore Ujsag)[b]"
+	description "ROM Control Plusz (19xx)(Commodore Ujsag)[b]"
+	rom ( name "ROM Control Plusz (19xx)(Commodore Ujsag)[b].d64" size 174848 crc bf7a8fb8 md5 8f3d1ffb23bc2e5b4a2da14ec664e7cf )
+)
+
+game (
+	name "Russisch Kurs (1988)(Holli Soft)(DE)(FW)"
+	description "Russisch Kurs (1988)(Holli Soft)(DE)(FW)"
+	rom ( name "Russisch Kurs (1988)(Holli Soft)(DE)(FW).d64" size 174848 crc 8d432e2a md5 07eb84f906d23b00302d7e0ef9f81bf3 )
+)
+
+game (
+	name "Seq-Filereader (19xx)(-)(FW)"
+	description "Seq-Filereader (19xx)(-)(FW)"
+	rom ( name "Seq-Filereader (19xx)(-)(FW).d64" size 174848 crc 9674cd99 md5 9a9754f111066e9eb954d069e0750078 )
+)
+
+game (
+	name "Setview (1992)(Charon)(DE)(en)(FW)"
+	description "Setview (1992)(Charon)(DE)(en)(FW)"
+	rom ( name "Setview (1992)(Charon)(DE)(en)(FW).d64" size 174848 crc 5958a53d md5 3c5fb1b2a297009be85f96a4767a6884 )
+)
+
+game (
+	name "Setworld (19xx)(TIT)(HU)(en)(FW)"
+	description "Setworld (19xx)(TIT)(HU)(en)(FW)"
+	rom ( name "Setworld (19xx)(TIT)(HU)(en)(FW).d64" size 174848 crc db8116b3 md5 dac397a1cac16f645a8a2f7f5228ab1a )
+)
+
+game (
+	name "SIDwinder v0.123 (2000)(-)"
+	description "SIDwinder v0.123 (2000)(-)"
+	rom ( name "SIDwinder v0.123 (2000)(-).d64" size 174848 crc 8b06c058 md5 65852c374cc28af12355277a37d572dc )
+)
+
+game (
+	name "Soft 80 (1987)(Kingsoft)(DE)"
+	description "Soft 80 (1987)(Kingsoft)(DE)"
+	rom ( name "Soft 80 (1987)(Kingsoft)(DE).d64" size 174848 crc 2ffb6f52 md5 463addc805716b88eebc1da8b0efa35c )
+)
+
+game (
+	name "Super Sprite (1986)(Wizard Software)(NTSC)(GB)"
+	description "Super Sprite (1986)(Wizard Software)(NTSC)(GB)"
+	rom ( name "Super Sprite (1986)(Wizard Software)(NTSC)(GB).d64" size 174848 crc 9e6c0d3b md5 232d376b682ebf7269f8e80a8528f457 )
+)
+
+game (
+	name "Super Sprite (1986)(Wizard Software)(PAL)(GB)"
+	description "Super Sprite (1986)(Wizard Software)(PAL)(GB)"
+	rom ( name "Super Sprite (1986)(Wizard Software)(PAL)(GB).d64" size 174848 crc 4167d96f md5 b1d3fdab4c674617e8cc166b17d2b5e8 )
+)
+
+game (
+	name "SVS Macroassembler v46d (19xx)(V.Zenari)"
+	description "SVS Macroassembler v46d (19xx)(V.Zenari)"
+	rom ( name "SVS Macroassembler v46d (19xx)(V.Zenari).d64" size 174848 crc 5dfc471b md5 05f6d02f35b2310913284980b60e58ae )
+)
+
+game (
+	name "SVS Macroassembler v46e-pc (19xx)(V.Zenari)"
+	description "SVS Macroassembler v46e-pc (19xx)(V.Zenari)"
+	rom ( name "SVS Macroassembler v46e-pc (19xx)(V.Zenari).d64" size 174848 crc 827311c7 md5 778d9857e6409828288f9f773741b101 )
+)
+
+game (
+	name "SVS-OS (1990)(FIRE)(IT)(en)(FW)"
+	description "SVS-OS (1990)(FIRE)(IT)(en)(FW)"
+	rom ( name "SVS-OS (1990)(FIRE)(IT)(en)(FW).d64" size 174848 crc 2c69af8c md5 16f8ffb9edf5118979d5ef9c1b1fdcdd )
+)
+
+game (
+	name "System-8 (1988)(Blue Ribbon)(GB)"
+	description "System-8 (1988)(Blue Ribbon)(GB)"
+	rom ( name "System-8 (1988)(Blue Ribbon)(GB).d64" size 174848 crc d89b36d2 md5 3e8ade3411d7fcc1c03d67382a3676ad )
+)
+
+game (
+	name "Tiny Eprommer v2.0 (19xx)(-)(DE)"
+	description "Tiny Eprommer v2.0 (19xx)(-)(DE)"
+	rom ( name "Tiny Eprommer v2.0 (19xx)(-)(DE).d64" size 174848 crc 8dd0061b md5 f9e1c7d0d32c6d3f2ee4e7987ae06e7e )
+)
+
+game (
+	name "Titler v0.85e (2002-12-15)(SVS)(IT)(en)(FW)"
+	description "Titler v0.85e (2002-12-15)(SVS)(IT)(en)(FW)"
+	rom ( name "Titler v0.85e (2002-12-15)(SVS)(IT)(en)(FW).d64" size 174848 crc a7419514 md5 3ae0a390e17587c1c753764b1930eae3 )
+)
+
+game (
+	name "Toolkit v5 (1996)(BushRat)(US)(FW)"
+	description "Toolkit v5 (1996)(BushRat)(US)(FW)"
+	rom ( name "Toolkit v5 (1996)(BushRat)(US)(FW).d64" size 174848 crc fcc8f6c1 md5 cdb4936d174f17b9884bed82e5b2d6b8 )
+)
+
+game (
+	name "Turbo Koala - GG Viever v3 (1996)(BushRat)(US)(FW)"
+	description "Turbo Koala - GG Viever v3 (1996)(BushRat)(US)(FW)"
+	rom ( name "Turbo Koala - GG Viever v3 (1996)(BushRat)(US)(FW).d64" size 174848 crc 41ca6629 md5 29ec2625bf4db77abc22c2fefedb9c99 )
+)
+
+game (
+	name "Turf-Form (1988)(Blue Ribbon)(GB)"
+	description "Turf-Form (1988)(Blue Ribbon)(GB)"
+	rom ( name "Turf-Form (1988)(Blue Ribbon)(GB).d64" size 174848 crc 04fb8af4 md5 e7bd1ccedd3524f5ebf3117de83eefe9 )
+)
+
+game (
+	name "Valve Controller (1993)(TCFS)(HU)(en)(FW)"
+	description "Valve Controller (1993)(TCFS)(HU)(en)(FW)"
+	rom ( name "Valve Controller (1993)(TCFS)(HU)(en)(FW).d64" size 174848 crc 3eee3510 md5 f62d00fc48cca477157cda6c0750bfd9 )
+)
+
+game (
+	name "Videodigi Service (1988)(-)(DE)"
+	description "Videodigi Service (1988)(-)(DE)"
+	rom ( name "Videodigi Service (1988)(-)(DE).d64" size 175531 crc 7616bb08 md5 e8655b60b0ab51fd8ff665262735f2dd )
+)
+
+game (
+	name "Video-Titelgenerator v1.0 (1992-06-22)(Protector)(DE)(FW)"
+	description "Video-Titelgenerator v1.0 (1992-06-22)(Protector)(DE)(FW)"
+	rom ( name "Video-Titelgenerator v1.0 (1992-06-22)(Protector)(DE)(FW).d64" size 174848 crc b85681e0 md5 24f5b3b532f53705087994c21fe09c00 )
+)
+
+game (
+	name "W.I.S.P. (1987)(Wizard Software)(GB)"
+	description "W.I.S.P. (1987)(Wizard Software)(GB)"
+	rom ( name "W.I.S.P. (1987)(Wizard Software)(GB).d64" size 174848 crc 44c64e29 md5 998962b043bc58e6a8bee03df1e9bf6c )
+)
+
+game (
+	name "Wanted (1990)(LBM)(HU)(en)(FW)"
+	description "Wanted (1990)(LBM)(HU)(en)(FW)"
+	rom ( name "Wanted (1990)(LBM)(HU)(en)(FW).d64" size 174848 crc 18a0eda3 md5 a54d56b7f8d2cc25eb34415329478741 )
+)
+
+game (
+	name "WB v1.6 (1993)(Teeling, A.)(NL)(en)(FW)"
+	description "WB v1.6 (1993)(Teeling, A.)(NL)(en)(FW)"
+	rom ( name "WB v1.6 (1993)(Teeling, A.)(NL)(en)(FW).d64" size 174848 crc dfe31a27 md5 98dd9b7c7d040c8592c7254e18c3234b )
+)
+
+game (
+	name "Window Wizard (19xx)(-)(FW)"
+	description "Window Wizard (19xx)(-)(FW)"
+	rom ( name "Window Wizard (19xx)(-)(FW).d64" size 174848 crc 3843de6d md5 dcb43bc833901212397360784e2bc701 )
+)
+
+game (
+	name "Windows +4 v1.1 (1994-05-22)(Foti, Nicola)(IT)(FW)"
+	description "Windows +4 v1.1 (1994-05-22)(Foti, Nicola)(IT)(FW)"
+	rom ( name "Windows +4 v1.1 (1994-05-22)(Foti, Nicola)(IT)(FW).d64" size 174848 crc adf812e1 md5 8c227a53f9eec912104af0db26ec0caa )
+)
+
+game (
+	name "Windows +4 v2.1 (1994)(Foti, Nicola)(IT)(en)(FW)"
+	description "Windows +4 v2.1 (1994)(Foti, Nicola)(IT)(en)(FW)"
+	rom ( name "Windows +4 v2.1 (1994)(Foti, Nicola)(IT)(en)(FW).d64" size 174848 crc 323f1157 md5 6121aae0e09437ecc22b57ddfbf6b0dc )
+)
+
+game (
+	name "Windows Wizard (19xx)(-)(DE)(FW)"
+	description "Windows Wizard (19xx)(-)(DE)(FW)"
+	rom ( name "Windows Wizard (19xx)(-)(DE)(FW).d64" size 174848 crc e8018c42 md5 c590265f40b6891a3e959a0214004245 )
+)
+
+game (
+	name "Young Picasso (1986)(PolSoft)"
+	description "Young Picasso (1986)(PolSoft)"
+	rom ( name "Young Picasso (1986)(PolSoft).d64" size 174848 crc 8fb25a1b md5 d033172e2d5dc5074f1c6145e41f64ce )
+)
+
+game (
+	name "ZX Graph (2006-06)(Rademacher, Thomas)(DE)(FW)"
+	description "ZX Graph (2006-06)(Rademacher, Thomas)(DE)(FW)"
+	rom ( name "ZX Graph (2006-06)(Rademacher, Thomas)(DE)(FW).d64" size 174848 crc 6c9585a1 md5 eae0eccee49cc3a18125cbd2410822ee )
+)

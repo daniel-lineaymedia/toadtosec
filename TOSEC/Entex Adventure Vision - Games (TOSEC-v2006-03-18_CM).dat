@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Entex Adventure Vision - Games"
+	description "Entex Adventure Vision - Games (TOSEC-v2006-03-18)"
+	category "Entex Adventure Vision - Games"
+	version 2006-03-18
+	author "Grendel"
+)
+
+game (
+	name "Defender (1982)(Entex Industries)[release number 6075]"
+	description "Defender (1982)(Entex Industries)[release number 6075]"
+	rom ( name "Defender (1982)(Entex Industries)[release number 6075].bin" size 4096 crc 3e280096 md5 24fa782ff3e76241c4862481802e5347 )
+)
+
+game (
+	name "Space Force (1982)(Entex Industries)[release number 6078]"
+	description "Space Force (1982)(Entex Industries)[release number 6078]"
+	rom ( name "Space Force (1982)(Entex Industries)[release number 6078].bin" size 4096 crc c70d4028 md5 a991ce001b95c2c3455a8b2b30a47f61 )
+)
+
+game (
+	name "Super Cobra (1982)(Entex Industries)[release number 6077]"
+	description "Super Cobra (1982)(Entex Industries)[release number 6077]"
+	rom ( name "Super Cobra (1982)(Entex Industries)[release number 6077].bin" size 4096 crc b6045c9e md5 42acae1f1005044cc912853bf729331c )
+)
+
+game (
+	name "Turtles (1982)(Entex Industries)[release number 6076]"
+	description "Turtles (1982)(Entex Industries)[release number 6076]"
+	rom ( name "Turtles (1982)(Entex Industries)[release number 6076].bin" size 4096 crc 33a23eba md5 3e7a1ce7b7d69fecd67792a375864759 )
+)

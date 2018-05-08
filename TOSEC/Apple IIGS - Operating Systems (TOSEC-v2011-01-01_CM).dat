@@ -1,0 +1,157 @@
+clrmamepro (
+	name "Apple IIGS - Operating Systems"
+	description "Apple IIGS - Operating Systems (TOSEC-v2011-01-01)"
+	category "Apple IIGS - Operating Systems"
+	version 2011-01-01
+	author "TKaos"
+)
+
+game (
+	name "System 1.0 (1986)(Apple)(FW)"
+	description "System 1.0 (1986)(Apple)(FW)"
+	rom ( name "System 1.0 (1986)(Apple)(FW).2mg" size 819264 crc d33392ed md5 dfbdab8b2aa517e736d9da77b041635e )
+)
+
+game (
+	name "System 1.1 (1986)(Apple)(FR)(FW)"
+	description "System 1.1 (1986)(Apple)(FR)(FW)"
+	rom ( name "System 1.1 (1986)(Apple)(FR)(FW).2mg" size 819264 crc a91a21f4 md5 20b4767b069fb862167be50dd68550c9 )
+)
+
+game (
+	name "System 3.2 (1987)(Apple)(FW)[ProDOS 1.3]"
+	description "System 3.2 (1987)(Apple)(FW)[ProDOS 1.3]"
+	rom ( name "System 3.2 (1987)(Apple)(FW)[ProDOS 1.3].2mg" size 819264 crc fda7e642 md5 46e68f2cf42a534a090db249bd050265 )
+)
+
+game (
+	name "System 3.2 (1987)(Apple)(FW)[ProDOS 1.6]"
+	description "System 3.2 (1987)(Apple)(FW)[ProDOS 1.6]"
+	rom ( name "System 3.2 (1987)(Apple)(FW)[ProDOS 1.6].2mg" size 819264 crc 95a27f91 md5 28fcf6862a914a04a980223379f658f4 )
+)
+
+game (
+	name "System 4 (1988)(Apple)(FW)(Disk 1 of 2)"
+	description "System 4 (1988)(Apple)(FW)(Disk 1 of 2)"
+	rom ( name "System 4 (1988)(Apple)(FW)(Disk 1 of 2).2mg" size 819264 crc 3f368d53 md5 acbc92970e40edddc0600e65589e878d )
+)
+
+game (
+	name "System 4 (1988)(Apple)(FW)(Disk 2 of 2)"
+	description "System 4 (1988)(Apple)(FW)(Disk 2 of 2)"
+	rom ( name "System 4 (1988)(Apple)(FW)(Disk 2 of 2).2mg" size 819264 crc 995c0962 md5 1a5cab5042775b12865227b40da4dfb0 )
+)
+
+game (
+	name "System 5.0.4 (1989)(Apple)(FW)(Disk 1 of 2)"
+	description "System 5.0.4 (1989)(Apple)(FW)(Disk 1 of 2)"
+	rom ( name "System 5.0.4 (1989)(Apple)(FW)(Disk 1 of 2).2mg" size 819264 crc bf9c1b30 md5 ca182aa8256d1763d4c34c6467c5f853 )
+)
+
+game (
+	name "System 5.0.4 (1989)(Apple)(FW)(Disk 2 of 2)"
+	description "System 5.0.4 (1989)(Apple)(FW)(Disk 2 of 2)"
+	rom ( name "System 5.0.4 (1989)(Apple)(FW)(Disk 2 of 2).2mg" size 819264 crc 706977e5 md5 ac8e33f381447675f5c72815f71cc007 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install).2mg" size 819264 crc e13be8fb md5 0109d84d0ea41e7b605da931b5e19118 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a].2mg" size 819264 crc 58efe574 md5 dd9e98f10e631e5b94153ec479ceea7e )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a2]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a2]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 1 of 7)(Install)[a2].2mg" size 819264 crc 75b785ed md5 10ddcbfaa763c313163b05ad452de020 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System).2mg" size 819264 crc cbb76cfb md5 1fdbd3332d3f33f35319c11ef6b02040 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a].2mg" size 819264 crc 80656b68 md5 c555a202102d15e786a5d42b2f5be72c )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a2]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a2]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 2 of 7)(System)[a2].2mg" size 819264 crc b22ca59e md5 7f5598ab6343e3ced04baef6dfba040a )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1).2mg" size 819264 crc 76c23587 md5 210dbe7f6ce2ae921f9f425420a542ca )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 3 of 7)(System Tools 1)[a].2mg" size 819264 crc ade9da4f md5 7607a02a924154bc348c4cd5ae87f0e3 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2).2mg" size 819264 crc 8a167659 md5 3900bd209828ab4b556a85403e555a54 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 4 of 7)(System Tools 2)[a].2mg" size 819264 crc 513d9991 md5 30c7ca12c2acd2f9cc4ce88025211df7 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts).2mg" size 819264 crc c4640432 md5 20b71f157851a53695b89814a4a77102 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 5 of 7)(Fonts)[a].2mg" size 819264 crc 1f4febfa md5 70dc6e8d78a21bbe41a3bd7a5d699f0b )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab).2mg" size 819264 crc 0696791c md5 a38e00ad5af9a822918dea6589cee27c )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 6 of 7)(Synth Lab)[a].2mg" size 819264 crc ddbd96d4 md5 8253294f0a2fbbe615239f0be56d5258 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup)"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup)"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup).2mg" size 819264 crc 2ddf1af3 md5 d3fba201fcd2a4acf34ee059dff4d4a5 )
+)
+
+game (
+	name "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup)[a]"
+	description "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup)[a]"
+	rom ( name "System 6.0.1 (1993)(Apple)(FW)(Disk 7 of 7)(Apple II Setup)[a].2mg" size 819264 crc f6f4f53b md5 9c5a7a2aeea05e1e57e07f1c4bef67a6 )
+)
+
+game (
+	name "System Software 6.0.1 Harddisk (1989)(Apple)"
+	description "System Software 6.0.1 Harddisk (1989)(Apple)"
+	rom ( name "System Software 6.0.1 Harddisk (1989)(Apple).2mg" size 33553496 crc a1a177e8 md5 6433411e38d8360420fe9a2ef3e1654c )
+)

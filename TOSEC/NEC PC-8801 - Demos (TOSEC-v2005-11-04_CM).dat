@@ -1,0 +1,49 @@
+clrmamepro (
+	name "NEC PC-8801 - Demos"
+	description "NEC PC-8801 - Demos (TOSEC-v2005-11-04)"
+	category "NEC PC-8801 - Demos"
+	version 2005-11-04
+	author "Cassiel"
+)
+
+game (
+	name "NEC PC-8801FA Demo (19xx)(NEC)"
+	description "NEC PC-8801FA Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801FA Demo (19xx)(NEC).d88" size 353200 crc be472298 md5 b36059c4847875d352269396ef30f33d )
+)
+
+game (
+	name "NEC PC-8801FE Demo (19xx)(NEC)"
+	description "NEC PC-8801FE Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801FE Demo (19xx)(NEC).d88" size 353200 crc 2c4f36d8 md5 5024b3f19c51a95e9d47ab6b1a8c1059 )
+)
+
+game (
+	name "NEC PC-8801FH Demo (19xx)(NEC)"
+	description "NEC PC-8801FH Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801FH Demo (19xx)(NEC).d88" size 353200 crc a6e68230 md5 c734e41bc9f3b298908635b32c61aba3 )
+)
+
+game (
+	name "NEC PC-8801MA Demo (19xx)(NEC)"
+	description "NEC PC-8801MA Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801MA Demo (19xx)(NEC).d88" size 1128880 crc 0c9a907e md5 96c2bb9d4b4a04f57da7844b061ecf28 )
+)
+
+game (
+	name "NEC PC-8801mkIIFR Demo (19xx)(NEC)"
+	description "NEC PC-8801mkIIFR Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801mkIIFR Demo (19xx)(NEC).d88" size 353200 crc 0dcde62d md5 faf22a4a188284d445b1625ad38be024 )
+)
+
+game (
+	name "NEC PC-8801mkIIMR Demo (19xx)(NEC)"
+	description "NEC PC-8801mkIIMR Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801mkIIMR Demo (19xx)(NEC).d88" size 1128880 crc 31224a6b md5 bad15716d460bb32d4d441c8b2986f11 )
+)
+
+game (
+	name "NEC PC-8801mkIITR Demo (19xx)(NEC)"
+	description "NEC PC-8801mkIITR Demo (19xx)(NEC)"
+	rom ( name "NEC PC-8801mkIITR Demo (19xx)(NEC).d88" size 348848 crc e3bda1c9 md5 faf2da6ddbc5d7eb914cec9184fca80f )
+)

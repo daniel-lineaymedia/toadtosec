@@ -1,0 +1,20 @@
+clrmamepro (
+	name "Commodore C64 - Docs - [T64]"
+	description "Commodore C64 - Docs - [T64] (TOSEC-v2012-01-12)"
+	category "Commodore C64 - Docs - [T64]"
+	version 2012-01-12
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Denaris Note (19xx)(Hotline)"
+	description "Denaris Note (19xx)(Hotline)"
+	rom ( name "Denaris Note (19xx)(Hotline).t64" size 356 crc 25178bdf md5 324b06ddb42e7835ded6c634dfb7735b sha1 e96c9d3dbb26add6c958389158f8ffd9e2ec086d )
+)
+
+game (
+	name "Quedex Writer Instructions (1987)(Fairlight)"
+	description "Quedex Writer Instructions (1987)(Fairlight)"
+	rom ( name "Quedex Writer Instructions (1987)(Fairlight).t64" size 11662 crc cd0bf761 md5 a2cfeda82c27fc257f47ace6bd7150db sha1 cd1e921d108a4760dc4ed290bf28bda9ca13d052 )
+)
+

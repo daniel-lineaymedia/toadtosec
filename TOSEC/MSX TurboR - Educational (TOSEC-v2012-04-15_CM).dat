@@ -1,0 +1,14 @@
+clrmamepro (
+	name "MSX TurboR - Educational"
+	description "MSX TurboR - Educational (TOSEC-v2012-04-15)"
+	category "MSX TurboR - Educational"
+	version 2012-04-15
+	author "XakMSX - VG8020 - jugaor - cbeard - TKaos"
+)
+
+game (
+	name "Frage II, Die (199x)(Studio Sequence)(JP)[b]"
+	description "Frage II, Die (199x)(Studio Sequence)(JP)[b]"
+	rom ( name "Frage II, Die (199x)(Studio Sequence)(JP)[b].dsk" size 737280 crc 6d749b83 md5 cd8c7bf370ac25b2ad674df998401ce0 sha1 3da39ec846c109fbd74476efa3f9a349a85081b0 )
+)
+

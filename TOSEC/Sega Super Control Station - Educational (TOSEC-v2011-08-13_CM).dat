@@ -1,0 +1,14 @@
+clrmamepro (
+	name "Sega Super Control Station - Educational"
+	description "Sega Super Control Station - Educational (TOSEC-v2011-08-13)"
+	category "Sega Super Control Station - Educational"
+	version 2011-08-13
+	author "Cassiel"
+)
+
+game (
+	name "Jeux educatifs Collection (19xx)(Le Douarain, Marc)(fr)"
+	description "Jeux educatifs Collection (19xx)(Le Douarain, Marc)(fr)"
+	rom ( name "Jeux educatifs Collection (19xx)(Le Douarain, Marc)(fr).bin" size 163840 crc 3afbcb9c md5 6868dd5143a68d18a362057adae67dbd sha1 3cd6d69318fb9a3b8ebccf41436175137794dd29 )
+)
+

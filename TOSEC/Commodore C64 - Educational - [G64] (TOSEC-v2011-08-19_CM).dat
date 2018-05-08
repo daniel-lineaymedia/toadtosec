@@ -1,0 +1,31 @@
+clrmamepro (
+	name "Commodore C64 - Educational - [G64]"
+	description "Commodore C64 - Educational - [G64] (TOSEC-v2011-08-19)"
+	category "Commodore C64 - Educational - [G64]"
+	version 2011-08-19
+	author "Duncan Twain - DesertWolf"
+)
+
+game (
+	name "Etudes Francaises - Echanges II (1988)(Heureka-Teachware)(de)"
+	description "Etudes Francaises - Echanges II (1988)(Heureka-Teachware)(de)"
+	rom ( name "Etudes Francaises - Echanges II (1988)(Heureka-Teachware)(de).g64" size 333744 crc 38f23f8a md5 b7e01f74322dc201781fceedbe67afe5 sha1 50c60881e6570ee660f39a4bcff3f399a72452f8 )
+)
+
+game (
+	name "Learning English - Green Line IV (1989)(Heureka-Teachware)(de)"
+	description "Learning English - Green Line IV (1989)(Heureka-Teachware)(de)"
+	rom ( name "Learning English - Green Line IV (1989)(Heureka-Teachware)(de).g64" size 333744 crc 56080304 md5 0a65459d90ab9d32627c44fd43155de6 sha1 4f245d118741f91aeba532a25cf8da63deb011be )
+)
+
+game (
+	name "Learning English - Orange Line II (1989)(Heureka-Teachware)(de)[cr Master]"
+	description "Learning English - Orange Line II (1989)(Heureka-Teachware)(de)[cr Master]"
+	rom ( name "Learning English - Orange Line II (1989)(Heureka-Teachware)(de)[cr Master].g64" size 333744 crc aa8542c8 md5 eddabc0cc7437ce6f28638d9a6916fe6 sha1 5b653ccf25a171af04cdfef7b0f1004e4e171605 )
+)
+
+game (
+	name "Reader Rabbit and the Fabulous Word Factory v1.2 (1984)(The Learning Company)"
+	description "Reader Rabbit and the Fabulous Word Factory v1.2 (1984)(The Learning Company)"
+	rom ( name "Reader Rabbit and the Fabulous Word Factory v1.2 (1984)(The Learning Company).g64" size 333744 crc 1b5ca8b2 md5 f257e7b28692316d646ce9585f34ed2c sha1 18faa054a4bac1dc1dc8f755c82ab340a33ad2e5 )
+)
